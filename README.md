@@ -30,4 +30,4 @@ This repository and its contents are not officially affiliated with the creators
 While I am the primary maintainer of this repository, contributions, suggestions, and feedback are welcome. Whether it's proposing data format improvements, reporting issues, or suggesting new data tools, your input helps enhance the utility of this resource for the entire Hades Star community.
 
 ## Contact
-For questions or support regarding this repository, please [open an issue](https://github.com/CapricanDRJ/hsrankings/issues) on GitHub. Your feedback is valuable in making this resource better for everyone.
+For questions or support regarding this repository, please [open an issue](https://github.com/CapricanDRJ/HadesStarCommunityData/issues) on GitHub. Your feedback is valuable in making this resource better for everyone.
