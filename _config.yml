@@ -1,6 +1,6 @@
 title: Hades' Star Elo Rankings
 description: A detailed scoreboard of top corporations based on Elo ratings
-theme: jekyll-theme-minima
+theme: jekyll-theme-midnight
 markdown: kramdown
 permalink: pretty
 
@@ -31,11 +31,11 @@ kramdown:
     block:
       line_numbers: true
 
-# Custom navigation bar
+# Navigation links
 nav:
   - name: Home
     link: /
   - name: Top 100 Elo Ratings
-    link: /top100
+    link: /top100.md
   - name: Top 100 Competitive Elo Ratings
-    link: /comp100
+    link: /comp100.md
