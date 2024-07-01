@@ -16,7 +16,7 @@ permalink: /comp100/
 | 8 | МАРСЮКИ | 1518 |
 | 9 | Brodudes Inc. | 1517 |
 | 10 | Auscorp  | 1512 |
-| 11 | Continuum | 1505 |
+| 11 | Continuum | 1507 |
 | 12 | Hinterm Mond | 1505 |
 | 13 | Hand Of NOD!  | 1503 |
 | 14 | VoidRunners | 1503 |
