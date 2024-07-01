@@ -9,7 +9,7 @@ permalink: /comp100/
 | 1 | ДИВЕРСАНТЫ | 1586 |
 | 2 | 柯伊伯带 | 1556 |
 | 3 | Слава Украине! | 1546 |
-| 4 | Likapa | 1536 |
+| 4 | Likapa | 1537 |
 | 5 | Ender | 1527 |
 | 6 | 六大天神 | 1520 |
 | 7 | BlackStar Order | 1519 |
@@ -22,8 +22,8 @@ permalink: /comp100/
 | 14 | VoidRunners | 1503 |
 | 15 | Blood Hounds | 1502 |
 | 16 | 星舰月球 | 1501 |
-| 17 | Death Star llc. | 1495 |
-| 18 | Famous Assasins | 1495 |
+| 17 | Famous Assasins | 1497 |
+| 18 | Death Star llc. | 1495 |
 | 19 | IX Легион | 1493 |
 | 20 | Медведи | 1492 |
 | 21 | OntarioDawn | 1488 |
@@ -46,35 +46,35 @@ permalink: /comp100/
 | 38 | Stargate Corp | 1450 |
 | 39 | 共产星际 | 1450 |
 | 40 | CIS | 1448 |
-| 41 | Октябристы | 1446 |
-| 42 | 9-Й СКОРПИОН | 1444 |
-| 43 | ✡天启✡ | 1444 |
-| 44 | Valhalla Rising | 1442 |
-| 45 | three kitties | 1442 |
-| 46 | IMPERIAL ARMADA | 1440 |
-| 47 | Lacuna X | 1440 |
-| 48 | Серебряная орда | 1439 |
+| 41 | Серебряная орда | 1447 |
+| 42 | Октябристы | 1446 |
+| 43 | 9-Й СКОРПИОН | 1444 |
+| 44 | ✡天启✡ | 1444 |
+| 45 | Valhalla Rising | 1442 |
+| 46 | three kitties | 1442 |
+| 47 | IMPERIAL ARMADA | 1440 |
+| 48 | Lacuna X | 1440 |
 | 49 | Emergence | 1438 |
 | 50 | Mercury Sunset | 1436 |
 | 51 | Space Penguins | 1431 |
 | 52 | ANDROMEDA INC.  | 1429 |
-| 53 | Decode | 1428 |
-| 54 | TeddisaurusWrex | 1427 |
-| 55 | Спутник | 1422 |
-| 56 | Axiom | 1422 |
-| 57 | 墨痕空域 | 1422 |
-| 58 | Nearland Ind | 1420 |
-| 59 | Cyber Star | 1417 |
-| 60 | Omega Alpha | 1415 |
-| 61 | White Dwarf | 1413 |
-| 62 | First Legion | 1413 |
-| 63 | Outland Ind. | 1411 |
-| 64 | StarControl | 1410 |
-| 65 | Black Star llc. | 1409 |
-| 66 | Повстанцы Хаоса | 1408 |
-| 67 | BRASIL STAR | 1406 |
-| 68 | リリース | 1405 |
-| 69 | Atlas Star llc. | 1404 |
+| 53 | TeddisaurusWrex | 1427 |
+| 54 | Спутник | 1422 |
+| 55 | Axiom | 1422 |
+| 56 | 墨痕空域 | 1422 |
+| 57 | Nearland Ind | 1420 |
+| 58 | Cyber Star | 1417 |
+| 59 | Omega Alpha | 1415 |
+| 60 | White Dwarf | 1413 |
+| 61 | First Legion | 1413 |
+| 62 | Outland Ind. | 1411 |
+| 63 | StarControl | 1410 |
+| 64 | Black Star llc. | 1409 |
+| 65 | Повстанцы Хаоса | 1408 |
+| 66 | BRASIL STAR | 1406 |
+| 67 | リリース | 1405 |
+| 68 | Atlas Star llc. | 1404 |
+| 69 | Decode | 1403 |
 | 70 | Kratos | 1403 |
 | 71 | Spica​ | 1402 |
 | 72 | Embers Rising | 1402 |
