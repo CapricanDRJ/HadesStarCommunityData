@@ -21,7 +21,7 @@ Welcome to the Hades' Star Elo Rankings page. Here you can find the top corporat
 
 <ul>
   {% for file in site.static_files %}
-    {% unless file.extname == ".md" %}
+    {% unless file.extname == ".md" or file.extname == ".svg" %}
       <li><a href="{{ file.path | relative_url }}">{{ file.basename | capitalize }}</a></li>
     {% endunless %}
   {% endfor %}
