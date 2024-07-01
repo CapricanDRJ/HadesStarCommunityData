@@ -1,6 +1,6 @@
 title: Hades' Star Community Data
 description: A detailed scoreboard of top corporations based on Elo ratings and historic whitestar results in several formats (csv, json, xlsx)
-remote_theme: jekyll/minima
+theme: minima
 markdown: kramdown
 permalink: pretty
 
