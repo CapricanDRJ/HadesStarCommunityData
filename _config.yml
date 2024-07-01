@@ -6,7 +6,7 @@ permalink: pretty
 
 # Minima theme settings
 minima:
-  skin: auto
+  skin: dark
 
 plugins:
   - jekyll-remote-theme
