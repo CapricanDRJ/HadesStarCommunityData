@@ -1,5 +1,3 @@
-# Top 100 Competitive Elo Ratings
-
 | Rank | Corporation Name | Elo Rating |
 |------|-----------------|------------|
 | 1 | ДИВЕРСАНТЫ | 1586 |
@@ -63,42 +61,42 @@
 | 59 | Cyber Star | 1417 |
 | 60 | Omega Alpha | 1415 |
 | 61 | White Dwarf | 1413 |
-| 62 | Outland Ind. | 1411 |
-| 63 | StarControl | 1410 |
-| 64 | Black Star llc. | 1409 |
-| 65 | BRASIL STAR | 1406 |
-| 66 | リリース | 1405 |
-| 67 | Повстанцы Хаоса | 1405 |
-| 68 | Atlas Star llc. | 1404 |
-| 69 | Kratos | 1403 |
-| 70 | Spica​ | 1402 |
-| 71 | Embers Rising | 1402 |
-| 72 | OPA | 1401 |
-| 73 | Spacefleet | 1401 |
-| 74 | Warriorlords | 1400 |
-| 75 | 中国星际联盟 | 1400 |
-| 76 | 第一序列 | 1399 |
-| 77 | 101 | 1397 |
-| 78 | Grunthal Gang | 1397 |
-| 79 | Zvezdec | 1396 |
-| 80 | Elysium | 1395 |
-| 81 | Corvus Ind. | 1391 |
-| 82 | Starsailors | 1388 |
-| 83 | Newbs | 1388 |
-| 84 | 元素联邦 | 1385 |
-| 85 | Dumpster Fire 2 | 1385 |
-| 86 | 第四星际 | 1385 |
-| 87 | First Legion | 1384 |
+| 62 | First Legion | 1413 |
+| 63 | Outland Ind. | 1411 |
+| 64 | StarControl | 1410 |
+| 65 | Black Star llc. | 1409 |
+| 66 | BRASIL STAR | 1406 |
+| 67 | リリース | 1405 |
+| 68 | Повстанцы Хаоса | 1405 |
+| 69 | Atlas Star llc. | 1404 |
+| 70 | Kratos | 1403 |
+| 71 | Spica​ | 1402 |
+| 72 | Embers Rising | 1402 |
+| 73 | OPA | 1401 |
+| 74 | Spacefleet | 1401 |
+| 75 | Warriorlords | 1400 |
+| 76 | 中国星际联盟 | 1400 |
+| 77 | 第一序列 | 1399 |
+| 78 | 101 | 1397 |
+| 79 | Grunthal Gang | 1397 |
+| 80 | Zvezdec | 1396 |
+| 81 | Elysium | 1395 |
+| 82 | Corvus Ind. | 1391 |
+| 83 | Starsailors | 1388 |
+| 84 | Newbs | 1388 |
+| 85 | 元素联邦 | 1385 |
+| 86 | Dumpster Fire 2 | 1385 |
+| 87 | 第四星际 | 1385 |
 | 88 | Rogue One | 1383 |
 | 89 | 对，进就进人少的 | 1382 |
 | 90 | 한국인 | 1382 |
-| 91 | DarkSide | 1381 |
-| 92 | DarkMoon | 1381 |
-| 93 | Providence | 1379 |
-| 94 | Альянс | 1375 |
-| 95 | Red Dawn | 1373 |
-| 96 | Bunker | 1372 |
-| 97 | BrinySeal | 1369 |
-| 98 | Dacia Chill | 1369 |
-| 99 | BSO Academy | 1369 |
-| 100 | 绛紫星 | 1369 |
+| 91 | DarkMoon | 1381 |
+| 92 | Providence | 1379 |
+| 93 | Альянс | 1375 |
+| 94 | Red Dawn | 1373 |
+| 95 | Bunker | 1372 |
+| 96 | BrinySeal | 1369 |
+| 97 | Dacia Chill | 1369 |
+| 98 | BSO Academy | 1369 |
+| 99 | 绛紫星 | 1369 |
+| 100 | korea | 1368 |

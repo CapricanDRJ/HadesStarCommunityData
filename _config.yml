@@ -1,11 +1,15 @@
+title: Hades' Star Elo Rankings
+description: A detailed scoreboard of top corporations based on Elo ratings
 remote_theme: jekyll/minima
 markdown: kramdown
 permalink: pretty
+
+# Minima theme settings
 minima:
   skin: auto
 
 plugins:
- - jekyll-remote-theme
+  - jekyll-remote-theme
 
 # Navigation
 header_pages:
