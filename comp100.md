@@ -42,9 +42,9 @@ permalink: /comp100/
 | 34 | Hexacropians | 1459 |
 | 35 | pirates spatial | 1459 |
 | 36 | Лунный Феникс | 1458 |
-| 37 | Order of Hades | 1454 |
-| 38 | Stargate Corp | 1450 |
-| 39 | 共产星际 | 1450 |
+| 37 | 共产星际 | 1455 |
+| 38 | Order of Hades | 1454 |
+| 39 | Stargate Corp | 1450 |
 | 40 | CIS | 1448 |
 | 41 | Серебряная орда | 1447 |
 | 42 | Октябристы | 1446 |
