@@ -13,7 +13,7 @@ header_pages:
 # Plugins
 plugins:
   - jekyll-seo-tag
-  - jekyll-remote-theme # add this line to the plugins list
+  - jekyll-remote-theme
 
 # Exclude unnecessary files
 exclude:
@@ -40,3 +40,68 @@ nav:
     link: /top100.md
   - name: Top 100 Competitive Elo Ratings
     link: /comp100.md
+
+# Site properties
+language: english
+format: web
+
+# Top navigation bar
+use_logo: false
+use_text_title: true
+search_in_topnav: true
+search_in_sidebar: true
+toggle-sidebar-button: true
+navbar-toggle: true
+
+# Feedback button
+show_feedback: true
+feedback_email: caprican@tsl.rocks
+
+# GitHub button
+github_button_location_top_navbar: false
+github_button_location_below_title: false
+github_button_location_page_bottom: false
+
+# Comments
+show_disqus_comments: false
+
+# Google Analytics
+show_google_analytics: false
+
+# Breadcrumb
+breadcrumb_display: true
+breadcrumb_home_display: true
+breadcrumb_home_url: http://yourcompanysite.com
+
+# Markdown process and filter
+highlighter: rouge
+markdown: kramdown
+kramdown:
+ input: GFM
+ auto_ids: true
+ hard_wrap: false
+ syntax_highlighter: rouge
+
+# SASS settings
+sass:
+     style: compressed
+
+# Collections
+collections:
+  docs:
+    output: true
+
+# UI text
+uistring:
+    title: Hades' Star Elo Rankings
+    description: A detailed scoreboard of top corporations based on Elo ratings
+    copyright: 2024 Your Company, Inc.
+    breadcrumb_home_name: Home
+    tableofcontents: Table of Contents
+    expandall: Expand All
+    collapseall: Collapse All
+    search_placeholder_text: Search ...
+    no_search_results_found: No matches found. Try using other keywords?
+    feedback_link_name: Feedback
+    feedback_subject_line: Feedback about docs
+    github_edit_button_text: Edit on GitHub
