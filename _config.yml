@@ -1,8 +1,11 @@
-theme: minima
+remote_theme: jekyll/minima
 markdown: kramdown
 permalink: pretty
 minima:
   skin: auto
+
+plugins:
+ - jekyll-remote-theme
 
 # Navigation
 header_pages:
