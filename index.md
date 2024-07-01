@@ -1,6 +1,7 @@
 ---
-layout: home
+layout: page
 title: Home
+permalink: /
 ---
 
 # Hades' Star Elo Rankings

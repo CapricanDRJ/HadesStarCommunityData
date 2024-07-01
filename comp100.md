@@ -1,3 +1,9 @@
+
+---
+layout: page
+title: Top 100 Competitive Elo Ratings
+permalink: /comp100/
+---
 | Rank | Corporation Name | Elo Rating |
 |------|-----------------|------------|
 | 1 | ДИВЕРСАНТЫ | 1586 |
@@ -65,9 +71,9 @@
 | 63 | Outland Ind. | 1411 |
 | 64 | StarControl | 1410 |
 | 65 | Black Star llc. | 1409 |
-| 66 | BRASIL STAR | 1406 |
-| 67 | リリース | 1405 |
-| 68 | Повстанцы Хаоса | 1405 |
+| 66 | Повстанцы Хаоса | 1408 |
+| 67 | BRASIL STAR | 1406 |
+| 68 | リリース | 1405 |
 | 69 | Atlas Star llc. | 1404 |
 | 70 | Kratos | 1403 |
 | 71 | Spica​ | 1402 |
