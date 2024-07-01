@@ -1,6 +1,6 @@
 title: Hades' Star Elo Rankings
 description: A detailed scoreboard of top corporations based on Elo ratings
-theme: cayman-dark
+theme: jekyll-theme-cayman-dark
 markdown: kramdown
 permalink: pretty
 
