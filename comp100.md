@@ -65,10 +65,10 @@
 | 61 | White Dwarf | 1413 |
 | 62 | Outland Ind. | 1411 |
 | 63 | StarControl | 1410 |
-| 64 | BRASIL STAR | 1406 |
-| 65 | リリース | 1405 |
-| 66 | Повстанцы Хаоса | 1405 |
-| 67 | Black Star llc. | 1404 |
+| 64 | Black Star llc. | 1409 |
+| 65 | BRASIL STAR | 1406 |
+| 66 | リリース | 1405 |
+| 67 | Повстанцы Хаоса | 1405 |
 | 68 | Atlas Star llc. | 1404 |
 | 69 | Kratos | 1403 |
 | 70 | Spica​ | 1402 |

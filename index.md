@@ -9,20 +9,14 @@ Welcome to the Hades' Star Elo Rankings page. Here you can find the top corporat
 
 ## Scoreboards
 
-<ul>
-  {% for page in site.pages %}
-    {% if page.path contains ".md" and page.path != "index.md" %}
-      <li><a href="{{ page.url | relative_url }}">{{ page.title | escape }}</a></li>
-    {% endif %}
-  {% endfor %}
-</ul>
+- [Top 100 Elo Ratings](top100.md)
+- [Top 100 Competitive Elo Ratings](comp100.md)
 
 ## Resource Files
 
-<ul>
-  {% for file in site.static_files %}
-    {% unless file.extname == ".md" or file.extname == ".svg" %}
-      <li><a href="{{ file.path | relative_url }}">{{ file.basename | capitalize }}</a></li>
-    {% endunless %}
-  {% endfor %}
-</ul>
+- [RS Bot Stats (CSV)](rsBotStats.csv) - Detailed statistics for RS Bot.
+- [White Star Matches (CSV)](whitestar_matches.csv) - CSV format of white star matches data.
+- [White Star Matches (JSON)](whitestar_matches.json) - JSON format of white star matches data.
+- [White Star Matches (XLSX)](whitestar_matches.xlsx) - Excel format of white star matches data.
+- [White Star Scoreboard (CSV)](whitestar_scoreboard.csv) - CSV format of white star scoreboard.
+- [White Star Scoreboard (JSON)](whitestar_scoreboard.json) - JSON format of white star scoreboard.
