@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Top 100 Competitive Elo Ratings
