@@ -50,12 +50,12 @@ permalink: /comp100/
 | 42 | 9-Й СКОРПИОН | 1444 |
 | 43 | ✡天启✡ | 1444 |
 | 44 | Valhalla Rising | 1442 |
-| 45 | IMPERIAL ARMADA | 1440 |
-| 46 | Lacuna X | 1440 |
-| 47 | Серебряная орда | 1439 |
-| 48 | Emergence | 1438 |
-| 49 | Mercury Sunset | 1436 |
-| 50 | three kitties | 1434 |
+| 45 | three kitties | 1442 |
+| 46 | IMPERIAL ARMADA | 1440 |
+| 47 | Lacuna X | 1440 |
+| 48 | Серебряная орда | 1439 |
+| 49 | Emergence | 1438 |
+| 50 | Mercury Sunset | 1436 |
 | 51 | Space Penguins | 1431 |
 | 52 | ANDROMEDA INC.  | 1429 |
 | 53 | Decode | 1428 |
