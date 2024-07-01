@@ -1,0 +1,32 @@
+title: Hades' Star Elo Rankings
+description: A detailed scoreboard of top corporations based on Elo ratings
+theme: minima
+markdown: kramdown
+permalink: pretty
+
+# Navigation
+header_pages:
+  - index.md
+  - top100.md
+  - comp100.md
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+
+# Exclude unnecessary files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - package.json
+  - package-lock.json
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
