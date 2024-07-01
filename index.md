@@ -14,7 +14,7 @@ Welcome to the Hades' Star Elo Rankings page. Here you can find the top corporat
 
 ## Resource Files
 
-- [RS Bot Stats (CSV)](rsBotStats.csv) - Detailed statistics for RS Bot.
+- [Red Star Bot History (CSV)](rsBotStats.csv) - Detailed statistics for RS Bot.
 - [White Star Matches (CSV)](whitestar_matches.csv) - CSV format of white star matches data.
 - [White Star Matches (JSON)](whitestar_matches.json) - JSON format of white star matches data.
 - [White Star Matches (XLSX)](whitestar_matches.xlsx) - Excel format of white star matches data.
