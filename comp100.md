@@ -3,6 +3,7 @@ layout: page
 title: Top 100 Competitive Elo Ratings
 permalink: /comp100/
 ---
+
 | Rank | Corporation Name | Elo Rating |
 |------|-----------------|------------|
 | 1 | ДИВЕРСАНТЫ | 1586 |
