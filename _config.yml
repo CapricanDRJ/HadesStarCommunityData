@@ -1,7 +1,8 @@
 theme: minima
 markdown: kramdown
 permalink: pretty
-skin: dark
+minima:
+  skin: auto
 
 # Navigation
 header_pages:
