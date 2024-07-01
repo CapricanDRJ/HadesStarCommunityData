@@ -59,13 +59,13 @@ permalink: /comp100/
 | 51 | Space Penguins | 1431 |
 | 52 | ANDROMEDA INC.  | 1429 |
 | 53 | TeddisaurusWrex | 1427 |
-| 54 | Спутник | 1422 |
-| 55 | Axiom | 1422 |
-| 56 | 墨痕空域 | 1422 |
-| 57 | Nearland Ind | 1420 |
-| 58 | Cyber Star | 1417 |
-| 59 | Omega Alpha | 1415 |
-| 60 | White Dwarf | 1413 |
+| 54 | White Dwarf | 1426 |
+| 55 | Спутник | 1422 |
+| 56 | Axiom | 1422 |
+| 57 | 墨痕空域 | 1422 |
+| 58 | Nearland Ind | 1420 |
+| 59 | Cyber Star | 1417 |
+| 60 | Omega Alpha | 1415 |
 | 61 | First Legion | 1413 |
 | 62 | Outland Ind. | 1411 |
 | 63 | StarControl | 1410 |
