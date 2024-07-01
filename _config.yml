@@ -1,17 +1,13 @@
-theme: midnight
+theme: minima
 markdown: kramdown
 permalink: pretty
+skin: dark
 
 # Navigation
 header_pages:
   - index.md
   - top100.md
   - comp100.md
-
-# Plugins
-plugins:
-  - jekyll-seo-tag
-  - jekyll-remote-theme
 
 # Exclude unnecessary files
 exclude:
