@@ -1,6 +1,6 @@
 title: Hades' Star Community Data
 description: A detailed scoreboard of top corporations based on Elo ratings and historic whitestar results in several formats (csv, json, xlsx)
-theme: jekyll/minima
+theme: minima
 markdown: kramdown
 permalink: pretty
 
@@ -8,42 +8,11 @@ permalink: pretty
 minima:
   skin: dark
 
-# Plugins
-plugins:
-  - jekyll-seo-tag
-  - jekyll-remote-theme
-
 # Navigation
 header_pages:
   - index.md
   - top100.md
   - comp100.md
-
-# Exclude unnecessary files
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - package.json
-  - package-lock.json
-
-# Build settings
-markdown: kramdown
-highlighter: rouge
-kramdown:
-  input: GFM
-  syntax_highlighter_opts:
-    block:
-      line_numbers: true
-
-# Custom navigation bar
-nav:
-  - name: Home
-    link: /
-  - name: Top 100 Elo Ratings
-    link: /top100.md
-  - name: Top 100 Competitive Elo Ratings
-    link: /comp100.md
 
 # Site properties
 language: english
