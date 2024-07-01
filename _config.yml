@@ -1,7 +1,6 @@
 title: Hades' Star Elo Rankings
 description: A detailed scoreboard of top corporations based on Elo ratings
 theme: minima
-#remote_theme: pages-themes/midnight@v0.2.0
 markdown: kramdown
 permalink: pretty
 
@@ -44,27 +43,3 @@ nav:
 
 # Site properties
 language: english
-format: web
-
-# Top navigation bar
-use_logo: false
-use_text_title: true
-search_in_topnav: true
-search_in_sidebar: true
-toggle-sidebar-button: true
-navbar-toggle: true
-
-# Feedback button
-show_feedback: true
-feedback_email: caprican@tsl.rocks
-
-# GitHub button
-github_button_location_top_navbar: false
-github_button_location_below_title: false
-github_button_location_page_bottom: false
-
-# Comments
-show_disqus_comments: false
-
-# Google Analytics
-show_google_analytics: false
