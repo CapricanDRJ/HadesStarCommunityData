@@ -1,0 +1,22 @@
+title: Hades' Star Community Data
+description: A detailed scoreboard of top corporations based on Elo ratings and historic whitestar results in several formats (csv, json, xlsx)
+remote_theme: jekyll/minima
+markdown: kramdown
+permalink: pretty
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+
+# Minima theme settings
+minima:
+  skin: dark
+
+# Navigation
+header_pages:
+  - index.md
+  - top100.md
+  - comp100.md
+
+# Site properties
+language: english
