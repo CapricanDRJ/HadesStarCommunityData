@@ -23,18 +23,18 @@ permalink: /comp100/
 | 15 | Blood Hounds | 1502 |
 | 16 | 星舰月球 | 1501 |
 | 17 | Famous Assasins | 1497 |
-| 18 | Death Star llc. | 1495 |
-| 19 | IX Легион | 1493 |
-| 20 | Медведи | 1492 |
-| 21 | OntarioDawn | 1488 |
+| 18 | IX Легион | 1493 |
+| 19 | Медведи | 1492 |
+| 20 | OntarioDawn | 1488 |
+| 21 | Ninth Planet | 1487 |
 | 22 | [Blue*Nation] | 1486 |
 | 23 | BrazilCorp. | 1486 |
 | 24 | 111 | 1482 |
 | 25 | 新手联邦（新经济开发区） | 1480 |
-| 26 | Gemini Ind. | 1476 |
-| 27 | русь  | 1475 |
-| 28 | Неизбежный Рок | 1472 |
-| 29 | Ninth Planet | 1471 |
+| 26 | Death Star llc. | 1479 |
+| 27 | Gemini Ind. | 1476 |
+| 28 | русь  | 1475 |
+| 29 | Неизбежный Рок | 1472 |
 | 30 | Tuatha De Danan | 1465 |
 | 31 |  RELAX CZ/SK | 1465 |
 | 32 | Ark | 1462 |
