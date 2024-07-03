@@ -56,12 +56,12 @@ permalink: /comp100/
 | 48 | Lacuna X | 1440 |
 | 49 | Emergence | 1438 |
 | 50 | Mercury Sunset | 1436 |
-| 51 | Space Penguins | 1431 |
-| 52 | ANDROMEDA INC.  | 1429 |
-| 53 | White Dwarf | 1426 |
-| 54 | Спутник | 1422 |
-| 55 | Axiom | 1422 |
-| 56 | 墨痕空域 | 1422 |
+| 51 | 墨痕空域 | 1436 |
+| 52 | Space Penguins | 1431 |
+| 53 | ANDROMEDA INC.  | 1429 |
+| 54 | White Dwarf | 1426 |
+| 55 | Спутник | 1422 |
+| 56 | Axiom | 1422 |
 | 57 | Nearland Ind | 1420 |
 | 58 | Cyber Star | 1417 |
 | 59 | Omega Alpha | 1415 |
@@ -78,20 +78,20 @@ permalink: /comp100/
 | 70 | Decode | 1403 |
 | 71 | Spica​ | 1402 |
 | 72 | Embers Rising | 1402 |
-| 73 | OPA | 1401 |
-| 74 | Spacefleet | 1401 |
-| 75 | Warriorlords | 1400 |
-| 76 | 中国星际联盟 | 1400 |
-| 77 | 第一序列 | 1399 |
-| 78 | Grunthal Gang | 1397 |
-| 79 | Zvezdec | 1396 |
-| 80 | Elysium | 1395 |
-| 81 | Corvus Ind. | 1391 |
-| 82 | Starsailors | 1388 |
-| 83 | Newbs | 1388 |
-| 84 | 元素联邦 | 1385 |
-| 85 | Dumpster Fire 2 | 1385 |
-| 86 | 第四星际 | 1385 |
+| 73 | Spacefleet | 1401 |
+| 74 | Warriorlords | 1400 |
+| 75 | 第一序列 | 1399 |
+| 76 | Grunthal Gang | 1397 |
+| 77 | Zvezdec | 1396 |
+| 78 | Elysium | 1395 |
+| 79 | Corvus Ind. | 1391 |
+| 80 | Starsailors | 1388 |
+| 81 | Newbs | 1388 |
+| 82 | 中国星际联盟 | 1386 |
+| 83 | 元素联邦 | 1385 |
+| 84 | Dumpster Fire 2 | 1385 |
+| 85 | 第四星际 | 1385 |
+| 86 | OPA | 1383 |
 | 87 | Rogue One | 1383 |
 | 88 | 对，进就进人少的 | 1382 |
 | 89 | 한국인 | 1382 |
