@@ -12,17 +12,17 @@ permalink: /comp100/
 | 4 | Brodudes Inc. | 1545 |
 | 5 | Likapa | 1537 |
 | 6 | Ender | 1527 |
-| 7 | 六大天神 | 1520 |
-| 8 | BlackStar Order | 1519 |
-| 9 | МАРСЮКИ | 1518 |
-| 10 | Auscorp  | 1512 |
-| 11 | Continuum | 1509 |
-| 12 | Hinterm Mond | 1505 |
-| 13 | Hand Of NOD!  | 1503 |
-| 14 | VoidRunners | 1503 |
-| 15 | Blood Hounds | 1502 |
-| 16 | 星舰月球 | 1501 |
-| 17 | IX Легион | 1499 |
+| 7 | BlackStar Order | 1519 |
+| 8 | МАРСЮКИ | 1518 |
+| 9 | Auscorp  | 1512 |
+| 10 | Continuum | 1509 |
+| 11 | Hinterm Mond | 1505 |
+| 12 | Hand Of NOD!  | 1503 |
+| 13 | VoidRunners | 1503 |
+| 14 | Blood Hounds | 1502 |
+| 15 | 星舰月球 | 1501 |
+| 16 | IX Легион | 1499 |
+| 17 | 六大天神 | 1498 |
 | 18 | Famous Assasins | 1497 |
 | 19 | Медведи | 1492 |
 | 20 | OntarioDawn | 1488 |
@@ -58,21 +58,21 @@ permalink: /comp100/
 | 50 | Mercury Sunset | 1436 |
 | 51 | Space Penguins | 1431 |
 | 52 | ANDROMEDA INC.  | 1429 |
-| 53 | TeddisaurusWrex | 1427 |
-| 54 | White Dwarf | 1426 |
-| 55 | Спутник | 1422 |
-| 56 | Axiom | 1422 |
-| 57 | 墨痕空域 | 1422 |
-| 58 | Nearland Ind | 1420 |
-| 59 | Cyber Star | 1417 |
-| 60 | Omega Alpha | 1415 |
-| 61 | Kratos | 1415 |
-| 62 | Atlas Star llc. | 1415 |
-| 63 | First Legion | 1413 |
-| 64 | Outland Ind. | 1411 |
-| 65 | StarControl | 1410 |
-| 66 | Black Star llc. | 1409 |
-| 67 | Повстанцы Хаоса | 1408 |
+| 53 | White Dwarf | 1426 |
+| 54 | Спутник | 1422 |
+| 55 | Axiom | 1422 |
+| 56 | 墨痕空域 | 1422 |
+| 57 | Nearland Ind | 1420 |
+| 58 | Cyber Star | 1417 |
+| 59 | Omega Alpha | 1415 |
+| 60 | Kratos | 1415 |
+| 61 | Atlas Star llc. | 1415 |
+| 62 | First Legion | 1413 |
+| 63 | Outland Ind. | 1411 |
+| 64 | StarControl | 1410 |
+| 65 | Black Star llc. | 1409 |
+| 66 | Повстанцы Хаоса | 1408 |
+| 67 | TeddisaurusWrex | 1407 |
 | 68 | BRASIL STAR | 1406 |
 | 69 | リリース | 1405 |
 | 70 | Decode | 1403 |
