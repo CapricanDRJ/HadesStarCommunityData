@@ -22,8 +22,8 @@ permalink: /comp100/
 | 14 | Blood Hounds | 1502 |
 | 15 | 星舰月球 | 1501 |
 | 16 | IX Легион | 1499 |
-| 17 | 六大天神 | 1498 |
-| 18 | Famous Assasins | 1497 |
+| 17 | Famous Assasins | 1498 |
+| 18 | 六大天神 | 1498 |
 | 19 | Медведи | 1492 |
 | 20 | OntarioDawn | 1488 |
 | 21 | Ninth Planet | 1487 |
@@ -67,18 +67,18 @@ permalink: /comp100/
 | 59 | Omega Alpha | 1415 |
 | 60 | Kratos | 1415 |
 | 61 | Atlas Star llc. | 1415 |
-| 62 | First Legion | 1413 |
-| 63 | Outland Ind. | 1411 |
-| 64 | StarControl | 1410 |
-| 65 | Black Star llc. | 1409 |
-| 66 | Повстанцы Хаоса | 1408 |
-| 67 | TeddisaurusWrex | 1407 |
-| 68 | BRASIL STAR | 1406 |
-| 69 | リリース | 1405 |
-| 70 | Decode | 1403 |
-| 71 | Spica​ | 1402 |
-| 72 | Embers Rising | 1402 |
-| 73 | Spacefleet | 1401 |
+| 62 | Spacefleet | 1414 |
+| 63 | First Legion | 1413 |
+| 64 | Outland Ind. | 1411 |
+| 65 | StarControl | 1410 |
+| 66 | Black Star llc. | 1409 |
+| 67 | Повстанцы Хаоса | 1408 |
+| 68 | TeddisaurusWrex | 1407 |
+| 69 | BRASIL STAR | 1406 |
+| 70 | リリース | 1405 |
+| 71 | Decode | 1403 |
+| 72 | Spica​ | 1402 |
+| 73 | Embers Rising | 1402 |
 | 74 | Warriorlords | 1400 |
 | 75 | 第一序列 | 1399 |
 | 76 | Grunthal Gang | 1397 |
@@ -88,20 +88,20 @@ permalink: /comp100/
 | 80 | 第四星际 | 1391 |
 | 81 | Starsailors | 1388 |
 | 82 | Newbs | 1388 |
-| 83 | 中国星际联盟 | 1386 |
-| 84 | 元素联邦 | 1385 |
-| 85 | Dumpster Fire 2 | 1385 |
-| 86 | OPA | 1383 |
-| 87 | Rogue One | 1383 |
-| 88 | 对，进就进人少的 | 1382 |
-| 89 | 한국인 | 1382 |
-| 90 | DarkMoon | 1381 |
-| 91 | 101 | 1380 |
-| 92 | Providence | 1379 |
-| 93 | Альянс | 1375 |
-| 94 | Red Dawn | 1373 |
-| 95 | Z. O. V.  | 1372 |
-| 96 | Bunker | 1372 |
+| 83 | Bunker | 1386 |
+| 84 | 中国星际联盟 | 1386 |
+| 85 | 元素联邦 | 1385 |
+| 86 | Dumpster Fire 2 | 1385 |
+| 87 | OPA | 1383 |
+| 88 | Rogue One | 1383 |
+| 89 | 对，进就进人少的 | 1382 |
+| 90 | 한국인 | 1382 |
+| 91 | DarkMoon | 1381 |
+| 92 | 101 | 1380 |
+| 93 | Providence | 1379 |
+| 94 | Альянс | 1375 |
+| 95 | Red Dawn | 1373 |
+| 96 | Z. O. V.  | 1372 |
 | 97 | Dacia Chill | 1369 |
 | 98 | BSO Academy | 1369 |
 | 99 | 绛紫星 | 1369 |
