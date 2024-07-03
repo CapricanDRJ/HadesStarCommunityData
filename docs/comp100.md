@@ -83,21 +83,21 @@ permalink: /comp100/
 | 75 | Warriorlords | 1400 |
 | 76 | 中国星际联盟 | 1400 |
 | 77 | 第一序列 | 1399 |
-| 78 | 101 | 1397 |
-| 79 | Grunthal Gang | 1397 |
-| 80 | Zvezdec | 1396 |
-| 81 | Elysium | 1395 |
-| 82 | Corvus Ind. | 1391 |
-| 83 | Starsailors | 1388 |
-| 84 | Newbs | 1388 |
-| 85 | 元素联邦 | 1385 |
-| 86 | Dumpster Fire 2 | 1385 |
-| 87 | 第四星际 | 1385 |
-| 88 | Rogue One | 1383 |
-| 89 | 对，进就进人少的 | 1382 |
-| 90 | 한국인 | 1382 |
-| 91 | DarkMoon | 1381 |
-| 92 | Providence | 1379 |
+| 78 | Grunthal Gang | 1397 |
+| 79 | Zvezdec | 1396 |
+| 80 | Elysium | 1395 |
+| 81 | Corvus Ind. | 1391 |
+| 82 | Starsailors | 1388 |
+| 83 | Newbs | 1388 |
+| 84 | 元素联邦 | 1385 |
+| 85 | Dumpster Fire 2 | 1385 |
+| 86 | 第四星际 | 1385 |
+| 87 | Rogue One | 1383 |
+| 88 | 对，进就进人少的 | 1382 |
+| 89 | 한국인 | 1382 |
+| 90 | DarkMoon | 1381 |
+| 91 | Providence | 1379 |
+| 92 | 101 | 1377 |
 | 93 | Альянс | 1375 |
 | 94 | Red Dawn | 1373 |
 | 95 | Bunker | 1372 |
