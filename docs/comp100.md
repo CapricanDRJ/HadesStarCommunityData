@@ -16,10 +16,10 @@ permalink: /comp100/
 | 8 | МАРСЮКИ | 1518 |
 | 9 | Blood Hounds | 1517 |
 | 10 | Auscorp  | 1512 |
-| 11 | Continuum | 1509 |
-| 12 | Hinterm Mond | 1505 |
-| 13 | Hand Of NOD!  | 1503 |
-| 14 | VoidRunners | 1503 |
+| 11 | VoidRunners | 1512 |
+| 12 | Continuum | 1509 |
+| 13 | Hinterm Mond | 1505 |
+| 14 | Hand Of NOD!  | 1503 |
 | 15 | 星舰月球 | 1501 |
 | 16 | IX Легион | 1499 |
 | 17 | Famous Assasins | 1498 |
