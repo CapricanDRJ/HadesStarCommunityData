@@ -7,28 +7,28 @@ permalink: /comp100/
 | Rank | Corporation Name | Elo Rating |
 |------|-----------------|------------|
 | 1 | ДИВЕРСАНТЫ | 1591 |
-| 2 | 柯伊伯带 | 1556 |
+| 2 | 柯伊伯带 | 1563 |
 | 3 | Слава Украине! | 1546 |
 | 4 | Brodudes Inc. | 1545 |
 | 5 | Likapa | 1537 |
 | 6 | Ender | 1527 |
 | 7 | BlackStar Order | 1519 |
 | 8 | МАРСЮКИ | 1518 |
-| 9 | Auscorp  | 1512 |
-| 10 | Continuum | 1509 |
-| 11 | Hinterm Mond | 1505 |
-| 12 | Hand Of NOD!  | 1503 |
-| 13 | VoidRunners | 1503 |
-| 14 | Blood Hounds | 1502 |
+| 9 | Blood Hounds | 1512 |
+| 10 | Auscorp  | 1512 |
+| 11 | Continuum | 1509 |
+| 12 | Hinterm Mond | 1505 |
+| 13 | Hand Of NOD!  | 1503 |
+| 14 | VoidRunners | 1503 |
 | 15 | 星舰月球 | 1501 |
 | 16 | IX Легион | 1499 |
 | 17 | Famous Assasins | 1498 |
 | 18 | 六大天神 | 1498 |
 | 19 | Медведи | 1492 |
-| 20 | OntarioDawn | 1488 |
-| 21 | Ninth Planet | 1487 |
-| 22 | [Blue*Nation] | 1486 |
-| 23 | BrazilCorp. | 1486 |
+| 20 | BrazilCorp. | 1491 |
+| 21 | OntarioDawn | 1488 |
+| 22 | Ninth Planet | 1487 |
+| 23 | [Blue*Nation] | 1486 |
 | 24 | 111 | 1482 |
 | 25 | 新手联邦（新经济开发区） | 1480 |
 | 26 | Death Star llc. | 1479 |
@@ -86,10 +86,10 @@ permalink: /comp100/
 | 78 | Elysium | 1395 |
 | 79 | Corvus Ind. | 1391 |
 | 80 | 第四星际 | 1391 |
-| 81 | Starsailors | 1388 |
-| 82 | Newbs | 1388 |
-| 83 | Bunker | 1386 |
-| 84 | 中国星际联盟 | 1386 |
+| 81 | 中国星际联盟 | 1389 |
+| 82 | Starsailors | 1388 |
+| 83 | Newbs | 1388 |
+| 84 | Bunker | 1386 |
 | 85 | 元素联邦 | 1385 |
 | 86 | Dumpster Fire 2 | 1385 |
 | 87 | OPA | 1383 |
