@@ -47,13 +47,13 @@ permalink: /comp100/
 | 39 | 9-Й СКОРПИОН | 1453 |
 | 40 | Stargate Corp | 1450 |
 | 41 | CIS | 1448 |
-| 42 | Серебряная орда | 1447 |
-| 43 | Октябристы | 1446 |
-| 44 | ✡天启✡ | 1444 |
-| 45 | Valhalla Rising | 1442 |
-| 46 | three kitties | 1442 |
-| 47 | IMPERIAL ARMADA | 1440 |
-| 48 | Lacuna X | 1440 |
+| 42 | Lacuna X | 1447 |
+| 43 | Серебряная орда | 1447 |
+| 44 | Октябристы | 1446 |
+| 45 | ✡天启✡ | 1444 |
+| 46 | Valhalla Rising | 1442 |
+| 47 | three kitties | 1442 |
+| 48 | IMPERIAL ARMADA | 1440 |
 | 49 | Emergence | 1438 |
 | 50 | Mercury Sunset | 1436 |
 | 51 | 墨痕空域 | 1436 |
