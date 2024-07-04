@@ -80,11 +80,11 @@ permalink: /comp100/
 | 72 | Spica​ | 1402 |
 | 73 | Embers Rising | 1402 |
 | 74 | Warriorlords | 1400 |
-| 75 | 第一序列 | 1399 |
-| 76 | Grunthal Gang | 1397 |
-| 77 | Zvezdec | 1396 |
-| 78 | Elysium | 1395 |
-| 79 | Corvus Ind. | 1391 |
+| 75 | Corvus Ind. | 1399 |
+| 76 | 第一序列 | 1399 |
+| 77 | Grunthal Gang | 1397 |
+| 78 | Zvezdec | 1396 |
+| 79 | Elysium | 1395 |
 | 80 | 第四星际 | 1391 |
 | 81 | 中国星际联盟 | 1389 |
 | 82 | Starsailors | 1388 |
@@ -100,9 +100,9 @@ permalink: /comp100/
 | 92 | 101 | 1380 |
 | 93 | Providence | 1379 |
 | 94 | Альянс | 1375 |
-| 95 | Red Dawn | 1373 |
-| 96 | Z. O. V.  | 1372 |
-| 97 | Hinterm Mars | 1371 |
-| 98 | Dacia Chill | 1369 |
-| 99 | BSO Academy | 1369 |
-| 100 | 绛紫星 | 1369 |
+| 95 | 绛紫星 | 1374 |
+| 96 | Red Dawn | 1373 |
+| 97 | Z. O. V.  | 1372 |
+| 98 | Hinterm Mars | 1371 |
+| 99 | Dacia Chill | 1369 |
+| 100 | BSO Academy | 1369 |
