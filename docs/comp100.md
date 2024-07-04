@@ -14,7 +14,7 @@ permalink: /comp100/
 | 6 | Ender | 1527 |
 | 7 | BlackStar Order | 1519 |
 | 8 | МАРСЮКИ | 1518 |
-| 9 | Blood Hounds | 1512 |
+| 9 | Blood Hounds | 1517 |
 | 10 | Auscorp  | 1512 |
 | 11 | Continuum | 1509 |
 | 12 | Hinterm Mond | 1505 |
