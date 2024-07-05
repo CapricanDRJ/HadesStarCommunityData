@@ -12,10 +12,10 @@ permalink: /comp100/
 | 4 | Brodudes Inc. | 1545 |
 | 5 | Likapa | 1537 |
 | 6 | Ender | 1527 |
-| 7 | BlackStar Order | 1519 |
-| 8 | МАРСЮКИ | 1518 |
-| 9 | Blood Hounds | 1517 |
-| 10 | Auscorp  | 1512 |
+| 7 | Auscorp  | 1525 |
+| 8 | BlackStar Order | 1519 |
+| 9 | МАРСЮКИ | 1518 |
+| 10 | Blood Hounds | 1517 |
 | 11 | VoidRunners | 1512 |
 | 12 | Continuum | 1509 |
 | 13 | Hinterm Mond | 1505 |
@@ -33,12 +33,12 @@ permalink: /comp100/
 | 25 | 新手联邦（新经济开发区） | 1480 |
 | 26 | Death Star llc. | 1479 |
 | 27 | Gemini Ind. | 1476 |
-| 28 | русь  | 1475 |
-| 29 | Неизбежный Рок | 1472 |
-| 30 | Tuatha De Danan | 1465 |
-| 31 |  RELAX CZ/SK | 1465 |
-| 32 | Hexacropians | 1464 |
-| 33 | Ark | 1462 |
+| 28 | Неизбежный Рок | 1472 |
+| 29 | Tuatha De Danan | 1465 |
+| 30 |  RELAX CZ/SK | 1465 |
+| 31 | Hexacropians | 1464 |
+| 32 | Ark | 1462 |
+| 33 | русь  | 1462 |
 | 34 | 仙女座星雲 | 1460 |
 | 35 | pirates spatial | 1459 |
 | 36 | Лунный Феникс | 1458 |
