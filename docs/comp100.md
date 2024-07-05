@@ -34,13 +34,13 @@ permalink: /comp100/
 | 26 | Death Star llc. | 1479 |
 | 27 | Gemini Ind. | 1476 |
 | 28 | 仙女座星雲 | 1475 |
-| 29 | Tuatha De Danan | 1465 |
-| 30 |  RELAX CZ/SK | 1465 |
-| 31 | Hexacropians | 1464 |
-| 32 | Ark | 1462 |
-| 33 | русь  | 1462 |
-| 34 | Order of Hades | 1459 |
-| 35 | Лунный Феникс | 1458 |
+| 29 | Лунный Феникс | 1468 |
+| 30 | Tuatha De Danan | 1465 |
+| 31 |  RELAX CZ/SK | 1465 |
+| 32 | Hexacropians | 1464 |
+| 33 | Ark | 1462 |
+| 34 | русь  | 1462 |
+| 35 | Order of Hades | 1459 |
 | 36 | Неизбежный Рок | 1456 |
 | 37 | 共产星际 | 1455 |
 | 38 | 9-Й СКОРПИОН | 1453 |
@@ -49,21 +49,21 @@ permalink: /comp100/
 | 41 | pirates spatial | 1447 |
 | 42 | Lacuna X | 1447 |
 | 43 | Серебряная орда | 1447 |
-| 44 | Октябристы | 1446 |
-| 45 | ✡天启✡ | 1444 |
-| 46 | Valhalla Rising | 1442 |
-| 47 | three kitties | 1442 |
-| 48 | IMPERIAL ARMADA | 1440 |
-| 49 | Emergence | 1438 |
-| 50 | Mercury Sunset | 1436 |
-| 51 | 墨痕空域 | 1436 |
-| 52 | Space Penguins | 1431 |
-| 53 | ANDROMEDA INC.  | 1429 |
-| 54 | Axiom | 1428 |
-| 55 | White Dwarf | 1426 |
-| 56 | Спутник | 1422 |
-| 57 | Cyber Star | 1420 |
-| 58 | Nearland Ind | 1420 |
+| 44 | Mercury Sunset | 1447 |
+| 45 | Октябристы | 1446 |
+| 46 | ✡天启✡ | 1444 |
+| 47 | Valhalla Rising | 1442 |
+| 48 | three kitties | 1442 |
+| 49 | IMPERIAL ARMADA | 1440 |
+| 50 | Emergence | 1438 |
+| 51 | Nearland Ind | 1436 |
+| 52 | 墨痕空域 | 1436 |
+| 53 | Space Penguins | 1431 |
+| 54 | ANDROMEDA INC.  | 1429 |
+| 55 | Axiom | 1428 |
+| 56 | White Dwarf | 1426 |
+| 57 | Спутник | 1422 |
+| 58 | Cyber Star | 1420 |
 | 59 | Omega Alpha | 1415 |
 | 60 | Kratos | 1415 |
 | 61 | Atlas Star llc. | 1415 |
@@ -98,11 +98,11 @@ permalink: /comp100/
 | 90 | Wompwompway  | 1381 |
 | 91 | DarkMoon | 1381 |
 | 92 | 101 | 1380 |
-| 93 | Providence | 1379 |
-| 94 | Альянс | 1375 |
-| 95 | 绛紫星 | 1374 |
-| 96 | Red Dawn | 1373 |
-| 97 | Z. O. V.  | 1372 |
-| 98 | Hinterm Mars | 1371 |
-| 99 | Dacia Chill | 1369 |
-| 100 | BSO Academy | 1369 |
+| 93 | Eastern Front | 1379 |
+| 94 | Providence | 1379 |
+| 95 | Альянс | 1375 |
+| 96 | 绛紫星 | 1374 |
+| 97 | Red Dawn | 1373 |
+| 98 | Z. O. V.  | 1372 |
+| 99 | Hinterm Mars | 1371 |
+| 100 | Dacia Chill | 1369 |
