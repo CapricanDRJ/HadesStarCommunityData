@@ -10,8 +10,8 @@ permalink: /comp100/
 | 2 | 柯伊伯带 | 1563 |
 | 3 | Слава Украине! | 1550 |
 | 4 | Brodudes Inc. | 1545 |
-| 5 | Likapa | 1537 |
-| 6 | Ender | 1527 |
+| 5 | Ender | 1539 |
+| 6 | Likapa | 1537 |
 | 7 | Auscorp  | 1525 |
 | 8 | BlackStar Order | 1519 |
 | 9 | МАРСЮКИ | 1518 |
@@ -33,20 +33,20 @@ permalink: /comp100/
 | 25 | 新手联邦（新经济开发区） | 1480 |
 | 26 | Death Star llc. | 1479 |
 | 27 | Gemini Ind. | 1476 |
-| 28 | Неизбежный Рок | 1472 |
+| 28 | 仙女座星雲 | 1475 |
 | 29 | Tuatha De Danan | 1465 |
 | 30 |  RELAX CZ/SK | 1465 |
 | 31 | Hexacropians | 1464 |
 | 32 | Ark | 1462 |
 | 33 | русь  | 1462 |
-| 34 | 仙女座星雲 | 1460 |
-| 35 | pirates spatial | 1459 |
-| 36 | Order of Hades | 1459 |
-| 37 | Лунный Феникс | 1458 |
-| 38 | 共产星际 | 1455 |
-| 39 | 9-Й СКОРПИОН | 1453 |
+| 34 | Order of Hades | 1459 |
+| 35 | Лунный Феникс | 1458 |
+| 36 | Неизбежный Рок | 1456 |
+| 37 | 共产星际 | 1455 |
+| 38 | 9-Й СКОРПИОН | 1453 |
+| 39 | CIS | 1453 |
 | 40 | Stargate Corp | 1450 |
-| 41 | CIS | 1448 |
+| 41 | pirates spatial | 1447 |
 | 42 | Lacuna X | 1447 |
 | 43 | Серебряная орда | 1447 |
 | 44 | Октябристы | 1446 |
@@ -59,9 +59,9 @@ permalink: /comp100/
 | 51 | 墨痕空域 | 1436 |
 | 52 | Space Penguins | 1431 |
 | 53 | ANDROMEDA INC.  | 1429 |
-| 54 | White Dwarf | 1426 |
-| 55 | Спутник | 1422 |
-| 56 | Axiom | 1422 |
+| 54 | Axiom | 1428 |
+| 55 | White Dwarf | 1426 |
+| 56 | Спутник | 1422 |
 | 57 | Cyber Star | 1420 |
 | 58 | Nearland Ind | 1420 |
 | 59 | Omega Alpha | 1415 |
@@ -95,14 +95,14 @@ permalink: /comp100/
 | 87 | OPA | 1383 |
 | 88 | Rogue One | 1383 |
 | 89 | 한국인 | 1382 |
-| 90 | DarkMoon | 1381 |
-| 91 | 101 | 1380 |
-| 92 | Providence | 1379 |
-| 93 | Альянс | 1375 |
-| 94 | 绛紫星 | 1374 |
-| 95 | Red Dawn | 1373 |
-| 96 | Z. O. V.  | 1372 |
-| 97 | Hinterm Mars | 1371 |
-| 98 | Dacia Chill | 1369 |
-| 99 | BSO Academy | 1369 |
-| 100 | Stellar Exports | 1368 |
+| 90 | Wompwompway  | 1381 |
+| 91 | DarkMoon | 1381 |
+| 92 | 101 | 1380 |
+| 93 | Providence | 1379 |
+| 94 | Альянс | 1375 |
+| 95 | 绛紫星 | 1374 |
+| 96 | Red Dawn | 1373 |
+| 97 | Z. O. V.  | 1372 |
+| 98 | Hinterm Mars | 1371 |
+| 99 | Dacia Chill | 1369 |
+| 100 | BSO Academy | 1369 |
