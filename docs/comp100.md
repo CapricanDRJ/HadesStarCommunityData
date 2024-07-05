@@ -19,8 +19,8 @@ permalink: /comp100/
 | 11 | VoidRunners | 1512 |
 | 12 | Continuum | 1509 |
 | 13 | Hinterm Mond | 1505 |
-| 14 | Hand Of NOD!  | 1503 |
-| 15 | 星舰月球 | 1501 |
+| 14 | 星舰月球 | 1504 |
+| 15 | Hand Of NOD!  | 1503 |
 | 16 | IX Легион | 1499 |
 | 17 | Famous Assasins | 1498 |
 | 18 | 六大天神 | 1498 |
