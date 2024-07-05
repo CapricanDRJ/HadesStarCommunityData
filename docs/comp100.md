@@ -41,9 +41,9 @@ permalink: /comp100/
 | 33 | русь  | 1462 |
 | 34 | 仙女座星雲 | 1460 |
 | 35 | pirates spatial | 1459 |
-| 36 | Лунный Феникс | 1458 |
-| 37 | 共产星际 | 1455 |
-| 38 | Order of Hades | 1454 |
+| 36 | Order of Hades | 1459 |
+| 37 | Лунный Феникс | 1458 |
+| 38 | 共产星际 | 1455 |
 | 39 | 9-Й СКОРПИОН | 1453 |
 | 40 | Stargate Corp | 1450 |
 | 41 | CIS | 1448 |
@@ -62,8 +62,8 @@ permalink: /comp100/
 | 54 | White Dwarf | 1426 |
 | 55 | Спутник | 1422 |
 | 56 | Axiom | 1422 |
-| 57 | Nearland Ind | 1420 |
-| 58 | Cyber Star | 1417 |
+| 57 | Cyber Star | 1420 |
+| 58 | Nearland Ind | 1420 |
 | 59 | Omega Alpha | 1415 |
 | 60 | Kratos | 1415 |
 | 61 | Atlas Star llc. | 1415 |
@@ -71,13 +71,13 @@ permalink: /comp100/
 | 63 | First Legion | 1413 |
 | 64 | Outland Ind. | 1411 |
 | 65 | StarControl | 1410 |
-| 66 | Black Star llc. | 1409 |
-| 67 | Повстанцы Хаоса | 1408 |
-| 68 | TeddisaurusWrex | 1407 |
-| 69 | BRASIL STAR | 1406 |
-| 70 | リリース | 1405 |
-| 71 | Decode | 1403 |
-| 72 | Spica​ | 1402 |
+| 66 | Spica​ | 1409 |
+| 67 | Black Star llc. | 1409 |
+| 68 | Повстанцы Хаоса | 1408 |
+| 69 | TeddisaurusWrex | 1407 |
+| 70 | BRASIL STAR | 1406 |
+| 71 | リリース | 1405 |
+| 72 | Decode | 1403 |
 | 73 | Embers Rising | 1402 |
 | 74 | Warriorlords | 1400 |
 | 75 | Corvus Ind. | 1399 |
