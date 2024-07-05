@@ -94,15 +94,15 @@ permalink: /comp100/
 | 86 | Dumpster Fire 2 | 1385 |
 | 87 | OPA | 1383 |
 | 88 | Rogue One | 1383 |
-| 89 | 对，进就进人少的 | 1382 |
-| 90 | 한국인 | 1382 |
-| 91 | DarkMoon | 1381 |
-| 92 | 101 | 1380 |
-| 93 | Providence | 1379 |
-| 94 | Альянс | 1375 |
-| 95 | 绛紫星 | 1374 |
-| 96 | Red Dawn | 1373 |
-| 97 | Z. O. V.  | 1372 |
-| 98 | Hinterm Mars | 1371 |
-| 99 | Dacia Chill | 1369 |
-| 100 | BSO Academy | 1369 |
+| 89 | 한국인 | 1382 |
+| 90 | DarkMoon | 1381 |
+| 91 | 101 | 1380 |
+| 92 | Providence | 1379 |
+| 93 | Альянс | 1375 |
+| 94 | 绛紫星 | 1374 |
+| 95 | Red Dawn | 1373 |
+| 96 | Z. O. V.  | 1372 |
+| 97 | Hinterm Mars | 1371 |
+| 98 | Dacia Chill | 1369 |
+| 99 | BSO Academy | 1369 |
+| 100 | Stellar Exports | 1368 |
