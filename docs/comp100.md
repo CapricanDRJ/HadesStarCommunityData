@@ -10,8 +10,8 @@ permalink: /comp100/
 | 2 | 柯伊伯带 | 1563 |
 | 3 | Слава Украине! | 1550 |
 | 4 | Brodudes Inc. | 1545 |
-| 5 | Ender | 1539 |
-| 6 | Likapa | 1537 |
+| 5 | Likapa | 1544 |
+| 6 | Ender | 1539 |
 | 7 | BlackStar Order | 1531 |
 | 8 | Auscorp  | 1525 |
 | 9 | 六大天神 | 1525 |
@@ -19,17 +19,17 @@ permalink: /comp100/
 | 11 | Blood Hounds | 1517 |
 | 12 | VoidRunners | 1512 |
 | 13 | Continuum | 1509 |
-| 14 | Hinterm Mond | 1505 |
-| 15 | 星舰月球 | 1504 |
-| 16 | Hand Of NOD!  | 1503 |
-| 17 | IX Легион | 1499 |
-| 18 | Famous Assasins | 1498 |
-| 19 | [Blue*Nation] | 1495 |
+| 14 | 星舰月球 | 1504 |
+| 15 | Hand Of NOD!  | 1503 |
+| 16 | IX Легион | 1499 |
+| 17 | Famous Assasins | 1498 |
+| 18 | [Blue*Nation] | 1495 |
+| 19 | OntarioDawn | 1492 |
 | 20 | Медведи | 1492 |
 | 21 | BrazilCorp. | 1491 |
-| 22 | OntarioDawn | 1488 |
-| 23 | Ninth Planet | 1487 |
-| 24 | Неизбежный Рок | 1486 |
+| 22 | Ninth Planet | 1487 |
+| 23 | Неизбежный Рок | 1486 |
+| 24 | Hinterm Mond | 1485 |
 | 25 | 111 | 1485 |
 | 26 | 新手联邦（新经济开发区） | 1480 |
 | 27 | Death Star llc. | 1479 |
@@ -66,32 +66,32 @@ permalink: /comp100/
 | 58 | Outland Ind. | 1424 |
 | 59 | Спутник | 1422 |
 | 60 | Cyber Star | 1420 |
-| 61 | Kratos | 1415 |
-| 62 | Atlas Star llc. | 1415 |
-| 63 | Spacefleet | 1414 |
-| 64 | First Legion | 1413 |
-| 65 | StarControl | 1410 |
-| 66 | Spica​ | 1409 |
-| 67 | Black Star llc. | 1409 |
-| 68 | Повстанцы Хаоса | 1408 |
-| 69 | TeddisaurusWrex | 1407 |
-| 70 | BRASIL STAR | 1406 |
-| 71 | リリース | 1405 |
-| 72 | Decode | 1403 |
-| 73 | Embers Rising | 1402 |
-| 74 | Warriorlords | 1400 |
-| 75 | Corvus Ind. | 1399 |
-| 76 | 第一序列 | 1399 |
-| 77 | Grunthal Gang | 1397 |
+| 61 | Grunthal Gang | 1416 |
+| 62 | Kratos | 1415 |
+| 63 | Atlas Star llc. | 1415 |
+| 64 | Spacefleet | 1414 |
+| 65 | First Legion | 1413 |
+| 66 | StarControl | 1410 |
+| 67 | Spica​ | 1409 |
+| 68 | Black Star llc. | 1409 |
+| 69 | Повстанцы Хаоса | 1408 |
+| 70 | TeddisaurusWrex | 1407 |
+| 71 | BRASIL STAR | 1406 |
+| 72 | リリース | 1405 |
+| 73 | Decode | 1403 |
+| 74 | Embers Rising | 1402 |
+| 75 | Warriorlords | 1400 |
+| 76 | Corvus Ind. | 1399 |
+| 77 | 第一序列 | 1399 |
 | 78 | 元素联邦 | 1396 |
 | 79 | Zvezdec | 1396 |
 | 80 | Elysium | 1395 |
-| 81 | 第四星际 | 1391 |
-| 82 | 中国星际联盟 | 1389 |
-| 83 | Starsailors | 1388 |
-| 84 | Newbs | 1388 |
-| 85 | Bunker | 1386 |
-| 86 | Dumpster Fire 2 | 1385 |
+| 81 | Dumpster Fire 2 | 1393 |
+| 82 | 第四星际 | 1391 |
+| 83 | 中国星际联盟 | 1389 |
+| 84 | Starsailors | 1388 |
+| 85 | Newbs | 1388 |
+| 86 | Bunker | 1386 |
 | 87 | OPA | 1383 |
 | 88 | Rogue One | 1383 |
 | 89 | 한국인 | 1382 |
