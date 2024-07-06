@@ -83,14 +83,14 @@ permalink: /comp100/
 | 75 | Corvus Ind. | 1399 |
 | 76 | 第一序列 | 1399 |
 | 77 | Grunthal Gang | 1397 |
-| 78 | Zvezdec | 1396 |
-| 79 | Elysium | 1395 |
-| 80 | 第四星际 | 1391 |
-| 81 | 中国星际联盟 | 1389 |
-| 82 | Starsailors | 1388 |
-| 83 | Newbs | 1388 |
-| 84 | Bunker | 1386 |
-| 85 | 元素联邦 | 1385 |
+| 78 | 元素联邦 | 1396 |
+| 79 | Zvezdec | 1396 |
+| 80 | Elysium | 1395 |
+| 81 | 第四星际 | 1391 |
+| 82 | 中国星际联盟 | 1389 |
+| 83 | Starsailors | 1388 |
+| 84 | Newbs | 1388 |
+| 85 | Bunker | 1386 |
 | 86 | Dumpster Fire 2 | 1385 |
 | 87 | OPA | 1383 |
 | 88 | Rogue One | 1383 |
