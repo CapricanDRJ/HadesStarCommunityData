@@ -9,7 +9,7 @@ permalink: /comp100/
 | 1 | ДИВЕРСАНТЫ | 1591 |
 | 2 | 柯伊伯带 | 1563 |
 | 3 | Слава Украине! | 1550 |
-| 4 | Brodudes Inc. | 1545 |
+| 4 | Brodudes Inc. | 1546 |
 | 5 | Likapa | 1544 |
 | 6 | Ender | 1539 |
 | 7 | BlackStar Order | 1531 |
@@ -34,10 +34,10 @@ permalink: /comp100/
 | 26 | 新手联邦（新经济开发区） | 1480 |
 | 27 | Death Star llc. | 1479 |
 | 28 | 仙女座星雲 | 1475 |
-| 29 |  RELAX CZ/SK | 1468 |
-| 30 | Лунный Феникс | 1468 |
-| 31 | Order of Hades | 1466 |
-| 32 | Tuatha De Danan | 1465 |
+| 29 | Tuatha De Danan | 1469 |
+| 30 |  RELAX CZ/SK | 1468 |
+| 31 | Лунный Феникс | 1468 |
+| 32 | Order of Hades | 1466 |
 | 33 | Hexacropians | 1464 |
 | 34 | Ark | 1462 |
 | 35 | русь  | 1462 |
@@ -93,16 +93,16 @@ permalink: /comp100/
 | 85 | Newbs | 1388 |
 | 86 | Bunker | 1386 |
 | 87 | OPA | 1383 |
-| 88 | Rogue One | 1383 |
-| 89 | 한국인 | 1382 |
-| 90 | Wompwompway  | 1381 |
-| 91 | DarkMoon | 1381 |
-| 92 | DarkSide | 1380 |
-| 93 | 101 | 1380 |
-| 94 | Eastern Front | 1379 |
-| 95 | Red Dawn | 1379 |
-| 96 | Альянс | 1375 |
-| 97 | 绛紫星 | 1374 |
-| 98 | Z. O. V.  | 1372 |
-| 99 | Hinterm Mars | 1371 |
-| 100 | Dacia Chill | 1369 |
+| 88 | 한국인 | 1382 |
+| 89 | Wompwompway  | 1381 |
+| 90 | DarkMoon | 1381 |
+| 91 | DarkSide | 1380 |
+| 92 | 101 | 1380 |
+| 93 | Eastern Front | 1379 |
+| 94 | Red Dawn | 1379 |
+| 95 | Альянс | 1375 |
+| 96 | 绛紫星 | 1374 |
+| 97 | Z. O. V.  | 1372 |
+| 98 | Hinterm Mars | 1371 |
+| 99 | Dacia Chill | 1369 |
+| 100 | BSO Academy | 1369 |
