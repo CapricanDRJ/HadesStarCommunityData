@@ -12,55 +12,55 @@ permalink: /comp100/
 | 4 | Brodudes Inc. | 1545 |
 | 5 | Ender | 1539 |
 | 6 | Likapa | 1537 |
-| 7 | Auscorp  | 1525 |
-| 8 | МАРСЮКИ | 1518 |
-| 9 | Blood Hounds | 1517 |
-| 10 | VoidRunners | 1512 |
-| 11 | Continuum | 1509 |
-| 12 | Hinterm Mond | 1505 |
-| 13 | 星舰月球 | 1504 |
-| 14 | Hand Of NOD!  | 1503 |
-| 15 | IX Легион | 1499 |
-| 16 | Famous Assasins | 1498 |
-| 17 | 六大天神 | 1498 |
-| 18 | BlackStar Order | 1496 |
+| 7 | BlackStar Order | 1531 |
+| 8 | Auscorp  | 1525 |
+| 9 | 六大天神 | 1525 |
+| 10 | МАРСЮКИ | 1518 |
+| 11 | Blood Hounds | 1517 |
+| 12 | VoidRunners | 1512 |
+| 13 | Continuum | 1509 |
+| 14 | Hinterm Mond | 1505 |
+| 15 | 星舰月球 | 1504 |
+| 16 | Hand Of NOD!  | 1503 |
+| 17 | IX Легион | 1499 |
+| 18 | Famous Assasins | 1498 |
 | 19 | [Blue*Nation] | 1495 |
 | 20 | Медведи | 1492 |
 | 21 | BrazilCorp. | 1491 |
 | 22 | OntarioDawn | 1488 |
 | 23 | Ninth Planet | 1487 |
-| 24 | 111 | 1485 |
-| 25 | 新手联邦（新经济开发区） | 1480 |
-| 26 | Death Star llc. | 1479 |
-| 27 | 仙女座星雲 | 1475 |
-| 28 | Лунный Феникс | 1468 |
-| 29 | Tuatha De Danan | 1465 |
-| 30 | Hexacropians | 1464 |
-| 31 | Ark | 1462 |
-| 32 | русь  | 1462 |
-| 33 | Order of Hades | 1459 |
-| 34 | Неизбежный Рок | 1456 |
-| 35 | 共产星际 | 1455 |
-| 36 | Gemini Ind. | 1454 |
-| 37 | 9-Й СКОРПИОН | 1453 |
-| 38 | CIS | 1453 |
-| 39 | Stargate Corp | 1450 |
-| 40 | pirates spatial | 1447 |
-| 41 | Lacuna X | 1447 |
-| 42 | Серебряная орда | 1447 |
-| 43 | Mercury Sunset | 1447 |
-| 44 | Октябристы | 1446 |
-| 45 | ✡天启✡ | 1444 |
-| 46 | Valhalla Rising | 1442 |
+| 24 | Неизбежный Рок | 1486 |
+| 25 | 111 | 1485 |
+| 26 | 新手联邦（新经济开发区） | 1480 |
+| 27 | Death Star llc. | 1479 |
+| 28 | 仙女座星雲 | 1475 |
+| 29 |  RELAX CZ/SK | 1468 |
+| 30 | Лунный Феникс | 1468 |
+| 31 | Tuatha De Danan | 1465 |
+| 32 | Hexacropians | 1464 |
+| 33 | Ark | 1462 |
+| 34 | русь  | 1462 |
+| 35 | Order of Hades | 1459 |
+| 36 | 共产星际 | 1455 |
+| 37 | Gemini Ind. | 1454 |
+| 38 | 9-Й СКОРПИОН | 1453 |
+| 39 | CIS | 1453 |
+| 40 | Stargate Corp | 1450 |
+| 41 | pirates spatial | 1447 |
+| 42 | Lacuna X | 1447 |
+| 43 | Серебряная орда | 1447 |
+| 44 | Mercury Sunset | 1447 |
+| 45 | Октябристы | 1446 |
+| 46 | ✡天启✡ | 1444 |
 | 47 | three kitties | 1442 |
 | 48 | IMPERIAL ARMADA | 1440 |
-| 49 |  RELAX CZ/SK | 1440 |
-| 50 | Emergence | 1438 |
-| 51 | Nearland Ind | 1436 |
-| 52 | 墨痕空域 | 1436 |
-| 53 | Space Penguins | 1431 |
-| 54 | ANDROMEDA INC.  | 1429 |
-| 55 | Axiom | 1428 |
+| 49 | Emergence | 1438 |
+| 50 | Nearland Ind | 1436 |
+| 51 | 墨痕空域 | 1436 |
+| 52 | Space Penguins | 1431 |
+| 53 | ANDROMEDA INC.  | 1429 |
+| 54 | Axiom | 1428 |
+| 55 | Valhalla Rising | 1428 |
 | 56 | White Dwarf | 1426 |
 | 57 | Спутник | 1422 |
 | 58 | Cyber Star | 1420 |
@@ -97,12 +97,12 @@ permalink: /comp100/
 | 89 | 한국인 | 1382 |
 | 90 | Wompwompway  | 1381 |
 | 91 | DarkMoon | 1381 |
-| 92 | 101 | 1380 |
-| 93 | Eastern Front | 1379 |
-| 94 | Red Dawn | 1379 |
-| 95 | Providence | 1379 |
-| 96 | Альянс | 1375 |
-| 97 | 绛紫星 | 1374 |
-| 98 | Z. O. V.  | 1372 |
-| 99 | Hinterm Mars | 1371 |
-| 100 | Dacia Chill | 1369 |
+| 92 | DarkSide | 1380 |
+| 93 | 101 | 1380 |
+| 94 | Eastern Front | 1379 |
+| 95 | Red Dawn | 1379 |
+| 96 | Providence | 1379 |
+| 97 | Альянс | 1375 |
+| 98 | 绛紫星 | 1374 |
+| 99 | Z. O. V.  | 1372 |
+| 100 | Hinterm Mars | 1371 |
