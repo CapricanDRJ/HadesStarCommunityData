@@ -27,9 +27,9 @@ permalink: /comp100/
 | 19 | OntarioDawn | 1492 |
 | 20 | Медведи | 1492 |
 | 21 | BrazilCorp. | 1491 |
-| 22 | Ninth Planet | 1487 |
-| 23 | Неизбежный Рок | 1486 |
-| 24 | Hinterm Mond | 1485 |
+| 22 | Hinterm Mond | 1487 |
+| 23 | Ninth Planet | 1487 |
+| 24 | Неизбежный Рок | 1486 |
 | 25 | 111 | 1485 |
 | 26 | 新手联邦（新经济开发区） | 1480 |
 | 27 | Death Star llc. | 1479 |
@@ -37,16 +37,16 @@ permalink: /comp100/
 | 29 | Tuatha De Danan | 1469 |
 | 30 |  RELAX CZ/SK | 1468 |
 | 31 | Лунный Феникс | 1468 |
-| 32 | Order of Hades | 1466 |
-| 33 | Hexacropians | 1464 |
-| 34 | Ark | 1462 |
-| 35 | русь  | 1462 |
-| 36 | 共产星际 | 1455 |
-| 37 | Gemini Ind. | 1454 |
-| 38 | 9-Й СКОРПИОН | 1453 |
-| 39 | CIS | 1453 |
-| 40 | Emergence | 1450 |
-| 41 | Stargate Corp | 1450 |
+| 32 | Stargate Corp | 1467 |
+| 33 | Order of Hades | 1466 |
+| 34 | Hexacropians | 1464 |
+| 35 | Ark | 1462 |
+| 36 | русь  | 1462 |
+| 37 | 共产星际 | 1455 |
+| 38 | Gemini Ind. | 1454 |
+| 39 | 9-Й СКОРПИОН | 1453 |
+| 40 | CIS | 1453 |
+| 41 | Emergence | 1450 |
 | 42 | pirates spatial | 1447 |
 | 43 | Lacuna X | 1447 |
 | 44 | Серебряная орда | 1447 |
