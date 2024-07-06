@@ -57,19 +57,19 @@ permalink: /comp100/
 | 49 | Emergence | 1438 |
 | 50 | Nearland Ind | 1436 |
 | 51 | 墨痕空域 | 1436 |
-| 52 | Space Penguins | 1431 |
+| 52 | Space Penguins | 1435 |
 | 53 | ANDROMEDA INC.  | 1429 |
 | 54 | Axiom | 1428 |
 | 55 | Valhalla Rising | 1428 |
-| 56 | White Dwarf | 1426 |
-| 57 | Спутник | 1422 |
-| 58 | Cyber Star | 1420 |
-| 59 | Omega Alpha | 1415 |
-| 60 | Kratos | 1415 |
-| 61 | Atlas Star llc. | 1415 |
-| 62 | Spacefleet | 1414 |
-| 63 | First Legion | 1413 |
-| 64 | Outland Ind. | 1411 |
+| 56 | Omega Alpha | 1427 |
+| 57 | White Dwarf | 1426 |
+| 58 | Outland Ind. | 1424 |
+| 59 | Спутник | 1422 |
+| 60 | Cyber Star | 1420 |
+| 61 | Kratos | 1415 |
+| 62 | Atlas Star llc. | 1415 |
+| 63 | Spacefleet | 1414 |
+| 64 | First Legion | 1413 |
 | 65 | StarControl | 1410 |
 | 66 | Spica​ | 1409 |
 | 67 | Black Star llc. | 1409 |
