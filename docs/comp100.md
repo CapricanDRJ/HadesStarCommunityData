@@ -13,48 +13,48 @@ permalink: /comp100/
 | 5 | Ender | 1539 |
 | 6 | Likapa | 1537 |
 | 7 | Auscorp  | 1525 |
-| 8 | BlackStar Order | 1519 |
-| 9 | МАРСЮКИ | 1518 |
-| 10 | Blood Hounds | 1517 |
-| 11 | VoidRunners | 1512 |
-| 12 | Continuum | 1509 |
-| 13 | Hinterm Mond | 1505 |
-| 14 | 星舰月球 | 1504 |
-| 15 | Hand Of NOD!  | 1503 |
-| 16 | IX Легион | 1499 |
-| 17 | Famous Assasins | 1498 |
-| 18 | 六大天神 | 1498 |
-| 19 | Медведи | 1492 |
-| 20 | BrazilCorp. | 1491 |
-| 21 | OntarioDawn | 1488 |
-| 22 | Ninth Planet | 1487 |
-| 23 | [Blue*Nation] | 1486 |
+| 8 | МАРСЮКИ | 1518 |
+| 9 | Blood Hounds | 1517 |
+| 10 | VoidRunners | 1512 |
+| 11 | Continuum | 1509 |
+| 12 | Hinterm Mond | 1505 |
+| 13 | 星舰月球 | 1504 |
+| 14 | Hand Of NOD!  | 1503 |
+| 15 | IX Легион | 1499 |
+| 16 | Famous Assasins | 1498 |
+| 17 | 六大天神 | 1498 |
+| 18 | BlackStar Order | 1496 |
+| 19 | [Blue*Nation] | 1495 |
+| 20 | Медведи | 1492 |
+| 21 | BrazilCorp. | 1491 |
+| 22 | OntarioDawn | 1488 |
+| 23 | Ninth Planet | 1487 |
 | 24 | 111 | 1485 |
 | 25 | 新手联邦（新经济开发区） | 1480 |
 | 26 | Death Star llc. | 1479 |
-| 27 | Gemini Ind. | 1476 |
-| 28 | 仙女座星雲 | 1475 |
-| 29 | Лунный Феникс | 1468 |
-| 30 | Tuatha De Danan | 1465 |
-| 31 |  RELAX CZ/SK | 1465 |
-| 32 | Hexacropians | 1464 |
-| 33 | Ark | 1462 |
-| 34 | русь  | 1462 |
-| 35 | Order of Hades | 1459 |
-| 36 | Неизбежный Рок | 1456 |
-| 37 | 共产星际 | 1455 |
-| 38 | 9-Й СКОРПИОН | 1453 |
-| 39 | CIS | 1453 |
-| 40 | Stargate Corp | 1450 |
-| 41 | pirates spatial | 1447 |
-| 42 | Lacuna X | 1447 |
-| 43 | Серебряная орда | 1447 |
-| 44 | Mercury Sunset | 1447 |
-| 45 | Октябристы | 1446 |
-| 46 | ✡天启✡ | 1444 |
-| 47 | Valhalla Rising | 1442 |
-| 48 | three kitties | 1442 |
-| 49 | IMPERIAL ARMADA | 1440 |
+| 27 | 仙女座星雲 | 1475 |
+| 28 | Лунный Феникс | 1468 |
+| 29 | Tuatha De Danan | 1465 |
+| 30 | Hexacropians | 1464 |
+| 31 | Ark | 1462 |
+| 32 | русь  | 1462 |
+| 33 | Order of Hades | 1459 |
+| 34 | Неизбежный Рок | 1456 |
+| 35 | 共产星际 | 1455 |
+| 36 | Gemini Ind. | 1454 |
+| 37 | 9-Й СКОРПИОН | 1453 |
+| 38 | CIS | 1453 |
+| 39 | Stargate Corp | 1450 |
+| 40 | pirates spatial | 1447 |
+| 41 | Lacuna X | 1447 |
+| 42 | Серебряная орда | 1447 |
+| 43 | Mercury Sunset | 1447 |
+| 44 | Октябристы | 1446 |
+| 45 | ✡天启✡ | 1444 |
+| 46 | Valhalla Rising | 1442 |
+| 47 | three kitties | 1442 |
+| 48 | IMPERIAL ARMADA | 1440 |
+| 49 |  RELAX CZ/SK | 1440 |
 | 50 | Emergence | 1438 |
 | 51 | Nearland Ind | 1436 |
 | 52 | 墨痕空域 | 1436 |
@@ -99,10 +99,10 @@ permalink: /comp100/
 | 91 | DarkMoon | 1381 |
 | 92 | 101 | 1380 |
 | 93 | Eastern Front | 1379 |
-| 94 | Providence | 1379 |
-| 95 | Альянс | 1375 |
-| 96 | 绛紫星 | 1374 |
-| 97 | Red Dawn | 1373 |
+| 94 | Red Dawn | 1379 |
+| 95 | Providence | 1379 |
+| 96 | Альянс | 1375 |
+| 97 | 绛紫星 | 1374 |
 | 98 | Z. O. V.  | 1372 |
 | 99 | Hinterm Mars | 1371 |
 | 100 | Dacia Chill | 1369 |
