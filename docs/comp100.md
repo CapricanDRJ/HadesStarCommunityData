@@ -36,29 +36,29 @@ permalink: /comp100/
 | 28 | 仙女座星雲 | 1475 |
 | 29 |  RELAX CZ/SK | 1468 |
 | 30 | Лунный Феникс | 1468 |
-| 31 | Tuatha De Danan | 1465 |
-| 32 | Hexacropians | 1464 |
-| 33 | Ark | 1462 |
-| 34 | русь  | 1462 |
-| 35 | Order of Hades | 1459 |
+| 31 | Order of Hades | 1466 |
+| 32 | Tuatha De Danan | 1465 |
+| 33 | Hexacropians | 1464 |
+| 34 | Ark | 1462 |
+| 35 | русь  | 1462 |
 | 36 | 共产星际 | 1455 |
 | 37 | Gemini Ind. | 1454 |
 | 38 | 9-Й СКОРПИОН | 1453 |
 | 39 | CIS | 1453 |
-| 40 | Stargate Corp | 1450 |
-| 41 | pirates spatial | 1447 |
-| 42 | Lacuna X | 1447 |
-| 43 | Серебряная орда | 1447 |
-| 44 | Mercury Sunset | 1447 |
-| 45 | Октябристы | 1446 |
-| 46 | ✡天启✡ | 1444 |
-| 47 | three kitties | 1442 |
-| 48 | IMPERIAL ARMADA | 1440 |
-| 49 | Emergence | 1438 |
-| 50 | Nearland Ind | 1436 |
-| 51 | 墨痕空域 | 1436 |
-| 52 | Space Penguins | 1435 |
-| 53 | ANDROMEDA INC.  | 1429 |
+| 40 | Emergence | 1450 |
+| 41 | Stargate Corp | 1450 |
+| 42 | pirates spatial | 1447 |
+| 43 | Lacuna X | 1447 |
+| 44 | Серебряная орда | 1447 |
+| 45 | Mercury Sunset | 1447 |
+| 46 | Октябристы | 1446 |
+| 47 | ✡天启✡ | 1444 |
+| 48 | three kitties | 1442 |
+| 49 | IMPERIAL ARMADA | 1440 |
+| 50 | ANDROMEDA INC.  | 1439 |
+| 51 | Nearland Ind | 1436 |
+| 52 | 墨痕空域 | 1436 |
+| 53 | Space Penguins | 1435 |
 | 54 | Axiom | 1428 |
 | 55 | Valhalla Rising | 1428 |
 | 56 | Omega Alpha | 1427 |
@@ -101,8 +101,8 @@ permalink: /comp100/
 | 93 | 101 | 1380 |
 | 94 | Eastern Front | 1379 |
 | 95 | Red Dawn | 1379 |
-| 96 | Providence | 1379 |
-| 97 | Альянс | 1375 |
-| 98 | 绛紫星 | 1374 |
-| 99 | Z. O. V.  | 1372 |
-| 100 | Hinterm Mars | 1371 |
+| 96 | Альянс | 1375 |
+| 97 | 绛紫星 | 1374 |
+| 98 | Z. O. V.  | 1372 |
+| 99 | Hinterm Mars | 1371 |
+| 100 | Dacia Chill | 1369 |
