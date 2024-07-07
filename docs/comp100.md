@@ -52,9 +52,9 @@ permalink: /comp100/
 | 44 | Серебряная орда | 1447 |
 | 45 | Mercury Sunset | 1447 |
 | 46 | Октябристы | 1446 |
-| 47 | ✡天启✡ | 1444 |
-| 48 | three kitties | 1442 |
-| 49 | IMPERIAL ARMADA | 1440 |
+| 47 | IMPERIAL ARMADA | 1445 |
+| 48 | ✡天启✡ | 1444 |
+| 49 | three kitties | 1442 |
 | 50 | ANDROMEDA INC.  | 1439 |
 | 51 | Nearland Ind | 1436 |
 | 52 | 墨痕空域 | 1436 |
