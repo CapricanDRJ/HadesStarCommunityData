@@ -48,13 +48,13 @@ permalink: /comp100/
 | 40 | 9-Й СКОРПИОН | 1453 |
 | 41 | CIS | 1453 |
 | 42 | Emergence | 1450 |
-| 43 | pirates spatial | 1447 |
-| 44 | Lacuna X | 1447 |
-| 45 | Mercury Sunset | 1447 |
-| 46 | Октябристы | 1446 |
-| 47 | IMPERIAL ARMADA | 1445 |
-| 48 | ✡天启✡ | 1444 |
-| 49 | three kitties | 1442 |
+| 43 | three kitties | 1448 |
+| 44 | pirates spatial | 1447 |
+| 45 | Lacuna X | 1447 |
+| 46 | Mercury Sunset | 1447 |
+| 47 | Октябристы | 1446 |
+| 48 | IMPERIAL ARMADA | 1445 |
+| 49 | ✡天启✡ | 1444 |
 | 50 | ANDROMEDA INC.  | 1439 |
 | 51 | Nearland Ind | 1436 |
 | 52 | 墨痕空域 | 1436 |
