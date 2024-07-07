@@ -64,9 +64,9 @@ permalink: /comp100/
 | 56 | Omega Alpha | 1427 |
 | 57 | Outland Ind. | 1424 |
 | 58 | Спутник | 1422 |
-| 59 | Cyber Star | 1420 |
-| 60 | Grunthal Gang | 1416 |
-| 61 | Kratos | 1415 |
+| 59 | Kratos | 1421 |
+| 60 | Cyber Star | 1420 |
+| 61 | Grunthal Gang | 1416 |
 | 62 | Atlas Star llc. | 1415 |
 | 63 | Spacefleet | 1414 |
 | 64 | First Legion | 1413 |
