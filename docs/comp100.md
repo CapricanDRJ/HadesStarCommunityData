@@ -92,17 +92,17 @@ permalink: /comp100/
 | 84 | Starsailors | 1388 |
 | 85 | Newbs | 1388 |
 | 86 | Bunker | 1386 |
-| 87 | OPA | 1383 |
-| 88 | 한국인 | 1382 |
-| 89 | Wompwompway  | 1381 |
-| 90 | DarkMoon | 1381 |
-| 91 | DarkSide | 1380 |
-| 92 | 101 | 1380 |
-| 93 | Eastern Front | 1379 |
-| 94 | Red Dawn | 1379 |
-| 95 | Альянс | 1375 |
-| 96 | 绛紫星 | 1374 |
-| 97 | Z. O. V.  | 1372 |
-| 98 | Hinterm Mars | 1371 |
-| 99 | Dacia Chill | 1369 |
-| 100 | BSO Academy | 1369 |
+| 87 | 对，进就进人少的 | 1386 |
+| 88 | OPA | 1383 |
+| 89 | 한국인 | 1382 |
+| 90 | Wompwompway  | 1381 |
+| 91 | DarkMoon | 1381 |
+| 92 | DarkSide | 1380 |
+| 93 | 101 | 1380 |
+| 94 | Eastern Front | 1379 |
+| 95 | Red Dawn | 1379 |
+| 96 | Альянс | 1375 |
+| 97 | 绛紫星 | 1374 |
+| 98 | Z. O. V.  | 1372 |
+| 99 | Hinterm Mars | 1371 |
+| 100 | Dacia Chill | 1369 |
