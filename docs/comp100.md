@@ -15,7 +15,7 @@ permalink: /comp100/
 | 7 | BlackStar Order | 1531 |
 | 8 | Auscorp  | 1525 |
 | 9 | 六大天神 | 1525 |
-| 10 | Continuum | 1519 |
+| 10 | Continuum | 1522 |
 | 11 | МАРСЮКИ | 1518 |
 | 12 | Blood Hounds | 1517 |
 | 13 | VoidRunners | 1512 |
