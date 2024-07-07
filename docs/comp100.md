@@ -15,10 +15,10 @@ permalink: /comp100/
 | 7 | BlackStar Order | 1531 |
 | 8 | Auscorp  | 1525 |
 | 9 | 六大天神 | 1525 |
-| 10 | МАРСЮКИ | 1518 |
-| 11 | Blood Hounds | 1517 |
-| 12 | VoidRunners | 1512 |
-| 13 | Continuum | 1509 |
+| 10 | Continuum | 1519 |
+| 11 | МАРСЮКИ | 1518 |
+| 12 | Blood Hounds | 1517 |
+| 13 | VoidRunners | 1512 |
 | 14 | 星舰月球 | 1504 |
 | 15 | Hand Of NOD!  | 1503 |
 | 16 | IX Легион | 1499 |
@@ -34,22 +34,22 @@ permalink: /comp100/
 | 26 | 新手联邦（新经济开发区） | 1480 |
 | 27 | Death Star llc. | 1479 |
 | 28 | 仙女座星雲 | 1475 |
-| 29 | Tuatha De Danan | 1469 |
-| 30 |  RELAX CZ/SK | 1468 |
-| 31 | Лунный Феникс | 1468 |
-| 32 | Stargate Corp | 1467 |
-| 33 | Order of Hades | 1466 |
-| 34 | Hexacropians | 1464 |
-| 35 | Ark | 1462 |
+| 29 | Ark | 1475 |
+| 30 | Tuatha De Danan | 1469 |
+| 31 |  RELAX CZ/SK | 1468 |
+| 32 | Лунный Феникс | 1468 |
+| 33 | Stargate Corp | 1467 |
+| 34 | Order of Hades | 1466 |
+| 35 | Hexacropians | 1464 |
 | 36 | русь  | 1462 |
-| 37 | 共产星际 | 1455 |
-| 38 | Gemini Ind. | 1454 |
-| 39 | 9-Й СКОРПИОН | 1453 |
-| 40 | CIS | 1453 |
-| 41 | Emergence | 1450 |
-| 42 | pirates spatial | 1447 |
-| 43 | Lacuna X | 1447 |
-| 44 | Серебряная орда | 1447 |
+| 37 | Серебряная орда | 1457 |
+| 38 | 共产星际 | 1455 |
+| 39 | Gemini Ind. | 1454 |
+| 40 | 9-Й СКОРПИОН | 1453 |
+| 41 | CIS | 1453 |
+| 42 | Emergence | 1450 |
+| 43 | pirates spatial | 1447 |
+| 44 | Lacuna X | 1447 |
 | 45 | Mercury Sunset | 1447 |
 | 46 | Октябристы | 1446 |
 | 47 | IMPERIAL ARMADA | 1445 |
@@ -62,15 +62,15 @@ permalink: /comp100/
 | 54 | Axiom | 1428 |
 | 55 | Valhalla Rising | 1428 |
 | 56 | Omega Alpha | 1427 |
-| 57 | White Dwarf | 1426 |
-| 58 | Outland Ind. | 1424 |
-| 59 | Спутник | 1422 |
-| 60 | Cyber Star | 1420 |
-| 61 | Grunthal Gang | 1416 |
-| 62 | Kratos | 1415 |
-| 63 | Atlas Star llc. | 1415 |
-| 64 | Spacefleet | 1414 |
-| 65 | First Legion | 1413 |
+| 57 | Outland Ind. | 1424 |
+| 58 | Спутник | 1422 |
+| 59 | Cyber Star | 1420 |
+| 60 | Grunthal Gang | 1416 |
+| 61 | Kratos | 1415 |
+| 62 | Atlas Star llc. | 1415 |
+| 63 | Spacefleet | 1414 |
+| 64 | First Legion | 1413 |
+| 65 | White Dwarf | 1413 |
 | 66 | StarControl | 1410 |
 | 67 | Spica​ | 1409 |
 | 68 | Black Star llc. | 1409 |
@@ -84,15 +84,15 @@ permalink: /comp100/
 | 76 | Corvus Ind. | 1399 |
 | 77 | 第一序列 | 1399 |
 | 78 | 元素联邦 | 1396 |
-| 79 | Zvezdec | 1396 |
-| 80 | Elysium | 1395 |
-| 81 | Dumpster Fire 2 | 1393 |
-| 82 | 第四星际 | 1391 |
-| 83 | 中国星际联盟 | 1389 |
-| 84 | Starsailors | 1388 |
-| 85 | Newbs | 1388 |
-| 86 | Bunker | 1386 |
-| 87 | 对，进就进人少的 | 1386 |
+| 79 | Elysium | 1395 |
+| 80 | Dumpster Fire 2 | 1393 |
+| 81 | 第四星际 | 1391 |
+| 82 | 中国星际联盟 | 1389 |
+| 83 | Starsailors | 1388 |
+| 84 | Newbs | 1388 |
+| 85 | Bunker | 1386 |
+| 86 | 对，进就进人少的 | 1386 |
+| 87 | Zvezdec | 1385 |
 | 88 | OPA | 1383 |
 | 89 | 한국인 | 1382 |
 | 90 | Wompwompway  | 1381 |
