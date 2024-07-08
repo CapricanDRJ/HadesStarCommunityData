@@ -66,18 +66,18 @@ permalink: /comp100/
 | 58 | Спутник | 1422 |
 | 59 | Kratos | 1421 |
 | 60 | Cyber Star | 1420 |
-| 61 | Grunthal Gang | 1416 |
-| 62 | Atlas Star llc. | 1415 |
-| 63 | Spacefleet | 1414 |
-| 64 | First Legion | 1413 |
-| 65 | White Dwarf | 1413 |
-| 66 | StarControl | 1410 |
-| 67 | Spica​ | 1409 |
-| 68 | Black Star llc. | 1409 |
-| 69 | Повстанцы Хаоса | 1408 |
-| 70 | TeddisaurusWrex | 1407 |
-| 71 | BRASIL STAR | 1406 |
-| 72 | リリース | 1405 |
+| 61 | リリース | 1418 |
+| 62 | Grunthal Gang | 1416 |
+| 63 | Atlas Star llc. | 1415 |
+| 64 | Spacefleet | 1414 |
+| 65 | First Legion | 1413 |
+| 66 | White Dwarf | 1413 |
+| 67 | StarControl | 1410 |
+| 68 | Spica​ | 1409 |
+| 69 | Black Star llc. | 1409 |
+| 70 | Повстанцы Хаоса | 1408 |
+| 71 | TeddisaurusWrex | 1407 |
+| 72 | BRASIL STAR | 1406 |
 | 73 | Decode | 1403 |
 | 74 | Embers Rising | 1402 |
 | 75 | Warriorlords | 1400 |
