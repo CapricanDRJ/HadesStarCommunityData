@@ -6,7 +6,7 @@ permalink: /comp100/
 
 | Rank | Corporation Name | Elo Rating |
 |------|-----------------|------------|
-| 1 | ДИВЕРСАНТЫ | 1591 |
+| 1 | ДИВЕРСАНТЫ | 1593 |
 | 2 | 柯伊伯带 | 1563 |
 | 3 | Brodudes Inc. | 1552 |
 | 4 | Слава Украине! | 1550 |
@@ -14,13 +14,13 @@ permalink: /comp100/
 | 6 | Ender | 1539 |
 | 7 | BlackStar Order | 1531 |
 | 8 | Auscorp  | 1525 |
-| 9 | 六大天神 | 1525 |
-| 10 | Continuum | 1522 |
-| 11 | МАРСЮКИ | 1518 |
-| 12 | Blood Hounds | 1517 |
-| 13 | VoidRunners | 1512 |
-| 14 | 星舰月球 | 1504 |
-| 15 | Hand Of NOD!  | 1503 |
+| 9 | Continuum | 1522 |
+| 10 | МАРСЮКИ | 1518 |
+| 11 | Blood Hounds | 1517 |
+| 12 | VoidRunners | 1512 |
+| 13 | 星舰月球 | 1504 |
+| 14 | Hand Of NOD!  | 1503 |
+| 15 | 六大天神 | 1502 |
 | 16 | IX Легион | 1499 |
 | 17 | Famous Assasins | 1498 |
 | 18 | [Blue*Nation] | 1495 |
@@ -41,9 +41,9 @@ permalink: /comp100/
 | 33 | Stargate Corp | 1467 |
 | 34 | Order of Hades | 1466 |
 | 35 | Hexacropians | 1464 |
-| 36 | русь  | 1462 |
-| 37 | Серебряная орда | 1457 |
-| 38 | 共产星际 | 1455 |
+| 36 | 共产星际 | 1464 |
+| 37 | русь  | 1462 |
+| 38 | Серебряная орда | 1457 |
 | 39 | Gemini Ind. | 1454 |
 | 40 | 9-Й СКОРПИОН | 1453 |
 | 41 | CIS | 1453 |
@@ -66,34 +66,34 @@ permalink: /comp100/
 | 58 | Спутник | 1422 |
 | 59 | Kratos | 1421 |
 | 60 | Cyber Star | 1420 |
-| 61 | リリース | 1418 |
-| 62 | Grunthal Gang | 1416 |
-| 63 | Atlas Star llc. | 1415 |
-| 64 | Spacefleet | 1414 |
-| 65 | First Legion | 1413 |
-| 66 | White Dwarf | 1413 |
-| 67 | StarControl | 1410 |
-| 68 | Spica​ | 1409 |
-| 69 | Black Star llc. | 1409 |
-| 70 | Повстанцы Хаоса | 1408 |
-| 71 | TeddisaurusWrex | 1407 |
-| 72 | BRASIL STAR | 1406 |
-| 73 | Decode | 1403 |
-| 74 | Embers Rising | 1402 |
-| 75 | Warriorlords | 1400 |
-| 76 | Corvus Ind. | 1399 |
-| 77 | 第一序列 | 1399 |
-| 78 | 元素联邦 | 1396 |
-| 79 | Elysium | 1395 |
-| 80 | Dumpster Fire 2 | 1393 |
-| 81 | 第四星际 | 1391 |
-| 82 | 中国星际联盟 | 1389 |
-| 83 | Starsailors | 1388 |
-| 84 | Newbs | 1388 |
-| 85 | Bunker | 1386 |
-| 86 | 对，进就进人少的 | 1386 |
-| 87 | Zvezdec | 1385 |
-| 88 | OPA | 1383 |
+| 61 | Повстанцы Хаоса | 1419 |
+| 62 | リリース | 1418 |
+| 63 | Grunthal Gang | 1416 |
+| 64 | Atlas Star llc. | 1415 |
+| 65 | Spacefleet | 1414 |
+| 66 | First Legion | 1413 |
+| 67 | White Dwarf | 1413 |
+| 68 | StarControl | 1410 |
+| 69 | Spica​ | 1409 |
+| 70 | TeddisaurusWrex | 1407 |
+| 71 | BRASIL STAR | 1406 |
+| 72 | Decode | 1403 |
+| 73 | Embers Rising | 1402 |
+| 74 | Warriorlords | 1400 |
+| 75 | Corvus Ind. | 1399 |
+| 76 | 第一序列 | 1399 |
+| 77 | 元素联邦 | 1396 |
+| 78 | Elysium | 1395 |
+| 79 | Dumpster Fire 2 | 1393 |
+| 80 | 第四星际 | 1391 |
+| 81 | 中国星际联盟 | 1389 |
+| 82 | Starsailors | 1388 |
+| 83 | Newbs | 1388 |
+| 84 | Bunker | 1386 |
+| 85 | 对，进就进人少的 | 1386 |
+| 86 | Zvezdec | 1385 |
+| 87 | OPA | 1383 |
+| 88 | Black Star llc. | 1383 |
 | 89 | 한국인 | 1382 |
 | 90 | Wompwompway  | 1381 |
 | 91 | DarkMoon | 1381 |
