@@ -57,22 +57,22 @@ permalink: /comp100/
 | 49 | ✡天启✡ | 1444 |
 | 50 | ANDROMEDA INC.  | 1439 |
 | 51 | Nearland Ind | 1436 |
-| 52 | 墨痕空域 | 1436 |
-| 53 | Space Penguins | 1435 |
-| 54 | Axiom | 1428 |
-| 55 | Valhalla Rising | 1428 |
-| 56 | Omega Alpha | 1427 |
-| 57 | Outland Ind. | 1424 |
-| 58 | Спутник | 1422 |
-| 59 | Kratos | 1421 |
-| 60 | Cyber Star | 1420 |
-| 61 | Повстанцы Хаоса | 1419 |
-| 62 | リリース | 1418 |
-| 63 | Grunthal Gang | 1416 |
-| 64 | Atlas Star llc. | 1415 |
-| 65 | Spacefleet | 1414 |
-| 66 | First Legion | 1413 |
-| 67 | White Dwarf | 1413 |
+| 52 | Space Penguins | 1435 |
+| 53 | Axiom | 1428 |
+| 54 | Valhalla Rising | 1428 |
+| 55 | Omega Alpha | 1427 |
+| 56 | Outland Ind. | 1424 |
+| 57 | Спутник | 1422 |
+| 58 | Kratos | 1421 |
+| 59 | Cyber Star | 1420 |
+| 60 | Повстанцы Хаоса | 1419 |
+| 61 | リリース | 1418 |
+| 62 | Grunthal Gang | 1416 |
+| 63 | Atlas Star llc. | 1415 |
+| 64 | Spacefleet | 1414 |
+| 65 | First Legion | 1413 |
+| 66 | White Dwarf | 1413 |
+| 67 | 墨痕空域 | 1411 |
 | 68 | StarControl | 1410 |
 | 69 | Spica​ | 1409 |
 | 70 | TeddisaurusWrex | 1407 |
