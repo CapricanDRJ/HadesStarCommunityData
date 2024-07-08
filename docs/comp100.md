@@ -45,34 +45,34 @@ permalink: /comp100/
 | 37 | русь  | 1462 |
 | 38 | Октябристы | 1458 |
 | 39 | Серебряная орда | 1457 |
-| 40 | Gemini Ind. | 1454 |
-| 41 | 9-Й СКОРПИОН | 1453 |
-| 42 | CIS | 1453 |
-| 43 | Emergence | 1450 |
-| 44 | three kitties | 1448 |
-| 45 | pirates spatial | 1447 |
-| 46 | Lacuna X | 1447 |
-| 47 | Mercury Sunset | 1447 |
-| 48 | IMPERIAL ARMADA | 1445 |
-| 49 | ✡天启✡ | 1444 |
-| 50 | ANDROMEDA INC.  | 1439 |
-| 51 | Nearland Ind | 1436 |
-| 52 | Space Penguins | 1435 |
-| 53 | Axiom | 1428 |
-| 54 | Valhalla Rising | 1428 |
-| 55 | Omega Alpha | 1427 |
-| 56 | Outland Ind. | 1424 |
-| 57 | Спутник | 1422 |
-| 58 | Kratos | 1421 |
-| 59 | Cyber Star | 1420 |
-| 60 | Повстанцы Хаоса | 1419 |
-| 61 | リリース | 1418 |
-| 62 | Grunthal Gang | 1416 |
-| 63 | Atlas Star llc. | 1415 |
-| 64 | Spacefleet | 1414 |
-| 65 | First Legion | 1413 |
-| 66 | White Dwarf | 1413 |
-| 67 | 墨痕空域 | 1411 |
+| 40 | ✡天启✡ | 1457 |
+| 41 | Gemini Ind. | 1454 |
+| 42 | 9-Й СКОРПИОН | 1453 |
+| 43 | CIS | 1453 |
+| 44 | Emergence | 1450 |
+| 45 | three kitties | 1448 |
+| 46 | pirates spatial | 1447 |
+| 47 | Lacuna X | 1447 |
+| 48 | Mercury Sunset | 1447 |
+| 49 | IMPERIAL ARMADA | 1445 |
+| 50 | 墨痕空域 | 1445 |
+| 51 | ANDROMEDA INC.  | 1439 |
+| 52 | Nearland Ind | 1436 |
+| 53 | Space Penguins | 1435 |
+| 54 | Axiom | 1428 |
+| 55 | Valhalla Rising | 1428 |
+| 56 | Omega Alpha | 1427 |
+| 57 | Outland Ind. | 1424 |
+| 58 | Спутник | 1422 |
+| 59 | Kratos | 1421 |
+| 60 | Cyber Star | 1420 |
+| 61 | Повстанцы Хаоса | 1419 |
+| 62 | リリース | 1418 |
+| 63 | Grunthal Gang | 1416 |
+| 64 | Atlas Star llc. | 1415 |
+| 65 | Spacefleet | 1414 |
+| 66 | First Legion | 1413 |
+| 67 | White Dwarf | 1413 |
 | 68 | StarControl | 1410 |
 | 69 | Spica​ | 1409 |
 | 70 | TeddisaurusWrex | 1407 |
@@ -88,19 +88,19 @@ permalink: /comp100/
 | 80 | 第四星际 | 1391 |
 | 81 | 中国星际联盟 | 1389 |
 | 82 | Starsailors | 1388 |
-| 83 | Newbs | 1388 |
-| 84 | Bunker | 1386 |
-| 85 | 对，进就进人少的 | 1386 |
-| 86 | Zvezdec | 1385 |
-| 87 | OPA | 1383 |
-| 88 | Black Star llc. | 1383 |
-| 89 | 한국인 | 1382 |
-| 90 | Wompwompway  | 1381 |
-| 91 | DarkMoon | 1381 |
-| 92 | DarkSide | 1380 |
-| 93 | 101 | 1380 |
-| 94 | Eastern Front | 1379 |
-| 95 | Red Dawn | 1379 |
+| 83 | Bunker | 1386 |
+| 84 | 对，进就进人少的 | 1386 |
+| 85 | Zvezdec | 1385 |
+| 86 | OPA | 1383 |
+| 87 | Black Star llc. | 1383 |
+| 88 | 한국인 | 1382 |
+| 89 | Wompwompway  | 1381 |
+| 90 | DarkMoon | 1381 |
+| 91 | DarkSide | 1380 |
+| 92 | 101 | 1380 |
+| 93 | Eastern Front | 1379 |
+| 94 | Red Dawn | 1379 |
+| 95 | Newbs | 1375 |
 | 96 | Альянс | 1375 |
 | 97 | 绛紫星 | 1374 |
 | 98 | Z. O. V.  | 1372 |
