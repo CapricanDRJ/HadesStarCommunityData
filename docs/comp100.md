@@ -18,8 +18,8 @@ permalink: /comp100/
 | 10 | МАРСЮКИ | 1518 |
 | 11 | Blood Hounds | 1517 |
 | 12 | VoidRunners | 1512 |
-| 13 | 星舰月球 | 1504 |
-| 14 | Hand Of NOD!  | 1503 |
+| 13 | Hand Of NOD!  | 1507 |
+| 14 | 星舰月球 | 1504 |
 | 15 | 六大天神 | 1502 |
 | 16 | IX Легион | 1499 |
 | 17 | Famous Assasins | 1498 |
@@ -74,11 +74,11 @@ permalink: /comp100/
 | 66 | First Legion | 1413 |
 | 67 | White Dwarf | 1413 |
 | 68 | TeddisaurusWrex | 1412 |
-| 69 | StarControl | 1410 |
-| 70 | Spica​ | 1409 |
-| 71 | BRASIL STAR | 1406 |
-| 72 | Decode | 1403 |
-| 73 | Embers Rising | 1402 |
+| 69 | Embers Rising | 1411 |
+| 70 | StarControl | 1410 |
+| 71 | Spica​ | 1409 |
+| 72 | BRASIL STAR | 1406 |
+| 73 | Decode | 1403 |
 | 74 | Warriorlords | 1400 |
 | 75 | Corvus Ind. | 1399 |
 | 76 | 第一序列 | 1399 |
