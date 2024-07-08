@@ -73,9 +73,9 @@ permalink: /comp100/
 | 65 | Spacefleet | 1414 |
 | 66 | First Legion | 1413 |
 | 67 | White Dwarf | 1413 |
-| 68 | StarControl | 1410 |
-| 69 | Spica​ | 1409 |
-| 70 | TeddisaurusWrex | 1407 |
+| 68 | TeddisaurusWrex | 1412 |
+| 69 | StarControl | 1410 |
+| 70 | Spica​ | 1409 |
 | 71 | BRASIL STAR | 1406 |
 | 72 | Decode | 1403 |
 | 73 | Embers Rising | 1402 |
