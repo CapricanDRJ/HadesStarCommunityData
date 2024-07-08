@@ -43,16 +43,16 @@ permalink: /comp100/
 | 35 | Hexacropians | 1464 |
 | 36 | 共产星际 | 1464 |
 | 37 | русь  | 1462 |
-| 38 | Серебряная орда | 1457 |
-| 39 | Gemini Ind. | 1454 |
-| 40 | 9-Й СКОРПИОН | 1453 |
-| 41 | CIS | 1453 |
-| 42 | Emergence | 1450 |
-| 43 | three kitties | 1448 |
-| 44 | pirates spatial | 1447 |
-| 45 | Lacuna X | 1447 |
-| 46 | Mercury Sunset | 1447 |
-| 47 | Октябристы | 1446 |
+| 38 | Октябристы | 1458 |
+| 39 | Серебряная орда | 1457 |
+| 40 | Gemini Ind. | 1454 |
+| 41 | 9-Й СКОРПИОН | 1453 |
+| 42 | CIS | 1453 |
+| 43 | Emergence | 1450 |
+| 44 | three kitties | 1448 |
+| 45 | pirates spatial | 1447 |
+| 46 | Lacuna X | 1447 |
+| 47 | Mercury Sunset | 1447 |
 | 48 | IMPERIAL ARMADA | 1445 |
 | 49 | ✡天启✡ | 1444 |
 | 50 | ANDROMEDA INC.  | 1439 |
@@ -105,4 +105,4 @@ permalink: /comp100/
 | 97 | 绛紫星 | 1374 |
 | 98 | Z. O. V.  | 1372 |
 | 99 | Hinterm Mars | 1371 |
-| 100 | Dacia Chill | 1369 |
+| 100 | lost souls | 1370 |
