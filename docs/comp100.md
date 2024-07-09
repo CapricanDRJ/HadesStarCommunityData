@@ -28,11 +28,11 @@ permalink: /comp100/
 | 20 | OntarioDawn | 1492 |
 | 21 | Медведи | 1492 |
 | 22 | BrazilCorp. | 1491 |
-| 23 | Hinterm Mond | 1487 |
-| 24 | Неизбежный Рок | 1486 |
-| 25 | 111 | 1485 |
-| 26 | 新手联邦（新经济开发区） | 1480 |
-| 27 | Death Star llc. | 1479 |
+| 23 | Death Star llc. | 1491 |
+| 24 | Hinterm Mond | 1487 |
+| 25 | Неизбежный Рок | 1486 |
+| 26 | 111 | 1485 |
+| 27 | 新手联邦（新经济开发区） | 1480 |
 | 28 | 仙女座星雲 | 1475 |
 | 29 | Ark | 1475 |
 | 30 | Tuatha De Danan | 1469 |
@@ -71,31 +71,31 @@ permalink: /comp100/
 | 63 | リリース | 1418 |
 | 64 | Grunthal Gang | 1416 |
 | 65 | Atlas Star llc. | 1415 |
-| 66 | First Legion | 1413 |
-| 67 | White Dwarf | 1413 |
-| 68 | TeddisaurusWrex | 1412 |
-| 69 | Embers Rising | 1411 |
-| 70 | StarControl | 1410 |
-| 71 | Spica​ | 1409 |
-| 72 | BRASIL STAR | 1406 |
-| 73 | Decode | 1403 |
+| 66 | White Dwarf | 1413 |
+| 67 | TeddisaurusWrex | 1412 |
+| 68 | Embers Rising | 1411 |
+| 69 | StarControl | 1410 |
+| 70 | Spica​ | 1409 |
+| 71 | BRASIL STAR | 1406 |
+| 72 | Decode | 1403 |
+| 73 | First Legion | 1401 |
 | 74 | Warriorlords | 1400 |
 | 75 | Corvus Ind. | 1399 |
 | 76 | 第一序列 | 1399 |
 | 77 | 元素联邦 | 1396 |
-| 78 | Elysium | 1395 |
-| 79 | Dumpster Fire 2 | 1393 |
-| 80 | 第四星际 | 1391 |
-| 81 | 中国星际联盟 | 1389 |
-| 82 | Starsailors | 1388 |
-| 83 | Bunker | 1386 |
-| 84 | 对，进就进人少的 | 1386 |
-| 85 | Zvezdec | 1385 |
-| 86 | OPA | 1383 |
-| 87 | Black Star llc. | 1383 |
-| 88 | 한국인 | 1382 |
-| 89 | Wompwompway  | 1381 |
-| 90 | DarkMoon | 1381 |
+| 78 | 中国星际联盟 | 1396 |
+| 79 | Elysium | 1395 |
+| 80 | Dumpster Fire 2 | 1393 |
+| 81 | 第四星际 | 1391 |
+| 82 | DarkMoon | 1389 |
+| 83 | Starsailors | 1388 |
+| 84 | Bunker | 1386 |
+| 85 | 对，进就进人少的 | 1386 |
+| 86 | Zvezdec | 1385 |
+| 87 | OPA | 1383 |
+| 88 | Black Star llc. | 1383 |
+| 89 | 한국인 | 1382 |
+| 90 | Wompwompway  | 1381 |
 | 91 | DarkSide | 1380 |
 | 92 | 101 | 1380 |
 | 93 | Eastern Front | 1379 |
