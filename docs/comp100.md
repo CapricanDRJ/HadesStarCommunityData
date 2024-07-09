@@ -24,11 +24,11 @@ permalink: /comp100/
 | 16 | IX Легион | 1499 |
 | 17 | Famous Assasins | 1498 |
 | 18 | [Blue*Nation] | 1495 |
-| 19 | OntarioDawn | 1492 |
-| 20 | Медведи | 1492 |
-| 21 | BrazilCorp. | 1491 |
-| 22 | Hinterm Mond | 1487 |
-| 23 | Ninth Planet | 1487 |
+| 19 | Ninth Planet | 1492 |
+| 20 | OntarioDawn | 1492 |
+| 21 | Медведи | 1492 |
+| 22 | BrazilCorp. | 1491 |
+| 23 | Hinterm Mond | 1487 |
 | 24 | Неизбежный Рок | 1486 |
 | 25 | 111 | 1485 |
 | 26 | 新手联邦（新经济开发区） | 1480 |
@@ -67,10 +67,10 @@ permalink: /comp100/
 | 59 | Kratos | 1421 |
 | 60 | Cyber Star | 1420 |
 | 61 | Повстанцы Хаоса | 1419 |
-| 62 | リリース | 1418 |
-| 63 | Grunthal Gang | 1416 |
-| 64 | Atlas Star llc. | 1415 |
-| 65 | Spacefleet | 1414 |
+| 62 | Spacefleet | 1418 |
+| 63 | リリース | 1418 |
+| 64 | Grunthal Gang | 1416 |
+| 65 | Atlas Star llc. | 1415 |
 | 66 | First Legion | 1413 |
 | 67 | White Dwarf | 1413 |
 | 68 | TeddisaurusWrex | 1412 |
