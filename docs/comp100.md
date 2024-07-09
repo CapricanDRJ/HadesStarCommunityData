@@ -25,13 +25,13 @@ permalink: /comp100/
 | 17 | Ninth Planet | 1498 |
 | 18 | Famous Assasins | 1498 |
 | 19 | [Blue*Nation] | 1495 |
-| 20 | OntarioDawn | 1492 |
-| 21 | Медведи | 1492 |
-| 22 | BrazilCorp. | 1491 |
-| 23 | Death Star llc. | 1491 |
-| 24 | Hinterm Mond | 1487 |
-| 25 | Неизбежный Рок | 1486 |
-| 26 | 111 | 1485 |
+| 20 | 111 | 1494 |
+| 21 | OntarioDawn | 1492 |
+| 22 | Медведи | 1492 |
+| 23 | BrazilCorp. | 1491 |
+| 24 | Death Star llc. | 1491 |
+| 25 | Hinterm Mond | 1487 |
+| 26 | Неизбежный Рок | 1486 |
 | 27 | 新手联邦（新经济开发区） | 1480 |
 | 28 | 仙女座星雲 | 1475 |
 | 29 | Ark | 1475 |
