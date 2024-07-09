@@ -63,14 +63,14 @@ permalink: /comp100/
 | 55 | Valhalla Rising | 1428 |
 | 56 | Omega Alpha | 1427 |
 | 57 | Outland Ind. | 1424 |
-| 58 | Спутник | 1422 |
-| 59 | Kratos | 1421 |
-| 60 | Cyber Star | 1420 |
-| 61 | Повстанцы Хаоса | 1419 |
-| 62 | Spacefleet | 1418 |
-| 63 | リリース | 1418 |
-| 64 | Grunthal Gang | 1416 |
-| 65 | Atlas Star llc. | 1415 |
+| 58 | Atlas Star llc. | 1423 |
+| 59 | Спутник | 1422 |
+| 60 | Kratos | 1421 |
+| 61 | Cyber Star | 1420 |
+| 62 | Повстанцы Хаоса | 1419 |
+| 63 | Spacefleet | 1418 |
+| 64 | リリース | 1418 |
+| 65 | Grunthal Gang | 1416 |
 | 66 | White Dwarf | 1413 |
 | 67 | TeddisaurusWrex | 1412 |
 | 68 | Embers Rising | 1411 |
