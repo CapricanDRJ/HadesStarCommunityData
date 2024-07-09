@@ -15,10 +15,10 @@ permalink: /comp100/
 | 7 | BlackStar Order | 1531 |
 | 8 | Auscorp  | 1525 |
 | 9 | Continuum | 1522 |
-| 10 | МАРСЮКИ | 1518 |
-| 11 | Blood Hounds | 1517 |
-| 12 | IX Легион | 1513 |
-| 13 | VoidRunners | 1512 |
+| 10 | VoidRunners | 1518 |
+| 11 | МАРСЮКИ | 1518 |
+| 12 | Blood Hounds | 1517 |
+| 13 | IX Легион | 1513 |
 | 14 | Hand Of NOD!  | 1507 |
 | 15 | 星舰月球 | 1504 |
 | 16 | 六大天神 | 1502 |
