@@ -77,16 +77,16 @@ permalink: /comp100/
 | 69 | StarControl | 1410 |
 | 70 | Spica​ | 1409 |
 | 71 | BRASIL STAR | 1406 |
-| 72 | Decode | 1403 |
-| 73 | First Legion | 1401 |
-| 74 | Warriorlords | 1400 |
-| 75 | Corvus Ind. | 1399 |
-| 76 | 第一序列 | 1399 |
-| 77 | 元素联邦 | 1396 |
-| 78 | 中国星际联盟 | 1396 |
-| 79 | Elysium | 1395 |
-| 80 | Dumpster Fire 2 | 1393 |
-| 81 | 第四星际 | 1391 |
+| 72 | 第四星际 | 1403 |
+| 73 | Decode | 1403 |
+| 74 | First Legion | 1401 |
+| 75 | Warriorlords | 1400 |
+| 76 | Corvus Ind. | 1399 |
+| 77 | 第一序列 | 1399 |
+| 78 | 元素联邦 | 1396 |
+| 79 | 中国星际联盟 | 1396 |
+| 80 | Elysium | 1395 |
+| 81 | Dumpster Fire 2 | 1393 |
 | 82 | DarkMoon | 1389 |
 | 83 | Starsailors | 1388 |
 | 84 | Bunker | 1386 |
