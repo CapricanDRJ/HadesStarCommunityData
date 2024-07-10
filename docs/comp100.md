@@ -18,12 +18,12 @@ permalink: /comp100/
 | 10 | VoidRunners | 1518 |
 | 11 | МАРСЮКИ | 1518 |
 | 12 | Blood Hounds | 1517 |
-| 13 | IX Легион | 1513 |
-| 14 | Hand Of NOD!  | 1507 |
-| 15 | 星舰月球 | 1504 |
-| 16 | 六大天神 | 1502 |
-| 17 | Ninth Planet | 1498 |
-| 18 | Famous Assasins | 1498 |
+| 13 | Famous Assasins | 1513 |
+| 14 | IX Легион | 1513 |
+| 15 | Hand Of NOD!  | 1507 |
+| 16 | 星舰月球 | 1504 |
+| 17 | 六大天神 | 1502 |
+| 18 | Ninth Planet | 1498 |
 | 19 | [Blue*Nation] | 1495 |
 | 20 | 111 | 1494 |
 | 21 | OntarioDawn | 1492 |
@@ -46,19 +46,19 @@ permalink: /comp100/
 | 38 | Серебряная орда | 1457 |
 | 39 | ✡天启✡ | 1457 |
 | 40 | Gemini Ind. | 1454 |
-| 41 | 9-Й СКОРПИОН | 1453 |
-| 42 | CIS | 1453 |
-| 43 | Emergence | 1450 |
-| 44 | Hexacropians | 1450 |
-| 45 | three kitties | 1448 |
-| 46 | pirates spatial | 1447 |
-| 47 | Lacuna X | 1447 |
-| 48 | Mercury Sunset | 1447 |
-| 49 | IMPERIAL ARMADA | 1445 |
-| 50 | 墨痕空域 | 1445 |
-| 51 | ANDROMEDA INC.  | 1439 |
-| 52 | Nearland Ind | 1436 |
-| 53 | Space Penguins | 1435 |
+| 41 | CIS | 1453 |
+| 42 | Emergence | 1450 |
+| 43 | Hexacropians | 1450 |
+| 44 | three kitties | 1448 |
+| 45 | pirates spatial | 1447 |
+| 46 | Lacuna X | 1447 |
+| 47 | Mercury Sunset | 1447 |
+| 48 | IMPERIAL ARMADA | 1445 |
+| 49 | 墨痕空域 | 1445 |
+| 50 | ANDROMEDA INC.  | 1439 |
+| 51 | Nearland Ind | 1436 |
+| 52 | Space Penguins | 1435 |
+| 53 | 9-Й СКОРПИОН | 1429 |
 | 54 | Axiom | 1428 |
 | 55 | Valhalla Rising | 1428 |
 | 56 | Omega Alpha | 1427 |
@@ -85,11 +85,11 @@ permalink: /comp100/
 | 77 | 第一序列 | 1399 |
 | 78 | 元素联邦 | 1396 |
 | 79 | 中国星际联盟 | 1396 |
-| 80 | Elysium | 1395 |
-| 81 | Dumpster Fire 2 | 1393 |
-| 82 | DarkMoon | 1389 |
-| 83 | Starsailors | 1388 |
-| 84 | Bunker | 1386 |
+| 80 | 101 | 1395 |
+| 81 | Elysium | 1395 |
+| 82 | Dumpster Fire 2 | 1393 |
+| 83 | DarkMoon | 1389 |
+| 84 | Starsailors | 1388 |
 | 85 | 对，进就进人少的 | 1386 |
 | 86 | Zvezdec | 1385 |
 | 87 | Black Star llc. | 1383 |
@@ -105,4 +105,4 @@ permalink: /comp100/
 | 97 | Z. O. V.  | 1372 |
 | 98 | Star Destroyers | 1371 |
 | 99 | Hinterm Mars | 1371 |
-| 100 | lost souls | 1370 |
+| 100 | Bunker | 1370 |
