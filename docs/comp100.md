@@ -30,8 +30,8 @@ permalink: /comp100/
 | 22 | Медведи | 1492 |
 | 23 | BrazilCorp. | 1491 |
 | 24 | Death Star llc. | 1491 |
-| 25 | Hinterm Mond | 1487 |
-| 26 | Неизбежный Рок | 1486 |
+| 25 | Неизбежный Рок | 1491 |
+| 26 | Hinterm Mond | 1487 |
 | 27 | 新手联邦（新经济开发区） | 1480 |
 | 28 | 仙女座星雲 | 1475 |
 | 29 | Ark | 1475 |
@@ -58,8 +58,8 @@ permalink: /comp100/
 | 50 | ANDROMEDA INC.  | 1439 |
 | 51 | Nearland Ind | 1436 |
 | 52 | Space Penguins | 1435 |
-| 53 | 9-Й СКОРПИОН | 1429 |
-| 54 | Axiom | 1428 |
+| 53 | Axiom | 1432 |
+| 54 | 9-Й СКОРПИОН | 1429 |
 | 55 | Valhalla Rising | 1428 |
 | 56 | Omega Alpha | 1427 |
 | 57 | Outland Ind. | 1424 |
@@ -85,24 +85,24 @@ permalink: /comp100/
 | 77 | 第一序列 | 1399 |
 | 78 | 元素联邦 | 1396 |
 | 79 | 中国星际联盟 | 1396 |
-| 80 | 101 | 1395 |
-| 81 | Elysium | 1395 |
-| 82 | Dumpster Fire 2 | 1393 |
-| 83 | DarkMoon | 1389 |
-| 84 | Starsailors | 1388 |
-| 85 | 对，进就进人少的 | 1386 |
-| 86 | Zvezdec | 1385 |
-| 87 | Black Star llc. | 1383 |
-| 88 | 한국인 | 1382 |
-| 89 | Wompwompway  | 1381 |
-| 90 | Альянс | 1380 |
-| 91 | Z. O. V.  | 1380 |
-| 92 | DarkSide | 1380 |
-| 93 | Eastern Front | 1379 |
-| 94 | Red Dawn | 1379 |
-| 95 | Newbs | 1375 |
-| 96 | OPA | 1375 |
-| 97 | 绛紫星 | 1374 |
-| 98 | Star Destroyers | 1371 |
-| 99 | Hinterm Mars | 1371 |
-| 100 | Bunker | 1370 |
+| 80 | 对，进就进人少的 | 1395 |
+| 81 | 101 | 1395 |
+| 82 | Elysium | 1395 |
+| 83 | Bunker | 1393 |
+| 84 | Dumpster Fire 2 | 1393 |
+| 85 | DarkMoon | 1389 |
+| 86 | Starsailors | 1388 |
+| 87 | Zvezdec | 1385 |
+| 88 | Black Star llc. | 1383 |
+| 89 | 한국인 | 1382 |
+| 90 | Wompwompway  | 1381 |
+| 91 | Альянс | 1380 |
+| 92 | Z. O. V.  | 1380 |
+| 93 | DarkSide | 1380 |
+| 94 | Eastern Front | 1379 |
+| 95 | Red Dawn | 1379 |
+| 96 | Newbs | 1375 |
+| 97 | OPA | 1375 |
+| 98 | 绛紫星 | 1374 |
+| 99 | Star Destroyers | 1371 |
+| 100 | Hinterm Mars | 1371 |
