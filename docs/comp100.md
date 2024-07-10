@@ -10,7 +10,7 @@ permalink: /comp100/
 | 2 | 柯伊伯带 | 1563 |
 | 3 | Слава Украине! | 1558 |
 | 4 | Brodudes Inc. | 1552 |
-| 5 | Likapa | 1544 |
+| 5 | Likapa | 1545 |
 | 6 | Ender | 1539 |
 | 7 | BlackStar Order | 1531 |
 | 8 | Auscorp  | 1525 |
@@ -96,13 +96,13 @@ permalink: /comp100/
 | 88 | 한국인 | 1382 |
 | 89 | Wompwompway  | 1381 |
 | 90 | DarkSide | 1380 |
-| 91 | 101 | 1380 |
-| 92 | Eastern Front | 1379 |
-| 93 | Red Dawn | 1379 |
-| 94 | Newbs | 1375 |
-| 95 | OPA | 1375 |
-| 96 | Альянс | 1375 |
-| 97 | 绛紫星 | 1374 |
-| 98 | Z. O. V.  | 1372 |
+| 91 | Eastern Front | 1379 |
+| 92 | Red Dawn | 1379 |
+| 93 | Newbs | 1375 |
+| 94 | OPA | 1375 |
+| 95 | Альянс | 1375 |
+| 96 | 绛紫星 | 1374 |
+| 97 | Z. O. V.  | 1372 |
+| 98 | Star Destroyers | 1371 |
 | 99 | Hinterm Mars | 1371 |
 | 100 | lost souls | 1370 |
