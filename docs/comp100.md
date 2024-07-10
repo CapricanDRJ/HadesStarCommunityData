@@ -95,14 +95,14 @@ permalink: /comp100/
 | 87 | Black Star llc. | 1383 |
 | 88 | 한국인 | 1382 |
 | 89 | Wompwompway  | 1381 |
-| 90 | DarkSide | 1380 |
-| 91 | Eastern Front | 1379 |
-| 92 | Red Dawn | 1379 |
-| 93 | Newbs | 1375 |
-| 94 | OPA | 1375 |
-| 95 | Альянс | 1375 |
-| 96 | 绛紫星 | 1374 |
-| 97 | Z. O. V.  | 1372 |
+| 90 | Альянс | 1380 |
+| 91 | Z. O. V.  | 1380 |
+| 92 | DarkSide | 1380 |
+| 93 | Eastern Front | 1379 |
+| 94 | Red Dawn | 1379 |
+| 95 | Newbs | 1375 |
+| 96 | OPA | 1375 |
+| 97 | 绛紫星 | 1374 |
 | 98 | Star Destroyers | 1371 |
 | 99 | Hinterm Mars | 1371 |
 | 100 | Bunker | 1370 |
