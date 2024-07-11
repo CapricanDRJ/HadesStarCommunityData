@@ -23,13 +23,13 @@ permalink: /comp100/
 | 15 | 六大天神 | 1508 |
 | 16 | Hand Of NOD!  | 1507 |
 | 17 | 星舰月球 | 1504 |
-| 18 | Ninth Planet | 1498 |
-| 19 | [Blue*Nation] | 1495 |
-| 20 | 111 | 1494 |
-| 21 | OntarioDawn | 1492 |
-| 22 | Медведи | 1492 |
-| 23 | 仙女座星雲 | 1491 |
-| 24 | BrazilCorp. | 1491 |
+| 18 | BrazilCorp. | 1501 |
+| 19 | Ninth Planet | 1498 |
+| 20 | [Blue*Nation] | 1495 |
+| 21 | 111 | 1494 |
+| 22 | OntarioDawn | 1492 |
+| 23 | Медведи | 1492 |
+| 24 | 仙女座星雲 | 1491 |
 | 25 | Death Star llc. | 1491 |
 | 26 | Неизбежный Рок | 1491 |
 | 27 | Hinterm Mond | 1487 |
