@@ -14,26 +14,26 @@ permalink: /comp100/
 | 6 | Ender | 1539 |
 | 7 | BlackStar Order | 1531 |
 | 8 | Auscorp  | 1525 |
-| 9 | Continuum | 1522 |
-| 10 | Blood Hounds | 1521 |
+| 9 | Blood Hounds | 1523 |
+| 10 | Continuum | 1522 |
 | 11 | VoidRunners | 1518 |
 | 12 | МАРСЮКИ | 1518 |
 | 13 | Famous Assasins | 1513 |
 | 14 | IX Легион | 1513 |
-| 15 | Hand Of NOD!  | 1507 |
-| 16 | 星舰月球 | 1504 |
-| 17 | 六大天神 | 1502 |
+| 15 | 六大天神 | 1508 |
+| 16 | Hand Of NOD!  | 1507 |
+| 17 | 星舰月球 | 1504 |
 | 18 | Ninth Planet | 1498 |
 | 19 | [Blue*Nation] | 1495 |
 | 20 | 111 | 1494 |
 | 21 | OntarioDawn | 1492 |
 | 22 | Медведи | 1492 |
-| 23 | BrazilCorp. | 1491 |
-| 24 | Death Star llc. | 1491 |
-| 25 | Неизбежный Рок | 1491 |
-| 26 | Hinterm Mond | 1487 |
-| 27 | 新手联邦（新经济开发区） | 1480 |
-| 28 | 仙女座星雲 | 1475 |
+| 23 | 仙女座星雲 | 1491 |
+| 24 | BrazilCorp. | 1491 |
+| 25 | Death Star llc. | 1491 |
+| 26 | Неизбежный Рок | 1491 |
+| 27 | Hinterm Mond | 1487 |
+| 28 | 新手联邦（新经济开发区） | 1480 |
 | 29 | Ark | 1475 |
 | 30 | Tuatha De Danan | 1469 |
 | 31 |  RELAX CZ/SK | 1468 |
