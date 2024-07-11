@@ -7,7 +7,7 @@ permalink: /comp100/
 | Rank | Corporation Name | Elo Rating |
 |------|-----------------|------------|
 | 1 | ДИВЕРСАНТЫ | 1593 |
-| 2 | 柯伊伯带 | 1563 |
+| 2 | 柯伊伯带 | 1571 |
 | 3 | Слава Украине! | 1558 |
 | 4 | Brodudes Inc. | 1552 |
 | 5 | Likapa | 1545 |
@@ -15,9 +15,9 @@ permalink: /comp100/
 | 7 | BlackStar Order | 1531 |
 | 8 | Auscorp  | 1525 |
 | 9 | Continuum | 1522 |
-| 10 | VoidRunners | 1518 |
-| 11 | МАРСЮКИ | 1518 |
-| 12 | Blood Hounds | 1517 |
+| 10 | Blood Hounds | 1521 |
+| 11 | VoidRunners | 1518 |
+| 12 | МАРСЮКИ | 1518 |
 | 13 | Famous Assasins | 1513 |
 | 14 | IX Легион | 1513 |
 | 15 | Hand Of NOD!  | 1507 |
@@ -99,10 +99,10 @@ permalink: /comp100/
 | 91 | Альянс | 1380 |
 | 92 | Z. O. V.  | 1380 |
 | 93 | DarkSide | 1380 |
-| 94 | Eastern Front | 1379 |
-| 95 | Red Dawn | 1379 |
-| 96 | Newbs | 1375 |
-| 97 | OPA | 1375 |
-| 98 | 绛紫星 | 1374 |
-| 99 | Star Destroyers | 1371 |
-| 100 | Hinterm Mars | 1371 |
+| 94 | Red Dawn | 1379 |
+| 95 | Newbs | 1375 |
+| 96 | OPA | 1375 |
+| 97 | 绛紫星 | 1374 |
+| 98 | AFronteiraFinal | 1373 |
+| 99 | Eastern Front | 1372 |
+| 100 | Star Destroyers | 1371 |
