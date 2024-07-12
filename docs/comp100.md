@@ -42,16 +42,16 @@ permalink: /comp100/
 | 34 | Stargate Corp | 1467 |
 | 35 | Order of Hades | 1466 |
 | 36 | 共产星际 | 1464 |
-| 37 | Октябристы | 1458 |
-| 38 | Серебряная орда | 1457 |
-| 39 | ✡天启✡ | 1457 |
-| 40 | Gemini Ind. | 1454 |
-| 41 | CIS | 1453 |
-| 42 | Emergence | 1450 |
-| 43 | Hexacropians | 1450 |
-| 44 | three kitties | 1448 |
-| 45 | pirates spatial | 1447 |
-| 46 | Lacuna X | 1447 |
+| 37 | Lacuna X | 1463 |
+| 38 | Октябристы | 1458 |
+| 39 | Серебряная орда | 1457 |
+| 40 | ✡天启✡ | 1457 |
+| 41 | Gemini Ind. | 1454 |
+| 42 | CIS | 1453 |
+| 43 | Emergence | 1450 |
+| 44 | Hexacropians | 1450 |
+| 45 | three kitties | 1448 |
+| 46 | pirates spatial | 1447 |
 | 47 | Mercury Sunset | 1447 |
 | 48 | IMPERIAL ARMADA | 1445 |
 | 49 | 墨痕空域 | 1445 |
@@ -89,20 +89,20 @@ permalink: /comp100/
 | 81 | 101 | 1395 |
 | 82 | Elysium | 1395 |
 | 83 | Bunker | 1393 |
-| 84 | Dumpster Fire 2 | 1393 |
-| 85 | DarkMoon | 1389 |
-| 86 | Starsailors | 1388 |
-| 87 | Zvezdec | 1385 |
-| 88 | Black Star llc. | 1383 |
-| 89 | 한국인 | 1382 |
-| 90 | Wompwompway  | 1381 |
-| 91 | Альянс | 1380 |
-| 92 | Z. O. V.  | 1380 |
-| 93 | DarkSide | 1380 |
-| 94 | Red Dawn | 1379 |
+| 84 | DarkMoon | 1389 |
+| 85 | Starsailors | 1388 |
+| 86 | Zvezdec | 1385 |
+| 87 | Black Star llc. | 1383 |
+| 88 | 한국인 | 1382 |
+| 89 | Wompwompway  | 1381 |
+| 90 | Альянс | 1380 |
+| 91 | Z. O. V.  | 1380 |
+| 92 | DarkSide | 1380 |
+| 93 | Red Dawn | 1379 |
+| 94 | Hinterm Mars | 1378 |
 | 95 | Newbs | 1375 |
 | 96 | OPA | 1375 |
-| 97 | 绛紫星 | 1374 |
-| 98 | AFronteiraFinal | 1373 |
-| 99 | Eastern Front | 1372 |
-| 100 | Star Destroyers | 1371 |
+| 97 | Dumpster Fire 2 | 1375 |
+| 98 | 绛紫星 | 1374 |
+| 99 | AFronteiraFinal | 1373 |
+| 100 | Eastern Front | 1372 |
