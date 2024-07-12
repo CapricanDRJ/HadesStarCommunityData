@@ -11,8 +11,8 @@ permalink: /comp100/
 | 3 | Слава Украине! | 1558 |
 | 4 | Brodudes Inc. | 1552 |
 | 5 | Likapa | 1545 |
-| 6 | Auscorp  | 1541 |
-| 7 | BlackStar Order | 1531 |
+| 6 | BlackStar Order | 1544 |
+| 7 | Auscorp  | 1541 |
 | 8 | Ender | 1524 |
 | 9 | Blood Hounds | 1523 |
 | 10 | Continuum | 1522 |
@@ -32,9 +32,9 @@ permalink: /comp100/
 | 24 | 仙女座星雲 | 1491 |
 | 25 | Death Star llc. | 1491 |
 | 26 | Неизбежный Рок | 1491 |
-| 27 | Hinterm Mond | 1487 |
-| 28 | 新手联邦（新经济开发区） | 1480 |
-| 29 | Ark | 1475 |
+| 27 | 新手联邦（新经济开发区） | 1480 |
+| 28 | Ark | 1475 |
+| 29 | Hinterm Mond | 1474 |
 | 30 | Tuatha De Danan | 1469 |
 | 31 |  RELAX CZ/SK | 1468 |
 | 32 | Лунный Феникс | 1468 |
@@ -48,17 +48,17 @@ permalink: /comp100/
 | 40 | Октябристы | 1458 |
 | 41 | Серебряная орда | 1457 |
 | 42 | ✡天启✡ | 1457 |
-| 43 | Gemini Ind. | 1454 |
-| 44 | Hexacropians | 1450 |
-| 45 | three kitties | 1448 |
-| 46 | pirates spatial | 1447 |
-| 47 | Mercury Sunset | 1447 |
-| 48 | IMPERIAL ARMADA | 1445 |
-| 49 | 墨痕空域 | 1445 |
+| 43 | Hexacropians | 1450 |
+| 44 | three kitties | 1448 |
+| 45 | pirates spatial | 1447 |
+| 46 | Mercury Sunset | 1447 |
+| 47 | IMPERIAL ARMADA | 1445 |
+| 48 | 墨痕空域 | 1445 |
+| 49 | Nearland Ind | 1444 |
 | 50 | ANDROMEDA INC.  | 1439 |
-| 51 | Nearland Ind | 1436 |
-| 52 | Space Penguins | 1435 |
-| 53 | Axiom | 1432 |
+| 51 | Space Penguins | 1435 |
+| 52 | Axiom | 1432 |
+| 53 | Gemini Ind. | 1432 |
 | 54 | Outland Ind. | 1430 |
 | 55 | 9-Й СКОРПИОН | 1429 |
 | 56 | Valhalla Rising | 1428 |
