@@ -43,12 +43,12 @@ permalink: /comp100/
 | 35 | Order of Hades | 1466 |
 | 36 | 共产星际 | 1464 |
 | 37 | Lacuna X | 1463 |
-| 38 | Октябристы | 1458 |
-| 39 | Серебряная орда | 1457 |
-| 40 | ✡天启✡ | 1457 |
-| 41 | Gemini Ind. | 1454 |
-| 42 | CIS | 1453 |
-| 43 | Emergence | 1450 |
+| 38 | Emergence | 1462 |
+| 39 | Октябристы | 1458 |
+| 40 | Серебряная орда | 1457 |
+| 41 | ✡天启✡ | 1457 |
+| 42 | Gemini Ind. | 1454 |
+| 43 | CIS | 1453 |
 | 44 | Hexacropians | 1450 |
 | 45 | three kitties | 1448 |
 | 46 | pirates spatial | 1447 |
@@ -100,9 +100,9 @@ permalink: /comp100/
 | 92 | DarkSide | 1380 |
 | 93 | Red Dawn | 1379 |
 | 94 | Hinterm Mars | 1378 |
-| 95 | Newbs | 1375 |
-| 96 | OPA | 1375 |
-| 97 | Dumpster Fire 2 | 1375 |
-| 98 | 绛紫星 | 1374 |
-| 99 | AFronteiraFinal | 1373 |
-| 100 | Eastern Front | 1372 |
+| 95 | Stellar Exports | 1376 |
+| 96 | Newbs | 1375 |
+| 97 | OPA | 1375 |
+| 98 | Dumpster Fire 2 | 1375 |
+| 99 | 绛紫星 | 1374 |
+| 100 | Rogue One | 1373 |
