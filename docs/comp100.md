@@ -41,14 +41,14 @@ permalink: /comp100/
 | 33 | русь  | 1467 |
 | 34 | Stargate Corp | 1467 |
 | 35 | Order of Hades | 1466 |
-| 36 | 共产星际 | 1464 |
-| 37 | Lacuna X | 1463 |
-| 38 | Emergence | 1462 |
-| 39 | Октябристы | 1458 |
-| 40 | Серебряная орда | 1457 |
-| 41 | ✡天启✡ | 1457 |
-| 42 | Gemini Ind. | 1454 |
-| 43 | CIS | 1453 |
+| 36 | CIS | 1465 |
+| 37 | 共产星际 | 1464 |
+| 38 | Lacuna X | 1463 |
+| 39 | Emergence | 1462 |
+| 40 | Октябристы | 1458 |
+| 41 | Серебряная орда | 1457 |
+| 42 | ✡天启✡ | 1457 |
+| 43 | Gemini Ind. | 1454 |
 | 44 | Hexacropians | 1450 |
 | 45 | three kitties | 1448 |
 | 46 | pirates spatial | 1447 |
@@ -59,10 +59,10 @@ permalink: /comp100/
 | 51 | Nearland Ind | 1436 |
 | 52 | Space Penguins | 1435 |
 | 53 | Axiom | 1432 |
-| 54 | 9-Й СКОРПИОН | 1429 |
-| 55 | Valhalla Rising | 1428 |
-| 56 | Omega Alpha | 1427 |
-| 57 | Outland Ind. | 1424 |
+| 54 | Outland Ind. | 1430 |
+| 55 | 9-Й СКОРПИОН | 1429 |
+| 56 | Valhalla Rising | 1428 |
+| 57 | Omega Alpha | 1427 |
 | 58 | Atlas Star llc. | 1423 |
 | 59 | Спутник | 1422 |
 | 60 | Kratos | 1421 |
