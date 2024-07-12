@@ -11,9 +11,9 @@ permalink: /comp100/
 | 3 | Слава Украине! | 1558 |
 | 4 | Brodudes Inc. | 1552 |
 | 5 | Likapa | 1545 |
-| 6 | Ender | 1539 |
+| 6 | Auscorp  | 1541 |
 | 7 | BlackStar Order | 1531 |
-| 8 | Auscorp  | 1525 |
+| 8 | Ender | 1524 |
 | 9 | Blood Hounds | 1523 |
 | 10 | Continuum | 1522 |
 | 11 | VoidRunners | 1518 |
@@ -66,23 +66,23 @@ permalink: /comp100/
 | 58 | Atlas Star llc. | 1423 |
 | 59 | Спутник | 1422 |
 | 60 | Kratos | 1421 |
-| 61 | Cyber Star | 1420 |
-| 62 | Повстанцы Хаоса | 1419 |
-| 63 | Spacefleet | 1418 |
-| 64 | リリース | 1418 |
-| 65 | Grunthal Gang | 1416 |
-| 66 | White Dwarf | 1413 |
-| 67 | TeddisaurusWrex | 1412 |
-| 68 | Embers Rising | 1411 |
-| 69 | StarControl | 1410 |
-| 70 | Spica​ | 1409 |
-| 71 | BRASIL STAR | 1406 |
-| 72 | 第四星际 | 1403 |
-| 73 | Decode | 1403 |
-| 74 | First Legion | 1401 |
-| 75 | Warriorlords | 1400 |
-| 76 | Corvus Ind. | 1399 |
-| 77 | 第一序列 | 1399 |
+| 61 | Повстанцы Хаоса | 1419 |
+| 62 | Spacefleet | 1418 |
+| 63 | リリース | 1418 |
+| 64 | Grunthal Gang | 1416 |
+| 65 | White Dwarf | 1413 |
+| 66 | TeddisaurusWrex | 1412 |
+| 67 | Embers Rising | 1411 |
+| 68 | StarControl | 1410 |
+| 69 | Spica​ | 1409 |
+| 70 | BRASIL STAR | 1406 |
+| 71 | 第四星际 | 1403 |
+| 72 | Decode | 1403 |
+| 73 | First Legion | 1401 |
+| 74 | Warriorlords | 1400 |
+| 75 | Corvus Ind. | 1399 |
+| 76 | 第一序列 | 1399 |
+| 77 | Cyber Star | 1397 |
 | 78 | 元素联邦 | 1396 |
 | 79 | 中国星际联盟 | 1396 |
 | 80 | 对，进就进人少的 | 1395 |
