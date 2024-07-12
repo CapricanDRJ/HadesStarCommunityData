@@ -25,33 +25,33 @@ permalink: /comp100/
 | 17 | 星舰月球 | 1504 |
 | 18 | BrazilCorp. | 1501 |
 | 19 | Ninth Planet | 1498 |
-| 20 | [Blue*Nation] | 1495 |
-| 21 | 111 | 1494 |
-| 22 | OntarioDawn | 1492 |
-| 23 | Медведи | 1492 |
-| 24 | 仙女座星雲 | 1491 |
-| 25 | Death Star llc. | 1491 |
-| 26 | Неизбежный Рок | 1491 |
-| 27 | 新手联邦（新经济开发区） | 1480 |
-| 28 | Ark | 1475 |
-| 29 | Hinterm Mond | 1474 |
+| 20 | Hinterm Mond | 1496 |
+| 21 | [Blue*Nation] | 1495 |
+| 22 | 111 | 1494 |
+| 23 | OntarioDawn | 1492 |
+| 24 | Медведи | 1492 |
+| 25 | 仙女座星雲 | 1491 |
+| 26 | Death Star llc. | 1491 |
+| 27 | Неизбежный Рок | 1491 |
+| 28 | 新手联邦（新经济开发区） | 1480 |
+| 29 | Ark | 1475 |
 | 30 | Tuatha De Danan | 1469 |
-| 31 |  RELAX CZ/SK | 1468 |
-| 32 | Лунный Феникс | 1468 |
-| 33 | русь  | 1467 |
-| 34 | Stargate Corp | 1467 |
-| 35 | Order of Hades | 1466 |
+| 31 | Order of Hades | 1469 |
+| 32 |  RELAX CZ/SK | 1468 |
+| 33 | Лунный Феникс | 1468 |
+| 34 | русь  | 1467 |
+| 35 | Stargate Corp | 1467 |
 | 36 | CIS | 1465 |
 | 37 | 共产星际 | 1464 |
 | 38 | Lacuna X | 1463 |
 | 39 | Emergence | 1462 |
-| 40 | Октябристы | 1458 |
-| 41 | Серебряная орда | 1457 |
-| 42 | ✡天启✡ | 1457 |
-| 43 | Hexacropians | 1450 |
-| 44 | three kitties | 1448 |
-| 45 | pirates spatial | 1447 |
-| 46 | Mercury Sunset | 1447 |
+| 40 | Mercury Sunset | 1459 |
+| 41 | Октябристы | 1458 |
+| 42 | Серебряная орда | 1457 |
+| 43 | ✡天启✡ | 1457 |
+| 44 | Hexacropians | 1450 |
+| 45 | three kitties | 1448 |
+| 46 | pirates spatial | 1447 |
 | 47 | IMPERIAL ARMADA | 1445 |
 | 48 | 墨痕空域 | 1445 |
 | 49 | Nearland Ind | 1444 |
@@ -66,11 +66,11 @@ permalink: /comp100/
 | 58 | Atlas Star llc. | 1423 |
 | 59 | Спутник | 1422 |
 | 60 | Kratos | 1421 |
-| 61 | Повстанцы Хаоса | 1419 |
-| 62 | Spacefleet | 1418 |
-| 63 | リリース | 1418 |
-| 64 | Grunthal Gang | 1416 |
-| 65 | White Dwarf | 1413 |
+| 61 | White Dwarf | 1420 |
+| 62 | Повстанцы Хаоса | 1419 |
+| 63 | Spacefleet | 1418 |
+| 64 | リリース | 1418 |
+| 65 | Grunthal Gang | 1416 |
 | 66 | TeddisaurusWrex | 1412 |
 | 67 | Embers Rising | 1411 |
 | 68 | StarControl | 1410 |
@@ -97,12 +97,12 @@ permalink: /comp100/
 | 89 | Wompwompway  | 1381 |
 | 90 | Альянс | 1380 |
 | 91 | Z. O. V.  | 1380 |
-| 92 | DarkSide | 1380 |
-| 93 | Red Dawn | 1379 |
-| 94 | Hinterm Mars | 1378 |
-| 95 | Stellar Exports | 1376 |
-| 96 | Newbs | 1375 |
-| 97 | OPA | 1375 |
-| 98 | Dumpster Fire 2 | 1375 |
-| 99 | 绛紫星 | 1374 |
-| 100 | Rogue One | 1373 |
+| 92 | Red Dawn | 1379 |
+| 93 | Hinterm Mars | 1378 |
+| 94 | Stellar Exports | 1376 |
+| 95 | Newbs | 1375 |
+| 96 | OPA | 1375 |
+| 97 | Dumpster Fire 2 | 1375 |
+| 98 | 绛紫星 | 1374 |
+| 99 | Rogue One | 1373 |
+| 100 | AFronteiraFinal | 1373 |
