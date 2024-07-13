@@ -35,11 +35,11 @@ permalink: /comp100/
 | 27 | Неизбежный Рок | 1491 |
 | 28 | 新手联邦（新经济开发区） | 1480 |
 | 29 | Ark | 1475 |
-| 30 | Tuatha De Danan | 1469 |
-| 31 | Order of Hades | 1469 |
-| 32 |  RELAX CZ/SK | 1468 |
-| 33 | Лунный Феникс | 1468 |
-| 34 | русь  | 1467 |
+| 30 |  RELAX CZ/SK | 1473 |
+| 31 | русь  | 1472 |
+| 32 | Tuatha De Danan | 1469 |
+| 33 | Order of Hades | 1469 |
+| 34 | Лунный Феникс | 1468 |
 | 35 | Stargate Corp | 1467 |
 | 36 | CIS | 1465 |
 | 37 | 共产星际 | 1464 |
@@ -65,29 +65,29 @@ permalink: /comp100/
 | 57 | Omega Alpha | 1427 |
 | 58 | Atlas Star llc. | 1423 |
 | 59 | Спутник | 1422 |
-| 60 | Kratos | 1421 |
-| 61 | White Dwarf | 1420 |
-| 62 | Повстанцы Хаоса | 1419 |
-| 63 | Spacefleet | 1418 |
-| 64 | リリース | 1418 |
-| 65 | Grunthal Gang | 1416 |
-| 66 | TeddisaurusWrex | 1412 |
-| 67 | Embers Rising | 1411 |
-| 68 | StarControl | 1410 |
-| 69 | Spica​ | 1409 |
-| 70 | BRASIL STAR | 1406 |
-| 71 | 第四星际 | 1403 |
-| 72 | Decode | 1403 |
-| 73 | First Legion | 1401 |
-| 74 | Warriorlords | 1400 |
-| 75 | Corvus Ind. | 1399 |
-| 76 | 第一序列 | 1399 |
-| 77 | Cyber Star | 1397 |
-| 78 | 元素联邦 | 1396 |
-| 79 | 中国星际联盟 | 1396 |
-| 80 | 对，进就进人少的 | 1395 |
-| 81 | 101 | 1395 |
-| 82 | Elysium | 1395 |
+| 60 | White Dwarf | 1420 |
+| 61 | Повстанцы Хаоса | 1419 |
+| 62 | Spacefleet | 1418 |
+| 63 | リリース | 1418 |
+| 64 | Grunthal Gang | 1416 |
+| 65 | TeddisaurusWrex | 1412 |
+| 66 | Embers Rising | 1411 |
+| 67 | StarControl | 1410 |
+| 68 | Spica​ | 1409 |
+| 69 | BRASIL STAR | 1406 |
+| 70 | 第四星际 | 1403 |
+| 71 | Decode | 1403 |
+| 72 | First Legion | 1401 |
+| 73 | Kratos | 1400 |
+| 74 | Elysium | 1400 |
+| 75 | Warriorlords | 1400 |
+| 76 | Corvus Ind. | 1399 |
+| 77 | 第一序列 | 1399 |
+| 78 | Cyber Star | 1397 |
+| 79 | 元素联邦 | 1396 |
+| 80 | 中国星际联盟 | 1396 |
+| 81 | 对，进就进人少的 | 1395 |
+| 82 | 101 | 1395 |
 | 83 | Bunker | 1393 |
 | 84 | DarkMoon | 1389 |
 | 85 | Starsailors | 1388 |
@@ -103,6 +103,6 @@ permalink: /comp100/
 | 95 | Newbs | 1375 |
 | 96 | OPA | 1375 |
 | 97 | Dumpster Fire 2 | 1375 |
-| 98 | 绛紫星 | 1374 |
-| 99 | Rogue One | 1373 |
-| 100 | AFronteiraFinal | 1373 |
+| 98 | Sich.ua | 1374 |
+| 99 | 绛紫星 | 1374 |
+| 100 | Rogue One | 1373 |
