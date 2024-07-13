@@ -56,12 +56,12 @@ permalink: /comp100/
 | 48 | Nearland Ind | 1444 |
 | 49 | Space Penguins | 1439 |
 | 50 | ANDROMEDA INC.  | 1439 |
-| 51 | Axiom | 1432 |
-| 52 | Gemini Ind. | 1432 |
-| 53 | Outland Ind. | 1430 |
-| 54 | 9-Й СКОРПИОН | 1429 |
-| 55 | Valhalla Rising | 1428 |
-| 56 | Omega Alpha | 1427 |
+| 51 | Omega Alpha | 1438 |
+| 52 | Axiom | 1432 |
+| 53 | Gemini Ind. | 1432 |
+| 54 | Outland Ind. | 1430 |
+| 55 | 9-Й СКОРПИОН | 1429 |
+| 56 | Valhalla Rising | 1428 |
 | 57 | pirates spatial | 1426 |
 | 58 | Atlas Star llc. | 1423 |
 | 59 | Спутник | 1422 |
