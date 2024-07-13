@@ -6,7 +6,7 @@ permalink: /comp100/
 
 | Rank | Corporation Name | Elo Rating |
 |------|-----------------|------------|
-| 1 | ДИВЕРСАНТЫ | 1593 |
+| 1 | ДИВЕРСАНТЫ | 1598 |
 | 2 | 柯伊伯带 | 1571 |
 | 3 | Слава Украине! | 1558 |
 | 4 | Brodudes Inc. | 1552 |
@@ -20,19 +20,19 @@ permalink: /comp100/
 | 12 | VoidRunners | 1518 |
 | 13 | Famous Assasins | 1513 |
 | 14 | IX Легион | 1513 |
-| 15 | 六大天神 | 1508 |
-| 16 | Hand Of NOD!  | 1507 |
-| 17 | 星舰月球 | 1504 |
-| 18 | BrazilCorp. | 1501 |
-| 19 | [Blue*Nation] | 1499 |
-| 20 | Ninth Planet | 1498 |
-| 21 | Hinterm Mond | 1496 |
-| 22 | 111 | 1494 |
-| 23 | OntarioDawn | 1492 |
-| 24 | Медведи | 1492 |
-| 25 | 仙女座星雲 | 1491 |
-| 26 | Death Star llc. | 1491 |
-| 27 | Неизбежный Рок | 1491 |
+| 15 | Hand Of NOD!  | 1507 |
+| 16 | 星舰月球 | 1504 |
+| 17 | BrazilCorp. | 1501 |
+| 18 | [Blue*Nation] | 1499 |
+| 19 | Ninth Planet | 1498 |
+| 20 | Hinterm Mond | 1496 |
+| 21 | 111 | 1494 |
+| 22 | OntarioDawn | 1492 |
+| 23 | Медведи | 1492 |
+| 24 | 仙女座星雲 | 1491 |
+| 25 | Death Star llc. | 1491 |
+| 26 | Неизбежный Рок | 1491 |
+| 27 | 六大天神 | 1482 |
 | 28 | 新手联邦（新经济开发区） | 1480 |
 | 29 | Ark | 1475 |
 | 30 |  RELAX CZ/SK | 1473 |
@@ -49,13 +49,13 @@ permalink: /comp100/
 | 41 | Октябристы | 1458 |
 | 42 | Серебряная орда | 1457 |
 | 43 | ✡天启✡ | 1457 |
-| 44 | Hexacropians | 1450 |
-| 45 | three kitties | 1448 |
+| 44 | three kitties | 1454 |
+| 45 | Hexacropians | 1450 |
 | 46 | IMPERIAL ARMADA | 1445 |
 | 47 | 墨痕空域 | 1445 |
 | 48 | Nearland Ind | 1444 |
-| 49 | ANDROMEDA INC.  | 1439 |
-| 50 | Space Penguins | 1435 |
+| 49 | Space Penguins | 1439 |
+| 50 | ANDROMEDA INC.  | 1439 |
 | 51 | Axiom | 1432 |
 | 52 | Gemini Ind. | 1432 |
 | 53 | Outland Ind. | 1430 |
