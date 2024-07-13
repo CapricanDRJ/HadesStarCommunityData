@@ -24,10 +24,10 @@ permalink: /comp100/
 | 16 | 星舰月球 | 1504 |
 | 17 | BrazilCorp. | 1501 |
 | 18 | [Blue*Nation] | 1499 |
-| 19 | Ninth Planet | 1498 |
-| 20 | Hinterm Mond | 1496 |
-| 21 | 111 | 1494 |
-| 22 | OntarioDawn | 1492 |
+| 19 | OntarioDawn | 1498 |
+| 20 | Ninth Planet | 1498 |
+| 21 | Hinterm Mond | 1496 |
+| 22 | 111 | 1494 |
 | 23 | Медведи | 1492 |
 | 24 | 仙女座星雲 | 1491 |
 | 25 | Death Star llc. | 1491 |
@@ -35,10 +35,10 @@ permalink: /comp100/
 | 27 | 六大天神 | 1482 |
 | 28 | 新手联邦（新经济开发区） | 1480 |
 | 29 | Ark | 1475 |
-| 30 |  RELAX CZ/SK | 1473 |
-| 31 | русь  | 1472 |
-| 32 | Tuatha De Danan | 1469 |
-| 33 | Order of Hades | 1469 |
+| 30 | Order of Hades | 1475 |
+| 31 |  RELAX CZ/SK | 1473 |
+| 32 | Tuatha De Danan | 1473 |
+| 33 | русь  | 1472 |
 | 34 | Лунный Феникс | 1468 |
 | 35 | Stargate Corp | 1467 |
 | 36 | CIS | 1465 |
@@ -71,10 +71,10 @@ permalink: /comp100/
 | 63 | Spacefleet | 1418 |
 | 64 | リリース | 1418 |
 | 65 | TeddisaurusWrex | 1412 |
-| 66 | Embers Rising | 1411 |
-| 67 | StarControl | 1410 |
-| 68 | Spica​ | 1409 |
-| 69 | BRASIL STAR | 1406 |
+| 66 | BRASIL STAR | 1412 |
+| 67 | Embers Rising | 1411 |
+| 68 | StarControl | 1410 |
+| 69 | Spica​ | 1409 |
 | 70 | 第四星际 | 1403 |
 | 71 | Decode | 1403 |
 | 72 | First Legion | 1401 |
