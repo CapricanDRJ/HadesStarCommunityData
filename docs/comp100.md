@@ -61,15 +61,15 @@ permalink: /comp100/
 | 53 | Gemini Ind. | 1432 |
 | 54 | Outland Ind. | 1430 |
 | 55 | 9-Й СКОРПИОН | 1429 |
-| 56 | Valhalla Rising | 1428 |
-| 57 | pirates spatial | 1426 |
-| 58 | Atlas Star llc. | 1423 |
-| 59 | Спутник | 1422 |
-| 60 | White Dwarf | 1420 |
-| 61 | Повстанцы Хаоса | 1419 |
-| 62 | Spacefleet | 1418 |
-| 63 | リリース | 1418 |
-| 64 | Grunthal Gang | 1416 |
+| 56 | Grunthal Gang | 1428 |
+| 57 | Valhalla Rising | 1428 |
+| 58 | pirates spatial | 1426 |
+| 59 | Atlas Star llc. | 1423 |
+| 60 | Спутник | 1422 |
+| 61 | White Dwarf | 1420 |
+| 62 | Повстанцы Хаоса | 1419 |
+| 63 | Spacefleet | 1418 |
+| 64 | リリース | 1418 |
 | 65 | TeddisaurusWrex | 1412 |
 | 66 | Embers Rising | 1411 |
 | 67 | StarControl | 1410 |
