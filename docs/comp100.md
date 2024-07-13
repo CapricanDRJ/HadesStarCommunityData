@@ -10,23 +10,23 @@ permalink: /comp100/
 | 2 | 柯伊伯带 | 1571 |
 | 3 | Слава Украине! | 1558 |
 | 4 | Brodudes Inc. | 1552 |
-| 5 | Likapa | 1545 |
+| 5 | Likapa | 1547 |
 | 6 | BlackStar Order | 1544 |
 | 7 | Auscorp  | 1541 |
-| 8 | Ender | 1524 |
-| 9 | Blood Hounds | 1523 |
-| 10 | Continuum | 1522 |
-| 11 | VoidRunners | 1518 |
-| 12 | МАРСЮКИ | 1518 |
+| 8 | МАРСЮКИ | 1531 |
+| 9 | Continuum | 1529 |
+| 10 | Ender | 1524 |
+| 11 | Blood Hounds | 1523 |
+| 12 | VoidRunners | 1518 |
 | 13 | Famous Assasins | 1513 |
 | 14 | IX Легион | 1513 |
 | 15 | 六大天神 | 1508 |
 | 16 | Hand Of NOD!  | 1507 |
 | 17 | 星舰月球 | 1504 |
 | 18 | BrazilCorp. | 1501 |
-| 19 | Ninth Planet | 1498 |
-| 20 | Hinterm Mond | 1496 |
-| 21 | [Blue*Nation] | 1495 |
+| 19 | [Blue*Nation] | 1499 |
+| 20 | Ninth Planet | 1498 |
+| 21 | Hinterm Mond | 1496 |
 | 22 | 111 | 1494 |
 | 23 | OntarioDawn | 1492 |
 | 24 | Медведи | 1492 |
@@ -51,18 +51,18 @@ permalink: /comp100/
 | 43 | ✡天启✡ | 1457 |
 | 44 | Hexacropians | 1450 |
 | 45 | three kitties | 1448 |
-| 46 | pirates spatial | 1447 |
-| 47 | IMPERIAL ARMADA | 1445 |
-| 48 | 墨痕空域 | 1445 |
-| 49 | Nearland Ind | 1444 |
-| 50 | ANDROMEDA INC.  | 1439 |
-| 51 | Space Penguins | 1435 |
-| 52 | Axiom | 1432 |
-| 53 | Gemini Ind. | 1432 |
-| 54 | Outland Ind. | 1430 |
-| 55 | 9-Й СКОРПИОН | 1429 |
-| 56 | Valhalla Rising | 1428 |
-| 57 | Omega Alpha | 1427 |
+| 46 | IMPERIAL ARMADA | 1445 |
+| 47 | 墨痕空域 | 1445 |
+| 48 | Nearland Ind | 1444 |
+| 49 | ANDROMEDA INC.  | 1439 |
+| 50 | Space Penguins | 1435 |
+| 51 | Axiom | 1432 |
+| 52 | Gemini Ind. | 1432 |
+| 53 | Outland Ind. | 1430 |
+| 54 | 9-Й СКОРПИОН | 1429 |
+| 55 | Valhalla Rising | 1428 |
+| 56 | Omega Alpha | 1427 |
+| 57 | pirates spatial | 1426 |
 | 58 | Atlas Star llc. | 1423 |
 | 59 | Спутник | 1422 |
 | 60 | White Dwarf | 1420 |
@@ -95,14 +95,14 @@ permalink: /comp100/
 | 87 | Black Star llc. | 1383 |
 | 88 | 한국인 | 1382 |
 | 89 | Wompwompway  | 1381 |
-| 90 | Альянс | 1380 |
-| 91 | Z. O. V.  | 1380 |
-| 92 | Red Dawn | 1379 |
-| 93 | Hinterm Mars | 1378 |
-| 94 | Stellar Exports | 1376 |
-| 95 | Newbs | 1375 |
-| 96 | OPA | 1375 |
-| 97 | Dumpster Fire 2 | 1375 |
-| 98 | Sich.ua | 1374 |
-| 99 | 绛紫星 | 1374 |
-| 100 | Rogue One | 1373 |
+| 90 | Bloodtide | 1381 |
+| 91 | Альянс | 1380 |
+| 92 | Z. O. V.  | 1380 |
+| 93 | Red Dawn | 1379 |
+| 94 | Hinterm Mars | 1378 |
+| 95 | Stellar Exports | 1376 |
+| 96 | Newbs | 1375 |
+| 97 | OPA | 1375 |
+| 98 | Dumpster Fire 2 | 1375 |
+| 99 | Sich.ua | 1374 |
+| 100 | 绛紫星 | 1374 |
