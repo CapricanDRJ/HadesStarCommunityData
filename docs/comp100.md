@@ -65,11 +65,11 @@ permalink: /comp100/
 | 57 | Grunthal Gang | 1428 |
 | 58 | StarControl | 1428 |
 | 59 | pirates spatial | 1426 |
-| 60 | Atlas Star llc. | 1423 |
-| 61 | Спутник | 1422 |
-| 62 | White Dwarf | 1420 |
-| 63 | Повстанцы Хаоса | 1419 |
-| 64 | Spacefleet | 1418 |
+| 60 | Spacefleet | 1425 |
+| 61 | Atlas Star llc. | 1423 |
+| 62 | Спутник | 1422 |
+| 63 | White Dwarf | 1420 |
+| 64 | Повстанцы Хаоса | 1419 |
 | 65 | リリース | 1418 |
 | 66 | TeddisaurusWrex | 1412 |
 | 67 | BRASIL STAR | 1412 |
