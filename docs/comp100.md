@@ -20,21 +20,21 @@ permalink: /comp100/
 | 12 | VoidRunners | 1518 |
 | 13 | Famous Assasins | 1513 |
 | 14 | IX Легион | 1513 |
-| 15 | Hand Of NOD!  | 1507 |
+| 15 | 111 | 1510 |
 | 16 | 星舰月球 | 1504 |
 | 17 | BrazilCorp. | 1501 |
 | 18 | [Blue*Nation] | 1499 |
 | 19 | OntarioDawn | 1498 |
 | 20 | Ninth Planet | 1498 |
 | 21 | Hinterm Mond | 1496 |
-| 22 | 111 | 1494 |
-| 23 | Медведи | 1492 |
+| 22 | Медведи | 1492 |
+| 23 | Hand Of NOD!  | 1492 |
 | 24 | 仙女座星雲 | 1491 |
 | 25 | Death Star llc. | 1491 |
 | 26 | Неизбежный Рок | 1491 |
 | 27 | 六大天神 | 1482 |
 | 28 | 新手联邦（新经济开发区） | 1480 |
-| 29 | Ark | 1475 |
+| 29 | Ark | 1478 |
 | 30 | Order of Hades | 1475 |
 | 31 |  RELAX CZ/SK | 1473 |
 | 32 | Tuatha De Danan | 1473 |
@@ -44,9 +44,9 @@ permalink: /comp100/
 | 36 | 共产星际 | 1464 |
 | 37 | Lacuna X | 1463 |
 | 38 | Emergence | 1462 |
-| 39 | Mercury Sunset | 1459 |
-| 40 | Октябристы | 1458 |
-| 41 | Серебряная орда | 1457 |
+| 39 | Серебряная орда | 1462 |
+| 40 | Mercury Sunset | 1459 |
+| 41 | Октябристы | 1458 |
 | 42 | ✡天启✡ | 1457 |
 | 43 | three kitties | 1454 |
 | 44 | Hexacropians | 1450 |
