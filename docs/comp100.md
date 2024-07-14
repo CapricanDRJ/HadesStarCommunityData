@@ -15,9 +15,9 @@ permalink: /comp100/
 | 7 | Auscorp  | 1541 |
 | 8 | МАРСЮКИ | 1531 |
 | 9 | Continuum | 1529 |
-| 10 | Ender | 1524 |
-| 11 | Blood Hounds | 1523 |
-| 12 | VoidRunners | 1518 |
+| 10 | VoidRunners | 1526 |
+| 11 | Ender | 1524 |
+| 12 | Blood Hounds | 1523 |
 | 13 | Famous Assasins | 1513 |
 | 14 | IX Легион | 1513 |
 | 15 | 111 | 1510 |
