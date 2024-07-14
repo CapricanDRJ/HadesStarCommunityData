@@ -52,21 +52,21 @@ permalink: /comp100/
 | 44 | Hexacropians | 1450 |
 | 45 | Stargate Corp | 1449 |
 | 46 | IMPERIAL ARMADA | 1445 |
-| 47 | 墨痕空域 | 1445 |
-| 48 | Nearland Ind | 1444 |
-| 49 | Valhalla Rising | 1441 |
-| 50 | Space Penguins | 1439 |
-| 51 | ANDROMEDA INC.  | 1439 |
-| 52 | Omega Alpha | 1438 |
-| 53 | Axiom | 1432 |
-| 54 | Gemini Ind. | 1432 |
-| 55 | Outland Ind. | 1430 |
-| 56 | 9-Й СКОРПИОН | 1429 |
-| 57 | Grunthal Gang | 1428 |
-| 58 | StarControl | 1428 |
-| 59 | pirates spatial | 1426 |
-| 60 | Atlas Star llc. | 1423 |
-| 61 | Спутник | 1422 |
+| 47 | Nearland Ind | 1444 |
+| 48 | Valhalla Rising | 1441 |
+| 49 | Space Penguins | 1439 |
+| 50 | ANDROMEDA INC.  | 1439 |
+| 51 | Omega Alpha | 1438 |
+| 52 | Axiom | 1432 |
+| 53 | Gemini Ind. | 1432 |
+| 54 | Outland Ind. | 1430 |
+| 55 | 9-Й СКОРПИОН | 1429 |
+| 56 | Grunthal Gang | 1428 |
+| 57 | StarControl | 1428 |
+| 58 | pirates spatial | 1426 |
+| 59 | Atlas Star llc. | 1423 |
+| 60 | Спутник | 1422 |
+| 61 | 墨痕空域 | 1422 |
 | 62 | White Dwarf | 1420 |
 | 63 | Повстанцы Хаоса | 1419 |
 | 64 | Spacefleet | 1418 |
@@ -75,16 +75,16 @@ permalink: /comp100/
 | 67 | BRASIL STAR | 1412 |
 | 68 | Embers Rising | 1411 |
 | 69 | Spica​ | 1409 |
-| 70 | 第四星际 | 1403 |
-| 71 | Decode | 1403 |
-| 72 | First Legion | 1401 |
-| 73 | Kratos | 1400 |
-| 74 | Elysium | 1400 |
-| 75 | Corvus Ind. | 1399 |
-| 76 | 第一序列 | 1399 |
-| 77 | Cyber Star | 1397 |
-| 78 | 元素联邦 | 1396 |
-| 79 | 中国星际联盟 | 1396 |
+| 70 | 中国星际联盟 | 1405 |
+| 71 | 第四星际 | 1403 |
+| 72 | Decode | 1403 |
+| 73 | First Legion | 1401 |
+| 74 | Kratos | 1400 |
+| 75 | Elysium | 1400 |
+| 76 | Corvus Ind. | 1399 |
+| 77 | 第一序列 | 1399 |
+| 78 | Cyber Star | 1397 |
+| 79 | 元素联邦 | 1396 |
 | 80 | 对，进就进人少的 | 1395 |
 | 81 | 101 | 1395 |
 | 82 | Bunker | 1393 |
