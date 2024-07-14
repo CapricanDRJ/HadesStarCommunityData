@@ -96,13 +96,13 @@ permalink: /comp100/
 | 88 | 한국인 | 1382 |
 | 89 | Wompwompway  | 1381 |
 | 90 | Bloodtide | 1381 |
-| 91 | Альянс | 1380 |
-| 92 | Z. O. V.  | 1380 |
-| 93 | Red Dawn | 1379 |
-| 94 | Hinterm Mars | 1378 |
-| 95 | Stellar Exports | 1376 |
-| 96 | Newbs | 1375 |
-| 97 | OPA | 1375 |
-| 98 | Dumpster Fire 2 | 1375 |
-| 99 | Sich.ua | 1374 |
-| 100 | 绛紫星 | 1374 |
+| 91 | Providence | 1381 |
+| 92 | Альянс | 1380 |
+| 93 | Z. O. V.  | 1380 |
+| 94 | Red Dawn | 1379 |
+| 95 | Hinterm Mars | 1378 |
+| 96 | Stellar Exports | 1376 |
+| 97 | Newbs | 1375 |
+| 98 | OPA | 1375 |
+| 99 | Dumpster Fire 2 | 1375 |
+| 100 | Sich.ua | 1374 |
