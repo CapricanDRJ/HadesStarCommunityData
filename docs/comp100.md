@@ -66,11 +66,11 @@ permalink: /comp100/
 | 58 | StarControl | 1428 |
 | 59 | pirates spatial | 1426 |
 | 60 | Spacefleet | 1425 |
-| 61 | Atlas Star llc. | 1423 |
-| 62 | Спутник | 1422 |
-| 63 | White Dwarf | 1420 |
-| 64 | Повстанцы Хаоса | 1419 |
-| 65 | リリース | 1418 |
+| 61 | リリース | 1423 |
+| 62 | Atlas Star llc. | 1423 |
+| 63 | Спутник | 1422 |
+| 64 | White Dwarf | 1420 |
+| 65 | Повстанцы Хаоса | 1419 |
 | 66 | TeddisaurusWrex | 1412 |
 | 67 | BRASIL STAR | 1412 |
 | 68 | Embers Rising | 1411 |
