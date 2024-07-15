@@ -21,11 +21,11 @@ permalink: /comp100/
 | 13 | Famous Assasins | 1523 |
 | 14 | IX Легион | 1513 |
 | 15 | 111 | 1510 |
-| 16 | 星舰月球 | 1504 |
-| 17 | BrazilCorp. | 1501 |
-| 18 | [Blue*Nation] | 1499 |
-| 19 | OntarioDawn | 1498 |
-| 20 | Ninth Planet | 1498 |
+| 16 | Ninth Planet | 1508 |
+| 17 | 星舰月球 | 1504 |
+| 18 | BrazilCorp. | 1501 |
+| 19 | [Blue*Nation] | 1499 |
+| 20 | OntarioDawn | 1498 |
 | 21 | Hinterm Mond | 1496 |
 | 22 | Медведи | 1492 |
 | 23 | Hand Of NOD!  | 1492 |
@@ -55,14 +55,14 @@ permalink: /comp100/
 | 47 | IMPERIAL ARMADA | 1445 |
 | 48 | Nearland Ind | 1444 |
 | 49 | Valhalla Rising | 1441 |
-| 50 | Space Penguins | 1439 |
-| 51 | ANDROMEDA INC.  | 1439 |
-| 52 | Omega Alpha | 1438 |
-| 53 | Axiom | 1432 |
-| 54 | Повстанцы Хаоса | 1432 |
-| 55 | Gemini Ind. | 1432 |
-| 56 | Outland Ind. | 1430 |
-| 57 | 9-Й СКОРПИОН | 1429 |
+| 50 | 9-Й СКОРПИОН | 1440 |
+| 51 | Space Penguins | 1439 |
+| 52 | ANDROMEDA INC.  | 1439 |
+| 53 | Omega Alpha | 1438 |
+| 54 | Axiom | 1432 |
+| 55 | Повстанцы Хаоса | 1432 |
+| 56 | Gemini Ind. | 1432 |
+| 57 | Outland Ind. | 1430 |
 | 58 | Grunthal Gang | 1428 |
 | 59 | StarControl | 1428 |
 | 60 | pirates spatial | 1426 |
@@ -75,34 +75,34 @@ permalink: /comp100/
 | 67 | TeddisaurusWrex | 1412 |
 | 68 | BRASIL STAR | 1412 |
 | 69 | Embers Rising | 1411 |
-| 70 | 中国星际联盟 | 1405 |
-| 71 | 第四星际 | 1403 |
-| 72 | Decode | 1403 |
-| 73 | First Legion | 1401 |
-| 74 | Kratos | 1400 |
-| 75 | Elysium | 1400 |
-| 76 | Corvus Ind. | 1399 |
-| 77 | Zvezdec | 1399 |
-| 78 | Cyber Star | 1397 |
-| 79 | 元素联邦 | 1396 |
-| 80 | 对，进就进人少的 | 1395 |
-| 81 | 101 | 1395 |
-| 82 | Bunker | 1393 |
-| 83 | DarkMoon | 1389 |
-| 84 | Starsailors | 1388 |
-| 85 | 第一序列 | 1386 |
-| 86 | Warriorlords | 1386 |
+| 70 | Warriorlords | 1411 |
+| 71 | 中国星际联盟 | 1405 |
+| 72 | 第四星际 | 1403 |
+| 73 | Decode | 1403 |
+| 74 | First Legion | 1401 |
+| 75 | Kratos | 1400 |
+| 76 | Elysium | 1400 |
+| 77 | Corvus Ind. | 1399 |
+| 78 | Zvezdec | 1399 |
+| 79 | Cyber Star | 1397 |
+| 80 | 元素联邦 | 1396 |
+| 81 | 对，进就进人少的 | 1395 |
+| 82 | 101 | 1395 |
+| 83 | Bunker | 1393 |
+| 84 | DarkMoon | 1389 |
+| 85 | Starsailors | 1388 |
+| 86 | 第一序列 | 1386 |
 | 87 | Black Star llc. | 1383 |
 | 88 | 한국인 | 1382 |
-| 89 | Wompwompway  | 1381 |
-| 90 | Bloodtide | 1381 |
-| 91 | Providence | 1381 |
-| 92 | Альянс | 1380 |
-| 93 | Z. O. V.  | 1380 |
-| 94 | Red Dawn | 1379 |
-| 95 | Hinterm Mars | 1378 |
-| 96 | Stellar Exports | 1376 |
-| 97 | OPA | 1375 |
-| 98 | Dumpster Fire 2 | 1375 |
-| 99 | Sich.ua | 1374 |
-| 100 | 绛紫星 | 1374 |
+| 89 | Bloodtide | 1381 |
+| 90 | Providence | 1381 |
+| 91 | Альянс | 1380 |
+| 92 | Z. O. V.  | 1380 |
+| 93 | Red Dawn | 1379 |
+| 94 | Hinterm Mars | 1378 |
+| 95 | Stellar Exports | 1376 |
+| 96 | OPA | 1375 |
+| 97 | Dumpster Fire 2 | 1375 |
+| 98 | Sich.ua | 1374 |
+| 99 | 绛紫星 | 1374 |
+| 100 | Rogue One | 1373 |
