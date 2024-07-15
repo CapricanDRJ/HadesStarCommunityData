@@ -59,18 +59,18 @@ permalink: /comp100/
 | 51 | ANDROMEDA INC.  | 1439 |
 | 52 | Omega Alpha | 1438 |
 | 53 | Axiom | 1432 |
-| 54 | Gemini Ind. | 1432 |
-| 55 | Outland Ind. | 1430 |
-| 56 | 9-Й СКОРПИОН | 1429 |
-| 57 | Grunthal Gang | 1428 |
-| 58 | StarControl | 1428 |
-| 59 | pirates spatial | 1426 |
-| 60 | Spacefleet | 1425 |
-| 61 | リリース | 1423 |
-| 62 | Atlas Star llc. | 1423 |
-| 63 | Спутник | 1422 |
-| 64 | White Dwarf | 1420 |
-| 65 | Повстанцы Хаоса | 1419 |
+| 54 | Повстанцы Хаоса | 1432 |
+| 55 | Gemini Ind. | 1432 |
+| 56 | Outland Ind. | 1430 |
+| 57 | 9-Й СКОРПИОН | 1429 |
+| 58 | Grunthal Gang | 1428 |
+| 59 | StarControl | 1428 |
+| 60 | pirates spatial | 1426 |
+| 61 | Spacefleet | 1425 |
+| 62 | リリース | 1423 |
+| 63 | Atlas Star llc. | 1423 |
+| 64 | Спутник | 1422 |
+| 65 | White Dwarf | 1420 |
 | 66 | TeddisaurusWrex | 1412 |
 | 67 | BRASIL STAR | 1412 |
 | 68 | Embers Rising | 1411 |
@@ -102,7 +102,7 @@ permalink: /comp100/
 | 94 | Red Dawn | 1379 |
 | 95 | Hinterm Mars | 1378 |
 | 96 | Stellar Exports | 1376 |
-| 97 | Newbs | 1375 |
-| 98 | OPA | 1375 |
-| 99 | Dumpster Fire 2 | 1375 |
-| 100 | Sich.ua | 1374 |
+| 97 | OPA | 1375 |
+| 98 | Dumpster Fire 2 | 1375 |
+| 99 | Sich.ua | 1374 |
+| 100 | 绛紫星 | 1374 |
