@@ -62,13 +62,13 @@ permalink: /comp100/
 | 54 | Axiom | 1436 |
 | 55 | Повстанцы Хаоса | 1432 |
 | 56 | Gemini Ind. | 1432 |
-| 57 | Outland Ind. | 1430 |
-| 58 | Grunthal Gang | 1428 |
-| 59 | StarControl | 1428 |
-| 60 | pirates spatial | 1426 |
-| 61 | Spacefleet | 1425 |
-| 62 | リリース | 1423 |
-| 63 | Atlas Star llc. | 1423 |
+| 57 | Atlas Star llc. | 1431 |
+| 58 | Outland Ind. | 1430 |
+| 59 | Grunthal Gang | 1428 |
+| 60 | StarControl | 1428 |
+| 61 | pirates spatial | 1426 |
+| 62 | Spacefleet | 1425 |
+| 63 | リリース | 1423 |
 | 64 | Спутник | 1422 |
 | 65 | Spica​ | 1420 |
 | 66 | White Dwarf | 1420 |
