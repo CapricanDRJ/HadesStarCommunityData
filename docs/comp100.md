@@ -73,26 +73,26 @@ permalink: /comp100/
 | 65 | Spica​ | 1420 |
 | 66 | White Dwarf | 1420 |
 | 67 | First Legion | 1417 |
-| 68 | TeddisaurusWrex | 1412 |
-| 69 | BRASIL STAR | 1412 |
-| 70 | Embers Rising | 1411 |
-| 71 | Warriorlords | 1411 |
-| 72 | 第四星际 | 1410 |
-| 73 | 中国星际联盟 | 1405 |
-| 74 | Decode | 1403 |
-| 75 | Kratos | 1400 |
-| 76 | Elysium | 1400 |
-| 77 | Corvus Ind. | 1399 |
-| 78 | Zvezdec | 1399 |
-| 79 | Cyber Star | 1397 |
-| 80 | 元素联邦 | 1396 |
-| 81 | 对，进就进人少的 | 1395 |
-| 82 | 101 | 1395 |
-| 83 | Bunker | 1393 |
-| 84 | DarkMoon | 1389 |
-| 85 | Starsailors | 1388 |
-| 86 | DarkSide | 1388 |
-| 87 | 第一序列 | 1386 |
+| 68 | 第一序列 | 1415 |
+| 69 | TeddisaurusWrex | 1412 |
+| 70 | BRASIL STAR | 1412 |
+| 71 | Embers Rising | 1411 |
+| 72 | Warriorlords | 1411 |
+| 73 | 第四星际 | 1410 |
+| 74 | 中国星际联盟 | 1405 |
+| 75 | Decode | 1403 |
+| 76 | Kratos | 1400 |
+| 77 | Elysium | 1400 |
+| 78 | Corvus Ind. | 1399 |
+| 79 | Zvezdec | 1399 |
+| 80 | Cyber Star | 1397 |
+| 81 | 元素联邦 | 1396 |
+| 82 | 对，进就进人少的 | 1395 |
+| 83 | 101 | 1395 |
+| 84 | Bunker | 1393 |
+| 85 | DarkMoon | 1389 |
+| 86 | Starsailors | 1388 |
+| 87 | DarkSide | 1388 |
 | 88 | Black Star llc. | 1383 |
 | 89 | 한국인 | 1382 |
 | 90 | Bloodtide | 1381 |
