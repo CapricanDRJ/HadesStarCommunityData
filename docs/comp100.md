@@ -10,7 +10,7 @@ permalink: /comp100/
 | 2 | 柯伊伯带 | 1571 |
 | 3 | Brodudes Inc. | 1566 |
 | 4 | Слава Украине! | 1563 |
-| 5 | Likapa | 1547 |
+| 5 | Likapa | 1559 |
 | 6 | BlackStar Order | 1544 |
 | 7 | Auscorp  | 1541 |
 | 8 | МАРСЮКИ | 1531 |
