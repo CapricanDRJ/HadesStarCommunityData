@@ -49,8 +49,8 @@ permalink: /comp100/
 | 41 | Серебряная орда | 1462 |
 | 42 | Mercury Sunset | 1459 |
 | 43 | ✡天启✡ | 1457 |
-| 44 | three kitties | 1454 |
-| 45 | Hexacropians | 1450 |
+| 44 | Hexacropians | 1456 |
+| 45 | three kitties | 1454 |
 | 46 | 墨痕空域 | 1449 |
 | 47 | IMPERIAL ARMADA | 1445 |
 | 48 | Nearland Ind | 1444 |
@@ -77,8 +77,8 @@ permalink: /comp100/
 | 69 | BRASIL STAR | 1412 |
 | 70 | Embers Rising | 1411 |
 | 71 | Warriorlords | 1411 |
-| 72 | 中国星际联盟 | 1405 |
-| 73 | 第四星际 | 1403 |
+| 72 | 第四星际 | 1410 |
+| 73 | 中国星际联盟 | 1405 |
 | 74 | Decode | 1403 |
 | 75 | Kratos | 1400 |
 | 76 | Elysium | 1400 |
