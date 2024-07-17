@@ -51,8 +51,8 @@ permalink: /comp100/
 | 43 | ✡天启✡ | 1457 |
 | 44 | Hexacropians | 1456 |
 | 45 | three kitties | 1454 |
-| 46 | 墨痕空域 | 1449 |
-| 47 | IMPERIAL ARMADA | 1445 |
+| 46 | IMPERIAL ARMADA | 1452 |
+| 47 | 墨痕空域 | 1449 |
 | 48 | Nearland Ind | 1444 |
 | 49 | Valhalla Rising | 1441 |
 | 50 | 9-Й СКОРПИОН | 1440 |
