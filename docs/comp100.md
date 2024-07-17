@@ -15,9 +15,9 @@ permalink: /comp100/
 | 7 | Auscorp  | 1541 |
 | 8 | МАРСЮКИ | 1531 |
 | 9 | Continuum | 1529 |
-| 10 | VoidRunners | 1526 |
-| 11 | IX Легион | 1526 |
-| 12 | Ender | 1524 |
+| 10 | Ender | 1528 |
+| 11 | VoidRunners | 1526 |
+| 12 | IX Легион | 1526 |
 | 13 | Blood Hounds | 1523 |
 | 14 | Famous Assasins | 1523 |
 | 15 | 111 | 1510 |
@@ -98,11 +98,11 @@ permalink: /comp100/
 | 90 | 한국인 | 1382 |
 | 91 | Bloodtide | 1381 |
 | 92 | Providence | 1381 |
-| 93 | Альянс | 1380 |
-| 94 | Z. O. V.  | 1380 |
-| 95 | Red Dawn | 1379 |
-| 96 | Hinterm Mars | 1378 |
-| 97 | Stellar Exports | 1376 |
-| 98 | OPA | 1375 |
-| 99 | Dumpster Fire 2 | 1375 |
-| 100 | Sich.ua | 1374 |
+| 93 | BrinySeal | 1380 |
+| 94 | Альянс | 1380 |
+| 95 | Z. O. V.  | 1380 |
+| 96 | Red Dawn | 1379 |
+| 97 | Hinterm Mars | 1378 |
+| 98 | Stellar Exports | 1376 |
+| 99 | OPA | 1375 |
+| 100 | Dumpster Fire 2 | 1375 |
