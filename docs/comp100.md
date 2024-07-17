@@ -23,14 +23,14 @@ permalink: /comp100/
 | 15 | 111 | 1510 |
 | 16 | Ninth Planet | 1508 |
 | 17 | 星舰月球 | 1504 |
-| 18 | BrazilCorp. | 1501 |
-| 19 | [Blue*Nation] | 1499 |
-| 20 | OntarioDawn | 1498 |
-| 21 | Hinterm Mond | 1496 |
-| 22 | 六大天神 | 1493 |
-| 23 | Медведи | 1492 |
-| 24 | Hand Of NOD!  | 1492 |
-| 25 | 仙女座星雲 | 1491 |
+| 18 | 仙女座星雲 | 1502 |
+| 19 | BrazilCorp. | 1501 |
+| 20 | [Blue*Nation] | 1499 |
+| 21 | OntarioDawn | 1498 |
+| 22 | Hinterm Mond | 1496 |
+| 23 | 六大天神 | 1493 |
+| 24 | Медведи | 1492 |
+| 25 | Hand Of NOD!  | 1492 |
 | 26 | Death Star llc. | 1491 |
 | 27 | 新手联邦（新经济开发区） | 1480 |
 | 28 | Stargate Corp | 1479 |
@@ -89,12 +89,12 @@ permalink: /comp100/
 | 81 | Cyber Star | 1397 |
 | 82 | 元素联邦 | 1396 |
 | 83 | 对，进就进人少的 | 1395 |
-| 84 | Bunker | 1393 |
-| 85 | DarkMoon | 1389 |
-| 86 | Starsailors | 1388 |
-| 87 | DarkSide | 1388 |
-| 88 | Star Destroyers | 1385 |
-| 89 | Black Star llc. | 1383 |
+| 84 | DarkMoon | 1389 |
+| 85 | Starsailors | 1388 |
+| 86 | DarkSide | 1388 |
+| 87 | Star Destroyers | 1385 |
+| 88 | Black Star llc. | 1383 |
+| 89 | Bunker | 1382 |
 | 90 | 한국인 | 1382 |
 | 91 | Bloodtide | 1381 |
 | 92 | Providence | 1381 |
