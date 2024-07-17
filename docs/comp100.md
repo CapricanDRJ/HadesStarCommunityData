@@ -11,8 +11,8 @@ permalink: /comp100/
 | 3 | Brodudes Inc. | 1566 |
 | 4 | Слава Украине! | 1563 |
 | 5 | Likapa | 1559 |
-| 6 | BlackStar Order | 1544 |
-| 7 | Auscorp  | 1541 |
+| 6 | Auscorp  | 1548 |
+| 7 | BlackStar Order | 1544 |
 | 8 | МАРСЮКИ | 1531 |
 | 9 | Continuum | 1529 |
 | 10 | Ender | 1528 |
@@ -79,16 +79,16 @@ permalink: /comp100/
 | 71 | Embers Rising | 1411 |
 | 72 | Warriorlords | 1411 |
 | 73 | 第四星际 | 1410 |
-| 74 | 中国星际联盟 | 1405 |
-| 75 | Decode | 1403 |
-| 76 | 101 | 1402 |
-| 77 | Kratos | 1400 |
-| 78 | Elysium | 1400 |
-| 79 | Corvus Ind. | 1399 |
-| 80 | Zvezdec | 1399 |
-| 81 | Cyber Star | 1397 |
-| 82 | 元素联邦 | 1396 |
-| 83 | 对，进就进人少的 | 1395 |
+| 74 | 对，进就进人少的 | 1408 |
+| 75 | 中国星际联盟 | 1405 |
+| 76 | Decode | 1403 |
+| 77 | 101 | 1402 |
+| 78 | Kratos | 1400 |
+| 79 | Elysium | 1400 |
+| 80 | Corvus Ind. | 1399 |
+| 81 | Zvezdec | 1399 |
+| 82 | Cyber Star | 1397 |
+| 83 | 元素联邦 | 1396 |
 | 84 | DarkMoon | 1389 |
 | 85 | Starsailors | 1388 |
 | 86 | DarkSide | 1388 |
