@@ -6,32 +6,32 @@ permalink: /comp100/
 
 | Rank | Corporation Name | Elo Rating |
 |------|-----------------|------------|
-| 1 | ДИВЕРСАНТЫ | 1598 |
-| 2 | 柯伊伯带 | 1574 |
+| 1 | ДИВЕРСАНТЫ | 1604 |
+| 2 | 柯伊伯带 | 1583 |
 | 3 | Brodudes Inc. | 1566 |
 | 4 | Слава Украине! | 1563 |
 | 5 | Likapa | 1559 |
 | 6 | Auscorp  | 1548 |
 | 7 | BlackStar Order | 1547 |
-| 8 | МАРСЮКИ | 1531 |
-| 9 | Continuum | 1529 |
-| 10 | Ender | 1528 |
-| 11 | VoidRunners | 1526 |
-| 12 | IX Легион | 1526 |
-| 13 | Famous Assasins | 1523 |
-| 14 | 111 | 1510 |
-| 15 | Ninth Planet | 1508 |
-| 16 | BrazilCorp. | 1506 |
-| 17 | 星舰月球 | 1504 |
-| 18 | 仙女座星雲 | 1502 |
-| 19 | Blood Hounds | 1502 |
+| 8 | Blood Hounds | 1532 |
+| 9 | МАРСЮКИ | 1531 |
+| 10 | Continuum | 1529 |
+| 11 | Ender | 1528 |
+| 12 | VoidRunners | 1526 |
+| 13 | IX Легион | 1526 |
+| 14 | Famous Assasins | 1523 |
+| 15 | 111 | 1510 |
+| 16 | Ninth Planet | 1508 |
+| 17 | BrazilCorp. | 1506 |
+| 18 | 星舰月球 | 1504 |
+| 19 | 仙女座星雲 | 1502 |
 | 20 | [Blue*Nation] | 1499 |
 | 21 | OntarioDawn | 1498 |
 | 22 | Hinterm Mond | 1496 |
 | 23 | Death Star llc. | 1496 |
-| 24 | 六大天神 | 1493 |
-| 25 | Медведи | 1492 |
-| 26 | Hand Of NOD!  | 1492 |
+| 24 | Медведи | 1492 |
+| 25 | Hand Of NOD!  | 1492 |
+| 26 | 六大天神 | 1482 |
 | 27 | 新手联邦（新经济开发区） | 1480 |
 | 28 | Stargate Corp | 1479 |
 | 29 | Ark | 1478 |
