@@ -7,7 +7,7 @@ permalink: /comp100/
 | Rank | Corporation Name | Elo Rating |
 |------|-----------------|------------|
 | 1 | ДИВЕРСАНТЫ | 1598 |
-| 2 | 柯伊伯带 | 1571 |
+| 2 | 柯伊伯带 | 1574 |
 | 3 | Brodudes Inc. | 1566 |
 | 4 | Слава Украине! | 1563 |
 | 5 | Likapa | 1559 |
@@ -22,9 +22,9 @@ permalink: /comp100/
 | 14 | Famous Assasins | 1523 |
 | 15 | 111 | 1510 |
 | 16 | Ninth Planet | 1508 |
-| 17 | 星舰月球 | 1504 |
-| 18 | 仙女座星雲 | 1502 |
-| 19 | BrazilCorp. | 1501 |
+| 17 | BrazilCorp. | 1506 |
+| 18 | 星舰月球 | 1504 |
+| 19 | 仙女座星雲 | 1502 |
 | 20 | [Blue*Nation] | 1499 |
 | 21 | OntarioDawn | 1498 |
 | 22 | Hinterm Mond | 1496 |
