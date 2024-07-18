@@ -12,7 +12,7 @@ permalink: /comp100/
 | 4 | Слава Украине! | 1563 |
 | 5 | Likapa | 1559 |
 | 6 | Auscorp  | 1548 |
-| 7 | BlackStar Order | 1544 |
+| 7 | BlackStar Order | 1547 |
 | 8 | МАРСЮКИ | 1531 |
 | 9 | Continuum | 1529 |
 | 10 | Ender | 1528 |
@@ -28,10 +28,10 @@ permalink: /comp100/
 | 20 | [Blue*Nation] | 1499 |
 | 21 | OntarioDawn | 1498 |
 | 22 | Hinterm Mond | 1496 |
-| 23 | 六大天神 | 1493 |
-| 24 | Медведи | 1492 |
-| 25 | Hand Of NOD!  | 1492 |
-| 26 | Death Star llc. | 1491 |
+| 23 | Death Star llc. | 1496 |
+| 24 | 六大天神 | 1493 |
+| 25 | Медведи | 1492 |
+| 26 | Hand Of NOD!  | 1492 |
 | 27 | 新手联邦（新经济开发区） | 1480 |
 | 28 | Stargate Corp | 1479 |
 | 29 | Ark | 1478 |
@@ -89,18 +89,18 @@ permalink: /comp100/
 | 81 | Zvezdec | 1399 |
 | 82 | Cyber Star | 1397 |
 | 83 | 元素联邦 | 1396 |
-| 84 | DarkMoon | 1389 |
-| 85 | Starsailors | 1388 |
-| 86 | DarkSide | 1388 |
-| 87 | Star Destroyers | 1385 |
-| 88 | Black Star llc. | 1383 |
-| 89 | Bunker | 1382 |
-| 90 | 한국인 | 1382 |
-| 91 | Bloodtide | 1381 |
-| 92 | Providence | 1381 |
-| 93 | BrinySeal | 1380 |
-| 94 | Альянс | 1380 |
-| 95 | Z. O. V.  | 1380 |
+| 84 | Z. O. V.  | 1392 |
+| 85 | DarkMoon | 1389 |
+| 86 | Starsailors | 1388 |
+| 87 | DarkSide | 1388 |
+| 88 | Star Destroyers | 1385 |
+| 89 | Black Star llc. | 1383 |
+| 90 | Bunker | 1382 |
+| 91 | 한국인 | 1382 |
+| 92 | Bloodtide | 1381 |
+| 93 | Providence | 1381 |
+| 94 | BrinySeal | 1380 |
+| 95 | Альянс | 1380 |
 | 96 | Red Dawn | 1379 |
 | 97 | Hinterm Mars | 1378 |
 | 98 | Stellar Exports | 1376 |
