@@ -72,22 +72,22 @@ permalink: /comp100/
 | 64 | Спутник | 1422 |
 | 65 | Spica​ | 1420 |
 | 66 | White Dwarf | 1420 |
-| 67 | First Legion | 1417 |
-| 68 | 第一序列 | 1415 |
-| 69 | TeddisaurusWrex | 1412 |
+| 67 | TeddisaurusWrex | 1418 |
+| 68 | First Legion | 1417 |
+| 69 | 第一序列 | 1415 |
 | 70 | BRASIL STAR | 1412 |
 | 71 | Embers Rising | 1411 |
 | 72 | Warriorlords | 1411 |
 | 73 | 第四星际 | 1410 |
-| 74 | 对，进就进人少的 | 1408 |
-| 75 | Kratos | 1407 |
-| 76 | 中国星际联盟 | 1405 |
-| 77 | Decode | 1403 |
-| 78 | 101 | 1402 |
-| 79 | Elysium | 1400 |
-| 80 | Corvus Ind. | 1399 |
-| 81 | Zvezdec | 1399 |
-| 82 | Cyber Star | 1397 |
+| 74 | Cyber Star | 1410 |
+| 75 | 对，进就进人少的 | 1408 |
+| 76 | Kratos | 1407 |
+| 77 | 中国星际联盟 | 1405 |
+| 78 | Decode | 1403 |
+| 79 | 101 | 1402 |
+| 80 | Elysium | 1400 |
+| 81 | Corvus Ind. | 1399 |
+| 82 | Zvezdec | 1399 |
 | 83 | 元素联邦 | 1396 |
 | 84 | AFronteiraFinal | 1394 |
 | 85 | Z. O. V.  | 1392 |
