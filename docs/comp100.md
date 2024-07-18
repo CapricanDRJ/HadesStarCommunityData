@@ -13,16 +13,16 @@ permalink: /comp100/
 | 5 | Likapa | 1559 |
 | 6 | Auscorp  | 1548 |
 | 7 | BlackStar Order | 1547 |
-| 8 | Blood Hounds | 1532 |
-| 9 | МАРСЮКИ | 1531 |
-| 10 | Continuum | 1529 |
+| 8 | Continuum | 1545 |
+| 9 | Blood Hounds | 1532 |
+| 10 | МАРСЮКИ | 1531 |
 | 11 | Ender | 1528 |
 | 12 | VoidRunners | 1526 |
 | 13 | IX Легион | 1526 |
 | 14 | Famous Assasins | 1523 |
-| 15 | 111 | 1510 |
-| 16 | Ninth Planet | 1508 |
-| 17 | BrazilCorp. | 1506 |
+| 15 | BrazilCorp. | 1517 |
+| 16 | 111 | 1510 |
+| 17 | Ninth Planet | 1508 |
 | 18 | 星舰月球 | 1504 |
 | 19 | 仙女座星雲 | 1502 |
 | 20 | [Blue*Nation] | 1499 |
@@ -80,10 +80,10 @@ permalink: /comp100/
 | 72 | Warriorlords | 1411 |
 | 73 | 第四星际 | 1410 |
 | 74 | 对，进就进人少的 | 1408 |
-| 75 | 中国星际联盟 | 1405 |
-| 76 | Decode | 1403 |
-| 77 | 101 | 1402 |
-| 78 | Kratos | 1400 |
+| 75 | Kratos | 1407 |
+| 76 | 中国星际联盟 | 1405 |
+| 77 | Decode | 1403 |
+| 78 | 101 | 1402 |
 | 79 | Elysium | 1400 |
 | 80 | Corvus Ind. | 1399 |
 | 81 | Zvezdec | 1399 |
