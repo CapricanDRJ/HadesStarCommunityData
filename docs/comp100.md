@@ -18,13 +18,13 @@ permalink: /comp100/
 | 10 | Ender | 1528 |
 | 11 | VoidRunners | 1526 |
 | 12 | IX Легион | 1526 |
-| 13 | Blood Hounds | 1523 |
-| 14 | Famous Assasins | 1523 |
-| 15 | 111 | 1510 |
-| 16 | Ninth Planet | 1508 |
-| 17 | BrazilCorp. | 1506 |
-| 18 | 星舰月球 | 1504 |
-| 19 | 仙女座星雲 | 1502 |
+| 13 | Famous Assasins | 1523 |
+| 14 | 111 | 1510 |
+| 15 | Ninth Planet | 1508 |
+| 16 | BrazilCorp. | 1506 |
+| 17 | 星舰月球 | 1504 |
+| 18 | 仙女座星雲 | 1502 |
+| 19 | Blood Hounds | 1502 |
 | 20 | [Blue*Nation] | 1499 |
 | 21 | OntarioDawn | 1498 |
 | 22 | Hinterm Mond | 1496 |
@@ -89,20 +89,20 @@ permalink: /comp100/
 | 81 | Zvezdec | 1399 |
 | 82 | Cyber Star | 1397 |
 | 83 | 元素联邦 | 1396 |
-| 84 | Z. O. V.  | 1392 |
-| 85 | DarkMoon | 1389 |
-| 86 | Starsailors | 1388 |
-| 87 | DarkSide | 1388 |
-| 88 | Star Destroyers | 1385 |
-| 89 | Black Star llc. | 1383 |
-| 90 | Bunker | 1382 |
-| 91 | 한국인 | 1382 |
-| 92 | Bloodtide | 1381 |
-| 93 | Providence | 1381 |
-| 94 | BrinySeal | 1380 |
-| 95 | Альянс | 1380 |
-| 96 | Red Dawn | 1379 |
-| 97 | Hinterm Mars | 1378 |
-| 98 | Stellar Exports | 1376 |
-| 99 | OPA | 1375 |
-| 100 | Dumpster Fire 2 | 1375 |
+| 84 | AFronteiraFinal | 1394 |
+| 85 | Z. O. V.  | 1392 |
+| 86 | DarkMoon | 1389 |
+| 87 | Starsailors | 1388 |
+| 88 | DarkSide | 1388 |
+| 89 | Star Destroyers | 1385 |
+| 90 | Black Star llc. | 1383 |
+| 91 | Bunker | 1382 |
+| 92 | 한국인 | 1382 |
+| 93 | Bloodtide | 1381 |
+| 94 | Providence | 1381 |
+| 95 | BrinySeal | 1380 |
+| 96 | Альянс | 1380 |
+| 97 | Red Dawn | 1379 |
+| 98 | Hinterm Mars | 1378 |
+| 99 | Stellar Exports | 1376 |
+| 100 | OPA | 1375 |
