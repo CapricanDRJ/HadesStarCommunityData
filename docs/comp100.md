@@ -8,9 +8,9 @@ permalink: /comp100/
 |------|-----------------|------------|
 | 1 | ДИВЕРСАНТЫ | 1604 |
 | 2 | 柯伊伯带 | 1583 |
-| 3 | Brodudes Inc. | 1566 |
-| 4 | Слава Украине! | 1563 |
-| 5 | Likapa | 1559 |
+| 3 | Likapa | 1570 |
+| 4 | Brodudes Inc. | 1566 |
+| 5 | Слава Украине! | 1563 |
 | 6 | Auscorp  | 1548 |
 | 7 | BlackStar Order | 1547 |
 | 8 | Continuum | 1545 |
@@ -21,7 +21,7 @@ permalink: /comp100/
 | 13 | IX Легион | 1526 |
 | 14 | Famous Assasins | 1523 |
 | 15 | BrazilCorp. | 1517 |
-| 16 | 111 | 1510 |
+| 16 | 111 | 1514 |
 | 17 | Ninth Planet | 1508 |
 | 18 | 星舰月球 | 1504 |
 | 19 | 仙女座星雲 | 1502 |
@@ -39,30 +39,30 @@ permalink: /comp100/
 | 31 | 共产星际 | 1474 |
 | 32 |  RELAX CZ/SK | 1473 |
 | 33 | Tuatha De Danan | 1473 |
-| 34 | русь  | 1472 |
-| 35 | CIS | 1471 |
-| 36 | Октябристы | 1469 |
-| 37 | Неизбежный Рок | 1468 |
-| 38 | Лунный Феникс | 1468 |
-| 39 | Lacuna X | 1463 |
-| 40 | Emergence | 1462 |
-| 41 | Серебряная орда | 1462 |
-| 42 | Mercury Sunset | 1459 |
-| 43 | three kitties | 1457 |
-| 44 | ✡天启✡ | 1457 |
-| 45 | Hexacropians | 1456 |
-| 46 | IMPERIAL ARMADA | 1452 |
-| 47 | Nearland Ind | 1444 |
-| 48 | Valhalla Rising | 1441 |
-| 49 | 9-Й СКОРПИОН | 1440 |
-| 50 | Space Penguins | 1439 |
-| 51 | ANDROMEDA INC.  | 1439 |
-| 52 | Omega Alpha | 1438 |
-| 53 | Axiom | 1436 |
-| 54 | Повстанцы Хаоса | 1432 |
-| 55 | Gemini Ind. | 1432 |
-| 56 | Atlas Star llc. | 1431 |
-| 57 | 墨痕空域 | 1430 |
+| 34 | CIS | 1471 |
+| 35 | Октябристы | 1469 |
+| 36 | Неизбежный Рок | 1468 |
+| 37 | Лунный Феникс | 1468 |
+| 38 | Lacuna X | 1463 |
+| 39 | Emergence | 1462 |
+| 40 | Серебряная орда | 1462 |
+| 41 | русь  | 1461 |
+| 42 | 墨痕空域 | 1461 |
+| 43 | Mercury Sunset | 1459 |
+| 44 | three kitties | 1457 |
+| 45 | ✡天启✡ | 1457 |
+| 46 | Hexacropians | 1456 |
+| 47 | IMPERIAL ARMADA | 1452 |
+| 48 | Nearland Ind | 1444 |
+| 49 | Valhalla Rising | 1441 |
+| 50 | 9-Й СКОРПИОН | 1440 |
+| 51 | Space Penguins | 1439 |
+| 52 | ANDROMEDA INC.  | 1439 |
+| 53 | Omega Alpha | 1438 |
+| 54 | Axiom | 1436 |
+| 55 | Повстанцы Хаоса | 1432 |
+| 56 | Gemini Ind. | 1432 |
+| 57 | Atlas Star llc. | 1431 |
 | 58 | Outland Ind. | 1430 |
 | 59 | Grunthal Gang | 1428 |
 | 60 | StarControl | 1428 |
@@ -103,6 +103,6 @@ permalink: /comp100/
 | 95 | BrinySeal | 1380 |
 | 96 | Альянс | 1380 |
 | 97 | Red Dawn | 1379 |
-| 98 | Hinterm Mars | 1378 |
-| 99 | Stellar Exports | 1376 |
-| 100 | OPA | 1375 |
+| 98 | Stellar Exports | 1376 |
+| 99 | OPA | 1375 |
+| 100 | Sich.ua | 1374 |
