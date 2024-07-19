@@ -1,0 +1,17 @@
+# Goa'uld
+
+### Corporation Overview
+**ELO Rating:** 1181.4681973390389
+**Total Matches:** 3
+**Wins:** 0
+**Losses:** 1
+**Draws:** 2
+**Streak:** 0
+**Streak Record:** 0
+
+### Recurring Opponents
+
+### Match History
+2024-05-18  ↔️    0-0    [CCCP](https://ws.tsl.rocks/corp/34cd422237fc59472ea900588e5416892c4cceeae033e28f8352b61524a92ac7/)
+2024-01-09  ↔️    2-2    [Jalisco México](https://ws.tsl.rocks/corp/495236ab2171ccbcdad0da5529f080405b1ddd081eda98c7255a8cffe5b114e4/)
+2023-12-18  ❌    0-3    [Atlas corp](https://ws.tsl.rocks/corp/e729927db5a5672fcc94357f999bc3b66fa38a624f042543b847f82e7fa890a5/)
