@@ -91,18 +91,18 @@ permalink: /comp100/
 | 83 | 元素联邦 | 1396 |
 | 84 | AFronteiraFinal | 1394 |
 | 85 | Z. O. V.  | 1392 |
-| 86 | DarkMoon | 1389 |
-| 87 | Starsailors | 1388 |
-| 88 | DarkSide | 1388 |
-| 89 | Decode | 1387 |
-| 90 | Star Destroyers | 1385 |
-| 91 | Bunker | 1382 |
-| 92 | 한국인 | 1382 |
-| 93 | Bloodtide | 1381 |
-| 94 | Providence | 1381 |
-| 95 | BrinySeal | 1380 |
-| 96 | Альянс | 1380 |
-| 97 | Red Dawn | 1379 |
-| 98 | Stellar Exports | 1376 |
-| 99 | OPA | 1375 |
-| 100 | Sich.ua | 1374 |
+| 86 | Stellar Exports | 1390 |
+| 87 | DarkMoon | 1389 |
+| 88 | Starsailors | 1388 |
+| 89 | DarkSide | 1388 |
+| 90 | Decode | 1387 |
+| 91 | Star Destroyers | 1385 |
+| 92 | Dacia Chill | 1384 |
+| 93 | Bunker | 1382 |
+| 94 | 한국인 | 1382 |
+| 95 | Bloodtide | 1381 |
+| 96 | Providence | 1381 |
+| 97 | BrinySeal | 1380 |
+| 98 | Альянс | 1380 |
+| 99 | Red Dawn | 1379 |
+| 100 | OPA | 1375 |
