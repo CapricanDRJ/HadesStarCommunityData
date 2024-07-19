@@ -1,18 +1,21 @@
 # LUPI ROMÎNI
 
 ### Corporation Overview
-**ELO Rating:** 1170.289449386769
-**Total Matches:** 4
-**Wins:** 1
-**Losses:** 3
-**Draws:** 0
-**Streak:** 0
-**Streak Record:** 0
+
+| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1170.289449386769 | 4 | 1 | 3 | 0 | 0 | 0 |
 
 ### Recurring Opponents
 
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+
 ### Match History
-2024-05-27  ❌    0-14    [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/)
-2024-04-19  ❌    0-3    [U.Y.E.U.](https://ws.tsl.rocks/corp/504f779e55c2d1bc5ff35b4540c0bb60421bd8bce70c3eb0caf45fd73915ec86/)
-2024-01-14  ❌    0-21    [墨痕白星分部](https://ws.tsl.rocks/corp/b427cd42ba647399d1a25712254def04083c0a9c2d7faa5c77138050f414c0da/)
-2024-01-06  ✅    3-0    [j g f h me t y ](https://ws.tsl.rocks/corp/47918aa8890d89fb5fc148ee9fdd940dd60ae73de3f7d05ccc54fabed17e1b5f/)
+
+| Date | Result | Score | Opponent |
+| --- | --- | --- | --- |
+| 2024-05-27 | ❌ | 0-14 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) |
+| 2024-04-19 | ❌ | 0-3 | [U.Y.E.U.](https://ws.tsl.rocks/corp/504f779e55c2d1bc5ff35b4540c0bb60421bd8bce70c3eb0caf45fd73915ec86/) |
+| 2024-01-14 | ❌ | 0-21 | [墨痕白星分部](https://ws.tsl.rocks/corp/b427cd42ba647399d1a25712254def04083c0a9c2d7faa5c77138050f414c0da/) |
+| 2024-01-06 | ✅ | 3-0 | [j g f h me t y ](https://ws.tsl.rocks/corp/47918aa8890d89fb5fc148ee9fdd940dd60ae73de3f7d05ccc54fabed17e1b5f/) |

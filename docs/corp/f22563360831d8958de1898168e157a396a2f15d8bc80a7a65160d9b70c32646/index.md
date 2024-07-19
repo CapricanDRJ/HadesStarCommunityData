@@ -1,15 +1,18 @@
 # Three Rivers
 
 ### Corporation Overview
-**ELO Rating:** 1186.2897057265832
-**Total Matches:** 1
-**Wins:** 0
-**Losses:** 1
-**Draws:** 0
-**Streak:** 0
-**Streak Record:** 0
+
+| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1186.2897057265832 | 1 | 0 | 1 | 0 | 0 | 0 |
 
 ### Recurring Opponents
 
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+
 ### Match History
-2023-12-02  ❌    4-27    [ANDROMEDA INC. ](https://ws.tsl.rocks/corp/9d122968f1050c65cf6c741d5f018d932b3fdff8fc0a48144a4376b9fa18677b/)
+
+| Date | Result | Score | Opponent |
+| --- | --- | --- | --- |
+| 2023-12-02 | ❌ | 4-27 | [ANDROMEDA INC. ](https://ws.tsl.rocks/corp/9d122968f1050c65cf6c741d5f018d932b3fdff8fc0a48144a4376b9fa18677b/) |

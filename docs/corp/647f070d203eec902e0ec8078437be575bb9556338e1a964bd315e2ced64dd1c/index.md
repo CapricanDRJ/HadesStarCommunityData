@@ -1,15 +1,18 @@
 # 特拉斯丁第二共和国
 
 ### Corporation Overview
-**ELO Rating:** 1213.7633887960574
-**Total Matches:** 1
-**Wins:** 1
-**Losses:** 0
-**Draws:** 0
-**Streak:** 1
-**Streak Record:** 0
+
+| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1213.7633887960574 | 1 | 1 | 0 | 0 | 1 | 0 |
 
 ### Recurring Opponents
 
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+
 ### Match History
-2023-12-07  ✅    4-0    [CCCP](https://ws.tsl.rocks/corp/34cd422237fc59472ea900588e5416892c4cceeae033e28f8352b61524a92ac7/)
+
+| Date | Result | Score | Opponent |
+| --- | --- | --- | --- |
+| 2023-12-07 | ✅ | 4-0 | [CCCP](https://ws.tsl.rocks/corp/34cd422237fc59472ea900588e5416892c4cceeae033e28f8352b61524a92ac7/) |

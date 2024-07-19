@@ -1,17 +1,20 @@
 # Consortium
 
 ### Corporation Overview
-**ELO Rating:** 1187.2430094338645
-**Total Matches:** 3
-**Wins:** 1
-**Losses:** 2
-**Draws:** 0
-**Streak:** 1
-**Streak Record:** 1
+
+| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1187.2430094338645 | 3 | 1 | 2 | 0 | 1 | 1 |
 
 ### Recurring Opponents
 
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+
 ### Match History
-2024-02-15  ✅    3-2    [The Gladiators](https://ws.tsl.rocks/corp/4aa9000c49c8a988df27932c5a5840800303bdb713ef35f9d207a4da7f6b0337/)
-2024-01-12  ❌    0-6    [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/)
-2024-01-06  ❌    2-3    [Red Suns](https://ws.tsl.rocks/corp/4723a7ddfdf84d63bb4a6e897d77183874e4abd0d5f04c8c6470cb3141dd8629/)
+
+| Date | Result | Score | Opponent |
+| --- | --- | --- | --- |
+| 2024-02-15 | ✅ | 3-2 | [The Gladiators](https://ws.tsl.rocks/corp/4aa9000c49c8a988df27932c5a5840800303bdb713ef35f9d207a4da7f6b0337/) |
+| 2024-01-12 | ❌ | 0-6 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) |
+| 2024-01-06 | ❌ | 2-3 | [Red Suns](https://ws.tsl.rocks/corp/4723a7ddfdf84d63bb4a6e897d77183874e4abd0d5f04c8c6470cb3141dd8629/) |

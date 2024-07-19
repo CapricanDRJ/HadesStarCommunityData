@@ -1,18 +1,21 @@
 # Dadsw/Daughterz
 
 ### Corporation Overview
-**ELO Rating:** 1176.2028252619673
-**Total Matches:** 4
-**Wins:** 1
-**Losses:** 3
-**Draws:** 0
-**Streak:** 0
-**Streak Record:** 1
+
+| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1176.2028252619673 | 4 | 1 | 3 | 0 | 0 | 1 |
 
 ### Recurring Opponents
 
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+
 ### Match History
-2024-05-01  ❌    1-12    [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/)
-2024-04-24  ✅    8-3    [脉冲星际集团](https://ws.tsl.rocks/corp/a4c08cf63563563e9bfa1d35edb256e9bb8bcdca15103d646d2ff8ed9d17f480/)
-2024-04-17  ❌    3-26    [Crimson Dawn](https://ws.tsl.rocks/corp/d01a872035141501ad24bc84e5496d239d31d121774482b777bd8f2e03726d44/)
-2023-12-14  ❌    2-24    [SternenStaub](https://ws.tsl.rocks/corp/11f1e8a4d522eaef8cb40c95d07b4533097aa6509ddafd1d7efc1449e8b10f38/)
+
+| Date | Result | Score | Opponent |
+| --- | --- | --- | --- |
+| 2024-05-01 | ❌ | 1-12 | [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) |
+| 2024-04-24 | ✅ | 8-3 | [脉冲星际集团](https://ws.tsl.rocks/corp/a4c08cf63563563e9bfa1d35edb256e9bb8bcdca15103d646d2ff8ed9d17f480/) |
+| 2024-04-17 | ❌ | 3-26 | [Crimson Dawn](https://ws.tsl.rocks/corp/d01a872035141501ad24bc84e5496d239d31d121774482b777bd8f2e03726d44/) |
+| 2023-12-14 | ❌ | 2-24 | [SternenStaub](https://ws.tsl.rocks/corp/11f1e8a4d522eaef8cb40c95d07b4533097aa6509ddafd1d7efc1449e8b10f38/) |

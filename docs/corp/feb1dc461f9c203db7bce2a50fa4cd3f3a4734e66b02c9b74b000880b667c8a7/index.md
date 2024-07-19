@@ -1,15 +1,18 @@
 # Poison Nebula
 
 ### Corporation Overview
-**ELO Rating:** 1185
-**Total Matches:** 1
-**Wins:** 0
-**Losses:** 1
-**Draws:** 0
-**Streak:** 0
-**Streak Record:** 0
+
+| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1185 | 1 | 0 | 1 | 0 | 0 | 0 |
 
 ### Recurring Opponents
 
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+
 ### Match History
-2023-11-06  ❌    1-16    [Zeta LLC](https://ws.tsl.rocks/corp/5779c7241b1f516fefec667bf95a9d1e0db38d307d559e1491b4f3a7fcd720f8/)
+
+| Date | Result | Score | Opponent |
+| --- | --- | --- | --- |
+| 2023-11-06 | ❌ | 1-16 | [Zeta LLC](https://ws.tsl.rocks/corp/5779c7241b1f516fefec667bf95a9d1e0db38d307d559e1491b4f3a7fcd720f8/) |

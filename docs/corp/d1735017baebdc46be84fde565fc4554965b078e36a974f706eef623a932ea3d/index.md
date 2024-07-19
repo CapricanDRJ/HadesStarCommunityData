@@ -1,15 +1,18 @@
 # RATAS
 
 ### Corporation Overview
-**ELO Rating:** 1184.7485765424283
-**Total Matches:** 1
-**Wins:** 0
-**Losses:** 1
-**Draws:** 0
-**Streak:** 0
-**Streak Record:** 0
+
+| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1184.7485765424283 | 1 | 0 | 1 | 0 | 0 | 0 |
 
 ### Recurring Opponents
 
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+
 ### Match History
-2024-03-10  ❌    0-22    [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/)
+
+| Date | Result | Score | Opponent |
+| --- | --- | --- | --- |
+| 2024-03-10 | ❌ | 0-22 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |

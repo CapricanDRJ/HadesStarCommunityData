@@ -1,18 +1,21 @@
 # Wacky Wabbits
 
 ### Corporation Overview
-**ELO Rating:** 1193.7758494897882
-**Total Matches:** 4
-**Wins:** 2
-**Losses:** 2
-**Draws:** 0
-**Streak:** 0
-**Streak Record:** 2
+
+| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1193.7758494897882 | 4 | 2 | 2 | 0 | 0 | 2 |
 
 ### Recurring Opponents
 
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+
 ### Match History
-2024-03-05  ❌    11-23    [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/)
-2024-01-14  ❌    2-46    [Hun Avengers](https://ws.tsl.rocks/corp/e728eecfe4a9589a7c127d52ed2a958ca92aad43a37efd0d91ac0efb1a474854/)
-2024-01-02  ✅    8-6    [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/)
-2023-12-09  ✅    10-0    [The Picard](https://ws.tsl.rocks/corp/e9a6cae99e308f9c70625e04162b887239bea0d52463d7a3ed53464fdd906d0b/)
+
+| Date | Result | Score | Opponent |
+| --- | --- | --- | --- |
+| 2024-03-05 | ❌ | 11-23 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
+| 2024-01-14 | ❌ | 2-46 | [Hun Avengers](https://ws.tsl.rocks/corp/e728eecfe4a9589a7c127d52ed2a958ca92aad43a37efd0d91ac0efb1a474854/) |
+| 2024-01-02 | ✅ | 8-6 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) |
+| 2023-12-09 | ✅ | 10-0 | [The Picard](https://ws.tsl.rocks/corp/e9a6cae99e308f9c70625e04162b887239bea0d52463d7a3ed53464fdd906d0b/) |

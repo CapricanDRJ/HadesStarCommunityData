@@ -1,15 +1,18 @@
 # SafeSpace
 
 ### Corporation Overview
-**ELO Rating:** 1216.3513382236183
-**Total Matches:** 1
-**Wins:** 1
-**Losses:** 0
-**Draws:** 0
-**Streak:** 1
-**Streak Record:** 0
+
+| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1216.3513382236183 | 1 | 1 | 0 | 0 | 1 | 0 |
 
 ### Recurring Opponents
 
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+
 ### Match History
-2024-02-10  ✅    4-1    [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/)
+
+| Date | Result | Score | Opponent |
+| --- | --- | --- | --- |
+| 2024-02-10 | ✅ | 4-1 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |

@@ -1,19 +1,22 @@
 # 游徒之家
 
 ### Corporation Overview
-**ELO Rating:** 1197.0801705236559
-**Total Matches:** 5
-**Wins:** 2
-**Losses:** 3
-**Draws:** 0
-**Streak:** 2
-**Streak Record:** 2
+
+| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1197.0801705236559 | 5 | 2 | 3 | 0 | 2 | 2 |
 
 ### Recurring Opponents
 
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+
 ### Match History
-2024-07-17  ✅    13-0    [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/)
-2024-07-12  ✅    17-0    [Quin Armarda 2](https://ws.tsl.rocks/corp/529de2f6f4f84d776caefa1e49ce587d581b86c0659533f7fab2eb642b04a928/)
-2024-07-06  ❌    3-14    [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/54b8724d96e9c022ab2907e45bead9f5b45b02fca093dc0fe5827f14644b2663/)
-2024-02-01  ❌    0-11    [Sektion 32](https://ws.tsl.rocks/corp/16e8d18e4c51a9154959f8d3cd2417d11695210bb12baf2773eb12dea2f5966e/)
-2024-01-27  ❌    0-19    [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1/)
+
+| Date | Result | Score | Opponent |
+| --- | --- | --- | --- |
+| 2024-07-17 | ✅ | 13-0 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) |
+| 2024-07-12 | ✅ | 17-0 | [Quin Armarda 2](https://ws.tsl.rocks/corp/529de2f6f4f84d776caefa1e49ce587d581b86c0659533f7fab2eb642b04a928/) |
+| 2024-07-06 | ❌ | 3-14 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/54b8724d96e9c022ab2907e45bead9f5b45b02fca093dc0fe5827f14644b2663/) |
+| 2024-02-01 | ❌ | 0-11 | [Sektion 32](https://ws.tsl.rocks/corp/16e8d18e4c51a9154959f8d3cd2417d11695210bb12baf2773eb12dea2f5966e/) |
+| 2024-01-27 | ❌ | 0-19 | [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1/) |

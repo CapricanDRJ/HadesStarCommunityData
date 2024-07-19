@@ -1,15 +1,18 @@
 # The Base
 
 ### Corporation Overview
-**ELO Rating:** 1182.6167554149306
-**Total Matches:** 1
-**Wins:** 0
-**Losses:** 1
-**Draws:** 0
-**Streak:** 0
-**Streak Record:** 0
+
+| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1182.6167554149306 | 1 | 0 | 1 | 0 | 0 | 0 |
 
 ### Recurring Opponents
 
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+
 ### Match History
-2024-05-14  ❌    0-1    [j g f h me t y ](https://ws.tsl.rocks/corp/47918aa8890d89fb5fc148ee9fdd940dd60ae73de3f7d05ccc54fabed17e1b5f/)
+
+| Date | Result | Score | Opponent |
+| --- | --- | --- | --- |
+| 2024-05-14 | ❌ | 0-1 | [j g f h me t y ](https://ws.tsl.rocks/corp/47918aa8890d89fb5fc148ee9fdd940dd60ae73de3f7d05ccc54fabed17e1b5f/) |

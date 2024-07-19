@@ -1,15 +1,18 @@
 # Неудержимые
 
 ### Corporation Overview
-**ELO Rating:** 1183.633648232849
-**Total Matches:** 1
-**Wins:** 0
-**Losses:** 1
-**Draws:** 0
-**Streak:** 0
-**Streak Record:** 0
+
+| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1183.633648232849 | 1 | 0 | 1 | 0 | 0 | 0 |
 
 ### Recurring Opponents
 
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+
 ### Match History
-2024-06-13  ❌    3-27    [붉은늑대](https://ws.tsl.rocks/corp/43d32b05645aaa9415d1c04ecbcea520d2ed5b90304770cb0ab3813cb86e2f49/)
+
+| Date | Result | Score | Opponent |
+| --- | --- | --- | --- |
+| 2024-06-13 | ❌ | 3-27 | [붉은늑대](https://ws.tsl.rocks/corp/43d32b05645aaa9415d1c04ecbcea520d2ed5b90304770cb0ab3813cb86e2f49/) |

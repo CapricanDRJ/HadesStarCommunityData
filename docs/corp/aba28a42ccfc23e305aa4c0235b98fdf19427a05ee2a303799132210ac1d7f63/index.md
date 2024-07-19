@@ -1,15 +1,18 @@
 # Die Mafia
 
 ### Corporation Overview
-**ELO Rating:** 1199.3119156375387
-**Total Matches:** 1
-**Wins:** 0
-**Losses:** 0
-**Draws:** 1
-**Streak:** 0
-**Streak Record:** 0
+
+| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1199.3119156375387 | 1 | 0 | 0 | 1 | 0 | 0 |
 
 ### Recurring Opponents
 
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+
 ### Match History
-2024-02-26  ↔️    0-0    [Cowboys](https://ws.tsl.rocks/corp/f461f65e85a43e0b855a525f6995505fc1cc5ae6f85be50470c9dacbb955fc21/)
+
+| Date | Result | Score | Opponent |
+| --- | --- | --- | --- |
+| 2024-02-26 | ↔️ | 0-0 | [Cowboys](https://ws.tsl.rocks/corp/f461f65e85a43e0b855a525f6995505fc1cc5ae6f85be50470c9dacbb955fc21/) |

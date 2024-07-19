@@ -1,19 +1,22 @@
 # Elite2.0
 
 ### Corporation Overview
-**ELO Rating:** 1168.0108981013354
-**Total Matches:** 5
-**Wins:** 1
-**Losses:** 3
-**Draws:** 1
-**Streak:** 0
-**Streak Record:** 1
+
+| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1168.0108981013354 | 5 | 1 | 3 | 1 | 0 | 1 |
 
 ### Recurring Opponents
 
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+
 ### Match History
-2023-12-30  ❌    0-17    [하데스 스타 코리아](https://ws.tsl.rocks/corp/36ae3ca01b555bd695500062530b53a2b19cc9d4bab087051ea8775124723e94/)
-2023-12-23  ❌    6-8    [ShadowSpaceCult](https://ws.tsl.rocks/corp/2a0dfd09353bfa78a5958fa753f7a17a2e76ea4fcb92a2c6a860eae24cde03d6/)
-2023-12-19  ✅    2-0    [苏维埃联邦](https://ws.tsl.rocks/corp/4b067d39aa68bf846ec24a1af1a1038844cfa78699d1190f74a77b1745e148ac/)
-2023-12-16  ❌    4-13    [●Black•Sails●](https://ws.tsl.rocks/corp/fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31/)
-2023-12-11  ↔️    4-4    [P!RAT£ SHIP](https://ws.tsl.rocks/corp/edee949826201f74f57f45c101789757954710e3d075602dfdda7765a69a7e7c/)
+
+| Date | Result | Score | Opponent |
+| --- | --- | --- | --- |
+| 2023-12-30 | ❌ | 0-17 | [하데스 스타 코리아](https://ws.tsl.rocks/corp/36ae3ca01b555bd695500062530b53a2b19cc9d4bab087051ea8775124723e94/) |
+| 2023-12-23 | ❌ | 6-8 | [ShadowSpaceCult](https://ws.tsl.rocks/corp/2a0dfd09353bfa78a5958fa753f7a17a2e76ea4fcb92a2c6a860eae24cde03d6/) |
+| 2023-12-19 | ✅ | 2-0 | [苏维埃联邦](https://ws.tsl.rocks/corp/4b067d39aa68bf846ec24a1af1a1038844cfa78699d1190f74a77b1745e148ac/) |
+| 2023-12-16 | ❌ | 4-13 | [●Black•Sails●](https://ws.tsl.rocks/corp/fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31/) |
+| 2023-12-11 | ↔️ | 4-4 | [P!RAT£ SHIP](https://ws.tsl.rocks/corp/edee949826201f74f57f45c101789757954710e3d075602dfdda7765a69a7e7c/) |

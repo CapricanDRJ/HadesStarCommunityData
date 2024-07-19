@@ -1,15 +1,18 @@
 # La NoChE NeGrA
 
 ### Corporation Overview
-**ELO Rating:** 1197.2178477943223
-**Total Matches:** 1
-**Wins:** 0
-**Losses:** 0
-**Draws:** 1
-**Streak:** 0
-**Streak Record:** 0
+
+| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1197.2178477943223 | 1 | 0 | 0 | 1 | 0 | 0 |
 
 ### Recurring Opponents
 
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+
 ### Match History
-2024-06-21  ↔️    0-0    [Weyland Yutani ](https://ws.tsl.rocks/corp/9799c33a0ecdcf321ad446a18f4e7f520610d26ec5f13e0c6b7a411dec2e2e46/)
+
+| Date | Result | Score | Opponent |
+| --- | --- | --- | --- |
+| 2024-06-21 | ↔️ | 0-0 | [Weyland Yutani ](https://ws.tsl.rocks/corp/9799c33a0ecdcf321ad446a18f4e7f520610d26ec5f13e0c6b7a411dec2e2e46/) |

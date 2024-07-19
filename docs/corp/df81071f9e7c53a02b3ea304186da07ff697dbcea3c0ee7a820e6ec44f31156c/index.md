@@ -1,16 +1,19 @@
 # L’Amalgame
 
 ### Corporation Overview
-**ELO Rating:** 1183.5032111119278
-**Total Matches:** 2
-**Wins:** 0
-**Losses:** 1
-**Draws:** 1
-**Streak:** 0
-**Streak Record:** 0
+
+| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1183.5032111119278 | 2 | 0 | 1 | 1 | 0 | 0 |
 
 ### Recurring Opponents
 
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+
 ### Match History
-2024-06-18  ↔️    0-0    [四季长春](https://ws.tsl.rocks/corp/cf0b11914dc18d8e669592ecfe191f115c4e5fdba09d130d260bb625b36a3179/)
-2023-11-07  ❌    0-12    [AwA](https://ws.tsl.rocks/corp/9e1ba6b6db84b30e4d5cc2ff2933e0472d2e943670f25b712564f1cc01a63feb/)
+
+| Date | Result | Score | Opponent |
+| --- | --- | --- | --- |
+| 2024-06-18 | ↔️ | 0-0 | [四季长春](https://ws.tsl.rocks/corp/cf0b11914dc18d8e669592ecfe191f115c4e5fdba09d130d260bb625b36a3179/) |
+| 2023-11-07 | ❌ | 0-12 | [AwA](https://ws.tsl.rocks/corp/9e1ba6b6db84b30e4d5cc2ff2933e0472d2e943670f25b712564f1cc01a63feb/) |
