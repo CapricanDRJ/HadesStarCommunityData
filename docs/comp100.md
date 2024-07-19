@@ -52,37 +52,37 @@ permalink: /comp100/
 | 44 | ✡天启✡ | 1457 |
 | 45 | Hexacropians | 1456 |
 | 46 | IMPERIAL ARMADA | 1452 |
-| 47 | 墨痕空域 | 1449 |
-| 48 | Nearland Ind | 1444 |
-| 49 | Valhalla Rising | 1441 |
-| 50 | 9-Й СКОРПИОН | 1440 |
-| 51 | Space Penguins | 1439 |
-| 52 | ANDROMEDA INC.  | 1439 |
-| 53 | Omega Alpha | 1438 |
-| 54 | Axiom | 1436 |
-| 55 | Повстанцы Хаоса | 1432 |
-| 56 | Gemini Ind. | 1432 |
-| 57 | Atlas Star llc. | 1431 |
+| 47 | Nearland Ind | 1444 |
+| 48 | Valhalla Rising | 1441 |
+| 49 | 9-Й СКОРПИОН | 1440 |
+| 50 | Space Penguins | 1439 |
+| 51 | ANDROMEDA INC.  | 1439 |
+| 52 | Omega Alpha | 1438 |
+| 53 | Axiom | 1436 |
+| 54 | Повстанцы Хаоса | 1432 |
+| 55 | Gemini Ind. | 1432 |
+| 56 | Atlas Star llc. | 1431 |
+| 57 | 墨痕空域 | 1430 |
 | 58 | Outland Ind. | 1430 |
 | 59 | Grunthal Gang | 1428 |
 | 60 | StarControl | 1428 |
 | 61 | pirates spatial | 1426 |
 | 62 | Spacefleet | 1425 |
 | 63 | リリース | 1423 |
-| 64 | Спутник | 1422 |
-| 65 | Spica​ | 1420 |
-| 66 | White Dwarf | 1420 |
-| 67 | TeddisaurusWrex | 1418 |
-| 68 | First Legion | 1417 |
-| 69 | 第一序列 | 1415 |
-| 70 | BRASIL STAR | 1412 |
-| 71 | Embers Rising | 1411 |
-| 72 | Warriorlords | 1411 |
-| 73 | 第四星际 | 1410 |
-| 74 | Cyber Star | 1410 |
-| 75 | 对，进就进人少的 | 1408 |
-| 76 | Kratos | 1407 |
-| 77 | 中国星际联盟 | 1405 |
+| 64 | 中国星际联盟 | 1423 |
+| 65 | Спутник | 1422 |
+| 66 | Spica​ | 1420 |
+| 67 | White Dwarf | 1420 |
+| 68 | TeddisaurusWrex | 1418 |
+| 69 | First Legion | 1417 |
+| 70 | 第一序列 | 1415 |
+| 71 | BRASIL STAR | 1412 |
+| 72 | Embers Rising | 1411 |
+| 73 | Warriorlords | 1411 |
+| 74 | 第四星际 | 1410 |
+| 75 | Cyber Star | 1410 |
+| 76 | 对，进就进人少的 | 1408 |
+| 77 | Kratos | 1407 |
 | 78 | 101 | 1402 |
 | 79 | Elysium | 1400 |
 | 80 | Corvus Ind. | 1399 |
