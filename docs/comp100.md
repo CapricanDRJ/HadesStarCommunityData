@@ -36,9 +36,9 @@ permalink: /comp100/
 | 28 | Stargate Corp | 1479 |
 | 29 | Ark | 1478 |
 | 30 | Emergence | 1477 |
-| 31 | Order of Hades | 1475 |
-| 32 | 共产星际 | 1474 |
-| 33 |  RELAX CZ/SK | 1473 |
+| 31 |  RELAX CZ/SK | 1475 |
+| 32 | Order of Hades | 1475 |
+| 33 | 共产星际 | 1474 |
 | 34 | Tuatha De Danan | 1473 |
 | 35 | Lacuna X | 1472 |
 | 36 | CIS | 1471 |
@@ -61,31 +61,31 @@ permalink: /comp100/
 | 53 | ANDROMEDA INC.  | 1439 |
 | 54 | Omega Alpha | 1438 |
 | 55 | Axiom | 1436 |
-| 56 | Повстанцы Хаоса | 1432 |
-| 57 | Gemini Ind. | 1432 |
+| 56 | Gemini Ind. | 1436 |
+| 57 | Повстанцы Хаоса | 1432 |
 | 58 | Atlas Star llc. | 1431 |
 | 59 | Grunthal Gang | 1428 |
 | 60 | StarControl | 1428 |
-| 61 | Spacefleet | 1425 |
-| 62 | リリース | 1423 |
-| 63 | 中国星际联盟 | 1423 |
-| 64 | Спутник | 1422 |
+| 61 | Спутник | 1426 |
+| 62 | Spacefleet | 1425 |
+| 63 | リリース | 1423 |
+| 64 | 中国星际联盟 | 1423 |
 | 65 | Spica​ | 1420 |
-| 66 | White Dwarf | 1420 |
-| 67 | TeddisaurusWrex | 1418 |
-| 68 | First Legion | 1417 |
-| 69 | 第一序列 | 1415 |
-| 70 | BRASIL STAR | 1412 |
-| 71 | Embers Rising | 1411 |
-| 72 | Warriorlords | 1411 |
-| 73 | 第四星际 | 1410 |
-| 74 | Cyber Star | 1410 |
-| 75 | 对，进就进人少的 | 1408 |
-| 76 | Kratos | 1407 |
-| 77 | pirates spatial | 1406 |
+| 66 | TeddisaurusWrex | 1418 |
+| 67 | First Legion | 1417 |
+| 68 | 第一序列 | 1415 |
+| 69 | BRASIL STAR | 1412 |
+| 70 | Embers Rising | 1411 |
+| 71 | Warriorlords | 1411 |
+| 72 | 第四星际 | 1410 |
+| 73 | Cyber Star | 1410 |
+| 74 | 对，进就进人少的 | 1408 |
+| 75 | Kratos | 1407 |
+| 76 | pirates spatial | 1406 |
+| 77 | Corvus Ind. | 1404 |
 | 78 | 101 | 1402 |
 | 79 | Elysium | 1400 |
-| 80 | Corvus Ind. | 1399 |
+| 80 | White Dwarf | 1399 |
 | 81 | Zvezdec | 1399 |
 | 82 | Black Star llc. | 1399 |
 | 83 | 元素联邦 | 1396 |
