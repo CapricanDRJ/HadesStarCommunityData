@@ -48,9 +48,9 @@ permalink: /comp100/
 | 40 | Emergence | 1462 |
 | 41 | Серебряная орда | 1462 |
 | 42 | Mercury Sunset | 1459 |
-| 43 | ✡天启✡ | 1457 |
-| 44 | Hexacropians | 1456 |
-| 45 | three kitties | 1454 |
+| 43 | three kitties | 1457 |
+| 44 | ✡天启✡ | 1457 |
+| 45 | Hexacropians | 1456 |
 | 46 | IMPERIAL ARMADA | 1452 |
 | 47 | 墨痕空域 | 1449 |
 | 48 | Nearland Ind | 1444 |
