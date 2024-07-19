@@ -39,11 +39,11 @@ permalink: /comp100/
 | 31 | 共产星际 | 1474 |
 | 32 |  RELAX CZ/SK | 1473 |
 | 33 | Tuatha De Danan | 1473 |
-| 34 | CIS | 1471 |
-| 35 | Октябристы | 1469 |
-| 36 | Неизбежный Рок | 1468 |
-| 37 | Лунный Феникс | 1468 |
-| 38 | Lacuna X | 1463 |
+| 34 | Lacuna X | 1472 |
+| 35 | CIS | 1471 |
+| 36 | Октябристы | 1469 |
+| 37 | Неизбежный Рок | 1468 |
+| 38 | Лунный Феникс | 1468 |
 | 39 | Emergence | 1462 |
 | 40 | Серебряная орда | 1462 |
 | 41 | русь  | 1461 |
@@ -55,15 +55,15 @@ permalink: /comp100/
 | 47 | IMPERIAL ARMADA | 1452 |
 | 48 | Nearland Ind | 1444 |
 | 49 | Valhalla Rising | 1441 |
-| 50 | 9-Й СКОРПИОН | 1440 |
-| 51 | Space Penguins | 1439 |
-| 52 | ANDROMEDA INC.  | 1439 |
-| 53 | Omega Alpha | 1438 |
-| 54 | Axiom | 1436 |
-| 55 | Повстанцы Хаоса | 1432 |
-| 56 | Gemini Ind. | 1432 |
-| 57 | Atlas Star llc. | 1431 |
-| 58 | Outland Ind. | 1430 |
+| 50 | Outland Ind. | 1440 |
+| 51 | 9-Й СКОРПИОН | 1440 |
+| 52 | Space Penguins | 1439 |
+| 53 | ANDROMEDA INC.  | 1439 |
+| 54 | Omega Alpha | 1438 |
+| 55 | Axiom | 1436 |
+| 56 | Повстанцы Хаоса | 1432 |
+| 57 | Gemini Ind. | 1432 |
+| 58 | Atlas Star llc. | 1431 |
 | 59 | Grunthal Gang | 1428 |
 | 60 | StarControl | 1428 |
 | 61 | pirates spatial | 1426 |
@@ -89,20 +89,20 @@ permalink: /comp100/
 | 81 | Zvezdec | 1399 |
 | 82 | Black Star llc. | 1399 |
 | 83 | 元素联邦 | 1396 |
-| 84 | AFronteiraFinal | 1394 |
-| 85 | Z. O. V.  | 1392 |
-| 86 | Stellar Exports | 1390 |
-| 87 | DarkMoon | 1389 |
-| 88 | Starsailors | 1388 |
-| 89 | DarkSide | 1388 |
-| 90 | Decode | 1387 |
-| 91 | Star Destroyers | 1385 |
-| 92 | Dacia Chill | 1384 |
-| 93 | Bunker | 1382 |
-| 94 | 한국인 | 1382 |
-| 95 | Bloodtide | 1381 |
-| 96 | Providence | 1381 |
-| 97 | BrinySeal | 1380 |
-| 98 | Альянс | 1380 |
-| 99 | Red Dawn | 1379 |
+| 84 | Red Dawn | 1394 |
+| 85 | AFronteiraFinal | 1394 |
+| 86 | Z. O. V.  | 1392 |
+| 87 | Stellar Exports | 1390 |
+| 88 | DarkMoon | 1389 |
+| 89 | Starsailors | 1388 |
+| 90 | DarkSide | 1388 |
+| 91 | Decode | 1387 |
+| 92 | Star Destroyers | 1385 |
+| 93 | Dacia Chill | 1384 |
+| 94 | Bunker | 1382 |
+| 95 | 한국인 | 1382 |
+| 96 | Bloodtide | 1381 |
+| 97 | Providence | 1381 |
+| 98 | BrinySeal | 1380 |
+| 99 | Альянс | 1380 |
 | 100 | OPA | 1375 |
