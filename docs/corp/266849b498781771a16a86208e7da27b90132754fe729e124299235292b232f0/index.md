@@ -4,7 +4,7 @@
 
 | ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1185.0203063583754 | 1 | 0 | 1 | 0 | 0 | 0 |
+| 1185 | 1 | 0 | 1 | 0 | 0 | 0 |
 
 ### Recurring Opponents
 
@@ -13,6 +13,6 @@
 
 ### Match History
 
-| Date | Result | Score | Opponent |
+|  | Date | Score | Opponent |
 | --- | --- | --- | --- |
-| 2024-01-16 | ❌ | 1-13 | [The Elite](https://ws.tsl.rocks/corp/a2df28ce949920025afb16d0229e0c14aed7832c217d142307a62622634d395c/) |
+| ❌ | 2024-01-16 | 1-13 | [The Elite](https://ws.tsl.rocks/corp/a2df28ce949920025afb16d0229e0c14aed7832c217d142307a62622634d395c/) |

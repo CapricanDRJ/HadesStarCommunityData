@@ -4,7 +4,7 @@
 
 | ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1168.402547202305 | 2 | 0 | 2 | 0 | 0 | 0 |
+| 1168 | 2 | 0 | 2 | 0 | 0 | 0 |
 
 ### Recurring Opponents
 
@@ -13,7 +13,7 @@
 
 ### Match History
 
-| Date | Result | Score | Opponent |
+|  | Date | Score | Opponent |
 | --- | --- | --- | --- |
-| 2024-04-12 | ❌ | 0-11 | [Shrimp City](https://ws.tsl.rocks/corp/eae9b3a1f9dd6b4a1fb39d6aedfe84a80662abe6b181bedcfd7ec15d931b8e84/) |
-| 2024-03-25 | ❌ | 1-5 | [Anarchy Nation ](https://ws.tsl.rocks/corp/9c456dbf32e22070620021bf0bea4d2ab9deb0ac7ad4be06a4067a9ced5f2f5b/) |
+| ❌ | 2024-04-12 | 0-11 | [Shrimp City](https://ws.tsl.rocks/corp/eae9b3a1f9dd6b4a1fb39d6aedfe84a80662abe6b181bedcfd7ec15d931b8e84/) |
+| ❌ | 2024-03-25 | 1-5 | [Anarchy Nation ](https://ws.tsl.rocks/corp/9c456dbf32e22070620021bf0bea4d2ab9deb0ac7ad4be06a4067a9ced5f2f5b/) |

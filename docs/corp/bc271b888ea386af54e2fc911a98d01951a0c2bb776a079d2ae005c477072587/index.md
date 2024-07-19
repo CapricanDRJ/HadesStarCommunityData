@@ -13,6 +13,6 @@
 
 ### Match History
 
-| Date | Result | Score | Opponent |
+|  | Date | Score | Opponent |
 | --- | --- | --- | --- |
-| 2023-11-09 | ❌ | 0-3 | [t 72 SwiftKey F](https://ws.tsl.rocks/corp/317c4e8eee128258999e74199d05d070892a652c3a65b84b26010f50ee0f8e22/) |
+| ❌ | 2023-11-09 | 0-3 | [t 72 SwiftKey F](https://ws.tsl.rocks/corp/317c4e8eee128258999e74199d05d070892a652c3a65b84b26010f50ee0f8e22/) |

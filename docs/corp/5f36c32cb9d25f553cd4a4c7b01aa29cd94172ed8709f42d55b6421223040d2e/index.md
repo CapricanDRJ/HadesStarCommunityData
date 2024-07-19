@@ -4,7 +4,7 @@
 
 | ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1216.3513382236183 | 1 | 1 | 0 | 0 | 1 | 0 |
+| 1216 | 1 | 1 | 0 | 0 | 1 | 0 |
 
 ### Recurring Opponents
 
@@ -13,6 +13,6 @@
 
 ### Match History
 
-| Date | Result | Score | Opponent |
+|  | Date | Score | Opponent |
 | --- | --- | --- | --- |
-| 2024-02-10 | ✅ | 4-1 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
+| ✅ | 2024-02-10 | 4-1 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |

@@ -4,7 +4,7 @@
 
 | ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1185.5938163975052 | 1 | 0 | 1 | 0 | 0 | 0 |
+| 1186 | 1 | 0 | 1 | 0 | 0 | 0 |
 
 ### Recurring Opponents
 
@@ -13,6 +13,6 @@
 
 ### Match History
 
-| Date | Result | Score | Opponent |
+|  | Date | Score | Opponent |
 | --- | --- | --- | --- |
-| 2023-11-29 | ❌ | 0-36 | [Nova Time](https://ws.tsl.rocks/corp/0f1c182652387799cfc3a59082f52a2b01201b13336d84760eab107fb1934ce0/) |
+| ❌ | 2023-11-29 | 0-36 | [Nova Time](https://ws.tsl.rocks/corp/0f1c182652387799cfc3a59082f52a2b01201b13336d84760eab107fb1934ce0/) |
