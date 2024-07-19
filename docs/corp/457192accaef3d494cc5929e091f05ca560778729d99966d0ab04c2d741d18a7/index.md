@@ -1,4 +1,7 @@
-# Эдельвейс
+---
+layout: page
+title: Эдельвейс
+---
 
 | Statistic | Value |
 | --- | --- |

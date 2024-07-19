@@ -1,4 +1,7 @@
-# Дом Датэ
+---
+layout: page
+title: Дом Датэ
+---
 
 | Statistic | Value |
 | --- | --- |

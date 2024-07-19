@@ -1,4 +1,7 @@
-# Тихий Омут
+---
+layout: page
+title: Тихий Омут
+---
 
 | Statistic | Value |
 | --- | --- |

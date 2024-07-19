@@ -1,4 +1,7 @@
-# Das Imperium
+---
+layout: page
+title: Das Imperium
+---
 
 | Statistic | Value |
 | --- | --- |

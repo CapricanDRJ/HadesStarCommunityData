@@ -1,4 +1,7 @@
-# O.P.S
+---
+layout: page
+title: O.P.S
+---
 
 | Statistic | Value |
 | --- | --- |

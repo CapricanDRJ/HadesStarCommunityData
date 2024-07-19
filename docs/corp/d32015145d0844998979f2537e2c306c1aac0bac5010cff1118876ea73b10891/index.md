@@ -1,4 +1,7 @@
-# Peasants
+---
+layout: page
+title: Peasants
+---
 
 | Statistic | Value |
 | --- | --- |

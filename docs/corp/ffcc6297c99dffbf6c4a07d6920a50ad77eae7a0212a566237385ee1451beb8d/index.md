@@ -1,4 +1,7 @@
-# Gardiens détoil
+---
+layout: page
+title: Gardiens détoil
+---
 
 | Statistic | Value |
 | --- | --- |

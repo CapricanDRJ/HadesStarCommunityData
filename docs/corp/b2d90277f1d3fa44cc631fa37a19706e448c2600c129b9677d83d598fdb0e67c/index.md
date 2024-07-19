@@ -1,4 +1,7 @@
-# Colonial Union
+---
+layout: page
+title: Colonial Union
+---
 
 | Statistic | Value |
 | --- | --- |

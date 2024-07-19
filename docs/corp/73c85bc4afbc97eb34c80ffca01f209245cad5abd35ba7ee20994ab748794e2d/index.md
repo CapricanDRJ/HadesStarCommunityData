@@ -1,4 +1,7 @@
-# 666
+---
+layout: page
+title: 666
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# @ncient £ibrary
+---
+layout: page
+title: @ncient £ibrary
+---
 
 | Statistic | Value |
 | --- | --- |

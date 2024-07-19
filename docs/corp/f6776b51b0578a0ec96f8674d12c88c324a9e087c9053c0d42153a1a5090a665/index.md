@@ -1,4 +1,7 @@
-# Гарри Поттер
+---
+layout: page
+title: Гарри Поттер
+---
 
 | Statistic | Value |
 | --- | --- |

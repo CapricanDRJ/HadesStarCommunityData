@@ -1,4 +1,7 @@
-# 羽共和体
+---
+layout: page
+title: 羽共和体
+---
 
 | Statistic | Value |
 | --- | --- |

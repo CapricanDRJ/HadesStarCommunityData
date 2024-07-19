@@ -1,4 +1,7 @@
-# Imperial Navy
+---
+layout: page
+title: Imperial Navy
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# 凛冬重工
+---
+layout: page
+title: 凛冬重工
+---
 
 | Statistic | Value |
 | --- | --- |

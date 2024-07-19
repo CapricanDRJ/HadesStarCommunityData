@@ -1,4 +1,7 @@
-# Intercepter Inc
+---
+layout: page
+title: Intercepter Inc
+---
 
 | Statistic | Value |
 | --- | --- |

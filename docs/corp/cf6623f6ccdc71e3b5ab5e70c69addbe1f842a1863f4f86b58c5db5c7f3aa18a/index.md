@@ -1,4 +1,7 @@
-# G.O.D
+---
+layout: page
+title: G.O.D
+---
 
 | Statistic | Value |
 | --- | --- |

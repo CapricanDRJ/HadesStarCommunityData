@@ -1,4 +1,7 @@
-# Sector7
+---
+layout: page
+title: Sector7
+---
 
 | Statistic | Value |
 | --- | --- |

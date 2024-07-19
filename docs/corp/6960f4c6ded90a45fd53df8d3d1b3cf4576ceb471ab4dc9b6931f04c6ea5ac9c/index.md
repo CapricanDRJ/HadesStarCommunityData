@@ -1,4 +1,7 @@
-# 代代守护你的神明
+---
+layout: page
+title: 代代守护你的神明
+---
 
 | Statistic | Value |
 | --- | --- |

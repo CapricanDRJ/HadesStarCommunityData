@@ -1,4 +1,7 @@
-# 萌新收留所（目标门集团）
+---
+layout: page
+title: 萌新收留所（目标门集团）
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# C'est pas faux!
+---
+layout: page
+title: C'est pas faux!
+---
 
 | Statistic | Value |
 | --- | --- |

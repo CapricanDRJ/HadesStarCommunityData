@@ -1,4 +1,7 @@
-# SILVER TERRA
+---
+layout: page
+title: SILVER TERRA
+---
 
 | Statistic | Value |
 | --- | --- |

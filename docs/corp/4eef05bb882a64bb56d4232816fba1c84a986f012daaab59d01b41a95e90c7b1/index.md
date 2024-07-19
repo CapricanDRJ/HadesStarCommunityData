@@ -1,4 +1,7 @@
-# Shadow Council
+---
+layout: page
+title: Shadow Council
+---
 
 | Statistic | Value |
 | --- | --- |

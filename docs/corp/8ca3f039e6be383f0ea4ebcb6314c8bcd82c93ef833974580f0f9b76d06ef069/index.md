@@ -1,4 +1,7 @@
-# KINETIC
+---
+layout: page
+title: KINETIC
+---
 
 | Statistic | Value |
 | --- | --- |

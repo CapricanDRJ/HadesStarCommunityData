@@ -1,4 +1,7 @@
-# Two kitties
+---
+layout: page
+title: Two kitties
+---
 
 | Statistic | Value |
 | --- | --- |

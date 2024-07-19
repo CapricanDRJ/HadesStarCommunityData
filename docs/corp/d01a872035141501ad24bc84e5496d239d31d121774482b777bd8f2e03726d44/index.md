@@ -1,4 +1,7 @@
-# Crimson Dawn
+---
+layout: page
+title: Crimson Dawn
+---
 
 | Statistic | Value |
 | --- | --- |

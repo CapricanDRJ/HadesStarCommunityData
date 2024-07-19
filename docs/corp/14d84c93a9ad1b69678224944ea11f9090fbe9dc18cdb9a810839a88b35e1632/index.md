@@ -1,4 +1,7 @@
-# La orden real
+---
+layout: page
+title: La orden real
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Russian Style
+---
+layout: page
+title: Russian Style
+---
 
 | Statistic | Value |
 | --- | --- |

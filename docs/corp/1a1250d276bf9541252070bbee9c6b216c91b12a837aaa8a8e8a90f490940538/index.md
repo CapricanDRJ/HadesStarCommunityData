@@ -1,4 +1,7 @@
-# Emergence
+---
+layout: page
+title: Emergence
+---
 
 | Statistic | Value |
 | --- | --- |

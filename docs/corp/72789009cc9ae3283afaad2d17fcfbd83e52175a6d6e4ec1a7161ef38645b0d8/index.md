@@ -1,4 +1,7 @@
-# Red Alliance
+---
+layout: page
+title: Red Alliance
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# cyber_dream
+---
+layout: page
+title: cyber_dream
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Doomsday
+---
+layout: page
+title: Doomsday
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Betelgeuse
+---
+layout: page
+title: Betelgeuse
+---
 
 | Statistic | Value |
 | --- | --- |

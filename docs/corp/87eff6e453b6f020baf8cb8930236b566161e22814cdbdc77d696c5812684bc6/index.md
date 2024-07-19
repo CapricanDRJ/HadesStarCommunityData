@@ -1,4 +1,7 @@
-# Space Pirates
+---
+layout: page
+title: Space Pirates
+---
 
 | Statistic | Value |
 | --- | --- |

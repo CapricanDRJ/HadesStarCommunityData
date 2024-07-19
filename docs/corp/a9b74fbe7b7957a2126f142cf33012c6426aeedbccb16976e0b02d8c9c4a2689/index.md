@@ -1,4 +1,7 @@
-# Heavens
+---
+layout: page
+title: Heavens
+---
 
 | Statistic | Value |
 | --- | --- |

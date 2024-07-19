@@ -1,4 +1,7 @@
-# NERF TOY'S
+---
+layout: page
+title: NERF TOY'S
+---
 
 | Statistic | Value |
 | --- | --- |

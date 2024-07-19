@@ -1,4 +1,7 @@
-# Red Noobs
+---
+layout: page
+title: Red Noobs
+---
 
 | Statistic | Value |
 | --- | --- |

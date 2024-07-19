@@ -1,4 +1,7 @@
-# phoenix clan
+---
+layout: page
+title: phoenix clan
+---
 
 | Statistic | Value |
 | --- | --- |

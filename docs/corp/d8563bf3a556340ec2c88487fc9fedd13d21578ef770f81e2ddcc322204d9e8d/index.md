@@ -1,4 +1,7 @@
-# Dacia
+---
+layout: page
+title: Dacia
+---
 
 | Statistic | Value |
 | --- | --- |

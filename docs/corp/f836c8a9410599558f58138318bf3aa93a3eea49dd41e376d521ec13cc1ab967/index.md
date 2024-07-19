@@ -1,4 +1,7 @@
-# Danish Oil
+---
+layout: page
+title: Danish Oil
+---
 
 | Statistic | Value |
 | --- | --- |

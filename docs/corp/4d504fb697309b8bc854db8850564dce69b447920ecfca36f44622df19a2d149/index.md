@@ -1,4 +1,7 @@
-# SuperStarGamers
+---
+layout: page
+title: SuperStarGamers
+---
 
 | Statistic | Value |
 | --- | --- |

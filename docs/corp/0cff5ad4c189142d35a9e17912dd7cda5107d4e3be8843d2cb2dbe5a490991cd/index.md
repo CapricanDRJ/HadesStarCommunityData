@@ -1,4 +1,7 @@
-# 心之所向
+---
+layout: page
+title: 心之所向
+---
 
 | Statistic | Value |
 | --- | --- |

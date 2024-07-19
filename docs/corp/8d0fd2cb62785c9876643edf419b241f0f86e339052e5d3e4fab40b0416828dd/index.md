@@ -1,4 +1,7 @@
-# Splendid
+---
+layout: page
+title: Splendid
+---
 
 | Statistic | Value |
 | --- | --- |

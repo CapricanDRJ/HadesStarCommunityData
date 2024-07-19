@@ -1,4 +1,7 @@
-# Vermilion
+---
+layout: page
+title: Vermilion
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Imperio Galacti
+---
+layout: page
+title: Imperio Galacti
+---
 
 | Statistic | Value |
 | --- | --- |

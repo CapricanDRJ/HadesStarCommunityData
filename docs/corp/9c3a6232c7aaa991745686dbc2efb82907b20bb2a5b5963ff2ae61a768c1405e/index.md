@@ -1,4 +1,7 @@
-# Death Flight 1.
+---
+layout: page
+title: Death Flight 1.
+---
 
 | Statistic | Value |
 | --- | --- |

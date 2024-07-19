@@ -1,4 +1,7 @@
-# Black Nova
+---
+layout: page
+title: Black Nova
+---
 
 | Statistic | Value |
 | --- | --- |

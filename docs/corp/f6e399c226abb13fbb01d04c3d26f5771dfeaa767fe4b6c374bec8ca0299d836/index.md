@@ -1,4 +1,7 @@
-# Star League
+---
+layout: page
+title: Star League
+---
 
 | Statistic | Value |
 | --- | --- |

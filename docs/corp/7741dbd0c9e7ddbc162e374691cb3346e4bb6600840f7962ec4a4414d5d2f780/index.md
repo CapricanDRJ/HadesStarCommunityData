@@ -1,4 +1,7 @@
-# Tuatha De Danan
+---
+layout: page
+title: Tuatha De Danan
+---
 
 | Statistic | Value |
 | --- | --- |

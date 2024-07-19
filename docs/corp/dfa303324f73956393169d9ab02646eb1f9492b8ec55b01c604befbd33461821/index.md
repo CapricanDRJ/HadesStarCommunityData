@@ -1,4 +1,7 @@
-# 𝖕𝖎𝖗𝖆𝖙𝖊𝖘
+---
+layout: page
+title: 𝖕𝖎𝖗𝖆𝖙𝖊𝖘
+---
 
 | Statistic | Value |
 | --- | --- |

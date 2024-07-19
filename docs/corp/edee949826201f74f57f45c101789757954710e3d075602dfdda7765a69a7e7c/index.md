@@ -1,4 +1,7 @@
-# P!RAT£ SHIP
+---
+layout: page
+title: P!RAT£ SHIP
+---
 
 | Statistic | Value |
 | --- | --- |

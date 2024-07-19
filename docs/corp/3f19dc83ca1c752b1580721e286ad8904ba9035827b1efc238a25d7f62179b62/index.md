@@ -1,4 +1,7 @@
-# CORE INFLICTION
+---
+layout: page
+title: CORE INFLICTION
+---
 
 | Statistic | Value |
 | --- | --- |

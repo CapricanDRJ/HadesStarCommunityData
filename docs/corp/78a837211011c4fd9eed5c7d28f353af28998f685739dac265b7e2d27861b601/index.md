@@ -1,4 +1,7 @@
-# Kiith Trollani
+---
+layout: page
+title: Kiith Trollani
+---
 
 | Statistic | Value |
 | --- | --- |

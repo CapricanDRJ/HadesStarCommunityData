@@ -1,4 +1,7 @@
-# Octoberpierynm
+---
+layout: page
+title: Octoberpierynm
+---
 
 | Statistic | Value |
 | --- | --- |

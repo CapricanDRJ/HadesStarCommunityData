@@ -1,4 +1,7 @@
-# Imperium of man
+---
+layout: page
+title: Imperium of man
+---
 
 | Statistic | Value |
 | --- | --- |

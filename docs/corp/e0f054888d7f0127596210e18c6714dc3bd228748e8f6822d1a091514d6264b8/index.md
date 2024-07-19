@@ -1,4 +1,7 @@
-# 蓝色星系一号分盟
+---
+layout: page
+title: 蓝色星系一号分盟
+---
 
 | Statistic | Value |
 | --- | --- |

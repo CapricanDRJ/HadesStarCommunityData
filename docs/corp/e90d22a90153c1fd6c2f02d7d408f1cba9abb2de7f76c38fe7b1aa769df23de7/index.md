@@ -1,4 +1,7 @@
-# Killer Shadow
+---
+layout: page
+title: Killer Shadow
+---
 
 | Statistic | Value |
 | --- | --- |

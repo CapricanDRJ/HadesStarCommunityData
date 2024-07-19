@@ -1,4 +1,7 @@
-# Snack Empire
+---
+layout: page
+title: Snack Empire
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Killer Bees.
+---
+layout: page
+title: Killer Bees.
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Team Elite
+---
+layout: page
+title: Team Elite
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Survivors
+---
+layout: page
+title: Survivors
+---
 
 | Statistic | Value |
 | --- | --- |

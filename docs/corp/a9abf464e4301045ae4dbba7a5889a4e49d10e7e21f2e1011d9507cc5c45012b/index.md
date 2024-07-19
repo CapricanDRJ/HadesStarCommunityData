@@ -1,4 +1,7 @@
-# Proteus Tech
+---
+layout: page
+title: Proteus Tech
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Galaxians
+---
+layout: page
+title: Galaxians
+---
 
 | Statistic | Value |
 | --- | --- |

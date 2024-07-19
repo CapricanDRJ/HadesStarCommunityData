@@ -1,4 +1,7 @@
-# OrderofTheGeon
+---
+layout: page
+title: OrderofTheGeon
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Krasse Bros
+---
+layout: page
+title: Krasse Bros
+---
 
 | Statistic | Value |
 | --- | --- |

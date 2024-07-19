@@ -1,4 +1,7 @@
-# Mega Corp
+---
+layout: page
+title: Mega Corp
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Stars
+---
+layout: page
+title: Stars
+---
 
 | Statistic | Value |
 | --- | --- |

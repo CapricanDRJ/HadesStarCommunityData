@@ -1,4 +1,7 @@
-# Todesschwadron
+---
+layout: page
+title: Todesschwadron
+---
 
 | Statistic | Value |
 | --- | --- |

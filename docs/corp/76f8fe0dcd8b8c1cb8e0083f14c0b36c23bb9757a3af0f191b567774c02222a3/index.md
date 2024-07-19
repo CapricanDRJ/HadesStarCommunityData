@@ -1,4 +1,7 @@
-# Bl@ck/Galaxy 
+---
+layout: page
+title: Bl@ck/Galaxy 
+---
 
 | Statistic | Value |
 | --- | --- |

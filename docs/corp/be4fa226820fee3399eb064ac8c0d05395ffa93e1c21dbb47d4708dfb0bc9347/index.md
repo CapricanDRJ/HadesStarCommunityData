@@ -1,4 +1,7 @@
-# Рейнджеры
+---
+layout: page
+title: Рейнджеры
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Divinity's End
+---
+layout: page
+title: Divinity's End
+---
 
 | Statistic | Value |
 | --- | --- |

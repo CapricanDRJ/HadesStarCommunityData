@@ -1,4 +1,7 @@
-# loveboat
+---
+layout: page
+title: loveboat
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# 星光禁卫
+---
+layout: page
+title: 星光禁卫
+---
 
 | Statistic | Value |
 | --- | --- |

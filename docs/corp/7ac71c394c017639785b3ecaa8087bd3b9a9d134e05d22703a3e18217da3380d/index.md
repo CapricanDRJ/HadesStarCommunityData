@@ -1,4 +1,7 @@
-# Peace Keepers
+---
+layout: page
+title: Peace Keepers
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# DTC
+---
+layout: page
+title: DTC
+---
 
 | Statistic | Value |
 | --- | --- |

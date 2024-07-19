@@ -1,4 +1,7 @@
-# Rocket-Babies
+---
+layout: page
+title: Rocket-Babies
+---
 
 | Statistic | Value |
 | --- | --- |

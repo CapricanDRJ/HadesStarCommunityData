@@ -1,4 +1,7 @@
-# U.I.H
+---
+layout: page
+title: U.I.H
+---
 
 | Statistic | Value |
 | --- | --- |

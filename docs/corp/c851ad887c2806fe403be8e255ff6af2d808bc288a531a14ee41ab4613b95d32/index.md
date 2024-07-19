@@ -1,4 +1,7 @@
-#  brazil com.
+---
+layout: page
+title:  brazil com.
+---
 
 | Statistic | Value |
 | --- | --- |

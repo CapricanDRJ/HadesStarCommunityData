@@ -1,4 +1,7 @@
-# КМБ
+---
+layout: page
+title: КМБ
+---
 
 | Statistic | Value |
 | --- | --- |

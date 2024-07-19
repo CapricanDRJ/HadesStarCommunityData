@@ -1,4 +1,7 @@
-# The Goonies
+---
+layout: page
+title: The Goonies
+---
 
 | Statistic | Value |
 | --- | --- |

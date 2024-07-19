@@ -1,4 +1,7 @@
-# 边缘世界
+---
+layout: page
+title: 边缘世界
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# 우주미아
+---
+layout: page
+title: 우주미아
+---
 
 | Statistic | Value |
 | --- | --- |

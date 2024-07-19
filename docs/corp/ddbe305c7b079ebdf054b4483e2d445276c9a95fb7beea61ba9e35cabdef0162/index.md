@@ -1,4 +1,7 @@
-# RUSSIAN TEAM
+---
+layout: page
+title: RUSSIAN TEAM
+---
 
 | Statistic | Value |
 | --- | --- |

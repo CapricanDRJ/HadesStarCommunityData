@@ -1,4 +1,7 @@
-# Спутник
+---
+layout: page
+title: Спутник
+---
 
 | Statistic | Value |
 | --- | --- |

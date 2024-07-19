@@ -1,4 +1,7 @@
-# BRhue
+---
+layout: page
+title: BRhue
+---
 
 | Statistic | Value |
 | --- | --- |

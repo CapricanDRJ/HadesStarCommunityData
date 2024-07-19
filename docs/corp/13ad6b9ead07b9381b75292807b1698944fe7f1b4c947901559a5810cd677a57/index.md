@@ -1,4 +1,7 @@
-# R.S.F.
+---
+layout: page
+title: R.S.F.
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Schnuppenfarm
+---
+layout: page
+title: Schnuppenfarm
+---
 
 | Statistic | Value |
 | --- | --- |

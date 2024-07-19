@@ -1,4 +1,7 @@
-# EZCO
+---
+layout: page
+title: EZCO
+---
 
 | Statistic | Value |
 | --- | --- |

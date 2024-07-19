@@ -1,4 +1,7 @@
-# 星河绮梦
+---
+layout: page
+title: 星河绮梦
+---
 
 | Statistic | Value |
 | --- | --- |

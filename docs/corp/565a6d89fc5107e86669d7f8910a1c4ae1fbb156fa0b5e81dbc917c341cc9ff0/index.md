@@ -1,4 +1,7 @@
-# 落雨观花
+---
+layout: page
+title: 落雨观花
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# E.T.A 二营
+---
+layout: page
+title: E.T.A 二营
+---
 
 | Statistic | Value |
 | --- | --- |

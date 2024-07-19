@@ -1,4 +1,7 @@
-# ZZZ-V
+---
+layout: page
+title: ZZZ-V
+---
 
 | Statistic | Value |
 | --- | --- |

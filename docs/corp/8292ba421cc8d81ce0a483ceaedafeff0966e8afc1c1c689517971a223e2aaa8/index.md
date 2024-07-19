@@ -1,4 +1,7 @@
-# Сибиряки
+---
+layout: page
+title: Сибиряки
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Zeon
+---
+layout: page
+title: Zeon
+---
 
 | Statistic | Value |
 | --- | --- |

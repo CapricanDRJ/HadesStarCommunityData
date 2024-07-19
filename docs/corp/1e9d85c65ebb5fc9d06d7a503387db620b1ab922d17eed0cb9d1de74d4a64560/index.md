@@ -1,4 +1,7 @@
-# КУСАКА
+---
+layout: page
+title: КУСАКА
+---
 
 | Statistic | Value |
 | --- | --- |

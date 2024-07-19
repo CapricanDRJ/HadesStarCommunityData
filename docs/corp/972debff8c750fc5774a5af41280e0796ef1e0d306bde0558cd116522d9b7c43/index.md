@@ -1,4 +1,7 @@
-# You Win
+---
+layout: page
+title: You Win
+---
 
 | Statistic | Value |
 | --- | --- |

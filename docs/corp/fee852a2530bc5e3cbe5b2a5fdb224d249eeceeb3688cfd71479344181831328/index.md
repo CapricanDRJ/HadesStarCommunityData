@@ -1,4 +1,7 @@
-# Red Dawn
+---
+layout: page
+title: Red Dawn
+---
 
 | Statistic | Value |
 | --- | --- |

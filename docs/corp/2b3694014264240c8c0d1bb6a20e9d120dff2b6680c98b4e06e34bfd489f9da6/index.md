@@ -1,4 +1,7 @@
-# Alpha to Omega
+---
+layout: page
+title: Alpha to Omega
+---
 
 | Statistic | Value |
 | --- | --- |

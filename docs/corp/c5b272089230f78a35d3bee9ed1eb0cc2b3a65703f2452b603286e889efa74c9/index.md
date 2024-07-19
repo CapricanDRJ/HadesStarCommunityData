@@ -1,4 +1,7 @@
-# tropa (BR)
+---
+layout: page
+title: tropa (BR)
+---
 
 | Statistic | Value |
 | --- | --- |

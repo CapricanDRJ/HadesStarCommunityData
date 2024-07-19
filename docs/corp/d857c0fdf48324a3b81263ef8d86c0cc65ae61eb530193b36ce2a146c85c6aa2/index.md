@@ -1,4 +1,7 @@
-# Nooooobs
+---
+layout: page
+title: Nooooobs
+---
 
 | Statistic | Value |
 | --- | --- |

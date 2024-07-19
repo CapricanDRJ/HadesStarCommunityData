@@ -1,4 +1,7 @@
-# Grater T
+---
+layout: page
+title: Grater T
+---
 
 | Statistic | Value |
 | --- | --- |

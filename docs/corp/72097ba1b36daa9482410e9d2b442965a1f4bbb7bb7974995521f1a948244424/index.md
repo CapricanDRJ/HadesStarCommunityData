@@ -1,4 +1,7 @@
-# 八月政府
+---
+layout: page
+title: 八月政府
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# 第一序列
+---
+layout: page
+title: 第一序列
+---
 
 | Statistic | Value |
 | --- | --- |

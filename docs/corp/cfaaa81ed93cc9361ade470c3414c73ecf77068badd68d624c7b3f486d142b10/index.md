@@ -1,4 +1,7 @@
-# StellaMysterium
+---
+layout: page
+title: StellaMysterium
+---
 
 | Statistic | Value |
 | --- | --- |

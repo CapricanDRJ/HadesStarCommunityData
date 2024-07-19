@@ -1,4 +1,7 @@
-# MILIBARINOS
+---
+layout: page
+title: MILIBARINOS
+---
 
 | Statistic | Value |
 | --- | --- |

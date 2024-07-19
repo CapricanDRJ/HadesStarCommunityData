@@ -1,4 +1,7 @@
-# Panda clan 
+---
+layout: page
+title: Panda clan 
+---
 
 | Statistic | Value |
 | --- | --- |

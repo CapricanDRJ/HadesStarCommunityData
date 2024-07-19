@@ -1,4 +1,7 @@
-# L’Amalgame
+---
+layout: page
+title: L’Amalgame
+---
 
 | Statistic | Value |
 | --- | --- |

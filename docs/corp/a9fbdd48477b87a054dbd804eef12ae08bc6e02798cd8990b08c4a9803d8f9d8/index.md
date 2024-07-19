@@ -1,4 +1,7 @@
-# MÉXICO INFINITO
+---
+layout: page
+title: MÉXICO INFINITO
+---
 
 | Statistic | Value |
 | --- | --- |

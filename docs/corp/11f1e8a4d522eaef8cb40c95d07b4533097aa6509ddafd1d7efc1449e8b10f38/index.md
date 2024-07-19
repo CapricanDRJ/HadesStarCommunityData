@@ -1,4 +1,7 @@
-# SternenStaub
+---
+layout: page
+title: SternenStaub
+---
 
 | Statistic | Value |
 | --- | --- |

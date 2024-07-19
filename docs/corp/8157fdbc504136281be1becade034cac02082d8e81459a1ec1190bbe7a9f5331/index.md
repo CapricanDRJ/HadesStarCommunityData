@@ -1,4 +1,7 @@
-# Goblin Squad
+---
+layout: page
+title: Goblin Squad
+---
 
 | Statistic | Value |
 | --- | --- |

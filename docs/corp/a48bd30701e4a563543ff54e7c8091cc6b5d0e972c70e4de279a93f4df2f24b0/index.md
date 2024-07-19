@@ -1,4 +1,7 @@
-# Venture
+---
+layout: page
+title: Venture
+---
 
 | Statistic | Value |
 | --- | --- |

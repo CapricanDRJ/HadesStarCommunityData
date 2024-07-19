@@ -1,4 +1,7 @@
-# Sekolygen ♤
+---
+layout: page
+title: Sekolygen ♤
+---
 
 | Statistic | Value |
 | --- | --- |

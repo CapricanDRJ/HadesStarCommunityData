@@ -1,4 +1,7 @@
-# LOST PIRATES
+---
+layout: page
+title: LOST PIRATES
+---
 
 | Statistic | Value |
 | --- | --- |

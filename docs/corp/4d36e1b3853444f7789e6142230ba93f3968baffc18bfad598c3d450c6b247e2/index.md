@@ -1,4 +1,7 @@
-# 资助会
+---
+layout: page
+title: 资助会
+---
 
 | Statistic | Value |
 | --- | --- |

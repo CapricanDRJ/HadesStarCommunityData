@@ -1,4 +1,7 @@
-# Quantum Web
+---
+layout: page
+title: Quantum Web
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Stone Legion
+---
+layout: page
+title: Stone Legion
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Sternenwanderer
+---
+layout: page
+title: Sternenwanderer
+---
 
 | Statistic | Value |
 | --- | --- |

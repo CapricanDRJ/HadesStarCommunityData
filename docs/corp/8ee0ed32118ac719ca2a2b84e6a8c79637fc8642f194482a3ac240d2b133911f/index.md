@@ -1,4 +1,7 @@
-# Interstellar
+---
+layout: page
+title: Interstellar
+---
 
 | Statistic | Value |
 | --- | --- |

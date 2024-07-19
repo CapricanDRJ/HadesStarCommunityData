@@ -1,4 +1,7 @@
-# Free Star
+---
+layout: page
+title: Free Star
+---
 
 | Statistic | Value |
 | --- | --- |

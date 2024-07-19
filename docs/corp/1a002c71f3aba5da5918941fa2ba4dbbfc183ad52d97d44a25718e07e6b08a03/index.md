@@ -1,4 +1,7 @@
-# OntarioDawn
+---
+layout: page
+title: OntarioDawn
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# U.Y.E.U.
+---
+layout: page
+title: U.Y.E.U.
+---
 
 | Statistic | Value |
 | --- | --- |

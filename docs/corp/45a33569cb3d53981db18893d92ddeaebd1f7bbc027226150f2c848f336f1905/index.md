@@ -1,4 +1,7 @@
-# Bloodtide
+---
+layout: page
+title: Bloodtide
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# fishwax
+---
+layout: page
+title: fishwax
+---
 
 | Statistic | Value |
 | --- | --- |

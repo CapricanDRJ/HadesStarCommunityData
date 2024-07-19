@@ -1,4 +1,7 @@
-# Rebellion!
+---
+layout: page
+title: Rebellion!
+---
 
 | Statistic | Value |
 | --- | --- |

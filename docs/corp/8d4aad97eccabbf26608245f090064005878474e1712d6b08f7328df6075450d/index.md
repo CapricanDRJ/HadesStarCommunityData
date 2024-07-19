@@ -1,4 +1,7 @@
-# Серебряная орда
+---
+layout: page
+title: Серебряная орда
+---
 
 | Statistic | Value |
 | --- | --- |

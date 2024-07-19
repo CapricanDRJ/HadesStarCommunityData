@@ -1,4 +1,7 @@
-# Cyber Star
+---
+layout: page
+title: Cyber Star
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Чистое Небо
+---
+layout: page
+title: Чистое Небо
+---
 
 | Statistic | Value |
 | --- | --- |

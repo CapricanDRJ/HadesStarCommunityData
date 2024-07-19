@@ -1,4 +1,7 @@
-# sk cz nebula
+---
+layout: page
+title: sk cz nebula
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Casual Joe
+---
+layout: page
+title: Casual Joe
+---
 
 | Statistic | Value |
 | --- | --- |

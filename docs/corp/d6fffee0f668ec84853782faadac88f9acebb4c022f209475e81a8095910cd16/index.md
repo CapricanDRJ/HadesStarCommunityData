@@ -1,4 +1,7 @@
-# Welcome 欢迎
+---
+layout: page
+title: Welcome 欢迎
+---
 
 | Statistic | Value |
 | --- | --- |

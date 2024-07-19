@@ -1,4 +1,7 @@
-# Atlas Star llc.
+---
+layout: page
+title: Atlas Star llc.
+---
 
 | Statistic | Value |
 | --- | --- |

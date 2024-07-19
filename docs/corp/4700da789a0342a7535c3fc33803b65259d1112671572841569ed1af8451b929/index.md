@@ -1,4 +1,7 @@
-# free ws exp
+---
+layout: page
+title: free ws exp
+---
 
 | Statistic | Value |
 | --- | --- |

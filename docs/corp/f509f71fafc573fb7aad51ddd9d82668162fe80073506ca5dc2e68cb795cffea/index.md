@@ -1,4 +1,7 @@
-# Odessa
+---
+layout: page
+title: Odessa
+---
 
 | Statistic | Value |
 | --- | --- |

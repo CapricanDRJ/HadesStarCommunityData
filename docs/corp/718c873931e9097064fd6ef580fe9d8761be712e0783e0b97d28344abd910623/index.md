@@ -1,4 +1,7 @@
-# lesescargots
+---
+layout: page
+title: lesescargots
+---
 
 | Statistic | Value |
 | --- | --- |

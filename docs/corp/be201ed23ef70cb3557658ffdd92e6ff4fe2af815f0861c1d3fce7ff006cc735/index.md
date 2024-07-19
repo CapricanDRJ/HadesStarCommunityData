@@ -1,4 +1,7 @@
-# Sith order
+---
+layout: page
+title: Sith order
+---
 
 | Statistic | Value |
 | --- | --- |

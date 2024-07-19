@@ -1,4 +1,7 @@
-# Медведи
+---
+layout: page
+title: Медведи
+---
 
 | Statistic | Value |
 | --- | --- |

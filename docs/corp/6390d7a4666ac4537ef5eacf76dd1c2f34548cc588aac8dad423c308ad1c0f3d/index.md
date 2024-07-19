@@ -1,4 +1,7 @@
-# 水晶星际集团
+---
+layout: page
+title: 水晶星际集团
+---
 
 | Statistic | Value |
 | --- | --- |

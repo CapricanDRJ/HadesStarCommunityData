@@ -1,4 +1,7 @@
-# Minutemen
+---
+layout: page
+title: Minutemen
+---
 
 | Statistic | Value |
 | --- | --- |

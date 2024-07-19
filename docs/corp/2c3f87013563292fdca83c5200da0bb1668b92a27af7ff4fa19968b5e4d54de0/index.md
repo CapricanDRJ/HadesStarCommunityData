@@ -1,4 +1,7 @@
-# Continuance
+---
+layout: page
+title: Continuance
+---
 
 | Statistic | Value |
 | --- | --- |

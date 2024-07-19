@@ -1,4 +1,7 @@
-# Aurora Burning
+---
+layout: page
+title: Aurora Burning
+---
 
 | Statistic | Value |
 | --- | --- |

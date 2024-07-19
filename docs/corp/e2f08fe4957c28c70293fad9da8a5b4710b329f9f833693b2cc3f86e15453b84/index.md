@@ -1,4 +1,7 @@
-# Assasins bees
+---
+layout: page
+title: Assasins bees
+---
 
 | Statistic | Value |
 | --- | --- |

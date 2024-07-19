@@ -1,4 +1,7 @@
-# 仙剑3
+---
+layout: page
+title: 仙剑3
+---
 
 | Statistic | Value |
 | --- | --- |

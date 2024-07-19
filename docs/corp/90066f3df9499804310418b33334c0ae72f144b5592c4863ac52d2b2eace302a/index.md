@@ -1,4 +1,7 @@
-# DarkMoon
+---
+layout: page
+title: DarkMoon
+---
 
 | Statistic | Value |
 | --- | --- |

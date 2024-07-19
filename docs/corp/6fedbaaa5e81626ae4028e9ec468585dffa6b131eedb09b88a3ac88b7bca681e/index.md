@@ -1,4 +1,7 @@
-# BattleCo
+---
+layout: page
+title: BattleCo
+---
 
 | Statistic | Value |
 | --- | --- |

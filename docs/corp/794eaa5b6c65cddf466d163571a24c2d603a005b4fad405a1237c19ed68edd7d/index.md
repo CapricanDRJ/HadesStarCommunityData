@@ -1,4 +1,7 @@
-# Blackwater co.
+---
+layout: page
+title: Blackwater co.
+---
 
 | Statistic | Value |
 | --- | --- |

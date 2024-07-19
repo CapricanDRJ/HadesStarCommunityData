@@ -1,4 +1,7 @@
-# korea
+---
+layout: page
+title: korea
+---
 
 | Statistic | Value |
 | --- | --- |

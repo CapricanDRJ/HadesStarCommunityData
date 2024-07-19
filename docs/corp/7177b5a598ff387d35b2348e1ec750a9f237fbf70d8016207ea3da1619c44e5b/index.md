@@ -1,4 +1,7 @@
-# death squadron 
+---
+layout: page
+title: death squadron 
+---
 
 | Statistic | Value |
 | --- | --- |

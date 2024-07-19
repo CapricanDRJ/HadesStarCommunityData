@@ -1,4 +1,7 @@
-# Frontier X
+---
+layout: page
+title: Frontier X
+---
 
 | Statistic | Value |
 | --- | --- |

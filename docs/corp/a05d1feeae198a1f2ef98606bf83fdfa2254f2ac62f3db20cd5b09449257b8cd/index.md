@@ -1,4 +1,7 @@
-# DarkSide
+---
+layout: page
+title: DarkSide
+---
 
 | Statistic | Value |
 | --- | --- |

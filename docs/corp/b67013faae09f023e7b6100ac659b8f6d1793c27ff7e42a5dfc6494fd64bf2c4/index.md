@@ -1,4 +1,7 @@
-# 德意志阿尔法帝国
+---
+layout: page
+title: 德意志阿尔法帝国
+---
 
 | Statistic | Value |
 | --- | --- |

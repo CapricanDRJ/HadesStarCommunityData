@@ -1,4 +1,7 @@
-# DYLAN
+---
+layout: page
+title: DYLAN
+---
 
 | Statistic | Value |
 | --- | --- |

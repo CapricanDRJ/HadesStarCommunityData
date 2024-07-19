@@ -1,4 +1,7 @@
-# Dark Sun
+---
+layout: page
+title: Dark Sun
+---
 
 | Statistic | Value |
 | --- | --- |

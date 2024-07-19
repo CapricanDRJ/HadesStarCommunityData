@@ -1,4 +1,7 @@
-# 游徒训练营
+---
+layout: page
+title: 游徒训练营
+---
 
 | Statistic | Value |
 | --- | --- |

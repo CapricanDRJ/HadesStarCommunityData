@@ -1,4 +1,7 @@
-# Bacon Warriors
+---
+layout: page
+title: Bacon Warriors
+---
 
 | Statistic | Value |
 | --- | --- |

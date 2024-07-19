@@ -1,4 +1,7 @@
-# CommCody & LPA
+---
+layout: page
+title: CommCody & LPA
+---
 
 | Statistic | Value |
 | --- | --- |

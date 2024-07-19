@@ -1,4 +1,7 @@
-# ItBurnsWhenIEMP
+---
+layout: page
+title: ItBurnsWhenIEMP
+---
 
 | Statistic | Value |
 | --- | --- |

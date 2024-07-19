@@ -1,4 +1,7 @@
-# Continuum
+---
+layout: page
+title: Continuum
+---
 
 | Statistic | Value |
 | --- | --- |

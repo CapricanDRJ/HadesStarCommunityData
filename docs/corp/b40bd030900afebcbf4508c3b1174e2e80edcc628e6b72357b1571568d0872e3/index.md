@@ -1,4 +1,7 @@
-# Hades Academy
+---
+layout: page
+title: Hades Academy
+---
 
 | Statistic | Value |
 | --- | --- |

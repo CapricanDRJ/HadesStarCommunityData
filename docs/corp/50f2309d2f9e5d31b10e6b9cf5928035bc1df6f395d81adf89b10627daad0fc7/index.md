@@ -1,4 +1,7 @@
-# Legión
+---
+layout: page
+title: Legión
+---
 
 | Statistic | Value |
 | --- | --- |

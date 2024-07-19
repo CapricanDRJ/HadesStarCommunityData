@@ -1,4 +1,7 @@
-# The Elite
+---
+layout: page
+title: The Elite
+---
 
 | Statistic | Value |
 | --- | --- |

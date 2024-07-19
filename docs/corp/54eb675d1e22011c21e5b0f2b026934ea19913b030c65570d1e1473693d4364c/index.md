@@ -1,4 +1,7 @@
-# 墨痕空域
+---
+layout: page
+title: 墨痕空域
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# CCCP
+---
+layout: page
+title: CCCP
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# OntarioDynasty
+---
+layout: page
+title: OntarioDynasty
+---
 
 | Statistic | Value |
 | --- | --- |

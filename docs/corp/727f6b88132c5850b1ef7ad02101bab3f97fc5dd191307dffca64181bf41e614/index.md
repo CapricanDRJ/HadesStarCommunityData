@@ -1,4 +1,7 @@
-# STRVS233～
+---
+layout: page
+title: STRVS233～
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Corp. Estelar
+---
+layout: page
+title: Corp. Estelar
+---
 
 | Statistic | Value |
 | --- | --- |

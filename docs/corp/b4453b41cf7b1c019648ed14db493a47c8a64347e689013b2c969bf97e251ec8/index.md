@@ -1,4 +1,7 @@
-# Czech Legion
+---
+layout: page
+title: Czech Legion
+---
 
 | Statistic | Value |
 | --- | --- |

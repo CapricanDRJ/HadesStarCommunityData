@@ -1,4 +1,7 @@
-# Draco Ind.
+---
+layout: page
+title: Draco Ind.
+---
 
 | Statistic | Value |
 | --- | --- |

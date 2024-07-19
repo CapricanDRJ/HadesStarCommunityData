@@ -1,4 +1,7 @@
-# ZORG IND
+---
+layout: page
+title: ZORG IND
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# The Visionaries
+---
+layout: page
+title: The Visionaries
+---
 
 | Statistic | Value |
 | --- | --- |

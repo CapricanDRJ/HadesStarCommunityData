@@ -1,4 +1,7 @@
-# Rogue Dudes
+---
+layout: page
+title: Rogue Dudes
+---
 
 | Statistic | Value |
 | --- | --- |

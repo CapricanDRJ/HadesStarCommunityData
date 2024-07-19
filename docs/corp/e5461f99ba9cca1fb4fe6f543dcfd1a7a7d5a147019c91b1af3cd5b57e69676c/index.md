@@ -1,4 +1,7 @@
-# Marvel
+---
+layout: page
+title: Marvel
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Next Hyperion
+---
+layout: page
+title: Next Hyperion
+---
 
 | Statistic | Value |
 | --- | --- |

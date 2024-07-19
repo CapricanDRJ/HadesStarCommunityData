@@ -1,4 +1,7 @@
-# universe leader
+---
+layout: page
+title: universe leader
+---
 
 | Statistic | Value |
 | --- | --- |

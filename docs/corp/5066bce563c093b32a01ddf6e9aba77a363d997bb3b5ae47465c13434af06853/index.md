@@ -1,4 +1,7 @@
-# Les Chevaliers
+---
+layout: page
+title: Les Chevaliers
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Imperio Tortuga
+---
+layout: page
+title: Imperio Tortuga
+---
 
 | Statistic | Value |
 | --- | --- |

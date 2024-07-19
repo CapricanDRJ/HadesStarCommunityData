@@ -1,4 +1,7 @@
-# Elder Things
+---
+layout: page
+title: Elder Things
+---
 
 | Statistic | Value |
 | --- | --- |

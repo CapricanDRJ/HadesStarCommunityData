@@ -1,4 +1,7 @@
-# 꿀벌왕국
+---
+layout: page
+title: 꿀벌왕국
+---
 
 | Statistic | Value |
 | --- | --- |

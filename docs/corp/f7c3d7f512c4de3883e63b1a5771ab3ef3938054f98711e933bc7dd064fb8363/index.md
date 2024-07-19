@@ -1,4 +1,7 @@
-# Wompwompway 
+---
+layout: page
+title: Wompwompway 
+---
 
 | Statistic | Value |
 | --- | --- |

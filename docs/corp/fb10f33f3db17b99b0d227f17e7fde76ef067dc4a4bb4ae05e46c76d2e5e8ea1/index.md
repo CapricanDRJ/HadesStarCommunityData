@@ -1,4 +1,7 @@
-# Lacuna X
+---
+layout: page
+title: Lacuna X
+---
 
 | Statistic | Value |
 | --- | --- |

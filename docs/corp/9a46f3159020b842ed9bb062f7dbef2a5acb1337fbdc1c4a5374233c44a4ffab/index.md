@@ -1,4 +1,7 @@
-# Capibarius
+---
+layout: page
+title: Capibarius
+---
 
 | Statistic | Value |
 | --- | --- |

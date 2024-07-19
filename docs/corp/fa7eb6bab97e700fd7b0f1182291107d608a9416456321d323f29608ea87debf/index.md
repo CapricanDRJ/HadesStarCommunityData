@@ -1,4 +1,7 @@
-# Void Nebula
+---
+layout: page
+title: Void Nebula
+---
 
 | Statistic | Value |
 | --- | --- |

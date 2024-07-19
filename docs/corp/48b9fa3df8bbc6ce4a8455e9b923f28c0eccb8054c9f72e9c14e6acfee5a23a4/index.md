@@ -1,4 +1,7 @@
-# Glashan
+---
+layout: page
+title: Glashan
+---
 
 | Statistic | Value |
 | --- | --- |

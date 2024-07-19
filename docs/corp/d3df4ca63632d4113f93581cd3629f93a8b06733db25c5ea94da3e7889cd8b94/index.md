@@ -1,4 +1,7 @@
-# GalaxyNova
+---
+layout: page
+title: GalaxyNova
+---
 
 | Statistic | Value |
 | --- | --- |

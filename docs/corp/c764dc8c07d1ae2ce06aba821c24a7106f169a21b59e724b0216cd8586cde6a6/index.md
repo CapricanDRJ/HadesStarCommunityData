@@ -1,4 +1,7 @@
-# украина№1
+---
+layout: page
+title: украина№1
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Brasil
+---
+layout: page
+title: Brasil
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# V0RTEX
+---
+layout: page
+title: V0RTEX
+---
 
 | Statistic | Value |
 | --- | --- |

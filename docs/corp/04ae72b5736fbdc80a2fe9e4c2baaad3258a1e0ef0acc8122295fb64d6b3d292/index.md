@@ -1,4 +1,7 @@
-# three kitties
+---
+layout: page
+title: three kitties
+---
 
 | Statistic | Value |
 | --- | --- |

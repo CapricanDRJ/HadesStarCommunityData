@@ -1,4 +1,7 @@
-# just because
+---
+layout: page
+title: just because
+---
 
 | Statistic | Value |
 | --- | --- |

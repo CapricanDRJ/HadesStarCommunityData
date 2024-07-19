@@ -1,4 +1,7 @@
-# Gemini Ind.
+---
+layout: page
+title: Gemini Ind.
+---
 
 | Statistic | Value |
 | --- | --- |

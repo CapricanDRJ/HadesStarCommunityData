@@ -1,4 +1,7 @@
-# Aconitum
+---
+layout: page
+title: Aconitum
+---
 
 | Statistic | Value |
 | --- | --- |

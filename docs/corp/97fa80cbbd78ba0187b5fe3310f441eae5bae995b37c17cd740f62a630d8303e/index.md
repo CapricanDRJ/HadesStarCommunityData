@@ -1,4 +1,7 @@
-# Gastro
+---
+layout: page
+title: Gastro
+---
 
 | Statistic | Value |
 | --- | --- |

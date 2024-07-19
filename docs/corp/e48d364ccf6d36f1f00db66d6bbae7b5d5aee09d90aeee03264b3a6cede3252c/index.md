@@ -1,4 +1,7 @@
-# 星光舰队
+---
+layout: page
+title: 星光舰队
+---
 
 | Statistic | Value |
 | --- | --- |

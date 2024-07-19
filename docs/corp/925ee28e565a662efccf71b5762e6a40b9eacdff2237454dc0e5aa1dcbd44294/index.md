@@ -1,4 +1,7 @@
-# RACNAROK
+---
+layout: page
+title: RACNAROK
+---
 
 | Statistic | Value |
 | --- | --- |

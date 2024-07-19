@@ -1,4 +1,7 @@
-# SALTARDIS
+---
+layout: page
+title: SALTARDIS
+---
 
 | Statistic | Value |
 | --- | --- |

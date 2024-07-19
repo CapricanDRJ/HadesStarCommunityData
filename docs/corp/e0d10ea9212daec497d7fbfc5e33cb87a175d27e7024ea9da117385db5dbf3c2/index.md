@@ -1,4 +1,7 @@
-# OKC THUNDER 
+---
+layout: page
+title: OKC THUNDER 
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# SPACECOWBOYS
+---
+layout: page
+title: SPACECOWBOYS
+---
 
 | Statistic | Value |
 | --- | --- |

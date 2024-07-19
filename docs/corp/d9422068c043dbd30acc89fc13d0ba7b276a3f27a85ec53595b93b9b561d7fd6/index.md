@@ -1,4 +1,7 @@
-# Killers from Ua
+---
+layout: page
+title: Killers from Ua
+---
 
 | Statistic | Value |
 | --- | --- |

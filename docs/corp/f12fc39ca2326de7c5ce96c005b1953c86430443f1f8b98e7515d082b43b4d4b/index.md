@@ -1,4 +1,7 @@
-# Providence
+---
+layout: page
+title: Providence
+---
 
 | Statistic | Value |
 | --- | --- |

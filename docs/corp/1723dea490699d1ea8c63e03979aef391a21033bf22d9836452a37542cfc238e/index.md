@@ -1,4 +1,7 @@
-# Soul System
+---
+layout: page
+title: Soul System
+---
 
 | Statistic | Value |
 | --- | --- |

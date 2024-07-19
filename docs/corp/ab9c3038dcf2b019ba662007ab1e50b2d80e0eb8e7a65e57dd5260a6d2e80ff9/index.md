@@ -1,4 +1,7 @@
-# Halcon español
+---
+layout: page
+title: Halcon español
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# The Red Dwarves
+---
+layout: page
+title: The Red Dwarves
+---
 
 | Statistic | Value |
 | --- | --- |

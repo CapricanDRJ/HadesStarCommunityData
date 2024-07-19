@@ -1,4 +1,7 @@
-# Reservoid  Dogs
+---
+layout: page
+title: Reservoid  Dogs
+---
 
 | Statistic | Value |
 | --- | --- |

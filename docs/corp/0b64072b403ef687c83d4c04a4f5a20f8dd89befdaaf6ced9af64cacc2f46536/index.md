@@ -1,4 +1,7 @@
-# VENTORMENTA
+---
+layout: page
+title: VENTORMENTA
+---
 
 | Statistic | Value |
 | --- | --- |

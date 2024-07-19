@@ -1,4 +1,7 @@
-# Darknova
+---
+layout: page
+title: Darknova
+---
 
 | Statistic | Value |
 | --- | --- |

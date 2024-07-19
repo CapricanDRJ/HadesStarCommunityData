@@ -1,4 +1,7 @@
-# Interestelar
+---
+layout: page
+title: Interestelar
+---
 
 | Statistic | Value |
 | --- | --- |

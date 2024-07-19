@@ -1,4 +1,7 @@
-# Omega Alpha
+---
+layout: page
+title: Omega Alpha
+---
 
 | Statistic | Value |
 | --- | --- |

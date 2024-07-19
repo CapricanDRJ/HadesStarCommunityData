@@ -1,4 +1,7 @@
-# 北冥星云
+---
+layout: page
+title: 北冥星云
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# 地球联合
+---
+layout: page
+title: 地球联合
+---
 
 | Statistic | Value |
 | --- | --- |

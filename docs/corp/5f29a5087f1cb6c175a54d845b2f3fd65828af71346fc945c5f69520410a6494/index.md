@@ -1,4 +1,7 @@
-# Пабеда
+---
+layout: page
+title: Пабеда
+---
 
 | Statistic | Value |
 | --- | --- |

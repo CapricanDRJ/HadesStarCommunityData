@@ -1,4 +1,7 @@
-# 德意志第三帝国BATA分部
+---
+layout: page
+title: 德意志第三帝国BATA分部
+---
 
 | Statistic | Value |
 | --- | --- |

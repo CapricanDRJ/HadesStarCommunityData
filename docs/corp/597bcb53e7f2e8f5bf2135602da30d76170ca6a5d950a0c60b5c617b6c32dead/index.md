@@ -1,4 +1,7 @@
-# 云浪山庄↕
+---
+layout: page
+title: 云浪山庄↕
+---
 
 | Statistic | Value |
 | --- | --- |

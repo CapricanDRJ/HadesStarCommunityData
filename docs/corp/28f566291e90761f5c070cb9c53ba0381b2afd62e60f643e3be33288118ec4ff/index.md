@@ -1,4 +1,7 @@
-# Astra Ultima
+---
+layout: page
+title: Astra Ultima
+---
 
 | Statistic | Value |
 | --- | --- |

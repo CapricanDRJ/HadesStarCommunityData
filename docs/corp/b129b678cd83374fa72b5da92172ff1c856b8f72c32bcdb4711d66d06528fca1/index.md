@@ -1,4 +1,7 @@
-# 1st/Ave/Junkie2
+---
+layout: page
+title: 1st/Ave/Junkie2
+---
 
 | Statistic | Value |
 | --- | --- |

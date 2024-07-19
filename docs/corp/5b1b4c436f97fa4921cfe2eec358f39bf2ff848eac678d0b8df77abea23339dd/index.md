@@ -1,4 +1,7 @@
-# Planet Express
+---
+layout: page
+title: Planet Express
+---
 
 | Statistic | Value |
 | --- | --- |

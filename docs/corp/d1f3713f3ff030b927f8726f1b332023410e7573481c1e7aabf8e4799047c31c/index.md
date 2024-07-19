@@ -1,4 +1,7 @@
-# USSR
+---
+layout: page
+title: USSR
+---
 
 | Statistic | Value |
 | --- | --- |

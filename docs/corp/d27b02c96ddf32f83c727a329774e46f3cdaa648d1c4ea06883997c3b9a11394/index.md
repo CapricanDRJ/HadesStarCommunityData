@@ -1,4 +1,7 @@
-# КВАЗАР
+---
+layout: page
+title: КВАЗАР
+---
 
 | Statistic | Value |
 | --- | --- |

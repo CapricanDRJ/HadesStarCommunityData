@@ -1,4 +1,7 @@
-# knights abyss
+---
+layout: page
+title: knights abyss
+---
 
 | Statistic | Value |
 | --- | --- |

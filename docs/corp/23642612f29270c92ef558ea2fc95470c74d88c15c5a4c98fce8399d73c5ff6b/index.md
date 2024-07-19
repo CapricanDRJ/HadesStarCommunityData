@@ -1,4 +1,7 @@
-# GoS Academy
+---
+layout: page
+title: GoS Academy
+---
 
 | Statistic | Value |
 | --- | --- |

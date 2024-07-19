@@ -1,4 +1,7 @@
-# Lexx
+---
+layout: page
+title: Lexx
+---
 
 | Statistic | Value |
 | --- | --- |

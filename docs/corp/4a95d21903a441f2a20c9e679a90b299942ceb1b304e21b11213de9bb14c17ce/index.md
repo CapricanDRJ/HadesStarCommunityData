@@ -1,4 +1,7 @@
-# 第四天灾
+---
+layout: page
+title: 第四天灾
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# 新兴帝国
+---
+layout: page
+title: 新兴帝国
+---
 
 | Statistic | Value |
 | --- | --- |

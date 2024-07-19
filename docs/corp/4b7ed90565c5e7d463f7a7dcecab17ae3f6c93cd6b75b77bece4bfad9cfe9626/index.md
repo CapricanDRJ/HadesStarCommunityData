@@ -1,4 +1,7 @@
-# ITA
+---
+layout: page
+title: ITA
+---
 
 | Statistic | Value |
 | --- | --- |

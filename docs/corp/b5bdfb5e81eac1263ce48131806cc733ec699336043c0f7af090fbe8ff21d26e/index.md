@@ -1,4 +1,7 @@
-# White Star Inc.
+---
+layout: page
+title: White Star Inc.
+---
 
 | Statistic | Value |
 | --- | --- |

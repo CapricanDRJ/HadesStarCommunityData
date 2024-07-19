@@ -1,4 +1,7 @@
-# JPR. Pretorians
+---
+layout: page
+title: JPR. Pretorians
+---
 
 | Statistic | Value |
 | --- | --- |

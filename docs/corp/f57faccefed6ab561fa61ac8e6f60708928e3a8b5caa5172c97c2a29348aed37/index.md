@@ -1,4 +1,7 @@
-# 公共星际集团
+---
+layout: page
+title: 公共星际集团
+---
 
 | Statistic | Value |
 | --- | --- |

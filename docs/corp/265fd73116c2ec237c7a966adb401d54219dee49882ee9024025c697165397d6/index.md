@@ -1,4 +1,7 @@
-# Utd. Human Fed.
+---
+layout: page
+title: Utd. Human Fed.
+---
 
 | Statistic | Value |
 | --- | --- |

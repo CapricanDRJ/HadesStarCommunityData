@@ -1,4 +1,7 @@
-# X-wing
+---
+layout: page
+title: X-wing
+---
 
 | Statistic | Value |
 | --- | --- |

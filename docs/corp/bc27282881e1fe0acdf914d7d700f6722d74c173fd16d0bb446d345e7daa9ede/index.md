@@ -1,4 +1,7 @@
-# 春城阳关
+---
+layout: page
+title: 春城阳关
+---
 
 | Statistic | Value |
 | --- | --- |

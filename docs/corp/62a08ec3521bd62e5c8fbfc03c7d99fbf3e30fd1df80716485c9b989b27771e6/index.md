@@ -1,4 +1,7 @@
-# The Watchers
+---
+layout: page
+title: The Watchers
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Zvezdec
+---
+layout: page
+title: Zvezdec
+---
 
 | Statistic | Value |
 | --- | --- |

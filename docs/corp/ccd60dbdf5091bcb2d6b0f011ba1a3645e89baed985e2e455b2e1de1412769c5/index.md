@@ -1,4 +1,7 @@
-# Warp Dominion
+---
+layout: page
+title: Warp Dominion
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Inexorable
+---
+layout: page
+title: Inexorable
+---
 
 | Statistic | Value |
 | --- | --- |

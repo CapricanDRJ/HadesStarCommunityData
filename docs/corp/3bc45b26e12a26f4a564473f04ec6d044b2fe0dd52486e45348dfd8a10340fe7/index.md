@@ -1,4 +1,7 @@
-# Kötbrüder
+---
+layout: page
+title: Kötbrüder
+---
 
 | Statistic | Value |
 | --- | --- |

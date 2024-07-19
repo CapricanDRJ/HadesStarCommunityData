@@ -1,4 +1,7 @@
-# 新纪元舰队
+---
+layout: page
+title: 新纪元舰队
+---
 
 | Statistic | Value |
 | --- | --- |

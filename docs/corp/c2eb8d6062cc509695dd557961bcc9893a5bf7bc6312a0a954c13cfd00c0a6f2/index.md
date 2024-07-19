@@ -1,4 +1,7 @@
-# Orion France
+---
+layout: page
+title: Orion France
+---
 
 | Statistic | Value |
 | --- | --- |

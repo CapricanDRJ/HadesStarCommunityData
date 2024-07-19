@@ -1,4 +1,7 @@
-# Tacitus
+---
+layout: page
+title: Tacitus
+---
 
 | Statistic | Value |
 | --- | --- |

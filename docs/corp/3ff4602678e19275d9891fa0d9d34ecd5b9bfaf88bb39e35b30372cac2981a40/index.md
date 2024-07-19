@@ -1,4 +1,7 @@
-# pirates spatial
+---
+layout: page
+title: pirates spatial
+---
 
 | Statistic | Value |
 | --- | --- |

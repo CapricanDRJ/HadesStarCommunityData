@@ -1,4 +1,7 @@
-# ArcadianVoiders
+---
+layout: page
+title: ArcadianVoiders
+---
 
 | Statistic | Value |
 | --- | --- |

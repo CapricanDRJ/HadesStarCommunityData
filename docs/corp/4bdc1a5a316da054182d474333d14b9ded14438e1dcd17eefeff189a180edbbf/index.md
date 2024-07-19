@@ -1,4 +1,7 @@
-# FirstAllegiance
+---
+layout: page
+title: FirstAllegiance
+---
 
 | Statistic | Value |
 | --- | --- |

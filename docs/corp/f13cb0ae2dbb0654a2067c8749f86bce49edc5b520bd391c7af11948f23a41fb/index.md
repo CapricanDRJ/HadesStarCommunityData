@@ -1,4 +1,7 @@
-# The X - Files
+---
+layout: page
+title: The X - Files
+---
 
 | Statistic | Value |
 | --- | --- |

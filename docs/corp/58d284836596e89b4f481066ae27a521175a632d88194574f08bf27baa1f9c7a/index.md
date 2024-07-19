@@ -1,4 +1,7 @@
-# Celtic Imperium
+---
+layout: page
+title: Celtic Imperium
+---
 
 | Statistic | Value |
 | --- | --- |

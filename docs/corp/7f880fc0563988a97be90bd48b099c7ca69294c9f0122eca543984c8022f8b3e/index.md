@@ -1,4 +1,7 @@
-# Cronos World
+---
+layout: page
+title: Cronos World
+---
 
 | Statistic | Value |
 | --- | --- |

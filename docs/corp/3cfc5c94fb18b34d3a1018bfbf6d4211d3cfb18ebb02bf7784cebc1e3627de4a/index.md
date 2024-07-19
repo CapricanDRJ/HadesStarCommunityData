@@ -1,4 +1,7 @@
-# PDC
+---
+layout: page
+title: PDC
+---
 
 | Statistic | Value |
 | --- | --- |

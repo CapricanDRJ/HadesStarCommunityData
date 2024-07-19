@@ -1,4 +1,7 @@
-# Darkest Hour
+---
+layout: page
+title: Darkest Hour
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# King's Guard
+---
+layout: page
+title: King's Guard
+---
 
 | Statistic | Value |
 | --- | --- |

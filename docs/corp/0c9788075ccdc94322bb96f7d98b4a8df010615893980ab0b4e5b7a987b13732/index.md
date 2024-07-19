@@ -1,4 +1,7 @@
-# Aegis Shield
+---
+layout: page
+title: Aegis Shield
+---
 
 | Statistic | Value |
 | --- | --- |

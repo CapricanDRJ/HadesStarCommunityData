@@ -1,4 +1,7 @@
-# Sternenbund
+---
+layout: page
+title: Sternenbund
+---
 
 | Statistic | Value |
 | --- | --- |

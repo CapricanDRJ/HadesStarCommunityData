@@ -1,4 +1,7 @@
-# Berlin
+---
+layout: page
+title: Berlin
+---
 
 | Statistic | Value |
 | --- | --- |

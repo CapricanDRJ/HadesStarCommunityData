@@ -1,4 +1,7 @@
-# Last Chance
+---
+layout: page
+title: Last Chance
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# The Mini Elite
+---
+layout: page
+title: The Mini Elite
+---
 
 | Statistic | Value |
 | --- | --- |

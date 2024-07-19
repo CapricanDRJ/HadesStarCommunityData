@@ -1,4 +1,7 @@
-# Death Starz
+---
+layout: page
+title: Death Starz
+---
 
 | Statistic | Value |
 | --- | --- |

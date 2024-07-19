@@ -1,4 +1,7 @@
-# 世外桃源
+---
+layout: page
+title: 世外桃源
+---
 
 | Statistic | Value |
 | --- | --- |

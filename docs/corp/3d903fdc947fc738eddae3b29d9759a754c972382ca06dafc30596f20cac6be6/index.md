@@ -1,4 +1,7 @@
-# Fang Empire
+---
+layout: page
+title: Fang Empire
+---
 
 | Statistic | Value |
 | --- | --- |

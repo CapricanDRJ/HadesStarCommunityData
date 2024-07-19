@@ -1,4 +1,7 @@
-# 萌新收留所
+---
+layout: page
+title: 萌新收留所
+---
 
 | Statistic | Value |
 | --- | --- |

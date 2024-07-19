@@ -1,4 +1,7 @@
-# Intari
+---
+layout: page
+title: Intari
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# R2D2
+---
+layout: page
+title: R2D2
+---
 
 | Statistic | Value |
 | --- | --- |

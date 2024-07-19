@@ -1,4 +1,7 @@
-# 神仙'
+---
+layout: page
+title: 神仙'
+---
 
 | Statistic | Value |
 | --- | --- |

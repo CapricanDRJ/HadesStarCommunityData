@@ -1,4 +1,7 @@
-# Bounty Hunters
+---
+layout: page
+title: Bounty Hunters
+---
 
 | Statistic | Value |
 | --- | --- |

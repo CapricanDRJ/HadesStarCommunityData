@@ -1,4 +1,7 @@
-# 阿尔特拉太空港
+---
+layout: page
+title: 阿尔特拉太空港
+---
 
 | Statistic | Value |
 | --- | --- |

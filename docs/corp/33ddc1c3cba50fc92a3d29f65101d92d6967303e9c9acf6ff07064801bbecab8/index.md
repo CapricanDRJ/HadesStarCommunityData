@@ -1,4 +1,7 @@
-# Ahamkara
+---
+layout: page
+title: Ahamkara
+---
 
 | Statistic | Value |
 | --- | --- |

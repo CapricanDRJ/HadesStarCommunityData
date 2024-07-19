@@ -1,4 +1,7 @@
-# Rogue Corp
+---
+layout: page
+title: Rogue Corp
+---
 
 | Statistic | Value |
 | --- | --- |

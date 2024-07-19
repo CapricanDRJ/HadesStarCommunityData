@@ -1,4 +1,7 @@
-# Rzeczypospolita
+---
+layout: page
+title: Rzeczypospolita
+---
 
 | Statistic | Value |
 | --- | --- |

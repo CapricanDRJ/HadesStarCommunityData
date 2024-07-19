@@ -1,4 +1,7 @@
-# Legionnaires
+---
+layout: page
+title: Legionnaires
+---
 
 | Statistic | Value |
 | --- | --- |

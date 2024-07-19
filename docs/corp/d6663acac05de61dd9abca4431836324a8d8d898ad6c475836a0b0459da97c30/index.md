@@ -1,4 +1,7 @@
-# Lolis Corp
+---
+layout: page
+title: Lolis Corp
+---
 
 | Statistic | Value |
 | --- | --- |

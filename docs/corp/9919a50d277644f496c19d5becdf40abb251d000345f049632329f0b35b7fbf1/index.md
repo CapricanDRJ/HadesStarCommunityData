@@ -1,4 +1,7 @@
-# Unión latina
+---
+layout: page
+title: Unión latina
+---
 
 | Statistic | Value |
 | --- | --- |

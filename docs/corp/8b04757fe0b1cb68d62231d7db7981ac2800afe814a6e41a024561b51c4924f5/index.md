@@ -1,4 +1,7 @@
-# Starborne Corp
+---
+layout: page
+title: Starborne Corp
+---
 
 | Statistic | Value |
 | --- | --- |

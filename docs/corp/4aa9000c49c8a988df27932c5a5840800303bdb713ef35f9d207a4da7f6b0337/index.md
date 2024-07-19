@@ -1,4 +1,7 @@
-# The Gladiators
+---
+layout: page
+title: The Gladiators
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Hermitage
+---
+layout: page
+title: Hermitage
+---
 
 | Statistic | Value |
 | --- | --- |

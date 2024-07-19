@@ -1,4 +1,7 @@
-# 元素联邦
+---
+layout: page
+title: 元素联邦
+---
 
 | Statistic | Value |
 | --- | --- |

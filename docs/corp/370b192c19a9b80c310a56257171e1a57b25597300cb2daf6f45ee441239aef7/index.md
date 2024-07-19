@@ -1,4 +1,7 @@
-# W.O.A
+---
+layout: page
+title: W.O.A
+---
 
 | Statistic | Value |
 | --- | --- |

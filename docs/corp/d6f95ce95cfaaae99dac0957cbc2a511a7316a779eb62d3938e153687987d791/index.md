@@ -1,4 +1,7 @@
-# Cygnus X-1
+---
+layout: page
+title: Cygnus X-1
+---
 
 | Statistic | Value |
 | --- | --- |

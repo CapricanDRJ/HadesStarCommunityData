@@ -1,4 +1,7 @@
-# CDS
+---
+layout: page
+title: CDS
+---
 
 | Statistic | Value |
 | --- | --- |

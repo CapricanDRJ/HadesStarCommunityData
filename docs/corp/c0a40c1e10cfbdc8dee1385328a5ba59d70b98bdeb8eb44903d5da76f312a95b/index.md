@@ -1,4 +1,7 @@
-# TERRA P
+---
+layout: page
+title: TERRA P
+---
 
 | Statistic | Value |
 | --- | --- |

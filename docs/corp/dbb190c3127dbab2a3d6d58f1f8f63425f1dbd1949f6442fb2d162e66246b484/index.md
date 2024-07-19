@@ -1,4 +1,7 @@
-# ANZAC Warriors
+---
+layout: page
+title: ANZAC Warriors
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Hun Generals
+---
+layout: page
+title: Hun Generals
+---
 
 | Statistic | Value |
 | --- | --- |

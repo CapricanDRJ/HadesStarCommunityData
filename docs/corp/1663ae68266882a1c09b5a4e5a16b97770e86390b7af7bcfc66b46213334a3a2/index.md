@@ -1,4 +1,7 @@
-# Hexacropians
+---
+layout: page
+title: Hexacropians
+---
 
 | Statistic | Value |
 | --- | --- |

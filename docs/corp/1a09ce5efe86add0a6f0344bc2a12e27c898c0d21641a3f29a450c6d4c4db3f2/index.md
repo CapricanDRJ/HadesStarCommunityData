@@ -1,4 +1,7 @@
-# Helion Prime
+---
+layout: page
+title: Helion Prime
+---
 
 | Statistic | Value |
 | --- | --- |

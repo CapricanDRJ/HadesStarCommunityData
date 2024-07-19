@@ -1,4 +1,7 @@
-# Legion
+---
+layout: page
+title: Legion
+---
 
 | Statistic | Value |
 | --- | --- |

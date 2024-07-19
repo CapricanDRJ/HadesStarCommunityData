@@ -1,4 +1,7 @@
-# СОЮЗ
+---
+layout: page
+title: СОЮЗ
+---
 
 | Statistic | Value |
 | --- | --- |

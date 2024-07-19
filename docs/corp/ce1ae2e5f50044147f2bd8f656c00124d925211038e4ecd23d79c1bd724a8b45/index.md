@@ -1,4 +1,7 @@
-# SNSS
+---
+layout: page
+title: SNSS
+---
 
 | Statistic | Value |
 | --- | --- |

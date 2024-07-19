@@ -1,4 +1,7 @@
-# 第五星际
+---
+layout: page
+title: 第五星际
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# 柯伊伯带
+---
+layout: page
+title: 柯伊伯带
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Core
+---
+layout: page
+title: Core
+---
 
 | Statistic | Value |
 | --- | --- |

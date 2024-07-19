@@ -1,4 +1,7 @@
-# Черный Легион
+---
+layout: page
+title: Черный Легион
+---
 
 | Statistic | Value |
 | --- | --- |

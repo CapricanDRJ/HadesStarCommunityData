@@ -1,4 +1,7 @@
-# Consortium
+---
+layout: page
+title: Consortium
+---
 
 | Statistic | Value |
 | --- | --- |

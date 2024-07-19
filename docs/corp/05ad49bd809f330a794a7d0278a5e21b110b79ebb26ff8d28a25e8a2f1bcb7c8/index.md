@@ -1,4 +1,7 @@
-# Aeternae
+---
+layout: page
+title: Aeternae
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# pegaso
+---
+layout: page
+title: pegaso
+---
 
 | Statistic | Value |
 | --- | --- |

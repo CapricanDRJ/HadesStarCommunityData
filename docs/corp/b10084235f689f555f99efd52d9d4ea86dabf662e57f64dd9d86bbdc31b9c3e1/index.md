@@ -1,4 +1,7 @@
-# Hexwood
+---
+layout: page
+title: Hexwood
+---
 
 | Statistic | Value |
 | --- | --- |

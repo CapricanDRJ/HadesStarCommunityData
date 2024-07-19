@@ -1,4 +1,7 @@
-# Fleet Corp Ares
+---
+layout: page
+title: Fleet Corp Ares
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# chrtrncmndr
+---
+layout: page
+title: chrtrncmndr
+---
 
 | Statistic | Value |
 | --- | --- |

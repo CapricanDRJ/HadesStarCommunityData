@@ -1,4 +1,7 @@
-# Ironbear Legion
+---
+layout: page
+title: Ironbear Legion
+---
 
 | Statistic | Value |
 | --- | --- |

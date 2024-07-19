@@ -1,4 +1,7 @@
-# *ПОБЕДА*
+---
+layout: page
+title: *ПОБЕДА*
+---
 
 | Statistic | Value |
 | --- | --- |

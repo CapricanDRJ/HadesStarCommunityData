@@ -1,4 +1,7 @@
-# mijael siuuuuuu
+---
+layout: page
+title: mijael siuuuuuu
+---
 
 | Statistic | Value |
 | --- | --- |

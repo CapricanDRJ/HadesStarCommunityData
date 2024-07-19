@@ -1,4 +1,7 @@
-# StargateCommand
+---
+layout: page
+title: StargateCommand
+---
 
 | Statistic | Value |
 | --- | --- |

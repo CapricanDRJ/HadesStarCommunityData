@@ -1,4 +1,7 @@
-# First Squad
+---
+layout: page
+title: First Squad
+---
 
 | Statistic | Value |
 | --- | --- |

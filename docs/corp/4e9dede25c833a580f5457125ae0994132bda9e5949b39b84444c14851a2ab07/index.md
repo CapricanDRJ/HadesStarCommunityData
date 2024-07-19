@@ -1,4 +1,7 @@
-# Training Corp
+---
+layout: page
+title: Training Corp
+---
 
 | Statistic | Value |
 | --- | --- |

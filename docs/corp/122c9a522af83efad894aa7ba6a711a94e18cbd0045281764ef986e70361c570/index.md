@@ -1,4 +1,7 @@
-# Caprica command
+---
+layout: page
+title: Caprica command
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# РусКорп
+---
+layout: page
+title: РусКорп
+---
 
 | Statistic | Value |
 | --- | --- |

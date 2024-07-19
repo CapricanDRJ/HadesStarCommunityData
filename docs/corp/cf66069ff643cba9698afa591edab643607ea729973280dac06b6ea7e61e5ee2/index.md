@@ -1,4 +1,7 @@
-# Españoles
+---
+layout: page
+title: Españoles
+---
 
 | Statistic | Value |
 | --- | --- |

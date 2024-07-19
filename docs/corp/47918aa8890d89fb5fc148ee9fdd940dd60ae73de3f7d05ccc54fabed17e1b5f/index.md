@@ -1,4 +1,7 @@
-# j g f h me t y 
+---
+layout: page
+title: j g f h me t y 
+---
 
 | Statistic | Value |
 | --- | --- |

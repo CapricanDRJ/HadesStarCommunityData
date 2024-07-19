@@ -1,4 +1,7 @@
-# Warriors union
+---
+layout: page
+title: Warriors union
+---
 
 | Statistic | Value |
 | --- | --- |

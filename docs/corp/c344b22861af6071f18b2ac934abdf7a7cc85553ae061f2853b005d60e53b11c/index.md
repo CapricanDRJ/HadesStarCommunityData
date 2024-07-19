@@ -1,4 +1,7 @@
-# MiniStarRaiders
+---
+layout: page
+title: MiniStarRaiders
+---
 
 | Statistic | Value |
 | --- | --- |

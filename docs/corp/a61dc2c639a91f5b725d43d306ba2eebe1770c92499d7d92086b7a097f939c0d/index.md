@@ -1,4 +1,7 @@
-# Эдем
+---
+layout: page
+title: Эдем
+---
 
 | Statistic | Value |
 | --- | --- |

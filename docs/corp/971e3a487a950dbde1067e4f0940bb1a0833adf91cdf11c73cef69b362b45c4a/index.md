@@ -1,4 +1,7 @@
-# 云浪度假村↕
+---
+layout: page
+title: 云浪度假村↕
+---
 
 | Statistic | Value |
 | --- | --- |

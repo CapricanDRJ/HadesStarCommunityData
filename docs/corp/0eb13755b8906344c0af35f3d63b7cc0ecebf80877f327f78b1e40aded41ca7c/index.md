@@ -1,4 +1,7 @@
-# Ukr alliance 
+---
+layout: page
+title: Ukr alliance 
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# <a>超越®</a>光速℡
+---
+layout: page
+title: <a>超越®</a>光速℡
+---
 
 | Statistic | Value |
 | --- | --- |

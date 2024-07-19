@@ -1,4 +1,7 @@
-# Sektion 32
+---
+layout: page
+title: Sektion 32
+---
 
 | Statistic | Value |
 | --- | --- |

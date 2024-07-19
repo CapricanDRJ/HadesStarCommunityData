@@ -1,4 +1,7 @@
-# 龙门训练营
+---
+layout: page
+title: 龙门训练营
+---
 
 | Statistic | Value |
 | --- | --- |

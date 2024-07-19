@@ -1,4 +1,7 @@
-# Red Star Banker
+---
+layout: page
+title: Red Star Banker
+---
 
 | Statistic | Value |
 | --- | --- |

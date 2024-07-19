@@ -1,4 +1,7 @@
-# SEK-SPACE ORDER
+---
+layout: page
+title: SEK-SPACE ORDER
+---
 
 | Statistic | Value |
 | --- | --- |

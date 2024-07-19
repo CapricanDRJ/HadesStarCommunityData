@@ -1,4 +1,7 @@
-# 火洋之心
+---
+layout: page
+title: 火洋之心
+---
 
 | Statistic | Value |
 | --- | --- |

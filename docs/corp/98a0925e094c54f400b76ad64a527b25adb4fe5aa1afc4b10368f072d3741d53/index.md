@@ -1,4 +1,7 @@
-# Бестрашный лиги
+---
+layout: page
+title: Бестрашный лиги
+---
 
 | Statistic | Value |
 | --- | --- |

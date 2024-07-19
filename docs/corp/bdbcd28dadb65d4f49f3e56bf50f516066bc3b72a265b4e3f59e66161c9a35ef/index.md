@@ -1,4 +1,7 @@
-# Intertwine 
+---
+layout: page
+title: Intertwine 
+---
 
 | Statistic | Value |
 | --- | --- |

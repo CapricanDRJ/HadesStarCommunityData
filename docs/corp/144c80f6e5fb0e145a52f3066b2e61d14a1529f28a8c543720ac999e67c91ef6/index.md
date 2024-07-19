@@ -1,4 +1,7 @@
-# Неудержимые
+---
+layout: page
+title: Неудержимые
+---
 
 | Statistic | Value |
 | --- | --- |

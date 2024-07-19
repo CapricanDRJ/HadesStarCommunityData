@@ -1,4 +1,7 @@
-# 欢迎国人
+---
+layout: page
+title: 欢迎国人
+---
 
 | Statistic | Value |
 | --- | --- |

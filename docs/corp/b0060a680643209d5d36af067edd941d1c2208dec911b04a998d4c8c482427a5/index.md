@@ -1,4 +1,7 @@
-# 神貓聯盟
+---
+layout: page
+title: 神貓聯盟
+---
 
 | Statistic | Value |
 | --- | --- |

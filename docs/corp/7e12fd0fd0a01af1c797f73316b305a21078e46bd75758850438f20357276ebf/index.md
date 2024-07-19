@@ -1,4 +1,7 @@
-# 碧霄殿
+---
+layout: page
+title: 碧霄殿
+---
 
 | Statistic | Value |
 | --- | --- |

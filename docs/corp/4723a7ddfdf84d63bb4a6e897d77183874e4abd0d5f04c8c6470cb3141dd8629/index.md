@@ -1,4 +1,7 @@
-# Red Suns
+---
+layout: page
+title: Red Suns
+---
 
 | Statistic | Value |
 | --- | --- |

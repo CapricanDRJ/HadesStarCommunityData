@@ -1,4 +1,7 @@
-# Shrimp City
+---
+layout: page
+title: Shrimp City
+---
 
 | Statistic | Value |
 | --- | --- |

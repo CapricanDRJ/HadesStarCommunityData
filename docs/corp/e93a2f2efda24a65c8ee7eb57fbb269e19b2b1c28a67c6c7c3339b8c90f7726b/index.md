@@ -1,4 +1,7 @@
-# Alpaca Haven
+---
+layout: page
+title: Alpaca Haven
+---
 
 | Statistic | Value |
 | --- | --- |

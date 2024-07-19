@@ -1,4 +1,7 @@
-# Drużyna B
+---
+layout: page
+title: Drużyna B
+---
 
 | Statistic | Value |
 | --- | --- |

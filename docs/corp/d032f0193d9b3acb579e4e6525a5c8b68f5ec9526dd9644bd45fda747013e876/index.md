@@ -1,4 +1,7 @@
-# BSO Academy
+---
+layout: page
+title: BSO Academy
+---
 
 | Statistic | Value |
 | --- | --- |

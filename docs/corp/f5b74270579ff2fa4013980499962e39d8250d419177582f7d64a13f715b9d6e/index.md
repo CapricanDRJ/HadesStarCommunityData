@@ -1,4 +1,7 @@
-# 新手联邦活动用团
+---
+layout: page
+title: 新手联邦活动用团
+---
 
 | Statistic | Value |
 | --- | --- |

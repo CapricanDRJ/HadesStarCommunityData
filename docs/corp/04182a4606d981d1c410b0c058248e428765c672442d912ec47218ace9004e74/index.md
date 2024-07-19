@@ -1,4 +1,7 @@
-# Created
+---
+layout: page
+title: Created
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Blood Hounds
+---
+layout: page
+title: Blood Hounds
+---
 
 | Statistic | Value |
 | --- | --- |

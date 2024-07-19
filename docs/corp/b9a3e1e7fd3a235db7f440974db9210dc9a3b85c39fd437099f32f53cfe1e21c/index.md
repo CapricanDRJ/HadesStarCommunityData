@@ -1,4 +1,7 @@
-# 星舰月球
+---
+layout: page
+title: 星舰月球
+---
 
 | Statistic | Value |
 | --- | --- |

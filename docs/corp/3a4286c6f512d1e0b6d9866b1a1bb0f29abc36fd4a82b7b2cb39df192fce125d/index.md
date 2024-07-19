@@ -1,4 +1,7 @@
-# Hinterm Mond
+---
+layout: page
+title: Hinterm Mond
+---
 
 | Statistic | Value |
 | --- | --- |

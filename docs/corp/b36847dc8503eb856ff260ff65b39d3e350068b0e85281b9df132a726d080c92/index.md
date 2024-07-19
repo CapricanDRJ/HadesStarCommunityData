@@ -1,4 +1,7 @@
-# 华夏太空舰队
+---
+layout: page
+title: 华夏太空舰队
+---
 
 | Statistic | Value |
 | --- | --- |

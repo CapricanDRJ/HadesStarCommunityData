@@ -1,4 +1,7 @@
-# Axiom
+---
+layout: page
+title: Axiom
+---
 
 | Statistic | Value |
 | --- | --- |

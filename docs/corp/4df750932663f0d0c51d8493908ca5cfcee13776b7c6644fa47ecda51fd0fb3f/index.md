@@ -1,4 +1,7 @@
-# ITA 2.0
+---
+layout: page
+title: ITA 2.0
+---
 
 | Statistic | Value |
 | --- | --- |

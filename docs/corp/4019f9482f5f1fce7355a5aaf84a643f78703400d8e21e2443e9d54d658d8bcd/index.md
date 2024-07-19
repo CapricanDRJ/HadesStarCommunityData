@@ -1,4 +1,7 @@
-# Star Conflict
+---
+layout: page
+title: Star Conflict
+---
 
 | Statistic | Value |
 | --- | --- |

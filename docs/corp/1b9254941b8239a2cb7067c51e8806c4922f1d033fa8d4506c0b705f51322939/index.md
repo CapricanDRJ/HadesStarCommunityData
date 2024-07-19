@@ -1,4 +1,7 @@
-# Slovensko-Activ
+---
+layout: page
+title: Slovensko-Activ
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Dark Exodus
+---
+layout: page
+title: Dark Exodus
+---
 
 | Statistic | Value |
 | --- | --- |

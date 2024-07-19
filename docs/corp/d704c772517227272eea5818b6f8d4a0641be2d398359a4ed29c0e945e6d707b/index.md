@@ -1,4 +1,7 @@
-# 希灵帝国
+---
+layout: page
+title: 希灵帝国
+---
 
 | Statistic | Value |
 | --- | --- |

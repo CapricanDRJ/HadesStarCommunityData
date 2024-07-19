@@ -1,4 +1,7 @@
-# Stargate Corp
+---
+layout: page
+title: Stargate Corp
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# диванодавы
+---
+layout: page
+title: диванодавы
+---
 
 | Statistic | Value |
 | --- | --- |

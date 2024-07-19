@@ -1,4 +1,7 @@
-# Corvus Ind.
+---
+layout: page
+title: Corvus Ind.
+---
 
 | Statistic | Value |
 | --- | --- |

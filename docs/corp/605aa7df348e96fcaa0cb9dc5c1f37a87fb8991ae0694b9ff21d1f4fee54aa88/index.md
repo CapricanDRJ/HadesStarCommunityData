@@ -1,4 +1,7 @@
-# Корпорация Миф
+---
+layout: page
+title: Корпорация Миф
+---
 
 | Statistic | Value |
 | --- | --- |

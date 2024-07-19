@@ -1,4 +1,7 @@
-# Red_Coat_Mafia
+---
+layout: page
+title: Red_Coat_Mafia
+---
 
 | Statistic | Value |
 | --- | --- |

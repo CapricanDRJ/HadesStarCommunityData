@@ -1,4 +1,7 @@
-# 아베노노
+---
+layout: page
+title: 아베노노
+---
 
 | Statistic | Value |
 | --- | --- |

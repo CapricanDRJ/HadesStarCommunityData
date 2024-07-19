@@ -1,4 +1,7 @@
-# Sistemaimperial
+---
+layout: page
+title: Sistemaimperial
+---
 
 | Statistic | Value |
 | --- | --- |

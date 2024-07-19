@@ -1,4 +1,7 @@
-# 001-23
+---
+layout: page
+title: 001-23
+---
 
 | Statistic | Value |
 | --- | --- |

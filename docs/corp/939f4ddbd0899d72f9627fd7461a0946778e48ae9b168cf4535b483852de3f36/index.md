@@ -1,4 +1,7 @@
-# Thurn and Taxis
+---
+layout: page
+title: Thurn and Taxis
+---
 
 | Statistic | Value |
 | --- | --- |

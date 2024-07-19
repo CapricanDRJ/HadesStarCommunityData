@@ -1,4 +1,7 @@
-# The Nerd Herd
+---
+layout: page
+title: The Nerd Herd
+---
 
 | Statistic | Value |
 | --- | --- |

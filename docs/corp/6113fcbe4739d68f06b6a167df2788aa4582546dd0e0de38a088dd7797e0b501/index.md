@@ -1,4 +1,7 @@
-# 深空补给港
+---
+layout: page
+title: 深空补给港
+---
 
 | Statistic | Value |
 | --- | --- |

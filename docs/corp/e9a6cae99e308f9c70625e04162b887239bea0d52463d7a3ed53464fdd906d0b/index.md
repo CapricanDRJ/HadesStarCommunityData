@@ -1,4 +1,7 @@
-# The Picard
+---
+layout: page
+title: The Picard
+---
 
 | Statistic | Value |
 | --- | --- |

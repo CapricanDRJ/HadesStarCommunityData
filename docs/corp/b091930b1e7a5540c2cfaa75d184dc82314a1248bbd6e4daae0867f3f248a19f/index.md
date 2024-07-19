@@ -1,4 +1,7 @@
-# Ещё один Миф
+---
+layout: page
+title: Ещё один Миф
+---
 
 | Statistic | Value |
 | --- | --- |

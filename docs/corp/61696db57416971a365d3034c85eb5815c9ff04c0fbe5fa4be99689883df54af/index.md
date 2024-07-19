@@ -1,4 +1,7 @@
-# Ƭιтαηѕ Ф тєʀʀσƦ
+---
+layout: page
+title: Ƭιтαηѕ Ф тєʀʀσƦ
+---
 
 | Statistic | Value |
 | --- | --- |

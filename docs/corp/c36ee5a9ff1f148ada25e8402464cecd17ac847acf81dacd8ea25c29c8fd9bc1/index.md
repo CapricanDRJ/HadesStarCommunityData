@@ -1,4 +1,7 @@
-# SEC
+---
+layout: page
+title: SEC
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Lacuna Ind.
+---
+layout: page
+title: Lacuna Ind.
+---
 
 | Statistic | Value |
 | --- | --- |

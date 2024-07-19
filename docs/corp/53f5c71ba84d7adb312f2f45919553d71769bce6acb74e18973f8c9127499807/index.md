@@ -1,4 +1,7 @@
-# 企鹅帝国
+---
+layout: page
+title: 企鹅帝国
+---
 
 | Statistic | Value |
 | --- | --- |

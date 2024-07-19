@@ -1,4 +1,7 @@
-# Sternenflotte
+---
+layout: page
+title: Sternenflotte
+---
 
 | Statistic | Value |
 | --- | --- |

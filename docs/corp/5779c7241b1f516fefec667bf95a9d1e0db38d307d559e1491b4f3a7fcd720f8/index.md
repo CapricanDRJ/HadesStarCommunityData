@@ -1,4 +1,7 @@
-# Zeta LLC
+---
+layout: page
+title: Zeta LLC
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# 海澜之家
+---
+layout: page
+title: 海澜之家
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# space eagles
+---
+layout: page
+title: space eagles
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Titan Inc.
+---
+layout: page
+title: Titan Inc.
+---
 
 | Statistic | Value |
 | --- | --- |

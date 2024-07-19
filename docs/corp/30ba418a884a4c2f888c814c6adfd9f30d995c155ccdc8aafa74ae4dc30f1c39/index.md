@@ -1,4 +1,7 @@
-# titan tv
+---
+layout: page
+title: titan tv
+---
 
 | Statistic | Value |
 | --- | --- |

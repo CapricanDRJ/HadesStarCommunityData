@@ -1,4 +1,7 @@
-# Ukraine
+---
+layout: page
+title: Ukraine
+---
 
 | Statistic | Value |
 | --- | --- |

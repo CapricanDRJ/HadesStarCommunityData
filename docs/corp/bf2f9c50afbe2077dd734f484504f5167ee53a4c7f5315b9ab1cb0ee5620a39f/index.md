@@ -1,4 +1,7 @@
-# Nebulae Traders
+---
+layout: page
+title: Nebulae Traders
+---
 
 | Statistic | Value |
 | --- | --- |

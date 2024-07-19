@@ -1,4 +1,7 @@
-# Order of Hades
+---
+layout: page
+title: Order of Hades
+---
 
 | Statistic | Value |
 | --- | --- |

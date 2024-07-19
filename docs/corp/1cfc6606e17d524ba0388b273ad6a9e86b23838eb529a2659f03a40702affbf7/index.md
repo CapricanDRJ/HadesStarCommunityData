@@ -1,4 +1,7 @@
-# Lofty Mountain
+---
+layout: page
+title: Lofty Mountain
+---
 
 | Statistic | Value |
 | --- | --- |

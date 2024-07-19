@@ -1,4 +1,7 @@
-# FreeSpcAlliance
+---
+layout: page
+title: FreeSpcAlliance
+---
 
 | Statistic | Value |
 | --- | --- |

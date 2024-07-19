@@ -1,4 +1,7 @@
-# Sussy Coloner
+---
+layout: page
+title: Sussy Coloner
+---
 
 | Statistic | Value |
 | --- | --- |

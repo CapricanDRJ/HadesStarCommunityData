@@ -1,4 +1,7 @@
-# DadCorp
+---
+layout: page
+title: DadCorp
+---
 
 | Statistic | Value |
 | --- | --- |

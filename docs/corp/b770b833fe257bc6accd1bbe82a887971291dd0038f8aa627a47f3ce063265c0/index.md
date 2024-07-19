@@ -1,4 +1,7 @@
-# ЧВК "Котики"
+---
+layout: page
+title: ЧВК "Котики"
+---
 
 | Statistic | Value |
 | --- | --- |

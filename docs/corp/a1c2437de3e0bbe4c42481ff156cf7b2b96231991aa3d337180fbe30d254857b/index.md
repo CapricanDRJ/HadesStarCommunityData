@@ -1,4 +1,7 @@
-# Rogue Hero's
+---
+layout: page
+title: Rogue Hero's
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# 阿尔特拉集团
+---
+layout: page
+title: 阿尔特拉集团
+---
 
 | Statistic | Value |
 | --- | --- |

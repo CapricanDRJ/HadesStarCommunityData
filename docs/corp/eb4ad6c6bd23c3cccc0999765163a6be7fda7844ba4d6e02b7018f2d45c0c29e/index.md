@@ -1,4 +1,7 @@
-# REFOUNDATION 
+---
+layout: page
+title: REFOUNDATION 
+---
 
 | Statistic | Value |
 | --- | --- |

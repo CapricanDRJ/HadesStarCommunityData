@@ -1,4 +1,7 @@
-# Rozen Family
+---
+layout: page
+title: Rozen Family
+---
 
 | Statistic | Value |
 | --- | --- |

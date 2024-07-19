@@ -1,4 +1,7 @@
-# 中国星际联盟·第一自治州
+---
+layout: page
+title: 中国星际联盟·第一自治州
+---
 
 | Statistic | Value |
 | --- | --- |

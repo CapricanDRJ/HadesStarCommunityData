@@ -1,4 +1,7 @@
-# Looping
+---
+layout: page
+title: Looping
+---
 
 | Statistic | Value |
 | --- | --- |

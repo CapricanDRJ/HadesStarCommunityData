@@ -1,4 +1,7 @@
-# АНДРОМЕДА 
+---
+layout: page
+title: АНДРОМЕДА 
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Justice Vengers
+---
+layout: page
+title: Justice Vengers
+---
 
 | Statistic | Value |
 | --- | --- |

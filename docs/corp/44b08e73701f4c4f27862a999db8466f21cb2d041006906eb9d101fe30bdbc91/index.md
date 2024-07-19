@@ -1,4 +1,7 @@
-# ua online
+---
+layout: page
+title: ua online
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Star Fleet
+---
+layout: page
+title: Star Fleet
+---
 
 | Statistic | Value |
 | --- | --- |

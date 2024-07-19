@@ -1,4 +1,7 @@
-# Battle Academy
+---
+layout: page
+title: Battle Academy
+---
 
 | Statistic | Value |
 | --- | --- |

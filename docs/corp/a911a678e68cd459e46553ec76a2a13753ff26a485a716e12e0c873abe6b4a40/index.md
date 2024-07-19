@@ -1,4 +1,7 @@
-# SUSSY IMPOSTER
+---
+layout: page
+title: SUSSY IMPOSTER
+---
 
 | Statistic | Value |
 | --- | --- |

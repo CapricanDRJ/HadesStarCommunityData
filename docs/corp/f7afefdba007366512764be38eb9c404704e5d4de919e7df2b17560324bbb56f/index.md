@@ -1,4 +1,7 @@
-# The Seperatists
+---
+layout: page
+title: The Seperatists
+---
 
 | Statistic | Value |
 | --- | --- |

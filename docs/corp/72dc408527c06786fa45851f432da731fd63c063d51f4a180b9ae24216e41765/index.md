@@ -1,4 +1,7 @@
-# ToC
+---
+layout: page
+title: ToC
+---
 
 | Statistic | Value |
 | --- | --- |

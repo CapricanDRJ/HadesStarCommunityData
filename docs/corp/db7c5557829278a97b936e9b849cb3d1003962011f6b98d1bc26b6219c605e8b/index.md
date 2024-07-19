@@ -1,4 +1,7 @@
-# лезвия тьмы 
+---
+layout: page
+title: лезвия тьмы 
+---
 
 | Statistic | Value |
 | --- | --- |

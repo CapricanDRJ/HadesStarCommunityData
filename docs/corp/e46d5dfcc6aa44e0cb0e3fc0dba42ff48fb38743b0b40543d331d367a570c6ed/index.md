@@ -1,4 +1,7 @@
-# L.B.H.
+---
+layout: page
+title: L.B.H.
+---
 
 | Statistic | Value |
 | --- | --- |

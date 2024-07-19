@@ -1,4 +1,7 @@
-# Galaktika corp
+---
+layout: page
+title: Galaktika corp
+---
 
 | Statistic | Value |
 | --- | --- |

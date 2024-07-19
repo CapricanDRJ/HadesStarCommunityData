@@ -1,4 +1,7 @@
-# The Hexagonix
+---
+layout: page
+title: The Hexagonix
+---
 
 | Statistic | Value |
 | --- | --- |

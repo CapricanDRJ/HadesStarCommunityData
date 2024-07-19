@@ -1,4 +1,7 @@
-# VoidRunners
+---
+layout: page
+title: VoidRunners
+---
 
 | Statistic | Value |
 | --- | --- |

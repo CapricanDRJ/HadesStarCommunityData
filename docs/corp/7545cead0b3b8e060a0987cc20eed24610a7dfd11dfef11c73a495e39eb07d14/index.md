@@ -1,4 +1,7 @@
-# Hand of Legion 
+---
+layout: page
+title: Hand of Legion 
+---
 
 | Statistic | Value |
 | --- | --- |

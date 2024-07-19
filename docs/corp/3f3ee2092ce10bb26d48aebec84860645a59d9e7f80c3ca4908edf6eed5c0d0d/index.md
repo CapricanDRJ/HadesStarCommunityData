@@ -1,4 +1,7 @@
-# Nightmares 
+---
+layout: page
+title: Nightmares 
+---
 
 | Statistic | Value |
 | --- | --- |

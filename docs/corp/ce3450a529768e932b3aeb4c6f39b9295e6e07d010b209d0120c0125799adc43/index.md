@@ -1,4 +1,7 @@
-# R-6 satalite
+---
+layout: page
+title: R-6 satalite
+---
 
 | Statistic | Value |
 | --- | --- |

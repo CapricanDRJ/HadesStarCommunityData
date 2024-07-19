@@ -1,4 +1,7 @@
-# Ws Polaris
+---
+layout: page
+title: Ws Polaris
+---
 
 | Statistic | Value |
 | --- | --- |

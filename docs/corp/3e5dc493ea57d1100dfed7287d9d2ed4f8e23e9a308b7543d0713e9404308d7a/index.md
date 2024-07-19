@@ -1,4 +1,7 @@
-# Tabula Rasa
+---
+layout: page
+title: Tabula Rasa
+---
 
 | Statistic | Value |
 | --- | --- |

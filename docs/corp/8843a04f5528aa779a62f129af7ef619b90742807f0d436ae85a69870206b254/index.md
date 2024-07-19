@@ -1,4 +1,7 @@
-# Valhalla Rising
+---
+layout: page
+title: Valhalla Rising
+---
 
 | Statistic | Value |
 | --- | --- |

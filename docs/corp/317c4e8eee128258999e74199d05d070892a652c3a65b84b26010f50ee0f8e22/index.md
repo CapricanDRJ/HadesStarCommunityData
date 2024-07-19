@@ -1,4 +1,7 @@
-# t 72 SwiftKey F
+---
+layout: page
+title: t 72 SwiftKey F
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Space Anomalies
+---
+layout: page
+title: Space Anomalies
+---
 
 | Statistic | Value |
 | --- | --- |

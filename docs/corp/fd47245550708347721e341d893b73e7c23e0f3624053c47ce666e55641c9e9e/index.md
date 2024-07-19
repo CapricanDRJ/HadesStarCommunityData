@@ -1,4 +1,7 @@
-# Nine's Own Goal
+---
+layout: page
+title: Nine's Own Goal
+---
 
 | Statistic | Value |
 | --- | --- |

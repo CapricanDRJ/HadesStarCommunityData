@@ -1,4 +1,7 @@
-# Regulus
+---
+layout: page
+title: Regulus
+---
 
 | Statistic | Value |
 | --- | --- |

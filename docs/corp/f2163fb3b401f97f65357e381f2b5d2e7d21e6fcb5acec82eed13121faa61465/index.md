@@ -1,4 +1,7 @@
-# Starbond
+---
+layout: page
+title: Starbond
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Imperio Nova
+---
+layout: page
+title: Imperio Nova
+---
 
 | Statistic | Value |
 | --- | --- |

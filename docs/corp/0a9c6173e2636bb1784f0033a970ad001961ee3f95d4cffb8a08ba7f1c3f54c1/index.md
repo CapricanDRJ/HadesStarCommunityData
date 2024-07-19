@@ -1,4 +1,7 @@
-# STAR EMPIRE 16
+---
+layout: page
+title: STAR EMPIRE 16
+---
 
 | Statistic | Value |
 | --- | --- |

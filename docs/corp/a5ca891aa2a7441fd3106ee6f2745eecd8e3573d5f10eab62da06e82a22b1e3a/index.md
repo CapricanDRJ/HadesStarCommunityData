@@ -1,4 +1,7 @@
-# 泰拉瑞亚
+---
+layout: page
+title: 泰拉瑞亚
+---
 
 | Statistic | Value |
 | --- | --- |

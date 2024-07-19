@@ -1,4 +1,7 @@
-# Belters
+---
+layout: page
+title: Belters
+---
 
 | Statistic | Value |
 | --- | --- |

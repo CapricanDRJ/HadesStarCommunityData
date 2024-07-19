@@ -1,4 +1,7 @@
-# Retarts
+---
+layout: page
+title: Retarts
+---
 
 | Statistic | Value |
 | --- | --- |

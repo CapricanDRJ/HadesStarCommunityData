@@ -1,4 +1,7 @@
-# SUN OF 3LANDS
+---
+layout: page
+title: SUN OF 3LANDS
+---
 
 | Statistic | Value |
 | --- | --- |

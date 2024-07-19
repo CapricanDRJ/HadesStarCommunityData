@@ -1,4 +1,7 @@
-# Pixies
+---
+layout: page
+title: Pixies
+---
 
 | Statistic | Value |
 | --- | --- |

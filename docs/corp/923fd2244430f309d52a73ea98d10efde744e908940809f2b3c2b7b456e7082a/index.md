@@ -1,4 +1,7 @@
-# 27rus
+---
+layout: page
+title: 27rus
+---
 
 | Statistic | Value |
 | --- | --- |

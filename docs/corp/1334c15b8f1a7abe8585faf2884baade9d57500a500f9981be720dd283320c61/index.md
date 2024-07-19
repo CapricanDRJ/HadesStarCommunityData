@@ -1,4 +1,7 @@
-# ComInterns
+---
+layout: page
+title: ComInterns
+---
 
 | Statistic | Value |
 | --- | --- |

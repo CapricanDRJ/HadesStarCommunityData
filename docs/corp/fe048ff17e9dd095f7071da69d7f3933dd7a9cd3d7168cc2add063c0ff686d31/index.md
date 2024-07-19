@@ -1,4 +1,7 @@
-# ●Black•Sails●
+---
+layout: page
+title: ●Black•Sails●
+---
 
 | Statistic | Value |
 | --- | --- |

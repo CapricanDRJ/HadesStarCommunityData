@@ -1,4 +1,7 @@
-# icell
+---
+layout: page
+title: icell
+---
 
 | Statistic | Value |
 | --- | --- |

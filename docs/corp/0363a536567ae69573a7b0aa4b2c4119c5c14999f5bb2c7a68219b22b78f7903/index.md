@@ -1,4 +1,7 @@
-# Forces of Light
+---
+layout: page
+title: Forces of Light
+---
 
 | Statistic | Value |
 | --- | --- |

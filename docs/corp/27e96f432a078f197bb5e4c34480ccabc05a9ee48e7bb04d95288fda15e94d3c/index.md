@@ -1,4 +1,7 @@
-# Últimafronteira
+---
+layout: page
+title: Últimafronteira
+---
 
 | Statistic | Value |
 | --- | --- |

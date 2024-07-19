@@ -1,4 +1,7 @@
-# O.E.B.
+---
+layout: page
+title: O.E.B.
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# 普罗米修斯
+---
+layout: page
+title: 普罗米修斯
+---
 
 | Statistic | Value |
 | --- | --- |

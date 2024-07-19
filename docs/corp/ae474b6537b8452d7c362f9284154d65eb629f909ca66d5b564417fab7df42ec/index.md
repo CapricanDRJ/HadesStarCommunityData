@@ -1,4 +1,7 @@
-# Lost City Corp.
+---
+layout: page
+title: Lost City Corp.
+---
 
 | Statistic | Value |
 | --- | --- |

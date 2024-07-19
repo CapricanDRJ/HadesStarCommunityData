@@ -1,4 +1,7 @@
-# IMPERIAL ARMADA
+---
+layout: page
+title: IMPERIAL ARMADA
+---
 
 | Statistic | Value |
 | --- | --- |

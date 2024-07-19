@@ -1,4 +1,7 @@
-# Новый ЭДЭМ
+---
+layout: page
+title: Новый ЭДЭМ
+---
 
 | Statistic | Value |
 | --- | --- |

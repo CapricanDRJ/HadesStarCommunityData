@@ -1,4 +1,7 @@
-# Wehrmacht
+---
+layout: page
+title: Wehrmacht
+---
 
 | Statistic | Value |
 | --- | --- |

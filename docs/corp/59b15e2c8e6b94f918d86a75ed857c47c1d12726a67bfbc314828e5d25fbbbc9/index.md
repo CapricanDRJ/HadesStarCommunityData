@@ -1,4 +1,7 @@
-# ..D.E.I.T.Co..
+---
+layout: page
+title: ..D.E.I.T.Co..
+---
 
 | Statistic | Value |
 | --- | --- |

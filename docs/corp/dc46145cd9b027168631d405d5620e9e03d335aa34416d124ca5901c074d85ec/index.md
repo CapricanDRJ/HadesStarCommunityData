@@ -1,4 +1,7 @@
-# OntarioDistrict
+---
+layout: page
+title: OntarioDistrict
+---
 
 | Statistic | Value |
 | --- | --- |

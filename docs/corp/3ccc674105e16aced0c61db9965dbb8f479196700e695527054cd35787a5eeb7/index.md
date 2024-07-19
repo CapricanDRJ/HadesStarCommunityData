@@ -1,4 +1,7 @@
-# CODEX IMPERIUS
+---
+layout: page
+title: CODEX IMPERIUS
+---
 
 | Statistic | Value |
 | --- | --- |

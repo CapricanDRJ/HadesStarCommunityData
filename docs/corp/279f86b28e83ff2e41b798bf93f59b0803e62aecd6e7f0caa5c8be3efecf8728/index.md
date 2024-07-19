@@ -1,4 +1,7 @@
-# The Foundation
+---
+layout: page
+title: The Foundation
+---
 
 | Statistic | Value |
 | --- | --- |

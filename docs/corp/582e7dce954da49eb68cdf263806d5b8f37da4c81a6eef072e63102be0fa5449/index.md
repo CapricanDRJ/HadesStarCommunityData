@@ -1,4 +1,7 @@
-# Argentina 1.0
+---
+layout: page
+title: Argentina 1.0
+---
 
 | Statistic | Value |
 | --- | --- |

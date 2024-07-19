@@ -1,4 +1,7 @@
-# 日月星辰
+---
+layout: page
+title: 日月星辰
+---
 
 | Statistic | Value |
 | --- | --- |

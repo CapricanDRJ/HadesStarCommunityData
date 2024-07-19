@@ -1,4 +1,7 @@
-# Октябристы
+---
+layout: page
+title: Октябристы
+---
 
 | Statistic | Value |
 | --- | --- |

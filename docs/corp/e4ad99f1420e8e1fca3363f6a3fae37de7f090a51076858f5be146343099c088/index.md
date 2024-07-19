@@ -1,4 +1,7 @@
-# Gemini↕     ☁
+---
+layout: page
+title: Gemini↕     ☁
+---
 
 | Statistic | Value |
 | --- | --- |

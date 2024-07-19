@@ -1,4 +1,7 @@
-# Antioch
+---
+layout: page
+title: Antioch
+---
 
 | Statistic | Value |
 | --- | --- |

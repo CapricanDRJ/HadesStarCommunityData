@@ -1,4 +1,7 @@
-# Moon Catchers
+---
+layout: page
+title: Moon Catchers
+---
 
 | Statistic | Value |
 | --- | --- |

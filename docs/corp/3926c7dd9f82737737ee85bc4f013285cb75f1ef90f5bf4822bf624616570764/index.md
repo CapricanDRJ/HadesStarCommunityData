@@ -1,4 +1,7 @@
-# Любители Пива
+---
+layout: page
+title: Любители Пива
+---
 
 | Statistic | Value |
 | --- | --- |

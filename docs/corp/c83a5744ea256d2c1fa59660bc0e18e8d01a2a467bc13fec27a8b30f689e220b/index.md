@@ -1,4 +1,7 @@
-# SiriusStrawMoo
+---
+layout: page
+title: SiriusStrawMoo
+---
 
 | Statistic | Value |
 | --- | --- |

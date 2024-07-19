@@ -1,4 +1,7 @@
-# Hungary First
+---
+layout: page
+title: Hungary First
+---
 
 | Statistic | Value |
 | --- | --- |

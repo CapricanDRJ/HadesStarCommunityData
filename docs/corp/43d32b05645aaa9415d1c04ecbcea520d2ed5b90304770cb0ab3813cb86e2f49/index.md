@@ -1,4 +1,7 @@
-# 붉은늑대
+---
+layout: page
+title: 붉은늑대
+---
 
 | Statistic | Value |
 | --- | --- |

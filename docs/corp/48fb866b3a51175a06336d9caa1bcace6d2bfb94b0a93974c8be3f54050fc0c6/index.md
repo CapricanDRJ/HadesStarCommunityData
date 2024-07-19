@@ -1,4 +1,7 @@
-# Свободный флот
+---
+layout: page
+title: Свободный флот
+---
 
 | Statistic | Value |
 | --- | --- |

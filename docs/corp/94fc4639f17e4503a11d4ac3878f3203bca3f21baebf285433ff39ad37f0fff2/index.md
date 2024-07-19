@@ -1,4 +1,7 @@
-# BRASIL STAR
+---
+layout: page
+title: BRASIL STAR
+---
 
 | Statistic | Value |
 | --- | --- |

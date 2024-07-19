@@ -1,4 +1,7 @@
-# Toxic
+---
+layout: page
+title: Toxic
+---
 
 | Statistic | Value |
 | --- | --- |

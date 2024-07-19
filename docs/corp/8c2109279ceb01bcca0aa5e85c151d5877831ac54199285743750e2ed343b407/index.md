@@ -1,4 +1,7 @@
-# 绛紫星
+---
+layout: page
+title: 绛紫星
+---
 
 | Statistic | Value |
 | --- | --- |

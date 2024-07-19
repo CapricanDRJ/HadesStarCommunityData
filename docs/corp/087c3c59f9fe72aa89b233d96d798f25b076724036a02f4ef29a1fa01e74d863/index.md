@@ -1,4 +1,7 @@
-# Mass Effect
+---
+layout: page
+title: Mass Effect
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-#  墨痕 
+---
+layout: page
+title:  墨痕 
+---
 
 | Statistic | Value |
 | --- | --- |

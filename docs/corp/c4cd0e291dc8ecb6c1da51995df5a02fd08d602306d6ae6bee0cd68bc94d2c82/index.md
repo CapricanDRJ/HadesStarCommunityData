@@ -1,4 +1,7 @@
-# USA Corp
+---
+layout: page
+title: USA Corp
+---
 
 | Statistic | Value |
 | --- | --- |

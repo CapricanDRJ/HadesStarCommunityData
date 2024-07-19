@@ -1,4 +1,7 @@
-# Solysis
+---
+layout: page
+title: Solysis
+---
 
 | Statistic | Value |
 | --- | --- |

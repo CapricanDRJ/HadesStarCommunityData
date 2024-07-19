@@ -1,4 +1,7 @@
-# UNSC
+---
+layout: page
+title: UNSC
+---
 
 | Statistic | Value |
 | --- | --- |

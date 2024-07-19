@@ -1,4 +1,7 @@
-# 九州分团
+---
+layout: page
+title: 九州分团
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Warriors
+---
+layout: page
+title: Warriors
+---
 
 | Statistic | Value |
 | --- | --- |

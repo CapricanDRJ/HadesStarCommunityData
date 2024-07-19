@@ -1,4 +1,7 @@
-# Atlas SLV-1
+---
+layout: page
+title: Atlas SLV-1
+---
 
 | Statistic | Value |
 | --- | --- |

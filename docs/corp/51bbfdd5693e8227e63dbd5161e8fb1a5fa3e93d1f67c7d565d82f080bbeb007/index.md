@@ -1,4 +1,7 @@
-# Corporation
+---
+layout: page
+title: Corporation
+---
 
 | Statistic | Value |
 | --- | --- |

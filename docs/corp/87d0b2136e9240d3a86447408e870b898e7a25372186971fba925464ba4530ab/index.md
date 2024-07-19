@@ -1,4 +1,7 @@
-# GALACTIC EMPIRE
+---
+layout: page
+title: GALACTIC EMPIRE
+---
 
 | Statistic | Value |
 | --- | --- |

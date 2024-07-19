@@ -1,4 +1,7 @@
-# HerronCorp
+---
+layout: page
+title: HerronCorp
+---
 
 | Statistic | Value |
 | --- | --- |

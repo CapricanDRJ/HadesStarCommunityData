@@ -1,4 +1,7 @@
-# La resistencia
+---
+layout: page
+title: La resistencia
+---
 
 | Statistic | Value |
 | --- | --- |

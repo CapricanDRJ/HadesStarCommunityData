@@ -1,4 +1,7 @@
-# МеГаКо
+---
+layout: page
+title: МеГаКо
+---
 
 | Statistic | Value |
 | --- | --- |

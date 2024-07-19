@@ -1,4 +1,7 @@
-# U.S.A
+---
+layout: page
+title: U.S.A
+---
 
 | Statistic | Value |
 | --- | --- |

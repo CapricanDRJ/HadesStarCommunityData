@@ -1,4 +1,7 @@
-# Eternal empire 
+---
+layout: page
+title: Eternal empire 
+---
 
 | Statistic | Value |
 | --- | --- |

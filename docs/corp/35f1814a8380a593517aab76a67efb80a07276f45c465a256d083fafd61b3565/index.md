@@ -1,4 +1,7 @@
-# WTF
+---
+layout: page
+title: WTF
+---
 
 | Statistic | Value |
 | --- | --- |

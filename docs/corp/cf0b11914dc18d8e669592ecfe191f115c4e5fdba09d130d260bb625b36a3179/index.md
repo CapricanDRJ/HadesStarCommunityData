@@ -1,4 +1,7 @@
-# 四季长春
+---
+layout: page
+title: 四季长春
+---
 
 | Statistic | Value |
 | --- | --- |

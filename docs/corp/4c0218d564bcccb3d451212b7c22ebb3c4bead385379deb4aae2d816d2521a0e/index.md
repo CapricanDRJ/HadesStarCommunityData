@@ -1,4 +1,7 @@
-#  星空漫游者-GR
+---
+layout: page
+title:  星空漫游者-GR
+---
 
 | Statistic | Value |
 | --- | --- |

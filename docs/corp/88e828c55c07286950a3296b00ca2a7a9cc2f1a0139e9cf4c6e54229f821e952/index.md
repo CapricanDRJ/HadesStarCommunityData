@@ -1,4 +1,7 @@
-# 使命白星
+---
+layout: page
+title: 使命白星
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Battlestar Fr
+---
+layout: page
+title: Battlestar Fr
+---
 
 | Statistic | Value |
 | --- | --- |

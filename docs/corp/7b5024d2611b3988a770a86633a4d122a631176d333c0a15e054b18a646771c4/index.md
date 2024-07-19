@@ -1,4 +1,7 @@
-# ⚜NOVA⚜
+---
+layout: page
+title: ⚜NOVA⚜
+---
 
 | Statistic | Value |
 | --- | --- |

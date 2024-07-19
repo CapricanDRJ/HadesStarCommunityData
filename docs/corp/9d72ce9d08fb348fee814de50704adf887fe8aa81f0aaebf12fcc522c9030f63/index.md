@@ -1,4 +1,7 @@
-# Феникс 
+---
+layout: page
+title: Феникс 
+---
 
 | Statistic | Value |
 | --- | --- |

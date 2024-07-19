@@ -1,4 +1,7 @@
-# Вселенские 40%
+---
+layout: page
+title: Вселенские 40%
+---
 
 | Statistic | Value |
 | --- | --- |

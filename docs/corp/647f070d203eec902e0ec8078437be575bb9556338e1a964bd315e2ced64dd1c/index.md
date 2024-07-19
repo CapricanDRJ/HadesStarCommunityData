@@ -1,4 +1,7 @@
-# 特拉斯丁第二共和国
+---
+layout: page
+title: 特拉斯丁第二共和国
+---
 
 | Statistic | Value |
 | --- | --- |

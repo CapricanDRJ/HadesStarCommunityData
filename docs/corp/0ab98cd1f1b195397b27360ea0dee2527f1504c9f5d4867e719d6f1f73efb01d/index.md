@@ -1,4 +1,7 @@
-# Grunthal Gang
+---
+layout: page
+title: Grunthal Gang
+---
 
 | Statistic | Value |
 | --- | --- |

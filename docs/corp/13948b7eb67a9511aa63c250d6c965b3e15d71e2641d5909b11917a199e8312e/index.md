@@ -1,4 +1,7 @@
-#  Eligius 
+---
+layout: page
+title:  Eligius 
+---
 
 | Statistic | Value |
 | --- | --- |

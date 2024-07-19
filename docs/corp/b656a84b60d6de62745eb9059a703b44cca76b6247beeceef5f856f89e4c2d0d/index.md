@@ -1,4 +1,7 @@
-# Peak Extraction
+---
+layout: page
+title: Peak Extraction
+---
 
 | Statistic | Value |
 | --- | --- |

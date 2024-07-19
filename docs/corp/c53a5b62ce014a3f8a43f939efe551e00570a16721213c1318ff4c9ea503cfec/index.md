@@ -1,4 +1,7 @@
-# Space Pirate
+---
+layout: page
+title: Space Pirate
+---
 
 | Statistic | Value |
 | --- | --- |

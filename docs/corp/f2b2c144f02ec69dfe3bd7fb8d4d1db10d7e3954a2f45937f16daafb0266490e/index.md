@@ -1,4 +1,7 @@
-# 한국인
+---
+layout: page
+title: 한국인
+---
 
 | Statistic | Value |
 | --- | --- |

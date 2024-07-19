@@ -1,4 +1,7 @@
-# BlakkFlot
+---
+layout: page
+title: BlakkFlot
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Держава Русь
+---
+layout: page
+title: Держава Русь
+---
 
 | Statistic | Value |
 | --- | --- |

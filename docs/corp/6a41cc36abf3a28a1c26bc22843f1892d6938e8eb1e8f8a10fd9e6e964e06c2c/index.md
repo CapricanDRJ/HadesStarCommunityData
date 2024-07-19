@@ -1,4 +1,7 @@
-# Space Marshalls
+---
+layout: page
+title: Space Marshalls
+---
 
 | Statistic | Value |
 | --- | --- |

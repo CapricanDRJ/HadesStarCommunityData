@@ -1,4 +1,7 @@
-#  RELAX CZ/SK
+---
+layout: page
+title:  RELAX CZ/SK
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Orphans Of Kos
+---
+layout: page
+title: Orphans Of Kos
+---
 
 | Statistic | Value |
 | --- | --- |

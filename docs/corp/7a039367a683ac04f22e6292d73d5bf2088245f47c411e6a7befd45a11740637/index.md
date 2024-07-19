@@ -1,4 +1,7 @@
-# Elite2.0
+---
+layout: page
+title: Elite2.0
+---
 
 | Statistic | Value |
 | --- | --- |

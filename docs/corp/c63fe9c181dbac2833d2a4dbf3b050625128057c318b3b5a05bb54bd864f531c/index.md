@@ -1,4 +1,7 @@
-# 华夏航队
+---
+layout: page
+title: 华夏航队
+---
 
 | Statistic | Value |
 | --- | --- |

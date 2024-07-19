@@ -1,4 +1,7 @@
-# Скричеры
+---
+layout: page
+title: Скричеры
+---
 
 | Statistic | Value |
 | --- | --- |

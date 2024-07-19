@@ -1,4 +1,7 @@
-# Discordia
+---
+layout: page
+title: Discordia
+---
 
 | Statistic | Value |
 | --- | --- |

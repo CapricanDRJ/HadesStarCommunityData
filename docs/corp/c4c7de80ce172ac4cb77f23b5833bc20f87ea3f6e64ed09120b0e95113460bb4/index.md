@@ -1,4 +1,7 @@
-# imperio estelar
+---
+layout: page
+title: imperio estelar
+---
 
 | Statistic | Value |
 | --- | --- |

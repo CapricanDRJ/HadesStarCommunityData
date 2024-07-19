@@ -1,4 +1,7 @@
-# New Star
+---
+layout: page
+title: New Star
+---
 
 | Statistic | Value |
 | --- | --- |

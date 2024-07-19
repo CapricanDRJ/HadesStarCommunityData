@@ -1,4 +1,7 @@
-# Space Marine
+---
+layout: page
+title: Space Marine
+---
 
 | Statistic | Value |
 | --- | --- |

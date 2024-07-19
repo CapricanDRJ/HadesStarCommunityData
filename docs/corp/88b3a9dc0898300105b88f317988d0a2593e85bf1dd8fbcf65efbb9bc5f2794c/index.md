@@ -1,4 +1,7 @@
-# Dark Rangers
+---
+layout: page
+title: Dark Rangers
+---
 
 | Statistic | Value |
 | --- | --- |

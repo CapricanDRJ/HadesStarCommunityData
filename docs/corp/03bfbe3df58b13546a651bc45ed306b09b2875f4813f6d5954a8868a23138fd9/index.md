@@ -1,4 +1,7 @@
-# Urban Legends
+---
+layout: page
+title: Urban Legends
+---
 
 | Statistic | Value |
 | --- | --- |

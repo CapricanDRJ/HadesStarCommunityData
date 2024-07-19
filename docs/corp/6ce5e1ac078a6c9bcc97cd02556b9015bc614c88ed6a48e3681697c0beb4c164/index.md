@@ -1,4 +1,7 @@
-# Saiyan Empire
+---
+layout: page
+title: Saiyan Empire
+---
 
 | Statistic | Value |
 | --- | --- |

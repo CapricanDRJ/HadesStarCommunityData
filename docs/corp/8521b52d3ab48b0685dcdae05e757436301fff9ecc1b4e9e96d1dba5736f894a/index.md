@@ -1,4 +1,7 @@
-# 中国星系集团
+---
+layout: page
+title: 中国星系集团
+---
 
 | Statistic | Value |
 | --- | --- |

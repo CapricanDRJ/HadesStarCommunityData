@@ -1,4 +1,7 @@
-# The trade pub
+---
+layout: page
+title: The trade pub
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# 宇宙联盟（中国）
+---
+layout: page
+title: 宇宙联盟（中国）
+---
 
 | Statistic | Value |
 | --- | --- |

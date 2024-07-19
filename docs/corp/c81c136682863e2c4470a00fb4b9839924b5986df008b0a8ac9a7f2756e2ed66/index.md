@@ -1,4 +1,7 @@
-# The Base
+---
+layout: page
+title: The Base
+---
 
 | Statistic | Value |
 | --- | --- |

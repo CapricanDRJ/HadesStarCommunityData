@@ -1,4 +1,7 @@
-# Sanctuary
+---
+layout: page
+title: Sanctuary
+---
 
 | Statistic | Value |
 | --- | --- |

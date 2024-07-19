@@ -1,4 +1,7 @@
-# Out landers
+---
+layout: page
+title: Out landers
+---
 
 | Statistic | Value |
 | --- | --- |

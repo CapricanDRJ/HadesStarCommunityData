@@ -1,4 +1,7 @@
-# Dreckiger Rest
+---
+layout: page
+title: Dreckiger Rest
+---
 
 | Statistic | Value |
 | --- | --- |

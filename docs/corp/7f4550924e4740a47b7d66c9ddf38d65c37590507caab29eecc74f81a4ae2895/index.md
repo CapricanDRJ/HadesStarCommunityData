@@ -1,4 +1,7 @@
-# DeutschlandGmbH
+---
+layout: page
+title: DeutschlandGmbH
+---
 
 | Statistic | Value |
 | --- | --- |

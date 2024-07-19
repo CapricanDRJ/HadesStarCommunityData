@@ -1,4 +1,7 @@
-# 두빛나래
+---
+layout: page
+title: 두빛나래
+---
 
 | Statistic | Value |
 | --- | --- |

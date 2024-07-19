@@ -1,4 +1,7 @@
-# nebulous
+---
+layout: page
+title: nebulous
+---
 
 | Statistic | Value |
 | --- | --- |

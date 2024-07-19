@@ -1,4 +1,7 @@
-# 专业间谍团队
+---
+layout: page
+title: 专业间谍团队
+---
 
 | Statistic | Value |
 | --- | --- |

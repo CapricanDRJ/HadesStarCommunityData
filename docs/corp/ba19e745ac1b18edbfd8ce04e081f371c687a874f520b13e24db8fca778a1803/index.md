@@ -1,4 +1,7 @@
-# MicroNova
+---
+layout: page
+title: MicroNova
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Paramedic ICU
+---
+layout: page
+title: Paramedic ICU
+---
 
 | Statistic | Value |
 | --- | --- |

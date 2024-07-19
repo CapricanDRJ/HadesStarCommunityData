@@ -1,4 +1,7 @@
-# Veteran's Haven
+---
+layout: page
+title: Veteran's Haven
+---
 
 | Statistic | Value |
 | --- | --- |

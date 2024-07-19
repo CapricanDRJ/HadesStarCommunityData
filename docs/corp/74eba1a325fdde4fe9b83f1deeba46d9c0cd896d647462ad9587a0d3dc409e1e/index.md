@@ -1,4 +1,7 @@
-# ВЕЧНОСТЬ
+---
+layout: page
+title: ВЕЧНОСТЬ
+---
 
 | Statistic | Value |
 | --- | --- |

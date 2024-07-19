@@ -1,4 +1,7 @@
-# Industrial W.O
+---
+layout: page
+title: Industrial W.O
+---
 
 | Statistic | Value |
 | --- | --- |

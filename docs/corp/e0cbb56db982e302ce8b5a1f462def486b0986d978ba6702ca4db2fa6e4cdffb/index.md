@@ -1,4 +1,7 @@
-# Anti union
+---
+layout: page
+title: Anti union
+---
 
 | Statistic | Value |
 | --- | --- |

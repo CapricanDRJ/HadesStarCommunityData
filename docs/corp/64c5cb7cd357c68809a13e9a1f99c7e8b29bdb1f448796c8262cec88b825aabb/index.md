@@ -1,4 +1,7 @@
-# РОДНЫЕ.
+---
+layout: page
+title: РОДНЫЕ.
+---
 
 | Statistic | Value |
 | --- | --- |

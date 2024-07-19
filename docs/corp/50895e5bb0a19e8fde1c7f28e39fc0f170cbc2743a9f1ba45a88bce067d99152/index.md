@@ -1,4 +1,7 @@
-# Space Donuts
+---
+layout: page
+title: Space Donuts
+---
 
 | Statistic | Value |
 | --- | --- |

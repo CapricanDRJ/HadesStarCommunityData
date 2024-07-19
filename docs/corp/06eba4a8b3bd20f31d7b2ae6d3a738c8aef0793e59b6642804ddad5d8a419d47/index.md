@@ -1,4 +1,7 @@
-# Time Lords
+---
+layout: page
+title: Time Lords
+---
 
 | Statistic | Value |
 | --- | --- |

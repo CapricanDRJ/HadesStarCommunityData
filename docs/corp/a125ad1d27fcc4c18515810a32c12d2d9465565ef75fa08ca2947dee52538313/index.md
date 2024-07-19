@@ -1,4 +1,7 @@
-# Rocket-by Baby
+---
+layout: page
+title: Rocket-by Baby
+---
 
 | Statistic | Value |
 | --- | --- |

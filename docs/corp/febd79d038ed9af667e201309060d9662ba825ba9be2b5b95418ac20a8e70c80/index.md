@@ -1,4 +1,7 @@
-# Ark
+---
+layout: page
+title: Ark
+---
 
 | Statistic | Value |
 | --- | --- |

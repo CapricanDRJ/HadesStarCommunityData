@@ -1,4 +1,7 @@
-# Greek Warriors
+---
+layout: page
+title: Greek Warriors
+---
 
 | Statistic | Value |
 | --- | --- |

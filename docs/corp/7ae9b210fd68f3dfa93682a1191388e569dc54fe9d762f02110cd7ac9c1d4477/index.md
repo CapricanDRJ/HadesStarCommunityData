@@ -1,4 +1,7 @@
-# Rogue One
+---
+layout: page
+title: Rogue One
+---
 
 | Statistic | Value |
 | --- | --- |

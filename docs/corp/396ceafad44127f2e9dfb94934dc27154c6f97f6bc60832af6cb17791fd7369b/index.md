@@ -1,4 +1,7 @@
-# Vega Conflict
+---
+layout: page
+title: Vega Conflict
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Dark Training
+---
+layout: page
+title: Dark Training
+---
 
 | Statistic | Value |
 | --- | --- |

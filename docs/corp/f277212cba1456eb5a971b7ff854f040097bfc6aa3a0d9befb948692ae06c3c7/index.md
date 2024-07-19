@@ -1,4 +1,7 @@
-# Saggitarius A
+---
+layout: page
+title: Saggitarius A
+---
 
 | Statistic | Value |
 | --- | --- |

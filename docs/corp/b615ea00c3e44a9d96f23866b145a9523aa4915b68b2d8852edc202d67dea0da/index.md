@@ -1,4 +1,7 @@
-# Southall 1
+---
+layout: page
+title: Southall 1
+---
 
 | Statistic | Value |
 | --- | --- |

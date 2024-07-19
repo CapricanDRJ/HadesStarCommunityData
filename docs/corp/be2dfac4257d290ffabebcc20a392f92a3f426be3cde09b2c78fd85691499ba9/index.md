@@ -1,4 +1,7 @@
-# 暮光之城
+---
+layout: page
+title: 暮光之城
+---
 
 | Statistic | Value |
 | --- | --- |

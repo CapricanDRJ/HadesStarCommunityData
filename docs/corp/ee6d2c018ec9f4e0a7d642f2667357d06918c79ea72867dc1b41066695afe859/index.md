@@ -1,4 +1,7 @@
-# Макароны V1.0
+---
+layout: page
+title: Макароны V1.0
+---
 
 | Statistic | Value |
 | --- | --- |

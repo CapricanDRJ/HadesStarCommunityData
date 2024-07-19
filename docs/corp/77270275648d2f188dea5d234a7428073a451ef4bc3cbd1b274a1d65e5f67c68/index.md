@@ -1,4 +1,7 @@
-# Final
+---
+layout: page
+title: Final
+---
 
 | Statistic | Value |
 | --- | --- |

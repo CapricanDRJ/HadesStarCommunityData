@@ -1,4 +1,7 @@
-# 日中連合
+---
+layout: page
+title: 日中連合
+---
 
 | Statistic | Value |
 | --- | --- |

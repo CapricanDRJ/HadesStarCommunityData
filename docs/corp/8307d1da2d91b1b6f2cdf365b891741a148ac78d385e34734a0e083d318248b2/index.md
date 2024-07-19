@@ -1,4 +1,7 @@
-# FėniX•
+---
+layout: page
+title: FėniX•
+---
 
 | Statistic | Value |
 | --- | --- |

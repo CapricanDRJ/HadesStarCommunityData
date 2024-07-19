@@ -1,4 +1,7 @@
-# Starsailors
+---
+layout: page
+title: Starsailors
+---
 
 | Statistic | Value |
 | --- | --- |

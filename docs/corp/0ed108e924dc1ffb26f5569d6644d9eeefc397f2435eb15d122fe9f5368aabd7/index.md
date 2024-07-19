@@ -1,4 +1,7 @@
-# Ночные Львы
+---
+layout: page
+title: Ночные Львы
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# 德尔塔星舰联盟
+---
+layout: page
+title: 德尔塔星舰联盟
+---
 
 | Statistic | Value |
 | --- | --- |

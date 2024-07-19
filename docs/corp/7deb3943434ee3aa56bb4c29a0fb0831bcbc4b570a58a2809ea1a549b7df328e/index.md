@@ -1,4 +1,7 @@
-# Sith Empire
+---
+layout: page
+title: Sith Empire
+---
 
 | Statistic | Value |
 | --- | --- |

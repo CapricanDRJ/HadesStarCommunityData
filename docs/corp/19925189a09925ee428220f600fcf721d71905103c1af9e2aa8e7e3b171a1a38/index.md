@@ -1,4 +1,7 @@
-# First Legion
+---
+layout: page
+title: First Legion
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# koalition
+---
+layout: page
+title: koalition
+---
 
 | Statistic | Value |
 | --- | --- |

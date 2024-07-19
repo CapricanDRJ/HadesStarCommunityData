@@ -1,4 +1,7 @@
-# Sprite
+---
+layout: page
+title: Sprite
+---
 
 | Statistic | Value |
 | --- | --- |

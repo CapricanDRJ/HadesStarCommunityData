@@ -1,4 +1,7 @@
-# CAEDRUS [<o>]
+---
+layout: page
+title: CAEDRUS [<o>]
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# 星环建设集团
+---
+layout: page
+title: 星环建设集团
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Likapa
+---
+layout: page
+title: Likapa
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Int. Trading Co
+---
+layout: page
+title: Int. Trading Co
+---
 
 | Statistic | Value |
 | --- | --- |

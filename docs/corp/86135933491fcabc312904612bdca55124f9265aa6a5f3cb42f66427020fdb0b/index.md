@@ -1,4 +1,7 @@
-# Newbs
+---
+layout: page
+title: Newbs
+---
 
 | Statistic | Value |
 | --- | --- |

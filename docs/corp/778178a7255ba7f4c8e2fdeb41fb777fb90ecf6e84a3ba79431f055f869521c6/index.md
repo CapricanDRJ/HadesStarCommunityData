@@ -1,4 +1,7 @@
-# Crucible 
+---
+layout: page
+title: Crucible 
+---
 
 | Statistic | Value |
 | --- | --- |

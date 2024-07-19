@@ -1,4 +1,7 @@
-# 第四星际
+---
+layout: page
+title: 第四星际
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Space Rangers
+---
+layout: page
+title: Space Rangers
+---
 
 | Statistic | Value |
 | --- | --- |

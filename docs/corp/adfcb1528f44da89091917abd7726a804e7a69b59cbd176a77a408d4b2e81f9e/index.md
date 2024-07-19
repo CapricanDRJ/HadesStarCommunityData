@@ -1,4 +1,7 @@
-# Imperio Lie Yan
+---
+layout: page
+title: Imperio Lie Yan
+---
 
 | Statistic | Value |
 | --- | --- |

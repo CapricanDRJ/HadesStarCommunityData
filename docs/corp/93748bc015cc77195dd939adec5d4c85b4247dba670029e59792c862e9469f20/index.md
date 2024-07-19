@@ -1,4 +1,7 @@
-# Наша Вселенная
+---
+layout: page
+title: Наша Вселенная
+---
 
 | Statistic | Value |
 | --- | --- |

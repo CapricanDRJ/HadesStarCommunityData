@@ -1,4 +1,7 @@
-# Galactic Trade
+---
+layout: page
+title: Galactic Trade
+---
 
 | Statistic | Value |
 | --- | --- |

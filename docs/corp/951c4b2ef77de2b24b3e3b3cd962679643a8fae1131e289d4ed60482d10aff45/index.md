@@ -1,4 +1,7 @@
-# Simply Uranus
+---
+layout: page
+title: Simply Uranus
+---
 
 | Statistic | Value |
 | --- | --- |

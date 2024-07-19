@@ -1,4 +1,7 @@
-# TAKE IT DEEP
+---
+layout: page
+title: TAKE IT DEEP
+---
 
 | Statistic | Value |
 | --- | --- |

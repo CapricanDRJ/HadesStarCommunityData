@@ -1,4 +1,7 @@
-# 花鸟市场
+---
+layout: page
+title: 花鸟市场
+---
 
 | Statistic | Value |
 | --- | --- |

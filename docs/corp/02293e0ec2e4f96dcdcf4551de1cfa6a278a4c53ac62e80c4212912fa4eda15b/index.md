@@ -1,4 +1,7 @@
-# White Dwarf
+---
+layout: page
+title: White Dwarf
+---
 
 | Statistic | Value |
 | --- | --- |

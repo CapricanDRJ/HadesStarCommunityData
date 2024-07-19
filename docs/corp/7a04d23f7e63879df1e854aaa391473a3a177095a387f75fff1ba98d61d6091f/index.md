@@ -1,4 +1,7 @@
-# StellarCorpIT
+---
+layout: page
+title: StellarCorpIT
+---
 
 | Statistic | Value |
 | --- | --- |

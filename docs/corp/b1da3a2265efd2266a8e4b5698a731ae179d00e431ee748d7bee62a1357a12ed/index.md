@@ -1,4 +1,7 @@
-# *Alfa y Omega*
+---
+layout: page
+title: *Alfa y Omega*
+---
 
 | Statistic | Value |
 | --- | --- |

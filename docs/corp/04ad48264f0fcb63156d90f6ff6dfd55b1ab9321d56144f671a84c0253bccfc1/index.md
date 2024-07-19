@@ -1,4 +1,7 @@
-# Space Scourge
+---
+layout: page
+title: Space Scourge
+---
 
 | Statistic | Value |
 | --- | --- |

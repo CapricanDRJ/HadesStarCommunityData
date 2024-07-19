@@ -1,4 +1,7 @@
-# Phoenix corp
+---
+layout: page
+title: Phoenix corp
+---
 
 | Statistic | Value |
 | --- | --- |

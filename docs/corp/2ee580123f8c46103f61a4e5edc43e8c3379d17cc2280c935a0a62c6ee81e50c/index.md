@@ -1,4 +1,7 @@
-# 德意志联邦集团
+---
+layout: page
+title: 德意志联邦集团
+---
 
 | Statistic | Value |
 | --- | --- |

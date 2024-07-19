@@ -1,4 +1,7 @@
-# Lost Legion
+---
+layout: page
+title: Lost Legion
+---
 
 | Statistic | Value |
 | --- | --- |

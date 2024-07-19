@@ -1,4 +1,7 @@
-# BlankBoosters
+---
+layout: page
+title: BlankBoosters
+---
 
 | Statistic | Value |
 | --- | --- |

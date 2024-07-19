@@ -1,4 +1,7 @@
-# LANCE
+---
+layout: page
+title: LANCE
+---
 
 | Statistic | Value |
 | --- | --- |

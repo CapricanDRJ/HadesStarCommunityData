@@ -1,4 +1,7 @@
-# The Titans Pro
+---
+layout: page
+title: The Titans Pro
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# 无名集团
+---
+layout: page
+title: 无名集团
+---
 
 | Statistic | Value |
 | --- | --- |

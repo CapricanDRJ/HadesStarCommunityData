@@ -1,4 +1,7 @@
-# Dumpster Fire 2
+---
+layout: page
+title: Dumpster Fire 2
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Relic Hunters
+---
+layout: page
+title: Relic Hunters
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# BrinySeal
+---
+layout: page
+title: BrinySeal
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Hands Of God
+---
+layout: page
+title: Hands Of God
+---
 
 | Statistic | Value |
 | --- | --- |

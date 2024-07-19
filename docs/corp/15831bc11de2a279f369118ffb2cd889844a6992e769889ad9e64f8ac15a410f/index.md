@@ -1,4 +1,7 @@
-# No Orbit©
+---
+layout: page
+title: No Orbit©
+---
 
 | Statistic | Value |
 | --- | --- |

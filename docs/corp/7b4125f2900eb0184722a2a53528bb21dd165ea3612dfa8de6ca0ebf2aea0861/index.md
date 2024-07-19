@@ -1,4 +1,7 @@
-# 萌新港
+---
+layout: page
+title: 萌新港
+---
 
 | Statistic | Value |
 | --- | --- |

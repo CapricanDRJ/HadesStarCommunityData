@@ -1,4 +1,7 @@
-# Space Monkeys
+---
+layout: page
+title: Space Monkeys
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# 荣耀之星
+---
+layout: page
+title: 荣耀之星
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# TearsWorld
+---
+layout: page
+title: TearsWorld
+---
 
 | Statistic | Value |
 | --- | --- |

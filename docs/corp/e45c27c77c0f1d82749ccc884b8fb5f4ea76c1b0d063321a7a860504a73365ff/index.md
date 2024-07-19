@@ -1,4 +1,7 @@
-# battlesquadron
+---
+layout: page
+title: battlesquadron
+---
 
 | Statistic | Value |
 | --- | --- |

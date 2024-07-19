@@ -1,4 +1,7 @@
-# 红星超新星爆炸
+---
+layout: page
+title: 红星超新星爆炸
+---
 
 | Statistic | Value |
 | --- | --- |

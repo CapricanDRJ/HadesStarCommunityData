@@ -1,4 +1,7 @@
-# Черное солнце
+---
+layout: page
+title: Черное солнце
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Red Sky
+---
+layout: page
+title: Red Sky
+---
 
 | Statistic | Value |
 | --- | --- |

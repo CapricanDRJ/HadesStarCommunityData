@@ -1,4 +1,7 @@
-# SGC
+---
+layout: page
+title: SGC
+---
 
 | Statistic | Value |
 | --- | --- |

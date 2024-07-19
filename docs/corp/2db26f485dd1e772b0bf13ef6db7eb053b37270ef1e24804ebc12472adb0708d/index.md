@@ -1,4 +1,7 @@
-# ZN•H2B
+---
+layout: page
+title: ZN•H2B
+---
 
 | Statistic | Value |
 | --- | --- |

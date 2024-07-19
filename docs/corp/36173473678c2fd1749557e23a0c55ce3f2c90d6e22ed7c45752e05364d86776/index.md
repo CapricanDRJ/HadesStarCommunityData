@@ -1,4 +1,7 @@
-# SpaceX
+---
+layout: page
+title: SpaceX
+---
 
 | Statistic | Value |
 | --- | --- |

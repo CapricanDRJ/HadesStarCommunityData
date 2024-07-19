@@ -1,4 +1,7 @@
-# United Stars 
+---
+layout: page
+title: United Stars 
+---
 
 | Statistic | Value |
 | --- | --- |

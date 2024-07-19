@@ -1,4 +1,7 @@
-# CTG
+---
+layout: page
+title: CTG
+---
 
 | Statistic | Value |
 | --- | --- |

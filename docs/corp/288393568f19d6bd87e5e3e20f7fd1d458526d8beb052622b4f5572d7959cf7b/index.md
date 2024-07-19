@@ -1,4 +1,7 @@
-# Sentencia
+---
+layout: page
+title: Sentencia
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Covenant
+---
+layout: page
+title: Covenant
+---
 
 | Statistic | Value |
 | --- | --- |

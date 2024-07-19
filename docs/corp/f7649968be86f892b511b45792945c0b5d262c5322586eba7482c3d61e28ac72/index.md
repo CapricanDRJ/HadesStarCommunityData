@@ -1,4 +1,7 @@
-# STARBLAZER 
+---
+layout: page
+title: STARBLAZER 
+---
 
 | Statistic | Value |
 | --- | --- |

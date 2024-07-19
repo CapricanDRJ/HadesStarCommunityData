@@ -1,4 +1,7 @@
-# GhostNakcoorp
+---
+layout: page
+title: GhostNakcoorp
+---
 
 | Statistic | Value |
 | --- | --- |

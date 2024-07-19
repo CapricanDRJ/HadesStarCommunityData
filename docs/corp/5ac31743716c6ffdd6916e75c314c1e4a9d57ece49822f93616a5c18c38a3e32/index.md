@@ -1,4 +1,7 @@
-# Stars Radiant
+---
+layout: page
+title: Stars Radiant
+---
 
 | Statistic | Value |
 | --- | --- |

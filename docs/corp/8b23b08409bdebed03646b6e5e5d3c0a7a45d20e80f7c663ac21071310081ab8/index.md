@@ -1,4 +1,7 @@
-# BR Gear
+---
+layout: page
+title: BR Gear
+---
 
 | Statistic | Value |
 | --- | --- |

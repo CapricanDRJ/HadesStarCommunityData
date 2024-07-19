@@ -1,4 +1,7 @@
-# Auscorp 
+---
+layout: page
+title: Auscorp 
+---
 
 | Statistic | Value |
 | --- | --- |

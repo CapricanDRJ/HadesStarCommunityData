@@ -1,4 +1,7 @@
-# THE BENDERA
+---
+layout: page
+title: THE BENDERA
+---
 
 | Statistic | Value |
 | --- | --- |

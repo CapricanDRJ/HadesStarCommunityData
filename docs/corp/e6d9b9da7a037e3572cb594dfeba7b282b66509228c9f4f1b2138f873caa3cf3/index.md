@@ -1,4 +1,7 @@
-# 萌新港(大佬港)
+---
+layout: page
+title: 萌新港(大佬港)
+---
 
 | Statistic | Value |
 | --- | --- |

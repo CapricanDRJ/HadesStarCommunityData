@@ -1,4 +1,7 @@
-# the light
+---
+layout: page
+title: the light
+---
 
 | Statistic | Value |
 | --- | --- |

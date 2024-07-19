@@ -1,4 +1,7 @@
-# Albedo
+---
+layout: page
+title: Albedo
+---
 
 | Statistic | Value |
 | --- | --- |

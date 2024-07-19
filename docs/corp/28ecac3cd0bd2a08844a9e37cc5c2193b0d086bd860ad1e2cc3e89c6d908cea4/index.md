@@ -1,4 +1,7 @@
-# Империя
+---
+layout: page
+title: Империя
+---
 
 | Statistic | Value |
 | --- | --- |

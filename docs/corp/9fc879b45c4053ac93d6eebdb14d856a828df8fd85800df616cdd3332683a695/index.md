@@ -1,4 +1,7 @@
-# Free Thinkers 2
+---
+layout: page
+title: Free Thinkers 2
+---
 
 | Statistic | Value |
 | --- | --- |

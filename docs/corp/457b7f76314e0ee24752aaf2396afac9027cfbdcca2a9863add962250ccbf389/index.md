@@ -1,4 +1,7 @@
-# Лунный Феникс
+---
+layout: page
+title: Лунный Феникс
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# 한국우주연합
+---
+layout: page
+title: 한국우주연합
+---
 
 | Statistic | Value |
 | --- | --- |

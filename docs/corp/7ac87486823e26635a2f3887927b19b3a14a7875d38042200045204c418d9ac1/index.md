@@ -1,4 +1,7 @@
-# Red Star Corp.
+---
+layout: page
+title: Red Star Corp.
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Prospectors
+---
+layout: page
+title: Prospectors
+---
 
 | Statistic | Value |
 | --- | --- |

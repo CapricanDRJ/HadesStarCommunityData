@@ -1,4 +1,7 @@
-# AKA
+---
+layout: page
+title: AKA
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# RGW
+---
+layout: page
+title: RGW
+---
 
 | Statistic | Value |
 | --- | --- |

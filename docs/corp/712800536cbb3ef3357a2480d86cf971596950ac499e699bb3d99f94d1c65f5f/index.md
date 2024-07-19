@@ -1,4 +1,7 @@
-# 혁명군
+---
+layout: page
+title: 혁명군
+---
 
 | Statistic | Value |
 | --- | --- |

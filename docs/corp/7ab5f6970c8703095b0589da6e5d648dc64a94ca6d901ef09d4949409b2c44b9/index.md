@@ -1,4 +1,7 @@
-# 游徒之家
+---
+layout: page
+title: 游徒之家
+---
 
 | Statistic | Value |
 | --- | --- |

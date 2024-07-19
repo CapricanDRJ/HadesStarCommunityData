@@ -1,4 +1,7 @@
-# Rising star
+---
+layout: page
+title: Rising star
+---
 
 | Statistic | Value |
 | --- | --- |

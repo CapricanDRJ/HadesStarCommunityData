@@ -1,4 +1,7 @@
-# ✡天启✡
+---
+layout: page
+title: ✡天启✡
+---
 
 | Statistic | Value |
 | --- | --- |

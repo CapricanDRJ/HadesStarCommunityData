@@ -1,4 +1,7 @@
-# challenger corp
+---
+layout: page
+title: challenger corp
+---
 
 | Statistic | Value |
 | --- | --- |

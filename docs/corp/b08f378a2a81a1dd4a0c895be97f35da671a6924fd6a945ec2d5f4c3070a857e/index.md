@@ -1,4 +1,7 @@
-# Vanu Centurions
+---
+layout: page
+title: Vanu Centurions
+---
 
 | Statistic | Value |
 | --- | --- |

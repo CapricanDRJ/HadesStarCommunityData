@@ -1,4 +1,7 @@
-# Gummibärenbande
+---
+layout: page
+title: Gummibärenbande
+---
 
 | Statistic | Value |
 | --- | --- |

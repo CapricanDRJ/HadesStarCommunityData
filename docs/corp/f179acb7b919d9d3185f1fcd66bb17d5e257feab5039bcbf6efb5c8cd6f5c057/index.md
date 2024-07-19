@@ -1,4 +1,7 @@
-# Star Blazers
+---
+layout: page
+title: Star Blazers
+---
 
 | Statistic | Value |
 | --- | --- |

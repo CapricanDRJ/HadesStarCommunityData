@@ -1,4 +1,7 @@
-# 美丽新世界
+---
+layout: page
+title: 美丽新世界
+---
 
 | Statistic | Value |
 | --- | --- |

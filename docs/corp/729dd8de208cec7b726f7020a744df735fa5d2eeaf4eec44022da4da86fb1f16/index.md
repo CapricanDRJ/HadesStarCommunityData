@@ -1,4 +1,7 @@
-# Serenity
+---
+layout: page
+title: Serenity
+---
 
 | Statistic | Value |
 | --- | --- |

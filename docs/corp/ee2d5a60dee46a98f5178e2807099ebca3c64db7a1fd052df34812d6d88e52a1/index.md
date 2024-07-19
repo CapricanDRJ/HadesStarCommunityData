@@ -1,4 +1,7 @@
-# Anla'Shok
+---
+layout: page
+title: Anla'Shok
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Dauntless
+---
+layout: page
+title: Dauntless
+---
 
 | Statistic | Value |
 | --- | --- |

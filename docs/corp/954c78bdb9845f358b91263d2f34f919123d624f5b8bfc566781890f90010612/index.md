@@ -1,4 +1,7 @@
-# helvetic force
+---
+layout: page
+title: helvetic force
+---
 
 | Statistic | Value |
 | --- | --- |

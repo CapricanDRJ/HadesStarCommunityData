@@ -1,4 +1,7 @@
-# The Fracture
+---
+layout: page
+title: The Fracture
+---
 
 | Statistic | Value |
 | --- | --- |

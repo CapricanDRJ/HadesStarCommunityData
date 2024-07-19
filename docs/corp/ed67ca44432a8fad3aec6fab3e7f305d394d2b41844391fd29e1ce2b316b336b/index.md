@@ -1,4 +1,7 @@
-# Lacuna Academy
+---
+layout: page
+title: Lacuna Academy
+---
 
 | Statistic | Value |
 | --- | --- |

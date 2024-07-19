@@ -1,4 +1,7 @@
-# Widow Makers
+---
+layout: page
+title: Widow Makers
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# 101
+---
+layout: page
+title: 101
+---
 
 | Statistic | Value |
 | --- | --- |

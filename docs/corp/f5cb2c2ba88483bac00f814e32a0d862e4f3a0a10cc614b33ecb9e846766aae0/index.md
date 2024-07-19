@@ -1,4 +1,7 @@
-# We R Bad
+---
+layout: page
+title: We R Bad
+---
 
 | Statistic | Value |
 | --- | --- |

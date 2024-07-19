@@ -1,4 +1,7 @@
-# 佛矿寺
+---
+layout: page
+title: 佛矿寺
+---
 
 | Statistic | Value |
 | --- | --- |

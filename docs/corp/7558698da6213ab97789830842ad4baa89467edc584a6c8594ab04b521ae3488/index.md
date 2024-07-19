@@ -1,4 +1,7 @@
-# Тёмный Феникс
+---
+layout: page
+title: Тёмный Феникс
+---
 
 | Statistic | Value |
 | --- | --- |

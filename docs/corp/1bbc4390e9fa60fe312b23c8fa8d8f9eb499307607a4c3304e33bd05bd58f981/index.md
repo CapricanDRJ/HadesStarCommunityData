@@ -1,4 +1,7 @@
-# ES Gaming 
+---
+layout: page
+title: ES Gaming 
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# AAAA
+---
+layout: page
+title: AAAA
+---
 
 | Statistic | Value |
 | --- | --- |

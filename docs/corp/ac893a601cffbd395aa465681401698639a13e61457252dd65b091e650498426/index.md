@@ -1,4 +1,7 @@
-# Tycho Corp
+---
+layout: page
+title: Tycho Corp
+---
 
 | Statistic | Value |
 | --- | --- |

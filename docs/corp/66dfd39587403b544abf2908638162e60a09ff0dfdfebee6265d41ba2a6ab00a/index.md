@@ -1,4 +1,7 @@
-# Core Systems
+---
+layout: page
+title: Core Systems
+---
 
 | Statistic | Value |
 | --- | --- |

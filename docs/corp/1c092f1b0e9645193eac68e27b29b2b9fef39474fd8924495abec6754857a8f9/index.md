@@ -1,4 +1,7 @@
-# alienigenas
+---
+layout: page
+title: alienigenas
+---
 
 | Statistic | Value |
 | --- | --- |

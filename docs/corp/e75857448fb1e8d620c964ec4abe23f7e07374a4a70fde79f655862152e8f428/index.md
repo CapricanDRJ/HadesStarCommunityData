@@ -1,4 +1,7 @@
-# BlackStar Order
+---
+layout: page
+title: BlackStar Order
+---
 
 | Statistic | Value |
 | --- | --- |

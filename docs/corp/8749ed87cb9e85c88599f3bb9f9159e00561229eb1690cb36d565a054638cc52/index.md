@@ -1,4 +1,7 @@
-# Seila
+---
+layout: page
+title: Seila
+---
 
 | Statistic | Value |
 | --- | --- |

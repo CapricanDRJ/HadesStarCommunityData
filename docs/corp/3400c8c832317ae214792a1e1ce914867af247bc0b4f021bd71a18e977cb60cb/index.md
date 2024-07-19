@@ -1,4 +1,7 @@
-# REY DE REYES
+---
+layout: page
+title: REY DE REYES
+---
 
 | Statistic | Value |
 | --- | --- |

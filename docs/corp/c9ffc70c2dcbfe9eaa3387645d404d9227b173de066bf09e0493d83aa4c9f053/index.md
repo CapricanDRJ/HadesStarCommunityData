@@ -1,4 +1,7 @@
-# Лютые
+---
+layout: page
+title: Лютые
+---
 
 | Statistic | Value |
 | --- | --- |

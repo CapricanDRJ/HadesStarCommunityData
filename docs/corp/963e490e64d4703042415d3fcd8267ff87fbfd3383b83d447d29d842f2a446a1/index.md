@@ -1,4 +1,7 @@
-# KLM
+---
+layout: page
+title: KLM
+---
 
 | Statistic | Value |
 | --- | --- |

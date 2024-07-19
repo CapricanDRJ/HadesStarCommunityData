@@ -1,4 +1,7 @@
-# Hades' 420
+---
+layout: page
+title: Hades' 420
+---
 
 | Statistic | Value |
 | --- | --- |

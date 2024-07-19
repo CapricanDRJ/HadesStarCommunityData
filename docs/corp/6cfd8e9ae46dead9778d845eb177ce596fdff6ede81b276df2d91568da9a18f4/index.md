@@ -1,4 +1,7 @@
-# North Star
+---
+layout: page
+title: North Star
+---
 
 | Statistic | Value |
 | --- | --- |

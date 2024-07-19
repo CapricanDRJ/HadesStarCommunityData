@@ -1,4 +1,7 @@
-# Deadspace
+---
+layout: page
+title: Deadspace
+---
 
 | Statistic | Value |
 | --- | --- |

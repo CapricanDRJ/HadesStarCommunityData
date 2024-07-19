@@ -1,4 +1,7 @@
-# Ark Summit
+---
+layout: page
+title: Ark Summit
+---
 
 | Statistic | Value |
 | --- | --- |

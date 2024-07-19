@@ -1,4 +1,7 @@
-# Avabel Online 2
+---
+layout: page
+title: Avabel Online 2
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Cydonia Order
+---
+layout: page
+title: Cydonia Order
+---
 
 | Statistic | Value |
 | --- | --- |

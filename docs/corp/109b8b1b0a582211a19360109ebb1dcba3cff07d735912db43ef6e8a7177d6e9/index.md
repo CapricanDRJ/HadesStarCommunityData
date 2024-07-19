@@ -1,4 +1,7 @@
-# Foreshadowing
+---
+layout: page
+title: Foreshadowing
+---
 
 | Statistic | Value |
 | --- | --- |

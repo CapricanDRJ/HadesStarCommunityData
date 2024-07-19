@@ -1,4 +1,7 @@
-# OTRSᗜωO
+---
+layout: page
+title: OTRSᗜωO
+---
 
 | Statistic | Value |
 | --- | --- |

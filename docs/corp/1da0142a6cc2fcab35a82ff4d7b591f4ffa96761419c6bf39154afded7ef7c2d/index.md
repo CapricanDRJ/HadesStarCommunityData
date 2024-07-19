@@ -1,4 +1,7 @@
-# Orden Estelar 
+---
+layout: page
+title: Orden Estelar 
+---
 
 | Statistic | Value |
 | --- | --- |

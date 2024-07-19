@@ -1,4 +1,7 @@
-# Yellow Dwarf 
+---
+layout: page
+title: Yellow Dwarf 
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Light Warriors
+---
+layout: page
+title: Light Warriors
+---
 
 | Statistic | Value |
 | --- | --- |

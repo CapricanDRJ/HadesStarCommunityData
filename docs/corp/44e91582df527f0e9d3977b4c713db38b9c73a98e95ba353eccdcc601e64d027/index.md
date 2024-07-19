@@ -1,4 +1,7 @@
-# Stellar Exports
+---
+layout: page
+title: Stellar Exports
+---
 
 | Statistic | Value |
 | --- | --- |

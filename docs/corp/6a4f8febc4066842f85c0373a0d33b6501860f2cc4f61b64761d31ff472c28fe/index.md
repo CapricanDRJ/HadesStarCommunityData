@@ -1,4 +1,7 @@
-# Quilliance
+---
+layout: page
+title: Quilliance
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Star Wars
+---
+layout: page
+title: Star Wars
+---
 
 | Statistic | Value |
 | --- | --- |

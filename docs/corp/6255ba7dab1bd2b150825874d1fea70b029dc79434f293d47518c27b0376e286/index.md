@@ -1,4 +1,7 @@
-# Space Penguins
+---
+layout: page
+title: Space Penguins
+---
 
 | Statistic | Value |
 | --- | --- |

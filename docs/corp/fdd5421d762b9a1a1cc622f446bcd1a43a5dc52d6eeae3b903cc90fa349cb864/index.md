@@ -1,4 +1,7 @@
-# Anarchy
+---
+layout: page
+title: Anarchy
+---
 
 | Statistic | Value |
 | --- | --- |

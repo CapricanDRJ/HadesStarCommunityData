@@ -1,4 +1,7 @@
-# Starlancer
+---
+layout: page
+title: Starlancer
+---
 
 | Statistic | Value |
 | --- | --- |

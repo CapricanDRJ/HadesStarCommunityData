@@ -1,4 +1,7 @@
-# SQPT
+---
+layout: page
+title: SQPT
+---
 
 | Statistic | Value |
 | --- | --- |

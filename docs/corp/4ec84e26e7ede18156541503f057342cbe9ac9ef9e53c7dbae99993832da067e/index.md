@@ -1,4 +1,7 @@
-# Legion Prime
+---
+layout: page
+title: Legion Prime
+---
 
 | Statistic | Value |
 | --- | --- |

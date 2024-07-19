@@ -1,4 +1,7 @@
-# Gregycool
+---
+layout: page
+title: Gregycool
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Омикрон Альфа
+---
+layout: page
+title: Омикрон Альфа
+---
 
 | Statistic | Value |
 | --- | --- |

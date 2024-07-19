@@ -1,4 +1,7 @@
-# IX Легион
+---
+layout: page
+title: IX Легион
+---
 
 | Statistic | Value |
 | --- | --- |

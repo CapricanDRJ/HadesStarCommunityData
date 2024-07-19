@@ -1,4 +1,7 @@
-# exirium
+---
+layout: page
+title: exirium
+---
 
 | Statistic | Value |
 | --- | --- |

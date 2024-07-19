@@ -1,4 +1,7 @@
-# Got Nothing
+---
+layout: page
+title: Got Nothing
+---
 
 | Statistic | Value |
 | --- | --- |

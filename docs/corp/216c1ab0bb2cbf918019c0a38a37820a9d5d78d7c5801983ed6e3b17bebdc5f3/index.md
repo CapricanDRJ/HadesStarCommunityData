@@ -1,4 +1,7 @@
-# lonewolf
+---
+layout: page
+title: lonewolf
+---
 
 | Statistic | Value |
 | --- | --- |

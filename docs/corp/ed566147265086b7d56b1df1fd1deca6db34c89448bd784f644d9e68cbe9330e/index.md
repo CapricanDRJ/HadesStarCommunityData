@@ -1,4 +1,7 @@
-# Order of Ares
+---
+layout: page
+title: Order of Ares
+---
 
 | Statistic | Value |
 | --- | --- |

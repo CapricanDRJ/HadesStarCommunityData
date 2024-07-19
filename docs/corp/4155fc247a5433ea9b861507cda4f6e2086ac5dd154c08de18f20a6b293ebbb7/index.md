@@ -1,4 +1,7 @@
-# Séptimo Círculo
+---
+layout: page
+title: Séptimo Círculo
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Star Dust
+---
+layout: page
+title: Star Dust
+---
 
 | Statistic | Value |
 | --- | --- |

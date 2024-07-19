@@ -1,4 +1,7 @@
-# Goa'uld
+---
+layout: page
+title: Goa'uld
+---
 
 | Statistic | Value |
 | --- | --- |

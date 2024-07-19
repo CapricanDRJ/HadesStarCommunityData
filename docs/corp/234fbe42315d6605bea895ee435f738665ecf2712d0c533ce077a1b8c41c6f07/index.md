@@ -1,4 +1,7 @@
-# Star-Jump CORPS
+---
+layout: page
+title: Star-Jump CORPS
+---
 
 | Statistic | Value |
 | --- | --- |

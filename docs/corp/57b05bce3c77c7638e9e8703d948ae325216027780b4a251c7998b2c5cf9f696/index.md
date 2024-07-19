@@ -1,4 +1,7 @@
-# Celtic Empire 2
+---
+layout: page
+title: Celtic Empire 2
+---
 
 | Statistic | Value |
 | --- | --- |

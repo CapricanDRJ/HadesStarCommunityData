@@ -1,4 +1,7 @@
-# Галактика Зла
+---
+layout: page
+title: Галактика Зла
+---
 
 | Statistic | Value |
 | --- | --- |

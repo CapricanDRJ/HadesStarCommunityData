@@ -1,4 +1,7 @@
-# КЕДР
+---
+layout: page
+title: КЕДР
+---
 
 | Statistic | Value |
 | --- | --- |

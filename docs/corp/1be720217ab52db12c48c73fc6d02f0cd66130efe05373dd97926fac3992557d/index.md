@@ -1,4 +1,7 @@
-# UAGC
+---
+layout: page
+title: UAGC
+---
 
 | Statistic | Value |
 | --- | --- |

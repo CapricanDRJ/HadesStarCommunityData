@@ -1,4 +1,7 @@
-# Blue Space
+---
+layout: page
+title: Blue Space
+---
 
 | Statistic | Value |
 | --- | --- |

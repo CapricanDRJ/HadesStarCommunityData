@@ -1,4 +1,7 @@
-# Space Oddity
+---
+layout: page
+title: Space Oddity
+---
 
 | Statistic | Value |
 | --- | --- |

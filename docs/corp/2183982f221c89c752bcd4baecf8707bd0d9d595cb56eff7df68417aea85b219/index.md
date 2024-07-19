@@ -1,4 +1,7 @@
-# 宇宙生協
+---
+layout: page
+title: 宇宙生協
+---
 
 | Statistic | Value |
 | --- | --- |

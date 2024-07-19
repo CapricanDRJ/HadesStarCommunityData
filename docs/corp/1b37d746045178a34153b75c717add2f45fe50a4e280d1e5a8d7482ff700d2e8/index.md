@@ -1,4 +1,7 @@
-# brit boys
+---
+layout: page
+title: brit boys
+---
 
 | Statistic | Value |
 | --- | --- |

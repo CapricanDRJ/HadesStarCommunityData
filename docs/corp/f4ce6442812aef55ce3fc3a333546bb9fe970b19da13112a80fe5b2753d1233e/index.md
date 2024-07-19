@@ -1,4 +1,7 @@
-# Latinos :)
+---
+layout: page
+title: Latinos :)
+---
 
 | Statistic | Value |
 | --- | --- |

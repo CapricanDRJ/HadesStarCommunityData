@@ -1,4 +1,7 @@
-# RATAS
+---
+layout: page
+title: RATAS
+---
 
 | Statistic | Value |
 | --- | --- |

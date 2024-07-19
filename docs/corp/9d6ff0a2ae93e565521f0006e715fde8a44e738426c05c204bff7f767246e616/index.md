@@ -1,4 +1,7 @@
-# Open Infinity
+---
+layout: page
+title: Open Infinity
+---
 
 | Statistic | Value |
 | --- | --- |

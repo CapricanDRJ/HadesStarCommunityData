@@ -1,4 +1,7 @@
-# YETI Collective
+---
+layout: page
+title: YETI Collective
+---
 
 | Statistic | Value |
 | --- | --- |

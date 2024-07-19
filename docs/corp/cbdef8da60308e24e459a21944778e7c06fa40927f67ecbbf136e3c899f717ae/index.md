@@ -1,4 +1,7 @@
-# Disintegrators
+---
+layout: page
+title: Disintegrators
+---
 
 | Statistic | Value |
 | --- | --- |

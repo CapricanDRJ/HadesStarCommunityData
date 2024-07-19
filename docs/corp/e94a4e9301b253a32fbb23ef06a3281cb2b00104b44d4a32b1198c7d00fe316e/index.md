@@ -1,4 +1,7 @@
-# LCP
+---
+layout: page
+title: LCP
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Рагнарёк
+---
+layout: page
+title: Рагнарёк
+---
 
 | Statistic | Value |
 | --- | --- |

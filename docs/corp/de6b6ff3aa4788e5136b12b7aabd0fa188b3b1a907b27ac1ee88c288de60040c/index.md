@@ -1,4 +1,7 @@
-# Global Elite
+---
+layout: page
+title: Global Elite
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# UKRAINE STARS
+---
+layout: page
+title: UKRAINE STARS
+---
 
 | Statistic | Value |
 | --- | --- |

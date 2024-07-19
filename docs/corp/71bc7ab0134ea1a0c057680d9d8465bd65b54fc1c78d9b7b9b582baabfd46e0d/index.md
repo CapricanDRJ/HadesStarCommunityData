@@ -1,4 +1,7 @@
-# Ender
+---
+layout: page
+title: Ender
+---
 
 | Statistic | Value |
 | --- | --- |

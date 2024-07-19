@@ -1,4 +1,7 @@
-# N7 Elite Forces
+---
+layout: page
+title: N7 Elite Forces
+---
 
 | Statistic | Value |
 | --- | --- |

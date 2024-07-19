@@ -1,4 +1,7 @@
-# Nexland Ind.
+---
+layout: page
+title: Nexland Ind.
+---
 
 | Statistic | Value |
 | --- | --- |

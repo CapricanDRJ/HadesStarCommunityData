@@ -1,4 +1,7 @@
-# Austria 
+---
+layout: page
+title: Austria 
+---
 
 | Statistic | Value |
 | --- | --- |

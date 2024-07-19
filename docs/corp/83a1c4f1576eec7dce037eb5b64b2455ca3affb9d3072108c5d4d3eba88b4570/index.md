@@ -1,4 +1,7 @@
-# RedStar Raiding
+---
+layout: page
+title: RedStar Raiding
+---
 
 | Statistic | Value |
 | --- | --- |

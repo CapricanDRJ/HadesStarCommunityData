@@ -1,4 +1,7 @@
-# Black Star llc.
+---
+layout: page
+title: Black Star llc.
+---
 
 | Statistic | Value |
 | --- | --- |

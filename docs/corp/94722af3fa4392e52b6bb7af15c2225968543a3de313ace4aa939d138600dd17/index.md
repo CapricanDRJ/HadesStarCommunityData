@@ -1,4 +1,7 @@
-# Madison Holding
+---
+layout: page
+title: Madison Holding
+---
 
 | Statistic | Value |
 | --- | --- |

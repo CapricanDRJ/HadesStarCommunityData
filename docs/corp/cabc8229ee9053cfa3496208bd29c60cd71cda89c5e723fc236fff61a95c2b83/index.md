@@ -1,4 +1,7 @@
-# BRASIL ACADEMY
+---
+layout: page
+title: BRASIL ACADEMY
+---
 
 | Statistic | Value |
 | --- | --- |

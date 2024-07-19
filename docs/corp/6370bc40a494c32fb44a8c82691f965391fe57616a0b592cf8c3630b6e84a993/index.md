@@ -1,4 +1,7 @@
-# Sunny
+---
+layout: page
+title: Sunny
+---
 
 | Statistic | Value |
 | --- | --- |

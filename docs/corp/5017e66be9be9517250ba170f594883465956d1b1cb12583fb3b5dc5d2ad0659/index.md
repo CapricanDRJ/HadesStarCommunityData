@@ -1,4 +1,7 @@
-# Omega Aboration
+---
+layout: page
+title: Omega Aboration
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Space lover
+---
+layout: page
+title: Space lover
+---
 
 | Statistic | Value |
 | --- | --- |

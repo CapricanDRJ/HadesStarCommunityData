@@ -1,4 +1,7 @@
-# Resurrección EB
+---
+layout: page
+title: Resurrección EB
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# uDS
+---
+layout: page
+title: uDS
+---
 
 | Statistic | Value |
 | --- | --- |

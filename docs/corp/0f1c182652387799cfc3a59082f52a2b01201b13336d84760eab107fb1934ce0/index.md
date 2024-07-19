@@ -1,4 +1,7 @@
-# Nova Time
+---
+layout: page
+title: Nova Time
+---
 
 | Statistic | Value |
 | --- | --- |

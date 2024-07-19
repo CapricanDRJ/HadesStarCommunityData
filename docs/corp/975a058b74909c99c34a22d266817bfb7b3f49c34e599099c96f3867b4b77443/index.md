@@ -1,4 +1,7 @@
-# Firestarters
+---
+layout: page
+title: Firestarters
+---
 
 | Statistic | Value |
 | --- | --- |

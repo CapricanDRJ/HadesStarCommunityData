@@ -1,4 +1,7 @@
-# 青丘湖
+---
+layout: page
+title: 青丘湖
+---
 
 | Statistic | Value |
 | --- | --- |

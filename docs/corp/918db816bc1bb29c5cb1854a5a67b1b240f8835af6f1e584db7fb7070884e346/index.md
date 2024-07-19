@@ -1,4 +1,7 @@
-# Polaris Corpo
+---
+layout: page
+title: Polaris Corpo
+---
 
 | Statistic | Value |
 | --- | --- |

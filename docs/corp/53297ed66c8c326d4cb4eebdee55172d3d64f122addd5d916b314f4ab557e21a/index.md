@@ -1,4 +1,7 @@
-# Ninth Planet
+---
+layout: page
+title: Ninth Planet
+---
 
 | Statistic | Value |
 | --- | --- |

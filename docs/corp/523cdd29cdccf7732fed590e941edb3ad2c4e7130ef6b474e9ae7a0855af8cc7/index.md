@@ -1,4 +1,7 @@
-# cikopo
+---
+layout: page
+title: cikopo
+---
 
 | Statistic | Value |
 | --- | --- |

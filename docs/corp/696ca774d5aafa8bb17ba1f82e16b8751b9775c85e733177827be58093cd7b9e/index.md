@@ -1,4 +1,7 @@
-# Black Sun
+---
+layout: page
+title: Black Sun
+---
 
 | Statistic | Value |
 | --- | --- |

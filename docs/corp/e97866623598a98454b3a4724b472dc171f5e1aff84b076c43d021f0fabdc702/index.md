@@ -1,4 +1,7 @@
-# 2ND-R8 Corp.
+---
+layout: page
+title: 2ND-R8 Corp.
+---
 
 | Statistic | Value |
 | --- | --- |

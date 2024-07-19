@@ -1,4 +1,7 @@
-# Internationals
+---
+layout: page
+title: Internationals
+---
 
 | Statistic | Value |
 | --- | --- |

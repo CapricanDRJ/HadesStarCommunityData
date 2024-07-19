@@ -1,4 +1,7 @@
-# Death Star llc.
+---
+layout: page
+title: Death Star llc.
+---
 
 | Statistic | Value |
 | --- | --- |

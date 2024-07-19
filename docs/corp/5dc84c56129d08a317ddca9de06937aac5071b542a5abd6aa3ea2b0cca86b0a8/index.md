@@ -1,4 +1,7 @@
-# VALHALLA
+---
+layout: page
+title: VALHALLA
+---
 
 | Statistic | Value |
 | --- | --- |

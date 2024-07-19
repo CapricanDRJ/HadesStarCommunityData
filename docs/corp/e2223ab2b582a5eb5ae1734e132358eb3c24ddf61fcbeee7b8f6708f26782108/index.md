@@ -1,4 +1,7 @@
-# Galactic Empire
+---
+layout: page
+title: Galactic Empire
+---
 
 | Statistic | Value |
 | --- | --- |

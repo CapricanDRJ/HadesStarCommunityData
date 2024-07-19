@@ -1,4 +1,7 @@
-# Smurfing
+---
+layout: page
+title: Smurfing
+---
 
 | Statistic | Value |
 | --- | --- |

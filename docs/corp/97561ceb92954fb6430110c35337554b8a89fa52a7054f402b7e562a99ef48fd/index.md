@@ -1,4 +1,7 @@
-# Dark Skai
+---
+layout: page
+title: Dark Skai
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Armored Union 
+---
+layout: page
+title: Armored Union 
+---
 
 | Statistic | Value |
 | --- | --- |

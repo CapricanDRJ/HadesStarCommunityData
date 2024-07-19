@@ -1,4 +1,7 @@
-# Back of the bus
+---
+layout: page
+title: Back of the bus
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# VALLKIRIA
+---
+layout: page
+title: VALLKIRIA
+---
 
 | Statistic | Value |
 | --- | --- |

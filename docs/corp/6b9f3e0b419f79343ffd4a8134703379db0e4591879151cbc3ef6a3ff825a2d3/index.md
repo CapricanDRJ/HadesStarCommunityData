@@ -1,4 +1,7 @@
-# Winged Pheonix
+---
+layout: page
+title: Winged Pheonix
+---
 
 | Statistic | Value |
 | --- | --- |

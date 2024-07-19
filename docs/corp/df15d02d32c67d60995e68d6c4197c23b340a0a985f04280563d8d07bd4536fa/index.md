@@ -1,4 +1,7 @@
-# 🌪TORNADO 
+---
+layout: page
+title: 🌪TORNADO 
+---
 
 | Statistic | Value |
 | --- | --- |

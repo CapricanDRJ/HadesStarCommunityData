@@ -1,4 +1,7 @@
-# Quantum Jumpers
+---
+layout: page
+title: Quantum Jumpers
+---
 
 | Statistic | Value |
 | --- | --- |

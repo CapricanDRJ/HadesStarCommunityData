@@ -1,4 +1,7 @@
-# Farland Ind.
+---
+layout: page
+title: Farland Ind.
+---
 
 | Statistic | Value |
 | --- | --- |

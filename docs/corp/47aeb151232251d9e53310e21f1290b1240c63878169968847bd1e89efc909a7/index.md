@@ -1,4 +1,7 @@
-# Poggy Rockers
+---
+layout: page
+title: Poggy Rockers
+---
 
 | Statistic | Value |
 | --- | --- |

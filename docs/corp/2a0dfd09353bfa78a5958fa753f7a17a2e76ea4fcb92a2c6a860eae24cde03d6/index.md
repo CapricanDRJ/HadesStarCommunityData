@@ -1,4 +1,7 @@
-# ShadowSpaceCult
+---
+layout: page
+title: ShadowSpaceCult
+---
 
 | Statistic | Value |
 | --- | --- |

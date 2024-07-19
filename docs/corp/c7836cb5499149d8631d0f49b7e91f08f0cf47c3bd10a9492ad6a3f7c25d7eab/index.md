@@ -1,4 +1,7 @@
-# Hellfire Club
+---
+layout: page
+title: Hellfire Club
+---
 
 | Statistic | Value |
 | --- | --- |

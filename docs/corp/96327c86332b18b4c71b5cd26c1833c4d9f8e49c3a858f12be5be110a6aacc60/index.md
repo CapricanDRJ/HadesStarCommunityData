@@ -1,4 +1,7 @@
-# Cell Division
+---
+layout: page
+title: Cell Division
+---
 
 | Statistic | Value |
 | --- | --- |

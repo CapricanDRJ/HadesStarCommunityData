@@ -1,4 +1,7 @@
-# The 501st
+---
+layout: page
+title: The 501st
+---
 
 | Statistic | Value |
 | --- | --- |

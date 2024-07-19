@@ -1,4 +1,7 @@
-# WinterComes
+---
+layout: page
+title: WinterComes
+---
 
 | Statistic | Value |
 | --- | --- |

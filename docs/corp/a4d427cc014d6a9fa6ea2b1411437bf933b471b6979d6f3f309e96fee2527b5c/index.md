@@ -1,4 +1,7 @@
-# Redd Armada
+---
+layout: page
+title: Redd Armada
+---
 
 | Statistic | Value |
 | --- | --- |

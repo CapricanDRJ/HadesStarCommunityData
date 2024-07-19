@@ -1,4 +1,7 @@
-# Revelation
+---
+layout: page
+title: Revelation
+---
 
 | Statistic | Value |
 | --- | --- |

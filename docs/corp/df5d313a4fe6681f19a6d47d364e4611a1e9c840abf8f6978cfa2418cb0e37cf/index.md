@@ -1,4 +1,7 @@
-# From the Fire
+---
+layout: page
+title: From the Fire
+---
 
 | Statistic | Value |
 | --- | --- |

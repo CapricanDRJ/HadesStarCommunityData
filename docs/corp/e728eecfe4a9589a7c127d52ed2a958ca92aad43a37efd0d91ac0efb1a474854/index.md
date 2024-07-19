@@ -1,4 +1,7 @@
-# Hun Avengers
+---
+layout: page
+title: Hun Avengers
+---
 
 | Statistic | Value |
 | --- | --- |

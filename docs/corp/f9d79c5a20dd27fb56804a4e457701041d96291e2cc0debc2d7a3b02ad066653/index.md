@@ -1,4 +1,7 @@
-# Monster AG
+---
+layout: page
+title: Monster AG
+---
 
 | Statistic | Value |
 | --- | --- |

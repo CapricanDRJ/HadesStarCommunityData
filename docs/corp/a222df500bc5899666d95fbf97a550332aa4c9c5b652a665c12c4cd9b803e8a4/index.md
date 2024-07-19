@@ -1,4 +1,7 @@
-# XXX500XXX
+---
+layout: page
+title: XXX500XXX
+---
 
 | Statistic | Value |
 | --- | --- |

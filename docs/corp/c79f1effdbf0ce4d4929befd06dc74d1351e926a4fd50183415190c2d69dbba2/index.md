@@ -1,4 +1,7 @@
-# Orione
+---
+layout: page
+title: Orione
+---
 
 | Statistic | Value |
 | --- | --- |

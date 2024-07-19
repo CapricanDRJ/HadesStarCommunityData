@@ -1,4 +1,7 @@
-# 联合宇宙
+---
+layout: page
+title: 联合宇宙
+---
 
 | Statistic | Value |
 | --- | --- |

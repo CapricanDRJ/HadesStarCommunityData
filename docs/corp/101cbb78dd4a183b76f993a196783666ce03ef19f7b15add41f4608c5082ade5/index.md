@@ -1,4 +1,7 @@
-# Spacey Bois
+---
+layout: page
+title: Spacey Bois
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# ZION
+---
+layout: page
+title: ZION
+---
 
 | Statistic | Value |
 | --- | --- |

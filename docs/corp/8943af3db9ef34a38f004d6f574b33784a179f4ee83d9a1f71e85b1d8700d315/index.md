@@ -1,4 +1,7 @@
-# CSI
+---
+layout: page
+title: CSI
+---
 
 | Statistic | Value |
 | --- | --- |

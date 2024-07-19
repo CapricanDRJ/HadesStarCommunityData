@@ -1,4 +1,7 @@
-# Млечный путь
+---
+layout: page
+title: Млечный путь
+---
 
 | Statistic | Value |
 | --- | --- |

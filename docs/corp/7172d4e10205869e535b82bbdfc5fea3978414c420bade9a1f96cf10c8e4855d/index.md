@@ -1,4 +1,7 @@
-# 지고받자
+---
+layout: page
+title: 지고받자
+---
 
 | Statistic | Value |
 | --- | --- |

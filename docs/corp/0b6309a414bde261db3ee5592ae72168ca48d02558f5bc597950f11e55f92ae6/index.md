@@ -1,4 +1,7 @@
-# Quantum Cats
+---
+layout: page
+title: Quantum Cats
+---
 
 | Statistic | Value |
 | --- | --- |

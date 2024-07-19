@@ -1,4 +1,7 @@
-# 宇宙银河帝国
+---
+layout: page
+title: 宇宙银河帝国
+---
 
 | Statistic | Value |
 | --- | --- |

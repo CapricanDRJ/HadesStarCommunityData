@@ -1,4 +1,7 @@
-# 很多星球的社会主义团
+---
+layout: page
+title: 很多星球的社会主义团
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Ascalon
+---
+layout: page
+title: Ascalon
+---
 
 | Statistic | Value |
 | --- | --- |

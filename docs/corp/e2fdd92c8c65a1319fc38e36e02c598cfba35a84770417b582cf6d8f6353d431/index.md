@@ -1,4 +1,7 @@
-# Galaxy knights
+---
+layout: page
+title: Galaxy knights
+---
 
 | Statistic | Value |
 | --- | --- |

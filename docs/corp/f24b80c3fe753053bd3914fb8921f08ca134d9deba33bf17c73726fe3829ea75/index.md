@@ -1,4 +1,7 @@
-# Nueva Hyperion
+---
+layout: page
+title: Nueva Hyperion
+---
 
 | Statistic | Value |
 | --- | --- |

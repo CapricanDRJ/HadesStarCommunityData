@@ -1,4 +1,7 @@
-# (_(_Vossk_)_)
+---
+layout: page
+title: (_(_Vossk_)_)
+---
 
 | Statistic | Value |
 | --- | --- |

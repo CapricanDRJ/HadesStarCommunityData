@@ -1,4 +1,7 @@
-# 宇宙警察
+---
+layout: page
+title: 宇宙警察
+---
 
 | Statistic | Value |
 | --- | --- |

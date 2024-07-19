@@ -1,4 +1,7 @@
-# The Covenant
+---
+layout: page
+title: The Covenant
+---
 
 | Statistic | Value |
 | --- | --- |

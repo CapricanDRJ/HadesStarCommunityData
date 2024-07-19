@@ -1,4 +1,7 @@
-# corporacion I.A
+---
+layout: page
+title: corporacion I.A
+---
 
 | Statistic | Value |
 | --- | --- |

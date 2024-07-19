@@ -1,4 +1,7 @@
-# ReylZ
+---
+layout: page
+title: ReylZ
+---
 
 | Statistic | Value |
 | --- | --- |

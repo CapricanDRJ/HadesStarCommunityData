@@ -1,4 +1,7 @@
-# Duchy Kalladan
+---
+layout: page
+title: Duchy Kalladan
+---
 
 | Statistic | Value |
 | --- | --- |

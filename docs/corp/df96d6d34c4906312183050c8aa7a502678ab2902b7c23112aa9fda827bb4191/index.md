@@ -1,4 +1,7 @@
-# Spica​
+---
+layout: page
+title: Spica​
+---
 
 | Statistic | Value |
 | --- | --- |

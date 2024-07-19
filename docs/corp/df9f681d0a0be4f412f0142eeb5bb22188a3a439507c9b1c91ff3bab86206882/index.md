@@ -1,4 +1,7 @@
-# 盾牌座UY分团
+---
+layout: page
+title: 盾牌座UY分团
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Best UA West
+---
+layout: page
+title: Best UA West
+---
 
 | Statistic | Value |
 | --- | --- |

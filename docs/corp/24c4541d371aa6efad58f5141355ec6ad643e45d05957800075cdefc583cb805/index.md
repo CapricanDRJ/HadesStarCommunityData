@@ -1,4 +1,7 @@
-# Spaceforce
+---
+layout: page
+title: Spaceforce
+---
 
 | Statistic | Value |
 | --- | --- |

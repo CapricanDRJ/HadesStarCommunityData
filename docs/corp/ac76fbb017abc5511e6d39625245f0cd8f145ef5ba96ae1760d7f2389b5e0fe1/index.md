@@ -1,4 +1,7 @@
-# ProyectCorp
+---
+layout: page
+title: ProyectCorp
+---
 
 | Statistic | Value |
 | --- | --- |

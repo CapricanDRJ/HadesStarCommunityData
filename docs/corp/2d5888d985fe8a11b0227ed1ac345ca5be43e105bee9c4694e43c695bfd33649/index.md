@@ -1,4 +1,7 @@
-# ギャラクシー富士山
+---
+layout: page
+title: ギャラクシー富士山
+---
 
 | Statistic | Value |
 | --- | --- |

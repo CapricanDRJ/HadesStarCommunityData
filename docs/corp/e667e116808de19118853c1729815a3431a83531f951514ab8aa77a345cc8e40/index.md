@@ -1,4 +1,7 @@
-# Highlife
+---
+layout: page
+title: Highlife
+---
 
 | Statistic | Value |
 | --- | --- |

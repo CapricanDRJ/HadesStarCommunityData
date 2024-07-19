@@ -1,4 +1,7 @@
-# 拆迁大队
+---
+layout: page
+title: 拆迁大队
+---
 
 | Statistic | Value |
 | --- | --- |

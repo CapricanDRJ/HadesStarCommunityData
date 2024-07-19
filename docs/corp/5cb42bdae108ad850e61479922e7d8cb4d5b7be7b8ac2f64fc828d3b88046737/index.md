@@ -1,4 +1,7 @@
-# 共产星际
+---
+layout: page
+title: 共产星际
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# 遨游星空
+---
+layout: page
+title: 遨游星空
+---
 
 | Statistic | Value |
 | --- | --- |

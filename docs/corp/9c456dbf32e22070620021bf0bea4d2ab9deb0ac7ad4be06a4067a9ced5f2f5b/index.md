@@ -1,4 +1,7 @@
-# Anarchy Nation 
+---
+layout: page
+title: Anarchy Nation 
+---
 
 | Statistic | Value |
 | --- | --- |

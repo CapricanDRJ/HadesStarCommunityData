@@ -1,4 +1,7 @@
-# UFO
+---
+layout: page
+title: UFO
+---
 
 | Statistic | Value |
 | --- | --- |

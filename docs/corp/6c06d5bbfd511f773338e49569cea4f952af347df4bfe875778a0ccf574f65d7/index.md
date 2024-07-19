@@ -1,4 +1,7 @@
-# Dansk
+---
+layout: page
+title: Dansk
+---
 
 | Statistic | Value |
 | --- | --- |

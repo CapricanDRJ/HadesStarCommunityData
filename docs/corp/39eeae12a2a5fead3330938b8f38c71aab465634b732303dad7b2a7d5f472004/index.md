@@ -1,4 +1,7 @@
-# Север РусКорп
+---
+layout: page
+title: Север РусКорп
+---
 
 | Statistic | Value |
 | --- | --- |

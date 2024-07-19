@@ -1,4 +1,7 @@
-# The Order
+---
+layout: page
+title: The Order
+---
 
 | Statistic | Value |
 | --- | --- |

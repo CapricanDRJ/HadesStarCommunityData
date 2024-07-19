@@ -1,4 +1,7 @@
-# StarControl
+---
+layout: page
+title: StarControl
+---
 
 | Statistic | Value |
 | --- | --- |

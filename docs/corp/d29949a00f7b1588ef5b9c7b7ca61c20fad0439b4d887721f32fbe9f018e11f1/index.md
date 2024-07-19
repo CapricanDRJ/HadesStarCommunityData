@@ -1,4 +1,7 @@
-# Elysium
+---
+layout: page
+title: Elysium
+---
 
 | Statistic | Value |
 | --- | --- |

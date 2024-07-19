@@ -1,4 +1,7 @@
-# 第六星际
+---
+layout: page
+title: 第六星际
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# KARI
+---
+layout: page
+title: KARI
+---
 
 | Statistic | Value |
 | --- | --- |

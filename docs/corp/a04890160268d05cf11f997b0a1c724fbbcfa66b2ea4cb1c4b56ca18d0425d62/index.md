@@ -1,4 +1,7 @@
-# GDZ
+---
+layout: page
+title: GDZ
+---
 
 | Statistic | Value |
 | --- | --- |

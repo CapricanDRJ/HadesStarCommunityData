@@ -1,4 +1,7 @@
-# Повстанцы Хаоса
+---
+layout: page
+title: Повстанцы Хаоса
+---
 
 | Statistic | Value |
 | --- | --- |

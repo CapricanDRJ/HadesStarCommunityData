@@ -1,4 +1,7 @@
-# Terranova
+---
+layout: page
+title: Terranova
+---
 
 | Statistic | Value |
 | --- | --- |

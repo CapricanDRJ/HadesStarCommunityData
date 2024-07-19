@@ -1,4 +1,7 @@
-# Gallaecia
+---
+layout: page
+title: Gallaecia
+---
 
 | Statistic | Value |
 | --- | --- |

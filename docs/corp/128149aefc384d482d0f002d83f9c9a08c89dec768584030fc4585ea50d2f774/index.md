@@ -1,4 +1,7 @@
-# リリース
+---
+layout: page
+title: リリース
+---
 
 | Statistic | Value |
 | --- | --- |

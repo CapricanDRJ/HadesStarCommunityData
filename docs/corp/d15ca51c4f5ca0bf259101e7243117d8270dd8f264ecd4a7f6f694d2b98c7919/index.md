@@ -1,4 +1,7 @@
-# WSC(no DISCORD)
+---
+layout: page
+title: WSC(no DISCORD)
+---
 
 | Statistic | Value |
 | --- | --- |

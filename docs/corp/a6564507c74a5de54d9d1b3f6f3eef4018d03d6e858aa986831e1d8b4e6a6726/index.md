@@ -1,4 +1,7 @@
-# Neutro Corpo
+---
+layout: page
+title: Neutro Corpo
+---
 
 | Statistic | Value |
 | --- | --- |

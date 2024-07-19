@@ -1,4 +1,7 @@
-# The New Light
+---
+layout: page
+title: The New Light
+---
 
 | Statistic | Value |
 | --- | --- |

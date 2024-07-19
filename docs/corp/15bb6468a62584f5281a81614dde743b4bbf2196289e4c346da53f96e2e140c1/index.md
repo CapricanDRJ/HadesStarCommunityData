@@ -1,4 +1,7 @@
-# Слава Украине!
+---
+layout: page
+title: Слава Украине!
+---
 
 | Statistic | Value |
 | --- | --- |

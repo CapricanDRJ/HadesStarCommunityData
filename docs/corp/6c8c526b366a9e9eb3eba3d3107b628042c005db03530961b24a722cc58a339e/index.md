@@ -1,4 +1,7 @@
-# Duchy Arrakis
+---
+layout: page
+title: Duchy Arrakis
+---
 
 | Statistic | Value |
 | --- | --- |

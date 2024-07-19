@@ -1,4 +1,7 @@
-# Cerulean Nebula
+---
+layout: page
+title: Cerulean Nebula
+---
 
 | Statistic | Value |
 | --- | --- |

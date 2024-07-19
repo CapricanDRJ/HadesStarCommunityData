@@ -1,4 +1,7 @@
-# BlackOrca
+---
+layout: page
+title: BlackOrca
+---
 
 | Statistic | Value |
 | --- | --- |

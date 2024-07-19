@@ -1,4 +1,7 @@
-# Tortuga Station
+---
+layout: page
+title: Tortuga Station
+---
 
 | Statistic | Value |
 | --- | --- |

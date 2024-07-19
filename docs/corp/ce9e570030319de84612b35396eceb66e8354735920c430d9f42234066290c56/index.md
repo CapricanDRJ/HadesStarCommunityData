@@ -1,4 +1,7 @@
-# Canada 55
+---
+layout: page
+title: Canada 55
+---
 
 | Statistic | Value |
 | --- | --- |

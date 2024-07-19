@@ -1,4 +1,7 @@
-# Phoenix Squad
+---
+layout: page
+title: Phoenix Squad
+---
 
 | Statistic | Value |
 | --- | --- |

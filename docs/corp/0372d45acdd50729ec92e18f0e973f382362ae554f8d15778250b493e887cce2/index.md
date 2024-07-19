@@ -1,4 +1,7 @@
-# CDG
+---
+layout: page
+title: CDG
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# 42 Nova Corps.
+---
+layout: page
+title: 42 Nova Corps.
+---
 
 | Statistic | Value |
 | --- | --- |

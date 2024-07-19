@@ -1,4 +1,7 @@
-# Spaceballs
+---
+layout: page
+title: Spaceballs
+---
 
 | Statistic | Value |
 | --- | --- |

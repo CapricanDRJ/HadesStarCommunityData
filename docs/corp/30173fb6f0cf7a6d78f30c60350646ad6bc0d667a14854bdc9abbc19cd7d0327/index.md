@@ -1,4 +1,7 @@
-# Embers Rising
+---
+layout: page
+title: Embers Rising
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# 小红色太阳
+---
+layout: page
+title: 小红色太阳
+---
 
 | Statistic | Value |
 | --- | --- |

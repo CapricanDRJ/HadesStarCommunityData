@@ -1,4 +1,7 @@
-# OPA
+---
+layout: page
+title: OPA
+---
 
 | Statistic | Value |
 | --- | --- |

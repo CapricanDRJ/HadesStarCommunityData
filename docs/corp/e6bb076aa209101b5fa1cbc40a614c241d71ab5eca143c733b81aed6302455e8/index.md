@@ -1,4 +1,7 @@
-# 逐光起航
+---
+layout: page
+title: 逐光起航
+---
 
 | Statistic | Value |
 | --- | --- |

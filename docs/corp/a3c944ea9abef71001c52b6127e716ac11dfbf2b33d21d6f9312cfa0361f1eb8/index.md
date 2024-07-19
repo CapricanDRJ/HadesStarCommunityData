@@ -1,4 +1,7 @@
-# Irish Pride 
+---
+layout: page
+title: Irish Pride 
+---
 
 | Statistic | Value |
 | --- | --- |

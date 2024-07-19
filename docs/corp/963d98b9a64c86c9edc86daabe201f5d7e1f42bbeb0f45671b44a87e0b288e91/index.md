@@ -1,4 +1,7 @@
-# Los Unidos 
+---
+layout: page
+title: Los Unidos 
+---
 
 | Statistic | Value |
 | --- | --- |

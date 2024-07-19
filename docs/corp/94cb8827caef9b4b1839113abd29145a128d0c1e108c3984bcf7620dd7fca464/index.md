@@ -1,4 +1,7 @@
-# Outland Ind.
+---
+layout: page
+title: Outland Ind.
+---
 
 | Statistic | Value |
 | --- | --- |

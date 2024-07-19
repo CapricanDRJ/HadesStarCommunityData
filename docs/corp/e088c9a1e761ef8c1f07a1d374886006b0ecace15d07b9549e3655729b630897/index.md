@@ -1,4 +1,7 @@
-# Germania
+---
+layout: page
+title: Germania
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Spiritic Beacon
+---
+layout: page
+title: Spiritic Beacon
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# МАРСЮКИ
+---
+layout: page
+title: МАРСЮКИ
+---
 
 | Statistic | Value |
 | --- | --- |

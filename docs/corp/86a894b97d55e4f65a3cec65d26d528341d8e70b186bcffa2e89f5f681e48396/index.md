@@ -1,4 +1,7 @@
-# Stella☆Glow
+---
+layout: page
+title: Stella☆Glow
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Gold Star
+---
+layout: page
+title: Gold Star
+---
 
 | Statistic | Value |
 | --- | --- |

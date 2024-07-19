@@ -1,4 +1,7 @@
-# Wispered Storm
+---
+layout: page
+title: Wispered Storm
+---
 
 | Statistic | Value |
 | --- | --- |

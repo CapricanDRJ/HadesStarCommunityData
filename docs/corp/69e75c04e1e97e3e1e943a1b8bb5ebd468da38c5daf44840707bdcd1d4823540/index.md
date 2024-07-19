@@ -1,4 +1,7 @@
-# 洛神峰
+---
+layout: page
+title: 洛神峰
+---
 
 | Statistic | Value |
 | --- | --- |

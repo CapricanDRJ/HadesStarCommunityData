@@ -1,4 +1,7 @@
-# Hail Hydra
+---
+layout: page
+title: Hail Hydra
+---
 
 | Statistic | Value |
 | --- | --- |

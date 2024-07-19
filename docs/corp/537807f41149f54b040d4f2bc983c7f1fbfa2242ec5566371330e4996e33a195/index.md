@@ -1,4 +1,7 @@
-# Tormenta
+---
+layout: page
+title: Tormenta
+---
 
 | Statistic | Value |
 | --- | --- |

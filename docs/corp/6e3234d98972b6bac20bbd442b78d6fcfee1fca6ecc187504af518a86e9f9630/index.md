@@ -1,4 +1,7 @@
-# VAJRA 
+---
+layout: page
+title: VAJRA 
+---
 
 | Statistic | Value |
 | --- | --- |

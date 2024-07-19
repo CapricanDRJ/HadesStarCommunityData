@@ -1,4 +1,7 @@
-# Pumpkin
+---
+layout: page
+title: Pumpkin
+---
 
 | Statistic | Value |
 | --- | --- |

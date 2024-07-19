@@ -1,4 +1,7 @@
-# Galaxian
+---
+layout: page
+title: Galaxian
+---
 
 | Statistic | Value |
 | --- | --- |

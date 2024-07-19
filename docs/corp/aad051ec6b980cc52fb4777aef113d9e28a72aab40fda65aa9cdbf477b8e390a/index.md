@@ -1,4 +1,7 @@
-# West Worlders
+---
+layout: page
+title: West Worlders
+---
 
 | Statistic | Value |
 | --- | --- |

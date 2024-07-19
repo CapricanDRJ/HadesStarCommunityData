@@ -1,4 +1,7 @@
-# 德意志第三帝国奥米加分部
+---
+layout: page
+title: 德意志第三帝国奥米加分部
+---
 
 | Statistic | Value |
 | --- | --- |

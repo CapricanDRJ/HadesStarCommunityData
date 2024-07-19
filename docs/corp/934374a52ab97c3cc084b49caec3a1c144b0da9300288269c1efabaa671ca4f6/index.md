@@ -1,4 +1,7 @@
-# LUPI ROMÎNI
+---
+layout: page
+title: LUPI ROMÎNI
+---
 
 | Statistic | Value |
 | --- | --- |

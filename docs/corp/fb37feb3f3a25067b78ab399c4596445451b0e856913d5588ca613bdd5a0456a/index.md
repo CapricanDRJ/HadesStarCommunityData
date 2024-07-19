@@ -1,4 +1,7 @@
-# Castellón 
+---
+layout: page
+title: Castellón 
+---
 
 | Statistic | Value |
 | --- | --- |

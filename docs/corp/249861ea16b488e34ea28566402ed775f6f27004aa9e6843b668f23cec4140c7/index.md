@@ -1,4 +1,7 @@
-# HAL
+---
+layout: page
+title: HAL
+---
 
 | Statistic | Value |
 | --- | --- |

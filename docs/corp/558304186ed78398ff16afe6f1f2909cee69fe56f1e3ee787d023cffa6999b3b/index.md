@@ -1,4 +1,7 @@
-# 六大天神.轻歌之影
+---
+layout: page
+title: 六大天神.轻歌之影
+---
 
 | Statistic | Value |
 | --- | --- |

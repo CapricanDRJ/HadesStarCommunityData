@@ -1,4 +1,7 @@
-# ༀᅗBAR ESTELARᅗༀ
+---
+layout: page
+title: ༀᅗBAR ESTELARᅗༀ
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Village of Evil
+---
+layout: page
+title: Village of Evil
+---
 
 | Statistic | Value |
 | --- | --- |

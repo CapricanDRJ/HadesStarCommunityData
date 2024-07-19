@@ -1,4 +1,7 @@
-# Spy Corp
+---
+layout: page
+title: Spy Corp
+---
 
 | Statistic | Value |
 | --- | --- |

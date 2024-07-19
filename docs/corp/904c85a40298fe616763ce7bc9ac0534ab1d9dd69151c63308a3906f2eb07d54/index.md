@@ -1,4 +1,7 @@
-# Thunderbears
+---
+layout: page
+title: Thunderbears
+---
 
 | Statistic | Value |
 | --- | --- |

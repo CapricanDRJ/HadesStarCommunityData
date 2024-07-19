@@ -1,4 +1,7 @@
-# HighSociety
+---
+layout: page
+title: HighSociety
+---
 
 | Statistic | Value |
 | --- | --- |

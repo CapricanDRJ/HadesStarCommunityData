@@ -1,4 +1,7 @@
-# Curcubeu
+---
+layout: page
+title: Curcubeu
+---
 
 | Statistic | Value |
 | --- | --- |

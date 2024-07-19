@@ -1,4 +1,7 @@
-# CIS
+---
+layout: page
+title: CIS
+---
 
 | Statistic | Value |
 | --- | --- |

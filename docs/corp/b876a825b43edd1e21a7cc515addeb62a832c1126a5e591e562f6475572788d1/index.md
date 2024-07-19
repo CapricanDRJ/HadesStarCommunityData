@@ -1,4 +1,7 @@
-# AlSounT
+---
+layout: page
+title: AlSounT
+---
 
 | Statistic | Value |
 | --- | --- |

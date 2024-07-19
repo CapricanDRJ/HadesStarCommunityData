@@ -1,4 +1,7 @@
-# Mecha Armada
+---
+layout: page
+title: Mecha Armada
+---
 
 | Statistic | Value |
 | --- | --- |

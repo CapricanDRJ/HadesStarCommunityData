@@ -1,4 +1,7 @@
-# /tmp
+---
+layout: page
+title: /tmp
+---
 
 | Statistic | Value |
 | --- | --- |

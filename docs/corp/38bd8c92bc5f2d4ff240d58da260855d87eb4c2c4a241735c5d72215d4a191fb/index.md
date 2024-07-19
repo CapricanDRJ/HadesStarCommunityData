@@ -1,4 +1,7 @@
-# Nebula
+---
+layout: page
+title: Nebula
+---
 
 | Statistic | Value |
 | --- | --- |

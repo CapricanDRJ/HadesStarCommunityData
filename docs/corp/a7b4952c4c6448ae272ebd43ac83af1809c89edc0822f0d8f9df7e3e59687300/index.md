@@ -1,4 +1,7 @@
-# CENTINELA
+---
+layout: page
+title: CENTINELA
+---
 
 | Statistic | Value |
 | --- | --- |

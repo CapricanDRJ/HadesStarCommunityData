@@ -1,4 +1,7 @@
-# 边界-萌新俱乐部
+---
+layout: page
+title: 边界-萌新俱乐部
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# New Era
+---
+layout: page
+title: New Era
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# TeddisaurusWrex
+---
+layout: page
+title: TeddisaurusWrex
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Anarchy G13
+---
+layout: page
+title: Anarchy G13
+---
 
 | Statistic | Value |
 | --- | --- |

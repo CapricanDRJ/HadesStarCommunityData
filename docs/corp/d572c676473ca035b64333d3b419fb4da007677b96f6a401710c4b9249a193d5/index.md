@@ -1,4 +1,7 @@
-# Укр інтроверти
+---
+layout: page
+title: Укр інтроверти
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Ten Forward
+---
+layout: page
+title: Ten Forward
+---
 
 | Statistic | Value |
 | --- | --- |

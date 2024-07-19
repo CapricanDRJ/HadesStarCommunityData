@@ -1,4 +1,7 @@
-# 嘤嘤嘤嘤嘤嘤嘤嘤
+---
+layout: page
+title: 嘤嘤嘤嘤嘤嘤嘤嘤
+---
 
 | Statistic | Value |
 | --- | --- |

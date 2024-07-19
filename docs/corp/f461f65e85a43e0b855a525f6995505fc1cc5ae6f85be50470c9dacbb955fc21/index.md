@@ -1,4 +1,7 @@
-# Cowboys
+---
+layout: page
+title: Cowboys
+---
 
 | Statistic | Value |
 | --- | --- |

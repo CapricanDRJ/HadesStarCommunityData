@@ -1,4 +1,7 @@
-# Liasteria
+---
+layout: page
+title: Liasteria
+---
 
 | Statistic | Value |
 | --- | --- |

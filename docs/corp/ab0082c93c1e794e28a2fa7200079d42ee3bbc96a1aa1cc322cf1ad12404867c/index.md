@@ -1,4 +1,7 @@
-# 中华人民共和国
+---
+layout: page
+title: 中华人民共和国
+---
 
 | Statistic | Value |
 | --- | --- |

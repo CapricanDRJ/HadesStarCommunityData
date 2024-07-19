@@ -1,4 +1,7 @@
-# 风云集团
+---
+layout: page
+title: 风云集团
+---
 
 | Statistic | Value |
 | --- | --- |

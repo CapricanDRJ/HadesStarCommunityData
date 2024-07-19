@@ -1,4 +1,7 @@
-# On en a Gros ! 
+---
+layout: page
+title: On en a Gros ! 
+---
 
 | Statistic | Value |
 | --- | --- |

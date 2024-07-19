@@ -1,4 +1,7 @@
-# 雪月永恒
+---
+layout: page
+title: 雪月永恒
+---
 
 | Statistic | Value |
 | --- | --- |

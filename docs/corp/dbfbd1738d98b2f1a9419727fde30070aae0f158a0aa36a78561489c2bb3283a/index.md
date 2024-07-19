@@ -1,4 +1,7 @@
-# Green Dwarf
+---
+layout: page
+title: Green Dwarf
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Best
+---
+layout: page
+title: Best
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# The Allegiant
+---
+layout: page
+title: The Allegiant
+---
 
 | Statistic | Value |
 | --- | --- |

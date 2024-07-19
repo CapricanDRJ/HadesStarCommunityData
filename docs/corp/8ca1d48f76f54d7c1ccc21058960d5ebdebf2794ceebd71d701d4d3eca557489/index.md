@@ -1,4 +1,7 @@
-# 第一基地·端点星
+---
+layout: page
+title: 第一基地·端点星
+---
 
 | Statistic | Value |
 | --- | --- |

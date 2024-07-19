@@ -1,4 +1,7 @@
-# M4-Valhalla
+---
+layout: page
+title: M4-Valhalla
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Cominters
+---
+layout: page
+title: Cominters
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# INFINITY STAR
+---
+layout: page
+title: INFINITY STAR
+---
 
 | Statistic | Value |
 | --- | --- |

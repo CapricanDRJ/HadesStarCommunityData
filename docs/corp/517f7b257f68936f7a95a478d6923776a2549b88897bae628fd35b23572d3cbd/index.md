@@ -1,4 +1,7 @@
-# Spacefleet
+---
+layout: page
+title: Spacefleet
+---
 
 | Statistic | Value |
 | --- | --- |

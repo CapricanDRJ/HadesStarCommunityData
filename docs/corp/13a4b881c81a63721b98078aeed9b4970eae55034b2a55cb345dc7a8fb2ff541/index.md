@@ -1,4 +1,7 @@
-# Бороская Имерия
+---
+layout: page
+title: Бороская Имерия
+---
 
 | Statistic | Value |
 | --- | --- |

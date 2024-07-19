@@ -1,4 +1,7 @@
-# wyvern
+---
+layout: page
+title: wyvern
+---
 
 | Statistic | Value |
 | --- | --- |

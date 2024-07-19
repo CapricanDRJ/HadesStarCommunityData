@@ -1,4 +1,7 @@
-# GermanIndustrie
+---
+layout: page
+title: GermanIndustrie
+---
 
 | Statistic | Value |
 | --- | --- |

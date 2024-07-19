@@ -1,4 +1,7 @@
-# Croce del Sud
+---
+layout: page
+title: Croce del Sud
+---
 
 | Statistic | Value |
 | --- | --- |

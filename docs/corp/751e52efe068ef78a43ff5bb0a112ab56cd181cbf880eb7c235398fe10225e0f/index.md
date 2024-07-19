@@ -1,4 +1,7 @@
-# StalkerUA 
+---
+layout: page
+title: StalkerUA 
+---
 
 | Statistic | Value |
 | --- | --- |

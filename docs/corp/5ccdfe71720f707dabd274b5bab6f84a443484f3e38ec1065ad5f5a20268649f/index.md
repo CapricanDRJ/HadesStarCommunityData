@@ -1,4 +1,7 @@
-# Copelius
+---
+layout: page
+title: Copelius
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Prometheus
+---
+layout: page
+title: Prometheus
+---
 
 | Statistic | Value |
 | --- | --- |

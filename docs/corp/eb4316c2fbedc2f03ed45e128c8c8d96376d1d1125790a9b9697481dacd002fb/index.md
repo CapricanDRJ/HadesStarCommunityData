@@ -1,4 +1,7 @@
-# 湖心亭看雪
+---
+layout: page
+title: 湖心亭看雪
+---
 
 | Statistic | Value |
 | --- | --- |

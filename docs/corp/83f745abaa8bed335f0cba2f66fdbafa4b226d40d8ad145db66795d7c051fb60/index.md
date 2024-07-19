@@ -1,4 +1,7 @@
-# 德意志第三帝国阿尔法分部
+---
+layout: page
+title: 德意志第三帝国阿尔法分部
+---
 
 | Statistic | Value |
 | --- | --- |

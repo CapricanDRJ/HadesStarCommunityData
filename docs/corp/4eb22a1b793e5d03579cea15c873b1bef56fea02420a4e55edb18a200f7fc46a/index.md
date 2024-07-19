@@ -1,4 +1,7 @@
-# империя тьмы
+---
+layout: page
+title: империя тьмы
+---
 
 | Statistic | Value |
 | --- | --- |

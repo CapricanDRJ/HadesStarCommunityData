@@ -1,4 +1,7 @@
-# FAIR
+---
+layout: page
+title: FAIR
+---
 
 | Statistic | Value |
 | --- | --- |

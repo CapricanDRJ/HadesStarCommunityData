@@ -1,4 +1,7 @@
-# U.P.E
+---
+layout: page
+title: U.P.E
+---
 
 | Statistic | Value |
 | --- | --- |

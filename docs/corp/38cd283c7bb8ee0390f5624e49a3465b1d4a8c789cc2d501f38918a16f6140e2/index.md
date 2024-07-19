@@ -1,4 +1,7 @@
-# [Blue*Nation]
+---
+layout: page
+title: [Blue*Nation]
+---
 
 | Statistic | Value |
 | --- | --- |

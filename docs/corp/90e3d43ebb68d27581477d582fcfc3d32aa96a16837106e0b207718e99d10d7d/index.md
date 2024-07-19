@@ -1,4 +1,7 @@
-# Draconis
+---
+layout: page
+title: Draconis
+---
 
 | Statistic | Value |
 | --- | --- |

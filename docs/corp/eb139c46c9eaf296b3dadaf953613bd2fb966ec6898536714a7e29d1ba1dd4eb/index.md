@@ -1,4 +1,7 @@
-# ELITE
+---
+layout: page
+title: ELITE
+---
 
 | Statistic | Value |
 | --- | --- |

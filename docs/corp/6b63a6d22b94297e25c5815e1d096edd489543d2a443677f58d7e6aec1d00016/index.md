@@ -1,4 +1,7 @@
-# NASA Air base
+---
+layout: page
+title: NASA Air base
+---
 
 | Statistic | Value |
 | --- | --- |

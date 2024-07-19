@@ -1,4 +1,7 @@
-# Richthofen
+---
+layout: page
+title: Richthofen
+---
 
 | Statistic | Value |
 | --- | --- |

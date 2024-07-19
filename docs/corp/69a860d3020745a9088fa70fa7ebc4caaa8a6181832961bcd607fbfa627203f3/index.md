@@ -1,4 +1,7 @@
-# 对，进就进人少的（分团）
+---
+layout: page
+title: 对，进就进人少的（分团）
+---
 
 | Statistic | Value |
 | --- | --- |

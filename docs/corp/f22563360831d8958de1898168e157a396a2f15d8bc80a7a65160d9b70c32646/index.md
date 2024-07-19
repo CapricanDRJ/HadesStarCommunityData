@@ -1,4 +1,7 @@
-# Three Rivers
+---
+layout: page
+title: Three Rivers
+---
 
 | Statistic | Value |
 | --- | --- |

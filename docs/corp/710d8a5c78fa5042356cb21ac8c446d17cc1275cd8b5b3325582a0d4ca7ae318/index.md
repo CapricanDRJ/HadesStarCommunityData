@@ -1,4 +1,7 @@
-# SONS OF SUNS
+---
+layout: page
+title: SONS OF SUNS
+---
 
 | Statistic | Value |
 | --- | --- |

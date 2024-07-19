@@ -1,4 +1,7 @@
-# ДИВЕРСАНТЫ
+---
+layout: page
+title: ДИВЕРСАНТЫ
+---
 
 | Statistic | Value |
 | --- | --- |

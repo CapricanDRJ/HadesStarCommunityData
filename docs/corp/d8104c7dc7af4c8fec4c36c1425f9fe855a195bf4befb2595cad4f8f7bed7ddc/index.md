@@ -1,4 +1,7 @@
-# Nearland Ind
+---
+layout: page
+title: Nearland Ind
+---
 
 | Statistic | Value |
 | --- | --- |

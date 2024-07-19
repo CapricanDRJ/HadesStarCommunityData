@@ -1,4 +1,7 @@
-# Novana Gaming
+---
+layout: page
+title: Novana Gaming
+---
 
 | Statistic | Value |
 | --- | --- |

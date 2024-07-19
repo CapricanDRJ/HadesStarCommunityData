@@ -1,4 +1,7 @@
-# Bund von Lykon
+---
+layout: page
+title: Bund von Lykon
+---
 
 | Statistic | Value |
 | --- | --- |

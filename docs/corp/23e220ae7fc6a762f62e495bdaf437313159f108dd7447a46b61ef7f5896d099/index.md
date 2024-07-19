@@ -1,4 +1,7 @@
-# Suicide Squad
+---
+layout: page
+title: Suicide Squad
+---
 
 | Statistic | Value |
 | --- | --- |

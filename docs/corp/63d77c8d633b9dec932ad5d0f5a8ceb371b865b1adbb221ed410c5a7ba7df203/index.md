@@ -1,4 +1,7 @@
-# Cerulean Star
+---
+layout: page
+title: Cerulean Star
+---
 
 | Statistic | Value |
 | --- | --- |

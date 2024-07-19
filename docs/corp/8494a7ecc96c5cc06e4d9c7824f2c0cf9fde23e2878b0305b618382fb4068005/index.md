@@ -1,4 +1,7 @@
-# 黑色长城
+---
+layout: page
+title: 黑色长城
+---
 
 | Statistic | Value |
 | --- | --- |

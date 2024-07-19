@@ -1,4 +1,7 @@
-# Jesus Followers
+---
+layout: page
+title: Jesus Followers
+---
 
 | Statistic | Value |
 | --- | --- |

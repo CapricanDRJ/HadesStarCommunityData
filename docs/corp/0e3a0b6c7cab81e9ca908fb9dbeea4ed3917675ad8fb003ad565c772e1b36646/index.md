@@ -1,4 +1,7 @@
-# 銀河戰狼
+---
+layout: page
+title: 銀河戰狼
+---
 
 | Statistic | Value |
 | --- | --- |

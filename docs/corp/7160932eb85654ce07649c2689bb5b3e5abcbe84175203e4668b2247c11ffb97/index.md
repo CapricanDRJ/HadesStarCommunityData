@@ -1,4 +1,7 @@
-# Star Field
+---
+layout: page
+title: Star Field
+---
 
 | Statistic | Value |
 | --- | --- |

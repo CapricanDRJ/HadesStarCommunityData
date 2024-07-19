@@ -1,4 +1,7 @@
-# FoxTale
+---
+layout: page
+title: FoxTale
+---
 
 | Statistic | Value |
 | --- | --- |

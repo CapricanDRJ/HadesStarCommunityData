@@ -1,4 +1,7 @@
-# Hinterm Mars
+---
+layout: page
+title: Hinterm Mars
+---
 
 | Statistic | Value |
 | --- | --- |

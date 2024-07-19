@@ -1,4 +1,7 @@
-# Revólver
+---
+layout: page
+title: Revólver
+---
 
 | Statistic | Value |
 | --- | --- |

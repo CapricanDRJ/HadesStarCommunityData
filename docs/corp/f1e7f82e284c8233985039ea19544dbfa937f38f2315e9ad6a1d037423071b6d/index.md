@@ -1,4 +1,7 @@
-# RUFORS
+---
+layout: page
+title: RUFORS
+---
 
 | Statistic | Value |
 | --- | --- |

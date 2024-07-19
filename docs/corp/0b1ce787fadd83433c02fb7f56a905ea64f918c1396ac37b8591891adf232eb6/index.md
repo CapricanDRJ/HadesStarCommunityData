@@ -1,4 +1,7 @@
-# Kelebra
+---
+layout: page
+title: Kelebra
+---
 
 | Statistic | Value |
 | --- | --- |

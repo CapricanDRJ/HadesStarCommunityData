@@ -1,4 +1,7 @@
-# 红日初升，其道大光
+---
+layout: page
+title: 红日初升，其道大光
+---
 
 | Statistic | Value |
 | --- | --- |

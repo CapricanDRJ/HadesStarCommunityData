@@ -1,4 +1,7 @@
-# Weyland Yutani 
+---
+layout: page
+title: Weyland Yutani 
+---
 
 | Statistic | Value |
 | --- | --- |

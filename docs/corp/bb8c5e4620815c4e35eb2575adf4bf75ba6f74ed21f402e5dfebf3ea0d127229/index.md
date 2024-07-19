@@ -1,4 +1,7 @@
-# Dadsw/Daughterz
+---
+layout: page
+title: Dadsw/Daughterz
+---
 
 | Statistic | Value |
 | --- | --- |

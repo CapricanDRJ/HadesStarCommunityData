@@ -1,4 +1,7 @@
-# Free Ag3nts
+---
+layout: page
+title: Free Ag3nts
+---
 
 | Statistic | Value |
 | --- | --- |

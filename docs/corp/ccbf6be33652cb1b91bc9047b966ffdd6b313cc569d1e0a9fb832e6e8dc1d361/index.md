@@ -1,4 +1,7 @@
-# 数字星际集团
+---
+layout: page
+title: 数字星际集团
+---
 
 | Statistic | Value |
 | --- | --- |

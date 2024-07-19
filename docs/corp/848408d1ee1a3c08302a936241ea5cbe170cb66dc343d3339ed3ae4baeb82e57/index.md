@@ -1,4 +1,7 @@
-# Decode
+---
+layout: page
+title: Decode
+---
 
 | Statistic | Value |
 | --- | --- |

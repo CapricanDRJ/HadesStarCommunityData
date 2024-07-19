@@ -1,4 +1,7 @@
-# 星海扬帆
+---
+layout: page
+title: 星海扬帆
+---
 
 | Statistic | Value |
 | --- | --- |

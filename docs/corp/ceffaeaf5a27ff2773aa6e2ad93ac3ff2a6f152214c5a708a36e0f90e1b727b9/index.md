@@ -1,4 +1,7 @@
-# Девчата
+---
+layout: page
+title: Девчата
+---
 
 | Statistic | Value |
 | --- | --- |

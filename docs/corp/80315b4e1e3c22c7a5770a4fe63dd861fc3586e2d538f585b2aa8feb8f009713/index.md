@@ -1,4 +1,7 @@
-# 宇氏集团
+---
+layout: page
+title: 宇氏集团
+---
 
 | Statistic | Value |
 | --- | --- |

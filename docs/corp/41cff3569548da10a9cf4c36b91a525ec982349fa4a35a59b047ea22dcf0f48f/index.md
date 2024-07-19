@@ -1,4 +1,7 @@
-# TRAPSTAR¹
+---
+layout: page
+title: TRAPSTAR¹
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Polish Pirates
+---
+layout: page
+title: Polish Pirates
+---
 
 | Statistic | Value |
 | --- | --- |

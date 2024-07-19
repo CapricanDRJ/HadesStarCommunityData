@@ -1,4 +1,7 @@
-# Северный флот 
+---
+layout: page
+title: Северный флот 
+---
 
 | Statistic | Value |
 | --- | --- |

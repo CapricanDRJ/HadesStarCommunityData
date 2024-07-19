@@ -1,4 +1,7 @@
-# Gulinga
+---
+layout: page
+title: Gulinga
+---
 
 | Statistic | Value |
 | --- | --- |

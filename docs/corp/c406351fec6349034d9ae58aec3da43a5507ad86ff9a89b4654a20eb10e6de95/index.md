@@ -1,4 +1,7 @@
-# Альянс звезд
+---
+layout: page
+title: Альянс звезд
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Warriorlords
+---
+layout: page
+title: Warriorlords
+---
 
 | Statistic | Value |
 | --- | --- |

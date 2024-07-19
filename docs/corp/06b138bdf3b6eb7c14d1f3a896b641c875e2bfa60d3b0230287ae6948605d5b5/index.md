@@ -1,4 +1,7 @@
-# Dirty Laundry 
+---
+layout: page
+title: Dirty Laundry 
+---
 
 | Statistic | Value |
 | --- | --- |

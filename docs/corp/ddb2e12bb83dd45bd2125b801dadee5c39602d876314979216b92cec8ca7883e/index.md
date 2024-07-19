@@ -1,4 +1,7 @@
-# Metal Nova
+---
+layout: page
+title: Metal Nova
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Grand Mechanism
+---
+layout: page
+title: Grand Mechanism
+---
 
 | Statistic | Value |
 | --- | --- |

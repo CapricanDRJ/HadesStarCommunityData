@@ -1,4 +1,7 @@
-# 共和服务器
+---
+layout: page
+title: 共和服务器
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# КРЫЛЯ ФЕНИКСА
+---
+layout: page
+title: КРЫЛЯ ФЕНИКСА
+---
 
 | Statistic | Value |
 | --- | --- |

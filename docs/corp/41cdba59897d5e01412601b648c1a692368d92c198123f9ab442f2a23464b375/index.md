@@ -1,4 +1,7 @@
-# Crux Cadre
+---
+layout: page
+title: Crux Cadre
+---
 
 | Statistic | Value |
 | --- | --- |

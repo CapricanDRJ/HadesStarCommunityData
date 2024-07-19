@@ -1,4 +1,7 @@
-# RDR2
+---
+layout: page
+title: RDR2
+---
 
 | Statistic | Value |
 | --- | --- |

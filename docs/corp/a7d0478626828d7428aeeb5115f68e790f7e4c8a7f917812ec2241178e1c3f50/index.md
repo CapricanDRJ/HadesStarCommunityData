@@ -1,4 +1,7 @@
-# Альянс
+---
+layout: page
+title: Альянс
+---
 
 | Statistic | Value |
 | --- | --- |

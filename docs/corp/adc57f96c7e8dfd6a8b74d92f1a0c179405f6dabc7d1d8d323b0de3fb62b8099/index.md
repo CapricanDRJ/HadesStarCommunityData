@@ -1,4 +1,7 @@
-# Bandidos
+---
+layout: page
+title: Bandidos
+---
 
 | Statistic | Value |
 | --- | --- |

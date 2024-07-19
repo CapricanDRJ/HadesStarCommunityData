@@ -1,4 +1,7 @@
-# UKR Spase
+---
+layout: page
+title: UKR Spase
+---
 
 | Statistic | Value |
 | --- | --- |

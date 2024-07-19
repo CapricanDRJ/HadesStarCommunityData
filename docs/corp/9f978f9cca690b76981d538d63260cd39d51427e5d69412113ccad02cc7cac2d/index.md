@@ -1,4 +1,7 @@
-# Soylent Corp.
+---
+layout: page
+title: Soylent Corp.
+---
 
 | Statistic | Value |
 | --- | --- |

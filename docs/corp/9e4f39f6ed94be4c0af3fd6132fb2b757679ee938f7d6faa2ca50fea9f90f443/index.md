@@ -1,4 +1,7 @@
-# Uniones
+---
+layout: page
+title: Uniones
+---
 
 | Statistic | Value |
 | --- | --- |

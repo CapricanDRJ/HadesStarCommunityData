@@ -1,4 +1,7 @@
-# 三体舰队
+---
+layout: page
+title: 三体舰队
+---
 
 | Statistic | Value |
 | --- | --- |

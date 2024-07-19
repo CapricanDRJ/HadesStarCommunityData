@@ -1,4 +1,7 @@
-# Рикардия
+---
+layout: page
+title: Рикардия
+---
 
 | Statistic | Value |
 | --- | --- |

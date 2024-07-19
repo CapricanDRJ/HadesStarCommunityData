@@ -1,4 +1,7 @@
-# Türk Yıldızları
+---
+layout: page
+title: Türk Yıldızları
+---
 
 | Statistic | Value |
 | --- | --- |

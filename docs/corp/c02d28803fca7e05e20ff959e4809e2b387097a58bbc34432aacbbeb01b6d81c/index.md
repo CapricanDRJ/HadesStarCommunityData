@@ -1,4 +1,7 @@
-# Mandalorians
+---
+layout: page
+title: Mandalorians
+---
 
 | Statistic | Value |
 | --- | --- |

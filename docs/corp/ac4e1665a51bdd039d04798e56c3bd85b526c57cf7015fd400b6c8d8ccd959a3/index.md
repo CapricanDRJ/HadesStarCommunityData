@@ -1,4 +1,7 @@
-# 63SALVADORES36
+---
+layout: page
+title: 63SALVADORES36
+---
 
 | Statistic | Value |
 | --- | --- |

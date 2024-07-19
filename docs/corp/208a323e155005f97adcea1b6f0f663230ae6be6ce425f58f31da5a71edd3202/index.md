@@ -1,4 +1,7 @@
-# УпсПриехали
+---
+layout: page
+title: УпсПриехали
+---
 
 | Statistic | Value |
 | --- | --- |

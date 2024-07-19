@@ -1,4 +1,7 @@
-# 小宇宙研究会
+---
+layout: page
+title: 小宇宙研究会
+---
 
 | Statistic | Value |
 | --- | --- |

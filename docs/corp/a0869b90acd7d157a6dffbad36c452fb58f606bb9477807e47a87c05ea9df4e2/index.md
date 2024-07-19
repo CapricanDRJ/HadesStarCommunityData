@@ -1,4 +1,7 @@
-# Freelancer
+---
+layout: page
+title: Freelancer
+---
 
 | Statistic | Value |
 | --- | --- |

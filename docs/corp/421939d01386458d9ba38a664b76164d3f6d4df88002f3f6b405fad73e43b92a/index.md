@@ -1,4 +1,7 @@
-# Megacorp
+---
+layout: page
+title: Megacorp
+---
 
 | Statistic | Value |
 | --- | --- |

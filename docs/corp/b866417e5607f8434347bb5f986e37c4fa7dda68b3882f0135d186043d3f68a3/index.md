@@ -1,4 +1,7 @@
-# VoidCorp
+---
+layout: page
+title: VoidCorp
+---
 
 | Statistic | Value |
 | --- | --- |

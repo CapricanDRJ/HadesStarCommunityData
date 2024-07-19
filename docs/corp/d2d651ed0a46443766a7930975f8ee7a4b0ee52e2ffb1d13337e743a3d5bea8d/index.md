@@ -1,4 +1,7 @@
-# RUS
+---
+layout: page
+title: RUS
+---
 
 | Statistic | Value |
 | --- | --- |

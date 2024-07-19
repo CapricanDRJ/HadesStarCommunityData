@@ -1,4 +1,7 @@
-# Lacuna Holdings
+---
+layout: page
+title: Lacuna Holdings
+---
 
 | Statistic | Value |
 | --- | --- |

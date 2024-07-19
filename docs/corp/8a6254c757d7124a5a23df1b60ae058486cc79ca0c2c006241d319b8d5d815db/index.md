@@ -1,4 +1,7 @@
-# Russia
+---
+layout: page
+title: Russia
+---
 
 | Statistic | Value |
 | --- | --- |

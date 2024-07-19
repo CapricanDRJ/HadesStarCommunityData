@@ -1,4 +1,7 @@
-# Sith Academy
+---
+layout: page
+title: Sith Academy
+---
 
 | Statistic | Value |
 | --- | --- |

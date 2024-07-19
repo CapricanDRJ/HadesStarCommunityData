@@ -1,4 +1,7 @@
-# Hyperion Radius
+---
+layout: page
+title: Hyperion Radius
+---
 
 | Statistic | Value |
 | --- | --- |

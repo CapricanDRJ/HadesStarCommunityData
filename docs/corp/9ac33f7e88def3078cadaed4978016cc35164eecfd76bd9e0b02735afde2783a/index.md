@@ -1,4 +1,7 @@
-# Dying stars
+---
+layout: page
+title: Dying stars
+---
 
 | Statistic | Value |
 | --- | --- |

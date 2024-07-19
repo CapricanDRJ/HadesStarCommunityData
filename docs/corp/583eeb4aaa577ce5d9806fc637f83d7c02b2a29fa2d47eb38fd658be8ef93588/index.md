@@ -1,4 +1,7 @@
-# Bunker
+---
+layout: page
+title: Bunker
+---
 
 | Statistic | Value |
 | --- | --- |

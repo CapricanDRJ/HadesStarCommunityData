@@ -1,4 +1,7 @@
-# 零号帝国
+---
+layout: page
+title: 零号帝国
+---
 
 | Statistic | Value |
 | --- | --- |

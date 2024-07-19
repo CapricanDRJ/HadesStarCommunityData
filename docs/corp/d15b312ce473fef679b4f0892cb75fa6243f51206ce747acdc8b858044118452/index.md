@@ -1,4 +1,7 @@
-# La NoChE NeGrA
+---
+layout: page
+title: La NoChE NeGrA
+---
 
 | Statistic | Value |
 | --- | --- |

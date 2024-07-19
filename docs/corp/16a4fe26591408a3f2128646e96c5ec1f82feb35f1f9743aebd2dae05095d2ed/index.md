@@ -1,4 +1,7 @@
-# 揽月宫
+---
+layout: page
+title: 揽月宫
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Federation 
+---
+layout: page
+title: Federation 
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Wacky Wabbits
+---
+layout: page
+title: Wacky Wabbits
+---
 
 | Statistic | Value |
 | --- | --- |

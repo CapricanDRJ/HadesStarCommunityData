@@ -1,4 +1,7 @@
-# Void
+---
+layout: page
+title: Void
+---
 
 | Statistic | Value |
 | --- | --- |

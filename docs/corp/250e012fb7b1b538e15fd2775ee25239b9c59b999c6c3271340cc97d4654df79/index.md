@@ -1,4 +1,7 @@
-# italian warrior
+---
+layout: page
+title: italian warrior
+---
 
 | Statistic | Value |
 | --- | --- |

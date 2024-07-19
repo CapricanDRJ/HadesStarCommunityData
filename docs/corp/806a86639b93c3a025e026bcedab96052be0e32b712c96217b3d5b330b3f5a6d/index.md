@@ -1,4 +1,7 @@
-# OntarioDestiny
+---
+layout: page
+title: OntarioDestiny
+---
 
 | Statistic | Value |
 | --- | --- |

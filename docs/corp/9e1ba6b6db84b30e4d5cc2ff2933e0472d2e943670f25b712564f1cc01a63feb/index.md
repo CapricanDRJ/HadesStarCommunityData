@@ -1,4 +1,7 @@
-# AwA
+---
+layout: page
+title: AwA
+---
 
 | Statistic | Value |
 | --- | --- |

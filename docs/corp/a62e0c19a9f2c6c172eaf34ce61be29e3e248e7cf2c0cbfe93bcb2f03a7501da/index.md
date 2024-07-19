@@ -1,4 +1,7 @@
-# КОРПОРАЦИЯ ЗЛА
+---
+layout: page
+title: КОРПОРАЦИЯ ЗЛА
+---
 
 | Statistic | Value |
 | --- | --- |

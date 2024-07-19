@@ -1,4 +1,7 @@
-# Quin Armarda 2
+---
+layout: page
+title: Quin Armarda 2
+---
 
 | Statistic | Value |
 | --- | --- |

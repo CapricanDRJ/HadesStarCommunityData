@@ -1,4 +1,7 @@
-# SYNDICATE
+---
+layout: page
+title: SYNDICATE
+---
 
 | Statistic | Value |
 | --- | --- |

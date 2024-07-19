@@ -1,4 +1,7 @@
-# Star Raiders
+---
+layout: page
+title: Star Raiders
+---
 
 | Statistic | Value |
 | --- | --- |

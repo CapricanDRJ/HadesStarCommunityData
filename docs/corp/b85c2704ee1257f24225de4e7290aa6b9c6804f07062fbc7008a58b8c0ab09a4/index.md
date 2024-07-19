@@ -1,4 +1,7 @@
-# Eastern Front
+---
+layout: page
+title: Eastern Front
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# TROLL SQUAD
+---
+layout: page
+title: TROLL SQUAD
+---
 
 | Statistic | Value |
 | --- | --- |

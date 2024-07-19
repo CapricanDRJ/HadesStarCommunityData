@@ -1,4 +1,7 @@
-# United Artists
+---
+layout: page
+title: United Artists
+---
 
 | Statistic | Value |
 | --- | --- |

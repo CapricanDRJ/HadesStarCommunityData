@@ -1,4 +1,7 @@
-# BLOK EKIPA
+---
+layout: page
+title: BLOK EKIPA
+---
 
 | Statistic | Value |
 | --- | --- |

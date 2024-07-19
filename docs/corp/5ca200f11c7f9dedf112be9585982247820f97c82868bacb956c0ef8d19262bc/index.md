@@ -1,4 +1,7 @@
-# Empire of Light
+---
+layout: page
+title: Empire of Light
+---
 
 | Statistic | Value |
 | --- | --- |

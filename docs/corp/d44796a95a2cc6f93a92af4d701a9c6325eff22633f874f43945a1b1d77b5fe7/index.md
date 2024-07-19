@@ -1,4 +1,7 @@
-# Ul'Adri
+---
+layout: page
+title: Ul'Adri
+---
 
 | Statistic | Value |
 | --- | --- |

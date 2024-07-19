@@ -1,4 +1,7 @@
-# Tau Alpha
+---
+layout: page
+title: Tau Alpha
+---
 
 | Statistic | Value |
 | --- | --- |

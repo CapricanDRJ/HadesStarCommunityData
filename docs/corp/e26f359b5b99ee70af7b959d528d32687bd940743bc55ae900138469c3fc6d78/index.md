@@ -1,4 +1,7 @@
-# UniversalCaos
+---
+layout: page
+title: UniversalCaos
+---
 
 | Statistic | Value |
 | --- | --- |

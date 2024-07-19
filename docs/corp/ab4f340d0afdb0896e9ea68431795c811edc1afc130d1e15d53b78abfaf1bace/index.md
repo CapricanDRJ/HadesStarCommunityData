@@ -1,4 +1,7 @@
-# Страж Галактики
+---
+layout: page
+title: Страж Галактики
+---
 
 | Statistic | Value |
 | --- | --- |

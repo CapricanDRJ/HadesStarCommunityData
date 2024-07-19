@@ -1,4 +1,7 @@
-# Galactic Otters
+---
+layout: page
+title: Galactic Otters
+---
 
 | Statistic | Value |
 | --- | --- |

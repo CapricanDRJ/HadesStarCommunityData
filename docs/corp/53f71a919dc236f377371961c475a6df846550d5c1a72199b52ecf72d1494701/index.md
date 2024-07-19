@@ -1,4 +1,7 @@
-# vosk empire 2
+---
+layout: page
+title: vosk empire 2
+---
 
 | Statistic | Value |
 | --- | --- |

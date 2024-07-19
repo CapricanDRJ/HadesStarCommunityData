@@ -1,4 +1,7 @@
-# Curiosity + Cat
+---
+layout: page
+title: Curiosity + Cat
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Коллайдер
+---
+layout: page
+title: Коллайдер
+---
 
 | Statistic | Value |
 | --- | --- |

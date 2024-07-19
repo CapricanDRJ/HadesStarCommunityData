@@ -1,4 +1,7 @@
-# The Syndicate 
+---
+layout: page
+title: The Syndicate 
+---
 
 | Statistic | Value |
 | --- | --- |

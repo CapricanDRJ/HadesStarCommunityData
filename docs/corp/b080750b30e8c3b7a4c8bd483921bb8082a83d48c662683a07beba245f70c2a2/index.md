@@ -1,4 +1,7 @@
-# NEW HOLLAND
+---
+layout: page
+title: NEW HOLLAND
+---
 
 | Statistic | Value |
 | --- | --- |

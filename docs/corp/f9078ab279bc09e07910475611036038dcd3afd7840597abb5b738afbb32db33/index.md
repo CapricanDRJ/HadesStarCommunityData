@@ -1,4 +1,7 @@
-# USAR@Hadesstar
+---
+layout: page
+title: USAR@Hadesstar
+---
 
 | Statistic | Value |
 | --- | --- |

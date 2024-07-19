@@ -1,4 +1,7 @@
-# 初始之音
+---
+layout: page
+title: 初始之音
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Kratos
+---
+layout: page
+title: Kratos
+---
 
 | Statistic | Value |
 | --- | --- |

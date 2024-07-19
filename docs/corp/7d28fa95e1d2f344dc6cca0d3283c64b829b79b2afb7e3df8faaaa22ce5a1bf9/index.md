@@ -1,4 +1,7 @@
-# Hand Of NOD! 
+---
+layout: page
+title: Hand Of NOD! 
+---
 
 | Statistic | Value |
 | --- | --- |

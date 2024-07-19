@@ -1,4 +1,7 @@
-# Troy
+---
+layout: page
+title: Troy
+---
 
 | Statistic | Value |
 | --- | --- |

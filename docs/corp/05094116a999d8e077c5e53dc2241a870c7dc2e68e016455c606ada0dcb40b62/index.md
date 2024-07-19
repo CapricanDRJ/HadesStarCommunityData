@@ -1,4 +1,7 @@
-# 地球星际集团
+---
+layout: page
+title: 地球星际集团
+---
 
 | Statistic | Value |
 | --- | --- |

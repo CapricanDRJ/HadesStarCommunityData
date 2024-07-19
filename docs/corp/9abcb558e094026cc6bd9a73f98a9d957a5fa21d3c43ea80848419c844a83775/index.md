@@ -1,4 +1,7 @@
-# Alpha Galaxy
+---
+layout: page
+title: Alpha Galaxy
+---
 
 | Statistic | Value |
 | --- | --- |

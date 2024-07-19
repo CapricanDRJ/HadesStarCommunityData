@@ -1,4 +1,7 @@
-# GermanSpaceUno.
+---
+layout: page
+title: GermanSpaceUno.
+---
 
 | Statistic | Value |
 | --- | --- |

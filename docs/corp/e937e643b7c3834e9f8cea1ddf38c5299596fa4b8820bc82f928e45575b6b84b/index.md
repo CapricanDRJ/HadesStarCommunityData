@@ -1,4 +1,7 @@
-# N.P.C
+---
+layout: page
+title: N.P.C
+---
 
 | Statistic | Value |
 | --- | --- |

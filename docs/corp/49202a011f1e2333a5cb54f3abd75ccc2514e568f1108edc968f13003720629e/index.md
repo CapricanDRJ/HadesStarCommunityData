@@ -1,4 +1,7 @@
-# Red Dwarf
+---
+layout: page
+title: Red Dwarf
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# UsualSuspects
+---
+layout: page
+title: UsualSuspects
+---
 
 | Statistic | Value |
 | --- | --- |

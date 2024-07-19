@@ -1,4 +1,7 @@
-# Star Destroyers
+---
+layout: page
+title: Star Destroyers
+---
 
 | Statistic | Value |
 | --- | --- |

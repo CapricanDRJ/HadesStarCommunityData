@@ -1,4 +1,7 @@
-# lost souls
+---
+layout: page
+title: lost souls
+---
 
 | Statistic | Value |
 | --- | --- |

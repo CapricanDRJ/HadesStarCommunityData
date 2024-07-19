@@ -1,4 +1,7 @@
-# TheBasics
+---
+layout: page
+title: TheBasics
+---
 
 | Statistic | Value |
 | --- | --- |

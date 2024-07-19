@@ -1,4 +1,7 @@
-# 云霄宫
+---
+layout: page
+title: 云霄宫
+---
 
 | Statistic | Value |
 | --- | --- |

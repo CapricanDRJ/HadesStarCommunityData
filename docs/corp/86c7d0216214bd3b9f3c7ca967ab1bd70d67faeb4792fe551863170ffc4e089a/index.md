@@ -1,4 +1,7 @@
-#   边界  
+---
+layout: page
+title:   边界  
+---
 
 | Statistic | Value |
 | --- | --- |

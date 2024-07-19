@@ -1,4 +1,7 @@
-# Dumpster Fire
+---
+layout: page
+title: Dumpster Fire
+---
 
 | Statistic | Value |
 | --- | --- |

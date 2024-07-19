@@ -1,4 +1,7 @@
-# Team Rainbow
+---
+layout: page
+title: Team Rainbow
+---
 
 | Statistic | Value |
 | --- | --- |

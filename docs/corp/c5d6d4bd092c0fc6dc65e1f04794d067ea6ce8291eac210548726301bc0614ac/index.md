@@ -1,4 +1,7 @@
-# Dritte Macht
+---
+layout: page
+title: Dritte Macht
+---
 
 | Statistic | Value |
 | --- | --- |

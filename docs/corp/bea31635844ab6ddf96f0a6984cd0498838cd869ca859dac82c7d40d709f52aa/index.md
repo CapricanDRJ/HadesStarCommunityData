@@ -1,4 +1,7 @@
-# 群星璀璨
+---
+layout: page
+title: 群星璀璨
+---
 
 | Statistic | Value |
 | --- | --- |

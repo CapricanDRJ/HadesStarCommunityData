@@ -1,4 +1,7 @@
-# the Rubber Duck
+---
+layout: page
+title: the Rubber Duck
+---
 
 | Statistic | Value |
 | --- | --- |

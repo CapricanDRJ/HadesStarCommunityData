@@ -1,4 +1,7 @@
-# Veil of Maya
+---
+layout: page
+title: Veil of Maya
+---
 
 | Statistic | Value |
 | --- | --- |

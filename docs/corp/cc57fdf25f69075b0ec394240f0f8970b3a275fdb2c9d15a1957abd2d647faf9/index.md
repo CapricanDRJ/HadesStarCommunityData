@@ -1,4 +1,7 @@
-# Vertin's box
+---
+layout: page
+title: Vertin's box
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# К звездам
+---
+layout: page
+title: К звездам
+---
 
 | Statistic | Value |
 | --- | --- |

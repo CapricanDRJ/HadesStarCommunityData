@@ -1,4 +1,7 @@
-# ГОРИЗОНТ
+---
+layout: page
+title: ГОРИЗОНТ
+---
 
 | Statistic | Value |
 | --- | --- |

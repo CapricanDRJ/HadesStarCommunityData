@@ -1,4 +1,7 @@
-# Jalisco México
+---
+layout: page
+title: Jalisco México
+---
 
 | Statistic | Value |
 | --- | --- |

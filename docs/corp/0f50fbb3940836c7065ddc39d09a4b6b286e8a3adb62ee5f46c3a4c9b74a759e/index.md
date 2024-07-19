@@ -1,4 +1,7 @@
-# Black Mirror Co
+---
+layout: page
+title: Black Mirror Co
+---
 
 | Statistic | Value |
 | --- | --- |

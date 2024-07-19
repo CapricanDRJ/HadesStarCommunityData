@@ -1,4 +1,7 @@
-# BlackDawn
+---
+layout: page
+title: BlackDawn
+---
 
 | Statistic | Value |
 | --- | --- |

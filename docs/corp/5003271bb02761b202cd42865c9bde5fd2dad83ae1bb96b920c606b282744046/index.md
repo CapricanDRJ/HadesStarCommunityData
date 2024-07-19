@@ -1,4 +1,7 @@
-# Avantgarde
+---
+layout: page
+title: Avantgarde
+---
 
 | Statistic | Value |
 | --- | --- |

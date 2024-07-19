@@ -1,4 +1,7 @@
-# LossFarm No.648
+---
+layout: page
+title: LossFarm No.648
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# the heavy
+---
+layout: page
+title: the heavy
+---
 
 | Statistic | Value |
 | --- | --- |

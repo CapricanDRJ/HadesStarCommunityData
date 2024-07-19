@@ -1,4 +1,7 @@
-# Destroyers
+---
+layout: page
+title: Destroyers
+---
 
 | Statistic | Value |
 | --- | --- |

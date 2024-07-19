@@ -1,4 +1,7 @@
-# NAC
+---
+layout: page
+title: NAC
+---
 
 | Statistic | Value |
 | --- | --- |

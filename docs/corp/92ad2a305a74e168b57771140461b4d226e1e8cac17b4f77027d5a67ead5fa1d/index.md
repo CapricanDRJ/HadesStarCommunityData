@@ -1,4 +1,7 @@
-# 星光万丈
+---
+layout: page
+title: 星光万丈
+---
 
 | Statistic | Value |
 | --- | --- |

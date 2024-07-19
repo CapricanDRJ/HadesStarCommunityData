@@ -1,4 +1,7 @@
-# Atlas corp
+---
+layout: page
+title: Atlas corp
+---
 
 | Statistic | Value |
 | --- | --- |

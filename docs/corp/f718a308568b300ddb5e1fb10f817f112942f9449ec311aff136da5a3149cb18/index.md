@@ -1,4 +1,7 @@
-# Gwiezdna Horda
+---
+layout: page
+title: Gwiezdna Horda
+---
 
 | Statistic | Value |
 | --- | --- |

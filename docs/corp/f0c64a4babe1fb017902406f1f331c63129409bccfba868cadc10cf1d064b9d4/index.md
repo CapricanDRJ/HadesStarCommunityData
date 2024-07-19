@@ -1,4 +1,7 @@
-# AFronteiraFinal
+---
+layout: page
+title: AFronteiraFinal
+---
 
 | Statistic | Value |
 | --- | --- |

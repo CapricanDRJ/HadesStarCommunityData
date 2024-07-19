@@ -1,4 +1,7 @@
-# Неизбежный Рок
+---
+layout: page
+title: Неизбежный Рок
+---
 
 | Statistic | Value |
 | --- | --- |

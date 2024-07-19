@@ -1,4 +1,7 @@
-# The Gathering
+---
+layout: page
+title: The Gathering
+---
 
 | Statistic | Value |
 | --- | --- |

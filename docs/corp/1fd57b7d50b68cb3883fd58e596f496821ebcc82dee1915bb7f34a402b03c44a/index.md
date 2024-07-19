@@ -1,4 +1,7 @@
-# Scar
+---
+layout: page
+title: Scar
+---
 
 | Statistic | Value |
 | --- | --- |

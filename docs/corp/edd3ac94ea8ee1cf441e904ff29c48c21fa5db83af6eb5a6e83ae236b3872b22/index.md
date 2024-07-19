@@ -1,4 +1,7 @@
-# Osmium Star llc
+---
+layout: page
+title: Osmium Star llc
+---
 
 | Statistic | Value |
 | --- | --- |

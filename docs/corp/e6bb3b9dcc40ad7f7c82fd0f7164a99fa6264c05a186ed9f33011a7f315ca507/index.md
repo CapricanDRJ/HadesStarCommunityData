@@ -1,4 +1,7 @@
-# SpaceCowboys
+---
+layout: page
+title: SpaceCowboys
+---
 
 | Statistic | Value |
 | --- | --- |

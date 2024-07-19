@@ -1,4 +1,7 @@
-# SafeSpace
+---
+layout: page
+title: SafeSpace
+---
 
 | Statistic | Value |
 | --- | --- |

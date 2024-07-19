@@ -1,4 +1,7 @@
-# Pyke Syndicate
+---
+layout: page
+title: Pyke Syndicate
+---
 
 | Statistic | Value |
 | --- | --- |

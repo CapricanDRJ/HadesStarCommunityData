@@ -1,4 +1,7 @@
-# TITANS
+---
+layout: page
+title: TITANS
+---
 
 | Statistic | Value |
 | --- | --- |

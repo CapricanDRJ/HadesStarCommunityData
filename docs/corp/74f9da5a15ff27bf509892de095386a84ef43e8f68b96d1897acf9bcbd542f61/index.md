@@ -1,4 +1,7 @@
-# 星舰地球
+---
+layout: page
+title: 星舰地球
+---
 
 | Statistic | Value |
 | --- | --- |

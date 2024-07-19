@@ -1,4 +1,7 @@
-# Imperium XIII
+---
+layout: page
+title: Imperium XIII
+---
 
 | Statistic | Value |
 | --- | --- |

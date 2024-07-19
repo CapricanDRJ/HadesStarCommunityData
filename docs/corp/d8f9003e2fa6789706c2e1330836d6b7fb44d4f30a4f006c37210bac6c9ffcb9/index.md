@@ -1,4 +1,7 @@
-# русский клан 
+---
+layout: page
+title: русский клан 
+---
 
 | Statistic | Value |
 | --- | --- |

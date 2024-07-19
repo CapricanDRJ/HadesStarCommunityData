@@ -1,4 +1,7 @@
-# Game of Stars
+---
+layout: page
+title: Game of Stars
+---
 
 | Statistic | Value |
 | --- | --- |

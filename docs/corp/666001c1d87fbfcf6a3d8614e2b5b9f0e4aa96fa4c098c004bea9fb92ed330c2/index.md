@@ -1,4 +1,7 @@
-# Equinox
+---
+layout: page
+title: Equinox
+---
 
 | Statistic | Value |
 | --- | --- |

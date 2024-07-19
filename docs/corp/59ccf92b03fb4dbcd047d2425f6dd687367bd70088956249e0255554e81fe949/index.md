@@ -1,4 +1,7 @@
-# Prometheus ESP
+---
+layout: page
+title: Prometheus ESP
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# НИФИГАСЕБЕ
+---
+layout: page
+title: НИФИГАСЕБЕ
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# TheSpacingGuild
+---
+layout: page
+title: TheSpacingGuild
+---
 
 | Statistic | Value |
 | --- | --- |

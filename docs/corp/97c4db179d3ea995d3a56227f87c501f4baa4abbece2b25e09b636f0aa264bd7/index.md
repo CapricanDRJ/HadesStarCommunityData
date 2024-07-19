@@ -1,4 +1,7 @@
-# BoomTech
+---
+layout: page
+title: BoomTech
+---
 
 | Statistic | Value |
 | --- | --- |

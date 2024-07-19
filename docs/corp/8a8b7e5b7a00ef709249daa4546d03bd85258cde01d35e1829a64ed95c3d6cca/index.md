@@ -1,4 +1,7 @@
-# Lights Off 
+---
+layout: page
+title: Lights Off 
+---
 
 | Statistic | Value |
 | --- | --- |

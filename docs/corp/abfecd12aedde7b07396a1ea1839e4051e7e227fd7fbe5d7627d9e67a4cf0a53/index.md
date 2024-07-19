@@ -1,4 +1,7 @@
-# C.C Legion
+---
+layout: page
+title: C.C Legion
+---
 
 | Statistic | Value |
 | --- | --- |

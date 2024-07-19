@@ -1,4 +1,7 @@
-# The Borg
+---
+layout: page
+title: The Borg
+---
 
 | Statistic | Value |
 | --- | --- |

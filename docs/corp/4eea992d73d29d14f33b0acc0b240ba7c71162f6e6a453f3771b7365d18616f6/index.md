@@ -1,4 +1,7 @@
-# 柯伊伯带伊甸园
+---
+layout: page
+title: 柯伊伯带伊甸园
+---
 
 | Statistic | Value |
 | --- | --- |

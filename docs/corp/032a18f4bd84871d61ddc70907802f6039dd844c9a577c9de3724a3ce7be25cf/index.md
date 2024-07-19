@@ -1,4 +1,7 @@
-# ОРИОН
+---
+layout: page
+title: ОРИОН
+---
 
 | Statistic | Value |
 | --- | --- |

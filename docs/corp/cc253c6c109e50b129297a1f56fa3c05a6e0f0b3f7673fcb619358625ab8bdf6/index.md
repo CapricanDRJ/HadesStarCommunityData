@@ -1,4 +1,7 @@
-# Стальная крыса
+---
+layout: page
+title: Стальная крыса
+---
 
 | Statistic | Value |
 | --- | --- |

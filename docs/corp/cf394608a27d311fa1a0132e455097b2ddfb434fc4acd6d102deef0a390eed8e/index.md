@@ -1,4 +1,7 @@
-# Offshore Trash
+---
+layout: page
+title: Offshore Trash
+---
 
 | Statistic | Value |
 | --- | --- |

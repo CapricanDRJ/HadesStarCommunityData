@@ -1,4 +1,7 @@
-# Die pösn Purchn
+---
+layout: page
+title: Die pösn Purchn
+---
 
 | Statistic | Value |
 | --- | --- |

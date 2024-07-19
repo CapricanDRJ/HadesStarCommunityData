@@ -1,4 +1,7 @@
-# ₩.BRASIL.₩
+---
+layout: page
+title: ₩.BRASIL.₩
+---
 
 | Statistic | Value |
 | --- | --- |

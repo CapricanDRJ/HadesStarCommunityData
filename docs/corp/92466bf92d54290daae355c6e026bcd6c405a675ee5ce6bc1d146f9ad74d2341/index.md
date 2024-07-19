@@ -1,4 +1,7 @@
-# ТРУЛЯЛЯ
+---
+layout: page
+title: ТРУЛЯЛЯ
+---
 
 | Statistic | Value |
 | --- | --- |

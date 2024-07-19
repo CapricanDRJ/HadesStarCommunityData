@@ -1,4 +1,7 @@
-# F.E.I.
+---
+layout: page
+title: F.E.I.
+---
 
 | Statistic | Value |
 | --- | --- |

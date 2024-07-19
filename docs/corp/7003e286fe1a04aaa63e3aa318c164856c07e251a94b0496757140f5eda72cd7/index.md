@@ -1,4 +1,7 @@
-# Trade Station
+---
+layout: page
+title: Trade Station
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Harpias
+---
+layout: page
+title: Harpias
+---
 
 | Statistic | Value |
 | --- | --- |

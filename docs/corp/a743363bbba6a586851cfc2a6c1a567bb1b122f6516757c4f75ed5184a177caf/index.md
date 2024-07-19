@@ -1,4 +1,7 @@
-# Noble
+---
+layout: page
+title: Noble
+---
 
 | Statistic | Value |
 | --- | --- |

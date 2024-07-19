@@ -1,4 +1,7 @@
-# Ukrain Alliance
+---
+layout: page
+title: Ukrain Alliance
+---
 
 | Statistic | Value |
 | --- | --- |

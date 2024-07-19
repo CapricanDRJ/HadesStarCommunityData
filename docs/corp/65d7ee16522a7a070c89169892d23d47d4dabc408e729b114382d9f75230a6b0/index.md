@@ -1,4 +1,7 @@
-# NameLess Hades
+---
+layout: page
+title: NameLess Hades
+---
 
 | Statistic | Value |
 | --- | --- |

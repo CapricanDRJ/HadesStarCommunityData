@@ -1,4 +1,7 @@
-# DESERT DEMONS
+---
+layout: page
+title: DESERT DEMONS
+---
 
 | Statistic | Value |
 | --- | --- |

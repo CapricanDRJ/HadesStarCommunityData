@@ -1,4 +1,7 @@
-# Алый Феникс
+---
+layout: page
+title: Алый Феникс
+---
 
 | Statistic | Value |
 | --- | --- |

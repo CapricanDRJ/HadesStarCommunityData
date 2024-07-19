@@ -1,4 +1,7 @@
-# ANDROMEDA INC. 
+---
+layout: page
+title: ANDROMEDA INC. 
+---
 
 | Statistic | Value |
 | --- | --- |

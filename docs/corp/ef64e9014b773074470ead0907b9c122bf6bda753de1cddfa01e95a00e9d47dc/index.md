@@ -1,4 +1,7 @@
-# Crazy Elite
+---
+layout: page
+title: Crazy Elite
+---
 
 | Statistic | Value |
 | --- | --- |

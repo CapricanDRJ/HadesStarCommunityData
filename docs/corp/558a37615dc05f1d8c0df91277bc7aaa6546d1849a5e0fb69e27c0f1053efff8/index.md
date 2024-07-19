@@ -1,4 +1,7 @@
-# hades' star
+---
+layout: page
+title: hades' star
+---
 
 | Statistic | Value |
 | --- | --- |

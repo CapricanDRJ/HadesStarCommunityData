@@ -1,4 +1,7 @@
-# Диванные Стражи
+---
+layout: page
+title: Диванные Стражи
+---
 
 | Statistic | Value |
 | --- | --- |

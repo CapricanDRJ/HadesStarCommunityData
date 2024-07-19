@@ -1,4 +1,7 @@
-# 华夏舰队
+---
+layout: page
+title: 华夏舰队
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Polandia
+---
+layout: page
+title: Polandia
+---
 
 | Statistic | Value |
 | --- | --- |

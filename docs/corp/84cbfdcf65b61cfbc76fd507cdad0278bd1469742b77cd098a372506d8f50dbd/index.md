@@ -1,4 +1,7 @@
-# Uchiha
+---
+layout: page
+title: Uchiha
+---
 
 | Statistic | Value |
 | --- | --- |

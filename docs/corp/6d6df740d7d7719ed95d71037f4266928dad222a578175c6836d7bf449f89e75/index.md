@@ -1,4 +1,7 @@
-# Majapahit
+---
+layout: page
+title: Majapahit
+---
 
 | Statistic | Value |
 | --- | --- |

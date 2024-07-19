@@ -1,4 +1,7 @@
-# Венерский Союз
+---
+layout: page
+title: Венерский Союз
+---
 
 | Statistic | Value |
 | --- | --- |

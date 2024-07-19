@@ -1,4 +1,7 @@
-# 星舰国际
+---
+layout: page
+title: 星舰国际
+---
 
 | Statistic | Value |
 | --- | --- |

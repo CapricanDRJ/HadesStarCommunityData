@@ -1,4 +1,7 @@
-# Eretria 
+---
+layout: page
+title: Eretria 
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# 新手联邦（新经济开发区）
+---
+layout: page
+title: 新手联邦（新经济开发区）
+---
 
 | Statistic | Value |
 | --- | --- |

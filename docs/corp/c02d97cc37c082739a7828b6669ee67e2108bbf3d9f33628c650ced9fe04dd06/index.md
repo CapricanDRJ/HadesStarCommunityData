@@ -1,4 +1,7 @@
-# 银星舰队SSF
+---
+layout: page
+title: 银星舰队SSF
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# 神圣罗马帝国
+---
+layout: page
+title: 神圣罗马帝国
+---
 
 | Statistic | Value |
 | --- | --- |

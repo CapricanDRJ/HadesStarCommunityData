@@ -1,4 +1,7 @@
-# 水星联合组织
+---
+layout: page
+title: 水星联合组织
+---
 
 | Statistic | Value |
 | --- | --- |

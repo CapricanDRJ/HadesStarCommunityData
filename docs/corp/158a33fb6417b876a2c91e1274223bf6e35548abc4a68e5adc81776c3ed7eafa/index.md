@@ -1,4 +1,7 @@
-# New Orbit ©
+---
+layout: page
+title: New Orbit ©
+---
 
 | Statistic | Value |
 | --- | --- |

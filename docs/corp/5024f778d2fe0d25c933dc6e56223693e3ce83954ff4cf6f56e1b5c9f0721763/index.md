@@ -1,4 +1,7 @@
-# 中国航天科技集团（CASC）
+---
+layout: page
+title: 中国航天科技集团（CASC）
+---
 
 | Statistic | Value |
 | --- | --- |

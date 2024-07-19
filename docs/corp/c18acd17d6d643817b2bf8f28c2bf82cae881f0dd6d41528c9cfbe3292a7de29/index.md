@@ -1,4 +1,7 @@
-# 探索舰队
+---
+layout: page
+title: 探索舰队
+---
 
 | Statistic | Value |
 | --- | --- |

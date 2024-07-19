@@ -1,4 +1,7 @@
-# Trade Systems
+---
+layout: page
+title: Trade Systems
+---
 
 | Statistic | Value |
 | --- | --- |

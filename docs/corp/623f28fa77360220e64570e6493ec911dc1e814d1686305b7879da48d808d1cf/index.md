@@ -1,4 +1,7 @@
-# BrazilCorp.
+---
+layout: page
+title: BrazilCorp.
+---
 
 | Statistic | Value |
 | --- | --- |

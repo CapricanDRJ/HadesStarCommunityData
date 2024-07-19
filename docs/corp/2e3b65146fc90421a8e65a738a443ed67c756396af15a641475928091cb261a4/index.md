@@ -1,4 +1,7 @@
-# UK Armada
+---
+layout: page
+title: UK Armada
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Highland Ind. 
+---
+layout: page
+title: Highland Ind. 
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Зелёная корпа
+---
+layout: page
+title: Зелёная корпа
+---
 
 | Statistic | Value |
 | --- | --- |

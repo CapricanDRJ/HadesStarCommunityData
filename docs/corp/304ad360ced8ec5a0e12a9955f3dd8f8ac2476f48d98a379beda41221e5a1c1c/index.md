@@ -1,4 +1,7 @@
-# Stardust
+---
+layout: page
+title: Stardust
+---
 
 | Statistic | Value |
 | --- | --- |

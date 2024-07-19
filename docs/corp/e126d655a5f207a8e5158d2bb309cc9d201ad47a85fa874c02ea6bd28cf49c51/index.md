@@ -1,4 +1,7 @@
-# Flying Dutchmen
+---
+layout: page
+title: Flying Dutchmen
+---
 
 | Statistic | Value |
 | --- | --- |

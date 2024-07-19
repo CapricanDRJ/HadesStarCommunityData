@@ -1,4 +1,7 @@
-# Brodudes Inc.
+---
+layout: page
+title: Brodudes Inc.
+---
 
 | Statistic | Value |
 | --- | --- |

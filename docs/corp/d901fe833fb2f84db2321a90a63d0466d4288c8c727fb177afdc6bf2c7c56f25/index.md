@@ -1,4 +1,7 @@
-# Enigma
+---
+layout: page
+title: Enigma
+---
 
 | Statistic | Value |
 | --- | --- |

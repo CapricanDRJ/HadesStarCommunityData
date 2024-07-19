@@ -1,4 +1,7 @@
-# Hades Seminary 
+---
+layout: page
+title: Hades Seminary 
+---
 
 | Statistic | Value |
 | --- | --- |

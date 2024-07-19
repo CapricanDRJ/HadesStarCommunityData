@@ -1,4 +1,7 @@
-# Quadra FR
+---
+layout: page
+title: Quadra FR
+---
 
 | Statistic | Value |
 | --- | --- |

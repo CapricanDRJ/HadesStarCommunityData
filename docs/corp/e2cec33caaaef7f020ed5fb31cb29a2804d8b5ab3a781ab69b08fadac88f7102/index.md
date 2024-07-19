@@ -1,4 +1,7 @@
-# 避难所
+---
+layout: page
+title: 避难所
+---
 
 | Statistic | Value |
 | --- | --- |

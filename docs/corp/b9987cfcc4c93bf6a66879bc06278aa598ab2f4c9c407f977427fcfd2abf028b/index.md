@@ -1,4 +1,7 @@
-# Variants
+---
+layout: page
+title: Variants
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# nuevo mundo
+---
+layout: page
+title: nuevo mundo
+---
 
 | Statistic | Value |
 | --- | --- |

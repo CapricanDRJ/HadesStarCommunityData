@@ -1,4 +1,7 @@
-# Persistence
+---
+layout: page
+title: Persistence
+---
 
 | Statistic | Value |
 | --- | --- |

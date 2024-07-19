@@ -1,4 +1,7 @@
-# 六大天神
+---
+layout: page
+title: 六大天神
+---
 
 | Statistic | Value |
 | --- | --- |

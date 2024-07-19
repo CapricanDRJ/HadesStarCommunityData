@@ -1,4 +1,7 @@
-# callisto corp
+---
+layout: page
+title: callisto corp
+---
 
 | Statistic | Value |
 | --- | --- |

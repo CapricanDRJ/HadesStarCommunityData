@@ -1,4 +1,7 @@
-# The Galxey █
+---
+layout: page
+title: The Galxey █
+---
 
 | Statistic | Value |
 | --- | --- |

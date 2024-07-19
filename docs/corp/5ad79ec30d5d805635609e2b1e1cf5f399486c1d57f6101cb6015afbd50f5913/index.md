@@ -1,4 +1,7 @@
-# 9-Й СКОРПИОН
+---
+layout: page
+title: 9-Й СКОРПИОН
+---
 
 | Statistic | Value |
 | --- | --- |

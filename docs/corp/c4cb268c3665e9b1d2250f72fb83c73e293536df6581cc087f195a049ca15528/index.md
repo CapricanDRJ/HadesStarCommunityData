@@ -1,4 +1,7 @@
-# Призрачный Путь
+---
+layout: page
+title: Призрачный Путь
+---
 
 | Statistic | Value |
 | --- | --- |

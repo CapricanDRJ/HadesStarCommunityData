@@ -1,4 +1,7 @@
-# северный шторм
+---
+layout: page
+title: северный шторм
+---
 
 | Statistic | Value |
 | --- | --- |

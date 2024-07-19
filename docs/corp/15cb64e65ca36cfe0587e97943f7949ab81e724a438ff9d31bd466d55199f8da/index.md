@@ -1,4 +1,7 @@
-# Fr_Corp
+---
+layout: page
+title: Fr_Corp
+---
 
 | Statistic | Value |
 | --- | --- |

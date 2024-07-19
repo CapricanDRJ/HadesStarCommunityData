@@ -1,4 +1,7 @@
-# Die Mafia
+---
+layout: page
+title: Die Mafia
+---
 
 | Statistic | Value |
 | --- | --- |

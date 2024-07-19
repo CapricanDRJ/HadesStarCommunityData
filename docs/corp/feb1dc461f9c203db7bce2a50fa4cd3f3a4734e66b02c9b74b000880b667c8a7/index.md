@@ -1,4 +1,7 @@
-# Poison Nebula
+---
+layout: page
+title: Poison Nebula
+---
 
 | Statistic | Value |
 | --- | --- |

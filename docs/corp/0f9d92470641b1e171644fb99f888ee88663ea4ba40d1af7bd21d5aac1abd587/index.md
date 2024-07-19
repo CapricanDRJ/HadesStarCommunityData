@@ -1,4 +1,7 @@
-# l'empire sylli
+---
+layout: page
+title: l'empire sylli
+---
 
 | Statistic | Value |
 | --- | --- |

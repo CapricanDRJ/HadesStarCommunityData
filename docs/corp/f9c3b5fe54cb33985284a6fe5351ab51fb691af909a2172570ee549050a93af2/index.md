@@ -1,4 +1,7 @@
-# STAR TERROR CZ
+---
+layout: page
+title: STAR TERROR CZ
+---
 
 | Statistic | Value |
 | --- | --- |

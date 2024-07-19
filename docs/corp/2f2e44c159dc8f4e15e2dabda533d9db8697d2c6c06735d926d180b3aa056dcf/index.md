@@ -1,4 +1,7 @@
-# Angel Dragon
+---
+layout: page
+title: Angel Dragon
+---
 
 | Statistic | Value |
 | --- | --- |

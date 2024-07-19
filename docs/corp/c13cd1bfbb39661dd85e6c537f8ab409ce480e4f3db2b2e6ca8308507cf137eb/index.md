@@ -1,4 +1,7 @@
-# Heavenly Star 
+---
+layout: page
+title: Heavenly Star 
+---
 
 | Statistic | Value |
 | --- | --- |

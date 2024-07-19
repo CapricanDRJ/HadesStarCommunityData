@@ -1,4 +1,7 @@
-# Alfa Reach
+---
+layout: page
+title: Alfa Reach
+---
 
 | Statistic | Value |
 | --- | --- |

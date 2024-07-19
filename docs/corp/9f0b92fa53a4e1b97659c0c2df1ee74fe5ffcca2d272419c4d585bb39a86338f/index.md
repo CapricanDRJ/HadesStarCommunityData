@@ -1,4 +1,7 @@
-# Archangels BR
+---
+layout: page
+title: Archangels BR
+---
 
 | Statistic | Value |
 | --- | --- |

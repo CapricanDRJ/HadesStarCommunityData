@@ -1,4 +1,7 @@
-# Stellaris
+---
+layout: page
+title: Stellaris
+---
 
 | Statistic | Value |
 | --- | --- |

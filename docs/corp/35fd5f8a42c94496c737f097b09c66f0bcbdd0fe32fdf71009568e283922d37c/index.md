@@ -1,4 +1,7 @@
-# New Horizons
+---
+layout: page
+title: New Horizons
+---
 
 | Statistic | Value |
 | --- | --- |

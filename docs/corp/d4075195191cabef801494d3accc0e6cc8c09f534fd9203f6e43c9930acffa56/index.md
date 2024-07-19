@@ -1,4 +1,7 @@
-# Hamburg AG 2
+---
+layout: page
+title: Hamburg AG 2
+---
 
 | Statistic | Value |
 | --- | --- |

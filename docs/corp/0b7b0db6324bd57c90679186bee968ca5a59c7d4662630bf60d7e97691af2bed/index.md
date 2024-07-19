@@ -1,4 +1,7 @@
-# SveaEmpire
+---
+layout: page
+title: SveaEmpire
+---
 
 | Statistic | Value |
 | --- | --- |

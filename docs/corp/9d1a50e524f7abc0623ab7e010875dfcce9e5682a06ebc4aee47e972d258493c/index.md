@@ -1,4 +1,7 @@
-# NoweUkladyII
+---
+layout: page
+title: NoweUkladyII
+---
 
 | Statistic | Value |
 | --- | --- |

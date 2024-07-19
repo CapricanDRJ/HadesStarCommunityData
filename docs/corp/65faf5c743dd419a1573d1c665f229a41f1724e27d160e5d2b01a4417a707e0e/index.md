@@ -1,4 +1,7 @@
-# *СССР*
+---
+layout: page
+title: *СССР*
+---
 
 | Statistic | Value |
 | --- | --- |

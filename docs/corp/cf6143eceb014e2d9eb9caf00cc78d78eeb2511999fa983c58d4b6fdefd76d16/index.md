@@ -1,4 +1,7 @@
-# FlightCommand
+---
+layout: page
+title: FlightCommand
+---
 
 | Statistic | Value |
 | --- | --- |

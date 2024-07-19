@@ -1,4 +1,7 @@
-# TECH CO
+---
+layout: page
+title: TECH CO
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# 蓝色星系
+---
+layout: page
+title: 蓝色星系
+---
 
 | Statistic | Value |
 | --- | --- |

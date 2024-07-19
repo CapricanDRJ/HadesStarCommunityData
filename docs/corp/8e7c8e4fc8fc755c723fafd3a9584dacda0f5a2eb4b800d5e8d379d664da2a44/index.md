@@ -1,4 +1,7 @@
-# 8 русский рейх
+---
+layout: page
+title: 8 русский рейх
+---
 
 | Statistic | Value |
 | --- | --- |

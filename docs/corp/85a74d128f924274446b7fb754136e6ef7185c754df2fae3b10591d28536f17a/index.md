@@ -1,4 +1,7 @@
-# ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ
+---
+layout: page
+title: ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ
+---
 
 | Statistic | Value |
 | --- | --- |

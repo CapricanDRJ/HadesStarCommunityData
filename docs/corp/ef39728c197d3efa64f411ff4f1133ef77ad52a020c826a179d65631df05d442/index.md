@@ -1,4 +1,7 @@
-# Spectre
+---
+layout: page
+title: Spectre
+---
 
 | Statistic | Value |
 | --- | --- |

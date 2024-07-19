@@ -1,4 +1,7 @@
-# 青鸾殿
+---
+layout: page
+title: 青鸾殿
+---
 
 | Statistic | Value |
 | --- | --- |

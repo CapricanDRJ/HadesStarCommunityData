@@ -1,4 +1,7 @@
-# Furyans
+---
+layout: page
+title: Furyans
+---
 
 | Statistic | Value |
 | --- | --- |

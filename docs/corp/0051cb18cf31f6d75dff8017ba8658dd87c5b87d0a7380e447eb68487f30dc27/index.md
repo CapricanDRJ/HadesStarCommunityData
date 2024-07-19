@@ -1,4 +1,7 @@
-# α阿尔法
+---
+layout: page
+title: α阿尔法
+---
 
 | Statistic | Value |
 | --- | --- |

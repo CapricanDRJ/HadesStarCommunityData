@@ -1,4 +1,7 @@
-# ALPHA
+---
+layout: page
+title: ALPHA
+---
 
 | Statistic | Value |
 | --- | --- |

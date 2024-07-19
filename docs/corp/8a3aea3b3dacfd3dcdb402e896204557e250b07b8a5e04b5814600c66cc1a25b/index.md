@@ -1,4 +1,7 @@
-# Famous Assasins
+---
+layout: page
+title: Famous Assasins
+---
 
 | Statistic | Value |
 | --- | --- |

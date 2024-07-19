@@ -1,4 +1,7 @@
-# OntarioDiligent
+---
+layout: page
+title: OntarioDiligent
+---
 
 | Statistic | Value |
 | --- | --- |

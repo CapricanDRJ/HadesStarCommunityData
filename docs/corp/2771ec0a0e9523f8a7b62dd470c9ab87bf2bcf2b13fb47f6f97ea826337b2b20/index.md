@@ -1,4 +1,7 @@
-# Mercury Sunset
+---
+layout: page
+title: Mercury Sunset
+---
 
 | Statistic | Value |
 | --- | --- |

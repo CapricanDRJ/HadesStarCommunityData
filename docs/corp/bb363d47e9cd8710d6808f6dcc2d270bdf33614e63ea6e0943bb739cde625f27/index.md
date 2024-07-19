@@ -1,4 +1,7 @@
-# Br Stark Corps
+---
+layout: page
+title: Br Stark Corps
+---
 
 | Statistic | Value |
 | --- | --- |

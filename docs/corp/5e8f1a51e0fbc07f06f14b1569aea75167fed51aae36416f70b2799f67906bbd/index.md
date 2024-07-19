@@ -1,4 +1,7 @@
-# Fishy Business 
+---
+layout: page
+title: Fishy Business 
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# Karanth Corp.
+---
+layout: page
+title: Karanth Corp.
+---
 
 | Statistic | Value |
 | --- | --- |

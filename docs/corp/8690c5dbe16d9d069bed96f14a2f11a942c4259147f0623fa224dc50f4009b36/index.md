@@ -1,4 +1,7 @@
-# Кулак
+---
+layout: page
+title: Кулак
+---
 
 | Statistic | Value |
 | --- | --- |

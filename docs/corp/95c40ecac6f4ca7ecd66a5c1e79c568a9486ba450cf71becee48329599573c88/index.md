@@ -1,4 +1,7 @@
-# KhaOSs
+---
+layout: page
+title: KhaOSs
+---
 
 | Statistic | Value |
 | --- | --- |

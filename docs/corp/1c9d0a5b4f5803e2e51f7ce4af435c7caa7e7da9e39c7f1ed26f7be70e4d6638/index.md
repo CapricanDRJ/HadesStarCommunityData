@@ -1,4 +1,7 @@
-# Sterling Gamers
+---
+layout: page
+title: Sterling Gamers
+---
 
 | Statistic | Value |
 | --- | --- |

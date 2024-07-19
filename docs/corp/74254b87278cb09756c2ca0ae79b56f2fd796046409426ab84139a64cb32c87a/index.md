@@ -1,4 +1,7 @@
-# PERSEUS INC.
+---
+layout: page
+title: PERSEUS INC.
+---
 
 | Statistic | Value |
 | --- | --- |

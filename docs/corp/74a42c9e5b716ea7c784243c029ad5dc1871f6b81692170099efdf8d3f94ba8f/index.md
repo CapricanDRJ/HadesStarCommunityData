@@ -1,4 +1,7 @@
-# 遨游星空  kdy分盟
+---
+layout: page
+title: 遨游星空  kdy分盟
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# 纸鸢台
+---
+layout: page
+title: 纸鸢台
+---
 
 | Statistic | Value |
 | --- | --- |

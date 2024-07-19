@@ -1,4 +1,7 @@
-# Anomaly
+---
+layout: page
+title: Anomaly
+---
 
 | Statistic | Value |
 | --- | --- |

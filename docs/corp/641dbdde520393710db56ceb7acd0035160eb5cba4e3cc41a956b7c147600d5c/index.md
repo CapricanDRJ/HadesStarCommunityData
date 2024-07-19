@@ -1,4 +1,7 @@
-# StarFun
+---
+layout: page
+title: StarFun
+---
 
 | Statistic | Value |
 | --- | --- |

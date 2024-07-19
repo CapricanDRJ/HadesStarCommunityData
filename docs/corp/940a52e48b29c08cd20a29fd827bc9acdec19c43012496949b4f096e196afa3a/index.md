@@ -1,4 +1,7 @@
-# Power Rangers
+---
+layout: page
+title: Power Rangers
+---
 
 | Statistic | Value |
 | --- | --- |

@@ -1,4 +1,7 @@
-# WFOS
+---
+layout: page
+title: WFOS
+---
 
 | Statistic | Value |
 | --- | --- |

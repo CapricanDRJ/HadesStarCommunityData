@@ -1,4 +1,7 @@
-# Dacia Chill
+---
+layout: page
+title: Dacia Chill
+---
 
 | Statistic | Value |
 | --- | --- |

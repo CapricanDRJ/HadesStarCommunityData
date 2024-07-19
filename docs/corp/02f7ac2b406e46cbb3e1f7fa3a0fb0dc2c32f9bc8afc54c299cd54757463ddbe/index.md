@@ -1,4 +1,7 @@
-# ItaFederalFleet
+---
+layout: page
+title: ItaFederalFleet
+---
 
 | Statistic | Value |
 | --- | --- |

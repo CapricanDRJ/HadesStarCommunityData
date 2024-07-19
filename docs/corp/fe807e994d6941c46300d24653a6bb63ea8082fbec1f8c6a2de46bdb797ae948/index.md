@@ -1,4 +1,7 @@
-# L.P.A.
+---
+layout: page
+title: L.P.A.
+---
 
 | Statistic | Value |
 | --- | --- |

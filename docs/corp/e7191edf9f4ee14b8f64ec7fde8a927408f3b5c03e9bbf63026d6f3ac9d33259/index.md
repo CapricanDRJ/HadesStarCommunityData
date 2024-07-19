@@ -1,4 +1,7 @@
-# THE ECHAPES BEL
+---
+layout: page
+title: THE ECHAPES BEL
+---
 
 | Statistic | Value |
 | --- | --- |

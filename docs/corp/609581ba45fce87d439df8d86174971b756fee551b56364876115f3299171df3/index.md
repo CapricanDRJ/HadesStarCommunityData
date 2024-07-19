@@ -1,4 +1,7 @@
-# Genesis Corp
+---
+layout: page
+title: Genesis Corp
+---
 
 | Statistic | Value |
 | --- | --- |

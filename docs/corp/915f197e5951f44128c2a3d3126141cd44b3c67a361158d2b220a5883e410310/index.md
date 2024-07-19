@@ -1,4 +1,7 @@
-# Торг. федерация
+---
+layout: page
+title: Торг. федерация
+---
 
 | Statistic | Value |
 | --- | --- |

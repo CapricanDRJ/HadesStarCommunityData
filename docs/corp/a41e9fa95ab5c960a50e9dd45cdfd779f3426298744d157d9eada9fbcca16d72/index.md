@@ -1,4 +1,7 @@
-# Death knight
+---
+layout: page
+title: Death knight
+---
 
 | Statistic | Value |
 | --- | --- |

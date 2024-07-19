@@ -1,4 +1,7 @@
-# 하데스 스타 코리아
+---
+layout: page
+title: 하데스 스타 코리아
+---
 
 | Statistic | Value |
 | --- | --- |

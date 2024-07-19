@@ -1,4 +1,7 @@
-# 万星联盟
+---
+layout: page
+title: 万星联盟
+---
 
 | Statistic | Value |
 | --- | --- |

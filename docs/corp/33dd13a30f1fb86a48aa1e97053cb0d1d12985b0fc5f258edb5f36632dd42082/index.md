@@ -1,4 +1,7 @@
-# E.T.A
+---
+layout: page
+title: E.T.A
+---
 
 | Statistic | Value |
 | --- | --- |

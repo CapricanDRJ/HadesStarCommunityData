@@ -1,4 +1,7 @@
-# Imperium
+---
+layout: page
+title: Imperium
+---
 
 | Statistic | Value |
 | --- | --- |

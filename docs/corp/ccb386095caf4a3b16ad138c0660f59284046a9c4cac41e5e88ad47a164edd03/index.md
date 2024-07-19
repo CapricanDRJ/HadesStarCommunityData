@@ -1,4 +1,7 @@
-# Dahoam in AT
+---
+layout: page
+title: Dahoam in AT
+---
 
 | Statistic | Value |
 | --- | --- |

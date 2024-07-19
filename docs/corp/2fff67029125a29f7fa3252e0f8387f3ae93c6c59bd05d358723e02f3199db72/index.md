@@ -1,4 +1,7 @@
-# Oficina Tuga
+---
+layout: page
+title: Oficina Tuga
+---
 
 | Statistic | Value |
 | --- | --- |

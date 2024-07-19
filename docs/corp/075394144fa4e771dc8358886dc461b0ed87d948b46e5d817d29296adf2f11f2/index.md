@@ -1,4 +1,7 @@
-# СНГ — РОССИЯ
+---
+layout: page
+title: СНГ — РОССИЯ
+---
 
 | Statistic | Value |
 | --- | --- |

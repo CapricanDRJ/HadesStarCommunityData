@@ -1,4 +1,7 @@
-# Midland Ind.
+---
+layout: page
+title: Midland Ind.
+---
 
 | Statistic | Value |
 | --- | --- |

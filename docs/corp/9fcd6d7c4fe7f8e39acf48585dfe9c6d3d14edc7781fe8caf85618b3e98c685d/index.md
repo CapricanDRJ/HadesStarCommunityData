@@ -1,4 +1,7 @@
-# Sich.ua
+---
+layout: page
+title: Sich.ua
+---
 
 | Statistic | Value |
 | --- | --- |
