@@ -91,11 +91,11 @@ permalink: /comp100/
 | 83 | 元素联邦 | 1396 |
 | 84 | Red Dawn | 1394 |
 | 85 | AFronteiraFinal | 1394 |
-| 86 | Z. O. V.  | 1392 |
-| 87 | Stellar Exports | 1390 |
-| 88 | DarkMoon | 1389 |
-| 89 | Starsailors | 1388 |
-| 90 | DarkSide | 1388 |
+| 86 | DarkSide | 1393 |
+| 87 | Z. O. V.  | 1392 |
+| 88 | Stellar Exports | 1390 |
+| 89 | DarkMoon | 1389 |
+| 90 | Starsailors | 1388 |
 | 91 | Decode | 1387 |
 | 92 | Star Destroyers | 1385 |
 | 93 | Dacia Chill | 1384 |
