@@ -1,6 +1,16 @@
 # Starsailors
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1360 |
+| ELO Competitive | 1388 |
+| Total Matches | 27 |
+| Wins | 21 |
+| Losses | 6 |
+| Draws | 0 |
+| Streak | 4 |
+| Streak Record | 10 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

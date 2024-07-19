@@ -1,6 +1,14 @@
 # 嘤嘤嘤嘤嘤嘤嘤嘤
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1119 |
+| ELO Competitive | 1136 |
+| Total Matches | 6 |
+| Wins | 0 |
+| Losses | 6 |
+| Draws | 0 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

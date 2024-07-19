@@ -1,6 +1,15 @@
 # 四季长春
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1139 |
+| ELO Competitive | 1288 |
+| Total Matches | 40 |
+| Wins | 13 |
+| Losses | 22 |
+| Draws | 5 |
+| Streak Record | 2 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

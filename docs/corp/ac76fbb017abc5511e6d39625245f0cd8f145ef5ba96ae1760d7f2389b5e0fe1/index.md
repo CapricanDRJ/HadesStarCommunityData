@@ -1,6 +1,15 @@
 # ProyectCorp
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1140 |
+| ELO Competitive | 1200 |
+| Total Matches | 36 |
+| Wins | 15 |
+| Losses | 21 |
+| Draws | 0 |
+| Streak Record | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

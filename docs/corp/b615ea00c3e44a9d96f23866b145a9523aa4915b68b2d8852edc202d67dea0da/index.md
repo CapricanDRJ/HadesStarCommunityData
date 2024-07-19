@@ -1,6 +1,14 @@
 # Southall 1
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1199 |
+| ELO Competitive | 1199 |
+| Total Matches | 3 |
+| Wins | 1 |
+| Losses | 1 |
+| Draws | 1 |
+
 
 ### Match History
 

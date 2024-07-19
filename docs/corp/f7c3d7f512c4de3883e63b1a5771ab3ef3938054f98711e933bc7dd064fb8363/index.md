@@ -1,6 +1,15 @@
 # Wompwompway 
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1341 |
+| ELO Competitive | 1371 |
+| Total Matches | 32 |
+| Wins | 24 |
+| Losses | 8 |
+| Draws | 0 |
+| Streak Record | 6 |
+
 
 ### Match History
 

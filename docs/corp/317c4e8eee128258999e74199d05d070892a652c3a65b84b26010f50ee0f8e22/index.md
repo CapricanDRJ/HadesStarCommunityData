@@ -1,6 +1,15 @@
 # t 72 SwiftKey F
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1177 |
+| ELO Competitive | 1183 |
+| Total Matches | 13 |
+| Wins | 5 |
+| Losses | 8 |
+| Draws | 0 |
+| Streak Record | 4 |
+
 
 ### Match History
 

@@ -1,6 +1,15 @@
 # No Orbit©
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1256 |
+| ELO Competitive | 1273 |
+| Total Matches | 17 |
+| Wins | 11 |
+| Losses | 6 |
+| Draws | 0 |
+| Streak Record | 6 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

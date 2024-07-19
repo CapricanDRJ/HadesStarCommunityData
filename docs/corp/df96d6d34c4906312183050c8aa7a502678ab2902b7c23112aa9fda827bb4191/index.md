@@ -1,6 +1,16 @@
 # Spica​
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1391 |
+| ELO Competitive | 1420 |
+| Total Matches | 40 |
+| Wins | 34 |
+| Losses | 5 |
+| Draws | 1 |
+| Streak | 2 |
+| Streak Record | 23 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

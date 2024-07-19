@@ -1,6 +1,14 @@
 # 德意志联邦集团
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1154 |
+| ELO Competitive | 1159 |
+| Total Matches | 6 |
+| Wins | 0 |
+| Losses | 3 |
+| Draws | 3 |
+
 
 ### Match History
 

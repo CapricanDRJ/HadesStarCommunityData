@@ -1,6 +1,15 @@
 # PDC
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1254 |
+| ELO Competitive | 1271 |
+| Total Matches | 21 |
+| Wins | 13 |
+| Losses | 6 |
+| Draws | 2 |
+| Streak Record | 8 |
+
 
 ### Match History
 

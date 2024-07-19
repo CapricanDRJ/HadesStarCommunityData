@@ -1,6 +1,15 @@
 # ANZAC Warriors
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1288 |
+| ELO Competitive | 1302 |
+| Total Matches | 22 |
+| Wins | 16 |
+| Losses | 5 |
+| Draws | 1 |
+| Streak Record | 7 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

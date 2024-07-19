@@ -1,6 +1,14 @@
 # Avantgarde
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 967 |
+| ELO Competitive | 1123 |
+| Total Matches | 32 |
+| Wins | 3 |
+| Losses | 29 |
+| Draws | 0 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

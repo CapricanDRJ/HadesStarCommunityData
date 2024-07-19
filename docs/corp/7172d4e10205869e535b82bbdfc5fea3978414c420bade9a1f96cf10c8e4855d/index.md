@@ -1,6 +1,14 @@
 # 지고받자
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1090 |
+| ELO Competitive | 1124 |
+| Total Matches | 9 |
+| Wins | 0 |
+| Losses | 9 |
+| Draws | 0 |
+
 
 ### Match History
 

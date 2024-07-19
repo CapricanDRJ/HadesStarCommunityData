@@ -1,6 +1,15 @@
 # Madison Holding
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1239 |
+| ELO Competitive | 1243 |
+| Total Matches | 11 |
+| Wins | 7 |
+| Losses | 4 |
+| Draws | 0 |
+| Streak Record | 6 |
+
 
 ### Match History
 

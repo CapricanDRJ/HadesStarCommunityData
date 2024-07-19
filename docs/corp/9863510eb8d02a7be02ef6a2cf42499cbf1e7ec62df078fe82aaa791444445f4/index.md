@@ -1,6 +1,15 @@
 # КМБ
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1205 |
+| ELO Competitive | 1208 |
+| Total Matches | 11 |
+| Wins | 5 |
+| Losses | 6 |
+| Draws | 0 |
+| Streak Record | 3 |
+
 
 ### Match History
 

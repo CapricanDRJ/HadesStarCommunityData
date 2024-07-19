@@ -1,6 +1,15 @@
 # 海賊ギルド
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1076 |
+| ELO Competitive | 1086 |
+| Total Matches | 22 |
+| Wins | 5 |
+| Losses | 17 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

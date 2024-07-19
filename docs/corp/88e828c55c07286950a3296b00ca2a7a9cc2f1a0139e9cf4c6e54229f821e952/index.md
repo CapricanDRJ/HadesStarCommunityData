@@ -1,6 +1,15 @@
 # 使命白星
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1209 |
+| ELO Competitive | 1231 |
+| Total Matches | 6 |
+| Wins | 3 |
+| Losses | 3 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 
 ### Match History
 

@@ -1,6 +1,14 @@
 # 星际集团
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1160 |
+| ELO Competitive | 1163 |
+| Total Matches | 8 |
+| Wins | 2 |
+| Losses | 4 |
+| Draws | 2 |
+
 
 ### Match History
 

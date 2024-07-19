@@ -1,6 +1,16 @@
 # Lacuna Academy
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1345 |
+| ELO Competitive | 1353 |
+| Total Matches | 17 |
+| Wins | 15 |
+| Losses | 2 |
+| Draws | 0 |
+| Streak | 5 |
+| Streak Record | 7 |
+
 
 ### Match History
 

@@ -1,6 +1,15 @@
 # Decode
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1255 |
+| ELO Competitive | 1387 |
+| Total Matches | 54 |
+| Wins | 36 |
+| Losses | 18 |
+| Draws | 0 |
+| Streak Record | 6 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

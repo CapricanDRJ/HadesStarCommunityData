@@ -1,6 +1,15 @@
 # Rogue One
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1311 |
+| ELO Competitive | 1373 |
+| Total Matches | 47 |
+| Wins | 28 |
+| Losses | 18 |
+| Draws | 1 |
+| Streak Record | 5 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

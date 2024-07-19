@@ -1,6 +1,15 @@
 # Out landers
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1261 |
+| ELO Competitive | 1272 |
+| Total Matches | 15 |
+| Wins | 9 |
+| Losses | 6 |
+| Draws | 0 |
+| Streak Record | 4 |
+
 
 ### Match History
 

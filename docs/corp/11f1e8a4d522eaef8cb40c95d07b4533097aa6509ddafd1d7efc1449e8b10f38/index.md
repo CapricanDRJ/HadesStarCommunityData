@@ -1,6 +1,15 @@
 # SternenStaub
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1158 |
+| ELO Competitive | 1197 |
+| Total Matches | 39 |
+| Wins | 19 |
+| Losses | 20 |
+| Draws | 0 |
+| Streak Record | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

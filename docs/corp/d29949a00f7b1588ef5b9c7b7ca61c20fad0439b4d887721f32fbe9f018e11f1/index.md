@@ -1,6 +1,15 @@
 # Elysium
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1353 |
+| ELO Competitive | 1400 |
+| Total Matches | 35 |
+| Wins | 26 |
+| Losses | 9 |
+| Draws | 0 |
+| Streak Record | 10 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

@@ -1,6 +1,15 @@
 # Black Star llc.
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1333 |
+| ELO Competitive | 1399 |
+| Total Matches | 46 |
+| Wins | 31 |
+| Losses | 15 |
+| Draws | 0 |
+| Streak Record | 7 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

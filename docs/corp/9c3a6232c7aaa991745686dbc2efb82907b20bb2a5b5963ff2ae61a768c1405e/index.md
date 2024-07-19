@@ -1,6 +1,14 @@
 # Death Flight 1.
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1176 |
+| ELO Competitive | 1177 |
+| Total Matches | 2 |
+| Wins | 0 |
+| Losses | 2 |
+| Draws | 0 |
+
 
 ### Match History
 

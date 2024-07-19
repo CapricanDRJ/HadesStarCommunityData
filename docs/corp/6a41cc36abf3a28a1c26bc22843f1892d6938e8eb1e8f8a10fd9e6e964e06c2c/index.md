@@ -1,6 +1,15 @@
 # Space Marshalls
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1249 |
+| ELO Competitive | 1354 |
+| Total Matches | 45 |
+| Wins | 28 |
+| Losses | 17 |
+| Draws | 0 |
+| Streak Record | 9 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

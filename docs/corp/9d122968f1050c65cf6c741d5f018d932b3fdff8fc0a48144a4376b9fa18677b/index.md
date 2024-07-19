@@ -1,6 +1,16 @@
 # ANDROMEDA INC. 
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1420 |
+| ELO Competitive | 1439 |
+| Total Matches | 22 |
+| Wins | 20 |
+| Losses | 1 |
+| Draws | 1 |
+| Streak | 13 |
+| Streak Record | 13 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

@@ -1,6 +1,15 @@
 # Halcon español
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1307 |
+| ELO Competitive | 1325 |
+| Total Matches | 28 |
+| Wins | 20 |
+| Losses | 8 |
+| Draws | 0 |
+| Streak Record | 9 |
+
 
 ### Match History
 

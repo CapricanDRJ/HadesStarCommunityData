@@ -1,6 +1,16 @@
 # Дом Датэ
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1298 |
+| ELO Competitive | 1362 |
+| Total Matches | 39 |
+| Wins | 22 |
+| Losses | 17 |
+| Draws | 0 |
+| Streak | 3 |
+| Streak Record | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

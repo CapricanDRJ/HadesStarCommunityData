@@ -1,6 +1,14 @@
 # Ascalon
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1201 |
+| ELO Competitive | 1201 |
+| Total Matches | 3 |
+| Wins | 1 |
+| Losses | 1 |
+| Draws | 1 |
+
 
 ### Match History
 

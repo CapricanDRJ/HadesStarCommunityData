@@ -1,6 +1,14 @@
 # 中国航天科技集团（CASC）
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1171 |
+| ELO Competitive | 1173 |
+| Total Matches | 2 |
+| Wins | 0 |
+| Losses | 2 |
+| Draws | 0 |
+
 
 ### Match History
 

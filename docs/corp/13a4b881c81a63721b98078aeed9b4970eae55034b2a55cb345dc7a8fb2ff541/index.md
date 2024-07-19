@@ -1,6 +1,14 @@
 # Бороская Имерия
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1196 |
+| ELO Competitive | 1197 |
+| Total Matches | 4 |
+| Wins | 2 |
+| Losses | 2 |
+| Draws | 0 |
+
 
 ### Match History
 

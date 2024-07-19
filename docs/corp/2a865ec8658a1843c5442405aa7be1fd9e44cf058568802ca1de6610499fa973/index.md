@@ -1,6 +1,15 @@
 # 神仙'
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1153 |
+| ELO Competitive | 1198 |
+| Total Matches | 22 |
+| Wins | 8 |
+| Losses | 11 |
+| Draws | 3 |
+| Streak Record | 3 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

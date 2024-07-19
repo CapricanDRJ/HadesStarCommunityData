@@ -1,6 +1,16 @@
 # 共产主义舰队
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1277 |
+| ELO Competitive | 1278 |
+| Total Matches | 8 |
+| Wins | 7 |
+| Losses | 1 |
+| Draws | 0 |
+| Streak | 3 |
+| Streak Record | 4 |
+
 
 ### Match History
 

@@ -1,6 +1,15 @@
 # Zvezdec
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1318 |
+| ELO Competitive | 1399 |
+| Total Matches | 43 |
+| Wins | 29 |
+| Losses | 14 |
+| Draws | 0 |
+| Streak Record | 9 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

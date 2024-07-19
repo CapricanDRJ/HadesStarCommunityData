@@ -1,6 +1,14 @@
 # The X - Files
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 977 |
+| ELO Competitive | 997 |
+| Total Matches | 38 |
+| Wins | 3 |
+| Losses | 35 |
+| Draws | 0 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

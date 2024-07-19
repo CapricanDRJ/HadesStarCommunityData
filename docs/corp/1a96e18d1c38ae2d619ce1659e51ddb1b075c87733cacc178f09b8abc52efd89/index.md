@@ -1,6 +1,14 @@
 # Vermilion
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1152 |
+| ELO Competitive | 1177 |
+| Total Matches | 7 |
+| Wins | 1 |
+| Losses | 5 |
+| Draws | 1 |
+
 
 ### Match History
 

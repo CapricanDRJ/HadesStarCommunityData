@@ -1,6 +1,15 @@
 # SILVER TERRA
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1245 |
+| ELO Competitive | 1257 |
+| Total Matches | 16 |
+| Wins | 9 |
+| Losses | 7 |
+| Draws | 0 |
+| Streak Record | 3 |
+
 
 ### Match History
 

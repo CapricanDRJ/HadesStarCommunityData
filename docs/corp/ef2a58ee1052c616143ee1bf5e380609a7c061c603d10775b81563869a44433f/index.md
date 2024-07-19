@@ -1,6 +1,15 @@
 # Алый Феникс
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1134 |
+| ELO Competitive | 1142 |
+| Total Matches | 13 |
+| Wins | 4 |
+| Losses | 9 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

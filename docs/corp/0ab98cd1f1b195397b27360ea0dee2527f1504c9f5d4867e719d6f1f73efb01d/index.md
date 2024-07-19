@@ -1,6 +1,16 @@
 # Grunthal Gang
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1329 |
+| ELO Competitive | 1428 |
+| Total Matches | 55 |
+| Wins | 33 |
+| Losses | 22 |
+| Draws | 0 |
+| Streak | 2 |
+| Streak Record | 5 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

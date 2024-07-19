@@ -1,6 +1,16 @@
 # Bl@ck/Galaxy 
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1282 |
+| ELO Competitive | 1319 |
+| Total Matches | 28 |
+| Wins | 14 |
+| Losses | 13 |
+| Draws | 1 |
+| Streak | 4 |
+| Streak Record | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

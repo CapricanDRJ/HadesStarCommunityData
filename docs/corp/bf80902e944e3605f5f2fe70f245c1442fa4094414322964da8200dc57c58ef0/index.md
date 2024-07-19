@@ -1,6 +1,14 @@
 # Das Imperium
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1116 |
+| ELO Competitive | 1118 |
+| Total Matches | 9 |
+| Wins | 1 |
+| Losses | 8 |
+| Draws | 0 |
+
 
 ### Match History
 

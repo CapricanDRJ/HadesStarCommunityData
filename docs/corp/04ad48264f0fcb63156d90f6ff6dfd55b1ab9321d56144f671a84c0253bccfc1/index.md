@@ -1,6 +1,14 @@
 # Space Scourge
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1146 |
+| ELO Competitive | 1149 |
+| Total Matches | 8 |
+| Wins | 2 |
+| Losses | 6 |
+| Draws | 0 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

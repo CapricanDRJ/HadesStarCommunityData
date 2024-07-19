@@ -1,6 +1,15 @@
 # Hun Avengers
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1181 |
+| ELO Competitive | 1288 |
+| Total Matches | 25 |
+| Wins | 12 |
+| Losses | 13 |
+| Draws | 0 |
+| Streak Record | 3 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

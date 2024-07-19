@@ -1,6 +1,15 @@
 # 世外桃源
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 844 |
+| ELO Competitive | 1045 |
+| Total Matches | 82 |
+| Wins | 8 |
+| Losses | 74 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

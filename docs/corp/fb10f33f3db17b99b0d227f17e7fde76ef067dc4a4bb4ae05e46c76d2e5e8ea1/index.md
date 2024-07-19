@@ -1,6 +1,16 @@
 # Lacuna X
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1448 |
+| ELO Competitive | 1472 |
+| Total Matches | 36 |
+| Wins | 32 |
+| Losses | 4 |
+| Draws | 0 |
+| Streak | 17 |
+| Streak Record | 17 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

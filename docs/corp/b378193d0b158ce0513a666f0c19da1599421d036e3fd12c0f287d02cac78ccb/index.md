@@ -1,6 +1,14 @@
 # StargateCommand
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1165 |
+| ELO Competitive | 1167 |
+| Total Matches | 3 |
+| Wins | 0 |
+| Losses | 2 |
+| Draws | 1 |
+
 
 ### Match History
 

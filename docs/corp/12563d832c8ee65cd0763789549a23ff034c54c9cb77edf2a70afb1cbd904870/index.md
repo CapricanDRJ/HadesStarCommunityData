@@ -1,6 +1,14 @@
 # Aurora Burning
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1183 |
+| ELO Competitive | 1184 |
+| Total Matches | 5 |
+| Wins | 2 |
+| Losses | 3 |
+| Draws | 0 |
+
 
 ### Match History
 

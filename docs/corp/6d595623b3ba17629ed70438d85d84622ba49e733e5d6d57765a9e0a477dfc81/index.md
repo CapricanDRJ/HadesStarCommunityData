@@ -1,6 +1,16 @@
 # 中国星际联盟
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1256 |
+| ELO Competitive | 1423 |
+| Total Matches | 58 |
+| Wins | 31 |
+| Losses | 26 |
+| Draws | 1 |
+| Streak | 2 |
+| Streak Record | 5 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

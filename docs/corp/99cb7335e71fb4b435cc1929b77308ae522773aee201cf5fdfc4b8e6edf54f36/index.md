@@ -1,6 +1,15 @@
 # TITANS
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1130 |
+| ELO Competitive | 1143 |
+| Total Matches | 12 |
+| Wins | 3 |
+| Losses | 9 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 
 ### Match History
 

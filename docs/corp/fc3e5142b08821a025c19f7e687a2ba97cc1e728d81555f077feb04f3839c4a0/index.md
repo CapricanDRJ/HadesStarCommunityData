@@ -1,6 +1,16 @@
 # 柯伊伯带
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1607 |
+| ELO Competitive | 1583 |
+| Total Matches | 57 |
+| Wins | 56 |
+| Losses | 1 |
+| Draws | 0 |
+| Streak | 46 |
+| Streak Record | 46 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

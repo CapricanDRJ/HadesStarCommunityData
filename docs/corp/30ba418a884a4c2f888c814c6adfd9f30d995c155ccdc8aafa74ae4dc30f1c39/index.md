@@ -1,6 +1,15 @@
 # titan tv
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1091 |
+| ELO Competitive | 1189 |
+| Total Matches | 32 |
+| Wins | 9 |
+| Losses | 22 |
+| Draws | 1 |
+| Streak Record | 3 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

@@ -1,6 +1,16 @@
 # 42 Nova Corps.
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1210 |
+| ELO Competitive | 1211 |
+| Total Matches | 3 |
+| Wins | 2 |
+| Losses | 1 |
+| Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
+
 
 ### Match History
 

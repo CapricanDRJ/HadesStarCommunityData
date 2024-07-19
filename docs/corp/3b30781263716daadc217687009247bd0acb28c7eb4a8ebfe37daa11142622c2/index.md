@@ -1,6 +1,15 @@
 # 雪月永恒
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1252 |
+| ELO Competitive | 1260 |
+| Total Matches | 7 |
+| Wins | 6 |
+| Losses | 1 |
+| Draws | 0 |
+| Streak Record | 5 |
+
 
 ### Match History
 

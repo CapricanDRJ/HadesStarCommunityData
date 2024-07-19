@@ -1,6 +1,16 @@
 # nuevo mundo
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1220 |
+| ELO Competitive | 1238 |
+| Total Matches | 13 |
+| Wins | 6 |
+| Losses | 7 |
+| Draws | 0 |
+| Streak | 5 |
+| Streak Record | 5 |
+
 
 ### Match History
 

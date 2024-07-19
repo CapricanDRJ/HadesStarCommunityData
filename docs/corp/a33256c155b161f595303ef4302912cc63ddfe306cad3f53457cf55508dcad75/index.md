@@ -1,6 +1,16 @@
 # Auscorp 
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1496 |
+| ELO Competitive | 1548 |
+| Total Matches | 46 |
+| Wins | 40 |
+| Losses | 6 |
+| Draws | 0 |
+| Streak | 4 |
+| Streak Record | 12 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

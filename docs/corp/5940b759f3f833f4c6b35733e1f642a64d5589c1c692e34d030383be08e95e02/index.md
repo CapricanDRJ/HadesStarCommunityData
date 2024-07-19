@@ -1,6 +1,16 @@
 # Ark Summit
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1326 |
+| ELO Competitive | 1332 |
+| Total Matches | 10 |
+| Wins | 10 |
+| Losses | 0 |
+| Draws | 0 |
+| Streak | 10 |
+| Streak Record | 10 |
+
 
 ### Match History
 

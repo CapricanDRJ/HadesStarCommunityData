@@ -1,6 +1,14 @@
 # 新兴帝国
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1196 |
+| ELO Competitive | 1200 |
+| Total Matches | 7 |
+| Wins | 3 |
+| Losses | 4 |
+| Draws | 0 |
+
 
 ### Match History
 

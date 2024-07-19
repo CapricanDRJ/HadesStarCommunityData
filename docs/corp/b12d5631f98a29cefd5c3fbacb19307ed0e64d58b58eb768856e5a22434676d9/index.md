@@ -1,6 +1,14 @@
 # BlackDawn
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1055 |
+| ELO Competitive | 1072 |
+| Total Matches | 19 |
+| Wins | 1 |
+| Losses | 13 |
+| Draws | 5 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

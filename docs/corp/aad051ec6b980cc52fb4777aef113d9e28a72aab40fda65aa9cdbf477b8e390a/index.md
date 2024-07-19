@@ -1,6 +1,14 @@
 # West Worlders
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1087 |
+| ELO Competitive | 1106 |
+| Total Matches | 11 |
+| Wins | 1 |
+| Losses | 10 |
+| Draws | 0 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

@@ -1,6 +1,16 @@
 # Death Star llc.
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1470 |
+| ELO Competitive | 1496 |
+| Total Matches | 48 |
+| Wins | 40 |
+| Losses | 7 |
+| Draws | 1 |
+| Streak | 2 |
+| Streak Record | 20 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

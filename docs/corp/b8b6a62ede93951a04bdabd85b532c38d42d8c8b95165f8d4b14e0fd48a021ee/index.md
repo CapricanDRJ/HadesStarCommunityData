@@ -1,6 +1,15 @@
 # Hermitage
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1226 |
+| ELO Competitive | 1246 |
+| Total Matches | 17 |
+| Wins | 10 |
+| Losses | 7 |
+| Draws | 0 |
+| Streak Record | 5 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

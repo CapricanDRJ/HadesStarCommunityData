@@ -1,6 +1,16 @@
 # VoidCorp
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1248 |
+| ELO Competitive | 1285 |
+| Total Matches | 39 |
+| Wins | 19 |
+| Losses | 19 |
+| Draws | 1 |
+| Streak | 2 |
+| Streak Record | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

@@ -1,6 +1,16 @@
 # 纸鸢台
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1233 |
+| ELO Competitive | 1233 |
+| Total Matches | 4 |
+| Wins | 3 |
+| Losses | 1 |
+| Draws | 0 |
+| Streak | 3 |
+| Streak Record | 3 |
+
 
 ### Match History
 

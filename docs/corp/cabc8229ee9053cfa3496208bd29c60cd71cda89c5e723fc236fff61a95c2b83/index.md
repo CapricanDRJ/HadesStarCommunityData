@@ -1,6 +1,15 @@
 # BRASIL ACADEMY
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1218 |
+| ELO Competitive | 1219 |
+| Total Matches | 3 |
+| Wins | 2 |
+| Losses | 1 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 
 ### Match History
 

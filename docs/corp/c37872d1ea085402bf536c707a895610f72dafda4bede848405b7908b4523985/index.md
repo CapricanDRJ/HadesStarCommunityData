@@ -1,6 +1,15 @@
 # Galaktika corp
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1306 |
+| ELO Competitive | 1327 |
+| Total Matches | 20 |
+| Wins | 14 |
+| Losses | 4 |
+| Draws | 2 |
+| Streak Record | 5 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

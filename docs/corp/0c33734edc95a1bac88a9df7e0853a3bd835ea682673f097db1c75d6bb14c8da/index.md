@@ -1,6 +1,15 @@
 # IMPERIAL ARMADA
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1244 |
+| ELO Competitive | 1332 |
+| Total Matches | 51 |
+| Wins | 28 |
+| Losses | 21 |
+| Draws | 2 |
+| Streak Record | 7 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

@@ -1,6 +1,14 @@
 # Rocket-by Baby
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1123 |
+| ELO Competitive | 1135 |
+| Total Matches | 6 |
+| Wins | 0 |
+| Losses | 6 |
+| Draws | 0 |
+
 
 ### Match History
 

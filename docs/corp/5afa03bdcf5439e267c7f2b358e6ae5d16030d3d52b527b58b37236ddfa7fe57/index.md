@@ -1,6 +1,15 @@
 # 行星联合军
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1157 |
+| ELO Competitive | 1171 |
+| Total Matches | 15 |
+| Wins | 6 |
+| Losses | 9 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 
 ### Match History
 

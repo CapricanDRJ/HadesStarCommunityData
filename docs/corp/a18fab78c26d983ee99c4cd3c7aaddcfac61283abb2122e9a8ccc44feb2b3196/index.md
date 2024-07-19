@@ -1,6 +1,15 @@
 # НИФИГАСЕБЕ
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1093 |
+| ELO Competitive | 1113 |
+| Total Matches | 30 |
+| Wins | 8 |
+| Losses | 22 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 
 ### Match History
 

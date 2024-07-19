@@ -1,6 +1,14 @@
 # The Galxey █
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1000 |
+| ELO Competitive | 1078 |
+| Total Matches | 36 |
+| Wins | 5 |
+| Losses | 29 |
+| Draws | 2 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

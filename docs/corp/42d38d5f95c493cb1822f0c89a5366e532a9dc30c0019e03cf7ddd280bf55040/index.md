@@ -1,6 +1,15 @@
 # 第四星际
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1319 |
+| ELO Competitive | 1410 |
+| Total Matches | 34 |
+| Wins | 24 |
+| Losses | 8 |
+| Draws | 2 |
+| Streak Record | 7 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

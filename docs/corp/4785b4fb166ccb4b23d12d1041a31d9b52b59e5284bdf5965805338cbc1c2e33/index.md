@@ -1,6 +1,14 @@
 # BlankBoosters
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1175 |
+| ELO Competitive | 1182 |
+| Total Matches | 4 |
+| Wins | 1 |
+| Losses | 3 |
+| Draws | 0 |
+
 
 ### Match History
 

@@ -1,6 +1,14 @@
 # 大舰队がな
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1086 |
+| ELO Competitive | 1111 |
+| Total Matches | 9 |
+| Wins | 0 |
+| Losses | 8 |
+| Draws | 1 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

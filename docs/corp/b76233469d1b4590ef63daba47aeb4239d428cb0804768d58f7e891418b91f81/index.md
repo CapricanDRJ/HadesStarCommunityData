@@ -1,6 +1,15 @@
 # Cerulean Nebula
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1247 |
+| ELO Competitive | 1294 |
+| Total Matches | 24 |
+| Wins | 14 |
+| Losses | 10 |
+| Draws | 0 |
+| Streak Record | 4 |
+
 
 ### Match History
 

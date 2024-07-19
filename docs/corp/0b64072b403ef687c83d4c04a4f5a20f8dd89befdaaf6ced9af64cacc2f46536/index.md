@@ -1,6 +1,15 @@
 # VENTORMENTA
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1227 |
+| ELO Competitive | 1227 |
+| Total Matches | 5 |
+| Wins | 3 |
+| Losses | 1 |
+| Draws | 1 |
+| Streak Record | 3 |
+
 
 ### Match History
 

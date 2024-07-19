@@ -1,6 +1,15 @@
 # Corp. Estelar 2
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1288 |
+| ELO Competitive | 1298 |
+| Total Matches | 16 |
+| Wins | 12 |
+| Losses | 4 |
+| Draws | 0 |
+| Streak Record | 9 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

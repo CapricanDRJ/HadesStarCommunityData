@@ -1,6 +1,15 @@
 # Stellar Exports
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1241 |
+| ELO Competitive | 1390 |
+| Total Matches | 57 |
+| Wins | 33 |
+| Losses | 24 |
+| Draws | 0 |
+| Streak Record | 7 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

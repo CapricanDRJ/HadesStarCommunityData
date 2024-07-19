@@ -1,6 +1,16 @@
 # Девчата
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1227 |
+| ELO Competitive | 1228 |
+| Total Matches | 2 |
+| Wins | 2 |
+| Losses | 0 |
+| Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
+
 
 ### Match History
 

@@ -1,6 +1,16 @@
 # Bounty Hunters
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1249 |
+| ELO Competitive | 1271 |
+| Total Matches | 11 |
+| Wins | 7 |
+| Losses | 4 |
+| Draws | 0 |
+| Streak | 2 |
+| Streak Record | 3 |
+
 
 ### Match History
 

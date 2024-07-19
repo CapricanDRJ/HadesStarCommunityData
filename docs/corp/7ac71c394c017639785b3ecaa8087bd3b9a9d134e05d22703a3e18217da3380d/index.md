@@ -1,6 +1,15 @@
 # Peace Keepers
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1049 |
+| ELO Competitive | 1157 |
+| Total Matches | 42 |
+| Wins | 10 |
+| Losses | 32 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

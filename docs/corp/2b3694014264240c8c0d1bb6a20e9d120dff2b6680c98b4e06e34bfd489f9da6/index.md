@@ -1,6 +1,14 @@
 # Alpha to Omega
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1194 |
+| ELO Competitive | 1195 |
+| Total Matches | 1 |
+| Wins | 0 |
+| Losses | 0 |
+| Draws | 1 |
+
 
 ### Match History
 

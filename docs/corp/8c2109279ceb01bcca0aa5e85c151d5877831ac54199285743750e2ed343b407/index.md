@@ -1,6 +1,15 @@
 # 绛紫星
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1251 |
+| ELO Competitive | 1374 |
+| Total Matches | 40 |
+| Wins | 23 |
+| Losses | 15 |
+| Draws | 2 |
+| Streak Record | 5 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

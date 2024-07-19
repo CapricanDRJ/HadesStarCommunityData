@@ -1,6 +1,16 @@
 # Bacon Warriors
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1281 |
+| ELO Competitive | 1317 |
+| Total Matches | 23 |
+| Wins | 13 |
+| Losses | 10 |
+| Draws | 0 |
+| Streak | 3 |
+| Streak Record | 5 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

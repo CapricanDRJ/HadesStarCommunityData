@@ -1,6 +1,15 @@
 # МеГаКо
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1205 |
+| ELO Competitive | 1242 |
+| Total Matches | 26 |
+| Wins | 13 |
+| Losses | 13 |
+| Draws | 0 |
+| Streak Record | 6 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

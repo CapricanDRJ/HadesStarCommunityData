@@ -1,6 +1,15 @@
 # 11th Engineers
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1128 |
+| ELO Competitive | 1198 |
+| Total Matches | 12 |
+| Wins | 4 |
+| Losses | 8 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

@@ -1,6 +1,15 @@
 # Corporation
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1331 |
+| ELO Competitive | 1349 |
+| Total Matches | 18 |
+| Wins | 15 |
+| Losses | 3 |
+| Draws | 0 |
+| Streak Record | 11 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

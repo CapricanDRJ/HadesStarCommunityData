@@ -1,6 +1,15 @@
 # 欢迎国人
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1107 |
+| ELO Competitive | 1113 |
+| Total Matches | 15 |
+| Wins | 3 |
+| Losses | 10 |
+| Draws | 2 |
+| Streak Record | 2 |
+
 
 ### Match History
 

@@ -1,6 +1,15 @@
 # Bloodtide
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1201 |
+| ELO Competitive | 1381 |
+| Total Matches | 66 |
+| Wins | 35 |
+| Losses | 31 |
+| Draws | 0 |
+| Streak Record | 7 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

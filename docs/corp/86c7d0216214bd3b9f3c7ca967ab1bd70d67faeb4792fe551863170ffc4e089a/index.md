@@ -1,6 +1,16 @@
 #   边界  
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1247 |
+| ELO Competitive | 1257 |
+| Total Matches | 5 |
+| Wins | 4 |
+| Losses | 1 |
+| Draws | 0 |
+| Streak | 4 |
+| Streak Record | 4 |
+
 
 ### Match History
 

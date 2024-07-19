@@ -1,6 +1,15 @@
 # INFINITY STAR
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1183 |
+| ELO Competitive | 1211 |
+| Total Matches | 9 |
+| Wins | 4 |
+| Losses | 5 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 
 ### Match History
 

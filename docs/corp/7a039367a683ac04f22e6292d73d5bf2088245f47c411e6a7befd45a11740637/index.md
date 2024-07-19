@@ -1,6 +1,14 @@
 # Elite2.0
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1168 |
+| ELO Competitive | 1183 |
+| Total Matches | 5 |
+| Wins | 1 |
+| Losses | 3 |
+| Draws | 1 |
+
 
 ### Match History
 

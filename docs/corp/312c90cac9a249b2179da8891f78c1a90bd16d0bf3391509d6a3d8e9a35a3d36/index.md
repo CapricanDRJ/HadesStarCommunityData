@@ -1,6 +1,15 @@
 # United Stars 
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1247 |
+| ELO Competitive | 1303 |
+| Total Matches | 38 |
+| Wins | 22 |
+| Losses | 15 |
+| Draws | 1 |
+| Streak Record | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

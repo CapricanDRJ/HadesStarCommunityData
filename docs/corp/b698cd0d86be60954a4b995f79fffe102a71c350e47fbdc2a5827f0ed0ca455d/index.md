@@ -1,6 +1,15 @@
 # Stargate Corp
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1345 |
+| ELO Competitive | 1479 |
+| Total Matches | 48 |
+| Wins | 33 |
+| Losses | 15 |
+| Draws | 0 |
+| Streak Record | 12 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

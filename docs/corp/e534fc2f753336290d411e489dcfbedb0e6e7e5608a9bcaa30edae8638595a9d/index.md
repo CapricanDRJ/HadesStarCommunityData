@@ -1,6 +1,16 @@
 # 阿尔特拉太空港
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1215 |
+| ELO Competitive | 1216 |
+| Total Matches | 3 |
+| Wins | 2 |
+| Losses | 1 |
+| Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
+
 
 ### Match History
 

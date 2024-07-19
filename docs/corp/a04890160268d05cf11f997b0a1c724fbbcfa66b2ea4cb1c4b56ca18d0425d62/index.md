@@ -1,6 +1,16 @@
 # GDZ
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1242 |
+| ELO Competitive | 1293 |
+| Total Matches | 55 |
+| Wins | 30 |
+| Losses | 25 |
+| Draws | 0 |
+| Streak | 4 |
+| Streak Record | 8 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

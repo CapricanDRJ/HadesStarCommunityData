@@ -1,6 +1,16 @@
 # Альянс
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1343 |
+| ELO Competitive | 1380 |
+| Total Matches | 33 |
+| Wins | 25 |
+| Losses | 8 |
+| Draws | 0 |
+| Streak | 3 |
+| Streak Record | 9 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

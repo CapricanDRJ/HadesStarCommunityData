@@ -1,6 +1,15 @@
 # Soylent Corp.
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1265 |
+| ELO Competitive | 1313 |
+| Total Matches | 33 |
+| Wins | 22 |
+| Losses | 11 |
+| Draws | 0 |
+| Streak Record | 7 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

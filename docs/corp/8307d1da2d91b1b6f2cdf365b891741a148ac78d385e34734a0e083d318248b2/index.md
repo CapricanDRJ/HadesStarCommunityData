@@ -1,6 +1,15 @@
 # FėniX•
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1188 |
+| ELO Competitive | 1189 |
+| Total Matches | 8 |
+| Wins | 3 |
+| Losses | 4 |
+| Draws | 1 |
+| Streak Record | 2 |
+
 
 ### Match History
 

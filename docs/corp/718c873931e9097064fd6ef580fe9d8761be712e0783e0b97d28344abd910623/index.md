@@ -1,6 +1,15 @@
 # lesescargots
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1303 |
+| ELO Competitive | 1342 |
+| Total Matches | 48 |
+| Wins | 35 |
+| Losses | 13 |
+| Draws | 0 |
+| Streak Record | 14 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

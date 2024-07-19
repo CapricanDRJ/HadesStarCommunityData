@@ -1,6 +1,15 @@
 # 资助会
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1242 |
+| ELO Competitive | 1242 |
+| Total Matches | 7 |
+| Wins | 5 |
+| Losses | 2 |
+| Draws | 0 |
+| Streak Record | 4 |
+
 
 ### Match History
 

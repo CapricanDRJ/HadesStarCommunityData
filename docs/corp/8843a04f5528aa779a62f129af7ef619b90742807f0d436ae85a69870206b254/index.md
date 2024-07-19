@@ -1,6 +1,15 @@
 # Valhalla Rising
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1416 |
+| ELO Competitive | 1441 |
+| Total Matches | 24 |
+| Wins | 22 |
+| Losses | 2 |
+| Draws | 0 |
+| Streak Record | 15 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

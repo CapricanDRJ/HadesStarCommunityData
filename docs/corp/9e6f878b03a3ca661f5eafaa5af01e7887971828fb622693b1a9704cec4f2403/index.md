@@ -1,6 +1,15 @@
 # ZZZ-V
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1237 |
+| ELO Competitive | 1238 |
+| Total Matches | 4 |
+| Wins | 3 |
+| Losses | 1 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 
 ### Match History
 

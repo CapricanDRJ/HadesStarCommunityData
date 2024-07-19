@@ -1,6 +1,14 @@
 # Anla'Shok
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1089 |
+| ELO Competitive | 1096 |
+| Total Matches | 13 |
+| Wins | 2 |
+| Losses | 11 |
+| Draws | 0 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

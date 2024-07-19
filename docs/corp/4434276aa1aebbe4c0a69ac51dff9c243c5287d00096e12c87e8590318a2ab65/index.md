@@ -1,6 +1,14 @@
 # KARI
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 835 |
+| ELO Competitive | 1011 |
+| Total Matches | 62 |
+| Wins | 2 |
+| Losses | 60 |
+| Draws | 0 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

@@ -1,6 +1,14 @@
 # The Titans Pro
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1218 |
+| ELO Competitive | 1223 |
+| Total Matches | 1 |
+| Wins | 1 |
+| Losses | 0 |
+| Draws | 0 |
+
 
 ### Match History
 

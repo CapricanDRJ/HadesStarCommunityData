@@ -1,6 +1,16 @@
 # Z. O. V. 
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1346 |
+| ELO Competitive | 1392 |
+| Total Matches | 22 |
+| Wins | 17 |
+| Losses | 4 |
+| Draws | 1 |
+| Streak | 10 |
+| Streak Record | 10 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

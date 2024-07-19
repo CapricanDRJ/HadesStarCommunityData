@@ -1,6 +1,15 @@
 # DadCorp
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1228 |
+| ELO Competitive | 1236 |
+| Total Matches | 6 |
+| Wins | 4 |
+| Losses | 2 |
+| Draws | 0 |
+| Streak Record | 3 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

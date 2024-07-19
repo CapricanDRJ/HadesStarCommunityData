@@ -1,6 +1,15 @@
 # Слава Украине!
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1352 |
+| ELO Competitive | 1563 |
+| Total Matches | 72 |
+| Wins | 47 |
+| Losses | 25 |
+| Draws | 0 |
+| Streak Record | 12 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

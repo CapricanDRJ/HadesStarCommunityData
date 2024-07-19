@@ -1,6 +1,16 @@
 # 代代守护你的神明
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1225 |
+| ELO Competitive | 1264 |
+| Total Matches | 12 |
+| Wins | 7 |
+| Losses | 5 |
+| Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

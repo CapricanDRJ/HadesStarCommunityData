@@ -1,6 +1,16 @@
 # N7 Elite Forces
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1250 |
+| ELO Competitive | 1252 |
+| Total Matches | 3 |
+| Wins | 3 |
+| Losses | 0 |
+| Draws | 0 |
+| Streak | 3 |
+| Streak Record | 3 |
+
 
 ### Match History
 

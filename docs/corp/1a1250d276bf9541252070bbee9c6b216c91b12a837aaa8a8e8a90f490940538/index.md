@@ -1,6 +1,16 @@
 # Emergence
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1439 |
+| ELO Competitive | 1477 |
+| Total Matches | 26 |
+| Wins | 24 |
+| Losses | 2 |
+| Draws | 0 |
+| Streak | 7 |
+| Streak Record | 17 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

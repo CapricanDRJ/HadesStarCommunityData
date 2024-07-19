@@ -1,6 +1,15 @@
 # RedStar Raiding
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1045 |
+| ELO Competitive | 1078 |
+| Total Matches | 35 |
+| Wins | 6 |
+| Losses | 28 |
+| Draws | 1 |
+| Streak Record | 3 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

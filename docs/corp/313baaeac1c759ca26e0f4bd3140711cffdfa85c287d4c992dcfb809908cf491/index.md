@@ -1,6 +1,15 @@
 # Legion
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1228 |
+| ELO Competitive | 1324 |
+| Total Matches | 43 |
+| Wins | 21 |
+| Losses | 22 |
+| Draws | 0 |
+| Streak Record | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

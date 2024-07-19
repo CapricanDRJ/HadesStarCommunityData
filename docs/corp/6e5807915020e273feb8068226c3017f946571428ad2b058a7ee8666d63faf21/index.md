@@ -1,6 +1,15 @@
 # Sussy Coloner
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1050 |
+| ELO Competitive | 1148 |
+| Total Matches | 49 |
+| Wins | 10 |
+| Losses | 38 |
+| Draws | 1 |
+| Streak Record | 2 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

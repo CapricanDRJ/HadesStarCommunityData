@@ -1,6 +1,15 @@
 # Hinterm Mars
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1205 |
+| ELO Competitive | 1365 |
+| Total Matches | 48 |
+| Wins | 21 |
+| Losses | 27 |
+| Draws | 0 |
+| Streak Record | 3 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

@@ -1,6 +1,16 @@
 # R-6 satalite
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1311 |
+| ELO Competitive | 1345 |
+| Total Matches | 37 |
+| Wins | 25 |
+| Losses | 11 |
+| Draws | 1 |
+| Streak | 2 |
+| Streak Record | 10 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

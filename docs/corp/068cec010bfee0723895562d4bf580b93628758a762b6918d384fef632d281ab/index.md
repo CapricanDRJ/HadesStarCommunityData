@@ -1,6 +1,16 @@
 # СОЮЗ
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1245 |
+| ELO Competitive | 1259 |
+| Total Matches | 10 |
+| Wins | 6 |
+| Losses | 4 |
+| Draws | 0 |
+| Streak | 2 |
+| Streak Record | 3 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

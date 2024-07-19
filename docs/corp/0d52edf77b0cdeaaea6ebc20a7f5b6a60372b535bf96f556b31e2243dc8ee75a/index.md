@@ -1,6 +1,15 @@
 # Imperium XIII
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1247 |
+| ELO Competitive | 1281 |
+| Total Matches | 43 |
+| Wins | 24 |
+| Losses | 19 |
+| Draws | 0 |
+| Streak Record | 5 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

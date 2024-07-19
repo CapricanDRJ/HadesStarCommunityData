@@ -1,6 +1,15 @@
 # Nine's Own Goal
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1249 |
+| ELO Competitive | 1280 |
+| Total Matches | 42 |
+| Wins | 26 |
+| Losses | 14 |
+| Draws | 2 |
+| Streak Record | 7 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

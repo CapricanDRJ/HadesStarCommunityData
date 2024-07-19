@@ -1,6 +1,15 @@
 # Red Star Corp.
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1090 |
+| ELO Competitive | 1108 |
+| Total Matches | 20 |
+| Wins | 6 |
+| Losses | 14 |
+| Draws | 0 |
+| Streak Record | 3 |
+
 
 ### Match History
 

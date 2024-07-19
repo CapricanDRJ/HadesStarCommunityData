@@ -1,6 +1,15 @@
 # ..D.E.I.T.Co..
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1190 |
+| ELO Competitive | 1200 |
+| Total Matches | 12 |
+| Wins | 6 |
+| Losses | 6 |
+| Draws | 0 |
+| Streak Record | 5 |
+
 
 ### Match History
 

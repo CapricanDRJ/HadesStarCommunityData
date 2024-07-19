@@ -1,6 +1,15 @@
 # Last Chance
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1202 |
+| ELO Competitive | 1207 |
+| Total Matches | 5 |
+| Wins | 2 |
+| Losses | 2 |
+| Draws | 1 |
+| Streak Record | 2 |
+
 
 ### Match History
 

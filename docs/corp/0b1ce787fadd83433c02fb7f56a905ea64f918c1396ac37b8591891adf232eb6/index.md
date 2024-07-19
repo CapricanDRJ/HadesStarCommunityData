@@ -1,6 +1,15 @@
 # Kelebra
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1206 |
+| ELO Competitive | 1213 |
+| Total Matches | 12 |
+| Wins | 6 |
+| Losses | 5 |
+| Draws | 1 |
+| Streak Record | 2 |
+
 
 ### Match History
 

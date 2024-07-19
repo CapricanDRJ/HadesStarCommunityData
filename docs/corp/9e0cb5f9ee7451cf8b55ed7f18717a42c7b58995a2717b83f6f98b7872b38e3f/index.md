@@ -1,6 +1,14 @@
 # Farland Ind.
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1095 |
+| ELO Competitive | 1164 |
+| Total Matches | 27 |
+| Wins | 7 |
+| Losses | 19 |
+| Draws | 1 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

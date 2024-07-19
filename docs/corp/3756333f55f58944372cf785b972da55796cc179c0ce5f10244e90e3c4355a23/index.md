@@ -1,6 +1,15 @@
 # Destroyers
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1228 |
+| ELO Competitive | 1247 |
+| Total Matches | 31 |
+| Wins | 16 |
+| Losses | 15 |
+| Draws | 0 |
+| Streak Record | 6 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

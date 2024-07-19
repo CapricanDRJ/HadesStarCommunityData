@@ -1,6 +1,16 @@
 # Space Penguins
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1394 |
+| ELO Competitive | 1439 |
+| Total Matches | 45 |
+| Wins | 35 |
+| Losses | 10 |
+| Draws | 0 |
+| Streak | 5 |
+| Streak Record | 12 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

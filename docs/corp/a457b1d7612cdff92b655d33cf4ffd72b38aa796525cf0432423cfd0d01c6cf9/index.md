@@ -1,6 +1,15 @@
 # 华夏三体舰队
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1172 |
+| ELO Competitive | 1242 |
+| Total Matches | 25 |
+| Wins | 9 |
+| Losses | 13 |
+| Draws | 3 |
+| Streak Record | 3 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

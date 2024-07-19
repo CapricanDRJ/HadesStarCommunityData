@@ -1,6 +1,15 @@
 # Trade Station
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 979 |
+| ELO Competitive | 1024 |
+| Total Matches | 34 |
+| Wins | 4 |
+| Losses | 30 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

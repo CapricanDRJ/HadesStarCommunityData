@@ -1,6 +1,16 @@
 # Quantum Jumpers
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1187 |
+| ELO Competitive | 1197 |
+| Total Matches | 10 |
+| Wins | 4 |
+| Losses | 5 |
+| Draws | 1 |
+| Streak | 2 |
+| Streak Record | 2 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

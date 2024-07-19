@@ -1,6 +1,15 @@
 # KLM
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1068 |
+| ELO Competitive | 1099 |
+| Total Matches | 28 |
+| Wins | 5 |
+| Losses | 23 |
+| Draws | 0 |
+| Streak Record | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

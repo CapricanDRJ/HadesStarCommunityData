@@ -1,6 +1,15 @@
 # Eretria 
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1220 |
+| ELO Competitive | 1244 |
+| Total Matches | 45 |
+| Wins | 23 |
+| Losses | 22 |
+| Draws | 0 |
+| Streak Record | 7 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

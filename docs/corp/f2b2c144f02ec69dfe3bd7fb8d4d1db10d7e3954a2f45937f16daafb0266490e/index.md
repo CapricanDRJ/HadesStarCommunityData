@@ -1,6 +1,15 @@
 # 한국인
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1296 |
+| ELO Competitive | 1382 |
+| Total Matches | 48 |
+| Wins | 31 |
+| Losses | 14 |
+| Draws | 3 |
+| Streak Record | 7 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

@@ -1,6 +1,15 @@
 # Goblin Squad
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1196 |
+| ELO Competitive | 1226 |
+| Total Matches | 8 |
+| Wins | 4 |
+| Losses | 4 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 
 ### Match History
 

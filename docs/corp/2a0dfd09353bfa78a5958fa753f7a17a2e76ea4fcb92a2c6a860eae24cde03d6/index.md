@@ -1,6 +1,15 @@
 # ShadowSpaceCult
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1213 |
+| ELO Competitive | 1216 |
+| Total Matches | 3 |
+| Wins | 2 |
+| Losses | 1 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 
 ### Match History
 

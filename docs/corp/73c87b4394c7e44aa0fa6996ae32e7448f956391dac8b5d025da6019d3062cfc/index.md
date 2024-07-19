@@ -1,6 +1,15 @@
 # The New Light
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1208 |
+| ELO Competitive | 1256 |
+| Total Matches | 35 |
+| Wins | 17 |
+| Losses | 17 |
+| Draws | 1 |
+| Streak Record | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

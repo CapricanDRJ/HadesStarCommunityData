@@ -1,6 +1,15 @@
 # LossFarm No.648
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1217 |
+| ELO Competitive | 1218 |
+| Total Matches | 7 |
+| Wins | 4 |
+| Losses | 3 |
+| Draws | 0 |
+| Streak Record | 4 |
+
 
 ### Match History
 

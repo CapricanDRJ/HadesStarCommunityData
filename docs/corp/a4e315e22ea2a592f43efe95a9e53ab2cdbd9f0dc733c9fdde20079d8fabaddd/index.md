@@ -1,6 +1,16 @@
 # Battle Academy
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1254 |
+| ELO Competitive | 1259 |
+| Total Matches | 4 |
+| Wins | 4 |
+| Losses | 0 |
+| Draws | 0 |
+| Streak | 4 |
+| Streak Record | 4 |
+
 
 ### Match History
 

@@ -1,6 +1,15 @@
 # Polish Pirates
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1245 |
+| ELO Competitive | 1274 |
+| Total Matches | 26 |
+| Wins | 14 |
+| Losses | 12 |
+| Draws | 0 |
+| Streak Record | 5 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

@@ -1,6 +1,15 @@
 # tropa (BR)
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1181 |
+| ELO Competitive | 1190 |
+| Total Matches | 18 |
+| Wins | 7 |
+| Losses | 9 |
+| Draws | 2 |
+| Streak Record | 3 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

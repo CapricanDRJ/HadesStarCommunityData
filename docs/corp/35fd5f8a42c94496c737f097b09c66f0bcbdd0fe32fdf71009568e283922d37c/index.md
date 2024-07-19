@@ -1,6 +1,15 @@
 # New Horizons
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1205 |
+| ELO Competitive | 1238 |
+| Total Matches | 12 |
+| Wins | 6 |
+| Losses | 6 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 
 ### Match History
 

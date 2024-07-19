@@ -1,6 +1,14 @@
 # exirium
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1200 |
+| ELO Competitive | 1200 |
+| Total Matches | 2 |
+| Wins | 1 |
+| Losses | 1 |
+| Draws | 0 |
+
 
 ### Match History
 

@@ -1,6 +1,16 @@
 # Internationals
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1272 |
+| ELO Competitive | 1301 |
+| Total Matches | 21 |
+| Wins | 12 |
+| Losses | 9 |
+| Draws | 0 |
+| Streak | 8 |
+| Streak Record | 8 |
+
 
 ### Match History
 

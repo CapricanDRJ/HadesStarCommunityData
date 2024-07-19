@@ -1,6 +1,14 @@
 # Irish Pride 
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1199 |
+| ELO Competitive | 1201 |
+| Total Matches | 2 |
+| Wins | 1 |
+| Losses | 1 |
+| Draws | 0 |
+
 
 ### Match History
 

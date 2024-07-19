@@ -1,6 +1,16 @@
 # Outland Ind.
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1388 |
+| ELO Competitive | 1440 |
+| Total Matches | 41 |
+| Wins | 30 |
+| Losses | 11 |
+| Draws | 0 |
+| Streak | 4 |
+| Streak Record | 5 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

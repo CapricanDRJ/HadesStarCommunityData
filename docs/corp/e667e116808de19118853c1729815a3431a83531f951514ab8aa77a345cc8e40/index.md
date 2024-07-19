@@ -1,6 +1,15 @@
 # Highlife
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1180 |
+| ELO Competitive | 1210 |
+| Total Matches | 36 |
+| Wins | 18 |
+| Losses | 17 |
+| Draws | 1 |
+| Streak Record | 6 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

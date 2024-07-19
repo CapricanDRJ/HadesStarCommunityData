@@ -1,6 +1,15 @@
 # FreeSpcAlliance
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1197 |
+| ELO Competitive | 1199 |
+| Total Matches | 6 |
+| Wins | 3 |
+| Losses | 3 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

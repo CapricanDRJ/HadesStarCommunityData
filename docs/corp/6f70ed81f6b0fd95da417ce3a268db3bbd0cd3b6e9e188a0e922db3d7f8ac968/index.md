@@ -1,6 +1,14 @@
 # 喵喵喵喵喵喵喵
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1095 |
+| ELO Competitive | 1144 |
+| Total Matches | 9 |
+| Wins | 0 |
+| Losses | 7 |
+| Draws | 2 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

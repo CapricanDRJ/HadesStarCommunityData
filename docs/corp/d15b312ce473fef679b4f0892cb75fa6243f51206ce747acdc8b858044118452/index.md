@@ -1,6 +1,14 @@
 # La NoChE NeGrA
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1197 |
+| ELO Competitive | 1201 |
+| Total Matches | 1 |
+| Wins | 0 |
+| Losses | 0 |
+| Draws | 1 |
+
 
 ### Match History
 

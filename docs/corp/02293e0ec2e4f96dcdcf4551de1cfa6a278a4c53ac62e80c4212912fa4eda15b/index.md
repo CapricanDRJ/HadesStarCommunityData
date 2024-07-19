@@ -1,6 +1,15 @@
 # White Dwarf
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1360 |
+| ELO Competitive | 1399 |
+| Total Matches | 41 |
+| Wins | 29 |
+| Losses | 12 |
+| Draws | 0 |
+| Streak Record | 7 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

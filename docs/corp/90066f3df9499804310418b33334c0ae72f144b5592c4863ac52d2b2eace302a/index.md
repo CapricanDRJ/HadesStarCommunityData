@@ -1,6 +1,15 @@
 # DarkMoon
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1311 |
+| ELO Competitive | 1389 |
+| Total Matches | 29 |
+| Wins | 19 |
+| Losses | 10 |
+| Draws | 0 |
+| Streak Record | 6 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

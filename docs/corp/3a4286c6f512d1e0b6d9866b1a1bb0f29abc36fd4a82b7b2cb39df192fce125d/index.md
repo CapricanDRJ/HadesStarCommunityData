@@ -1,6 +1,15 @@
 # Hinterm Mond
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1314 |
+| ELO Competitive | 1496 |
+| Total Matches | 70 |
+| Wins | 43 |
+| Losses | 27 |
+| Draws | 0 |
+| Streak Record | 6 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

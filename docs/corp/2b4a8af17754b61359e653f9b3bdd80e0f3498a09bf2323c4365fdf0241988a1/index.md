@@ -1,6 +1,16 @@
 # 对，进就进人少的
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1301 |
+| ELO Competitive | 1408 |
+| Total Matches | 61 |
+| Wins | 32 |
+| Losses | 27 |
+| Draws | 2 |
+| Streak | 2 |
+| Streak Record | 8 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

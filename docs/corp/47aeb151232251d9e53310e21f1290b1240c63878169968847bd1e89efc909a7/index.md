@@ -1,6 +1,15 @@
 # Poggy Rockers
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1283 |
+| ELO Competitive | 1308 |
+| Total Matches | 31 |
+| Wins | 22 |
+| Losses | 8 |
+| Draws | 1 |
+| Streak Record | 15 |
+
 
 ### Match History
 

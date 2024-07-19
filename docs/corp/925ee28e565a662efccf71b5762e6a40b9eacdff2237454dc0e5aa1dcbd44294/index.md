@@ -1,6 +1,15 @@
 # RACNAROK
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1252 |
+| ELO Competitive | 1281 |
+| Total Matches | 11 |
+| Wins | 7 |
+| Losses | 2 |
+| Draws | 2 |
+| Streak Record | 7 |
+
 
 ### Match History
 

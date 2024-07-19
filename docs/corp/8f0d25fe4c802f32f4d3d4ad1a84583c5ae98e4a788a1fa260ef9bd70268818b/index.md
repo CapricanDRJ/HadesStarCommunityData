@@ -1,6 +1,16 @@
 # 第五星际
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1216 |
+| ELO Competitive | 1217 |
+| Total Matches | 5 |
+| Wins | 3 |
+| Losses | 2 |
+| Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
+
 
 ### Match History
 

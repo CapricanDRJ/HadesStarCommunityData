@@ -1,6 +1,14 @@
 # CSI
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1154 |
+| ELO Competitive | 1154 |
+| Total Matches | 6 |
+| Wins | 1 |
+| Losses | 5 |
+| Draws | 0 |
+
 
 ### Match History
 

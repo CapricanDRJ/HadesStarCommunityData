@@ -1,6 +1,15 @@
 # 柯伊伯带伊甸园
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1312 |
+| ELO Competitive | 1326 |
+| Total Matches | 11 |
+| Wins | 10 |
+| Losses | 1 |
+| Draws | 0 |
+| Streak Record | 10 |
+
 
 ### Match History
 

@@ -1,6 +1,16 @@
 # Stella☆Glow
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1339 |
+| ELO Competitive | 1368 |
+| Total Matches | 37 |
+| Wins | 26 |
+| Losses | 10 |
+| Draws | 1 |
+| Streak | 2 |
+| Streak Record | 9 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

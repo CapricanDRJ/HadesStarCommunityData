@@ -1,6 +1,14 @@
 # Free Thinkers 2
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 949 |
+| ELO Competitive | 973 |
+| Total Matches | 46 |
+| Wins | 3 |
+| Losses | 42 |
+| Draws | 1 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

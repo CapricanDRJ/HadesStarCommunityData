@@ -1,6 +1,15 @@
 # Warp Dominion
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1212 |
+| ELO Competitive | 1217 |
+| Total Matches | 5 |
+| Wins | 3 |
+| Losses | 2 |
+| Draws | 0 |
+| Streak Record | 3 |
+
 
 ### Match History
 

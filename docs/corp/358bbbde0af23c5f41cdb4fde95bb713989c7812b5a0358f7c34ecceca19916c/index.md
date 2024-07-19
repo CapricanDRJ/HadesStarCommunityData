@@ -1,6 +1,15 @@
 # Cyber Star
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1375 |
+| ELO Competitive | 1410 |
+| Total Matches | 33 |
+| Wins | 24 |
+| Losses | 9 |
+| Draws | 0 |
+| Streak Record | 7 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

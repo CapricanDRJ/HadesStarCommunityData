@@ -1,6 +1,15 @@
 # 萌新的收留所
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1244 |
+| ELO Competitive | 1297 |
+| Total Matches | 10 |
+| Wins | 6 |
+| Losses | 3 |
+| Draws | 1 |
+| Streak Record | 2 |
+
 
 ### Match History
 

@@ -1,6 +1,15 @@
 # Highland Ind. 
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1182 |
+| ELO Competitive | 1234 |
+| Total Matches | 21 |
+| Wins | 10 |
+| Losses | 10 |
+| Draws | 1 |
+| Streak Record | 6 |
+
 
 ### Match History
 

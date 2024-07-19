@@ -1,6 +1,14 @@
 # Пабеда
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1185 |
+| ELO Competitive | 1186 |
+| Total Matches | 4 |
+| Wins | 1 |
+| Losses | 2 |
+| Draws | 1 |
+
 
 ### Match History
 

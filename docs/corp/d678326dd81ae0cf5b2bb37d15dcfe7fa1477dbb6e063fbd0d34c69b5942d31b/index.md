@@ -1,6 +1,16 @@
 # Hungary First
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1259 |
+| ELO Competitive | 1267 |
+| Total Matches | 22 |
+| Wins | 13 |
+| Losses | 8 |
+| Draws | 1 |
+| Streak | 4 |
+| Streak Record | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

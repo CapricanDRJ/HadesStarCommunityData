@@ -1,6 +1,14 @@
 # 地球星际集团
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 977 |
+| ELO Competitive | 1075 |
+| Total Matches | 35 |
+| Wins | 0 |
+| Losses | 26 |
+| Draws | 9 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

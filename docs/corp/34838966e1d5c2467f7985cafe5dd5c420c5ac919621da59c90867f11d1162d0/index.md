@@ -1,6 +1,15 @@
 # NERF TOY'S
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1210 |
+| ELO Competitive | 1305 |
+| Total Matches | 48 |
+| Wins | 18 |
+| Losses | 28 |
+| Draws | 2 |
+| Streak Record | 3 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

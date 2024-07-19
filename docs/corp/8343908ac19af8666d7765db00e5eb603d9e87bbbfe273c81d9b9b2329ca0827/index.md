@@ -1,6 +1,15 @@
 # Inexorable
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1229 |
+| ELO Competitive | 1286 |
+| Total Matches | 29 |
+| Wins | 18 |
+| Losses | 11 |
+| Draws | 0 |
+| Streak Record | 10 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

@@ -1,6 +1,15 @@
 # Prometheus ESP
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1212 |
+| ELO Competitive | 1276 |
+| Total Matches | 20 |
+| Wins | 11 |
+| Losses | 9 |
+| Draws | 0 |
+| Streak Record | 7 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

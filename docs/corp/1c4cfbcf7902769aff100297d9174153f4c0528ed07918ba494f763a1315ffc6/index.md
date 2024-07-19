@@ -1,6 +1,16 @@
 # The Allegiant
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1274 |
+| ELO Competitive | 1293 |
+| Total Matches | 24 |
+| Wins | 16 |
+| Losses | 8 |
+| Draws | 0 |
+| Streak | 3 |
+| Streak Record | 7 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

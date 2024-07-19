@@ -1,6 +1,15 @@
 # OPA
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1350 |
+| ELO Competitive | 1375 |
+| Total Matches | 35 |
+| Wins | 26 |
+| Losses | 9 |
+| Draws | 0 |
+| Streak Record | 9 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

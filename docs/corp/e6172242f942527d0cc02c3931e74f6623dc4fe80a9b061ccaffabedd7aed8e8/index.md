@@ -1,6 +1,14 @@
 # F.E.I.
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1182 |
+| ELO Competitive | 1183 |
+| Total Matches | 3 |
+| Wins | 0 |
+| Losses | 1 |
+| Draws | 2 |
+
 
 ### Match History
 

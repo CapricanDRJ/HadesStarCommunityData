@@ -1,6 +1,15 @@
 # Polaris Corpo
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1239 |
+| ELO Competitive | 1254 |
+| Total Matches | 10 |
+| Wins | 7 |
+| Losses | 3 |
+| Draws | 0 |
+| Streak Record | 5 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

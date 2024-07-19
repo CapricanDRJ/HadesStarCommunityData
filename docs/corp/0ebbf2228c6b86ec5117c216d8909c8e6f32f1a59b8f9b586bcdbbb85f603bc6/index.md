@@ -1,6 +1,15 @@
 # Greek Warriors
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1147 |
+| ELO Competitive | 1175 |
+| Total Matches | 27 |
+| Wins | 7 |
+| Losses | 20 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

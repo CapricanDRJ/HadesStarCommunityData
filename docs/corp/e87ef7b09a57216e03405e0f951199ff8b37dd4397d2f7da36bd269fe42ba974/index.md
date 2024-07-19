@@ -1,6 +1,16 @@
 # Quadra FR
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1244 |
+| ELO Competitive | 1253 |
+| Total Matches | 9 |
+| Wins | 6 |
+| Losses | 3 |
+| Draws | 0 |
+| Streak | 2 |
+| Streak Record | 3 |
+
 
 ### Match History
 

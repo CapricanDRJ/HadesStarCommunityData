@@ -1,6 +1,14 @@
 # wyvern
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1195 |
+| ELO Competitive | 1198 |
+| Total Matches | 5 |
+| Wins | 2 |
+| Losses | 3 |
+| Draws | 0 |
+
 
 ### Match History
 

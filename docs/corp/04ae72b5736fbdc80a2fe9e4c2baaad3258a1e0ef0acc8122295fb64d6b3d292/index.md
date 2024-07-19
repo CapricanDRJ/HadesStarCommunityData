@@ -1,6 +1,16 @@
 # three kitties
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1415 |
+| ELO Competitive | 1457 |
+| Total Matches | 40 |
+| Wins | 31 |
+| Losses | 8 |
+| Draws | 1 |
+| Streak | 7 |
+| Streak Record | 15 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

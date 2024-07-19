@@ -1,6 +1,14 @@
 # Death Starz
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1183 |
+| ELO Competitive | 1183 |
+| Total Matches | 1 |
+| Wins | 0 |
+| Losses | 1 |
+| Draws | 0 |
+
 
 ### Match History
 

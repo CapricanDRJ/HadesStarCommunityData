@@ -1,6 +1,15 @@
 # 联合宇宙
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1084 |
+| ELO Competitive | 1129 |
+| Total Matches | 18 |
+| Wins | 4 |
+| Losses | 14 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

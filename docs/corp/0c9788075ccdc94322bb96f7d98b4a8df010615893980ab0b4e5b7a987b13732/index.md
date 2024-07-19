@@ -1,6 +1,14 @@
 # Aegis Shield
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1126 |
+| ELO Competitive | 1138 |
+| Total Matches | 9 |
+| Wins | 2 |
+| Losses | 7 |
+| Draws | 0 |
+
 
 ### Match History
 

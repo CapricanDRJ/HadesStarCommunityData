@@ -1,6 +1,15 @@
 # Utd. Human Fed.
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1181 |
+| ELO Competitive | 1318 |
+| Total Matches | 43 |
+| Wins | 22 |
+| Losses | 20 |
+| Draws | 1 |
+| Streak Record | 5 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

@@ -1,6 +1,16 @@
 # AFronteiraFinal
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1378 |
+| ELO Competitive | 1394 |
+| Total Matches | 26 |
+| Wins | 19 |
+| Losses | 6 |
+| Draws | 1 |
+| Streak | 2 |
+| Streak Record | 7 |
+
 
 ### Match History
 

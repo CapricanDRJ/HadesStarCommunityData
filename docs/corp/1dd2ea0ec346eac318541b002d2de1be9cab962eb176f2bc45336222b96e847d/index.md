@@ -1,6 +1,14 @@
 # Ten Forward
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1115 |
+| ELO Competitive | 1118 |
+| Total Matches | 8 |
+| Wins | 1 |
+| Losses | 7 |
+| Draws | 0 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

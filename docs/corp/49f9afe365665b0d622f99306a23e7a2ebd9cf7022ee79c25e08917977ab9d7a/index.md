@@ -1,6 +1,15 @@
 # TECH CO
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1123 |
+| ELO Competitive | 1187 |
+| Total Matches | 26 |
+| Wins | 9 |
+| Losses | 17 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

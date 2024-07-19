@@ -1,6 +1,14 @@
 # 第六星际
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1219 |
+| ELO Competitive | 1219 |
+| Total Matches | 1 |
+| Wins | 1 |
+| Losses | 0 |
+| Draws | 0 |
+
 
 ### Match History
 

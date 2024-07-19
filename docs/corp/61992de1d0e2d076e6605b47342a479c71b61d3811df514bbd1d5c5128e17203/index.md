@@ -1,6 +1,14 @@
 # 小宇宙研究会
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1180 |
+| ELO Competitive | 1183 |
+| Total Matches | 3 |
+| Wins | 1 |
+| Losses | 2 |
+| Draws | 0 |
+
 
 ### Match History
 

@@ -1,6 +1,16 @@
 # RGW
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1275 |
+| ELO Competitive | 1289 |
+| Total Matches | 16 |
+| Wins | 10 |
+| Losses | 6 |
+| Draws | 0 |
+| Streak | 6 |
+| Streak Record | 6 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

@@ -1,6 +1,15 @@
 # Гарри Поттер
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1257 |
+| ELO Competitive | 1278 |
+| Total Matches | 10 |
+| Wins | 7 |
+| Losses | 2 |
+| Draws | 1 |
+| Streak Record | 4 |
+
 
 ### Match History
 

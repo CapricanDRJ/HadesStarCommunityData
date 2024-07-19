@@ -1,6 +1,15 @@
 # 六大天神.轻歌之影
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1165 |
+| ELO Competitive | 1242 |
+| Total Matches | 48 |
+| Wins | 22 |
+| Losses | 26 |
+| Draws | 0 |
+| Streak Record | 6 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

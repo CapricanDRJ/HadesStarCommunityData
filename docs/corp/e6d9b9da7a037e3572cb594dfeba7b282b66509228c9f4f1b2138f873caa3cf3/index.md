@@ -1,6 +1,16 @@
 # 萌新港(大佬港)
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1185 |
+| ELO Competitive | 1250 |
+| Total Matches | 42 |
+| Wins | 18 |
+| Losses | 24 |
+| Draws | 0 |
+| Streak | 3 |
+| Streak Record | 3 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

@@ -1,6 +1,16 @@
 # Majapahit
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1268 |
+| ELO Competitive | 1276 |
+| Total Matches | 7 |
+| Wins | 6 |
+| Losses | 1 |
+| Draws | 0 |
+| Streak | 4 |
+| Streak Record | 4 |
+
 
 ### Match History
 

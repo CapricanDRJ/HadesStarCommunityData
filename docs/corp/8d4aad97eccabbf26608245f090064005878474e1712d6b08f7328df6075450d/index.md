@@ -1,6 +1,15 @@
 # Серебряная орда
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1254 |
+| ELO Competitive | 1462 |
+| Total Matches | 70 |
+| Wins | 41 |
+| Losses | 27 |
+| Draws | 2 |
+| Streak Record | 6 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

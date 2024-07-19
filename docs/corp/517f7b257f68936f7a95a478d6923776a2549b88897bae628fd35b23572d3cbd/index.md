@@ -1,6 +1,15 @@
 # Spacefleet
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1299 |
+| ELO Competitive | 1425 |
+| Total Matches | 50 |
+| Wins | 32 |
+| Losses | 18 |
+| Draws | 0 |
+| Streak Record | 8 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

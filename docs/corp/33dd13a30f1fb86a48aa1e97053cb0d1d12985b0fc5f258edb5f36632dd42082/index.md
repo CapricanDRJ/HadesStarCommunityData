@@ -1,6 +1,14 @@
 # E.T.A
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1063 |
+| ELO Competitive | 1182 |
+| Total Matches | 28 |
+| Wins | 7 |
+| Losses | 21 |
+| Draws | 0 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

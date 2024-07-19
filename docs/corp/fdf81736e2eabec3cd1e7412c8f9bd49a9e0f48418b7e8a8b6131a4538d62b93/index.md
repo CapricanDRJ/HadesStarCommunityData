@@ -1,6 +1,14 @@
 # The Visionaries
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1196 |
+| ELO Competitive | 1196 |
+| Total Matches | 1 |
+| Wins | 0 |
+| Losses | 1 |
+| Draws | 0 |
+
 
 ### Match History
 

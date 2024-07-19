@@ -1,6 +1,15 @@
 # Star Fleet
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1167 |
+| ELO Competitive | 1218 |
+| Total Matches | 22 |
+| Wins | 7 |
+| Losses | 15 |
+| Draws | 0 |
+| Streak Record | 6 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

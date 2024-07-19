@@ -1,6 +1,16 @@
 # ДИВЕРСАНТЫ
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1538 |
+| ELO Competitive | 1604 |
+| Total Matches | 51 |
+| Wins | 44 |
+| Losses | 6 |
+| Draws | 1 |
+| Streak | 19 |
+| Streak Record | 19 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

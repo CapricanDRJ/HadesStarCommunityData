@@ -1,6 +1,15 @@
 # Frontier X
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1262 |
+| ELO Competitive | 1263 |
+| Total Matches | 13 |
+| Wins | 9 |
+| Losses | 4 |
+| Draws | 0 |
+| Streak Record | 5 |
+
 
 ### Match History
 

@@ -1,6 +1,15 @@
 # Blood Hounds
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1498 |
+| ELO Competitive | 1532 |
+| Total Matches | 59 |
+| Wins | 50 |
+| Losses | 8 |
+| Draws | 1 |
+| Streak Record | 15 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

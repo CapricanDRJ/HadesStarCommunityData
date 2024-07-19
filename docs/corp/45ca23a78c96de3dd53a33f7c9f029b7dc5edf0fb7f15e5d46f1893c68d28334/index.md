@@ -1,6 +1,14 @@
 # mijael siuuuuuu
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1066 |
+| ELO Competitive | 1069 |
+| Total Matches | 13 |
+| Wins | 0 |
+| Losses | 12 |
+| Draws | 1 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

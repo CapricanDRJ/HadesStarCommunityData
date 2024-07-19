@@ -1,6 +1,15 @@
 # Space Pirates
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 977 |
+| ELO Competitive | 1004 |
+| Total Matches | 34 |
+| Wins | 5 |
+| Losses | 29 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

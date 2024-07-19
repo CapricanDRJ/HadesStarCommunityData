@@ -1,6 +1,15 @@
 # CIS
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1419 |
+| ELO Competitive | 1471 |
+| Total Matches | 33 |
+| Wins | 29 |
+| Losses | 4 |
+| Draws | 0 |
+| Streak Record | 9 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

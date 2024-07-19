@@ -1,6 +1,16 @@
 # Star Field
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1306 |
+| ELO Competitive | 1329 |
+| Total Matches | 8 |
+| Wins | 7 |
+| Losses | 1 |
+| Draws | 0 |
+| Streak | 2 |
+| Streak Record | 5 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

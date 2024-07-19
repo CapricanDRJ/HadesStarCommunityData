@@ -1,6 +1,14 @@
 # l'empire sylli
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1116 |
+| ELO Competitive | 1118 |
+| Total Matches | 6 |
+| Wins | 0 |
+| Losses | 6 |
+| Draws | 0 |
+
 
 ### Match History
 

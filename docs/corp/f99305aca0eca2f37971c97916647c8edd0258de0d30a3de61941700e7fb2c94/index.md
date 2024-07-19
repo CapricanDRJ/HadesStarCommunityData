@@ -1,6 +1,16 @@
 # Corvus Ind.
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1358 |
+| ELO Competitive | 1404 |
+| Total Matches | 32 |
+| Wins | 23 |
+| Losses | 9 |
+| Draws | 0 |
+| Streak | 4 |
+| Streak Record | 5 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

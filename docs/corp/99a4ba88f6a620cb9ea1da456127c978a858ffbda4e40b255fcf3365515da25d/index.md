@@ -1,6 +1,15 @@
 # Industrial W.O
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1212 |
+| ELO Competitive | 1254 |
+| Total Matches | 42 |
+| Wins | 19 |
+| Losses | 22 |
+| Draws | 1 |
+| Streak Record | 3 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

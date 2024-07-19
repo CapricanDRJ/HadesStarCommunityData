@@ -1,6 +1,14 @@
 # STAR EMPIRE 16
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1153 |
+| ELO Competitive | 1153 |
+| Total Matches | 3 |
+| Wins | 0 |
+| Losses | 3 |
+| Draws | 0 |
+
 
 ### Match History
 

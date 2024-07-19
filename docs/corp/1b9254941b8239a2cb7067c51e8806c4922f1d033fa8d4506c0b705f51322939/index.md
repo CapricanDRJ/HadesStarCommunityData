@@ -1,6 +1,14 @@
 # Slovensko-Activ
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1065 |
+| ELO Competitive | 1085 |
+| Total Matches | 13 |
+| Wins | 0 |
+| Losses | 13 |
+| Draws | 0 |
+
 
 ### Match History
 

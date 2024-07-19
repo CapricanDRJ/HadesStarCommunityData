@@ -1,6 +1,14 @@
 # Liasteria
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1187 |
+| ELO Competitive | 1190 |
+| Total Matches | 1 |
+| Wins | 0 |
+| Losses | 1 |
+| Draws | 0 |
+
 
 ### Match History
 

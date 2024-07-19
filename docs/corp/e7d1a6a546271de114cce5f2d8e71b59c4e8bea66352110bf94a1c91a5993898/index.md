@@ -1,6 +1,14 @@
 # SALTARDIS
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1154 |
+| ELO Competitive | 1169 |
+| Total Matches | 8 |
+| Wins | 2 |
+| Losses | 6 |
+| Draws | 0 |
+
 
 ### Match History
 

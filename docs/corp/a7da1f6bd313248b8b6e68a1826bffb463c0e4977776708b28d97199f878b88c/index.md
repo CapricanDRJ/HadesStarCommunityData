@@ -1,6 +1,16 @@
 # The Syndicate 
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1341 |
+| ELO Competitive | 1350 |
+| Total Matches | 14 |
+| Wins | 13 |
+| Losses | 1 |
+| Draws | 0 |
+| Streak | 13 |
+| Streak Record | 13 |
+
 
 ### Match History
 

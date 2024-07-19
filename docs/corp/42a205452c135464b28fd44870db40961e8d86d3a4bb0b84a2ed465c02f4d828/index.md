@@ -1,6 +1,14 @@
 # X-wing
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1177 |
+| ELO Competitive | 1177 |
+| Total Matches | 1 |
+| Wins | 0 |
+| Losses | 1 |
+| Draws | 0 |
+
 
 ### Match History
 

@@ -1,6 +1,14 @@
 # L’Amalgame
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1184 |
+| ELO Competitive | 1189 |
+| Total Matches | 2 |
+| Wins | 0 |
+| Losses | 1 |
+| Draws | 1 |
+
 
 ### Match History
 

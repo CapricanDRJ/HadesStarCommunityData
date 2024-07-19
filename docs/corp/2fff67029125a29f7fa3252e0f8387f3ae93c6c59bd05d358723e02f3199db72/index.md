@@ -1,6 +1,15 @@
 # Oficina Tuga
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1070 |
+| ELO Competitive | 1114 |
+| Total Matches | 34 |
+| Wins | 9 |
+| Losses | 25 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

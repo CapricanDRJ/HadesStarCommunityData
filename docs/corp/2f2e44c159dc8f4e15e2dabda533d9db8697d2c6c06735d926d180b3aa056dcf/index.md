@@ -1,6 +1,15 @@
 # Angel Dragon
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1264 |
+| ELO Competitive | 1300 |
+| Total Matches | 21 |
+| Wins | 12 |
+| Losses | 8 |
+| Draws | 1 |
+| Streak Record | 6 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

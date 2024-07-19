@@ -1,6 +1,16 @@
 # 元素联邦
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1365 |
+| ELO Competitive | 1396 |
+| Total Matches | 36 |
+| Wins | 23 |
+| Losses | 13 |
+| Draws | 0 |
+| Streak | 14 |
+| Streak Record | 14 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

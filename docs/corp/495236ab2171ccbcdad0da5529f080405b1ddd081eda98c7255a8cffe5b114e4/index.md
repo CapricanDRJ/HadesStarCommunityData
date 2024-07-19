@@ -1,6 +1,15 @@
 # Jalisco México
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1089 |
+| ELO Competitive | 1140 |
+| Total Matches | 40 |
+| Wins | 11 |
+| Losses | 25 |
+| Draws | 4 |
+| Streak Record | 3 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

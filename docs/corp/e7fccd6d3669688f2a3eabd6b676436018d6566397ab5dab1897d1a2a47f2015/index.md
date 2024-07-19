@@ -1,6 +1,15 @@
 # UKR Spase
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1317 |
+| ELO Competitive | 1340 |
+| Total Matches | 21 |
+| Wins | 15 |
+| Losses | 6 |
+| Draws | 0 |
+| Streak Record | 7 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

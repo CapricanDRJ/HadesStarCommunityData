@@ -1,6 +1,15 @@
 # CommCody & LPA
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1230 |
+| ELO Competitive | 1256 |
+| Total Matches | 22 |
+| Wins | 13 |
+| Losses | 9 |
+| Draws | 0 |
+| Streak Record | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

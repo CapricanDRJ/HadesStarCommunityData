@@ -1,6 +1,15 @@
 # 云浪山庄↕
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 946 |
+| ELO Competitive | 1177 |
+| Total Matches | 76 |
+| Wins | 18 |
+| Losses | 57 |
+| Draws | 1 |
+| Streak Record | 5 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

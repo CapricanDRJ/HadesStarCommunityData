@@ -1,6 +1,16 @@
 # 星光舰队
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1224 |
+| ELO Competitive | 1228 |
+| Total Matches | 4 |
+| Wins | 3 |
+| Losses | 1 |
+| Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
+
 
 ### Match History
 

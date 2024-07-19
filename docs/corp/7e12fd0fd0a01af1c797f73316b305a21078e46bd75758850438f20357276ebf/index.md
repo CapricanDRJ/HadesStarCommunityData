@@ -1,6 +1,16 @@
 # 碧霄殿
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1236 |
+| ELO Competitive | 1245 |
+| Total Matches | 4 |
+| Wins | 3 |
+| Losses | 1 |
+| Draws | 0 |
+| Streak | 3 |
+| Streak Record | 3 |
+
 
 ### Match History
 

@@ -1,6 +1,15 @@
 # Hand Of NOD! 
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1455 |
+| ELO Competitive | 1492 |
+| Total Matches | 34 |
+| Wins | 30 |
+| Losses | 4 |
+| Draws | 0 |
+| Streak Record | 15 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

@@ -1,6 +1,16 @@
 # Brodudes Inc.
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1493 |
+| ELO Competitive | 1566 |
+| Total Matches | 71 |
+| Wins | 57 |
+| Losses | 13 |
+| Draws | 1 |
+| Streak | 5 |
+| Streak Record | 9 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

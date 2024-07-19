@@ -1,6 +1,15 @@
 # Cerulean Star
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1225 |
+| ELO Competitive | 1294 |
+| Total Matches | 37 |
+| Wins | 20 |
+| Losses | 17 |
+| Draws | 0 |
+| Streak Record | 3 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

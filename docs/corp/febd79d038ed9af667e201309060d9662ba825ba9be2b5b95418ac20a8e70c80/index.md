@@ -1,6 +1,15 @@
 # Ark
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1439 |
+| ELO Competitive | 1478 |
+| Total Matches | 44 |
+| Wins | 37 |
+| Losses | 6 |
+| Draws | 1 |
+| Streak Record | 24 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

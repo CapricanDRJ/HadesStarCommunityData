@@ -1,6 +1,15 @@
 # ITA
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1163 |
+| ELO Competitive | 1283 |
+| Total Matches | 32 |
+| Wins | 14 |
+| Losses | 18 |
+| Draws | 0 |
+| Streak Record | 6 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

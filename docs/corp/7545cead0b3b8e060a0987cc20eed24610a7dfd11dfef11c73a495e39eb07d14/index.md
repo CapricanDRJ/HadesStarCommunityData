@@ -1,6 +1,15 @@
 # Hand of Legion 
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1244 |
+| ELO Competitive | 1247 |
+| Total Matches | 5 |
+| Wins | 4 |
+| Losses | 1 |
+| Draws | 0 |
+| Streak Record | 4 |
+
 
 ### Match History
 

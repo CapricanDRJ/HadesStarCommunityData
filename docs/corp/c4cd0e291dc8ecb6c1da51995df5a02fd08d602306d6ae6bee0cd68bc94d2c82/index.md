@@ -1,6 +1,15 @@
 # USA Corp
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1148 |
+| ELO Competitive | 1147 |
+| Total Matches | 8 |
+| Wins | 2 |
+| Losses | 6 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 
 ### Match History
 

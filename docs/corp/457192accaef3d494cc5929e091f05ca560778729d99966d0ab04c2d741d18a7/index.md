@@ -1,6 +1,14 @@
 # Эдельвейс
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1156 |
+| ELO Competitive | 1185 |
+| Total Matches | 4 |
+| Wins | 0 |
+| Losses | 3 |
+| Draws | 1 |
+
 
 ### Match History
 

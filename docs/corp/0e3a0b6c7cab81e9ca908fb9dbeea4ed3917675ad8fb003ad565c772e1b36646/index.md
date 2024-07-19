@@ -1,6 +1,14 @@
 # 銀河戰狼
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1193 |
+| ELO Competitive | 1193 |
+| Total Matches | 1 |
+| Wins | 0 |
+| Losses | 1 |
+| Draws | 0 |
+
 
 ### Match History
 

@@ -1,6 +1,14 @@
 # Spectre
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1156 |
+| ELO Competitive | 1157 |
+| Total Matches | 3 |
+| Wins | 0 |
+| Losses | 3 |
+| Draws | 0 |
+
 
 ### Match History
 

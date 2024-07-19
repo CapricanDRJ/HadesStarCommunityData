@@ -1,6 +1,15 @@
 # Свободный флот
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1135 |
+| ELO Competitive | 1353 |
+| Total Matches | 58 |
+| Wins | 27 |
+| Losses | 30 |
+| Draws | 1 |
+| Streak Record | 10 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

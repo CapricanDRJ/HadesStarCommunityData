@@ -1,6 +1,16 @@
 # Thurn and Taxis
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1230 |
+| ELO Competitive | 1230 |
+| Total Matches | 2 |
+| Wins | 2 |
+| Losses | 0 |
+| Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
+
 
 ### Match History
 

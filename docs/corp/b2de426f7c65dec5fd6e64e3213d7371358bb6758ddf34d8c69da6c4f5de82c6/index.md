@@ -1,6 +1,15 @@
 # Hun Generals
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1000 |
+| ELO Competitive | 1111 |
+| Total Matches | 36 |
+| Wins | 7 |
+| Losses | 29 |
+| Draws | 0 |
+| Streak Record | 3 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

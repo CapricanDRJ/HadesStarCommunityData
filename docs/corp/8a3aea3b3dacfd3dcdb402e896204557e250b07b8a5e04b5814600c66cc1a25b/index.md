@@ -1,6 +1,16 @@
 # Famous Assasins
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1492 |
+| ELO Competitive | 1523 |
+| Total Matches | 50 |
+| Wins | 44 |
+| Losses | 6 |
+| Draws | 0 |
+| Streak | 11 |
+| Streak Record | 12 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

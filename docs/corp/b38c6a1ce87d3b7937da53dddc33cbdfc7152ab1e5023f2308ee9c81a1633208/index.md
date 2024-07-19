@@ -1,6 +1,16 @@
 # Dacia Chill
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1364 |
+| ELO Competitive | 1384 |
+| Total Matches | 20 |
+| Wins | 17 |
+| Losses | 3 |
+| Draws | 0 |
+| Streak | 2 |
+| Streak Record | 7 |
+
 
 ### Match History
 

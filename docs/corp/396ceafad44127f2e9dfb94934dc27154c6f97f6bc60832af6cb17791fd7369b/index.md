@@ -1,6 +1,15 @@
 # Vega Conflict
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1246 |
+| ELO Competitive | 1262 |
+| Total Matches | 12 |
+| Wins | 7 |
+| Losses | 5 |
+| Draws | 0 |
+| Streak Record | 3 |
+
 
 ### Match History
 

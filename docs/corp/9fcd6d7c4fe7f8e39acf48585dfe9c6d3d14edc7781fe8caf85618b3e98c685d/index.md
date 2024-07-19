@@ -1,6 +1,15 @@
 # Sich.ua
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1242 |
+| ELO Competitive | 1374 |
+| Total Matches | 32 |
+| Wins | 18 |
+| Losses | 13 |
+| Draws | 1 |
+| Streak Record | 5 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

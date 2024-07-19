@@ -1,6 +1,14 @@
 # 公共星际集团
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1052 |
+| ELO Competitive | 1153 |
+| Total Matches | 25 |
+| Wins | 5 |
+| Losses | 18 |
+| Draws | 2 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

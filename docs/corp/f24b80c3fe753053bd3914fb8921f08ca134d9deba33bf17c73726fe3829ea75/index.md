@@ -1,6 +1,15 @@
 # Nueva Hyperion
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1214 |
+| ELO Competitive | 1219 |
+| Total Matches | 5 |
+| Wins | 3 |
+| Losses | 1 |
+| Draws | 1 |
+| Streak Record | 3 |
+
 
 ### Match History
 

@@ -1,6 +1,15 @@
 # lost souls
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1239 |
+| ELO Competitive | 1361 |
+| Total Matches | 47 |
+| Wins | 24 |
+| Losses | 22 |
+| Draws | 1 |
+| Streak Record | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

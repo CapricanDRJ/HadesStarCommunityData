@@ -1,6 +1,16 @@
 # 万星联盟
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1324 |
+| ELO Competitive | 1321 |
+| Total Matches | 10 |
+| Wins | 10 |
+| Losses | 0 |
+| Draws | 0 |
+| Streak | 10 |
+| Streak Record | 10 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

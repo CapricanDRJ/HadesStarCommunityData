@@ -1,6 +1,14 @@
 # 星光禁卫
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1119 |
+| ELO Competitive | 1124 |
+| Total Matches | 10 |
+| Wins | 1 |
+| Losses | 8 |
+| Draws | 1 |
+
 
 ### Match History
 

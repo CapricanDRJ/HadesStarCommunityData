@@ -1,6 +1,15 @@
 # Warriors
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1228 |
+| ELO Competitive | 1228 |
+| Total Matches | 4 |
+| Wins | 3 |
+| Losses | 1 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 
 ### Match History
 

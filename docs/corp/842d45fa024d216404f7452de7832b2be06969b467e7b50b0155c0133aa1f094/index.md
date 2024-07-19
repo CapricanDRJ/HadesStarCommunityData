@@ -1,6 +1,16 @@
 # HighSociety
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1214 |
+| ELO Competitive | 1214 |
+| Total Matches | 3 |
+| Wins | 2 |
+| Losses | 1 |
+| Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
+
 
 ### Match History
 

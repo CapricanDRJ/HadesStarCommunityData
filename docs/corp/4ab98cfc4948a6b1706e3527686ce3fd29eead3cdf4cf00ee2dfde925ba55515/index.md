@@ -1,6 +1,14 @@
 # Gallaecia
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1035 |
+| ELO Competitive | 1038 |
+| Total Matches | 16 |
+| Wins | 0 |
+| Losses | 16 |
+| Draws | 0 |
+
 
 ### Match History
 

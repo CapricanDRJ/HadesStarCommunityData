@@ -1,6 +1,15 @@
 # империя тьмы
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1120 |
+| ELO Competitive | 1222 |
+| Total Matches | 33 |
+| Wins | 12 |
+| Losses | 19 |
+| Draws | 2 |
+| Streak Record | 2 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

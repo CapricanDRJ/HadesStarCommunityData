@@ -1,6 +1,16 @@
 # OntarioDawn
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1491 |
+| ELO Competitive | 1498 |
+| Total Matches | 37 |
+| Wins | 35 |
+| Losses | 2 |
+| Draws | 0 |
+| Streak | 11 |
+| Streak Record | 23 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

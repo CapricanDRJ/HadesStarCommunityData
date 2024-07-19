@@ -1,6 +1,15 @@
 # Dauntless
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1082 |
+| ELO Competitive | 1101 |
+| Total Matches | 23 |
+| Wins | 6 |
+| Losses | 17 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

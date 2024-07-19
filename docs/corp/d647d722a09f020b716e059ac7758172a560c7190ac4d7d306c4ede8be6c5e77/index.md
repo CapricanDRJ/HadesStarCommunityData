@@ -1,6 +1,14 @@
 # Void
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1180 |
+| ELO Competitive | 1200 |
+| Total Matches | 12 |
+| Wins | 5 |
+| Losses | 7 |
+| Draws | 0 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

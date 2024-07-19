@@ -1,6 +1,15 @@
 # Germania
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1121 |
+| ELO Competitive | 1157 |
+| Total Matches | 37 |
+| Wins | 15 |
+| Losses | 20 |
+| Draws | 2 |
+| Streak Record | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

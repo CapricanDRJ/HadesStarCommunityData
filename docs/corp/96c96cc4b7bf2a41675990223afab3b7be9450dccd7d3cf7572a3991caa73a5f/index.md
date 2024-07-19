@@ -1,6 +1,15 @@
 # Austria 
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1201 |
+| ELO Competitive | 1201 |
+| Total Matches | 4 |
+| Wins | 2 |
+| Losses | 2 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 
 ### Match History
 

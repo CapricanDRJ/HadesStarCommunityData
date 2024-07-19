@@ -1,6 +1,16 @@
 # ГОРИЗОНТ
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 985 |
+| ELO Competitive | 1140 |
+| Total Matches | 53 |
+| Wins | 8 |
+| Losses | 45 |
+| Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

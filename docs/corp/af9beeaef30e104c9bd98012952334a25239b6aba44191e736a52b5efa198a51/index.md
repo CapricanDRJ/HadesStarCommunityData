@@ -1,6 +1,14 @@
 # The Fracture
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1148 |
+| ELO Competitive | 1152 |
+| Total Matches | 4 |
+| Wins | 0 |
+| Losses | 4 |
+| Draws | 0 |
+
 
 ### Match History
 

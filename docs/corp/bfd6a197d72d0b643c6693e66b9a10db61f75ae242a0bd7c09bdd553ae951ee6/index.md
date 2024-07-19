@@ -1,6 +1,15 @@
 # the Rubber Duck
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1129 |
+| ELO Competitive | 1144 |
+| Total Matches | 15 |
+| Wins | 5 |
+| Losses | 10 |
+| Draws | 0 |
+| Streak Record | 3 |
+
 
 ### Match History
 

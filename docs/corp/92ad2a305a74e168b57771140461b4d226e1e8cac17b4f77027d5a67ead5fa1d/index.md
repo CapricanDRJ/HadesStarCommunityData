@@ -1,6 +1,16 @@
 # 星光万丈
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1145 |
+| ELO Competitive | 1178 |
+| Total Matches | 23 |
+| Wins | 7 |
+| Losses | 15 |
+| Draws | 1 |
+| Streak | 2 |
+| Streak Record | 2 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

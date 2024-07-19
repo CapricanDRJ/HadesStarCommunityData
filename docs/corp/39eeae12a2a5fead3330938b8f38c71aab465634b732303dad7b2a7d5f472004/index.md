@@ -1,6 +1,16 @@
 # Север РусКорп
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1278 |
+| ELO Competitive | 1308 |
+| Total Matches | 20 |
+| Wins | 13 |
+| Losses | 7 |
+| Draws | 0 |
+| Streak | 2 |
+| Streak Record | 5 |
+
 
 ### Match History
 

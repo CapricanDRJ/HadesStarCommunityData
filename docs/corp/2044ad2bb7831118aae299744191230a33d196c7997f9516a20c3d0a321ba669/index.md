@@ -1,6 +1,15 @@
 # Grater T
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1234 |
+| ELO Competitive | 1253 |
+| Total Matches | 14 |
+| Wins | 7 |
+| Losses | 7 |
+| Draws | 0 |
+| Streak Record | 4 |
+
 
 ### Match History
 

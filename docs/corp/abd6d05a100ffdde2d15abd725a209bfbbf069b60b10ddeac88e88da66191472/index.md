@@ -1,6 +1,15 @@
 # 华夏舰队
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1138 |
+| ELO Competitive | 1219 |
+| Total Matches | 45 |
+| Wins | 20 |
+| Losses | 25 |
+| Draws | 0 |
+| Streak Record | 6 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

@@ -1,6 +1,16 @@
 # Stone Legion
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1347 |
+| ELO Competitive | 1371 |
+| Total Matches | 24 |
+| Wins | 19 |
+| Losses | 5 |
+| Draws | 0 |
+| Streak | 6 |
+| Streak Record | 8 |
+
 
 ### Match History
 

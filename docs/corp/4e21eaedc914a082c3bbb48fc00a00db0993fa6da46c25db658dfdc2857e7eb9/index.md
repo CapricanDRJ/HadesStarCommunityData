@@ -1,6 +1,14 @@
 # 边际的文明
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1143 |
+| ELO Competitive | 1145 |
+| Total Matches | 4 |
+| Wins | 0 |
+| Losses | 4 |
+| Draws | 0 |
+
 
 ### Match History
 

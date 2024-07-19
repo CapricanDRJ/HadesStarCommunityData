@@ -1,6 +1,15 @@
 # 佛矿寺
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 997 |
+| ELO Competitive | 1027 |
+| Total Matches | 43 |
+| Wins | 8 |
+| Losses | 35 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

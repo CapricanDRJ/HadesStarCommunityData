@@ -1,6 +1,16 @@
 # Embers Rising
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1373 |
+| ELO Competitive | 1411 |
+| Total Matches | 25 |
+| Wins | 21 |
+| Losses | 4 |
+| Draws | 0 |
+| Streak | 2 |
+| Streak Record | 13 |
+
 
 ### Match History
 

@@ -1,6 +1,15 @@
 # Death Flight
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1031 |
+| ELO Competitive | 1090 |
+| Total Matches | 53 |
+| Wins | 13 |
+| Losses | 39 |
+| Draws | 1 |
+| Streak Record | 3 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

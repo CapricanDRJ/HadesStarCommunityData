@@ -1,6 +1,16 @@
 # phoenix clan
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1238 |
+| ELO Competitive | 1239 |
+| Total Matches | 5 |
+| Wins | 4 |
+| Losses | 1 |
+| Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
+
 
 ### Match History
 

@@ -1,6 +1,15 @@
 # Unión latina
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1254 |
+| ELO Competitive | 1321 |
+| Total Matches | 44 |
+| Wins | 25 |
+| Losses | 19 |
+| Draws | 0 |
+| Streak Record | 6 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

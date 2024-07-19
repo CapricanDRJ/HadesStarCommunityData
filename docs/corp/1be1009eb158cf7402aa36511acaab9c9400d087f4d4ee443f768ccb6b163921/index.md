@@ -1,6 +1,16 @@
 # 红日初升，其道大光
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1256 |
+| ELO Competitive | 1247 |
+| Total Matches | 4 |
+| Wins | 4 |
+| Losses | 0 |
+| Draws | 0 |
+| Streak | 4 |
+| Streak Record | 4 |
+
 
 ### Match History
 

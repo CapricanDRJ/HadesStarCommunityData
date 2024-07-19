@@ -1,6 +1,15 @@
 # СлАвЯнСкИй СоЮз
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1228 |
+| ELO Competitive | 1231 |
+| Total Matches | 11 |
+| Wins | 7 |
+| Losses | 4 |
+| Draws | 0 |
+| Streak Record | 5 |
+
 
 ### Match History
 

@@ -1,6 +1,15 @@
 #  墨痕 
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1149 |
+| ELO Competitive | 1207 |
+| Total Matches | 18 |
+| Wins | 7 |
+| Losses | 11 |
+| Draws | 0 |
+| Streak Record | 3 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

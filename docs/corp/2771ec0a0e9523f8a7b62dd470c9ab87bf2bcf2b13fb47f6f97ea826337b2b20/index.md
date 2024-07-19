@@ -1,6 +1,16 @@
 # Mercury Sunset
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1423 |
+| ELO Competitive | 1459 |
+| Total Matches | 20 |
+| Wins | 20 |
+| Losses | 0 |
+| Draws | 0 |
+| Streak | 20 |
+| Streak Record | 20 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

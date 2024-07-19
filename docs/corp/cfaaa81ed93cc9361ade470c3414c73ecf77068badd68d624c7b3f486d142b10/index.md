@@ -1,6 +1,16 @@
 # StellaMysterium
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1171 |
+| ELO Competitive | 1221 |
+| Total Matches | 33 |
+| Wins | 14 |
+| Losses | 19 |
+| Draws | 0 |
+| Streak | 2 |
+| Streak Record | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

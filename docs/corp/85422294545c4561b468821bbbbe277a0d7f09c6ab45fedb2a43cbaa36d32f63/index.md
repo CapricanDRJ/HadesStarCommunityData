@@ -1,6 +1,15 @@
 # 星环建设集团
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1188 |
+| ELO Competitive | 1200 |
+| Total Matches | 14 |
+| Wins | 6 |
+| Losses | 6 |
+| Draws | 2 |
+| Streak Record | 2 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

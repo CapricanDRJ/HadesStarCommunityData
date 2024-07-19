@@ -1,6 +1,15 @@
 # ZION
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1242 |
+| ELO Competitive | 1318 |
+| Total Matches | 39 |
+| Wins | 23 |
+| Losses | 16 |
+| Draws | 0 |
+| Streak Record | 9 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

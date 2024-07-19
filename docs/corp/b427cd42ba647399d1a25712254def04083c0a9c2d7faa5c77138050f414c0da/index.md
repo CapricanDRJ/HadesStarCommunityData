@@ -1,6 +1,15 @@
 # 墨痕白星分部
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1213 |
+| ELO Competitive | 1281 |
+| Total Matches | 16 |
+| Wins | 9 |
+| Losses | 7 |
+| Draws | 0 |
+| Streak Record | 5 |
+
 
 ### Match History
 

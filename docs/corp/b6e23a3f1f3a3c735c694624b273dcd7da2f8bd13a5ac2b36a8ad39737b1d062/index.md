@@ -1,6 +1,16 @@
 # Omega Alpha
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1417 |
+| ELO Competitive | 1438 |
+| Total Matches | 27 |
+| Wins | 24 |
+| Losses | 3 |
+| Draws | 0 |
+| Streak | 3 |
+| Streak Record | 13 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

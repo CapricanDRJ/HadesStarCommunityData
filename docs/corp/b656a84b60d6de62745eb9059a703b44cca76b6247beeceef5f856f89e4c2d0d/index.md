@@ -1,6 +1,14 @@
 # Peak Extraction
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1073 |
+| ELO Competitive | 1078 |
+| Total Matches | 15 |
+| Wins | 1 |
+| Losses | 13 |
+| Draws | 1 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

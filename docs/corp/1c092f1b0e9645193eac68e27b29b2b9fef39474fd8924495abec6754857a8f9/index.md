@@ -1,6 +1,16 @@
 # alienigenas
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1227 |
+| ELO Competitive | 1237 |
+| Total Matches | 9 |
+| Wins | 5 |
+| Losses | 4 |
+| Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
+
 
 ### Match History
 

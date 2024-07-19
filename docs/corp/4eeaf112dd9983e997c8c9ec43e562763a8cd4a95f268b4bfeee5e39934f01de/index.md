@@ -1,6 +1,14 @@
 # Terranova
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1016 |
+| ELO Competitive | 1086 |
+| Total Matches | 30 |
+| Wins | 3 |
+| Losses | 27 |
+| Draws | 0 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

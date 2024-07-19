@@ -1,6 +1,15 @@
 # VoidRunners
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1335 |
+| ELO Competitive | 1503 |
+| Total Matches | 75 |
+| Wins | 49 |
+| Losses | 26 |
+| Draws | 0 |
+| Streak Record | 7 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

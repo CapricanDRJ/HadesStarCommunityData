@@ -1,6 +1,15 @@
 # КОРПОРАЦИЯ ЗЛА
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 959 |
+| ELO Competitive | 1107 |
+| Total Matches | 37 |
+| Wins | 7 |
+| Losses | 30 |
+| Draws | 0 |
+| Streak Record | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

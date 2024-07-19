@@ -1,6 +1,15 @@
 # 六大天神
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1240 |
+| ELO Competitive | 1482 |
+| Total Matches | 96 |
+| Wins | 53 |
+| Losses | 43 |
+| Draws | 0 |
+| Streak Record | 6 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

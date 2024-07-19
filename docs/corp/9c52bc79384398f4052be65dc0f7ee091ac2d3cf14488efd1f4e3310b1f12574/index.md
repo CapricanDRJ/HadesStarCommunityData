@@ -1,6 +1,14 @@
 # FURIA 2.0
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1129 |
+| ELO Competitive | 1139 |
+| Total Matches | 9 |
+| Wins | 1 |
+| Losses | 8 |
+| Draws | 0 |
+
 
 ### Match History
 

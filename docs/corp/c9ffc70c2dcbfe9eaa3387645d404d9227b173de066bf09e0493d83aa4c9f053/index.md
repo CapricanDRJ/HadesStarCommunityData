@@ -1,6 +1,15 @@
 # Лютые
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1233 |
+| ELO Competitive | 1301 |
+| Total Matches | 20 |
+| Wins | 10 |
+| Losses | 9 |
+| Draws | 1 |
+| Streak Record | 3 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

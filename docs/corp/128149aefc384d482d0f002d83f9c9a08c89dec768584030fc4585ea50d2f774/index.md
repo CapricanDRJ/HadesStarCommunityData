@@ -1,6 +1,16 @@
 # リリース
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1390 |
+| ELO Competitive | 1423 |
+| Total Matches | 41 |
+| Wins | 32 |
+| Losses | 9 |
+| Draws | 0 |
+| Streak | 7 |
+| Streak Record | 13 |
+
 
 ### Match History
 

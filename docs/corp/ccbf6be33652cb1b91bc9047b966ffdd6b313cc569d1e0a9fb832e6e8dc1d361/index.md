@@ -1,6 +1,15 @@
 # 数字星际集团
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1174 |
+| ELO Competitive | 1183 |
+| Total Matches | 14 |
+| Wins | 6 |
+| Losses | 7 |
+| Draws | 1 |
+| Streak Record | 3 |
+
 
 ### Match History
 

@@ -1,6 +1,15 @@
 # Dark Training
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1238 |
+| ELO Competitive | 1276 |
+| Total Matches | 24 |
+| Wins | 12 |
+| Losses | 11 |
+| Draws | 1 |
+| Streak Record | 3 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

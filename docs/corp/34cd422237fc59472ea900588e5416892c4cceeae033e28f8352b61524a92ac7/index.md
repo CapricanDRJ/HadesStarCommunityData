@@ -1,6 +1,14 @@
 # CCCP
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1132 |
+| ELO Competitive | 1136 |
+| Total Matches | 9 |
+| Wins | 1 |
+| Losses | 6 |
+| Draws | 2 |
+
 
 ### Match History
 

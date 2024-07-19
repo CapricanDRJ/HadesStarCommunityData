@@ -1,6 +1,15 @@
 # Lacuna Holdings
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1255 |
+| ELO Competitive | 1299 |
+| Total Matches | 33 |
+| Wins | 21 |
+| Losses | 12 |
+| Draws | 0 |
+| Streak Record | 8 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

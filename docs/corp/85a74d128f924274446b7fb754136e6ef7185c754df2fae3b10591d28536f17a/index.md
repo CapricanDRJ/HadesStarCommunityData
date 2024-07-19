@@ -1,6 +1,15 @@
 # ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1199 |
+| ELO Competitive | 1319 |
+| Total Matches | 47 |
+| Wins | 20 |
+| Losses | 27 |
+| Draws | 0 |
+| Streak Record | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

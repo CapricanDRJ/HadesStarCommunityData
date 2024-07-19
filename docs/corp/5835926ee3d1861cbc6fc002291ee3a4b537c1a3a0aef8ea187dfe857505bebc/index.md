@@ -1,6 +1,15 @@
 # 꿀벌왕국
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1154 |
+| ELO Competitive | 1163 |
+| Total Matches | 19 |
+| Wins | 7 |
+| Losses | 12 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

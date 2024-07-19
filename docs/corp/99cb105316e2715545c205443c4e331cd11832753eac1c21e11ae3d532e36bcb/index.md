@@ -1,6 +1,15 @@
 # 火洋之心
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1237 |
+| ELO Competitive | 1239 |
+| Total Matches | 7 |
+| Wins | 4 |
+| Losses | 1 |
+| Draws | 2 |
+| Streak Record | 2 |
+
 
 ### Match History
 

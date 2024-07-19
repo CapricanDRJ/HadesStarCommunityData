@@ -1,6 +1,16 @@
 # Спутник
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1396 |
+| ELO Competitive | 1426 |
+| Total Matches | 38 |
+| Wins | 31 |
+| Losses | 7 |
+| Draws | 0 |
+| Streak | 7 |
+| Streak Record | 17 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

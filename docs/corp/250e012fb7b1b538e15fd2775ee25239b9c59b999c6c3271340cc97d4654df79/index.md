@@ -1,6 +1,15 @@
 # italian warrior
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1214 |
+| ELO Competitive | 1274 |
+| Total Matches | 28 |
+| Wins | 12 |
+| Losses | 16 |
+| Draws | 0 |
+| Streak Record | 5 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

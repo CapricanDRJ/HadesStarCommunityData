@@ -1,6 +1,15 @@
 # Призрачный Путь
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1284 |
+| ELO Competitive | 1295 |
+| Total Matches | 18 |
+| Wins | 13 |
+| Losses | 5 |
+| Draws | 0 |
+| Streak Record | 10 |
+
 
 ### Match History
 

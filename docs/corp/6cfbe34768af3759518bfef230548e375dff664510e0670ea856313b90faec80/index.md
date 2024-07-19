@@ -1,6 +1,14 @@
 # Goa'uld
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1181 |
+| ELO Competitive | 1182 |
+| Total Matches | 3 |
+| Wins | 0 |
+| Losses | 1 |
+| Draws | 2 |
+
 
 ### Match History
 

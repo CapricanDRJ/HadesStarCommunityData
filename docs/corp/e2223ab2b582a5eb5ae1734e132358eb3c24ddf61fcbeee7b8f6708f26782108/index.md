@@ -1,6 +1,15 @@
 # Galactic Empire
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1294 |
+| ELO Competitive | 1353 |
+| Total Matches | 32 |
+| Wins | 20 |
+| Losses | 12 |
+| Draws | 0 |
+| Streak Record | 8 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

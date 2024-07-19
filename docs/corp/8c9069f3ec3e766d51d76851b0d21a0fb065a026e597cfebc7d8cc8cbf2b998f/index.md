@@ -1,6 +1,15 @@
 # TheBasics
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1130 |
+| ELO Competitive | 1338 |
+| Total Matches | 64 |
+| Wins | 29 |
+| Losses | 34 |
+| Draws | 1 |
+| Streak Record | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

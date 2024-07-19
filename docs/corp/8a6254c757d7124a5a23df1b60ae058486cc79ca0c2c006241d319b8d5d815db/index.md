@@ -1,6 +1,14 @@
 # Russia
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1113 |
+| ELO Competitive | 1116 |
+| Total Matches | 9 |
+| Wins | 1 |
+| Losses | 8 |
+| Draws | 0 |
+
 
 ### Match History
 

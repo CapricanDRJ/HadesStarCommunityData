@@ -1,6 +1,14 @@
 # 咕咕咕咕咕咕咕咕咕咕咕咕咕咕咕
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1159 |
+| ELO Competitive | 1186 |
+| Total Matches | 5 |
+| Wins | 0 |
+| Losses | 3 |
+| Draws | 2 |
+
 
 ### Match History
 

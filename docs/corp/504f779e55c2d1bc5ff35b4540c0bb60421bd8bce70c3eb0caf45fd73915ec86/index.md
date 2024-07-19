@@ -1,6 +1,14 @@
 # U.Y.E.U.
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1121 |
+| ELO Competitive | 1165 |
+| Total Matches | 18 |
+| Wins | 4 |
+| Losses | 11 |
+| Draws | 3 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

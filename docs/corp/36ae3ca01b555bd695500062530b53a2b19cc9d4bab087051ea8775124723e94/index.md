@@ -1,6 +1,16 @@
 # 하데스 스타 코리아
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1239 |
+| ELO Competitive | 1307 |
+| Total Matches | 16 |
+| Wins | 9 |
+| Losses | 7 |
+| Draws | 0 |
+| Streak | 5 |
+| Streak Record | 5 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

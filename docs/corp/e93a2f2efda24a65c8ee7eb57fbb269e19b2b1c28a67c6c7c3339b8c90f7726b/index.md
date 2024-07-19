@@ -1,6 +1,15 @@
 # Alpaca Haven
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1263 |
+| ELO Competitive | 1288 |
+| Total Matches | 29 |
+| Wins | 18 |
+| Losses | 11 |
+| Draws | 0 |
+| Streak Record | 5 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

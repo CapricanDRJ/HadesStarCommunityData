@@ -1,6 +1,15 @@
 # 阿尔特拉集团
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1188 |
+| ELO Competitive | 1288 |
+| Total Matches | 41 |
+| Wins | 18 |
+| Losses | 21 |
+| Draws | 2 |
+| Streak Record | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

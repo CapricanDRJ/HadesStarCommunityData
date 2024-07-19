@@ -1,6 +1,15 @@
 # ✡天启✡
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1356 |
+| ELO Competitive | 1457 |
+| Total Matches | 30 |
+| Wins | 22 |
+| Losses | 8 |
+| Draws | 0 |
+| Streak Record | 6 |
+
 
 ### Match History
 

@@ -1,6 +1,15 @@
 # Enigma
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1124 |
+| ELO Competitive | 1152 |
+| Total Matches | 17 |
+| Wins | 5 |
+| Losses | 12 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

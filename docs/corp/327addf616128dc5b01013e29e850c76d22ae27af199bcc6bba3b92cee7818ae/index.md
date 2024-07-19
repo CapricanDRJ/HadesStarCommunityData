@@ -1,6 +1,14 @@
 # 以太超星团
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1049 |
+| ELO Competitive | 1170 |
+| Total Matches | 26 |
+| Wins | 3 |
+| Losses | 20 |
+| Draws | 3 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

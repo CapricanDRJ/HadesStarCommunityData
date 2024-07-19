@@ -1,6 +1,15 @@
 # Españoles
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1184 |
+| ELO Competitive | 1232 |
+| Total Matches | 9 |
+| Wins | 3 |
+| Losses | 4 |
+| Draws | 2 |
+| Streak Record | 2 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

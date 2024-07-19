@@ -1,6 +1,15 @@
 # Sektion 32
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1182 |
+| ELO Competitive | 1189 |
+| Total Matches | 11 |
+| Wins | 4 |
+| Losses | 6 |
+| Draws | 1 |
+| Streak Record | 2 |
+
 
 ### Match History
 

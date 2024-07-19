@@ -1,6 +1,15 @@
 # 日月星辰
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1214 |
+| ELO Competitive | 1220 |
+| Total Matches | 3 |
+| Wins | 2 |
+| Losses | 1 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 
 ### Match History
 

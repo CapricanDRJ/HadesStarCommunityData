@@ -1,6 +1,15 @@
 # Orphans Of Kos
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1194 |
+| ELO Competitive | 1197 |
+| Total Matches | 11 |
+| Wins | 5 |
+| Losses | 6 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 
 ### Match History
 

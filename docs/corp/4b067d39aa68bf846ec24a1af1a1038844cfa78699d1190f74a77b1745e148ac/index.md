@@ -1,6 +1,14 @@
 # 苏维埃联邦
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1048 |
+| ELO Competitive | 1048 |
+| Total Matches | 16 |
+| Wins | 0 |
+| Losses | 14 |
+| Draws | 2 |
+
 
 ### Match History
 

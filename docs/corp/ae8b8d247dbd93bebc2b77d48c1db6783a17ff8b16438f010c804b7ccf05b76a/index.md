@@ -1,6 +1,16 @@
 # Созидание 2.0
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1137 |
+| ELO Competitive | 1148 |
+| Total Matches | 25 |
+| Wins | 9 |
+| Losses | 16 |
+| Draws | 0 |
+| Streak | 2 |
+| Streak Record | 5 |
+
 
 ### Match History
 

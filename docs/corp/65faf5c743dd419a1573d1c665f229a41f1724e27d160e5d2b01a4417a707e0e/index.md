@@ -1,6 +1,16 @@
 # *СССР*
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1256 |
+| ELO Competitive | 1300 |
+| Total Matches | 37 |
+| Wins | 18 |
+| Losses | 18 |
+| Draws | 1 |
+| Streak | 2 |
+| Streak Record | 3 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

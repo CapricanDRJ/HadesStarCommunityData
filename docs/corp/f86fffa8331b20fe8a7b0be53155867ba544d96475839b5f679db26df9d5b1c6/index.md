@@ -1,6 +1,14 @@
 # Sith Academy
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1173 |
+| ELO Competitive | 1180 |
+| Total Matches | 2 |
+| Wins | 0 |
+| Losses | 2 |
+| Draws | 0 |
+
 
 ### Match History
 

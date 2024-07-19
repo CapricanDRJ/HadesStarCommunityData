@@ -1,6 +1,14 @@
 # Survivors
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1123 |
+| ELO Competitive | 1138 |
+| Total Matches | 16 |
+| Wins | 4 |
+| Losses | 11 |
+| Draws | 1 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

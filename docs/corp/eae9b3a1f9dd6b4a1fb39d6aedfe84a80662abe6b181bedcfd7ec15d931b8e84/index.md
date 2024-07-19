@@ -1,6 +1,15 @@
 # Shrimp City
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1272 |
+| ELO Competitive | 1286 |
+| Total Matches | 26 |
+| Wins | 16 |
+| Losses | 10 |
+| Draws | 0 |
+| Streak Record | 11 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

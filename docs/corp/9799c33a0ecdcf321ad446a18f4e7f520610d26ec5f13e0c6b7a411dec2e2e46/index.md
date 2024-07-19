@@ -1,6 +1,15 @@
 # Weyland Yutani 
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1138 |
+| ELO Competitive | 1251 |
+| Total Matches | 37 |
+| Wins | 12 |
+| Losses | 22 |
+| Draws | 3 |
+| Streak Record | 2 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

@@ -1,6 +1,15 @@
 # 星を継ぐもの
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1333 |
+| ELO Competitive | 1360 |
+| Total Matches | 36 |
+| Wins | 26 |
+| Losses | 10 |
+| Draws | 0 |
+| Streak Record | 8 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

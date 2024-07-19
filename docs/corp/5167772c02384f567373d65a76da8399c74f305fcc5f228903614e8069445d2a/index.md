@@ -1,6 +1,15 @@
 # Spiritic Beacon
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1203 |
+| ELO Competitive | 1209 |
+| Total Matches | 9 |
+| Wins | 5 |
+| Losses | 4 |
+| Draws | 0 |
+| Streak Record | 3 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

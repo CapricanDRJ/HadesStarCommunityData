@@ -1,6 +1,15 @@
 # Looping
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1307 |
+| ELO Competitive | 1353 |
+| Total Matches | 33 |
+| Wins | 21 |
+| Losses | 12 |
+| Draws | 0 |
+| Streak Record | 9 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

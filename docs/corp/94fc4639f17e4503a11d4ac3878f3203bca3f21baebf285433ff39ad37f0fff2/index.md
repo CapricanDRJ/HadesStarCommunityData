@@ -1,6 +1,15 @@
 # BRASIL STAR
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1316 |
+| ELO Competitive | 1412 |
+| Total Matches | 46 |
+| Wins | 30 |
+| Losses | 15 |
+| Draws | 1 |
+| Streak Record | 5 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

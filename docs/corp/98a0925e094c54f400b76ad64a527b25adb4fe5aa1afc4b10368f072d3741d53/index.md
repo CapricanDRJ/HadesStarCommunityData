@@ -1,6 +1,15 @@
 # Бестрашный лиги
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1177 |
+| ELO Competitive | 1177 |
+| Total Matches | 8 |
+| Wins | 3 |
+| Losses | 5 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

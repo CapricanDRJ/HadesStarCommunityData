@@ -1,6 +1,15 @@
 # Duchy Arrakis
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1262 |
+| ELO Competitive | 1292 |
+| Total Matches | 25 |
+| Wins | 16 |
+| Losses | 9 |
+| Draws | 0 |
+| Streak Record | 5 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

@@ -1,6 +1,15 @@
 # 银星舰队SSF
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1262 |
+| ELO Competitive | 1274 |
+| Total Matches | 12 |
+| Wins | 9 |
+| Losses | 3 |
+| Draws | 0 |
+| Streak Record | 7 |
+
 
 ### Match History
 

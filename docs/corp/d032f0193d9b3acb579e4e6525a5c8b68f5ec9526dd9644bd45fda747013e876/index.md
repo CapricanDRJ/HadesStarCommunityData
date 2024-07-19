@@ -1,6 +1,16 @@
 # BSO Academy
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1355 |
+| ELO Competitive | 1369 |
+| Total Matches | 15 |
+| Wins | 14 |
+| Losses | 1 |
+| Draws | 0 |
+| Streak | 10 |
+| Streak Record | 10 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

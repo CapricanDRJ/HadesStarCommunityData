@@ -1,6 +1,15 @@
 # Sprite
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1202 |
+| ELO Competitive | 1209 |
+| Total Matches | 7 |
+| Wins | 3 |
+| Losses | 4 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 
 ### Match History
 

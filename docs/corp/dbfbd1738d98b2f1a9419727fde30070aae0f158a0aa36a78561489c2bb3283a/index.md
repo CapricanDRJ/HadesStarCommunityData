@@ -1,6 +1,16 @@
 # Green Dwarf
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1247 |
+| ELO Competitive | 1262 |
+| Total Matches | 5 |
+| Wins | 4 |
+| Losses | 1 |
+| Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
+
 
 ### Match History
 

@@ -1,6 +1,15 @@
 # 很多星球的社会主义团
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1183 |
+| ELO Competitive | 1212 |
+| Total Matches | 18 |
+| Wins | 8 |
+| Losses | 9 |
+| Draws | 1 |
+| Streak Record | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

@@ -1,6 +1,14 @@
 # Rogue Corp
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1055 |
+| ELO Competitive | 1064 |
+| Total Matches | 18 |
+| Wins | 1 |
+| Losses | 17 |
+| Draws | 0 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

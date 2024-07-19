@@ -1,6 +1,14 @@
 # Divinity's End
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1184 |
+| ELO Competitive | 1187 |
+| Total Matches | 2 |
+| Wins | 0 |
+| Losses | 2 |
+| Draws | 0 |
+
 
 ### Match History
 

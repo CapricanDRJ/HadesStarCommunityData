@@ -1,6 +1,16 @@
 # Fleet Corp Ares
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1250 |
+| ELO Competitive | 1264 |
+| Total Matches | 12 |
+| Wins | 7 |
+| Losses | 5 |
+| Draws | 0 |
+| Streak | 5 |
+| Streak Record | 5 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

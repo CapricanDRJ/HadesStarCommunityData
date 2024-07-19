@@ -1,6 +1,15 @@
 # Sternenflotte
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1190 |
+| ELO Competitive | 1247 |
+| Total Matches | 34 |
+| Wins | 18 |
+| Losses | 16 |
+| Draws | 0 |
+| Streak Record | 5 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

@@ -1,6 +1,16 @@
 # Ninth Planet
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1481 |
+| ELO Competitive | 1508 |
+| Total Matches | 41 |
+| Wins | 37 |
+| Losses | 4 |
+| Draws | 0 |
+| Streak | 11 |
+| Streak Record | 24 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

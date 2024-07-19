@@ -1,6 +1,15 @@
 # Cowboys
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1163 |
+| ELO Competitive | 1166 |
+| Total Matches | 18 |
+| Wins | 6 |
+| Losses | 9 |
+| Draws | 3 |
+| Streak Record | 2 |
+
 
 ### Match History
 

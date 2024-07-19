@@ -1,6 +1,14 @@
 # Stellaris
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1145 |
+| ELO Competitive | 1156 |
+| Total Matches | 5 |
+| Wins | 0 |
+| Losses | 5 |
+| Draws | 0 |
+
 
 ### Match History
 

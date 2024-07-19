@@ -1,6 +1,15 @@
 # 新纪元舰队
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1117 |
+| ELO Competitive | 1153 |
+| Total Matches | 18 |
+| Wins | 4 |
+| Losses | 12 |
+| Draws | 2 |
+| Streak Record | 3 |
+
 
 ### Match History
 

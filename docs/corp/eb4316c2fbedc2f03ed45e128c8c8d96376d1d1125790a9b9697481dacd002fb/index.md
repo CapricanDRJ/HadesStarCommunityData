@@ -1,6 +1,15 @@
 # 湖心亭看雪
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1016 |
+| ELO Competitive | 1092 |
+| Total Matches | 23 |
+| Wins | 2 |
+| Losses | 19 |
+| Draws | 2 |
+| Streak Record | 2 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

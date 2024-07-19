@@ -1,6 +1,16 @@
 # Star Destroyers
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1350 |
+| ELO Competitive | 1385 |
+| Total Matches | 37 |
+| Wins | 22 |
+| Losses | 14 |
+| Draws | 1 |
+| Streak | 9 |
+| Streak Record | 9 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

@@ -1,6 +1,16 @@
 # UNSC
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1215 |
+| ELO Competitive | 1219 |
+| Total Matches | 6 |
+| Wins | 4 |
+| Losses | 2 |
+| Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
+
 
 ### Match History
 

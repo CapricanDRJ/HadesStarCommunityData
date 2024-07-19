@@ -1,6 +1,15 @@
 # Argentina 1.0
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1237 |
+| ELO Competitive | 1270 |
+| Total Matches | 28 |
+| Wins | 16 |
+| Losses | 12 |
+| Draws | 0 |
+| Streak Record | 5 |
+
 
 ### Match History
 

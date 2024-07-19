@@ -1,6 +1,15 @@
 # Crazy Elite
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1160 |
+| ELO Competitive | 1316 |
+| Total Matches | 65 |
+| Wins | 26 |
+| Losses | 39 |
+| Draws | 0 |
+| Streak Record | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

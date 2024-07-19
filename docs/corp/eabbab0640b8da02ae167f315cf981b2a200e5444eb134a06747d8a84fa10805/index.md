@@ -1,6 +1,15 @@
 # SQPT
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1210 |
+| ELO Competitive | 1343 |
+| Total Matches | 60 |
+| Wins | 29 |
+| Losses | 31 |
+| Draws | 0 |
+| Streak Record | 5 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

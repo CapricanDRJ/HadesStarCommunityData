@@ -1,6 +1,15 @@
 # Caprica command
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1199 |
+| ELO Competitive | 1203 |
+| Total Matches | 8 |
+| Wins | 4 |
+| Losses | 4 |
+| Draws | 0 |
+| Streak Record | 3 |
+
 
 ### Match History
 

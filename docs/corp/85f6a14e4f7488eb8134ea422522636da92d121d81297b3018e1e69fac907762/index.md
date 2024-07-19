@@ -1,6 +1,15 @@
 # OrderofTheGeon
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1138 |
+| ELO Competitive | 1170 |
+| Total Matches | 41 |
+| Wins | 18 |
+| Losses | 20 |
+| Draws | 3 |
+| Streak Record | 5 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

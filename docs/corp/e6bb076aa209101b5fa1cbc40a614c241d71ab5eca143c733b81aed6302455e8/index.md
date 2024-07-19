@@ -1,6 +1,14 @@
 # 逐光起航
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1057 |
+| ELO Competitive | 1086 |
+| Total Matches | 30 |
+| Wins | 4 |
+| Losses | 22 |
+| Draws | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

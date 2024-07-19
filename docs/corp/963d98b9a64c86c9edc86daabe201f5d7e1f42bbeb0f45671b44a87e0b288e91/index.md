@@ -1,6 +1,15 @@
 # Los Unidos 
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1187 |
+| ELO Competitive | 1217 |
+| Total Matches | 16 |
+| Wins | 7 |
+| Losses | 8 |
+| Draws | 1 |
+| Streak Record | 3 |
+
 
 ### Match History
 

@@ -1,6 +1,14 @@
 # Держава Русь
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1060 |
+| ELO Competitive | 1087 |
+| Total Matches | 12 |
+| Wins | 0 |
+| Losses | 12 |
+| Draws | 0 |
+
 
 ### Match History
 

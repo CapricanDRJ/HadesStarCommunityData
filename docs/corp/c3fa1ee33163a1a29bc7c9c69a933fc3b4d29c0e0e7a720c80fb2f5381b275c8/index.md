@@ -1,6 +1,16 @@
 # МАРСЮКИ
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1505 |
+| ELO Competitive | 1531 |
+| Total Matches | 31 |
+| Wins | 31 |
+| Losses | 0 |
+| Draws | 0 |
+| Streak | 31 |
+| Streak Record | 31 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

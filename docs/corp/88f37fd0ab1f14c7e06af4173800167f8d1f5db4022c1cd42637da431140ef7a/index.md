@@ -1,6 +1,16 @@
 # TeddisaurusWrex
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1372 |
+| ELO Competitive | 1418 |
+| Total Matches | 41 |
+| Wins | 34 |
+| Losses | 7 |
+| Draws | 0 |
+| Streak | 2 |
+| Streak Record | 18 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

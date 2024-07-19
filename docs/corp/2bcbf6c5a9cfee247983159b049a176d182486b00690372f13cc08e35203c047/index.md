@@ -1,6 +1,16 @@
 # Todesschwadron
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1190 |
+| ELO Competitive | 1192 |
+| Total Matches | 5 |
+| Wins | 2 |
+| Losses | 3 |
+| Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
+
 
 ### Match History
 

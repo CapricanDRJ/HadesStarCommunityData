@@ -1,6 +1,16 @@
 # BrazilCorp.
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1480 |
+| ELO Competitive | 1517 |
+| Total Matches | 39 |
+| Wins | 34 |
+| Losses | 5 |
+| Draws | 0 |
+| Streak | 5 |
+| Streak Record | 10 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

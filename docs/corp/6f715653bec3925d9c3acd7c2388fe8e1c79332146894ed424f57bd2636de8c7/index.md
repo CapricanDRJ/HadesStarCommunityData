@@ -1,6 +1,15 @@
 # Mass Effect
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1216 |
+| ELO Competitive | 1258 |
+| Total Matches | 36 |
+| Wins | 19 |
+| Losses | 16 |
+| Draws | 1 |
+| Streak Record | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

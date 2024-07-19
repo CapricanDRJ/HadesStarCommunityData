@@ -1,6 +1,14 @@
 # Новый ЭДЭМ
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1185 |
+| ELO Competitive | 1185 |
+| Total Matches | 6 |
+| Wins | 2 |
+| Losses | 3 |
+| Draws | 1 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

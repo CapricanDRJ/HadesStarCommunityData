@@ -1,6 +1,16 @@
 # [Blue*Nation]
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1468 |
+| ELO Competitive | 1499 |
+| Total Matches | 36 |
+| Wins | 30 |
+| Losses | 6 |
+| Draws | 0 |
+| Streak | 21 |
+| Streak Record | 21 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

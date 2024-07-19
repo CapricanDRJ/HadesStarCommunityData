@@ -1,6 +1,15 @@
 # Odessa
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1135 |
+| ELO Competitive | 1147 |
+| Total Matches | 17 |
+| Wins | 5 |
+| Losses | 12 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 
 ### Match History
 

@@ -1,6 +1,15 @@
 # Hail Hydra
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1111 |
+| ELO Competitive | 1127 |
+| Total Matches | 24 |
+| Wins | 6 |
+| Losses | 18 |
+| Draws | 0 |
+| Streak Record | 3 |
+
 
 ### Match History
 

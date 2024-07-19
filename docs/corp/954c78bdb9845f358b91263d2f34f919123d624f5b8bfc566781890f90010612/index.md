@@ -1,6 +1,16 @@
 # helvetic force
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1217 |
+| ELO Competitive | 1222 |
+| Total Matches | 3 |
+| Wins | 2 |
+| Losses | 1 |
+| Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
+
 
 ### Match History
 

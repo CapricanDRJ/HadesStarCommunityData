@@ -1,6 +1,16 @@
 # GermanIndustrie
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1283 |
+| ELO Competitive | 1304 |
+| Total Matches | 11 |
+| Wins | 8 |
+| Losses | 2 |
+| Draws | 1 |
+| Streak | 2 |
+| Streak Record | 4 |
+
 
 ### Match History
 

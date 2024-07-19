@@ -1,6 +1,15 @@
 # Equinox
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1199 |
+| ELO Competitive | 1215 |
+| Total Matches | 23 |
+| Wins | 10 |
+| Losses | 12 |
+| Draws | 1 |
+| Streak Record | 2 |
+
 
 ### Match History
 

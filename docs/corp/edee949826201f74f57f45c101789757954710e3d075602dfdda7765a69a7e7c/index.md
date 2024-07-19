@@ -1,6 +1,16 @@
 # P!RAT£ SHIP
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1243 |
+| ELO Competitive | 1246 |
+| Total Matches | 14 |
+| Wins | 8 |
+| Losses | 5 |
+| Draws | 1 |
+| Streak | 2 |
+| Streak Record | 3 |
+
 
 ### Match History
 

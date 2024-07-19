@@ -1,6 +1,15 @@
 # Zeta LLC
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1266 |
+| ELO Competitive | 1270 |
+| Total Matches | 9 |
+| Wins | 7 |
+| Losses | 2 |
+| Draws | 0 |
+| Streak Record | 5 |
+
 
 ### Match History
 

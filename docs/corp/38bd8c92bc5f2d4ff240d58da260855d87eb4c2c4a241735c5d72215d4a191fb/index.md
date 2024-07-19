@@ -1,6 +1,15 @@
 # Nebula
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1083 |
+| ELO Competitive | 1100 |
+| Total Matches | 18 |
+| Wins | 4 |
+| Losses | 14 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

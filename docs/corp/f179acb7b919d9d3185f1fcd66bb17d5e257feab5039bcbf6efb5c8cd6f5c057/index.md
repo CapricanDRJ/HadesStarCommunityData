@@ -1,6 +1,15 @@
 # Star Blazers
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1082 |
+| ELO Competitive | 1126 |
+| Total Matches | 34 |
+| Wins | 10 |
+| Losses | 24 |
+| Draws | 0 |
+| Streak Record | 3 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

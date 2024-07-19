@@ -1,6 +1,15 @@
 # 1st/Ave/Junkie2
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1176 |
+| ELO Competitive | 1194 |
+| Total Matches | 37 |
+| Wins | 16 |
+| Losses | 20 |
+| Draws | 1 |
+| Streak Record | 3 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

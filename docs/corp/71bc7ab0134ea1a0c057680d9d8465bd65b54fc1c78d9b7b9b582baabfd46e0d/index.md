@@ -1,6 +1,15 @@
 # Ender
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1458 |
+| ELO Competitive | 1528 |
+| Total Matches | 53 |
+| Wins | 40 |
+| Losses | 13 |
+| Draws | 0 |
+| Streak Record | 22 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

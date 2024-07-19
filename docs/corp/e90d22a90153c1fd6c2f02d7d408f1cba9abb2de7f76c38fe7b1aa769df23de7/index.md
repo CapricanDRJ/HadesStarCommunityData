@@ -1,6 +1,15 @@
 # Killer Shadow
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1109 |
+| ELO Competitive | 1114 |
+| Total Matches | 12 |
+| Wins | 2 |
+| Losses | 10 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 
 ### Match History
 

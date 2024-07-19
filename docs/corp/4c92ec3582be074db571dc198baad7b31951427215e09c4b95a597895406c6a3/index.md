@@ -1,6 +1,15 @@
 # DYLAN
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1281 |
+| ELO Competitive | 1282 |
+| Total Matches | 9 |
+| Wins | 8 |
+| Losses | 1 |
+| Draws | 0 |
+| Streak Record | 8 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

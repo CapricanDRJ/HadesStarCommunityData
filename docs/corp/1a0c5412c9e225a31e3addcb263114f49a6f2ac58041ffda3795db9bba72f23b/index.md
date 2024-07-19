@@ -1,6 +1,15 @@
 # Kratos
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1330 |
+| ELO Competitive | 1407 |
+| Total Matches | 52 |
+| Wins | 35 |
+| Losses | 17 |
+| Draws | 0 |
+| Streak Record | 6 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

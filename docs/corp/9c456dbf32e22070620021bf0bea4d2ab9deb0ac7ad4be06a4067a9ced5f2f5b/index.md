@@ -1,6 +1,15 @@
 # Anarchy Nation 
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1226 |
+| ELO Competitive | 1234 |
+| Total Matches | 8 |
+| Wins | 5 |
+| Losses | 2 |
+| Draws | 1 |
+| Streak Record | 4 |
+
 
 ### Match History
 

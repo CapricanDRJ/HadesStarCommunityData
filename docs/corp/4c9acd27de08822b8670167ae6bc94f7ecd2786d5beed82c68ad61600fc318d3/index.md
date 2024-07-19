@@ -1,6 +1,16 @@
 # THE BENDERA
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1318 |
+| ELO Competitive | 1334 |
+| Total Matches | 21 |
+| Wins | 15 |
+| Losses | 6 |
+| Draws | 0 |
+| Streak | 7 |
+| Streak Record | 7 |
+
 
 ### Match History
 

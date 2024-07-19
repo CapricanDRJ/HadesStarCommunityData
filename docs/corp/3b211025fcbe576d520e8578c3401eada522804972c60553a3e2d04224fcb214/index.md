@@ -1,6 +1,14 @@
 # Space Force
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1170 |
+| ELO Competitive | 1189 |
+| Total Matches | 6 |
+| Wins | 1 |
+| Losses | 3 |
+| Draws | 2 |
+
 
 ### Match History
 

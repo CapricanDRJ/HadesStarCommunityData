@@ -1,6 +1,15 @@
 # 边缘世界
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1210 |
+| ELO Competitive | 1211 |
+| Total Matches | 7 |
+| Wins | 3 |
+| Losses | 2 |
+| Draws | 2 |
+| Streak Record | 3 |
+
 
 ### Match History
 

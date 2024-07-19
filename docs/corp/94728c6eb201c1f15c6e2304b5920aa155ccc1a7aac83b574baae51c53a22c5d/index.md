@@ -1,6 +1,15 @@
 # Galaxians
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1208 |
+| ELO Competitive | 1246 |
+| Total Matches | 23 |
+| Wins | 11 |
+| Losses | 12 |
+| Draws | 0 |
+| Streak Record | 3 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

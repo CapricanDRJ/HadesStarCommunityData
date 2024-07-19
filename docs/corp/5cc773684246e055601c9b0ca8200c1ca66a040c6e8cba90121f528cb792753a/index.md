@@ -1,6 +1,14 @@
 # 中国星系舰队
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1174 |
+| ELO Competitive | 1201 |
+| Total Matches | 7 |
+| Wins | 2 |
+| Losses | 4 |
+| Draws | 1 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

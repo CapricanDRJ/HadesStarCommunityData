@@ -1,6 +1,15 @@
 # The Star League
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1147 |
+| ELO Competitive | 1189 |
+| Total Matches | 15 |
+| Wins | 5 |
+| Losses | 10 |
+| Draws | 0 |
+| Streak Record | 3 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

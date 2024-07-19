@@ -1,6 +1,15 @@
 # King's Guard
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 987 |
+| ELO Competitive | 1164 |
+| Total Matches | 81 |
+| Wins | 24 |
+| Losses | 52 |
+| Draws | 5 |
+| Streak Record | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

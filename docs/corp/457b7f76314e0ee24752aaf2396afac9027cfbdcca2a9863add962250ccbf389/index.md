@@ -1,6 +1,15 @@
 # Лунный Феникс
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1390 |
+| ELO Competitive | 1452 |
+| Total Matches | 50 |
+| Wins | 34 |
+| Losses | 16 |
+| Draws | 0 |
+| Streak Record | 8 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

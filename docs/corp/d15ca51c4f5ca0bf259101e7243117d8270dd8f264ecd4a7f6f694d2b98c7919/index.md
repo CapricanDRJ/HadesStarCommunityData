@@ -1,6 +1,16 @@
 # WSC(no DISCORD)
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1275 |
+| ELO Competitive | 1326 |
+| Total Matches | 31 |
+| Wins | 17 |
+| Losses | 13 |
+| Draws | 1 |
+| Streak | 3 |
+| Streak Record | 7 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

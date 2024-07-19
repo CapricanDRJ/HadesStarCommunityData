@@ -1,6 +1,15 @@
 # White Star Inc.
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1190 |
+| ELO Competitive | 1203 |
+| Total Matches | 6 |
+| Wins | 3 |
+| Losses | 3 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 
 ### Match History
 

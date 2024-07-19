@@ -1,6 +1,15 @@
 # Continuum
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1386 |
+| ELO Competitive | 1545 |
+| Total Matches | 77 |
+| Wins | 49 |
+| Losses | 27 |
+| Draws | 1 |
+| Streak Record | 13 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

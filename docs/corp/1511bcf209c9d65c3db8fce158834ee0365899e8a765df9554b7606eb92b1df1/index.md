@@ -1,6 +1,14 @@
 # 太阳系联邦
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1033 |
+| ELO Competitive | 1104 |
+| Total Matches | 15 |
+| Wins | 0 |
+| Losses | 15 |
+| Draws | 0 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

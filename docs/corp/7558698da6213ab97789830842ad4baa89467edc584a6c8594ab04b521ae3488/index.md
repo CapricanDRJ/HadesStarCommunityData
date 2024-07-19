@@ -1,6 +1,14 @@
 # Тёмный Феникс
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1112 |
+| ELO Competitive | 1113 |
+| Total Matches | 7 |
+| Wins | 0 |
+| Losses | 7 |
+| Draws | 0 |
+
 
 ### Match History
 

@@ -1,6 +1,14 @@
 # 泰拉瑞亚
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1198 |
+| ELO Competitive | 1198 |
+| Total Matches | 2 |
+| Wins | 1 |
+| Losses | 1 |
+| Draws | 0 |
+
 
 ### Match History
 

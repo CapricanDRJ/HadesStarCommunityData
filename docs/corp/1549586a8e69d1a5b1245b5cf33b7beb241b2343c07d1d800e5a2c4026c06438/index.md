@@ -1,6 +1,15 @@
 # ItBurnsWhenIEMP
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1309 |
+| ELO Competitive | 1338 |
+| Total Matches | 30 |
+| Wins | 22 |
+| Losses | 8 |
+| Draws | 0 |
+| Streak Record | 10 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

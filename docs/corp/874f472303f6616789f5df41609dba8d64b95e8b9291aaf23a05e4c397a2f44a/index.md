@@ -1,6 +1,16 @@
 # SUN OF 3LANDS
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1269 |
+| ELO Competitive | 1280 |
+| Total Matches | 10 |
+| Wins | 7 |
+| Losses | 2 |
+| Draws | 1 |
+| Streak | 2 |
+| Streak Record | 3 |
+
 
 ### Match History
 

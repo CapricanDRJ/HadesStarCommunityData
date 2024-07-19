@@ -1,6 +1,15 @@
 # Curiosity + Cat
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1146 |
+| ELO Competitive | 1150 |
+| Total Matches | 8 |
+| Wins | 2 |
+| Losses | 6 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 
 ### Match History
 

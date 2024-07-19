@@ -1,6 +1,14 @@
 # Soul System
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1110 |
+| ELO Competitive | 1118 |
+| Total Matches | 9 |
+| Wins | 0 |
+| Losses | 9 |
+| Draws | 0 |
+
 
 ### Match History
 

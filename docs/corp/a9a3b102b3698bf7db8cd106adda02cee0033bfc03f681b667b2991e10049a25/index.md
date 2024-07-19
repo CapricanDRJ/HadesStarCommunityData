@@ -1,6 +1,15 @@
 # Млечный путь
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1227 |
+| ELO Competitive | 1283 |
+| Total Matches | 25 |
+| Wins | 12 |
+| Losses | 13 |
+| Draws | 0 |
+| Streak Record | 6 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

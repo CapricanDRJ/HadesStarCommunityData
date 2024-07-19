@@ -1,6 +1,16 @@
 # Nova Time
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1338 |
+| ELO Competitive | 1342 |
+| Total Matches | 14 |
+| Wins | 13 |
+| Losses | 1 |
+| Draws | 0 |
+| Streak | 11 |
+| Streak Record | 11 |
+
 
 ### Match History
 

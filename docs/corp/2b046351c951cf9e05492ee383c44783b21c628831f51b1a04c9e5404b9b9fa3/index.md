@@ -1,6 +1,15 @@
 # Paramedic ICU
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1233 |
+| ELO Competitive | 1252 |
+| Total Matches | 19 |
+| Wins | 9 |
+| Losses | 8 |
+| Draws | 2 |
+| Streak Record | 6 |
+
 
 ### Match History
 

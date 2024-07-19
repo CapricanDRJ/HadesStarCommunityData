@@ -1,6 +1,15 @@
 # 羽共和体
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1118 |
+| ELO Competitive | 1197 |
+| Total Matches | 29 |
+| Wins | 9 |
+| Losses | 17 |
+| Draws | 3 |
+| Streak Record | 2 |
+
 
 ### Match History
 

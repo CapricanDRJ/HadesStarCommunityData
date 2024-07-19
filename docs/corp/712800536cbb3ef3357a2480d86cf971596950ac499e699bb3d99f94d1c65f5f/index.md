@@ -1,6 +1,15 @@
 # 혁명군
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1115 |
+| ELO Competitive | 1248 |
+| Total Matches | 45 |
+| Wins | 13 |
+| Losses | 32 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

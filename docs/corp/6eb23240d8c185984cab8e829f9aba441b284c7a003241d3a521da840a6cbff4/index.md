@@ -1,6 +1,15 @@
 # 猎户座星云
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1169 |
+| ELO Competitive | 1171 |
+| Total Matches | 9 |
+| Wins | 3 |
+| Losses | 6 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 
 ### Match History
 

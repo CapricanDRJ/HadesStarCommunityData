@@ -1,6 +1,15 @@
 # 第一序列
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1237 |
+| ELO Competitive | 1415 |
+| Total Matches | 64 |
+| Wins | 31 |
+| Losses | 33 |
+| Draws | 0 |
+| Streak Record | 5 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

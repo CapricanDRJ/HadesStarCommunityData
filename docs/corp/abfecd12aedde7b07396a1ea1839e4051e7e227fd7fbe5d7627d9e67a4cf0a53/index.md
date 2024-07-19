@@ -1,6 +1,16 @@
 # C.C Legion
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1256 |
+| ELO Competitive | 1257 |
+| Total Matches | 6 |
+| Wins | 5 |
+| Losses | 1 |
+| Draws | 0 |
+| Streak | 2 |
+| Streak Record | 3 |
+
 
 ### Match History
 

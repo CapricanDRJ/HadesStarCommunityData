@@ -1,6 +1,16 @@
 # АНДРОМЕДА 
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1179 |
+| ELO Competitive | 1252 |
+| Total Matches | 55 |
+| Wins | 25 |
+| Losses | 30 |
+| Draws | 0 |
+| Streak | 2 |
+| Streak Record | 6 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

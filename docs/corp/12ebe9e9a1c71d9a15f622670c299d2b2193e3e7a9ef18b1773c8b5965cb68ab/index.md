@@ -1,6 +1,15 @@
 # The Goonies
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1169 |
+| ELO Competitive | 1194 |
+| Total Matches | 10 |
+| Wins | 3 |
+| Losses | 5 |
+| Draws | 2 |
+| Streak Record | 2 |
+
 
 ### Match History
 

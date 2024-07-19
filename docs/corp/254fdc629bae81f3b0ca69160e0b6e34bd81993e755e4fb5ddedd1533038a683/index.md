@@ -1,6 +1,15 @@
 # Veteran's Haven
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1144 |
+| ELO Competitive | 1161 |
+| Total Matches | 14 |
+| Wins | 5 |
+| Losses | 9 |
+| Draws | 0 |
+| Streak Record | 3 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

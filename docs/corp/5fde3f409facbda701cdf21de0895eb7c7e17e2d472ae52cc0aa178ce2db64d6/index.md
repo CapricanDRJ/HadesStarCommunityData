@@ -1,6 +1,14 @@
 # AKA
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1082 |
+| ELO Competitive | 1107 |
+| Total Matches | 10 |
+| Wins | 0 |
+| Losses | 10 |
+| Draws | 0 |
+
 
 ### Match History
 

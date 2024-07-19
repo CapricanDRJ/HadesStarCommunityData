@@ -1,6 +1,15 @@
 # 遨游星空  kdy分盟
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1180 |
+| ELO Competitive | 1247 |
+| Total Matches | 31 |
+| Wins | 13 |
+| Losses | 17 |
+| Draws | 1 |
+| Streak Record | 6 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

@@ -1,6 +1,16 @@
 # koalition
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1264 |
+| ELO Competitive | 1270 |
+| Total Matches | 11 |
+| Wins | 7 |
+| Losses | 3 |
+| Draws | 1 |
+| Streak | 5 |
+| Streak Record | 5 |
+
 
 ### Match History
 

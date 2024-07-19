@@ -1,6 +1,15 @@
 # Alpha 
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1051 |
+| ELO Competitive | 1087 |
+| Total Matches | 33 |
+| Wins | 7 |
+| Losses | 26 |
+| Draws | 0 |
+| Streak Record | 3 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

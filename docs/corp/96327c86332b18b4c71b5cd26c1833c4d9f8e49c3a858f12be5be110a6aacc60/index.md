@@ -1,6 +1,14 @@
 # Cell Division
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1159 |
+| ELO Competitive | 1164 |
+| Total Matches | 3 |
+| Wins | 0 |
+| Losses | 3 |
+| Draws | 0 |
+
 
 ### Match History
 

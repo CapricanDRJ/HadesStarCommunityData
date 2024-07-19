@@ -1,6 +1,15 @@
 # CAEDRUS [<o>]
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1198 |
+| ELO Competitive | 1199 |
+| Total Matches | 5 |
+| Wins | 2 |
+| Losses | 2 |
+| Draws | 1 |
+| Streak Record | 2 |
+
 
 ### Match History
 

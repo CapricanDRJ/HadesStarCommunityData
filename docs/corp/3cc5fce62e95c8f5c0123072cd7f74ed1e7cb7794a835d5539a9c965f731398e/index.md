@@ -1,6 +1,14 @@
 # FAIR
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1187 |
+| ELO Competitive | 1191 |
+| Total Matches | 2 |
+| Wins | 0 |
+| Losses | 1 |
+| Draws | 1 |
+
 
 ### Match History
 

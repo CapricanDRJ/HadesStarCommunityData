@@ -1,6 +1,16 @@
 # 星舰月球
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1433 |
+| ELO Competitive | 1504 |
+| Total Matches | 37 |
+| Wins | 29 |
+| Losses | 8 |
+| Draws | 0 |
+| Streak | 18 |
+| Streak Record | 18 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

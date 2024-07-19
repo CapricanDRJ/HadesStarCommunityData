@@ -1,6 +1,16 @@
 # Медведи
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1485 |
+| ELO Competitive | 1492 |
+| Total Matches | 40 |
+| Wins | 36 |
+| Losses | 4 |
+| Draws | 0 |
+| Streak | 13 |
+| Streak Record | 13 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

@@ -1,6 +1,15 @@
 # Черный Легион
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1285 |
+| ELO Competitive | 1331 |
+| Total Matches | 24 |
+| Wins | 16 |
+| Losses | 8 |
+| Draws | 0 |
+| Streak Record | 11 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

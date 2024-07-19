@@ -1,6 +1,14 @@
 # Hades Seminary 
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1215 |
+| ELO Competitive | 1218 |
+| Total Matches | 3 |
+| Wins | 2 |
+| Losses | 1 |
+| Draws | 0 |
+
 
 ### Match History
 

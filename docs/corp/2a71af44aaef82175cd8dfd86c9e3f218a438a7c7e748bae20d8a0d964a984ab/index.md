@@ -1,6 +1,15 @@
 # 神圣罗马帝国
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1087 |
+| ELO Competitive | 1209 |
+| Total Matches | 57 |
+| Wins | 18 |
+| Losses | 38 |
+| Draws | 1 |
+| Streak Record | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

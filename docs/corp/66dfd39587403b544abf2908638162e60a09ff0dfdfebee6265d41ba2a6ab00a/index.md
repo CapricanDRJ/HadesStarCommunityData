@@ -1,6 +1,15 @@
 # Core Systems
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1207 |
+| ELO Competitive | 1211 |
+| Total Matches | 7 |
+| Wins | 3 |
+| Losses | 2 |
+| Draws | 2 |
+| Streak Record | 2 |
+
 
 ### Match History
 

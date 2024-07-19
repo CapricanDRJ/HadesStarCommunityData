@@ -1,6 +1,14 @@
 # Power Rangers
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1214 |
+| ELO Competitive | 1223 |
+| Total Matches | 1 |
+| Wins | 1 |
+| Losses | 0 |
+| Draws | 0 |
+
 
 ### Match History
 

@@ -1,6 +1,15 @@
 # Gemini Ind.
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1403 |
+| ELO Competitive | 1436 |
+| Total Matches | 38 |
+| Wins | 32 |
+| Losses | 6 |
+| Draws | 0 |
+| Streak Record | 16 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

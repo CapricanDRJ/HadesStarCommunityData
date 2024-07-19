@@ -1,6 +1,15 @@
 # Тихий Омут
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1034 |
+| ELO Competitive | 1209 |
+| Total Matches | 50 |
+| Wins | 9 |
+| Losses | 40 |
+| Draws | 1 |
+| Streak Record | 2 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

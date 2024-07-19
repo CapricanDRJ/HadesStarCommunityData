@@ -1,6 +1,16 @@
 # NoweUkladyII
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1311 |
+| ELO Competitive | 1337 |
+| Total Matches | 10 |
+| Wins | 10 |
+| Losses | 0 |
+| Draws | 0 |
+| Streak | 10 |
+| Streak Record | 10 |
+
 
 ### Match History
 

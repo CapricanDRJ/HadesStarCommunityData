@@ -1,6 +1,15 @@
 # Axioma
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1032 |
+| ELO Competitive | 1072 |
+| Total Matches | 35 |
+| Wins | 10 |
+| Losses | 24 |
+| Draws | 1 |
+| Streak Record | 5 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

@@ -1,6 +1,16 @@
 # 仙女座星雲
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1277 |
+| ELO Competitive | 1502 |
+| Total Matches | 84 |
+| Wins | 46 |
+| Losses | 36 |
+| Draws | 2 |
+| Streak | 2 |
+| Streak Record | 6 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

@@ -1,6 +1,16 @@
 # 宇宙银河帝国
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1296 |
+| ELO Competitive | 1363 |
+| Total Matches | 34 |
+| Wins | 20 |
+| Losses | 12 |
+| Draws | 2 |
+| Streak | 4 |
+| Streak Record | 5 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

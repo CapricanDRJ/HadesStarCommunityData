@@ -1,6 +1,16 @@
 # Croce del Sud
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1210 |
+| ELO Competitive | 1230 |
+| Total Matches | 14 |
+| Wins | 7 |
+| Losses | 7 |
+| Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
+
 
 ### Match History
 

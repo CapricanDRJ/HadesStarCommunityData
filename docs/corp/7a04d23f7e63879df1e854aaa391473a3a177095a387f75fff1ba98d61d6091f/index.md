@@ -1,6 +1,16 @@
 # StellarCorpIT
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1280 |
+| ELO Competitive | 1296 |
+| Total Matches | 8 |
+| Wins | 7 |
+| Losses | 1 |
+| Draws | 0 |
+| Streak | 2 |
+| Streak Record | 5 |
+
 
 ### Match History
 

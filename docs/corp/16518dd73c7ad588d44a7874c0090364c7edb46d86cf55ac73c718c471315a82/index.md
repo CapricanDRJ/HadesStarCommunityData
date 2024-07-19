@@ -1,6 +1,15 @@
 # Avalanche 2.0
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1174 |
+| ELO Competitive | 1177 |
+| Total Matches | 6 |
+| Wins | 2 |
+| Losses | 4 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 
 ### Match History
 

@@ -1,6 +1,16 @@
 # Sith Empire
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1194 |
+| ELO Competitive | 1337 |
+| Total Matches | 48 |
+| Wins | 19 |
+| Losses | 29 |
+| Draws | 0 |
+| Streak | 3 |
+| Streak Record | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

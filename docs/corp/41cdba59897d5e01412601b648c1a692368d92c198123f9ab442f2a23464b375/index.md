@@ -1,6 +1,15 @@
 # Crux Cadre
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1262 |
+| ELO Competitive | 1323 |
+| Total Matches | 44 |
+| Wins | 26 |
+| Losses | 17 |
+| Draws | 1 |
+| Streak Record | 5 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

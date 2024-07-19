@@ -1,6 +1,15 @@
 # Veil of Maya
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1224 |
+| ELO Competitive | 1224 |
+| Total Matches | 6 |
+| Wins | 4 |
+| Losses | 2 |
+| Draws | 0 |
+| Streak Record | 4 |
+
 
 ### Match History
 

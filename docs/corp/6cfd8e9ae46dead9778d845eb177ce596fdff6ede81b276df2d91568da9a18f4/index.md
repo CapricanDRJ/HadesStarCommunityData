@@ -1,6 +1,14 @@
 # North Star
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1164 |
+| ELO Competitive | 1168 |
+| Total Matches | 5 |
+| Wins | 1 |
+| Losses | 4 |
+| Draws | 0 |
+
 
 ### Match History
 

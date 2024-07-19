@@ -1,6 +1,15 @@
 # -=Содружество=-
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1291 |
+| ELO Competitive | 1310 |
+| Total Matches | 27 |
+| Wins | 19 |
+| Losses | 8 |
+| Draws | 0 |
+| Streak Record | 5 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

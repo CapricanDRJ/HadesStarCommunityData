@@ -1,6 +1,15 @@
 # death squadron 
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1166 |
+| ELO Competitive | 1245 |
+| Total Matches | 40 |
+| Wins | 18 |
+| Losses | 22 |
+| Draws | 0 |
+| Streak Record | 6 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

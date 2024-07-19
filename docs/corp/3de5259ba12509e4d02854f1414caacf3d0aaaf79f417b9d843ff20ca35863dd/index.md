@@ -1,6 +1,16 @@
 # Atlas Star llc.
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1404 |
+| ELO Competitive | 1431 |
+| Total Matches | 35 |
+| Wins | 28 |
+| Losses | 7 |
+| Draws | 0 |
+| Streak | 5 |
+| Streak Record | 10 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

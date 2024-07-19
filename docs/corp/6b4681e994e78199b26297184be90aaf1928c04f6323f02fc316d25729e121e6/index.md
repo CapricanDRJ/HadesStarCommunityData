@@ -1,6 +1,15 @@
 # 101
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1150 |
+| ELO Competitive | 1402 |
+| Total Matches | 83 |
+| Wins | 34 |
+| Losses | 46 |
+| Draws | 3 |
+| Streak Record | 10 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

@@ -1,6 +1,15 @@
 # Dumpster Fire
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1095 |
+| ELO Competitive | 1153 |
+| Total Matches | 46 |
+| Wins | 15 |
+| Losses | 31 |
+| Draws | 0 |
+| Streak Record | 3 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

@@ -1,6 +1,15 @@
 # 아베노노
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1191 |
+| ELO Competitive | 1192 |
+| Total Matches | 5 |
+| Wins | 2 |
+| Losses | 2 |
+| Draws | 1 |
+| Streak Record | 2 |
+
 
 ### Match History
 

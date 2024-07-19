@@ -1,6 +1,15 @@
 # The trade pub
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1140 |
+| ELO Competitive | 1172 |
+| Total Matches | 33 |
+| Wins | 14 |
+| Losses | 19 |
+| Draws | 0 |
+| Streak Record | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

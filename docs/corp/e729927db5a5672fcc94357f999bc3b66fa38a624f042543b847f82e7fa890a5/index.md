@@ -1,6 +1,15 @@
 # Atlas corp
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1156 |
+| ELO Competitive | 1160 |
+| Total Matches | 15 |
+| Wins | 5 |
+| Losses | 9 |
+| Draws | 1 |
+| Streak Record | 2 |
+
 
 ### Match History
 

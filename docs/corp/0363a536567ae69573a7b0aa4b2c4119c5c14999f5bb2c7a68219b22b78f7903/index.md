@@ -1,6 +1,16 @@
 # Forces of Light
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1258 |
+| ELO Competitive | 1265 |
+| Total Matches | 11 |
+| Wins | 7 |
+| Losses | 3 |
+| Draws | 1 |
+| Streak | 2 |
+| Streak Record | 4 |
+
 
 ### Match History
 

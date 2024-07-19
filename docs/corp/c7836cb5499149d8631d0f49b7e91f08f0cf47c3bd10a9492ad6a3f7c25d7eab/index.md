@@ -1,6 +1,15 @@
 # Hellfire Club
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1232 |
+| ELO Competitive | 1318 |
+| Total Matches | 51 |
+| Wins | 28 |
+| Losses | 23 |
+| Draws | 0 |
+| Streak Record | 5 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

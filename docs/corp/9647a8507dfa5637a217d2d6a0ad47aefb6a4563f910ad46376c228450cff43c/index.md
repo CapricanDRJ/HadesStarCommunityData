@@ -1,6 +1,15 @@
 # CTG
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1184 |
+| ELO Competitive | 1207 |
+| Total Matches | 22 |
+| Wins | 9 |
+| Losses | 13 |
+| Draws | 0 |
+| Streak Record | 5 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

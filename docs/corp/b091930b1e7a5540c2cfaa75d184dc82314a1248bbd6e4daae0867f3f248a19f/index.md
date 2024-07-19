@@ -1,6 +1,14 @@
 # Ещё один Миф
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1139 |
+| ELO Competitive | 1140 |
+| Total Matches | 5 |
+| Wins | 0 |
+| Losses | 5 |
+| Draws | 0 |
+
 
 ### Match History
 

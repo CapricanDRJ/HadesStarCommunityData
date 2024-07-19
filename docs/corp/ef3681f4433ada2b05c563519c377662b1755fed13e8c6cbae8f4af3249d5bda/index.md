@@ -1,6 +1,14 @@
 # Starlancer
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1016 |
+| ELO Competitive | 1031 |
+| Total Matches | 18 |
+| Wins | 0 |
+| Losses | 18 |
+| Draws | 0 |
+
 
 ### Match History
 

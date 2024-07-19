@@ -1,6 +1,14 @@
 # Next Hyperion
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1168 |
+| ELO Competitive | 1172 |
+| Total Matches | 8 |
+| Wins | 2 |
+| Losses | 6 |
+| Draws | 0 |
+
 
 ### Match History
 

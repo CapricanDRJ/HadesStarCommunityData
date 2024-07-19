@@ -1,6 +1,14 @@
 # ༀᅗBAR ESTELARᅗༀ
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1123 |
+| ELO Competitive | 1145 |
+| Total Matches | 11 |
+| Wins | 1 |
+| Losses | 10 |
+| Draws | 0 |
+
 
 ### Match History
 

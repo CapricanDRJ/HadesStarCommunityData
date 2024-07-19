@@ -1,6 +1,15 @@
 # Неизбежный Рок
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1348 |
+| ELO Competitive | 1468 |
+| Total Matches | 69 |
+| Wins | 45 |
+| Losses | 23 |
+| Draws | 1 |
+| Streak Record | 7 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

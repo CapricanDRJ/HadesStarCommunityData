@@ -1,6 +1,16 @@
 # 对，进就进人少的（分团）
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1195 |
+| ELO Competitive | 1202 |
+| Total Matches | 7 |
+| Wins | 3 |
+| Losses | 4 |
+| Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
+
 
 ### Match History
 

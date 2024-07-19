@@ -1,6 +1,16 @@
 # ItaFederalFleet
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1311 |
+| ELO Competitive | 1323 |
+| Total Matches | 20 |
+| Wins | 14 |
+| Losses | 5 |
+| Draws | 1 |
+| Streak | 2 |
+| Streak Record | 4 |
+
 
 ### Match History
 

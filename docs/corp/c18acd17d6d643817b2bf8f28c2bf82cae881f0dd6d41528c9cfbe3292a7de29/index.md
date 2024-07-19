@@ -1,6 +1,15 @@
 # 探索舰队
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1116 |
+| ELO Competitive | 1168 |
+| Total Matches | 14 |
+| Wins | 3 |
+| Losses | 10 |
+| Draws | 1 |
+| Streak Record | 2 |
+
 
 ### Match History
 

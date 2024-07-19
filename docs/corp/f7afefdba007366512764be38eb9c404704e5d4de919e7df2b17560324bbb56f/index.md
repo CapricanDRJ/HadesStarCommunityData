@@ -1,6 +1,15 @@
 # The Seperatists
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1186 |
+| ELO Competitive | 1264 |
+| Total Matches | 34 |
+| Wins | 15 |
+| Losses | 19 |
+| Draws | 0 |
+| Streak Record | 3 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

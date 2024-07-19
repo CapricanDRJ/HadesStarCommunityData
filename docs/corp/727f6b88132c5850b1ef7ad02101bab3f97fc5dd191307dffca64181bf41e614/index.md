@@ -1,6 +1,16 @@
 # STRVS233～
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1237 |
+| ELO Competitive | 1255 |
+| Total Matches | 17 |
+| Wins | 10 |
+| Losses | 7 |
+| Draws | 0 |
+| Streak | 3 |
+| Streak Record | 3 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

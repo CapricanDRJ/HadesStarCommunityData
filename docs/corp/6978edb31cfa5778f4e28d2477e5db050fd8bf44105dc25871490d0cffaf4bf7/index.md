@@ -1,6 +1,15 @@
 # Int. Trading Co
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1300 |
+| ELO Competitive | 1339 |
+| Total Matches | 26 |
+| Wins | 16 |
+| Losses | 9 |
+| Draws | 1 |
+| Streak Record | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

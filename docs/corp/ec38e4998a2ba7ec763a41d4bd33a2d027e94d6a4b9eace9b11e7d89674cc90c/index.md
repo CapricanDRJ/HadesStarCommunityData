@@ -1,6 +1,16 @@
 # StarControl
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1381 |
+| ELO Competitive | 1428 |
+| Total Matches | 23 |
+| Wins | 18 |
+| Losses | 5 |
+| Draws | 0 |
+| Streak | 5 |
+| Streak Record | 6 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

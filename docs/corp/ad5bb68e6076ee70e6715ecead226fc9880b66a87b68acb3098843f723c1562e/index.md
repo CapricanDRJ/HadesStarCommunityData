@@ -1,6 +1,15 @@
 # Game of Stars
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1141 |
+| ELO Competitive | 1165 |
+| Total Matches | 24 |
+| Wins | 7 |
+| Losses | 17 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

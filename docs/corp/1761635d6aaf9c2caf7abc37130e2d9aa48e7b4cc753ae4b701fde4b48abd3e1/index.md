@@ -1,6 +1,15 @@
 # Pyke Syndicate
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1054 |
+| ELO Competitive | 1084 |
+| Total Matches | 21 |
+| Wins | 2 |
+| Losses | 18 |
+| Draws | 1 |
+| Streak Record | 2 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

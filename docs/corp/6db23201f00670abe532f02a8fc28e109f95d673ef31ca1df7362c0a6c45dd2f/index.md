@@ -1,6 +1,15 @@
 # (_(_Vossk_)_)
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1179 |
+| ELO Competitive | 1210 |
+| Total Matches | 24 |
+| Wins | 10 |
+| Losses | 14 |
+| Draws | 0 |
+| Streak Record | 3 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

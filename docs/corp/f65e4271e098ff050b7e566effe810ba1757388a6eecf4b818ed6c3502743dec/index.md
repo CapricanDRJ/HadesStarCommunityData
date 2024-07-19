@@ -1,6 +1,15 @@
 # 宇宙联盟（中国）
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1099 |
+| ELO Competitive | 1218 |
+| Total Matches | 42 |
+| Wins | 12 |
+| Losses | 27 |
+| Draws | 3 |
+| Streak Record | 3 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

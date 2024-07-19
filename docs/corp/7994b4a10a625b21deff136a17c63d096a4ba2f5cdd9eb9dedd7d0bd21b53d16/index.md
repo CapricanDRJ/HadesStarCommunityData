@@ -1,6 +1,15 @@
 # РусКорп
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1218 |
+| ELO Competitive | 1263 |
+| Total Matches | 20 |
+| Wins | 11 |
+| Losses | 9 |
+| Draws | 0 |
+| Streak Record | 3 |
+
 
 ### Match History
 

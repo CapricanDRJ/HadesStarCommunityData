@@ -1,6 +1,15 @@
 # challenger corp
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1220 |
+| ELO Competitive | 1243 |
+| Total Matches | 16 |
+| Wins | 9 |
+| Losses | 7 |
+| Draws | 0 |
+| Streak Record | 3 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

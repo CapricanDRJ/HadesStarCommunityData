@@ -1,6 +1,16 @@
 # sk cz nebula
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1329 |
+| ELO Competitive | 1352 |
+| Total Matches | 13 |
+| Wins | 11 |
+| Losses | 2 |
+| Draws | 0 |
+| Streak | 6 |
+| Streak Record | 6 |
+
 
 ### Match History
 

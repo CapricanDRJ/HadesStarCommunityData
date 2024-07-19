@@ -1,6 +1,15 @@
 # 🌪TORNADO 
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1183 |
+| ELO Competitive | 1209 |
+| Total Matches | 17 |
+| Wins | 6 |
+| Losses | 8 |
+| Draws | 3 |
+| Streak Record | 3 |
+
 
 ### Match History
 

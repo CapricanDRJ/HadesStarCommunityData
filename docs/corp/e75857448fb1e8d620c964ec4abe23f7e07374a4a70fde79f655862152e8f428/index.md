@@ -1,6 +1,15 @@
 # BlackStar Order
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1330 |
+| ELO Competitive | 1547 |
+| Total Matches | 72 |
+| Wins | 44 |
+| Losses | 28 |
+| Draws | 0 |
+| Streak Record | 5 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

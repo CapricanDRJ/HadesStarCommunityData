@@ -1,6 +1,14 @@
 # Solysis
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1137 |
+| ELO Competitive | 1150 |
+| Total Matches | 10 |
+| Wins | 3 |
+| Losses | 7 |
+| Draws | 0 |
+
 
 ### Match History
 

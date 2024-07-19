@@ -1,6 +1,14 @@
 # α阿尔法
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1189 |
+| ELO Competitive | 1189 |
+| Total Matches | 1 |
+| Wins | 0 |
+| Losses | 1 |
+| Draws | 0 |
+
 
 ### Match History
 

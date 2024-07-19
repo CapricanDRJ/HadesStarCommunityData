@@ -1,6 +1,15 @@
 # Галактика Зла
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1225 |
+| ELO Competitive | 1238 |
+| Total Matches | 25 |
+| Wins | 11 |
+| Losses | 14 |
+| Draws | 0 |
+| Streak Record | 4 |
+
 
 ### Match History
 

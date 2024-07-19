@@ -1,6 +1,15 @@
 # Orden Estelar 
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1207 |
+| ELO Competitive | 1216 |
+| Total Matches | 15 |
+| Wins | 7 |
+| Losses | 7 |
+| Draws | 1 |
+| Streak Record | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

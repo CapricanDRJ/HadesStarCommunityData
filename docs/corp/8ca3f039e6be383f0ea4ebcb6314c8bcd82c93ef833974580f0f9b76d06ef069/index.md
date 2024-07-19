@@ -1,6 +1,16 @@
 # KINETIC
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1313 |
+| ELO Competitive | 1316 |
+| Total Matches | 8 |
+| Wins | 8 |
+| Losses | 0 |
+| Draws | 0 |
+| Streak | 8 |
+| Streak Record | 8 |
+
 
 ### Match History
 

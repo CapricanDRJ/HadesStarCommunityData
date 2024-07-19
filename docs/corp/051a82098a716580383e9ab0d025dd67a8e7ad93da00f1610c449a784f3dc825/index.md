@@ -1,6 +1,15 @@
 #  RELAX CZ/SK
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1363 |
+| ELO Competitive | 1475 |
+| Total Matches | 70 |
+| Wins | 50 |
+| Losses | 20 |
+| Draws | 0 |
+| Streak Record | 14 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

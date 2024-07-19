@@ -1,6 +1,15 @@
 # Bunker
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1215 |
+| ELO Competitive | 1382 |
+| Total Matches | 50 |
+| Wins | 26 |
+| Losses | 23 |
+| Draws | 1 |
+| Streak Record | 6 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

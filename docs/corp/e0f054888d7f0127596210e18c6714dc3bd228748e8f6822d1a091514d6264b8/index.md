@@ -1,6 +1,14 @@
 # 蓝色星系一号分盟
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1160 |
+| ELO Competitive | 1166 |
+| Total Matches | 3 |
+| Wins | 0 |
+| Losses | 3 |
+| Draws | 0 |
+
 
 ### Match History
 

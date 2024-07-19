@@ -1,6 +1,14 @@
 # 001-23
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1066 |
+| ELO Competitive | 1070 |
+| Total Matches | 11 |
+| Wins | 0 |
+| Losses | 11 |
+| Draws | 0 |
+
 
 ### Match History
 

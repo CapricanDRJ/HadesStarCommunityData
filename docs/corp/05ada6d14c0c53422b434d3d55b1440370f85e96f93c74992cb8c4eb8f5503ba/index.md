@@ -1,6 +1,15 @@
 # BrinySeal
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1333 |
+| ELO Competitive | 1380 |
+| Total Matches | 51 |
+| Wins | 33 |
+| Losses | 15 |
+| Draws | 3 |
+| Streak Record | 9 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

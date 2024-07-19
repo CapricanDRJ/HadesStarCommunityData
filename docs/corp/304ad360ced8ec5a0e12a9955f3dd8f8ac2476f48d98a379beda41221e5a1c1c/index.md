@@ -1,6 +1,14 @@
 # Stardust
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1086 |
+| ELO Competitive | 1131 |
+| Total Matches | 18 |
+| Wins | 2 |
+| Losses | 16 |
+| Draws | 0 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

@@ -1,6 +1,15 @@
 # Ironbear Legion
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1123 |
+| ELO Competitive | 1178 |
+| Total Matches | 39 |
+| Wins | 14 |
+| Losses | 25 |
+| Draws | 0 |
+| Streak Record | 7 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

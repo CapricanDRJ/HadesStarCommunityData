@@ -1,6 +1,15 @@
 # 自由星际联盟
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1007 |
+| ELO Competitive | 1080 |
+| Total Matches | 36 |
+| Wins | 5 |
+| Losses | 31 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

@@ -1,6 +1,15 @@
 # 두빛나래
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1161 |
+| ELO Competitive | 1220 |
+| Total Matches | 27 |
+| Wins | 11 |
+| Losses | 16 |
+| Draws | 0 |
+| Streak Record | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

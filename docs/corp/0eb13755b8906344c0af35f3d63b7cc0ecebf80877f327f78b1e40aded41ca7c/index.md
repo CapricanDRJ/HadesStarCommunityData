@@ -1,6 +1,14 @@
 # Ukr alliance 
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1175 |
+| ELO Competitive | 1175 |
+| Total Matches | 5 |
+| Wins | 1 |
+| Losses | 3 |
+| Draws | 1 |
+
 
 ### Match History
 

@@ -1,6 +1,14 @@
 # The Gathering
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1176 |
+| ELO Competitive | 1176 |
+| Total Matches | 4 |
+| Wins | 1 |
+| Losses | 3 |
+| Draws | 0 |
+
 
 ### Match History
 

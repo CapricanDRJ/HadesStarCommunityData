@@ -1,6 +1,15 @@
 # Black Sun
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1119 |
+| ELO Competitive | 1149 |
+| Total Matches | 20 |
+| Wins | 6 |
+| Losses | 13 |
+| Draws | 1 |
+| Streak Record | 3 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

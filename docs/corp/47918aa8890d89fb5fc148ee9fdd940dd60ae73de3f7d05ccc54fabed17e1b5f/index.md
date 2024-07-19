@@ -1,6 +1,15 @@
 # j g f h me t y 
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1146 |
+| ELO Competitive | 1147 |
+| Total Matches | 15 |
+| Wins | 5 |
+| Losses | 9 |
+| Draws | 1 |
+| Streak Record | 3 |
+
 
 ### Match History
 

@@ -1,6 +1,15 @@
 # 脉冲星际集团
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1116 |
+| ELO Competitive | 1288 |
+| Total Matches | 43 |
+| Wins | 20 |
+| Losses | 22 |
+| Draws | 1 |
+| Streak Record | 6 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

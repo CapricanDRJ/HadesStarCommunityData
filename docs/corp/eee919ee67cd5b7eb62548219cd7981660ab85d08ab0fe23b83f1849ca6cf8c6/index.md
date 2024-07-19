@@ -1,6 +1,15 @@
 # On en a Gros ! 
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1196 |
+| ELO Competitive | 1325 |
+| Total Matches | 47 |
+| Wins | 23 |
+| Losses | 24 |
+| Draws | 0 |
+| Streak Record | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

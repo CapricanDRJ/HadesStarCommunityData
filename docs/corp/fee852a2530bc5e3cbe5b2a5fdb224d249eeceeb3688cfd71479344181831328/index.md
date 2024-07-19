@@ -1,6 +1,16 @@
 # Red Dawn
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1296 |
+| ELO Competitive | 1394 |
+| Total Matches | 45 |
+| Wins | 27 |
+| Losses | 17 |
+| Draws | 1 |
+| Streak | 3 |
+| Streak Record | 6 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

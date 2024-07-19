@@ -1,6 +1,14 @@
 # 德意志阿尔法帝国
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1203 |
+| ELO Competitive | 1204 |
+| Total Matches | 2 |
+| Wins | 1 |
+| Losses | 1 |
+| Draws | 0 |
+
 
 ### Match History
 

@@ -1,6 +1,16 @@
 # Free Ag3nts
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1245 |
+| ELO Competitive | 1252 |
+| Total Matches | 3 |
+| Wins | 3 |
+| Losses | 0 |
+| Draws | 0 |
+| Streak | 3 |
+| Streak Record | 3 |
+
 
 ### Match History
 

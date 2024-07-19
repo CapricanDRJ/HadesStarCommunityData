@@ -1,6 +1,14 @@
 # Star Dust
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1191 |
+| ELO Competitive | 1190 |
+| Total Matches | 5 |
+| Wins | 2 |
+| Losses | 3 |
+| Draws | 0 |
+
 
 ### Match History
 

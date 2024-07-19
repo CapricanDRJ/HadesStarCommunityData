@@ -1,6 +1,16 @@
 # 붉은늑대
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1186 |
+| ELO Competitive | 1347 |
+| Total Matches | 69 |
+| Wins | 32 |
+| Losses | 37 |
+| Draws | 0 |
+| Streak | 2 |
+| Streak Record | 6 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

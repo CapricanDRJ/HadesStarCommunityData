@@ -1,6 +1,16 @@
 # Order of Hades
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1388 |
+| ELO Competitive | 1475 |
+| Total Matches | 65 |
+| Wins | 49 |
+| Losses | 16 |
+| Draws | 0 |
+| Streak | 4 |
+| Streak Record | 18 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

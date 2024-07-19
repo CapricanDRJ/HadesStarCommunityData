@@ -1,6 +1,14 @@
 # NASA Air base
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1097 |
+| ELO Competitive | 1098 |
+| Total Matches | 10 |
+| Wins | 0 |
+| Losses | 8 |
+| Draws | 2 |
+
 
 ### Match History
 

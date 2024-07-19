@@ -1,6 +1,14 @@
 # From the Fire
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1176 |
+| ELO Competitive | 1176 |
+| Total Matches | 6 |
+| Wins | 2 |
+| Losses | 4 |
+| Draws | 0 |
+
 
 ### Match History
 

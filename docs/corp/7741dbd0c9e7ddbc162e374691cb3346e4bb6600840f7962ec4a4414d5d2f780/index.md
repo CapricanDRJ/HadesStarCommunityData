@@ -1,6 +1,16 @@
 # Tuatha De Danan
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1415 |
+| ELO Competitive | 1473 |
+| Total Matches | 54 |
+| Wins | 43 |
+| Losses | 11 |
+| Draws | 0 |
+| Streak | 2 |
+| Streak Record | 13 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

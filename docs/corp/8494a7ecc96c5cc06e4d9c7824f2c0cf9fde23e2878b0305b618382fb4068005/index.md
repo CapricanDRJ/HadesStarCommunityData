@@ -1,6 +1,15 @@
 # 黑色长城
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1124 |
+| ELO Competitive | 1131 |
+| Total Matches | 11 |
+| Wins | 2 |
+| Losses | 8 |
+| Draws | 1 |
+| Streak Record | 2 |
+
 
 ### Match History
 

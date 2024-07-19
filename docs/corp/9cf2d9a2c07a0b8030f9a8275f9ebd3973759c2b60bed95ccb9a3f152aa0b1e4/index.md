@@ -1,6 +1,16 @@
 # 星海扬帆
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1228 |
+| ELO Competitive | 1330 |
+| Total Matches | 32 |
+| Wins | 17 |
+| Losses | 15 |
+| Draws | 0 |
+| Streak | 3 |
+| Streak Record | 3 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

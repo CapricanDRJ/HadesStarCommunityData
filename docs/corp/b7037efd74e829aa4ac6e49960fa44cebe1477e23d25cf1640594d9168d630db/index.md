@@ -1,6 +1,16 @@
 # Rising star
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1156 |
+| ELO Competitive | 1212 |
+| Total Matches | 43 |
+| Wins | 17 |
+| Losses | 26 |
+| Draws | 0 |
+| Streak | 2 |
+| Streak Record | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

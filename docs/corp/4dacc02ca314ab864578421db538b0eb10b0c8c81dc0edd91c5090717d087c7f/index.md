@@ -1,6 +1,15 @@
 # Armored Union 
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1238 |
+| ELO Competitive | 1321 |
+| Total Matches | 30 |
+| Wins | 17 |
+| Losses | 13 |
+| Draws | 0 |
+| Streak Record | 3 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

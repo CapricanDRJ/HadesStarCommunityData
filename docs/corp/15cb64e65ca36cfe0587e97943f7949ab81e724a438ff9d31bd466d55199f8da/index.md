@@ -1,6 +1,14 @@
 # Fr_Corp
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1186 |
+| ELO Competitive | 1186 |
+| Total Matches | 1 |
+| Wins | 0 |
+| Losses | 1 |
+| Draws | 0 |
+
 
 ### Match History
 

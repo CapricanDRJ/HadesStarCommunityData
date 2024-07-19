@@ -1,6 +1,16 @@
 # HAL
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1242 |
+| ELO Competitive | 1242 |
+| Total Matches | 4 |
+| Wins | 3 |
+| Losses | 0 |
+| Draws | 1 |
+| Streak | 3 |
+| Streak Record | 3 |
+
 
 ### Match History
 

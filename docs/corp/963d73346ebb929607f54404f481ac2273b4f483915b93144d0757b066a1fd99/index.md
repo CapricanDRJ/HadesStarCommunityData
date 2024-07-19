@@ -1,6 +1,15 @@
 # Вселенские 40%
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1186 |
+| ELO Competitive | 1235 |
+| Total Matches | 38 |
+| Wins | 18 |
+| Losses | 20 |
+| Draws | 0 |
+| Streak Record | 6 |
+
 
 ### Match History
 

@@ -1,6 +1,14 @@
 # Quin Armarda
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1167 |
+| ELO Competitive | 1172 |
+| Total Matches | 2 |
+| Wins | 0 |
+| Losses | 2 |
+| Draws | 0 |
+
 
 ### Match History
 

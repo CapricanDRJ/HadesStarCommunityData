@@ -1,6 +1,15 @@
 # 云浪度假村↕
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1140 |
+| ELO Competitive | 1146 |
+| Total Matches | 9 |
+| Wins | 2 |
+| Losses | 6 |
+| Draws | 1 |
+| Streak Record | 2 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

@@ -1,6 +1,15 @@
 # Deadspace
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1131 |
+| ELO Competitive | 1181 |
+| Total Matches | 38 |
+| Wins | 15 |
+| Losses | 23 |
+| Draws | 0 |
+| Streak Record | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

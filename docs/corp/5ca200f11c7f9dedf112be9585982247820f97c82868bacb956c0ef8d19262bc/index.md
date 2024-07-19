@@ -1,6 +1,15 @@
 # Empire of Light
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1162 |
+| ELO Competitive | 1196 |
+| Total Matches | 18 |
+| Wins | 7 |
+| Losses | 11 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 
 ### Match History
 

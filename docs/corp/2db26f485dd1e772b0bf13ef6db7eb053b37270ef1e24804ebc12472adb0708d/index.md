@@ -1,6 +1,15 @@
 # ZN•H2B
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1152 |
+| ELO Competitive | 1167 |
+| Total Matches | 13 |
+| Wins | 4 |
+| Losses | 9 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 
 ### Match History
 

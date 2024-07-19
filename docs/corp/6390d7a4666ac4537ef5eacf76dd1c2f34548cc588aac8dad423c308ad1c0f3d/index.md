@@ -1,6 +1,15 @@
 # 水晶星际集团
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1075 |
+| ELO Competitive | 1099 |
+| Total Matches | 24 |
+| Wins | 5 |
+| Losses | 19 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 
 ### Match History
 

@@ -1,6 +1,16 @@
 # 地球联合
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1314 |
+| ELO Competitive | 1334 |
+| Total Matches | 15 |
+| Wins | 12 |
+| Losses | 3 |
+| Draws | 0 |
+| Streak | 2 |
+| Streak Record | 6 |
+
 
 ### Match History
 

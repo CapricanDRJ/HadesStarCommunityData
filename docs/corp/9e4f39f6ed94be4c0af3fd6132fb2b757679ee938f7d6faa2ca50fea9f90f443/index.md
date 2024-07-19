@@ -1,6 +1,14 @@
 # Uniones
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1139 |
+| ELO Competitive | 1146 |
+| Total Matches | 6 |
+| Wins | 0 |
+| Losses | 4 |
+| Draws | 2 |
+
 
 ### Match History
 

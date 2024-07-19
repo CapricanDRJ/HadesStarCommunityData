@@ -1,6 +1,15 @@
 # Venture
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1087 |
+| ELO Competitive | 1136 |
+| Total Matches | 34 |
+| Wins | 8 |
+| Losses | 22 |
+| Draws | 4 |
+| Streak Record | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

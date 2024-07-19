@@ -1,6 +1,15 @@
 # BattleCo
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1236 |
+| ELO Competitive | 1285 |
+| Total Matches | 35 |
+| Wins | 21 |
+| Losses | 14 |
+| Draws | 0 |
+| Streak Record | 5 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

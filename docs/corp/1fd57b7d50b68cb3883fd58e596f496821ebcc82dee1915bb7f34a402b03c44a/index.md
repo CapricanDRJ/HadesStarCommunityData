@@ -1,6 +1,16 @@
 # Scar
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1309 |
+| ELO Competitive | 1345 |
+| Total Matches | 41 |
+| Wins | 24 |
+| Losses | 16 |
+| Draws | 1 |
+| Streak | 3 |
+| Streak Record | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

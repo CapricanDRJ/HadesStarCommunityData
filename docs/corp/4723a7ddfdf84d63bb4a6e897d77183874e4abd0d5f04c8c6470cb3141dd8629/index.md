@@ -1,6 +1,15 @@
 # Red Suns
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1196 |
+| ELO Competitive | 1236 |
+| Total Matches | 32 |
+| Wins | 15 |
+| Losses | 17 |
+| Draws | 0 |
+| Streak Record | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

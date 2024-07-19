@@ -1,6 +1,14 @@
 # Рагнарёк
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1175 |
+| ELO Competitive | 1174 |
+| Total Matches | 2 |
+| Wins | 0 |
+| Losses | 2 |
+| Draws | 0 |
+
 
 ### Match History
 

@@ -1,6 +1,15 @@
 # Star Wars
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1211 |
+| ELO Competitive | 1232 |
+| Total Matches | 17 |
+| Wins | 9 |
+| Losses | 8 |
+| Draws | 0 |
+| Streak Record | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

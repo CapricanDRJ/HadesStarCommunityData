@@ -1,6 +1,15 @@
 # Blue Space
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1194 |
+| ELO Competitive | 1213 |
+| Total Matches | 9 |
+| Wins | 4 |
+| Losses | 5 |
+| Draws | 0 |
+| Streak Record | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

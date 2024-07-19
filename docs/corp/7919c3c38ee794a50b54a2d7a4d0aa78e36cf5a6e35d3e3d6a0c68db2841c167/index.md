@@ -1,6 +1,15 @@
 # Prospectors
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1217 |
+| ELO Competitive | 1223 |
+| Total Matches | 8 |
+| Wins | 4 |
+| Losses | 3 |
+| Draws | 1 |
+| Streak Record | 3 |
+
 
 ### Match History
 

@@ -1,6 +1,15 @@
 # Gemini↕     ☁
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1145 |
+| ELO Competitive | 1155 |
+| Total Matches | 13 |
+| Wins | 3 |
+| Losses | 9 |
+| Draws | 1 |
+| Streak Record | 2 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

@@ -1,6 +1,16 @@
 # 2ND-R8 Corp.
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1288 |
+| ELO Competitive | 1340 |
+| Total Matches | 33 |
+| Wins | 19 |
+| Losses | 14 |
+| Draws | 0 |
+| Streak | 6 |
+| Streak Record | 6 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

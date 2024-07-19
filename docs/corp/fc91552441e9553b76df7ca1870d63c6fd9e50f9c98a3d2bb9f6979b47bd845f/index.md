@@ -1,6 +1,15 @@
 # the heavy
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1225 |
+| ELO Competitive | 1246 |
+| Total Matches | 19 |
+| Wins | 10 |
+| Losses | 9 |
+| Draws | 0 |
+| Streak Record | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

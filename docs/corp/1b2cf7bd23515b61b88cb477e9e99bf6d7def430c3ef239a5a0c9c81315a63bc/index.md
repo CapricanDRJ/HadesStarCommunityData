@@ -1,6 +1,14 @@
 # 德尔塔星舰联盟
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1185 |
+| ELO Competitive | 1186 |
+| Total Matches | 1 |
+| Wins | 0 |
+| Losses | 1 |
+| Draws | 0 |
+
 
 ### Match History
 

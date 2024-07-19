@@ -1,6 +1,16 @@
 # Osmium Star llc
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1313 |
+| ELO Competitive | 1322 |
+| Total Matches | 9 |
+| Wins | 9 |
+| Losses | 0 |
+| Draws | 0 |
+| Streak | 9 |
+| Streak Record | 9 |
+
 
 ### Match History
 

@@ -1,6 +1,16 @@
 # 中国星系集团
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1287 |
+| ELO Competitive | 1290 |
+| Total Matches | 8 |
+| Wins | 7 |
+| Losses | 1 |
+| Draws | 0 |
+| Streak | 2 |
+| Streak Record | 5 |
+
 
 ### Match History
 

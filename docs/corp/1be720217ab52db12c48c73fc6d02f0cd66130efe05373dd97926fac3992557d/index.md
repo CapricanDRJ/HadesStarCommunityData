@@ -1,6 +1,15 @@
 # UAGC
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1243 |
+| ELO Competitive | 1330 |
+| Total Matches | 37 |
+| Wins | 21 |
+| Losses | 16 |
+| Draws | 0 |
+| Streak Record | 5 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

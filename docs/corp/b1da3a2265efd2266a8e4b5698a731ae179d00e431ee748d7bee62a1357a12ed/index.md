@@ -1,6 +1,16 @@
 # *Alfa y Omega*
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1252 |
+| ELO Competitive | 1268 |
+| Total Matches | 9 |
+| Wins | 6 |
+| Losses | 3 |
+| Draws | 0 |
+| Streak | 3 |
+| Streak Record | 3 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

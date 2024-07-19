@@ -1,6 +1,15 @@
 # Newbs
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1314 |
+| ELO Competitive | 1364 |
+| Total Matches | 38 |
+| Wins | 26 |
+| Losses | 11 |
+| Draws | 1 |
+| Streak Record | 12 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

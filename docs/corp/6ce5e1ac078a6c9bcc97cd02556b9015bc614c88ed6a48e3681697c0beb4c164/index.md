@@ -1,6 +1,15 @@
 # Saiyan Empire
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1175 |
+| ELO Competitive | 1183 |
+| Total Matches | 10 |
+| Wins | 4 |
+| Losses | 6 |
+| Draws | 0 |
+| Streak Record | 4 |
+
 
 ### Match History
 

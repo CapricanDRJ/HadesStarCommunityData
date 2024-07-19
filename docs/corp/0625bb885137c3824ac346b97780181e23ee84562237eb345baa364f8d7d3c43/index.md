@@ -1,6 +1,15 @@
 # Moon Catchers
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1165 |
+| ELO Competitive | 1204 |
+| Total Matches | 30 |
+| Wins | 13 |
+| Losses | 16 |
+| Draws | 1 |
+| Streak Record | 5 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

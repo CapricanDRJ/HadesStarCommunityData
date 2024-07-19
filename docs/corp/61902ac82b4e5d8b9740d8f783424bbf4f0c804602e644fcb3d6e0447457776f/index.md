@@ -1,6 +1,15 @@
 # ZORG IND
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1222 |
+| ELO Competitive | 1229 |
+| Total Matches | 3 |
+| Wins | 2 |
+| Losses | 1 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 
 ### Match History
 

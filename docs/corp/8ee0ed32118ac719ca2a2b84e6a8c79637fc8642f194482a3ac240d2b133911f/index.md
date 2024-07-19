@@ -1,6 +1,15 @@
 # Interstellar
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1172 |
+| ELO Competitive | 1336 |
+| Total Matches | 49 |
+| Wins | 23 |
+| Losses | 26 |
+| Draws | 0 |
+| Streak Record | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

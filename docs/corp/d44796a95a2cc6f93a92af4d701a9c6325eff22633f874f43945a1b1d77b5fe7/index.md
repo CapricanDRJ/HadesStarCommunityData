@@ -1,6 +1,15 @@
 # Ul'Adri
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1209 |
+| ELO Competitive | 1222 |
+| Total Matches | 20 |
+| Wins | 10 |
+| Losses | 10 |
+| Draws | 0 |
+| Streak Record | 5 |
+
 
 ### Match History
 

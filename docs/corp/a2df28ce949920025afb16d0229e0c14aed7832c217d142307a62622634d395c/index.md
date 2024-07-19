@@ -1,6 +1,15 @@
 # The Elite
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1190 |
+| ELO Competitive | 1207 |
+| Total Matches | 24 |
+| Wins | 12 |
+| Losses | 12 |
+| Draws | 0 |
+| Streak Record | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

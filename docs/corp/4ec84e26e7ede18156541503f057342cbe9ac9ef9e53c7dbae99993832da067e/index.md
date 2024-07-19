@@ -1,6 +1,15 @@
 # Legion Prime
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1198 |
+| ELO Competitive | 1218 |
+| Total Matches | 22 |
+| Wins | 11 |
+| Losses | 11 |
+| Draws | 0 |
+| Streak Record | 3 |
+
 
 ### Match History
 

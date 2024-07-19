@@ -1,6 +1,15 @@
 # Providence
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1321 |
+| ELO Competitive | 1381 |
+| Total Matches | 38 |
+| Wins | 26 |
+| Losses | 12 |
+| Draws | 0 |
+| Streak Record | 11 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

@@ -1,6 +1,14 @@
 # 荣耀之星
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1171 |
+| ELO Competitive | 1225 |
+| Total Matches | 14 |
+| Wins | 5 |
+| Losses | 7 |
+| Draws | 2 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

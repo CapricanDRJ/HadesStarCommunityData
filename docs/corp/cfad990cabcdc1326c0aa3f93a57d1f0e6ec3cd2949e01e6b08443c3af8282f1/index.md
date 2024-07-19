@@ -1,6 +1,15 @@
 # EZCO
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1219 |
+| ELO Competitive | 1281 |
+| Total Matches | 27 |
+| Wins | 13 |
+| Losses | 13 |
+| Draws | 1 |
+| Streak Record | 6 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

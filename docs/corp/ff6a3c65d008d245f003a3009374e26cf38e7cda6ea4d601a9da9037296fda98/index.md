@@ -1,6 +1,15 @@
 # YETI Collective
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1089 |
+| ELO Competitive | 1191 |
+| Total Matches | 47 |
+| Wins | 18 |
+| Losses | 29 |
+| Draws | 0 |
+| Streak Record | 7 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

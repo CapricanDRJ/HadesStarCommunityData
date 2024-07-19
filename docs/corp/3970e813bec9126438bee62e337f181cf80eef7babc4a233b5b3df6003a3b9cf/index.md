@@ -1,6 +1,14 @@
 # Free Star
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1156 |
+| ELO Competitive | 1202 |
+| Total Matches | 13 |
+| Wins | 5 |
+| Losses | 8 |
+| Draws | 0 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

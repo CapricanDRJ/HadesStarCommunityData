@@ -1,6 +1,16 @@
 # Likapa
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1597 |
+| ELO Competitive | 1570 |
+| Total Matches | 62 |
+| Wins | 57 |
+| Losses | 5 |
+| Draws | 0 |
+| Streak | 41 |
+| Streak Record | 41 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

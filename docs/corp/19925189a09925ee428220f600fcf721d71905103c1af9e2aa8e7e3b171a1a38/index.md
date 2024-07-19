@@ -1,6 +1,15 @@
 # First Legion
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1242 |
+| ELO Competitive | 1417 |
+| Total Matches | 68 |
+| Wins | 35 |
+| Losses | 32 |
+| Draws | 1 |
+| Streak Record | 5 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

@@ -1,6 +1,15 @@
 # CODEX IMPERIUS
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1129 |
+| ELO Competitive | 1147 |
+| Total Matches | 9 |
+| Wins | 2 |
+| Losses | 7 |
+| Draws | 0 |
+| Streak Record | 2 |
+
 
 ### Match History
 

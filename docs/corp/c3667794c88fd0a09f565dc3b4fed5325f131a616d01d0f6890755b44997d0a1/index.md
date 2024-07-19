@@ -1,6 +1,15 @@
 # 超新星联盟
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1207 |
+| ELO Competitive | 1215 |
+| Total Matches | 9 |
+| Wins | 5 |
+| Losses | 4 |
+| Draws | 0 |
+| Streak Record | 3 |
+
 
 ### Match History
 

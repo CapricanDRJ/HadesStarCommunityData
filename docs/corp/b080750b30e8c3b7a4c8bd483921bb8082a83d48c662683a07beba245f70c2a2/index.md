@@ -1,6 +1,14 @@
 # NEW HOLLAND
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1116 |
+| ELO Competitive | 1139 |
+| Total Matches | 10 |
+| Wins | 1 |
+| Losses | 8 |
+| Draws | 1 |
+
 
 ### Match History
 

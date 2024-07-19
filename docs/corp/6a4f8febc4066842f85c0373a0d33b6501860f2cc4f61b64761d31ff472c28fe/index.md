@@ -1,6 +1,16 @@
 # Quilliance
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1328 |
+| ELO Competitive | 1349 |
+| Total Matches | 15 |
+| Wins | 13 |
+| Losses | 2 |
+| Draws | 0 |
+| Streak | 2 |
+| Streak Record | 9 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

@@ -1,6 +1,15 @@
 # Lost Legion
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1107 |
+| ELO Competitive | 1175 |
+| Total Matches | 53 |
+| Wins | 19 |
+| Losses | 34 |
+| Draws | 0 |
+| Streak Record | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

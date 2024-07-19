@@ -1,6 +1,15 @@
 # Space Oddity
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1240 |
+| ELO Competitive | 1282 |
+| Total Matches | 24 |
+| Wins | 14 |
+| Losses | 10 |
+| Draws | 0 |
+| Streak Record | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

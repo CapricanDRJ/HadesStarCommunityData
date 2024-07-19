@@ -1,6 +1,15 @@
 # 9-Й СКОРПИОН
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1398 |
+| ELO Competitive | 1440 |
+| Total Matches | 30 |
+| Wins | 24 |
+| Losses | 6 |
+| Draws | 0 |
+| Streak Record | 14 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

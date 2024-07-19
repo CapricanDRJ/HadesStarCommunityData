@@ -1,6 +1,15 @@
 # Space Rangers
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1295 |
+| ELO Competitive | 1347 |
+| Total Matches | 26 |
+| Wins | 17 |
+| Losses | 9 |
+| Draws | 0 |
+| Streak Record | 4 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

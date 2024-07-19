@@ -1,6 +1,15 @@
 # TROLL SQUAD
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1256 |
+| ELO Competitive | 1261 |
+| Total Matches | 16 |
+| Wins | 11 |
+| Losses | 5 |
+| Draws | 0 |
+| Streak Record | 5 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

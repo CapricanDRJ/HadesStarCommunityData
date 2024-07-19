@@ -1,6 +1,16 @@
 # Justice Vengers
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1304 |
+| ELO Competitive | 1339 |
+| Total Matches | 12 |
+| Wins | 10 |
+| Losses | 2 |
+| Draws | 0 |
+| Streak | 6 |
+| Streak Record | 6 |
+
 
 ### Match History
 

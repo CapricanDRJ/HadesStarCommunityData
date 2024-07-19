@@ -1,6 +1,15 @@
 # pirates spatial
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1268 |
+| ELO Competitive | 1406 |
+| Total Matches | 66 |
+| Wins | 37 |
+| Losses | 29 |
+| Draws | 0 |
+| Streak Record | 9 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

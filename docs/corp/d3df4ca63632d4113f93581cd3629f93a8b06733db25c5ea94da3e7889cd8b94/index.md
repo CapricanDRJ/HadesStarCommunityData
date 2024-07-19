@@ -1,6 +1,15 @@
 # GalaxyNova
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1269 |
+| ELO Competitive | 1282 |
+| Total Matches | 9 |
+| Wins | 7 |
+| Losses | 2 |
+| Draws | 0 |
+| Streak Record | 6 |
+
 
 ### Match History
 

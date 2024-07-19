@@ -1,6 +1,14 @@
 # hades' star
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1185 |
+| ELO Competitive | 1186 |
+| Total Matches | 2 |
+| Wins | 0 |
+| Losses | 1 |
+| Draws | 1 |
+
 
 ### Match History
 

@@ -1,6 +1,14 @@
 # Tormenta
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1157 |
+| ELO Competitive | 1163 |
+| Total Matches | 6 |
+| Wins | 1 |
+| Losses | 5 |
+| Draws | 0 |
+
 
 ### Match History
 

@@ -1,6 +1,15 @@
 # 共产星际
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1430 |
+| ELO Competitive | 1474 |
+| Total Matches | 36 |
+| Wins | 31 |
+| Losses | 5 |
+| Draws | 0 |
+| Streak Record | 12 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

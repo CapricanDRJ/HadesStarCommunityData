@@ -1,6 +1,14 @@
 # Омикрон Альфа
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1215 |
+| ELO Competitive | 1215 |
+| Total Matches | 1 |
+| Wins | 1 |
+| Losses | 0 |
+| Draws | 0 |
+
 
 ### Match History
 

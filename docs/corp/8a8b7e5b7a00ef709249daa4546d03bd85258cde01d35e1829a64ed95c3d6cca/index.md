@@ -1,6 +1,16 @@
 # Lights Off 
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1321 |
+| ELO Competitive | 1350 |
+| Total Matches | 31 |
+| Wins | 23 |
+| Losses | 8 |
+| Draws | 0 |
+| Streak | 3 |
+| Streak Record | 10 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

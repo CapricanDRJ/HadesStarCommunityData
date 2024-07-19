@@ -1,6 +1,14 @@
 # 中国星际联盟·第一自治州
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1169 |
+| ELO Competitive | 1170 |
+| Total Matches | 2 |
+| Wins | 0 |
+| Losses | 2 |
+| Draws | 0 |
+
 
 ### Match History
 

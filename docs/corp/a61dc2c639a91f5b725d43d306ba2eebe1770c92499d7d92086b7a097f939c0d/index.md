@@ -1,6 +1,14 @@
 # Эдем
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1163 |
+| ELO Competitive | 1168 |
+| Total Matches | 9 |
+| Wins | 3 |
+| Losses | 6 |
+| Draws | 0 |
+
 
 ### Match History
 

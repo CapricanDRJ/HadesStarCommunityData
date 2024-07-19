@@ -1,6 +1,15 @@
 # Curcubeu
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1222 |
+| ELO Competitive | 1314 |
+| Total Matches | 27 |
+| Wins | 17 |
+| Losses | 10 |
+| Draws | 0 |
+| Streak Record | 8 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

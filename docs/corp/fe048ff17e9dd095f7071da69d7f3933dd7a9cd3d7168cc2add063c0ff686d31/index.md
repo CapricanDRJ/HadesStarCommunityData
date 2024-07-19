@@ -1,6 +1,16 @@
 # ●Black•Sails●
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1236 |
+| ELO Competitive | 1271 |
+| Total Matches | 22 |
+| Wins | 13 |
+| Losses | 9 |
+| Draws | 0 |
+| Streak | 3 |
+| Streak Record | 4 |
+
 
 ### Match History
 

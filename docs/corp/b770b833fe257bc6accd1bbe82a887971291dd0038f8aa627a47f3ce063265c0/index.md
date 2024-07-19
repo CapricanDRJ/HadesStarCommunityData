@@ -1,6 +1,15 @@
 # ЧВК "Котики"
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1302 |
+| ELO Competitive | 1340 |
+| Total Matches | 36 |
+| Wins | 20 |
+| Losses | 13 |
+| Draws | 3 |
+| Streak Record | 5 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

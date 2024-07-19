@@ -1,6 +1,14 @@
 # Gold Star
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1130 |
+| ELO Competitive | 1135 |
+| Total Matches | 12 |
+| Wins | 2 |
+| Losses | 9 |
+| Draws | 1 |
+
 
 ### Match History
 

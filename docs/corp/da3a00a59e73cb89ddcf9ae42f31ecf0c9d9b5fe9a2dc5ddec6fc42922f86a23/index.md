@@ -1,6 +1,15 @@
 # Midland Ind.
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1204 |
+| ELO Competitive | 1225 |
+| Total Matches | 18 |
+| Wins | 9 |
+| Losses | 9 |
+| Draws | 0 |
+| Streak Record | 3 |
+
 
 ### Match History
 

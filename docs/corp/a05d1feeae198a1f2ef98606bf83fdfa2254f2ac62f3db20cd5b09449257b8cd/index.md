@@ -1,6 +1,16 @@
 # DarkSide
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1250 |
+| ELO Competitive | 1393 |
+| Total Matches | 61 |
+| Wins | 27 |
+| Losses | 33 |
+| Draws | 1 |
+| Streak | 2 |
+| Streak Record | 6 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

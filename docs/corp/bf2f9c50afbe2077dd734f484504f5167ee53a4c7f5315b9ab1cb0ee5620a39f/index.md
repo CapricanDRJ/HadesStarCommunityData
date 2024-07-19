@@ -1,6 +1,15 @@
 # Nebulae Traders
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1126 |
+| ELO Competitive | 1162 |
+| Total Matches | 19 |
+| Wins | 4 |
+| Losses | 13 |
+| Draws | 2 |
+| Streak Record | 2 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

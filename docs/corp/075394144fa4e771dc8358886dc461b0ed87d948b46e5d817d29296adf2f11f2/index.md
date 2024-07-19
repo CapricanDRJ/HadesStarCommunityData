@@ -1,6 +1,15 @@
 # СНГ — РОССИЯ
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1139 |
+| ELO Competitive | 1182 |
+| Total Matches | 15 |
+| Wins | 4 |
+| Losses | 8 |
+| Draws | 3 |
+| Streak Record | 2 |
+
 
 ### Match History
 

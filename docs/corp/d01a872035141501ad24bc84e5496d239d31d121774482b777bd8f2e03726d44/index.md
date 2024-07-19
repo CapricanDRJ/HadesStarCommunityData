@@ -1,6 +1,15 @@
 # Crimson Dawn
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1159 |
+| ELO Competitive | 1186 |
+| Total Matches | 17 |
+| Wins | 7 |
+| Losses | 10 |
+| Draws | 0 |
+| Streak Record | 3 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

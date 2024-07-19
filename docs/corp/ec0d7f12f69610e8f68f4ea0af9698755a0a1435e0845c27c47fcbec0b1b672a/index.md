@@ -1,6 +1,16 @@
 # 星河绮梦
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1303 |
+| ELO Competitive | 1330 |
+| Total Matches | 10 |
+| Wins | 9 |
+| Losses | 1 |
+| Draws | 0 |
+| Streak | 4 |
+| Streak Record | 5 |
+
 
 ### Match History
 

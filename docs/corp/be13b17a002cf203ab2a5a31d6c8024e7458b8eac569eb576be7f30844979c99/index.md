@@ -1,6 +1,15 @@
 # Planet Express
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1268 |
+| ELO Competitive | 1276 |
+| Total Matches | 10 |
+| Wins | 7 |
+| Losses | 2 |
+| Draws | 1 |
+| Streak Record | 6 |
+
 
 ### Match History
 

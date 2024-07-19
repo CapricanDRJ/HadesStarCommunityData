@@ -1,6 +1,15 @@
 # BoomTech
 
-undefined
+| Statistic | Value |
+| --- | --- |
+| ELO Regular | 1331 |
+| ELO Competitive | 1356 |
+| Total Matches | 22 |
+| Wins | 17 |
+| Losses | 4 |
+| Draws | 1 |
+| Streak Record | 5 |
+
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
