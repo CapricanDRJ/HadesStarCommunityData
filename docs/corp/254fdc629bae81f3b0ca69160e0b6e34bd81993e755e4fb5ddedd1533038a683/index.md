@@ -1,11 +1,6 @@
 # Veteran's Haven
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1144 | 14 | 5 | 9 | 0 | 0 | 3 |
-
+undefined
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

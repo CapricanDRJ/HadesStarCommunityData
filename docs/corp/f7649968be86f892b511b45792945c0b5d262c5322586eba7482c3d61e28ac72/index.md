@@ -1,11 +1,6 @@
 # STARBLAZER 
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1171 | 6 | 2 | 4 | 0 | 0 | 1 |
-
+undefined
 
 ### Match History
 

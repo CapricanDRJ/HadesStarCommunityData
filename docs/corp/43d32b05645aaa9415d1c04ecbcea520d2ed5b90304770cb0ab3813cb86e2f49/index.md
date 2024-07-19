@@ -1,11 +1,6 @@
 # 붉은늑대
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1186 | 69 | 32 | 37 | 0 | 2 | 6 |
-
+undefined
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

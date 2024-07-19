@@ -1,11 +1,6 @@
 # Pyke Syndicate
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1054 | 21 | 2 | 18 | 1 | 0 | 2 |
-
+undefined
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

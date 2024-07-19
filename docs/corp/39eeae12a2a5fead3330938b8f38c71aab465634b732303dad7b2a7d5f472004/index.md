@@ -1,11 +1,6 @@
 # Север РусКорп
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1278 | 20 | 13 | 7 | 0 | 2 | 5 |
-
+undefined
 
 ### Match History
 

@@ -1,11 +1,6 @@
 # Vega Conflict
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1246 | 12 | 7 | 5 | 0 | 1 | 3 |
-
+undefined
 
 ### Match History
 

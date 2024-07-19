@@ -1,11 +1,6 @@
 # 共产星际
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1430 | 36 | 31 | 5 | 0 | 1 | 12 |
-
+undefined
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

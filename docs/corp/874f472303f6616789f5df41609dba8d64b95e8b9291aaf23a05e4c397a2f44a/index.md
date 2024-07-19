@@ -1,11 +1,6 @@
 # SUN OF 3LANDS
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1269 | 10 | 7 | 2 | 1 | 2 | 3 |
-
+undefined
 
 ### Match History
 

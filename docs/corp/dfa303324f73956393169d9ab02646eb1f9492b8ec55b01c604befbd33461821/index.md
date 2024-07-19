@@ -1,11 +1,6 @@
 # 𝖕𝖎𝖗𝖆𝖙𝖊𝖘
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1201 | 2 | 1 | 1 | 0 | 0 | 0 |
-
+undefined
 
 ### Match History
 

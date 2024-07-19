@@ -1,11 +1,6 @@
 # 欢迎国人
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1107 | 15 | 3 | 10 | 2 | 0 | 2 |
-
+undefined
 
 ### Match History
 

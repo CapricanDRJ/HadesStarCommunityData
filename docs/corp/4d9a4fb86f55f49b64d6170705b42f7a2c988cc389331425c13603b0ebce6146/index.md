@@ -1,11 +1,6 @@
 # Best UA West
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1144 | 4 | 0 | 4 | 0 | 0 | 0 |
-
+undefined
 
 ### Match History
 

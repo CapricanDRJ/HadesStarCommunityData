@@ -1,11 +1,6 @@
 # Скричеры
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1197 | 4 | 2 | 2 | 0 | 1 | 1 |
-
+undefined
 
 ### Match History
 

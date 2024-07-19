@@ -1,11 +1,6 @@
 # Nebula
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1083 | 18 | 4 | 14 | 0 | 0 | 2 |
-
+undefined
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

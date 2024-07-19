@@ -1,11 +1,6 @@
 # 八月政府
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1075 | 19 | 2 | 16 | 1 | 0 | 1 |
-
+undefined
 
 ### Match History
 

@@ -1,11 +1,6 @@
 # Toxic
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1138 | 7 | 1 | 6 | 0 | 0 | 1 |
-
+undefined
 
 ### Match History
 

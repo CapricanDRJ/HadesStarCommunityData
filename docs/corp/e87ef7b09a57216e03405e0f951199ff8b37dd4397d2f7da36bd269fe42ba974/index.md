@@ -1,11 +1,6 @@
 # Quadra FR
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1244 | 9 | 6 | 3 | 0 | 2 | 3 |
-
+undefined
 
 ### Match History
 

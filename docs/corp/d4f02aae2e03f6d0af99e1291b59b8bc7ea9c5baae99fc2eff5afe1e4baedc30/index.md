@@ -1,11 +1,6 @@
 # 日月星辰
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1214 | 3 | 2 | 1 | 0 | 0 | 2 |
-
+undefined
 
 ### Match History
 

@@ -1,11 +1,6 @@
 # 苏维埃联邦
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1048 | 16 | 0 | 14 | 2 | 0 | 0 |
-
+undefined
 
 ### Match History
 

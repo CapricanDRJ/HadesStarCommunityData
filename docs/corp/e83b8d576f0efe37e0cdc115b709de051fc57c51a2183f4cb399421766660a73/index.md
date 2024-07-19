@@ -1,11 +1,6 @@
 # Hades' 420
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1138 | 8 | 2 | 6 | 0 | 1 | 1 |
-
+undefined
 
 ### Match History
 

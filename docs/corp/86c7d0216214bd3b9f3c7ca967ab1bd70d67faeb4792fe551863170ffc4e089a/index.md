@@ -1,11 +1,6 @@
 #   边界  
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1247 | 5 | 4 | 1 | 0 | 4 | 4 |
-
+undefined
 
 ### Match History
 

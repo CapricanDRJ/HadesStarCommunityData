@@ -1,11 +1,6 @@
 # ItBurnsWhenIEMP
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1309 | 30 | 22 | 8 | 0 | 1 | 10 |
-
+undefined
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

@@ -1,11 +1,6 @@
 # Starlancer
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1016 | 18 | 0 | 18 | 0 | 0 | 0 |
-
+undefined
 
 ### Match History
 

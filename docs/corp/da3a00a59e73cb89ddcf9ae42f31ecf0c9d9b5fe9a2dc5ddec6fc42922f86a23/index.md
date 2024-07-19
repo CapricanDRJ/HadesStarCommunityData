@@ -1,11 +1,6 @@
 # Midland Ind.
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1204 | 18 | 9 | 9 | 0 | 0 | 3 |
-
+undefined
 
 ### Match History
 

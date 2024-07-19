@@ -1,11 +1,6 @@
 # Celtic Imperium
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1137 | 8 | 1 | 6 | 1 | 0 | 1 |
-
+undefined
 
 ### Match History
 

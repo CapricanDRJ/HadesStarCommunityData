@@ -1,11 +1,6 @@
 # UNNP
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1169 | 3 | 0 | 2 | 1 | 0 | 0 |
-
+undefined
 
 ### Match History
 

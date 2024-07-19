@@ -1,11 +1,6 @@
 # j g f h me t y 
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1146 | 15 | 5 | 9 | 1 | 0 | 3 |
-
+undefined
 
 ### Match History
 

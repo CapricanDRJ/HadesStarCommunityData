@@ -1,11 +1,6 @@
 # 咕咕咕咕咕咕咕咕咕咕咕咕咕咕咕
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1159 | 5 | 0 | 3 | 2 | 0 | 0 |
-
+undefined
 
 ### Match History
 

@@ -1,11 +1,6 @@
 # F.E.I.
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1182 | 3 | 0 | 1 | 2 | 0 | 0 |
-
+undefined
 
 ### Match History
 

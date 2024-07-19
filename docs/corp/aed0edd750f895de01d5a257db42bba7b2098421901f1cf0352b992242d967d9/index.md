@@ -1,11 +1,6 @@
 # Ws Polaris
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1098 | 18 | 3 | 13 | 2 | 0 | 1 |
-
+undefined
 
 ### Match History
 

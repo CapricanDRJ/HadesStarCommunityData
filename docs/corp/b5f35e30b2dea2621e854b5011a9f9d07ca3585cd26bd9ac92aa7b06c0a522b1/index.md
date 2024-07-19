@@ -1,11 +1,6 @@
 # 德意志第三帝国奥米加分部
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1105 | 17 | 3 | 11 | 3 | 0 | 1 |
-
+undefined
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

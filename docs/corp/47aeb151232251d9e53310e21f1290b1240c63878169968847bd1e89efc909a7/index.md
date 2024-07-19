@@ -1,11 +1,6 @@
 # Poggy Rockers
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1283 | 31 | 22 | 8 | 1 | 1 | 15 |
-
+undefined
 
 ### Match History
 

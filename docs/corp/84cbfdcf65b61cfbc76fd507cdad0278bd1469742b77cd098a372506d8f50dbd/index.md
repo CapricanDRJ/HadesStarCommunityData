@@ -1,11 +1,6 @@
 # Uchiha
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1103 | 16 | 3 | 12 | 1 | 0 | 1 |
-
+undefined
 
 ### Match History
 

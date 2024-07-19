@@ -1,11 +1,6 @@
 # 墨痕白星分部
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1213 | 16 | 9 | 7 | 0 | 0 | 5 |
-
+undefined
 
 ### Match History
 

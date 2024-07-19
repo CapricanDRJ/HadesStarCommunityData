@@ -1,11 +1,6 @@
 # Sector7
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1144 | 5 | 0 | 4 | 1 | 0 | 0 |
-
+undefined
 
 ### Match History
 

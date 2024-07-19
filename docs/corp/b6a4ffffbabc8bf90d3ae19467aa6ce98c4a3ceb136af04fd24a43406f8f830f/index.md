@@ -1,11 +1,6 @@
 # 아베노노
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1191 | 5 | 2 | 2 | 1 | 0 | 2 |
-
+undefined
 
 ### Match History
 

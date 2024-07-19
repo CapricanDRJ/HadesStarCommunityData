@@ -1,11 +1,6 @@
 # imperio estelar
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1150 | 4 | 0 | 4 | 0 | 0 | 0 |
-
+undefined
 
 ### Match History
 

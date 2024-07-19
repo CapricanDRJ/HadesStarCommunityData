@@ -1,11 +1,6 @@
 # Team Elite
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1191 | 4 | 1 | 2 | 1 | 0 | 1 |
-
+undefined
 
 ### Match History
 

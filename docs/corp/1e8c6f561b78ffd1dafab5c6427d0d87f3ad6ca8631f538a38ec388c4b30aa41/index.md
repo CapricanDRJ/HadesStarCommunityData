@@ -1,11 +1,6 @@
 # The Nerd Herd
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1191 | 3 | 1 | 2 | 0 | 0 | 0 |
-
+undefined
 
 ### Match History
 

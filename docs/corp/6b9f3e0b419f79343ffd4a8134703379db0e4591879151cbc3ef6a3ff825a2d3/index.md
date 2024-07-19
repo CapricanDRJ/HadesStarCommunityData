@@ -1,11 +1,6 @@
 # Winged Pheonix
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1166 | 11 | 3 | 8 | 0 | 1 | 1 |
-
+undefined
 
 ### Match History
 

@@ -1,11 +1,6 @@
 # SEK-SPACE ORDER
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1143 | 4 | 0 | 4 | 0 | 0 | 0 |
-
+undefined
 
 ### Match History
 

@@ -1,11 +1,6 @@
 # 中国星系集团
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1287 | 8 | 7 | 1 | 0 | 2 | 5 |
-
+undefined
 
 ### Match History
 

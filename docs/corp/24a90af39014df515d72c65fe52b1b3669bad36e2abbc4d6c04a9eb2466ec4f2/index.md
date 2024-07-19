@@ -1,11 +1,6 @@
 # LossFarm No.648
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1217 | 7 | 4 | 3 | 0 | 0 | 4 |
-
+undefined
 
 ### Match History
 

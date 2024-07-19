@@ -1,11 +1,6 @@
 # Todesschwadron
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1190 | 5 | 2 | 3 | 0 | 2 | 2 |
-
+undefined
 
 ### Match History
 

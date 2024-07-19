@@ -1,11 +1,6 @@
 # Hexwood
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1248 | 11 | 7 | 4 | 0 | 6 | 6 |
-
+undefined
 
 ### Match History
 

@@ -1,11 +1,6 @@
 # Das Imperium
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1116 | 9 | 1 | 8 | 0 | 0 | 1 |
-
+undefined
 
 ### Match History
 

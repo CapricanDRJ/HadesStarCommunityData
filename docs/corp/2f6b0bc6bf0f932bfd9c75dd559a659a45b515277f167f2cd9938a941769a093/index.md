@@ -1,11 +1,6 @@
 # E.T.A 二营
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1092 | 11 | 0 | 9 | 2 | 0 | 0 |
-
+undefined
 
 ### Match History
 

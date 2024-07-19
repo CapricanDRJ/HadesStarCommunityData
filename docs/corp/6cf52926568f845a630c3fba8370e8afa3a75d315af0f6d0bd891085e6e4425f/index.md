@@ -1,11 +1,6 @@
 # Antioch
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1173 | 22 | 9 | 13 | 0 | 1 | 2 |
-
+undefined
 
 ### Match History
 

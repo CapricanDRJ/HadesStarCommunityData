@@ -1,11 +1,6 @@
 # Osmium Star llc
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1313 | 9 | 9 | 0 | 0 | 9 | 9 |
-
+undefined
 
 ### Match History
 

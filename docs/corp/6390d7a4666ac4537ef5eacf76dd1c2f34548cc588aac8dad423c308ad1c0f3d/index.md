@@ -1,11 +1,6 @@
 # 水晶星际集团
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1075 | 24 | 5 | 19 | 0 | 0 | 2 |
-
+undefined
 
 ### Match History
 

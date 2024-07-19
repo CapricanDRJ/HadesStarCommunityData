@@ -1,11 +1,6 @@
 # 🌪TORNADO 
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1183 | 17 | 6 | 8 | 3 | 1 | 3 |
-
+undefined
 
 ### Match History
 

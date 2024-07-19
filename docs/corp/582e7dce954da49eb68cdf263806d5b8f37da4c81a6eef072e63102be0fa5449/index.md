@@ -1,11 +1,6 @@
 # Argentina 1.0
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1237 | 28 | 16 | 12 | 0 | 0 | 5 |
-
+undefined
 
 ### Match History
 

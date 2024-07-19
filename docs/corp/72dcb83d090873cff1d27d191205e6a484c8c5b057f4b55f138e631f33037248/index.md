@@ -1,11 +1,6 @@
 # Galactic Empire
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1135 | 7 | 1 | 6 | 0 | 0 | 1 |
-
+undefined
 
 ### Match History
 

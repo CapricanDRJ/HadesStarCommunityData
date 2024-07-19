@@ -1,11 +1,6 @@
 # 深空补给港
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1107 | 14 | 2 | 12 | 0 | 0 | 1 |
-
+undefined
 
 ### Match History
 

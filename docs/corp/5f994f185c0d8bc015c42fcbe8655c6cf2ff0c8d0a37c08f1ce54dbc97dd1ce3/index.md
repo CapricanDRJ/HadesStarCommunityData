@@ -1,11 +1,6 @@
 # Veil of Maya
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1224 | 6 | 4 | 2 | 0 | 0 | 4 |
-
+undefined
 
 ### Match History
 

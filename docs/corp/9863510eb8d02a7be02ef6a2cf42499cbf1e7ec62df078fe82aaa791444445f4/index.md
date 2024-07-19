@@ -1,11 +1,6 @@
 # КМБ
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1205 | 11 | 5 | 6 | 0 | 0 | 3 |
-
+undefined
 
 ### Match History
 

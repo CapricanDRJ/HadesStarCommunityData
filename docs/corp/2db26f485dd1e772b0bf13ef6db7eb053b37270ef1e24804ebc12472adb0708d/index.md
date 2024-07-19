@@ -1,11 +1,6 @@
 # ZN•H2B
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1152 | 13 | 4 | 9 | 0 | 0 | 2 |
-
+undefined
 
 ### Match History
 

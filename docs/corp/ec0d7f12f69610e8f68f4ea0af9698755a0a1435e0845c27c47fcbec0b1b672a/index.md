@@ -1,11 +1,6 @@
 # 星河绮梦
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1303 | 10 | 9 | 1 | 0 | 4 | 5 |
-
+undefined
 
 ### Match History
 

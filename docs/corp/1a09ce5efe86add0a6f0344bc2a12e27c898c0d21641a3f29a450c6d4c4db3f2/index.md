@@ -1,11 +1,6 @@
 # Helion Prime
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1239 | 10 | 6 | 4 | 0 | 5 | 5 |
-
+undefined
 
 ### Match History
 

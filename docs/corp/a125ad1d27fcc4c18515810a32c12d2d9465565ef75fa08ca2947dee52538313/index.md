@@ -1,11 +1,6 @@
 # Rocket-by Baby
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1123 | 6 | 0 | 6 | 0 | 0 | 0 |
-
+undefined
 
 ### Match History
 

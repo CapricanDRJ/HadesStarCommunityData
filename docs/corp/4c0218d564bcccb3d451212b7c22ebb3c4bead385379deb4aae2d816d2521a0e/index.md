@@ -1,11 +1,6 @@
 #  星空漫游者-GR
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1234 | 4 | 3 | 1 | 0 | 1 | 2 |
-
+undefined
 
 ### Match History
 

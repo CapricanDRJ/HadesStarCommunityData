@@ -1,11 +1,6 @@
 # Bounty Hunters
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1249 | 11 | 7 | 4 | 0 | 2 | 3 |
-
+undefined
 
 ### Match History
 

@@ -1,11 +1,6 @@
 # НИФИГАСЕБЕ
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1093 | 30 | 8 | 22 | 0 | 0 | 2 |
-
+undefined
 
 ### Match History
 

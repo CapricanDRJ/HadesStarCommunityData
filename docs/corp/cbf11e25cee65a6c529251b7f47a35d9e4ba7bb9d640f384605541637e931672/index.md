@@ -1,11 +1,6 @@
 # Держава Русь
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1060 | 12 | 0 | 12 | 0 | 0 | 0 |
-
+undefined
 
 ### Match History
 

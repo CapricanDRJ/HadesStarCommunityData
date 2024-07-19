@@ -1,11 +1,6 @@
 # Корпорация Миф
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1303 | 8 | 8 | 0 | 0 | 8 | 8 |
-
+undefined
 
 ### Match History
 

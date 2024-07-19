@@ -1,11 +1,6 @@
 # UK Armada
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1212 | 6 | 3 | 2 | 1 | 0 | 2 |
-
+undefined
 
 ### Match History
 

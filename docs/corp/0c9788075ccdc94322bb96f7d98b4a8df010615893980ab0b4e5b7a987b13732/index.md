@@ -1,11 +1,6 @@
 # Aegis Shield
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1126 | 9 | 2 | 7 | 0 | 0 | 1 |
-
+undefined
 
 ### Match History
 

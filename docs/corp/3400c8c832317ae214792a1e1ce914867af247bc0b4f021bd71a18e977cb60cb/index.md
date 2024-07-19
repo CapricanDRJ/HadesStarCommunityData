@@ -1,11 +1,6 @@
 # REY DE REYES
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1107 | 10 | 1 | 9 | 0 | 0 | 1 |
-
+undefined
 
 ### Match History
 

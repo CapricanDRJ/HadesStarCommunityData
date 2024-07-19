@@ -1,11 +1,6 @@
 # sk cz nebula
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1329 | 13 | 11 | 2 | 0 | 6 | 6 |
-
+undefined
 
 ### Match History
 

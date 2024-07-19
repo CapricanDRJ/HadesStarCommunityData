@@ -1,11 +1,6 @@
 # СССР 2.0
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1144 | 8 | 2 | 6 | 0 | 0 | 2 |
-
+undefined
 
 ### Match History
 

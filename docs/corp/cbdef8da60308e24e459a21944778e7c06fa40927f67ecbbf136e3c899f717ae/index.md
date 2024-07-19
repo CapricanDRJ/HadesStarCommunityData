@@ -1,11 +1,6 @@
 # Disintegrators
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1213 | 3 | 2 | 1 | 0 | 0 | 2 |
-
+undefined
 
 ### Match History
 

@@ -1,11 +1,6 @@
 # 喵喵喵喵喵喵喵
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1095 | 9 | 0 | 7 | 2 | 0 | 0 |
-
+undefined
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

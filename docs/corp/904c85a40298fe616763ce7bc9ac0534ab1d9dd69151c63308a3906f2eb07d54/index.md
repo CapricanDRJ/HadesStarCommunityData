@@ -1,11 +1,6 @@
 # Thunderbears
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1173 | 9 | 3 | 5 | 1 | 0 | 1 |
-
+undefined
 
 ### Match History
 

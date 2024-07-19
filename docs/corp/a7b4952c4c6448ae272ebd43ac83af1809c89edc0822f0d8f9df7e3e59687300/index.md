@@ -1,11 +1,6 @@
 # CENTINELA
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1188 | 1 | 0 | 1 | 0 | 0 | 0 |
-
+undefined
 
 ### Match History
 

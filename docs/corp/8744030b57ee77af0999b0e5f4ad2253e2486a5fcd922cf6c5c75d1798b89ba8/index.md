@@ -1,11 +1,6 @@
 # UNSC
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1215 | 6 | 4 | 2 | 0 | 2 | 2 |
-
+undefined
 
 ### Match History
 

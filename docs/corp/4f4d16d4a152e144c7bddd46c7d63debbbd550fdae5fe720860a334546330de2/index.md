@@ -1,11 +1,6 @@
 # Gold Star
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1130 | 12 | 2 | 9 | 1 | 1 | 1 |
-
+undefined
 
 ### Match History
 

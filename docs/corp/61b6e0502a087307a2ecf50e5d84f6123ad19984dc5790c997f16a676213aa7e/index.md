@@ -1,11 +1,6 @@
 # 羽共和体
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1118 | 29 | 9 | 17 | 3 | 1 | 2 |
-
+undefined
 
 ### Match History
 

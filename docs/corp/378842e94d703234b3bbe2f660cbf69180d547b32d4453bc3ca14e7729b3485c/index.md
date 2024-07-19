@@ -1,11 +1,6 @@
 # Union premiun
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1159 | 4 | 0 | 3 | 1 | 0 | 0 |
-
+undefined
 
 ### Match History
 

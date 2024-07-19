@@ -1,11 +1,6 @@
 # Nexland Ind.
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1214 | 10 | 5 | 4 | 1 | 0 | 5 |
-
+undefined
 
 ### Match History
 

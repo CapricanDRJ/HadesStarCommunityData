@@ -1,11 +1,6 @@
 # RACNAROK
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1252 | 11 | 7 | 2 | 2 | 0 | 7 |
-
+undefined
 
 ### Match History
 

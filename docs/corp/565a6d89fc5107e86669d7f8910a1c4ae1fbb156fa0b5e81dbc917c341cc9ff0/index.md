@@ -1,11 +1,6 @@
 # 落雨观花
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1235 | 3 | 3 | 0 | 0 | 3 | 3 |
-
+undefined
 
 ### Match History
 

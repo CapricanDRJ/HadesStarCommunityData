@@ -1,11 +1,6 @@
 # 第五星际
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1216 | 5 | 3 | 2 | 0 | 2 | 2 |
-
+undefined
 
 ### Match History
 

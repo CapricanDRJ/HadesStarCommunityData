@@ -1,11 +1,6 @@
 # Wompwompway 
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1341 | 32 | 24 | 8 | 0 | 0 | 6 |
-
+undefined
 
 ### Match History
 

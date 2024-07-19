@@ -1,11 +1,6 @@
 # Planet Express
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1268 | 10 | 7 | 2 | 1 | 0 | 6 |
-
+undefined
 
 ### Match History
 

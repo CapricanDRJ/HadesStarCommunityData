@@ -1,11 +1,6 @@
 # Hail Hydra
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1111 | 24 | 6 | 18 | 0 | 0 | 3 |
-
+undefined
 
 ### Match History
 

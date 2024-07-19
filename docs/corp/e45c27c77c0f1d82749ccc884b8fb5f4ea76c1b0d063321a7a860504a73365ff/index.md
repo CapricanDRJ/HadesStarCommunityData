@@ -1,11 +1,6 @@
 # battlesquadron
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1172 | 5 | 1 | 4 | 0 | 1 | 1 |
-
+undefined
 
 ### Match History
 

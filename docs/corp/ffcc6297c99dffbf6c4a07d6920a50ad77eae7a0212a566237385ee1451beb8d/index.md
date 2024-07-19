@@ -1,11 +1,6 @@
 # Gardiens détoil
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1165 | 2 | 0 | 2 | 0 | 0 | 0 |
-
+undefined
 
 ### Match History
 

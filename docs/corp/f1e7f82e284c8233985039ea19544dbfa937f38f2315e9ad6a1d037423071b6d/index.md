@@ -1,11 +1,6 @@
 # RUFORS
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1210 | 8 | 4 | 4 | 0 | 1 | 2 |
-
+undefined
 
 ### Match History
 

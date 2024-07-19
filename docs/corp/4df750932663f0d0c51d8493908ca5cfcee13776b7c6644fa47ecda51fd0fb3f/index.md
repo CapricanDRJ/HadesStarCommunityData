@@ -1,11 +1,6 @@
 # ITA 2.0
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1240 | 7 | 5 | 2 | 0 | 0 | 3 |
-
+undefined
 
 ### Match History
 

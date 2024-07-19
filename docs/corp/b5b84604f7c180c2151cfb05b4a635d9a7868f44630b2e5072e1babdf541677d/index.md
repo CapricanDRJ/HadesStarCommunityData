@@ -1,11 +1,6 @@
 # Trade Systems
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1157 | 3 | 0 | 3 | 0 | 0 | 0 |
-
+undefined
 
 ### Match History
 

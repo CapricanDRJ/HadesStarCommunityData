@@ -1,11 +1,6 @@
 # Prospectors
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1217 | 8 | 4 | 3 | 1 | 0 | 3 |
-
+undefined
 
 ### Match History
 

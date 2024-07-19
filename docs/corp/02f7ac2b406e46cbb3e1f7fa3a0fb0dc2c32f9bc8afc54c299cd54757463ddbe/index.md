@@ -1,11 +1,6 @@
 # ItaFederalFleet
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1311 | 20 | 14 | 5 | 1 | 2 | 4 |
-
+undefined
 
 ### Match History
 

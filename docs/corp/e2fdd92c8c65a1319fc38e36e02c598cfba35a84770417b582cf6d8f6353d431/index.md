@@ -1,11 +1,6 @@
 # Galaxy knights
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1171 | 2 | 0 | 2 | 0 | 0 | 0 |
-
+undefined
 
 ### Match History
 

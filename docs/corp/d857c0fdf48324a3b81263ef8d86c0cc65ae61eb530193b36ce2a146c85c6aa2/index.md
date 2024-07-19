@@ -1,11 +1,6 @@
 # Nooooobs
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1161 | 7 | 2 | 5 | 0 | 0 | 2 |
-
+undefined
 
 ### Match History
 

@@ -1,11 +1,6 @@
 # 超新星联盟
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1207 | 9 | 5 | 4 | 0 | 0 | 3 |
-
+undefined
 
 ### Match History
 

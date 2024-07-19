@@ -1,11 +1,6 @@
 # 雪月永恒
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1252 | 7 | 6 | 1 | 0 | 1 | 5 |
-
+undefined
 
 ### Match History
 

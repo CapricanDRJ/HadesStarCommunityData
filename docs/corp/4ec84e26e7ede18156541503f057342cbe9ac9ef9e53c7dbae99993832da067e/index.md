@@ -1,11 +1,6 @@
 # Legion Prime
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1198 | 22 | 11 | 11 | 0 | 0 | 3 |
-
+undefined
 
 ### Match History
 

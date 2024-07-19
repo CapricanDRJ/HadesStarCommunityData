@@ -1,11 +1,6 @@
 # Russian Style
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1160 | 9 | 3 | 6 | 0 | 0 | 2 |
-
+undefined
 
 ### Match History
 

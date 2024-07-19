@@ -1,11 +1,6 @@
 # Killers from Ua
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1214 | 7 | 4 | 3 | 0 | 1 | 1 |
-
+undefined
 
 ### Match History
 

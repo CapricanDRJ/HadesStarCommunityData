@@ -1,11 +1,6 @@
 # 风云集团
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1173 | 4 | 1 | 3 | 0 | 0 | 1 |
-
+undefined
 
 ### Match History
 

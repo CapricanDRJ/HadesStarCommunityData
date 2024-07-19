@@ -1,11 +1,6 @@
 # Cydonia Order
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1105 | 12 | 2 | 10 | 0 | 0 | 1 |
-
+undefined
 
 ### Match History
 

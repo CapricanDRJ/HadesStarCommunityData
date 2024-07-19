@@ -1,11 +1,6 @@
 # 柯伊伯带伊甸园
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1312 | 11 | 10 | 1 | 0 | 0 | 10 |
-
+undefined
 
 ### Match History
 

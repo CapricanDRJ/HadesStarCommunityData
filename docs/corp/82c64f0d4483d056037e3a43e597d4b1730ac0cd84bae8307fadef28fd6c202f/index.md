@@ -1,11 +1,6 @@
 # Чистое Небо
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1155 | 3 | 0 | 3 | 0 | 0 | 0 |
-
+undefined
 
 ### Match History
 

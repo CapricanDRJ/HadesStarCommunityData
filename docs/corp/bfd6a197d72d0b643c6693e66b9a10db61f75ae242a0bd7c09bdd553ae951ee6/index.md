@@ -1,11 +1,6 @@
 # the Rubber Duck
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1129 | 15 | 5 | 10 | 0 | 0 | 3 |
-
+undefined
 
 ### Match History
 

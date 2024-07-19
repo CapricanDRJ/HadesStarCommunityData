@@ -1,11 +1,6 @@
 # Вселенские 40%
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1186 | 38 | 18 | 20 | 0 | 0 | 6 |
-
+undefined
 
 ### Match History
 

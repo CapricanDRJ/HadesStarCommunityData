@@ -1,11 +1,6 @@
 # NoweUkladyII
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1311 | 10 | 10 | 0 | 0 | 10 | 10 |
-
+undefined
 
 ### Match History
 

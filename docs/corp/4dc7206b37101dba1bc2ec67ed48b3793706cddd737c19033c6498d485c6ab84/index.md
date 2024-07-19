@@ -1,11 +1,6 @@
 # Team Rainbow
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1193 | 3 | 1 | 2 | 0 | 0 | 0 |
-
+undefined
 
 ### Match History
 

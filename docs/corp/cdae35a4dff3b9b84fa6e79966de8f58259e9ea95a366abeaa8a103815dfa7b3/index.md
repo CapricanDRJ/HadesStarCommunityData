@@ -1,11 +1,6 @@
 # Grand Mechanism
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1168 | 8 | 2 | 5 | 1 | 0 | 1 |
-
+undefined
 
 ### Match History
 

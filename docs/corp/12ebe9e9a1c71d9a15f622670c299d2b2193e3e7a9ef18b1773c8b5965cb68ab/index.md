@@ -1,11 +1,6 @@
 # The Goonies
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1169 | 10 | 3 | 5 | 2 | 0 | 2 |
-
+undefined
 
 ### Match History
 

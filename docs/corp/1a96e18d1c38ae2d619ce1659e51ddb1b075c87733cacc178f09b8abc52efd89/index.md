@@ -1,11 +1,6 @@
 # Vermilion
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1152 | 7 | 1 | 5 | 1 | 0 | 1 |
-
+undefined
 
 ### Match History
 

@@ -1,11 +1,6 @@
 # Solysis
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1137 | 10 | 3 | 7 | 0 | 0 | 1 |
-
+undefined
 
 ### Match History
 

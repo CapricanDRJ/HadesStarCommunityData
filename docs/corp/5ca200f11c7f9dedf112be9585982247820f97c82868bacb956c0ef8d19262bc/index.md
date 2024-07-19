@@ -1,11 +1,6 @@
 # Empire of Light
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1162 | 18 | 7 | 11 | 0 | 0 | 2 |
-
+undefined
 
 ### Match History
 

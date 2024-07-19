@@ -1,11 +1,6 @@
 # SALTARDIS
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1154 | 8 | 2 | 6 | 0 | 0 | 1 |
-
+undefined
 
 ### Match History
 

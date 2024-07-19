@@ -1,11 +1,6 @@
 # Free Ag3nts
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1245 | 3 | 3 | 0 | 0 | 3 | 3 |
-
+undefined
 
 ### Match History
 

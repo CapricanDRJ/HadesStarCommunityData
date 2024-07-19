@@ -1,11 +1,6 @@
 # GalaxyNova
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1269 | 9 | 7 | 2 | 0 | 1 | 6 |
-
+undefined
 
 ### Match History
 

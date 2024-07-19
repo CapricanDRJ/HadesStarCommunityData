@@ -1,11 +1,6 @@
 # Capibarius
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1259 | 6 | 5 | 1 | 0 | 1 | 4 |
-
+undefined
 
 ### Match History
 

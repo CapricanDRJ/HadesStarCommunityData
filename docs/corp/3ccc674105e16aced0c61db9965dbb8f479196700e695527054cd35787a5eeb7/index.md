@@ -1,11 +1,6 @@
 # CODEX IMPERIUS
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1129 | 9 | 2 | 7 | 0 | 0 | 2 |
-
+undefined
 
 ### Match History
 

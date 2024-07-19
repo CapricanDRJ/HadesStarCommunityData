@@ -1,11 +1,6 @@
 # Kelebra
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1206 | 12 | 6 | 5 | 1 | 0 | 2 |
-
+undefined
 
 ### Match History
 

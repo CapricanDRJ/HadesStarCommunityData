@@ -1,11 +1,6 @@
 # PDC
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1254 | 21 | 13 | 6 | 2 | 0 | 8 |
-
+undefined
 
 ### Match History
 

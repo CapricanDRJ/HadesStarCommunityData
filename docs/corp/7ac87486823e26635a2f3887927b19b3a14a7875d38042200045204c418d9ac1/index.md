@@ -1,11 +1,6 @@
 # Red Star Corp.
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1090 | 20 | 6 | 14 | 0 | 1 | 3 |
-
+undefined
 
 ### Match History
 

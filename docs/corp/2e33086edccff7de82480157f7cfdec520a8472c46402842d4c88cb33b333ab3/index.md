@@ -1,11 +1,6 @@
 # 우주미아
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1139 | 5 | 0 | 5 | 0 | 0 | 0 |
-
+undefined
 
 ### Match History
 

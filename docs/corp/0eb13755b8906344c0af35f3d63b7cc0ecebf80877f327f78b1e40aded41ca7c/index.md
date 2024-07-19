@@ -1,11 +1,6 @@
 # Ukr alliance 
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1175 | 5 | 1 | 3 | 1 | 0 | 0 |
-
+undefined
 
 ### Match History
 

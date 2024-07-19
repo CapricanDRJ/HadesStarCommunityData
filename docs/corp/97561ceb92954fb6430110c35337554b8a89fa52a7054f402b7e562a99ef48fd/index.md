@@ -1,11 +1,6 @@
 # Dark Skai
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1080 | 12 | 1 | 11 | 0 | 0 | 1 |
-
+undefined
 
 ### Match History
 

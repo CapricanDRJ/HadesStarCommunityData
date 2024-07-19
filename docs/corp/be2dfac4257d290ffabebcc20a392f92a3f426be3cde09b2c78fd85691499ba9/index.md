@@ -1,11 +1,6 @@
 # 暮光之城
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1177 | 4 | 1 | 3 | 0 | 0 | 0 |
-
+undefined
 
 ### Match History
 

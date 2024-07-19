@@ -1,11 +1,6 @@
 # StellarCorpIT
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1280 | 8 | 7 | 1 | 0 | 2 | 5 |
-
+undefined
 
 ### Match History
 

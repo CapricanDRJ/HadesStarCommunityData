@@ -1,11 +1,6 @@
 # Ƭιтαηѕ Ф тєʀʀσƦ
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1295 | 26 | 17 | 9 | 0 | 0 | 5 |
-
+undefined
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

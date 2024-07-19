@@ -1,11 +1,6 @@
 # Los Unidos 
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1187 | 16 | 7 | 8 | 1 | 1 | 3 |
-
+undefined
 
 ### Match History
 

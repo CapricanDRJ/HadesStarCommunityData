@@ -1,11 +1,6 @@
 # koalition
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1264 | 11 | 7 | 3 | 1 | 5 | 5 |
-
+undefined
 
 ### Match History
 

@@ -1,11 +1,6 @@
 # Embers Rising
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1373 | 25 | 21 | 4 | 0 | 2 | 13 |
-
+undefined
 
 ### Match History
 

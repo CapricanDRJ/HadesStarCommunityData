@@ -1,11 +1,6 @@
 # РОДНЫЕ.
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1199 | 9 | 4 | 5 | 0 | 0 | 3 |
-
+undefined
 
 ### Match History
 

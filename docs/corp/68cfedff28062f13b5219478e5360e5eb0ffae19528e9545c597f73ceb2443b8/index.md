@@ -1,11 +1,6 @@
 # The 501st
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1181 | 8 | 3 | 5 | 0 | 0 | 2 |
-
+undefined
 
 ### Match History
 

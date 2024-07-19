@@ -1,11 +1,6 @@
 # ●Black•Sails●
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1236 | 22 | 13 | 9 | 0 | 3 | 4 |
-
+undefined
 
 ### Match History
 

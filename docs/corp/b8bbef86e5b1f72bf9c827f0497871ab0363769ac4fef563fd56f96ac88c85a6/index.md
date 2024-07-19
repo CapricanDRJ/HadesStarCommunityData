@@ -1,11 +1,6 @@
 # Prometheus
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1175 | 20 | 9 | 11 | 0 | 1 | 2 |
-
+undefined
 
 ### Match History
 

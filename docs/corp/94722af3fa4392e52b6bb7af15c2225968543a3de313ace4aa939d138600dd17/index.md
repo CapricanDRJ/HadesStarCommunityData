@@ -1,11 +1,6 @@
 # Madison Holding
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1239 | 11 | 7 | 4 | 0 | 0 | 6 |
-
+undefined
 
 ### Match History
 

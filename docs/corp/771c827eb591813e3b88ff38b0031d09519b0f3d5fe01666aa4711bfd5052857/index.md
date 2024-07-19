@@ -1,11 +1,6 @@
 # <a>超越®</a>光速℡
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1284 | 21 | 15 | 6 | 0 | 0 | 12 |
-
+undefined
 
 ### Match History
 

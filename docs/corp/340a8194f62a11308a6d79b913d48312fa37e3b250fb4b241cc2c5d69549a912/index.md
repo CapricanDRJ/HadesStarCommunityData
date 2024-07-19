@@ -1,11 +1,6 @@
 # SYNDICATE
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1271 | 5 | 5 | 0 | 0 | 5 | 5 |
-
+undefined
 
 ### Match History
 

@@ -1,11 +1,6 @@
 # 新手联邦（新经济开发区）
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1459 | 27 | 27 | 0 | 0 | 27 | 27 |
-
+undefined
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

@@ -1,11 +1,6 @@
 # Halcon español
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1307 | 28 | 20 | 8 | 0 | 0 | 9 |
-
+undefined
 
 ### Match History
 

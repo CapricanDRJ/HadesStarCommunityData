@@ -1,11 +1,6 @@
 # FėniX•
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1188 | 8 | 3 | 4 | 1 | 0 | 2 |
-
+undefined
 
 ### Match History
 

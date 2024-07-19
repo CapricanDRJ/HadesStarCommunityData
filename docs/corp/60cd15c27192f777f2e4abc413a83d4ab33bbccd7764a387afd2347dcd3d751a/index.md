@@ -1,11 +1,6 @@
 # Stone Legion
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1347 | 24 | 19 | 5 | 0 | 6 | 8 |
-
+undefined
 
 ### Match History
 

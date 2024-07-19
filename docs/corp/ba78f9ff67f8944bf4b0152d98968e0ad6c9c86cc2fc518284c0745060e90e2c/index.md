@@ -1,11 +1,6 @@
 # Highland Ind. 
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1182 | 21 | 10 | 10 | 1 | 0 | 6 |
-
+undefined
 
 ### Match History
 

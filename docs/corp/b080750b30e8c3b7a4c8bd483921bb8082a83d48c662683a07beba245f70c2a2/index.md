@@ -1,11 +1,6 @@
 # NEW HOLLAND
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1116 | 10 | 1 | 8 | 1 | 0 | 1 |
-
+undefined
 
 ### Match History
 

@@ -1,11 +1,6 @@
 # White Star Inc.
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1190 | 6 | 3 | 3 | 0 | 1 | 2 |
-
+undefined
 
 ### Match History
 

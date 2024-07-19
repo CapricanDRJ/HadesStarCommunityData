@@ -1,11 +1,6 @@
 # The Syndicate 
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1341 | 14 | 13 | 1 | 0 | 13 | 13 |
-
+undefined
 
 ### Match History
 

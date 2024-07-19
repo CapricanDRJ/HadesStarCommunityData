@@ -1,11 +1,6 @@
 # Sad Panda 2.0
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1166 | 7 | 2 | 5 | 0 | 0 | 1 |
-
+undefined
 
 ### Match History
 

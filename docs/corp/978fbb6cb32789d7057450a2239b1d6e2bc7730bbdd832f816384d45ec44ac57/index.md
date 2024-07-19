@@ -1,11 +1,6 @@
 # Зелёная корпа
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1202 | 8 | 4 | 4 | 0 | 0 | 3 |
-
+undefined
 
 ### Match History
 

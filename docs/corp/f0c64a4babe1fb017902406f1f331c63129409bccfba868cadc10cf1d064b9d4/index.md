@@ -1,11 +1,6 @@
 # AFronteiraFinal
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1378 | 26 | 19 | 6 | 1 | 2 | 7 |
-
+undefined
 
 ### Match History
 

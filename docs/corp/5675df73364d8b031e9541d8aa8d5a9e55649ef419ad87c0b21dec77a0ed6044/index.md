@@ -1,11 +1,6 @@
 # nuevo mundo
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1220 | 13 | 6 | 7 | 0 | 5 | 5 |
-
+undefined
 
 ### Match History
 

@@ -1,11 +1,6 @@
 # Justice Vengers
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1304 | 12 | 10 | 2 | 0 | 6 | 6 |
-
+undefined
 
 ### Match History
 

@@ -1,11 +1,6 @@
 # Retarts
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1239 | 28 | 12 | 15 | 1 | 1 | 4 |
-
+undefined
 
 ### Match History
 

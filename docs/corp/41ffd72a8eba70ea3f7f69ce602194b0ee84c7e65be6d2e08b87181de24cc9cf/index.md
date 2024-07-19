@@ -1,11 +1,6 @@
 # Dark Sun
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1137 | 19 | 6 | 11 | 2 | 0 | 2 |
-
+undefined
 
 ### Match History
 

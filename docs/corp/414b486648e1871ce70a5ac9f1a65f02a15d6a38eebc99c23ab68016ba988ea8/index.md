@@ -1,11 +1,6 @@
 # Warriors union
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1162 | 9 | 3 | 5 | 1 | 0 | 3 |
-
+undefined
 
 ### Match History
 

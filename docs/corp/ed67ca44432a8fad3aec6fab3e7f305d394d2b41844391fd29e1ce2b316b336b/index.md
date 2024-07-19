@@ -1,11 +1,6 @@
 # Lacuna Academy
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1345 | 17 | 15 | 2 | 0 | 5 | 7 |
-
+undefined
 
 ### Match History
 

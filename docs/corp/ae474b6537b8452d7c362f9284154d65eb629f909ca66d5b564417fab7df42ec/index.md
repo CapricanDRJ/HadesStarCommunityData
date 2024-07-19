@@ -1,11 +1,6 @@
 # Lost City Corp.
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1198 | 3 | 1 | 1 | 1 | 1 | 1 |
-
+undefined
 
 ### Match History
 

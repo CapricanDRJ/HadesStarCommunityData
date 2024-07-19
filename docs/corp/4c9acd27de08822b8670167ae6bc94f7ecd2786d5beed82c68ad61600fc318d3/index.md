@@ -1,11 +1,6 @@
 # THE BENDERA
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1318 | 21 | 15 | 6 | 0 | 7 | 7 |
-
+undefined
 
 ### Match History
 

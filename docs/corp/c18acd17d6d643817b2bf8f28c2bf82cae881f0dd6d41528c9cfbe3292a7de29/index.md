@@ -1,11 +1,6 @@
 # 探索舰队
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1116 | 14 | 3 | 10 | 1 | 0 | 2 |
-
+undefined
 
 ### Match History
 

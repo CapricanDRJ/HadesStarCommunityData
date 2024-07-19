@@ -1,11 +1,6 @@
 # 资助会
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1242 | 7 | 5 | 2 | 0 | 1 | 4 |
-
+undefined
 
 ### Match History
 

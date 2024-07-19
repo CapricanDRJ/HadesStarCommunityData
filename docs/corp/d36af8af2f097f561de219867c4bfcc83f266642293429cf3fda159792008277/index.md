@@ -1,11 +1,6 @@
 # 新纪元舰队
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1117 | 18 | 4 | 12 | 2 | 0 | 3 |
-
+undefined
 
 ### Match History
 

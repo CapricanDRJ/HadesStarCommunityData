@@ -1,11 +1,6 @@
 # 火洋之心
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1237 | 7 | 4 | 1 | 2 | 0 | 2 |
-
+undefined
 
 ### Match History
 

@@ -1,11 +1,6 @@
 # 银星舰队SSF
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1262 | 12 | 9 | 3 | 0 | 1 | 7 |
-
+undefined
 
 ### Match History
 

@@ -1,11 +1,6 @@
 # Бороская Имерия
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1196 | 4 | 2 | 2 | 0 | 0 | 1 |
-
+undefined
 
 ### Match History
 

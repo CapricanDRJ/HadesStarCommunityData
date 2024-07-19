@@ -1,11 +1,6 @@
 # Atlas corp
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1156 | 15 | 5 | 9 | 1 | 1 | 2 |
-
+undefined
 
 ### Match History
 

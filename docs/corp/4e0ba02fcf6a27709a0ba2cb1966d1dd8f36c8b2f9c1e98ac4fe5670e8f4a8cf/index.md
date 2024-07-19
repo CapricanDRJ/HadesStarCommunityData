@@ -1,11 +1,6 @@
 # 共和服务器
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1184 | 4 | 1 | 2 | 1 | 0 | 0 |
-
+undefined
 
 ### Match History
 

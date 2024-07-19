@@ -1,11 +1,6 @@
 # Aeternae
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1113 | 7 | 0 | 7 | 0 | 0 | 0 |
-
+undefined
 
 ### Match History
 

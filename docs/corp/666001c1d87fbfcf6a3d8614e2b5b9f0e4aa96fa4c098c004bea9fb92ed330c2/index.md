@@ -1,11 +1,6 @@
 # Equinox
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1199 | 23 | 10 | 12 | 1 | 1 | 2 |
-
+undefined
 
 ### Match History
 

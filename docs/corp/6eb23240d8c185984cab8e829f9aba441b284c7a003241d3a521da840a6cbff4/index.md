@@ -1,11 +1,6 @@
 # 猎户座星云
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1169 | 9 | 3 | 6 | 0 | 0 | 2 |
-
+undefined
 
 ### Match History
 

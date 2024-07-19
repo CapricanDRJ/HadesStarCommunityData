@@ -1,11 +1,6 @@
 # Sprite
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1202 | 7 | 3 | 4 | 0 | 0 | 2 |
-
+undefined
 
 ### Match History
 

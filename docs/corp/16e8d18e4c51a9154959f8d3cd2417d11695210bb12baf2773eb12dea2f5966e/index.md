@@ -1,11 +1,6 @@
 # Sektion 32
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1182 | 11 | 4 | 6 | 1 | 0 | 2 |
-
+undefined
 
 ### Match History
 

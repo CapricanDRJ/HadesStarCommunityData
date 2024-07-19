@@ -1,11 +1,6 @@
 # Sith order
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1201 | 2 | 1 | 1 | 0 | 1 | 1 |
-
+undefined
 
 ### Match History
 

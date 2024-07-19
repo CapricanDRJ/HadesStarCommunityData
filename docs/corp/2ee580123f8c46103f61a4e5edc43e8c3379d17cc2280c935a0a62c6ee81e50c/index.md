@@ -1,11 +1,6 @@
 # 德意志联邦集团
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1154 | 6 | 0 | 3 | 3 | 0 | 0 |
-
+undefined
 
 ### Match History
 

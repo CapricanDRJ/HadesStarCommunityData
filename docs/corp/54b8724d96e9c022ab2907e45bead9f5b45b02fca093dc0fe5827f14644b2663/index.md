@@ -1,11 +1,6 @@
 # IMPERIAL ARMADA
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1428 | 21 | 21 | 0 | 0 | 21 | 21 |
-
+undefined
 
 ### Match History
 

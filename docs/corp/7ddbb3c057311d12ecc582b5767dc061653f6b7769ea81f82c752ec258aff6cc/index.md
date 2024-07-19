@@ -1,11 +1,6 @@
 # Internationals
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1272 | 21 | 12 | 9 | 0 | 8 | 8 |
-
+undefined
 
 ### Match History
 

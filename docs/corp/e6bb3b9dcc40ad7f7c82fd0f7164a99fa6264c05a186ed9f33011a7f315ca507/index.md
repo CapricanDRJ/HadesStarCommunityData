@@ -1,11 +1,6 @@
 # SpaceCowboys
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1288 | 18 | 13 | 5 | 0 | 0 | 6 |
-
+undefined
 
 ### Match History
 

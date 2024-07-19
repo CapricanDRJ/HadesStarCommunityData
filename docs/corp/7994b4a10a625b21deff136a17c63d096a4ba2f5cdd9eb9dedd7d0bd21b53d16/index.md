@@ -1,11 +1,6 @@
 # РусКорп
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1218 | 20 | 11 | 9 | 0 | 0 | 3 |
-
+undefined
 
 ### Match History
 

@@ -1,11 +1,6 @@
 # Russia 
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1184 | 5 | 2 | 3 | 0 | 0 | 1 |
-
+undefined
 
 ### Match History
 

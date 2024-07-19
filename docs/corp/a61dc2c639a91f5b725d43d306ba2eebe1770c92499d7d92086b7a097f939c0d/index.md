@@ -1,11 +1,6 @@
 # Эдем
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1163 | 9 | 3 | 6 | 0 | 0 | 1 |
-
+undefined
 
 ### Match History
 

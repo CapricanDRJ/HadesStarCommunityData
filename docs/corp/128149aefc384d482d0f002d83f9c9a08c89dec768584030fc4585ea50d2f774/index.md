@@ -1,11 +1,6 @@
 # リリース
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1390 | 41 | 32 | 9 | 0 | 7 | 13 |
-
+undefined
 
 ### Match History
 

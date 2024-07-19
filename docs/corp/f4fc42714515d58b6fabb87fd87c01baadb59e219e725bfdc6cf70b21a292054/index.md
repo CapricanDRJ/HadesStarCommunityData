@@ -1,11 +1,6 @@
 # Orphans Of Kos
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1194 | 11 | 5 | 6 | 0 | 1 | 2 |
-
+undefined
 
 ### Match History
 

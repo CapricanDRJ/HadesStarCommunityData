@@ -1,11 +1,6 @@
 # V0RTEX
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1220 | 20 | 10 | 9 | 1 | 0 | 5 |
-
+undefined
 
 ### Match History
 

@@ -1,11 +1,6 @@
 # 星光舰队
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1224 | 4 | 3 | 1 | 0 | 2 | 2 |
-
+undefined
 
 ### Match History
 

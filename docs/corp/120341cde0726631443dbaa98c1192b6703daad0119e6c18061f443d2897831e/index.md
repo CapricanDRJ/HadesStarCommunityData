@@ -1,11 +1,6 @@
 # 共产主义舰队
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1277 | 8 | 7 | 1 | 0 | 3 | 4 |
-
+undefined
 
 ### Match History
 

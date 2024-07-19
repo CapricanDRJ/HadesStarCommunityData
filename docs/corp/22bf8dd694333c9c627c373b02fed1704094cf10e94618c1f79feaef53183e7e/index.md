@@ -1,11 +1,6 @@
 # 新?的星际集团?
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1200 | 2 | 1 | 1 | 0 | 0 | 0 |
-
+undefined
 
 ### Match History
 

@@ -1,11 +1,6 @@
 # Spacey Bois
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1185 | 5 | 2 | 3 | 0 | 0 | 2 |
-
+undefined
 
 ### Match History
 

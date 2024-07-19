@@ -1,11 +1,6 @@
 # Nova Time
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1338 | 14 | 13 | 1 | 0 | 11 | 11 |
-
+undefined
 
 ### Match History
 

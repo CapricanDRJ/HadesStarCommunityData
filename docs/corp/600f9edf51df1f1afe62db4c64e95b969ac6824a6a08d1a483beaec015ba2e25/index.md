@@ -1,11 +1,6 @@
 # 地球联合
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1314 | 15 | 12 | 3 | 0 | 2 | 6 |
-
+undefined
 
 ### Match History
 

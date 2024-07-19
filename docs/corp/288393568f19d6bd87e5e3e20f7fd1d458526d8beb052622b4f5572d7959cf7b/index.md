@@ -1,11 +1,6 @@
 # Sentencia
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1326 | 15 | 12 | 3 | 0 | 0 | 8 |
-
+undefined
 
 ### Match History
 

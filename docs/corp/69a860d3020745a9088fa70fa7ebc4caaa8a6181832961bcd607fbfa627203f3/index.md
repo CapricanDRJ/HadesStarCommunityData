@@ -1,11 +1,6 @@
 # 对，进就进人少的（分团）
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1195 | 7 | 3 | 4 | 0 | 2 | 2 |
-
+undefined
 
 ### Match History
 

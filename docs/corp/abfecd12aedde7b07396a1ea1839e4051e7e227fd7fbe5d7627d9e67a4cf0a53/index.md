@@ -1,11 +1,6 @@
 # C.C Legion
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1256 | 6 | 5 | 1 | 0 | 2 | 3 |
-
+undefined
 
 ### Match History
 

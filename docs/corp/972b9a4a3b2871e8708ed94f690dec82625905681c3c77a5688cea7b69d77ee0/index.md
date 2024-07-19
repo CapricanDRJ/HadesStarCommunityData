@@ -1,11 +1,6 @@
 # 零号帝国
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1243 | 3 | 3 | 0 | 0 | 3 | 3 |
-
+undefined
 
 ### Match History
 

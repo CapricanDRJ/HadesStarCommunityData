@@ -1,11 +1,6 @@
 # alienigenas
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1227 | 9 | 5 | 4 | 0 | 2 | 2 |
-
+undefined
 
 ### Match History
 

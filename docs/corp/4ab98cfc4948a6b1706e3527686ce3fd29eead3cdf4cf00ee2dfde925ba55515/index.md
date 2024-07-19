@@ -1,11 +1,6 @@
 # Gallaecia
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1035 | 16 | 0 | 16 | 0 | 0 | 0 |
-
+undefined
 
 ### Match History
 

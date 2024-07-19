@@ -1,11 +1,6 @@
 # KINETIC
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1313 | 8 | 8 | 0 | 0 | 8 | 8 |
-
+undefined
 
 ### Match History
 

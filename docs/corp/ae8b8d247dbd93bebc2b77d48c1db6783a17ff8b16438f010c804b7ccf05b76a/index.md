@@ -1,11 +1,6 @@
 # Созидание 2.0
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1137 | 25 | 9 | 16 | 0 | 2 | 5 |
-
+undefined
 
 ### Match History
 

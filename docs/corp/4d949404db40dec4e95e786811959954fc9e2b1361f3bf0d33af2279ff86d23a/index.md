@@ -1,11 +1,6 @@
 # Out landers
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1261 | 15 | 9 | 6 | 0 | 0 | 4 |
-
+undefined
 
 ### Match History
 

@@ -1,11 +1,6 @@
 # P!RAT£ SHIP
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1243 | 14 | 8 | 5 | 1 | 2 | 3 |
-
+undefined
 
 ### Match History
 

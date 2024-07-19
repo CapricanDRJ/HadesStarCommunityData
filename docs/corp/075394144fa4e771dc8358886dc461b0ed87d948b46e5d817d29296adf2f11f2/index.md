@@ -1,11 +1,6 @@
 # СНГ — РОССИЯ
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1139 | 15 | 4 | 8 | 3 | 0 | 2 |
-
+undefined
 
 ### Match History
 

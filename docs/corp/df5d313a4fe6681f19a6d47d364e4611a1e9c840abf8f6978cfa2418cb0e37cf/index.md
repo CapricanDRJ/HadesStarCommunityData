@@ -1,11 +1,6 @@
 # From the Fire
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1176 | 6 | 2 | 4 | 0 | 0 | 1 |
-
+undefined
 
 ### Match History
 

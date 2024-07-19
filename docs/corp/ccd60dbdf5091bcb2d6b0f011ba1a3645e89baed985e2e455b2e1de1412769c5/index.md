@@ -1,11 +1,6 @@
 # Warp Dominion
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1212 | 5 | 3 | 2 | 0 | 0 | 3 |
-
+undefined
 
 ### Match History
 

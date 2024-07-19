@@ -1,11 +1,6 @@
 # Green Dwarf
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1247 | 5 | 4 | 1 | 0 | 2 | 2 |
-
+undefined
 
 ### Match History
 

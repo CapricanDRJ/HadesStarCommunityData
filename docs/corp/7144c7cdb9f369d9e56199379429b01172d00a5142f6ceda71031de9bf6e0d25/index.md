@@ -1,11 +1,6 @@
 # JPR. Pretorians
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1155 | 15 | 6 | 9 | 0 | 0 | 2 |
-
+undefined
 
 ### Match History
 

@@ -1,11 +1,6 @@
 # Grater T
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1234 | 14 | 7 | 7 | 0 | 0 | 4 |
-
+undefined
 
 ### Match History
 

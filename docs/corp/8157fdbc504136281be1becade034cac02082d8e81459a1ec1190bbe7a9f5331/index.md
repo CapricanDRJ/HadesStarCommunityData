@@ -1,11 +1,6 @@
 # Goblin Squad
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1196 | 8 | 4 | 4 | 0 | 0 | 2 |
-
+undefined
 
 ### Match History
 

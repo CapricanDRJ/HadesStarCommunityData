@@ -1,11 +1,6 @@
 # Core Systems
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1207 | 7 | 3 | 2 | 2 | 0 | 2 |
-
+undefined
 
 ### Match History
 

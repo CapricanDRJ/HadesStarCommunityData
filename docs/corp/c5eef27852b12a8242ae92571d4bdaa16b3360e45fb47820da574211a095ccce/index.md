@@ -1,11 +1,6 @@
 # 한국우주연합
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1131 | 19 | 7 | 12 | 0 | 0 | 4 |
-
+undefined
 
 ### Match History
 

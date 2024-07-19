@@ -1,11 +1,6 @@
 # NASA Air base
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1097 | 10 | 0 | 8 | 2 | 0 | 0 |
-
+undefined
 
 ### Match History
 

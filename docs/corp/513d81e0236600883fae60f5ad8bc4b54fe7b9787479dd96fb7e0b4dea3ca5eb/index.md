@@ -1,11 +1,6 @@
 # 凛冬重工
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1195 | 2 | 1 | 1 | 0 | 0 | 0 |
-
+undefined
 
 ### Match History
 

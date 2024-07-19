@@ -1,11 +1,6 @@
 # Nueva Hyperion
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1214 | 5 | 3 | 1 | 1 | 0 | 3 |
-
+undefined
 
 ### Match History
 

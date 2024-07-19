@@ -1,11 +1,6 @@
 # Hades Academy
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1221 | 9 | 5 | 4 | 0 | 0 | 3 |
-
+undefined
 
 ### Match History
 

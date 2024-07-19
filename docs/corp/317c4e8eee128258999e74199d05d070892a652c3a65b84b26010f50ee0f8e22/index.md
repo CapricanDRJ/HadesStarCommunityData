@@ -1,11 +1,6 @@
 # t 72 SwiftKey F
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1177 | 13 | 5 | 8 | 0 | 0 | 4 |
-
+undefined
 
 ### Match History
 

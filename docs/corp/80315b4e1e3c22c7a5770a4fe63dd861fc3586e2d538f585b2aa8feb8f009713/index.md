@@ -1,11 +1,6 @@
 # 宇氏集团
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1174 | 2 | 0 | 2 | 0 | 0 | 0 |
-
+undefined
 
 ### Match History
 

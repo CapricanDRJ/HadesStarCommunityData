@@ -1,11 +1,6 @@
 # HAL
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1242 | 4 | 3 | 0 | 1 | 3 | 3 |
-
+undefined
 
 ### Match History
 

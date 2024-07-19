@@ -1,11 +1,6 @@
 # 001-23
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1066 | 11 | 0 | 11 | 0 | 0 | 0 |
-
+undefined
 
 ### Match History
 

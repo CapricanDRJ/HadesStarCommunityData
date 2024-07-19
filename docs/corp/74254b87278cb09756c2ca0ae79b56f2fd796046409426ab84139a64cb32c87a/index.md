@@ -1,11 +1,6 @@
 # PERSEUS INC.
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1210 | 1 | 1 | 0 | 0 | 1 | 0 |
-
+undefined
 
 ### Match History
 

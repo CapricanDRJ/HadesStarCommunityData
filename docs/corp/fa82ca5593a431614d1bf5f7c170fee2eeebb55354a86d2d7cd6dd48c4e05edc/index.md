@@ -1,11 +1,6 @@
 # Battlestar Fr
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1196 | 8 | 4 | 4 | 0 | 0 | 4 |
-
+undefined
 
 ### Match History
 

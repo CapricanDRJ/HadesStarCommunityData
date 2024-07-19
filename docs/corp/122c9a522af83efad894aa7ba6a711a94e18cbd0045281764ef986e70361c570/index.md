@@ -1,11 +1,6 @@
 # Caprica command
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1199 | 8 | 4 | 4 | 0 | 0 | 3 |
-
+undefined
 
 ### Match History
 

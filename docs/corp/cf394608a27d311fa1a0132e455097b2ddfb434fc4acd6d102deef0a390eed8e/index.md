@@ -1,11 +1,6 @@
 # Offshore Trash
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1219 | 4 | 2 | 2 | 0 | 0 | 1 |
-
+undefined
 
 ### Match History
 

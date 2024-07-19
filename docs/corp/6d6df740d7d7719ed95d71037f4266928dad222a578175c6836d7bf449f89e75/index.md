@@ -1,11 +1,6 @@
 # Majapahit
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1268 | 7 | 6 | 1 | 0 | 4 | 4 |
-
+undefined
 
 ### Match History
 

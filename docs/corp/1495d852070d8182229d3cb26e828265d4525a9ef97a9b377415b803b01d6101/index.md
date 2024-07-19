@@ -1,11 +1,6 @@
 # Галактика Зла
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1225 | 25 | 11 | 14 | 0 | 1 | 4 |
-
+undefined
 
 ### Match History
 

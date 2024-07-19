@@ -1,11 +1,6 @@
 # Cowboys
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1163 | 18 | 6 | 9 | 3 | 0 | 2 |
-
+undefined
 
 ### Match History
 

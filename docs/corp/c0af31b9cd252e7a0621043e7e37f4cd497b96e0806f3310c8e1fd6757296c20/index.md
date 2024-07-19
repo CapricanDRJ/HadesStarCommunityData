@@ -1,11 +1,6 @@
 # Wacky Wabbits
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1194 | 4 | 2 | 2 | 0 | 0 | 2 |
-
+undefined
 
 ### Match History
 

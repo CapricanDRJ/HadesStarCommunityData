@@ -1,11 +1,6 @@
 # ДИВЕРСАНТЫ
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1538 | 51 | 44 | 6 | 1 | 19 | 19 |
-
+undefined
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

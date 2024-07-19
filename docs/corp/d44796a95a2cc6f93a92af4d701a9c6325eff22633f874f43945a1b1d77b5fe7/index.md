@@ -1,11 +1,6 @@
 # Ul'Adri
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1209 | 20 | 10 | 10 | 0 | 1 | 5 |
-
+undefined
 
 ### Match History
 

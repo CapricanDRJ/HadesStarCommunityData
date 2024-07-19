@@ -1,11 +1,6 @@
 # 红日初升，其道大光
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1256 | 4 | 4 | 0 | 0 | 4 | 4 |
-
+undefined
 
 ### Match History
 

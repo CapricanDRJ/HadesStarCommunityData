@@ -1,11 +1,6 @@
 # USAR@Hadesstar
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1179 | 4 | 1 | 3 | 0 | 0 | 0 |
-
+undefined
 
 ### Match History
 

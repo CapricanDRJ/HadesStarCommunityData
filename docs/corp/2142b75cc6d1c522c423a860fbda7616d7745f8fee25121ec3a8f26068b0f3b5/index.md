@@ -1,11 +1,6 @@
 # 星舰国际
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1245 | 4 | 4 | 0 | 0 | 4 | 4 |
-
+undefined
 
 ### Match History
 

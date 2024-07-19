@@ -1,11 +1,6 @@
 # 9-Й СКОРПИОН
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1398 | 30 | 24 | 6 | 0 | 1 | 14 |
-
+undefined
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |

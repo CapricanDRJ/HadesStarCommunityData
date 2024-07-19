@@ -1,11 +1,6 @@
 # ZZZ-V
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1237 | 4 | 3 | 1 | 0 | 1 | 2 |
-
+undefined
 
 ### Match History
 

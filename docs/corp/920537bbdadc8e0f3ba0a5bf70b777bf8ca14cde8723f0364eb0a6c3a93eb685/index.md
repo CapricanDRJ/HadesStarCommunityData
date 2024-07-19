@@ -1,11 +1,6 @@
 # UFO
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1226 | 7 | 4 | 3 | 0 | 0 | 2 |
-
+undefined
 
 ### Match History
 

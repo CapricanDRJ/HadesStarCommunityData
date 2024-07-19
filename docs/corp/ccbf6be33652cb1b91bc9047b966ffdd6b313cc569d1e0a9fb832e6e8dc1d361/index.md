@@ -1,11 +1,6 @@
 # 数字星际集团
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1174 | 14 | 6 | 7 | 1 | 0 | 3 |
-
+undefined
 
 ### Match History
 

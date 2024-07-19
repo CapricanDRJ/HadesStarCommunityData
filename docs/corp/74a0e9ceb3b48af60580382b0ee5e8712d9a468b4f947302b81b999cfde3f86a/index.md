@@ -1,11 +1,6 @@
 # СлАвЯнСкИй СоЮз
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1228 | 11 | 7 | 4 | 0 | 0 | 5 |
-
+undefined
 
 ### Match History
 

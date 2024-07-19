@@ -1,11 +1,6 @@
 # ..D.E.I.T.Co..
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1190 | 12 | 6 | 6 | 0 | 0 | 5 |
-
+undefined
 
 ### Match History
 

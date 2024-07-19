@@ -1,11 +1,6 @@
 # Galaxian
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1287 | 27 | 18 | 9 | 0 | 0 | 7 |
-
+undefined
 
 ### Match History
 

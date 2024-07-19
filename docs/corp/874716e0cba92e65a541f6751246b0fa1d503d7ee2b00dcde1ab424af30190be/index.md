@@ -1,11 +1,6 @@
 # ༀᅗBAR ESTELARᅗༀ
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1123 | 11 | 1 | 10 | 0 | 0 | 1 |
-
+undefined
 
 ### Match History
 

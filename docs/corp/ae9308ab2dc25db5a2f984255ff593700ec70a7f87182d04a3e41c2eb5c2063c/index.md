@@ -1,11 +1,6 @@
 # ༺༽ʚ天轮间ɞ༼༻
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1173 | 3 | 1 | 2 | 0 | 0 | 0 |
-
+undefined
 
 ### Match History
 

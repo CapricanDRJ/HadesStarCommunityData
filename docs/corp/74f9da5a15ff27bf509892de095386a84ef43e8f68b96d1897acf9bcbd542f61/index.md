@@ -1,11 +1,6 @@
 # 星舰地球
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1177 | 4 | 1 | 3 | 0 | 1 | 1 |
-
+undefined
 
 ### Match History
 

@@ -1,11 +1,6 @@
 # Hand of Legion 
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1244 | 5 | 4 | 1 | 0 | 0 | 4 |
-
+undefined
 
 ### Match History
 

@@ -1,11 +1,6 @@
 # Paramedic ICU
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1233 | 19 | 9 | 8 | 2 | 0 | 6 |
-
+undefined
 
 ### Match History
 

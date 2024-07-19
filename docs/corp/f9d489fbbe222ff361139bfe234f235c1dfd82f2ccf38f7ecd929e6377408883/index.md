@@ -1,11 +1,6 @@
 # LANCE
 
-### Corporation Overview
-
-| ELO Rating | Total Matches | Wins | Losses | Draws | Streak | Streak Record |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1146 | 13 | 3 | 8 | 2 | 0 | 1 |
-
+undefined
 
 ### Match History
 
