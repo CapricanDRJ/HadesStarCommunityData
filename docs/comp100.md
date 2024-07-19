@@ -17,13 +17,13 @@ permalink: /comp100/
 | 9 | Blood Hounds | 1532 |
 | 10 | МАРСЮКИ | 1531 |
 | 11 | Ender | 1528 |
-| 12 | VoidRunners | 1526 |
-| 13 | IX Легион | 1526 |
-| 14 | Famous Assasins | 1523 |
-| 15 | BrazilCorp. | 1517 |
-| 16 | 111 | 1514 |
-| 17 | Ninth Planet | 1508 |
-| 18 | 星舰月球 | 1504 |
+| 12 | IX Легион | 1526 |
+| 13 | Famous Assasins | 1523 |
+| 14 | BrazilCorp. | 1517 |
+| 15 | 111 | 1514 |
+| 16 | Ninth Planet | 1508 |
+| 17 | 星舰月球 | 1504 |
+| 18 | VoidRunners | 1503 |
 | 19 | 仙女座星雲 | 1502 |
 | 20 | [Blue*Nation] | 1499 |
 | 21 | OntarioDawn | 1498 |
@@ -35,25 +35,25 @@ permalink: /comp100/
 | 27 | 新手联邦（新经济开发区） | 1480 |
 | 28 | Stargate Corp | 1479 |
 | 29 | Ark | 1478 |
-| 30 | Order of Hades | 1475 |
-| 31 | 共产星际 | 1474 |
-| 32 |  RELAX CZ/SK | 1473 |
-| 33 | Tuatha De Danan | 1473 |
-| 34 | Lacuna X | 1472 |
-| 35 | CIS | 1471 |
-| 36 | Октябристы | 1469 |
-| 37 | Неизбежный Рок | 1468 |
-| 38 | Лунный Феникс | 1468 |
-| 39 | Emergence | 1462 |
-| 40 | Серебряная орда | 1462 |
-| 41 | русь  | 1461 |
-| 42 | 墨痕空域 | 1461 |
-| 43 | Mercury Sunset | 1459 |
-| 44 | three kitties | 1457 |
-| 45 | ✡天启✡ | 1457 |
-| 46 | Hexacropians | 1456 |
+| 30 | Emergence | 1477 |
+| 31 | Order of Hades | 1475 |
+| 32 | 共产星际 | 1474 |
+| 33 |  RELAX CZ/SK | 1473 |
+| 34 | Tuatha De Danan | 1473 |
+| 35 | Lacuna X | 1472 |
+| 36 | CIS | 1471 |
+| 37 | Октябристы | 1469 |
+| 38 | Неизбежный Рок | 1468 |
+| 39 | Серебряная орда | 1462 |
+| 40 | русь  | 1461 |
+| 41 | 墨痕空域 | 1461 |
+| 42 | Mercury Sunset | 1459 |
+| 43 | three kitties | 1457 |
+| 44 | ✡天启✡ | 1457 |
+| 45 | Hexacropians | 1456 |
+| 46 | Лунный Феникс | 1452 |
 | 47 | IMPERIAL ARMADA | 1452 |
-| 48 | Nearland Ind | 1444 |
+| 48 | Nearland Ind | 1448 |
 | 49 | Valhalla Rising | 1441 |
 | 50 | Outland Ind. | 1440 |
 | 51 | 9-Й СКОРПИОН | 1440 |
@@ -66,23 +66,23 @@ permalink: /comp100/
 | 58 | Atlas Star llc. | 1431 |
 | 59 | Grunthal Gang | 1428 |
 | 60 | StarControl | 1428 |
-| 61 | pirates spatial | 1426 |
-| 62 | Spacefleet | 1425 |
-| 63 | リリース | 1423 |
-| 64 | 中国星际联盟 | 1423 |
-| 65 | Спутник | 1422 |
-| 66 | Spica​ | 1420 |
-| 67 | White Dwarf | 1420 |
-| 68 | TeddisaurusWrex | 1418 |
-| 69 | First Legion | 1417 |
-| 70 | 第一序列 | 1415 |
-| 71 | BRASIL STAR | 1412 |
-| 72 | Embers Rising | 1411 |
-| 73 | Warriorlords | 1411 |
-| 74 | 第四星际 | 1410 |
-| 75 | Cyber Star | 1410 |
-| 76 | 对，进就进人少的 | 1408 |
-| 77 | Kratos | 1407 |
+| 61 | Spacefleet | 1425 |
+| 62 | リリース | 1423 |
+| 63 | 中国星际联盟 | 1423 |
+| 64 | Спутник | 1422 |
+| 65 | Spica​ | 1420 |
+| 66 | White Dwarf | 1420 |
+| 67 | TeddisaurusWrex | 1418 |
+| 68 | First Legion | 1417 |
+| 69 | 第一序列 | 1415 |
+| 70 | BRASIL STAR | 1412 |
+| 71 | Embers Rising | 1411 |
+| 72 | Warriorlords | 1411 |
+| 73 | 第四星际 | 1410 |
+| 74 | Cyber Star | 1410 |
+| 75 | 对，进就进人少的 | 1408 |
+| 76 | Kratos | 1407 |
+| 77 | pirates spatial | 1406 |
 | 78 | 101 | 1402 |
 | 79 | Elysium | 1400 |
 | 80 | Corvus Ind. | 1399 |
