@@ -6,10 +6,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | 1188 | 5 | 2 | 3 | 0 | 0 | 1 |
 
-### Recurring Opponents
-
-| Opponent | Wins | Losses | Draws | Total Matches |
-| --- | --- | --- | --- | --- |
 
 ### Match History
 
