@@ -38,3 +38,5 @@
 | ✅ | 2024-01-01 | 22-2 | [ES Gaming ](https://ws.tsl.rocks/corp/1bbc4390e9fa60fe312b23c8fa8d8f9eb499307607a4c3304e33bd05bd58f981/) |
 | ✅ | 2023-12-23 | 19-2 | [Utd. Human Fed.](https://ws.tsl.rocks/corp/265fd73116c2ec237c7a966adb401d54219dee49882ee9024025c697165397d6/) |
 | ✅ | 2023-12-16 | 13-4 | [Elite2.0](https://ws.tsl.rocks/corp/7a039367a683ac04f22e6292d73d5bf2088245f47c411e6a7befd45a11740637/) |
+
+Corporation ID: fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31

@@ -107,3 +107,5 @@
 | ✅ | 2023-11-16 | 10-4 | [Death knight](https://ws.tsl.rocks/corp/a41e9fa95ab5c960a50e9dd45cdfd779f3426298744d157d9eada9fbcca16d72/) |
 | ❌ | 2023-11-11 | 4-7 | [Феникс ](https://ws.tsl.rocks/corp/9d72ce9d08fb348fee814de50704adf887fe8aa81f0aaebf12fcc522c9030f63/) |
 | ✅ | 2023-11-06 | 13-5 | [FURIA 2.0](https://ws.tsl.rocks/corp/9c52bc79384398f4052be65dc0f7ee091ac2d3cf14488efd1f4e3310b1f12574/) |
+
+Corporation ID: 39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75

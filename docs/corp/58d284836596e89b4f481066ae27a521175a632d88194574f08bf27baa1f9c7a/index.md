@@ -22,3 +22,5 @@
 | ❌ | 2023-11-17 | 0-16 | [SveaEmpire](https://ws.tsl.rocks/corp/0b7b0db6324bd57c90679186bee968ca5a59c7d4662630bf60d7e97691af2bed/) |
 | ❌ | 2023-11-11 | 0-22 | [[Blue*Nation]](https://ws.tsl.rocks/corp/38cd283c7bb8ee0390f5624e49a3465b1d4a8c789cc2d501f38918a16f6140e2/) |
 | ❌ | 2023-11-04 | 3-14 | [SpaceCowboys](https://ws.tsl.rocks/corp/e6bb3b9dcc40ad7f7c82fd0f7164a99fa6264c05a186ed9f33011a7f315ca507/) |
+
+Corporation ID: 58d284836596e89b4f481066ae27a521175a632d88194574f08bf27baa1f9c7a

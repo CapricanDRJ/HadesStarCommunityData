@@ -39,3 +39,5 @@
 | ❌ | 2023-11-18 | 3-13 | [Frontier X](https://ws.tsl.rocks/corp/ebedc8d55c207f7d93561245eeca1470119a91f985f216d40f681c9c040b9c4e/) |
 | ✅ | 2023-11-11 | 9-8 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
 | ✅ | 2023-11-05 | 6-3 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) |
+
+Corporation ID: 5835926ee3d1861cbc6fc002291ee3a4b537c1a3a0aef8ea187dfe857505bebc

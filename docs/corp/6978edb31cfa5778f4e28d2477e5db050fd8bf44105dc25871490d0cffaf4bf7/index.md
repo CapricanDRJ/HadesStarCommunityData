@@ -47,3 +47,5 @@
 | ✅ | 2023-12-22 | 32-3 | [Enigma](https://ws.tsl.rocks/corp/d901fe833fb2f84db2321a90a63d0466d4288c8c727fb177afdc6bf2c7c56f25/) |
 | ❌ | 2023-12-15 | 0-29 | [Gemini Ind.](https://ws.tsl.rocks/corp/c85dd45ed75136d750bdcc2d83740494dea9e0ba077eac1bbb2f1a442a92674c/) |
 | ✅ | 2023-12-08 | 22-4 | [Caprica command](https://ws.tsl.rocks/corp/122c9a522af83efad894aa7ba6a711a94e18cbd0045281764ef986e70361c570/) |
+
+Corporation ID: 6978edb31cfa5778f4e28d2477e5db050fd8bf44105dc25871490d0cffaf4bf7

@@ -69,3 +69,5 @@
 | ❌ | 2023-11-18 | 26-45 | [Sith Empire](https://ws.tsl.rocks/corp/7deb3943434ee3aa56bb4c29a0fb0831bcbc4b570a58a2809ea1a549b7df328e/) |
 | ❌ | 2023-11-10 | 18-34 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) |
 | ✅ | 2023-11-10 | 52-1 | [Terranova](https://ws.tsl.rocks/corp/4eeaf112dd9983e997c8c9ec43e562763a8cd4a95f268b4bfeee5e39934f01de/) |
+
+Corporation ID: 313baaeac1c759ca26e0f4bd3140711cffdfa85c287d4c992dcfb809908cf491

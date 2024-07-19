@@ -67,3 +67,5 @@
 | ✅ | 2023-11-19 | 34-0 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
 | ❌ | 2023-11-13 | 15-28 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) |
 | ✅ | 2023-11-05 | 22-3 | [Rising star](https://ws.tsl.rocks/corp/b7037efd74e829aa4ac6e49960fa44cebe1477e23d25cf1640594d9168d630db/) |
+
+Corporation ID: fd47245550708347721e341d893b73e7c23e0f3624053c47ce666e55641c9e9e

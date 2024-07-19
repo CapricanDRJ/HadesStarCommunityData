@@ -59,3 +59,5 @@
 | ✅ | 2023-12-21 | 12-0 | [星舰月球](https://ws.tsl.rocks/corp/b9a3e1e7fd3a235db7f440974db9210dc9a3b85c39fd437099f32f53cfe1e21c/) |
 | ✅ | 2023-11-12 | 13-10 | [Anti union](https://ws.tsl.rocks/corp/e0cbb56db982e302ce8b5a1f462def486b0986d978ba6702ca4db2fa6e4cdffb/) |
 | ✅ | 2023-11-05 | 5-0 | [萌新港(大佬港)](https://ws.tsl.rocks/corp/e6d9b9da7a037e3572cb594dfeba7b282b66509228c9f4f1b2138f873caa3cf3/) |
+
+Corporation ID: e088c9a1e761ef8c1f07a1d374886006b0ecace15d07b9549e3655729b630897

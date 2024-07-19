@@ -38,3 +38,5 @@
 | ✅ | 2023-12-09 | 1-0 | [Бестрашный лиги](https://ws.tsl.rocks/corp/98a0925e094c54f400b76ad64a527b25adb4fe5aa1afc4b10368f072d3741d53/) |
 | ↔️ | 2023-12-03 | 3-3 | [Ascalon](https://ws.tsl.rocks/corp/419d15ad4ef8d71b318a3969624acedc85fa9a6e07381e2c8f2fc9d7633a0e23/) |
 | ✅ | 2023-11-28 | 9-0 | [Sistemaimperial](https://ws.tsl.rocks/corp/c5d74741e67bccbb74d8e7772ef2f8cf79edb6ece339b45bb2683cb9e019c94c/) |
+
+Corporation ID: c5b272089230f78a35d3bee9ed1eb0cc2b3a65703f2452b603286e889efa74c9

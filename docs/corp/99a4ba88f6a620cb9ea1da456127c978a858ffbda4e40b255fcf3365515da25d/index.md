@@ -63,3 +63,5 @@
 | ✅ | 2023-11-20 | 8-0 | [BLOK EKIPA](https://ws.tsl.rocks/corp/b52b3a9c372aec6edf23c2fe617847cf4772d46976f5828c415089f5ae0bbcdd/) |
 | ❌ | 2023-11-14 | 0-10 | [GhostNakcoorp](https://ws.tsl.rocks/corp/0a15ae22cdfbd88694d3067838a78bea07746ec95f3784b3f65d77fe47d76312/) |
 | ✅ | 2023-11-04 | 9-0 | [space port](https://ws.tsl.rocks/corp/b7f846ef64a9939084bd4bdd17dc441ffa8fdf49f98bc558f79079c6026a4b3a/) |
+
+Corporation ID: 99a4ba88f6a620cb9ea1da456127c978a858ffbda4e40b255fcf3365515da25d

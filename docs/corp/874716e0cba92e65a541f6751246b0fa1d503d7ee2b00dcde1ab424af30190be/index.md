@@ -25,3 +25,5 @@
 | ❌ | 2023-12-11 | 0-20 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) |
 | ❌ | 2023-12-03 | 3-4 | [Seila](https://ws.tsl.rocks/corp/8749ed87cb9e85c88599f3bb9f9159e00561229eb1690cb36d565a054638cc52/) |
 | ❌ | 2023-11-16 | 3-12 | [death squadron ](https://ws.tsl.rocks/corp/7177b5a598ff387d35b2348e1ec750a9f237fbf70d8016207ea3da1619c44e5b/) |
+
+Corporation ID: 874716e0cba92e65a541f6751246b0fa1d503d7ee2b00dcde1ab424af30190be

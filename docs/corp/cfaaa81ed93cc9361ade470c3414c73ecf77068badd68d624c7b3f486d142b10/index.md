@@ -54,3 +54,5 @@
 | ✅ | 2023-12-21 | 19-0 | [Starborne Corp](https://ws.tsl.rocks/corp/8b04757fe0b1cb68d62231d7db7981ac2800afe814a6e41a024561b51c4924f5/) |
 | ✅ | 2023-12-15 | 20-0 | [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541/) |
 | ❌ | 2023-11-26 | 2-6 | [Sektion 32](https://ws.tsl.rocks/corp/16e8d18e4c51a9154959f8d3cd2417d11695210bb12baf2773eb12dea2f5966e/) |
+
+Corporation ID: cfaaa81ed93cc9361ade470c3414c73ecf77068badd68d624c7b3f486d142b10

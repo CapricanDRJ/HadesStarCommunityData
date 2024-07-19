@@ -21,3 +21,5 @@
 | ✅ | 2024-07-03 | 11-6 | [Jalisco México](https://ws.tsl.rocks/corp/495236ab2171ccbcdad0da5529f080405b1ddd081eda98c7255a8cffe5b114e4/) |
 | ✅ | 2024-06-28 | 13-0 | [империя тьмы](https://ws.tsl.rocks/corp/4eb22a1b793e5d03579cea15c873b1bef56fea02420a4e55edb18a200f7fc46a/) |
 | ❌ | 2024-06-14 | 3-35 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/54b8724d96e9c022ab2907e45bead9f5b45b02fca093dc0fe5827f14644b2663/) |
+
+Corporation ID: 86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a

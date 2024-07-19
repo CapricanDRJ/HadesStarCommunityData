@@ -66,3 +66,5 @@
 | ✅ | 2023-11-22 | 12-1 | [ギャラクシー富士山](https://ws.tsl.rocks/corp/2d5888d985fe8a11b0227ed1ac345ca5be43e105bee9c4694e43c695bfd33649/) |
 | ❌ | 2023-11-14 | 0-10 | [Stella☆Glow](https://ws.tsl.rocks/corp/86a894b97d55e4f65a3cec65d26d528341d8e70b186bcffa2e89f5f681e48396/) |
 | ❌ | 2023-11-05 | 0-5 | [Germania](https://ws.tsl.rocks/corp/e088c9a1e761ef8c1f07a1d374886006b0ecace15d07b9549e3655729b630897/) |
+
+Corporation ID: e6d9b9da7a037e3572cb594dfeba7b282b66509228c9f4f1b2138f873caa3cf3

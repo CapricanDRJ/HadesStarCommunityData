@@ -24,3 +24,5 @@
 | ✅ | 2024-06-05 | 8-7 | [WSC(no DISCORD)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ✅ | 2024-05-29 | 8-0 | [Venture](https://ws.tsl.rocks/corp/a48bd30701e4a563543ff54e7c8091cc6b5d0e972c70e4de279a93f4df2f24b0/) |
 | ✅ | 2024-05-22 | 7-3 | [洛神峰](https://ws.tsl.rocks/corp/69e75c04e1e97e3e1e943a1b8bb5ebd468da38c5daf44840707bdcd1d4823540/) |
+
+Corporation ID: c3667794c88fd0a09f565dc3b4fed5325f131a616d01d0f6890755b44997d0a1

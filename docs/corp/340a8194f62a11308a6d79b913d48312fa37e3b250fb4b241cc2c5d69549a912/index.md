@@ -21,3 +21,5 @@
 | ✅ | 2023-11-16 | 22-10 | [华夏舰队](https://ws.tsl.rocks/corp/abd6d05a100ffdde2d15abd725a209bfbbf069b60b10ddeac88e88da66191472/) |
 | ✅ | 2023-11-10 | 21-14 | [Madison Holding](https://ws.tsl.rocks/corp/94722af3fa4392e52b6bb7af15c2225968543a3de313ace4aa939d138600dd17/) |
 | ✅ | 2023-11-05 | 24-0 | [E.T.A](https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082/) |
+
+Corporation ID: 340a8194f62a11308a6d79b913d48312fa37e3b250fb4b241cc2c5d69549a912

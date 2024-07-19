@@ -30,3 +30,5 @@
 | ✅ | 2024-04-29 | 12-1 | [U.Y.E.U.](https://ws.tsl.rocks/corp/504f779e55c2d1bc5ff35b4540c0bb60421bd8bce70c3eb0caf45fd73915ec86/) |
 | ✅ | 2024-04-22 | 4-1 | [德意志第三帝国奥米加分部](https://ws.tsl.rocks/corp/b5f35e30b2dea2621e854b5011a9f9d07ca3585cd26bd9ac92aa7b06c0a522b1/) |
 | ❌ | 2024-04-14 | 1-10 | [初始之音](https://ws.tsl.rocks/corp/79f48676f0ad15541a751311b97bae91c977d65480891a675585fc396c20bdb9/) |
+
+Corporation ID: a7da1f6bd313248b8b6e68a1826bffb463c0e4977776708b28d97199f878b88c

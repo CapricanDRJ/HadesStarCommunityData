@@ -60,3 +60,5 @@
 | ✅ | 2023-12-02 | 10-4 | [拆迁大队](https://ws.tsl.rocks/corp/d8de6fa1ed53aeb856209de01d8a990a562d7438e0abe2cfe50776bb11345f17/) |
 | ❌ | 2023-11-24 | 8-15 | [Unión latina](https://ws.tsl.rocks/corp/9919a50d277644f496c19d5becdf40abb251d000345f049632329f0b35b7fbf1/) |
 | ✅ | 2023-11-17 | 14-3 | [РусКорп](https://ws.tsl.rocks/corp/7994b4a10a625b21deff136a17c63d096a4ba2f5cdd9eb9dedd7d0bd21b53d16/) |
+
+Corporation ID: 1a002c71f3aba5da5918941fa2ba4dbbfc183ad52d97d44a25718e07e6b08a03

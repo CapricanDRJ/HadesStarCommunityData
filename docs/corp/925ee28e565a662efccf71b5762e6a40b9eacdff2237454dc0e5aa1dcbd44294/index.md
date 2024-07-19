@@ -26,3 +26,5 @@
 | ✅ | 2024-01-12 | 8-6 | [Red Suns](https://ws.tsl.rocks/corp/4723a7ddfdf84d63bb4a6e897d77183874e4abd0d5f04c8c6470cb3141dd8629/) |
 | ✅ | 2024-01-03 | 12-0 | [Эдем](https://ws.tsl.rocks/corp/a61dc2c639a91f5b725d43d306ba2eebe1770c92499d7d92086b7a097f939c0d/) |
 | ✅ | 2023-12-26 | 10-2 | [Union premiun](https://ws.tsl.rocks/corp/378842e94d703234b3bbe2f660cbf69180d547b32d4453bc3ca14e7729b3485c/) |
+
+Corporation ID: 925ee28e565a662efccf71b5762e6a40b9eacdff2237454dc0e5aa1dcbd44294

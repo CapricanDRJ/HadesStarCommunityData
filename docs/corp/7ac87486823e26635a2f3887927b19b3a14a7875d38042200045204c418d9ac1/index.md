@@ -35,3 +35,5 @@
 | ✅ | 2023-11-23 | 9-0 | [СССР 2.0](https://ws.tsl.rocks/corp/2a77c0d4e05f31ab26b8c73af7f6d0b6ac40368b06a702e4a912edbf09eab65b/) |
 | ✅ | 2023-11-15 | 9-1 | [新纪元舰队](https://ws.tsl.rocks/corp/d36af8af2f097f561de219867c4bfcc83f266642293429cf3fda159792008277/) |
 | ❌ | 2023-11-07 | 4-6 | [拆迁大队](https://ws.tsl.rocks/corp/d8de6fa1ed53aeb856209de01d8a990a562d7438e0abe2cfe50776bb11345f17/) |
+
+Corporation ID: 7ac87486823e26635a2f3887927b19b3a14a7875d38042200045204c418d9ac1

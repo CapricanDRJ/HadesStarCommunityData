@@ -41,3 +41,5 @@
 | ❌ | 2023-11-18 | 1-22 | [FreeSpcAlliance](https://ws.tsl.rocks/corp/96bea64334265762457ed1f5f2d255d54618ac74fcee63697cfe08ccf08d99ce/) |
 | ✅ | 2023-11-11 | 6-4 | [Ironbear Legion](https://ws.tsl.rocks/corp/256873683be88bf78e3d4f1fda68e669c8be11e78a85f9add19e60facc9831b0/) |
 | ✅ | 2023-11-04 | 20-4 | [CSI](https://ws.tsl.rocks/corp/8943af3db9ef34a38f004d6f574b33784a179f4ee83d9a1f71e85b1d8700d315/) |
+
+Corporation ID: 2560247b1d9fc0ccccf6a9740f3e7cd5d0ebb66444a27e2a259906a476903a45

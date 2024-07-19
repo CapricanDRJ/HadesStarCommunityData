@@ -30,3 +30,5 @@
 | ↔️ | 2024-01-22 | 2-2 | [神仙'](https://ws.tsl.rocks/corp/2a865ec8658a1843c5442405aa7be1fd9e44cf058568802ca1de6610499fa973/) |
 | ✅ | 2024-01-16 | 6-2 | [Goblin Squad](https://ws.tsl.rocks/corp/8157fdbc504136281be1becade034cac02082d8e81459a1ec1190bbe7a9f5331/) |
 | ✅ | 2024-01-11 | 4-3 | [j g f h me t y ](https://ws.tsl.rocks/corp/47918aa8890d89fb5fc148ee9fdd940dd60ae73de3f7d05ccc54fabed17e1b5f/) |
+
+Corporation ID: f32abd112fe2b826948a3538a51097b9114815930ec77ad11ada1b24ce34578d

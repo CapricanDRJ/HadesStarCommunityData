@@ -43,3 +43,5 @@
 | ✅ | 2023-11-22 | 6-3 | [지고받자](https://ws.tsl.rocks/corp/7172d4e10205869e535b82bbdfc5fea3978414c420bade9a1f96cf10c8e4855d/) |
 | ❌ | 2023-11-13 | 0-18 | [CSI](https://ws.tsl.rocks/corp/8943af3db9ef34a38f004d6f574b33784a179f4ee83d9a1f71e85b1d8700d315/) |
 | ❌ | 2023-11-05 | 6-10 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |
+
+Corporation ID: 582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449

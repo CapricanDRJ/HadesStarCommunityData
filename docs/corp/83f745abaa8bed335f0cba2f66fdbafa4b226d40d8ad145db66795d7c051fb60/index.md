@@ -50,3 +50,5 @@
 | ❌ | 2023-12-15 | 1-10 | [Space Rangers](https://ws.tsl.rocks/corp/da0952db0de44e4eee72d9ffa2394d5818565c5c16d89a1313c6df07417f9fb3/) |
 | ❌ | 2023-12-10 | 0-1 | [КМБ](https://ws.tsl.rocks/corp/9863510eb8d02a7be02ef6a2cf42499cbf1e7ec62df078fe82aaa791444445f4/) |
 | ❌ | 2023-12-04 | 0-2 | [Eretria ](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |
+
+Corporation ID: 83f745abaa8bed335f0cba2f66fdbafa4b226d40d8ad145db66795d7c051fb60

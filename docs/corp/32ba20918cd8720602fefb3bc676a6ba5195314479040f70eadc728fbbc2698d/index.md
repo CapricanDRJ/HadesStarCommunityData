@@ -59,3 +59,5 @@
 | ❌ | 2023-12-15 | 3-31 | [Highland Ind. ](https://ws.tsl.rocks/corp/ba78f9ff67f8944bf4b0152d98968e0ad6c9c86cc2fc518284c0745060e90e2c/) |
 | ❌ | 2023-12-01 | 4-20 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |
 | ❌ | 2023-11-07 | 0-26 | [Green Dwarf](https://ws.tsl.rocks/corp/dbfbd1738d98b2f1a9419727fde30070aae0f158a0aa36a78561489c2bb3283a/) |
+
+Corporation ID: 32ba20918cd8720602fefb3bc676a6ba5195314479040f70eadc728fbbc2698d

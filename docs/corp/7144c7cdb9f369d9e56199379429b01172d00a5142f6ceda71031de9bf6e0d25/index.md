@@ -30,3 +30,5 @@
 | ❌ | 2023-11-22 | 3-11 | [РусКорп](https://ws.tsl.rocks/corp/7994b4a10a625b21deff136a17c63d096a4ba2f5cdd9eb9dedd7d0bd21b53d16/) |
 | ✅ | 2023-11-21 | 5-2 | [Union premiun](https://ws.tsl.rocks/corp/378842e94d703234b3bbe2f660cbf69180d547b32d4453bc3ca14e7729b3485c/) |
 | ✅ | 2023-11-13 | 5-0 | [chrtrncmndr](https://ws.tsl.rocks/corp/d45b04221ecdcddea93f7062e9a00110605a540dd8b40f83ae26b81bc51a393b/) |
+
+Corporation ID: 7144c7cdb9f369d9e56199379429b01172d00a5142f6ceda71031de9bf6e0d25

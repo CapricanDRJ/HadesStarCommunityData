@@ -44,3 +44,5 @@
 | ✅ | 2024-01-14 | 3-0 | [СНГ — РОССИЯ](https://ws.tsl.rocks/corp/075394144fa4e771dc8358886dc461b0ed87d948b46e5d817d29296adf2f11f2/) |
 | ❌ | 2024-01-09 | 0-5 | [Rozen Family](https://ws.tsl.rocks/corp/e545e269a3fe6ff2dd7d4f794a7e13eb190bf12c3b62e0284d34b185cbcb40a2/) |
 | ✅ | 2024-01-04 | 1-0 | [United Artists](https://ws.tsl.rocks/corp/93a82bb8d95632fd7f9abd3f024e8e9ff678aa31dec4c91872c8a4464b660686/) |
+
+Corporation ID: f57faccefed6ab561fa61ac8e6f60708928e3a8b5caa5172c97c2a29348aed37

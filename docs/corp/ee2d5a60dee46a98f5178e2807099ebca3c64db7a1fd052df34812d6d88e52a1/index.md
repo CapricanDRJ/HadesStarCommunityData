@@ -32,3 +32,5 @@
 | ❌ | 2023-11-28 | 23-25 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ✅ | 2023-11-22 | 15-4 | [Gulinga](https://ws.tsl.rocks/corp/63ab273ab0cfc2919038a10f1641498d1beb4496658f7c5a0fee55c2518815fe/) |
 | ❌ | 2023-11-11 | 3-11 | [USSR](https://ws.tsl.rocks/corp/775ec12999c2bb5396801268de447d30104b470d9f093ec4afea9c9db71d7690/) |
+
+Corporation ID: ee2d5a60dee46a98f5178e2807099ebca3c64db7a1fd052df34812d6d88e52a1

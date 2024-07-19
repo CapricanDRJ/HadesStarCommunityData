@@ -16,3 +16,5 @@
 | --- | --- | --- | --- |
 | ❌ | 2024-05-06 | 1-29 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) |
 | ❌ | 2023-11-20 | 3-20 | [Revelation](https://ws.tsl.rocks/corp/e9b22a24d853613b0ebd6fb2e70994410d4ff4323a002da5f0bece764e81374a/) |
+
+Corporation ID: 9c3a6232c7aaa991745686dbc2efb82907b20bb2a5b5963ff2ae61a768c1405e

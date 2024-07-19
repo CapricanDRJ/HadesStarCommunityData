@@ -29,3 +29,5 @@
 | ❌ | 2023-12-30 | 3-18 | [Corp. Estelar 2](https://ws.tsl.rocks/corp/6dc3ed66c1c5c48a88912d686edd55b65123c8fe685858c605cf404be090ef62/) |
 | ❌ | 2023-12-03 | 3-12 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | ❌ | 2023-11-08 | 0-8 | [GhostNakcoorp](https://ws.tsl.rocks/corp/0a15ae22cdfbd88694d3067838a78bea07746ec95f3784b3f65d77fe47d76312/) |
+
+Corporation ID: 5675df73364d8b031e9541d8aa8d5a9e55649ef419ad87c0b21dec77a0ed6044

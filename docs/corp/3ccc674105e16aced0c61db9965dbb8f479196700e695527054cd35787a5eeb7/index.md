@@ -24,3 +24,5 @@
 | ✅ | 2024-01-13 | 4-3 | [TECH CO](https://ws.tsl.rocks/corp/49f9afe365665b0d622f99306a23e7a2ebd9cf7022ee79c25e08917977ab9d7a/) |
 | ❌ | 2024-01-07 | 3-23 | [SpaceCowboys](https://ws.tsl.rocks/corp/e6bb3b9dcc40ad7f7c82fd0f7164a99fa6264c05a186ed9f33011a7f315ca507/) |
 | ❌ | 2023-12-23 | 5-33 | [Got Nothing](https://ws.tsl.rocks/corp/ea7879fd9cbed37b260ec2bf39339786942fb34216036a90e107ba525f5924e1/) |
+
+Corporation ID: 3ccc674105e16aced0c61db9965dbb8f479196700e695527054cd35787a5eeb7

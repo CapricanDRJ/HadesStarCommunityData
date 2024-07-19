@@ -41,3 +41,5 @@
 | ✅ | 2023-11-23 | 46-11 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) |
 | ✅ | 2023-11-17 | 28-16 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) |
 | ❌ | 2023-11-10 | 34-35 | [DTC](https://ws.tsl.rocks/corp/4be10b4fa74e6bc45ea50d720527bec8db0312f419a419f203b09350d663c755/) |
+
+Corporation ID: 696ca774d5aafa8bb17ba1f82e16b8751b9775c85e733177827be58093cd7b9e

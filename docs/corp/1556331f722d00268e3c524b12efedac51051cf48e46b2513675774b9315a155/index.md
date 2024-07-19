@@ -43,3 +43,5 @@
 | ❌ | 2024-02-24 | 0-17 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
 | ❌ | 2024-02-24 | 17-19 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) |
 | ❌ | 2023-11-05 | 0-27 | [Brodudes Inc.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) |
+
+Corporation ID: 1556331f722d00268e3c524b12efedac51051cf48e46b2513675774b9315a155

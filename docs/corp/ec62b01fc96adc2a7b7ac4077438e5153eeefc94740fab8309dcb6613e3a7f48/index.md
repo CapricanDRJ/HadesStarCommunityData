@@ -45,3 +45,5 @@
 | ❌ | 2024-02-29 | 4-24 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) |
 | ✅ | 2023-12-06 | 2-0 | [🌪TORNADO ](https://ws.tsl.rocks/corp/df15d02d32c67d60995e68d6c4197c23b340a0a985f04280563d8d07bd4536fa/) |
 | ❌ | 2023-11-27 | 0-4 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
+
+Corporation ID: ec62b01fc96adc2a7b7ac4077438e5153eeefc94740fab8309dcb6613e3a7f48

@@ -58,3 +58,5 @@
 | ❌ | 2023-12-19 | 4-6 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ✅ | 2023-12-14 | 7-1 | [DeutschlandGmbH](https://ws.tsl.rocks/corp/7f4550924e4740a47b7d66c9ddf38d65c37590507caab29eecc74f81a4ae2895/) |
 | ↔️ | 2023-12-09 | 3-3 | [羽共和体](https://ws.tsl.rocks/corp/61b6e0502a087307a2ecf50e5d84f6123ad19984dc5790c997f16a676213aa7e/) |
+
+Corporation ID: ce3450a529768e932b3aeb4c6f39b9295e6e07d010b209d0120c0125799adc43

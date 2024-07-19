@@ -30,3 +30,5 @@
 | ✅ | 2024-06-18 | 8-5 | [Shrimp City](https://ws.tsl.rocks/corp/eae9b3a1f9dd6b4a1fb39d6aedfe84a80662abe6b181bedcfd7ec15d931b8e84/) |
 | ❌ | 2024-06-02 | 1-20 | [Dark Training](https://ws.tsl.rocks/corp/f889cafae8c2e0c622ae5494ce013504bf204ba00f7c7b44c61985588ee8f53c/) |
 | ❌ | 2023-11-18 | 1-8 | [Space Rangers](https://ws.tsl.rocks/corp/da0952db0de44e4eee72d9ffa2394d5818565c5c16d89a1313c6df07417f9fb3/) |
+
+Corporation ID: b1da3a2265efd2266a8e4b5698a731ae179d00e431ee748d7bee62a1357a12ed

@@ -45,3 +45,5 @@
 | ✅ | 2023-11-17 | 19-0 | [Aeternae](https://ws.tsl.rocks/corp/05ad49bd809f330a794a7d0278a5e21b110b79ebb26ff8d28a25e8a2f1bcb7c8/) |
 | ❌ | 2023-11-10 | 1-13 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |
 | ❌ | 2023-11-04 | 17-20 | [Red Dawn](https://ws.tsl.rocks/corp/fee852a2530bc5e3cbe5b2a5fdb224d249eeceeb3688cfd71479344181831328/) |
+
+Corporation ID: 47482f042b35cecaaaf58ee05b6672bab3c49469b039f75f304535ffd2d02491

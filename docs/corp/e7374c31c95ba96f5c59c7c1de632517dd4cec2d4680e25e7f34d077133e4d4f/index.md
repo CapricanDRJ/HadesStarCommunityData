@@ -94,3 +94,5 @@
 | ❌ | 2023-12-15 | 0-27 | [-=Содружество=-](https://ws.tsl.rocks/corp/a9493d38afc250d1f8288ca320eb0e5fb1263b1854737d813cdbf575c0e0e2d3/) |
 | ❌ | 2023-11-04 | 0-24 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | ❌ | 2023-11-04 | 0-23 | [Gemini Ind.](https://ws.tsl.rocks/corp/c85dd45ed75136d750bdcc2d83740494dea9e0ba077eac1bbb2f1a442a92674c/) |
+
+Corporation ID: e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f

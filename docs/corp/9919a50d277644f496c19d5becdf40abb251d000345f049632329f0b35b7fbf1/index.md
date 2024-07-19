@@ -70,3 +70,5 @@
 | ❌ | 2023-11-19 | 3-14 | [Cerulean Star](https://ws.tsl.rocks/corp/63d77c8d633b9dec932ad5d0f5a8ceb371b865b1adbb221ed410c5a7ba7df203/) |
 | ✅ | 2023-11-13 | 11-10 | [Galactic Empire](https://ws.tsl.rocks/corp/e2223ab2b582a5eb5ae1734e132358eb3c24ddf61fcbeee7b8f6708f26782108/) |
 | ✅ | 2023-11-05 | 8-3 | [Венерский Союз](https://ws.tsl.rocks/corp/6d869628a64fc11a17264dacfd741e7d603069d526d32a166c48ff7fd9499bf6/) |
+
+Corporation ID: 9919a50d277644f496c19d5becdf40abb251d000345f049632329f0b35b7fbf1

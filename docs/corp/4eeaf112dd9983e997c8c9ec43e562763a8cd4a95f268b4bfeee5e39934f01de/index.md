@@ -55,3 +55,5 @@
 | ❌ | 2024-01-19 | 19-57 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) |
 | ❌ | 2023-12-22 | 7-31 | [Grunthal Gang](https://ws.tsl.rocks/corp/0ab98cd1f1b195397b27360ea0dee2527f1504c9f5d4867e719d6f1f73efb01d/) |
 | ❌ | 2023-11-10 | 1-52 | [Legion](https://ws.tsl.rocks/corp/313baaeac1c759ca26e0f4bd3140711cffdfa85c287d4c992dcfb809908cf491/) |
+
+Corporation ID: 4eeaf112dd9983e997c8c9ec43e562763a8cd4a95f268b4bfeee5e39934f01de

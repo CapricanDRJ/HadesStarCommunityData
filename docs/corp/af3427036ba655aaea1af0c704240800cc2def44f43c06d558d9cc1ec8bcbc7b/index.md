@@ -44,3 +44,5 @@
 | ✅ | 2024-01-09 | 19-7 | [Созидание 2.0](https://ws.tsl.rocks/corp/ae8b8d247dbd93bebc2b77d48c1db6783a17ff8b16438f010c804b7ccf05b76a/) |
 | ✅ | 2023-12-31 | 2-1 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 | ❌ | 2023-12-21 | 7-30 | [Lacuna Holdings](https://ws.tsl.rocks/corp/17f4ece94ed033805ed258868416020d302254e2e3becbd1e25381be7933be76/) |
+
+Corporation ID: af3427036ba655aaea1af0c704240800cc2def44f43c06d558d9cc1ec8bcbc7b

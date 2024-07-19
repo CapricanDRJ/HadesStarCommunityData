@@ -81,3 +81,5 @@
 | ✅ | 2024-01-22 | 13-0 | [CCCP](https://ws.tsl.rocks/corp/34cd422237fc59472ea900588e5416892c4cceeae033e28f8352b61524a92ac7/) |
 | ✅ | 2024-01-17 | 14-1 | [001-23](https://ws.tsl.rocks/corp/790662c2084ccccfc01b7d1639992198be537b4040c21dae0a20e650e0667ffc/) |
 | ✅ | 2024-01-12 | 6-0 | [Consortium](https://ws.tsl.rocks/corp/2d28d460f549084fa8f440de8a4da35728d64c0bb2f1a8ac30e07282c5210d89/) |
+
+Corporation ID: 6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81

@@ -46,3 +46,5 @@
 | ❌ | 2023-11-30 | 1-21 | [Galaxian](https://ws.tsl.rocks/corp/5dcf6b30fe7412dfe10c7f88aacc5e5ec1d63a2ea3df0084c393b9e20c34ee97/) |
 | ❌ | 2023-11-24 | 1-5 | [Alpha ](https://ws.tsl.rocks/corp/accb87a59c1f019d1be37fa2b19ae2aeb35c4a995d1d621a8e987065cd1328fe/) |
 | ❌ | 2023-11-18 | 3-36 | [Imperium XIII](https://ws.tsl.rocks/corp/0d52edf77b0cdeaaea6ebc20a7f5b6a60372b535bf96f556b31e2243dc8ee75a/) |
+
+Corporation ID: 04182a4606d981d1c410b0c058248e428765c672442d912ec47218ace9004e74

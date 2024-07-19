@@ -19,3 +19,5 @@
 | ❌ | 2023-12-15 | 5-26 | [星舰月球](https://ws.tsl.rocks/corp/b9a3e1e7fd3a235db7f440974db9210dc9a3b85c39fd437099f32f53cfe1e21c/) |
 | ✅ | 2023-12-08 | 11-6 | [LANCE](https://ws.tsl.rocks/corp/f9d489fbbe222ff361139bfe234f235c1dfd82f2ccf38f7ecd929e6377408883/) |
 | ❌ | 2023-11-17 | 18-32 | [Ironbear Legion](https://ws.tsl.rocks/corp/256873683be88bf78e3d4f1fda68e669c8be11e78a85f9add19e60facc9831b0/) |
+
+Corporation ID: 6cfd8e9ae46dead9778d845eb177ce596fdff6ede81b276df2d91568da9a18f4

@@ -20,3 +20,5 @@
 | ✅ | 2023-11-29 | 3-1 | [星光禁卫](https://ws.tsl.rocks/corp/8a3e5d55227ad679805b549aca87a2bc5acb1215ccd2af913592418385eccd25/) |
 | ✅ | 2023-11-24 | 10-0 | [Эдельвейс](https://ws.tsl.rocks/corp/457192accaef3d494cc5929e091f05ca560778729d99966d0ab04c2d741d18a7/) |
 | ❌ | 2023-11-18 | 2-8 | [Альянс звезд](https://ws.tsl.rocks/corp/c406351fec6349034d9ae58aec3da43a5507ad86ff9a89b4654a20eb10e6de95/) |
+
+Corporation ID: b3c982613964d8287b8f57e57ececf5b9497766670fc306d9827c85fbcdb2887

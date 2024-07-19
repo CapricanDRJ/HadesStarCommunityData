@@ -31,3 +31,5 @@
 | ✅ | 2024-05-22 | 9-2 | [МеГаКо](https://ws.tsl.rocks/corp/11cd7fa53aad1bfc7d40c47a63de7b6c4a6d76f00e69dcb853f47e2c90b382dd/) |
 | ✅ | 2024-05-17 | 4-0 | [Venture](https://ws.tsl.rocks/corp/a48bd30701e4a563543ff54e7c8091cc6b5d0e972c70e4de279a93f4df2f24b0/) |
 | ✅ | 2024-05-01 | 14-0 | [STRVS233～](https://ws.tsl.rocks/corp/727f6b88132c5850b1ef7ad02101bab3f97fc5dd191307dffca64181bf41e614/) |
+
+Corporation ID: d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed

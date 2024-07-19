@@ -37,3 +37,5 @@
 | ✅ | 2024-01-01 | 5-0 | [Round Table ](https://ws.tsl.rocks/corp/13ad99eca42a3c4fef2090e611b9e4ab6e4bd3b1b94375e264e2d060447a8c21/) |
 | ❌ | 2023-12-22 | 1-24 | [Медведи](https://ws.tsl.rocks/corp/b3b0cac2c48761153afa1dcad7a4048103ffc3ec2ca6d477a6bd744922fce075/) |
 | ❌ | 2023-12-16 | 2-3 | [하데스 스타 코리아](https://ws.tsl.rocks/corp/36ae3ca01b555bd695500062530b53a2b19cc9d4bab087051ea8775124723e94/) |
+
+Corporation ID: 48a0b2c0f203025d10d1217dbcc5e27f3e31f56f2c407d61219c24ec88446be7

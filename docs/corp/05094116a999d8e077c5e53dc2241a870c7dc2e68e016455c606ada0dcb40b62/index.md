@@ -56,3 +56,5 @@
 | ❌ | 2024-01-06 | 0-9 | [SUN OF 3LANDS](https://ws.tsl.rocks/corp/874f472303f6616789f5df41609dba8d64b95e8b9291aaf23a05e4c397a2f44a/) |
 | ❌ | 2024-01-01 | 0-2 | [Red Suns](https://ws.tsl.rocks/corp/4723a7ddfdf84d63bb4a6e897d77183874e4abd0d5f04c8c6470cb3141dd8629/) |
 | ↔️ | 2023-12-26 | 0-0 | [🌪TORNADO ](https://ws.tsl.rocks/corp/df15d02d32c67d60995e68d6c4197c23b340a0a985f04280563d8d07bd4536fa/) |
+
+Corporation ID: 05094116a999d8e077c5e53dc2241a870c7dc2e68e016455c606ada0dcb40b62

@@ -39,3 +39,5 @@
 | ❌ | 2023-12-02 | 3-16 | [Canada 55](https://ws.tsl.rocks/corp/ce9e570030319de84612b35396eceb66e8354735920c430d9f42234066290c56/) |
 | ✅ | 2023-11-26 | 16-3 | [SEK-SPACE ORDER](https://ws.tsl.rocks/corp/de889a16f8f6f7dbd3e87e8810f40b48608df199fe1286e8bf1a8043887e105d/) |
 | ✅ | 2023-11-19 | 9-1 | [CCCP](https://ws.tsl.rocks/corp/34cd422237fc59472ea900588e5416892c4cceeae033e28f8352b61524a92ac7/) |
+
+Corporation ID: b76233469d1b4590ef63daba47aeb4239d428cb0804768d58f7e891418b91f81

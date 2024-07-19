@@ -63,3 +63,5 @@
 | ✅ | 2023-11-21 | 33-5 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |
 | ✅ | 2023-11-14 | 21-8 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) |
 | ✅ | 2023-11-05 | 22-3 | [日中連合](https://ws.tsl.rocks/corp/55217d3fb09f4242a79ded9faef3a4749fcfbbe4090a54b707e1576826d2539a/) |
+
+Corporation ID: 53297ed66c8c326d4cb4eebdee55172d3d64f122addd5d916b314f4ab557e21a

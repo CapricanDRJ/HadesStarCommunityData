@@ -35,3 +35,5 @@
 | ❌ | 2023-12-28 | 1-5 | [Warp Dominion](https://ws.tsl.rocks/corp/ccd60dbdf5091bcb2d6b0f011ba1a3645e89baed985e2e455b2e1de1412769c5/) |
 | ❌ | 2023-12-18 | 0-12 | [Albedo](https://ws.tsl.rocks/corp/8e9848f9867c594384d6a31618213447f358c7b308fee91d20991b80b513fdbb/) |
 | ↔️ | 2023-12-14 | 0-0 | [ELITE](https://ws.tsl.rocks/corp/eb139c46c9eaf296b3dadaf953613bd2fb966ec6898536714a7e29d1ba1dd4eb/) |
+
+Corporation ID: 22a12c757b3e065e8ec7a839b80e33339317bb277aeee145f6cde6f473e06f8f

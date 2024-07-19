@@ -88,3 +88,5 @@
 | ✅ | 2023-11-17 | 37-22 | [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) |
 | ✅ | 2023-11-10 | 35-34 | [Black Sun](https://ws.tsl.rocks/corp/696ca774d5aafa8bb17ba1f82e16b8751b9775c85e733177827be58093cd7b9e/) |
 | ❌ | 2023-11-04 | 1-40 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) |
+
+Corporation ID: 4be10b4fa74e6bc45ea50d720527bec8db0312f419a419f203b09350d663c755

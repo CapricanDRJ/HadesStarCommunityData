@@ -60,3 +60,5 @@
 | ❌ | 2023-11-20 | 10-25 | [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b/) |
 | ✅ | 2023-11-14 | 10-0 | [萌新港(大佬港)](https://ws.tsl.rocks/corp/e6d9b9da7a037e3572cb594dfeba7b282b66509228c9f4f1b2138f873caa3cf3/) |
 | ✅ | 2023-11-06 | 3-0 | [Heavenly Star ](https://ws.tsl.rocks/corp/c13cd1bfbb39661dd85e6c537f8ab409ce480e4f3db2b2e6ca8308507cf137eb/) |
+
+Corporation ID: 86a894b97d55e4f65a3cec65d26d528341d8e70b186bcffa2e89f5f681e48396

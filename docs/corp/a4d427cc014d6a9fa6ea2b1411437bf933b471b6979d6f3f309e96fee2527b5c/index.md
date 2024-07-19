@@ -25,3 +25,5 @@
 | ✅ | 2024-01-17 | 5-3 | [STRVS233～](https://ws.tsl.rocks/corp/727f6b88132c5850b1ef7ad02101bab3f97fc5dd191307dffca64181bf41e614/) |
 | ✅ | 2024-01-03 | 4-0 | [The Galxey █](https://ws.tsl.rocks/corp/d52cda2701dd013db91403bab0ff5972e0d9f3a13f842daf8d633025835a6b19/) |
 | ✅ | 2023-11-11 | 4-3 | [Бестрашный лиги](https://ws.tsl.rocks/corp/98a0925e094c54f400b76ad64a527b25adb4fe5aa1afc4b10368f072d3741d53/) |
+
+Corporation ID: a4d427cc014d6a9fa6ea2b1411437bf933b471b6979d6f3f309e96fee2527b5c

@@ -88,3 +88,5 @@
 | ❌ | 2023-11-16 | 38-59 | [Spacefleet](https://ws.tsl.rocks/corp/517f7b257f68936f7a95a478d6923776a2549b88897bae628fd35b23572d3cbd/) |
 | ✅ | 2023-11-10 | 44-4 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ✅ | 2023-11-09 | 37-2 | [Rocket-by Baby](https://ws.tsl.rocks/corp/a125ad1d27fcc4c18515810a32c12d2d9465565ef75fa08ca2947dee52538313/) |
+
+Corporation ID: 0ab98cd1f1b195397b27360ea0dee2527f1504c9f5d4867e719d6f1f73efb01d

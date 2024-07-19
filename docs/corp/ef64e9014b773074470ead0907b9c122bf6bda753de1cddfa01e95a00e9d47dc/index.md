@@ -93,3 +93,5 @@
 | ❌ | 2023-11-30 | 0-68 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) |
 | ✅ | 2023-11-25 | 26-0 | [The Watchers](https://ws.tsl.rocks/corp/62a08ec3521bd62e5c8fbfc03c7d99fbf3e30fd1df80716485c9b989b27771e6/) |
 | ❌ | 2023-11-13 | 0-22 | [Famous Assasins](https://ws.tsl.rocks/corp/8a3aea3b3dacfd3dcdb402e896204557e250b07b8a5e04b5814600c66cc1a25b/) |
+
+Corporation ID: ef64e9014b773074470ead0907b9c122bf6bda753de1cddfa01e95a00e9d47dc

@@ -80,3 +80,5 @@
 | ✅ | 2023-11-10 | 36-12 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | ✅ | 2023-11-05 | 32-9 | [Star-Jump CORPS](https://ws.tsl.rocks/corp/234fbe42315d6605bea895ee435f738665ecf2712d0c533ce077a1b8c41c6f07/) |
 | ✅ | 2023-11-04 | 35-12 | [Sith Empire](https://ws.tsl.rocks/corp/7deb3943434ee3aa56bb4c29a0fb0831bcbc4b570a58a2809ea1a549b7df328e/) |
+
+Corporation ID: 517f7b257f68936f7a95a478d6923776a2549b88897bae628fd35b23572d3cbd

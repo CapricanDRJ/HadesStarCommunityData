@@ -33,3 +33,5 @@
 | ✅ | 2023-12-08 | 2-0 | [The Galxey █](https://ws.tsl.rocks/corp/d52cda2701dd013db91403bab0ff5972e0d9f3a13f842daf8d633025835a6b19/) |
 | ✅ | 2023-12-02 | 1-0 | [하데스 스타 코리아](https://ws.tsl.rocks/corp/36ae3ca01b555bd695500062530b53a2b19cc9d4bab087051ea8775124723e94/) |
 | ❌ | 2023-11-24 | 0-3 | [Krasse Bros](https://ws.tsl.rocks/corp/ec8df719929b564225592da878034621da81f0c95a84a1afdee1b2c8389374fb/) |
+
+Corporation ID: f461f65e85a43e0b855a525f6995505fc1cc5ae6f85be50470c9dacbb955fc21

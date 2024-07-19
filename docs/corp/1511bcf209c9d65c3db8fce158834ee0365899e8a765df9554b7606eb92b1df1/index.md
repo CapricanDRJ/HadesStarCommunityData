@@ -35,3 +35,5 @@
 | ❌ | 2023-11-15 | 0-4 | [RedStar Raiding](https://ws.tsl.rocks/corp/83a1c4f1576eec7dce037eb5b64b2455ca3affb9d3072108c5d4d3eba88b4570/) |
 | ❌ | 2023-11-15 | 0-21 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) |
 | ❌ | 2023-11-05 | 3-26 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
+
+Corporation ID: 1511bcf209c9d65c3db8fce158834ee0365899e8a765df9554b7606eb92b1df1

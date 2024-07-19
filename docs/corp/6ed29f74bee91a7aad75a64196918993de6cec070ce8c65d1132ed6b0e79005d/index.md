@@ -29,3 +29,5 @@
 | ✅ | 2024-03-02 | 18-3 | [МеГаКо](https://ws.tsl.rocks/corp/11cd7fa53aad1bfc7d40c47a63de7b6c4a6d76f00e69dcb853f47e2c90b382dd/) |
 | ✅ | 2024-02-08 | 21-2 | [Bunker](https://ws.tsl.rocks/corp/583eeb4aaa577ce5d9806fc637f83d7c02b2a29fa2d47eb38fd658be8ef93588/) |
 | ✅ | 2024-01-19 | 12-0 | [Jalisco México](https://ws.tsl.rocks/corp/495236ab2171ccbcdad0da5529f080405b1ddd081eda98c7255a8cffe5b114e4/) |
+
+Corporation ID: 6ed29f74bee91a7aad75a64196918993de6cec070ce8c65d1132ed6b0e79005d

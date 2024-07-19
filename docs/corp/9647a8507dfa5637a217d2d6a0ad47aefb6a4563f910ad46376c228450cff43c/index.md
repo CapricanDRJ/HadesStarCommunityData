@@ -42,3 +42,5 @@
 | ❌ | 2024-01-06 | 7-32 | [Soylent Corp.](https://ws.tsl.rocks/corp/9f978f9cca690b76981d538d63260cd39d51427e5d69412113ccad02cc7cac2d/) |
 | ❌ | 2023-12-31 | 3-17 | [Dumpster Fire](https://ws.tsl.rocks/corp/f191bf7efb93ca805453b3e11aef9278976a4c70fe9790e7813f28fcdf899121/) |
 | ❌ | 2023-11-26 | 0-19 | [Corp. Estelar 2](https://ws.tsl.rocks/corp/6dc3ed66c1c5c48a88912d686edd55b65123c8fe685858c605cf404be090ef62/) |
+
+Corporation ID: 9647a8507dfa5637a217d2d6a0ad47aefb6a4563f910ad46376c228450cff43c

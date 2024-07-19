@@ -57,3 +57,5 @@
 | ❌ | 2023-11-23 | 0-19 | [(_(_Vossk_)_)](https://ws.tsl.rocks/corp/6db23201f00670abe532f02a8fc28e109f95d673ef31ca1df7362c0a6c45dd2f/) |
 | ❌ | 2023-11-14 | 4-6 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ❌ | 2023-11-08 | 5-13 | [Алый Феникс](https://ws.tsl.rocks/corp/ef2a58ee1052c616143ee1bf5e380609a7c061c603d10775b81563869a44433f/) |
+
+Corporation ID: 2fff67029125a29f7fa3252e0f8387f3ae93c6c59bd05d358723e02f3199db72

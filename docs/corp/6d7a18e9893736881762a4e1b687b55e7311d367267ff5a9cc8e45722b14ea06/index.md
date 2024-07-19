@@ -42,3 +42,5 @@
 | ✅ | 2023-12-12 | 8-1 | [Enigma](https://ws.tsl.rocks/corp/b090292814af4e2f0c44d130ddd9ef8f56c0f42990900a3bb4f8ae48970c907d/) |
 | ✅ | 2023-12-11 | 4-3 | [РусКорп](https://ws.tsl.rocks/corp/7994b4a10a625b21deff136a17c63d096a4ba2f5cdd9eb9dedd7d0bd21b53d16/) |
 | ✅ | 2023-12-04 | 7-3 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
+
+Corporation ID: 6d7a18e9893736881762a4e1b687b55e7311d367267ff5a9cc8e45722b14ea06

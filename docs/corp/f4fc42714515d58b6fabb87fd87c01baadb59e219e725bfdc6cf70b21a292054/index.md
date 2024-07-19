@@ -26,3 +26,5 @@
 | ✅ | 2023-12-03 | 9-0 | [l'empire sylli](https://ws.tsl.rocks/corp/0f9d92470641b1e171644fb99f888ee88663ea4ba40d1af7bd21d5aac1abd587/) |
 | ✅ | 2023-11-26 | 7-5 | [STARBLAZER ](https://ws.tsl.rocks/corp/f7649968be86f892b511b45792945c0b5d262c5322586eba7482c3d61e28ac72/) |
 | ❌ | 2023-11-20 | 4-13 | [Galactic Empire](https://ws.tsl.rocks/corp/e2223ab2b582a5eb5ae1734e132358eb3c24ddf61fcbeee7b8f6708f26782108/) |
+
+Corporation ID: f4fc42714515d58b6fabb87fd87c01baadb59e219e725bfdc6cf70b21a292054

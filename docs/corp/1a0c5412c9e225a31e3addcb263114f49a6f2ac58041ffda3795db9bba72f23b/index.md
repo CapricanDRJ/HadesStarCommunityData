@@ -76,3 +76,5 @@
 | ✅ | 2023-12-22 | 7-0 | [NEW HOLLAND](https://ws.tsl.rocks/corp/b080750b30e8c3b7a4c8bd483921bb8082a83d48c662683a07beba245f70c2a2/) |
 | ✅ | 2023-12-17 | 10-1 | [Space Scourge](https://ws.tsl.rocks/corp/04ad48264f0fcb63156d90f6ff6dfd55b1ab9321d56144f671a84c0253bccfc1/) |
 | ✅ | 2023-12-12 | 4-0 | [mijael siuuuuuu](https://ws.tsl.rocks/corp/45ca23a78c96de3dd53a33f7c9f029b7dc5edf0fb7f15e5d46f1893c68d28334/) |
+
+Corporation ID: 1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b

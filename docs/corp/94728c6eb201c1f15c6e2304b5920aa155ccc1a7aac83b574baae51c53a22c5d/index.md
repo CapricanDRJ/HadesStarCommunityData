@@ -43,3 +43,5 @@
 | ✅ | 2023-12-07 | 7-6 | [1st/Ave/Junkie2](https://ws.tsl.rocks/corp/b129b678cd83374fa72b5da92172ff1c856b8f72c32bcdb4711d66d06528fca1/) |
 | ❌ | 2023-11-14 | 3-13 | [Zeta LLC](https://ws.tsl.rocks/corp/5779c7241b1f516fefec667bf95a9d1e0db38d307d559e1491b4f3a7fcd720f8/) |
 | ✅ | 2023-11-07 | 23-14 | [Best UA West](https://ws.tsl.rocks/corp/4d9a4fb86f55f49b64d6170705b42f7a2c988cc389331425c13603b0ebce6146/) |
+
+Corporation ID: 94728c6eb201c1f15c6e2304b5920aa155ccc1a7aac83b574baae51c53a22c5d

@@ -39,3 +39,5 @@
 | ❌ | 2023-11-16 | 0-3 | [自由星际联盟](https://ws.tsl.rocks/corp/933277ff64041b32fe12e4e564e2064071377343596c7944fb8c145165e2ab04/) |
 | ✅ | 2023-11-14 | 16-0 | [Toxic](https://ws.tsl.rocks/corp/6fd41dbfe23fef41eedbc7b3cd8651f24735f62594a817d28e88676f68ce3198/) |
 | ✅ | 2023-11-06 | 11-9 | [元素联邦](https://ws.tsl.rocks/corp/e9d602d617d5c81270107c15a6d1f1717c5016abad802d3629f7f4301a58e95e/) |
+
+Corporation ID: 1beef0498f07b07217c6e0727dffd066947edc54ee6d09dc63c031def52cdd60

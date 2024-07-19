@@ -58,3 +58,5 @@
 | ❌ | 2023-11-17 | 11-17 | [-=Содружество=-](https://ws.tsl.rocks/corp/a9493d38afc250d1f8288ca320eb0e5fb1263b1854737d813cdbf575c0e0e2d3/) |
 | ❌ | 2023-11-12 | 8-9 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) |
 | ❌ | 2023-11-06 | 9-11 | [ 墨痕 ](https://ws.tsl.rocks/corp/1beef0498f07b07217c6e0727dffd066947edc54ee6d09dc63c031def52cdd60/) |
+
+Corporation ID: e9d602d617d5c81270107c15a6d1f1717c5016abad802d3629f7f4301a58e95e

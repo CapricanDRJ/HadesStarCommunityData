@@ -46,3 +46,5 @@
 | ❌ | 2024-01-06 | 39-49 | [ItBurnsWhenIEMP](https://ws.tsl.rocks/corp/1549586a8e69d1a5b1245b5cf33b7beb241b2343c07d1d800e5a2c4026c06438/) |
 | ❌ | 2023-11-19 | 10-47 | [Famous Assasins](https://ws.tsl.rocks/corp/8a3aea3b3dacfd3dcdb402e896204557e250b07b8a5e04b5814600c66cc1a25b/) |
 | ❌ | 2023-11-06 | 10-15 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) |
+
+Corporation ID: ad5bb68e6076ee70e6715ecead226fc9880b66a87b68acb3098843f723c1562e

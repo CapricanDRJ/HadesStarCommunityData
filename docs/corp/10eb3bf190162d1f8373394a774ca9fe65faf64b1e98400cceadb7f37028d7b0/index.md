@@ -35,3 +35,5 @@
 | ↔️ | 2023-12-06 | 4-4 | [CAEDRUS [<o>]](https://ws.tsl.rocks/corp/b3c982613964d8287b8f57e57ececf5b9497766670fc306d9827c85fbcdb2887/) |
 | ❌ | 2023-11-17 | 2-7 | [Sterling Gamers](https://ws.tsl.rocks/corp/1c9d0a5b4f5803e2e51f7ce4af435c7caa7e7da9e39c7f1ed26f7be70e4d6638/) |
 | ✅ | 2023-11-11 | 3-1 | [Pumpkin](https://ws.tsl.rocks/corp/efa17e148ea5fe049a047ba668074b663c53eb9f51a75a24c52fd03fde5e253a/) |
+
+Corporation ID: 10eb3bf190162d1f8373394a774ca9fe65faf64b1e98400cceadb7f37028d7b0

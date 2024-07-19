@@ -45,3 +45,5 @@
 | ✅ | 2023-11-25 | 29-3 | [Dumpster Fire](https://ws.tsl.rocks/corp/f191bf7efb93ca805453b3e11aef9278976a4c70fe9790e7813f28fcdf899121/) |
 | ✅ | 2023-11-18 | 24-7 | [Stone Legion](https://ws.tsl.rocks/corp/60cd15c27192f777f2e4abc413a83d4ab33bbccd7764a387afd2347dcd3d751a/) |
 | ↔️ | 2023-11-11 | 11-11 | [LANCE](https://ws.tsl.rocks/corp/f9d489fbbe222ff361139bfe234f235c1dfd82f2ccf38f7ecd929e6377408883/) |
+
+Corporation ID: 9d122968f1050c65cf6c741d5f018d932b3fdff8fc0a48144a4376b9fa18677b

@@ -95,3 +95,5 @@
 | ❌ | 2023-11-19 | 2-38 | [<a>超越®</a>光速℡](https://ws.tsl.rocks/corp/771c827eb591813e3b88ff38b0031d09519b0f3d5fe01666aa4711bfd5052857/) |
 | ❌ | 2023-11-14 | 8-21 | [Ninth Planet](https://ws.tsl.rocks/corp/53297ed66c8c326d4cb4eebdee55172d3d64f122addd5d916b314f4ab557e21a/) |
 | ✅ | 2023-11-07 | 14-0 | [Imperial Navy](https://ws.tsl.rocks/corp/0f445013f557b459e4493839746dd103be3ace2169b35acbafcb3550ae0da8c1/) |
+
+Corporation ID: 19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38

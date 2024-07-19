@@ -21,3 +21,5 @@
 | ✅ | 2023-11-24 | 10-0 | [E.T.A 二营](https://ws.tsl.rocks/corp/2f6b0bc6bf0f932bfd9c75dd559a659a45b515277f167f2cd9938a941769a093/) |
 | ✅ | 2023-11-17 | 9-4 | [Феникс ](https://ws.tsl.rocks/corp/9d72ce9d08fb348fee814de50704adf887fe8aa81f0aaebf12fcc522c9030f63/) |
 | ✅ | 2023-11-11 | 5-1 | [CDG](https://ws.tsl.rocks/corp/0372d45acdd50729ec92e18f0e973f382362ae554f8d15778250b493e887cce2/) |
+
+Corporation ID: 5f994f185c0d8bc015c42fcbe8655c6cf2ff0c8d0a37c08f1ce54dbc97dd1ce3

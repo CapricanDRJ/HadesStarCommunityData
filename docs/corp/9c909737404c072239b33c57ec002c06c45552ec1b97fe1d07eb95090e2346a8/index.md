@@ -39,3 +39,5 @@
 | ✅ | 2024-03-01 | 13-6 | [Gallaecia](https://ws.tsl.rocks/corp/4ab98cfc4948a6b1706e3527686ce3fd29eead3cdf4cf00ee2dfde925ba55515/) |
 | ❌ | 2024-02-16 | 8-29 | [Gemini Ind.](https://ws.tsl.rocks/corp/c85dd45ed75136d750bdcc2d83740494dea9e0ba077eac1bbb2f1a442a92674c/) |
 | ❌ | 2024-02-10 | 8-23 | [Atlas Star llc.](https://ws.tsl.rocks/corp/3de5259ba12509e4d02854f1414caacf3d0aaaf79f417b9d843ff20ca35863dd/) |
+
+Corporation ID: 9c909737404c072239b33c57ec002c06c45552ec1b97fe1d07eb95090e2346a8

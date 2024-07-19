@@ -109,3 +109,5 @@
 | ✅ | 2023-11-19 | 22-8 | [华夏远征太空舰队](https://ws.tsl.rocks/corp/01e2a815aa9dd9c1db7cc861838ba180b5bf294273f9eaf4cdea5a256c9999a2/) |
 | ✅ | 2023-11-14 | 19-1 | [边际的文明](https://ws.tsl.rocks/corp/4e21eaedc914a082c3bbb48fc00a00db0993fa6da46c25db658dfdc2857e7eb9/) |
 | ✅ | 2023-11-09 | 22-6 | [Империя](https://ws.tsl.rocks/corp/28ecac3cd0bd2a08844a9e37cc5c2193b0d086bd860ad1e2cc3e89c6d908cea4/) |
+
+Corporation ID: 04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496

@@ -29,3 +29,5 @@
 | ✅ | 2023-12-10 | 4-0 | [ES Gaming ](https://ws.tsl.rocks/corp/1bbc4390e9fa60fe312b23c8fa8d8f9eb499307607a4c3304e33bd05bd58f981/) |
 | ✅ | 2023-12-04 | 5-0 | [StalkerUA ](https://ws.tsl.rocks/corp/751e52efe068ef78a43ff5bb0a112ab56cd181cbf880eb7c235398fe10225e0f/) |
 | ✅ | 2023-11-28 | 6-0 | [mijael siuuuuuu](https://ws.tsl.rocks/corp/45ca23a78c96de3dd53a33f7c9f029b7dc5edf0fb7f15e5d46f1893c68d28334/) |
+
+Corporation ID: 5167772c02384f567373d65a76da8399c74f305fcc5f228903614e8069445d2a

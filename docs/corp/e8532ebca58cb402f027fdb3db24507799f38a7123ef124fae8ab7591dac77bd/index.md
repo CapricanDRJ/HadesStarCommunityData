@@ -114,3 +114,5 @@
 | ❌ | 2023-11-12 | 0-33 | [Proteus Tech](https://ws.tsl.rocks/corp/a9abf464e4301045ae4dbba7a5889a4e49d10e7e21f2e1011d9507cc5c45012b/) |
 | ❌ | 2023-11-07 | 3-5 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) |
 | ✅ | 2023-11-06 | 23-4 | [(_(_Vossk_)_)](https://ws.tsl.rocks/corp/6db23201f00670abe532f02a8fc28e109f95d673ef31ca1df7362c0a6c45dd2f/) |
+
+Corporation ID: e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd

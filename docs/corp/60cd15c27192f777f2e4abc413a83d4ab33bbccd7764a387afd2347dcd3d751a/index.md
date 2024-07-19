@@ -40,3 +40,5 @@
 | ✅ | 2023-11-29 | 31-7 | [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) |
 | ❌ | 2023-11-18 | 7-24 | [ANDROMEDA INC. ](https://ws.tsl.rocks/corp/9d122968f1050c65cf6c741d5f018d932b3fdff8fc0a48144a4376b9fa18677b/) |
 | ✅ | 2023-11-07 | 22-4 | [Space Donuts](https://ws.tsl.rocks/corp/50895e5bb0a19e8fde1c7f28e39fc0f170cbc2743a9f1ba45a88bce067d99152/) |
+
+Corporation ID: 60cd15c27192f777f2e4abc413a83d4ab33bbccd7764a387afd2347dcd3d751a

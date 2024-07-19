@@ -30,3 +30,5 @@
 | ✅ | 2024-01-26 | 29-3 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
 | ✅ | 2024-01-20 | 28-0 | [CODEX IMPERIUS](https://ws.tsl.rocks/corp/3ccc674105e16aced0c61db9965dbb8f479196700e695527054cd35787a5eeb7/) |
 | ✅ | 2024-01-09 | 31-5 | [Germania](https://ws.tsl.rocks/corp/e088c9a1e761ef8c1f07a1d374886006b0ecace15d07b9549e3655729b630897/) |
+
+Corporation ID: 288393568f19d6bd87e5e3e20f7fd1d458526d8beb052622b4f5572d7959cf7b

@@ -26,3 +26,5 @@
 | ❌ | 2023-11-24 | 9-20 | [E.T.A](https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082/) |
 | ❌ | 2023-11-19 | 0-18 | [Galaxian](https://ws.tsl.rocks/corp/5dcf6b30fe7412dfe10c7f88aacc5e5ec1d63a2ea3df0084c393b9e20c34ee97/) |
 | ❌ | 2023-11-07 | 0-20 | [AlSounT](https://ws.tsl.rocks/corp/b876a825b43edd1e21a7cc515addeb62a832c1126a5e591e562f6475572788d1/) |
+
+Corporation ID: 8494a7ecc96c5cc06e4d9c7824f2c0cf9fde23e2878b0305b618382fb4068005

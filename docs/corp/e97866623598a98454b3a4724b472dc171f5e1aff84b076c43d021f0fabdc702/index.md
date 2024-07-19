@@ -55,3 +55,5 @@
 | ✅ | 2023-12-12 | 3-1 | [Aegis Shield](https://ws.tsl.rocks/corp/0c9788075ccdc94322bb96f7d98b4a8df010615893980ab0b4e5b7a987b13732/) |
 | ❌ | 2023-12-05 | 3-4 | [challenger corp](https://ws.tsl.rocks/corp/7c39adae75191c15a3bab070d08a4cf21efb3b5ec37d69363b7c1060f272d80d/) |
 | ✅ | 2023-11-25 | 3-0 | [Marvel](https://ws.tsl.rocks/corp/e5461f99ba9cca1fb4fe6f543dcfd1a7a7d5a147019c91b1af3cd5b57e69676c/) |
+
+Corporation ID: e97866623598a98454b3a4724b472dc171f5e1aff84b076c43d021f0fabdc702

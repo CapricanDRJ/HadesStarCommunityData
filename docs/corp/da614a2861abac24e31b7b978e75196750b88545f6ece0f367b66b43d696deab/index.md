@@ -39,3 +39,5 @@
 | ❌ | 2023-11-16 | 0-5 | [Br Stark Corps](https://ws.tsl.rocks/corp/bb363d47e9cd8710d6808f6dcc2d270bdf33614e63ea6e0943bb739cde625f27/) |
 | ❌ | 2023-11-14 | 0-6 | [行星联合军](https://ws.tsl.rocks/corp/5afa03bdcf5439e267c7f2b358e6ae5d16030d3d52b527b58b37236ddfa7fe57/) |
 | ❌ | 2023-11-06 | 0-5 | [Megacorp](https://ws.tsl.rocks/corp/421939d01386458d9ba38a664b76164d3f6d4df88002f3f6b405fad73e43b92a/) |
+
+Corporation ID: da614a2861abac24e31b7b978e75196750b88545f6ece0f367b66b43d696deab

@@ -61,3 +61,5 @@
 | ❌ | 2023-11-25 | 8-19 | [Sternenflotte](https://ws.tsl.rocks/corp/6273be8c33cae6938fe5608aa5cf5a78e740f71dd888477b437e47ec106c0a0d/) |
 | ❌ | 2023-11-18 | 9-23 | [..D.E.I.T.Co..](https://ws.tsl.rocks/corp/59b15e2c8e6b94f918d86a75ed857c47c1d12726a67bfbc314828e5d25fbbbc9/) |
 | ✅ | 2023-11-11 | 22-0 | [Celtic Imperium](https://ws.tsl.rocks/corp/58d284836596e89b4f481066ae27a521175a632d88194574f08bf27baa1f9c7a/) |
+
+Corporation ID: 38cd283c7bb8ee0390f5624e49a3465b1d4a8c789cc2d501f38918a16f6140e2

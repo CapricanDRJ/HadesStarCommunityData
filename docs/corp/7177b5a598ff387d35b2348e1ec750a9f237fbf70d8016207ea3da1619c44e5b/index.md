@@ -67,3 +67,5 @@
 | ❌ | 2023-11-24 | 6-17 | [CDG](https://ws.tsl.rocks/corp/0372d45acdd50729ec92e18f0e973f382362ae554f8d15778250b493e887cce2/) |
 | ✅ | 2023-11-16 | 12-3 | [ༀᅗBAR ESTELARᅗༀ](https://ws.tsl.rocks/corp/874716e0cba92e65a541f6751246b0fa1d503d7ee2b00dcde1ab424af30190be/) |
 | ❌ | 2023-11-07 | 2-3 | [Scar](https://ws.tsl.rocks/corp/1fd57b7d50b68cb3883fd58e596f496821ebcc82dee1915bb7f34a402b03c44a/) |
+
+Corporation ID: 7177b5a598ff387d35b2348e1ec750a9f237fbf70d8016207ea3da1619c44e5b

@@ -37,3 +37,5 @@
 | ✅ | 2024-01-10 | 20-0 | [KARI](https://ws.tsl.rocks/corp/4434276aa1aebbe4c0a69ac51dff9c243c5287d00096e12c87e8590318a2ab65/) |
 | ❌ | 2023-12-19 | 5-21 | [(_(_Vossk_)_)](https://ws.tsl.rocks/corp/6db23201f00670abe532f02a8fc28e109f95d673ef31ca1df7362c0a6c45dd2f/) |
 | ✅ | 2023-11-22 | 10-2 | [Empire of Light](https://ws.tsl.rocks/corp/5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc/) |
+
+Corporation ID: d01a872035141501ad24bc84e5496d239d31d121774482b777bd8f2e03726d44

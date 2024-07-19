@@ -21,3 +21,5 @@
 | ❌ | 2023-11-15 | 15-16 | [CommCody & LPA](https://ws.tsl.rocks/corp/211f33fe81910ba6692148af7d2bc4fe851f48bec79ca579ed16aa0ca50b36bb/) |
 | ✅ | 2023-11-10 | 16-2 | [Вселенские 40%](https://ws.tsl.rocks/corp/963d73346ebb929607f54404f481ac2273b4f483915b93144d0757b066a1fd99/) |
 | ✅ | 2023-11-05 | 11-4 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
+
+Corporation ID: fe67c7b35602faf8640d1765a46ce5f77d08740abf40340479bf82781778944a

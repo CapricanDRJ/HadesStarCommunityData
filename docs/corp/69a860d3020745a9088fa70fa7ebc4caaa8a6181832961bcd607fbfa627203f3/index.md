@@ -23,3 +23,5 @@
 | ❌ | 2024-06-09 | 1-8 | [WSC(no DISCORD)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ❌ | 2024-05-30 | 3-4 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 | ❌ | 2024-05-08 | 0-8 | [避难所](https://ws.tsl.rocks/corp/e2cec33caaaef7f020ed5fb31cb29a2804d8b5ab3a781ab69b08fadac88f7102/) |
+
+Corporation ID: 69a860d3020745a9088fa70fa7ebc4caaa8a6181832961bcd607fbfa627203f3

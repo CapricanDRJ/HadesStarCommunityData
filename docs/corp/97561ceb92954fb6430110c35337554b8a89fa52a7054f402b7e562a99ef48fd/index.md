@@ -26,3 +26,5 @@
 | ❌ | 2023-11-26 | 2-35 | [LossFarm No.648](https://ws.tsl.rocks/corp/24a90af39014df515d72c65fe52b1b3669bad36e2abbc4d6c04a9eb2466ec4f2/) |
 | ❌ | 2023-11-19 | 4-34 | [Final](https://ws.tsl.rocks/corp/77270275648d2f188dea5d234a7428073a451ef4bc3cbd1b274a1d65e5f67c68/) |
 | ❌ | 2023-11-11 | 3-17 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) |
+
+Corporation ID: 97561ceb92954fb6430110c35337554b8a89fa52a7054f402b7e562a99ef48fd

@@ -78,3 +78,5 @@
 | ✅ | 2023-11-19 | 47-27 | [OntarioDynasty](https://ws.tsl.rocks/corp/5ed105453b3d32e037ce6674e16aff8fb706ba299c62cbf3645fe9eb19e1b1d1/) |
 | ❌ | 2023-11-12 | 31-39 | [Auscorp ](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) |
 | ✅ | 2023-11-06 | 37-24 | [ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ](https://ws.tsl.rocks/corp/85a74d128f924274446b7fb754136e6ef7185c754df2fae3b10591d28536f17a/) |
+
+Corporation ID: b698cd0d86be60954a4b995f79fffe102a71c350e47fbdc2a5827f0ed0ca455d

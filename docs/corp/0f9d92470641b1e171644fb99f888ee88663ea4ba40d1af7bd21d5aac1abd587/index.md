@@ -20,3 +20,5 @@
 | ❌ | 2023-12-03 | 0-9 | [Orphans Of Kos](https://ws.tsl.rocks/corp/f4fc42714515d58b6fabb87fd87c01baadb59e219e725bfdc6cf70b21a292054/) |
 | ❌ | 2023-11-23 | 0-7 | [Out landers](https://ws.tsl.rocks/corp/4d949404db40dec4e95e786811959954fc9e2b1361f3bf0d33af2279ff86d23a/) |
 | ❌ | 2023-11-17 | 2-4 | [Disintegrators](https://ws.tsl.rocks/corp/cbdef8da60308e24e459a21944778e7c06fa40927f67ecbbf136e3c899f717ae/) |
+
+Corporation ID: 0f9d92470641b1e171644fb99f888ee88663ea4ba40d1af7bd21d5aac1abd587

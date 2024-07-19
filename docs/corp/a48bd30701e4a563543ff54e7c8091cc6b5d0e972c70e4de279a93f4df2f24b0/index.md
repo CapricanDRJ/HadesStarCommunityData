@@ -56,3 +56,5 @@
 | ❌ | 2024-02-04 | 1-11 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |
 | ❌ | 2024-01-31 | 0-2 | [Core Systems](https://ws.tsl.rocks/corp/66dfd39587403b544abf2908638162e60a09ff0dfdfebee6265d41ba2a6ab00a/) |
 | ❌ | 2024-01-24 | 0-14 | [Lacuna Academy](https://ws.tsl.rocks/corp/ed67ca44432a8fad3aec6fab3e7f305d394d2b41844391fd29e1ce2b316b336b/) |
+
+Corporation ID: a48bd30701e4a563543ff54e7c8091cc6b5d0e972c70e4de279a93f4df2f24b0

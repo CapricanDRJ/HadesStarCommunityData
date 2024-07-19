@@ -21,3 +21,5 @@
 | ❌ | 2024-02-01 | 3-11 | [Killer Shadow](https://ws.tsl.rocks/corp/e90d22a90153c1fd6c2f02d7d408f1cba9abb2de7f76c38fe7b1aa769df23de7/) |
 | ❌ | 2024-01-18 | 5-32 | [Embers Rising](https://ws.tsl.rocks/corp/30173fb6f0cf7a6d78f30c60350646ad6bc0d667a14854bdc9abbc19cd7d0327/) |
 | ❌ | 2023-11-15 | 0-3 | [Dumpster Fire](https://ws.tsl.rocks/corp/f191bf7efb93ca805453b3e11aef9278976a4c70fe9790e7813f28fcdf899121/) |
+
+Corporation ID: 7558698da6213ab97789830842ad4baa89467edc584a6c8594ab04b521ae3488

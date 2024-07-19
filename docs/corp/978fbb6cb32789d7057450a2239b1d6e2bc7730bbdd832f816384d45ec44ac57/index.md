@@ -23,3 +23,5 @@
 | ✅ | 2023-11-25 | 30-2 | [Dansk](https://ws.tsl.rocks/corp/6c06d5bbfd511f773338e49569cea4f952af347df4bfe875778a0ccf574f65d7/) |
 | ✅ | 2023-11-17 | 29-3 | [Star Dust](https://ws.tsl.rocks/corp/b533dfd525b3f3f64aeec35ea69fb8c8ffe7d067243f58e16bc1280ade45fb4f/) |
 | ❌ | 2023-11-11 | 10-39 | [Omega Alpha](https://ws.tsl.rocks/corp/b6e23a3f1f3a3c735c694624b273dcd7da2f8bd13a5ac2b36a8ad39737b1d062/) |
+
+Corporation ID: 978fbb6cb32789d7057450a2239b1d6e2bc7730bbdd832f816384d45ec44ac57

@@ -56,3 +56,5 @@
 | ❌ | 2023-12-01 | 28-32 | [Imperium XIII](https://ws.tsl.rocks/corp/0d52edf77b0cdeaaea6ebc20a7f5b6a60372b535bf96f556b31e2243dc8ee75a/) |
 | ❌ | 2023-11-17 | 16-35 | [Proteus Tech](https://ws.tsl.rocks/corp/a9abf464e4301045ae4dbba7a5889a4e49d10e7e21f2e1011d9507cc5c45012b/) |
 | ✅ | 2023-11-05 | 15-8 | [Looping](https://ws.tsl.rocks/corp/08524086f45f2e6109e583baf940197663aa3e155c32fcdbb04f319343a5eb0c/) |
+
+Corporation ID: f99305aca0eca2f37971c97916647c8edd0258de0d30a3de61941700e7fb2c94

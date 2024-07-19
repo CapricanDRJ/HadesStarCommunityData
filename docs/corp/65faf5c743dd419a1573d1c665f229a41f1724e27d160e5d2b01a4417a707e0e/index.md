@@ -62,3 +62,5 @@
 | ✅ | 2023-12-02 | 24-2 | [Grand Mechanism](https://ws.tsl.rocks/corp/cdae35a4dff3b9b84fa6e79966de8f58259e9ea95a366abeaa8a103815dfa7b3/) |
 | ✅ | 2023-11-17 | 13-11 | [Dark Exodus](https://ws.tsl.rocks/corp/6f7cc200129cf3143f7fce58e3428fc14ca16a623ec0cb254ffe948075c6fe2a/) |
 | ❌ | 2023-11-10 | 1-30 | [Outland Ind.](https://ws.tsl.rocks/corp/94cb8827caef9b4b1839113abd29145a128d0c1e108c3984bcf7620dd7fca464/) |
+
+Corporation ID: 65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e

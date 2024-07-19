@@ -53,3 +53,5 @@
 | ✅ | 2023-11-16 | 10-0 | [AKA](https://ws.tsl.rocks/corp/5fde3f409facbda701cdf21de0895eb7c7e17e2d472ae52cc0aa178ce2db64d6/) |
 | ❌ | 2023-11-10 | 2-16 | [水星联合组织](https://ws.tsl.rocks/corp/fe67c7b35602faf8640d1765a46ce5f77d08740abf40340479bf82781778944a/) |
 | ❌ | 2023-11-05 | 0-13 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) |
+
+Corporation ID: 963d73346ebb929607f54404f481ac2273b4f483915b93144d0757b066a1fd99

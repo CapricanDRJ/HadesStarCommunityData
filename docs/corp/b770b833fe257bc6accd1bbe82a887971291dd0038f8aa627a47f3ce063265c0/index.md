@@ -58,3 +58,5 @@
 | ❌ | 2023-12-23 | 6-10 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |
 | ✅ | 2023-12-09 | 3-0 | [The New Light](https://ws.tsl.rocks/corp/73c87b4394c7e44aa0fa6996ae32e7448f956391dac8b5d025da6019d3062cfc/) |
 | ✅ | 2023-11-26 | 5-0 | [NASA Air base](https://ws.tsl.rocks/corp/6b63a6d22b94297e25c5815e1d096edd489543d2a443677f58d7e6aec1d00016/) |
+
+Corporation ID: b770b833fe257bc6accd1bbe82a887971291dd0038f8aa627a47f3ce063265c0

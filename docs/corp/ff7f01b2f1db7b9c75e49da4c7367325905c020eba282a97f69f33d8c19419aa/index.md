@@ -26,3 +26,5 @@
 | ❌ | 2024-01-09 | 0-2 | [The New Light](https://ws.tsl.rocks/corp/73c87b4394c7e44aa0fa6996ae32e7448f956391dac8b5d025da6019d3062cfc/) |
 | ❌ | 2024-01-02 | 0-8 | [The Elite](https://ws.tsl.rocks/corp/a2df28ce949920025afb16d0229e0c14aed7832c217d142307a62622634d395c/) |
 | ❌ | 2023-11-29 | 0-1 | [Space Rangers](https://ws.tsl.rocks/corp/da0952db0de44e4eee72d9ffa2394d5818565c5c16d89a1313c6df07417f9fb3/) |
+
+Corporation ID: ff7f01b2f1db7b9c75e49da4c7367325905c020eba282a97f69f33d8c19419aa

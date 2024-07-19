@@ -52,3 +52,5 @@
 | ❌ | 2024-03-27 | 0-33 | [Atlas Star llc.](https://ws.tsl.rocks/corp/3de5259ba12509e4d02854f1414caacf3d0aaaf79f417b9d843ff20ca35863dd/) |
 | ❌ | 2024-03-21 | 2-33 | [Mass Effect](https://ws.tsl.rocks/corp/6f715653bec3925d9c3acd7c2388fe8e1c79332146894ed424f57bd2636de8c7/) |
 | ✅ | 2024-03-21 | 3-0 | [The Allegiant](https://ws.tsl.rocks/corp/1c4cfbcf7902769aff100297d9174153f4c0528ed07918ba494f763a1315ffc6/) |
+
+Corporation ID: f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29

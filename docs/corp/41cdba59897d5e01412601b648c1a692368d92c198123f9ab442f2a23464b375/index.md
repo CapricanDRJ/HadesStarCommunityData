@@ -69,3 +69,5 @@
 | ❌ | 2023-11-20 | 29-49 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) |
 | ✅ | 2023-11-14 | 33-0 | [Todesschwadron](https://ws.tsl.rocks/corp/2bcbf6c5a9cfee247983159b049a176d182486b00690372f13cc08e35203c047/) |
 | ✅ | 2023-11-07 | 34-0 | [Saggitarius A](https://ws.tsl.rocks/corp/f277212cba1456eb5a971b7ff854f040097bfc6aa3a0d9befb948692ae06c3c7/) |
+
+Corporation ID: 41cdba59897d5e01412601b648c1a692368d92c198123f9ab442f2a23464b375

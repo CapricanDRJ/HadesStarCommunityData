@@ -71,3 +71,5 @@
 | ❌ | 2023-12-13 | 2-45 | [Soylent Corp.](https://ws.tsl.rocks/corp/9f978f9cca690b76981d538d63260cd39d51427e5d69412113ccad02cc7cac2d/) |
 | ❌ | 2023-12-02 | 4-13 | [Got Nothing](https://ws.tsl.rocks/corp/ea7879fd9cbed37b260ec2bf39339786942fb34216036a90e107ba525f5924e1/) |
 | ✅ | 2023-11-10 | 10-0 | [Dumpster Fire](https://ws.tsl.rocks/corp/f191bf7efb93ca805453b3e11aef9278976a4c70fe9790e7813f28fcdf899121/) |
+
+Corporation ID: 34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0

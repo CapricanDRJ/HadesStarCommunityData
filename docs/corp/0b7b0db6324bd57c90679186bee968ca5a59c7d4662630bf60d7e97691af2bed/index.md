@@ -20,3 +20,5 @@
 | ❌ | 2023-11-24 | 1-29 | [Gemini Ind.](https://ws.tsl.rocks/corp/c85dd45ed75136d750bdcc2d83740494dea9e0ba077eac1bbb2f1a442a92674c/) |
 | ✅ | 2023-11-17 | 16-0 | [Celtic Imperium](https://ws.tsl.rocks/corp/58d284836596e89b4f481066ae27a521175a632d88194574f08bf27baa1f9c7a/) |
 | ❌ | 2023-11-10 | 7-18 | [Equinox](https://ws.tsl.rocks/corp/666001c1d87fbfcf6a3d8614e2b5b9f0e4aa96fa4c098c004bea9fb92ed330c2/) |
+
+Corporation ID: 0b7b0db6324bd57c90679186bee968ca5a59c7d4662630bf60d7e97691af2bed

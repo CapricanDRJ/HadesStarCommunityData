@@ -49,3 +49,5 @@
 | ✅ | 2023-12-25 | 14-0 | [Firestarters](https://ws.tsl.rocks/corp/975a058b74909c99c34a22d266817bfb7b3f49c34e599099c96f3867b4b77443/) |
 | ✅ | 2023-12-18 | 12-0 | [V0RTEX](https://ws.tsl.rocks/corp/22a12c757b3e065e8ec7a839b80e33339317bb277aeee145f6cde6f473e06f8f/) |
 | ✅ | 2023-12-09 | 5-1 | [하데스 스타 코리아](https://ws.tsl.rocks/corp/36ae3ca01b555bd695500062530b53a2b19cc9d4bab087051ea8775124723e94/) |
+
+Corporation ID: 8e9848f9867c594384d6a31618213447f358c7b308fee91d20991b80b513fdbb

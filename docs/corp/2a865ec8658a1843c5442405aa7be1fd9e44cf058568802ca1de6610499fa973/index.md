@@ -42,3 +42,5 @@
 | ❌ | 2023-11-29 | 3-20 | [Lacuna X](https://ws.tsl.rocks/corp/fb10f33f3db17b99b0d227f17e7fde76ef067dc4a4bb4ae05e46c76d2e5e8ea1/) |
 | ✅ | 2023-11-22 | 11-0 | [REY DE REYES](https://ws.tsl.rocks/corp/3400c8c832317ae214792a1e1ce914867af247bc0b4f021bd71a18e977cb60cb/) |
 | ✅ | 2023-11-17 | 8-2 | [Бестрашный лиги](https://ws.tsl.rocks/corp/98a0925e094c54f400b76ad64a527b25adb4fe5aa1afc4b10368f072d3741d53/) |
+
+Corporation ID: 2a865ec8658a1843c5442405aa7be1fd9e44cf058568802ca1de6610499fa973

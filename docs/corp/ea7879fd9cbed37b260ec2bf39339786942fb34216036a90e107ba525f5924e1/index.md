@@ -35,3 +35,5 @@
 | ✅ | 2023-12-23 | 33-5 | [CODEX IMPERIUS](https://ws.tsl.rocks/corp/3ccc674105e16aced0c61db9965dbb8f479196700e695527054cd35787a5eeb7/) |
 | ✅ | 2023-12-02 | 13-4 | [NERF TOY'S](https://ws.tsl.rocks/corp/34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0/) |
 | ✅ | 2023-11-18 | 27-2 | [CSI](https://ws.tsl.rocks/corp/8943af3db9ef34a38f004d6f574b33784a179f4ee83d9a1f71e85b1d8700d315/) |
+
+Corporation ID: ea7879fd9cbed37b260ec2bf39339786942fb34216036a90e107ba525f5924e1

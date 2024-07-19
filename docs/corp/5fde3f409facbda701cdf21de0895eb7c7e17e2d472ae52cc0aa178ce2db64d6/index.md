@@ -24,3 +24,5 @@
 | ❌ | 2023-11-22 | 2-21 | [Lights Off ](https://ws.tsl.rocks/corp/8a8b7e5b7a00ef709249daa4546d03bd85258cde01d35e1829a64ed95c3d6cca/) |
 | ❌ | 2023-11-16 | 0-10 | [Вселенские 40%](https://ws.tsl.rocks/corp/963d73346ebb929607f54404f481ac2273b4f483915b93144d0757b066a1fd99/) |
 | ❌ | 2023-11-05 | 0-7 | [СвятыеНегодники](https://ws.tsl.rocks/corp/0ff3f8b2bbe76f5e94f3473f3ac40b2e78ea4a03c73aa7d1efd0b6611056d844/) |
+
+Corporation ID: 5fde3f409facbda701cdf21de0895eb7c7e17e2d472ae52cc0aa178ce2db64d6

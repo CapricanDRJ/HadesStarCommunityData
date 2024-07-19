@@ -74,3 +74,5 @@
 | ✅ | 2023-11-10 | 15-14 | [Gemini Ind.](https://ws.tsl.rocks/corp/c85dd45ed75136d750bdcc2d83740494dea9e0ba077eac1bbb2f1a442a92674c/) |
 | ❌ | 2023-11-10 | 4-27 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) |
 | ✅ | 2023-11-04 | 24-0 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
+
+Corporation ID: 457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389

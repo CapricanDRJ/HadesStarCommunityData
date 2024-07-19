@@ -27,3 +27,5 @@
 | ✅ | 2024-07-03 | 3-2 | [Jalisco México](https://ws.tsl.rocks/corp/495236ab2171ccbcdad0da5529f080405b1ddd081eda98c7255a8cffe5b114e4/) |
 | ✅ | 2024-06-28 | 4-0 | [地球星际集团](https://ws.tsl.rocks/corp/05094116a999d8e077c5e53dc2241a870c7dc2e68e016455c606ada0dcb40b62/) |
 | ❌ | 2024-06-23 | 3-18 | [星河绮梦](https://ws.tsl.rocks/corp/ec0d7f12f69610e8f68f4ea0af9698755a0a1435e0845c27c47fcbec0b1b672a/) |
+
+Corporation ID: 67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c

@@ -29,3 +29,5 @@
 | ✅ | 2023-12-15 | 4-0 | [ItaFederalFleet](https://ws.tsl.rocks/corp/02f7ac2b406e46cbb3e1f7fa3a0fb0dc2c32f9bc8afc54c299cd54757463ddbe/) |
 | ✅ | 2023-12-10 | 3-2 | [Red Suns](https://ws.tsl.rocks/corp/4723a7ddfdf84d63bb4a6e897d77183874e4abd0d5f04c8c6470cb3141dd8629/) |
 | ✅ | 2023-12-04 | 4-2 | [ES Gaming ](https://ws.tsl.rocks/corp/1bbc4390e9fa60fe312b23c8fa8d8f9eb499307607a4c3304e33bd05bd58f981/) |
+
+Corporation ID: 4c92ec3582be074db571dc198baad7b31951427215e09c4b95a597895406c6a3

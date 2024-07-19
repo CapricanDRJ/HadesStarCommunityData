@@ -56,3 +56,5 @@
 | ✅ | 2023-11-20 | 17-0 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
 | ❌ | 2023-11-12 | 3-8 | [Wompwompway ](https://ws.tsl.rocks/corp/f7c3d7f512c4de3883e63b1a5771ab3ef3938054f98711e933bc7dd064fb8363/) |
 | ✅ | 2023-11-04 | 9-2 | [Planet Express](https://ws.tsl.rocks/corp/5b1b4c436f97fa4921cfe2eec358f39bf2ff848eac678d0b8df77abea23339dd/) |
+
+Corporation ID: 3de5259ba12509e4d02854f1414caacf3d0aaaf79f417b9d843ff20ca35863dd

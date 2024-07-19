@@ -53,3 +53,5 @@
 | ✅ | 2023-12-14 | 10-5 | [СССР 2.0](https://ws.tsl.rocks/corp/2a77c0d4e05f31ab26b8c73af7f6d0b6ac40368b06a702e4a912edbf09eab65b/) |
 | ✅ | 2023-12-02 | 5-0 | [The Galxey █](https://ws.tsl.rocks/corp/d52cda2701dd013db91403bab0ff5972e0d9f3a13f842daf8d633025835a6b19/) |
 | ✅ | 2023-11-20 | 4-1 | [MÉXICO INFINITO](https://ws.tsl.rocks/corp/a9fbdd48477b87a054dbd804eef12ae08bc6e02798cd8990b08c4a9803d8f9d8/) |
+
+Corporation ID: 358bbbde0af23c5f41cdb4fde95bb713989c7812b5a0358f7c34ecceca19916c

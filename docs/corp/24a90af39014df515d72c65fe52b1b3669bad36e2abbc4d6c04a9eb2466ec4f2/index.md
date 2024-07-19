@@ -22,3 +22,5 @@
 | ✅ | 2023-12-04 | 43-0 | [우주미아](https://ws.tsl.rocks/corp/2e33086edccff7de82480157f7cfdec520a8472c46402842d4c88cb33b333ab3/) |
 | ✅ | 2023-11-26 | 35-2 | [Dark Skai](https://ws.tsl.rocks/corp/97561ceb92954fb6430110c35337554b8a89fa52a7054f402b7e562a99ef48fd/) |
 | ❌ | 2023-11-11 | 20-24 | [YETI Collective](https://ws.tsl.rocks/corp/ff6a3c65d008d245f003a3009374e26cf38e7cda6ea4d601a9da9037296fda98/) |
+
+Corporation ID: 24a90af39014df515d72c65fe52b1b3669bad36e2abbc4d6c04a9eb2466ec4f2

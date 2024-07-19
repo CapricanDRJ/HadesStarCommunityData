@@ -21,3 +21,5 @@
 | ❌ | 2023-12-06 | 0-8 | [行星联合军](https://ws.tsl.rocks/corp/5afa03bdcf5439e267c7f2b358e6ae5d16030d3d52b527b58b37236ddfa7fe57/) |
 | ❌ | 2023-11-14 | 0-33 | [Crux Cadre](https://ws.tsl.rocks/corp/41cdba59897d5e01412601b648c1a692368d92c198123f9ab442f2a23464b375/) |
 | ❌ | 2023-11-07 | 2-3 | [星光万丈](https://ws.tsl.rocks/corp/92ad2a305a74e168b57771140461b4d226e1e8cac17b4f77027d5a67ead5fa1d/) |
+
+Corporation ID: 2bcbf6c5a9cfee247983159b049a176d182486b00690372f13cc08e35203c047

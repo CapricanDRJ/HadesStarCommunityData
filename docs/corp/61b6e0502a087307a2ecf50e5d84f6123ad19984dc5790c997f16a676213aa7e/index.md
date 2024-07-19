@@ -44,3 +44,5 @@
 | ❌ | 2023-12-21 | 0-4 | [phoenix clan](https://ws.tsl.rocks/corp/e25bc73528b7029e9b908d920effef5e183928ad3f7b151987a29252d9052c79/) |
 | ✅ | 2023-12-15 | 5-1 | [001-23](https://ws.tsl.rocks/corp/790662c2084ccccfc01b7d1639992198be537b4040c21dae0a20e650e0667ffc/) |
 | ↔️ | 2023-12-09 | 3-3 | [R-6 satalite](https://ws.tsl.rocks/corp/ce3450a529768e932b3aeb4c6f39b9295e6e07d010b209d0120c0125799adc43/) |
+
+Corporation ID: 61b6e0502a087307a2ecf50e5d84f6123ad19984dc5790c997f16a676213aa7e

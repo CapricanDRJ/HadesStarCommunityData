@@ -46,3 +46,5 @@
 | ✅ | 2023-12-26 | 8-1 | [ItaFederalFleet](https://ws.tsl.rocks/corp/02f7ac2b406e46cbb3e1f7fa3a0fb0dc2c32f9bc8afc54c299cd54757463ddbe/) |
 | ✅ | 2023-12-21 | 14-2 | [Paramedic ICU](https://ws.tsl.rocks/corp/2b046351c951cf9e05492ee383c44783b21c628831f51b1a04c9e5404b9b9fa3/) |
 | ✅ | 2023-12-15 | 11-0 | [CCCP](https://ws.tsl.rocks/corp/34cd422237fc59472ea900588e5416892c4cceeae033e28f8352b61524a92ac7/) |
+
+Corporation ID: 47aeb151232251d9e53310e21f1290b1240c63878169968847bd1e89efc909a7

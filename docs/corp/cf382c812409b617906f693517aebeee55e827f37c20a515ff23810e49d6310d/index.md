@@ -20,3 +20,5 @@
 | ✅ | 2024-07-06 | 42-17 | [Trade Station](https://ws.tsl.rocks/corp/7003e286fe1a04aaa63e3aa318c164856c07e251a94b0496757140f5eda72cd7/) |
 | ❌ | 2023-12-02 | 20-39 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) |
 | ❌ | 2023-11-18 | 8-24 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) |
+
+Corporation ID: cf382c812409b617906f693517aebeee55e827f37c20a515ff23810e49d6310d

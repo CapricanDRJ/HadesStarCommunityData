@@ -77,3 +77,5 @@
 | ✅ | 2023-11-20 | 37-7 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) |
 | ✅ | 2023-11-12 | 39-31 | [Stargate Corp](https://ws.tsl.rocks/corp/b698cd0d86be60954a4b995f79fffe102a71c350e47fbdc2a5827f0ed0ca455d/) |
 | ✅ | 2023-11-06 | 45-14 | [Trade Station](https://ws.tsl.rocks/corp/7003e286fe1a04aaa63e3aa318c164856c07e251a94b0496757140f5eda72cd7/) |
+
+Corporation ID: a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75

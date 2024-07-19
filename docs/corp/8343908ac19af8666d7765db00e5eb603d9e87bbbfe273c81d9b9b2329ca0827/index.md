@@ -51,3 +51,5 @@
 | ❌ | 2023-11-21 | 4-33 | [地球联合](https://ws.tsl.rocks/corp/600f9edf51df1f1afe62db4c64e95b969ac6824a6a08d1a483beaec015ba2e25/) |
 | ✅ | 2023-11-14 | 31-9 | [R.S.F.](https://ws.tsl.rocks/corp/13ad6b9ead07b9381b75292807b1698944fe7f1b4c947901559a5810cd677a57/) |
 | ✅ | 2023-11-05 | 13-6 | [TITANS](https://ws.tsl.rocks/corp/99cb7335e71fb4b435cc1929b77308ae522773aee201cf5fdfc4b8e6edf54f36/) |
+
+Corporation ID: 8343908ac19af8666d7765db00e5eb603d9e87bbbfe273c81d9b9b2329ca0827

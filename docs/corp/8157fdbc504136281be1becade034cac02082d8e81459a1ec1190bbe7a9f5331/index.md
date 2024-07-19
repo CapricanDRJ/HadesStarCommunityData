@@ -23,3 +23,5 @@
 | ❌ | 2024-01-16 | 1-10 | [Hand of Legion ](https://ws.tsl.rocks/corp/7545cead0b3b8e060a0987cc20eed24610a7dfd11dfef11c73a495e39eb07d14/) |
 | ✅ | 2024-01-11 | 7-0 | [The Borg](https://ws.tsl.rocks/corp/5e4bc3167e5216fd68ce14d019fae4a71d1ef032c407a54e239aff917b3cf137/) |
 | ✅ | 2024-01-11 | 8-3 | [001-23](https://ws.tsl.rocks/corp/790662c2084ccccfc01b7d1639992198be537b4040c21dae0a20e650e0667ffc/) |
+
+Corporation ID: 8157fdbc504136281be1becade034cac02082d8e81459a1ec1190bbe7a9f5331

@@ -42,3 +42,5 @@
 | ❌ | 2024-01-07 | 4-30 | [Nova Time](https://ws.tsl.rocks/corp/0f1c182652387799cfc3a59082f52a2b01201b13336d84760eab107fb1934ce0/) |
 | ↔️ | 2023-12-02 | 2-2 | [ES Gaming ](https://ws.tsl.rocks/corp/1bbc4390e9fa60fe312b23c8fa8d8f9eb499307607a4c3304e33bd05bd58f981/) |
 | ✅ | 2023-11-20 | 3-1 | [Stars Radiant](https://ws.tsl.rocks/corp/5ac31743716c6ffdd6916e75c314c1e4a9d57ece49822f93616a5c18c38a3e32/) |
+
+Corporation ID: f0c64a4babe1fb017902406f1f331c63129409bccfba868cadc10cf1d064b9d4

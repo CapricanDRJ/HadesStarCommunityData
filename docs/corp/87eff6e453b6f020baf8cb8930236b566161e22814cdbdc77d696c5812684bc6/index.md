@@ -55,3 +55,5 @@
 | ✅ | 2023-11-20 | 13-2 | [Seila](https://ws.tsl.rocks/corp/8749ed87cb9e85c88599f3bb9f9159e00561229eb1690cb36d565a054638cc52/) |
 | ❌ | 2023-11-12 | 2-15 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ✅ | 2023-11-06 | 12-0 | [Anarchy](https://ws.tsl.rocks/corp/fdd5421d762b9a1a1cc622f446bcd1a43a5dc52d6eeae3b903cc90fa349cb864/) |
+
+Corporation ID: 87eff6e453b6f020baf8cb8930236b566161e22814cdbdc77d696c5812684bc6

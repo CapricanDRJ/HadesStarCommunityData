@@ -23,3 +23,5 @@
 | ❌ | 2023-12-16 | 0-24 | [Atlas Star llc.](https://ws.tsl.rocks/corp/3de5259ba12509e4d02854f1414caacf3d0aaaf79f417b9d843ff20ca35863dd/) |
 | ❌ | 2023-12-04 | 2-27 | [Nova Time](https://ws.tsl.rocks/corp/0f1c182652387799cfc3a59082f52a2b01201b13336d84760eab107fb1934ce0/) |
 | ✅ | 2023-11-29 | 7-4 | [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) |
+
+Corporation ID: 8307d1da2d91b1b6f2cdf365b891741a148ac78d385e34734a0e083d318248b2

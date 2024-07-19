@@ -27,3 +27,5 @@
 | ✅ | 2023-12-17 | 16-8 | [THE BENDERA](https://ws.tsl.rocks/corp/4c9acd27de08822b8670167ae6bc94f7ecd2786d5beed82c68ad61600fc318d3/) |
 | ❌ | 2023-11-30 | 3-19 | [Млечный путь](https://ws.tsl.rocks/corp/a9a3b102b3698bf7db8cd106adda02cee0033bfc03f681b667b2991e10049a25/) |
 | ❌ | 2023-11-10 | 7-21 | [Imperium XIII](https://ws.tsl.rocks/corp/0d52edf77b0cdeaaea6ebc20a7f5b6a60372b535bf96f556b31e2243dc8ee75a/) |
+
+Corporation ID: b10084235f689f555f99efd52d9d4ea86dabf662e57f64dd9d86bbdc31b9c3e1

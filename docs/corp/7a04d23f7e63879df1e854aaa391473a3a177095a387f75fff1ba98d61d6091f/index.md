@@ -24,3 +24,5 @@
 | ✅ | 2024-02-02 | 8-7 | [Star Blazers](https://ws.tsl.rocks/corp/f179acb7b919d9d3185f1fcd66bb17d5e257feab5039bcbf6efb5c8cd6f5c057/) |
 | ✅ | 2024-01-24 | 19-2 | [Гарри Поттер](https://ws.tsl.rocks/corp/f6776b51b0578a0ec96f8674d12c88c324a9e087c9053c0d42153a1a5090a665/) |
 | ✅ | 2023-12-23 | 21-0 | [Cowboys](https://ws.tsl.rocks/corp/f461f65e85a43e0b855a525f6995505fc1cc5ae6f85be50470c9dacbb955fc21/) |
+
+Corporation ID: 7a04d23f7e63879df1e854aaa391473a3a177095a387f75fff1ba98d61d6091f

@@ -40,3 +40,5 @@
 | ❌ | 2023-12-01 | 14-15 | [CDG](https://ws.tsl.rocks/corp/0372d45acdd50729ec92e18f0e973f382362ae554f8d15778250b493e887cce2/) |
 | ✅ | 2023-11-17 | 20-8 | [Rising star](https://ws.tsl.rocks/corp/b7037efd74e829aa4ac6e49960fa44cebe1477e23d25cf1640594d9168d630db/) |
 | ✅ | 2023-11-10 | 22-8 | [The X - Files](https://ws.tsl.rocks/corp/f13cb0ae2dbb0654a2067c8749f86bce49edc5b520bd391c7af11948f23a41fb/) |
+
+Corporation ID: 1495d852070d8182229d3cb26e828265d4525a9ef97a9b377415b803b01d6101

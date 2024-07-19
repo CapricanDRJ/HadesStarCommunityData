@@ -72,3 +72,5 @@
 | ✅ | 2023-11-18 | 19-17 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) |
 | ❌ | 2023-11-12 | 7-14 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) |
 | ✅ | 2023-11-06 | 35-3 | [Octoberpierynm](https://ws.tsl.rocks/corp/d1a59e9b18c6c65e4568b064d66e86c4453e60e354fd9e7cbe6cf17819c0c0c9/) |
+
+Corporation ID: 6255ba7dab1bd2b150825874d1fea70b029dc79434f293d47518c27b0376e286

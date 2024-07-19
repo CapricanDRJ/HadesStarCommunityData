@@ -45,3 +45,5 @@
 | ✅ | 2023-11-21 | 22-6 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | ✅ | 2023-11-15 | 24-5 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ✅ | 2023-11-09 | 23-1 | [Держава Русь](https://ws.tsl.rocks/corp/cbf11e25cee65a6c529251b7f47a35d9e4ba7bb9d640f384605541637e931672/) |
+
+Corporation ID: 8843a04f5528aa779a62f129af7ef619b90742807f0d436ae85a69870206b254

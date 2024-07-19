@@ -37,3 +37,5 @@
 | ✅ | 2023-12-04 | 27-7 | [Glashan](https://ws.tsl.rocks/corp/48b9fa3df8bbc6ce4a8455e9b923f28c0eccb8054c9f72e9c14e6acfee5a23a4/) |
 | ✅ | 2023-11-26 | 28-0 | [Equinox](https://ws.tsl.rocks/corp/666001c1d87fbfcf6a3d8614e2b5b9f0e4aa96fa4c098c004bea9fb92ed330c2/) |
 | ❌ | 2023-11-26 | 6-23 | [华夏舰队](https://ws.tsl.rocks/corp/abd6d05a100ffdde2d15abd725a209bfbbf069b60b10ddeac88e88da66191472/) |
+
+Corporation ID: 2dd3aee3667c5c190079cc378773d809ece1b146bc0a16fce6c46663fc3b6992

@@ -33,3 +33,5 @@
 | ❌ | 2024-01-27 | 4-6 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) |
 | ❌ | 2024-01-06 | 15-37 | [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) |
 | ❌ | 2023-12-09 | 26-33 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) |
+
+Corporation ID: 8ceac360859239e9b9386b5e4a0c3d3c7e75941b010804ab8b405d9eb6f806f6

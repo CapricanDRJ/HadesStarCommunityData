@@ -25,3 +25,5 @@
 | ❌ | 2023-11-26 | 0-14 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |
 | ❌ | 2023-11-18 | 0-20 | [泰拉瑞亚](https://ws.tsl.rocks/corp/a5ca891aa2a7441fd3106ee6f2745eecd8e3573d5f10eab62da06e82a22b1e3a/) |
 | ❌ | 2023-11-11 | 0-7 | [边缘世界](https://ws.tsl.rocks/corp/6a0c2b263b0bfabc564979bce02c28c80aae497654fc10637ceb36d5447f6365/) |
+
+Corporation ID: 72dc408527c06786fa45851f432da731fd63c063d51f4a180b9ae24216e41765

@@ -84,3 +84,5 @@
 | ❌ | 2023-11-23 | 0-9 | [Dauntless](https://ws.tsl.rocks/corp/8313138d370b0b0f15dea3af851c836f9a1e1e838bf26c652c9a9831fb6b739a/) |
 | ❌ | 2023-11-16 | 0-27 | [Deadspace](https://ws.tsl.rocks/corp/45fc2bf2d1b40361071590e427fa47116d4e5e063064d17ed9933bbd61f04369/) |
 | ❌ | 2023-11-16 | 0-6 | [Омикрон Альфа](https://ws.tsl.rocks/corp/846ea10029302e3055a59da0b2754bd5ed8a6e3ac7d5fea612255e02034bf544/) |
+
+Corporation ID: 4434276aa1aebbe4c0a69ac51dff9c243c5287d00096e12c87e8590318a2ab65

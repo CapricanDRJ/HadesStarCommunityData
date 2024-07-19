@@ -30,3 +30,5 @@
 | ↔️ | 2023-12-11 | 4-4 | [Elite2.0](https://ws.tsl.rocks/corp/7a039367a683ac04f22e6292d73d5bf2088245f47c411e6a7befd45a11740637/) |
 | ✅ | 2023-12-10 | 4-1 | [Prospectors](https://ws.tsl.rocks/corp/7919c3c38ee794a50b54a2d7a4d0aa78e36cf5a6e35d3e3d6a0c68db2841c167/) |
 | ❌ | 2023-11-29 | 3-6 | [Пабеда](https://ws.tsl.rocks/corp/5f29a5087f1cb6c175a54d845b2f3fd65828af71346fc945c5f69520410a6494/) |
+
+Corporation ID: edee949826201f74f57f45c101789757954710e3d075602dfdda7765a69a7e7c

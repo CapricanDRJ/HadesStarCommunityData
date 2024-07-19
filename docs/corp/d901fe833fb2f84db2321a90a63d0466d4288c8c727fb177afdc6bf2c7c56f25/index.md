@@ -38,3 +38,5 @@
 | ✅ | 2023-12-01 | 37-3 | [Free Thinkers 2](https://ws.tsl.rocks/corp/9fc879b45c4053ac93d6eebdb14d856a828df8fd85800df616cdd3332683a695/) |
 | ✅ | 2023-11-24 | 29-20 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) |
 | ❌ | 2023-11-11 | 12-21 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) |
+
+Corporation ID: d901fe833fb2f84db2321a90a63d0466d4288c8c727fb177afdc6bf2c7c56f25

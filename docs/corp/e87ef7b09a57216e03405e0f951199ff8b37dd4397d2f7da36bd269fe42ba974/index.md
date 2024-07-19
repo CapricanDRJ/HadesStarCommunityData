@@ -25,3 +25,5 @@
 | ✅ | 2024-01-19 | 9-5 | [Glashan](https://ws.tsl.rocks/corp/48b9fa3df8bbc6ce4a8455e9b923f28c0eccb8054c9f72e9c14e6acfee5a23a4/) |
 | ✅ | 2024-01-12 | 31-2 | [Гарри Поттер](https://ws.tsl.rocks/corp/f6776b51b0578a0ec96f8674d12c88c324a9e087c9053c0d42153a1a5090a665/) |
 | ✅ | 2024-01-06 | 5-3 | [Dark Training](https://ws.tsl.rocks/corp/f889cafae8c2e0c622ae5494ce013504bf204ba00f7c7b44c61985588ee8f53c/) |
+
+Corporation ID: e87ef7b09a57216e03405e0f951199ff8b37dd4397d2f7da36bd269fe42ba974

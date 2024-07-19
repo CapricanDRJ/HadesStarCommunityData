@@ -49,3 +49,5 @@
 | ✅ | 2023-12-22 | 25-24 | [Rising star](https://ws.tsl.rocks/corp/b7037efd74e829aa4ac6e49960fa44cebe1477e23d25cf1640594d9168d630db/) |
 | ❌ | 2023-12-15 | 5-13 | [Space Marshalls](https://ws.tsl.rocks/corp/6a41cc36abf3a28a1c26bc22843f1892d6938e8eb1e8f8a10fd9e6e964e06c2c/) |
 | ❌ | 2023-12-08 | 6-23 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
+
+Corporation ID: 1ffdd1012b5d4a4aca2e0e34e2653630706b779eead835c61c2c715e4df17a1f

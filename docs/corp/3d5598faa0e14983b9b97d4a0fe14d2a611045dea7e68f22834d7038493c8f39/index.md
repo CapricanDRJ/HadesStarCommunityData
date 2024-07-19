@@ -36,3 +36,5 @@
 | ✅ | 2023-11-17 | 66-30 | [Farland Ind.](https://ws.tsl.rocks/corp/9e0cb5f9ee7451cf8b55ed7f18717a42c7b58995a2717b83f6f98b7872b38e3f/) |
 | ✅ | 2023-11-11 | 58-5 | [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) |
 | ✅ | 2023-11-05 | 35-20 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) |
+
+Corporation ID: 3d5598faa0e14983b9b97d4a0fe14d2a611045dea7e68f22834d7038493c8f39

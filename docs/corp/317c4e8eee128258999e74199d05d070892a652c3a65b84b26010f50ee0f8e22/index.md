@@ -28,3 +28,5 @@
 | ❌ | 2023-12-10 | 1-10 | [Альянс звезд](https://ws.tsl.rocks/corp/c406351fec6349034d9ae58aec3da43a5507ad86ff9a89b4654a20eb10e6de95/) |
 | ❌ | 2023-11-16 | 0-11 | [共产星际](https://ws.tsl.rocks/corp/5cb42bdae108ad850e61479922e7d8cb4d5b7be7b8ac2f64fc828d3b88046737/) |
 | ✅ | 2023-11-09 | 3-0 | [Sternenbund](https://ws.tsl.rocks/corp/bc271b888ea386af54e2fc911a98d01951a0c2bb776a079d2ae005c477072587/) |
+
+Corporation ID: 317c4e8eee128258999e74199d05d070892a652c3a65b84b26010f50ee0f8e22

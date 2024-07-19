@@ -69,3 +69,5 @@
 | ❌ | 2023-11-17 | 8-20 | [Галактика Зла](https://ws.tsl.rocks/corp/1495d852070d8182229d3cb26e828265d4525a9ef97a9b377415b803b01d6101/) |
 | ✅ | 2023-11-11 | 14-2 | [Peak Extraction](https://ws.tsl.rocks/corp/b656a84b60d6de62745eb9059a703b44cca76b6247beeceef5f856f89e4c2d0d/) |
 | ❌ | 2023-11-05 | 3-22 | [Nine's Own Goal](https://ws.tsl.rocks/corp/fd47245550708347721e341d893b73e7c23e0f3624053c47ce666e55641c9e9e/) |
+
+Corporation ID: b7037efd74e829aa4ac6e49960fa44cebe1477e23d25cf1640594d9168d630db

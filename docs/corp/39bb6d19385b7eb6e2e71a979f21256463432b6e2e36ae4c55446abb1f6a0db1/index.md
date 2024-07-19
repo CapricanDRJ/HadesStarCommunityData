@@ -27,3 +27,5 @@
 | ❌ | 2024-01-08 | 6-27 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ❌ | 2023-12-08 | 14-27 | [Спутник](https://ws.tsl.rocks/corp/0ae15c4db6dc8c3f4bf3eb6aa93bffd4ea9281b06b721ab103c0078646bfe58c/) |
 | ❌ | 2023-11-29 | 14-18 | [SYNDICATE](https://ws.tsl.rocks/corp/340a8194f62a11308a6d79b913d48312fa37e3b250fb4b241cc2c5d69549a912/) |
+
+Corporation ID: 39bb6d19385b7eb6e2e71a979f21256463432b6e2e36ae4c55446abb1f6a0db1

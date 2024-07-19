@@ -30,3 +30,5 @@
 | ❌ | 2023-12-24 | 3-8 | [한국우주연합](https://ws.tsl.rocks/corp/c5eef27852b12a8242ae92571d4bdaa16b3360e45fb47820da574211a095ccce/) |
 | ✅ | 2023-12-18 | 3-0 | [Goa'uld](https://ws.tsl.rocks/corp/6cfbe34768af3759518bfef230548e375dff664510e0670ea856313b90faec80/) |
 | ❌ | 2023-12-13 | 1-7 | [Warriors union](https://ws.tsl.rocks/corp/414b486648e1871ce70a5ac9f1a65f02a15d6a38eebc99c23ab68016ba988ea8/) |
+
+Corporation ID: e729927db5a5672fcc94357f999bc3b66fa38a624f042543b847f82e7fa890a5

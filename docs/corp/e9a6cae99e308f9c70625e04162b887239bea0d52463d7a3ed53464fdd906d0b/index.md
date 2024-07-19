@@ -31,3 +31,5 @@
 | ❌ | 2023-11-11 | 2-40 | [ItBurnsWhenIEMP](https://ws.tsl.rocks/corp/1549586a8e69d1a5b1245b5cf33b7beb241b2343c07d1d800e5a2c4026c06438/) |
 | ❌ | 2023-11-06 | 0-14 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ❌ | 2023-11-06 | 1-20 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) |
+
+Corporation ID: e9a6cae99e308f9c70625e04162b887239bea0d52463d7a3ed53464fdd906d0b

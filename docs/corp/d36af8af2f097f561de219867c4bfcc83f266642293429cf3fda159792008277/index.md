@@ -33,3 +33,5 @@
 | ❌ | 2023-11-15 | 1-9 | [Red Star Corp.](https://ws.tsl.rocks/corp/7ac87486823e26635a2f3887927b19b3a14a7875d38042200045204c418d9ac1/) |
 | ✅ | 2023-11-15 | 9-1 | [The Galxey █](https://ws.tsl.rocks/corp/d52cda2701dd013db91403bab0ff5972e0d9f3a13f842daf8d633025835a6b19/) |
 | ❌ | 2023-11-08 | 1-3 | [Ws Polaris](https://ws.tsl.rocks/corp/aed0edd750f895de01d5a257db42bba7b2098421901f1cf0352b992242d967d9/) |
+
+Corporation ID: d36af8af2f097f561de219867c4bfcc83f266642293429cf3fda159792008277

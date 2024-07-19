@@ -48,3 +48,5 @@
 | ✅ | 2023-12-08 | 21-3 | [Starlancer](https://ws.tsl.rocks/corp/ef3681f4433ada2b05c563519c377662b1755fed13e8c6cbae8f4af3249d5bda/) |
 | ✅ | 2023-11-24 | 23-0 | [Space Monkeys](https://ws.tsl.rocks/corp/bf0f92381dd40d43b1326fd6cb3455bfd466b0f876fec8c6d9fa885d25d757f9/) |
 | ✅ | 2023-11-17 | 17-11 | [元素联邦](https://ws.tsl.rocks/corp/e9d602d617d5c81270107c15a6d1f1717c5016abad802d3629f7f4301a58e95e/) |
+
+Corporation ID: a9493d38afc250d1f8288ca320eb0e5fb1263b1854737d813cdbf575c0e0e2d3

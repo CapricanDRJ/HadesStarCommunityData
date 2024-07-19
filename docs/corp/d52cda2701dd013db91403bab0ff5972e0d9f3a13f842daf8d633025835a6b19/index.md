@@ -57,3 +57,5 @@
 | ✅ | 2023-11-20 | 4-0 | [U.P.E](https://ws.tsl.rocks/corp/fc06e2f3477d57f180521828616b988b58c6e5f6359dcfdc34b2e1fea93d309d/) |
 | ❌ | 2023-11-15 | 1-9 | [新纪元舰队](https://ws.tsl.rocks/corp/d36af8af2f097f561de219867c4bfcc83f266642293429cf3fda159792008277/) |
 | ❌ | 2023-11-10 | 0-2 | [共产星际](https://ws.tsl.rocks/corp/5cb42bdae108ad850e61479922e7d8cb4d5b7be7b8ac2f64fc828d3b88046737/) |
+
+Corporation ID: d52cda2701dd013db91403bab0ff5972e0d9f3a13f842daf8d633025835a6b19

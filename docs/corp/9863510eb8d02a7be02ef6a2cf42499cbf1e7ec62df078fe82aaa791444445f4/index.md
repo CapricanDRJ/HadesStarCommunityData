@@ -26,3 +26,5 @@
 | ❌ | 2024-01-17 | 0-18 | [Albedo](https://ws.tsl.rocks/corp/8e9848f9867c594384d6a31618213447f358c7b308fee91d20991b80b513fdbb/) |
 | ❌ | 2023-12-21 | 2-7 | [СлАвЯнСкИй СоЮз](https://ws.tsl.rocks/corp/74a0e9ceb3b48af60580382b0ee5e8712d9a468b4f947302b81b999cfde3f86a/) |
 | ✅ | 2023-12-10 | 1-0 | [德意志第三帝国阿尔法分部](https://ws.tsl.rocks/corp/83f745abaa8bed335f0cba2f66fdbafa4b226d40d8ad145db66795d7c051fb60/) |
+
+Corporation ID: 9863510eb8d02a7be02ef6a2cf42499cbf1e7ec62df078fe82aaa791444445f4

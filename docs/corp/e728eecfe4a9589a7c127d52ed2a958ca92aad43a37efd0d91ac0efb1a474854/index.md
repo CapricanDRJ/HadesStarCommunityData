@@ -45,3 +45,5 @@
 | ✅ | 2023-12-04 | 42-6 | [Rogue Corp](https://ws.tsl.rocks/corp/6ad28ede21f9fa3aa044f0af41c7ed474fc432adf4ca1923fa02f6f9ded0028f/) |
 | ✅ | 2023-11-27 | 41-21 | [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) |
 | ✅ | 2023-11-16 | 21-12 | [Lacuna Ind.](https://ws.tsl.rocks/corp/09f1be75e07236be87e2fa3f6e2f82f396666cd220f25f1250ba8b9e71e1e1b7/) |
+
+Corporation ID: e728eecfe4a9589a7c127d52ed2a958ca92aad43a37efd0d91ac0efb1a474854

@@ -57,3 +57,5 @@
 | ✅ | 2023-11-21 | 13-6 | [中国星系舰队](https://ws.tsl.rocks/corp/5cc773684246e055601c9b0ca8200c1ca66a040c6e8cba90121f528cb792753a/) |
 | ✅ | 2023-11-16 | 11-0 | [t 72 SwiftKey F](https://ws.tsl.rocks/corp/317c4e8eee128258999e74199d05d070892a652c3a65b84b26010f50ee0f8e22/) |
 | ✅ | 2023-11-10 | 2-0 | [The Galxey █](https://ws.tsl.rocks/corp/d52cda2701dd013db91403bab0ff5972e0d9f3a13f842daf8d633025835a6b19/) |
+
+Corporation ID: 5cb42bdae108ad850e61479922e7d8cb4d5b7be7b8ac2f64fc828d3b88046737

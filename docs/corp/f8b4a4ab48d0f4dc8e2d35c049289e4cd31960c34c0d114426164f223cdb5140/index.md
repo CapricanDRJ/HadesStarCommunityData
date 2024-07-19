@@ -35,3 +35,5 @@
 | ✅ | 2024-01-06 | 49-18 | [EZCO](https://ws.tsl.rocks/corp/cfad990cabcdc1326c0aa3f93a57d1f0e6ec3cd2949e01e6b08443c3af8282f1/) |
 | ❌ | 2023-12-27 | 2-22 | [Спутник](https://ws.tsl.rocks/corp/0ae15c4db6dc8c3f4bf3eb6aa93bffd4ea9281b06b721ab103c0078646bfe58c/) |
 | ❌ | 2023-11-08 | 7-28 | [Curcubeu](https://ws.tsl.rocks/corp/a2bdd69ff0d73fcdb3bd9461684b2951dd4df9009b7ea8eae1592efff76e3c59/) |
+
+Corporation ID: f8b4a4ab48d0f4dc8e2d35c049289e4cd31960c34c0d114426164f223cdb5140

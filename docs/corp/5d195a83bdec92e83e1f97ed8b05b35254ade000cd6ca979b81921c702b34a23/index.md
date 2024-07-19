@@ -101,3 +101,5 @@
 | ✅ | 2024-01-10 | 5-0 | [한국인](https://ws.tsl.rocks/corp/f2b2c144f02ec69dfe3bd7fb8d4d1db10d7e3954a2f45937f16daafb0266490e/) |
 | ✅ | 2024-01-05 | 7-0 | [Intercepter Inc](https://ws.tsl.rocks/corp/77a77d3506a7caa4235a9cd6e9789f562649180fe9404bab2bb70d4433a2f520/) |
 | ❌ | 2023-12-31 | 3-7 | [phoenix clan](https://ws.tsl.rocks/corp/e25bc73528b7029e9b908d920effef5e183928ad3f7b151987a29252d9052c79/) |
+
+Corporation ID: 5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23

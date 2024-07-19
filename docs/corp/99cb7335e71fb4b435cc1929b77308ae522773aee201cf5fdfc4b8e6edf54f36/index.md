@@ -27,3 +27,5 @@
 | ✅ | 2023-11-21 | 18-0 | [Cydonia Order](https://ws.tsl.rocks/corp/e55f58931b283e38b70e189f9bbc51563a76e2ae541f8b2b207444fb36d5ddf9/) |
 | ❌ | 2023-11-12 | 1-10 | [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) |
 | ❌ | 2023-11-05 | 6-13 | [Inexorable](https://ws.tsl.rocks/corp/8343908ac19af8666d7765db00e5eb603d9e87bbbfe273c81d9b9b2329ca0827/) |
+
+Corporation ID: 99cb7335e71fb4b435cc1929b77308ae522773aee201cf5fdfc4b8e6edf54f36

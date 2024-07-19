@@ -48,3 +48,5 @@
 | ❌ | 2023-11-20 | 14-47 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | ✅ | 2023-11-14 | 9-8 | [龙门训练营](https://ws.tsl.rocks/corp/1409829bbf951ca641274ef39dad828f2b4989e603fbe05e5765204058c13923/) |
 | ❌ | 2023-11-06 | 2-29 | [GermanIndustrie](https://ws.tsl.rocks/corp/5d5954b2c9b2decd8836f2b7b9aa404e2f4386ae4fa682b54654459282852986/) |
+
+Corporation ID: e73d410a73bca6a1161056891e484b32cac940c0d94d20c92ed085683524652b

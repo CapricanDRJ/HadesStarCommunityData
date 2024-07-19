@@ -24,3 +24,5 @@
 | ✅ | 2023-11-23 | 4-2 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ✅ | 2023-11-16 | 5-0 | [联合宇宙](https://ws.tsl.rocks/corp/da614a2861abac24e31b7b978e75196750b88545f6ece0f367b66b43d696deab/) |
 | ❌ | 2023-11-05 | 2-4 | [边界-萌新俱乐部](https://ws.tsl.rocks/corp/b5f7e751f69db2b698fd436f3d60af1d1d435f5eb8d0984e45f8fcc7cbc74453/) |
+
+Corporation ID: bb363d47e9cd8710d6808f6dcc2d270bdf33614e63ea6e0943bb739cde625f27

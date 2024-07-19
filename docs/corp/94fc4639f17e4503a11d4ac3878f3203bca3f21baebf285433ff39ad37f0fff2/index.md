@@ -68,3 +68,5 @@
 | ✅ | 2023-11-21 | 22-3 | [НИФИГАСЕБЕ](https://ws.tsl.rocks/corp/a18fab78c26d983ee99c4cd3c7aaddcfac61283abb2122e9a8ccc44feb2b3196/) |
 | ❌ | 2023-11-12 | 10-13 | [VENTORMENTA](https://ws.tsl.rocks/corp/0b64072b403ef687c83d4c04a4f5a20f8dd89befdaaf6ced9af64cacc2f46536/) |
 | ↔️ | 2023-11-05 | 3-3 | [LANCE](https://ws.tsl.rocks/corp/f9d489fbbe222ff361139bfe234f235c1dfd82f2ccf38f7ecd929e6377408883/) |
+
+Corporation ID: 94fc4639f17e4503a11d4ac3878f3203bca3f21baebf285433ff39ad37f0fff2

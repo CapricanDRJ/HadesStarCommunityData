@@ -32,3 +32,5 @@
 | ❌ | 2023-12-06 | 0-2 | [Bacon Warriors](https://ws.tsl.rocks/corp/ec62b01fc96adc2a7b7ac4077438e5153eeefc94740fab8309dcb6613e3a7f48/) |
 | ❌ | 2023-12-05 | 5-9 | [Эдем](https://ws.tsl.rocks/corp/a61dc2c639a91f5b725d43d306ba2eebe1770c92499d7d92086b7a097f939c0d/) |
 | ❌ | 2023-11-27 | 0-3 | [Destroyers](https://ws.tsl.rocks/corp/3756333f55f58944372cf785b972da55796cc179c0ce5f10244e90e3c4355a23/) |
+
+Corporation ID: df15d02d32c67d60995e68d6c4197c23b340a0a985f04280563d8d07bd4536fa

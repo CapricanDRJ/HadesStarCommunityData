@@ -62,3 +62,5 @@
 | ❌ | 2023-11-18 | 6-11 | [Sternenflotte](https://ws.tsl.rocks/corp/c0e248ebf5fe5d7a10057e5c23341422b0d0bd0cc74c836d2d9835758cce6ec7/) |
 | ✅ | 2023-11-13 | 19-2 | [Smurfing](https://ws.tsl.rocks/corp/686668dde261a7c9e724dca3d2c66659ee78506d8d1918ff5eb81fafcf17e471/) |
 | ✅ | 2023-11-08 | 13-0 | [蓝色星系](https://ws.tsl.rocks/corp/4199afa719f068b1e3195bebef959b1a1c22d55d5cc0ca718de807ea5d1486f9/) |
+
+Corporation ID: 8c2109279ceb01bcca0aa5e85c151d5877831ac54199285743750e2ed343b407

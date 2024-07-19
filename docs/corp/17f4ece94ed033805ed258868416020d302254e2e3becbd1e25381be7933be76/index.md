@@ -55,3 +55,5 @@
 | ✅ | 2023-11-23 | 34-3 | [Killer Shadow](https://ws.tsl.rocks/corp/e90d22a90153c1fd6c2f02d7d408f1cba9abb2de7f76c38fe7b1aa769df23de7/) |
 | ✅ | 2023-11-16 | 19-9 | [Mass Effect](https://ws.tsl.rocks/corp/6f715653bec3925d9c3acd7c2388fe8e1c79332146894ed424f57bd2636de8c7/) |
 | ✅ | 2023-11-08 | 22-2 | [Ночные Львы](https://ws.tsl.rocks/corp/0ed108e924dc1ffb26f5569d6644d9eeefc397f2435eb15d122fe9f5368aabd7/) |
+
+Corporation ID: 17f4ece94ed033805ed258868416020d302254e2e3becbd1e25381be7933be76

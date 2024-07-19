@@ -50,3 +50,5 @@
 | ❌ | 2023-11-20 | 6-24 | [Zvezdec](https://ws.tsl.rocks/corp/7bce2af674b8fb313f43e497201ad86b230571cc3e200f44132be528eb4076d9/) |
 | ❌ | 2023-11-13 | 5-29 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ✅ | 2023-11-07 | 19-7 | [West Worlders](https://ws.tsl.rocks/corp/aad051ec6b980cc52fb4777aef113d9e28a72aab40fda65aa9cdbf477b8e390a/) |
+
+Corporation ID: 0625bb885137c3824ac346b97780181e23ee84562237eb345baa364f8d7d3c43

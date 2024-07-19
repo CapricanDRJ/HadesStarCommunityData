@@ -69,3 +69,5 @@
 | ❌ | 2023-11-16 | 4-28 | [ITA](https://ws.tsl.rocks/corp/4b7ed90565c5e7d463f7a7dcecab17ae3f6c93cd6b75b77bece4bfad9cfe9626/) |
 | ❌ | 2023-11-11 | 3-38 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) |
 | ❌ | 2023-11-04 | 5-13 | [Спутник](https://ws.tsl.rocks/corp/0ae15c4db6dc8c3f4bf3eb6aa93bffd4ea9281b06b721ab103c0078646bfe58c/) |
+
+Corporation ID: 712800536cbb3ef3357a2480d86cf971596950ac499e699bb3d99f94d1c65f5f

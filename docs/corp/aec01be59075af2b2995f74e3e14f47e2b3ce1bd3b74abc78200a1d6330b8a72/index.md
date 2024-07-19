@@ -37,3 +37,5 @@
 | ✅ | 2024-02-12 | 16-8 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ❌ | 2024-02-12 | 11-12 | [Star Wars](https://ws.tsl.rocks/corp/2dd3aee3667c5c190079cc378773d809ece1b146bc0a16fce6c46663fc3b6992/) |
 | ❌ | 2023-11-06 | 2-31 | [Proteus Tech](https://ws.tsl.rocks/corp/a9abf464e4301045ae4dbba7a5889a4e49d10e7e21f2e1011d9507cc5c45012b/) |
+
+Corporation ID: aec01be59075af2b2995f74e3e14f47e2b3ce1bd3b74abc78200a1d6330b8a72

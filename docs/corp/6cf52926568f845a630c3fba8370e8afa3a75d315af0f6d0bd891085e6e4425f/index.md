@@ -37,3 +37,5 @@
 | ✅ | 2024-01-02 | 14-5 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
 | ❌ | 2023-12-26 | 1-27 | [Nova Time](https://ws.tsl.rocks/corp/0f1c182652387799cfc3a59082f52a2b01201b13336d84760eab107fb1934ce0/) |
 | ✅ | 2023-12-21 | 7-0 | [JPR. Pretorians](https://ws.tsl.rocks/corp/7144c7cdb9f369d9e56199379429b01172d00a5142f6ceda71031de9bf6e0d25/) |
+
+Corporation ID: 6cf52926568f845a630c3fba8370e8afa3a75d315af0f6d0bd891085e6e4425f

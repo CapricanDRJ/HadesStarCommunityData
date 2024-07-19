@@ -56,3 +56,5 @@
 | ✅ | 2024-03-14 | 7-0 | [j g f h me t y ](https://ws.tsl.rocks/corp/47918aa8890d89fb5fc148ee9fdd940dd60ae73de3f7d05ccc54fabed17e1b5f/) |
 | ✅ | 2024-03-03 | 3-1 | [Weyland Yutani ](https://ws.tsl.rocks/corp/9799c33a0ecdcf321ad446a18f4e7f520610d26ec5f13e0c6b7a411dec2e2e46/) |
 | ↔️ | 2024-02-07 | 4-4 | [探索舰队](https://ws.tsl.rocks/corp/c18acd17d6d643817b2bf8f28c2bf82cae881f0dd6d41528c9cfbe3292a7de29/) |
+
+Corporation ID: afb9817e45c3c79048d2be30be3b635704485d260ae7b474b579a019d56d3c2d

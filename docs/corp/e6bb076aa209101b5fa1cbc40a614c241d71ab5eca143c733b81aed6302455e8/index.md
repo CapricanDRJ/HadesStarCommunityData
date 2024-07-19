@@ -49,3 +49,5 @@
 | ❌ | 2023-12-10 | 1-28 | [Nova Time](https://ws.tsl.rocks/corp/0f1c182652387799cfc3a59082f52a2b01201b13336d84760eab107fb1934ce0/) |
 | ❌ | 2023-12-03 | 0-3 | [ToC](https://ws.tsl.rocks/corp/72dc408527c06786fa45851f432da731fd63c063d51f4a180b9ae24216e41765/) |
 | ❌ | 2023-11-19 | 0-16 | [SternenStaub](https://ws.tsl.rocks/corp/11f1e8a4d522eaef8cb40c95d07b4533097aa6509ddafd1d7efc1449e8b10f38/) |
+
+Corporation ID: e6bb076aa209101b5fa1cbc40a614c241d71ab5eca143c733b81aed6302455e8

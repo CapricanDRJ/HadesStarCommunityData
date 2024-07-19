@@ -52,3 +52,5 @@
 | ❌ | 2023-11-22 | 0-24 | [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) |
 | ❌ | 2023-11-14 | 8-9 | [Polish Pirates](https://ws.tsl.rocks/corp/e73d410a73bca6a1161056891e484b32cac940c0d94d20c92ed085683524652b/) |
 | ❌ | 2023-11-05 | 0-29 | [DadCorp](https://ws.tsl.rocks/corp/1b2cbf703ce5571c8f28d0616ca42f0bce30814d3186df5799397698ceb15d1d/) |
+
+Corporation ID: 1409829bbf951ca641274ef39dad828f2b4989e603fbe05e5765204058c13923

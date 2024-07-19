@@ -37,3 +37,5 @@
 | ✅ | 2023-12-07 | 37-1 | [НИФИГАСЕБЕ](https://ws.tsl.rocks/corp/a18fab78c26d983ee99c4cd3c7aaddcfac61283abb2122e9a8ccc44feb2b3196/) |
 | ✅ | 2023-11-23 | 32-1 | [Odessa](https://ws.tsl.rocks/corp/f509f71fafc573fb7aad51ddd9d82668162fe80073506ca5dc2e68cb795cffea/) |
 | ✅ | 2023-11-12 | 14-6 | [Дом Датэ](https://ws.tsl.rocks/corp/10cbcbd91c4084657bdab01ef573cc48170fbc4dd0ab533f96712f1cb6097ff2/) |
+
+Corporation ID: 4ec84e26e7ede18156541503f057342cbe9ac9ef9e53c7dbae99993832da067e

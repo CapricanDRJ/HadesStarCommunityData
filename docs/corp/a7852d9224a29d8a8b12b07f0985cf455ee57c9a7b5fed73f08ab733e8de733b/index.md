@@ -23,3 +23,5 @@
 | ✅ | 2024-03-01 | 10-9 | [SpaceCowboys](https://ws.tsl.rocks/corp/e6bb3b9dcc40ad7f7c82fd0f7164a99fa6264c05a186ed9f33011a7f315ca507/) |
 | ❌ | 2024-02-23 | 4-10 | [Kratos](https://ws.tsl.rocks/corp/1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b/) |
 | ✅ | 2024-02-09 | 11-1 | [Венерский Союз](https://ws.tsl.rocks/corp/6d869628a64fc11a17264dacfd741e7d603069d526d32a166c48ff7fd9499bf6/) |
+
+Corporation ID: a7852d9224a29d8a8b12b07f0985cf455ee57c9a7b5fed73f08ab733e8de733b

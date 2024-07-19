@@ -45,3 +45,5 @@
 | ❌ | 2023-11-12 | 3-6 | [Free Star](https://ws.tsl.rocks/corp/3970e813bec9126438bee62e337f181cf80eef7babc4a233b5b3df6003a3b9cf/) |
 | ❌ | 2023-11-09 | 0-13 | [Star Blazers](https://ws.tsl.rocks/corp/f179acb7b919d9d3185f1fcd66bb17d5e257feab5039bcbf6efb5c8cd6f5c057/) |
 | ✅ | 2023-11-07 | 3-2 | [Todesschwadron](https://ws.tsl.rocks/corp/2bcbf6c5a9cfee247983159b049a176d182486b00690372f13cc08e35203c047/) |
+
+Corporation ID: 92ad2a305a74e168b57771140461b4d226e1e8cac17b4f77027d5a67ead5fa1d

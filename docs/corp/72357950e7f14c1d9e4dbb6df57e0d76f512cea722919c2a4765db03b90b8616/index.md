@@ -25,3 +25,5 @@
 | ❌ | 2023-11-21 | 2-5 | [神圣罗马帝国](https://ws.tsl.rocks/corp/2a71af44aaef82175cd8dfd86c9e3f218a438a7c7e748bae20d8a0d964a984ab/) |
 | ❌ | 2023-11-11 | 0-12 | [the Rubber Duck](https://ws.tsl.rocks/corp/bfd6a197d72d0b643c6693e66b9a10db61f75ae242a0bd7c09bdd553ae951ee6/) |
 | ❌ | 2023-11-06 | 0-10 | [VENTORMENTA](https://ws.tsl.rocks/corp/0b64072b403ef687c83d4c04a4f5a20f8dd89befdaaf6ced9af64cacc2f46536/) |
+
+Corporation ID: 72357950e7f14c1d9e4dbb6df57e0d76f512cea722919c2a4765db03b90b8616

@@ -42,3 +42,5 @@
 | ✅ | 2023-12-10 | 16-6 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | ❌ | 2023-12-05 | 4-19 | [Inexorable](https://ws.tsl.rocks/corp/8343908ac19af8666d7765db00e5eb603d9e87bbbfe273c81d9b9b2329ca0827/) |
 | ❌ | 2023-11-21 | 11-21 | [GDZ](https://ws.tsl.rocks/corp/a04890160268d05cf11f997b0a1c724fbbcfa66b2ea4cb1c4b56ca18d0425d62/) |
+
+Corporation ID: 901147b3fe4ec963eae03573b8213b490796bf22e3d9ba20d61af7c444690cac

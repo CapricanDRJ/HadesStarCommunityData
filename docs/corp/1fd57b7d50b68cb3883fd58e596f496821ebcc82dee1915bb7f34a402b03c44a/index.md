@@ -66,3 +66,5 @@
 | ❌ | 2023-11-29 | 8-15 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | ✅ | 2023-11-20 | 11-0 | [Dumpster Fire](https://ws.tsl.rocks/corp/f191bf7efb93ca805453b3e11aef9278976a4c70fe9790e7813f28fcdf899121/) |
 | ✅ | 2023-11-07 | 3-2 | [death squadron ](https://ws.tsl.rocks/corp/7177b5a598ff387d35b2348e1ec750a9f237fbf70d8016207ea3da1619c44e5b/) |
+
+Corporation ID: 1fd57b7d50b68cb3883fd58e596f496821ebcc82dee1915bb7f34a402b03c44a

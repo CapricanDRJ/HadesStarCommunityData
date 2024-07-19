@@ -53,3 +53,5 @@
 | ❌ | 2023-11-13 | 10-11 | [Unión latina](https://ws.tsl.rocks/corp/9919a50d277644f496c19d5becdf40abb251d000345f049632329f0b35b7fbf1/) |
 | ✅ | 2023-11-04 | 8-3 | [神圣罗马帝国](https://ws.tsl.rocks/corp/2a71af44aaef82175cd8dfd86c9e3f218a438a7c7e748bae20d8a0d964a984ab/) |
 | ❌ | 2023-11-04 | 3-6 | [Russian Style](https://ws.tsl.rocks/corp/db02701745537e2b055f660e59bd465567c4e4b322c16ade37245ed4a40699c8/) |
+
+Corporation ID: e2223ab2b582a5eb5ae1734e132358eb3c24ddf61fcbeee7b8f6708f26782108

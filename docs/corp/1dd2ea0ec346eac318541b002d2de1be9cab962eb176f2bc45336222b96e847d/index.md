@@ -27,3 +27,5 @@
 | ✅ | 2023-11-25 | 9-5 | [Nooooobs](https://ws.tsl.rocks/corp/d857c0fdf48324a3b81263ef8d86c0cc65ae61eb530193b36ce2a146c85c6aa2/) |
 | ❌ | 2023-11-10 | 0-39 | [Hades Academy](https://ws.tsl.rocks/corp/b40bd030900afebcbf4508c3b1174e2e80edcc628e6b72357b1571568d0872e3/) |
 | ❌ | 2023-11-04 | 0-12 | [The X - Files](https://ws.tsl.rocks/corp/f13cb0ae2dbb0654a2067c8749f86bce49edc5b520bd391c7af11948f23a41fb/) |
+
+Corporation ID: 1dd2ea0ec346eac318541b002d2de1be9cab962eb176f2bc45336222b96e847d

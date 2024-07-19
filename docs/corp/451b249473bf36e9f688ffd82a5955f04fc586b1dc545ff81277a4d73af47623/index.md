@@ -81,3 +81,5 @@
 | ✅ | 2023-11-16 | 10-3 | [Dauntless](https://ws.tsl.rocks/corp/8313138d370b0b0f15dea3af851c836f9a1e1e838bf26c652c9a9831fb6b739a/) |
 | ✅ | 2023-11-11 | 21-12 | [Enigma](https://ws.tsl.rocks/corp/d901fe833fb2f84db2321a90a63d0466d4288c8c727fb177afdc6bf2c7c56f25/) |
 | ✅ | 2023-11-06 | 15-10 | [Game of Stars](https://ws.tsl.rocks/corp/ad5bb68e6076ee70e6715ecead226fc9880b66a87b68acb3098843f723c1562e/) |
+
+Corporation ID: 451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623

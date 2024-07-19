@@ -26,3 +26,5 @@
 | ✅ | 2024-03-01 | 37-1 | [绛紫星](https://ws.tsl.rocks/corp/8c2109279ceb01bcca0aa5e85c151d5877831ac54199285743750e2ed343b407/) |
 | ✅ | 2024-02-09 | 28-5 | [Galactic Empire](https://ws.tsl.rocks/corp/e2223ab2b582a5eb5ae1734e132358eb3c24ddf61fcbeee7b8f6708f26782108/) |
 | ✅ | 2023-12-08 | 19-0 | [Space Rangers](https://ws.tsl.rocks/corp/da0952db0de44e4eee72d9ffa2394d5818565c5c16d89a1313c6df07417f9fb3/) |
+
+Corporation ID: cc9ed2698988a35d6dbb9e9762d6575b28204ab15fd7208b64e8108878a4b8f9

@@ -32,3 +32,5 @@
 | ❌ | 2023-11-22 | 4-28 | [Corporation](https://ws.tsl.rocks/corp/51bbfdd5693e8227e63dbd5161e8fb1a5fa3e93d1f67c7d565d82f080bbeb007/) |
 | ❌ | 2023-11-17 | 3-31 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |
 | ❌ | 2023-11-11 | 3-5 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) |
+
+Corporation ID: ef3681f4433ada2b05c563519c377662b1755fed13e8c6cbae8f4af3249d5bda

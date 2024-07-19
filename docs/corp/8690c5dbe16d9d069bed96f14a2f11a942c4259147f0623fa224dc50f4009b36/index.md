@@ -71,3 +71,5 @@
 | ❌ | 2023-12-21 | 5-44 | [Regulus](https://ws.tsl.rocks/corp/2ac7f4a924f351d9e8a57c7bd7cb88bb810dd028acab61baf5f38f0ffc7cf559/) |
 | ❌ | 2023-12-16 | 6-30 | [Спутник](https://ws.tsl.rocks/corp/0ae15c4db6dc8c3f4bf3eb6aa93bffd4ea9281b06b721ab103c0078646bfe58c/) |
 | ❌ | 2023-12-10 | 3-36 | [YETI Collective](https://ws.tsl.rocks/corp/ff6a3c65d008d245f003a3009374e26cf38e7cda6ea4d601a9da9037296fda98/) |
+
+Corporation ID: 8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36

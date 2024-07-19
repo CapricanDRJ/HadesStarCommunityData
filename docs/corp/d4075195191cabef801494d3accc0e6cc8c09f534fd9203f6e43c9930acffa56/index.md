@@ -33,3 +33,5 @@
 | ❌ | 2023-12-09 | 14-46 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) |
 | ❌ | 2023-12-02 | 8-16 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) |
 | ❌ | 2023-11-25 | 31-32 | [Space Penguins](https://ws.tsl.rocks/corp/6255ba7dab1bd2b150825874d1fea70b029dc79434f293d47518c27b0376e286/) |
+
+Corporation ID: d4075195191cabef801494d3accc0e6cc8c09f534fd9203f6e43c9930acffa56

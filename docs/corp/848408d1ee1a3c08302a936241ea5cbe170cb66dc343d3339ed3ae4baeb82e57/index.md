@@ -77,3 +77,5 @@
 | ✅ | 2023-11-30 | 6-0 | [自由星际联盟](https://ws.tsl.rocks/corp/933277ff64041b32fe12e4e564e2064071377343596c7944fb8c145165e2ab04/) |
 | ❌ | 2023-11-29 | 0-7 | [Krasse Bros](https://ws.tsl.rocks/corp/ec8df719929b564225592da878034621da81f0c95a84a1afdee1b2c8389374fb/) |
 | ✅ | 2023-11-23 | 6-1 | [Space Rangers](https://ws.tsl.rocks/corp/da0952db0de44e4eee72d9ffa2394d5818565c5c16d89a1313c6df07417f9fb3/) |
+
+Corporation ID: 848408d1ee1a3c08302a936241ea5cbe170cb66dc343d3339ed3ae4baeb82e57

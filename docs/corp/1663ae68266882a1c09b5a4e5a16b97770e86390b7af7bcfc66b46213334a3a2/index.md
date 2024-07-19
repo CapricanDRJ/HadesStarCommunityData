@@ -64,3 +64,5 @@
 | ✅ | 2023-11-15 | 21-0 | [太阳系联邦](https://ws.tsl.rocks/corp/1511bcf209c9d65c3db8fce158834ee0365899e8a765df9554b7606eb92b1df1/) |
 | ✅ | 2023-11-10 | 11-3 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) |
 | ✅ | 2023-11-05 | 13-0 | [Вселенские 40%](https://ws.tsl.rocks/corp/963d73346ebb929607f54404f481ac2273b4f483915b93144d0757b066a1fd99/) |
+
+Corporation ID: 1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2

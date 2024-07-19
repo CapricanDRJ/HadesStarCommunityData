@@ -19,3 +19,5 @@
 | ❌ | 2024-04-29 | 0-4 | [Dark Training](https://ws.tsl.rocks/corp/f889cafae8c2e0c622ae5494ce013504bf204ba00f7c7b44c61985588ee8f53c/) |
 | ❌ | 2024-04-29 | 0-1 | [遨游星空  kdy分盟](https://ws.tsl.rocks/corp/74a42c9e5b716ea7c784243c029ad5dc1871f6b81692170099efdf8d3f94ba8f/) |
 | ↔️ | 2024-04-10 | 0-0 | [Mass Effect](https://ws.tsl.rocks/corp/087c3c59f9fe72aa89b233d96d798f25b076724036a02f4ef29a1fa01e74d863/) |
+
+Corporation ID: 038bc19b50c066831931ddd822ae2c29f8d40279e3ef920b8574839c6e3ab35d

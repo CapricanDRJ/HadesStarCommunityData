@@ -28,3 +28,5 @@
 | ✅ | 2023-12-01 | 5-0 | [Void Nebula](https://ws.tsl.rocks/corp/fa7eb6bab97e700fd7b0f1182291107d608a9416456321d323f29608ea87debf/) |
 | ❌ | 2023-11-24 | 2-4 | [Бестрашный лиги](https://ws.tsl.rocks/corp/98a0925e094c54f400b76ad64a527b25adb4fe5aa1afc4b10368f072d3741d53/) |
 | ❌ | 2023-11-19 | 4-6 | [Galaktika corp](https://ws.tsl.rocks/corp/c37872d1ea085402bf536c707a895610f72dafda4bede848405b7908b4523985/) |
+
+Corporation ID: 04ad48264f0fcb63156d90f6ff6dfd55b1ab9321d56144f671a84c0253bccfc1

@@ -67,3 +67,5 @@
 | ✅ | 2023-11-26 | 23-6 | [Star Wars](https://ws.tsl.rocks/corp/2dd3aee3667c5c190079cc378773d809ece1b146bc0a16fce6c46663fc3b6992/) |
 | ✅ | 2023-11-21 | 43-9 | [海賊ギルド](https://ws.tsl.rocks/corp/5a1a2bfa07b5ad3ca9bc90a4a86ce8e83d0e61393771fa0ff4c71733bc8879f3/) |
 | ❌ | 2023-11-16 | 10-22 | [SYNDICATE](https://ws.tsl.rocks/corp/340a8194f62a11308a6d79b913d48312fa37e3b250fb4b241cc2c5d69549a912/) |
+
+Corporation ID: abd6d05a100ffdde2d15abd725a209bfbbf069b60b10ddeac88e88da66191472

@@ -23,3 +23,5 @@
 | ❌ | 2024-04-30 | 0-32 | [AFronteiraFinal](https://ws.tsl.rocks/corp/f0c64a4babe1fb017902406f1f331c63129409bccfba868cadc10cf1d064b9d4/) |
 | ❌ | 2023-11-18 | 6-24 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) |
 | ❌ | 2023-11-06 | 5-13 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
+
+Corporation ID: 9c52bc79384398f4052be65dc0f7ee091ac2d3cf14488efd1f4e3310b1f12574

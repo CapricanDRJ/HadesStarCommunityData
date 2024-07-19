@@ -93,3 +93,5 @@
 | ❌ | 2023-11-14 | 1-37 | [TROLL SQUAD](https://ws.tsl.rocks/corp/91daecf0251a6a1eee3d92820695d021c1f949e194cc5003d7cdebe59ef4502e/) |
 | ✅ | 2023-11-11 | 5-3 | [Starlancer](https://ws.tsl.rocks/corp/ef3681f4433ada2b05c563519c377662b1755fed13e8c6cbae8f4af3249d5bda/) |
 | ✅ | 2023-11-09 | 31-0 | [Держава Русь](https://ws.tsl.rocks/corp/cbf11e25cee65a6c529251b7f47a35d9e4ba7bb9d640f384605541637e931672/) |
+
+Corporation ID: 2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81

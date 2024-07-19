@@ -47,3 +47,5 @@
 | ❌ | 2023-11-28 | 1-9 | [РусКорп](https://ws.tsl.rocks/corp/7994b4a10a625b21deff136a17c63d096a4ba2f5cdd9eb9dedd7d0bd21b53d16/) |
 | ❌ | 2023-11-23 | 1-6 | [Decode](https://ws.tsl.rocks/corp/848408d1ee1a3c08302a936241ea5cbe170cb66dc343d3339ed3ae4baeb82e57/) |
 | ✅ | 2023-11-18 | 8-1 | [*Alfa y Omega*](https://ws.tsl.rocks/corp/b1da3a2265efd2266a8e4b5698a731ae179d00e431ee748d7bee62a1357a12ed/) |
+
+Corporation ID: da0952db0de44e4eee72d9ffa2394d5818565c5c16d89a1313c6df07417f9fb3

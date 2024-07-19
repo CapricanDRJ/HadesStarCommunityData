@@ -25,3 +25,5 @@
 | ✅ | 2023-12-15 | 26-0 | [AlSounT](https://ws.tsl.rocks/corp/b876a825b43edd1e21a7cc515addeb62a832c1126a5e591e562f6475572788d1/) |
 | ❌ | 2023-12-01 | 14-20 | [Battlestar Fr](https://ws.tsl.rocks/corp/fa82ca5593a431614d1bf5f7c170fee2eeebb55354a86d2d7cd6dd48c4e05edc/) |
 | ❌ | 2023-11-17 | 5-17 | [Gemini Ind.](https://ws.tsl.rocks/corp/c85dd45ed75136d750bdcc2d83740494dea9e0ba077eac1bbb2f1a442a92674c/) |
+
+Corporation ID: 1c092f1b0e9645193eac68e27b29b2b9fef39474fd8924495abec6754857a8f9

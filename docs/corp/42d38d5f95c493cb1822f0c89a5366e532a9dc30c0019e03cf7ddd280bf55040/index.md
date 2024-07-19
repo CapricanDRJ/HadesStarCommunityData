@@ -54,3 +54,5 @@
 | ✅ | 2024-02-07 | 9-4 | [神仙'](https://ws.tsl.rocks/corp/2a865ec8658a1843c5442405aa7be1fd9e44cf058568802ca1de6610499fa973/) |
 | ✅ | 2024-01-29 | 22-2 | [Richthofen](https://ws.tsl.rocks/corp/e0208115ff38526d361b427f8dbd68002d9f4707960809ce5ec4ffc8d2389a18/) |
 | ✅ | 2024-01-23 | 27-0 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) |
+
+Corporation ID: 42d38d5f95c493cb1822f0c89a5366e532a9dc30c0019e03cf7ddd280bf55040

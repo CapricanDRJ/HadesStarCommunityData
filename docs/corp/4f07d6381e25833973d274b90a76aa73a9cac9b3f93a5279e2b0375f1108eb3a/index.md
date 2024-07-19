@@ -39,3 +39,5 @@
 | ❌ | 2024-02-18 | 0-5 | [Goblin Squad](https://ws.tsl.rocks/corp/8157fdbc504136281be1becade034cac02082d8e81459a1ec1190bbe7a9f5331/) |
 | ❌ | 2023-11-18 | 3-6 | [Imperium](https://ws.tsl.rocks/corp/bd50f5c2e729855731a8cd72c1ed6e10b6130da7eb57a3d511497e4afdf0133c/) |
 | ❌ | 2023-11-12 | 3-9 | [Альянс](https://ws.tsl.rocks/corp/a7d0478626828d7428aeeb5115f68e790f7e4c8a7f917812ec2241178e1c3f50/) |
+
+Corporation ID: 4f07d6381e25833973d274b90a76aa73a9cac9b3f93a5279e2b0375f1108eb3a

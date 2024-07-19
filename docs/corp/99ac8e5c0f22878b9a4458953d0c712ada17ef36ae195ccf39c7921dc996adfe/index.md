@@ -60,3 +60,5 @@
 | ✅ | 2024-01-16 | 11-7 | [Hades Seminary ](https://ws.tsl.rocks/corp/a43c0e4701495c28fde3f8c614baa6d54af86ed15d13ff8da3a6266039c5e2a7/) |
 | ✅ | 2024-01-10 | 18-1 | [星海扬帆](https://ws.tsl.rocks/corp/9cf2d9a2c07a0b8030f9a8275f9ebd3973759c2b60bed95ccb9a3f152aa0b1e4/) |
 | ❌ | 2024-01-04 | 7-13 | [Space Rangers](https://ws.tsl.rocks/corp/da0952db0de44e4eee72d9ffa2394d5818565c5c16d89a1313c6df07417f9fb3/) |
+
+Corporation ID: 99ac8e5c0f22878b9a4458953d0c712ada17ef36ae195ccf39c7921dc996adfe

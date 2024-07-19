@@ -37,3 +37,5 @@
 | ✅ | 2024-01-16 | 19-4 | [海賊ギルド](https://ws.tsl.rocks/corp/5a1a2bfa07b5ad3ca9bc90a4a86ce8e83d0e61393771fa0ff4c71733bc8879f3/) |
 | ✅ | 2023-12-19 | 18-6 | [Inexorable](https://ws.tsl.rocks/corp/8343908ac19af8666d7765db00e5eb603d9e87bbbfe273c81d9b9b2329ca0827/) |
 | ✅ | 2023-12-05 | 25-4 | [Das Imperium](https://ws.tsl.rocks/corp/bf80902e944e3605f5f2fe70f245c1442fa4094414322964da8200dc57c58ef0/) |
+
+Corporation ID: 6a4f8febc4066842f85c0373a0d33b6501860f2cc4f61b64761d31ff472c28fe

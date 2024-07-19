@@ -56,3 +56,5 @@
 | ✅ | 2023-11-24 | 5-1 | [Created](https://ws.tsl.rocks/corp/04182a4606d981d1c410b0c058248e428765c672442d912ec47218ace9004e74/) |
 | ✅ | 2023-11-18 | 5-0 | [the Rubber Duck](https://ws.tsl.rocks/corp/bfd6a197d72d0b643c6693e66b9a10db61f75ae242a0bd7c09bdd553ae951ee6/) |
 | ❌ | 2023-11-13 | 3-14 | [Revelation](https://ws.tsl.rocks/corp/e9b22a24d853613b0ebd6fb2e70994410d4ff4323a002da5f0bece764e81374a/) |
+
+Corporation ID: accb87a59c1f019d1be37fa2b19ae2aeb35c4a995d1d621a8e987065cd1328fe

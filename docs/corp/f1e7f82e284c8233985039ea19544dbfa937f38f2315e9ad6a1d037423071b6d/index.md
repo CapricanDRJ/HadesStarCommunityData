@@ -23,3 +23,5 @@
 | ✅ | 2023-12-15 | 13-3 | [Bl@ck/Galaxy ](https://ws.tsl.rocks/corp/76f8fe0dcd8b8c1cb8e0083f14c0b36c23bb9757a3af0f191b567774c02222a3/) |
 | ❌ | 2023-12-06 | 1-21 | [Galaxian](https://ws.tsl.rocks/corp/5dcf6b30fe7412dfe10c7f88aacc5e5ec1d63a2ea3df0084c393b9e20c34ee97/) |
 | ✅ | 2023-11-26 | 7-3 | [Galactic Empire](https://ws.tsl.rocks/corp/e2223ab2b582a5eb5ae1734e132358eb3c24ddf61fcbeee7b8f6708f26782108/) |
+
+Corporation ID: f1e7f82e284c8233985039ea19544dbfa937f38f2315e9ad6a1d037423071b6d

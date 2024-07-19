@@ -18,3 +18,5 @@
 | ❌ | 2023-11-24 | 0-10 | [CAEDRUS [<o>]](https://ws.tsl.rocks/corp/b3c982613964d8287b8f57e57ececf5b9497766670fc306d9827c85fbcdb2887/) |
 | ❌ | 2023-11-18 | 0-4 | [Krasse Bros](https://ws.tsl.rocks/corp/ec8df719929b564225592da878034621da81f0c95a84a1afdee1b2c8389374fb/) |
 | ↔️ | 2023-11-18 | 0-0 | [Hungary First](https://ws.tsl.rocks/corp/d678326dd81ae0cf5b2bb37d15dcfe7fa1477dbb6e063fbd0d34c69b5942d31b/) |
+
+Corporation ID: 457192accaef3d494cc5929e091f05ca560778729d99966d0ab04c2d741d18a7

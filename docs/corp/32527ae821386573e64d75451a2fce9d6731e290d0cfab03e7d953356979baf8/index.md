@@ -39,3 +39,5 @@
 | ❌ | 2023-11-30 | 0-4 | [Unión latina](https://ws.tsl.rocks/corp/9919a50d277644f496c19d5becdf40abb251d000345f049632329f0b35b7fbf1/) |
 | ❌ | 2023-11-16 | 0-16 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
 | ✅ | 2023-11-06 | 6-5 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
+
+Corporation ID: 32527ae821386573e64d75451a2fce9d6731e290d0cfab03e7d953356979baf8

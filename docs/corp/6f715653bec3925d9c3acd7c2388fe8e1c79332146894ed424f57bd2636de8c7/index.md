@@ -58,3 +58,5 @@
 | ❌ | 2023-11-22 | 3-23 | [Outland Ind.](https://ws.tsl.rocks/corp/94cb8827caef9b4b1839113abd29145a128d0c1e108c3984bcf7620dd7fca464/) |
 | ❌ | 2023-11-16 | 9-19 | [Lacuna Holdings](https://ws.tsl.rocks/corp/17f4ece94ed033805ed258868416020d302254e2e3becbd1e25381be7933be76/) |
 | ✅ | 2023-11-07 | 9-3 | [云霄宫](https://ws.tsl.rocks/corp/c319ac731957c1d658994ab5727dec3d0ccfdcd31b00ee66efbf07be25bdc3e1/) |
+
+Corporation ID: 6f715653bec3925d9c3acd7c2388fe8e1c79332146894ed424f57bd2636de8c7

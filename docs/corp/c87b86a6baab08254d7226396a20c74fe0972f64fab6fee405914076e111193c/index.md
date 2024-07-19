@@ -64,3 +64,5 @@
 | ❌ | 2023-12-01 | 42-52 | [Orion](https://ws.tsl.rocks/corp/3d5598faa0e14983b9b97d4a0fe14d2a611045dea7e68f22834d7038493c8f39/) |
 | ✅ | 2023-11-24 | 39-4 | [Держава Русь](https://ws.tsl.rocks/corp/cbf11e25cee65a6c529251b7f47a35d9e4ba7bb9d640f384605541637e931672/) |
 | ✅ | 2023-11-17 | 36-0 | [Alpaca Haven](https://ws.tsl.rocks/corp/e93a2f2efda24a65c8ee7eb57fbb269e19b2b1c28a67c6c7c3339b8c90f7726b/) |
+
+Corporation ID: c87b86a6baab08254d7226396a20c74fe0972f64fab6fee405914076e111193c

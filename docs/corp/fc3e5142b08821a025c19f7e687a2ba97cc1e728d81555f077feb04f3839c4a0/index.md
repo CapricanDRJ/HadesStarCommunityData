@@ -82,3 +82,5 @@
 | ✅ | 2023-11-22 | 28-4 | [Angel Dragon](https://ws.tsl.rocks/corp/2f2e44c159dc8f4e15e2dabda533d9db8697d2c6c06735d926d180b3aa056dcf/) |
 | ✅ | 2023-11-15 | 33-1 | [Free Star](https://ws.tsl.rocks/corp/3970e813bec9126438bee62e337f181cf80eef7babc4a233b5b3df6003a3b9cf/) |
 | ✅ | 2023-11-08 | 29-0 | [Smurfing](https://ws.tsl.rocks/corp/686668dde261a7c9e724dca3d2c66659ee78506d8d1918ff5eb81fafcf17e471/) |
+
+Corporation ID: fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0

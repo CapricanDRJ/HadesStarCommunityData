@@ -21,3 +21,5 @@
 | ✅ | 2024-06-15 | 31-0 | [Prometheus ESP](https://ws.tsl.rocks/corp/59ccf92b03fb4dbcd047d2425f6dd687367bd70088956249e0255554e81fe949/) |
 | ✅ | 2024-06-10 | 31-0 | [ༀᅗBAR ESTELARᅗༀ](https://ws.tsl.rocks/corp/874716e0cba92e65a541f6751246b0fa1d503d7ee2b00dcde1ab424af30190be/) |
 | ✅ | 2024-05-29 | 4-3 | [Эдем](https://ws.tsl.rocks/corp/a61dc2c639a91f5b725d43d306ba2eebe1770c92499d7d92086b7a097f939c0d/) |
+
+Corporation ID: 27e96f432a078f197bb5e4c34480ccabc05a9ee48e7bb04d95288fda15e94d3c

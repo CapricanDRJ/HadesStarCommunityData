@@ -22,3 +22,5 @@
 | ❌ | 2024-02-13 | 8-25 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) |
 | ✅ | 2023-12-20 | 15-5 | [Odessa](https://ws.tsl.rocks/corp/f509f71fafc573fb7aad51ddd9d82668162fe80073506ca5dc2e68cb795cffea/) |
 | ❌ | 2023-11-24 | 10-19 | [Rising star](https://ws.tsl.rocks/corp/b7037efd74e829aa4ac6e49960fa44cebe1477e23d25cf1640594d9168d630db/) |
+
+Corporation ID: 0b6309a414bde261db3ee5592ae72168ca48d02558f5bc597950f11e55f92ae6

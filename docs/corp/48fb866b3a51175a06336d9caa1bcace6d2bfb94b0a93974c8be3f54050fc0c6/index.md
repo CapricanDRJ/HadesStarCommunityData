@@ -82,3 +82,5 @@
 | ✅ | 2023-11-16 | 16-0 | [Hail Hydra](https://ws.tsl.rocks/corp/32527ae821386573e64d75451a2fce9d6731e290d0cfab03e7d953356979baf8/) |
 | ✅ | 2023-11-11 | 11-3 | [imperio estelar](https://ws.tsl.rocks/corp/c4c7de80ce172ac4cb77f23b5833bc20f87ea3f6e64ed09120b0e95113460bb4/) |
 | ✅ | 2023-11-05 | 7-0 | [自由星际联盟](https://ws.tsl.rocks/corp/933277ff64041b32fe12e4e564e2064071377343596c7944fb8c145165e2ab04/) |
+
+Corporation ID: 48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6

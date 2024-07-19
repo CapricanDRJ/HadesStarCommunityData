@@ -55,3 +55,5 @@
 | ❌ | 2024-01-19 | 6-33 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ❌ | 2023-12-28 | 8-32 | [Imperium XIII](https://ws.tsl.rocks/corp/0d52edf77b0cdeaaea6ebc20a7f5b6a60372b535bf96f556b31e2243dc8ee75a/) |
 | ❌ | 2023-12-22 | 0-27 | [E.T.A](https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082/) |
+
+Corporation ID: 5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046

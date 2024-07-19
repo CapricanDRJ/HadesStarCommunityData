@@ -47,3 +47,5 @@
 | ✅ | 2023-11-18 | 22-3 | [Russian Style](https://ws.tsl.rocks/corp/db02701745537e2b055f660e59bd465567c4e4b322c16ade37245ed4a40699c8/) |
 | ✅ | 2023-11-12 | 8-3 | [Atlas Star llc.](https://ws.tsl.rocks/corp/3de5259ba12509e4d02854f1414caacf3d0aaaf79f417b9d843ff20ca35863dd/) |
 | ✅ | 2023-11-06 | 12-3 | [Blue Space](https://ws.tsl.rocks/corp/1c4f64c1450ab5cb621676c9a130c187b8ba9a8059253310ae02642cd84e3446/) |
+
+Corporation ID: f7c3d7f512c4de3883e63b1a5771ab3ef3938054f98711e933bc7dd064fb8363

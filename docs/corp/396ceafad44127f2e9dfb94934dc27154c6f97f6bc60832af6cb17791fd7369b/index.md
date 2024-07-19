@@ -27,3 +27,5 @@
 | ❌ | 2024-01-19 | 0-20 | [Медведи](https://ws.tsl.rocks/corp/b3b0cac2c48761153afa1dcad7a4048103ffc3ec2ca6d477a6bd744922fce075/) |
 | ✅ | 2023-12-16 | 19-0 | [代代守护你的神明](https://ws.tsl.rocks/corp/6960f4c6ded90a45fd53df8d3d1b3cf4576ceb471ab4dc9b6931f04c6ea5ac9c/) |
 | ✅ | 2023-11-18 | 12-2 | [Legión](https://ws.tsl.rocks/corp/50f2309d2f9e5d31b10e6b9cf5928035bc1df6f395d81adf89b10627daad0fc7/) |
+
+Corporation ID: 396ceafad44127f2e9dfb94934dc27154c6f97f6bc60832af6cb17791fd7369b

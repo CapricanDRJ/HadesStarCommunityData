@@ -65,3 +65,5 @@
 | ✅ | 2023-11-19 | 24-6 | [Sad Panda 2.0](https://ws.tsl.rocks/corp/74aed8be82b78aae23f7cdb815f2124496aee03eb68115e20ce9073444d3430c/) |
 | ✅ | 2023-11-12 | 14-7 | [Space Penguins](https://ws.tsl.rocks/corp/6255ba7dab1bd2b150825874d1fea70b029dc79434f293d47518c27b0376e286/) |
 | ✅ | 2023-11-05 | 20-0 | [Спутник](https://ws.tsl.rocks/corp/0ae15c4db6dc8c3f4bf3eb6aa93bffd4ea9281b06b721ab103c0078646bfe58c/) |
+
+Corporation ID: c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6

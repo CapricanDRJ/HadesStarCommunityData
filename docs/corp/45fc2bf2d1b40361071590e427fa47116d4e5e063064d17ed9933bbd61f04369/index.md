@@ -65,3 +65,5 @@
 | ✅ | 2023-11-16 | 27-0 | [KARI](https://ws.tsl.rocks/corp/4434276aa1aebbe4c0a69ac51dff9c243c5287d00096e12c87e8590318a2ab65/) |
 | ✅ | 2023-11-10 | 34-25 | [the heavy](https://ws.tsl.rocks/corp/fc91552441e9553b76df7ca1870d63c6fd9e50f9c98a3d2bb9f6979b47bd845f/) |
 | ❌ | 2023-11-04 | 13-18 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) |
+
+Corporation ID: 45fc2bf2d1b40361071590e427fa47116d4e5e063064d17ed9933bbd61f04369

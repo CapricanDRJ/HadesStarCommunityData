@@ -64,3 +64,5 @@
 | ✅ | 2023-11-16 | 23-1 | [Red Dawn](https://ws.tsl.rocks/corp/fee852a2530bc5e3cbe5b2a5fdb224d249eeceeb3688cfd71479344181831328/) |
 | ✅ | 2023-11-10 | 30-1 | [*СССР*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) |
 | ✅ | 2023-11-04 | 25-24 | [Торг. федерация](https://ws.tsl.rocks/corp/915f197e5951f44128c2a3d3126141cd44b3c67a361158d2b220a5883e410310/) |
+
+Corporation ID: 94cb8827caef9b4b1839113abd29145a128d0c1e108c3984bcf7620dd7fca464

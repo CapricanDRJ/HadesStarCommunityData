@@ -56,3 +56,5 @@
 | ✅ | 2023-11-29 | 16-8 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) |
 | ✅ | 2023-11-22 | 9-0 | [元素联邦](https://ws.tsl.rocks/corp/e9d602d617d5c81270107c15a6d1f1717c5016abad802d3629f7f4301a58e95e/) |
 | ❌ | 2023-11-07 | 0-11 | [Empire of Light](https://ws.tsl.rocks/corp/5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc/) |
+
+Corporation ID: e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40

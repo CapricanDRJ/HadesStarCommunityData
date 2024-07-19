@@ -81,3 +81,5 @@
 | ✅ | 2023-11-10 | 10-0 | [Zeon](https://ws.tsl.rocks/corp/c77313bb3ebd322f7b4da9e2247e3b95fb1c75ff54c2e7846f9c2d6a2cd02846/) |
 | ❌ | 2023-11-05 | 1-13 | [the Rubber Duck](https://ws.tsl.rocks/corp/bfd6a197d72d0b643c6693e66b9a10db61f75ae242a0bd7c09bdd553ae951ee6/) |
 | ❌ | 2023-11-04 | 3-8 | [Galactic Empire](https://ws.tsl.rocks/corp/e2223ab2b582a5eb5ae1734e132358eb3c24ddf61fcbeee7b8f6708f26782108/) |
+
+Corporation ID: 2a71af44aaef82175cd8dfd86c9e3f218a438a7c7e748bae20d8a0d964a984ab

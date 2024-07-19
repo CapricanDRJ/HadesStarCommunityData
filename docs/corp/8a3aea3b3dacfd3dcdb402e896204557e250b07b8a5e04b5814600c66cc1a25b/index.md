@@ -75,3 +75,5 @@
 | ✅ | 2023-11-23 | 15-14 | [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) |
 | ✅ | 2023-11-19 | 47-10 | [Game of Stars](https://ws.tsl.rocks/corp/ad5bb68e6076ee70e6715ecead226fc9880b66a87b68acb3098843f723c1562e/) |
 | ✅ | 2023-11-13 | 22-0 | [Crazy Elite](https://ws.tsl.rocks/corp/ef64e9014b773074470ead0907b9c122bf6bda753de1cddfa01e95a00e9d47dc/) |
+
+Corporation ID: 8a3aea3b3dacfd3dcdb402e896204557e250b07b8a5e04b5814600c66cc1a25b

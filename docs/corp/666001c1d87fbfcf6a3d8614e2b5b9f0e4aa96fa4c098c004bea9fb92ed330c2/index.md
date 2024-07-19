@@ -38,3 +38,5 @@
 | ❌ | 2023-11-26 | 0-28 | [Star Wars](https://ws.tsl.rocks/corp/2dd3aee3667c5c190079cc378773d809ece1b146bc0a16fce6c46663fc3b6992/) |
 | ✅ | 2023-11-19 | 25-7 | [battlesquadron](https://ws.tsl.rocks/corp/e45c27c77c0f1d82749ccc884b8fb5f4ea76c1b0d063321a7a860504a73365ff/) |
 | ✅ | 2023-11-10 | 18-7 | [SveaEmpire](https://ws.tsl.rocks/corp/0b7b0db6324bd57c90679186bee968ca5a59c7d4662630bf60d7e97691af2bed/) |
+
+Corporation ID: 666001c1d87fbfcf6a3d8614e2b5b9f0e4aa96fa4c098c004bea9fb92ed330c2

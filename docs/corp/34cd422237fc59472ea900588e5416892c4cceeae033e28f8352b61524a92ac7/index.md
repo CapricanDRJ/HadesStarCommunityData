@@ -23,3 +23,5 @@
 | ❌ | 2023-12-07 | 0-4 | [特拉斯丁第二共和国](https://ws.tsl.rocks/corp/647f070d203eec902e0ec8078437be575bb9556338e1a964bd315e2ced64dd1c/) |
 | ❌ | 2023-12-02 | 0-3 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
 | ❌ | 2023-11-19 | 1-9 | [Cerulean Nebula](https://ws.tsl.rocks/corp/b76233469d1b4590ef63daba47aeb4239d428cb0804768d58f7e891418b91f81/) |
+
+Corporation ID: 34cd422237fc59472ea900588e5416892c4cceeae033e28f8352b61524a92ac7

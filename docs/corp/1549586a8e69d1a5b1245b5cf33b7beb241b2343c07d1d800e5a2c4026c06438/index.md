@@ -52,3 +52,5 @@
 | ✅ | 2023-11-25 | 35-8 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) |
 | ✅ | 2023-11-18 | 29-15 | [Hades Academy](https://ws.tsl.rocks/corp/b40bd030900afebcbf4508c3b1174e2e80edcc628e6b72357b1571568d0872e3/) |
 | ✅ | 2023-11-11 | 40-2 | [The Picard](https://ws.tsl.rocks/corp/e9a6cae99e308f9c70625e04162b887239bea0d52463d7a3ed53464fdd906d0b/) |
+
+Corporation ID: 1549586a8e69d1a5b1245b5cf33b7beb241b2343c07d1d800e5a2c4026c06438

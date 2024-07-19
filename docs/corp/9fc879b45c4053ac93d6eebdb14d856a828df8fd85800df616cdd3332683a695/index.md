@@ -70,3 +70,5 @@
 | ❌ | 2023-11-16 | 3-34 | [The trade pub](https://ws.tsl.rocks/corp/43689e4266357d8b8d3d66d371109d9aed82ee6df47dc6fa0a7c5da735b9863b/) |
 | ❌ | 2023-11-11 | 7-36 | [KINETIC](https://ws.tsl.rocks/corp/8ca3f039e6be383f0ea4ebcb6314c8bcd82c93ef833974580f0f9b76d06ef069/) |
 | ❌ | 2023-11-06 | 5-12 | [SALTARDIS](https://ws.tsl.rocks/corp/e7d1a6a546271de114cce5f2d8e71b59c4e8bea66352110bf94a1c91a5993898/) |
+
+Corporation ID: 9fc879b45c4053ac93d6eebdb14d856a828df8fd85800df616cdd3332683a695

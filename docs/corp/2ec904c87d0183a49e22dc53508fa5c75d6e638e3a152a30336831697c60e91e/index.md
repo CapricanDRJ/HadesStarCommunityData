@@ -56,3 +56,5 @@
 | ✅ | 2023-12-13 | 9-1 | [JPR. Pretorians](https://ws.tsl.rocks/corp/7144c7cdb9f369d9e56199379429b01172d00a5142f6ceda71031de9bf6e0d25/) |
 | ✅ | 2023-12-04 | 5-2 | [神貓聯盟](https://ws.tsl.rocks/corp/b0060a680643209d5d36af067edd941d1c2208dec911b04a998d4c8c482427a5/) |
 | ✅ | 2023-11-25 | 12-0 | [Galaxy knights](https://ws.tsl.rocks/corp/e2fdd92c8c65a1319fc38e36e02c598cfba35a84770417b582cf6d8f6353d431/) |
+
+Corporation ID: 2ec904c87d0183a49e22dc53508fa5c75d6e638e3a152a30336831697c60e91e

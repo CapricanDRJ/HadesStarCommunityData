@@ -25,3 +25,5 @@
 | ✅ | 2024-06-12 | 14-2 | [超新星联盟](https://ws.tsl.rocks/corp/c3667794c88fd0a09f565dc3b4fed5325f131a616d01d0f6890755b44997d0a1/) |
 | ✅ | 2024-06-05 | 10-0 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) |
 | ❌ | 2024-05-23 | 2-23 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
+
+Corporation ID: 1dd3f70c959e32c27cb4c010162be3799b7c0732115d5c2b7ca5979f48b10f7f

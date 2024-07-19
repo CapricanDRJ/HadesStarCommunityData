@@ -33,3 +33,5 @@
 | ✅ | 2024-02-01 | 17-0 | [Ukr alliance ](https://ws.tsl.rocks/corp/0eb13755b8906344c0af35f3d63b7cc0ecebf80877f327f78b1e40aded41ca7c/) |
 | ✅ | 2024-01-24 | 14-0 | [Venture](https://ws.tsl.rocks/corp/a48bd30701e4a563543ff54e7c8091cc6b5d0e972c70e4de279a93f4df2f24b0/) |
 | ✅ | 2024-01-10 | 19-0 | [Shrimp City](https://ws.tsl.rocks/corp/eae9b3a1f9dd6b4a1fb39d6aedfe84a80662abe6b181bedcfd7ec15d931b8e84/) |
+
+Corporation ID: ed67ca44432a8fad3aec6fab3e7f305d394d2b41844391fd29e1ce2b316b336b

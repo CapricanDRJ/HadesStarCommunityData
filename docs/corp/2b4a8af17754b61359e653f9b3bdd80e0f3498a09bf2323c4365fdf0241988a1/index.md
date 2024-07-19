@@ -89,3 +89,5 @@
 | ❌ | 2023-12-12 | 0-19 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |
 | ❌ | 2023-12-02 | 2-9 | [Dark Sun](https://ws.tsl.rocks/corp/41ffd72a8eba70ea3f7f69ce602194b0ee84c7e65be6d2e08b87181de24cc9cf/) |
 | ❌ | 2023-11-23 | 2-4 | [Br Stark Corps](https://ws.tsl.rocks/corp/bb363d47e9cd8710d6808f6dcc2d270bdf33614e63ea6e0943bb739cde625f27/) |
+
+Corporation ID: 2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1

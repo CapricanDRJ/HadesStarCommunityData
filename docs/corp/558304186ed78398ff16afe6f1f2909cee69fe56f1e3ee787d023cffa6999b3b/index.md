@@ -68,3 +68,5 @@
 | ❌ | 2023-12-08 | 5-10 | [佛矿寺](https://ws.tsl.rocks/corp/64f8afd95b7004e9d5a442da55644ee3ce64a9a8e82345c458d757b527e40624/) |
 | ❌ | 2023-12-02 | 2-14 | [the Rubber Duck](https://ws.tsl.rocks/corp/bfd6a197d72d0b643c6693e66b9a10db61f75ae242a0bd7c09bdd553ae951ee6/) |
 | ✅ | 2023-11-25 | 6-4 | [Galactic Trade](https://ws.tsl.rocks/corp/11f216ded6a66748fec41f81ff0eae46ed3f149e39301e31c7977db9897e7d21/) |
+
+Corporation ID: 558304186ed78398ff16afe6f1f2909cee69fe56f1e3ee787d023cffa6999b3b

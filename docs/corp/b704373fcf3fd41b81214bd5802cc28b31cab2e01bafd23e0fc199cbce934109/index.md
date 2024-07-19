@@ -20,3 +20,5 @@
 | ❌ | 2024-02-23 | 0-2 | [империя тьмы](https://ws.tsl.rocks/corp/4eb22a1b793e5d03579cea15c873b1bef56fea02420a4e55edb18a200f7fc46a/) |
 | ↔️ | 2024-02-16 | 0-0 | [Quantum Jumpers](https://ws.tsl.rocks/corp/2c5d82b8370a36c30a396c7a1b894f347a4698e2393f9e0d31e9ad6c465e2ae2/) |
 | ❌ | 2024-01-27 | 2-4 | [Ukr alliance ](https://ws.tsl.rocks/corp/0eb13755b8906344c0af35f3d63b7cc0ecebf80877f327f78b1e40aded41ca7c/) |
+
+Corporation ID: b704373fcf3fd41b81214bd5802cc28b31cab2e01bafd23e0fc199cbce934109

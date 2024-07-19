@@ -46,3 +46,5 @@
 | ✅ | 2024-01-25 | 17-9 | [New Orbit ©](https://ws.tsl.rocks/corp/158a33fb6417b876a2c91e1274223bf6e35548abc4a68e5adc81776c3ed7eafa/) |
 | ✅ | 2024-01-18 | 25-0 | [ArcadianVoiders](https://ws.tsl.rocks/corp/b4538fee7721996e491a6a9105a643142b146e3a85bf664946f7b877ba9bca95/) |
 | ✅ | 2024-01-12 | 9-6 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
+
+Corporation ID: 1c4cfbcf7902769aff100297d9174153f4c0528ed07918ba494f763a1315ffc6

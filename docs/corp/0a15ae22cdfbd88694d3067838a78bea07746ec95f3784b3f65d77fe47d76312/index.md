@@ -57,3 +57,5 @@
 | ✅ | 2023-11-20 | 4-3 | [MiniStarRaiders](https://ws.tsl.rocks/corp/c344b22861af6071f18b2ac934abdf7a7cc85553ae061f2853b005d60e53b11c/) |
 | ✅ | 2023-11-14 | 10-0 | [Industrial W.O](https://ws.tsl.rocks/corp/99a4ba88f6a620cb9ea1da456127c978a858ffbda4e40b255fcf3365515da25d/) |
 | ✅ | 2023-11-08 | 8-0 | [nuevo mundo](https://ws.tsl.rocks/corp/5675df73364d8b031e9541d8aa8d5a9e55649ef419ad87c0b21dec77a0ed6044/) |
+
+Corporation ID: 0a15ae22cdfbd88694d3067838a78bea07746ec95f3784b3f65d77fe47d76312

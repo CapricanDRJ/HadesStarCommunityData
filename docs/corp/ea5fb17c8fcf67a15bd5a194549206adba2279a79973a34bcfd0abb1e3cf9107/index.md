@@ -112,3 +112,5 @@
 | ✅ | 2023-11-15 | 54-4 | [Regulus](https://ws.tsl.rocks/corp/2ac7f4a924f351d9e8a57c7bd7cb88bb810dd028acab61baf5f38f0ffc7cf559/) |
 | ❌ | 2023-11-10 | 12-36 | [Spacefleet](https://ws.tsl.rocks/corp/517f7b257f68936f7a95a478d6923776a2549b88897bae628fd35b23572d3cbd/) |
 | ✅ | 2023-11-05 | 35-11 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) |
+
+Corporation ID: ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107

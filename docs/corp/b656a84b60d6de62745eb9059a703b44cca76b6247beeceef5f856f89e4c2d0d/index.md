@@ -34,3 +34,5 @@
 | ❌ | 2023-11-25 | 5-22 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) |
 | ❌ | 2023-11-18 | 2-17 | [Gwiezdna Horda](https://ws.tsl.rocks/corp/f718a308568b300ddb5e1fb10f817f112942f9449ec311aff136da5a3149cb18/) |
 | ❌ | 2023-11-11 | 2-14 | [Rising star](https://ws.tsl.rocks/corp/b7037efd74e829aa4ac6e49960fa44cebe1477e23d25cf1640594d9168d630db/) |
+
+Corporation ID: b656a84b60d6de62745eb9059a703b44cca76b6247beeceef5f856f89e4c2d0d

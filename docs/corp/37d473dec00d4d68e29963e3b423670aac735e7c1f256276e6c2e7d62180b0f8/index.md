@@ -105,3 +105,5 @@
 | ✅ | 2023-11-21 | 15-3 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | ✅ | 2023-11-15 | 19-2 | [КВАЗАР](https://ws.tsl.rocks/corp/d27b02c96ddf32f83c727a329774e46f3cdaa648d1c4ea06883997c3b9a11394/) |
 | ✅ | 2023-11-08 | 17-7 | [Imperio Tortuga](https://ws.tsl.rocks/corp/f6a55d248e49087c7f24bd1ffa5fddbeb4c64697f4fa485d2a8e350c1c067f79/) |
+
+Corporation ID: 37d473dec00d4d68e29963e3b423670aac735e7c1f256276e6c2e7d62180b0f8

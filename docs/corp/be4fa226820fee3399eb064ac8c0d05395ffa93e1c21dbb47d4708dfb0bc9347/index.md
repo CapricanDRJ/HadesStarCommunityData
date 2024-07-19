@@ -40,3 +40,5 @@
 | ❌ | 2023-12-08 | 15-16 | [ 墨痕 ](https://ws.tsl.rocks/corp/1beef0498f07b07217c6e0727dffd066947edc54ee6d09dc63c031def52cdd60/) |
 | ❌ | 2023-11-24 | 5-31 | [Zeta LLC](https://ws.tsl.rocks/corp/5779c7241b1f516fefec667bf95a9d1e0db38d307d559e1491b4f3a7fcd720f8/) |
 | ❌ | 2023-11-10 | 8-23 | [The Seperatists](https://ws.tsl.rocks/corp/f7afefdba007366512764be38eb9c404704e5d4de919e7df2b17560324bbb56f/) |
+
+Corporation ID: be4fa226820fee3399eb064ac8c0d05395ffa93e1c21dbb47d4708dfb0bc9347

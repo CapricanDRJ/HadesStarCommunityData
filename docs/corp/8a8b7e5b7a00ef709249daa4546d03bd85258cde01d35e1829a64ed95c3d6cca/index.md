@@ -53,3 +53,5 @@
 | ✅ | 2023-12-04 | 30-4 | [Crazy Elite](https://ws.tsl.rocks/corp/ef64e9014b773074470ead0907b9c122bf6bda753de1cddfa01e95a00e9d47dc/) |
 | ✅ | 2023-11-27 | 17-5 | [Argentina 1.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449/) |
 | ✅ | 2023-11-22 | 21-2 | [AKA](https://ws.tsl.rocks/corp/5fde3f409facbda701cdf21de0895eb7c7e17e2d472ae52cc0aa178ce2db64d6/) |
+
+Corporation ID: 8a8b7e5b7a00ef709249daa4546d03bd85258cde01d35e1829a64ed95c3d6cca

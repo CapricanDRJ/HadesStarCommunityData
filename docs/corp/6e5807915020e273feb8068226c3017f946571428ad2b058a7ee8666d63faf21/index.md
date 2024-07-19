@@ -71,3 +71,5 @@
 | ✅ | 2023-11-19 | 6-2 | [Cerulean Star](https://ws.tsl.rocks/corp/63d77c8d633b9dec932ad5d0f5a8ceb371b865b1adbb221ed410c5a7ba7df203/) |
 | ❌ | 2023-11-14 | 0-3 | [萌新收留所（目标门集团）](https://ws.tsl.rocks/corp/2da742f44420592cb720952b293609aded2a2858e7458e692ec54fc989c017a8/) |
 | ❌ | 2023-11-06 | 5-6 | [Hail Hydra](https://ws.tsl.rocks/corp/32527ae821386573e64d75451a2fce9d6731e290d0cfab03e7d953356979baf8/) |
+
+Corporation ID: 6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21

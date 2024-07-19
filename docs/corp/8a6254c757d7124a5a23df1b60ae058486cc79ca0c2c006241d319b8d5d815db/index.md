@@ -23,3 +23,5 @@
 | ❌ | 2023-11-17 | 2-19 | [Red Dawn](https://ws.tsl.rocks/corp/fee852a2530bc5e3cbe5b2a5fdb224d249eeceeb3688cfd71479344181831328/) |
 | ❌ | 2023-11-12 | 4-11 | [ 星空漫游者-GR](https://ws.tsl.rocks/corp/4c0218d564bcccb3d451212b7c22ebb3c4bead385379deb4aae2d816d2521a0e/) |
 | ✅ | 2023-11-07 | 18-3 | [Killer Shadow](https://ws.tsl.rocks/corp/e90d22a90153c1fd6c2f02d7d408f1cba9abb2de7f76c38fe7b1aa769df23de7/) |
+
+Corporation ID: 8a6254c757d7124a5a23df1b60ae058486cc79ca0c2c006241d319b8d5d815db

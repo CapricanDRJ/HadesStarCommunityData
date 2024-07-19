@@ -99,3 +99,5 @@
 | ❌ | 2023-11-10 | 15-27 | [Ark](https://ws.tsl.rocks/corp/febd79d038ed9af667e201309060d9662ba825ba9be2b5b95418ac20a8e70c80/) |
 | ❌ | 2023-11-05 | 4-11 | [水星联合组织](https://ws.tsl.rocks/corp/fe67c7b35602faf8640d1765a46ce5f77d08740abf40340479bf82781778944a/) |
 | ✅ | 2023-11-05 | 26-3 | [太阳系联邦](https://ws.tsl.rocks/corp/1511bcf209c9d65c3db8fce158834ee0365899e8a765df9554b7606eb92b1df1/) |
+
+Corporation ID: a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289

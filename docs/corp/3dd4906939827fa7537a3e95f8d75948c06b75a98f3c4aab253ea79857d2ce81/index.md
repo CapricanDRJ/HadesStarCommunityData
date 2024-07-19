@@ -73,3 +73,5 @@
 | ✅ | 2023-11-22 | 8-0 | [遨游星空  kdy分盟](https://ws.tsl.rocks/corp/74a42c9e5b716ea7c784243c029ad5dc1871f6b81692170099efdf8d3f94ba8f/) |
 | ✅ | 2023-11-17 | 6-0 | [СССР 2.0](https://ws.tsl.rocks/corp/2a77c0d4e05f31ab26b8c73af7f6d0b6ac40368b06a702e4a912edbf09eab65b/) |
 | ↔️ | 2023-11-11 | 0-0 | [Vermilion](https://ws.tsl.rocks/corp/1a96e18d1c38ae2d619ce1659e51ddb1b075c87733cacc178f09b8abc52efd89/) |
+
+Corporation ID: 3dd4906939827fa7537a3e95f8d75948c06b75a98f3c4aab253ea79857d2ce81

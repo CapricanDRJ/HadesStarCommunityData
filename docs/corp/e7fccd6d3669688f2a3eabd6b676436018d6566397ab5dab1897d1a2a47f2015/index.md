@@ -41,3 +41,5 @@
 | ✅ | 2024-01-14 | 31-1 | [Rogue Corp](https://ws.tsl.rocks/corp/6ad28ede21f9fa3aa044f0af41c7ed474fc432adf4ca1923fa02f6f9ded0028f/) |
 | ✅ | 2023-11-30 | 23-6 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) |
 | ✅ | 2023-11-10 | 27-4 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
+
+Corporation ID: e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015

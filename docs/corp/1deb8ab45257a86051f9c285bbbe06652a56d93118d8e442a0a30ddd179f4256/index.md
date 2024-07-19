@@ -35,3 +35,5 @@
 | ❌ | 2024-02-07 | 3-39 | [新手联邦（新经济开发区）](https://ws.tsl.rocks/corp/c7d71837164a41f0f3a49a6fa7a0c6d70a01f245de86b3783940bba2632a8804/) |
 | ✅ | 2024-02-01 | 16-0 | [Lolis Corp](https://ws.tsl.rocks/corp/d6663acac05de61dd9abca4431836324a8d8d898ad6c475836a0b0459da97c30/) |
 | ✅ | 2024-01-03 | 15-1 | [Türk Yıldızları](https://ws.tsl.rocks/corp/901147b3fe4ec963eae03573b8213b490796bf22e3d9ba20d61af7c444690cac/) |
+
+Corporation ID: 1deb8ab45257a86051f9c285bbbe06652a56d93118d8e442a0a30ddd179f4256

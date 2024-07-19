@@ -54,3 +54,5 @@
 | ✅ | 2023-11-16 | 28-4 | [혁명군](https://ws.tsl.rocks/corp/712800536cbb3ef3357a2480d86cf971596950ac499e699bb3d99f94d1c65f5f/) |
 | ✅ | 2023-11-11 | 25-13 | [Dreckiger Rest](https://ws.tsl.rocks/corp/ffa7034067ee4d0ea25a2b7d842952b6f63b37621dda7ad51e1813dea4d64d7a/) |
 | ✅ | 2023-11-06 | 7-3 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) |
+
+Corporation ID: 4b7ed90565c5e7d463f7a7dcecab17ae3f6c93cd6b75b77bece4bfad9cfe9626

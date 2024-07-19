@@ -72,3 +72,5 @@
 | ✅ | 2023-11-17 | 7-0 | [LOST PIRATES](https://ws.tsl.rocks/corp/4c85f200f6cb4312f3ebb3155927e6918a57537d40f6898c57625af435a7641d/) |
 | ❌ | 2023-11-11 | 8-9 | [꿀벌왕국](https://ws.tsl.rocks/corp/5835926ee3d1861cbc6fc002291ee3a4b537c1a3a0aef8ea187dfe857505bebc/) |
 | ↔️ | 2023-11-06 | 3-3 | [NAC](https://ws.tsl.rocks/corp/cd35bc5d7637a2804496e55b68cd138afe3f993bb62691cfeaae93f7549344e3/) |
+
+Corporation ID: 05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba

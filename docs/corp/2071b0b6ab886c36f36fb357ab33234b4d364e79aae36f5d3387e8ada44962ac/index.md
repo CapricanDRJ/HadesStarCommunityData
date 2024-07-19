@@ -49,3 +49,5 @@
 | ❌ | 2023-12-25 | 3-15 | [Capibarius](https://ws.tsl.rocks/corp/9a46f3159020b842ed9bb062f7dbef2a5acb1337fbdc1c4a5374233c44a4ffab/) |
 | ✅ | 2023-12-18 | 5-0 | [The Galxey █](https://ws.tsl.rocks/corp/d52cda2701dd013db91403bab0ff5972e0d9f3a13f842daf8d633025835a6b19/) |
 | ✅ | 2023-12-08 | 1-0 | [苏维埃联邦](https://ws.tsl.rocks/corp/4b067d39aa68bf846ec24a1af1a1038844cfa78699d1190f74a77b1745e148ac/) |
+
+Corporation ID: 2071b0b6ab886c36f36fb357ab33234b4d364e79aae36f5d3387e8ada44962ac

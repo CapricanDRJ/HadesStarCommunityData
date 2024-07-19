@@ -59,3 +59,5 @@
 | ✅ | 2023-11-21 | 15-4 | [Дом Датэ](https://ws.tsl.rocks/corp/10cbcbd91c4084657bdab01ef573cc48170fbc4dd0ab533f96712f1cb6097ff2/) |
 | ✅ | 2023-11-15 | 28-4 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | ✅ | 2023-11-07 | 5-3 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
+
+Corporation ID: e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258

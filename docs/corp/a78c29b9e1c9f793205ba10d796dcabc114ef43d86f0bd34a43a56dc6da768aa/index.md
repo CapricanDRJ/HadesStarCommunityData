@@ -48,3 +48,5 @@
 | ✅ | 2024-02-05 | 17-0 | [Atlas corp](https://ws.tsl.rocks/corp/e729927db5a5672fcc94357f999bc3b66fa38a624f042543b847f82e7fa890a5/) |
 | ✅ | 2024-01-31 | 12-0 | [Rozen Family](https://ws.tsl.rocks/corp/e545e269a3fe6ff2dd7d4f794a7e13eb190bf12c3b62e0284d34b185cbcb40a2/) |
 | ✅ | 2024-01-20 | 9-0 | [Sector7](https://ws.tsl.rocks/corp/2608118ec348769a1cdc34c18b3198903677007199f1d6feec34de0d74d2944f/) |
+
+Corporation ID: a78c29b9e1c9f793205ba10d796dcabc114ef43d86f0bd34a43a56dc6da768aa

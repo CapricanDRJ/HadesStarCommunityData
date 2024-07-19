@@ -27,3 +27,5 @@
 | ✅ | 2023-12-10 | 21-4 | [Crazy Elite](https://ws.tsl.rocks/corp/ef64e9014b773074470ead0907b9c122bf6bda753de1cddfa01e95a00e9d47dc/) |
 | ❌ | 2023-12-02 | 5-13 | [LANCE](https://ws.tsl.rocks/corp/f9d489fbbe222ff361139bfe234f235c1dfd82f2ccf38f7ecd929e6377408883/) |
 | ✅ | 2023-11-11 | 30-0 | [E.T.A](https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082/) |
+
+Corporation ID: 35fd5f8a42c94496c737f097b09c66f0bcbdd0fe32fdf71009568e283922d37c

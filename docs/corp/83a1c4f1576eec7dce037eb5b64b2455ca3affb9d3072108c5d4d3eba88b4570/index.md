@@ -57,3 +57,5 @@
 | ❌ | 2023-11-29 | 2-13 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
 | ❌ | 2023-11-22 | 4-5 | [湖心亭看雪](https://ws.tsl.rocks/corp/eb4316c2fbedc2f03ed45e128c8c8d96376d1d1125790a9b9697481dacd002fb/) |
 | ✅ | 2023-11-15 | 4-0 | [太阳系联邦](https://ws.tsl.rocks/corp/1511bcf209c9d65c3db8fce158834ee0365899e8a765df9554b7606eb92b1df1/) |
+
+Corporation ID: 83a1c4f1576eec7dce037eb5b64b2455ca3affb9d3072108c5d4d3eba88b4570

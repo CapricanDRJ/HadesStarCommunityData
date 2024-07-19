@@ -20,3 +20,5 @@
 | ❌ | 2023-11-18 | 2-27 | [Got Nothing](https://ws.tsl.rocks/corp/ea7879fd9cbed37b260ec2bf39339786942fb34216036a90e107ba525f5924e1/) |
 | ✅ | 2023-11-13 | 18-0 | [Argentina 1.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449/) |
 | ❌ | 2023-11-04 | 4-20 | [Revólver](https://ws.tsl.rocks/corp/2560247b1d9fc0ccccf6a9740f3e7cd5d0ebb66444a27e2a259906a476903a45/) |
+
+Corporation ID: 8943af3db9ef34a38f004d6f574b33784a179f4ee83d9a1f71e85b1d8700d315

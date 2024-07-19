@@ -20,3 +20,5 @@
 | ✅ | 2024-07-10 | 3-0 | [СНГ — РОССИЯ](https://ws.tsl.rocks/corp/075394144fa4e771dc8358886dc461b0ed87d948b46e5d817d29296adf2f11f2/) |
 | ✅ | 2024-07-04 | 6-0 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) |
 | ✅ | 2024-06-27 | 3-0 | [四季长春](https://ws.tsl.rocks/corp/cf0b11914dc18d8e669592ecfe191f115c4e5fdba09d130d260bb625b36a3179/) |
+
+Corporation ID: 2142b75cc6d1c522c423a860fbda7616d7745f8fee25121ec3a8f26068b0f3b5

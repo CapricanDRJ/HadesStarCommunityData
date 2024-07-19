@@ -23,3 +23,5 @@
 | ❌ | 2024-02-19 | 5-7 | [МеГаКо](https://ws.tsl.rocks/corp/11cd7fa53aad1bfc7d40c47a63de7b6c4a6d76f00e69dcb853f47e2c90b382dd/) |
 | ❌ | 2024-01-03 | 0-12 | [RACNAROK](https://ws.tsl.rocks/corp/925ee28e565a662efccf71b5762e6a40b9eacdff2237454dc0e5aa1dcbd44294/) |
 | ✅ | 2023-12-05 | 9-5 | [🌪TORNADO ](https://ws.tsl.rocks/corp/df15d02d32c67d60995e68d6c4197c23b340a0a985f04280563d8d07bd4536fa/) |
+
+Corporation ID: a61dc2c639a91f5b725d43d306ba2eebe1770c92499d7d92086b7a097f939c0d

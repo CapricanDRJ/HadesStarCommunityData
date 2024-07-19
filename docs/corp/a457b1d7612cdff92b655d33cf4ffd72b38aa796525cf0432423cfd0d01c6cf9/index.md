@@ -46,3 +46,5 @@
 | ✅ | 2024-05-07 | 11-0 | [MÉXICO INFINITO](https://ws.tsl.rocks/corp/a9fbdd48477b87a054dbd804eef12ae08bc6e02798cd8990b08c4a9803d8f9d8/) |
 | ❌ | 2024-05-01 | 2-3 | [Weyland Yutani ](https://ws.tsl.rocks/corp/9799c33a0ecdcf321ad446a18f4e7f520610d26ec5f13e0c6b7a411dec2e2e46/) |
 | ❌ | 2024-04-26 | 3-10 | [Decode](https://ws.tsl.rocks/corp/848408d1ee1a3c08302a936241ea5cbe170cb66dc343d3339ed3ae4baeb82e57/) |
+
+Corporation ID: a457b1d7612cdff92b655d33cf4ffd72b38aa796525cf0432423cfd0d01c6cf9

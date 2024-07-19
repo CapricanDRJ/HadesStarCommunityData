@@ -21,3 +21,5 @@
 | ❌ | 2024-07-06 | 3-14 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/54b8724d96e9c022ab2907e45bead9f5b45b02fca093dc0fe5827f14644b2663/) |
 | ❌ | 2024-02-01 | 0-11 | [Sektion 32](https://ws.tsl.rocks/corp/16e8d18e4c51a9154959f8d3cd2417d11695210bb12baf2773eb12dea2f5966e/) |
 | ❌ | 2024-01-27 | 0-19 | [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1/) |
+
+Corporation ID: 7ab5f6970c8703095b0589da6e5d648dc64a94ca6d901ef09d4949409b2c44b9

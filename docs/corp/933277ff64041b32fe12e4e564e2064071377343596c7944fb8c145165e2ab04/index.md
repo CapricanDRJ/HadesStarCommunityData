@@ -58,3 +58,5 @@
 | ❌ | 2023-11-16 | 1-8 | [神圣罗马帝国](https://ws.tsl.rocks/corp/2a71af44aaef82175cd8dfd86c9e3f218a438a7c7e748bae20d8a0d964a984ab/) |
 | ✅ | 2023-11-16 | 3-0 | [ 墨痕 ](https://ws.tsl.rocks/corp/1beef0498f07b07217c6e0727dffd066947edc54ee6d09dc63c031def52cdd60/) |
 | ❌ | 2023-11-05 | 0-7 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
+
+Corporation ID: 933277ff64041b32fe12e4e564e2064071377343596c7944fb8c145165e2ab04

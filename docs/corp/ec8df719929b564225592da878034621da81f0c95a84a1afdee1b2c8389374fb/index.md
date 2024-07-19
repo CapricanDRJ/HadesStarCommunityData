@@ -22,3 +22,5 @@
 | ✅ | 2023-11-29 | 7-0 | [Decode](https://ws.tsl.rocks/corp/848408d1ee1a3c08302a936241ea5cbe170cb66dc343d3339ed3ae4baeb82e57/) |
 | ✅ | 2023-11-24 | 3-0 | [Cowboys](https://ws.tsl.rocks/corp/f461f65e85a43e0b855a525f6995505fc1cc5ae6f85be50470c9dacbb955fc21/) |
 | ✅ | 2023-11-18 | 4-0 | [Эдельвейс](https://ws.tsl.rocks/corp/457192accaef3d494cc5929e091f05ca560778729d99966d0ab04c2d741d18a7/) |
+
+Corporation ID: ec8df719929b564225592da878034621da81f0c95a84a1afdee1b2c8389374fb

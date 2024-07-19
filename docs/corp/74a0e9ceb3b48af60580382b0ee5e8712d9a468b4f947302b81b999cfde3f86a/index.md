@@ -26,3 +26,5 @@
 | ✅ | 2023-12-06 | 8-0 | [新纪元舰队](https://ws.tsl.rocks/corp/d36af8af2f097f561de219867c4bfcc83f266642293429cf3fda159792008277/) |
 | ✅ | 2023-11-29 | 6-3 | [Hungary First](https://ws.tsl.rocks/corp/d678326dd81ae0cf5b2bb37d15dcfe7fa1477dbb6e063fbd0d34c69b5942d31b/) |
 | ✅ | 2023-11-21 | 3-0 | [chrtrncmndr](https://ws.tsl.rocks/corp/d45b04221ecdcddea93f7062e9a00110605a540dd8b40f83ae26b81bc51a393b/) |
+
+Corporation ID: 74a0e9ceb3b48af60580382b0ee5e8712d9a468b4f947302b81b999cfde3f86a

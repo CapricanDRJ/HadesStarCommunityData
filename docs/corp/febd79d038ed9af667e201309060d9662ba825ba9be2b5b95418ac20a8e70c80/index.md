@@ -68,3 +68,5 @@
 | ✅ | 2023-11-10 | 27-15 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | ✅ | 2023-11-04 | 14-0 | [地球联合](https://ws.tsl.rocks/corp/600f9edf51df1f1afe62db4c64e95b969ac6824a6a08d1a483beaec015ba2e25/) |
 | ✅ | 2023-11-04 | 18-3 | [Das Imperium](https://ws.tsl.rocks/corp/bf80902e944e3605f5f2fe70f245c1442fa4094414322964da8200dc57c58ef0/) |
+
+Corporation ID: febd79d038ed9af667e201309060d9662ba825ba9be2b5b95418ac20a8e70c80

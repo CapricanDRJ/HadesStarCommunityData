@@ -45,3 +45,5 @@
 | ✅ | 2024-02-02 | 12-0 | [联合宇宙](https://ws.tsl.rocks/corp/da614a2861abac24e31b7b978e75196750b88545f6ece0f367b66b43d696deab/) |
 | ✅ | 2024-01-26 | 18-7 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
 | ❌ | 2024-01-20 | 8-17 | [Cerulean Star](https://ws.tsl.rocks/corp/63d77c8d633b9dec932ad5d0f5a8ceb371b865b1adbb221ed410c5a7ba7df203/) |
+
+Corporation ID: 1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace

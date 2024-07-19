@@ -103,3 +103,5 @@
 | ✅ | 2023-11-24 | 45-0 | [SALTARDIS](https://ws.tsl.rocks/corp/e7d1a6a546271de114cce5f2d8e71b59c4e8bea66352110bf94a1c91a5993898/) |
 | ✅ | 2023-11-17 | 45-0 | [Держава Русь](https://ws.tsl.rocks/corp/cbf11e25cee65a6c529251b7f47a35d9e4ba7bb9d640f384605541637e931672/) |
 | ✅ | 2023-11-06 | 34-17 | [Farland Ind.](https://ws.tsl.rocks/corp/9e0cb5f9ee7451cf8b55ed7f18717a42c7b58995a2717b83f6f98b7872b38e3f/) |
+
+Corporation ID: 74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b

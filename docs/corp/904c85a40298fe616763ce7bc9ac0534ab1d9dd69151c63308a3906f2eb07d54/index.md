@@ -23,3 +23,5 @@
 | ✅ | 2023-12-15 | 6-3 | [Destroyers](https://ws.tsl.rocks/corp/3756333f55f58944372cf785b972da55796cc179c0ce5f10244e90e3c4355a23/) |
 | ❌ | 2023-12-03 | 4-5 | [한국우주연합](https://ws.tsl.rocks/corp/c5eef27852b12a8242ae92571d4bdaa16b3360e45fb47820da574211a095ccce/) |
 | ✅ | 2023-11-26 | 3-1 | [碧霄殿](https://ws.tsl.rocks/corp/7e12fd0fd0a01af1c797f73316b305a21078e46bd75758850438f20357276ebf/) |
+
+Corporation ID: 904c85a40298fe616763ce7bc9ac0534ab1d9dd69151c63308a3906f2eb07d54

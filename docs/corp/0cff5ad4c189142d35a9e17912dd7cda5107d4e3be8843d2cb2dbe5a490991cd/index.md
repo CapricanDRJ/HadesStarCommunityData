@@ -20,3 +20,5 @@
 | ✅ | 2024-03-02 | 4-0 | [Север РусКорп](https://ws.tsl.rocks/corp/39eeae12a2a5fead3330938b8f38c71aab465634b732303dad7b2a7d5f472004/) |
 | ✅ | 2024-02-23 | 35-0 | [pegaso](https://ws.tsl.rocks/corp/b704373fcf3fd41b81214bd5802cc28b31cab2e01bafd23e0fc199cbce934109/) |
 | ✅ | 2024-02-03 | 21-0 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
+
+Corporation ID: 0cff5ad4c189142d35a9e17912dd7cda5107d4e3be8843d2cb2dbe5a490991cd

@@ -48,3 +48,5 @@
 | ❌ | 2023-11-11 | 0-30 | [New Horizons](https://ws.tsl.rocks/corp/35fd5f8a42c94496c737f097b09c66f0bcbdd0fe32fdf71009568e283922d37c/) |
 | ❌ | 2023-11-11 | 0-28 | [GDZ](https://ws.tsl.rocks/corp/a04890160268d05cf11f997b0a1c724fbbcfa66b2ea4cb1c4b56ca18d0425d62/) |
 | ❌ | 2023-11-05 | 0-24 | [SYNDICATE](https://ws.tsl.rocks/corp/340a8194f62a11308a6d79b913d48312fa37e3b250fb4b241cc2c5d69549a912/) |
+
+Corporation ID: 33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082

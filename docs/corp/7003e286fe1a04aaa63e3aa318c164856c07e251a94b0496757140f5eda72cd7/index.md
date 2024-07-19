@@ -60,3 +60,5 @@
 | ✅ | 2023-11-18 | 41-13 | [Sith Empire](https://ws.tsl.rocks/corp/7deb3943434ee3aa56bb4c29a0fb0831bcbc4b570a58a2809ea1a549b7df328e/) |
 | ❌ | 2023-11-12 | 11-35 | [OntarioDynasty](https://ws.tsl.rocks/corp/5ed105453b3d32e037ce6674e16aff8fb706ba299c62cbf3645fe9eb19e1b1d1/) |
 | ❌ | 2023-11-06 | 14-45 | [Auscorp ](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) |
+
+Corporation ID: 7003e286fe1a04aaa63e3aa318c164856c07e251a94b0496757140f5eda72cd7

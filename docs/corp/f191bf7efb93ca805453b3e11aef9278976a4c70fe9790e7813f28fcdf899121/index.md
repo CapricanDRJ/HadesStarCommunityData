@@ -67,3 +67,5 @@
 | ✅ | 2023-11-15 | 3-0 | [Тёмный Феникс](https://ws.tsl.rocks/corp/7558698da6213ab97789830842ad4baa89467edc584a6c8594ab04b521ae3488/) |
 | ❌ | 2023-11-10 | 0-10 | [NERF TOY'S](https://ws.tsl.rocks/corp/34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0/) |
 | ✅ | 2023-11-04 | 4-3 | [Peace Keepers](https://ws.tsl.rocks/corp/7ac71c394c017639785b3ecaa8087bd3b9a9d134e05d22703a3e18217da3380d/) |
+
+Corporation ID: f191bf7efb93ca805453b3e11aef9278976a4c70fe9790e7813f28fcdf899121

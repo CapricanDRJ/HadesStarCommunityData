@@ -30,3 +30,5 @@
 | ❌ | 2023-12-07 | 7-26 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) |
 | ❌ | 2023-11-13 | 3-5 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) |
 | ❌ | 2023-11-07 | 7-19 | [Moon Catchers](https://ws.tsl.rocks/corp/0625bb885137c3824ac346b97780181e23ee84562237eb345baa364f8d7d3c43/) |
+
+Corporation ID: aad051ec6b980cc52fb4777aef113d9e28a72aab40fda65aa9cdbf477b8e390a

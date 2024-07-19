@@ -63,3 +63,5 @@
 | ✅ | 2023-12-16 | 12-0 | [ES Gaming ](https://ws.tsl.rocks/corp/1bbc4390e9fa60fe312b23c8fa8d8f9eb499307607a4c3304e33bd05bd58f981/) |
 | ✅ | 2023-12-10 | 13-0 | [Red Noobs](https://ws.tsl.rocks/corp/77a15a2a5ecb3dbd333ea491275d2d41c23e39c1744dd9f1c092c5e3306a2e14/) |
 | ✅ | 2023-12-01 | 9-2 | [Warriors](https://ws.tsl.rocks/corp/5f7939d9e637fca46378b31a0bc98715e317da22c2a819707276e7d779044d83/) |
+
+Corporation ID: 88f37fd0ab1f14c7e06af4173800167f8d1f5db4022c1cd42637da431140ef7a

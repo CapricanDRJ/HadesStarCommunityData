@@ -22,3 +22,5 @@
 | ✅ | 2024-01-31 | 2-0 | [Venture](https://ws.tsl.rocks/corp/a48bd30701e4a563543ff54e7c8091cc6b5d0e972c70e4de279a93f4df2f24b0/) |
 | ✅ | 2024-01-23 | 3-1 | [titan tv](https://ws.tsl.rocks/corp/30ba418a884a4c2f888c814c6adfd9f30d995c155ccdc8aafa74ae4dc30f1c39/) |
 | ↔️ | 2024-01-12 | 3-3 | [Sector7](https://ws.tsl.rocks/corp/2608118ec348769a1cdc34c18b3198903677007199f1d6feec34de0d74d2944f/) |
+
+Corporation ID: 66dfd39587403b544abf2908638162e60a09ff0dfdfebee6265d41ba2a6ab00a

@@ -19,3 +19,5 @@
 | ❌ | 2024-01-26 | 0-7 | [Prometheus](https://ws.tsl.rocks/corp/b8bbef86e5b1f72bf9c827f0497871ab0363769ac4fef563fd56f96ac88c85a6/) |
 | ❌ | 2024-01-20 | 4-11 | [Hungary First](https://ws.tsl.rocks/corp/d678326dd81ae0cf5b2bb37d15dcfe7fa1477dbb6e063fbd0d34c69b5942d31b/) |
 | ✅ | 2024-01-14 | 10-0 | [Omega Aboration](https://ws.tsl.rocks/corp/5017e66be9be9517250ba170f594883465956d1b1cb12583fb3b5dc5d2ad0659/) |
+
+Corporation ID: 12563d832c8ee65cd0763789549a23ff034c54c9cb77edf2a70afb1cbd904870

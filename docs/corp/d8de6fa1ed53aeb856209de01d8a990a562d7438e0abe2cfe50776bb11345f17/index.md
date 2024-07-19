@@ -69,3 +69,5 @@
 | ❌ | 2023-11-16 | 0-13 | [Eretria ](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |
 | ✅ | 2023-11-13 | 4-0 | [Tortuga Station](https://ws.tsl.rocks/corp/1949155927acf9605d444d26b75b36fdd72656a54c70c4e5d8bb208e025cbfb4/) |
 | ✅ | 2023-11-07 | 6-4 | [Red Star Corp.](https://ws.tsl.rocks/corp/7ac87486823e26635a2f3887927b19b3a14a7875d38042200045204c418d9ac1/) |
+
+Corporation ID: d8de6fa1ed53aeb856209de01d8a990a562d7438e0abe2cfe50776bb11345f17

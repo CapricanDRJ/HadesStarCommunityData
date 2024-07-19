@@ -66,3 +66,5 @@
 | ✅ | 2023-11-16 | 13-0 | [拆迁大队](https://ws.tsl.rocks/corp/d8de6fa1ed53aeb856209de01d8a990a562d7438e0abe2cfe50776bb11345f17/) |
 | ❌ | 2023-11-10 | 3-21 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |
 | ✅ | 2023-11-05 | 12-0 | [Imperio Galacti](https://ws.tsl.rocks/corp/95f1c11e4823279fa171bfd0e76a03db2e35eb4c88e28b70e51e83ff2d767d4c/) |
+
+Corporation ID: bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725

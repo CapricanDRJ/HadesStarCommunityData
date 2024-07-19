@@ -96,3 +96,5 @@
 | ✅ | 2023-11-11 | 17-10 | [@ncient £ibrary](https://ws.tsl.rocks/corp/937348bb022cf5c0a16fd01c32dc3d7d7ac8909f90f395d702ffa578ad6e3e9a/) |
 | ✅ | 2023-11-04 | 18-13 | [Deadspace](https://ws.tsl.rocks/corp/45fc2bf2d1b40361071590e427fa47116d4e5e063064d17ed9933bbd61f04369/) |
 | ❌ | 2023-11-04 | 3-19 | [Imperium XIII](https://ws.tsl.rocks/corp/0d52edf77b0cdeaaea6ebc20a7f5b6a60372b535bf96f556b31e2243dc8ee75a/) |
+
+Corporation ID: 3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40

@@ -75,3 +75,5 @@
 | ❌ | 2024-03-11 | 0-46 | [Int. Trading Co](https://ws.tsl.rocks/corp/6978edb31cfa5778f4e28d2477e5db050fd8bf44105dc25871490d0cffaf4bf7/) |
 | ❌ | 2024-03-06 | 0-3 | [Axiom](https://ws.tsl.rocks/corp/4000a010c205d318c766ba14fe1836eaab6652f1738a88cce8a8c69d0283e1b0/) |
 | ❌ | 2024-03-06 | 0-21 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
+
+Corporation ID: 4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c

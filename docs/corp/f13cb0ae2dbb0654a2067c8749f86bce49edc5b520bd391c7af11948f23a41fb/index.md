@@ -61,3 +61,5 @@
 | ❌ | 2023-11-17 | 3-37 | [ANZAC Warriors](https://ws.tsl.rocks/corp/dbb190c3127dbab2a3d6d58f1f8f63425f1dbd1949f6442fb2d162e66246b484/) |
 | ❌ | 2023-11-10 | 8-22 | [Галактика Зла](https://ws.tsl.rocks/corp/1495d852070d8182229d3cb26e828265d4525a9ef97a9b377415b803b01d6101/) |
 | ✅ | 2023-11-04 | 12-0 | [Ten Forward](https://ws.tsl.rocks/corp/1dd2ea0ec346eac318541b002d2de1be9cab962eb176f2bc45336222b96e847d/) |
+
+Corporation ID: f13cb0ae2dbb0654a2067c8749f86bce49edc5b520bd391c7af11948f23a41fb

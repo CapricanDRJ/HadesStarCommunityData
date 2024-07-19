@@ -54,3 +54,5 @@
 | ✅ | 2023-11-25 | 19-8 | [[Blue*Nation]](https://ws.tsl.rocks/corp/38cd283c7bb8ee0390f5624e49a3465b1d4a8c789cc2d501f38918a16f6140e2/) |
 | ❌ | 2023-11-18 | 0-9 | [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1/) |
 | ✅ | 2023-11-09 | 14-8 | [THE ECHAPES BEL](https://ws.tsl.rocks/corp/e7191edf9f4ee14b8f64ec7fde8a927408f3b5c03e9bbf63026d6f3ac9d33259/) |
+
+Corporation ID: 6273be8c33cae6938fe5608aa5cf5a78e740f71dd888477b437e47ec106c0a0d

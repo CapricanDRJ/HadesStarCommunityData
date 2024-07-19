@@ -55,3 +55,5 @@
 | ✅ | 2023-11-16 | 47-3 | [НИФИГАСЕБЕ](https://ws.tsl.rocks/corp/a18fab78c26d983ee99c4cd3c7aaddcfac61283abb2122e9a8ccc44feb2b3196/) |
 | ✅ | 2023-11-10 | 23-8 | [Рейнджеры](https://ws.tsl.rocks/corp/be4fa226820fee3399eb064ac8c0d05395ffa93e1c21dbb47d4708dfb0bc9347/) |
 | ✅ | 2023-11-04 | 21-4 | [Curiosity + Cat](https://ws.tsl.rocks/corp/c2982821577254a4ce2d996f53a2391f6f059ff79bbb14c29f9463269b4beebf/) |
+
+Corporation ID: f7afefdba007366512764be38eb9c404704e5d4de919e7df2b17560324bbb56f

@@ -70,3 +70,5 @@
 | ✅ | 2023-11-18 | 30-6 | [UsualSuspects](https://ws.tsl.rocks/corp/0365f036a244e9e36ecaf6e16ddd9d18693104641bd0ca6a4a626a51e3eed853/) |
 | ✅ | 2023-11-11 | 24-20 | [LossFarm No.648](https://ws.tsl.rocks/corp/24a90af39014df515d72c65fe52b1b3669bad36e2abbc4d6c04a9eb2466ec4f2/) |
 | ✅ | 2023-11-05 | 11-4 | [Les Chevaliers](https://ws.tsl.rocks/corp/5066bce563c093b32a01ddf6e9aba77a363d997bb3b5ae47465c13434af06853/) |
+
+Corporation ID: ff6a3c65d008d245f003a3009374e26cf38e7cda6ea4d601a9da9037296fda98

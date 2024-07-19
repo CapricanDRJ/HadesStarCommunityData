@@ -72,3 +72,5 @@
 | ✅ | 2023-12-29 | 30-10 | [The Seperatists](https://ws.tsl.rocks/corp/f7afefdba007366512764be38eb9c404704e5d4de919e7df2b17560324bbb56f/) |
 | ✅ | 2023-12-22 | 36-2 | [Space Marshalls](https://ws.tsl.rocks/corp/6a41cc36abf3a28a1c26bc22843f1892d6938e8eb1e8f8a10fd9e6e964e06c2c/) |
 | ❌ | 2023-12-16 | 5-22 | [Nova Time](https://ws.tsl.rocks/corp/0f1c182652387799cfc3a59082f52a2b01201b13336d84760eab107fb1934ce0/) |
+
+Corporation ID: a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7

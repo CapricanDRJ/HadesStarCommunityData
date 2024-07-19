@@ -99,3 +99,5 @@
 | ✅ | 2023-11-17 | 31-4 | [Sternenwanderer](https://ws.tsl.rocks/corp/6e7d96cb32583d0e4db33e66eecb4c655e9d3ce068b4550be95a52be7b622eea/) |
 | ✅ | 2023-11-11 | 23-0 | [Cydonia Order](https://ws.tsl.rocks/corp/e55f58931b283e38b70e189f9bbc51563a76e2ae541f8b2b207444fb36d5ddf9/) |
 | ✅ | 2023-11-05 | 27-0 | [Retarts](https://ws.tsl.rocks/corp/1556331f722d00268e3c524b12efedac51051cf48e46b2513675774b9315a155/) |
+
+Corporation ID: 774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466

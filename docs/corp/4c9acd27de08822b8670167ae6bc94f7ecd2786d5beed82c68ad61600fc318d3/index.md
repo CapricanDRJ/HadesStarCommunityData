@@ -37,3 +37,5 @@
 | ✅ | 2023-12-07 | 16-1 | [ 墨痕 ](https://ws.tsl.rocks/corp/1beef0498f07b07217c6e0727dffd066947edc54ee6d09dc63c031def52cdd60/) |
 | ✅ | 2023-12-01 | 15-9 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ✅ | 2023-11-24 | 10-2 | [Free Star](https://ws.tsl.rocks/corp/3970e813bec9126438bee62e337f181cf80eef7babc4a233b5b3df6003a3b9cf/) |
+
+Corporation ID: 4c9acd27de08822b8670167ae6bc94f7ecd2786d5beed82c68ad61600fc318d3

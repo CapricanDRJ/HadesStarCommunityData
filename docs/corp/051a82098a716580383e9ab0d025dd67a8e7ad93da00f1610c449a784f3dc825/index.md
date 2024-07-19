@@ -103,3 +103,5 @@
 | ✅ | 2023-11-24 | 46-3 | [E.T.A](https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082/) |
 | ✅ | 2023-11-17 | 30-7 | [USSR](https://ws.tsl.rocks/corp/775ec12999c2bb5396801268de447d30104b470d9f093ec4afea9c9db71d7690/) |
 | ❌ | 2023-11-10 | 13-27 | [No Orbit©](https://ws.tsl.rocks/corp/15831bc11de2a279f369118ffb2cd889844a6992e769889ad9e64f8ac15a410f/) |
+
+Corporation ID: 051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825

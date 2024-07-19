@@ -21,3 +21,5 @@
 | ❌ | 2024-07-05 | 4-7 | [lesescargots](https://ws.tsl.rocks/corp/718c873931e9097064fd6ef580fe9d8761be712e0783e0b97d28344abd910623/) |
 | ✅ | 2024-06-24 | 4-0 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) |
 | ❌ | 2024-06-19 | 7-8 | [Север РусКорп](https://ws.tsl.rocks/corp/39eeae12a2a5fead3330938b8f38c71aab465634b732303dad7b2a7d5f472004/) |
+
+Corporation ID: 88e828c55c07286950a3296b00ca2a7a9cc2f1a0139e9cf4c6e54229f821e952

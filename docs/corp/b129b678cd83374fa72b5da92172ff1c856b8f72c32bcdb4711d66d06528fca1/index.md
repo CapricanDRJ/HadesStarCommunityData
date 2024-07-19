@@ -58,3 +58,5 @@
 | ✅ | 2023-11-28 | 10-8 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
 | ❌ | 2023-11-21 | 2-11 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ✅ | 2023-11-15 | 17-1 | [Empire of Light](https://ws.tsl.rocks/corp/5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc/) |
+
+Corporation ID: b129b678cd83374fa72b5da92172ff1c856b8f72c32bcdb4711d66d06528fca1

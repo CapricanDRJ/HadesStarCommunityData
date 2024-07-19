@@ -53,3 +53,5 @@
 | ❌ | 2023-11-25 | 4-43 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) |
 | ❌ | 2023-11-16 | 0-38 | [BattleCo](https://ws.tsl.rocks/corp/6fedbaaa5e81626ae4028e9ec468585dffa6b131eedb09b88a3ac88b7bca681e/) |
 | ❌ | 2023-11-07 | 4-19 | [Final](https://ws.tsl.rocks/corp/77270275648d2f188dea5d234a7428073a451ef4bc3cbd1b274a1d65e5f67c68/) |
+
+Corporation ID: 963e490e64d4703042415d3fcd8267ff87fbfd3383b83d447d29d842f2a446a1

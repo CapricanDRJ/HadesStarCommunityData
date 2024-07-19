@@ -63,3 +63,5 @@
 | ✅ | 2023-11-15 | 27-10 | [지고받자](https://ws.tsl.rocks/corp/7172d4e10205869e535b82bbdfc5fea3978414c420bade9a1f96cf10c8e4855d/) |
 | ✅ | 2023-11-06 | 22-8 | [Alpaca Haven](https://ws.tsl.rocks/corp/e93a2f2efda24a65c8ee7eb57fbb269e19b2b1c28a67c6c7c3339b8c90f7726b/) |
 | ❌ | 2023-11-06 | 6-16 | [BrazilCorp.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) |
+
+Corporation ID: f12fc39ca2326de7c5ce96c005b1953c86430443f1f8b98e7515d082b43b4d4b

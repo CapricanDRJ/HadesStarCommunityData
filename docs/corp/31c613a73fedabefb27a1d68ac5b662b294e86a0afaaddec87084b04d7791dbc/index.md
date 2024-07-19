@@ -28,3 +28,5 @@
 | ❌ | 2024-01-07 | 0-37 | [E.T.A](https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082/) |
 | ❌ | 2023-12-30 | 0-33 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
 | ❌ | 2023-12-22 | 0-42 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) |
+
+Corporation ID: 31c613a73fedabefb27a1d68ac5b662b294e86a0afaaddec87084b04d7791dbc

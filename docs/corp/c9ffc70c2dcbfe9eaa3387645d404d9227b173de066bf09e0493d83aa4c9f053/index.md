@@ -40,3 +40,5 @@
 | ❌ | 2024-02-28 | 10-22 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 | ↔️ | 2024-02-16 | 7-7 | [拆迁大队](https://ws.tsl.rocks/corp/d8de6fa1ed53aeb856209de01d8a990a562d7438e0abe2cfe50776bb11345f17/) |
 | ❌ | 2024-01-05 | 4-18 | [Black Star llc.](https://ws.tsl.rocks/corp/f6cd5aed527efed3a402f931784d68b5b7201b317118a60bd3d81b551ee87330/) |
+
+Corporation ID: c9ffc70c2dcbfe9eaa3387645d404d9227b173de066bf09e0493d83aa4c9f053

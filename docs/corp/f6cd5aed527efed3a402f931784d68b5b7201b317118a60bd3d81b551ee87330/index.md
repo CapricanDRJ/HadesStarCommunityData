@@ -68,3 +68,5 @@
 | ✅ | 2023-12-25 | 4-0 | [ 墨痕 ](https://ws.tsl.rocks/corp/1beef0498f07b07217c6e0727dffd066947edc54ee6d09dc63c031def52cdd60/) |
 | ✅ | 2023-12-20 | 7-6 | [拆迁大队](https://ws.tsl.rocks/corp/d8de6fa1ed53aeb856209de01d8a990a562d7438e0abe2cfe50776bb11345f17/) |
 | ❌ | 2023-12-15 | 0-1 | [Space Rangers](https://ws.tsl.rocks/corp/da0952db0de44e4eee72d9ffa2394d5818565c5c16d89a1313c6df07417f9fb3/) |
+
+Corporation ID: f6cd5aed527efed3a402f931784d68b5b7201b317118a60bd3d81b551ee87330

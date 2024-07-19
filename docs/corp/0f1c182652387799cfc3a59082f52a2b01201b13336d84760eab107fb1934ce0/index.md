@@ -30,3 +30,5 @@
 | ❌ | 2023-11-24 | 0-3 | [CIS](https://ws.tsl.rocks/corp/3efaab24560531ff257e73bfb281a7e9c0a9d591ac5aff55d05d35f2fb5e1d73/) |
 | ✅ | 2023-11-18 | 21-0 | [Anarchy G13](https://ws.tsl.rocks/corp/59b3aa9bf4f8cf4944a729f7f72218416d173a0a02ff8e3e2945985eaccf52a4/) |
 | ✅ | 2023-11-11 | 16-4 | [萌新港](https://ws.tsl.rocks/corp/7b4125f2900eb0184722a2a53528bb21dd165ea3612dfa8de6ca0ebf2aea0861/) |
+
+Corporation ID: 0f1c182652387799cfc3a59082f52a2b01201b13336d84760eab107fb1934ce0

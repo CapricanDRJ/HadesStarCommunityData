@@ -24,3 +24,5 @@
 | ✅ | 2023-11-29 | 4-0 | [Cygnus X-1](https://ws.tsl.rocks/corp/d6f95ce95cfaaae99dac0957cbc2a511a7316a779eb62d3938e153687987d791/) |
 | ❌ | 2023-11-18 | 3-22 | [Wompwompway ](https://ws.tsl.rocks/corp/f7c3d7f512c4de3883e63b1a5771ab3ef3938054f98711e933bc7dd064fb8363/) |
 | ✅ | 2023-11-04 | 6-3 | [Galactic Empire](https://ws.tsl.rocks/corp/e2223ab2b582a5eb5ae1734e132358eb3c24ddf61fcbeee7b8f6708f26782108/) |
+
+Corporation ID: db02701745537e2b055f660e59bd465567c4e4b322c16ade37245ed4a40699c8

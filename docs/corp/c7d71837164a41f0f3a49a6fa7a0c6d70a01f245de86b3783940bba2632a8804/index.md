@@ -50,3 +50,5 @@
 | ✅ | 2023-11-26 | 27-0 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | ✅ | 2023-11-21 | 28-1 | [萌新收留所（目标门集团）](https://ws.tsl.rocks/corp/2da742f44420592cb720952b293609aded2a2858e7458e692ec54fc989c017a8/) |
 | ✅ | 2023-11-15 | 27-0 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |
+
+Corporation ID: c7d71837164a41f0f3a49a6fa7a0c6d70a01f245de86b3783940bba2632a8804

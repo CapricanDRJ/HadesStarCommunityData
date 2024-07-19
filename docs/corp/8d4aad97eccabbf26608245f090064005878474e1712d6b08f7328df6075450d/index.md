@@ -98,3 +98,5 @@
 | ❌ | 2023-11-21 | 5-33 | [Ninth Planet](https://ws.tsl.rocks/corp/53297ed66c8c326d4cb4eebdee55172d3d64f122addd5d916b314f4ab557e21a/) |
 | ✅ | 2023-11-15 | 10-0 | [uDS](https://ws.tsl.rocks/corp/c120f3bc94740ef16cf2e075afe14212a63d35c19798ef6a191623fb76d4dd0f/) |
 | ✅ | 2023-11-05 | 5-1 | [Бестрашный лиги](https://ws.tsl.rocks/corp/98a0925e094c54f400b76ad64a527b25adb4fe5aa1afc4b10368f072d3741d53/) |
+
+Corporation ID: 8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d

@@ -23,3 +23,5 @@
 | ❌ | 2023-12-22 | 11-26 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | ❌ | 2023-12-14 | 8-19 | [Red Dawn](https://ws.tsl.rocks/corp/fee852a2530bc5e3cbe5b2a5fdb224d249eeceeb3688cfd71479344181831328/) |
 | ❌ | 2023-12-07 | 9-33 | [Zeta LLC](https://ws.tsl.rocks/corp/5779c7241b1f516fefec667bf95a9d1e0db38d307d559e1491b4f3a7fcd720f8/) |
+
+Corporation ID: 1723dea490699d1ea8c63e03979aef391a21033bf22d9836452a37542cfc238e

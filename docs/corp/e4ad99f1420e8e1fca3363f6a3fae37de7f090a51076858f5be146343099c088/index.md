@@ -35,3 +35,5 @@
 | ✅ | 2024-01-06 | 7-0 | [行星联合军](https://ws.tsl.rocks/corp/5afa03bdcf5439e267c7f2b358e6ae5d16030d3d52b527b58b37236ddfa7fe57/) |
 | ❌ | 2024-01-01 | 0-19 | [Brodudes Inc.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) |
 | ❌ | 2023-12-27 | 3-13 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) |
+
+Corporation ID: e4ad99f1420e8e1fca3363f6a3fae37de7f090a51076858f5be146343099c088

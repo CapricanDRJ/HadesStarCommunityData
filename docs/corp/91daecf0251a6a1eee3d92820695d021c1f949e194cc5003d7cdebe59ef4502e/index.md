@@ -37,3 +37,5 @@
 | ✅ | 2023-11-14 | 37-1 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) |
 | ✅ | 2023-11-09 | 32-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
 | ✅ | 2023-11-04 | 31-0 | [USSR](https://ws.tsl.rocks/corp/775ec12999c2bb5396801268de447d30104b470d9f093ec4afea9c9db71d7690/) |
+
+Corporation ID: 91daecf0251a6a1eee3d92820695d021c1f949e194cc5003d7cdebe59ef4502e

@@ -81,3 +81,5 @@
 | ✅ | 2023-11-13 | 5-3 | [West Worlders](https://ws.tsl.rocks/corp/aad051ec6b980cc52fb4777aef113d9e28a72aab40fda65aa9cdbf477b8e390a/) |
 | ✅ | 2023-11-12 | 13-5 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) |
 | ✅ | 2023-11-05 | 21-0 | [星舰地球](https://ws.tsl.rocks/corp/74f9da5a15ff27bf509892de095386a84ef43e8f68b96d1897acf9bcbd542f61/) |
+
+Corporation ID: cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2

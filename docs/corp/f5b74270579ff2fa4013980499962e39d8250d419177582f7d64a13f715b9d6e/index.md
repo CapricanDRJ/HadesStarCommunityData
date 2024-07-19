@@ -15,3 +15,5 @@
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
 | ❌ | 2024-06-18 | 32-33 | [绛紫星](https://ws.tsl.rocks/corp/8c2109279ceb01bcca0aa5e85c151d5877831ac54199285743750e2ed343b407/) |
+
+Corporation ID: f5b74270579ff2fa4013980499962e39d8250d419177582f7d64a13f715b9d6e

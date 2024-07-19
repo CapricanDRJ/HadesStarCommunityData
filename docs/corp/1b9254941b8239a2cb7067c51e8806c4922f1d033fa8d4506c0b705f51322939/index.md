@@ -27,3 +27,5 @@
 | ❌ | 2024-01-27 | 0-27 | [Bl@ck/Galaxy ](https://ws.tsl.rocks/corp/76f8fe0dcd8b8c1cb8e0083f14c0b36c23bb9757a3af0f191b567774c02222a3/) |
 | ❌ | 2024-01-27 | 3-26 | [Слава Украине!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ❌ | 2023-12-18 | 3-15 | [神圣罗马帝国](https://ws.tsl.rocks/corp/2a71af44aaef82175cd8dfd86c9e3f218a438a7c7e748bae20d8a0d964a984ab/) |
+
+Corporation ID: 1b9254941b8239a2cb7067c51e8806c4922f1d033fa8d4506c0b705f51322939

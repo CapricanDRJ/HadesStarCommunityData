@@ -34,3 +34,5 @@
 | ✅ | 2024-04-13 | 3-0 | [德意志第三帝国奥米加分部](https://ws.tsl.rocks/corp/b5f35e30b2dea2621e854b5011a9f9d07ca3585cd26bd9ac92aa7b06c0a522b1/) |
 | ❌ | 2024-04-07 | 1-8 | [Shrimp City](https://ws.tsl.rocks/corp/eae9b3a1f9dd6b4a1fb39d6aedfe84a80662abe6b181bedcfd7ec15d931b8e84/) |
 | ✅ | 2024-04-02 | 10-3 | [U.Y.E.U.](https://ws.tsl.rocks/corp/504f779e55c2d1bc5ff35b4540c0bb60421bd8bce70c3eb0caf45fd73915ec86/) |
+
+Corporation ID: 85422294545c4561b468821bbbbe277a0d7f09c6ab45fedb2a43cbaa36d32f63

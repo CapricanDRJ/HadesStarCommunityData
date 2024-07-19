@@ -26,3 +26,5 @@
 | ↔️ | 2023-11-22 | 1-1 | [新纪元舰队](https://ws.tsl.rocks/corp/d36af8af2f097f561de219867c4bfcc83f266642293429cf3fda159792008277/) |
 | ❌ | 2023-11-21 | 6-13 | [共产星际](https://ws.tsl.rocks/corp/5cb42bdae108ad850e61479922e7d8cb4d5b7be7b8ac2f64fc828d3b88046737/) |
 | ✅ | 2023-11-15 | 12-0 | [лезвия тьмы ](https://ws.tsl.rocks/corp/db7c5557829278a97b936e9b849cb3d1003962011f6b98d1bc26b6219c605e8b/) |
+
+Corporation ID: 5cc773684246e055601c9b0ca8200c1ca66a040c6e8cba90121f528cb792753a

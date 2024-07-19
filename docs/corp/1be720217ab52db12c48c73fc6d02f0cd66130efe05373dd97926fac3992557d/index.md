@@ -64,3 +64,5 @@
 | ✅ | 2024-01-03 | 48-5 | [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/) |
 | ✅ | 2023-12-27 | 39-0 | [龙门训练营](https://ws.tsl.rocks/corp/1409829bbf951ca641274ef39dad828f2b4989e603fbe05e5765204058c13923/) |
 | ❌ | 2023-12-08 | 4-45 | [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) |
+
+Corporation ID: 1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d

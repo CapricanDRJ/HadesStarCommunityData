@@ -30,3 +30,5 @@
 | ✅ | 2023-12-14 | 6-3 | [The Elite](https://ws.tsl.rocks/corp/a2df28ce949920025afb16d0229e0c14aed7832c217d142307a62622634d395c/) |
 | ✅ | 2023-12-09 | 5-0 | [하데스 스타 코리아](https://ws.tsl.rocks/corp/36ae3ca01b555bd695500062530b53a2b19cc9d4bab087051ea8775124723e94/) |
 | ↔️ | 2023-12-03 | 3-3 | [Prospectors](https://ws.tsl.rocks/corp/7919c3c38ee794a50b54a2d7a4d0aa78e36cf5a6e35d3e3d6a0c68db2841c167/) |
+
+Corporation ID: 243019fcfd10d4121251ca030b7986781c90f819ba291ee6d7054dc6bbcc9000

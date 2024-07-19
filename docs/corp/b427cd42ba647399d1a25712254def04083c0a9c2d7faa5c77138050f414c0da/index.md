@@ -31,3 +31,5 @@
 | ✅ | 2024-01-14 | 21-0 | [LUPI ROMÎNI](https://ws.tsl.rocks/corp/934374a52ab97c3cc084b49caec3a1c144b0da9300288269c1efabaa671ca4f6/) |
 | ✅ | 2024-01-08 | 8-3 | [V0RTEX](https://ws.tsl.rocks/corp/22a12c757b3e065e8ec7a839b80e33339317bb277aeee145f6cde6f473e06f8f/) |
 | ✅ | 2024-01-02 | 25-2 | [9-Й СКОРПИОН](https://ws.tsl.rocks/corp/5ad79ec30d5d805635609e2b1e1cf5f399486c1d57f6101cb6015afbd50f5913/) |
+
+Corporation ID: b427cd42ba647399d1a25712254def04083c0a9c2d7faa5c77138050f414c0da

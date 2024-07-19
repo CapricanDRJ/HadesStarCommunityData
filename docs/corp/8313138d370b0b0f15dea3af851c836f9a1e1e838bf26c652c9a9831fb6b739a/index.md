@@ -43,3 +43,5 @@
 | ✅ | 2023-11-23 | 9-0 | [KARI](https://ws.tsl.rocks/corp/4434276aa1aebbe4c0a69ac51dff9c243c5287d00096e12c87e8590318a2ab65/) |
 | ❌ | 2023-11-16 | 3-10 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) |
 | ❌ | 2023-11-10 | 16-20 | [Star Dust](https://ws.tsl.rocks/corp/b533dfd525b3f3f64aeec35ea69fb8c8ffe7d067243f58e16bc1280ade45fb4f/) |
+
+Corporation ID: 8313138d370b0b0f15dea3af851c836f9a1e1e838bf26c652c9a9831fb6b739a

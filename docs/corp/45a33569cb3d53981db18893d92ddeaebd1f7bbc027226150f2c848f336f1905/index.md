@@ -100,3 +100,5 @@
 | ❌ | 2023-11-18 | 1-19 | [On en a Gros ! ](https://ws.tsl.rocks/corp/eee919ee67cd5b7eb62548219cd7981660ab85d08ab0fe23b83f1849ca6cf8c6/) |
 | ✅ | 2023-11-11 | 38-3 | [혁명군](https://ws.tsl.rocks/corp/712800536cbb3ef3357a2480d86cf971596950ac499e699bb3d99f94d1c65f5f/) |
 | ✅ | 2023-11-04 | 40-1 | [DTC](https://ws.tsl.rocks/corp/4be10b4fa74e6bc45ea50d720527bec8db0312f419a419f203b09350d663c755/) |
+
+Corporation ID: 45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905

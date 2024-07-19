@@ -21,3 +21,5 @@
 | ✅ | 2023-12-01 | 42-3 | [LOST PIRATES](https://ws.tsl.rocks/corp/4c85f200f6cb4312f3ebb3155927e6918a57537d40f6898c57625af435a7641d/) |
 | ❌ | 2023-11-19 | 6-24 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) |
 | ❌ | 2023-11-10 | 23-25 | [Midland Ind.](https://ws.tsl.rocks/corp/da3a00a59e73cb89ddcf9ae42f31ecf0c9d9b5fe9a2dc5ddec6fc42922f86a23/) |
+
+Corporation ID: 74aed8be82b78aae23f7cdb815f2124496aee03eb68115e20ce9073444d3430c

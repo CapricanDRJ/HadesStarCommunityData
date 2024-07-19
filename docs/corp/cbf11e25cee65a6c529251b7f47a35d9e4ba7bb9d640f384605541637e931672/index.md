@@ -26,3 +26,5 @@
 | ❌ | 2023-11-17 | 0-45 | [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) |
 | ❌ | 2023-11-09 | 1-23 | [Valhalla Rising](https://ws.tsl.rocks/corp/8843a04f5528aa779a62f129af7ef619b90742807f0d436ae85a69870206b254/) |
 | ❌ | 2023-11-09 | 0-31 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) |
+
+Corporation ID: cbf11e25cee65a6c529251b7f47a35d9e4ba7bb9d640f384605541637e931672

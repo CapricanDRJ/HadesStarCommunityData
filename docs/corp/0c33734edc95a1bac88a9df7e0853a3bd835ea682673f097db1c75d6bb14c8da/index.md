@@ -74,3 +74,5 @@
 | ✅ | 2023-11-21 | 23-0 | [Вселенские 40%](https://ws.tsl.rocks/corp/963d73346ebb929607f54404f481ac2273b4f483915b93144d0757b066a1fd99/) |
 | ✅ | 2023-11-15 | 20-6 | [ProyectCorp](https://ws.tsl.rocks/corp/ac76fbb017abc5511e6d39625245f0cd8f145ef5ba96ae1760d7f2389b5e0fe1/) |
 | ✅ | 2023-11-09 | 15-3 | [Astra Ultima](https://ws.tsl.rocks/corp/28f566291e90761f5c070cb9c53ba0381b2afd62e60f643e3be33288118ec4ff/) |
+
+Corporation ID: 0c33734edc95a1bac88a9df7e0853a3bd835ea682673f097db1c75d6bb14c8da

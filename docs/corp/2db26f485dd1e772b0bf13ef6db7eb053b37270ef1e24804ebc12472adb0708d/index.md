@@ -28,3 +28,5 @@
 | ✅ | 2024-01-12 | 5-0 | [Red Suns](https://ws.tsl.rocks/corp/4723a7ddfdf84d63bb4a6e897d77183874e4abd0d5f04c8c6470cb3141dd8629/) |
 | ✅ | 2024-01-07 | 5-0 | [СОЮЗ-2](https://ws.tsl.rocks/corp/7e076cd14646574c68e4d0e7c102c73ebd4e5517c2e3860bdda55e5d9c0f9ac1/) |
 | ❌ | 2024-01-02 | 0-7 | [DYLAN](https://ws.tsl.rocks/corp/4c92ec3582be074db571dc198baad7b31951427215e09c4b95a597895406c6a3/) |
+
+Corporation ID: 2db26f485dd1e772b0bf13ef6db7eb053b37270ef1e24804ebc12472adb0708d

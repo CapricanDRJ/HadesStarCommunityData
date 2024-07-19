@@ -40,3 +40,5 @@
 | ❌ | 2023-12-16 | 0-2 | [Todesschwadron](https://ws.tsl.rocks/corp/2bcbf6c5a9cfee247983159b049a176d182486b00690372f13cc08e35203c047/) |
 | ↔️ | 2023-12-06 | 5-5 | [Ws Polaris](https://ws.tsl.rocks/corp/aed0edd750f895de01d5a257db42bba7b2098421901f1cf0352b992242d967d9/) |
 | ✅ | 2023-11-19 | 6-4 | [Space Scourge](https://ws.tsl.rocks/corp/04ad48264f0fcb63156d90f6ff6dfd55b1ab9321d56144f671a84c0253bccfc1/) |
+
+Corporation ID: c37872d1ea085402bf536c707a895610f72dafda4bede848405b7908b4523985

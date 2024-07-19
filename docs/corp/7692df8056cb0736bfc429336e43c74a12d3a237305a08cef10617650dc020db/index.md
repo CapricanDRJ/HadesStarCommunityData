@@ -110,3 +110,5 @@
 | ✅ | 2023-11-12 | 24-20 | [深空补给港](https://ws.tsl.rocks/corp/6113fcbe4739d68f06b6a167df2788aa4582546dd0e0de38a088dd7797e0b501/) |
 | ❌ | 2023-11-06 | 3-22 | [Ironbear Legion](https://ws.tsl.rocks/corp/256873683be88bf78e3d4f1fda68e669c8be11e78a85f9add19e60facc9831b0/) |
 | ❌ | 2023-11-06 | 3-7 | [ITA](https://ws.tsl.rocks/corp/4b7ed90565c5e7d463f7a7dcecab17ae3f6c93cd6b75b77bece4bfad9cfe9626/) |
+
+Corporation ID: 7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db

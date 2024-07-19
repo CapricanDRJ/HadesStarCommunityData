@@ -30,3 +30,5 @@
 | ❌ | 2024-01-28 | 0-32 | [-=Содружество=-](https://ws.tsl.rocks/corp/a9493d38afc250d1f8288ca320eb0e5fb1263b1854737d813cdbf575c0e0e2d3/) |
 | ❌ | 2023-12-26 | 3-32 | [ProyectCorp](https://ws.tsl.rocks/corp/ac76fbb017abc5511e6d39625245f0cd8f145ef5ba96ae1760d7f2389b5e0fe1/) |
 | ✅ | 2023-12-18 | 2-0 | [cikopo](https://ws.tsl.rocks/corp/523cdd29cdccf7732fed590e941edb3ad2c4e7130ef6b474e9ae7a0855af8cc7/) |
+
+Corporation ID: b1a267bb80dd695c75c1996122ff32ca8296c07874376131618d18b4fee0aa5c

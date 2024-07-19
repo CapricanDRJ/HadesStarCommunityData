@@ -86,3 +86,5 @@
 | ✅ | 2023-11-21 | 11-2 | [1st/Ave/Junkie2](https://ws.tsl.rocks/corp/b129b678cd83374fa72b5da92172ff1c856b8f72c32bcdb4711d66d06528fca1/) |
 | ❌ | 2023-11-21 | 3-16 | [Созидание 2.0](https://ws.tsl.rocks/corp/ae8b8d247dbd93bebc2b77d48c1db6783a17ff8b16438f010c804b7ccf05b76a/) |
 | ✅ | 2023-11-14 | 6-4 | [Oficina Tuga](https://ws.tsl.rocks/corp/2fff67029125a29f7fa3252e0f8387f3ae93c6c59bd05d358723e02f3199db72/) |
+
+Corporation ID: b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4

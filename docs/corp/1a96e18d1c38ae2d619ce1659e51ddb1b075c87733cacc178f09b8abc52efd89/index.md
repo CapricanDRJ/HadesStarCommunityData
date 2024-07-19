@@ -21,3 +21,5 @@
 | ❌ | 2023-11-30 | 2-8 | [Red Star Corp.](https://ws.tsl.rocks/corp/7ac87486823e26635a2f3887927b19b3a14a7875d38042200045204c418d9ac1/) |
 | ✅ | 2023-11-17 | 6-2 | [佛矿寺](https://ws.tsl.rocks/corp/64f8afd95b7004e9d5a442da55644ee3ce64a9a8e82345c458d757b527e40624/) |
 | ↔️ | 2023-11-11 | 0-0 | [Death Star llc.](https://ws.tsl.rocks/corp/3dd4906939827fa7537a3e95f8d75948c06b75a98f3c4aab253ea79857d2ce81/) |
+
+Corporation ID: 1a96e18d1c38ae2d619ce1659e51ddb1b075c87733cacc178f09b8abc52efd89

@@ -32,3 +32,5 @@
 | ✅ | 2023-11-13 | 22-5 | [ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ](https://ws.tsl.rocks/corp/85a74d128f924274446b7fb754136e6ef7185c754df2fae3b10591d28536f17a/) |
 | ❌ | 2023-11-10 | 0-3 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) |
 | ✅ | 2023-11-07 | 19-4 | [KLM](https://ws.tsl.rocks/corp/963e490e64d4703042415d3fcd8267ff87fbfd3383b83d447d29d842f2a446a1/) |
+
+Corporation ID: 77270275648d2f188dea5d234a7428073a451ef4bc3cbd1b274a1d65e5f67c68

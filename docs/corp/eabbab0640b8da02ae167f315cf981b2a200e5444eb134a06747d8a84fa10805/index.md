@@ -85,3 +85,5 @@
 | ❌ | 2023-11-20 | 9-21 | [Ark](https://ws.tsl.rocks/corp/febd79d038ed9af667e201309060d9662ba825ba9be2b5b95418ac20a8e70c80/) |
 | ❌ | 2023-11-13 | 16-17 | [United Stars ](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) |
 | ❌ | 2023-11-08 | 3-9 | [Glashan](https://ws.tsl.rocks/corp/48b9fa3df8bbc6ce4a8455e9b923f28c0eccb8054c9f72e9c14e6acfee5a23a4/) |
+
+Corporation ID: eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805

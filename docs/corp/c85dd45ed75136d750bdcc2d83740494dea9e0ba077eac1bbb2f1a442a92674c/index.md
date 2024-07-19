@@ -63,3 +63,5 @@
 | ✅ | 2023-11-17 | 17-5 | [alienigenas](https://ws.tsl.rocks/corp/1c092f1b0e9645193eac68e27b29b2b9fef39474fd8924495abec6754857a8f9/) |
 | ❌ | 2023-11-10 | 14-15 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | ✅ | 2023-11-04 | 23-0 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
+
+Corporation ID: c85dd45ed75136d750bdcc2d83740494dea9e0ba077eac1bbb2f1a442a92674c

@@ -64,3 +64,5 @@
 | ✅ | 2023-12-18 | 1-0 | [NASA Air base](https://ws.tsl.rocks/corp/6b63a6d22b94297e25c5815e1d096edd489543d2a443677f58d7e6aec1d00016/) |
 | ❌ | 2023-12-12 | 0-3 | [The Galxey █](https://ws.tsl.rocks/corp/d52cda2701dd013db91403bab0ff5972e0d9f3a13f842daf8d633025835a6b19/) |
 | ❌ | 2023-12-05 | 0-7 | [Hungary First](https://ws.tsl.rocks/corp/d678326dd81ae0cf5b2bb37d15dcfe7fa1477dbb6e063fbd0d34c69b5942d31b/) |
+
+Corporation ID: 85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762

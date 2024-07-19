@@ -63,3 +63,5 @@
 | ✅ | 2023-11-23 | 32-0 | [RUSSIAN TEAM](https://ws.tsl.rocks/corp/ddbe305c7b079ebdf054b4483e2d445276c9a95fb7beea61ba9e35cabdef0162/) |
 | ✅ | 2023-11-17 | 23-9 | [The Picard](https://ws.tsl.rocks/corp/e9a6cae99e308f9c70625e04162b887239bea0d52463d7a3ed53464fdd906d0b/) |
 | ❌ | 2023-11-11 | 2-18 | [Спутник](https://ws.tsl.rocks/corp/0ae15c4db6dc8c3f4bf3eb6aa93bffd4ea9281b06b721ab103c0078646bfe58c/) |
+
+Corporation ID: b866417e5607f8434347bb5f986e37c4fa7dda68b3882f0135d186043d3f68a3

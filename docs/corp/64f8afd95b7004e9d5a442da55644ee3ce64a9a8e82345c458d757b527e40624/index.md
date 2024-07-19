@@ -66,3 +66,5 @@
 | ✅ | 2023-11-27 | 3-0 | [Bl@ck/Galaxy ](https://ws.tsl.rocks/corp/76f8fe0dcd8b8c1cb8e0083f14c0b36c23bb9757a3af0f191b567774c02222a3/) |
 | ✅ | 2023-11-22 | 3-0 | [新纪元舰队](https://ws.tsl.rocks/corp/d36af8af2f097f561de219867c4bfcc83f266642293429cf3fda159792008277/) |
 | ❌ | 2023-11-17 | 2-6 | [Vermilion](https://ws.tsl.rocks/corp/1a96e18d1c38ae2d619ce1659e51ddb1b075c87733cacc178f09b8abc52efd89/) |
+
+Corporation ID: 64f8afd95b7004e9d5a442da55644ee3ce64a9a8e82345c458d757b527e40624

@@ -38,3 +38,5 @@
 | ❌ | 2024-01-01 | 0-18 | [共产主义舰队](https://ws.tsl.rocks/corp/120341cde0726631443dbaa98c1192b6703daad0119e6c18061f443d2897831e/) |
 | ✅ | 2023-12-20 | 3-1 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ✅ | 2023-12-09 | 6-3 | [Пабеда](https://ws.tsl.rocks/corp/5f29a5087f1cb6c175a54d845b2f3fd65828af71346fc945c5f69520410a6494/) |
+
+Corporation ID: 727f6b88132c5850b1ef7ad02101bab3f97fc5dd191307dffca64181bf41e614

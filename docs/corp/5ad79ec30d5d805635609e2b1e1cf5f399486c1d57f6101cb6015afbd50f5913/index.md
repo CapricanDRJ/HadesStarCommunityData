@@ -52,3 +52,5 @@
 | ❌ | 2024-02-08 | 7-31 | [遨游星空  kdy分盟](https://ws.tsl.rocks/corp/74a42c9e5b716ea7c784243c029ad5dc1871f6b81692170099efdf8d3f94ba8f/) |
 | ✅ | 2024-02-02 | 19-0 | [Thunderbears](https://ws.tsl.rocks/corp/904c85a40298fe616763ce7bc9ac0534ab1d9dd69151c63308a3906f2eb07d54/) |
 | ❌ | 2024-01-02 | 2-25 | [墨痕白星分部](https://ws.tsl.rocks/corp/b427cd42ba647399d1a25712254def04083c0a9c2d7faa5c77138050f414c0da/) |
+
+Corporation ID: 5ad79ec30d5d805635609e2b1e1cf5f399486c1d57f6101cb6015afbd50f5913

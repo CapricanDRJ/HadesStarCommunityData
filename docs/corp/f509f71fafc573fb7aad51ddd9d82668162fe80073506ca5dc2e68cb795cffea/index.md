@@ -32,3 +32,5 @@
 | ✅ | 2023-11-30 | 15-1 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
 | ❌ | 2023-11-23 | 1-32 | [Legion Prime](https://ws.tsl.rocks/corp/4ec84e26e7ede18156541503f057342cbe9ac9ef9e53c7dbae99993832da067e/) |
 | ❌ | 2023-11-15 | 14-31 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
+
+Corporation ID: f509f71fafc573fb7aad51ddd9d82668162fe80073506ca5dc2e68cb795cffea

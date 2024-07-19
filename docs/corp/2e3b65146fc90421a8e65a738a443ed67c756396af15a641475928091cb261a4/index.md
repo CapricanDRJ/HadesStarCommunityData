@@ -21,3 +21,5 @@
 | ↔️ | 2024-02-25 | 6-6 | [Dark Training](https://ws.tsl.rocks/corp/f889cafae8c2e0c622ae5494ce013504bf204ba00f7c7b44c61985588ee8f53c/) |
 | ✅ | 2024-02-04 | 29-0 | [Glashan](https://ws.tsl.rocks/corp/48b9fa3df8bbc6ce4a8455e9b923f28c0eccb8054c9f72e9c14e6acfee5a23a4/) |
 | ✅ | 2024-01-22 | 16-6 | [RedStar Raiding](https://ws.tsl.rocks/corp/83a1c4f1576eec7dce037eb5b64b2455ca3affb9d3072108c5d4d3eba88b4570/) |
+
+Corporation ID: 2e3b65146fc90421a8e65a738a443ed67c756396af15a641475928091cb261a4
