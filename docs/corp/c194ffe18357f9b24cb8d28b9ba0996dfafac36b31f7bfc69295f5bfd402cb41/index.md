@@ -5,7 +5,7 @@ title: UNNP
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (882)|
+| ELO Regular | 1169 🔻  (881)|
 | ELO Competitive | 1170 🔻  (961)|
 | Total Matches | 3 |
 | Wins | 0 |

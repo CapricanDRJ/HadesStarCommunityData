@@ -5,7 +5,7 @@ title: The Hexagonix
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1164 🔺  (913)|
+| ELO Regular | 1164 🔺  (912)|
 | ELO Competitive | 1165 🔺  (984)|
 | Total Matches | 8 |
 | Wins | 2 |

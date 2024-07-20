@@ -5,11 +5,11 @@ title: Death Flight
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1031 🔻  (1152)|
-| ELO Competitive | 1090 🔻  (1143)|
-| Total Matches | 53 |
+| ELO Regular | 1024 🔻  (1154)|
+| ELO Competitive | 1083 🔻  (1151)|
+| Total Matches | 54 |
 | Wins | 13 |
-| Losses | 39 |
+| Losses | 40 |
 | Draws | 1 |
 | Streak Record | 3 |
 
@@ -26,6 +26,7 @@ title: Death Flight
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024-07-20 | 12-40 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) |
 | ❌ | 2024-07-14 | 14-48 | [Ark](https://ws.tsl.rocks/corp/febd79d038ed9af667e201309060d9662ba825ba9be2b5b95418ac20a8e70c80/) |
 | ❌ | 2024-07-08 | 3-16 | [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) |
 | ❌ | 2024-07-03 | 7-46 | [Famous Assasins](https://ws.tsl.rocks/corp/8a3aea3b3dacfd3dcdb402e896204557e250b07b8a5e04b5814600c66cc1a25b/) |

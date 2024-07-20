@@ -5,7 +5,7 @@ title: ༺༽ʚ天轮间ɞ༼༻
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (817)|
+| ELO Regular | 1173 🔻  (816)|
 | ELO Competitive | 1180 🔻  (843)|
 | Total Matches | 3 |
 | Wins | 1 |

@@ -5,7 +5,7 @@ title: Ukr alliance
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (790)|
+| ELO Regular | 1175 🔻  (789)|
 | ELO Competitive | 1175 🔻  (885)|
 | Total Matches | 5 |
 | Wins | 1 |

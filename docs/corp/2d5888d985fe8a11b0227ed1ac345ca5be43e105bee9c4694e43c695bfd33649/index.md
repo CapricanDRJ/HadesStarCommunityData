@@ -5,7 +5,7 @@ title: ギャラクシー富士山
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1166 🔻  (901)|
+| ELO Regular | 1166 🔻  (900)|
 | ELO Competitive | 1167 🔻  (976)|
 | Total Matches | 6 |
 | Wins | 2 |

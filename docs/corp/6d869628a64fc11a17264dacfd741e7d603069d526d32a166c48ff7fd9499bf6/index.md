@@ -5,7 +5,7 @@ title: Венерский Союз
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1166 🔻  (902)|
+| ELO Regular | 1166 🔻  (901)|
 | ELO Competitive | 1171 🔻  (939)|
 | Total Matches | 15 |
 | Wins | 5 |

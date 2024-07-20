@@ -5,7 +5,7 @@ title: 63SALVADORES36
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (819)|
+| ELO Regular | 1173 🔻  (818)|
 | ELO Competitive | 1176 🔻  (873)|
 | Total Matches | 2 |
 | Wins | 0 |

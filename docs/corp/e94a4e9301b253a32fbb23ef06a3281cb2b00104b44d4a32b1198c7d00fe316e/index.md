@@ -5,7 +5,7 @@ title: LCP
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (804)|
+| ELO Regular | 1174 🔻  (803)|
 | ELO Competitive | 1178 🔻  (858)|
 | Total Matches | 2 |
 | Wins | 0 |

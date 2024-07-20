@@ -5,7 +5,7 @@ title: украина№1
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1249 🔻  (206)|
+| ELO Regular | 1249 🔻  (207)|
 | ELO Competitive | 1333 🔻  (151)|
 | Total Matches | 42 |
 | Wins | 23 |

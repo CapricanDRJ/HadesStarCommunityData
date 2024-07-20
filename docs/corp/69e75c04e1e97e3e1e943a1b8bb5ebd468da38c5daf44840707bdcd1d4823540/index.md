@@ -5,7 +5,7 @@ title: 洛神峰
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (810)|
+| ELO Regular | 1174 🔻  (809)|
 | ELO Competitive | 1174 🔻  (897)|
 | Total Matches | 2 |
 | Wins | 0 |

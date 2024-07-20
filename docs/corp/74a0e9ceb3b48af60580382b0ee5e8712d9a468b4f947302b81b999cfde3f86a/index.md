@@ -6,7 +6,7 @@ title: СлАвЯнСкИй СоЮз
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1228 🔻  (289)|
-| ELO Competitive | 1231 🔻  (359)|
+| ELO Competitive | 1231 🔻  (358)|
 | Total Matches | 11 |
 | Wins | 7 |
 | Losses | 4 |

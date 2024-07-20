@@ -5,7 +5,7 @@ title: 暮光之城
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1177 🔻  (771)|
+| ELO Regular | 1177 🔻  (770)|
 | ELO Competitive | 1183 🔻  (826)|
 | Total Matches | 4 |
 | Wins | 1 |

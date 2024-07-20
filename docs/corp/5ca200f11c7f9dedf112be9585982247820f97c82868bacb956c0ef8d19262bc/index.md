@@ -5,7 +5,7 @@ title: Empire of Light
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1162 🔻  (919)|
+| ELO Regular | 1162 🔻  (918)|
 | ELO Competitive | 1196 🔻  (572)|
 | Total Matches | 18 |
 | Wins | 7 |

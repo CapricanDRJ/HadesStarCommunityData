@@ -5,7 +5,7 @@ title: callisto corp
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (863)|
+| ELO Regular | 1171 🔻  (862)|
 | ELO Competitive | 1171 🔻  (951)|
 | Total Matches | 2 |
 | Wins | 0 |

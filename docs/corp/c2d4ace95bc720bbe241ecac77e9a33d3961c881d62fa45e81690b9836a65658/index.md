@@ -5,7 +5,7 @@ title: 青丘湖
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1166 🔻  (898)|
+| ELO Regular | 1166 🔻  (897)|
 | ELO Competitive | 1168 🔻  (969)|
 | Total Matches | 2 |
 | Wins | 0 |

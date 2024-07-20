@@ -5,7 +5,7 @@ title: 1st/Ave/Junkie2
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (780)|
+| ELO Regular | 1176 🔻  (779)|
 | ELO Competitive | 1194 🔻  (582)|
 | Total Matches | 37 |
 | Wins | 16 |

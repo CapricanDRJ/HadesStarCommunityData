@@ -5,7 +5,7 @@ title: XXX500XXX
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (856)|
+| ELO Regular | 1171 🔻  (855)|
 | ELO Competitive | 1171 🔻  (932)|
 | Total Matches | 2 |
 | Wins | 0 |

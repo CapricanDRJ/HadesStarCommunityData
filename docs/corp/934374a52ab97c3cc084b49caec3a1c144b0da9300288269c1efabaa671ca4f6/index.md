@@ -5,7 +5,7 @@ title: LUPI ROMÎNI
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔻  (869)|
+| ELO Regular | 1170 🔻  (868)|
 | ELO Competitive | 1178 🔻  (857)|
 | Total Matches | 4 |
 | Wins | 1 |

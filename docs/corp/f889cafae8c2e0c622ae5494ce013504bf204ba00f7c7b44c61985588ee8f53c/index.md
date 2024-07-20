@@ -5,7 +5,7 @@ title: Dark Training
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔺  (252)|
+| ELO Regular | 1238 🔺  (254)|
 | ELO Competitive | 1276 🔺  (246)|
 | Total Matches | 24 |
 | Wins | 12 |

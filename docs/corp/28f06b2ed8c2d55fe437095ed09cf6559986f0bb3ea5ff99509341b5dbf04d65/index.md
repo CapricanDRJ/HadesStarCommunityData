@@ -5,7 +5,7 @@ title: 六大天神
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1240 🔻  (240)|
+| ELO Regular | 1240 🔻  (241)|
 | ELO Competitive | 1482 🔻  (26)|
 | Total Matches | 96 |
 | Wins | 53 |

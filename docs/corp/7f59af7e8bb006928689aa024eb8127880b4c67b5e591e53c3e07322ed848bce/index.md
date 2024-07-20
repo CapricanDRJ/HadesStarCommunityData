@@ -5,7 +5,7 @@ title: Legionnaires
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (794)|
+| ELO Regular | 1175 🔻  (793)|
 | ELO Competitive | 1175 🔻  (883)|
 | Total Matches | 2 |
 | Wins | 0 |

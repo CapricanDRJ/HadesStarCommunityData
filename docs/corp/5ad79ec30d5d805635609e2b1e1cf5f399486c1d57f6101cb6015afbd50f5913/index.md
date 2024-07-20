@@ -5,8 +5,8 @@ title: 9-Й СКОРПИОН
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1398 🔺  (34)|
-| ELO Competitive | 1440 🔺  (52)|
+| ELO Regular | 1398 🔺  (35)|
+| ELO Competitive | 1440 🔺  (53)|
 | Total Matches | 30 |
 | Wins | 24 |
 | Losses | 6 |

@@ -5,7 +5,7 @@ title: Next Hyperion
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔻  (892)|
+| ELO Regular | 1168 🔻  (891)|
 | ELO Competitive | 1172 🔻  (917)|
 | Total Matches | 8 |
 | Wins | 2 |

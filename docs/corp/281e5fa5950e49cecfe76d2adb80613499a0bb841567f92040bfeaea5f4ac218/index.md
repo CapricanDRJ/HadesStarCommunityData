@@ -5,7 +5,7 @@ title: Quin Armarda
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1167 🔻  (894)|
+| ELO Regular | 1167 🔻  (893)|
 | ELO Competitive | 1172 🔻  (922)|
 | Total Matches | 2 |
 | Wins | 0 |

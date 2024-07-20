@@ -5,12 +5,13 @@ title: Серебряная орда
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1254 🔺  (199)|
-| ELO Competitive | 1462 🔺  (38)|
-| Total Matches | 70 |
-| Wins | 41 |
+| ELO Regular | 1259 🔺  (183)|
+| ELO Competitive | 1464 🔺  (38)|
+| Total Matches | 71 |
+| Wins | 42 |
 | Losses | 27 |
 | Draws | 2 |
+| Streak | 2 |
 | Streak Record | 6 |
 
 ### Recurring Opponents
@@ -31,6 +32,7 @@ title: Серебряная орда
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024-07-20 | 37-0 | [Space Pirates](https://ws.tsl.rocks/corp/87eff6e453b6f020baf8cb8930236b566161e22814cdbdc77d696c5812684bc6/) |
 | ✅ | 2024-07-14 | 38-3 | [Bund von Lykon](https://ws.tsl.rocks/corp/b1a267bb80dd695c75c1996122ff32ca8296c07874376131618d18b4fee0aa5c/) |
 | ❌ | 2024-07-07 | 1-6 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |
 | ✅ | 2024-07-07 | 29-0 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |

@@ -5,7 +5,7 @@ title: ua online
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (877)|
+| ELO Regular | 1169 🔻  (876)|
 | ELO Competitive | 1171 🔻  (933)|
 | Total Matches | 2 |
 | Wins | 0 |

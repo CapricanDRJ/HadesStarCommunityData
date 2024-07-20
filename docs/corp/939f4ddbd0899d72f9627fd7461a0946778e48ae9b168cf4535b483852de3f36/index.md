@@ -6,7 +6,7 @@ title: Thurn and Taxis
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1230 🔺  (278)|
-| ELO Competitive | 1230 🔺  (363)|
+| ELO Competitive | 1230 🔺  (362)|
 | Total Matches | 2 |
 | Wins | 2 |
 | Losses | 0 |

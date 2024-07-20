@@ -5,7 +5,7 @@ title: Gardiens détoil
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 🔻  (903)|
+| ELO Regular | 1165 🔻  (902)|
 | ELO Competitive | 1173 🔻  (909)|
 | Total Matches | 2 |
 | Wins | 0 |

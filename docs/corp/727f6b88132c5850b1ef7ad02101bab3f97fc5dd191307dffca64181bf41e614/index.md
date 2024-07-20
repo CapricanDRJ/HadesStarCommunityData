@@ -5,14 +5,14 @@ title: STRVS233～
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1237 🔺  (255)|
-| ELO Competitive | 1255 🔺  (292)|
-| Total Matches | 17 |
-| Wins | 10 |
+| ELO Regular | 1250 🔺  (206)|
+| ELO Competitive | 1269 🔺  (262)|
+| Total Matches | 18 |
+| Wins | 11 |
 | Losses | 7 |
 | Draws | 0 |
-| Streak | 3 |
-| Streak Record | 3 |
+| Streak | 4 |
+| Streak Record | 4 |
 
 ### Recurring Opponents
 
@@ -24,6 +24,7 @@ title: STRVS233～
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024-07-20 | 6-2 | [华夏三体舰队](https://ws.tsl.rocks/corp/a457b1d7612cdff92b655d33cf4ffd72b38aa796525cf0432423cfd0d01c6cf9/) |
 | ✅ | 2024-07-15 | 19-0 | [UNNP](https://ws.tsl.rocks/corp/c194ffe18357f9b24cb8d28b9ba0996dfafac36b31f7bfc69295f5bfd402cb41/) |
 | ✅ | 2024-07-10 | 20-0 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) |
 | ✅ | 2024-06-12 | 21-0 | [lesescargots](https://ws.tsl.rocks/corp/718c873931e9097064fd6ef580fe9d8761be712e0783e0b97d28344abd910623/) |

@@ -5,7 +5,7 @@ title: 风云集团
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (816)|
+| ELO Regular | 1173 🔻  (815)|
 | ELO Competitive | 1173 🔻  (908)|
 | Total Matches | 4 |
 | Wins | 1 |

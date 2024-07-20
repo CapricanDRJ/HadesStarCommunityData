@@ -5,7 +5,7 @@ title: 日中連合
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (798)|
+| ELO Regular | 1175 🔻  (797)|
 | ELO Competitive | 1176 🔻  (874)|
 | Total Matches | 2 |
 | Wins | 0 |

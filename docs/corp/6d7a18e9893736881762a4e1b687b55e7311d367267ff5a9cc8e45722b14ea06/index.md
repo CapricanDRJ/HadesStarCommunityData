@@ -5,8 +5,8 @@ title: U.S.A
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1162 🔻  (922)|
-| ELO Competitive | 1235 🔻  (346)|
+| ELO Regular | 1162 🔻  (921)|
+| ELO Competitive | 1235 🔻  (345)|
 | Total Matches | 21 |
 | Wins | 8 |
 | Losses | 13 |

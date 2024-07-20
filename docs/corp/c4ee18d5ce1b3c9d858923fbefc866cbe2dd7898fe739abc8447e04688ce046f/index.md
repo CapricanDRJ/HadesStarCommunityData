@@ -5,7 +5,7 @@ title: Phoenix Squad
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (887)|
+| ELO Regular | 1169 🔻  (886)|
 | ELO Competitive | 1172 🔻  (923)|
 | Total Matches | 4 |
 | Wins | 0 |

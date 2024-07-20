@@ -5,7 +5,7 @@ title: Avalanche 2.0
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (800)|
+| ELO Regular | 1174 🔻  (799)|
 | ELO Competitive | 1177 🔻  (866)|
 | Total Matches | 6 |
 | Wins | 2 |

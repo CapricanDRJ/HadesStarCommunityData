@@ -5,7 +5,7 @@ title: 星舰地球
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1177 🔺  (772)|
+| ELO Regular | 1177 🔺  (771)|
 | ELO Competitive | 1191 🔺  (604)|
 | Total Matches | 4 |
 | Wins | 1 |

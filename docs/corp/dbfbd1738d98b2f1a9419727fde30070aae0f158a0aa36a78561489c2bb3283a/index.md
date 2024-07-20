@@ -5,8 +5,8 @@ title: Green Dwarf
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1247 🔺  (214)|
-| ELO Competitive | 1262 🔺  (275)|
+| ELO Regular | 1247 🔺  (215)|
+| ELO Competitive | 1262 🔺  (276)|
 | Total Matches | 5 |
 | Wins | 4 |
 | Losses | 1 |

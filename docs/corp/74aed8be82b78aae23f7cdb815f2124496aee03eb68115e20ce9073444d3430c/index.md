@@ -5,7 +5,7 @@ title: Sad Panda 2.0
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1166 🔻  (897)|
+| ELO Regular | 1166 🔻  (896)|
 | ELO Competitive | 1169 🔻  (964)|
 | Total Matches | 7 |
 | Wins | 2 |

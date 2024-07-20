@@ -5,7 +5,7 @@ title: Covenant
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (825)|
+| ELO Regular | 1172 🔻  (824)|
 | ELO Competitive | 1187 🔻  (675)|
 | Total Matches | 2 |
 | Wins | 0 |

@@ -5,7 +5,7 @@ title: 666
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1177 🔻  (777)|
+| ELO Regular | 1177 🔻  (776)|
 | ELO Competitive | 1177 🔻  (863)|
 | Total Matches | 2 |
 | Wins | 0 |

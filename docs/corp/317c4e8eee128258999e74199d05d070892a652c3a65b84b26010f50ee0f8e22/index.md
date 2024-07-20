@@ -5,7 +5,7 @@ title: t 72 SwiftKey F
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1177 🔻  (774)|
+| ELO Regular | 1177 🔻  (773)|
 | ELO Competitive | 1183 🔻  (821)|
 | Total Matches | 13 |
 | Wins | 5 |

@@ -5,7 +5,7 @@ title: 数字星际集团
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (806)|
+| ELO Regular | 1174 🔻  (805)|
 | ELO Competitive | 1183 🔻  (827)|
 | Total Matches | 14 |
 | Wins | 6 |

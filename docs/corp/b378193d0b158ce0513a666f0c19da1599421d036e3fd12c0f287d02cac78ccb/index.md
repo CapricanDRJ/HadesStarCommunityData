@@ -5,7 +5,7 @@ title: StargateCommand
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 🔻  (905)|
+| ELO Regular | 1165 🔻  (904)|
 | ELO Competitive | 1167 🔻  (972)|
 | Total Matches | 3 |
 | Wins | 0 |

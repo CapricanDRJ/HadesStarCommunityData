@@ -6,7 +6,7 @@ title: Newbs
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1314 🔻  (98)|
-| ELO Competitive | 1364 🔻  (111)|
+| ELO Competitive | 1364 🔻  (112)|
 | Total Matches | 38 |
 | Wins | 26 |
 | Losses | 11 |

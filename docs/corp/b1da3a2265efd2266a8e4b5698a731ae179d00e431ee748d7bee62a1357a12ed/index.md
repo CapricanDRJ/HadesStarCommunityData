@@ -6,7 +6,7 @@ title: *Alfa y Omega*
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1266 🔺  (169)|
-| ELO Competitive | 1268 🔺  (262)|
+| ELO Competitive | 1268 🔺  (263)|
 | Total Matches | 10 |
 | Wins | 7 |
 | Losses | 3 |

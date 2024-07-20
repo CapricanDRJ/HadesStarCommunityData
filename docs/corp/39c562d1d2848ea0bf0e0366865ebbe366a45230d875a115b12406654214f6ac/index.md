@@ -5,7 +5,7 @@ title: 游徒训练营
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1164 🔻  (910)|
+| ELO Regular | 1164 🔻  (909)|
 | ELO Competitive | 1182 🔻  (837)|
 | Total Matches | 8 |
 | Wins | 2 |

@@ -5,8 +5,8 @@ title: Canada 55
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1235 🔺  (266)|
-| ELO Competitive | 1234 🔺  (349)|
+| ELO Regular | 1235 🔺  (267)|
+| ELO Competitive | 1234 🔺  (348)|
 | Total Matches | 2 |
 | Wins | 2 |
 | Losses | 0 |

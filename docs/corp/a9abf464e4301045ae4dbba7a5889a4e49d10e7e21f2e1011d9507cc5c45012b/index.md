@@ -6,7 +6,7 @@ title: Proteus Tech
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1263 🔻  (174)|
-| ELO Competitive | 1267 🔻  (263)|
+| ELO Competitive | 1267 🔻  (264)|
 | Total Matches | 7 |
 | Wins | 6 |
 | Losses | 1 |

@@ -5,7 +5,7 @@ title: X-wing
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1177 🔻  (773)|
+| ELO Regular | 1177 🔻  (772)|
 | ELO Competitive | 1177 🔻  (861)|
 | Total Matches | 1 |
 | Wins | 0 |

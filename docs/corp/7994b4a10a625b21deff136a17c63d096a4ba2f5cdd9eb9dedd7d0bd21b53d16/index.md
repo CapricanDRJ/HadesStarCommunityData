@@ -6,7 +6,7 @@ title: РусКорп
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1218 🔻  (322)|
-| ELO Competitive | 1263 🔻  (272)|
+| ELO Competitive | 1263 🔻  (273)|
 | Total Matches | 20 |
 | Wins | 11 |
 | Losses | 9 |

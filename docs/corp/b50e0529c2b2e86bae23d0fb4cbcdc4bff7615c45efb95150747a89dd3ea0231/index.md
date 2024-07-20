@@ -5,7 +5,7 @@ title: Star Fleet
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1167 🔻  (895)|
+| ELO Regular | 1167 🔻  (894)|
 | ELO Competitive | 1218 🔻  (409)|
 | Total Matches | 22 |
 | Wins | 7 |

@@ -6,7 +6,7 @@ title: Grunthal Gang
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1342 🔺  (70)|
-| ELO Competitive | 1444 🔺  (49)|
+| ELO Competitive | 1444 🔺  (50)|
 | Total Matches | 56 |
 | Wins | 34 |
 | Losses | 22 |

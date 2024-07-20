@@ -5,8 +5,8 @@ title:  星空漫游者-GR
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1234 🔺  (267)|
-| ELO Competitive | 1236 🔺  (343)|
+| ELO Regular | 1234 🔺  (268)|
+| ELO Competitive | 1236 🔺  (342)|
 | Total Matches | 4 |
 | Wins | 3 |
 | Losses | 1 |

@@ -5,7 +5,7 @@ title: FoxTale
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔻  (870)|
+| ELO Regular | 1170 🔻  (869)|
 | ELO Competitive | 1171 🔻  (943)|
 | Total Matches | 2 |
 | Wins | 0 |

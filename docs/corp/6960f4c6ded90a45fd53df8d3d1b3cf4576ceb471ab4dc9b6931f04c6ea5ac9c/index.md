@@ -6,7 +6,7 @@ title: 代代守护你的神明
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1225 🔺  (300)|
-| ELO Competitive | 1264 🔺  (268)|
+| ELO Competitive | 1264 🔺  (269)|
 | Total Matches | 12 |
 | Wins | 7 |
 | Losses | 5 |

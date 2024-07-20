@@ -5,7 +5,7 @@ title: SiriusStrawMoo
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔺  (848)|
+| ELO Regular | 1171 🔺  (847)|
 | ELO Competitive | 1175 🔺  (884)|
 | Total Matches | 4 |
 | Wins | 1 |

@@ -5,7 +5,7 @@ title: ES Gaming
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1235 🔻  (264)|
+| ELO Regular | 1235 🔻  (265)|
 | ELO Competitive | 1278 🔻  (238)|
 | Total Matches | 30 |
 | Wins | 16 |

@@ -5,8 +5,8 @@ title: 火洋之心
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1237 🔻  (256)|
-| ELO Competitive | 1239 🔻  (335)|
+| ELO Regular | 1237 🔻  (257)|
+| ELO Competitive | 1239 🔻  (334)|
 | Total Matches | 7 |
 | Wins | 4 |
 | Losses | 1 |

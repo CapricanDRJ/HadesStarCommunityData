@@ -6,7 +6,7 @@ title: 海賊ギルド
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1076 🔺  (1121)|
-| ELO Competitive | 1086 🔺  (1149)|
+| ELO Competitive | 1086 🔺  (1148)|
 | Total Matches | 22 |
 | Wins | 5 |
 | Losses | 17 |

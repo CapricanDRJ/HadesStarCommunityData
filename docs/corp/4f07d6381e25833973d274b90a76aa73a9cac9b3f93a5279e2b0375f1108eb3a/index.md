@@ -5,7 +5,7 @@ title: 三体舰队
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1164 🔻  (911)|
+| ELO Regular | 1164 🔻  (910)|
 | ELO Competitive | 1176 🔻  (878)|
 | Total Matches | 19 |
 | Wins | 8 |

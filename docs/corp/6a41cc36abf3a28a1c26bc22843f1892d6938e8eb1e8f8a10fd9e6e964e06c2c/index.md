@@ -5,7 +5,7 @@ title: Space Marshalls
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1249 🔻  (209)|
+| ELO Regular | 1249 🔻  (210)|
 | ELO Competitive | 1354 🔻  (120)|
 | Total Matches | 45 |
 | Wins | 28 |

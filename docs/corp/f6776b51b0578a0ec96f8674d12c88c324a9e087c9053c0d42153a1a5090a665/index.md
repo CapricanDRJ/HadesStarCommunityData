@@ -5,7 +5,7 @@ title: Гарри Поттер
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1257 🔺  (185)|
+| ELO Regular | 1257 🔺  (186)|
 | ELO Competitive | 1278 🔺  (241)|
 | Total Matches | 10 |
 | Wins | 7 |

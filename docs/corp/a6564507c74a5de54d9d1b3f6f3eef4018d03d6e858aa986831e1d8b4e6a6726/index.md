@@ -5,7 +5,7 @@ title: Neutro Corpo
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1163 🔻  (916)|
+| ELO Regular | 1163 🔻  (915)|
 | ELO Competitive | 1163 🔻  (995)|
 | Total Matches | 3 |
 | Wins | 0 |

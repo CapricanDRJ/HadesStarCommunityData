@@ -6,7 +6,7 @@ title: Дом Датэ
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1298 🔺  (124)|
-| ELO Competitive | 1362 🔺  (113)|
+| ELO Competitive | 1362 🔺  (114)|
 | Total Matches | 39 |
 | Wins | 22 |
 | Losses | 17 |
