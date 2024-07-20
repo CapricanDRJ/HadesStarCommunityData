@@ -13,6 +13,10 @@ Welcome to the Hades' Star Elo Rankings page. Here you can find the top corporat
 - [Top 100 Elo Ratings](top100.md)
 - [Top 100 Competitive Elo Ratings](comp100.md)
 
+## Corporation List
+
+- [Corporation Directory](corp/index.md)
+
 ## Resource Files
 
 - [White Star Matches (CSV)](https://github.com/CapricanDRJ/HadesStarCommunityData/blob/main/whitestar_matches.csv) - CSV format of white star matches data.
