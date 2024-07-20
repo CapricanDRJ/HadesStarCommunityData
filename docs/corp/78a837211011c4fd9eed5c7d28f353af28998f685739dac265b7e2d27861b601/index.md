@@ -17,6 +17,6 @@ title: Kiith Trollani
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
-| ❌ | 2023 11 17 | 0-6 | [边缘世界](https://ws.tsl.rocks/corp/6a0c2b263b0bfabc564979bce02c28c80aae497654fc10637ceb36d5447f6365/) |
+| ❌ | 2023/11/17 | 0-6 | [边缘世界](https://ws.tsl.rocks/corp/6a0c2b263b0bfabc564979bce02c28c80aae497654fc10637ceb36d5447f6365/) |
 
 Corporation ID: 78a837211011c4fd9eed5c7d28f353af28998f685739dac265b7e2d27861b601

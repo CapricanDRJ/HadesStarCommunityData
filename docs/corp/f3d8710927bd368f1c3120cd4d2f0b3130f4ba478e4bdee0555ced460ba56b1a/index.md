@@ -17,6 +17,6 @@ title: Gregycool
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
-| ❌ | 2023 12 18 | 3-12 | [Hungary First](https://ws.tsl.rocks/corp/d678326dd81ae0cf5b2bb37d15dcfe7fa1477dbb6e063fbd0d34c69b5942d31b/) |
+| ❌ | 2023/12/18 | 3-12 | [Hungary First](https://ws.tsl.rocks/corp/d678326dd81ae0cf5b2bb37d15dcfe7fa1477dbb6e063fbd0d34c69b5942d31b/) |
 
 Corporation ID: f3d8710927bd368f1c3120cd4d2f0b3130f4ba478e4bdee0555ced460ba56b1a

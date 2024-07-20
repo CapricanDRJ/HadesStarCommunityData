@@ -17,6 +17,6 @@ title: Back of the bus
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
-| ✅ | 2023 11 13 | 22-11 | [\*ПОБЕДА\*](https://ws.tsl.rocks/corp/c9344587a3a2eebd04e53ff77956ff301455851bee490e93f5b62d94bf0a6cb1/) |
+| ✅ | 2023/11/13 | 22-11 | [\*ПОБЕДА\*](https://ws.tsl.rocks/corp/c9344587a3a2eebd04e53ff77956ff301455851bee490e93f5b62d94bf0a6cb1/) |
 
 Corporation ID: d269bac96227b22639d016b35ca2d0ef85c03cdc5943bea3d21d2520b0159bf6

@@ -17,6 +17,6 @@ title: RDR2
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
-| ↔️ | 2024 01 02 | 3-3 | [Kelebra](https://ws.tsl.rocks/corp/0b1ce787fadd83433c02fb7f56a905ea64f918c1396ac37b8591891adf232eb6/) |
+| ↔️ | 2024/01/02 | 3-3 | [Kelebra](https://ws.tsl.rocks/corp/0b1ce787fadd83433c02fb7f56a905ea64f918c1396ac37b8591891adf232eb6/) |
 
 Corporation ID: 5deea0e4b08770c5b17ceff812d58a60a03c2734dc65de38966b4801fa8a14dd

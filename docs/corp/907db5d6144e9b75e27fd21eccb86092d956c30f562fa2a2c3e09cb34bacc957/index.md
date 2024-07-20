@@ -17,6 +17,6 @@ title: loveboat
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
-| ❌ | 2024 03 02 | 0-27 | [Orden Estelar ](https://ws.tsl.rocks/corp/1da0142a6cc2fcab35a82ff4d7b591f4ffa96761419c6bf39154afded7ef7c2d/) |
+| ❌ | 2024/03/02 | 0-27 | [Orden Estelar ](https://ws.tsl.rocks/corp/1da0142a6cc2fcab35a82ff4d7b591f4ffa96761419c6bf39154afded7ef7c2d/) |
 
 Corporation ID: 907db5d6144e9b75e27fd21eccb86092d956c30f562fa2a2c3e09cb34bacc957
