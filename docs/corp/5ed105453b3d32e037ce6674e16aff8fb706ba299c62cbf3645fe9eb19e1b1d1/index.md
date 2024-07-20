@@ -5,7 +5,7 @@ title: OntarioDynasty
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1159 🔻  (932)|
+| ELO Regular | 1159 🔻  (933)|
 | ELO Competitive | 1165 🔻  (985)|
 | Total Matches | 5 |
 | Wins | 1 |

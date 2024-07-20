@@ -6,7 +6,7 @@ title: Orden Estelar
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1207 🔺  (407)|
-| ELO Competitive | 1216 🔺  (430)|
+| ELO Competitive | 1216 🔺  (431)|
 | Total Matches | 15 |
 | Wins | 7 |
 | Losses | 7 |

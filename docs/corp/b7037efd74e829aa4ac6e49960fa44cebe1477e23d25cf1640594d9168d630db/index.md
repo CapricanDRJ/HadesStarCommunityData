@@ -5,13 +5,13 @@ title: Rising star
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1156 🔺  (956)|
-| ELO Competitive | 1212 🔺  (470)|
-| Total Matches | 43 |
-| Wins | 17 |
+| ELO Regular | 1160 🔺  (930)|
+| ELO Competitive | 1220 🔺  (395)|
+| Total Matches | 44 |
+| Wins | 18 |
 | Losses | 26 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 4 |
 
 ### Recurring Opponents
@@ -29,6 +29,7 @@ title: Rising star
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024-07-20 | 40-4 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) |
 | ✅ | 2024-07-13 | 37-2 | [The X \- Files](https://ws.tsl.rocks/corp/f13cb0ae2dbb0654a2067c8749f86bce49edc5b520bd391c7af11948f23a41fb/) |
 | ✅ | 2024-07-06 | 26-19 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) |
 | ❌ | 2024-06-29 | 17-35 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |

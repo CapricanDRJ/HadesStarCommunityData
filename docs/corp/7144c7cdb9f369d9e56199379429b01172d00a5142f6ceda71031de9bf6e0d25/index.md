@@ -6,7 +6,7 @@ title: JPR. Pretorians
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1155 🔻  (957)|
-| ELO Competitive | 1218 🔻  (408)|
+| ELO Competitive | 1218 🔻  (409)|
 | Total Matches | 15 |
 | Wins | 6 |
 | Losses | 9 |

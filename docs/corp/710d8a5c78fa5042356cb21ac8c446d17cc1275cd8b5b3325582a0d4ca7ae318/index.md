@@ -5,7 +5,7 @@ title: SONS OF SUNS
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔻  (948)|
+| ELO Regular | 1157 🔻  (949)|
 | ELO Competitive | 1158 🔻  (1020)|
 | Total Matches | 3 |
 | Wins | 0 |

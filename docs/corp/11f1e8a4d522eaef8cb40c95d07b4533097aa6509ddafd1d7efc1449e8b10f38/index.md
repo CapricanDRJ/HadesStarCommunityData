@@ -5,7 +5,7 @@ title: SternenStaub
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1158 🔻  (941)|
+| ELO Regular | 1158 🔻  (942)|
 | ELO Competitive | 1197 🔻  (567)|
 | Total Matches | 39 |
 | Wins | 19 |

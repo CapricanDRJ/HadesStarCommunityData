@@ -6,7 +6,7 @@ title: Nueva Hyperion
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1214 🔻  (359)|
-| ELO Competitive | 1219 🔻  (407)|
+| ELO Competitive | 1219 🔻  (408)|
 | Total Matches | 5 |
 | Wins | 3 |
 | Losses | 1 |

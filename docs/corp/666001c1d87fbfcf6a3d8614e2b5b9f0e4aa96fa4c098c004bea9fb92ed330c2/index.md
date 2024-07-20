@@ -6,7 +6,7 @@ title: Equinox
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1199 🔺  (452)|
-| ELO Competitive | 1215 🔺  (435)|
+| ELO Competitive | 1215 🔺  (436)|
 | Total Matches | 23 |
 | Wins | 10 |
 | Losses | 12 |

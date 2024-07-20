@@ -6,7 +6,7 @@ title: Aconitum
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1213 🔺  (375)|
-| ELO Competitive | 1214 🔺  (457)|
+| ELO Competitive | 1214 🔺  (458)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |

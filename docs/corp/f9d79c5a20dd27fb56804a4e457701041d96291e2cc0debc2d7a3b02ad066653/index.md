@@ -5,7 +5,7 @@ title: Monster AG
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1158 🔻  (943)|
+| ELO Regular | 1158 🔻  (944)|
 | ELO Competitive | 1158 🔻  (1021)|
 | Total Matches | 3 |
 | Wins | 0 |

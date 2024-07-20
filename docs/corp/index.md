@@ -568,7 +568,7 @@ title: Corporations
 | [ReylZ](./69a8a2b36262bc3c3dec3511df24b34329b82bdbe9813e845bf2365f9d0c7a74/index.md) | 1170 | 1175 | 2 |
 | [RGW](./48a0b2c0f203025d10d1217dbcc5e27f3e31f56f2c407d61219c24ec88446be7/index.md) | 1275 | 1289 | 16 |
 | [Richthofen](./e0208115ff38526d361b427f8dbd68002d9f4707960809ce5ec4ffc8d2389a18/index.md) | 1195 | 1198 | 2 |
-| [Rising star](./b7037efd74e829aa4ac6e49960fa44cebe1477e23d25cf1640594d9168d630db/index.md) | 1156 | 1212 | 43 |
+| [Rising star](./b7037efd74e829aa4ac6e49960fa44cebe1477e23d25cf1640594d9168d630db/index.md) | 1160 | 1220 | 44 |
 | [Rocket\-Babies](./727a416b3ce233d4879a14b8a78d7f0a310389efdaa43a0edea09bf96e6eadaf/index.md) | 1172 | 1173 | 2 |
 | [Rocket\-by Baby](./a125ad1d27fcc4c18515810a32c12d2d9465565ef75fa08ca2947dee52538313/index.md) | 1123 | 1135 | 6 |
 | [Rogue Corp](./6ad28ede21f9fa3aa044f0af41c7ed474fc432adf4ca1923fa02f6f9ded0028f/index.md) | 1055 | 1064 | 18 |
@@ -1002,7 +1002,7 @@ title: Corporations
 | [万星联盟](./d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/index.md) | 1324 | 1321 | 10 |
 | [三体舰队](./4f07d6381e25833973d274b90a76aa73a9cac9b3f93a5279e2b0375f1108eb3a/index.md) | 1164 | 1176 | 19 |
 | [专业间谍团队](./2e93c453822c84d64bf8ae81e68d3dee1ed7832ee77b50dd8762a572432896ad/index.md) | 1193 | 1194 | 1 |
-| [世外桃源](./7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/index.md) | 844 | 1045 | 82 |
+| [世外桃源](./7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/index.md) | 840 | 1037 | 83 |
 | [中华人民共和国](./ab0082c93c1e794e28a2fa7200079d42ee3bbc96a1aa1cc322cf1ad12404867c/index.md) | 1160 | 1162 | 3 |
 | [中国星系舰队](./5cc773684246e055601c9b0ca8200c1ca66a040c6e8cba90121f528cb792753a/index.md) | 1174 | 1201 | 7 |
 | [中国星系集团](./8521b52d3ab48b0685dcdae05e757436301fff9ecc1b4e9e96d1dba5736f894a/index.md) | 1287 | 1290 | 8 |

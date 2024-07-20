@@ -6,7 +6,7 @@ title: 宇宙联盟（中国）
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1099 🔺  (1094)|
-| ELO Competitive | 1218 🔺  (412)|
+| ELO Competitive | 1218 🔺  (413)|
 | Total Matches | 42 |
 | Wins | 12 |
 | Losses | 27 |

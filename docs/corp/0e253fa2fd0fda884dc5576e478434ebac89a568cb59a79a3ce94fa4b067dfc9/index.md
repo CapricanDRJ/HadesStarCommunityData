@@ -6,7 +6,7 @@ title: Darkest Hour
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1215 🔺  (345)|
-| ELO Competitive | 1220 🔺  (397)|
+| ELO Competitive | 1220 🔺  (398)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |

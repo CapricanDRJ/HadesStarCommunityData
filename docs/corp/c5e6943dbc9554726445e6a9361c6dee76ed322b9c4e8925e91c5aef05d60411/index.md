@@ -6,7 +6,7 @@ title: 銀河星际集团
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1213 🔺  (380)|
-| ELO Competitive | 1213 🔺  (468)|
+| ELO Competitive | 1213 🔺  (469)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |

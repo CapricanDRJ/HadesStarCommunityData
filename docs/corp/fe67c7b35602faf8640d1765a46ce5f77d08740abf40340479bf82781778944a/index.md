@@ -6,7 +6,7 @@ title: 水星联合组织
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1199 🔻  (456)|
-| ELO Competitive | 1213 🔻  (469)|
+| ELO Competitive | 1213 🔻  (470)|
 | Total Matches | 6 |
 | Wins | 3 |
 | Losses | 3 |

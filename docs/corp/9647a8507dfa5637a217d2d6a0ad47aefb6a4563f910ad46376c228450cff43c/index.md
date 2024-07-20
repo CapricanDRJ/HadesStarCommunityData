@@ -6,7 +6,7 @@ title: CTG
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1197 🔺  (471)|
-| ELO Competitive | 1220 🔺  (398)|
+| ELO Competitive | 1220 🔺  (399)|
 | Total Matches | 23 |
 | Wins | 10 |
 | Losses | 13 |

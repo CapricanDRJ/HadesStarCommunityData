@@ -5,7 +5,7 @@ title: 行星联合军
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔻  (947)|
+| ELO Regular | 1157 🔻  (948)|
 | ELO Competitive | 1171 🔻  (930)|
 | Total Matches | 15 |
 | Wins | 6 |

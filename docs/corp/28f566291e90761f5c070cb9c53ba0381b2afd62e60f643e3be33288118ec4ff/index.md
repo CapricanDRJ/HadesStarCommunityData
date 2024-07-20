@@ -5,7 +5,7 @@ title: Astra Ultima
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1159 🔻  (935)|
+| ELO Regular | 1159 🔻  (936)|
 | ELO Competitive | 1159 🔻  (1010)|
 | Total Matches | 3 |
 | Wins | 0 |
