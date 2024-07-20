@@ -6,7 +6,7 @@ title: Axiom
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1242 🔻  (233)|
-| ELO Competitive | 1436 🔺  (55)|
+| ELO Competitive | 1436 🔺  (56)|
 | Total Matches | 65 |
 | Wins | 41 |
 | Losses | 24 |

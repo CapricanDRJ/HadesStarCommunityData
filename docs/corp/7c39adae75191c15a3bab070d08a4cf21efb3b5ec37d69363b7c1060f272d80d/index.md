@@ -5,7 +5,7 @@ title: challenger corp
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1220 🔻  (314)|
+| ELO Regular | 1220 🔻  (313)|
 | ELO Competitive | 1243 🔻  (323)|
 | Total Matches | 16 |
 | Wins | 9 |

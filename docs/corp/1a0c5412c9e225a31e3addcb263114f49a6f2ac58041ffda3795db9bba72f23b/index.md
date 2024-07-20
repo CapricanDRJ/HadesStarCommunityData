@@ -5,7 +5,7 @@ title: Kratos
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1330 🔺  (81)|
+| ELO Regular | 1330 🔺  (82)|
 | ELO Competitive | 1407 🔺  (75)|
 | Total Matches | 52 |
 | Wins | 35 |

@@ -5,7 +5,7 @@ title: Furyans
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺  (331)|
+| ELO Regular | 1216 🔺  (330)|
 | ELO Competitive | 1216 🔺  (424)|
 | Total Matches | 1 |
 | Wins | 1 |

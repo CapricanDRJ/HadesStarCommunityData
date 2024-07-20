@@ -5,7 +5,7 @@ title: OntarioDistrict
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1213 🔻  (372)|
+| ELO Regular | 1213 🔻  (371)|
 | ELO Competitive | 1214 🔻  (456)|
 | Total Matches | 3 |
 | Wins | 2 |

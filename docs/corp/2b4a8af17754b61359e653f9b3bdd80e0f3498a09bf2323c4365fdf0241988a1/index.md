@@ -5,7 +5,7 @@ title: 对，进就进人少的
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1301 🔺  (122)|
+| ELO Regular | 1301 🔺  (121)|
 | ELO Competitive | 1408 🔺  (74)|
 | Total Matches | 61 |
 | Wins | 32 |

@@ -6,7 +6,7 @@ title: SpaceCowboys
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1288 🔻  (133)|
-| ELO Competitive | 1297 🔻  (204)|
+| ELO Competitive | 1297 🔻  (205)|
 | Total Matches | 18 |
 | Wins | 13 |
 | Losses | 5 |

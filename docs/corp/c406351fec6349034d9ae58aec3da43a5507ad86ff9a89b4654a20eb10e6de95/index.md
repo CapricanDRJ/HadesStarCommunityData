@@ -6,7 +6,7 @@ title: Альянс звезд
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1228 🔻  (287)|
-| ELO Competitive | 1228 🔻  (370)|
+| ELO Competitive | 1228 🔻  (369)|
 | Total Matches | 4 |
 | Wins | 3 |
 | Losses | 1 |

@@ -5,7 +5,7 @@ title: Rogue Hero's
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1211 🔺  (390)|
+| ELO Regular | 1211 🔺  (389)|
 | ELO Competitive | 1211 🔺  (477)|
 | Total Matches | 1 |
 | Wins | 1 |

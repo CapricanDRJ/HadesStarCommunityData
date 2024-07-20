@@ -5,7 +5,7 @@ title: Stella☆Glow
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1339 🔺  (73)|
+| ELO Regular | 1339 🔺  (74)|
 | ELO Competitive | 1368 🔺  (107)|
 | Total Matches | 37 |
 | Wins | 26 |

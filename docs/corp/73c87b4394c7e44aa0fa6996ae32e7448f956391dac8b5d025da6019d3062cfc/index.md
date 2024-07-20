@@ -5,7 +5,7 @@ title: The New Light
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1208 🔻  (403)|
+| ELO Regular | 1208 🔻  (402)|
 | ELO Competitive | 1256 🔻  (290)|
 | Total Matches | 35 |
 | Wins | 17 |

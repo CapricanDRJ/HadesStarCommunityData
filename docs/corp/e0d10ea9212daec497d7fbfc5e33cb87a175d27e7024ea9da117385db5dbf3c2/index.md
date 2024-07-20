@@ -5,7 +5,7 @@ title: OKC THUNDER
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔺  (357)|
+| ELO Regular | 1214 🔺  (356)|
 | ELO Competitive | 1216 🔺  (427)|
 | Total Matches | 3 |
 | Wins | 2 |

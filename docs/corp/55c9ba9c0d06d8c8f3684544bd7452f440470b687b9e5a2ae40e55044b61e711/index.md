@@ -5,7 +5,7 @@ title: BlakkFlot
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1219 🔻  (317)|
+| ELO Regular | 1219 🔻  (316)|
 | ELO Competitive | 1221 🔻  (392)|
 | Total Matches | 5 |
 | Wins | 3 |

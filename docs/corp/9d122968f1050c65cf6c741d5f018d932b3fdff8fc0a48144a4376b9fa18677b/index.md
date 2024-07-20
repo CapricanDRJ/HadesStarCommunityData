@@ -6,7 +6,7 @@ title: ANDROMEDA INC.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1420 🔺  (25)|
-| ELO Competitive | 1439 🔺  (53)|
+| ELO Competitive | 1439 🔺  (54)|
 | Total Matches | 22 |
 | Wins | 20 |
 | Losses | 1 |

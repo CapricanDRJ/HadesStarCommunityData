@@ -6,7 +6,7 @@ title: GermanIndustrie
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1283 🔺  (142)|
-| ELO Competitive | 1304 🔺  (194)|
+| ELO Competitive | 1304 🔺  (195)|
 | Total Matches | 11 |
 | Wins | 8 |
 | Losses | 2 |

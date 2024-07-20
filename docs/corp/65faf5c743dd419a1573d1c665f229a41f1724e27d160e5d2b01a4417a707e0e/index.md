@@ -5,8 +5,8 @@ title: *СССР*
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1256 🔺  (189)|
-| ELO Competitive | 1300 🔺  (199)|
+| ELO Regular | 1256 🔺  (190)|
+| ELO Competitive | 1300 🔺  (200)|
 | Total Matches | 37 |
 | Wins | 18 |
 | Losses | 18 |

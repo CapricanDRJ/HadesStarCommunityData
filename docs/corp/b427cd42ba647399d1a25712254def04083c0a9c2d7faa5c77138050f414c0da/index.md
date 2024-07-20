@@ -5,7 +5,7 @@ title: 墨痕白星分部
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1213 🔻  (378)|
+| ELO Regular | 1213 🔻  (377)|
 | ELO Competitive | 1281 🔻  (234)|
 | Total Matches | 16 |
 | Wins | 9 |

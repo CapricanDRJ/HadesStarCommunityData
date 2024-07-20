@@ -6,7 +6,7 @@ title: 하데스 스타 코리아
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1239 🔺  (250)|
-| ELO Competitive | 1307 🔺  (190)|
+| ELO Competitive | 1307 🔺  (191)|
 | Total Matches | 16 |
 | Wins | 9 |
 | Losses | 7 |

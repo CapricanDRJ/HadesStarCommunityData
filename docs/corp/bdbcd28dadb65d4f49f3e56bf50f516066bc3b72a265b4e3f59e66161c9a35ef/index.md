@@ -5,7 +5,7 @@ title: Intertwine
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1212 🔻  (380)|
+| ELO Regular | 1212 🔻  (379)|
 | ELO Competitive | 1216 🔻  (422)|
 | Total Matches | 3 |
 | Wins | 2 |

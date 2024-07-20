@@ -6,7 +6,7 @@ title: Корпорация Миф
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1303 🔺  (118)|
-| ELO Competitive | 1305 🔺  (191)|
+| ELO Competitive | 1305 🔺  (192)|
 | Total Matches | 8 |
 | Wins | 8 |
 | Losses | 0 |

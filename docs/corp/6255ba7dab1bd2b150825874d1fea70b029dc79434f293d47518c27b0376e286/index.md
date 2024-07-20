@@ -6,7 +6,7 @@ title: Space Penguins
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1394 🔺  (37)|
-| ELO Competitive | 1439 🔺  (52)|
+| ELO Competitive | 1439 🔺  (53)|
 | Total Matches | 45 |
 | Wins | 35 |
 | Losses | 10 |

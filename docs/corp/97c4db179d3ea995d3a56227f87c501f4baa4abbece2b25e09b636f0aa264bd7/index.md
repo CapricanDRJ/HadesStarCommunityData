@@ -5,7 +5,7 @@ title: BoomTech
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1331 🔻  (78)|
+| ELO Regular | 1331 🔻  (79)|
 | ELO Competitive | 1356 🔻  (117)|
 | Total Matches | 22 |
 | Wins | 17 |

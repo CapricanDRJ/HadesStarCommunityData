@@ -5,7 +5,7 @@ title: 绛紫星
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1251 🔺  (201)|
+| ELO Regular | 1251 🔺  (202)|
 | ELO Competitive | 1374 🔻  (102)|
 | Total Matches | 40 |
 | Wins | 23 |

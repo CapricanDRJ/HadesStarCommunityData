@@ -6,7 +6,7 @@ title: Internationals
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1272 🔺  (157)|
-| ELO Competitive | 1301 🔺  (198)|
+| ELO Competitive | 1301 🔺  (199)|
 | Total Matches | 21 |
 | Wins | 12 |
 | Losses | 9 |

@@ -5,7 +5,7 @@ title: 阿尔特拉太空港
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1215 🔺  (343)|
+| ELO Regular | 1215 🔺  (342)|
 | ELO Competitive | 1216 🔺  (429)|
 | Total Matches | 3 |
 | Wins | 2 |

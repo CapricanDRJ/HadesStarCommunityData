@@ -6,7 +6,7 @@ title: Orion
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1273 🔻  (155)|
-| ELO Competitive | 1300 🔻  (201)|
+| ELO Competitive | 1300 🔻  (202)|
 | Total Matches | 16 |
 | Wins | 12 |
 | Losses | 4 |

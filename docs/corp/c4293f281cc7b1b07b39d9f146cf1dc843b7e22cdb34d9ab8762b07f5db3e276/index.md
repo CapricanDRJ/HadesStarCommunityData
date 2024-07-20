@@ -5,7 +5,7 @@ title: united unicorn
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1219 🔺  (318)|
+| ELO Regular | 1219 🔺  (317)|
 | ELO Competitive | 1219 🔺  (400)|
 | Total Matches | 1 |
 | Wins | 1 |

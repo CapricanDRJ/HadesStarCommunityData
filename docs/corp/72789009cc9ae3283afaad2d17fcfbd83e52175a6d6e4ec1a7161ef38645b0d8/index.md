@@ -5,8 +5,8 @@ title: Red Alliance
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔻  (359)|
-| ELO Competitive | 1239 🔻  (334)|
+| ELO Regular | 1214 🔻  (358)|
+| ELO Competitive | 1239 🔻  (333)|
 | Total Matches | 10 |
 | Wins | 6 |
 | Losses | 4 |

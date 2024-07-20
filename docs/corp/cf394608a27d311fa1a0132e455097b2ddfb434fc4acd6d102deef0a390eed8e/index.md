@@ -5,7 +5,7 @@ title: Offshore Trash
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1219 🔻  (316)|
+| ELO Regular | 1219 🔻  (315)|
 | ELO Competitive | 1225 🔻  (379)|
 | Total Matches | 4 |
 | Wins | 2 |

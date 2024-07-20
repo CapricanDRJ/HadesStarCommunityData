@@ -5,7 +5,7 @@ title: Hexwood
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1248 🔺  (209)|
+| ELO Regular | 1248 🔺  (210)|
 | ELO Competitive | 1263 🔺  (273)|
 | Total Matches | 11 |
 | Wins | 7 |

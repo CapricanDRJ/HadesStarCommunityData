@@ -5,7 +5,7 @@ title:   边界
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1247 🔺  (213)|
+| ELO Regular | 1247 🔺  (214)|
 | ELO Competitive | 1257 🔺  (287)|
 | Total Matches | 5 |
 | Wins | 4 |

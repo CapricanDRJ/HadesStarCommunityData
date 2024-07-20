@@ -5,7 +5,7 @@ title: Tacitus
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺  (338)|
+| ELO Regular | 1216 🔺  (337)|
 | ELO Competitive | 1219 🔺  (404)|
 | Total Matches | 1 |
 | Wins | 1 |

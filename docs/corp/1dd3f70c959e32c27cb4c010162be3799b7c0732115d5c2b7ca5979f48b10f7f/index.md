@@ -5,12 +5,13 @@ title: 萌新的收留所
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1244 🔺  (228)|
-| ELO Competitive | 1297 🔺  (205)|
-| Total Matches | 10 |
-| Wins | 6 |
+| ELO Regular | 1258 🔺  (184)|
+| ELO Competitive | 1309 🔺  (188)|
+| Total Matches | 11 |
+| Wins | 7 |
 | Losses | 3 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 2 |
 
 
@@ -18,6 +19,7 @@ title: 萌新的收留所
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024-07-20 | 18-0 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |
 | ✅ | 2024-07-14 | 24-4 | [Saiyan Empire](https://ws.tsl.rocks/corp/6ce5e1ac078a6c9bcc97cd02556b9015bc614c88ed6a48e3681697c0beb4c164/) |
 | ❌ | 2024-07-09 | 0-14 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
 | ✅ | 2024-07-09 | 12-3 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |

@@ -5,7 +5,7 @@ title: 第四天灾
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1211 🔺  (387)|
+| ELO Regular | 1211 🔺  (386)|
 | ELO Competitive | 1215 🔺  (447)|
 | Total Matches | 1 |
 | Wins | 1 |

@@ -5,7 +5,7 @@ title: Hades Seminary
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1215 🔺  (341)|
+| ELO Regular | 1215 🔺  (340)|
 | ELO Competitive | 1218 🔺  (410)|
 | Total Matches | 3 |
 | Wins | 2 |

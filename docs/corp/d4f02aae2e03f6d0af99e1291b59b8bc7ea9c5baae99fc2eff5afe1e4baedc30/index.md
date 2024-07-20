@@ -5,7 +5,7 @@ title: 日月星辰
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔻  (364)|
+| ELO Regular | 1214 🔻  (363)|
 | ELO Competitive | 1220 🔻  (399)|
 | Total Matches | 3 |
 | Wins | 2 |

@@ -5,7 +5,7 @@ title: Black Star llc.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1333 🔺  (76)|
+| ELO Regular | 1333 🔺  (77)|
 | ELO Competitive | 1399 🔺  (82)|
 | Total Matches | 46 |
 | Wins | 31 |
