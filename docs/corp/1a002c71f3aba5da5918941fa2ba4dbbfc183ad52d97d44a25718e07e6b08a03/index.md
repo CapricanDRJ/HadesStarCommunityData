@@ -25,7 +25,7 @@ title: OntarioDawn
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-07-13 | 23-15 | [Grater T](https://ws.tsl.rocks/corp/2044ad2bb7831118aae299744191230a33d196c7997f9516a20c3d0a321ba669/) |
 | ✅ | 2024-07-06 | 30-5 | [Sternenflotte](https://ws.tsl.rocks/corp/c0e248ebf5fe5d7a10057e5c23341422b0d0bd0cc74c836d2d9835758cce6ec7/) |
 | ✅ | 2024-06-29 | 37-4 | [Pyke Syndicate](https://ws.tsl.rocks/corp/1761635d6aaf9c2caf7abc37130e2d9aa48e7b4cc753ae4b701fde4b48abd3e1/) |

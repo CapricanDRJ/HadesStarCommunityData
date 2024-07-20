@@ -23,7 +23,7 @@ title: Hungary First
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-07-17 | 13-0 | [Star Fleet](https://ws.tsl.rocks/corp/b50e0529c2b2e86bae23d0fb4cbcdc4bff7615c45efb95150747a89dd3ea0231/) |
 | ✅ | 2024-07-03 | 12-0 | [萌新的收留所](https://ws.tsl.rocks/corp/1dd3f70c959e32c27cb4c010162be3799b7c0732115d5c2b7ca5979f48b10f7f/) |
 | ✅ | 2024-06-19 | 6-1 | [The New Light](https://ws.tsl.rocks/corp/73c87b4394c7e44aa0fa6996ae32e7448f956391dac8b5d025da6019d3062cfc/) |

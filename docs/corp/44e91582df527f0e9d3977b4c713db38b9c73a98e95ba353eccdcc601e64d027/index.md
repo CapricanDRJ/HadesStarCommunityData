@@ -27,7 +27,7 @@ title: Stellar Exports
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-07-19 | 15-19 | [Red Dawn](https://ws.tsl.rocks/corp/fee852a2530bc5e3cbe5b2a5fdb224d249eeceeb3688cfd71479344181831328/) |
 | ✅ | 2024-07-19 | 25-0 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
 | ❌ | 2024-07-12 | 20-41 | [Emergence](https://ws.tsl.rocks/corp/1a1250d276bf9541252070bbee9c6b216c91b12a837aaa8a8e8a90f490940538/) |

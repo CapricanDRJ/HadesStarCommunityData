@@ -40,7 +40,7 @@ title: 六大天神
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-07-18 | 10-18 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) |
 | ❌ | 2024-07-16 | 11-35 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ❌ | 2024-07-13 | 2-10 | [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) |

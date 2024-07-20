@@ -6,7 +6,7 @@ title: *СССР*
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1256 🔺  (192)|
-| ELO Competitive | 1300 🔺  (199)|
+| ELO Competitive | 1300 🔺  (200)|
 | Total Matches | 37 |
 | Wins | 18 |
 | Losses | 18 |
@@ -27,7 +27,7 @@ title: *СССР*
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-07-19 | 20-9 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) |
 | ✅ | 2024-07-12 | 33-4 | [Gemini Ind\.](https://ws.tsl.rocks/corp/c85dd45ed75136d750bdcc2d83740494dea9e0ba077eac1bbb2f1a442a92674c/) |
 | ↔️ | 2024-07-05 | 15-15 | [Planet Express](https://ws.tsl.rocks/corp/be13b17a002cf203ab2a5a31d6c8024e7458b8eac569eb576be7f30844979c99/) |

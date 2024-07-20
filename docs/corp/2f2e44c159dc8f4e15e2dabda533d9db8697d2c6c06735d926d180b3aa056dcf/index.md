@@ -5,8 +5,8 @@ title: Angel Dragon
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1264 🔻  (173)|
-| ELO Competitive | 1300 🔻  (200)|
+| ELO Regular | 1264 🔻  (174)|
+| ELO Competitive | 1300 🔻  (201)|
 | Total Matches | 21 |
 | Wins | 12 |
 | Losses | 8 |
@@ -22,7 +22,7 @@ title: Angel Dragon
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-07-09 | 0-14 | [Star Destroyers](https://ws.tsl.rocks/corp/32ba20918cd8720602fefb3bc676a6ba5195314479040f70eadc728fbbc2698d/) |
 | ✅ | 2024-06-26 | 14-0 | [神圣罗马帝国](https://ws.tsl.rocks/corp/2a71af44aaef82175cd8dfd86c9e3f218a438a7c7e748bae20d8a0d964a984ab/) |
 | ✅ | 2024-06-13 | 15-4 | [Dumpster Fire 2](https://ws.tsl.rocks/corp/37d473dec00d4d68e29963e3b423670aac735e7c1f256276e6c2e7d62180b0f8/) |

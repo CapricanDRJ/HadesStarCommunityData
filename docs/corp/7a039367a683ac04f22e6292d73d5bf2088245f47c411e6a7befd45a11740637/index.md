@@ -5,8 +5,8 @@ title: Elite2.0
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔻  (891)|
-| ELO Competitive | 1183 🔻  (819)|
+| ELO Regular | 1168 🔻  (890)|
+| ELO Competitive | 1183 🔻  (818)|
 | Total Matches | 5 |
 | Wins | 1 |
 | Losses | 3 |
@@ -16,7 +16,7 @@ title: Elite2.0
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2023-12-30 | 0-17 | [하데스 스타 코리아](https://ws.tsl.rocks/corp/36ae3ca01b555bd695500062530b53a2b19cc9d4bab087051ea8775124723e94/) |
 | ❌ | 2023-12-23 | 6-8 | [ShadowSpaceCult](https://ws.tsl.rocks/corp/2a0dfd09353bfa78a5958fa753f7a17a2e76ea4fcb92a2c6a860eae24cde03d6/) |
 | ✅ | 2023-12-19 | 2-0 | [苏维埃联邦](https://ws.tsl.rocks/corp/4b067d39aa68bf846ec24a1af1a1038844cfa78699d1190f74a77b1745e148ac/) |

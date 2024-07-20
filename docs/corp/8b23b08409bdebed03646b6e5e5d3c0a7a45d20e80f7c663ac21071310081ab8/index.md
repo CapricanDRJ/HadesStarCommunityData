@@ -6,7 +6,7 @@ title: BR Gear
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1181 🔻  (756)|
-| ELO Competitive | 1193 🔻  (588)|
+| ELO Competitive | 1193 🔻  (587)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |
@@ -16,7 +16,7 @@ title: BR Gear
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-05-09 | 0-25 | [Dumpster Fire 2](https://ws.tsl.rocks/corp/37d473dec00d4d68e29963e3b423670aac735e7c1f256276e6c2e7d62180b0f8/) |
 | ❌ | 2024-05-09 | 0-41 | [Spica​](https://ws.tsl.rocks/corp/df96d6d34c4906312183050c8aa7a502678ab2902b7c23112aa9fda827bb4191/) |
 

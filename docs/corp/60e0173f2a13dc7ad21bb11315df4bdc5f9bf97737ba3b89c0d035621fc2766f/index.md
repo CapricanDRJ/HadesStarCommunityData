@@ -6,7 +6,7 @@ title: SILVER TERRA
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1245 🔺  (223)|
-| ELO Competitive | 1257 🔺  (286)|
+| ELO Competitive | 1257 🔺  (285)|
 | Total Matches | 16 |
 | Wins | 9 |
 | Losses | 7 |
@@ -17,7 +17,7 @@ title: SILVER TERRA
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-07-15 | 13-0 | [1st/Ave/Junkie2](https://ws.tsl.rocks/corp/b129b678cd83374fa72b5da92172ff1c856b8f72c32bcdb4711d66d06528fca1/) |
 | ❌ | 2024-07-10 | 1-30 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) |
 | ❌ | 2024-07-03 | 3-23 | [Stone Legion](https://ws.tsl.rocks/corp/60cd15c27192f777f2e4abc413a83d4ab33bbccd7764a387afd2347dcd3d751a/) |

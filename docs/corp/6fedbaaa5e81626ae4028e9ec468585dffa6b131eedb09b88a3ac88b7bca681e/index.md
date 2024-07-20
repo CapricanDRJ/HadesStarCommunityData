@@ -5,7 +5,7 @@ title: BattleCo
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1236 🔻  (262)|
+| ELO Regular | 1236 🔻  (261)|
 | ELO Competitive | 1285 🔻  (226)|
 | Total Matches | 35 |
 | Wins | 21 |
@@ -29,7 +29,7 @@ title: BattleCo
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-06-14 | 8-38 | [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) |
 | ❌ | 2024-06-05 | 6-58 | [Auscorp ](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) |
 | ❌ | 2024-05-21 | 4-35 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) |

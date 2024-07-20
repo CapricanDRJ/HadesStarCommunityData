@@ -6,7 +6,7 @@ title: Lacuna Holdings
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1255 🔻  (195)|
-| ELO Competitive | 1299 🔻  (202)|
+| ELO Competitive | 1299 🔻  (203)|
 | Total Matches | 33 |
 | Wins | 21 |
 | Losses | 12 |
@@ -24,7 +24,7 @@ title: Lacuna Holdings
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-07-13 | 11-31 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | ❌ | 2024-07-04 | 13-39 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |
 | ❌ | 2024-06-21 | 4-37 | [Starsailors](https://ws.tsl.rocks/corp/1ffdd1012b5d4a4aca2e0e34e2653630706b779eead835c61c2c715e4df17a1f/) |

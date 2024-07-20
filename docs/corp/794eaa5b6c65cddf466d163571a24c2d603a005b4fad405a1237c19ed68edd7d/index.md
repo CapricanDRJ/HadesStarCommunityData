@@ -6,7 +6,7 @@ title: Blackwater co.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (644)|
-| ELO Competitive | 1185 🔻  (749)|
+| ELO Competitive | 1185 🔻  (748)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 1 |
@@ -16,7 +16,7 @@ title: Blackwater co.
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-06-16 | 0-18 | [德意志阿尔法帝国](https://ws.tsl.rocks/corp/b67013faae09f023e7b6100ac659b8f6d1793c27ff7e42a5dfc6494fd64bf2c4/) |
 | ↔️ | 2023-11-17 | 0-0 | [Rzeczypospolita](https://ws.tsl.rocks/corp/669a044e2d8e476c293b7bdc70511065849ca26356c1f3062cc7570251459d6b/) |
 

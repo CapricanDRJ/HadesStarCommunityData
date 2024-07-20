@@ -6,7 +6,7 @@ title: On en a Gros !
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1196 🔻  (476)|
-| ELO Competitive | 1325 🔻  (162)|
+| ELO Competitive | 1325 🔻  (163)|
 | Total Matches | 47 |
 | Wins | 23 |
 | Losses | 24 |
@@ -25,7 +25,7 @@ title: On en a Gros !
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-06-02 | 19-32 | [Soylent Corp\.](https://ws.tsl.rocks/corp/9f978f9cca690b76981d538d63260cd39d51427e5d69412113ccad02cc7cac2d/) |
 | ❌ | 2024-05-25 | 6-30 | [Lights Off ](https://ws.tsl.rocks/corp/8a8b7e5b7a00ef709249daa4546d03bd85258cde01d35e1829a64ed95c3d6cca/) |
 | ❌ | 2024-05-18 | 9-38 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) |

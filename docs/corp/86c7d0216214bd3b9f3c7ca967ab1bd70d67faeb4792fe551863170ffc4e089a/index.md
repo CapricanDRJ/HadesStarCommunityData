@@ -6,7 +6,7 @@ title:   边界
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1247 🔺  (214)|
-| ELO Competitive | 1257 🔺  (288)|
+| ELO Competitive | 1257 🔺  (287)|
 | Total Matches | 5 |
 | Wins | 4 |
 | Losses | 1 |
@@ -18,7 +18,7 @@ title:   边界
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-07-17 | 17-1 | [The New Light](https://ws.tsl.rocks/corp/73c87b4394c7e44aa0fa6996ae32e7448f956391dac8b5d025da6019d3062cfc/) |
 | ✅ | 2024-07-11 | 24-18 | [六大天神\.轻歌之影](https://ws.tsl.rocks/corp/558304186ed78398ff16afe6f1f2909cee69fe56f1e3ee787d023cffa6999b3b/) |
 | ✅ | 2024-07-03 | 11-6 | [Jalisco México](https://ws.tsl.rocks/corp/495236ab2171ccbcdad0da5529f080405b1ddd081eda98c7255a8cffe5b114e4/) |

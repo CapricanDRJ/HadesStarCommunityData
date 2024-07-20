@@ -16,7 +16,7 @@ title: Gold Star
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-07-02 | 2-0 | [Casual Joe](https://ws.tsl.rocks/corp/e1c03f1f49b5c4811c4b06c5e55361f2e824f95b24421bee6204708d4106b6c7/) |
 | ❌ | 2024-06-05 | 0-8 | [Hungary First](https://ws.tsl.rocks/corp/d678326dd81ae0cf5b2bb37d15dcfe7fa1477dbb6e063fbd0d34c69b5942d31b/) |
 | ❌ | 2024-05-14 | 0-16 | [2ND\-R8 Corp\.](https://ws.tsl.rocks/corp/e97866623598a98454b3a4724b472dc171f5e1aff84b076c43d021f0fabdc702/) |

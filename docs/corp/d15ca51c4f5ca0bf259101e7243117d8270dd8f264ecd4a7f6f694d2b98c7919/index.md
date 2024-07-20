@@ -6,7 +6,7 @@ title: WSC(no DISCORD)
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1275 🔺  (152)|
-| ELO Competitive | 1326 🔺  (160)|
+| ELO Competitive | 1326 🔺  (161)|
 | Total Matches | 31 |
 | Wins | 17 |
 | Losses | 13 |
@@ -28,7 +28,7 @@ title: WSC(no DISCORD)
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-07-15 | 9-8 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
 | ✅ | 2024-07-08 | 8-3 | [宇宙银河帝国](https://ws.tsl.rocks/corp/afb9817e45c3c79048d2be30be3b635704485d260ae7b474b579a019d56d3c2d/) |
 | ✅ | 2024-07-02 | 18-0 | [荣耀之星](https://ws.tsl.rocks/corp/4334fd4d4ffbc89487deaec7bb38025aba46209b810578436882be271fdbff23/) |

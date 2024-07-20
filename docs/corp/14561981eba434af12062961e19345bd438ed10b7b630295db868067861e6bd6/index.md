@@ -6,7 +6,7 @@ title: Russia
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔻  (709)|
-| ELO Competitive | 1186 🔻  (695)|
+| ELO Competitive | 1186 🔻  (694)|
 | Total Matches | 5 |
 | Wins | 2 |
 | Losses | 3 |
@@ -16,7 +16,7 @@ title: Russia
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-03-29 | 10-22 | [lonewolf](https://ws.tsl.rocks/corp/216c1ab0bb2cbf918019c0a38a37820a9d5d78d7c5801983ed6e3b17bebdc5f3/) |
 | ✅ | 2024-03-22 | 20-17 | [Рейнджеры](https://ws.tsl.rocks/corp/be4fa226820fee3399eb064ac8c0d05395ffa93e1c21dbb47d4708dfb0bc9347/) |
 | ❌ | 2024-02-27 | 5-9 | [Spaceballs](https://ws.tsl.rocks/corp/1e54a7ba8156a65b15f7f1358b682a10f856acb0f96d9e3b582c4ea175905839/) |

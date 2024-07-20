@@ -5,7 +5,7 @@ title: Nooooobs
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1161 🔻  (924)|
+| ELO Regular | 1161 🔻  (923)|
 | ELO Competitive | 1160 🔻  (1006)|
 | Total Matches | 7 |
 | Wins | 2 |
@@ -17,7 +17,7 @@ title: Nooooobs
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-01-13 | 0-35 | [Legion Prime](https://ws.tsl.rocks/corp/4ec84e26e7ede18156541503f057342cbe9ac9ef9e53c7dbae99993832da067e/) |
 | ❌ | 2023-12-23 | 3-12 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) |
 | ❌ | 2023-12-16 | 0-25 | [ANDROMEDA INC\. ](https://ws.tsl.rocks/corp/9d122968f1050c65cf6c741d5f018d932b3fdff8fc0a48144a4376b9fa18677b/) |

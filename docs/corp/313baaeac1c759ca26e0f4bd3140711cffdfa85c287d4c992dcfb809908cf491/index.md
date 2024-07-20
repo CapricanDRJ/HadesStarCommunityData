@@ -5,8 +5,8 @@ title: Legion
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1228 🔻  (286)|
-| ELO Competitive | 1324 🔻  (164)|
+| ELO Regular | 1228 🔻  (285)|
+| ELO Competitive | 1324 🔻  (165)|
 | Total Matches | 43 |
 | Wins | 21 |
 | Losses | 22 |
@@ -28,7 +28,7 @@ title: Legion
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-07-12 | 62-64 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) |
 | ✅ | 2024-07-06 | 13-0 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) |
 | ❌ | 2024-06-30 | 17-35 | [Stargate Corp](https://ws.tsl.rocks/corp/b698cd0d86be60954a4b995f79fffe102a71c350e47fbdc2a5827f0ed0ca455d/) |

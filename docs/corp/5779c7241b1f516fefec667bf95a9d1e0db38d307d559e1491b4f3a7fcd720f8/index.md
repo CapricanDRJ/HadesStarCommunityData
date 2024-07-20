@@ -5,7 +5,7 @@ title: Zeta LLC
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1266 🔻  (168)|
+| ELO Regular | 1266 🔻  (169)|
 | ELO Competitive | 1270 🔻  (260)|
 | Total Matches | 9 |
 | Wins | 7 |
@@ -17,7 +17,7 @@ title: Zeta LLC
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-06-14 | 5-12 | [Industrial W\.O](https://ws.tsl.rocks/corp/99a4ba88f6a620cb9ea1da456127c978a858ffbda4e40b255fcf3365515da25d/) |
 | ✅ | 2024-04-12 | 19-5 | [Space Marshalls](https://ws.tsl.rocks/corp/6a41cc36abf3a28a1c26bc22843f1892d6938e8eb1e8f8a10fd9e6e964e06c2c/) |
 | ✅ | 2023-12-09 | 18-1 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |

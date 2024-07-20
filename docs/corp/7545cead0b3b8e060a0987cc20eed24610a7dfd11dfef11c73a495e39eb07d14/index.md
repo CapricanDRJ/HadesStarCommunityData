@@ -6,7 +6,7 @@ title: Hand of Legion
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1244 🔻  (228)|
-| ELO Competitive | 1247 🔻  (312)|
+| ELO Competitive | 1247 🔻  (311)|
 | Total Matches | 5 |
 | Wins | 4 |
 | Losses | 1 |
@@ -17,7 +17,7 @@ title: Hand of Legion
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-03-10 | 4-25 | [Черный Легион](https://ws.tsl.rocks/corp/af3427036ba655aaea1af0c704240800cc2def44f43c06d558d9cc1ec8bcbc7b/) |
 | ✅ | 2024-02-12 | 15-1 | [Hungary First](https://ws.tsl.rocks/corp/d678326dd81ae0cf5b2bb37d15dcfe7fa1477dbb6e063fbd0d34c69b5942d31b/) |
 | ✅ | 2024-02-01 | 10-1 | [ES Gaming ](https://ws.tsl.rocks/corp/1bbc4390e9fa60fe312b23c8fa8d8f9eb499307607a4c3304e33bd05bd58f981/) |

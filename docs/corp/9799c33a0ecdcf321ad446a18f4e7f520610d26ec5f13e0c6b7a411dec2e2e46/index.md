@@ -6,7 +6,7 @@ title: Weyland Yutani
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1138 🔺  (1020)|
-| ELO Competitive | 1251 🔺  (304)|
+| ELO Competitive | 1251 🔺  (303)|
 | Total Matches | 37 |
 | Wins | 12 |
 | Losses | 22 |
@@ -25,7 +25,7 @@ title: Weyland Yutani
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-07-19 | 3-0 | [Stars](https://ws.tsl.rocks/corp/0e1b189f1119cbc08c19cd3809191c65df5fe40514444e31217a0a3611fd8ec3/) |
 | ❌ | 2024-07-14 | 0-15 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) |
 | ✅ | 2024-07-08 | 2-0 | [以太超星团](https://ws.tsl.rocks/corp/327addf616128dc5b01013e29e850c76d22ae27af199bcc6bba3b92cee7818ae/) |

@@ -6,7 +6,7 @@ title: Got Nothing
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1240 🔺  (244)|
-| ELO Competitive | 1254 🔺  (295)|
+| ELO Competitive | 1254 🔺  (294)|
 | Total Matches | 20 |
 | Wins | 12 |
 | Losses | 8 |
@@ -17,7 +17,7 @@ title: Got Nothing
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-07-06 | 33-3 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) |
 | ❌ | 2024-06-21 | 23-37 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) |
 | ❌ | 2024-06-01 | 21-29 | [Albedo](https://ws.tsl.rocks/corp/8e9848f9867c594384d6a31618213447f358c7b308fee91d20991b80b513fdbb/) |

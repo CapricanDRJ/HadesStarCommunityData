@@ -6,7 +6,7 @@ title: Polaris Corpo
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1239 🔻  (248)|
-| ELO Competitive | 1254 🔻  (294)|
+| ELO Competitive | 1254 🔻  (293)|
 | Total Matches | 10 |
 | Wins | 7 |
 | Losses | 3 |
@@ -22,7 +22,7 @@ title: Polaris Corpo
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-07-08 | 3-17 | [lost souls](https://ws.tsl.rocks/corp/64cf1f6ce9001bcd1d03fd1aaecafc1b7d88cd36316892a52a1b19d5e85bd793/) |
 | ✅ | 2024-06-19 | 36-0 | [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) |
 | ❌ | 2024-04-12 | 6-18 | [Gemini Ind\.](https://ws.tsl.rocks/corp/c85dd45ed75136d750bdcc2d83740494dea9e0ba077eac1bbb2f1a442a92674c/) |

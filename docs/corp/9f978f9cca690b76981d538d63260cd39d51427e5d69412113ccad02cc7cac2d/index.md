@@ -5,7 +5,7 @@ title: Soylent Corp.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1265 🔻  (170)|
+| ELO Regular | 1265 🔻  (171)|
 | ELO Competitive | 1313 🔻  (185)|
 | Total Matches | 33 |
 | Wins | 22 |
@@ -27,7 +27,7 @@ title: Soylent Corp.
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-06-29 | 7-32 | [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/) |
 | ❌ | 2024-06-22 | 6-26 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 | ✅ | 2024-06-15 | 21-20 | [Space Marshalls](https://ws.tsl.rocks/corp/6a41cc36abf3a28a1c26bc22843f1892d6938e8eb1e8f8a10fd9e6e964e06c2c/) |

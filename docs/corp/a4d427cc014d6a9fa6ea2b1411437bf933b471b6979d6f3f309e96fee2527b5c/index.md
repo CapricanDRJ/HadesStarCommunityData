@@ -5,7 +5,7 @@ title: Redd Armada
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1272 🔻  (158)|
+| ELO Regular | 1272 🔻  (159)|
 | ELO Competitive | 1286 🔻  (224)|
 | Total Matches | 10 |
 | Wins | 8 |
@@ -17,7 +17,7 @@ title: Redd Armada
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-05-20 | 6-17 | [한국인](https://ws.tsl.rocks/corp/f2b2c144f02ec69dfe3bd7fb8d4d1db10d7e3954a2f45937f16daafb0266490e/) |
 | ✅ | 2024-05-03 | 14-9 | [Dumpster Fire 2](https://ws.tsl.rocks/corp/37d473dec00d4d68e29963e3b423670aac735e7c1f256276e6c2e7d62180b0f8/) |
 | ✅ | 2024-04-18 | 8-5 | [羽共和体](https://ws.tsl.rocks/corp/61b6e0502a087307a2ecf50e5d84f6123ad19984dc5790c997f16a676213aa7e/) |

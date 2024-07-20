@@ -5,7 +5,7 @@ title: UFO
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1226 🔻  (295)|
+| ELO Regular | 1226 🔻  (294)|
 | ELO Competitive | 1232 🔻  (355)|
 | Total Matches | 7 |
 | Wins | 4 |
@@ -17,7 +17,7 @@ title: UFO
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-03-01 | 2-34 | [Gemini Ind\.](https://ws.tsl.rocks/corp/c85dd45ed75136d750bdcc2d83740494dea9e0ba077eac1bbb2f1a442a92674c/) |
 | ✅ | 2024-02-23 | 15-2 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 | ❌ | 2024-02-16 | 8-10 | [두빛나래](https://ws.tsl.rocks/corp/f2ff8c6a1035943d6dbff4062b4546ac2e3c7b2185b1bd986aec34256c2edb7f/) |

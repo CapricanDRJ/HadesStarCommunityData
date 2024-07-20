@@ -5,7 +5,7 @@ title: Imperium XIII
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1237 🔻  (260)|
+| ELO Regular | 1237 🔻  (259)|
 | ELO Competitive | 1273 🔻  (251)|
 | Total Matches | 44 |
 | Wins | 24 |
@@ -31,7 +31,7 @@ title: Imperium XIII
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-07-20 | 20-21 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | ❌ | 2024-07-12 | 29-38 | [VoidCorp](https://ws.tsl.rocks/corp/b866417e5607f8434347bb5f986e37c4fa7dda68b3882f0135d186043d3f68a3/) |
 | ❌ | 2024-07-06 | 13-23 | [ANDROMEDA INC\. ](https://ws.tsl.rocks/corp/9d122968f1050c65cf6c741d5f018d932b3fdff8fc0a48144a4376b9fa18677b/) |

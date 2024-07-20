@@ -5,8 +5,8 @@ title: ANZAC Warriors
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1288 🔻  (135)|
-| ELO Competitive | 1302 🔻  (196)|
+| ELO Regular | 1288 🔻  (136)|
+| ELO Competitive | 1302 🔻  (197)|
 | Total Matches | 22 |
 | Wins | 16 |
 | Losses | 5 |
@@ -23,7 +23,7 @@ title: ANZAC Warriors
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-05-24 | 6-26 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) |
 | ❌ | 2024-05-03 | 28-38 | [Спутник](https://ws.tsl.rocks/corp/0ae15c4db6dc8c3f4bf3eb6aa93bffd4ea9281b06b721ab103c0078646bfe58c/) |
 | ❌ | 2024-03-22 | 29-34 | [DTC](https://ws.tsl.rocks/corp/4be10b4fa74e6bc45ea50d720527bec8db0312f419a419f203b09350d663c755/) |

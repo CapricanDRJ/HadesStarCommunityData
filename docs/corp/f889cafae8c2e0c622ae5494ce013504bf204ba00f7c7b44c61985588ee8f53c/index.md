@@ -5,7 +5,7 @@ title: Dark Training
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔺  (254)|
+| ELO Regular | 1238 🔺  (253)|
 | ELO Competitive | 1276 🔺  (245)|
 | Total Matches | 24 |
 | Wins | 12 |
@@ -22,7 +22,7 @@ title: Dark Training
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-07-16 | 9-1 | [Spaceballs](https://ws.tsl.rocks/corp/1e54a7ba8156a65b15f7f1358b682a10f856acb0f96d9e3b582c4ea175905839/) |
 | ❌ | 2024-07-08 | 13-21 | [Embers Rising](https://ws.tsl.rocks/corp/30173fb6f0cf7a6d78f30c60350646ad6bc0d667a14854bdc9abbc19cd7d0327/) |
 | ✅ | 2024-06-28 | 28-0 | [Utd\. Human Fed\.](https://ws.tsl.rocks/corp/265fd73116c2ec237c7a966adb401d54219dee49882ee9024025c697165397d6/) |

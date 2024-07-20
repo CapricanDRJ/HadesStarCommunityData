@@ -5,7 +5,7 @@ title: 三体舰队
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1164 🔻  (911)|
+| ELO Regular | 1164 🔻  (910)|
 | ELO Competitive | 1176 🔻  (879)|
 | Total Matches | 19 |
 | Wins | 8 |
@@ -22,7 +22,7 @@ title: 三体舰队
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-07-10 | 0-28 | [Z\. O\. V\. ](https://ws.tsl.rocks/corp/4f56534357f2407b25faee160f9dca4ee83b8f9ca4425ba472a47298faf54096/) |
 | ❌ | 2024-06-26 | 0-7 | [Star Fleet](https://ws.tsl.rocks/corp/b50e0529c2b2e86bae23d0fb4cbcdc4bff7615c45efb95150747a89dd3ea0231/) |
 | ❌ | 2024-06-13 | 0-2 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |

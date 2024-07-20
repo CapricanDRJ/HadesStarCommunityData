@@ -5,7 +5,7 @@ title: Titan Corp.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1233 🔻  (270)|
+| ELO Regular | 1233 🔻  (269)|
 | ELO Competitive | 1315 🔻  (183)|
 | Total Matches | 39 |
 | Wins | 22 |
@@ -27,7 +27,7 @@ title: Titan Corp.
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-07-17 | 7-43 | [Auscorp ](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) |
 | ❌ | 2024-06-21 | 23-26 | [Gummibärenbande](https://ws.tsl.rocks/corp/7111d11716d236254b3fe2fdc0df09519cbed1ee9cc2c7691983534a3d8e1366/) |
 | ✅ | 2024-06-10 | 26-23 | [Stargate Corp](https://ws.tsl.rocks/corp/b698cd0d86be60954a4b995f79fffe102a71c350e47fbdc2a5827f0ed0ca455d/) |

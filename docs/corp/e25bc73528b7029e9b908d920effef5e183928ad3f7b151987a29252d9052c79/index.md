@@ -5,7 +5,7 @@ title: phoenix clan
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔺  (253)|
+| ELO Regular | 1238 🔺  (252)|
 | ELO Competitive | 1239 🔺  (333)|
 | Total Matches | 5 |
 | Wins | 4 |
@@ -18,7 +18,7 @@ title: phoenix clan
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-02-20 | 20-10 | [Mandalorians](https://ws.tsl.rocks/corp/c02d28803fca7e05e20ff959e4809e2b387097a58bbc34432aacbbeb01b6d81c/) |
 | ✅ | 2024-02-10 | 16-1 | [水晶星际集团](https://ws.tsl.rocks/corp/6390d7a4666ac4537ef5eacf76dd1c2f34548cc588aac8dad423c308ad1c0f3d/) |
 | ❌ | 2024-01-06 | 5-6 | [R\-6 satalite](https://ws.tsl.rocks/corp/ce3450a529768e932b3aeb4c6f39b9295e6e07d010b209d0120c0125799adc43/) |

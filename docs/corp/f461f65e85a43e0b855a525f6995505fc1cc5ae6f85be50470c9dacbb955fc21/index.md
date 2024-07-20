@@ -5,7 +5,7 @@ title: Cowboys
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1163 🔻  (917)|
+| ELO Regular | 1163 🔻  (916)|
 | ELO Competitive | 1166 🔺  (978)|
 | Total Matches | 18 |
 | Wins | 6 |
@@ -17,7 +17,7 @@ title: Cowboys
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ↔️ | 2024-05-06 | 0-0 | [咕咕咕咕咕咕咕咕咕咕咕咕咕咕咕](https://ws.tsl.rocks/corp/038bc19b50c066831931ddd822ae2c29f8d40279e3ef920b8574839c6e3ab35d/) |
 | ❌ | 2024-04-08 | 2-5 | [三体舰队](https://ws.tsl.rocks/corp/4f07d6381e25833973d274b90a76aa73a9cac9b3f93a5279e2b0375f1108eb3a/) |
 | ❌ | 2024-03-24 | 1-8 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |

@@ -6,7 +6,7 @@ title: the heavy
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1225 🔻  (298)|
-| ELO Competitive | 1246 🔻  (314)|
+| ELO Competitive | 1246 🔻  (313)|
 | Total Matches | 19 |
 | Wins | 10 |
 | Losses | 9 |
@@ -25,7 +25,7 @@ title: the heavy
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-07-05 | 22-25 | [Hermitage](https://ws.tsl.rocks/corp/b8b6a62ede93951a04bdabd85b532c38d42d8c8b95165f8d4b14e0fd48a021ee/) |
 | ✅ | 2024-06-29 | 44-0 | [Anla'Shok](https://ws.tsl.rocks/corp/ee2d5a60dee46a98f5178e2807099ebca3c64db7a1fd052df34812d6d88e52a1/) |
 | ✅ | 2024-06-14 | 34-6 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |

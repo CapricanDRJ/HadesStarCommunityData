@@ -5,7 +5,7 @@ title: SYNDICATE
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1271 🔺  (159)|
+| ELO Regular | 1271 🔺  (160)|
 | ELO Competitive | 1271 🔺  (255)|
 | Total Matches | 5 |
 | Wins | 5 |
@@ -18,7 +18,7 @@ title: SYNDICATE
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2023-11-29 | 18-14 | [First Squad](https://ws.tsl.rocks/corp/39bb6d19385b7eb6e2e71a979f21256463432b6e2e36ae4c55446abb1f6a0db1/) |
 | ✅ | 2023-11-21 | 23-8 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) |
 | ✅ | 2023-11-16 | 22-10 | [华夏舰队](https://ws.tsl.rocks/corp/abd6d05a100ffdde2d15abd725a209bfbbf069b60b10ddeac88e88da66191472/) |

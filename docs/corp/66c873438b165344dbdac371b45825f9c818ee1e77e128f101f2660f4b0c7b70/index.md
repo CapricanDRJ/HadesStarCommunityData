@@ -6,7 +6,7 @@ title: Free Ag3nts
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1245 🔺  (220)|
-| ELO Competitive | 1252 🔺  (300)|
+| ELO Competitive | 1252 🔺  (299)|
 | Total Matches | 3 |
 | Wins | 3 |
 | Losses | 0 |
@@ -18,7 +18,7 @@ title: Free Ag3nts
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-07-03 | 36-6 | [Space Pirate](https://ws.tsl.rocks/corp/c53a5b62ce014a3f8a43f939efe551e00570a16721213c1318ff4c9ea503cfec/) |
 | ✅ | 2024-05-23 | 31-12 | [Dumpster Fire 2](https://ws.tsl.rocks/corp/37d473dec00d4d68e29963e3b423670aac735e7c1f256276e6c2e7d62180b0f8/) |
 | ✅ | 2024-05-17 | 30-4 | [Orden Estelar ](https://ws.tsl.rocks/corp/1da0142a6cc2fcab35a82ff4d7b591f4ffa96761419c6bf39154afded7ef7c2d/) |

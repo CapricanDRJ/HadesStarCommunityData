@@ -5,7 +5,7 @@ title: СлАвЯнСкИй СоЮз
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1228 🔻  (290)|
+| ELO Regular | 1228 🔻  (289)|
 | ELO Competitive | 1231 🔻  (359)|
 | Total Matches | 11 |
 | Wins | 7 |
@@ -17,7 +17,7 @@ title: СлАвЯнСкИй СоЮз
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-02-06 | 1-7 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ❌ | 2024-01-30 | 4-24 | [Quilliance](https://ws.tsl.rocks/corp/6a4f8febc4066842f85c0373a0d33b6501860f2cc4f61b64761d31ff472c28fe/) |
 | ✅ | 2024-01-17 | 14-3 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |

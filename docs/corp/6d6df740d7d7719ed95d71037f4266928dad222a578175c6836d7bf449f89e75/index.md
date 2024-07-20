@@ -5,7 +5,7 @@ title: Majapahit
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1268 🔺  (164)|
+| ELO Regular | 1268 🔺  (165)|
 | ELO Competitive | 1276 🔺  (247)|
 | Total Matches | 7 |
 | Wins | 6 |
@@ -18,7 +18,7 @@ title: Majapahit
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-05-12 | 25-4 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ✅ | 2024-04-24 | 29-8 | [Legion Prime](https://ws.tsl.rocks/corp/4ec84e26e7ede18156541503f057342cbe9ac9ef9e53c7dbae99993832da067e/) |
 | ✅ | 2024-01-13 | 27-0 | [Peak Extraction](https://ws.tsl.rocks/corp/b656a84b60d6de62745eb9059a703b44cca76b6247beeceef5f856f89e4c2d0d/) |

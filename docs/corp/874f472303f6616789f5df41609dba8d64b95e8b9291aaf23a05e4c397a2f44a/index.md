@@ -5,7 +5,7 @@ title: SUN OF 3LANDS
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1269 🔺  (162)|
+| ELO Regular | 1269 🔺  (163)|
 | ELO Competitive | 1280 🔺  (236)|
 | Total Matches | 10 |
 | Wins | 7 |
@@ -18,7 +18,7 @@ title: SUN OF 3LANDS
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-07-13 | 18-2 | [华夏三体舰队](https://ws.tsl.rocks/corp/a457b1d7612cdff92b655d33cf4ffd72b38aa796525cf0432423cfd0d01c6cf9/) |
 | ✅ | 2024-06-28 | 27-16 | [Eretria ](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |
 | ❌ | 2024-06-20 | 11-17 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |

@@ -6,7 +6,7 @@ title: GDZ
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1242 🔺  (234)|
-| ELO Competitive | 1293 🔺  (212)|
+| ELO Competitive | 1293 🔺  (213)|
 | Total Matches | 55 |
 | Wins | 30 |
 | Losses | 25 |
@@ -29,7 +29,7 @@ title: GDZ
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-07-16 | 23-20 | [KLM](https://ws.tsl.rocks/corp/963e490e64d4703042415d3fcd8267ff87fbfd3383b83d447d29d842f2a446a1/) |
 | ✅ | 2024-07-10 | 24-17 | [Hades Academy](https://ws.tsl.rocks/corp/b40bd030900afebcbf4508c3b1174e2e80edcc628e6b72357b1571568d0872e3/) |
 | ✅ | 2024-07-05 | 21-8 | [Spica​](https://ws.tsl.rocks/corp/df96d6d34c4906312183050c8aa7a502678ab2902b7c23112aa9fda827bb4191/) |

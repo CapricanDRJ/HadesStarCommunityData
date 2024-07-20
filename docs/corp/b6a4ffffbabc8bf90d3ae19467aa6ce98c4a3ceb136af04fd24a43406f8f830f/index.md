@@ -6,7 +6,7 @@ title: 아베노노
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1191 🔻  (506)|
-| ELO Competitive | 1192 🔻  (596)|
+| ELO Competitive | 1192 🔻  (595)|
 | Total Matches | 5 |
 | Wins | 2 |
 | Losses | 2 |
@@ -17,7 +17,7 @@ title: 아베노노
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-01-14 | 3-6 | [V0RTEX](https://ws.tsl.rocks/corp/22a12c757b3e065e8ec7a839b80e33339317bb277aeee145f6cde6f473e06f8f/) |
 | ❌ | 2023-12-31 | 2-6 | [Utd\. Human Fed\.](https://ws.tsl.rocks/corp/265fd73116c2ec237c7a966adb401d54219dee49882ee9024025c697165397d6/) |
 | ✅ | 2023-12-24 | 6-0 | [苏维埃联邦](https://ws.tsl.rocks/corp/4b067d39aa68bf846ec24a1af1a1038844cfa78699d1190f74a77b1745e148ac/) |

@@ -6,7 +6,7 @@ title: The 501st
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1181 🔻  (751)|
-| ELO Competitive | 1189 🔻  (633)|
+| ELO Competitive | 1189 🔻  (632)|
 | Total Matches | 8 |
 | Wins | 3 |
 | Losses | 5 |
@@ -17,7 +17,7 @@ title: The 501st
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-03-13 | 0-27 | [Bunker](https://ws.tsl.rocks/corp/583eeb4aaa577ce5d9806fc637f83d7c02b2a29fa2d47eb38fd658be8ef93588/) |
 | ❌ | 2024-02-28 | 0-30 | [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1/) |
 | ❌ | 2024-02-14 | 0-16 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |

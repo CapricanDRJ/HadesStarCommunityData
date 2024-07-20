@@ -6,7 +6,7 @@ title: tropa (BR)
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1181 🔻  (755)|
-| ELO Competitive | 1190 🔻  (623)|
+| ELO Competitive | 1190 🔻  (622)|
 | Total Matches | 18 |
 | Wins | 7 |
 | Losses | 9 |
@@ -22,7 +22,7 @@ title: tropa (BR)
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-06-18 | 3-27 | [Osmium Star llc](https://ws.tsl.rocks/corp/edd3ac94ea8ee1cf441e904ff29c48c21fa5db83af6eb5a6e83ae236b3872b22/) |
 | ✅ | 2024-06-04 | 10-2 | [以太超星团](https://ws.tsl.rocks/corp/327addf616128dc5b01013e29e850c76d22ae27af199bcc6bba3b92cee7818ae/) |
 | ❌ | 2024-05-28 | 5-15 | [lesescargots](https://ws.tsl.rocks/corp/718c873931e9097064fd6ef580fe9d8761be712e0783e0b97d28344abd910623/) |

@@ -5,7 +5,7 @@ title: Elite
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1158 🔻  (940)|
+| ELO Regular | 1158 🔻  (939)|
 | ELO Competitive | 1159 🔻  (1010)|
 | Total Matches | 5 |
 | Wins | 1 |
@@ -16,7 +16,7 @@ title: Elite
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2023-11-30 | 3-13 | [Зелёная корпа](https://ws.tsl.rocks/corp/978fbb6cb32789d7057450a2239b1d6e2bc7730bbdd832f816384d45ec44ac57/) |
 | ❌ | 2023-11-24 | 11-26 | [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) |
 | ❌ | 2023-11-19 | 6-19 | [Торг\. федерация](https://ws.tsl.rocks/corp/915f197e5951f44128c2a3d3126141cd44b3c67a361158d2b220a5883e410310/) |

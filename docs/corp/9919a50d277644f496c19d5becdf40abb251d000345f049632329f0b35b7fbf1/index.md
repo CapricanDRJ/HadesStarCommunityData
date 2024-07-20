@@ -6,7 +6,7 @@ title: Unión latina
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1254 🔻  (199)|
-| ELO Competitive | 1321 🔻  (172)|
+| ELO Competitive | 1321 🔻  (173)|
 | Total Matches | 44 |
 | Wins | 25 |
 | Losses | 19 |
@@ -28,7 +28,7 @@ title: Unión latina
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-07-14 | 3-35 | [Bl@ck/Galaxy ](https://ws.tsl.rocks/corp/76f8fe0dcd8b8c1cb8e0083f14c0b36c23bb9757a3af0f191b567774c02222a3/) |
 | ✅ | 2024-07-08 | 17-1 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ❌ | 2024-07-02 | 0-26 | [Spaceballs](https://ws.tsl.rocks/corp/1e54a7ba8156a65b15f7f1358b682a10f856acb0f96d9e3b582c4ea175905839/) |

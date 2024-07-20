@@ -6,7 +6,7 @@ title: The Star League
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1147 🔻  (982)|
-| ELO Competitive | 1189 🔻  (632)|
+| ELO Competitive | 1189 🔻  (631)|
 | Total Matches | 15 |
 | Wins | 5 |
 | Losses | 10 |
@@ -22,7 +22,7 @@ title: The Star League
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-07-14 | 4-28 | [Spacefleet](https://ws.tsl.rocks/corp/517f7b257f68936f7a95a478d6923776a2549b88897bae628fd35b23572d3cbd/) |
 | ✅ | 2024-06-29 | 28-9 | [DTC](https://ws.tsl.rocks/corp/4be10b4fa74e6bc45ea50d720527bec8db0312f419a419f203b09350d663c755/) |
 | ❌ | 2024-06-02 | 12-33 | [Crazy Elite](https://ws.tsl.rocks/corp/ef64e9014b773074470ead0907b9c122bf6bda753de1cddfa01e95a00e9d47dc/) |

@@ -5,7 +5,7 @@ title: GalaxyNova
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1269 🔺  (160)|
+| ELO Regular | 1269 🔺  (161)|
 | ELO Competitive | 1282 🔺  (232)|
 | Total Matches | 9 |
 | Wins | 7 |
@@ -17,7 +17,7 @@ title: GalaxyNova
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-07-05 | 32-0 | [1st/Ave/Junkie2](https://ws.tsl.rocks/corp/b129b678cd83374fa72b5da92172ff1c856b8f72c32bcdb4711d66d06528fca1/) |
 | ❌ | 2024-06-25 | 17-35 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) |
 | ✅ | 2024-06-01 | 17-9 | [Mass Effect](https://ws.tsl.rocks/corp/6f715653bec3925d9c3acd7c2388fe8e1c79332146894ed424f57bd2636de8c7/) |

@@ -6,7 +6,7 @@ title: Space Force
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1170 🔻  (871)|
-| ELO Competitive | 1189 🔻  (640)|
+| ELO Competitive | 1189 🔻  (639)|
 | Total Matches | 6 |
 | Wins | 1 |
 | Losses | 3 |
@@ -16,7 +16,7 @@ title: Space Force
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-04-24 | 0-2 | [Weyland Yutani ](https://ws.tsl.rocks/corp/9799c33a0ecdcf321ad446a18f4e7f520610d26ec5f13e0c6b7a411dec2e2e46/) |
 | ❌ | 2024-04-17 | 3-4 | [避难所](https://ws.tsl.rocks/corp/e2cec33caaaef7f020ed5fb31cb29a2804d8b5ab3a781ab69b08fadac88f7102/) |
 | ❌ | 2024-04-16 | 0-102 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) |

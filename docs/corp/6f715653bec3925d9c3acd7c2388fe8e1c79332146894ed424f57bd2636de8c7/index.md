@@ -6,7 +6,7 @@ title: Mass Effect
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1216 🔺  (333)|
-| ELO Competitive | 1258 🔺  (285)|
+| ELO Competitive | 1258 🔺  (284)|
 | Total Matches | 36 |
 | Wins | 19 |
 | Losses | 16 |
@@ -24,7 +24,7 @@ title: Mass Effect
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-07-16 | 11-9 | [Greek Warriors](https://ws.tsl.rocks/corp/0ebbf2228c6b86ec5117c216d8909c8e6f32f1a59b8f9b586bcdbbb85f603bc6/) |
 | ❌ | 2024-07-10 | 31-40 | [NERF TOY'S](https://ws.tsl.rocks/corp/34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0/) |
 | ❌ | 2024-07-04 | 6-24 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |

@@ -6,7 +6,7 @@ title: YETI Collective
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1089 🔻  (1107)|
-| ELO Competitive | 1191 🔻  (609)|
+| ELO Competitive | 1191 🔻  (608)|
 | Total Matches | 47 |
 | Wins | 18 |
 | Losses | 29 |
@@ -25,7 +25,7 @@ title: YETI Collective
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-07-13 | 23-47 | [BRhue](https://ws.tsl.rocks/corp/cf382c812409b617906f693517aebeee55e827f37c20a515ff23810e49d6310d/) |
 | ✅ | 2024-07-06 | 25-5 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) |
 | ❌ | 2024-06-29 | 11-51 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) |

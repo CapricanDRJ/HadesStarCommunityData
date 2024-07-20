@@ -6,7 +6,7 @@ title: Seila
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔻  (723)|
-| ELO Competitive | 1188 🔻  (652)|
+| ELO Competitive | 1188 🔻  (651)|
 | Total Matches | 10 |
 | Wins | 4 |
 | Losses | 5 |
@@ -17,7 +17,7 @@ title: Seila
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-04-25 | 6-33 | [Planet Express](https://ws.tsl.rocks/corp/be13b17a002cf203ab2a5a31d6c8024e7458b8eac569eb576be7f30844979c99/) |
 | ✅ | 2024-03-19 | 9-3 | [Created](https://ws.tsl.rocks/corp/04182a4606d981d1c410b0c058248e428765c672442d912ec47218ace9004e74/) |
 | ↔️ | 2024-02-22 | 4-4 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |

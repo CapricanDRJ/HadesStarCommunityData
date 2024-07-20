@@ -6,7 +6,7 @@ title: MÉXICO INFINITO
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1158 🔺  (944)|
-| ELO Competitive | 1254 🔺  (293)|
+| ELO Competitive | 1254 🔺  (292)|
 | Total Matches | 36 |
 | Wins | 15 |
 | Losses | 21 |
@@ -24,7 +24,7 @@ title: MÉXICO INFINITO
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-07-11 | 10-6 | [Quin Armarda](https://ws.tsl.rocks/corp/281e5fa5950e49cecfe76d2adb80613499a0bb841567f92040bfeaea5f4ac218/) |
 | ✅ | 2024-07-05 | 4-3 | [Север РусКорп](https://ws.tsl.rocks/corp/39eeae12a2a5fead3330938b8f38c71aab465634b732303dad7b2a7d5f472004/) |
 | ❌ | 2024-07-04 | 0-11 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |

@@ -5,7 +5,7 @@ title: 火洋之心
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1237 🔻  (257)|
+| ELO Regular | 1237 🔻  (256)|
 | ELO Competitive | 1239 🔻  (334)|
 | Total Matches | 7 |
 | Wins | 4 |
@@ -17,7 +17,7 @@ title: 火洋之心
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-07-02 | 0-5 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
 | ✅ | 2024-02-19 | 7-0 | [Oficina Tuga](https://ws.tsl.rocks/corp/2fff67029125a29f7fa3252e0f8387f3ae93c6c59bd05d358723e02f3199db72/) |
 | ↔️ | 2024-02-14 | 8-8 | [The Foundation](https://ws.tsl.rocks/corp/279f86b28e83ff2e41b798bf93f59b0803e62aecd6e7f0caa5c8be3efecf8728/) |

@@ -5,8 +5,8 @@ title: 星海扬帆
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1228 🔺  (287)|
-| ELO Competitive | 1330 🔺  (154)|
+| ELO Regular | 1228 🔺  (286)|
+| ELO Competitive | 1330 🔺  (155)|
 | Total Matches | 32 |
 | Wins | 17 |
 | Losses | 15 |
@@ -23,7 +23,7 @@ title: 星海扬帆
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-07-16 | 12-7 | [OTRSᗜωO](https://ws.tsl.rocks/corp/07ebeb2216e39f25d78a6634970c057fd0a406375ce0734173bceace5a7af1eb/) |
 | ✅ | 2024-07-08 | 10-0 | [Weyland Yutani ](https://ws.tsl.rocks/corp/9799c33a0ecdcf321ad446a18f4e7f520610d26ec5f13e0c6b7a411dec2e2e46/) |
 | ✅ | 2024-07-07 | 11-2 | [神圣罗马帝国](https://ws.tsl.rocks/corp/2a71af44aaef82175cd8dfd86c9e3f218a438a7c7e748bae20d8a0d964a984ab/) |

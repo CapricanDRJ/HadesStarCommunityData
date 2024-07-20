@@ -6,7 +6,7 @@ title: 혁명군
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1115 🔻  (1078)|
-| ELO Competitive | 1248 🔺  (308)|
+| ELO Competitive | 1248 🔺  (307)|
 | Total Matches | 45 |
 | Wins | 13 |
 | Losses | 32 |
@@ -26,7 +26,7 @@ title: 혁명군
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-05-07 | 0-53 | [VoidCorp](https://ws.tsl.rocks/corp/b866417e5607f8434347bb5f986e37c4fa7dda68b3882f0135d186043d3f68a3/) |
 | ✅ | 2024-05-07 | 23-5 | [Quilliance](https://ws.tsl.rocks/corp/6a4f8febc4066842f85c0373a0d33b6501860f2cc4f61b64761d31ff472c28fe/) |
 | ✅ | 2024-04-27 | 30-6 | [Space Pirates](https://ws.tsl.rocks/corp/87eff6e453b6f020baf8cb8930236b566161e22814cdbdc77d696c5812684bc6/) |

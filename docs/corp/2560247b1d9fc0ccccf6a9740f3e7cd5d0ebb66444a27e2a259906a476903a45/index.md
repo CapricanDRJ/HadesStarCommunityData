@@ -6,7 +6,7 @@ title: Revólver
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1169 🔻  (879)|
-| ELO Competitive | 1189 🔻  (646)|
+| ELO Competitive | 1189 🔻  (645)|
 | Total Matches | 20 |
 | Wins | 8 |
 | Losses | 12 |
@@ -23,7 +23,7 @@ title: Revólver
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-03-07 | 7-23 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | ❌ | 2024-02-24 | 23-28 | [BRASIL STAR](https://ws.tsl.rocks/corp/94fc4639f17e4503a11d4ac3878f3203bca3f21baebf285433ff39ad37f0fff2/) |
 | ❌ | 2024-02-17 | 4-26 | [GDZ](https://ws.tsl.rocks/corp/a04890160268d05cf11f997b0a1c724fbbcfa66b2ea4cb1c4b56ca18d0425d62/) |

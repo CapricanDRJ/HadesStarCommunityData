@@ -6,7 +6,7 @@ title: Ark Summit
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1326 🔺  (87)|
-| ELO Competitive | 1332 🔺  (151)|
+| ELO Competitive | 1332 🔺  (152)|
 | Total Matches | 10 |
 | Wins | 10 |
 | Losses | 0 |
@@ -18,7 +18,7 @@ title: Ark Summit
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-07-19 | 44-4 | [Polish Pirates](https://ws.tsl.rocks/corp/e73d410a73bca6a1161056891e484b32cac940c0d94d20c92ed085683524652b/) |
 | ✅ | 2024-03-25 | 30-14 | [Moon Catchers](https://ws.tsl.rocks/corp/0625bb885137c3824ac346b97780181e23ee84562237eb345baa364f8d7d3c43/) |
 | ✅ | 2024-03-05 | 49-27 | [Crux Cadre](https://ws.tsl.rocks/corp/41cdba59897d5e01412601b648c1a692368d92c198123f9ab442f2a23464b375/) |

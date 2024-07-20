@@ -6,7 +6,7 @@ title: Quantum Web
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1189 🔺  (529)|
-| ELO Competitive | 1191 🔺  (613)|
+| ELO Competitive | 1191 🔺  (612)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 1 |
@@ -16,7 +16,7 @@ title: Quantum Web
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ↔️ | 2024-06-08 | 2-2 | [koalition](https://ws.tsl.rocks/corp/68d721684ab83df28cba0a58c608e5dd3c58df79369abffa67da4e8956ef2695/) |
 | ❌ | 2024-05-31 | 0-11 | [第四星际](https://ws.tsl.rocks/corp/42d38d5f95c493cb1822f0c89a5366e532a9dc30c0019e03cf7ddd280bf55040/) |
 

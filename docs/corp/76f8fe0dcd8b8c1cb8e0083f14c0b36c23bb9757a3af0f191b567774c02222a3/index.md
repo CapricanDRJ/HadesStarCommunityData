@@ -5,14 +5,14 @@ title: Bl@ck/Galaxy
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1282 🔺  (144)|
-| ELO Competitive | 1319 🔺  (175)|
-| Total Matches | 28 |
-| Wins | 14 |
+| ELO Regular | 1295 🔺  (129)|
+| ELO Competitive | 1332 🔺  (151)|
+| Total Matches | 29 |
+| Wins | 15 |
 | Losses | 13 |
 | Draws | 1 |
-| Streak | 4 |
-| Streak Record | 4 |
+| Streak | 5 |
+| Streak Record | 5 |
 
 ### Recurring Opponents
 
@@ -26,7 +26,8 @@ title: Bl@ck/Galaxy
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
+| ✅ | 2024-07-20 | 22-7 | [Helion Prime](https://ws.tsl.rocks/corp/1a09ce5efe86add0a6f0344bc2a12e27c898c0d21641a3f29a450c6d4c4db3f2/) |
 | ✅ | 2024-07-14 | 35-3 | [Unión latina](https://ws.tsl.rocks/corp/9919a50d277644f496c19d5becdf40abb251d000345f049632329f0b35b7fbf1/) |
 | ✅ | 2024-07-06 | 20-14 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) |
 | ✅ | 2024-06-29 | 30-3 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |

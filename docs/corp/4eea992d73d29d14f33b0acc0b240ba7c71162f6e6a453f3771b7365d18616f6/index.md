@@ -6,7 +6,7 @@ title: 柯伊伯带伊甸园
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1312 🔻  (102)|
-| ELO Competitive | 1326 🔻  (161)|
+| ELO Competitive | 1326 🔻  (162)|
 | Total Matches | 11 |
 | Wins | 10 |
 | Losses | 1 |
@@ -17,7 +17,7 @@ title: 柯伊伯带伊甸园
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-07-11 | 3-23 | [AFronteiraFinal](https://ws.tsl.rocks/corp/f0c64a4babe1fb017902406f1f331c63129409bccfba868cadc10cf1d064b9d4/) |
 | ✅ | 2024-07-03 | 10-1 | [Poggy Rockers](https://ws.tsl.rocks/corp/47aeb151232251d9e53310e21f1290b1240c63878169968847bd1e89efc909a7/) |
 | ✅ | 2024-06-22 | 16-1 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |

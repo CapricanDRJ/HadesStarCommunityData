@@ -5,7 +5,7 @@ title: Венерский Союз
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1166 🔻  (902)|
+| ELO Regular | 1166 🔻  (901)|
 | ELO Competitive | 1171 🔻  (940)|
 | Total Matches | 15 |
 | Wins | 5 |
@@ -21,7 +21,7 @@ title: Венерский Союз
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-05-18 | 3-7 | [Ninth Planet](https://ws.tsl.rocks/corp/53297ed66c8c326d4cb4eebdee55172d3d64f122addd5d916b314f4ab557e21a/) |
 | ✅ | 2024-05-13 | 10-2 | [Gastro](https://ws.tsl.rocks/corp/97fa80cbbd78ba0187b5fe3310f441eae5bae995b37c17cd740f62a630d8303e/) |
 | ❌ | 2024-05-08 | 3-4 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) |

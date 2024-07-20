@@ -6,7 +6,7 @@ title: Sternenflotte
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1190 🔻  (513)|
-| ELO Competitive | 1247 🔻  (309)|
+| ELO Competitive | 1247 🔻  (308)|
 | Total Matches | 34 |
 | Wins | 18 |
 | Losses | 16 |
@@ -22,7 +22,7 @@ title: Sternenflotte
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-07-14 | 6-9 | [星光万丈](https://ws.tsl.rocks/corp/92ad2a305a74e168b57771140461b4d226e1e8cac17b4f77027d5a67ead5fa1d/) |
 | ❌ | 2024-07-14 | 10-16 | [Vega Conflict](https://ws.tsl.rocks/corp/396ceafad44127f2e9dfb94934dc27154c6f97f6bc60832af6cb17791fd7369b/) |
 | ❌ | 2024-07-06 | 8-25 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |

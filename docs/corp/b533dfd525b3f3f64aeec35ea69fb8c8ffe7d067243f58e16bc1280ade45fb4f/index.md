@@ -6,7 +6,7 @@ title: Star Dust
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1191 🔻  (512)|
-| ELO Competitive | 1190 🔻  (624)|
+| ELO Competitive | 1190 🔻  (623)|
 | Total Matches | 5 |
 | Wins | 2 |
 | Losses | 3 |
@@ -16,7 +16,7 @@ title: Star Dust
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2023-12-22 | 24-30 | [Ark](https://ws.tsl.rocks/corp/febd79d038ed9af667e201309060d9662ba825ba9be2b5b95418ac20a8e70c80/) |
 | ❌ | 2023-12-15 | 8-18 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |
 | ✅ | 2023-12-08 | 29-7 | [GermanSpaceUno\.](https://ws.tsl.rocks/corp/47482f042b35cecaaaf58ee05b6672bab3c49469b039f75f304535ffd2d02491/) |

@@ -5,8 +5,8 @@ title: Winged Pheonix
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1166 🔺  (899)|
-| ELO Competitive | 1188 🔺  (648)|
+| ELO Regular | 1166 🔺  (898)|
+| ELO Competitive | 1188 🔺  (647)|
 | Total Matches | 11 |
 | Wins | 3 |
 | Losses | 8 |
@@ -16,7 +16,7 @@ title: Winged Pheonix
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-07-19 | 36-30 | [West Worlders](https://ws.tsl.rocks/corp/aad051ec6b980cc52fb4777aef113d9e28a72aab40fda65aa9cdbf477b8e390a/) |
 | ❌ | 2024-07-08 | 20-41 | [Hand Of NOD\! ](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) |
 | ❌ | 2024-07-02 | 17-44 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |

@@ -5,7 +5,7 @@ title: Planet Express
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1268 🔻  (166)|
+| ELO Regular | 1268 🔻  (167)|
 | ELO Competitive | 1276 🔻  (243)|
 | Total Matches | 10 |
 | Wins | 7 |
@@ -17,7 +17,7 @@ title: Planet Express
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ↔️ | 2024-07-05 | 15-15 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) |
 | ✅ | 2024-06-10 | 41-2 | [Veteran's Haven](https://ws.tsl.rocks/corp/254fdc629bae81f3b0ca69160e0b6e34bd81993e755e4fb5ddedd1533038a683/) |
 | ✅ | 2024-05-31 | 39-8 | [Peace Keepers](https://ws.tsl.rocks/corp/7ac71c394c017639785b3ecaa8087bd3b9a9d134e05d22703a3e18217da3380d/) |

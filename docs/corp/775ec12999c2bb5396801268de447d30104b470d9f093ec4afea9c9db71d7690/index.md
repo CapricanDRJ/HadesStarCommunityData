@@ -6,7 +6,7 @@ title: USSR
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1188 🔻  (544)|
-| ELO Competitive | 1189 🔻  (645)|
+| ELO Competitive | 1189 🔻  (644)|
 | Total Matches | 5 |
 | Wins | 2 |
 | Losses | 3 |
@@ -16,7 +16,7 @@ title: USSR
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2023-12-07 | 17-34 | [ItBurnsWhenIEMP](https://ws.tsl.rocks/corp/1549586a8e69d1a5b1245b5cf33b7beb241b2343c07d1d800e5a2c4026c06438/) |
 | ✅ | 2023-12-01 | 15-8 | [Midland Ind\.](https://ws.tsl.rocks/corp/da3a00a59e73cb89ddcf9ae42f31ecf0c9d9b5fe9a2dc5ddec6fc42922f86a23/) |
 | ❌ | 2023-11-17 | 7-30 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) |

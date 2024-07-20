@@ -5,7 +5,7 @@ title: DadCorp
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1228 🔻  (285)|
+| ELO Regular | 1228 🔻  (284)|
 | ELO Competitive | 1236 🔻  (344)|
 | Total Matches | 6 |
 | Wins | 4 |
@@ -22,7 +22,7 @@ title: DadCorp
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-01-06 | 28-42 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) |
 | ✅ | 2023-12-23 | 43-12 | [Spacefleet](https://ws.tsl.rocks/corp/517f7b257f68936f7a95a478d6923776a2549b88897bae628fd35b23572d3cbd/) |
 | ❌ | 2023-12-01 | 33-53 | [Legion](https://ws.tsl.rocks/corp/313baaeac1c759ca26e0f4bd3140711cffdfa85c287d4c992dcfb809908cf491/) |

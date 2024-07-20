@@ -6,7 +6,7 @@ title: AwA
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔻  (713)|
-| ELO Competitive | 1185 🔻  (792)|
+| ELO Competitive | 1185 🔻  (791)|
 | Total Matches | 5 |
 | Wins | 2 |
 | Losses | 3 |
@@ -17,7 +17,7 @@ title: AwA
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2023-12-28 | 0-11 | [Space Rangers](https://ws.tsl.rocks/corp/da0952db0de44e4eee72d9ffa2394d5818565c5c16d89a1313c6df07417f9fb3/) |
 | ❌ | 2023-11-28 | 3-4 | [Империя](https://ws.tsl.rocks/corp/28ecac3cd0bd2a08844a9e37cc5c2193b0d086bd860ad1e2cc3e89c6d908cea4/) |
 | ❌ | 2023-11-22 | 1-13 | [Eretria ](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |

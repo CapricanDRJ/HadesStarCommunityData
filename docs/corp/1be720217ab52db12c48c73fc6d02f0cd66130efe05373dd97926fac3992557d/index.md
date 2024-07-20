@@ -6,7 +6,7 @@ title: UAGC
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1243 🔻  (229)|
-| ELO Competitive | 1330 🔺  (155)|
+| ELO Competitive | 1330 🔺  (156)|
 | Total Matches | 37 |
 | Wins | 21 |
 | Losses | 16 |
@@ -29,7 +29,7 @@ title: UAGC
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-07-19 | 0-58 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | ✅ | 2024-07-16 | 50-12 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) |
 | ✅ | 2024-07-10 | 44-2 | [붉은늑대](https://ws.tsl.rocks/corp/43d32b05645aaa9415d1c04ecbcea520d2ed5b90304770cb0ab3813cb86e2f49/) |

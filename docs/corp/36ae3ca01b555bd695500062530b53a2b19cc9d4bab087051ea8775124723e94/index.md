@@ -5,7 +5,7 @@ title: 하데스 스타 코리아
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1239 🔺  (251)|
+| ELO Regular | 1239 🔺  (250)|
 | ELO Competitive | 1307 🔺  (190)|
 | Total Matches | 16 |
 | Wins | 9 |
@@ -23,7 +23,7 @@ title: 하데스 스타 코리아
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-03-29 | 5-4 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
 | ✅ | 2024-01-23 | 41-1 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
 | ✅ | 2024-01-18 | 6-5 | [Warp Dominion](https://ws.tsl.rocks/corp/ccd60dbdf5091bcb2d6b0f011ba1a3645e89baed985e2e455b2e1de1412769c5/) |

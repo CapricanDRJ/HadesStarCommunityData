@@ -5,8 +5,8 @@ title: Galaxian
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1287 🔻  (136)|
-| ELO Competitive | 1323 🔻  (166)|
+| ELO Regular | 1287 🔻  (137)|
+| ELO Competitive | 1323 🔻  (167)|
 | Total Matches | 27 |
 | Wins | 18 |
 | Losses | 9 |
@@ -17,7 +17,7 @@ title: Galaxian
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-06-14 | 3-27 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |
 | ✅ | 2024-06-01 | 11-5 | [Slovensko\-Activ](https://ws.tsl.rocks/corp/1b9254941b8239a2cb7067c51e8806c4922f1d033fa8d4506c0b705f51322939/) |
 | ✅ | 2024-05-05 | 10-4 | [小宇宙研究会](https://ws.tsl.rocks/corp/61992de1d0e2d076e6605b47342a479c71b61d3811df514bbd1d5c5128e17203/) |

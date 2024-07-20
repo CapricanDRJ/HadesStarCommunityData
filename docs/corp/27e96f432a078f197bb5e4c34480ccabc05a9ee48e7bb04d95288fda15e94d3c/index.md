@@ -5,7 +5,7 @@ title: Últimafronteira
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1269 🔺  (163)|
+| ELO Regular | 1269 🔺  (164)|
 | ELO Competitive | 1265 🔺  (268)|
 | Total Matches | 5 |
 | Wins | 5 |
@@ -18,7 +18,7 @@ title: Últimafronteira
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-06-21 | 31-0 | [Poggy Rockers](https://ws.tsl.rocks/corp/47aeb151232251d9e53310e21f1290b1240c63878169968847bd1e89efc909a7/) |
 | ✅ | 2024-06-15 | 27-0 | [神圣罗马帝国](https://ws.tsl.rocks/corp/2a71af44aaef82175cd8dfd86c9e3f218a438a7c7e748bae20d8a0d964a984ab/) |
 | ✅ | 2024-06-15 | 31-0 | [Prometheus ESP](https://ws.tsl.rocks/corp/59ccf92b03fb4dbcd047d2425f6dd687367bd70088956249e0255554e81fe949/) |

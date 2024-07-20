@@ -5,7 +5,7 @@ title: The Hexagonix
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1164 🔺  (913)|
+| ELO Regular | 1164 🔺  (912)|
 | ELO Competitive | 1165 🔺  (985)|
 | Total Matches | 8 |
 | Wins | 2 |
@@ -17,7 +17,7 @@ title: The Hexagonix
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ↔️ | 2024-05-30 | 5-5 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 | ❌ | 2024-01-15 | 0-11 | [korea](https://ws.tsl.rocks/corp/2071b0b6ab886c36f36fb357ab33234b4d364e79aae36f5d3387e8ada44962ac/) |
 | ❌ | 2024-01-06 | 0-7 | [MÉXICO INFINITO](https://ws.tsl.rocks/corp/a9fbdd48477b87a054dbd804eef12ae08bc6e02798cd8990b08c4a9803d8f9d8/) |

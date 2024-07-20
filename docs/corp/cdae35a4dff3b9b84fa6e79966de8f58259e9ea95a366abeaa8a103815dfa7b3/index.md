@@ -5,7 +5,7 @@ title: Grand Mechanism
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔻  (893)|
+| ELO Regular | 1168 🔻  (892)|
 | ELO Competitive | 1172 🔻  (926)|
 | Total Matches | 8 |
 | Wins | 2 |
@@ -16,7 +16,7 @@ title: Grand Mechanism
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-01-11 | 0-33 | [Corp\. Estelar 2](https://ws.tsl.rocks/corp/6dc3ed66c1c5c48a88912d686edd55b65123c8fe685858c605cf404be090ef62/) |
 | ❌ | 2024-01-06 | 4-32 | [Space Marshalls](https://ws.tsl.rocks/corp/6a41cc36abf3a28a1c26bc22843f1892d6938e8eb1e8f8a10fd9e6e964e06c2c/) |
 | ↔️ | 2023-12-28 | 11-11 | [绛紫星](https://ws.tsl.rocks/corp/8c2109279ceb01bcca0aa5e85c151d5877831ac54199285743750e2ed343b407/) |

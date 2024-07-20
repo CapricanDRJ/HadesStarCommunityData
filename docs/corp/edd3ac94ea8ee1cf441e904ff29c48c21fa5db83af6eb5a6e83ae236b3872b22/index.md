@@ -6,7 +6,7 @@ title: Osmium Star llc
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1313 🔺  (100)|
-| ELO Competitive | 1322 🔺  (169)|
+| ELO Competitive | 1322 🔺  (170)|
 | Total Matches | 9 |
 | Wins | 9 |
 | Losses | 0 |
@@ -18,7 +18,7 @@ title: Osmium Star llc
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-07-16 | 14-0 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
 | ✅ | 2024-07-08 | 29-1 | [Jalisco México](https://ws.tsl.rocks/corp/495236ab2171ccbcdad0da5529f080405b1ddd081eda98c7255a8cffe5b114e4/) |
 | ✅ | 2024-07-02 | 27-0 | [Стальная крыса](https://ws.tsl.rocks/corp/cc253c6c109e50b129297a1f56fa3c05a6e0f0b3f7673fcb619358625ab8bdf6/) |

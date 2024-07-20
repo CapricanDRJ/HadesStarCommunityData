@@ -5,8 +5,8 @@ title: 咕咕咕咕咕咕咕咕咕咕咕咕咕咕咕
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1159 🔺  (935)|
-| ELO Competitive | 1186 🔻  (690)|
+| ELO Regular | 1159 🔺  (934)|
+| ELO Competitive | 1186 🔻  (689)|
 | Total Matches | 5 |
 | Wins | 0 |
 | Losses | 3 |
@@ -16,7 +16,7 @@ title: 咕咕咕咕咕咕咕咕咕咕咕咕咕咕咕
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ↔️ | 2024-05-06 | 0-0 | [Cowboys](https://ws.tsl.rocks/corp/f461f65e85a43e0b855a525f6995505fc1cc5ae6f85be50470c9dacbb955fc21/) |
 | ❌ | 2024-05-04 | 0-9 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |
 | ❌ | 2024-04-29 | 0-4 | [Dark Training](https://ws.tsl.rocks/corp/f889cafae8c2e0c622ae5494ce013504bf204ba00f7c7b44c61985588ee8f53c/) |

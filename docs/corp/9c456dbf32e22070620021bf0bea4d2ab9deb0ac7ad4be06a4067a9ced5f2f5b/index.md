@@ -5,7 +5,7 @@ title: Anarchy Nation
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1226 🔻  (296)|
+| ELO Regular | 1226 🔻  (295)|
 | ELO Competitive | 1234 🔻  (347)|
 | Total Matches | 8 |
 | Wins | 5 |
@@ -17,7 +17,7 @@ title: Anarchy Nation
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-06-25 | 3-5 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
 | ↔️ | 2024-05-24 | 1-1 | [四季长春](https://ws.tsl.rocks/corp/cf0b11914dc18d8e669592ecfe191f115c4e5fdba09d130d260bb625b36a3179/) |
 | ✅ | 2024-05-15 | 12-0 | [Star Fleet](https://ws.tsl.rocks/corp/b50e0529c2b2e86bae23d0fb4cbcdc4bff7615c45efb95150747a89dd3ea0231/) |

@@ -5,8 +5,8 @@ title: CommCody & LPA
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1230 🔻  (276)|
-| ELO Competitive | 1256 🔻  (290)|
+| ELO Regular | 1230 🔻  (275)|
+| ELO Competitive | 1256 🔻  (289)|
 | Total Matches | 22 |
 | Wins | 13 |
 | Losses | 9 |
@@ -22,7 +22,7 @@ title: CommCody & LPA
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-04-07 | 3-53 | [Hand Of NOD\! ](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) |
 | ❌ | 2024-03-29 | 4-41 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) |
 | ❌ | 2024-03-18 | 10-52 | [Famous Assasins](https://ws.tsl.rocks/corp/8a3aea3b3dacfd3dcdb402e896204557e250b07b8a5e04b5814600c66cc1a25b/) |

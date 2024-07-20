@@ -5,8 +5,8 @@ title: Crimson Dawn
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1159 🔻  (938)|
-| ELO Competitive | 1186 🔻  (701)|
+| ELO Regular | 1159 🔻  (937)|
+| ELO Competitive | 1186 🔻  (700)|
 | Total Matches | 17 |
 | Wins | 7 |
 | Losses | 10 |
@@ -22,7 +22,7 @@ title: Crimson Dawn
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-07-17 | 9-12 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) |
 | ❌ | 2024-07-08 | 12-18 | [Ninth Planet](https://ws.tsl.rocks/corp/53297ed66c8c326d4cb4eebdee55172d3d64f122addd5d916b314f4ab557e21a/) |
 | ❌ | 2024-07-02 | 9-31 | [Quilliance](https://ws.tsl.rocks/corp/6a4f8febc4066842f85c0373a0d33b6501860f2cc4f61b64761d31ff472c28fe/) |

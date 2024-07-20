@@ -5,7 +5,7 @@ title: Warriors union
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1162 🔻  (921)|
+| ELO Regular | 1162 🔻  (920)|
 | ELO Competitive | 1163 🔻  (994)|
 | Total Matches | 9 |
 | Wins | 3 |
@@ -17,7 +17,7 @@ title: Warriors union
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-03-28 | 0-7 | [t 72 SwiftKey F](https://ws.tsl.rocks/corp/317c4e8eee128258999e74199d05d070892a652c3a65b84b26010f50ee0f8e22/) |
 | ❌ | 2024-03-04 | 0-15 | [Halcon español](https://ws.tsl.rocks/corp/ab9c3038dcf2b019ba662007ab1e50b2d80e0eb8e7a65e57dd5260a6d2e80ff9/) |
 | ❌ | 2024-01-30 | 0-6 | [한국인](https://ws.tsl.rocks/corp/f2b2c144f02ec69dfe3bd7fb8d4d1db10d7e3954a2f45937f16daafb0266490e/) |

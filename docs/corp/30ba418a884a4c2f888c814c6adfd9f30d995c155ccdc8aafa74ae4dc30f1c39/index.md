@@ -6,7 +6,7 @@ title: titan tv
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1091 🔺  (1103)|
-| ELO Competitive | 1189 🔺  (643)|
+| ELO Competitive | 1189 🔺  (642)|
 | Total Matches | 32 |
 | Wins | 9 |
 | Losses | 22 |
@@ -23,7 +23,7 @@ title: titan tv
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-06-21 | 4-0 | [Uniones](https://ws.tsl.rocks/corp/9e4f39f6ed94be4c0af3fd6132fb2b757679ee938f7d6faa2ca50fea9f90f443/) |
 | ❌ | 2024-05-10 | 0-40 | [Mercury Sunset](https://ws.tsl.rocks/corp/2771ec0a0e9523f8a7b62dd470c9ab87bf2bcf2b13fb47f6f97ea826337b2b20/) |
 | ❌ | 2024-04-23 | 0-10 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |

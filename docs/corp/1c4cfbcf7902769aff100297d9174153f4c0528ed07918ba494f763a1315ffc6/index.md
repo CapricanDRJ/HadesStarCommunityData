@@ -6,7 +6,7 @@ title: The Allegiant
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1274 🔺  (153)|
-| ELO Competitive | 1293 🔺  (213)|
+| ELO Competitive | 1293 🔺  (214)|
 | Total Matches | 24 |
 | Wins | 16 |
 | Losses | 8 |
@@ -24,7 +24,7 @@ title: The Allegiant
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-07-16 | 17-3 | [Destroyers](https://ws.tsl.rocks/corp/3756333f55f58944372cf785b972da55796cc179c0ce5f10244e90e3c4355a23/) |
 | ✅ | 2024-07-04 | 22-3 | [Slovensko\-Activ](https://ws.tsl.rocks/corp/1b9254941b8239a2cb7067c51e8806c4922f1d033fa8d4506c0b705f51322939/) |
 | ✅ | 2024-06-28 | 20-1 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |

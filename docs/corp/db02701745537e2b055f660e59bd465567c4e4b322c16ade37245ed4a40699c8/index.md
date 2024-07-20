@@ -5,7 +5,7 @@ title: Russian Style
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1160 🔻  (929)|
+| ELO Regular | 1160 🔻  (928)|
 | ELO Competitive | 1163 🔻  (995)|
 | Total Matches | 9 |
 | Wins | 3 |
@@ -17,7 +17,7 @@ title: Russian Style
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-03-18 | 0-6 | [한국인](https://ws.tsl.rocks/corp/f2b2c144f02ec69dfe3bd7fb8d4d1db10d7e3954a2f45937f16daafb0266490e/) |
 | ❌ | 2024-02-21 | 0-18 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) |
 | ❌ | 2024-01-26 | 3-10 | [MÉXICO INFINITO](https://ws.tsl.rocks/corp/a9fbdd48477b87a054dbd804eef12ae08bc6e02798cd8990b08c4a9803d8f9d8/) |

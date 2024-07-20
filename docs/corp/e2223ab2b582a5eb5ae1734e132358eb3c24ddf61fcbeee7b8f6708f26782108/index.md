@@ -5,7 +5,7 @@ title: Galactic Empire
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1294 🔻  (129)|
+| ELO Regular | 1294 🔻  (130)|
 | ELO Competitive | 1353 🔻  (122)|
 | Total Matches | 32 |
 | Wins | 20 |
@@ -23,7 +23,7 @@ title: Galactic Empire
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-07-12 | 0-34 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) |
 | ✅ | 2024-06-29 | 22-0 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
 | ❌ | 2024-06-10 | 5-24 | [NERF TOY'S](https://ws.tsl.rocks/corp/34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0/) |

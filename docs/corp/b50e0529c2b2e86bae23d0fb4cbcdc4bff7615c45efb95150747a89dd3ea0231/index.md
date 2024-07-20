@@ -5,7 +5,7 @@ title: Star Fleet
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1167 🔻  (895)|
+| ELO Regular | 1167 🔻  (894)|
 | ELO Competitive | 1218 🔻  (410)|
 | Total Matches | 22 |
 | Wins | 7 |
@@ -24,7 +24,7 @@ title: Star Fleet
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-07-17 | 0-13 | [Hungary First](https://ws.tsl.rocks/corp/d678326dd81ae0cf5b2bb37d15dcfe7fa1477dbb6e063fbd0d34c69b5942d31b/) |
 | ✅ | 2024-07-10 | 7-3 | [Armored Union ](https://ws.tsl.rocks/corp/4dacc02ca314ab864578421db538b0eb10b0c8c81dc0edd91c5090717d087c7f/) |
 | ✅ | 2024-07-03 | 10-2 | [Imperio Nova](https://ws.tsl.rocks/corp/ec0e2d5a65f1b573cfd22d339ec3db6b1b3c0984f24a9b2f488ed14ace0634b7/) |

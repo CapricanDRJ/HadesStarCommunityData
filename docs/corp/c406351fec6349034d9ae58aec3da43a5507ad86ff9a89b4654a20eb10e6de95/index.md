@@ -5,7 +5,7 @@ title: Альянс звезд
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1228 🔻  (288)|
+| ELO Regular | 1228 🔻  (287)|
 | ELO Competitive | 1228 🔻  (370)|
 | Total Matches | 4 |
 | Wins | 3 |
@@ -17,7 +17,7 @@ title: Альянс звезд
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2023-12-17 | 5-20 | [OntarioDawn](https://ws.tsl.rocks/corp/1a002c71f3aba5da5918941fa2ba4dbbfc183ad52d97d44a25718e07e6b08a03/) |
 | ✅ | 2023-12-10 | 10-1 | [t 72 SwiftKey F](https://ws.tsl.rocks/corp/317c4e8eee128258999e74199d05d070892a652c3a65b84b26010f50ee0f8e22/) |
 | ✅ | 2023-11-29 | 7-0 | [Training Corp](https://ws.tsl.rocks/corp/4e9dede25c833a580f5457125ae0994132bda9e5949b39b84444c14851a2ab07/) |

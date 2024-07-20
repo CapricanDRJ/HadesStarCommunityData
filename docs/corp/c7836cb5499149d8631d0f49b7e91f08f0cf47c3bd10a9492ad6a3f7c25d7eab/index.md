@@ -6,7 +6,7 @@ title: Hellfire Club
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1239 🔺  (247)|
-| ELO Competitive | 1324 🔺  (165)|
+| ELO Competitive | 1324 🔺  (166)|
 | Total Matches | 52 |
 | Wins | 29 |
 | Losses | 23 |
@@ -31,7 +31,7 @@ title: Hellfire Club
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-07-20 | 40-12 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
 | ❌ | 2024-07-13 | 6-30 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | ❌ | 2024-07-06 | 36-40 | [Omega Alpha](https://ws.tsl.rocks/corp/b6e23a3f1f3a3c735c694624b273dcd7da2f8bd13a5ac2b36a8ad39737b1d062/) |

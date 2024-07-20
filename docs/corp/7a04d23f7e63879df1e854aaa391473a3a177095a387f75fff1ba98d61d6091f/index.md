@@ -6,7 +6,7 @@ title: StellarCorpIT
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1280 🔺  (147)|
-| ELO Competitive | 1296 🔺  (206)|
+| ELO Competitive | 1296 🔺  (207)|
 | Total Matches | 8 |
 | Wins | 7 |
 | Losses | 1 |
@@ -18,7 +18,7 @@ title: StellarCorpIT
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-07-11 | 9-5 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ✅ | 2024-05-30 | 19-0 | [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046/) |
 | ❌ | 2024-05-03 | 2-11 | [9\-Й СКОРПИОН](https://ws.tsl.rocks/corp/5ad79ec30d5d805635609e2b1e1cf5f399486c1d57f6101cb6015afbd50f5913/) |

@@ -5,8 +5,8 @@ title: Paramedic ICU
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1233 🔻  (272)|
-| ELO Competitive | 1252 🔻  (299)|
+| ELO Regular | 1233 🔻  (271)|
+| ELO Competitive | 1252 🔻  (298)|
 | Total Matches | 19 |
 | Wins | 9 |
 | Losses | 8 |
@@ -17,7 +17,7 @@ title: Paramedic ICU
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-03-28 | 5-8 | [Galaktika corp](https://ws.tsl.rocks/corp/c37872d1ea085402bf536c707a895610f72dafda4bede848405b7908b4523985/) |
 | ✅ | 2024-03-21 | 17-0 | [新兴帝国](https://ws.tsl.rocks/corp/9fa462f31ce0b962d9b98aa9b68477e4a7ad4a97b1b3c0bfcbe3d258ccbafd8b/) |
 | ✅ | 2024-03-14 | 15-0 | [Red Suns](https://ws.tsl.rocks/corp/4723a7ddfdf84d63bb4a6e897d77183874e4abd0d5f04c8c6470cb3141dd8629/) |

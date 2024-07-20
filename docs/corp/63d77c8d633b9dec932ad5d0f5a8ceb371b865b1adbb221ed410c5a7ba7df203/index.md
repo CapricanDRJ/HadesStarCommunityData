@@ -6,7 +6,7 @@ title: Cerulean Star
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1225 🔻  (299)|
-| ELO Competitive | 1294 🔻  (211)|
+| ELO Competitive | 1294 🔻  (212)|
 | Total Matches | 37 |
 | Wins | 20 |
 | Losses | 17 |
@@ -26,7 +26,7 @@ title: Cerulean Star
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-06-15 | 5-17 | [Looping](https://ws.tsl.rocks/corp/08524086f45f2e6109e583baf940197663aa3e155c32fcdbb04f319343a5eb0c/) |
 | ❌ | 2024-06-01 | 17-25 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) |
 | ✅ | 2024-05-19 | 29-0 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) |

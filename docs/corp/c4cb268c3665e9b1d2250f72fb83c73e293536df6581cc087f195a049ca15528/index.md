@@ -5,8 +5,8 @@ title: Призрачный Путь
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1284 🔻  (141)|
-| ELO Competitive | 1295 🔻  (208)|
+| ELO Regular | 1284 🔻  (142)|
+| ELO Competitive | 1295 🔻  (209)|
 | Total Matches | 18 |
 | Wins | 13 |
 | Losses | 5 |
@@ -17,7 +17,7 @@ title: Призрачный Путь
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-05-25 | 0-23 | [Out landers](https://ws.tsl.rocks/corp/4d949404db40dec4e95e786811959954fc9e2b1361f3bf0d33af2279ff86d23a/) |
 | ❌ | 2024-04-10 | 0-16 | [Eretria ](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |
 | ❌ | 2024-04-01 | 3-14 | [lesescargots](https://ws.tsl.rocks/corp/718c873931e9097064fd6ef580fe9d8761be712e0783e0b97d28344abd910623/) |

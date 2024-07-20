@@ -6,7 +6,7 @@ title: FėniX•
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1188 🔻  (545)|
-| ELO Competitive | 1189 🔻  (634)|
+| ELO Competitive | 1189 🔻  (633)|
 | Total Matches | 8 |
 | Wins | 3 |
 | Losses | 4 |
@@ -17,7 +17,7 @@ title: FėniX•
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-05-13 | 0-18 | [The Syndicate ](https://ws.tsl.rocks/corp/a7da1f6bd313248b8b6e68a1826bffb463c0e4977776708b28d97199f878b88c/) |
 | ↔️ | 2024-03-28 | 0-0 | [星光万丈](https://ws.tsl.rocks/corp/92ad2a305a74e168b57771140461b4d226e1e8cac17b4f77027d5a67ead5fa1d/) |
 | ❌ | 2024-01-20 | 0-16 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |

@@ -5,20 +5,20 @@ title: Helion Prime
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1239 🔺  (250)|
-| ELO Competitive | 1259 🔺  (284)|
-| Total Matches | 10 |
+| ELO Regular | 1225 🔻  (297)|
+| ELO Competitive | 1246 🔻  (315)|
+| Total Matches | 11 |
 | Wins | 6 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
-| Streak | 5 |
 | Streak Record | 5 |
 
 
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
+| ❌ | 2024-07-20 | 7-22 | [Bl@ck/Galaxy ](https://ws.tsl.rocks/corp/76f8fe0dcd8b8c1cb8e0083f14c0b36c23bb9757a3af0f191b567774c02222a3/) |
 | ✅ | 2024-07-06 | 15-9 | [Vega Conflict](https://ws.tsl.rocks/corp/396ceafad44127f2e9dfb94934dc27154c6f97f6bc60832af6cb17791fd7369b/) |
 | ✅ | 2024-06-29 | 47-25 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) |
 | ✅ | 2024-06-22 | 24-23 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) |

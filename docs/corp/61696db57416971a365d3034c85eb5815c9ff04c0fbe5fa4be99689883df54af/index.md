@@ -23,7 +23,7 @@ title: Ƭιтαηѕ Ф тєʀʀσƦ
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-07-14 | 0-26 | [Zvezdec](https://ws.tsl.rocks/corp/7bce2af674b8fb313f43e497201ad86b230571cc3e200f44132be528eb4076d9/) |
 | ✅ | 2024-07-12 | 20-0 | [Casual Joe](https://ws.tsl.rocks/corp/e1c03f1f49b5c4811c4b06c5e55361f2e824f95b24421bee6204708d4106b6c7/) |
 | ✅ | 2024-07-06 | 11-2 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |

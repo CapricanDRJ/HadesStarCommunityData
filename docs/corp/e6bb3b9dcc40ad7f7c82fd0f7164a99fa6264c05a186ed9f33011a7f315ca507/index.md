@@ -5,8 +5,8 @@ title: SpaceCowboys
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1288 🔻  (132)|
-| ELO Competitive | 1297 🔻  (205)|
+| ELO Regular | 1288 🔻  (133)|
+| ELO Competitive | 1297 🔻  (206)|
 | Total Matches | 18 |
 | Wins | 13 |
 | Losses | 5 |
@@ -17,7 +17,7 @@ title: SpaceCowboys
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-03-01 | 9-10 | [КРЫЛЯ ФЕНИКСА](https://ws.tsl.rocks/corp/a7852d9224a29d8a8b12b07f0985cf455ee57c9a7b5fed73f08ab733e8de733b/) |
 | ✅ | 2024-02-23 | 21-0 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | ✅ | 2024-02-16 | 18-7 | [Germania](https://ws.tsl.rocks/corp/e088c9a1e761ef8c1f07a1d374886006b0ecace15d07b9549e3655729b630897/) |

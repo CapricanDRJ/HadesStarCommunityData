@@ -5,7 +5,7 @@ title: alienigenas
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1227 🔺  (293)|
+| ELO Regular | 1227 🔺  (292)|
 | ELO Competitive | 1237 🔺  (340)|
 | Total Matches | 9 |
 | Wins | 5 |
@@ -18,7 +18,7 @@ title: alienigenas
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-07-12 | 30-19 | [Midland Ind\.](https://ws.tsl.rocks/corp/da3a00a59e73cb89ddcf9ae42f31ecf0c9d9b5fe9a2dc5ddec6fc42922f86a23/) |
 | ✅ | 2024-06-28 | 36-4 | [Млечный путь](https://ws.tsl.rocks/corp/a9a3b102b3698bf7db8cd106adda02cee0033bfc03f681b667b2991e10049a25/) |
 | ❌ | 2024-06-21 | 7-17 | [Дом Датэ](https://ws.tsl.rocks/corp/10cbcbd91c4084657bdab01ef573cc48170fbc4dd0ab533f96712f1cb6097ff2/) |

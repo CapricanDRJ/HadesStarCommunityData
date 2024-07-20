@@ -6,7 +6,7 @@ title: Orion
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1273 🔻  (155)|
-| ELO Competitive | 1300 🔻  (201)|
+| ELO Competitive | 1300 🔻  (202)|
 | Total Matches | 16 |
 | Wins | 12 |
 | Losses | 4 |
@@ -22,7 +22,7 @@ title: Orion
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-03-31 | 20-36 | [BattleCo](https://ws.tsl.rocks/corp/6fedbaaa5e81626ae4028e9ec468585dffa6b131eedb09b88a3ac88b7bca681e/) |
 | ❌ | 2024-02-17 | 13-33 | [Space Oddity](https://ws.tsl.rocks/corp/a6d7cf2a6e8e92b03bf941f153a423ecc9483e3acb878d8658a1ca7f33abad81/) |
 | ❌ | 2024-02-17 | 25-52 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) |

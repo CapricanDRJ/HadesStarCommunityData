@@ -6,7 +6,7 @@ title: t 72 SwiftKey F
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1177 🔻  (774)|
-| ELO Competitive | 1183 🔻  (822)|
+| ELO Competitive | 1183 🔻  (821)|
 | Total Matches | 13 |
 | Wins | 5 |
 | Losses | 8 |
@@ -17,7 +17,7 @@ title: t 72 SwiftKey F
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-04-12 | 2-23 | [柯伊伯带伊甸园](https://ws.tsl.rocks/corp/4eea992d73d29d14f33b0acc0b240ba7c71162f6e6a453f3771b7365d18616f6/) |
 | ✅ | 2024-04-07 | 13-0 | [羽共和体](https://ws.tsl.rocks/corp/61b6e0502a087307a2ecf50e5d84f6123ad19984dc5790c997f16a676213aa7e/) |
 | ✅ | 2024-04-02 | 10-0 | [империя тьмы](https://ws.tsl.rocks/corp/4eb22a1b793e5d03579cea15c873b1bef56fea02420a4e55edb18a200f7fc46a/) |

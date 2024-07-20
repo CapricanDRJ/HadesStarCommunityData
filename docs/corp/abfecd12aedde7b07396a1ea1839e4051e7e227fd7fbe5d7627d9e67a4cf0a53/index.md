@@ -6,7 +6,7 @@ title: C.C Legion
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1256 🔺  (190)|
-| ELO Competitive | 1257 🔺  (289)|
+| ELO Competitive | 1257 🔺  (288)|
 | Total Matches | 6 |
 | Wins | 5 |
 | Losses | 1 |
@@ -18,7 +18,7 @@ title: C.C Legion
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-01-23 | 9-2 | [Ul'Adri](https://ws.tsl.rocks/corp/d44796a95a2cc6f93a92af4d701a9c6325eff22633f874f43945a1b1d77b5fe7/) |
 | ✅ | 2024-01-14 | 6-1 | [神仙'](https://ws.tsl.rocks/corp/2a865ec8658a1843c5442405aa7be1fd9e44cf058568802ca1de6610499fa973/) |
 | ❌ | 2024-01-08 | 1-26 | [Ninth Planet](https://ws.tsl.rocks/corp/53297ed66c8c326d4cb4eebdee55172d3d64f122addd5d916b314f4ab557e21a/) |

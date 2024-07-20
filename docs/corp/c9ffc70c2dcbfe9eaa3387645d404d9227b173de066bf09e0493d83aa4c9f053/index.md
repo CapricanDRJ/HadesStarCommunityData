@@ -5,8 +5,8 @@ title: Лютые
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1233 🔻  (273)|
-| ELO Competitive | 1301 🔻  (197)|
+| ELO Regular | 1233 🔻  (272)|
+| ELO Competitive | 1301 🔻  (198)|
 | Total Matches | 20 |
 | Wins | 10 |
 | Losses | 9 |
@@ -22,7 +22,7 @@ title: Лютые
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-06-25 | 8-12 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) |
 | ✅ | 2024-06-18 | 32-2 | [绛紫星](https://ws.tsl.rocks/corp/8c2109279ceb01bcca0aa5e85c151d5877831ac54199285743750e2ed343b407/) |
 | ❌ | 2024-06-17 | 3-14 | [lost souls](https://ws.tsl.rocks/corp/64cf1f6ce9001bcd1d03fd1aaecafc1b7d88cd36316892a52a1b19d5e85bd793/) |

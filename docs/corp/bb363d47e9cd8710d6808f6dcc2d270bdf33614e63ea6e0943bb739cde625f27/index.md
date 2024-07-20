@@ -5,7 +5,7 @@ title: Br Stark Corps
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1163 🔻  (914)|
+| ELO Regular | 1163 🔻  (913)|
 | ELO Competitive | 1165 🔻  (984)|
 | Total Matches | 9 |
 | Wins | 3 |
@@ -17,7 +17,7 @@ title: Br Stark Corps
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2023-12-27 | 1-9 | [Spiritic Beacon](https://ws.tsl.rocks/corp/5167772c02384f567373d65a76da8399c74f305fcc5f228903614e8069445d2a/) |
 | ❌ | 2023-12-22 | 0-14 | [P\!RAT£ SHIP](https://ws.tsl.rocks/corp/edee949826201f74f57f45c101789757954710e3d075602dfdda7765a69a7e7c/) |
 | ❌ | 2023-12-16 | 0-3 | [한국우주연합](https://ws.tsl.rocks/corp/c5eef27852b12a8242ae92571d4bdaa16b3360e45fb47820da574211a095ccce/) |

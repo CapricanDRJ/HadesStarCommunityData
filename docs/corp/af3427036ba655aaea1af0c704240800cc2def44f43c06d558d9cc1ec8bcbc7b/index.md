@@ -5,8 +5,8 @@ title: Черный Легион
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1285 🔻  (138)|
-| ELO Competitive | 1331 🔻  (152)|
+| ELO Regular | 1285 🔻  (139)|
+| ELO Competitive | 1331 🔻  (153)|
 | Total Matches | 24 |
 | Wins | 16 |
 | Losses | 8 |
@@ -22,7 +22,7 @@ title: Черный Легион
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-07-17 | 0-28 | [Scar](https://ws.tsl.rocks/corp/1fd57b7d50b68cb3883fd58e596f496821ebcc82dee1915bb7f34a402b03c44a/) |
 | ❌ | 2024-07-11 | 0-30 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ✅ | 2024-07-03 | 26-2 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |

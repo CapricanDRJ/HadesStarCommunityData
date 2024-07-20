@@ -6,7 +6,7 @@ title: V0RTEX
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1220 🔻  (310)|
-| ELO Competitive | 1250 🔻  (305)|
+| ELO Competitive | 1250 🔻  (304)|
 | Total Matches | 20 |
 | Wins | 10 |
 | Losses | 9 |
@@ -17,7 +17,7 @@ title: V0RTEX
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-04-08 | 1-3 | [한국인](https://ws.tsl.rocks/corp/f2b2c144f02ec69dfe3bd7fb8d4d1db10d7e3954a2f45937f16daafb0266490e/) |
 | ❌ | 2024-03-19 | 3-5 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
 | ✅ | 2024-03-14 | 8-0 | [Venture](https://ws.tsl.rocks/corp/a48bd30701e4a563543ff54e7c8091cc6b5d0e972c70e4de279a93f4df2f24b0/) |

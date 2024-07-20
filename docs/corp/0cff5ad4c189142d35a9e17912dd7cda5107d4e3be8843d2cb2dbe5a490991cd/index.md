@@ -5,7 +5,7 @@ title: 心之所向
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔻  (256)|
+| ELO Regular | 1238 🔻  (255)|
 | ELO Competitive | 1238 🔻  (337)|
 | Total Matches | 5 |
 | Wins | 4 |
@@ -17,7 +17,7 @@ title: 心之所向
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-03-22 | 0-1 | [仙剑3](https://ws.tsl.rocks/corp/2c702a444d77ffd4549debe294bbbc132825227a98c0116ad385071e73d04c7b/) |
 | ✅ | 2024-03-17 | 20-0 | [Saiyan Empire](https://ws.tsl.rocks/corp/6ce5e1ac078a6c9bcc97cd02556b9015bc614c88ed6a48e3681697c0beb4c164/) |
 | ✅ | 2024-03-02 | 4-0 | [Север РусКорп](https://ws.tsl.rocks/corp/39eeae12a2a5fead3330938b8f38c71aab465634b732303dad7b2a7d5f472004/) |

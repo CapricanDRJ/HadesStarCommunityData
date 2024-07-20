@@ -5,7 +5,7 @@ title: Empire of Light
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1162 🔻  (919)|
+| ELO Regular | 1162 🔻  (918)|
 | ELO Competitive | 1196 🔻  (573)|
 | Total Matches | 18 |
 | Wins | 7 |
@@ -17,7 +17,7 @@ title: Empire of Light
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-04-23 | 4-19 | [元素联邦](https://ws.tsl.rocks/corp/e9d602d617d5c81270107c15a6d1f1717c5016abad802d3629f7f4301a58e95e/) |
 | ❌ | 2024-04-09 | 2-14 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) |
 | ❌ | 2024-03-30 | 1-21 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |

@@ -5,7 +5,7 @@ title: Argentina 1.0
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1237 🔻  (258)|
+| ELO Regular | 1237 🔻  (257)|
 | ELO Competitive | 1270 🔻  (261)|
 | Total Matches | 28 |
 | Wins | 16 |
@@ -17,7 +17,7 @@ title: Argentina 1.0
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-07-14 | 26-35 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) |
 | ✅ | 2024-07-08 | 37-5 | [Dumpster Fire](https://ws.tsl.rocks/corp/f191bf7efb93ca805453b3e11aef9278976a4c70fe9790e7813f28fcdf899121/) |
 | ✅ | 2024-07-02 | 49-0 | [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) |

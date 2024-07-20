@@ -5,7 +5,7 @@ title: 游徒训练营
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1164 🔻  (910)|
+| ELO Regular | 1164 🔻  (909)|
 | ELO Competitive | 1182 🔻  (838)|
 | Total Matches | 8 |
 | Wins | 2 |
@@ -17,7 +17,7 @@ title: 游徒训练营
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-06-30 | 6-7 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
 | ❌ | 2024-06-25 | 0-6 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
 | ❌ | 2024-06-19 | 3-8 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |

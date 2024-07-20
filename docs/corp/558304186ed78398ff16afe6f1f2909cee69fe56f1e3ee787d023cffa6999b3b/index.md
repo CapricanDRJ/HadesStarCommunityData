@@ -5,7 +5,7 @@ title: 六大天神.轻歌之影
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 🔻  (904)|
+| ELO Regular | 1165 🔻  (903)|
 | ELO Competitive | 1242 🔻  (326)|
 | Total Matches | 48 |
 | Wins | 22 |
@@ -22,7 +22,7 @@ title: 六大天神.轻歌之影
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-07-11 | 18-24 | [  边界  ](https://ws.tsl.rocks/corp/86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a/) |
 | ❌ | 2024-07-03 | 0-16 | [ 墨痕 ](https://ws.tsl.rocks/corp/1beef0498f07b07217c6e0727dffd066947edc54ee6d09dc63c031def52cdd60/) |
 | ✅ | 2024-07-03 | 4-2 | [星光万丈](https://ws.tsl.rocks/corp/92ad2a305a74e168b57771140461b4d226e1e8cac17b4f77027d5a67ead5fa1d/) |

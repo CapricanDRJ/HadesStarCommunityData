@@ -5,7 +5,7 @@ title: Poggy Rockers
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1283 🔺  (143)|
+| ELO Regular | 1283 🔺  (144)|
 | ELO Competitive | 1308 🔺  (188)|
 | Total Matches | 31 |
 | Wins | 22 |
@@ -17,7 +17,7 @@ title: Poggy Rockers
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-07-14 | 15-0 | [RedStar Raiding](https://ws.tsl.rocks/corp/83a1c4f1576eec7dce037eb5b64b2455ca3affb9d3072108c5d4d3eba88b4570/) |
 | ❌ | 2024-07-14 | 0-7 | [koalition](https://ws.tsl.rocks/corp/68d721684ab83df28cba0a58c608e5dd3c58df79369abffa67da4e8956ef2695/) |
 | ❌ | 2024-07-08 | 3-30 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |

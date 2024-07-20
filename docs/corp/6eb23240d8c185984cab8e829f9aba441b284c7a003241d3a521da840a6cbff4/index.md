@@ -5,7 +5,7 @@ title: 猎户座星云
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (888)|
+| ELO Regular | 1169 🔻  (887)|
 | ELO Competitive | 1171 🔻  (936)|
 | Total Matches | 9 |
 | Wins | 3 |
@@ -17,7 +17,7 @@ title: 猎户座星云
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-05-18 | 0-13 | [ItaFederalFleet](https://ws.tsl.rocks/corp/02f7ac2b406e46cbb3e1f7fa3a0fb0dc2c32f9bc8afc54c299cd54757463ddbe/) |
 | ✅ | 2024-04-25 | 4-0 | [Core Systems](https://ws.tsl.rocks/corp/66dfd39587403b544abf2908638162e60a09ff0dfdfebee6265d41ba2a6ab00a/) |
 | ❌ | 2024-04-11 | 0-11 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) |

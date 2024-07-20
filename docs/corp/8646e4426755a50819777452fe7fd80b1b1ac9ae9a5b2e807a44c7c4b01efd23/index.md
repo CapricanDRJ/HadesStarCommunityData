@@ -5,7 +5,7 @@ title: 第一序列
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1237 🔺  (259)|
+| ELO Regular | 1237 🔺  (258)|
 | ELO Competitive | 1415 🔺  (69)|
 | Total Matches | 64 |
 | Wins | 31 |
@@ -40,7 +40,7 @@ title: 第一序列
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-07-16 | 45-14 | [Spacefleet](https://ws.tsl.rocks/corp/517f7b257f68936f7a95a478d6923776a2549b88897bae628fd35b23572d3cbd/) |
 | ❌ | 2024-07-15 | 6-72 | [Stargate Corp](https://ws.tsl.rocks/corp/b698cd0d86be60954a4b995f79fffe102a71c350e47fbdc2a5827f0ed0ca455d/) |
 | ✅ | 2024-06-29 | 21-3 | [KARI](https://ws.tsl.rocks/corp/4434276aa1aebbe4c0a69ac51dff9c243c5287d00096e12c87e8590318a2ab65/) |

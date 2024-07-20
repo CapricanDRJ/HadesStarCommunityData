@@ -6,7 +6,7 @@ title: RPFD-DNR-RWPB
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔺  (708)|
-| ELO Competitive | 1190 🔺  (619)|
+| ELO Competitive | 1190 🔺  (618)|
 | Total Matches | 5 |
 | Wins | 2 |
 | Losses | 3 |
@@ -16,7 +16,7 @@ title: RPFD-DNR-RWPB
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-07-13 | 3-0 | [Mega Corp](https://ws.tsl.rocks/corp/a30e9d9c153508aae950f9a2502286ee3c0290c79ca4d9c93766e4978031302f/) |
 | ❌ | 2024-07-08 | 0-13 | [\*Alfa y Omega\*](https://ws.tsl.rocks/corp/b1da3a2265efd2266a8e4b5698a731ae179d00e431ee748d7bee62a1357a12ed/) |
 | ❌ | 2024-06-29 | 2-12 | [SEC](https://ws.tsl.rocks/corp/c36ee5a9ff1f148ada25e8402464cecd17ac847acf81dacd8ea25c29c8fd9bc1/) |

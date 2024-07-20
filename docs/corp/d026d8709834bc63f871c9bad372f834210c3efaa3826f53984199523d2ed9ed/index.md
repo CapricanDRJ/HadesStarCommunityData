@@ -6,7 +6,7 @@ title: 万星联盟
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1324 🔺  (89)|
-| ELO Competitive | 1321 🔺  (171)|
+| ELO Competitive | 1321 🔺  (172)|
 | Total Matches | 10 |
 | Wins | 10 |
 | Losses | 0 |
@@ -23,7 +23,7 @@ title: 万星联盟
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-07-19 | 5-2 | [以太超星团](https://ws.tsl.rocks/corp/327addf616128dc5b01013e29e850c76d22ae27af199bcc6bba3b92cee7818ae/) |
 | ✅ | 2024-07-02 | 5-0 | [火洋之心](https://ws.tsl.rocks/corp/99cb105316e2715545c205443c4e331cd11832753eac1c21e11ae3d532e36bcb/) |
 | ✅ | 2024-06-28 | 1-0 | [Nexland Ind\.](https://ws.tsl.rocks/corp/d944d7c48fcdf12fbe80bbfaec82482895285c344a643e8e679fc22617a2c44a/) |

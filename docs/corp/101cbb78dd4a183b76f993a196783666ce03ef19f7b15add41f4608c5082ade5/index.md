@@ -6,7 +6,7 @@ title: Spacey Bois
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (632)|
-| ELO Competitive | 1186 🔻  (696)|
+| ELO Competitive | 1186 🔻  (695)|
 | Total Matches | 5 |
 | Wins | 2 |
 | Losses | 3 |
@@ -17,7 +17,7 @@ title: Spacey Bois
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-02-07 | 0-6 | [V0RTEX](https://ws.tsl.rocks/corp/22a12c757b3e065e8ec7a839b80e33339317bb277aeee145f6cde6f473e06f8f/) |
 | ❌ | 2024-01-27 | 2-4 | [Red Suns](https://ws.tsl.rocks/corp/4723a7ddfdf84d63bb4a6e897d77183874e4abd0d5f04c8c6470cb3141dd8629/) |
 | ✅ | 2023-12-21 | 2-0 | [Jalisco México](https://ws.tsl.rocks/corp/495236ab2171ccbcdad0da5529f080405b1ddd081eda98c7255a8cffe5b114e4/) |

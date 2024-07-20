@@ -6,7 +6,7 @@ title: 华夏太空舰队
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (616)|
-| ELO Competitive | 1186 🔻  (731)|
+| ELO Competitive | 1186 🔻  (730)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 1 |
@@ -16,7 +16,7 @@ title: 华夏太空舰队
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-03-13 | 0-7 | [The Red Dwarves](https://ws.tsl.rocks/corp/4cecdcd329a545deb9c2a292081f9220114f37e845dbea6dd1ec326390e296dd/) |
 | ↔️ | 2024-03-07 | 0-0 | [四季长春](https://ws.tsl.rocks/corp/cf0b11914dc18d8e669592ecfe191f115c4e5fdba09d130d260bb625b36a3179/) |
 

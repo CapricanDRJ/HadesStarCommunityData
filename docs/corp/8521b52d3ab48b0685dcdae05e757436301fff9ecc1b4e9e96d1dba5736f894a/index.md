@@ -5,7 +5,7 @@ title: 中国星系集团
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1287 🔺  (137)|
+| ELO Regular | 1287 🔺  (138)|
 | ELO Competitive | 1290 🔺  (215)|
 | Total Matches | 8 |
 | Wins | 7 |
@@ -18,7 +18,7 @@ title: 中国星系集团
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-04-26 | 7-0 | [数字星际集团](https://ws.tsl.rocks/corp/ccbf6be33652cb1b91bc9047b966ffdd6b313cc569d1e0a9fb832e6e8dc1d361/) |
 | ✅ | 2024-02-15 | 5-2 | [公共星际集团](https://ws.tsl.rocks/corp/f57faccefed6ab561fa61ac8e6f60708928e3a8b5caa5172c97c2a29348aed37/) |
 | ❌ | 2024-02-13 | 5-25 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) |

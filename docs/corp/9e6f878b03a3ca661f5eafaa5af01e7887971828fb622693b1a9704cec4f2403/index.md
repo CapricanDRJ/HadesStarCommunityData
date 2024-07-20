@@ -5,7 +5,7 @@ title: ZZZ-V
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1237 🔺  (261)|
+| ELO Regular | 1237 🔺  (260)|
 | ELO Competitive | 1238 🔺  (336)|
 | Total Matches | 4 |
 | Wins | 3 |
@@ -17,7 +17,7 @@ title: ZZZ-V
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-02-04 | 6-0 | [六大天神\.轻歌之影](https://ws.tsl.rocks/corp/558304186ed78398ff16afe6f1f2909cee69fe56f1e3ee787d023cffa6999b3b/) |
 | ❌ | 2024-01-30 | 2-24 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) |
 | ✅ | 2023-12-05 | 8-1 | [Red Suns](https://ws.tsl.rocks/corp/4723a7ddfdf84d63bb4a6e897d77183874e4abd0d5f04c8c6470cb3141dd8629/) |

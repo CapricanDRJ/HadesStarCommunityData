@@ -5,7 +5,7 @@ title: ES Gaming
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1235 🔻  (265)|
+| ELO Regular | 1235 🔻  (264)|
 | ELO Competitive | 1278 🔻  (237)|
 | Total Matches | 30 |
 | Wins | 16 |
@@ -25,7 +25,7 @@ title: ES Gaming
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-04-21 | 0-13 | [Armored Union ](https://ws.tsl.rocks/corp/4dacc02ca314ab864578421db538b0eb10b0c8c81dc0edd91c5090717d087c7f/) |
 | ✅ | 2024-04-06 | 3-2 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
 | ✅ | 2024-03-23 | 11-0 | [Red Suns](https://ws.tsl.rocks/corp/4723a7ddfdf84d63bb4a6e897d77183874e4abd0d5f04c8c6470cb3141dd8629/) |

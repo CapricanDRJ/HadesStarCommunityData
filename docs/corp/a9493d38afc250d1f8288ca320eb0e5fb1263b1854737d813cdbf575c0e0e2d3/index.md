@@ -5,7 +5,7 @@ title: -=Содружество=-
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1291 🔻  (130)|
+| ELO Regular | 1291 🔻  (131)|
 | ELO Competitive | 1310 🔻  (186)|
 | Total Matches | 27 |
 | Wins | 19 |
@@ -23,7 +23,7 @@ title: -=Содружество=-
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-05-08 | 9-23 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |
 | ❌ | 2024-05-03 | 3-17 | [lonewolf](https://ws.tsl.rocks/corp/216c1ab0bb2cbf918019c0a38a37820a9d5d78d7c5801983ed6e3b17bebdc5f3/) |
 | ❌ | 2024-04-25 | 25-27 | [Lacuna X](https://ws.tsl.rocks/corp/fb10f33f3db17b99b0d227f17e7fde76ef067dc4a4bb4ae05e46c76d2e5e8ea1/) |

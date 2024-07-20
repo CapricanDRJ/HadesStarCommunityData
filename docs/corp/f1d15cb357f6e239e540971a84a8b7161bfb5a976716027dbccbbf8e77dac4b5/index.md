@@ -6,7 +6,7 @@ title: Новый ЭДЭМ
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (688)|
-| ELO Competitive | 1185 🔻  (741)|
+| ELO Competitive | 1185 🔻  (740)|
 | Total Matches | 6 |
 | Wins | 2 |
 | Losses | 3 |
@@ -21,7 +21,7 @@ title: Новый ЭДЭМ
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2023-12-30 | 0-23 | [Orden Estelar ](https://ws.tsl.rocks/corp/1da0142a6cc2fcab35a82ff4d7b591f4ffa96761419c6bf39154afded7ef7c2d/) |
 | ❌ | 2023-12-10 | 0-19 | [Wompwompway ](https://ws.tsl.rocks/corp/f7c3d7f512c4de3883e63b1a5771ab3ef3938054f98711e933bc7dd064fb8363/) |
 | ✅ | 2023-12-03 | 2-1 | [UsualSuspects](https://ws.tsl.rocks/corp/0365f036a244e9e36ecaf6e16ddd9d18693104641bd0ca6a4a626a51e3eed853/) |

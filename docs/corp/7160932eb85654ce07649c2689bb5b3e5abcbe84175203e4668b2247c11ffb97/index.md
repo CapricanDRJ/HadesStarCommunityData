@@ -6,7 +6,7 @@ title: Star Field
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1306 🔺  (112)|
-| ELO Competitive | 1329 🔺  (157)|
+| ELO Competitive | 1329 🔺  (158)|
 | Total Matches | 8 |
 | Wins | 7 |
 | Losses | 1 |
@@ -23,7 +23,7 @@ title: Star Field
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-07-19 | 34-10 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |
 | ✅ | 2024-05-05 | 22-5 | [AFronteiraFinal](https://ws.tsl.rocks/corp/f0c64a4babe1fb017902406f1f331c63129409bccfba868cadc10cf1d064b9d4/) |
 | ❌ | 2024-05-05 | 0-13 | [Armored Union ](https://ws.tsl.rocks/corp/4dacc02ca314ab864578421db538b0eb10b0c8c81dc0edd91c5090717d087c7f/) |

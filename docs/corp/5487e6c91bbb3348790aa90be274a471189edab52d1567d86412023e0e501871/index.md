@@ -5,7 +5,7 @@ title: 星际集团
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1160 🔻  (928)|
+| ELO Regular | 1160 🔻  (927)|
 | ELO Competitive | 1163 🔻  (998)|
 | Total Matches | 8 |
 | Wins | 2 |
@@ -16,7 +16,7 @@ title: 星际集团
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-06-19 | 0-3 | [超新星联盟](https://ws.tsl.rocks/corp/c3667794c88fd0a09f565dc3b4fed5325f131a616d01d0f6890755b44997d0a1/) |
 | ❌ | 2024-04-24 | 0-7 | [第四星际](https://ws.tsl.rocks/corp/42d38d5f95c493cb1822f0c89a5366e532a9dc30c0019e03cf7ddd280bf55040/) |
 | ❌ | 2024-04-15 | 0-5 | [Prometheus ESP](https://ws.tsl.rocks/corp/59ccf92b03fb4dbcd047d2425f6dd687367bd70088956249e0255554e81fe949/) |

@@ -5,7 +5,7 @@ title: 2ND-R8 Corp.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1288 🔺  (133)|
+| ELO Regular | 1288 🔺  (134)|
 | ELO Competitive | 1340 🔺  (137)|
 | Total Matches | 33 |
 | Wins | 19 |
@@ -24,7 +24,7 @@ title: 2ND-R8 Corp.
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-07-16 | 10-3 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ✅ | 2024-07-10 | 25-1 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ✅ | 2024-07-03 | 25-8 | [Out landers](https://ws.tsl.rocks/corp/4d949404db40dec4e95e786811959954fc9e2b1361f3bf0d33af2279ff86d23a/) |

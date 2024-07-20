@@ -5,7 +5,7 @@ title: русь
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1289 🔻  (131)|
+| ELO Regular | 1289 🔻  (132)|
 | ELO Competitive | 1461 🔻  (40)|
 | Total Matches | 70 |
 | Wins | 45 |
@@ -37,7 +37,7 @@ title: русь
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-07-20 | 31-67 | [Grunthal Gang](https://ws.tsl.rocks/corp/0ab98cd1f1b195397b27360ea0dee2527f1504c9f5d4867e719d6f1f73efb01d/) |
 | ❌ | 2024-07-19 | 11-38 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) |
 | ✅ | 2024-07-13 | 28-10 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) |

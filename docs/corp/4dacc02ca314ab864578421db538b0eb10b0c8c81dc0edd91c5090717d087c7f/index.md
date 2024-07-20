@@ -5,8 +5,8 @@ title: Armored Union
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔺  (252)|
-| ELO Competitive | 1321 🔺  (173)|
+| ELO Regular | 1238 🔺  (251)|
+| ELO Competitive | 1321 🔺  (174)|
 | Total Matches | 30 |
 | Wins | 17 |
 | Losses | 13 |
@@ -24,7 +24,7 @@ title: Armored Union
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-07-17 | 15-4 | [Novana Gaming](https://ws.tsl.rocks/corp/073bc5604115e6eb4df318ba3c7a80d782d26f83d70723c5f15b6453ce690a08/) |
 | ❌ | 2024-07-17 | 0-6 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
 | ❌ | 2024-07-10 | 3-7 | [Star Fleet](https://ws.tsl.rocks/corp/b50e0529c2b2e86bae23d0fb4cbcdc4bff7615c45efb95150747a89dd3ea0231/) |

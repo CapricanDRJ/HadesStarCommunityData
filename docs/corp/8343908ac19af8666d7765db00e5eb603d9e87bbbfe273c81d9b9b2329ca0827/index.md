@@ -5,7 +5,7 @@ title: Inexorable
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1229 🔻  (283)|
+| ELO Regular | 1229 🔻  (282)|
 | ELO Competitive | 1286 🔻  (222)|
 | Total Matches | 29 |
 | Wins | 18 |
@@ -24,7 +24,7 @@ title: Inexorable
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-04-19 | 4-28 | [Interestelar](https://ws.tsl.rocks/corp/cc9ed2698988a35d6dbb9e9762d6575b28204ab15fd7208b64e8108878a4b8f9/) |
 | ❌ | 2024-04-12 | 14-27 | [Outland Ind\.](https://ws.tsl.rocks/corp/94cb8827caef9b4b1839113abd29145a128d0c1e108c3984bcf7620dd7fca464/) |
 | ❌ | 2024-04-04 | 3-4 | [Looping](https://ws.tsl.rocks/corp/08524086f45f2e6109e583baf940197663aa3e155c32fcdbb04f319343a5eb0c/) |

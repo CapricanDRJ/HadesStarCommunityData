@@ -5,7 +5,7 @@ title: The Watchers
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1164 🔻  (912)|
+| ELO Regular | 1164 🔻  (911)|
 | ELO Competitive | 1237 🔻  (339)|
 | Total Matches | 25 |
 | Wins | 11 |
@@ -24,7 +24,7 @@ title: The Watchers
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-05-12 | 7-45 | [Hand Of NOD\! ](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) |
 | ✅ | 2024-05-02 | 46-3 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) |
 | ✅ | 2024-04-22 | 23-16 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) |

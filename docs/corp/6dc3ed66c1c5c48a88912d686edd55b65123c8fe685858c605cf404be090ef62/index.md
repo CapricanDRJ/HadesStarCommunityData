@@ -5,8 +5,8 @@ title: Corp. Estelar 2
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1288 🔻  (134)|
-| ELO Competitive | 1298 🔻  (204)|
+| ELO Regular | 1288 🔻  (135)|
+| ELO Competitive | 1298 🔻  (205)|
 | Total Matches | 16 |
 | Wins | 12 |
 | Losses | 4 |
@@ -22,7 +22,7 @@ title: Corp. Estelar 2
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-06-21 | 8-15 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ❌ | 2024-05-03 | 0-16 | [BRASIL STAR](https://ws.tsl.rocks/corp/94fc4639f17e4503a11d4ac3878f3203bca3f21baebf285433ff39ad37f0fff2/) |
 | ❌ | 2024-02-03 | 20-36 | [Omega Alpha](https://ws.tsl.rocks/corp/b6e23a3f1f3a3c735c694624b273dcd7da2f8bd13a5ac2b36a8ad39737b1d062/) |

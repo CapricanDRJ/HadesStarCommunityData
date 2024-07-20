@@ -6,7 +6,7 @@ title: TECH CO
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1123 🔻  (1060)|
-| ELO Competitive | 1187 🔻  (666)|
+| ELO Competitive | 1187 🔻  (665)|
 | Total Matches | 26 |
 | Wins | 9 |
 | Losses | 17 |
@@ -22,7 +22,7 @@ title: TECH CO
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-05-13 | 0-10 | [避难所](https://ws.tsl.rocks/corp/e2cec33caaaef7f020ed5fb31cb29a2804d8b5ab3a781ab69b08fadac88f7102/) |
 | ✅ | 2024-05-06 | 4-0 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) |
 | ❌ | 2024-03-13 | 0-2 | [六大天神\.轻歌之影](https://ws.tsl.rocks/corp/558304186ed78398ff16afe6f1f2909cee69fe56f1e3ee787d023cffa6999b3b/) |

@@ -6,7 +6,7 @@ title: Industrial W.O
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1212 🔺  (383)|
-| ELO Competitive | 1254 🔺  (296)|
+| ELO Competitive | 1254 🔺  (295)|
 | Total Matches | 42 |
 | Wins | 19 |
 | Losses | 22 |
@@ -23,7 +23,7 @@ title: Industrial W.O
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-07-16 | 24-13 | [NERF TOY'S](https://ws.tsl.rocks/corp/34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0/) |
 | ❌ | 2024-07-10 | 1-8 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ✅ | 2024-07-04 | 22-3 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |

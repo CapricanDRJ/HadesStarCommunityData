@@ -5,7 +5,7 @@ title: Crazy Elite
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1160 🔻  (932)|
+| ELO Regular | 1160 🔻  (931)|
 | ELO Competitive | 1316 🔻  (181)|
 | Total Matches | 65 |
 | Wins | 26 |
@@ -30,7 +30,7 @@ title: Crazy Elite
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-07-19 | 13-21 | [Outland Ind\.](https://ws.tsl.rocks/corp/94cb8827caef9b4b1839113abd29145a128d0c1e108c3984bcf7620dd7fca464/) |
 | ❌ | 2024-07-14 | 9-18 | [Providence](https://ws.tsl.rocks/corp/f12fc39ca2326de7c5ce96c005b1953c86430443f1f8b98e7515d082b43b4d4b/) |
 | ❌ | 2024-07-09 | 5-37 | [111](https://ws.tsl.rocks/corp/8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350/) |

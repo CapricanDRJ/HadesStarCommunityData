@@ -6,7 +6,7 @@ title: Quadra FR
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1244 🔺  (227)|
-| ELO Competitive | 1253 🔺  (297)|
+| ELO Competitive | 1253 🔺  (296)|
 | Total Matches | 9 |
 | Wins | 6 |
 | Losses | 3 |
@@ -18,7 +18,7 @@ title: Quadra FR
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-06-28 | 22-0 | [Veil of Maya](https://ws.tsl.rocks/corp/5f994f185c0d8bc015c42fcbe8655c6cf2ff0c8d0a37c08f1ce54dbc97dd1ce3/) |
 | ✅ | 2024-06-20 | 17-0 | [初始之音](https://ws.tsl.rocks/corp/79f48676f0ad15541a751311b97bae91c977d65480891a675585fc396c20bdb9/) |
 | ❌ | 2024-04-20 | 0-14 | [Halcon español](https://ws.tsl.rocks/corp/ab9c3038dcf2b019ba662007ab1e50b2d80e0eb8e7a65e57dd5260a6d2e80ff9/) |

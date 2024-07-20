@@ -5,7 +5,7 @@ title:  星空漫游者-GR
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1234 🔺  (268)|
+| ELO Regular | 1234 🔺  (267)|
 | ELO Competitive | 1236 🔺  (342)|
 | Total Matches | 4 |
 | Wins | 3 |
@@ -17,7 +17,7 @@ title:  星空漫游者-GR
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-02-29 | 19-5 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |
 | ❌ | 2024-02-19 | 3-18 | [绛紫星](https://ws.tsl.rocks/corp/8c2109279ceb01bcca0aa5e85c151d5877831ac54199285743750e2ed343b407/) |
 | ✅ | 2023-11-19 | 12-3 | [brit boys](https://ws.tsl.rocks/corp/1b37d746045178a34153b75c717add2f45fe50a4e280d1e5a8d7482ff700d2e8/) |

@@ -5,7 +5,7 @@ title: GermanIndustrie
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1283 🔺  (142)|
+| ELO Regular | 1283 🔺  (143)|
 | ELO Competitive | 1304 🔺  (194)|
 | Total Matches | 11 |
 | Wins | 8 |
@@ -18,7 +18,7 @@ title: GermanIndustrie
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-07-13 | 48-35 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) |
 | ✅ | 2024-06-29 | 46-42 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) |
 | ↔️ | 2024-05-04 | 54-54 | [EZCO](https://ws.tsl.rocks/corp/cfad990cabcdc1326c0aa3f93a57d1f0e6ec3cd2949e01e6b08443c3af8282f1/) |

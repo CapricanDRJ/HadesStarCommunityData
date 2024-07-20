@@ -5,7 +5,7 @@ title: Укр інтроверти
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1159 🔻  (933)|
+| ELO Regular | 1159 🔻  (932)|
 | ELO Competitive | 1162 🔻  (1000)|
 | Total Matches | 5 |
 | Wins | 1 |
@@ -16,7 +16,7 @@ title: Укр інтроверти
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-04-06 | 2-36 | [Sentencia](https://ws.tsl.rocks/corp/288393568f19d6bd87e5e3e20f7fd1d458526d8beb052622b4f5572d7959cf7b/) |
 | ❌ | 2024-03-30 | 10-30 | [Got Nothing](https://ws.tsl.rocks/corp/ea7879fd9cbed37b260ec2bf39339786942fb34216036a90e107ba525f5924e1/) |
 | ❌ | 2024-03-25 | 4-35 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |

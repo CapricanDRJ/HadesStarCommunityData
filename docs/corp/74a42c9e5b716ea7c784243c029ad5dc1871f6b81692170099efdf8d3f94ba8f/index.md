@@ -6,7 +6,7 @@ title: 遨游星空  kdy分盟
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1180 🔻  (762)|
-| ELO Competitive | 1247 🔻  (313)|
+| ELO Competitive | 1247 🔻  (312)|
 | Total Matches | 31 |
 | Wins | 13 |
 | Losses | 17 |
@@ -24,7 +24,7 @@ title: 遨游星空  kdy分盟
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-06-24 | 0-1 | [helvetic force](https://ws.tsl.rocks/corp/954c78bdb9845f358b91263d2f34f919123d624f5b8bfc566781890f90010612/) |
 | ❌ | 2024-04-29 | 0-6 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 | ✅ | 2024-04-29 | 1-0 | [咕咕咕咕咕咕咕咕咕咕咕咕咕咕咕](https://ws.tsl.rocks/corp/038bc19b50c066831931ddd822ae2c29f8d40279e3ef920b8574839c6e3ab35d/) |

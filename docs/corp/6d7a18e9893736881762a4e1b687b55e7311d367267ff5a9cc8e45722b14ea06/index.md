@@ -5,7 +5,7 @@ title: U.S.A
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1162 🔻  (922)|
+| ELO Regular | 1162 🔻  (921)|
 | ELO Competitive | 1235 🔻  (345)|
 | Total Matches | 21 |
 | Wins | 8 |
@@ -23,7 +23,7 @@ title: U.S.A
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-07-16 | 2-18 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) |
 | ❌ | 2024-06-22 | 5-10 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ✅ | 2024-06-15 | 7-4 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |

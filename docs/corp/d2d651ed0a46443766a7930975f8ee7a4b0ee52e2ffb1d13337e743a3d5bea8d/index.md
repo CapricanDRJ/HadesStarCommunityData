@@ -6,7 +6,7 @@ title: RUS
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1189 🔺  (536)|
-| ELO Competitive | 1250 🔺  (307)|
+| ELO Competitive | 1250 🔺  (306)|
 | Total Matches | 26 |
 | Wins | 12 |
 | Losses | 14 |
@@ -25,7 +25,7 @@ title: RUS
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-07-13 | 38-1 | [Terranova](https://ws.tsl.rocks/corp/4eeaf112dd9983e997c8c9ec43e562763a8cd4a95f268b4bfeee5e39934f01de/) |
 | ❌ | 2024-05-25 | 11-26 | [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) |
 | ❌ | 2024-05-20 | 13-52 | [Grunthal Gang](https://ws.tsl.rocks/corp/0ab98cd1f1b195397b27360ea0dee2527f1504c9f5d4867e719d6f1f73efb01d/) |

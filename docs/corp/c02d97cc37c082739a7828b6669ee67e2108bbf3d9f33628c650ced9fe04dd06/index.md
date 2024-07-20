@@ -5,7 +5,7 @@ title: 银星舰队SSF
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1262 🔺  (177)|
+| ELO Regular | 1262 🔺  (178)|
 | ELO Competitive | 1274 🔺  (248)|
 | Total Matches | 12 |
 | Wins | 9 |
@@ -17,7 +17,7 @@ title: 银星舰队SSF
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-07-18 | 1-0 | [苏维埃联邦](https://ws.tsl.rocks/corp/4b067d39aa68bf846ec24a1af1a1038844cfa78699d1190f74a77b1745e148ac/) |
 | ❌ | 2024-07-13 | 0-2 | [Север РусКорп](https://ws.tsl.rocks/corp/39eeae12a2a5fead3330938b8f38c71aab465634b732303dad7b2a7d5f472004/) |
 | ❌ | 2024-06-16 | 2-19 | [柯伊伯带伊甸园](https://ws.tsl.rocks/corp/4eea992d73d29d14f33b0acc0b240ba7c71162f6e6a453f3771b7365d18616f6/) |

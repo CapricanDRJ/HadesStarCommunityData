@@ -6,7 +6,7 @@ title: ItaFederalFleet
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1311 🔺  (104)|
-| ELO Competitive | 1323 🔺  (167)|
+| ELO Competitive | 1323 🔺  (168)|
 | Total Matches | 20 |
 | Wins | 14 |
 | Losses | 5 |
@@ -18,7 +18,7 @@ title: ItaFederalFleet
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-07-04 | 16-0 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) |
 | ✅ | 2024-06-24 | 11-0 | [德意志阿尔法帝国](https://ws.tsl.rocks/corp/b67013faae09f023e7b6100ac659b8f6d1793c27ff7e42a5dfc6494fd64bf2c4/) |
 | ❌ | 2024-06-14 | 1-4 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |

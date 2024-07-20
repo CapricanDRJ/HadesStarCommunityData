@@ -5,7 +5,7 @@ title: 纸鸢台
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1233 🔺  (271)|
+| ELO Regular | 1233 🔺  (270)|
 | ELO Competitive | 1233 🔺  (353)|
 | Total Matches | 4 |
 | Wins | 3 |
@@ -18,7 +18,7 @@ title: 纸鸢台
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-02-05 | 11-2 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |
 | ✅ | 2024-01-23 | 6-1 | [Planet Express](https://ws.tsl.rocks/corp/5b1b4c436f97fa4921cfe2eec358f39bf2ff848eac678d0b8df77abea23339dd/) |
 | ✅ | 2024-01-15 | 6-4 | [Halcon español](https://ws.tsl.rocks/corp/ab9c3038dcf2b019ba662007ab1e50b2d80e0eb8e7a65e57dd5260a6d2e80ff9/) |

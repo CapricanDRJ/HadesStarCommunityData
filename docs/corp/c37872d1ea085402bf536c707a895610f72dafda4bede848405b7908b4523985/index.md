@@ -6,7 +6,7 @@ title: Galaktika corp
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1306 🔻  (113)|
-| ELO Competitive | 1327 🔻  (158)|
+| ELO Competitive | 1327 🔻  (159)|
 | Total Matches | 20 |
 | Wins | 14 |
 | Losses | 4 |
@@ -22,7 +22,7 @@ title: Galaktika corp
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-07-17 | 11-21 | [Star Destroyers](https://ws.tsl.rocks/corp/32ba20918cd8720602fefb3bc676a6ba5195314479040f70eadc728fbbc2698d/) |
 | ✅ | 2024-07-10 | 10-5 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
 | ✅ | 2024-06-30 | 16-2 | [11th Engineers](https://ws.tsl.rocks/corp/7341e9a33a1baf2162870c795632dcd551d3c624b06456dac041fa049ba67a9a/) |

@@ -5,7 +5,7 @@ title: ギャラクシー富士山
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1166 🔻  (901)|
+| ELO Regular | 1166 🔻  (900)|
 | ELO Competitive | 1167 🔻  (977)|
 | Total Matches | 6 |
 | Wins | 2 |
@@ -16,7 +16,7 @@ title: ギャラクシー富士山
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-02-20 | 2-12 | [Spaceballs](https://ws.tsl.rocks/corp/1e54a7ba8156a65b15f7f1358b682a10f856acb0f96d9e3b582c4ea175905839/) |
 | ❌ | 2023-12-16 | 0-26 | [\[Blue\*Nation\]](https://ws.tsl.rocks/corp/38cd283c7bb8ee0390f5624e49a3465b1d4a8c789cc2d501f38918a16f6140e2/) |
 | ❌ | 2023-12-09 | 3-8 | [the Rubber Duck](https://ws.tsl.rocks/corp/bfd6a197d72d0b643c6693e66b9a10db61f75ae242a0bd7c09bdd553ae951ee6/) |

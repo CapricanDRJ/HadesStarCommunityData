@@ -5,8 +5,8 @@ title: Hermitage
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1226 🔻  (297)|
-| ELO Competitive | 1246 🔻  (315)|
+| ELO Regular | 1226 🔻  (296)|
+| ELO Competitive | 1246 🔻  (314)|
 | Total Matches | 17 |
 | Wins | 10 |
 | Losses | 7 |
@@ -24,7 +24,7 @@ title: Hermitage
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-07-12 | 33-39 | [Bounty Hunters](https://ws.tsl.rocks/corp/d44b4a2b4a57fd50845c39abe5c6b0a38bab694941fed09d3ca164c1d78625ea/) |
 | ✅ | 2024-07-05 | 25-22 | [the heavy](https://ws.tsl.rocks/corp/fc91552441e9553b76df7ca1870d63c6fd9e50f9c98a3d2bb9f6979b47bd845f/) |
 | ❌ | 2024-06-21 | 4-57 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) |

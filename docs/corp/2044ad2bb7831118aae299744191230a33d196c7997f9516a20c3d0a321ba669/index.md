@@ -5,8 +5,8 @@ title: Grater T
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1234 🔻  (269)|
-| ELO Competitive | 1253 🔻  (298)|
+| ELO Regular | 1234 🔻  (268)|
+| ELO Competitive | 1253 🔻  (297)|
 | Total Matches | 14 |
 | Wins | 7 |
 | Losses | 7 |
@@ -17,7 +17,7 @@ title: Grater T
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-07-13 | 15-23 | [OntarioDawn](https://ws.tsl.rocks/corp/1a002c71f3aba5da5918941fa2ba4dbbfc183ad52d97d44a25718e07e6b08a03/) |
 | ✅ | 2024-07-07 | 25-2 | [두빛나래](https://ws.tsl.rocks/corp/f2ff8c6a1035943d6dbff4062b4546ac2e3c7b2185b1bd986aec34256c2edb7f/) |
 | ❌ | 2024-05-05 | 13-35 | [✡天启✡](https://ws.tsl.rocks/corp/f2d70a86d32ea3a8226afc6d465a6c6540acec572b1c7232994523cdfb299c53/) |

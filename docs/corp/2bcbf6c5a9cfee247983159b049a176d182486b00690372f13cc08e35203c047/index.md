@@ -6,7 +6,7 @@ title: Todesschwadron
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1190 🔺  (519)|
-| ELO Competitive | 1192 🔺  (599)|
+| ELO Competitive | 1192 🔺  (598)|
 | Total Matches | 5 |
 | Wins | 2 |
 | Losses | 3 |
@@ -18,7 +18,7 @@ title: Todesschwadron
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-01-08 | 6-3 | [华夏航队](https://ws.tsl.rocks/corp/c63fe9c181dbac2833d2a4dbf3b050625128057c318b3b5a05bb54bd864f531c/) |
 | ✅ | 2023-12-16 | 2-0 | [Galaktika corp](https://ws.tsl.rocks/corp/c37872d1ea085402bf536c707a895610f72dafda4bede848405b7908b4523985/) |
 | ❌ | 2023-12-06 | 0-8 | [行星联合军](https://ws.tsl.rocks/corp/5afa03bdcf5439e267c7f2b358e6ae5d16030d3d52b527b58b37236ddfa7fe57/) |

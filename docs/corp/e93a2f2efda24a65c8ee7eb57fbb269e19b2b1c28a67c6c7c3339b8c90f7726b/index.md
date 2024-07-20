@@ -5,7 +5,7 @@ title: Alpaca Haven
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1263 🔻  (174)|
+| ELO Regular | 1263 🔻  (175)|
 | ELO Competitive | 1288 🔻  (221)|
 | Total Matches | 29 |
 | Wins | 18 |
@@ -22,7 +22,7 @@ title: Alpaca Haven
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-07-16 | 14-19 | [Game of Stars](https://ws.tsl.rocks/corp/ad5bb68e6076ee70e6715ecead226fc9880b66a87b68acb3098843f723c1562e/) |
 | ✅ | 2024-07-07 | 35-10 | [VoidCorp](https://ws.tsl.rocks/corp/b866417e5607f8434347bb5f986e37c4fa7dda68b3882f0135d186043d3f68a3/) |
 | ❌ | 2024-06-22 | 16-35 | [Bounty Hunters](https://ws.tsl.rocks/corp/d44b4a2b4a57fd50845c39abe5c6b0a38bab694941fed09d3ca164c1d78625ea/) |

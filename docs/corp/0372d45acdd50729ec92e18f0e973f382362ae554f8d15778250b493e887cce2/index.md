@@ -6,7 +6,7 @@ title: CDG
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1143 🔻  (1001)|
-| ELO Competitive | 1295 🔻  (207)|
+| ELO Competitive | 1295 🔻  (208)|
 | Total Matches | 56 |
 | Wins | 24 |
 | Losses | 27 |
@@ -25,7 +25,7 @@ title: CDG
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-07-14 | 4-20 | [Antioch](https://ws.tsl.rocks/corp/6cf52926568f845a630c3fba8370e8afa3a75d315af0f6d0bd891085e6e4425f/) |
 | ❌ | 2024-07-07 | 14-26 | [NoweUkladyII](https://ws.tsl.rocks/corp/9d1a50e524f7abc0623ab7e010875dfcce9e5682a06ebc4aee47e972d258493c/) |
 | ❌ | 2024-06-22 | 0-36 | [OntarioDawn](https://ws.tsl.rocks/corp/1a002c71f3aba5da5918941fa2ba4dbbfc183ad52d97d44a25718e07e6b08a03/) |

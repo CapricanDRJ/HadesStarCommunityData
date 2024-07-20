@@ -6,7 +6,7 @@ title: Cerulean Nebula
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1247 🔺  (213)|
-| ELO Competitive | 1294 🔺  (210)|
+| ELO Competitive | 1294 🔺  (211)|
 | Total Matches | 24 |
 | Wins | 14 |
 | Losses | 10 |
@@ -17,7 +17,7 @@ title: Cerulean Nebula
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-05-26 | 20-0 | [Bunker](https://ws.tsl.rocks/corp/583eeb4aaa577ce5d9806fc637f83d7c02b2a29fa2d47eb38fd658be8ef93588/) |
 | ❌ | 2024-04-18 | 0-3 | [titan tv](https://ws.tsl.rocks/corp/30ba418a884a4c2f888c814c6adfd9f30d995c155ccdc8aafa74ae4dc30f1c39/) |
 | ✅ | 2024-04-09 | 4-1 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |

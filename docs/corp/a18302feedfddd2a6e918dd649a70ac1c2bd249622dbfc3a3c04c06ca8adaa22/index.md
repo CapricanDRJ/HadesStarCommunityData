@@ -5,7 +5,7 @@ title: Next Hyperion
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔻  (892)|
+| ELO Regular | 1168 🔻  (891)|
 | ELO Competitive | 1172 🔻  (918)|
 | Total Matches | 8 |
 | Wins | 2 |
@@ -16,7 +16,7 @@ title: Next Hyperion
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-03-27 | 3-18 | [Out landers](https://ws.tsl.rocks/corp/4d949404db40dec4e95e786811959954fc9e2b1361f3bf0d33af2279ff86d23a/) |
 | ❌ | 2024-03-16 | 0-16 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
 | ✅ | 2024-03-03 | 3-0 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |

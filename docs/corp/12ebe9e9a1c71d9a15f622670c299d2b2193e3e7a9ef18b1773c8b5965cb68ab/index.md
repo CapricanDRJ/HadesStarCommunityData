@@ -5,11 +5,11 @@ title: The Goonies
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (880)|
-| ELO Competitive | 1194 🔻  (582)|
-| Total Matches | 10 |
+| ELO Regular | 1158 🔻  (940)|
+| ELO Competitive | 1183 🔻  (822)|
+| Total Matches | 11 |
 | Wins | 3 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 2 |
 | Streak Record | 2 |
 
@@ -17,7 +17,8 @@ title: The Goonies
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
+| ❌ | 2024-07-20 | 0-24 | [Duchy Arrakis](https://ws.tsl.rocks/corp/6c8c526b366a9e9eb3eba3d3107b628042c005db03530961b24a722cc58a339e/) |
 | ❌ | 2024-07-10 | 6-13 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | ❌ | 2024-05-23 | 3-50 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ❌ | 2024-05-16 | 8-23 | [Lacuna Holdings](https://ws.tsl.rocks/corp/17f4ece94ed033805ed258868416020d302254e2e3becbd1e25381be7933be76/) |

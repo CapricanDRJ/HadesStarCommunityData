@@ -5,10 +5,10 @@ title: Duchy Arrakis
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1262 🔻  (178)|
-| ELO Competitive | 1292 🔻  (214)|
-| Total Matches | 25 |
-| Wins | 16 |
+| ELO Regular | 1273 🔺  (156)|
+| ELO Competitive | 1303 🔺  (196)|
+| Total Matches | 26 |
+| Wins | 17 |
 | Losses | 9 |
 | Draws | 0 |
 | Streak Record | 5 |
@@ -23,7 +23,8 @@ title: Duchy Arrakis
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
+| ✅ | 2024-07-20 | 24-0 | [The Goonies](https://ws.tsl.rocks/corp/12ebe9e9a1c71d9a15f622670c299d2b2193e3e7a9ef18b1773c8b5965cb68ab/) |
 | ❌ | 2024-07-06 | 20-36 | [Hamburg AG 2](https://ws.tsl.rocks/corp/d4075195191cabef801494d3accc0e6cc8c09f534fd9203f6e43c9930acffa56/) |
 | ✅ | 2024-06-29 | 21-4 | [Game of Stars](https://ws.tsl.rocks/corp/ad5bb68e6076ee70e6715ecead226fc9880b66a87b68acb3098843f723c1562e/) |
 | ❌ | 2024-06-22 | 20-29 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) |

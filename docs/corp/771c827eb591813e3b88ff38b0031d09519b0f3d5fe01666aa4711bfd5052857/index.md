@@ -5,8 +5,8 @@ title: <a>超越®</a>光速℡
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1284 🔻  (140)|
-| ELO Competitive | 1326 🔻  (159)|
+| ELO Regular | 1284 🔻  (141)|
+| ELO Competitive | 1326 🔻  (160)|
 | Total Matches | 21 |
 | Wins | 15 |
 | Losses | 6 |
@@ -17,7 +17,7 @@ title: <a>超越®</a>光速℡
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-06-25 | 0-46 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) |
 | ❌ | 2024-06-25 | 0-26 | [Death Star llc\.](https://ws.tsl.rocks/corp/3dd4906939827fa7537a3e95f8d75948c06b75a98f3c4aab253ea79857d2ce81/) |
 | ✅ | 2024-06-16 | 7-3 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |

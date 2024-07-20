@@ -6,7 +6,7 @@ title: Revelation
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1189 🔻  (534)|
-| ELO Competitive | 1188 🔻  (651)|
+| ELO Competitive | 1188 🔻  (650)|
 | Total Matches | 7 |
 | Wins | 3 |
 | Losses | 4 |
@@ -17,7 +17,7 @@ title: Revelation
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-02-06 | 3-32 | [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b/) |
 | ❌ | 2024-01-28 | 3-6 | [Equinox](https://ws.tsl.rocks/corp/666001c1d87fbfcf6a3d8614e2b5b9f0e4aa96fa4c098c004bea9fb92ed330c2/) |
 | ✅ | 2023-12-11 | 12-3 | [Hun Avengers](https://ws.tsl.rocks/corp/e728eecfe4a9589a7c127d52ed2a958ca92aad43a37efd0d91ac0efb1a474854/) |

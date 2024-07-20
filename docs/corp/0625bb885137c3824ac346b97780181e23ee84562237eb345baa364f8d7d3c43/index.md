@@ -5,7 +5,7 @@ title: Moon Catchers
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 🔻  (906)|
+| ELO Regular | 1165 🔻  (905)|
 | ELO Competitive | 1204 🔻  (498)|
 | Total Matches | 30 |
 | Wins | 13 |
@@ -22,7 +22,7 @@ title: Moon Catchers
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-07-18 | 1-13 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) |
 | ✅ | 2024-06-24 | 13-1 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
 | ❌ | 2024-06-07 | 11-36 | [Space Marshalls](https://ws.tsl.rocks/corp/6a41cc36abf3a28a1c26bc22843f1892d6938e8eb1e8f8a10fd9e6e964e06c2c/) |

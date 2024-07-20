@@ -5,7 +5,7 @@ title: The Foundation
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1231 🔺  (274)|
+| ELO Regular | 1231 🔺  (273)|
 | ELO Competitive | 1233 🔺  (352)|
 | Total Matches | 5 |
 | Wins | 3 |
@@ -17,7 +17,7 @@ title: The Foundation
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ↔️ | 2024-02-14 | 8-8 | [火洋之心](https://ws.tsl.rocks/corp/99cb105316e2715545c205443c4e331cd11832753eac1c21e11ae3d532e36bcb/) |
 | ❌ | 2024-01-23 | 3-28 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) |
 | ✅ | 2023-12-10 | 17-4 | [Stone Legion](https://ws.tsl.rocks/corp/60cd15c27192f777f2e4abc413a83d4ab33bbccd7764a387afd2347dcd3d751a/) |

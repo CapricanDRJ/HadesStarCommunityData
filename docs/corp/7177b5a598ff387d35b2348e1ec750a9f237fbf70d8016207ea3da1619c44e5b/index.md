@@ -5,7 +5,7 @@ title: death squadron
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1166 🔻  (900)|
+| ELO Regular | 1166 🔻  (899)|
 | ELO Competitive | 1245 🔻  (320)|
 | Total Matches | 40 |
 | Wins | 18 |
@@ -29,7 +29,7 @@ title: death squadron
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-06-26 | 5-17 | [Scar](https://ws.tsl.rocks/corp/1fd57b7d50b68cb3883fd58e596f496821ebcc82dee1915bb7f34a402b03c44a/) |
 | ❌ | 2024-06-19 | 3-6 | [Dumpster Fire 2](https://ws.tsl.rocks/corp/37d473dec00d4d68e29963e3b423670aac735e7c1f256276e6c2e7d62180b0f8/) |
 | ❌ | 2024-06-05 | 10-29 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) |

@@ -6,7 +6,7 @@ title: The New Light
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1208 🔻  (400)|
-| ELO Competitive | 1256 🔻  (291)|
+| ELO Competitive | 1256 🔻  (290)|
 | Total Matches | 35 |
 | Wins | 17 |
 | Losses | 17 |
@@ -24,7 +24,7 @@ title: The New Light
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-07-17 | 1-17 | [  边界  ](https://ws.tsl.rocks/corp/86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a/) |
 | ✅ | 2024-07-10 | 4-0 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
 | ❌ | 2024-07-03 | 0-25 | [Z\. O\. V\. ](https://ws.tsl.rocks/corp/4f56534357f2407b25faee160f9dca4ee83b8f9ca4425ba472a47298faf54096/) |

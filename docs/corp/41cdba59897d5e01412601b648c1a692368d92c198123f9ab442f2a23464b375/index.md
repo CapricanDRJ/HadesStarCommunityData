@@ -5,8 +5,8 @@ title: Crux Cadre
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1262 🔺  (176)|
-| ELO Competitive | 1323 🔺  (168)|
+| ELO Regular | 1262 🔺  (177)|
+| ELO Competitive | 1323 🔺  (169)|
 | Total Matches | 44 |
 | Wins | 26 |
 | Losses | 17 |
@@ -27,7 +27,7 @@ title: Crux Cadre
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-07-15 | 39-0 | [KARI](https://ws.tsl.rocks/corp/4434276aa1aebbe4c0a69ac51dff9c243c5287d00096e12c87e8590318a2ab65/) |
 | ❌ | 2024-07-15 | 14-23 | [Spica​](https://ws.tsl.rocks/corp/df96d6d34c4906312183050c8aa7a502678ab2902b7c23112aa9fda827bb4191/) |
 | ✅ | 2024-07-09 | 41-26 | [Void](https://ws.tsl.rocks/corp/d647d722a09f020b716e059ac7758172a560c7190ac4d7d306c4ede8be6c5e77/) |

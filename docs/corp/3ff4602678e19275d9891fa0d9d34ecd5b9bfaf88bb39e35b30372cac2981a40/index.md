@@ -5,7 +5,7 @@ title: pirates spatial
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1268 🔻  (167)|
+| ELO Regular | 1268 🔻  (168)|
 | ELO Competitive | 1406 🔻  (77)|
 | Total Matches | 66 |
 | Wins | 37 |
@@ -32,7 +32,7 @@ title: pirates spatial
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-07-19 | 29-43 | [Sith Empire](https://ws.tsl.rocks/corp/7deb3943434ee3aa56bb4c29a0fb0831bcbc4b570a58a2809ea1a549b7df328e/) |
 | ❌ | 2024-07-13 | 35-48 | [GermanIndustrie](https://ws.tsl.rocks/corp/5d5954b2c9b2decd8836f2b7b9aa404e2f4386ae4fa682b54654459282852986/) |
 | ❌ | 2024-07-05 | 5-20 | [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) |

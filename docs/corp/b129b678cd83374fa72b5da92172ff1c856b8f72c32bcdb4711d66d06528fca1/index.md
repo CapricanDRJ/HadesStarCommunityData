@@ -6,7 +6,7 @@ title: 1st/Ave/Junkie2
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1176 🔻  (780)|
-| ELO Competitive | 1194 🔻  (584)|
+| ELO Competitive | 1194 🔻  (583)|
 | Total Matches | 37 |
 | Wins | 16 |
 | Losses | 20 |
@@ -23,7 +23,7 @@ title: 1st/Ave/Junkie2
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-07-15 | 0-13 | [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) |
 | ❌ | 2024-07-05 | 0-32 | [GalaxyNova](https://ws.tsl.rocks/corp/d3df4ca63632d4113f93581cd3629f93a8b06733db25c5ea94da3e7889cd8b94/) |
 | ❌ | 2024-06-26 | 0-31 | [共产星际](https://ws.tsl.rocks/corp/5cb42bdae108ad850e61479922e7d8cb4d5b7be7b8ac2f64fc828d3b88046737/) |

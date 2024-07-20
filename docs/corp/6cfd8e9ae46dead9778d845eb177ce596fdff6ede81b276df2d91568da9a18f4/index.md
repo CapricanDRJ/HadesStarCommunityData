@@ -5,7 +5,7 @@ title: North Star
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1164 🔻  (909)|
+| ELO Regular | 1164 🔻  (908)|
 | ELO Competitive | 1168 🔻  (968)|
 | Total Matches | 5 |
 | Wins | 1 |
@@ -16,7 +16,7 @@ title: North Star
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-02-23 | 6-22 | [Outland Ind\.](https://ws.tsl.rocks/corp/94cb8827caef9b4b1839113abd29145a128d0c1e108c3984bcf7620dd7fca464/) |
 | ❌ | 2024-02-16 | 10-34 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) |
 | ❌ | 2023-12-15 | 5-26 | [星舰月球](https://ws.tsl.rocks/corp/b9a3e1e7fd3a235db7f440974db9210dc9a3b85c39fd437099f32f53cfe1e21c/) |

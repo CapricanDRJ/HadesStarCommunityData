@@ -5,7 +5,7 @@ title: ITA
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1163 🔻  (915)|
+| ELO Regular | 1163 🔻  (914)|
 | ELO Competitive | 1283 🔻  (229)|
 | Total Matches | 32 |
 | Wins | 14 |
@@ -24,7 +24,7 @@ title: ITA
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-03-02 | 0-38 | [Space Penguins](https://ws.tsl.rocks/corp/6255ba7dab1bd2b150825874d1fea70b029dc79434f293d47518c27b0376e286/) |
 | ❌ | 2024-02-24 | 8-25 | [Space Oddity](https://ws.tsl.rocks/corp/a6d7cf2a6e8e92b03bf941f153a423ecc9483e3acb878d8658a1ca7f33abad81/) |
 | ✅ | 2024-02-17 | 40-4 | [Dauntless](https://ws.tsl.rocks/corp/8313138d370b0b0f15dea3af851c836f9a1e1e838bf26c652c9a9831fb6b739a/) |

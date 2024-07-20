@@ -5,7 +5,7 @@ title: SEC
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1268 🔺  (165)|
+| ELO Regular | 1268 🔺  (166)|
 | ELO Competitive | 1277 🔺  (242)|
 | Total Matches | 5 |
 | Wins | 5 |
@@ -23,7 +23,7 @@ title: SEC
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-07-07 | 8-1 | [探索舰队](https://ws.tsl.rocks/corp/8c465701390ed74d4d115e58d66289afb2eeef6247ca351a4cf88a0046e6fe55/) |
 | ✅ | 2024-06-29 | 12-2 | [RPFD\-DNR\-RWPB](https://ws.tsl.rocks/corp/0b44b93ba4150cc49e8bc5e489bd0f381cac46064d18e6929011011e0aaaf48c/) |
 | ✅ | 2024-06-21 | 8-0 | [以太超星团](https://ws.tsl.rocks/corp/327addf616128dc5b01013e29e850c76d22ae27af199bcc6bba3b92cee7818ae/) |

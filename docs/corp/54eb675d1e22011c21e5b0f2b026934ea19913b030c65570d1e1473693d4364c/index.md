@@ -5,7 +5,7 @@ title: 墨痕空域
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1269 🔺  (161)|
+| ELO Regular | 1269 🔺  (162)|
 | ELO Competitive | 1461 🔺  (41)|
 | Total Matches | 44 |
 | Wins | 29 |
@@ -24,7 +24,7 @@ title: 墨痕空域
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-07-19 | 9-3 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |
 | ❌ | 2024-07-19 | 5-8 | [宇宙银河帝国](https://ws.tsl.rocks/corp/afb9817e45c3c79048d2be30be3b635704485d260ae7b474b579a019d56d3c2d/) |
 | ✅ | 2024-07-14 | 24-0 | [Stardust](https://ws.tsl.rocks/corp/304ad360ced8ec5a0e12a9955f3dd8f8ac2476f48d98a379beda41221e5a1c1c/) |

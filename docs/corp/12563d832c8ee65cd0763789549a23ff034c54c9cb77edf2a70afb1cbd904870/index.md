@@ -6,7 +6,7 @@ title: Aurora Burning
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1183 🔺  (736)|
-| ELO Competitive | 1184 🔺  (816)|
+| ELO Competitive | 1184 🔺  (815)|
 | Total Matches | 5 |
 | Wins | 2 |
 | Losses | 3 |
@@ -16,7 +16,7 @@ title: Aurora Burning
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ✅ | 2024-03-03 | 3-2 | [水晶星际集团](https://ws.tsl.rocks/corp/6390d7a4666ac4537ef5eacf76dd1c2f34548cc588aac8dad423c308ad1c0f3d/) |
 | ❌ | 2024-02-05 | 6-10 | [ЧВК "Котики"](https://ws.tsl.rocks/corp/b770b833fe257bc6accd1bbe82a887971291dd0038f8aa627a47f3ce063265c0/) |
 | ❌ | 2024-01-26 | 0-7 | [Prometheus](https://ws.tsl.rocks/corp/b8bbef86e5b1f72bf9c827f0497871ab0363769ac4fef563fd56f96ac88c85a6/) |

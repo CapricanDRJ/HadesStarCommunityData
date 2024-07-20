@@ -5,7 +5,7 @@ title: Млечный путь
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1227 🔻  (292)|
+| ELO Regular | 1227 🔻  (291)|
 | ELO Competitive | 1283 🔻  (228)|
 | Total Matches | 25 |
 | Wins | 12 |
@@ -23,7 +23,7 @@ title: Млечный путь
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | --- | --- | --- |
+| --- | -------------- | --- | --- |
 | ❌ | 2024-07-05 | 3-26 | [lonewolf](https://ws.tsl.rocks/corp/216c1ab0bb2cbf918019c0a38a37820a9d5d78d7c5801983ed6e3b17bebdc5f3/) |
 | ❌ | 2024-06-28 | 4-36 | [alienigenas](https://ws.tsl.rocks/corp/1c092f1b0e9645193eac68e27b29b2b9fef39474fd8924495abec6754857a8f9/) |
 | ✅ | 2024-06-22 | 21-2 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) |
