@@ -5,8 +5,8 @@ title: 星を継ぐもの
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1333 🔺  (78)|
-| ELO Competitive | 1360 🔺  (116)|
+| ELO Regular | 1333 🔺  (79)|
+| ELO Competitive | 1360 🔺  (115)|
 | Total Matches | 36 |
 | Wins | 26 |
 | Losses | 10 |

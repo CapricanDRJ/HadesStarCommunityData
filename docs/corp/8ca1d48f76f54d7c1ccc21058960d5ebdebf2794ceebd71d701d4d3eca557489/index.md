@@ -5,7 +5,7 @@ title: 第一基地·端点星
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (644)|
+| ELO Regular | 1185 🔻  (643)|
 | ELO Competitive | 1185 🔻  (748)|
 | Total Matches | 1 |
 | Wins | 0 |

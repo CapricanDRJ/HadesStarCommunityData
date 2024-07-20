@@ -5,7 +5,7 @@ title: (_(_Vossk_)_)
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1179 🔻  (766)|
+| ELO Regular | 1179 🔻  (765)|
 | ELO Competitive | 1210 🔻  (481)|
 | Total Matches | 24 |
 | Wins | 10 |

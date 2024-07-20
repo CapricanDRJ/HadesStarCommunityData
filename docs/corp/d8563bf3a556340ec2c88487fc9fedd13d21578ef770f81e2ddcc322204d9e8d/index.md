@@ -5,7 +5,7 @@ title: Dacia
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 🔻  (422)|
+| ELO Regular | 1201 🔻  (421)|
 | ELO Competitive | 1202 🔻  (505)|
 | Total Matches | 2 |
 | Wins | 1 |

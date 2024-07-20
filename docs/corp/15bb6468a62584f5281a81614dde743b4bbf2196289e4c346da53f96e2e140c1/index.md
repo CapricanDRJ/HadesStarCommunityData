@@ -5,7 +5,7 @@ title: Слава Украине!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1352 🔻  (60)|
+| ELO Regular | 1352 🔻  (61)|
 | ELO Competitive | 1563 🔺  (5)|
 | Total Matches | 72 |
 | Wins | 47 |

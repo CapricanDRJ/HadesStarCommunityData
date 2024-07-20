@@ -5,7 +5,7 @@ title: Zvezdec
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1318 🔺  (93)|
+| ELO Regular | 1318 🔺  (94)|
 | ELO Competitive | 1399 🔺  (81)|
 | Total Matches | 43 |
 | Wins | 29 |

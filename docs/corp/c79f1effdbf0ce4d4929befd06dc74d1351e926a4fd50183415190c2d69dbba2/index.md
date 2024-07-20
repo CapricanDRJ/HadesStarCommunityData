@@ -5,7 +5,7 @@ title: Orione
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (739)|
+| ELO Regular | 1183 🔻  (738)|
 | ELO Competitive | 1189 🔻  (627)|
 | Total Matches | 2 |
 | Wins | 0 |

@@ -5,7 +5,7 @@ title: Southall 1
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1199 🔺  (455)|
+| ELO Regular | 1199 🔺  (453)|
 | ELO Competitive | 1199 🔺  (548)|
 | Total Matches | 3 |
 | Wins | 1 |

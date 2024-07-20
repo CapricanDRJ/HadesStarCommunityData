@@ -5,7 +5,7 @@ title: Cominters
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔻  (744)|
+| ELO Regular | 1182 🔻  (743)|
 | ELO Competitive | 1185 🔻  (741)|
 | Total Matches | 1 |
 | Wins | 0 |

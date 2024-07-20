@@ -5,7 +5,7 @@ title: Sternenwanderer
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (693)|
+| ELO Regular | 1185 🔻  (692)|
 | ELO Competitive | 1185 🔻  (796)|
 | Total Matches | 3 |
 | Wins | 1 |

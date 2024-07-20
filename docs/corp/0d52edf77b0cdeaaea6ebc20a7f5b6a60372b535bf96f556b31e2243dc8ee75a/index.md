@@ -5,11 +5,11 @@ title: Imperium XIII
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1247 🔻  (212)|
-| ELO Competitive | 1281 🔻  (236)|
-| Total Matches | 43 |
+| ELO Regular | 1237 🔻  (259)|
+| ELO Competitive | 1273 🔻  (252)|
+| Total Matches | 44 |
 | Wins | 24 |
-| Losses | 19 |
+| Losses | 20 |
 | Draws | 0 |
 | Streak Record | 5 |
 
@@ -17,6 +17,7 @@ title: Imperium XIII
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 0 | 2 | 0 | 2 |
 | [ANDROMEDA INC\. ](https://ws.tsl.rocks/corp/9d122968f1050c65cf6c741d5f018d932b3fdff8fc0a48144a4376b9fa18677b/) | 0 | 2 | 0 | 2 |
 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 2 | 2 | 0 | 4 |
 | [OntarioDestiny](https://ws.tsl.rocks/corp/806a86639b93c3a025e026bcedab96052be0e32b712c96217b3d5b330b3f5a6d/) | 2 | 0 | 0 | 2 |
@@ -31,6 +32,7 @@ title: Imperium XIII
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024-07-20 | 20-21 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | ❌ | 2024-07-12 | 29-38 | [VoidCorp](https://ws.tsl.rocks/corp/b866417e5607f8434347bb5f986e37c4fa7dda68b3882f0135d186043d3f68a3/) |
 | ❌ | 2024-07-06 | 13-23 | [ANDROMEDA INC\. ](https://ws.tsl.rocks/corp/9d122968f1050c65cf6c741d5f018d932b3fdff8fc0a48144a4376b9fa18677b/) |
 | ✅ | 2024-06-28 | 21-6 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) |

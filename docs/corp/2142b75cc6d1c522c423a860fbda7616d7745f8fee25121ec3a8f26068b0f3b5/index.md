@@ -5,7 +5,7 @@ title: 星舰国际
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1245 🔺  (219)|
+| ELO Regular | 1245 🔺  (218)|
 | ELO Competitive | 1252 🔺  (301)|
 | Total Matches | 4 |
 | Wins | 4 |

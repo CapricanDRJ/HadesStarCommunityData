@@ -5,7 +5,7 @@ title: BRhue
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔺  (538)|
+| ELO Regular | 1188 🔺  (537)|
 | ELO Competitive | 1195 🔺  (576)|
 | Total Matches | 4 |
 | Wins | 2 |

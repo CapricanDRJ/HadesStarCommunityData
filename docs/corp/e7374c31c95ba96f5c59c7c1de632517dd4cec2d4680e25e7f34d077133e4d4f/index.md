@@ -5,7 +5,7 @@ title: 九州分团
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1245 🔻  (224)|
+| ELO Regular | 1245 🔻  (223)|
 | ELO Competitive | 1333 🔻  (150)|
 | Total Matches | 65 |
 | Wins | 27 |

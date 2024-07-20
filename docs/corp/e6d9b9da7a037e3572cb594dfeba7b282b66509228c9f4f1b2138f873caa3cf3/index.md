@@ -5,7 +5,7 @@ title: 萌新港(大佬港)
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔺  (635)|
+| ELO Regular | 1185 🔺  (634)|
 | ELO Competitive | 1250 🔺  (306)|
 | Total Matches | 42 |
 | Wins | 18 |

@@ -5,7 +5,7 @@ title: Suicide Squad
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (756)|
+| ELO Regular | 1181 🔻  (755)|
 | ELO Competitive | 1181 🔻  (839)|
 | Total Matches | 1 |
 | Wins | 0 |

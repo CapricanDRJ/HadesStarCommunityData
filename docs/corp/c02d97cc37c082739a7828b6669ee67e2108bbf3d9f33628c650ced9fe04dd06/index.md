@@ -6,7 +6,7 @@ title: 银星舰队SSF
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1262 🔺  (176)|
-| ELO Competitive | 1274 🔺  (250)|
+| ELO Competitive | 1274 🔺  (249)|
 | Total Matches | 12 |
 | Wins | 9 |
 | Losses | 3 |

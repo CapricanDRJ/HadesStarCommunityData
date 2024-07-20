@@ -5,7 +5,7 @@ title: 万星联盟
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1324 🔺  (88)|
+| ELO Regular | 1324 🔺  (89)|
 | ELO Competitive | 1321 🔺  (170)|
 | Total Matches | 10 |
 | Wins | 10 |

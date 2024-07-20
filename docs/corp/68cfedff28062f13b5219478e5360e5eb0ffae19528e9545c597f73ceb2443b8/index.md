@@ -5,7 +5,7 @@ title: The 501st
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (750)|
+| ELO Regular | 1181 🔻  (749)|
 | ELO Competitive | 1189 🔻  (632)|
 | Total Matches | 8 |
 | Wins | 3 |

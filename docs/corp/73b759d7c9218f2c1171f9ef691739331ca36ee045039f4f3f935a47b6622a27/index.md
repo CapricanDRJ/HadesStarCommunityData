@@ -5,7 +5,7 @@ title: AAAA
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1180 🔺  (757)|
+| ELO Regular | 1180 🔺  (756)|
 | ELO Competitive | 1203 🔺  (504)|
 | Total Matches | 6 |
 | Wins | 2 |

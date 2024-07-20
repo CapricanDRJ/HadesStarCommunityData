@@ -5,7 +5,7 @@ title: Light Warriors
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1191 🔻  (509)|
+| ELO Regular | 1191 🔻  (507)|
 | ELO Competitive | 1191 🔻  (605)|
 | Total Matches | 1 |
 | Wins | 0 |

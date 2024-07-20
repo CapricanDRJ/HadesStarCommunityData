@@ -5,7 +5,7 @@ title: Quantum Jumpers
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔺  (555)|
+| ELO Regular | 1187 🔺  (554)|
 | ELO Competitive | 1197 🔺  (568)|
 | Total Matches | 10 |
 | Wins | 4 |

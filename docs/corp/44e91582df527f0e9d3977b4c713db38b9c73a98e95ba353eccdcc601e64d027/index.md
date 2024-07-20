@@ -5,7 +5,7 @@ title: Stellar Exports
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1241 🔻  (240)|
+| ELO Regular | 1241 🔻  (239)|
 | ELO Competitive | 1390 🔺  (88)|
 | Total Matches | 57 |
 | Wins | 33 |

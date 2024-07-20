@@ -5,7 +5,7 @@ title: INFINITY STAR
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (737)|
+| ELO Regular | 1183 🔻  (736)|
 | ELO Competitive | 1211 🔻  (479)|
 | Total Matches | 9 |
 | Wins | 4 |

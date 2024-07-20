@@ -5,7 +5,7 @@ title: 遨游星空  kdy分盟
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1180 🔻  (761)|
+| ELO Regular | 1180 🔻  (760)|
 | ELO Competitive | 1247 🔻  (313)|
 | Total Matches | 31 |
 | Wins | 13 |

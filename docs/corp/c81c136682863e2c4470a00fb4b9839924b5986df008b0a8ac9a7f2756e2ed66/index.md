@@ -5,7 +5,7 @@ title: The Base
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (736)|
+| ELO Regular | 1183 🔻  (735)|
 | ELO Competitive | 1183 🔻  (829)|
 | Total Matches | 1 |
 | Wins | 0 |

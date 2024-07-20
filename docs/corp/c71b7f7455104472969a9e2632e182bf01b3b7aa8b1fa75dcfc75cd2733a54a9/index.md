@@ -5,7 +5,7 @@ title: 萌新收留所
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1199 🔻  (460)|
+| ELO Regular | 1199 🔻  (458)|
 | ELO Competitive | 1199 🔻  (552)|
 | Total Matches | 6 |
 | Wins | 2 |

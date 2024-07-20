@@ -5,7 +5,7 @@ title: Бороская Имерия
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1196 🔻  (480)|
+| ELO Regular | 1196 🔻  (479)|
 | ELO Competitive | 1197 🔻  (566)|
 | Total Matches | 4 |
 | Wins | 2 |

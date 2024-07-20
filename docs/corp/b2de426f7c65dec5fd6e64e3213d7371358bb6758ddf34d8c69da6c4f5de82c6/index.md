@@ -5,10 +5,10 @@ title: Hun Generals
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1000 🔻  (1162)|
-| ELO Competitive | 1111 🔻  (1122)|
-| Total Matches | 36 |
-| Wins | 7 |
+| ELO Regular | 1023 🔺  (1155)|
+| ELO Competitive | 1136 🔺  (1090)|
+| Total Matches | 37 |
+| Wins | 8 |
 | Losses | 29 |
 | Draws | 0 |
 | Streak Record | 3 |
@@ -17,6 +17,7 @@ title: Hun Generals
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) | 1 | 1 | 0 | 2 |
 | [ANZAC Warriors](https://ws.tsl.rocks/corp/dbb190c3127dbab2a3d6d58f1f8f63425f1dbd1949f6442fb2d162e66246b484/) | 0 | 3 | 0 | 3 |
 | [Nine's Own Goal](https://ws.tsl.rocks/corp/fd47245550708347721e341d893b73e7c23e0f3624053c47ce666e55641c9e9e/) | 0 | 2 | 0 | 2 |
 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 0 | 2 | 0 | 2 |
@@ -25,6 +26,7 @@ title: Hun Generals
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024-07-20 | 31-12 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) |
 | ❌ | 2024-07-14 | 2-11 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) |
 | ❌ | 2024-07-13 | 4-45 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) |
 | ❌ | 2024-07-07 | 0-5 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |

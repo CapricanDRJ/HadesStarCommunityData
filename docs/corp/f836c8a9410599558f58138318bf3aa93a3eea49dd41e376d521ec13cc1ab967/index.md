@@ -5,7 +5,7 @@ title: Danish Oil
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (629)|
+| ELO Regular | 1185 🔻  (628)|
 | ELO Competitive | 1186 🔻  (711)|
 | Total Matches | 1 |
 | Wins | 0 |

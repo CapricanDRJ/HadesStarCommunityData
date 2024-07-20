@@ -5,7 +5,7 @@ title: 希灵帝国
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1193 🔻  (501)|
+| ELO Regular | 1193 🔻  (499)|
 | ELO Competitive | 1193 🔻  (584)|
 | Total Matches | 1 |
 | Wins | 0 |

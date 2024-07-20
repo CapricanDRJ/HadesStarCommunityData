@@ -5,7 +5,7 @@ title: 花鸟市场
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (634)|
+| ELO Regular | 1185 🔻  (633)|
 | ELO Competitive | 1185 🔻  (739)|
 | Total Matches | 1 |
 | Wins | 0 |

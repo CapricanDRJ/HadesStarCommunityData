@@ -5,13 +5,12 @@ title: Order of Hades
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1388 🔺  (42)|
-| ELO Competitive | 1475 🔺  (32)|
-| Total Matches | 65 |
+| ELO Regular | 1370 🔻  (49)|
+| ELO Competitive | 1457 🔻  (42)|
+| Total Matches | 66 |
 | Wins | 49 |
-| Losses | 16 |
+| Losses | 17 |
 | Draws | 0 |
-| Streak | 4 |
 | Streak Record | 18 |
 
 ### Recurring Opponents
@@ -31,6 +30,7 @@ title: Order of Hades
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024-07-20 | 11-15 | [BRASIL STAR](https://ws.tsl.rocks/corp/94fc4639f17e4503a11d4ac3878f3203bca3f21baebf285433ff39ad37f0fff2/) |
 | ✅ | 2024-07-13 | 41-4 | [ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ](https://ws.tsl.rocks/corp/85a74d128f924274446b7fb754136e6ef7185c754df2fae3b10591d28536f17a/) |
 | ✅ | 2024-07-12 | 34-0 | [Anla'Shok](https://ws.tsl.rocks/corp/ee2d5a60dee46a98f5178e2807099ebca3c64db7a1fd052df34812d6d88e52a1/) |
 | ✅ | 2024-07-06 | 37-19 | [Providence](https://ws.tsl.rocks/corp/f12fc39ca2326de7c5ce96c005b1953c86430443f1f8b98e7515d082b43b4d4b/) |

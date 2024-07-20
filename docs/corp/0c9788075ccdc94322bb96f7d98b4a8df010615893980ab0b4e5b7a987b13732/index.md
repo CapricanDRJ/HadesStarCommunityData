@@ -5,7 +5,7 @@ title: Aegis Shield
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1126 🔻  (1050)|
+| ELO Regular | 1126 🔻  (1051)|
 | ELO Competitive | 1138 🔻  (1086)|
 | Total Matches | 9 |
 | Wins | 2 |

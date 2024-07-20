@@ -5,7 +5,7 @@ title: Mandalorians
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1178 🔻  (769)|
+| ELO Regular | 1178 🔻  (768)|
 | ELO Competitive | 1180 🔻  (845)|
 | Total Matches | 4 |
 | Wins | 1 |

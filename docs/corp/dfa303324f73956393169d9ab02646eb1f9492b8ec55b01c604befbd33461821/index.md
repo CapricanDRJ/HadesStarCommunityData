@@ -5,7 +5,7 @@ title: 𝖕𝖎𝖗𝖆𝖙𝖊𝖘
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 🔻  (430)|
+| ELO Regular | 1201 🔻  (428)|
 | ELO Competitive | 1201 🔻  (517)|
 | Total Matches | 2 |
 | Wins | 1 |

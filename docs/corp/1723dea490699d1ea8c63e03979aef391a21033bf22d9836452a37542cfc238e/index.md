@@ -6,7 +6,7 @@ title: Soul System
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1110 🔻  (1082)|
-| ELO Competitive | 1118 🔻  (1108)|
+| ELO Competitive | 1118 🔻  (1109)|
 | Total Matches | 9 |
 | Wins | 0 |
 | Losses | 9 |

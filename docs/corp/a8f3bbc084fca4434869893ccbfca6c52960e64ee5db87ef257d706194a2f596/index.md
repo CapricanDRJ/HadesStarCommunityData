@@ -5,7 +5,7 @@ title: WinterComes
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (630)|
+| ELO Regular | 1185 🔻  (629)|
 | ELO Competitive | 1186 🔻  (729)|
 | Total Matches | 1 |
 | Wins | 0 |

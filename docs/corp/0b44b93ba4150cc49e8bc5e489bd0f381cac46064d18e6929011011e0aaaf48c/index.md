@@ -5,7 +5,7 @@ title: RPFD-DNR-RWPB
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔺  (708)|
+| ELO Regular | 1184 🔺  (707)|
 | ELO Competitive | 1190 🔺  (618)|
 | Total Matches | 5 |
 | Wins | 2 |

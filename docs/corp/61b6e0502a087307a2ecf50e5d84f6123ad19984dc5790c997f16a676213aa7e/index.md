@@ -5,12 +5,13 @@ title: 羽共和体
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1118 🔺  (1068)|
+| ELO Regular | 1137 🔺  (1025)|
 | ELO Competitive | 1197 🔺  (570)|
-| Total Matches | 29 |
-| Wins | 9 |
+| Total Matches | 30 |
+| Wins | 10 |
 | Losses | 17 |
 | Draws | 3 |
+| Streak | 2 |
 | Streak Record | 2 |
 
 
@@ -18,6 +19,7 @@ title: 羽共和体
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024-07-20 | 3-2 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |
 | ✅ | 2024-07-19 | 2-1 | [脉冲星际集团](https://ws.tsl.rocks/corp/a4c08cf63563563e9bfa1d35edb256e9bb8bcdca15103d646d2ff8ed9d17f480/) |
 | ❌ | 2024-07-14 | 0-8 | [星光万丈](https://ws.tsl.rocks/corp/92ad2a305a74e168b57771140461b4d226e1e8cac17b4f77027d5a67ead5fa1d/) |
 | ✅ | 2024-07-07 | 2-0 | [公共星际集团](https://ws.tsl.rocks/corp/f57faccefed6ab561fa61ac8e6f60708928e3a8b5caa5172c97c2a29348aed37/) |

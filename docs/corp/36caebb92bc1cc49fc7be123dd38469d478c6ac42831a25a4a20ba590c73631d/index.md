@@ -5,7 +5,7 @@ title: 海澜之家
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (753)|
+| ELO Regular | 1181 🔻  (752)|
 | ELO Competitive | 1184 🔻  (817)|
 | Total Matches | 1 |
 | Wins | 0 |

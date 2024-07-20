@@ -6,7 +6,7 @@ title: REY DE REYES
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1107 🔻  (1086)|
-| ELO Competitive | 1118 🔻  (1110)|
+| ELO Competitive | 1118 🔻  (1111)|
 | Total Matches | 10 |
 | Wins | 1 |
 | Losses | 9 |

@@ -6,7 +6,7 @@ title: Mercury Sunset
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1423 🔺  (24)|
-| ELO Competitive | 1459 🔺  (42)|
+| ELO Competitive | 1459 🔺  (41)|
 | Total Matches | 20 |
 | Wins | 20 |
 | Losses | 0 |

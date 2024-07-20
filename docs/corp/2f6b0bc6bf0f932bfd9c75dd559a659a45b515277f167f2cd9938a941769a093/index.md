@@ -6,7 +6,7 @@ title: E.T.A 二营
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1092 🔺  (1101)|
-| ELO Competitive | 1115 🔺  (1115)|
+| ELO Competitive | 1115 🔺  (1116)|
 | Total Matches | 11 |
 | Wins | 0 |
 | Losses | 9 |

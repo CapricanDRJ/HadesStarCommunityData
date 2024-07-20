@@ -6,7 +6,7 @@ title: Planet Express
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1268 🔻  (166)|
-| ELO Competitive | 1276 🔻  (245)|
+| ELO Competitive | 1276 🔻  (244)|
 | Total Matches | 10 |
 | Wins | 7 |
 | Losses | 2 |

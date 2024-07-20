@@ -6,7 +6,7 @@ title: 共产主义舰队
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1277 🔺  (150)|
-| ELO Competitive | 1278 🔺  (240)|
+| ELO Competitive | 1278 🔺  (239)|
 | Total Matches | 8 |
 | Wins | 7 |
 | Losses | 1 |

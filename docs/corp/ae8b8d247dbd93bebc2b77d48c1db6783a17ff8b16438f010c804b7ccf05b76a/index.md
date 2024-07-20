@@ -5,7 +5,7 @@ title: Созидание 2.0
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1137 🔺  (1025)|
+| ELO Regular | 1137 🔺  (1026)|
 | ELO Competitive | 1148 🔺  (1055)|
 | Total Matches | 25 |
 | Wins | 9 |

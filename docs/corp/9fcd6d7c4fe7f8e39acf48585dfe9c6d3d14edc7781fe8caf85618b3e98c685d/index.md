@@ -5,8 +5,8 @@ title: Sich.ua
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1242 🔺  (236)|
-| ELO Competitive | 1374 🔺  (101)|
+| ELO Regular | 1242 🔺  (235)|
+| ELO Competitive | 1374 🔺  (100)|
 | Total Matches | 32 |
 | Wins | 18 |
 | Losses | 13 |

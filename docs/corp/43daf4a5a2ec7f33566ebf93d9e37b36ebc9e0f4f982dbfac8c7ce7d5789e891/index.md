@@ -5,7 +5,7 @@ title: Rebellion!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔻  (517)|
+| ELO Regular | 1190 🔻  (515)|
 | ELO Competitive | 1198 🔻  (558)|
 | Total Matches | 2 |
 | Wins | 0 |

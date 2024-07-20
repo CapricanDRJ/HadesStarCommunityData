@@ -5,7 +5,7 @@ title: Czech Legion
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1241 🔺  (239)|
+| ELO Regular | 1241 🔺  (238)|
 | ELO Competitive | 1257 🔺  (286)|
 | Total Matches | 5 |
 | Wins | 4 |

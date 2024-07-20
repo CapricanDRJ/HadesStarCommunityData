@@ -5,7 +5,7 @@ title: Argentina 1.0
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1237 🔻  (258)|
+| ELO Regular | 1237 🔻  (257)|
 | ELO Competitive | 1270 🔻  (261)|
 | Total Matches | 28 |
 | Wins | 16 |

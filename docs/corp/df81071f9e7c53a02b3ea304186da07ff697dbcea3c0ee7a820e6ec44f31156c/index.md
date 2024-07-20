@@ -5,7 +5,7 @@ title: L’Amalgame
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (725)|
+| ELO Regular | 1184 🔻  (724)|
 | ELO Competitive | 1189 🔺  (638)|
 | Total Matches | 2 |
 | Wins | 0 |

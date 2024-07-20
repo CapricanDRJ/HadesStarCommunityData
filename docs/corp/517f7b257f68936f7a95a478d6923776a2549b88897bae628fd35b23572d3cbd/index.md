@@ -6,7 +6,7 @@ title: Spacefleet
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1299 🔻  (123)|
-| ELO Competitive | 1425 🔺  (62)|
+| ELO Competitive | 1425 🔺  (63)|
 | Total Matches | 50 |
 | Wins | 32 |
 | Losses | 18 |

@@ -5,7 +5,7 @@ title: Odessa
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1135 🔻  (1029)|
+| ELO Regular | 1135 🔻  (1030)|
 | ELO Competitive | 1147 🔻  (1057)|
 | Total Matches | 17 |
 | Wins | 5 |

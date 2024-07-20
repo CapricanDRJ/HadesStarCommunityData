@@ -5,7 +5,7 @@ title: IMPERIAL ARMADA
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (699)|
+| ELO Regular | 1184 🔻  (698)|
 | ELO Competitive | 1185 🔻  (744)|
 | Total Matches | 1 |
 | Wins | 0 |

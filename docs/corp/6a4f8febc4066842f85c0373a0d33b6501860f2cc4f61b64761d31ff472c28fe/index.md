@@ -5,7 +5,7 @@ title: Quilliance
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1328 🔺  (85)|
+| ELO Regular | 1328 🔺  (86)|
 | ELO Competitive | 1349 🔺  (129)|
 | Total Matches | 15 |
 | Wins | 13 |

@@ -5,7 +5,7 @@ title: Celtic Empire 2
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔻  (519)|
+| ELO Regular | 1190 🔻  (517)|
 | ELO Competitive | 1192 🔻  (599)|
 | Total Matches | 1 |
 | Wins | 0 |

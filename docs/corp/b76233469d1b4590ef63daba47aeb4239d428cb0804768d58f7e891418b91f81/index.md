@@ -5,7 +5,7 @@ title: Cerulean Nebula
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1247 🔺  (213)|
+| ELO Regular | 1247 🔺  (212)|
 | ELO Competitive | 1294 🔺  (210)|
 | Total Matches | 24 |
 | Wins | 14 |

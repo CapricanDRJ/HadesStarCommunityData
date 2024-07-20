@@ -5,7 +5,7 @@ title: Harpias
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1200 🔻  (449)|
+| ELO Regular | 1200 🔻  (447)|
 | ELO Competitive | 1201 🔺  (522)|
 | Total Matches | 2 |
 | Wins | 0 |

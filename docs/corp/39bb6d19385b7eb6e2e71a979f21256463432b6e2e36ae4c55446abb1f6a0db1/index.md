@@ -5,7 +5,7 @@ title: First Squad
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1136 🔻  (1027)|
+| ELO Regular | 1136 🔻  (1028)|
 | ELO Competitive | 1150 🔻  (1044)|
 | Total Matches | 8 |
 | Wins | 1 |

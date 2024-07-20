@@ -5,7 +5,7 @@ title: Goa'uld
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (748)|
+| ELO Regular | 1181 🔻  (747)|
 | ELO Competitive | 1182 🔻  (838)|
 | Total Matches | 3 |
 | Wins | 0 |

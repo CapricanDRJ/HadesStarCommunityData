@@ -6,7 +6,7 @@ title: Ten Forward
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1115 🔻  (1076)|
-| ELO Competitive | 1118 🔻  (1111)|
+| ELO Competitive | 1118 🔻  (1112)|
 | Total Matches | 8 |
 | Wins | 1 |
 | Losses | 7 |

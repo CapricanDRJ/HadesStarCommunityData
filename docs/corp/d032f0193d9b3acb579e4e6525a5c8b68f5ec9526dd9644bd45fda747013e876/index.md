@@ -5,8 +5,8 @@ title: BSO Academy
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1355 🔺  (58)|
-| ELO Competitive | 1369 🔺  (106)|
+| ELO Regular | 1355 🔺  (59)|
+| ELO Competitive | 1369 🔺  (105)|
 | Total Matches | 15 |
 | Wins | 14 |
 | Losses | 1 |

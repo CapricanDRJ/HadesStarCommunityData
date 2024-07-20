@@ -5,8 +5,8 @@ title: 黑色长城
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1124 🔻  (1053)|
-| ELO Competitive | 1131 🔻  (1096)|
+| ELO Regular | 1124 🔻  (1054)|
+| ELO Competitive | 1131 🔻  (1097)|
 | Total Matches | 11 |
 | Wins | 2 |
 | Losses | 8 |

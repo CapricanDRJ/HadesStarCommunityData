@@ -5,7 +5,7 @@ title: VAJRA
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 🔻  (532)|
+| ELO Regular | 1189 🔻  (530)|
 | ELO Competitive | 1189 🔻  (626)|
 | Total Matches | 3 |
 | Wins | 1 |

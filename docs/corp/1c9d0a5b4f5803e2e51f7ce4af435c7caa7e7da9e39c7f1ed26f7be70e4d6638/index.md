@@ -5,7 +5,7 @@ title: Sterling Gamers
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 🔻  (425)|
+| ELO Regular | 1201 🔻  (424)|
 | ELO Competitive | 1201 🔻  (514)|
 | Total Matches | 2 |
 | Wins | 1 |

@@ -5,7 +5,7 @@ title: Hyperion Radius
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (718)|
+| ELO Regular | 1184 🔻  (717)|
 | ELO Competitive | 1184 🔻  (805)|
 | Total Matches | 1 |
 | Wins | 0 |

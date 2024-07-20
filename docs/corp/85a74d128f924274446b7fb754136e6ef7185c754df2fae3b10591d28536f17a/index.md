@@ -5,8 +5,8 @@ title: ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1199 🔻  (465)|
-| ELO Competitive | 1319 🔻  (174)|
+| ELO Regular | 1199 🔻  (463)|
+| ELO Competitive | 1319 🔻  (175)|
 | Total Matches | 47 |
 | Wins | 20 |
 | Losses | 27 |

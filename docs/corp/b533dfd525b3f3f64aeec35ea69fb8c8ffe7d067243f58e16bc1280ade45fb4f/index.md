@@ -5,7 +5,7 @@ title: Star Dust
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1191 🔻  (513)|
+| ELO Regular | 1191 🔻  (511)|
 | ELO Competitive | 1190 🔻  (623)|
 | Total Matches | 5 |
 | Wins | 2 |

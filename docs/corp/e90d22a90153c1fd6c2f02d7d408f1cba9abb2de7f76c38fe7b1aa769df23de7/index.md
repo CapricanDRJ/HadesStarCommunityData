@@ -6,7 +6,7 @@ title: Killer Shadow
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1109 🔻  (1084)|
-| ELO Competitive | 1114 🔻  (1116)|
+| ELO Competitive | 1114 🔻  (1117)|
 | Total Matches | 12 |
 | Wins | 2 |
 | Losses | 10 |

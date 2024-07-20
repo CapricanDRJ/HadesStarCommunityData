@@ -5,7 +5,7 @@ title: Fishy Business
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 🔻  (426)|
+| ELO Regular | 1201 🔻  (425)|
 | ELO Competitive | 1201 🔻  (516)|
 | Total Matches | 2 |
 | Wins | 1 |

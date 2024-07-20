@@ -5,7 +5,7 @@ title: SPACECOWBOYS
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (637)|
+| ELO Regular | 1185 🔻  (636)|
 | ELO Competitive | 1185 🔻  (742)|
 | Total Matches | 1 |
 | Wins | 0 |

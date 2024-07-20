@@ -5,7 +5,7 @@ title: loveboat
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (580)|
+| ELO Regular | 1186 🔻  (579)|
 | ELO Competitive | 1186 🔻  (682)|
 | Total Matches | 1 |
 | Wins | 0 |

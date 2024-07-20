@@ -5,7 +5,7 @@ title: 德意志第三帝国阿尔法分部
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1021 🔻  (1155)|
+| ELO Regular | 1021 🔻  (1156)|
 | ELO Competitive | 1108 🔻  (1126)|
 | Total Matches | 30 |
 | Wins | 3 |

@@ -5,7 +5,7 @@ title: Starlancer
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1016 🔻  (1158)|
+| ELO Regular | 1016 🔻  (1159)|
 | ELO Competitive | 1031 🔻  (1170)|
 | Total Matches | 18 |
 | Wins | 0 |

@@ -5,7 +5,7 @@ title: FėniX•
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻  (545)|
+| ELO Regular | 1188 🔻  (544)|
 | ELO Competitive | 1189 🔻  (633)|
 | Total Matches | 8 |
 | Wins | 3 |

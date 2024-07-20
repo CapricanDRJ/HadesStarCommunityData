@@ -5,7 +5,7 @@ title: The Red Dwarves
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔻  (523)|
+| ELO Regular | 1190 🔻  (521)|
 | ELO Competitive | 1204 🔻  (498)|
 | Total Matches | 8 |
 | Wins | 3 |

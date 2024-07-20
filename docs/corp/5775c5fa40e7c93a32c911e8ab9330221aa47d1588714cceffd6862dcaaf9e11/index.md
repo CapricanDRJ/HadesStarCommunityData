@@ -5,7 +5,7 @@ title: Federation
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (566)|
+| ELO Regular | 1187 🔻  (565)|
 | ELO Competitive | 1187 🔻  (668)|
 | Total Matches | 1 |
 | Wins | 0 |

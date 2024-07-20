@@ -5,7 +5,7 @@ title: USSR
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻  (544)|
+| ELO Regular | 1188 🔻  (543)|
 | ELO Competitive | 1189 🔻  (644)|
 | Total Matches | 5 |
 | Wins | 2 |

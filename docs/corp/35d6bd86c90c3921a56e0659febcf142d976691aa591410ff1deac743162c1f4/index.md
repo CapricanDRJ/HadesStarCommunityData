@@ -5,7 +5,7 @@ title: New Era
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (712)|
+| ELO Regular | 1184 🔻  (711)|
 | ELO Competitive | 1184 🔻  (809)|
 | Total Matches | 1 |
 | Wins | 0 |

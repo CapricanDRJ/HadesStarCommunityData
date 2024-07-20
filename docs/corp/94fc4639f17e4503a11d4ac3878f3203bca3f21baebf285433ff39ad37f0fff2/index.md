@@ -5,12 +5,13 @@ title: BRASIL STAR
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1316 🔺  (96)|
-| ELO Competitive | 1412 🔺  (69)|
-| Total Matches | 46 |
-| Wins | 30 |
+| ELO Regular | 1334 🔺  (76)|
+| ELO Competitive | 1429 🔺  (60)|
+| Total Matches | 47 |
+| Wins | 31 |
 | Losses | 15 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 5 |
 
 ### Recurring Opponents
@@ -25,6 +26,7 @@ title: BRASIL STAR
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024-07-20 | 15-11 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) |
 | ✅ | 2024-07-13 | 28-0 | [ༀᅗBAR ESTELARᅗༀ](https://ws.tsl.rocks/corp/874716e0cba92e65a541f6751246b0fa1d503d7ee2b00dcde1ab424af30190be/) |
 | ❌ | 2024-06-29 | 3-13 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |
 | ✅ | 2024-06-22 | 21-3 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |

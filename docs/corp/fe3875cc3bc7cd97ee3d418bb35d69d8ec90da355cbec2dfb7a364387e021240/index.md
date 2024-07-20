@@ -5,7 +5,7 @@ title: Pixies
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1202 🔻  (419)|
+| ELO Regular | 1202 🔻  (418)|
 | ELO Competitive | 1209 🔻  (487)|
 | Total Matches | 4 |
 | Wins | 2 |

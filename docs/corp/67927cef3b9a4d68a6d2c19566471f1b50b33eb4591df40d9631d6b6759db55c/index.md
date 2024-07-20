@@ -5,11 +5,11 @@ title: 星际集团
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1208 🔻  (404)|
+| ELO Regular | 1189 🔻  (532)|
 | ELO Competitive | 1227 🔻  (371)|
-| Total Matches | 8 |
+| Total Matches | 9 |
 | Wins | 4 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 2 |
 | Streak Record | 2 |
 
@@ -23,6 +23,7 @@ title: 星际集团
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024-07-20 | 2-3 | [羽共和体](https://ws.tsl.rocks/corp/61b6e0502a087307a2ecf50e5d84f6123ad19984dc5790c997f16a676213aa7e/) |
 | ❌ | 2024-07-20 | 0-18 | [萌新的收留所](https://ws.tsl.rocks/corp/1dd3f70c959e32c27cb4c010162be3799b7c0732115d5c2b7ca5979f48b10f7f/) |
 | ✅ | 2024-07-14 | 3-0 | [公共星际集团](https://ws.tsl.rocks/corp/f57faccefed6ab561fa61ac8e6f60708928e3a8b5caa5172c97c2a29348aed37/) |
 | ↔️ | 2024-07-14 | 1-1 | [公共星际集团](https://ws.tsl.rocks/corp/f57faccefed6ab561fa61ac8e6f60708928e3a8b5caa5172c97c2a29348aed37/) |

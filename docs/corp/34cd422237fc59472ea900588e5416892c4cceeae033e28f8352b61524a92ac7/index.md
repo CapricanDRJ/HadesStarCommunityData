@@ -5,7 +5,7 @@ title: CCCP
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1132 🔺  (1035)|
+| ELO Regular | 1132 🔺  (1036)|
 | ELO Competitive | 1136 🔺  (1087)|
 | Total Matches | 9 |
 | Wins | 1 |

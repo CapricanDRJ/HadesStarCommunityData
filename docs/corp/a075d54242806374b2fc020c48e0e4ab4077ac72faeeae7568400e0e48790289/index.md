@@ -5,10 +5,10 @@ title: Неизбежный Рок
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1348 🔻  (63)|
-| ELO Competitive | 1468 🔻  (38)|
-| Total Matches | 69 |
-| Wins | 45 |
+| ELO Regular | 1358 🔺  (57)|
+| ELO Competitive | 1475 🔺  (32)|
+| Total Matches | 70 |
+| Wins | 46 |
 | Losses | 23 |
 | Draws | 1 |
 | Streak Record | 7 |
@@ -17,6 +17,7 @@ title: Неизбежный Рок
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Imperium XIII](https://ws.tsl.rocks/corp/0d52edf77b0cdeaaea6ebc20a7f5b6a60372b535bf96f556b31e2243dc8ee75a/) | 2 | 0 | 0 | 2 |
 | [Valhalla Rising](https://ws.tsl.rocks/corp/8843a04f5528aa779a62f129af7ef619b90742807f0d436ae85a69870206b254/) | 1 | 2 | 0 | 3 |
 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) | 0 | 2 | 0 | 2 |
 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) | 8 | 0 | 1 | 9 |
@@ -33,6 +34,7 @@ title: Неизбежный Рок
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024-07-20 | 21-20 | [Imperium XIII](https://ws.tsl.rocks/corp/0d52edf77b0cdeaaea6ebc20a7f5b6a60372b535bf96f556b31e2243dc8ee75a/) |
 | ❌ | 2024-07-15 | 13-28 | [United Stars ](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) |
 | ✅ | 2024-07-13 | 35-7 | [StellaMysterium](https://ws.tsl.rocks/corp/cfaaa81ed93cc9361ade470c3414c73ecf77068badd68d624c7b3f486d142b10/) |
 | ✅ | 2024-07-10 | 13-6 | [The Goonies](https://ws.tsl.rocks/corp/12ebe9e9a1c71d9a15f622670c299d2b2193e3e7a9ef18b1773c8b5965cb68ab/) |

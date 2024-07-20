@@ -5,7 +5,7 @@ title: Last Chance
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1202 🔻  (417)|
+| ELO Regular | 1202 🔻  (416)|
 | ELO Competitive | 1207 🔻  (491)|
 | Total Matches | 5 |
 | Wins | 2 |

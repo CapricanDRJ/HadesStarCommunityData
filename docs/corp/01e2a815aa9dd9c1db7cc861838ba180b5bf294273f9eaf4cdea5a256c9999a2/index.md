@@ -5,7 +5,7 @@ title: 华夏远征太空舰队
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (588)|
+| ELO Regular | 1186 🔻  (587)|
 | ELO Competitive | 1186 🔻  (693)|
 | Total Matches | 1 |
 | Wins | 0 |

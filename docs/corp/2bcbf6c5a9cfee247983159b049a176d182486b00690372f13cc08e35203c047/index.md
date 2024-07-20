@@ -5,7 +5,7 @@ title: Todesschwadron
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔺  (520)|
+| ELO Regular | 1190 🔺  (518)|
 | ELO Competitive | 1192 🔺  (597)|
 | Total Matches | 5 |
 | Wins | 2 |

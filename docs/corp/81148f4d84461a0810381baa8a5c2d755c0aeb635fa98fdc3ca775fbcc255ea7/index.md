@@ -5,7 +5,7 @@ title: TheSpacingGuild
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (638)|
+| ELO Regular | 1185 🔻  (637)|
 | ELO Competitive | 1187 🔻  (677)|
 | Total Matches | 1 |
 | Wins | 0 |

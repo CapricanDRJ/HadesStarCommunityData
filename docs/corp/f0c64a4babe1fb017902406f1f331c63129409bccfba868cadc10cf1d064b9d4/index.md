@@ -5,7 +5,7 @@ title: AFronteiraFinal
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1378 🔺  (46)|
+| ELO Regular | 1378 🔺  (45)|
 | ELO Competitive | 1394 🔺  (85)|
 | Total Matches | 26 |
 | Wins | 19 |

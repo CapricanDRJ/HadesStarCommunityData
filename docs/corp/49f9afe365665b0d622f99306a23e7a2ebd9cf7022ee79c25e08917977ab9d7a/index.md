@@ -5,7 +5,7 @@ title: TECH CO
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1123 🔻  (1058)|
+| ELO Regular | 1123 🔻  (1059)|
 | ELO Competitive | 1187 🔻  (665)|
 | Total Matches | 26 |
 | Wins | 9 |

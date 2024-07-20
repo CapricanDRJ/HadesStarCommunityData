@@ -6,7 +6,7 @@ title: 欢迎国人
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1107 🔻  (1087)|
-| ELO Competitive | 1113 🔻  (1120)|
+| ELO Competitive | 1113 🔻  (1121)|
 | Total Matches | 15 |
 | Wins | 3 |
 | Losses | 10 |

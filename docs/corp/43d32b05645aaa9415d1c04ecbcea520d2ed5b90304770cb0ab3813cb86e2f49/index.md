@@ -5,7 +5,7 @@ title: 붉은늑대
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔺  (577)|
+| ELO Regular | 1186 🔺  (576)|
 | ELO Competitive | 1347 🔺  (131)|
 | Total Matches | 69 |
 | Wins | 32 |

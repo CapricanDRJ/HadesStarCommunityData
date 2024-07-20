@@ -5,7 +5,7 @@ title: 星环建设集团
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻  (541)|
+| ELO Regular | 1188 🔻  (540)|
 | ELO Competitive | 1200 🔻  (540)|
 | Total Matches | 14 |
 | Wins | 6 |

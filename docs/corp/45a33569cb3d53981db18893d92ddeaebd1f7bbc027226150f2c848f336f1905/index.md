@@ -5,11 +5,11 @@ title: Bloodtide
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 🔺  (428)|
-| ELO Competitive | 1381 🔺  (96)|
-| Total Matches | 66 |
+| ELO Regular | 1178 🔻  (770)|
+| ELO Competitive | 1356 🔻  (116)|
+| Total Matches | 67 |
 | Wins | 35 |
-| Losses | 31 |
+| Losses | 32 |
 | Draws | 0 |
 | Streak Record | 7 |
 
@@ -17,6 +17,7 @@ title: Bloodtide
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) | 1 | 1 | 0 | 2 |
 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 1 | 1 | 0 | 2 |
 | [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 1 | 2 | 0 | 3 |
 | [Terranova](https://ws.tsl.rocks/corp/4eeaf112dd9983e997c8c9ec43e562763a8cd4a95f268b4bfeee5e39934f01de/) | 2 | 0 | 0 | 2 |
@@ -37,6 +38,7 @@ title: Bloodtide
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024-07-20 | 12-31 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) |
 | ✅ | 2024-07-13 | 18-12 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | ❌ | 2024-07-13 | 10-28 | [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) |
 | ✅ | 2024-07-06 | 32-12 | [Terranova](https://ws.tsl.rocks/corp/4eeaf112dd9983e997c8c9ec43e562763a8cd4a95f268b4bfeee5e39934f01de/) |

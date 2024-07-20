@@ -5,7 +5,7 @@ title: 湖心亭看雪
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1016 🔻  (1156)|
+| ELO Regular | 1016 🔻  (1157)|
 | ELO Competitive | 1092 🔻  (1140)|
 | Total Matches | 23 |
 | Wins | 2 |

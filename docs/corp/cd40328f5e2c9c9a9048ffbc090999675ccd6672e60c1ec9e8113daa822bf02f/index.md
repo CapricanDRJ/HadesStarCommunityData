@@ -5,7 +5,7 @@ title: Intari
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1199 🔻  (463)|
+| ELO Regular | 1199 🔻  (461)|
 | ELO Competitive | 1199 🔻  (554)|
 | Total Matches | 1 |
 | Wins | 0 |

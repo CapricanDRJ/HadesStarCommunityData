@@ -5,7 +5,7 @@ title: Spacey Bois
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (632)|
+| ELO Regular | 1185 🔻  (631)|
 | ELO Competitive | 1186 🔻  (695)|
 | Total Matches | 5 |
 | Wins | 2 |

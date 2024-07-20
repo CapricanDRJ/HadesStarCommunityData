@@ -5,7 +5,7 @@ title: Betelgeuse
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (597)|
+| ELO Regular | 1186 🔻  (596)|
 | ELO Competitive | 1186 🔻  (702)|
 | Total Matches | 1 |
 | Wins | 0 |

@@ -5,7 +5,7 @@ title: Черное солнце
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (582)|
+| ELO Regular | 1186 🔻  (581)|
 | ELO Competitive | 1205 🔺  (495)|
 | Total Matches | 2 |
 | Wins | 0 |

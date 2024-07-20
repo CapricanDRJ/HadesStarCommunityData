@@ -5,7 +5,7 @@ title: fishwax
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (728)|
+| ELO Regular | 1183 🔻  (727)|
 | ELO Competitive | 1183 🔻  (825)|
 | Total Matches | 1 |
 | Wins | 0 |

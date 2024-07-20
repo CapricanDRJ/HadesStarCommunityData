@@ -5,7 +5,7 @@ title: Макароны V1.0
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (639)|
+| ELO Regular | 1185 🔻  (638)|
 | ELO Competitive | 1185 🔻  (743)|
 | Total Matches | 1 |
 | Wins | 0 |

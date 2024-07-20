@@ -5,7 +5,7 @@ title: STRVS233～
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1237 🔺  (256)|
+| ELO Regular | 1237 🔺  (255)|
 | ELO Competitive | 1255 🔺  (292)|
 | Total Matches | 17 |
 | Wins | 10 |

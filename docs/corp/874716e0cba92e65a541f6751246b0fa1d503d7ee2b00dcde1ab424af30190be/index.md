@@ -5,7 +5,7 @@ title: ༀᅗBAR ESTELARᅗༀ
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1123 🔻  (1059)|
+| ELO Regular | 1123 🔻  (1060)|
 | ELO Competitive | 1145 🔻  (1064)|
 | Total Matches | 11 |
 | Wins | 1 |

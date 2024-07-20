@@ -5,8 +5,8 @@ title: Corp. Estelar
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1247 🔻  (216)|
-| ELO Competitive | 1277 🔻  (243)|
+| ELO Regular | 1247 🔻  (215)|
+| ELO Competitive | 1277 🔻  (242)|
 | Total Matches | 17 |
 | Wins | 9 |
 | Losses | 8 |

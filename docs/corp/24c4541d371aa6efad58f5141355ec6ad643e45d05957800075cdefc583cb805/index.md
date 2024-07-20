@@ -5,7 +5,7 @@ title: Spaceforce
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 🔻  (533)|
+| ELO Regular | 1189 🔻  (531)|
 | ELO Competitive | 1191 🔻  (603)|
 | Total Matches | 1 |
 | Wins | 0 |
