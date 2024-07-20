@@ -16,7 +16,7 @@ title: Training Corp
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | -------------- | --- | --- |
-| ❌ | 2023-11-29 | 0-7 | [Альянс звезд](https://ws.tsl.rocks/corp/c406351fec6349034d9ae58aec3da43a5507ad86ff9a89b4654a20eb10e6de95/) |
+| --- | --- | --- | --- |
+| ❌ | 2023–11–29 | 0-7 | [Альянс звезд](https://ws.tsl.rocks/corp/c406351fec6349034d9ae58aec3da43a5507ad86ff9a89b4654a20eb10e6de95/) |
 
 Corporation ID: 4e9dede25c833a580f5457125ae0994132bda9e5949b39b84444c14851a2ab07

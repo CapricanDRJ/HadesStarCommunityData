@@ -16,7 +16,7 @@ title: Dahoam in AT
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | -------------- | --- | --- |
-| ❌ | 2024-01-02 | 4-23 | [SpaceCowboys](https://ws.tsl.rocks/corp/e6bb3b9dcc40ad7f7c82fd0f7164a99fa6264c05a186ed9f33011a7f315ca507/) |
+| --- | --- | --- | --- |
+| ❌ | 2024–01–02 | 4-23 | [SpaceCowboys](https://ws.tsl.rocks/corp/e6bb3b9dcc40ad7f7c82fd0f7164a99fa6264c05a186ed9f33011a7f315ca507/) |
 
 Corporation ID: ccb386095caf4a3b16ad138c0660f59284046a9c4cac41e5e88ad47a164edd03

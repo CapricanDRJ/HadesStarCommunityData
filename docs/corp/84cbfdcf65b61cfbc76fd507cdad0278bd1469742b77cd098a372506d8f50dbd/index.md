@@ -16,22 +16,22 @@ title: Uchiha
 ### Match History
 
 |  | Date | Score | Opponent |
-| --- | -------------- | --- | --- |
-| ❌ | 2024-05-28 | 0-5 | [第四天灾](https://ws.tsl.rocks/corp/4a95d21903a441f2a20c9e679a90b299942ceb1b304e21b11213de9bb14c17ce/) |
-| ❌ | 2024-04-10 | 0-10 | [Kratos](https://ws.tsl.rocks/corp/1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b/) |
-| ❌ | 2024-04-10 | 4-12 | [绛紫星](https://ws.tsl.rocks/corp/8c2109279ceb01bcca0aa5e85c151d5877831ac54199285743750e2ed343b407/) |
-| ❌ | 2024-04-04 | 4-30 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) |
-| ❌ | 2024-04-03 | 0-6 | [La orden real](https://ws.tsl.rocks/corp/14d84c93a9ad1b69678224944ea11f9090fbe9dc18cdb9a810839a88b35e1632/) |
-| ✅ | 2024-03-19 | 11-3 | [水晶星际集团](https://ws.tsl.rocks/corp/6390d7a4666ac4537ef5eacf76dd1c2f34548cc588aac8dad423c308ad1c0f3d/) |
-| ❌ | 2024-03-19 | 1-10 | [Эдем](https://ws.tsl.rocks/corp/a61dc2c639a91f5b725d43d306ba2eebe1770c92499d7d92086b7a097f939c0d/) |
-| ❌ | 2024-03-04 | 0-20 | [korea](https://ws.tsl.rocks/corp/2071b0b6ab886c36f36fb357ab33234b4d364e79aae36f5d3387e8ada44962ac/) |
-| ❌ | 2024-03-04 | 5-21 | [R\-6 satalite](https://ws.tsl.rocks/corp/ce3450a529768e932b3aeb4c6f39b9295e6e07d010b209d0120c0125799adc43/) |
-| ❌ | 2024-02-11 | 2-14 | [MÉXICO INFINITO](https://ws.tsl.rocks/corp/a9fbdd48477b87a054dbd804eef12ae08bc6e02798cd8990b08c4a9803d8f9d8/) |
-| ✅ | 2024-02-10 | 8-0 | [КМБ](https://ws.tsl.rocks/corp/9863510eb8d02a7be02ef6a2cf42499cbf1e7ec62df078fe82aaa791444445f4/) |
-| ❌ | 2024-01-11 | 0-13 | [Space Rangers](https://ws.tsl.rocks/corp/da0952db0de44e4eee72d9ffa2394d5818565c5c16d89a1313c6df07417f9fb3/) |
-| ↔️ | 2024-01-10 | 1-1 | [VENTORMENTA](https://ws.tsl.rocks/corp/0b64072b403ef687c83d4c04a4f5a20f8dd89befdaaf6ced9af64cacc2f46536/) |
-| ❌ | 2023-12-19 | 2-13 | [Capibarius](https://ws.tsl.rocks/corp/9a46f3159020b842ed9bb062f7dbef2a5acb1337fbdc1c4a5374233c44a4ffab/) |
-| ❌ | 2023-12-19 | 0-3 | [ToC](https://ws.tsl.rocks/corp/72dc408527c06786fa45851f432da731fd63c063d51f4a180b9ae24216e41765/) |
-| ✅ | 2023-12-10 | 1-0 | [NASA Air base](https://ws.tsl.rocks/corp/6b63a6d22b94297e25c5815e1d096edd489543d2a443677f58d7e6aec1d00016/) |
+| --- | --- | --- | --- |
+| ❌ | 2024–05–28 | 0-5 | [第四天灾](https://ws.tsl.rocks/corp/4a95d21903a441f2a20c9e679a90b299942ceb1b304e21b11213de9bb14c17ce/) |
+| ❌ | 2024–04–10 | 0-10 | [Kratos](https://ws.tsl.rocks/corp/1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b/) |
+| ❌ | 2024–04–10 | 4-12 | [绛紫星](https://ws.tsl.rocks/corp/8c2109279ceb01bcca0aa5e85c151d5877831ac54199285743750e2ed343b407/) |
+| ❌ | 2024–04–04 | 4-30 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) |
+| ❌ | 2024–04–03 | 0-6 | [La orden real](https://ws.tsl.rocks/corp/14d84c93a9ad1b69678224944ea11f9090fbe9dc18cdb9a810839a88b35e1632/) |
+| ✅ | 2024–03–19 | 11-3 | [水晶星际集团](https://ws.tsl.rocks/corp/6390d7a4666ac4537ef5eacf76dd1c2f34548cc588aac8dad423c308ad1c0f3d/) |
+| ❌ | 2024–03–19 | 1-10 | [Эдем](https://ws.tsl.rocks/corp/a61dc2c639a91f5b725d43d306ba2eebe1770c92499d7d92086b7a097f939c0d/) |
+| ❌ | 2024–03–04 | 0-20 | [korea](https://ws.tsl.rocks/corp/2071b0b6ab886c36f36fb357ab33234b4d364e79aae36f5d3387e8ada44962ac/) |
+| ❌ | 2024–03–04 | 5-21 | [R\-6 satalite](https://ws.tsl.rocks/corp/ce3450a529768e932b3aeb4c6f39b9295e6e07d010b209d0120c0125799adc43/) |
+| ❌ | 2024–02–11 | 2-14 | [MÉXICO INFINITO](https://ws.tsl.rocks/corp/a9fbdd48477b87a054dbd804eef12ae08bc6e02798cd8990b08c4a9803d8f9d8/) |
+| ✅ | 2024–02–10 | 8-0 | [КМБ](https://ws.tsl.rocks/corp/9863510eb8d02a7be02ef6a2cf42499cbf1e7ec62df078fe82aaa791444445f4/) |
+| ❌ | 2024–01–11 | 0-13 | [Space Rangers](https://ws.tsl.rocks/corp/da0952db0de44e4eee72d9ffa2394d5818565c5c16d89a1313c6df07417f9fb3/) |
+| ↔️ | 2024–01–10 | 1-1 | [VENTORMENTA](https://ws.tsl.rocks/corp/0b64072b403ef687c83d4c04a4f5a20f8dd89befdaaf6ced9af64cacc2f46536/) |
+| ❌ | 2023–12–19 | 2-13 | [Capibarius](https://ws.tsl.rocks/corp/9a46f3159020b842ed9bb062f7dbef2a5acb1337fbdc1c4a5374233c44a4ffab/) |
+| ❌ | 2023–12–19 | 0-3 | [ToC](https://ws.tsl.rocks/corp/72dc408527c06786fa45851f432da731fd63c063d51f4a180b9ae24216e41765/) |
+| ✅ | 2023–12–10 | 1-0 | [NASA Air base](https://ws.tsl.rocks/corp/6b63a6d22b94297e25c5815e1d096edd489543d2a443677f58d7e6aec1d00016/) |
 
 Corporation ID: 84cbfdcf65b61cfbc76fd507cdad0278bd1469742b77cd098a372506d8f50dbd
