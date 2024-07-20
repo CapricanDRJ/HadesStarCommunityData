@@ -13,7 +13,7 @@ Welcome to the Hades' Star Elo Rankings page. Here you can find the top corporat
 - [Top 100 Elo Ratings](top100.md)
 - [Top 100 Competitive Elo Ratings](comp100.md)
 
-## Corporation List
+## Corporations
 
 - [Corporation Directory](corp/index.md)
 
