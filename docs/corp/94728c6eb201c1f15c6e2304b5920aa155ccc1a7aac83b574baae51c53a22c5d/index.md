@@ -5,7 +5,7 @@ title: Galaxians
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1208 🔻  (405)|
+| ELO Regular | 1208 🔻  (404)|
 | ELO Competitive | 1246 🔻  (317)|
 | Total Matches | 23 |
 | Wins | 11 |

@@ -5,7 +5,7 @@ title: Hinterm Mars
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1205 🔻  (412)|
+| ELO Regular | 1205 🔻  (411)|
 | ELO Competitive | 1365 🔻  (110)|
 | Total Matches | 48 |
 | Wins | 21 |

@@ -5,7 +5,7 @@ title: 雪月永恒
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1252 🔺  (198)|
+| ELO Regular | 1252 🔺  (199)|
 | ELO Competitive | 1260 🔺  (278)|
 | Total Matches | 7 |
 | Wins | 6 |

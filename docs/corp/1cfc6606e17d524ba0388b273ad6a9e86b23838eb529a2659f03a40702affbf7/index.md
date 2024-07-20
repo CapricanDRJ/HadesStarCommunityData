@@ -5,8 +5,8 @@ title: Lofty Mountain
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1211 🔺  (389)|
-| ELO Competitive | 1213 🔺  (460)|
+| ELO Regular | 1211 🔺  (388)|
+| ELO Competitive | 1213 🔺  (459)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |

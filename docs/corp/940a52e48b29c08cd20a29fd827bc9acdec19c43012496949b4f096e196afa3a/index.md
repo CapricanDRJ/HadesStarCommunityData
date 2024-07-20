@@ -5,7 +5,7 @@ title: Power Rangers
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔺  (363)|
+| ELO Regular | 1214 🔺  (362)|
 | ELO Competitive | 1223 🔺  (386)|
 | Total Matches | 1 |
 | Wins | 1 |

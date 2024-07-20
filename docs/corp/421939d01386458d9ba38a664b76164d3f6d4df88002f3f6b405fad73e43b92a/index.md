@@ -5,8 +5,8 @@ title: Megacorp
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1215 🔺  (346)|
-| ELO Competitive | 1215 🔺  (439)|
+| ELO Regular | 1215 🔺  (345)|
+| ELO Competitive | 1215 🔺  (438)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |

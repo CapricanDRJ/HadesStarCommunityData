@@ -5,7 +5,7 @@ title: Gwiezdna Horda
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1255 🔺  (193)|
+| ELO Regular | 1255 🔺  (194)|
 | ELO Competitive | 1255 🔺  (291)|
 | Total Matches | 4 |
 | Wins | 4 |

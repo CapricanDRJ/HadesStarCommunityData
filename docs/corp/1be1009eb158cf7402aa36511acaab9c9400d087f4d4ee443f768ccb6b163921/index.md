@@ -5,7 +5,7 @@ title: 红日初升，其道大光
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1256 🔺  (190)|
+| ELO Regular | 1256 🔺  (191)|
 | ELO Competitive | 1247 🔺  (310)|
 | Total Matches | 4 |
 | Wins | 4 |

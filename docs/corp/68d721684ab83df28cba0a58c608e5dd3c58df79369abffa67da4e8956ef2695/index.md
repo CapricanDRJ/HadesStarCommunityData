@@ -5,7 +5,7 @@ title: koalition
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1264 🔺  (170)|
+| ELO Regular | 1264 🔺  (171)|
 | ELO Competitive | 1270 🔺  (259)|
 | Total Matches | 11 |
 | Wins | 7 |

@@ -5,7 +5,7 @@ title: Октябристы
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1212 🔻  (383)|
+| ELO Regular | 1212 🔻  (382)|
 | ELO Competitive | 1469 🔺  (37)|
 | Total Matches | 81 |
 | Wins | 40 |

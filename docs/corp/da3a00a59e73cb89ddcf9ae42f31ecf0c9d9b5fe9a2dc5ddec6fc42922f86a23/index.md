@@ -5,7 +5,7 @@ title: Midland Ind.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1204 🔻  (414)|
+| ELO Regular | 1204 🔻  (413)|
 | ELO Competitive | 1225 🔻  (377)|
 | Total Matches | 18 |
 | Wins | 9 |

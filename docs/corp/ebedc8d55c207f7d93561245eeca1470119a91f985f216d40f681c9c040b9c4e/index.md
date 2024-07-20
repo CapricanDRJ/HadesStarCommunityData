@@ -5,7 +5,7 @@ title: Frontier X
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1262 🔻  (178)|
+| ELO Regular | 1262 🔻  (179)|
 | ELO Competitive | 1263 🔻  (271)|
 | Total Matches | 13 |
 | Wins | 9 |

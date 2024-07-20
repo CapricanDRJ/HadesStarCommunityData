@@ -5,8 +5,8 @@ title: Spiritic Beacon
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1203 🔻  (415)|
-| ELO Competitive | 1209 🔻  (483)|
+| ELO Regular | 1203 🔻  (414)|
+| ELO Competitive | 1209 🔻  (482)|
 | Total Matches | 9 |
 | Wins | 5 |
 | Losses | 4 |

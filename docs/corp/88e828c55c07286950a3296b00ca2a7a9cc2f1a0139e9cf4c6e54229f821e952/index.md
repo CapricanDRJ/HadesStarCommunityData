@@ -5,7 +5,7 @@ title: 使命白星
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1209 🔻  (401)|
+| ELO Regular | 1209 🔻  (400)|
 | ELO Competitive | 1231 🔺  (359)|
 | Total Matches | 6 |
 | Wins | 3 |

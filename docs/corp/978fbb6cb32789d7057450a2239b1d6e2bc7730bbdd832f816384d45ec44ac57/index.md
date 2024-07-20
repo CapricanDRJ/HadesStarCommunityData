@@ -6,7 +6,7 @@ title: Зелёная корпа
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1202 🔻  (420)|
-| ELO Competitive | 1217 🔻  (419)|
+| ELO Competitive | 1217 🔻  (418)|
 | Total Matches | 8 |
 | Wins | 4 |
 | Losses | 4 |

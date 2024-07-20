@@ -6,7 +6,7 @@ title: Minutemen
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1200 🔻  (436)|
-| ELO Competitive | 1213 🔻  (468)|
+| ELO Competitive | 1213 🔻  (467)|
 | Total Matches | 18 |
 | Wins | 8 |
 | Losses | 10 |

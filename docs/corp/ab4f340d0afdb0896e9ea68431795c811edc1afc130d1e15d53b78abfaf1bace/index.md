@@ -5,8 +5,8 @@ title: Страж Галактики
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1213 🔻  (371)|
-| ELO Competitive | 1214 🔻  (454)|
+| ELO Regular | 1213 🔻  (370)|
+| ELO Competitive | 1214 🔻  (453)|
 | Total Matches | 2 |
 | Wins | 1 |
 | Losses | 0 |

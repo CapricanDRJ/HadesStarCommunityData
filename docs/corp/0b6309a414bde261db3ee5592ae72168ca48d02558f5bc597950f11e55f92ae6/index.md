@@ -6,7 +6,7 @@ title: Quantum Cats
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1196 🔻  (478)|
-| ELO Competitive | 1211 🔻  (479)|
+| ELO Competitive | 1211 🔻  (478)|
 | Total Matches | 7 |
 | Wins | 3 |
 | Losses | 4 |

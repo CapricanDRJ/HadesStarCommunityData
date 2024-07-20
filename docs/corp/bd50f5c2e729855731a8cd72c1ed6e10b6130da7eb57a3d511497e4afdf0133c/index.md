@@ -5,8 +5,8 @@ title: Imperium
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔺  (356)|
-| ELO Competitive | 1214 🔺  (451)|
+| ELO Regular | 1214 🔺  (355)|
+| ELO Competitive | 1214 🔺  (450)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |

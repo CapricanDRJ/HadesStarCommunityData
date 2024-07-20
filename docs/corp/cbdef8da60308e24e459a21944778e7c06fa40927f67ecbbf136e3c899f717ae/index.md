@@ -5,8 +5,8 @@ title: Disintegrators
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1213 🔻  (376)|
-| ELO Competitive | 1213 🔻  (465)|
+| ELO Regular | 1213 🔻  (375)|
+| ELO Competitive | 1213 🔻  (464)|
 | Total Matches | 3 |
 | Wins | 2 |
 | Losses | 1 |

@@ -5,7 +5,7 @@ title: Decode
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1255 🔻  (192)|
+| ELO Regular | 1255 🔻  (193)|
 | ELO Competitive | 1387 🔻  (91)|
 | Total Matches | 54 |
 | Wins | 36 |

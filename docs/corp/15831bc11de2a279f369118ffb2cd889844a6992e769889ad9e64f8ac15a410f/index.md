@@ -5,7 +5,7 @@ title: No Orbit©
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1256 🔻  (184)|
+| ELO Regular | 1256 🔻  (185)|
 | ELO Competitive | 1273 🔻  (253)|
 | Total Matches | 17 |
 | Wins | 11 |

@@ -5,8 +5,8 @@ title: 特拉斯丁第二共和国
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔺  (368)|
-| ELO Competitive | 1214 🔺  (456)|
+| ELO Regular | 1214 🔺  (367)|
+| ELO Competitive | 1214 🔺  (455)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |

@@ -5,7 +5,7 @@ title: italian warrior
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔻  (366)|
+| ELO Regular | 1214 🔻  (365)|
 | ELO Competitive | 1274 🔻  (251)|
 | Total Matches | 28 |
 | Wins | 12 |

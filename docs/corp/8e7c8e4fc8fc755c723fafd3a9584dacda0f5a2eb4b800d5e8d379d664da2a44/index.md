@@ -6,7 +6,7 @@ title: 8 русский рейх
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1222 🔺  (304)|
-| ELO Competitive | 1222 🔺  (391)|
+| ELO Competitive | 1222 🔺  (390)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |

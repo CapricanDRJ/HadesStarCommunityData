@@ -5,7 +5,7 @@ title: Ul'Adri
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1209 🔺  (402)|
+| ELO Regular | 1209 🔺  (401)|
 | ELO Competitive | 1222 🔺  (389)|
 | Total Matches | 20 |
 | Wins | 10 |

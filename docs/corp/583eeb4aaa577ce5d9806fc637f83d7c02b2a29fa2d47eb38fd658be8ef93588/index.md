@@ -5,7 +5,7 @@ title: Bunker
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1215 🔻  (355)|
+| ELO Regular | 1215 🔻  (354)|
 | ELO Competitive | 1382 🔻  (94)|
 | Total Matches | 50 |
 | Wins | 26 |
