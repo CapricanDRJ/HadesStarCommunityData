@@ -15,6 +15,7 @@ minima:
 # Navigation
 header_pages:
   - index.md
+  - corp/index.md
   - top100.md
   - comp100.md
 
