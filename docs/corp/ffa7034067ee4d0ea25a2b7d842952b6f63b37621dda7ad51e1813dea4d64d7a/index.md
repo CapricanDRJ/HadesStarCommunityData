@@ -6,7 +6,7 @@ title: Dreckiger Rest
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1172 🔻  (832)|
-| ELO Competitive | 1172 🔻  (922)|
+| ELO Competitive | 1172 🔻  (923)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

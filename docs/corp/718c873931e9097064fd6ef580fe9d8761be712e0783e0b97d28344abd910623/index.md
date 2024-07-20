@@ -5,7 +5,7 @@ title: lesescargots
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1284 🔻  (140)|
+| ELO Regular | 1284 🔻  (139)|
 | ELO Competitive | 1321 🔻  (171)|
 | Total Matches | 49 |
 | Wins | 35 |

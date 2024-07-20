@@ -5,8 +5,8 @@ title: RACNAROK
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1252 🔻  (202)|
-| ELO Competitive | 1281 🔻  (233)|
+| ELO Regular | 1252 🔻  (203)|
+| ELO Competitive | 1281 🔻  (234)|
 | Total Matches | 11 |
 | Wins | 7 |
 | Losses | 2 |

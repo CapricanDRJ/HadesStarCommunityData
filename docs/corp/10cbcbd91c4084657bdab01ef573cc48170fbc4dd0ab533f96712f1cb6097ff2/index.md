@@ -5,13 +5,13 @@ title: Дом Датэ
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1298 🔺  (122)|
-| ELO Competitive | 1362 🔺  (114)|
-| Total Matches | 39 |
-| Wins | 22 |
+| ELO Regular | 1318 🔺  (96)|
+| ELO Competitive | 1376 🔺  (100)|
+| Total Matches | 40 |
+| Wins | 23 |
 | Losses | 17 |
 | Draws | 0 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 4 |
 
 ### Recurring Opponents
@@ -26,6 +26,7 @@ title: Дом Датэ
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/20 | 15-8 | [Tuatha De Danan](https://ws.tsl.rocks/corp/7741dbd0c9e7ddbc162e374691cb3346e4bb6600840f7962ec4a4414d5d2f780/) |
 | ✅ | 2024/07/19 | 15-1 | [AKA](https://ws.tsl.rocks/corp/5fde3f409facbda701cdf21de0895eb7c7e17e2d472ae52cc0aa178ce2db64d6/) |
 | ✅ | 2024/07/12 | 31-2 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) |
 | ✅ | 2024/07/05 | 33-14 | [CTG](https://ws.tsl.rocks/corp/9647a8507dfa5637a217d2d6a0ad47aefb6a4563f910ad46376c228450cff43c/) |

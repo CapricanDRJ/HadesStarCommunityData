@@ -6,7 +6,7 @@ title: Стальная крыса
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1174 🔻  (803)|
-| ELO Competitive | 1174 🔻  (896)|
+| ELO Competitive | 1174 🔻  (897)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

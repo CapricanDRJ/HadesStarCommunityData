@@ -6,7 +6,7 @@ title: cikopo
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1162 🔻  (919)|
-| ELO Competitive | 1163 🔻  (999)|
+| ELO Competitive | 1163 🔻  (1000)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

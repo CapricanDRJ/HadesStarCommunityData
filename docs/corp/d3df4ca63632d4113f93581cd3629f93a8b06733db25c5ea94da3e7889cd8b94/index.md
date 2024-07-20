@@ -6,7 +6,7 @@ title: GalaxyNova
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1269 🔺  (161)|
-| ELO Competitive | 1282 🔺  (232)|
+| ELO Competitive | 1282 🔺  (233)|
 | Total Matches | 9 |
 | Wins | 7 |
 | Losses | 2 |

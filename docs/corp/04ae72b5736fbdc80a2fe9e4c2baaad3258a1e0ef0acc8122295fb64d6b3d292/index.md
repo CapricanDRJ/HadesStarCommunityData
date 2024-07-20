@@ -6,7 +6,7 @@ title: three kitties
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1415 🔺  (28)|
-| ELO Competitive | 1457 🔺  (43)|
+| ELO Competitive | 1457 🔺  (42)|
 | Total Matches | 40 |
 | Wins | 31 |
 | Losses | 8 |

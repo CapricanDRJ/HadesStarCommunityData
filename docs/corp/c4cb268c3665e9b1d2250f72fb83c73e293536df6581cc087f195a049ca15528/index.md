@@ -5,8 +5,8 @@ title: Призрачный Путь
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1284 🔻  (142)|
-| ELO Competitive | 1295 🔻  (209)|
+| ELO Regular | 1284 🔻  (141)|
+| ELO Competitive | 1295 🔻  (210)|
 | Total Matches | 18 |
 | Wins | 13 |
 | Losses | 5 |

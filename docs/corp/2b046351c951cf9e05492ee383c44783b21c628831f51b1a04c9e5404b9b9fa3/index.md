@@ -5,8 +5,8 @@ title: Paramedic ICU
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1233 🔻  (270)|
-| ELO Competitive | 1252 🔻  (298)|
+| ELO Regular | 1233 🔻  (271)|
+| ELO Competitive | 1252 🔻  (299)|
 | Total Matches | 19 |
 | Wins | 9 |
 | Losses | 8 |

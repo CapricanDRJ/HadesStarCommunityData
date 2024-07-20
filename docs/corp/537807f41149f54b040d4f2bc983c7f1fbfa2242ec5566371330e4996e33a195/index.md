@@ -6,7 +6,7 @@ title: Tormenta
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1157 🔻  (948)|
-| ELO Competitive | 1163 🔻  (992)|
+| ELO Competitive | 1163 🔻  (993)|
 | Total Matches | 6 |
 | Wins | 1 |
 | Losses | 5 |

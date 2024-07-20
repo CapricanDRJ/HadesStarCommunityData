@@ -6,7 +6,7 @@ title: ZN•H2B
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1152 🔻  (970)|
-| ELO Competitive | 1167 🔻  (976)|
+| ELO Competitive | 1167 🔻  (977)|
 | Total Matches | 13 |
 | Wins | 4 |
 | Losses | 9 |

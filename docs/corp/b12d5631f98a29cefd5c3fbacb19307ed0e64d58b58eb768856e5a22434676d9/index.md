@@ -5,7 +5,7 @@ title: BlackDawn
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1055 🔺  (1137)|
+| ELO Regular | 1055 🔺  (1138)|
 | ELO Competitive | 1072 🔺  (1162)|
 | Total Matches | 19 |
 | Wins | 1 |

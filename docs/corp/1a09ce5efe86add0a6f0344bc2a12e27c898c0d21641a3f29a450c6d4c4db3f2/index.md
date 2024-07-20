@@ -5,8 +5,8 @@ title: Helion Prime
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1225 🔻  (296)|
-| ELO Competitive | 1246 🔻  (315)|
+| ELO Regular | 1225 🔻  (297)|
+| ELO Competitive | 1246 🔻  (316)|
 | Total Matches | 11 |
 | Wins | 6 |
 | Losses | 5 |

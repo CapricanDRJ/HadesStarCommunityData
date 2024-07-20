@@ -5,7 +5,7 @@ title: Peak Extraction
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1073 🔻  (1125)|
+| ELO Regular | 1073 🔻  (1126)|
 | ELO Competitive | 1078 🔻  (1156)|
 | Total Matches | 15 |
 | Wins | 1 |

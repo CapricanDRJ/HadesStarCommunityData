@@ -5,11 +5,11 @@ title: Rogue One
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1298 🔻  (123)|
-| ELO Competitive | 1365 🔻  (109)|
-| Total Matches | 48 |
+| ELO Regular | 1279 🔻  (146)|
+| ELO Competitive | 1365 🔻  (110)|
+| Total Matches | 49 |
 | Wins | 28 |
-| Losses | 19 |
+| Losses | 20 |
 | Draws | 1 |
 | Streak Record | 5 |
 
@@ -30,6 +30,7 @@ title: Rogue One
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/20 | 0-33 | [nuevo mundo](https://ws.tsl.rocks/corp/5675df73364d8b031e9541d8aa8d5a9e55649ef419ad87c0b21dec77a0ed6044/) |
 | ❌ | 2024/07/20 | 5-38 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ✅ | 2024/07/12 | 36-20 | [INFINITY STAR](https://ws.tsl.rocks/corp/e36eb12fc6bc8e4b826e6bcb46020cad3eb616497c4c14075e8b657715898a9f/) |
 | ❌ | 2024/07/12 | 2-31 | [Дом Датэ](https://ws.tsl.rocks/corp/10cbcbd91c4084657bdab01ef573cc48170fbc4dd0ab533f96712f1cb6097ff2/) |

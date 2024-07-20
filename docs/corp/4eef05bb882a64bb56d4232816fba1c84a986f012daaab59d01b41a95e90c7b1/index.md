@@ -6,7 +6,7 @@ title: Shadow Council
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1158 🔻  (942)|
-| ELO Competitive | 1167 🔻  (972)|
+| ELO Competitive | 1167 🔻  (973)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

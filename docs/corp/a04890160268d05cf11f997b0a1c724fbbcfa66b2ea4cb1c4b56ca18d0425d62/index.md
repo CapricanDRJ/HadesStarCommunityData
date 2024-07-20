@@ -6,7 +6,7 @@ title: GDZ
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1242 🔺  (234)|
-| ELO Competitive | 1293 🔺  (213)|
+| ELO Competitive | 1293 🔺  (214)|
 | Total Matches | 55 |
 | Wins | 30 |
 | Losses | 25 |

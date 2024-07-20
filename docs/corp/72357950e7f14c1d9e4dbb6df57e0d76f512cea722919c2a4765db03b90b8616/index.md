@@ -6,7 +6,7 @@ title: cyber_dream
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1154 🔻  (962)|
-| ELO Competitive | 1163 🔻  (993)|
+| ELO Competitive | 1163 🔻  (994)|
 | Total Matches | 10 |
 | Wins | 3 |
 | Losses | 7 |

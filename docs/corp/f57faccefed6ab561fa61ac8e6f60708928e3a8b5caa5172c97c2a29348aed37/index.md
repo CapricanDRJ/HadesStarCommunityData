@@ -5,10 +5,10 @@ title: 公共星际集团
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1052 🔻  (1140)|
-| ELO Competitive | 1153 🔺  (1038)|
-| Total Matches | 25 |
-| Wins | 5 |
+| ELO Regular | 1076 🔺  (1123)|
+| ELO Competitive | 1174 🔺  (896)|
+| Total Matches | 26 |
+| Wins | 6 |
 | Losses | 18 |
 | Draws | 2 |
 
@@ -22,6 +22,7 @@ title: 公共星际集团
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/20 | 4-1 | [Bacon Warriors](https://ws.tsl.rocks/corp/ec62b01fc96adc2a7b7ac4077438e5153eeefc94740fab8309dcb6613e3a7f48/) |
 | ❌ | 2024/07/14 | 0-3 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |
 | ↔️ | 2024/07/14 | 1-1 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |
 | ❌ | 2024/07/07 | 0-4 | [凛冬重工](https://ws.tsl.rocks/corp/513d81e0236600883fae60f5ad8bc4b54fe7b9787479dd96fb7e0b4dea3ca5eb/) |

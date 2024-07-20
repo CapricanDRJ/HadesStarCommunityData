@@ -5,20 +5,21 @@ title: nuevo mundo
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1220 🔺  (310)|
-| ELO Competitive | 1238 🔺  (338)|
-| Total Matches | 13 |
-| Wins | 6 |
+| ELO Regular | 1239 🔺  (251)|
+| ELO Competitive | 1258 🔺  (285)|
+| Total Matches | 14 |
+| Wins | 7 |
 | Losses | 7 |
 | Draws | 0 |
-| Streak | 5 |
-| Streak Record | 5 |
+| Streak | 6 |
+| Streak Record | 6 |
 
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/20 | 33-0 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) |
 | ✅ | 2024/07/13 | 28-5 | [Sternenflotte](https://ws.tsl.rocks/corp/c0e248ebf5fe5d7a10057e5c23341422b0d0bd0cc74c836d2d9835758cce6ec7/) |
 | ✅ | 2024/07/05 | 20-3 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ✅ | 2024/06/22 | 21-16 | [Rising star](https://ws.tsl.rocks/corp/b7037efd74e829aa4ac6e49960fa44cebe1477e23d25cf1640594d9168d630db/) |

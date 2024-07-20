@@ -5,8 +5,8 @@ title: Hexacropians
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1414 🔺  (30)|
-| ELO Competitive | 1456 🔺  (45)|
+| ELO Regular | 1414 🔺  (29)|
+| ELO Competitive | 1456 🔺  (44)|
 | Total Matches | 43 |
 | Wins | 36 |
 | Losses | 7 |

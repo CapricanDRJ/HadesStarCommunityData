@@ -5,7 +5,7 @@ title: Battle Academy
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1254 🔺  (198)|
+| ELO Regular | 1254 🔺  (199)|
 | ELO Competitive | 1259 🔺  (281)|
 | Total Matches | 4 |
 | Wins | 4 |

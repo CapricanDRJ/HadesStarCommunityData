@@ -6,7 +6,7 @@ title: R2D2
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1175 🔻  (798)|
-| ELO Competitive | 1174 🔻  (900)|
+| ELO Competitive | 1174 🔻  (901)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

@@ -6,7 +6,7 @@ title: Auscorp
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1496 🔺  (6)|
-| ELO Competitive | 1548 🔺  (6)|
+| ELO Competitive | 1548 🔺  (5)|
 | Total Matches | 46 |
 | Wins | 40 |
 | Losses | 6 |

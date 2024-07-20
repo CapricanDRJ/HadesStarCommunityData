@@ -6,7 +6,7 @@ title: 宇氏集团
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1174 🔻  (802)|
-| ELO Competitive | 1174 🔻  (897)|
+| ELO Competitive | 1174 🔻  (898)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

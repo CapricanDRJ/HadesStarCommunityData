@@ -6,7 +6,7 @@ title: Nexland Ind.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1214 🔻  (362)|
-| ELO Competitive | 1245 🔻  (318)|
+| ELO Competitive | 1245 🔻  (319)|
 | Total Matches | 10 |
 | Wins | 5 |
 | Losses | 4 |

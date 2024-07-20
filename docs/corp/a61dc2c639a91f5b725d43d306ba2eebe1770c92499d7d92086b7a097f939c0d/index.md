@@ -6,7 +6,7 @@ title: Эдем
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1163 🔻  (917)|
-| ELO Competitive | 1168 🔻  (969)|
+| ELO Competitive | 1168 🔻  (970)|
 | Total Matches | 9 |
 | Wins | 3 |
 | Losses | 6 |

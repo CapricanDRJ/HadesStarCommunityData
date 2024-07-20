@@ -5,8 +5,8 @@ title: KINETIC
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1313 🔺  (101)|
-| ELO Competitive | 1316 🔺  (179)|
+| ELO Regular | 1313 🔺  (102)|
+| ELO Competitive | 1316 🔺  (178)|
 | Total Matches | 8 |
 | Wins | 8 |
 | Losses | 0 |

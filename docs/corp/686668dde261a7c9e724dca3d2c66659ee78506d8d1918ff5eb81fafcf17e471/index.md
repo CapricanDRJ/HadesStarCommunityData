@@ -6,7 +6,7 @@ title: Smurfing
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1171 🔻  (845)|
-| ELO Competitive | 1171 🔻  (937)|
+| ELO Competitive | 1171 🔻  (938)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

@@ -6,7 +6,7 @@ title: STARBLAZER
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1171 🔻  (851)|
-| ELO Competitive | 1172 🔻  (921)|
+| ELO Competitive | 1172 🔻  (922)|
 | Total Matches | 6 |
 | Wins | 2 |
 | Losses | 4 |

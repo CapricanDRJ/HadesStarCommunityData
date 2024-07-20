@@ -5,7 +5,7 @@ title: ●Black•Sails●
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1236 🔺  (262)|
+| ELO Regular | 1236 🔺  (263)|
 | ELO Competitive | 1271 🔺  (258)|
 | Total Matches | 22 |
 | Wins | 13 |

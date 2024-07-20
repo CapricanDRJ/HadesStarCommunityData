@@ -6,7 +6,7 @@ title: Got Nothing
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1240 🔺  (244)|
-| ELO Competitive | 1254 🔺  (294)|
+| ELO Competitive | 1254 🔺  (295)|
 | Total Matches | 20 |
 | Wins | 12 |
 | Losses | 8 |

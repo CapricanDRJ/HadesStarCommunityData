@@ -5,7 +5,7 @@ title: Держава Русь
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1060 🔻  (1134)|
+| ELO Regular | 1060 🔻  (1135)|
 | ELO Competitive | 1087 🔻  (1145)|
 | Total Matches | 12 |
 | Wins | 0 |

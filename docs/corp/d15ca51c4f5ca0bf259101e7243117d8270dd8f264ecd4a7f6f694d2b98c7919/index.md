@@ -5,7 +5,7 @@ title: WSC(no DISCORD)
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1275 🔺  (152)|
+| ELO Regular | 1275 🔺  (151)|
 | ELO Competitive | 1326 🔺  (161)|
 | Total Matches | 31 |
 | Wins | 17 |

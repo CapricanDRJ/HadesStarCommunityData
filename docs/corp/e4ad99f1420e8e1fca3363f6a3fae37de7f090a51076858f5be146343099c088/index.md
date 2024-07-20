@@ -6,7 +6,7 @@ title: Gemini↕     ☁
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1145 🔻  (991)|
-| ELO Competitive | 1155 🔻  (1029)|
+| ELO Competitive | 1155 🔻  (1030)|
 | Total Matches | 13 |
 | Wins | 3 |
 | Losses | 9 |

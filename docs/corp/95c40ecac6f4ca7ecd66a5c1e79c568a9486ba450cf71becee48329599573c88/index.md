@@ -6,7 +6,7 @@ title: KhaOSs
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1168 🔻  (889)|
-| ELO Competitive | 1168 🔻  (967)|
+| ELO Competitive | 1168 🔻  (968)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

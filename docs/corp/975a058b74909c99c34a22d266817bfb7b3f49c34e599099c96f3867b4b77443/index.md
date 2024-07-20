@@ -6,7 +6,7 @@ title: Firestarters
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1173 🔻  (814)|
-| ELO Competitive | 1173 🔻  (907)|
+| ELO Competitive | 1173 🔻  (908)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

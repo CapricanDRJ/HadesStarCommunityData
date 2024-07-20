@@ -6,7 +6,7 @@ title: Madison Holding
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1239 🔻  (245)|
-| ELO Competitive | 1243 🔻  (324)|
+| ELO Competitive | 1243 🔻  (325)|
 | Total Matches | 11 |
 | Wins | 7 |
 | Losses | 4 |

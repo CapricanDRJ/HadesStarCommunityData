@@ -5,13 +5,12 @@ title: Tuatha De Danan
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1415 🔺  (29)|
-| ELO Competitive | 1473 🔺  (35)|
-| Total Matches | 54 |
+| ELO Regular | 1395 🔻  (37)|
+| ELO Competitive | 1453 🔻  (45)|
+| Total Matches | 55 |
 | Wins | 43 |
-| Losses | 11 |
+| Losses | 12 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 13 |
 
 ### Recurring Opponents
@@ -27,6 +26,7 @@ title: Tuatha De Danan
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/20 | 8-15 | [Дом Датэ](https://ws.tsl.rocks/corp/10cbcbd91c4084657bdab01ef573cc48170fbc4dd0ab533f96712f1cb6097ff2/) |
 | ✅ | 2024/07/13 | 19-4 | [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/) |
 | ✅ | 2024/07/06 | 15-0 | [OntarioDestiny](https://ws.tsl.rocks/corp/806a86639b93c3a025e026bcedab96052be0e32b712c96217b3d5b330b3f5a6d/) |
 | ❌ | 2024/06/30 | 24-38 | [Ark](https://ws.tsl.rocks/corp/febd79d038ed9af667e201309060d9662ba825ba9be2b5b95418ac20a8e70c80/) |

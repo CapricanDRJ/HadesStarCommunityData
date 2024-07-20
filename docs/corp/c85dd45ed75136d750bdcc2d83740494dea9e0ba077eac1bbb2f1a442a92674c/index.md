@@ -5,7 +5,7 @@ title: Gemini Ind.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1403 🔺  (32)|
+| ELO Regular | 1403 🔺  (31)|
 | ELO Competitive | 1436 🔺  (57)|
 | Total Matches | 38 |
 | Wins | 32 |

@@ -6,7 +6,7 @@ title: Wompwompway
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1341 🔻  (73)|
-| ELO Competitive | 1371 🔻  (102)|
+| ELO Competitive | 1371 🔻  (103)|
 | Total Matches | 32 |
 | Wins | 24 |
 | Losses | 8 |

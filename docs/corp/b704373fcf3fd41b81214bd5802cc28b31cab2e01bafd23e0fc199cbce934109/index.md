@@ -6,7 +6,7 @@ title: pegaso
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1147 🔻  (985)|
-| ELO Competitive | 1173 🔺  (906)|
+| ELO Competitive | 1173 🔺  (907)|
 | Total Matches | 6 |
 | Wins | 0 |
 | Losses | 4 |

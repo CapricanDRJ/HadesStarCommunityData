@@ -5,7 +5,7 @@ title: 柯伊伯带伊甸园
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1312 🔻  (102)|
+| ELO Regular | 1312 🔻  (103)|
 | ELO Competitive | 1326 🔻  (162)|
 | Total Matches | 11 |
 | Wins | 10 |

@@ -6,7 +6,7 @@ title: 喵喵喵喵喵喵喵
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1147 🔻  (981)|
-| ELO Competitive | 1164 🔻  (987)|
+| ELO Competitive | 1164 🔻  (988)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 4 |

@@ -5,13 +5,12 @@ title: Bacon Warriors
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1281 🔺  (145)|
-| ELO Competitive | 1317 🔺  (178)|
-| Total Matches | 23 |
+| ELO Regular | 1258 🔻  (186)|
+| ELO Competitive | 1295 🔻  (208)|
+| Total Matches | 24 |
 | Wins | 13 |
-| Losses | 10 |
+| Losses | 11 |
 | Draws | 0 |
-| Streak | 3 |
 | Streak Record | 5 |
 
 ### Recurring Opponents
@@ -25,6 +24,7 @@ title: Bacon Warriors
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/20 | 1-4 | [公共星际集团](https://ws.tsl.rocks/corp/f57faccefed6ab561fa61ac8e6f60708928e3a8b5caa5172c97c2a29348aed37/) |
 | ✅ | 2024/07/15 | 26-1 | [lost souls](https://ws.tsl.rocks/corp/64cf1f6ce9001bcd1d03fd1aaecafc1b7d88cd36316892a52a1b19d5e85bd793/) |
 | ✅ | 2024/07/10 | 1-0 | [ToC](https://ws.tsl.rocks/corp/72dc408527c06786fa45851f432da731fd63c063d51f4a180b9ae24216e41765/) |
 | ✅ | 2024/07/05 | 21-0 | [Axiom](https://ws.tsl.rocks/corp/4000a010c205d318c766ba14fe1836eaab6652f1738a88cce8a8c69d0283e1b0/) |

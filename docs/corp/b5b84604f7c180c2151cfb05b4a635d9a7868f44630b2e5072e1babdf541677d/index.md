@@ -6,7 +6,7 @@ title: Trade Systems
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1157 🔻  (951)|
-| ELO Competitive | 1160 🔻  (1009)|
+| ELO Competitive | 1160 🔻  (1010)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

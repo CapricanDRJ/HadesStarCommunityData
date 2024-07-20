@@ -5,8 +5,8 @@ title: ZZZ-V
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1237 🔺  (259)|
-| ELO Competitive | 1238 🔺  (336)|
+| ELO Regular | 1237 🔺  (260)|
+| ELO Competitive | 1238 🔺  (337)|
 | Total Matches | 4 |
 | Wins | 3 |
 | Losses | 1 |

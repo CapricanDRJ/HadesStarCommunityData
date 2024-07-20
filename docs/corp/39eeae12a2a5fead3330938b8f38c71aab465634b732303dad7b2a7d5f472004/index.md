@@ -5,8 +5,8 @@ title: Север РусКорп
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1278 🔺  (148)|
-| ELO Competitive | 1308 🔺  (189)|
+| ELO Regular | 1278 🔺  (147)|
+| ELO Competitive | 1308 🔺  (188)|
 | Total Matches | 20 |
 | Wins | 13 |
 | Losses | 7 |

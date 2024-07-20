@@ -5,7 +5,7 @@ title: Hades Academy
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1221 🔻  (306)|
+| ELO Regular | 1221 🔻  (307)|
 | ELO Competitive | 1227 🔻  (375)|
 | Total Matches | 9 |
 | Wins | 5 |

@@ -5,8 +5,8 @@ title: -=Содружество=-
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1291 🔻  (131)|
-| ELO Competitive | 1310 🔻  (186)|
+| ELO Regular | 1291 🔻  (130)|
+| ELO Competitive | 1310 🔻  (185)|
 | Total Matches | 27 |
 | Wins | 19 |
 | Losses | 8 |

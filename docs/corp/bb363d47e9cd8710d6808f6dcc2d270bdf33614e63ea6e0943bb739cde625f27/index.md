@@ -6,7 +6,7 @@ title: Br Stark Corps
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1163 🔻  (913)|
-| ELO Competitive | 1165 🔻  (984)|
+| ELO Competitive | 1165 🔻  (985)|
 | Total Matches | 9 |
 | Wins | 3 |
 | Losses | 6 |

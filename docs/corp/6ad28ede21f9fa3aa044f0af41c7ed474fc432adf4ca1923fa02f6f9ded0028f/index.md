@@ -5,7 +5,7 @@ title: Rogue Corp
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1055 🔻  (1138)|
+| ELO Regular | 1055 🔻  (1139)|
 | ELO Competitive | 1064 🔻  (1165)|
 | Total Matches | 18 |
 | Wins | 1 |

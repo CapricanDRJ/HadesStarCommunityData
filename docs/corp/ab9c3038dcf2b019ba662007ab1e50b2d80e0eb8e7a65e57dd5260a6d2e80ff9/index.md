@@ -5,7 +5,7 @@ title: Halcon español
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1307 🔻  (110)|
+| ELO Regular | 1307 🔻  (111)|
 | ELO Competitive | 1325 🔻  (164)|
 | Total Matches | 28 |
 | Wins | 20 |

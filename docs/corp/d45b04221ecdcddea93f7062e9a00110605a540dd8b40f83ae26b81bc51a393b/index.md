@@ -6,7 +6,7 @@ title: chrtrncmndr
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1171 🔻  (860)|
-| ELO Competitive | 1171 🔻  (949)|
+| ELO Competitive | 1171 🔻  (950)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

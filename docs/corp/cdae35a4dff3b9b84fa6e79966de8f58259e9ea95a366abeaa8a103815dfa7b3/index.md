@@ -6,7 +6,7 @@ title: Grand Mechanism
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1168 🔻  (892)|
-| ELO Competitive | 1172 🔻  (926)|
+| ELO Competitive | 1172 🔻  (927)|
 | Total Matches | 8 |
 | Wins | 2 |
 | Losses | 5 |

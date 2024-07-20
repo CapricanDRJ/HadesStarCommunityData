@@ -5,7 +5,7 @@ title: Created
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1068 🔻  (1128)|
+| ELO Regular | 1068 🔻  (1129)|
 | ELO Competitive | 1091 🔻  (1142)|
 | Total Matches | 26 |
 | Wins | 5 |

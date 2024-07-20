@@ -5,7 +5,7 @@ title: 仙女座星雲
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1277 🔺  (149)|
+| ELO Regular | 1277 🔺  (148)|
 | ELO Competitive | 1502 🔺  (19)|
 | Total Matches | 84 |
 | Wins | 46 |

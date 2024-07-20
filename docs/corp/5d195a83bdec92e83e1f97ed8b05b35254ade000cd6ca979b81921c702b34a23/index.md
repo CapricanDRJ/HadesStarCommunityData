@@ -5,7 +5,7 @@ title: VoidRunners
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1316 🔻  (97)|
+| ELO Regular | 1316 🔻  (98)|
 | ELO Competitive | 1503 🔻  (18)|
 | Total Matches | 76 |
 | Wins | 49 |

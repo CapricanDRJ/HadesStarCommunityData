@@ -5,7 +5,7 @@ title: Hinterm Mond
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1302 🔻  (119)|
+| ELO Regular | 1302 🔻  (120)|
 | ELO Competitive | 1478 🔻  (29)|
 | Total Matches | 71 |
 | Wins | 43 |

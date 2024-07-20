@@ -5,13 +5,12 @@ title: Brodudes Inc.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1493 🔺  (7)|
-| ELO Competitive | 1566 🔺  (5)|
-| Total Matches | 71 |
+| ELO Regular | 1469 🔻  (13)|
+| ELO Competitive | 1541 🔻  (8)|
+| Total Matches | 72 |
 | Wins | 57 |
-| Losses | 13 |
+| Losses | 14 |
 | Draws | 1 |
-| Streak | 5 |
 | Streak Record | 9 |
 
 ### Recurring Opponents
@@ -31,6 +30,7 @@ title: Brodudes Inc.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/20 | 19-21 | [Corp\. Estelar](https://ws.tsl.rocks/corp/aec01be59075af2b2995f74e3e14f47e2b3ce1bd3b74abc78200a1d6330b8a72/) |
 | ✅ | 2024/07/14 | 34-3 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |
 | ✅ | 2024/07/13 | 27-2 | [Tormenta](https://ws.tsl.rocks/corp/537807f41149f54b040d4f2bc983c7f1fbfa2242ec5566371330e4996e33a195/) |
 | ✅ | 2024/07/08 | 20-3 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) |

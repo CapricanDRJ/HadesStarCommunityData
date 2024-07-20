@@ -6,7 +6,7 @@ title: Farland Ind.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1095 🔻  (1099)|
-| ELO Competitive | 1164 🔻  (990)|
+| ELO Competitive | 1164 🔻  (991)|
 | Total Matches | 27 |
 | Wins | 7 |
 | Losses | 19 |

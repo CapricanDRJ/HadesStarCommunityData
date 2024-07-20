@@ -6,7 +6,7 @@ title: Continuum
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1386 🔺  (44)|
-| ELO Competitive | 1545 🔺  (8)|
+| ELO Competitive | 1545 🔺  (7)|
 | Total Matches | 77 |
 | Wins | 49 |
 | Losses | 27 |

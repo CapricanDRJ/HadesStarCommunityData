@@ -5,7 +5,7 @@ title: 星海扬帆
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1228 🔺  (285)|
+| ELO Regular | 1228 🔺  (286)|
 | ELO Competitive | 1330 🔺  (155)|
 | Total Matches | 32 |
 | Wins | 17 |

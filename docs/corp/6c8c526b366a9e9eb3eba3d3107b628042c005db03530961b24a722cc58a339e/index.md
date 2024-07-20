@@ -5,8 +5,8 @@ title: Duchy Arrakis
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1273 🔺  (156)|
-| ELO Competitive | 1303 🔺  (196)|
+| ELO Regular | 1273 🔺  (155)|
+| ELO Competitive | 1303 🔺  (195)|
 | Total Matches | 26 |
 | Wins | 17 |
 | Losses | 9 |

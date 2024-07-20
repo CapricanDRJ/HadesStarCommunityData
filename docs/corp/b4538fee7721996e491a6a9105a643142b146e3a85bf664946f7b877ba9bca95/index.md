@@ -6,7 +6,7 @@ title: ArcadianVoiders
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1171 🔻  (844)|
-| ELO Competitive | 1171 🔻  (932)|
+| ELO Competitive | 1171 🔻  (933)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

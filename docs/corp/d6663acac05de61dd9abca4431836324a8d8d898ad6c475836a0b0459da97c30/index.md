@@ -6,7 +6,7 @@ title: Lolis Corp
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1172 🔻  (837)|
-| ELO Competitive | 1172 🔻  (927)|
+| ELO Competitive | 1172 🔻  (928)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

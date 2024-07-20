@@ -6,7 +6,7 @@ title: Splendid
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1171 🔻  (850)|
-| ELO Competitive | 1173 🔻  (903)|
+| ELO Competitive | 1173 🔻  (904)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

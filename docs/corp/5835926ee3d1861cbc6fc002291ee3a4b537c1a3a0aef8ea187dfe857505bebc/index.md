@@ -6,7 +6,7 @@ title: 꿀벌왕국
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1154 🔻  (963)|
-| ELO Competitive | 1163 🔻  (997)|
+| ELO Competitive | 1163 🔻  (998)|
 | Total Matches | 19 |
 | Wins | 7 |
 | Losses | 12 |

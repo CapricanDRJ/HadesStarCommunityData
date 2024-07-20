@@ -6,7 +6,7 @@ title: Space Oddity
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1240 🔻  (242)|
-| ELO Competitive | 1282 🔻  (231)|
+| ELO Competitive | 1282 🔻  (232)|
 | Total Matches | 24 |
 | Wins | 14 |
 | Losses | 10 |

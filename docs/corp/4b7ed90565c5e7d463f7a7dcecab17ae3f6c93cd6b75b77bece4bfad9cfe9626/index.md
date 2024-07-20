@@ -6,7 +6,7 @@ title: ITA
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1163 🔻  (914)|
-| ELO Competitive | 1283 🔻  (229)|
+| ELO Competitive | 1283 🔻  (230)|
 | Total Matches | 32 |
 | Wins | 14 |
 | Losses | 18 |

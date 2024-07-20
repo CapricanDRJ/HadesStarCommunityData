@@ -5,7 +5,7 @@ title: UKR Spase
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1317 🔻  (96)|
+| ELO Regular | 1317 🔻  (97)|
 | ELO Competitive | 1340 🔻  (136)|
 | Total Matches | 21 |
 | Wins | 15 |

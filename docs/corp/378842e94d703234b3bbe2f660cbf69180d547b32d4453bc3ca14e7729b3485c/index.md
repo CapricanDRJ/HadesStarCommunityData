@@ -6,7 +6,7 @@ title: Union premiun
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1159 🔻  (938)|
-| ELO Competitive | 1159 🔻  (1012)|
+| ELO Competitive | 1159 🔻  (1013)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 3 |

@@ -5,8 +5,8 @@ title: phoenix clan
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔺  (252)|
-| ELO Competitive | 1239 🔺  (333)|
+| ELO Regular | 1238 🔺  (253)|
+| ELO Competitive | 1239 🔺  (334)|
 | Total Matches | 5 |
 | Wins | 4 |
 | Losses | 1 |

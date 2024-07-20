@@ -5,10 +5,10 @@ title: Corp. Estelar
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1247 🔻  (216)|
-| ELO Competitive | 1277 🔻  (241)|
-| Total Matches | 17 |
-| Wins | 9 |
+| ELO Regular | 1271 🔺  (160)|
+| ELO Competitive | 1302 🔺  (197)|
+| Total Matches | 18 |
+| Wins | 10 |
 | Losses | 8 |
 | Draws | 0 |
 | Streak Record | 4 |
@@ -23,6 +23,7 @@ title: Corp. Estelar
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/20 | 21-19 | [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) |
 | ❌ | 2024/07/13 | 17-31 | [Lights Off ](https://ws.tsl.rocks/corp/8a8b7e5b7a00ef709249daa4546d03bd85258cde01d35e1829a64ed95c3d6cca/) |
 | ✅ | 2024/07/07 | 16-12 | [Tormenta](https://ws.tsl.rocks/corp/537807f41149f54b040d4f2bc983c7f1fbfa2242ec5566371330e4996e33a195/) |
 | ✅ | 2024/06/30 | 25-0 | [Axiom](https://ws.tsl.rocks/corp/4000a010c205d318c766ba14fe1836eaab6652f1738a88cce8a8c69d0283e1b0/) |

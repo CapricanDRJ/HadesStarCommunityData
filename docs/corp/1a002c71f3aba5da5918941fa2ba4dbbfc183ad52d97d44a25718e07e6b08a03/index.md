@@ -5,7 +5,7 @@ title: OntarioDawn
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1491 🔺  (9)|
+| ELO Regular | 1491 🔺  (8)|
 | ELO Competitive | 1498 🔺  (21)|
 | Total Matches | 37 |
 | Wins | 35 |

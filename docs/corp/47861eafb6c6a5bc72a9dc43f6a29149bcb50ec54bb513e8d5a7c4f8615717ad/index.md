@@ -6,7 +6,7 @@ title: Red Star Banker
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1170 🔻  (874)|
-| ELO Competitive | 1170 🔻  (961)|
+| ELO Competitive | 1170 🔻  (962)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

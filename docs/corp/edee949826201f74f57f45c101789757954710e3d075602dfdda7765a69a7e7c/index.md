@@ -6,7 +6,7 @@ title: P!RAT£ SHIP
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1243 🔺  (231)|
-| ELO Competitive | 1246 🔺  (316)|
+| ELO Competitive | 1246 🔺  (317)|
 | Total Matches | 14 |
 | Wins | 8 |
 | Losses | 5 |

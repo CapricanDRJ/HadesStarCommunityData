@@ -5,7 +5,7 @@ title: Warriors
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1228 🔺  (287)|
+| ELO Regular | 1228 🔺  (288)|
 | ELO Competitive | 1228 🔺  (371)|
 | Total Matches | 4 |
 | Wins | 3 |

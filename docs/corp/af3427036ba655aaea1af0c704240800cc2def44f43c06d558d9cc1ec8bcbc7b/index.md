@@ -5,7 +5,7 @@ title: Черный Легион
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1285 🔻  (139)|
+| ELO Regular | 1285 🔻  (138)|
 | ELO Competitive | 1331 🔻  (153)|
 | Total Matches | 24 |
 | Wins | 16 |
