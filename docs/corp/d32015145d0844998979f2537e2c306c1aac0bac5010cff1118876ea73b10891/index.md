@@ -6,7 +6,7 @@ title: Peasants
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1214 🔺  (365)|
-| ELO Competitive | 1215 🔺  (449)|
+| ELO Competitive | 1215 🔺  (450)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |

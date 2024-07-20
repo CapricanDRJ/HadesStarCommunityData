@@ -6,7 +6,7 @@ title: La orden real
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1213 🔺  (376)|
-| ELO Competitive | 1216 🔺  (433)|
+| ELO Competitive | 1216 🔺  (434)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |

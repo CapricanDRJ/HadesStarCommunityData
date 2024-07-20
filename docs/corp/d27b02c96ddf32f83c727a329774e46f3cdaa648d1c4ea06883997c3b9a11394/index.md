@@ -5,8 +5,8 @@ title: КВАЗАР
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1178 🔺  (770)|
-| ELO Competitive | 1179 🔺  (850)|
+| ELO Regular | 1178 🔺  (771)|
+| ELO Competitive | 1179 🔺  (851)|
 | Total Matches | 4 |
 | Wins | 1 |
 | Losses | 3 |

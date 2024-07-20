@@ -5,7 +5,7 @@ title: West Worlders
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1087 🔻  (1110)|
+| ELO Regular | 1087 🔻  (1109)|
 | ELO Competitive | 1106 🔻  (1131)|
 | Total Matches | 11 |
 | Wins | 1 |

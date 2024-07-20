@@ -6,7 +6,7 @@ title: HighSociety
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1214 🔺  (367)|
-| ELO Competitive | 1214 🔺  (455)|
+| ELO Competitive | 1214 🔺  (456)|
 | Total Matches | 3 |
 | Wins | 2 |
 | Losses | 1 |

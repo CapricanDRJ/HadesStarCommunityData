@@ -6,7 +6,7 @@ title: 边缘世界
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1210 🔻  (392)|
-| ELO Competitive | 1211 🔻  (475)|
+| ELO Competitive | 1211 🔻  (476)|
 | Total Matches | 7 |
 | Wins | 3 |
 | Losses | 2 |

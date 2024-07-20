@@ -6,7 +6,7 @@ title: Наша Вселенная
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (640)|
-| ELO Competitive | 1186 🔻  (731)|
+| ELO Competitive | 1186 🔻  (732)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

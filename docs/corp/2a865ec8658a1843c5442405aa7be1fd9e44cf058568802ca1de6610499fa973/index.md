@@ -6,7 +6,7 @@ title: 神仙'
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1153 🔻  (969)|
-| ELO Competitive | 1198 🔻  (563)|
+| ELO Competitive | 1198 🔻  (564)|
 | Total Matches | 22 |
 | Wins | 8 |
 | Losses | 11 |

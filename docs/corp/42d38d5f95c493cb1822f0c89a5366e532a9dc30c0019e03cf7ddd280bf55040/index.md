@@ -6,7 +6,7 @@ title: 第四星际
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1319 🔻  (93)|
-| ELO Competitive | 1410 🔺  (72)|
+| ELO Competitive | 1410 🔺  (71)|
 | Total Matches | 34 |
 | Wins | 24 |
 | Losses | 8 |

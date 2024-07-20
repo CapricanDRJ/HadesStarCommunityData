@@ -5,7 +5,7 @@ title: Sith Empire
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1194 🔺  (493)|
+| ELO Regular | 1194 🔺  (494)|
 | ELO Competitive | 1337 🔺  (144)|
 | Total Matches | 48 |
 | Wins | 19 |

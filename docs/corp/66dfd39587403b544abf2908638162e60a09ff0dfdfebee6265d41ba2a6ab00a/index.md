@@ -6,7 +6,7 @@ title: Core Systems
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1207 🔻  (403)|
-| ELO Competitive | 1211 🔻  (476)|
+| ELO Competitive | 1211 🔻  (477)|
 | Total Matches | 7 |
 | Wins | 3 |
 | Losses | 2 |

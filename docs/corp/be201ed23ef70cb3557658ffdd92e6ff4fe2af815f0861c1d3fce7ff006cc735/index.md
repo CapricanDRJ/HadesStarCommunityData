@@ -5,8 +5,8 @@ title: Sith order
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 🔺  (421)|
-| ELO Competitive | 1201 🔺  (512)|
+| ELO Regular | 1201 🔺  (422)|
+| ELO Competitive | 1201 🔺  (513)|
 | Total Matches | 2 |
 | Wins | 1 |
 | Losses | 1 |

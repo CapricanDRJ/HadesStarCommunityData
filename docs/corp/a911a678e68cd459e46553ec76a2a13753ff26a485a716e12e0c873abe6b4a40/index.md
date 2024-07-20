@@ -5,8 +5,8 @@ title: SUSSY IMPOSTER
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 🔻  (425)|
-| ELO Competitive | 1201 🔻  (516)|
+| ELO Regular | 1201 🔻  (426)|
+| ELO Competitive | 1201 🔻  (517)|
 | Total Matches | 2 |
 | Wins | 1 |
 | Losses | 1 |

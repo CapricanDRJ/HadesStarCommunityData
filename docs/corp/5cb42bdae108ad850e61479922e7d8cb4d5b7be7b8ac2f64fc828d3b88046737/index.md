@@ -6,7 +6,7 @@ title: 共产星际
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1430 🔺  (22)|
-| ELO Competitive | 1474 🔺  (33)|
+| ELO Competitive | 1474 🔺  (34)|
 | Total Matches | 36 |
 | Wins | 31 |
 | Losses | 5 |

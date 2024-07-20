@@ -5,8 +5,8 @@ title: WTF
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1197 🔻  (472)|
-| ELO Competitive | 1196 🔻  (572)|
+| ELO Regular | 1197 🔻  (473)|
+| ELO Competitive | 1196 🔻  (573)|
 | Total Matches | 3 |
 | Wins | 1 |
 | Losses | 2 |

@@ -5,7 +5,7 @@ title: Doomsday
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1191 🔻  (510)|
+| ELO Regular | 1191 🔻  (511)|
 | ELO Competitive | 1193 🔻  (591)|
 | Total Matches | 1 |
 | Wins | 0 |

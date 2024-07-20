@@ -5,7 +5,7 @@ title: α阿尔法
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 🔻  (528)|
+| ELO Regular | 1189 🔻  (529)|
 | ELO Competitive | 1189 🔻  (629)|
 | Total Matches | 1 |
 | Wins | 0 |

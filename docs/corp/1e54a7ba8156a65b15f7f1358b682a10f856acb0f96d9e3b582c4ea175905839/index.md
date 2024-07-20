@@ -5,7 +5,7 @@ title: Spaceballs
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1197 🔻  (473)|
+| ELO Regular | 1197 🔻  (474)|
 | ELO Competitive | 1225 🔻  (381)|
 | Total Matches | 28 |
 | Wins | 12 |

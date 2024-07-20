@@ -5,7 +5,7 @@ title: Valhalla Rising
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1416 🔺  (28)|
+| ELO Regular | 1416 🔺  (27)|
 | ELO Competitive | 1441 🔺  (52)|
 | Total Matches | 24 |
 | Wins | 22 |

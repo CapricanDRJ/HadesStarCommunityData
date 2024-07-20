@@ -6,7 +6,7 @@ title: Death Starz
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1183 🔻  (727)|
-| ELO Competitive | 1183 🔻  (819)|
+| ELO Competitive | 1183 🔻  (820)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

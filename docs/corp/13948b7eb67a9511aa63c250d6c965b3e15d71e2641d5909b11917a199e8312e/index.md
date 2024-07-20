@@ -5,7 +5,7 @@ title:  Eligius
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔻  (524)|
+| ELO Regular | 1190 🔻  (525)|
 | ELO Competitive | 1190 🔻  (616)|
 | Total Matches | 3 |
 | Wins | 1 |

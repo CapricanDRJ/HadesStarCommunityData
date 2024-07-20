@@ -5,8 +5,8 @@ title: Space Donuts
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (787)|
-| ELO Competitive | 1177 🔻  (865)|
+| ELO Regular | 1176 🔻  (788)|
+| ELO Competitive | 1177 🔻  (866)|
 | Total Matches | 6 |
 | Wins | 2 |
 | Losses | 4 |

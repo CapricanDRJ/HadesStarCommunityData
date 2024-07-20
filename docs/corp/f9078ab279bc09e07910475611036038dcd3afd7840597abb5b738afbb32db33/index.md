@@ -5,8 +5,8 @@ title: USAR@Hadesstar
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1179 🔻  (767)|
-| ELO Competitive | 1179 🔻  (852)|
+| ELO Regular | 1179 🔻  (768)|
+| ELO Competitive | 1179 🔻  (853)|
 | Total Matches | 4 |
 | Wins | 1 |
 | Losses | 3 |

@@ -6,7 +6,7 @@ title: vosk empire 2
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔺  (695)|
-| ELO Competitive | 1184 🔺  (799)|
+| ELO Competitive | 1184 🔺  (800)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 1 |

@@ -5,8 +5,8 @@ title: Lost City Corp.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1198 🔺  (463)|
-| ELO Competitive | 1198 🔺  (556)|
+| ELO Regular | 1198 🔺  (464)|
+| ELO Competitive | 1198 🔺  (557)|
 | Total Matches | 3 |
 | Wins | 1 |
 | Losses | 1 |

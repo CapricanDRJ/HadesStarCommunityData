@@ -5,7 +5,7 @@ title: 荣耀之星
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔺  (837)|
+| ELO Regular | 1171 🔺  (838)|
 | ELO Competitive | 1225 🔺  (379)|
 | Total Matches | 14 |
 | Wins | 5 |

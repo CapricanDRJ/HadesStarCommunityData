@@ -5,8 +5,8 @@ title: Atlas Star llc.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1404 🔺  (32)|
-| ELO Competitive | 1431 🔺  (61)|
+| ELO Regular | 1404 🔺  (31)|
+| ELO Competitive | 1431 🔺  (60)|
 | Total Matches | 35 |
 | Wins | 28 |
 | Losses | 7 |

@@ -6,7 +6,7 @@ title: Avabel Online 2
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔻  (575)|
-| ELO Competitive | 1187 🔻  (666)|
+| ELO Competitive | 1187 🔻  (667)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

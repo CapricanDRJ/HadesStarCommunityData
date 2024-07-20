@@ -6,7 +6,7 @@ title: Mega Corp
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔻  (722)|
-| ELO Competitive | 1184 🔻  (811)|
+| ELO Competitive | 1184 🔻  (812)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

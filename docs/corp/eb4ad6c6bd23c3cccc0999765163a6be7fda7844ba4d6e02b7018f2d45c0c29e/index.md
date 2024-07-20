@@ -5,7 +5,7 @@ title: REFOUNDATION
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (838)|
+| ELO Regular | 1171 🔻  (839)|
 | ELO Competitive | 1171 🔻  (930)|
 | Total Matches | 2 |
 | Wins | 0 |

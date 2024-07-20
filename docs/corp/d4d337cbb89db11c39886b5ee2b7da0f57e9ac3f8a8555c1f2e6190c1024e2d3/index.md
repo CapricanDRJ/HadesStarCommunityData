@@ -6,7 +6,7 @@ title: Alfa Reach
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1188 🔻  (549)|
-| ELO Competitive | 1188 🔻  (658)|
+| ELO Competitive | 1188 🔻  (659)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

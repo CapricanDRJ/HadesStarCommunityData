@@ -6,7 +6,7 @@ title: *ПОБЕДА*
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1216 🔺  (332)|
-| ELO Competitive | 1216 🔺  (427)|
+| ELO Competitive | 1216 🔺  (428)|
 | Total Matches | 3 |
 | Wins | 2 |
 | Losses | 1 |

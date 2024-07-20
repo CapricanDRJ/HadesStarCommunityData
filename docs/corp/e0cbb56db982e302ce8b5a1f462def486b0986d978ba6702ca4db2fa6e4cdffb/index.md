@@ -5,7 +5,7 @@ title: Anti union
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (805)|
+| ELO Regular | 1174 🔻  (806)|
 | ELO Competitive | 1174 🔻  (899)|
 | Total Matches | 2 |
 | Wins | 0 |

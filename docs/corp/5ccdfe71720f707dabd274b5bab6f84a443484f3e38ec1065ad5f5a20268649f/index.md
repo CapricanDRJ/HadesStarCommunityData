@@ -5,7 +5,7 @@ title: Copelius
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔻  (525)|
+| ELO Regular | 1190 🔻  (526)|
 | ELO Competitive | 1192 🔻  (593)|
 | Total Matches | 1 |
 | Wins | 0 |

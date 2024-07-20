@@ -5,8 +5,8 @@ title: Gastro
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1177 🔺  (776)|
-| ELO Competitive | 1180 🔺  (847)|
+| ELO Regular | 1177 🔺  (777)|
+| ELO Competitive | 1180 🔺  (848)|
 | Total Matches | 4 |
 | Wins | 1 |
 | Losses | 3 |

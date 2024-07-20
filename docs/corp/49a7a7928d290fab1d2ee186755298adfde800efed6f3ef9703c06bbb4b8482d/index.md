@@ -5,8 +5,8 @@ title: Диванные Стражи
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (803)|
-| ELO Competitive | 1179 🔻  (849)|
+| ELO Regular | 1174 🔻  (804)|
+| ELO Competitive | 1179 🔻  (850)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

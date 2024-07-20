@@ -5,8 +5,8 @@ title: Hamburg AG 2
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1195 🔺  (484)|
-| ELO Competitive | 1211 🔺  (477)|
+| ELO Regular | 1195 🔺  (485)|
+| ELO Competitive | 1211 🔺  (478)|
 | Total Matches | 13 |
 | Wins | 5 |
 | Losses | 8 |

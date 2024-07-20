@@ -5,8 +5,8 @@ title: New Star
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1194 🔻  (490)|
-| ELO Competitive | 1196 🔻  (575)|
+| ELO Regular | 1194 🔻  (491)|
+| ELO Competitive | 1196 🔻  (576)|
 | Total Matches | 3 |
 | Wins | 1 |
 | Losses | 2 |

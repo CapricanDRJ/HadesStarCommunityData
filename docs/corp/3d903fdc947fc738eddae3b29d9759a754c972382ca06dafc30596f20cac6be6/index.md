@@ -6,7 +6,7 @@ title: Fang Empire
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (606)|
-| ELO Competitive | 1186 🔻  (715)|
+| ELO Competitive | 1186 🔻  (716)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

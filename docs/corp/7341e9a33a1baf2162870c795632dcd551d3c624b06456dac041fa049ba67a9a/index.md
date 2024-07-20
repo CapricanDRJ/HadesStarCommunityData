@@ -6,7 +6,7 @@ title: 11th Engineers
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1128 🔻  (1050)|
-| ELO Competitive | 1198 🔻  (561)|
+| ELO Competitive | 1198 🔻  (562)|
 | Total Matches | 12 |
 | Wins | 4 |
 | Losses | 8 |

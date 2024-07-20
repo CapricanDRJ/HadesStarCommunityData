@@ -6,7 +6,7 @@ title: SafeSpace
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1216 🔺  (329)|
-| ELO Competitive | 1216 🔺  (424)|
+| ELO Competitive | 1216 🔺  (425)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |

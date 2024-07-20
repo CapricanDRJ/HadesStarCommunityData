@@ -5,7 +5,7 @@ title: диванодавы
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1193 🔻  (499)|
+| ELO Regular | 1193 🔻  (500)|
 | ELO Competitive | 1194 🔻  (582)|
 | Total Matches | 1 |
 | Wins | 0 |

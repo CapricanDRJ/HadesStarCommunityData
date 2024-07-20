@@ -6,7 +6,7 @@ title: 超新星联盟
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1207 🔻  (405)|
-| ELO Competitive | 1215 🔻  (437)|
+| ELO Competitive | 1215 🔻  (438)|
 | Total Matches | 9 |
 | Wins | 5 |
 | Losses | 4 |

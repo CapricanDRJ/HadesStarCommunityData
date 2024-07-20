@@ -5,7 +5,7 @@ title: Рагнарёк
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (789)|
+| ELO Regular | 1175 🔻  (790)|
 | ELO Competitive | 1174 🔻  (895)|
 | Total Matches | 2 |
 | Wins | 0 |

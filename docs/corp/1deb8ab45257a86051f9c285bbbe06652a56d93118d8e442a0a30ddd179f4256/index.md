@@ -5,8 +5,8 @@ title: 星际联盟（中国）
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1203 🔺  (413)|
-| ELO Competitive | 1215 🔺  (438)|
+| ELO Regular | 1203 🔺  (414)|
+| ELO Competitive | 1215 🔺  (439)|
 | Total Matches | 15 |
 | Wins | 6 |
 | Losses | 8 |

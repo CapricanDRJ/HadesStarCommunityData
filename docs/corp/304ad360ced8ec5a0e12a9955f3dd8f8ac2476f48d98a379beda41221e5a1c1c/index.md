@@ -5,7 +5,7 @@ title: Stardust
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1086 🔻  (1113)|
+| ELO Regular | 1086 🔻  (1112)|
 | ELO Competitive | 1131 🔻  (1099)|
 | Total Matches | 18 |
 | Wins | 2 |

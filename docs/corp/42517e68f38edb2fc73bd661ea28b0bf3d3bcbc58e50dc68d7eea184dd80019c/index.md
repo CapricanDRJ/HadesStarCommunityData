@@ -5,8 +5,8 @@ title: Star Raiders
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1179 🔻  (765)|
-| ELO Competitive | 1179 🔻  (851)|
+| ELO Regular | 1179 🔻  (766)|
+| ELO Competitive | 1179 🔻  (852)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

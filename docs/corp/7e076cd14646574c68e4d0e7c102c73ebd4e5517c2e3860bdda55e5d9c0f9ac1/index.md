@@ -6,7 +6,7 @@ title: СОЮЗ-2
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔻  (694)|
-| ELO Competitive | 1184 🔻  (798)|
+| ELO Competitive | 1184 🔻  (799)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

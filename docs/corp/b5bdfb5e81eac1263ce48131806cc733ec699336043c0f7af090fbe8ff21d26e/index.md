@@ -5,8 +5,8 @@ title: White Star Inc.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔺  (514)|
-| ELO Competitive | 1203 🔺  (503)|
+| ELO Regular | 1190 🔺  (515)|
+| ELO Competitive | 1203 🔺  (504)|
 | Total Matches | 6 |
 | Wins | 3 |
 | Losses | 3 |

@@ -5,7 +5,7 @@ title: 落雨观花
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1235 🔺  (265)|
+| ELO Regular | 1235 🔺  (264)|
 | ELO Competitive | 1240 🔺  (330)|
 | Total Matches | 3 |
 | Wins | 3 |

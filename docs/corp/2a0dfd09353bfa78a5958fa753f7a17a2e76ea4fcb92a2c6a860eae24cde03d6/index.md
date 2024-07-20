@@ -6,7 +6,7 @@ title: ShadowSpaceCult
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1213 🔻  (370)|
-| ELO Competitive | 1216 🔻  (429)|
+| ELO Competitive | 1216 🔻  (430)|
 | Total Matches | 3 |
 | Wins | 2 |
 | Losses | 1 |

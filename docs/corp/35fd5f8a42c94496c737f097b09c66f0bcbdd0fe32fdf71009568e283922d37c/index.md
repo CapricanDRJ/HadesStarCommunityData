@@ -5,7 +5,7 @@ title: New Horizons
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1205 🔻  (407)|
+| ELO Regular | 1205 🔻  (408)|
 | ELO Competitive | 1238 🔻  (335)|
 | Total Matches | 12 |
 | Wins | 6 |

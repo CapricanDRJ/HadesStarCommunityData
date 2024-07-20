@@ -6,7 +6,7 @@ title: 无名集团
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (643)|
-| ELO Competitive | 1185 🔻  (747)|
+| ELO Competitive | 1185 🔻  (748)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

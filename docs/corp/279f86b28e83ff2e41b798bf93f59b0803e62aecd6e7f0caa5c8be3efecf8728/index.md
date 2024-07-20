@@ -5,7 +5,7 @@ title: The Foundation
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1231 🔺  (273)|
+| ELO Regular | 1231 🔺  (272)|
 | ELO Competitive | 1233 🔺  (352)|
 | Total Matches | 5 |
 | Wins | 3 |

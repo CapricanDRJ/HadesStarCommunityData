@@ -5,8 +5,8 @@ title: Team Elite
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1191 🔻  (507)|
-| ELO Competitive | 1197 🔻  (570)|
+| ELO Regular | 1191 🔻  (508)|
+| ELO Competitive | 1197 🔻  (571)|
 | Total Matches | 4 |
 | Wins | 1 |
 | Losses | 2 |

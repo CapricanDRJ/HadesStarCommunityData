@@ -6,7 +6,7 @@ title:  墨痕
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1149 🔺  (978)|
-| ELO Competitive | 1207 🔺  (493)|
+| ELO Competitive | 1207 🔺  (494)|
 | Total Matches | 18 |
 | Wins | 7 |
 | Losses | 11 |

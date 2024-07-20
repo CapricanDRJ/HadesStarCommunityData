@@ -6,7 +6,7 @@ title: Kelebra
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1206 🔻  (406)|
-| ELO Competitive | 1213 🔻  (462)|
+| ELO Competitive | 1213 🔻  (463)|
 | Total Matches | 12 |
 | Wins | 6 |
 | Losses | 5 |

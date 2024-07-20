@@ -5,8 +5,8 @@ title: Legion Prime
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1198 🔻  (467)|
-| ELO Competitive | 1218 🔻  (415)|
+| ELO Regular | 1198 🔻  (468)|
+| ELO Competitive | 1218 🔻  (416)|
 | Total Matches | 22 |
 | Wins | 11 |
 | Losses | 11 |

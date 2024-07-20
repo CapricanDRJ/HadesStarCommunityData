@@ -5,7 +5,7 @@ title: Phoenix corp
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1192 🔻  (503)|
+| ELO Regular | 1192 🔻  (504)|
 | ELO Competitive | 1193 🔻  (589)|
 | Total Matches | 1 |
 | Wins | 0 |

@@ -5,7 +5,7 @@ title: V0RTEX
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1220 🔻  (310)|
+| ELO Regular | 1220 🔻  (309)|
 | ELO Competitive | 1250 🔻  (304)|
 | Total Matches | 20 |
 | Wins | 10 |

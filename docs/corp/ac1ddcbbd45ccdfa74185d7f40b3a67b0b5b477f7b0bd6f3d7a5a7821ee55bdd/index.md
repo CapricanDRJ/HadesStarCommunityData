@@ -5,7 +5,7 @@ title: Widow Makers
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1220 🔻  (312)|
+| ELO Regular | 1220 🔻  (311)|
 | ELO Competitive | 1232 🔻  (356)|
 | Total Matches | 5 |
 | Wins | 3 |

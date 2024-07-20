@@ -6,7 +6,7 @@ title: Elysium
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1360 🔺  (57)|
-| ELO Competitive | 1406 🔺  (76)|
+| ELO Competitive | 1406 🔺  (75)|
 | Total Matches | 36 |
 | Wins | 27 |
 | Losses | 9 |

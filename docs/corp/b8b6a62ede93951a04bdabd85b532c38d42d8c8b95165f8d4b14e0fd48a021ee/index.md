@@ -5,7 +5,7 @@ title: Hermitage
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1226 🔻  (296)|
+| ELO Regular | 1226 🔻  (295)|
 | ELO Competitive | 1246 🔻  (314)|
 | Total Matches | 17 |
 | Wins | 10 |

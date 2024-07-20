@@ -5,7 +5,7 @@ title: YETI Collective
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1089 🔻  (1107)|
+| ELO Regular | 1089 🔻  (1106)|
 | ELO Competitive | 1191 🔻  (608)|
 | Total Matches | 47 |
 | Wins | 18 |

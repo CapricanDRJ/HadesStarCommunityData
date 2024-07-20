@@ -5,7 +5,7 @@ title: BR Gear
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (756)|
+| ELO Regular | 1181 🔻  (757)|
 | ELO Competitive | 1193 🔻  (587)|
 | Total Matches | 2 |
 | Wins | 0 |

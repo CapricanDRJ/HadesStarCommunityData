@@ -6,7 +6,7 @@ title: Berlin
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (633)|
-| ELO Competitive | 1186 🔻  (680)|
+| ELO Competitive | 1186 🔻  (681)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

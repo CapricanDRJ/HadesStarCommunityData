@@ -6,7 +6,7 @@ title: TAKE IT DEEP
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔻  (572)|
-| ELO Competitive | 1188 🔻  (649)|
+| ELO Competitive | 1188 🔻  (650)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

@@ -5,7 +5,7 @@ title: On en a Gros !
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1196 🔻  (476)|
+| ELO Regular | 1196 🔻  (477)|
 | ELO Competitive | 1325 🔻  (163)|
 | Total Matches | 47 |
 | Wins | 23 |

@@ -5,7 +5,7 @@ title: 아베노노
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1191 🔻  (506)|
+| ELO Regular | 1191 🔻  (507)|
 | ELO Competitive | 1192 🔻  (595)|
 | Total Matches | 5 |
 | Wins | 2 |

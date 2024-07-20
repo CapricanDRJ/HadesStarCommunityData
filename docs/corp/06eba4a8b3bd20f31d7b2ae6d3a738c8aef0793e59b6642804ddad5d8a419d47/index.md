@@ -5,8 +5,8 @@ title: Time Lords
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (735)|
-| ELO Competitive | 1183 🔻  (824)|
+| ELO Regular | 1183 🔻  (736)|
+| ELO Competitive | 1183 🔻  (825)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

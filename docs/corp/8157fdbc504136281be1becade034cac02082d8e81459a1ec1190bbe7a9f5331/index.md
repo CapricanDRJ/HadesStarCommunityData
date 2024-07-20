@@ -5,7 +5,7 @@ title: Goblin Squad
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1196 🔻  (481)|
+| ELO Regular | 1196 🔻  (482)|
 | ELO Competitive | 1226 🔺  (377)|
 | Total Matches | 8 |
 | Wins | 4 |

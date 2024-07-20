@@ -6,7 +6,7 @@ title: Stargate Corp
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1345 🔺  (67)|
-| ELO Competitive | 1479 🔺  (27)|
+| ELO Competitive | 1479 🔺  (28)|
 | Total Matches | 48 |
 | Wins | 33 |
 | Losses | 15 |

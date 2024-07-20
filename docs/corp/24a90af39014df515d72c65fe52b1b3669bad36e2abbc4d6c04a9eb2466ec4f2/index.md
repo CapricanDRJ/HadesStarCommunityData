@@ -6,7 +6,7 @@ title: LossFarm No.648
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1217 🔻  (327)|
-| ELO Competitive | 1218 🔻  (416)|
+| ELO Competitive | 1218 🔻  (417)|
 | Total Matches | 7 |
 | Wins | 4 |
 | Losses | 3 |

@@ -6,7 +6,7 @@ title: oen
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1211 🔺  (391)|
-| ELO Competitive | 1212 🔺  (470)|
+| ELO Competitive | 1212 🔺  (471)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |

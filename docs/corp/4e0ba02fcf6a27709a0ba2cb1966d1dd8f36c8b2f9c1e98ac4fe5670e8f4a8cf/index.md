@@ -6,7 +6,7 @@ title: 共和服务器
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔻  (710)|
-| ELO Competitive | 1215 🔻  (450)|
+| ELO Competitive | 1215 🔻  (451)|
 | Total Matches | 4 |
 | Wins | 1 |
 | Losses | 2 |

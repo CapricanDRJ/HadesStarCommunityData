@@ -6,7 +6,7 @@ title: UniversalCaos
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1214 🔺  (359)|
-| ELO Competitive | 1214 🔺  (453)|
+| ELO Competitive | 1214 🔺  (454)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |

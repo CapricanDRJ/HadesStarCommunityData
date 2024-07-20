@@ -5,7 +5,7 @@ title: Imperio Galacti
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (822)|
+| ELO Regular | 1173 🔻  (823)|
 | ELO Competitive | 1173 🔻  (913)|
 | Total Matches | 2 |
 | Wins | 0 |

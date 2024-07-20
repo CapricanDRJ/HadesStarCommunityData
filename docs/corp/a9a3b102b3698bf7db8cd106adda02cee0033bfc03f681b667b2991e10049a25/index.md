@@ -5,7 +5,7 @@ title: Млечный путь
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1227 🔻  (291)|
+| ELO Regular | 1227 🔻  (290)|
 | ELO Competitive | 1283 🔻  (228)|
 | Total Matches | 25 |
 | Wins | 12 |

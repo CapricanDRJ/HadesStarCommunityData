@@ -5,8 +5,8 @@ title: Wehrmacht
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1180 🔻  (760)|
-| ELO Competitive | 1183 🔻  (825)|
+| ELO Regular | 1180 🔻  (761)|
+| ELO Competitive | 1183 🔻  (826)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

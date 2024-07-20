@@ -5,7 +5,7 @@ title: O.E.B.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (833)|
+| ELO Regular | 1172 🔻  (834)|
 | ELO Competitive | 1172 🔻  (925)|
 | Total Matches | 2 |
 | Wins | 0 |

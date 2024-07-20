@@ -5,8 +5,8 @@ title: Blue Space
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1194 🔻  (491)|
-| ELO Competitive | 1213 🔻  (466)|
+| ELO Regular | 1194 🔻  (492)|
+| ELO Competitive | 1213 🔻  (467)|
 | Total Matches | 9 |
 | Wins | 4 |
 | Losses | 5 |

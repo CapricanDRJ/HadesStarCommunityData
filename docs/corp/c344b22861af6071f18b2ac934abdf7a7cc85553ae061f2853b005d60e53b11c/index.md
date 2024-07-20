@@ -6,7 +6,7 @@ title: MiniStarRaiders
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (583)|
-| ELO Competitive | 1186 🔻  (687)|
+| ELO Competitive | 1186 🔻  (688)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

@@ -6,7 +6,7 @@ title: Vertin's box
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1208 🔺  (399)|
-| ELO Competitive | 1213 🔺  (465)|
+| ELO Competitive | 1213 🔺  (466)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |

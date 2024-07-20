@@ -5,7 +5,7 @@ title: Flying Dutchmen
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 🔻  (537)|
+| ELO Regular | 1189 🔻  (538)|
 | ELO Competitive | 1190 🔻  (619)|
 | Total Matches | 1 |
 | Wins | 0 |

@@ -5,8 +5,8 @@ title: 游徒之家
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1197 🔺  (470)|
-| ELO Competitive | 1208 🔺  (491)|
+| ELO Regular | 1197 🔺  (471)|
+| ELO Competitive | 1208 🔺  (492)|
 | Total Matches | 5 |
 | Wins | 2 |
 | Losses | 3 |

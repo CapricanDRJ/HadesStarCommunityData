@@ -5,8 +5,8 @@ title: русский клан
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1202 🔻  (419)|
-| ELO Competitive | 1202 🔻  (511)|
+| ELO Regular | 1202 🔻  (420)|
+| ELO Competitive | 1202 🔻  (512)|
 | Total Matches | 2 |
 | Wins | 1 |
 | Losses | 1 |

@@ -5,7 +5,7 @@ title: 大舰队がな
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1086 🔻  (1114)|
+| ELO Regular | 1086 🔻  (1113)|
 | ELO Competitive | 1111 🔻  (1124)|
 | Total Matches | 9 |
 | Wins | 0 |

@@ -5,7 +5,7 @@ title: МеГаКо
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1205 🔺  (408)|
+| ELO Regular | 1205 🔺  (409)|
 | ELO Competitive | 1242 🔺  (329)|
 | Total Matches | 26 |
 | Wins | 13 |

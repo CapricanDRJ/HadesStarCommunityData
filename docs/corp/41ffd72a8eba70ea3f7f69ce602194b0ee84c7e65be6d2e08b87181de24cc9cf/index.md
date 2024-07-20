@@ -6,7 +6,7 @@ title: Dark Sun
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1137 🔻  (1025)|
-| ELO Competitive | 1218 🔻  (414)|
+| ELO Competitive | 1218 🔻  (415)|
 | Total Matches | 19 |
 | Wins | 6 |
 | Losses | 11 |

@@ -5,7 +5,7 @@ title: 无聊不过
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1193 🔻  (496)|
+| ELO Regular | 1193 🔻  (497)|
 | ELO Competitive | 1194 🔻  (579)|
 | Total Matches | 1 |
 | Wins | 0 |

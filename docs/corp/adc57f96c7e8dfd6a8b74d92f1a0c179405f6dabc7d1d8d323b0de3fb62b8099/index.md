@@ -5,7 +5,7 @@ title: Bandidos
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔻  (517)|
+| ELO Regular | 1190 🔻  (518)|
 | ELO Competitive | 1194 🔻  (584)|
 | Total Matches | 1 |
 | Wins | 0 |

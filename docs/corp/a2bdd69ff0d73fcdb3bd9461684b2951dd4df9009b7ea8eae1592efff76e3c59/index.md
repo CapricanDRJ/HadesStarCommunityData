@@ -5,7 +5,7 @@ title: Curcubeu
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1222 🔻  (304)|
+| ELO Regular | 1222 🔻  (303)|
 | ELO Competitive | 1314 🔻  (184)|
 | Total Matches | 27 |
 | Wins | 17 |
