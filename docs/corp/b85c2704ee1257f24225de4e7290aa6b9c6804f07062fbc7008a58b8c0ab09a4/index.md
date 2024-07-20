@@ -5,8 +5,8 @@ title: Eastern Front
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 |
-| ELO Competitive | 1355 |
+| ELO Regular | 1183 🔻|
+| ELO Competitive | 1355 🔻|
 | Total Matches | 63 |
 | Wins | 29 |
 | Losses | 33 |

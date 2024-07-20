@@ -5,8 +5,8 @@ title: 101
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1150 |
-| ELO Competitive | 1402 |
+| ELO Regular | 1150 🔻|
+| ELO Competitive | 1402 🔺|
 | Total Matches | 83 |
 | Wins | 34 |
 | Losses | 46 |

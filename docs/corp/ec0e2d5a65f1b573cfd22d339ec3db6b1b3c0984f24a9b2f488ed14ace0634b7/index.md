@@ -5,8 +5,8 @@ title: Imperio Nova
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1153 |
-| ELO Competitive | 1158 |
+| ELO Regular | 1153 🔻|
+| ELO Competitive | 1158 🔻|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

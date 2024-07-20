@@ -5,8 +5,8 @@ title: Karanth Corp.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 |
-| ELO Competitive | 1174 |
+| ELO Regular | 1173 🔻|
+| ELO Competitive | 1174 🔻|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

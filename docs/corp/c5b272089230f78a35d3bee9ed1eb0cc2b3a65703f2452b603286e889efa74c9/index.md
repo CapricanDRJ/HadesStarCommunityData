@@ -5,8 +5,8 @@ title: tropa (BR)
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 |
-| ELO Competitive | 1190 |
+| ELO Regular | 1181 🔻|
+| ELO Competitive | 1190 🔻|
 | Total Matches | 18 |
 | Wins | 7 |
 | Losses | 9 |

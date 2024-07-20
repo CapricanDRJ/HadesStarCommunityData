@@ -5,8 +5,8 @@ title: alienigenas
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1227 |
-| ELO Competitive | 1237 |
+| ELO Regular | 1227 🔺|
+| ELO Competitive | 1237 🔺|
 | Total Matches | 9 |
 | Wins | 5 |
 | Losses | 4 |

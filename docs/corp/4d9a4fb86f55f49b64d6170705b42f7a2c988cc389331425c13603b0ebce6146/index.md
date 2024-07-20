@@ -5,8 +5,8 @@ title: Best UA West
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1144 |
-| ELO Competitive | 1144 |
+| ELO Regular | 1144 🔻|
+| ELO Competitive | 1144 🔻|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 4 |

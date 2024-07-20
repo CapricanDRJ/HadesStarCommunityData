@@ -5,8 +5,8 @@ title: White Dwarf
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1360 |
-| ELO Competitive | 1399 |
+| ELO Regular | 1360 🔻|
+| ELO Competitive | 1399 🔻|
 | Total Matches | 41 |
 | Wins | 29 |
 | Losses | 12 |

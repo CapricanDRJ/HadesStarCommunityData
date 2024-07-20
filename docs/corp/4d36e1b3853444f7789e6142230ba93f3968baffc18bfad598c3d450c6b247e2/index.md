@@ -5,8 +5,8 @@ title: 资助会
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1242 |
-| ELO Competitive | 1242 |
+| ELO Regular | 1242 🔺|
+| ELO Competitive | 1242 🔺|
 | Total Matches | 7 |
 | Wins | 5 |
 | Losses | 2 |

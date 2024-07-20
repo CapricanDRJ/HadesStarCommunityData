@@ -5,8 +5,8 @@ title: 佛矿寺
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 997 |
-| ELO Competitive | 1027 |
+| ELO Regular | 997 🔻|
+| ELO Competitive | 1027 🔻|
 | Total Matches | 43 |
 | Wins | 8 |
 | Losses | 35 |

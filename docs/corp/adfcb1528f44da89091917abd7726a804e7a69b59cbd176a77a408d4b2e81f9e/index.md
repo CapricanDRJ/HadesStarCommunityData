@@ -5,8 +5,8 @@ title: Imperio Lie Yan
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1211 |
-| ELO Competitive | 1212 |
+| ELO Regular | 1211 🔻|
+| ELO Competitive | 1212 🔻|
 | Total Matches | 3 |
 | Wins | 2 |
 | Losses | 1 |

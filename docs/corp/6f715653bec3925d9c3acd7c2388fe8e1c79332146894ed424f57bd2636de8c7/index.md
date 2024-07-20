@@ -5,8 +5,8 @@ title: Mass Effect
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 |
-| ELO Competitive | 1258 |
+| ELO Regular | 1216 🔺|
+| ELO Competitive | 1258 🔺|
 | Total Matches | 36 |
 | Wins | 19 |
 | Losses | 16 |

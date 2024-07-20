@@ -5,8 +5,8 @@ title: DYLAN
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1281 |
-| ELO Competitive | 1282 |
+| ELO Regular | 1281 🔻|
+| ELO Competitive | 1282 🔻|
 | Total Matches | 9 |
 | Wins | 8 |
 | Losses | 1 |

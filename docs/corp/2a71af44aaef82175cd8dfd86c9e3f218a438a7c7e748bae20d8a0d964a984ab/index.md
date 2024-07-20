@@ -5,8 +5,8 @@ title: 神圣罗马帝国
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1087 |
-| ELO Competitive | 1209 |
+| ELO Regular | 1087 🔺|
+| ELO Competitive | 1209 🔺|
 | Total Matches | 57 |
 | Wins | 18 |
 | Losses | 38 |

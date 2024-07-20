@@ -5,8 +5,8 @@ title: Regulus
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1151 |
-| ELO Competitive | 1208 |
+| ELO Regular | 1151 🔻|
+| ELO Competitive | 1208 🔻|
 | Total Matches | 18 |
 | Wins | 7 |
 | Losses | 11 |

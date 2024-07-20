@@ -5,8 +5,8 @@ title: 新手联邦（新经济开发区）
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1459 |
-| ELO Competitive | 1480 |
+| ELO Regular | 1459 🔺|
+| ELO Competitive | 1480 🔺|
 | Total Matches | 27 |
 | Wins | 27 |
 | Losses | 0 |

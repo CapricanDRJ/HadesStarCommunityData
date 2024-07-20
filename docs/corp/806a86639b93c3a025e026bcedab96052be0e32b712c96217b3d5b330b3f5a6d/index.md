@@ -5,8 +5,8 @@ title: OntarioDestiny
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1115 |
-| ELO Competitive | 1135 |
+| ELO Regular | 1115 🔻|
+| ELO Competitive | 1135 🔻|
 | Total Matches | 28 |
 | Wins | 9 |
 | Losses | 19 |

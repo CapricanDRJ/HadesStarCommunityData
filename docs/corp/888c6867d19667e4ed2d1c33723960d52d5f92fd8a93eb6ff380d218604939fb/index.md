@@ -5,8 +5,8 @@ title: ДИВЕРСАНТЫ
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1538 |
-| ELO Competitive | 1604 |
+| ELO Regular | 1538 🔺|
+| ELO Competitive | 1604 🔺|
 | Total Matches | 51 |
 | Wins | 44 |
 | Losses | 6 |

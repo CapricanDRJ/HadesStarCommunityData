@@ -5,8 +5,8 @@ title: Blood Hounds
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1498 |
-| ELO Competitive | 1532 |
+| ELO Regular | 1498 🔺|
+| ELO Competitive | 1532 🔺|
 | Total Matches | 59 |
 | Wins | 50 |
 | Losses | 8 |

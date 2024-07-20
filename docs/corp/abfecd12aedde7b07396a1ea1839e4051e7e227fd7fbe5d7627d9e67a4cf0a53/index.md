@@ -5,8 +5,8 @@ title: C.C Legion
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1256 |
-| ELO Competitive | 1257 |
+| ELO Regular | 1256 🔺|
+| ELO Competitive | 1257 🔺|
 | Total Matches | 6 |
 | Wins | 5 |
 | Losses | 1 |

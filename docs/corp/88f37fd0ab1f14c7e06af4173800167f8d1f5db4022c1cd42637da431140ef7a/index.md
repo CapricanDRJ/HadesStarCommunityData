@@ -5,8 +5,8 @@ title: TeddisaurusWrex
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1372 |
-| ELO Competitive | 1418 |
+| ELO Regular | 1372 🔺|
+| ELO Competitive | 1418 🔺|
 | Total Matches | 41 |
 | Wins | 34 |
 | Losses | 7 |

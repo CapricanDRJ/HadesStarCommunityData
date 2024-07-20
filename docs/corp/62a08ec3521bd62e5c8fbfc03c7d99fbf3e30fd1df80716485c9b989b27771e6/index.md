@@ -5,8 +5,8 @@ title: The Watchers
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1164 |
-| ELO Competitive | 1237 |
+| ELO Regular | 1164 🔻|
+| ELO Competitive | 1237 🔻|
 | Total Matches | 25 |
 | Wins | 11 |
 | Losses | 14 |

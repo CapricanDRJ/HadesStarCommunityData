@@ -5,8 +5,8 @@ title: Nebulae Traders
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1126 |
-| ELO Competitive | 1162 |
+| ELO Regular | 1126 🔻|
+| ELO Competitive | 1162 🔻|
 | Total Matches | 19 |
 | Wins | 4 |
 | Losses | 13 |

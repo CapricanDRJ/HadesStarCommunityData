@@ -5,8 +5,8 @@ title: N.P.C
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1221 |
-| ELO Competitive | 1227 |
+| ELO Regular | 1221 🔻|
+| ELO Competitive | 1227 🔻|
 | Total Matches | 10 |
 | Wins | 5 |
 | Losses | 2 |

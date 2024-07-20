@@ -5,8 +5,8 @@ title: Star Wars
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1211 |
-| ELO Competitive | 1232 |
+| ELO Regular | 1211 🔻|
+| ELO Competitive | 1232 🔻|
 | Total Matches | 17 |
 | Wins | 9 |
 | Losses | 8 |

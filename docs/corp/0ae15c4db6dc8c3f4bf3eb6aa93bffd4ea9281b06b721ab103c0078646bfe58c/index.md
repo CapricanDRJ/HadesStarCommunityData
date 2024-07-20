@@ -5,8 +5,8 @@ title: Спутник
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1396 |
-| ELO Competitive | 1426 |
+| ELO Regular | 1396 🔺|
+| ELO Competitive | 1426 🔺|
 | Total Matches | 38 |
 | Wins | 31 |
 | Losses | 7 |

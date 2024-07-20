@@ -5,8 +5,8 @@ title: 星光舰队
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1224 |
-| ELO Competitive | 1228 |
+| ELO Regular | 1224 🔺|
+| ELO Competitive | 1228 🔺|
 | Total Matches | 4 |
 | Wins | 3 |
 | Losses | 1 |

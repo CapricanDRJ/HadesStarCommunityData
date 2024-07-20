@@ -5,8 +5,8 @@ title: Krasse Bros
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1256 |
-| ELO Competitive | 1259 |
+| ELO Regular | 1256 🔺|
+| ELO Competitive | 1259 🔺|
 | Total Matches | 6 |
 | Wins | 5 |
 | Losses | 1 |

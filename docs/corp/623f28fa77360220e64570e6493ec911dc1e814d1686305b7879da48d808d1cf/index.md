@@ -5,8 +5,8 @@ title: BrazilCorp.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1480 |
-| ELO Competitive | 1517 |
+| ELO Regular | 1480 🔺|
+| ELO Competitive | 1517 🔺|
 | Total Matches | 39 |
 | Wins | 34 |
 | Losses | 5 |

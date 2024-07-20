@@ -5,8 +5,8 @@ title: Titan Corp.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1233 |
-| ELO Competitive | 1315 |
+| ELO Regular | 1233 🔻|
+| ELO Competitive | 1315 🔻|
 | Total Matches | 39 |
 | Wins | 22 |
 | Losses | 17 |

@@ -5,8 +5,8 @@ title: Alpha
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1051 |
-| ELO Competitive | 1087 |
+| ELO Regular | 1051 🔻|
+| ELO Competitive | 1087 🔻|
 | Total Matches | 33 |
 | Wins | 7 |
 | Losses | 26 |

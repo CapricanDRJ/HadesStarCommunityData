@@ -5,8 +5,8 @@ title: Mecha Armada
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 |
-| ELO Competitive | 1216 |
+| ELO Regular | 1216 🔺|
+| ELO Competitive | 1216 🔺|
 | Total Matches | 3 |
 | Wins | 2 |
 | Losses | 1 |

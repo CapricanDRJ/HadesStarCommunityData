@@ -5,8 +5,8 @@ title: 凛冬重工
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1195 |
-| ELO Competitive | 1198 |
+| ELO Regular | 1195 🔻|
+| ELO Competitive | 1198 🔻|
 | Total Matches | 2 |
 | Wins | 1 |
 | Losses | 1 |

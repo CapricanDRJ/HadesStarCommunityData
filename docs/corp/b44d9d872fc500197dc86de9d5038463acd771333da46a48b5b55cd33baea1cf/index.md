@@ -5,8 +5,8 @@ title: 阿尔特拉集团
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 |
-| ELO Competitive | 1288 |
+| ELO Regular | 1188 🔻|
+| ELO Competitive | 1288 🔻|
 | Total Matches | 41 |
 | Wins | 18 |
 | Losses | 21 |

@@ -5,8 +5,8 @@ title: Wacky Wabbits
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1194 |
-| ELO Competitive | 1200 |
+| ELO Regular | 1194 🔻|
+| ELO Competitive | 1200 🔻|
 | Total Matches | 4 |
 | Wins | 2 |
 | Losses | 2 |

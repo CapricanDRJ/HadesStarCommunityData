@@ -5,8 +5,8 @@ title: IX Легион
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1368 |
-| ELO Competitive | 1526 |
+| ELO Regular | 1368 🔻|
+| ELO Competitive | 1526 🔺|
 | Total Matches | 68 |
 | Wins | 41 |
 | Losses | 27 |

@@ -5,8 +5,8 @@ title: Galactic Trade
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1150 |
-| ELO Competitive | 1152 |
+| ELO Regular | 1150 🔻|
+| ELO Competitive | 1152 🔻|
 | Total Matches | 8 |
 | Wins | 2 |
 | Losses | 6 |

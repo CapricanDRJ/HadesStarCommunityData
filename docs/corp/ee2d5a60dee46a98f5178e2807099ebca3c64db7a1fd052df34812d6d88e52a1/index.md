@@ -5,8 +5,8 @@ title: Anla'Shok
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1089 |
-| ELO Competitive | 1096 |
+| ELO Regular | 1089 🔻|
+| ELO Competitive | 1096 🔻|
 | Total Matches | 13 |
 | Wins | 2 |
 | Losses | 11 |

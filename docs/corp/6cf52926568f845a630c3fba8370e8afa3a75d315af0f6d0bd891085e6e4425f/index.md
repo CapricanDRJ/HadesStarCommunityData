@@ -5,8 +5,8 @@ title: Antioch
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 |
-| ELO Competitive | 1194 |
+| ELO Regular | 1173 🔺|
+| ELO Competitive | 1194 🔺|
 | Total Matches | 22 |
 | Wins | 9 |
 | Losses | 13 |

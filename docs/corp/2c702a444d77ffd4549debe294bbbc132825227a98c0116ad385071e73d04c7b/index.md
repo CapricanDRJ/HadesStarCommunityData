@@ -5,8 +5,8 @@ title: 仙剑3
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1217 |
-| ELO Competitive | 1217 |
+| ELO Regular | 1217 🔺|
+| ELO Competitive | 1217 🔺|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |

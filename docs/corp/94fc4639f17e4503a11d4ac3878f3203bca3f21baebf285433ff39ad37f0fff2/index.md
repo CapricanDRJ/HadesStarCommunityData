@@ -5,8 +5,8 @@ title: BRASIL STAR
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1316 |
-| ELO Competitive | 1412 |
+| ELO Regular | 1316 🔺|
+| ELO Competitive | 1412 🔺|
 | Total Matches | 46 |
 | Wins | 30 |
 | Losses | 15 |

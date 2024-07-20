@@ -5,8 +5,8 @@ title: Stone Legion
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1347 |
-| ELO Competitive | 1371 |
+| ELO Regular | 1347 🔺|
+| ELO Competitive | 1371 🔺|
 | Total Matches | 24 |
 | Wins | 19 |
 | Losses | 5 |

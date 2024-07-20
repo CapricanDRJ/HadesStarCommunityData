@@ -5,8 +5,8 @@ title: Orphans Of Kos
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1194 |
-| ELO Competitive | 1197 |
+| ELO Regular | 1194 🔺|
+| ELO Competitive | 1197 🔺|
 | Total Matches | 11 |
 | Wins | 5 |
 | Losses | 6 |

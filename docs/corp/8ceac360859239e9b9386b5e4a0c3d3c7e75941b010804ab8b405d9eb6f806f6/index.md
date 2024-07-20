@@ -5,8 +5,8 @@ title: Fleet Corp Ares
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1250 |
-| ELO Competitive | 1264 |
+| ELO Regular | 1250 🔺|
+| ELO Competitive | 1264 🔺|
 | Total Matches | 12 |
 | Wins | 7 |
 | Losses | 5 |

@@ -5,8 +5,8 @@ title: Бестрашный лиги
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1177 |
-| ELO Competitive | 1177 |
+| ELO Regular | 1177 🔻|
+| ELO Competitive | 1177 🔻|
 | Total Matches | 8 |
 | Wins | 3 |
 | Losses | 5 |

@@ -5,8 +5,8 @@ title: Inexorable
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1229 |
-| ELO Competitive | 1286 |
+| ELO Regular | 1229 🔻|
+| ELO Competitive | 1286 🔻|
 | Total Matches | 29 |
 | Wins | 18 |
 | Losses | 11 |

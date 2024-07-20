@@ -5,8 +5,8 @@ title: Dauntless
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1082 |
-| ELO Competitive | 1101 |
+| ELO Regular | 1082 🔻|
+| ELO Competitive | 1101 🔻|
 | Total Matches | 23 |
 | Wins | 6 |
 | Losses | 17 |

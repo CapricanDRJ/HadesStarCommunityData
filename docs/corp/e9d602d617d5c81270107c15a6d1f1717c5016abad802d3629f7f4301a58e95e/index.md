@@ -5,8 +5,8 @@ title: 元素联邦
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1365 |
-| ELO Competitive | 1396 |
+| ELO Regular | 1365 🔺|
+| ELO Competitive | 1396 🔺|
 | Total Matches | 36 |
 | Wins | 23 |
 | Losses | 13 |

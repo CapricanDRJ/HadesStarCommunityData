@@ -5,8 +5,8 @@ title: Sentencia
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1326 |
-| ELO Competitive | 1351 |
+| ELO Regular | 1326 🔻|
+| ELO Competitive | 1351 🔻|
 | Total Matches | 15 |
 | Wins | 12 |
 | Losses | 3 |

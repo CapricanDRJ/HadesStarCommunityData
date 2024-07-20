@@ -5,8 +5,8 @@ title: DTC
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1026 |
-| ELO Competitive | 1176 |
+| ELO Regular | 1026 🔻|
+| ELO Competitive | 1176 🔻|
 | Total Matches | 55 |
 | Wins | 14 |
 | Losses | 41 |

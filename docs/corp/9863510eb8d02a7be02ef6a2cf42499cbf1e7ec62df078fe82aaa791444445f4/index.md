@@ -5,8 +5,8 @@ title: КМБ
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1205 |
-| ELO Competitive | 1208 |
+| ELO Regular | 1205 🔻|
+| ELO Competitive | 1208 🔻|
 | Total Matches | 11 |
 | Wins | 5 |
 | Losses | 6 |

@@ -5,8 +5,8 @@ title: 碧霄殿
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1236 |
-| ELO Competitive | 1245 |
+| ELO Regular | 1236 🔺|
+| ELO Competitive | 1245 🔺|
 | Total Matches | 4 |
 | Wins | 3 |
 | Losses | 1 |

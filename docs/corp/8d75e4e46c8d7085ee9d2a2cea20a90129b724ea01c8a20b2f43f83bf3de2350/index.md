@@ -5,8 +5,8 @@ title: 111
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1385 |
-| ELO Competitive | 1514 |
+| ELO Regular | 1385 🔺|
+| ELO Competitive | 1514 🔺|
 | Total Matches | 60 |
 | Wins | 45 |
 | Losses | 15 |

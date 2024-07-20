@@ -5,8 +5,8 @@ title: Warriorlords
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1320 |
-| ELO Competitive | 1411 |
+| ELO Regular | 1320 🔺|
+| ELO Competitive | 1411 🔺|
 | Total Matches | 27 |
 | Wins | 19 |
 | Losses | 8 |

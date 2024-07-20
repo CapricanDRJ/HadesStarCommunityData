@@ -5,8 +5,8 @@ title: lost souls
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1239 |
-| ELO Competitive | 1361 |
+| ELO Regular | 1239 🔻|
+| ELO Competitive | 1361 🔻|
 | Total Matches | 47 |
 | Wins | 24 |
 | Losses | 22 |

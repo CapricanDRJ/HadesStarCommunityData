@@ -5,8 +5,8 @@ title: Famous Assasins
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1492 |
-| ELO Competitive | 1523 |
+| ELO Regular | 1492 🔺|
+| ELO Competitive | 1523 🔺|
 | Total Matches | 50 |
 | Wins | 44 |
 | Losses | 6 |

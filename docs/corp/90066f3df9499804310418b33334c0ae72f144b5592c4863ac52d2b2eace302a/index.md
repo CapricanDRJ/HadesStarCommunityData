@@ -5,8 +5,8 @@ title: DarkMoon
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1311 |
-| ELO Competitive | 1389 |
+| ELO Regular | 1311 🔻|
+| ELO Competitive | 1389 🔺|
 | Total Matches | 29 |
 | Wins | 19 |
 | Losses | 10 |

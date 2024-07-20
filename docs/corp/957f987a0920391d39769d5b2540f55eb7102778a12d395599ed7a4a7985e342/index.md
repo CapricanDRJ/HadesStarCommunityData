@@ -5,8 +5,8 @@ title: Stellaris
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1145 |
-| ELO Competitive | 1156 |
+| ELO Regular | 1145 🔻|
+| ELO Competitive | 1156 🔻|
 | Total Matches | 5 |
 | Wins | 0 |
 | Losses | 5 |

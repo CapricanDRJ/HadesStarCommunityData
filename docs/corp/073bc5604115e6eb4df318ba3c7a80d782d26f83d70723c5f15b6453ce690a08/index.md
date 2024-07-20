@@ -5,8 +5,8 @@ title: Novana Gaming
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1200 |
-| ELO Competitive | 1204 |
+| ELO Regular | 1200 🔻|
+| ELO Competitive | 1204 🔻|
 | Total Matches | 4 |
 | Wins | 2 |
 | Losses | 2 |

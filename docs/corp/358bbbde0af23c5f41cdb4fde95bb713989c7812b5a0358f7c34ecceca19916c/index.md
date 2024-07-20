@@ -5,8 +5,8 @@ title: Cyber Star
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1375 |
-| ELO Competitive | 1410 |
+| ELO Regular | 1375 🔺|
+| ELO Competitive | 1410 🔺|
 | Total Matches | 33 |
 | Wins | 24 |
 | Losses | 9 |

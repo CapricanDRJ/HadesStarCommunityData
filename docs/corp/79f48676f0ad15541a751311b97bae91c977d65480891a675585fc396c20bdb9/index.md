@@ -5,8 +5,8 @@ title: 初始之音
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 |
-| ELO Competitive | 1220 |
+| ELO Regular | 1175 🔻|
+| ELO Competitive | 1220 🔺|
 | Total Matches | 24 |
 | Wins | 11 |
 | Losses | 13 |

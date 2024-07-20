@@ -5,8 +5,8 @@ title: 北冥星云
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1145 |
-| ELO Competitive | 1160 |
+| ELO Regular | 1145 🔻|
+| ELO Competitive | 1160 🔻|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 4 |

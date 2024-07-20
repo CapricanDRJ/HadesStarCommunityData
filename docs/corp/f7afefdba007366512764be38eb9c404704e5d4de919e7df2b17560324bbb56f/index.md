@@ -5,8 +5,8 @@ title: The Seperatists
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 |
-| ELO Competitive | 1264 |
+| ELO Regular | 1186 🔻|
+| ELO Competitive | 1264 🔻|
 | Total Matches | 34 |
 | Wins | 15 |
 | Losses | 19 |

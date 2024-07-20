@@ -5,8 +5,8 @@ title: Terranova
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1016 |
-| ELO Competitive | 1086 |
+| ELO Regular | 1016 🔻|
+| ELO Competitive | 1086 🔻|
 | Total Matches | 30 |
 | Wins | 3 |
 | Losses | 27 |

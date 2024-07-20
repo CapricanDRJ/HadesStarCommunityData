@@ -5,8 +5,8 @@ title: 春城阳关
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 |
-| ELO Competitive | 1187 |
+| ELO Regular | 1187 🔻|
+| ELO Competitive | 1187 🔻|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

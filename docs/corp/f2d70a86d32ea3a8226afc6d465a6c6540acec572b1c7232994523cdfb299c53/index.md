@@ -5,8 +5,8 @@ title: ✡天启✡
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1356 |
-| ELO Competitive | 1457 |
+| ELO Regular | 1356 🔻|
+| ELO Competitive | 1457 🔺|
 | Total Matches | 30 |
 | Wins | 22 |
 | Losses | 8 |

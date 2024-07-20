@@ -5,8 +5,8 @@ title: DeutschlandGmbH
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 |
-| ELO Competitive | 1173 |
+| ELO Regular | 1173 🔺|
+| ELO Competitive | 1173 🔺|
 | Total Matches | 4 |
 | Wins | 1 |
 | Losses | 3 |

@@ -5,8 +5,8 @@ title: Grater T
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1234 |
-| ELO Competitive | 1253 |
+| ELO Regular | 1234 🔻|
+| ELO Competitive | 1253 🔻|
 | Total Matches | 14 |
 | Wins | 7 |
 | Losses | 7 |

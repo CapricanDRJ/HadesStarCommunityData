@@ -5,8 +5,8 @@ title: Ascalon
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 |
-| ELO Competitive | 1201 |
+| ELO Regular | 1201 🔻|
+| ELO Competitive | 1201 🔻|
 | Total Matches | 3 |
 | Wins | 1 |
 | Losses | 1 |

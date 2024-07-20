@@ -5,8 +5,8 @@ title: AwA
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 |
-| ELO Competitive | 1185 |
+| ELO Regular | 1184 🔻|
+| ELO Competitive | 1185 🔻|
 | Total Matches | 5 |
 | Wins | 2 |
 | Losses | 3 |

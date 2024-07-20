@@ -5,8 +5,8 @@ title: Türk Yıldızları
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1273 |
-| ELO Competitive | 1305 |
+| ELO Regular | 1273 🔻|
+| ELO Competitive | 1305 🔻|
 | Total Matches | 27 |
 | Wins | 16 |
 | Losses | 11 |

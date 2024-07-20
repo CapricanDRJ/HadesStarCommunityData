@@ -5,8 +5,8 @@ title: FAIR
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 |
-| ELO Competitive | 1191 |
+| ELO Regular | 1187 🔺|
+| ELO Competitive | 1191 🔺|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 1 |

@@ -5,8 +5,8 @@ title: RUSSIAN TEAM
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1109 |
-| ELO Competitive | 1109 |
+| ELO Regular | 1109 🔻|
+| ELO Competitive | 1109 🔻|
 | Total Matches | 9 |
 | Wins | 0 |
 | Losses | 9 |

@@ -5,8 +5,8 @@ title: Corvus Ind.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1358 |
-| ELO Competitive | 1404 |
+| ELO Regular | 1358 🔺|
+| ELO Competitive | 1404 🔺|
 | Total Matches | 32 |
 | Wins | 23 |
 | Losses | 9 |

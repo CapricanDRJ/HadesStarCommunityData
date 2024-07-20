@@ -5,8 +5,8 @@ title: Alpha to Omega
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1194 |
-| ELO Competitive | 1195 |
+| ELO Regular | 1194 🔻|
+| ELO Competitive | 1195 🔻|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 0 |

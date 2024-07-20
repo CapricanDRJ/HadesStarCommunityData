@@ -5,8 +5,8 @@ title: Bund von Lykon
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1134 |
-| ELO Competitive | 1164 |
+| ELO Regular | 1134 🔻|
+| ELO Competitive | 1164 🔻|
 | Total Matches | 11 |
 | Wins | 2 |
 | Losses | 9 |

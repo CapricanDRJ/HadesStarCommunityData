@@ -5,8 +5,8 @@ title: 지고받자
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1090 |
-| ELO Competitive | 1124 |
+| ELO Regular | 1090 🔻|
+| ELO Competitive | 1124 🔻|
 | Total Matches | 9 |
 | Wins | 0 |
 | Losses | 9 |

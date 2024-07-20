@@ -5,8 +5,8 @@ title: Destroyers
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1228 |
-| ELO Competitive | 1247 |
+| ELO Regular | 1228 🔻|
+| ELO Competitive | 1247 🔻|
 | Total Matches | 31 |
 | Wins | 16 |
 | Losses | 15 |

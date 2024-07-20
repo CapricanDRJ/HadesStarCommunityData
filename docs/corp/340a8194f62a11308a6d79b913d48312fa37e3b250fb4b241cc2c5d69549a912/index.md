@@ -5,8 +5,8 @@ title: SYNDICATE
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1271 |
-| ELO Competitive | 1271 |
+| ELO Regular | 1271 🔺|
+| ELO Competitive | 1271 🔺|
 | Total Matches | 5 |
 | Wins | 5 |
 | Losses | 0 |

@@ -5,8 +5,8 @@ title: HAL
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1242 |
-| ELO Competitive | 1242 |
+| ELO Regular | 1242 🔺|
+| ELO Competitive | 1242 🔺|
 | Total Matches | 4 |
 | Wins | 3 |
 | Losses | 0 |

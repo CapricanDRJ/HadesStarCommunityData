@@ -5,8 +5,8 @@ title: 红星超新星爆炸
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 |
-| ELO Competitive | 1188 |
+| ELO Regular | 1187 🔻|
+| ELO Competitive | 1188 🔻|
 | Total Matches | 3 |
 | Wins | 1 |
 | Losses | 2 |

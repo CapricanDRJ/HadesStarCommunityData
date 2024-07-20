@@ -5,8 +5,8 @@ title: King's Guard
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 987 |
-| ELO Competitive | 1164 |
+| ELO Regular | 987 🔻|
+| ELO Competitive | 1164 🔻|
 | Total Matches | 81 |
 | Wins | 24 |
 | Losses | 52 |

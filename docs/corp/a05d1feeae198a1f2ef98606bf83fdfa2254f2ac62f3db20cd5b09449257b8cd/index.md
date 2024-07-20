@@ -5,8 +5,8 @@ title: DarkSide
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1250 |
-| ELO Competitive | 1393 |
+| ELO Regular | 1250 🔺|
+| ELO Competitive | 1393 🔺|
 | Total Matches | 61 |
 | Wins | 27 |
 | Losses | 33 |

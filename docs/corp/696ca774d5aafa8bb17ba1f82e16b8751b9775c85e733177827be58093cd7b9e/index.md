@@ -5,8 +5,8 @@ title: Black Sun
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1119 |
-| ELO Competitive | 1149 |
+| ELO Regular | 1119 🔻|
+| ELO Competitive | 1149 🔻|
 | Total Matches | 20 |
 | Wins | 6 |
 | Losses | 13 |

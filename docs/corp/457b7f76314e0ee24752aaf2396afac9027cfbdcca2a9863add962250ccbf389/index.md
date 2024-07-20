@@ -5,8 +5,8 @@ title: Лунный Феникс
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1390 |
-| ELO Competitive | 1452 |
+| ELO Regular | 1390 🔻|
+| ELO Competitive | 1452 🔻|
 | Total Matches | 50 |
 | Wins | 34 |
 | Losses | 16 |

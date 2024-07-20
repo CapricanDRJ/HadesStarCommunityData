@@ -5,8 +5,8 @@ title: the Rubber Duck
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1129 |
-| ELO Competitive | 1144 |
+| ELO Regular | 1129 🔻|
+| ELO Competitive | 1144 🔻|
 | Total Matches | 15 |
 | Wins | 5 |
 | Losses | 10 |

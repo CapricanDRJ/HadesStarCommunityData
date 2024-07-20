@@ -5,8 +5,8 @@ title: Venture
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1087 |
-| ELO Competitive | 1136 |
+| ELO Regular | 1087 🔻|
+| ELO Competitive | 1136 🔻|
 | Total Matches | 34 |
 | Wins | 8 |
 | Losses | 22 |

@@ -5,8 +5,8 @@ title: РОДНЫЕ.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1199 |
-| ELO Competitive | 1205 |
+| ELO Regular | 1199 🔻|
+| ELO Competitive | 1205 🔻|
 | Total Matches | 9 |
 | Wins | 4 |
 | Losses | 5 |

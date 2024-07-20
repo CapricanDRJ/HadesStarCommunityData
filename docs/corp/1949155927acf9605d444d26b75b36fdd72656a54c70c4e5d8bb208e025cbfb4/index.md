@@ -5,8 +5,8 @@ title: Tortuga Station
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 |
-| ELO Competitive | 1186 |
+| ELO Regular | 1186 🔻|
+| ELO Competitive | 1186 🔻|
 | Total Matches | 3 |
 | Wins | 1 |
 | Losses | 2 |

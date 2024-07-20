@@ -5,8 +5,8 @@ title: Zeta LLC
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1266 |
-| ELO Competitive | 1270 |
+| ELO Regular | 1266 🔻|
+| ELO Competitive | 1270 🔻|
 | Total Matches | 9 |
 | Wins | 7 |
 | Losses | 2 |

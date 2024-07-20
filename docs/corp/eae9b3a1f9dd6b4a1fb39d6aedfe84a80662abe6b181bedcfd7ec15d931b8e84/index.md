@@ -5,8 +5,8 @@ title: Shrimp City
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1272 |
-| ELO Competitive | 1286 |
+| ELO Regular | 1272 🔻|
+| ELO Competitive | 1286 🔻|
 | Total Matches | 26 |
 | Wins | 16 |
 | Losses | 10 |

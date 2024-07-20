@@ -5,8 +5,8 @@ title: Poggy Rockers
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1283 |
-| ELO Competitive | 1308 |
+| ELO Regular | 1283 🔺|
+| ELO Competitive | 1308 🔺|
 | Total Matches | 31 |
 | Wins | 22 |
 | Losses | 8 |

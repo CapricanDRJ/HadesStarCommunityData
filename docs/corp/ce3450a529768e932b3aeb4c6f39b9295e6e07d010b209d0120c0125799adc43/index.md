@@ -5,8 +5,8 @@ title: R-6 satalite
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1311 |
-| ELO Competitive | 1345 |
+| ELO Regular | 1311 🔺|
+| ELO Competitive | 1345 🔺|
 | Total Matches | 37 |
 | Wins | 25 |
 | Losses | 11 |

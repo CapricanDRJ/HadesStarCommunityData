@@ -5,8 +5,8 @@ title: 揽月宫
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1195 |
-| ELO Competitive | 1195 |
+| ELO Regular | 1195 🔻|
+| ELO Competitive | 1195 🔻|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

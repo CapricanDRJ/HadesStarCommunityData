@@ -5,8 +5,8 @@ title: helvetic force
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1217 |
-| ELO Competitive | 1222 |
+| ELO Regular | 1217 🔺|
+| ELO Competitive | 1222 🔺|
 | Total Matches | 3 |
 | Wins | 2 |
 | Losses | 1 |

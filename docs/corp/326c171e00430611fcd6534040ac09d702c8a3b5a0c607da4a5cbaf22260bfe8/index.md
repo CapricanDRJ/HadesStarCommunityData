@@ -5,8 +5,8 @@ title: The Mini Elite
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1145 |
-| ELO Competitive | 1146 |
+| ELO Regular | 1145 🔻|
+| ELO Competitive | 1146 🔻|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 4 |

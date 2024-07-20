@@ -5,8 +5,8 @@ title: 우주미아
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1139 |
-| ELO Competitive | 1145 |
+| ELO Regular | 1139 🔻|
+| ELO Competitive | 1145 🔻|
 | Total Matches | 5 |
 | Wins | 0 |
 | Losses | 5 |

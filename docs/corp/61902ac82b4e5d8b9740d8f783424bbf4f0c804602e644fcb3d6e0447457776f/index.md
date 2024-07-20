@@ -5,8 +5,8 @@ title: ZORG IND
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1222 |
-| ELO Competitive | 1229 |
+| ELO Regular | 1222 🔻|
+| ELO Competitive | 1229 🔺|
 | Total Matches | 3 |
 | Wins | 2 |
 | Losses | 1 |

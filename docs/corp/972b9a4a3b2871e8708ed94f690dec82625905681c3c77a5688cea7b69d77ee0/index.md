@@ -5,8 +5,8 @@ title: 零号帝国
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1243 |
-| ELO Competitive | 1244 |
+| ELO Regular | 1243 🔺|
+| ELO Competitive | 1244 🔺|
 | Total Matches | 3 |
 | Wins | 3 |
 | Losses | 0 |

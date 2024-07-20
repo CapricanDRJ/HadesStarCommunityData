@@ -5,8 +5,8 @@ title: 脉冲星际集团
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1116 |
-| ELO Competitive | 1288 |
+| ELO Regular | 1116 🔻|
+| ELO Competitive | 1288 🔻|
 | Total Matches | 43 |
 | Wins | 20 |
 | Losses | 22 |

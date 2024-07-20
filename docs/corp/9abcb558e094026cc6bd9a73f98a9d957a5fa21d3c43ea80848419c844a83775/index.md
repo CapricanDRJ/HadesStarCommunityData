@@ -5,8 +5,8 @@ title: Alpha Galaxy
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1199 |
-| ELO Competitive | 1199 |
+| ELO Regular | 1199 🔻|
+| ELO Competitive | 1199 🔻|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 0 |

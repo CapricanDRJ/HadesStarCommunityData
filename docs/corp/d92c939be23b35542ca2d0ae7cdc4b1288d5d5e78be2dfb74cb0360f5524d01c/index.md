@@ -5,8 +5,8 @@ title: 青鸾殿
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1219 |
-| ELO Competitive | 1224 |
+| ELO Regular | 1219 🔺|
+| ELO Competitive | 1224 🔺|
 | Total Matches | 3 |
 | Wins | 2 |
 | Losses | 1 |

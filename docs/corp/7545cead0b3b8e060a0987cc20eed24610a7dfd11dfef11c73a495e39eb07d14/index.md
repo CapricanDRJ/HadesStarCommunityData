@@ -5,8 +5,8 @@ title: Hand of Legion
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1244 |
-| ELO Competitive | 1247 |
+| ELO Regular | 1244 🔻|
+| ELO Competitive | 1247 🔻|
 | Total Matches | 5 |
 | Wins | 4 |
 | Losses | 1 |

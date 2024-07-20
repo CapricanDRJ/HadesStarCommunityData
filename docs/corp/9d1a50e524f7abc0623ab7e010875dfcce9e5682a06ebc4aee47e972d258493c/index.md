@@ -5,8 +5,8 @@ title: NoweUkladyII
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1311 |
-| ELO Competitive | 1337 |
+| ELO Regular | 1311 🔺|
+| ELO Competitive | 1337 🔺|
 | Total Matches | 10 |
 | Wins | 10 |
 | Losses | 0 |

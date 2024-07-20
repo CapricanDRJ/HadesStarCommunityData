@@ -5,8 +5,8 @@ title: Españoles
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 |
-| ELO Competitive | 1232 |
+| ELO Regular | 1184 🔺|
+| ELO Competitive | 1232 🔺|
 | Total Matches | 9 |
 | Wins | 3 |
 | Losses | 4 |

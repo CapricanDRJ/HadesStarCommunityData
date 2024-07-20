@@ -5,8 +5,8 @@ title: 对，进就进人少的（分团）
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1195 |
-| ELO Competitive | 1202 |
+| ELO Regular | 1195 🔺|
+| ELO Competitive | 1202 🔺|
 | Total Matches | 7 |
 | Wins | 3 |
 | Losses | 4 |

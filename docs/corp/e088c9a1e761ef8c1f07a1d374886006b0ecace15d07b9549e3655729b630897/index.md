@@ -5,8 +5,8 @@ title: Germania
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1121 |
-| ELO Competitive | 1157 |
+| ELO Regular | 1121 🔻|
+| ELO Competitive | 1157 🔻|
 | Total Matches | 37 |
 | Wins | 15 |
 | Losses | 20 |

@@ -5,8 +5,8 @@ title: Killers from Ua
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 |
-| ELO Competitive | 1221 |
+| ELO Regular | 1214 🔺|
+| ELO Competitive | 1221 🔺|
 | Total Matches | 7 |
 | Wins | 4 |
 | Losses | 3 |

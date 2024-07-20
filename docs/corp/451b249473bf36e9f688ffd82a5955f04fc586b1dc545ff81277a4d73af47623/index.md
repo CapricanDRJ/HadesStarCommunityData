@@ -5,8 +5,8 @@ title: Lost Legion
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1107 |
-| ELO Competitive | 1175 |
+| ELO Regular | 1107 🔻|
+| ELO Competitive | 1175 🔻|
 | Total Matches | 53 |
 | Wins | 19 |
 | Losses | 34 |

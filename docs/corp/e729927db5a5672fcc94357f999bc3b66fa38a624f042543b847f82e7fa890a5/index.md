@@ -5,8 +5,8 @@ title: Atlas corp
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1156 |
-| ELO Competitive | 1160 |
+| ELO Regular | 1156 🔺|
+| ELO Competitive | 1160 🔺|
 | Total Matches | 15 |
 | Wins | 5 |
 | Losses | 9 |

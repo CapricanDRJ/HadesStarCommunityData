@@ -5,8 +5,8 @@ title: Hun Generals
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1000 |
-| ELO Competitive | 1111 |
+| ELO Regular | 1000 🔻|
+| ELO Competitive | 1111 🔻|
 | Total Matches | 36 |
 | Wins | 7 |
 | Losses | 29 |

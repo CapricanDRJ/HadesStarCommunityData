@@ -5,8 +5,8 @@ title: Ironbear Legion
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1123 |
-| ELO Competitive | 1178 |
+| ELO Regular | 1123 🔻|
+| ELO Competitive | 1178 🔻|
 | Total Matches | 39 |
 | Wins | 14 |
 | Losses | 25 |

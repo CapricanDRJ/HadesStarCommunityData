@@ -5,8 +5,8 @@ title: BlackStar Order
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1330 |
-| ELO Competitive | 1547 |
+| ELO Regular | 1330 🔻|
+| ELO Competitive | 1547 🔺|
 | Total Matches | 72 |
 | Wins | 44 |
 | Losses | 28 |

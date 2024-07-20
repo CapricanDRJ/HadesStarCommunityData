@@ -5,8 +5,8 @@ title: KARI
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 835 |
-| ELO Competitive | 1011 |
+| ELO Regular | 835 🔻|
+| ELO Competitive | 1011 🔻|
 | Total Matches | 62 |
 | Wins | 2 |
 | Losses | 60 |

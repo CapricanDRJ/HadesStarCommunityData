@@ -5,8 +5,8 @@ title: Неудержимые
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 |
-| ELO Competitive | 1189 |
+| ELO Regular | 1184 🔻|
+| ELO Competitive | 1189 🔻|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

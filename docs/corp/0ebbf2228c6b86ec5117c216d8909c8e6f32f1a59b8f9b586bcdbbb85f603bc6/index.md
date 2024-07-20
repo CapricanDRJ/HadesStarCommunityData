@@ -5,8 +5,8 @@ title: Greek Warriors
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1147 |
-| ELO Competitive | 1175 |
+| ELO Regular | 1147 🔻|
+| ELO Competitive | 1175 🔻|
 | Total Matches | 27 |
 | Wins | 7 |
 | Losses | 20 |

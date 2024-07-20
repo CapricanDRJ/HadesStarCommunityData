@@ -5,8 +5,8 @@ title: Nebula
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1083 |
-| ELO Competitive | 1100 |
+| ELO Regular | 1083 🔻|
+| ELO Competitive | 1100 🔻|
 | Total Matches | 18 |
 | Wins | 4 |
 | Losses | 14 |

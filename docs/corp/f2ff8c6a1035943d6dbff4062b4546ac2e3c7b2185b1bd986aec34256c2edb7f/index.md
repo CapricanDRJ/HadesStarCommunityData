@@ -5,8 +5,8 @@ title: 두빛나래
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1161 |
-| ELO Competitive | 1220 |
+| ELO Regular | 1161 🔻|
+| ELO Competitive | 1220 🔻|
 | Total Matches | 27 |
 | Wins | 11 |
 | Losses | 16 |

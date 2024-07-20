@@ -5,8 +5,8 @@ title: 边界-萌新俱乐部
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1229 |
-| ELO Competitive | 1229 |
+| ELO Regular | 1229 🔺|
+| ELO Competitive | 1229 🔺|
 | Total Matches | 2 |
 | Wins | 2 |
 | Losses | 0 |

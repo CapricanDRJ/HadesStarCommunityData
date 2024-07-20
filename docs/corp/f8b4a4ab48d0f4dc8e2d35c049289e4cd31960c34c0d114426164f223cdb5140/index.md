@@ -5,8 +5,8 @@ title: The Star League
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1147 |
-| ELO Competitive | 1189 |
+| ELO Regular | 1147 🔻|
+| ELO Competitive | 1189 🔻|
 | Total Matches | 15 |
 | Wins | 5 |
 | Losses | 10 |

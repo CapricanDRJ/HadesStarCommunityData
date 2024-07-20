@@ -5,8 +5,8 @@ title: SQPT
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1210 |
-| ELO Competitive | 1343 |
+| ELO Regular | 1210 🔻|
+| ELO Competitive | 1343 🔻|
 | Total Matches | 60 |
 | Wins | 29 |
 | Losses | 31 |

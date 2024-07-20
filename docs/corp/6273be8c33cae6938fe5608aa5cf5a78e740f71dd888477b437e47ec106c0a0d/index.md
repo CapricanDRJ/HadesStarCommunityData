@@ -5,8 +5,8 @@ title: Sternenflotte
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 |
-| ELO Competitive | 1247 |
+| ELO Regular | 1190 🔻|
+| ELO Competitive | 1247 🔻|
 | Total Matches | 34 |
 | Wins | 18 |
 | Losses | 16 |

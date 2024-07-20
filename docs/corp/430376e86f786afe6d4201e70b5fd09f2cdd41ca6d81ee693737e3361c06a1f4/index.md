@@ -5,8 +5,8 @@ title: Likapa
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1597 |
-| ELO Competitive | 1570 |
+| ELO Regular | 1597 🔺|
+| ELO Competitive | 1570 🔺|
 | Total Matches | 62 |
 | Wins | 57 |
 | Losses | 5 |

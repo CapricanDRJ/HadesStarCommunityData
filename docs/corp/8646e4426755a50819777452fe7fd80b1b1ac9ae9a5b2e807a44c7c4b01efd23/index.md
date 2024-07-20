@@ -5,8 +5,8 @@ title: 第一序列
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1237 |
-| ELO Competitive | 1415 |
+| ELO Regular | 1237 🔺|
+| ELO Competitive | 1415 🔺|
 | Total Matches | 64 |
 | Wins | 31 |
 | Losses | 33 |

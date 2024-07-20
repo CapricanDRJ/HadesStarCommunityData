@@ -5,8 +5,8 @@ title: 第六星际
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1219 |
-| ELO Competitive | 1219 |
+| ELO Regular | 1219 🔺|
+| ELO Competitive | 1219 🔺|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |

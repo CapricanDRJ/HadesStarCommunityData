@@ -5,8 +5,8 @@ title: U.Y.E.U.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1121 |
-| ELO Competitive | 1165 |
+| ELO Regular | 1121 🔻|
+| ELO Competitive | 1165 🔻|
 | Total Matches | 18 |
 | Wins | 4 |
 | Losses | 11 |

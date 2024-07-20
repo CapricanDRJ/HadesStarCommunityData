@@ -5,8 +5,8 @@ title: Retarts
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1239 |
-| ELO Competitive | 1294 |
+| ELO Regular | 1239 🔺|
+| ELO Competitive | 1294 🔺|
 | Total Matches | 28 |
 | Wins | 12 |
 | Losses | 15 |

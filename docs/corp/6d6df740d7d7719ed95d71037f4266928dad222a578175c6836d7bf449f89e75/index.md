@@ -5,8 +5,8 @@ title: Majapahit
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1268 |
-| ELO Competitive | 1276 |
+| ELO Regular | 1268 🔺|
+| ELO Competitive | 1276 🔺|
 | Total Matches | 7 |
 | Wins | 6 |
 | Losses | 1 |

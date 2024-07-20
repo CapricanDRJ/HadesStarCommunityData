@@ -5,8 +5,8 @@ title: Quadra FR
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1244 |
-| ELO Competitive | 1253 |
+| ELO Regular | 1244 🔺|
+| ELO Competitive | 1253 🔺|
 | Total Matches | 9 |
 | Wins | 6 |
 | Losses | 3 |

@@ -5,8 +5,8 @@ title: 2ND-R8 Corp.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1288 |
-| ELO Competitive | 1340 |
+| ELO Regular | 1288 🔺|
+| ELO Competitive | 1340 🔺|
 | Total Matches | 33 |
 | Wins | 19 |
 | Losses | 14 |

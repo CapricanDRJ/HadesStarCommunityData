@@ -5,8 +5,8 @@ title: UK Armada
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1212 |
-| ELO Competitive | 1218 |
+| ELO Regular | 1212 🔻|
+| ELO Competitive | 1218 🔻|
 | Total Matches | 6 |
 | Wins | 3 |
 | Losses | 2 |

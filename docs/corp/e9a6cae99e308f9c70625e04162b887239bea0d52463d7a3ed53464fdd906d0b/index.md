@@ -5,8 +5,8 @@ title: The Picard
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1030 |
-| ELO Competitive | 1052 |
+| ELO Regular | 1030 🔻|
+| ELO Competitive | 1052 🔻|
 | Total Matches | 17 |
 | Wins | 0 |
 | Losses | 17 |

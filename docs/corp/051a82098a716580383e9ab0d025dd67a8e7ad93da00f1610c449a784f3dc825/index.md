@@ -5,8 +5,8 @@ title:  RELAX CZ/SK
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1363 |
-| ELO Competitive | 1475 |
+| ELO Regular | 1363 🔺|
+| ELO Competitive | 1475 🔺|
 | Total Matches | 70 |
 | Wins | 50 |
 | Losses | 20 |

@@ -5,8 +5,8 @@ title: battlesquadron
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 |
-| ELO Competitive | 1183 |
+| ELO Regular | 1172 🔺|
+| ELO Competitive | 1183 🔺|
 | Total Matches | 5 |
 | Wins | 1 |
 | Losses | 4 |

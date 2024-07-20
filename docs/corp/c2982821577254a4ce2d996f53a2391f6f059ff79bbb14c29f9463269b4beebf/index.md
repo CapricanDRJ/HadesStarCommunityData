@@ -5,8 +5,8 @@ title: Curiosity + Cat
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1146 |
-| ELO Competitive | 1150 |
+| ELO Regular | 1146 🔻|
+| ELO Competitive | 1150 🔻|
 | Total Matches | 8 |
 | Wins | 2 |
 | Losses | 6 |

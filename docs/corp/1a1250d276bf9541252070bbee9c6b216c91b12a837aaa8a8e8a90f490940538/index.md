@@ -5,8 +5,8 @@ title: Emergence
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1439 |
-| ELO Competitive | 1477 |
+| ELO Regular | 1439 🔺|
+| ELO Competitive | 1477 🔺|
 | Total Matches | 26 |
 | Wins | 24 |
 | Losses | 2 |

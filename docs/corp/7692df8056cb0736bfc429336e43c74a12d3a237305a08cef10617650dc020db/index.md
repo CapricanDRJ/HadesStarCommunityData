@@ -5,8 +5,8 @@ title: 世外桃源
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 844 |
-| ELO Competitive | 1045 |
+| ELO Regular | 844 🔺|
+| ELO Competitive | 1045 🔺|
 | Total Matches | 82 |
 | Wins | 8 |
 | Losses | 74 |

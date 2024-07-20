@@ -5,8 +5,8 @@ title: Revelation
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 |
-| ELO Competitive | 1188 |
+| ELO Regular | 1189 🔻|
+| ELO Competitive | 1188 🔻|
 | Total Matches | 7 |
 | Wins | 3 |
 | Losses | 4 |

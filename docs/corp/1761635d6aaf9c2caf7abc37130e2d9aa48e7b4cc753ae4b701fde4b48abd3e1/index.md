@@ -5,8 +5,8 @@ title: Pyke Syndicate
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1054 |
-| ELO Competitive | 1084 |
+| ELO Regular | 1054 🔻|
+| ELO Competitive | 1084 🔻|
 | Total Matches | 21 |
 | Wins | 2 |
 | Losses | 18 |

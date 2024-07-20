@@ -5,8 +5,8 @@ title: Glashan
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1039 |
-| ELO Competitive | 1053 |
+| ELO Regular | 1039 🔻|
+| ELO Competitive | 1053 🔻|
 | Total Matches | 30 |
 | Wins | 3 |
 | Losses | 27 |

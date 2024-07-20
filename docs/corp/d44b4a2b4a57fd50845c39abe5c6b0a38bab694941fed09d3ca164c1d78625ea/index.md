@@ -5,8 +5,8 @@ title: Bounty Hunters
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1249 |
-| ELO Competitive | 1271 |
+| ELO Regular | 1249 🔺|
+| ELO Competitive | 1271 🔺|
 | Total Matches | 11 |
 | Wins | 7 |
 | Losses | 4 |

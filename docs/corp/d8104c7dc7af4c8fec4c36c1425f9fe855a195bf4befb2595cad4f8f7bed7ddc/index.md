@@ -5,8 +5,8 @@ title: Nearland Ind
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1342 |
-| ELO Competitive | 1448 |
+| ELO Regular | 1342 🔺|
+| ELO Competitive | 1448 🔺|
 | Total Matches | 52 |
 | Wins | 35 |
 | Losses | 17 |

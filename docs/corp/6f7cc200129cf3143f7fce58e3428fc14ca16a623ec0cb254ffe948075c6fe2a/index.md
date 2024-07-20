@@ -5,8 +5,8 @@ title: Dark Exodus
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 |
-| ELO Competitive | 1175 |
+| ELO Regular | 1172 🔻|
+| ELO Competitive | 1175 🔻|
 | Total Matches | 4 |
 | Wins | 1 |
 | Losses | 3 |

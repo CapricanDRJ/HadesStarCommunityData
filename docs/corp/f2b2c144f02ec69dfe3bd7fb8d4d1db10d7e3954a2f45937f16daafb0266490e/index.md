@@ -5,8 +5,8 @@ title: 한국인
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1296 |
-| ELO Competitive | 1382 |
+| ELO Regular | 1296 🔻|
+| ELO Competitive | 1382 🔻|
 | Total Matches | 48 |
 | Wins | 31 |
 | Losses | 14 |

@@ -5,8 +5,8 @@ title: Void
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1180 |
-| ELO Competitive | 1200 |
+| ELO Regular | 1180 🔻|
+| ELO Competitive | 1200 🔻|
 | Total Matches | 12 |
 | Wins | 5 |
 | Losses | 7 |

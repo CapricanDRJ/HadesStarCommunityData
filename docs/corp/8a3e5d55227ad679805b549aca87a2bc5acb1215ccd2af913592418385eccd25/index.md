@@ -5,8 +5,8 @@ title: 星光禁卫
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1119 |
-| ELO Competitive | 1124 |
+| ELO Regular | 1119 🔻|
+| ELO Competitive | 1124 🔻|
 | Total Matches | 10 |
 | Wins | 1 |
 | Losses | 8 |

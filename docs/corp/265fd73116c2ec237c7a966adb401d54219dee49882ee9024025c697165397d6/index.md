@@ -5,8 +5,8 @@ title: Utd. Human Fed.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 |
-| ELO Competitive | 1318 |
+| ELO Regular | 1181 🔻|
+| ELO Competitive | 1318 🔻|
 | Total Matches | 43 |
 | Wins | 22 |
 | Losses | 20 |

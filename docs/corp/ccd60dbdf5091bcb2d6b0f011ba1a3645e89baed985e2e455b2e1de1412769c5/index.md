@@ -5,8 +5,8 @@ title: Warp Dominion
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1212 |
-| ELO Competitive | 1217 |
+| ELO Regular | 1212 🔻|
+| ELO Competitive | 1217 🔻|
 | Total Matches | 5 |
 | Wins | 3 |
 | Losses | 2 |

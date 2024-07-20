@@ -5,8 +5,8 @@ title: FreeSpcAlliance
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1197 |
-| ELO Competitive | 1199 |
+| ELO Regular | 1197 🔻|
+| ELO Competitive | 1199 🔻|
 | Total Matches | 6 |
 | Wins | 3 |
 | Losses | 3 |

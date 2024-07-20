@@ -5,8 +5,8 @@ title: The Gathering
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 |
-| ELO Competitive | 1176 |
+| ELO Regular | 1176 🔻|
+| ELO Competitive | 1176 🔻|
 | Total Matches | 4 |
 | Wins | 1 |
 | Losses | 3 |

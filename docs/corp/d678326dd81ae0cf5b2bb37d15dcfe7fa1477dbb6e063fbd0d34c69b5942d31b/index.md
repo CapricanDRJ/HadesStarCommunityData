@@ -5,8 +5,8 @@ title: Hungary First
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1259 |
-| ELO Competitive | 1267 |
+| ELO Regular | 1259 🔺|
+| ELO Competitive | 1267 🔺|
 | Total Matches | 22 |
 | Wins | 13 |
 | Losses | 8 |

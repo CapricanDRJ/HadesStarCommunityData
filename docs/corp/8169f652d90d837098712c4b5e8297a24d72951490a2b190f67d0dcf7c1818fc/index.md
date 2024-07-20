@@ -5,8 +5,8 @@ title: Dutch Space Id
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 |
-| ELO Competitive | 1167 |
+| ELO Regular | 1165 🔻|
+| ELO Competitive | 1167 🔻|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

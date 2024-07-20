@@ -5,8 +5,8 @@ title: AKA
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1082 |
-| ELO Competitive | 1107 |
+| ELO Regular | 1082 🔻|
+| ELO Competitive | 1107 🔻|
 | Total Matches | 10 |
 | Wins | 0 |
 | Losses | 10 |

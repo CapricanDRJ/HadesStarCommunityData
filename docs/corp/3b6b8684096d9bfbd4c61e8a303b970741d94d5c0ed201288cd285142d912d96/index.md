@@ -5,8 +5,8 @@ title: Tau Alpha
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 |
-| ELO Competitive | 1183 |
+| ELO Regular | 1183 🔻|
+| ELO Competitive | 1183 🔻|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

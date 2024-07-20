@@ -5,8 +5,8 @@ title: Tuatha De Danan
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1415 |
-| ELO Competitive | 1473 |
+| ELO Regular | 1415 🔺|
+| ELO Competitive | 1473 🔺|
 | Total Matches | 54 |
 | Wins | 43 |
 | Losses | 11 |

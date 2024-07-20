@@ -5,8 +5,8 @@ title: Atlas SLV-1
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 |
-| ELO Competitive | 1189 |
+| ELO Regular | 1189 🔻|
+| ELO Competitive | 1189 🔻|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

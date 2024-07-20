@@ -5,8 +5,8 @@ title: Dark Skai
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1080 |
-| ELO Competitive | 1114 |
+| ELO Regular | 1080 🔻|
+| ELO Competitive | 1114 🔻|
 | Total Matches | 12 |
 | Wins | 1 |
 | Losses | 11 |

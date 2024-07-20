@@ -5,8 +5,8 @@ title: Albedo
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1330 |
-| ELO Competitive | 1367 |
+| ELO Regular | 1330 🔻|
+| ELO Competitive | 1367 🔻|
 | Total Matches | 29 |
 | Wins | 23 |
 | Losses | 6 |

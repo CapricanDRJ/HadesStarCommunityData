@@ -5,8 +5,8 @@ title: Highlife
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1180 |
-| ELO Competitive | 1210 |
+| ELO Regular | 1180 🔻|
+| ELO Competitive | 1210 🔻|
 | Total Matches | 36 |
 | Wins | 18 |
 | Losses | 17 |

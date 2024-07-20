@@ -5,8 +5,8 @@ title: 龙门训练营
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1138 |
-| ELO Competitive | 1265 |
+| ELO Regular | 1138 🔺|
+| ELO Competitive | 1265 🔺|
 | Total Matches | 27 |
 | Wins | 9 |
 | Losses | 18 |

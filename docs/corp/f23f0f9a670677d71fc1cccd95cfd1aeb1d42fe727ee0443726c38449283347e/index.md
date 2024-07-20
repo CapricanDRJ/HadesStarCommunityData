@@ -5,8 +5,8 @@ title: 42 Nova Corps.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1210 |
-| ELO Competitive | 1211 |
+| ELO Regular | 1210 🔺|
+| ELO Competitive | 1211 🔺|
 | Total Matches | 3 |
 | Wins | 2 |
 | Losses | 1 |
