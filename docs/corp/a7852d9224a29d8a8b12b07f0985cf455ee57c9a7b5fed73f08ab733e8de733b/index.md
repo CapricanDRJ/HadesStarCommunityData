@@ -6,7 +6,7 @@ title: КРЫЛЯ ФЕНИКСА
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1217 🔻  (324)|
-| ELO Competitive | 1227 🔻  (373)|
+| ELO Competitive | 1227 🔻  (374)|
 | Total Matches | 8 |
 | Wins | 4 |
 | Losses | 4 |

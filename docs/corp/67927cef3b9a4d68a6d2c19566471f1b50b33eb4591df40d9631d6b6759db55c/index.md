@@ -5,8 +5,8 @@ title: 星际集团
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 🔻  (532)|
-| ELO Competitive | 1227 🔻  (371)|
+| ELO Regular | 1189 🔻  (533)|
+| ELO Competitive | 1227 🔻  (372)|
 | Total Matches | 9 |
 | Wins | 4 |
 | Losses | 3 |

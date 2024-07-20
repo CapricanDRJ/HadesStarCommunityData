@@ -5,8 +5,8 @@ title: Austria
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 🔻  (429)|
-| ELO Competitive | 1201 🔻  (519)|
+| ELO Regular | 1201 🔻  (428)|
+| ELO Competitive | 1201 🔻  (520)|
 | Total Matches | 4 |
 | Wins | 2 |
 | Losses | 2 |

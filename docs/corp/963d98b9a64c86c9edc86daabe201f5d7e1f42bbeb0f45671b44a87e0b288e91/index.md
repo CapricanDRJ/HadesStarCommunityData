@@ -5,8 +5,8 @@ title: Los Unidos
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔺  (569)|
-| ELO Competitive | 1217 🔺  (420)|
+| ELO Regular | 1187 🔺  (570)|
+| ELO Competitive | 1217 🔺  (421)|
 | Total Matches | 16 |
 | Wins | 7 |
 | Losses | 8 |

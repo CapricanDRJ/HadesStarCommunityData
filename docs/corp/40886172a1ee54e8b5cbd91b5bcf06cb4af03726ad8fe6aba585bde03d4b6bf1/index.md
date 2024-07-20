@@ -5,8 +5,8 @@ title: M4-Valhalla
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (718)|
-| ELO Competitive | 1185 🔻  (792)|
+| ELO Regular | 1184 🔻  (719)|
+| ELO Competitive | 1185 🔻  (793)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

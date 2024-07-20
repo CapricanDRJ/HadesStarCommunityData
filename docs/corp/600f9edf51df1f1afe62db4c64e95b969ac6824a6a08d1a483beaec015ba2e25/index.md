@@ -5,8 +5,8 @@ title: 地球联合
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1314 🔺  (100)|
-| ELO Competitive | 1334 🔺  (149)|
+| ELO Regular | 1314 🔺  (99)|
+| ELO Competitive | 1334 🔺  (147)|
 | Total Matches | 15 |
 | Wins | 12 |
 | Losses | 3 |

@@ -5,7 +5,7 @@ title: Peace Keepers
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1049 🔻  (1143)|
+| ELO Regular | 1049 🔻  (1144)|
 | ELO Competitive | 1157 🔻  (1023)|
 | Total Matches | 42 |
 | Wins | 10 |

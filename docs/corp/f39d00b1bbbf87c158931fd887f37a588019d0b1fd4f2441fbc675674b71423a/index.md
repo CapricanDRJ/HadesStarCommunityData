@@ -5,8 +5,8 @@ title: 普罗米修斯
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1126 🔻  (1053)|
-| ELO Competitive | 1129 🔻  (1101)|
+| ELO Regular | 1126 🔻  (1054)|
+| ELO Competitive | 1129 🔻  (1102)|
 | Total Matches | 8 |
 | Wins | 1 |
 | Losses | 7 |

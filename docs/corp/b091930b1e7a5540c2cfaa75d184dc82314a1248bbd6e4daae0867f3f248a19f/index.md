@@ -5,8 +5,8 @@ title: Ещё один Миф
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1139 🔻  (1011)|
-| ELO Competitive | 1140 🔻  (1081)|
+| ELO Regular | 1139 🔻  (1012)|
+| ELO Competitive | 1140 🔻  (1082)|
 | Total Matches | 5 |
 | Wins | 0 |
 | Losses | 5 |

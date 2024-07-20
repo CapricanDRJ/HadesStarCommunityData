@@ -5,8 +5,8 @@ title: Hades' 420
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1138 🔺  (1016)|
-| ELO Competitive | 1161 🔺  (1004)|
+| ELO Regular | 1138 🔺  (1017)|
+| ELO Competitive | 1161 🔺  (1005)|
 | Total Matches | 8 |
 | Wins | 2 |
 | Losses | 6 |

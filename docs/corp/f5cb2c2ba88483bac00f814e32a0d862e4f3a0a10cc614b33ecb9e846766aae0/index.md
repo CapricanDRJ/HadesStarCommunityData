@@ -5,8 +5,8 @@ title: We R Bad
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1132 🔻  (1037)|
-| ELO Competitive | 1133 🔻  (1095)|
+| ELO Regular | 1132 🔻  (1038)|
+| ELO Competitive | 1133 🔻  (1096)|
 | Total Matches | 5 |
 | Wins | 0 |
 | Losses | 5 |

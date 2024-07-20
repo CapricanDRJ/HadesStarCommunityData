@@ -5,7 +5,7 @@ title: 中国星系集团
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1287 🔺  (138)|
+| ELO Regular | 1287 🔺  (137)|
 | ELO Competitive | 1290 🔺  (215)|
 | Total Matches | 8 |
 | Wins | 7 |

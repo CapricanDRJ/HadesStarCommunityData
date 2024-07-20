@@ -5,8 +5,8 @@ title: Dansk
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1145 🔻  (995)|
-| ELO Competitive | 1145 🔻  (1065)|
+| ELO Regular | 1145 🔻  (996)|
+| ELO Competitive | 1145 🔻  (1066)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 4 |

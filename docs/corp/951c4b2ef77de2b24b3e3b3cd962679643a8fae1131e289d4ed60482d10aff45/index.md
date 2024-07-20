@@ -5,8 +5,8 @@ title: Simply Uranus
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (806)|
-| ELO Competitive | 1190 🔻  (621)|
+| ELO Regular | 1174 🔻  (807)|
+| ELO Competitive | 1190 🔻  (622)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

@@ -5,8 +5,8 @@ title: Polandia
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1150 🔻  (975)|
-| ELO Competitive | 1167 🔻  (973)|
+| ELO Regular | 1150 🔻  (976)|
+| ELO Competitive | 1167 🔻  (974)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

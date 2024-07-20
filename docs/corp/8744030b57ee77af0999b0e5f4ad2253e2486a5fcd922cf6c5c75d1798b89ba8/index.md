@@ -6,7 +6,7 @@ title: UNSC
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1215 🔺  (339)|
-| ELO Competitive | 1219 🔺  (401)|
+| ELO Competitive | 1219 🔺  (402)|
 | Total Matches | 6 |
 | Wins | 4 |
 | Losses | 2 |

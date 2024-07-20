@@ -6,7 +6,7 @@ title: империя тьмы
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1120 🔻  (1065)|
-| ELO Competitive | 1222 🔺  (387)|
+| ELO Competitive | 1222 🔺  (388)|
 | Total Matches | 33 |
 | Wins | 12 |
 | Losses | 19 |

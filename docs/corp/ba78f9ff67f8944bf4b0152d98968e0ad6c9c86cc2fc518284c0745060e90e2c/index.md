@@ -5,7 +5,7 @@ title: Highland Ind.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔻  (740)|
+| ELO Regular | 1182 🔻  (742)|
 | ELO Competitive | 1234 🔻  (349)|
 | Total Matches | 21 |
 | Wins | 10 |

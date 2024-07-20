@@ -5,8 +5,8 @@ title: CODEX IMPERIUS
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1129 🔻  (1047)|
-| ELO Competitive | 1147 🔻  (1059)|
+| ELO Regular | 1129 🔻  (1048)|
+| ELO Competitive | 1147 🔻  (1060)|
 | Total Matches | 9 |
 | Wins | 2 |
 | Losses | 7 |

@@ -5,7 +5,7 @@ title: Kötbrüder
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1229 🔺  (281)|
+| ELO Regular | 1229 🔺  (282)|
 | ELO Competitive | 1237 🔺  (341)|
 | Total Matches | 3 |
 | Wins | 3 |

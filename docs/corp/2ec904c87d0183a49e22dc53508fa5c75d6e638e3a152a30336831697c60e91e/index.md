@@ -5,8 +5,8 @@ title: Axioma
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1032 🔻  (1151)|
-| ELO Competitive | 1072 🔻  (1160)|
+| ELO Regular | 1032 🔻  (1152)|
+| ELO Competitive | 1072 🔻  (1161)|
 | Total Matches | 35 |
 | Wins | 10 |
 | Losses | 24 |

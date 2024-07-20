@@ -6,7 +6,7 @@ title: Prometheus ESP
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1212 🔻  (384)|
-| ELO Competitive | 1276 🔻  (247)|
+| ELO Competitive | 1276 🔻  (246)|
 | Total Matches | 20 |
 | Wins | 11 |
 | Losses | 9 |

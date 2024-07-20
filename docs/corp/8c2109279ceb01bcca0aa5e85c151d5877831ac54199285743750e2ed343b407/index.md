@@ -5,10 +5,10 @@ title: 绛紫星
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1251 🔺  (202)|
-| ELO Competitive | 1374 🔻  (101)|
-| Total Matches | 40 |
-| Wins | 23 |
+| ELO Regular | 1264 🔺  (172)|
+| ELO Competitive | 1387 🔺  (91)|
+| Total Matches | 41 |
+| Wins | 24 |
 | Losses | 15 |
 | Draws | 2 |
 | Streak Record | 5 |
@@ -25,6 +25,7 @@ title: 绛紫星
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024-07-20 | 19-8 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) |
 | ↔️ | 2024-07-12 | 11-11 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
 | ✅ | 2024-07-04 | 21-1 | [Alpha ](https://ws.tsl.rocks/corp/accb87a59c1f019d1be37fa2b19ae2aeb35c4a995d1d621a8e987065cd1328fe/) |
 | ❌ | 2024-06-18 | 2-32 | [Лютые](https://ws.tsl.rocks/corp/c9ffc70c2dcbfe9eaa3387645d404d9227b173de066bf09e0493d83aa4c9f053/) |

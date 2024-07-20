@@ -5,8 +5,8 @@ title: Warriors union
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1162 🔻  (920)|
-| ELO Competitive | 1163 🔻  (993)|
+| ELO Regular | 1162 🔻  (921)|
+| ELO Competitive | 1163 🔻  (994)|
 | Total Matches | 9 |
 | Wins | 3 |
 | Losses | 5 |

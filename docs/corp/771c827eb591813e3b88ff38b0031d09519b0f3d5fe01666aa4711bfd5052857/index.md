@@ -6,7 +6,7 @@ title: <a>超越®</a>光速℡
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1284 🔻  (140)|
-| ELO Competitive | 1326 🔻  (160)|
+| ELO Competitive | 1326 🔻  (159)|
 | Total Matches | 21 |
 | Wins | 15 |
 | Losses | 6 |

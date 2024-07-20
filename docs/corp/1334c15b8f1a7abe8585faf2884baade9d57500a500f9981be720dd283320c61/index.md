@@ -5,8 +5,8 @@ title: ComInterns
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻  (541)|
-| ELO Competitive | 1189 🔻  (640)|
+| ELO Regular | 1188 🔻  (542)|
+| ELO Competitive | 1189 🔻  (641)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

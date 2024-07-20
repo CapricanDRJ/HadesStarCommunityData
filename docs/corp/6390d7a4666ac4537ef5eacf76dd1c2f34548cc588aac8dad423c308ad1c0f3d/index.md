@@ -5,8 +5,8 @@ title: 水晶星际集团
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1075 🔻  (1123)|
-| ELO Competitive | 1099 🔻  (1136)|
+| ELO Regular | 1075 🔻  (1124)|
+| ELO Competitive | 1099 🔻  (1137)|
 | Total Matches | 24 |
 | Wins | 5 |
 | Losses | 19 |

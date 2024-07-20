@@ -5,8 +5,8 @@ title: Noble
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔺  (840)|
-| ELO Competitive | 1171 🔺  (934)|
+| ELO Regular | 1171 🔺  (841)|
+| ELO Competitive | 1171 🔺  (935)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 2 |

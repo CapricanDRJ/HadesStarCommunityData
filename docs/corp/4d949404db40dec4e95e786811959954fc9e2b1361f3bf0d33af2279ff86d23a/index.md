@@ -5,8 +5,8 @@ title: Out landers
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1261 🔻  (180)|
-| ELO Competitive | 1272 🔻  (254)|
+| ELO Regular | 1261 🔻  (181)|
+| ELO Competitive | 1272 🔻  (253)|
 | Total Matches | 15 |
 | Wins | 9 |
 | Losses | 6 |

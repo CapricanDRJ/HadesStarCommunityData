@@ -5,8 +5,8 @@ title: Death Flight 1.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (777)|
-| ELO Competitive | 1177 🔻  (862)|
+| ELO Regular | 1176 🔻  (778)|
+| ELO Competitive | 1177 🔻  (863)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

@@ -5,8 +5,8 @@ title: Скричеры
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1197 🔺  (476)|
-| ELO Competitive | 1200 🔺  (541)|
+| ELO Regular | 1197 🔺  (474)|
+| ELO Competitive | 1200 🔺  (542)|
 | Total Matches | 4 |
 | Wins | 2 |
 | Losses | 2 |

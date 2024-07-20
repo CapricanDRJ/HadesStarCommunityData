@@ -5,8 +5,8 @@ title: КУСАКА
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔻  (520)|
-| ELO Competitive | 1191 🔻  (608)|
+| ELO Regular | 1190 🔻  (521)|
+| ELO Competitive | 1191 🔻  (610)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

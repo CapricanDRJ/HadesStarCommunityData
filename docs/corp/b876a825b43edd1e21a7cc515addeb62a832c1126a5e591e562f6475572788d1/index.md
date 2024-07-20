@@ -5,8 +5,8 @@ title: AlSounT
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔻  (874)|
-| ELO Competitive | 1170 🔻  (958)|
+| ELO Regular | 1170 🔻  (875)|
+| ELO Competitive | 1170 🔻  (959)|
 | Total Matches | 8 |
 | Wins | 3 |
 | Losses | 5 |

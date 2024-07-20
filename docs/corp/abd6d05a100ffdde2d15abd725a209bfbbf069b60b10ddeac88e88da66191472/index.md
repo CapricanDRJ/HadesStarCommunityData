@@ -5,8 +5,8 @@ title: 华夏舰队
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1138 🔺  (1018)|
-| ELO Competitive | 1219 🔺  (402)|
+| ELO Regular | 1138 🔺  (1019)|
+| ELO Competitive | 1219 🔺  (403)|
 | Total Matches | 45 |
 | Wins | 20 |
 | Losses | 25 |

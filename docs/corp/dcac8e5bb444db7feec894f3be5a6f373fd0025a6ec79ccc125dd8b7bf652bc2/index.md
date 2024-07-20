@@ -5,7 +5,7 @@ title: 很多星球的社会主义团
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (729)|
+| ELO Regular | 1183 🔻  (730)|
 | ELO Competitive | 1212 🔻  (472)|
 | Total Matches | 18 |
 | Wins | 8 |

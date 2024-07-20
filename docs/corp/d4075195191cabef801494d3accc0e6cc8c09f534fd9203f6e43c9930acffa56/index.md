@@ -5,14 +5,14 @@ title: Hamburg AG 2
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1180 🔺  (763)|
-| ELO Competitive | 1191 🔺  (611)|
-| Total Matches | 12 |
-| Wins | 4 |
+| ELO Regular | 1195 🔺  (484)|
+| ELO Competitive | 1211 🔺  (477)|
+| Total Matches | 13 |
+| Wins | 5 |
 | Losses | 8 |
 | Draws | 0 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 
 ### Recurring Opponents
 
@@ -24,6 +24,7 @@ title: Hamburg AG 2
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024-07-20 | 25-19 | [ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ](https://ws.tsl.rocks/corp/85a74d128f924274446b7fb754136e6ef7185c754df2fae3b10591d28536f17a/) |
 | ✅ | 2024-07-13 | 53-10 | [EZCO](https://ws.tsl.rocks/corp/cfad990cabcdc1326c0aa3f93a57d1f0e6ec3cd2949e01e6b08443c3af8282f1/) |
 | ✅ | 2024-07-06 | 36-20 | [Duchy Arrakis](https://ws.tsl.rocks/corp/6c8c526b366a9e9eb3eba3d3107b628042c005db03530961b24a722cc58a339e/) |
 | ❌ | 2024-06-30 | 8-32 | [Zvezdec](https://ws.tsl.rocks/corp/7bce2af674b8fb313f43e497201ad86b230571cc3e200f44132be528eb4076d9/) |

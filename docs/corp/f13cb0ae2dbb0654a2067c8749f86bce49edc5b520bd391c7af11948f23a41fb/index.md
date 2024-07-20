@@ -5,8 +5,8 @@ title: The X - Files
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 977 🔻  (1169)|
-| ELO Competitive | 997 🔻  (1175)|
+| ELO Regular | 977 🔻  (1170)|
+| ELO Competitive | 997 🔻  (1176)|
 | Total Matches | 38 |
 | Wins | 3 |
 | Losses | 35 |

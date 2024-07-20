@@ -5,8 +5,8 @@ title: UsualSuspects
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1145 🔻  (989)|
-| ELO Competitive | 1158 🔻  (1015)|
+| ELO Regular | 1145 🔻  (990)|
+| ELO Competitive | 1158 🔻  (1016)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 4 |

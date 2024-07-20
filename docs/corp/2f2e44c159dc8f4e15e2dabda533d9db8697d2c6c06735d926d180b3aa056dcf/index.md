@@ -5,8 +5,8 @@ title: Angel Dragon
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1264 🔻  (172)|
-| ELO Competitive | 1300 🔻  (201)|
+| ELO Regular | 1264 🔻  (173)|
+| ELO Competitive | 1300 🔻  (200)|
 | Total Matches | 21 |
 | Wins | 12 |
 | Losses | 8 |

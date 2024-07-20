@@ -5,8 +5,8 @@ title: Justice Vengers
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1304 🔺  (115)|
-| ELO Competitive | 1339 🔺  (141)|
+| ELO Regular | 1304 🔺  (114)|
+| ELO Competitive | 1339 🔺  (139)|
 | Total Matches | 12 |
 | Wins | 10 |
 | Losses | 2 |

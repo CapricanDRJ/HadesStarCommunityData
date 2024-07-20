@@ -5,8 +5,8 @@ title: Belters
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (616)|
-| ELO Competitive | 1186 🔻  (718)|
+| ELO Regular | 1186 🔻  (617)|
+| ELO Competitive | 1186 🔻  (719)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

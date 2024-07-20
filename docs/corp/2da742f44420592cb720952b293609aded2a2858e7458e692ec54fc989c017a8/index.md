@@ -5,8 +5,8 @@ title: 萌新收留所（目标门集团）
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔻  (946)|
-| ELO Competitive | 1159 🔻  (1012)|
+| ELO Regular | 1157 🔻  (947)|
+| ELO Competitive | 1159 🔻  (1013)|
 | Total Matches | 5 |
 | Wins | 1 |
 | Losses | 4 |

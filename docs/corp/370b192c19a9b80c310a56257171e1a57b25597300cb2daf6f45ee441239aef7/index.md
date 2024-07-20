@@ -5,8 +5,8 @@ title: W.O.A
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (723)|
-| ELO Competitive | 1187 🔻  (667)|
+| ELO Regular | 1184 🔻  (724)|
+| ELO Competitive | 1187 🔻  (668)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

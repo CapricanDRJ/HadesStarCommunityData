@@ -5,8 +5,8 @@ title: NERF TOY'S
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1210 🔻  (398)|
-| ELO Competitive | 1305 🔻  (193)|
+| ELO Regular | 1210 🔻  (396)|
+| ELO Competitive | 1305 🔻  (192)|
 | Total Matches | 48 |
 | Wins | 18 |
 | Losses | 28 |

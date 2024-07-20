@@ -5,8 +5,8 @@ title: КЕДР
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (695)|
-| ELO Competitive | 1184 🔻  (800)|
+| ELO Regular | 1184 🔻  (696)|
+| ELO Competitive | 1184 🔻  (801)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

@@ -5,8 +5,8 @@ title: Round Table
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (715)|
-| ELO Competitive | 1184 🔻  (813)|
+| ELO Regular | 1184 🔻  (716)|
+| ELO Competitive | 1184 🔻  (814)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

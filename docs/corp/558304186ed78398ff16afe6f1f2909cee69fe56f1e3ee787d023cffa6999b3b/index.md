@@ -5,7 +5,7 @@ title: 六大天神.轻歌之影
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 🔻  (903)|
+| ELO Regular | 1165 🔻  (904)|
 | ELO Competitive | 1242 🔻  (326)|
 | Total Matches | 48 |
 | Wins | 22 |

@@ -5,8 +5,8 @@ title: 新手联邦活动用团
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (567)|
-| ELO Competitive | 1191 🔻  (601)|
+| ELO Regular | 1187 🔻  (568)|
+| ELO Competitive | 1191 🔻  (603)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

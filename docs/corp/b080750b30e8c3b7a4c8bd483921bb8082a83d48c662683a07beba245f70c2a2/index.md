@@ -6,7 +6,7 @@ title: NEW HOLLAND
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1116 🔻  (1071)|
-| ELO Competitive | 1139 🔻  (1083)|
+| ELO Competitive | 1139 🔻  (1084)|
 | Total Matches | 10 |
 | Wins | 1 |
 | Losses | 8 |

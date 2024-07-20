@@ -5,8 +5,8 @@ title: Sprite
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1202 🔻  (417)|
-| ELO Competitive | 1209 🔻  (483)|
+| ELO Regular | 1202 🔻  (416)|
+| ELO Competitive | 1209 🔻  (484)|
 | Total Matches | 7 |
 | Wins | 3 |
 | Losses | 4 |

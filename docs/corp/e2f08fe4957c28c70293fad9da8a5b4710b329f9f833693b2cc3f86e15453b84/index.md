@@ -5,8 +5,8 @@ title: Assasins bees
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 🔻  (525)|
-| ELO Competitive | 1191 🔻  (606)|
+| ELO Regular | 1189 🔻  (526)|
+| ELO Competitive | 1191 🔻  (608)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

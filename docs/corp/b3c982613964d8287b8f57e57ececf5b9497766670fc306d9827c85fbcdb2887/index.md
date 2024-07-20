@@ -5,8 +5,8 @@ title: CAEDRUS [<o>]
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1198 🔻  (466)|
-| ELO Competitive | 1199 🔻  (553)|
+| ELO Regular | 1198 🔻  (464)|
+| ELO Competitive | 1199 🔻  (554)|
 | Total Matches | 5 |
 | Wins | 2 |
 | Losses | 2 |

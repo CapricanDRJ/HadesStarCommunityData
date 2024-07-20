@@ -5,10 +5,10 @@ title: Слава Украине!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1352 🔻  (61)|
-| ELO Competitive | 1563 🔺  (5)|
-| Total Matches | 72 |
-| Wins | 47 |
+| ELO Regular | 1366 🔺  (52)|
+| ELO Competitive | 1571 🔺  (3)|
+| Total Matches | 73 |
+| Wins | 48 |
 | Losses | 25 |
 | Draws | 0 |
 | Streak Record | 12 |
@@ -28,6 +28,7 @@ title: Слава Украине!
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024-07-20 | 38-5 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) |
 | ❌ | 2024-07-15 | 5-14 | [sk cz nebula](https://ws.tsl.rocks/corp/6ed29f74bee91a7aad75a64196918993de6cec070ce8c65d1132ed6b0e79005d/) |
 | ✅ | 2024-07-15 | 35-14 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) |
 | ❌ | 2024-07-10 | 1-25 | [2ND\-R8 Corp\.](https://ws.tsl.rocks/corp/e97866623598a98454b3a4724b472dc171f5e1aff84b076c43d021f0fabdc702/) |

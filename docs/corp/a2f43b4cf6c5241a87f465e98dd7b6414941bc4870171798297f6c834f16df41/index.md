@@ -5,8 +5,8 @@ title: Jesus Followers
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (880)|
-| ELO Competitive | 1172 🔻  (913)|
+| ELO Regular | 1169 🔻  (881)|
+| ELO Competitive | 1172 🔻  (914)|
 | Total Matches | 5 |
 | Wins | 1 |
 | Losses | 4 |

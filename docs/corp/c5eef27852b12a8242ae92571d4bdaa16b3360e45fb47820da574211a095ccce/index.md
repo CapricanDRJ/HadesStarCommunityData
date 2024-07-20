@@ -5,8 +5,8 @@ title: 한국우주연합
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1131 🔻  (1041)|
-| ELO Competitive | 1149 🔻  (1049)|
+| ELO Regular | 1131 🔻  (1042)|
+| ELO Competitive | 1149 🔻  (1050)|
 | Total Matches | 19 |
 | Wins | 7 |
 | Losses | 12 |

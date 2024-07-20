@@ -5,7 +5,7 @@ title: ToC
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1150 🔻  (976)|
+| ELO Regular | 1150 🔻  (977)|
 | ELO Competitive | 1152 🔻  (1042)|
 | Total Matches | 10 |
 | Wins | 3 |

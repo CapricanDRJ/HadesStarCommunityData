@@ -5,8 +5,8 @@ title: Avantgarde
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 967 🔻  (1171)|
-| ELO Competitive | 1123 🔻  (1107)|
+| ELO Regular | 967 🔻  (1172)|
+| ELO Competitive | 1123 🔻  (1108)|
 | Total Matches | 32 |
 | Wins | 3 |
 | Losses | 29 |

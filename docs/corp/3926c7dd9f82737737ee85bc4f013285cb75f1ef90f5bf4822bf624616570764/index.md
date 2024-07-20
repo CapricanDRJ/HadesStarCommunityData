@@ -5,8 +5,8 @@ title: Любители Пива
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1035 🔻  (1147)|
-| ELO Competitive | 1073 🔻  (1159)|
+| ELO Regular | 1035 🔻  (1148)|
+| ELO Competitive | 1073 🔻  (1160)|
 | Total Matches | 21 |
 | Wins | 2 |
 | Losses | 19 |

@@ -5,8 +5,8 @@ title: Welcome 欢迎
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (566)|
-| ELO Competitive | 1186 🔻  (683)|
+| ELO Regular | 1187 🔻  (567)|
+| ELO Competitive | 1186 🔻  (684)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

@@ -5,8 +5,8 @@ title: Uniones
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1139 🔻  (1013)|
-| ELO Competitive | 1146 🔻  (1062)|
+| ELO Regular | 1139 🔻  (1014)|
+| ELO Competitive | 1146 🔻  (1063)|
 | Total Matches | 6 |
 | Wins | 0 |
 | Losses | 4 |

@@ -5,7 +5,7 @@ title: U.I.H
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1155 🔻  (958)|
+| ELO Regular | 1155 🔻  (959)|
 | ELO Competitive | 1155 🔻  (1028)|
 | Total Matches | 3 |
 | Wins | 0 |

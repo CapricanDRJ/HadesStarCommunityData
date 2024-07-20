@@ -6,7 +6,7 @@ title: pirates spatial
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1268 🔻  (167)|
-| ELO Competitive | 1406 🔻  (76)|
+| ELO Competitive | 1406 🔻  (77)|
 | Total Matches | 66 |
 | Wins | 37 |
 | Losses | 29 |

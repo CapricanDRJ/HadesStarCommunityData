@@ -5,8 +5,8 @@ title: Consortium
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔺  (561)|
-| ELO Competitive | 1187 🔺  (664)|
+| ELO Regular | 1187 🔺  (562)|
+| ELO Competitive | 1187 🔺  (665)|
 | Total Matches | 3 |
 | Wins | 1 |
 | Losses | 2 |

@@ -5,8 +5,8 @@ title: The Nerd Herd
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1191 🔻  (508)|
-| ELO Competitive | 1192 🔻  (600)|
+| ELO Regular | 1191 🔻  (509)|
+| ELO Competitive | 1192 🔻  (602)|
 | Total Matches | 3 |
 | Wins | 1 |
 | Losses | 2 |

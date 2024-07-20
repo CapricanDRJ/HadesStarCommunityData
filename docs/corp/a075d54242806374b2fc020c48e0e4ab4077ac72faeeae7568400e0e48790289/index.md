@@ -5,7 +5,7 @@ title: Неизбежный Рок
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1358 🔺  (57)|
+| ELO Regular | 1358 🔺  (59)|
 | ELO Competitive | 1475 🔺  (32)|
 | Total Matches | 70 |
 | Wins | 46 |

@@ -5,8 +5,8 @@ title: Eternal empire
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1102 🔻  (1093)|
-| ELO Competitive | 1176 🔻  (871)|
+| ELO Regular | 1102 🔻  (1094)|
+| ELO Competitive | 1176 🔻  (872)|
 | Total Matches | 22 |
 | Wins | 7 |
 | Losses | 15 |

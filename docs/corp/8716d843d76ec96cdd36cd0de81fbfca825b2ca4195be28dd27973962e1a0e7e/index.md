@@ -5,8 +5,8 @@ title: 星海共同体
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (643)|
-| ELO Competitive | 1185 🔻  (748)|
+| ELO Regular | 1185 🔻  (644)|
+| ELO Competitive | 1185 🔻  (749)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

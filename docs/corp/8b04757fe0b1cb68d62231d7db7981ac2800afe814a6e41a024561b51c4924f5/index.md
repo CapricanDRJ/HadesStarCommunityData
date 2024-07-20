@@ -5,8 +5,8 @@ title: Starborne Corp
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (619)|
-| ELO Competitive | 1186 🔻  (709)|
+| ELO Regular | 1186 🔻  (620)|
+| ELO Competitive | 1186 🔻  (710)|
 | Total Matches | 3 |
 | Wins | 1 |
 | Losses | 2 |

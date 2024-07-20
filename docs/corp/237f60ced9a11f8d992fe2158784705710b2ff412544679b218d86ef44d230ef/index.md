@@ -5,8 +5,8 @@ title: 美丽新世界
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1153 🔻  (966)|
-| ELO Competitive | 1158 🔻  (1016)|
+| ELO Regular | 1153 🔻  (967)|
+| ELO Competitive | 1158 🔻  (1017)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

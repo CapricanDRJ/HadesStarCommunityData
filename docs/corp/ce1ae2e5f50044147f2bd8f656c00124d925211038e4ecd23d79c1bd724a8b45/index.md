@@ -5,8 +5,8 @@ title: SNSS
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (792)|
-| ELO Competitive | 1175 🔻  (881)|
+| ELO Regular | 1175 🔻  (793)|
+| ELO Competitive | 1175 🔻  (882)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

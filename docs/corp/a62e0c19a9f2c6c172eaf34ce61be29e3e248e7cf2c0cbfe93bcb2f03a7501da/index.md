@@ -5,8 +5,8 @@ title: КОРПОРАЦИЯ ЗЛА
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 959 🔻  (1172)|
-| ELO Competitive | 1107 🔻  (1128)|
+| ELO Regular | 959 🔻  (1173)|
+| ELO Competitive | 1107 🔻  (1129)|
 | Total Matches | 37 |
 | Wins | 7 |
 | Losses | 30 |

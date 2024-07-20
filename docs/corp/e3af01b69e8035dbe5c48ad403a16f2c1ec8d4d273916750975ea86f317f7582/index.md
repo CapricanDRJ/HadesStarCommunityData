@@ -6,7 +6,7 @@ title: Rogue Dudes
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1230 🔺  (277)|
-| ELO Competitive | 1230 🔺  (361)|
+| ELO Competitive | 1230 🔺  (362)|
 | Total Matches | 2 |
 | Wins | 2 |
 | Losses | 0 |

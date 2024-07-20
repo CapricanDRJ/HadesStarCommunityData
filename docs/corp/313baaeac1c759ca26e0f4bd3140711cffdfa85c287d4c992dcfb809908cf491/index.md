@@ -5,8 +5,8 @@ title: Legion
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1228 🔻  (285)|
-| ELO Competitive | 1324 🔻  (165)|
+| ELO Regular | 1228 🔻  (286)|
+| ELO Competitive | 1324 🔻  (164)|
 | Total Matches | 43 |
 | Wins | 21 |
 | Losses | 22 |

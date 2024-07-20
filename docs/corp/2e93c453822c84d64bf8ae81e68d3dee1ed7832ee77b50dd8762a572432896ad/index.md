@@ -5,8 +5,8 @@ title: 专业间谍团队
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1193 🔻  (500)|
-| ELO Competitive | 1194 🔻  (578)|
+| ELO Regular | 1193 🔻  (501)|
+| ELO Competitive | 1194 🔻  (580)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

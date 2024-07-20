@@ -6,7 +6,7 @@ title: Death Star llc.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1470 🔺  (13)|
-| ELO Competitive | 1496 🔺  (23)|
+| ELO Competitive | 1496 🔺  (22)|
 | Total Matches | 48 |
 | Wins | 40 |
 | Losses | 7 |

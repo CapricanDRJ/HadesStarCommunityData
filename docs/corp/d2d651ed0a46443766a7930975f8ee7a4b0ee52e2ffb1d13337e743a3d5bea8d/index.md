@@ -5,7 +5,7 @@ title: RUS
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 🔺  (535)|
+| ELO Regular | 1189 🔺  (536)|
 | ELO Competitive | 1250 🔺  (307)|
 | Total Matches | 26 |
 | Wins | 12 |

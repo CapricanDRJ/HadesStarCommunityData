@@ -5,8 +5,8 @@ title: 德意志第三帝国奥米加分部
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1105 🔻  (1091)|
-| ELO Competitive | 1128 🔻  (1102)|
+| ELO Regular | 1105 🔻  (1092)|
+| ELO Competitive | 1128 🔻  (1103)|
 | Total Matches | 17 |
 | Wins | 3 |
 | Losses | 11 |

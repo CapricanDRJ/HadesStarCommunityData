@@ -5,8 +5,8 @@ title: 遨游星空
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (590)|
-| ELO Competitive | 1187 🔻  (671)|
+| ELO Regular | 1186 🔻  (591)|
+| ELO Competitive | 1187 🔻  (672)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

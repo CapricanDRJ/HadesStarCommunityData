@@ -5,11 +5,11 @@ title: SQPT
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1210 🔻  (397)|
-| ELO Competitive | 1343 🔻  (135)|
-| Total Matches | 60 |
+| ELO Regular | 1196 🔻  (477)|
+| ELO Competitive | 1329 🔻  (156)|
+| Total Matches | 61 |
 | Wins | 29 |
-| Losses | 31 |
+| Losses | 32 |
 | Draws | 0 |
 | Streak Record | 5 |
 
@@ -28,6 +28,7 @@ title: SQPT
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024-07-20 | 8-19 | [绛紫星](https://ws.tsl.rocks/corp/8c2109279ceb01bcca0aa5e85c151d5877831ac54199285743750e2ed343b407/) |
 | ❌ | 2024-07-13 | 24-37 | [Omega Alpha](https://ws.tsl.rocks/corp/b6e23a3f1f3a3c735c694624b273dcd7da2f8bd13a5ac2b36a8ad39737b1d062/) |
 | ❌ | 2024-07-06 | 23-34 | [Emergence](https://ws.tsl.rocks/corp/1a1250d276bf9541252070bbee9c6b216c91b12a837aaa8a8e8a90f490940538/) |
 | ❌ | 2024-06-30 | 14-30 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) |

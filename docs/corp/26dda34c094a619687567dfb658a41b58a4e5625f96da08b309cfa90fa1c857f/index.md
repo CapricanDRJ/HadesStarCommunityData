@@ -5,8 +5,8 @@ title: Anomaly
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1162 🔻  (922)|
-| ELO Competitive | 1161 🔻  (1002)|
+| ELO Regular | 1162 🔻  (923)|
+| ELO Competitive | 1161 🔻  (1003)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

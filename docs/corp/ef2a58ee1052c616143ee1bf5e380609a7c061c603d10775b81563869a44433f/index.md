@@ -5,8 +5,8 @@ title: Алый Феникс
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1134 🔻  (1033)|
-| ELO Competitive | 1142 🔻  (1075)|
+| ELO Regular | 1134 🔻  (1034)|
+| ELO Competitive | 1142 🔻  (1076)|
 | Total Matches | 13 |
 | Wins | 4 |
 | Losses | 9 |

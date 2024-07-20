@@ -5,8 +5,8 @@ title: 星环-星际联盟
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (584)|
-| ELO Competitive | 1187 🔻  (672)|
+| ELO Regular | 1186 🔻  (585)|
+| ELO Competitive | 1187 🔻  (673)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

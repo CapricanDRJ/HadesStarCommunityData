@@ -5,8 +5,8 @@ title: Persistence
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1192 🔻  (504)|
-| ELO Competitive | 1192 🔻  (595)|
+| ELO Regular | 1192 🔻  (505)|
+| ELO Competitive | 1192 🔻  (597)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

@@ -5,8 +5,8 @@ title: Space Monkeys
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1133 🔺  (1035)|
-| ELO Competitive | 1165 🔺  (981)|
+| ELO Regular | 1133 🔺  (1036)|
+| ELO Competitive | 1165 🔺  (982)|
 | Total Matches | 26 |
 | Wins | 8 |
 | Losses | 17 |

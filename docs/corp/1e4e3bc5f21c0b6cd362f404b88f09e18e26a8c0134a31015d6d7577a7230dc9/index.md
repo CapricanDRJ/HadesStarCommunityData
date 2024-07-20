@@ -5,7 +5,7 @@ title: АНДРОМЕДА
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1179 🔺  (767)|
+| ELO Regular | 1179 🔺  (768)|
 | ELO Competitive | 1252 🔺  (302)|
 | Total Matches | 55 |
 | Wins | 25 |

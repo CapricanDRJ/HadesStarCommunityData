@@ -5,10 +5,10 @@ title: Spacefleet
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1299 🔻  (123)|
-| ELO Competitive | 1425 🔺  (63)|
-| Total Matches | 50 |
-| Wins | 32 |
+| ELO Regular | 1311 🔺  (107)|
+| ELO Competitive | 1434 🔺  (59)|
+| Total Matches | 51 |
+| Wins | 33 |
 | Losses | 18 |
 | Draws | 0 |
 | Streak Record | 8 |
@@ -17,6 +17,7 @@ title: Spacefleet
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [EZCO](https://ws.tsl.rocks/corp/cfad990cabcdc1326c0aa3f93a57d1f0e6ec3cd2949e01e6b08443c3af8282f1/) | 1 | 1 | 0 | 2 |
 | [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) | 1 | 2 | 0 | 3 |
 | [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 1 | 1 | 0 | 2 |
 | [Gummibärenbande](https://ws.tsl.rocks/corp/7111d11716d236254b3fe2fdc0df09519cbed1ee9cc2c7691983534a3d8e1366/) | 2 | 0 | 0 | 2 |
@@ -33,6 +34,7 @@ title: Spacefleet
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024-07-20 | 24-4 | [EZCO](https://ws.tsl.rocks/corp/cfad990cabcdc1326c0aa3f93a57d1f0e6ec3cd2949e01e6b08443c3af8282f1/) |
 | ❌ | 2024-07-16 | 14-45 | [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) |
 | ✅ | 2024-07-14 | 28-4 | [The Star League](https://ws.tsl.rocks/corp/f8b4a4ab48d0f4dc8e2d35c049289e4cd31960c34c0d114426164f223cdb5140/) |
 | ❌ | 2024-07-10 | 19-20 | [Croce del Sud](https://ws.tsl.rocks/corp/d0899d3aea0aaed6c7d87de378c6c82274ff8dcdabad391d44c2f08f98039af1/) |

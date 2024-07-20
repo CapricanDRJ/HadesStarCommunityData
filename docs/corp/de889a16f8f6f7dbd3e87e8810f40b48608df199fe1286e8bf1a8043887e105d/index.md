@@ -5,8 +5,8 @@ title: SEK-SPACE ORDER
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1143 🔻  (1003)|
-| ELO Competitive | 1145 🔻  (1068)|
+| ELO Regular | 1143 🔻  (1004)|
+| ELO Competitive | 1145 🔻  (1069)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 4 |

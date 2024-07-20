@@ -5,8 +5,8 @@ title: universe leader
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1131 🔻  (1039)|
-| ELO Competitive | 1148 🔻  (1053)|
+| ELO Regular | 1131 🔻  (1040)|
+| ELO Competitive | 1148 🔻  (1054)|
 | Total Matches | 11 |
 | Wins | 2 |
 | Losses | 8 |

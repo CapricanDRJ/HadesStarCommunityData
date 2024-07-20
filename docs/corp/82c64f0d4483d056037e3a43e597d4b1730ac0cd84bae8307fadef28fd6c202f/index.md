@@ -5,7 +5,7 @@ title: Чистое Небо
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1155 🔻  (959)|
+| ELO Regular | 1155 🔻  (960)|
 | ELO Competitive | 1156 🔻  (1026)|
 | Total Matches | 3 |
 | Wins | 0 |

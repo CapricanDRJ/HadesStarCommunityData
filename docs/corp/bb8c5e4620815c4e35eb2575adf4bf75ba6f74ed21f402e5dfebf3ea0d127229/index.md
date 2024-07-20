@@ -5,8 +5,8 @@ title: Dadsw/Daughterz
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (781)|
-| ELO Competitive | 1179 🔻  (852)|
+| ELO Regular | 1176 🔻  (782)|
+| ELO Competitive | 1179 🔻  (853)|
 | Total Matches | 4 |
 | Wins | 1 |
 | Losses | 3 |

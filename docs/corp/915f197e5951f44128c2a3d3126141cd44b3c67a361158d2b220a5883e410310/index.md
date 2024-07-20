@@ -5,7 +5,7 @@ title: Торг. федерация
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1135 🔻  (1029)|
+| ELO Regular | 1135 🔻  (1030)|
 | ELO Competitive | 1154 🔻  (1031)|
 | Total Matches | 12 |
 | Wins | 3 |

@@ -5,8 +5,8 @@ title: corporacion I.A
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻  (546)|
-| ELO Competitive | 1192 🔻  (591)|
+| ELO Regular | 1188 🔻  (547)|
+| ELO Competitive | 1192 🔻  (593)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

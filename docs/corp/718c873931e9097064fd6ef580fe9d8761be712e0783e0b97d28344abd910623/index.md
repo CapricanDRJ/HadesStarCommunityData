@@ -5,11 +5,11 @@ title: lesescargots
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1303 🔺  (117)|
-| ELO Competitive | 1342 🔺  (137)|
-| Total Matches | 48 |
+| ELO Regular | 1284 🔻  (139)|
+| ELO Competitive | 1321 🔻  (170)|
+| Total Matches | 49 |
 | Wins | 35 |
-| Losses | 13 |
+| Losses | 14 |
 | Draws | 0 |
 | Streak Record | 14 |
 
@@ -25,6 +25,7 @@ title: lesescargots
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024-07-20 | 0-9 | [RUFORS](https://ws.tsl.rocks/corp/f1e7f82e284c8233985039ea19544dbfa937f38f2315e9ad6a1d037423071b6d/) |
 | ✅ | 2024-07-15 | 14-3 | [KARI](https://ws.tsl.rocks/corp/4434276aa1aebbe4c0a69ac51dff9c243c5287d00096e12c87e8590318a2ab65/) |
 | ❌ | 2024-07-10 | 0-5 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
 | ✅ | 2024-07-05 | 7-4 | [使命白星](https://ws.tsl.rocks/corp/88e828c55c07286950a3296b00ca2a7a9cc2f1a0139e9cf4c6e54229f821e952/) |

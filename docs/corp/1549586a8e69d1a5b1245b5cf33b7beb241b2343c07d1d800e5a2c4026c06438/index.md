@@ -5,8 +5,8 @@ title: ItBurnsWhenIEMP
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1309 🔺  (110)|
-| ELO Competitive | 1338 🔺  (143)|
+| ELO Regular | 1309 🔺  (109)|
+| ELO Competitive | 1338 🔺  (141)|
 | Total Matches | 30 |
 | Wins | 22 |
 | Losses | 8 |

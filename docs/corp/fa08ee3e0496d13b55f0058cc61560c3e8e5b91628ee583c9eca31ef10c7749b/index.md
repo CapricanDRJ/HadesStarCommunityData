@@ -5,8 +5,8 @@ title: C'est pas faux!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (577)|
-| ELO Competitive | 1191 🔻  (609)|
+| ELO Regular | 1186 🔻  (578)|
+| ELO Competitive | 1191 🔻  (611)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

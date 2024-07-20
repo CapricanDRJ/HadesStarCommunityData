@@ -5,8 +5,8 @@ title: 猎户座星云
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (887)|
-| ELO Competitive | 1171 🔻  (935)|
+| ELO Regular | 1169 🔻  (888)|
+| ELO Competitive | 1171 🔻  (936)|
 | Total Matches | 9 |
 | Wins | 3 |
 | Losses | 6 |

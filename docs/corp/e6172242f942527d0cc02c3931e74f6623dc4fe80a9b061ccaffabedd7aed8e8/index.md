@@ -5,8 +5,8 @@ title: F.E.I.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔻  (744)|
-| ELO Competitive | 1183 🔻  (828)|
+| ELO Regular | 1182 🔻  (746)|
+| ELO Competitive | 1183 🔻  (829)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 1 |

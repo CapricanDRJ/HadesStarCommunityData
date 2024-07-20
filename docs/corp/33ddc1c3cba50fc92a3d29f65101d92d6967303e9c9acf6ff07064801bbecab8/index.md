@@ -5,8 +5,8 @@ title: Ahamkara
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (699)|
-| ELO Competitive | 1184 🔻  (802)|
+| ELO Regular | 1184 🔻  (700)|
+| ELO Competitive | 1184 🔻  (803)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

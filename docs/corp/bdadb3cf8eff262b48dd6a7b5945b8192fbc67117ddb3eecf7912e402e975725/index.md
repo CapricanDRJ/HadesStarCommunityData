@@ -5,7 +5,7 @@ title: Eretria
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1220 🔺  (312)|
+| ELO Regular | 1220 🔺  (313)|
 | ELO Competitive | 1244 🔺  (322)|
 | Total Matches | 45 |
 | Wins | 23 |

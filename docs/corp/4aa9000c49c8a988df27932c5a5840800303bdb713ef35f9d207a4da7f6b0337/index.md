@@ -5,8 +5,8 @@ title: The Gladiators
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (737)|
-| ELO Competitive | 1183 🔻  (831)|
+| ELO Regular | 1183 🔻  (739)|
+| ELO Competitive | 1183 🔻  (832)|
 | Total Matches | 3 |
 | Wins | 1 |
 | Losses | 2 |

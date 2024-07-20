@@ -5,14 +5,14 @@ title: Mercury Sunset
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1423 🔺  (24)|
-| ELO Competitive | 1459 🔺  (41)|
-| Total Matches | 20 |
-| Wins | 20 |
+| ELO Regular | 1429 🔺  (23)|
+| ELO Competitive | 1465 🔺  (38)|
+| Total Matches | 21 |
+| Wins | 21 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 20 |
-| Streak Record | 20 |
+| Streak | 21 |
+| Streak Record | 21 |
 
 ### Recurring Opponents
 
@@ -24,6 +24,7 @@ title: Mercury Sunset
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024-07-20 | 35-1 | [无聊不过](https://ws.tsl.rocks/corp/6099bd39cf8510ea3ef2be0fe05df95266b12acfdcbe1bd58a4c33e9c3f25934/) |
 | ✅ | 2024-07-12 | 22-2 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
 | ✅ | 2024-07-05 | 41-0 | [Utd\. Human Fed\.](https://ws.tsl.rocks/corp/265fd73116c2ec237c7a966adb401d54219dee49882ee9024025c697165397d6/) |
 | ✅ | 2024-06-28 | 44-3 | [Axioma](https://ws.tsl.rocks/corp/2ec904c87d0183a49e22dc53508fa5c75d6e638e3a152a30336831697c60e91e/) |

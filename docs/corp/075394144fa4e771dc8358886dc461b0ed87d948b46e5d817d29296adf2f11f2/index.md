@@ -5,8 +5,8 @@ title: СНГ — РОССИЯ
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1139 🔻  (1009)|
-| ELO Competitive | 1182 🔻  (836)|
+| ELO Regular | 1139 🔻  (1010)|
+| ELO Competitive | 1182 🔻  (837)|
 | Total Matches | 15 |
 | Wins | 4 |
 | Losses | 8 |

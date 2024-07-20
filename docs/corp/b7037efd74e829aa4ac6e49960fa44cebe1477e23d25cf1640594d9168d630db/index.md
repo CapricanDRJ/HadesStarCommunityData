@@ -5,8 +5,8 @@ title: Rising star
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1160 🔺  (929)|
-| ELO Competitive | 1220 🔺  (394)|
+| ELO Regular | 1160 🔺  (930)|
+| ELO Competitive | 1220 🔺  (395)|
 | Total Matches | 44 |
 | Wins | 18 |
 | Losses | 26 |

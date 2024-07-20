@@ -5,8 +5,8 @@ title: Elder Things
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (562)|
-| ELO Competitive | 1191 🔻  (610)|
+| ELO Regular | 1187 🔻  (563)|
+| ELO Competitive | 1191 🔻  (612)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

@@ -5,8 +5,8 @@ title: Deadspace
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1131 🔻  (1040)|
-| ELO Competitive | 1181 🔻  (840)|
+| ELO Regular | 1131 🔻  (1041)|
+| ELO Competitive | 1181 🔻  (841)|
 | Total Matches | 38 |
 | Wins | 15 |
 | Losses | 23 |

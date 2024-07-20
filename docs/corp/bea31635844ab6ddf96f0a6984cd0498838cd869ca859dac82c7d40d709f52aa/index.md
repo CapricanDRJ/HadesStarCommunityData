@@ -5,8 +5,8 @@ title: 群星璀璨
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (807)|
-| ELO Competitive | 1176 🔻  (870)|
+| ELO Regular | 1174 🔻  (808)|
+| ELO Competitive | 1176 🔻  (871)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

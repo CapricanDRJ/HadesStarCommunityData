@@ -5,8 +5,8 @@ title: The Galxey █
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1000 🔺  (1162)|
-| ELO Competitive | 1078 🔺  (1156)|
+| ELO Regular | 1000 🔺  (1163)|
+| ELO Competitive | 1078 🔺  (1157)|
 | Total Matches | 36 |
 | Wins | 5 |
 | Losses | 29 |

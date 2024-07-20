@@ -5,8 +5,8 @@ title: Caprica command
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1199 🔻  (464)|
-| ELO Competitive | 1203 🔻  (503)|
+| ELO Regular | 1199 🔻  (462)|
+| ELO Competitive | 1203 🔻  (504)|
 | Total Matches | 8 |
 | Wins | 4 |
 | Losses | 4 |

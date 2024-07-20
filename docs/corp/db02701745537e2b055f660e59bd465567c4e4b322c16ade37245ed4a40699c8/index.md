@@ -5,8 +5,8 @@ title: Russian Style
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1160 🔻  (928)|
-| ELO Competitive | 1163 🔻  (994)|
+| ELO Regular | 1160 🔻  (929)|
+| ELO Competitive | 1163 🔻  (995)|
 | Total Matches | 9 |
 | Wins | 3 |
 | Losses | 6 |

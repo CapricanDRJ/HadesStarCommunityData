@@ -5,8 +5,8 @@ title: Trade Station
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 979 🔻  (1167)|
-| ELO Competitive | 1024 🔻  (1172)|
+| ELO Regular | 979 🔻  (1168)|
+| ELO Competitive | 1024 🔻  (1173)|
 | Total Matches | 34 |
 | Wins | 4 |
 | Losses | 30 |

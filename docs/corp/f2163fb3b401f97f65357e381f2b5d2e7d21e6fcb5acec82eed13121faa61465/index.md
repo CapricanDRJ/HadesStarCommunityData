@@ -5,8 +5,8 @@ title: Starbond
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (627)|
-| ELO Competitive | 1185 🔻  (738)|
+| ELO Regular | 1185 🔻  (628)|
+| ELO Competitive | 1185 🔻  (739)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

@@ -5,8 +5,8 @@ title: North Star
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1164 🔻  (908)|
-| ELO Competitive | 1168 🔻  (967)|
+| ELO Regular | 1164 🔻  (909)|
+| ELO Competitive | 1168 🔻  (968)|
 | Total Matches | 5 |
 | Wins | 1 |
 | Losses | 4 |

@@ -5,8 +5,8 @@ title: THE ECHAPES BEL
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1129 🔻  (1048)|
-| ELO Competitive | 1132 🔻  (1096)|
+| ELO Regular | 1129 🔻  (1049)|
+| ELO Competitive | 1132 🔻  (1097)|
 | Total Matches | 5 |
 | Wins | 0 |
 | Losses | 5 |

@@ -5,8 +5,8 @@ title: СССР 2.0
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1144 🔻  (998)|
-| ELO Competitive | 1146 🔻  (1061)|
+| ELO Regular | 1144 🔻  (999)|
+| ELO Competitive | 1146 🔻  (1062)|
 | Total Matches | 8 |
 | Wins | 2 |
 | Losses | 6 |

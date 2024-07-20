@@ -5,8 +5,8 @@ title: Russia
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1113 🔻  (1078)|
-| ELO Competitive | 1116 🔻  (1115)|
+| ELO Regular | 1113 🔻  (1079)|
+| ELO Competitive | 1116 🔻  (1116)|
 | Total Matches | 9 |
 | Wins | 1 |
 | Losses | 8 |

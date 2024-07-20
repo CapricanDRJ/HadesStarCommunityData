@@ -5,8 +5,8 @@ title: Die pösn Purchn
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (780)|
-| ELO Competitive | 1180 🔻  (844)|
+| ELO Regular | 1176 🔻  (781)|
+| ELO Competitive | 1180 🔻  (845)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

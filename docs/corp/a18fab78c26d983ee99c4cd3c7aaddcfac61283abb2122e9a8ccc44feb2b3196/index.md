@@ -5,8 +5,8 @@ title: НИФИГАСЕБЕ
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1093 🔻  (1100)|
-| ELO Competitive | 1113 🔻  (1120)|
+| ELO Regular | 1093 🔻  (1101)|
+| ELO Competitive | 1113 🔻  (1121)|
 | Total Matches | 30 |
 | Wins | 8 |
 | Losses | 22 |

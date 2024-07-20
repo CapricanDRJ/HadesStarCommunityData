@@ -5,8 +5,8 @@ title: Variants
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (710)|
-| ELO Competitive | 1186 🔻  (705)|
+| ELO Regular | 1184 🔻  (711)|
+| ELO Competitive | 1186 🔻  (706)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

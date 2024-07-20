@@ -5,8 +5,8 @@ title: STAR TERROR CZ
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (839)|
-| ELO Competitive | 1172 🔻  (927)|
+| ELO Regular | 1171 🔻  (840)|
+| ELO Competitive | 1172 🔻  (928)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

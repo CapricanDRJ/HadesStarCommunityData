@@ -5,8 +5,8 @@ title: Veteran's Haven
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1144 🔻  (996)|
-| ELO Competitive | 1161 🔻  (1003)|
+| ELO Regular | 1144 🔻  (997)|
+| ELO Competitive | 1161 🔻  (1004)|
 | Total Matches | 14 |
 | Wins | 5 |
 | Losses | 9 |

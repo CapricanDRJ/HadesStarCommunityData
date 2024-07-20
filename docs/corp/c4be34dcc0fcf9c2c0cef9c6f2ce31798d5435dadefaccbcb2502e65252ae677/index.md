@@ -6,7 +6,7 @@ title: 纸鸢台
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1233 🔺  (271)|
-| ELO Competitive | 1233 🔺  (352)|
+| ELO Competitive | 1233 🔺  (353)|
 | Total Matches | 4 |
 | Wins | 3 |
 | Losses | 1 |

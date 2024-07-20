@@ -5,8 +5,8 @@ title: ₩.BRASIL.₩
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1106 🔺  (1089)|
-| ELO Competitive | 1109 🔺  (1125)|
+| ELO Regular | 1106 🔺  (1090)|
+| ELO Competitive | 1109 🔺  (1126)|
 | Total Matches | 12 |
 | Wins | 0 |
 | Losses | 8 |

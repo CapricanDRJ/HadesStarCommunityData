@@ -5,8 +5,8 @@ title: Crimson Dawn
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1159 🔻  (937)|
-| ELO Competitive | 1186 🔻  (700)|
+| ELO Regular | 1159 🔻  (938)|
+| ELO Competitive | 1186 🔻  (701)|
 | Total Matches | 17 |
 | Wins | 7 |
 | Losses | 10 |

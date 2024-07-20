@@ -6,7 +6,7 @@ title: free ws exp
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1215 🔺  (344)|
-| ELO Competitive | 1215 🔺  (438)|
+| ELO Competitive | 1215 🔺  (439)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |

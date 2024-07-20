@@ -6,7 +6,7 @@ title: Nova Time
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1338 🔺  (75)|
-| ELO Competitive | 1342 🔺  (136)|
+| ELO Competitive | 1342 🔺  (135)|
 | Total Matches | 14 |
 | Wins | 13 |
 | Losses | 1 |

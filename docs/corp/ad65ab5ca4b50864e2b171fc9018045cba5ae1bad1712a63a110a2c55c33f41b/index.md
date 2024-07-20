@@ -6,7 +6,7 @@ title: 嘤嘤嘤嘤嘤嘤嘤嘤
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1119 🔻  (1066)|
-| ELO Competitive | 1136 🔻  (1088)|
+| ELO Competitive | 1136 🔻  (1089)|
 | Total Matches | 6 |
 | Wins | 0 |
 | Losses | 6 |

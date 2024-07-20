@@ -5,8 +5,8 @@ title: RedStar Raiding
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1045 🔻  (1145)|
-| ELO Competitive | 1078 🔻  (1157)|
+| ELO Regular | 1045 🔻  (1146)|
+| ELO Competitive | 1078 🔻  (1158)|
 | Total Matches | 35 |
 | Wins | 6 |
 | Losses | 28 |

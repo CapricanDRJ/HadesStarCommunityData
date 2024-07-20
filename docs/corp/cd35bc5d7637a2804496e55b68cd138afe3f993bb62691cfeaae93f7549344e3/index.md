@@ -5,8 +5,8 @@ title: NAC
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (597)|
-| ELO Competitive | 1190 🔻  (613)|
+| ELO Regular | 1186 🔻  (598)|
+| ELO Competitive | 1190 🔻  (614)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 1 |

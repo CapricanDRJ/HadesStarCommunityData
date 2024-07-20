@@ -5,8 +5,8 @@ title: 华夏三体舰队
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1160 🔻  (930)|
-| ELO Competitive | 1228 🔻  (368)|
+| ELO Regular | 1160 🔻  (931)|
+| ELO Competitive | 1228 🔻  (369)|
 | Total Matches | 26 |
 | Wins | 9 |
 | Losses | 14 |

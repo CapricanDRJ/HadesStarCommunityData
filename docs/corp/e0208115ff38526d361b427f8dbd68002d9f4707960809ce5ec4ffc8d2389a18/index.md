@@ -6,7 +6,7 @@ title: Richthofen
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1195 🔻  (486)|
-| ELO Competitive | 1198 🔻  (564)|
+| ELO Competitive | 1198 🔻  (565)|
 | Total Matches | 2 |
 | Wins | 1 |
 | Losses | 1 |

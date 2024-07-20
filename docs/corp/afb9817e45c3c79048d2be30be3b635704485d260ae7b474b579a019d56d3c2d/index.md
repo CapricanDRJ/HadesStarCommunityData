@@ -5,7 +5,7 @@ title: 宇宙银河帝国
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1296 🔺  (125)|
+| ELO Regular | 1296 🔺  (124)|
 | ELO Competitive | 1363 🔺  (113)|
 | Total Matches | 34 |
 | Wins | 20 |

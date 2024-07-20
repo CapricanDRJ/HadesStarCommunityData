@@ -5,7 +5,7 @@ title: Space Rangers
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1295 🔺  (128)|
+| ELO Regular | 1295 🔺  (127)|
 | ELO Competitive | 1347 🔺  (132)|
 | Total Matches | 26 |
 | Wins | 17 |

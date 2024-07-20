@@ -5,7 +5,7 @@ title: BLOK EKIPA
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1147 🔻  (982)|
+| ELO Regular | 1147 🔻  (983)|
 | ELO Competitive | 1153 🔻  (1035)|
 | Total Matches | 3 |
 | Wins | 0 |

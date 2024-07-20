@@ -5,8 +5,8 @@ title: 避难所
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1225 🔺  (299)|
-| ELO Competitive | 1278 🔺  (240)|
+| ELO Regular | 1225 🔺  (300)|
+| ELO Competitive | 1278 🔺  (239)|
 | Total Matches | 19 |
 | Wins | 9 |
 | Losses | 8 |

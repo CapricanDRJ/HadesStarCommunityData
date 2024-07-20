@@ -5,8 +5,8 @@ title: ANZAC Warriors
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1288 🔻  (136)|
-| ELO Competitive | 1302 🔻  (197)|
+| ELO Regular | 1288 🔻  (135)|
+| ELO Competitive | 1302 🔻  (196)|
 | Total Matches | 22 |
 | Wins | 16 |
 | Losses | 5 |

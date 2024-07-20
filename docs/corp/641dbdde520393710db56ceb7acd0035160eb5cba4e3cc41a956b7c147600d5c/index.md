@@ -5,8 +5,8 @@ title: StarFun
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (575)|
-| ELO Competitive | 1190 🔻  (615)|
+| ELO Regular | 1187 🔻  (576)|
+| ELO Competitive | 1190 🔻  (616)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

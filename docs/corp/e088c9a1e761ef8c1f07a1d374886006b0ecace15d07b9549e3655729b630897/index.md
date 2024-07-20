@@ -5,11 +5,11 @@ title: Germania
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1121 🔻  (1063)|
-| ELO Competitive | 1157 🔻  (1022)|
-| Total Matches | 37 |
+| ELO Regular | 1115 🔻  (1076)|
+| ELO Competitive | 1151 🔻  (1044)|
+| Total Matches | 38 |
 | Wins | 15 |
-| Losses | 20 |
+| Losses | 21 |
 | Draws | 2 |
 | Streak Record | 4 |
 
@@ -25,6 +25,7 @@ title: Germania
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024-07-20 | 3-29 | [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1/) |
 | ❌ | 2024-07-14 | 4-5 | [Retarts](https://ws.tsl.rocks/corp/1556331f722d00268e3c524b12efedac51051cf48e46b2513675774b9315a155/) |
 | ❌ | 2024-07-07 | 5-14 | [Kratos](https://ws.tsl.rocks/corp/1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b/) |
 | ❌ | 2024-07-02 | 7-28 | [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) |

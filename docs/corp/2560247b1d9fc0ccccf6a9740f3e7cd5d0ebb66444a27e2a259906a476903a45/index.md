@@ -5,8 +5,8 @@ title: Revólver
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (878)|
-| ELO Competitive | 1189 🔻  (645)|
+| ELO Regular | 1169 🔻  (879)|
+| ELO Competitive | 1189 🔻  (646)|
 | Total Matches | 20 |
 | Wins | 8 |
 | Losses | 12 |

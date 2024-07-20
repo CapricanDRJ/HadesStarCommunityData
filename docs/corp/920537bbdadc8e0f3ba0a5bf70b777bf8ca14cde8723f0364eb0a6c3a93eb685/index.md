@@ -5,8 +5,8 @@ title: UFO
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1226 🔻  (294)|
-| ELO Competitive | 1232 🔻  (354)|
+| ELO Regular | 1226 🔻  (295)|
+| ELO Competitive | 1232 🔻  (355)|
 | Total Matches | 7 |
 | Wins | 4 |
 | Losses | 3 |

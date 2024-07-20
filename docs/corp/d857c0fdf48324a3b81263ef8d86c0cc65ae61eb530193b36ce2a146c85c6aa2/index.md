@@ -5,8 +5,8 @@ title: Nooooobs
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1161 🔻  (923)|
-| ELO Competitive | 1160 🔻  (1005)|
+| ELO Regular | 1161 🔻  (924)|
+| ELO Competitive | 1160 🔻  (1006)|
 | Total Matches | 7 |
 | Wins | 2 |
 | Losses | 5 |

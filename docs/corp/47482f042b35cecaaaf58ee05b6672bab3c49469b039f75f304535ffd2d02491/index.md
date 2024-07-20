@@ -5,8 +5,8 @@ title: GermanSpaceUno.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1067 🔻  (1128)|
-| ELO Competitive | 1081 🔻  (1153)|
+| ELO Regular | 1067 🔻  (1129)|
+| ELO Competitive | 1081 🔻  (1154)|
 | Total Matches | 24 |
 | Wins | 5 |
 | Losses | 19 |

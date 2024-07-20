@@ -5,8 +5,8 @@ title: Hail Hydra
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1111 🔻  (1081)|
-| ELO Competitive | 1127 🔻  (1103)|
+| ELO Regular | 1111 🔻  (1082)|
+| ELO Competitive | 1127 🔻  (1104)|
 | Total Matches | 24 |
 | Wins | 6 |
 | Losses | 18 |

@@ -5,7 +5,7 @@ title: 公共星际集团
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1052 🔻  (1139)|
+| ELO Regular | 1052 🔻  (1140)|
 | ELO Competitive | 1153 🔺  (1038)|
 | Total Matches | 25 |
 | Wins | 5 |

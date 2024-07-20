@@ -5,7 +5,7 @@ title: Alpaca Haven
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1263 🔻  (173)|
+| ELO Regular | 1263 🔻  (174)|
 | ELO Competitive | 1288 🔻  (221)|
 | Total Matches | 29 |
 | Wins | 18 |

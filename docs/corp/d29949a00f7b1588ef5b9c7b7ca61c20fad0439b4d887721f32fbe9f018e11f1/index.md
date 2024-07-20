@@ -5,12 +5,13 @@ title: Elysium
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1353 🔺  (60)|
-| ELO Competitive | 1400 🔺  (79)|
-| Total Matches | 35 |
-| Wins | 26 |
+| ELO Regular | 1360 🔺  (57)|
+| ELO Competitive | 1406 🔺  (76)|
+| Total Matches | 36 |
+| Wins | 27 |
 | Losses | 9 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 10 |
 
 ### Recurring Opponents
@@ -25,6 +26,7 @@ title: Elysium
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024-07-20 | 29-3 | [Germania](https://ws.tsl.rocks/corp/e088c9a1e761ef8c1f07a1d374886006b0ecace15d07b9549e3655729b630897/) |
 | ✅ | 2024-07-13 | 23-2 | [Star Blazers](https://ws.tsl.rocks/corp/f179acb7b919d9d3185f1fcd66bb17d5e257feab5039bcbf6efb5c8cd6f5c057/) |
 | ❌ | 2024-06-29 | 8-19 | [AFronteiraFinal](https://ws.tsl.rocks/corp/f0c64a4babe1fb017902406f1f331c63129409bccfba868cadc10cf1d064b9d4/) |
 | ✅ | 2024-06-15 | 17-0 | [Unión latina](https://ws.tsl.rocks/corp/9919a50d277644f496c19d5becdf40abb251d000345f049632329f0b35b7fbf1/) |

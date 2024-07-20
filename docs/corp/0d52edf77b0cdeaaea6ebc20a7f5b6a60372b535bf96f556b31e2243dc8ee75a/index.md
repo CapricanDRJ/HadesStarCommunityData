@@ -6,7 +6,7 @@ title: Imperium XIII
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1237 🔻  (260)|
-| ELO Competitive | 1273 🔻  (252)|
+| ELO Competitive | 1273 🔻  (251)|
 | Total Matches | 44 |
 | Wins | 24 |
 | Losses | 20 |

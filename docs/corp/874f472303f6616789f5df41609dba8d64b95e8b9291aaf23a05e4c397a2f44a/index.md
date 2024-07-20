@@ -6,7 +6,7 @@ title: SUN OF 3LANDS
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1269 🔺  (162)|
-| ELO Competitive | 1280 🔺  (237)|
+| ELO Competitive | 1280 🔺  (236)|
 | Total Matches | 10 |
 | Wins | 7 |
 | Losses | 2 |

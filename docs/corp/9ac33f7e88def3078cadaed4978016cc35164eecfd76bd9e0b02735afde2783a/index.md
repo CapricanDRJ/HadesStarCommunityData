@@ -5,8 +5,8 @@ title: Dying stars
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (563)|
-| ELO Competitive | 1189 🔻  (635)|
+| ELO Regular | 1187 🔻  (564)|
+| ELO Competitive | 1189 🔻  (636)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

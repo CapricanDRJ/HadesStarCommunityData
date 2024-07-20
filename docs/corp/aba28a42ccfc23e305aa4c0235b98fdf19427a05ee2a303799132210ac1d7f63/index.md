@@ -5,8 +5,8 @@ title: Die Mafia
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1199 🔻  (456)|
-| ELO Competitive | 1199 🔻  (545)|
+| ELO Regular | 1199 🔻  (455)|
+| ELO Competitive | 1199 🔻  (546)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 0 |

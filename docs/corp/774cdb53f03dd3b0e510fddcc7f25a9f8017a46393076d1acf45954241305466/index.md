@@ -6,7 +6,7 @@ title: Brodudes Inc.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1493 🔺  (7)|
-| ELO Competitive | 1566 🔺  (4)|
+| ELO Competitive | 1566 🔺  (5)|
 | Total Matches | 71 |
 | Wins | 57 |
 | Losses | 13 |

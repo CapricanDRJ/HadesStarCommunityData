@@ -5,8 +5,8 @@ title: Continuance
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (831)|
-| ELO Competitive | 1172 🔻  (919)|
+| ELO Regular | 1172 🔻  (832)|
+| ELO Competitive | 1172 🔻  (920)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 2 |

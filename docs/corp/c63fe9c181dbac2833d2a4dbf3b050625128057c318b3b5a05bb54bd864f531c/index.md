@@ -5,8 +5,8 @@ title: 华夏航队
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1141 🔻  (1004)|
-| ELO Competitive | 1176 🔻  (879)|
+| ELO Regular | 1141 🔻  (1005)|
+| ELO Competitive | 1176 🔻  (880)|
 | Total Matches | 9 |
 | Wins | 2 |
 | Losses | 7 |

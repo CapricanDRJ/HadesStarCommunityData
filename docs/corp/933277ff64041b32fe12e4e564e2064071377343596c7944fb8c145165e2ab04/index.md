@@ -5,8 +5,8 @@ title: 自由星际联盟
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1007 🔻  (1160)|
-| ELO Competitive | 1080 🔻  (1154)|
+| ELO Regular | 1007 🔻  (1161)|
+| ELO Competitive | 1080 🔻  (1155)|
 | Total Matches | 36 |
 | Wins | 5 |
 | Losses | 31 |

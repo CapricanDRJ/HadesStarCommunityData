@@ -5,8 +5,8 @@ title: северный шторм
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1167 🔻  (895)|
-| ELO Competitive | 1177 🔻  (860)|
+| ELO Regular | 1167 🔻  (896)|
+| ELO Competitive | 1177 🔻  (861)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

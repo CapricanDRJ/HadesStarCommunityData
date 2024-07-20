@@ -5,8 +5,8 @@ title: KLM
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1068 🔻  (1126)|
-| ELO Competitive | 1099 🔻  (1137)|
+| ELO Regular | 1068 🔻  (1127)|
+| ELO Competitive | 1099 🔻  (1138)|
 | Total Matches | 28 |
 | Wins | 5 |
 | Losses | 23 |

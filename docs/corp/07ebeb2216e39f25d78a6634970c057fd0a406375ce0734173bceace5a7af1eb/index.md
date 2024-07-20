@@ -5,8 +5,8 @@ title: OTRSᗜωO
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (623)|
-| ELO Competitive | 1190 🔻  (620)|
+| ELO Regular | 1186 🔻  (624)|
+| ELO Competitive | 1190 🔻  (621)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

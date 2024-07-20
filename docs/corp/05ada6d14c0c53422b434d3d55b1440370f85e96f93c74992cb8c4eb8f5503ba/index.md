@@ -6,7 +6,7 @@ title: BrinySeal
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1333 🔺  (77)|
-| ELO Competitive | 1380 🔺  (97)|
+| ELO Competitive | 1380 🔺  (98)|
 | Total Matches | 51 |
 | Wins | 33 |
 | Losses | 15 |

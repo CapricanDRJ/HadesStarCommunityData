@@ -6,7 +6,7 @@ title: THE BENDERA
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1318 🔺  (95)|
-| ELO Competitive | 1334 🔺  (148)|
+| ELO Competitive | 1334 🔺  (146)|
 | Total Matches | 21 |
 | Wins | 15 |
 | Losses | 6 |

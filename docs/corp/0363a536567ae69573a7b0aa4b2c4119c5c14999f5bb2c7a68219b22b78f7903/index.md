@@ -5,7 +5,7 @@ title: Forces of Light
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1258 🔺  (184)|
+| ELO Regular | 1258 🔺  (185)|
 | ELO Competitive | 1265 🔺  (267)|
 | Total Matches | 11 |
 | Wins | 7 |

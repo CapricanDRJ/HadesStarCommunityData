@@ -6,7 +6,7 @@ title: Prospectors
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1217 🔻  (328)|
-| ELO Competitive | 1223 🔻  (384)|
+| ELO Competitive | 1223 🔻  (385)|
 | Total Matches | 8 |
 | Wins | 4 |
 | Losses | 3 |

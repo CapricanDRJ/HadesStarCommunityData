@@ -5,8 +5,8 @@ title: The Elite
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔺  (522)|
-| ELO Competitive | 1207 🔺  (493)|
+| ELO Regular | 1190 🔺  (523)|
+| ELO Competitive | 1207 🔺  (494)|
 | Total Matches | 24 |
 | Wins | 12 |
 | Losses | 12 |

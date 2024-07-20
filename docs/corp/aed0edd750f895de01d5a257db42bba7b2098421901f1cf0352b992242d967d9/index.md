@@ -5,8 +5,8 @@ title: Ws Polaris
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1098 🔻  (1095)|
-| ELO Competitive | 1102 🔻  (1133)|
+| ELO Regular | 1098 🔻  (1096)|
+| ELO Competitive | 1102 🔻  (1134)|
 | Total Matches | 18 |
 | Wins | 3 |
 | Losses | 13 |

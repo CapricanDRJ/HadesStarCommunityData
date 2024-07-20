@@ -5,11 +5,11 @@ title: ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1199 🔻  (463)|
-| ELO Competitive | 1319 🔻  (176)|
-| Total Matches | 47 |
+| ELO Regular | 1183 🔻  (734)|
+| ELO Competitive | 1299 🔻  (203)|
+| Total Matches | 48 |
 | Wins | 20 |
-| Losses | 27 |
+| Losses | 28 |
 | Draws | 0 |
 | Streak Record | 4 |
 
@@ -33,6 +33,7 @@ title: ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024-07-20 | 19-25 | [Hamburg AG 2](https://ws.tsl.rocks/corp/d4075195191cabef801494d3accc0e6cc8c09f534fd9203f6e43c9930acffa56/) |
 | ❌ | 2024-07-13 | 4-41 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) |
 | ❌ | 2024-07-13 | 19-63 | [Grunthal Gang](https://ws.tsl.rocks/corp/0ab98cd1f1b195397b27360ea0dee2527f1504c9f5d4867e719d6f1f73efb01d/) |
 | ❌ | 2024-07-06 | 3-51 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) |

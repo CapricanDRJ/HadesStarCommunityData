@@ -5,7 +5,7 @@ title: 四季长春
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1139 🔻  (1012)|
+| ELO Regular | 1139 🔻  (1013)|
 | ELO Competitive | 1288 🔻  (217)|
 | Total Matches | 40 |
 | Wins | 13 |

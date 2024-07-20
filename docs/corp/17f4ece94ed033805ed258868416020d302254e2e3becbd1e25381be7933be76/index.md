@@ -5,8 +5,8 @@ title: Lacuna Holdings
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1255 🔻  (194)|
-| ELO Competitive | 1299 🔻  (203)|
+| ELO Regular | 1255 🔻  (195)|
+| ELO Competitive | 1299 🔻  (202)|
 | Total Matches | 33 |
 | Wins | 21 |
 | Losses | 12 |

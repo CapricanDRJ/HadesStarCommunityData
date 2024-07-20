@@ -5,7 +5,7 @@ title: The Fracture
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1148 🔻  (979)|
+| ELO Regular | 1148 🔻  (980)|
 | ELO Competitive | 1152 🔻  (1043)|
 | Total Matches | 4 |
 | Wins | 0 |

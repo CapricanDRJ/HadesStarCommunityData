@@ -5,8 +5,8 @@ title: The trade pub
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1140 🔻  (1007)|
-| ELO Competitive | 1172 🔻  (916)|
+| ELO Regular | 1140 🔻  (1008)|
+| ELO Competitive | 1172 🔻  (917)|
 | Total Matches | 33 |
 | Wins | 14 |
 | Losses | 19 |

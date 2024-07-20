@@ -5,7 +5,7 @@ title: 혁명군
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1115 🔻  (1077)|
+| ELO Regular | 1115 🔻  (1078)|
 | ELO Competitive | 1248 🔺  (308)|
 | Total Matches | 45 |
 | Wins | 13 |

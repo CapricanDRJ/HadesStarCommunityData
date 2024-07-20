@@ -5,8 +5,8 @@ title: SveaEmpire
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1143 🔻  (1001)|
-| ELO Competitive | 1144 🔻  (1072)|
+| ELO Regular | 1143 🔻  (1002)|
+| ELO Competitive | 1144 🔻  (1073)|
 | Total Matches | 6 |
 | Wins | 1 |
 | Losses | 5 |

@@ -5,8 +5,8 @@ title: 云浪山庄↕
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 946 🔻  (1174)|
-| ELO Competitive | 1177 🔻  (867)|
+| ELO Regular | 946 🔻  (1175)|
+| ELO Competitive | 1177 🔻  (868)|
 | Total Matches | 76 |
 | Wins | 18 |
 | Losses | 57 |

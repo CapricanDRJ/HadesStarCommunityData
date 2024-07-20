@@ -5,8 +5,8 @@ title: mijael siuuuuuu
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1066 🔻  (1129)|
-| ELO Competitive | 1069 🔻  (1163)|
+| ELO Regular | 1066 🔻  (1130)|
+| ELO Competitive | 1069 🔻  (1164)|
 | Total Matches | 13 |
 | Wins | 0 |
 | Losses | 12 |
