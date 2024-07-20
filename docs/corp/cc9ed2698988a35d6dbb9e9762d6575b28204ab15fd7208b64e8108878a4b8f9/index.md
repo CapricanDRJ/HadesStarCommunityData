@@ -5,8 +5,8 @@ title: Interestelar
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1304 🔻|
-| ELO Competitive | 1316 🔻|
+| ELO Regular | 1304 🔻  (116)|
+| ELO Competitive | 1316 🔻  (180)|
 | Total Matches | 11 |
 | Wins | 9 |
 | Losses | 2 |

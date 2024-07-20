@@ -5,8 +5,8 @@ title: Armored Union
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔺|
-| ELO Competitive | 1321 🔺|
+| ELO Regular | 1238 🔺  (251)|
+| ELO Competitive | 1321 🔺  (172)|
 | Total Matches | 30 |
 | Wins | 17 |
 | Losses | 13 |

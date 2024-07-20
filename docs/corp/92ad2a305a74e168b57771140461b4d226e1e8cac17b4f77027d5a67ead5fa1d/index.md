@@ -5,8 +5,8 @@ title: 星光万丈
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1145 🔺|
-| ELO Competitive | 1178 🔺|
+| ELO Regular | 1145 🔺  (993)|
+| ELO Competitive | 1178 🔺  (856)|
 | Total Matches | 23 |
 | Wins | 7 |
 | Losses | 15 |

@@ -5,8 +5,8 @@ title: StarControl
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1381 🔺|
-| ELO Competitive | 1428 🔺|
+| ELO Regular | 1381 🔺  (45)|
+| ELO Competitive | 1428 🔺  (60)|
 | Total Matches | 23 |
 | Wins | 18 |
 | Losses | 5 |

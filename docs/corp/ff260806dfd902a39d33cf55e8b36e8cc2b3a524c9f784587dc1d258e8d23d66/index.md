@@ -5,8 +5,8 @@ title: (◉▼◉ ﾐ )Э
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻|
-| ELO Competitive | 1175 🔻|
+| ELO Regular | 1173 🔻  (815)|
+| ELO Competitive | 1175 🔻  (886)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

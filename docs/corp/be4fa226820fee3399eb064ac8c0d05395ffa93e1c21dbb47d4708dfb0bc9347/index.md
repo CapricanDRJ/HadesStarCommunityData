@@ -5,8 +5,8 @@ title: Рейнджеры
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1127 🔺|
-| ELO Competitive | 1153 🔺|
+| ELO Regular | 1127 🔺  (1049)|
+| ELO Competitive | 1153 🔺  (1034)|
 | Total Matches | 20 |
 | Wins | 6 |
 | Losses | 14 |

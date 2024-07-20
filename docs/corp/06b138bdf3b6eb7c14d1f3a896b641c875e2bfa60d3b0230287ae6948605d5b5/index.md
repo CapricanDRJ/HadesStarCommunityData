@@ -5,8 +5,8 @@ title: Dirty Laundry
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻|
-| ELO Competitive | 1175 🔻|
+| ELO Regular | 1172 🔻  (826)|
+| ELO Competitive | 1175 🔻  (890)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

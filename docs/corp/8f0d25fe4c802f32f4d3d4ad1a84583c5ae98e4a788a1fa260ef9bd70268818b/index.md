@@ -5,8 +5,8 @@ title: 第五星际
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺|
-| ELO Competitive | 1217 🔺|
+| ELO Regular | 1216 🔺  (335)|
+| ELO Competitive | 1217 🔺  (417)|
 | Total Matches | 5 |
 | Wins | 3 |
 | Losses | 2 |

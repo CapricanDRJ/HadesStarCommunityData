@@ -5,8 +5,8 @@ title: Soylent Corp.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1265 🔻|
-| ELO Competitive | 1313 🔻|
+| ELO Regular | 1265 🔻  (169)|
+| ELO Competitive | 1313 🔻  (186)|
 | Total Matches | 33 |
 | Wins | 22 |
 | Losses | 11 |

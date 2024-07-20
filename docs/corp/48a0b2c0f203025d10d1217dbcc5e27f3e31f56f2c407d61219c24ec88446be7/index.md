@@ -5,8 +5,8 @@ title: RGW
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1275 🔺|
-| ELO Competitive | 1289 🔺|
+| ELO Regular | 1275 🔺  (151)|
+| ELO Competitive | 1289 🔺  (216)|
 | Total Matches | 16 |
 | Wins | 10 |
 | Losses | 6 |

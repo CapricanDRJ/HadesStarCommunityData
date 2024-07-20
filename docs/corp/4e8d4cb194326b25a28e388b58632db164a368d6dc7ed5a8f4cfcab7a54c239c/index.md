@@ -5,8 +5,8 @@ title: Тихий Омут
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1034 🔻|
-| ELO Competitive | 1209 🔺|
+| ELO Regular | 1034 🔻  (1149)|
+| ELO Competitive | 1209 🔺  (485)|
 | Total Matches | 50 |
 | Wins | 9 |
 | Losses | 40 |

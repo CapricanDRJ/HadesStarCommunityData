@@ -5,8 +5,8 @@ title: Rogue One
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1311 🔺|
-| ELO Competitive | 1373 🔺|
+| ELO Regular | 1311 🔺  (107)|
+| ELO Competitive | 1373 🔺  (103)|
 | Total Matches | 47 |
 | Wins | 28 |
 | Losses | 18 |

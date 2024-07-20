@@ -5,8 +5,8 @@ title: 柯伊伯带
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1607 🔺|
-| ELO Competitive | 1583 🔺|
+| ELO Regular | 1607 🔺  (1)|
+| ELO Competitive | 1583 🔺  (2)|
 | Total Matches | 57 |
 | Wins | 56 |
 | Losses | 1 |

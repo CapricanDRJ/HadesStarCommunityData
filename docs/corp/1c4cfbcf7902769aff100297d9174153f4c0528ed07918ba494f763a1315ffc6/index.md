@@ -5,8 +5,8 @@ title: The Allegiant
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1274 🔺|
-| ELO Competitive | 1293 🔺|
+| ELO Regular | 1274 🔺  (153)|
+| ELO Competitive | 1293 🔺  (213)|
 | Total Matches | 24 |
 | Wins | 16 |
 | Losses | 8 |

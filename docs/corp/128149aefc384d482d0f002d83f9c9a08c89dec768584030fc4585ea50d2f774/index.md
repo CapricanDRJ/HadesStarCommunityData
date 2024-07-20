@@ -5,8 +5,8 @@ title: リリース
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1390 🔺|
-| ELO Competitive | 1423 🔺|
+| ELO Regular | 1390 🔺  (39)|
+| ELO Competitive | 1423 🔺  (63)|
 | Total Matches | 41 |
 | Wins | 32 |
 | Losses | 9 |

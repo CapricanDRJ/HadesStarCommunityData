@@ -5,8 +5,8 @@ title: Seila
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻|
-| ELO Competitive | 1188 🔻|
+| ELO Regular | 1184 🔻  (723)|
+| ELO Competitive | 1188 🔻  (651)|
 | Total Matches | 10 |
 | Wins | 4 |
 | Losses | 5 |

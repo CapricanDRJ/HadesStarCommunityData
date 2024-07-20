@@ -5,8 +5,8 @@ title: Omega Alpha
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1417 🔺|
-| ELO Competitive | 1438 🔺|
+| ELO Regular | 1417 🔺  (27)|
+| ELO Competitive | 1438 🔺  (54)|
 | Total Matches | 27 |
 | Wins | 24 |
 | Losses | 3 |

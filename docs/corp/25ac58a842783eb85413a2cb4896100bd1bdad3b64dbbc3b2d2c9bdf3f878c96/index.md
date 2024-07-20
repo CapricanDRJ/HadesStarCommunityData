@@ -5,8 +5,8 @@ title: 夢幻之星*分盟*
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1124 🔻|
-| ELO Competitive | 1140 🔻|
+| ELO Regular | 1124 🔻  (1055)|
+| ELO Competitive | 1140 🔻  (1082)|
 | Total Matches | 13 |
 | Wins | 2 |
 | Losses | 9 |

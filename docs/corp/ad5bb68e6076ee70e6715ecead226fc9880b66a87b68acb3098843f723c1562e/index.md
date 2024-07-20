@@ -5,8 +5,8 @@ title: Game of Stars
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1141 🔺|
-| ELO Competitive | 1165 🔺|
+| ELO Regular | 1141 🔺  (1005)|
+| ELO Competitive | 1165 🔺  (982)|
 | Total Matches | 24 |
 | Wins | 7 |
 | Losses | 17 |

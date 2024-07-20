@@ -5,8 +5,8 @@ title: Свободный флот
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1135 🔻|
-| ELO Competitive | 1353 🔻|
+| ELO Regular | 1135 🔻  (1031)|
+| ELO Competitive | 1353 🔻  (124)|
 | Total Matches | 58 |
 | Wins | 27 |
 | Losses | 30 |

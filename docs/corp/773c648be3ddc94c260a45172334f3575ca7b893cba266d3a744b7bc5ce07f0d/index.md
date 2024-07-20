@@ -5,8 +5,8 @@ title: O.P.S
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻|
-| ELO Competitive | 1186 🔻|
+| ELO Regular | 1186 🔻  (623)|
+| ELO Competitive | 1186 🔻  (735)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

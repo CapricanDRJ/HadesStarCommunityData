@@ -5,8 +5,8 @@ title: wyvern
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1195 🔺|
-| ELO Competitive | 1198 🔺|
+| ELO Regular | 1195 🔺  (488)|
+| ELO Competitive | 1198 🔺  (559)|
 | Total Matches | 5 |
 | Wins | 2 |
 | Losses | 3 |

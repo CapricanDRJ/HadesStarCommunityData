@@ -5,8 +5,8 @@ title: The Syndicate
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1341 🔺|
-| ELO Competitive | 1350 🔺|
+| ELO Regular | 1341 🔺  (71)|
+| ELO Competitive | 1350 🔺  (127)|
 | Total Matches | 14 |
 | Wins | 13 |
 | Losses | 1 |

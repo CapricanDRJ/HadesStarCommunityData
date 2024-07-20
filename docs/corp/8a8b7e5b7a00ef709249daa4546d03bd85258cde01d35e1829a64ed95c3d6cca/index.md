@@ -5,8 +5,8 @@ title: Lights Off
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1321 🔺|
-| ELO Competitive | 1350 🔺|
+| ELO Regular | 1321 🔺  (89)|
+| ELO Competitive | 1350 🔺  (128)|
 | Total Matches | 31 |
 | Wins | 23 |
 | Losses | 8 |

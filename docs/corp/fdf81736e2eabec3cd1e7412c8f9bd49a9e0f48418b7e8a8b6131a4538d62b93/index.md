@@ -5,8 +5,8 @@ title: The Visionaries
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1196 🔻|
-| ELO Competitive | 1196 🔻|
+| ELO Regular | 1196 🔻  (485)|
+| ELO Competitive | 1196 🔻  (573)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

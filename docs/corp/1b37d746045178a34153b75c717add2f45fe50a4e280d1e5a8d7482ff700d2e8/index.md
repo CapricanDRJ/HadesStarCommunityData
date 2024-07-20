@@ -5,8 +5,8 @@ title: brit boys
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1199 🔻|
-| ELO Competitive | 1199 🔻|
+| ELO Regular | 1199 🔻  (453)|
+| ELO Competitive | 1199 🔻  (547)|
 | Total Matches | 2 |
 | Wins | 1 |
 | Losses | 1 |

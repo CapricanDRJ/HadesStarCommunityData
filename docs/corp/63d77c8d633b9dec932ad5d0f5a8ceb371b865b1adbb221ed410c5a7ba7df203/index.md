@@ -5,8 +5,8 @@ title: Cerulean Star
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1225 🔻|
-| ELO Competitive | 1294 🔻|
+| ELO Regular | 1225 🔻  (298)|
+| ELO Competitive | 1294 🔻  (211)|
 | Total Matches | 37 |
 | Wins | 20 |
 | Losses | 17 |

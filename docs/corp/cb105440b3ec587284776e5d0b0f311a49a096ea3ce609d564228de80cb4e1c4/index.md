@@ -5,8 +5,8 @@ title: Black Nova
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1191 🔻|
-| ELO Competitive | 1192 🔻|
+| ELO Regular | 1191 🔻  (512)|
+| ELO Competitive | 1192 🔻  (596)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

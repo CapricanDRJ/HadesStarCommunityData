@@ -5,8 +5,8 @@ title: Кулак
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1003 🔻|
-| ELO Competitive | 1130 🔺|
+| ELO Regular | 1003 🔻  (1160)|
+| ELO Competitive | 1130 🔺  (1098)|
 | Total Matches | 49 |
 | Wins | 8 |
 | Losses | 41 |

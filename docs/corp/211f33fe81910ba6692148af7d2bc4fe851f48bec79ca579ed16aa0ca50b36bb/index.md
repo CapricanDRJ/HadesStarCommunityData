@@ -5,8 +5,8 @@ title: CommCody & LPA
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1230 🔻|
-| ELO Competitive | 1256 🔻|
+| ELO Regular | 1230 🔻  (276)|
+| ELO Competitive | 1256 🔻  (289)|
 | Total Matches | 22 |
 | Wins | 13 |
 | Losses | 9 |

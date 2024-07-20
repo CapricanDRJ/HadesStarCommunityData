@@ -5,8 +5,8 @@ title: OrderofTheGeon
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1138 🔻|
-| ELO Competitive | 1170 🔻|
+| ELO Regular | 1138 🔻  (1020)|
+| ELO Competitive | 1170 🔻  (955)|
 | Total Matches | 41 |
 | Wins | 18 |
 | Losses | 20 |

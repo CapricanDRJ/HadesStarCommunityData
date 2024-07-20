@@ -5,8 +5,8 @@ title: 星舰月球
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1433 🔺|
-| ELO Competitive | 1504 🔺|
+| ELO Regular | 1433 🔺  (21)|
+| ELO Competitive | 1504 🔺  (17)|
 | Total Matches | 37 |
 | Wins | 29 |
 | Losses | 8 |

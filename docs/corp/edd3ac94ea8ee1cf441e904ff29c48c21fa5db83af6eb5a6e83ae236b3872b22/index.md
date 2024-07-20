@@ -5,8 +5,8 @@ title: Osmium Star llc
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1313 🔺|
-| ELO Competitive | 1322 🔺|
+| ELO Regular | 1313 🔺  (101)|
+| ELO Competitive | 1322 🔺  (169)|
 | Total Matches | 9 |
 | Wins | 9 |
 | Losses | 0 |

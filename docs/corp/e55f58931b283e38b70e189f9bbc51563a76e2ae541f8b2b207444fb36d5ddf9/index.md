@@ -5,8 +5,8 @@ title: Cydonia Order
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1105 🔻|
-| ELO Competitive | 1120 🔻|
+| ELO Regular | 1105 🔻  (1090)|
+| ELO Competitive | 1120 🔻  (1107)|
 | Total Matches | 12 |
 | Wins | 2 |
 | Losses | 10 |

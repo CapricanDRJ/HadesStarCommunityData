@@ -5,8 +5,8 @@ title: Enigma
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1124 🔻|
-| ELO Competitive | 1152 🔻|
+| ELO Regular | 1124 🔻  (1054)|
+| ELO Competitive | 1152 🔻  (1041)|
 | Total Matches | 17 |
 | Wins | 5 |
 | Losses | 12 |

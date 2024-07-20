@@ -5,8 +5,8 @@ title: nuevo mundo
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1220 🔺|
-| ELO Competitive | 1238 🔺|
+| ELO Regular | 1220 🔺  (311)|
+| ELO Competitive | 1238 🔺  (340)|
 | Total Matches | 13 |
 | Wins | 6 |
 | Losses | 7 |

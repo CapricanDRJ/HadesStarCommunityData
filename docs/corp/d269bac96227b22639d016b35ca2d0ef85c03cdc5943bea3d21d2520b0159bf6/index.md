@@ -5,8 +5,8 @@ title: Back of the bus
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺|
-| ELO Competitive | 1216 🔺|
+| ELO Regular | 1216 🔺  (337)|
+| ELO Competitive | 1216 🔺  (433)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |

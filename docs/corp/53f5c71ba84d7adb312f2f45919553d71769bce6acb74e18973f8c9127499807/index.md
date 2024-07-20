@@ -5,8 +5,8 @@ title: 企鹅帝国
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1200 🔻|
-| ELO Competitive | 1200 🔻|
+| ELO Regular | 1200 🔻  (451)|
+| ELO Competitive | 1200 🔻  (544)|
 | Total Matches | 2 |
 | Wins | 1 |
 | Losses | 1 |

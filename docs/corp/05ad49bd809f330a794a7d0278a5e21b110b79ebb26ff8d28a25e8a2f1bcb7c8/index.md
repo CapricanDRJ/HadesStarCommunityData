@@ -5,8 +5,8 @@ title: Aeternae
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1113 🔻|
-| ELO Competitive | 1116 🔻|
+| ELO Regular | 1113 🔻  (1079)|
+| ELO Competitive | 1116 🔻  (1113)|
 | Total Matches | 7 |
 | Wins | 0 |
 | Losses | 7 |

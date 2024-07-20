@@ -5,8 +5,8 @@ title: Ender
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1458 🔺|
-| ELO Competitive | 1528 🔺|
+| ELO Regular | 1458 🔺  (16)|
+| ELO Competitive | 1528 🔺  (11)|
 | Total Matches | 53 |
 | Wins | 40 |
 | Losses | 13 |

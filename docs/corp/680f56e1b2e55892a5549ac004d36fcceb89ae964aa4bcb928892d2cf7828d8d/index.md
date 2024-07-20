@@ -5,8 +5,8 @@ title: Discordia
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻|
-| ELO Competitive | 1184 🔻|
+| ELO Regular | 1183 🔻  (732)|
+| ELO Competitive | 1184 🔻  (810)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

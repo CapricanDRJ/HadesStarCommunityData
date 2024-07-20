@@ -5,8 +5,8 @@ title: Survivors
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1123 🔻|
-| ELO Competitive | 1138 🔻|
+| ELO Regular | 1123 🔻  (1056)|
+| ELO Competitive | 1138 🔻  (1085)|
 | Total Matches | 16 |
 | Wins | 4 |
 | Losses | 11 |

@@ -5,8 +5,8 @@ title: 愿君仍常在
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻|
-| ELO Competitive | 1186 🔻|
+| ELO Regular | 1186 🔻  (605)|
+| ELO Competitive | 1186 🔻  (713)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

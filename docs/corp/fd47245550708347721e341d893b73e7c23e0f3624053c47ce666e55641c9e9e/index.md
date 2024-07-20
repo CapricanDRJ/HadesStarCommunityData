@@ -5,8 +5,8 @@ title: Nine's Own Goal
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1249 🔺|
-| ELO Competitive | 1280 🔺|
+| ELO Regular | 1249 🔺  (206)|
+| ELO Competitive | 1280 🔺  (237)|
 | Total Matches | 42 |
 | Wins | 26 |
 | Losses | 14 |

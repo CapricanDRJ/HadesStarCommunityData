@@ -5,8 +5,8 @@ title: Imperium of man
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻|
-| ELO Competitive | 1185 🔻|
+| ELO Regular | 1185 🔻  (642)|
+| ELO Competitive | 1185 🔻  (745)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

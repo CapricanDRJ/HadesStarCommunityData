@@ -5,8 +5,8 @@ title: Imperial Navy
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔻|
-| ELO Competitive | 1170 🔻|
+| ELO Regular | 1170 🔻  (873)|
+| ELO Competitive | 1170 🔻  (959)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

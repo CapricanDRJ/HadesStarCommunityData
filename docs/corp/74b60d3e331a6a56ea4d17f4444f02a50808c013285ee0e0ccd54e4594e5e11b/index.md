@@ -5,8 +5,8 @@ title: русь
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1303 🔻|
-| ELO Competitive | 1461 🔻|
+| ELO Regular | 1303 🔻  (119)|
+| ELO Competitive | 1461 🔻  (40)|
 | Total Matches | 69 |
 | Wins | 45 |
 | Losses | 24 |

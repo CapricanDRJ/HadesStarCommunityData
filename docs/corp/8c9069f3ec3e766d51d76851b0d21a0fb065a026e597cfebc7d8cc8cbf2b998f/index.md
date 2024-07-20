@@ -5,8 +5,8 @@ title: TheBasics
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1130 🔻|
-| ELO Competitive | 1338 🔻|
+| ELO Regular | 1130 🔻  (1043)|
+| ELO Competitive | 1338 🔻  (144)|
 | Total Matches | 64 |
 | Wins | 29 |
 | Losses | 34 |

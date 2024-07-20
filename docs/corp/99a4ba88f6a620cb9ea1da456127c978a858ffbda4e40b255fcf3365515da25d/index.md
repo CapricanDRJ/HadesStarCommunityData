@@ -5,8 +5,8 @@ title: Industrial W.O
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1212 🔺|
-| ELO Competitive | 1254 🔺|
+| ELO Regular | 1212 🔺  (385)|
+| ELO Competitive | 1254 🔺  (296)|
 | Total Matches | 42 |
 | Wins | 19 |
 | Losses | 22 |

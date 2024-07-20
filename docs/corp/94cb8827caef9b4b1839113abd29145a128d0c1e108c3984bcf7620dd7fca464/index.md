@@ -5,8 +5,8 @@ title: Outland Ind.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1388 🔺|
-| ELO Competitive | 1440 🔺|
+| ELO Regular | 1388 🔺  (41)|
+| ELO Competitive | 1440 🔺  (50)|
 | Total Matches | 41 |
 | Wins | 30 |
 | Losses | 11 |

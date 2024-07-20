@@ -5,8 +5,8 @@ title: Dahoam in AT
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻|
-| ELO Competitive | 1186 🔻|
+| ELO Regular | 1186 🔻  (595)|
+| ELO Competitive | 1186 🔻  (696)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

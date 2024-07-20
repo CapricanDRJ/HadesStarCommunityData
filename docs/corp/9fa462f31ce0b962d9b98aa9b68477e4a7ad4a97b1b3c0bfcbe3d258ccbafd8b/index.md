@@ -5,8 +5,8 @@ title: 新兴帝国
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1196 🔻|
-| ELO Competitive | 1200 🔻|
+| ELO Regular | 1196 🔻  (484)|
+| ELO Competitive | 1200 🔻  (543)|
 | Total Matches | 7 |
 | Wins | 3 |
 | Losses | 4 |

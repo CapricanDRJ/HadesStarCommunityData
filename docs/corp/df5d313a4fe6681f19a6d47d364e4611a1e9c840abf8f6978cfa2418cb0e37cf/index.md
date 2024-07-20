@@ -5,8 +5,8 @@ title: From the Fire
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻|
-| ELO Competitive | 1176 🔻|
+| ELO Regular | 1176 🔻  (784)|
+| ELO Competitive | 1176 🔻  (877)|
 | Total Matches | 6 |
 | Wins | 2 |
 | Losses | 4 |

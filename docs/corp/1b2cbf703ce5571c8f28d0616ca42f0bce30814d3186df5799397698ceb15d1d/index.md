@@ -5,8 +5,8 @@ title: DadCorp
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1228 🔻|
-| ELO Competitive | 1236 🔻|
+| ELO Regular | 1228 🔻  (284)|
+| ELO Competitive | 1236 🔻  (346)|
 | Total Matches | 6 |
 | Wins | 4 |
 | Losses | 2 |

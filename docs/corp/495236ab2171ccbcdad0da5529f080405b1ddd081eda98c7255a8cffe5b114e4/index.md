@@ -5,8 +5,8 @@ title: Jalisco México
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1089 🔻|
-| ELO Competitive | 1140 🔻|
+| ELO Regular | 1089 🔻  (1105)|
+| ELO Competitive | 1140 🔻  (1080)|
 | Total Matches | 40 |
 | Wins | 11 |
 | Losses | 25 |

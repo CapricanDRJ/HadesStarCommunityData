@@ -5,8 +5,8 @@ title: Celtic Imperium
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1137 🔻|
-| ELO Competitive | 1140 🔻|
+| ELO Regular | 1137 🔻  (1023)|
+| ELO Competitive | 1140 🔻  (1079)|
 | Total Matches | 8 |
 | Wins | 1 |
 | Losses | 6 |

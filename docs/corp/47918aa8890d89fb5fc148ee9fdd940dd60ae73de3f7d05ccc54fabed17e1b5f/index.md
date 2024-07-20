@@ -5,8 +5,8 @@ title: j g f h me t y 
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1146 🔻|
-| ELO Competitive | 1147 🔻|
+| ELO Regular | 1146 🔻  (987)|
+| ELO Competitive | 1147 🔻  (1056)|
 | Total Matches | 15 |
 | Wins | 5 |
 | Losses | 9 |

@@ -5,8 +5,8 @@ title: Red Suns
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1196 🔺|
-| ELO Competitive | 1236 🔺|
+| ELO Regular | 1196 🔺  (482)|
+| ELO Competitive | 1236 🔺  (345)|
 | Total Matches | 32 |
 | Wins | 15 |
 | Losses | 17 |

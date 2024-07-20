@@ -5,8 +5,8 @@ title: Battlestar Fr
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1196 🔻|
-| ELO Competitive | 1198 🔻|
+| ELO Regular | 1196 🔻  (481)|
+| ELO Competitive | 1198 🔻  (561)|
 | Total Matches | 8 |
 | Wins | 4 |
 | Losses | 4 |

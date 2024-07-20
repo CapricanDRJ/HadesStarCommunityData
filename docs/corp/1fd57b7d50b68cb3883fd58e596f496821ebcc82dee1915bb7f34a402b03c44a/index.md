@@ -5,8 +5,8 @@ title: Scar
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1309 🔺|
-| ELO Competitive | 1345 🔺|
+| ELO Regular | 1309 🔺  (109)|
+| ELO Competitive | 1345 🔺  (133)|
 | Total Matches | 41 |
 | Wins | 24 |
 | Losses | 16 |

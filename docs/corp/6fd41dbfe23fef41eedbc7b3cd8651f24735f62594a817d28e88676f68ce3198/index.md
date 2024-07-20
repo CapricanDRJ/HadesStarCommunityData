@@ -5,8 +5,8 @@ title: Toxic
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1138 🔻|
-| ELO Competitive | 1142 🔻|
+| ELO Regular | 1138 🔻  (1015)|
+| ELO Competitive | 1142 🔻  (1076)|
 | Total Matches | 7 |
 | Wins | 1 |
 | Losses | 6 |

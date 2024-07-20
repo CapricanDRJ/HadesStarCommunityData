@@ -5,8 +5,8 @@ title: R.S.F.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻|
-| ELO Competitive | 1171 🔻|
+| ELO Regular | 1171 🔻  (858)|
+| ELO Competitive | 1171 🔻  (947)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

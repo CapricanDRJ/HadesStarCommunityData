@@ -5,8 +5,8 @@ title: Ark Summit
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1326 🔺|
-| ELO Competitive | 1332 🔺|
+| ELO Regular | 1326 🔺  (86)|
+| ELO Competitive | 1332 🔺  (153)|
 | Total Matches | 10 |
 | Wins | 10 |
 | Losses | 0 |

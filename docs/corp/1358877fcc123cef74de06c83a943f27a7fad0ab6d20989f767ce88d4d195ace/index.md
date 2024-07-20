@@ -5,8 +5,8 @@ title: Повстанцы Хаоса
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1397 🔺|
-| ELO Competitive | 1432 🔺|
+| ELO Regular | 1397 🔺  (35)|
+| ELO Competitive | 1432 🔺  (57)|
 | Total Matches | 24 |
 | Wins | 20 |
 | Losses | 4 |

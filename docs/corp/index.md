@@ -143,7 +143,7 @@ title: Corporations
 | [Crucible ](./778178a7255ba7f4c8e2fdeb41fb777fb90ecf6e84a3ba79431f055f869521c6/index.md) | 1201 | 1201 | 2 |
 | [Crux Cadre](./41cdba59897d5e01412601b648c1a692368d92c198123f9ab442f2a23464b375/index.md) | 1262 | 1323 | 44 |
 | [CSI](./8943af3db9ef34a38f004d6f574b33784a179f4ee83d9a1f71e85b1d8700d315/index.md) | 1154 | 1154 | 6 |
-| [CTG](./9647a8507dfa5637a217d2d6a0ad47aefb6a4563f910ad46376c228450cff43c/index.md) | 1184 | 1207 | 22 |
+| [CTG](./9647a8507dfa5637a217d2d6a0ad47aefb6a4563f910ad46376c228450cff43c/index.md) | 1197 | 1220 | 23 |
 | [Curcubeu](./a2bdd69ff0d73fcdb3bd9461684b2951dd4df9009b7ea8eae1592efff76e3c59/index.md) | 1222 | 1314 | 27 |
 | [Curiosity \+ Cat](./c2982821577254a4ce2d996f53a2391f6f059ff79bbb14c29f9463269b4beebf/index.md) | 1146 | 1150 | 8 |
 | [Cyber Star](./358bbbde0af23c5f41cdb4fde95bb713989c7812b5a0358f7c34ecceca19916c/index.md) | 1375 | 1410 | 33 |
@@ -328,7 +328,7 @@ title: Corporations
 | [IMPERIAL ARMADA](./54b8724d96e9c022ab2907e45bead9f5b45b02fca093dc0fe5827f14644b2663/index.md) | 1428 | 1452 | 21 |
 | [IMPERIAL ARMADA](./41cdea87f9ff2286c6ced9f1d66d894b6b8bd6e3aecf795d77da2377b487bf07/index.md) | 1184 | 1185 | 1 |
 | [Imperial Navy](./0f445013f557b459e4493839746dd103be3ace2169b35acbafcb3550ae0da8c1/index.md) | 1170 | 1170 | 2 |
-| [imperio estelar](./c4c7de80ce172ac4cb77f23b5833bc20f87ea3f6e64ed09120b0e95113460bb4/index.md) | 1150 | 1154 | 4 |
+| [imperio estelar](./c4c7de80ce172ac4cb77f23b5833bc20f87ea3f6e64ed09120b0e95113460bb4/index.md) | 1136 | 1142 | 5 |
 | [Imperio Galacti](./95f1c11e4823279fa171bfd0e76a03db2e35eb4c88e28b70e51e83ff2d767d4c/index.md) | 1173 | 1173 | 2 |
 | [Imperio Lie Yan](./adfcb1528f44da89091917abd7726a804e7a69b59cbd176a77a408d4b2e81f9e/index.md) | 1211 | 1212 | 3 |
 | [Imperio Nova](./ec0e2d5a65f1b573cfd22d339ec3db6b1b3c0984f24a9b2f488ed14ace0634b7/index.md) | 1153 | 1158 | 3 |

@@ -5,8 +5,8 @@ title: Пабеда
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻|
-| ELO Competitive | 1186 🔻|
+| ELO Regular | 1185 🔻  (689)|
+| ELO Competitive | 1186 🔻  (737)|
 | Total Matches | 4 |
 | Wins | 1 |
 | Losses | 2 |

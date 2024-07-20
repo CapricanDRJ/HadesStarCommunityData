@@ -5,8 +5,8 @@ title: Solysis
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1137 🔻|
-| ELO Competitive | 1150 🔻|
+| ELO Regular | 1137 🔻  (1022)|
+| ELO Competitive | 1150 🔻  (1048)|
 | Total Matches | 10 |
 | Wins | 3 |
 | Losses | 7 |

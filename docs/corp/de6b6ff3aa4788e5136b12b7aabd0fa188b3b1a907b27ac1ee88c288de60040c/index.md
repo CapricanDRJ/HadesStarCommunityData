@@ -5,8 +5,8 @@ title: Global Elite
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻|
-| ELO Competitive | 1181 🔻|
+| ELO Regular | 1172 🔻  (823)|
+| ELO Competitive | 1181 🔻  (842)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

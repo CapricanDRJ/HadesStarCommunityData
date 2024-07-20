@@ -5,8 +5,8 @@ title: RUFORS
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1210 🔺|
-| ELO Competitive | 1213 🔺|
+| ELO Regular | 1210 🔺  (396)|
+| ELO Competitive | 1213 🔺  (461)|
 | Total Matches | 8 |
 | Wins | 4 |
 | Losses | 4 |

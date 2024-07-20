@@ -5,8 +5,8 @@ title: Uchiha
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1103 🔻|
-| ELO Competitive | 1181 🔻|
+| ELO Regular | 1103 🔻  (1092)|
+| ELO Competitive | 1181 🔻  (841)|
 | Total Matches | 16 |
 | Wins | 3 |
 | Losses | 12 |

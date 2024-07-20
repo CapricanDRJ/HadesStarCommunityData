@@ -5,8 +5,8 @@ title: ГОРИЗОНТ
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 985 🔺|
-| ELO Competitive | 1140 🔺|
+| ELO Regular | 985 🔺  (1166)|
+| ELO Competitive | 1140 🔺  (1078)|
 | Total Matches | 53 |
 | Wins | 8 |
 | Losses | 45 |

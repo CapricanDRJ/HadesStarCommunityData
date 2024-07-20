@@ -5,8 +5,8 @@ title: Quantum Web
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 🔺|
-| ELO Competitive | 1191 🔺|
+| ELO Regular | 1189 🔺  (530)|
+| ELO Competitive | 1191 🔺  (612)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 1 |

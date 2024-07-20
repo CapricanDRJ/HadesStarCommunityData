@@ -5,8 +5,8 @@ title: Winged Pheonix
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1166 🔺|
-| ELO Competitive | 1188 🔺|
+| ELO Regular | 1166 🔺  (899)|
+| ELO Competitive | 1188 🔺  (647)|
 | Total Matches | 11 |
 | Wins | 3 |
 | Losses | 8 |

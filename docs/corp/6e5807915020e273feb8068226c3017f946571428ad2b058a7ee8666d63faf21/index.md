@@ -5,8 +5,8 @@ title: Sussy Coloner
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1050 🔺|
-| ELO Competitive | 1148 🔺|
+| ELO Regular | 1050 🔺  (1141)|
+| ELO Competitive | 1148 🔺  (1054)|
 | Total Matches | 49 |
 | Wins | 10 |
 | Losses | 38 |

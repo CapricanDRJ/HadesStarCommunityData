@@ -5,8 +5,8 @@ title: Castellón
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 🔻|
-| ELO Competitive | 1203 🔻|
+| ELO Regular | 1201 🔻  (429)|
+| ELO Competitive | 1203 🔻  (501)|
 | Total Matches | 3 |
 | Wins | 1 |
 | Losses | 1 |

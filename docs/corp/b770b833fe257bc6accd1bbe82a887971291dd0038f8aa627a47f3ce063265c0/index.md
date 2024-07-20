@@ -5,8 +5,8 @@ title: ЧВК "Котики"
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1302 🔻|
-| ELO Competitive | 1340 🔻|
+| ELO Regular | 1302 🔻  (121)|
+| ELO Competitive | 1340 🔻  (140)|
 | Total Matches | 36 |
 | Wins | 20 |
 | Losses | 13 |

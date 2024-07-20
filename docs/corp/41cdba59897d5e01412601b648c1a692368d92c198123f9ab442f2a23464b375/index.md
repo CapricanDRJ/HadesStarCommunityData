@@ -5,8 +5,8 @@ title: Crux Cadre
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1262 🔺|
-| ELO Competitive | 1323 🔺|
+| ELO Regular | 1262 🔺  (174)|
+| ELO Competitive | 1323 🔺  (168)|
 | Total Matches | 44 |
 | Wins | 26 |
 | Losses | 17 |

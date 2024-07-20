@@ -5,8 +5,8 @@ title: CORE INFLICTION
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻|
-| ELO Competitive | 1187 🔻|
+| ELO Regular | 1187 🔻  (561)|
+| ELO Competitive | 1187 🔻  (670)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

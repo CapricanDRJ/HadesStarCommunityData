@@ -5,8 +5,8 @@ title: Ninth Planet
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1481 🔺|
-| ELO Competitive | 1508 🔺|
+| ELO Regular | 1481 🔺  (11)|
+| ELO Competitive | 1508 🔺  (16)|
 | Total Matches | 41 |
 | Wins | 37 |
 | Losses | 4 |

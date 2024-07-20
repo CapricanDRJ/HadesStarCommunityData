@@ -5,8 +5,8 @@ title: 德意志阿尔法帝国
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1203 🔻|
-| ELO Competitive | 1204 🔻|
+| ELO Regular | 1203 🔻  (417)|
+| ELO Competitive | 1204 🔻  (500)|
 | Total Matches | 2 |
 | Wins | 1 |
 | Losses | 1 |

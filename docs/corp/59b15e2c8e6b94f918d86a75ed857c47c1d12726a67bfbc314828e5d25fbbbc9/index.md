@@ -5,8 +5,8 @@ title: ..D.E.I.T.Co..
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔻|
-| ELO Competitive | 1200 🔻|
+| ELO Regular | 1190 🔻  (516)|
+| ELO Competitive | 1200 🔻  (526)|
 | Total Matches | 12 |
 | Wins | 6 |
 | Losses | 6 |

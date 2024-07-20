@@ -5,8 +5,8 @@ title: Galaktika corp
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1306 🔻|
-| ELO Competitive | 1327 🔻|
+| ELO Regular | 1306 🔻  (114)|
+| ELO Competitive | 1327 🔻  (159)|
 | Total Matches | 20 |
 | Wins | 14 |
 | Losses | 4 |

@@ -5,8 +5,8 @@ title: N7 Elite Forces
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1250 🔺|
-| ELO Competitive | 1252 🔺|
+| ELO Regular | 1250 🔺  (202)|
+| ELO Competitive | 1252 🔺  (303)|
 | Total Matches | 3 |
 | Wins | 3 |
 | Losses | 0 |

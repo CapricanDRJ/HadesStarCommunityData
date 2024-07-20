@@ -5,8 +5,8 @@ title: BRASIL ACADEMY
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1218 🔻|
-| ELO Competitive | 1219 🔻|
+| ELO Regular | 1218 🔻  (324)|
+| ELO Competitive | 1219 🔻  (403)|
 | Total Matches | 3 |
 | Wins | 2 |
 | Losses | 1 |

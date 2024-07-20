@@ -5,8 +5,8 @@ title: Int. Trading Co
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1300 🔻|
-| ELO Competitive | 1339 🔻|
+| ELO Regular | 1300 🔻  (123)|
+| ELO Competitive | 1339 🔻  (142)|
 | Total Matches | 26 |
 | Wins | 16 |
 | Losses | 9 |

@@ -5,8 +5,8 @@ title: SEC
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1268 🔺|
-| ELO Competitive | 1277 🔺|
+| ELO Regular | 1268 🔺  (165)|
+| ELO Competitive | 1277 🔺  (244)|
 | Total Matches | 5 |
 | Wins | 5 |
 | Losses | 0 |

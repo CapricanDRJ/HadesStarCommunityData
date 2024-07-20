@@ -5,8 +5,8 @@ title: Polaris Corpo
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1239 🔻|
-| ELO Competitive | 1254 🔻|
+| ELO Regular | 1239 🔻  (247)|
+| ELO Competitive | 1254 🔻  (294)|
 | Total Matches | 10 |
 | Wins | 7 |
 | Losses | 3 |

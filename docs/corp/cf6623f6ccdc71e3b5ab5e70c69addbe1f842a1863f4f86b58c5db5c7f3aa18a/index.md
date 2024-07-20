@@ -5,8 +5,8 @@ title: G.O.D
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻|
-| ELO Competitive | 1186 🔻|
+| ELO Regular | 1185 🔻  (692)|
+| ELO Competitive | 1186 🔻  (706)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

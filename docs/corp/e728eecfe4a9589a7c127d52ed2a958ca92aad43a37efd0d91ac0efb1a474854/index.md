@@ -5,8 +5,8 @@ title: Hun Avengers
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻|
-| ELO Competitive | 1288 🔻|
+| ELO Regular | 1181 🔻  (749)|
+| ELO Competitive | 1288 🔻  (220)|
 | Total Matches | 25 |
 | Wins | 12 |
 | Losses | 13 |

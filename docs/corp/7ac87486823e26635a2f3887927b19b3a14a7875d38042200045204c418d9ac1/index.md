@@ -5,8 +5,8 @@ title: Red Star Corp.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1090 🔺|
-| ELO Competitive | 1108 🔺|
+| ELO Regular | 1090 🔺  (1104)|
+| ELO Competitive | 1108 🔺  (1127)|
 | Total Matches | 20 |
 | Wins | 6 |
 | Losses | 14 |

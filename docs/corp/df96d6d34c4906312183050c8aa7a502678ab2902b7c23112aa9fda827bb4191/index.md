@@ -5,8 +5,8 @@ title: Spica​
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1391 🔺|
-| ELO Competitive | 1420 🔺|
+| ELO Regular | 1391 🔺  (38)|
+| ELO Competitive | 1420 🔺  (65)|
 | Total Matches | 40 |
 | Wins | 34 |
 | Losses | 5 |

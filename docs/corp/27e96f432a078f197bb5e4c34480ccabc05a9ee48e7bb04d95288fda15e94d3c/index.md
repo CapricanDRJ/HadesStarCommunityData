@@ -5,8 +5,8 @@ title: Últimafronteira
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1269 🔺|
-| ELO Competitive | 1265 🔺|
+| ELO Regular | 1269 🔺  (163)|
+| ELO Competitive | 1265 🔺  (267)|
 | Total Matches | 5 |
 | Wins | 5 |
 | Losses | 0 |

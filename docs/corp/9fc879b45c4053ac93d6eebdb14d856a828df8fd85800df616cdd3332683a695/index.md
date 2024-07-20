@@ -5,8 +5,8 @@ title: Free Thinkers 2
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 949 🔻|
-| ELO Competitive | 973 🔻|
+| ELO Regular | 949 🔻  (1173)|
+| ELO Competitive | 973 🔻  (1176)|
 | Total Matches | 46 |
 | Wins | 3 |
 | Losses | 42 |

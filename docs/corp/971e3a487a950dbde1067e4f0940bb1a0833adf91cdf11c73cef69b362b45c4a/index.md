@@ -5,8 +5,8 @@ title: 云浪度假村↕
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1140 🔺|
-| ELO Competitive | 1146 🔺|
+| ELO Regular | 1140 🔺  (1008)|
+| ELO Competitive | 1146 🔺  (1060)|
 | Total Matches | 9 |
 | Wins | 2 |
 | Losses | 6 |

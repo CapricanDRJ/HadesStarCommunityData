@@ -5,8 +5,8 @@ title: Panda clan
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1199 🔺|
-| ELO Competitive | 1202 🔺|
+| ELO Regular | 1199 🔺  (464)|
+| ELO Competitive | 1202 🔺  (508)|
 | Total Matches | 5 |
 | Wins | 2 |
 | Losses | 3 |

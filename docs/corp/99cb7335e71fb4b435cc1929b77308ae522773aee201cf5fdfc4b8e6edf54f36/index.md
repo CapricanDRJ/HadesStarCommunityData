@@ -5,8 +5,8 @@ title: TITANS
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1130 🔻|
-| ELO Competitive | 1143 🔻|
+| ELO Regular | 1130 🔻  (1042)|
+| ELO Competitive | 1143 🔻  (1074)|
 | Total Matches | 12 |
 | Wins | 3 |
 | Losses | 9 |

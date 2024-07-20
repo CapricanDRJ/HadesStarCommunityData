@@ -5,8 +5,8 @@ title: Sector7
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1144 🔻|
-| ELO Competitive | 1144 🔻|
+| ELO Regular | 1144 🔻  (997)|
+| ELO Competitive | 1144 🔻  (1069)|
 | Total Matches | 5 |
 | Wins | 0 |
 | Losses | 4 |

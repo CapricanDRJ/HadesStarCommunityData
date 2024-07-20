@@ -5,8 +5,8 @@ title: Oficina Tuga
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1070 🔻|
-| ELO Competitive | 1114 🔻|
+| ELO Regular | 1070 🔻  (1125)|
+| ELO Competitive | 1114 🔻  (1118)|
 | Total Matches | 34 |
 | Wins | 9 |
 | Losses | 25 |

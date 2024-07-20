@@ -5,8 +5,8 @@ title: Эдельвейс
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1156 🔻|
-| ELO Competitive | 1185 🔻|
+| ELO Regular | 1156 🔻  (952)|
+| ELO Competitive | 1185 🔻  (748)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 3 |

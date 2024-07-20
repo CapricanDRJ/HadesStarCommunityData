@@ -5,8 +5,8 @@ title: 001-23
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1066 🔻|
-| ELO Competitive | 1070 🔻|
+| ELO Regular | 1066 🔻  (1130)|
+| ELO Competitive | 1070 🔻  (1162)|
 | Total Matches | 11 |
 | Wins | 0 |
 | Losses | 11 |

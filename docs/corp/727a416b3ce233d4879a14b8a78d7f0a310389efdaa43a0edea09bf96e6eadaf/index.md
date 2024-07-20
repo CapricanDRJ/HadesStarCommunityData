@@ -5,8 +5,8 @@ title: Rocket-Babies
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻|
-| ELO Competitive | 1173 🔻|
+| ELO Regular | 1172 🔻  (831)|
+| ELO Competitive | 1173 🔻  (911)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

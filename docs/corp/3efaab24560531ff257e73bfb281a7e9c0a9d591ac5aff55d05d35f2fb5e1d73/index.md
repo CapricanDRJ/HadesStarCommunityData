@@ -5,8 +5,8 @@ title: CIS
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1419 🔻|
-| ELO Competitive | 1471 🔺|
+| ELO Regular | 1419 🔻  (26)|
+| ELO Competitive | 1471 🔺  (36)|
 | Total Matches | 33 |
 | Wins | 29 |
 | Losses | 4 |

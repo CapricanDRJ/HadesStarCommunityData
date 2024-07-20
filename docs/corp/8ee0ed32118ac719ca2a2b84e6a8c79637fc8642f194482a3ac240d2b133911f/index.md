@@ -5,8 +5,8 @@ title: Interstellar
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻|
-| ELO Competitive | 1336 🔺|
+| ELO Regular | 1172 🔻  (829)|
+| ELO Competitive | 1336 🔺  (147)|
 | Total Matches | 49 |
 | Wins | 23 |
 | Losses | 26 |

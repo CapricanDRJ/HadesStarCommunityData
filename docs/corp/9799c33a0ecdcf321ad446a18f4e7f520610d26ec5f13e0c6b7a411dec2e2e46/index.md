@@ -5,8 +5,8 @@ title: Weyland Yutani
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1138 🔺|
-| ELO Competitive | 1251 🔺|
+| ELO Regular | 1138 🔺  (1019)|
+| ELO Competitive | 1251 🔺  (304)|
 | Total Matches | 37 |
 | Wins | 12 |
 | Losses | 22 |

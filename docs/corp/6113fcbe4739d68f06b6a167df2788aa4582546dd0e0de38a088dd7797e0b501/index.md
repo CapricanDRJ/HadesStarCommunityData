@@ -5,8 +5,8 @@ title: 深空补给港
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1107 🔻|
-| ELO Competitive | 1150 🔻|
+| ELO Regular | 1107 🔻  (1088)|
+| ELO Competitive | 1150 🔻  (1047)|
 | Total Matches | 14 |
 | Wins | 2 |
 | Losses | 12 |

@@ -5,8 +5,8 @@ title: LOST PIRATES
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1131 🔻|
-| ELO Competitive | 1134 🔻|
+| ELO Regular | 1131 🔻  (1037)|
+| ELO Competitive | 1134 🔻  (1093)|
 | Total Matches | 5 |
 | Wins | 0 |
 | Losses | 5 |

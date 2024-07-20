@@ -5,8 +5,8 @@ title: Polish Pirates
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1245 🔻|
-| ELO Competitive | 1274 🔻|
+| ELO Regular | 1245 🔻  (220)|
+| ELO Competitive | 1274 🔻  (252)|
 | Total Matches | 26 |
 | Wins | 14 |
 | Losses | 12 |

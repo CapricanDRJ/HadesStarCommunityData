@@ -5,8 +5,8 @@ title: Space Pirates
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 977 🔻|
-| ELO Competitive | 1004 🔻|
+| ELO Regular | 977 🔻  (1169)|
+| ELO Competitive | 1004 🔻  (1174)|
 | Total Matches | 34 |
 | Wins | 5 |
 | Losses | 29 |

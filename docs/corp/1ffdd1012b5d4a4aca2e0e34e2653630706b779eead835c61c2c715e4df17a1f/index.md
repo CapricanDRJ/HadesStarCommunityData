@@ -5,8 +5,8 @@ title: Starsailors
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1360 🔺|
-| ELO Competitive | 1388 🔺|
+| ELO Regular | 1360 🔺  (54)|
+| ELO Competitive | 1388 🔺  (90)|
 | Total Matches | 27 |
 | Wins | 21 |
 | Losses | 6 |

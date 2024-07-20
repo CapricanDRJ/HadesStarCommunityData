@@ -5,8 +5,8 @@ title: The Borg
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻|
-| ELO Competitive | 1186 🔻|
+| ELO Regular | 1186 🔻  (627)|
+| ELO Competitive | 1186 🔻  (736)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

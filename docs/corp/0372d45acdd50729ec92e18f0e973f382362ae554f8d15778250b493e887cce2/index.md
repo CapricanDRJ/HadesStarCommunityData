@@ -5,8 +5,8 @@ title: CDG
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1143 🔻|
-| ELO Competitive | 1295 🔻|
+| ELO Regular | 1143 🔻  (1000)|
+| ELO Competitive | 1295 🔻  (207)|
 | Total Matches | 56 |
 | Wins | 24 |
 | Losses | 27 |

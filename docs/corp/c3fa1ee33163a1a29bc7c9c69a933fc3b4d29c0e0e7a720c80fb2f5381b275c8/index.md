@@ -5,8 +5,8 @@ title: МАРСЮКИ
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1505 🔺|
-| ELO Competitive | 1531 🔺|
+| ELO Regular | 1505 🔺  (4)|
+| ELO Competitive | 1531 🔺  (10)|
 | Total Matches | 31 |
 | Wins | 31 |
 | Losses | 0 |

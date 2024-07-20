@@ -5,8 +5,8 @@ title: Veil of Maya
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1224 🔻|
-| ELO Competitive | 1224 🔻|
+| ELO Regular | 1224 🔻  (302)|
+| ELO Competitive | 1224 🔻  (382)|
 | Total Matches | 6 |
 | Wins | 4 |
 | Losses | 2 |

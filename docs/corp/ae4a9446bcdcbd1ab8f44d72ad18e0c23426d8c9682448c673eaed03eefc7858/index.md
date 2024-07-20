@@ -5,8 +5,8 @@ title: /tmp
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1215 🔺|
-| ELO Competitive | 1217 🔺|
+| ELO Regular | 1215 🔺  (342)|
+| ELO Competitive | 1217 🔺  (421)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |

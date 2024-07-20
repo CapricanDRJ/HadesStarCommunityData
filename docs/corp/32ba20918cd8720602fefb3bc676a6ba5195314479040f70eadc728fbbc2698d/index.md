@@ -5,8 +5,8 @@ title: Star Destroyers
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1350 🔺|
-| ELO Competitive | 1385 🔺|
+| ELO Regular | 1350 🔺  (61)|
+| ELO Competitive | 1385 🔺  (92)|
 | Total Matches | 37 |
 | Wins | 22 |
 | Losses | 14 |

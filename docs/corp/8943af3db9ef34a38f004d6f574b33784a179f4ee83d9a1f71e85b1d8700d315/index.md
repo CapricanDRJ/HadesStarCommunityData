@@ -5,8 +5,8 @@ title: CSI
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1154 🔻|
-| ELO Competitive | 1154 🔻|
+| ELO Regular | 1154 🔻  (963)|
+| ELO Competitive | 1154 🔻  (1030)|
 | Total Matches | 6 |
 | Wins | 1 |
 | Losses | 5 |

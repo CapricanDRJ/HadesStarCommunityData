@@ -5,8 +5,8 @@ title: 心之所向
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔻|
-| ELO Competitive | 1238 🔻|
+| ELO Regular | 1238 🔻  (255)|
+| ELO Competitive | 1238 🔻  (339)|
 | Total Matches | 5 |
 | Wins | 4 |
 | Losses | 1 |

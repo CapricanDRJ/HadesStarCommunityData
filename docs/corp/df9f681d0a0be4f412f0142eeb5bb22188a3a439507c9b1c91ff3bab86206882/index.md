@@ -5,8 +5,8 @@ title: 盾牌座UY分团
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1156 🔻|
-| ELO Competitive | 1158 🔻|
+| ELO Regular | 1156 🔻  (951)|
+| ELO Competitive | 1158 🔻  (1018)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

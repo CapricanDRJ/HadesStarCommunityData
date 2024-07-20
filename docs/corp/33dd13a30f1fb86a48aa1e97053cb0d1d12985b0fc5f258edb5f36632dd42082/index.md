@@ -5,8 +5,8 @@ title: E.T.A
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1063 🔻|
-| ELO Competitive | 1182 🔺|
+| ELO Regular | 1063 🔻  (1132)|
+| ELO Competitive | 1182 🔺  (834)|
 | Total Matches | 28 |
 | Wins | 7 |
 | Losses | 21 |

@@ -5,8 +5,8 @@ title: The Goonies
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻|
-| ELO Competitive | 1194 🔻|
+| ELO Regular | 1169 🔻  (880)|
+| ELO Competitive | 1194 🔻  (580)|
 | Total Matches | 10 |
 | Wins | 3 |
 | Losses | 5 |

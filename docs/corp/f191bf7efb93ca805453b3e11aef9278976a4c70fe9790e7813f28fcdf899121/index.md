@@ -5,8 +5,8 @@ title: Dumpster Fire
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1095 🔺|
-| ELO Competitive | 1153 🔺|
+| ELO Regular | 1095 🔺  (1099)|
+| ELO Competitive | 1153 🔺  (1036)|
 | Total Matches | 46 |
 | Wins | 15 |
 | Losses | 31 |

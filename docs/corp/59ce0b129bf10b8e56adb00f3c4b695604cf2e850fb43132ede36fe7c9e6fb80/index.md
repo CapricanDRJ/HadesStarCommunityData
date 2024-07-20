@@ -5,8 +5,8 @@ title: Duchy Kalladan
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1213 🔺|
-| ELO Competitive | 1213 🔺|
+| ELO Regular | 1213 🔺  (370)|
+| ELO Competitive | 1213 🔺  (460)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |

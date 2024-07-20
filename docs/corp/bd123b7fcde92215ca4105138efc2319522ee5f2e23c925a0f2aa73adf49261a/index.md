@@ -5,8 +5,8 @@ title: Best
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻|
-| ELO Competitive | 1186 🔻|
+| ELO Regular | 1183 🔻  (731)|
+| ELO Competitive | 1186 🔻  (681)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

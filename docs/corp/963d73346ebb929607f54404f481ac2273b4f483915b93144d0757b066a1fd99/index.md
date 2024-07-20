@@ -5,8 +5,8 @@ title: Вселенские 40%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻|
-| ELO Competitive | 1235 🔻|
+| ELO Regular | 1186 🔻  (581)|
+| ELO Competitive | 1235 🔻  (348)|
 | Total Matches | 38 |
 | Wins | 18 |
 | Losses | 20 |

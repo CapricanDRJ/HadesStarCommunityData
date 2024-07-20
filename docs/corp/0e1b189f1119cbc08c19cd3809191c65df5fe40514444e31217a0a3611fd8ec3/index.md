@@ -5,8 +5,8 @@ title: Stars
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔻|
-| ELO Competitive | 1187 🔻|
+| ELO Regular | 1182 🔻  (746)|
+| ELO Competitive | 1187 🔻  (678)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

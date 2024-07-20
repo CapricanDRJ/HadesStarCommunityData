@@ -5,8 +5,8 @@ title: 以太超星团
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1049 🔻|
-| ELO Competitive | 1170 🔻|
+| ELO Regular | 1049 🔻  (1142)|
+| ELO Competitive | 1170 🔻  (956)|
 | Total Matches | 26 |
 | Wins | 3 |
 | Losses | 20 |

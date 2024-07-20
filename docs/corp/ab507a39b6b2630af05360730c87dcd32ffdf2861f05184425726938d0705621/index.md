@@ -5,8 +5,8 @@ title: Reservoid  Dogs
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻|
-| ELO Competitive | 1184 🔻|
+| ELO Regular | 1184 🔻  (697)|
+| ELO Competitive | 1184 🔻  (801)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

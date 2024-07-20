@@ -5,8 +5,8 @@ title: Croce del Sud
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1210 🔺|
-| ELO Competitive | 1230 🔺|
+| ELO Regular | 1210 🔺  (398)|
+| ELO Competitive | 1230 🔺  (362)|
 | Total Matches | 14 |
 | Wins | 7 |
 | Losses | 7 |

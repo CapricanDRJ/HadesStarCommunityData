@@ -5,8 +5,8 @@ title: Draco Ind.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺|
-| ELO Competitive | 1216 🔺|
+| ELO Regular | 1216 🔺  (336)|
+| ELO Competitive | 1216 🔺  (431)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |

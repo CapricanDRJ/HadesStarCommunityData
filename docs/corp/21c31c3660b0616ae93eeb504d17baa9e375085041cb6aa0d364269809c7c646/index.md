@@ -5,8 +5,8 @@ title: Relic Hunters
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺|
-| ELO Competitive | 1216 🔺|
+| ELO Regular | 1216 🔺  (339)|
+| ELO Competitive | 1216 🔺  (434)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |

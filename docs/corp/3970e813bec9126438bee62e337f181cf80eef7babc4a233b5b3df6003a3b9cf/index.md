@@ -5,8 +5,8 @@ title: Free Star
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1156 🔻|
-| ELO Competitive | 1202 🔻|
+| ELO Regular | 1156 🔻  (953)|
+| ELO Competitive | 1202 🔻  (506)|
 | Total Matches | 13 |
 | Wins | 5 |
 | Losses | 8 |

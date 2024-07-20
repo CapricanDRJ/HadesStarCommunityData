@@ -5,8 +5,8 @@ title: Metal Nova
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1229 🔺|
-| ELO Competitive | 1229 🔺|
+| ELO Regular | 1229 🔺  (279)|
+| ELO Competitive | 1229 🔺  (365)|
 | Total Matches | 2 |
 | Wins | 2 |
 | Losses | 0 |

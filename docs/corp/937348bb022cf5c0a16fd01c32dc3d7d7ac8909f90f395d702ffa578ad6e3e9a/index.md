@@ -5,8 +5,8 @@ title: @ncient £ibrary
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻|
-| ELO Competitive | 1186 🔻|
+| ELO Regular | 1185 🔻  (641)|
+| ELO Competitive | 1186 🔻  (718)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

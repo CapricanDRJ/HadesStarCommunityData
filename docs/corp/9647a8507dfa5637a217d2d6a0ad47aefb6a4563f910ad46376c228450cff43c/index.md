@@ -5,10 +5,10 @@ title: CTG
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻|
-| ELO Competitive | 1207 🔻|
-| Total Matches | 22 |
-| Wins | 9 |
+| ELO Regular | 1197 🔺  (471)|
+| ELO Competitive | 1220 🔺  (398)|
+| Total Matches | 23 |
+| Wins | 10 |
 | Losses | 13 |
 | Draws | 0 |
 | Streak Record | 5 |
@@ -23,6 +23,7 @@ title: CTG
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024-07-20 | 19-11 | [imperio estelar](https://ws.tsl.rocks/corp/c4c7de80ce172ac4cb77f23b5833bc20f87ea3f6e64ed09120b0e95113460bb4/) |
 | ❌ | 2024-07-12 | 0-25 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) |
 | ❌ | 2024-07-05 | 14-33 | [Дом Датэ](https://ws.tsl.rocks/corp/10cbcbd91c4084657bdab01ef573cc48170fbc4dd0ab533f96712f1cb6097ff2/) |
 | ✅ | 2024-06-28 | 15-5 | [Free Thinkers 2](https://ws.tsl.rocks/corp/9fc879b45c4053ac93d6eebdb14d856a828df8fd85800df616cdd3332683a695/) |

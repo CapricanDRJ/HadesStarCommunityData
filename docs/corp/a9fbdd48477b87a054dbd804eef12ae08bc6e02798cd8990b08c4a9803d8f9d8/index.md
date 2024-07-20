@@ -5,8 +5,8 @@ title: MÉXICO INFINITO
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1158 🔺|
-| ELO Competitive | 1254 🔺|
+| ELO Regular | 1158 🔺  (942)|
+| ELO Competitive | 1254 🔺  (293)|
 | Total Matches | 36 |
 | Wins | 15 |
 | Losses | 21 |

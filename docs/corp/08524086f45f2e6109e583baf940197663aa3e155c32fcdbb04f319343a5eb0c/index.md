@@ -5,8 +5,8 @@ title: Looping
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1307 🔻|
-| ELO Competitive | 1353 🔻|
+| ELO Regular | 1307 🔻  (112)|
+| ELO Competitive | 1353 🔻  (121)|
 | Total Matches | 33 |
 | Wins | 21 |
 | Losses | 12 |

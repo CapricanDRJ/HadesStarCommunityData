@@ -5,8 +5,8 @@ title: sk cz nebula
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1329 🔺|
-| ELO Competitive | 1352 🔺|
+| ELO Regular | 1329 🔺  (83)|
+| ELO Competitive | 1352 🔺  (125)|
 | Total Matches | 13 |
 | Wins | 11 |
 | Losses | 2 |

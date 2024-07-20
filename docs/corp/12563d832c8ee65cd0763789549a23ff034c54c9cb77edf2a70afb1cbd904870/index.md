@@ -5,8 +5,8 @@ title: Aurora Burning
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔺|
-| ELO Competitive | 1184 🔺|
+| ELO Regular | 1183 🔺  (735)|
+| ELO Competitive | 1184 🔺  (815)|
 | Total Matches | 5 |
 | Wins | 2 |
 | Losses | 3 |

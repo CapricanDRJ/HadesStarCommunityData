@@ -5,8 +5,8 @@ title: Cronos World
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻|
-| ELO Competitive | 1171 🔻|
+| ELO Regular | 1171 🔻  (839)|
+| ELO Competitive | 1171 🔻  (928)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

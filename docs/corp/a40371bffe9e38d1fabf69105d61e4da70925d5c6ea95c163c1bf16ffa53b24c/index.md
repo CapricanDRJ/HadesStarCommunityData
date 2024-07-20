@@ -5,8 +5,8 @@ title: MILIBARINOS
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 🔻|
-| ELO Competitive | 1190 🔻|
+| ELO Regular | 1189 🔻  (528)|
+| ELO Competitive | 1190 🔻  (625)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

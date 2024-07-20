@@ -5,8 +5,8 @@ title: Space Scourge
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1146 🔻|
-| ELO Competitive | 1149 🔻|
+| ELO Regular | 1146 🔻  (988)|
+| ELO Competitive | 1149 🔻  (1051)|
 | Total Matches | 8 |
 | Wins | 2 |
 | Losses | 6 |

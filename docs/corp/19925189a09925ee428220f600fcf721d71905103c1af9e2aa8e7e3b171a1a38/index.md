@@ -5,8 +5,8 @@ title: First Legion
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1242 🔻|
-| ELO Competitive | 1417 🔺|
+| ELO Regular | 1242 🔻  (235)|
+| ELO Competitive | 1417 🔺  (67)|
 | Total Matches | 68 |
 | Wins | 35 |
 | Losses | 32 |

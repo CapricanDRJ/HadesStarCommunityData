@@ -5,8 +5,8 @@ title: Team Rainbow
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1193 🔻|
-| ELO Competitive | 1198 🔻|
+| ELO Regular | 1193 🔻  (498)|
+| ELO Competitive | 1198 🔻  (556)|
 | Total Matches | 3 |
 | Wins | 1 |
 | Losses | 2 |

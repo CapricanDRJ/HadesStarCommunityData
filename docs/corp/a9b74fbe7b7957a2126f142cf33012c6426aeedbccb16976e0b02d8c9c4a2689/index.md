@@ -5,8 +5,8 @@ title: Heavens
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻|
-| ELO Competitive | 1189 🔻|
+| ELO Regular | 1188 🔻  (540)|
+| ELO Competitive | 1189 🔻  (641)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

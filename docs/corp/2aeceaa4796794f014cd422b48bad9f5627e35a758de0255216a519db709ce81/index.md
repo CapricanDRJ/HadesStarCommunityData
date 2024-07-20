@@ -5,8 +5,8 @@ title: Order of Hades
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1388 🔺|
-| ELO Competitive | 1475 🔺|
+| ELO Regular | 1388 🔺  (42)|
+| ELO Competitive | 1475 🔺  (32)|
 | Total Matches | 65 |
 | Wins | 49 |
 | Losses | 16 |

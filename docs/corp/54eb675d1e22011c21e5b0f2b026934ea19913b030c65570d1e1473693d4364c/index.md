@@ -5,8 +5,8 @@ title: 墨痕空域
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1269 🔺|
-| ELO Competitive | 1461 🔺|
+| ELO Regular | 1269 🔺  (161)|
+| ELO Competitive | 1461 🔺  (41)|
 | Total Matches | 44 |
 | Wins | 29 |
 | Losses | 15 |

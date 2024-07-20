@@ -5,8 +5,8 @@ title: Anarchy Nation
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1226 🔻|
-| ELO Competitive | 1234 🔻|
+| ELO Regular | 1226 🔻  (295)|
+| ELO Competitive | 1234 🔻  (349)|
 | Total Matches | 8 |
 | Wins | 5 |
 | Losses | 2 |

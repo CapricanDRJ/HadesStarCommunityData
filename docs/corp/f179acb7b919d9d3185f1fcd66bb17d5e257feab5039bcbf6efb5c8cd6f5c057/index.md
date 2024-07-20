@@ -5,8 +5,8 @@ title: Star Blazers
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1082 🔻|
-| ELO Competitive | 1126 🔻|
+| ELO Regular | 1082 🔻  (1116)|
+| ELO Competitive | 1126 🔻  (1103)|
 | Total Matches | 34 |
 | Wins | 10 |
 | Losses | 24 |

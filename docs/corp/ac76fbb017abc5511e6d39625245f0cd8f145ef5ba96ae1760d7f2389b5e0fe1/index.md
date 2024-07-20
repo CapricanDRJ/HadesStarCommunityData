@@ -5,8 +5,8 @@ title: ProyectCorp
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1140 🔻|
-| ELO Competitive | 1200 🔻|
+| ELO Regular | 1140 🔻  (1006)|
+| ELO Competitive | 1200 🔻  (528)|
 | Total Matches | 36 |
 | Wins | 15 |
 | Losses | 21 |

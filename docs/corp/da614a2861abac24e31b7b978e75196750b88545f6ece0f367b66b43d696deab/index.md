@@ -5,8 +5,8 @@ title: 联合宇宙
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1084 🔻|
-| ELO Competitive | 1129 🔻|
+| ELO Regular | 1084 🔻  (1114)|
+| ELO Competitive | 1129 🔻  (1099)|
 | Total Matches | 18 |
 | Wins | 4 |
 | Losses | 14 |

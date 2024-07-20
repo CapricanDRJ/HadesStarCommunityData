@@ -5,8 +5,8 @@ title: EZCO
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1219 🔻|
-| ELO Competitive | 1281 🔻|
+| ELO Regular | 1219 🔻  (315)|
+| ELO Competitive | 1281 🔻  (235)|
 | Total Matches | 27 |
 | Wins | 13 |
 | Losses | 13 |

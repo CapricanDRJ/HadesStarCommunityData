@@ -5,8 +5,8 @@ title: L.P.A.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1212 🔻|
-| ELO Competitive | 1219 🔻|
+| ELO Regular | 1212 🔻  (384)|
+| ELO Competitive | 1219 🔻  (405)|
 | Total Matches | 3 |
 | Wins | 2 |
 | Losses | 1 |

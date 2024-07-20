@@ -5,8 +5,8 @@ title: Rzeczypospolita
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1200 ▫️|
-| ELO Competitive | 1200 ▫️|
+| ELO Regular | 1200 ▫️  (438)|
+| ELO Competitive | 1200 ▫️  (529)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 0 |

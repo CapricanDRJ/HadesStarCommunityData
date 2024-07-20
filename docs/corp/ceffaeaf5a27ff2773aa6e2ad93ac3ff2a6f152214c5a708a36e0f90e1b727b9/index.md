@@ -5,8 +5,8 @@ title: Девчата
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1227 🔺|
-| ELO Competitive | 1228 🔺|
+| ELO Regular | 1227 🔺  (290)|
+| ELO Competitive | 1228 🔺  (368)|
 | Total Matches | 2 |
 | Wins | 2 |
 | Losses | 0 |

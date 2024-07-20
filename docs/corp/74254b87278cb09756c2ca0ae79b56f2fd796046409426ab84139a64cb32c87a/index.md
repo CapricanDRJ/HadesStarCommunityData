@@ -5,8 +5,8 @@ title: PERSEUS INC.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1210 🔺|
-| ELO Competitive | 1212 🔺|
+| ELO Regular | 1210 🔺  (397)|
+| ELO Competitive | 1212 🔺  (472)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |

@@ -5,8 +5,8 @@ title: 羽共和体
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1118 🔺|
-| ELO Competitive | 1197 🔺|
+| ELO Regular | 1118 🔺  (1068)|
+| ELO Competitive | 1197 🔺  (570)|
 | Total Matches | 29 |
 | Wins | 9 |
 | Losses | 17 |

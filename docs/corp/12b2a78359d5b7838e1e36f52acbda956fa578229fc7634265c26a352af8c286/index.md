@@ -5,8 +5,8 @@ title: SGC
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1213 🔺|
-| ELO Competitive | 1214 🔺|
+| ELO Regular | 1213 🔺  (377)|
+| ELO Competitive | 1214 🔺  (457)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |

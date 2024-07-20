@@ -5,8 +5,8 @@ title: the heavy
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1225 🔻|
-| ELO Competitive | 1246 🔻|
+| ELO Regular | 1225 🔻  (297)|
+| ELO Competitive | 1246 🔻  (314)|
 | Total Matches | 19 |
 | Wins | 10 |
 | Losses | 9 |

@@ -5,8 +5,8 @@ title: Lacuna Ind.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1076 🔻|
-| ELO Competitive | 1090 🔻|
+| ELO Regular | 1076 🔻  (1120)|
+| ELO Competitive | 1090 🔻  (1142)|
 | Total Matches | 24 |
 | Wins | 5 |
 | Losses | 18 |

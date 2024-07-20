@@ -5,8 +5,8 @@ title: 新纪元舰队
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1117 🔻|
-| ELO Competitive | 1153 🔻|
+| ELO Regular | 1117 🔻  (1069)|
+| ELO Competitive | 1153 🔻  (1033)|
 | Total Matches | 18 |
 | Wins | 4 |
 | Losses | 12 |

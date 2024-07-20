@@ -5,8 +5,8 @@ title: 八月政府
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1075 🔻|
-| ELO Competitive | 1103 🔻|
+| ELO Regular | 1075 🔻  (1122)|
+| ELO Competitive | 1103 🔻  (1132)|
 | Total Matches | 19 |
 | Wins | 2 |
 | Losses | 16 |

@@ -5,8 +5,8 @@ title: Thunderbears
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻|
-| ELO Competitive | 1178 🔻|
+| ELO Regular | 1173 🔻  (814)|
+| ELO Competitive | 1178 🔻  (853)|
 | Total Matches | 9 |
 | Wins | 3 |
 | Losses | 5 |

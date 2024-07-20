@@ -5,8 +5,8 @@ title: 德意志第三帝国BATA分部
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1213 🔺|
-| ELO Competitive | 1213 🔺|
+| ELO Regular | 1213 🔺  (374)|
+| ELO Competitive | 1213 🔺  (463)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |

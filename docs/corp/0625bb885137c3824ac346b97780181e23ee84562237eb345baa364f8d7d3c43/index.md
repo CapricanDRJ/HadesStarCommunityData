@@ -5,8 +5,8 @@ title: Moon Catchers
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 🔻|
-| ELO Competitive | 1204 🔻|
+| ELO Regular | 1165 🔻  (906)|
+| ELO Competitive | 1204 🔻  (497)|
 | Total Matches | 30 |
 | Wins | 13 |
 | Losses | 16 |

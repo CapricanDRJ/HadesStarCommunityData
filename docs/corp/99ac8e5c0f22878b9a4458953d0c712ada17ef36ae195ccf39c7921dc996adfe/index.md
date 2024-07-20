@@ -5,8 +5,8 @@ title: ZION
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1242 🔻|
-| ELO Competitive | 1318 🔻|
+| ELO Regular | 1242 🔻  (232)|
+| ELO Competitive | 1318 🔻  (175)|
 | Total Matches | 39 |
 | Wins | 23 |
 | Losses | 16 |

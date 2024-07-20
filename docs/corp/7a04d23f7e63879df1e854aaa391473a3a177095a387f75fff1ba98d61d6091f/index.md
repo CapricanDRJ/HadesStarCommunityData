@@ -5,8 +5,8 @@ title: StellarCorpIT
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1280 🔺|
-| ELO Competitive | 1296 🔺|
+| ELO Regular | 1280 🔺  (147)|
+| ELO Competitive | 1296 🔺  (206)|
 | Total Matches | 8 |
 | Wins | 7 |
 | Losses | 1 |

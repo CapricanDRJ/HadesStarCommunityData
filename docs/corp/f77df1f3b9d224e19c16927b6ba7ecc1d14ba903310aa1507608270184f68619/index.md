@@ -5,8 +5,8 @@ title: TearsWorld
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻|
-| ELO Competitive | 1184 🔻|
+| ELO Regular | 1184 🔻  (717)|
+| ELO Competitive | 1184 🔻  (814)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

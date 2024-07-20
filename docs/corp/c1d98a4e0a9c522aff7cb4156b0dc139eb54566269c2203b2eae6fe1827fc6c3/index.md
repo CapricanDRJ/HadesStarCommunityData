@@ -5,8 +5,8 @@ title: Brasil
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻|
-| ELO Competitive | 1192 🔻|
+| ELO Regular | 1186 🔻  (593)|
+| ELO Competitive | 1192 🔻  (598)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

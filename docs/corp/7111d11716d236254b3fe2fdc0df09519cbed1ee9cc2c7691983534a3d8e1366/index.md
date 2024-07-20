@@ -5,8 +5,8 @@ title: Gummibärenbande
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1055 🔻|
-| ELO Competitive | 1082 🔻|
+| ELO Regular | 1055 🔻  (1135)|
+| ELO Competitive | 1082 🔻  (1152)|
 | Total Matches | 18 |
 | Wins | 1 |
 | Losses | 17 |
