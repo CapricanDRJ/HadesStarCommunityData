@@ -5,7 +5,7 @@ title: 中华人民共和国
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1160 🔻  (926)|
+| ELO Regular | 1160 🔻  (927)|
 | ELO Competitive | 1162 🔻  (1003)|
 | Total Matches | 3 |
 | Wins | 0 |

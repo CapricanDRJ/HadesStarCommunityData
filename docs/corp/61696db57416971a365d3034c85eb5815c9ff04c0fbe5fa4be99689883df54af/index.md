@@ -5,7 +5,7 @@ title: Ƭιтαηѕ Ф тєʀʀσƦ
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1295 🔻  (127)|
+| ELO Regular | 1295 🔻  (126)|
 | ELO Competitive | 1355 🔺  (118)|
 | Total Matches | 26 |
 | Wins | 17 |

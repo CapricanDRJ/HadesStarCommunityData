@@ -6,7 +6,7 @@ title: SALTARDIS
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1154 🔻  (961)|
-| ELO Competitive | 1169 🔻  (965)|
+| ELO Competitive | 1169 🔻  (966)|
 | Total Matches | 8 |
 | Wins | 2 |
 | Losses | 6 |

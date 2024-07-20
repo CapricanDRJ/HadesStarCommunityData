@@ -6,7 +6,7 @@ title: Новый ЭДЭМ
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (688)|
-| ELO Competitive | 1185 🔻  (741)|
+| ELO Competitive | 1185 🔻  (742)|
 | Total Matches | 6 |
 | Wins | 2 |
 | Losses | 3 |

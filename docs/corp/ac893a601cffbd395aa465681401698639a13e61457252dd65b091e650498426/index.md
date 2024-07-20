@@ -5,8 +5,8 @@ title: Tycho Corp
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (789)|
-| ELO Competitive | 1176 🔻  (878)|
+| ELO Regular | 1176 🔻  (790)|
+| ELO Competitive | 1176 🔻  (879)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

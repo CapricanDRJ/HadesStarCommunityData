@@ -5,13 +5,12 @@ title: OntarioDawn
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1491 🔺  (8)|
-| ELO Competitive | 1498 🔺  (21)|
-| Total Matches | 37 |
+| ELO Regular | 1464 🔻  (14)|
+| ELO Competitive | 1472 🔻  (35)|
+| Total Matches | 38 |
 | Wins | 35 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
-| Streak | 11 |
 | Streak Record | 23 |
 
 ### Recurring Opponents
@@ -26,6 +25,7 @@ title: OntarioDawn
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/20 | 13-28 | [Tormenta](https://ws.tsl.rocks/corp/537807f41149f54b040d4f2bc983c7f1fbfa2242ec5566371330e4996e33a195/) |
 | ✅ | 2024/07/13 | 23-15 | [Grater T](https://ws.tsl.rocks/corp/2044ad2bb7831118aae299744191230a33d196c7997f9516a20c3d0a321ba669/) |
 | ✅ | 2024/07/06 | 30-5 | [Sternenflotte](https://ws.tsl.rocks/corp/c0e248ebf5fe5d7a10057e5c23341422b0d0bd0cc74c836d2d9835758cce6ec7/) |
 | ✅ | 2024/06/29 | 37-4 | [Pyke Syndicate](https://ws.tsl.rocks/corp/1761635d6aaf9c2caf7abc37130e2d9aa48e7b4cc753ae4b701fde4b48abd3e1/) |

@@ -5,7 +5,7 @@ title: StellaMysterium
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔺  (843)|
+| ELO Regular | 1171 🔺  (844)|
 | ELO Competitive | 1221 🔺  (392)|
 | Total Matches | 33 |
 | Wins | 14 |

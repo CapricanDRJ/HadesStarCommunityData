@@ -5,8 +5,8 @@ title: SpaceX
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 🔻  (907)|
-| ELO Competitive | 1169 🔻  (967)|
+| ELO Regular | 1165 🔻  (908)|
+| ELO Competitive | 1169 🔻  (968)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

@@ -6,7 +6,7 @@ title: Ark
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1439 🔻  (20)|
-| ELO Competitive | 1478 🔺  (30)|
+| ELO Competitive | 1478 🔺  (29)|
 | Total Matches | 44 |
 | Wins | 37 |
 | Losses | 6 |

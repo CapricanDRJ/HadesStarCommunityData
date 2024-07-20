@@ -5,8 +5,8 @@ title: Genesis Corp
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (883)|
-| ELO Competitive | 1171 🔻  (956)|
+| ELO Regular | 1169 🔻  (884)|
+| ELO Competitive | 1171 🔻  (957)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

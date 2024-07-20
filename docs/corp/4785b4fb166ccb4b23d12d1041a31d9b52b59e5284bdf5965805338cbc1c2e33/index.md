@@ -5,8 +5,8 @@ title: BlankBoosters
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔺  (792)|
-| ELO Competitive | 1182 🔺  (837)|
+| ELO Regular | 1175 🔺  (793)|
+| ELO Competitive | 1182 🔺  (838)|
 | Total Matches | 4 |
 | Wins | 1 |
 | Losses | 3 |

@@ -5,8 +5,8 @@ title: ReylZ
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔻  (868)|
-| ELO Competitive | 1175 🔻  (890)|
+| ELO Regular | 1170 🔻  (869)|
+| ELO Competitive | 1175 🔻  (891)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

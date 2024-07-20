@@ -6,7 +6,7 @@ title: Intercepter Inc
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔻  (701)|
-| ELO Competitive | 1184 🔻  (804)|
+| ELO Competitive | 1184 🔻  (805)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

@@ -5,7 +5,7 @@ title: 星河绮梦
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1303 🔺  (118)|
+| ELO Regular | 1303 🔺  (117)|
 | ELO Competitive | 1330 🔺  (154)|
 | Total Matches | 10 |
 | Wins | 9 |

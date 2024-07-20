@@ -5,7 +5,7 @@ title: СССР
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔺  (787)|
+| ELO Regular | 1176 🔺  (788)|
 | ELO Competitive | 1316 🔺  (181)|
 | Total Matches | 48 |
 | Wins | 24 |

@@ -5,8 +5,8 @@ title: Heavenly Star
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (855)|
-| ELO Competitive | 1171 🔻  (943)|
+| ELO Regular | 1171 🔻  (856)|
+| ELO Competitive | 1171 🔻  (944)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

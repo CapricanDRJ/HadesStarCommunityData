@@ -6,7 +6,7 @@ title: OPA
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1350 🔻  (63)|
-| ELO Competitive | 1375 🔻  (101)|
+| ELO Competitive | 1375 🔻  (102)|
 | Total Matches | 35 |
 | Wins | 26 |
 | Losses | 9 |

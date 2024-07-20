@@ -6,7 +6,7 @@ title: L.B.H.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔻  (573)|
-| ELO Competitive | 1187 🔻  (663)|
+| ELO Competitive | 1187 🔻  (664)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

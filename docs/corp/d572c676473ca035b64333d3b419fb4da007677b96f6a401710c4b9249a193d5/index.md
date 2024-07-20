@@ -5,7 +5,7 @@ title: Укр інтроверти
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1159 🔻  (932)|
+| ELO Regular | 1159 🔻  (933)|
 | ELO Competitive | 1162 🔻  (1001)|
 | Total Matches | 5 |
 | Wins | 1 |

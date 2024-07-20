@@ -5,8 +5,8 @@ title: Cell Division
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1159 🔻  (935)|
-| ELO Competitive | 1164 🔻  (992)|
+| ELO Regular | 1159 🔻  (936)|
+| ELO Competitive | 1164 🔻  (993)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

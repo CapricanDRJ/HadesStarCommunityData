@@ -6,7 +6,7 @@ title: Vermilion
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1152 🔻  (972)|
-| ELO Competitive | 1177 🔻  (861)|
+| ELO Competitive | 1177 🔻  (862)|
 | Total Matches | 7 |
 | Wins | 1 |
 | Losses | 5 |

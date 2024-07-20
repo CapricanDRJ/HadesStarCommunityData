@@ -5,7 +5,7 @@ title: Elite
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1158 🔻  (939)|
+| ELO Regular | 1158 🔻  (940)|
 | ELO Competitive | 1159 🔻  (1011)|
 | Total Matches | 5 |
 | Wins | 1 |

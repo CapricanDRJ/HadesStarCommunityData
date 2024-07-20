@@ -5,8 +5,8 @@ title: Foreshadowing
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (786)|
-| ELO Competitive | 1176 🔻  (870)|
+| ELO Regular | 1176 🔻  (787)|
+| ELO Competitive | 1176 🔻  (871)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

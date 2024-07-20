@@ -5,7 +5,7 @@ title: Vega Conflict
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1246 🔺  (218)|
+| ELO Regular | 1246 🔺  (219)|
 | ELO Competitive | 1262 🔺  (277)|
 | Total Matches | 12 |
 | Wins | 7 |

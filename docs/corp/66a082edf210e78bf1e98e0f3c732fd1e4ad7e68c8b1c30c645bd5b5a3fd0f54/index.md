@@ -6,7 +6,7 @@ title: Lexx
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔻  (714)|
-| ELO Competitive | 1184 🔻  (813)|
+| ELO Competitive | 1184 🔻  (814)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

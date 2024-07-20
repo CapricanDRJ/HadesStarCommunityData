@@ -5,10 +5,10 @@ title: Sich.ua
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1242 🔺  (236)|
-| ELO Competitive | 1374 🔺  (102)|
-| Total Matches | 32 |
-| Wins | 18 |
+| ELO Regular | 1259 🔺  (183)|
+| ELO Competitive | 1387 🔺  (93)|
+| Total Matches | 33 |
+| Wins | 19 |
 | Losses | 13 |
 | Draws | 1 |
 | Streak Record | 5 |
@@ -24,6 +24,7 @@ title: Sich.ua
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/20 | 18-0 | [Север РусКорп](https://ws.tsl.rocks/corp/39eeae12a2a5fead3330938b8f38c71aab465634b732303dad7b2a7d5f472004/) |
 | ↔️ | 2024/07/13 | 0-0 | [PDC](https://ws.tsl.rocks/corp/3cfc5c94fb18b34d3a1018bfbf6d4211d3cfb18ebb02bf7784cebc1e3627de4a/) |
 | ✅ | 2024/07/13 | 14-0 | [ZN•H2B](https://ws.tsl.rocks/corp/2db26f485dd1e772b0bf13ef6db7eb053b37270ef1e24804ebc12472adb0708d/) |
 | ✅ | 2024/07/06 | 8-1 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |

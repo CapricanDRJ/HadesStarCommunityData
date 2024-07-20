@@ -5,7 +5,7 @@ title: Red Dawn
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1296 🔺  (125)|
+| ELO Regular | 1296 🔺  (124)|
 | ELO Competitive | 1394 🔺  (83)|
 | Total Matches | 45 |
 | Wins | 27 |

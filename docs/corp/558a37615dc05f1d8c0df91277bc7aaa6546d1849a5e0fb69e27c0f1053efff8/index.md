@@ -6,7 +6,7 @@ title: hades' star
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (636)|
-| ELO Competitive | 1186 🔻  (686)|
+| ELO Competitive | 1186 🔻  (687)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 1 |

@@ -6,7 +6,7 @@ title: FirstAllegiance
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (600)|
-| ELO Competitive | 1186 🔻  (705)|
+| ELO Competitive | 1186 🔻  (706)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

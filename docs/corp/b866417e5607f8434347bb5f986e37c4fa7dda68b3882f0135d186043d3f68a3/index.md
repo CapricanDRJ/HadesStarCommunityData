@@ -5,7 +5,7 @@ title: VoidCorp
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1248 🔺  (213)|
+| ELO Regular | 1248 🔺  (214)|
 | ELO Competitive | 1285 🔺  (226)|
 | Total Matches | 39 |
 | Wins | 19 |

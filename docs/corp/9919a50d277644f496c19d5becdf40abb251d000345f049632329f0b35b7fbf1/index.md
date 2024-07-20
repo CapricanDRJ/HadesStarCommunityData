@@ -5,7 +5,7 @@ title: Unión latina
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1254 🔻  (200)|
+| ELO Regular | 1254 🔻  (201)|
 | ELO Competitive | 1321 🔻  (173)|
 | Total Matches | 44 |
 | Wins | 25 |

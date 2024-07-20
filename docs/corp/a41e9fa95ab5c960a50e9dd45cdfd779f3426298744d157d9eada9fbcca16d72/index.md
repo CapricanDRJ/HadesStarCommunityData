@@ -5,8 +5,8 @@ title: Death knight
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (864)|
-| ELO Competitive | 1185 🔻  (749)|
+| ELO Regular | 1171 🔻  (865)|
+| ELO Competitive | 1185 🔻  (750)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

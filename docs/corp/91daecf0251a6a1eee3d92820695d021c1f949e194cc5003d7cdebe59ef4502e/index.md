@@ -5,7 +5,7 @@ title: TROLL SQUAD
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1256 🔻  (192)|
+| ELO Regular | 1256 🔻  (193)|
 | ELO Competitive | 1261 🔻  (278)|
 | Total Matches | 16 |
 | Wins | 11 |

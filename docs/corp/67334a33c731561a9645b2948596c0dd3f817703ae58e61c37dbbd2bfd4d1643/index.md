@@ -6,7 +6,7 @@ title: WFOS
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (603)|
-| ELO Competitive | 1186 🔻  (704)|
+| ELO Competitive | 1186 🔻  (705)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

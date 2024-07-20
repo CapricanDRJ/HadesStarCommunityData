@@ -5,7 +5,7 @@ title: Серебряная орда
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1259 🔺  (184)|
+| ELO Regular | 1259 🔺  (185)|
 | ELO Competitive | 1464 🔺  (39)|
 | Total Matches | 71 |
 | Wins | 42 |

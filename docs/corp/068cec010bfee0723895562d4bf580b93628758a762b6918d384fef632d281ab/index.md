@@ -5,7 +5,7 @@ title: СОЮЗ
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1245 🔺  (222)|
+| ELO Regular | 1245 🔺  (223)|
 | ELO Competitive | 1259 🔺  (282)|
 | Total Matches | 10 |
 | Wins | 6 |

@@ -5,8 +5,8 @@ title: Rozen Family
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔻  (876)|
-| ELO Competitive | 1171 🔻  (946)|
+| ELO Regular | 1170 🔻  (877)|
+| ELO Competitive | 1171 🔻  (947)|
 | Total Matches | 4 |
 | Wins | 1 |
 | Losses | 3 |

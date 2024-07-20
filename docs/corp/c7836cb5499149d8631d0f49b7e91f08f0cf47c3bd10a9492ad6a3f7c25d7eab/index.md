@@ -6,7 +6,7 @@ title: Hellfire Club
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1239 🔺  (247)|
-| ELO Competitive | 1324 🔺  (166)|
+| ELO Competitive | 1324 🔺  (165)|
 | Total Matches | 52 |
 | Wins | 29 |
 | Losses | 23 |

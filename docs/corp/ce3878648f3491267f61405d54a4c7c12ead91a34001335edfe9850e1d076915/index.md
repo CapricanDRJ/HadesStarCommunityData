@@ -5,8 +5,8 @@ title: DESERT DEMONS
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (878)|
-| ELO Competitive | 1169 🔻  (964)|
+| ELO Regular | 1169 🔻  (879)|
+| ELO Competitive | 1169 🔻  (965)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

@@ -5,7 +5,7 @@ title: PDC
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1254 🔺  (201)|
+| ELO Regular | 1254 🔺  (202)|
 | ELO Competitive | 1271 🔺  (257)|
 | Total Matches | 21 |
 | Wins | 13 |

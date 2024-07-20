@@ -6,7 +6,7 @@ title: titan tv
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1091 🔺  (1103)|
-| ELO Competitive | 1189 🔺  (642)|
+| ELO Competitive | 1189 🔺  (643)|
 | Total Matches | 32 |
 | Wins | 9 |
 | Losses | 22 |

@@ -6,7 +6,7 @@ title: Vanu Centurions
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔻  (704)|
-| ELO Competitive | 1184 🔻  (807)|
+| ELO Competitive | 1184 🔻  (808)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

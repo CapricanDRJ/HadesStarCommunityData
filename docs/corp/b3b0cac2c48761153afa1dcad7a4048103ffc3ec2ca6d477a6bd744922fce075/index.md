@@ -5,8 +5,8 @@ title: Медведи
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1485 🔺  (9)|
-| ELO Competitive | 1492 🔺  (23)|
+| ELO Regular | 1485 🔺  (8)|
+| ELO Competitive | 1492 🔺  (22)|
 | Total Matches | 40 |
 | Wins | 36 |
 | Losses | 4 |

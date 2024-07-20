@@ -5,8 +5,8 @@ title: Serenity
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (848)|
-| ELO Competitive | 1171 🔻  (939)|
+| ELO Regular | 1171 🔻  (849)|
+| ELO Competitive | 1171 🔻  (940)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

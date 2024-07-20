@@ -5,11 +5,11 @@ title: Halcon español
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1307 🔻  (111)|
-| ELO Competitive | 1325 🔻  (164)|
-| Total Matches | 28 |
+| ELO Regular | 1291 🔻  (129)|
+| ELO Competitive | 1309 🔻  (187)|
+| Total Matches | 29 |
 | Wins | 20 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 0 |
 | Streak Record | 9 |
 
@@ -18,6 +18,7 @@ title: Halcon español
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/20 | 5-15 | [Север РусКорп](https://ws.tsl.rocks/corp/39eeae12a2a5fead3330938b8f38c71aab465634b732303dad7b2a7d5f472004/) |
 | ❌ | 2024/07/13 | 9-23 | [宇宙银河帝国](https://ws.tsl.rocks/corp/afb9817e45c3c79048d2be30be3b635704485d260ae7b474b579a019d56d3c2d/) |
 | ❌ | 2024/07/06 | 0-11 | [碧霄殿](https://ws.tsl.rocks/corp/7e12fd0fd0a01af1c797f73316b305a21078e46bd75758850438f20357276ebf/) |
 | ✅ | 2024/06/29 | 15-0 | [lesescargots](https://ws.tsl.rocks/corp/718c873931e9097064fd6ef580fe9d8761be712e0783e0b97d28344abd910623/) |

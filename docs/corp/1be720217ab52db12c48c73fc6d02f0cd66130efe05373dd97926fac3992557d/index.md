@@ -5,7 +5,7 @@ title: UAGC
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1243 🔻  (229)|
+| ELO Regular | 1243 🔻  (230)|
 | ELO Competitive | 1330 🔺  (156)|
 | Total Matches | 37 |
 | Wins | 21 |

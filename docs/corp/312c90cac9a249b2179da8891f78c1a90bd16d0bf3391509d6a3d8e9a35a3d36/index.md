@@ -5,7 +5,7 @@ title: United Stars
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1247 🔺  (217)|
+| ELO Regular | 1247 🔺  (218)|
 | ELO Competitive | 1303 🔺  (194)|
 | Total Matches | 38 |
 | Wins | 22 |

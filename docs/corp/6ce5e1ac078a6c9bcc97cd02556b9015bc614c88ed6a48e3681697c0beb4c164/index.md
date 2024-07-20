@@ -5,8 +5,8 @@ title: Saiyan Empire
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (797)|
-| ELO Competitive | 1183 🔻  (832)|
+| ELO Regular | 1175 🔻  (798)|
+| ELO Competitive | 1183 🔻  (833)|
 | Total Matches | 10 |
 | Wins | 4 |
 | Losses | 6 |

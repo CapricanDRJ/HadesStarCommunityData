@@ -5,7 +5,7 @@ title: Galactic Empire
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1294 🔻  (129)|
+| ELO Regular | 1294 🔻  (128)|
 | ELO Competitive | 1353 🔻  (122)|
 | Total Matches | 32 |
 | Wins | 20 |

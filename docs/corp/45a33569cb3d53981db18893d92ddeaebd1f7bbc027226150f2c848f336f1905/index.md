@@ -5,7 +5,7 @@ title: Bloodtide
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (836)|
+| ELO Regular | 1172 🔻  (837)|
 | ELO Competitive | 1369 🔻  (106)|
 | Total Matches | 68 |
 | Wins | 35 |

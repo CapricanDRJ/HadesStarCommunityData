@@ -5,7 +5,7 @@ title: SILVER TERRA
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1245 🔺  (223)|
+| ELO Regular | 1245 🔺  (224)|
 | ELO Competitive | 1257 🔺  (286)|
 | Total Matches | 16 |
 | Wins | 9 |

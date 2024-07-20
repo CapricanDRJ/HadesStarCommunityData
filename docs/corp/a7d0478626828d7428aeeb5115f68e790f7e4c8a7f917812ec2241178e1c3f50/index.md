@@ -6,7 +6,7 @@ title: Альянс
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1343 🔺  (69)|
-| ELO Competitive | 1380 🔺  (99)|
+| ELO Competitive | 1380 🔺  (100)|
 | Total Matches | 33 |
 | Wins | 25 |
 | Losses | 8 |

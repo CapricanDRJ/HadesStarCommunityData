@@ -5,7 +5,7 @@ title: Галактика Зла
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1245 🔺  (225)|
+| ELO Regular | 1245 🔺  (226)|
 | ELO Competitive | 1262 🔺  (275)|
 | Total Matches | 26 |
 | Wins | 12 |

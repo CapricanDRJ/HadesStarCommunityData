@@ -5,7 +5,7 @@ title: 🌪TORNADO
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔺  (726)|
+| ELO Regular | 1183 🔺  (727)|
 | ELO Competitive | 1209 🔺  (488)|
 | Total Matches | 17 |
 | Wins | 6 |

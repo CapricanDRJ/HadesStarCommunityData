@@ -6,7 +6,7 @@ title: Providence
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1321 🔺  (91)|
-| ELO Competitive | 1381 🔺  (97)|
+| ELO Competitive | 1381 🔺  (98)|
 | Total Matches | 38 |
 | Wins | 26 |
 | Losses | 12 |

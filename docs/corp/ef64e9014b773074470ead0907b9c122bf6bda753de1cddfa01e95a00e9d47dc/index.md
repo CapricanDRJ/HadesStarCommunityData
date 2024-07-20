@@ -5,7 +5,7 @@ title: Crazy Elite
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1160 🔻  (931)|
+| ELO Regular | 1160 🔻  (932)|
 | ELO Competitive | 1316 🔻  (180)|
 | Total Matches | 65 |
 | Wins | 26 |

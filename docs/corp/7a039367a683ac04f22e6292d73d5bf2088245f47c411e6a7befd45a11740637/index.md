@@ -5,8 +5,8 @@ title: Elite2.0
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔻  (890)|
-| ELO Competitive | 1183 🔻  (819)|
+| ELO Regular | 1168 🔻  (891)|
+| ELO Competitive | 1183 🔻  (820)|
 | Total Matches | 5 |
 | Wins | 1 |
 | Losses | 3 |

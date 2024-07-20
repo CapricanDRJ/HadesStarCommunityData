@@ -6,7 +6,7 @@ title: Drużyna B
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1189 🔻  (531)|
-| ELO Competitive | 1189 🔻  (634)|
+| ELO Competitive | 1189 🔻  (635)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

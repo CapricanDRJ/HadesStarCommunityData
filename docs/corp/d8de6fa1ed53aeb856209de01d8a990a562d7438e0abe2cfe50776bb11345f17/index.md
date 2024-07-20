@@ -6,7 +6,7 @@ title: 拆迁大队
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1087 🔻  (1108)|
-| ELO Competitive | 1176 🔻  (877)|
+| ELO Competitive | 1176 🔻  (878)|
 | Total Matches | 48 |
 | Wins | 15 |
 | Losses | 30 |

@@ -5,7 +5,7 @@ title: Dumpster Fire 2
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (828)|
+| ELO Regular | 1172 🔻  (829)|
 | ELO Competitive | 1365 🔻  (112)|
 | Total Matches | 77 |
 | Wins | 36 |

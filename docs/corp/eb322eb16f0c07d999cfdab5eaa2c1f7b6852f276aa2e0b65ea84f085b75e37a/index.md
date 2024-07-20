@@ -5,8 +5,8 @@ title: Sanctuary
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (753)|
-| ELO Competitive | 1186 🔻  (708)|
+| ELO Regular | 1181 🔻  (754)|
+| ELO Competitive | 1186 🔻  (709)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

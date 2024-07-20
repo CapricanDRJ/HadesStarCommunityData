@@ -5,7 +5,7 @@ title: Bacon Warriors
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1258 🔻  (186)|
+| ELO Regular | 1258 🔻  (187)|
 | ELO Competitive | 1295 🔻  (208)|
 | Total Matches | 24 |
 | Wins | 13 |

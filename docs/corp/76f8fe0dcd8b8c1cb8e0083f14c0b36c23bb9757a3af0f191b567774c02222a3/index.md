@@ -5,7 +5,7 @@ title: Bl@ck/Galaxy
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1295 🔺  (128)|
+| ELO Regular | 1295 🔺  (127)|
 | ELO Competitive | 1332 🔺  (151)|
 | Total Matches | 29 |
 | Wins | 15 |

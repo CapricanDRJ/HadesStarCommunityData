@@ -6,7 +6,7 @@ title: space eagles
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (594)|
-| ELO Competitive | 1186 🔻  (702)|
+| ELO Competitive | 1186 🔻  (703)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

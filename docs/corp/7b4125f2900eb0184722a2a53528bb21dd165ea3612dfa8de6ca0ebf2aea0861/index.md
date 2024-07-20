@@ -6,7 +6,7 @@ title: 萌新港
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (644)|
-| ELO Competitive | 1185 🔻  (749)|
+| ELO Competitive | 1185 🔻  (750)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 1 |

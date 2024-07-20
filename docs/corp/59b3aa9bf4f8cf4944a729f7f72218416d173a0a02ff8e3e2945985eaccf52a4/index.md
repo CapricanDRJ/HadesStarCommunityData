@@ -5,7 +5,7 @@ title: Anarchy G13
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1158 🔻  (941)|
+| ELO Regular | 1158 🔻  (942)|
 | ELO Competitive | 1158 🔻  (1019)|
 | Total Matches | 3 |
 | Wins | 0 |

@@ -5,8 +5,8 @@ title: the light
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔻  (745)|
-| ELO Competitive | 1184 🔻  (808)|
+| ELO Regular | 1182 🔻  (746)|
+| ELO Competitive | 1184 🔻  (809)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

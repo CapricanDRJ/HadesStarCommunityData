@@ -5,7 +5,7 @@ title: Free Ag3nts
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1245 🔺  (220)|
+| ELO Regular | 1245 🔺  (221)|
 | ELO Competitive | 1252 🔺  (300)|
 | Total Matches | 3 |
 | Wins | 3 |

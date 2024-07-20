@@ -5,8 +5,8 @@ title: Cowboys
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1163 🔻  (916)|
-| ELO Competitive | 1166 🔺  (979)|
+| ELO Regular | 1163 🔻  (917)|
+| ELO Competitive | 1166 🔺  (980)|
 | Total Matches | 18 |
 | Wins | 6 |
 | Losses | 9 |

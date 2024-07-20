@@ -5,8 +5,8 @@ title: Village of Evil
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔻  (872)|
-| ELO Competitive | 1185 🔻  (749)|
+| ELO Regular | 1170 🔻  (873)|
+| ELO Competitive | 1185 🔻  (750)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

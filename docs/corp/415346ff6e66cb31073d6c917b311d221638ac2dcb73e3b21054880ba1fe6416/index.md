@@ -6,7 +6,7 @@ title: Two kitties
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (644)|
-| ELO Competitive | 1185 🔻  (749)|
+| ELO Competitive | 1185 🔻  (750)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

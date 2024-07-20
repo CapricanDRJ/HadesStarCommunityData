@@ -6,7 +6,7 @@ title: OntarioDiligent
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔻  (571)|
-| ELO Competitive | 1187 🔻  (675)|
+| ELO Competitive | 1187 🔻  (676)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

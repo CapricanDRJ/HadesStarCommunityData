@@ -5,8 +5,8 @@ title: ⚜NOVA⚜
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (784)|
-| ELO Competitive | 1175 🔻  (884)|
+| ELO Regular | 1176 🔻  (785)|
+| ELO Competitive | 1175 🔻  (885)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

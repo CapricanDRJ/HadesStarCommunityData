@@ -6,7 +6,7 @@ title: Сибиряки
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔻  (707)|
-| ELO Competitive | 1184 🔻  (809)|
+| ELO Competitive | 1184 🔻  (810)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

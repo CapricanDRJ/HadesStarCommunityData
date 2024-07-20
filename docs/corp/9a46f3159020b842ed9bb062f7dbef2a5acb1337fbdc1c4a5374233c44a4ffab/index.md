@@ -5,7 +5,7 @@ title: Capibarius
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1259 🔺  (183)|
+| ELO Regular | 1259 🔺  (184)|
 | ELO Competitive | 1260 🔺  (280)|
 | Total Matches | 6 |
 | Wins | 5 |

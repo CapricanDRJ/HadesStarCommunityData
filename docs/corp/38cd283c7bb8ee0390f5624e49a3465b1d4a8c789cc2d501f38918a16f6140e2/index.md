@@ -5,7 +5,7 @@ title: [Blue*Nation]
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1468 🔺  (14)|
+| ELO Regular | 1468 🔺  (13)|
 | ELO Competitive | 1499 🔺  (20)|
 | Total Matches | 36 |
 | Wins | 30 |

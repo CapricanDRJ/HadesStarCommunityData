@@ -6,7 +6,7 @@ title: Red Dwarf
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔻  (559)|
-| ELO Competitive | 1187 🔻  (662)|
+| ELO Competitive | 1187 🔻  (663)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

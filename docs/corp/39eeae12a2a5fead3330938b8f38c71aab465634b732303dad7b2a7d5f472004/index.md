@@ -5,13 +5,12 @@ title: Север РусКорп
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1278 🔺  (147)|
-| ELO Competitive | 1308 🔺  (188)|
-| Total Matches | 20 |
-| Wins | 13 |
-| Losses | 7 |
+| ELO Regular | 1277 🔻  (147)|
+| ELO Competitive | 1324 🔺  (166)|
+| Total Matches | 22 |
+| Wins | 14 |
+| Losses | 8 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 5 |
 
 
@@ -19,6 +18,8 @@ title: Север РусКорп
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/20 | 0-18 | [Sich\.ua](https://ws.tsl.rocks/corp/9fcd6d7c4fe7f8e39acf48585dfe9c6d3d14edc7781fe8caf85618b3e98c685d/) |
+| ✅ | 2024/07/20 | 15-5 | [Halcon español](https://ws.tsl.rocks/corp/ab9c3038dcf2b019ba662007ab1e50b2d80e0eb8e7a65e57dd5260a6d2e80ff9/) |
 | ✅ | 2024/07/13 | 2-0 | [银星舰队SSF](https://ws.tsl.rocks/corp/c02d97cc37c082739a7828b6669ee67e2108bbf3d9f33628c650ced9fe04dd06/) |
 | ✅ | 2024/07/13 | 13-11 | [Kratos](https://ws.tsl.rocks/corp/1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b/) |
 | ❌ | 2024/07/05 | 3-4 | [MÉXICO INFINITO](https://ws.tsl.rocks/corp/a9fbdd48477b87a054dbd804eef12ae08bc6e02798cd8990b08c4a9803d8f9d8/) |
