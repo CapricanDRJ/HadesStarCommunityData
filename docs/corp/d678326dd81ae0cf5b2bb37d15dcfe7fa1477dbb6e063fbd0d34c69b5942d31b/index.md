@@ -28,7 +28,7 @@ title: Hungary First
 | ✅ | 2024-07-03 | 12-0 | [萌新的收留所](https://ws.tsl.rocks/corp/1dd3f70c959e32c27cb4c010162be3799b7c0732115d5c2b7ca5979f48b10f7f/) |
 | ✅ | 2024-06-19 | 6-1 | [The New Light](https://ws.tsl.rocks/corp/73c87b4394c7e44aa0fa6996ae32e7448f956391dac8b5d025da6019d3062cfc/) |
 | ✅ | 2024-06-05 | 8-0 | [Gold Star](https://ws.tsl.rocks/corp/4f4d16d4a152e144c7bddd46c7d63debbbd550fdae5fe720860a334546330de2/) |
-| ❌ | 2024-05-22 | 7-15 | [L.P.A.](https://ws.tsl.rocks/corp/fe807e994d6941c46300d24653a6bb63ea8082fbec1f8c6a2de46bdb797ae948/) |
+| ❌ | 2024-05-22 | 7-15 | [L\.P\.A\.](https://ws.tsl.rocks/corp/fe807e994d6941c46300d24653a6bb63ea8082fbec1f8c6a2de46bdb797ae948/) |
 | ✅ | 2024-05-11 | 5-0 | [深空补给港](https://ws.tsl.rocks/corp/6113fcbe4739d68f06b6a167df2788aa4582546dd0e0de38a088dd7797e0b501/) |
 | ❌ | 2024-04-03 | 7-9 | [●Black•Sails●](https://ws.tsl.rocks/corp/fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31/) |
 | ❌ | 2024-03-22 | 4-30 | [Lacuna X](https://ws.tsl.rocks/corp/fb10f33f3db17b99b0d227f17e7fde76ef067dc4a4bb4ae05e46c76d2e5e8ea1/) |

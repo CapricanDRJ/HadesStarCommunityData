@@ -24,6 +24,6 @@ title: 雪月永恒
 | ✅ | 2024-05-23 | 5-0 | [Cell Division](https://ws.tsl.rocks/corp/96327c86332b18b4c71b5cd26c1833c4d9f8e49c3a858f12be5be110a6aacc60/) |
 | ✅ | 2024-05-16 | 8-3 | [四季长春](https://ws.tsl.rocks/corp/cf0b11914dc18d8e669592ecfe191f115c4e5fdba09d130d260bb625b36a3179/) |
 | ✅ | 2024-05-06 | 10-6 | [解语者研究会](https://ws.tsl.rocks/corp/444a03ecd02c6388fe2328a85f5d3d21260884e4f52926078ca30880fe21c4dd/) |
-| ✅ | 2024-04-24 | 11-1 | [U.Y.E.U.](https://ws.tsl.rocks/corp/504f779e55c2d1bc5ff35b4540c0bb60421bd8bce70c3eb0caf45fd73915ec86/) |
+| ✅ | 2024-04-24 | 11-1 | [U\.Y\.E\.U\.](https://ws.tsl.rocks/corp/504f779e55c2d1bc5ff35b4540c0bb60421bd8bce70c3eb0caf45fd73915ec86/) |
 
 Corporation ID: 3b30781263716daadc217687009247bd0acb28c7eb4a8ebfe37daa11142622c2

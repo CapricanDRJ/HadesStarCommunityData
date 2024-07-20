@@ -25,7 +25,7 @@ title: 中国星系集团
 | ✅ | 2024-02-07 | 10-5 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) |
 | ✅ | 2024-02-07 | 16-3 | [TECH CO](https://ws.tsl.rocks/corp/49f9afe365665b0d622f99306a23e7a2ebd9cf7022ee79c25e08917977ab9d7a/) |
 | ✅ | 2024-02-02 | 11-4 | [Space Rangers](https://ws.tsl.rocks/corp/da0952db0de44e4eee72d9ffa2394d5818565c5c16d89a1313c6df07417f9fb3/) |
-| ✅ | 2024-01-04 | 17-0 | [ITA 2.0](https://ws.tsl.rocks/corp/4df750932663f0d0c51d8493908ca5cfcee13776b7c6644fa47ecda51fd0fb3f/) |
+| ✅ | 2024-01-04 | 17-0 | [ITA 2\.0](https://ws.tsl.rocks/corp/4df750932663f0d0c51d8493908ca5cfcee13776b7c6644fa47ecda51fd0fb3f/) |
 | ✅ | 2023-12-19 | 19-0 | [Orphans Of Kos](https://ws.tsl.rocks/corp/f4fc42714515d58b6fabb87fd87c01baadb59e219e725bfdc6cf70b21a292054/) |
 
 Corporation ID: 8521b52d3ab48b0685dcdae05e757436301fff9ecc1b4e9e96d1dba5736f894a

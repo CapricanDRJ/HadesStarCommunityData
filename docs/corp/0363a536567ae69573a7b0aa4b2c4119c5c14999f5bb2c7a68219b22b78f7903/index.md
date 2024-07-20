@@ -29,6 +29,6 @@ title: Forces of Light
 | ✅ | 2024-02-24 | 10-0 | [脉冲星际集团](https://ws.tsl.rocks/corp/a4c08cf63563563e9bfa1d35edb256e9bb8bcdca15103d646d2ff8ed9d17f480/) |
 | ✅ | 2024-02-14 | 7-2 | [红星超新星爆炸](https://ws.tsl.rocks/corp/004f2173a6d8f08e3ecf198c1d824992198a159f615534a227ee11de18606403/) |
 | ✅ | 2024-02-02 | 7-0 | [StargateCommand](https://ws.tsl.rocks/corp/b378193d0b158ce0513a666f0c19da1599421d036e3fd12c0f287d02cac78ccb/) |
-| ✅ | 2024-01-20 | 8-0 | [O.E.B.](https://ws.tsl.rocks/corp/b5582fa160e45f10e3d6e680da5adee9481d8253e7a2fff79e09d0ff90da961c/) |
+| ✅ | 2024-01-20 | 8-0 | [O\.E\.B\.](https://ws.tsl.rocks/corp/b5582fa160e45f10e3d6e680da5adee9481d8253e7a2fff79e09d0ff90da961c/) |
 
 Corporation ID: 0363a536567ae69573a7b0aa4b2c4119c5c14999f5bb2c7a68219b22b78f7903

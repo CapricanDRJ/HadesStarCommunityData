@@ -25,7 +25,7 @@ title: 星光禁卫
 | ↔️ | 2023-12-25 | 3-3 | [Dark Sun](https://ws.tsl.rocks/corp/41ffd72a8eba70ea3f7f69ce602194b0ee84c7e65be6d2e08b87181de24cc9cf/) |
 | ❌ | 2023-12-13 | 1-5 | [神仙'](https://ws.tsl.rocks/corp/2a865ec8658a1843c5442405aa7be1fd9e44cf058568802ca1de6610499fa973/) |
 | ❌ | 2023-12-07 | 3-21 | [Lacuna X](https://ws.tsl.rocks/corp/fb10f33f3db17b99b0d227f17e7fde76ef067dc4a4bb4ae05e46c76d2e5e8ea1/) |
-| ❌ | 2023-11-29 | 1-3 | [CAEDRUS [<o>]](https://ws.tsl.rocks/corp/b3c982613964d8287b8f57e57ececf5b9497766670fc306d9827c85fbcdb2887/) |
+| ❌ | 2023-11-29 | 1-3 | [CAEDRUS \[<o\>\]](https://ws.tsl.rocks/corp/b3c982613964d8287b8f57e57ececf5b9497766670fc306d9827c85fbcdb2887/) |
 | ❌ | 2023-11-09 | 1-4 | [STARBLAZER ](https://ws.tsl.rocks/corp/f7649968be86f892b511b45792945c0b5d262c5322586eba7482c3d61e28ac72/) |
 
 Corporation ID: 8a3e5d55227ad679805b549aca87a2bc5acb1215ccd2af913592418385eccd25
