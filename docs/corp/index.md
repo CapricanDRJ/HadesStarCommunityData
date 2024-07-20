@@ -5,38 +5,6 @@ title: Corporations
 
 | Corporation Name | ELO Regular | ELO Competitive | Total Matches |
 | --- | --- | --- | --- |
-| [  边界  ](./86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a/index.md) | 1247 | 1257 | 5 |
-| [ brazil com.](./c851ad887c2806fe403be8e255ff6af2d808bc288a531a14ee41ab4613b95d32/index.md) | 1186 | 1186 | 1 |
-| [ Eligius ](./13948b7eb67a9511aa63c250d6c965b3e15d71e2641d5909b11917a199e8312e/index.md) | 1190 | 1190 | 3 |
-| [ RELAX CZ/SK](./051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/index.md) | 1366 | 1476 | 71 |
-| [ 墨痕 ](./1beef0498f07b07217c6e0727dffd066947edc54ee6d09dc63c031def52cdd60/index.md) | 1149 | 1207 | 18 |
-| [ 星空漫游者-GR](./4c0218d564bcccb3d451212b7c22ebb3c4bead385379deb4aae2d816d2521a0e/index.md) | 1234 | 1236 | 4 |
-| ["ПОБЕДА"](./6e278fab01265655262e413d267a6cf9ac06840a6e4ee0a61cd5662657f2bab0/index.md) | 1185 | 1185 | 1 |
-| [(_(_Vossk_)_)](./6db23201f00670abe532f02a8fc28e109f95d673ef31ca1df7362c0a6c45dd2f/index.md) | 1179 | 1210 | 24 |
-| [(◉▼◉ ﾐ )Э](./ff260806dfd902a39d33cf55e8b36e8cc2b3a524c9f784587dc1d258e8d23d66/index.md) | 1173 | 1175 | 2 |
-| [(◉▼◉ ﾐﾐ )Э](./8ba26f596dc181d06b0648ccdfde2221224f1e25953f9f784e348da6c54cf3f1/index.md) | 1188 | 1188 | 1 |
-| [*Alfa y Omega*](./b1da3a2265efd2266a8e4b5698a731ae179d00e431ee748d7bee62a1357a12ed/index.md) | 1252 | 1268 | 9 |
-| [*ПОБЕДА*](./c9344587a3a2eebd04e53ff77956ff301455851bee490e93f5b62d94bf0a6cb1/index.md) | 1216 | 1216 | 3 |
-| [*СССР*](./65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/index.md) | 1256 | 1300 | 37 |
-| [-=Содружество=-](./a9493d38afc250d1f8288ca320eb0e5fb1263b1854737d813cdbf575c0e0e2d3/index.md) | 1291 | 1310 | 27 |
-| [..D.E.I.T.Co..](./59b15e2c8e6b94f918d86a75ed857c47c1d12726a67bfbc314828e5d25fbbbc9/index.md) | 1190 | 1200 | 12 |
-| [/tmp](./ae4a9446bcdcbd1ab8f44d72ad18e0c23426d8c9682448c673eaed03eefc7858/index.md) | 1215 | 1217 | 1 |
-| [001-23](./790662c2084ccccfc01b7d1639992198be537b4040c21dae0a20e650e0667ffc/index.md) | 1066 | 1070 | 11 |
-| [101](./6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/index.md) | 1150 | 1402 | 83 |
-| [111](./8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350/index.md) | 1385 | 1514 | 60 |
-| [11th Engineers](./7341e9a33a1baf2162870c795632dcd551d3c624b06456dac041fa049ba67a9a/index.md) | 1128 | 1198 | 12 |
-| [1st/Ave/Junkie2](./b129b678cd83374fa72b5da92172ff1c856b8f72c32bcdb4711d66d06528fca1/index.md) | 1176 | 1194 | 37 |
-| [27rus](./923fd2244430f309d52a73ea98d10efde744e908940809f2b3c2b7b456e7082a/index.md) | 1185 | 1185 | 1 |
-| [2ND-R8 Corp.](./e97866623598a98454b3a4724b472dc171f5e1aff84b076c43d021f0fabdc702/index.md) | 1288 | 1340 | 33 |
-| [42 Nova Corps.](./f23f0f9a670677d71fc1cccd95cfd1aeb1d42fe727ee0443726c38449283347e/index.md) | 1210 | 1211 | 3 |
-| [63SALVADORES36](./ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/index.md) | 1173 | 1176 | 2 |
-| [666](./73c85bc4afbc97eb34c80ffca01f209245cad5abd35ba7ee20994ab748794e2d/index.md) | 1177 | 1177 | 2 |
-| [8 русский рейх](./8e7c8e4fc8fc755c723fafd3a9584dacda0f5a2eb4b800d5e8d379d664da2a44/index.md) | 1222 | 1222 | 1 |
-| [9-Й СКОРПИОН](./5ad79ec30d5d805635609e2b1e1cf5f399486c1d57f6101cb6015afbd50f5913/index.md) | 1398 | 1440 | 30 |
-| [<a>超越®</a>光速℡](./771c827eb591813e3b88ff38b0031d09519b0f3d5fe01666aa4711bfd5052857/index.md) | 1284 | 1326 | 21 |
-| [<•|•>](./a3864fad7e4ba08611eda264a7934afe237a2f313a23b12dcce9db0a96a09daf/index.md) | 1180 | 1187 | 3 |
-| [@ncient £ibrary](./937348bb022cf5c0a16fd01c32dc3d7d7ac8909f90f395d702ffa578ad6e3e9a/index.md) | 1185 | 1186 | 1 |
-| [[Blue*Nation]](./38cd283c7bb8ee0390f5624e49a3465b1d4a8c789cc2d501f38918a16f6140e2/index.md) | 1468 | 1499 | 36 |
 | [AAAA](./73b759d7c9218f2c1171f9ef691739331ca36ee045039f4f3f935a47b6622a27/index.md) | 1180 | 1203 | 6 |
 | [Aconitum](./a78154f5b970193636f3d13d3f6d3dd98e975ba876810f1bfb84c90e778986db/index.md) | 1213 | 1214 | 1 |
 | [Aegis Shield](./0c9788075ccdc94322bb96f7d98b4a8df010615893980ab0b4e5b7a987b13732/index.md) | 1126 | 1138 | 9 |
@@ -894,6 +862,38 @@ title: Corporations
 | [ZORG IND](./61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/index.md) | 1222 | 1229 | 3 |
 | [Zvezdec](./7bce2af674b8fb313f43e497201ad86b230571cc3e200f44132be528eb4076d9/index.md) | 1318 | 1399 | 43 |
 | [ZZZ-V](./9e6f878b03a3ca661f5eafaa5af01e7887971828fb622693b1a9704cec4f2403/index.md) | 1237 | 1238 | 4 |
+| [001-23](./790662c2084ccccfc01b7d1639992198be537b4040c21dae0a20e650e0667ffc/index.md) | 1066 | 1070 | 11 |
+| [101](./6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/index.md) | 1150 | 1402 | 83 |
+| [111](./8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350/index.md) | 1385 | 1514 | 60 |
+| [11th Engineers](./7341e9a33a1baf2162870c795632dcd551d3c624b06456dac041fa049ba67a9a/index.md) | 1128 | 1198 | 12 |
+| [1st/Ave/Junkie2](./b129b678cd83374fa72b5da92172ff1c856b8f72c32bcdb4711d66d06528fca1/index.md) | 1176 | 1194 | 37 |
+| [27rus](./923fd2244430f309d52a73ea98d10efde744e908940809f2b3c2b7b456e7082a/index.md) | 1185 | 1185 | 1 |
+| [2ND-R8 Corp.](./e97866623598a98454b3a4724b472dc171f5e1aff84b076c43d021f0fabdc702/index.md) | 1288 | 1340 | 33 |
+| [42 Nova Corps.](./f23f0f9a670677d71fc1cccd95cfd1aeb1d42fe727ee0443726c38449283347e/index.md) | 1210 | 1211 | 3 |
+| [63SALVADORES36](./ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/index.md) | 1173 | 1176 | 2 |
+| [666](./73c85bc4afbc97eb34c80ffca01f209245cad5abd35ba7ee20994ab748794e2d/index.md) | 1177 | 1177 | 2 |
+| [8 русский рейх](./8e7c8e4fc8fc755c723fafd3a9584dacda0f5a2eb4b800d5e8d379d664da2a44/index.md) | 1222 | 1222 | 1 |
+| [9-Й СКОРПИОН](./5ad79ec30d5d805635609e2b1e1cf5f399486c1d57f6101cb6015afbd50f5913/index.md) | 1398 | 1440 | 30 |
+| [  边界  ](./86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a/index.md) | 1247 | 1257 | 5 |
+| [ brazil com.](./c851ad887c2806fe403be8e255ff6af2d808bc288a531a14ee41ab4613b95d32/index.md) | 1186 | 1186 | 1 |
+| [ Eligius ](./13948b7eb67a9511aa63c250d6c965b3e15d71e2641d5909b11917a199e8312e/index.md) | 1190 | 1190 | 3 |
+| [ RELAX CZ/SK](./051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/index.md) | 1366 | 1476 | 71 |
+| [ 墨痕 ](./1beef0498f07b07217c6e0727dffd066947edc54ee6d09dc63c031def52cdd60/index.md) | 1149 | 1207 | 18 |
+| [ 星空漫游者-GR](./4c0218d564bcccb3d451212b7c22ebb3c4bead385379deb4aae2d816d2521a0e/index.md) | 1234 | 1236 | 4 |
+| ["ПОБЕДА"](./6e278fab01265655262e413d267a6cf9ac06840a6e4ee0a61cd5662657f2bab0/index.md) | 1185 | 1185 | 1 |
+| [(_(_Vossk_)_)](./6db23201f00670abe532f02a8fc28e109f95d673ef31ca1df7362c0a6c45dd2f/index.md) | 1179 | 1210 | 24 |
+| [(◉▼◉ ﾐ )Э](./ff260806dfd902a39d33cf55e8b36e8cc2b3a524c9f784587dc1d258e8d23d66/index.md) | 1173 | 1175 | 2 |
+| [(◉▼◉ ﾐﾐ )Э](./8ba26f596dc181d06b0648ccdfde2221224f1e25953f9f784e348da6c54cf3f1/index.md) | 1188 | 1188 | 1 |
+| [*Alfa y Omega*](./b1da3a2265efd2266a8e4b5698a731ae179d00e431ee748d7bee62a1357a12ed/index.md) | 1252 | 1268 | 9 |
+| [*ПОБЕДА*](./c9344587a3a2eebd04e53ff77956ff301455851bee490e93f5b62d94bf0a6cb1/index.md) | 1216 | 1216 | 3 |
+| [*СССР*](./65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/index.md) | 1256 | 1300 | 37 |
+| [-=Содружество=-](./a9493d38afc250d1f8288ca320eb0e5fb1263b1854737d813cdbf575c0e0e2d3/index.md) | 1291 | 1310 | 27 |
+| [..D.E.I.T.Co..](./59b15e2c8e6b94f918d86a75ed857c47c1d12726a67bfbc314828e5d25fbbbc9/index.md) | 1190 | 1200 | 12 |
+| [/tmp](./ae4a9446bcdcbd1ab8f44d72ad18e0c23426d8c9682448c673eaed03eefc7858/index.md) | 1215 | 1217 | 1 |
+| [<a>超越®</a>光速℡](./771c827eb591813e3b88ff38b0031d09519b0f3d5fe01666aa4711bfd5052857/index.md) | 1284 | 1326 | 21 |
+| [<•|•>](./a3864fad7e4ba08611eda264a7934afe237a2f313a23b12dcce9db0a96a09daf/index.md) | 1180 | 1187 | 3 |
+| [@ncient £ibrary](./937348bb022cf5c0a16fd01c32dc3d7d7ac8909f90f395d702ffa578ad6e3e9a/index.md) | 1185 | 1186 | 1 |
+| [[Blue*Nation]](./38cd283c7bb8ee0390f5624e49a3465b1d4a8c789cc2d501f38918a16f6140e2/index.md) | 1468 | 1499 | 36 |
 | [Últimafronteira](./27e96f432a078f197bb5e4c34480ccabc05a9ee48e7bb04d95288fda15e94d3c/index.md) | 1269 | 1265 | 5 |
 | [Ƭιтαηѕ Ф тєʀʀσƦ](./61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/index.md) | 1295 | 1355 | 26 |
 | [ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ](./85a74d128f924274446b7fb754136e6ef7185c754df2fae3b10591d28536f17a/index.md) | 1199 | 1319 | 47 |
