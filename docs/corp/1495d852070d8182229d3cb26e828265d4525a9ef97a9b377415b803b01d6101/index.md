@@ -5,12 +5,13 @@ title: Галактика Зла
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1225 🔺|
-| ELO Competitive | 1238 🔺|
-| Total Matches | 25 |
-| Wins | 11 |
+| ELO Regular | 1245 🔺|
+| ELO Competitive | 1262 🔺|
+| Total Matches | 26 |
+| Wins | 12 |
 | Losses | 14 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 4 |
 
 
@@ -18,6 +19,7 @@ title: Галактика Зла
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024-07-20 | 19-11 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |
 | ✅ | 2024-07-11 | 18-9 | [Cyber Star](https://ws.tsl.rocks/corp/358bbbde0af23c5f41cdb4fde95bb713989c7812b5a0358f7c34ecceca19916c/) |
 | ❌ | 2024-07-05 | 0-10 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) |
 | ✅ | 2024-06-28 | 21-7 | [R-6 satalite](https://ws.tsl.rocks/corp/ce3450a529768e932b3aeb4c6f39b9295e6e07d010b209d0120c0125799adc43/) |
