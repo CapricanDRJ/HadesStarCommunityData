@@ -17,6 +17,6 @@ title: 华夏远征太空舰队
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
-| ❌ | 2023–11–19 | 8-22 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
+| ❌ | 2023 11 19 | 8-22 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 
 Corporation ID: 01e2a815aa9dd9c1db7cc861838ba180b5bf294273f9eaf4cdea5a256c9999a2

@@ -17,6 +17,6 @@ title: Archangels BR
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
-| ✅ | 2024–02–08 | 3-2 | [BlackOrca](https://ws.tsl.rocks/corp/b347ab5ef3e7adebf30c571089fbba3e2e586c8012477f52477de359826fdfb5/) |
+| ✅ | 2024 02 08 | 3-2 | [BlackOrca](https://ws.tsl.rocks/corp/b347ab5ef3e7adebf30c571089fbba3e2e586c8012477f52477de359826fdfb5/) |
 
 Corporation ID: 9f0b92fa53a4e1b97659c0c2df1ee74fe5ffcca2d272419c4d585bb39a86338f

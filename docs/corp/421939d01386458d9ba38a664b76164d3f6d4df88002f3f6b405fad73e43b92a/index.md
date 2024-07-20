@@ -17,6 +17,6 @@ title: Megacorp
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
-| ✅ | 2023–11–06 | 5-0 | [联合宇宙](https://ws.tsl.rocks/corp/da614a2861abac24e31b7b978e75196750b88545f6ece0f367b66b43d696deab/) |
+| ✅ | 2023 11 06 | 5-0 | [联合宇宙](https://ws.tsl.rocks/corp/da614a2861abac24e31b7b978e75196750b88545f6ece0f367b66b43d696deab/) |
 
 Corporation ID: 421939d01386458d9ba38a664b76164d3f6d4df88002f3f6b405fad73e43b92a

@@ -17,6 +17,6 @@ title: StalkerUA
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
-| ❌ | 2023–12–04 | 0-5 | [Spiritic Beacon](https://ws.tsl.rocks/corp/5167772c02384f567373d65a76da8399c74f305fcc5f228903614e8069445d2a/) |
+| ❌ | 2023 12 04 | 0-5 | [Spiritic Beacon](https://ws.tsl.rocks/corp/5167772c02384f567373d65a76da8399c74f305fcc5f228903614e8069445d2a/) |
 
 Corporation ID: 751e52efe068ef78a43ff5bb0a112ab56cd181cbf880eb7c235398fe10225e0f
