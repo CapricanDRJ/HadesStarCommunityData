@@ -6,12 +6,13 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1220 🔺  (312)|
-| ELO Competitive | 1244 🔺  (323)|
-| Total Matches | 45 |
-| Wins | 23 |
+| ELO Regular | 1231 🔺  (273)|
+| ELO Competitive | 1257 🔺  (292)|
+| Total Matches | 46 |
+| Wins | 24 |
 | Losses | 22 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 7 |
 
 ### Recurring Opponents
@@ -25,6 +26,7 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/21 | 19-0 | [11th Engineers](https://ws.tsl.rocks/corp/7341e9a33a1baf2162870c795632dcd551d3c624b06456dac041fa049ba67a9a/) |
 | ✅ | 2024/07/14 | 8-4 | [德尔塔星舰联盟](https://ws.tsl.rocks/corp/1b2cf7bd23515b61b88cb477e9e99bf6d7def430c3ef239a5a0c9c81315a63bc/) |
 | ❌ | 2024/07/09 | 4-7 | [BoomTech](https://ws.tsl.rocks/corp/97c4db179d3ea995d3a56227f87c501f4baa4abbece2b25e09b636f0aa264bd7/) |
 | ✅ | 2024/07/03 | 7-2 | [империя тьмы](https://ws.tsl.rocks/corp/4eb22a1b793e5d03579cea15c873b1bef56fea02420a4e55edb18a200f7fc46a/) |
