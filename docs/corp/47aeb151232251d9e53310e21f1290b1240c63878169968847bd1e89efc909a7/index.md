@@ -6,20 +6,25 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1287 🔺  (136)|
+| ELO Regular | 1287 🔻  (137)|
 | ELO Competitive | 1316 🔺  (181)|
-| Total Matches | 32 |
+| Total Matches | 33 |
 | Wins | 23 |
 | Losses | 8 |
-| Draws | 1 |
-| Streak | 2 |
+| Draws | 2 |
 | Streak Record | 15 |
 
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) | 0 | 1 | 1 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/07/21 | 0-0 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ✅ | 2024/07/21 | 13-0 | [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046/) |
 | ✅ | 2024/07/14 | 15-0 | [RedStar Raiding](https://ws.tsl.rocks/corp/83a1c4f1576eec7dce037eb5b64b2455ca3affb9d3072108c5d4d3eba88b4570/) |
 | ❌ | 2024/07/14 | 0-7 | [koalition](https://ws.tsl.rocks/corp/68d721684ab83df28cba0a58c608e5dd3c58df79369abffa67da4e8956ef2695/) |
