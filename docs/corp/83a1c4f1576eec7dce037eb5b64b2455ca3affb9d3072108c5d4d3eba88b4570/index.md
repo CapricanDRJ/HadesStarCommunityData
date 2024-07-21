@@ -6,10 +6,10 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1045 🔻  (1146)|
-| ELO Competitive | 1078 🔻  (1159)|
-| Total Matches | 35 |
-| Wins | 6 |
+| ELO Regular | 1070 🔺  (1127)|
+| ELO Competitive | 1103 🔺  (1135)|
+| Total Matches | 36 |
+| Wins | 7 |
 | Losses | 28 |
 | Draws | 1 |
 | Streak Record | 3 |
@@ -26,6 +26,7 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/21 | 9-0 | [BoomTech](https://ws.tsl.rocks/corp/97c4db179d3ea995d3a56227f87c501f4baa4abbece2b25e09b636f0aa264bd7/) |
 | ❌ | 2024/07/14 | 0-15 | [Poggy Rockers](https://ws.tsl.rocks/corp/47aeb151232251d9e53310e21f1290b1240c63878169968847bd1e89efc909a7/) |
 | ↔️ | 2024/07/07 | 0-0 | [神圣罗马帝国](https://ws.tsl.rocks/corp/2a71af44aaef82175cd8dfd86c9e3f218a438a7c7e748bae20d8a0d964a984ab/) |
 | ❌ | 2024/07/01 | 0-39 | [Black Star llc\.](https://ws.tsl.rocks/corp/f6cd5aed527efed3a402f931784d68b5b7201b317118a60bd3d81b551ee87330/) |
