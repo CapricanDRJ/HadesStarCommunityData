@@ -4,7 +4,7 @@ title: OntarioDestiny
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- OntarioDestiny -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1115 🔻  (1075)|
 | ELO Competitive | 1135 🔻  (1094)|

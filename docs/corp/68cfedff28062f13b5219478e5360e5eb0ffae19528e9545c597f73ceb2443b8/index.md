@@ -4,7 +4,7 @@ title: The 501st
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- The 501st -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1181 🔻  (753)|
 | ELO Competitive | 1189 🔻  (633)|

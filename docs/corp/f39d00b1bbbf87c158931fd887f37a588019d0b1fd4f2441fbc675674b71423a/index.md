@@ -4,7 +4,7 @@ title: 普罗米修斯
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 普罗米修斯 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1126 🔻  (1054)|
 | ELO Competitive | 1129 🔻  (1102)|

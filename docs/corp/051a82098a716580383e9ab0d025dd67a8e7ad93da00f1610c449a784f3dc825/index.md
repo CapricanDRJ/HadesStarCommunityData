@@ -4,7 +4,7 @@ title:  RELAX CZ/SK
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!--  RELAX CZ/SK -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1366 🔺  (52)|
 | ELO Competitive | 1476 🔺  (31)|

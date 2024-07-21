@@ -4,7 +4,7 @@ title: NERF TOY'S
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- NERF TOY'S -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1210 🔻  (396)|
 | ELO Competitive | 1305 🔻  (191)|

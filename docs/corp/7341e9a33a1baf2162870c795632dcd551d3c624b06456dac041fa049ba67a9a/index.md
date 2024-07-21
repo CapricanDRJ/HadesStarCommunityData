@@ -4,7 +4,7 @@ title: 11th Engineers
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 11th Engineers -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1128 🔻  (1050)|
 | ELO Competitive | 1198 🔻  (562)|

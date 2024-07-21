@@ -4,7 +4,7 @@ title: REFOUNDATION
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- REFOUNDATION  -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1171 🔻  (840)|
 | ELO Competitive | 1171 🔻  (932)|

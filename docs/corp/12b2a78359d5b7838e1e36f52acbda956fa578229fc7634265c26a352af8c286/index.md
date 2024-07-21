@@ -4,7 +4,7 @@ title: SGC
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- SGC -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1213 🔺  (375)|
 | ELO Competitive | 1214 🔺  (459)|

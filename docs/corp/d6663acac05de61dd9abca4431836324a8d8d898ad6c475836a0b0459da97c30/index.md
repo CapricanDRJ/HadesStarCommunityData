@@ -4,7 +4,7 @@ title: Lolis Corp
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Lolis Corp -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1172 🔻  (838)|
 | ELO Competitive | 1172 🔻  (929)|

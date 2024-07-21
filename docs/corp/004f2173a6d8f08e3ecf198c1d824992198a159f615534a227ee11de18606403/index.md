@@ -4,7 +4,7 @@ title: 红星超新星爆炸
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 红星超新星爆炸 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔻  (553)|
 | ELO Competitive | 1188 🔻  (654)|

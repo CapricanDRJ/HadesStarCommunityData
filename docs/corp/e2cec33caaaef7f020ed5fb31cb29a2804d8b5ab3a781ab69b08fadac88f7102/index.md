@@ -4,7 +4,7 @@ title: 避难所
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 避难所 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1225 🔺  (300)|
 | ELO Competitive | 1278 🔺  (240)|

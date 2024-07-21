@@ -4,7 +4,7 @@ title: Danish Oil
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Danish Oil -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (629)|
 | ELO Competitive | 1186 🔻  (713)|

@@ -4,7 +4,7 @@ title: Angel Dragon
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Angel Dragon -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1264 🔻  (175)|
 | ELO Competitive | 1300 🔻  (201)|

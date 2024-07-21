@@ -4,7 +4,7 @@ title: Novana Gaming
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Novana Gaming -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1200 🔻  (435)|
 | ELO Competitive | 1204 🔻  (500)|

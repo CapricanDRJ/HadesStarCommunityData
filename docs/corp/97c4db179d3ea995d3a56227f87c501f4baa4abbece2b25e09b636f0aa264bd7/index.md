@@ -4,7 +4,7 @@ title: BoomTech
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- BoomTech -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1331 🔻  (80)|
 | ELO Competitive | 1356 🔻  (117)|

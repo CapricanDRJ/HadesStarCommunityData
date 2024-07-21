@@ -4,7 +4,7 @@ title: Бестрашный лиги
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Бестрашный лиги -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1177 🔻  (777)|
 | ELO Competitive | 1177 🔻  (868)|

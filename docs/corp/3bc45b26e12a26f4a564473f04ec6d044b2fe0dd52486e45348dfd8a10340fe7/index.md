@@ -4,7 +4,7 @@ title: Kötbrüder
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Kötbrüder -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1229 🔺  (281)|
 | ELO Competitive | 1237 🔺  (341)|

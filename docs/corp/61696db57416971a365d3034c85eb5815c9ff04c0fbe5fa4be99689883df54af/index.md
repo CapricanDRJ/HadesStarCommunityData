@@ -4,7 +4,7 @@ title: Ƭιтαηѕ Ф тєʀʀσƦ
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Ƭιтαηѕ Ф тєʀʀσƦ -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1295 🔻  (126)|
 | ELO Competitive | 1355 🔺  (118)|

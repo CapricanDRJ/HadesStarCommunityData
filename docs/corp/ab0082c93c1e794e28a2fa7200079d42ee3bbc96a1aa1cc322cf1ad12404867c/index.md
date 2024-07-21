@@ -4,7 +4,7 @@ title: 中华人民共和国
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 中华人民共和国 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1160 🔻  (927)|
 | ELO Competitive | 1162 🔻  (1003)|

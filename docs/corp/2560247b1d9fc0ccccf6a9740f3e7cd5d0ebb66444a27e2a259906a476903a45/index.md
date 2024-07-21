@@ -4,7 +4,7 @@ title: Revólver
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Revólver -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1169 🔻  (880)|
 | ELO Competitive | 1189 🔻  (646)|

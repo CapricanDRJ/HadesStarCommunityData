@@ -4,7 +4,7 @@ title: Рагнарёк
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Рагнарёк -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1175 🔻  (791)|
 | ELO Competitive | 1174 🔻  (896)|

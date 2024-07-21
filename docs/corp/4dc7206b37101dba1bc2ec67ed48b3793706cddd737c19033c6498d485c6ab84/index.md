@@ -4,7 +4,7 @@ title: Team Rainbow
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Team Rainbow -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1193 🔻  (498)|
 | ELO Competitive | 1198 🔻  (558)|

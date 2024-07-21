@@ -4,7 +4,7 @@ title: GhostNakcoorp
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- GhostNakcoorp -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1262 🔺  (180)|
 | ELO Competitive | 1285 🔺  (228)|

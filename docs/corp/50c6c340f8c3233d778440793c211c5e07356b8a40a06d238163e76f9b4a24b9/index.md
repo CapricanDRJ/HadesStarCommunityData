@@ -4,7 +4,7 @@ title: Harpias
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Harpias -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1200 🔻  (447)|
 | ELO Competitive | 1201 🔺  (523)|

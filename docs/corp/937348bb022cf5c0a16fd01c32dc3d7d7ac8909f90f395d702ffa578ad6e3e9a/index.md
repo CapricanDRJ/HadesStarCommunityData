@@ -4,7 +4,7 @@ title: @ncient £ibrary
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- @ncient £ibrary -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (641)|
 | ELO Competitive | 1186 🔻  (720)|

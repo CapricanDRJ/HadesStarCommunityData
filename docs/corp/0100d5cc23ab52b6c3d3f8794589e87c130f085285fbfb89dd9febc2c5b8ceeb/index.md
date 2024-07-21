@@ -4,7 +4,7 @@ title: icell
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- icell -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1188 🔻  (546)|
 | ELO Competitive | 1188 🔻  (657)|

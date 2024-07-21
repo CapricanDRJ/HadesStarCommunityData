@@ -4,7 +4,7 @@ title: Winged Pheonix
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Winged Pheonix -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1166 🔺  (899)|
 | ELO Competitive | 1188 🔺  (648)|

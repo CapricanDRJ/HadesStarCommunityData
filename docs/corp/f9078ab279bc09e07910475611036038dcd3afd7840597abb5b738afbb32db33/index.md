@@ -4,7 +4,7 @@ title: USAR@Hadesstar
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- USAR@Hadesstar -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1179 🔻  (769)|
 | ELO Competitive | 1179 🔻  (854)|

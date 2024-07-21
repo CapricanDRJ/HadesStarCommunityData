@@ -4,7 +4,7 @@ title: Imperio Tortuga
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Imperio Tortuga -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1199 🔺  (459)|
 | ELO Competitive | 1199 🔺  (552)|

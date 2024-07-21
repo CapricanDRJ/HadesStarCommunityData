@@ -4,7 +4,7 @@ title: Vertin's box
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Vertin's box -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1208 🔺  (399)|
 | ELO Competitive | 1213 🔺  (466)|

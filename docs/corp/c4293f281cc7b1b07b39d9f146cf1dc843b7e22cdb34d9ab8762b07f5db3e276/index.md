@@ -4,7 +4,7 @@ title: united unicorn
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- united unicorn -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1219 🔺  (317)|
 | ELO Competitive | 1219 🔺  (401)|

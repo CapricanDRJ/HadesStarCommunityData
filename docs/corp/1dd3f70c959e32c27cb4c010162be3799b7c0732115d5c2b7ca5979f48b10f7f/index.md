@@ -4,7 +4,7 @@ title: 萌新的收留所
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 萌新的收留所 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1258 🔺  (189)|
 | ELO Competitive | 1309 🔺  (186)|

@@ -4,7 +4,7 @@ title: AlSounT
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- AlSounT -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1170 🔻  (876)|
 | ELO Competitive | 1170 🔻  (961)|

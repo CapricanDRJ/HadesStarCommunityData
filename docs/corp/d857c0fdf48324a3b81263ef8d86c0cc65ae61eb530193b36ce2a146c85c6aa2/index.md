@@ -4,7 +4,7 @@ title: Nooooobs
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Nooooobs -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1161 🔻  (924)|
 | ELO Competitive | 1160 🔻  (1007)|

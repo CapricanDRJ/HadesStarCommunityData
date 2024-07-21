@@ -4,7 +4,7 @@ title: 墨痕空域
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 墨痕空域 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1269 🔺  (163)|
 | ELO Competitive | 1461 🔺  (41)|

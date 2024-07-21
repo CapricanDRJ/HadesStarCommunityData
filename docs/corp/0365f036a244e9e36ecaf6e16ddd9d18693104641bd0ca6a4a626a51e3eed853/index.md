@@ -4,7 +4,7 @@ title: UsualSuspects
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- UsualSuspects -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1145 🔻  (990)|
 | ELO Competitive | 1158 🔻  (1017)|

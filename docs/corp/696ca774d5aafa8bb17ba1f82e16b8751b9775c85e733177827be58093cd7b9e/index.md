@@ -4,7 +4,7 @@ title: Black Sun
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Black Sun -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1119 🔻  (1068)|
 | ELO Competitive | 1149 🔻  (1051)|

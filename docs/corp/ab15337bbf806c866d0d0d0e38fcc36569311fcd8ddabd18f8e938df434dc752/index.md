@@ -4,7 +4,7 @@ title: Mecha Armada
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Mecha Armada -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1216 🔺  (331)|
 | ELO Competitive | 1216 🔺  (427)|

@@ -4,7 +4,7 @@ title: From the Fire
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- From the Fire -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1176 🔻  (786)|
 | ELO Competitive | 1176 🔻  (880)|

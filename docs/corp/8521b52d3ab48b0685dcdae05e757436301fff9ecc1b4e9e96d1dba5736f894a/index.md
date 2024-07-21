@@ -4,7 +4,7 @@ title: 中国星系集团
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 中国星系集团 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1287 🔺  (137)|
 | ELO Competitive | 1290 🔺  (216)|

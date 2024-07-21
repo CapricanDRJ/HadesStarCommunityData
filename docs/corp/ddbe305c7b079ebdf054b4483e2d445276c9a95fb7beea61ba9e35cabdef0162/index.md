@@ -4,7 +4,7 @@ title: RUSSIAN TEAM
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- RUSSIAN TEAM -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1109 🔻  (1084)|
 | ELO Competitive | 1109 🔻  (1125)|

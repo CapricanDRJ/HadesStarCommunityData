@@ -4,7 +4,7 @@ title: loveboat
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- loveboat -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (580)|
 | ELO Competitive | 1186 🔻  (684)|

@@ -4,7 +4,7 @@ title: 地球联合
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 地球联合 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1314 🔺  (100)|
 | ELO Competitive | 1334 🔺  (148)|

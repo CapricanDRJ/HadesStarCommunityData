@@ -4,7 +4,7 @@ title: Hexwood
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Hexwood -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1248 🔺  (213)|
 | ELO Competitive | 1263 🔺  (274)|

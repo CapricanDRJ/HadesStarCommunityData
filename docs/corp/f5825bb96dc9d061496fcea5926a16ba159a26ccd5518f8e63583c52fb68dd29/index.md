@@ -4,7 +4,7 @@ title: Red_Coat_Mafia
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Red\_Coat\_Mafia -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1198 🔺  (467)|
 | ELO Competitive | 1320 🔺  (175)|

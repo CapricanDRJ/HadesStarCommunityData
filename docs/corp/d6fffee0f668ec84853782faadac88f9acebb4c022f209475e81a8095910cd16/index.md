@@ -4,7 +4,7 @@ title: Welcome 欢迎
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Welcome 欢迎 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔻  (567)|
 | ELO Competitive | 1186 🔻  (685)|

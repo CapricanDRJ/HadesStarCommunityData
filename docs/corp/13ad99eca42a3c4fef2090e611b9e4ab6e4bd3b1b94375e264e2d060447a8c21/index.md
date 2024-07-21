@@ -4,7 +4,7 @@ title: Round Table
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Round Table  -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔻  (716)|
 | ELO Competitive | 1184 🔻  (815)|

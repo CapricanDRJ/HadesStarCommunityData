@@ -4,7 +4,7 @@ title: Star Conflict
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Star Conflict -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (590)|
 | ELO Competitive | 1186 🔻  (694)|

@@ -4,7 +4,7 @@ title: Nearland Ind
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Nearland Ind -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1342 🔺  (71)|
 | ELO Competitive | 1448 🔺  (49)|

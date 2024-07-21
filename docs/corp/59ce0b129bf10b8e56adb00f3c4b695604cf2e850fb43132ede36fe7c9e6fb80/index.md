@@ -4,7 +4,7 @@ title: Duchy Kalladan
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Duchy Kalladan -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1213 🔺  (368)|
 | ELO Competitive | 1213 🔺  (462)|

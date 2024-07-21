@@ -4,7 +4,7 @@ title: 绛紫星
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 绛紫星 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1264 🔺  (174)|
 | ELO Competitive | 1387 🔺  (91)|

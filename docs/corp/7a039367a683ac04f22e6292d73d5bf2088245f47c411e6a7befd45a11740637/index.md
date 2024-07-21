@@ -4,7 +4,7 @@ title: Elite2.0
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Elite2\.0 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1168 🔻  (891)|
 | ELO Competitive | 1183 🔻  (820)|

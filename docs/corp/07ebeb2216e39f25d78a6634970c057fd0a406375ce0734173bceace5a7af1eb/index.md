@@ -4,7 +4,7 @@ title: OTRSᗜωO
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- OTRSᗜωO -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (624)|
 | ELO Competitive | 1190 🔻  (620)|

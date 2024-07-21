@@ -4,7 +4,7 @@ title: Starbond
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Starbond -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (628)|
 | ELO Competitive | 1185 🔻  (740)|

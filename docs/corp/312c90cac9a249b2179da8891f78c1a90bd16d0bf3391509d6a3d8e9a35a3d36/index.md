@@ -4,9 +4,9 @@ title: United Stars
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- United Stars  -->| Statistic | Value |
 | --- | --- |
-| ELO Regular | 1247 🔺  (218)|
+| ELO Regular | 1247 🔺  (219)|
 | ELO Competitive | 1303 🔺  (194)|
 | Total Matches | 38 |
 | Wins | 22 |

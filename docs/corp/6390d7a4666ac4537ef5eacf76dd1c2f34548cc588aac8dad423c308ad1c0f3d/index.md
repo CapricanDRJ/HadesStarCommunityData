@@ -4,7 +4,7 @@ title: 水晶星际集团
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 水晶星际集团 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1075 🔻  (1125)|
 | ELO Competitive | 1099 🔻  (1137)|

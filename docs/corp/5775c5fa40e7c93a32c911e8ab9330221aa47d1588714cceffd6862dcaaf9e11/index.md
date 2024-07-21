@@ -4,7 +4,7 @@ title: Federation
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Federation  -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔻  (566)|
 | ELO Competitive | 1187 🔻  (670)|

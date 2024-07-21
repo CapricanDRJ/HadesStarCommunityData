@@ -4,7 +4,7 @@ title: Слава Украине!
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Слава Украине\! -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1346 🔻  (65)|
 | ELO Competitive | 1571 🔺  (3)|

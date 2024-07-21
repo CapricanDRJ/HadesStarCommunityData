@@ -4,7 +4,7 @@ title: L.B.H.
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- L\.B\.H\. -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔻  (573)|
 | ELO Competitive | 1187 🔻  (664)|

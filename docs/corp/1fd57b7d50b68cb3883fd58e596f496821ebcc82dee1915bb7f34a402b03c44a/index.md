@@ -4,7 +4,7 @@ title: Scar
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Scar -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1309 🔺  (109)|
 | ELO Competitive | 1345 🔺  (135)|

@@ -4,7 +4,7 @@ title: Stellar Exports
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Stellar Exports -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1241 🔻  (240)|
 | ELO Competitive | 1390 🔺  (88)|

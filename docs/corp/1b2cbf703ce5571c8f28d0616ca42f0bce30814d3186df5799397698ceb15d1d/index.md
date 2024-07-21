@@ -4,7 +4,7 @@ title: DadCorp
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- DadCorp -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1228 🔻  (284)|
 | ELO Competitive | 1236 🔻  (344)|

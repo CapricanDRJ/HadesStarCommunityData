@@ -4,7 +4,7 @@ title: УпсПриехали
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- УпсПриехали -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1188 🔻  (551)|
 | ELO Competitive | 1188 🔻  (658)|

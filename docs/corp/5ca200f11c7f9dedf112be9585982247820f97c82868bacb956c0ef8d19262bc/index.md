@@ -4,7 +4,7 @@ title: Empire of Light
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Empire of Light -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1162 🔻  (919)|
 | ELO Competitive | 1196 🔻  (574)|

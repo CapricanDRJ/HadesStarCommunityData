@@ -4,7 +4,7 @@ title: 企鹅帝国
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 企鹅帝国 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1200 🔻  (449)|
 | ELO Competitive | 1200 🔻  (545)|

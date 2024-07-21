@@ -4,7 +4,7 @@ title: Imperio Lie Yan
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Imperio Lie Yan -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1211 🔻  (388)|
 | ELO Competitive | 1212 🔻  (474)|

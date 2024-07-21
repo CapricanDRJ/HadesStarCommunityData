@@ -4,7 +4,7 @@ title: RUFORS
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- RUFORS -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1229 🔺  (280)|
 | ELO Competitive | 1234 🔺  (351)|

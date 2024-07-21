@@ -4,7 +4,7 @@ title: La resistencia
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- La resistencia -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1200 ▫️  (436)|
 | ELO Competitive | 1200 ▫️  (530)|

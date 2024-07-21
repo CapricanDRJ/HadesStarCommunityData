@@ -4,7 +4,7 @@ title: Antioch
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Antioch -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1173 🔺  (814)|
 | ELO Competitive | 1194 🔺  (581)|

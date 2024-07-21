@@ -4,7 +4,7 @@ title: Lost Legion
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Lost Legion -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1107 🔻  (1086)|
 | ELO Competitive | 1175 🔻  (890)|

@@ -4,7 +4,7 @@ title: Zvezdec
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Zvezdec -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1318 🔺  (94)|
 | ELO Competitive | 1399 🔺  (81)|

@@ -4,7 +4,7 @@ title: Hinterm Mond
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Hinterm Mond -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1302 🔻  (119)|
 | ELO Competitive | 1478 🔻  (28)|

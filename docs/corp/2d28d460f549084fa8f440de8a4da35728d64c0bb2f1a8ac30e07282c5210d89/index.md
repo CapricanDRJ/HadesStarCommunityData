@@ -4,7 +4,7 @@ title: Consortium
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Consortium -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔺  (562)|
 | ELO Competitive | 1187 🔺  (666)|

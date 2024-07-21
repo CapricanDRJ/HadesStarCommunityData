@@ -4,7 +4,7 @@ title: 宇氏集团
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 宇氏集团 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1174 🔻  (803)|
 | ELO Competitive | 1174 🔻  (899)|

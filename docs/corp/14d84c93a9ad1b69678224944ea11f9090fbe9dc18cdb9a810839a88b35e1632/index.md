@@ -4,7 +4,7 @@ title: La orden real
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- La orden real -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1213 🔺  (376)|
 | ELO Competitive | 1216 🔺  (434)|

@@ -4,7 +4,7 @@ title: Divinity's End
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Divinity's End -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔻  (698)|
 | ELO Competitive | 1187 🔻  (681)|

@@ -4,7 +4,7 @@ title: [Blue*Nation]
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- \[Blue\*Nation\] -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1468 🔺  (13)|
 | ELO Competitive | 1499 🔺  (20)|

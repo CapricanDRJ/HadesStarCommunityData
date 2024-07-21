@@ -4,7 +4,7 @@ title: 脉冲星际集团
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 脉冲星际集团 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1116 🔻  (1074)|
 | ELO Competitive | 1288 🔻  (220)|

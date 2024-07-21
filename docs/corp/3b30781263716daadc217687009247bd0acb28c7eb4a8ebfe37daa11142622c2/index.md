@@ -4,7 +4,7 @@ title: 雪月永恒
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 雪月永恒 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1252 🔺  (203)|
 | ELO Competitive | 1260 🔺  (279)|

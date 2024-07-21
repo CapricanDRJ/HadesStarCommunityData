@@ -4,7 +4,7 @@ title: Galactic Empire
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Galactic Empire -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1294 🔻  (128)|
 | ELO Competitive | 1353 🔻  (122)|

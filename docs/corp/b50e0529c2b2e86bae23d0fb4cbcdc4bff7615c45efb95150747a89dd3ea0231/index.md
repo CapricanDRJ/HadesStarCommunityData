@@ -4,7 +4,7 @@ title: Star Fleet
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Star Fleet -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1167 🔻  (895)|
 | ELO Competitive | 1218 🔻  (411)|

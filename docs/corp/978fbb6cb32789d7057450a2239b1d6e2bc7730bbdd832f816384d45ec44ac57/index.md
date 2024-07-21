@@ -4,7 +4,7 @@ title: Зелёная корпа
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Зелёная корпа -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1202 🔻  (419)|
 | ELO Competitive | 1217 🔻  (420)|

@@ -4,7 +4,7 @@ title: Intertwine
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Intertwine  -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1212 🔻  (379)|
 | ELO Competitive | 1216 🔻  (424)|

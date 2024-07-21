@@ -4,7 +4,7 @@ title: Призрачный Путь
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Призрачный Путь -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1284 🔻  (141)|
 | ELO Competitive | 1295 🔻  (210)|

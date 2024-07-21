@@ -4,7 +4,7 @@ title: Hermitage
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Hermitage -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1226 🔻  (296)|
 | ELO Competitive | 1246 🔻  (315)|

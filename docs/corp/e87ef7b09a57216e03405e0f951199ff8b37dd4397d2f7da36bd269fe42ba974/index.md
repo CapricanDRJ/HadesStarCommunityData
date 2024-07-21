@@ -4,9 +4,9 @@ title: Quadra FR
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Quadra FR -->| Statistic | Value |
 | --- | --- |
-| ELO Regular | 1244 🔺  (228)|
+| ELO Regular | 1244 🔺  (229)|
 | ELO Competitive | 1253 🔺  (297)|
 | Total Matches | 9 |
 | Wins | 6 |

@@ -4,7 +4,7 @@ title: Belters
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Belters -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (617)|
 | ELO Competitive | 1186 🔻  (720)|

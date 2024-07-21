@@ -4,7 +4,7 @@ title: Hades' 420
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Hades' 420 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1138 🔺  (1017)|
 | ELO Competitive | 1161 🔺  (1006)|

@@ -4,7 +4,7 @@ title: U.P.E
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- U\.P\.E -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔻  (720)|
 | ELO Competitive | 1184 🔻  (818)|

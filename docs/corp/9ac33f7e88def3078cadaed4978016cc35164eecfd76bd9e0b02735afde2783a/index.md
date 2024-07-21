@@ -4,7 +4,7 @@ title: Dying stars
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Dying stars -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔻  (564)|
 | ELO Competitive | 1189 🔻  (636)|

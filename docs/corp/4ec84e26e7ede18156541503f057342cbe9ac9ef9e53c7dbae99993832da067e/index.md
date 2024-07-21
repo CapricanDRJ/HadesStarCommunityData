@@ -4,7 +4,7 @@ title: Legion Prime
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Legion Prime -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1198 🔻  (468)|
 | ELO Competitive | 1218 🔻  (416)|

@@ -4,7 +4,7 @@ title: RedStar Raiding
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- RedStar Raiding -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1045 🔻  (1145)|
 | ELO Competitive | 1078 🔻  (1158)|

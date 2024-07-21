@@ -4,7 +4,7 @@ title: 星光万丈
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 星光万丈 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1145 🔺  (994)|
 | ELO Competitive | 1178 🔺  (859)|

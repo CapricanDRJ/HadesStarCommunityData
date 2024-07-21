@@ -4,7 +4,7 @@ title: lost souls
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- lost souls -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1239 🔻  (246)|
 | ELO Competitive | 1361 🔻  (115)|

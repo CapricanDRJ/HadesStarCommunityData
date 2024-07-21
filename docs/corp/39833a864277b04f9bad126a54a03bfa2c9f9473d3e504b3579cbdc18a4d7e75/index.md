@@ -4,7 +4,7 @@ title: King's Guard
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- King's Guard -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 987 🔻  (1167)|
 | ELO Competitive | 1164 🔻  (990)|

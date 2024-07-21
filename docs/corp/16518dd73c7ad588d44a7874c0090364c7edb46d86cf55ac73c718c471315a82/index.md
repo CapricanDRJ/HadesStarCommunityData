@@ -4,7 +4,7 @@ title: Avalanche 2.0
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Avalanche 2\.0 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1174 🔻  (802)|
 | ELO Competitive | 1177 🔻  (869)|

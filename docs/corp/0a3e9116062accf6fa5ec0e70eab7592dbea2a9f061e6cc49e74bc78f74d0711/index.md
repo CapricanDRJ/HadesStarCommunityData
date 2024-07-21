@@ -4,7 +4,7 @@ title: Justice Vengers
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Justice Vengers -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1304 🔺  (114)|
 | ELO Competitive | 1339 🔺  (141)|

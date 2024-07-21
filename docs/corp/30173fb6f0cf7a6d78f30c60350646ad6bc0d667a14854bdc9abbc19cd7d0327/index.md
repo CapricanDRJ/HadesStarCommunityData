@@ -4,7 +4,7 @@ title: Embers Rising
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Embers Rising -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1373 🔺  (49)|
 | ELO Competitive | 1411 🔺  (69)|

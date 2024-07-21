@@ -4,7 +4,7 @@ title: α阿尔法
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- α阿尔法 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1189 🔻  (529)|
 | ELO Competitive | 1189 🔻  (630)|

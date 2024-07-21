@@ -4,7 +4,7 @@ title: Liasteria
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Liasteria -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔻  (565)|
 | ELO Competitive | 1190 🔻  (617)|

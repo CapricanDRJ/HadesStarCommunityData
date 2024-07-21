@@ -4,7 +4,7 @@ title: MicroNova
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- MicroNova -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1188 🔻  (539)|
 | ELO Competitive | 1188 🔻  (656)|

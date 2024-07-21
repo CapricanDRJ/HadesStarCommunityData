@@ -4,7 +4,7 @@ title: 宇宙联盟（中国）
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 宇宙联盟（中国） -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1099 🔺  (1095)|
 | ELO Competitive | 1218 🔺  (414)|

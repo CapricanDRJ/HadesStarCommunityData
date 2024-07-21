@@ -4,7 +4,7 @@ title: Greek Warriors
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Greek Warriors -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1147 🔻  (984)|
 | ELO Competitive | 1175 🔻  (889)|

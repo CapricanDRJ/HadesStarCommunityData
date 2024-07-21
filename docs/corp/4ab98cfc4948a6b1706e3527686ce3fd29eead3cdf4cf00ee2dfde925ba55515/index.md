@@ -4,7 +4,7 @@ title: Gallaecia
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Gallaecia -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1035 🔻  (1148)|
 | ELO Competitive | 1038 🔻  (1170)|

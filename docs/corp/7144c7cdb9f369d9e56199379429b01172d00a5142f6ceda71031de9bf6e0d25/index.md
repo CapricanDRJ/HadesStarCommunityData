@@ -4,7 +4,7 @@ title: JPR. Pretorians
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- JPR\. Pretorians -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1155 🔻  (958)|
 | ELO Competitive | 1218 🔻  (409)|

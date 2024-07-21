@@ -4,7 +4,7 @@ title: Red Dwarf
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Red Dwarf -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔻  (559)|
 | ELO Competitive | 1187 🔻  (663)|

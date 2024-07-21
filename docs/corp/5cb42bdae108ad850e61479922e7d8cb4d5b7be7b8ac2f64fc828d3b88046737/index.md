@@ -4,7 +4,7 @@ title: 共产星际
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 共产星际 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1430 🔺  (22)|
 | ELO Competitive | 1474 🔺  (33)|

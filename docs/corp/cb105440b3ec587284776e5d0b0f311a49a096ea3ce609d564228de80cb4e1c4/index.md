@@ -4,7 +4,7 @@ title: Black Nova
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Black Nova -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1191 🔻  (512)|
 | ELO Competitive | 1192 🔻  (597)|

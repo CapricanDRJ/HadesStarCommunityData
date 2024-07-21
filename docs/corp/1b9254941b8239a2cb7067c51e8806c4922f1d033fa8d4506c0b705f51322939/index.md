@@ -4,7 +4,7 @@ title: Slovensko-Activ
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Slovensko\-Activ -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1065 🔻  (1133)|
 | ELO Competitive | 1085 🔻  (1150)|

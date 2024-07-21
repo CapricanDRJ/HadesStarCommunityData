@@ -4,7 +4,7 @@ title: Decode
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Decode -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1255 🔻  (199)|
 | ELO Competitive | 1387 🔻  (92)|

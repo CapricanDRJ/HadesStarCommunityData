@@ -4,7 +4,7 @@ title: Anarchy G13
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Anarchy G13 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1158 🔻  (942)|
 | ELO Competitive | 1158 🔻  (1019)|

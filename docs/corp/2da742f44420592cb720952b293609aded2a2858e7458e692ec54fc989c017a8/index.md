@@ -4,7 +4,7 @@ title: 萌新收留所（目标门集团）
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 萌新收留所（目标门集团） -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1157 🔻  (948)|
 | ELO Competitive | 1159 🔻  (1014)|

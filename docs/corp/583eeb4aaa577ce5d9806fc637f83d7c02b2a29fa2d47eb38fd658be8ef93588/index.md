@@ -4,7 +4,7 @@ title: Bunker
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Bunker -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1215 🔻  (353)|
 | ELO Competitive | 1382 🔻  (96)|

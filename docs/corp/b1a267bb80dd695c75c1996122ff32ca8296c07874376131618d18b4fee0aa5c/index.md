@@ -4,7 +4,7 @@ title: Bund von Lykon
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Bund von Lykon -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1134 🔻  (1035)|
 | ELO Competitive | 1164 🔻  (991)|

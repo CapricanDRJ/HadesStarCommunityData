@@ -4,7 +4,7 @@ title: oen
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- oen -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1211 🔺  (391)|
 | ELO Competitive | 1212 🔺  (471)|

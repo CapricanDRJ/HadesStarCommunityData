@@ -4,7 +4,7 @@ title: Space Marshalls
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Space Marshalls -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1249 🔻  (212)|
 | ELO Competitive | 1354 🔻  (120)|

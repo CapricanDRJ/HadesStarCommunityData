@@ -4,7 +4,7 @@ title: Mercury Sunset
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Mercury Sunset -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1429 🔺  (23)|
 | ELO Competitive | 1465 🔺  (38)|

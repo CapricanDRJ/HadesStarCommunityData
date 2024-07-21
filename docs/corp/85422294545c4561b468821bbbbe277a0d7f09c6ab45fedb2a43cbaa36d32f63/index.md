@@ -4,7 +4,7 @@ title: 星环建设集团
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 星环建设集团 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1188 🔻  (541)|
 | ELO Competitive | 1200 🔻  (541)|

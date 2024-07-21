@@ -4,7 +4,7 @@ title: Space Scourge
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Space Scourge -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1146 🔻  (989)|
 | ELO Competitive | 1149 🔻  (1052)|

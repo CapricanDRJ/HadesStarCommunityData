@@ -4,7 +4,7 @@ title: Offshore Trash
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Offshore Trash -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1219 🔻  (315)|
 | ELO Competitive | 1225 🔻  (380)|

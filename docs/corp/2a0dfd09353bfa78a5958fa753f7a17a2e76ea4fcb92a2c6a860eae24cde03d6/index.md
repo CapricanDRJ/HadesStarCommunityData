@@ -4,7 +4,7 @@ title: ShadowSpaceCult
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- ShadowSpaceCult -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1213 🔻  (370)|
 | ELO Competitive | 1216 🔻  (430)|

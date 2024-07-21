@@ -4,7 +4,7 @@ title: Latinos :)
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Latinos :\) -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1183 🔻  (734)|
 | ELO Competitive | 1186 🔻  (716)|

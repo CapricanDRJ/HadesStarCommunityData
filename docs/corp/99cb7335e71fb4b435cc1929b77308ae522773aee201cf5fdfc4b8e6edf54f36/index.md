@@ -4,7 +4,7 @@ title: TITANS
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- TITANS -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1130 🔻  (1044)|
 | ELO Competitive | 1143 🔻  (1075)|

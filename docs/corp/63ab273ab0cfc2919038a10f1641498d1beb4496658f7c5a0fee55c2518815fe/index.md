@@ -4,7 +4,7 @@ title: Gulinga
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Gulinga -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1171 🔻  (867)|
 | ELO Competitive | 1171 🔻  (956)|

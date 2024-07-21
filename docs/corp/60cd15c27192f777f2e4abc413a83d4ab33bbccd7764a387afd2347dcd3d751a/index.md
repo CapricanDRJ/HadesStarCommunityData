@@ -4,7 +4,7 @@ title: Stone Legion
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Stone Legion -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1347 🔺  (63)|
 | ELO Competitive | 1371 🔺  (104)|

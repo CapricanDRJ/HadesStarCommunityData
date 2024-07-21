@@ -4,7 +4,7 @@ title: 边际的文明
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 边际的文明 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1143 🔻  (1003)|
 | ELO Competitive | 1145 🔻  (1068)|

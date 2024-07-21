@@ -4,7 +4,7 @@ title: Veteran's Haven
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Veteran's Haven -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1144 🔻  (997)|
 | ELO Competitive | 1161 🔻  (1005)|

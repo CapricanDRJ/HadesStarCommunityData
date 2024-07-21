@@ -4,7 +4,7 @@ title: Новый ЭДЭМ
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Новый ЭДЭМ -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (688)|
 | ELO Competitive | 1185 🔻  (742)|

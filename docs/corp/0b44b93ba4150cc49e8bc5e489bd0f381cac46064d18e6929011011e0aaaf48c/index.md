@@ -4,7 +4,7 @@ title: RPFD-DNR-RWPB
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- RPFD\-DNR\-RWPB -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔺  (708)|
 | ELO Competitive | 1190 🔺  (618)|

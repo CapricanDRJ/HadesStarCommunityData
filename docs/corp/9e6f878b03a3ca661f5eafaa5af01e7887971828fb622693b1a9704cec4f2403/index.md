@@ -4,7 +4,7 @@ title: ZZZ-V
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- ZZZ\-V -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1237 🔺  (260)|
 | ELO Competitive | 1238 🔺  (337)|

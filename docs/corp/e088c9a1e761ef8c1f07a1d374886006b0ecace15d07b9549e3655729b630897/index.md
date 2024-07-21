@@ -4,7 +4,7 @@ title: Germania
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Germania -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1115 🔻  (1076)|
 | ELO Competitive | 1151 🔻  (1044)|

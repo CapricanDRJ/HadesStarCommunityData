@@ -4,7 +4,7 @@ title: FirstAllegiance
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- FirstAllegiance -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (600)|
 | ELO Competitive | 1186 🔻  (706)|

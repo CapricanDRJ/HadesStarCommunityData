@@ -4,7 +4,7 @@ title: WFOS
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- WFOS -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (603)|
 | ELO Competitive | 1186 🔻  (705)|

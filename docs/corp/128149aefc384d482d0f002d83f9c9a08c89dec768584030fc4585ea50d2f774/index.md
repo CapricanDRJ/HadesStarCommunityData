@@ -4,7 +4,7 @@ title: リリース
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- リリース -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1390 🔺  (40)|
 | ELO Competitive | 1423 🔺  (64)|

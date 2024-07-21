@@ -4,7 +4,7 @@ title: Smurfing
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Smurfing -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1171 🔻  (846)|
 | ELO Competitive | 1171 🔻  (939)|

@@ -4,9 +4,9 @@ title: IMPERIAL ARMADA
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- IMPERIAL ARMADA -->| Statistic | Value |
 | --- | --- |
-| ELO Regular | 1244 🔺  (227)|
+| ELO Regular | 1244 🔺  (228)|
 | ELO Competitive | 1332 🔺  (151)|
 | Total Matches | 51 |
 | Wins | 28 |

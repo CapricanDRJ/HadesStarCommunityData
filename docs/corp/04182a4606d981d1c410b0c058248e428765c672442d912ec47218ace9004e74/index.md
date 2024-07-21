@@ -4,7 +4,7 @@ title: Created
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Created -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1068 🔻  (1129)|
 | ELO Competitive | 1091 🔻  (1142)|

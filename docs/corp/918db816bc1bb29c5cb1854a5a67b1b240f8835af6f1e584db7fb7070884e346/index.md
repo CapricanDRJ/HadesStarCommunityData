@@ -4,7 +4,7 @@ title: Polaris Corpo
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Polaris Corpo -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1239 🔻  (248)|
 | ELO Competitive | 1254 🔻  (294)|

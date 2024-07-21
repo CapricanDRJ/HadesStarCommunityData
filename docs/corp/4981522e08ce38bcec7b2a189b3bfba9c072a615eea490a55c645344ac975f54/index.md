@@ -4,7 +4,7 @@ title: exirium
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- exirium -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1200 🔺  (446)|
 | ELO Competitive | 1200 🔺  (540)|

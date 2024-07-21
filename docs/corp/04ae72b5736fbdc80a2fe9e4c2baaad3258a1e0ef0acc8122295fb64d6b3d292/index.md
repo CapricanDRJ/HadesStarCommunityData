@@ -4,7 +4,7 @@ title: three kitties
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- three kitties -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1415 🔺  (28)|
 | ELO Competitive | 1457 🔺  (42)|

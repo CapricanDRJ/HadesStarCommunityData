@@ -4,7 +4,7 @@ title: 云浪山庄↕
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 云浪山庄↕ -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 946 🔻  (1175)|
 | ELO Competitive | 1177 🔻  (870)|

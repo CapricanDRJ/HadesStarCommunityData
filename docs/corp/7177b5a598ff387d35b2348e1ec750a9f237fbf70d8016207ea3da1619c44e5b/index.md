@@ -4,7 +4,7 @@ title: death squadron
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- death squadron  -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1166 🔻  (900)|
 | ELO Competitive | 1245 🔻  (321)|

@@ -4,7 +4,7 @@ title: Sussy Coloner
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Sussy Coloner -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1050 🔺  (1142)|
 | ELO Competitive | 1148 🔺  (1055)|

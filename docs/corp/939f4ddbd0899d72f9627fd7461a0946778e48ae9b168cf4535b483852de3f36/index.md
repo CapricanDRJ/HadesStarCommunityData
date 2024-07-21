@@ -4,7 +4,7 @@ title: Thurn and Taxis
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Thurn and Taxis -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1230 🔺  (277)|
 | ELO Competitive | 1230 🔺  (363)|

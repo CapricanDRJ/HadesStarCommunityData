@@ -4,7 +4,7 @@ title: uDS
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- uDS -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (607)|
 | ELO Competitive | 1186 🔻  (720)|

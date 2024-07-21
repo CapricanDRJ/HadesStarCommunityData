@@ -4,7 +4,7 @@ title: 宇宙生協
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 宇宙生協 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (685)|
 | ELO Competitive | 1186 🔻  (699)|

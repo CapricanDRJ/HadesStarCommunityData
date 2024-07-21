@@ -4,7 +4,7 @@ title: 神貓聯盟
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 神貓聯盟 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1171 🔻  (848)|
 | ELO Competitive | 1171 🔻  (941)|

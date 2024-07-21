@@ -4,7 +4,7 @@ title: White Dwarf
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- White Dwarf -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1360 🔻  (55)|
 | ELO Competitive | 1399 🔻  (80)|

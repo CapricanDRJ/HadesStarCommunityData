@@ -4,7 +4,7 @@ title: 八月政府
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 八月政府 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1075 🔻  (1124)|
 | ELO Competitive | 1103 🔻  (1133)|

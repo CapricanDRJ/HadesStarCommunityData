@@ -4,7 +4,7 @@ title: 美丽新世界
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 美丽新世界 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1153 🔻  (967)|
 | ELO Competitive | 1158 🔻  (1018)|

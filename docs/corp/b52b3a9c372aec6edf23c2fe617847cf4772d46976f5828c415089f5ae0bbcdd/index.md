@@ -4,7 +4,7 @@ title: BLOK EKIPA
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- BLOK EKIPA -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1147 🔻  (983)|
 | ELO Competitive | 1153 🔻  (1036)|

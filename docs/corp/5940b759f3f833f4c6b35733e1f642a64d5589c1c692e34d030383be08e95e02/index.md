@@ -4,7 +4,7 @@ title: Ark Summit
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Ark Summit -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1326 🔺  (87)|
 | ELO Competitive | 1332 🔺  (153)|

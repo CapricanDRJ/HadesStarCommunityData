@@ -4,7 +4,7 @@ title: Hun Generals
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Hun Generals -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1023 🔺  (1156)|
 | ELO Competitive | 1136 🔺  (1091)|

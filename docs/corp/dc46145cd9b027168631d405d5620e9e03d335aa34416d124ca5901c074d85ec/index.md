@@ -4,7 +4,7 @@ title: OntarioDistrict
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- OntarioDistrict -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1213 🔻  (371)|
 | ELO Competitive | 1214 🔻  (458)|

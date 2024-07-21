@@ -4,7 +4,7 @@ title: 泰拉瑞亚
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 泰拉瑞亚 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1198 🔻  (466)|
 | ELO Competitive | 1198 🔻  (559)|

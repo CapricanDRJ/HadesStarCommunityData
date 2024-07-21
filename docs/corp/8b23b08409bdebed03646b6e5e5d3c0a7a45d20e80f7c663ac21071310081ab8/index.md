@@ -4,7 +4,7 @@ title: BR Gear
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- BR Gear -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1181 🔻  (758)|
 | ELO Competitive | 1193 🔻  (587)|

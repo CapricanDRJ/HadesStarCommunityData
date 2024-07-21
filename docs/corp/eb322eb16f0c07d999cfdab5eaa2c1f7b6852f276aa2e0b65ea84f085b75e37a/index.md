@@ -4,7 +4,7 @@ title: Sanctuary
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Sanctuary -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1181 🔻  (754)|
 | ELO Competitive | 1186 🔻  (709)|

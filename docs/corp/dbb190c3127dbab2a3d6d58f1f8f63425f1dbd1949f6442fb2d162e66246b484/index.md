@@ -4,7 +4,7 @@ title: ANZAC Warriors
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- ANZAC Warriors -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1288 🔻  (135)|
 | ELO Competitive | 1302 🔻  (196)|

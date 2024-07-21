@@ -4,7 +4,7 @@ title: Solysis
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Solysis -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1137 🔻  (1023)|
 | ELO Competitive | 1150 🔻  (1049)|

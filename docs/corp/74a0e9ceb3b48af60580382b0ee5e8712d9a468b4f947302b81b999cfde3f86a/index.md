@@ -4,7 +4,7 @@ title: СлАвЯнСкИй СоЮз
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- СлАвЯнСкИй СоЮз -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1228 🔻  (289)|
 | ELO Competitive | 1231 🔻  (359)|

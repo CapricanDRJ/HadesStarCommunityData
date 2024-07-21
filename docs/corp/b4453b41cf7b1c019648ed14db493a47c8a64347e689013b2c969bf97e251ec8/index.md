@@ -4,7 +4,7 @@ title: Czech Legion
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Czech Legion -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1241 🔺  (239)|
 | ELO Competitive | 1257 🔺  (287)|

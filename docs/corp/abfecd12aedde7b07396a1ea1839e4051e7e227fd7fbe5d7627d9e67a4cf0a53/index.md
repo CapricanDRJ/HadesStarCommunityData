@@ -4,7 +4,7 @@ title: C.C Legion
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- C\.C Legion -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1256 🔺  (193)|
 | ELO Competitive | 1257 🔺  (289)|

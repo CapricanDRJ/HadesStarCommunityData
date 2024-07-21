@@ -4,7 +4,7 @@ title: ALPHA
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- ALPHA -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (589)|
 | ELO Competitive | 1189 🔻  (631)|

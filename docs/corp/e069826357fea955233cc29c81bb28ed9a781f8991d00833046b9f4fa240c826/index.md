@@ -4,7 +4,7 @@ title: Polandia
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Polandia -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1150 🔻  (976)|
 | ELO Competitive | 1167 🔻  (976)|

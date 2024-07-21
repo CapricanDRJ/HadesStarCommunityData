@@ -4,7 +4,7 @@ title: 中国星际联盟·第一自治州
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 中国星际联盟·第一自治州 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1169 🔻  (889)|
 | ELO Competitive | 1170 🔻  (960)|

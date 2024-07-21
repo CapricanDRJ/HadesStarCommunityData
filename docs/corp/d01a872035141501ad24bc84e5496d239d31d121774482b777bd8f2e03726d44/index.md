@@ -4,7 +4,7 @@ title: Crimson Dawn
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Crimson Dawn -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1159 🔻  (938)|
 | ELO Competitive | 1186 🔻  (702)|

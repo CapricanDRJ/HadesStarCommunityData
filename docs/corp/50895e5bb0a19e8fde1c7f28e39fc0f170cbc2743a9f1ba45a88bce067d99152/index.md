@@ -4,7 +4,7 @@ title: Space Donuts
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Space Donuts -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1176 🔻  (789)|
 | ELO Competitive | 1177 🔻  (867)|

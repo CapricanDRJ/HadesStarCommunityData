@@ -4,7 +4,7 @@ title: Halcon español
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Halcon español -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1291 🔻  (129)|
 | ELO Competitive | 1309 🔻  (187)|

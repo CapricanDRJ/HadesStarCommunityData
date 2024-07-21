@@ -4,7 +4,7 @@ title: BrinySeal
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- BrinySeal -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1333 🔺  (77)|
 | ELO Competitive | 1380 🔺  (99)|

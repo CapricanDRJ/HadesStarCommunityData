@@ -4,7 +4,7 @@ title: Наша Вселенная
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Наша Вселенная -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (640)|
 | ELO Competitive | 1186 🔻  (733)|

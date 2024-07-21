@@ -4,7 +4,7 @@ title: Noble
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Noble -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1171 🔺  (843)|
 | ELO Competitive | 1171 🔺  (937)|

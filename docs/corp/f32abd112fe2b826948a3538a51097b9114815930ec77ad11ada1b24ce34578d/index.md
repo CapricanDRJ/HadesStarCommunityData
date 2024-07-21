@@ -4,7 +4,7 @@ title: 欢迎国人
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 欢迎国人 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1107 🔻  (1088)|
 | ELO Competitive | 1113 🔻  (1122)|

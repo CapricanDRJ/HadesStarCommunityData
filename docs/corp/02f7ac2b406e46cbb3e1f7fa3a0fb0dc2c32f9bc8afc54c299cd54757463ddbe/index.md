@@ -4,7 +4,7 @@ title: ItaFederalFleet
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- ItaFederalFleet -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1311 🔺  (105)|
 | ELO Competitive | 1323 🔺  (169)|

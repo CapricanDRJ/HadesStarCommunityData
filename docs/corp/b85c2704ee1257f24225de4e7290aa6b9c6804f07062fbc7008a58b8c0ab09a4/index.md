@@ -4,7 +4,7 @@ title: Eastern Front
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Eastern Front -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1183 🔻  (743)|
 | ELO Competitive | 1355 🔻  (119)|

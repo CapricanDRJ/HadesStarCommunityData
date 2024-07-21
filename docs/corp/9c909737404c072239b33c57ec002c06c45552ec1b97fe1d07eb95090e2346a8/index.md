@@ -4,7 +4,7 @@ title: Minutemen
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Minutemen -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1200 🔻  (434)|
 | ELO Competitive | 1213 🔻  (468)|

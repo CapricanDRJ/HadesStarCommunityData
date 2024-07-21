@@ -4,7 +4,7 @@ title: Lofty Mountain
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Lofty Mountain -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1211 🔺  (387)|
 | ELO Competitive | 1213 🔺  (461)|

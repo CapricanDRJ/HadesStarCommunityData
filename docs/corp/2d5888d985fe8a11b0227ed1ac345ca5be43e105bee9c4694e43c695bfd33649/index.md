@@ -4,7 +4,7 @@ title: ギャラクシー富士山
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- ギャラクシー富士山 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1166 🔻  (901)|
 | ELO Competitive | 1167 🔻  (979)|

@@ -4,7 +4,7 @@ title: Das Imperium
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Das Imperium -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1116 🔻  (1073)|
 | ELO Competitive | 1118 🔻  (1114)|

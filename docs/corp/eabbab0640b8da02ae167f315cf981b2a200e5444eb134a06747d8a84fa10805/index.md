@@ -4,7 +4,7 @@ title: SQPT
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- SQPT -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1196 🔻  (478)|
 | ELO Competitive | 1329 🔻  (158)|

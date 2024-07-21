@@ -4,7 +4,7 @@ title: Hexacropians
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Hexacropians -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1414 🔺  (29)|
 | ELO Competitive | 1456 🔺  (44)|

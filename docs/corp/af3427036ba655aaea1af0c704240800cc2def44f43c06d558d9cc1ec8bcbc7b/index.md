@@ -4,7 +4,7 @@ title: Черный Легион
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Черный Легион -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1285 🔻  (138)|
 | ELO Competitive | 1331 🔻  (154)|

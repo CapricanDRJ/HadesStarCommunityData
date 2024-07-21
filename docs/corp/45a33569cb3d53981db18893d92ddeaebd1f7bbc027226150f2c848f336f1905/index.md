@@ -4,7 +4,7 @@ title: Bloodtide
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Bloodtide -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1172 🔻  (837)|
 | ELO Competitive | 1369 🔻  (106)|

@@ -4,7 +4,7 @@ title: Sternenflotte
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Sternenflotte -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1190 🔻  (514)|
 | ELO Competitive | 1247 🔻  (309)|

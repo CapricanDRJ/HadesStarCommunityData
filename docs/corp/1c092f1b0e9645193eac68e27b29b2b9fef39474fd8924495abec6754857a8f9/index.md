@@ -4,7 +4,7 @@ title: alienigenas
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- alienigenas -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1227 🔺  (292)|
 | ELO Competitive | 1237 🔺  (340)|

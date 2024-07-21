@@ -4,7 +4,7 @@ title: Panda clan
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Panda clan  -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1199 🔺  (462)|
 | ELO Competitive | 1202 🔺  (509)|

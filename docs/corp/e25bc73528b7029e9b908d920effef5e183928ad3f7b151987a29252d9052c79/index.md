@@ -4,7 +4,7 @@ title: phoenix clan
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- phoenix clan -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1238 🔺  (253)|
 | ELO Competitive | 1239 🔺  (334)|

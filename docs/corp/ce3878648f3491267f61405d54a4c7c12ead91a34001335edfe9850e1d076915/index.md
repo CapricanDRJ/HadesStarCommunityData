@@ -4,7 +4,7 @@ title: DESERT DEMONS
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- DESERT DEMONS -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1169 🔻  (879)|
 | ELO Competitive | 1169 🔻  (965)|

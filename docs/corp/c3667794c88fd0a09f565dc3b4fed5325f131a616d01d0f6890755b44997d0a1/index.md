@@ -4,7 +4,7 @@ title: 超新星联盟
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 超新星联盟 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1207 🔻  (405)|
 | ELO Competitive | 1215 🔻  (438)|

@@ -4,7 +4,7 @@ title: Out landers
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Out landers -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1261 🔻  (182)|
 | ELO Competitive | 1272 🔻  (253)|

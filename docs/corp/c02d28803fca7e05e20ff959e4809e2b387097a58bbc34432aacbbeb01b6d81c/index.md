@@ -4,7 +4,7 @@ title: Mandalorians
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Mandalorians -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1178 🔻  (771)|
 | ELO Competitive | 1180 🔻  (848)|

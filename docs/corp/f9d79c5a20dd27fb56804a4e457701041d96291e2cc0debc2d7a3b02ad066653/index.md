@@ -4,7 +4,7 @@ title: Monster AG
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Monster AG -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1158 🔻  (946)|
 | ELO Competitive | 1158 🔻  (1023)|

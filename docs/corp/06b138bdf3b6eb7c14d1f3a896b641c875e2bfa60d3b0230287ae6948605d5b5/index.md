@@ -4,7 +4,7 @@ title: Dirty Laundry
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Dirty Laundry  -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1172 🔻  (829)|
 | ELO Competitive | 1175 🔻  (892)|

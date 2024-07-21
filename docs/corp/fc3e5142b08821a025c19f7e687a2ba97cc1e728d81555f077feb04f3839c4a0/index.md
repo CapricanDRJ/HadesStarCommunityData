@@ -4,7 +4,7 @@ title: 柯伊伯带
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 柯伊伯带 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1607 🔺  (1)|
 | ELO Competitive | 1583 🔺  (2)|

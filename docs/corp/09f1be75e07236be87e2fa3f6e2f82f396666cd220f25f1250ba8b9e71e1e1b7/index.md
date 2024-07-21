@@ -4,7 +4,7 @@ title: Lacuna Ind.
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Lacuna Ind\. -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1076 🔻  (1121)|
 | ELO Competitive | 1090 🔻  (1143)|

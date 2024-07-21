@@ -4,7 +4,7 @@ title: Betelgeuse
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Betelgeuse -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (597)|
 | ELO Competitive | 1186 🔻  (704)|

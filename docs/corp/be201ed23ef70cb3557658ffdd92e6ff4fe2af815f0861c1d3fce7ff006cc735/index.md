@@ -4,7 +4,7 @@ title: Sith order
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Sith order -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1201 🔺  (422)|
 | ELO Competitive | 1201 🔺  (512)|

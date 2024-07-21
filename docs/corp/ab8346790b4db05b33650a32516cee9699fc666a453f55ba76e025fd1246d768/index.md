@@ -4,7 +4,7 @@ title: 愿君仍常在
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 愿君仍常在 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (605)|
 | ELO Competitive | 1186 🔻  (715)|

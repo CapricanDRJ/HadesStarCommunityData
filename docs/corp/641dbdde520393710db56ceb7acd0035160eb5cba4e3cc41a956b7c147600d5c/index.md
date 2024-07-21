@@ -4,7 +4,7 @@ title: StarFun
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- StarFun -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔻  (576)|
 | ELO Competitive | 1190 🔻  (615)|

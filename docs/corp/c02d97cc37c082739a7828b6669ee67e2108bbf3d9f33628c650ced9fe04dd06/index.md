@@ -4,7 +4,7 @@ title: 银星舰队SSF
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 银星舰队SSF -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1262 🔺  (179)|
 | ELO Competitive | 1274 🔺  (248)|

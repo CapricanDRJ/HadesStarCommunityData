@@ -4,7 +4,7 @@ title: tropa (BR)
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- tropa \(BR\) -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1181 🔻  (757)|
 | ELO Competitive | 1190 🔻  (622)|

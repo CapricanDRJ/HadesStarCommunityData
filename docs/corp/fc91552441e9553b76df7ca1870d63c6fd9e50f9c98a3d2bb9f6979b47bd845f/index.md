@@ -4,7 +4,7 @@ title: the heavy
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- the heavy -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1225 🔻  (298)|
 | ELO Competitive | 1246 🔻  (314)|

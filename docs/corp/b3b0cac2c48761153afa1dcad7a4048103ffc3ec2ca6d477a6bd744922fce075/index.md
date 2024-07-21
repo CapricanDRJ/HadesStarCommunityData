@@ -4,7 +4,7 @@ title: Медведи
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Медведи -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1485 🔺  (8)|
 | ELO Competitive | 1492 🔺  (22)|

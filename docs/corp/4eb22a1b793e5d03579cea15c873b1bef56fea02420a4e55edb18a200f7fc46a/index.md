@@ -4,7 +4,7 @@ title: империя тьмы
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- империя тьмы -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1120 🔻  (1065)|
 | ELO Competitive | 1222 🔺  (388)|

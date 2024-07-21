@@ -4,7 +4,7 @@ title: Red Suns
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Red Suns -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1196 🔺  (481)|
 | ELO Competitive | 1236 🔺  (343)|

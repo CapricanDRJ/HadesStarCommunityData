@@ -4,7 +4,7 @@ title: La NoChE NeGrA
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- La NoChE NeGrA -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1197 🔻  (470)|
 | ELO Competitive | 1201 🔺  (522)|

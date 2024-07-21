@@ -4,7 +4,7 @@ title: Star Blazers
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Star Blazers -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1082 🔻  (1116)|
 | ELO Competitive | 1126 🔻  (1105)|

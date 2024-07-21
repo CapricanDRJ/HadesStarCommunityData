@@ -4,7 +4,7 @@ title: CIS
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- CIS -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1419 🔻  (26)|
 | ELO Competitive | 1471 🔺  (36)|

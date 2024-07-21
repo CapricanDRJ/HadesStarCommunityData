@@ -4,7 +4,7 @@ title: Ark
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Ark -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1439 🔻  (20)|
 | ELO Competitive | 1478 🔺  (29)|

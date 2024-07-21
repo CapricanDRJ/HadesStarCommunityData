@@ -4,7 +4,7 @@ title: StarControl
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- StarControl -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1393 🔺  (38)|
 | ELO Competitive | 1445 🔺  (50)|

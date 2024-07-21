@@ -4,7 +4,7 @@ title: Стальная крыса
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Стальная крыса -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1174 🔻  (804)|
 | ELO Competitive | 1174 🔻  (898)|

@@ -4,7 +4,7 @@ title: Sternenwanderer
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Sternenwanderer -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (693)|
 | ELO Competitive | 1185 🔻  (798)|

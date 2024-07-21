@@ -4,7 +4,7 @@ title: UFO
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- UFO -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1226 🔻  (294)|
 | ELO Competitive | 1232 🔻  (355)|

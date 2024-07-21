@@ -4,7 +4,7 @@ title: BlankBoosters
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- BlankBoosters -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1175 🔺  (793)|
 | ELO Competitive | 1182 🔺  (838)|

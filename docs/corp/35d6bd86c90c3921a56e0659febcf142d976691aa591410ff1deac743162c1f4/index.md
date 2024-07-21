@@ -4,7 +4,7 @@ title: New Era
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- New Era -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔻  (712)|
 | ELO Competitive | 1184 🔻  (811)|

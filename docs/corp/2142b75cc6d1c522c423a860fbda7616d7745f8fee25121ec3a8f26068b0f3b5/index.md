@@ -4,9 +4,9 @@ title: 星舰国际
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 星舰国际 -->| Statistic | Value |
 | --- | --- |
-| ELO Regular | 1245 🔺  (220)|
+| ELO Regular | 1245 🔺  (221)|
 | ELO Competitive | 1252 🔺  (301)|
 | Total Matches | 4 |
 | Wins | 4 |

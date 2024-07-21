@@ -4,7 +4,7 @@ title: O.E.B.
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- O\.E\.B\. -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1172 🔻  (835)|
 | ELO Competitive | 1172 🔻  (927)|

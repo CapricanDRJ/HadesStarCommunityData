@@ -4,7 +4,7 @@ title: ✡天启✡
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- ✡天启✡ -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1356 🔻  (59)|
 | ELO Competitive | 1457 🔺  (43)|

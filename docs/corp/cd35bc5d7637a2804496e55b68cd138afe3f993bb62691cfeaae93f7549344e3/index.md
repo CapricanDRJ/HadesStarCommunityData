@@ -4,7 +4,7 @@ title: NAC
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- NAC -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (598)|
 | ELO Competitive | 1190 🔻  (613)|

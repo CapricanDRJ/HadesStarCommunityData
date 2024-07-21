@@ -4,7 +4,7 @@ title: Venture
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Venture -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1087 🔻  (1111)|
 | ELO Competitive | 1136 🔻  (1090)|

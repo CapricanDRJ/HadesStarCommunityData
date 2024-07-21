@@ -4,7 +4,7 @@ title: Widow Makers
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Widow Makers -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1220 🔻  (311)|
 | ELO Competitive | 1232 🔻  (356)|

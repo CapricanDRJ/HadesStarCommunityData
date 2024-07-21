@@ -4,7 +4,7 @@ title: Void
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Void -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1180 🔻  (761)|
 | ELO Competitive | 1200 🔻  (543)|

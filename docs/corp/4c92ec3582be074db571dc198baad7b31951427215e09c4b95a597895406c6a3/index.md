@@ -4,7 +4,7 @@ title: DYLAN
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- DYLAN -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1281 🔻  (144)|
 | ELO Competitive | 1282 🔻  (231)|

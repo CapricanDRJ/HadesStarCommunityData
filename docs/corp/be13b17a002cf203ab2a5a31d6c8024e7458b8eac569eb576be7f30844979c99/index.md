@@ -4,7 +4,7 @@ title: Planet Express
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Planet Express -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1268 🔻  (168)|
 | ELO Competitive | 1276 🔻  (243)|

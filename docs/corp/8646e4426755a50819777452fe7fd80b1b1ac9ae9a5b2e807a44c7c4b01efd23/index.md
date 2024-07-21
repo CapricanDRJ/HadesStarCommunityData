@@ -4,7 +4,7 @@ title: 第一序列
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 第一序列 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1220 🔻  (314)|
 | ELO Competitive | 1392 🔻  (86)|

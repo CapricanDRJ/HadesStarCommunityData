@@ -4,7 +4,7 @@ title: The Red Dwarves
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- The Red Dwarves -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1190 🔻  (523)|
 | ELO Competitive | 1204 🔻  (499)|

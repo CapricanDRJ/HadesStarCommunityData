@@ -4,7 +4,7 @@ title: Ten Forward
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Ten Forward -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1115 🔻  (1077)|
 | ELO Competitive | 1118 🔻  (1113)|

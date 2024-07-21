@@ -4,7 +4,7 @@ title: 지고받자
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 지고받자 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1090 🔻  (1104)|
 | ELO Competitive | 1124 🔻  (1106)|

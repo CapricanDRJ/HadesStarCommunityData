@@ -4,7 +4,7 @@ title: 数字星际集团
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 数字星际集团 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1174 🔻  (808)|
 | ELO Competitive | 1183 🔻  (830)|

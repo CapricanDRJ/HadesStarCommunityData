@@ -4,7 +4,7 @@ title: Lights Off
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Lights Off  -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1321 🔺  (90)|
 | ELO Competitive | 1350 🔺  (128)|

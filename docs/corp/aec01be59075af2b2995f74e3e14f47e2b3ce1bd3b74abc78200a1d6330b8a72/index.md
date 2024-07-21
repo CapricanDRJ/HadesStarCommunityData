@@ -4,7 +4,7 @@ title: Corp. Estelar
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Corp\. Estelar -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1271 🔺  (161)|
 | ELO Competitive | 1302 🔺  (197)|

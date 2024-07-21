@@ -4,7 +4,7 @@ title: Sterling Gamers
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Sterling Gamers -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1201 🔻  (424)|
 | ELO Competitive | 1201 🔻  (515)|

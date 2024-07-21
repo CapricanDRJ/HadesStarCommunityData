@@ -4,7 +4,7 @@ title: 华夏太空舰队
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 华夏太空舰队 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (616)|
 | ELO Competitive | 1186 🔻  (732)|

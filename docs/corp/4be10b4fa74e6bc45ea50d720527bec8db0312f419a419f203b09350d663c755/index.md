@@ -4,7 +4,7 @@ title: DTC
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- DTC -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1026 🔻  (1153)|
 | ELO Competitive | 1176 🔻  (872)|

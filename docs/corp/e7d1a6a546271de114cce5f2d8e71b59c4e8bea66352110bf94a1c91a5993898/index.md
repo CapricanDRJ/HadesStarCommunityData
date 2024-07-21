@@ -4,7 +4,7 @@ title: SALTARDIS
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- SALTARDIS -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1154 🔻  (961)|
 | ELO Competitive | 1169 🔻  (966)|

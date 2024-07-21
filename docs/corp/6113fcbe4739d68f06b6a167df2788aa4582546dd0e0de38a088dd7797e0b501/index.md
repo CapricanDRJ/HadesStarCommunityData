@@ -4,7 +4,7 @@ title: 深空补给港
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 深空补给港 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1107 🔻  (1089)|
 | ELO Competitive | 1150 🔻  (1048)|

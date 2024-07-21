@@ -4,7 +4,7 @@ title: Kelebra
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Kelebra -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1206 🔻  (406)|
 | ELO Competitive | 1213 🔻  (463)|

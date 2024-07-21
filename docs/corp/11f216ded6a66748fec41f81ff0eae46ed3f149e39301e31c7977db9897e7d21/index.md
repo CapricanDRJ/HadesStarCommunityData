@@ -4,7 +4,7 @@ title: Galactic Trade
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Galactic Trade -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1150 🔻  (975)|
 | ELO Competitive | 1152 🔻  (1040)|

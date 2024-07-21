@@ -4,7 +4,7 @@ title: 海澜之家
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 海澜之家 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1181 🔻  (756)|
 | ELO Competitive | 1184 🔻  (819)|

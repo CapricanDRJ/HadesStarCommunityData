@@ -4,7 +4,7 @@ title: Brodudes Inc.
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Brodudes Inc\. -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1469 🔻  (12)|
 | ELO Competitive | 1541 🔻  (8)|

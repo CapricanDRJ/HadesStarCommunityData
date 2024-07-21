@@ -4,7 +4,7 @@ title: Gold Star
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Gold Star -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1130 🔺  (1043)|
 | ELO Competitive | 1135 🔺  (1093)|

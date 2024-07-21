@@ -4,7 +4,7 @@ title: 星を継ぐもの
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 星を継ぐもの -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1333 🔺  (79)|
 | ELO Competitive | 1360 🔺  (116)|

@@ -4,7 +4,7 @@ title: Tortuga Station
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Tortuga Station -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (621)|
 | ELO Competitive | 1186 🔻  (719)|

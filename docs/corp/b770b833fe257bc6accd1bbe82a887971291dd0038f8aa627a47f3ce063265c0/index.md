@@ -4,7 +4,7 @@ title: ЧВК "Котики"
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- ЧВК "Котики" -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1302 🔻  (118)|
 | ELO Competitive | 1340 🔻  (140)|

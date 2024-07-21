@@ -4,7 +4,7 @@ title: 2ND-R8 Corp.
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 2ND\-R8 Corp\. -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1288 🔺  (133)|
 | ELO Competitive | 1340 🔺  (139)|

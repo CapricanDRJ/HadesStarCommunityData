@@ -4,7 +4,7 @@ title: АНДРОМЕДА
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- АНДРОМЕДА  -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1179 🔺  (770)|
 | ELO Competitive | 1252 🔺  (302)|

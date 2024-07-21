@@ -4,7 +4,7 @@ title: Unión latina
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Unión latina -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1274 🔺  (153)|
 | ELO Competitive | 1345 🔺  (134)|

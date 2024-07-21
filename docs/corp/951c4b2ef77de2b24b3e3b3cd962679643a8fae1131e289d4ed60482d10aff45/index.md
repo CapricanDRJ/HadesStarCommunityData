@@ -4,7 +4,7 @@ title: Simply Uranus
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Simply Uranus -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1174 🔻  (809)|
 | ELO Competitive | 1190 🔻  (621)|

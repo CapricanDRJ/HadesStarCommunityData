@@ -4,7 +4,7 @@ title: Albedo
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Albedo -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1330 🔻  (82)|
 | ELO Competitive | 1367 🔻  (109)|

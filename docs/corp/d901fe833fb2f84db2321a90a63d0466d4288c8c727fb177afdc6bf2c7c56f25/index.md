@@ -4,7 +4,7 @@ title: Enigma
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Enigma -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1124 🔻  (1056)|
 | ELO Competitive | 1152 🔻  (1041)|

@@ -4,7 +4,7 @@ title: SNSS
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- SNSS -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1175 🔻  (795)|
 | ELO Competitive | 1175 🔻  (884)|

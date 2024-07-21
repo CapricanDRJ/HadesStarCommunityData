@@ -4,7 +4,7 @@ title: The Allegiant
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- The Allegiant -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1274 🔺  (152)|
 | ELO Competitive | 1293 🔺  (215)|

@@ -4,7 +4,7 @@ title: UK Armada
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- UK Armada -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1212 🔻  (385)|
 | ELO Competitive | 1218 🔻  (413)|

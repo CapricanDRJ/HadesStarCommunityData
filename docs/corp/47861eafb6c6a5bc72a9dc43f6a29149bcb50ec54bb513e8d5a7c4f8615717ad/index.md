@@ -4,7 +4,7 @@ title: Red Star Banker
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Red Star Banker -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1170 🔻  (875)|
 | ELO Competitive | 1170 🔻  (963)|

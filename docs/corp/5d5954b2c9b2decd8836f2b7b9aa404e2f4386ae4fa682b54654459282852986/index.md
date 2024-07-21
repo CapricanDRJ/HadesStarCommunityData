@@ -4,7 +4,7 @@ title: GermanIndustrie
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- GermanIndustrie -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1283 🔺  (142)|
 | ELO Competitive | 1304 🔺  (193)|

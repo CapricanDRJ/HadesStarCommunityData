@@ -4,7 +4,7 @@ title: Crux Cadre
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Crux Cadre -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1262 🔺  (178)|
 | ELO Competitive | 1323 🔺  (170)|

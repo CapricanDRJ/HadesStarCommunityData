@@ -4,7 +4,7 @@ title: Алый Феникс
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Алый Феникс -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1134 🔻  (1034)|
 | ELO Competitive | 1142 🔻  (1076)|

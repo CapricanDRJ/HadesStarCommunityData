@@ -4,7 +4,7 @@ title: Макароны V1.0
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Макароны V1\.0 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (639)|
 | ELO Competitive | 1185 🔻  (745)|

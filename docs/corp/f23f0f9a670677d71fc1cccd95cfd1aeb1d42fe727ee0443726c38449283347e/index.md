@@ -4,7 +4,7 @@ title: 42 Nova Corps.
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 42 Nova Corps\. -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1210 🔺  (393)|
 | ELO Competitive | 1211 🔺  (475)|

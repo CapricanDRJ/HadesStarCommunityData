@@ -4,7 +4,7 @@ title:  Eligius
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!--  Eligius  -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1190 🔻  (525)|
 | ELO Competitive | 1190 🔻  (616)|

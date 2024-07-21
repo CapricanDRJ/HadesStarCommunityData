@@ -4,7 +4,7 @@ title: 春城阳关
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 春城阳关 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔻  (558)|
 | ELO Competitive | 1187 🔻  (662)|

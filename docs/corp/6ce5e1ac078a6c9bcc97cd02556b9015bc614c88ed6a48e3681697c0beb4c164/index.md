@@ -4,7 +4,7 @@ title: Saiyan Empire
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Saiyan Empire -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1175 🔻  (798)|
 | ELO Competitive | 1183 🔻  (833)|

@@ -4,7 +4,7 @@ title: Warriors union
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Warriors union -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1162 🔻  (921)|
 | ELO Competitive | 1163 🔻  (995)|

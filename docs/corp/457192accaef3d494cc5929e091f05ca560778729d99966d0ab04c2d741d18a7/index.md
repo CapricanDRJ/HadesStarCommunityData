@@ -4,7 +4,7 @@ title: Эдельвейс
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Эдельвейс -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1156 🔻  (954)|
 | ELO Competitive | 1185 🔻  (750)|

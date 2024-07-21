@@ -4,7 +4,7 @@ title: Caprica command
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Caprica command -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1199 🔻  (463)|
 | ELO Competitive | 1203 🔻  (504)|

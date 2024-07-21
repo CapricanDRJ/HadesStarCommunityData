@@ -4,7 +4,7 @@ title: Aeternae
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Aeternae -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1113 🔻  (1080)|
 | ELO Competitive | 1116 🔻  (1115)|

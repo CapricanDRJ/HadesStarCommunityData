@@ -4,7 +4,7 @@ title: Stella☆Glow
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Stella☆Glow -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1339 🔺  (74)|
 | ELO Competitive | 1368 🔺  (107)|

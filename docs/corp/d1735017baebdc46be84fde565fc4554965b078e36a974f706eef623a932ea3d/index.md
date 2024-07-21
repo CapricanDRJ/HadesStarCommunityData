@@ -4,7 +4,7 @@ title: RATAS
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- RATAS -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (687)|
 | ELO Competitive | 1190 🔻  (624)|

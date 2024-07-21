@@ -4,7 +4,7 @@ title: Croce del Sud
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Croce del Sud -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1210 🔺  (395)|
 | ELO Competitive | 1230 🔺  (361)|

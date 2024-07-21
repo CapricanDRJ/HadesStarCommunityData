@@ -4,7 +4,7 @@ title: Cyber Star
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Cyber Star -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1375 🔺  (47)|
 | ELO Competitive | 1410 🔺  (72)|

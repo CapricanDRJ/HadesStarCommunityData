@@ -4,7 +4,7 @@ title: Stellaris
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Stellaris -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1145 🔻  (993)|
 | ELO Competitive | 1156 🔻  (1028)|

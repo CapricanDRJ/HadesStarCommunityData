@@ -4,7 +4,7 @@ title: TearsWorld
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- TearsWorld -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔻  (717)|
 | ELO Competitive | 1184 🔻  (816)|

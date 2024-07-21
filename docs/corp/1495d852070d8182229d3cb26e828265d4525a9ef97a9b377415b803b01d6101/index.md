@@ -4,9 +4,9 @@ title: Галактика Зла
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Галактика Зла -->| Statistic | Value |
 | --- | --- |
-| ELO Regular | 1245 🔺  (226)|
+| ELO Regular | 1245 🔺  (227)|
 | ELO Competitive | 1262 🔺  (275)|
 | Total Matches | 26 |
 | Wins | 12 |

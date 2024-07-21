@@ -4,7 +4,7 @@ title: INFINITY STAR
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- INFINITY STAR -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1183 🔻  (740)|
 | ELO Competitive | 1211 🔻  (481)|

@@ -4,7 +4,7 @@ title: 云霄宫
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 云霄宫 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1171 🔻  (860)|
 | ELO Competitive | 1171 🔻  (948)|

@@ -4,7 +4,7 @@ title: CCCP
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- CCCP -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1132 🔺  (1037)|
 | ELO Competitive | 1136 🔺  (1088)|

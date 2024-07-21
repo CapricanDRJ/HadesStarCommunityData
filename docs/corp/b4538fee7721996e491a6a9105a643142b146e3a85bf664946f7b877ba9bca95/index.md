@@ -4,7 +4,7 @@ title: ArcadianVoiders
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- ArcadianVoiders -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1171 🔻  (845)|
 | ELO Competitive | 1171 🔻  (934)|

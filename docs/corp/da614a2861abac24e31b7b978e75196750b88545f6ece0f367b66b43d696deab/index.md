@@ -4,7 +4,7 @@ title: 联合宇宙
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 联合宇宙 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1084 🔻  (1114)|
 | ELO Competitive | 1129 🔻  (1101)|

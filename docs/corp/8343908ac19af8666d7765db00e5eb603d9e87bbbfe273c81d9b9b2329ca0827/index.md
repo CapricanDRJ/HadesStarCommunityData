@@ -4,7 +4,7 @@ title: Inexorable
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Inexorable -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1229 🔻  (282)|
 | ELO Competitive | 1286 🔻  (223)|

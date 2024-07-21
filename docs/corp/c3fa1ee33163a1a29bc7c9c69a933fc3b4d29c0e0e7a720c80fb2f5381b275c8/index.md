@@ -4,7 +4,7 @@ title: МАРСЮКИ
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- МАРСЮКИ -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1505 🔺  (4)|
 | ELO Competitive | 1531 🔺  (10)|

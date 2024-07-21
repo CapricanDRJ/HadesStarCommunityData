@@ -4,7 +4,7 @@ title: 喵喵喵喵喵喵喵
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 喵喵喵喵喵喵喵 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1147 🔻  (981)|
 | ELO Competitive | 1164 🔻  (989)|

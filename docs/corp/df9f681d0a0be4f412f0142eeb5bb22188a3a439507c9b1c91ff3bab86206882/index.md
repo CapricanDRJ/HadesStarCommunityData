@@ -4,7 +4,7 @@ title: 盾牌座UY分团
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 盾牌座UY分团 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1156 🔻  (953)|
 | ELO Competitive | 1158 🔻  (1020)|

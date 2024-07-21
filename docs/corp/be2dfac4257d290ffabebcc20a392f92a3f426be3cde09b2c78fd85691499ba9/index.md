@@ -4,7 +4,7 @@ title: 暮光之城
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 暮光之城 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1177 🔻  (773)|
 | ELO Competitive | 1183 🔻  (829)|

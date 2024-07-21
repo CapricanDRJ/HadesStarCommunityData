@@ -4,7 +4,7 @@ title: Hands Of God
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Hands Of God -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (599)|
 | ELO Competitive | 1186 🔻  (701)|

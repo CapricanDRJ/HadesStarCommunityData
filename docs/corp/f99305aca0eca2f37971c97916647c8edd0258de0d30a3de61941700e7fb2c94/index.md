@@ -4,7 +4,7 @@ title: Corvus Ind.
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Corvus Ind\. -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1358 🔺  (57)|
 | ELO Competitive | 1404 🔺  (78)|

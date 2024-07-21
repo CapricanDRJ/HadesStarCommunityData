@@ -4,7 +4,7 @@ title: NoweUkladyII
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- NoweUkladyII -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1311 🔺  (107)|
 | ELO Competitive | 1337 🔺  (145)|

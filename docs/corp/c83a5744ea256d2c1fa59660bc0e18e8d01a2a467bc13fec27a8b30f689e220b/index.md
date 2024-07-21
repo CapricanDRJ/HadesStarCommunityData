@@ -4,7 +4,7 @@ title: SiriusStrawMoo
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- SiriusStrawMoo -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1183 🔺  (735)|
 | ELO Competitive | 1188 🔺  (650)|

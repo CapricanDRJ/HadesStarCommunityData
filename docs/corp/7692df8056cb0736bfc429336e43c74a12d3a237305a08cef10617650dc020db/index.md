@@ -4,7 +4,7 @@ title: 世外桃源
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 世外桃源 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 837 🔻  (1176)|
 | ELO Competitive | 1040 🔻  (1169)|

@@ -4,7 +4,7 @@ title: 두빛나래
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 두빛나래 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1161 🔻  (925)|
 | ELO Competitive | 1220 🔻  (396)|

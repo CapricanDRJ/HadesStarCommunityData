@@ -4,7 +4,7 @@ title: Interestelar
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Interestelar -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1304 🔻  (115)|
 | ELO Competitive | 1316 🔻  (179)|

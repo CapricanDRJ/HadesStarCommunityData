@@ -4,7 +4,7 @@ title: Dark Exodus
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Dark Exodus -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1172 🔻  (836)|
 | ELO Competitive | 1175 🔻  (894)|

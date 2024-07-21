@@ -4,7 +4,7 @@ title: Astra Ultima
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Astra Ultima -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1159 🔻  (937)|
 | ELO Competitive | 1159 🔻  (1012)|

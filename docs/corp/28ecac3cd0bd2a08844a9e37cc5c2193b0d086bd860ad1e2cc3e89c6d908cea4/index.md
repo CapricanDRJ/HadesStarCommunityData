@@ -4,7 +4,7 @@ title: Империя
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Империя -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1201 🔺  (423)|
 | ELO Competitive | 1201 🔺  (514)|

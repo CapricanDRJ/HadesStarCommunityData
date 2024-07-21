@@ -4,7 +4,7 @@ title: КРЫЛЯ ФЕНИКСА
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- КРЫЛЯ ФЕНИКСА -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1217 🔻  (324)|
 | ELO Competitive | 1227 🔻  (374)|

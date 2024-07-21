@@ -4,7 +4,7 @@ title: Black Star llc.
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Black Star llc\. -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1333 🔺  (78)|
 | ELO Competitive | 1399 🔺  (82)|

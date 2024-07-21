@@ -4,7 +4,7 @@ title: Dark Rangers
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Dark Rangers -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔻  (557)|
 | ELO Competitive | 1188 🔻  (649)|

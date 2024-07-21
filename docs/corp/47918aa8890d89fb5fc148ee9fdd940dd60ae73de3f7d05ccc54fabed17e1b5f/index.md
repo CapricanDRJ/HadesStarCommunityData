@@ -4,7 +4,7 @@ title: j g f h me t y 
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- j g f h me t y  -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1146 🔻  (988)|
 | ELO Competitive | 1147 🔻  (1057)|

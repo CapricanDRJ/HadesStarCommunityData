@@ -4,7 +4,7 @@ title: Industrial W.O
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Industrial W\.O -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1212 🔺  (383)|
 | ELO Competitive | 1254 🔺  (296)|

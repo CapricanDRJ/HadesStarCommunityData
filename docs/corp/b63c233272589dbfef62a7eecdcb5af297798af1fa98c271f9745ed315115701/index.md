@@ -4,7 +4,7 @@ title: The Covenant
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- The Covenant -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (596)|
 | ELO Competitive | 1189 🔻  (637)|

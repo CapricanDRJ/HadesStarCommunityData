@@ -4,7 +4,7 @@ title: Revelation
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Revelation -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1189 🔻  (535)|
 | ELO Competitive | 1188 🔻  (652)|

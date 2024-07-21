@@ -4,7 +4,7 @@ title: ●Black•Sails●
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- ●Black•Sails● -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1236 🔺  (263)|
 | ELO Competitive | 1271 🔺  (258)|

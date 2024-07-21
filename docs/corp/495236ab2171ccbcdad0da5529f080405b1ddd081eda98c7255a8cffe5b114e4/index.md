@@ -4,7 +4,7 @@ title: Jalisco México
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Jalisco México -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1078 🔻  (1120)|
 | ELO Competitive | 1140 🔻  (1081)|

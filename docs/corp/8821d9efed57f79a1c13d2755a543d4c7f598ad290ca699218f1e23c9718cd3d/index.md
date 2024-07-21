@@ -4,7 +4,7 @@ title: 小红色太阳
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 小红色太阳 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (686)|
 | ELO Competitive | 1185 🔻  (795)|

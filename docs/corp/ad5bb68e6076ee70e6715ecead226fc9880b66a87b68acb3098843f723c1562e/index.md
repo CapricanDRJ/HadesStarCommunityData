@@ -4,7 +4,7 @@ title: Game of Stars
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Game of Stars -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1141 🔺  (1006)|
 | ELO Competitive | 1165 🔺  (985)|

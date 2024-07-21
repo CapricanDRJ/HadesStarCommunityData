@@ -4,7 +4,7 @@ title: Ukraine
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Ukraine -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔻  (702)|
 | ELO Competitive | 1184 🔻  (806)|

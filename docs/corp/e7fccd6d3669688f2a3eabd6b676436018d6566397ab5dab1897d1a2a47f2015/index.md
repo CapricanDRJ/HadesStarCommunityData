@@ -4,7 +4,7 @@ title: UKR Spase
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- UKR Spase -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1317 🔻  (97)|
 | ELO Competitive | 1340 🔻  (138)|

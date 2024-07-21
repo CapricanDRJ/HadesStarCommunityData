@@ -4,7 +4,7 @@ title: 遨游星空
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 遨游星空 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (591)|
 | ELO Competitive | 1187 🔻  (673)|

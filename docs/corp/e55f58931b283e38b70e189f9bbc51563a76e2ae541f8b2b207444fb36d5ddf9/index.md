@@ -4,7 +4,7 @@ title: Cydonia Order
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Cydonia Order -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1105 🔻  (1091)|
 | ELO Competitive | 1120 🔻  (1109)|

@@ -4,7 +4,7 @@ title: New Horizons
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- New Horizons -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1205 🔻  (408)|
 | ELO Competitive | 1238 🔻  (336)|

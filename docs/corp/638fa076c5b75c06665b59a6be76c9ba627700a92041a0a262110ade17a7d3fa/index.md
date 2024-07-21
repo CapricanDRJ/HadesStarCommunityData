@@ -4,7 +4,7 @@ title: CDS
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- CDS -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (691)|
 | ELO Competitive | 1185 🔻  (799)|

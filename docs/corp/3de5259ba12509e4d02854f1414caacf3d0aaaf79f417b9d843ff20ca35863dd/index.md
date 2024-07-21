@@ -4,7 +4,7 @@ title: Atlas Star llc.
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Atlas Star llc\. -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1404 🔺  (30)|
 | ELO Competitive | 1431 🔺  (60)|

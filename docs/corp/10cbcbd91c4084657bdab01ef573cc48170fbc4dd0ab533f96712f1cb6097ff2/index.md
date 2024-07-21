@@ -4,7 +4,7 @@ title: Дом Датэ
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Дом Датэ -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1318 🔺  (96)|
 | ELO Competitive | 1376 🔺  (101)|

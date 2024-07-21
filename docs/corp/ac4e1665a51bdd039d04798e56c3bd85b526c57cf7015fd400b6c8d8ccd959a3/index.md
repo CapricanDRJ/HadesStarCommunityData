@@ -4,7 +4,7 @@ title: 63SALVADORES36
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 63SALVADORES36 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1173 🔻  (822)|
 | ELO Competitive | 1176 🔻  (876)|

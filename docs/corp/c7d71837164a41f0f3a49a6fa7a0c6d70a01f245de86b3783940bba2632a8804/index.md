@@ -4,7 +4,7 @@ title: 新手联邦（新经济开发区）
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 新手联邦（新经济开发区） -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1459 🔺  (15)|
 | ELO Competitive | 1480 🔺  (26)|

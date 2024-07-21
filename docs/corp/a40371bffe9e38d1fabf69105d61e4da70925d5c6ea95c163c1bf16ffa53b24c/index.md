@@ -4,7 +4,7 @@ title: MILIBARINOS
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- MILIBARINOS -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1189 🔻  (528)|
 | ELO Competitive | 1190 🔻  (626)|

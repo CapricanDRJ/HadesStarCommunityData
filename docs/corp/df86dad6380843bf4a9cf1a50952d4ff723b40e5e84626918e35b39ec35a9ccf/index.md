@@ -4,7 +4,7 @@ title: corporacion I.A
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- corporacion I\.A -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1188 🔻  (547)|
 | ELO Competitive | 1192 🔻  (592)|

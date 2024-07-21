@@ -4,7 +4,7 @@ title: Space Rangers
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Space Rangers -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1295 🔺  (125)|
 | ELO Competitive | 1347 🔺  (132)|

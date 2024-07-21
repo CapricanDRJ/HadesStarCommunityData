@@ -4,7 +4,7 @@ title: Variants
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Variants -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔻  (711)|
 | ELO Competitive | 1186 🔻  (707)|

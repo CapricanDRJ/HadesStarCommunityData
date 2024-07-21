@@ -4,7 +4,7 @@ title: ua online
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- ua online -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1169 🔻  (878)|
 | ELO Competitive | 1171 🔻  (936)|

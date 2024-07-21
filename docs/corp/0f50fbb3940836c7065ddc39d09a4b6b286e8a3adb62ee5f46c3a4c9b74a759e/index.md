@@ -4,7 +4,7 @@ title: Black Mirror Co
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Black Mirror Co -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (622)|
 | ELO Competitive | 1186 🔻  (736)|

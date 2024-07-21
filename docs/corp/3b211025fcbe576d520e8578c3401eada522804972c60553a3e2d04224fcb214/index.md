@@ -4,7 +4,7 @@ title: Space Force
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Space Force -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1170 🔻  (872)|
 | ELO Competitive | 1189 🔻  (640)|

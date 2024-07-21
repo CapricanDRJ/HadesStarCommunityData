@@ -4,7 +4,7 @@ title: Madison Holding
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Madison Holding -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1239 🔻  (245)|
 | ELO Competitive | 1243 🔻  (325)|

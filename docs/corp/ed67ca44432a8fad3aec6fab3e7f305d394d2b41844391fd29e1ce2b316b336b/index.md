@@ -4,7 +4,7 @@ title: Lacuna Academy
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Lacuna Academy -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1345 🔺  (66)|
 | ELO Competitive | 1353 🔺  (123)|

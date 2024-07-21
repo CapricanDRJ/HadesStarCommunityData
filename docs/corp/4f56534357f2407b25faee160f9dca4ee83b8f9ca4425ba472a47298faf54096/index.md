@@ -4,7 +4,7 @@ title: Z. O. V.
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Z\. O\. V\.  -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1346 🔺  (64)|
 | ELO Competitive | 1392 🔺  (87)|

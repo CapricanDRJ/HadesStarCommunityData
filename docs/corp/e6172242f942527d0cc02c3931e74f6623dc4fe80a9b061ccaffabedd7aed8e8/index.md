@@ -4,7 +4,7 @@ title: F.E.I.
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- F\.E\.I\. -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1182 🔻  (748)|
 | ELO Competitive | 1183 🔻  (831)|

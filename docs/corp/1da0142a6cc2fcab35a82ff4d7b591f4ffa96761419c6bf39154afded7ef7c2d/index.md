@@ -4,7 +4,7 @@ title: Orden Estelar
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Orden Estelar  -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1207 🔺  (404)|
 | ELO Competitive | 1216 🔺  (432)|

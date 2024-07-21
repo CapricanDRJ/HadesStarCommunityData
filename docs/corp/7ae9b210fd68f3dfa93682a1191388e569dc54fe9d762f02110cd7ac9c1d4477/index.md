@@ -4,7 +4,7 @@ title: Rogue One
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Rogue One -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1279 🔻  (146)|
 | ELO Competitive | 1365 🔻  (110)|

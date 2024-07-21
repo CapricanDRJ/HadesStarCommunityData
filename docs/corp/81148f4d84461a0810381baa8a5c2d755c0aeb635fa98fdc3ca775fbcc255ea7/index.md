@@ -4,7 +4,7 @@ title: TheSpacingGuild
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- TheSpacingGuild -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (638)|
 | ELO Competitive | 1187 🔻  (679)|

@@ -4,7 +4,7 @@ title: РОДНЫЕ.
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- РОДНЫЕ\. -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1199 🔻  (460)|
 | ELO Competitive | 1205 🔻  (495)|

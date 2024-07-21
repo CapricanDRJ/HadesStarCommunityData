@@ -4,7 +4,7 @@ title: Star Raiders
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Star Raiders -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1179 🔻  (767)|
 | ELO Competitive | 1179 🔻  (853)|

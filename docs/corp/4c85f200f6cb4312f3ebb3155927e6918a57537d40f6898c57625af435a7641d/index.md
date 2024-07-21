@@ -4,7 +4,7 @@ title: LOST PIRATES
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- LOST PIRATES -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1131 🔻  (1039)|
 | ELO Competitive | 1134 🔻  (1095)|

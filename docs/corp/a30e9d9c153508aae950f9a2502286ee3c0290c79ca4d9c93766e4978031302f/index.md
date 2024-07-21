@@ -4,7 +4,7 @@ title: Mega Corp
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Mega Corp -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔻  (722)|
 | ELO Competitive | 1184 🔻  (813)|

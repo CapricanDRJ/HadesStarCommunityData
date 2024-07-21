@@ -4,7 +4,7 @@ title: 火洋之心
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 火洋之心 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1237 🔻  (257)|
 | ELO Competitive | 1239 🔻  (335)|

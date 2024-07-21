@@ -4,7 +4,7 @@ title: Stargate Corp
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Stargate Corp -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1345 🔺  (67)|
 | ELO Competitive | 1479 🔺  (27)|

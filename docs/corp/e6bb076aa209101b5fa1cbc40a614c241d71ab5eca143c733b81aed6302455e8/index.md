@@ -4,7 +4,7 @@ title: 逐光起航
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 逐光起航 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1057 🔻  (1136)|
 | ELO Competitive | 1086 🔻  (1147)|

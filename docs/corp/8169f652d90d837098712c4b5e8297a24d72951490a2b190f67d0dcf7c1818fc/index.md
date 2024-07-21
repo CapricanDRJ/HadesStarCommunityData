@@ -4,7 +4,7 @@ title: Dutch Space Id
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Dutch Space Id -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1165 🔻  (907)|
 | ELO Competitive | 1167 🔻  (977)|

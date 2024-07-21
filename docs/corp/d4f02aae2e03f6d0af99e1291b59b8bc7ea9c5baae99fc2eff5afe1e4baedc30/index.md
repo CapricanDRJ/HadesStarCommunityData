@@ -4,7 +4,7 @@ title: 日月星辰
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 日月星辰 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1214 🔻  (363)|
 | ELO Competitive | 1220 🔻  (400)|

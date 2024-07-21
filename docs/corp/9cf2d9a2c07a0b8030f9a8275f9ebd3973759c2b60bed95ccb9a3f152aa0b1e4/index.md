@@ -4,7 +4,7 @@ title: 星海扬帆
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 星海扬帆 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1228 🔺  (286)|
 | ELO Competitive | 1330 🔺  (156)|

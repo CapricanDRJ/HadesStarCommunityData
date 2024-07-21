@@ -4,7 +4,7 @@ title: SuperStarGamers
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- SuperStarGamers -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1214 🔺  (355)|
 | ELO Competitive | 1214 🔺  (453)|

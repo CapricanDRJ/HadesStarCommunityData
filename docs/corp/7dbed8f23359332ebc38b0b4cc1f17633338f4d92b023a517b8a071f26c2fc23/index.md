@@ -4,7 +4,7 @@ title: nebulous
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- nebulous -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1192 🔻  (505)|
 | ELO Competitive | 1193 🔻  (588)|

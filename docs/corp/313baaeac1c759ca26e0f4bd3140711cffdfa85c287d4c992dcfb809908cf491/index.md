@@ -4,7 +4,7 @@ title: Legion
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Legion -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1228 🔻  (285)|
 | ELO Competitive | 1324 🔻  (165)|

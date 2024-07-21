@@ -4,7 +4,7 @@ title: The Seperatists
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- The Seperatists -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (625)|
 | ELO Competitive | 1264 🔻  (270)|

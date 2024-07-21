@@ -4,7 +4,7 @@ title: VAJRA
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- VAJRA  -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1189 🔻  (532)|
 | ELO Competitive | 1189 🔻  (627)|

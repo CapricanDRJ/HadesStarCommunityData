@@ -4,7 +4,7 @@ title: Shadow Council
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Shadow Council -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1158 🔻  (943)|
 | ELO Competitive | 1167 🔻  (974)|

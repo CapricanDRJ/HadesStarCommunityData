@@ -4,7 +4,7 @@ title: lesescargots
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- lesescargots -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1284 🔻  (139)|
 | ELO Competitive | 1321 🔻  (172)|

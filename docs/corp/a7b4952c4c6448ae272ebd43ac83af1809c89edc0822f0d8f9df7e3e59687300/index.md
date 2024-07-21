@@ -4,7 +4,7 @@ title: CENTINELA
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- CENTINELA -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1188 🔻  (550)|
 | ELO Competitive | 1188 🔻  (647)|

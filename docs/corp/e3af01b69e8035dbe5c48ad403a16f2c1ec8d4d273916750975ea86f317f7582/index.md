@@ -4,7 +4,7 @@ title: Rogue Dudes
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Rogue Dudes -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1230 🔺  (276)|
 | ELO Competitive | 1230 🔺  (362)|

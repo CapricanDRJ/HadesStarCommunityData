@@ -4,7 +4,7 @@ title: 蓝色星系一号分盟
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 蓝色星系一号分盟 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1160 🔻  (926)|
 | ELO Competitive | 1166 🔻  (982)|

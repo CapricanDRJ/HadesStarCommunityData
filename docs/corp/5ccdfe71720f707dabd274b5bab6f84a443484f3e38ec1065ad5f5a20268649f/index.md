@@ -4,7 +4,7 @@ title: Copelius
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Copelius -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1190 🔻  (526)|
 | ELO Competitive | 1192 🔻  (593)|

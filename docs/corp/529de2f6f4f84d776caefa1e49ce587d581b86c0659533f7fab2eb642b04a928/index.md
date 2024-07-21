@@ -4,7 +4,7 @@ title: Quin Armarda 2
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Quin Armarda 2 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1169 🔻  (885)|
 | ELO Competitive | 1176 🔻  (875)|

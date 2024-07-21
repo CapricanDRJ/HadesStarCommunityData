@@ -4,7 +4,7 @@ title: Looping
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Looping -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1307 🔻  (111)|
 | ELO Competitive | 1353 🔻  (121)|

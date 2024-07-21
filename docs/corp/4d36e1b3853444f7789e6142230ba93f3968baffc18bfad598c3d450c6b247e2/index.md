@@ -4,7 +4,7 @@ title: 资助会
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 资助会 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1242 🔺  (237)|
 | ELO Competitive | 1242 🔺  (326)|

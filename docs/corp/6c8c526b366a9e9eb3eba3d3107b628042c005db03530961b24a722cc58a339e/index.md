@@ -4,7 +4,7 @@ title: Duchy Arrakis
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Duchy Arrakis -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1273 🔺  (156)|
 | ELO Competitive | 1303 🔺  (195)|

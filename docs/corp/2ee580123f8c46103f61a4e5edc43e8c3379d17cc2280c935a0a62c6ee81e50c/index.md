@@ -4,7 +4,7 @@ title: 德意志联邦集团
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 德意志联邦集团 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1154 🔻  (965)|
 | ELO Competitive | 1159 🔻  (1015)|

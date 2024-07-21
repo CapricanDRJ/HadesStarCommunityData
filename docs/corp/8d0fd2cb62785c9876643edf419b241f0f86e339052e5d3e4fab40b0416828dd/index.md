@@ -4,7 +4,7 @@ title: Splendid
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Splendid -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1171 🔻  (851)|
 | ELO Competitive | 1173 🔻  (905)|

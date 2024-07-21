@@ -4,7 +4,7 @@ title: Sprite
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Sprite -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1202 🔻  (417)|
 | ELO Competitive | 1209 🔻  (485)|

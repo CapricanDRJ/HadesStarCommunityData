@@ -4,7 +4,7 @@ title: Hungary First
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Hungary First -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1259 🔺  (183)|
 | ELO Competitive | 1267 🔺  (265)|

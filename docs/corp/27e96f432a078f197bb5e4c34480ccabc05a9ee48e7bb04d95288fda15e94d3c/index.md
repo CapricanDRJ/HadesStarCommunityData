@@ -4,7 +4,7 @@ title: Últimafronteira
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Últimafronteira -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1269 🔺  (165)|
 | ELO Competitive | 1265 🔺  (268)|

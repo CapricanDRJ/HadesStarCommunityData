@@ -4,7 +4,7 @@ title: Hinterm Mars
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Hinterm Mars -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1205 🔻  (410)|
 | ELO Competitive | 1365 🔻  (111)|

@@ -4,7 +4,7 @@ title: 德意志第三帝国BATA分部
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 德意志第三帝国BATA分部 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1213 🔺  (372)|
 | ELO Competitive | 1213 🔺  (464)|

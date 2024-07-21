@@ -4,7 +4,7 @@ title: Млечный путь
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Млечный путь -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1227 🔻  (291)|
 | ELO Competitive | 1283 🔻  (229)|

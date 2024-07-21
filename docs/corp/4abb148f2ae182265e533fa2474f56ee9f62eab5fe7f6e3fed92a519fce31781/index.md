@@ -4,7 +4,7 @@ title: just because
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- just because -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔻  (705)|
 | ELO Competitive | 1186 🔻  (700)|

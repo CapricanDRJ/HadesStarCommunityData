@@ -4,7 +4,7 @@ title: Dumpster Fire
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Dumpster Fire -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1095 🔺  (1100)|
 | ELO Competitive | 1153 🔺  (1037)|

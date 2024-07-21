@@ -4,7 +4,7 @@ title: 北冥星云
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 北冥星云 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1145 🔻  (992)|
 | ELO Competitive | 1160 🔻  (1008)|

@@ -4,7 +4,7 @@ title: DarkSide
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- DarkSide -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1250 🔺  (207)|
 | ELO Competitive | 1393 🔺  (85)|

@@ -4,7 +4,7 @@ title: titan tv
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- titan tv -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1091 🔺  (1103)|
 | ELO Competitive | 1189 🔺  (643)|

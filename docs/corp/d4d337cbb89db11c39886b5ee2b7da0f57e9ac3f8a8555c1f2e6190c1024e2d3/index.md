@@ -4,7 +4,7 @@ title: Alfa Reach
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Alfa Reach -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1188 🔻  (549)|
 | ELO Competitive | 1188 🔻  (660)|

@@ -4,7 +4,7 @@ title: Wompwompway
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Wompwompway  -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1341 🔻  (73)|
 | ELO Competitive | 1371 🔻  (103)|

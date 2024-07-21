@@ -4,10 +4,10 @@ title: West Worlders
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- West Worlders -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1087 🔻  (1109)|
-| ELO Competitive | 1106 🔻  (1131)|
+| ELO Competitive | 1106 🔻  (1130)|
 | Total Matches | 11 |
 | Wins | 1 |
 | Losses | 10 |

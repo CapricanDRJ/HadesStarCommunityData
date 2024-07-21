@@ -4,7 +4,7 @@ title: 小宇宙研究会
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 小宇宙研究会 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1180 🔻  (763)|
 | ELO Competitive | 1183 🔻  (835)|

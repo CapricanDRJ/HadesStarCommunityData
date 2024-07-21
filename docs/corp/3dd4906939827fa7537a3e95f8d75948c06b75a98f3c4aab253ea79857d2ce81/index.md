@@ -4,7 +4,7 @@ title: Death Star llc.
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Death Star llc\. -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1470 🔺  (11)|
 | ELO Competitive | 1496 🔺  (21)|

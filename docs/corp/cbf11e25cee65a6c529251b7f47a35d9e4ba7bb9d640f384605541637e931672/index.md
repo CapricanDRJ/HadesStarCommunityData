@@ -4,7 +4,7 @@ title: Держава Русь
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Держава Русь -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1060 🔻  (1135)|
 | ELO Competitive | 1087 🔻  (1145)|

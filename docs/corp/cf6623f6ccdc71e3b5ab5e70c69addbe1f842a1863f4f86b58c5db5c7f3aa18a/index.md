@@ -4,7 +4,7 @@ title: G.O.D
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- G\.O\.D -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (692)|
 | ELO Competitive | 1186 🔻  (708)|

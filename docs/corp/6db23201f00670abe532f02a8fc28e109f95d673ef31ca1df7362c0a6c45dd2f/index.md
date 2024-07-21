@@ -4,7 +4,7 @@ title: (_(_Vossk_)_)
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- \(\_\(\_Vossk\_\)\_\) -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1179 🔻  (768)|
 | ELO Competitive | 1210 🔻  (483)|

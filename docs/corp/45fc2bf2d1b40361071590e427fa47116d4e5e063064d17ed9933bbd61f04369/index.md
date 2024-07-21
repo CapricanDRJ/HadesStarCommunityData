@@ -4,7 +4,7 @@ title: Deadspace
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Deadspace -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1131 🔻  (1041)|
 | ELO Competitive | 1181 🔻  (843)|

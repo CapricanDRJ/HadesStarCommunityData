@@ -4,7 +4,7 @@ title: 德尔塔星舰联盟
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 德尔塔星舰联盟 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (631)|
 | ELO Competitive | 1186 🔻  (688)|

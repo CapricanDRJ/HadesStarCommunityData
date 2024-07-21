@@ -4,7 +4,7 @@ title: Phoenix corp
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Phoenix corp -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1192 🔻  (504)|
 | ELO Competitive | 1193 🔻  (589)|

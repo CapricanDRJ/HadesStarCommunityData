@@ -4,7 +4,7 @@ title: Galaxy knights
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Galaxy knights -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1171 🔻  (861)|
 | ELO Competitive | 1171 🔻  (951)|

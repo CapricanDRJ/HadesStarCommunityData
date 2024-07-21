@@ -4,7 +4,7 @@ title: Genesis Corp
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Genesis Corp -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1169 🔻  (884)|
 | ELO Competitive | 1171 🔻  (957)|

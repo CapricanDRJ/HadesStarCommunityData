@@ -4,7 +4,7 @@ title: Alpaca Haven
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Alpaca Haven -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1263 🔻  (176)|
 | ELO Competitive | 1288 🔻  (222)|

@@ -4,7 +4,7 @@ title: space eagles
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- space eagles -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (594)|
 | ELO Competitive | 1186 🔻  (703)|

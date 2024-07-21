@@ -4,7 +4,7 @@ title: Galaktika corp
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Galaktika corp -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1306 🔻  (113)|
 | ELO Competitive | 1327 🔻  (160)|

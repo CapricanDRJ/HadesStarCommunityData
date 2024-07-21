@@ -4,7 +4,7 @@ title: Черное солнце
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Черное солнце -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (582)|
 | ELO Competitive | 1205 🔺  (496)|

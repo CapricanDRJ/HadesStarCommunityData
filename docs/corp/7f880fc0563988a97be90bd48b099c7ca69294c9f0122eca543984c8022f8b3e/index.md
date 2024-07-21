@@ -4,7 +4,7 @@ title: Cronos World
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Cronos World -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1171 🔻  (841)|
 | ELO Competitive | 1171 🔻  (931)|

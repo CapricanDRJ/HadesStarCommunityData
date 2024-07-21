@@ -4,7 +4,7 @@ title: Star Field
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Star Field -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1306 🔺  (112)|
 | ELO Competitive | 1329 🔺  (159)|

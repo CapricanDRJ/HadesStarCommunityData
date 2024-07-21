@@ -4,7 +4,7 @@ title: Flying Dutchmen
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Flying Dutchmen -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1189 🔻  (538)|
 | ELO Competitive | 1190 🔻  (619)|

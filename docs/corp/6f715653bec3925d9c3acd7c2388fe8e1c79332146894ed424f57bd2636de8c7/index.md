@@ -4,7 +4,7 @@ title: Mass Effect
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Mass Effect -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1216 🔺  (333)|
 | ELO Competitive | 1258 🔺  (284)|

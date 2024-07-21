@@ -4,7 +4,7 @@ title: 解语者研究会
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 解语者研究会 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (626)|
 | ELO Competitive | 1186 🔻  (718)|

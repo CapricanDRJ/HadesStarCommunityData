@@ -4,7 +4,7 @@ title: Imperio Galacti
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Imperio Galacti -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1173 🔻  (825)|
 | ELO Competitive | 1173 🔻  (915)|

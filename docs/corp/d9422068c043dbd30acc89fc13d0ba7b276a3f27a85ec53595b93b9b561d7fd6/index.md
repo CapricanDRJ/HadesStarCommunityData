@@ -4,7 +4,7 @@ title: Killers from Ua
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Killers from Ua -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1214 🔺  (360)|
 | ELO Competitive | 1221 🔺  (394)|

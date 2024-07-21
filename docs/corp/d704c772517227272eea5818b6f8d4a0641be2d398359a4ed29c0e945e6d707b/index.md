@@ -4,7 +4,7 @@ title: 希灵帝国
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 希灵帝国 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1193 🔻  (501)|
 | ELO Competitive | 1193 🔻  (585)|

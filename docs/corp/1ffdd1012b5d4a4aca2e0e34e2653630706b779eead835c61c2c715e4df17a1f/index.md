@@ -4,7 +4,7 @@ title: Starsailors
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Starsailors -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1360 🔺  (54)|
 | ELO Competitive | 1388 🔺  (90)|

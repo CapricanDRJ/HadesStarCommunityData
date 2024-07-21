@@ -4,7 +4,7 @@ title: Back of the bus
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Back of the bus -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1216 🔺  (336)|
 | ELO Competitive | 1216 🔺  (435)|

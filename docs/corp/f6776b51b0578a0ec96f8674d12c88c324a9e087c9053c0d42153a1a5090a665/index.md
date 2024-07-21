@@ -4,7 +4,7 @@ title: Гарри Поттер
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Гарри Поттер -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1257 🔺  (190)|
 | ELO Competitive | 1278 🔺  (241)|

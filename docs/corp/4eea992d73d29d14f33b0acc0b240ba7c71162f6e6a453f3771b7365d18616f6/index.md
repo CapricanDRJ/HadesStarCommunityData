@@ -4,7 +4,7 @@ title: 柯伊伯带伊甸园
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 柯伊伯带伊甸园 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1312 🔻  (103)|
 | ELO Competitive | 1326 🔻  (163)|

@@ -4,7 +4,7 @@ title: 德意志阿尔法帝国
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 德意志阿尔法帝国 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1203 🔻  (415)|
 | ELO Competitive | 1204 🔻  (501)|

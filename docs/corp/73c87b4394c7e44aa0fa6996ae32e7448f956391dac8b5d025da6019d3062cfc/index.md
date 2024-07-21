@@ -4,7 +4,7 @@ title: The New Light
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- The New Light -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1208 🔻  (400)|
 | ELO Competitive | 1256 🔻  (291)|

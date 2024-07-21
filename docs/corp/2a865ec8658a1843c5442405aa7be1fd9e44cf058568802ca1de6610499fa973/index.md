@@ -4,7 +4,7 @@ title: 神仙'
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 神仙' -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1153 🔻  (969)|
 | ELO Competitive | 1198 🔻  (564)|

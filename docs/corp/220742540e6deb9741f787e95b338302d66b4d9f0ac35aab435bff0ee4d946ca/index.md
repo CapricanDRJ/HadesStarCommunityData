@@ -4,7 +4,7 @@ title: HerronCorp
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- HerronCorp -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (690)|
 | ELO Competitive | 1185 🔻  (796)|

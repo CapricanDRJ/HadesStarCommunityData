@@ -4,7 +4,7 @@ title: Grunthal Gang
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Grunthal Gang -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1342 🔺  (70)|
 | ELO Competitive | 1444 🔺  (51)|

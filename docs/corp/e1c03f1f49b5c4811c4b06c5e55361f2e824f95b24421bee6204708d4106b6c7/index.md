@@ -4,7 +4,7 @@ title: Casual Joe
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Casual Joe -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1171 🔻  (850)|
 | ELO Competitive | 1173 🔻  (910)|

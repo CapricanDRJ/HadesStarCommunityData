@@ -4,7 +4,7 @@ title: Пабеда
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Пабеда -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (689)|
 | ELO Competitive | 1186 🔻  (739)|

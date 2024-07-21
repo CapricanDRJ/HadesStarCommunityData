@@ -4,7 +4,7 @@ title: koalition
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- koalition -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1264 🔺  (173)|
 | ELO Competitive | 1270 🔺  (259)|

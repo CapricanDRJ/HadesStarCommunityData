@@ -4,7 +4,7 @@ title: STARBLAZER
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- STARBLAZER  -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1171 🔻  (852)|
 | ELO Competitive | 1172 🔻  (923)|

@@ -4,7 +4,7 @@ title: 星舰地球
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 星舰地球 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1177 🔺  (774)|
 | ELO Competitive | 1191 🔺  (605)|

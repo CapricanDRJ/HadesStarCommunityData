@@ -4,7 +4,7 @@ title: Rogue Hero's
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Rogue Hero's -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1211 🔺  (389)|
 | ELO Competitive | 1211 🔺  (479)|

@@ -4,7 +4,7 @@ title: Spiritic Beacon
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Spiritic Beacon -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1203 🔻  (413)|
 | ELO Competitive | 1209 🔻  (484)|

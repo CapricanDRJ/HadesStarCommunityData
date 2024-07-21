@@ -4,7 +4,7 @@ title: 𝖕𝖎𝖗𝖆𝖙𝖊𝖘
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 𝖕𝖎𝖗𝖆𝖙𝖊𝖘 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1201 🔻  (428)|
 | ELO Competitive | 1201 🔻  (518)|

@@ -4,7 +4,7 @@ title: Страж Галактики
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Страж Галактики -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1213 🔻  (369)|
 | ELO Competitive | 1214 🔻  (455)|

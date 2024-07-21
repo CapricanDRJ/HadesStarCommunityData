@@ -4,7 +4,7 @@ title: Atlas SLV-1
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Atlas SLV\-1 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1189 🔻  (536)|
 | ELO Competitive | 1189 🔻  (644)|

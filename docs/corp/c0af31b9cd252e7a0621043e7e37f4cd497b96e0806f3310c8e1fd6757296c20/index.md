@@ -4,7 +4,7 @@ title: Wacky Wabbits
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Wacky Wabbits -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1194 🔻  (496)|
 | ELO Competitive | 1200 🔻  (528)|

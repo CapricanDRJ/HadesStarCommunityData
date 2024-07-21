@@ -4,7 +4,7 @@ title: Aconitum
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Aconitum -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1213 🔺  (373)|
 | ELO Competitive | 1214 🔺  (459)|

@@ -4,7 +4,7 @@ title: 遨游星空  kdy分盟
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 遨游星空  kdy分盟 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1180 🔻  (764)|
 | ELO Competitive | 1247 🔻  (313)|

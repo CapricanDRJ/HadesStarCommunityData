@@ -4,7 +4,7 @@ title: Blood Hounds
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Blood Hounds -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1498 🔺  (5)|
 | ELO Competitive | 1532 🔺  (9)|

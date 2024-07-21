@@ -4,7 +4,7 @@ title: Nexland Ind.
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Nexland Ind\. -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1214 🔻  (362)|
 | ELO Competitive | 1245 🔻  (319)|

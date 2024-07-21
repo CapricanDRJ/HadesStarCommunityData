@@ -4,7 +4,7 @@ title: Укр інтроверти
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Укр інтроверти -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1159 🔻  (933)|
 | ELO Competitive | 1162 🔻  (1001)|

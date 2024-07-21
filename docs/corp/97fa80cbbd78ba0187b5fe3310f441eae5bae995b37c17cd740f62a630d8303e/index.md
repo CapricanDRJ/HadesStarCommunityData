@@ -4,7 +4,7 @@ title: Gastro
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Gastro -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1177 🔺  (778)|
 | ELO Competitive | 1180 🔺  (849)|

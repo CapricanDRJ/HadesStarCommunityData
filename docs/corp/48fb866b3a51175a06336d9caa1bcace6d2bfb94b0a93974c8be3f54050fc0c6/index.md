@@ -4,7 +4,7 @@ title: Свободный флот
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Свободный флот -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1135 🔻  (1033)|
 | ELO Competitive | 1353 🔻  (124)|

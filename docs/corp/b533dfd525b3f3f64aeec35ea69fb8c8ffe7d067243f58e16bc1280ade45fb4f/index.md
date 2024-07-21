@@ -4,7 +4,7 @@ title: Star Dust
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Star Dust -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1191 🔻  (513)|
 | ELO Competitive | 1190 🔻  (623)|

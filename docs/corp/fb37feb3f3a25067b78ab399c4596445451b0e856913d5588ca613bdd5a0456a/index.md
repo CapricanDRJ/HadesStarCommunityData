@@ -4,7 +4,7 @@ title: Castellón
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Castellón  -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1201 🔻  (427)|
 | ELO Competitive | 1203 🔻  (502)|

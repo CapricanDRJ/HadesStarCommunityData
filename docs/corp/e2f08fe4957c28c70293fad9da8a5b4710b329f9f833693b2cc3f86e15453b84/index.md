@@ -4,7 +4,7 @@ title: Assasins bees
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Assasins bees -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1189 🔻  (527)|
 | ELO Competitive | 1191 🔻  (607)|

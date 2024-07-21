@@ -4,7 +4,7 @@ title: Star-Jump CORPS
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Star\-Jump CORPS -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (617)|
 | ELO Competitive | 1186 🔻  (734)|

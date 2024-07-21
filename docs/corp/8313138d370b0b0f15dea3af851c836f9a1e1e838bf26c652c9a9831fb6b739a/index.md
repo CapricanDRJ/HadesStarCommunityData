@@ -4,7 +4,7 @@ title: Dauntless
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Dauntless -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1082 🔻  (1118)|
 | ELO Competitive | 1101 🔻  (1135)|

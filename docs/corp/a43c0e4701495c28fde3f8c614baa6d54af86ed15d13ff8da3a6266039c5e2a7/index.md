@@ -4,7 +4,7 @@ title: Hades Seminary
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Hades Seminary  -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1215 🔺  (340)|
 | ELO Competitive | 1218 🔺  (412)|

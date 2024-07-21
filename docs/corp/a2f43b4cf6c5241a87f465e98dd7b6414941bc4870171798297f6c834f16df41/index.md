@@ -4,7 +4,7 @@ title: Jesus Followers
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Jesus Followers -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1169 🔻  (881)|
 | ELO Competitive | 1172 🔻  (916)|

@@ -4,7 +4,7 @@ title: Fleet Corp Ares
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Fleet Corp Ares -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1250 🔺  (206)|
 | ELO Competitive | 1264 🔺  (271)|

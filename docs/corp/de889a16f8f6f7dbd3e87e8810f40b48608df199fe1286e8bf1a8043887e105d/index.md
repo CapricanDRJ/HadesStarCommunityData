@@ -4,7 +4,7 @@ title: SEK-SPACE ORDER
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- SEK\-SPACE ORDER -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1143 🔻  (1004)|
 | ELO Competitive | 1145 🔻  (1069)|

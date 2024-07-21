@@ -4,7 +4,7 @@ title: Диванные Стражи
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Диванные Стражи -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1174 🔻  (805)|
 | ELO Competitive | 1179 🔻  (851)|

@@ -4,7 +4,7 @@ title: The Titans Pro
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- The Titans Pro -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1218 🔺  (321)|
 | ELO Competitive | 1223 🔺  (386)|

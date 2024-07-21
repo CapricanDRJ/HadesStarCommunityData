@@ -4,7 +4,7 @@ title: украина№1
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- украина№1 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1249 🔻  (209)|
 | ELO Competitive | 1333 🔻  (150)|

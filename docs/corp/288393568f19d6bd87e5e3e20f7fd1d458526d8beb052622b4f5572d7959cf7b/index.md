@@ -4,7 +4,7 @@ title: Sentencia
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Sentencia -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1326 🔻  (88)|
 | ELO Competitive | 1351 🔻  (126)|

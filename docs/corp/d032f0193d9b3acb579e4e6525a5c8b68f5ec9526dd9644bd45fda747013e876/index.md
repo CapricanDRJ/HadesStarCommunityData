@@ -4,7 +4,7 @@ title: BSO Academy
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- BSO Academy -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1355 🔺  (60)|
 | ELO Competitive | 1369 🔺  (105)|

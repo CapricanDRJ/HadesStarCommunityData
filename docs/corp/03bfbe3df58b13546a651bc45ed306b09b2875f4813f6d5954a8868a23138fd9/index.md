@@ -4,7 +4,7 @@ title: Urban Legends
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Urban Legends -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1173 🔻  (823)|
 | ELO Competitive | 1178 🔻  (858)|

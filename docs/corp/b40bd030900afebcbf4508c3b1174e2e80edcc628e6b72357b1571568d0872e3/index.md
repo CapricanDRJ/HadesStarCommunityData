@@ -4,7 +4,7 @@ title: Hades Academy
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Hades Academy -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1221 🔻  (307)|
 | ELO Competitive | 1227 🔻  (375)|

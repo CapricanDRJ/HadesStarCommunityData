@@ -4,7 +4,7 @@ title: WSC(no DISCORD)
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- WSC\(no DISCORD\) -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1275 🔺  (151)|
 | ELO Competitive | 1326 🔺  (162)|

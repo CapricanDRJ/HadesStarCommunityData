@@ -4,7 +4,7 @@ title: FėniX•
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- FėniX• -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1188 🔻  (545)|
 | ELO Competitive | 1189 🔻  (634)|

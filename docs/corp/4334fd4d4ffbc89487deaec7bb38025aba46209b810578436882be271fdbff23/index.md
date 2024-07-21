@@ -4,7 +4,7 @@ title: 荣耀之星
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 荣耀之星 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1171 🔺  (839)|
 | ELO Competitive | 1225 🔺  (379)|

@@ -4,7 +4,7 @@ title: Pyke Syndicate
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Pyke Syndicate -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1054 🔻  (1140)|
 | ELO Competitive | 1084 🔻  (1151)|

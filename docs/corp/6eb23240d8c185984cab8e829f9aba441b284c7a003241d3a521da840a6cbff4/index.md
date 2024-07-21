@@ -4,7 +4,7 @@ title: 猎户座星云
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 猎户座星云 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1169 🔻  (888)|
 | ELO Competitive | 1171 🔻  (938)|

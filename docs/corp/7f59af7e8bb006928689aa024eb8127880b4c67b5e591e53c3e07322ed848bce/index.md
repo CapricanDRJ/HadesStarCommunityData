@@ -4,7 +4,7 @@ title: Legionnaires
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Legionnaires -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1175 🔻  (796)|
 | ELO Competitive | 1175 🔻  (886)|

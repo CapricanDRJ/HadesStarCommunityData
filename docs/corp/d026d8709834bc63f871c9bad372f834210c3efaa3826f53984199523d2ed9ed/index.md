@@ -4,7 +4,7 @@ title: 万星联盟
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 万星联盟 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1324 🔺  (89)|
 | ELO Competitive | 1321 🔺  (173)|

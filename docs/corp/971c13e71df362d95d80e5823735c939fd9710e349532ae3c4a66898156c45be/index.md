@@ -4,7 +4,7 @@ title: Furyans
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Furyans -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1216 🔺  (330)|
 | ELO Competitive | 1216 🔺  (426)|

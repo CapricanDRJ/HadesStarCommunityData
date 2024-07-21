@@ -4,7 +4,7 @@ title: The Fracture
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- The Fracture -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1148 🔻  (980)|
 | ELO Competitive | 1152 🔻  (1043)|

@@ -4,7 +4,7 @@ title: New Star
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- New Star -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1194 🔻  (491)|
 | ELO Competitive | 1196 🔻  (576)|

@@ -4,7 +4,7 @@ title: Orion France
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Orion France -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔻  (560)|
 | ELO Competitive | 1187 🔻  (665)|

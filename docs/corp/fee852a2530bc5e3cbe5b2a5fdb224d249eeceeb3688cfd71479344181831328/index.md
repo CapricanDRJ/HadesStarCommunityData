@@ -4,7 +4,7 @@ title: Red Dawn
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Red Dawn -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1296 🔺  (124)|
 | ELO Competitive | 1394 🔺  (83)|

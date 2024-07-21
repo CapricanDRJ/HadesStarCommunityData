@@ -4,7 +4,7 @@ title: Elder Things
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Elder Things -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔻  (563)|
 | ELO Competitive | 1191 🔻  (611)|

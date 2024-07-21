@@ -4,7 +4,7 @@ title: КУСАКА
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- КУСАКА -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1190 🔻  (522)|
 | ELO Competitive | 1191 🔻  (609)|

@@ -4,7 +4,7 @@ title: 夢幻之星*分盟*
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 夢幻之星\*分盟\* -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1124 🔻  (1057)|
 | ELO Competitive | 1140 🔻  (1083)|

@@ -4,7 +4,7 @@ title: 8 русский рейх
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 8 русский рейх -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1222 🔺  (305)|
 | ELO Competitive | 1222 🔺  (391)|

@@ -4,7 +4,7 @@ title: Rising star
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Rising star -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1160 🔺  (930)|
 | ELO Competitive | 1220 🔺  (395)|

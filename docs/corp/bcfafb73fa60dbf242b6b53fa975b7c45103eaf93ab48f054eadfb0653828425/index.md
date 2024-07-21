@@ -4,7 +4,7 @@ title: Hyperion Radius
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Hyperion Radius -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔻  (718)|
 | ELO Competitive | 1184 🔻  (807)|

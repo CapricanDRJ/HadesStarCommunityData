@@ -4,7 +4,7 @@ title: VENTORMENTA
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- VENTORMENTA -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1227 🔻  (293)|
 | ELO Competitive | 1227 🔻  (373)|

@@ -4,7 +4,7 @@ title: Zeta LLC
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Zeta LLC -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1266 🔻  (170)|
 | ELO Competitive | 1270 🔻  (260)|

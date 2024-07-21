@@ -4,7 +4,7 @@ title: Ahamkara
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- Ahamkara -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔻  (700)|
 | ELO Competitive | 1184 🔻  (804)|

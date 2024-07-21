@@ -4,7 +4,7 @@ title: 四季长春
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- 四季长春 -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1139 🔻  (1013)|
 | ELO Competitive | 1288 🔻  (218)|

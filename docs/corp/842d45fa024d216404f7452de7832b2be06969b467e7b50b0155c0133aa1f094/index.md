@@ -4,7 +4,7 @@ title: HighSociety
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
-| Statistic | Value |
+ <!-- HighSociety -->| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1214 🔺  (367)|
 | ELO Competitive | 1214 🔺  (456)|
