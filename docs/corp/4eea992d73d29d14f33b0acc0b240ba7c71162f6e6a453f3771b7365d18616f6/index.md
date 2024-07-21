@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 柯伊伯带伊甸园
-description: Hades' Star corporation whitestar records and stats
+description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
 | Statistic | Value |

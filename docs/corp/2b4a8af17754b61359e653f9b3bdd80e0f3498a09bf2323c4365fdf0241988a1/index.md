@@ -1,13 +1,13 @@
 ---
 layout: page
 title: 对，进就进人少的
-description: Hades' Star corporation whitestar records and stats
+description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1301 🔺  (120)|
-| ELO Competitive | 1408 🔺  (73)|
+| ELO Competitive | 1408 🔺  (74)|
 | Total Matches | 61 |
 | Wins | 32 |
 | Losses | 27 |

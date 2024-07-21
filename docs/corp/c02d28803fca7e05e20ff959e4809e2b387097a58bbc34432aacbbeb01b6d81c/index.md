@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Mandalorians
-description: Hades' Star corporation whitestar records and stats
+description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1178 🔻  (772)|
+| ELO Regular | 1178 🔻  (771)|
 | ELO Competitive | 1180 🔻  (848)|
 | Total Matches | 4 |
 | Wins | 1 |

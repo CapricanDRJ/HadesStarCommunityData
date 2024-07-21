@@ -1,12 +1,12 @@
 ---
 layout: page
 title: 暮光之城
-description: Hades' Star corporation whitestar records and stats
+description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1177 🔻  (774)|
+| ELO Regular | 1177 🔻  (773)|
 | ELO Competitive | 1183 🔻  (829)|
 | Total Matches | 4 |
 | Wins | 1 |

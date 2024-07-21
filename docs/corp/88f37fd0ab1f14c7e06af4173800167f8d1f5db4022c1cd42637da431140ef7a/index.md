@@ -1,12 +1,12 @@
 ---
 layout: page
 title: TeddisaurusWrex
-description: Hades' Star corporation whitestar records and stats
+description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1372 🔺  (49)|
+| ELO Regular | 1372 🔺  (50)|
 | ELO Competitive | 1418 🔺  (67)|
 | Total Matches | 41 |
 | Wins | 34 |

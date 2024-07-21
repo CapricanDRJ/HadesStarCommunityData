@@ -1,12 +1,12 @@
 ---
 layout: page
 title: t 72 SwiftKey F
-description: Hades' Star corporation whitestar records and stats
+description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1177 🔻  (777)|
+| ELO Regular | 1177 🔻  (776)|
 | ELO Competitive | 1183 🔻  (823)|
 | Total Matches | 13 |
 | Wins | 5 |

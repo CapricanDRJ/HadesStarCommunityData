@@ -1,13 +1,13 @@
 ---
 layout: page
 title: White Dwarf
-description: Hades' Star corporation whitestar records and stats
+description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1360 🔻  (55)|
-| ELO Competitive | 1399 🔻  (79)|
+| ELO Competitive | 1399 🔻  (80)|
 | Total Matches | 41 |
 | Wins | 29 |
 | Losses | 12 |

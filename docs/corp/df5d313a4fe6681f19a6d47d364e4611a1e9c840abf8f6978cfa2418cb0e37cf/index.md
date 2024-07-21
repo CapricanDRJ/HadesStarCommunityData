@@ -1,12 +1,12 @@
 ---
 layout: page
 title: From the Fire
-description: Hades' Star corporation whitestar records and stats
+description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (787)|
+| ELO Regular | 1176 🔻  (786)|
 | ELO Competitive | 1176 🔻  (880)|
 | Total Matches | 6 |
 | Wins | 2 |

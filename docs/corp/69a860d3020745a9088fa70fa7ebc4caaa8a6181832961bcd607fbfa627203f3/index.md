@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 对，进就进人少的（分团）
-description: Hades' Star corporation whitestar records and stats
+description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
 | Statistic | Value |

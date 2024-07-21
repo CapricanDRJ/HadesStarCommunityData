@@ -1,12 +1,12 @@
 ---
 layout: page
 title: 中国星系舰队
-description: Hades' Star corporation whitestar records and stats
+description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (802)|
+| ELO Regular | 1174 🔻  (801)|
 | ELO Competitive | 1201 🔻  (519)|
 | Total Matches | 7 |
 | Wins | 2 |

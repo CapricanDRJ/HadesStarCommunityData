@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Utd. Human Fed.
-description: Hades' Star corporation whitestar records and stats
+description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (756)|
+| ELO Regular | 1181 🔻  (755)|
 | ELO Competitive | 1318 🔻  (177)|
 | Total Matches | 43 |
 | Wins | 22 |

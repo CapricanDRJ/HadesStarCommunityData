@@ -1,13 +1,13 @@
 ---
 layout: page
 title: pirates spatial
-description: Hades' Star corporation whitestar records and stats
+description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1268 🔻  (169)|
-| ELO Competitive | 1406 🔻  (76)|
+| ELO Competitive | 1406 🔻  (77)|
 | Total Matches | 66 |
 | Wins | 37 |
 | Losses | 29 |

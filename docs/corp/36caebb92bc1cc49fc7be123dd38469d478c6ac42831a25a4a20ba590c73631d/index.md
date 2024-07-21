@@ -1,12 +1,12 @@
 ---
 layout: page
 title: 海澜之家
-description: Hades' Star corporation whitestar records and stats
+description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (757)|
+| ELO Regular | 1181 🔻  (756)|
 | ELO Competitive | 1184 🔻  (819)|
 | Total Matches | 1 |
 | Wins | 0 |

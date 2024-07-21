@@ -1,12 +1,12 @@
 ---
 layout: page
 title: 小宇宙研究会
-description: Hades' Star corporation whitestar records and stats
+description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1180 🔻  (764)|
+| ELO Regular | 1180 🔻  (763)|
 | ELO Competitive | 1183 🔻  (835)|
 | Total Matches | 3 |
 | Wins | 1 |

@@ -1,12 +1,12 @@
 ---
 layout: page
 title:  RELAX CZ/SK
-description: Hades' Star corporation whitestar records and stats
+description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1366 🔺  (51)|
+| ELO Regular | 1366 🔺  (52)|
 | ELO Competitive | 1476 🔺  (31)|
 | Total Matches | 71 |
 | Wins | 51 |

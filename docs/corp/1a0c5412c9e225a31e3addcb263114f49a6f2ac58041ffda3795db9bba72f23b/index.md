@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Kratos
-description: Hades' Star corporation whitestar records and stats
+description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1330 🔺  (83)|
-| ELO Competitive | 1407 🔺  (74)|
+| ELO Competitive | 1407 🔺  (75)|
 | Total Matches | 52 |
 | Wins | 35 |
 | Losses | 17 |

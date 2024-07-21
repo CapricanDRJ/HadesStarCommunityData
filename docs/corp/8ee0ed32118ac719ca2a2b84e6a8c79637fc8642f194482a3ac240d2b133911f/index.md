@@ -1,16 +1,16 @@
 ---
 layout: page
 title: Interstellar
-description: Hades' Star corporation whitestar records and stats
+description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔺  (754)|
+| ELO Regular | 1174 🔻  (811)|
 | ELO Competitive | 1346 🔺  (133)|
-| Total Matches | 50 |
+| Total Matches | 51 |
 | Wins | 24 |
-| Losses | 26 |
+| Losses | 27 |
 | Draws | 0 |
 | Streak Record | 4 |
 
@@ -27,6 +27,7 @@ description: Hades' Star corporation whitestar records and stats
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/21 | 0-29 | [元素联邦](https://ws.tsl.rocks/corp/e9d602d617d5c81270107c15a6d1f1717c5016abad802d3629f7f4301a58e95e/) |
 | ✅ | 2024/07/20 | 9-0 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) |
 | ❌ | 2024/07/15 | 0-21 | [9\-Й СКОРПИОН](https://ws.tsl.rocks/corp/5ad79ec30d5d805635609e2b1e1cf5f399486c1d57f6101cb6015afbd50f5913/) |
 | ✅ | 2024/07/15 | 19-2 | [华夏三体舰队](https://ws.tsl.rocks/corp/a457b1d7612cdff92b655d33cf4ffd72b38aa796525cf0432423cfd0d01c6cf9/) |

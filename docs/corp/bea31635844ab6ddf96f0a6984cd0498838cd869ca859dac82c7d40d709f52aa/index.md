@@ -1,12 +1,12 @@
 ---
 layout: page
 title: 群星璀璨
-description: Hades' Star corporation whitestar records and stats
+description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (811)|
+| ELO Regular | 1174 🔻  (810)|
 | ELO Competitive | 1176 🔻  (873)|
 | Total Matches | 2 |
 | Wins | 0 |

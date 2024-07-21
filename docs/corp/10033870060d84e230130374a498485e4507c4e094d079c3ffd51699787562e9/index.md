@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resurrección EB
-description: Hades' Star corporation whitestar records and stats
+description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
 | Statistic | Value |

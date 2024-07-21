@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 第六星际
-description: Hades' Star corporation whitestar records and stats
+description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
 | Statistic | Value |

@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Star Raiders
-description: Hades' Star corporation whitestar records and stats
+description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1179 🔻  (768)|
+| ELO Regular | 1179 🔻  (767)|
 | ELO Competitive | 1179 🔻  (853)|
 | Total Matches | 2 |
 | Wins | 0 |

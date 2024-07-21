@@ -1,12 +1,12 @@
 ---
 layout: page
 title: ⚜NOVA⚜
-description: Hades' Star corporation whitestar records and stats
+description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (786)|
+| ELO Regular | 1176 🔻  (785)|
 | ELO Competitive | 1175 🔻  (885)|
 | Total Matches | 2 |
 | Wins | 0 |

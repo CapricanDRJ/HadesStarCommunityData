@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 红日初升，其道大光
-description: Hades' Star corporation whitestar records and stats
+description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
 | Statistic | Value |

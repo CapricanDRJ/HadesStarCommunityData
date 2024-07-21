@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Tycho Corp
-description: Hades' Star corporation whitestar records and stats
+description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (791)|
+| ELO Regular | 1176 🔻  (790)|
 | ELO Competitive | 1176 🔻  (879)|
 | Total Matches | 2 |
 | Wins | 0 |

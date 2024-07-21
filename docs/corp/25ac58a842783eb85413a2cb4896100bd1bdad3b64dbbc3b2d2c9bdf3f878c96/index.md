@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 夢幻之星*分盟*
-description: Hades' Star corporation whitestar records and stats
+description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
 | Statistic | Value |

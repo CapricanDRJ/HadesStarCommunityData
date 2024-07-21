@@ -1,12 +1,12 @@
 ---
 layout: page
 title: КВАЗАР
-description: Hades' Star corporation whitestar records and stats
+description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1178 🔺  (773)|
+| ELO Regular | 1178 🔺  (772)|
 | ELO Competitive | 1179 🔺  (852)|
 | Total Matches | 4 |
 | Wins | 1 |

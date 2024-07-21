@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Prometheus
-description: Hades' Star corporation whitestar records and stats
+description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔺  (795)|
+| ELO Regular | 1175 🔺  (794)|
 | ELO Competitive | 1202 🔺  (508)|
 | Total Matches | 20 |
 | Wins | 9 |

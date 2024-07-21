@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ༺༽ʚ天轮间ɞ༼༻
-description: Hades' Star corporation whitestar records and stats
+description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
 | Statistic | Value |

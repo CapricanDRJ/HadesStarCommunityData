@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 中国星际联盟
-description: Hades' Star corporation whitestar records and stats
+description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
 | Statistic | Value |

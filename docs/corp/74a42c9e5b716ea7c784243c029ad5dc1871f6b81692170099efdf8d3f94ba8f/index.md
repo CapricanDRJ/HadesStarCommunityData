@@ -1,12 +1,12 @@
 ---
 layout: page
 title: 遨游星空  kdy分盟
-description: Hades' Star corporation whitestar records and stats
+description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1180 🔻  (765)|
+| ELO Regular | 1180 🔻  (764)|
 | ELO Competitive | 1247 🔻  (313)|
 | Total Matches | 31 |
 | Wins | 13 |

@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Dadsw/Daughterz
-description: Hades' Star corporation whitestar records and stats
+description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (785)|
+| ELO Regular | 1176 🔻  (784)|
 | ELO Competitive | 1179 🔻  (855)|
 | Total Matches | 4 |
 | Wins | 1 |

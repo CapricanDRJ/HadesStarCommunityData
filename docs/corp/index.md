@@ -344,7 +344,7 @@ title: Corporations
 | [Intercepter Inc](https://ws.tsl.rocks/corp/77a77d3506a7caa4235a9cd6e9789f562649180fe9404bab2bb70d4433a2f520/) | 1184 | 1184 | 1 |
 | [Interestelar](https://ws.tsl.rocks/corp/cc9ed2698988a35d6dbb9e9762d6575b28204ab15fd7208b64e8108878a4b8f9/) | 1304 | 1316 | 11 |
 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) | 1272 | 1301 | 21 |
-| [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) | 1181 | 1346 | 50 |
+| [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) | 1174 | 1346 | 51 |
 | [Interstellar](https://ws.tsl.rocks/corp/4e7e0c5594c3dd4b977908b1b7fb27f64573bc6157bff2e898d08b502b7e3b4b/) | 1187 | 1187 | 1 |
 | [Intertwine ](https://ws.tsl.rocks/corp/bdbcd28dadb65d4f49f3e56bf50f516066bc3b72a265b4e3f59e66161c9a35ef/) | 1212 | 1216 | 3 |
 | [Irish Pride ](https://ws.tsl.rocks/corp/a3c944ea9abef71001c52b6127e716ac11dfbf2b33d21d6f9312cfa0361f1eb8/) | 1199 | 1201 | 2 |
@@ -1020,7 +1020,7 @@ title: Corporations
 | [企鹅帝国](https://ws.tsl.rocks/corp/53f5c71ba84d7adb312f2f45919553d71769bce6acb74e18973f8c9127499807/) | 1200 | 1200 | 2 |
 | [佛矿寺](https://ws.tsl.rocks/corp/64f8afd95b7004e9d5a442da55644ee3ce64a9a8e82345c458d757b527e40624/) | 997 | 1027 | 43 |
 | [使命白星](https://ws.tsl.rocks/corp/88e828c55c07286950a3296b00ca2a7a9cc2f1a0139e9cf4c6e54229f821e952/) | 1209 | 1231 | 6 |
-| [元素联邦](https://ws.tsl.rocks/corp/e9d602d617d5c81270107c15a6d1f1717c5016abad802d3629f7f4301a58e95e/) | 1365 | 1396 | 36 |
+| [元素联邦](https://ws.tsl.rocks/corp/e9d602d617d5c81270107c15a6d1f1717c5016abad802d3629f7f4301a58e95e/) | 1373 | 1409 | 37 |
 | [八月政府](https://ws.tsl.rocks/corp/72097ba1b36daa9482410e9d2b442965a1f4bbb7bb7974995521f1a948244424/) | 1075 | 1103 | 19 |
 | [公共星际集团](https://ws.tsl.rocks/corp/f57faccefed6ab561fa61ac8e6f60708928e3a8b5caa5172c97c2a29348aed37/) | 1076 | 1174 | 26 |
 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) | 1240 | 1482 | 96 |

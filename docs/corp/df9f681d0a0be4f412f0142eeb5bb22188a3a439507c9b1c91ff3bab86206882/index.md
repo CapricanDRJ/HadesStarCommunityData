@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 盾牌座UY分团
-description: Hades' Star corporation whitestar records and stats
+description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
 | Statistic | Value |

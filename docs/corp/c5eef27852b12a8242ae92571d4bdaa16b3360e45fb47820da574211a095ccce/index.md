@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 한국우주연합
-description: Hades' Star corporation whitestar records and stats
+description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
 | Statistic | Value |

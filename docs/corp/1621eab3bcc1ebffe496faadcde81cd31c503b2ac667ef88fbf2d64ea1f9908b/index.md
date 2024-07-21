@@ -1,12 +1,12 @@
 ---
 layout: page
 title: IX Легион
-description: Hades' Star corporation whitestar records and stats
+description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1368 🔻  (50)|
+| ELO Regular | 1368 🔻  (51)|
 | ELO Competitive | 1526 🔺  (12)|
 | Total Matches | 68 |
 | Wins | 41 |

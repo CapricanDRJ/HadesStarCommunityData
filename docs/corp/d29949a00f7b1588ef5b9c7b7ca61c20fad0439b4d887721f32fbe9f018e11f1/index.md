@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Elysium
-description: Hades' Star corporation whitestar records and stats
+description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1360 🔺  (56)|
-| ELO Competitive | 1406 🔺  (75)|
+| ELO Competitive | 1406 🔺  (76)|
 | Total Matches | 36 |
 | Wins | 27 |
 | Losses | 9 |
