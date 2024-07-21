@@ -4,7 +4,7 @@ title: Shrimp City
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Shrimp City -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1272 🔻  (157)|
 | ELO Competitive | 1286 🔻  (224)|

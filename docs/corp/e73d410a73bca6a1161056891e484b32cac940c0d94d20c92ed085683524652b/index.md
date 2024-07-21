@@ -4,7 +4,7 @@ title: Polish Pirates
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Polish Pirates -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1245 🔻  (223)|
 | ELO Competitive | 1274 🔻  (250)|

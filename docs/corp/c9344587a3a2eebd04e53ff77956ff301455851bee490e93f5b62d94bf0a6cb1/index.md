@@ -4,7 +4,7 @@ title: *ПОБЕДА*
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- \*ПОБЕДА\* -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1216 🔺  (332)|
 | ELO Competitive | 1216 🔺  (428)|

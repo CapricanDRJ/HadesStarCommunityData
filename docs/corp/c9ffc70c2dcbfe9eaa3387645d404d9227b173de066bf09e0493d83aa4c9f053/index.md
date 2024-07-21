@@ -4,7 +4,7 @@ title: Лютые
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Лютые -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1233 🔻  (272)|
 | ELO Competitive | 1301 🔻  (198)|

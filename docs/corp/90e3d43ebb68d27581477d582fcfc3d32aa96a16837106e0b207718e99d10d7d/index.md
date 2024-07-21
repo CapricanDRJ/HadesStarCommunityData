@@ -4,7 +4,7 @@ title: Draconis
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Draconis -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (684)|
 | ELO Competitive | 1185 🔻  (748)|

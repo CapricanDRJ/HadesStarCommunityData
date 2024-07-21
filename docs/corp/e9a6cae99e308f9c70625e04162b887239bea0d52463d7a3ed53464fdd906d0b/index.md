@@ -4,7 +4,7 @@ title: The Picard
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- The Picard -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1030 🔻  (1152)|
 | ELO Competitive | 1052 🔻  (1167)|

@@ -4,7 +4,7 @@ title: The Gathering
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- The Gathering -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1176 🔻  (781)|
 | ELO Competitive | 1176 🔻  (883)|

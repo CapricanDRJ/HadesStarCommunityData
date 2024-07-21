@@ -4,7 +4,7 @@ title: R2D2
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- R2D2 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1175 🔻  (799)|
 | ELO Competitive | 1174 🔻  (902)|

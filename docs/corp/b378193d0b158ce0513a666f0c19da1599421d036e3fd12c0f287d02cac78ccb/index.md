@@ -4,7 +4,7 @@ title: StargateCommand
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- StargateCommand -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1165 🔻  (905)|
 | ELO Competitive | 1167 🔻  (975)|

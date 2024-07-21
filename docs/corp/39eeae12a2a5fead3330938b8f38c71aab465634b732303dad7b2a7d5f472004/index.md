@@ -4,7 +4,7 @@ title: Север РусКорп
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Север РусКорп -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1277 🔻  (147)|
 | ELO Competitive | 1324 🔺  (167)|

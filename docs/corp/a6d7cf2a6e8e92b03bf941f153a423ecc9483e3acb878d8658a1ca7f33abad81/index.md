@@ -4,7 +4,7 @@ title: Space Oddity
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Space Oddity -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1240 🔻  (242)|
 | ELO Competitive | 1282 🔻  (232)|

@@ -4,7 +4,7 @@ title: Core Systems
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Core Systems -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1207 🔻  (403)|
 | ELO Competitive | 1211 🔻  (477)|

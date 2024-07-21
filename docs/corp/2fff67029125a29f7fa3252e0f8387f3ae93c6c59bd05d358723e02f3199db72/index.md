@@ -4,7 +4,7 @@ title: Oficina Tuga
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Oficina Tuga -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1070 🔻  (1127)|
 | ELO Competitive | 1114 🔻  (1120)|

@@ -4,7 +4,7 @@ title: EZCO
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- EZCO -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1207 🔻  (402)|
 | ELO Competitive | 1272 🔻  (254)|

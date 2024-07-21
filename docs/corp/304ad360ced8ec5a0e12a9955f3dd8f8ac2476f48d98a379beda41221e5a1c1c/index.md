@@ -4,7 +4,7 @@ title: Stardust
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Stardust -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1086 🔻  (1112)|
 | ELO Competitive | 1131 🔻  (1099)|

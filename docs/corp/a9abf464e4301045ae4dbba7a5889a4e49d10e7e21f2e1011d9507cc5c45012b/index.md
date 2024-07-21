@@ -4,7 +4,7 @@ title: Proteus Tech
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Proteus Tech -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1263 🔻  (177)|
 | ELO Competitive | 1267 🔻  (264)|

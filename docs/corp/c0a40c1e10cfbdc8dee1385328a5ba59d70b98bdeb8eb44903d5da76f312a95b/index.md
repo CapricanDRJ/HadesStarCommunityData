@@ -4,7 +4,7 @@ title: TERRA P
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- TERRA P -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1182 🔻  (745)|
 | ELO Competitive | 1183 🔻  (822)|

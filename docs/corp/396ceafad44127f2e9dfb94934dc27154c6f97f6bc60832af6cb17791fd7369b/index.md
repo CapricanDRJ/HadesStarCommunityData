@@ -4,7 +4,7 @@ title: Vega Conflict
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Vega Conflict -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1246 🔺  (220)|
 | ELO Competitive | 1262 🔺  (277)|

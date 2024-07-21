@@ -4,7 +4,7 @@ title: 神圣罗马帝国
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 神圣罗马帝国 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1087 🔺  (1110)|
 | ELO Competitive | 1209 🔺  (486)|

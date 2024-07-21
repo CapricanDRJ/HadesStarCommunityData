@@ -4,7 +4,7 @@ title: 하데스 스타 코리아
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 하데스 스타 코리아 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1239 🔺  (250)|
 | ELO Competitive | 1307 🔺  (189)|

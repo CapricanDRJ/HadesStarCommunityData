@@ -4,7 +4,7 @@ title: Orion
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Orion -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1273 🔻  (155)|
 | ELO Competitive | 1300 🔻  (202)|

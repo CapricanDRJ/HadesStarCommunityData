@@ -4,7 +4,7 @@ title: Russian Style
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Russian Style -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1160 🔻  (929)|
 | ELO Competitive | 1163 🔻  (996)|

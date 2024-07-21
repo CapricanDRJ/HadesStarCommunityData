@@ -4,7 +4,7 @@ title: 新手联邦活动用团
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 新手联邦活动用团 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔻  (568)|
 | ELO Competitive | 1191 🔻  (602)|

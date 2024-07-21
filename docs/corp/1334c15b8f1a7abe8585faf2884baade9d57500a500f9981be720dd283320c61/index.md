@@ -4,7 +4,7 @@ title: ComInterns
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- ComInterns -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1188 🔻  (542)|
 | ELO Competitive | 1189 🔻  (641)|

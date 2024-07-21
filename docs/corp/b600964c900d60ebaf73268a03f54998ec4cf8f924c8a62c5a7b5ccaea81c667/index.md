@@ -4,7 +4,7 @@ title: Light Warriors
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Light Warriors -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1191 🔻  (509)|
 | ELO Competitive | 1191 🔻  (606)|

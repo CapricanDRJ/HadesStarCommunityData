@@ -4,7 +4,7 @@ title: Best UA West
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Best UA West -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1144 🔻  (1000)|
 | ELO Competitive | 1144 🔻  (1072)|

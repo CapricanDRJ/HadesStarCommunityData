@@ -4,7 +4,7 @@ title: 第四天灾
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 第四天灾 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1211 🔺  (386)|
 | ELO Competitive | 1215 🔺  (449)|

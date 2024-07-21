@@ -4,7 +4,7 @@ title: Draco Ind.
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Draco Ind\. -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1216 🔺  (335)|
 | ELO Competitive | 1216 🔺  (433)|

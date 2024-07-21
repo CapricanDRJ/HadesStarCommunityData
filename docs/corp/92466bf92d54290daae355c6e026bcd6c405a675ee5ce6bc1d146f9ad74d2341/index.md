@@ -4,7 +4,7 @@ title: ТРУЛЯЛЯ
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- ТРУЛЯЛЯ -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (592)|
 | ELO Competitive | 1186 🔻  (714)|

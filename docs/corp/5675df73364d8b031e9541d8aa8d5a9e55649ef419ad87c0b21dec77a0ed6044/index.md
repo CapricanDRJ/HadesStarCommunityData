@@ -4,7 +4,7 @@ title: nuevo mundo
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- nuevo mundo -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1239 🔺  (251)|
 | ELO Competitive | 1258 🔺  (285)|

@@ -4,7 +4,7 @@ title: 第四星际
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 第四星际 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1319 🔻  (93)|
 | ELO Competitive | 1410 🔺  (71)|

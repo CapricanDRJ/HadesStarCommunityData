@@ -4,7 +4,7 @@ title: 蓝色星系
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 蓝色星系 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (644)|
 | ELO Competitive | 1185 🔻  (750)|

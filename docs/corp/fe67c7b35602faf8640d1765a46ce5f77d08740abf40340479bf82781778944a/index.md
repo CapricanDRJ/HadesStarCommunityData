@@ -4,7 +4,7 @@ title: 水星联合组织
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 水星联合组织 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1199 🔻  (454)|
 | ELO Competitive | 1213 🔻  (470)|

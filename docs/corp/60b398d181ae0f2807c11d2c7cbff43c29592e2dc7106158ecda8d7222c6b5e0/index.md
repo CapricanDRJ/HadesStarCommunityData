@@ -4,7 +4,7 @@ title: Коллайдер
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Коллайдер -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1188 🔻  (548)|
 | ELO Competitive | 1188 🔻  (661)|

@@ -4,7 +4,7 @@ title: 666
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 666 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1177 🔻  (779)|
 | ELO Competitive | 1177 🔻  (866)|

@@ -4,7 +4,7 @@ title: Likapa
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Likapa -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1597 🔺  (2)|
 | ELO Competitive | 1570 🔺  (4)|

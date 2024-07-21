@@ -4,7 +4,7 @@ title: Rozen Family
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Rozen Family -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1170 🔻  (877)|
 | ELO Competitive | 1171 🔻  (947)|

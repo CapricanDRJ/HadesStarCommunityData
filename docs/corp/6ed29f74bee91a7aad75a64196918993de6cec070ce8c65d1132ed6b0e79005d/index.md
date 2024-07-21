@@ -4,7 +4,7 @@ title: sk cz nebula
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- sk cz nebula -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1329 🔺  (85)|
 | ELO Competitive | 1352 🔺  (125)|

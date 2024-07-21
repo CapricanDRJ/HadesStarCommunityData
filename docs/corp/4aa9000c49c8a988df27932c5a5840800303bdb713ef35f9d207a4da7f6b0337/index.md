@@ -4,7 +4,7 @@ title: The Gladiators
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- The Gladiators -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1183 🔻  (741)|
 | ELO Competitive | 1183 🔻  (834)|

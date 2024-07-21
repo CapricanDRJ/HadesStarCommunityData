@@ -4,7 +4,7 @@ title: Неудержимые
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Неудержимые -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔻  (721)|
 | ELO Competitive | 1189 🔻  (629)|

@@ -4,7 +4,7 @@ title: 风云集团
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 风云集团 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1173 🔻  (819)|
 | ELO Competitive | 1173 🔻  (911)|

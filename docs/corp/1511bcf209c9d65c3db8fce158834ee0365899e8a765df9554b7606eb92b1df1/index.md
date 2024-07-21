@@ -4,7 +4,7 @@ title: 太阳系联邦
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 太阳系联邦 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1033 🔻  (1149)|
 | ELO Competitive | 1104 🔻  (1131)|

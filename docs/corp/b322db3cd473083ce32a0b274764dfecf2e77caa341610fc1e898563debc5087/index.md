@@ -4,7 +4,7 @@ title: 第六星际
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 第六星际 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1219 🔺  (318)|
 | ELO Competitive | 1219 🔺  (407)|

@@ -4,7 +4,7 @@ title: TECH CO
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- TECH CO -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1123 🔻  (1060)|
 | ELO Competitive | 1187 🔻  (667)|

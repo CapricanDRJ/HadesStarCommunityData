@@ -4,7 +4,7 @@ title: Pixies
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Pixies -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1202 🔻  (418)|
 | ELO Competitive | 1209 🔻  (488)|

@@ -4,7 +4,7 @@ title: Корпорация Миф
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Корпорация Миф -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1303 🔺  (116)|
 | ELO Competitive | 1305 🔺  (190)|

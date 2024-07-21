@@ -4,7 +4,7 @@ title: Continuum
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Continuum -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1386 🔺  (44)|
 | ELO Competitive | 1545 🔺  (7)|

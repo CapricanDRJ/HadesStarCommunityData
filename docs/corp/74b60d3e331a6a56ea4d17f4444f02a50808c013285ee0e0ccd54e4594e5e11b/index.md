@@ -4,7 +4,7 @@ title: русь
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- русь  -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1289 🔻  (131)|
 | ELO Competitive | 1461 🔻  (40)|

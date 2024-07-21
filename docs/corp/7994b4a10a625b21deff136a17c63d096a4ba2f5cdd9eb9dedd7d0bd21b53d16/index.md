@@ -4,7 +4,7 @@ title: РусКорп
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- РусКорп -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1218 🔻  (322)|
 | ELO Competitive | 1263 🔻  (273)|

@@ -4,7 +4,7 @@ title: Heavens
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Heavens -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1188 🔻  (540)|
 | ELO Competitive | 1189 🔻  (642)|

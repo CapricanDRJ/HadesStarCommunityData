@@ -4,7 +4,7 @@ title: Forces of Light
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Forces of Light -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1258 🔺  (187)|
 | ELO Competitive | 1265 🔺  (267)|

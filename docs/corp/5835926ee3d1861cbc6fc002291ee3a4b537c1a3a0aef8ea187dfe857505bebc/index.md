@@ -4,7 +4,7 @@ title: 꿀벌왕국
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 꿀벌왕국 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1154 🔻  (963)|
 | ELO Competitive | 1163 🔻  (998)|

@@ -4,7 +4,7 @@ title: Disintegrators
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Disintegrators -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1213 🔻  (374)|
 | ELO Competitive | 1213 🔻  (465)|

@@ -4,7 +4,7 @@ title: AwA
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- AwA -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔻  (713)|
 | ELO Competitive | 1185 🔻  (793)|

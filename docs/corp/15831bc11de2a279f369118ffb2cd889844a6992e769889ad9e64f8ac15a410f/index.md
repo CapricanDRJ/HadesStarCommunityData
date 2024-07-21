@@ -4,7 +4,7 @@ title: No Orbit©
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- No Orbit© -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1256 🔻  (191)|
 | ELO Competitive | 1273 🔻  (252)|

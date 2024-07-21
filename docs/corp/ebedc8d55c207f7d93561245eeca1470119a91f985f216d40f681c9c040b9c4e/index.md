@@ -4,7 +4,7 @@ title: Frontier X
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Frontier X -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1262 🔻  (181)|
 | ELO Competitive | 1263 🔻  (272)|

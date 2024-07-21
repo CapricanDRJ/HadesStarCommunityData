@@ -4,7 +4,7 @@ title: *СССР*
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- \*СССР\* -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1256 🔺  (195)|
 | ELO Competitive | 1300 🔺  (200)|

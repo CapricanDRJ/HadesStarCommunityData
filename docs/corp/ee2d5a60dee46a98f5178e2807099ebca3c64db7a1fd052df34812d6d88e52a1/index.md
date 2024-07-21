@@ -4,7 +4,7 @@ title: Anla'Shok
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Anla'Shok -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1089 🔻  (1107)|
 | ELO Competitive | 1096 🔻  (1140)|

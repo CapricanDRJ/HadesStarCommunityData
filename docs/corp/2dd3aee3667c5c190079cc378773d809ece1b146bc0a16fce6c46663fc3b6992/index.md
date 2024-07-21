@@ -4,7 +4,7 @@ title: Star Wars
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Star Wars -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1211 🔻  (390)|
 | ELO Competitive | 1232 🔻  (354)|

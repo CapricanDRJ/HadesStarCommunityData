@@ -4,7 +4,7 @@ title: Imperium of man
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Imperium of man -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (642)|
 | ELO Competitive | 1185 🔻  (747)|

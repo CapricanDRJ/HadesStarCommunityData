@@ -4,7 +4,7 @@ title: Quantum Web
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Quantum Web -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1189 🔺  (530)|
 | ELO Competitive | 1191 🔺  (612)|

@@ -4,7 +4,7 @@ title: 以太超星团
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 以太超星团 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1049 🔻  (1143)|
 | ELO Competitive | 1170 🔻  (959)|

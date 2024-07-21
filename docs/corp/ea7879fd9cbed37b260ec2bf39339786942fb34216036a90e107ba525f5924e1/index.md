@@ -4,7 +4,7 @@ title: Got Nothing
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Got Nothing -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1240 🔺  (244)|
 | ELO Competitive | 1254 🔺  (295)|

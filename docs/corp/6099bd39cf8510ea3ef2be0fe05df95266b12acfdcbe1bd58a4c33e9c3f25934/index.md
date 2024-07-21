@@ -4,7 +4,7 @@ title: 无聊不过
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 无聊不过 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1193 🔻  (497)|
 | ELO Competitive | 1194 🔻  (579)|

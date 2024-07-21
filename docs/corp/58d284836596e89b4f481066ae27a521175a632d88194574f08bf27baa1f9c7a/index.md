@@ -4,7 +4,7 @@ title: Celtic Imperium
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Celtic Imperium -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1137 🔻  (1024)|
 | ELO Competitive | 1140 🔻  (1080)|

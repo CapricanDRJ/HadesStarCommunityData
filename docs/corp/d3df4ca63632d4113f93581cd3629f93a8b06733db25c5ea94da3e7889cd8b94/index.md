@@ -4,7 +4,7 @@ title: GalaxyNova
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- GalaxyNova -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1269 🔺  (162)|
 | ELO Competitive | 1282 🔺  (233)|

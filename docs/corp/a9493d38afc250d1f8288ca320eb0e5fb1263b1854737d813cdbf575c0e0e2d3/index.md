@@ -4,7 +4,7 @@ title: -=Содружество=-
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- \-=Содружество=\- -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1291 🔻  (130)|
 | ELO Competitive | 1310 🔻  (185)|

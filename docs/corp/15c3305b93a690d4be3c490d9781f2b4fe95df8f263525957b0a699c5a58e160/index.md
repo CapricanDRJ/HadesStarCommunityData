@@ -4,7 +4,7 @@ title: N7 Elite Forces
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- N7 Elite Forces -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1250 🔺  (205)|
 | ELO Competitive | 1252 🔺  (303)|

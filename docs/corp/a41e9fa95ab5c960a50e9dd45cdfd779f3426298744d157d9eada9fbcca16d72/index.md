@@ -4,7 +4,7 @@ title: Death knight
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Death knight -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1171 🔻  (865)|
 | ELO Competitive | 1185 🔻  (750)|

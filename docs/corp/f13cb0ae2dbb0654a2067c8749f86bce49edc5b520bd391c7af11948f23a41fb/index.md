@@ -4,7 +4,7 @@ title: The X - Files
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- The X \- Files -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 977 🔻  (1170)|
 | ELO Competitive | 997 🔻  (1176)|

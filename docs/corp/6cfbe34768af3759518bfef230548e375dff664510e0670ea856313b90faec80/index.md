@@ -4,7 +4,7 @@ title: Goa'uld
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Goa'uld -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1181 🔻  (751)|
 | ELO Competitive | 1182 🔻  (841)|

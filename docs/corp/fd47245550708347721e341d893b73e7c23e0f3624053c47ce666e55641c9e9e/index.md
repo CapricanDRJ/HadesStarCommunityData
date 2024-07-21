@@ -4,7 +4,7 @@ title: Nine's Own Goal
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Nine's Own Goal -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1249 🔺  (210)|
 | ELO Competitive | 1280 🔺  (236)|

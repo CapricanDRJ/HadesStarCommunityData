@@ -4,7 +4,7 @@ title: Emergence
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Emergence -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1439 🔺  (19)|
 | ELO Competitive | 1477 🔺  (30)|

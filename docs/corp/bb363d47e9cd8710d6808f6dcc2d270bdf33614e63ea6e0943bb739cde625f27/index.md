@@ -4,7 +4,7 @@ title: Br Stark Corps
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Br Stark Corps -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1163 🔻  (914)|
 | ELO Competitive | 1165 🔻  (986)|

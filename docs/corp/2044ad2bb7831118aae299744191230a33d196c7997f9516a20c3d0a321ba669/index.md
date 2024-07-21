@@ -4,7 +4,7 @@ title: Grater T
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Grater T -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1234 🔻  (268)|
 | ELO Competitive | 1253 🔻  (298)|

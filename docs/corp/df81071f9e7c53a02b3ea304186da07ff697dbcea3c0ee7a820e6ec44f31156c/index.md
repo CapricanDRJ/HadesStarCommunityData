@@ -4,7 +4,7 @@ title: L’Amalgame
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- L’Amalgame -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔻  (725)|
 | ELO Competitive | 1189 🔺  (639)|

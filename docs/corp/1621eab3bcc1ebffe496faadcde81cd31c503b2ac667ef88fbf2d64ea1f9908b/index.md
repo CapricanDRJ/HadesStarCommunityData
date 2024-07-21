@@ -4,7 +4,7 @@ title: IX Легион
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- IX Легион -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1368 🔻  (51)|
 | ELO Competitive | 1526 🔺  (12)|

@@ -4,7 +4,7 @@ title: You Win
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- You Win -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1138 🔻  (1018)|
 | ELO Competitive | 1171 🔻  (945)|

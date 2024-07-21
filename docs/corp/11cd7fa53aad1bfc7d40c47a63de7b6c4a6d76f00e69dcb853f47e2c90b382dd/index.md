@@ -4,7 +4,7 @@ title: МеГаКо
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- МеГаКо -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1205 🔺  (409)|
 | ELO Competitive | 1242 🔺  (330)|

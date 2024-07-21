@@ -4,7 +4,7 @@ title: 华夏三体舰队
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 华夏三体舰队 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1160 🔻  (931)|
 | ELO Competitive | 1228 🔻  (369)|

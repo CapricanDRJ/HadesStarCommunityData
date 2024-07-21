@@ -4,7 +4,7 @@ title: CODEX IMPERIUS
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- CODEX IMPERIUS -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1129 🔻  (1048)|
 | ELO Competitive | 1147 🔻  (1060)|

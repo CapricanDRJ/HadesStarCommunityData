@@ -4,7 +4,7 @@ title: Killer Bees.
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Killer Bees\. -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (644)|
 | ELO Competitive | 1185 🔻  (750)|

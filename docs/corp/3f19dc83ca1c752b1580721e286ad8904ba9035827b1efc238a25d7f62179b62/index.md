@@ -4,7 +4,7 @@ title: CORE INFLICTION
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- CORE INFLICTION -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔻  (561)|
 | ELO Competitive | 1187 🔻  (672)|

@@ -4,7 +4,7 @@ title: СОЮЗ
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- СОЮЗ -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1245 🔺  (224)|
 | ELO Competitive | 1259 🔺  (282)|

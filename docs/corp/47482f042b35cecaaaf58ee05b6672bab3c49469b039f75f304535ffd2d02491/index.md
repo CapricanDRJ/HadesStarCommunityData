@@ -4,7 +4,7 @@ title: GermanSpaceUno.
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- GermanSpaceUno\. -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1067 🔻  (1130)|
 | ELO Competitive | 1081 🔻  (1154)|

@@ -4,7 +4,7 @@ title: KhaOSs
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- KhaOSs -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1168 🔻  (890)|
 | ELO Competitive | 1168 🔻  (969)|

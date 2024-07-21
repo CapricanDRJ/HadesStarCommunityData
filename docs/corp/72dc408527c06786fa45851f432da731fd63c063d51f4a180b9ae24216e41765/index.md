@@ -4,7 +4,7 @@ title: ToC
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- ToC -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1150 🔻  (977)|
 | ELO Competitive | 1152 🔻  (1042)|

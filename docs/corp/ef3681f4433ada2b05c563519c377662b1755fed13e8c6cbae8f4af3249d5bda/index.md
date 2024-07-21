@@ -4,7 +4,7 @@ title: Starlancer
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Starlancer -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1016 🔻  (1160)|
 | ELO Competitive | 1031 🔻  (1171)|

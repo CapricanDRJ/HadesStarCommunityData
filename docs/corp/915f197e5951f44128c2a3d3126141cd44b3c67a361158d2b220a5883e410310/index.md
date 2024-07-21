@@ -4,7 +4,7 @@ title: Торг. федерация
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Торг\. федерация -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1135 🔻  (1030)|
 | ELO Competitive | 1154 🔻  (1032)|

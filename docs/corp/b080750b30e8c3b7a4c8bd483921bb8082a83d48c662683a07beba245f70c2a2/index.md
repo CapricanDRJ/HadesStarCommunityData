@@ -4,7 +4,7 @@ title: NEW HOLLAND
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- NEW HOLLAND -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1116 🔻  (1071)|
 | ELO Competitive | 1139 🔻  (1084)|

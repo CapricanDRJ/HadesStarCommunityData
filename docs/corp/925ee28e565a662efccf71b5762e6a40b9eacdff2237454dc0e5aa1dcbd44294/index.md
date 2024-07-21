@@ -4,7 +4,7 @@ title: RACNAROK
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- RACNAROK -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1252 🔻  (204)|
 | ELO Competitive | 1281 🔻  (234)|

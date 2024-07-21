@@ -4,7 +4,7 @@ title: Highlife
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Highlife -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1180 🔻  (765)|
 | ELO Competitive | 1210 🔻  (482)|

@@ -4,7 +4,7 @@ title: Dark Training
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Dark Training -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1238 🔺  (254)|
 | ELO Competitive | 1276 🔺  (245)|

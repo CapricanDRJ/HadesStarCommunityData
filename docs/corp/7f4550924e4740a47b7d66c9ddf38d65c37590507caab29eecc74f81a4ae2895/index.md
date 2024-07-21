@@ -4,7 +4,7 @@ title: DeutschlandGmbH
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- DeutschlandGmbH -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1173 🔺  (821)|
 | ELO Competitive | 1173 🔺  (906)|

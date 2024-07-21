@@ -4,7 +4,7 @@ title: 阿尔特拉集团
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 阿尔特拉集团 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1188 🔻  (543)|
 | ELO Competitive | 1288 🔻  (219)|

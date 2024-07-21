@@ -4,7 +4,7 @@ title: Battle Academy
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Battle Academy -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1254 🔺  (201)|
 | ELO Competitive | 1259 🔺  (281)|

@@ -4,7 +4,7 @@ title: 阿尔特拉太空港
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 阿尔特拉太空港 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1215 🔺  (342)|
 | ELO Competitive | 1216 🔺  (431)|

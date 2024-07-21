@@ -4,7 +4,7 @@ title: 宇宙银河帝国
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 宇宙银河帝国 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1296 🔺  (122)|
 | ELO Competitive | 1363 🔺  (114)|

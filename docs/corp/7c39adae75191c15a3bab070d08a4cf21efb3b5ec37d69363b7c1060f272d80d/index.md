@@ -4,7 +4,7 @@ title: challenger corp
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- challenger corp -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1220 🔻  (313)|
 | ELO Competitive | 1243 🔻  (324)|

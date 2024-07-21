@@ -4,7 +4,7 @@ title: Wispered Storm
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Wispered Storm -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1171 🔻  (868)|
 | ELO Competitive | 1173 🔻  (907)|

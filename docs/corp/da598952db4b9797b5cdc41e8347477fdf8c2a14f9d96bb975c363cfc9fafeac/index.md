@@ -4,7 +4,7 @@ title: fishwax
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- fishwax -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1183 🔻  (729)|
 | ELO Competitive | 1183 🔻  (828)|

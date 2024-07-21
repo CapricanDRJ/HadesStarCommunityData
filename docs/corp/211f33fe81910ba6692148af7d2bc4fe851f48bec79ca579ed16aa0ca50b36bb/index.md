@@ -4,7 +4,7 @@ title: CommCody & LPA
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- CommCody & LPA -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1230 🔻  (275)|
 | ELO Competitive | 1256 🔻  (290)|

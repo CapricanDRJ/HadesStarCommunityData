@@ -4,7 +4,7 @@ title: Tycho Corp
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Tycho Corp -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1176 🔻  (790)|
 | ELO Competitive | 1176 🔻  (879)|

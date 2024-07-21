@@ -4,7 +4,7 @@ title: Nova Time
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Nova Time -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1338 🔺  (75)|
 | ELO Competitive | 1342 🔺  (137)|

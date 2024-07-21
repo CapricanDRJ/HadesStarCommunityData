@@ -4,7 +4,7 @@ title: SILVER TERRA
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- SILVER TERRA -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1245 🔺  (225)|
 | ELO Competitive | 1257 🔺  (286)|

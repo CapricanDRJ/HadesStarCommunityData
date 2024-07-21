@@ -4,7 +4,7 @@ title: Odessa
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Odessa -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1135 🔻  (1031)|
 | ELO Competitive | 1147 🔻  (1058)|

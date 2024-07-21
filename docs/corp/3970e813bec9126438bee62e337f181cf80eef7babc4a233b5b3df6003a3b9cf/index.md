@@ -4,7 +4,7 @@ title: Free Star
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Free Star -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1156 🔻  (955)|
 | ELO Competitive | 1202 🔻  (507)|

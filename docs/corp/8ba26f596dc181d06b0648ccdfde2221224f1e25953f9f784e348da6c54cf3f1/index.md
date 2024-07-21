@@ -4,7 +4,7 @@ title: (◉▼◉ ﾐﾐ )Э
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- \(◉▼◉ ﾐﾐ \)Э -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1188 🔻  (552)|
 | ELO Competitive | 1188 🔻  (659)|

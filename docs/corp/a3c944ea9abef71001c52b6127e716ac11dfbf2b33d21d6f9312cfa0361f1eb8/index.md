@@ -4,7 +4,7 @@ title: Irish Pride
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Irish Pride  -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1199 🔺  (452)|
 | ELO Competitive | 1201 🔺  (513)|

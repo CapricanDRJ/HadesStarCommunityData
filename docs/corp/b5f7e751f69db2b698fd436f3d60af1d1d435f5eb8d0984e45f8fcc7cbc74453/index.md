@@ -4,7 +4,7 @@ title: 边界-萌新俱乐部
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 边界\-萌新俱乐部 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1229 🔺  (278)|
 | ELO Competitive | 1229 🔺  (364)|

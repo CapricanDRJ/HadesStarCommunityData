@@ -4,7 +4,7 @@ title: Curiosity + Cat
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Curiosity \+ Cat -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1146 🔻  (987)|
 | ELO Competitive | 1150 🔻  (1047)|

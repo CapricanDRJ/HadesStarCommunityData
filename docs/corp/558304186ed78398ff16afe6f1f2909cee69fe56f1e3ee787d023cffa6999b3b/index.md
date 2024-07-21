@@ -4,7 +4,7 @@ title: 六大天神.轻歌之影
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 六大天神\.轻歌之影 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1165 🔻  (904)|
 | ELO Competitive | 1242 🔻  (327)|

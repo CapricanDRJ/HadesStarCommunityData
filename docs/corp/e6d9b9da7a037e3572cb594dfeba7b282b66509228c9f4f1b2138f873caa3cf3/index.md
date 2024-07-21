@@ -4,7 +4,7 @@ title: 萌新港(大佬港)
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 萌新港\(大佬港\) -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔺  (635)|
 | ELO Competitive | 1250 🔺  (306)|

@@ -4,7 +4,7 @@ title: ZORG IND
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- ZORG IND -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1222 🔻  (306)|
 | ELO Competitive | 1229 🔺  (366)|

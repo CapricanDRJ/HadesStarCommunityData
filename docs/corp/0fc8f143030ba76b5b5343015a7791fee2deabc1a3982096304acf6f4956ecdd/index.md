@@ -4,7 +4,7 @@ title: Karanth Corp.
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Karanth Corp\. -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1173 🔻  (824)|
 | ELO Competitive | 1174 🔻  (903)|

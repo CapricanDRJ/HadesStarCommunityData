@@ -4,7 +4,7 @@ title: КМБ
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- КМБ -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1205 🔻  (411)|
 | ELO Competitive | 1208 🔻  (489)|

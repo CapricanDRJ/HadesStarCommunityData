@@ -4,7 +4,7 @@ title: SpaceCowboys
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- SpaceCowboys -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1288 🔻  (132)|
 | ELO Competitive | 1297 🔻  (206)|

@@ -4,7 +4,7 @@ title: imperio estelar
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- imperio estelar -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1136 🔻  (1028)|
 | ELO Competitive | 1142 🔻  (1078)|

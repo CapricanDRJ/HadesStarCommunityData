@@ -4,7 +4,7 @@ title: Ascalon
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Ascalon -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1201 🔻  (432)|
 | ELO Competitive | 1201 🔻  (526)|

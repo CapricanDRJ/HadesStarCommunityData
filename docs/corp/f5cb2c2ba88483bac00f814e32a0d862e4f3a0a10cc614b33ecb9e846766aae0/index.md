@@ -4,7 +4,7 @@ title: We R Bad
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- We R Bad -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1132 🔻  (1038)|
 | ELO Competitive | 1133 🔻  (1096)|

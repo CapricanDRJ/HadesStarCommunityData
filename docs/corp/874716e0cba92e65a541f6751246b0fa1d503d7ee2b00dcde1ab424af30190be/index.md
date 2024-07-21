@@ -4,7 +4,7 @@ title: ༀᅗBAR ESTELARᅗༀ
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- ༀᅗBAR ESTELARᅗༀ -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1123 🔻  (1061)|
 | ELO Competitive | 1145 🔻  (1065)|

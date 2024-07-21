@@ -4,7 +4,7 @@ title: The Mini Elite
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- The Mini Elite -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1145 🔻  (995)|
 | ELO Competitive | 1146 🔻  (1064)|

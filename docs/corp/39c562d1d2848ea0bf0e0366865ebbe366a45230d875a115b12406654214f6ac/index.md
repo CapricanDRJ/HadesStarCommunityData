@@ -4,7 +4,7 @@ title: 游徒训练营
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 游徒训练营 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1164 🔻  (910)|
 | ELO Competitive | 1182 🔻  (840)|

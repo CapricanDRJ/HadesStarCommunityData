@@ -4,7 +4,7 @@ title:  星空漫游者-GR
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!--  星空漫游者\-GR -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1234 🔺  (267)|
 | ELO Competitive | 1236 🔺  (342)|

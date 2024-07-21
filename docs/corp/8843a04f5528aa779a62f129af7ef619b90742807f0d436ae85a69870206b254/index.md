@@ -4,7 +4,7 @@ title: Valhalla Rising
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Valhalla Rising -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1416 🔺  (27)|
 | ELO Competitive | 1441 🔺  (52)|

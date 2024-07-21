@@ -4,7 +4,7 @@ title: КВАЗАР
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- КВАЗАР -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1178 🔺  (772)|
 | ELO Competitive | 1179 🔺  (852)|

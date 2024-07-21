@@ -4,7 +4,7 @@ title: mijael siuuuuuu
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- mijael siuuuuuu -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1066 🔻  (1131)|
 | ELO Competitive | 1069 🔻  (1164)|

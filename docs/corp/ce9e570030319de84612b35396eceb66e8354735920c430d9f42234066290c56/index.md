@@ -4,7 +4,7 @@ title: Canada 55
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Canada 55 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1235 🔺  (266)|
 | ELO Competitive | 1234 🔺  (348)|

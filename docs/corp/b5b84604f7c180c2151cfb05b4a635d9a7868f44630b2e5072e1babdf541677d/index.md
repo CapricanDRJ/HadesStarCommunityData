@@ -4,7 +4,7 @@ title: Trade Systems
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Trade Systems -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1157 🔻  (951)|
 | ELO Competitive | 1160 🔻  (1010)|

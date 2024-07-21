@@ -4,7 +4,7 @@ title: Вселенские 40%
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Вселенские 40% -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (581)|
 | ELO Competitive | 1235 🔻  (346)|

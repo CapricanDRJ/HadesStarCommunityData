@@ -4,7 +4,7 @@ title: Серебряная орда
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Серебряная орда -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1259 🔺  (186)|
 | ELO Competitive | 1464 🔺  (39)|

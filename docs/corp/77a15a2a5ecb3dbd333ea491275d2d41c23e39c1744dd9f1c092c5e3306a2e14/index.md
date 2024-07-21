@@ -4,7 +4,7 @@ title: Red Noobs
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Red Noobs -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (604)|
 | ELO Competitive | 1186 🔻  (712)|

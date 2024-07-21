@@ -4,7 +4,7 @@ title: Axioma
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Axioma -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1032 🔻  (1150)|
 | ELO Competitive | 1072 🔻  (1161)|

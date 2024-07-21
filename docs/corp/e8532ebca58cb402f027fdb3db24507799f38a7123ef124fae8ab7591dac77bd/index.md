@@ -4,7 +4,7 @@ title: 仙女座星雲
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 仙女座星雲 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1277 🔺  (148)|
 | ELO Competitive | 1502 🔺  (19)|

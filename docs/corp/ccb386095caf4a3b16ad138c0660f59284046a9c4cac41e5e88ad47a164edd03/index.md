@@ -4,7 +4,7 @@ title: Dahoam in AT
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Dahoam in AT -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (595)|
 | ELO Competitive | 1186 🔻  (698)|

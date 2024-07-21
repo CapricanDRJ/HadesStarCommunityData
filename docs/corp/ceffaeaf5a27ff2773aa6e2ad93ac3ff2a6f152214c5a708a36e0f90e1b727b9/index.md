@@ -4,7 +4,7 @@ title: Девчата
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Девчата -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1227 🔺  (290)|
 | ELO Competitive | 1228 🔺  (367)|

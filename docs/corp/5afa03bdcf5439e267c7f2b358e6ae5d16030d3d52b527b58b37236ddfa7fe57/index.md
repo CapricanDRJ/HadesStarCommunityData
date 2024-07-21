@@ -4,7 +4,7 @@ title: 行星联合军
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 行星联合军 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1157 🔻  (949)|
 | ELO Competitive | 1171 🔻  (933)|

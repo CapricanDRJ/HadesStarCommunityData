@@ -4,7 +4,7 @@ title: 洛神峰
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 洛神峰 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1174 🔻  (813)|
 | ELO Competitive | 1174 🔻  (900)|

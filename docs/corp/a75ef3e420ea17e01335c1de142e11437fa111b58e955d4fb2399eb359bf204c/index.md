@@ -4,7 +4,7 @@ title: callisto corp
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- callisto corp -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1171 🔻  (864)|
 | ELO Competitive | 1171 🔻  (954)|

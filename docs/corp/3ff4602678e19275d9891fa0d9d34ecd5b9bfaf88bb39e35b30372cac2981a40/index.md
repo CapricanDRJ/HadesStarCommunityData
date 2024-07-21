@@ -4,7 +4,7 @@ title: pirates spatial
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- pirates spatial -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1268 🔻  (169)|
 | ELO Competitive | 1406 🔻  (77)|

@@ -4,7 +4,7 @@ title: SONS OF SUNS
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- SONS OF SUNS -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1157 🔻  (950)|
 | ELO Competitive | 1158 🔻  (1022)|

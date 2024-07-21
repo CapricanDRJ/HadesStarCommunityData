@@ -4,7 +4,7 @@ title: The Galxey █
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- The Galxey █ -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1000 🔺  (1164)|
 | ELO Competitive | 1078 🔺  (1157)|

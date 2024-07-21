@@ -4,7 +4,7 @@ title: universe leader
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- universe leader -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1131 🔻  (1040)|
 | ELO Competitive | 1148 🔻  (1054)|

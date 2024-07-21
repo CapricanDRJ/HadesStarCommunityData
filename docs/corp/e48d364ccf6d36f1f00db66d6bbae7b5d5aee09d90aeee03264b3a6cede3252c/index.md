@@ -4,7 +4,7 @@ title: 星光舰队
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 星光舰队 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1224 🔺  (302)|
 | ELO Competitive | 1228 🔺  (368)|

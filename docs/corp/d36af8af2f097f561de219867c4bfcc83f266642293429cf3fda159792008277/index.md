@@ -4,7 +4,7 @@ title: 新纪元舰队
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 新纪元舰队 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1117 🔻  (1069)|
 | ELO Competitive | 1153 🔻  (1034)|

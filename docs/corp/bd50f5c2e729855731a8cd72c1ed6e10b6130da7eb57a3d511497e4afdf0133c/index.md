@@ -4,7 +4,7 @@ title: Imperium
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Imperium -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1214 🔺  (354)|
 | ELO Competitive | 1214 🔺  (452)|

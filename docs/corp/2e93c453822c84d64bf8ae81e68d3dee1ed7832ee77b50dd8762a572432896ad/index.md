@@ -4,7 +4,7 @@ title: 专业间谍团队
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 专业间谍团队 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1193 🔻  (502)|
 | ELO Competitive | 1194 🔻  (580)|

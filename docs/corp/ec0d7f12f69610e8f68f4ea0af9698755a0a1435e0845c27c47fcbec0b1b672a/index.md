@@ -4,7 +4,7 @@ title: 星河绮梦
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 星河绮梦 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1303 🔺  (117)|
 | ELO Competitive | 1330 🔺  (155)|

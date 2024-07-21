@@ -4,7 +4,7 @@ title: Redd Armada
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Redd Armada -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1272 🔻  (159)|
 | ELO Competitive | 1286 🔻  (225)|

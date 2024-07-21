@@ -4,7 +4,7 @@ title: Anomaly
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Anomaly -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1162 🔻  (923)|
 | ELO Competitive | 1161 🔻  (1004)|

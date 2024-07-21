@@ -4,7 +4,7 @@ title: BlackDawn
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- BlackDawn -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1055 🔺  (1138)|
 | ELO Competitive | 1072 🔺  (1162)|

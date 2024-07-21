@@ -4,7 +4,7 @@ title: Tacitus
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Tacitus -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1216 🔺  (337)|
 | ELO Competitive | 1219 🔺  (405)|

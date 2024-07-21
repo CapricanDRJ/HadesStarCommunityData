@@ -4,7 +4,7 @@ title: Lexx
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Lexx -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔻  (714)|
 | ELO Competitive | 1184 🔻  (814)|

@@ -4,7 +4,7 @@ title: Terranova
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Terranova -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1016 🔻  (1159)|
 | ELO Competitive | 1086 🔻  (1148)|

@@ -4,7 +4,7 @@ title: Quilliance
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Quilliance -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1328 🔺  (86)|
 | ELO Competitive | 1349 🔺  (129)|

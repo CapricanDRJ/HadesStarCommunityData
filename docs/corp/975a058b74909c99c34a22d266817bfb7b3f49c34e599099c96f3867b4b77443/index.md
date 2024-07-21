@@ -4,7 +4,7 @@ title: Firestarters
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Firestarters -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1173 🔻  (816)|
 | ELO Competitive | 1173 🔻  (909)|

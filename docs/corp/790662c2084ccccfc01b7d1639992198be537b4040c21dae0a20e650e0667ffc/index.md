@@ -4,7 +4,7 @@ title: 001-23
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 001\-23 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1066 🔻  (1132)|
 | ELO Competitive | 1070 🔻  (1163)|

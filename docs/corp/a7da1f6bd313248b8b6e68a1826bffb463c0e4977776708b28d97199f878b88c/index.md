@@ -4,7 +4,7 @@ title: The Syndicate
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- The Syndicate  -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1341 🔺  (72)|
 | ELO Competitive | 1350 🔺  (127)|

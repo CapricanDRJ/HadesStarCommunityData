@@ -4,7 +4,7 @@ title: 共产主义舰队
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 共产主义舰队 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1277 🔺  (149)|
 | ELO Competitive | 1278 🔺  (239)|

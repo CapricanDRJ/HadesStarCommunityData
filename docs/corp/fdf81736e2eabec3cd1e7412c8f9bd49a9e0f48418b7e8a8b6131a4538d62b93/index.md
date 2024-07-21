@@ -4,7 +4,7 @@ title: The Visionaries
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- The Visionaries -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1196 🔻  (484)|
 | ELO Competitive | 1196 🔻  (575)|

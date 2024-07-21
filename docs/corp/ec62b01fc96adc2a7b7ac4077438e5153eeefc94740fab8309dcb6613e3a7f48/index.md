@@ -4,7 +4,7 @@ title: Bacon Warriors
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Bacon Warriors -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1258 🔻  (188)|
 | ELO Competitive | 1295 🔻  (208)|

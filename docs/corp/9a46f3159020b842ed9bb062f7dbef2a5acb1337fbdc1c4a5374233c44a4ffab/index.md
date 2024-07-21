@@ -4,7 +4,7 @@ title: Capibarius
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Capibarius -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1259 🔺  (185)|
 | ELO Competitive | 1260 🔺  (280)|

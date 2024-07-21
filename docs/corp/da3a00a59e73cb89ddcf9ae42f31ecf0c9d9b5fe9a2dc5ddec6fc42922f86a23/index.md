@@ -4,7 +4,7 @@ title: Midland Ind.
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Midland Ind\. -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1204 🔻  (412)|
 | ELO Competitive | 1225 🔻  (378)|

@@ -4,7 +4,7 @@ title: MÉXICO INFINITO
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- MÉXICO INFINITO -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1158 🔺  (945)|
 | ELO Competitive | 1254 🔺  (293)|

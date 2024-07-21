@@ -4,7 +4,7 @@ title: *Alfa y Omega*
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- \*Alfa y Omega\* -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1266 🔺  (171)|
 | ELO Competitive | 1268 🔺  (263)|

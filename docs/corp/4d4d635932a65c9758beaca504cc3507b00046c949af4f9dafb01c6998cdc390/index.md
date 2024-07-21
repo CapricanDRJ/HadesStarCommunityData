@@ -4,7 +4,7 @@ title: Wehrmacht
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Wehrmacht -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1180 🔻  (762)|
 | ELO Competitive | 1183 🔻  (827)|

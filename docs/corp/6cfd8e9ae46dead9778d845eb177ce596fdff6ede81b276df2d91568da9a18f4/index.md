@@ -4,7 +4,7 @@ title: North Star
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- North Star -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1164 🔻  (909)|
 | ELO Competitive | 1168 🔻  (970)|

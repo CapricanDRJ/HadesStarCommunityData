@@ -4,7 +4,7 @@ title: DarkMoon
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- DarkMoon -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1311 🔻  (106)|
 | ELO Competitive | 1389 🔺  (89)|

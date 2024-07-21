@@ -4,7 +4,7 @@ title: Скричеры
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Скричеры -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1197 🔺  (475)|
 | ELO Competitive | 1200 🔺  (542)|

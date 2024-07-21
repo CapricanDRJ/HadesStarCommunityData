@@ -4,7 +4,7 @@ title: 苏维埃联邦
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 苏维埃联邦 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1048 🔻  (1144)|
 | ELO Competitive | 1048 🔻  (1168)|

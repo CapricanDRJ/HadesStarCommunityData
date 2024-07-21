@@ -4,7 +4,7 @@ title: Dumpster Fire 2
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Dumpster Fire 2 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1172 🔻  (830)|
 | ELO Competitive | 1365 🔻  (112)|

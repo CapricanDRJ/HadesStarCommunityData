@@ -4,7 +4,7 @@ title: 星舰月球
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 星舰月球 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1433 🔺  (21)|
 | ELO Competitive | 1504 🔺  (17)|

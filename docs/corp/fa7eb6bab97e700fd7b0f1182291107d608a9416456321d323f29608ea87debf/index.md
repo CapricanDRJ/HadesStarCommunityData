@@ -4,7 +4,7 @@ title: Void Nebula
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Void Nebula -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1156 🔻  (956)|
 | ELO Competitive | 1156 🔻  (1025)|

@@ -4,7 +4,7 @@ title: Quadra FR
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Quadra FR -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1244 🔺  (229)|
 | ELO Competitive | 1253 🔺  (297)|

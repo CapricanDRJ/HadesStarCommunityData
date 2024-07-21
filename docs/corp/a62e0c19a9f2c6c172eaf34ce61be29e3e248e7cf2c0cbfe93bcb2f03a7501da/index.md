@@ -4,7 +4,7 @@ title: КОРПОРАЦИЯ ЗЛА
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- КОРПОРАЦИЯ ЗЛА -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 954 🔻  (1173)|
 | ELO Competitive | 1103 🔻  (1132)|

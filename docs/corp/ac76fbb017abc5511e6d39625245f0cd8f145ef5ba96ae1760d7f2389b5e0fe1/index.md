@@ -4,7 +4,7 @@ title: ProyectCorp
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- ProyectCorp -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1140 🔻  (1007)|
 | ELO Competitive | 1200 🔻  (529)|

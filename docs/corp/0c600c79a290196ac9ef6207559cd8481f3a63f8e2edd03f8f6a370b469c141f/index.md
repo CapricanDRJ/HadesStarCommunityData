@@ -4,7 +4,7 @@ title: К звездам
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- К звездам -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (579)|
 | ELO Competitive | 1192 🔻  (594)|

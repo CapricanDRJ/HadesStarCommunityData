@@ -4,7 +4,7 @@ title: Nightmares
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Nightmares  -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1171 🔻  (853)|
 | ELO Competitive | 1172 🔻  (918)|

@@ -4,7 +4,7 @@ title: Чистое Небо
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Чистое Небо -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1155 🔻  (960)|
 | ELO Competitive | 1156 🔻  (1027)|

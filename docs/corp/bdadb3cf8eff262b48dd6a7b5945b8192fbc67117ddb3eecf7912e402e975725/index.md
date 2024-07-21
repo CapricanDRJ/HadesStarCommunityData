@@ -4,7 +4,7 @@ title: Eretria
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Eretria  -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1220 🔺  (312)|
 | ELO Competitive | 1244 🔺  (323)|

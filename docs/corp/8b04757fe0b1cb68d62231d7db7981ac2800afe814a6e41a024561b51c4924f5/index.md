@@ -4,7 +4,7 @@ title: Starborne Corp
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Starborne Corp -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (620)|
 | ELO Competitive | 1186 🔻  (711)|

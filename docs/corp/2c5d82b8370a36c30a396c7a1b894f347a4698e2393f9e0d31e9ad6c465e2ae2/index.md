@@ -4,7 +4,7 @@ title: Quantum Jumpers
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Quantum Jumpers -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔺  (555)|
 | ELO Competitive | 1197 🔺  (570)|

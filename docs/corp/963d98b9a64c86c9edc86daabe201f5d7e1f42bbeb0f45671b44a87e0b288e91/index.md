@@ -4,7 +4,7 @@ title: Los Unidos
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Los Unidos  -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔺  (570)|
 | ELO Competitive | 1217 🔺  (422)|

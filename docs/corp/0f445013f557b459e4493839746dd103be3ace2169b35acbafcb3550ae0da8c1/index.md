@@ -4,7 +4,7 @@ title: Imperial Navy
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Imperial Navy -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1170 🔻  (874)|
 | ELO Competitive | 1170 🔻  (962)|

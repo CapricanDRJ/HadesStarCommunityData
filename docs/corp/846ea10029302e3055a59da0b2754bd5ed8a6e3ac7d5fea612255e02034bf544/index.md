@@ -4,7 +4,7 @@ title: Омикрон Альфа
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Омикрон Альфа -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1215 🔺  (344)|
 | ELO Competitive | 1215 🔺  (440)|

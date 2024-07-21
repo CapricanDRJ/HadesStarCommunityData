@@ -4,7 +4,7 @@ title: Phoenix Squad
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Phoenix Squad -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1169 🔻  (887)|
 | ELO Competitive | 1172 🔻  (926)|

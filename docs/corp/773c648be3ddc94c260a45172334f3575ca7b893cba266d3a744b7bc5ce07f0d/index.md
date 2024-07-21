@@ -4,7 +4,7 @@ title: O.P.S
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- O\.P\.S -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (623)|
 | ELO Competitive | 1186 🔻  (737)|

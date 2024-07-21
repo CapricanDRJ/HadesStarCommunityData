@@ -4,7 +4,7 @@ title: SafeSpace
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- SafeSpace -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1216 🔺  (329)|
 | ELO Competitive | 1216 🔺  (425)|

@@ -4,7 +4,7 @@ title: Persistence
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Persistence -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1192 🔻  (506)|
 | ELO Competitive | 1192 🔻  (596)|

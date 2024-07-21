@@ -4,7 +4,7 @@ title: UAGC
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- UAGC -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1243 🔻  (231)|
 | ELO Competitive | 1330 🔺  (157)|

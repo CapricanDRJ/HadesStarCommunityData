@@ -4,7 +4,7 @@ title: C'est pas faux!
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- C'est pas faux\! -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (578)|
 | ELO Competitive | 1191 🔻  (610)|

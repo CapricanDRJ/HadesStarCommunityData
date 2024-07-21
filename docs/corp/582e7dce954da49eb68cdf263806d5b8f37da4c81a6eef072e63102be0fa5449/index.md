@@ -4,7 +4,7 @@ title: Argentina 1.0
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Argentina 1\.0 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1237 🔻  (258)|
 | ELO Competitive | 1270 🔻  (261)|

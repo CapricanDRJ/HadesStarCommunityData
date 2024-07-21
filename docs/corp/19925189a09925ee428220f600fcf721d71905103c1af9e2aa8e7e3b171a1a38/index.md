@@ -4,7 +4,7 @@ title: First Legion
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- First Legion -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1242 🔻  (236)|
 | ELO Competitive | 1417 🔺  (68)|

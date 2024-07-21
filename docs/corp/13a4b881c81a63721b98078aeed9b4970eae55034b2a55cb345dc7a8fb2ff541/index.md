@@ -4,7 +4,7 @@ title: Бороская Имерия
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Бороская Имерия -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1196 🔻  (479)|
 | ELO Competitive | 1197 🔻  (568)|

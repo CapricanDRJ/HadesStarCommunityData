@@ -4,7 +4,7 @@ title: 中国航天科技集团（CASC）
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 中国航天科技集团（CASC） -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1171 🔻  (855)|
 | ELO Competitive | 1173 🔻  (913)|

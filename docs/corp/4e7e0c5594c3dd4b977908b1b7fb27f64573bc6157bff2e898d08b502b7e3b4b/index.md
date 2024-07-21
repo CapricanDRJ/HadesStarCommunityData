@@ -4,7 +4,7 @@ title: Interstellar
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Interstellar -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔻  (574)|
 | ELO Competitive | 1187 🔻  (678)|

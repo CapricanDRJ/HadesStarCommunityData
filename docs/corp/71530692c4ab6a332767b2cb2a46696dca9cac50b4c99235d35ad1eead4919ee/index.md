@@ -4,7 +4,7 @@ title: Spy Corp
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Spy Corp -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1169 🔻  (883)|
 | ELO Competitive | 1175 🔻  (893)|

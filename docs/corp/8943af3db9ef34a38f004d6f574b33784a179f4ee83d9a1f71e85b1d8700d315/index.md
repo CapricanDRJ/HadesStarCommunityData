@@ -4,7 +4,7 @@ title: CSI
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- CSI -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1154 🔻  (964)|
 | ELO Competitive | 1154 🔻  (1031)|

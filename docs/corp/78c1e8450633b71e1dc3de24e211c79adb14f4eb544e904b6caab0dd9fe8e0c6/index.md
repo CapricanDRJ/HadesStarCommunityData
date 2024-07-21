@@ -4,7 +4,7 @@ title: U.I.H
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- U\.I\.H -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1155 🔻  (959)|
 | ELO Competitive | 1155 🔻  (1029)|

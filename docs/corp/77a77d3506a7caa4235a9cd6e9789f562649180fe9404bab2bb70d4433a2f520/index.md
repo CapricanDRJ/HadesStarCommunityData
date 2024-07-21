@@ -4,7 +4,7 @@ title: Intercepter Inc
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Intercepter Inc -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔻  (701)|
 | ELO Competitive | 1184 🔻  (805)|

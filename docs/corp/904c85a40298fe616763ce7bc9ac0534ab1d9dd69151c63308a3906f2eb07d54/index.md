@@ -4,7 +4,7 @@ title: Thunderbears
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Thunderbears -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1173 🔻  (817)|
 | ELO Competitive | 1178 🔻  (856)|

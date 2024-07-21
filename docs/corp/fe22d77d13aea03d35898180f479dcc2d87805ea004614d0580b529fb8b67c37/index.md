@@ -4,7 +4,7 @@ title: диванодавы
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- диванодавы -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1193 🔻  (500)|
 | ELO Competitive | 1194 🔻  (582)|

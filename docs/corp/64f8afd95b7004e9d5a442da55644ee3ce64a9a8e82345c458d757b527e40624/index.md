@@ -4,7 +4,7 @@ title: 佛矿寺
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 佛矿寺 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 997 🔻  (1165)|
 | ELO Competitive | 1027 🔻  (1172)|

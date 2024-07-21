@@ -4,7 +4,7 @@ title: 云浪度假村↕
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 云浪度假村↕ -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1140 🔺  (1009)|
 | ELO Competitive | 1146 🔺  (1061)|

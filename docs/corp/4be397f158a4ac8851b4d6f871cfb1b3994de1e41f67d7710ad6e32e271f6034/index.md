@@ -4,7 +4,7 @@ title: Berlin
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Berlin -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (633)|
 | ELO Competitive | 1186 🔻  (682)|

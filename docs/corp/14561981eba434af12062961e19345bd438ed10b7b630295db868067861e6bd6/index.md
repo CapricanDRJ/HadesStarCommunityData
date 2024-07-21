@@ -4,7 +4,7 @@ title: Russia
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Russia  -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔻  (709)|
 | ELO Competitive | 1186 🔻  (696)|

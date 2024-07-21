@@ -4,7 +4,7 @@ title: Star Destroyers
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Star Destroyers -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1350 🔺  (61)|
 | ELO Competitive | 1385 🔺  (94)|

@@ -4,7 +4,7 @@ title: 日中連合
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 日中連合 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1175 🔻  (800)|
 | ELO Competitive | 1176 🔻  (877)|

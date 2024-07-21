@@ -4,7 +4,7 @@ title: Лунный Феникс
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Лунный Феникс -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1390 🔻  (41)|
 | ELO Competitive | 1452 🔻  (46)|

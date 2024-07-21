@@ -4,7 +4,7 @@ title: Village of Evil
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Village of Evil -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1170 🔻  (873)|
 | ELO Competitive | 1185 🔻  (750)|

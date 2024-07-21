@@ -4,7 +4,7 @@ title: Regulus
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Regulus -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1151 🔻  (973)|
 | ELO Competitive | 1208 🔻  (490)|

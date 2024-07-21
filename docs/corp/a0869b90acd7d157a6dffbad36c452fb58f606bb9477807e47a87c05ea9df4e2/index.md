@@ -4,7 +4,7 @@ title: Freelancer
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Freelancer -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1174 🔻  (812)|
 | ELO Competitive | 1174 🔻  (895)|

@@ -4,7 +4,7 @@ title: LCP
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- LCP -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1174 🔻  (806)|
 | ELO Competitive | 1178 🔻  (861)|

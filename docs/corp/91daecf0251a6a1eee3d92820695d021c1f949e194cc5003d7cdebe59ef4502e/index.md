@@ -4,7 +4,7 @@ title: TROLL SQUAD
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- TROLL SQUAD -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1256 🔻  (194)|
 | ELO Competitive | 1261 🔻  (278)|

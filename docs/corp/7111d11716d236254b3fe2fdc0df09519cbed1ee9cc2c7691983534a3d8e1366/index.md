@@ -4,7 +4,7 @@ title: Gummibärenbande
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Gummibärenbande -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1055 🔻  (1137)|
 | ELO Competitive | 1082 🔻  (1153)|

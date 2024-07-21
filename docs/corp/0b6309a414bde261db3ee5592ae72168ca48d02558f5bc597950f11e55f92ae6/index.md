@@ -4,7 +4,7 @@ title: Quantum Cats
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Quantum Cats -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1196 🔻  (476)|
 | ELO Competitive | 1211 🔻  (480)|

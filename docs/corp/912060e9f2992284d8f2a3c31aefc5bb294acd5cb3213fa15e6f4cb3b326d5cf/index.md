@@ -4,7 +4,7 @@ title: OntarioDiligent
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- OntarioDiligent -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔻  (571)|
 | ELO Competitive | 1187 🔻  (676)|

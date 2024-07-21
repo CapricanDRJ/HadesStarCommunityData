@@ -4,7 +4,7 @@ title: Сибиряки
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Сибиряки -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔻  (707)|
 | ELO Competitive | 1184 🔻  (810)|

@@ -4,7 +4,7 @@ title: STAR TERROR CZ
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- STAR TERROR CZ -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1171 🔻  (842)|
 | ELO Competitive | 1172 🔻  (930)|

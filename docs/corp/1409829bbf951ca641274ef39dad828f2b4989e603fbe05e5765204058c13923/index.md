@@ -4,7 +4,7 @@ title: 龙门训练营
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 龙门训练营 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1138 🔺  (1015)|
 | ELO Competitive | 1265 🔺  (266)|

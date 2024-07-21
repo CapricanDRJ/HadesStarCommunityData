@@ -4,7 +4,7 @@ title: Serenity
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Serenity -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1171 🔻  (849)|
 | ELO Competitive | 1171 🔻  (940)|

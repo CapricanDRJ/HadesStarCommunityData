@@ -4,7 +4,7 @@ title: Krasse Bros
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Krasse Bros -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1256 🔺  (192)|
 | ELO Competitive | 1259 🔺  (283)|

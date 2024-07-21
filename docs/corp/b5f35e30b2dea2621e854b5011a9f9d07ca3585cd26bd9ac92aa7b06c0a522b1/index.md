@@ -4,7 +4,7 @@ title: 德意志第三帝国奥米加分部
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 德意志第三帝国奥米加分部 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1105 🔻  (1092)|
 | ELO Competitive | 1128 🔻  (1103)|

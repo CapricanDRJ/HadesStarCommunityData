@@ -4,7 +4,7 @@ title: 碧霄殿
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 碧霄殿 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1236 🔺  (262)|
 | ELO Competitive | 1245 🔺  (320)|

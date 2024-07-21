@@ -4,7 +4,7 @@ title: Toxic
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Toxic -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1138 🔻  (1016)|
 | ELO Competitive | 1142 🔻  (1077)|

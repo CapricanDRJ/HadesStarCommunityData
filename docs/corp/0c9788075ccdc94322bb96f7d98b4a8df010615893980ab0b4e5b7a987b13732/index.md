@@ -4,7 +4,7 @@ title: Aegis Shield
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Aegis Shield -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1126 🔻  (1052)|
 | ELO Competitive | 1138 🔻  (1087)|

@@ -4,7 +4,7 @@ title: 仙剑3
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 仙剑3 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1217 🔺  (325)|
 | ELO Competitive | 1217 🔺  (418)|

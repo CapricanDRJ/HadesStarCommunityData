@@ -4,7 +4,7 @@ title: TeddisaurusWrex
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- TeddisaurusWrex -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1372 🔺  (50)|
 | ELO Competitive | 1418 🔺  (67)|

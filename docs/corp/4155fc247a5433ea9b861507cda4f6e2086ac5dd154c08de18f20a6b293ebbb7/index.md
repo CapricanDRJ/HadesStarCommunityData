@@ -4,7 +4,7 @@ title: Séptimo Círculo
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Séptimo Círculo -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔻  (569)|
 | ELO Competitive | 1187 🔻  (675)|

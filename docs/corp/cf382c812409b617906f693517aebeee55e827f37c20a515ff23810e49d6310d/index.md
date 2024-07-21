@@ -4,7 +4,7 @@ title: BRhue
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- BRhue -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1206 🔺  (407)|
 | ELO Competitive | 1218 🔺  (410)|

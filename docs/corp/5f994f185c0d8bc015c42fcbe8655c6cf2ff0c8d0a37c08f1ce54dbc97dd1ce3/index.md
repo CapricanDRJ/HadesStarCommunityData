@@ -4,7 +4,7 @@ title: Veil of Maya
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Veil of Maya -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1224 🔻  (303)|
 | ELO Competitive | 1224 🔻  (383)|

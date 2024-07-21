@@ -4,7 +4,7 @@ title: Darkest Hour
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Darkest Hour -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1215 🔺  (343)|
 | ELO Competitive | 1220 🔺  (398)|

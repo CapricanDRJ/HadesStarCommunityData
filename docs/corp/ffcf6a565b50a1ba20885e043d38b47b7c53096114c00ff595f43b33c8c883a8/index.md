@@ -4,7 +4,7 @@ title: the light
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- the light -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1182 🔻  (746)|
 | ELO Competitive | 1184 🔻  (809)|

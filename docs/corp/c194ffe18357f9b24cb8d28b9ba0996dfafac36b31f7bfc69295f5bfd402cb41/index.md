@@ -4,7 +4,7 @@ title: UNNP
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- UNNP -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1169 🔻  (882)|
 | ELO Competitive | 1170 🔻  (964)|

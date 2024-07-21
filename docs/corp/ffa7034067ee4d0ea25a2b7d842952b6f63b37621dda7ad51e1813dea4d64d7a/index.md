@@ -4,7 +4,7 @@ title: Dreckiger Rest
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Dreckiger Rest -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1172 🔻  (833)|
 | ELO Competitive | 1172 🔻  (924)|

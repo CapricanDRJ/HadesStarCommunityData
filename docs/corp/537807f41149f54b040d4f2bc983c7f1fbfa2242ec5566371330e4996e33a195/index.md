@@ -4,7 +4,7 @@ title: Tormenta
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Tormenta -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1183 🔺  (726)|
 | ELO Competitive | 1190 🔺  (625)|

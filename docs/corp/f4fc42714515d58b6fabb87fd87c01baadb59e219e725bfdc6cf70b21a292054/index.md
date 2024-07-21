@@ -4,7 +4,7 @@ title: Orphans Of Kos
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Orphans Of Kos -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1194 🔺  (493)|
 | ELO Competitive | 1197 🔺  (567)|

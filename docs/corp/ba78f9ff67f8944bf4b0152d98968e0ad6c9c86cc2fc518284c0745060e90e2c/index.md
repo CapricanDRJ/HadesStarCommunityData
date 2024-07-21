@@ -4,7 +4,7 @@ title: Highland Ind.
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Highland Ind\.  -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1182 🔻  (744)|
 | ELO Competitive | 1234 🔻  (349)|

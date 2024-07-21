@@ -4,7 +4,7 @@ title: Sektion 32
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Sektion 32 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1182 🔻  (750)|
 | ELO Competitive | 1189 🔻  (638)|

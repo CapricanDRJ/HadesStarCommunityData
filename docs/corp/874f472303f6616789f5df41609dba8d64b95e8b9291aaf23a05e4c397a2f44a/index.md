@@ -4,7 +4,7 @@ title: SUN OF 3LANDS
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- SUN OF 3LANDS -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1269 🔺  (164)|
 | ELO Competitive | 1280 🔺  (237)|

@@ -4,7 +4,7 @@ title: 星光禁卫
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 星光禁卫 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1119 🔻  (1067)|
 | ELO Competitive | 1124 🔻  (1107)|

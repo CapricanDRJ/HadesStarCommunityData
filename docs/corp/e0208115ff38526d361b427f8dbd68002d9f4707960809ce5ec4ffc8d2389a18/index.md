@@ -4,7 +4,7 @@ title: Richthofen
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Richthofen -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1195 🔻  (487)|
 | ELO Competitive | 1198 🔻  (566)|

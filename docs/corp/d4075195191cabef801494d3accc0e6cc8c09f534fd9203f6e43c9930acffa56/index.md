@@ -4,7 +4,7 @@ title: Hamburg AG 2
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Hamburg AG 2 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1195 🔺  (485)|
 | ELO Competitive | 1211 🔺  (478)|

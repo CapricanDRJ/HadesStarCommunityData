@@ -4,7 +4,7 @@ title: Ironbear Legion
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Ironbear Legion -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1123 🔻  (1062)|
 | ELO Competitive | 1178 🔻  (857)|

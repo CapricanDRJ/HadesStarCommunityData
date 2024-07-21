@@ -4,7 +4,7 @@ title: U.Y.E.U.
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- U\.Y\.E\.U\. -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1121 🔻  (1064)|
 | ELO Competitive | 1165 🔻  (983)|

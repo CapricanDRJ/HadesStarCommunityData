@@ -4,7 +4,7 @@ title: 纸鸢台
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 纸鸢台 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1233 🔺  (270)|
 | ELO Competitive | 1233 🔺  (353)|

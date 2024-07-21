@@ -4,7 +4,7 @@ title: Green Dwarf
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Green Dwarf -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1247 🔺  (218)|
 | ELO Competitive | 1262 🔺  (276)|

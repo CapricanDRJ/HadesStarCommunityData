@@ -4,7 +4,7 @@ title: StalkerUA
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- StalkerUA  -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (617)|
 | ELO Competitive | 1186 🔻  (734)|

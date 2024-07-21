@@ -4,7 +4,7 @@ title: Венерский Союз
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Венерский Союз -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1166 🔻  (902)|
 | ELO Competitive | 1171 🔻  (942)|

@@ -4,7 +4,7 @@ title: Metal Nova
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Metal Nova -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1229 🔺  (278)|
 | ELO Competitive | 1229 🔺  (364)|

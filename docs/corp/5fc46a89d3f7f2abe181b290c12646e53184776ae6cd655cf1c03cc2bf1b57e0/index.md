@@ -4,7 +4,7 @@ title: Titan Inc.
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Titan Inc\. -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1200 ▫️  (436)|
 | ELO Competitive | 1200 ▫️  (530)|

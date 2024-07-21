@@ -4,7 +4,7 @@ title: ITA 2.0
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- ITA 2\.0 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1240 🔻  (243)|
 | ELO Competitive | 1242 🔻  (328)|

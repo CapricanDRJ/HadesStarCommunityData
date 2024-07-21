@@ -4,7 +4,7 @@ title: RGW
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- RGW -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1275 🔺  (150)|
 | ELO Competitive | 1289 🔺  (217)|

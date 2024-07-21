@@ -4,7 +4,7 @@ title: Crazy Elite
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Crazy Elite -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1160 🔻  (932)|
 | ELO Competitive | 1316 🔻  (180)|

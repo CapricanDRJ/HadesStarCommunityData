@@ -4,7 +4,7 @@ title: Alpha Galaxy
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Alpha Galaxy -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1199 🔻  (457)|
 | ELO Competitive | 1199 🔻  (553)|

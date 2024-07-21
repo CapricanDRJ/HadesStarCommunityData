@@ -4,7 +4,7 @@ title: Last Chance
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Last Chance -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1202 🔻  (416)|
 | ELO Competitive | 1207 🔻  (492)|

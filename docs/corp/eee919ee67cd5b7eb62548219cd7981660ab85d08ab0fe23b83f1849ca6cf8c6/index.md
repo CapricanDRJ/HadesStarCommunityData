@@ -4,7 +4,7 @@ title: On en a Gros !
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- On en a Gros \!  -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1196 🔻  (477)|
 | ELO Competitive | 1325 🔻  (164)|

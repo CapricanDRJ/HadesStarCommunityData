@@ -4,7 +4,7 @@ title: FoxTale
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- FoxTale -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1170 🔻  (871)|
 | ELO Competitive | 1171 🔻  (946)|

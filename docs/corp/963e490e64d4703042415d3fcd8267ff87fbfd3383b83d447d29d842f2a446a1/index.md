@@ -4,7 +4,7 @@ title: KLM
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- KLM -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1068 🔻  (1128)|
 | ELO Competitive | 1099 🔻  (1138)|

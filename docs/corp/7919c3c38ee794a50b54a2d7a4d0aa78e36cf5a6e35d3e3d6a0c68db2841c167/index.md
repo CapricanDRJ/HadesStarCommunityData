@@ -4,7 +4,7 @@ title: Prospectors
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Prospectors -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1217 🔻  (328)|
 | ELO Competitive | 1223 🔻  (385)|

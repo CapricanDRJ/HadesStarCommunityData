@@ -4,7 +4,7 @@ title: Dansk
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Dansk -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1145 🔻  (996)|
 | ELO Competitive | 1145 🔻  (1066)|

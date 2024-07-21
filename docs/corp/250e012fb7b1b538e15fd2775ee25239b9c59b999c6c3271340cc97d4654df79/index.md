@@ -4,7 +4,7 @@ title: italian warrior
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- italian warrior -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1214 🔻  (364)|
 | ELO Competitive | 1274 🔻  (249)|

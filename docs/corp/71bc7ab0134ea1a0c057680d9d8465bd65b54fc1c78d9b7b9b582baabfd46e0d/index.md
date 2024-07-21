@@ -4,7 +4,7 @@ title: Ender
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Ender -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1458 🔺  (16)|
 | ELO Competitive | 1528 🔺  (11)|

@@ -4,7 +4,7 @@ title: WTF
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- WTF -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1197 🔻  (473)|
 | ELO Competitive | 1196 🔻  (573)|

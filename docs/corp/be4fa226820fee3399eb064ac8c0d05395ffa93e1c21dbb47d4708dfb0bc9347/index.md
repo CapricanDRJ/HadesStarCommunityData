@@ -4,7 +4,7 @@ title: Рейнджеры
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Рейнджеры -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1127 🔺  (1051)|
 | ELO Competitive | 1153 🔺  (1035)|

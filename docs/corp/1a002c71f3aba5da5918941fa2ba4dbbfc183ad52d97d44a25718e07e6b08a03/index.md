@@ -4,7 +4,7 @@ title: OntarioDawn
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- OntarioDawn -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1464 🔻  (14)|
 | ELO Competitive | 1472 🔻  (35)|

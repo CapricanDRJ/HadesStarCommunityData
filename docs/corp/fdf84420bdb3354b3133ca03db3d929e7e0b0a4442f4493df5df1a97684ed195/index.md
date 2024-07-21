@@ -4,7 +4,7 @@ title: Северный флот
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Северный флот  -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1230 🔺  (274)|
 | ELO Competitive | 1231 🔺  (360)|

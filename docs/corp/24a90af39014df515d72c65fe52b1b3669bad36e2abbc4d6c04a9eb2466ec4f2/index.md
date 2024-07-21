@@ -4,7 +4,7 @@ title: LossFarm No.648
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- LossFarm No\.648 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1217 🔻  (327)|
 | ELO Competitive | 1218 🔻  (417)|

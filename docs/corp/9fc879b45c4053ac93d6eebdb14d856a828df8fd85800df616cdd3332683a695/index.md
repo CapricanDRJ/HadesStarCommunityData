@@ -4,7 +4,7 @@ title: Free Thinkers 2
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Free Thinkers 2 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 949 🔻  (1174)|
 | ELO Competitive | 973 🔻  (1177)|

@@ -4,7 +4,7 @@ title: Death Flight 1.
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Death Flight 1\. -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1176 🔻  (780)|
 | ELO Competitive | 1177 🔻  (865)|

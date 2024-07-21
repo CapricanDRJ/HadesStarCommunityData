@@ -4,7 +4,7 @@ title: Warp Dominion
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Warp Dominion -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1212 🔻  (380)|
 | ELO Competitive | 1217 🔻  (421)|

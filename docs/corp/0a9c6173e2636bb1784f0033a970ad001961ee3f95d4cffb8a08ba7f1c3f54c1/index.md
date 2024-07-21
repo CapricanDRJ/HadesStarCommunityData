@@ -4,7 +4,7 @@ title: STAR EMPIRE 16
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- STAR EMPIRE 16 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1153 🔻  (968)|
 | ELO Competitive | 1153 🔻  (1033)|

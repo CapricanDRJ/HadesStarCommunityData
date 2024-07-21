@@ -4,7 +4,7 @@ title: OrderofTheGeon
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- OrderofTheGeon -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1138 🔻  (1021)|
 | ELO Competitive | 1170 🔻  (958)|

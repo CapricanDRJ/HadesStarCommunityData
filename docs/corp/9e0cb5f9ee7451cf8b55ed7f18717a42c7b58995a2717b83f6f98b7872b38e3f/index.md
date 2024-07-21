@@ -4,7 +4,7 @@ title: Farland Ind.
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Farland Ind\. -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1095 🔻  (1099)|
 | ELO Competitive | 1164 🔻  (992)|

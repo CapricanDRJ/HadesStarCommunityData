@@ -4,7 +4,7 @@ title: Red Alliance
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Red Alliance -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1214 🔻  (358)|
 | ELO Competitive | 1239 🔻  (333)|

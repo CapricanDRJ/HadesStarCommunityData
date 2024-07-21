@@ -4,7 +4,7 @@ title:   边界
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!--   边界   -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1247 🔺  (217)|
 | ELO Competitive | 1257 🔺  (288)|

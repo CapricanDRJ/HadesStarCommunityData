@@ -4,7 +4,7 @@ title: Dacia Chill
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Dacia Chill -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1364 🔺  (53)|
 | ELO Competitive | 1384 🔺  (95)|

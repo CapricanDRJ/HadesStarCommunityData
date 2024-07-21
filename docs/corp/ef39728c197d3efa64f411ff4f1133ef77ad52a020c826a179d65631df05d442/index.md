@@ -4,7 +4,7 @@ title: Spectre
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Spectre -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1156 🔻  (952)|
 | ELO Competitive | 1157 🔻  (1024)|

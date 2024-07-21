@@ -4,7 +4,7 @@ title: 大舰队がな
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 大舰队がな -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1086 🔻  (1113)|
 | ELO Competitive | 1111 🔻  (1124)|

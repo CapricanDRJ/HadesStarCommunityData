@@ -4,7 +4,7 @@ title: The Nerd Herd
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- The Nerd Herd -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1191 🔻  (510)|
 | ELO Competitive | 1192 🔻  (601)|

@@ -4,7 +4,7 @@ title: Avabel Online 2
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Avabel Online 2 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔻  (575)|
 | ELO Competitive | 1187 🔻  (668)|

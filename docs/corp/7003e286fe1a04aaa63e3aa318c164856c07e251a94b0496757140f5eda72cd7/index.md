@@ -4,7 +4,7 @@ title: Trade Station
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Trade Station -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 979 🔻  (1168)|
 | ELO Competitive | 1024 🔻  (1173)|

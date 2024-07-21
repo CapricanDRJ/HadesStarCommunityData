@@ -4,7 +4,7 @@ title: N.P.C
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- N\.P\.C -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1221 🔻  (308)|
 | ELO Competitive | 1227 🔻  (376)|

@@ -4,7 +4,7 @@ title: Seila
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Seila -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔻  (723)|
 | ELO Competitive | 1188 🔻  (653)|

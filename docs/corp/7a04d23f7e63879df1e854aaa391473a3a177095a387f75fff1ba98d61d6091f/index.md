@@ -4,7 +4,7 @@ title: StellarCorpIT
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- StellarCorpIT -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1280 🔺  (145)|
 | ELO Competitive | 1296 🔺  (207)|

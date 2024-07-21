@@ -4,7 +4,7 @@ title: helvetic force
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- helvetic force -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1217 🔺  (326)|
 | ELO Competitive | 1222 🔺  (389)|

@@ -4,7 +4,7 @@ title: Space Monkeys
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Space Monkeys -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1133 🔺  (1036)|
 | ELO Competitive | 1165 🔺  (984)|

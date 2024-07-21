@@ -4,7 +4,7 @@ title: 1st/Ave/Junkie2
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 1st/Ave/Junkie2 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1176 🔻  (782)|
 | ELO Competitive | 1194 🔻  (583)|

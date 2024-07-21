@@ -4,7 +4,7 @@ title: BlakkFlot
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- BlakkFlot -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1219 🔻  (316)|
 | ELO Competitive | 1221 🔻  (393)|

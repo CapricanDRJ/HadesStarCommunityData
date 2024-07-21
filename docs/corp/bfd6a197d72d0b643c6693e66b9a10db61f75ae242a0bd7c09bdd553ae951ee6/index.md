@@ -4,7 +4,7 @@ title: the Rubber Duck
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- the Rubber Duck -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1129 🔻  (1046)|
 | ELO Competitive | 1144 🔻  (1071)|

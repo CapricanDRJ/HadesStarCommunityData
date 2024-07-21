@@ -4,7 +4,7 @@ title: OPA
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- OPA -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1350 🔻  (62)|
 | ELO Competitive | 1375 🔻  (102)|

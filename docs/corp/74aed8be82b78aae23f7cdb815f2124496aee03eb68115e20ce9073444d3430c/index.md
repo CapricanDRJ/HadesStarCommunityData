@@ -4,7 +4,7 @@ title: Sad Panda 2.0
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Sad Panda 2\.0 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1166 🔻  (897)|
 | ELO Competitive | 1169 🔻  (967)|

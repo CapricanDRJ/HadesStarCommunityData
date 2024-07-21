@@ -4,7 +4,7 @@ title: OntarioDynasty
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- OntarioDynasty -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1159 🔻  (934)|
 | ELO Competitive | 1165 🔻  (988)|

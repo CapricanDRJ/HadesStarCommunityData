@@ -4,7 +4,7 @@ title: FreeSpcAlliance
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- FreeSpcAlliance -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1197 🔻  (472)|
 | ELO Competitive | 1199 🔻  (547)|

@@ -4,7 +4,7 @@ title: Newbs
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Newbs -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1314 🔻  (99)|
 | ELO Competitive | 1364 🔻  (113)|

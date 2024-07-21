@@ -4,7 +4,7 @@ title: 揽月宫
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 揽月宫 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1195 🔻  (489)|
 | ELO Competitive | 1195 🔻  (577)|

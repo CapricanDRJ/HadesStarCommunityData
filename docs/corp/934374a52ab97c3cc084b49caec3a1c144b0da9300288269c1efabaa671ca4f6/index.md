@@ -4,7 +4,7 @@ title: LUPI ROMÎNI
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- LUPI ROMÎNI -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1170 🔻  (870)|
 | ELO Competitive | 1178 🔻  (860)|

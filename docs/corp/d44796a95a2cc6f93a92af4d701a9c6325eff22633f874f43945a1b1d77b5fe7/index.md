@@ -4,7 +4,7 @@ title: Ul'Adri
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Ul'Adri -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1209 🔺  (398)|
 | ELO Competitive | 1222 🔺  (390)|

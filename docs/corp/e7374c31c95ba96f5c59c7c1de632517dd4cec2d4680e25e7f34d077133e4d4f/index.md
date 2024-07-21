@@ -4,7 +4,7 @@ title: 九州分团
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 九州分团 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1245 🔻  (226)|
 | ELO Competitive | 1333 🔻  (149)|

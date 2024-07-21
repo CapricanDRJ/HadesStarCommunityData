@@ -4,7 +4,7 @@ title: Grand Mechanism
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Grand Mechanism -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1168 🔻  (893)|
 | ELO Competitive | 1172 🔻  (928)|

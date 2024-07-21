@@ -4,7 +4,7 @@ title: Lacuna X
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Lacuna X -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1448 🔺  (18)|
 | ELO Competitive | 1472 🔺  (34)|

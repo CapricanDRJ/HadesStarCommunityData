@@ -4,7 +4,7 @@ title: Cerulean Nebula
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Cerulean Nebula -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1247 🔺  (215)|
 | ELO Competitive | 1294 🔺  (212)|

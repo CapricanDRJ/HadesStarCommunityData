@@ -4,7 +4,7 @@ title: M4-Valhalla
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- M4\-Valhalla -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔻  (719)|
 | ELO Competitive | 1185 🔻  (794)|

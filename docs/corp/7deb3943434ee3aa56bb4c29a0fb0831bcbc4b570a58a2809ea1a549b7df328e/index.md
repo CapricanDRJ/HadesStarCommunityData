@@ -4,7 +4,7 @@ title: Sith Empire
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Sith Empire -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1194 🔺  (494)|
 | ELO Competitive | 1337 🔺  (146)|

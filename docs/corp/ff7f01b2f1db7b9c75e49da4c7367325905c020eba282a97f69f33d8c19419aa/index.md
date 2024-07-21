@@ -4,7 +4,7 @@ title: ₩.BRASIL.₩
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- ₩\.BRASIL\.₩ -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1106 🔺  (1090)|
 | ELO Competitive | 1109 🔺  (1126)|

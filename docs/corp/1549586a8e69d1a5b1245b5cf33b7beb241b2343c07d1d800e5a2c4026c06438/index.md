@@ -4,7 +4,7 @@ title: ItBurnsWhenIEMP
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- ItBurnsWhenIEMP -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1309 🔺  (110)|
 | ELO Competitive | 1338 🔺  (143)|

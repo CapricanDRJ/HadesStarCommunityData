@@ -4,7 +4,7 @@ title: HAL
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- HAL -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1242 🔺  (238)|
 | ELO Competitive | 1242 🔺  (329)|

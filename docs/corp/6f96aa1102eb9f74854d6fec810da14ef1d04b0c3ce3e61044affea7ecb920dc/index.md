@@ -4,7 +4,7 @@ title: северный шторм
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- северный шторм -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1167 🔻  (896)|
 | ELO Competitive | 1177 🔻  (863)|

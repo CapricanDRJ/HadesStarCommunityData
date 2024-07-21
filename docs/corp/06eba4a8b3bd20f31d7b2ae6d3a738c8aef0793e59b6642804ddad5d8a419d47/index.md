@@ -4,7 +4,7 @@ title: Time Lords
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Time Lords -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1183 🔻  (737)|
 | ELO Competitive | 1183 🔻  (826)|

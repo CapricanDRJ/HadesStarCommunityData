@@ -4,7 +4,7 @@ title: OKC THUNDER
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- OKC THUNDER  -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1214 🔺  (356)|
 | ELO Competitive | 1216 🔺  (429)|

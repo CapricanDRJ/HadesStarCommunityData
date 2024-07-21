@@ -4,7 +4,7 @@ title: THE ECHAPES BEL
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- THE ECHAPES BEL -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1129 🔻  (1049)|
 | ELO Competitive | 1132 🔻  (1097)|

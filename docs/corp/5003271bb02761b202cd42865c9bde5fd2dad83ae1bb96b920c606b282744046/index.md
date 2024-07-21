@@ -4,7 +4,7 @@ title: Avantgarde
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Avantgarde -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 967 🔻  (1172)|
 | ELO Competitive | 1123 🔻  (1108)|

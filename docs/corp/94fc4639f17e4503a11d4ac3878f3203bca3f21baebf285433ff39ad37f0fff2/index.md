@@ -4,7 +4,7 @@ title: BRASIL STAR
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- BRASIL STAR -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1334 🔺  (76)|
 | ELO Competitive | 1429 🔺  (61)|

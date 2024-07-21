@@ -4,7 +4,7 @@ title: Moon Catchers
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Moon Catchers -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1165 🔻  (906)|
 | ELO Competitive | 1204 🔻  (498)|

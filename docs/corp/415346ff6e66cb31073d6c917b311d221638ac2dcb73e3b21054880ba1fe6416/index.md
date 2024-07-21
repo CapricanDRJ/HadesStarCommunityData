@@ -4,7 +4,7 @@ title: Two kitties
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Two kitties -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (644)|
 | ELO Competitive | 1185 🔻  (750)|

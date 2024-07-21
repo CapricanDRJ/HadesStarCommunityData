@@ -4,7 +4,7 @@ title: FAIR
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- FAIR -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔺  (556)|
 | ELO Competitive | 1191 🔺  (603)|

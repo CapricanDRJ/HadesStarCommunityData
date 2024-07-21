@@ -4,7 +4,7 @@ title: Uniones
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Uniones -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1139 🔻  (1014)|
 | ELO Competitive | 1146 🔻  (1063)|

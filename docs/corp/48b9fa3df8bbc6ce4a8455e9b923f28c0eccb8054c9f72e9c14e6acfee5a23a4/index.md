@@ -4,7 +4,7 @@ title: Glashan
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Glashan -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1039 🔻  (1146)|
 | ELO Competitive | 1053 🔻  (1166)|

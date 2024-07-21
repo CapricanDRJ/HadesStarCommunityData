@@ -4,7 +4,7 @@ title: NASA Air base
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- NASA Air base -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1097 🔻  (1097)|
 | ELO Competitive | 1098 🔻  (1139)|

@@ -4,7 +4,7 @@ title: Atlas corp
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Atlas corp -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1156 🔺  (957)|
 | ELO Competitive | 1160 🔺  (1009)|

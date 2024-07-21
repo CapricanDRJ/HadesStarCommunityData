@@ -4,7 +4,7 @@ title: Union premiun
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Union premiun -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1159 🔻  (939)|
 | ELO Competitive | 1159 🔻  (1013)|

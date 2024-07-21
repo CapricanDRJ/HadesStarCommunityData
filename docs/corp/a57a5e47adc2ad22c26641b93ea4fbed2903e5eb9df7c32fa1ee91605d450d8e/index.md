@@ -4,7 +4,7 @@ title: Doomsday
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Doomsday -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1191 🔻  (511)|
 | ELO Competitive | 1193 🔻  (591)|

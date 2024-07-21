@@ -4,7 +4,7 @@ title: 湖心亭看雪
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 湖心亭看雪 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1016 🔻  (1158)|
 | ELO Competitive | 1092 🔻  (1141)|

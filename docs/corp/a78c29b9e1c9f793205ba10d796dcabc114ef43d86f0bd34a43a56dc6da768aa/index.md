@@ -4,7 +4,7 @@ title: Warriorlords
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Warriorlords -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1320 🔺  (92)|
 | ELO Competitive | 1411 🔺  (70)|

@@ -4,7 +4,7 @@ title: Spaceballs
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Spaceballs -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1197 🔻  (474)|
 | ELO Competitive | 1225 🔻  (381)|

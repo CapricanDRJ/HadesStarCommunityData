@@ -4,7 +4,7 @@ title: Alpha to Omega
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Alpha to Omega -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1194 🔻  (495)|
 | ELO Competitive | 1195 🔻  (578)|

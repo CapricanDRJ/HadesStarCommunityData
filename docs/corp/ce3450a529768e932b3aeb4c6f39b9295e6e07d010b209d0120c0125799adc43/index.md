@@ -4,7 +4,7 @@ title: R-6 satalite
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- R\-6 satalite -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1311 🔺  (104)|
 | ELO Competitive | 1345 🔺  (136)|

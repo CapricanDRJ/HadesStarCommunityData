@@ -4,7 +4,7 @@ title: CTG
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- CTG -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1197 🔺  (469)|
 | ELO Competitive | 1220 🔺  (399)|

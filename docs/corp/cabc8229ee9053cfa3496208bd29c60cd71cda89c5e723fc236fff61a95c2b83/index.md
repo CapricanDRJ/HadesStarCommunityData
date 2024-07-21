@@ -4,7 +4,7 @@ title: BRASIL ACADEMY
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- BRASIL ACADEMY -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1218 🔻  (323)|
 | ELO Competitive | 1219 🔻  (404)|

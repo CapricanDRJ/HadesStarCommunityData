@@ -4,7 +4,7 @@ title: Int. Trading Co
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Int\. Trading Co -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1300 🔻  (121)|
 | ELO Competitive | 1339 🔻  (142)|

@@ -4,7 +4,7 @@ title: L.P.A.
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- L\.P\.A\. -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1212 🔻  (382)|
 | ELO Competitive | 1219 🔻  (406)|

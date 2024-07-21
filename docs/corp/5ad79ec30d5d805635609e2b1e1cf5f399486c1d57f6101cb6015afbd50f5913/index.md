@@ -4,7 +4,7 @@ title: 9-Й СКОРПИОН
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 9\-Й СКОРПИОН -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1398 🔺  (34)|
 | ELO Competitive | 1440 🔺  (55)|

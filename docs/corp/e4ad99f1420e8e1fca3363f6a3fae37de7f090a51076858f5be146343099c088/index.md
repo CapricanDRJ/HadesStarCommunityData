@@ -4,7 +4,7 @@ title: Gemini↕     ☁
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Gemini↕     ☁ -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1145 🔻  (991)|
 | ELO Competitive | 1155 🔻  (1030)|

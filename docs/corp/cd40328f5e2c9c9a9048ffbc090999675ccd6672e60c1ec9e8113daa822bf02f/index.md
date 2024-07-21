@@ -4,7 +4,7 @@ title: Intari
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Intari -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1199 🔻  (461)|
 | ELO Competitive | 1199 🔻  (556)|

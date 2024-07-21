@@ -4,7 +4,7 @@ title: Vanu Centurions
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Vanu Centurions -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔻  (704)|
 | ELO Competitive | 1184 🔻  (808)|

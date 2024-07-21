@@ -4,7 +4,7 @@ title: New Orbit ©
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- New Orbit © -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (587)|
 | ELO Competitive | 1186 🔻  (686)|

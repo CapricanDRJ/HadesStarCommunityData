@@ -4,7 +4,7 @@ title: 한국우주연합
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 한국우주연합 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1131 🔻  (1042)|
 | ELO Competitive | 1149 🔻  (1050)|

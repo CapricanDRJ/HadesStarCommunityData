@@ -4,7 +4,7 @@ title: The Foundation
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- The Foundation -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1231 🔺  (273)|
 | ELO Competitive | 1233 🔺  (352)|

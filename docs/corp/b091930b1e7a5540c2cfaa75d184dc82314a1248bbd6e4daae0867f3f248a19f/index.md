@@ -4,7 +4,7 @@ title: Ещё один Миф
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Ещё один Миф -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1139 🔻  (1012)|
 | ELO Competitive | 1140 🔻  (1082)|

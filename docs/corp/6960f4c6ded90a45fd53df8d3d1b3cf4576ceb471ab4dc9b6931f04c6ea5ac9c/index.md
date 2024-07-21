@@ -4,7 +4,7 @@ title: 代代守护你的神明
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 代代守护你的神明 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1225 🔺  (301)|
 | ELO Competitive | 1264 🔺  (269)|

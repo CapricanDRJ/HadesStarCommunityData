@@ -4,7 +4,7 @@ title: Relic Hunters
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Relic Hunters -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1216 🔺  (338)|
 | ELO Competitive | 1216 🔺  (436)|

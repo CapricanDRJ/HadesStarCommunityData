@@ -4,7 +4,7 @@ title: First Squad
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- First Squad -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1136 🔻  (1029)|
 | ELO Competitive | 1150 🔻  (1045)|

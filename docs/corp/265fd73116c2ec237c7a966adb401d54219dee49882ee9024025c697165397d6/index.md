@@ -4,7 +4,7 @@ title: Utd. Human Fed.
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Utd\. Human Fed\. -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1181 🔻  (755)|
 | ELO Competitive | 1318 🔻  (177)|

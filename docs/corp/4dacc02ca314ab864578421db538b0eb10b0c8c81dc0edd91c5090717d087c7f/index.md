@@ -4,7 +4,7 @@ title: Armored Union
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Armored Union  -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1238 🔺  (252)|
 | ELO Competitive | 1321 🔺  (174)|

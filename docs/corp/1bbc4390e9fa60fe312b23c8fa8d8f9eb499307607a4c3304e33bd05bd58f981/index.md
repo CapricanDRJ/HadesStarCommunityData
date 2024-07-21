@@ -4,7 +4,7 @@ title: ES Gaming
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- ES Gaming  -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1235 🔻  (264)|
 | ELO Competitive | 1278 🔻  (238)|

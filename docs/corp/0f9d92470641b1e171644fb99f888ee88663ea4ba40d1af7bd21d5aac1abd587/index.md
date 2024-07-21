@@ -4,7 +4,7 @@ title: l'empire sylli
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- l'empire sylli -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1116 🔻  (1072)|
 | ELO Competitive | 1118 🔻  (1111)|

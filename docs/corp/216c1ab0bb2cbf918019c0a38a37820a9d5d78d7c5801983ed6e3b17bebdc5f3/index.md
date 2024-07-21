@@ -4,7 +4,7 @@ title: lonewolf
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- lonewolf -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1219 🔻  (320)|
 | ELO Competitive | 1234 🔻  (350)|

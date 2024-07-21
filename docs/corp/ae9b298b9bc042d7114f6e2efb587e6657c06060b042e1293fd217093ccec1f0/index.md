@@ -4,7 +4,7 @@ title: КЕДР
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- КЕДР -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔻  (696)|
 | ELO Competitive | 1184 🔻  (802)|

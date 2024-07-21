@@ -4,7 +4,7 @@ title: /tmp
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- /tmp -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1215 🔺  (341)|
 | ELO Competitive | 1217 🔺  (423)|

@@ -4,7 +4,7 @@ title: Continuance
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Continuance -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1172 🔻  (834)|
 | ELO Competitive | 1172 🔻  (922)|

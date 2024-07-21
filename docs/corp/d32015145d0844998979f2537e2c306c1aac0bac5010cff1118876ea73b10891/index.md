@@ -4,7 +4,7 @@ title: Peasants
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Peasants -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1214 🔺  (365)|
 | ELO Competitive | 1215 🔺  (450)|

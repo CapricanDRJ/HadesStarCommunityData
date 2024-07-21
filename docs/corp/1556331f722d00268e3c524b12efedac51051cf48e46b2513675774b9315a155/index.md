@@ -4,7 +4,7 @@ title: Retarts
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Retarts -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1239 🔺  (249)|
 | ELO Competitive | 1294 🔺  (211)|

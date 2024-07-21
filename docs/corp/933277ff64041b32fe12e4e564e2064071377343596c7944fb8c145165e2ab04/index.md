@@ -4,7 +4,7 @@ title: 自由星际联盟
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 自由星际联盟 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1007 🔻  (1161)|
 | ELO Competitive | 1080 🔻  (1155)|

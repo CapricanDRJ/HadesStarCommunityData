@@ -4,7 +4,7 @@ title: 黑色长城
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 黑色长城 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1124 🔻  (1055)|
 | ELO Competitive | 1131 🔻  (1098)|

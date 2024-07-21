@@ -4,7 +4,7 @@ title: Zeon
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Zeon -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1152 🔻  (971)|
 | ELO Competitive | 1152 🔻  (1039)|

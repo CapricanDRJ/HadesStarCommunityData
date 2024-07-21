@@ -4,7 +4,7 @@ title: The Borg
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- The Borg -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (627)|
 | ELO Competitive | 1186 🔻  (738)|

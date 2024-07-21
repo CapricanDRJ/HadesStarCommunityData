@@ -4,7 +4,7 @@ title: The Star League
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- The Star League -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1147 🔻  (982)|
 | ELO Competitive | 1189 🔻  (632)|

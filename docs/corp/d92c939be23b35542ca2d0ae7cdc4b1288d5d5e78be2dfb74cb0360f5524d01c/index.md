@@ -4,7 +4,7 @@ title: 青鸾殿
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 青鸾殿 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1219 🔺  (319)|
 | ELO Competitive | 1224 🔺  (384)|

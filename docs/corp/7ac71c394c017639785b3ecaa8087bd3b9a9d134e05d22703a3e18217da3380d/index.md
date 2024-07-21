@@ -4,7 +4,7 @@ title: Peace Keepers
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Peace Keepers -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1031 🔻  (1151)|
 | ELO Competitive | 1141 🔻  (1079)|

@@ -4,7 +4,7 @@ title: BrazilCorp.
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- BrazilCorp\. -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1480 🔺  (10)|
 | ELO Competitive | 1517 🔺  (14)|

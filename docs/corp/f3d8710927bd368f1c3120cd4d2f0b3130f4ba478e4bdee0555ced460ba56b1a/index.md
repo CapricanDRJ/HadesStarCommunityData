@@ -4,7 +4,7 @@ title: Gregycool
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Gregycool -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (602)|
 | ELO Competitive | 1186 🔻  (710)|

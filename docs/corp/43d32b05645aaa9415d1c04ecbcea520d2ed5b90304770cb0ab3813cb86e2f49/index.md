@@ -4,7 +4,7 @@ title: 붉은늑대
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 붉은늑대 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔺  (577)|
 | ELO Competitive | 1347 🔺  (131)|

@@ -4,7 +4,7 @@ title: 海賊ギルド
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 海賊ギルド -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1076 🔺  (1122)|
 | ELO Competitive | 1086 🔺  (1149)|

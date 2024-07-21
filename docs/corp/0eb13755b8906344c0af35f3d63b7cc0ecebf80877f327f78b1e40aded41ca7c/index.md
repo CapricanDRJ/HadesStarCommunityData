@@ -4,7 +4,7 @@ title: Ukr alliance
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Ukr alliance  -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1175 🔻  (792)|
 | ELO Competitive | 1175 🔻  (887)|

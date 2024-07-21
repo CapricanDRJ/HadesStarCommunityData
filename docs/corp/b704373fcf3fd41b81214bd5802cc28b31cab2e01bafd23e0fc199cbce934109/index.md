@@ -4,7 +4,7 @@ title: pegaso
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- pegaso -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1147 🔻  (985)|
 | ELO Competitive | 1173 🔺  (908)|

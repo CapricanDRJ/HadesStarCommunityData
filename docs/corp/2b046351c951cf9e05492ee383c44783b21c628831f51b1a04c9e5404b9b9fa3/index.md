@@ -4,7 +4,7 @@ title: Paramedic ICU
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Paramedic ICU -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1233 🔻  (271)|
 | ELO Competitive | 1252 🔻  (299)|

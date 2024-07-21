@@ -4,7 +4,7 @@ title: 아베노노
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 아베노노 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1191 🔻  (507)|
 | ELO Competitive | 1192 🔻  (595)|

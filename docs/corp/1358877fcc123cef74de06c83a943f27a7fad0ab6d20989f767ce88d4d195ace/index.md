@@ -4,7 +4,7 @@ title: Повстанцы Хаоса
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Повстанцы Хаоса -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1397 🔺  (35)|
 | ELO Competitive | 1432 🔺  (59)|

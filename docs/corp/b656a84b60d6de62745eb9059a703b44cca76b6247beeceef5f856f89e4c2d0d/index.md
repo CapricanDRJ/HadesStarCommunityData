@@ -4,7 +4,7 @@ title: Peak Extraction
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Peak Extraction -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1073 🔻  (1126)|
 | ELO Competitive | 1078 🔻  (1156)|

@@ -4,7 +4,7 @@ title: Gardiens détoil
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Gardiens détoil -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1165 🔻  (903)|
 | ELO Competitive | 1173 🔻  (912)|

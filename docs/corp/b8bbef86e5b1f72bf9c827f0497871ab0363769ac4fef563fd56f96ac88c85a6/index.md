@@ -4,7 +4,7 @@ title: Prometheus
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Prometheus -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1175 🔺  (794)|
 | ELO Competitive | 1202 🔺  (508)|

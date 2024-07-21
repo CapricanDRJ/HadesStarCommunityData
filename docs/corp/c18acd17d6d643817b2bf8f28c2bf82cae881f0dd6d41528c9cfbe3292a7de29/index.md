@@ -4,7 +4,7 @@ title: 探索舰队
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 探索舰队 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1116 🔻  (1070)|
 | ELO Competitive | 1168 🔻  (973)|

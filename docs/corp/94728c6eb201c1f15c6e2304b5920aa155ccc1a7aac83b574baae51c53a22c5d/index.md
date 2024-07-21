@@ -4,7 +4,7 @@ title: Galaxians
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Galaxians -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1208 🔻  (401)|
 | ELO Competitive | 1246 🔻  (318)|

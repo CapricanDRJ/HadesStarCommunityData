@@ -4,7 +4,7 @@ title: KARI
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- KARI -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 835 🔻  (1177)|
 | ELO Competitive | 1011 🔻  (1174)|

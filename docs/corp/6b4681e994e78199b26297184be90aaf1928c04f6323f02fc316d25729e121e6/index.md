@@ -4,7 +4,7 @@ title: 101
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 101 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1150 🔻  (974)|
 | ELO Competitive | 1402 🔺  (79)|

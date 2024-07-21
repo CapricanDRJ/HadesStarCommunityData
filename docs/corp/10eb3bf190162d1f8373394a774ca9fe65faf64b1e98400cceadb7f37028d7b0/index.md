@@ -4,7 +4,7 @@ title: Survivors
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Survivors -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1123 🔻  (1058)|
 | ELO Competitive | 1138 🔻  (1086)|

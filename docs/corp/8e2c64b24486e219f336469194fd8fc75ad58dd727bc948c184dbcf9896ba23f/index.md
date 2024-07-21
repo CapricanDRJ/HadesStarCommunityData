@@ -4,7 +4,7 @@ title: Space Anomalies
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Space Anomalies -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1215 🔺  (344)|
 | ELO Competitive | 1215 🔺  (440)|

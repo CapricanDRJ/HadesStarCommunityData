@@ -4,7 +4,7 @@ title: 星环-星际联盟
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 星环\-星际联盟 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (585)|
 | ELO Competitive | 1187 🔻  (674)|

@@ -4,7 +4,7 @@ title: VoidRunners
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- VoidRunners -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1316 🔻  (98)|
 | ELO Competitive | 1503 🔻  (18)|

@@ -4,7 +4,7 @@ title: 德意志第三帝国阿尔法分部
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 德意志第三帝国阿尔法分部 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1021 🔻  (1157)|
 | ELO Competitive | 1108 🔻  (1127)|

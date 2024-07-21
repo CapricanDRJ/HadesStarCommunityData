@@ -4,7 +4,7 @@ title: ⚜NOVA⚜
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- ⚜NOVA⚜ -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1176 🔻  (785)|
 | ELO Competitive | 1175 🔻  (885)|

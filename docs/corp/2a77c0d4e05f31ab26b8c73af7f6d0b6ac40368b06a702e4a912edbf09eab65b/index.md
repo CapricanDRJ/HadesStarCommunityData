@@ -4,7 +4,7 @@ title: СССР 2.0
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- СССР 2\.0 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1144 🔻  (999)|
 | ELO Competitive | 1146 🔻  (1062)|

@@ -4,7 +4,7 @@ title: ༺༽ʚ天轮间ɞ༼༻
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- ༺༽ʚ天轮间ɞ༼༻ -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1173 🔻  (820)|
 | ELO Competitive | 1180 🔻  (846)|

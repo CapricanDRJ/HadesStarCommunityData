@@ -4,7 +4,7 @@ title: Schnuppenfarm
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Schnuppenfarm -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔻  (703)|
 | ELO Competitive | 1190 🔻  (614)|

@@ -4,7 +4,7 @@ title: UniversalCaos
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- UniversalCaos -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1214 🔺  (359)|
 | ELO Competitive | 1214 🔺  (454)|

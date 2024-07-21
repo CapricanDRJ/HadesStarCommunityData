@@ -4,7 +4,7 @@ title: CDG
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- CDG -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1143 🔻  (1001)|
 | ELO Competitive | 1295 🔻  (209)|

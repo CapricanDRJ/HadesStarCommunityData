@@ -4,7 +4,7 @@ title: 共和服务器
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 共和服务器 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔻  (710)|
 | ELO Competitive | 1215 🔻  (451)|

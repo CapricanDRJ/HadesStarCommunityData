@@ -4,7 +4,7 @@ title: battlesquadron
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- battlesquadron -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1172 🔺  (827)|
 | ELO Competitive | 1183 🔺  (836)|

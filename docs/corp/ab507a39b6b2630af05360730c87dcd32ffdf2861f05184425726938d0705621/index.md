@@ -4,7 +4,7 @@ title: Reservoid  Dogs
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Reservoid  Dogs -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔻  (697)|
 | ELO Competitive | 1184 🔻  (803)|

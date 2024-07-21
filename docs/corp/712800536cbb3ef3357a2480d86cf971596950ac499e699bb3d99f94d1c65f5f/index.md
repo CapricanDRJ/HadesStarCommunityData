@@ -4,7 +4,7 @@ title: 혁명군
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 혁명군 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1115 🔻  (1078)|
 | ELO Competitive | 1248 🔺  (308)|

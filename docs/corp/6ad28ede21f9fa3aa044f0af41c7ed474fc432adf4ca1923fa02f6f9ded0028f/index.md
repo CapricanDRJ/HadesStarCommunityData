@@ -4,7 +4,7 @@ title: Rogue Corp
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Rogue Corp -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1055 🔻  (1139)|
 | ELO Competitive | 1064 🔻  (1165)|

@@ -4,7 +4,7 @@ title: Global Elite
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Global Elite -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1172 🔻  (826)|
 | ELO Competitive | 1181 🔻  (845)|

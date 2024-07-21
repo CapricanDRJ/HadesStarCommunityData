@@ -4,7 +4,7 @@ title: Hand of Legion
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Hand of Legion  -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1244 🔻  (230)|
 | ELO Competitive | 1247 🔻  (312)|

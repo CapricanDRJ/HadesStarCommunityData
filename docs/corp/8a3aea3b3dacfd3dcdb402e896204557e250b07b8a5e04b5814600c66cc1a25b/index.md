@@ -4,7 +4,7 @@ title: Famous Assasins
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Famous Assasins -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1492 🔺  (7)|
 | ELO Competitive | 1523 🔺  (13)|

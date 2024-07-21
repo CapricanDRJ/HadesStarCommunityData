@@ -4,7 +4,7 @@ title: 游徒之家
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 游徒之家 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1197 🔺  (471)|
 | ELO Competitive | 1208 🔺  (491)|

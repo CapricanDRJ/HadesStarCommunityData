@@ -4,7 +4,7 @@ title: ZN•H2B
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- ZN•H2B -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1152 🔻  (970)|
 | ELO Competitive | 1167 🔻  (978)|

@@ -4,7 +4,7 @@ title: The trade pub
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- The trade pub -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1140 🔻  (1008)|
 | ELO Competitive | 1172 🔻  (919)|

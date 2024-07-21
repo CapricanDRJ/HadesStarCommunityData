@@ -4,7 +4,7 @@ title: Cygnus X-1
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Cygnus X\-1 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1171 🔻  (854)|
 | ELO Competitive | 1171 🔻  (943)|

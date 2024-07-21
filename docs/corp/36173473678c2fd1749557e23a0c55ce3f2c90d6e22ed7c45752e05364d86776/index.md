@@ -4,7 +4,7 @@ title: SpaceX
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- SpaceX -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1165 🔻  (908)|
 | ELO Competitive | 1169 🔻  (968)|

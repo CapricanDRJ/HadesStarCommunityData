@@ -4,7 +4,7 @@ title: Suicide Squad
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Suicide Squad -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1181 🔻  (759)|
 | ELO Competitive | 1181 🔻  (842)|

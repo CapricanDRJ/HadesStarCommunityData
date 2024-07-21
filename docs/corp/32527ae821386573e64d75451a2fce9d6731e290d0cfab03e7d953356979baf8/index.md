@@ -4,7 +4,7 @@ title: Hail Hydra
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Hail Hydra -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1111 🔻  (1082)|
 | ELO Competitive | 1127 🔻  (1104)|

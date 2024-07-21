@@ -4,7 +4,7 @@ title: Anarchy Nation
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Anarchy Nation  -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1226 🔻  (295)|
 | ELO Competitive | 1234 🔻  (347)|

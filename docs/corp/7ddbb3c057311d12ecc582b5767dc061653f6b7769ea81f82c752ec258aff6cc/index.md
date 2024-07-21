@@ -4,7 +4,7 @@ title: Internationals
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Internationals -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1272 🔺  (158)|
 | ELO Competitive | 1301 🔺  (199)|

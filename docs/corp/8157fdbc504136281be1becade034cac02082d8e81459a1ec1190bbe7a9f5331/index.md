@@ -4,7 +4,7 @@ title: Goblin Squad
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Goblin Squad -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1196 🔻  (482)|
 | ELO Competitive | 1226 🔺  (377)|

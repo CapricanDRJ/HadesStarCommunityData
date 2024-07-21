@@ -4,7 +4,7 @@ title: Hand Of NOD!
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Hand Of NOD\!  -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1455 🔻  (17)|
 | ELO Competitive | 1492 🔻  (23)|

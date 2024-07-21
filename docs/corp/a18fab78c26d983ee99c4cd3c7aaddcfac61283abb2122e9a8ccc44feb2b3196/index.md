@@ -4,7 +4,7 @@ title: НИФИГАСЕБЕ
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- НИФИГАСЕБЕ -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1093 🔻  (1101)|
 | ELO Competitive | 1113 🔻  (1121)|

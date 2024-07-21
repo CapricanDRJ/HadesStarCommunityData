@@ -4,7 +4,7 @@ title: Omega Alpha
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Omega Alpha -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1400 🔻  (33)|
 | ELO Competitive | 1424 🔻  (63)|

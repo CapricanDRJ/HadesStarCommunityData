@@ -4,7 +4,7 @@ title: Dacia
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Dacia -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1201 🔻  (421)|
 | ELO Competitive | 1202 🔻  (506)|

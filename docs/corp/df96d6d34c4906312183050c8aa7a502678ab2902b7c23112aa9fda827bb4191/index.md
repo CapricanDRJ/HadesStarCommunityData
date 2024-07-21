@@ -4,7 +4,7 @@ title: Spica​
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Spica​ -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1391 🔺  (39)|
 | ELO Competitive | 1420 🔺  (66)|

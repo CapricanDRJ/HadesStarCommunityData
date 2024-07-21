@@ -4,7 +4,7 @@ title: ZION
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- ZION -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1242 🔻  (234)|
 | ELO Competitive | 1318 🔻  (176)|

@@ -4,7 +4,7 @@ title: 元素联邦
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 元素联邦 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1373 🔺  (48)|
 | ELO Competitive | 1409 🔺  (73)|

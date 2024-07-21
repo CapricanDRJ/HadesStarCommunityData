@@ -4,7 +4,7 @@ title: <a>超越®</a>光速℡
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- <a\>超越®</a\>光速℡ -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1284 🔻  (140)|
 | ELO Competitive | 1326 🔻  (161)|

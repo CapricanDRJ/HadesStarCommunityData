@@ -4,7 +4,7 @@ title: Next Hyperion
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Next Hyperion -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1168 🔻  (892)|
 | ELO Competitive | 1172 🔻  (920)|

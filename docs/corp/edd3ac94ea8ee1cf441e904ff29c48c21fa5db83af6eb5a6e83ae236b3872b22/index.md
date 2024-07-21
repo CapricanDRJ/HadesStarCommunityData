@@ -4,7 +4,7 @@ title: Osmium Star llc
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Osmium Star llc -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1313 🔺  (101)|
 | ELO Competitive | 1322 🔺  (171)|

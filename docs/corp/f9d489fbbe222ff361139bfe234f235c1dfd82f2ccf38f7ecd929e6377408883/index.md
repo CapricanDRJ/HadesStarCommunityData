@@ -4,7 +4,7 @@ title: LANCE
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- LANCE -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1146 🔻  (986)|
 | ELO Competitive | 1150 🔻  (1046)|

@@ -4,7 +4,7 @@ title: TAKE IT DEEP
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- TAKE IT DEEP -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔻  (572)|
 | ELO Competitive | 1188 🔻  (651)|

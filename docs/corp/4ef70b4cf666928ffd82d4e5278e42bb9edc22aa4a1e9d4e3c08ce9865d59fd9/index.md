@@ -4,7 +4,7 @@ title: Elite
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Elite -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1158 🔻  (940)|
 | ELO Competitive | 1159 🔻  (1011)|

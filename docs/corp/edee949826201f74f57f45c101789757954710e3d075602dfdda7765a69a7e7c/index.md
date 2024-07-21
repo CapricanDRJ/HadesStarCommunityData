@@ -4,7 +4,7 @@ title: P!RAT£ SHIP
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- P\!RAT£ SHIP -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1243 🔺  (233)|
 | ELO Competitive | 1246 🔺  (317)|

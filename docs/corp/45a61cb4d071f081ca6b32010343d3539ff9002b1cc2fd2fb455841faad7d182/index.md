@@ -4,7 +4,7 @@ title: 花鸟市场
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 花鸟市场 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (634)|
 | ELO Competitive | 1185 🔻  (741)|

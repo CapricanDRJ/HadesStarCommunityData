@@ -4,7 +4,7 @@ title: Dark Skai
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Dark Skai -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1080 🔻  (1119)|
 | ELO Competitive | 1114 🔻  (1119)|

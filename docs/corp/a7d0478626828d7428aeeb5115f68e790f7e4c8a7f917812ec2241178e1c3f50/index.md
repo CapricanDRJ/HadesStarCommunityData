@@ -4,7 +4,7 @@ title: Альянс
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Альянс -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1343 🔺  (69)|
 | ELO Competitive | 1380 🔺  (100)|

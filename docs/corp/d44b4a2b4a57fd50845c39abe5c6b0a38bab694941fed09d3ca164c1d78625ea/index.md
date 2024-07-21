@@ -4,7 +4,7 @@ title: Bounty Hunters
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Bounty Hunters -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1249 🔺  (211)|
 | ELO Competitive | 1271 🔺  (256)|

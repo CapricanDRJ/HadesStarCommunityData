@@ -4,7 +4,7 @@ title: VALLKIRIA
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- VALLKIRIA -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1238 🔺  (255)|
 | ELO Competitive | 1240 🔺  (332)|

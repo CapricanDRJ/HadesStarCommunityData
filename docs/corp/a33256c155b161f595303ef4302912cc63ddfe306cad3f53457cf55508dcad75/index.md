@@ -4,7 +4,7 @@ title: Auscorp
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Auscorp  -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1496 🔺  (6)|
 | ELO Competitive | 1548 🔺  (5)|

@@ -4,7 +4,7 @@ title: cyber_dream
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- cyber\_dream -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1154 🔻  (962)|
 | ELO Competitive | 1163 🔻  (994)|

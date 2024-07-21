@@ -4,7 +4,7 @@ title: 青丘湖
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 青丘湖 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1166 🔻  (898)|
 | ELO Competitive | 1168 🔻  (972)|

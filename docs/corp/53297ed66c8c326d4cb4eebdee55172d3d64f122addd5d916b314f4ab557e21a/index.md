@@ -4,7 +4,7 @@ title: Ninth Planet
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Ninth Planet -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1481 🔺  (9)|
 | ELO Competitive | 1508 🔺  (16)|

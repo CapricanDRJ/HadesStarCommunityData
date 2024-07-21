@@ -4,7 +4,7 @@ title: Dadsw/Daughterz
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Dadsw/Daughterz -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1176 🔻  (784)|
 | ELO Competitive | 1179 🔻  (855)|

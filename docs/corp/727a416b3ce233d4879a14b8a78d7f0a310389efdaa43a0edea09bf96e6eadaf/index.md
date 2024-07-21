@@ -4,7 +4,7 @@ title: Rocket-Babies
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Rocket\-Babies -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1172 🔻  (832)|
 | ELO Competitive | 1173 🔻  (914)|

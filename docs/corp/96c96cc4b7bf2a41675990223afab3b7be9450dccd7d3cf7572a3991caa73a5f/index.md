@@ -4,7 +4,7 @@ title: Austria
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Austria  -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1201 🔻  (429)|
 | ELO Competitive | 1201 🔻  (520)|

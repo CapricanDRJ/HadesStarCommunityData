@@ -4,7 +4,7 @@ title: STRVS233～
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- STRVS233～ -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1250 🔺  (208)|
 | ELO Competitive | 1269 🔺  (262)|

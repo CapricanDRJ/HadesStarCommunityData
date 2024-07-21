@@ -4,7 +4,7 @@ title: Yellow Dwarf
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Yellow Dwarf  -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1215 🔺  (344)|
 | ELO Competitive | 1215 🔺  (440)|

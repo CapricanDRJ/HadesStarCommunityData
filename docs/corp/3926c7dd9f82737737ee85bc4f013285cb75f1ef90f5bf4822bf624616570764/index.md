@@ -4,7 +4,7 @@ title: Любители Пива
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Любители Пива -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1035 🔻  (1147)|
 | ELO Competitive | 1073 🔻  (1160)|

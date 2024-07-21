@@ -4,7 +4,7 @@ title: PERSEUS INC.
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- PERSEUS INC\. -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1210 🔺  (394)|
 | ELO Competitive | 1212 🔺  (472)|

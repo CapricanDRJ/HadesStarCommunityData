@@ -4,7 +4,7 @@ title: 公共星际集团
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 公共星际集团 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1076 🔺  (1123)|
 | ELO Competitive | 1174 🔺  (897)|

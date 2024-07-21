@@ -4,7 +4,7 @@ title: СНГ — РОССИЯ
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- СНГ — РОССИЯ -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1139 🔻  (1010)|
 | ELO Competitive | 1182 🔻  (839)|

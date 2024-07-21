@@ -4,7 +4,7 @@ title: 한국인
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 한국인 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1296 🔻  (123)|
 | ELO Competitive | 1382 🔻  (97)|

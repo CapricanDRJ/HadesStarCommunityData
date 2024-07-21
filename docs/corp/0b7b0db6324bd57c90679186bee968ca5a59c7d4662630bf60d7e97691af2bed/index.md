@@ -4,7 +4,7 @@ title: SveaEmpire
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- SveaEmpire -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1143 🔻  (1002)|
 | ELO Competitive | 1144 🔻  (1073)|

@@ -4,7 +4,7 @@ title: BlackStar Order
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- BlackStar Order -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1330 🔻  (84)|
 | ELO Competitive | 1547 🔺  (6)|

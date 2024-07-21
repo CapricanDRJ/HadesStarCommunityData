@@ -4,7 +4,7 @@ title: MiniStarRaiders
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- MiniStarRaiders -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (583)|
 | ELO Competitive | 1186 🔻  (689)|

@@ -4,7 +4,7 @@ title: ДИВЕРСАНТЫ
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- ДИВЕРСАНТЫ -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1538 🔺  (3)|
 | ELO Competitive | 1604 🔺  (1)|

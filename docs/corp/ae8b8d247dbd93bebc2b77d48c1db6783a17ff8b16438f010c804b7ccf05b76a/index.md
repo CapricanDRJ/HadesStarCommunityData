@@ -4,7 +4,7 @@ title: Созидание 2.0
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Созидание 2\.0 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1137 🔺  (1027)|
 | ELO Competitive | 1148 🔺  (1056)|

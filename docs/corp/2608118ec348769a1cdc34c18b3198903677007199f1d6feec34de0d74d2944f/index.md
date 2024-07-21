@@ -4,7 +4,7 @@ title: Sector7
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Sector7 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1144 🔻  (998)|
 | ELO Competitive | 1144 🔻  (1070)|

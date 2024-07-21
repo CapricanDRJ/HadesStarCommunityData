@@ -4,7 +4,7 @@ title: Free Ag3nts
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Free Ag3nts -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1245 🔺  (222)|
 | ELO Competitive | 1252 🔺  (300)|

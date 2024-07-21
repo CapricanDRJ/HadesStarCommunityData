@@ -4,7 +4,7 @@ title: Sith Academy
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Sith Academy -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1173 🔻  (815)|
 | ELO Competitive | 1180 🔻  (850)|

@@ -4,7 +4,7 @@ title: Space Penguins
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Space Penguins -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1401 🔺  (32)|
 | ELO Competitive | 1451 🔺  (48)|

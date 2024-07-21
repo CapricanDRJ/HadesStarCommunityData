@@ -4,7 +4,7 @@ title: Imperio Nova
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Imperio Nova -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1153 🔻  (966)|
 | ELO Competitive | 1158 🔻  (1021)|

@@ -4,7 +4,7 @@ title: AFronteiraFinal
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- AFronteiraFinal -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1378 🔺  (46)|
 | ELO Competitive | 1394 🔺  (84)|

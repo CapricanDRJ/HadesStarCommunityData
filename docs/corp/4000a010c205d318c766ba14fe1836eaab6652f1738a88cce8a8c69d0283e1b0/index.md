@@ -4,7 +4,7 @@ title: Axiom
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Axiom -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1247 🔺  (216)|
 | ELO Competitive | 1440 🔺  (54)|

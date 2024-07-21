@@ -4,7 +4,7 @@ title: t 72 SwiftKey F
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- t 72 SwiftKey F -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1177 🔻  (776)|
 | ELO Competitive | 1183 🔻  (823)|

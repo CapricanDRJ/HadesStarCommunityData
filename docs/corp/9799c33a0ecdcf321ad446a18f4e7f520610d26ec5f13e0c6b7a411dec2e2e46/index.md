@@ -4,7 +4,7 @@ title: Weyland Yutani
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Weyland Yutani  -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1138 🔺  (1020)|
 | ELO Competitive | 1251 🔺  (304)|

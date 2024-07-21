@@ -4,7 +4,7 @@ title: Blue Space
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Blue Space -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1194 🔻  (492)|
 | ELO Competitive | 1213 🔻  (467)|

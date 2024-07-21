@@ -4,7 +4,7 @@ title: 嘤嘤嘤嘤嘤嘤嘤嘤
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 嘤嘤嘤嘤嘤嘤嘤嘤 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1119 🔻  (1066)|
 | ELO Competitive | 1136 🔻  (1089)|

@@ -4,7 +4,7 @@ title: Bl@ck/Galaxy
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Bl@ck/Galaxy  -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1295 🔺  (127)|
 | ELO Competitive | 1332 🔺  (152)|

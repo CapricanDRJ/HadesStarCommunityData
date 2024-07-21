@@ -4,7 +4,7 @@ title: Hun Avengers
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Hun Avengers -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1181 🔻  (752)|
 | ELO Competitive | 1288 🔻  (221)|

@@ -4,7 +4,7 @@ title: Fang Empire
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Fang Empire -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (606)|
 | ELO Competitive | 1186 🔻  (717)|

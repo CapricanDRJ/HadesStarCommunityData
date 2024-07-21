@@ -4,7 +4,7 @@ title: Aurora Burning
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Aurora Burning -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1183 🔺  (738)|
 | ELO Competitive | 1184 🔺  (817)|

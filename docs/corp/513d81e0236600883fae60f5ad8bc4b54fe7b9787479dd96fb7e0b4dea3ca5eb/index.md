@@ -4,7 +4,7 @@ title: 凛冬重工
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 凛冬重工 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1195 🔻  (490)|
 | ELO Competitive | 1198 🔻  (565)|

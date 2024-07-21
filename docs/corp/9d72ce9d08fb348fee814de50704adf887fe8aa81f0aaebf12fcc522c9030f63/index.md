@@ -4,7 +4,7 @@ title: Феникс
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Феникс  -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1201 🔻  (431)|
 | ELO Competitive | 1201 🔻  (525)|

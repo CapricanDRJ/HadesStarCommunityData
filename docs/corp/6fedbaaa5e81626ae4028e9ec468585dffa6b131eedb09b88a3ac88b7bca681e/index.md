@@ -4,7 +4,7 @@ title: BattleCo
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- BattleCo -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1236 🔻  (261)|
 | ELO Competitive | 1285 🔻  (227)|

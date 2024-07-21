@@ -4,7 +4,7 @@ title: Sich.ua
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Sich\.ua -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1259 🔺  (184)|
 | ELO Competitive | 1387 🔺  (93)|

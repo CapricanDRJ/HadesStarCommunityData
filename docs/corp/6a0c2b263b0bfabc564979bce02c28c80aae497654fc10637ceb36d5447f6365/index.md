@@ -4,7 +4,7 @@ title: 边缘世界
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 边缘世界 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1210 🔻  (392)|
 | ELO Competitive | 1211 🔻  (476)|

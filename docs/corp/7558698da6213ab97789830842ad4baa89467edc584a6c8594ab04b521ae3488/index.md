@@ -4,7 +4,7 @@ title: Тёмный Феникс
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Тёмный Феникс -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1112 🔻  (1081)|
 | ELO Competitive | 1113 🔻  (1123)|

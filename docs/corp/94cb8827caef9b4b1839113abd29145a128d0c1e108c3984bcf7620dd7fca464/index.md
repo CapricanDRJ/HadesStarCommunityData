@@ -4,7 +4,7 @@ title: Outland Ind.
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Outland Ind\. -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1388 🔺  (42)|
 | ELO Competitive | 1440 🔺  (53)|

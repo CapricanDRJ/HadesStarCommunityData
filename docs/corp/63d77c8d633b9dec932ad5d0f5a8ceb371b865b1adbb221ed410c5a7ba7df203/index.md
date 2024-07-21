@@ -4,7 +4,7 @@ title: Cerulean Star
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Cerulean Star -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1225 🔻  (299)|
 | ELO Competitive | 1294 🔻  (213)|

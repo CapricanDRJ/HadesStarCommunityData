@@ -4,7 +4,7 @@ title: KINETIC
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- KINETIC -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1313 🔺  (102)|
 | ELO Competitive | 1316 🔺  (178)|

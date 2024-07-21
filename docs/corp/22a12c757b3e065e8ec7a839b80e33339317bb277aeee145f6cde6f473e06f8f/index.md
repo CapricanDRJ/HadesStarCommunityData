@@ -4,7 +4,7 @@ title: V0RTEX
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- V0RTEX -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1220 🔻  (310)|
 | ELO Competitive | 1250 🔻  (305)|

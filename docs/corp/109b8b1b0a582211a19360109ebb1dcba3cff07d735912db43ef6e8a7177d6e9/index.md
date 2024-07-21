@@ -4,7 +4,7 @@ title: Foreshadowing
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Foreshadowing -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1176 🔻  (787)|
 | ELO Competitive | 1176 🔻  (871)|

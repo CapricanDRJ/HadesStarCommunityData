@@ -4,7 +4,7 @@ title: Lacuna Holdings
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Lacuna Holdings -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1255 🔻  (198)|
 | ELO Competitive | 1299 🔻  (203)|

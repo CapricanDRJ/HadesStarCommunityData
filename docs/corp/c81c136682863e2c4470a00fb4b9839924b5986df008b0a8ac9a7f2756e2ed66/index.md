@@ -4,7 +4,7 @@ title: The Base
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- The Base -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1183 🔻  (739)|
 | ELO Competitive | 1183 🔻  (832)|

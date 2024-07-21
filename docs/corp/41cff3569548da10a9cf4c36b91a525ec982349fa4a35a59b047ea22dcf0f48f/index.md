@@ -4,7 +4,7 @@ title: TRAPSTAR¹
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- TRAPSTAR¹ -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1171 🔻  (858)|
 | ELO Competitive | 1171 🔻  (949)|

@@ -4,7 +4,7 @@ title: Nueva Hyperion
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Nueva Hyperion -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1214 🔻  (357)|
 | ELO Competitive | 1219 🔻  (408)|

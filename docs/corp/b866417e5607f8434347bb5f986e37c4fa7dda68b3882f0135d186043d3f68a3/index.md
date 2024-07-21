@@ -4,7 +4,7 @@ title: VoidCorp
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- VoidCorp -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1248 🔺  (214)|
 | ELO Competitive | 1285 🔺  (226)|

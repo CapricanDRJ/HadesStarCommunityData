@@ -4,7 +4,7 @@ title: Todesschwadron
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Todesschwadron -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1190 🔺  (520)|
 | ELO Competitive | 1192 🔺  (598)|

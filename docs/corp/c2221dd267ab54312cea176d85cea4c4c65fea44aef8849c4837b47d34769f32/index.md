@@ -4,7 +4,7 @@ title: Drużyna B
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Drużyna B -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1189 🔻  (531)|
 | ELO Competitive | 1189 🔻  (635)|

@@ -4,7 +4,7 @@ title: Españoles
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Españoles -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔺  (706)|
 | ELO Competitive | 1232 🔺  (357)|

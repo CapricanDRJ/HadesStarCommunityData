@@ -4,7 +4,7 @@ title: The Watchers
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- The Watchers -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1164 🔻  (912)|
 | ELO Competitive | 1237 🔻  (339)|

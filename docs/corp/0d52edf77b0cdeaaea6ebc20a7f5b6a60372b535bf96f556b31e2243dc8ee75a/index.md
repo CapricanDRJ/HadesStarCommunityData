@@ -4,7 +4,7 @@ title: Imperium XIII
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Imperium XIII -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1237 🔻  (259)|
 | ELO Competitive | 1273 🔻  (251)|

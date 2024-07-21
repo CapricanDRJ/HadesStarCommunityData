@@ -4,7 +4,7 @@ title: 无名集团
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 无名集团 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (643)|
 | ELO Competitive | 1185 🔻  (749)|

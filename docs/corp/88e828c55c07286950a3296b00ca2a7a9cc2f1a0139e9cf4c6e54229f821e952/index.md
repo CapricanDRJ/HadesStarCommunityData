@@ -4,7 +4,7 @@ title: 使命白星
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 使命白星 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1209 🔻  (397)|
 | ELO Competitive | 1231 🔺  (358)|

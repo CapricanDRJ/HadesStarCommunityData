@@ -4,7 +4,7 @@ title: Кулак
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Кулак -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1003 🔻  (1162)|
 | ELO Competitive | 1130 🔺  (1100)|

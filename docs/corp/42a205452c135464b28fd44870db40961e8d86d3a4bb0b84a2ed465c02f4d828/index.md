@@ -4,7 +4,7 @@ title: X-wing
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- X\-wing -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1177 🔻  (775)|
 | ELO Competitive | 1177 🔻  (864)|

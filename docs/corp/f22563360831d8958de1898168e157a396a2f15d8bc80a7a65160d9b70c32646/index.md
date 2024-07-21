@@ -4,7 +4,7 @@ title: Three Rivers
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Three Rivers -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (584)|
 | ELO Competitive | 1186 🔻  (690)|

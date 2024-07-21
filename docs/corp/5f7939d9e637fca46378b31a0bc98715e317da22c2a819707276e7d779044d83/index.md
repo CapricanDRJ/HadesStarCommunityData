@@ -4,7 +4,7 @@ title: Warriors
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Warriors -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1228 🔺  (288)|
 | ELO Competitive | 1228 🔺  (371)|

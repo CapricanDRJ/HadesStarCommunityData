@@ -4,7 +4,7 @@ title: Tuatha De Danan
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Tuatha De Danan -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1395 🔻  (37)|
 | ELO Competitive | 1453 🔻  (45)|

@@ -4,7 +4,7 @@ title: Providence
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Providence -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1321 🔺  (91)|
 | ELO Competitive | 1381 🔺  (98)|

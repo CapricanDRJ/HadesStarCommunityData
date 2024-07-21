@@ -4,7 +4,7 @@ title: Hellfire Club
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Hellfire Club -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1239 🔺  (247)|
 | ELO Competitive | 1324 🔺  (166)|

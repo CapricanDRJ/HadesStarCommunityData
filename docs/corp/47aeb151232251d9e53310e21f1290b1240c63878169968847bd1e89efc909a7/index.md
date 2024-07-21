@@ -4,7 +4,7 @@ title: Poggy Rockers
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Poggy Rockers -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1283 🔺  (143)|
 | ELO Competitive | 1308 🔺  (188)|

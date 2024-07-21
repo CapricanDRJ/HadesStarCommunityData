@@ -4,7 +4,7 @@ title: wyvern
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- wyvern -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1195 🔺  (488)|
 | ELO Competitive | 1198 🔺  (561)|

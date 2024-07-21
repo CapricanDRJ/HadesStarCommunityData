@@ -4,7 +4,7 @@ title: The Hexagonix
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- The Hexagonix -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1164 🔺  (913)|
 | ELO Competitive | 1165 🔺  (987)|

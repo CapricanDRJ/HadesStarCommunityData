@@ -4,7 +4,7 @@ title: Southall 1
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Southall 1 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1199 🔺  (453)|
 | ELO Competitive | 1199 🔺  (550)|

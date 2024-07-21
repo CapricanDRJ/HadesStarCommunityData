@@ -4,7 +4,7 @@ title: Killer Shadow
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Killer Shadow -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1109 🔻  (1085)|
 | ELO Competitive | 1114 🔻  (1118)|

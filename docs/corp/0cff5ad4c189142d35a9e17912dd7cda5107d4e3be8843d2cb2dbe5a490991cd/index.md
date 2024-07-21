@@ -4,7 +4,7 @@ title: 心之所向
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 心之所向 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1238 🔻  (256)|
 | ELO Competitive | 1238 🔻  (338)|

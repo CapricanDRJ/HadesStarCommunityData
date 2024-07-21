@@ -4,7 +4,7 @@ title: Battlestar Fr
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Battlestar Fr -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1196 🔻  (480)|
 | ELO Competitive | 1198 🔻  (563)|

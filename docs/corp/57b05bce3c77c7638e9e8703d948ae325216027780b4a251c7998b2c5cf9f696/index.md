@@ -4,7 +4,7 @@ title: Celtic Empire 2
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Celtic Empire 2 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1190 🔻  (519)|
 | ELO Competitive | 1192 🔻  (600)|

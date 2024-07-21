@@ -4,7 +4,7 @@ title: SternenStaub
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- SternenStaub -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1158 🔻  (944)|
 | ELO Competitive | 1197 🔻  (569)|

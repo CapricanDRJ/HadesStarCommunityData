@@ -4,7 +4,7 @@ title: Order of Ares
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Order of Ares -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1171 🔻  (866)|
 | ELO Competitive | 1171 🔻  (955)|

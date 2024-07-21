@@ -4,7 +4,7 @@ title: vosk empire 2
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- vosk empire 2 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔺  (695)|
 | ELO Competitive | 1184 🔺  (801)|

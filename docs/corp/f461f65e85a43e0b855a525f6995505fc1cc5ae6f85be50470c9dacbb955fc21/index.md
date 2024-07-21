@@ -4,7 +4,7 @@ title: Cowboys
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Cowboys -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1163 🔻  (917)|
 | ELO Competitive | 1166 🔺  (980)|

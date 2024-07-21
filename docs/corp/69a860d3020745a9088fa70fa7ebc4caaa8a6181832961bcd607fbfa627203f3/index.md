@@ -4,7 +4,7 @@ title: 对，进就进人少的（分团）
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 对，进就进人少的（分团） -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1195 🔺  (486)|
 | ELO Competitive | 1202 🔺  (510)|

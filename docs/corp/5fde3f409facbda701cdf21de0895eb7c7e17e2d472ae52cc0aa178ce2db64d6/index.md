@@ -4,7 +4,7 @@ title: AKA
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- AKA -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1082 🔻  (1117)|
 | ELO Competitive | 1107 🔻  (1129)|

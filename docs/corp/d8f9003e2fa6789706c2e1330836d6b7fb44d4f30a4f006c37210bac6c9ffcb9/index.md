@@ -4,7 +4,7 @@ title: русский клан
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- русский клан  -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1202 🔻  (420)|
 | ELO Competitive | 1202 🔻  (511)|

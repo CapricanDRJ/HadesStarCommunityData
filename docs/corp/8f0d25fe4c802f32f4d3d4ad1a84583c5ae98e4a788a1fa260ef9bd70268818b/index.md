@@ -4,7 +4,7 @@ title: 第五星际
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 第五星际 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1216 🔺  (334)|
 | ELO Competitive | 1217 🔺  (419)|

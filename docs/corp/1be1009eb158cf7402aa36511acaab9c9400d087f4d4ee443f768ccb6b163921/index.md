@@ -4,7 +4,7 @@ title: 红日初升，其道大光
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 红日初升，其道大光 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1256 🔺  (197)|
 | ELO Competitive | 1247 🔺  (310)|

@@ -4,7 +4,7 @@ title: Bandidos
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Bandidos -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1190 🔻  (518)|
 | ELO Competitive | 1194 🔻  (584)|

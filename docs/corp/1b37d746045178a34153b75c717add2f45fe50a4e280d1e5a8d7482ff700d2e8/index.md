@@ -4,7 +4,7 @@ title: brit boys
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- brit boys -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1199 🔻  (451)|
 | ELO Competitive | 1199 🔻  (549)|

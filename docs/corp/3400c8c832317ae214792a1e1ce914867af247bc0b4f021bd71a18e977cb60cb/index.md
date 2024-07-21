@@ -4,7 +4,7 @@ title: REY DE REYES
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- REY DE REYES -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1107 🔻  (1087)|
 | ELO Competitive | 1118 🔻  (1112)|

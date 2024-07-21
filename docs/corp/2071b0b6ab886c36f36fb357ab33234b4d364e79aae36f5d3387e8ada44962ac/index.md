@@ -4,7 +4,7 @@ title: korea
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- korea -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1343 🔻  (68)|
 | ELO Competitive | 1368 🔻  (108)|

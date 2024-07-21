@@ -4,7 +4,7 @@ title: White Star Inc.
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- White Star Inc\. -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1190 🔺  (515)|
 | ELO Competitive | 1203 🔺  (503)|

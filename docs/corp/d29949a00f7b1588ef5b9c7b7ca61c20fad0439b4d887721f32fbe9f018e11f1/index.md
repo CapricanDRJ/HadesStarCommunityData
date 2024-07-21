@@ -4,7 +4,7 @@ title: Elysium
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Elysium -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1360 🔺  (56)|
 | ELO Competitive | 1406 🔺  (76)|

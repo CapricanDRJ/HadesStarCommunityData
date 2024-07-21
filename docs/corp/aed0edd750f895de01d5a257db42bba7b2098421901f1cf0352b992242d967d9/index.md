@@ -4,7 +4,7 @@ title: Ws Polaris
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Ws Polaris -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1098 🔻  (1096)|
 | ELO Competitive | 1102 🔻  (1134)|

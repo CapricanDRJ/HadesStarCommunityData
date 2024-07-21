@@ -4,7 +4,7 @@ title: Kratos
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Kratos -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1330 🔺  (83)|
 | ELO Competitive | 1407 🔺  (75)|

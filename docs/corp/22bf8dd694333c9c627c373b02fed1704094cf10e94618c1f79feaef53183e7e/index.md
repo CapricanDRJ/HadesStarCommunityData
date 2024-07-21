@@ -4,7 +4,7 @@ title: 新?的星际集团?
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 新?的星际集团? -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1200 🔻  (448)|
 | ELO Competitive | 1205 🔻  (497)|

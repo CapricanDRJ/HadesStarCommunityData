@@ -4,7 +4,7 @@ title: Тихий Омут
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Тихий Омут -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1025 🔻  (1154)|
 | ELO Competitive | 1199 🔻  (548)|

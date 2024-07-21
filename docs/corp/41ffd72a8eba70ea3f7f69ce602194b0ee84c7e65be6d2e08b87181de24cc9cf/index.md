@@ -4,7 +4,7 @@ title: Dark Sun
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Dark Sun -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1137 🔻  (1025)|
 | ELO Competitive | 1218 🔻  (415)|

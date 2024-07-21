@@ -4,7 +4,7 @@ title: Октябристы
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Октябристы -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1212 🔻  (381)|
 | ELO Competitive | 1469 🔺  (37)|

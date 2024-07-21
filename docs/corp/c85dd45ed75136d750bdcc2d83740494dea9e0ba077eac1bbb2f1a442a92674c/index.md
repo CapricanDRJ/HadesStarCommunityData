@@ -4,7 +4,7 @@ title: Gemini Ind.
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Gemini Ind\. -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1403 🔺  (31)|
 | ELO Competitive | 1436 🔺  (57)|

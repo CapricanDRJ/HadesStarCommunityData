@@ -4,7 +4,7 @@ title: Power Rangers
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Power Rangers -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1214 🔺  (361)|
 | ELO Competitive | 1223 🔺  (387)|

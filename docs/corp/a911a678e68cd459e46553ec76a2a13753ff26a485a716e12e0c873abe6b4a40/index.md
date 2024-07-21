@@ -4,7 +4,7 @@ title: SUSSY IMPOSTER
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- SUSSY IMPOSTER -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1201 🔻  (426)|
 | ELO Competitive | 1201 🔻  (516)|

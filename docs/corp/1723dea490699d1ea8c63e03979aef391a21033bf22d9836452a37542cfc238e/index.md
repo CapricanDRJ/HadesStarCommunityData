@@ -4,7 +4,7 @@ title: Soul System
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Soul System -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1110 🔻  (1083)|
 | ELO Competitive | 1118 🔻  (1110)|

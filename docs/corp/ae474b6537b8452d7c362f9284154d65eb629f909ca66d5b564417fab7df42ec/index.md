@@ -4,7 +4,7 @@ title: Lost City Corp.
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Lost City Corp\. -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1198 🔺  (464)|
 | ELO Competitive | 1198 🔺  (557)|

@@ -4,7 +4,7 @@ title: Galactic Otters
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Galactic Otters -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1215 🔺  (344)|
 | ELO Competitive | 1215 🔺  (440)|

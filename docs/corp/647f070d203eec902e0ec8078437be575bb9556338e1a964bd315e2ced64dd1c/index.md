@@ -4,7 +4,7 @@ title: 特拉斯丁第二共和国
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 特拉斯丁第二共和国 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1214 🔺  (366)|
 | ELO Competitive | 1214 🔺  (457)|

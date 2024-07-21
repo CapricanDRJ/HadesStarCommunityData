@@ -4,7 +4,7 @@ title: USA Corp
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- USA Corp -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1148 🔻  (979)|
 | ELO Competitive | 1147 🔻  (1059)|

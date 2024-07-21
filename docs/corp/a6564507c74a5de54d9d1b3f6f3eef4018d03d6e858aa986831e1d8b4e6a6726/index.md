@@ -4,7 +4,7 @@ title: Neutro Corpo
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Neutro Corpo -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1163 🔻  (916)|
 | ELO Competitive | 1163 🔻  (997)|

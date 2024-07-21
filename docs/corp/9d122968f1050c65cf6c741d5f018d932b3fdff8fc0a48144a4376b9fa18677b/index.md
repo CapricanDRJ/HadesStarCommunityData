@@ -4,7 +4,7 @@ title: ANDROMEDA INC.
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- ANDROMEDA INC\.  -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1420 🔺  (25)|
 | ELO Competitive | 1439 🔺  (56)|

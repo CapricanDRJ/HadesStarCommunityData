@@ -4,7 +4,7 @@ title: Saggitarius A
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Saggitarius A -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1171 🔻  (861)|
 | ELO Competitive | 1171 🔻  (951)|

@@ -4,7 +4,7 @@ title: RUS
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- RUS -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1189 🔺  (537)|
 | ELO Competitive | 1250 🔺  (307)|

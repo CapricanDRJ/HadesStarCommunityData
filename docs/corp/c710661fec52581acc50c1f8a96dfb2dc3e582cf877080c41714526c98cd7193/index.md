@@ -4,7 +4,7 @@ title: Eternal empire
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Eternal empire  -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1102 🔻  (1094)|
 | ELO Competitive | 1176 🔻  (874)|

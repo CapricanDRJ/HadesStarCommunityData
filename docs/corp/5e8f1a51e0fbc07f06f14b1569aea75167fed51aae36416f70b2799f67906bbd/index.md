@@ -4,7 +4,7 @@ title: Fishy Business
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Fishy Business  -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1201 🔻  (425)|
 | ELO Competitive | 1201 🔻  (517)|

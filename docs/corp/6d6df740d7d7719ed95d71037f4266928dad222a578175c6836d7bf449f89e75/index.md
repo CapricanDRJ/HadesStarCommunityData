@@ -4,7 +4,7 @@ title: Majapahit
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Majapahit -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1268 🔺  (166)|
 | ELO Competitive | 1276 🔺  (247)|

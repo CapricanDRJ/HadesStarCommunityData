@@ -4,7 +4,7 @@ title: Poison Nebula
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Poison Nebula -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (644)|
 | ELO Competitive | 1185 🔻  (750)|

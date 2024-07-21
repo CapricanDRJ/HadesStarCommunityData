@@ -4,7 +4,7 @@ title: NameLess Hades
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- NameLess Hades -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1200 ▫️  (436)|
 | ELO Competitive | 1200 ▫️  (530)|

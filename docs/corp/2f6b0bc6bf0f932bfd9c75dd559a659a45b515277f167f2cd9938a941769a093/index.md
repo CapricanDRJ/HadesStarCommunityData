@@ -4,7 +4,7 @@ title: E.T.A 二营
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- E\.T\.A 二营 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1092 🔺  (1102)|
 | ELO Competitive | 1115 🔺  (1117)|

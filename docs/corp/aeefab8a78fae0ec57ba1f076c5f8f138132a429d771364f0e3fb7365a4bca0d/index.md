@@ -4,7 +4,7 @@ title: Ukrain Alliance
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Ukrain Alliance -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (644)|
 | ELO Competitive | 1185 🔻  (750)|

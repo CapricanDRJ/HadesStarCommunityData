@@ -4,7 +4,7 @@ title: Curcubeu
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Curcubeu -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1222 🔻  (304)|
 | ELO Competitive | 1314 🔻  (183)|

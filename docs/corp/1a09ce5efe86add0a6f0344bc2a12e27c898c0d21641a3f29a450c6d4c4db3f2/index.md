@@ -4,7 +4,7 @@ title: Helion Prime
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Helion Prime -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1225 🔻  (297)|
 | ELO Competitive | 1246 🔻  (316)|

@@ -4,7 +4,7 @@ title: Nebulae Traders
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Nebulae Traders -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1126 🔻  (1053)|
 | ELO Competitive | 1162 🔻  (1002)|

@@ -4,7 +4,7 @@ title: Галактика Зла
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Галактика Зла -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1245 🔺  (227)|
 | ELO Competitive | 1262 🔺  (275)|

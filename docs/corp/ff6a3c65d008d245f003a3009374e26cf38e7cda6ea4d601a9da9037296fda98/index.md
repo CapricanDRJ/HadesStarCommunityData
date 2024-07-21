@@ -4,7 +4,7 @@ title: YETI Collective
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- YETI Collective -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1089 🔻  (1106)|
 | ELO Competitive | 1191 🔻  (608)|

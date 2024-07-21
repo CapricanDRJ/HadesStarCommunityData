@@ -4,7 +4,7 @@ title: Неизбежный Рок
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Неизбежный Рок -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1358 🔺  (58)|
 | ELO Competitive | 1475 🔺  (32)|

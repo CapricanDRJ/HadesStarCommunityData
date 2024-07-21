@@ -4,7 +4,7 @@ title: 六大天神
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 六大天神 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1240 🔻  (241)|
 | ELO Competitive | 1482 🔻  (25)|

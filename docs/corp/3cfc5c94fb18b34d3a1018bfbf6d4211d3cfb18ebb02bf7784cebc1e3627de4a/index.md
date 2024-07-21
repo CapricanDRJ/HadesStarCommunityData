@@ -4,7 +4,7 @@ title: PDC
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- PDC -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1254 🔺  (202)|
 | ELO Competitive | 1271 🔺  (257)|

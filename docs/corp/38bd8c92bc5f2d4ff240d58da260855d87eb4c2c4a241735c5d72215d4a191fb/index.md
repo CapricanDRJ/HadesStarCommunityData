@@ -4,7 +4,7 @@ title: Nebula
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Nebula -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1083 🔻  (1115)|
 | ELO Competitive | 1100 🔻  (1136)|

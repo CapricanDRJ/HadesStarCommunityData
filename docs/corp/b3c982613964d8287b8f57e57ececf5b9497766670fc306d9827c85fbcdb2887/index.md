@@ -4,7 +4,7 @@ title: CAEDRUS [<o>]
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- CAEDRUS \[<o\>\] -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1198 🔻  (465)|
 | ELO Competitive | 1199 🔻  (555)|

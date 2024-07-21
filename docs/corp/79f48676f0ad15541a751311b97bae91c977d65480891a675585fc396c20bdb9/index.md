@@ -4,7 +4,7 @@ title: 初始之音
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- 初始之音 -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1175 🔻  (797)|
 | ELO Competitive | 1220 🔺  (397)|

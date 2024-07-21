@@ -4,7 +4,7 @@ title: THE BENDERA
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- THE BENDERA -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1318 🔺  (95)|
 | ELO Competitive | 1334 🔺  (147)|

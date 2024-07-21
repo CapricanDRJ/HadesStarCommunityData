@@ -4,7 +4,7 @@ title: Heavenly Star
 description: Hades' Star Corporation Whitestar Records and Stats
 ---
 
- <!-- Heavenly Star  -->| Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1171 🔻  (856)|
 | ELO Competitive | 1171 🔻  (944)|
