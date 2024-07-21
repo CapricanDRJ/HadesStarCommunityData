@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Corporations
+description: Hades' Star Corporation Whitestar Records and Stats Directory
 ---
 
 | Corporation Name | ELO Regular | ELO Competitive | Total Matches |
