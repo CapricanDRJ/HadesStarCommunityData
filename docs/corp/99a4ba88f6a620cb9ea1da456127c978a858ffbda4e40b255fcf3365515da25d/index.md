@@ -6,12 +6,13 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1212 🔺  (385)|
-| ELO Competitive | 1254 🔺  (299)|
-| Total Matches | 42 |
-| Wins | 19 |
+| ELO Regular | 1226 🔺  (298)|
+| ELO Competitive | 1266 🔺  (266)|
+| Total Matches | 43 |
+| Wins | 20 |
 | Losses | 22 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 3 |
 
 ### Recurring Opponents
@@ -25,6 +26,7 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/21 | 28-0 | [Mandalorians](https://ws.tsl.rocks/corp/c02d28803fca7e05e20ff959e4809e2b387097a58bbc34432aacbbeb01b6d81c/) |
 | ✅ | 2024/07/16 | 24-13 | [NERF TOY'S](https://ws.tsl.rocks/corp/34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0/) |
 | ❌ | 2024/07/10 | 1-8 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ✅ | 2024/07/04 | 22-3 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
