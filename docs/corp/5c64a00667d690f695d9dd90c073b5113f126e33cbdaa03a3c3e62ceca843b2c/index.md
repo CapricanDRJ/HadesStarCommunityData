@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FoxTale
-description: Details for Hades' Star Corporation FoxTale whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

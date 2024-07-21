@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SNSS
-description: Details for Hades' Star Corporation SNSS whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

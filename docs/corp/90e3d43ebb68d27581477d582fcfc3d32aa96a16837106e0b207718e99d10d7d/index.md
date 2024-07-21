@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Draconis
-description: Details for Hades' Star Corporation Draconis whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

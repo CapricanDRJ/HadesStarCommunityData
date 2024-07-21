@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Elder Things
-description: Details for Hades' Star Corporation Elder Things whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

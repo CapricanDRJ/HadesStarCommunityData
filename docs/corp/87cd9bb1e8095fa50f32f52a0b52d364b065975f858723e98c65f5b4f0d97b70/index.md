@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TAKE IT DEEP
-description: Details for Hades' Star Corporation TAKE IT DEEP whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

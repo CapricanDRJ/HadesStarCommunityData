@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ukr alliance 
-description: Details for Hades' Star Corporation Ukr alliance  whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

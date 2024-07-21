@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SEC
-description: Details for Hades' Star Corporation SEC whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

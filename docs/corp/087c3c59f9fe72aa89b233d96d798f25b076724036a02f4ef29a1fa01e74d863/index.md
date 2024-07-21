@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mass Effect
-description: Details for Hades' Star Corporation Mass Effect whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

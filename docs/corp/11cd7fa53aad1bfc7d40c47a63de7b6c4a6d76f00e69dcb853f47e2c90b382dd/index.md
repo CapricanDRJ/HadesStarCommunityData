@@ -1,7 +1,7 @@
 ---
 layout: page
 title: МеГаКо
-description: Details for Hades' Star Corporation МеГаКо whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

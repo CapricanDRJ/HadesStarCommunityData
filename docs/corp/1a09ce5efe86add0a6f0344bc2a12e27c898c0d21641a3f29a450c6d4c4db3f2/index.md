@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Helion Prime
-description: Details for Hades' Star Corporation Helion Prime whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

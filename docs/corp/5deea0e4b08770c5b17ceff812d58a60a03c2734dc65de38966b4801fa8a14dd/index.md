@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RDR2
-description: Details for Hades' Star Corporation RDR2 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

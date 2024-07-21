@@ -1,7 +1,7 @@
 ---
 layout: page
 title: МАРСЮКИ
-description: Details for Hades' Star Corporation МАРСЮКИ whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

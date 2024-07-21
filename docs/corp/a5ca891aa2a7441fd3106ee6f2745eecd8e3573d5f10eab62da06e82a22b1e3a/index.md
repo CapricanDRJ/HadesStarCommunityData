@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 泰拉瑞亚
-description: Details for Hades' Star Corporation 泰拉瑞亚 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

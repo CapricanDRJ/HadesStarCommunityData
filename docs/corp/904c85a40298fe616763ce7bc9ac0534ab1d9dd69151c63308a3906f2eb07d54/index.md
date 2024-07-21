@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Thunderbears
-description: Details for Hades' Star Corporation Thunderbears whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

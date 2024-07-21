@@ -1,7 +1,7 @@
 ---
 layout: page
-title: O\.E\.B\.
-description: Details for Hades' Star Corporation O\.E\.B\. whitestar history
+title: O.E.B.
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

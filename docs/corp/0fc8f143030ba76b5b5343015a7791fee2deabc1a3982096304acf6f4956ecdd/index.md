@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Karanth Corp\.
-description: Details for Hades' Star Corporation Karanth Corp\. whitestar history
+title: Karanth Corp.
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

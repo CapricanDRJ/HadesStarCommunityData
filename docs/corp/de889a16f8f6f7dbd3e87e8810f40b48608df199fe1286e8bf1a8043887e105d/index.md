@@ -1,7 +1,7 @@
 ---
 layout: page
-title: SEK\-SPACE ORDER
-description: Details for Hades' Star Corporation SEK\-SPACE ORDER whitestar history
+title: SEK-SPACE ORDER
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

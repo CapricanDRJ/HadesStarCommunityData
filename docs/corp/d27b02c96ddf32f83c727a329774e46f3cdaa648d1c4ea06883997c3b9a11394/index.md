@@ -1,7 +1,7 @@
 ---
 layout: page
 title: КВАЗАР
-description: Details for Hades' Star Corporation КВАЗАР whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

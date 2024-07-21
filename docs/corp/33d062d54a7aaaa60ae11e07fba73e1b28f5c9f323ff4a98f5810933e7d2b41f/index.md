@@ -1,7 +1,7 @@
 ---
 layout: page
 title: oen
-description: Details for Hades' Star Corporation oen whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blood Hounds
-description: Details for Hades' Star Corporation Blood Hounds whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

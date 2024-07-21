@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Lost City Corp\.
-description: Details for Hades' Star Corporation Lost City Corp\. whitestar history
+title: Lost City Corp.
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

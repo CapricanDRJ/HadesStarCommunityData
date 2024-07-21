@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 火洋之心
-description: Details for Hades' Star Corporation 火洋之心 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

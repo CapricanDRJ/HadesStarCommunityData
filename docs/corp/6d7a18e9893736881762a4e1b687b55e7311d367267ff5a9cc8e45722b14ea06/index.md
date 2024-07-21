@@ -1,7 +1,7 @@
 ---
 layout: page
-title: U\.S\.A
-description: Details for Hades' Star Corporation U\.S\.A whitestar history
+title: U.S.A
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

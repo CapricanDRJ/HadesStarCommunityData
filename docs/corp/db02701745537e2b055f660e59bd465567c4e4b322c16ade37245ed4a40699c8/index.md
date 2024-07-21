@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Russian Style
-description: Details for Hades' Star Corporation Russian Style whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

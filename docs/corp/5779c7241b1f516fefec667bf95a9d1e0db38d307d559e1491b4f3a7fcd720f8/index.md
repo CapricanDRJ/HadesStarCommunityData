@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Zeta LLC
-description: Details for Hades' Star Corporation Zeta LLC whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

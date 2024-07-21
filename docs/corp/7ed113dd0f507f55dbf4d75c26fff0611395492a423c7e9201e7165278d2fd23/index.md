@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Panda clan 
-description: Details for Hades' Star Corporation Panda clan  whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

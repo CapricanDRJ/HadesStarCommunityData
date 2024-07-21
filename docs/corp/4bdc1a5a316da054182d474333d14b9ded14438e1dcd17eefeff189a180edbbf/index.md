@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FirstAllegiance
-description: Details for Hades' Star Corporation FirstAllegiance whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

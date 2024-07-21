@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 德意志联邦集团
-description: Details for Hades' Star Corporation 德意志联邦集团 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

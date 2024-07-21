@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The New Light
-description: Details for Hades' Star Corporation The New Light whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

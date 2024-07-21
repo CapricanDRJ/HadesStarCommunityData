@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cronos World
-description: Details for Hades' Star Corporation Cronos World whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

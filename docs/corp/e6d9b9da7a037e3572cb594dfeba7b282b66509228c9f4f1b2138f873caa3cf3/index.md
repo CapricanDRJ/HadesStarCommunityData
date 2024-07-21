@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 萌新港\(大佬港\)
-description: Details for Hades' Star Corporation 萌新港\(大佬港\) whitestar history
+title: 萌新港(大佬港)
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

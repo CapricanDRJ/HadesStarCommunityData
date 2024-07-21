@@ -1,7 +1,7 @@
 ---
 layout: page
 title: three kitties
-description: Details for Hades' Star Corporation three kitties whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

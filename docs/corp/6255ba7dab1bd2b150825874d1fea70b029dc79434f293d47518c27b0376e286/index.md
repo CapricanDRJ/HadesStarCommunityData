@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Space Penguins
-description: Details for Hades' Star Corporation Space Penguins whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

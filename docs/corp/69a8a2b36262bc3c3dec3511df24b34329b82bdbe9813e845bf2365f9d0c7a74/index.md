@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ReylZ
-description: Details for Hades' Star Corporation ReylZ whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

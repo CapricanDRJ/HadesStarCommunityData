@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 避难所
-description: Details for Hades' Star Corporation 避难所 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

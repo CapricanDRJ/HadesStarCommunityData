@@ -1,7 +1,7 @@
 ---
 layout: page
-title: O\.P\.S
-description: Details for Hades' Star Corporation O\.P\.S whitestar history
+title: O.P.S
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

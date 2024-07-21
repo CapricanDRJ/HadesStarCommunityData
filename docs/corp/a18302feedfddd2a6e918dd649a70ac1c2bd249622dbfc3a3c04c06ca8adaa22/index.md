@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Next Hyperion
-description: Details for Hades' Star Corporation Next Hyperion whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

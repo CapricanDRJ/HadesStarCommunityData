@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 资助会
-description: Details for Hades' Star Corporation 资助会 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

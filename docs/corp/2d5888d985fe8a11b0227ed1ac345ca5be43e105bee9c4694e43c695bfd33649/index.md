@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ギャラクシー富士山
-description: Details for Hades' Star Corporation ギャラクシー富士山 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

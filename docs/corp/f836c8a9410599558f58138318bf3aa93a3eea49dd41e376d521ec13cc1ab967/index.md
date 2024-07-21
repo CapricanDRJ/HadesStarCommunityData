@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Danish Oil
-description: Details for Hades' Star Corporation Danish Oil whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

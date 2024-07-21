@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Avalanche 2\.0
-description: Details for Hades' Star Corporation Avalanche 2\.0 whitestar history
+title: Avalanche 2.0
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

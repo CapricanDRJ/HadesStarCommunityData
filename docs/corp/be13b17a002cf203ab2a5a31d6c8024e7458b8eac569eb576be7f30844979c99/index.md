@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Planet Express
-description: Details for Hades' Star Corporation Planet Express whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

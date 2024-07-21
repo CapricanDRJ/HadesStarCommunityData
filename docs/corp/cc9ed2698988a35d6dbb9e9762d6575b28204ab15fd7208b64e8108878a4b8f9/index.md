@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Interestelar
-description: Details for Hades' Star Corporation Interestelar whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

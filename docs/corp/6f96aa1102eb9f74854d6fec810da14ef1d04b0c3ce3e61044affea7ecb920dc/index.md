@@ -1,7 +1,7 @@
 ---
 layout: page
 title: северный шторм
-description: Details for Hades' Star Corporation северный шторм whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

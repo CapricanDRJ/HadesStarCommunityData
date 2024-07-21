@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Latinos :\)
-description: Details for Hades' Star Corporation Latinos :\) whitestar history
+title: Latinos :)
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

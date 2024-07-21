@@ -1,7 +1,7 @@
 ---
 layout: page
 title: DYLAN
-description: Details for Hades' Star Corporation DYLAN whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

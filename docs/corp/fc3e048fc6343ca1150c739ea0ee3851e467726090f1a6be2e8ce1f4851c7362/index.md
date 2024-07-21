@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ГОРИЗОНТ
-description: Details for Hades' Star Corporation ГОРИЗОНТ whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 大舰队がな
-description: Details for Hades' Star Corporation 大舰队がな whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: USAR@Hadesstar
-description: Details for Hades' Star Corporation USAR@Hadesstar whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Gathering
-description: Details for Hades' Star Corporation The Gathering whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

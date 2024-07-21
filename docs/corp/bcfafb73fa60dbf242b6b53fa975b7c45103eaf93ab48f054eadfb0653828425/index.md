@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hyperion Radius
-description: Details for Hades' Star Corporation Hyperion Radius whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

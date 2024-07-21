@@ -1,7 +1,7 @@
 ---
 layout: page
-title: L\.B\.H\.
-description: Details for Hades' Star Corporation L\.B\.H\. whitestar history
+title: L.B.H.
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

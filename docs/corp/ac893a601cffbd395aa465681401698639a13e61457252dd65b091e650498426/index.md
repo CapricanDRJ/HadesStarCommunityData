@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tycho Corp
-description: Details for Hades' Star Corporation Tycho Corp whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

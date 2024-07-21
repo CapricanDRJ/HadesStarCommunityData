@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blue Space
-description: Details for Hades' Star Corporation Blue Space whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

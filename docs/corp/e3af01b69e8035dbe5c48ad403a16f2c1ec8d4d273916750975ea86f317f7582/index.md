@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Rogue Dudes
-description: Details for Hades' Star Corporation Rogue Dudes whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

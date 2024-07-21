@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pixies
-description: Details for Hades' Star Corporation Pixies whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

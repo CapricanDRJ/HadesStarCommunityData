@@ -1,7 +1,7 @@
 ---
 layout: page
 title: OKC THUNDER 
-description: Details for Hades' Star Corporation OKC THUNDER  whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

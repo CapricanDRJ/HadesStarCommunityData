@@ -1,7 +1,7 @@
 ---
 layout: page
 title: NameLess Hades
-description: Details for Hades' Star Corporation NameLess Hades whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

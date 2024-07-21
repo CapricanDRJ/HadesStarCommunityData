@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Тёмный Феникс
-description: Details for Hades' Star Corporation Тёмный Феникс whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

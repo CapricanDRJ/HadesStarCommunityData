@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RATAS
-description: Details for Hades' Star Corporation RATAS whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

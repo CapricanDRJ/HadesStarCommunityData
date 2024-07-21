@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dacia Chill
-description: Details for Hades' Star Corporation Dacia Chill whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

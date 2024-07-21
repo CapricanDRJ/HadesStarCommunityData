@@ -1,7 +1,7 @@
 ---
 layout: page
-title: GermanSpaceUno\.
-description: Details for Hades' Star Corporation GermanSpaceUno\. whitestar history
+title: GermanSpaceUno.
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Int\. Trading Co
-description: Details for Hades' Star Corporation Int\. Trading Co whitestar history
+title: Int. Trading Co
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

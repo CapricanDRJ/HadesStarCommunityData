@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 2ND\-R8 Corp\.
-description: Details for Hades' Star Corporation 2ND\-R8 Corp\. whitestar history
+title: 2ND-R8 Corp.
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

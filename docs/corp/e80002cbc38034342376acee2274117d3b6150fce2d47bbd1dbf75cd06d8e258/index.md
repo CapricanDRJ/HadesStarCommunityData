@@ -1,7 +1,7 @@
 ---
 layout: page
 title: OPA
-description: Details for Hades' Star Corporation OPA whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ✡天启✡
-description: Details for Hades' Star Corporation ✡天启✡ whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

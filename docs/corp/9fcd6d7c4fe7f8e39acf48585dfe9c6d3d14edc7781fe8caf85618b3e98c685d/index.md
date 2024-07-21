@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sich\.ua
-description: Details for Hades' Star Corporation Sich\.ua whitestar history
+title: Sich.ua
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Covenant
-description: Details for Hades' Star Corporation The Covenant whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

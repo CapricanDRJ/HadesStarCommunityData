@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SUN OF 3LANDS
-description: Details for Hades' Star Corporation SUN OF 3LANDS whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

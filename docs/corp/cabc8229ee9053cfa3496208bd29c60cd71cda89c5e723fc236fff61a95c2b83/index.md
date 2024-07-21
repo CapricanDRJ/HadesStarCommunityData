@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BRASIL ACADEMY
-description: Details for Hades' Star Corporation BRASIL ACADEMY whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

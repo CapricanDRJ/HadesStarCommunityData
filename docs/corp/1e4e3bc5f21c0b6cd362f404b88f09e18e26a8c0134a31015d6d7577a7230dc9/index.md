@@ -1,7 +1,7 @@
 ---
 layout: page
 title: АНДРОМЕДА 
-description: Details for Hades' Star Corporation АНДРОМЕДА  whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

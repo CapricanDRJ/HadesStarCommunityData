@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Crux Cadre
-description: Details for Hades' Star Corporation Crux Cadre whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

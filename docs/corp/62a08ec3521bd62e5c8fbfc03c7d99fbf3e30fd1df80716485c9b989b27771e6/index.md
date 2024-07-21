@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Watchers
-description: Details for Hades' Star Corporation The Watchers whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cerulean Star
-description: Details for Hades' Star Corporation Cerulean Star whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 凛冬重工
-description: Details for Hades' Star Corporation 凛冬重工 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

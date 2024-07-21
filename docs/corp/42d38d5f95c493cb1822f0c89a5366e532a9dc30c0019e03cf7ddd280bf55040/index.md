@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 第四星际
-description: Details for Hades' Star Corporation 第四星际 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

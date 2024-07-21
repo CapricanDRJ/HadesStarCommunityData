@@ -1,7 +1,7 @@
 ---
 layout: page
 title: WTF
-description: Details for Hades' Star Corporation WTF whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

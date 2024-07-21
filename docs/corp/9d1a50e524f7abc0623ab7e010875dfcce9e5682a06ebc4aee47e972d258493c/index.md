@@ -1,7 +1,7 @@
 ---
 layout: page
 title: NoweUkladyII
-description: Details for Hades' Star Corporation NoweUkladyII whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

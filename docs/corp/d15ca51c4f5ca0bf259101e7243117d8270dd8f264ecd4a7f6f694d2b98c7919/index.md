@@ -1,7 +1,7 @@
 ---
 layout: page
-title: WSC\(no DISCORD\)
-description: Details for Hades' Star Corporation WSC\(no DISCORD\) whitestar history
+title: WSC(no DISCORD)
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

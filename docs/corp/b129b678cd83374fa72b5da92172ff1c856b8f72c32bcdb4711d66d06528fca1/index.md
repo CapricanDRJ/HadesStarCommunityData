@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 1st/Ave/Junkie2
-description: Details for Hades' Star Corporation 1st/Ave/Junkie2 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

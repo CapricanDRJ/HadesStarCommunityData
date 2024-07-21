@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sternenbund
-description: Details for Hades' Star Corporation Sternenbund whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

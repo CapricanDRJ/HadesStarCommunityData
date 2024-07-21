@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 우주미아
-description: Details for Hades' Star Corporation 우주미아 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

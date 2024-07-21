@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Consortium
-description: Details for Hades' Star Corporation Consortium whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

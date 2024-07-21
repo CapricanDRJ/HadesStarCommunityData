@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 神貓聯盟
-description: Details for Hades' Star Corporation 神貓聯盟 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

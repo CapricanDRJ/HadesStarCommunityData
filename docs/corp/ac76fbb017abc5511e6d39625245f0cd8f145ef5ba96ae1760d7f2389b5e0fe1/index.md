@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ProyectCorp
-description: Details for Hades' Star Corporation ProyectCorp whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

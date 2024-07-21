@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dreckiger Rest
-description: Details for Hades' Star Corporation Dreckiger Rest whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

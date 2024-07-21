@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Eastern Front
-description: Details for Hades' Star Corporation Eastern Front whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

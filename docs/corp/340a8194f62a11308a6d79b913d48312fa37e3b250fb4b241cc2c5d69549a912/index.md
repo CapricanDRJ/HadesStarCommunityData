@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SYNDICATE
-description: Details for Hades' Star Corporation SYNDICATE whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

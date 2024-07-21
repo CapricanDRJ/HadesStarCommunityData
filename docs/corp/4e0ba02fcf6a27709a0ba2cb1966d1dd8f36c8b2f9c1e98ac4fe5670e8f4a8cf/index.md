@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 共和服务器
-description: Details for Hades' Star Corporation 共和服务器 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

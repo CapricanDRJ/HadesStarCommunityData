@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SUSSY IMPOSTER
-description: Details for Hades' Star Corporation SUSSY IMPOSTER whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

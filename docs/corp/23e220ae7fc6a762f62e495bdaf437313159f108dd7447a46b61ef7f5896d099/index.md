@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Suicide Squad
-description: Details for Hades' Star Corporation Suicide Squad whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

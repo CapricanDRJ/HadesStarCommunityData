@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 星光禁卫
-description: Details for Hades' Star Corporation 星光禁卫 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

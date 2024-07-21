@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Любители Пива
-description: Details for Hades' Star Corporation Любители Пива whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

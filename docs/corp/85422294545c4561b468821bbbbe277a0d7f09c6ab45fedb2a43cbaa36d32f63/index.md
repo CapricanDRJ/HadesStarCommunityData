@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 星环建设集团
-description: Details for Hades' Star Corporation 星环建设集团 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

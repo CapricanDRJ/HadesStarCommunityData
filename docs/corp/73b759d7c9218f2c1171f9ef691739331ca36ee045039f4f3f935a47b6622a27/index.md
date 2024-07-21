@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AAAA
-description: Details for Hades' Star Corporation AAAA whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

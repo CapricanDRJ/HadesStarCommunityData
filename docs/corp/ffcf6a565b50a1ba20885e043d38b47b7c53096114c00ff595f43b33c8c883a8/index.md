@@ -1,7 +1,7 @@
 ---
 layout: page
 title: the light
-description: Details for Hades' Star Corporation the light whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

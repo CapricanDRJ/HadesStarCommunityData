@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lacuna Academy
-description: Details for Hades' Star Corporation Lacuna Academy whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

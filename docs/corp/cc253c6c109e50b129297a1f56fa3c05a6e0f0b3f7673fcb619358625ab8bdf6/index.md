@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Стальная крыса
-description: Details for Hades' Star Corporation Стальная крыса whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

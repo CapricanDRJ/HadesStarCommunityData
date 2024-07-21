@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TearsWorld
-description: Details for Hades' Star Corporation TearsWorld whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Imperial Navy
-description: Details for Hades' Star Corporation Imperial Navy whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

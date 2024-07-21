@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Galactic Trade
-description: Details for Hades' Star Corporation Galactic Trade whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

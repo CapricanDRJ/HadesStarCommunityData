@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Polandia
-description: Details for Hades' Star Corporation Polandia whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

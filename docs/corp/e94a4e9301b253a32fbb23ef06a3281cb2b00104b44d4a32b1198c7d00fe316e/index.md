@@ -1,7 +1,7 @@
 ---
 layout: page
 title: LCP
-description: Details for Hades' Star Corporation LCP whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

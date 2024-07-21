@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Simply Uranus
-description: Details for Hades' Star Corporation Simply Uranus whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

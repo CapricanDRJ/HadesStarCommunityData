@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Training Corp
-description: Details for Hades' Star Corporation Training Corp whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

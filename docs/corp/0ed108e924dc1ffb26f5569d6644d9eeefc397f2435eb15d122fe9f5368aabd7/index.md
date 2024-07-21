@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ночные Львы
-description: Details for Hades' Star Corporation Ночные Львы whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

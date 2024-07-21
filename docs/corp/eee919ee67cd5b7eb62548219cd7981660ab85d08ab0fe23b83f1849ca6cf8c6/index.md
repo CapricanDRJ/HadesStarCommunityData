@@ -1,7 +1,7 @@
 ---
 layout: page
-title: On en a Gros \! 
-description: Details for Hades' Star Corporation On en a Gros \!  whitestar history
+title: On en a Gros ! 
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

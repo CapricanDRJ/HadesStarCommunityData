@@ -1,7 +1,7 @@
 ---
 layout: page
 title: КМБ
-description: Details for Hades' Star Corporation КМБ whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

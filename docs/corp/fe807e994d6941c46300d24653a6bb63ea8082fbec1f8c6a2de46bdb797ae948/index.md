@@ -1,7 +1,7 @@
 ---
 layout: page
-title: L\.P\.A\.
-description: Details for Hades' Star Corporation L\.P\.A\. whitestar history
+title: L.P.A.
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

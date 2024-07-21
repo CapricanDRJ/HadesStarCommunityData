@@ -1,7 +1,7 @@
 ---
 layout: page
 title: lost souls
-description: Details for Hades' Star Corporation lost souls whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

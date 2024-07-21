@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Серебряная орда
-description: Details for Hades' Star Corporation Серебряная орда whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

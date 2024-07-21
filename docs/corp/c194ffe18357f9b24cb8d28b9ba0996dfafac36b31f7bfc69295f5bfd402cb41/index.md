@@ -1,7 +1,7 @@
 ---
 layout: page
 title: UNNP
-description: Details for Hades' Star Corporation UNNP whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

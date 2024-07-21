@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 두빛나래
-description: Details for Hades' Star Corporation 두빛나래 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

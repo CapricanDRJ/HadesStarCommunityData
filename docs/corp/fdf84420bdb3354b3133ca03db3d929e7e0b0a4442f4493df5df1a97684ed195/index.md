@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Северный флот 
-description: Details for Hades' Star Corporation Северный флот  whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

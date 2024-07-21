@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Скричеры
-description: Details for Hades' Star Corporation Скричеры whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

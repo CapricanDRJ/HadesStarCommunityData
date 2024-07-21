@@ -1,7 +1,7 @@
 ---
 layout: page
 title: pirates spatial
-description: Details for Hades' Star Corporation pirates spatial whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

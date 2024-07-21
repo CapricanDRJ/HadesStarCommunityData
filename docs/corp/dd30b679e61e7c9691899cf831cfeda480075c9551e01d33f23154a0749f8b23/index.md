@@ -1,7 +1,7 @@
 ---
 layout: page
 title: La resistencia
-description: Details for Hades' Star Corporation La resistencia whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

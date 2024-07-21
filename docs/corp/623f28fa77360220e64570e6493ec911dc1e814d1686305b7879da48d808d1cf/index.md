@@ -1,7 +1,7 @@
 ---
 layout: page
-title: BrazilCorp\.
-description: Details for Hades' Star Corporation BrazilCorp\. whitestar history
+title: BrazilCorp.
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

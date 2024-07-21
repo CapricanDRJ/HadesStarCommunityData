@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Forces of Light
-description: Details for Hades' Star Corporation Forces of Light whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

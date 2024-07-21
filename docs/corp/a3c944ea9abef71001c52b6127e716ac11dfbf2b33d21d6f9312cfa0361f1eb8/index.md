@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Irish Pride 
-description: Details for Hades' Star Corporation Irish Pride  whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

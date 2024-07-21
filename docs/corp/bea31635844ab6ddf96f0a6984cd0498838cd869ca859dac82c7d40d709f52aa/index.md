@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 群星璀璨
-description: Details for Hades' Star Corporation 群星璀璨 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

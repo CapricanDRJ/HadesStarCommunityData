@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nightmares 
-description: Details for Hades' Star Corporation Nightmares  whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

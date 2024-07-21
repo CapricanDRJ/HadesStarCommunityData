@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Crucible 
-description: Details for Hades' Star Corporation Crucible  whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

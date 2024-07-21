@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Germania
-description: Details for Hades' Star Corporation Germania whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

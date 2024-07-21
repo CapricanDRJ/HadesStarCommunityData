@@ -1,7 +1,7 @@
 ---
 layout: page
 title: HAL
-description: Details for Hades' Star Corporation HAL whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

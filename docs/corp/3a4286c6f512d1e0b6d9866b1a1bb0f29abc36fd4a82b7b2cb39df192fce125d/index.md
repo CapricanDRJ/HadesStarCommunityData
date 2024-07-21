@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hinterm Mond
-description: Details for Hades' Star Corporation Hinterm Mond whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

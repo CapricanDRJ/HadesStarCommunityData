@@ -1,7 +1,7 @@
 ---
 layout: page
-title: <a\>超越®</a\>光速℡
-description: Details for Hades' Star Corporation <a\>超越®</a\>光速℡ whitestar history
+title: <a>超越®</a>光速℡
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

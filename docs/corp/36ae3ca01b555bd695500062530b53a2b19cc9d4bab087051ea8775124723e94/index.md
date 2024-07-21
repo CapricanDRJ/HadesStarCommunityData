@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 하데스 스타 코리아
-description: Details for Hades' Star Corporation 하데스 스타 코리아 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

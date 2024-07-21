@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Shadow Council
-description: Details for Hades' Star Corporation Shadow Council whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: α阿尔法
-description: Details for Hades' Star Corporation α阿尔法 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

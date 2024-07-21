@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 碧霄殿
-description: Details for Hades' Star Corporation 碧霄殿 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

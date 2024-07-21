@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Flying Dutchmen
-description: Details for Hades' Star Corporation Flying Dutchmen whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

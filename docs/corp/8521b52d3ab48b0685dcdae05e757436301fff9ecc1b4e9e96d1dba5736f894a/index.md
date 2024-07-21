@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 中国星系集团
-description: Details for Hades' Star Corporation 中国星系集团 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

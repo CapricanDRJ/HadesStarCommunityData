@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SafeSpace
-description: Details for Hades' Star Corporation SafeSpace whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

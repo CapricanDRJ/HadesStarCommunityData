@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pumpkin
-description: Details for Hades' Star Corporation Pumpkin whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

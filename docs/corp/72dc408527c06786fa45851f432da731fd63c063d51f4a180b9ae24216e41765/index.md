@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ToC
-description: Details for Hades' Star Corporation ToC whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

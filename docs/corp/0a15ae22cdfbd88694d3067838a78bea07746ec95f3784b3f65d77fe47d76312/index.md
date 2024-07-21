@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GhostNakcoorp
-description: Details for Hades' Star Corporation GhostNakcoorp whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

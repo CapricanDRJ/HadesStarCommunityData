@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Death Flight 1\.
-description: Details for Hades' Star Corporation Death Flight 1\. whitestar history
+title: Death Flight 1.
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

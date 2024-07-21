@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sanctuary
-description: Details for Hades' Star Corporation Sanctuary whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

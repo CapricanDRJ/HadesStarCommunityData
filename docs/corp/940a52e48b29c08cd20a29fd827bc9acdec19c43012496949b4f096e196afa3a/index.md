@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Power Rangers
-description: Details for Hades' Star Corporation Power Rangers whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

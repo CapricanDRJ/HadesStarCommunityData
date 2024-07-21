@@ -1,7 +1,7 @@
 ---
 layout: page
-title: C'est pas faux\!
-description: Details for Hades' Star Corporation C'est pas faux\! whitestar history
+title: C'est pas faux!
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

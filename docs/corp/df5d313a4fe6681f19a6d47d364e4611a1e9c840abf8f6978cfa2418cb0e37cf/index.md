@@ -1,7 +1,7 @@
 ---
 layout: page
 title: From the Fire
-description: Details for Hades' Star Corporation From the Fire whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

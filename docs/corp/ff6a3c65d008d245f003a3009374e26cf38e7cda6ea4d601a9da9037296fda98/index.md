@@ -1,7 +1,7 @@
 ---
 layout: page
 title: YETI Collective
-description: Details for Hades' Star Corporation YETI Collective whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

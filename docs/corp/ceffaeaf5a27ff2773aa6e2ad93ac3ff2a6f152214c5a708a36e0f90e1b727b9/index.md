@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Девчата
-description: Details for Hades' Star Corporation Девчата whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Utd\. Human Fed\.
-description: Details for Hades' Star Corporation Utd\. Human Fed\. whitestar history
+title: Utd. Human Fed.
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

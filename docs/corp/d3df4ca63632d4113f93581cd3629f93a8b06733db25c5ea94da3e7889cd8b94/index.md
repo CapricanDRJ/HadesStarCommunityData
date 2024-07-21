@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GalaxyNova
-description: Details for Hades' Star Corporation GalaxyNova whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

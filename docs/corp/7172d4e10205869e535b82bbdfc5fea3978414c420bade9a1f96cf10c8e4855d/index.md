@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 지고받자
-description: Details for Hades' Star Corporation 지고받자 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

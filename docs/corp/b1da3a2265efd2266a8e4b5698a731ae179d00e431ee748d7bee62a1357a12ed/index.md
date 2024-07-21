@@ -1,7 +1,7 @@
 ---
 layout: page
-title: \*Alfa y Omega\*
-description: Details for Hades' Star Corporation \*Alfa y Omega\* whitestar history
+title: *Alfa y Omega*
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

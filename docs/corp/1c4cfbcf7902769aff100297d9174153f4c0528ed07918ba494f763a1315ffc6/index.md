@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Allegiant
-description: Details for Hades' Star Corporation The Allegiant whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

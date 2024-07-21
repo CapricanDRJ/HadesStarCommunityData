@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Space Scourge
-description: Details for Hades' Star Corporation Space Scourge whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: JPR\. Pretorians
-description: Details for Hades' Star Corporation JPR\. Pretorians whitestar history
+title: JPR. Pretorians
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

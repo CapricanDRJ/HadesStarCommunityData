@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Novana Gaming
-description: Details for Hades' Star Corporation Novana Gaming whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

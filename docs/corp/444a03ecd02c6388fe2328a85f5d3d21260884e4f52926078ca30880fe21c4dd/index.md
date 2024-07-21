@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 解语者研究会
-description: Details for Hades' Star Corporation 解语者研究会 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

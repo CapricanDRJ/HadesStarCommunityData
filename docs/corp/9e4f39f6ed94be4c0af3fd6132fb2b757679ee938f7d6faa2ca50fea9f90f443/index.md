@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Uniones
-description: Details for Hades' Star Corporation Uniones whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

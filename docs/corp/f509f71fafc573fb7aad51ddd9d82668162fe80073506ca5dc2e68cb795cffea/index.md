@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Odessa
-description: Details for Hades' Star Corporation Odessa whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

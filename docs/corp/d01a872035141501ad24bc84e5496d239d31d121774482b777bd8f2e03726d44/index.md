@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Crimson Dawn
-description: Details for Hades' Star Corporation Crimson Dawn whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

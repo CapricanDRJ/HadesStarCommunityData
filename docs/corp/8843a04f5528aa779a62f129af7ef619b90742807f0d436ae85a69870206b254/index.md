@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Valhalla Rising
-description: Details for Hades' Star Corporation Valhalla Rising whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

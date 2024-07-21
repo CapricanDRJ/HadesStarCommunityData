@@ -1,7 +1,7 @@
 ---
 layout: page
-title: LossFarm No\.648
-description: Details for Hades' Star Corporation LossFarm No\.648 whitestar history
+title: LossFarm No.648
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Empire of Light
-description: Details for Hades' Star Corporation Empire of Light whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

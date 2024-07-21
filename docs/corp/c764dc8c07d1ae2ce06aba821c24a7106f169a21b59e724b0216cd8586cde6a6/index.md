@@ -1,7 +1,7 @@
 ---
 layout: page
 title: украина№1
-description: Details for Hades' Star Corporation украина№1 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

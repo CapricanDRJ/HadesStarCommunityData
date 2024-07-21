@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ukraine
-description: Details for Hades' Star Corporation Ukraine whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

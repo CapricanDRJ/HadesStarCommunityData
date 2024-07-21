@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CORE INFLICTION
-description: Details for Hades' Star Corporation CORE INFLICTION whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

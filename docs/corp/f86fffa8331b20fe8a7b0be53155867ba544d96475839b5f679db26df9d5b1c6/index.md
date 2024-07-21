@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sith Academy
-description: Details for Hades' Star Corporation Sith Academy whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

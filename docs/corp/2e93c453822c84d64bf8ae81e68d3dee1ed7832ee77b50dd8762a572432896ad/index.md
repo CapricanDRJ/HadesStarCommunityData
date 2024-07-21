@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 专业间谍团队
-description: Details for Hades' Star Corporation 专业间谍团队 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

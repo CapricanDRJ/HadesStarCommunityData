@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AlSounT
-description: Details for Hades' Star Corporation AlSounT whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

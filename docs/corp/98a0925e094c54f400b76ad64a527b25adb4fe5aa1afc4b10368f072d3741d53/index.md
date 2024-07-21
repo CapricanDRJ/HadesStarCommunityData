@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Бестрашный лиги
-description: Details for Hades' Star Corporation Бестрашный лиги whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

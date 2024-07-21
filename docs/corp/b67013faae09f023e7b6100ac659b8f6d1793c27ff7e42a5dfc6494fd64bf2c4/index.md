@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 德意志阿尔法帝国
-description: Details for Hades' Star Corporation 德意志阿尔法帝国 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

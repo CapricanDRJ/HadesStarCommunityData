@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Anarchy Nation 
-description: Details for Hades' Star Corporation Anarchy Nation  whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

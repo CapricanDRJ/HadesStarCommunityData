@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 德意志第三帝国阿尔法分部
-description: Details for Hades' Star Corporation 德意志第三帝国阿尔法分部 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

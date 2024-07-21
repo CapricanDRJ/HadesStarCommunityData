@@ -1,7 +1,7 @@
 ---
 layout: page
 title: KhaOSs
-description: Details for Hades' Star Corporation KhaOSs whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

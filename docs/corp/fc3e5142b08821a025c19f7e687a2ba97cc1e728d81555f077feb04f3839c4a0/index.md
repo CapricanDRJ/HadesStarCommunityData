@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 柯伊伯带
-description: Details for Hades' Star Corporation 柯伊伯带 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

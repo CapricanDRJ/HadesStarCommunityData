@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Midland Ind\.
-description: Details for Hades' Star Corporation Midland Ind\. whitestar history
+title: Midland Ind.
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

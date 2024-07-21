@@ -1,7 +1,7 @@
 ---
 layout: page
-title: \(◉▼◉ ﾐ \)Э
-description: Details for Hades' Star Corporation \(◉▼◉ ﾐ \)Э whitestar history
+title: (◉▼◉ ﾐ )Э
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

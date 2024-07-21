@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Spaceballs
-description: Details for Hades' Star Corporation Spaceballs whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

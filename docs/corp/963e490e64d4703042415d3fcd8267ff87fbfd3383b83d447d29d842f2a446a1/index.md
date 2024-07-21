@@ -1,7 +1,7 @@
 ---
 layout: page
 title: KLM
-description: Details for Hades' Star Corporation KLM whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

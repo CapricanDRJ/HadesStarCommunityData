@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 对，进就进人少的
-description: Details for Hades' Star Corporation 对，进就进人少的 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

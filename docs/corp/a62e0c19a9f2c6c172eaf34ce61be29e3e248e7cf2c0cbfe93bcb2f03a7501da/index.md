@@ -1,7 +1,7 @@
 ---
 layout: page
 title: КОРПОРАЦИЯ ЗЛА
-description: Details for Hades' Star Corporation КОРПОРАЦИЯ ЗЛА whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

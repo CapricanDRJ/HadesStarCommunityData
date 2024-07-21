@@ -1,7 +1,7 @@
 ---
 layout: page
 title: battlesquadron
-description: Details for Hades' Star Corporation battlesquadron whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

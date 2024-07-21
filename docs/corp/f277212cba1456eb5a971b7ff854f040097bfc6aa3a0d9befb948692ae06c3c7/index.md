@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Saggitarius A
-description: Details for Hades' Star Corporation Saggitarius A whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

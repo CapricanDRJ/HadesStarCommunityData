@@ -1,7 +1,7 @@
 ---
 layout: page
 title:   边界  
-description: Details for Hades' Star Corporation   边界   whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

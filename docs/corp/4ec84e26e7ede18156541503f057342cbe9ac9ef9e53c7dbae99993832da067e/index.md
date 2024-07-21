@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Legion Prime
-description: Details for Hades' Star Corporation Legion Prime whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Grater T
-description: Details for Hades' Star Corporation Grater T whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

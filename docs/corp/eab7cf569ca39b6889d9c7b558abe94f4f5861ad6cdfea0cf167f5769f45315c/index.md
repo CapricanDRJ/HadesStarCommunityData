@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Troy
-description: Details for Hades' Star Corporation Troy whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

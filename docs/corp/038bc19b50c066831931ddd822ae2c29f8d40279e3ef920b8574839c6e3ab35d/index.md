@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 咕咕咕咕咕咕咕咕咕咕咕咕咕咕咕
-description: Details for Hades' Star Corporation 咕咕咕咕咕咕咕咕咕咕咕咕咕咕咕 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

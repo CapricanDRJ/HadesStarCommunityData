@@ -1,7 +1,7 @@
 ---
 layout: page
 title: HerronCorp
-description: Details for Hades' Star Corporation HerronCorp whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

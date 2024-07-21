@@ -1,7 +1,7 @@
 ---
 layout: page
 title: italian warrior
-description: Details for Hades' Star Corporation italian warrior whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

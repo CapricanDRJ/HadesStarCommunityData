@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mecha Armada
-description: Details for Hades' Star Corporation Mecha Armada whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

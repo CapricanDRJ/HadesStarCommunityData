@@ -1,7 +1,7 @@
 ---
 layout: page
 title: loveboat
-description: Details for Hades' Star Corporation loveboat whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

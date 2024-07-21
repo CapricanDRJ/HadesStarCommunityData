@@ -1,7 +1,7 @@
 ---
 layout: page
 title: vosk empire 2
-description: Details for Hades' Star Corporation vosk empire 2 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

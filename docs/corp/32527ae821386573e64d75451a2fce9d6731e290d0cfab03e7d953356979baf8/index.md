@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hail Hydra
-description: Details for Hades' Star Corporation Hail Hydra whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

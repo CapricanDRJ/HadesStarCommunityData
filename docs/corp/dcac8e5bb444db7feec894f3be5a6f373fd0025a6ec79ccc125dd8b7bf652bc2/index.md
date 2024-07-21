@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 很多星球的社会主义团
-description: Details for Hades' Star Corporation 很多星球的社会主义团 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Intari
-description: Details for Hades' Star Corporation Intari whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Majapahit
-description: Details for Hades' Star Corporation Majapahit whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

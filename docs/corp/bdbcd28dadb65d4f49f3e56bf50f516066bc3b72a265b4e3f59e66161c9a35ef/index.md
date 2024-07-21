@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Intertwine 
-description: Details for Hades' Star Corporation Intertwine  whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

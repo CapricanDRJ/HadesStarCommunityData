@@ -1,7 +1,7 @@
 ---
 layout: page
 title: First Squad
-description: Details for Hades' Star Corporation First Squad whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

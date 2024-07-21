@@ -1,7 +1,7 @@
 ---
 layout: page
 title: j g f h me t y 
-description: Details for Hades' Star Corporation j g f h me t y  whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

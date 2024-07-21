@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bl@ck/Galaxy 
-description: Details for Hades' Star Corporation Bl@ck/Galaxy  whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

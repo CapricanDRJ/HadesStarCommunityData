@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stellar Exports
-description: Details for Hades' Star Corporation Stellar Exports whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

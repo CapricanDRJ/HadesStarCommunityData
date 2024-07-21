@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Metal Nova
-description: Details for Hades' Star Corporation Metal Nova whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

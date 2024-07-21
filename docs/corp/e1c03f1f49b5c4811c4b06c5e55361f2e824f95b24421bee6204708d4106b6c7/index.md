@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Casual Joe
-description: Details for Hades' Star Corporation Casual Joe whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

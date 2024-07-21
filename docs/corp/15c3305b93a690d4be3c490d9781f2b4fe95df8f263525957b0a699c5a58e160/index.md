@@ -1,7 +1,7 @@
 ---
 layout: page
 title: N7 Elite Forces
-description: Details for Hades' Star Corporation N7 Elite Forces whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

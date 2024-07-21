@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Макароны V1\.0
-description: Details for Hades' Star Corporation Макароны V1\.0 whitestar history
+title: Макароны V1.0
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ༀᅗBAR ESTELARᅗༀ
-description: Details for Hades' Star Corporation ༀᅗBAR ESTELARᅗༀ whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

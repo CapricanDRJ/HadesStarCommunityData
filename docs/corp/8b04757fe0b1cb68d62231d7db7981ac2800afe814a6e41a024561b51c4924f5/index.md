@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Starborne Corp
-description: Details for Hades' Star Corporation Starborne Corp whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: WinterComes
-description: Details for Hades' Star Corporation WinterComes whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

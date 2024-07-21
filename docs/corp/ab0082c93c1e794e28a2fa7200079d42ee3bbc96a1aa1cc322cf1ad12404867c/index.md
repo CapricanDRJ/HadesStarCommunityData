@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 中华人民共和国
-description: Details for Hades' Star Corporation 中华人民共和国 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

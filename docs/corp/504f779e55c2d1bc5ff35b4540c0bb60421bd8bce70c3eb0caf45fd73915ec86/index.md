@@ -1,7 +1,7 @@
 ---
 layout: page
-title: U\.Y\.E\.U\.
-description: Details for Hades' Star Corporation U\.Y\.E\.U\. whitestar history
+title: U.Y.E.U.
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

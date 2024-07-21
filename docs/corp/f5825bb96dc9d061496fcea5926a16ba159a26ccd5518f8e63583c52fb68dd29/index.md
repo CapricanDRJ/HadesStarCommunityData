@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Red\_Coat\_Mafia
-description: Details for Hades' Star Corporation Red\_Coat\_Mafia whitestar history
+title: Red_Coat_Mafia
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

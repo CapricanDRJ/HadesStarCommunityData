@@ -1,7 +1,7 @@
 ---
 layout: page
 title: challenger corp
-description: Details for Hades' Star Corporation challenger corp whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: White Star Inc\.
-description: Details for Hades' Star Corporation White Star Inc\. whitestar history
+title: White Star Inc.
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

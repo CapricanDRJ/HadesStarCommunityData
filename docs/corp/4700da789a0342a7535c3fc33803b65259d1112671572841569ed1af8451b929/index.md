@@ -1,7 +1,7 @@
 ---
 layout: page
 title: free ws exp
-description: Details for Hades' Star Corporation free ws exp whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

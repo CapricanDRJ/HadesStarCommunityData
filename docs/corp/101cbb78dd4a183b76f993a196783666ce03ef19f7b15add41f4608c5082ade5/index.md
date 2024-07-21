@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Spacey Bois
-description: Details for Hades' Star Corporation Spacey Bois whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

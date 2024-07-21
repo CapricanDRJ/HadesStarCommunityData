@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gold Star
-description: Details for Hades' Star Corporation Gold Star whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

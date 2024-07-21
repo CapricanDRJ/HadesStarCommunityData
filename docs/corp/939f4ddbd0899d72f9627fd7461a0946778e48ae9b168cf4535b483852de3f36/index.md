@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Thurn and Taxis
-description: Details for Hades' Star Corporation Thurn and Taxis whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

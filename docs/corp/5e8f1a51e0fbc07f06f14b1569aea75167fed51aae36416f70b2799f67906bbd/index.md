@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fishy Business 
-description: Details for Hades' Star Corporation Fishy Business  whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

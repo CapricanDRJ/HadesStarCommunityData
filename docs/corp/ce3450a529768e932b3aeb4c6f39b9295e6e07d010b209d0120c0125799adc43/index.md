@@ -1,7 +1,7 @@
 ---
 layout: page
-title: R\-6 satalite
-description: Details for Hades' Star Corporation R\-6 satalite whitestar history
+title: R-6 satalite
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

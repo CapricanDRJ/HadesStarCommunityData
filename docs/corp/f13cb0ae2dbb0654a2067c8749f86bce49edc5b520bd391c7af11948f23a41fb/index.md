@@ -1,7 +1,7 @@
 ---
 layout: page
-title: The X \- Files
-description: Details for Hades' Star Corporation The X \- Files whitestar history
+title: The X - Files
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

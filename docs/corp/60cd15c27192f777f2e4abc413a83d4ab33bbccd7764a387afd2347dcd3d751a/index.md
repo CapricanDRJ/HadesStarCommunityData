@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stone Legion
-description: Details for Hades' Star Corporation Stone Legion whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

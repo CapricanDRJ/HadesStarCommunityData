@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Peak Extraction
-description: Details for Hades' Star Corporation Peak Extraction whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

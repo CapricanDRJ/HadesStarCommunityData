@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 红星超新星爆炸
-description: Details for Hades' Star Corporation 红星超新星爆炸 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Decode
-description: Details for Hades' Star Corporation Decode whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

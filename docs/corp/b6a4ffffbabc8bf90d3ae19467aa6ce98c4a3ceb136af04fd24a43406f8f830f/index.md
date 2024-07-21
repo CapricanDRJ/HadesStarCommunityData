@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 아베노노
-description: Details for Hades' Star Corporation 아베노노 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Gemini Ind\.
-description: Details for Hades' Star Corporation Gemini Ind\. whitestar history
+title: Gemini Ind.
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

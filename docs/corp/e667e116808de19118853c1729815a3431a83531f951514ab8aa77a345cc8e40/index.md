@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Highlife
-description: Details for Hades' Star Corporation Highlife whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Minutemen
-description: Details for Hades' Star Corporation Minutemen whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

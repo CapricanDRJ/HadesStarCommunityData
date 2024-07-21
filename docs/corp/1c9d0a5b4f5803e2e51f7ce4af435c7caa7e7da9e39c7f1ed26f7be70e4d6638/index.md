@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sterling Gamers
-description: Details for Hades' Star Corporation Sterling Gamers whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

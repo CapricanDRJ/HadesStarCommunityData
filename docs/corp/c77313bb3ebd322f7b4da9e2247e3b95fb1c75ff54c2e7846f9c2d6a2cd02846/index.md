@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Zeon
-description: Details for Hades' Star Corporation Zeon whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

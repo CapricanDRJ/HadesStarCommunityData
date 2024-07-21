@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lexx
-description: Details for Hades' Star Corporation Lexx whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

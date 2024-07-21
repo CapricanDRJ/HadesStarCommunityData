@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Firestarters
-description: Details for Hades' Star Corporation Firestarters whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

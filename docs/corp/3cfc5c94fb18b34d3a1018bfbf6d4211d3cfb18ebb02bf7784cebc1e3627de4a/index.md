@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PDC
-description: Details for Hades' Star Corporation PDC whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

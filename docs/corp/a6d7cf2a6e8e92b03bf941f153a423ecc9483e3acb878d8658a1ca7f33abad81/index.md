@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Space Oddity
-description: Details for Hades' Star Corporation Space Oddity whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Неизбежный Рок
-description: Details for Hades' Star Corporation Неизбежный Рок whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

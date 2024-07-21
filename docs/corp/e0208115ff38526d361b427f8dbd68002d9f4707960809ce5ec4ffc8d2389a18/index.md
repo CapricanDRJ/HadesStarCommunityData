@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Richthofen
-description: Details for Hades' Star Corporation Richthofen whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

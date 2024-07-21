@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 星海扬帆
-description: Details for Hades' Star Corporation 星海扬帆 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

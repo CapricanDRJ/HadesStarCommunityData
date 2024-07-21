@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sith order
-description: Details for Hades' Star Corporation Sith order whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

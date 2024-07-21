@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 绛紫星
-description: Details for Hades' Star Corporation 绛紫星 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

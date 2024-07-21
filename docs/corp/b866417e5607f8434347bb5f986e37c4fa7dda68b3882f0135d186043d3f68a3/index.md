@@ -1,7 +1,7 @@
 ---
 layout: page
 title: VoidCorp
-description: Details for Hades' Star Corporation VoidCorp whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

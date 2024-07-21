@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Brasil
-description: Details for Hades' Star Corporation Brasil whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Regulus
-description: Details for Hades' Star Corporation Regulus whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

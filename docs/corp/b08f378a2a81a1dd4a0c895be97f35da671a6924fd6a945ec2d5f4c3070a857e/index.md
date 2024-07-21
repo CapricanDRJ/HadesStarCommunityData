@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vanu Centurions
-description: Details for Hades' Star Corporation Vanu Centurions whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

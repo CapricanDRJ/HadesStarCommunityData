@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RACNAROK
-description: Details for Hades' Star Corporation RACNAROK whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

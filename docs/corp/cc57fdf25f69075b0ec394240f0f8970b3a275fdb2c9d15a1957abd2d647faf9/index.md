@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vertin's box
-description: Details for Hades' Star Corporation Vertin's box whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

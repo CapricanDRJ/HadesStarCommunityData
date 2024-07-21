@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 星舰月球
-description: Details for Hades' Star Corporation 星舰月球 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

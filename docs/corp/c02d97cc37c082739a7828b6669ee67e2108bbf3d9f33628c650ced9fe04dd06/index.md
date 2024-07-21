@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 银星舰队SSF
-description: Details for Hades' Star Corporation 银星舰队SSF whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

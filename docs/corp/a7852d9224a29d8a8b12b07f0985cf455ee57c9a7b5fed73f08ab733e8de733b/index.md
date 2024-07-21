@@ -1,7 +1,7 @@
 ---
 layout: page
 title: КРЫЛЯ ФЕНИКСА
-description: Details for Hades' Star Corporation КРЫЛЯ ФЕНИКСА whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

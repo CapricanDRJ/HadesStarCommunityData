@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Osmium Star llc
-description: Details for Hades' Star Corporation Osmium Star llc whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

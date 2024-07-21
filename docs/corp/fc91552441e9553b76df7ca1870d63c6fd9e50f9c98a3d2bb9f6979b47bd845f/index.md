@@ -1,7 +1,7 @@
 ---
 layout: page
 title: the heavy
-description: Details for Hades' Star Corporation the heavy whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

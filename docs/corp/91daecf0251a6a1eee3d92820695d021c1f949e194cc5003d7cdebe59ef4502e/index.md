@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TROLL SQUAD
-description: Details for Hades' Star Corporation TROLL SQUAD whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

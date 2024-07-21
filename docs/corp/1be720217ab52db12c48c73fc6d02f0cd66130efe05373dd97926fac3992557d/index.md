@@ -1,7 +1,7 @@
 ---
 layout: page
 title: UAGC
-description: Details for Hades' Star Corporation UAGC whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

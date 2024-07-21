@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sternenflotte
-description: Details for Hades' Star Corporation Sternenflotte whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

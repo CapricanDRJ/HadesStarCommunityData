@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Warriors union
-description: Details for Hades' Star Corporation Warriors union whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

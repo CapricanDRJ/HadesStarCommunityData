@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Quantum Cats
-description: Details for Hades' Star Corporation Quantum Cats whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

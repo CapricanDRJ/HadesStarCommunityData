@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 花鸟市场
-description: Details for Hades' Star Corporation 花鸟市场 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

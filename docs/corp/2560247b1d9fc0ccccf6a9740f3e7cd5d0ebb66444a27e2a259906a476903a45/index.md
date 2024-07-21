@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Revólver
-description: Details for Hades' Star Corporation Revólver whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

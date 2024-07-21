@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dirty Laundry 
-description: Details for Hades' Star Corporation Dirty Laundry  whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

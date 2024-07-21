@@ -1,7 +1,7 @@
 ---
 layout: page
 title: nebulous
-description: Details for Hades' Star Corporation nebulous whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

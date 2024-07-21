@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ
-description: Details for Hades' Star Corporation ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

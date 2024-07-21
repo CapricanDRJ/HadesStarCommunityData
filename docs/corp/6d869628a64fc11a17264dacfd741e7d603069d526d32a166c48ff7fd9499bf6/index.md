@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Венерский Союз
-description: Details for Hades' Star Corporation Венерский Союз whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

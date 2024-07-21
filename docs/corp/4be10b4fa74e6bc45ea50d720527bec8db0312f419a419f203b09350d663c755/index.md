@@ -1,7 +1,7 @@
 ---
 layout: page
 title: DTC
-description: Details for Hades' Star Corporation DTC whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

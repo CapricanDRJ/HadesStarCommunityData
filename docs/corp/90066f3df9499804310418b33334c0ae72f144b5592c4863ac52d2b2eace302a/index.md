@@ -1,7 +1,7 @@
 ---
 layout: page
 title: DarkMoon
-description: Details for Hades' Star Corporation DarkMoon whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

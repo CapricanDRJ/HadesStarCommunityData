@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Лютые
-description: Details for Hades' Star Corporation Лютые whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

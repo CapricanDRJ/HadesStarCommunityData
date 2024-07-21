@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Widow Makers
-description: Details for Hades' Star Corporation Widow Makers whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

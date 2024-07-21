@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 普罗米修斯
-description: Details for Hades' Star Corporation 普罗米修斯 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

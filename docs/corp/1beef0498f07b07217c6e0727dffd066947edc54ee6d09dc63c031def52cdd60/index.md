@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  墨痕 
-description: Details for Hades' Star Corporation  墨痕  whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

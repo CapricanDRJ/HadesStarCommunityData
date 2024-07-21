@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Poison Nebula
-description: Details for Hades' Star Corporation Poison Nebula whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

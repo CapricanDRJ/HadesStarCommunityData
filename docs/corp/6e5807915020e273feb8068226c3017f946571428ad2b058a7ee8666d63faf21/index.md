@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sussy Coloner
-description: Details for Hades' Star Corporation Sussy Coloner whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

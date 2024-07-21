@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 雪月永恒
-description: Details for Hades' Star Corporation 雪月永恒 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dumpster Fire
-description: Details for Hades' Star Corporation Dumpster Fire whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

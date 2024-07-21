@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Farland Ind\.
-description: Details for Hades' Star Corporation Farland Ind\. whitestar history
+title: Farland Ind.
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

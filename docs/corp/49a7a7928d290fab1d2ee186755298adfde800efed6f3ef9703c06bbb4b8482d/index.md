@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Диванные Стражи
-description: Details for Hades' Star Corporation Диванные Стражи whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

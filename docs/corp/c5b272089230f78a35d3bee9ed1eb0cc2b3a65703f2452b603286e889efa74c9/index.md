@@ -1,7 +1,7 @@
 ---
 layout: page
-title: tropa \(BR\)
-description: Details for Hades' Star Corporation tropa \(BR\) whitestar history
+title: tropa (BR)
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

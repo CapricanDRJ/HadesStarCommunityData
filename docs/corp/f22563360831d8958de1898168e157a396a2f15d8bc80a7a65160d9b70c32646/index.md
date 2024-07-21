@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Three Rivers
-description: Details for Hades' Star Corporation Three Rivers whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

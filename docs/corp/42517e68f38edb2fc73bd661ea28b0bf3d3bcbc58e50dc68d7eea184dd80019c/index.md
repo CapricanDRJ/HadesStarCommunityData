@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Star Raiders
-description: Details for Hades' Star Corporation Star Raiders whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

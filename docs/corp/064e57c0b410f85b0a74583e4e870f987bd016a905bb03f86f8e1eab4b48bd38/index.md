@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Core
-description: Details for Hades' Star Corporation Core whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

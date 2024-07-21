@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tabula Rasa
-description: Details for Hades' Star Corporation Tabula Rasa whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

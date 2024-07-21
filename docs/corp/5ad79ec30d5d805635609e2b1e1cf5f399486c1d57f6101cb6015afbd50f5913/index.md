@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 9\-Й СКОРПИОН
-description: Details for Hades' Star Corporation 9\-Й СКОРПИОН whitestar history
+title: 9-Й СКОРПИОН
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

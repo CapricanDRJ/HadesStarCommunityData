@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Orphans Of Kos
-description: Details for Hades' Star Corporation Orphans Of Kos whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

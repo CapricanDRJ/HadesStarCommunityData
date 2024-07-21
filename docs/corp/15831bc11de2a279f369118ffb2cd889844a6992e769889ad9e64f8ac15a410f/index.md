@@ -1,7 +1,7 @@
 ---
 layout: page
 title: No Orbit©
-description: Details for Hades' Star Corporation No Orbit© whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

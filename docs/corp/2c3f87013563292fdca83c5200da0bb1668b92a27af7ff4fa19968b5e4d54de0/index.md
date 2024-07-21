@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Continuance
-description: Details for Hades' Star Corporation Continuance whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

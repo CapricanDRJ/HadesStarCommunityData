@@ -1,7 +1,7 @@
 ---
 layout: page
-title: PERSEUS INC\.
-description: Details for Hades' Star Corporation PERSEUS INC\. whitestar history
+title: PERSEUS INC.
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

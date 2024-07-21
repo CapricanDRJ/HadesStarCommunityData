@@ -1,7 +1,7 @@
 ---
 layout: page
-title: \[Blue\*Nation\]
-description: Details for Hades' Star Corporation \[Blue\*Nation\] whitestar history
+title: [Blue*Nation]
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

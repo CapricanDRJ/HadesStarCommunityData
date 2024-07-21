@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Unión latina
-description: Details for Hades' Star Corporation Unión latina whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

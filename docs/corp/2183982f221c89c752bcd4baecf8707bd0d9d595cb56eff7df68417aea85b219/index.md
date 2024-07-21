@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 宇宙生協
-description: Details for Hades' Star Corporation 宇宙生協 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 欢迎国人
-description: Details for Hades' Star Corporation 欢迎国人 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

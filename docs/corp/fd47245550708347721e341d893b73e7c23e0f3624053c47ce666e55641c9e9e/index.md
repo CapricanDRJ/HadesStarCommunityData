@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nine's Own Goal
-description: Details for Hades' Star Corporation Nine's Own Goal whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

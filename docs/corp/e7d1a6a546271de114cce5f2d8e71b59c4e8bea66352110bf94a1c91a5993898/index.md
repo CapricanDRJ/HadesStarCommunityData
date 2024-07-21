@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SALTARDIS
-description: Details for Hades' Star Corporation SALTARDIS whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sektion 32
-description: Details for Hades' Star Corporation Sektion 32 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

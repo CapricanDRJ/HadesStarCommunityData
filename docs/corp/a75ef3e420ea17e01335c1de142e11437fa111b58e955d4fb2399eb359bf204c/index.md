@@ -1,7 +1,7 @@
 ---
 layout: page
 title: callisto corp
-description: Details for Hades' Star Corporation callisto corp whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

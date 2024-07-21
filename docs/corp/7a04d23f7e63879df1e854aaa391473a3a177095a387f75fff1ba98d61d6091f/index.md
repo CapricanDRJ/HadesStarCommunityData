@@ -1,7 +1,7 @@
 ---
 layout: page
 title: StellarCorpIT
-description: Details for Hades' Star Corporation StellarCorpIT whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

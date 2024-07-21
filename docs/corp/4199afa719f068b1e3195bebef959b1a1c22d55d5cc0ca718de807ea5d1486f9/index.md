@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 蓝色星系
-description: Details for Hades' Star Corporation 蓝色星系 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

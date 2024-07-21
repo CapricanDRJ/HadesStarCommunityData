@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Альянс звезд
-description: Details for Hades' Star Corporation Альянс звезд whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

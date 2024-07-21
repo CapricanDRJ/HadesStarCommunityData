@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Imperio Galacti
-description: Details for Hades' Star Corporation Imperio Galacti whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

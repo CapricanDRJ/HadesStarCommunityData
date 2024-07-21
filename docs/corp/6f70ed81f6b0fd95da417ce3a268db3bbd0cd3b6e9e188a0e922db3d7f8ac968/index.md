@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 喵喵喵喵喵喵喵
-description: Details for Hades' Star Corporation 喵喵喵喵喵喵喵 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

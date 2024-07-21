@@ -1,7 +1,7 @@
 ---
 layout: page
 title: knights abyss
-description: Details for Hades' Star Corporation knights abyss whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Death Starz
-description: Details for Hades' Star Corporation Death Starz whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

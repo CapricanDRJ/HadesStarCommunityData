@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ItaFederalFleet
-description: Details for Hades' Star Corporation ItaFederalFleet whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

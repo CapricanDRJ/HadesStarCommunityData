@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Imperium XIII
-description: Details for Hades' Star Corporation Imperium XIII whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

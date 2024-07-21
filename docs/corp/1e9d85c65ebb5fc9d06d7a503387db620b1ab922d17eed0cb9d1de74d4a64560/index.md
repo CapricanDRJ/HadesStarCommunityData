@@ -1,7 +1,7 @@
 ---
 layout: page
 title: КУСАКА
-description: Details for Hades' Star Corporation КУСАКА whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

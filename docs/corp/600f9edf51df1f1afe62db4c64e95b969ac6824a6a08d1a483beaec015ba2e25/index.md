@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 地球联合
-description: Details for Hades' Star Corporation 地球联合 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

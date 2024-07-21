@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Prometheus
-description: Details for Hades' Star Corporation Prometheus whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

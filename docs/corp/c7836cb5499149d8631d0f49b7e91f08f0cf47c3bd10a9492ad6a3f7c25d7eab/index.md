@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hellfire Club
-description: Details for Hades' Star Corporation Hellfire Club whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

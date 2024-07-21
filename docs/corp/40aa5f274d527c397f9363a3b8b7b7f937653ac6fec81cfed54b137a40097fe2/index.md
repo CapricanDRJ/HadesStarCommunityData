@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Die pösn Purchn
-description: Details for Hades' Star Corporation Die pösn Purchn whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

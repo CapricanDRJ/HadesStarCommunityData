@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BR Gear
-description: Details for Hades' Star Corporation BR Gear whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

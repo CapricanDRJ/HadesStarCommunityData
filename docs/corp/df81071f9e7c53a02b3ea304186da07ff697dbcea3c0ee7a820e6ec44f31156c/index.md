@@ -1,7 +1,7 @@
 ---
 layout: page
 title: L’Amalgame
-description: Details for Hades' Star Corporation L’Amalgame whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

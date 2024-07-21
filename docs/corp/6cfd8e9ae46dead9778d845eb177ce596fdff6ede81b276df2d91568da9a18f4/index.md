@@ -1,7 +1,7 @@
 ---
 layout: page
 title: North Star
-description: Details for Hades' Star Corporation North Star whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

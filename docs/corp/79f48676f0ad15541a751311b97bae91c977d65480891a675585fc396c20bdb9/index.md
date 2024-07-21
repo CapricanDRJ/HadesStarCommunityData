@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 初始之音
-description: Details for Hades' Star Corporation 初始之音 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

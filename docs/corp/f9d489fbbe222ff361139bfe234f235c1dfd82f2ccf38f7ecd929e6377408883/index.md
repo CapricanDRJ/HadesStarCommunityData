@@ -1,7 +1,7 @@
 ---
 layout: page
 title: LANCE
-description: Details for Hades' Star Corporation LANCE whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

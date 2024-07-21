@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 美丽新世界
-description: Details for Hades' Star Corporation 美丽新世界 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

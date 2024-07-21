@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tacitus
-description: Details for Hades' Star Corporation Tacitus whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

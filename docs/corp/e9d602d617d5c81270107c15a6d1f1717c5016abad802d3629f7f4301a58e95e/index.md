@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 元素联邦
-description: Details for Hades' Star Corporation 元素联邦 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

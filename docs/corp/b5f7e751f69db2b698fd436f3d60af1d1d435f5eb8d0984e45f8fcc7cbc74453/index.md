@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 边界\-萌新俱乐部
-description: Details for Hades' Star Corporation 边界\-萌新俱乐部 whitestar history
+title: 边界-萌新俱乐部
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

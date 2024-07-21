@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Scar
-description: Details for Hades' Star Corporation Scar whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

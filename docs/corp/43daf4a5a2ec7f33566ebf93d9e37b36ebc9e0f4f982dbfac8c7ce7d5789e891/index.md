@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Rebellion\!
-description: Details for Hades' Star Corporation Rebellion\! whitestar history
+title: Rebellion!
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

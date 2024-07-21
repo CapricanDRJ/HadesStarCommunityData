@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Слава Украине\!
-description: Details for Hades' Star Corporation Слава Украине\! whitestar history
+title: Слава Украине!
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

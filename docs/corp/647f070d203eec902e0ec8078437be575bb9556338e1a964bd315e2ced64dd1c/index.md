@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 特拉斯丁第二共和国
-description: Details for Hades' Star Corporation 特拉斯丁第二共和国 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

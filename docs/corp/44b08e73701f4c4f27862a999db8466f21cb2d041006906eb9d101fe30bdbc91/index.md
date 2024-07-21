@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ua online
-description: Details for Hades' Star Corporation ua online whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

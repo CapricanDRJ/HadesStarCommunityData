@@ -1,7 +1,7 @@
 ---
 layout: page
 title: UKR Spase
-description: Details for Hades' Star Corporation UKR Spase whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

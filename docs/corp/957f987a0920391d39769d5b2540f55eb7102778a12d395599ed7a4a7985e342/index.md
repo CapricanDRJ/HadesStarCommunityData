@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stellaris
-description: Details for Hades' Star Corporation Stellaris whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

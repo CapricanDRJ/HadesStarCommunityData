@@ -1,7 +1,7 @@
 ---
 layout: page
 title: icell
-description: Details for Hades' Star Corporation icell whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

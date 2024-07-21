@@ -1,7 +1,7 @@
 ---
 layout: page
 title: NAC
-description: Details for Hades' Star Corporation NAC whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

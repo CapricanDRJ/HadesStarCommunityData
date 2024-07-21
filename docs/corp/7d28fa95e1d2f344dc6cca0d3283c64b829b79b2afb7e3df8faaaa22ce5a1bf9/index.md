@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hand Of NOD\! 
-description: Details for Hades' Star Corporation Hand Of NOD\!  whitestar history
+title: Hand Of NOD! 
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

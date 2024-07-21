@@ -1,7 +1,7 @@
 ---
 layout: page
-title: X\-wing
-description: Details for Hades' Star Corporation X\-wing whitestar history
+title: X-wing
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

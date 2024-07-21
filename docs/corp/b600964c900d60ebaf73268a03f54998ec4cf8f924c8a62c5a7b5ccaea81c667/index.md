@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Light Warriors
-description: Details for Hades' Star Corporation Light Warriors whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

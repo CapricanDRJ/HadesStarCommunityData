@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Drużyna B
-description: Details for Hades' Star Corporation Drużyna B whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

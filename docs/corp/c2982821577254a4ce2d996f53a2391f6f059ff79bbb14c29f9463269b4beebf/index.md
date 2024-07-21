@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Curiosity \+ Cat
-description: Details for Hades' Star Corporation Curiosity \+ Cat whitestar history
+title: Curiosity + Cat
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

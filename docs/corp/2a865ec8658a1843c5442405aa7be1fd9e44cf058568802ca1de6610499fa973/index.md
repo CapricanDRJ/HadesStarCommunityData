@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 神仙'
-description: Details for Hades' Star Corporation 神仙' whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dying stars
-description: Details for Hades' Star Corporation Dying stars whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

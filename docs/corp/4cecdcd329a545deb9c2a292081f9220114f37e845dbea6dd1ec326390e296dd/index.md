@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Red Dwarves
-description: Details for Hades' Star Corporation The Red Dwarves whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

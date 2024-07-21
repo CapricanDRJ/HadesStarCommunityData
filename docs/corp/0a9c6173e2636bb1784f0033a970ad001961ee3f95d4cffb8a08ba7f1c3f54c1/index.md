@@ -1,7 +1,7 @@
 ---
 layout: page
 title: STAR EMPIRE 16
-description: Details for Hades' Star Corporation STAR EMPIRE 16 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

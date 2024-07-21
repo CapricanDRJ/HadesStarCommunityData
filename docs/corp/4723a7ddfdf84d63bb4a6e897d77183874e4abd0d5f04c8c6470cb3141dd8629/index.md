@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Red Suns
-description: Details for Hades' Star Corporation Red Suns whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

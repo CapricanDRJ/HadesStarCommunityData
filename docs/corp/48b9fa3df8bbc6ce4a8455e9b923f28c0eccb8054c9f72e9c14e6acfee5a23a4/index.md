@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Glashan
-description: Details for Hades' Star Corporation Glashan whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

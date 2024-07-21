@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 羽共和体
-description: Details for Hades' Star Corporation 羽共和体 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Quantum Jumpers
-description: Details for Hades' Star Corporation Quantum Jumpers whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

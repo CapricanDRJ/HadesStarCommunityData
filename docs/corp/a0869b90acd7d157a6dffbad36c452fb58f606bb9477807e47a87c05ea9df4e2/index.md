@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Freelancer
-description: Details for Hades' Star Corporation Freelancer whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

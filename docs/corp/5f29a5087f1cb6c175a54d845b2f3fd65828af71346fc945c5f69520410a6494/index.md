@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Пабеда
-description: Details for Hades' Star Corporation Пабеда whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

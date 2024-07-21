@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 湖心亭看雪
-description: Details for Hades' Star Corporation 湖心亭看雪 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lacuna Holdings
-description: Details for Hades' Star Corporation Lacuna Holdings whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

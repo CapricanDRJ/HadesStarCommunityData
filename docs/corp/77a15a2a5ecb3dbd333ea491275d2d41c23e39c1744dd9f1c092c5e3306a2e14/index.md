@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Red Noobs
-description: Details for Hades' Star Corporation Red Noobs whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

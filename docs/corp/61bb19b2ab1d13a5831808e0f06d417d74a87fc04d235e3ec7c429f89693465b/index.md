@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Team Elite
-description: Details for Hades' Star Corporation Team Elite whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

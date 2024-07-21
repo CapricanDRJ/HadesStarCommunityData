@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Heavens
-description: Details for Hades' Star Corporation Heavens whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Феникс 
-description: Details for Hades' Star Corporation Феникс  whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

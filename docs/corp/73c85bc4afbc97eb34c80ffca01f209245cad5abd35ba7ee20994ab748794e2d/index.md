@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 666
-description: Details for Hades' Star Corporation 666 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: KARI
-description: Details for Hades' Star Corporation KARI whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

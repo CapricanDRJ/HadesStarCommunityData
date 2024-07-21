@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nearland Ind
-description: Details for Hades' Star Corporation Nearland Ind whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

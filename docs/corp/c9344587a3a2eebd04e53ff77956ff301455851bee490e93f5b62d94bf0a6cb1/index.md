@@ -1,7 +1,7 @@
 ---
 layout: page
-title: \*ПОБЕДА\*
-description: Details for Hades' Star Corporation \*ПОБЕДА\* whitestar history
+title: *ПОБЕДА*
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

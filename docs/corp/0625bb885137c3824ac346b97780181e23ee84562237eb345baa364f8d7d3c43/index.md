@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Moon Catchers
-description: Details for Hades' Star Corporation Moon Catchers whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

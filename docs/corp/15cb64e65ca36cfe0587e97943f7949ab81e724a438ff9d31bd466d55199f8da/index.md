@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Fr\_Corp
-description: Details for Hades' Star Corporation Fr\_Corp whitestar history
+title: Fr_Corp
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: РОДНЫЕ\.
-description: Details for Hades' Star Corporation РОДНЫЕ\. whitestar history
+title: РОДНЫЕ.
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

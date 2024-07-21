@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ₩\.BRASIL\.₩
-description: Details for Hades' Star Corporation ₩\.BRASIL\.₩ whitestar history
+title: ₩.BRASIL.₩
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

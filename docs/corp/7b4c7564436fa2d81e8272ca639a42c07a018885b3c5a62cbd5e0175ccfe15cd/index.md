@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sekolygen ♤
-description: Details for Hades' Star Corporation Sekolygen ♤ whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

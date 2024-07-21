@@ -1,7 +1,7 @@
 ---
 layout: page
 title: OntarioDistrict
-description: Details for Hades' Star Corporation OntarioDistrict whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

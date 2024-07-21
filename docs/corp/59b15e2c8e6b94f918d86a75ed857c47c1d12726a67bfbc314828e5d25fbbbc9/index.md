@@ -1,7 +1,7 @@
 ---
 layout: page
-title: \.\.D\.E\.I\.T\.Co\.\.
-description: Details for Hades' Star Corporation \.\.D\.E\.I\.T\.Co\.\. whitestar history
+title: ..D.E.I.T.Co..
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

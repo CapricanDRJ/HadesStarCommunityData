@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ƭιтαηѕ Ф тєʀʀσƦ
-description: Details for Hades' Star Corporation Ƭιтαηѕ Ф тєʀʀσƦ whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

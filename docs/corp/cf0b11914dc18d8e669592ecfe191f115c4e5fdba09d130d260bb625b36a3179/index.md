@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 四季长春
-description: Details for Hades' Star Corporation 四季长春 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

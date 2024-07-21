@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Providence
-description: Details for Hades' Star Corporation Providence whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

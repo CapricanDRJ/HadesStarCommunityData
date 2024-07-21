@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nova Time
-description: Details for Hades' Star Corporation Nova Time whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

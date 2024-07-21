@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Nexland Ind\.
-description: Details for Hades' Star Corporation Nexland Ind\. whitestar history
+title: Nexland Ind.
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

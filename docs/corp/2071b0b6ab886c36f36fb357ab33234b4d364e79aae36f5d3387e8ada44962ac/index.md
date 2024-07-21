@@ -1,7 +1,7 @@
 ---
 layout: page
 title: korea
-description: Details for Hades' Star Corporation korea whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

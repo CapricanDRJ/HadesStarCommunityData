@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wispered Storm
-description: Details for Hades' Star Corporation Wispered Storm whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

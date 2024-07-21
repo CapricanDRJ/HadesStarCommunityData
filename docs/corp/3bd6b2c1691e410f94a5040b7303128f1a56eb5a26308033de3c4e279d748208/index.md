@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 德意志第三帝国BATA分部
-description: Details for Hades' Star Corporation 德意志第三帝国BATA分部 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: exirium
-description: Details for Hades' Star Corporation exirium whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

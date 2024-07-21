@@ -1,7 +1,7 @@
 ---
 layout: page
-title: RPFD\-DNR\-RWPB
-description: Details for Hades' Star Corporation RPFD\-DNR\-RWPB whitestar history
+title: RPFD-DNR-RWPB
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

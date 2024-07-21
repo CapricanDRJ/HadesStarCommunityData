@@ -1,7 +1,7 @@
 ---
 layout: page
-title: P\!RAT£ SHIP
-description: Details for Hades' Star Corporation P\!RAT£ SHIP whitestar history
+title: P!RAT£ SHIP
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

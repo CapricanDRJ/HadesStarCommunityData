@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Дом Датэ
-description: Details for Hades' Star Corporation Дом Датэ whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

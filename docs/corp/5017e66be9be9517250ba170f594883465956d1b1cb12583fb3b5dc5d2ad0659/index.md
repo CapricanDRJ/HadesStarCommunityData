@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Omega Aboration
-description: Details for Hades' Star Corporation Omega Aboration whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

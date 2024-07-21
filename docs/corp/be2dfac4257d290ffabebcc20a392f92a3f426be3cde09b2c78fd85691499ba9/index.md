@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 暮光之城
-description: Details for Hades' Star Corporation 暮光之城 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

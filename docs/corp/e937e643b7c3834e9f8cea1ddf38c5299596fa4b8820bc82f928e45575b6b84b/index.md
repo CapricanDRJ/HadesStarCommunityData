@@ -1,7 +1,7 @@
 ---
 layout: page
-title: N\.P\.C
-description: Details for Hades' Star Corporation N\.P\.C whitestar history
+title: N.P.C
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

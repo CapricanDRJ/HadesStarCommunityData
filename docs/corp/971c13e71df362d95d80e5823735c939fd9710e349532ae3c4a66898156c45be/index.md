@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Furyans
-description: Details for Hades' Star Corporation Furyans whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

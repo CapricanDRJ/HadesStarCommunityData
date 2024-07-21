@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 万星联盟
-description: Details for Hades' Star Corporation 万星联盟 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

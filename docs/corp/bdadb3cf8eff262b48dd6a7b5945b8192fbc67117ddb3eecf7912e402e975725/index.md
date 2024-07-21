@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Eretria 
-description: Details for Hades' Star Corporation Eretria  whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

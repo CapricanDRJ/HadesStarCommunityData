@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Archangels BR
-description: Details for Hades' Star Corporation Archangels BR whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

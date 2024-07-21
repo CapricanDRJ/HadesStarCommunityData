@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Торг\. федерация
-description: Details for Hades' Star Corporation Торг\. федерация whitestar history
+title: Торг. федерация
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

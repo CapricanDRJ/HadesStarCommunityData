@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 太阳系联邦
-description: Details for Hades' Star Corporation 太阳系联邦 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

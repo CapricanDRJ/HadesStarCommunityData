@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Saiyan Empire
-description: Details for Hades' Star Corporation Saiyan Empire whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

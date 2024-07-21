@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The 501st
-description: Details for Hades' Star Corporation The 501st whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

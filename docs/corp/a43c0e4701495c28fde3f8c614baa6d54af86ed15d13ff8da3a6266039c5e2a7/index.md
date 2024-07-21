@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hades Seminary 
-description: Details for Hades' Star Corporation Hades Seminary  whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

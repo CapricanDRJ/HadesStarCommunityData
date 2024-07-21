@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Soylent Corp\.
-description: Details for Hades' Star Corporation Soylent Corp\. whitestar history
+title: Soylent Corp.
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

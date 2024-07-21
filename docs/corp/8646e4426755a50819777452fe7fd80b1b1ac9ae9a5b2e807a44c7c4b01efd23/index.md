@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 第一序列
-description: Details for Hades' Star Corporation 第一序列 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

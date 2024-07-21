@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Corvus Ind\.
-description: Details for Hades' Star Corporation Corvus Ind\. whitestar history
+title: Corvus Ind.
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

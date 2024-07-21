@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 游徒之家
-description: Details for Hades' Star Corporation 游徒之家 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

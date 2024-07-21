@@ -1,7 +1,7 @@
 ---
 layout: page
 title: EZCO
-description: Details for Hades' Star Corporation EZCO whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

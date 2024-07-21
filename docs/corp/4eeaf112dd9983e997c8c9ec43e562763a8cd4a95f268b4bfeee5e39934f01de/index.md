@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Terranova
-description: Details for Hades' Star Corporation Terranova whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

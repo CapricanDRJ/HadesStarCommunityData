@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Red Alliance
-description: Details for Hades' Star Corporation Red Alliance whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

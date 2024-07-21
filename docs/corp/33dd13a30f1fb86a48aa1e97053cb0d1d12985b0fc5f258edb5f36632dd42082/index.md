@@ -1,7 +1,7 @@
 ---
 layout: page
-title: E\.T\.A
-description: Details for Hades' Star Corporation E\.T\.A whitestar history
+title: E.T.A
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 萌新的收留所
-description: Details for Hades' Star Corporation 萌新的收留所 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

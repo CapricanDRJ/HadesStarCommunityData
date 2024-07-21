@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Z\. O\. V\. 
-description: Details for Hades' Star Corporation Z\. O\. V\.  whitestar history
+title: Z. O. V. 
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

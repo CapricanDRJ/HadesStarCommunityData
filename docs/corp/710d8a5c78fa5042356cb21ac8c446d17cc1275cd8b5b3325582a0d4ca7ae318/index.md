@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SONS OF SUNS
-description: Details for Hades' Star Corporation SONS OF SUNS whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

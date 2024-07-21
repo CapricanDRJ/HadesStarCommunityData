@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Peace Keepers
-description: Details for Hades' Star Corporation Peace Keepers whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

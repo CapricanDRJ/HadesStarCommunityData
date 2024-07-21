@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Север РусКорп
-description: Details for Hades' Star Corporation Север РусКорп whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

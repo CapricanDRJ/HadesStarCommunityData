@@ -1,7 +1,7 @@
 ---
 layout: page
-title: \(\_\(\_Vossk\_\)\_\)
-description: Details for Hades' Star Corporation \(\_\(\_Vossk\_\)\_\) whitestar history
+title: (_(_Vossk_)_)
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

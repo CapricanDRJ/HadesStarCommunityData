@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Frontier X
-description: Details for Hades' Star Corporation Frontier X whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

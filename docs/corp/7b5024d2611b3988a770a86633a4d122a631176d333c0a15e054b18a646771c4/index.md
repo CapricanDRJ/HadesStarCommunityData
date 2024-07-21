@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ⚜NOVA⚜
-description: Details for Hades' Star Corporation ⚜NOVA⚜ whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

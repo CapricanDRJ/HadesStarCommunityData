@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Shrimp City
-description: Details for Hades' Star Corporation Shrimp City whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

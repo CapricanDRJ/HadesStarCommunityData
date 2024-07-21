@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BSO Academy
-description: Details for Hades' Star Corporation BSO Academy whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

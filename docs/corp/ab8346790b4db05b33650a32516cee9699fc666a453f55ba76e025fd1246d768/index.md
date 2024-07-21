@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 愿君仍常在
-description: Details for Hades' Star Corporation 愿君仍常在 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

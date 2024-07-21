@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hungary First
-description: Details for Hades' Star Corporation Hungary First whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

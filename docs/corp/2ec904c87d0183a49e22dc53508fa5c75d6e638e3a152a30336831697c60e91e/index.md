@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Axioma
-description: Details for Hades' Star Corporation Axioma whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

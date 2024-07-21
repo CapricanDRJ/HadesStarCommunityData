@@ -1,7 +1,7 @@
 ---
 layout: page
 title: R2D2
-description: Details for Hades' Star Corporation R2D2 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ANZAC Warriors
-description: Details for Hades' Star Corporation ANZAC Warriors whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

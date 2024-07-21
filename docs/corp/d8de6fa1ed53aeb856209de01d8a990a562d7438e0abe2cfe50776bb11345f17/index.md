@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 拆迁大队
-description: Details for Hades' Star Corporation 拆迁大队 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

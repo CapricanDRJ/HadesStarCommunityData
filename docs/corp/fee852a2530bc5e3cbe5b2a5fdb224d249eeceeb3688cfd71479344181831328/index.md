@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Red Dawn
-description: Details for Hades' Star Corporation Red Dawn whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

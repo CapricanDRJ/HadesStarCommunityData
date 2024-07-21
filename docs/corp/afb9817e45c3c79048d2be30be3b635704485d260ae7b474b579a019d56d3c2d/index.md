@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 宇宙银河帝国
-description: Details for Hades' Star Corporation 宇宙银河帝国 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

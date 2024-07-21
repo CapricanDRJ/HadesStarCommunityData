@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Duchy Kalladan
-description: Details for Hades' Star Corporation Duchy Kalladan whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

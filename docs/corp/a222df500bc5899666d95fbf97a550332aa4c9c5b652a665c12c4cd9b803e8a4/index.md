@@ -1,7 +1,7 @@
 ---
 layout: page
 title: XXX500XXX
-description: Details for Hades' Star Corporation XXX500XXX whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

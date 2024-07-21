@@ -1,7 +1,7 @@
 ---
 layout: page
-title: C\.C Legion
-description: Details for Hades' Star Corporation C\.C Legion whitestar history
+title: C.C Legion
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

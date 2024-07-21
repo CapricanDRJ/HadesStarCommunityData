@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dark Sun
-description: Details for Hades' Star Corporation Dark Sun whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

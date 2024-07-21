@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Likapa
-description: Details for Hades' Star Corporation Likapa whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

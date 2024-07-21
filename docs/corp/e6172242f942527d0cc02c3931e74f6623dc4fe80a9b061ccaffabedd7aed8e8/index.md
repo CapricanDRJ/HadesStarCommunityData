@@ -1,7 +1,7 @@
 ---
 layout: page
-title: F\.E\.I\.
-description: Details for Hades' Star Corporation F\.E\.I\. whitestar history
+title: F.E.I.
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

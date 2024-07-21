@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Imperium of man
-description: Details for Hades' Star Corporation Imperium of man whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

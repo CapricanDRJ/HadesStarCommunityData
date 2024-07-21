@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Belters
-description: Details for Hades' Star Corporation Belters whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

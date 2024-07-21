@@ -1,7 +1,7 @@
 ---
 layout: page
 title: DeutschlandGmbH
-description: Details for Hades' Star Corporation DeutschlandGmbH whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

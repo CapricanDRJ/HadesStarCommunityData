@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 黑色长城
-description: Details for Hades' Star Corporation 黑色长城 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Angel Dragon
-description: Details for Hades' Star Corporation Angel Dragon whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

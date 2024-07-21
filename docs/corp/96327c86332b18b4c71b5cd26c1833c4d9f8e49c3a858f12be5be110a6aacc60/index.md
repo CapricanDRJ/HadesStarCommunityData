@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cell Division
-description: Details for Hades' Star Corporation Cell Division whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lofty Mountain
-description: Details for Hades' Star Corporation Lofty Mountain whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

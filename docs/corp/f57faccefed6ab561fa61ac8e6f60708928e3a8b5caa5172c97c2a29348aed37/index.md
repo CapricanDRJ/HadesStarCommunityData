@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 公共星际集团
-description: Details for Hades' Star Corporation 公共星际集团 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Free Ag3nts
-description: Details for Hades' Star Corporation Free Ag3nts whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

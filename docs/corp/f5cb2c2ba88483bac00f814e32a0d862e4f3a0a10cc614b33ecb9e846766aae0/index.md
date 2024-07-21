@@ -1,7 +1,7 @@
 ---
 layout: page
 title: We R Bad
-description: Details for Hades' Star Corporation We R Bad whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

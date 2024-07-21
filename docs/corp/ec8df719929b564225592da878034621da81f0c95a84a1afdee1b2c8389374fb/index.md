@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Krasse Bros
-description: Details for Hades' Star Corporation Krasse Bros whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

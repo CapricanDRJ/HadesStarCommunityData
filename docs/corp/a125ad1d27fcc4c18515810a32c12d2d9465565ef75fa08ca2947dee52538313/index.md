@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Rocket\-by Baby
-description: Details for Hades' Star Corporation Rocket\-by Baby whitestar history
+title: Rocket-by Baby
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

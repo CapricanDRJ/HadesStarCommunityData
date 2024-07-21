@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Держава Русь
-description: Details for Hades' Star Corporation Держава Русь whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

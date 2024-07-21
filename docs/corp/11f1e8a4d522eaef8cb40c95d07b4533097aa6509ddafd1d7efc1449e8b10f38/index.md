@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SternenStaub
-description: Details for Hades' Star Corporation SternenStaub whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Чистое Небо
-description: Details for Hades' Star Corporation Чистое Небо whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

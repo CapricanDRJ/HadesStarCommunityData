@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 神圣罗马帝国
-description: Details for Hades' Star Corporation 神圣罗马帝国 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

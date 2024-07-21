@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Quin Armarda 2
-description: Details for Hades' Star Corporation Quin Armarda 2 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

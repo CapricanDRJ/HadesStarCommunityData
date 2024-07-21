@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wacky Wabbits
-description: Details for Hades' Star Corporation Wacky Wabbits whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

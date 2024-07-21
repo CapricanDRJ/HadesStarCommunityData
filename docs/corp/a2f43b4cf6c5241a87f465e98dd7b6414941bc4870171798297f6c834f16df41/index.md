@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Jesus Followers
-description: Details for Hades' Star Corporation Jesus Followers whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

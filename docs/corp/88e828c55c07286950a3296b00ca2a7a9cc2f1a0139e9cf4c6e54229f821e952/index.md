@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 使命白星
-description: Details for Hades' Star Corporation 使命白星 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hinterm Mars
-description: Details for Hades' Star Corporation Hinterm Mars whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

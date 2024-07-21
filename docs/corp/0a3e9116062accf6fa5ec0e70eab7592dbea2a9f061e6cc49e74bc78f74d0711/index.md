@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Justice Vengers
-description: Details for Hades' Star Corporation Justice Vengers whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

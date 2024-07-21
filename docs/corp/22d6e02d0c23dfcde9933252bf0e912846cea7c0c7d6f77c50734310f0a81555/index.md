@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Atlas SLV\-1
-description: Details for Hades' Star Corporation Atlas SLV\-1 whitestar history
+title: Atlas SLV-1
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

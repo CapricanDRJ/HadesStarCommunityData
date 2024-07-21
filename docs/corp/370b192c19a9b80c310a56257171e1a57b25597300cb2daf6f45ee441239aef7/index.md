@@ -1,7 +1,7 @@
 ---
 layout: page
-title: W\.O\.A
-description: Details for Hades' Star Corporation W\.O\.A whitestar history
+title: W.O.A
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

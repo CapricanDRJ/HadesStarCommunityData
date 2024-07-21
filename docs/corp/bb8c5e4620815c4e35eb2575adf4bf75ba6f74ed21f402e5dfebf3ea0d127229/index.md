@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dadsw/Daughterz
-description: Details for Hades' Star Corporation Dadsw/Daughterz whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

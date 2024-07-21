@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 以太超星团
-description: Details for Hades' Star Corporation 以太超星团 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

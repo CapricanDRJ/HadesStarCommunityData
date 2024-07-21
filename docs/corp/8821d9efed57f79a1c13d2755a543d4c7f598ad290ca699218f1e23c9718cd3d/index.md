@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 小红色太阳
-description: Details for Hades' Star Corporation 小红色太阳 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

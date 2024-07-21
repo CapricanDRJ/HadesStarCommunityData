@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stella☆Glow
-description: Details for Hades' Star Corporation Stella☆Glow whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

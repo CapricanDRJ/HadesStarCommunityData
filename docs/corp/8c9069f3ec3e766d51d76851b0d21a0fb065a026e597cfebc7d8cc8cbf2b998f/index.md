@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TheBasics
-description: Details for Hades' Star Corporation TheBasics whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

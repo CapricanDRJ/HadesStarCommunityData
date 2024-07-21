@@ -1,7 +1,7 @@
 ---
 layout: page
 title: СвятыеНегодники
-description: Details for Hades' Star Corporation СвятыеНегодники whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

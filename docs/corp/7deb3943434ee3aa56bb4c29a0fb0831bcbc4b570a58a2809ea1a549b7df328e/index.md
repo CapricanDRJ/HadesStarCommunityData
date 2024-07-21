@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sith Empire
-description: Details for Hades' Star Corporation Sith Empire whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

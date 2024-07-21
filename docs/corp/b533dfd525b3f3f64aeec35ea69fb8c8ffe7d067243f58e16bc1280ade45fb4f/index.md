@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Star Dust
-description: Details for Hades' Star Corporation Star Dust whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 星河绮梦
-description: Details for Hades' Star Corporation 星河绮梦 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

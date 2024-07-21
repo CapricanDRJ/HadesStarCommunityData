@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Phoenix Squad
-description: Details for Hades' Star Corporation Phoenix Squad whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

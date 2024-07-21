@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 六大天神\.轻歌之影
-description: Details for Hades' Star Corporation 六大天神\.轻歌之影 whitestar history
+title: 六大天神.轻歌之影
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

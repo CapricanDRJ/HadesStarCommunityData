@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RedStar Raiding
-description: Details for Hades' Star Corporation RedStar Raiding whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

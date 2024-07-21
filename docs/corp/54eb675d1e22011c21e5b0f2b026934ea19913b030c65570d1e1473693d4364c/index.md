@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 墨痕空域
-description: Details for Hades' Star Corporation 墨痕空域 whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

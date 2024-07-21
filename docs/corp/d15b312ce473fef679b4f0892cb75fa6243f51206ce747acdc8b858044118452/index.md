@@ -1,7 +1,7 @@
 ---
 layout: page
 title: La NoChE NeGrA
-description: Details for Hades' Star Corporation La NoChE NeGrA whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

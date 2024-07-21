@@ -1,7 +1,7 @@
 ---
 layout: page
 title: STAR TERROR CZ
-description: Details for Hades' Star Corporation STAR TERROR CZ whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

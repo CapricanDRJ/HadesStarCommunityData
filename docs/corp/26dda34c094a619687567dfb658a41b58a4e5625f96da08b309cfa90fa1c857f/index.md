@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Anomaly
-description: Details for Hades' Star Corporation Anomaly whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

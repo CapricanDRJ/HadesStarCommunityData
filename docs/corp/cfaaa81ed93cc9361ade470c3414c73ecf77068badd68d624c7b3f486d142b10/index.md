@@ -1,7 +1,7 @@
 ---
 layout: page
 title: StellaMysterium
-description: Details for Hades' Star Corporation StellaMysterium whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

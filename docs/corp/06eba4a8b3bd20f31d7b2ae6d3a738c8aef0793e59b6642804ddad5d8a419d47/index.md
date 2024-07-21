@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Time Lords
-description: Details for Hades' Star Corporation Time Lords whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

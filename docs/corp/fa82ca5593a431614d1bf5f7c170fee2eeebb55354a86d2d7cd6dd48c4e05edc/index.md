@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Battlestar Fr
-description: Details for Hades' Star Corporation Battlestar Fr whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

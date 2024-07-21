@@ -1,7 +1,7 @@
 ---
 layout: page
-title: cyber\_dream
-description: Details for Hades' Star Corporation cyber\_dream whitestar history
+title: cyber_dream
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |

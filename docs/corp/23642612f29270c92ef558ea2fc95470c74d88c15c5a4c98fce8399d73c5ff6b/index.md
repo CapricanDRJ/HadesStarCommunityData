@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GoS Academy
-description: Details for Hades' Star Corporation GoS Academy whitestar history
+description: Hades' Star corporation whitestar records and stats
 ---
 
 | Statistic | Value |
