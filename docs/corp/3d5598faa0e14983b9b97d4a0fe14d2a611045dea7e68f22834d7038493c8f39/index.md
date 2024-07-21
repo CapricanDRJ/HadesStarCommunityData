@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Orion
+description: Details for Hades' Star Corporation Orion whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1273 🔻  (154)|
+| ELO Regular | 1273 🔻  (155)|
 | ELO Competitive | 1300 🔻  (202)|
 | Total Matches | 16 |
 | Wins | 12 |

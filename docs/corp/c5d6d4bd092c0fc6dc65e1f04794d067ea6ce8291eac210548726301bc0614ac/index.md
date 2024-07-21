@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Dritte Macht
+description: Details for Hades' Star Corporation Dritte Macht whitestar history
 ---
 
 | Statistic | Value |

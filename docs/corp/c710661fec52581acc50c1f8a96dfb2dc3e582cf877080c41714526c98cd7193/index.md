@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Eternal empire 
+description: Details for Hades' Star Corporation Eternal empire  whitestar history
 ---
 
 | Statistic | Value |

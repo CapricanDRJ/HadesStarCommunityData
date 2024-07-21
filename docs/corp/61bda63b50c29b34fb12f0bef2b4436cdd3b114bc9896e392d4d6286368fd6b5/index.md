@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The Hexagonix
+description: Details for Hades' Star Corporation The Hexagonix whitestar history
 ---
 
 | Statistic | Value |

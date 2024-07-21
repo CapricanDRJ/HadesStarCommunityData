@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 萌新收留所（目标门集团）
+description: Details for Hades' Star Corporation 萌新收留所（目标门集团） whitestar history
 ---
 
 | Statistic | Value |

@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Scar
+description: Details for Hades' Star Corporation Scar whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1309 🔺  (109)|
-| ELO Competitive | 1345 🔺  (133)|
+| ELO Competitive | 1345 🔺  (135)|
 | Total Matches | 41 |
 | Wins | 24 |
 | Losses | 16 |

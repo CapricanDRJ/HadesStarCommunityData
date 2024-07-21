@@ -1,12 +1,13 @@
 ---
 layout: page
 title: 九州分团
+description: Details for Hades' Star Corporation 九州分团 whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1245 🔻  (225)|
-| ELO Competitive | 1333 🔻  (148)|
+| ELO Competitive | 1333 🔻  (149)|
 | Total Matches | 65 |
 | Wins | 27 |
 | Losses | 36 |

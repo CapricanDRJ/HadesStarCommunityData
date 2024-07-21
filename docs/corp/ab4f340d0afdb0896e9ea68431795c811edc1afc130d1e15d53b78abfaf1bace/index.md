@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Страж Галактики
+description: Details for Hades' Star Corporation Страж Галактики whitestar history
 ---
 
 | Statistic | Value |

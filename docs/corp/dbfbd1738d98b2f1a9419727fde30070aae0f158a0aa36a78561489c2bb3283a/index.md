@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Green Dwarf
+description: Details for Hades' Star Corporation Green Dwarf whitestar history
 ---
 
 | Statistic | Value |

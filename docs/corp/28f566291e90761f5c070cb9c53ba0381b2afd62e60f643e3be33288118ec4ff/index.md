@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Astra Ultima
+description: Details for Hades' Star Corporation Astra Ultima whitestar history
 ---
 
 | Statistic | Value |

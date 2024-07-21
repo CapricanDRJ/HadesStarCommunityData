@@ -1,11 +1,12 @@
 ---
 layout: page
 title: 元素联邦
+description: Details for Hades' Star Corporation 元素联邦 whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1365 🔺  (53)|
+| ELO Regular | 1365 🔺  (52)|
 | ELO Competitive | 1396 🔺  (82)|
 | Total Matches | 36 |
 | Wins | 23 |

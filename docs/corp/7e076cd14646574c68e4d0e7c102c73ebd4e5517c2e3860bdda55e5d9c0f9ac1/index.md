@@ -1,6 +1,7 @@
 ---
 layout: page
-title: СОЮЗ-2
+title: СОЮЗ\-2
+description: Details for Hades' Star Corporation СОЮЗ\-2 whitestar history
 ---
 
 | Statistic | Value |

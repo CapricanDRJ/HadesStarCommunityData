@@ -1,6 +1,7 @@
 ---
 layout: page
-title: 42 Nova Corps.
+title: 42 Nova Corps\.
+description: Details for Hades' Star Corporation 42 Nova Corps\. whitestar history
 ---
 
 | Statistic | Value |

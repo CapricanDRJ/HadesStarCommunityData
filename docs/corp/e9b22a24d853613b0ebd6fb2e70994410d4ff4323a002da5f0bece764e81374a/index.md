@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Revelation
+description: Details for Hades' Star Corporation Revelation whitestar history
 ---
 
 | Statistic | Value |

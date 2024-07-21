@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Snack Empire
+description: Details for Hades' Star Corporation Snack Empire whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Goblin Squad
+description: Details for Hades' Star Corporation Goblin Squad whitestar history
 ---
 
 | Statistic | Value |

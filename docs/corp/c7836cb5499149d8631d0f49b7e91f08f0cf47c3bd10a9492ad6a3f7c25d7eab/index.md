@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Hellfire Club
+description: Details for Hades' Star Corporation Hellfire Club whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1239 🔺  (247)|
-| ELO Competitive | 1324 🔺  (165)|
+| ELO Competitive | 1324 🔺  (166)|
 | Total Matches | 52 |
 | Wins | 29 |
 | Losses | 23 |

@@ -1,11 +1,12 @@
 ---
 layout: page
 title: 苏维埃联邦
+description: Details for Hades' Star Corporation 苏维埃联邦 whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1048 🔻  (1145)|
+| ELO Regular | 1048 🔻  (1144)|
 | ELO Competitive | 1048 🔻  (1168)|
 | Total Matches | 16 |
 | Wins | 0 |

@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Novana Gaming
+description: Details for Hades' Star Corporation Novana Gaming whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1200 🔻  (435)|
-| ELO Competitive | 1204 🔻  (501)|
+| ELO Competitive | 1204 🔻  (500)|
 | Total Matches | 4 |
 | Wins | 2 |
 | Losses | 2 |

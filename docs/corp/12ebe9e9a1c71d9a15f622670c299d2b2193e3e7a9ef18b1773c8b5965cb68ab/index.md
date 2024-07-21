@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The Goonies
+description: Details for Hades' Star Corporation The Goonies whitestar history
 ---
 
 | Statistic | Value |

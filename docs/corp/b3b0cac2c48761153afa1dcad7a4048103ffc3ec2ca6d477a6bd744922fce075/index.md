@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Медведи
+description: Details for Hades' Star Corporation Медведи whitestar history
 ---
 
 | Statistic | Value |

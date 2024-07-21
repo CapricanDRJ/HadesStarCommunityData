@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Nebula
+description: Details for Hades' Star Corporation Nebula whitestar history
 ---
 
 | Statistic | Value |

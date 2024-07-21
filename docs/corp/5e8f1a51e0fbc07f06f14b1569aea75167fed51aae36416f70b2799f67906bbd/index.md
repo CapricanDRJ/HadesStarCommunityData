@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Fishy Business 
+description: Details for Hades' Star Corporation Fishy Business  whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1201 🔻  (425)|
-| ELO Competitive | 1201 🔻  (518)|
+| ELO Competitive | 1201 🔻  (517)|
 | Total Matches | 2 |
 | Wins | 1 |
 | Losses | 1 |

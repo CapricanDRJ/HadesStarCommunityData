@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Interstellar
+description: Details for Hades' Star Corporation Interstellar whitestar history
 ---
 
 | Statistic | Value |

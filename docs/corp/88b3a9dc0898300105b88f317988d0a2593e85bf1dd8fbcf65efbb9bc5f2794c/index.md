@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Dark Rangers
+description: Details for Hades' Star Corporation Dark Rangers whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Got Nothing
+description: Details for Hades' Star Corporation Got Nothing whitestar history
 ---
 
 | Statistic | Value |

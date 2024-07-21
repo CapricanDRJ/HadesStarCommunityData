@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Decode
+description: Details for Hades' Star Corporation Decode whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1255 🔻  (198)|
+| ELO Regular | 1255 🔻  (199)|
 | ELO Competitive | 1387 🔻  (92)|
 | Total Matches | 54 |
 | Wins | 36 |

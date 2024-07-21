@@ -1,6 +1,7 @@
 ---
 layout: page
 title: space port
+description: Details for Hades' Star Corporation space port whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: REFOUNDATION 
+description: Details for Hades' Star Corporation REFOUNDATION  whitestar history
 ---
 
 | Statistic | Value |

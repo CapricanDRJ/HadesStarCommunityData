@@ -1,6 +1,7 @@
 ---
 layout: page
 title: West Worlders
+description: Details for Hades' Star Corporation West Worlders whitestar history
 ---
 
 | Statistic | Value |

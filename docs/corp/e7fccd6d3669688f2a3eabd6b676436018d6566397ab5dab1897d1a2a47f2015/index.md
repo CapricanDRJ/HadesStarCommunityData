@@ -1,12 +1,13 @@
 ---
 layout: page
 title: UKR Spase
+description: Details for Hades' Star Corporation UKR Spase whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1317 🔻  (97)|
-| ELO Competitive | 1340 🔻  (136)|
+| ELO Competitive | 1340 🔻  (138)|
 | Total Matches | 21 |
 | Wins | 15 |
 | Losses | 6 |

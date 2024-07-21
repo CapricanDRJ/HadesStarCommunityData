@@ -1,6 +1,7 @@
 ---
 layout: page
-title: U.P.E
+title: U\.P\.E
+description: Details for Hades' Star Corporation U\.P\.E whitestar history
 ---
 
 | Statistic | Value |

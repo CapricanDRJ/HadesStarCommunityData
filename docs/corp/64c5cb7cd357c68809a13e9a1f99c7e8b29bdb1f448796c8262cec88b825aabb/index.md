@@ -1,12 +1,13 @@
 ---
 layout: page
-title: РОДНЫЕ.
+title: РОДНЫЕ\.
+description: Details for Hades' Star Corporation РОДНЫЕ\. whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1199 🔻  (460)|
-| ELO Competitive | 1205 🔻  (496)|
+| ELO Competitive | 1205 🔻  (495)|
 | Total Matches | 9 |
 | Wins | 4 |
 | Losses | 5 |

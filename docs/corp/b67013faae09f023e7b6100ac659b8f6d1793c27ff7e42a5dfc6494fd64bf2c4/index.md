@@ -1,12 +1,13 @@
 ---
 layout: page
 title: 德意志阿尔法帝国
+description: Details for Hades' Star Corporation 德意志阿尔法帝国 whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1203 🔻  (415)|
-| ELO Competitive | 1204 🔻  (502)|
+| ELO Competitive | 1204 🔻  (501)|
 | Total Matches | 2 |
 | Wins | 1 |
 | Losses | 1 |

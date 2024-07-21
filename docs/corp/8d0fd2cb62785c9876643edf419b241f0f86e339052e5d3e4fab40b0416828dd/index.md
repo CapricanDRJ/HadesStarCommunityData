@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Splendid
+description: Details for Hades' Star Corporation Splendid whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Млечный путь
+description: Details for Hades' Star Corporation Млечный путь whitestar history
 ---
 
 | Statistic | Value |

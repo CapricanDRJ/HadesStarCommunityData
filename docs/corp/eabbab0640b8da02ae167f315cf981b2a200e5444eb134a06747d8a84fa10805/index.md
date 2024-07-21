@@ -1,12 +1,13 @@
 ---
 layout: page
 title: SQPT
+description: Details for Hades' Star Corporation SQPT whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1196 🔻  (478)|
-| ELO Competitive | 1329 🔻  (157)|
+| ELO Competitive | 1329 🔻  (158)|
 | Total Matches | 61 |
 | Wins | 29 |
 | Losses | 32 |

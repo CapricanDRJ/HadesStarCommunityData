@@ -1,6 +1,7 @@
 ---
 layout: page
 title: You Win
+description: Details for Hades' Star Corporation You Win whitestar history
 ---
 
 | Statistic | Value |

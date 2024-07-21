@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Krasse Bros
+description: Details for Hades' Star Corporation Krasse Bros whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1256 🔺  (191)|
+| ELO Regular | 1256 🔺  (192)|
 | ELO Competitive | 1259 🔺  (283)|
 | Total Matches | 6 |
 | Wins | 5 |

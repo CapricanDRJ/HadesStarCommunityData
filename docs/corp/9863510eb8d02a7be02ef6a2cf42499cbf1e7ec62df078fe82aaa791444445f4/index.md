@@ -1,12 +1,13 @@
 ---
 layout: page
 title: КМБ
+description: Details for Hades' Star Corporation КМБ whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1205 🔻  (411)|
-| ELO Competitive | 1208 🔻  (490)|
+| ELO Competitive | 1208 🔻  (489)|
 | Total Matches | 11 |
 | Wins | 5 |
 | Losses | 6 |

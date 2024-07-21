@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Alfa Reach
+description: Details for Hades' Star Corporation Alfa Reach whitestar history
 ---
 
 | Statistic | Value |

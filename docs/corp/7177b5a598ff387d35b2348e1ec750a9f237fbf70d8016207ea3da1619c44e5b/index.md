@@ -1,6 +1,7 @@
 ---
 layout: page
 title: death squadron 
+description: Details for Hades' Star Corporation death squadron  whitestar history
 ---
 
 | Statistic | Value |

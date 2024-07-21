@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Marvel
+description: Details for Hades' Star Corporation Marvel whitestar history
 ---
 
 | Statistic | Value |

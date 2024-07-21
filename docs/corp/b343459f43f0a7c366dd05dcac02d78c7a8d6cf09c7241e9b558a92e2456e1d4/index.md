@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Death Flight
+description: Details for Hades' Star Corporation Death Flight whitestar history
 ---
 
 | Statistic | Value |

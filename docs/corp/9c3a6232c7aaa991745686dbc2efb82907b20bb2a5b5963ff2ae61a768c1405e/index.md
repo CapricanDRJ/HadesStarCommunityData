@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Death Flight 1.
+title: Death Flight 1\.
+description: Details for Hades' Star Corporation Death Flight 1\. whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (780)|
+| ELO Regular | 1176 🔻  (781)|
 | ELO Competitive | 1177 🔻  (865)|
 | Total Matches | 2 |
 | Wins | 0 |

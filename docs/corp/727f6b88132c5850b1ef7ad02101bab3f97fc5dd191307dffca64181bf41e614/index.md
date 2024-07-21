@@ -1,6 +1,7 @@
 ---
 layout: page
 title: STRVS233～
+description: Details for Hades' Star Corporation STRVS233～ whitestar history
 ---
 
 | Statistic | Value |

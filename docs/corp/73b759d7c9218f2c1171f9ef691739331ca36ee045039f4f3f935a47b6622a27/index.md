@@ -1,12 +1,13 @@
 ---
 layout: page
 title: AAAA
+description: Details for Hades' Star Corporation AAAA whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1180 🔺  (760)|
-| ELO Competitive | 1203 🔺  (506)|
+| ELO Regular | 1180 🔺  (761)|
+| ELO Competitive | 1203 🔺  (505)|
 | Total Matches | 6 |
 | Wins | 2 |
 | Losses | 4 |

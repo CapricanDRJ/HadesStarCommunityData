@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Lacuna X
+description: Details for Hades' Star Corporation Lacuna X whitestar history
 ---
 
 | Statistic | Value |

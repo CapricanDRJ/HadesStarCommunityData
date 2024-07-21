@@ -1,6 +1,7 @@
 ---
 layout: page
 title: WFOS
+description: Details for Hades' Star Corporation WFOS whitestar history
 ---
 
 | Statistic | Value |

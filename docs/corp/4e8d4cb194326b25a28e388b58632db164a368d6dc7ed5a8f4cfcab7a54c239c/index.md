@@ -1,15 +1,16 @@
 ---
 layout: page
 title: Тихий Омут
+description: Details for Hades' Star Corporation Тихий Омут whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1034 🔻  (1150)|
-| ELO Competitive | 1209 🔺  (486)|
-| Total Matches | 50 |
+| ELO Regular | 1025 🔻  (1154)|
+| ELO Competitive | 1199 🔻  (548)|
+| Total Matches | 51 |
 | Wins | 9 |
-| Losses | 40 |
+| Losses | 41 |
 | Draws | 1 |
 | Streak Record | 2 |
 
@@ -28,6 +29,7 @@ title: Тихий Омут
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/20 | 0-9 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
 | ❌ | 2024/07/15 | 2-10 | [Hades' 420](https://ws.tsl.rocks/corp/e83b8d576f0efe37e0cdc115b709de051fc57c51a2183f4cb399421766660a73/) |
 | ✅ | 2024/07/15 | 3-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
 | ✅ | 2024/07/10 | 5-0 | [11th Engineers](https://ws.tsl.rocks/corp/7341e9a33a1baf2162870c795632dcd551d3c624b06456dac041fa049ba67a9a/) |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 銀河戰狼
+description: Details for Hades' Star Corporation 銀河戰狼 whitestar history
 ---
 
 | Statistic | Value |

@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Castellón 
+description: Details for Hades' Star Corporation Castellón  whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1201 🔻  (427)|
-| ELO Competitive | 1203 🔻  (503)|
+| ELO Competitive | 1203 🔻  (502)|
 | Total Matches | 3 |
 | Wins | 1 |
 | Losses | 1 |

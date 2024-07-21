@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The Gladiators
+description: Details for Hades' Star Corporation The Gladiators whitestar history
 ---
 
 | Statistic | Value |

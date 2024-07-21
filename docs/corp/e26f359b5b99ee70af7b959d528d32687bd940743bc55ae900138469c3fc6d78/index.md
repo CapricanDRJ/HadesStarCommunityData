@@ -1,6 +1,7 @@
 ---
 layout: page
 title: UniversalCaos
+description: Details for Hades' Star Corporation UniversalCaos whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: MiniStarRaiders
+description: Details for Hades' Star Corporation MiniStarRaiders whitestar history
 ---
 
 | Statistic | Value |

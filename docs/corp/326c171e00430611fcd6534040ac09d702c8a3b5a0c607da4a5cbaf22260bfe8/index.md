@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The Mini Elite
+description: Details for Hades' Star Corporation The Mini Elite whitestar history
 ---
 
 | Statistic | Value |

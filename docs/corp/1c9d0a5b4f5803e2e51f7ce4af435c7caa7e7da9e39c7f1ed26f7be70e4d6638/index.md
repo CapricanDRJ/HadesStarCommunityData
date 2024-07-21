@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Sterling Gamers
+description: Details for Hades' Star Corporation Sterling Gamers whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1201 🔻  (424)|
-| ELO Competitive | 1201 🔻  (516)|
+| ELO Competitive | 1201 🔻  (515)|
 | Total Matches | 2 |
 | Wins | 1 |
 | Losses | 1 |

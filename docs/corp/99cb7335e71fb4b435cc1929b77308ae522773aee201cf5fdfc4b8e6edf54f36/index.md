@@ -1,6 +1,7 @@
 ---
 layout: page
 title: TITANS
+description: Details for Hades' Star Corporation TITANS whitestar history
 ---
 
 | Statistic | Value |

@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Феникс 
+description: Details for Hades' Star Corporation Феникс  whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1201 🔻  (431)|
-| ELO Competitive | 1201 🔻  (526)|
+| ELO Competitive | 1201 🔻  (525)|
 | Total Matches | 2 |
 | Wins | 1 |
 | Losses | 1 |

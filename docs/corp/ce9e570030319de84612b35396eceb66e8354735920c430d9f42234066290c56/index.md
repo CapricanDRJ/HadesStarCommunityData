@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Canada 55
+description: Details for Hades' Star Corporation Canada 55 whitestar history
 ---
 
 | Statistic | Value |

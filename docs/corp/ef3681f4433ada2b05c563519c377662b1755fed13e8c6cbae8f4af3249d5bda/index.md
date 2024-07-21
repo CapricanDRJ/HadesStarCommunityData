@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Starlancer
+description: Details for Hades' Star Corporation Starlancer whitestar history
 ---
 
 | Statistic | Value |

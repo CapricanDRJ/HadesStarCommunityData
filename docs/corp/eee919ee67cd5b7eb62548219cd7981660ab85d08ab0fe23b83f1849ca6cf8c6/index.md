@@ -1,12 +1,13 @@
 ---
 layout: page
-title: On en a Gros ! 
+title: On en a Gros \! 
+description: Details for Hades' Star Corporation On en a Gros \!  whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1196 🔻  (477)|
-| ELO Competitive | 1325 🔻  (163)|
+| ELO Competitive | 1325 🔻  (164)|
 | Total Matches | 47 |
 | Wins | 23 |
 | Losses | 24 |

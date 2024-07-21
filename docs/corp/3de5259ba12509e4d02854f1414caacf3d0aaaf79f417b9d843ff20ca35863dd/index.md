@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Atlas Star llc.
+title: Atlas Star llc\.
+description: Details for Hades' Star Corporation Atlas Star llc\. whitestar history
 ---
 
 | Statistic | Value |

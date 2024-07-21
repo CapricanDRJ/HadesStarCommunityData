@@ -1,6 +1,7 @@
 ---
 layout: page
 title: VALHALLA
+description: Details for Hades' Star Corporation VALHALLA whitestar history
 ---
 
 | Statistic | Value |

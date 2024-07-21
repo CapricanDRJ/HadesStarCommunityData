@@ -1,11 +1,12 @@
 ---
 layout: page
 title: BSO Academy
+description: Details for Hades' Star Corporation BSO Academy whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1355 🔺  (61)|
+| ELO Regular | 1355 🔺  (60)|
 | ELO Competitive | 1369 🔺  (105)|
 | Total Matches | 15 |
 | Wins | 14 |

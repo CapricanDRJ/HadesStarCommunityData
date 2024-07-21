@@ -1,6 +1,7 @@
 ---
 layout: page
-title: U.I.H
+title: U\.I\.H
+description: Details for Hades' Star Corporation U\.I\.H whitestar history
 ---
 
 | Statistic | Value |

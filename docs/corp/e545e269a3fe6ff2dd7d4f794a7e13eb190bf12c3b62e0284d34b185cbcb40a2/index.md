@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Rozen Family
+description: Details for Hades' Star Corporation Rozen Family whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: StarFun
+description: Details for Hades' Star Corporation StarFun whitestar history
 ---
 
 | Statistic | Value |

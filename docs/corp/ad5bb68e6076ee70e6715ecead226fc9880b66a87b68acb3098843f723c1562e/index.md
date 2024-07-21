@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Game of Stars
+description: Details for Hades' Star Corporation Game of Stars whitestar history
 ---
 
 | Statistic | Value |

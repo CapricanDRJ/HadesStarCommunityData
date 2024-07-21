@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Dark Training
+description: Details for Hades' Star Corporation Dark Training whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Cyber Star
+description: Details for Hades' Star Corporation Cyber Star whitestar history
 ---
 
 | Statistic | Value |

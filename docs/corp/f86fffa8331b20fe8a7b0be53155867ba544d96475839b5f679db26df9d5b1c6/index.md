@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Sith Academy
+description: Details for Hades' Star Corporation Sith Academy whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (814)|
+| ELO Regular | 1173 🔻  (815)|
 | ELO Competitive | 1180 🔻  (850)|
 | Total Matches | 2 |
 | Wins | 0 |

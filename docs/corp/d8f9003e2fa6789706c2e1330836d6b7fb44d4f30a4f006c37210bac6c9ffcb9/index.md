@@ -1,12 +1,13 @@
 ---
 layout: page
 title: русский клан 
+description: Details for Hades' Star Corporation русский клан  whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1202 🔻  (420)|
-| ELO Competitive | 1202 🔻  (512)|
+| ELO Competitive | 1202 🔻  (511)|
 | Total Matches | 2 |
 | Wins | 1 |
 | Losses | 1 |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Space Rangers
+description: Details for Hades' Star Corporation Space Rangers whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Killer Bees.
+title: Killer Bees\.
+description: Details for Hades' Star Corporation Killer Bees\. whitestar history
 ---
 
 | Statistic | Value |

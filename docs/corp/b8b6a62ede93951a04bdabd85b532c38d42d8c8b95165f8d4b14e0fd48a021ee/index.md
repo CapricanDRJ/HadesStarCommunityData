@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Hermitage
+description: Details for Hades' Star Corporation Hermitage whitestar history
 ---
 
 | Statistic | Value |

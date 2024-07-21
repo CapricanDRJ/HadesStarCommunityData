@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 龙门训练营
+description: Details for Hades' Star Corporation 龙门训练营 whitestar history
 ---
 
 | Statistic | Value |

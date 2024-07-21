@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Bloodtide
+description: Details for Hades' Star Corporation Bloodtide whitestar history
 ---
 
 | Statistic | Value |

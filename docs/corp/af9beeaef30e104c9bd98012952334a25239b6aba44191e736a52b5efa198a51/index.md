@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The Fracture
+description: Details for Hades' Star Corporation The Fracture whitestar history
 ---
 
 | Statistic | Value |

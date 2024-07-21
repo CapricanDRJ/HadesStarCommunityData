@@ -1,11 +1,12 @@
 ---
 layout: page
 title: DeutschlandGmbH
+description: Details for Hades' Star Corporation DeutschlandGmbH whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔺  (820)|
+| ELO Regular | 1173 🔺  (821)|
 | ELO Competitive | 1173 🔺  (906)|
 | Total Matches | 4 |
 | Wins | 1 |

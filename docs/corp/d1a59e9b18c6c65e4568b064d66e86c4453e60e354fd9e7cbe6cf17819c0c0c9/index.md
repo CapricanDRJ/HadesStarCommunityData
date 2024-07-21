@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Octoberpierynm
+description: Details for Hades' Star Corporation Octoberpierynm whitestar history
 ---
 
 | Statistic | Value |

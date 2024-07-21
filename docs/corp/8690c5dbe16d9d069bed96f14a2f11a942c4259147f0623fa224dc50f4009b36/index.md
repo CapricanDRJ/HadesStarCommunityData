@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Кулак
+description: Details for Hades' Star Corporation Кулак whitestar history
 ---
 
 | Statistic | Value |

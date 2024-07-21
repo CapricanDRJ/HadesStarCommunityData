@@ -1,6 +1,7 @@
 ---
 layout: page
 title: GALACTIC EMPIRE
+description: Details for Hades' Star Corporation GALACTIC EMPIRE whitestar history
 ---
 
 | Statistic | Value |

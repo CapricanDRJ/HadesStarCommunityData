@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Red Dwarf
+description: Details for Hades' Star Corporation Red Dwarf whitestar history
 ---
 
 | Statistic | Value |

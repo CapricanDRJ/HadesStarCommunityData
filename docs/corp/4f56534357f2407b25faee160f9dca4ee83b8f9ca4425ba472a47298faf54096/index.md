@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Z. O. V. 
+title: Z\. O\. V\. 
+description: Details for Hades' Star Corporation Z\. O\. V\.  whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1346 🔺  (65)|
+| ELO Regular | 1346 🔺  (64)|
 | ELO Competitive | 1392 🔺  (87)|
 | Total Matches | 22 |
 | Wins | 17 |

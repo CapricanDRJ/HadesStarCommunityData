@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Galaktika corp
+description: Details for Hades' Star Corporation Galaktika corp whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1306 🔻  (113)|
-| ELO Competitive | 1327 🔻  (159)|
+| ELO Competitive | 1327 🔻  (160)|
 | Total Matches | 20 |
 | Wins | 14 |
 | Losses | 4 |

@@ -1,11 +1,12 @@
 ---
 layout: page
 title: 日中連合
+description: Details for Hades' Star Corporation 日中連合 whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (800)|
+| ELO Regular | 1175 🔻  (801)|
 | ELO Competitive | 1176 🔻  (877)|
 | Total Matches | 2 |
 | Wins | 0 |

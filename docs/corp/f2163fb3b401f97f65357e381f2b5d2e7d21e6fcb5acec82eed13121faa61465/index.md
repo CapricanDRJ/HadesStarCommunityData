@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Starbond
+description: Details for Hades' Star Corporation Starbond whitestar history
 ---
 
 | Statistic | Value |

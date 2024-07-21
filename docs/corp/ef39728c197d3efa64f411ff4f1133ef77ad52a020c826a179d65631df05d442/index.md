@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Spectre
+description: Details for Hades' Star Corporation Spectre whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1156 🔻  (952)|
-| ELO Competitive | 1157 🔻  (1025)|
+| ELO Competitive | 1157 🔻  (1024)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

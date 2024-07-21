@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Черный Легион
+description: Details for Hades' Star Corporation Черный Легион whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1285 🔻  (138)|
-| ELO Competitive | 1331 🔻  (153)|
+| ELO Competitive | 1331 🔻  (154)|
 | Total Matches | 24 |
 | Wins | 16 |
 | Losses | 8 |

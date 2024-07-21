@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Hungary First
+description: Details for Hades' Star Corporation Hungary First whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1259 🔺  (182)|
+| ELO Regular | 1259 🔺  (183)|
 | ELO Competitive | 1267 🔺  (265)|
 | Total Matches | 22 |
 | Wins | 13 |

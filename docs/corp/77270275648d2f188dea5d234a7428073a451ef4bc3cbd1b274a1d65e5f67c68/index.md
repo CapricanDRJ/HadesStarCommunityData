@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Final
+description: Details for Hades' Star Corporation Final whitestar history
 ---
 
 | Statistic | Value |

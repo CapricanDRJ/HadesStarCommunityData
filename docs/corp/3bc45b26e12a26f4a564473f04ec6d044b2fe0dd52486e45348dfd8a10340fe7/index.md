@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Kötbrüder
+description: Details for Hades' Star Corporation Kötbrüder whitestar history
 ---
 
 | Statistic | Value |

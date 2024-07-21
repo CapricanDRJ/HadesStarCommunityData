@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 海賊ギルド
+description: Details for Hades' Star Corporation 海賊ギルド whitestar history
 ---
 
 | Statistic | Value |

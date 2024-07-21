@@ -1,6 +1,7 @@
 ---
 layout: page
 title: СОЮЗ
+description: Details for Hades' Star Corporation СОЮЗ whitestar history
 ---
 
 | Statistic | Value |

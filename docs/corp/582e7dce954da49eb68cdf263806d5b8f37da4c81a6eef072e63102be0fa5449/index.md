@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Argentina 1.0
+title: Argentina 1\.0
+description: Details for Hades' Star Corporation Argentina 1\.0 whitestar history
 ---
 
 | Statistic | Value |

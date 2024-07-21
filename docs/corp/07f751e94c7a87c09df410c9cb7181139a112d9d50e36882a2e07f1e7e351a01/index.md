@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Draco Ind.
+title: Draco Ind\.
+description: Details for Hades' Star Corporation Draco Ind\. whitestar history
 ---
 
 | Statistic | Value |

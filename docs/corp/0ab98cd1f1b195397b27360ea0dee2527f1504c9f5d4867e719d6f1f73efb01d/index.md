@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Grunthal Gang
+description: Details for Hades' Star Corporation Grunthal Gang whitestar history
 ---
 
 | Statistic | Value |

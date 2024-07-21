@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 日月星辰
+description: Details for Hades' Star Corporation 日月星辰 whitestar history
 ---
 
 | Statistic | Value |

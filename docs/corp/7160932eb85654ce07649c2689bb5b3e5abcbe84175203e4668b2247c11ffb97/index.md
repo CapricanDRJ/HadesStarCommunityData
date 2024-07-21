@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Star Field
+description: Details for Hades' Star Corporation Star Field whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1306 🔺  (112)|
-| ELO Competitive | 1329 🔺  (158)|
+| ELO Competitive | 1329 🔺  (159)|
 | Total Matches | 8 |
 | Wins | 7 |
 | Losses | 1 |

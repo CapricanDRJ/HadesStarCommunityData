@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Die Mafia
+description: Details for Hades' Star Corporation Die Mafia whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1199 🔻  (456)|
-| ELO Competitive | 1199 🔻  (547)|
+| ELO Competitive | 1199 🔻  (546)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 0 |

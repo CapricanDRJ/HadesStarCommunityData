@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Relic Hunters
+description: Details for Hades' Star Corporation Relic Hunters whitestar history
 ---
 
 | Statistic | Value |

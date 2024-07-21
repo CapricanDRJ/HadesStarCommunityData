@@ -1,6 +1,7 @@
 ---
 layout: page
 title: VENTORMENTA
+description: Details for Hades' Star Corporation VENTORMENTA whitestar history
 ---
 
 | Statistic | Value |

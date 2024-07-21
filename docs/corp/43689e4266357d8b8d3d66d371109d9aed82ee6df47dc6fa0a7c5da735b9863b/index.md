@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The trade pub
+description: Details for Hades' Star Corporation The trade pub whitestar history
 ---
 
 | Statistic | Value |

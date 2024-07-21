@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Nueva Hyperion
+description: Details for Hades' Star Corporation Nueva Hyperion whitestar history
 ---
 
 | Statistic | Value |

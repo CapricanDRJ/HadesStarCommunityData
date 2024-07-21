@@ -1,6 +1,7 @@
 ---
 layout: page
 title: UK Armada
+description: Details for Hades' Star Corporation UK Armada whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Killers from Ua
+description: Details for Hades' Star Corporation Killers from Ua whitestar history
 ---
 
 | Statistic | Value |

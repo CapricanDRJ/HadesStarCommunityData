@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Gulinga
+description: Details for Hades' Star Corporation Gulinga whitestar history
 ---
 
 | Statistic | Value |

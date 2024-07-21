@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Hades' 420
+description: Details for Hades' Star Corporation Hades' 420 whitestar history
 ---
 
 | Statistic | Value |

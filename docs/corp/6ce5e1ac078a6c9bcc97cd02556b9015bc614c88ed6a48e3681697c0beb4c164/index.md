@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Saiyan Empire
+description: Details for Hades' Star Corporation Saiyan Empire whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (798)|
+| ELO Regular | 1175 🔻  (799)|
 | ELO Competitive | 1183 🔻  (833)|
 | Total Matches | 10 |
 | Wins | 4 |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: imperio estelar
+description: Details for Hades' Star Corporation imperio estelar whitestar history
 ---
 
 | Statistic | Value |

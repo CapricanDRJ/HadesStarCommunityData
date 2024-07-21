@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Corporation
+description: Details for Hades' Star Corporation Corporation whitestar history
 ---
 
 | Statistic | Value |

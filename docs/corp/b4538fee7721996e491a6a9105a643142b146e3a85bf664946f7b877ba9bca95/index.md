@@ -1,6 +1,7 @@
 ---
 layout: page
 title: ArcadianVoiders
+description: Details for Hades' Star Corporation ArcadianVoiders whitestar history
 ---
 
 | Statistic | Value |

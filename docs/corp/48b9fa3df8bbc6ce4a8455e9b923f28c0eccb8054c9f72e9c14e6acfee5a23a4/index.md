@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Glashan
+description: Details for Hades' Star Corporation Glashan whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1039 🔻  (1147)|
+| ELO Regular | 1039 🔻  (1146)|
 | ELO Competitive | 1053 🔻  (1166)|
 | Total Matches | 30 |
 | Wins | 3 |

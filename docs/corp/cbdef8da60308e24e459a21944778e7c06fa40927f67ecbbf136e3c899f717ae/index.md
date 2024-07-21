@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Disintegrators
+description: Details for Hades' Star Corporation Disintegrators whitestar history
 ---
 
 | Statistic | Value |

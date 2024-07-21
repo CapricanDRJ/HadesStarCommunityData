@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 春城阳关
+description: Details for Hades' Star Corporation 春城阳关 whitestar history
 ---
 
 | Statistic | Value |

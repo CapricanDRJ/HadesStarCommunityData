@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Osmium Star llc
+description: Details for Hades' Star Corporation Osmium Star llc whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1313 🔺  (101)|
-| ELO Competitive | 1322 🔺  (170)|
+| ELO Competitive | 1322 🔺  (171)|
 | Total Matches | 9 |
 | Wins | 9 |
 | Losses | 0 |

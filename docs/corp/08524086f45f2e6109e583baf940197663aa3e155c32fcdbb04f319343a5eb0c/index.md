@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Looping
+description: Details for Hades' Star Corporation Looping whitestar history
 ---
 
 | Statistic | Value |

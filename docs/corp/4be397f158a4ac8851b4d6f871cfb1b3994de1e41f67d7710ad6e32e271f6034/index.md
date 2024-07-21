@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Berlin
+description: Details for Hades' Star Corporation Berlin whitestar history
 ---
 
 | Statistic | Value |

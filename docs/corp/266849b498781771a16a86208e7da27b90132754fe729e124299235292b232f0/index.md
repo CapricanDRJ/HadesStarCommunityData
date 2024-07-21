@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 无名集团
+description: Details for Hades' Star Corporation 无名集团 whitestar history
 ---
 
 | Statistic | Value |

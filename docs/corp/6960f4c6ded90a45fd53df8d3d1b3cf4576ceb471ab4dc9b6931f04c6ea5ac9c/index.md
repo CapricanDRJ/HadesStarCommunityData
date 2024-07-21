@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 代代守护你的神明
+description: Details for Hades' Star Corporation 代代守护你的神明 whitestar history
 ---
 
 | Statistic | Value |

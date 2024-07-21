@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Celtic Empire 2
+description: Details for Hades' Star Corporation Celtic Empire 2 whitestar history
 ---
 
 | Statistic | Value |

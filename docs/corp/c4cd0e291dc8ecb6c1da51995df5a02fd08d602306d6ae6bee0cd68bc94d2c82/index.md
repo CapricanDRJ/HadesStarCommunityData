@@ -1,6 +1,7 @@
 ---
 layout: page
 title: USA Corp
+description: Details for Hades' Star Corporation USA Corp whitestar history
 ---
 
 | Statistic | Value |

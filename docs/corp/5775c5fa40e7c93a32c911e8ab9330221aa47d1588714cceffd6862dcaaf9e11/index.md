@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Federation 
+description: Details for Hades' Star Corporation Federation  whitestar history
 ---
 
 | Statistic | Value |

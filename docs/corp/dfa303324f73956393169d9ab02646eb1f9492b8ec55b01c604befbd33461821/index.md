@@ -1,12 +1,13 @@
 ---
 layout: page
 title: 𝖕𝖎𝖗𝖆𝖙𝖊𝖘
+description: Details for Hades' Star Corporation 𝖕𝖎𝖗𝖆𝖙𝖊𝖘 whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1201 🔻  (428)|
-| ELO Competitive | 1201 🔻  (519)|
+| ELO Competitive | 1201 🔻  (518)|
 | Total Matches | 2 |
 | Wins | 1 |
 | Losses | 1 |

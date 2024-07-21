@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Southall 1
+description: Details for Hades' Star Corporation Southall 1 whitestar history
 ---
 
 | Statistic | Value |

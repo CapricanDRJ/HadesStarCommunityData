@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Crazy Elite
+description: Details for Hades' Star Corporation Crazy Elite whitestar history
 ---
 
 | Statistic | Value |

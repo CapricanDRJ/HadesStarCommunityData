@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Embers Rising
+description: Details for Hades' Star Corporation Embers Rising whitestar history
 ---
 
 | Statistic | Value |

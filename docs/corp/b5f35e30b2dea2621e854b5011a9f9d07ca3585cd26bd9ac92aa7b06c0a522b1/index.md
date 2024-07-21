@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 德意志第三帝国奥米加分部
+description: Details for Hades' Star Corporation 德意志第三帝国奥米加分部 whitestar history
 ---
 
 | Statistic | Value |

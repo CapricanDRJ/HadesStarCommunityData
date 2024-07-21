@@ -1,12 +1,13 @@
 ---
 layout: page
 title: SUSSY IMPOSTER
+description: Details for Hades' Star Corporation SUSSY IMPOSTER whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1201 🔻  (426)|
-| ELO Competitive | 1201 🔻  (517)|
+| ELO Competitive | 1201 🔻  (516)|
 | Total Matches | 2 |
 | Wins | 1 |
 | Losses | 1 |

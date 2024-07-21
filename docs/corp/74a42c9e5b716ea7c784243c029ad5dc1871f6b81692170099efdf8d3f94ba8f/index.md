@@ -1,11 +1,12 @@
 ---
 layout: page
 title: 遨游星空  kdy分盟
+description: Details for Hades' Star Corporation 遨游星空  kdy分盟 whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1180 🔻  (764)|
+| ELO Regular | 1180 🔻  (765)|
 | ELO Competitive | 1247 🔻  (313)|
 | Total Matches | 31 |
 | Wins | 13 |

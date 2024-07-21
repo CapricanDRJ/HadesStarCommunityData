@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Albedo
+description: Details for Hades' Star Corporation Albedo whitestar history
 ---
 
 | Statistic | Value |

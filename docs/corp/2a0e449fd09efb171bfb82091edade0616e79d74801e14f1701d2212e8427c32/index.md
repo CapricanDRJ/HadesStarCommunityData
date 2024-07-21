@@ -1,11 +1,12 @@
 ---
 layout: page
 title: R2D2
+description: Details for Hades' Star Corporation R2D2 whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (799)|
+| ELO Regular | 1175 🔻  (800)|
 | ELO Competitive | 1174 🔻  (902)|
 | Total Matches | 2 |
 | Wins | 0 |

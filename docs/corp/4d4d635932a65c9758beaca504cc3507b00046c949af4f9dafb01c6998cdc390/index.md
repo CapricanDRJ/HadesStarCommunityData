@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Wehrmacht
+description: Details for Hades' Star Corporation Wehrmacht whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1180 🔻  (762)|
+| ELO Regular | 1180 🔻  (763)|
 | ELO Competitive | 1183 🔻  (827)|
 | Total Matches | 2 |
 | Wins | 0 |

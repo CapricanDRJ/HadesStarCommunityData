@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Galaxy knights
+description: Details for Hades' Star Corporation Galaxy knights whitestar history
 ---
 
 | Statistic | Value |

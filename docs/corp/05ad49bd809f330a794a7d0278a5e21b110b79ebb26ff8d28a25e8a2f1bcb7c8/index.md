@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Aeternae
+description: Details for Hades' Star Corporation Aeternae whitestar history
 ---
 
 | Statistic | Value |

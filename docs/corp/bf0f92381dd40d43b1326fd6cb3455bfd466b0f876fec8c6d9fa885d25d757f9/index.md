@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Space Monkeys
+description: Details for Hades' Star Corporation Space Monkeys whitestar history
 ---
 
 | Statistic | Value |

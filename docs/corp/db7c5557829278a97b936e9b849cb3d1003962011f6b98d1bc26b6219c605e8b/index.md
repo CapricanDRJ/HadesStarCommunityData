@@ -1,6 +1,7 @@
 ---
 layout: page
 title: лезвия тьмы 
+description: Details for Hades' Star Corporation лезвия тьмы  whitestar history
 ---
 
 | Statistic | Value |

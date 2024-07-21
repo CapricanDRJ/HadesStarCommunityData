@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Global Elite
+description: Details for Hades' Star Corporation Global Elite whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (825)|
+| ELO Regular | 1172 🔻  (826)|
 | ELO Competitive | 1181 🔻  (845)|
 | Total Matches | 2 |
 | Wins | 0 |

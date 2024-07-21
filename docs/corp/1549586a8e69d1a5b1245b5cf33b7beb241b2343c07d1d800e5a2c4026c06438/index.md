@@ -1,12 +1,13 @@
 ---
 layout: page
 title: ItBurnsWhenIEMP
+description: Details for Hades' Star Corporation ItBurnsWhenIEMP whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1309 🔺  (110)|
-| ELO Competitive | 1338 🔺  (141)|
+| ELO Competitive | 1338 🔺  (143)|
 | Total Matches | 30 |
 | Wins | 22 |
 | Losses | 8 |

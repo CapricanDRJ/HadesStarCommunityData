@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Dahoam in AT
+description: Details for Hades' Star Corporation Dahoam in AT whitestar history
 ---
 
 | Statistic | Value |

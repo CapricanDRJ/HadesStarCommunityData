@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 第六星际
+description: Details for Hades' Star Corporation 第六星际 whitestar history
 ---
 
 | Statistic | Value |

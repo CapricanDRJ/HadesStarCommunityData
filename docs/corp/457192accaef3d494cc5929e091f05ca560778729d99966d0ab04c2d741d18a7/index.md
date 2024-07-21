@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Эдельвейс
+description: Details for Hades' Star Corporation Эдельвейс whitestar history
 ---
 
 | Statistic | Value |

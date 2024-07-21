@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Неудержимые
+description: Details for Hades' Star Corporation Неудержимые whitestar history
 ---
 
 | Statistic | Value |

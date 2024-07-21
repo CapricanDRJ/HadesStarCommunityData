@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Void Nebula
+description: Details for Hades' Star Corporation Void Nebula whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1156 🔻  (956)|
-| ELO Competitive | 1156 🔻  (1026)|
+| ELO Competitive | 1156 🔻  (1025)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

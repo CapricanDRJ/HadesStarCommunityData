@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Serenity
+description: Details for Hades' Star Corporation Serenity whitestar history
 ---
 
 | Statistic | Value |

@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Void
+description: Details for Hades' Star Corporation Void whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1180 🔻  (761)|
-| ELO Competitive | 1200 🔻  (544)|
+| ELO Regular | 1180 🔻  (762)|
+| ELO Competitive | 1200 🔻  (543)|
 | Total Matches | 12 |
 | Wins | 5 |
 | Losses | 7 |

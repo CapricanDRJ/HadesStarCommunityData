@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Spiritic Beacon
+description: Details for Hades' Star Corporation Spiritic Beacon whitestar history
 ---
 
 | Statistic | Value |

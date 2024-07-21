@@ -1,11 +1,12 @@
 ---
 layout: page
 title: ⚜NOVA⚜
+description: Details for Hades' Star Corporation ⚜NOVA⚜ whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (785)|
+| ELO Regular | 1176 🔻  (786)|
 | ELO Competitive | 1175 🔻  (885)|
 | Total Matches | 2 |
 | Wins | 0 |

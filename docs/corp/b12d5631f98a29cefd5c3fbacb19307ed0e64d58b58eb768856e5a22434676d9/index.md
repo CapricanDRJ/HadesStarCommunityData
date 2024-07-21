@@ -1,6 +1,7 @@
 ---
 layout: page
 title: BlackDawn
+description: Details for Hades' Star Corporation BlackDawn whitestar history
 ---
 
 | Statistic | Value |

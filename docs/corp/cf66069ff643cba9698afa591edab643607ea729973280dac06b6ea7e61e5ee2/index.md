@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Españoles
+description: Details for Hades' Star Corporation Españoles whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 994 🔺  (1165)|
+| ELO Regular | 994 🔺  (1166)|
 | ELO Competitive | 1089 🔺  (1144)|
 | Total Matches | 54 |
 | Wins | 11 |

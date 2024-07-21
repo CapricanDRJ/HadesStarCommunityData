@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Discordia
+description: Details for Hades' Star Corporation Discordia whitestar history
 ---
 
 | Statistic | Value |

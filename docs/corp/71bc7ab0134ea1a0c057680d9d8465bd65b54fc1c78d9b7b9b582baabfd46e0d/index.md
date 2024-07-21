@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Ender
+description: Details for Hades' Star Corporation Ender whitestar history
 ---
 
 | Statistic | Value |

@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Shrimp City
+description: Details for Hades' Star Corporation Shrimp City whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1272 🔻  (156)|
+| ELO Regular | 1272 🔻  (157)|
 | ELO Competitive | 1286 🔻  (224)|
 | Total Matches | 26 |
 | Wins | 16 |

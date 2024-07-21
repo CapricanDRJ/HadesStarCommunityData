@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Zvezdec
+description: Details for Hades' Star Corporation Zvezdec whitestar history
 ---
 
 | Statistic | Value |

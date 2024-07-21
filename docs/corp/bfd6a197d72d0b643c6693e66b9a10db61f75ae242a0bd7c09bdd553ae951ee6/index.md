@@ -1,6 +1,7 @@
 ---
 layout: page
 title: the Rubber Duck
+description: Details for Hades' Star Corporation the Rubber Duck whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Ten Forward
+description: Details for Hades' Star Corporation Ten Forward whitestar history
 ---
 
 | Statistic | Value |

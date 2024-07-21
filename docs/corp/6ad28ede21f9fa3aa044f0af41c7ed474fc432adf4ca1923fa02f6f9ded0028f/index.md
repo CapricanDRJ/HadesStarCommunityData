@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Rogue Corp
+description: Details for Hades' Star Corporation Rogue Corp whitestar history
 ---
 
 | Statistic | Value |

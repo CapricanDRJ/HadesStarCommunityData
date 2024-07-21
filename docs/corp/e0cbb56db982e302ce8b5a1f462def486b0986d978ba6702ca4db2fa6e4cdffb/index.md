@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Anti union
+description: Details for Hades' Star Corporation Anti union whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (807)|
+| ELO Regular | 1174 🔻  (808)|
 | ELO Competitive | 1174 🔻  (901)|
 | Total Matches | 2 |
 | Wins | 0 |

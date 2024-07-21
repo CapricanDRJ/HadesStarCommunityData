@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Yellow Dwarf 
+description: Details for Hades' Star Corporation Yellow Dwarf  whitestar history
 ---
 
 | Statistic | Value |

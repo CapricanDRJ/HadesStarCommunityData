@@ -1,6 +1,7 @@
 ---
 layout: page
 title: pegaso
+description: Details for Hades' Star Corporation pegaso whitestar history
 ---
 
 | Statistic | Value |

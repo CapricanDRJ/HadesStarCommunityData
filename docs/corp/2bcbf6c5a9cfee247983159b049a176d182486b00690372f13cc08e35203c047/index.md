@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Todesschwadron
+description: Details for Hades' Star Corporation Todesschwadron whitestar history
 ---
 
 | Statistic | Value |

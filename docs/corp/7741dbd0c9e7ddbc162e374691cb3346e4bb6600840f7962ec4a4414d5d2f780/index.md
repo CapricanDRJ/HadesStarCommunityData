@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Tuatha De Danan
+description: Details for Hades' Star Corporation Tuatha De Danan whitestar history
 ---
 
 | Statistic | Value |

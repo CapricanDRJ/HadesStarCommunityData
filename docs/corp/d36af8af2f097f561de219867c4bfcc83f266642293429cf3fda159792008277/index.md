@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 新纪元舰队
+description: Details for Hades' Star Corporation 新纪元舰队 whitestar history
 ---
 
 | Statistic | Value |

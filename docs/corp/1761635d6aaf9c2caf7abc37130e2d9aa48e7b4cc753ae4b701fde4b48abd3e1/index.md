@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Pyke Syndicate
+description: Details for Hades' Star Corporation Pyke Syndicate whitestar history
 ---
 
 | Statistic | Value |

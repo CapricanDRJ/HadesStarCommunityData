@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Red Star Banker
+description: Details for Hades' Star Corporation Red Star Banker whitestar history
 ---
 
 | Statistic | Value |

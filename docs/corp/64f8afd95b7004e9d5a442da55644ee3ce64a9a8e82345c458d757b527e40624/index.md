@@ -1,11 +1,12 @@
 ---
 layout: page
 title: 佛矿寺
+description: Details for Hades' Star Corporation 佛矿寺 whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 997 🔻  (1164)|
+| ELO Regular | 997 🔻  (1165)|
 | ELO Competitive | 1027 🔻  (1172)|
 | Total Matches | 43 |
 | Wins | 8 |

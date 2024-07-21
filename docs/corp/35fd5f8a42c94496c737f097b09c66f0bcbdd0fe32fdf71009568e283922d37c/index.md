@@ -1,6 +1,7 @@
 ---
 layout: page
 title: New Horizons
+description: Details for Hades' Star Corporation New Horizons whitestar history
 ---
 
 | Statistic | Value |

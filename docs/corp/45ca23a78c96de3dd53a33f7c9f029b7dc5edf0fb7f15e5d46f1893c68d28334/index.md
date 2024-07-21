@@ -1,6 +1,7 @@
 ---
 layout: page
 title: mijael siuuuuuu
+description: Details for Hades' Star Corporation mijael siuuuuuu whitestar history
 ---
 
 | Statistic | Value |

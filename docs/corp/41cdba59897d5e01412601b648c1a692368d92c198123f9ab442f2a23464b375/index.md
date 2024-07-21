@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Crux Cadre
+description: Details for Hades' Star Corporation Crux Cadre whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1262 🔺  (177)|
-| ELO Competitive | 1323 🔺  (169)|
+| ELO Regular | 1262 🔺  (178)|
+| ELO Competitive | 1323 🔺  (170)|
 | Total Matches | 44 |
 | Wins | 26 |
 | Losses | 17 |

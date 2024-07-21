@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 第一基地·端点星
+description: Details for Hades' Star Corporation 第一基地·端点星 whitestar history
 ---
 
 | Statistic | Value |

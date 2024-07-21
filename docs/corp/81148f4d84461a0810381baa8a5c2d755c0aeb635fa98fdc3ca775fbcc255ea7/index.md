@@ -1,6 +1,7 @@
 ---
 layout: page
 title: TheSpacingGuild
+description: Details for Hades' Star Corporation TheSpacingGuild whitestar history
 ---
 
 | Statistic | Value |

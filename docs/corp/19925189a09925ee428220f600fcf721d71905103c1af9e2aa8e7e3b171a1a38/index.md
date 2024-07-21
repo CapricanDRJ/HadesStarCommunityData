@@ -1,6 +1,7 @@
 ---
 layout: page
 title: First Legion
+description: Details for Hades' Star Corporation First Legion whitestar history
 ---
 
 | Statistic | Value |

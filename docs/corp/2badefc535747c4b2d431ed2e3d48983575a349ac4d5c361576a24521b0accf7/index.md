@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Darknova
+description: Details for Hades' Star Corporation Darknova whitestar history
 ---
 
 | Statistic | Value |

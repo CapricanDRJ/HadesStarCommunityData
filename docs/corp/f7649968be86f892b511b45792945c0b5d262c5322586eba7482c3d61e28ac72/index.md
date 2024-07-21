@@ -1,6 +1,7 @@
 ---
 layout: page
 title: STARBLAZER 
+description: Details for Hades' Star Corporation STARBLAZER  whitestar history
 ---
 
 | Statistic | Value |

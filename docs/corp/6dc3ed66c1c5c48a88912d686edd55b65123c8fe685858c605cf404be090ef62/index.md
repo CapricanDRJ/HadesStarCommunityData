@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Corp. Estelar 2
+title: Corp\. Estelar 2
+description: Details for Hades' Star Corporation Corp\. Estelar 2 whitestar history
 ---
 
 | Statistic | Value |

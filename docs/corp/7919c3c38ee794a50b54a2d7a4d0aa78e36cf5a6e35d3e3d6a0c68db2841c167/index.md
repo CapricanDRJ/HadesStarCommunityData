@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Prospectors
+description: Details for Hades' Star Corporation Prospectors whitestar history
 ---
 
 | Statistic | Value |

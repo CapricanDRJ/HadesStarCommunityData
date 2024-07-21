@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Famous Assasins
+description: Details for Hades' Star Corporation Famous Assasins whitestar history
 ---
 
 | Statistic | Value |

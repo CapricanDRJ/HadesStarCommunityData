@@ -1,6 +1,7 @@
 ---
 layout: page
 title: ShadowSpaceCult
+description: Details for Hades' Star Corporation ShadowSpaceCult whitestar history
 ---
 
 | Statistic | Value |

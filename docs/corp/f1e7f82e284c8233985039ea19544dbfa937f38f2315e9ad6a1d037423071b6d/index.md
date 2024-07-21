@@ -1,6 +1,7 @@
 ---
 layout: page
 title: RUFORS
+description: Details for Hades' Star Corporation RUFORS whitestar history
 ---
 
 | Statistic | Value |

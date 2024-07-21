@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 嘤嘤嘤嘤嘤嘤嘤嘤
+description: Details for Hades' Star Corporation 嘤嘤嘤嘤嘤嘤嘤嘤 whitestar history
 ---
 
 | Statistic | Value |

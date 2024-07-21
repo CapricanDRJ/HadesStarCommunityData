@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Kratos
+description: Details for Hades' Star Corporation Kratos whitestar history
 ---
 
 | Statistic | Value |

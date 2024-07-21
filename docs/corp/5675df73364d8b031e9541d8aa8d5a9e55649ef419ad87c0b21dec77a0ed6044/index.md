@@ -1,6 +1,7 @@
 ---
 layout: page
 title: nuevo mundo
+description: Details for Hades' Star Corporation nuevo mundo whitestar history
 ---
 
 | Statistic | Value |

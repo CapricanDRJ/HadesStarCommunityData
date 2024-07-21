@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Justice Vengers
+description: Details for Hades' Star Corporation Justice Vengers whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1304 🔺  (114)|
-| ELO Competitive | 1339 🔺  (139)|
+| ELO Competitive | 1339 🔺  (141)|
 | Total Matches | 12 |
 | Wins | 10 |
 | Losses | 2 |

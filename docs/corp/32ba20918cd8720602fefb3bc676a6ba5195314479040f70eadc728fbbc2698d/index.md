@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Star Destroyers
+description: Details for Hades' Star Corporation Star Destroyers whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1350 🔺  (62)|
+| ELO Regular | 1350 🔺  (61)|
 | ELO Competitive | 1385 🔺  (94)|
 | Total Matches | 37 |
 | Wins | 22 |

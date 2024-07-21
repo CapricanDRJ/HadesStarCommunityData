@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 꿀벌왕국
+description: Details for Hades' Star Corporation 꿀벌왕국 whitestar history
 ---
 
 | Statistic | Value |

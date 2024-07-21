@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Starsailors
+description: Details for Hades' Star Corporation Starsailors whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1360 🔺  (55)|
+| ELO Regular | 1360 🔺  (54)|
 | ELO Competitive | 1388 🔺  (90)|
 | Total Matches | 27 |
 | Wins | 21 |

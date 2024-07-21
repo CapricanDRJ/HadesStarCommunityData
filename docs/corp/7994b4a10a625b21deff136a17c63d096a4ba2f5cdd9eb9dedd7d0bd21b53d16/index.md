@@ -1,6 +1,7 @@
 ---
 layout: page
 title: РусКорп
+description: Details for Hades' Star Corporation РусКорп whitestar history
 ---
 
 | Statistic | Value |

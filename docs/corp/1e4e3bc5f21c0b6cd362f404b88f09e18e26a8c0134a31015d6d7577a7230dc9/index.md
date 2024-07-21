@@ -1,11 +1,12 @@
 ---
 layout: page
 title: АНДРОМЕДА 
+description: Details for Hades' Star Corporation АНДРОМЕДА  whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1179 🔺  (770)|
+| ELO Regular | 1179 🔺  (771)|
 | ELO Competitive | 1252 🔺  (302)|
 | Total Matches | 55 |
 | Wins | 25 |

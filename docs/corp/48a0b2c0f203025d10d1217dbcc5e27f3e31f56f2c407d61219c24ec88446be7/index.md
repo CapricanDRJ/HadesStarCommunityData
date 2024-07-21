@@ -1,6 +1,7 @@
 ---
 layout: page
 title: RGW
+description: Details for Hades' Star Corporation RGW whitestar history
 ---
 
 | Statistic | Value |

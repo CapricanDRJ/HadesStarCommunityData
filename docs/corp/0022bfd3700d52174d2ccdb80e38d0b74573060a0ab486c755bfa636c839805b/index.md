@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Phoenix corp
+description: Details for Hades' Star Corporation Phoenix corp whitestar history
 ---
 
 | Statistic | Value |

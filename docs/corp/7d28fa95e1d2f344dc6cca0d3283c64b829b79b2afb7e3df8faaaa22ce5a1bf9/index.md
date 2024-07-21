@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Hand Of NOD! 
+title: Hand Of NOD\! 
+description: Details for Hades' Star Corporation Hand Of NOD\!  whitestar history
 ---
 
 | Statistic | Value |

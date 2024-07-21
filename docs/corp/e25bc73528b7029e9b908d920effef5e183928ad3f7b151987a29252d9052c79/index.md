@@ -1,6 +1,7 @@
 ---
 layout: page
 title: phoenix clan
+description: Details for Hades' Star Corporation phoenix clan whitestar history
 ---
 
 | Statistic | Value |

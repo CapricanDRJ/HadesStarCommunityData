@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Lolis Corp
+description: Details for Hades' Star Corporation Lolis Corp whitestar history
 ---
 
 | Statistic | Value |

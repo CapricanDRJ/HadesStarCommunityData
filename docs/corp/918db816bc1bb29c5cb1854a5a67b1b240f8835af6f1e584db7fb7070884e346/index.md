@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Polaris Corpo
+description: Details for Hades' Star Corporation Polaris Corpo whitestar history
 ---
 
 | Statistic | Value |

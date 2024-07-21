@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Avantgarde
+description: Details for Hades' Star Corporation Avantgarde whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Рейнджеры
+description: Details for Hades' Star Corporation Рейнджеры whitestar history
 ---
 
 | Statistic | Value |

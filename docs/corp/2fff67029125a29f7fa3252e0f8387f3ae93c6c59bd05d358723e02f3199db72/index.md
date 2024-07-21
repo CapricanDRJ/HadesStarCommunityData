@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Oficina Tuga
+description: Details for Hades' Star Corporation Oficina Tuga whitestar history
 ---
 
 | Statistic | Value |

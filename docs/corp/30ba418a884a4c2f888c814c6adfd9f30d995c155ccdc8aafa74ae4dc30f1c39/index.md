@@ -1,6 +1,7 @@
 ---
 layout: page
 title: titan tv
+description: Details for Hades' Star Corporation titan tv whitestar history
 ---
 
 | Statistic | Value |

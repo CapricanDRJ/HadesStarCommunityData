@@ -1,6 +1,7 @@
 ---
 layout: page
 title: СлАвЯнСкИй СоЮз
+description: Details for Hades' Star Corporation СлАвЯнСкИй СоЮз whitestar history
 ---
 
 | Statistic | Value |

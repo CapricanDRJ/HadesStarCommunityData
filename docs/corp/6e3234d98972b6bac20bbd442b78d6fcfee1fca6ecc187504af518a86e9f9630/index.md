@@ -1,6 +1,7 @@
 ---
 layout: page
 title: VAJRA 
+description: Details for Hades' Star Corporation VAJRA  whitestar history
 ---
 
 | Statistic | Value |

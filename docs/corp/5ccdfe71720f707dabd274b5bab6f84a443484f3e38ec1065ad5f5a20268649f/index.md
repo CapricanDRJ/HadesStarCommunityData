@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Copelius
+description: Details for Hades' Star Corporation Copelius whitestar history
 ---
 
 | Statistic | Value |

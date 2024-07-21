@@ -1,6 +1,7 @@
 ---
 layout: page
 title: К звездам
+description: Details for Hades' Star Corporation К звездам whitestar history
 ---
 
 | Statistic | Value |

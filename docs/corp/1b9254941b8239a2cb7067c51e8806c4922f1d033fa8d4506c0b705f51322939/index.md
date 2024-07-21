@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Slovensko-Activ
+title: Slovensko\-Activ
+description: Details for Hades' Star Corporation Slovensko\-Activ whitestar history
 ---
 
 | Statistic | Value |

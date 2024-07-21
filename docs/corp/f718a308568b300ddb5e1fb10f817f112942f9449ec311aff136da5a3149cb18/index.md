@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Gwiezdna Horda
+description: Details for Hades' Star Corporation Gwiezdna Horda whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1255 🔺  (199)|
+| ELO Regular | 1255 🔺  (200)|
 | ELO Competitive | 1255 🔺  (292)|
 | Total Matches | 4 |
 | Wins | 4 |

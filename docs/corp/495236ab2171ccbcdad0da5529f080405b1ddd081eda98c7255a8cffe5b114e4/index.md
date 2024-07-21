@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Jalisco México
+description: Details for Hades' Star Corporation Jalisco México whitestar history
 ---
 
 | Statistic | Value |

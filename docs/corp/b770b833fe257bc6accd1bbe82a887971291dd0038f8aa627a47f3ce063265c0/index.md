@@ -1,12 +1,13 @@
 ---
 layout: page
 title: ЧВК "Котики"
+description: Details for Hades' Star Corporation ЧВК "Котики" whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1302 🔻  (118)|
-| ELO Competitive | 1340 🔻  (138)|
+| ELO Competitive | 1340 🔻  (140)|
 | Total Matches | 36 |
 | Wins | 20 |
 | Losses | 13 |

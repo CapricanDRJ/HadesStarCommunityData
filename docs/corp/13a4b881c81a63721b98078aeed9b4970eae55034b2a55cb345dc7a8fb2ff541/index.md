@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Бороская Имерия
+description: Details for Hades' Star Corporation Бороская Имерия whitestar history
 ---
 
 | Statistic | Value |

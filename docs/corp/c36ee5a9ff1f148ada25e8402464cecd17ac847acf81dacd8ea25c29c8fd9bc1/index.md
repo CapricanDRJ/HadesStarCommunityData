@@ -1,11 +1,12 @@
 ---
 layout: page
 title: SEC
+description: Details for Hades' Star Corporation SEC whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1268 🔺  (166)|
+| ELO Regular | 1268 🔺  (167)|
 | ELO Competitive | 1277 🔺  (242)|
 | Total Matches | 5 |
 | Wins | 5 |

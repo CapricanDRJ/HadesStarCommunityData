@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Inexorable
+description: Details for Hades' Star Corporation Inexorable whitestar history
 ---
 
 | Statistic | Value |

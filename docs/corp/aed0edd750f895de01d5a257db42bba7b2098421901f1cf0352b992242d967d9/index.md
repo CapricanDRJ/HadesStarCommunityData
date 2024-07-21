@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Ws Polaris
+description: Details for Hades' Star Corporation Ws Polaris whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: NERF TOY'S
+description: Details for Hades' Star Corporation NERF TOY'S whitestar history
 ---
 
 | Statistic | Value |

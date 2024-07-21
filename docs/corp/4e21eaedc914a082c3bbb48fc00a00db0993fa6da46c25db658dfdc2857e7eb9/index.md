@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 边际的文明
+description: Details for Hades' Star Corporation 边际的文明 whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Los Unidos 
+description: Details for Hades' Star Corporation Los Unidos  whitestar history
 ---
 
 | Statistic | Value |

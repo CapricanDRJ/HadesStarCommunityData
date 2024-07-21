@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 零号帝国
+description: Details for Hades' Star Corporation 零号帝国 whitestar history
 ---
 
 | Statistic | Value |

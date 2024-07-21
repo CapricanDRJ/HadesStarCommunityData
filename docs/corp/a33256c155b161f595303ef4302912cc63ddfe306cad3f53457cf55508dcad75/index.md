@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Auscorp 
+description: Details for Hades' Star Corporation Auscorp  whitestar history
 ---
 
 | Statistic | Value |

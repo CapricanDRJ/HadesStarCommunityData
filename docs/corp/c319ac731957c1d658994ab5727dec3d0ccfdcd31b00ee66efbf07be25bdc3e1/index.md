@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 云霄宫
+description: Details for Hades' Star Corporation 云霄宫 whitestar history
 ---
 
 | Statistic | Value |

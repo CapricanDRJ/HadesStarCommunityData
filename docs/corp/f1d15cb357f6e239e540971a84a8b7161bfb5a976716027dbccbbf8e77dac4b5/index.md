@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Новый ЭДЭМ
+description: Details for Hades' Star Corporation Новый ЭДЭМ whitestar history
 ---
 
 | Statistic | Value |

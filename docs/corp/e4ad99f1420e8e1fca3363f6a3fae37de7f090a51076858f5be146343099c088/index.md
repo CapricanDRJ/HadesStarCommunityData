@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Gemini↕     ☁
+description: Details for Hades' Star Corporation Gemini↕     ☁ whitestar history
 ---
 
 | Statistic | Value |

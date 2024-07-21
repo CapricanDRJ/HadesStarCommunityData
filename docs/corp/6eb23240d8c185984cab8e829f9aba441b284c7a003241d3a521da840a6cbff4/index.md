@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 猎户座星云
+description: Details for Hades' Star Corporation 猎户座星云 whitestar history
 ---
 
 | Statistic | Value |

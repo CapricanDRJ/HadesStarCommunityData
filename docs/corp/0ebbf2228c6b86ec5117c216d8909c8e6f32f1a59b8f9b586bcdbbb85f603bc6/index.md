@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Greek Warriors
+description: Details for Hades' Star Corporation Greek Warriors whitestar history
 ---
 
 | Statistic | Value |

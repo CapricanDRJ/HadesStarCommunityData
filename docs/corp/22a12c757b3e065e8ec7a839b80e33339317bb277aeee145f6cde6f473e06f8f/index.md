@@ -1,6 +1,7 @@
 ---
 layout: page
 title: V0RTEX
+description: Details for Hades' Star Corporation V0RTEX whitestar history
 ---
 
 | Statistic | Value |

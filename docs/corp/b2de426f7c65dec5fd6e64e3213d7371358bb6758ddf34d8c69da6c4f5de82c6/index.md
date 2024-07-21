@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Hun Generals
+description: Details for Hades' Star Corporation Hun Generals whitestar history
 ---
 
 | Statistic | Value |

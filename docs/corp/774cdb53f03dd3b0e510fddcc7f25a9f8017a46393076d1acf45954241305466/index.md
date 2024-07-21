@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Brodudes Inc.
+title: Brodudes Inc\.
+description: Details for Hades' Star Corporation Brodudes Inc\. whitestar history
 ---
 
 | Statistic | Value |

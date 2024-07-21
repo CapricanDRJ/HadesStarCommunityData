@@ -1,6 +1,7 @@
 ---
 layout: page
 title: universe leader
+description: Details for Hades' Star Corporation universe leader whitestar history
 ---
 
 | Statistic | Value |

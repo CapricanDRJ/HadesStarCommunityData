@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Bunker
+description: Details for Hades' Star Corporation Bunker whitestar history
 ---
 
 | Statistic | Value |

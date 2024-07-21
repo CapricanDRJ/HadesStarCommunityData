@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Persistence
+description: Details for Hades' Star Corporation Persistence whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: corporacion I.A
+title: corporacion I\.A
+description: Details for Hades' Star Corporation corporacion I\.A whitestar history
 ---
 
 | Statistic | Value |

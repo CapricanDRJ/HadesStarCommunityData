@@ -1,6 +1,7 @@
 ---
 layout: page
-title: ITA 2.0
+title: ITA 2\.0
+description: Details for Hades' Star Corporation ITA 2\.0 whitestar history
 ---
 
 | Statistic | Value |

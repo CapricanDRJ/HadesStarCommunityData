@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 共产主义舰队
+description: Details for Hades' Star Corporation 共产主义舰队 whitestar history
 ---
 
 | Statistic | Value |

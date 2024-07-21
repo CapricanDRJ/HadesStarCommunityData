@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Nebulae Traders
+description: Details for Hades' Star Corporation Nebulae Traders whitestar history
 ---
 
 | Statistic | Value |

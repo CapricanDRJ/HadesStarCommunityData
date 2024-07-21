@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Space Anomalies
+description: Details for Hades' Star Corporation Space Anomalies whitestar history
 ---
 
 | Statistic | Value |

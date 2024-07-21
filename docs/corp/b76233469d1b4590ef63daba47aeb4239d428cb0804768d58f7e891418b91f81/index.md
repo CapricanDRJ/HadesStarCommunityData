@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Cerulean Nebula
+description: Details for Hades' Star Corporation Cerulean Nebula whitestar history
 ---
 
 | Statistic | Value |

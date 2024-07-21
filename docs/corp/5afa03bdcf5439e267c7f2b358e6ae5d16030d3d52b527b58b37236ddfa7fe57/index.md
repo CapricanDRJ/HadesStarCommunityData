@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 行星联合军
+description: Details for Hades' Star Corporation 行星联合军 whitestar history
 ---
 
 | Statistic | Value |

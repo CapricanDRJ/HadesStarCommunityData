@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Star Wars
+description: Details for Hades' Star Corporation Star Wars whitestar history
 ---
 
 | Statistic | Value |

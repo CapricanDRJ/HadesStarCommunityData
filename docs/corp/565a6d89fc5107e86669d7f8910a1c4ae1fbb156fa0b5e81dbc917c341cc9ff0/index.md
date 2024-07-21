@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 落雨观花
+description: Details for Hades' Star Corporation 落雨观花 whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 云浪度假村↕
+description: Details for Hades' Star Corporation 云浪度假村↕ whitestar history
 ---
 
 | Statistic | Value |

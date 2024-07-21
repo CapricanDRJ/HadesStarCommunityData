@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Back of the bus
+description: Details for Hades' Star Corporation Back of the bus whitestar history
 ---
 
 | Statistic | Value |

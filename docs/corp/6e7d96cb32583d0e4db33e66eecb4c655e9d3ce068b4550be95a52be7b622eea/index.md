@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Sternenwanderer
+description: Details for Hades' Star Corporation Sternenwanderer whitestar history
 ---
 
 | Statistic | Value |

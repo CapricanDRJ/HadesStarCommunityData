@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Dark Skai
+description: Details for Hades' Star Corporation Dark Skai whitestar history
 ---
 
 | Statistic | Value |

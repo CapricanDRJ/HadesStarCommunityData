@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  RELAX CZ/SK
+description: Details for Hades' Star Corporation  RELAX CZ/SK whitestar history
 ---
 
 | Statistic | Value |

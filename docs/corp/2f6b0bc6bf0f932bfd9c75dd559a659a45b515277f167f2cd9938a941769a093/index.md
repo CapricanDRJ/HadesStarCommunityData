@@ -1,6 +1,7 @@
 ---
 layout: page
-title: E.T.A 二营
+title: E\.T\.A 二营
+description: Details for Hades' Star Corporation E\.T\.A 二营 whitestar history
 ---
 
 | Statistic | Value |

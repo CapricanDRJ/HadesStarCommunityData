@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Nova Time
+description: Details for Hades' Star Corporation Nova Time whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1338 🔺  (75)|
-| ELO Competitive | 1342 🔺  (135)|
+| ELO Competitive | 1342 🔺  (137)|
 | Total Matches | 14 |
 | Wins | 13 |
 | Losses | 1 |

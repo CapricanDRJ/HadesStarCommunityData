@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Север РусКорп
+description: Details for Hades' Star Corporation Север РусКорп whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1277 🔻  (147)|
-| ELO Competitive | 1324 🔺  (166)|
+| ELO Competitive | 1324 🔺  (167)|
 | Total Matches | 22 |
 | Wins | 14 |
 | Losses | 8 |

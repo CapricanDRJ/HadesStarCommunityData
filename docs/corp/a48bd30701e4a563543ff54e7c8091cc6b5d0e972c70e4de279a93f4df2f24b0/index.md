@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Venture
+description: Details for Hades' Star Corporation Venture whitestar history
 ---
 
 | Statistic | Value |

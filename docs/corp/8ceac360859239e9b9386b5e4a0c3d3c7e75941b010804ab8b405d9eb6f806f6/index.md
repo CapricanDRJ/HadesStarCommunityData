@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Fleet Corp Ares
+description: Details for Hades' Star Corporation Fleet Corp Ares whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 星を継ぐもの
+description: Details for Hades' Star Corporation 星を継ぐもの whitestar history
 ---
 
 | Statistic | Value |

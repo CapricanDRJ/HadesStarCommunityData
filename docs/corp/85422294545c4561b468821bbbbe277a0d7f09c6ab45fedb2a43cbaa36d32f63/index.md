@@ -1,12 +1,13 @@
 ---
 layout: page
 title: 星环建设集团
+description: Details for Hades' Star Corporation 星环建设集团 whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1188 🔻  (541)|
-| ELO Competitive | 1200 🔻  (542)|
+| ELO Competitive | 1200 🔻  (541)|
 | Total Matches | 14 |
 | Wins | 6 |
 | Losses | 6 |

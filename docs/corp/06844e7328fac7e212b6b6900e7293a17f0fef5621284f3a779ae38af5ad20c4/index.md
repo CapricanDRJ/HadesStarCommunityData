@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Liasteria
+description: Details for Hades' Star Corporation Liasteria whitestar history
 ---
 
 | Statistic | Value |

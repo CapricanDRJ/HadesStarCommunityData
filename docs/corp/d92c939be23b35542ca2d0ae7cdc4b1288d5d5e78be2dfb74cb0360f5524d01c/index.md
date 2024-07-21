@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 青鸾殿
+description: Details for Hades' Star Corporation 青鸾殿 whitestar history
 ---
 
 | Statistic | Value |

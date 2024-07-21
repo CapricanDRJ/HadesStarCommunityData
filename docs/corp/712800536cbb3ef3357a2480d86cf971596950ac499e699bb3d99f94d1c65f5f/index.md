@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 혁명군
+description: Details for Hades' Star Corporation 혁명군 whitestar history
 ---
 
 | Statistic | Value |

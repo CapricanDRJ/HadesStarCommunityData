@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Lost Legion
+description: Details for Hades' Star Corporation Lost Legion whitestar history
 ---
 
 | Statistic | Value |

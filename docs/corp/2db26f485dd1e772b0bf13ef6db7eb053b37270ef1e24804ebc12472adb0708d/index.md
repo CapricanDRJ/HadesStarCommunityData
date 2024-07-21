@@ -1,6 +1,7 @@
 ---
 layout: page
 title: ZN•H2B
+description: Details for Hades' Star Corporation ZN•H2B whitestar history
 ---
 
 | Statistic | Value |

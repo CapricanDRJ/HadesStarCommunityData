@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Newbs
+description: Details for Hades' Star Corporation Newbs whitestar history
 ---
 
 | Statistic | Value |

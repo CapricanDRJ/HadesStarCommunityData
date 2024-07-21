@@ -1,6 +1,7 @@
 ---
 layout: page
 title: ОРИОН
+description: Details for Hades' Star Corporation ОРИОН whitestar history
 ---
 
 | Statistic | Value |

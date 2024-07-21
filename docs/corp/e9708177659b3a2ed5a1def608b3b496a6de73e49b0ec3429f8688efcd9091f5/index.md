@@ -1,6 +1,7 @@
 ---
 layout: page
 title: VALLKIRIA
+description: Details for Hades' Star Corporation VALLKIRIA whitestar history
 ---
 
 | Statistic | Value |

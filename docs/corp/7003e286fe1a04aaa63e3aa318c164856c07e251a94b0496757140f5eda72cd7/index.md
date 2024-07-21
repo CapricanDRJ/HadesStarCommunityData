@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Trade Station
+description: Details for Hades' Star Corporation Trade Station whitestar history
 ---
 
 | Statistic | Value |

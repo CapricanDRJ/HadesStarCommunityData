@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Imperio Galacti
+description: Details for Hades' Star Corporation Imperio Galacti whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (824)|
+| ELO Regular | 1173 🔻  (825)|
 | ELO Competitive | 1173 🔻  (915)|
 | Total Matches | 2 |
 | Wins | 0 |

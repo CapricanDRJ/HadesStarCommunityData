@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Russia 
+description: Details for Hades' Star Corporation Russia  whitestar history
 ---
 
 | Statistic | Value |

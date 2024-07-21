@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Dark Exodus
+description: Details for Hades' Star Corporation Dark Exodus whitestar history
 ---
 
 | Statistic | Value |

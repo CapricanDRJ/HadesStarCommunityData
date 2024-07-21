@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Smurfing
+description: Details for Hades' Star Corporation Smurfing whitestar history
 ---
 
 | Statistic | Value |

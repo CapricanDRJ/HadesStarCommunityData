@@ -1,11 +1,12 @@
 ---
 layout: page
-title: (◉▼◉ ﾐ )Э
+title: \(◉▼◉ ﾐ \)Э
+description: Details for Hades' Star Corporation \(◉▼◉ ﾐ \)Э whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (817)|
+| ELO Regular | 1173 🔻  (818)|
 | ELO Competitive | 1175 🔻  (888)|
 | Total Matches | 2 |
 | Wins | 0 |

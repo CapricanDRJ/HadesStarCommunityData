@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 27rus
+description: Details for Hades' Star Corporation 27rus whitestar history
 ---
 
 | Statistic | Value |

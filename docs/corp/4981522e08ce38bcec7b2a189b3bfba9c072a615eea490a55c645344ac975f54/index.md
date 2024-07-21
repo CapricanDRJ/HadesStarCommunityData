@@ -1,12 +1,13 @@
 ---
 layout: page
 title: exirium
+description: Details for Hades' Star Corporation exirium whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1200 🔺  (446)|
-| ELO Competitive | 1200 🔺  (541)|
+| ELO Competitive | 1200 🔺  (540)|
 | Total Matches | 2 |
 | Wins | 1 |
 | Losses | 1 |

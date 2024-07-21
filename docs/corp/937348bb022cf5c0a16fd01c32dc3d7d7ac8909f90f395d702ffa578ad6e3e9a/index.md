@@ -1,6 +1,7 @@
 ---
 layout: page
 title: @ncient £ibrary
+description: Details for Hades' Star Corporation @ncient £ibrary whitestar history
 ---
 
 | Statistic | Value |

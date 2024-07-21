@@ -1,11 +1,12 @@
 ---
 layout: page
 title: 海澜之家
+description: Details for Hades' Star Corporation 海澜之家 whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (756)|
+| ELO Regular | 1181 🔻  (757)|
 | ELO Competitive | 1184 🔻  (819)|
 | Total Matches | 1 |
 | Wins | 0 |

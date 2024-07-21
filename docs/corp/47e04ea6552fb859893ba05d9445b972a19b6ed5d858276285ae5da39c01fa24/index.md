@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The Order
+description: Details for Hades' Star Corporation The Order whitestar history
 ---
 
 | Statistic | Value |

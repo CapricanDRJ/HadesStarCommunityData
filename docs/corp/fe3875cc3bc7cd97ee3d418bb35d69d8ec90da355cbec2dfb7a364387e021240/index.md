@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Pixies
+description: Details for Hades' Star Corporation Pixies whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1202 🔻  (418)|
-| ELO Competitive | 1209 🔻  (489)|
+| ELO Competitive | 1209 🔻  (488)|
 | Total Matches | 4 |
 | Wins | 2 |
 | Losses | 2 |

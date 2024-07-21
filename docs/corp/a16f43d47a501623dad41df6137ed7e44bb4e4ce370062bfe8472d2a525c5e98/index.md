@@ -1,6 +1,7 @@
 ---
 layout: page
 title: UKRAINE STARS
+description: Details for Hades' Star Corporation UKRAINE STARS whitestar history
 ---
 
 | Statistic | Value |

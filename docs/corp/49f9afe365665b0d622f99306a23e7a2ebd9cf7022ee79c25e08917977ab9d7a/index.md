@@ -1,6 +1,7 @@
 ---
 layout: page
 title: TECH CO
+description: Details for Hades' Star Corporation TECH CO whitestar history
 ---
 
 | Statistic | Value |

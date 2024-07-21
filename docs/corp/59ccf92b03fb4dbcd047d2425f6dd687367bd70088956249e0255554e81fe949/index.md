@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Prometheus ESP
+description: Details for Hades' Star Corporation Prometheus ESP whitestar history
 ---
 
 | Statistic | Value |

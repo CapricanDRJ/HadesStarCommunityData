@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 联合宇宙
+description: Details for Hades' Star Corporation 联合宇宙 whitestar history
 ---
 
 | Statistic | Value |

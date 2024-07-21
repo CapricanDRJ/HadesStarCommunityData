@@ -1,6 +1,7 @@
 ---
 layout: page
 title: BLOK EKIPA
+description: Details for Hades' Star Corporation BLOK EKIPA whitestar history
 ---
 
 | Statistic | Value |

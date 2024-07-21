@@ -1,12 +1,13 @@
 ---
 layout: page
 title: 柯伊伯带伊甸园
+description: Details for Hades' Star Corporation 柯伊伯带伊甸园 whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1312 🔻  (103)|
-| ELO Competitive | 1326 🔻  (162)|
+| ELO Competitive | 1326 🔻  (163)|
 | Total Matches | 11 |
 | Wins | 10 |
 | Losses | 1 |

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Black Star llc.
+title: Black Star llc\.
+description: Details for Hades' Star Corporation Black Star llc\. whitestar history
 ---
 
 | Statistic | Value |

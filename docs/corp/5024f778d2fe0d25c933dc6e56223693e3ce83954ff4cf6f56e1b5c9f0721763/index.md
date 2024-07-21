@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 中国航天科技集团（CASC）
+description: Details for Hades' Star Corporation 中国航天科技集团（CASC） whitestar history
 ---
 
 | Statistic | Value |

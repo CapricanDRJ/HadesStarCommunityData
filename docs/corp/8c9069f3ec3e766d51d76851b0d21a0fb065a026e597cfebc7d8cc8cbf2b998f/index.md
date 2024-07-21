@@ -1,12 +1,13 @@
 ---
 layout: page
 title: TheBasics
+description: Details for Hades' Star Corporation TheBasics whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1130 🔻  (1045)|
-| ELO Competitive | 1338 🔻  (142)|
+| ELO Competitive | 1338 🔻  (144)|
 | Total Matches | 64 |
 | Wins | 29 |
 | Losses | 34 |

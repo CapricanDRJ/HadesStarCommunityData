@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Aconitum
+description: Details for Hades' Star Corporation Aconitum whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Bandidos
+description: Details for Hades' Star Corporation Bandidos whitestar history
 ---
 
 | Statistic | Value |

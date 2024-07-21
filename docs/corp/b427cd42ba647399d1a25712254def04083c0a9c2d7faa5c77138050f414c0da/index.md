@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 墨痕白星分部
+description: Details for Hades' Star Corporation 墨痕白星分部 whitestar history
 ---
 
 | Statistic | Value |

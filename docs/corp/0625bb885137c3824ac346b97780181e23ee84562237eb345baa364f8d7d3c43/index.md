@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Moon Catchers
+description: Details for Hades' Star Corporation Moon Catchers whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1165 🔻  (906)|
-| ELO Competitive | 1204 🔻  (499)|
+| ELO Competitive | 1204 🔻  (498)|
 | Total Matches | 30 |
 | Wins | 13 |
 | Losses | 16 |

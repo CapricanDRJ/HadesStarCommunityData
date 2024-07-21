@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Enigma
+description: Details for Hades' Star Corporation Enigma whitestar history
 ---
 
 | Statistic | Value |

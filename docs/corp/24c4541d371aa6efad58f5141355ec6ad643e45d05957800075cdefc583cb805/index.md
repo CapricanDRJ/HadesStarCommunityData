@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Spaceforce
+description: Details for Hades' Star Corporation Spaceforce whitestar history
 ---
 
 | Statistic | Value |

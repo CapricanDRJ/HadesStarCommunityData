@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Quilliance
+description: Details for Hades' Star Corporation Quilliance whitestar history
 ---
 
 | Statistic | Value |

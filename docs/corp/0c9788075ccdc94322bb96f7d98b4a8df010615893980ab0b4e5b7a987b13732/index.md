@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Aegis Shield
+description: Details for Hades' Star Corporation Aegis Shield whitestar history
 ---
 
 | Statistic | Value |

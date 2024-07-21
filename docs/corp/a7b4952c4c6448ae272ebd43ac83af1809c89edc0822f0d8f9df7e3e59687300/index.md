@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CENTINELA
+description: Details for Hades' Star Corporation CENTINELA whitestar history
 ---
 
 | Statistic | Value |

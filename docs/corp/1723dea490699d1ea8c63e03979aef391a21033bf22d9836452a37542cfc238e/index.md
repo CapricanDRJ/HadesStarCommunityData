@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Soul System
+description: Details for Hades' Star Corporation Soul System whitestar history
 ---
 
 | Statistic | Value |

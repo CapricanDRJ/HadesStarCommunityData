@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Star Fleet
+description: Details for Hades' Star Corporation Star Fleet whitestar history
 ---
 
 | Statistic | Value |

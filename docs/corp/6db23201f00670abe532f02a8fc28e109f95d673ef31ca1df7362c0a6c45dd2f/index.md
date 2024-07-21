@@ -1,11 +1,12 @@
 ---
 layout: page
-title: (_(_Vossk_)_)
+title: \(\_\(\_Vossk\_\)\_\)
+description: Details for Hades' Star Corporation \(\_\(\_Vossk\_\)\_\) whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1179 🔻  (768)|
+| ELO Regular | 1179 🔻  (769)|
 | ELO Competitive | 1210 🔻  (483)|
 | Total Matches | 24 |
 | Wins | 10 |

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Rebellion!
+title: Rebellion\!
+description: Details for Hades' Star Corporation Rebellion\! whitestar history
 ---
 
 | Statistic | Value |

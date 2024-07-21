@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Urban Legends
+description: Details for Hades' Star Corporation Urban Legends whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (822)|
+| ELO Regular | 1173 🔻  (823)|
 | ELO Competitive | 1178 🔻  (858)|
 | Total Matches | 4 |
 | Wins | 1 |

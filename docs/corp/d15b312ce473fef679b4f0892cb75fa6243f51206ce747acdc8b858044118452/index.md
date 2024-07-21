@@ -1,12 +1,13 @@
 ---
 layout: page
 title: La NoChE NeGrA
+description: Details for Hades' Star Corporation La NoChE NeGrA whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1197 🔻  (470)|
-| ELO Competitive | 1201 🔺  (523)|
+| ELO Competitive | 1201 🔺  (522)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 0 |

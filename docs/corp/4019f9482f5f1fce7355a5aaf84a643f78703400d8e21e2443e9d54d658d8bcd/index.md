@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Star Conflict
+description: Details for Hades' Star Corporation Star Conflict whitestar history
 ---
 
 | Statistic | Value |

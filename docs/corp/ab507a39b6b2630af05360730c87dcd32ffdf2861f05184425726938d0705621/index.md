@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Reservoid  Dogs
+description: Details for Hades' Star Corporation Reservoid  Dogs whitestar history
 ---
 
 | Statistic | Value |

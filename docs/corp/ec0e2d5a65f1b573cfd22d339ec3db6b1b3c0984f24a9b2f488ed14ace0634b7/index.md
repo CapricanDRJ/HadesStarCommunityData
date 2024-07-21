@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Imperio Nova
+description: Details for Hades' Star Corporation Imperio Nova whitestar history
 ---
 
 | Statistic | Value |

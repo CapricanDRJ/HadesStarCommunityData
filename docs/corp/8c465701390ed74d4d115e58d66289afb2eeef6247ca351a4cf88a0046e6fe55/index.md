@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 探索舰队
+description: Details for Hades' Star Corporation 探索舰队 whitestar history
 ---
 
 | Statistic | Value |

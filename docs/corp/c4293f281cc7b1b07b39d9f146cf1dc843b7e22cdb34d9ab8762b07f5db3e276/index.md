@@ -1,6 +1,7 @@
 ---
 layout: page
 title: united unicorn
+description: Details for Hades' Star Corporation united unicorn whitestar history
 ---
 
 | Statistic | Value |

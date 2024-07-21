@@ -1,11 +1,12 @@
 ---
 layout: page
 title: OPA
+description: Details for Hades' Star Corporation OPA whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1350 🔻  (63)|
+| ELO Regular | 1350 🔻  (62)|
 | ELO Competitive | 1375 🔻  (102)|
 | Total Matches | 35 |
 | Wins | 26 |

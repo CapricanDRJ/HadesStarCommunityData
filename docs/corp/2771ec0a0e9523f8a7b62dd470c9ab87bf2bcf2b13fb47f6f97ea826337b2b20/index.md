@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Mercury Sunset
+description: Details for Hades' Star Corporation Mercury Sunset whitestar history
 ---
 
 | Statistic | Value |

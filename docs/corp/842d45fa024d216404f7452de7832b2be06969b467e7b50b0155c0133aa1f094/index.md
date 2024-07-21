@@ -1,6 +1,7 @@
 ---
 layout: page
 title: HighSociety
+description: Details for Hades' Star Corporation HighSociety whitestar history
 ---
 
 | Statistic | Value |

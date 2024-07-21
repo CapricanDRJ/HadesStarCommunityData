@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Majapahit
+description: Details for Hades' Star Corporation Majapahit whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1268 🔺  (165)|
+| ELO Regular | 1268 🔺  (166)|
 | ELO Competitive | 1276 🔺  (247)|
 | Total Matches | 7 |
 | Wins | 6 |

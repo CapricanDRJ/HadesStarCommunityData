@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Últimafronteira
+description: Details for Hades' Star Corporation Últimafronteira whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1269 🔺  (164)|
+| ELO Regular | 1269 🔺  (165)|
 | ELO Competitive | 1265 🔺  (268)|
 | Total Matches | 5 |
 | Wins | 5 |

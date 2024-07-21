@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Lights Off 
+description: Details for Hades' Star Corporation Lights Off  whitestar history
 ---
 
 | Statistic | Value |

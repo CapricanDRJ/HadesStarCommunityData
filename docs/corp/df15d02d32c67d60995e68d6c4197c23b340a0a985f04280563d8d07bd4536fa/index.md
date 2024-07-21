@@ -1,12 +1,13 @@
 ---
 layout: page
 title: 🌪TORNADO 
+description: Details for Hades' Star Corporation 🌪TORNADO  whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1183 🔺  (727)|
-| ELO Competitive | 1209 🔺  (488)|
+| ELO Competitive | 1209 🔺  (487)|
 | Total Matches | 17 |
 | Wins | 6 |
 | Losses | 8 |

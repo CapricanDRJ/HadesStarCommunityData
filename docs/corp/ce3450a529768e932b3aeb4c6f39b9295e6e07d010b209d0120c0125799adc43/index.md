@@ -1,12 +1,13 @@
 ---
 layout: page
-title: R-6 satalite
+title: R\-6 satalite
+description: Details for Hades' Star Corporation R\-6 satalite whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1311 🔺  (104)|
-| ELO Competitive | 1345 🔺  (134)|
+| ELO Competitive | 1345 🔺  (136)|
 | Total Matches | 37 |
 | Wins | 25 |
 | Losses | 11 |

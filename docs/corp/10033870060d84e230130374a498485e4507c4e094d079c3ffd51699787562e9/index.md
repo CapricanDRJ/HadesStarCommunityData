@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Resurrección EB
+description: Details for Hades' Star Corporation Resurrección EB whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: ANDROMEDA INC. 
+title: ANDROMEDA INC\. 
+description: Details for Hades' Star Corporation ANDROMEDA INC\.  whitestar history
 ---
 
 | Statistic | Value |

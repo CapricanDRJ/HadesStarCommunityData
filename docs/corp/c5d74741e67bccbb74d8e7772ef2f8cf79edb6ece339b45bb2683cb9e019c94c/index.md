@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Sistemaimperial
+description: Details for Hades' Star Corporation Sistemaimperial whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 荣耀之星
+description: Details for Hades' Star Corporation 荣耀之星 whitestar history
 ---
 
 | Statistic | Value |

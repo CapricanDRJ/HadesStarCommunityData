@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Madison Holding
+description: Details for Hades' Star Corporation Madison Holding whitestar history
 ---
 
 | Statistic | Value |

@@ -1,12 +1,13 @@
 ---
 layout: page
 title: 地球联合
+description: Details for Hades' Star Corporation 地球联合 whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1314 🔺  (100)|
-| ELO Competitive | 1334 🔺  (147)|
+| ELO Competitive | 1334 🔺  (148)|
 | Total Matches | 15 |
 | Wins | 12 |
 | Losses | 3 |

@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Forces of Light
+description: Details for Hades' Star Corporation Forces of Light whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1258 🔺  (186)|
+| ELO Regular | 1258 🔺  (187)|
 | ELO Competitive | 1265 🔺  (267)|
 | Total Matches | 11 |
 | Wins | 7 |

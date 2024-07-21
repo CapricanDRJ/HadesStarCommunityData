@@ -1,6 +1,7 @@
 ---
 layout: page
 title: THE ECHAPES BEL
+description: Details for Hades' Star Corporation THE ECHAPES BEL whitestar history
 ---
 
 | Statistic | Value |

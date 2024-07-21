@@ -1,11 +1,12 @@
 ---
 layout: page
 title: GalaxyNova
+description: Details for Hades' Star Corporation GalaxyNova whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1269 🔺  (161)|
+| ELO Regular | 1269 🔺  (162)|
 | ELO Competitive | 1282 🔺  (233)|
 | Total Matches | 9 |
 | Wins | 7 |

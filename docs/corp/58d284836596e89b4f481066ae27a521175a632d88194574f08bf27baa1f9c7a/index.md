@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Celtic Imperium
+description: Details for Hades' Star Corporation Celtic Imperium whitestar history
 ---
 
 | Statistic | Value |

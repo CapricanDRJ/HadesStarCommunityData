@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Team Rainbow
+description: Details for Hades' Star Corporation Team Rainbow whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: TERRA P
+description: Details for Hades' Star Corporation TERRA P whitestar history
 ---
 
 | Statistic | Value |

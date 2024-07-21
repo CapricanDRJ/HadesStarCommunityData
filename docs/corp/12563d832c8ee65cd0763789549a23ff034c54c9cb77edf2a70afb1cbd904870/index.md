@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Aurora Burning
+description: Details for Hades' Star Corporation Aurora Burning whitestar history
 ---
 
 | Statistic | Value |

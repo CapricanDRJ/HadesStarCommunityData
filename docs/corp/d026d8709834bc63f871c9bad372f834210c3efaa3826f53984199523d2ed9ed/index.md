@@ -1,12 +1,13 @@
 ---
 layout: page
 title: 万星联盟
+description: Details for Hades' Star Corporation 万星联盟 whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1324 🔺  (89)|
-| ELO Competitive | 1321 🔺  (172)|
+| ELO Competitive | 1321 🔺  (173)|
 | Total Matches | 10 |
 | Wins | 10 |
 | Losses | 0 |

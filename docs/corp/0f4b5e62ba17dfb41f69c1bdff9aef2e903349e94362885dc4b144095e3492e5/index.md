@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Рагнарёк
+description: Details for Hades' Star Corporation Рагнарёк whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (791)|
+| ELO Regular | 1175 🔻  (792)|
 | ELO Competitive | 1174 🔻  (896)|
 | Total Matches | 2 |
 | Wins | 0 |

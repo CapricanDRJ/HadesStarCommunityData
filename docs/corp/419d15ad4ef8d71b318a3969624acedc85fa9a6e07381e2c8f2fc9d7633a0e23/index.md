@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Ascalon
+description: Details for Hades' Star Corporation Ascalon whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1201 🔻  (432)|
-| ELO Competitive | 1201 🔻  (527)|
+| ELO Competitive | 1201 🔻  (526)|
 | Total Matches | 3 |
 | Wins | 1 |
 | Losses | 1 |

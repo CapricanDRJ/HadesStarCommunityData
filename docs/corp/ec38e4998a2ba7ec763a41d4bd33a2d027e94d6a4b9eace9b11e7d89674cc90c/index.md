@@ -1,6 +1,7 @@
 ---
 layout: page
 title: StarControl
+description: Details for Hades' Star Corporation StarControl whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Spica​
+description: Details for Hades' Star Corporation Spica​ whitestar history
 ---
 
 | Statistic | Value |

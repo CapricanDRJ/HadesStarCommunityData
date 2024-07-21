@@ -1,6 +1,7 @@
 ---
 layout: page
 title: DadCorp
+description: Details for Hades' Star Corporation DadCorp whitestar history
 ---
 
 | Statistic | Value |

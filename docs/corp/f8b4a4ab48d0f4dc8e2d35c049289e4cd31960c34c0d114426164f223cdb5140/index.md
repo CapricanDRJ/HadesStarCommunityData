@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The Star League
+description: Details for Hades' Star Corporation The Star League whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Призрачный Путь
+description: Details for Hades' Star Corporation Призрачный Путь whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Highland Ind. 
+title: Highland Ind\. 
+description: Details for Hades' Star Corporation Highland Ind\.  whitestar history
 ---
 
 | Statistic | Value |

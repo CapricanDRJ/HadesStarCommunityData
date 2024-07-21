@@ -1,6 +1,7 @@
 ---
 layout: page
 title: l'empire sylli
+description: Details for Hades' Star Corporation l'empire sylli whitestar history
 ---
 
 | Statistic | Value |

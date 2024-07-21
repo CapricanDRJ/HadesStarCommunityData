@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Стальная крыса
+description: Details for Hades' Star Corporation Стальная крыса whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (804)|
+| ELO Regular | 1174 🔻  (805)|
 | ELO Competitive | 1174 🔻  (898)|
 | Total Matches | 2 |
 | Wins | 0 |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Cydonia Order
+description: Details for Hades' Star Corporation Cydonia Order whitestar history
 ---
 
 | Statistic | Value |

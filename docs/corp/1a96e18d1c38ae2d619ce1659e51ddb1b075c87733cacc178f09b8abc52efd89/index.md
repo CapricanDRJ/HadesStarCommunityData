@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Vermilion
+description: Details for Hades' Star Corporation Vermilion whitestar history
 ---
 
 | Statistic | Value |

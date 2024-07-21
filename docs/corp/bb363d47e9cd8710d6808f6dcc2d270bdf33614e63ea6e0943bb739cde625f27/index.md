@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Br Stark Corps
+description: Details for Hades' Star Corporation Br Stark Corps whitestar history
 ---
 
 | Statistic | Value |

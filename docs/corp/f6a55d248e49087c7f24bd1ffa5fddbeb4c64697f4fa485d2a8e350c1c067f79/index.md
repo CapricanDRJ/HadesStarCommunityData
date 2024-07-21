@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Imperio Tortuga
+description: Details for Hades' Star Corporation Imperio Tortuga whitestar history
 ---
 
 | Statistic | Value |

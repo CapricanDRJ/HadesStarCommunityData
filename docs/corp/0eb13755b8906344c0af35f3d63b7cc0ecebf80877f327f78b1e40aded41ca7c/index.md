@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Ukr alliance 
+description: Details for Hades' Star Corporation Ukr alliance  whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (792)|
+| ELO Regular | 1175 🔻  (793)|
 | ELO Competitive | 1175 🔻  (887)|
 | Total Matches | 5 |
 | Wins | 1 |

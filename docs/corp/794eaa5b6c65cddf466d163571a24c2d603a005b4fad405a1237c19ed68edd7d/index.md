@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Blackwater co.
+title: Blackwater co\.
+description: Details for Hades' Star Corporation Blackwater co\. whitestar history
 ---
 
 | Statistic | Value |

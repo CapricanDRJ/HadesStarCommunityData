@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Firestarters
+description: Details for Hades' Star Corporation Firestarters whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (815)|
+| ELO Regular | 1173 🔻  (816)|
 | ELO Competitive | 1173 🔻  (909)|
 | Total Matches | 2 |
 | Wins | 0 |

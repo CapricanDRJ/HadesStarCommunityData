@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Anarchy
+description: Details for Hades' Star Corporation Anarchy whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: GDZ
+description: Details for Hades' Star Corporation GDZ whitestar history
 ---
 
 | Statistic | Value |

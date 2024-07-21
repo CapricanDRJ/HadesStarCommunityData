@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Space Pirates
+description: Details for Hades' Star Corporation Space Pirates whitestar history
 ---
 
 | Statistic | Value |

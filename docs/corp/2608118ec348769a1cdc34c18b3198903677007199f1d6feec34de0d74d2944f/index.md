@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Sector7
+description: Details for Hades' Star Corporation Sector7 whitestar history
 ---
 
 | Statistic | Value |

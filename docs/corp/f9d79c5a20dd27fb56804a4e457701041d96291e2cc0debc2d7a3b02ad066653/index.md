@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Monster AG
+description: Details for Hades' Star Corporation Monster AG whitestar history
 ---
 
 | Statistic | Value |

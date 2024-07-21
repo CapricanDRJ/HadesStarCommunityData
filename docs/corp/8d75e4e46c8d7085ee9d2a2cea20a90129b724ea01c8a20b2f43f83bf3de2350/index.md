@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 111
+description: Details for Hades' Star Corporation 111 whitestar history
 ---
 
 | Statistic | Value |

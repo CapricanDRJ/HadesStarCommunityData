@@ -1,6 +1,7 @@
 ---
 layout: page
 title: sk cz nebula
+description: Details for Hades' Star Corporation sk cz nebula whitestar history
 ---
 
 | Statistic | Value |

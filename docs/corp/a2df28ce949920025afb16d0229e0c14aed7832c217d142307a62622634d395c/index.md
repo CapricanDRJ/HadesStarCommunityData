@@ -1,12 +1,13 @@
 ---
 layout: page
 title: The Elite
+description: Details for Hades' Star Corporation The Elite whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1190 🔺  (524)|
-| ELO Competitive | 1207 🔺  (495)|
+| ELO Competitive | 1207 🔺  (494)|
 | Total Matches | 24 |
 | Wins | 12 |
 | Losses | 12 |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Croce del Sud
+description: Details for Hades' Star Corporation Croce del Sud whitestar history
 ---
 
 | Statistic | Value |

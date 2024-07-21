@@ -1,6 +1,7 @@
 ---
 layout: page
 title: УпсПриехали
+description: Details for Hades' Star Corporation УпсПриехали whitestar history
 ---
 
 | Statistic | Value |

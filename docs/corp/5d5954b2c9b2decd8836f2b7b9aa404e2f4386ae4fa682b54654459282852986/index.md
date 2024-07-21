@@ -1,6 +1,7 @@
 ---
 layout: page
 title: GermanIndustrie
+description: Details for Hades' Star Corporation GermanIndustrie whitestar history
 ---
 
 | Statistic | Value |

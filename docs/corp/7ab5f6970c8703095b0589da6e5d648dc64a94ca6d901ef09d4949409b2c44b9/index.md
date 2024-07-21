@@ -1,12 +1,13 @@
 ---
 layout: page
 title: 游徒之家
+description: Details for Hades' Star Corporation 游徒之家 whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1197 🔺  (471)|
-| ELO Competitive | 1208 🔺  (492)|
+| ELO Competitive | 1208 🔺  (491)|
 | Total Matches | 5 |
 | Wins | 2 |
 | Losses | 3 |

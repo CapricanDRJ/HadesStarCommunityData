@@ -1,6 +1,7 @@
 ---
 layout: page
 title: OrderofTheGeon
+description: Details for Hades' Star Corporation OrderofTheGeon whitestar history
 ---
 
 | Statistic | Value |

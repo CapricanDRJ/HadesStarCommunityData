@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Orden Estelar 
+description: Details for Hades' Star Corporation Orden Estelar  whitestar history
 ---
 
 | Statistic | Value |

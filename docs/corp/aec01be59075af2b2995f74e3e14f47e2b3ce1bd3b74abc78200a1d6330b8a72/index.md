@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Corp. Estelar
+title: Corp\. Estelar
+description: Details for Hades' Star Corporation Corp\. Estelar whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1271 🔺  (160)|
+| ELO Regular | 1271 🔺  (161)|
 | ELO Competitive | 1302 🔺  (197)|
 | Total Matches | 18 |
 | Wins | 10 |

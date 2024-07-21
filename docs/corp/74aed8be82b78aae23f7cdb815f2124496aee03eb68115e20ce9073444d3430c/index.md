@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Sad Panda 2.0
+title: Sad Panda 2\.0
+description: Details for Hades' Star Corporation Sad Panda 2\.0 whitestar history
 ---
 
 | Statistic | Value |

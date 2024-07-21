@@ -1,6 +1,7 @@
 ---
 layout: page
 title: just because
+description: Details for Hades' Star Corporation just because whitestar history
 ---
 
 | Statistic | Value |

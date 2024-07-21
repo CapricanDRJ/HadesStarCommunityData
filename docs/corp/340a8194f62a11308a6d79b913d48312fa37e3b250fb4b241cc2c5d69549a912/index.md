@@ -1,11 +1,12 @@
 ---
 layout: page
 title: SYNDICATE
+description: Details for Hades' Star Corporation SYNDICATE whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1271 🔺  (159)|
+| ELO Regular | 1271 🔺  (160)|
 | ELO Competitive | 1271 🔺  (255)|
 | Total Matches | 5 |
 | Wins | 5 |

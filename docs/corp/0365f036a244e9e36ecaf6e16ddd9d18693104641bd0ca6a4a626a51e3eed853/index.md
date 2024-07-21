@@ -1,6 +1,7 @@
 ---
 layout: page
 title: UsualSuspects
+description: Details for Hades' Star Corporation UsualSuspects whitestar history
 ---
 
 | Statistic | Value |

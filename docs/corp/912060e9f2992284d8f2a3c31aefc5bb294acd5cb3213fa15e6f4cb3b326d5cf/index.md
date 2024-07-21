@@ -1,6 +1,7 @@
 ---
 layout: page
 title: OntarioDiligent
+description: Details for Hades' Star Corporation OntarioDiligent whitestar history
 ---
 
 | Statistic | Value |

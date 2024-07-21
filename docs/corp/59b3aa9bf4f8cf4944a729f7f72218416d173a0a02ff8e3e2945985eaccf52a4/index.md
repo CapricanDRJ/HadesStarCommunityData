@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Anarchy G13
+description: Details for Hades' Star Corporation Anarchy G13 whitestar history
 ---
 
 | Statistic | Value |

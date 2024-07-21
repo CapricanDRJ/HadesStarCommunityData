@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Toxic
+description: Details for Hades' Star Corporation Toxic whitestar history
 ---
 
 | Statistic | Value |

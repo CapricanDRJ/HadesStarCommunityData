@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Utd. Human Fed.
+title: Utd\. Human Fed\.
+description: Details for Hades' Star Corporation Utd\. Human Fed\. whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (755)|
+| ELO Regular | 1181 🔻  (756)|
 | ELO Competitive | 1318 🔻  (177)|
 | Total Matches | 43 |
 | Wins | 22 |

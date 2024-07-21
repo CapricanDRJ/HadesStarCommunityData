@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Rising star
+description: Details for Hades' Star Corporation Rising star whitestar history
 ---
 
 | Statistic | Value |

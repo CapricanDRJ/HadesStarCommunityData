@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 星光万丈
+description: Details for Hades' Star Corporation 星光万丈 whitestar history
 ---
 
 | Statistic | Value |

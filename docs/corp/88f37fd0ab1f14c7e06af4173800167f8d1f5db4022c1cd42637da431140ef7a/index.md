@@ -1,6 +1,7 @@
 ---
 layout: page
 title: TeddisaurusWrex
+description: Details for Hades' Star Corporation TeddisaurusWrex whitestar history
 ---
 
 | Statistic | Value |

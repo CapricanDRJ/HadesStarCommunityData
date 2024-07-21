@@ -1,6 +1,7 @@
 ---
 layout: page
 title: space eagles
+description: Details for Hades' Star Corporation space eagles whitestar history
 ---
 
 | Statistic | Value |

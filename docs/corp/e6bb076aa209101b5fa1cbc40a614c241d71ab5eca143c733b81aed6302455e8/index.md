@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 逐光起航
+description: Details for Hades' Star Corporation 逐光起航 whitestar history
 ---
 
 | Statistic | Value |

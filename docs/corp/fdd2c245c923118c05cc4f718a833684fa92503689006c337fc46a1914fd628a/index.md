@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Рикардия
+description: Details for Hades' Star Corporation Рикардия whitestar history
 ---
 
 | Statistic | Value |

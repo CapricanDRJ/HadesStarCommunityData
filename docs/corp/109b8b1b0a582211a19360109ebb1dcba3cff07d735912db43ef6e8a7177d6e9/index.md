@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Foreshadowing
+description: Details for Hades' Star Corporation Foreshadowing whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (787)|
+| ELO Regular | 1176 🔻  (788)|
 | ELO Competitive | 1176 🔻  (871)|
 | Total Matches | 2 |
 | Wins | 0 |

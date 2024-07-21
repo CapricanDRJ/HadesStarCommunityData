@@ -1,6 +1,7 @@
 ---
 layout: page
 title: New Star
+description: Details for Hades' Star Corporation New Star whitestar history
 ---
 
 | Statistic | Value |

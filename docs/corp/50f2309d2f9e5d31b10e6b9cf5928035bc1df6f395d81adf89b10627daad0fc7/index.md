@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Legión
+description: Details for Hades' Star Corporation Legión whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: СССР 2.0
+title: СССР 2\.0
+description: Details for Hades' Star Corporation СССР 2\.0 whitestar history
 ---
 
 | Statistic | Value |

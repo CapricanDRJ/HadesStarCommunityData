@@ -1,6 +1,7 @@
 ---
 layout: page
 title: La orden real
+description: Details for Hades' Star Corporation La orden real whitestar history
 ---
 
 | Statistic | Value |

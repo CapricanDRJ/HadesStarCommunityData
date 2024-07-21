@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Simply Uranus
+description: Details for Hades' Star Corporation Simply Uranus whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (809)|
+| ELO Regular | 1174 🔻  (810)|
 | ELO Competitive | 1190 🔻  (621)|
 | Total Matches | 2 |
 | Wins | 0 |

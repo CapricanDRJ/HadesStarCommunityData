@@ -1,6 +1,7 @@
 ---
 layout: page
 title: VoidRunners
+description: Details for Hades' Star Corporation VoidRunners whitestar history
 ---
 
 | Statistic | Value |

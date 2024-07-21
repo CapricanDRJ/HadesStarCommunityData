@@ -1,6 +1,7 @@
 ---
 layout: page
-title: FURIA 2.0
+title: FURIA 2\.0
+description: Details for Hades' Star Corporation FURIA 2\.0 whitestar history
 ---
 
 | Statistic | Value |

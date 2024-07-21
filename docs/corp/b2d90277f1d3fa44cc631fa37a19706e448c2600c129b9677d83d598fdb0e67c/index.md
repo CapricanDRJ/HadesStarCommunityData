@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Colonial Union
+description: Details for Hades' Star Corporation Colonial Union whitestar history
 ---
 
 | Statistic | Value |

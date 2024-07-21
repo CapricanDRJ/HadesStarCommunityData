@@ -1,11 +1,12 @@
 ---
 layout: page
 title: 萌新的收留所
+description: Details for Hades' Star Corporation 萌新的收留所 whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1258 🔺  (188)|
+| ELO Regular | 1258 🔺  (189)|
 | ELO Competitive | 1309 🔺  (186)|
 | Total Matches | 11 |
 | Wins | 7 |

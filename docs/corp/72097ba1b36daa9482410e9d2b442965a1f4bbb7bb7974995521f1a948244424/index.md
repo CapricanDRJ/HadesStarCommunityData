@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 八月政府
+description: Details for Hades' Star Corporation 八月政府 whitestar history
 ---
 
 | Statistic | Value |

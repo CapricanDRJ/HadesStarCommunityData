@@ -1,6 +1,7 @@
 ---
 layout: page
 title: AwA
+description: Details for Hades' Star Corporation AwA whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Спутник
+description: Details for Hades' Star Corporation Спутник whitestar history
 ---
 
 | Statistic | Value |

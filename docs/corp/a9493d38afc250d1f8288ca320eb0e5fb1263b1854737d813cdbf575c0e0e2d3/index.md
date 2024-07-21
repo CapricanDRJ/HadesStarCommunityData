@@ -1,6 +1,7 @@
 ---
 layout: page
-title: -=Содружество=-
+title: \-=Содружество=\-
+description: Details for Hades' Star Corporation \-=Содружество=\- whitestar history
 ---
 
 | Statistic | Value |

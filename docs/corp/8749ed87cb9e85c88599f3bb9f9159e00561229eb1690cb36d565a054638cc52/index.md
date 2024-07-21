@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Seila
+description: Details for Hades' Star Corporation Seila whitestar history
 ---
 
 | Statistic | Value |

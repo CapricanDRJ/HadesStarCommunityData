@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 8 русский рейх
+description: Details for Hades' Star Corporation 8 русский рейх whitestar history
 ---
 
 | Statistic | Value |

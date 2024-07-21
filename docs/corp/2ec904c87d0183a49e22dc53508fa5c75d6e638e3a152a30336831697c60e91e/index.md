@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Axioma
+description: Details for Hades' Star Corporation Axioma whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1032 🔻  (1152)|
+| ELO Regular | 1032 🔻  (1150)|
 | ELO Competitive | 1072 🔻  (1161)|
 | Total Matches | 35 |
 | Wins | 10 |

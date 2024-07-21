@@ -1,6 +1,7 @@
 ---
 layout: page
 title: lonewolf
+description: Details for Hades' Star Corporation lonewolf whitestar history
 ---
 
 | Statistic | Value |

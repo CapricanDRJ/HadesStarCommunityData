@@ -1,11 +1,12 @@
 ---
 layout: page
 title: The Picard
+description: Details for Hades' Star Corporation The Picard whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1030 🔻  (1153)|
+| ELO Regular | 1030 🔻  (1152)|
 | ELO Competitive | 1052 🔻  (1167)|
 | Total Matches | 17 |
 | Wins | 0 |

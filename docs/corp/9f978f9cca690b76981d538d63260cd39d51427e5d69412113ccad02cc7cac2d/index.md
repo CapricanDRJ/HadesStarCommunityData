@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Soylent Corp.
+title: Soylent Corp\.
+description: Details for Hades' Star Corporation Soylent Corp\. whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1265 🔻  (171)|
+| ELO Regular | 1265 🔻  (172)|
 | ELO Competitive | 1313 🔻  (184)|
 | Total Matches | 33 |
 | Wins | 22 |

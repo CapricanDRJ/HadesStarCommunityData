@@ -1,6 +1,7 @@
 ---
 layout: page
-title: 星环-星际联盟
+title: 星环\-星际联盟
+description: Details for Hades' Star Corporation 星环\-星际联盟 whitestar history
 ---
 
 | Statistic | Value |

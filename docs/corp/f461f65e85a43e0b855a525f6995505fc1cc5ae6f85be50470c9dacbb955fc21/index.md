@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Cowboys
+description: Details for Hades' Star Corporation Cowboys whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 11th Engineers
+description: Details for Hades' Star Corporation 11th Engineers whitestar history
 ---
 
 | Statistic | Value |

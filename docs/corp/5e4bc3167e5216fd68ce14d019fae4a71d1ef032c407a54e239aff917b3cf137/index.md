@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The Borg
+description: Details for Hades' Star Corporation The Borg whitestar history
 ---
 
 | Statistic | Value |

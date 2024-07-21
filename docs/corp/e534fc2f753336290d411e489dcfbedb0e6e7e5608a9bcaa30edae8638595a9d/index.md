@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 阿尔特拉太空港
+description: Details for Hades' Star Corporation 阿尔特拉太空港 whitestar history
 ---
 
 | Statistic | Value |

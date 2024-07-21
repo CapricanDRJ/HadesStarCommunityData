@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Гарри Поттер
+description: Details for Hades' Star Corporation Гарри Поттер whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1257 🔺  (189)|
+| ELO Regular | 1257 🔺  (190)|
 | ELO Competitive | 1278 🔺  (241)|
 | Total Matches | 10 |
 | Wins | 7 |

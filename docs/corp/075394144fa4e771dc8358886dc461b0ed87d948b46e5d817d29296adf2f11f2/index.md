@@ -1,6 +1,7 @@
 ---
 layout: page
 title: СНГ — РОССИЯ
+description: Details for Hades' Star Corporation СНГ — РОССИЯ whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Elite
+description: Details for Hades' Star Corporation Elite whitestar history
 ---
 
 | Statistic | Value |

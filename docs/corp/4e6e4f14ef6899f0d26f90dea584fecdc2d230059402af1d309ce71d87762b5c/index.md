@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Скричеры
+description: Details for Hades' Star Corporation Скричеры whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1197 🔺  (475)|
-| ELO Competitive | 1200 🔺  (543)|
+| ELO Competitive | 1200 🔺  (542)|
 | Total Matches | 4 |
 | Wins | 2 |
 | Losses | 2 |

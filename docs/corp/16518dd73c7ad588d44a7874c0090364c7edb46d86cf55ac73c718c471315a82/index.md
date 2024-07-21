@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Avalanche 2.0
+title: Avalanche 2\.0
+description: Details for Hades' Star Corporation Avalanche 2\.0 whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (802)|
+| ELO Regular | 1174 🔻  (803)|
 | ELO Competitive | 1177 🔻  (869)|
 | Total Matches | 6 |
 | Wins | 2 |

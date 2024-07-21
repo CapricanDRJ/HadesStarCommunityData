@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Retarts
+description: Details for Hades' Star Corporation Retarts whitestar history
 ---
 
 | Statistic | Value |

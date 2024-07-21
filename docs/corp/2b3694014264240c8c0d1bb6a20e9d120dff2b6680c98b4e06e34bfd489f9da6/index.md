@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Alpha to Omega
+description: Details for Hades' Star Corporation Alpha to Omega whitestar history
 ---
 
 | Statistic | Value |

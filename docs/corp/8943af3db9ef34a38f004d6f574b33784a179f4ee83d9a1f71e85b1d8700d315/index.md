@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CSI
+description: Details for Hades' Star Corporation CSI whitestar history
 ---
 
 | Statistic | Value |

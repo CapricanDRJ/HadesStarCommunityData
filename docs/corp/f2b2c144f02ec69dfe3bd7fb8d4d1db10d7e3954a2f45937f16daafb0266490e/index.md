@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 한국인
+description: Details for Hades' Star Corporation 한국인 whitestar history
 ---
 
 | Statistic | Value |

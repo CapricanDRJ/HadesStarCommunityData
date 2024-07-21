@@ -1,6 +1,7 @@
 ---
 layout: page
 title: FėniX•
+description: Details for Hades' Star Corporation FėniX• whitestar history
 ---
 
 | Statistic | Value |

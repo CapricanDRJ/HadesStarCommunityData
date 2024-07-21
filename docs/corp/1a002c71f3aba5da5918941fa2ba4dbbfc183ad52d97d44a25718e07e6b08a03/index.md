@@ -1,6 +1,7 @@
 ---
 layout: page
 title: OntarioDawn
+description: Details for Hades' Star Corporation OntarioDawn whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Cygnus X-1
+title: Cygnus X\-1
+description: Details for Hades' Star Corporation Cygnus X\-1 whitestar history
 ---
 
 | Statistic | Value |

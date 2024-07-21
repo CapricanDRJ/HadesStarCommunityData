@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Peasants
+description: Details for Hades' Star Corporation Peasants whitestar history
 ---
 
 | Statistic | Value |

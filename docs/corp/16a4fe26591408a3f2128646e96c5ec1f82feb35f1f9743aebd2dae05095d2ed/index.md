@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 揽月宫
+description: Details for Hades' Star Corporation 揽月宫 whitestar history
 ---
 
 | Statistic | Value |

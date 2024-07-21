@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Regulus
+description: Details for Hades' Star Corporation Regulus whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1151 🔻  (973)|
-| ELO Competitive | 1208 🔻  (491)|
+| ELO Competitive | 1208 🔻  (490)|
 | Total Matches | 18 |
 | Wins | 7 |
 | Losses | 11 |

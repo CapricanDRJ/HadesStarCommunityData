@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Любители Пива
+description: Details for Hades' Star Corporation Любители Пива whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1035 🔻  (1148)|
+| ELO Regular | 1035 🔻  (1147)|
 | ELO Competitive | 1073 🔻  (1160)|
 | Total Matches | 21 |
 | Wins | 2 |

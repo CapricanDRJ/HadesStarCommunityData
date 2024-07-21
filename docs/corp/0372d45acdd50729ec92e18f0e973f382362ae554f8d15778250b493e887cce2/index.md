@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CDG
+description: Details for Hades' Star Corporation CDG whitestar history
 ---
 
 | Statistic | Value |

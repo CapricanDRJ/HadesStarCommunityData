@@ -1,6 +1,7 @@
 ---
 layout: page
 title: BlakkFlot
+description: Details for Hades' Star Corporation BlakkFlot whitestar history
 ---
 
 | Statistic | Value |

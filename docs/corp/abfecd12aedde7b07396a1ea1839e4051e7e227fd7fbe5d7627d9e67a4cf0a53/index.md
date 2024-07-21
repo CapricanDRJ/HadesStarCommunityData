@@ -1,11 +1,12 @@
 ---
 layout: page
-title: C.C Legion
+title: C\.C Legion
+description: Details for Hades' Star Corporation C\.C Legion whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1256 🔺  (192)|
+| ELO Regular | 1256 🔺  (193)|
 | ELO Competitive | 1257 🔺  (289)|
 | Total Matches | 6 |
 | Wins | 5 |

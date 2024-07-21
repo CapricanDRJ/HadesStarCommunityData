@@ -1,6 +1,7 @@
 ---
 layout: page
 title: INFINITY STAR
+description: Details for Hades' Star Corporation INFINITY STAR whitestar history
 ---
 
 | Statistic | Value |

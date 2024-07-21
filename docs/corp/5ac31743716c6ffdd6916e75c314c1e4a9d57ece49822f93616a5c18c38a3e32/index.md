@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Stars Radiant
+description: Details for Hades' Star Corporation Stars Radiant whitestar history
 ---
 
 | Statistic | Value |

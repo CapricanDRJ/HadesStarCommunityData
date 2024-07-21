@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Hand of Legion 
+description: Details for Hades' Star Corporation Hand of Legion  whitestar history
 ---
 
 | Statistic | Value |

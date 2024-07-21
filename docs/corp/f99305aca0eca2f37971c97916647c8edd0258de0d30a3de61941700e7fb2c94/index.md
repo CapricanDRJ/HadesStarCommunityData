@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Corvus Ind.
+title: Corvus Ind\.
+description: Details for Hades' Star Corporation Corvus Ind\. whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1358 🔺  (58)|
+| ELO Regular | 1358 🔺  (57)|
 | ELO Competitive | 1404 🔺  (77)|
 | Total Matches | 32 |
 | Wins | 23 |

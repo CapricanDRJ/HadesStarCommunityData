@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The Base
+description: Details for Hades' Star Corporation The Base whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Gummibärenbande
+description: Details for Hades' Star Corporation Gummibärenbande whitestar history
 ---
 
 | Statistic | Value |

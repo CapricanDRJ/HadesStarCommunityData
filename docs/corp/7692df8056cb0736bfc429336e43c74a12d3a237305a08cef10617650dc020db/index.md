@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 世外桃源
+description: Details for Hades' Star Corporation 世外桃源 whitestar history
 ---
 
 | Statistic | Value |

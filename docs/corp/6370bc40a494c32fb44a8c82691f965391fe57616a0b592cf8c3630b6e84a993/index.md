@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Sunny
+description: Details for Hades' Star Corporation Sunny whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: LUPI ROMÎNI
+description: Details for Hades' Star Corporation LUPI ROMÎNI whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: DESERT DEMONS
+description: Details for Hades' Star Corporation DESERT DEMONS whitestar history
 ---
 
 | Statistic | Value |

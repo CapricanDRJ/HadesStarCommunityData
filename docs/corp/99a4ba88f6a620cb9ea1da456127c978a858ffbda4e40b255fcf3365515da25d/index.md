@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Industrial W.O
+title: Industrial W\.O
+description: Details for Hades' Star Corporation Industrial W\.O whitestar history
 ---
 
 | Statistic | Value |

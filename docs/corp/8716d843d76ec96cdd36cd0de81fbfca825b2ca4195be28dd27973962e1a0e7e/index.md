@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 星海共同体
+description: Details for Hades' Star Corporation 星海共同体 whitestar history
 ---
 
 | Statistic | Value |

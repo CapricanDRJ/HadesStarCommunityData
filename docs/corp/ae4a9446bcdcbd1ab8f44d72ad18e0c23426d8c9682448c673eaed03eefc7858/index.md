@@ -1,6 +1,7 @@
 ---
 layout: page
 title: /tmp
+description: Details for Hades' Star Corporation /tmp whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Variants
+description: Details for Hades' Star Corporation Variants whitestar history
 ---
 
 | Statistic | Value |

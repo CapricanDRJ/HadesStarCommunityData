@@ -1,6 +1,7 @@
 ---
 layout: page
 title: FAIR
+description: Details for Hades' Star Corporation FAIR whitestar history
 ---
 
 | Statistic | Value |

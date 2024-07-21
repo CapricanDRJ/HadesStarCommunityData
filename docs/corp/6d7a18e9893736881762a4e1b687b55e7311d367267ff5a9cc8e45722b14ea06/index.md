@@ -1,6 +1,7 @@
 ---
 layout: page
-title: U.S.A
+title: U\.S\.A
+description: Details for Hades' Star Corporation U\.S\.A whitestar history
 ---
 
 | Statistic | Value |

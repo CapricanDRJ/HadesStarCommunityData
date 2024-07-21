@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Curcubeu
+description: Details for Hades' Star Corporation Curcubeu whitestar history
 ---
 
 | Statistic | Value |

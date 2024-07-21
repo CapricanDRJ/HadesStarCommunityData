@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Warriorlords
+description: Details for Hades' Star Corporation Warriorlords whitestar history
 ---
 
 | Statistic | Value |

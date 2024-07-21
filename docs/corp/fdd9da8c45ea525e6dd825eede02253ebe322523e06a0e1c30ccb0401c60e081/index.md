@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Betelgeuse
+description: Details for Hades' Star Corporation Betelgeuse whitestar history
 ---
 
 | Statistic | Value |

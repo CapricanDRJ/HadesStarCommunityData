@@ -1,6 +1,7 @@
 ---
 layout: page
 title: НИФИГАСЕБЕ
+description: Details for Hades' Star Corporation НИФИГАСЕБЕ whitestar history
 ---
 
 | Statistic | Value |

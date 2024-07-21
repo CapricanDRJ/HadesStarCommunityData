@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Серебряная орда
+description: Details for Hades' Star Corporation Серебряная орда whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1259 🔺  (185)|
+| ELO Regular | 1259 🔺  (186)|
 | ELO Competitive | 1464 🔺  (39)|
 | Total Matches | 71 |
 | Wins | 42 |

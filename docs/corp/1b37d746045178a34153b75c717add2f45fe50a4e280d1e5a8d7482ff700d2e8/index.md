@@ -1,6 +1,7 @@
 ---
 layout: page
 title: brit boys
+description: Details for Hades' Star Corporation brit boys whitestar history
 ---
 
 | Statistic | Value |

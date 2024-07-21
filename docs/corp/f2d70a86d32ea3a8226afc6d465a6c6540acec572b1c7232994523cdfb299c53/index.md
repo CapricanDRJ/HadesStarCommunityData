@@ -1,11 +1,12 @@
 ---
 layout: page
 title: ✡天启✡
+description: Details for Hades' Star Corporation ✡天启✡ whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1356 🔻  (60)|
+| ELO Regular | 1356 🔻  (59)|
 | ELO Competitive | 1457 🔺  (43)|
 | Total Matches | 30 |
 | Wins | 22 |

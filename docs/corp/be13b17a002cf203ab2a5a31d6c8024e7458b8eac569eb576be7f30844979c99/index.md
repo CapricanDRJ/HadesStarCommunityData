@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Planet Express
+description: Details for Hades' Star Corporation Planet Express whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1268 🔻  (167)|
+| ELO Regular | 1268 🔻  (168)|
 | ELO Competitive | 1276 🔻  (243)|
 | Total Matches | 10 |
 | Wins | 7 |

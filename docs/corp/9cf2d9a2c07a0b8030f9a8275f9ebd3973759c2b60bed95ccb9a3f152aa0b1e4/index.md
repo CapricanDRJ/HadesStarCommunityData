@@ -1,12 +1,13 @@
 ---
 layout: page
 title: 星海扬帆
+description: Details for Hades' Star Corporation 星海扬帆 whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1228 🔺  (286)|
-| ELO Competitive | 1330 🔺  (155)|
+| ELO Competitive | 1330 🔺  (156)|
 | Total Matches | 32 |
 | Wins | 17 |
 | Losses | 15 |

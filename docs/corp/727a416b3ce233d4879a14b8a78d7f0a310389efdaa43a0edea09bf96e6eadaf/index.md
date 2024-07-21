@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Rocket-Babies
+title: Rocket\-Babies
+description: Details for Hades' Star Corporation Rocket\-Babies whitestar history
 ---
 
 | Statistic | Value |

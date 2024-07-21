@@ -1,6 +1,7 @@
 ---
 layout: page
-title: 001-23
+title: 001\-23
+description: Details for Hades' Star Corporation 001\-23 whitestar history
 ---
 
 | Statistic | Value |

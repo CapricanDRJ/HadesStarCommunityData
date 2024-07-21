@@ -1,12 +1,13 @@
 ---
 layout: page
 title: lesescargots
+description: Details for Hades' Star Corporation lesescargots whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1284 🔻  (139)|
-| ELO Competitive | 1321 🔻  (171)|
+| ELO Competitive | 1321 🔻  (172)|
 | Total Matches | 49 |
 | Wins | 35 |
 | Losses | 14 |

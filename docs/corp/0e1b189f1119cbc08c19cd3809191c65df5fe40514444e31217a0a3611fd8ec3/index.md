@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Stars
+description: Details for Hades' Star Corporation Stars whitestar history
 ---
 
 | Statistic | Value |

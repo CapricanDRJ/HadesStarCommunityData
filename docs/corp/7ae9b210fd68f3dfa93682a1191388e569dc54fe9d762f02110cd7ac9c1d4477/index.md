@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Rogue One
+description: Details for Hades' Star Corporation Rogue One whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: リリース
+description: Details for Hades' Star Corporation リリース whitestar history
 ---
 
 | Statistic | Value |

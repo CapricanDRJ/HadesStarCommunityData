@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Legionnaires
+description: Details for Hades' Star Corporation Legionnaires whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (796)|
+| ELO Regular | 1175 🔻  (797)|
 | ELO Competitive | 1175 🔻  (886)|
 | Total Matches | 2 |
 | Wins | 0 |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: TRAPSTAR¹
+description: Details for Hades' Star Corporation TRAPSTAR¹ whitestar history
 ---
 
 | Statistic | Value |

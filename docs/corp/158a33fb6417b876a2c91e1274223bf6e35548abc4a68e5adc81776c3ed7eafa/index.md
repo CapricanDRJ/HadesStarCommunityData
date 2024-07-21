@@ -1,6 +1,7 @@
 ---
 layout: page
 title: New Orbit ©
+description: Details for Hades' Star Corporation New Orbit © whitestar history
 ---
 
 | Statistic | Value |

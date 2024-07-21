@@ -1,11 +1,12 @@
 ---
 layout: page
-title: X-wing
+title: X\-wing
+description: Details for Hades' Star Corporation X\-wing whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1177 🔻  (775)|
+| ELO Regular | 1177 🔻  (776)|
 | ELO Competitive | 1177 🔻  (864)|
 | Total Matches | 1 |
 | Wins | 0 |

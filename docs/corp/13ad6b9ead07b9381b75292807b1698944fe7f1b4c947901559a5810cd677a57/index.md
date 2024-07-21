@@ -1,6 +1,7 @@
 ---
 layout: page
-title: R.S.F.
+title: R\.S\.F\.
+description: Details for Hades' Star Corporation R\.S\.F\. whitestar history
 ---
 
 | Statistic | Value |

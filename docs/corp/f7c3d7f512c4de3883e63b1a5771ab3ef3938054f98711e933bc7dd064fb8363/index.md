@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Wompwompway 
+description: Details for Hades' Star Corporation Wompwompway  whitestar history
 ---
 
 | Statistic | Value |

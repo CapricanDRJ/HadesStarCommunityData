@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Assasins bees
+description: Details for Hades' Star Corporation Assasins bees whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Lacuna Ind.
+title: Lacuna Ind\.
+description: Details for Hades' Star Corporation Lacuna Ind\. whitestar history
 ---
 
 | Statistic | Value |

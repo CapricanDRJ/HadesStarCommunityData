@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Trade Systems
+description: Details for Hades' Star Corporation Trade Systems whitestar history
 ---
 
 | Statistic | Value |

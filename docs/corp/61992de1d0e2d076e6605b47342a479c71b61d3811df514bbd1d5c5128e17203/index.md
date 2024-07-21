@@ -1,11 +1,12 @@
 ---
 layout: page
 title: 小宇宙研究会
+description: Details for Hades' Star Corporation 小宇宙研究会 whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1180 🔻  (763)|
+| ELO Regular | 1180 🔻  (764)|
 | ELO Competitive | 1183 🔻  (835)|
 | Total Matches | 3 |
 | Wins | 1 |

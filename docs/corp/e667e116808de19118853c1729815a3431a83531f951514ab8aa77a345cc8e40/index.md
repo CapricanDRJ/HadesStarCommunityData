@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Highlife
+description: Details for Hades' Star Corporation Highlife whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1180 🔻  (765)|
+| ELO Regular | 1180 🔻  (766)|
 | ELO Competitive | 1210 🔻  (482)|
 | Total Matches | 36 |
 | Wins | 18 |

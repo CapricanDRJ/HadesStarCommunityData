@@ -1,6 +1,7 @@
 ---
 layout: page
 title: BrinySeal
+description: Details for Hades' Star Corporation BrinySeal whitestar history
 ---
 
 | Statistic | Value |

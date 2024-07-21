@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The Nerd Herd
+description: Details for Hades' Star Corporation The Nerd Herd whitestar history
 ---
 
 | Statistic | Value |

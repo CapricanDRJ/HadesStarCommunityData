@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Dutch Space Id
+description: Details for Hades' Star Corporation Dutch Space Id whitestar history
 ---
 
 | Statistic | Value |

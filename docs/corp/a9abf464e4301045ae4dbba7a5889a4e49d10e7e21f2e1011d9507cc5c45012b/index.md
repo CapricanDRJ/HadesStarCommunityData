@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Proteus Tech
+description: Details for Hades' Star Corporation Proteus Tech whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1263 🔻  (176)|
+| ELO Regular | 1263 🔻  (177)|
 | ELO Competitive | 1267 🔻  (264)|
 | Total Matches | 7 |
 | Wins | 6 |

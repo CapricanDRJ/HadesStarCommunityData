@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Зелёная корпа
+description: Details for Hades' Star Corporation Зелёная корпа whitestar history
 ---
 
 | Statistic | Value |

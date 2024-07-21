@@ -1,6 +1,7 @@
 ---
 layout: page
 title: ДИВЕРСАНТЫ
+description: Details for Hades' Star Corporation ДИВЕРСАНТЫ whitestar history
 ---
 
 | Statistic | Value |

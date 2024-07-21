@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 붉은늑대
+description: Details for Hades' Star Corporation 붉은늑대 whitestar history
 ---
 
 | Statistic | Value |

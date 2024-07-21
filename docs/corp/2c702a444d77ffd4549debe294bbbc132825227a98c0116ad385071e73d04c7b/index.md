@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 仙剑3
+description: Details for Hades' Star Corporation 仙剑3 whitestar history
 ---
 
 | Statistic | Value |

@@ -1,11 +1,12 @@
 ---
 layout: page
-title: *Alfa y Omega*
+title: \*Alfa y Omega\*
+description: Details for Hades' Star Corporation \*Alfa y Omega\* whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1266 🔺  (170)|
+| ELO Regular | 1266 🔺  (171)|
 | ELO Competitive | 1268 🔺  (263)|
 | Total Matches | 10 |
 | Wins | 7 |

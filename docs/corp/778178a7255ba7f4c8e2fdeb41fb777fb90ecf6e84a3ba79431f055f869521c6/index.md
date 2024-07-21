@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Crucible 
+description: Details for Hades' Star Corporation Crucible  whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1201 🔻  (433)|
-| ELO Competitive | 1201 🔻  (525)|
+| ELO Competitive | 1201 🔻  (524)|
 | Total Matches | 2 |
 | Wins | 1 |
 | Losses | 1 |

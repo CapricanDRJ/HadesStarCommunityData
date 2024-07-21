@@ -1,11 +1,12 @@
 ---
 layout: page
 title: 666
+description: Details for Hades' Star Corporation 666 whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1177 🔻  (779)|
+| ELO Regular | 1177 🔻  (780)|
 | ELO Competitive | 1177 🔻  (866)|
 | Total Matches | 2 |
 | Wins | 0 |

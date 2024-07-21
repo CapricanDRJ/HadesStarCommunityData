@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Ironbear Legion
+description: Details for Hades' Star Corporation Ironbear Legion whitestar history
 ---
 
 | Statistic | Value |

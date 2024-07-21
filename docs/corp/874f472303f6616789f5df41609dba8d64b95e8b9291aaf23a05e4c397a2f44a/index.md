@@ -1,11 +1,12 @@
 ---
 layout: page
 title: SUN OF 3LANDS
+description: Details for Hades' Star Corporation SUN OF 3LANDS whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1269 🔺  (163)|
+| ELO Regular | 1269 🔺  (164)|
 | ELO Competitive | 1280 🔺  (237)|
 | Total Matches | 10 |
 | Wins | 7 |

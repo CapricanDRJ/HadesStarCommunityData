@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Ukrain Alliance
+description: Details for Hades' Star Corporation Ukrain Alliance whitestar history
 ---
 
 | Statistic | Value |

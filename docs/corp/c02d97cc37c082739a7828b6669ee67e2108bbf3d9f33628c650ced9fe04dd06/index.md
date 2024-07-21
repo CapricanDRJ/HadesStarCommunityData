@@ -1,11 +1,12 @@
 ---
 layout: page
 title: 银星舰队SSF
+description: Details for Hades' Star Corporation 银星舰队SSF whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1262 🔺  (178)|
+| ELO Regular | 1262 🔺  (179)|
 | ELO Competitive | 1274 🔺  (248)|
 | Total Matches | 12 |
 | Wins | 9 |

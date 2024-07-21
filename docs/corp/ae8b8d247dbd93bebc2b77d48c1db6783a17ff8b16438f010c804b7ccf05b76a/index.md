@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Созидание 2.0
+title: Созидание 2\.0
+description: Details for Hades' Star Corporation Созидание 2\.0 whitestar history
 ---
 
 | Statistic | Value |

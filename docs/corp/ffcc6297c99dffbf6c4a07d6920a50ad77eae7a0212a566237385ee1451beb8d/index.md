@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Gardiens détoil
+description: Details for Hades' Star Corporation Gardiens détoil whitestar history
 ---
 
 | Statistic | Value |

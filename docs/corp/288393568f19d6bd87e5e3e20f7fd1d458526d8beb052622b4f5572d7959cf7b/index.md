@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Sentencia
+description: Details for Hades' Star Corporation Sentencia whitestar history
 ---
 
 | Statistic | Value |

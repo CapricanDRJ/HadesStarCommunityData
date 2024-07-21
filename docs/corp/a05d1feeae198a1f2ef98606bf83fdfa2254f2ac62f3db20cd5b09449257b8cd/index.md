@@ -1,6 +1,7 @@
 ---
 layout: page
 title: DarkSide
+description: Details for Hades' Star Corporation DarkSide whitestar history
 ---
 
 | Statistic | Value |

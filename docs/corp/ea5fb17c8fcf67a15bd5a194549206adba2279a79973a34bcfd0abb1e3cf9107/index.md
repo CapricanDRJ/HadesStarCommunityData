@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Continuum
+description: Details for Hades' Star Corporation Continuum whitestar history
 ---
 
 | Statistic | Value |

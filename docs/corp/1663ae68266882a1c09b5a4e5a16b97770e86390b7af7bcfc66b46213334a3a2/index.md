@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Hexacropians
+description: Details for Hades' Star Corporation Hexacropians whitestar history
 ---
 
 | Statistic | Value |

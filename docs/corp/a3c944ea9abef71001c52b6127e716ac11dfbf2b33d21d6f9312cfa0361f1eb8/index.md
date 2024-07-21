@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Irish Pride 
+description: Details for Hades' Star Corporation Irish Pride  whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1199 🔺  (452)|
-| ELO Competitive | 1201 🔺  (514)|
+| ELO Competitive | 1201 🔺  (513)|
 | Total Matches | 2 |
 | Wins | 1 |
 | Losses | 1 |

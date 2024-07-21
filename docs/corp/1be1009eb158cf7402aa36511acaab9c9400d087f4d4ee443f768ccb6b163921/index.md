@@ -1,11 +1,12 @@
 ---
 layout: page
 title: 红日初升，其道大光
+description: Details for Hades' Star Corporation 红日初升，其道大光 whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1256 🔺  (196)|
+| ELO Regular | 1256 🔺  (197)|
 | ELO Competitive | 1247 🔺  (310)|
 | Total Matches | 4 |
 | Wins | 4 |

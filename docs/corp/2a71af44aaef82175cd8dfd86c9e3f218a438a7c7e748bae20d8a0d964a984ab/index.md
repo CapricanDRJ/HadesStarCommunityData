@@ -1,12 +1,13 @@
 ---
 layout: page
 title: 神圣罗马帝国
+description: Details for Hades' Star Corporation 神圣罗马帝国 whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1087 🔺  (1110)|
-| ELO Competitive | 1209 🔺  (487)|
+| ELO Competitive | 1209 🔺  (486)|
 | Total Matches | 57 |
 | Wins | 18 |
 | Losses | 38 |

@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Battle Academy
+description: Details for Hades' Star Corporation Battle Academy whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1254 🔺  (200)|
+| ELO Regular | 1254 🔺  (201)|
 | ELO Competitive | 1259 🔺  (281)|
 | Total Matches | 4 |
 | Wins | 4 |

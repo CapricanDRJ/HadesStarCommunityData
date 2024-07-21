@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Halcon español
+description: Details for Hades' Star Corporation Halcon español whitestar history
 ---
 
 | Statistic | Value |

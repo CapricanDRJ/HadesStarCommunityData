@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 仙女座星雲
+description: Details for Hades' Star Corporation 仙女座星雲 whitestar history
 ---
 
 | Statistic | Value |

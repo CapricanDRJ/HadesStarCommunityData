@@ -1,11 +1,12 @@
 ---
 layout: page
 title: DTC
+description: Details for Hades' Star Corporation DTC whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1026 🔻  (1154)|
+| ELO Regular | 1026 🔻  (1153)|
 | ELO Competitive | 1176 🔻  (872)|
 | Total Matches | 55 |
 | Wins | 14 |

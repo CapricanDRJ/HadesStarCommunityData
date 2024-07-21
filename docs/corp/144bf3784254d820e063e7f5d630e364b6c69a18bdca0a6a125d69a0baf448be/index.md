@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Divinity's End
+description: Details for Hades' Star Corporation Divinity's End whitestar history
 ---
 
 | Statistic | Value |

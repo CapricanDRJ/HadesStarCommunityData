@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Черное солнце
+description: Details for Hades' Star Corporation Черное солнце whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (582)|
-| ELO Competitive | 1205 🔺  (497)|
+| ELO Competitive | 1205 🔺  (496)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 1 |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Two kitties
+description: Details for Hades' Star Corporation Two kitties whitestar history
 ---
 
 | Statistic | Value |

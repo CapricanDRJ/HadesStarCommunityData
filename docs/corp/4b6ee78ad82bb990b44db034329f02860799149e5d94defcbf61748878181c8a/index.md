@@ -1,6 +1,7 @@
 ---
 layout: page
 title: wyvern
+description: Details for Hades' Star Corporation wyvern whitestar history
 ---
 
 | Statistic | Value |

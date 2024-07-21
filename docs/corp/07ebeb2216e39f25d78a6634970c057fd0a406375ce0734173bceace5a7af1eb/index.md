@@ -1,6 +1,7 @@
 ---
 layout: page
 title: OTRSᗜωO
+description: Details for Hades' Star Corporation OTRSᗜωO whitestar history
 ---
 
 | Statistic | Value |

@@ -1,11 +1,12 @@
 ---
 layout: page
 title: LCP
+description: Details for Hades' Star Corporation LCP whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (806)|
+| ELO Regular | 1174 🔻  (807)|
 | ELO Competitive | 1178 🔻  (861)|
 | Total Matches | 2 |
 | Wins | 0 |

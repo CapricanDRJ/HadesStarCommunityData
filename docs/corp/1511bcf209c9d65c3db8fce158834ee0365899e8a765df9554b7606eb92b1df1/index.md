@@ -1,11 +1,12 @@
 ---
 layout: page
 title: 太阳系联邦
+description: Details for Hades' Star Corporation 太阳系联邦 whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1033 🔻  (1151)|
+| ELO Regular | 1033 🔻  (1149)|
 | ELO Competitive | 1104 🔻  (1132)|
 | Total Matches | 15 |
 | Wins | 0 |

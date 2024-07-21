@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Сибиряки
+description: Details for Hades' Star Corporation Сибиряки whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Stardust
+description: Details for Hades' Star Corporation Stardust whitestar history
 ---
 
 | Statistic | Value |

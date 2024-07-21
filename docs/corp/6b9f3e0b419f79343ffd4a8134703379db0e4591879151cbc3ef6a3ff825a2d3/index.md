@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Winged Pheonix
+description: Details for Hades' Star Corporation Winged Pheonix whitestar history
 ---
 
 | Statistic | Value |

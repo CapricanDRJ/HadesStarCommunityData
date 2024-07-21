@@ -1,12 +1,13 @@
 ---
 layout: page
 title: 企鹅帝国
+description: Details for Hades' Star Corporation 企鹅帝国 whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1200 🔻  (449)|
-| ELO Competitive | 1200 🔻  (546)|
+| ELO Competitive | 1200 🔻  (545)|
 | Total Matches | 2 |
 | Wins | 1 |
 | Losses | 1 |

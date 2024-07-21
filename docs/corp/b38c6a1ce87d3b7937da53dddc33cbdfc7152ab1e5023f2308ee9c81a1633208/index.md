@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Dacia Chill
+description: Details for Hades' Star Corporation Dacia Chill whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1364 🔺  (54)|
+| ELO Regular | 1364 🔺  (53)|
 | ELO Competitive | 1384 🔺  (95)|
 | Total Matches | 20 |
 | Wins | 17 |

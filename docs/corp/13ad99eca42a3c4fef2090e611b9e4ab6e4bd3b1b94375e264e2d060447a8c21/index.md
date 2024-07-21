@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Round Table 
+description: Details for Hades' Star Corporation Round Table  whitestar history
 ---
 
 | Statistic | Value |

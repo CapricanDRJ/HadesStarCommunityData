@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Вселенские 40%
+description: Details for Hades' Star Corporation Вселенские 40% whitestar history
 ---
 
 | Statistic | Value |

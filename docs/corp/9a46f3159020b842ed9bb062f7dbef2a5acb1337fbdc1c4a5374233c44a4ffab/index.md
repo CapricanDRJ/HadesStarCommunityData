@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Capibarius
+description: Details for Hades' Star Corporation Capibarius whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1259 🔺  (184)|
+| ELO Regular | 1259 🔺  (185)|
 | ELO Competitive | 1260 🔺  (280)|
 | Total Matches | 6 |
 | Wins | 5 |

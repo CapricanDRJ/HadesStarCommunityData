@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Наша Вселенная
+description: Details for Hades' Star Corporation Наша Вселенная whitestar history
 ---
 
 | Statistic | Value |

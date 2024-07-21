@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Bund von Lykon
+description: Details for Hades' Star Corporation Bund von Lykon whitestar history
 ---
 
 | Statistic | Value |

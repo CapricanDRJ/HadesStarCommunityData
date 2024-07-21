@@ -1,6 +1,7 @@
 ---
 layout: page
 title: MILIBARINOS
+description: Details for Hades' Star Corporation MILIBARINOS whitestar history
 ---
 
 | Statistic | Value |

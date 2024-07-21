@@ -1,11 +1,12 @@
 ---
 layout: page
 title: 宇氏集团
+description: Details for Hades' Star Corporation 宇氏集团 whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (803)|
+| ELO Regular | 1174 🔻  (804)|
 | ELO Competitive | 1174 🔻  (899)|
 | Total Matches | 2 |
 | Wins | 0 |

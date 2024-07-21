@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Elite2.0
+title: Elite2\.0
+description: Details for Hades' Star Corporation Elite2\.0 whitestar history
 ---
 
 | Statistic | Value |

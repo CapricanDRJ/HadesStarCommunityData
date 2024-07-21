@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Goa'uld
+description: Details for Hades' Star Corporation Goa'uld whitestar history
 ---
 
 | Statistic | Value |

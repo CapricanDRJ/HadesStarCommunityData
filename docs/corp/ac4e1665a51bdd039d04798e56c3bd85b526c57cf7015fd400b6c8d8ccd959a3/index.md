@@ -1,11 +1,12 @@
 ---
 layout: page
 title: 63SALVADORES36
+description: Details for Hades' Star Corporation 63SALVADORES36 whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (821)|
+| ELO Regular | 1173 🔻  (822)|
 | ELO Competitive | 1176 🔻  (876)|
 | Total Matches | 2 |
 | Wins | 0 |

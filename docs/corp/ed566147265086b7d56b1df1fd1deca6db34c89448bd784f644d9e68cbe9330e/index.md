@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Order of Ares
+description: Details for Hades' Star Corporation Order of Ares whitestar history
 ---
 
 | Statistic | Value |

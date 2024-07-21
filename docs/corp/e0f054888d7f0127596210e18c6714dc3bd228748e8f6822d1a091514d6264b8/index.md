@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 蓝色星系一号分盟
+description: Details for Hades' Star Corporation 蓝色星系一号分盟 whitestar history
 ---
 
 | Statistic | Value |

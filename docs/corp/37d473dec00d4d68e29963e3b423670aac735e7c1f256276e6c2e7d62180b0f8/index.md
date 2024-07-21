@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Dumpster Fire 2
+description: Details for Hades' Star Corporation Dumpster Fire 2 whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (829)|
+| ELO Regular | 1172 🔻  (830)|
 | ELO Competitive | 1365 🔻  (112)|
 | Total Matches | 77 |
 | Wins | 36 |

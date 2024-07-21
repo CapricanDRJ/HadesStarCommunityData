@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Бестрашный лиги
+description: Details for Hades' Star Corporation Бестрашный лиги whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1177 🔻  (777)|
+| ELO Regular | 1177 🔻  (778)|
 | ELO Competitive | 1177 🔻  (868)|
 | Total Matches | 8 |
 | Wins | 3 |

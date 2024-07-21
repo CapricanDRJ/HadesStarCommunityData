@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Kelebra
+description: Details for Hades' Star Corporation Kelebra whitestar history
 ---
 
 | Statistic | Value |

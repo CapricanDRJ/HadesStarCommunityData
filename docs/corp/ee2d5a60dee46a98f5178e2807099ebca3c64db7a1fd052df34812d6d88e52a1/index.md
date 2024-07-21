@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Anla'Shok
+description: Details for Hades' Star Corporation Anla'Shok whitestar history
 ---
 
 | Statistic | Value |

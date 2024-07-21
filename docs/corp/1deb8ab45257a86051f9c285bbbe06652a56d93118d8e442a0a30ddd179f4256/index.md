@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 星际联盟（中国）
+description: Details for Hades' Star Corporation 星际联盟（中国） whitestar history
 ---
 
 | Statistic | Value |

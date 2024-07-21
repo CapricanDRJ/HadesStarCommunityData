@@ -1,11 +1,12 @@
 ---
 layout: page
-title: *СССР*
+title: \*СССР\*
+description: Details for Hades' Star Corporation \*СССР\* whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1256 🔺  (194)|
+| ELO Regular | 1256 🔺  (195)|
 | ELO Competitive | 1300 🔺  (200)|
 | Total Matches | 37 |
 | Wins | 18 |

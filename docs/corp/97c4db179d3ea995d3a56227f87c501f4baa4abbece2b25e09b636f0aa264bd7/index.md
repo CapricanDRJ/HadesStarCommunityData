@@ -1,6 +1,7 @@
 ---
 layout: page
 title: BoomTech
+description: Details for Hades' Star Corporation BoomTech whitestar history
 ---
 
 | Statistic | Value |

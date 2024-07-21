@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 六大天神
+description: Details for Hades' Star Corporation 六大天神 whitestar history
 ---
 
 | Statistic | Value |

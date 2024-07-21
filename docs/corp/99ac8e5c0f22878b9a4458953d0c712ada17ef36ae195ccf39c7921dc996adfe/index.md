@@ -1,6 +1,7 @@
 ---
 layout: page
 title: ZION
+description: Details for Hades' Star Corporation ZION whitestar history
 ---
 
 | Statistic | Value |

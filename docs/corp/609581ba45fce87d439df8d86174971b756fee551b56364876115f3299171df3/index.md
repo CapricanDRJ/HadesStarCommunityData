@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Genesis Corp
+description: Details for Hades' Star Corporation Genesis Corp whitestar history
 ---
 
 | Statistic | Value |

@@ -1,12 +1,13 @@
 ---
 layout: page
 title: ProyectCorp
+description: Details for Hades' Star Corporation ProyectCorp whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1140 🔻  (1007)|
-| ELO Competitive | 1200 🔻  (530)|
+| ELO Competitive | 1200 🔻  (529)|
 | Total Matches | 36 |
 | Wins | 15 |
 | Losses | 21 |

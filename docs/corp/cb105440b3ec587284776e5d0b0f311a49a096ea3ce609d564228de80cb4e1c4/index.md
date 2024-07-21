@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Black Nova
+description: Details for Hades' Star Corporation Black Nova whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Warp Dominion
+description: Details for Hades' Star Corporation Warp Dominion whitestar history
 ---
 
 | Statistic | Value |

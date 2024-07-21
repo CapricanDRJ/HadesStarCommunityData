@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 纸鸢台
+description: Details for Hades' Star Corporation 纸鸢台 whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Heavenly Star 
+description: Details for Hades' Star Corporation Heavenly Star  whitestar history
 ---
 
 | Statistic | Value |

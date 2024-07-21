@@ -1,6 +1,7 @@
 ---
 layout: page
 title: диванодавы
+description: Details for Hades' Star Corporation диванодавы whitestar history
 ---
 
 | Statistic | Value |

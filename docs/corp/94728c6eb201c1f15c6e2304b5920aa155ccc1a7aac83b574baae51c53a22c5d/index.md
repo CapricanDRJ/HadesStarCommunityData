@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Galaxians
+description: Details for Hades' Star Corporation Galaxians whitestar history
 ---
 
 | Statistic | Value |

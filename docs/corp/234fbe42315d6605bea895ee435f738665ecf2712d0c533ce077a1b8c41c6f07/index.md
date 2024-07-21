@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Star-Jump CORPS
+title: Star\-Jump CORPS
+description: Details for Hades' Star Corporation Star\-Jump CORPS whitestar history
 ---
 
 | Statistic | Value |

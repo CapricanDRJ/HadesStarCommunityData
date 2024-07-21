@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CCCP
+description: Details for Hades' Star Corporation CCCP whitestar history
 ---
 
 | Statistic | Value |

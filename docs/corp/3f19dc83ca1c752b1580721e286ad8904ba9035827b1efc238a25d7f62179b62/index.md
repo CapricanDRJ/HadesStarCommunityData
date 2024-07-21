@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CORE INFLICTION
+description: Details for Hades' Star Corporation CORE INFLICTION whitestar history
 ---
 
 | Statistic | Value |

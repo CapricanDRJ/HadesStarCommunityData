@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Czech Legion
+description: Details for Hades' Star Corporation Czech Legion whitestar history
 ---
 
 | Statistic | Value |

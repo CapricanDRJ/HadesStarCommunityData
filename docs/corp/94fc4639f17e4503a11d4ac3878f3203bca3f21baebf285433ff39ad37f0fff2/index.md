@@ -1,6 +1,7 @@
 ---
 layout: page
 title: BRASIL STAR
+description: Details for Hades' Star Corporation BRASIL STAR whitestar history
 ---
 
 | Statistic | Value |

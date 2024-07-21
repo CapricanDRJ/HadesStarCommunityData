@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Vega Conflict
+description: Details for Hades' Star Corporation Vega Conflict whitestar history
 ---
 
 | Statistic | Value |

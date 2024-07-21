@@ -1,6 +1,7 @@
 ---
 layout: page
 title: ZORG IND
+description: Details for Hades' Star Corporation ZORG IND whitestar history
 ---
 
 | Statistic | Value |

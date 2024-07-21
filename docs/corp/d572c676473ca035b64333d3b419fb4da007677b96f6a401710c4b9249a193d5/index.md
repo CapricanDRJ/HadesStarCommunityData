@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Укр інтроверти
+description: Details for Hades' Star Corporation Укр інтроверти whitestar history
 ---
 
 | Statistic | Value |

@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Galaxian
+description: Details for Hades' Star Corporation Galaxian whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1287 🔻  (136)|
-| ELO Competitive | 1323 🔻  (167)|
+| ELO Competitive | 1323 🔻  (168)|
 | Total Matches | 27 |
 | Wins | 18 |
 | Losses | 9 |

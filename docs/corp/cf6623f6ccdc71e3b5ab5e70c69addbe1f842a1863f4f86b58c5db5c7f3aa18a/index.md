@@ -1,6 +1,7 @@
 ---
 layout: page
-title: G.O.D
+title: G\.O\.D
+description: Details for Hades' Star Corporation G\.O\.D whitestar history
 ---
 
 | Statistic | Value |

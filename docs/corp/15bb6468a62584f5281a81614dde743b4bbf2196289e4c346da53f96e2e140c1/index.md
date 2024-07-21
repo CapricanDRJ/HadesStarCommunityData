@@ -1,15 +1,16 @@
 ---
 layout: page
-title: Слава Украине!
+title: Слава Украине\!
+description: Details for Hades' Star Corporation Слава Украине\! whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1366 🔺  (52)|
+| ELO Regular | 1346 🔻  (65)|
 | ELO Competitive | 1571 🔺  (3)|
-| Total Matches | 73 |
+| Total Matches | 74 |
 | Wins | 48 |
-| Losses | 25 |
+| Losses | 26 |
 | Draws | 0 |
 | Streak Record | 12 |
 
@@ -17,6 +18,7 @@ title: Слава Украине!
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Unión latina](https://ws.tsl.rocks/corp/9919a50d277644f496c19d5becdf40abb251d000345f049632329f0b35b7fbf1/) | 1 | 1 | 0 | 2 |
 | [lost souls](https://ws.tsl.rocks/corp/64cf1f6ce9001bcd1d03fd1aaecafc1b7d88cd36316892a52a1b19d5e85bd793/) | 2 | 0 | 0 | 2 |
 | [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) | 2 | 1 | 0 | 3 |
 | [Dumpster Fire 2](https://ws.tsl.rocks/corp/37d473dec00d4d68e29963e3b423670aac735e7c1f256276e6c2e7d62180b0f8/) | 2 | 1 | 0 | 3 |
@@ -28,6 +30,7 @@ title: Слава Украине!
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/20 | 1-29 | [Unión latina](https://ws.tsl.rocks/corp/9919a50d277644f496c19d5becdf40abb251d000345f049632329f0b35b7fbf1/) |
 | ✅ | 2024/07/20 | 38-5 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) |
 | ❌ | 2024/07/15 | 5-14 | [sk cz nebula](https://ws.tsl.rocks/corp/6ed29f74bee91a7aad75a64196918993de6cec070ce8c65d1132ed6b0e79005d/) |
 | ✅ | 2024/07/15 | 35-14 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) |

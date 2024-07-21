@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Village of Evil
+description: Details for Hades' Star Corporation Village of Evil whitestar history
 ---
 
 | Statistic | Value |

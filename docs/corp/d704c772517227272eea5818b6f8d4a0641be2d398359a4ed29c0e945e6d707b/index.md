@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 希灵帝国
+description: Details for Hades' Star Corporation 希灵帝国 whitestar history
 ---
 
 | Statistic | Value |

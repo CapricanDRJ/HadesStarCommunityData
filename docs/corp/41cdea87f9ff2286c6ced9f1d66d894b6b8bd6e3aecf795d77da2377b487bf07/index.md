@@ -1,6 +1,7 @@
 ---
 layout: page
 title: IMPERIAL ARMADA
+description: Details for Hades' Star Corporation IMPERIAL ARMADA whitestar history
 ---
 
 | Statistic | Value |

@@ -1,11 +1,12 @@
 ---
 layout: page
 title: 星舰地球
+description: Details for Hades' Star Corporation 星舰地球 whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1177 🔺  (774)|
+| ELO Regular | 1177 🔺  (775)|
 | ELO Competitive | 1191 🔺  (605)|
 | Total Matches | 4 |
 | Wins | 1 |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: United Artists
+description: Details for Hades' Star Corporation United Artists whitestar history
 ---
 
 | Statistic | Value |

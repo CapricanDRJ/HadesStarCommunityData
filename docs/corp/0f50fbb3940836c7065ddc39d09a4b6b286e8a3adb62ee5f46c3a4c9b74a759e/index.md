@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Black Mirror Co
+description: Details for Hades' Star Corporation Black Mirror Co whitestar history
 ---
 
 | Statistic | Value |

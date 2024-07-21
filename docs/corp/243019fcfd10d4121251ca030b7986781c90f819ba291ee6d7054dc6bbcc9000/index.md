@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Españoles
+description: Details for Hades' Star Corporation Españoles whitestar history
 ---
 
 | Statistic | Value |

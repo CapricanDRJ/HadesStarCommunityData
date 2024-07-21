@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Out landers
+description: Details for Hades' Star Corporation Out landers whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1261 🔻  (181)|
+| ELO Regular | 1261 🔻  (182)|
 | ELO Competitive | 1272 🔻  (253)|
 | Total Matches | 15 |
 | Wins | 9 |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Megacorp
+description: Details for Hades' Star Corporation Megacorp whitestar history
 ---
 
 | Statistic | Value |

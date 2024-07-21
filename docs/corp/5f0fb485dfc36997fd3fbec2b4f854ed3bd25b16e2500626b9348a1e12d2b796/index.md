@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Quantum Web
+description: Details for Hades' Star Corporation Quantum Web whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: ●Black•Sails●
+description: Details for Hades' Star Corporation ●Black•Sails● whitestar history
 ---
 
 | Statistic | Value |

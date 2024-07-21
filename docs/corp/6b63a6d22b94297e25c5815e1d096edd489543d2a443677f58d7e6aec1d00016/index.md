@@ -1,6 +1,7 @@
 ---
 layout: page
 title: NASA Air base
+description: Details for Hades' Star Corporation NASA Air base whitestar history
 ---
 
 | Statistic | Value |

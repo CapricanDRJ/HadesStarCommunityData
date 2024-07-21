@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Star Blazers
+description: Details for Hades' Star Corporation Star Blazers whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: RUS
+description: Details for Hades' Star Corporation RUS whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Коллайдер
+description: Details for Hades' Star Corporation Коллайдер whitestar history
 ---
 
 | Statistic | Value |

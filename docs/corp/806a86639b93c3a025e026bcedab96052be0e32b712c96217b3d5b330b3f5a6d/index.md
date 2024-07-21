@@ -1,6 +1,7 @@
 ---
 layout: page
 title: OntarioDestiny
+description: Details for Hades' Star Corporation OntarioDestiny whitestar history
 ---
 
 | Statistic | Value |

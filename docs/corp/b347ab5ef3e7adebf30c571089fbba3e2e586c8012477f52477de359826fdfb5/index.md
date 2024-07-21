@@ -1,6 +1,7 @@
 ---
 layout: page
 title: BlackOrca
+description: Details for Hades' Star Corporation BlackOrca whitestar history
 ---
 
 | Statistic | Value |

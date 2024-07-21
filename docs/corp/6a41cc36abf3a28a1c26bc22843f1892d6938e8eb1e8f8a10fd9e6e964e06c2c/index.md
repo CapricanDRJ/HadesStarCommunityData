@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Space Marshalls
+description: Details for Hades' Star Corporation Space Marshalls whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: OntarioDynasty
+description: Details for Hades' Star Corporation OntarioDynasty whitestar history
 ---
 
 | Statistic | Value |

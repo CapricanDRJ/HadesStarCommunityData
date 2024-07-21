@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CommCody & LPA
+description: Details for Hades' Star Corporation CommCody & LPA whitestar history
 ---
 
 | Statistic | Value |

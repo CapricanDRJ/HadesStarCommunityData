@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Gregycool
+description: Details for Hades' Star Corporation Gregycool whitestar history
 ---
 
 | Statistic | Value |

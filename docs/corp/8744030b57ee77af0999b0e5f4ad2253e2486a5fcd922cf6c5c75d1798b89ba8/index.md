@@ -1,6 +1,7 @@
 ---
 layout: page
 title: UNSC
+description: Details for Hades' Star Corporation UNSC whitestar history
 ---
 
 | Statistic | Value |

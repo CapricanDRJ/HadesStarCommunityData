@@ -1,6 +1,7 @@
 ---
 layout: page
 title: AFronteiraFinal
+description: Details for Hades' Star Corporation AFronteiraFinal whitestar history
 ---
 
 | Statistic | Value |

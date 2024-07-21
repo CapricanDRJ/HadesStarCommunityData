@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Альянс
+description: Details for Hades' Star Corporation Альянс whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: chrtrncmndr
+description: Details for Hades' Star Corporation chrtrncmndr whitestar history
 ---
 
 | Statistic | Value |

@@ -1,11 +1,12 @@
 ---
 layout: page
 title: BlankBoosters
+description: Details for Hades' Star Corporation BlankBoosters whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔺  (793)|
+| ELO Regular | 1175 🔺  (794)|
 | ELO Competitive | 1182 🔺  (838)|
 | Total Matches | 4 |
 | Wins | 1 |

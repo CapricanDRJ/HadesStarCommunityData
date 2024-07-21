@@ -1,6 +1,7 @@
 ---
 layout: page
 title: KINETIC
+description: Details for Hades' Star Corporation KINETIC whitestar history
 ---
 
 | Statistic | Value |

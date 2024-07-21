@@ -1,11 +1,12 @@
 ---
 layout: page
 title: 绛紫星
+description: Details for Hades' Star Corporation 绛紫星 whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1264 🔺  (173)|
+| ELO Regular | 1264 🔺  (174)|
 | ELO Competitive | 1387 🔺  (91)|
 | Total Matches | 41 |
 | Wins | 24 |

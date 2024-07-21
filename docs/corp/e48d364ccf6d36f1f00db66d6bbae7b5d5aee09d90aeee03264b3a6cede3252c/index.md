@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 星光舰队
+description: Details for Hades' Star Corporation 星光舰队 whitestar history
 ---
 
 | Statistic | Value |

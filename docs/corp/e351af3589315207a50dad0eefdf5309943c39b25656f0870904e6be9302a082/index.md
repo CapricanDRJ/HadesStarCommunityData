@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 宇宙警察
+description: Details for Hades' Star Corporation 宇宙警察 whitestar history
 ---
 
 | Statistic | Value |

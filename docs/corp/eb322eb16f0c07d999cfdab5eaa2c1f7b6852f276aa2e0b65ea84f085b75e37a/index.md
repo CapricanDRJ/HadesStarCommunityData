@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Sanctuary
+description: Details for Hades' Star Corporation Sanctuary whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (754)|
+| ELO Regular | 1181 🔻  (755)|
 | ELO Competitive | 1186 🔻  (709)|
 | Total Matches | 1 |
 | Wins | 0 |

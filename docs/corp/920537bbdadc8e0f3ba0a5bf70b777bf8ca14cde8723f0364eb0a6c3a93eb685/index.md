@@ -1,6 +1,7 @@
 ---
 layout: page
 title: UFO
+description: Details for Hades' Star Corporation UFO whitestar history
 ---
 
 | Statistic | Value |

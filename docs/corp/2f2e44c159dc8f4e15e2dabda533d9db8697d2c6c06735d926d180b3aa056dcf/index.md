@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Angel Dragon
+description: Details for Hades' Star Corporation Angel Dragon whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1264 🔻  (174)|
+| ELO Regular | 1264 🔻  (175)|
 | ELO Competitive | 1300 🔻  (201)|
 | Total Matches | 21 |
 | Wins | 12 |

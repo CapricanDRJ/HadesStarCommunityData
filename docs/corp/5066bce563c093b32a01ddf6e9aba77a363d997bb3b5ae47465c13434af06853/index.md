@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Les Chevaliers
+description: Details for Hades' Star Corporation Les Chevaliers whitestar history
 ---
 
 | Statistic | Value |

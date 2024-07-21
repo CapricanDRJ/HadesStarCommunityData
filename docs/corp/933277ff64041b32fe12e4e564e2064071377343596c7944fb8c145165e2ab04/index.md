@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 自由星际联盟
+description: Details for Hades' Star Corporation 自由星际联盟 whitestar history
 ---
 
 | Statistic | Value |

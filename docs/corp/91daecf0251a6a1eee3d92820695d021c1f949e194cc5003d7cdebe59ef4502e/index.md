@@ -1,11 +1,12 @@
 ---
 layout: page
 title: TROLL SQUAD
+description: Details for Hades' Star Corporation TROLL SQUAD whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1256 🔻  (193)|
+| ELO Regular | 1256 🔻  (194)|
 | ELO Competitive | 1261 🔻  (278)|
 | Total Matches | 16 |
 | Wins | 11 |

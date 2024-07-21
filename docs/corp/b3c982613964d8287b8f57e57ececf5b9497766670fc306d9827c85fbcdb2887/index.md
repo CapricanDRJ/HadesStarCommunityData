@@ -1,6 +1,7 @@
 ---
 layout: page
-title: CAEDRUS [<o>]
+title: CAEDRUS \[<o\>\]
+description: Details for Hades' Star Corporation CAEDRUS \[<o\>\] whitestar history
 ---
 
 | Statistic | Value |

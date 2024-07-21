@@ -1,11 +1,12 @@
 ---
 layout: page
 title: 暮光之城
+description: Details for Hades' Star Corporation 暮光之城 whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1177 🔻  (773)|
+| ELO Regular | 1177 🔻  (774)|
 | ELO Competitive | 1183 🔻  (829)|
 | Total Matches | 4 |
 | Wins | 1 |

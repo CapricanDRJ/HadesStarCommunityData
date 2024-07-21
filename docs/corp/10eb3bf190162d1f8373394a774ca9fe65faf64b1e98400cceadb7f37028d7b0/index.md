@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Survivors
+description: Details for Hades' Star Corporation Survivors whitestar history
 ---
 
 | Statistic | Value |

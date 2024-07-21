@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Panda clan 
+description: Details for Hades' Star Corporation Panda clan  whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1199 🔺  (462)|
-| ELO Competitive | 1202 🔺  (510)|
+| ELO Competitive | 1202 🔺  (509)|
 | Total Matches | 5 |
 | Wins | 2 |
 | Losses | 3 |

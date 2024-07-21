@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Séptimo Círculo
+description: Details for Hades' Star Corporation Séptimo Círculo whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Повстанцы Хаоса
+description: Details for Hades' Star Corporation Повстанцы Хаоса whitestar history
 ---
 
 | Statistic | Value |

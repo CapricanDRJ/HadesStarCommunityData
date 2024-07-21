@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The Seperatists
+description: Details for Hades' Star Corporation The Seperatists whitestar history
 ---
 
 | Statistic | Value |

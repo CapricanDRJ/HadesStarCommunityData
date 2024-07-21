@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Grand Mechanism
+description: Details for Hades' Star Corporation Grand Mechanism whitestar history
 ---
 
 | Statistic | Value |

@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Enigma
+description: Details for Hades' Star Corporation Enigma whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1201 🔻  (430)|
-| ELO Competitive | 1201 🔻  (522)|
+| ELO Competitive | 1201 🔻  (521)|
 | Total Matches | 2 |
 | Wins | 1 |
 | Losses | 1 |

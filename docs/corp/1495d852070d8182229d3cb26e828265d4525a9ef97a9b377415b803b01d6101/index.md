@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Галактика Зла
+description: Details for Hades' Star Corporation Галактика Зла whitestar history
 ---
 
 | Statistic | Value |

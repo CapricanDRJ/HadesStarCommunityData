@@ -1,6 +1,7 @@
 ---
 layout: page
 title: FlightCommand
+description: Details for Hades' Star Corporation FlightCommand whitestar history
 ---
 
 | Statistic | Value |

@@ -1,12 +1,13 @@
 ---
 layout: page
-title: 2ND-R8 Corp.
+title: 2ND\-R8 Corp\.
+description: Details for Hades' Star Corporation 2ND\-R8 Corp\. whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1288 🔺  (133)|
-| ELO Competitive | 1340 🔺  (137)|
+| ELO Competitive | 1340 🔺  (139)|
 | Total Matches | 33 |
 | Wins | 19 |
 | Losses | 14 |

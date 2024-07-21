@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Диванные Стражи
+description: Details for Hades' Star Corporation Диванные Стражи whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (805)|
+| ELO Regular | 1174 🔻  (806)|
 | ELO Competitive | 1179 🔻  (851)|
 | Total Matches | 2 |
 | Wins | 0 |

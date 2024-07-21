@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Doomsday
+description: Details for Hades' Star Corporation Doomsday whitestar history
 ---
 
 | Statistic | Value |

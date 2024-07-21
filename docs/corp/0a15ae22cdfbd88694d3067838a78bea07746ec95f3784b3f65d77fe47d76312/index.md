@@ -1,11 +1,12 @@
 ---
 layout: page
 title: GhostNakcoorp
+description: Details for Hades' Star Corporation GhostNakcoorp whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1262 🔺  (179)|
+| ELO Regular | 1262 🔺  (180)|
 | ELO Competitive | 1285 🔺  (228)|
 | Total Matches | 37 |
 | Wins | 23 |

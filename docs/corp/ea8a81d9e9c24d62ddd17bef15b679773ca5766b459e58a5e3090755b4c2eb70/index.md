@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Galactic Otters
+description: Details for Hades' Star Corporation Galactic Otters whitestar history
 ---
 
 | Statistic | Value |

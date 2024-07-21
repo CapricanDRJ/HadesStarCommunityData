@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Space Donuts
+description: Details for Hades' Star Corporation Space Donuts whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (789)|
+| ELO Regular | 1176 🔻  (790)|
 | ELO Competitive | 1177 🔻  (867)|
 | Total Matches | 6 |
 | Wins | 2 |

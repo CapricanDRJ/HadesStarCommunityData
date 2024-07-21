@@ -1,6 +1,7 @@
 ---
 layout: page
 title: BlackStar Order
+description: Details for Hades' Star Corporation BlackStar Order whitestar history
 ---
 
 | Statistic | Value |

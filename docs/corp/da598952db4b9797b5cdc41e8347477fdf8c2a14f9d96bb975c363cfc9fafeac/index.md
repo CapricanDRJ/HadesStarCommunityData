@@ -1,6 +1,7 @@
 ---
 layout: page
 title: fishwax
+description: Details for Hades' Star Corporation fishwax whitestar history
 ---
 
 | Statistic | Value |

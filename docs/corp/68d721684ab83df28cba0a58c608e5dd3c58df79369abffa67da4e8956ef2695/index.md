@@ -1,11 +1,12 @@
 ---
 layout: page
 title: koalition
+description: Details for Hades' Star Corporation koalition whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1264 🔺  (172)|
+| ELO Regular | 1264 🔺  (173)|
 | ELO Competitive | 1270 🔺  (259)|
 | Total Matches | 11 |
 | Wins | 7 |

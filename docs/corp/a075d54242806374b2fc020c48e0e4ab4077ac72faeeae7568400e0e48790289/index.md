@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Неизбежный Рок
+description: Details for Hades' Star Corporation Неизбежный Рок whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1358 🔺  (59)|
+| ELO Regular | 1358 🔺  (58)|
 | ELO Competitive | 1475 🔺  (32)|
 | Total Matches | 70 |
 | Wins | 46 |

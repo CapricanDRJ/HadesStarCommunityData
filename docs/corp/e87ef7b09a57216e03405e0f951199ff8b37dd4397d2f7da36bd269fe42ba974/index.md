@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Quadra FR
+description: Details for Hades' Star Corporation Quadra FR whitestar history
 ---
 
 | Statistic | Value |

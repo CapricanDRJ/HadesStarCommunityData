@@ -1,6 +1,7 @@
 ---
 layout: page
 title: StargateCommand
+description: Details for Hades' Star Corporation StargateCommand whitestar history
 ---
 
 | Statistic | Value |

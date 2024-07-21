@@ -1,6 +1,7 @@
 ---
 layout: page
 title: SILVER TERRA
+description: Details for Hades' Star Corporation SILVER TERRA whitestar history
 ---
 
 | Statistic | Value |

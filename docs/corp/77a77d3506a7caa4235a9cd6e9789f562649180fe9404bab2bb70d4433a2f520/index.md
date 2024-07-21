@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Intercepter Inc
+description: Details for Hades' Star Corporation Intercepter Inc whitestar history
 ---
 
 | Statistic | Value |

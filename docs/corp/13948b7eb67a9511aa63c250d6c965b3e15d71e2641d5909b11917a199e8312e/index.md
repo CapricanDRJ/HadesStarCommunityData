@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  Eligius 
+description: Details for Hades' Star Corporation  Eligius  whitestar history
 ---
 
 | Statistic | Value |

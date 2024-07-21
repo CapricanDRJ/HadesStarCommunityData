@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Sith Empire
+description: Details for Hades' Star Corporation Sith Empire whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1194 🔺  (494)|
-| ELO Competitive | 1337 🔺  (144)|
+| ELO Competitive | 1337 🔺  (146)|
 | Total Matches | 48 |
 | Wins | 19 |
 | Losses | 29 |

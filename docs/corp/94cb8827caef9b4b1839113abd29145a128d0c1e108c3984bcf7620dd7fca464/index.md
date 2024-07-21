@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Outland Ind.
+title: Outland Ind\.
+description: Details for Hades' Star Corporation Outland Ind\. whitestar history
 ---
 
 | Statistic | Value |

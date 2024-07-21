@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 云浪山庄↕
+description: Details for Hades' Star Corporation 云浪山庄↕ whitestar history
 ---
 
 | Statistic | Value |

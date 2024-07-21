@@ -1,12 +1,13 @@
 ---
 layout: page
 title: 新?的星际集团?
+description: Details for Hades' Star Corporation 新?的星际集团? whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1200 🔻  (448)|
-| ELO Competitive | 1205 🔻  (498)|
+| ELO Competitive | 1205 🔻  (497)|
 | Total Matches | 2 |
 | Wins | 1 |
 | Losses | 1 |

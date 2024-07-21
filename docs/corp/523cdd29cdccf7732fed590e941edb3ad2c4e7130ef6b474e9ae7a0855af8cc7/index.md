@@ -1,6 +1,7 @@
 ---
 layout: page
 title: cikopo
+description: Details for Hades' Star Corporation cikopo whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Orion France
+description: Details for Hades' Star Corporation Orion France whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: SPACECOWBOYS
+description: Details for Hades' Star Corporation SPACECOWBOYS whitestar history
 ---
 
 | Statistic | Value |

@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Sich.ua
+title: Sich\.ua
+description: Details for Hades' Star Corporation Sich\.ua whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1259 🔺  (183)|
+| ELO Regular | 1259 🔺  (184)|
 | ELO Competitive | 1387 🔺  (93)|
 | Total Matches | 33 |
 | Wins | 19 |

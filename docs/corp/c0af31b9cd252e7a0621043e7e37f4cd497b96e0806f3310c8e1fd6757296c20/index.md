@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Wacky Wabbits
+description: Details for Hades' Star Corporation Wacky Wabbits whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1194 🔻  (496)|
-| ELO Competitive | 1200 🔻  (529)|
+| ELO Competitive | 1200 🔻  (528)|
 | Total Matches | 4 |
 | Wins | 2 |
 | Losses | 2 |

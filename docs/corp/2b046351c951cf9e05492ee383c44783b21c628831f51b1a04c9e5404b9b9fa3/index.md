@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Paramedic ICU
+description: Details for Hades' Star Corporation Paramedic ICU whitestar history
 ---
 
 | Statistic | Value |

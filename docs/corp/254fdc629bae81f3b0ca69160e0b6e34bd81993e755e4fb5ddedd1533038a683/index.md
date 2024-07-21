@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Veteran's Haven
+description: Details for Hades' Star Corporation Veteran's Haven whitestar history
 ---
 
 | Statistic | Value |

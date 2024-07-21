@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Suicide Squad
+description: Details for Hades' Star Corporation Suicide Squad whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (759)|
+| ELO Regular | 1181 🔻  (760)|
 | ELO Competitive | 1181 🔻  (842)|
 | Total Matches | 1 |
 | Wins | 0 |

@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Int. Trading Co
+title: Int\. Trading Co
+description: Details for Hades' Star Corporation Int\. Trading Co whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1300 🔻  (121)|
-| ELO Competitive | 1339 🔻  (140)|
+| ELO Competitive | 1339 🔻  (142)|
 | Total Matches | 26 |
 | Wins | 16 |
 | Losses | 9 |

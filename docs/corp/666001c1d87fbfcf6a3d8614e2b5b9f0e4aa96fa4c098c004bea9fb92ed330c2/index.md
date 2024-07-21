@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Equinox
+description: Details for Hades' Star Corporation Equinox whitestar history
 ---
 
 | Statistic | Value |

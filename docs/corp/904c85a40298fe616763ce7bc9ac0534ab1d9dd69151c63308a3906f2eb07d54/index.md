@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Thunderbears
+description: Details for Hades' Star Corporation Thunderbears whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (816)|
+| ELO Regular | 1173 🔻  (817)|
 | ELO Competitive | 1178 🔻  (856)|
 | Total Matches | 9 |
 | Wins | 3 |

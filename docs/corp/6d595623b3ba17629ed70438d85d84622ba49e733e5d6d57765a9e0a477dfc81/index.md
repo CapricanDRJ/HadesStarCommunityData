@@ -1,11 +1,12 @@
 ---
 layout: page
 title: 中国星际联盟
+description: Details for Hades' Star Corporation 中国星际联盟 whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1256 🔺  (195)|
+| ELO Regular | 1256 🔺  (196)|
 | ELO Competitive | 1423 🔺  (65)|
 | Total Matches | 58 |
 | Wins | 31 |

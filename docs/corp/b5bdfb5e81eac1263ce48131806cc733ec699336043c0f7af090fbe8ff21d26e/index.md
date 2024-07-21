@@ -1,12 +1,13 @@
 ---
 layout: page
-title: White Star Inc.
+title: White Star Inc\.
+description: Details for Hades' Star Corporation White Star Inc\. whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1190 🔺  (515)|
-| ELO Competitive | 1203 🔺  (504)|
+| ELO Competitive | 1203 🔺  (503)|
 | Total Matches | 6 |
 | Wins | 3 |
 | Losses | 3 |

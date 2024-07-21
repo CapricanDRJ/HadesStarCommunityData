@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Das Imperium
+description: Details for Hades' Star Corporation Das Imperium whitestar history
 ---
 
 | Statistic | Value |

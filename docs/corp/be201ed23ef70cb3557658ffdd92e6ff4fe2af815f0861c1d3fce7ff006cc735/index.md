@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Sith order
+description: Details for Hades' Star Corporation Sith order whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1201 🔺  (422)|
-| ELO Competitive | 1201 🔺  (513)|
+| ELO Competitive | 1201 🔺  (512)|
 | Total Matches | 2 |
 | Wins | 1 |
 | Losses | 1 |

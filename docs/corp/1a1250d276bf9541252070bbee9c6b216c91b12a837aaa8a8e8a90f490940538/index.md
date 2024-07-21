@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Emergence
+description: Details for Hades' Star Corporation Emergence whitestar history
 ---
 
 | Statistic | Value |

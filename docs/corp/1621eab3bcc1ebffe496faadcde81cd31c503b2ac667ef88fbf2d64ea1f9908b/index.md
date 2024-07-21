@@ -1,6 +1,7 @@
 ---
 layout: page
 title: IX Легион
+description: Details for Hades' Star Corporation IX Легион whitestar history
 ---
 
 | Statistic | Value |

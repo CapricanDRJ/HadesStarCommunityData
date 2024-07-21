@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Ul'Adri
+description: Details for Hades' Star Corporation Ul'Adri whitestar history
 ---
 
 | Statistic | Value |

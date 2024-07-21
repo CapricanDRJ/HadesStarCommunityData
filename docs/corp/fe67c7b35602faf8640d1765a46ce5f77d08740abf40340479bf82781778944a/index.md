@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 水星联合组织
+description: Details for Hades' Star Corporation 水星联合组织 whitestar history
 ---
 
 | Statistic | Value |

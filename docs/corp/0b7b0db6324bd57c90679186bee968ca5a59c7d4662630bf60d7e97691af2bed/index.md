@@ -1,6 +1,7 @@
 ---
 layout: page
 title: SveaEmpire
+description: Details for Hades' Star Corporation SveaEmpire whitestar history
 ---
 
 | Statistic | Value |

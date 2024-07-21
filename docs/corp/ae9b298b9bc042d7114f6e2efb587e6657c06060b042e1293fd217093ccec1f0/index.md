@@ -1,6 +1,7 @@
 ---
 layout: page
 title: КЕДР
+description: Details for Hades' Star Corporation КЕДР whitestar history
 ---
 
 | Statistic | Value |

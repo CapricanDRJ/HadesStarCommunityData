@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Alpaca Haven
+description: Details for Hades' Star Corporation Alpaca Haven whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1263 🔻  (175)|
+| ELO Regular | 1263 🔻  (176)|
 | ELO Competitive | 1288 🔻  (222)|
 | Total Matches | 29 |
 | Wins | 18 |

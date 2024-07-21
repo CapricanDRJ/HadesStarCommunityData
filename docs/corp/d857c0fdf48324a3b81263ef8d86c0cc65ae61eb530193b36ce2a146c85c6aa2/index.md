@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Nooooobs
+description: Details for Hades' Star Corporation Nooooobs whitestar history
 ---
 
 | Statistic | Value |

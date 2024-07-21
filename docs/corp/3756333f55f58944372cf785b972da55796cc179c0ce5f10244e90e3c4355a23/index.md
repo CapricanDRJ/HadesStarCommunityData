@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Destroyers
+description: Details for Hades' Star Corporation Destroyers whitestar history
 ---
 
 | Statistic | Value |

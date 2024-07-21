@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Covenant
+description: Details for Hades' Star Corporation Covenant whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (827)|
+| ELO Regular | 1172 🔻  (828)|
 | ELO Competitive | 1187 🔻  (677)|
 | Total Matches | 2 |
 | Wins | 0 |

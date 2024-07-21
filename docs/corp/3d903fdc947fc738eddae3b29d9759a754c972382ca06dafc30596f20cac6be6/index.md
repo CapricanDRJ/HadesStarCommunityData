@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Fang Empire
+description: Details for Hades' Star Corporation Fang Empire whitestar history
 ---
 
 | Statistic | Value |

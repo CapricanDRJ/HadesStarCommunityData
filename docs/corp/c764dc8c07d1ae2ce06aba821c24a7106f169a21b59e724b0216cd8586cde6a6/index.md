@@ -1,12 +1,13 @@
 ---
 layout: page
 title: украина№1
+description: Details for Hades' Star Corporation украина№1 whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1249 🔻  (209)|
-| ELO Competitive | 1333 🔻  (149)|
+| ELO Competitive | 1333 🔻  (150)|
 | Total Matches | 42 |
 | Wins | 23 |
 | Losses | 19 |

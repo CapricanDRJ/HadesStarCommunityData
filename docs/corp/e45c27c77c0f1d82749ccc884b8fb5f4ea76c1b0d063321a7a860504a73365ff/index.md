@@ -1,11 +1,12 @@
 ---
 layout: page
 title: battlesquadron
+description: Details for Hades' Star Corporation battlesquadron whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔺  (826)|
+| ELO Regular | 1172 🔺  (827)|
 | ELO Competitive | 1183 🔺  (836)|
 | Total Matches | 5 |
 | Wins | 1 |

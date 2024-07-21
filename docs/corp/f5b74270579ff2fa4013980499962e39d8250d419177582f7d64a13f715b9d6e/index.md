@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 新手联邦活动用团
+description: Details for Hades' Star Corporation 新手联邦活动用团 whitestar history
 ---
 
 | Statistic | Value |

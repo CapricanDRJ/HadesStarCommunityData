@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Tortuga Station
+description: Details for Hades' Star Corporation Tortuga Station whitestar history
 ---
 
 | Statistic | Value |

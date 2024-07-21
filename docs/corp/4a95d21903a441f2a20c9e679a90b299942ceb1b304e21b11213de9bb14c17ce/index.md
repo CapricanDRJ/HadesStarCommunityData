@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 第四天灾
+description: Details for Hades' Star Corporation 第四天灾 whitestar history
 ---
 
 | Statistic | Value |

@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Bl@ck/Galaxy 
+description: Details for Hades' Star Corporation Bl@ck/Galaxy  whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1295 🔺  (127)|
-| ELO Competitive | 1332 🔺  (151)|
+| ELO Competitive | 1332 🔺  (152)|
 | Total Matches | 29 |
 | Wins | 15 |
 | Losses | 13 |

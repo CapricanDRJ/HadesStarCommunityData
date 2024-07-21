@@ -1,11 +1,12 @@
 ---
 layout: page
 title: BR Gear
+description: Details for Hades' Star Corporation BR Gear whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (758)|
+| ELO Regular | 1181 🔻  (759)|
 | ELO Competitive | 1193 🔻  (587)|
 | Total Matches | 2 |
 | Wins | 0 |

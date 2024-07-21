@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Harpias
+description: Details for Hades' Star Corporation Harpias whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1200 🔻  (447)|
-| ELO Competitive | 1201 🔺  (524)|
+| ELO Competitive | 1201 🔺  (523)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 0 |

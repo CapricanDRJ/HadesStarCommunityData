@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Bacon Warriors
+description: Details for Hades' Star Corporation Bacon Warriors whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1258 🔻  (187)|
+| ELO Regular | 1258 🔻  (188)|
 | ELO Competitive | 1295 🔻  (208)|
 | Total Matches | 24 |
 | Wins | 13 |

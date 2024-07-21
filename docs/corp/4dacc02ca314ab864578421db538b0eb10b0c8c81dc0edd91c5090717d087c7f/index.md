@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Armored Union 
+description: Details for Hades' Star Corporation Armored Union  whitestar history
 ---
 
 | Statistic | Value |

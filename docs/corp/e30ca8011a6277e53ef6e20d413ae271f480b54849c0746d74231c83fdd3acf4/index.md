@@ -1,6 +1,7 @@
 ---
 layout: page
 title: ALPHA
+description: Details for Hades' Star Corporation ALPHA whitestar history
 ---
 
 | Statistic | Value |

@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Lacuna Holdings
+description: Details for Hades' Star Corporation Lacuna Holdings whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1255 🔻  (197)|
+| ELO Regular | 1255 🔻  (198)|
 | ELO Competitive | 1299 🔻  (203)|
 | Total Matches | 33 |
 | Wins | 21 |

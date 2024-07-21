@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Noble
+description: Details for Hades' Star Corporation Noble whitestar history
 ---
 
 | Statistic | Value |

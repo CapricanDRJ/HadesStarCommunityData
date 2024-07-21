@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Die pösn Purchn
+description: Details for Hades' Star Corporation Die pösn Purchn whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (783)|
+| ELO Regular | 1176 🔻  (784)|
 | ELO Competitive | 1180 🔻  (847)|
 | Total Matches | 2 |
 | Wins | 0 |

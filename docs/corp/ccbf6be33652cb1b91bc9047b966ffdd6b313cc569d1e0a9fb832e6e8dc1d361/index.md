@@ -1,11 +1,12 @@
 ---
 layout: page
 title: 数字星际集团
+description: Details for Hades' Star Corporation 数字星际集团 whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (808)|
+| ELO Regular | 1174 🔻  (809)|
 | ELO Competitive | 1183 🔻  (830)|
 | Total Matches | 14 |
 | Wins | 6 |

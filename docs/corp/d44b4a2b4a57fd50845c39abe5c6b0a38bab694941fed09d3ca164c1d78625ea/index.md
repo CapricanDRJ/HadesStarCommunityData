@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Bounty Hunters
+description: Details for Hades' Star Corporation Bounty Hunters whitestar history
 ---
 
 | Statistic | Value |

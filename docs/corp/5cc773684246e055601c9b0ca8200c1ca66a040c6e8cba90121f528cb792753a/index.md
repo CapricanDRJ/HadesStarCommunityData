@@ -1,12 +1,13 @@
 ---
 layout: page
 title: 中国星系舰队
+description: Details for Hades' Star Corporation 中国星系舰队 whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (801)|
-| ELO Competitive | 1201 🔻  (520)|
+| ELO Regular | 1174 🔻  (802)|
+| ELO Competitive | 1201 🔻  (519)|
 | Total Matches | 7 |
 | Wins | 2 |
 | Losses | 4 |

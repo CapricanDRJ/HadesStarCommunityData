@@ -1,11 +1,12 @@
 ---
 layout: page
 title: RedStar Raiding
+description: Details for Hades' Star Corporation RedStar Raiding whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1045 🔻  (1146)|
+| ELO Regular | 1045 🔻  (1145)|
 | ELO Competitive | 1078 🔻  (1158)|
 | Total Matches | 35 |
 | Wins | 6 |

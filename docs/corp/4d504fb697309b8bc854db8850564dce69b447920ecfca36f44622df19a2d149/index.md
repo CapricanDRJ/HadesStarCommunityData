@@ -1,6 +1,7 @@
 ---
 layout: page
 title: SuperStarGamers
+description: Details for Hades' Star Corporation SuperStarGamers whitestar history
 ---
 
 | Statistic | Value |

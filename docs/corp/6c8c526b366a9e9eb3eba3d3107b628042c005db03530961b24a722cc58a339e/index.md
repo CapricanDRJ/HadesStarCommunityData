@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Duchy Arrakis
+description: Details for Hades' Star Corporation Duchy Arrakis whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1273 🔺  (155)|
+| ELO Regular | 1273 🔺  (156)|
 | ELO Competitive | 1303 🔺  (195)|
 | Total Matches | 26 |
 | Wins | 17 |

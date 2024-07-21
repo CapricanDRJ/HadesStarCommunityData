@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Dauntless
+description: Details for Hades' Star Corporation Dauntless whitestar history
 ---
 
 | Statistic | Value |

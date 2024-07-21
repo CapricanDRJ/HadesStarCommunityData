@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Best
+description: Details for Hades' Star Corporation Best whitestar history
 ---
 
 | Statistic | Value |

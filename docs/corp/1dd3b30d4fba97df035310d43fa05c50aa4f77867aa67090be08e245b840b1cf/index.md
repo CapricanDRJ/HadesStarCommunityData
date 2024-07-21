@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Solysis
+description: Details for Hades' Star Corporation Solysis whitestar history
 ---
 
 | Statistic | Value |

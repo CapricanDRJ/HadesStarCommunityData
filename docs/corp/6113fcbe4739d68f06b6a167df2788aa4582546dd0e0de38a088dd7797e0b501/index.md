@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 深空补给港
+description: Details for Hades' Star Corporation 深空补给港 whitestar history
 ---
 
 | Statistic | Value |

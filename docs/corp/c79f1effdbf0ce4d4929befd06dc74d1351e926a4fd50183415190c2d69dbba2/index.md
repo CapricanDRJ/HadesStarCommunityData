@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Orione
+description: Details for Hades' Star Corporation Orione whitestar history
 ---
 
 | Statistic | Value |

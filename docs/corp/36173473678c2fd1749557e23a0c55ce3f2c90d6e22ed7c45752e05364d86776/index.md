@@ -1,6 +1,7 @@
 ---
 layout: page
 title: SpaceX
+description: Details for Hades' Star Corporation SpaceX whitestar history
 ---
 
 | Statistic | Value |

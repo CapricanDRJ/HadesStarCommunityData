@@ -1,12 +1,13 @@
 ---
 layout: page
 title: The Red Dwarves
+description: Details for Hades' Star Corporation The Red Dwarves whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1190 🔻  (523)|
-| ELO Competitive | 1204 🔻  (500)|
+| ELO Competitive | 1204 🔻  (499)|
 | Total Matches | 8 |
 | Wins | 3 |
 | Losses | 4 |

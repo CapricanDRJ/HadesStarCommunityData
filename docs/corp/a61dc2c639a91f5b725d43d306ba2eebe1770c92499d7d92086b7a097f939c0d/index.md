@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Эдем
+description: Details for Hades' Star Corporation Эдем whitestar history
 ---
 
 | Statistic | Value |

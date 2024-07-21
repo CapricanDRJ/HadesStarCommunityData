@@ -1,6 +1,7 @@
 ---
 layout: page
 title: MicroNova
+description: Details for Hades' Star Corporation MicroNova whitestar history
 ---
 
 | Statistic | Value |

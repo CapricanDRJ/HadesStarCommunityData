@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CODEX IMPERIUS
+description: Details for Hades' Star Corporation CODEX IMPERIUS whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: BattleCo
+description: Details for Hades' Star Corporation BattleCo whitestar history
 ---
 
 | Statistic | Value |

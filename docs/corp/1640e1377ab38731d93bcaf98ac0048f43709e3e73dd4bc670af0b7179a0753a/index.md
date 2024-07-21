@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 遨游星空
+description: Details for Hades' Star Corporation 遨游星空 whitestar history
 ---
 
 | Statistic | Value |

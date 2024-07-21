@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Death Star llc.
+title: Death Star llc\.
+description: Details for Hades' Star Corporation Death Star llc\. whitestar history
 ---
 
 | Statistic | Value |

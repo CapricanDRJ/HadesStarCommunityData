@@ -1,12 +1,13 @@
 ---
 layout: page
 title: 对，进就进人少的（分团）
+description: Details for Hades' Star Corporation 对，进就进人少的（分团） whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1195 🔺  (486)|
-| ELO Competitive | 1202 🔺  (511)|
+| ELO Competitive | 1202 🔺  (510)|
 | Total Matches | 7 |
 | Wins | 3 |
 | Losses | 4 |

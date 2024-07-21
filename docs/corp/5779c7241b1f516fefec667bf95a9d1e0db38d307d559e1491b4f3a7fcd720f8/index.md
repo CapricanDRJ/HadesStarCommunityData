@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Zeta LLC
+description: Details for Hades' Star Corporation Zeta LLC whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1266 🔻  (169)|
+| ELO Regular | 1266 🔻  (170)|
 | ELO Competitive | 1270 🔻  (260)|
 | Total Matches | 9 |
 | Wins | 7 |

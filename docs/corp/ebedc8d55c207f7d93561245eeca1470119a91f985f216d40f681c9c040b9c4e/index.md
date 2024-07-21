@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Frontier X
+description: Details for Hades' Star Corporation Frontier X whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1262 🔻  (180)|
+| ELO Regular | 1262 🔻  (181)|
 | ELO Competitive | 1263 🔻  (272)|
 | Total Matches | 13 |
 | Wins | 9 |

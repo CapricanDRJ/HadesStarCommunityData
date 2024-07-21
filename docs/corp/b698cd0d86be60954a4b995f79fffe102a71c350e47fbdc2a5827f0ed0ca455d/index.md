@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Stargate Corp
+description: Details for Hades' Star Corporation Stargate Corp whitestar history
 ---
 
 | Statistic | Value |

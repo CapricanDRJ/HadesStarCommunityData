@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CDS
+description: Details for Hades' Star Corporation CDS whitestar history
 ---
 
 | Statistic | Value |

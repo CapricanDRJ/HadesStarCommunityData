@@ -1,6 +1,7 @@
 ---
 layout: page
 title: StalkerUA 
+description: Details for Hades' Star Corporation StalkerUA  whitestar history
 ---
 
 | Statistic | Value |

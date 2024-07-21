@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Veil of Maya
+description: Details for Hades' Star Corporation Veil of Maya whitestar history
 ---
 
 | Statistic | Value |

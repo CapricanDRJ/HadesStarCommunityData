@@ -1,6 +1,7 @@
 ---
 layout: page
 title: United Stars 
+description: Details for Hades' Star Corporation United Stars  whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Best UA West
+description: Details for Hades' Star Corporation Best UA West whitestar history
 ---
 
 | Statistic | Value |

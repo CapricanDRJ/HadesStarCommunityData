@@ -1,12 +1,13 @@
 ---
 layout: page
-title: WSC(no DISCORD)
+title: WSC\(no DISCORD\)
+description: Details for Hades' Star Corporation WSC\(no DISCORD\) whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1275 🔺  (151)|
-| ELO Competitive | 1326 🔺  (161)|
+| ELO Competitive | 1326 🔺  (162)|
 | Total Matches | 31 |
 | Wins | 17 |
 | Losses | 13 |

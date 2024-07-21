@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Offshore Trash
+description: Details for Hades' Star Corporation Offshore Trash whitestar history
 ---
 
 | Statistic | Value |

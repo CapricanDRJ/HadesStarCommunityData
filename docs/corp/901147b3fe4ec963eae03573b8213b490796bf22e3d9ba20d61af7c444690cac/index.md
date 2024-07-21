@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Türk Yıldızları
+description: Details for Hades' Star Corporation Türk Yıldızları whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1273 🔻  (153)|
+| ELO Regular | 1273 🔻  (154)|
 | ELO Competitive | 1305 🔻  (192)|
 | Total Matches | 27 |
 | Wins | 16 |

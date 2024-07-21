@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Омикрон Альфа
+description: Details for Hades' Star Corporation Омикрон Альфа whitestar history
 ---
 
 | Statistic | Value |

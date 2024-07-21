@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Free Star
+description: Details for Hades' Star Corporation Free Star whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1156 🔻  (955)|
-| ELO Competitive | 1202 🔻  (508)|
+| ELO Competitive | 1202 🔻  (507)|
 | Total Matches | 13 |
 | Wins | 5 |
 | Losses | 8 |

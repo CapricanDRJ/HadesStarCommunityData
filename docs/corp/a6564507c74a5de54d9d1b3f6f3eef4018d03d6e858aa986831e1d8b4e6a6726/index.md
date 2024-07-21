@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Neutro Corpo
+description: Details for Hades' Star Corporation Neutro Corpo whitestar history
 ---
 
 | Statistic | Value |

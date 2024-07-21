@@ -1,6 +1,7 @@
 ---
 layout: page
 title: LOST PIRATES
+description: Details for Hades' Star Corporation LOST PIRATES whitestar history
 ---
 
 | Statistic | Value |

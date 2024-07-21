@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Austria 
+description: Details for Hades' Star Corporation Austria  whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1201 🔻  (429)|
-| ELO Competitive | 1201 🔻  (521)|
+| ELO Competitive | 1201 🔻  (520)|
 | Total Matches | 4 |
 | Wins | 2 |
 | Losses | 2 |

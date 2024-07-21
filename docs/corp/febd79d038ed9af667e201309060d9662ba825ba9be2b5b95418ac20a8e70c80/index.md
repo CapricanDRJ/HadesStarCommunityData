@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Ark
+description: Details for Hades' Star Corporation Ark whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Polish Pirates
+description: Details for Hades' Star Corporation Polish Pirates whitestar history
 ---
 
 | Statistic | Value |

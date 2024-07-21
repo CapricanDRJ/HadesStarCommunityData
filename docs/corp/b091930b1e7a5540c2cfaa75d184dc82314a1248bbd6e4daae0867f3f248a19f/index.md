@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Ещё один Миф
+description: Details for Hades' Star Corporation Ещё один Миф whitestar history
 ---
 
 | Statistic | Value |

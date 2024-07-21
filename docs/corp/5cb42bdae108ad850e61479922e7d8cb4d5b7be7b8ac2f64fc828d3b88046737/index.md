@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 共产星际
+description: Details for Hades' Star Corporation 共产星际 whitestar history
 ---
 
 | Statistic | Value |

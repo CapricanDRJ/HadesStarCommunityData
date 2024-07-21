@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Cominters
+description: Details for Hades' Star Corporation Cominters whitestar history
 ---
 
 | Statistic | Value |

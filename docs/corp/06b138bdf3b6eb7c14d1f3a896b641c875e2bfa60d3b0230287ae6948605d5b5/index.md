@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Dirty Laundry 
+description: Details for Hades' Star Corporation Dirty Laundry  whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (828)|
+| ELO Regular | 1172 🔻  (829)|
 | ELO Competitive | 1175 🔻  (892)|
 | Total Matches | 2 |
 | Wins | 0 |

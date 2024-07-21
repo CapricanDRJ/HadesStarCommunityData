@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Ark Summit
+description: Details for Hades' Star Corporation Ark Summit whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1326 🔺  (87)|
-| ELO Competitive | 1332 🔺  (152)|
+| ELO Competitive | 1332 🔺  (153)|
 | Total Matches | 10 |
 | Wins | 10 |
 | Losses | 0 |

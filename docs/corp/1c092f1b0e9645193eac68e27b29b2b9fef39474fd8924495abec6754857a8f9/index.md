@@ -1,6 +1,7 @@
 ---
 layout: page
 title: alienigenas
+description: Details for Hades' Star Corporation alienigenas whitestar history
 ---
 
 | Statistic | Value |

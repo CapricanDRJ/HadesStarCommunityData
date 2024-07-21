@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Imperio Lie Yan
+description: Details for Hades' Star Corporation Imperio Lie Yan whitestar history
 ---
 
 | Statistic | Value |

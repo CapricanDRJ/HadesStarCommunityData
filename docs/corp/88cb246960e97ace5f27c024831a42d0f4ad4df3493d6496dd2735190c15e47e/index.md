@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 北冥星云
+description: Details for Hades' Star Corporation 北冥星云 whitestar history
 ---
 
 | Statistic | Value |

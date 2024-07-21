@@ -1,12 +1,13 @@
 ---
 layout: page
 title: 新兴帝国
+description: Details for Hades' Star Corporation 新兴帝国 whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1196 🔻  (483)|
-| ELO Competitive | 1200 🔻  (545)|
+| ELO Competitive | 1200 🔻  (544)|
 | Total Matches | 7 |
 | Wins | 3 |
 | Losses | 4 |

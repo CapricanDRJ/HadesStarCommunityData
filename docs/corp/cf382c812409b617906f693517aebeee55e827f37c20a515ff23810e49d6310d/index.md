@@ -1,6 +1,7 @@
 ---
 layout: page
 title: BRhue
+description: Details for Hades' Star Corporation BRhue whitestar history
 ---
 
 | Statistic | Value |

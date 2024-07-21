@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Warriors
+description: Details for Hades' Star Corporation Warriors whitestar history
 ---
 
 | Statistic | Value |

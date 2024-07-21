@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Weyland Yutani 
+description: Details for Hades' Star Corporation Weyland Yutani  whitestar history
 ---
 
 | Statistic | Value |

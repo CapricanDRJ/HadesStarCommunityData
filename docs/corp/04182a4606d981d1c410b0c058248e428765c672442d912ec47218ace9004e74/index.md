@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Created
+description: Details for Hades' Star Corporation Created whitestar history
 ---
 
 | Statistic | Value |

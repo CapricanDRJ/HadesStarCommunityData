@@ -1,12 +1,13 @@
 ---
 layout: page
 title: 星河绮梦
+description: Details for Hades' Star Corporation 星河绮梦 whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1303 🔺  (117)|
-| ELO Competitive | 1330 🔺  (154)|
+| ELO Competitive | 1330 🔺  (155)|
 | Total Matches | 10 |
 | Wins | 9 |
 | Losses | 1 |

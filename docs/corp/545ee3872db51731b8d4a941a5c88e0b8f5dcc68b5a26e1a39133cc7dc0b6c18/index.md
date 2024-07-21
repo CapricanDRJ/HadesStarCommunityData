@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 中国星际联盟·第一自治州
+description: Details for Hades' Star Corporation 中国星际联盟·第一自治州 whitestar history
 ---
 
 | Statistic | Value |

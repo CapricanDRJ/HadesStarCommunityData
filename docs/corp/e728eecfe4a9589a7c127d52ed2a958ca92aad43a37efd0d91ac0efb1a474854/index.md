@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Hun Avengers
+description: Details for Hades' Star Corporation Hun Avengers whitestar history
 ---
 
 | Statistic | Value |

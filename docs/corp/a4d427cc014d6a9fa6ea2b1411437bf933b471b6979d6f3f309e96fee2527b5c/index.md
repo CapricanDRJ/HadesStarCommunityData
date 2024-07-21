@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Redd Armada
+description: Details for Hades' Star Corporation Redd Armada whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1272 🔻  (158)|
+| ELO Regular | 1272 🔻  (159)|
 | ELO Competitive | 1286 🔻  (225)|
 | Total Matches | 10 |
 | Wins | 8 |

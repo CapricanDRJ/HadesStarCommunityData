@@ -1,6 +1,7 @@
 ---
 layout: page
 title: ТРУЛЯЛЯ
+description: Details for Hades' Star Corporation ТРУЛЯЛЯ whitestar history
 ---
 
 | Statistic | Value |

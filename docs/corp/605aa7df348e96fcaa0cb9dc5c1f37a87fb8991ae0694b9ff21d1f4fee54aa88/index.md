@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Корпорация Миф
+description: Details for Hades' Star Corporation Корпорация Миф whitestar history
 ---
 
 | Statistic | Value |

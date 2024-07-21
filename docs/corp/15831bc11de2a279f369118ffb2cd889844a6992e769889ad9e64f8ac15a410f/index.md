@@ -1,11 +1,12 @@
 ---
 layout: page
 title: No Orbit©
+description: Details for Hades' Star Corporation No Orbit© whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1256 🔻  (190)|
+| ELO Regular | 1256 🔻  (191)|
 | ELO Competitive | 1273 🔻  (252)|
 | Total Matches | 17 |
 | Wins | 11 |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CTG
+description: Details for Hades' Star Corporation CTG whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Open Infinity
+description: Details for Hades' Star Corporation Open Infinity whitestar history
 ---
 
 | Statistic | Value |

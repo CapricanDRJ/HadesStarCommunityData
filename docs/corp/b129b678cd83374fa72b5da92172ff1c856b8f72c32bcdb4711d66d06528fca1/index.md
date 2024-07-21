@@ -1,11 +1,12 @@
 ---
 layout: page
 title: 1st/Ave/Junkie2
+description: Details for Hades' Star Corporation 1st/Ave/Junkie2 whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (782)|
+| ELO Regular | 1176 🔻  (783)|
 | ELO Competitive | 1194 🔻  (583)|
 | Total Matches | 37 |
 | Wins | 16 |

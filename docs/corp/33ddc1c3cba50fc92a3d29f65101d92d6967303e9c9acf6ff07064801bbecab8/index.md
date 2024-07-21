@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Ahamkara
+description: Details for Hades' Star Corporation Ahamkara whitestar history
 ---
 
 | Statistic | Value |

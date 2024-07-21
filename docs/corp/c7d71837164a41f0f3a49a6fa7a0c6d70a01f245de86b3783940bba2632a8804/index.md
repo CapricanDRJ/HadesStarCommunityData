@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 新手联邦（新经济开发区）
+description: Details for Hades' Star Corporation 新手联邦（新经济开发区） whitestar history
 ---
 
 | Statistic | Value |

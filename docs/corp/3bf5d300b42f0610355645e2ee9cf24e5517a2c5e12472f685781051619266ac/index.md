@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Sprite
+description: Details for Hades' Star Corporation Sprite whitestar history
 ---
 
 | Statistic | Value |

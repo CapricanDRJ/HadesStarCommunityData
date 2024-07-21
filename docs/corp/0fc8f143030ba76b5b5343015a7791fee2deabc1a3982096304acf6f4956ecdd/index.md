@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Karanth Corp.
+title: Karanth Corp\.
+description: Details for Hades' Star Corporation Karanth Corp\. whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (823)|
+| ELO Regular | 1173 🔻  (824)|
 | ELO Competitive | 1174 🔻  (903)|
 | Total Matches | 2 |
 | Wins | 0 |

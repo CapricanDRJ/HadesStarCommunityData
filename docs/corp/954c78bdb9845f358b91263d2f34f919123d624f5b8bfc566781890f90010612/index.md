@@ -1,6 +1,7 @@
 ---
 layout: page
 title: helvetic force
+description: Details for Hades' Star Corporation helvetic force whitestar history
 ---
 
 | Statistic | Value |

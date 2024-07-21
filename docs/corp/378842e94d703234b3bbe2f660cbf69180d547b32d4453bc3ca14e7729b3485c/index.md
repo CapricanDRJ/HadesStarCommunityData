@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Union premiun
+description: Details for Hades' Star Corporation Union premiun whitestar history
 ---
 
 | Statistic | Value |

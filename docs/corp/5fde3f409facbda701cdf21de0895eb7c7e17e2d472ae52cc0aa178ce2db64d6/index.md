@@ -1,6 +1,7 @@
 ---
 layout: page
 title: AKA
+description: Details for Hades' Star Corporation AKA whitestar history
 ---
 
 | Statistic | Value |

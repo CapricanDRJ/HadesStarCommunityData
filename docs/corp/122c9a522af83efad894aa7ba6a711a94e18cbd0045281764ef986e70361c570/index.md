@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Caprica command
+description: Details for Hades' Star Corporation Caprica command whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1199 🔻  (463)|
-| ELO Competitive | 1203 🔻  (505)|
+| ELO Competitive | 1203 🔻  (504)|
 | Total Matches | 8 |
 | Wins | 4 |
 | Losses | 4 |

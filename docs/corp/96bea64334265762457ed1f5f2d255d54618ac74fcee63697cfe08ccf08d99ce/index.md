@@ -1,12 +1,13 @@
 ---
 layout: page
 title: FreeSpcAlliance
+description: Details for Hades' Star Corporation FreeSpcAlliance whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1197 🔻  (472)|
-| ELO Competitive | 1199 🔻  (548)|
+| ELO Competitive | 1199 🔻  (547)|
 | Total Matches | 6 |
 | Wins | 3 |
 | Losses | 3 |

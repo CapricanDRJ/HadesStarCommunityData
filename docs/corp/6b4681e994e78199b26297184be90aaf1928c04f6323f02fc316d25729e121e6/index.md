@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 101
+description: Details for Hades' Star Corporation 101 whitestar history
 ---
 
 | Statistic | Value |

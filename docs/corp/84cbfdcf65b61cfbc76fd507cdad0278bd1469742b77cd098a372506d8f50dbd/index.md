@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Uchiha
+description: Details for Hades' Star Corporation Uchiha whitestar history
 ---
 
 | Statistic | Value |

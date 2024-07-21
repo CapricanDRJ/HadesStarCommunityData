@@ -1,6 +1,7 @@
 ---
 layout: page
 title: RUSSIAN TEAM
+description: Details for Hades' Star Corporation RUSSIAN TEAM whitestar history
 ---
 
 | Statistic | Value |

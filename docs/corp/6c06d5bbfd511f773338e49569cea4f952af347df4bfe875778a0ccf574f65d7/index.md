@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Dansk
+description: Details for Hades' Star Corporation Dansk whitestar history
 ---
 
 | Statistic | Value |

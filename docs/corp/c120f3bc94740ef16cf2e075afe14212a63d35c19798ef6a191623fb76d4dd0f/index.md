@@ -1,6 +1,7 @@
 ---
 layout: page
 title: uDS
+description: Details for Hades' Star Corporation uDS whitestar history
 ---
 
 | Statistic | Value |

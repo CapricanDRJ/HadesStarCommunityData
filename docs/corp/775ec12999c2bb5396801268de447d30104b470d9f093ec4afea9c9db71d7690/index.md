@@ -1,6 +1,7 @@
 ---
 layout: page
 title: USSR
+description: Details for Hades' Star Corporation USSR whitestar history
 ---
 
 | Statistic | Value |

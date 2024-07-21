@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CIS
+description: Details for Hades' Star Corporation CIS whitestar history
 ---
 
 | Statistic | Value |

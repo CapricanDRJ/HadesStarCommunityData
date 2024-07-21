@@ -1,11 +1,12 @@
 ---
 layout: page
 title: The Gathering
+description: Details for Hades' Star Corporation The Gathering whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (781)|
+| ELO Regular | 1176 🔻  (782)|
 | ELO Competitive | 1176 🔻  (883)|
 | Total Matches | 4 |
 | Wins | 1 |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Deadspace
+description: Details for Hades' Star Corporation Deadspace whitestar history
 ---
 
 | Statistic | Value |

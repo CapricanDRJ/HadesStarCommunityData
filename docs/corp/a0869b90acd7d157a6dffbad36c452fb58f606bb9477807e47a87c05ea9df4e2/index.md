@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Freelancer
+description: Details for Hades' Star Corporation Freelancer whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (811)|
+| ELO Regular | 1174 🔻  (812)|
 | ELO Competitive | 1174 🔻  (895)|
 | Total Matches | 2 |
 | Wins | 0 |

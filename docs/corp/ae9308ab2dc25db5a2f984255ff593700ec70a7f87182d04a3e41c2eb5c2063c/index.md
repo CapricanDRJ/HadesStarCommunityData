@@ -1,11 +1,12 @@
 ---
 layout: page
 title: ༺༽ʚ天轮间ɞ༼༻
+description: Details for Hades' Star Corporation ༺༽ʚ天轮间ɞ༼༻ whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (819)|
+| ELO Regular | 1173 🔻  (820)|
 | ELO Competitive | 1180 🔻  (846)|
 | Total Matches | 3 |
 | Wins | 1 |

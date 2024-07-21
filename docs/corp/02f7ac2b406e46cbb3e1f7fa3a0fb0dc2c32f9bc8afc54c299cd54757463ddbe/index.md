@@ -1,12 +1,13 @@
 ---
 layout: page
 title: ItaFederalFleet
+description: Details for Hades' Star Corporation ItaFederalFleet whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1311 🔺  (105)|
-| ELO Competitive | 1323 🔺  (168)|
+| ELO Competitive | 1323 🔺  (169)|
 | Total Matches | 20 |
 | Wins | 14 |
 | Losses | 5 |

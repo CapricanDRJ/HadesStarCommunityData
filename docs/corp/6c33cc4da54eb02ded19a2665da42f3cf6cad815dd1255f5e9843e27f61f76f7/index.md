@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The Titans Pro
+description: Details for Hades' Star Corporation The Titans Pro whitestar history
 ---
 
 | Statistic | Value |

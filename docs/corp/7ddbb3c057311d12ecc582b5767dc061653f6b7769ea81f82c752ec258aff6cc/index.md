@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Internationals
+description: Details for Hades' Star Corporation Internationals whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1272 🔺  (157)|
+| ELO Regular | 1272 🔺  (158)|
 | ELO Competitive | 1301 🔺  (199)|
 | Total Matches | 21 |
 | Wins | 12 |

@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Gallaecia
+description: Details for Hades' Star Corporation Gallaecia whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1035 🔻  (1149)|
+| ELO Regular | 1035 🔻  (1148)|
 | ELO Competitive | 1038 🔻  (1170)|
 | Total Matches | 16 |
 | Wins | 0 |

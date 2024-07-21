@@ -1,11 +1,12 @@
 ---
 layout: page
-title: tropa (BR)
+title: tropa \(BR\)
+description: Details for Hades' Star Corporation tropa \(BR\) whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (757)|
+| ELO Regular | 1181 🔻  (758)|
 | ELO Competitive | 1190 🔻  (622)|
 | Total Matches | 18 |
 | Wins | 7 |

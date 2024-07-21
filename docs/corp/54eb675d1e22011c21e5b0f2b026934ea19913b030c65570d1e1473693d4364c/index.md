@@ -1,11 +1,12 @@
 ---
 layout: page
 title: 墨痕空域
+description: Details for Hades' Star Corporation 墨痕空域 whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1269 🔺  (162)|
+| ELO Regular | 1269 🔺  (163)|
 | ELO Competitive | 1461 🔺  (41)|
 | Total Matches | 44 |
 | Wins | 29 |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The Syndicate 
+description: Details for Hades' Star Corporation The Syndicate  whitestar history
 ---
 
 | Statistic | Value |

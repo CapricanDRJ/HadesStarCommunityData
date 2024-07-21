@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Omega Alpha
+description: Details for Hades' Star Corporation Omega Alpha whitestar history
 ---
 
 | Statistic | Value |

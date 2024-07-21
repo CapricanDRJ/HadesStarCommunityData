@@ -1,14 +1,15 @@
 ---
 layout: page
 title: Unión latina
+description: Details for Hades' Star Corporation Unión latina whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1254 🔻  (201)|
-| ELO Competitive | 1321 🔻  (173)|
-| Total Matches | 44 |
-| Wins | 25 |
+| ELO Regular | 1274 🔺  (153)|
+| ELO Competitive | 1345 🔺  (134)|
+| Total Matches | 45 |
+| Wins | 26 |
 | Losses | 19 |
 | Draws | 0 |
 | Streak Record | 6 |
@@ -17,6 +18,7 @@ title: Unión latina
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) | 1 | 1 | 0 | 2 |
 | [Spaceballs](https://ws.tsl.rocks/corp/1e54a7ba8156a65b15f7f1358b682a10f856acb0f96d9e3b582c4ea175905839/) | 1 | 1 | 0 | 2 |
 | [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) | 0 | 2 | 0 | 2 |
 | [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1/) | 0 | 2 | 0 | 2 |
@@ -29,6 +31,7 @@ title: Unión latina
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/20 | 29-1 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ❌ | 2024/07/14 | 3-35 | [Bl@ck/Galaxy ](https://ws.tsl.rocks/corp/76f8fe0dcd8b8c1cb8e0083f14c0b36c23bb9757a3af0f191b567774c02222a3/) |
 | ✅ | 2024/07/08 | 17-1 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ❌ | 2024/07/02 | 0-26 | [Spaceballs](https://ws.tsl.rocks/corp/1e54a7ba8156a65b15f7f1358b682a10f856acb0f96d9e3b582c4ea175905839/) |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Ninth Planet
+description: Details for Hades' Star Corporation Ninth Planet whitestar history
 ---
 
 | Statistic | Value |

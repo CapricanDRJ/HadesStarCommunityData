@@ -1,6 +1,7 @@
 ---
 layout: page
-title: M4-Valhalla
+title: M4\-Valhalla
+description: Details for Hades' Star Corporation M4\-Valhalla whitestar history
 ---
 
 | Statistic | Value |

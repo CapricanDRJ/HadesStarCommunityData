@@ -1,11 +1,12 @@
 ---
 layout: page
 title: 风云集团
+description: Details for Hades' Star Corporation 风云集团 whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (818)|
+| ELO Regular | 1173 🔻  (819)|
 | ELO Competitive | 1173 🔻  (911)|
 | Total Matches | 4 |
 | Wins | 1 |

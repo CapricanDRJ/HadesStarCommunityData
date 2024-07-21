@@ -1,6 +1,7 @@
 ---
 layout: page
-title: E.T.A
+title: E\.T\.A
+description: Details for Hades' Star Corporation E\.T\.A whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Hands Of God
+description: Details for Hades' Star Corporation Hands Of God whitestar history
 ---
 
 | Statistic | Value |

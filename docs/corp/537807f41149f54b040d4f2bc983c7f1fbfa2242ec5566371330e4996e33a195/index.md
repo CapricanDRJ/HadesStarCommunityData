@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Tormenta
+description: Details for Hades' Star Corporation Tormenta whitestar history
 ---
 
 | Statistic | Value |

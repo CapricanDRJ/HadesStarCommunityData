@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Poggy Rockers
+description: Details for Hades' Star Corporation Poggy Rockers whitestar history
 ---
 
 | Statistic | Value |

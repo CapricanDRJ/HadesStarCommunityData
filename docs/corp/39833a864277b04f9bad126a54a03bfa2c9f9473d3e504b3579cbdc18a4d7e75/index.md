@@ -1,11 +1,12 @@
 ---
 layout: page
 title: King's Guard
+description: Details for Hades' Star Corporation King's Guard whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 987 🔻  (1166)|
+| ELO Regular | 987 🔻  (1167)|
 | ELO Competitive | 1164 🔻  (990)|
 | Total Matches | 81 |
 | Wins | 24 |

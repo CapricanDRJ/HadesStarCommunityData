@@ -1,6 +1,7 @@
 ---
 layout: page
-title:  星空漫游者-GR
+title:  星空漫游者\-GR
+description: Details for Hades' Star Corporation  星空漫游者\-GR whitestar history
 ---
 
 | Statistic | Value |

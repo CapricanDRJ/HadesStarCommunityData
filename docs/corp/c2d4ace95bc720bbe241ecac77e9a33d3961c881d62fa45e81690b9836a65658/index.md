@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 青丘湖
+description: Details for Hades' Star Corporation 青丘湖 whitestar history
 ---
 
 | Statistic | Value |

@@ -1,12 +1,13 @@
 ---
 layout: page
 title: NoweUkladyII
+description: Details for Hades' Star Corporation NoweUkladyII whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1311 🔺  (107)|
-| ELO Competitive | 1337 🔺  (143)|
+| ELO Competitive | 1337 🔺  (145)|
 | Total Matches | 10 |
 | Wins | 10 |
 | Losses | 0 |

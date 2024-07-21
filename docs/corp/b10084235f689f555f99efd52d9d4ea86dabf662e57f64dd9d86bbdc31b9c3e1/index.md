@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Hexwood
+description: Details for Hades' Star Corporation Hexwood whitestar history
 ---
 
 | Statistic | Value |

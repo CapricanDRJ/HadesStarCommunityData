@@ -1,11 +1,12 @@
 ---
 layout: page
 title: USAR@Hadesstar
+description: Details for Hades' Star Corporation USAR@Hadesstar whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1179 🔻  (769)|
+| ELO Regular | 1179 🔻  (770)|
 | ELO Competitive | 1179 🔻  (854)|
 | Total Matches | 4 |
 | Wins | 1 |

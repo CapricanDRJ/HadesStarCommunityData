@@ -1,6 +1,7 @@
 ---
 layout: page
 title: SiriusStrawMoo
+description: Details for Hades' Star Corporation SiriusStrawMoo whitestar history
 ---
 
 | Statistic | Value |

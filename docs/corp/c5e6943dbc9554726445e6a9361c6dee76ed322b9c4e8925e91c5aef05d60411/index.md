@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 銀河星际集团
+description: Details for Hades' Star Corporation 銀河星际集团 whitestar history
 ---
 
 | Statistic | Value |

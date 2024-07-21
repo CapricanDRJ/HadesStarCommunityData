@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Stone Legion
+description: Details for Hades' Star Corporation Stone Legion whitestar history
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1347 🔺  (64)|
+| ELO Regular | 1347 🔺  (63)|
 | ELO Competitive | 1371 🔺  (104)|
 | Total Matches | 24 |
 | Wins | 19 |

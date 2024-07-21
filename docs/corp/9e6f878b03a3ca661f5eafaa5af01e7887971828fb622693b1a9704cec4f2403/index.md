@@ -1,6 +1,7 @@
 ---
 layout: page
-title: ZZZ-V
+title: ZZZ\-V
+description: Details for Hades' Star Corporation ZZZ\-V whitestar history
 ---
 
 | Statistic | Value |

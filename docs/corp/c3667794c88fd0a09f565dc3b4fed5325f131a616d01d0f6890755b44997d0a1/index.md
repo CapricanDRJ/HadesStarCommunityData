@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 超新星联盟
+description: Details for Hades' Star Corporation 超新星联盟 whitestar history
 ---
 
 | Statistic | Value |

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: ВЕЧНОСТЬ
+description: Details for Hades' Star Corporation ВЕЧНОСТЬ whitestar history
 ---
 
 | Statistic | Value |

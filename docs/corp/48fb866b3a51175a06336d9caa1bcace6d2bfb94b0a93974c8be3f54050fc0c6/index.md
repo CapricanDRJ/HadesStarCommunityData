@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Свободный флот
+description: Details for Hades' Star Corporation Свободный флот whitestar history
 ---
 
 | Statistic | Value |

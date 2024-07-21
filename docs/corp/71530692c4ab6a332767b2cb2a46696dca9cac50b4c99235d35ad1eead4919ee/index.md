@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Spy Corp
+description: Details for Hades' Star Corporation Spy Corp whitestar history
 ---
 
 | Statistic | Value |

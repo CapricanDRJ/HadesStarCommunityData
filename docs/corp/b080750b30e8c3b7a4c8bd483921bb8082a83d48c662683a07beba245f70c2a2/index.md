@@ -1,6 +1,7 @@
 ---
 layout: page
 title: NEW HOLLAND
+description: Details for Hades' Star Corporation NEW HOLLAND whitestar history
 ---
 
 | Statistic | Value |

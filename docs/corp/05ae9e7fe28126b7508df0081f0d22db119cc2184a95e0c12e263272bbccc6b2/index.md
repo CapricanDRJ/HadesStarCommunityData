@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Space lover
+description: Details for Hades' Star Corporation Space lover whitestar history
 ---
 
 | Statistic | Value |
