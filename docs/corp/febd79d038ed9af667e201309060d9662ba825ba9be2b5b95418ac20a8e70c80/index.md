@@ -6,11 +6,11 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1439 🔻  (20)|
-| ELO Competitive | 1478 🔺  (29)|
-| Total Matches | 44 |
-| Wins | 37 |
-| Losses | 6 |
+| ELO Regular | 1418 🔻  (26)|
+| ELO Competitive | 1480 🔺  (28)|
+| Total Matches | 46 |
+| Wins | 38 |
+| Losses | 7 |
 | Draws | 1 |
 | Streak Record | 24 |
 
@@ -28,6 +28,8 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/21 | 1-15 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
+| ✅ | 2024/07/21 | 44-0 | [Free Thinkers 2](https://ws.tsl.rocks/corp/9fc879b45c4053ac93d6eebdb14d856a828df8fd85800df616cdd3332683a695/) |
 | ↔️ | 2024/07/14 | 38-38 | [Retarts](https://ws.tsl.rocks/corp/1556331f722d00268e3c524b12efedac51051cf48e46b2513675774b9315a155/) |
 | ✅ | 2024/07/14 | 48-14 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
 | ✅ | 2024/07/07 | 34-15 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) |
