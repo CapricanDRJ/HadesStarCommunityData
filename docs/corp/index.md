@@ -6,7 +6,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 
 | Corporation Name | ELO Regular | ELO Competitive | Total Matches |
 | --- | --- | --- | --- |
-| [AAAA](https://ws.tsl.rocks/corp/73b759d7c9218f2c1171f9ef691739331ca36ee045039f4f3f935a47b6622a27/) | 1180 | 1203 | 6 |
+| [AAAA](https://ws.tsl.rocks/corp/73b759d7c9218f2c1171f9ef691739331ca36ee045039f4f3f935a47b6622a27/) | 1166 | 1188 | 7 |
 | [Aconitum](https://ws.tsl.rocks/corp/a78154f5b970193636f3d13d3f6d3dd98e975ba876810f1bfb84c90e778986db/) | 1213 | 1214 | 1 |
 | [Aegis Shield](https://ws.tsl.rocks/corp/0c9788075ccdc94322bb96f7d98b4a8df010615893980ab0b4e5b7a987b13732/) | 1126 | 1138 | 9 |
 | [Aeternae](https://ws.tsl.rocks/corp/05ad49bd809f330a794a7d0278a5e21b110b79ebb26ff8d28a25e8a2f1bcb7c8/) | 1113 | 1116 | 7 |
@@ -218,7 +218,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Equinox](https://ws.tsl.rocks/corp/666001c1d87fbfcf6a3d8614e2b5b9f0e4aa96fa4c098c004bea9fb92ed330c2/) | 1199 | 1215 | 23 |
 | [Eretria ](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) | 1231 | 1257 | 46 |
 | [ES Gaming ](https://ws.tsl.rocks/corp/1bbc4390e9fa60fe312b23c8fa8d8f9eb499307607a4c3304e33bd05bd58f981/) | 1235 | 1278 | 30 |
-| [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) | 994 | 1089 | 54 |
+| [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) | 985 | 1077 | 55 |
 | [Españoles](https://ws.tsl.rocks/corp/243019fcfd10d4121251ca030b7986781c90f819ba291ee6d7054dc6bbcc9000/) | 1184 | 1232 | 9 |
 | [Eternal empire ](https://ws.tsl.rocks/corp/c710661fec52581acc50c1f8a96dfb2dc3e582cf877080c41714526c98cd7193/) | 1102 | 1176 | 22 |
 | [exirium](https://ws.tsl.rocks/corp/4981522e08ce38bcec7b2a189b3bfba9c072a615eea490a55c645344ac975f54/) | 1200 | 1200 | 2 |
@@ -743,7 +743,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [The Star League](https://ws.tsl.rocks/corp/f8b4a4ab48d0f4dc8e2d35c049289e4cd31960c34c0d114426164f223cdb5140/) | 1147 | 1189 | 15 |
 | [The Syndicate ](https://ws.tsl.rocks/corp/a7da1f6bd313248b8b6e68a1826bffb463c0e4977776708b28d97199f878b88c/) | 1341 | 1350 | 14 |
 | [The Titans Pro](https://ws.tsl.rocks/corp/6c33cc4da54eb02ded19a2665da42f3cf6cad815dd1255f5e9843e27f61f76f7/) | 1218 | 1223 | 1 |
-| [The trade pub](https://ws.tsl.rocks/corp/43689e4266357d8b8d3d66d371109d9aed82ee6df47dc6fa0a7c5da735b9863b/) | 1140 | 1172 | 33 |
+| [The trade pub](https://ws.tsl.rocks/corp/43689e4266357d8b8d3d66d371109d9aed82ee6df47dc6fa0a7c5da735b9863b/) | 1149 | 1184 | 34 |
 | [The Visionaries](https://ws.tsl.rocks/corp/fdf81736e2eabec3cd1e7412c8f9bd49a9e0f48418b7e8a8b6131a4538d62b93/) | 1196 | 1196 | 1 |
 | [The Watchers](https://ws.tsl.rocks/corp/62a08ec3521bd62e5c8fbfc03c7d99fbf3e30fd1df80716485c9b989b27771e6/) | 1164 | 1237 | 25 |
 | [The X \- Files](https://ws.tsl.rocks/corp/f13cb0ae2dbb0654a2067c8749f86bce49edc5b520bd391c7af11948f23a41fb/) | 977 | 997 | 38 |
@@ -1112,7 +1112,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [海澜之家](https://ws.tsl.rocks/corp/36caebb92bc1cc49fc7be123dd38469d478c6ac42831a25a4a20ba590c73631d/) | 1181 | 1184 | 1 |
 | [海賊ギルド](https://ws.tsl.rocks/corp/5a1a2bfa07b5ad3ca9bc90a4a86ce8e83d0e61393771fa0ff4c71733bc8879f3/) | 1076 | 1086 | 22 |
 | [深空补给港](https://ws.tsl.rocks/corp/6113fcbe4739d68f06b6a167df2788aa4582546dd0e0de38a088dd7797e0b501/) | 1107 | 1150 | 14 |
-| [游徒之家](https://ws.tsl.rocks/corp/7ab5f6970c8703095b0589da6e5d648dc64a94ca6d901ef09d4949409b2c44b9/) | 1197 | 1208 | 5 |
+| [游徒之家](https://ws.tsl.rocks/corp/7ab5f6970c8703095b0589da6e5d648dc64a94ca6d901ef09d4949409b2c44b9/) | 1211 | 1222 | 6 |
 | [游徒训练营](https://ws.tsl.rocks/corp/39c562d1d2848ea0bf0e0366865ebbe366a45230d875a115b12406654214f6ac/) | 1164 | 1182 | 8 |
 | [湖心亭看雪](https://ws.tsl.rocks/corp/eb4316c2fbedc2f03ed45e128c8c8d96376d1d1125790a9b9697481dacd002fb/) | 1016 | 1092 | 23 |
 | [火洋之心](https://ws.tsl.rocks/corp/99cb105316e2715545c205443c4e331cd11832753eac1c21e11ae3d532e36bcb/) | 1237 | 1239 | 7 |
