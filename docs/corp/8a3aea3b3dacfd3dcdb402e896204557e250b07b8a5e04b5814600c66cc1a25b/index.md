@@ -6,13 +6,13 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1492 🔺  (7)|
-| ELO Competitive | 1523 🔺  (13)|
-| Total Matches | 50 |
-| Wins | 44 |
+| ELO Regular | 1498 🔺  (5)|
+| ELO Competitive | 1530 🔺  (11)|
+| Total Matches | 51 |
+| Wins | 45 |
 | Losses | 6 |
 | Draws | 0 |
-| Streak | 11 |
+| Streak | 12 |
 | Streak Record | 12 |
 
 ### Recurring Opponents
@@ -29,6 +29,7 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/22 | 45-0 | [Crux Cadre](https://ws.tsl.rocks/corp/41cdba59897d5e01412601b648c1a692368d92c198123f9ab442f2a23464b375/) |
 | ✅ | 2024/07/15 | 29-4 | [lost souls](https://ws.tsl.rocks/corp/64cf1f6ce9001bcd1d03fd1aaecafc1b7d88cd36316892a52a1b19d5e85bd793/) |
 | ✅ | 2024/07/10 | 36-10 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ✅ | 2024/07/03 | 46-7 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
