@@ -6,10 +6,10 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1469 🔻  (12)|
-| ELO Competitive | 1541 🔻  (8)|
-| Total Matches | 72 |
-| Wins | 57 |
+| ELO Regular | 1477 🔺  (11)|
+| ELO Competitive | 1572 🔺  (3)|
+| Total Matches | 73 |
+| Wins | 58 |
 | Losses | 14 |
 | Draws | 1 |
 | Streak Record | 9 |
@@ -31,6 +31,7 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/22 | 24-3 | [Galaktika corp](https://ws.tsl.rocks/corp/c37872d1ea085402bf536c707a895610f72dafda4bede848405b7908b4523985/) |
 | ❌ | 2024/07/20 | 19-21 | [Corp\. Estelar](https://ws.tsl.rocks/corp/aec01be59075af2b2995f74e3e14f47e2b3ce1bd3b74abc78200a1d6330b8a72/) |
 | ✅ | 2024/07/14 | 34-3 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |
 | ✅ | 2024/07/13 | 27-2 | [Tormenta](https://ws.tsl.rocks/corp/537807f41149f54b040d4f2bc983c7f1fbfa2242ec5566371330e4996e33a195/) |

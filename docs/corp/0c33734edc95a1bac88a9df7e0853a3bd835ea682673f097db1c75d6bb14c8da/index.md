@@ -6,18 +6,20 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1244 🔺  (230)|
-| ELO Competitive | 1332 🔺  (152)|
-| Total Matches | 51 |
-| Wins | 28 |
+| ELO Regular | 1263 🔺  (177)|
+| ELO Competitive | 1349 🔺  (132)|
+| Total Matches | 52 |
+| Wins | 29 |
 | Losses | 21 |
 | Draws | 2 |
+| Streak | 2 |
 | Streak Record | 7 |
 
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Stella☆Glow](https://ws.tsl.rocks/corp/86a894b97d55e4f65a3cec65d26d528341d8e70b186bcffa2e89f5f681e48396/) | 1 | 0 | 1 | 2 |
 | [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b/) | 1 | 1 | 0 | 2 |
 | [Mass Effect](https://ws.tsl.rocks/corp/6f715653bec3925d9c3acd7c2388fe8e1c79332146894ed424f57bd2636de8c7/) | 1 | 1 | 0 | 2 |
 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) | 0 | 2 | 0 | 2 |
@@ -27,6 +29,7 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/22 | 48-3 | [Stella☆Glow](https://ws.tsl.rocks/corp/86a894b97d55e4f65a3cec65d26d528341d8e70b186bcffa2e89f5f681e48396/) |
 | ✅ | 2024/07/17 | 46-4 | [ZION](https://ws.tsl.rocks/corp/99ac8e5c0f22878b9a4458953d0c712ada17ef36ae195ccf39c7921dc996adfe/) |
 | ❌ | 2024/07/11 | 8-30 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) |
 | ✅ | 2024/07/02 | 37-5 | [Greek Warriors](https://ws.tsl.rocks/corp/0ebbf2228c6b86ec5117c216d8909c8e6f32f1a59b8f9b586bcdbbb85f603bc6/) |

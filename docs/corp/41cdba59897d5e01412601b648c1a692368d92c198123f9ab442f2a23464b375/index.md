@@ -6,11 +6,11 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1256 🔻  (200)|
+| ELO Regular | 1236 🔻  (259)|
 | ELO Competitive | 1315 🔻  (182)|
-| Total Matches | 45 |
+| Total Matches | 46 |
 | Wins | 26 |
-| Losses | 18 |
+| Losses | 19 |
 | Draws | 1 |
 | Streak Record | 5 |
 
@@ -18,8 +18,8 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Game of Stars](https://ws.tsl.rocks/corp/ad5bb68e6076ee70e6715ecead226fc9880b66a87b68acb3098843f723c1562e/) | 1 | 2 | 0 | 3 |
 | [Void](https://ws.tsl.rocks/corp/d647d722a09f020b716e059ac7758172a560c7190ac4d7d306c4ede8be6c5e77/) | 2 | 0 | 0 | 2 |
-| [Game of Stars](https://ws.tsl.rocks/corp/ad5bb68e6076ee70e6715ecead226fc9880b66a87b68acb3098843f723c1562e/) | 1 | 1 | 0 | 2 |
 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) | 2 | 0 | 0 | 2 |
 | [GDZ](https://ws.tsl.rocks/corp/a04890160268d05cf11f997b0a1c724fbbcfa66b2ea4cb1c4b56ca18d0425d62/) | 0 | 2 | 0 | 2 |
 | [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b/) | 2 | 0 | 0 | 2 |
@@ -29,6 +29,7 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/22 | 3-29 | [Game of Stars](https://ws.tsl.rocks/corp/ad5bb68e6076ee70e6715ecead226fc9880b66a87b68acb3098843f723c1562e/) |
 | ❌ | 2024/07/22 | 0-45 | [Famous Assasins](https://ws.tsl.rocks/corp/8a3aea3b3dacfd3dcdb402e896204557e250b07b8a5e04b5814600c66cc1a25b/) |
 | ✅ | 2024/07/15 | 39-0 | [KARI](https://ws.tsl.rocks/corp/4434276aa1aebbe4c0a69ac51dff9c243c5287d00096e12c87e8590318a2ab65/) |
 | ❌ | 2024/07/15 | 14-23 | [Spica​](https://ws.tsl.rocks/corp/df96d6d34c4906312183050c8aa7a502678ab2902b7c23112aa9fda827bb4191/) |

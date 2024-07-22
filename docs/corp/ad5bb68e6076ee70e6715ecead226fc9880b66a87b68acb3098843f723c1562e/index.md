@@ -6,26 +6,28 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1141 🔺  (1008)|
-| ELO Competitive | 1165 🔺  (987)|
-| Total Matches | 24 |
-| Wins | 7 |
+| ELO Regular | 1161 🔺  (927)|
+| ELO Competitive | 1186 🔺  (698)|
+| Total Matches | 25 |
+| Wins | 8 |
 | Losses | 17 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 2 |
 
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Crux Cadre](https://ws.tsl.rocks/corp/41cdba59897d5e01412601b648c1a692368d92c198123f9ab442f2a23464b375/) | 2 | 1 | 0 | 3 |
 | [Alpaca Haven](https://ws.tsl.rocks/corp/e93a2f2efda24a65c8ee7eb57fbb269e19b2b1c28a67c6c7c3339b8c90f7726b/) | 1 | 1 | 0 | 2 |
-| [Crux Cadre](https://ws.tsl.rocks/corp/41cdba59897d5e01412601b648c1a692368d92c198123f9ab442f2a23464b375/) | 1 | 1 | 0 | 2 |
 | [Famous Assasins](https://ws.tsl.rocks/corp/8a3aea3b3dacfd3dcdb402e896204557e250b07b8a5e04b5814600c66cc1a25b/) | 0 | 2 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/22 | 29-3 | [Crux Cadre](https://ws.tsl.rocks/corp/41cdba59897d5e01412601b648c1a692368d92c198123f9ab442f2a23464b375/) |
 | ✅ | 2024/07/16 | 19-14 | [Alpaca Haven](https://ws.tsl.rocks/corp/e93a2f2efda24a65c8ee7eb57fbb269e19b2b1c28a67c6c7c3339b8c90f7726b/) |
 | ❌ | 2024/07/08 | 8-23 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) |
 | ❌ | 2024/06/29 | 4-21 | [Duchy Arrakis](https://ws.tsl.rocks/corp/6c8c526b366a9e9eb3eba3d3107b628042c005db03530961b24a722cc58a339e/) |

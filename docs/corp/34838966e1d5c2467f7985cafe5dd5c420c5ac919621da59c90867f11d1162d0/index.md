@@ -6,11 +6,11 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1210 🔻  (398)|
-| ELO Competitive | 1305 🔻  (193)|
-| Total Matches | 48 |
+| ELO Regular | 1202 🔻  (417)|
+| ELO Competitive | 1296 🔻  (209)|
+| Total Matches | 49 |
 | Wins | 18 |
-| Losses | 28 |
+| Losses | 29 |
 | Draws | 2 |
 | Streak Record | 3 |
 
@@ -27,6 +27,7 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/22 | 9-22 | [Tuatha De Danan](https://ws.tsl.rocks/corp/7741dbd0c9e7ddbc162e374691cb3346e4bb6600840f7962ec4a4414d5d2f780/) |
 | ❌ | 2024/07/16 | 13-24 | [Industrial W\.O](https://ws.tsl.rocks/corp/99a4ba88f6a620cb9ea1da456127c978a858ffbda4e40b255fcf3365515da25d/) |
 | ❌ | 2024/07/15 | 3-11 | [Spica​](https://ws.tsl.rocks/corp/df96d6d34c4906312183050c8aa7a502678ab2902b7c23112aa9fda827bb4191/) |
 | ✅ | 2024/07/10 | 40-31 | [Mass Effect](https://ws.tsl.rocks/corp/6f715653bec3925d9c3acd7c2388fe8e1c79332146894ed424f57bd2636de8c7/) |

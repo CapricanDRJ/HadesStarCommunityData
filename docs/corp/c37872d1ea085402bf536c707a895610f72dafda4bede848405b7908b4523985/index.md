@@ -6,11 +6,11 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1306 🔻  (114)|
-| ELO Competitive | 1327 🔻  (161)|
-| Total Matches | 20 |
+| ELO Regular | 1298 🔻  (122)|
+| ELO Competitive | 1320 🔻  (173)|
+| Total Matches | 21 |
 | Wins | 14 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 2 |
 | Streak Record | 5 |
 
@@ -24,6 +24,7 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/22 | 3-24 | [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) |
 | ❌ | 2024/07/17 | 11-21 | [Star Destroyers](https://ws.tsl.rocks/corp/32ba20918cd8720602fefb3bc676a6ba5195314479040f70eadc728fbbc2698d/) |
 | ✅ | 2024/07/10 | 10-5 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
 | ✅ | 2024/06/30 | 16-2 | [11th Engineers](https://ws.tsl.rocks/corp/7341e9a33a1baf2162870c795632dcd551d3c624b06456dac041fa049ba67a9a/) |
