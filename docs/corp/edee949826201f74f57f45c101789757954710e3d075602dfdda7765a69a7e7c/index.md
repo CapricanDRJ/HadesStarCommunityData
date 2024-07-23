@@ -6,7 +6,7 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1233 🔻  (265)|
+| ELO Regular | 1233 🔻  (264)|
 | ELO Competitive | 1237 🔻  (336)|
 | Total Matches | 15 |
 | Wins | 8 |
