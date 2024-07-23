@@ -6,10 +6,10 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1368 🔻  (51)|
-| ELO Competitive | 1526 🔺  (13)|
-| Total Matches | 68 |
-| Wins | 41 |
+| ELO Regular | 1376 🔺  (48)|
+| ELO Competitive | 1531 🔺  (10)|
+| Total Matches | 69 |
+| Wins | 42 |
 | Losses | 27 |
 | Draws | 0 |
 | Streak Record | 12 |
@@ -31,6 +31,7 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/23 | 24-12 | [Legion Prime](https://ws.tsl.rocks/corp/4ec84e26e7ede18156541503f057342cbe9ac9ef9e53c7dbae99993832da067e/) |
 | ❌ | 2024/07/16 | 4-42 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) |
 | ✅ | 2024/07/16 | 35-11 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ❌ | 2024/07/10 | 10-36 | [Famous Assasins](https://ws.tsl.rocks/corp/8a3aea3b3dacfd3dcdb402e896204557e250b07b8a5e04b5814600c66cc1a25b/) |
