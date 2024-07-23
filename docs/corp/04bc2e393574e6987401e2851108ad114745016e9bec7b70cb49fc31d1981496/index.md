@@ -6,10 +6,10 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1204 🔻  (412)|
-| ELO Competitive | 1452 🔻  (45)|
-| Total Matches | 82 |
-| Wins | 40 |
+| ELO Regular | 1224 🔺  (308)|
+| ELO Competitive | 1479 🔺  (31)|
+| Total Matches | 83 |
+| Wins | 41 |
 | Losses | 41 |
 | Draws | 1 |
 | Streak Record | 4 |
@@ -32,6 +32,7 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/23 | 11-10 | [Corporation](https://ws.tsl.rocks/corp/51bbfdd5693e8227e63dbd5161e8fb1a5fa3e93d1f67c7d565d82f080bbeb007/) |
 | ❌ | 2024/07/22 | 0-27 | [Embers Rising](https://ws.tsl.rocks/corp/30173fb6f0cf7a6d78f30c60350646ad6bc0d667a14854bdc9abbc19cd7d0327/) |
 | ❌ | 2024/07/15 | 3-13 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
 | ✅ | 2024/07/15 | 28-15 | [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b/) |
