@@ -6,18 +6,19 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1048 🔻  (1148)|
-| ELO Competitive | 1048 🔻  (1171)|
-| Total Matches | 16 |
+| ELO Regular | 1052 🔺  (1144)|
+| ELO Competitive | 1060 🔺  (1169)|
+| Total Matches | 17 |
 | Wins | 0 |
 | Losses | 14 |
-| Draws | 2 |
+| Draws | 3 |
 
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/07/24 | 0-0 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) |
 | ❌ | 2024/07/18 | 0-1 | [银星舰队SSF](https://ws.tsl.rocks/corp/c02d97cc37c082739a7828b6669ee67e2108bbf3d9f33628c650ced9fe04dd06/) |
 | ❌ | 2024/07/10 | 0-4 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) |
 | ↔️ | 2024/03/30 | 0-0 | [Uniones](https://ws.tsl.rocks/corp/9e4f39f6ed94be4c0af3fd6132fb2b757679ee938f7d6faa2ca50fea9f90f443/) |

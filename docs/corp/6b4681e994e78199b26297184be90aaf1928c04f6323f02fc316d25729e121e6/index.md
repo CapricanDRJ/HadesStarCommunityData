@@ -6,12 +6,12 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1150 🔻  (978)|
-| ELO Competitive | 1402 🔺  (78)|
-| Total Matches | 83 |
+| ELO Regular | 1140 🔻  (1012)|
+| ELO Competitive | 1391 🔻  (88)|
+| Total Matches | 85 |
 | Wins | 34 |
-| Losses | 46 |
-| Draws | 3 |
+| Losses | 47 |
+| Draws | 4 |
 | Streak Record | 10 |
 
 ### Recurring Opponents
@@ -32,6 +32,8 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/07/24 | 0-0 | [苏维埃联邦](https://ws.tsl.rocks/corp/4b067d39aa68bf846ec24a1af1a1038844cfa78699d1190f74a77b1745e148ac/) |
+| ❌ | 2024/07/24 | 17-22 | [AFronteiraFinal](https://ws.tsl.rocks/corp/f0c64a4babe1fb017902406f1f331c63129409bccfba868cadc10cf1d064b9d4/) |
 | ❌ | 2024/07/17 | 0-13 | [游徒之家](https://ws.tsl.rocks/corp/7ab5f6970c8703095b0589da6e5d648dc64a94ca6d901ef09d4949409b2c44b9/) |
 | ✅ | 2024/07/17 | 12-9 | [Crimson Dawn](https://ws.tsl.rocks/corp/d01a872035141501ad24bc84e5496d239d31d121774482b777bd8f2e03726d44/) |
 | ✅ | 2024/07/10 | 18-3 | [Bunker](https://ws.tsl.rocks/corp/583eeb4aaa577ce5d9806fc637f83d7c02b2a29fa2d47eb38fd658be8ef93588/) |
