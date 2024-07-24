@@ -52,6 +52,10 @@ Stay connected with the official Hades' Star community and resources:
 ## Community Projects
 
 - [WS Community LeaderBoard Discord](https://discord.gg/p588eHaFqh) - Discord invite for the whitestar community leaderboard
+- [Hades Space](https://userxinos.github.io/HadesSpace/) - A community resource site for Hades' Star
+- [Red Star Queue Bot](https://discord.com/oauth2/authorize?client_id=1055503950067007569) - Discord bot invite for the Hades' Star Red Star Queue
+- [Elo Bot](https://discord.com/oauth2/authorize?client_id=1198035340955504670) - Discord bot invite for Hades' Star Elo bot
+- [DRS mining simulator](https://dn-toolbox.streamlit.app/) - CapSora's dark red star mining simulator
 
 ## Contributing
 
@@ -59,8 +63,7 @@ We welcome contributions from the community. If you have data to add or suggesti
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/CapricanDRJ/HadesStarCommunityData/blob/main/LICENSE.md) file for details.
-
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/CapricanDRJ/HadesStarCommunityData/blob/main/LICENSE) file for details.
 
 ## Contact
 
