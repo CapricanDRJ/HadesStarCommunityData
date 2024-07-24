@@ -6,13 +6,12 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1251 🔺  (212)|
+| ELO Regular | 1231 🔻  (269)|
 | ELO Competitive | 1303 🔺  (196)|
-| Total Matches | 56 |
+| Total Matches | 57 |
 | Wins | 31 |
-| Losses | 25 |
+| Losses | 26 |
 | Draws | 0 |
-| Streak | 5 |
 | Streak Record | 8 |
 
 ### Recurring Opponents
@@ -32,6 +31,7 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/24 | 4-12 | [Торг\. федерация](https://ws.tsl.rocks/corp/915f197e5951f44128c2a3d3126141cd44b3c67a361158d2b220a5883e410310/) |
 | ✅ | 2024/07/21 | 28-2 | [YETI Collective](https://ws.tsl.rocks/corp/ff6a3c65d008d245f003a3009374e26cf38e7cda6ea4d601a9da9037296fda98/) |
 | ✅ | 2024/07/16 | 23-20 | [KLM](https://ws.tsl.rocks/corp/963e490e64d4703042415d3fcd8267ff87fbfd3383b83d447d29d842f2a446a1/) |
 | ✅ | 2024/07/10 | 24-17 | [Hades Academy](https://ws.tsl.rocks/corp/b40bd030900afebcbf4508c3b1174e2e80edcc628e6b72357b1571568d0872e3/) |
