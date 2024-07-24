@@ -67,4 +67,4 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 
 ## Contact
 
-For questions or support, please open an issue on GitHub or reach out through the WS Community Leaderboard Discord.
+For questions or support, please open an issue on GitHub or reach out through the [WS Community LeaderBoard Discord](https://discord.gg/p588eHaFqh)
