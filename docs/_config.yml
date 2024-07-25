@@ -1,5 +1,5 @@
 title: Hades' Star Community Data
-description: A detailed scoreboard of top corporations based on Elo ratings and historic whitestar results in several formats (csv, json, xlsx)
+description: Leaderboards for top Hades' Star corporations, with ELO calculations, match histories, community projects, and downloadable data (CSV, JSON, XLSX).
 remote_theme: jekyll/minima
 markdown: kramdown
 permalink: pretty
