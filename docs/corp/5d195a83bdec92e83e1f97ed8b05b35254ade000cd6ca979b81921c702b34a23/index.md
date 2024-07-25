@@ -6,11 +6,11 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1316 🔻  (99)|
-| ELO Competitive | 1503 🔻  (20)|
-| Total Matches | 76 |
-| Wins | 49 |
-| Losses | 27 |
+| ELO Regular | 1311 🔺  (105)|
+| ELO Competitive | 1509 🔺  (18)|
+| Total Matches | 78 |
+| Wins | 50 |
+| Losses | 28 |
 | Draws | 0 |
 | Streak Record | 7 |
 
@@ -30,6 +30,8 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/25 | 4-2 | [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) |
+| ❌ | 2024/07/25 | 3-18 | [\*Alfa y Omega\*](https://ws.tsl.rocks/corp/b1da3a2265efd2266a8e4b5698a731ae179d00e431ee748d7bee62a1357a12ed/) |
 | ❌ | 2024/07/20 | 11-19 | [Галактика Зла](https://ws.tsl.rocks/corp/1495d852070d8182229d3cb26e828265d4525a9ef97a9b377415b803b01d6101/) |
 | ❌ | 2024/07/19 | 10-34 | [Star Field](https://ws.tsl.rocks/corp/7160932eb85654ce07649c2689bb5b3e5abcbe84175203e4668b2247c11ffb97/) |
 | ❌ | 2024/07/14 | 3-34 | [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) |

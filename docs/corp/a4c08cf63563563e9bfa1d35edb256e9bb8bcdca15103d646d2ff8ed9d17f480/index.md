@@ -6,11 +6,11 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1116 🔻  (1076)|
-| ELO Competitive | 1288 🔻  (223)|
-| Total Matches | 43 |
+| ELO Regular | 1109 🔻  (1087)|
+| ELO Competitive | 1277 🔻  (247)|
+| Total Matches | 44 |
 | Wins | 20 |
-| Losses | 22 |
+| Losses | 23 |
 | Draws | 1 |
 | Streak Record | 6 |
 
@@ -28,6 +28,7 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/25 | 2-24 | [Z\. O\. V\. ](https://ws.tsl.rocks/corp/4f56534357f2407b25faee160f9dca4ee83b8f9ca4425ba472a47298faf54096/) |
 | ❌ | 2024/07/19 | 1-2 | [羽共和体](https://ws.tsl.rocks/corp/61b6e0502a087307a2ecf50e5d84f6123ad19984dc5790c997f16a676213aa7e/) |
 | ❌ | 2024/07/04 | 0-16 | [Armored Union ](https://ws.tsl.rocks/corp/4dacc02ca314ab864578421db538b0eb10b0c8c81dc0edd91c5090717d087c7f/) |
 | ↔️ | 2024/06/29 | 0-0 | [Orione](https://ws.tsl.rocks/corp/c79f1effdbf0ce4d4929befd06dc74d1351e926a4fd50183415190c2d69dbba2/) |
