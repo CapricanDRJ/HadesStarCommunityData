@@ -6,12 +6,12 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1078 🔻  (1124)|
-| ELO Competitive | 1140 🔻  (1086)|
-| Total Matches | 41 |
+| ELO Regular | 1083 🔺  (1120)|
+| ELO Competitive | 1143 🔺  (1081)|
+| Total Matches | 42 |
 | Wins | 11 |
 | Losses | 26 |
-| Draws | 4 |
+| Draws | 5 |
 | Streak Record | 3 |
 
 ### Recurring Opponents
@@ -25,6 +25,7 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/07/25 | 4-4 | [Alterra Corp](https://ws.tsl.rocks/corp/2994ab783b4971d838bcc4741de8562ba674bf412d43f879bccadbc9f91eee2a/) |
 | ❌ | 2024/07/20 | 1-9 | [SiriusStrawMoo](https://ws.tsl.rocks/corp/c83a5744ea256d2c1fa59660bc0e18e8d01a2a467bc13fec27a8b30f689e220b/) |
 | ❌ | 2024/07/19 | 0-3 | [探索舰队](https://ws.tsl.rocks/corp/8c465701390ed74d4d115e58d66289afb2eeef6247ca351a4cf88a0046e6fe55/) |
 | ❌ | 2024/07/14 | 5-17 | [Lofty Mountain](https://ws.tsl.rocks/corp/1cfc6606e17d524ba0388b273ad6a9e86b23838eb529a2659f03a40702affbf7/) |
