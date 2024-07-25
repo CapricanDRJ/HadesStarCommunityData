@@ -27,6 +27,7 @@ This project was created to help the Hades' Star community by providing valuable
 - [Top 100 Elo Ratings](top100.md) - The top 100 corporations ranked based on their performance in all White Star matches.
 - [Top 100 Competitive Elo Ratings](comp100.md) - The competitive ranking excludes whichever scanner slot produces the lower score per 4 day period. 
 - [Top 100 For Most Relics](relics100.md) - The leaderboard of corporations with the highest total of relics in any match.
+- [Top 100 For Most WhiteStars](totalws.md) - The leaderboard of corporations with the highest total whitestars completed.
 - [Top 100 Winning Corporations](win100.md) - The leaderboard of corporations with the highest total number of wins.
 - [Top 100 Losing Corporations](comp100.md) - The leaderboard of corporations with the highest total number of Losses
 
