@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Top 100 Losers
+title: Top Lose
 permalink: /lose100/
 ---
 

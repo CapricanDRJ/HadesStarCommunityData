@@ -19,6 +19,7 @@ header_pages:
   - top100.md
   - comp100.md
   - win100.md
+  - lose.md
 
 # Site properties
 language: english

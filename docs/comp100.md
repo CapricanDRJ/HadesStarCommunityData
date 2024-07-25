@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Comp 100 ELO
+title: Comp ELO
 permalink: /comp100/
 ---
 
