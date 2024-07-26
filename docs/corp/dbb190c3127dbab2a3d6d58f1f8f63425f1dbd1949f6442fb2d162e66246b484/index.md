@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ANZAC Warriors
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation ANZAC Warriors Bonus [🔴] W:16 L:5 D:1 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: StellarCorpIT
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation StellarCorpIT Bonus [🟢] W:8 L:1 D:0 
 ---
 
 | Statistic | Value |

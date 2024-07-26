@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wacky Wabbits
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Wacky Wabbits Bonus [🔴] W:2 L:2 D:0 
 ---
 
 | Statistic | Value |

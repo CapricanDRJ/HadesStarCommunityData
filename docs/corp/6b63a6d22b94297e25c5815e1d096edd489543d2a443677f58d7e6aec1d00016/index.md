@@ -1,7 +1,7 @@
 ---
 layout: page
 title: NASA Air base
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation NASA Air base Bonus [🔴] W:0 L:8 D:2 
 ---
 
 | Statistic | Value |

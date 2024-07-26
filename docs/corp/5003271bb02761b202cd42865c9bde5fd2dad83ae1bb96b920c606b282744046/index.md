@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Avantgarde
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Avantgarde Bonus [🔴] W:3 L:33 D:0 
 ---
 
 | Statistic | Value |

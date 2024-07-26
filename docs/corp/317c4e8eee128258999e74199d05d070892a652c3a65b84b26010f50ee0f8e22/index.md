@@ -1,7 +1,7 @@
 ---
 layout: page
 title: t 72 SwiftKey F
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation t 72 SwiftKey F Bonus [🔴] W:5 L:8 D:0 
 ---
 
 | Statistic | Value |

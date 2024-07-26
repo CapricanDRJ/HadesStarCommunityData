@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 三体舰队
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 三体舰队 Bonus [🔴] W:8 L:11 D:0 
 ---
 
 | Statistic | Value |

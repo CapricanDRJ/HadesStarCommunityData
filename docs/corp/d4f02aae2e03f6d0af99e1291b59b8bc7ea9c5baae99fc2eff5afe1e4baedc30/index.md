@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 日月星辰
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 日月星辰 Bonus [🔴] W:2 L:1 D:0 
 ---
 
 | Statistic | Value |

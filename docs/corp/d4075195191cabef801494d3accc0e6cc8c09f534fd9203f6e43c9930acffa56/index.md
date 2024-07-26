@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hamburg AG 2
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Hamburg AG 2 Bonus [🟢] W:5 L:8 D:0 
 ---
 
 | Statistic | Value |

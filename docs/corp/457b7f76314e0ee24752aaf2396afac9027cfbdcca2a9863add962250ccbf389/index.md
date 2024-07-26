@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Лунный Феникс
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Лунный Феникс Bonus [🔴] W:34 L:16 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mass Effect
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Mass Effect Bonus [🔴] W:0 L:0 D:1 
 ---
 
 | Statistic | Value |

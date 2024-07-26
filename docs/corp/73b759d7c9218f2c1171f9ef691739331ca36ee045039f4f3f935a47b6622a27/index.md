@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AAAA
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation AAAA Bonus [🟢] W:2 L:5 D:0 
 ---
 
 | Statistic | Value |

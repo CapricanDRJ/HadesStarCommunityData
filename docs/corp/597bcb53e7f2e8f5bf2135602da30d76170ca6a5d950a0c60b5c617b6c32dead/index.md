@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 云浪山庄↕
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 云浪山庄↕ Bonus [🟢] W:18 L:59 D:1 
 ---
 
 | Statistic | Value |

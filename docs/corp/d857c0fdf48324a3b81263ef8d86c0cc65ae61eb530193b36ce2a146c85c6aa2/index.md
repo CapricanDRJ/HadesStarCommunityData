@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nooooobs
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Nooooobs Bonus [🔴] W:2 L:5 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Union premiun
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Union premiun Bonus [🔴] W:0 L:3 D:1 
 ---
 
 | Statistic | Value |

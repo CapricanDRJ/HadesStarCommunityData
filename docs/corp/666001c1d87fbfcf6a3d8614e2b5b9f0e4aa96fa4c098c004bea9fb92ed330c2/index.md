@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Equinox
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Equinox Bonus [🟢] W:10 L:12 D:1 
 ---
 
 | Statistic | Value |

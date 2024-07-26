@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 洛神峰
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 洛神峰 Bonus [🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

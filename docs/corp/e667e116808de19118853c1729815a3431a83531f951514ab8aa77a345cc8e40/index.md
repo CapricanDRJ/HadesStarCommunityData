@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Highlife
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Highlife Bonus [🔴] W:18 L:18 D:1 
 ---
 
 | Statistic | Value |

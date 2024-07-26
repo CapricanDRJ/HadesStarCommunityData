@@ -1,7 +1,7 @@
 ---
 layout: page
 title: alienigenas
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation alienigenas Bonus [🟢] W:6 L:4 D:0 
 ---
 
 | Statistic | Value |

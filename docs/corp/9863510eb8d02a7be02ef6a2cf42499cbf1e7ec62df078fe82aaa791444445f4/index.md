@@ -1,7 +1,7 @@
 ---
 layout: page
 title: КМБ
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation КМБ Bonus [🔴] W:5 L:6 D:0 
 ---
 
 | Statistic | Value |

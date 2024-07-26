@@ -1,7 +1,7 @@
 ---
 layout: page
 title: UNSC
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation UNSC Bonus [🔴] W:4 L:2 D:0 
 ---
 
 | Statistic | Value |

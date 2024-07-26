@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Offshore Trash
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Offshore Trash Bonus [🔴] W:2 L:2 D:0 
 ---
 
 | Statistic | Value |

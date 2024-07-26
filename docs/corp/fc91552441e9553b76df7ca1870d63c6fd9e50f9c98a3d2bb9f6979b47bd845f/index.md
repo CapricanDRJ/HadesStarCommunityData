@@ -1,7 +1,7 @@
 ---
 layout: page
 title: the heavy
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation the heavy Bonus [🔴] W:10 L:9 D:0 
 ---
 
 | Statistic | Value |

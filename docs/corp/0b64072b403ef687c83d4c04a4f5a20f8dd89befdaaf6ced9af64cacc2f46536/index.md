@@ -1,7 +1,7 @@
 ---
 layout: page
 title: VENTORMENTA
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation VENTORMENTA Bonus [🔴] W:3 L:1 D:1 
 ---
 
 | Statistic | Value |

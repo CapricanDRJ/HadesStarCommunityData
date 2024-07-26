@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Int. Trading Co
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Int. Trading Co Bonus [🔴] W:16 L:9 D:1 
 ---
 
 | Statistic | Value |

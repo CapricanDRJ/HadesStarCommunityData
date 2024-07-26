@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 德意志第三帝国阿尔法分部
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 德意志第三帝国阿尔法分部 Bonus [🔴] W:3 L:26 D:1 
 ---
 
 | Statistic | Value |

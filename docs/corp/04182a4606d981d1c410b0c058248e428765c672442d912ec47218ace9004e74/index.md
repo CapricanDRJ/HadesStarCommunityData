@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Created
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Created Bonus [🔴] W:5 L:22 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: СССР 2.0
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation СССР 2.0 Bonus [🔴] W:2 L:6 D:0 
 ---
 
 | Statistic | Value |

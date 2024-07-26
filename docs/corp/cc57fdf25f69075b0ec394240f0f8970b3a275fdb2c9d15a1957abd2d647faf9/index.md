@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vertin's box
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Vertin's box Bonus [🔴] W:1 L:0 D:0 
 ---
 
 | Statistic | Value |

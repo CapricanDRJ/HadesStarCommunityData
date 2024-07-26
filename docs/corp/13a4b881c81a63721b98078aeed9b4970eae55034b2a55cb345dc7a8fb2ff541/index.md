@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Бороская Имерия
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Бороская Имерия Bonus [🔴] W:2 L:2 D:0 
 ---
 
 | Statistic | Value |

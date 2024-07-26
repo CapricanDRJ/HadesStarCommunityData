@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Galaktika corp
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Galaktika corp Bonus [🔴] W:14 L:5 D:2 
 ---
 
 | Statistic | Value |

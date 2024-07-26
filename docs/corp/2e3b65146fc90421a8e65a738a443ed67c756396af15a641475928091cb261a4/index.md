@@ -1,7 +1,7 @@
 ---
 layout: page
 title: UK Armada
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation UK Armada Bonus [🔴] W:3 L:2 D:1 
 ---
 
 | Statistic | Value |

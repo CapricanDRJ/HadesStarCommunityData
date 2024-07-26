@@ -1,7 +1,7 @@
 ---
 layout: page
 title: King's Guard
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation King's Guard Bonus [🔴] W:24 L:52 D:5 
 ---
 
 | Statistic | Value |

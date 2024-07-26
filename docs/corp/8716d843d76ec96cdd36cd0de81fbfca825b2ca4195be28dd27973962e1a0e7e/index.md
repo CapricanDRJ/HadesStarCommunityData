@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 星海共同体
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 星海共同体 Bonus [🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

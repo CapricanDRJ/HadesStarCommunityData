@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 蓝色星系一号分盟
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 蓝色星系一号分盟 Bonus [🔴] W:0 L:3 D:0 
 ---
 
 | Statistic | Value |

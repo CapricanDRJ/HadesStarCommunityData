@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Алый Феникс
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Алый Феникс Bonus [🔴] W:4 L:9 D:0 
 ---
 
 | Statistic | Value |

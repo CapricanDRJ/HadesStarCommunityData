@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Red Star Banker
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Red Star Banker Bonus [🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

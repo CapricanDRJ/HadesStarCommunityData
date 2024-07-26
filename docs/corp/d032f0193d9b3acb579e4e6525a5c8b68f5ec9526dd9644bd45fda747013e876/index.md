@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BSO Academy
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation BSO Academy Bonus [🔴] W:14 L:1 D:0 
 ---
 
 | Statistic | Value |

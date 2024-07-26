@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sith Empire
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Sith Empire Bonus [🟢] W:19 L:29 D:0 
 ---
 
 | Statistic | Value |

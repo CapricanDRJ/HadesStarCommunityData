@@ -1,7 +1,7 @@
 ---
 layout: page
 title: NERF TOY'S
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation NERF TOY'S Bonus [🔴] W:18 L:29 D:2 
 ---
 
 | Statistic | Value |

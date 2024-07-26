@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 墨痕白星分部
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 墨痕白星分部 Bonus [🔴] W:9 L:7 D:0 
 ---
 
 | Statistic | Value |

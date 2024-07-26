@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Eastern Front
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Eastern Front Bonus [🔴] W:29 L:34 D:1 
 ---
 
 | Statistic | Value |

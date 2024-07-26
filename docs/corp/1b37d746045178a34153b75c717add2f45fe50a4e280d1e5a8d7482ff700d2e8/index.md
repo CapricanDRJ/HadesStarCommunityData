@@ -1,7 +1,7 @@
 ---
 layout: page
 title: brit boys
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation brit boys Bonus [🔴] W:1 L:1 D:0 
 ---
 
 | Statistic | Value |

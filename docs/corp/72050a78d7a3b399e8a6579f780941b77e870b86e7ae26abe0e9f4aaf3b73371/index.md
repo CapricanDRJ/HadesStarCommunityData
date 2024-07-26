@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Death Starz
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Death Starz Bonus [🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

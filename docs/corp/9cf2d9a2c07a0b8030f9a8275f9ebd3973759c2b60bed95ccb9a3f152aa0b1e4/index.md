@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 星海扬帆
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 星海扬帆 Bonus [🟢] W:17 L:15 D:0 
 ---
 
 | Statistic | Value |

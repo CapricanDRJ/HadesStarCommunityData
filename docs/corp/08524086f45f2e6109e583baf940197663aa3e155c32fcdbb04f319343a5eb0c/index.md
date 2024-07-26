@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Looping
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Looping Bonus [🟢] W:22 L:12 D:0 
 ---
 
 | Statistic | Value |

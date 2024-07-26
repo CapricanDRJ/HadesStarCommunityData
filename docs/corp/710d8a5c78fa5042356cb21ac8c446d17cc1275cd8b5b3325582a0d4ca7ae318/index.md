@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SONS OF SUNS
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation SONS OF SUNS Bonus [🔴] W:0 L:3 D:0 
 ---
 
 | Statistic | Value |

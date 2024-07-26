@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Order of Hades
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Order of Hades Bonus [🟢] W:50 L:17 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Alpaca Haven
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Alpaca Haven Bonus [🔴] W:18 L:11 D:0 
 ---
 
 | Statistic | Value |

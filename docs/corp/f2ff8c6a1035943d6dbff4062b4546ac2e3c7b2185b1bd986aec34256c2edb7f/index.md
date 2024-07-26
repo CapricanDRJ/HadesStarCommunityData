@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 두빛나래
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 두빛나래 Bonus [🔴] W:11 L:17 D:0 
 ---
 
 | Statistic | Value |

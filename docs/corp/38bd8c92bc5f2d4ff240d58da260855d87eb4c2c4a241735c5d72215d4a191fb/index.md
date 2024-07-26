@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nebula
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Nebula Bonus [🔴] W:4 L:15 D:0 
 ---
 
 | Statistic | Value |

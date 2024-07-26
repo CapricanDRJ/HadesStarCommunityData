@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 德意志阿尔法帝国
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 德意志阿尔法帝国 Bonus [🔴] W:1 L:1 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Space Anomalies
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Space Anomalies Bonus [🔴] W:1 L:0 D:0 
 ---
 
 | Statistic | Value |

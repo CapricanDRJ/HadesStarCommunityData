@@ -1,7 +1,7 @@
 ---
 layout: page
 title: UKR Spase
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation UKR Spase Bonus [🔴] W:15 L:6 D:0 
 ---
 
 | Statistic | Value |

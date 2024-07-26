@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ƭιтαηѕ Ф тєʀʀσƦ
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Ƭιтαηѕ Ф тєʀʀσƦ Bonus [🟢] W:18 L:10 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sistemaimperial
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Sistemaimperial Bonus [🔴] W:1 L:1 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Regulus
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Regulus Bonus [🔴] W:7 L:11 D:0 
 ---
 
 | Statistic | Value |

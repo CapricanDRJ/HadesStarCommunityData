@@ -1,7 +1,7 @@
 ---
 layout: page
 title: universe leader
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation universe leader Bonus [🔴] W:2 L:8 D:1 
 ---
 
 | Statistic | Value |

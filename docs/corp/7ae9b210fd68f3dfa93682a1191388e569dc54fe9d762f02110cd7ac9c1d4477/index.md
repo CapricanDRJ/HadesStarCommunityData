@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Rogue One
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Rogue One Bonus [🔴] W:28 L:20 D:1 
 ---
 
 | Statistic | Value |

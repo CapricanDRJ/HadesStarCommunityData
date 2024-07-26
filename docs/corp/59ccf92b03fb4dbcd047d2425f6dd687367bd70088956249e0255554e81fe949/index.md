@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Prometheus ESP
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Prometheus ESP Bonus [🔴] W:11 L:9 D:0 
 ---
 
 | Statistic | Value |

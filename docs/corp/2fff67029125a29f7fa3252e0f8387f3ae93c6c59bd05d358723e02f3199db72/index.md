@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Oficina Tuga
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Oficina Tuga Bonus [🔴] W:9 L:25 D:0 
 ---
 
 | Statistic | Value |

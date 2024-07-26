@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Тёмный Феникс
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Тёмный Феникс Bonus [🔴] W:0 L:7 D:0 
 ---
 
 | Statistic | Value |

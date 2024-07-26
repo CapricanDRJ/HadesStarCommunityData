@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 德尔塔星舰联盟
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 德尔塔星舰联盟 Bonus [🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

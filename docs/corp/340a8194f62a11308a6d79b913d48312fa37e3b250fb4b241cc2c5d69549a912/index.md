@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SYNDICATE
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation SYNDICATE Bonus [🔴] W:5 L:0 D:0 
 ---
 
 | Statistic | Value |

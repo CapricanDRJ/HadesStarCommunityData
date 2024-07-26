@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Space Force
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Space Force Bonus [🔴] W:1 L:3 D:2 
 ---
 
 | Statistic | Value |

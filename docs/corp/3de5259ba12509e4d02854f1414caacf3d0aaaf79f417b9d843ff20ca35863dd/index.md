@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Atlas Star llc.
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Atlas Star llc. Bonus [🟢] W:29 L:7 D:0 
 ---
 
 | Statistic | Value |

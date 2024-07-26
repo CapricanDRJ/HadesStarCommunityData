@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Октябристы
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Октябристы Bonus [🟢] W:41 L:41 D:1 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Red Star Corp.
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Red Star Corp. Bonus [🔴] W:6 L:14 D:0 
 ---
 
 | Statistic | Value |

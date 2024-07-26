@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 星河绮梦
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 星河绮梦 Bonus [🟢] W:9 L:1 D:0 
 ---
 
 | Statistic | Value |

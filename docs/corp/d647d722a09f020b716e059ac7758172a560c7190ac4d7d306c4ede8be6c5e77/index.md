@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Void
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Void Bonus [🟢] W:6 L:7 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: OrderofTheGeon
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation OrderofTheGeon Bonus [🟢] W:19 L:20 D:3 
 ---
 
 | Statistic | Value |

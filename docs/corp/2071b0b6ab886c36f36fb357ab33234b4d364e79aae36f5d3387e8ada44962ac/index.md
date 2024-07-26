@@ -1,7 +1,7 @@
 ---
 layout: page
 title: korea
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation korea Bonus [🔴] W:23 L:6 D:0 
 ---
 
 | Statistic | Value |

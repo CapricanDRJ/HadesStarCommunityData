@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Croce del Sud
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Croce del Sud Bonus [🟢] W:8 L:7 D:0 
 ---
 
 | Statistic | Value |

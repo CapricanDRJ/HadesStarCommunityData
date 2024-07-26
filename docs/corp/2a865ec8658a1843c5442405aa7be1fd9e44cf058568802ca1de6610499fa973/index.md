@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 神仙'
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 神仙' Bonus [🔴] W:8 L:11 D:3 
 ---
 
 | Statistic | Value |

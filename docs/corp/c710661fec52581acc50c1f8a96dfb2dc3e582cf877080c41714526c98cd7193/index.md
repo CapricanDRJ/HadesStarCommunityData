@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Eternal empire 
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Eternal empire  Bonus [🔴] W:7 L:15 D:0 
 ---
 
 | Statistic | Value |

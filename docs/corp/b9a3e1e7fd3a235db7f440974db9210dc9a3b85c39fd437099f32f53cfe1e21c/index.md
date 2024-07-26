@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 星舰月球
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 星舰月球 Bonus [🔴] W:29 L:8 D:0 
 ---
 
 | Statistic | Value |

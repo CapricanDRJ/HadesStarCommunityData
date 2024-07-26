@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ItBurnsWhenIEMP
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation ItBurnsWhenIEMP Bonus [🔴] W:22 L:8 D:0 
 ---
 
 | Statistic | Value |

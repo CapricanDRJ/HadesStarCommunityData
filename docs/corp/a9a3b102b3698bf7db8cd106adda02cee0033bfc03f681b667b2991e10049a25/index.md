@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Млечный путь
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Млечный путь Bonus [🔴] W:12 L:13 D:0 
 ---
 
 | Statistic | Value |

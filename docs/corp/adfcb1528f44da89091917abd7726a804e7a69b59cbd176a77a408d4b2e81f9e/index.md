@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Imperio Lie Yan
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Imperio Lie Yan Bonus [🔴] W:2 L:1 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gummibärenbande
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Gummibärenbande Bonus [🔴] W:1 L:17 D:0 
 ---
 
 | Statistic | Value |

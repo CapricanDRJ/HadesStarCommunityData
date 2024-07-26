@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 对，进就进人少的
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 对，进就进人少的 Bonus [🟢] W:34 L:27 D:2 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 新手联邦活动用团
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 新手联邦活动用团 Bonus [🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

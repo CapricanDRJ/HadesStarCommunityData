@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Decode
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Decode Bonus [🔴] W:36 L:18 D:0 
 ---
 
 | Statistic | Value |

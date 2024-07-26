@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Legion
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Legion Bonus [🔴] W:21 L:23 D:0 
 ---
 
 | Statistic | Value |

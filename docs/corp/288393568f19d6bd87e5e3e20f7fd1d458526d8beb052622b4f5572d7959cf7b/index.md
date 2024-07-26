@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sentencia
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Sentencia Bonus [🔴] W:12 L:3 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Death Flight
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Death Flight Bonus [🔴] W:13 L:41 D:1 
 ---
 
 | Statistic | Value |

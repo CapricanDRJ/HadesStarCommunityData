@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Elysium
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Elysium Bonus [🟢] W:27 L:9 D:0 
 ---
 
 | Statistic | Value |

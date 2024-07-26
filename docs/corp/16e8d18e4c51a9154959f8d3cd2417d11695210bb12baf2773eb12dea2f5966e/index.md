@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sektion 32
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Sektion 32 Bonus [🔴] W:4 L:7 D:1 
 ---
 
 | Statistic | Value |

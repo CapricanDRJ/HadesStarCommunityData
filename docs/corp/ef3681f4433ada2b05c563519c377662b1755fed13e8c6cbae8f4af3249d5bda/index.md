@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Starlancer
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Starlancer Bonus [🔴] W:0 L:18 D:0 
 ---
 
 | Statistic | Value |

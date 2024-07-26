@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 阿尔特拉集团
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 阿尔特拉集团 Bonus [🟢] W:19 L:22 D:2 
 ---
 
 | Statistic | Value |

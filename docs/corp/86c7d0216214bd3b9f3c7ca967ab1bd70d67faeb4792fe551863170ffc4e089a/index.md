@@ -1,7 +1,7 @@
 ---
 layout: page
 title:   边界  
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation   边界   Bonus [🟢] W:6 L:1 D:0 
 ---
 
 | Statistic | Value |

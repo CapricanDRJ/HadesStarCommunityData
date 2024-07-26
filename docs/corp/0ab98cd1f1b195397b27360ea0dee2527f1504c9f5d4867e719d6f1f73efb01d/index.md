@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Grunthal Gang
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Grunthal Gang Bonus [🟢] W:34 L:23 D:0 
 ---
 
 | Statistic | Value |

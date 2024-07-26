@@ -1,7 +1,7 @@
 ---
 layout: page
 title: uzumaki
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation uzumaki Bonus [🟢] W:1 L:0 D:0 
 ---
 
 | Statistic | Value |

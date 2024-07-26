@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lacuna Ind.
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Lacuna Ind. Bonus [🔴] W:5 L:18 D:1 
 ---
 
 | Statistic | Value |

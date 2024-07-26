@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Quilliance
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Quilliance Bonus [🟢] W:14 L:2 D:0 
 ---
 
 | Statistic | Value |

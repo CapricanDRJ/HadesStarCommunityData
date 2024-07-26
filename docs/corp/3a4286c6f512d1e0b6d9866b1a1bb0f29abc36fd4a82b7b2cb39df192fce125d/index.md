@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hinterm Mond
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Hinterm Mond Bonus [🟢] W:44 L:28 D:0 
 ---
 
 | Statistic | Value |

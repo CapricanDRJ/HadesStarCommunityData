@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 11th Engineers
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 11th Engineers Bonus [🔴] W:4 L:11 D:0 
 ---
 
 | Statistic | Value |

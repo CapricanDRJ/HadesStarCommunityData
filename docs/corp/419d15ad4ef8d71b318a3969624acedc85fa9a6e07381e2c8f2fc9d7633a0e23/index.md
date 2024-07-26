@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ascalon
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Ascalon Bonus [🔴] W:1 L:1 D:1 
 ---
 
 | Statistic | Value |

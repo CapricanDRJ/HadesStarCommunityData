@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Grater T
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Grater T Bonus [🟢] W:8 L:8 D:0 
 ---
 
 | Statistic | Value |

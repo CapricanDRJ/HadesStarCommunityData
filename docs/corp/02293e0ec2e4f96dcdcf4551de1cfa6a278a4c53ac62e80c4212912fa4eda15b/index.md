@@ -1,7 +1,7 @@
 ---
 layout: page
 title: White Dwarf
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation White Dwarf Bonus [🟢] W:30 L:12 D:0 
 ---
 
 | Statistic | Value |

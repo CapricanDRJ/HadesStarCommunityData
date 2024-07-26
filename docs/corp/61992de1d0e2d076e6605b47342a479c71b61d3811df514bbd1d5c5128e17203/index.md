@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 小宇宙研究会
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 小宇宙研究会 Bonus [🔴] W:1 L:2 D:0 
 ---
 
 | Statistic | Value |

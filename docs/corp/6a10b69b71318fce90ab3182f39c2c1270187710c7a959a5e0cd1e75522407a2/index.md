@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Imperium of man
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Imperium of man Bonus [🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 华夏舰队
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 华夏舰队 Bonus [🔴] W:20 L:25 D:0 
 ---
 
 | Statistic | Value |

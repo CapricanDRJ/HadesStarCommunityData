@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Spaceballs
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Spaceballs Bonus [🔴] W:12 L:16 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Fracture
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation The Fracture Bonus [🔴] W:0 L:4 D:0 
 ---
 
 | Statistic | Value |

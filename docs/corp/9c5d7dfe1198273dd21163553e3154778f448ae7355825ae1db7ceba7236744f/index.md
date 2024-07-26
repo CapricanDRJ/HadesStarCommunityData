@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Village of Evil
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Village of Evil Bonus [🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

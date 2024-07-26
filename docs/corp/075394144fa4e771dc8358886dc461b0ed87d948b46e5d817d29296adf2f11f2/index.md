@@ -1,7 +1,7 @@
 ---
 layout: page
 title: СНГ — РОССИЯ
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation СНГ — РОССИЯ Bonus [🔴] W:4 L:8 D:3 
 ---
 
 | Statistic | Value |

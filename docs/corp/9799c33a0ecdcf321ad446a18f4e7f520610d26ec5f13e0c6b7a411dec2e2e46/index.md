@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Weyland Yutani 
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Weyland Yutani  Bonus [🟢] W:12 L:23 D:3 
 ---
 
 | Statistic | Value |

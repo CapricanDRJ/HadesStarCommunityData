@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Stone Legion
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Stone Legion Bonus [🟢] W:19 L:5 D:0 
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1347 🔺  (64)|
+| ELO Regular | 1347 🔺  (65)|
 | ELO Competitive | 1371 🔺  (105)|
 | Total Matches | 24 |
 | Wins | 19 |

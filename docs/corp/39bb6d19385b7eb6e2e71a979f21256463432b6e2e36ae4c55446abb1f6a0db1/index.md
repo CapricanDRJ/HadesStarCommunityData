@@ -1,7 +1,7 @@
 ---
 layout: page
 title: First Squad
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation First Squad Bonus [🔴] W:1 L:7 D:0 
 ---
 
 | Statistic | Value |

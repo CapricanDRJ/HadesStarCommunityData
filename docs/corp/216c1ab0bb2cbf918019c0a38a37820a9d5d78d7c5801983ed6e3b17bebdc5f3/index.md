@@ -1,7 +1,7 @@
 ---
 layout: page
 title: lonewolf
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation lonewolf Bonus [🟢] W:9 L:10 D:1 
 ---
 
 | Statistic | Value |

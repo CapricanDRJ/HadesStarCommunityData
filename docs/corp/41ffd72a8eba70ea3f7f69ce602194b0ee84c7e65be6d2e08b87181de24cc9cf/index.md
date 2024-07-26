@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dark Sun
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Dark Sun Bonus [🔴] W:6 L:11 D:2 
 ---
 
 | Statistic | Value |

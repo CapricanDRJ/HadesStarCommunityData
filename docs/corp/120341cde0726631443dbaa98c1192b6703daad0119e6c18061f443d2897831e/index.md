@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 共产主义舰队
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 共产主义舰队 Bonus [🔴] W:7 L:1 D:0 
 ---
 
 | Statistic | Value |

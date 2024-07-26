@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 苏维埃联邦
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 苏维埃联邦 Bonus [🔴] W:0 L:14 D:3 
 ---
 
 | Statistic | Value |

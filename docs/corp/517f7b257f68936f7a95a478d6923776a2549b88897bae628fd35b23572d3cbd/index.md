@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Spacefleet
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Spacefleet Bonus [🟢] W:33 L:20 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 绛紫星
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 绛紫星 Bonus [🟢] W:24 L:15 D:2 
 ---
 
 | Statistic | Value |

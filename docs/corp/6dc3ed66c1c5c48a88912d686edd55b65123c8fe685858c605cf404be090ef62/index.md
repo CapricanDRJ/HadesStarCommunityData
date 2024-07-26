@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Corp. Estelar 2
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Corp. Estelar 2 Bonus [🔴] W:12 L:4 D:0 
 ---
 
 | Statistic | Value |

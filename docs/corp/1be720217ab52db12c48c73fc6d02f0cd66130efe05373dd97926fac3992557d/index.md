@@ -1,7 +1,7 @@
 ---
 layout: page
 title: UAGC
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation UAGC Bonus [🟢] W:22 L:16 D:0 
 ---
 
 | Statistic | Value |

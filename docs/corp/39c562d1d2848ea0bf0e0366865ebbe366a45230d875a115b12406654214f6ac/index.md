@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 游徒训练营
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 游徒训练营 Bonus [🔴] W:2 L:5 D:1 
 ---
 
 | Statistic | Value |

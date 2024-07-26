@@ -1,7 +1,7 @@
 ---
 layout: page
 title: USA Corp
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation USA Corp Bonus [🔴] W:2 L:6 D:0 
 ---
 
 | Statistic | Value |

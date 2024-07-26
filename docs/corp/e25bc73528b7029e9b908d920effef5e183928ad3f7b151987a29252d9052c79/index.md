@@ -1,7 +1,7 @@
 ---
 layout: page
 title: phoenix clan
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation phoenix clan Bonus [🔴] W:4 L:1 D:0 
 ---
 
 | Statistic | Value |

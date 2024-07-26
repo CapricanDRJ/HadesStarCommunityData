@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 代代守护你的神明
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 代代守护你的神明 Bonus [🔴] W:7 L:5 D:0 
 ---
 
 | Statistic | Value |

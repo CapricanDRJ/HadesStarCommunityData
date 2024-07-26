@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dahoam in AT
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Dahoam in AT Bonus [🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

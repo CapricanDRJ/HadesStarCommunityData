@@ -1,7 +1,7 @@
 ---
 layout: page
 title: -=Содружество=-
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation -=Содружество=- Bonus [🔴] W:19 L:8 D:0 
 ---
 
 | Statistic | Value |

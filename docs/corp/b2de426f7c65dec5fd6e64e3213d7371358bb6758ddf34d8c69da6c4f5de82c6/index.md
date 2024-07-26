@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hun Generals
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Hun Generals Bonus [🟢] W:8 L:29 D:0 
 ---
 
 | Statistic | Value |

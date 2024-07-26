@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 纸鸢台
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 纸鸢台 Bonus [🔴] W:3 L:1 D:0 
 ---
 
 | Statistic | Value |

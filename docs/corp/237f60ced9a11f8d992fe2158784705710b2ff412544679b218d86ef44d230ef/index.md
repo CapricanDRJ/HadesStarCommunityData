@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 美丽新世界
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 美丽新世界 Bonus [🔴] W:0 L:3 D:0 
 ---
 
 | Statistic | Value |

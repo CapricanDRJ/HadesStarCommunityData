@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Free Ag3nts
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Free Ag3nts Bonus [🔴] W:3 L:0 D:0 
 ---
 
 | Statistic | Value |

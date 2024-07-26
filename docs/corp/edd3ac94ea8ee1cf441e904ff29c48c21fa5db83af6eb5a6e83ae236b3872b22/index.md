@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Osmium Star llc
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Osmium Star llc Bonus [🟢] W:9 L:1 D:0 
 ---
 
 | Statistic | Value |

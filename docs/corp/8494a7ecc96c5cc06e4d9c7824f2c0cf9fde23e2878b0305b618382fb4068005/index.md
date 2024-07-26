@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 黑色长城
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 黑色长城 Bonus [🔴] W:2 L:8 D:1 
 ---
 
 | Statistic | Value |

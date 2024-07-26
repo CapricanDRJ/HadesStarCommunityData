@@ -1,7 +1,7 @@
 ---
 layout: page
 title: [Blue*Nation]
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation [Blue*Nation] Bonus [🟢] W:30 L:6 D:0 
 ---
 
 | Statistic | Value |

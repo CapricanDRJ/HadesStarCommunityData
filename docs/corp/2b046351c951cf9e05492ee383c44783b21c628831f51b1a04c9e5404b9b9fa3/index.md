@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Paramedic ICU
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Paramedic ICU Bonus [🔴] W:9 L:8 D:2 
 ---
 
 | Statistic | Value |

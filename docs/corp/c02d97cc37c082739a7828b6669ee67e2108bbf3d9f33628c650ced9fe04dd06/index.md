@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 银星舰队SSF
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 银星舰队SSF Bonus [🟢] W:9 L:3 D:0 
 ---
 
 | Statistic | Value |

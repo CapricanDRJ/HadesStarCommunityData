@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 四季长春
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 四季长春 Bonus [🟢] W:14 L:22 D:5 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Solysis
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Solysis Bonus [🔴] W:3 L:7 D:0 
 ---
 
 | Statistic | Value |

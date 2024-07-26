@@ -1,7 +1,7 @@
 ---
 layout: page
 title: (_(_Vossk_)_)
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation (_(_Vossk_)_) Bonus [🔴] W:10 L:14 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Aurora Burning
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Aurora Burning Bonus [🔴] W:2 L:3 D:0 
 ---
 
 | Statistic | Value |

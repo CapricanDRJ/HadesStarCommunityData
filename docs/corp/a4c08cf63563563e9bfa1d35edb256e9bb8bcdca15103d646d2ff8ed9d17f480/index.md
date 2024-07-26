@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 脉冲星际集团
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 脉冲星际集团 Bonus [🔴] W:20 L:23 D:1 
 ---
 
 | Statistic | Value |

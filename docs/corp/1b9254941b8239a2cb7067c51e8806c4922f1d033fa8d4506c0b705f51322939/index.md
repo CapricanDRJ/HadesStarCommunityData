@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Slovensko-Activ
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Slovensko-Activ Bonus [🔴] W:0 L:13 D:0 
 ---
 
 | Statistic | Value |

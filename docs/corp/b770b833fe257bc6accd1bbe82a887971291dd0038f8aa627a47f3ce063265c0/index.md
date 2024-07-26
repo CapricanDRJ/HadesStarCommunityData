@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ЧВК "Котики"
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation ЧВК "Котики" Bonus [🟢] W:21 L:13 D:3 
 ---
 
 | Statistic | Value |

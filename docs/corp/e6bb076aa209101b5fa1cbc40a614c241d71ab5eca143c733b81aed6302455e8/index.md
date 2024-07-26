@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 逐光起航
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 逐光起航 Bonus [🔴] W:4 L:23 D:4 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Inexorable
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Inexorable Bonus [🔴] W:18 L:11 D:0 
 ---
 
 | Statistic | Value |

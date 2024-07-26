@@ -1,7 +1,7 @@
 ---
 layout: page
 title: РусКорп
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation РусКорп Bonus [🔴] W:11 L:9 D:0 
 ---
 
 | Statistic | Value |

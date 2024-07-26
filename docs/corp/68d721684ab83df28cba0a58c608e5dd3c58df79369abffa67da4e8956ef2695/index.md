@@ -1,7 +1,7 @@
 ---
 layout: page
 title: koalition
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation koalition Bonus [🟢] W:8 L:3 D:1 
 ---
 
 | Statistic | Value |

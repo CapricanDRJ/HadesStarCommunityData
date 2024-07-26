@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 泰拉瑞亚
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 泰拉瑞亚 Bonus [🔴] W:1 L:1 D:0 
 ---
 
 | Statistic | Value |

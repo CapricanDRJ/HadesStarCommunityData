@@ -1,7 +1,7 @@
 ---
 layout: page
 title: империя тьмы
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation империя тьмы Bonus [🟢] W:12 L:21 D:2 
 ---
 
 | Statistic | Value |

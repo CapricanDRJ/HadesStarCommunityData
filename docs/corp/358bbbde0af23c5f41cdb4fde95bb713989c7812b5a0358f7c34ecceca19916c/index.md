@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cyber Star
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Cyber Star Bonus [🟢] W:24 L:10 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Interstellar
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Interstellar Bonus [🟢] W:25 L:28 D:0 
 ---
 
 | Statistic | Value |

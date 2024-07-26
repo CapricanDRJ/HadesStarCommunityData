@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Эдем
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Эдем Bonus [🔴] W:3 L:6 D:0 
 ---
 
 | Statistic | Value |

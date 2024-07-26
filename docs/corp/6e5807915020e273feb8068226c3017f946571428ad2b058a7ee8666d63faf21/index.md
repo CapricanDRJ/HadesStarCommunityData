@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sussy Coloner
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Sussy Coloner Bonus [🟢] W:10 L:40 D:1 
 ---
 
 | Statistic | Value |

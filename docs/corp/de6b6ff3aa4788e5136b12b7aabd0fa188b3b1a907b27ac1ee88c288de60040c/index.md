@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Global Elite
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Global Elite Bonus [🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

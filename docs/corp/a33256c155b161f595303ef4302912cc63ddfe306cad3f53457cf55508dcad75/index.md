@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Auscorp 
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Auscorp  Bonus [🟢] W:42 L:6 D:0 
 ---
 
 | Statistic | Value |

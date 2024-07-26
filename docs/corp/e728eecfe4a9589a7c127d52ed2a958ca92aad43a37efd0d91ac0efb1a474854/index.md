@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hun Avengers
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Hun Avengers Bonus [🔴] W:12 L:13 D:0 
 ---
 
 | Statistic | Value |

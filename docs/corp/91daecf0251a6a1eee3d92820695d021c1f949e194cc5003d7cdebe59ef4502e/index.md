@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TROLL SQUAD
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation TROLL SQUAD Bonus [🔴] W:11 L:5 D:0 
 ---
 
 | Statistic | Value |

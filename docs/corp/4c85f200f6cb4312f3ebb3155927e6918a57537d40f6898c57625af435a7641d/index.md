@@ -1,7 +1,7 @@
 ---
 layout: page
 title: LOST PIRATES
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation LOST PIRATES Bonus [🔴] W:0 L:5 D:0 
 ---
 
 | Statistic | Value |

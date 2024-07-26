@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 第四天灾
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 第四天灾 Bonus [🔴] W:1 L:0 D:0 
 ---
 
 | Statistic | Value |

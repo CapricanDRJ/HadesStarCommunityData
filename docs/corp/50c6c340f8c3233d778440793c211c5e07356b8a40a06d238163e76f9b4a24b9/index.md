@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Harpias
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Harpias Bonus [🔴] W:0 L:0 D:2 
 ---
 
 | Statistic | Value |

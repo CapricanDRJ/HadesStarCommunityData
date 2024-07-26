@@ -1,7 +1,7 @@
 ---
 layout: page
 title: C.C Legion
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation C.C Legion Bonus [🔴] W:5 L:1 D:0 
 ---
 
 | Statistic | Value |

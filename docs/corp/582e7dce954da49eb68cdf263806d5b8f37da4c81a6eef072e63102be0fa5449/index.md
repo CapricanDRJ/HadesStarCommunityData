@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Argentina 1.0
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Argentina 1.0 Bonus [🟢] W:17 L:12 D:0 
 ---
 
 | Statistic | Value |

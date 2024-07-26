@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 第五星际
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 第五星际 Bonus [🔴] W:3 L:2 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Titans Pro
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation The Titans Pro Bonus [🔴] W:1 L:0 D:0 
 ---
 
 | Statistic | Value |

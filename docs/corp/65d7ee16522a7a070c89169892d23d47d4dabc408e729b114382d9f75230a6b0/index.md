@@ -1,7 +1,7 @@
 ---
 layout: page
 title: NameLess Hades
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation NameLess Hades Bonus [🔴] W:0 L:0 D:1 
 ---
 
 | Statistic | Value |

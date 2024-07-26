@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FirstAllegiance
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation FirstAllegiance Bonus [🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Highland Ind. 
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Highland Ind.  Bonus [🔴] W:10 L:10 D:1 
 ---
 
 | Statistic | Value |

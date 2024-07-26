@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stardust
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Stardust Bonus [🔴] W:2 L:16 D:0 
 ---
 
 | Statistic | Value |

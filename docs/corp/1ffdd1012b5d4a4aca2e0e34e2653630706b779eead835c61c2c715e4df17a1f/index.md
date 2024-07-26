@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Starsailors
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Starsailors Bonus [🔴] W:21 L:6 D:0 
 ---
 
 | Statistic | Value |

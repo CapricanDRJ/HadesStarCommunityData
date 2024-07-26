@@ -1,7 +1,7 @@
 ---
 layout: page
 title: First Legion
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation First Legion Bonus [🟢] W:36 L:33 D:1 
 ---
 
 | Statistic | Value |

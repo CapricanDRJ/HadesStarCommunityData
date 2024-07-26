@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Odessa
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Odessa Bonus [🔴] W:5 L:12 D:0 
 ---
 
 | Statistic | Value |

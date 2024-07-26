@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 星光万丈
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 星光万丈 Bonus [🟢] W:8 L:16 D:1 
 ---
 
 | Statistic | Value |

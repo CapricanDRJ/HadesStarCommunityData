@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 花鸟市场
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 花鸟市场 Bonus [🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

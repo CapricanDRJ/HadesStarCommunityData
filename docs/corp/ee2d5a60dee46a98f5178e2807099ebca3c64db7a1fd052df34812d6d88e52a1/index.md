@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Anla'Shok
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Anla'Shok Bonus [🔴] W:2 L:11 D:0 
 ---
 
 | Statistic | Value |

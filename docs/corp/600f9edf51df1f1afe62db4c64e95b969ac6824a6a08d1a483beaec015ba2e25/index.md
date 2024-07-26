@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 地球联合
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 地球联合 Bonus [🔴] W:12 L:3 D:0 
 ---
 
 | Statistic | Value |

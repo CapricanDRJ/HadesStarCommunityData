@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Farland Ind.
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Farland Ind. Bonus [🔴] W:7 L:19 D:1 
 ---
 
 | Statistic | Value |

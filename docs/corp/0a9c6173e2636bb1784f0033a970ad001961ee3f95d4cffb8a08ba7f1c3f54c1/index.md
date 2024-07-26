@@ -1,7 +1,7 @@
 ---
 layout: page
 title: STAR EMPIRE 16
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation STAR EMPIRE 16 Bonus [🔴] W:0 L:3 D:0 
 ---
 
 | Statistic | Value |

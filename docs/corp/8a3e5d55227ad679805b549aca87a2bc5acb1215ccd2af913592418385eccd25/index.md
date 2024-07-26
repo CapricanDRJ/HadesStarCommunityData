@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 星光禁卫
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 星光禁卫 Bonus [🔴] W:1 L:8 D:1 
 ---
 
 | Statistic | Value |

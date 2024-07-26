@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mecha Armada
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Mecha Armada Bonus [🔴] W:2 L:1 D:0 
 ---
 
 | Statistic | Value |

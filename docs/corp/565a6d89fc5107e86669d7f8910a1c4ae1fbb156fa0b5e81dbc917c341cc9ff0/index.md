@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 落雨观花
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 落雨观花 Bonus [🟢] W:4 L:1 D:0 
 ---
 
 | Statistic | Value |

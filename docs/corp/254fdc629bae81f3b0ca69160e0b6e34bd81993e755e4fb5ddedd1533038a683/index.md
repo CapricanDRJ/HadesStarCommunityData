@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Veteran's Haven
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Veteran's Haven Bonus [🔴] W:5 L:9 D:0 
 ---
 
 | Statistic | Value |

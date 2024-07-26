@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Moon Catchers
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Moon Catchers Bonus [🔴] W:13 L:16 D:1 
 ---
 
 | Statistic | Value |

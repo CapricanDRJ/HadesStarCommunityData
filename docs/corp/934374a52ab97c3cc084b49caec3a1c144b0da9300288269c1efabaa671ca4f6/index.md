@@ -1,7 +1,7 @@
 ---
 layout: page
 title: LUPI ROMÎNI
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation LUPI ROMÎNI Bonus [🔴] W:1 L:3 D:0 
 ---
 
 | Statistic | Value |

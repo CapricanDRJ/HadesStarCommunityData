@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Thunderbears
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Thunderbears Bonus [🔴] W:3 L:5 D:1 
 ---
 
 | Statistic | Value |

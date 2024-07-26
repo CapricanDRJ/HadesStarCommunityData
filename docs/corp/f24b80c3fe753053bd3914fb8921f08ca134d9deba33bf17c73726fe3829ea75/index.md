@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nueva Hyperion
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Nueva Hyperion Bonus [🔴] W:3 L:1 D:1 
 ---
 
 | Statistic | Value |

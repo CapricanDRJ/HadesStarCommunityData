@@ -1,7 +1,7 @@
 ---
 layout: page
 title: KARI
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation KARI Bonus [🔴] W:2 L:62 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Серебряная орда
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Серебряная орда Bonus [🟢] W:44 L:27 D:2 
 ---
 
 | Statistic | Value |

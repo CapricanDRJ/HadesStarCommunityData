@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Слава Украине!
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Слава Украине! Bonus [🟢] W:49 L:27 D:0 
 ---
 
 | Statistic | Value |

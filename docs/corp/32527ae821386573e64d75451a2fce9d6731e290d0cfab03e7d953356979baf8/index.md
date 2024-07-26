@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hail Hydra
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Hail Hydra Bonus [🔴] W:6 L:18 D:0 
 ---
 
 | Statistic | Value |

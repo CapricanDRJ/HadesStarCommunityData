@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Redd Armada
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Redd Armada Bonus [🔴] W:8 L:2 D:0 
 ---
 
 | Statistic | Value |

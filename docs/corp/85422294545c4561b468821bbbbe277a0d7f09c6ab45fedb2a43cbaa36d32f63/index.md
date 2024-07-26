@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 星环建设集团
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 星环建设集团 Bonus [🔴] W:6 L:6 D:2 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Лютые
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Лютые Bonus [🔴] W:10 L:9 D:1 
 ---
 
 | Statistic | Value |

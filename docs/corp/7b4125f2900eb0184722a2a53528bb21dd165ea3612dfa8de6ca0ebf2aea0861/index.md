@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 萌新港
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 萌新港 Bonus [🔴] W:0 L:1 D:1 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: R.S.F.
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation R.S.F. Bonus [🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

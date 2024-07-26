@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ProyectCorp
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation ProyectCorp Bonus [🟢] W:16 L:21 D:0 
 ---
 
 | Statistic | Value |

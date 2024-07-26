@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cominters
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Cominters Bonus [🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

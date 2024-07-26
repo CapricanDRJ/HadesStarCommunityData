@@ -1,7 +1,7 @@
 ---
 layout: page
 title: three kitties
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation three kitties Bonus [🟢] W:31 L:9 D:1 
 ---
 
 | Statistic | Value |

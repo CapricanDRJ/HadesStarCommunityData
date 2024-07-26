@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lights Off 
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Lights Off  Bonus [🟢] W:23 L:8 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: La orden real
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation La orden real Bonus [🔴] W:1 L:0 D:0 
 ---
 
 | Statistic | Value |

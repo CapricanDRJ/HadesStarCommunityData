@@ -1,7 +1,7 @@
 ---
 layout: page
 title: α阿尔法
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation α阿尔法 Bonus [🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

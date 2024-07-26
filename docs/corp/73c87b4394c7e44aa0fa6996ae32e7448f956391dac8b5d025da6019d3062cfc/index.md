@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The New Light
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation The New Light Bonus [🔴] W:17 L:17 D:1 
 ---
 
 | Statistic | Value |

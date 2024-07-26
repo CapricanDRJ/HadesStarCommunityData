@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Orion
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Orion Bonus [🔴] W:12 L:4 D:0 
 ---
 
 | Statistic | Value |

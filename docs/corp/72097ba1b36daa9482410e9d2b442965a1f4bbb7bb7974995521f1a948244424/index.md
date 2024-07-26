@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 八月政府
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 八月政府 Bonus [🔴] W:2 L:17 D:1 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Providence
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Providence Bonus [🟢] W:26 L:12 D:0 
 ---
 
 | Statistic | Value |

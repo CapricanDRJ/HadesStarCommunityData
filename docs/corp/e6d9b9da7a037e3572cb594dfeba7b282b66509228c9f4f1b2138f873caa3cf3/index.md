@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 萌新港(大佬港)
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 萌新港(大佬港) Bonus [🟢] W:18 L:26 D:0 
 ---
 
 | Statistic | Value |

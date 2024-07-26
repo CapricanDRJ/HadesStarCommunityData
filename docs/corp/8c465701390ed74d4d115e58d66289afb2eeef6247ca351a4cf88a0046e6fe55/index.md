@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 探索舰队
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 探索舰队 Bonus [🟢] W:16 L:13 D:1 
 ---
 
 | Statistic | Value |

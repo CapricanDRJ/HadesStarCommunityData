@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Open Infinity
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Open Infinity Bonus [🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

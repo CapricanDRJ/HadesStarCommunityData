@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nova Time
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Nova Time Bonus [🔴] W:13 L:1 D:0 
 ---
 
 | Statistic | Value |

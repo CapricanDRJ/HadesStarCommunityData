@@ -1,12 +1,12 @@
 ---
 layout: page
 title: The Galxey █
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation The Galxey █ Bonus [🔴] W:5 L:29 D:2 
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1000 🔺  (1168)|
+| ELO Regular | 1000 🔺  (1167)|
 | ELO Competitive | 1078 🔺  (1158)|
 | Total Matches | 36 |
 | Wins | 5 |

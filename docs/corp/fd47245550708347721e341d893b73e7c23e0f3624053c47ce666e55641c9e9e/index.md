@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nine's Own Goal
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Nine's Own Goal Bonus [🔴] W:26 L:15 D:2 
 ---
 
 | Statistic | Value |

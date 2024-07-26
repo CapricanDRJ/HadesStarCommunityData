@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CCCP
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation CCCP Bonus [🔴] W:1 L:6 D:2 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Green Dwarf
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Green Dwarf Bonus [🔴] W:4 L:1 D:0 
 ---
 
 | Statistic | Value |

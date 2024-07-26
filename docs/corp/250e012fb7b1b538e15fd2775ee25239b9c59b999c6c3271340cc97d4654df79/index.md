@@ -1,7 +1,7 @@
 ---
 layout: page
 title: italian warrior
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation italian warrior Bonus [🔴] W:12 L:16 D:1 
 ---
 
 | Statistic | Value |

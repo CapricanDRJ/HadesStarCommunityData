@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pyke Syndicate
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Pyke Syndicate Bonus [🔴] W:2 L:19 D:1 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RACNAROK
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation RACNAROK Bonus [🔴] W:7 L:2 D:2 
 ---
 
 | Statistic | Value |

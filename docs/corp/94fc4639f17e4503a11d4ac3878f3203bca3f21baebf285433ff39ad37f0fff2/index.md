@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BRASIL STAR
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation BRASIL STAR Bonus [🟢] W:31 L:15 D:1 
 ---
 
 | Statistic | Value |

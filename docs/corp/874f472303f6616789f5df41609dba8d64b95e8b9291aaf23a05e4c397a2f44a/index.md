@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SUN OF 3LANDS
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation SUN OF 3LANDS Bonus [🟢] W:8 L:2 D:1 
 ---
 
 | Statistic | Value |

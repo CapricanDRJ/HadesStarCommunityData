@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Elite
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation The Elite Bonus [🔴] W:12 L:12 D:0 
 ---
 
 | Statistic | Value |

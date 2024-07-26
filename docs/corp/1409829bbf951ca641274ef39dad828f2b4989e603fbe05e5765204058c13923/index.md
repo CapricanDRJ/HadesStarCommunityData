@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 龙门训练营
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 龙门训练营 Bonus [🔴] W:9 L:18 D:0 
 ---
 
 | Statistic | Value |

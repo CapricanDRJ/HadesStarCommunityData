@@ -1,7 +1,7 @@
 ---
 layout: page
 title: VoidRunners
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation VoidRunners Bonus [🟢] W:50 L:28 D:0 
 ---
 
 | Statistic | Value |

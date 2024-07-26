@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ..D.E.I.T.Co..
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation ..D.E.I.T.Co.. Bonus [🔴] W:6 L:6 D:0 
 ---
 
 | Statistic | Value |

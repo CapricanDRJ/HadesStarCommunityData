@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 阿尔特拉太空港
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 阿尔特拉太空港 Bonus [🟢] W:3 L:1 D:0 
 ---
 
 | Statistic | Value |

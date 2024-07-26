@@ -1,7 +1,7 @@
 ---
 layout: page
 title: nuevo mundo
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation nuevo mundo Bonus [🟢] W:7 L:7 D:0 
 ---
 
 | Statistic | Value |

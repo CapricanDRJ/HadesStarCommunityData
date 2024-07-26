@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Rising star
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Rising star Bonus [🟢] W:18 L:26 D:0 
 ---
 
 | Statistic | Value |

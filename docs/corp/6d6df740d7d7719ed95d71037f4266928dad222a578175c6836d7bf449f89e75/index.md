@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Majapahit
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Majapahit Bonus [🔴] W:6 L:1 D:0 
 ---
 
 | Statistic | Value |

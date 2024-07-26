@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 初始之音
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 初始之音 Bonus [🔴] W:11 L:14 D:0 
 ---
 
 | Statistic | Value |

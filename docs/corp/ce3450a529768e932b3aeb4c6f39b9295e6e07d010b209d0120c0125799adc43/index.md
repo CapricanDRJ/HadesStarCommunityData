@@ -1,7 +1,7 @@
 ---
 layout: page
 title: R-6 satalite
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation R-6 satalite Bonus [🟢] W:26 L:11 D:1 
 ---
 
 | Statistic | Value |

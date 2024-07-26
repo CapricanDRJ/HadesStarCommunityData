@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Альянс звезд
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Альянс звезд Bonus [🔴] W:3 L:1 D:0 
 ---
 
 | Statistic | Value |

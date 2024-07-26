@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 萌新的收留所
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 萌新的收留所 Bonus [🟢] W:9 L:3 D:1 
 ---
 
 | Statistic | Value |

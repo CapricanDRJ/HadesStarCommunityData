@@ -1,7 +1,7 @@
 ---
 layout: page
 title: W.O.A
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation W.O.A Bonus [🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

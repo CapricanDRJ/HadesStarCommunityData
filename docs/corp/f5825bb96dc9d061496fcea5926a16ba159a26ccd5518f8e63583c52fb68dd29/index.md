@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Red_Coat_Mafia
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Red_Coat_Mafia Bonus [🟢] W:13 L:18 D:1 
 ---
 
 | Statistic | Value |

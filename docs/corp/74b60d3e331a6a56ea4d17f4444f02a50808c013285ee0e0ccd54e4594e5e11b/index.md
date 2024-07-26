@@ -1,7 +1,7 @@
 ---
 layout: page
 title: русь 
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation русь  Bonus [🟢] W:45 L:25 D:0 
 ---
 
 | Statistic | Value |

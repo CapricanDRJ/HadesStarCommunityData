@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 우주미아
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 우주미아 Bonus [🔴] W:0 L:5 D:0 
 ---
 
 | Statistic | Value |

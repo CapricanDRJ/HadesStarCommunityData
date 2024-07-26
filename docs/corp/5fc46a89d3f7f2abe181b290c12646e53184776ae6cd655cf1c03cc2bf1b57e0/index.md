@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Titan Inc.
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Titan Inc. Bonus [🔴] W:0 L:0 D:1 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BattleCo
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation BattleCo Bonus [🔴] W:21 L:14 D:0 
 ---
 
 | Statistic | Value |

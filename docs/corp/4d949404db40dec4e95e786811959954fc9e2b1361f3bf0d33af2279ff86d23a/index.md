@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Out landers
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Out landers Bonus [🟢] W:10 L:6 D:0 
 ---
 
 | Statistic | Value |

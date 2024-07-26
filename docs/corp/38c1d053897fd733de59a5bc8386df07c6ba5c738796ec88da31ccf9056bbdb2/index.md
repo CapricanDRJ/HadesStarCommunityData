@@ -1,7 +1,7 @@
 ---
 layout: page
 title: knights abyss
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation knights abyss Bonus [🔴] W:0 L:0 D:1 
 ---
 
 | Statistic | Value |

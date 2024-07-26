@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Españoles
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Españoles Bonus [🔴] W:3 L:4 D:2 
 ---
 
 | Statistic | Value |

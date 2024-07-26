@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Alpha 
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Alpha  Bonus [🔴] W:7 L:27 D:0 
 ---
 
 | Statistic | Value |

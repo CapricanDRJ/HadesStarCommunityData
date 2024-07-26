@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Legion Prime
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Legion Prime Bonus [🔴] W:11 L:12 D:0 
 ---
 
 | Statistic | Value |

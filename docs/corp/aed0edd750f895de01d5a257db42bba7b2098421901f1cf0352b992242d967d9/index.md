@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ws Polaris
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Ws Polaris Bonus [🔴] W:3 L:14 D:2 
 ---
 
 | Statistic | Value |

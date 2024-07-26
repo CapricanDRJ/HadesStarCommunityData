@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Alpha Galaxy
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Alpha Galaxy Bonus [🔴] W:0 L:0 D:1 
 ---
 
 | Statistic | Value |

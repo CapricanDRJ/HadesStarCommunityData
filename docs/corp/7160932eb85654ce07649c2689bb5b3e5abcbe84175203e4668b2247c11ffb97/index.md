@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Star Field
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Star Field Bonus [🟢] W:7 L:1 D:0 
 ---
 
 | Statistic | Value |

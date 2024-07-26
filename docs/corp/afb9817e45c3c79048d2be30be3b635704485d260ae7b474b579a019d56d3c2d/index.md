@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 宇宙银河帝国
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 宇宙银河帝国 Bonus [🟢] W:21 L:12 D:2 
 ---
 
 | Statistic | Value |

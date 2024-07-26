@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FAIR
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation FAIR Bonus [🔴] W:0 L:1 D:1 
 ---
 
 | Statistic | Value |

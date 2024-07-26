@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Planet Express
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Planet Express Bonus [🔴] W:0 L:3 D:0 
 ---
 
 | Statistic | Value |

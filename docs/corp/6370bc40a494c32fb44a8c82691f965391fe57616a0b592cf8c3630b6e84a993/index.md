@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sunny
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Sunny Bonus [🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: EZCO
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation EZCO Bonus [🔴] W:13 L:14 D:1 
 ---
 
 | Statistic | Value |

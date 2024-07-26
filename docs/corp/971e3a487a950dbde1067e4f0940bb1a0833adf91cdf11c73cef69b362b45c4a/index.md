@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 云浪度假村↕
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 云浪度假村↕ Bonus [🔴] W:2 L:6 D:1 
 ---
 
 | Statistic | Value |

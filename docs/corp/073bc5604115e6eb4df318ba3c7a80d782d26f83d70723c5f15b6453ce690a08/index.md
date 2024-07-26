@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Novana Gaming
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Novana Gaming Bonus [🟢] W:3 L:2 D:0 
 ---
 
 | Statistic | Value |

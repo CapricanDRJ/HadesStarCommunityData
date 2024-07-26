@@ -1,7 +1,7 @@
 ---
 layout: page
 title: lesescargots
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation lesescargots Bonus [🟢] W:36 L:14 D:0 
 ---
 
 | Statistic | Value |

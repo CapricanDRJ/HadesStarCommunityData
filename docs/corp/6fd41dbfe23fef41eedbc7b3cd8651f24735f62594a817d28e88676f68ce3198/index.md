@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Toxic
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Toxic Bonus [🔴] W:1 L:6 D:0 
 ---
 
 | Statistic | Value |

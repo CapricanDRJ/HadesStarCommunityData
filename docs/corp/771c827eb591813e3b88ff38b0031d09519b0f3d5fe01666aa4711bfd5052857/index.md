@@ -1,7 +1,7 @@
 ---
 layout: page
 title: <a>超越®</a>光速℡
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation <a>超越®</a>光速℡ Bonus [🔴] W:15 L:6 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Deadspace
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Deadspace Bonus [🟢] W:16 L:23 D:0 
 ---
 
 | Statistic | Value |

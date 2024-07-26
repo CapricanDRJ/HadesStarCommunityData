@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 新?的星际集团?
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 新?的星际集团? Bonus [🟢] W:2 L:2 D:0 
 ---
 
 | Statistic | Value |

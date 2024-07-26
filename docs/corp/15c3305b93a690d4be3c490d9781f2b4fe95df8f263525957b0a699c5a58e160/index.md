@@ -1,7 +1,7 @@
 ---
 layout: page
 title: N7 Elite Forces
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation N7 Elite Forces Bonus [🔴] W:3 L:0 D:0 
 ---
 
 | Statistic | Value |

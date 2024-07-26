@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Poggy Rockers
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Poggy Rockers Bonus [🟢] W:23 L:8 D:2 
 ---
 
 | Statistic | Value |

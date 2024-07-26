@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Czech Legion
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Czech Legion Bonus [🟢] W:4 L:1 D:0 
 ---
 
 | Statistic | Value |

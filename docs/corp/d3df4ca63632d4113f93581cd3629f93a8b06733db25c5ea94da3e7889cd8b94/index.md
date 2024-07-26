@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GalaxyNova
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation GalaxyNova Bonus [🔴] W:7 L:2 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: IMPERIAL ARMADA
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation IMPERIAL ARMADA Bonus [🟢] W:29 L:21 D:2 
 ---
 
 | Statistic | Value |

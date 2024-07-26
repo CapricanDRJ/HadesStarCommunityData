@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TeddisaurusWrex
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation TeddisaurusWrex Bonus [🟢] W:35 L:7 D:0 
 ---
 
 | Statistic | Value |

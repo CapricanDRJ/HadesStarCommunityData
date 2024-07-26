@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Red Suns
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Red Suns Bonus [🔴] W:15 L:17 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 北冥星云
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 北冥星云 Bonus [🔴] W:0 L:4 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 星舰国际
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 星舰国际 Bonus [🟢] W:4 L:2 D:0 
 ---
 
 | Statistic | Value |

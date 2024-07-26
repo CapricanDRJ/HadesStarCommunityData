@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Дом Датэ
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Дом Датэ Bonus [🟢] W:24 L:17 D:0 
 ---
 
 | Statistic | Value |

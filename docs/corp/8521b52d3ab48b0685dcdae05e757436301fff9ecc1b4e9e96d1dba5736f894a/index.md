@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 中国星系集团
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 中国星系集团 Bonus [🔴] W:7 L:1 D:0 
 ---
 
 | Statistic | Value |

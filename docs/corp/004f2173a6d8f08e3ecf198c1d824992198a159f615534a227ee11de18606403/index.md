@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 红星超新星爆炸
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 红星超新星爆炸 Bonus [🔴] W:1 L:2 D:0 
 ---
 
 | Statistic | Value |

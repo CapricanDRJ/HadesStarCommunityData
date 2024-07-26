@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Antioch
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Antioch Bonus [🟢] W:9 L:14 D:0 
 ---
 
 | Statistic | Value |

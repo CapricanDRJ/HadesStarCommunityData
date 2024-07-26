@@ -1,7 +1,7 @@
 ---
 layout: page
 title: REFOUNDATION 
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation REFOUNDATION  Bonus [🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

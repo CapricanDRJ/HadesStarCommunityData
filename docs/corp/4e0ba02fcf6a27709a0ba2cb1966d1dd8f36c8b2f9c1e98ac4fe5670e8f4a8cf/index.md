@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 共和服务器
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 共和服务器 Bonus [🔴] W:1 L:2 D:1 
 ---
 
 | Statistic | Value |

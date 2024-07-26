@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 超新星联盟
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 超新星联盟 Bonus [🔴] W:5 L:6 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Helion Prime
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Helion Prime Bonus [🔴] W:6 L:5 D:0 
 ---
 
 | Statistic | Value |

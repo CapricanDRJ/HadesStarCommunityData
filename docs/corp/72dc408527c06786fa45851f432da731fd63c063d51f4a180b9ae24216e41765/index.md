@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ToC
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation ToC Bonus [🔴] W:3 L:7 D:0 
 ---
 
 | Statistic | Value |

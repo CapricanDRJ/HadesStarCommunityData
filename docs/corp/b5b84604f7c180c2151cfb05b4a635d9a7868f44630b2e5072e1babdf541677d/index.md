@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Trade Systems
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Trade Systems Bonus [🔴] W:0 L:3 D:0 
 ---
 
 | Statistic | Value |

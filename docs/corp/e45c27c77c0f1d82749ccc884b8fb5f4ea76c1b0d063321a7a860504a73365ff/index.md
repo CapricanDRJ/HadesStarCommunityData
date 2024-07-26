@@ -1,7 +1,7 @@
 ---
 layout: page
 title: battlesquadron
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation battlesquadron Bonus [🔴] W:1 L:4 D:0 
 ---
 
 | Statistic | Value |

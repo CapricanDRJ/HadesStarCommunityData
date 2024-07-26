@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 碧霄殿
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 碧霄殿 Bonus [🟢] W:4 L:1 D:0 
 ---
 
 | Statistic | Value |

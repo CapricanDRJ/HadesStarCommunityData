@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hand of Legion 
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Hand of Legion  Bonus [🔴] W:4 L:1 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cell Division
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Cell Division Bonus [🔴] W:0 L:3 D:0 
 ---
 
 | Statistic | Value |

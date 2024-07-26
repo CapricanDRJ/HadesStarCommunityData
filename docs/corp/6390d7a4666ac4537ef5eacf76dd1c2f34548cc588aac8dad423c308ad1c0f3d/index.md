@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 水晶星际集团
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 水晶星际集团 Bonus [🔴] W:5 L:21 D:0 
 ---
 
 | Statistic | Value |

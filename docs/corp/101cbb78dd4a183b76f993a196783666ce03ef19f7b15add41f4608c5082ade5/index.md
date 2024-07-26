@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Spacey Bois
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Spacey Bois Bonus [🔴] W:2 L:3 D:0 
 ---
 
 | Statistic | Value |

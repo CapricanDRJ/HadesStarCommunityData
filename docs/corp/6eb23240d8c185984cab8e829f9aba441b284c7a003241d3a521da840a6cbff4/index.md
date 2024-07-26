@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 猎户座星云
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 猎户座星云 Bonus [🔴] W:3 L:6 D:0 
 ---
 
 | Statistic | Value |

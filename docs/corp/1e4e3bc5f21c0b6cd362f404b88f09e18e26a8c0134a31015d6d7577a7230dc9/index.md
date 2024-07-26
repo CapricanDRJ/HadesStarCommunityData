@@ -1,7 +1,7 @@
 ---
 layout: page
 title: АНДРОМЕДА 
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation АНДРОМЕДА  Bonus [🔴] W:25 L:30 D:0 
 ---
 
 | Statistic | Value |

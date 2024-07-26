@@ -1,7 +1,7 @@
 ---
 layout: page
 title: INFINITY STAR
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation INFINITY STAR Bonus [🔴] W:4 L:6 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AlSounT
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation AlSounT Bonus [🔴] W:3 L:5 D:0 
 ---
 
 | Statistic | Value |

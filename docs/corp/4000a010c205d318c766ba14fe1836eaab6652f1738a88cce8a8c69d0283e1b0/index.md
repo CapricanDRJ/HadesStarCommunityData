@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Axiom
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Axiom Bonus [🟢] W:45 L:24 D:0 
 ---
 
 | Statistic | Value |

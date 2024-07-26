@@ -1,7 +1,7 @@
 ---
 layout: page
 title: STARBLAZER 
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation STARBLAZER  Bonus [🔴] W:2 L:4 D:0 
 ---
 
 | Statistic | Value |

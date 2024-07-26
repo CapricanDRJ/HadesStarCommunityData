@@ -1,7 +1,7 @@
 ---
 layout: page
 title: M4-Valhalla
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation M4-Valhalla Bonus [🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

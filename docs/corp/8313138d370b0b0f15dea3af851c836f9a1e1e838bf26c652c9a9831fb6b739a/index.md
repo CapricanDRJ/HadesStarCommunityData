@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dauntless
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Dauntless Bonus [🔴] W:6 L:17 D:0 
 ---
 
 | Statistic | Value |

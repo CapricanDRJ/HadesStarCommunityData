@@ -1,7 +1,7 @@
 ---
 layout: page
 title: REY DE REYES
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation REY DE REYES Bonus [🔴] W:1 L:9 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AKA
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation AKA Bonus [🔴] W:0 L:10 D:0 
 ---
 
 | Statistic | Value |

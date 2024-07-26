@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bounty Hunters
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Bounty Hunters Bonus [🔴] W:7 L:5 D:0 
 ---
 
 | Statistic | Value |

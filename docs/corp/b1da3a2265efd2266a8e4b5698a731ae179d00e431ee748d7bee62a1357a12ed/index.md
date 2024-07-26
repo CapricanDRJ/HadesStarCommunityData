@@ -1,7 +1,7 @@
 ---
 layout: page
 title: *Alfa y Omega*
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation *Alfa y Omega* Bonus [🟢] W:8 L:4 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Continuum
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Continuum Bonus [🟢] W:51 L:27 D:1 
 ---
 
 | Statistic | Value |

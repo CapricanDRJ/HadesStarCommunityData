@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Minutemen
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Minutemen Bonus [🔴] W:8 L:12 D:0 
 ---
 
 | Statistic | Value |

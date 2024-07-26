@@ -1,7 +1,7 @@
 ---
 layout: page
 title: New Horizons
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation New Horizons Bonus [🔴] W:6 L:6 D:0 
 ---
 
 | Statistic | Value |

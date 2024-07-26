@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hinterm Mars
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Hinterm Mars Bonus [🟢] W:22 L:28 D:0 
 ---
 
 | Statistic | Value |

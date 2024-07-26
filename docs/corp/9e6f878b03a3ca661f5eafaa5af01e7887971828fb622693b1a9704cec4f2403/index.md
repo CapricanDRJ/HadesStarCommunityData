@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ZZZ-V
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation ZZZ-V Bonus [🔴] W:3 L:1 D:0 
 ---
 
 | Statistic | Value |

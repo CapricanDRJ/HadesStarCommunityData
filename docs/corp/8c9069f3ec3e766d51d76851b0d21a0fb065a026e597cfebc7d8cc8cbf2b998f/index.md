@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TheBasics
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation TheBasics Bonus [🔴] W:29 L:36 D:1 
 ---
 
 | Statistic | Value |

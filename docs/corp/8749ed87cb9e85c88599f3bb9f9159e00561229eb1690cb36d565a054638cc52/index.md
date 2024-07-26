@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Seila
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Seila Bonus [🔴] W:4 L:6 D:1 
 ---
 
 | Statistic | Value |

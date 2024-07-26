@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Elite2.0
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Elite2.0 Bonus [🔴] W:1 L:3 D:1 
 ---
 
 | Statistic | Value |

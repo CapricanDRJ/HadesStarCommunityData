@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dumpster Fire 2
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Dumpster Fire 2 Bonus [🔴] W:36 L:40 D:2 
 ---
 
 | Statistic | Value |

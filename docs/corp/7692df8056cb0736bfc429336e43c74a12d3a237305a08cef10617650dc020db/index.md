@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 世外桃源
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 世外桃源 Bonus [🟢] W:9 L:77 D:0 
 ---
 
 | Statistic | Value |

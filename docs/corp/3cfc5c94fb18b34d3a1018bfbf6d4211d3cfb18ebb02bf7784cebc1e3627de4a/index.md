@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PDC
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation PDC Bonus [🟢] W:14 L:6 D:2 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: West Worlders
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation West Worlders Bonus [🟢] W:2 L:10 D:0 
 ---
 
 | Statistic | Value |

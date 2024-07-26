@@ -1,12 +1,12 @@
 ---
 layout: page
 title: ГОРИЗОНТ
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation ГОРИЗОНТ Bonus [🟢] W:9 L:46 D:0 
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 998 🔻  (1169)|
+| ELO Regular | 998 🔻  (1168)|
 | ELO Competitive | 1156 🔺  (1031)|
 | Total Matches | 55 |
 | Wins | 9 |

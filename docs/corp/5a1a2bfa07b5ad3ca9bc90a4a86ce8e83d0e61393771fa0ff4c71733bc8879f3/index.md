@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 海賊ギルド
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 海賊ギルド Bonus [🔴] W:5 L:17 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Halcon español
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Halcon español Bonus [🔴] W:20 L:9 D:0 
 ---
 
 | Statistic | Value |

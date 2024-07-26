@@ -1,7 +1,7 @@
 ---
 layout: page
 title: DarkMoon
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation DarkMoon Bonus [🔴] W:19 L:10 D:0 
 ---
 
 | Statistic | Value |

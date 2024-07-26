@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 行星联合军
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 行星联合军 Bonus [🟢] W:7 L:9 D:0 
 ---
 
 | Statistic | Value |

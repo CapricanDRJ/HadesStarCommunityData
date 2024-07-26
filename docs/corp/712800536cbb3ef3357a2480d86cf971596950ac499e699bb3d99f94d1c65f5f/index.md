@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 혁명군
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 혁명군 Bonus [🔴] W:13 L:32 D:0 
 ---
 
 | Statistic | Value |

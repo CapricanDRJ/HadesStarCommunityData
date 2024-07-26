@@ -1,7 +1,7 @@
 ---
 layout: page
 title: United Stars 
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation United Stars  Bonus [🟢] W:23 L:15 D:1 
 ---
 
 | Statistic | Value |

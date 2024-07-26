@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Watchers
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation The Watchers Bonus [🔴] W:11 L:14 D:0 
 ---
 
 | Statistic | Value |

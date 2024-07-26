@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 羽共和体
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 羽共和体 Bonus [🟢] W:10 L:19 D:3 
 ---
 
 | Statistic | Value |

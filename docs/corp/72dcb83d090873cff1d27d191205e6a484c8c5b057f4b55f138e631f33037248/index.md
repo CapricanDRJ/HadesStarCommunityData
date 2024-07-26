@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Galactic Empire
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Galactic Empire Bonus [🔴] W:1 L:6 D:0 
 ---
 
 | Statistic | Value |

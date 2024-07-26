@@ -1,7 +1,7 @@
 ---
 layout: page
 title: the Rubber Duck
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation the Rubber Duck Bonus [🔴] W:5 L:10 D:0 
 ---
 
 | Statistic | Value |

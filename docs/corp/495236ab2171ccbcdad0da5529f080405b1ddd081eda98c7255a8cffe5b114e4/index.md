@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Jalisco México
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Jalisco México Bonus [🔴] W:11 L:26 D:5 
 ---
 
 | Statistic | Value |

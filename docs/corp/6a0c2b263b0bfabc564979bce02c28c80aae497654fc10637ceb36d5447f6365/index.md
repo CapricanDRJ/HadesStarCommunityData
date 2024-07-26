@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 边缘世界
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 边缘世界 Bonus [🔴] W:3 L:2 D:2 
 ---
 
 | Statistic | Value |

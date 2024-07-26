@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bloodtide
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Bloodtide Bonus [🟢] W:35 L:33 D:0 
 ---
 
 | Statistic | Value |

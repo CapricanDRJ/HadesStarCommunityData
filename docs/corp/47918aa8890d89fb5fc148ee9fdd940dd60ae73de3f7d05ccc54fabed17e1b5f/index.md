@@ -1,7 +1,7 @@
 ---
 layout: page
 title: j g f h me t y 
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation j g f h me t y  Bonus [🔴] W:5 L:9 D:1 
 ---
 
 | Statistic | Value |

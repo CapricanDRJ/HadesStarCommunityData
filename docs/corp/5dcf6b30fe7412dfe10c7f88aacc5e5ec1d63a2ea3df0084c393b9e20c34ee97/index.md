@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Galaxian
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Galaxian Bonus [🔴] W:18 L:9 D:0 
 ---
 
 | Statistic | Value |

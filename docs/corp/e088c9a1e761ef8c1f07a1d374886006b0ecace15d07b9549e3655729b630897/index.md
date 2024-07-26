@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Germania
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Germania Bonus [🟢] W:16 L:21 D:2 
 ---
 
 | Statistic | Value |

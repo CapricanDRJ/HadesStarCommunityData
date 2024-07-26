@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Justice Vengers
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Justice Vengers Bonus [🟢] W:12 L:2 D:0 
 ---
 
 | Statistic | Value |

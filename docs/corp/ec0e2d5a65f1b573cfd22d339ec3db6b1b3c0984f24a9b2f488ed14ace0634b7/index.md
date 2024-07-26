@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Imperio Nova
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Imperio Nova Bonus [🔴] W:0 L:3 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 한국우주연합
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 한국우주연합 Bonus [🔴] W:7 L:12 D:0 
 ---
 
 | Statistic | Value |

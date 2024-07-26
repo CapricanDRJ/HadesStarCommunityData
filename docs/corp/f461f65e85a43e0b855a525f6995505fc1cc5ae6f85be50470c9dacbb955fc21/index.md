@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cowboys
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Cowboys Bonus [🔴] W:6 L:9 D:3 
 ---
 
 | Statistic | Value |

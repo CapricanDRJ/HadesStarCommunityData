@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Schnuppenfarm
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Schnuppenfarm Bonus [🔴] W:1 L:2 D:0 
 ---
 
 | Statistic | Value |

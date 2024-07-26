@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Venture
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Venture Bonus [🔴] W:8 L:22 D:4 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: mijael siuuuuuu
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation mijael siuuuuuu Bonus [🔴] W:0 L:12 D:1 
 ---
 
 | Statistic | Value |

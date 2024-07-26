@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GDZ
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation GDZ Bonus [🟢] W:31 L:26 D:0 
 ---
 
 | Statistic | Value |

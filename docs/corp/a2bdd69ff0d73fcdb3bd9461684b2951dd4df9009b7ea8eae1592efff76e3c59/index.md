@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Curcubeu
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Curcubeu Bonus [🔴] W:17 L:10 D:0 
 ---
 
 | Statistic | Value |

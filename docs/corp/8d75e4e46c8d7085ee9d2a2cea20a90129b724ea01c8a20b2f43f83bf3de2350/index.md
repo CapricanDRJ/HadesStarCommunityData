@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 111
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 111 Bonus [🟢] W:46 L:15 D:0 
 ---
 
 | Statistic | Value |

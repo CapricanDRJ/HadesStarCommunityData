@@ -1,7 +1,7 @@
 ---
 layout: page
 title: pirates spatial
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation pirates spatial Bonus [🟢] W:38 L:29 D:0 
 ---
 
 | Statistic | Value |

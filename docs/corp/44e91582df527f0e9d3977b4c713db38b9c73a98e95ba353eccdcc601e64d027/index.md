@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stellar Exports
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Stellar Exports Bonus [🟢] W:34 L:24 D:0 
 ---
 
 | Statistic | Value |

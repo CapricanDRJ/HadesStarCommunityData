@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Free Star
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Free Star Bonus [🔴] W:5 L:8 D:0 
 ---
 
 | Statistic | Value |

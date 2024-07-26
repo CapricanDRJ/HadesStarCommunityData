@@ -1,7 +1,7 @@
 ---
 layout: page
 title: You Win
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation You Win Bonus [🔴] W:1 L:6 D:0 
 ---
 
 | Statistic | Value |

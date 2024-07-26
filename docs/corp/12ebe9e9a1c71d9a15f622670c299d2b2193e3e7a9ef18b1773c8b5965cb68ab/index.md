@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Goonies
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation The Goonies Bonus [🔴] W:3 L:6 D:2 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BlackStar Order
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation BlackStar Order Bonus [🟢] W:45 L:29 D:0 
 ---
 
 | Statistic | Value |

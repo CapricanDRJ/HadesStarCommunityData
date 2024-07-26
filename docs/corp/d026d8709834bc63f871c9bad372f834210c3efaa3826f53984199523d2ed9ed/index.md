@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 万星联盟
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 万星联盟 Bonus [🟢] W:10 L:0 D:0 
 ---
 
 | Statistic | Value |

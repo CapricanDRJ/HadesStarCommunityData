@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ANDROMEDA INC. 
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation ANDROMEDA INC.  Bonus [🔴] W:20 L:1 D:1 
 ---
 
 | Statistic | Value |

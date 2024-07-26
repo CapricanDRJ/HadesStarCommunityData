@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Scar
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation Scar Bonus [🟢] W:25 L:16 D:1 
 ---
 
 | Statistic | Value |

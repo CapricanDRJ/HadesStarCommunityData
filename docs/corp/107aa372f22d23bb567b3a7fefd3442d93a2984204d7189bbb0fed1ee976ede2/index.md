@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 星を継ぐもの
-description: Hades' Star Corporation Whitestar Records and Stats
+description: Hades' Star Corporation 星を継ぐもの Bonus [🟢] W:27 L:10 D:0 
 ---
 
 | Statistic | Value |
