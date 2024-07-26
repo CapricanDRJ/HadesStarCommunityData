@@ -47,3 +47,5 @@ description: W:19 L:5 D:0 Bonus ✅
 | ✅ | 2023/11/07 | 22-4 | [Space Donuts](https://ws.tsl.rocks/corp/50895e5bb0a19e8fde1c7f28e39fc0f170cbc2743a9f1ba45a88bce067d99152/) |
 
 Corporation ID: 60cd15c27192f777f2e4abc413a83d4ab33bbccd7764a387afd2347dcd3d751a
+
+[Hades' Star](https://www.hadesstar.com)

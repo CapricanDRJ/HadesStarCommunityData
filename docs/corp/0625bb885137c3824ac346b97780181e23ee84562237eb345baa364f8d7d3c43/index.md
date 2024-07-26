@@ -57,3 +57,5 @@ description: W:13 L:16 D:1 Bonus ❌
 | ✅ | 2023/11/07 | 19-7 | [West Worlders](https://ws.tsl.rocks/corp/aad051ec6b980cc52fb4777aef113d9e28a72aab40fda65aa9cdbf477b8e390a/) |
 
 Corporation ID: 0625bb885137c3824ac346b97780181e23ee84562237eb345baa364f8d7d3c43
+
+[Hades' Star](https://www.hadesstar.com)

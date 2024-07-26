@@ -110,3 +110,5 @@ description: W:35 L:33 D:0 Bonus ✅
 | ✅ | 2023/11/04 | 40-1 | [DTC](https://ws.tsl.rocks/corp/4be10b4fa74e6bc45ea50d720527bec8db0312f419a419f203b09350d663c755/) |
 
 Corporation ID: 45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905
+
+[Hades' Star](https://www.hadesstar.com)

@@ -24,3 +24,5 @@ description: W:0 L:3 D:0 Bonus ❌
 | ❌ | 2023/11/25 | 3-6 | [Caprica command](https://ws.tsl.rocks/corp/122c9a522af83efad894aa7ba6a711a94e18cbd0045281764ef986e70361c570/) |
 
 Corporation ID: 523cdd29cdccf7732fed590e941edb3ad2c4e7130ef6b474e9ae7a0855af8cc7
+
+[Hades' Star](https://www.hadesstar.com)

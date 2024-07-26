@@ -23,3 +23,5 @@ description: W:0 L:1 D:1 Bonus ❌
 | ❌ | 2024/01/31 | 0-1 | [titan tv](https://ws.tsl.rocks/corp/30ba418a884a4c2f888c814c6adfd9f30d995c155ccdc8aafa74ae4dc30f1c39/) |
 
 Corporation ID: 53f71a919dc236f377371961c475a6df846550d5c1a72199b52ecf72d1494701
+
+[Hades' Star](https://www.hadesstar.com)

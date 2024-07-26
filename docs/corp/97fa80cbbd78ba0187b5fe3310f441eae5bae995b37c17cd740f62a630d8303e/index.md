@@ -28,3 +28,5 @@ description: W:2 L:3 D:0 Bonus ✅
 | ❌ | 2024/05/05 | 0-29 | [TeddisaurusWrex](https://ws.tsl.rocks/corp/88f37fd0ab1f14c7e06af4173800167f8d1f5db4022c1cd42637da431140ef7a/) |
 
 Corporation ID: 97fa80cbbd78ba0187b5fe3310f441eae5bae995b37c17cd740f62a630d8303e
+
+[Hades' Star](https://www.hadesstar.com)

@@ -28,3 +28,5 @@ description: W:1 L:6 D:0 Bonus ❌
 | ❌ | 2024/02/08 | 0-8 | [Angel Dragon](https://ws.tsl.rocks/corp/2f2e44c159dc8f4e15e2dabda533d9db8697d2c6c06735d926d180b3aa056dcf/) |
 
 Corporation ID: 972debff8c750fc5774a5af41280e0796ef1e0d306bde0558cd116522d9b7c43
+
+[Hades' Star](https://www.hadesstar.com)

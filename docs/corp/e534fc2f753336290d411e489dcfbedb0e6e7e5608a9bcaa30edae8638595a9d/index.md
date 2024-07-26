@@ -27,3 +27,5 @@ description: W:3 L:1 D:0 Bonus ✅
 | ❌ | 2024/07/04 | 0-16 | [ItaFederalFleet](https://ws.tsl.rocks/corp/02f7ac2b406e46cbb3e1f7fa3a0fb0dc2c32f9bc8afc54c299cd54757463ddbe/) |
 
 Corporation ID: e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d
+
+[Hades' Star](https://www.hadesstar.com)

@@ -61,3 +61,5 @@ description: W:24 L:10 D:0 Bonus ✅
 | ✅ | 2023/11/20 | 4-1 | [MÉXICO INFINITO](https://ws.tsl.rocks/corp/a9fbdd48477b87a054dbd804eef12ae08bc6e02798cd8990b08c4a9803d8f9d8/) |
 
 Corporation ID: 358bbbde0af23c5f41cdb4fde95bb713989c7812b5a0358f7c34ecceca19916c
+
+[Hades' Star](https://www.hadesstar.com)

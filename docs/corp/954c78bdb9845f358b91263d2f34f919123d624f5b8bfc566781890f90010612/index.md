@@ -26,3 +26,5 @@ description: W:2 L:1 D:0 Bonus ❌
 | ❌ | 2024/05/19 | 0-12 | [ЧВК "Котики"](https://ws.tsl.rocks/corp/b770b833fe257bc6accd1bbe82a887971291dd0038f8aa627a47f3ce063265c0/) |
 
 Corporation ID: 954c78bdb9845f358b91263d2f34f919123d624f5b8bfc566781890f90010612
+
+[Hades' Star](https://www.hadesstar.com)

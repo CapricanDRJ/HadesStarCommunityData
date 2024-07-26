@@ -37,3 +37,5 @@ description: W:2 L:9 D:0 Bonus ❌
 | ✅ | 2023/12/18 | 2-0 | [cikopo](https://ws.tsl.rocks/corp/523cdd29cdccf7732fed590e941edb3ad2c4e7130ef6b474e9ae7a0855af8cc7/) |
 
 Corporation ID: b1a267bb80dd695c75c1996122ff32ca8296c07874376131618d18b4fee0aa5c
+
+[Hades' Star](https://www.hadesstar.com)

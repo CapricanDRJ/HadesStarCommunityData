@@ -40,3 +40,5 @@ description: W:6 L:9 D:3 Bonus ❌
 | ❌ | 2023/11/24 | 0-3 | [Krasse Bros](https://ws.tsl.rocks/corp/ec8df719929b564225592da878034621da81f0c95a84a1afdee1b2c8389374fb/) |
 
 Corporation ID: f461f65e85a43e0b855a525f6995505fc1cc5ae6f85be50470c9dacbb955fc21
+
+[Hades' Star](https://www.hadesstar.com)

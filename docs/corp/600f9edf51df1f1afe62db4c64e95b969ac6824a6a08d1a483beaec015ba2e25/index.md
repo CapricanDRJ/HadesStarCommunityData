@@ -38,3 +38,5 @@ description: W:12 L:3 D:0 Bonus ❌
 | ❌ | 2023/11/04 | 0-14 | [Ark](https://ws.tsl.rocks/corp/febd79d038ed9af667e201309060d9662ba825ba9be2b5b95418ac20a8e70c80/) |
 
 Corporation ID: 600f9edf51df1f1afe62db4c64e95b969ac6824a6a08d1a483beaec015ba2e25
+
+[Hades' Star](https://www.hadesstar.com)

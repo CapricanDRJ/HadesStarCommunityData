@@ -71,3 +71,5 @@ description: W:35 L:7 D:0 Bonus ✅
 | ✅ | 2023/12/01 | 9-2 | [Warriors](https://ws.tsl.rocks/corp/5f7939d9e637fca46378b31a0bc98715e317da22c2a819707276e7d779044d83/) |
 
 Corporation ID: 88f37fd0ab1f14c7e06af4173800167f8d1f5db4022c1cd42637da431140ef7a
+
+[Hades' Star](https://www.hadesstar.com)

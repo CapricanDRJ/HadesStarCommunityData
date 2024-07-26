@@ -29,3 +29,5 @@ description: W:5 L:2 D:0 Bonus ❌
 | ✅ | 2023/12/20 | 21-0 | [Tabula Rasa](https://ws.tsl.rocks/corp/3e5dc493ea57d1100dfed7287d9d2ed4f8e23e9a308b7543d0713e9404308d7a/) |
 
 Corporation ID: 4df750932663f0d0c51d8493908ca5cfcee13776b7c6644fa47ecda51fd0fb3f
+
+[Hades' Star](https://www.hadesstar.com)

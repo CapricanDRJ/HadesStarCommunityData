@@ -88,3 +88,5 @@ description: W:9 L:46 D:0 Bonus ✅
 | ❌ | 2024/01/02 | 13-52 | [Titan Corp\.](https://ws.tsl.rocks/corp/c87b86a6baab08254d7226396a20c74fe0972f64fab6fee405914076e111193c/) |
 
 Corporation ID: fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362
+
+[Hades' Star](https://www.hadesstar.com)

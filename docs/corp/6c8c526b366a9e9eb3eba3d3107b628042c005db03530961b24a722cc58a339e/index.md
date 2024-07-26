@@ -55,3 +55,5 @@ description: W:17 L:10 D:0 Bonus ✅
 | ✅ | 2023/11/13 | 10-4 | [On en a Gros \! ](https://ws.tsl.rocks/corp/eee919ee67cd5b7eb62548219cd7981660ab85d08ab0fe23b83f1849ca6cf8c6/) |
 
 Corporation ID: 6c8c526b366a9e9eb3eba3d3107b628042c005db03530961b24a722cc58a339e
+
+[Hades' Star](https://www.hadesstar.com)

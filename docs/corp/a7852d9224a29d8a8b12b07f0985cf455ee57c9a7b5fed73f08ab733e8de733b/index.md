@@ -30,3 +30,5 @@ description: W:4 L:4 D:0 Bonus ❌
 | ✅ | 2024/02/09 | 11-1 | [Венерский Союз](https://ws.tsl.rocks/corp/6d869628a64fc11a17264dacfd741e7d603069d526d32a166c48ff7fd9499bf6/) |
 
 Corporation ID: a7852d9224a29d8a8b12b07f0985cf455ee57c9a7b5fed73f08ab733e8de733b
+
+[Hades' Star](https://www.hadesstar.com)

@@ -46,3 +46,5 @@ description: W:8 L:11 D:0 Bonus ❌
 | ❌ | 2023/11/12 | 3-9 | [Альянс](https://ws.tsl.rocks/corp/a7d0478626828d7428aeeb5115f68e790f7e4c8a7f917812ec2241178e1c3f50/) |
 
 Corporation ID: 4f07d6381e25833973d274b90a76aa73a9cac9b3f93a5279e2b0375f1108eb3a
+
+[Hades' Star](https://www.hadesstar.com)

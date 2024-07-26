@@ -97,3 +97,5 @@ description: W:34 L:23 D:0 Bonus ✅
 | ✅ | 2023/11/09 | 37-2 | [Rocket\-by Baby](https://ws.tsl.rocks/corp/a125ad1d27fcc4c18515810a32c12d2d9465565ef75fa08ca2947dee52538313/) |
 
 Corporation ID: 0ab98cd1f1b195397b27360ea0dee2527f1504c9f5d4867e719d6f1f73efb01d
+
+[Hades' Star](https://www.hadesstar.com)

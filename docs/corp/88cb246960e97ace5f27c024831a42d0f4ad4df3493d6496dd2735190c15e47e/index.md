@@ -25,3 +25,5 @@ description: W:0 L:4 D:0 Bonus ❌
 | ❌ | 2024/02/28 | 5-23 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |
 
 Corporation ID: 88cb246960e97ace5f27c024831a42d0f4ad4df3493d6496dd2735190c15e47e
+
+[Hades' Star](https://www.hadesstar.com)

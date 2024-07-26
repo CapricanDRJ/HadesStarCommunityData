@@ -48,3 +48,5 @@ description: W:4 L:15 D:2 Bonus ❌
 | ✅ | 2023/11/05 | 10-6 | [Argentina 1\.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449/) |
 
 Corporation ID: bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f
+
+[Hades' Star](https://www.hadesstar.com)

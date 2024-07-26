@@ -26,3 +26,5 @@ description: W:0 L:4 D:1 Bonus ❌
 | ❌ | 2024/01/07 | 2-3 | [Hades Seminary ](https://ws.tsl.rocks/corp/a43c0e4701495c28fde3f8c614baa6d54af86ed15d13ff8da3a6266039c5e2a7/) |
 
 Corporation ID: 2608118ec348769a1cdc34c18b3198903677007199f1d6feec34de0d74d2944f
+
+[Hades' Star](https://www.hadesstar.com)

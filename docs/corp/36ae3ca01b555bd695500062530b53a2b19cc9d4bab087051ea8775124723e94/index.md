@@ -44,3 +44,5 @@ description: W:9 L:7 D:0 Bonus ❌
 | ❌ | 2023/12/02 | 0-1 | [Cowboys](https://ws.tsl.rocks/corp/f461f65e85a43e0b855a525f6995505fc1cc5ae6f85be50470c9dacbb955fc21/) |
 
 Corporation ID: 36ae3ca01b555bd695500062530b53a2b19cc9d4bab087051ea8775124723e94
+
+[Hades' Star](https://www.hadesstar.com)

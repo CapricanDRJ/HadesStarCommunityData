@@ -56,3 +56,5 @@ description: W:12 L:14 D:0 Bonus ✅
 | ✅ | 2023/11/05 | 45-0 | [星舰地球](https://ws.tsl.rocks/corp/74f9da5a15ff27bf509892de095386a84ef43e8f68b96d1897acf9bcbd542f61/) |
 
 Corporation ID: d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d
+
+[Hades' Star](https://www.hadesstar.com)

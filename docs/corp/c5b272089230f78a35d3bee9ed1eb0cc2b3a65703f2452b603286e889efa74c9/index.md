@@ -45,3 +45,5 @@ description: W:7 L:9 D:2 Bonus ❌
 | ✅ | 2023/11/28 | 9-0 | [Sistemaimperial](https://ws.tsl.rocks/corp/c5d74741e67bccbb74d8e7772ef2f8cf79edb6ece339b45bb2683cb9e019c94c/) |
 
 Corporation ID: c5b272089230f78a35d3bee9ed1eb0cc2b3a65703f2452b603286e889efa74c9
+
+[Hades' Star](https://www.hadesstar.com)

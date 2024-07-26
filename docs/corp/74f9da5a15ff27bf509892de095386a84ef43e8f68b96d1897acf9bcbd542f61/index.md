@@ -25,3 +25,5 @@ description: W:1 L:3 D:0 Bonus ❌
 | ❌ | 2023/11/05 | 0-21 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) |
 
 Corporation ID: 74f9da5a15ff27bf509892de095386a84ef43e8f68b96d1897acf9bcbd542f61
+
+[Hades' Star](https://www.hadesstar.com)

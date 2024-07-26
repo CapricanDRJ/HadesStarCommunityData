@@ -40,3 +40,5 @@ description: W:9 L:9 D:0 Bonus ❌
 | ❌ | 2023/11/08 | 0-33 | [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541/) |
 
 Corporation ID: da3a00a59e73cb89ddcf9ae42f31ecf0c9d9b5fe9a2dc5ddec6fc42922f86a23
+
+[Hades' Star](https://www.hadesstar.com)

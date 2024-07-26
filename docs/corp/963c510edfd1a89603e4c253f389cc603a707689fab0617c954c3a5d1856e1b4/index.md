@@ -23,3 +23,5 @@ description: W:0 L:1 D:1 Bonus ❌
 | ↔️ | 2024/02/14 | 2-2 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |
 
 Corporation ID: 963c510edfd1a89603e4c253f389cc603a707689fab0617c954c3a5d1856e1b4
+
+[Hades' Star](https://www.hadesstar.com)

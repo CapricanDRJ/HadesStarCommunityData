@@ -25,3 +25,5 @@ description: W:2 L:1 D:0 Bonus ❌
 | ✅ | 2023/11/16 | 1-0 | [universe leader](https://ws.tsl.rocks/corp/8d7722faac1d00f0aaa58497484f9b84b89bdf263ab2dc48b2ae14dedf6388f0/) |
 
 Corporation ID: adfcb1528f44da89091917abd7726a804e7a69b59cbd176a77a408d4b2e81f9e
+
+[Hades' Star](https://www.hadesstar.com)

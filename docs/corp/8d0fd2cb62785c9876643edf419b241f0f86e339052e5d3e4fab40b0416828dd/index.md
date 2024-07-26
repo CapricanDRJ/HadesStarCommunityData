@@ -24,3 +24,5 @@ description: W:1 L:2 D:0 Bonus ✅
 | ❌ | 2024/07/11 | 2-6 | [Novana Gaming](https://ws.tsl.rocks/corp/073bc5604115e6eb4df318ba3c7a80d782d26f83d70723c5f15b6453ce690a08/) |
 
 Corporation ID: 8d0fd2cb62785c9876643edf419b241f0f86e339052e5d3e4fab40b0416828dd
+
+[Hades' Star](https://www.hadesstar.com)

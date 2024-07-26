@@ -30,3 +30,5 @@ description: W:3 L:4 D:1 Bonus ❌
 | ✅ | 2024/02/02 | 1-0 | ["ПОБЕДА"](https://ws.tsl.rocks/corp/6e278fab01265655262e413d267a6cf9ac06840a6e4ee0a61cd5662657f2bab0/) |
 
 Corporation ID: 4cecdcd329a545deb9c2a292081f9220114f37e845dbea6dd1ec326390e296dd
+
+[Hades' Star](https://www.hadesstar.com)

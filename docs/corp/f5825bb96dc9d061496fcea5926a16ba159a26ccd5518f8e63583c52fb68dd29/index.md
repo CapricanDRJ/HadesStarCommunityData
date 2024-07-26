@@ -60,3 +60,5 @@ description: W:13 L:18 D:1 Bonus ✅
 | ✅ | 2024/03/21 | 3-0 | [The Allegiant](https://ws.tsl.rocks/corp/1c4cfbcf7902769aff100297d9174153f4c0528ed07918ba494f763a1315ffc6/) |
 
 Corporation ID: f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29
+
+[Hades' Star](https://www.hadesstar.com)

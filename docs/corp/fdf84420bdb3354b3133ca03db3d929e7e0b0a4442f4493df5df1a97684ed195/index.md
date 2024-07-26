@@ -25,3 +25,5 @@ description: W:2 L:0 D:0 Bonus ❌
 | ✅ | 2023/12/24 | 9-4 | [Death Star llc\.](https://ws.tsl.rocks/corp/3dd4906939827fa7537a3e95f8d75948c06b75a98f3c4aab253ea79857d2ce81/) |
 
 Corporation ID: fdf84420bdb3354b3133ca03db3d929e7e0b0a4442f4493df5df1a97684ed195
+
+[Hades' Star](https://www.hadesstar.com)

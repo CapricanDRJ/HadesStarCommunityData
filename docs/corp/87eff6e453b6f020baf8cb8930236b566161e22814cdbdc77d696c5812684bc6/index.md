@@ -63,3 +63,5 @@ description: W:5 L:30 D:0 Bonus ❌
 | ✅ | 2023/11/06 | 12-0 | [Anarchy](https://ws.tsl.rocks/corp/fdd5421d762b9a1a1cc622f446bcd1a43a5dc52d6eeae3b903cc90fa349cb864/) |
 
 Corporation ID: 87eff6e453b6f020baf8cb8930236b566161e22814cdbdc77d696c5812684bc6
+
+[Hades' Star](https://www.hadesstar.com)

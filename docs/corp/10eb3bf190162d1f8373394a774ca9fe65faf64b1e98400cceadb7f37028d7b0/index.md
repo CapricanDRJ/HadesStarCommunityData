@@ -42,3 +42,5 @@ description: W:4 L:11 D:1 Bonus ❌
 | ✅ | 2023/11/11 | 3-1 | [Pumpkin](https://ws.tsl.rocks/corp/efa17e148ea5fe049a047ba668074b663c53eb9f51a75a24c52fd03fde5e253a/) |
 
 Corporation ID: 10eb3bf190162d1f8373394a774ca9fe65faf64b1e98400cceadb7f37028d7b0
+
+[Hades' Star](https://www.hadesstar.com)

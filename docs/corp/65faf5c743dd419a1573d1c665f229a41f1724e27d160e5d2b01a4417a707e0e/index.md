@@ -70,3 +70,5 @@ description: W:18 L:19 D:1 Bonus ✅
 | ❌ | 2023/11/10 | 1-30 | [Outland Ind\.](https://ws.tsl.rocks/corp/94cb8827caef9b4b1839113abd29145a128d0c1e108c3984bcf7620dd7fca464/) |
 
 Corporation ID: 65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e
+
+[Hades' Star](https://www.hadesstar.com)

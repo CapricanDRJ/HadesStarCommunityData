@@ -33,3 +33,5 @@ description: W:10 L:0 D:0 Bonus ✅
 | ✅ | 2024/05/18 | 15-0 | [Nebula](https://ws.tsl.rocks/corp/38bd8c92bc5f2d4ff240d58da260855d87eb4c2c4a241735c5d72215d4a191fb/) |
 
 Corporation ID: 9d1a50e524f7abc0623ab7e010875dfcce9e5682a06ebc4aee47e972d258493c
+
+[Hades' Star](https://www.hadesstar.com)

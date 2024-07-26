@@ -94,3 +94,5 @@ description: W:29 L:33 D:0 Bonus ❌
 | ❌ | 2023/11/08 | 3-9 | [Glashan](https://ws.tsl.rocks/corp/48b9fa3df8bbc6ce4a8455e9b923f28c0eccb8054c9f72e9c14e6acfee5a23a4/) |
 
 Corporation ID: eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805
+
+[Hades' Star](https://www.hadesstar.com)

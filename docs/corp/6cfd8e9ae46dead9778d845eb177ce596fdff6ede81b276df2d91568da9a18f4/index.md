@@ -26,3 +26,5 @@ description: W:1 L:4 D:0 Bonus ❌
 | ❌ | 2023/11/17 | 18-32 | [Ironbear Legion](https://ws.tsl.rocks/corp/256873683be88bf78e3d4f1fda68e669c8be11e78a85f9add19e60facc9831b0/) |
 
 Corporation ID: 6cfd8e9ae46dead9778d845eb177ce596fdff6ede81b276df2d91568da9a18f4
+
+[Hades' Star](https://www.hadesstar.com)

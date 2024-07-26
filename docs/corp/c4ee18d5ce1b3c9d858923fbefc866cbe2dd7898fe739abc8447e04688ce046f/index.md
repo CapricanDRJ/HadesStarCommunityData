@@ -25,3 +25,5 @@ description: W:0 L:4 D:0 Bonus ❌
 | ❌ | 2024/03/23 | 5-20 | [OntarioDawn](https://ws.tsl.rocks/corp/1a002c71f3aba5da5918941fa2ba4dbbfc183ad52d97d44a25718e07e6b08a03/) |
 
 Corporation ID: c4ee18d5ce1b3c9d858923fbefc866cbe2dd7898fe739abc8447e04688ce046f
+
+[Hades' Star](https://www.hadesstar.com)

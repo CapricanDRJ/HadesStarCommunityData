@@ -41,3 +41,5 @@ description: W:6 L:6 D:2 Bonus ❌
 | ✅ | 2024/04/02 | 10-3 | [U\.Y\.E\.U\.](https://ws.tsl.rocks/corp/504f779e55c2d1bc5ff35b4540c0bb60421bd8bce70c3eb0caf45fd73915ec86/) |
 
 Corporation ID: 85422294545c4561b468821bbbbe277a0d7f09c6ab45fedb2a43cbaa36d32f63
+
+[Hades' Star](https://www.hadesstar.com)

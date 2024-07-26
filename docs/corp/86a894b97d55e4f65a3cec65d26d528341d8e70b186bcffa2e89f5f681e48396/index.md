@@ -68,3 +68,5 @@ description: W:26 L:11 D:1 Bonus ✅
 | ✅ | 2023/11/06 | 3-0 | [Heavenly Star ](https://ws.tsl.rocks/corp/c13cd1bfbb39661dd85e6c537f8ab409ce480e4f3db2b2e6ca8308507cf137eb/) |
 
 Corporation ID: 86a894b97d55e4f65a3cec65d26d528341d8e70b186bcffa2e89f5f681e48396
+
+[Hades' Star](https://www.hadesstar.com)

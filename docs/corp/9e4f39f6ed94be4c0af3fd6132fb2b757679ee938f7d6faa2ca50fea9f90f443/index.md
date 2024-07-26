@@ -27,3 +27,5 @@ description: W:0 L:4 D:2 Bonus ❌
 | ❌ | 2024/02/13 | 0-1 | [Warriors](https://ws.tsl.rocks/corp/5f7939d9e637fca46378b31a0bc98715e317da22c2a819707276e7d779044d83/) |
 
 Corporation ID: 9e4f39f6ed94be4c0af3fd6132fb2b757679ee938f7d6faa2ca50fea9f90f443
+
+[Hades' Star](https://www.hadesstar.com)

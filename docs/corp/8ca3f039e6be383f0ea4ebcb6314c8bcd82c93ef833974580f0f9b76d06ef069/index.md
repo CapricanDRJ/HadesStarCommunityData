@@ -31,3 +31,5 @@ description: W:8 L:0 D:0 Bonus ❌
 | ✅ | 2023/11/11 | 36-7 | [Free Thinkers 2](https://ws.tsl.rocks/corp/9fc879b45c4053ac93d6eebdb14d856a828df8fd85800df616cdd3332683a695/) |
 
 Corporation ID: 8ca3f039e6be383f0ea4ebcb6314c8bcd82c93ef833974580f0f9b76d06ef069
+
+[Hades' Star](https://www.hadesstar.com)

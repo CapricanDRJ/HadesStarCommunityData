@@ -77,3 +77,5 @@ description: W:38 L:7 D:1 Bonus ✅
 | ✅ | 2023/11/04 | 18-3 | [Das Imperium](https://ws.tsl.rocks/corp/bf80902e944e3605f5f2fe70f245c1442fa4094414322964da8200dc57c58ef0/) |
 
 Corporation ID: febd79d038ed9af667e201309060d9662ba825ba9be2b5b95418ac20a8e70c80
+
+[Hades' Star](https://www.hadesstar.com)

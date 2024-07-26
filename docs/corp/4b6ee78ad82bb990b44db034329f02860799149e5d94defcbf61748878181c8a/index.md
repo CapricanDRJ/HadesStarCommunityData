@@ -26,3 +26,5 @@ description: W:2 L:3 D:0 Bonus ❌
 | ❌ | 2023/12/25 | 3-5 | [The Elite](https://ws.tsl.rocks/corp/a2df28ce949920025afb16d0229e0c14aed7832c217d142307a62622634d395c/) |
 
 Corporation ID: 4b6ee78ad82bb990b44db034329f02860799149e5d94defcbf61748878181c8a
+
+[Hades' Star](https://www.hadesstar.com)

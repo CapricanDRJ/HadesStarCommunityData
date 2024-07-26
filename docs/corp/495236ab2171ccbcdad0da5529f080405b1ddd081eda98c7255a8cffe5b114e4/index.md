@@ -70,3 +70,5 @@ description: W:11 L:26 D:5 Bonus ❌
 | ↔️ | 2023/12/16 | 0-0 | [Red Sky](https://ws.tsl.rocks/corp/c5d615aa6be8025330917694307dea3f25210bff1c7ee2db6c0778a78e1a00d4/) |
 
 Corporation ID: 495236ab2171ccbcdad0da5529f080405b1ddd081eda98c7255a8cffe5b114e4
+
+[Hades' Star](https://www.hadesstar.com)

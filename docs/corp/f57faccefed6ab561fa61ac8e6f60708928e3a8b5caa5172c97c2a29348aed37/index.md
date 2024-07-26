@@ -53,3 +53,5 @@ description: W:6 L:19 D:2 Bonus ✅
 | ✅ | 2024/01/04 | 1-0 | [United Artists](https://ws.tsl.rocks/corp/93a82bb8d95632fd7f9abd3f024e8e9ff678aa31dec4c91872c8a4464b660686/) |
 
 Corporation ID: f57faccefed6ab561fa61ac8e6f60708928e3a8b5caa5172c97c2a29348aed37
+
+[Hades' Star](https://www.hadesstar.com)

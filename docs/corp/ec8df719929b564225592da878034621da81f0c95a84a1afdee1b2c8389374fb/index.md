@@ -29,3 +29,5 @@ description: W:5 L:1 D:0 Bonus ❌
 | ✅ | 2023/11/18 | 4-0 | [Эдельвейс](https://ws.tsl.rocks/corp/457192accaef3d494cc5929e091f05ca560778729d99966d0ab04c2d741d18a7/) |
 
 Corporation ID: ec8df719929b564225592da878034621da81f0c95a84a1afdee1b2c8389374fb
+
+[Hades' Star](https://www.hadesstar.com)

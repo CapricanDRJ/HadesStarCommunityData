@@ -23,3 +23,5 @@ description: W:0 L:2 D:0 Bonus ❌
 | ❌ | 2024/04/11 | 5-21 | [Kratos](https://ws.tsl.rocks/corp/1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b/) |
 
 Corporation ID: 49a7a7928d290fab1d2ee186755298adfde800efed6f3ef9703c06bbb4b8482d
+
+[Hades' Star](https://www.hadesstar.com)

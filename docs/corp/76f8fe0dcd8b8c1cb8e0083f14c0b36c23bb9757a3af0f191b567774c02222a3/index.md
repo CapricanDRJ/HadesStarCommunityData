@@ -60,3 +60,5 @@ description: W:15 L:13 D:1 Bonus ✅
 | ❌ | 2023/11/27 | 0-3 | [佛矿寺](https://ws.tsl.rocks/corp/64f8afd95b7004e9d5a442da55644ee3ce64a9a8e82345c458d757b527e40624/) |
 
 Corporation ID: 76f8fe0dcd8b8c1cb8e0083f14c0b36c23bb9757a3af0f191b567774c02222a3
+
+[Hades' Star](https://www.hadesstar.com)

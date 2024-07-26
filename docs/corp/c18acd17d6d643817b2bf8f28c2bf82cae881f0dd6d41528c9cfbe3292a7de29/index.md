@@ -36,3 +36,5 @@ description: W:3 L:10 D:1 Bonus ❌
 | ✅ | 2024/02/02 | 7-1 | [🌪TORNADO ](https://ws.tsl.rocks/corp/df15d02d32c67d60995e68d6c4197c23b340a0a985f04280563d8d07bd4536fa/) |
 
 Corporation ID: c18acd17d6d643817b2bf8f28c2bf82cae881f0dd6d41528c9cfbe3292a7de29
+
+[Hades' Star](https://www.hadesstar.com)

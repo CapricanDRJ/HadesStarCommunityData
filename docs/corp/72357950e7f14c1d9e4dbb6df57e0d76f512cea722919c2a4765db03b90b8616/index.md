@@ -32,3 +32,5 @@ description: W:3 L:7 D:0 Bonus ❌
 | ❌ | 2023/11/06 | 0-10 | [VENTORMENTA](https://ws.tsl.rocks/corp/0b64072b403ef687c83d4c04a4f5a20f8dd89befdaaf6ced9af64cacc2f46536/) |
 
 Corporation ID: 72357950e7f14c1d9e4dbb6df57e0d76f512cea722919c2a4765db03b90b8616
+
+[Hades' Star](https://www.hadesstar.com)

@@ -22,3 +22,5 @@ description: W:0 L:1 D:0 Bonus ❌
 | ❌ | 2024/06/19 | 3-7 | [Star Fleet](https://ws.tsl.rocks/corp/b50e0529c2b2e86bae23d0fb4cbcdc4bff7615c45efb95150747a89dd3ea0231/) |
 
 Corporation ID: 36caebb92bc1cc49fc7be123dd38469d478c6ac42831a25a4a20ba590c73631d
+
+[Hades' Star](https://www.hadesstar.com)

@@ -71,3 +71,5 @@ description: W:31 L:7 D:0 Bonus ✅
 | ✅ | 2023/11/04 | 13-5 | [혁명군](https://ws.tsl.rocks/corp/712800536cbb3ef3357a2480d86cf971596950ac499e699bb3d99f94d1c65f5f/) |
 
 Corporation ID: 0ae15c4db6dc8c3f4bf3eb6aa93bffd4ea9281b06b721ab103c0078646bfe58c
+
+[Hades' Star](https://www.hadesstar.com)

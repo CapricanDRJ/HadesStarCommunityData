@@ -23,3 +23,5 @@ description: W:0 L:2 D:0 Bonus ❌
 | ❌ | 2023/11/25 | 0-12 | [Axioma](https://ws.tsl.rocks/corp/2ec904c87d0183a49e22dc53508fa5c75d6e638e3a152a30336831697c60e91e/) |
 
 Corporation ID: e2fdd92c8c65a1319fc38e36e02c598cfba35a84770417b582cf6d8f6353d431
+
+[Hades' Star](https://www.hadesstar.com)

@@ -45,3 +45,5 @@ description: W:9 L:14 D:0 Bonus ✅
 | ✅ | 2023/12/21 | 7-0 | [JPR\. Pretorians](https://ws.tsl.rocks/corp/7144c7cdb9f369d9e56199379429b01172d00a5142f6ceda71031de9bf6e0d25/) |
 
 Corporation ID: 6cf52926568f845a630c3fba8370e8afa3a75d315af0f6d0bd891085e6e4425f
+
+[Hades' Star](https://www.hadesstar.com)

@@ -32,3 +32,5 @@ description: W:7 L:2 D:1 Bonus ❌
 | ✅ | 2023/11/23 | 16-1 | [BlankBoosters](https://ws.tsl.rocks/corp/4785b4fb166ccb4b23d12d1041a31d9b52b59e5284bdf5965805338cbc1c2e33/) |
 
 Corporation ID: f6776b51b0578a0ec96f8674d12c88c324a9e087c9053c0d42153a1a5090a665
+
+[Hades' Star](https://www.hadesstar.com)

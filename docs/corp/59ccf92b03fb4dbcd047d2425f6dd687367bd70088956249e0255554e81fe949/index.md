@@ -48,3 +48,5 @@ description: W:11 L:9 D:0 Bonus ❌
 | ✅ | 2024/04/02 | 18-0 | [喵喵喵喵喵喵喵](https://ws.tsl.rocks/corp/6b0f781319f88b96c64aa4c425eb3f834d80a1f0c3ee00918430fd71b2e5b913/) |
 
 Corporation ID: 59ccf92b03fb4dbcd047d2425f6dd687367bd70088956249e0255554e81fe949
+
+[Hades' Star](https://www.hadesstar.com)

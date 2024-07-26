@@ -26,3 +26,5 @@ description: W:3 L:0 D:0 Bonus ❌
 | ✅ | 2024/05/17 | 30-4 | [Orden Estelar ](https://ws.tsl.rocks/corp/1da0142a6cc2fcab35a82ff4d7b591f4ffa96761419c6bf39154afded7ef7c2d/) |
 
 Corporation ID: 66c873438b165344dbdac371b45825f9c818ee1e77e128f101f2660f4b0c7b70
+
+[Hades' Star](https://www.hadesstar.com)

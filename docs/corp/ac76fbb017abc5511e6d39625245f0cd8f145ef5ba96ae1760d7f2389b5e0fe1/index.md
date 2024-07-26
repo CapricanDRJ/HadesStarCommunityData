@@ -67,3 +67,5 @@ description: W:16 L:21 D:0 Bonus ✅
 | ❌ | 2023/11/07 | 7-15 | [CommCody & LPA](https://ws.tsl.rocks/corp/211f33fe81910ba6692148af7d2bc4fe851f48bec79ca579ed16aa0ca50b36bb/) |
 
 Corporation ID: ac76fbb017abc5511e6d39625245f0cd8f145ef5ba96ae1760d7f2389b5e0fe1
+
+[Hades' Star](https://www.hadesstar.com)

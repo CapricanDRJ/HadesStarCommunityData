@@ -66,3 +66,5 @@ description: W:19 L:17 D:1 Bonus ✅
 | ✅ | 2023/11/07 | 9-3 | [云霄宫](https://ws.tsl.rocks/corp/c319ac731957c1d658994ab5727dec3d0ccfdcd31b00ee66efbf07be25bdc3e1/) |
 
 Corporation ID: 6f715653bec3925d9c3acd7c2388fe8e1c79332146894ed424f57bd2636de8c7
+
+[Hades' Star](https://www.hadesstar.com)

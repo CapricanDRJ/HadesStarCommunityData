@@ -70,3 +70,5 @@ description: W:31 L:9 D:1 Bonus ✅
 | ✅ | 2023/12/08 | 3-0 | [The Order](https://ws.tsl.rocks/corp/47e04ea6552fb859893ba05d9445b972a19b6ed5d858276285ae5da39c01fa24/) |
 
 Corporation ID: 04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292
+
+[Hades' Star](https://www.hadesstar.com)

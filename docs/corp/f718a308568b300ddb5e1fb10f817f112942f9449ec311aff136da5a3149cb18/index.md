@@ -27,3 +27,5 @@ description: W:4 L:0 D:0 Bonus ❌
 | ✅ | 2023/11/18 | 17-2 | [Peak Extraction](https://ws.tsl.rocks/corp/b656a84b60d6de62745eb9059a703b44cca76b6247beeceef5f856f89e4c2d0d/) |
 
 Corporation ID: f718a308568b300ddb5e1fb10f817f112942f9449ec311aff136da5a3149cb18
+
+[Hades' Star](https://www.hadesstar.com)

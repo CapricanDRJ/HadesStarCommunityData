@@ -24,3 +24,5 @@ description: W:1 L:2 D:0 Bonus ❌
 | ❌ | 2024/01/06 | 2-3 | [Red Suns](https://ws.tsl.rocks/corp/4723a7ddfdf84d63bb4a6e897d77183874e4abd0d5f04c8c6470cb3141dd8629/) |
 
 Corporation ID: 2d28d460f549084fa8f440de8a4da35728d64c0bb2f1a8ac30e07282c5210d89
+
+[Hades' Star](https://www.hadesstar.com)

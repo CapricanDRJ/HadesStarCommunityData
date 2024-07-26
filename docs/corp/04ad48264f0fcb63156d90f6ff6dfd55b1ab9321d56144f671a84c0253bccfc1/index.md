@@ -35,3 +35,5 @@ description: W:2 L:6 D:0 Bonus ❌
 | ❌ | 2023/11/19 | 4-6 | [Galaktika corp](https://ws.tsl.rocks/corp/c37872d1ea085402bf536c707a895610f72dafda4bede848405b7908b4523985/) |
 
 Corporation ID: 04ad48264f0fcb63156d90f6ff6dfd55b1ab9321d56144f671a84c0253bccfc1
+
+[Hades' Star](https://www.hadesstar.com)

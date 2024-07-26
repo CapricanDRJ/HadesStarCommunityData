@@ -44,3 +44,5 @@ description: W:9 L:8 D:0 Bonus ❌
 | ❌ | 2023/11/26 | 6-23 | [华夏舰队](https://ws.tsl.rocks/corp/abd6d05a100ffdde2d15abd725a209bfbbf069b60b10ddeac88e88da66191472/) |
 
 Corporation ID: 2dd3aee3667c5c190079cc378773d809ece1b146bc0a16fce6c46663fc3b6992
+
+[Hades' Star](https://www.hadesstar.com)

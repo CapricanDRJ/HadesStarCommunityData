@@ -36,3 +36,5 @@ description: W:2 L:6 D:1 Bonus ❌
 | ✅ | 2023/11/22 | 7-3 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
 
 Corporation ID: 971e3a487a950dbde1067e4f0940bb1a0833adf91cdf11c73cef69b362b45c4a
+
+[Hades' Star](https://www.hadesstar.com)

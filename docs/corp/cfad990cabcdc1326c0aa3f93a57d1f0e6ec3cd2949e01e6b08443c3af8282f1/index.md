@@ -58,3 +58,5 @@ description: W:13 L:14 D:1 Bonus ❌
 | ❌ | 2023/12/11 | 5-48 | [Auscorp ](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) |
 
 Corporation ID: cfad990cabcdc1326c0aa3f93a57d1f0e6ec3cd2949e01e6b08443c3af8282f1
+
+[Hades' Star](https://www.hadesstar.com)

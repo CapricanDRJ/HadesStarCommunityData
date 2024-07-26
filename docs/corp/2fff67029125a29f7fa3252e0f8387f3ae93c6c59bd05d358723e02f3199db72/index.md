@@ -64,3 +64,5 @@ description: W:9 L:25 D:0 Bonus ❌
 | ❌ | 2023/11/08 | 5-13 | [Алый Феникс](https://ws.tsl.rocks/corp/ef2a58ee1052c616143ee1bf5e380609a7c061c603d10775b81563869a44433f/) |
 
 Corporation ID: 2fff67029125a29f7fa3252e0f8387f3ae93c6c59bd05d358723e02f3199db72
+
+[Hades' Star](https://www.hadesstar.com)

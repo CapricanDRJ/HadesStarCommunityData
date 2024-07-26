@@ -25,3 +25,5 @@ description: W:0 L:4 D:0 Bonus ❌
 | ❌ | 2023/11/08 | 0-18 | [Lacuna X](https://ws.tsl.rocks/corp/fb10f33f3db17b99b0d227f17e7fde76ef067dc4a4bb4ae05e46c76d2e5e8ea1/) |
 
 Corporation ID: 4e21eaedc914a082c3bbb48fc00a00db0993fa6da46c25db658dfdc2857e7eb9
+
+[Hades' Star](https://www.hadesstar.com)

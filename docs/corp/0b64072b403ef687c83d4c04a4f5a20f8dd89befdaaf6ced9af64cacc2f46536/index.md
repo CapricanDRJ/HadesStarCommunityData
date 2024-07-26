@@ -27,3 +27,5 @@ description: W:3 L:1 D:1 Bonus ❌
 | ✅ | 2023/11/06 | 10-0 | [cyber\_dream](https://ws.tsl.rocks/corp/72357950e7f14c1d9e4dbb6df57e0d76f512cea722919c2a4765db03b90b8616/) |
 
 Corporation ID: 0b64072b403ef687c83d4c04a4f5a20f8dd89befdaaf6ced9af64cacc2f46536
+
+[Hades' Star](https://www.hadesstar.com)

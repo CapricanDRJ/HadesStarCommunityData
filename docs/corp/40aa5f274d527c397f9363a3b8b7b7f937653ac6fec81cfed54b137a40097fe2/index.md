@@ -23,3 +23,5 @@ description: W:0 L:2 D:0 Bonus ❌
 | ❌ | 2024/05/09 | 0-21 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
 
 Corporation ID: 40aa5f274d527c397f9363a3b8b7b7f937653ac6fec81cfed54b137a40097fe2
+
+[Hades' Star](https://www.hadesstar.com)

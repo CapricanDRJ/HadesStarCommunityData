@@ -27,3 +27,5 @@ description: W:0 L:4 D:2 Bonus ❌
 | ❌ | 2024/01/27 | 2-4 | [Ukr alliance ](https://ws.tsl.rocks/corp/0eb13755b8906344c0af35f3d63b7cc0ecebf80877f327f78b1e40aded41ca7c/) |
 
 Corporation ID: b704373fcf3fd41b81214bd5802cc28b31cab2e01bafd23e0fc199cbce934109
+
+[Hades' Star](https://www.hadesstar.com)

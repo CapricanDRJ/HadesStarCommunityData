@@ -60,3 +60,5 @@ description: W:16 L:13 D:1 Bonus ❌
 | ❌ | 2023/11/28 | 0-10 | [Capibarius](https://ws.tsl.rocks/corp/9a46f3159020b842ed9bb062f7dbef2a5acb1337fbdc1c4a5374233c44a4ffab/) |
 
 Corporation ID: 1bbc4390e9fa60fe312b23c8fa8d8f9eb499307607a4c3304e33bd05bd58f981
+
+[Hades' Star](https://www.hadesstar.com)

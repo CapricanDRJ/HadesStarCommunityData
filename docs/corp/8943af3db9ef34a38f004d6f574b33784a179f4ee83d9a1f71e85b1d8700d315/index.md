@@ -27,3 +27,5 @@ description: W:1 L:5 D:0 Bonus ❌
 | ❌ | 2023/11/04 | 4-20 | [Revólver](https://ws.tsl.rocks/corp/2560247b1d9fc0ccccf6a9740f3e7cd5d0ebb66444a27e2a259906a476903a45/) |
 
 Corporation ID: 8943af3db9ef34a38f004d6f574b33784a179f4ee83d9a1f71e85b1d8700d315
+
+[Hades' Star](https://www.hadesstar.com)

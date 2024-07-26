@@ -26,3 +26,5 @@ description: W:3 L:0 D:0 Bonus ✅
 | ✅ | 2023/12/17 | 3-0 | [第一基地·端点星](https://ws.tsl.rocks/corp/8ca1d48f76f54d7c1ccc21058960d5ebdebf2794ceebd71d701d4d3eca557489/) |
 
 Corporation ID: 3bc45b26e12a26f4a564473f04ec6d044b2fe0dd52486e45348dfd8a10340fe7
+
+[Hades' Star](https://www.hadesstar.com)

@@ -62,3 +62,5 @@ description: W:15 L:19 D:0 Bonus ❌
 | ✅ | 2023/11/04 | 21-4 | [Curiosity \+ Cat](https://ws.tsl.rocks/corp/c2982821577254a4ce2d996f53a2391f6f059ff79bbb14c29f9463269b4beebf/) |
 
 Corporation ID: f7afefdba007366512764be38eb9c404704e5d4de919e7df2b17560324bbb56f
+
+[Hades' Star](https://www.hadesstar.com)

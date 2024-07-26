@@ -31,3 +31,5 @@ description: W:7 L:2 D:0 Bonus ❌
 | ❌ | 2024/01/14 | 12-22 | [Unión latina](https://ws.tsl.rocks/corp/9919a50d277644f496c19d5becdf40abb251d000345f049632329f0b35b7fbf1/) |
 
 Corporation ID: d3df4ca63632d4113f93581cd3629f93a8b06733db25c5ea94da3e7889cd8b94
+
+[Hades' Star](https://www.hadesstar.com)

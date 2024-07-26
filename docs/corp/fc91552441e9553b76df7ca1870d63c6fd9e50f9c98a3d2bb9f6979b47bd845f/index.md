@@ -49,3 +49,5 @@ description: W:10 L:9 D:0 Bonus ❌
 | ❌ | 2023/11/10 | 25-34 | [Deadspace](https://ws.tsl.rocks/corp/45fc2bf2d1b40361071590e427fa47116d4e5e063064d17ed9933bbd61f04369/) |
 
 Corporation ID: fc91552441e9553b76df7ca1870d63c6fd9e50f9c98a3d2bb9f6979b47bd845f
+
+[Hades' Star](https://www.hadesstar.com)

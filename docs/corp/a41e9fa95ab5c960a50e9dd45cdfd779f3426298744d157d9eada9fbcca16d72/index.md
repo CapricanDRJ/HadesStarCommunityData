@@ -23,3 +23,5 @@ description: W:0 L:2 D:0 Bonus ❌
 | ❌ | 2023/11/16 | 0-17 | [代代守护你的神明](https://ws.tsl.rocks/corp/6960f4c6ded90a45fd53df8d3d1b3cf4576ceb471ab4dc9b6931f04c6ea5ac9c/) |
 
 Corporation ID: a41e9fa95ab5c960a50e9dd45cdfd779f3426298744d157d9eada9fbcca16d72
+
+[Hades' Star](https://www.hadesstar.com)

@@ -45,3 +45,5 @@ description: W:13 L:9 D:0 Bonus ✅
 | ❌ | 2023/11/05 | 20-35 | [Orion](https://ws.tsl.rocks/corp/3d5598faa0e14983b9b97d4a0fe14d2a611045dea7e68f22834d7038493c8f39/) |
 
 Corporation ID: 7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc
+
+[Hades' Star](https://www.hadesstar.com)

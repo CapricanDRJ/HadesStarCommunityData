@@ -76,3 +76,5 @@ description: W:15 L:30 D:3 Bonus ❌
 | ✅ | 2023/11/07 | 6-4 | [Red Star Corp\.](https://ws.tsl.rocks/corp/7ac87486823e26635a2f3887927b19b3a14a7875d38042200045204c418d9ac1/) |
 
 Corporation ID: d8de6fa1ed53aeb856209de01d8a990a562d7438e0abe2cfe50776bb11345f17
+
+[Hades' Star](https://www.hadesstar.com)

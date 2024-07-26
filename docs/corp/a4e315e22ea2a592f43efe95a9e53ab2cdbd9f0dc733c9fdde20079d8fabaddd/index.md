@@ -27,3 +27,5 @@ description: W:4 L:0 D:0 Bonus ❌
 | ✅ | 2024/03/31 | 12-0 | [Eretria ](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |
 
 Corporation ID: a4e315e22ea2a592f43efe95a9e53ab2cdbd9f0dc733c9fdde20079d8fabaddd
+
+[Hades' Star](https://www.hadesstar.com)

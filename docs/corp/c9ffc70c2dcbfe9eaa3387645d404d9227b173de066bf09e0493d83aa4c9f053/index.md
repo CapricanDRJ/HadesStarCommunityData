@@ -47,3 +47,5 @@ description: W:10 L:9 D:1 Bonus ❌
 | ❌ | 2024/01/05 | 4-18 | [Black Star llc\.](https://ws.tsl.rocks/corp/f6cd5aed527efed3a402f931784d68b5b7201b317118a60bd3d81b551ee87330/) |
 
 Corporation ID: c9ffc70c2dcbfe9eaa3387645d404d9227b173de066bf09e0493d83aa4c9f053
+
+[Hades' Star](https://www.hadesstar.com)

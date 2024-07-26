@@ -25,3 +25,5 @@ description: W:1 L:2 D:1 Bonus ❌
 | ↔️ | 2024/01/23 | 22-22 | [Black Sun](https://ws.tsl.rocks/corp/696ca774d5aafa8bb17ba1f82e16b8751b9775c85e733177827be58093cd7b9e/) |
 
 Corporation ID: 61bb19b2ab1d13a5831808e0f06d417d74a87fc04d235e3ec7c429f89693465b
+
+[Hades' Star](https://www.hadesstar.com)

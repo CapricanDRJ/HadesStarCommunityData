@@ -24,3 +24,5 @@ description: W:0 L:3 D:0 Bonus ❌
 | ❌ | 2024/01/26 | 0-23 | [Germania](https://ws.tsl.rocks/corp/e088c9a1e761ef8c1f07a1d374886006b0ecace15d07b9549e3655729b630897/) |
 
 Corporation ID: 237f60ced9a11f8d992fe2158784705710b2ff412544679b218d86ef44d230ef
+
+[Hades' Star](https://www.hadesstar.com)

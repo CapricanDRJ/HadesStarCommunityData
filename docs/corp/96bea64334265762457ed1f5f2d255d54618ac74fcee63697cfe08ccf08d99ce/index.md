@@ -33,3 +33,5 @@ description: W:3 L:3 D:0 Bonus ❌
 | ❌ | 2023/11/11 | 11-12 | [Embers Rising](https://ws.tsl.rocks/corp/30173fb6f0cf7a6d78f30c60350646ad6bc0d667a14854bdc9abbc19cd7d0327/) |
 
 Corporation ID: 96bea64334265762457ed1f5f2d255d54618ac74fcee63697cfe08ccf08d99ce
+
+[Hades' Star](https://www.hadesstar.com)

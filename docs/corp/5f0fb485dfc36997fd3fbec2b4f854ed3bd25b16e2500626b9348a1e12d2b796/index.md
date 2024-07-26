@@ -23,3 +23,5 @@ description: W:0 L:1 D:1 Bonus ❌
 | ❌ | 2024/05/31 | 0-11 | [第四星际](https://ws.tsl.rocks/corp/42d38d5f95c493cb1822f0c89a5366e532a9dc30c0019e03cf7ddd280bf55040/) |
 
 Corporation ID: 5f0fb485dfc36997fd3fbec2b4f854ed3bd25b16e2500626b9348a1e12d2b796
+
+[Hades' Star](https://www.hadesstar.com)

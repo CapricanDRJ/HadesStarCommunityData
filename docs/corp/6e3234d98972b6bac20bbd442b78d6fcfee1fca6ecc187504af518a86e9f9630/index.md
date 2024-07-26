@@ -24,3 +24,5 @@ description: W:1 L:2 D:0 Bonus ❌
 | ❌ | 2023/12/24 | 0-6 | [Survivors](https://ws.tsl.rocks/corp/10eb3bf190162d1f8373394a774ca9fe65faf64b1e98400cceadb7f37028d7b0/) |
 
 Corporation ID: 6e3234d98972b6bac20bbd442b78d6fcfee1fca6ecc187504af518a86e9f9630
+
+[Hades' Star](https://www.hadesstar.com)

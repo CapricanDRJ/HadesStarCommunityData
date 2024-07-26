@@ -26,3 +26,5 @@ description: W:0 L:5 D:0 Bonus ❌
 | ❌ | 2023/11/17 | 0-30 | [Space Marshalls](https://ws.tsl.rocks/corp/6a41cc36abf3a28a1c26bc22843f1892d6938e8eb1e8f8a10fd9e6e964e06c2c/) |
 
 Corporation ID: f5cb2c2ba88483bac00f814e32a0d862e4f3a0a10cc614b33ecb9e846766aae0
+
+[Hades' Star](https://www.hadesstar.com)

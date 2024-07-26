@@ -27,3 +27,5 @@ description: W:1 L:3 D:2 Bonus ❌
 | ↔️ | 2024/04/05 | 3-3 | [德意志第三帝国奥米加分部](https://ws.tsl.rocks/corp/b5f35e30b2dea2621e854b5011a9f9d07ca3585cd26bd9ac92aa7b06c0a522b1/) |
 
 Corporation ID: 3b211025fcbe576d520e8578c3401eada522804972c60553a3e2d04224fcb214
+
+[Hades' Star](https://www.hadesstar.com)

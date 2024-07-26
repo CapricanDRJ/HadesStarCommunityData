@@ -39,3 +39,5 @@ description: W:6 L:7 D:0 Bonus ✅
 | ✅ | 2024/01/17 | 9-5 | [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) |
 
 Corporation ID: d647d722a09f020b716e059ac7758172a560c7190ac4d7d306c4ede8be6c5e77
+
+[Hades' Star](https://www.hadesstar.com)

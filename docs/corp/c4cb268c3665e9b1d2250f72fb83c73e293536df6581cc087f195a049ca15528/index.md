@@ -40,3 +40,5 @@ description: W:13 L:5 D:0 Bonus ❌
 | ✅ | 2023/11/07 | 9-0 | [Darknova](https://ws.tsl.rocks/corp/2badefc535747c4b2d431ed2e3d48983575a349ac4d5c361576a24521b0accf7/) |
 
 Corporation ID: c4cb268c3665e9b1d2250f72fb83c73e293536df6581cc087f195a049ca15528
+
+[Hades' Star](https://www.hadesstar.com)

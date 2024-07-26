@@ -31,3 +31,5 @@ description: W:7 L:2 D:0 Bonus ❌
 | ✅ | 2023/11/06 | 16-1 | [Poison Nebula](https://ws.tsl.rocks/corp/feb1dc461f9c203db7bce2a50fa4cd3f3a4734e66b02c9b74b000880b667c8a7/) |
 
 Corporation ID: 5779c7241b1f516fefec667bf95a9d1e0db38d307d559e1491b4f3a7fcd720f8
+
+[Hades' Star](https://www.hadesstar.com)

@@ -33,3 +33,5 @@ description: W:2 L:9 D:1 Bonus ❌
 | ❌ | 2024/01/11 | 0-2 | [Mecha Armada](https://ws.tsl.rocks/corp/ab15337bbf806c866d0d0d0e38fcc36569311fcd8ddabd18f8e938df434dc752/) |
 
 Corporation ID: 4f4d16d4a152e144c7bddd46c7d63debbbd550fdae5fe720860a334546330de2
+
+[Hades' Star](https://www.hadesstar.com)

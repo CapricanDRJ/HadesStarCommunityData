@@ -89,3 +89,5 @@ description: W:27 L:30 D:1 Bonus ❌
 | ✅ | 2023/11/05 | 7-0 | [自由星际联盟](https://ws.tsl.rocks/corp/933277ff64041b32fe12e4e564e2064071377343596c7944fb8c145165e2ab04/) |
 
 Corporation ID: 48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6
+
+[Hades' Star](https://www.hadesstar.com)

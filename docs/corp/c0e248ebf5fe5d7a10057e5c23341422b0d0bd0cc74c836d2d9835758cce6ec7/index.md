@@ -33,3 +33,5 @@ description: W:3 L:9 D:0 Bonus ❌
 | ✅ | 2023/11/18 | 11-6 | [绛紫星](https://ws.tsl.rocks/corp/8c2109279ceb01bcca0aa5e85c151d5877831ac54199285743750e2ed343b407/) |
 
 Corporation ID: c0e248ebf5fe5d7a10057e5c23341422b0d0bd0cc74c836d2d9835758cce6ec7
+
+[Hades' Star](https://www.hadesstar.com)

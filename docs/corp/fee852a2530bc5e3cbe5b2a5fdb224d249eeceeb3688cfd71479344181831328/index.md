@@ -77,3 +77,5 @@ description: W:27 L:17 D:1 Bonus ✅
 | ✅ | 2023/11/04 | 20-17 | [GermanSpaceUno\.](https://ws.tsl.rocks/corp/47482f042b35cecaaaf58ee05b6672bab3c49469b039f75f304535ffd2d02491/) |
 
 Corporation ID: fee852a2530bc5e3cbe5b2a5fdb224d249eeceeb3688cfd71479344181831328
+
+[Hades' Star](https://www.hadesstar.com)

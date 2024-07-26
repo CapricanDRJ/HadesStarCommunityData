@@ -27,3 +27,5 @@ description: W:0 L:6 D:0 Bonus ❌
 | ❌ | 2024/02/12 | 0-39 | [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b/) |
 
 Corporation ID: 957f987a0920391d39769d5b2540f55eb7102778a12d395599ed7a4a7985e342
+
+[Hades' Star](https://www.hadesstar.com)

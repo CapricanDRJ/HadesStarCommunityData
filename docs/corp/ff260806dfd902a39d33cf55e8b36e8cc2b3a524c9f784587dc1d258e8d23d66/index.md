@@ -23,3 +23,5 @@ description: W:0 L:2 D:0 Bonus ❌
 | ❌ | 2024/04/30 | 0-1 | [深空补给港](https://ws.tsl.rocks/corp/6113fcbe4739d68f06b6a167df2788aa4582546dd0e0de38a088dd7797e0b501/) |
 
 Corporation ID: ff260806dfd902a39d33cf55e8b36e8cc2b3a524c9f784587dc1d258e8d23d66
+
+[Hades' Star](https://www.hadesstar.com)

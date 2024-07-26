@@ -86,3 +86,5 @@ description: W:24 L:27 D:5 Bonus ❌
 | ❌ | 2023/11/11 | 1-5 | [Veil of Maya](https://ws.tsl.rocks/corp/5f994f185c0d8bc015c42fcbe8655c6cf2ff0c8d0a37c08f1ce54dbc97dd1ce3/) |
 
 Corporation ID: 0372d45acdd50729ec92e18f0e973f382362ae554f8d15778250b493e887cce2
+
+[Hades' Star](https://www.hadesstar.com)

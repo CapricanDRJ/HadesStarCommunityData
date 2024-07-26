@@ -45,3 +45,5 @@ description: W:2 L:16 D:0 Bonus ❌
 | ❌ | 2023/11/28 | 2-4 | [Enigma](https://ws.tsl.rocks/corp/b090292814af4e2f0c44d130ddd9ef8f56c0f42990900a3bb4f8ae48970c907d/) |
 
 Corporation ID: 304ad360ced8ec5a0e12a9955f3dd8f8ac2476f48d98a379beda41221e5a1c1c
+
+[Hades' Star](https://www.hadesstar.com)

@@ -30,3 +30,5 @@ description: W:4 L:4 D:0 Bonus ✅
 | ❌ | 2024/06/19 | 7-8 | [Север РусКорп](https://ws.tsl.rocks/corp/39eeae12a2a5fead3330938b8f38c71aab465634b732303dad7b2a7d5f472004/) |
 
 Corporation ID: 88e828c55c07286950a3296b00ca2a7a9cc2f1a0139e9cf4c6e54229f821e952
+
+[Hades' Star](https://www.hadesstar.com)

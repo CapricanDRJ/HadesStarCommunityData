@@ -48,3 +48,5 @@ description: W:8 L:12 D:0 Bonus ❌
 | ❌ | 2024/02/10 | 8-23 | [Atlas Star llc\.](https://ws.tsl.rocks/corp/3de5259ba12509e4d02854f1414caacf3d0aaaf79f417b9d843ff20ca35863dd/) |
 
 Corporation ID: 9c909737404c072239b33c57ec002c06c45552ec1b97fe1d07eb95090e2346a8
+
+[Hades' Star](https://www.hadesstar.com)

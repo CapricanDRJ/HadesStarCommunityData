@@ -37,3 +37,5 @@ description: W:5 L:3 D:2 Bonus ✅
 | ❌ | 2024/06/23 | 3-18 | [星河绮梦](https://ws.tsl.rocks/corp/ec0d7f12f69610e8f68f4ea0af9698755a0a1435e0845c27c47fcbec0b1b672a/) |
 
 Corporation ID: 67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c
+
+[Hades' Star](https://www.hadesstar.com)

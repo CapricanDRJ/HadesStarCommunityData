@@ -41,3 +41,5 @@ description: W:8 L:5 D:0 Bonus ✅
 | ❌ | 2023/12/09 | 26-33 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) |
 
 Corporation ID: 8ceac360859239e9b9386b5e4a0c3d3c7e75941b010804ab8b405d9eb6f806f6
+
+[Hades' Star](https://www.hadesstar.com)

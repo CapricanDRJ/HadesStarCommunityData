@@ -34,3 +34,5 @@ description: W:2 L:6 D:0 Bonus ❌
 | ✅ | 2023/11/09 | 2-0 | [萌新收留所（目标门集团）](https://ws.tsl.rocks/corp/2da742f44420592cb720952b293609aded2a2858e7458e692ec54fc989c017a8/) |
 
 Corporation ID: 11f216ded6a66748fec41f81ff0eae46ed3f149e39301e31c7977db9897e7d21
+
+[Hades' Star](https://www.hadesstar.com)

@@ -41,3 +41,5 @@ description: W:9 L:8 D:2 Bonus ❌
 | ↔️ | 2023/12/01 | 1-1 | [Union premiun](https://ws.tsl.rocks/corp/378842e94d703234b3bbe2f660cbf69180d547b32d4453bc3ca14e7729b3485c/) |
 
 Corporation ID: 2b046351c951cf9e05492ee383c44783b21c628831f51b1a04c9e5404b9b9fa3
+
+[Hades' Star](https://www.hadesstar.com)

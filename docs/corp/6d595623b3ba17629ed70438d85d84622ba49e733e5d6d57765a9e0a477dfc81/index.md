@@ -89,3 +89,5 @@ description: W:32 L:27 D:1 Bonus ✅
 | ✅ | 2024/01/12 | 6-0 | [Consortium](https://ws.tsl.rocks/corp/2d28d460f549084fa8f440de8a4da35728d64c0bb2f1a8ac30e07282c5210d89/) |
 
 Corporation ID: 6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81
+
+[Hades' Star](https://www.hadesstar.com)

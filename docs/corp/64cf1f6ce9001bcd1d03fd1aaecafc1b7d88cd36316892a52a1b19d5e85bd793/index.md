@@ -80,3 +80,5 @@ description: W:25 L:23 D:1 Bonus ✅
 | ✅ | 2023/12/07 | 18-0 | [TITANS](https://ws.tsl.rocks/corp/99cb7335e71fb4b435cc1929b77308ae522773aee201cf5fdfc4b8e6edf54f36/) |
 
 Corporation ID: 64cf1f6ce9001bcd1d03fd1aaecafc1b7d88cd36316892a52a1b19d5e85bd793
+
+[Hades' Star](https://www.hadesstar.com)

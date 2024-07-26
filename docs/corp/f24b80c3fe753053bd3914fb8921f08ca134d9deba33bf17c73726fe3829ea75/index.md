@@ -27,3 +27,5 @@ description: W:3 L:1 D:1 Bonus ❌
 | ↔️ | 2023/12/28 | 3-3 | [Southall 1](https://ws.tsl.rocks/corp/b615ea00c3e44a9d96f23866b145a9523aa4915b68b2d8852edc202d67dea0da/) |
 
 Corporation ID: f24b80c3fe753053bd3914fb8921f08ca134d9deba33bf17c73726fe3829ea75
+
+[Hades' Star](https://www.hadesstar.com)

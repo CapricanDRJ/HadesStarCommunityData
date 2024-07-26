@@ -66,3 +66,5 @@ description: W:27 L:9 D:0 Bonus ✅
 | ❌ | 2023/11/06 | 5-6 | [\*ПОБЕДА\*](https://ws.tsl.rocks/corp/c9344587a3a2eebd04e53ff77956ff301455851bee490e93f5b62d94bf0a6cb1/) |
 
 Corporation ID: d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1
+
+[Hades' Star](https://www.hadesstar.com)

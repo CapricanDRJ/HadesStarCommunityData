@@ -60,3 +60,5 @@ description: W:17 L:14 D:0 Bonus ✅
 | ✅ | 2024/03/12 | 3-0 | [The Gladiators](https://ws.tsl.rocks/corp/4aa9000c49c8a988df27932c5a5840800303bdb713ef35f9d207a4da7f6b0337/) |
 
 Corporation ID: 4dacc02ca314ab864578421db538b0eb10b0c8c81dc0edd91c5090717d087c7f
+
+[Hades' Star](https://www.hadesstar.com)

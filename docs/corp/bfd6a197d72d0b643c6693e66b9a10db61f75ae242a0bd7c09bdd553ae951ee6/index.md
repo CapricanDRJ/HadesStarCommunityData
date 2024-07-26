@@ -37,3 +37,5 @@ description: W:5 L:10 D:0 Bonus ❌
 | ✅ | 2023/11/05 | 13-1 | [神圣罗马帝国](https://ws.tsl.rocks/corp/2a71af44aaef82175cd8dfd86c9e3f218a438a7c7e748bae20d8a0d964a984ab/) |
 
 Corporation ID: bfd6a197d72d0b643c6693e66b9a10db61f75ae242a0bd7c09bdd553ae951ee6
+
+[Hades' Star](https://www.hadesstar.com)

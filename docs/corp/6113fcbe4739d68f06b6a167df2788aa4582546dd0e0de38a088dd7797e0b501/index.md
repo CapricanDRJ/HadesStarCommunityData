@@ -35,3 +35,5 @@ description: W:2 L:12 D:0 Bonus ❌
 | ❌ | 2023/11/12 | 20-24 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) |
 
 Corporation ID: 6113fcbe4739d68f06b6a167df2788aa4582546dd0e0de38a088dd7797e0b501
+
+[Hades' Star](https://www.hadesstar.com)

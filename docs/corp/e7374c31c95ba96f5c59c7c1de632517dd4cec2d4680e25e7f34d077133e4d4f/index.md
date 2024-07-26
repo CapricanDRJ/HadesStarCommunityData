@@ -105,3 +105,5 @@ description: W:30 L:36 D:2 Bonus ✅
 | ❌ | 2023/11/04 | 0-23 | [Gemini Ind\.](https://ws.tsl.rocks/corp/c85dd45ed75136d750bdcc2d83740494dea9e0ba077eac1bbb2f1a442a92674c/) |
 
 Corporation ID: e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f
+
+[Hades' Star](https://www.hadesstar.com)

@@ -53,3 +53,5 @@ description: W:9 L:17 D:0 Bonus ❌
 | ❌ | 2023/11/06 | 7-14 | [Tortuga Station](https://ws.tsl.rocks/corp/1949155927acf9605d444d26b75b36fdd72656a54c70c4e5d8bb208e025cbfb4/) |
 
 Corporation ID: 49f9afe365665b0d622f99306a23e7a2ebd9cf7022ee79c25e08917977ab9d7a
+
+[Hades' Star](https://www.hadesstar.com)

@@ -23,3 +23,5 @@ description: W:0 L:2 D:0 Bonus ❌
 | ❌ | 2024/05/09 | 0-41 | [Spica​](https://ws.tsl.rocks/corp/df96d6d34c4906312183050c8aa7a502678ab2902b7c23112aa9fda827bb4191/) |
 
 Corporation ID: 8b23b08409bdebed03646b6e5e5d3c0a7a45d20e80f7c663ac21071310081ab8
+
+[Hades' Star](https://www.hadesstar.com)

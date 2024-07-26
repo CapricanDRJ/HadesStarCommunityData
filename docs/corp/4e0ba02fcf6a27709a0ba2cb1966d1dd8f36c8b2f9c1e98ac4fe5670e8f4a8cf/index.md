@@ -25,3 +25,5 @@ description: W:1 L:2 D:1 Bonus ❌
 | ✅ | 2024/06/04 | 5-0 | [Weyland Yutani ](https://ws.tsl.rocks/corp/9799c33a0ecdcf321ad446a18f4e7f520610d26ec5f13e0c6b7a411dec2e2e46/) |
 
 Corporation ID: 4e0ba02fcf6a27709a0ba2cb1966d1dd8f36c8b2f9c1e98ac4fe5670e8f4a8cf
+
+[Hades' Star](https://www.hadesstar.com)

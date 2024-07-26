@@ -63,3 +63,5 @@ description: W:10 L:25 D:0 Bonus ❌
 | ✅ | 2023/11/09 | 13-0 | [星光万丈](https://ws.tsl.rocks/corp/92ad2a305a74e168b57771140461b4d226e1e8cac17b4f77027d5a67ead5fa1d/) |
 
 Corporation ID: f179acb7b919d9d3185f1fcd66bb17d5e257feab5039bcbf6efb5c8cd6f5c057
+
+[Hades' Star](https://www.hadesstar.com)

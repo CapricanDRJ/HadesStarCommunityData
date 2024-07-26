@@ -23,3 +23,5 @@ description: W:0 L:2 D:0 Bonus ❌
 | ❌ | 2023/12/09 | 0-21 | [МАРСЮКИ](https://ws.tsl.rocks/corp/c3fa1ee33163a1a29bc7c9c69a933fc3b4d29c0e0e7a720c80fb2f5381b275c8/) |
 
 Corporation ID: 7b5024d2611b3988a770a86633a4d122a631176d333c0a15e054b18a646771c4
+
+[Hades' Star](https://www.hadesstar.com)

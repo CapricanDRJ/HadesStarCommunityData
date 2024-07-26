@@ -25,3 +25,5 @@ description: W:2 L:0 D:0 Bonus ✅
 | ✅ | 2024/07/07 | 6-0 | [Star League](https://ws.tsl.rocks/corp/f6e399c226abb13fbb01d04c3d26f5771dfeaa767fe4b6c374bec8ca0299d836/) |
 
 Corporation ID: e3af01b69e8035dbe5c48ad403a16f2c1ec8d4d273916750975ea86f317f7582
+
+[Hades' Star](https://www.hadesstar.com)

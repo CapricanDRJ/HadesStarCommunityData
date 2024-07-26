@@ -51,3 +51,5 @@ description: W:16 L:8 D:0 Bonus ❌
 | ❌ | 2023/12/21 | 7-30 | [Lacuna Holdings](https://ws.tsl.rocks/corp/17f4ece94ed033805ed258868416020d302254e2e3becbd1e25381be7933be76/) |
 
 Corporation ID: af3427036ba655aaea1af0c704240800cc2def44f43c06d558d9cc1ec8bcbc7b
+
+[Hades' Star](https://www.hadesstar.com)

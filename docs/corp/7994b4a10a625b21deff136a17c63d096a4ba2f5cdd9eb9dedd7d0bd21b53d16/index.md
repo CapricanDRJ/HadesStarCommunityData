@@ -42,3 +42,5 @@ description: W:11 L:9 D:0 Bonus ❌
 | ❌ | 2023/11/17 | 3-14 | [OntarioDawn](https://ws.tsl.rocks/corp/1a002c71f3aba5da5918941fa2ba4dbbfc183ad52d97d44a25718e07e6b08a03/) |
 
 Corporation ID: 7994b4a10a625b21deff136a17c63d096a4ba2f5cdd9eb9dedd7d0bd21b53d16
+
+[Hades' Star](https://www.hadesstar.com)

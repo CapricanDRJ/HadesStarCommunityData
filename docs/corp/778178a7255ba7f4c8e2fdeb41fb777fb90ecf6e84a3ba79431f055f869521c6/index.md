@@ -23,3 +23,5 @@ description: W:1 L:1 D:0 Bonus ❌
 | ✅ | 2024/01/31 | 7-0 | [苏维埃联邦](https://ws.tsl.rocks/corp/4b067d39aa68bf846ec24a1af1a1038844cfa78699d1190f74a77b1745e148ac/) |
 
 Corporation ID: 778178a7255ba7f4c8e2fdeb41fb777fb90ecf6e84a3ba79431f055f869521c6
+
+[Hades' Star](https://www.hadesstar.com)

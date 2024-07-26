@@ -26,3 +26,5 @@ description: W:2 L:3 D:0 Bonus ✅
 | ❌ | 2024/05/04 | 0-3 | [六大天神\.轻歌之影](https://ws.tsl.rocks/corp/558304186ed78398ff16afe6f1f2909cee69fe56f1e3ee787d023cffa6999b3b/) |
 
 Corporation ID: 0b44b93ba4150cc49e8bc5e489bd0f381cac46064d18e6929011011e0aaaf48c
+
+[Hades' Star](https://www.hadesstar.com)

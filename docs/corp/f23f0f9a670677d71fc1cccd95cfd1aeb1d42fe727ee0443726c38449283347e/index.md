@@ -26,3 +26,5 @@ description: W:2 L:1 D:0 Bonus ❌
 | ❌ | 2024/01/02 | 14-18 | [OntarioDestiny](https://ws.tsl.rocks/corp/806a86639b93c3a025e026bcedab96052be0e32b712c96217b3d5b330b3f5a6d/) |
 
 Corporation ID: f23f0f9a670677d71fc1cccd95cfd1aeb1d42fe727ee0443726c38449283347e
+
+[Hades' Star](https://www.hadesstar.com)

@@ -25,3 +25,5 @@ description: W:1 L:3 D:0 Bonus ❌
 | ❌ | 2023/12/14 | 1-7 | [R\-6 satalite](https://ws.tsl.rocks/corp/ce3450a529768e932b3aeb4c6f39b9295e6e07d010b209d0120c0125799adc43/) |
 
 Corporation ID: 7f4550924e4740a47b7d66c9ddf38d65c37590507caab29eecc74f81a4ae2895
+
+[Hades' Star](https://www.hadesstar.com)

@@ -26,3 +26,5 @@ description: W:1 L:4 D:0 Bonus ❌
 | ❌ | 2024/03/13 | 2-17 | [Industrial W\.O](https://ws.tsl.rocks/corp/99a4ba88f6a620cb9ea1da456127c978a858ffbda4e40b255fcf3365515da25d/) |
 
 Corporation ID: d572c676473ca035b64333d3b419fb4da007677b96f6a401710c4b9249a193d5
+
+[Hades' Star](https://www.hadesstar.com)

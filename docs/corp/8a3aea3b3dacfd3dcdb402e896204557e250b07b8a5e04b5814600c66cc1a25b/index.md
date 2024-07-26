@@ -83,3 +83,5 @@ description: W:45 L:6 D:0 Bonus ✅
 | ✅ | 2023/11/13 | 22-0 | [Crazy Elite](https://ws.tsl.rocks/corp/ef64e9014b773074470ead0907b9c122bf6bda753de1cddfa01e95a00e9d47dc/) |
 
 Corporation ID: 8a3aea3b3dacfd3dcdb402e896204557e250b07b8a5e04b5814600c66cc1a25b
+
+[Hades' Star](https://www.hadesstar.com)

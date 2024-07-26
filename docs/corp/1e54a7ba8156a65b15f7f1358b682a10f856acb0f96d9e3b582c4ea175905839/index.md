@@ -56,3 +56,5 @@ description: W:12 L:16 D:0 Bonus ❌
 | ❌ | 2023/11/14 | 0-6 | [BrazilCorp\.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) |
 
 Corporation ID: 1e54a7ba8156a65b15f7f1358b682a10f856acb0f96d9e3b582c4ea175905839
+
+[Hades' Star](https://www.hadesstar.com)

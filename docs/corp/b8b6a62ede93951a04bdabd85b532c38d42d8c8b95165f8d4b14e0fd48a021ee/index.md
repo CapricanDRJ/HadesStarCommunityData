@@ -46,3 +46,5 @@ description: W:10 L:7 D:0 Bonus ❌
 | ✅ | 2024/01/28 | 1-0 | [Odessa](https://ws.tsl.rocks/corp/f509f71fafc573fb7aad51ddd9d82668162fe80073506ca5dc2e68cb795cffea/) |
 
 Corporation ID: b8b6a62ede93951a04bdabd85b532c38d42d8c8b95165f8d4b14e0fd48a021ee
+
+[Hades' Star](https://www.hadesstar.com)

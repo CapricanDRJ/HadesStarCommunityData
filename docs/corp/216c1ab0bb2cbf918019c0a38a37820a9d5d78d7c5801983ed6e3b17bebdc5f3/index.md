@@ -42,3 +42,5 @@ description: W:9 L:10 D:1 Bonus ✅
 | ❌ | 2024/02/15 | 7-9 | [НИФИГАСЕБЕ](https://ws.tsl.rocks/corp/a18fab78c26d983ee99c4cd3c7aaddcfac61283abb2122e9a8ccc44feb2b3196/) |
 
 Corporation ID: 216c1ab0bb2cbf918019c0a38a37820a9d5d78d7c5801983ed6e3b17bebdc5f3
+
+[Hades' Star](https://www.hadesstar.com)

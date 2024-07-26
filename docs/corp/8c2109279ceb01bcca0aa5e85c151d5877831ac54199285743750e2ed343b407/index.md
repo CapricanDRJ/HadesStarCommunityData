@@ -70,3 +70,5 @@ description: W:24 L:15 D:2 Bonus ✅
 | ✅ | 2023/11/08 | 13-0 | [蓝色星系](https://ws.tsl.rocks/corp/4199afa719f068b1e3195bebef959b1a1c22d55d5cc0ca718de807ea5d1486f9/) |
 
 Corporation ID: 8c2109279ceb01bcca0aa5e85c151d5877831ac54199285743750e2ed343b407
+
+[Hades' Star](https://www.hadesstar.com)

@@ -24,3 +24,5 @@ description: W:1 L:2 D:0 Bonus ❌
 | ✅ | 2024/03/05 | 30-8 | [Hun Avengers](https://ws.tsl.rocks/corp/e728eecfe4a9589a7c127d52ed2a958ca92aad43a37efd0d91ac0efb1a474854/) |
 
 Corporation ID: 4dc7206b37101dba1bc2ec67ed48b3793706cddd737c19033c6498d485c6ab84
+
+[Hades' Star](https://www.hadesstar.com)

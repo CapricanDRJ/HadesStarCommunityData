@@ -66,3 +66,5 @@ description: W:6 L:31 D:0 Bonus ✅
 | ❌ | 2023/11/05 | 0-7 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
 
 Corporation ID: 933277ff64041b32fe12e4e564e2064071377343596c7944fb8c145165e2ab04
+
+[Hades' Star](https://www.hadesstar.com)

@@ -25,3 +25,5 @@ description: W:0 L:3 D:1 Bonus ❌
 | ↔️ | 2023/11/18 | 0-0 | [Hungary First](https://ws.tsl.rocks/corp/d678326dd81ae0cf5b2bb37d15dcfe7fa1477dbb6e063fbd0d34c69b5942d31b/) |
 
 Corporation ID: 457192accaef3d494cc5929e091f05ca560778729d99966d0ab04c2d741d18a7
+
+[Hades' Star](https://www.hadesstar.com)

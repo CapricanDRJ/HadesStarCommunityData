@@ -86,3 +86,5 @@ description: W:44 L:12 D:0 Bonus ✅
 | ✅ | 2023/11/10 | 25-18 | [Red Dawn](https://ws.tsl.rocks/corp/fee852a2530bc5e3cbe5b2a5fdb224d249eeceeb3688cfd71479344181831328/) |
 
 Corporation ID: 7741dbd0c9e7ddbc162e374691cb3346e4bb6600840f7962ec4a4414d5d2f780
+
+[Hades' Star](https://www.hadesstar.com)

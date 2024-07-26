@@ -30,3 +30,5 @@ description: W:0 L:9 D:0 Bonus ❌
 | ❌ | 2023/11/06 | 18-26 | [海賊ギルド](https://ws.tsl.rocks/corp/5a1a2bfa07b5ad3ca9bc90a4a86ce8e83d0e61393771fa0ff4c71733bc8879f3/) |
 
 Corporation ID: ddbe305c7b079ebdf054b4483e2d445276c9a95fb7beea61ba9e35cabdef0162
+
+[Hades' Star](https://www.hadesstar.com)

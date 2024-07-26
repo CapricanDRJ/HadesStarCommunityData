@@ -93,3 +93,5 @@ description: W:2 L:62 D:0 Bonus ❌
 | ❌ | 2023/11/16 | 0-6 | [Омикрон Альфа](https://ws.tsl.rocks/corp/846ea10029302e3055a59da0b2754bd5ed8a6e3ac7d5fea612255e02034bf544/) |
 
 Corporation ID: 4434276aa1aebbe4c0a69ac51dff9c243c5287d00096e12c87e8590318a2ab65
+
+[Hades' Star](https://www.hadesstar.com)

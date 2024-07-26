@@ -75,3 +75,5 @@ description: W:30 L:16 D:0 Bonus ✅
 | ✅ | 2024/03/04 | 17-0 | [REY DE REYES](https://ws.tsl.rocks/corp/3400c8c832317ae214792a1e1ce914867af247bc0b4f021bd71a18e977cb60cb/) |
 
 Corporation ID: 54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c
+
+[Hades' Star](https://www.hadesstar.com)

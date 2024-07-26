@@ -49,3 +49,5 @@ description: W:5 L:17 D:0 Bonus ❌
 | ✅ | 2023/11/06 | 26-18 | [RUSSIAN TEAM](https://ws.tsl.rocks/corp/ddbe305c7b079ebdf054b4483e2d445276c9a95fb7beea61ba9e35cabdef0162/) |
 
 Corporation ID: 5a1a2bfa07b5ad3ca9bc90a4a86ce8e83d0e61393771fa0ff4c71733bc8879f3
+
+[Hades' Star](https://www.hadesstar.com)

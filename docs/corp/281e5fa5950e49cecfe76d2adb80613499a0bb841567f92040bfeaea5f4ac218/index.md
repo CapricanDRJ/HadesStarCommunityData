@@ -23,3 +23,5 @@ description: W:0 L:2 D:0 Bonus ❌
 | ❌ | 2024/07/06 | 0-21 | [Sprite](https://ws.tsl.rocks/corp/3bf5d300b42f0610355645e2ee9cf24e5517a2c5e12472f685781051619266ac/) |
 
 Corporation ID: 281e5fa5950e49cecfe76d2adb80613499a0bb841567f92040bfeaea5f4ac218
+
+[Hades' Star](https://www.hadesstar.com)

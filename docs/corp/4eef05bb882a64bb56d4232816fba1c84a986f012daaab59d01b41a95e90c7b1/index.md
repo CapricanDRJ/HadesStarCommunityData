@@ -24,3 +24,5 @@ description: W:0 L:3 D:0 Bonus ❌
 | ❌ | 2024/05/27 | 0-7 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
 
 Corporation ID: 4eef05bb882a64bb56d4232816fba1c84a986f012daaab59d01b41a95e90c7b1
+
+[Hades' Star](https://www.hadesstar.com)

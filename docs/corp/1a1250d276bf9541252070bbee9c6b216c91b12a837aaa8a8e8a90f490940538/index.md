@@ -58,3 +58,5 @@ description: W:25 L:2 D:0 Bonus ✅
 | ❌ | 2023/12/03 | 24-32 | [Hand Of NOD\! ](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) |
 
 Corporation ID: 1a1250d276bf9541252070bbee9c6b216c91b12a837aaa8a8e8a90f490940538
+
+[Hades' Star](https://www.hadesstar.com)

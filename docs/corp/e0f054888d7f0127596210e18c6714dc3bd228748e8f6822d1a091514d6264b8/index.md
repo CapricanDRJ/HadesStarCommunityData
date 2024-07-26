@@ -24,3 +24,5 @@ description: W:0 L:3 D:0 Bonus ❌
 | ❌ | 2024/05/29 | 0-4 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
 
 Corporation ID: e0f054888d7f0127596210e18c6714dc3bd228748e8f6822d1a091514d6264b8
+
+[Hades' Star](https://www.hadesstar.com)

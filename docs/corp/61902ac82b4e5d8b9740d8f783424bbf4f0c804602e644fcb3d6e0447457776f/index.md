@@ -26,3 +26,5 @@ description: W:3 L:1 D:0 Bonus ✅
 | ✅ | 2024/07/01 | 6-4 | [SiriusStrawMoo](https://ws.tsl.rocks/corp/c83a5744ea256d2c1fa59660bc0e18e8d01a2a467bc13fec27a8b30f689e220b/) |
 
 Corporation ID: 61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f
+
+[Hades' Star](https://www.hadesstar.com)

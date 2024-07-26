@@ -36,3 +36,5 @@ description: W:8 L:1 D:0 Bonus ❌
 | ✅ | 2023/12/04 | 4-2 | [ES Gaming ](https://ws.tsl.rocks/corp/1bbc4390e9fa60fe312b23c8fa8d8f9eb499307607a4c3304e33bd05bd58f981/) |
 
 Corporation ID: 4c92ec3582be074db571dc198baad7b31951427215e09c4b95a597895406c6a3
+
+[Hades' Star](https://www.hadesstar.com)

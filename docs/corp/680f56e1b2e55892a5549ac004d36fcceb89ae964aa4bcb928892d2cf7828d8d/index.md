@@ -22,3 +22,5 @@ description: W:0 L:1 D:0 Bonus ❌
 | ❌ | 2024/03/24 | 0-5 | [Los Unidos ](https://ws.tsl.rocks/corp/963d98b9a64c86c9edc86daabe201f5d7e1f42bbeb0f45671b44a87e0b288e91/) |
 
 Corporation ID: 680f56e1b2e55892a5549ac004d36fcceb89ae964aa4bcb928892d2cf7828d8d
+
+[Hades' Star](https://www.hadesstar.com)

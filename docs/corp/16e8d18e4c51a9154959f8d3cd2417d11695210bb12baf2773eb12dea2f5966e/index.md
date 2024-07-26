@@ -34,3 +34,5 @@ description: W:4 L:7 D:1 Bonus ❌
 | ✅ | 2023/11/26 | 6-2 | [StellaMysterium](https://ws.tsl.rocks/corp/cfaaa81ed93cc9361ade470c3414c73ecf77068badd68d624c7b3f486d142b10/) |
 
 Corporation ID: 16e8d18e4c51a9154959f8d3cd2417d11695210bb12baf2773eb12dea2f5966e
+
+[Hades' Star](https://www.hadesstar.com)

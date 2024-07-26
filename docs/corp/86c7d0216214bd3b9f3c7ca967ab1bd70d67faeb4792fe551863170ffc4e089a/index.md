@@ -30,3 +30,5 @@ description: W:6 L:1 D:0 Bonus ✅
 | ❌ | 2024/06/14 | 3-35 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/54b8724d96e9c022ab2907e45bead9f5b45b02fca093dc0fe5827f14644b2663/) |
 
 Corporation ID: 86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a
+
+[Hades' Star](https://www.hadesstar.com)

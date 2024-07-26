@@ -61,3 +61,5 @@ description: W:31 L:1 D:0 Bonus ✅
 | ✅ | 2023/11/05 | 21-0 | [Aeternae](https://ws.tsl.rocks/corp/05ad49bd809f330a794a7d0278a5e21b110b79ebb26ff8d28a25e8a2f1bcb7c8/) |
 
 Corporation ID: c3fa1ee33163a1a29bc7c9c69a933fc3b4d29c0e0e7a720c80fb2f5381b275c8
+
+[Hades' Star](https://www.hadesstar.com)

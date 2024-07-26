@@ -57,3 +57,5 @@ description: W:9 L:19 D:0 Bonus ❌
 | ❌ | 2023/11/08 | 10-13 | [Axiom](https://ws.tsl.rocks/corp/4000a010c205d318c766ba14fe1836eaab6652f1738a88cce8a8c69d0283e1b0/) |
 
 Corporation ID: 806a86639b93c3a025e026bcedab96052be0e32b712c96217b3d5b330b3f5a6d
+
+[Hades' Star](https://www.hadesstar.com)

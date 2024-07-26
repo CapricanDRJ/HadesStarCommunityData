@@ -114,3 +114,5 @@ description: W:33 L:34 D:0 Bonus ✅
 | ❌ | 2023/11/11 | 12-20 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) |
 
 Corporation ID: 8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23
+
+[Hades' Star](https://www.hadesstar.com)

@@ -34,3 +34,5 @@ description: W:1 L:7 D:0 Bonus ❌
 | ❌ | 2023/11/29 | 14-18 | [SYNDICATE](https://ws.tsl.rocks/corp/340a8194f62a11308a6d79b913d48312fa37e3b250fb4b241cc2c5d69549a912/) |
 
 Corporation ID: 39bb6d19385b7eb6e2e71a979f21256463432b6e2e36ae4c55446abb1f6a0db1
+
+[Hades' Star](https://www.hadesstar.com)

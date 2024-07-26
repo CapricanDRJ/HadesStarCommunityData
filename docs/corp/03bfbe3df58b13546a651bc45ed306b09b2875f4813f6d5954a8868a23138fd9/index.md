@@ -25,3 +25,5 @@ description: W:1 L:3 D:0 Bonus ❌
 | ❌ | 2023/11/21 | 17-45 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 
 Corporation ID: 03bfbe3df58b13546a651bc45ed306b09b2875f4813f6d5954a8868a23138fd9
+
+[Hades' Star](https://www.hadesstar.com)

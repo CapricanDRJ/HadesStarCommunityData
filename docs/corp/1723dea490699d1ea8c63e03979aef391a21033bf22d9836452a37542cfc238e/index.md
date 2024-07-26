@@ -30,3 +30,5 @@ description: W:0 L:9 D:0 Bonus ❌
 | ❌ | 2023/12/07 | 9-33 | [Zeta LLC](https://ws.tsl.rocks/corp/5779c7241b1f516fefec667bf95a9d1e0db38d307d559e1491b4f3a7fcd720f8/) |
 
 Corporation ID: 1723dea490699d1ea8c63e03979aef391a21033bf22d9836452a37542cfc238e
+
+[Hades' Star](https://www.hadesstar.com)

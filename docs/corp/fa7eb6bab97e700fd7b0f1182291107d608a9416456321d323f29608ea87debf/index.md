@@ -24,3 +24,5 @@ description: W:0 L:3 D:0 Bonus ❌
 | ❌ | 2023/11/26 | 0-4 | [联合宇宙](https://ws.tsl.rocks/corp/da614a2861abac24e31b7b978e75196750b88545f6ece0f367b66b43d696deab/) |
 
 Corporation ID: fa7eb6bab97e700fd7b0f1182291107d608a9416456321d323f29608ea87debf
+
+[Hades' Star](https://www.hadesstar.com)

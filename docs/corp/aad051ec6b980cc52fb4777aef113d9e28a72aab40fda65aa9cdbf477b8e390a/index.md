@@ -39,3 +39,5 @@ description: W:2 L:10 D:0 Bonus ✅
 | ❌ | 2023/11/07 | 7-19 | [Moon Catchers](https://ws.tsl.rocks/corp/0625bb885137c3824ac346b97780181e23ee84562237eb345baa364f8d7d3c43/) |
 
 Corporation ID: aad051ec6b980cc52fb4777aef113d9e28a72aab40fda65aa9cdbf477b8e390a
+
+[Hades' Star](https://www.hadesstar.com)

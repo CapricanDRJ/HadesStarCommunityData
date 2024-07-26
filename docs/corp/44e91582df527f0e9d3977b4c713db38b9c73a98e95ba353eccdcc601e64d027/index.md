@@ -90,3 +90,5 @@ description: W:34 L:24 D:0 Bonus ✅
 | ✅ | 2023/11/10 | 6-4 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 
 Corporation ID: 44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027
+
+[Hades' Star](https://www.hadesstar.com)

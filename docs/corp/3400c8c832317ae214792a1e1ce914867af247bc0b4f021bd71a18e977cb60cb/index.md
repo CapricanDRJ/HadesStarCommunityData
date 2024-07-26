@@ -31,3 +31,5 @@ description: W:1 L:9 D:0 Bonus ❌
 | ❌ | 2023/11/22 | 0-11 | [神仙'](https://ws.tsl.rocks/corp/2a865ec8658a1843c5442405aa7be1fd9e44cf058568802ca1de6610499fa973/) |
 
 Corporation ID: 3400c8c832317ae214792a1e1ce914867af247bc0b4f021bd71a18e977cb60cb
+
+[Hades' Star](https://www.hadesstar.com)

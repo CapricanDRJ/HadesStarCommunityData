@@ -23,3 +23,5 @@ description: W:1 L:1 D:0 Bonus ✅
 | ❌ | 2024/07/20 | 1-35 | [Mercury Sunset](https://ws.tsl.rocks/corp/2771ec0a0e9523f8a7b62dd470c9ab87bf2bcf2b13fb47f6f97ea826337b2b20/) |
 
 Corporation ID: 6099bd39cf8510ea3ef2be0fe05df95266b12acfdcbe1bd58a4c33e9c3f25934
+
+[Hades' Star](https://www.hadesstar.com)

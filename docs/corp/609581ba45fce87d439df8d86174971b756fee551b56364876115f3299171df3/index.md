@@ -23,3 +23,5 @@ description: W:0 L:2 D:0 Bonus ❌
 | ❌ | 2023/12/07 | 1-2 | [宇宙警察](https://ws.tsl.rocks/corp/e351af3589315207a50dad0eefdf5309943c39b25656f0870904e6be9302a082/) |
 
 Corporation ID: 609581ba45fce87d439df8d86174971b756fee551b56364876115f3299171df3
+
+[Hades' Star](https://www.hadesstar.com)

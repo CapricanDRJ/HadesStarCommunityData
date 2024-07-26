@@ -62,3 +62,5 @@ description: W:22 L:12 D:0 Bonus ✅
 | ❌ | 2023/11/05 | 8-15 | [Corvus Ind\.](https://ws.tsl.rocks/corp/f99305aca0eca2f37971c97916647c8edd0258de0d30a3de61941700e7fb2c94/) |
 
 Corporation ID: 08524086f45f2e6109e583baf940197663aa3e155c32fcdbb04f319343a5eb0c
+
+[Hades' Star](https://www.hadesstar.com)

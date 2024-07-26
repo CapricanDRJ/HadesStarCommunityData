@@ -68,3 +68,5 @@ description: W:20 L:17 D:0 Bonus ❌
 | ✅ | 2023/11/06 | 22-3 | [\(\_\(\_Vossk\_\)\_\)](https://ws.tsl.rocks/corp/6db23201f00670abe532f02a8fc28e109f95d673ef31ca1df7362c0a6c45dd2f/) |
 
 Corporation ID: 63d77c8d633b9dec932ad5d0f5a8ceb371b865b1adbb221ed410c5a7ba7df203
+
+[Hades' Star](https://www.hadesstar.com)

@@ -86,3 +86,5 @@ description: W:37 L:17 D:0 Bonus ✅
 | ✅ | 2023/12/12 | 4-0 | [mijael siuuuuuu](https://ws.tsl.rocks/corp/45ca23a78c96de3dd53a33f7c9f029b7dc5edf0fb7f15e5d46f1893c68d28334/) |
 
 Corporation ID: 1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b
+
+[Hades' Star](https://www.hadesstar.com)

@@ -28,3 +28,5 @@ description: W:4 L:1 D:0 Bonus ❌
 | ✅ | 2023/11/07 | 26-0 | [Star Destroyers](https://ws.tsl.rocks/corp/32ba20918cd8720602fefb3bc676a6ba5195314479040f70eadc728fbbc2698d/) |
 
 Corporation ID: dbfbd1738d98b2f1a9419727fde30070aae0f158a0aa36a78561489c2bb3283a
+
+[Hades' Star](https://www.hadesstar.com)

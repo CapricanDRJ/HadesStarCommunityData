@@ -33,3 +33,5 @@ description: W:9 L:2 D:0 Bonus ❌
 | ✅ | 2023/12/08 | 19-0 | [Space Rangers](https://ws.tsl.rocks/corp/da0952db0de44e4eee72d9ffa2394d5818565c5c16d89a1313c6df07417f9fb3/) |
 
 Corporation ID: cc9ed2698988a35d6dbb9e9762d6575b28204ab15fd7208b64e8108878a4b8f9
+
+[Hades' Star](https://www.hadesstar.com)

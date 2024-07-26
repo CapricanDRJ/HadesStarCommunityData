@@ -30,3 +30,5 @@ description: W:3 L:4 D:1 Bonus ❌
 | ✅ | 2023/11/29 | 7-4 | [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) |
 
 Corporation ID: 8307d1da2d91b1b6f2cdf365b891741a148ac78d385e34734a0e083d318248b2
+
+[Hades' Star](https://www.hadesstar.com)

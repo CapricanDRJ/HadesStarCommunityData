@@ -78,3 +78,5 @@ description: W:26 L:19 D:1 Bonus ✅
 | ✅ | 2023/11/07 | 34-0 | [Saggitarius A](https://ws.tsl.rocks/corp/f277212cba1456eb5a971b7ff854f040097bfc6aa3a0d9befb948692ae06c3c7/) |
 
 Corporation ID: 41cdba59897d5e01412601b648c1a692368d92c198123f9ab442f2a23464b375
+
+[Hades' Star](https://www.hadesstar.com)

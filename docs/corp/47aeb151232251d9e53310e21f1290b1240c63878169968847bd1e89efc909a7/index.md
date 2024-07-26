@@ -60,3 +60,5 @@ description: W:23 L:8 D:2 Bonus ✅
 | ✅ | 2023/12/15 | 11-0 | [CCCP](https://ws.tsl.rocks/corp/34cd422237fc59472ea900588e5416892c4cceeae033e28f8352b61524a92ac7/) |
 
 Corporation ID: 47aeb151232251d9e53310e21f1290b1240c63878169968847bd1e89efc909a7
+
+[Hades' Star](https://www.hadesstar.com)

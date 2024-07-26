@@ -77,3 +77,5 @@ description: W:18 L:26 D:0 Bonus ✅
 | ❌ | 2023/11/05 | 3-22 | [Nine's Own Goal](https://ws.tsl.rocks/corp/fd47245550708347721e341d893b73e7c23e0f3624053c47ce666e55641c9e9e/) |
 
 Corporation ID: b7037efd74e829aa4ac6e49960fa44cebe1477e23d25cf1640594d9168d630db
+
+[Hades' Star](https://www.hadesstar.com)

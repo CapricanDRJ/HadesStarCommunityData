@@ -63,3 +63,5 @@ description: W:25 L:9 D:2 Bonus ✅
 | ✅ | 2024/01/23 | 27-0 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) |
 
 Corporation ID: 42d38d5f95c493cb1822f0c89a5366e532a9dc30c0019e03cf7ddd280bf55040
+
+[Hades' Star](https://www.hadesstar.com)

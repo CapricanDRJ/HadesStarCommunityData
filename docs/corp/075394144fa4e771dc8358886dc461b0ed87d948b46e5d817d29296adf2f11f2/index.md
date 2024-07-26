@@ -37,3 +37,5 @@ description: W:4 L:8 D:3 Bonus ❌
 | ❌ | 2024/01/14 | 0-3 | [公共星际集团](https://ws.tsl.rocks/corp/f57faccefed6ab561fa61ac8e6f60708928e3a8b5caa5172c97c2a29348aed37/) |
 
 Corporation ID: 075394144fa4e771dc8358886dc461b0ed87d948b46e5d817d29296adf2f11f2
+
+[Hades' Star](https://www.hadesstar.com)

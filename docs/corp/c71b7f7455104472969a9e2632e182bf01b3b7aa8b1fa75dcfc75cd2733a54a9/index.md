@@ -32,3 +32,5 @@ description: W:2 L:2 D:2 Bonus ❌
 | ↔️ | 2024/01/20 | 2-2 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 
 Corporation ID: c71b7f7455104472969a9e2632e182bf01b3b7aa8b1fa75dcfc75cd2733a54a9
+
+[Hades' Star](https://www.hadesstar.com)

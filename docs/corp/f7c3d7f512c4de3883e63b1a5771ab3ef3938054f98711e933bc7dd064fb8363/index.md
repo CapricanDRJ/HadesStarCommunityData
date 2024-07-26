@@ -54,3 +54,5 @@ description: W:24 L:8 D:0 Bonus ❌
 | ✅ | 2023/11/06 | 12-3 | [Blue Space](https://ws.tsl.rocks/corp/1c4f64c1450ab5cb621676c9a130c187b8ba9a8059253310ae02642cd84e3446/) |
 
 Corporation ID: f7c3d7f512c4de3883e63b1a5771ab3ef3938054f98711e933bc7dd064fb8363
+
+[Hades' Star](https://www.hadesstar.com)

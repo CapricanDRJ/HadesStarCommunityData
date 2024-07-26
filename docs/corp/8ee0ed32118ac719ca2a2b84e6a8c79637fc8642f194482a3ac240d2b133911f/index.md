@@ -84,3 +84,5 @@ description: W:25 L:28 D:0 Bonus ✅
 | ❌ | 2024/02/03 | 0-21 | [心之所向](https://ws.tsl.rocks/corp/0cff5ad4c189142d35a9e17912dd7cda5107d4e3be8843d2cb2dbe5a490991cd/) |
 
 Corporation ID: 8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f
+
+[Hades' Star](https://www.hadesstar.com)

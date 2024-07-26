@@ -26,3 +26,5 @@ description: W:2 L:3 D:0 Bonus ❌
 | ✅ | 2024/01/14 | 10-0 | [Omega Aboration](https://ws.tsl.rocks/corp/5017e66be9be9517250ba170f594883465956d1b1cb12583fb3b5dc5d2ad0659/) |
 
 Corporation ID: 12563d832c8ee65cd0763789549a23ff034c54c9cb77edf2a70afb1cbd904870
+
+[Hades' Star](https://www.hadesstar.com)

@@ -69,3 +69,5 @@ description: W:21 L:14 D:0 Bonus ❌
 | ✅ | 2023/11/05 | 27-25 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) |
 
 Corporation ID: 6fedbaaa5e81626ae4028e9ec468585dffa6b131eedb09b88a3ac88b7bca681e
+
+[Hades' Star](https://www.hadesstar.com)

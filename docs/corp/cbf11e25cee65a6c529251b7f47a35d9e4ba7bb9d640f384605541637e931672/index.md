@@ -34,3 +34,5 @@ description: W:0 L:13 D:0 Bonus ❌
 | ❌ | 2023/11/09 | 0-31 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) |
 
 Corporation ID: cbf11e25cee65a6c529251b7f47a35d9e4ba7bb9d640f384605541637e931672
+
+[Hades' Star](https://www.hadesstar.com)

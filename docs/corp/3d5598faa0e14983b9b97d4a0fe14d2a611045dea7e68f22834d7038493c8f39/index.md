@@ -43,3 +43,5 @@ description: W:12 L:4 D:0 Bonus ❌
 | ✅ | 2023/11/05 | 35-20 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) |
 
 Corporation ID: 3d5598faa0e14983b9b97d4a0fe14d2a611045dea7e68f22834d7038493c8f39
+
+[Hades' Star](https://www.hadesstar.com)

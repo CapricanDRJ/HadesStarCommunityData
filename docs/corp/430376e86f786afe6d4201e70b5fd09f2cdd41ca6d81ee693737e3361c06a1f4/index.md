@@ -98,3 +98,5 @@ description: W:58 L:6 D:0 Bonus ✅
 | ✅ | 2023/11/06 | 20-1 | [The Picard](https://ws.tsl.rocks/corp/e9a6cae99e308f9c70625e04162b887239bea0d52463d7a3ed53464fdd906d0b/) |
 
 Corporation ID: 430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4
+
+[Hades' Star](https://www.hadesstar.com)

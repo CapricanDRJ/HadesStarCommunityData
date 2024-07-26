@@ -22,3 +22,5 @@ description: W:0 L:1 D:0 Bonus ❌
 | ❌ | 2024/04/19 | 29-30 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) |
 
 Corporation ID: b9987cfcc4c93bf6a66879bc06278aa598ab2f4c9c407f977427fcfd2abf028b
+
+[Hades' Star](https://www.hadesstar.com)

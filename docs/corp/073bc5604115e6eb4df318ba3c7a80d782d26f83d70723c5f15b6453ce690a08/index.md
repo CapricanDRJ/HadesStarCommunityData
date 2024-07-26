@@ -27,3 +27,5 @@ description: W:3 L:2 D:0 Bonus ✅
 | ❌ | 2024/03/28 | 0-13 | [STRVS233～](https://ws.tsl.rocks/corp/727f6b88132c5850b1ef7ad02101bab3f97fc5dd191307dffca64181bf41e614/) |
 
 Corporation ID: 073bc5604115e6eb4df318ba3c7a80d782d26f83d70723c5f15b6453ce690a08
+
+[Hades' Star](https://www.hadesstar.com)

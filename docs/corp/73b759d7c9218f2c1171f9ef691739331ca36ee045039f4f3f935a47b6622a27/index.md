@@ -28,3 +28,5 @@ description: W:2 L:5 D:0 Bonus ✅
 | ❌ | 2024/05/23 | 0-28 | [sk cz nebula](https://ws.tsl.rocks/corp/6ed29f74bee91a7aad75a64196918993de6cec070ce8c65d1132ed6b0e79005d/) |
 
 Corporation ID: 73b759d7c9218f2c1171f9ef691739331ca36ee045039f4f3f935a47b6622a27
+
+[Hades' Star](https://www.hadesstar.com)

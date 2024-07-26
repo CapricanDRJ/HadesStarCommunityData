@@ -23,3 +23,5 @@ description: W:0 L:2 D:0 Bonus ❌
 | ❌ | 2023/11/07 | 3-9 | [Mass Effect](https://ws.tsl.rocks/corp/6f715653bec3925d9c3acd7c2388fe8e1c79332146894ed424f57bd2636de8c7/) |
 
 Corporation ID: c319ac731957c1d658994ab5727dec3d0ccfdcd31b00ee66efbf07be25bdc3e1
+
+[Hades' Star](https://www.hadesstar.com)

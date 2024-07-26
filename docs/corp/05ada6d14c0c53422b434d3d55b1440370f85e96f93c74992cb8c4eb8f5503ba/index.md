@@ -81,3 +81,5 @@ description: W:34 L:15 D:3 Bonus ✅
 | ↔️ | 2023/11/06 | 3-3 | [NAC](https://ws.tsl.rocks/corp/cd35bc5d7637a2804496e55b68cd138afe3f993bb62691cfeaae93f7549344e3/) |
 
 Corporation ID: 05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba
+
+[Hades' Star](https://www.hadesstar.com)

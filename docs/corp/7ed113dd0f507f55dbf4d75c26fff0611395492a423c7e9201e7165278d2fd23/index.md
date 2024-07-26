@@ -28,3 +28,5 @@ description: W:2 L:3 D:0 Bonus ❌
 | ❌ | 2024/01/12 | 14-26 | [✡天启✡](https://ws.tsl.rocks/corp/f2d70a86d32ea3a8226afc6d465a6c6540acec572b1c7232994523cdfb299c53/) |
 
 Corporation ID: 7ed113dd0f507f55dbf4d75c26fff0611395492a423c7e9201e7165278d2fd23
+
+[Hades' Star](https://www.hadesstar.com)

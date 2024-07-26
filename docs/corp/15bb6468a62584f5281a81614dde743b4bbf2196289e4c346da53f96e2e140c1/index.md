@@ -110,3 +110,5 @@ description: W:49 L:27 D:0 Bonus ✅
 | ❌ | 2023/11/05 | 7-10 | [夢幻之星\*分盟\*](https://ws.tsl.rocks/corp/25ac58a842783eb85413a2cb4896100bd1bdad3b64dbbc3b2d2c9bdf3f878c96/) |
 
 Corporation ID: 15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1
+
+[Hades' Star](https://www.hadesstar.com)

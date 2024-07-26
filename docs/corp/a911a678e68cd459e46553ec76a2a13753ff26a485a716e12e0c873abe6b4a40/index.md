@@ -23,3 +23,5 @@ description: W:1 L:1 D:0 Bonus ❌
 | ✅ | 2024/01/11 | 1-0 | [UNNP](https://ws.tsl.rocks/corp/c194ffe18357f9b24cb8d28b9ba0996dfafac36b31f7bfc69295f5bfd402cb41/) |
 
 Corporation ID: a911a678e68cd459e46553ec76a2a13753ff26a485a716e12e0c873abe6b4a40
+
+[Hades' Star](https://www.hadesstar.com)

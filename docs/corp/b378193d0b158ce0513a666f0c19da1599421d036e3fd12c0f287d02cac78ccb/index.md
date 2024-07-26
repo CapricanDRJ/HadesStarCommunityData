@@ -24,3 +24,5 @@ description: W:0 L:2 D:1 Bonus ❌
 | ❌ | 2023/12/31 | 0-7 | [wyvern](https://ws.tsl.rocks/corp/4b6ee78ad82bb990b44db034329f02860799149e5d94defcbf61748878181c8a/) |
 
 Corporation ID: b378193d0b158ce0513a666f0c19da1599421d036e3fd12c0f287d02cac78ccb
+
+[Hades' Star](https://www.hadesstar.com)

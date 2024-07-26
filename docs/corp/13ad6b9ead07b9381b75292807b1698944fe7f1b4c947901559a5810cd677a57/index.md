@@ -23,3 +23,5 @@ description: W:0 L:2 D:0 Bonus ❌
 | ❌ | 2023/11/14 | 9-31 | [Inexorable](https://ws.tsl.rocks/corp/8343908ac19af8666d7765db00e5eb603d9e87bbbfe273c81d9b9b2329ca0827/) |
 
 Corporation ID: 13ad6b9ead07b9381b75292807b1698944fe7f1b4c947901559a5810cd677a57
+
+[Hades' Star](https://www.hadesstar.com)

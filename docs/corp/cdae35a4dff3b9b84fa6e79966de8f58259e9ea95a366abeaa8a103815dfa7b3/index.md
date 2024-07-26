@@ -29,3 +29,5 @@ description: W:2 L:5 D:1 Bonus ❌
 | ✅ | 2023/11/20 | 21-3 | [Рикардия](https://ws.tsl.rocks/corp/fdd2c245c923118c05cc4f718a833684fa92503689006c337fc46a1914fd628a/) |
 
 Corporation ID: cdae35a4dff3b9b84fa6e79966de8f58259e9ea95a366abeaa8a103815dfa7b3
+
+[Hades' Star](https://www.hadesstar.com)

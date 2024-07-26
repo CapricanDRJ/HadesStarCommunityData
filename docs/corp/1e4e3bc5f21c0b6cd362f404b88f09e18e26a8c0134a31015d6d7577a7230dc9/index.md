@@ -88,3 +88,5 @@ description: W:25 L:30 D:0 Bonus ❌
 | ✅ | 2023/11/05 | 7-0 | [BLOK EKIPA](https://ws.tsl.rocks/corp/b52b3a9c372aec6edf23c2fe617847cf4772d46976f5828c415089f5ae0bbcdd/) |
 
 Corporation ID: 1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9
+
+[Hades' Star](https://www.hadesstar.com)

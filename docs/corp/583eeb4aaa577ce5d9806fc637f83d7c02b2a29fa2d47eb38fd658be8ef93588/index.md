@@ -81,3 +81,5 @@ description: W:27 L:24 D:1 Bonus ✅
 | ❌ | 2023/11/24 | 3-14 | [Galaxian](https://ws.tsl.rocks/corp/5dcf6b30fe7412dfe10c7f88aacc5e5ec1d63a2ea3df0084c393b9e20c34ee97/) |
 
 Corporation ID: 583eeb4aaa577ce5d9806fc637f83d7c02b2a29fa2d47eb38fd658be8ef93588
+
+[Hades' Star](https://www.hadesstar.com)

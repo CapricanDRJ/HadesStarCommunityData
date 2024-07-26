@@ -25,3 +25,5 @@ description: W:2 L:2 D:0 Bonus ❌
 | ✅ | 2024/04/20 | 47-2 | [New Horizons](https://ws.tsl.rocks/corp/35fd5f8a42c94496c737f097b09c66f0bcbdd0fe32fdf71009568e283922d37c/) |
 
 Corporation ID: cf394608a27d311fa1a0132e455097b2ddfb434fc4acd6d102deef0a390eed8e
+
+[Hades' Star](https://www.hadesstar.com)

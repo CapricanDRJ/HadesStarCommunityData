@@ -35,3 +35,5 @@ description: W:4 L:9 D:0 Bonus ❌
 | ❌ | 2024/01/02 | 0-7 | [DYLAN](https://ws.tsl.rocks/corp/4c92ec3582be074db571dc198baad7b31951427215e09c4b95a597895406c6a3/) |
 
 Corporation ID: 2db26f485dd1e772b0bf13ef6db7eb053b37270ef1e24804ebc12472adb0708d
+
+[Hades' Star](https://www.hadesstar.com)

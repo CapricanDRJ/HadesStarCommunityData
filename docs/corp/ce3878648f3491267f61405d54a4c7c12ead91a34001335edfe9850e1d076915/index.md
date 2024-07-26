@@ -23,3 +23,5 @@ description: W:0 L:2 D:0 Bonus ❌
 | ❌ | 2023/12/15 | 0-22 | [The Gathering](https://ws.tsl.rocks/corp/601aa373bba14895e002a3243dcbf0f6e9fb62f1393ad521e78c5d80fa294455/) |
 
 Corporation ID: ce3878648f3491267f61405d54a4c7c12ead91a34001335edfe9850e1d076915
+
+[Hades' Star](https://www.hadesstar.com)

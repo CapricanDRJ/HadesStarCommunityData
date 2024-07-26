@@ -27,3 +27,5 @@ description: W:2 L:4 D:0 Bonus ❌
 | ✅ | 2023/11/09 | 4-1 | [星光禁卫](https://ws.tsl.rocks/corp/8a3e5d55227ad679805b549aca87a2bc5acb1215ccd2af913592418385eccd25/) |
 
 Corporation ID: f7649968be86f892b511b45792945c0b5d262c5322586eba7482c3d61e28ac72
+
+[Hades' Star](https://www.hadesstar.com)

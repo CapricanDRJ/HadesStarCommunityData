@@ -75,3 +75,5 @@ description: W:22 L:26 D:0 Bonus ❌
 | ✅ | 2023/11/25 | 6-4 | [Galactic Trade](https://ws.tsl.rocks/corp/11f216ded6a66748fec41f81ff0eae46ed3f149e39301e31c7977db9897e7d21/) |
 
 Corporation ID: 558304186ed78398ff16afe6f1f2909cee69fe56f1e3ee787d023cffa6999b3b
+
+[Hades' Star](https://www.hadesstar.com)

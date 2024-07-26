@@ -38,3 +38,5 @@ description: W:0 L:14 D:3 Bonus ❌
 | ❌ | 2023/11/25 | 0-5 | [Ul'Adri](https://ws.tsl.rocks/corp/d44796a95a2cc6f93a92af4d701a9c6325eff22633f874f43945a1b1d77b5fe7/) |
 
 Corporation ID: 4b067d39aa68bf846ec24a1af1a1038844cfa78699d1190f74a77b1745e148ac
+
+[Hades' Star](https://www.hadesstar.com)

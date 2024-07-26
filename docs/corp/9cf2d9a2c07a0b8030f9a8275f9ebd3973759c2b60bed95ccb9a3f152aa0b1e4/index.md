@@ -60,3 +60,5 @@ description: W:17 L:15 D:0 Bonus ✅
 | ✅ | 2023/12/13 | 15-0 | [The Hexagonix](https://ws.tsl.rocks/corp/61bda63b50c29b34fb12f0bef2b4436cdd3b114bc9896e392d4d6286368fd6b5/) |
 
 Corporation ID: 9cf2d9a2c07a0b8030f9a8275f9ebd3973759c2b60bed95ccb9a3f152aa0b1e4
+
+[Hades' Star](https://www.hadesstar.com)

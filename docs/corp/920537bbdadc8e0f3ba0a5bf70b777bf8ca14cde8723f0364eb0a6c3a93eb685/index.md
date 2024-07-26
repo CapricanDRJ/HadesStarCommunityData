@@ -29,3 +29,5 @@ description: W:4 L:3 D:0 Bonus ❌
 | ✅ | 2024/01/07 | 9-7 | [Orphans Of Kos](https://ws.tsl.rocks/corp/f4fc42714515d58b6fabb87fd87c01baadb59e219e725bfdc6cf70b21a292054/) |
 
 Corporation ID: 920537bbdadc8e0f3ba0a5bf70b777bf8ca14cde8723f0364eb0a6c3a93eb685
+
+[Hades' Star](https://www.hadesstar.com)

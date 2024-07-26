@@ -43,3 +43,5 @@ description: W:17 L:3 D:0 Bonus ✅
 | ✅ | 2023/11/17 | 34-0 | [THE ECHAPES BEL](https://ws.tsl.rocks/corp/e7191edf9f4ee14b8f64ec7fde8a927408f3b5c03e9bbf63026d6f3ac9d33259/) |
 
 Corporation ID: b38c6a1ce87d3b7937da53dddc33cbdfc7152ab1e5023f2308ee9c81a1633208
+
+[Hades' Star](https://www.hadesstar.com)

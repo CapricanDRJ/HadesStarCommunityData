@@ -71,3 +71,5 @@ description: W:30 L:11 D:0 Bonus ✅
 | ✅ | 2023/11/04 | 25-24 | [Торг\. федерация](https://ws.tsl.rocks/corp/915f197e5951f44128c2a3d3126141cd44b3c67a361158d2b220a5883e410310/) |
 
 Corporation ID: 94cb8827caef9b4b1839113abd29145a128d0c1e108c3984bcf7620dd7fca464
+
+[Hades' Star](https://www.hadesstar.com)

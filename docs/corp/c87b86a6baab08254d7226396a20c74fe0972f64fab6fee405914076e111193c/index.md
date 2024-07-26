@@ -71,3 +71,5 @@ description: W:22 L:17 D:0 Bonus ❌
 | ✅ | 2023/11/17 | 36-0 | [Alpaca Haven](https://ws.tsl.rocks/corp/e93a2f2efda24a65c8ee7eb57fbb269e19b2b1c28a67c6c7c3339b8c90f7726b/) |
 
 Corporation ID: c87b86a6baab08254d7226396a20c74fe0972f64fab6fee405914076e111193c
+
+[Hades' Star](https://www.hadesstar.com)

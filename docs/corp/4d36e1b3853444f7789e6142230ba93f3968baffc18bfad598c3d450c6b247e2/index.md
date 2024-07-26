@@ -32,3 +32,5 @@ description: W:7 L:2 D:0 Bonus ✅
 | ❌ | 2023/11/09 | 0-30 | [Sternenwanderer](https://ws.tsl.rocks/corp/6e7d96cb32583d0e4db33e66eecb4c655e9d3ce068b4550be95a52be7b622eea/) |
 
 Corporation ID: 4d36e1b3853444f7789e6142230ba93f3968baffc18bfad598c3d450c6b247e2
+
+[Hades' Star](https://www.hadesstar.com)

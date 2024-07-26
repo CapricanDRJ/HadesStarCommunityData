@@ -34,3 +34,5 @@ description: W:1 L:7 D:0 Bonus ❌
 | ❌ | 2023/11/04 | 0-12 | [The X \- Files](https://ws.tsl.rocks/corp/f13cb0ae2dbb0654a2067c8749f86bce49edc5b520bd391c7af11948f23a41fb/) |
 
 Corporation ID: 1dd2ea0ec346eac318541b002d2de1be9cab962eb176f2bc45336222b96e847d
+
+[Hades' Star](https://www.hadesstar.com)

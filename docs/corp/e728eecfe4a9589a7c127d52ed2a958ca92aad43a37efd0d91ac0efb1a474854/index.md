@@ -52,3 +52,5 @@ description: W:12 L:13 D:0 Bonus ❌
 | ✅ | 2023/11/16 | 21-12 | [Lacuna Ind\.](https://ws.tsl.rocks/corp/09f1be75e07236be87e2fa3f6e2f82f396666cd220f25f1250ba8b9e71e1e1b7/) |
 
 Corporation ID: e728eecfe4a9589a7c127d52ed2a958ca92aad43a37efd0d91ac0efb1a474854
+
+[Hades' Star](https://www.hadesstar.com)

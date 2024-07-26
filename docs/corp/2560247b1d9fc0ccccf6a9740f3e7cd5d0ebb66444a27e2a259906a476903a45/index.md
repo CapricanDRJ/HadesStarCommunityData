@@ -48,3 +48,5 @@ description: W:8 L:12 D:0 Bonus ❌
 | ✅ | 2023/11/04 | 20-4 | [CSI](https://ws.tsl.rocks/corp/8943af3db9ef34a38f004d6f574b33784a179f4ee83d9a1f71e85b1d8700d315/) |
 
 Corporation ID: 2560247b1d9fc0ccccf6a9740f3e7cd5d0ebb66444a27e2a259906a476903a45
+
+[Hades' Star](https://www.hadesstar.com)

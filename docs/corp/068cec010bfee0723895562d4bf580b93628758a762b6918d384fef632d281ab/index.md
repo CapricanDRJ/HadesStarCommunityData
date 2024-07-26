@@ -38,3 +38,5 @@ description: W:6 L:4 D:0 Bonus ❌
 | ✅ | 2023/11/11 | 25-6 | [Любители Пива](https://ws.tsl.rocks/corp/3926c7dd9f82737737ee85bc4f013285cb75f1ef90f5bf4822bf624616570764/) |
 
 Corporation ID: 068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab
+
+[Hades' Star](https://www.hadesstar.com)

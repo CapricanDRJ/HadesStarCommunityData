@@ -45,3 +45,5 @@ description: W:13 L:10 D:0 Bonus ✅
 | ✅ | 2023/12/16 | 13-4 | [Elite2\.0](https://ws.tsl.rocks/corp/7a039367a683ac04f22e6292d73d5bf2088245f47c411e6a7befd45a11740637/) |
 
 Corporation ID: fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31
+
+[Hades' Star](https://www.hadesstar.com)

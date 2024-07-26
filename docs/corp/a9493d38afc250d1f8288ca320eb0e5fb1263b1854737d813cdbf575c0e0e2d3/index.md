@@ -55,3 +55,5 @@ description: W:19 L:8 D:0 Bonus ❌
 | ✅ | 2023/11/17 | 17-11 | [元素联邦](https://ws.tsl.rocks/corp/e9d602d617d5c81270107c15a6d1f1717c5016abad802d3629f7f4301a58e95e/) |
 
 Corporation ID: a9493d38afc250d1f8288ca320eb0e5fb1263b1854737d813cdbf575c0e0e2d3
+
+[Hades' Star](https://www.hadesstar.com)

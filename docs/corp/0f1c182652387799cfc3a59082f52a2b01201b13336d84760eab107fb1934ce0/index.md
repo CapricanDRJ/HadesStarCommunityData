@@ -37,3 +37,5 @@ description: W:13 L:1 D:0 Bonus ❌
 | ✅ | 2023/11/11 | 16-4 | [萌新港](https://ws.tsl.rocks/corp/7b4125f2900eb0184722a2a53528bb21dd165ea3612dfa8de6ca0ebf2aea0861/) |
 
 Corporation ID: 0f1c182652387799cfc3a59082f52a2b01201b13336d84760eab107fb1934ce0
+
+[Hades' Star](https://www.hadesstar.com)

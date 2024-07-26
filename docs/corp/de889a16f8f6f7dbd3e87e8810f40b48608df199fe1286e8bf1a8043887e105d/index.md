@@ -25,3 +25,5 @@ description: W:0 L:4 D:0 Bonus ❌
 | ❌ | 2023/11/14 | 1-5 | [ギャラクシー富士山](https://ws.tsl.rocks/corp/2d5888d985fe8a11b0227ed1ac345ca5be43e105bee9c4694e43c695bfd33649/) |
 
 Corporation ID: de889a16f8f6f7dbd3e87e8810f40b48608df199fe1286e8bf1a8043887e105d
+
+[Hades' Star](https://www.hadesstar.com)

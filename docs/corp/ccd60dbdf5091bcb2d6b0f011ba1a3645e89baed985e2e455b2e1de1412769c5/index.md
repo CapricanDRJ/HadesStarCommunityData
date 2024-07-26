@@ -27,3 +27,5 @@ description: W:3 L:2 D:0 Bonus ❌
 | ✅ | 2023/12/28 | 5-1 | [V0RTEX](https://ws.tsl.rocks/corp/22a12c757b3e065e8ec7a839b80e33339317bb277aeee145f6cde6f473e06f8f/) |
 
 Corporation ID: ccd60dbdf5091bcb2d6b0f011ba1a3645e89baed985e2e455b2e1de1412769c5
+
+[Hades' Star](https://www.hadesstar.com)

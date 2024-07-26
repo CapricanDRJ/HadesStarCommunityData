@@ -27,3 +27,5 @@ description: W:0 L:6 D:0 Bonus ❌
 | ❌ | 2023/11/17 | 2-4 | [Disintegrators](https://ws.tsl.rocks/corp/cbdef8da60308e24e459a21944778e7c06fa40927f67ecbbf136e3c899f717ae/) |
 
 Corporation ID: 0f9d92470641b1e171644fb99f888ee88663ea4ba40d1af7bd21d5aac1abd587
+
+[Hades' Star](https://www.hadesstar.com)

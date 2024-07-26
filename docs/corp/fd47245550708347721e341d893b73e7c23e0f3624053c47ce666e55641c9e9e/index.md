@@ -76,3 +76,5 @@ description: W:26 L:15 D:2 Bonus ❌
 | ✅ | 2023/11/05 | 22-3 | [Rising star](https://ws.tsl.rocks/corp/b7037efd74e829aa4ac6e49960fa44cebe1477e23d25cf1640594d9168d630db/) |
 
 Corporation ID: fd47245550708347721e341d893b73e7c23e0f3624053c47ce666e55641c9e9e
+
+[Hades' Star](https://www.hadesstar.com)

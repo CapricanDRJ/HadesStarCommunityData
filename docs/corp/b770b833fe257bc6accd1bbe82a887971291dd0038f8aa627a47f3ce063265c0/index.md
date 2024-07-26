@@ -66,3 +66,5 @@ description: W:21 L:13 D:3 Bonus ✅
 | ✅ | 2023/11/26 | 5-0 | [NASA Air base](https://ws.tsl.rocks/corp/6b63a6d22b94297e25c5815e1d096edd489543d2a443677f58d7e6aec1d00016/) |
 
 Corporation ID: b770b833fe257bc6accd1bbe82a887971291dd0038f8aa627a47f3ce063265c0
+
+[Hades' Star](https://www.hadesstar.com)

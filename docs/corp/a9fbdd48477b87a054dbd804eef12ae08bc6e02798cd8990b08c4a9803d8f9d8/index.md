@@ -66,3 +66,5 @@ description: W:16 L:21 D:0 Bonus ✅
 | ❌ | 2023/11/20 | 1-4 | [Cyber Star](https://ws.tsl.rocks/corp/358bbbde0af23c5f41cdb4fde95bb713989c7812b5a0358f7c34ecceca19916c/) |
 
 Corporation ID: a9fbdd48477b87a054dbd804eef12ae08bc6e02798cd8990b08c4a9803d8f9d8
+
+[Hades' Star](https://www.hadesstar.com)

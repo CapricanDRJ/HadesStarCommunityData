@@ -28,3 +28,5 @@ description: W:2 L:5 D:0 Bonus ✅
 | ❌ | 2023/12/10 | 4-36 | [TROLL SQUAD](https://ws.tsl.rocks/corp/91daecf0251a6a1eee3d92820695d021c1f949e194cc5003d7cdebe59ef4502e/) |
 
 Corporation ID: 537807f41149f54b040d4f2bc983c7f1fbfa2242ec5566371330e4996e33a195
+
+[Hades' Star](https://www.hadesstar.com)

@@ -27,3 +27,5 @@ description: W:0 L:3 D:3 Bonus ❌
 | ↔️ | 2024/02/03 | 0-0 | [遨游星空  kdy分盟](https://ws.tsl.rocks/corp/74a42c9e5b716ea7c784243c029ad5dc1871f6b81692170099efdf8d3f94ba8f/) |
 
 Corporation ID: 2ee580123f8c46103f61a4e5edc43e8c3379d17cc2280c935a0a62c6ee81e50c
+
+[Hades' Star](https://www.hadesstar.com)

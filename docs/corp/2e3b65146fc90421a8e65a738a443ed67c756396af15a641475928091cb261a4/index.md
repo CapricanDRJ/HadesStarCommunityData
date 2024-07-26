@@ -28,3 +28,5 @@ description: W:3 L:2 D:1 Bonus ❌
 | ✅ | 2024/01/22 | 16-6 | [RedStar Raiding](https://ws.tsl.rocks/corp/83a1c4f1576eec7dce037eb5b64b2455ca3affb9d3072108c5d4d3eba88b4570/) |
 
 Corporation ID: 2e3b65146fc90421a8e65a738a443ed67c756396af15a641475928091cb261a4
+
+[Hades' Star](https://www.hadesstar.com)

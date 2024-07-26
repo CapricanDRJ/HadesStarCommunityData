@@ -61,3 +61,5 @@ description: W:13 L:18 D:1 Bonus ❌
 | ✅ | 2023/11/08 | 7-0 | [VALHALLA](https://ws.tsl.rocks/corp/5dc84c56129d08a317ddca9de06937aac5071b542a5abd6aa3ea2b0cca86b0a8/) |
 
 Corporation ID: 74a42c9e5b716ea7c784243c029ad5dc1871f6b81692170099efdf8d3f94ba8f
+
+[Hades' Star](https://www.hadesstar.com)

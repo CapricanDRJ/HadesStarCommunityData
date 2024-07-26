@@ -44,3 +44,5 @@ description: W:21 L:1 D:0 Bonus ✅
 | ✅ | 2023/12/01 | 4-2 | [From the Fire](https://ws.tsl.rocks/corp/df5d313a4fe6681f19a6d47d364e4611a1e9c840abf8f6978cfa2418cb0e37cf/) |
 
 Corporation ID: 54b8724d96e9c022ab2907e45bead9f5b45b02fca093dc0fe5827f14644b2663
+
+[Hades' Star](https://www.hadesstar.com)

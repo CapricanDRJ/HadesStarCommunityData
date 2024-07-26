@@ -51,3 +51,5 @@ description: W:12 L:11 D:1 Bonus ✅
 | ❌ | 2024/01/06 | 3-5 | [Quadra FR](https://ws.tsl.rocks/corp/e87ef7b09a57216e03405e0f951199ff8b37dd4397d2f7da36bd269fe42ba974/) |
 
 Corporation ID: f889cafae8c2e0c622ae5494ce013504bf204ba00f7c7b44c61985588ee8f53c
+
+[Hades' Star](https://www.hadesstar.com)

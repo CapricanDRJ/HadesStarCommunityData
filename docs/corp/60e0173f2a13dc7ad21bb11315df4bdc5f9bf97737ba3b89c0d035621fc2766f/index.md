@@ -39,3 +39,5 @@ description: W:9 L:8 D:0 Bonus ✅
 | ❌ | 2023/11/29 | 4-7 | [FėniX•](https://ws.tsl.rocks/corp/8307d1da2d91b1b6f2cdf365b891741a148ac78d385e34734a0e083d318248b2/) |
 
 Corporation ID: 60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f
+
+[Hades' Star](https://www.hadesstar.com)

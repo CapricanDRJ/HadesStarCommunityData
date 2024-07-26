@@ -35,3 +35,5 @@ description: W:5 L:8 D:0 Bonus ❌
 | ✅ | 2023/11/09 | 3-0 | [Sternenbund](https://ws.tsl.rocks/corp/bc271b888ea386af54e2fc911a98d01951a0c2bb776a079d2ae005c477072587/) |
 
 Corporation ID: 317c4e8eee128258999e74199d05d070892a652c3a65b84b26010f50ee0f8e22
+
+[Hades' Star](https://www.hadesstar.com)

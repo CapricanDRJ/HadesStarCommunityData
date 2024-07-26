@@ -24,3 +24,5 @@ description: W:0 L:3 D:0 Bonus ❌
 | ❌ | 2024/01/05 | 0-9 | [FėniX•](https://ws.tsl.rocks/corp/8307d1da2d91b1b6f2cdf365b891741a148ac78d385e34734a0e083d318248b2/) |
 
 Corporation ID: e069826357fea955233cc29c81bb28ed9a781f8991d00833046b9f4fa240c826
+
+[Hades' Star](https://www.hadesstar.com)

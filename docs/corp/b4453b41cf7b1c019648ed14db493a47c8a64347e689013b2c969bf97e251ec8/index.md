@@ -28,3 +28,5 @@ description: W:4 L:1 D:0 Bonus ✅
 | ❌ | 2024/05/26 | 3-9 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) |
 
 Corporation ID: b4453b41cf7b1c019648ed14db493a47c8a64347e689013b2c969bf97e251ec8
+
+[Hades' Star](https://www.hadesstar.com)

@@ -33,3 +33,5 @@ description: W:2 L:4 D:1 Bonus ❌
 | ✅ | 2023/11/15 | 12-0 | [лезвия тьмы ](https://ws.tsl.rocks/corp/db7c5557829278a97b936e9b849cb3d1003962011f6b98d1bc26b6219c605e8b/) |
 
 Corporation ID: 5cc773684246e055601c9b0ca8200c1ca66a040c6e8cba90121f528cb792753a
+
+[Hades' Star](https://www.hadesstar.com)

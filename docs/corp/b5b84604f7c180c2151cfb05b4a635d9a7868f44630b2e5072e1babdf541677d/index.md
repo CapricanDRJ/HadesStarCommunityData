@@ -24,3 +24,5 @@ description: W:0 L:3 D:0 Bonus ❌
 | ❌ | 2023/12/01 | 0-25 | [GermanSpaceUno\.](https://ws.tsl.rocks/corp/47482f042b35cecaaaf58ee05b6672bab3c49469b039f75f304535ffd2d02491/) |
 
 Corporation ID: b5b84604f7c180c2151cfb05b4a635d9a7868f44630b2e5072e1babdf541677d
+
+[Hades' Star](https://www.hadesstar.com)

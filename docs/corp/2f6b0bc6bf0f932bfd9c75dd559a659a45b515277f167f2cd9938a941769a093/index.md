@@ -32,3 +32,5 @@ description: W:0 L:9 D:2 Bonus ❌
 | ❌ | 2023/11/11 | 0-28 | [Fishy Business ](https://ws.tsl.rocks/corp/5e8f1a51e0fbc07f06f14b1569aea75167fed51aae36416f70b2799f67906bbd/) |
 
 Corporation ID: 2f6b0bc6bf0f932bfd9c75dd559a659a45b515277f167f2cd9938a941769a093
+
+[Hades' Star](https://www.hadesstar.com)

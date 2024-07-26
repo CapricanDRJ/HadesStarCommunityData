@@ -28,3 +28,5 @@ description: W:4 L:2 D:0 Bonus ❌
 | ✅ | 2023/11/11 | 5-1 | [CDG](https://ws.tsl.rocks/corp/0372d45acdd50729ec92e18f0e973f382362ae554f8d15778250b493e887cce2/) |
 
 Corporation ID: 5f994f185c0d8bc015c42fcbe8655c6cf2ff0c8d0a37c08f1ce54dbc97dd1ce3
+
+[Hades' Star](https://www.hadesstar.com)

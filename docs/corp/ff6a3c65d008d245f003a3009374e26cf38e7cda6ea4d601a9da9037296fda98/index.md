@@ -79,3 +79,5 @@ description: W:18 L:30 D:0 Bonus ❌
 | ✅ | 2023/11/05 | 11-4 | [Les Chevaliers](https://ws.tsl.rocks/corp/5066bce563c093b32a01ddf6e9aba77a363d997bb3b5ae47465c13434af06853/) |
 
 Corporation ID: ff6a3c65d008d245f003a3009374e26cf38e7cda6ea4d601a9da9037296fda98
+
+[Hades' Star](https://www.hadesstar.com)

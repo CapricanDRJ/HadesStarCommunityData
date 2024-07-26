@@ -30,3 +30,5 @@ description: W:4 L:4 D:0 Bonus ❌
 | ✅ | 2023/11/18 | 8-7 | [Order of Ares](https://ws.tsl.rocks/corp/ed566147265086b7d56b1df1fd1deca6db34c89448bd784f644d9e68cbe9330e/) |
 
 Corporation ID: fa82ca5593a431614d1bf5f7c170fee2eeebb55354a86d2d7cd6dd48c4e05edc
+
+[Hades' Star](https://www.hadesstar.com)

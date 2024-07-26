@@ -28,3 +28,5 @@ description: W:3 L:2 D:0 Bonus ❌
 | ✅ | 2024/02/21 | 29-0 | [荣耀之星](https://ws.tsl.rocks/corp/4334fd4d4ffbc89487deaec7bb38025aba46209b810578436882be271fdbff23/) |
 
 Corporation ID: 8f0d25fe4c802f32f4d3d4ad1a84583c5ae98e4a788a1fa260ef9bd70268818b
+
+[Hades' Star](https://www.hadesstar.com)

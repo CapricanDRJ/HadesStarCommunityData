@@ -41,3 +41,5 @@ description: W:5 L:8 D:0 Bonus ✅
 | ❌ | 2023/11/25 | 31-32 | [Space Penguins](https://ws.tsl.rocks/corp/6255ba7dab1bd2b150825874d1fea70b029dc79434f293d47518c27b0376e286/) |
 
 Corporation ID: d4075195191cabef801494d3accc0e6cc8c09f534fd9203f6e43c9930acffa56
+
+[Hades' Star](https://www.hadesstar.com)

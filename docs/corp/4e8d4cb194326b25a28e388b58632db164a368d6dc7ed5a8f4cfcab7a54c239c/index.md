@@ -86,3 +86,5 @@ description: W:10 L:43 D:1 Bonus ✅
 | ❌ | 2024/03/06 | 0-21 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 
 Corporation ID: 4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c
+
+[Hades' Star](https://www.hadesstar.com)

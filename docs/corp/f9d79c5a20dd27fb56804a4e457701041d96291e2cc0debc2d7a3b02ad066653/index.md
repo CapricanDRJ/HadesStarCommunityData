@@ -24,3 +24,5 @@ description: W:0 L:3 D:0 Bonus ❌
 | ❌ | 2023/11/10 | 12-31 | [ANZAC Warriors](https://ws.tsl.rocks/corp/dbb190c3127dbab2a3d6d58f1f8f63425f1dbd1949f6442fb2d162e66246b484/) |
 
 Corporation ID: f9d79c5a20dd27fb56804a4e457701041d96291e2cc0debc2d7a3b02ad066653
+
+[Hades' Star](https://www.hadesstar.com)

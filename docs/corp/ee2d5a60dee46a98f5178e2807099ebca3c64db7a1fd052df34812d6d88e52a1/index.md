@@ -39,3 +39,5 @@ description: W:2 L:11 D:0 Bonus ❌
 | ❌ | 2023/11/11 | 3-11 | [USSR](https://ws.tsl.rocks/corp/775ec12999c2bb5396801268de447d30104b470d9f093ec4afea9c9db71d7690/) |
 
 Corporation ID: ee2d5a60dee46a98f5178e2807099ebca3c64db7a1fd052df34812d6d88e52a1
+
+[Hades' Star](https://www.hadesstar.com)

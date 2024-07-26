@@ -23,3 +23,5 @@ description: W:0 L:1 D:1 Bonus ❌
 | ↔️ | 2023/11/06 | 3-3 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
 
 Corporation ID: cd35bc5d7637a2804496e55b68cd138afe3f993bb62691cfeaae93f7549344e3
+
+[Hades' Star](https://www.hadesstar.com)

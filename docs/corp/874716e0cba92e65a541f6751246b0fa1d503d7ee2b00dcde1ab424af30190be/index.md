@@ -33,3 +33,5 @@ description: W:1 L:11 D:0 Bonus ❌
 | ❌ | 2023/11/16 | 3-12 | [death squadron ](https://ws.tsl.rocks/corp/7177b5a598ff387d35b2348e1ec750a9f237fbf70d8016207ea3da1619c44e5b/) |
 
 Corporation ID: 874716e0cba92e65a541f6751246b0fa1d503d7ee2b00dcde1ab424af30190be
+
+[Hades' Star](https://www.hadesstar.com)

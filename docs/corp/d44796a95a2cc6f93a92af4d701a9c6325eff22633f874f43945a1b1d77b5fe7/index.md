@@ -42,3 +42,5 @@ description: W:10 L:10 D:0 Bonus ❌
 | ✅ | 2023/11/20 | 4-0 | [Snack Empire](https://ws.tsl.rocks/corp/e7b912cdbd535c7bae1a2176819caef605c402607aa368b529db6b36d746036b/) |
 
 Corporation ID: d44796a95a2cc6f93a92af4d701a9c6325eff22633f874f43945a1b1d77b5fe7
+
+[Hades' Star](https://www.hadesstar.com)

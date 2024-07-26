@@ -38,3 +38,5 @@ description: W:8 L:8 D:0 Bonus ✅
 | ❌ | 2023/11/11 | 4-8 | [SpaceCowboys](https://ws.tsl.rocks/corp/e6bb3b9dcc40ad7f7c82fd0f7164a99fa6264c05a186ed9f33011a7f315ca507/) |
 
 Corporation ID: 2044ad2bb7831118aae299744191230a33d196c7997f9516a20c3d0a321ba669
+
+[Hades' Star](https://www.hadesstar.com)

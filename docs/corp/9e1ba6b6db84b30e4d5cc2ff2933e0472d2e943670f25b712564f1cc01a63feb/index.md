@@ -27,3 +27,5 @@ description: W:2 L:3 D:0 Bonus ❌
 | ✅ | 2023/11/07 | 12-0 | [L’Amalgame](https://ws.tsl.rocks/corp/df81071f9e7c53a02b3ea304186da07ff697dbcea3c0ee7a820e6ec44f31156c/) |
 
 Corporation ID: 9e1ba6b6db84b30e4d5cc2ff2933e0472d2e943670f25b712564f1cc01a63feb
+
+[Hades' Star](https://www.hadesstar.com)

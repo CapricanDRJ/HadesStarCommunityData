@@ -26,3 +26,5 @@ description: W:2 L:2 D:0 Bonus ✅
 | ❌ | 2024/07/02 | 3-12 | [RUFORS](https://ws.tsl.rocks/corp/f1e7f82e284c8233985039ea19544dbfa937f38f2315e9ad6a1d037423071b6d/) |
 
 Corporation ID: d92c939be23b35542ca2d0ae7cdc4b1288d5d5e78be2dfb74cb0360f5524d01c
+
+[Hades' Star](https://www.hadesstar.com)

@@ -65,3 +65,5 @@ description: W:32 L:5 D:0 Bonus ✅
 | ✅ | 2023/11/08 | 18-0 | [边际的文明](https://ws.tsl.rocks/corp/4e21eaedc914a082c3bbb48fc00a00db0993fa6da46c25db658dfdc2857e7eb9/) |
 
 Corporation ID: fb10f33f3db17b99b0d227f17e7fde76ef067dc4a4bb4ae05e46c76d2e5e8ea1
+
+[Hades' Star](https://www.hadesstar.com)

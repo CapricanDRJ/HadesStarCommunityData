@@ -56,3 +56,5 @@ description: W:18 L:11 D:0 Bonus ❌
 | ❌ | 2023/11/06 | 8-22 | [Providence](https://ws.tsl.rocks/corp/f12fc39ca2326de7c5ce96c005b1953c86430443f1f8b98e7515d082b43b4d4b/) |
 
 Corporation ID: e93a2f2efda24a65c8ee7eb57fbb269e19b2b1c28a67c6c7c3339b8c90f7726b
+
+[Hades' Star](https://www.hadesstar.com)

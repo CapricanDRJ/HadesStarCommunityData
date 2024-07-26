@@ -48,3 +48,5 @@ description: W:15 L:6 D:0 Bonus ❌
 | ✅ | 2023/11/10 | 27-4 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 
 Corporation ID: e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015
+
+[Hades' Star](https://www.hadesstar.com)

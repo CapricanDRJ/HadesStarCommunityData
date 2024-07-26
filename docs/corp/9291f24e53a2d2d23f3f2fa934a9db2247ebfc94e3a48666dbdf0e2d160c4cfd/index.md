@@ -84,3 +84,5 @@ description: W:24 L:24 D:2 Bonus ✅
 | ✅ | 2023/11/10 | 11-3 | [Gallaecia](https://ws.tsl.rocks/corp/4ab98cfc4948a6b1706e3527686ce3fd29eead3cdf4cf00ee2dfde925ba55515/) |
 
 Corporation ID: 9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd
+
+[Hades' Star](https://www.hadesstar.com)

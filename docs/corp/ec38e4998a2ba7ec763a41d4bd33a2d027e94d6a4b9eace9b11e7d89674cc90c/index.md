@@ -56,3 +56,5 @@ description: W:19 L:5 D:0 Bonus ✅
 | ❌ | 2023/11/17 | 37-51 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) |
 
 Corporation ID: ec38e4998a2ba7ec763a41d4bd33a2d027e94d6a4b9eace9b11e7d89674cc90c
+
+[Hades' Star](https://www.hadesstar.com)

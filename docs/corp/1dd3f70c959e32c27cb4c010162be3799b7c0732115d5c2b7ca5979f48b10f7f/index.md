@@ -36,3 +36,5 @@ description: W:9 L:3 D:1 Bonus ✅
 | ❌ | 2024/05/23 | 2-23 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 
 Corporation ID: 1dd3f70c959e32c27cb4c010162be3799b7c0732115d5c2b7ca5979f48b10f7f
+
+[Hades' Star](https://www.hadesstar.com)

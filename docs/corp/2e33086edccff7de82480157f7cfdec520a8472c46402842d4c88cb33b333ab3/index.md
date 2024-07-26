@@ -26,3 +26,5 @@ description: W:0 L:5 D:0 Bonus ❌
 | ❌ | 2023/11/19 | 0-31 | [OntarioDistrict](https://ws.tsl.rocks/corp/dc46145cd9b027168631d405d5620e9e03d335aa34416d124ca5901c074d85ec/) |
 
 Corporation ID: 2e33086edccff7de82480157f7cfdec520a8472c46402842d4c88cb33b333ab3
+
+[Hades' Star](https://www.hadesstar.com)

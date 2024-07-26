@@ -38,3 +38,5 @@ description: W:10 L:6 D:0 Bonus ✅
 | ✅ | 2023/11/23 | 7-0 | [l'empire sylli](https://ws.tsl.rocks/corp/0f9d92470641b1e171644fb99f888ee88663ea4ba40d1af7bd21d5aac1abd587/) |
 
 Corporation ID: 4d949404db40dec4e95e786811959954fc9e2b1361f3bf0d33af2279ff86d23a
+
+[Hades' Star](https://www.hadesstar.com)

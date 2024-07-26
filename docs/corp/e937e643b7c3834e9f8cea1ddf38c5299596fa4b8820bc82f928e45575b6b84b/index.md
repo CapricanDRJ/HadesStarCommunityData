@@ -37,3 +37,5 @@ description: W:5 L:2 D:3 Bonus ❌
 | ✅ | 2024/02/02 | 7-1 | [Eternal empire ](https://ws.tsl.rocks/corp/c710661fec52581acc50c1f8a96dfb2dc3e582cf877080c41714526c98cd7193/) |
 
 Corporation ID: e937e643b7c3834e9f8cea1ddf38c5299596fa4b8820bc82f928e45575b6b84b
+
+[Hades' Star](https://www.hadesstar.com)

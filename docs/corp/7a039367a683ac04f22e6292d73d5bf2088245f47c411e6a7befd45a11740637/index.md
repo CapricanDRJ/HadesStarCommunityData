@@ -26,3 +26,5 @@ description: W:1 L:3 D:1 Bonus ❌
 | ↔️ | 2023/12/11 | 4-4 | [P\!RAT£ SHIP](https://ws.tsl.rocks/corp/edee949826201f74f57f45c101789757954710e3d075602dfdda7765a69a7e7c/) |
 
 Corporation ID: 7a039367a683ac04f22e6292d73d5bf2088245f47c411e6a7befd45a11740637
+
+[Hades' Star](https://www.hadesstar.com)

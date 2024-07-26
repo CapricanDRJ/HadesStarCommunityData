@@ -40,3 +40,5 @@ description: W:4 L:9 D:0 Bonus ❌
 | ✅ | 2023/11/08 | 13-5 | [Oficina Tuga](https://ws.tsl.rocks/corp/2fff67029125a29f7fa3252e0f8387f3ae93c6c59bd05d358723e02f3199db72/) |
 
 Corporation ID: ef2a58ee1052c616143ee1bf5e380609a7c061c603d10775b81563869a44433f
+
+[Hades' Star](https://www.hadesstar.com)

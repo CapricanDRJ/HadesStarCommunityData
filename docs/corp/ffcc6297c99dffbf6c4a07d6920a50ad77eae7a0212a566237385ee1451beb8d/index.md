@@ -23,3 +23,5 @@ description: W:0 L:2 D:0 Bonus ❌
 | ❌ | 2023/11/25 | 4-25 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 
 Corporation ID: ffcc6297c99dffbf6c4a07d6920a50ad77eae7a0212a566237385ee1451beb8d
+
+[Hades' Star](https://www.hadesstar.com)

@@ -26,3 +26,5 @@ description: W:1 L:4 D:0 Bonus ❌
 | ❌ | 2023/11/19 | 7-25 | [Equinox](https://ws.tsl.rocks/corp/666001c1d87fbfcf6a3d8614e2b5b9f0e4aa96fa4c098c004bea9fb92ed330c2/) |
 
 Corporation ID: e45c27c77c0f1d82749ccc884b8fb5f4ea76c1b0d063321a7a860504a73365ff
+
+[Hades' Star](https://www.hadesstar.com)

@@ -113,3 +113,5 @@ description: W:18 L:59 D:1 Bonus ✅
 | ✅ | 2023/11/05 | 11-6 | [Дом Датэ](https://ws.tsl.rocks/corp/10cbcbd91c4084657bdab01ef573cc48170fbc4dd0ab533f96712f1cb6097ff2/) |
 
 Corporation ID: 597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead
+
+[Hades' Star](https://www.hadesstar.com)

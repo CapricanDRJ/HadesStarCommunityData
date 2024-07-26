@@ -27,3 +27,5 @@ description: W:3 L:2 D:0 Bonus ❌
 | ✅ | 2024/02/22 | 9-0 | [猎户座星云](https://ws.tsl.rocks/corp/6eb23240d8c185984cab8e829f9aba441b284c7a003241d3a521da840a6cbff4/) |
 
 Corporation ID: 55c9ba9c0d06d8c8f3684544bd7452f440470b687b9e5a2ae40e55044b61e711
+
+[Hades' Star](https://www.hadesstar.com)

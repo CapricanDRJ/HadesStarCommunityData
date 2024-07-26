@@ -25,3 +25,5 @@ description: W:2 L:0 D:0 Bonus ✅
 | ✅ | 2024/06/23 | 23-0 | [Armored Union ](https://ws.tsl.rocks/corp/4dacc02ca314ab864578421db538b0eb10b0c8c81dc0edd91c5090717d087c7f/) |
 
 Corporation ID: ceffaeaf5a27ff2773aa6e2ad93ac3ff2a6f152214c5a708a36e0f90e1b727b9
+
+[Hades' Star](https://www.hadesstar.com)

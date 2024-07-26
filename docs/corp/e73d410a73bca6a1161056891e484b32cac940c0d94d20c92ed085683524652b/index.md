@@ -55,3 +55,5 @@ description: W:14 L:12 D:0 Bonus ❌
 | ❌ | 2023/11/06 | 2-29 | [GermanIndustrie](https://ws.tsl.rocks/corp/5d5954b2c9b2decd8836f2b7b9aa404e2f4386ae4fa682b54654459282852986/) |
 
 Corporation ID: e73d410a73bca6a1161056891e484b32cac940c0d94d20c92ed085683524652b
+
+[Hades' Star](https://www.hadesstar.com)

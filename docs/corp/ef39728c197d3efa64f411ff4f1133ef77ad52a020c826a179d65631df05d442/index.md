@@ -24,3 +24,5 @@ description: W:0 L:3 D:0 Bonus ❌
 | ❌ | 2023/11/11 | 14-19 | [星舰月球](https://ws.tsl.rocks/corp/b9a3e1e7fd3a235db7f440974db9210dc9a3b85c39fd437099f32f53cfe1e21c/) |
 
 Corporation ID: ef39728c197d3efa64f411ff4f1133ef77ad52a020c826a179d65631df05d442
+
+[Hades' Star](https://www.hadesstar.com)

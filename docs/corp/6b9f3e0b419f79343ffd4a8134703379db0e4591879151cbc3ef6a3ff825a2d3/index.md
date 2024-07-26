@@ -38,3 +38,5 @@ description: W:3 L:9 D:0 Bonus ✅
 | ❌ | 2024/04/27 | 9-43 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) |
 
 Corporation ID: 6b9f3e0b419f79343ffd4a8134703379db0e4591879151cbc3ef6a3ff825a2d3
+
+[Hades' Star](https://www.hadesstar.com)

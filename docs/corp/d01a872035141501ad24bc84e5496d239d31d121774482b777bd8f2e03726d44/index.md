@@ -44,3 +44,5 @@ description: W:7 L:10 D:0 Bonus ❌
 | ✅ | 2023/11/22 | 10-2 | [Empire of Light](https://ws.tsl.rocks/corp/5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc/) |
 
 Corporation ID: d01a872035141501ad24bc84e5496d239d31d121774482b777bd8f2e03726d44
+
+[Hades' Star](https://www.hadesstar.com)

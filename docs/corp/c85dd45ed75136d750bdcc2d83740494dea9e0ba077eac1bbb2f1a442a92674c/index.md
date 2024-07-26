@@ -70,3 +70,5 @@ description: W:32 L:6 D:0 Bonus ✅
 | ✅ | 2023/11/04 | 23-0 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 
 Corporation ID: c85dd45ed75136d750bdcc2d83740494dea9e0ba077eac1bbb2f1a442a92674c
+
+[Hades' Star](https://www.hadesstar.com)

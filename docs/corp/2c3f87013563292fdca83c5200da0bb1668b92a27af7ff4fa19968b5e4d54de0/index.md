@@ -24,3 +24,5 @@ description: W:0 L:2 D:1 Bonus ❌
 | ❌ | 2023/12/15 | 0-17 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |
 
 Corporation ID: 2c3f87013563292fdca83c5200da0bb1668b92a27af7ff4fa19968b5e4d54de0
+
+[Hades' Star](https://www.hadesstar.com)

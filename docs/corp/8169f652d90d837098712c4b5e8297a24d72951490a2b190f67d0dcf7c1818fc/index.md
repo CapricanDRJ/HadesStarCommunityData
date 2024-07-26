@@ -24,3 +24,5 @@ description: W:0 L:3 D:0 Bonus ❌
 | ❌ | 2024/02/28 | 12-33 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) |
 
 Corporation ID: 8169f652d90d837098712c4b5e8297a24d72951490a2b190f67d0dcf7c1818fc
+
+[Hades' Star](https://www.hadesstar.com)

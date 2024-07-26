@@ -66,3 +66,5 @@ description: W:10 L:26 D:1 Bonus ❌
 | ✅ | 2023/11/25 | 12-0 | [Galaxy knights](https://ws.tsl.rocks/corp/e2fdd92c8c65a1319fc38e36e02c598cfba35a84770417b582cf6d8f6353d431/) |
 
 Corporation ID: 2ec904c87d0183a49e22dc53508fa5c75d6e638e3a152a30336831697c60e91e
+
+[Hades' Star](https://www.hadesstar.com)

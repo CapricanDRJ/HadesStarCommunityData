@@ -98,3 +98,5 @@ description: W:27 L:34 D:1 Bonus ✅
 | ✅ | 2023/12/09 | 2-0 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) |
 
 Corporation ID: a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd
+
+[Hades' Star](https://www.hadesstar.com)

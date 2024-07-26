@@ -24,3 +24,5 @@ description: W:1 L:2 D:0 Bonus ❌
 | ✅ | 2024/02/09 | 2-0 | [Village of Evil](https://ws.tsl.rocks/corp/9c5d7dfe1198273dd21163553e3154778f448ae7355825ae1db7ceba7236744f/) |
 
 Corporation ID: 4aa9000c49c8a988df27932c5a5840800303bdb713ef35f9d207a4da7f6b0337
+
+[Hades' Star](https://www.hadesstar.com)

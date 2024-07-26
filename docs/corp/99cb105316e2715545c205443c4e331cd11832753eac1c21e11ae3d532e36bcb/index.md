@@ -29,3 +29,5 @@ description: W:4 L:1 D:2 Bonus ❌
 | ✅ | 2023/12/13 | 12-4 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
 
 Corporation ID: 99cb105316e2715545c205443c4e331cd11832753eac1c21e11ae3d532e36bcb
+
+[Hades' Star](https://www.hadesstar.com)

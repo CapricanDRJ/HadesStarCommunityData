@@ -57,3 +57,5 @@ description: W:3 L:27 D:0 Bonus ❌
 | ✅ | 2023/11/08 | 9-3 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) |
 
 Corporation ID: 48b9fa3df8bbc6ce4a8455e9b923f28c0eccb8054c9f72e9c14e6acfee5a23a4
+
+[Hades' Star](https://www.hadesstar.com)

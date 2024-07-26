@@ -57,3 +57,5 @@ description: W:24 L:4 D:0 Bonus ✅
 | ✅ | 2023/11/11 | 39-10 | [Зелёная корпа](https://ws.tsl.rocks/corp/978fbb6cb32789d7057450a2239b1d6e2bc7730bbdd832f816384d45ec44ac57/) |
 
 Corporation ID: b6e23a3f1f3a3c735c694624b273dcd7da2f8bd13a5ac2b36a8ad39737b1d062
+
+[Hades' Star](https://www.hadesstar.com)

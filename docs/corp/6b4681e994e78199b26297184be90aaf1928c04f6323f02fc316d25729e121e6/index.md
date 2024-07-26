@@ -120,3 +120,5 @@ description: W:34 L:47 D:4 Bonus ✅
 | ❌ | 2023/11/05 | 3-6 | [꿀벌왕국](https://ws.tsl.rocks/corp/5835926ee3d1861cbc6fc002291ee3a4b537c1a3a0aef8ea187dfe857505bebc/) |
 
 Corporation ID: 6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6
+
+[Hades' Star](https://www.hadesstar.com)

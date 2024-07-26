@@ -30,3 +30,5 @@ description: W:2 L:7 D:0 Bonus ✅
 | ❌ | 2023/11/09 | 3-21 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 
 Corporation ID: e83b8d576f0efe37e0cdc115b709de051fc57c51a2183f4cb399421766660a73
+
+[Hades' Star](https://www.hadesstar.com)

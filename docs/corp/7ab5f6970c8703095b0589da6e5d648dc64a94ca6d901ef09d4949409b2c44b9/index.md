@@ -29,3 +29,5 @@ description: W:3 L:3 D:0 Bonus ✅
 | ❌ | 2024/01/27 | 0-19 | [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1/) |
 
 Corporation ID: 7ab5f6970c8703095b0589da6e5d648dc64a94ca6d901ef09d4949409b2c44b9
+
+[Hades' Star](https://www.hadesstar.com)

@@ -24,3 +24,5 @@ description: W:1 L:2 D:0 Bonus ❌
 | ✅ | 2023/11/18 | 27-0 | [Greek Warriors](https://ws.tsl.rocks/corp/0ebbf2228c6b86ec5117c216d8909c8e6f32f1a59b8f9b586bcdbbb85f603bc6/) |
 
 Corporation ID: 13948b7eb67a9511aa63c250d6c965b3e15d71e2641d5909b11917a199e8312e
+
+[Hades' Star](https://www.hadesstar.com)

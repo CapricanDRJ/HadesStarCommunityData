@@ -29,3 +29,5 @@ description: W:6 L:0 D:0 Bonus ✅
 | ✅ | 2024/05/29 | 4-3 | [Эдем](https://ws.tsl.rocks/corp/a61dc2c639a91f5b725d43d306ba2eebe1770c92499d7d92086b7a097f939c0d/) |
 
 Corporation ID: 27e96f432a078f197bb5e4c34480ccabc05a9ee48e7bb04d95288fda15e94d3c
+
+[Hades' Star](https://www.hadesstar.com)

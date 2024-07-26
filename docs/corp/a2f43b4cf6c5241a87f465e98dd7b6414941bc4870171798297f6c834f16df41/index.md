@@ -31,3 +31,5 @@ description: W:1 L:4 D:0 Bonus ❌
 | ✅ | 2024/03/04 | 12-5 | [1st/Ave/Junkie2](https://ws.tsl.rocks/corp/b129b678cd83374fa72b5da92172ff1c856b8f72c32bcdb4711d66d06528fca1/) |
 
 Corporation ID: a2f43b4cf6c5241a87f465e98dd7b6414941bc4870171798297f6c834f16df41
+
+[Hades' Star](https://www.hadesstar.com)

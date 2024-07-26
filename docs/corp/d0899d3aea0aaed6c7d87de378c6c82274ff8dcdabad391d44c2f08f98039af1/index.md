@@ -38,3 +38,5 @@ description: W:8 L:7 D:0 Bonus ✅
 | ❌ | 2023/11/07 | 3-10 | [Metal Nova](https://ws.tsl.rocks/corp/ddb2e12bb83dd45bd2125b801dadee5c39602d876314979216b92cec8ca7883e/) |
 
 Corporation ID: d0899d3aea0aaed6c7d87de378c6c82274ff8dcdabad391d44c2f08f98039af1
+
+[Hades' Star](https://www.hadesstar.com)

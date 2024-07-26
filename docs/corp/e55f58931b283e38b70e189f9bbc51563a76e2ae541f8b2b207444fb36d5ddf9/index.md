@@ -33,3 +33,5 @@ description: W:2 L:10 D:0 Bonus ❌
 | ❌ | 2023/11/11 | 0-23 | [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) |
 
 Corporation ID: e55f58931b283e38b70e189f9bbc51563a76e2ae541f8b2b207444fb36d5ddf9
+
+[Hades' Star](https://www.hadesstar.com)

@@ -91,3 +91,5 @@ description: W:33 L:20 D:0 Bonus ✅
 | ✅ | 2023/11/04 | 35-12 | [Sith Empire](https://ws.tsl.rocks/corp/7deb3943434ee3aa56bb4c29a0fb0831bcbc4b570a58a2809ea1a549b7df328e/) |
 
 Corporation ID: 517f7b257f68936f7a95a478d6923776a2549b88897bae628fd35b23572d3cbd
+
+[Hades' Star](https://www.hadesstar.com)

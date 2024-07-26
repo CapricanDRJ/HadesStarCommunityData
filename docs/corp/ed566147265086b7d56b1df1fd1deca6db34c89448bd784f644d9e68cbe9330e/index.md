@@ -23,3 +23,5 @@ description: W:0 L:2 D:0 Bonus ❌
 | ❌ | 2023/11/18 | 7-8 | [Battlestar Fr](https://ws.tsl.rocks/corp/fa82ca5593a431614d1bf5f7c170fee2eeebb55354a86d2d7cd6dd48c4e05edc/) |
 
 Corporation ID: ed566147265086b7d56b1df1fd1deca6db34c89448bd784f644d9e68cbe9330e
+
+[Hades' Star](https://www.hadesstar.com)

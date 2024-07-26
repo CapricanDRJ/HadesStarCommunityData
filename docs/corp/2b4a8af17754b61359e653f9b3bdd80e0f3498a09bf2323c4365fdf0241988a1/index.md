@@ -98,3 +98,5 @@ description: W:34 L:27 D:2 Bonus ✅
 | ❌ | 2023/11/23 | 2-4 | [Br Stark Corps](https://ws.tsl.rocks/corp/bb363d47e9cd8710d6808f6dcc2d270bdf33614e63ea6e0943bb739cde625f27/) |
 
 Corporation ID: 2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1
+
+[Hades' Star](https://www.hadesstar.com)

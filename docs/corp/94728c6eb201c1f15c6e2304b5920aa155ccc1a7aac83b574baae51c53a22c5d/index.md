@@ -51,3 +51,5 @@ description: W:11 L:13 D:0 Bonus ❌
 | ✅ | 2023/11/07 | 23-14 | [Best UA West](https://ws.tsl.rocks/corp/4d9a4fb86f55f49b64d6170705b42f7a2c988cc389331425c13603b0ebce6146/) |
 
 Corporation ID: 94728c6eb201c1f15c6e2304b5920aa155ccc1a7aac83b574baae51c53a22c5d
+
+[Hades' Star](https://www.hadesstar.com)

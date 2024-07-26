@@ -28,3 +28,5 @@ description: W:4 L:2 D:0 Bonus ✅
 | ✅ | 2024/06/27 | 3-0 | [四季长春](https://ws.tsl.rocks/corp/cf0b11914dc18d8e669592ecfe191f115c4e5fdba09d130d260bb625b36a3179/) |
 
 Corporation ID: 2142b75cc6d1c522c423a860fbda7616d7745f8fee25121ec3a8f26068b0f3b5
+
+[Hades' Star](https://www.hadesstar.com)

@@ -22,3 +22,5 @@ description: W:0 L:1 D:0 Bonus ❌
 | ❌ | 2023/12/17 | 0-3 | [Kötbrüder](https://ws.tsl.rocks/corp/3bc45b26e12a26f4a564473f04ec6d044b2fe0dd52486e45348dfd8a10340fe7/) |
 
 Corporation ID: 8ca1d48f76f54d7c1ccc21058960d5ebdebf2794ceebd71d701d4d3eca557489
+
+[Hades' Star](https://www.hadesstar.com)

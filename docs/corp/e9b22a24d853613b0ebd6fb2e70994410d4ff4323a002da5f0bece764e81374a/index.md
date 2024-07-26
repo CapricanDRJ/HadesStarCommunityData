@@ -29,3 +29,5 @@ description: W:3 L:4 D:0 Bonus ❌
 | ✅ | 2023/11/13 | 14-3 | [Alpha ](https://ws.tsl.rocks/corp/accb87a59c1f019d1be37fa2b19ae2aeb35c4a995d1d621a8e987065cd1328fe/) |
 
 Corporation ID: e9b22a24d853613b0ebd6fb2e70994410d4ff4323a002da5f0bece764e81374a
+
+[Hades' Star](https://www.hadesstar.com)

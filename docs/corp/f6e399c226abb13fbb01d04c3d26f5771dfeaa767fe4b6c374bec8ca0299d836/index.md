@@ -23,3 +23,5 @@ description: W:0 L:2 D:0 Bonus ❌
 | ❌ | 2024/07/07 | 0-6 | [Rogue Dudes](https://ws.tsl.rocks/corp/e3af01b69e8035dbe5c48ad403a16f2c1ec8d4d273916750975ea86f317f7582/) |
 
 Corporation ID: f6e399c226abb13fbb01d04c3d26f5771dfeaa767fe4b6c374bec8ca0299d836
+
+[Hades' Star](https://www.hadesstar.com)

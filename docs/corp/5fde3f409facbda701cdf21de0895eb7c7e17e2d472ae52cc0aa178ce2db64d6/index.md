@@ -31,3 +31,5 @@ description: W:0 L:10 D:0 Bonus ❌
 | ❌ | 2023/11/05 | 0-7 | [СвятыеНегодники](https://ws.tsl.rocks/corp/0ff3f8b2bbe76f5e94f3473f3ac40b2e78ea4a03c73aa7d1efd0b6611056d844/) |
 
 Corporation ID: 5fde3f409facbda701cdf21de0895eb7c7e17e2d472ae52cc0aa178ce2db64d6
+
+[Hades' Star](https://www.hadesstar.com)

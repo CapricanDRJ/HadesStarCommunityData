@@ -37,3 +37,5 @@ description: W:3 L:4 D:2 Bonus ❌
 | ↔️ | 2023/12/03 | 3-3 | [Prospectors](https://ws.tsl.rocks/corp/7919c3c38ee794a50b54a2d7a4d0aa78e36cf5a6e35d3e3d6a0c68db2841c167/) |
 
 Corporation ID: 243019fcfd10d4121251ca030b7986781c90f819ba291ee6d7054dc6bbcc9000
+
+[Hades' Star](https://www.hadesstar.com)

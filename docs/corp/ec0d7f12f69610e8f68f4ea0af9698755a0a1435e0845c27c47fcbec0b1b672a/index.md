@@ -33,3 +33,5 @@ description: W:9 L:1 D:0 Bonus ✅
 | ✅ | 2024/05/09 | 10-0 | [PDC](https://ws.tsl.rocks/corp/3cfc5c94fb18b34d3a1018bfbf6d4211d3cfb18ebb02bf7784cebc1e3627de4a/) |
 
 Corporation ID: ec0d7f12f69610e8f68f4ea0af9698755a0a1435e0845c27c47fcbec0b1b672a
+
+[Hades' Star](https://www.hadesstar.com)

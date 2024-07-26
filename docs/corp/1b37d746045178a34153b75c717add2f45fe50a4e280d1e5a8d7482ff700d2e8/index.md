@@ -23,3 +23,5 @@ description: W:1 L:1 D:0 Bonus ❌
 | ✅ | 2023/11/04 | 16-2 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) |
 
 Corporation ID: 1b37d746045178a34153b75c717add2f45fe50a4e280d1e5a8d7482ff700d2e8
+
+[Hades' Star](https://www.hadesstar.com)

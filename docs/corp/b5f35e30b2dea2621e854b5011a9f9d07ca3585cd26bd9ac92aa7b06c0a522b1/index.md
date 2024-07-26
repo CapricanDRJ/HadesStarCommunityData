@@ -44,3 +44,5 @@ description: W:4 L:11 D:3 Bonus ✅
 | ✅ | 2024/02/08 | 20-0 | [The Red Dwarves](https://ws.tsl.rocks/corp/4cecdcd329a545deb9c2a292081f9220114f37e845dbea6dd1ec326390e296dd/) |
 
 Corporation ID: b5f35e30b2dea2621e854b5011a9f9d07ca3585cd26bd9ac92aa7b06c0a522b1
+
+[Hades' Star](https://www.hadesstar.com)

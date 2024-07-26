@@ -102,3 +102,5 @@ description: W:45 L:24 D:0 Bonus ✅
 | ✅ | 2023/11/08 | 13-10 | [OntarioDestiny](https://ws.tsl.rocks/corp/806a86639b93c3a025e026bcedab96052be0e32b712c96217b3d5b330b3f5a6d/) |
 
 Corporation ID: 4000a010c205d318c766ba14fe1836eaab6652f1738a88cce8a8c69d0283e1b0
+
+[Hades' Star](https://www.hadesstar.com)

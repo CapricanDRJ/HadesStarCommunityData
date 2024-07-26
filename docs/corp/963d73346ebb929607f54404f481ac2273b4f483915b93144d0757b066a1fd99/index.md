@@ -60,3 +60,5 @@ description: W:18 L:20 D:0 Bonus ❌
 | ❌ | 2023/11/05 | 0-13 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) |
 
 Corporation ID: 963d73346ebb929607f54404f481ac2273b4f483915b93144d0757b066a1fd99
+
+[Hades' Star](https://www.hadesstar.com)

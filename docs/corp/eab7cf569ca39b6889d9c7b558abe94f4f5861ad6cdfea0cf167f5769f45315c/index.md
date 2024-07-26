@@ -22,3 +22,5 @@ description: W:0 L:1 D:0 Bonus ❌
 | ❌ | 2023/12/03 | 0-3 | [Destroyers](https://ws.tsl.rocks/corp/3756333f55f58944372cf785b972da55796cc179c0ce5f10244e90e3c4355a23/) |
 
 Corporation ID: eab7cf569ca39b6889d9c7b558abe94f4f5861ad6cdfea0cf167f5769f45315c
+
+[Hades' Star](https://www.hadesstar.com)

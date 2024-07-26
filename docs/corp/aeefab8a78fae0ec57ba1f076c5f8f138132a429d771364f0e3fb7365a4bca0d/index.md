@@ -22,3 +22,5 @@ description: W:0 L:1 D:0 Bonus ❌
 | ❌ | 2024/01/30 | 0-3 | [USAR@Hadesstar](https://ws.tsl.rocks/corp/f9078ab279bc09e07910475611036038dcd3afd7840597abb5b738afbb32db33/) |
 
 Corporation ID: aeefab8a78fae0ec57ba1f076c5f8f138132a429d771364f0e3fb7365a4bca0d
+
+[Hades' Star](https://www.hadesstar.com)

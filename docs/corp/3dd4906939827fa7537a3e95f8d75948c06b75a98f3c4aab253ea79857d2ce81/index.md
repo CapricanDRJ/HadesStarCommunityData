@@ -80,3 +80,5 @@ description: W:40 L:8 D:1 Bonus ✅
 | ↔️ | 2023/11/11 | 0-0 | [Vermilion](https://ws.tsl.rocks/corp/1a96e18d1c38ae2d619ce1659e51ddb1b075c87733cacc178f09b8abc52efd89/) |
 
 Corporation ID: 3dd4906939827fa7537a3e95f8d75948c06b75a98f3c4aab253ea79857d2ce81
+
+[Hades' Star](https://www.hadesstar.com)

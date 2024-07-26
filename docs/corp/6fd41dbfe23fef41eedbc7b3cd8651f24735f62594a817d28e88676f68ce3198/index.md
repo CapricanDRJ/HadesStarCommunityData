@@ -28,3 +28,5 @@ description: W:1 L:6 D:0 Bonus ❌
 | ❌ | 2023/11/14 | 0-16 | [ 墨痕 ](https://ws.tsl.rocks/corp/1beef0498f07b07217c6e0727dffd066947edc54ee6d09dc63c031def52cdd60/) |
 
 Corporation ID: 6fd41dbfe23fef41eedbc7b3cd8651f24735f62594a817d28e88676f68ce3198
+
+[Hades' Star](https://www.hadesstar.com)

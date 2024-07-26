@@ -60,3 +60,5 @@ description: W:23 L:8 D:0 Bonus ✅
 | ✅ | 2023/11/22 | 21-2 | [AKA](https://ws.tsl.rocks/corp/5fde3f409facbda701cdf21de0895eb7c7e17e2d472ae52cc0aa178ce2db64d6/) |
 
 Corporation ID: 8a8b7e5b7a00ef709249daa4546d03bd85258cde01d35e1829a64ed95c3d6cca
+
+[Hades' Star](https://www.hadesstar.com)

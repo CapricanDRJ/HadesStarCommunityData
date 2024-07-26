@@ -26,3 +26,5 @@ description: W:2 L:3 D:0 Bonus ❌
 | ✅ | 2023/11/10 | 20-16 | [Dauntless](https://ws.tsl.rocks/corp/8313138d370b0b0f15dea3af851c836f9a1e1e838bf26c652c9a9831fb6b739a/) |
 
 Corporation ID: b533dfd525b3f3f64aeec35ea69fb8c8ffe7d067243f58e16bc1280ade45fb4f
+
+[Hades' Star](https://www.hadesstar.com)

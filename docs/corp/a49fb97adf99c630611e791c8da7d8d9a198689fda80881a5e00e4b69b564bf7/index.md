@@ -81,3 +81,5 @@ description: W:22 L:28 D:0 Bonus ✅
 | ❌ | 2023/12/16 | 5-22 | [Nova Time](https://ws.tsl.rocks/corp/0f1c182652387799cfc3a59082f52a2b01201b13336d84760eab107fb1934ce0/) |
 
 Corporation ID: a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7
+
+[Hades' Star](https://www.hadesstar.com)

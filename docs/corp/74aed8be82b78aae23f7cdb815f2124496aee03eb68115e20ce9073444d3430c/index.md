@@ -28,3 +28,5 @@ description: W:2 L:5 D:0 Bonus ❌
 | ❌ | 2023/11/10 | 23-25 | [Midland Ind\.](https://ws.tsl.rocks/corp/da3a00a59e73cb89ddcf9ae42f31ecf0c9d9b5fe9a2dc5ddec6fc42922f86a23/) |
 
 Corporation ID: 74aed8be82b78aae23f7cdb815f2124496aee03eb68115e20ce9073444d3430c
+
+[Hades' Star](https://www.hadesstar.com)

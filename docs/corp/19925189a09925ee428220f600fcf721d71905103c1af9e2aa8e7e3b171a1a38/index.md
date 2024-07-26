@@ -104,3 +104,5 @@ description: W:36 L:33 D:1 Bonus ✅
 | ✅ | 2023/11/07 | 14-0 | [Imperial Navy](https://ws.tsl.rocks/corp/0f445013f557b459e4493839746dd103be3ace2169b35acbafcb3550ae0da8c1/) |
 
 Corporation ID: 19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38
+
+[Hades' Star](https://www.hadesstar.com)

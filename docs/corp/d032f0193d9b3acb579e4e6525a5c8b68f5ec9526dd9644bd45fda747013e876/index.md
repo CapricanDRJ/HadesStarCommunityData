@@ -43,3 +43,5 @@ description: W:14 L:1 D:0 Bonus ❌
 | ✅ | 2023/12/07 | 15-5 | [拆迁大队](https://ws.tsl.rocks/corp/d8de6fa1ed53aeb856209de01d8a990a562d7438e0abe2cfe50776bb11345f17/) |
 
 Corporation ID: d032f0193d9b3acb579e4e6525a5c8b68f5ec9526dd9644bd45fda747013e876
+
+[Hades' Star](https://www.hadesstar.com)

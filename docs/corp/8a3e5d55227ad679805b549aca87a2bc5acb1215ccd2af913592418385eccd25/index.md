@@ -31,3 +31,5 @@ description: W:1 L:8 D:1 Bonus ❌
 | ❌ | 2023/11/09 | 1-4 | [STARBLAZER ](https://ws.tsl.rocks/corp/f7649968be86f892b511b45792945c0b5d262c5322586eba7482c3d61e28ac72/) |
 
 Corporation ID: 8a3e5d55227ad679805b549aca87a2bc5acb1215ccd2af913592418385eccd25
+
+[Hades' Star](https://www.hadesstar.com)

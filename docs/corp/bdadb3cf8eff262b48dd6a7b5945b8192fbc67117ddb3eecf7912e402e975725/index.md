@@ -76,3 +76,5 @@ description: W:25 L:22 D:0 Bonus ✅
 | ✅ | 2023/11/05 | 12-0 | [Imperio Galacti](https://ws.tsl.rocks/corp/95f1c11e4823279fa171bfd0e76a03db2e35eb4c88e28b70e51e83ff2d767d4c/) |
 
 Corporation ID: bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725
+
+[Hades' Star](https://www.hadesstar.com)

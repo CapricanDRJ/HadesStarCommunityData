@@ -77,3 +77,5 @@ description: W:31 L:15 D:1 Bonus ✅
 | ↔️ | 2023/11/05 | 3-3 | [LANCE](https://ws.tsl.rocks/corp/f9d489fbbe222ff361139bfe234f235c1dfd82f2ccf38f7ecd929e6377408883/) |
 
 Corporation ID: 94fc4639f17e4503a11d4ac3878f3203bca3f21baebf285433ff39ad37f0fff2
+
+[Hades' Star](https://www.hadesstar.com)

@@ -27,3 +27,5 @@ description: W:4 L:1 D:0 Bonus ❌
 | ✅ | 2024/01/16 | 10-1 | [Goblin Squad](https://ws.tsl.rocks/corp/8157fdbc504136281be1becade034cac02082d8e81459a1ec1190bbe7a9f5331/) |
 
 Corporation ID: 7545cead0b3b8e060a0987cc20eed24610a7dfd11dfef11c73a495e39eb07d14
+
+[Hades' Star](https://www.hadesstar.com)

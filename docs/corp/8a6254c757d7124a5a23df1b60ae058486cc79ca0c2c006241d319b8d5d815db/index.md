@@ -30,3 +30,5 @@ description: W:1 L:8 D:0 Bonus ❌
 | ✅ | 2023/11/07 | 18-3 | [Killer Shadow](https://ws.tsl.rocks/corp/e90d22a90153c1fd6c2f02d7d408f1cba9abb2de7f76c38fe7b1aa769df23de7/) |
 
 Corporation ID: 8a6254c757d7124a5a23df1b60ae058486cc79ca0c2c006241d319b8d5d815db
+
+[Hades' Star](https://www.hadesstar.com)

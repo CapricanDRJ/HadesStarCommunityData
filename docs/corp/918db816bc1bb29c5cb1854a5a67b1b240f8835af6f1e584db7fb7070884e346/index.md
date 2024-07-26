@@ -37,3 +37,5 @@ description: W:7 L:3 D:0 Bonus ❌
 | ✅ | 2023/11/23 | 10-0 | [Irish Pride ](https://ws.tsl.rocks/corp/a3c944ea9abef71001c52b6127e716ac11dfbf2b33d21d6f9312cfa0361f1eb8/) |
 
 Corporation ID: 918db816bc1bb29c5cb1854a5a67b1b240f8835af6f1e584db7fb7070884e346
+
+[Hades' Star](https://www.hadesstar.com)

@@ -70,3 +70,5 @@ description: W:14 L:22 D:5 Bonus ✅
 | ↔️ | 2024/03/07 | 0-0 | [华夏太空舰队](https://ws.tsl.rocks/corp/b36847dc8503eb856ff260ff65b39d3e350068b0e85281b9df132a726d080c92/) |
 
 Corporation ID: cf0b11914dc18d8e669592ecfe191f115c4e5fdba09d130d260bb625b36a3179
+
+[Hades' Star](https://www.hadesstar.com)

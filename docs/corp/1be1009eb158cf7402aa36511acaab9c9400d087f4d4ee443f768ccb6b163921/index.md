@@ -29,3 +29,5 @@ description: W:6 L:0 D:0 Bonus ✅
 | ✅ | 2024/07/08 | 10-0 | [Стальная крыса](https://ws.tsl.rocks/corp/cc253c6c109e50b129297a1f56fa3c05a6e0f0b3f7673fcb619358625ab8bdf6/) |
 
 Corporation ID: 1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921
+
+[Hades' Star](https://www.hadesstar.com)

@@ -25,3 +25,5 @@ description: W:1 L:3 D:0 Bonus ❌
 | ❌ | 2023/11/15 | 2-19 | [Dumpster Fire 2](https://ws.tsl.rocks/corp/37d473dec00d4d68e29963e3b423670aac735e7c1f256276e6c2e7d62180b0f8/) |
 
 Corporation ID: d27b02c96ddf32f83c727a329774e46f3cdaa648d1c4ea06883997c3b9a11394
+
+[Hades' Star](https://www.hadesstar.com)

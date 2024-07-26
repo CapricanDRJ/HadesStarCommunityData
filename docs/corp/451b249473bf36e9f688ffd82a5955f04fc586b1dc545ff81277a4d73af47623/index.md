@@ -90,3 +90,5 @@ description: W:20 L:35 D:0 Bonus ✅
 | ✅ | 2023/11/06 | 15-10 | [Game of Stars](https://ws.tsl.rocks/corp/ad5bb68e6076ee70e6715ecead226fc9880b66a87b68acb3098843f723c1562e/) |
 
 Corporation ID: 451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623
+
+[Hades' Star](https://www.hadesstar.com)

@@ -38,3 +38,5 @@ description: W:9 L:7 D:0 Bonus ❌
 | ✅ | 2024/01/02 | 25-2 | [9\-Й СКОРПИОН](https://ws.tsl.rocks/corp/5ad79ec30d5d805635609e2b1e1cf5f399486c1d57f6101cb6015afbd50f5913/) |
 
 Corporation ID: b427cd42ba647399d1a25712254def04083c0a9c2d7faa5c77138050f414c0da
+
+[Hades' Star](https://www.hadesstar.com)

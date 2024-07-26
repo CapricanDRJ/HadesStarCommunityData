@@ -47,3 +47,5 @@ description: W:6 L:14 D:0 Bonus ❌
 | ❌ | 2023/11/10 | 8-23 | [The Seperatists](https://ws.tsl.rocks/corp/f7afefdba007366512764be38eb9c404704e5d4de919e7df2b17560324bbb56f/) |
 
 Corporation ID: be4fa226820fee3399eb064ac8c0d05395ffa93e1c21dbb47d4708dfb0bc9347
+
+[Hades' Star](https://www.hadesstar.com)

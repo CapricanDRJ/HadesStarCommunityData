@@ -50,3 +50,5 @@ description: W:6 L:17 D:0 Bonus ❌
 | ❌ | 2023/11/10 | 16-20 | [Star Dust](https://ws.tsl.rocks/corp/b533dfd525b3f3f64aeec35ea69fb8c8ffe7d067243f58e16bc1280ade45fb4f/) |
 
 Corporation ID: 8313138d370b0b0f15dea3af851c836f9a1e1e838bf26c652c9a9831fb6b739a
+
+[Hades' Star](https://www.hadesstar.com)

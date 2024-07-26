@@ -30,3 +30,5 @@ description: W:5 L:2 D:1 Bonus ❌
 | ✅ | 2024/03/25 | 5-1 | [KhaOSs](https://ws.tsl.rocks/corp/95c40ecac6f4ca7ecd66a5c1e79c568a9486ba450cf71becee48329599573c88/) |
 
 Corporation ID: 9c456dbf32e22070620021bf0bea4d2ab9deb0ac7ad4be06a4067a9ced5f2f5b
+
+[Hades' Star](https://www.hadesstar.com)

@@ -33,3 +33,5 @@ description: W:5 L:6 D:0 Bonus ❌
 | ❌ | 2023/11/20 | 4-13 | [Galactic Empire](https://ws.tsl.rocks/corp/e2223ab2b582a5eb5ae1734e132358eb3c24ddf61fcbeee7b8f6708f26782108/) |
 
 Corporation ID: f4fc42714515d58b6fabb87fd87c01baadb59e219e725bfdc6cf70b21a292054
+
+[Hades' Star](https://www.hadesstar.com)

@@ -60,3 +60,5 @@ description: W:9 L:22 D:1 Bonus ❌
 | ❌ | 2024/01/23 | 1-3 | [Core Systems](https://ws.tsl.rocks/corp/66dfd39587403b544abf2908638162e60a09ff0dfdfebee6265d41ba2a6ab00a/) |
 
 Corporation ID: 30ba418a884a4c2f888c814c6adfd9f30d995c155ccdc8aafa74ae4dc30f1c39
+
+[Hades' Star](https://www.hadesstar.com)

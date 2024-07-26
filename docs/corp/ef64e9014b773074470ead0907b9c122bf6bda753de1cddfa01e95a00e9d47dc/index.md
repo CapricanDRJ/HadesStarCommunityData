@@ -100,3 +100,5 @@ description: W:26 L:39 D:0 Bonus ❌
 | ❌ | 2023/11/13 | 0-22 | [Famous Assasins](https://ws.tsl.rocks/corp/8a3aea3b3dacfd3dcdb402e896204557e250b07b8a5e04b5814600c66cc1a25b/) |
 
 Corporation ID: ef64e9014b773074470ead0907b9c122bf6bda753de1cddfa01e95a00e9d47dc
+
+[Hades' Star](https://www.hadesstar.com)

@@ -40,3 +40,5 @@ description: W:3 L:14 D:2 Bonus ❌
 | ✅ | 2023/11/08 | 3-1 | [新纪元舰队](https://ws.tsl.rocks/corp/d36af8af2f097f561de219867c4bfcc83f266642293429cf3fda159792008277/) |
 
 Corporation ID: aed0edd750f895de01d5a257db42bba7b2098421901f1cf0352b992242d967d9
+
+[Hades' Star](https://www.hadesstar.com)

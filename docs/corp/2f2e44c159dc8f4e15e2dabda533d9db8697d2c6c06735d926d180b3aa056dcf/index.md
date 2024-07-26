@@ -48,3 +48,5 @@ description: W:12 L:8 D:1 Bonus ❌
 | ✅ | 2023/11/15 | 9-4 | [Star Blazers](https://ws.tsl.rocks/corp/f179acb7b919d9d3185f1fcd66bb17d5e257feab5039bcbf6efb5c8cd6f5c057/) |
 
 Corporation ID: 2f2e44c159dc8f4e15e2dabda533d9db8697d2c6c06735d926d180b3aa056dcf
+
+[Hades' Star](https://www.hadesstar.com)

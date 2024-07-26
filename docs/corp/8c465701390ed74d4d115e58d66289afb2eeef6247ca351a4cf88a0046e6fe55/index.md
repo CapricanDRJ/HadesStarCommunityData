@@ -58,3 +58,5 @@ description: W:16 L:13 D:1 Bonus ✅
 | ✅ | 2024/03/15 | 9-0 | [pegaso](https://ws.tsl.rocks/corp/b704373fcf3fd41b81214bd5802cc28b31cab2e01bafd23e0fc199cbce934109/) |
 
 Corporation ID: 8c465701390ed74d4d115e58d66289afb2eeef6247ca351a4cf88a0046e6fe55
+
+[Hades' Star](https://www.hadesstar.com)

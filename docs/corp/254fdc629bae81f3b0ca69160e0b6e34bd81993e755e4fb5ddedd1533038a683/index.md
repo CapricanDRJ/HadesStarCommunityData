@@ -41,3 +41,5 @@ description: W:5 L:9 D:0 Bonus ❌
 | ✅ | 2024/03/10 | 9-2 | [湖心亭看雪](https://ws.tsl.rocks/corp/eb4316c2fbedc2f03ed45e128c8c8d96376d1d1125790a9b9697481dacd002fb/) |
 
 Corporation ID: 254fdc629bae81f3b0ca69160e0b6e34bd81993e755e4fb5ddedd1533038a683
+
+[Hades' Star](https://www.hadesstar.com)

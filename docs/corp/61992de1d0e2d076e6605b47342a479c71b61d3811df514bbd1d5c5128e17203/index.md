@@ -24,3 +24,5 @@ description: W:1 L:2 D:0 Bonus ❌
 | ❌ | 2024/04/22 | 0-9 | [НИФИГАСЕБЕ](https://ws.tsl.rocks/corp/a18fab78c26d983ee99c4cd3c7aaddcfac61283abb2122e9a8ccc44feb2b3196/) |
 
 Corporation ID: 61992de1d0e2d076e6605b47342a479c71b61d3811df514bbd1d5c5128e17203
+
+[Hades' Star](https://www.hadesstar.com)

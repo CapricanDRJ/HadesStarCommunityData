@@ -111,3 +111,5 @@ description: W:50 L:28 D:0 Bonus ✅
 | ❌ | 2023/12/31 | 3-7 | [phoenix clan](https://ws.tsl.rocks/corp/e25bc73528b7029e9b908d920effef5e183928ad3f7b151987a29252d9052c79/) |
 
 Corporation ID: 5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23
+
+[Hades' Star](https://www.hadesstar.com)

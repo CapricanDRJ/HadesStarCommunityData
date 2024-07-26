@@ -26,3 +26,5 @@ description: W:2 L:1 D:0 Bonus ❌
 | ❌ | 2023/11/13 | 0-5 | [边界\-萌新俱乐部](https://ws.tsl.rocks/corp/b5f7e751f69db2b698fd436f3d60af1d1d435f5eb8d0984e45f8fcc7cbc74453/) |
 
 Corporation ID: ab15337bbf806c866d0d0d0e38fcc36569311fcd8ddabd18f8e938df434dc752
+
+[Hades' Star](https://www.hadesstar.com)

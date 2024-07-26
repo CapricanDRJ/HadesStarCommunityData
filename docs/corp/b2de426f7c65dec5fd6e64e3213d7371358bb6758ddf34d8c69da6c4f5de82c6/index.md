@@ -68,3 +68,5 @@ description: W:8 L:30 D:0 Bonus ✅
 | ❌ | 2023/12/01 | 8-39 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) |
 
 Corporation ID: b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6
+
+[Hades' Star](https://www.hadesstar.com)

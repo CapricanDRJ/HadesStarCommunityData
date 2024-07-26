@@ -85,3 +85,5 @@ description: W:20 L:28 D:0 Bonus ❌
 | ❌ | 2023/11/06 | 24-37 | [Stargate Corp](https://ws.tsl.rocks/corp/b698cd0d86be60954a4b995f79fffe102a71c350e47fbdc2a5827f0ed0ca455d/) |
 
 Corporation ID: 85a74d128f924274446b7fb754136e6ef7185c754df2fae3b10591d28536f17a
+
+[Hades' Star](https://www.hadesstar.com)

@@ -56,3 +56,5 @@ description: W:23 L:6 D:0 Bonus ❌
 | ✅ | 2023/12/09 | 5-1 | [하데스 스타 코리아](https://ws.tsl.rocks/corp/36ae3ca01b555bd695500062530b53a2b19cc9d4bab087051ea8775124723e94/) |
 
 Corporation ID: 8e9848f9867c594384d6a31618213447f358c7b308fee91d20991b80b513fdbb
+
+[Hades' Star](https://www.hadesstar.com)

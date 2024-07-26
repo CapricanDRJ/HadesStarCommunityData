@@ -23,3 +23,5 @@ description: W:0 L:2 D:0 Bonus ❌
 | ❌ | 2023/11/12 | 10-13 | [Germania](https://ws.tsl.rocks/corp/e088c9a1e761ef8c1f07a1d374886006b0ecace15d07b9549e3655729b630897/) |
 
 Corporation ID: e0cbb56db982e302ce8b5a1f462def486b0986d978ba6702ca4db2fa6e4cdffb
+
+[Hades' Star](https://www.hadesstar.com)

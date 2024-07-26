@@ -61,3 +61,5 @@ description: W:19 L:13 D:1 Bonus ✅
 | ✅ | 2024/01/25 | 6-0 | [Gold Star](https://ws.tsl.rocks/corp/4f4d16d4a152e144c7bddd46c7d63debbbd550fdae5fe720860a334546330de2/) |
 
 Corporation ID: 9fcd6d7c4fe7f8e39acf48585dfe9c6d3d14edc7781fe8caf85618b3e98c685d
+
+[Hades' Star](https://www.hadesstar.com)

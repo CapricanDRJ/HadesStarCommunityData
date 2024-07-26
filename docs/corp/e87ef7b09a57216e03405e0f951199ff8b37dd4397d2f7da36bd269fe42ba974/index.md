@@ -32,3 +32,5 @@ description: W:6 L:3 D:0 Bonus ❌
 | ✅ | 2024/01/06 | 5-3 | [Dark Training](https://ws.tsl.rocks/corp/f889cafae8c2e0c622ae5494ce013504bf204ba00f7c7b44c61985588ee8f53c/) |
 
 Corporation ID: e87ef7b09a57216e03405e0f951199ff8b37dd4397d2f7da36bd269fe42ba974
+
+[Hades' Star](https://www.hadesstar.com)

@@ -26,3 +26,5 @@ description: W:0 L:5 D:0 Bonus ❌
 | ❌ | 2023/11/20 | 6-21 | [붉은늑대](https://ws.tsl.rocks/corp/43d32b05645aaa9415d1c04ecbcea520d2ed5b90304770cb0ab3813cb86e2f49/) |
 
 Corporation ID: b091930b1e7a5540c2cfaa75d184dc82314a1248bbd6e4daae0867f3f248a19f
+
+[Hades' Star](https://www.hadesstar.com)

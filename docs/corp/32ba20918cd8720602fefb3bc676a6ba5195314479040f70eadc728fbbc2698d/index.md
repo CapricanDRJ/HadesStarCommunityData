@@ -67,3 +67,5 @@ description: W:23 L:14 D:1 Bonus ✅
 | ❌ | 2023/11/07 | 0-26 | [Green Dwarf](https://ws.tsl.rocks/corp/dbfbd1738d98b2f1a9419727fde30070aae0f158a0aa36a78561489c2bb3283a/) |
 
 Corporation ID: 32ba20918cd8720602fefb3bc676a6ba5195314479040f70eadc728fbbc2698d
+
+[Hades' Star](https://www.hadesstar.com)

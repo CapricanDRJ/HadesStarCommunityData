@@ -24,3 +24,5 @@ description: W:1 L:2 D:0 Bonus ❌
 | ✅ | 2023/12/27 | 4-0 | [逐光起航](https://ws.tsl.rocks/corp/e6bb076aa209101b5fa1cbc40a614c241d71ab5eca143c733b81aed6302455e8/) |
 
 Corporation ID: 1e8c6f561b78ffd1dafab5c6427d0d87f3ad6ca8631f538a38ec388c4b30aa41
+
+[Hades' Star](https://www.hadesstar.com)

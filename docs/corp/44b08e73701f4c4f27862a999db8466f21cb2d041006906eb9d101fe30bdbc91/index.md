@@ -23,3 +23,5 @@ description: W:0 L:2 D:0 Bonus ❌
 | ❌ | 2024/01/14 | 0-6 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 
 Corporation ID: 44b08e73701f4c4f27862a999db8466f21cb2d041006906eb9d101fe30bdbc91
+
+[Hades' Star](https://www.hadesstar.com)

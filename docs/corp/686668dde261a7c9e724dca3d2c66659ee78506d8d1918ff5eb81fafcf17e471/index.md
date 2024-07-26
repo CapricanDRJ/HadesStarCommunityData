@@ -23,3 +23,5 @@ description: W:0 L:2 D:0 Bonus ❌
 | ❌ | 2023/11/08 | 0-29 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) |
 
 Corporation ID: 686668dde261a7c9e724dca3d2c66659ee78506d8d1918ff5eb81fafcf17e471
+
+[Hades' Star](https://www.hadesstar.com)

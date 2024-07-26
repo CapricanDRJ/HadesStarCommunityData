@@ -32,3 +32,5 @@ description: W:9 L:1 D:0 Bonus ✅
 | ✅ | 2024/05/21 | 19-0 | [以太超星团](https://ws.tsl.rocks/corp/327addf616128dc5b01013e29e850c76d22ae27af199bcc6bba3b92cee7818ae/) |
 
 Corporation ID: edd3ac94ea8ee1cf441e904ff29c48c21fa5db83af6eb5a6e83ae236b3872b22
+
+[Hades' Star](https://www.hadesstar.com)

@@ -23,3 +23,5 @@ description: W:0 L:2 D:0 Bonus ❌
 | ❌ | 2024/05/22 | 3-20 | [The Allegiant](https://ws.tsl.rocks/corp/1c4cfbcf7902769aff100297d9174153f4c0528ed07918ba494f763a1315ffc6/) |
 
 Corporation ID: e94a4e9301b253a32fbb23ef06a3281cb2b00104b44d4a32b1198c7d00fe316e
+
+[Hades' Star](https://www.hadesstar.com)

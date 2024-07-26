@@ -36,3 +36,5 @@ description: W:7 L:1 D:0 Bonus ✅
 | ✅ | 2024/03/31 | 14-7 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |
 
 Corporation ID: 7160932eb85654ce07649c2689bb5b3e5abcbe84175203e4668b2247c11ffb97
+
+[Hades' Star](https://www.hadesstar.com)

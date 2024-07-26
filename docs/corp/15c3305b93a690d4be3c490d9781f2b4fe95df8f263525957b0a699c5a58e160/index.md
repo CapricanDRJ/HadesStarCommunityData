@@ -26,3 +26,5 @@ description: W:3 L:0 D:0 Bonus ❌
 | ✅ | 2024/03/10 | 31-3 | [Polaris Corpo](https://ws.tsl.rocks/corp/918db816bc1bb29c5cb1854a5a67b1b240f8835af6f1e584db7fb7070884e346/) |
 
 Corporation ID: 15c3305b93a690d4be3c490d9781f2b4fe95df8f263525957b0a699c5a58e160
+
+[Hades' Star](https://www.hadesstar.com)

@@ -112,3 +112,5 @@ description: W:45 L:25 D:0 Bonus ✅
 | ✅ | 2023/11/06 | 34-17 | [Farland Ind\.](https://ws.tsl.rocks/corp/9e0cb5f9ee7451cf8b55ed7f18717a42c7b58995a2717b83f6f98b7872b38e3f/) |
 
 Corporation ID: 74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b
+
+[Hades' Star](https://www.hadesstar.com)

@@ -30,3 +30,5 @@ description: W:0 L:9 D:0 Bonus ❌
 | ❌ | 2023/11/08 | 0-14 | [Yellow Dwarf ](https://ws.tsl.rocks/corp/fe10da4425591ab699e78f02fbfbf1ffa3b132bce029a23d9df715b2d854a0da/) |
 
 Corporation ID: 7172d4e10205869e535b82bbdfc5fea3978414c420bade9a1f96cf10c8e4855d
+
+[Hades' Star](https://www.hadesstar.com)

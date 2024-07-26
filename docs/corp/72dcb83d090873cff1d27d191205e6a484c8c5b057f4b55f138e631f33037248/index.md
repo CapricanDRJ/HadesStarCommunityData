@@ -28,3 +28,5 @@ description: W:1 L:6 D:0 Bonus ❌
 | ❌ | 2024/01/07 | 0-34 | [혁명군](https://ws.tsl.rocks/corp/712800536cbb3ef3357a2480d86cf971596950ac499e699bb3d99f94d1c65f5f/) |
 
 Corporation ID: 72dcb83d090873cff1d27d191205e6a484c8c5b057f4b55f138e631f33037248
+
+[Hades' Star](https://www.hadesstar.com)

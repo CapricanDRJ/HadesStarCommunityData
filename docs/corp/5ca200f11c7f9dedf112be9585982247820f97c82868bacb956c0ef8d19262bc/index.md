@@ -40,3 +40,5 @@ description: W:7 L:11 D:0 Bonus ❌
 | ✅ | 2023/11/07 | 11-0 | [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) |
 
 Corporation ID: 5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc
+
+[Hades' Star](https://www.hadesstar.com)

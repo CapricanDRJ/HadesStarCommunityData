@@ -77,3 +77,5 @@ description: W:23 L:24 D:0 Bonus ❌
 | ✅ | 2023/11/07 | 30-3 | [Helion Prime](https://ws.tsl.rocks/corp/1a09ce5efe86add0a6f0344bc2a12e27c898c0d21641a3f29a450c6d4c4db3f2/) |
 
 Corporation ID: eee919ee67cd5b7eb62548219cd7981660ab85d08ab0fe23b83f1849ca6cf8c6
+
+[Hades' Star](https://www.hadesstar.com)

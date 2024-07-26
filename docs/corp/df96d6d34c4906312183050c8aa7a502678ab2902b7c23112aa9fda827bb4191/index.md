@@ -72,3 +72,5 @@ description: W:35 L:6 D:1 Bonus ✅
 | ✅ | 2024/02/02 | 42-2 | [Star Fleet](https://ws.tsl.rocks/corp/b50e0529c2b2e86bae23d0fb4cbcdc4bff7615c45efb95150747a89dd3ea0231/) |
 
 Corporation ID: df96d6d34c4906312183050c8aa7a502678ab2902b7c23112aa9fda827bb4191
+
+[Hades' Star](https://www.hadesstar.com)

@@ -63,3 +63,5 @@ description: W:21 L:13 D:0 Bonus ❌
 | ✅ | 2023/11/08 | 22-2 | [Ночные Львы](https://ws.tsl.rocks/corp/0ed108e924dc1ffb26f5569d6644d9eeefc397f2435eb15d122fe9f5368aabd7/) |
 
 Corporation ID: 17f4ece94ed033805ed258868416020d302254e2e3becbd1e25381be7933be76
+
+[Hades' Star](https://www.hadesstar.com)

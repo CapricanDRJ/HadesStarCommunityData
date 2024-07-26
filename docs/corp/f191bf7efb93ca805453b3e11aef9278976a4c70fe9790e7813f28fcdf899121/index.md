@@ -74,3 +74,5 @@ description: W:15 L:31 D:0 Bonus ✅
 | ✅ | 2023/11/04 | 4-3 | [Peace Keepers](https://ws.tsl.rocks/corp/7ac71c394c017639785b3ecaa8087bd3b9a9d134e05d22703a3e18217da3380d/) |
 
 Corporation ID: f191bf7efb93ca805453b3e11aef9278976a4c70fe9790e7813f28fcdf899121
+
+[Hades' Star](https://www.hadesstar.com)

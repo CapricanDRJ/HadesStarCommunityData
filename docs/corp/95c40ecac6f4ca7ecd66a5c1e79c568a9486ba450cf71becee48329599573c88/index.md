@@ -23,3 +23,5 @@ description: W:0 L:2 D:0 Bonus ❌
 | ❌ | 2024/03/25 | 1-5 | [Anarchy Nation ](https://ws.tsl.rocks/corp/9c456dbf32e22070620021bf0bea4d2ab9deb0ac7ad4be06a4067a9ced5f2f5b/) |
 
 Corporation ID: 95c40ecac6f4ca7ecd66a5c1e79c568a9486ba450cf71becee48329599573c88
+
+[Hades' Star](https://www.hadesstar.com)

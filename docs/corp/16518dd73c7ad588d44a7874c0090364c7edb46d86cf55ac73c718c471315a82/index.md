@@ -28,3 +28,5 @@ description: W:2 L:4 D:0 Bonus ❌
 | ❌ | 2023/12/03 | 1-27 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 
 Corporation ID: 16518dd73c7ad588d44a7874c0090364c7edb46d86cf55ac73c718c471315a82
+
+[Hades' Star](https://www.hadesstar.com)

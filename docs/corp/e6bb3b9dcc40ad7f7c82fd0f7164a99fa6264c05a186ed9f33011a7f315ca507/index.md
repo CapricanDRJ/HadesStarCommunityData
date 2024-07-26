@@ -40,3 +40,5 @@ description: W:13 L:5 D:0 Bonus ❌
 | ✅ | 2023/11/04 | 14-3 | [Celtic Imperium](https://ws.tsl.rocks/corp/58d284836596e89b4f481066ae27a521175a632d88194574f08bf27baa1f9c7a/) |
 
 Corporation ID: e6bb3b9dcc40ad7f7c82fd0f7164a99fa6264c05a186ed9f33011a7f315ca507
+
+[Hades' Star](https://www.hadesstar.com)

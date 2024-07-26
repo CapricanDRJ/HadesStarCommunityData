@@ -72,3 +72,5 @@ description: W:20 L:22 D:1 Bonus ✅
 | ✅ | 2023/11/04 | 9-0 | [space port](https://ws.tsl.rocks/corp/b7f846ef64a9939084bd4bdd17dc441ffa8fdf49f98bc558f79079c6026a4b3a/) |
 
 Corporation ID: 99a4ba88f6a620cb9ea1da456127c978a858ffbda4e40b255fcf3365515da25d
+
+[Hades' Star](https://www.hadesstar.com)

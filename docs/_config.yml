@@ -1,5 +1,5 @@
 title: Hades' Star Community Data
-description: Leaderboards for top [Hades' Star](https://www.hadesstar.com) corporations, with ELO calculations, match histories, community projects, and downloadable data (CSV, JSON, XLSX).
+description: Leaderboards for top Hades' Star corporations, with ELO calculations, match histories, community projects, and downloadable data (CSV, JSON, XLSX).
 remote_theme: jekyll/minima
 markdown: kramdown
 permalink: pretty

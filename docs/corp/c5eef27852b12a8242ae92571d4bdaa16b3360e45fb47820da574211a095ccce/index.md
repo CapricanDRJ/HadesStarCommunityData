@@ -41,3 +41,5 @@ description: W:7 L:12 D:0 Bonus ❌
 | ✅ | 2023/12/03 | 5-4 | [Thunderbears](https://ws.tsl.rocks/corp/904c85a40298fe616763ce7bc9ac0534ab1d9dd69151c63308a3906f2eb07d54/) |
 
 Corporation ID: c5eef27852b12a8242ae92571d4bdaa16b3360e45fb47820da574211a095ccce
+
+[Hades' Star](https://www.hadesstar.com)

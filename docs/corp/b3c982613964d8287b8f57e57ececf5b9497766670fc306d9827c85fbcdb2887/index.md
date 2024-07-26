@@ -27,3 +27,5 @@ description: W:2 L:2 D:1 Bonus ❌
 | ❌ | 2023/11/18 | 2-8 | [Альянс звезд](https://ws.tsl.rocks/corp/c406351fec6349034d9ae58aec3da43a5507ad86ff9a89b4654a20eb10e6de95/) |
 
 Corporation ID: b3c982613964d8287b8f57e57ececf5b9497766670fc306d9827c85fbcdb2887
+
+[Hades' Star](https://www.hadesstar.com)

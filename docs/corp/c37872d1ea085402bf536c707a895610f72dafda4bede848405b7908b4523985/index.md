@@ -48,3 +48,5 @@ description: W:14 L:5 D:2 Bonus ❌
 | ✅ | 2023/11/19 | 6-4 | [Space Scourge](https://ws.tsl.rocks/corp/04ad48264f0fcb63156d90f6ff6dfd55b1ab9321d56144f671a84c0253bccfc1/) |
 
 Corporation ID: c37872d1ea085402bf536c707a895610f72dafda4bede848405b7908b4523985
+
+[Hades' Star](https://www.hadesstar.com)

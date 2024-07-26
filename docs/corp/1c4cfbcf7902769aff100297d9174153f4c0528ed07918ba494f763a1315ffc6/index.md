@@ -54,3 +54,5 @@ description: W:17 L:8 D:0 Bonus ✅
 | ✅ | 2024/01/12 | 9-6 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 
 Corporation ID: 1c4cfbcf7902769aff100297d9174153f4c0528ed07918ba494f763a1315ffc6
+
+[Hades' Star](https://www.hadesstar.com)

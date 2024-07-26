@@ -63,3 +63,5 @@ description: W:15 L:19 D:0 Bonus ✅
 | ✅ | 2023/11/09 | 27-14 | [Serenity](https://ws.tsl.rocks/corp/729dd8de208cec7b726f7020a744df735fa5d2eeaf4eec44022da4da86fb1f16/) |
 
 Corporation ID: 43689e4266357d8b8d3d66d371109d9aed82ee6df47dc6fa0a7c5da735b9863b
+
+[Hades' Star](https://www.hadesstar.com)

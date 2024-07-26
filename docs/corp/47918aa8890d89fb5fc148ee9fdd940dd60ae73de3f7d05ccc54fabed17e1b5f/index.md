@@ -37,3 +37,5 @@ description: W:5 L:9 D:1 Bonus ❌
 | ❌ | 2024/01/06 | 0-3 | [LUPI ROMÎNI](https://ws.tsl.rocks/corp/934374a52ab97c3cc084b49caec3a1c144b0da9300288269c1efabaa671ca4f6/) |
 
 Corporation ID: 47918aa8890d89fb5fc148ee9fdd940dd60ae73de3f7d05ccc54fabed17e1b5f
+
+[Hades' Star](https://www.hadesstar.com)

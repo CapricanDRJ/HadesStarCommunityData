@@ -33,3 +33,5 @@ description: W:4 L:2 D:0 Bonus ❌
 | ✅ | 2023/11/05 | 29-0 | [龙门训练营](https://ws.tsl.rocks/corp/1409829bbf951ca641274ef39dad828f2b4989e603fbe05e5765204058c13923/) |
 
 Corporation ID: 1b2cbf703ce5571c8f28d0616ca42f0bce30814d3186df5799397698ceb15d1d
+
+[Hades' Star](https://www.hadesstar.com)

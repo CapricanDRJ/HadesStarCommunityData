@@ -25,3 +25,5 @@ description: W:2 L:1 D:0 Bonus ❌
 | ✅ | 2023/11/12 | 26-5 | [Млечный путь](https://ws.tsl.rocks/corp/a9a3b102b3698bf7db8cd106adda02cee0033bfc03f681b667b2991e10049a25/) |
 
 Corporation ID: d4f02aae2e03f6d0af99e1291b59b8bc7ea9c5baae99fc2eff5afe1e4baedc30
+
+[Hades' Star](https://www.hadesstar.com)

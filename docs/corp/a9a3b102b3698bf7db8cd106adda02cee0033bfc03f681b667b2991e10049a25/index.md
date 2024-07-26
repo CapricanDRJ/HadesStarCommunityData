@@ -53,3 +53,5 @@ description: W:12 L:13 D:0 Bonus ❌
 | ❌ | 2023/11/12 | 5-26 | [日月星辰](https://ws.tsl.rocks/corp/d4f02aae2e03f6d0af99e1291b59b8bc7ea9c5baae99fc2eff5afe1e4baedc30/) |
 
 Corporation ID: a9a3b102b3698bf7db8cd106adda02cee0033bfc03f681b667b2991e10049a25
+
+[Hades' Star](https://www.hadesstar.com)

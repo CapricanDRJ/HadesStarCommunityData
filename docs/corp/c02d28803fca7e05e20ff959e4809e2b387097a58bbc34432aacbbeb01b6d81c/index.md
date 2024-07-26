@@ -26,3 +26,5 @@ description: W:1 L:4 D:0 Bonus ❌
 | ❌ | 2024/02/20 | 10-20 | [phoenix clan](https://ws.tsl.rocks/corp/e25bc73528b7029e9b908d920effef5e183928ad3f7b151987a29252d9052c79/) |
 
 Corporation ID: c02d28803fca7e05e20ff959e4809e2b387097a58bbc34432aacbbeb01b6d81c
+
+[Hades' Star](https://www.hadesstar.com)

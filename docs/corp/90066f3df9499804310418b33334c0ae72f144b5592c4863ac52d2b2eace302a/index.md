@@ -56,3 +56,5 @@ description: W:19 L:10 D:0 Bonus ❌
 | ❌ | 2024/01/11 | 3-17 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
 
 Corporation ID: 90066f3df9499804310418b33334c0ae72f144b5592c4863ac52d2b2eace302a
+
+[Hades' Star](https://www.hadesstar.com)

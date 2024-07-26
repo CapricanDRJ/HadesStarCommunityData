@@ -64,3 +64,5 @@ description: W:5 L:29 D:2 Bonus ❌
 | ❌ | 2023/11/10 | 0-2 | [共产星际](https://ws.tsl.rocks/corp/5cb42bdae108ad850e61479922e7d8cb4d5b7be7b8ac2f64fc828d3b88046737/) |
 
 Corporation ID: d52cda2701dd013db91403bab0ff5972e0d9f3a13f842daf8d633025835a6b19
+
+[Hades' Star](https://www.hadesstar.com)

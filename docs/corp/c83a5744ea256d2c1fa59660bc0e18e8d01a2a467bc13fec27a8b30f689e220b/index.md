@@ -29,3 +29,5 @@ description: W:3 L:3 D:0 Bonus ✅
 | ❌ | 2024/06/17 | 2-7 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 
 Corporation ID: c83a5744ea256d2c1fa59660bc0e18e8d01a2a467bc13fec27a8b30f689e220b
+
+[Hades' Star](https://www.hadesstar.com)

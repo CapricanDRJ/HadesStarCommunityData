@@ -28,3 +28,5 @@ description: W:4 L:1 D:0 Bonus ❌
 | ✅ | 2023/12/21 | 4-0 | [羽共和体](https://ws.tsl.rocks/corp/61b6e0502a087307a2ecf50e5d84f6123ad19984dc5790c997f16a676213aa7e/) |
 
 Corporation ID: e25bc73528b7029e9b908d920effef5e183928ad3f7b151987a29252d9052c79
+
+[Hades' Star](https://www.hadesstar.com)

@@ -30,3 +30,5 @@ description: W:2 L:5 D:1 Bonus ❌
 | ❌ | 2023/11/19 | 1-5 | [行星联合军](https://ws.tsl.rocks/corp/5afa03bdcf5439e267c7f2b358e6ae5d16030d3d52b527b58b37236ddfa7fe57/) |
 
 Corporation ID: 61bda63b50c29b34fb12f0bef2b4436cdd3b114bc9896e392d4d6286368fd6b5
+
+[Hades' Star](https://www.hadesstar.com)

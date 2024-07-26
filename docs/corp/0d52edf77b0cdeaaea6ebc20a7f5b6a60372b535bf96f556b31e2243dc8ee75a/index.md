@@ -80,3 +80,5 @@ description: W:24 L:20 D:0 Bonus ❌
 | ✅ | 2023/11/04 | 19-3 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) |
 
 Corporation ID: 0d52edf77b0cdeaaea6ebc20a7f5b6a60372b535bf96f556b31e2243dc8ee75a
+
+[Hades' Star](https://www.hadesstar.com)

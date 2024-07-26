@@ -22,3 +22,5 @@ description: W:0 L:1 D:0 Bonus ❌
 | ❌ | 2023/11/20 | 3-4 | [GhostNakcoorp](https://ws.tsl.rocks/corp/0a15ae22cdfbd88694d3067838a78bea07746ec95f3784b3f65d77fe47d76312/) |
 
 Corporation ID: c344b22861af6071f18b2ac934abdf7a7cc85553ae061f2853b005d60e53b11c
+
+[Hades' Star](https://www.hadesstar.com)

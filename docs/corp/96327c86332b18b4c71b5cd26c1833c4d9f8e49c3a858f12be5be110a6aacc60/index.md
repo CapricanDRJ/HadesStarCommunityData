@@ -24,3 +24,5 @@ description: W:0 L:3 D:0 Bonus ❌
 | ❌ | 2024/05/11 | 0-2 | [Venture](https://ws.tsl.rocks/corp/a48bd30701e4a563543ff54e7c8091cc6b5d0e972c70e4de279a93f4df2f24b0/) |
 
 Corporation ID: 96327c86332b18b4c71b5cd26c1833c4d9f8e49c3a858f12be5be110a6aacc60
+
+[Hades' Star](https://www.hadesstar.com)

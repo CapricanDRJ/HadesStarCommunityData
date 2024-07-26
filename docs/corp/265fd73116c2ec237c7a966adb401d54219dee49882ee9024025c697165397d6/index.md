@@ -72,3 +72,5 @@ description: W:23 L:20 D:1 Bonus ✅
 | ✅ | 2023/12/09 | 6-2 | [神貓聯盟](https://ws.tsl.rocks/corp/b0060a680643209d5d36af067edd941d1c2208dec911b04a998d4c8c482427a5/) |
 
 Corporation ID: 265fd73116c2ec237c7a966adb401d54219dee49882ee9024025c697165397d6
+
+[Hades' Star](https://www.hadesstar.com)

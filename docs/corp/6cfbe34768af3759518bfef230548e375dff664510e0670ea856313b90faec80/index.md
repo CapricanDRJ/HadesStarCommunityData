@@ -24,3 +24,5 @@ description: W:0 L:1 D:2 Bonus ❌
 | ❌ | 2023/12/18 | 0-3 | [Atlas corp](https://ws.tsl.rocks/corp/e729927db5a5672fcc94357f999bc3b66fa38a624f042543b847f82e7fa890a5/) |
 
 Corporation ID: 6cfbe34768af3759518bfef230548e375dff664510e0670ea856313b90faec80
+
+[Hades' Star](https://www.hadesstar.com)

@@ -35,3 +35,5 @@ description: W:0 L:8 D:1 Bonus ❌
 | ❌ | 2023/12/22 | 0-42 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) |
 
 Corporation ID: 31c613a73fedabefb27a1d68ac5b662b294e86a0afaaddec87084b04d7791dbc
+
+[Hades' Star](https://www.hadesstar.com)

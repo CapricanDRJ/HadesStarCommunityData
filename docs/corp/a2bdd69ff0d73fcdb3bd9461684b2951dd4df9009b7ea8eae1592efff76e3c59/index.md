@@ -57,3 +57,5 @@ description: W:17 L:10 D:0 Bonus ❌
 | ✅ | 2023/11/08 | 28-7 | [The Star League](https://ws.tsl.rocks/corp/f8b4a4ab48d0f4dc8e2d35c049289e4cd31960c34c0d114426164f223cdb5140/) |
 
 Corporation ID: a2bdd69ff0d73fcdb3bd9461684b2951dd4df9009b7ea8eae1592efff76e3c59
+
+[Hades' Star](https://www.hadesstar.com)

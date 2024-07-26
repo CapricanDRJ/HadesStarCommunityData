@@ -27,3 +27,5 @@ description: W:2 L:4 D:0 Bonus ❌
 | ❌ | 2023/11/07 | 4-22 | [Stone Legion](https://ws.tsl.rocks/corp/60cd15c27192f777f2e4abc413a83d4ab33bbccd7764a387afd2347dcd3d751a/) |
 
 Corporation ID: 50895e5bb0a19e8fde1c7f28e39fc0f170cbc2743a9f1ba45a88bce067d99152
+
+[Hades' Star](https://www.hadesstar.com)

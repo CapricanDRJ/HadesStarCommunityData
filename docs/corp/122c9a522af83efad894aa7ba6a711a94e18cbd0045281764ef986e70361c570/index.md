@@ -30,3 +30,5 @@ description: W:4 L:4 D:0 Bonus ❌
 | ✅ | 2023/11/09 | 11-2 | [普罗米修斯](https://ws.tsl.rocks/corp/f39d00b1bbbf87c158931fd887f37a588019d0b1fd4f2441fbc675674b71423a/) |
 
 Corporation ID: 122c9a522af83efad894aa7ba6a711a94e18cbd0045281764ef986e70361c570
+
+[Hades' Star](https://www.hadesstar.com)

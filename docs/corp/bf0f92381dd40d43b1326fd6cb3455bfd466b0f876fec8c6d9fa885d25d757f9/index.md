@@ -55,3 +55,5 @@ description: W:8 L:17 D:1 Bonus ❌
 | ❌ | 2023/11/11 | 1-10 | [Новый ЭДЭМ](https://ws.tsl.rocks/corp/f1d15cb357f6e239e540971a84a8b7161bfb5a976716027dbccbbf8e77dac4b5/) |
 
 Corporation ID: bf0f92381dd40d43b1326fd6cb3455bfd466b0f876fec8c6d9fa885d25d757f9
+
+[Hades' Star](https://www.hadesstar.com)

@@ -25,3 +25,5 @@ description: W:1 L:3 D:0 Bonus ❌
 | ❌ | 2023/12/14 | 2-24 | [SternenStaub](https://ws.tsl.rocks/corp/11f1e8a4d522eaef8cb40c95d07b4533097aa6509ddafd1d7efc1449e8b10f38/) |
 
 Corporation ID: bb8c5e4620815c4e35eb2575adf4bf75ba6f74ed21f402e5dfebf3ea0d127229
+
+[Hades' Star](https://www.hadesstar.com)

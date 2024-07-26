@@ -63,3 +63,5 @@ description: W:0 L:26 D:9 Bonus ❌
 | ↔️ | 2023/12/26 | 0-0 | [🌪TORNADO ](https://ws.tsl.rocks/corp/df15d02d32c67d60995e68d6c4197c23b340a0a985f04280563d8d07bd4536fa/) |
 
 Corporation ID: 05094116a999d8e077c5e53dc2241a870c7dc2e68e016455c606ada0dcb40b62
+
+[Hades' Star](https://www.hadesstar.com)

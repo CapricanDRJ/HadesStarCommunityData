@@ -34,3 +34,5 @@ description: W:7 L:5 D:0 Bonus ❌
 | ❌ | 2024/01/07 | 5-13 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) |
 
 Corporation ID: d44b4a2b4a57fd50845c39abe5c6b0a38bab694941fed09d3ca164c1d78625ea
+
+[Hades' Star](https://www.hadesstar.com)

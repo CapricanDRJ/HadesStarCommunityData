@@ -118,3 +118,5 @@ description: W:41 L:41 D:1 Bonus ✅
 | ✅ | 2023/11/09 | 22-6 | [Империя](https://ws.tsl.rocks/corp/28ecac3cd0bd2a08844a9e37cc5c2193b0d086bd860ad1e2cc3e89c6d908cea4/) |
 
 Corporation ID: 04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496
+
+[Hades' Star](https://www.hadesstar.com)

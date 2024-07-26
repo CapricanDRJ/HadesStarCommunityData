@@ -63,3 +63,5 @@ description: W:3 L:28 D:0 Bonus ❌
 | ❌ | 2023/11/10 | 1-52 | [Legion](https://ws.tsl.rocks/corp/313baaeac1c759ca26e0f4bd3140711cffdfa85c287d4c992dcfb809908cf491/) |
 
 Corporation ID: 4eeaf112dd9983e997c8c9ec43e562763a8cd4a95f268b4bfeee5e39934f01de
+
+[Hades' Star](https://www.hadesstar.com)

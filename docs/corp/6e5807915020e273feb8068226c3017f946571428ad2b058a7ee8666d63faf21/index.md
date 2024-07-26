@@ -80,3 +80,5 @@ description: W:10 L:40 D:1 Bonus ✅
 | ❌ | 2023/11/06 | 5-6 | [Hail Hydra](https://ws.tsl.rocks/corp/32527ae821386573e64d75451a2fce9d6731e290d0cfab03e7d953356979baf8/) |
 
 Corporation ID: 6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21
+
+[Hades' Star](https://www.hadesstar.com)

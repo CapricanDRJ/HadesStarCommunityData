@@ -27,3 +27,5 @@ description: W:3 L:1 D:0 Bonus ❌
 | ❌ | 2023/11/11 | 3-31 | [<a\>超越®</a\>光速℡](https://ws.tsl.rocks/corp/771c827eb591813e3b88ff38b0031d09519b0f3d5fe01666aa4711bfd5052857/) |
 
 Corporation ID: c4be34dcc0fcf9c2c0cef9c6f2ce31798d5435dadefaccbcb2502e65252ae677
+
+[Hades' Star](https://www.hadesstar.com)

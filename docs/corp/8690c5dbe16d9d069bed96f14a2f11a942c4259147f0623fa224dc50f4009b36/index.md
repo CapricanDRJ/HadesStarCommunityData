@@ -82,3 +82,5 @@ description: W:8 L:43 D:0 Bonus ✅
 | ❌ | 2023/12/10 | 3-36 | [YETI Collective](https://ws.tsl.rocks/corp/ff6a3c65d008d245f003a3009374e26cf38e7cda6ea4d601a9da9037296fda98/) |
 
 Corporation ID: 8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36
+
+[Hades' Star](https://www.hadesstar.com)

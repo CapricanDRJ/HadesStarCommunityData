@@ -27,3 +27,5 @@ description: W:3 L:2 D:0 Bonus ✅
 | ✅ | 2024/05/09 | 9-7 | [Bacon Warriors](https://ws.tsl.rocks/corp/ec62b01fc96adc2a7b7ac4077438e5153eeefc94740fab8309dcb6613e3a7f48/) |
 
 Corporation ID: fe3875cc3bc7cd97ee3d418bb35d69d8ec90da355cbec2dfb7a364387e021240
+
+[Hades' Star](https://www.hadesstar.com)

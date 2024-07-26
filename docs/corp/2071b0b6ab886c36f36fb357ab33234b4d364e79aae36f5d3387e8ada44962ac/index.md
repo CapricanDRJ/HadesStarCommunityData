@@ -56,3 +56,5 @@ description: W:23 L:6 D:0 Bonus ❌
 | ✅ | 2023/12/08 | 1-0 | [苏维埃联邦](https://ws.tsl.rocks/corp/4b067d39aa68bf846ec24a1af1a1038844cfa78699d1190f74a77b1745e148ac/) |
 
 Corporation ID: 2071b0b6ab886c36f36fb357ab33234b4d364e79aae36f5d3387e8ada44962ac
+
+[Hades' Star](https://www.hadesstar.com)

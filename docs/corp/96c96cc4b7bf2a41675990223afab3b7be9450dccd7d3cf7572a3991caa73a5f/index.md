@@ -26,3 +26,5 @@ description: W:2 L:2 D:0 Bonus ❌
 | ❌ | 2023/11/09 | 8-33 | [GDZ](https://ws.tsl.rocks/corp/a04890160268d05cf11f997b0a1c724fbbcfa66b2ea4cb1c4b56ca18d0425d62/) |
 
 Corporation ID: 96c96cc4b7bf2a41675990223afab3b7be9450dccd7d3cf7572a3991caa73a5f
+
+[Hades' Star](https://www.hadesstar.com)

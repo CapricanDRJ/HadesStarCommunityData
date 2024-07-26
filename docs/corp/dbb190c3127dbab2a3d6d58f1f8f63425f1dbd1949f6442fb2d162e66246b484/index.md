@@ -50,3 +50,5 @@ description: W:16 L:5 D:1 Bonus ❌
 | ✅ | 2023/11/04 | 21-4 | [SNSS](https://ws.tsl.rocks/corp/ce1ae2e5f50044147f2bd8f656c00124d925211038e4ecd23d79c1bd724a8b45/) |
 
 Corporation ID: dbb190c3127dbab2a3d6d58f1f8f63425f1dbd1949f6442fb2d162e66246b484
+
+[Hades' Star](https://www.hadesstar.com)

@@ -63,3 +63,5 @@ description: W:8 L:22 D:4 Bonus ❌
 | ❌ | 2024/01/24 | 0-14 | [Lacuna Academy](https://ws.tsl.rocks/corp/ed67ca44432a8fad3aec6fab3e7f305d394d2b41844391fd29e1ce2b316b336b/) |
 
 Corporation ID: a48bd30701e4a563543ff54e7c8091cc6b5d0e972c70e4de279a93f4df2f24b0
+
+[Hades' Star](https://www.hadesstar.com)

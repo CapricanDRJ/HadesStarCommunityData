@@ -56,3 +56,5 @@ description: W:3 L:22 D:3 Bonus ❌
 | ✅ | 2024/05/02 | 3-0 | [Prometheus ESP](https://ws.tsl.rocks/corp/59ccf92b03fb4dbcd047d2425f6dd687367bd70088956249e0255554e81fe949/) |
 
 Corporation ID: 327addf616128dc5b01013e29e850c76d22ae27af199bcc6bba3b92cee7818ae
+
+[Hades' Star](https://www.hadesstar.com)

@@ -30,3 +30,5 @@ description: W:3 L:5 D:1 Bonus ❌
 | ✅ | 2023/11/26 | 3-1 | [碧霄殿](https://ws.tsl.rocks/corp/7e12fd0fd0a01af1c797f73316b305a21078e46bd75758850438f20357276ebf/) |
 
 Corporation ID: 904c85a40298fe616763ce7bc9ac0534ab1d9dd69151c63308a3906f2eb07d54
+
+[Hades' Star](https://www.hadesstar.com)

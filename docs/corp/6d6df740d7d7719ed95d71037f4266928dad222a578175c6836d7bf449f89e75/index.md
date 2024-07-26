@@ -30,3 +30,5 @@ description: W:6 L:1 D:0 Bonus ❌
 | ✅ | 2023/11/11 | 23-0 | [Dansk](https://ws.tsl.rocks/corp/6c06d5bbfd511f773338e49569cea4f952af347df4bfe875778a0ccf574f65d7/) |
 
 Corporation ID: 6d6df740d7d7719ed95d71037f4266928dad222a578175c6836d7bf449f89e75
+
+[Hades' Star](https://www.hadesstar.com)

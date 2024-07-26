@@ -65,3 +65,5 @@ description: W:31 L:4 D:0 Bonus ✅
 | ✅ | 2023/11/26 | 34-3 | [우주미아](https://ws.tsl.rocks/corp/2e33086edccff7de82480157f7cfdec520a8472c46402842d4c88cb33b333ab3/) |
 
 Corporation ID: 7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9
+
+[Hades' Star](https://www.hadesstar.com)

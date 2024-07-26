@@ -27,3 +27,5 @@ description: W:2 L:2 D:1 Bonus ❌
 | ↔️ | 2023/12/12 | 0-0 | [Paramedic ICU](https://ws.tsl.rocks/corp/2b046351c951cf9e05492ee383c44783b21c628831f51b1a04c9e5404b9b9fa3/) |
 
 Corporation ID: b6a4ffffbabc8bf90d3ae19467aa6ce98c4a3ceb136af04fd24a43406f8f830f
+
+[Hades' Star](https://www.hadesstar.com)

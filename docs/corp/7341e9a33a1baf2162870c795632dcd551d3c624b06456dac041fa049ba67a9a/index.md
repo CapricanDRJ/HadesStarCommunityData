@@ -43,3 +43,5 @@ description: W:4 L:11 D:0 Bonus ❌
 | ✅ | 2024/06/04 | 1-0 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) |
 
 Corporation ID: 7341e9a33a1baf2162870c795632dcd551d3c624b06456dac041fa049ba67a9a
+
+[Hades' Star](https://www.hadesstar.com)

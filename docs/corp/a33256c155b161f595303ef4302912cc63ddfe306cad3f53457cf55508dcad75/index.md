@@ -86,3 +86,5 @@ description: W:42 L:6 D:0 Bonus ✅
 | ✅ | 2023/11/06 | 45-14 | [Trade Station](https://ws.tsl.rocks/corp/7003e286fe1a04aaa63e3aa318c164856c07e251a94b0496757140f5eda72cd7/) |
 
 Corporation ID: a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75
+
+[Hades' Star](https://www.hadesstar.com)

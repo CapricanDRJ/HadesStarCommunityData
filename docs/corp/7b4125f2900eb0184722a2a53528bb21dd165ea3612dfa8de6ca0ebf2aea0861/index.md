@@ -23,3 +23,5 @@ description: W:0 L:1 D:1 Bonus ❌
 | ↔️ | 2023/11/05 | 11-11 | [边缘世界](https://ws.tsl.rocks/corp/6a0c2b263b0bfabc564979bce02c28c80aae497654fc10637ceb36d5447f6365/) |
 
 Corporation ID: 7b4125f2900eb0184722a2a53528bb21dd165ea3612dfa8de6ca0ebf2aea0861
+
+[Hades' Star](https://www.hadesstar.com)

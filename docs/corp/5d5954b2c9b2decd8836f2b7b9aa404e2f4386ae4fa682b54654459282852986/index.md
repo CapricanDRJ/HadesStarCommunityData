@@ -34,3 +34,5 @@ description: W:8 L:2 D:1 Bonus ✅
 | ✅ | 2023/11/06 | 29-2 | [Polish Pirates](https://ws.tsl.rocks/corp/e73d410a73bca6a1161056891e484b32cac940c0d94d20c92ed085683524652b/) |
 
 Corporation ID: 5d5954b2c9b2decd8836f2b7b9aa404e2f4386ae4fa682b54654459282852986
+
+[Hades' Star](https://www.hadesstar.com)

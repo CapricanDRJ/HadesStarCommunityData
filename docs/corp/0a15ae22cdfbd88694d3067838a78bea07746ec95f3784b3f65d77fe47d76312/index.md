@@ -65,3 +65,5 @@ description: W:23 L:15 D:0 Bonus ✅
 | ✅ | 2023/11/08 | 8-0 | [nuevo mundo](https://ws.tsl.rocks/corp/5675df73364d8b031e9541d8aa8d5a9e55649ef419ad87c0b21dec77a0ed6044/) |
 
 Corporation ID: 0a15ae22cdfbd88694d3067838a78bea07746ec95f3784b3f65d77fe47d76312
+
+[Hades' Star](https://www.hadesstar.com)

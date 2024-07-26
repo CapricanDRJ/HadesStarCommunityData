@@ -66,3 +66,5 @@ description: W:27 L:10 D:0 Bonus ✅
 | ✅ | 2024/01/14 | 16-5 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 
 Corporation ID: 107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2
+
+[Hades' Star](https://www.hadesstar.com)

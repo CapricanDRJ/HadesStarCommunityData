@@ -49,3 +49,5 @@ description: W:18 L:9 D:0 Bonus ❌
 | ✅ | 2023/11/07 | 11-3 | [Killer Bees\.](https://ws.tsl.rocks/corp/d546496b646097fcf90415eea28a75ef1cde9735eab1aab84c044f1f8a323de0/) |
 
 Corporation ID: 5dcf6b30fe7412dfe10c7f88aacc5e5ec1d63a2ea3df0084c393b9e20c34ee97
+
+[Hades' Star](https://www.hadesstar.com)

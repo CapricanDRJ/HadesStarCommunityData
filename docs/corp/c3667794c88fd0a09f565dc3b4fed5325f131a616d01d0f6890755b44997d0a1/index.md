@@ -33,3 +33,5 @@ description: W:5 L:6 D:0 Bonus ❌
 | ✅ | 2024/05/22 | 7-3 | [洛神峰](https://ws.tsl.rocks/corp/69e75c04e1e97e3e1e943a1b8bb5ebd468da38c5daf44840707bdcd1d4823540/) |
 
 Corporation ID: c3667794c88fd0a09f565dc3b4fed5325f131a616d01d0f6890755b44997d0a1
+
+[Hades' Star](https://www.hadesstar.com)

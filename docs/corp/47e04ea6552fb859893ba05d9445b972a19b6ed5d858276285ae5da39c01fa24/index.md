@@ -24,3 +24,5 @@ description: W:1 L:2 D:0 Bonus ❌
 | ✅ | 2023/11/28 | 1-0 | [Lost City Corp\.](https://ws.tsl.rocks/corp/ae474b6537b8452d7c362f9284154d65eb629f909ca66d5b564417fab7df42ec/) |
 
 Corporation ID: 47e04ea6552fb859893ba05d9445b972a19b6ed5d858276285ae5da39c01fa24
+
+[Hades' Star](https://www.hadesstar.com)

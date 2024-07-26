@@ -30,3 +30,5 @@ description: W:4 L:4 D:0 Bonus ❌
 | ❌ | 2023/11/11 | 10-39 | [Omega Alpha](https://ws.tsl.rocks/corp/b6e23a3f1f3a3c735c694624b273dcd7da2f8bd13a5ac2b36a8ad39737b1d062/) |
 
 Corporation ID: 978fbb6cb32789d7057450a2239b1d6e2bc7730bbdd832f816384d45ec44ac57
+
+[Hades' Star](https://www.hadesstar.com)

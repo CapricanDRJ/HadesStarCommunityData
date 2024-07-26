@@ -34,3 +34,5 @@ description: W:6 L:1 D:0 Bonus ❌
 | ✅ | 2023/11/06 | 31-2 | [Corp\. Estelar](https://ws.tsl.rocks/corp/aec01be59075af2b2995f74e3e14f47e2b3ce1bd3b74abc78200a1d6330b8a72/) |
 
 Corporation ID: a9abf464e4301045ae4dbba7a5889a4e49d10e7e21f2e1011d9507cc5c45012b
+
+[Hades' Star](https://www.hadesstar.com)

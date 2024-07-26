@@ -24,3 +24,5 @@ description: W:1 L:2 D:0 Bonus ❌
 | ✅ | 2023/11/09 | 30-0 | [资助会](https://ws.tsl.rocks/corp/4d36e1b3853444f7789e6142230ba93f3968baffc18bfad598c3d450c6b247e2/) |
 
 Corporation ID: 6e7d96cb32583d0e4db33e66eecb4c655e9d3ce068b4550be95a52be7b622eea
+
+[Hades' Star](https://www.hadesstar.com)

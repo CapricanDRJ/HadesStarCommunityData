@@ -24,3 +24,5 @@ description: W:2 L:1 D:0 Bonus ❌
 | ✅ | 2024/01/07 | 3-2 | [Sector7](https://ws.tsl.rocks/corp/2608118ec348769a1cdc34c18b3198903677007199f1d6feec34de0d74d2944f/) |
 
 Corporation ID: a43c0e4701495c28fde3f8c614baa6d54af86ed15d13ff8da3a6266039c5e2a7
+
+[Hades' Star](https://www.hadesstar.com)

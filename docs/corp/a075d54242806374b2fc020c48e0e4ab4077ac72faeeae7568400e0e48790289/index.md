@@ -110,3 +110,5 @@ description: W:47 L:24 D:1 Bonus ✅
 | ✅ | 2023/11/05 | 26-3 | [太阳系联邦](https://ws.tsl.rocks/corp/1511bcf209c9d65c3db8fce158834ee0365899e8a765df9554b7606eb92b1df1/) |
 
 Corporation ID: a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289
+
+[Hades' Star](https://www.hadesstar.com)

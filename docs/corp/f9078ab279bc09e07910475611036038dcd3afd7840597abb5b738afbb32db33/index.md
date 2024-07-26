@@ -25,3 +25,5 @@ description: W:1 L:3 D:0 Bonus ❌
 | ✅ | 2024/01/30 | 3-0 | [Ukrain Alliance](https://ws.tsl.rocks/corp/aeefab8a78fae0ec57ba1f076c5f8f138132a429d771364f0e3fb7365a4bca0d/) |
 
 Corporation ID: f9078ab279bc09e07910475611036038dcd3afd7840597abb5b738afbb32db33
+
+[Hades' Star](https://www.hadesstar.com)

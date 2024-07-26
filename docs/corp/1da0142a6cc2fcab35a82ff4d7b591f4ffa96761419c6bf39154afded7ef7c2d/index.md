@@ -42,3 +42,5 @@ description: W:7 L:7 D:1 Bonus ❌
 | ❌ | 2023/11/04 | 1-8 | [Corp\. Estelar 2](https://ws.tsl.rocks/corp/6dc3ed66c1c5c48a88912d686edd55b65123c8fe685858c605cf404be090ef62/) |
 
 Corporation ID: 1da0142a6cc2fcab35a82ff4d7b591f4ffa96761419c6bf39154afded7ef7c2d
+
+[Hades' Star](https://www.hadesstar.com)

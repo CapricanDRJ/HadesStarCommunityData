@@ -26,3 +26,5 @@ description: W:0 L:5 D:0 Bonus ❌
 | ❌ | 2023/11/09 | 8-14 | [Sternenflotte](https://ws.tsl.rocks/corp/6273be8c33cae6938fe5608aa5cf5a78e740f71dd888477b437e47ec106c0a0d/) |
 
 Corporation ID: e7191edf9f4ee14b8f64ec7fde8a927408f3b5c03e9bbf63026d6f3ac9d33259
+
+[Hades' Star](https://www.hadesstar.com)

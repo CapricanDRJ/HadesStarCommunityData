@@ -24,3 +24,5 @@ description: W:0 L:1 D:2 Bonus ❌
 | ↔️ | 2024/02/01 | 0-0 | [Noble](https://ws.tsl.rocks/corp/a743363bbba6a586851cfc2a6c1a567bb1b122f6516757c4f75ed5184a177caf/) |
 
 Corporation ID: e6172242f942527d0cc02c3931e74f6623dc4fe80a9b061ccaffabedd7aed8e8
+
+[Hades' Star](https://www.hadesstar.com)

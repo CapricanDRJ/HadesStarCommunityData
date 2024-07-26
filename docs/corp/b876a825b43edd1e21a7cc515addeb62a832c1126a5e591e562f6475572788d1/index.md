@@ -30,3 +30,5 @@ description: W:3 L:5 D:0 Bonus ❌
 | ✅ | 2023/11/07 | 20-0 | [黑色长城](https://ws.tsl.rocks/corp/8494a7ecc96c5cc06e4d9c7824f2c0cf9fde23e2878b0305b618382fb4068005/) |
 
 Corporation ID: b876a825b43edd1e21a7cc515addeb62a832c1126a5e591e562f6475572788d1
+
+[Hades' Star](https://www.hadesstar.com)

@@ -46,3 +46,5 @@ description: W:14 L:10 D:0 Bonus ❌
 | ✅ | 2023/11/19 | 9-1 | [CCCP](https://ws.tsl.rocks/corp/34cd422237fc59472ea900588e5416892c4cceeae033e28f8352b61524a92ac7/) |
 
 Corporation ID: b76233469d1b4590ef63daba47aeb4239d428cb0804768d58f7e891418b91f81
+
+[Hades' Star](https://www.hadesstar.com)

@@ -24,3 +24,5 @@ description: W:0 L:2 D:1 Bonus ❌
 | ❌ | 2024/01/11 | 0-1 | [SUSSY IMPOSTER](https://ws.tsl.rocks/corp/a911a678e68cd459e46553ec76a2a13753ff26a485a716e12e0c873abe6b4a40/) |
 
 Corporation ID: c194ffe18357f9b24cb8d28b9ba0996dfafac36b31f7bfc69295f5bfd402cb41
+
+[Hades' Star](https://www.hadesstar.com)

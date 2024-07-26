@@ -53,3 +53,5 @@ description: W:8 L:16 D:1 Bonus ✅
 | ✅ | 2023/11/07 | 3-2 | [Todesschwadron](https://ws.tsl.rocks/corp/2bcbf6c5a9cfee247983159b049a176d182486b00690372f13cc08e35203c047/) |
 
 Corporation ID: 92ad2a305a74e168b57771140461b4d226e1e8cac17b4f77027d5a67ead5fa1d
+
+[Hades' Star](https://www.hadesstar.com)

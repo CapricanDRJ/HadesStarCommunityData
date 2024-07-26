@@ -64,3 +64,5 @@ description: W:30 L:4 D:0 Bonus ✅
 | ✅ | 2023/11/15 | 13-2 | [Ws Polaris](https://ws.tsl.rocks/corp/aed0edd750f895de01d5a257db42bba7b2098421901f1cf0352b992242d967d9/) |
 
 Corporation ID: 3efaab24560531ff257e73bfb281a7e9c0a9d591ac5aff55d05d35f2fb5e1d73
+
+[Hades' Star](https://www.hadesstar.com)

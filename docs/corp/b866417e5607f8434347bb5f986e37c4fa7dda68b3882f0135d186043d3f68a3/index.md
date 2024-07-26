@@ -71,3 +71,5 @@ description: W:19 L:20 D:1 Bonus ✅
 | ❌ | 2023/11/11 | 2-18 | [Спутник](https://ws.tsl.rocks/corp/0ae15c4db6dc8c3f4bf3eb6aa93bffd4ea9281b06b721ab103c0078646bfe58c/) |
 
 Corporation ID: b866417e5607f8434347bb5f986e37c4fa7dda68b3882f0135d186043d3f68a3
+
+[Hades' Star](https://www.hadesstar.com)

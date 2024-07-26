@@ -80,3 +80,5 @@ description: W:31 L:14 D:3 Bonus ❌
 | ✅ | 2023/12/23 | 3-0 | [FlightCommand](https://ws.tsl.rocks/corp/cf6143eceb014e2d9eb9caf00cc78d78eeb2511999fa983c58d4b6fdefd76d16/) |
 
 Corporation ID: f2b2c144f02ec69dfe3bd7fb8d4d1db10d7e3954a2f45937f16daafb0266490e
+
+[Hades' Star](https://www.hadesstar.com)

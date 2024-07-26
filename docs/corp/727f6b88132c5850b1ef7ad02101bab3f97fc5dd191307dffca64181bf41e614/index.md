@@ -47,3 +47,5 @@ description: W:12 L:7 D:0 Bonus ✅
 | ✅ | 2023/12/09 | 6-3 | [Пабеда](https://ws.tsl.rocks/corp/5f29a5087f1cb6c175a54d845b2f3fd65828af71346fc945c5f69520410a6494/) |
 
 Corporation ID: 727f6b88132c5850b1ef7ad02101bab3f97fc5dd191307dffca64181bf41e614
+
+[Hades' Star](https://www.hadesstar.com)

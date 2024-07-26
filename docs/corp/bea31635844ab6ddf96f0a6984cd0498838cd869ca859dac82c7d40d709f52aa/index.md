@@ -23,3 +23,5 @@ description: W:0 L:2 D:0 Bonus ❌
 | ❌ | 2024/07/04 | 5-12 | [避难所](https://ws.tsl.rocks/corp/e2cec33caaaef7f020ed5fb31cb29a2804d8b5ab3a781ab69b08fadac88f7102/) |
 
 Corporation ID: bea31635844ab6ddf96f0a6984cd0498838cd869ca859dac82c7d40d709f52aa
+
+[Hades' Star](https://www.hadesstar.com)

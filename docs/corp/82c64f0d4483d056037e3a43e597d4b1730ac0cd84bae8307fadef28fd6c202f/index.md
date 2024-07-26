@@ -24,3 +24,5 @@ description: W:0 L:3 D:0 Bonus ❌
 | ❌ | 2024/01/23 | 0-4 | [СНГ — РОССИЯ](https://ws.tsl.rocks/corp/075394144fa4e771dc8358886dc461b0ed87d948b46e5d817d29296adf2f11f2/) |
 
 Corporation ID: 82c64f0d4483d056037e3a43e597d4b1730ac0cd84bae8307fadef28fd6c202f
+
+[Hades' Star](https://www.hadesstar.com)

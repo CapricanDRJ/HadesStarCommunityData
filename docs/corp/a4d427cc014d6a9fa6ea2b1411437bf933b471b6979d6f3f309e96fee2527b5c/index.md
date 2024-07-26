@@ -32,3 +32,5 @@ description: W:8 L:2 D:0 Bonus ❌
 | ✅ | 2023/11/11 | 4-3 | [Бестрашный лиги](https://ws.tsl.rocks/corp/98a0925e094c54f400b76ad64a527b25adb4fe5aa1afc4b10368f072d3741d53/) |
 
 Corporation ID: a4d427cc014d6a9fa6ea2b1411437bf933b471b6979d6f3f309e96fee2527b5c
+
+[Hades' Star](https://www.hadesstar.com)

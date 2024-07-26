@@ -38,3 +38,5 @@ description: W:7 L:8 D:1 Bonus ❌
 | ✅ | 2024/02/11 | 8-0 | [Jalisco México](https://ws.tsl.rocks/corp/495236ab2171ccbcdad0da5529f080405b1ddd081eda98c7255a8cffe5b114e4/) |
 
 Corporation ID: 963d98b9a64c86c9edc86daabe201f5d7e1f42bbeb0f45671b44a87e0b288e91
+
+[Hades' Star](https://www.hadesstar.com)

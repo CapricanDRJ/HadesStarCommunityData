@@ -40,3 +40,5 @@ description: W:15 L:2 D:0 Bonus ❌
 | ✅ | 2024/01/10 | 19-0 | [Shrimp City](https://ws.tsl.rocks/corp/eae9b3a1f9dd6b4a1fb39d6aedfe84a80662abe6b181bedcfd7ec15d931b8e84/) |
 
 Corporation ID: ed67ca44432a8fad3aec6fab3e7f305d394d2b41844391fd29e1ce2b316b336b
+
+[Hades' Star](https://www.hadesstar.com)

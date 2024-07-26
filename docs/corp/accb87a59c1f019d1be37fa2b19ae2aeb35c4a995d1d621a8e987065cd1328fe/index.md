@@ -64,3 +64,5 @@ description: W:7 L:27 D:0 Bonus ❌
 | ❌ | 2023/11/13 | 3-14 | [Revelation](https://ws.tsl.rocks/corp/e9b22a24d853613b0ebd6fb2e70994410d4ff4323a002da5f0bece764e81374a/) |
 
 Corporation ID: accb87a59c1f019d1be37fa2b19ae2aeb35c4a995d1d621a8e987065cd1328fe
+
+[Hades' Star](https://www.hadesstar.com)

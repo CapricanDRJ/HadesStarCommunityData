@@ -23,3 +23,5 @@ description: W:1 L:1 D:0 Bonus ❌
 | ❌ | 2023/11/07 | 3-7 | [United Stars ](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) |
 
 Corporation ID: 4981522e08ce38bcec7b2a189b3bfba9c072a615eea490a55c645344ac975f54
+
+[Hades' Star](https://www.hadesstar.com)

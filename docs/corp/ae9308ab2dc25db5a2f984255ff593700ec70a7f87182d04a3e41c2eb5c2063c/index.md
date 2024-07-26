@@ -24,3 +24,5 @@ description: W:1 L:2 D:0 Bonus ❌
 | ✅ | 2024/06/21 | 8-2 | [地球星际集团](https://ws.tsl.rocks/corp/05094116a999d8e077c5e53dc2241a870c7dc2e68e016455c606ada0dcb40b62/) |
 
 Corporation ID: ae9308ab2dc25db5a2f984255ff593700ec70a7f87182d04a3e41c2eb5c2063c
+
+[Hades' Star](https://www.hadesstar.com)

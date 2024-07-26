@@ -23,3 +23,5 @@ description: W:0 L:2 D:0 Bonus ❌
 | ❌ | 2023/11/26 | 0-35 | [Hades Academy](https://ws.tsl.rocks/corp/b40bd030900afebcbf4508c3b1174e2e80edcc628e6b72357b1571568d0872e3/) |
 
 Corporation ID: 5d58fbfcde201245ea367778f646cf1fd772b1d0ef2fbde2892fec45c5c79dfc
+
+[Hades' Star](https://www.hadesstar.com)

@@ -44,3 +44,5 @@ description: W:7 L:11 D:0 Bonus ❌
 | ✅ | 2023/11/08 | 20-6 | [지고받자](https://ws.tsl.rocks/corp/7172d4e10205869e535b82bbdfc5fea3978414c420bade9a1f96cf10c8e4855d/) |
 
 Corporation ID: 2ac7f4a924f351d9e8a57c7bd7cb88bb810dd028acab61baf5f38f0ffc7cf559
+
+[Hades' Star](https://www.hadesstar.com)

@@ -74,3 +74,5 @@ description: W:18 L:22 D:0 Bonus ❌
 | ❌ | 2023/11/07 | 2-3 | [Scar](https://ws.tsl.rocks/corp/1fd57b7d50b68cb3883fd58e596f496821ebcc82dee1915bb7f34a402b03c44a/) |
 
 Corporation ID: 7177b5a598ff387d35b2348e1ec750a9f237fbf70d8016207ea3da1619c44e5b
+
+[Hades' Star](https://www.hadesstar.com)

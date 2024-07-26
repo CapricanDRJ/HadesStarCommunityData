@@ -67,3 +67,5 @@ description: W:23 L:15 D:1 Bonus ✅
 | ✅ | 2023/11/07 | 7-3 | [exirium](https://ws.tsl.rocks/corp/4981522e08ce38bcec7b2a189b3bfba9c072a615eea490a55c645344ac975f54/) |
 
 Corporation ID: 312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36
+
+[Hades' Star](https://www.hadesstar.com)

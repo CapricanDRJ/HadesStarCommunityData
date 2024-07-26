@@ -34,3 +34,5 @@ description: W:6 L:6 D:0 Bonus ❌
 | ✅ | 2023/11/12 | 17-0 | [Pyke Syndicate](https://ws.tsl.rocks/corp/1761635d6aaf9c2caf7abc37130e2d9aa48e7b4cc753ae4b701fde4b48abd3e1/) |
 
 Corporation ID: 59b15e2c8e6b94f918d86a75ed857c47c1d12726a67bfbc314828e5d25fbbbc9
+
+[Hades' Star](https://www.hadesstar.com)

@@ -50,3 +50,5 @@ description: W:20 L:6 D:1 Bonus ✅
 | ✅ | 2023/11/20 | 3-1 | [Stars Radiant](https://ws.tsl.rocks/corp/5ac31743716c6ffdd6916e75c314c1e4a9d57ece49822f93616a5c18c38a3e32/) |
 
 Corporation ID: f0c64a4babe1fb017902406f1f331c63129409bccfba868cadc10cf1d064b9d4
+
+[Hades' Star](https://www.hadesstar.com)

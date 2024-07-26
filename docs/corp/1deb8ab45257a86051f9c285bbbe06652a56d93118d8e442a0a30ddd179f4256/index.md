@@ -44,3 +44,5 @@ description: W:7 L:9 D:1 Bonus ✅
 | ✅ | 2024/01/03 | 15-1 | [Türk Yıldızları](https://ws.tsl.rocks/corp/901147b3fe4ec963eae03573b8213b490796bf22e3d9ba20d61af7c444690cac/) |
 
 Corporation ID: 1deb8ab45257a86051f9c285bbbe06652a56d93118d8e442a0a30ddd179f4256
+
+[Hades' Star](https://www.hadesstar.com)

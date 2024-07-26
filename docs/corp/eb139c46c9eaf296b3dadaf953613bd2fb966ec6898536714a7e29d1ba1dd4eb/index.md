@@ -23,3 +23,5 @@ description: W:0 L:1 D:1 Bonus ❌
 | ❌ | 2023/11/29 | 0-2 | [零号帝国](https://ws.tsl.rocks/corp/972b9a4a3b2871e8708ed94f690dec82625905681c3c77a5688cea7b69d77ee0/) |
 
 Corporation ID: eb139c46c9eaf296b3dadaf953613bd2fb966ec6898536714a7e29d1ba1dd4eb
+
+[Hades' Star](https://www.hadesstar.com)

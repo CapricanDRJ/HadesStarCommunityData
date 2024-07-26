@@ -48,3 +48,5 @@ description: W:9 L:16 D:0 Bonus ❌
 | ❌ | 2023/11/07 | 6-8 | [русский клан ](https://ws.tsl.rocks/corp/d8f9003e2fa6789706c2e1330836d6b7fb44d4f30a4f006c37210bac6c9ffcb9/) |
 
 Corporation ID: ae8b8d247dbd93bebc2b77d48c1db6783a17ff8b16438f010c804b7ccf05b76a
+
+[Hades' Star](https://www.hadesstar.com)

@@ -27,3 +27,5 @@ description: W:3 L:0 D:1 Bonus ❌
 | ↔️ | 2024/02/06 | 0-0 | [F\.E\.I\.](https://ws.tsl.rocks/corp/e6172242f942527d0cc02c3931e74f6623dc4fe80a9b061ccaffabedd7aed8e8/) |
 
 Corporation ID: 249861ea16b488e34ea28566402ed775f6f27004aa9e6843b668f23cec4140c7
+
+[Hades' Star](https://www.hadesstar.com)

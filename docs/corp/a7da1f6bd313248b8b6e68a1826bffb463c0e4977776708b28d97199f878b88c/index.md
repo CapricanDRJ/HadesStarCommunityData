@@ -38,3 +38,5 @@ description: W:14 L:1 D:0 Bonus ✅
 | ❌ | 2024/04/14 | 1-10 | [初始之音](https://ws.tsl.rocks/corp/79f48676f0ad15541a751311b97bae91c977d65480891a675585fc396c20bdb9/) |
 
 Corporation ID: a7da1f6bd313248b8b6e68a1826bffb463c0e4977776708b28d97199f878b88c
+
+[Hades' Star](https://www.hadesstar.com)

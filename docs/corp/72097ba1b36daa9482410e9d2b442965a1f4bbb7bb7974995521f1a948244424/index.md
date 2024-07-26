@@ -41,3 +41,5 @@ description: W:2 L:17 D:1 Bonus ❌
 | ❌ | 2024/01/23 | 5-17 | [death squadron ](https://ws.tsl.rocks/corp/7177b5a598ff387d35b2348e1ec750a9f237fbf70d8016207ea3da1619c44e5b/) |
 
 Corporation ID: 72097ba1b36daa9482410e9d2b442965a1f4bbb7bb7974995521f1a948244424
+
+[Hades' Star](https://www.hadesstar.com)

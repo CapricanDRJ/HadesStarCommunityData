@@ -23,3 +23,5 @@ description: W:0 L:2 D:0 Bonus ❌
 | ❌ | 2023/11/14 | 9-30 | [Curcubeu](https://ws.tsl.rocks/corp/a2bdd69ff0d73fcdb3bd9461684b2951dd4df9009b7ea8eae1592efff76e3c59/) |
 
 Corporation ID: 63ab273ab0cfc2919038a10f1641498d1beb4496658f7c5a0fee55c2518815fe
+
+[Hades' Star](https://www.hadesstar.com)

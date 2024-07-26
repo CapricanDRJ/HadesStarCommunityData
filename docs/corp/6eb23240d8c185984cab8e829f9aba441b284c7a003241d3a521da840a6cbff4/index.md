@@ -31,3 +31,5 @@ description: W:3 L:6 D:0 Bonus ❌
 | ❌ | 2024/01/24 | 1-12 | [SUN OF 3LANDS](https://ws.tsl.rocks/corp/874f472303f6616789f5df41609dba8d64b95e8b9291aaf23a05e4c397a2f44a/) |
 
 Corporation ID: 6eb23240d8c185984cab8e829f9aba441b284c7a003241d3a521da840a6cbff4
+
+[Hades' Star](https://www.hadesstar.com)

@@ -72,3 +72,5 @@ description: W:36 L:7 D:1 Bonus ✅
 | ✅ | 2023/11/05 | 13-0 | [Вселенские 40%](https://ws.tsl.rocks/corp/963d73346ebb929607f54404f481ac2273b4f483915b93144d0757b066a1fd99/) |
 
 Corporation ID: 1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2
+
+[Hades' Star](https://www.hadesstar.com)

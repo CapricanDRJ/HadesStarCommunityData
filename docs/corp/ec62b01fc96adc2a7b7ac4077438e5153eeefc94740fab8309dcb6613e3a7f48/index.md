@@ -52,3 +52,5 @@ description: W:13 L:11 D:0 Bonus ✅
 | ❌ | 2023/11/27 | 0-4 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
 
 Corporation ID: ec62b01fc96adc2a7b7ac4077438e5153eeefc94740fab8309dcb6613e3a7f48
+
+[Hades' Star](https://www.hadesstar.com)

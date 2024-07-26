@@ -24,3 +24,5 @@ description: W:0 L:2 D:1 Bonus ❌
 | ↔️ | 2023/12/11 | 1-1 | [NEW HOLLAND](https://ws.tsl.rocks/corp/b080750b30e8c3b7a4c8bd483921bb8082a83d48c662683a07beba245f70c2a2/) |
 
 Corporation ID: 41cff3569548da10a9cf4c36b91a525ec982349fa4a35a59b047ea22dcf0f48f
+
+[Hades' Star](https://www.hadesstar.com)

@@ -43,3 +43,5 @@ description: W:10 L:10 D:1 Bonus ❌
 | ✅ | 2023/11/11 | 29-0 | [Resurrección EB](https://ws.tsl.rocks/corp/10033870060d84e230130374a498485e4507c4e094d079c3ffd51699787562e9/) |
 
 Corporation ID: ba78f9ff67f8944bf4b0152d98968e0ad6c9c86cc2fc518284c0745060e90e2c
+
+[Hades' Star](https://www.hadesstar.com)

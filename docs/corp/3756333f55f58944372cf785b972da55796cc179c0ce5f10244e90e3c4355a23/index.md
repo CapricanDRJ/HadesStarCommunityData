@@ -59,3 +59,5 @@ description: W:16 L:16 D:0 Bonus ❌
 | ✅ | 2023/11/27 | 3-0 | [🌪TORNADO ](https://ws.tsl.rocks/corp/df15d02d32c67d60995e68d6c4197c23b340a0a985f04280563d8d07bd4536fa/) |
 
 Corporation ID: 3756333f55f58944372cf785b972da55796cc179c0ce5f10244e90e3c4355a23
+
+[Hades' Star](https://www.hadesstar.com)

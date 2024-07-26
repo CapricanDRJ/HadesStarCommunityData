@@ -23,3 +23,5 @@ description: W:0 L:1 D:1 Bonus ❌
 | ❌ | 2024/05/21 | 0-2 | [逐光起航](https://ws.tsl.rocks/corp/e6bb076aa209101b5fa1cbc40a614c241d71ab5eca143c733b81aed6302455e8/) |
 
 Corporation ID: ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3
+
+[Hades' Star](https://www.hadesstar.com)

@@ -54,3 +54,5 @@ description: W:5 L:22 D:0 Bonus ❌
 | ❌ | 2023/11/18 | 3-36 | [Imperium XIII](https://ws.tsl.rocks/corp/0d52edf77b0cdeaaea6ebc20a7f5b6a60372b535bf96f556b31e2243dc8ee75a/) |
 
 Corporation ID: 04182a4606d981d1c410b0c058248e428765c672442d912ec47218ace9004e74
+
+[Hades' Star](https://www.hadesstar.com)

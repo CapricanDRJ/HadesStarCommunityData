@@ -97,3 +97,5 @@ description: W:29 L:36 D:1 Bonus ❌
 | ✅ | 2024/01/29 | 9-1 | [STAR EMPIRE 16](https://ws.tsl.rocks/corp/0a9c6173e2636bb1784f0033a970ad001961ee3f95d4cffb8a08ba7f1c3f54c1/) |
 
 Corporation ID: 8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f
+
+[Hades' Star](https://www.hadesstar.com)

@@ -53,3 +53,5 @@ description: W:21 L:4 D:0 Bonus ✅
 | ❌ | 2024/01/20 | 8-17 | [Cerulean Star](https://ws.tsl.rocks/corp/63d77c8d633b9dec932ad5d0f5a8ceb371b865b1adbb221ed410c5a7ba7df203/) |
 
 Corporation ID: 1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace
+
+[Hades' Star](https://www.hadesstar.com)

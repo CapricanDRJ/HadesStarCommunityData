@@ -25,3 +25,5 @@ description: W:2 L:0 D:0 Bonus ❌
 | ✅ | 2023/11/21 | 5-4 | [Dark Sun](https://ws.tsl.rocks/corp/41ffd72a8eba70ea3f7f69ce602194b0ee84c7e65be6d2e08b87181de24cc9cf/) |
 
 Corporation ID: 939f4ddbd0899d72f9627fd7461a0946778e48ae9b168cf4535b483852de3f36
+
+[Hades' Star](https://www.hadesstar.com)

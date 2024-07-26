@@ -64,3 +64,5 @@ description: W:21 L:12 D:2 Bonus ✅
 | ↔️ | 2024/02/07 | 4-4 | [探索舰队](https://ws.tsl.rocks/corp/c18acd17d6d643817b2bf8f28c2bf82cae881f0dd6d41528c9cfbe3292a7de29/) |
 
 Corporation ID: afb9817e45c3c79048d2be30be3b635704485d260ae7b474b579a019d56d3c2d
+
+[Hades' Star](https://www.hadesstar.com)

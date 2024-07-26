@@ -23,3 +23,5 @@ description: W:0 L:2 D:0 Bonus ❌
 | ❌ | 2023/12/11 | 0-11 | [TECH CO](https://ws.tsl.rocks/corp/49f9afe365665b0d622f99306a23e7a2ebd9cf7022ee79c25e08917977ab9d7a/) |
 
 Corporation ID: 80315b4e1e3c22c7a5770a4fe63dd861fc3586e2d538f585b2aa8feb8f009713
+
+[Hades' Star](https://www.hadesstar.com)

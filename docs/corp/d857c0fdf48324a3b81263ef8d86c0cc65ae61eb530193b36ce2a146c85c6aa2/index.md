@@ -29,3 +29,5 @@ description: W:2 L:5 D:0 Bonus ❌
 | ❌ | 2023/11/11 | 17-33 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) |
 
 Corporation ID: d857c0fdf48324a3b81263ef8d86c0cc65ae61eb530193b36ce2a146c85c6aa2
+
+[Hades' Star](https://www.hadesstar.com)

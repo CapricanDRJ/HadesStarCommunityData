@@ -30,3 +30,5 @@ description: W:2 L:7 D:0 Bonus ❌
 | ❌ | 2023/12/12 | 1-3 | [2ND\-R8 Corp\.](https://ws.tsl.rocks/corp/e97866623598a98454b3a4724b472dc171f5e1aff84b076c43d021f0fabdc702/) |
 
 Corporation ID: 0c9788075ccdc94322bb96f7d98b4a8df010615893980ab0b4e5b7a987b13732
+
+[Hades' Star](https://www.hadesstar.com)

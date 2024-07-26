@@ -31,3 +31,5 @@ description: W:3 L:7 D:0 Bonus ❌
 | ✅ | 2023/12/10 | 13-9 | [Anla'Shok](https://ws.tsl.rocks/corp/ee2d5a60dee46a98f5178e2807099ebca3c64db7a1fd052df34812d6d88e52a1/) |
 
 Corporation ID: 1dd3b30d4fba97df035310d43fa05c50aa4f77867aa67090be08e245b840b1cf
+
+[Hades' Star](https://www.hadesstar.com)

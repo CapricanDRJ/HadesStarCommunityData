@@ -51,3 +51,5 @@ description: W:17 L:12 D:0 Bonus ✅
 | ❌ | 2023/11/05 | 6-10 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |
 
 Corporation ID: 582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449
+
+[Hades' Star](https://www.hadesstar.com)

@@ -32,3 +32,5 @@ description: W:5 L:5 D:0 Bonus ❌
 | ✅ | 2023/11/10 | 39-0 | [Ten Forward](https://ws.tsl.rocks/corp/1dd2ea0ec346eac318541b002d2de1be9cab962eb176f2bc45336222b96e847d/) |
 
 Corporation ID: b40bd030900afebcbf4508c3b1174e2e80edcc628e6b72357b1571568d0872e3
+
+[Hades' Star](https://www.hadesstar.com)

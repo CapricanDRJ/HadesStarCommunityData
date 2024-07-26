@@ -49,3 +49,5 @@ description: W:21 L:0 D:0 Bonus ✅
 | ✅ | 2024/02/26 | 15-3 | [Sunny](https://ws.tsl.rocks/corp/6370bc40a494c32fb44a8c82691f965391fe57616a0b592cf8c3630b6e84a993/) |
 
 Corporation ID: 2771ec0a0e9523f8a7b62dd470c9ab87bf2bcf2b13fb47f6f97ea826337b2b20
+
+[Hades' Star](https://www.hadesstar.com)
