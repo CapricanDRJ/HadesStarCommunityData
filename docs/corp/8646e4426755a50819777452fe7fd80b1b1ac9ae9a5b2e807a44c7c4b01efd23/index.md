@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​第一序列
-description: W:33 L:34 D:0 Bonus[✅]
+description: W:33 L:34 D:0 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

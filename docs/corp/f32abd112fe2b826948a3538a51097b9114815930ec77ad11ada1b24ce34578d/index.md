@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​欢迎国人
-description: W:3 L:11 D:2 Bonus[❌]
+description: W:3 L:11 D:2 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

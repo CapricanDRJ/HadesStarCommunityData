@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​VoidRunners
-description: W:50 L:28 D:0 Bonus[✅]
+description: W:50 L:28 D:0 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

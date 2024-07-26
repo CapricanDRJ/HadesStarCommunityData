@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Venture
-description: W:8 L:22 D:4 Bonus[❌]
+description: W:8 L:22 D:4 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

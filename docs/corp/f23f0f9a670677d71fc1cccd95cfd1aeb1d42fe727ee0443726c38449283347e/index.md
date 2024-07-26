@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​42 Nova Corps.
-description: W:2 L:1 D:0 Bonus[❌]
+description: W:2 L:1 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

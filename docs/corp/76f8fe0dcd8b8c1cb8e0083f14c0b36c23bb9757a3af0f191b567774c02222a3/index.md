@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Bl@ck/Galaxy 
-description: W:15 L:13 D:1 Bonus[✅]
+description: W:15 L:13 D:1 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

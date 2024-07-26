@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​青丘湖
-description: W:0 L:2 D:0 Bonus[❌]
+description: W:0 L:2 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

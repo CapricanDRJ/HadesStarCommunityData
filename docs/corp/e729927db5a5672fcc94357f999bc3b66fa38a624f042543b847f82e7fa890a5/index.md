@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Atlas corp
-description: W:5 L:9 D:1 Bonus[❌]
+description: W:5 L:9 D:1 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

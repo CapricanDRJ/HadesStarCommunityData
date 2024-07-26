@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Goblin Squad
-description: W:4 L:4 D:0 Bonus[❌]
+description: W:4 L:4 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

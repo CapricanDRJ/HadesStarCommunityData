@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​pirates spatial
-description: W:38 L:29 D:0 Bonus[✅]
+description: W:38 L:29 D:0 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

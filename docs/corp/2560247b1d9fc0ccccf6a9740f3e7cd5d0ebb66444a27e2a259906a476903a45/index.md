@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Revólver
-description: W:8 L:12 D:0 Bonus[❌]
+description: W:8 L:12 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

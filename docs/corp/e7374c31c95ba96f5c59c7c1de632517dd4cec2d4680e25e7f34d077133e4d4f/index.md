@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​九州分团
-description: W:30 L:36 D:2 Bonus[✅]
+description: W:30 L:36 D:2 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

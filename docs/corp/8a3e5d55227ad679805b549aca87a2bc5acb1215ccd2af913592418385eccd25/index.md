@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​星光禁卫
-description: W:1 L:8 D:1 Bonus[❌]
+description: W:1 L:8 D:1 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

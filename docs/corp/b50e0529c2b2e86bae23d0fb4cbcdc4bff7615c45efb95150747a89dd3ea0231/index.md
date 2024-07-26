@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Star Fleet
-description: W:7 L:16 D:0 Bonus[❌]
+description: W:7 L:16 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

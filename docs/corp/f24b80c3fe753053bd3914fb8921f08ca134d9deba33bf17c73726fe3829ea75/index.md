@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Nueva Hyperion
-description: W:3 L:1 D:1 Bonus[❌]
+description: W:3 L:1 D:1 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

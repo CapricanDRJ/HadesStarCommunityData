@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​普罗米修斯
-description: W:1 L:8 D:0 Bonus[❌]
+description: W:1 L:8 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

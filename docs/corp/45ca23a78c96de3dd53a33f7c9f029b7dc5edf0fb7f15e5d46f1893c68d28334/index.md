@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​mijael siuuuuuu
-description: W:0 L:12 D:1 Bonus[❌]
+description: W:0 L:12 D:1 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

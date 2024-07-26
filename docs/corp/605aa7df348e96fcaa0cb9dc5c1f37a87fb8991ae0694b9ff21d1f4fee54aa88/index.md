@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Корпорация Миф
-description: W:8 L:0 D:0 Bonus[❌]
+description: W:8 L:0 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

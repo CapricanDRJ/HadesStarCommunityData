@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Rogue One
-description: W:28 L:20 D:1 Bonus[❌]
+description: W:28 L:20 D:1 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

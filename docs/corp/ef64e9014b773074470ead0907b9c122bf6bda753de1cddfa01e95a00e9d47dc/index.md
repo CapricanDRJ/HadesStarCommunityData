@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Crazy Elite
-description: W:26 L:39 D:0 Bonus[❌]
+description: W:26 L:39 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

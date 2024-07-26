@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​STRVS233～
-description: W:12 L:7 D:0 Bonus[✅]
+description: W:12 L:7 D:0 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

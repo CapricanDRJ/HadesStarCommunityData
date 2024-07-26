@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​TheBasics
-description: W:29 L:36 D:1 Bonus[❌]
+description: W:29 L:36 D:1 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

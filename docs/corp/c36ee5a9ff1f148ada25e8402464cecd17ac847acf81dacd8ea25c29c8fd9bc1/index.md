@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​SEC
-description: W:6 L:0 D:0 Bonus[✅]
+description: W:6 L:0 D:0 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

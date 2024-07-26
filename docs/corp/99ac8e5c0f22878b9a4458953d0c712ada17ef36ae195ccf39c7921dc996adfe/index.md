@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​ZION
-description: W:23 L:17 D:0 Bonus[❌]
+description: W:23 L:17 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

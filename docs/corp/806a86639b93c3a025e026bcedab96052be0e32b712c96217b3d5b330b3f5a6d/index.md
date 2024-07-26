@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​OntarioDestiny
-description: W:9 L:19 D:0 Bonus[❌]
+description: W:9 L:19 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​ItaFederalFleet
-description: W:15 L:5 D:1 Bonus[✅]
+description: W:15 L:5 D:1 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

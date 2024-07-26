@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​U.Y.E.U.
-description: W:4 L:11 D:3 Bonus[❌]
+description: W:4 L:11 D:3 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​DarkMoon
-description: W:19 L:10 D:0 Bonus[❌]
+description: W:19 L:10 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

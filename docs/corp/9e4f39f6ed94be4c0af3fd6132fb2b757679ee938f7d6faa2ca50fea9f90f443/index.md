@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Uniones
-description: W:0 L:4 D:2 Bonus[❌]
+description: W:0 L:4 D:2 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

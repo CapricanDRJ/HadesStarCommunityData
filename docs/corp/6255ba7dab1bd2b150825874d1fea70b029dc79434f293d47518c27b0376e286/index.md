@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Space Penguins
-description: W:36 L:10 D:0 Bonus[✅]
+description: W:36 L:10 D:0 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

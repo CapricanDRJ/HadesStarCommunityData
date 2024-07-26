@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​King's Guard
-description: W:24 L:52 D:5 Bonus[❌]
+description: W:24 L:52 D:5 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​ДИВЕРСАНТЫ
-description: W:45 L:6 D:1 Bonus[✅]
+description: W:45 L:6 D:1 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

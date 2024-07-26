@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​REY DE REYES
-description: W:1 L:9 D:0 Bonus[❌]
+description: W:1 L:9 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

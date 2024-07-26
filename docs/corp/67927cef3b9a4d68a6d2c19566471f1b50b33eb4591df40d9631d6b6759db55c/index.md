@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​星际集团
-description: W:5 L:3 D:2 Bonus[✅]
+description: W:5 L:3 D:2 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

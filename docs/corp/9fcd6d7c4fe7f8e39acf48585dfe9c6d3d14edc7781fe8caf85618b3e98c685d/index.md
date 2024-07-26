@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Sich.ua
-description: W:19 L:13 D:1 Bonus[✅]
+description: W:19 L:13 D:1 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Peasants
-description: W:2 L:0 D:0 Bonus[✅]
+description: W:2 L:0 D:0 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​SiriusStrawMoo
-description: W:3 L:3 D:0 Bonus[✅]
+description: W:3 L:3 D:0 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

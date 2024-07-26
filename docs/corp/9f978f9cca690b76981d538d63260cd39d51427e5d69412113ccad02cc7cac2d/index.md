@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Soylent Corp.
-description: W:22 L:11 D:0 Bonus[❌]
+description: W:22 L:11 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

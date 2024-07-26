@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Red Star Corp.
-description: W:6 L:14 D:0 Bonus[❌]
+description: W:6 L:14 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

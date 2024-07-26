@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​ANDROMEDA INC. 
-description: W:20 L:1 D:1 Bonus[❌]
+description: W:20 L:1 D:1 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Cerulean Star
-description: W:20 L:17 D:0 Bonus[❌]
+description: W:20 L:17 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

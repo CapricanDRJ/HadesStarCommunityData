@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​U.S.A
-description: W:8 L:13 D:0 Bonus[❌]
+description: W:8 L:13 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

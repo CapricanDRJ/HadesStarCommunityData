@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Star Blazers
-description: W:10 L:25 D:0 Bonus[❌]
+description: W:10 L:25 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​神仙'
-description: W:8 L:11 D:3 Bonus[❌]
+description: W:8 L:11 D:3 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

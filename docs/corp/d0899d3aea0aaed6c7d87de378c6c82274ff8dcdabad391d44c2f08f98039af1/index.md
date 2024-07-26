@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Croce del Sud
-description: W:8 L:7 D:0 Bonus[✅]
+description: W:8 L:7 D:0 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

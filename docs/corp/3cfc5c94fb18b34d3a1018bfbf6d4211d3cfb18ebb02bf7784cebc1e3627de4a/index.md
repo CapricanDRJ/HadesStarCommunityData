@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​PDC
-description: W:14 L:6 D:2 Bonus[✅]
+description: W:14 L:6 D:2 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Thunderbears
-description: W:3 L:5 D:1 Bonus[❌]
+description: W:3 L:5 D:1 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

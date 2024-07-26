@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​CDG
-description: W:24 L:27 D:5 Bonus[❌]
+description: W:24 L:27 D:5 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

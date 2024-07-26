@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​SternenStaub
-description: W:20 L:20 D:0 Bonus[✅]
+description: W:20 L:20 D:0 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

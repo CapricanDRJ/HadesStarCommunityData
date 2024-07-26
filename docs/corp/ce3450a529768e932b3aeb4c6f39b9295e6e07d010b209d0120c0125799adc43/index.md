@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​R-6 satalite
-description: W:26 L:11 D:1 Bonus[✅]
+description: W:26 L:11 D:1 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

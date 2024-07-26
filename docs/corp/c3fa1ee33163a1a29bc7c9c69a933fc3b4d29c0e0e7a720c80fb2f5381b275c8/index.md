@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​МАРСЮКИ
-description: W:31 L:1 D:0 Bonus[✅]
+description: W:31 L:1 D:0 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

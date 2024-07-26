@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​BRASIL STAR
-description: W:31 L:15 D:1 Bonus[✅]
+description: W:31 L:15 D:1 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

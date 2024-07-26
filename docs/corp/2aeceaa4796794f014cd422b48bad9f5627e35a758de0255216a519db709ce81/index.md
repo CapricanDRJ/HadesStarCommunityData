@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Order of Hades
-description: W:50 L:18 D:0 Bonus[✅]
+description: W:50 L:18 D:0 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

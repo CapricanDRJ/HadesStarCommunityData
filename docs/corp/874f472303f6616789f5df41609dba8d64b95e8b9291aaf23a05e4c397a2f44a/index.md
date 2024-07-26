@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​SUN OF 3LANDS
-description: W:8 L:2 D:1 Bonus[✅]
+description: W:8 L:2 D:1 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

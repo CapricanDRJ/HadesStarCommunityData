@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Prometheus ESP
-description: W:11 L:9 D:0 Bonus[❌]
+description: W:11 L:9 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

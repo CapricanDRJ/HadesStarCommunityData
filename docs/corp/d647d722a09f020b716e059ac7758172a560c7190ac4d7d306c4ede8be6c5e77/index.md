@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Void
-description: W:6 L:7 D:0 Bonus[✅]
+description: W:6 L:7 D:0 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

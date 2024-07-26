@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​New Horizons
-description: W:6 L:6 D:0 Bonus[❌]
+description: W:6 L:6 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

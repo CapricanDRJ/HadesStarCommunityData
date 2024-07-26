@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Лютые
-description: W:10 L:9 D:1 Bonus[❌]
+description: W:10 L:9 D:1 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Space Oddity
-description: W:14 L:10 D:0 Bonus[❌]
+description: W:14 L:10 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

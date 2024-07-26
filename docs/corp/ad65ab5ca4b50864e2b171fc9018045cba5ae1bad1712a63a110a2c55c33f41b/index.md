@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​嘤嘤嘤嘤嘤嘤嘤嘤
-description: W:0 L:6 D:0 Bonus[❌]
+description: W:0 L:6 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

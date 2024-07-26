@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Cowboys
-description: W:6 L:9 D:3 Bonus[❌]
+description: W:6 L:9 D:3 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Lacuna Academy
-description: W:15 L:2 D:0 Bonus[❌]
+description: W:15 L:2 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Любители Пива
-description: W:2 L:19 D:0 Bonus[❌]
+description: W:2 L:19 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

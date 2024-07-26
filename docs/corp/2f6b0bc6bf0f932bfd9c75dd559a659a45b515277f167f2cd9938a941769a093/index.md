@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​E.T.A 二营
-description: W:0 L:9 D:2 Bonus[❌]
+description: W:0 L:9 D:2 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

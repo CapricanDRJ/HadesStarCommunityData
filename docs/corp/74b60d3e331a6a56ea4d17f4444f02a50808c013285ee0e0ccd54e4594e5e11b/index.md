@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​русь 
-description: W:45 L:25 D:0 Bonus[✅]
+description: W:45 L:25 D:0 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

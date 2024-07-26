@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​喵喵喵喵喵喵喵
-description: W:0 L:7 D:2 Bonus[❌]
+description: W:0 L:7 D:2 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

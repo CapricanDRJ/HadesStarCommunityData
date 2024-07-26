@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Дом Датэ
-description: W:24 L:17 D:0 Bonus[✅]
+description: W:24 L:17 D:0 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Celtic Imperium
-description: W:1 L:6 D:1 Bonus[❌]
+description: W:1 L:6 D:1 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

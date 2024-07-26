@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Peak Extraction
-description: W:1 L:13 D:1 Bonus[❌]
+description: W:1 L:13 D:1 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

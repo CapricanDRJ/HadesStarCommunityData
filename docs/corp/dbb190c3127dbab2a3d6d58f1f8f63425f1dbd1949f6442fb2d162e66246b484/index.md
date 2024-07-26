@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​ANZAC Warriors
-description: W:16 L:5 D:1 Bonus[❌]
+description: W:16 L:5 D:1 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

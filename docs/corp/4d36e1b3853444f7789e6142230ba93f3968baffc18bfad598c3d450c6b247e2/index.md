@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​资助会
-description: W:7 L:2 D:0 Bonus[✅]
+description: W:7 L:2 D:0 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

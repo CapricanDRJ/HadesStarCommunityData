@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Ws Polaris
-description: W:3 L:14 D:2 Bonus[❌]
+description: W:3 L:14 D:2 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

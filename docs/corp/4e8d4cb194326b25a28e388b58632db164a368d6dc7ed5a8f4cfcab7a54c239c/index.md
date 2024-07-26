@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Тихий Омут
-description: W:10 L:43 D:1 Bonus[✅]
+description: W:10 L:43 D:1 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

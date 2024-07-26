@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​₩.BRASIL.₩
-description: W:0 L:8 D:4 Bonus[❌]
+description: W:0 L:8 D:4 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Highlife
-description: W:18 L:18 D:1 Bonus[❌]
+description: W:18 L:18 D:1 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

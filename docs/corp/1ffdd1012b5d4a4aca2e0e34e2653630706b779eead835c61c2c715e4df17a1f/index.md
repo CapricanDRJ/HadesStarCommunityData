@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Starsailors
-description: W:21 L:6 D:0 Bonus[❌]
+description: W:21 L:6 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

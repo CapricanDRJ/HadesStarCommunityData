@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​探索舰队
-description: W:16 L:13 D:1 Bonus[✅]
+description: W:16 L:13 D:1 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

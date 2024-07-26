@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Венерский Союз
-description: W:5 L:10 D:0 Bonus[❌]
+description: W:5 L:10 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

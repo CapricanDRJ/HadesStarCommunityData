@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Polaris Corpo
-description: W:7 L:3 D:0 Bonus[❌]
+description: W:7 L:3 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

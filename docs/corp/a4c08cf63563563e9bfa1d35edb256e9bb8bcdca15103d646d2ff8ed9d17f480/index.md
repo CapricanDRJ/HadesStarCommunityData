@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​脉冲星际集团
-description: W:20 L:23 D:1 Bonus[❌]
+description: W:20 L:23 D:1 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

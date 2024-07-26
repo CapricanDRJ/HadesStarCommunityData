@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Dacia Chill
-description: W:17 L:3 D:0 Bonus[✅]
+description: W:17 L:3 D:0 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

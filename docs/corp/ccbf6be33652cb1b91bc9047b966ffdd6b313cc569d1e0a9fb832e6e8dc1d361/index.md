@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​数字星际集团
-description: W:6 L:7 D:1 Bonus[❌]
+description: W:6 L:7 D:1 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

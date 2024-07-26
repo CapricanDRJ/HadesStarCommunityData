@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​BrinySeal
-description: W:34 L:15 D:3 Bonus[✅]
+description: W:34 L:15 D:3 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

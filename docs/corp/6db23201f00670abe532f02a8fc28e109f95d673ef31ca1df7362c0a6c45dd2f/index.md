@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​(_(_Vossk_)_)
-description: W:10 L:14 D:0 Bonus[❌]
+description: W:10 L:14 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

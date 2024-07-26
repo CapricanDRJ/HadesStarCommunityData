@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​SYNDICATE
-description: W:5 L:0 D:0 Bonus[❌]
+description: W:5 L:0 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

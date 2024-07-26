@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​붉은늑대
-description: W:33 L:38 D:0 Bonus[✅]
+description: W:33 L:38 D:0 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

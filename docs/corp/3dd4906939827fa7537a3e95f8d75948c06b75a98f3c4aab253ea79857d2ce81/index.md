@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Death Star llc.
-description: W:40 L:8 D:1 Bonus[✅]
+description: W:40 L:8 D:1 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

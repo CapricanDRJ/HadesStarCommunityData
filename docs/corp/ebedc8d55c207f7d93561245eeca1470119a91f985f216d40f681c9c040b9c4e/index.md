@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Frontier X
-description: W:9 L:4 D:0 Bonus[❌]
+description: W:9 L:4 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

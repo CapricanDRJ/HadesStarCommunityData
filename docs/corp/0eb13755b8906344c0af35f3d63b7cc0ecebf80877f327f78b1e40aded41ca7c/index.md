@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Ukr alliance 
-description: W:1 L:3 D:1 Bonus[❌]
+description: W:1 L:3 D:1 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

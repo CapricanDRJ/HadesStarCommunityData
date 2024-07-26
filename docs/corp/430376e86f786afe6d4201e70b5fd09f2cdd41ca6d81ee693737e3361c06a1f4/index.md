@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Likapa
-description: W:58 L:6 D:0 Bonus[✅]
+description: W:58 L:6 D:0 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

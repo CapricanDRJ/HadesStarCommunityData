@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​华夏三体舰队
-description: W:9 L:15 D:3 Bonus[❌]
+description: W:9 L:15 D:3 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

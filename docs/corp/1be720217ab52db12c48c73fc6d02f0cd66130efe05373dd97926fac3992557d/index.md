@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​UAGC
-description: W:22 L:16 D:0 Bonus[✅]
+description: W:22 L:16 D:0 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Core Systems
-description: W:3 L:2 D:2 Bonus[❌]
+description: W:3 L:2 D:2 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​四季长春
-description: W:14 L:22 D:5 Bonus[✅]
+description: W:14 L:22 D:5 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Rogue Corp
-description: W:1 L:17 D:0 Bonus[❌]
+description: W:1 L:17 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

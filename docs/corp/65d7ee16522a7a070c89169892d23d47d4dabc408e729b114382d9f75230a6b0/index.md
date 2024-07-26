@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​NameLess Hades
-description: W:0 L:0 D:1 Bonus[❌]
+description: W:0 L:0 D:1 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

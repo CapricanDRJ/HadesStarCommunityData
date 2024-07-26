@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​The Elite
-description: W:12 L:12 D:0 Bonus[❌]
+description: W:12 L:12 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

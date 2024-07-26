@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Imperio Lie Yan
-description: W:2 L:1 D:0 Bonus[❌]
+description: W:2 L:1 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

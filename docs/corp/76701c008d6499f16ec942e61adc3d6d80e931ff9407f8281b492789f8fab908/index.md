@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​New Star
-description: W:1 L:2 D:0 Bonus[❌]
+description: W:1 L:2 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

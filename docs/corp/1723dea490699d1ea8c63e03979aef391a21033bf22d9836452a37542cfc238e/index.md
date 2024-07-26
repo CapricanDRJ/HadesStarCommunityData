@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Soul System
-description: W:0 L:9 D:0 Bonus[❌]
+description: W:0 L:9 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

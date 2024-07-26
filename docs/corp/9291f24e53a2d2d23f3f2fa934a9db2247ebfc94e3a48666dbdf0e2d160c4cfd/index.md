@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​СССР
-description: W:24 L:24 D:2 Bonus[✅]
+description: W:24 L:24 D:2 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

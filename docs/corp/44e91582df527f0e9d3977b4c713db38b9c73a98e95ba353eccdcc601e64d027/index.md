@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Stellar Exports
-description: W:34 L:24 D:0 Bonus[✅]
+description: W:34 L:24 D:0 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

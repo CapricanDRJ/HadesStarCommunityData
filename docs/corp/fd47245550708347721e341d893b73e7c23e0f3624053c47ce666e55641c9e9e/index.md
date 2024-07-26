@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Nine's Own Goal
-description: W:26 L:15 D:2 Bonus[❌]
+description: W:26 L:15 D:2 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

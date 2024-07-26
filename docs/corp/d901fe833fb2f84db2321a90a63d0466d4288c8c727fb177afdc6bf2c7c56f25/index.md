@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Enigma
-description: W:5 L:12 D:0 Bonus[❌]
+description: W:5 L:12 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

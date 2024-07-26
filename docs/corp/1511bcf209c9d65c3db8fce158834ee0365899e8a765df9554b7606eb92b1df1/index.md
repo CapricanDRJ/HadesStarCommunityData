@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​太阳系联邦
-description: W:0 L:15 D:0 Bonus[❌]
+description: W:0 L:15 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

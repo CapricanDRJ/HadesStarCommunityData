@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​СНГ — РОССИЯ
-description: W:4 L:8 D:3 Bonus[❌]
+description: W:4 L:8 D:3 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

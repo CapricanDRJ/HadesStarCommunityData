@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Farland Ind.
-description: W:7 L:19 D:1 Bonus[❌]
+description: W:7 L:19 D:1 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Black Sun
-description: W:6 L:13 D:1 Bonus[❌]
+description: W:6 L:13 D:1 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

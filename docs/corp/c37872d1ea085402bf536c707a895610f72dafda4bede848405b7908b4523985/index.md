@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Galaktika corp
-description: W:14 L:5 D:2 Bonus[❌]
+description: W:14 L:5 D:2 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

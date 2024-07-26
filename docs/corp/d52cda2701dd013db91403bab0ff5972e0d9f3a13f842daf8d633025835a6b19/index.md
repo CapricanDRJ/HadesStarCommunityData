@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​The Galxey █
-description: W:5 L:29 D:2 Bonus[❌]
+description: W:5 L:29 D:2 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

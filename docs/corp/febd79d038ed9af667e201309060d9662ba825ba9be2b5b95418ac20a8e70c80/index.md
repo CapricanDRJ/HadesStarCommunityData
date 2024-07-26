@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Ark
-description: W:38 L:7 D:1 Bonus[✅]
+description: W:38 L:7 D:1 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

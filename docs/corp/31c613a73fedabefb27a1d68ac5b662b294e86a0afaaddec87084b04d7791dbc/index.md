@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​大舰队がな
-description: W:0 L:8 D:1 Bonus[❌]
+description: W:0 L:8 D:1 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Galaxian
-description: W:18 L:9 D:0 Bonus[❌]
+description: W:18 L:9 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

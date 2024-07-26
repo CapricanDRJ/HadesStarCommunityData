@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​-=Содружество=-
-description: W:19 L:8 D:0 Bonus[❌]
+description: W:19 L:8 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Space Marshalls
-description: W:28 L:18 D:0 Bonus[❌]
+description: W:28 L:18 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

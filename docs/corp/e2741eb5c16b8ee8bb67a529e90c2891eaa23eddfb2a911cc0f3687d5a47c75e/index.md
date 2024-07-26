@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Blood Hounds
-description: W:52 L:8 D:1 Bonus[✅]
+description: W:52 L:8 D:1 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

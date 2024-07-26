@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Omega Alpha
-description: W:24 L:4 D:0 Bonus[✅]
+description: W:24 L:4 D:0 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

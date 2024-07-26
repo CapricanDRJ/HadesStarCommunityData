@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Anarchy Nation 
-description: W:5 L:2 D:1 Bonus[❌]
+description: W:5 L:2 D:1 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

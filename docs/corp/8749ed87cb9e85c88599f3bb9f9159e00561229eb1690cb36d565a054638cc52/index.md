@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Seila
-description: W:4 L:6 D:1 Bonus[❌]
+description: W:4 L:6 D:1 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

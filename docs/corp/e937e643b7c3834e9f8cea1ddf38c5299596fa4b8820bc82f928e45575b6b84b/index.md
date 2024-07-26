@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​N.P.C
-description: W:5 L:2 D:3 Bonus[❌]
+description: W:5 L:2 D:3 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Eternal empire 
-description: W:7 L:15 D:0 Bonus[❌]
+description: W:7 L:15 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

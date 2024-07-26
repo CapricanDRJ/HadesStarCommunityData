@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Uchiha
-description: W:3 L:12 D:1 Bonus[❌]
+description: W:3 L:12 D:1 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

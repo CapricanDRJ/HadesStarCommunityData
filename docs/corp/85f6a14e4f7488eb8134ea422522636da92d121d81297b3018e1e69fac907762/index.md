@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​OrderofTheGeon
-description: W:19 L:20 D:3 Bonus[✅]
+description: W:19 L:20 D:3 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

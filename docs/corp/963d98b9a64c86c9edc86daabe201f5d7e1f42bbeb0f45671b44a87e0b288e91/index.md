@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Los Unidos 
-description: W:7 L:8 D:1 Bonus[❌]
+description: W:7 L:8 D:1 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

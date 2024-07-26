@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​CommCody & LPA
-description: W:13 L:9 D:0 Bonus[❌]
+description: W:13 L:9 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

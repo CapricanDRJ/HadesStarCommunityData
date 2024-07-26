@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​StarControl
-description: W:19 L:5 D:0 Bonus[✅]
+description: W:19 L:5 D:0 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

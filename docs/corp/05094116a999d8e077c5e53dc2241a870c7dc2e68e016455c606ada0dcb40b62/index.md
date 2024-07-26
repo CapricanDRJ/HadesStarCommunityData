@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​地球星际集团
-description: W:0 L:26 D:9 Bonus[❌]
+description: W:0 L:26 D:9 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

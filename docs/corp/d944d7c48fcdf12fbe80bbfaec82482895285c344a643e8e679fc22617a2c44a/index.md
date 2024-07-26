@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Nexland Ind.
-description: W:5 L:4 D:1 Bonus[❌]
+description: W:5 L:4 D:1 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

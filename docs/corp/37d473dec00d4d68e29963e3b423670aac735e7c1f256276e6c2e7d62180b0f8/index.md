@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Dumpster Fire 2
-description: W:36 L:40 D:2 Bonus[❌]
+description: W:36 L:40 D:2 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

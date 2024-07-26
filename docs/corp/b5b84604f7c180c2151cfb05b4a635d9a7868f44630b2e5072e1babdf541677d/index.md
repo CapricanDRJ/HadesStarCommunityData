@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Trade Systems
-description: W:0 L:3 D:0 Bonus[❌]
+description: W:0 L:3 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

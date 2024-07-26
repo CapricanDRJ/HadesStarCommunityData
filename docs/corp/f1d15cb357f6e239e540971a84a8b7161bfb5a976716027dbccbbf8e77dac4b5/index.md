@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Новый ЭДЭМ
-description: W:2 L:3 D:1 Bonus[❌]
+description: W:2 L:3 D:1 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

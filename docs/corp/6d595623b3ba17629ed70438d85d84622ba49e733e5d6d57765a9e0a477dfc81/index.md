@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​中国星际联盟
-description: W:32 L:27 D:1 Bonus[✅]
+description: W:32 L:27 D:1 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

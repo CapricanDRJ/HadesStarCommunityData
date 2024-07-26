@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​두빛나래
-description: W:11 L:17 D:0 Bonus[❌]
+description: W:11 L:17 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​helvetic force
-description: W:2 L:1 D:0 Bonus[❌]
+description: W:2 L:1 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

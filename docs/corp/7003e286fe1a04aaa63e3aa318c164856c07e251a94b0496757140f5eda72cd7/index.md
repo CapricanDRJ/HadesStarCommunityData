@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Trade Station
-description: W:4 L:31 D:0 Bonus[❌]
+description: W:4 L:31 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

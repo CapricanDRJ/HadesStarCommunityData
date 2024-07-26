@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Bunker
-description: W:27 L:24 D:1 Bonus[✅]
+description: W:27 L:24 D:1 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

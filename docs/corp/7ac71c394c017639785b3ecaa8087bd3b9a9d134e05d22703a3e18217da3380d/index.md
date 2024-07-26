@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Peace Keepers
-description: W:10 L:33 D:0 Bonus[❌]
+description: W:10 L:33 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

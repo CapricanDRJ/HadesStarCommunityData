@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​雪月永恒
-description: W:6 L:1 D:0 Bonus[❌]
+description: W:6 L:1 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

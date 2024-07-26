@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​death squadron 
-description: W:18 L:22 D:0 Bonus[❌]
+description: W:18 L:22 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

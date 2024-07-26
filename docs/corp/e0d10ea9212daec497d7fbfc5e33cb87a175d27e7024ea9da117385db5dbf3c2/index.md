@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​OKC THUNDER 
-description: W:2 L:2 D:0 Bonus[❌]
+description: W:2 L:2 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

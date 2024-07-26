@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Держава Русь
-description: W:0 L:13 D:0 Bonus[❌]
+description: W:0 L:13 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

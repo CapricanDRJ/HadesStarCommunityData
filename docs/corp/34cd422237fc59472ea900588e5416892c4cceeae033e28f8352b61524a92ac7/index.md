@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​CCCP
-description: W:1 L:6 D:2 Bonus[❌]
+description: W:1 L:6 D:2 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

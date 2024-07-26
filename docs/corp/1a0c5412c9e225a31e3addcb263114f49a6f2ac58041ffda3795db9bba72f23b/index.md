@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Kratos
-description: W:37 L:17 D:0 Bonus[✅]
+description: W:37 L:17 D:0 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

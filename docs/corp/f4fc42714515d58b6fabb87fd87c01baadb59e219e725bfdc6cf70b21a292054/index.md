@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Orphans Of Kos
-description: W:5 L:6 D:0 Bonus[❌]
+description: W:5 L:6 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

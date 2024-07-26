@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​BlackDawn
-description: W:1 L:14 D:5 Bonus[❌]
+description: W:1 L:14 D:5 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

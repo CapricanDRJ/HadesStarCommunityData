@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​CTG
-description: W:10 L:13 D:0 Bonus[✅]
+description: W:10 L:13 D:0 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

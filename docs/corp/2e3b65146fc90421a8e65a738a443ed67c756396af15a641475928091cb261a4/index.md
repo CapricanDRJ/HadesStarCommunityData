@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​UK Armada
-description: W:3 L:2 D:1 Bonus[❌]
+description: W:3 L:2 D:1 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​j g f h me t y 
-description: W:5 L:9 D:1 Bonus[❌]
+description: W:5 L:9 D:1 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

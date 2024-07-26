@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Sussy Coloner
-description: W:10 L:40 D:1 Bonus[✅]
+description: W:10 L:40 D:1 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

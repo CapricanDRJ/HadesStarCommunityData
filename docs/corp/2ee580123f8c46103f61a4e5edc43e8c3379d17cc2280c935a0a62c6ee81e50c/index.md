@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​德意志联邦集团
-description: W:0 L:3 D:3 Bonus[❌]
+description: W:0 L:3 D:3 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

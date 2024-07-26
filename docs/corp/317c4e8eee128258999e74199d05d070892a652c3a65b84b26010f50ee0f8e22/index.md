@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​t 72 SwiftKey F
-description: W:5 L:8 D:0 Bonus[❌]
+description: W:5 L:8 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

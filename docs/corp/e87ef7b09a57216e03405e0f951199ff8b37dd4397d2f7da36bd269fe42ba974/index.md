@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Quadra FR
-description: W:6 L:3 D:0 Bonus[❌]
+description: W:6 L:3 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​零号帝国
-description: W:3 L:0 D:0 Bonus[❌]
+description: W:3 L:0 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

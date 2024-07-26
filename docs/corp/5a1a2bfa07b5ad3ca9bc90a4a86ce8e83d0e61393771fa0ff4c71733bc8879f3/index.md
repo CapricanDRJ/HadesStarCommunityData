@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​海賊ギルド
-description: W:5 L:17 D:0 Bonus[❌]
+description: W:5 L:17 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

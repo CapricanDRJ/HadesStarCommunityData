@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​中国星系集团
-description: W:7 L:1 D:0 Bonus[❌]
+description: W:7 L:1 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​империя тьмы
-description: W:12 L:21 D:2 Bonus[✅]
+description: W:12 L:21 D:2 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Mass Effect
-description: W:19 L:17 D:1 Bonus[✅]
+description: W:19 L:17 D:1 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

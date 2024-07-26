@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Galactic Empire
-description: W:0 L:1 D:0 Bonus[❌]
+description: W:0 L:1 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

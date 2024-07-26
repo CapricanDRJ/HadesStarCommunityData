@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​德意志第三帝国阿尔法分部
-description: W:3 L:26 D:1 Bonus[❌]
+description: W:3 L:26 D:1 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

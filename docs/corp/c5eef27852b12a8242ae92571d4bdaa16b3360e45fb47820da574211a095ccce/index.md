@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​한국우주연합
-description: W:7 L:12 D:0 Bonus[❌]
+description: W:7 L:12 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

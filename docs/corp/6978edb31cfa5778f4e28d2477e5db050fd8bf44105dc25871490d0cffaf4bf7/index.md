@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Int. Trading Co
-description: W:16 L:9 D:1 Bonus[❌]
+description: W:16 L:9 D:1 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

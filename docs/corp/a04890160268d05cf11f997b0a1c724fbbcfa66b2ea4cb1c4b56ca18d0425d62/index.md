@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​GDZ
-description: W:31 L:26 D:0 Bonus[✅]
+description: W:31 L:26 D:0 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

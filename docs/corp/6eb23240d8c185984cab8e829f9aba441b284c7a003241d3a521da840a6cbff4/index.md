@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​猎户座星云
-description: W:3 L:6 D:0 Bonus[❌]
+description: W:3 L:6 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

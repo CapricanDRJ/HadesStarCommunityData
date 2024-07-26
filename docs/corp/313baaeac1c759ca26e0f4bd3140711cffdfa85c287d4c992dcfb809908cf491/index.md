@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Legion
-description: W:21 L:23 D:0 Bonus[❌]
+description: W:21 L:23 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

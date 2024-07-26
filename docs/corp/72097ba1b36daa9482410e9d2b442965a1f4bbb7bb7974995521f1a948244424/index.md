@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​八月政府
-description: W:2 L:17 D:1 Bonus[❌]
+description: W:2 L:17 D:1 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

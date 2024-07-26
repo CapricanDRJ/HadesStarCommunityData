@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​ГОРИЗОНТ
-description: W:9 L:46 D:0 Bonus[✅]
+description: W:9 L:46 D:0 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

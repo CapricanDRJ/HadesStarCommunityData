@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​KARI
-description: W:2 L:62 D:0 Bonus[❌]
+description: W:2 L:62 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

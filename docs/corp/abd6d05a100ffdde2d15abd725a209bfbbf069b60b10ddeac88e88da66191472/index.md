@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​华夏舰队
-description: W:20 L:25 D:0 Bonus[❌]
+description: W:20 L:25 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

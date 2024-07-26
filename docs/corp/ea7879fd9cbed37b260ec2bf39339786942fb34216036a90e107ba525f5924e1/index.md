@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Got Nothing
-description: W:12 L:8 D:0 Bonus[❌]
+description: W:12 L:8 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

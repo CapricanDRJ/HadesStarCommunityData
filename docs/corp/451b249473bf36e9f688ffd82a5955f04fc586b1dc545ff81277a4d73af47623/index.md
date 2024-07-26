@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Lost Legion
-description: W:20 L:35 D:0 Bonus[✅]
+description: W:20 L:35 D:0 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

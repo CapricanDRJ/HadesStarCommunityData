@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Galaxians
-description: W:11 L:13 D:0 Bonus[❌]
+description: W:11 L:13 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

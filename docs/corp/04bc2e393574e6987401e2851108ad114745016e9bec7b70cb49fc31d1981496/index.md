@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Октябристы
-description: W:41 L:41 D:1 Bonus[✅]
+description: W:41 L:41 D:1 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

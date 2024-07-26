@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​lonewolf
-description: W:9 L:10 D:1 Bonus[✅]
+description: W:9 L:10 D:1 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

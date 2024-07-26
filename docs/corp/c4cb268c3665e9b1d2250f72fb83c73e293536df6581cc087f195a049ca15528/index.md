@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Призрачный Путь
-description: W:13 L:5 D:0 Bonus[❌]
+description: W:13 L:5 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Warriorlords
-description: W:20 L:8 D:0 Bonus[✅]
+description: W:20 L:8 D:0 Bonus ✅
 ---
-### Bonus[✅]
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

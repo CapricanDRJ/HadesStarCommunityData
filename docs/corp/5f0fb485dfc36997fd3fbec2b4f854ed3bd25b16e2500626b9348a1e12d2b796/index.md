@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Quantum Web
-description: W:0 L:1 D:1 Bonus[❌]
+description: W:0 L:1 D:1 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

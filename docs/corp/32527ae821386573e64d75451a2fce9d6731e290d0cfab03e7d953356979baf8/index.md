@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Hail Hydra
-description: W:6 L:18 D:0 Bonus[❌]
+description: W:6 L:18 D:0 Bonus ❌
 ---
-### Bonus[❌]
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
