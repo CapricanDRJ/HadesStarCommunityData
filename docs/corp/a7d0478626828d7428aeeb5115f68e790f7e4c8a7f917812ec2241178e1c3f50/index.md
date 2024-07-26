@@ -6,13 +6,12 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1343 🔺  (71)|
-| ELO Competitive | 1380 🔺  (101)|
-| Total Matches | 33 |
+| ELO Regular | 1323 🔻  (90)|
+| ELO Competitive | 1359 🔻  (122)|
+| Total Matches | 34 |
 | Wins | 25 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 0 |
-| Streak | 3 |
 | Streak Record | 9 |
 
 ### Recurring Opponents
@@ -28,6 +27,7 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/26 | 6-25 | [alienigenas](https://ws.tsl.rocks/corp/1c092f1b0e9645193eac68e27b29b2b9fef39474fd8924495abec6754857a8f9/) |
 | ✅ | 2024/07/10 | 32-7 | [Pyke Syndicate](https://ws.tsl.rocks/corp/1761635d6aaf9c2caf7abc37130e2d9aa48e7b4cc753ae4b701fde4b48abd3e1/) |
 | ✅ | 2024/06/30 | 21-5 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ✅ | 2024/06/08 | 22-7 | [StellaMysterium](https://ws.tsl.rocks/corp/cfaaa81ed93cc9361ade470c3414c73ecf77068badd68d624c7b3f486d142b10/) |

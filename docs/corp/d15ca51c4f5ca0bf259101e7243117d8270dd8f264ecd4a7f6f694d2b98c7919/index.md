@@ -6,12 +6,12 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1282 🔺  (152)|
-| ELO Competitive | 1332 🔺  (155)|
-| Total Matches | 33 |
+| ELO Regular | 1267 🔺  (178)|
+| ELO Competitive | 1331 🔻  (157)|
+| Total Matches | 35 |
 | Wins | 18 |
-| Losses | 13 |
-| Draws | 2 |
+| Losses | 14 |
+| Draws | 3 |
 | Streak Record | 7 |
 
 ### Recurring Opponents
@@ -30,6 +30,8 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/07/26 | 13-13 | [Shrimp City](https://ws.tsl.rocks/corp/eae9b3a1f9dd6b4a1fb39d6aedfe84a80662abe6b181bedcfd7ec15d931b8e84/) |
+| ❌ | 2024/07/26 | 0-3 | [PDC](https://ws.tsl.rocks/corp/3cfc5c94fb18b34d3a1018bfbf6d4211d3cfb18ebb02bf7784cebc1e3627de4a/) |
 | ↔️ | 2024/07/21 | 0-0 | [Poggy Rockers](https://ws.tsl.rocks/corp/47aeb151232251d9e53310e21f1290b1240c63878169968847bd1e89efc909a7/) |
 | ✅ | 2024/07/21 | 18-3 | [水晶星际集团](https://ws.tsl.rocks/corp/6390d7a4666ac4537ef5eacf76dd1c2f34548cc588aac8dad423c308ad1c0f3d/) |
 | ✅ | 2024/07/15 | 9-8 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
