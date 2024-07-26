@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ReylZ
-description: Hades' Star Corporation ReylZ Bonus [🔴] W:0 L:2 D:0 
+description: Hades' Star ReylZ Bonus[🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

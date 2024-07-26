@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Internationals
-description: Hades' Star Corporation Internationals Bonus [🟢] W:13 L:9 D:0 
+description: Hades' Star Internationals Bonus[🟢] W:13 L:9 D:0 
 ---
 
 | Statistic | Value |

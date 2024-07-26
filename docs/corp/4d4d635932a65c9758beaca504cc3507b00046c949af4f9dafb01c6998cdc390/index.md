@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wehrmacht
-description: Hades' Star Corporation Wehrmacht Bonus [🔴] W:0 L:2 D:0 
+description: Hades' Star Wehrmacht Bonus[🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

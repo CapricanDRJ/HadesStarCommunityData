@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The trade pub
-description: Hades' Star Corporation The trade pub Bonus [🟢] W:15 L:19 D:0 
+description: Hades' Star The trade pub Bonus[🟢] W:15 L:19 D:0 
 ---
 
 | Statistic | Value |

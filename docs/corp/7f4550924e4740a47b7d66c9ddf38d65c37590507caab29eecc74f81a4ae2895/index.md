@@ -1,7 +1,7 @@
 ---
 layout: page
 title: DeutschlandGmbH
-description: Hades' Star Corporation DeutschlandGmbH Bonus [🔴] W:1 L:3 D:0 
+description: Hades' Star DeutschlandGmbH Bonus[🔴] W:1 L:3 D:0 
 ---
 
 | Statistic | Value |

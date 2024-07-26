@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 德意志第三帝国奥米加分部
-description: Hades' Star Corporation 德意志第三帝国奥米加分部 Bonus [🟢] W:4 L:11 D:3 
+description: Hades' Star 德意志第三帝国奥米加分部 Bonus[🟢] W:4 L:11 D:3 
 ---
 
 | Statistic | Value |

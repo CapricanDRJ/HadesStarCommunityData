@@ -1,7 +1,7 @@
 ---
 layout: page
 title: NAC
-description: Hades' Star Corporation NAC Bonus [🔴] W:0 L:1 D:1 
+description: Hades' Star NAC Bonus[🔴] W:0 L:1 D:1 
 ---
 
 | Statistic | Value |

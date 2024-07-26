@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Black Nova
-description: Hades' Star Corporation Black Nova Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Black Nova Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

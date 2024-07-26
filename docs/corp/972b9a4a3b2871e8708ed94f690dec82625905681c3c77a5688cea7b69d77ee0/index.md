@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 零号帝国
-description: Hades' Star Corporation 零号帝国 Bonus [🔴] W:3 L:0 D:0 
+description: Hades' Star 零号帝国 Bonus[🔴] W:3 L:0 D:0 
 ---
 
 | Statistic | Value |

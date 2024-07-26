@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Madison Holding
-description: Hades' Star Corporation Madison Holding Bonus [🔴] W:7 L:4 D:0 
+description: Hades' Star Madison Holding Bonus[🔴] W:7 L:4 D:0 
 ---
 
 | Statistic | Value |

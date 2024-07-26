@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Star Fleet
-description: Hades' Star Corporation Star Fleet Bonus [🔴] W:7 L:16 D:0 
+description: Hades' Star Star Fleet Bonus[🔴] W:7 L:16 D:0 
 ---
 
 | Statistic | Value |

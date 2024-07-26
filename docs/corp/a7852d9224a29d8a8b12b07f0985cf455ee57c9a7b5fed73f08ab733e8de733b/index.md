@@ -1,7 +1,7 @@
 ---
 layout: page
 title: КРЫЛЯ ФЕНИКСА
-description: Hades' Star Corporation КРЫЛЯ ФЕНИКСА Bonus [🔴] W:4 L:4 D:0 
+description: Hades' Star КРЫЛЯ ФЕНИКСА Bonus[🔴] W:4 L:4 D:0 
 ---
 
 | Statistic | Value |

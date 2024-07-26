@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Seperatists
-description: Hades' Star Corporation The Seperatists Bonus [🔴] W:15 L:19 D:0 
+description: Hades' Star The Seperatists Bonus[🔴] W:15 L:19 D:0 
 ---
 
 | Statistic | Value |

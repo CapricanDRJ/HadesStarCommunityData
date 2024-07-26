@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Spiritic Beacon
-description: Hades' Star Corporation Spiritic Beacon Bonus [🔴] W:5 L:4 D:0 
+description: Hades' Star Spiritic Beacon Bonus[🔴] W:5 L:4 D:0 
 ---
 
 | Statistic | Value |

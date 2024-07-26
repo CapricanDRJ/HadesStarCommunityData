@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ZION
-description: Hades' Star Corporation ZION Bonus [🔴] W:23 L:17 D:0 
+description: Hades' Star ZION Bonus[🔴] W:23 L:17 D:0 
 ---
 
 | Statistic | Value |

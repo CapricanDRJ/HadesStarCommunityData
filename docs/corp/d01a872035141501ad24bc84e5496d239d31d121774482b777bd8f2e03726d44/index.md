@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Crimson Dawn
-description: Hades' Star Corporation Crimson Dawn Bonus [🔴] W:7 L:10 D:0 
+description: Hades' Star Crimson Dawn Bonus[🔴] W:7 L:10 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Last Chance
-description: Hades' Star Corporation Last Chance Bonus [🔴] W:2 L:2 D:1 
+description: Hades' Star Last Chance Bonus[🔴] W:2 L:2 D:1 
 ---
 
 | Statistic | Value |

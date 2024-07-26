@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Embers Rising
-description: Hades' Star Corporation Embers Rising Bonus [🟢] W:22 L:4 D:0 
+description: Hades' Star Embers Rising Bonus[🟢] W:22 L:4 D:0 
 ---
 
 | Statistic | Value |

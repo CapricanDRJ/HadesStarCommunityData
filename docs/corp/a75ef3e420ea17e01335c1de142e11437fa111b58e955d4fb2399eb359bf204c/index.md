@@ -1,7 +1,7 @@
 ---
 layout: page
 title: callisto corp
-description: Hades' Star Corporation callisto corp Bonus [🔴] W:0 L:2 D:0 
+description: Hades' Star callisto corp Bonus[🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

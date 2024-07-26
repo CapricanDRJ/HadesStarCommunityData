@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bacon Warriors
-description: Hades' Star Corporation Bacon Warriors Bonus [🟢] W:13 L:11 D:0 
+description: Hades' Star Bacon Warriors Bonus[🟢] W:13 L:11 D:0 
 ---
 
 | Statistic | Value |

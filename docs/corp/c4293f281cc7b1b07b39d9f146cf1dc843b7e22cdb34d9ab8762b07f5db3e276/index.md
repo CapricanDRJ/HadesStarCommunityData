@@ -1,7 +1,7 @@
 ---
 layout: page
 title: united unicorn
-description: Hades' Star Corporation united unicorn Bonus [🔴] W:1 L:0 D:0 
+description: Hades' Star united unicorn Bonus[🔴] W:1 L:0 D:0 
 ---
 
 | Statistic | Value |

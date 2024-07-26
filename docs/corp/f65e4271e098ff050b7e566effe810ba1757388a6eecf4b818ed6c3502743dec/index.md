@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 宇宙联盟（中国）
-description: Hades' Star Corporation 宇宙联盟（中国） Bonus [🔴] W:12 L:28 D:3 
+description: Hades' Star 宇宙联盟（中国） Bonus[🔴] W:12 L:28 D:3 
 ---
 
 | Statistic | Value |

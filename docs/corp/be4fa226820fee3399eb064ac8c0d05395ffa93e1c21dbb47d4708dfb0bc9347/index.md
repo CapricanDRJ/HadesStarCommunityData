@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Рейнджеры
-description: Hades' Star Corporation Рейнджеры Bonus [🔴] W:6 L:14 D:0 
+description: Hades' Star Рейнджеры Bonus[🔴] W:6 L:14 D:0 
 ---
 
 | Statistic | Value |

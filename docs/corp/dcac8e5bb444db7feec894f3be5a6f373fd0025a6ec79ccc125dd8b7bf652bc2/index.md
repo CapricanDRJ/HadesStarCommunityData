@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 很多星球的社会主义团
-description: Hades' Star Corporation 很多星球的社会主义团 Bonus [🔴] W:8 L:9 D:1 
+description: Hades' Star 很多星球的社会主义团 Bonus[🔴] W:8 L:9 D:1 
 ---
 
 | Statistic | Value |

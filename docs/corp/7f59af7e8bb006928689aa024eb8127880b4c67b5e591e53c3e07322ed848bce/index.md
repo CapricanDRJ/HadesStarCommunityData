@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Legionnaires
-description: Hades' Star Corporation Legionnaires Bonus [🔴] W:0 L:2 D:0 
+description: Hades' Star Legionnaires Bonus[🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

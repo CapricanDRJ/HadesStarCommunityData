@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Grand Mechanism
-description: Hades' Star Corporation Grand Mechanism Bonus [🔴] W:2 L:5 D:1 
+description: Hades' Star Grand Mechanism Bonus[🔴] W:2 L:5 D:1 
 ---
 
 | Statistic | Value |

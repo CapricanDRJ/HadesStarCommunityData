@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ShadowSpaceCult
-description: Hades' Star Corporation ShadowSpaceCult Bonus [🔴] W:2 L:1 D:0 
+description: Hades' Star ShadowSpaceCult Bonus[🔴] W:2 L:1 D:0 
 ---
 
 | Statistic | Value |

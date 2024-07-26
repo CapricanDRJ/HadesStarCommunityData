@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Two kitties
-description: Hades' Star Corporation Two kitties Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Two kitties Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

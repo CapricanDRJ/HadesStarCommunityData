@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Скричеры
-description: Hades' Star Corporation Скричеры Bonus [🔴] W:2 L:2 D:0 
+description: Hades' Star Скричеры Bonus[🔴] W:2 L:2 D:0 
 ---
 
 | Statistic | Value |

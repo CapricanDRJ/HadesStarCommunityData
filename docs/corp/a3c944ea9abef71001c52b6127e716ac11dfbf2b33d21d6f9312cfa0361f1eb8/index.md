@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Irish Pride 
-description: Hades' Star Corporation Irish Pride  Bonus [🔴] W:1 L:1 D:0 
+description: Hades' Star Irish Pride  Bonus[🔴] W:1 L:1 D:0 
 ---
 
 | Statistic | Value |

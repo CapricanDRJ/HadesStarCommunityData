@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dadsw/Daughterz
-description: Hades' Star Corporation Dadsw/Daughterz Bonus [🔴] W:1 L:3 D:0 
+description: Hades' Star Dadsw/Daughterz Bonus[🔴] W:1 L:3 D:0 
 ---
 
 | Statistic | Value |

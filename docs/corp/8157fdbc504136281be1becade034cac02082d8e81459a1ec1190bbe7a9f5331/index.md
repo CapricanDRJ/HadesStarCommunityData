@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Goblin Squad
-description: Hades' Star Corporation Goblin Squad Bonus [🔴] W:4 L:4 D:0 
+description: Hades' Star Goblin Squad Bonus[🔴] W:4 L:4 D:0 
 ---
 
 | Statistic | Value |

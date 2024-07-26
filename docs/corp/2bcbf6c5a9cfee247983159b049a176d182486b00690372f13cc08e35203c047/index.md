@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Todesschwadron
-description: Hades' Star Corporation Todesschwadron Bonus [🔴] W:2 L:3 D:0 
+description: Hades' Star Todesschwadron Bonus[🔴] W:2 L:3 D:0 
 ---
 
 | Statistic | Value |

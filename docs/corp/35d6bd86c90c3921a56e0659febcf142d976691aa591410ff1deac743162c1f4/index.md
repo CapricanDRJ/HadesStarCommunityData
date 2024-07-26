@@ -1,7 +1,7 @@
 ---
 layout: page
 title: New Era
-description: Hades' Star Corporation New Era Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star New Era Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

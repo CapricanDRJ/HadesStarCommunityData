@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SPACECOWBOYS
-description: Hades' Star Corporation SPACECOWBOYS Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star SPACECOWBOYS Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Orion France
-description: Hades' Star Corporation Orion France Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Orion France Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: USSR
-description: Hades' Star Corporation USSR Bonus [🔴] W:2 L:3 D:0 
+description: Hades' Star USSR Bonus[🔴] W:2 L:3 D:0 
 ---
 
 | Statistic | Value |

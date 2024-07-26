@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Корпорация Миф
-description: Hades' Star Corporation Корпорация Миф Bonus [🔴] W:8 L:0 D:0 
+description: Hades' Star Корпорация Миф Bonus[🔴] W:8 L:0 D:0 
 ---
 
 | Statistic | Value |

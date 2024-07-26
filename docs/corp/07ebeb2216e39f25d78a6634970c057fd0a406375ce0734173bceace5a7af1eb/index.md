@@ -1,7 +1,7 @@
 ---
 layout: page
 title: OTRSᗜωO
-description: Hades' Star Corporation OTRSᗜωO Bonus [🟢] W:1 L:1 D:0 
+description: Hades' Star OTRSᗜωO Bonus[🟢] W:1 L:1 D:0 
 ---
 
 | Statistic | Value |

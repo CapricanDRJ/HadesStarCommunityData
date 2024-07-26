@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BlakkFlot
-description: Hades' Star Corporation BlakkFlot Bonus [🔴] W:3 L:2 D:0 
+description: Hades' Star BlakkFlot Bonus[🔴] W:3 L:2 D:0 
 ---
 
 | Statistic | Value |

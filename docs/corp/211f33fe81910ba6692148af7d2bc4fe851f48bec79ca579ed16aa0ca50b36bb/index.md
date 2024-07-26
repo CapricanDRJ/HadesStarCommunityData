@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CommCody & LPA
-description: Hades' Star Corporation CommCody & LPA Bonus [🔴] W:13 L:9 D:0 
+description: Hades' Star CommCody & LPA Bonus[🔴] W:13 L:9 D:0 
 ---
 
 | Statistic | Value |

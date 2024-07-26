@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Рагнарёк
-description: Hades' Star Corporation Рагнарёк Bonus [🔴] W:0 L:2 D:0 
+description: Hades' Star Рагнарёк Bonus[🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

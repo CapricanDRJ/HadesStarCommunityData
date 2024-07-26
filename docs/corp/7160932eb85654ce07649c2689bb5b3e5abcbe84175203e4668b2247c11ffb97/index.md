@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Star Field
-description: Hades' Star Corporation Star Field Bonus [🟢] W:7 L:1 D:0 
+description: Hades' Star Star Field Bonus[🟢] W:7 L:1 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 新手联邦（新经济开发区）
-description: Hades' Star Corporation 新手联邦（新经济开发区） Bonus [🔴] W:27 L:0 D:0 
+description: Hades' Star 新手联邦（新经济开发区） Bonus[🔴] W:27 L:0 D:0 
 ---
 
 | Statistic | Value |

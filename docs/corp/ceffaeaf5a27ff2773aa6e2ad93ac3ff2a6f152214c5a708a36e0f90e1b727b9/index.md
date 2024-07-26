@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Девчата
-description: Hades' Star Corporation Девчата Bonus [🟢] W:2 L:0 D:0 
+description: Hades' Star Девчата Bonus[🟢] W:2 L:0 D:0 
 ---
 
 | Statistic | Value |

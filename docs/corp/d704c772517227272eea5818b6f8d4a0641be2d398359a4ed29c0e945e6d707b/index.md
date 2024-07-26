@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 希灵帝国
-description: Hades' Star Corporation 希灵帝国 Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star 希灵帝国 Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

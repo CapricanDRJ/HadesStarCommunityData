@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ДИВЕРСАНТЫ
-description: Hades' Star Corporation ДИВЕРСАНТЫ Bonus [🟢] W:45 L:6 D:1 
+description: Hades' Star ДИВЕРСАНТЫ Bonus[🟢] W:45 L:6 D:1 
 ---
 
 | Statistic | Value |

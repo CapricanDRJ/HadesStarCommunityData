@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Astra Ultima
-description: Hades' Star Corporation Astra Ultima Bonus [🔴] W:0 L:3 D:0 
+description: Hades' Star Astra Ultima Bonus[🔴] W:0 L:3 D:0 
 ---
 
 | Statistic | Value |

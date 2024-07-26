@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sterling Gamers
-description: Hades' Star Corporation Sterling Gamers Bonus [🔴] W:1 L:1 D:0 
+description: Hades' Star Sterling Gamers Bonus[🔴] W:1 L:1 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Спутник
-description: Hades' Star Corporation Спутник Bonus [🟢] W:31 L:7 D:0 
+description: Hades' Star Спутник Bonus[🟢] W:31 L:7 D:0 
 ---
 
 | Statistic | Value |

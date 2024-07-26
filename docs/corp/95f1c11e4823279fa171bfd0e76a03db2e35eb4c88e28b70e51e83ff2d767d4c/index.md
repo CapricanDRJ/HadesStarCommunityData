@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Imperio Galacti
-description: Hades' Star Corporation Imperio Galacti Bonus [🔴] W:0 L:2 D:0 
+description: Hades' Star Imperio Galacti Bonus[🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

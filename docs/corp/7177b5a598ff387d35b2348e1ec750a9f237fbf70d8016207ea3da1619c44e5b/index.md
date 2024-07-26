@@ -1,7 +1,7 @@
 ---
 layout: page
 title: death squadron 
-description: Hades' Star Corporation death squadron  Bonus [🔴] W:18 L:22 D:0 
+description: Hades' Star death squadron  Bonus[🔴] W:18 L:22 D:0 
 ---
 
 | Statistic | Value |

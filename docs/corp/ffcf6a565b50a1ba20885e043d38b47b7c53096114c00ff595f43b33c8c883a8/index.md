@@ -1,7 +1,7 @@
 ---
 layout: page
 title: the light
-description: Hades' Star Corporation the light Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star the light Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GermanIndustrie
-description: Hades' Star Corporation GermanIndustrie Bonus [🟢] W:8 L:2 D:1 
+description: Hades' Star GermanIndustrie Bonus[🟢] W:8 L:2 D:1 
 ---
 
 | Statistic | Value |

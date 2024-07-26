@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Battlestar Fr
-description: Hades' Star Corporation Battlestar Fr Bonus [🔴] W:4 L:4 D:0 
+description: Hades' Star Battlestar Fr Bonus[🔴] W:4 L:4 D:0 
 ---
 
 | Statistic | Value |

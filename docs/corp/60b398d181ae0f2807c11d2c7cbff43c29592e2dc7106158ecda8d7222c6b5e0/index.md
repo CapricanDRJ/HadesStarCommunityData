@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Коллайдер
-description: Hades' Star Corporation Коллайдер Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Коллайдер Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

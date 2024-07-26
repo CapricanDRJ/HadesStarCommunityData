@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Omega Alpha
-description: Hades' Star Corporation Omega Alpha Bonus [🟢] W:24 L:4 D:0 
+description: Hades' Star Omega Alpha Bonus[🟢] W:24 L:4 D:0 
 ---
 
 | Statistic | Value |

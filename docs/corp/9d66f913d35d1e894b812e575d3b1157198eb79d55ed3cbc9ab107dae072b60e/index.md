@@ -1,7 +1,7 @@
 ---
 layout: page
 title: uzumaki
-description: Hades' Star Corporation uzumaki Bonus [🟢] W:1 L:0 D:0 
+description: Hades' Star uzumaki Bonus[🟢] W:1 L:0 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 하데스 스타 코리아
-description: Hades' Star Corporation 하데스 스타 코리아 Bonus [🔴] W:9 L:7 D:0 
+description: Hades' Star 하데스 스타 코리아 Bonus[🔴] W:9 L:7 D:0 
 ---
 
 | Statistic | Value |

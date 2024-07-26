@@ -1,7 +1,7 @@
 ---
 layout: page
 title: New Orbit ©
-description: Hades' Star Corporation New Orbit © Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star New Orbit © Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

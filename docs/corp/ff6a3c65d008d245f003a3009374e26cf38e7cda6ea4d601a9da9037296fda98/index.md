@@ -1,7 +1,7 @@
 ---
 layout: page
 title: YETI Collective
-description: Hades' Star Corporation YETI Collective Bonus [🔴] W:18 L:30 D:0 
+description: Hades' Star YETI Collective Bonus[🔴] W:18 L:30 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Polandia
-description: Hades' Star Corporation Polandia Bonus [🔴] W:0 L:3 D:0 
+description: Hades' Star Polandia Bonus[🔴] W:0 L:3 D:0 
 ---
 
 | Statistic | Value |

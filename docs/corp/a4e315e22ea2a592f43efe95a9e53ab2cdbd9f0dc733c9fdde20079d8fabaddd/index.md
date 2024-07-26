@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Battle Academy
-description: Hades' Star Corporation Battle Academy Bonus [🔴] W:4 L:0 D:0 
+description: Hades' Star Battle Academy Bonus[🔴] W:4 L:0 D:0 
 ---
 
 | Statistic | Value |

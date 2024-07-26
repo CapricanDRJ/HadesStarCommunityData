@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Nerd Herd
-description: Hades' Star Corporation The Nerd Herd Bonus [🔴] W:1 L:2 D:0 
+description: Hades' Star The Nerd Herd Bonus[🔴] W:1 L:2 D:0 
 ---
 
 | Statistic | Value |

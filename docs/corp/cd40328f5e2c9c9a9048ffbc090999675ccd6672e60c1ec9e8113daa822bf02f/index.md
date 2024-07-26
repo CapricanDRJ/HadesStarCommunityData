@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Intari
-description: Hades' Star Corporation Intari Bonus [🔴] W:0 L:0 D:1 
+description: Hades' Star Intari Bonus[🔴] W:0 L:0 D:1 
 ---
 
 | Statistic | Value |

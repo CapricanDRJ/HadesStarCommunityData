@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Core
-description: Hades' Star Corporation Core Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Core Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

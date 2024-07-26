@@ -1,7 +1,7 @@
 ---
 layout: page
 title: КЕДР
-description: Hades' Star Corporation КЕДР Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star КЕДР Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

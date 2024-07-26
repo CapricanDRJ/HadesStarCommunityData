@@ -1,7 +1,7 @@
 ---
 layout: page
 title: VoidCorp
-description: Hades' Star Corporation VoidCorp Bonus [🟢] W:19 L:20 D:1 
+description: Hades' Star VoidCorp Bonus[🟢] W:19 L:20 D:1 
 ---
 
 | Statistic | Value |

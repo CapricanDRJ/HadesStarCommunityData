@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Black Mirror Co
-description: Hades' Star Corporation Black Mirror Co Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Black Mirror Co Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 🌪TORNADO 
-description: Hades' Star Corporation 🌪TORNADO  Bonus [🔴] W:6 L:8 D:3 
+description: Hades' Star 🌪TORNADO  Bonus[🔴] W:6 L:8 D:3 
 ---
 
 | Statistic | Value |

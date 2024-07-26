@@ -1,7 +1,7 @@
 ---
 layout: page
 title: WTF
-description: Hades' Star Corporation WTF Bonus [🔴] W:1 L:2 D:0 
+description: Hades' Star WTF Bonus[🔴] W:1 L:2 D:0 
 ---
 
 | Statistic | Value |

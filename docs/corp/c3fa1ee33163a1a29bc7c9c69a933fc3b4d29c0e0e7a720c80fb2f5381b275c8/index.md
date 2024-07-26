@@ -1,7 +1,7 @@
 ---
 layout: page
 title: МАРСЮКИ
-description: Hades' Star Corporation МАРСЮКИ Bonus [🟢] W:31 L:1 D:0 
+description: Hades' Star МАРСЮКИ Bonus[🟢] W:31 L:1 D:0 
 ---
 
 | Statistic | Value |

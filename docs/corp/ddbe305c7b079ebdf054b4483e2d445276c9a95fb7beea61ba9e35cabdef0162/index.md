@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RUSSIAN TEAM
-description: Hades' Star Corporation RUSSIAN TEAM Bonus [🔴] W:0 L:9 D:0 
+description: Hades' Star RUSSIAN TEAM Bonus[🔴] W:0 L:9 D:0 
 ---
 
 | Statistic | Value |

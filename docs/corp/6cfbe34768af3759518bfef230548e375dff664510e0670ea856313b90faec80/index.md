@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Goa'uld
-description: Hades' Star Corporation Goa'uld Bonus [🔴] W:0 L:1 D:2 
+description: Hades' Star Goa'uld Bonus[🔴] W:0 L:1 D:2 
 ---
 
 | Statistic | Value |

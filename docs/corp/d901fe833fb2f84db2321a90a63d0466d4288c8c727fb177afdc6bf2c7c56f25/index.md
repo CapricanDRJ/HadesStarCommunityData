@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Enigma
-description: Hades' Star Corporation Enigma Bonus [🔴] W:5 L:12 D:0 
+description: Hades' Star Enigma Bonus[🔴] W:5 L:12 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: JPR. Pretorians
-description: Hades' Star Corporation JPR. Pretorians Bonus [🔴] W:6 L:9 D:0 
+description: Hades' Star JPR. Pretorians Bonus[🔴] W:6 L:9 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ГОРИЗОНТ
-description: Hades' Star Corporation ГОРИЗОНТ Bonus [🟢] W:9 L:46 D:0 
+description: Hades' Star ГОРИЗОНТ Bonus[🟢] W:9 L:46 D:0 
 ---
 
 | Statistic | Value |

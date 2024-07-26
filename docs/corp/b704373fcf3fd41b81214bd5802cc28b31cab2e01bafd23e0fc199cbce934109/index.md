@@ -1,7 +1,7 @@
 ---
 layout: page
 title: pegaso
-description: Hades' Star Corporation pegaso Bonus [🔴] W:0 L:4 D:2 
+description: Hades' Star pegaso Bonus[🔴] W:0 L:4 D:2 
 ---
 
 | Statistic | Value |

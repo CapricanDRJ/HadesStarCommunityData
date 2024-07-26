@@ -1,7 +1,7 @@
 ---
 layout: page
 title: exirium
-description: Hades' Star Corporation exirium Bonus [🔴] W:1 L:1 D:0 
+description: Hades' Star exirium Bonus[🔴] W:1 L:1 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 한국인
-description: Hades' Star Corporation 한국인 Bonus [🔴] W:31 L:14 D:3 
+description: Hades' Star 한국인 Bonus[🔴] W:31 L:14 D:3 
 ---
 
 | Statistic | Value |

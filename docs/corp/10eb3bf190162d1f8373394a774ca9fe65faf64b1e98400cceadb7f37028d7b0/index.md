@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Survivors
-description: Hades' Star Corporation Survivors Bonus [🔴] W:4 L:11 D:1 
+description: Hades' Star Survivors Bonus[🔴] W:4 L:11 D:1 
 ---
 
 | Statistic | Value |

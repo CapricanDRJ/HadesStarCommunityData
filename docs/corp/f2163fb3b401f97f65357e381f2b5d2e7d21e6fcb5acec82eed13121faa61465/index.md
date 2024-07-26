@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Starbond
-description: Hades' Star Corporation Starbond Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Starbond Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

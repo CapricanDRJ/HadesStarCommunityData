@@ -1,7 +1,7 @@
 ---
 layout: page
 title: space port
-description: Hades' Star Corporation space port Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star space port Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

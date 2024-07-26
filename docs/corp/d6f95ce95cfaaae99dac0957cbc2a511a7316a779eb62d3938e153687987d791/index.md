@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cygnus X-1
-description: Hades' Star Corporation Cygnus X-1 Bonus [🔴] W:0 L:2 D:0 
+description: Hades' Star Cygnus X-1 Bonus[🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

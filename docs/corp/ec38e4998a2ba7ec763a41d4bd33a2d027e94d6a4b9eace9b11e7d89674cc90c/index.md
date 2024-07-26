@@ -1,7 +1,7 @@
 ---
 layout: page
 title: StarControl
-description: Hades' Star Corporation StarControl Bonus [🟢] W:19 L:5 D:0 
+description: Hades' Star StarControl Bonus[🟢] W:19 L:5 D:0 
 ---
 
 | Statistic | Value |

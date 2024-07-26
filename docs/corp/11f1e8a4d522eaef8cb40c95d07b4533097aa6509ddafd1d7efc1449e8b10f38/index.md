@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SternenStaub
-description: Hades' Star Corporation SternenStaub Bonus [🟢] W:20 L:20 D:0 
+description: Hades' Star SternenStaub Bonus[🟢] W:20 L:20 D:0 
 ---
 
 | Statistic | Value |

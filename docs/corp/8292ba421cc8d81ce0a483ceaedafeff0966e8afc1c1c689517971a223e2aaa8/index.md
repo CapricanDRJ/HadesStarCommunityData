@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Сибиряки
-description: Hades' Star Corporation Сибиряки Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Сибиряки Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

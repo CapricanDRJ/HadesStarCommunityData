@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Soul System
-description: Hades' Star Corporation Soul System Bonus [🔴] W:0 L:9 D:0 
+description: Hades' Star Soul System Bonus[🔴] W:0 L:9 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Альянс звезд
-description: Hades' Star Corporation Альянс звезд Bonus [🔴] W:3 L:1 D:0 
+description: Hades' Star Альянс звезд Bonus[🔴] W:3 L:1 D:0 
 ---
 
 | Statistic | Value |

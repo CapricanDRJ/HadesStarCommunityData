@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dritte Macht
-description: Hades' Star Corporation Dritte Macht Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Dritte Macht Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

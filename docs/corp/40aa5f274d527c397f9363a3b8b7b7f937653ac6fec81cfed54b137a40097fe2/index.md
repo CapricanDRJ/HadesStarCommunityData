@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Die pösn Purchn
-description: Hades' Star Corporation Die pösn Purchn Bonus [🔴] W:0 L:2 D:0 
+description: Hades' Star Die pösn Purchn Bonus[🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Syndicate 
-description: Hades' Star Corporation The Syndicate  Bonus [🟢] W:14 L:1 D:0 
+description: Hades' Star The Syndicate  Bonus[🟢] W:14 L:1 D:0 
 ---
 
 | Statistic | Value |

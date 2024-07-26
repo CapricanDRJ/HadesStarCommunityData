@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ELITE
-description: Hades' Star Corporation ELITE Bonus [🔴] W:0 L:1 D:1 
+description: Hades' Star ELITE Bonus[🔴] W:0 L:1 D:1 
 ---
 
 | Statistic | Value |

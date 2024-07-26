@@ -1,7 +1,7 @@
 ---
 layout: page
 title: NoweUkladyII
-description: Hades' Star Corporation NoweUkladyII Bonus [🟢] W:10 L:0 D:0 
+description: Hades' Star NoweUkladyII Bonus[🟢] W:10 L:0 D:0 
 ---
 
 | Statistic | Value |

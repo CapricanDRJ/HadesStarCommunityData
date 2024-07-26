@@ -1,7 +1,7 @@
 ---
 layout: page
 title: РОДНЫЕ.
-description: Hades' Star Corporation РОДНЫЕ. Bonus [🔴] W:4 L:5 D:0 
+description: Hades' Star РОДНЫЕ. Bonus[🔴] W:4 L:5 D:0 
 ---
 
 | Statistic | Value |

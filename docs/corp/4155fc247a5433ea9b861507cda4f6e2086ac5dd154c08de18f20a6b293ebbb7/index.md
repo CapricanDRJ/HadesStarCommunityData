@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Séptimo Círculo
-description: Hades' Star Corporation Séptimo Círculo Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Séptimo Círculo Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

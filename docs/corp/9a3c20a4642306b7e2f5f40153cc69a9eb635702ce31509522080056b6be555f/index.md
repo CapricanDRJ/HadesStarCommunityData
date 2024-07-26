@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Covenant
-description: Hades' Star Corporation Covenant Bonus [🔴] W:0 L:2 D:0 
+description: Hades' Star Covenant Bonus[🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

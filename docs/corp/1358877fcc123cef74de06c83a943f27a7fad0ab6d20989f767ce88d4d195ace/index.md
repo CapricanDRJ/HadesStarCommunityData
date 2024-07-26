@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Повстанцы Хаоса
-description: Hades' Star Corporation Повстанцы Хаоса Bonus [🟢] W:21 L:4 D:0 
+description: Hades' Star Повстанцы Хаоса Bonus[🟢] W:21 L:4 D:0 
 ---
 
 | Statistic | Value |

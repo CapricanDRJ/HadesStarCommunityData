@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Helion Prime
-description: Hades' Star Corporation Helion Prime Bonus [🔴] W:6 L:5 D:0 
+description: Hades' Star Helion Prime Bonus[🔴] W:6 L:5 D:0 
 ---
 
 | Statistic | Value |

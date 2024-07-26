@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ItaFederalFleet
-description: Hades' Star Corporation ItaFederalFleet Bonus [🟢] W:15 L:5 D:1 
+description: Hades' Star ItaFederalFleet Bonus[🟢] W:15 L:5 D:1 
 ---
 
 | Statistic | Value |

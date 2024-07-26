@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Best UA West
-description: Hades' Star Corporation Best UA West Bonus [🔴] W:0 L:4 D:0 
+description: Hades' Star Best UA West Bonus[🔴] W:0 L:4 D:0 
 ---
 
 | Statistic | Value |

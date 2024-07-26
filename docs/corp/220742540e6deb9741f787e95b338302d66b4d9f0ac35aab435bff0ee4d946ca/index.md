@@ -1,7 +1,7 @@
 ---
 layout: page
 title: HerronCorp
-description: Hades' Star Corporation HerronCorp Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star HerronCorp Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

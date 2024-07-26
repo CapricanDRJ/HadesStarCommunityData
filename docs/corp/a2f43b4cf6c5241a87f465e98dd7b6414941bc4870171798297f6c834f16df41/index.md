@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Jesus Followers
-description: Hades' Star Corporation Jesus Followers Bonus [🔴] W:1 L:4 D:0 
+description: Hades' Star Jesus Followers Bonus[🔴] W:1 L:4 D:0 
 ---
 
 | Statistic | Value |

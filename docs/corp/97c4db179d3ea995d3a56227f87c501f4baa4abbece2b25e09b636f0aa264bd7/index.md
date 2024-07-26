@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BoomTech
-description: Hades' Star Corporation BoomTech Bonus [🟢] W:18 L:5 D:1 
+description: Hades' Star BoomTech Bonus[🟢] W:18 L:5 D:1 
 ---
 
 | Statistic | Value |

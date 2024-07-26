@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nebulae Traders
-description: Hades' Star Corporation Nebulae Traders Bonus [🔴] W:4 L:15 D:2 
+description: Hades' Star Nebulae Traders Bonus[🔴] W:4 L:15 D:2 
 ---
 
 | Statistic | Value |

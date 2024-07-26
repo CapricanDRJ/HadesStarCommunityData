@@ -1,7 +1,7 @@
 ---
 layout: page
 title: VALHALLA
-description: Hades' Star Corporation VALHALLA Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star VALHALLA Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

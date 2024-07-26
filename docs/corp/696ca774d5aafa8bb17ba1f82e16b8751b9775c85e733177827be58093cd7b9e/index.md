@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Black Sun
-description: Hades' Star Corporation Black Sun Bonus [🔴] W:6 L:13 D:1 
+description: Hades' Star Black Sun Bonus[🔴] W:6 L:13 D:1 
 ---
 
 | Statistic | Value |

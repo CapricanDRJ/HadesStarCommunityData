@@ -1,7 +1,7 @@
 ---
 layout: page
 title: E.T.A
-description: Hades' Star Corporation E.T.A Bonus [🔴] W:7 L:21 D:0 
+description: Hades' Star E.T.A Bonus[🔴] W:7 L:21 D:0 
 ---
 
 | Statistic | Value |

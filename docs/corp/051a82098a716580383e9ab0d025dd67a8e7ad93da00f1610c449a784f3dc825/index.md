@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  RELAX CZ/SK
-description: Hades' Star Corporation  RELAX CZ/SK Bonus [🟢] W:51 L:20 D:0 
+description: Hades' Star  RELAX CZ/SK Bonus[🟢] W:51 L:20 D:0 
 ---
 
 | Statistic | Value |

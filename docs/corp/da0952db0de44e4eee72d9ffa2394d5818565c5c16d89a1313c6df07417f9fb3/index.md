@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Space Rangers
-description: Hades' Star Corporation Space Rangers Bonus [🔴] W:17 L:9 D:0 
+description: Hades' Star Space Rangers Bonus[🔴] W:17 L:9 D:0 
 ---
 
 | Statistic | Value |

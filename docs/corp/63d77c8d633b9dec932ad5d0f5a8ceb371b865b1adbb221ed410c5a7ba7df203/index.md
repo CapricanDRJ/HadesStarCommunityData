@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cerulean Star
-description: Hades' Star Corporation Cerulean Star Bonus [🔴] W:20 L:17 D:0 
+description: Hades' Star Cerulean Star Bonus[🔴] W:20 L:17 D:0 
 ---
 
 | Statistic | Value |

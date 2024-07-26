@@ -1,7 +1,7 @@
 ---
 layout: page
 title: OntarioDawn
-description: Hades' Star Corporation OntarioDawn Bonus [🟢] W:35 L:3 D:0 
+description: Hades' Star OntarioDawn Bonus[🟢] W:35 L:3 D:0 
 ---
 
 | Statistic | Value |

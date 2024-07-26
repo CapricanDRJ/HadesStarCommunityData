@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Death knight
-description: Hades' Star Corporation Death knight Bonus [🔴] W:0 L:2 D:0 
+description: Hades' Star Death knight Bonus[🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

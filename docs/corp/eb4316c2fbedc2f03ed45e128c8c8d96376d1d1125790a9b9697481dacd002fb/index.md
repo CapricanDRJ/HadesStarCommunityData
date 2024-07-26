@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 湖心亭看雪
-description: Hades' Star Corporation 湖心亭看雪 Bonus [🔴] W:2 L:19 D:2 
+description: Hades' Star 湖心亭看雪 Bonus[🔴] W:2 L:19 D:2 
 ---
 
 | Statistic | Value |

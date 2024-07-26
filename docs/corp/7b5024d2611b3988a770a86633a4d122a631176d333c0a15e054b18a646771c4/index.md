@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ⚜NOVA⚜
-description: Hades' Star Corporation ⚜NOVA⚜ Bonus [🔴] W:0 L:2 D:0 
+description: Hades' Star ⚜NOVA⚜ Bonus[🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

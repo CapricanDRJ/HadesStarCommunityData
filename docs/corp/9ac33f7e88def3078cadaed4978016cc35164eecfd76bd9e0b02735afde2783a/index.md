@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dying stars
-description: Hades' Star Corporation Dying stars Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Dying stars Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

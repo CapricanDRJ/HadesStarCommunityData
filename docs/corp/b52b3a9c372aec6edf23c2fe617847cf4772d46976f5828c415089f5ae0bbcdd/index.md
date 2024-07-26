@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BLOK EKIPA
-description: Hades' Star Corporation BLOK EKIPA Bonus [🔴] W:0 L:3 D:0 
+description: Hades' Star BLOK EKIPA Bonus[🔴] W:0 L:3 D:0 
 ---
 
 | Statistic | Value |

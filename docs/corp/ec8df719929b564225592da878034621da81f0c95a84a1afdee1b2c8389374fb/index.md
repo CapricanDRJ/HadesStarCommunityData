@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Krasse Bros
-description: Hades' Star Corporation Krasse Bros Bonus [🔴] W:5 L:1 D:0 
+description: Hades' Star Krasse Bros Bonus[🔴] W:5 L:1 D:0 
 ---
 
 | Statistic | Value |

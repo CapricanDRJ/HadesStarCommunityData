@@ -1,7 +1,7 @@
 ---
 layout: page
 title: nuevo mundo
-description: Hades' Star Corporation nuevo mundo Bonus [🟢] W:7 L:7 D:0 
+description: Hades' Star nuevo mundo Bonus[🟢] W:7 L:7 D:0 
 ---
 
 | Statistic | Value |

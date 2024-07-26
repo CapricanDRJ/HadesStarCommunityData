@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BRhue
-description: Hades' Star Corporation BRhue Bonus [🟢] W:3 L:2 D:0 
+description: Hades' Star BRhue Bonus[🟢] W:3 L:2 D:0 
 ---
 
 | Statistic | Value |

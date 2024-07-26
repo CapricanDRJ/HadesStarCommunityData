@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Freelancer
-description: Hades' Star Corporation Freelancer Bonus [🔴] W:0 L:2 D:0 
+description: Hades' Star Freelancer Bonus[🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

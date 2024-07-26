@@ -1,7 +1,7 @@
 ---
 layout: page
 title: XXX500XXX
-description: Hades' Star Corporation XXX500XXX Bonus [🔴] W:0 L:2 D:0 
+description: Hades' Star XXX500XXX Bonus[🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

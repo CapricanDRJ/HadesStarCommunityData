@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gwiezdna Horda
-description: Hades' Star Corporation Gwiezdna Horda Bonus [🔴] W:4 L:0 D:0 
+description: Hades' Star Gwiezdna Horda Bonus[🔴] W:4 L:0 D:0 
 ---
 
 | Statistic | Value |

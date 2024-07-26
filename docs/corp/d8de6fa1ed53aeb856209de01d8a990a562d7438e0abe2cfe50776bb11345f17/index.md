@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 拆迁大队
-description: Hades' Star Corporation 拆迁大队 Bonus [🔴] W:15 L:30 D:3 
+description: Hades' Star 拆迁大队 Bonus[🔴] W:15 L:30 D:3 
 ---
 
 | Statistic | Value |

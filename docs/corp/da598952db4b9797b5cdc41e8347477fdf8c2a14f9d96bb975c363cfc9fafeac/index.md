@@ -1,7 +1,7 @@
 ---
 layout: page
 title: fishwax
-description: Hades' Star Corporation fishwax Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star fishwax Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

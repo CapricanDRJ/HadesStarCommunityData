@@ -1,7 +1,7 @@
 ---
 layout: page
 title: リリース
-description: Hades' Star Corporation リリース Bonus [🟢] W:33 L:10 D:0 
+description: Hades' Star リリース Bonus[🟢] W:33 L:10 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Зелёная корпа
-description: Hades' Star Corporation Зелёная корпа Bonus [🔴] W:4 L:4 D:0 
+description: Hades' Star Зелёная корпа Bonus[🔴] W:4 L:4 D:0 
 ---
 
 | Statistic | Value |

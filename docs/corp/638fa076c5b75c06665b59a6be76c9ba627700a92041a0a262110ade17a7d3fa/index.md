@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CDS
-description: Hades' Star Corporation CDS Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star CDS Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

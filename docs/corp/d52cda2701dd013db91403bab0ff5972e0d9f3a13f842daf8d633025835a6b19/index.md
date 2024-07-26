@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Galxey █
-description: Hades' Star Corporation The Galxey █ Bonus [🔴] W:5 L:29 D:2 
+description: Hades' Star The Galxey █ Bonus[🔴] W:5 L:29 D:2 
 ---
 
 | Statistic | Value |

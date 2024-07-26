@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Br Stark Corps
-description: Hades' Star Corporation Br Stark Corps Bonus [🔴] W:3 L:6 D:0 
+description: Hades' Star Br Stark Corps Bonus[🔴] W:3 L:6 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Rzeczypospolita
-description: Hades' Star Corporation Rzeczypospolita Bonus [🔴] W:0 L:0 D:1 
+description: Hades' Star Rzeczypospolita Bonus[🔴] W:0 L:0 D:1 
 ---
 
 | Statistic | Value |

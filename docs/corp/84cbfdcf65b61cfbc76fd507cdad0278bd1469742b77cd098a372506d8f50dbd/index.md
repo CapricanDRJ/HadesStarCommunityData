@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Uchiha
-description: Hades' Star Corporation Uchiha Bonus [🔴] W:3 L:12 D:1 
+description: Hades' Star Uchiha Bonus[🔴] W:3 L:12 D:1 
 ---
 
 | Statistic | Value |

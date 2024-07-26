@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Star Dust
-description: Hades' Star Corporation Star Dust Bonus [🔴] W:2 L:3 D:0 
+description: Hades' Star Star Dust Bonus[🔴] W:2 L:3 D:0 
 ---
 
 | Statistic | Value |

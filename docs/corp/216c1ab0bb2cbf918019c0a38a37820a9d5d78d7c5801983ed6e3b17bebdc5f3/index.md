@@ -1,7 +1,7 @@
 ---
 layout: page
 title: lonewolf
-description: Hades' Star Corporation lonewolf Bonus [🟢] W:9 L:10 D:1 
+description: Hades' Star lonewolf Bonus[🟢] W:9 L:10 D:1 
 ---
 
 | Statistic | Value |

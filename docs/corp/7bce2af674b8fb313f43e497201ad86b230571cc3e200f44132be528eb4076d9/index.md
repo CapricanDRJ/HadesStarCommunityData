@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Zvezdec
-description: Hades' Star Corporation Zvezdec Bonus [🟢] W:29 L:14 D:0 
+description: Hades' Star Zvezdec Bonus[🟢] W:29 L:14 D:0 
 ---
 
 | Statistic | Value |

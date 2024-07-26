@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Richthofen
-description: Hades' Star Corporation Richthofen Bonus [🔴] W:1 L:1 D:0 
+description: Hades' Star Richthofen Bonus[🔴] W:1 L:1 D:0 
 ---
 
 | Statistic | Value |

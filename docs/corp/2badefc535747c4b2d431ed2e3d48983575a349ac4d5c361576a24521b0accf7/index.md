@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Darknova
-description: Hades' Star Corporation Darknova Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Darknova Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

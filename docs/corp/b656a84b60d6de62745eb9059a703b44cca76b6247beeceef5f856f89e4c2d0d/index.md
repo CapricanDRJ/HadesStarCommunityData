@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Peak Extraction
-description: Hades' Star Corporation Peak Extraction Bonus [🔴] W:1 L:13 D:1 
+description: Hades' Star Peak Extraction Bonus[🔴] W:1 L:13 D:1 
 ---
 
 | Statistic | Value |

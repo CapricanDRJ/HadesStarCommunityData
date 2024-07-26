@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 专业间谍团队
-description: Hades' Star Corporation 专业间谍团队 Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star 专业间谍团队 Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

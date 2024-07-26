@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Draconis
-description: Hades' Star Corporation Draconis Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Draconis Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

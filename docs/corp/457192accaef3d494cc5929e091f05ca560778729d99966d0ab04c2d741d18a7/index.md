@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Эдельвейс
-description: Hades' Star Corporation Эдельвейс Bonus [🔴] W:0 L:3 D:1 
+description: Hades' Star Эдельвейс Bonus[🔴] W:0 L:3 D:1 
 ---
 
 | Statistic | Value |

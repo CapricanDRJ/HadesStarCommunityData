@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ТРУЛЯЛЯ
-description: Hades' Star Corporation ТРУЛЯЛЯ Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star ТРУЛЯЛЯ Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

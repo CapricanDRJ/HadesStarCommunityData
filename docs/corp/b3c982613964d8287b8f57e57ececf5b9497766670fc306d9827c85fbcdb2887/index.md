@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CAEDRUS [<o>]
-description: Hades' Star Corporation CAEDRUS [<o>] Bonus [🔴] W:2 L:2 D:1 
+description: Hades' Star CAEDRUS [<o>] Bonus[🔴] W:2 L:2 D:1 
 ---
 
 | Statistic | Value |

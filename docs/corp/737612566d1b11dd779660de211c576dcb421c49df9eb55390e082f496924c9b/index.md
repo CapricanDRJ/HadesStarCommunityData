@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hands Of God
-description: Hades' Star Corporation Hands Of God Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Hands Of God Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

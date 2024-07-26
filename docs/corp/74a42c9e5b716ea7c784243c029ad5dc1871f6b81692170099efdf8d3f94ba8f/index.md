@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 遨游星空  kdy分盟
-description: Hades' Star Corporation 遨游星空  kdy分盟 Bonus [🔴] W:13 L:18 D:1 
+description: Hades' Star 遨游星空  kdy分盟 Bonus[🔴] W:13 L:18 D:1 
 ---
 
 | Statistic | Value |

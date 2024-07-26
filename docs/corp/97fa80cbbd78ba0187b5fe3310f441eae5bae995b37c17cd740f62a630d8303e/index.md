@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gastro
-description: Hades' Star Corporation Gastro Bonus [🟢] W:2 L:3 D:0 
+description: Hades' Star Gastro Bonus[🟢] W:2 L:3 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Capibarius
-description: Hades' Star Corporation Capibarius Bonus [🔴] W:5 L:1 D:0 
+description: Hades' Star Capibarius Bonus[🔴] W:5 L:1 D:0 
 ---
 
 | Statistic | Value |

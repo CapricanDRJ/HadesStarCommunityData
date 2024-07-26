@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Omega Aboration
-description: Hades' Star Corporation Omega Aboration Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Omega Aboration Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

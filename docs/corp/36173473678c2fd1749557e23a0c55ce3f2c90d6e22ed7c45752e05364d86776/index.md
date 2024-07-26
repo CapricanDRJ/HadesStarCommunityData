@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SpaceX
-description: Hades' Star Corporation SpaceX Bonus [🔴] W:0 L:2 D:0 
+description: Hades' Star SpaceX Bonus[🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

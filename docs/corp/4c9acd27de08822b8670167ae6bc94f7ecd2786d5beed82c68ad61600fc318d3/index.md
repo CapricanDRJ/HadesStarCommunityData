@@ -1,7 +1,7 @@
 ---
 layout: page
 title: THE BENDERA
-description: Hades' Star Corporation THE BENDERA Bonus [🔴] W:15 L:6 D:0 
+description: Hades' Star THE BENDERA Bonus[🔴] W:15 L:6 D:0 
 ---
 
 | Statistic | Value |

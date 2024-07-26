@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Quilliance
-description: Hades' Star Corporation Quilliance Bonus [🟢] W:14 L:2 D:0 
+description: Hades' Star Quilliance Bonus[🟢] W:14 L:2 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ВЕЧНОСТЬ
-description: Hades' Star Corporation ВЕЧНОСТЬ Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star ВЕЧНОСТЬ Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

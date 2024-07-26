@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Quantum Jumpers
-description: Hades' Star Corporation Quantum Jumpers Bonus [🔴] W:4 L:5 D:1 
+description: Hades' Star Quantum Jumpers Bonus[🔴] W:4 L:5 D:1 
 ---
 
 | Statistic | Value |

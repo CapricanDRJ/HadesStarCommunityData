@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SveaEmpire
-description: Hades' Star Corporation SveaEmpire Bonus [🔴] W:1 L:5 D:0 
+description: Hades' Star SveaEmpire Bonus[🔴] W:1 L:5 D:0 
 ---
 
 | Statistic | Value |

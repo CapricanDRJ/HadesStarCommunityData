@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sith Academy
-description: Hades' Star Corporation Sith Academy Bonus [🔴] W:0 L:2 D:0 
+description: Hades' Star Sith Academy Bonus[🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

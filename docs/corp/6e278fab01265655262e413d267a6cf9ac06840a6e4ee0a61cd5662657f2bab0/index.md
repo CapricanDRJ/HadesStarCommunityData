@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "ПОБЕДА"
-description: Hades' Star Corporation "ПОБЕДА" Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star "ПОБЕДА" Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

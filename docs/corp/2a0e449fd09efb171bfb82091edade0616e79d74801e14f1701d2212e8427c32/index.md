@@ -1,7 +1,7 @@
 ---
 layout: page
 title: R2D2
-description: Hades' Star Corporation R2D2 Bonus [🔴] W:0 L:2 D:0 
+description: Hades' Star R2D2 Bonus[🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

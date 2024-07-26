@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Galactic Otters
-description: Hades' Star Corporation Galactic Otters Bonus [🔴] W:1 L:0 D:0 
+description: Hades' Star Galactic Otters Bonus[🔴] W:1 L:0 D:0 
 ---
 
 | Statistic | Value |

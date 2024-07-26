@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Вселенские 40%
-description: Hades' Star Corporation Вселенские 40% Bonus [🔴] W:18 L:20 D:0 
+description: Hades' Star Вселенские 40% Bonus[🔴] W:18 L:20 D:0 
 ---
 
 | Statistic | Value |

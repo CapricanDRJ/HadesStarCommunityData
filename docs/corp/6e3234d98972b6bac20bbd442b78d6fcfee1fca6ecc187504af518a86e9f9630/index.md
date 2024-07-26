@@ -1,7 +1,7 @@
 ---
 layout: page
 title: VAJRA 
-description: Hades' Star Corporation VAJRA  Bonus [🔴] W:1 L:2 D:0 
+description: Hades' Star VAJRA  Bonus[🔴] W:1 L:2 D:0 
 ---
 
 | Statistic | Value |

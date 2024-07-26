@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Red Dawn
-description: Hades' Star Corporation Red Dawn Bonus [🟢] W:27 L:17 D:1 
+description: Hades' Star Red Dawn Bonus[🟢] W:27 L:17 D:1 
 ---
 
 | Statistic | Value |

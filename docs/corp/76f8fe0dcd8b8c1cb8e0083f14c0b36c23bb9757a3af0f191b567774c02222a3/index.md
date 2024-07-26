@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bl@ck/Galaxy 
-description: Hades' Star Corporation Bl@ck/Galaxy  Bonus [🟢] W:15 L:13 D:1 
+description: Hades' Star Bl@ck/Galaxy  Bonus[🟢] W:15 L:13 D:1 
 ---
 
 | Statistic | Value |

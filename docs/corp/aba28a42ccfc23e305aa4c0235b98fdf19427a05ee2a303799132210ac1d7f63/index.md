@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Die Mafia
-description: Hades' Star Corporation Die Mafia Bonus [🔴] W:0 L:0 D:1 
+description: Hades' Star Die Mafia Bonus[🔴] W:0 L:0 D:1 
 ---
 
 | Statistic | Value |

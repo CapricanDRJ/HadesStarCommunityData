@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SpaceCowboys
-description: Hades' Star Corporation SpaceCowboys Bonus [🔴] W:13 L:5 D:0 
+description: Hades' Star SpaceCowboys Bonus[🔴] W:13 L:5 D:0 
 ---
 
 | Statistic | Value |

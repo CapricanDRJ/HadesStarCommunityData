@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dansk
-description: Hades' Star Corporation Dansk Bonus [🔴] W:0 L:4 D:0 
+description: Hades' Star Dansk Bonus[🔴] W:0 L:4 D:0 
 ---
 
 | Statistic | Value |

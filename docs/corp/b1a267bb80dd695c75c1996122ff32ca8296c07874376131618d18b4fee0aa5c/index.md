@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bund von Lykon
-description: Hades' Star Corporation Bund von Lykon Bonus [🔴] W:2 L:9 D:0 
+description: Hades' Star Bund von Lykon Bonus[🔴] W:2 L:9 D:0 
 ---
 
 | Statistic | Value |

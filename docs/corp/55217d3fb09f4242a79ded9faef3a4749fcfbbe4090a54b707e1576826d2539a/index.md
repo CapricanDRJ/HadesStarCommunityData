@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 日中連合
-description: Hades' Star Corporation 日中連合 Bonus [🔴] W:0 L:2 D:0 
+description: Hades' Star 日中連合 Bonus[🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: СССР
-description: Hades' Star Corporation СССР Bonus [🟢] W:24 L:24 D:2 
+description: Hades' Star СССР Bonus[🟢] W:24 L:24 D:2 
 ---
 
 | Statistic | Value |

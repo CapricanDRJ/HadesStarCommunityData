@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BRASIL ACADEMY
-description: Hades' Star Corporation BRASIL ACADEMY Bonus [🔴] W:2 L:1 D:0 
+description: Hades' Star BRASIL ACADEMY Bonus[🔴] W:2 L:1 D:0 
 ---
 
 | Statistic | Value |

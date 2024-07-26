@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Наша Вселенная
-description: Hades' Star Corporation Наша Вселенная Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Наша Вселенная Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

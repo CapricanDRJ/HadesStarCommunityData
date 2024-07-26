@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 63SALVADORES36
-description: Hades' Star Corporation 63SALVADORES36 Bonus [🔴] W:0 L:1 D:1 
+description: Hades' Star 63SALVADORES36 Bonus[🔴] W:0 L:1 D:1 
 ---
 
 | Statistic | Value |

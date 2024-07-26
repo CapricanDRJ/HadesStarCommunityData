@@ -1,7 +1,7 @@
 ---
 layout: page
 title: OntarioDynasty
-description: Hades' Star Corporation OntarioDynasty Bonus [🔴] W:1 L:4 D:0 
+description: Hades' Star OntarioDynasty Bonus[🔴] W:1 L:4 D:0 
 ---
 
 | Statistic | Value |

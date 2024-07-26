@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BattleCo
-description: Hades' Star Corporation BattleCo Bonus [🔴] W:21 L:14 D:0 
+description: Hades' Star BattleCo Bonus[🔴] W:21 L:14 D:0 
 ---
 
 | Statistic | Value |

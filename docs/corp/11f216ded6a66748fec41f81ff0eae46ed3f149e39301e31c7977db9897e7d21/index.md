@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Galactic Trade
-description: Hades' Star Corporation Galactic Trade Bonus [🔴] W:2 L:6 D:0 
+description: Hades' Star Galactic Trade Bonus[🔴] W:2 L:6 D:0 
 ---
 
 | Statistic | Value |

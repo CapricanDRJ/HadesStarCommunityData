@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Void Nebula
-description: Hades' Star Corporation Void Nebula Bonus [🔴] W:0 L:3 D:0 
+description: Hades' Star Void Nebula Bonus[🔴] W:0 L:3 D:0 
 ---
 
 | Statistic | Value |

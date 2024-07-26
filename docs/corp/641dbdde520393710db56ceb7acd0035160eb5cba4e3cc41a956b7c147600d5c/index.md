@@ -1,7 +1,7 @@
 ---
 layout: page
 title: StarFun
-description: Hades' Star Corporation StarFun Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star StarFun Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

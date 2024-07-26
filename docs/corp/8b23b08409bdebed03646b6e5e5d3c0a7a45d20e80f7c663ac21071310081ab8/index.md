@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BR Gear
-description: Hades' Star Corporation BR Gear Bonus [🔴] W:0 L:2 D:0 
+description: Hades' Star BR Gear Bonus[🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

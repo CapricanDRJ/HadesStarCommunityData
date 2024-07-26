@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nearland Ind
-description: Hades' Star Corporation Nearland Ind Bonus [🟢] W:37 L:17 D:0 
+description: Hades' Star Nearland Ind Bonus[🟢] W:37 L:17 D:0 
 ---
 
 | Statistic | Value |

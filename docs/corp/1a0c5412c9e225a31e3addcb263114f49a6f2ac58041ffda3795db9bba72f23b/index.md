@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kratos
-description: Hades' Star Corporation Kratos Bonus [🟢] W:37 L:17 D:0 
+description: Hades' Star Kratos Bonus[🟢] W:37 L:17 D:0 
 ---
 
 | Statistic | Value |

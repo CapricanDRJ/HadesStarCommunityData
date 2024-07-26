@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Valhalla Rising
-description: Hades' Star Corporation Valhalla Rising Bonus [🟢] W:22 L:2 D:0 
+description: Hades' Star Valhalla Rising Bonus[🟢] W:22 L:2 D:0 
 ---
 
 | Statistic | Value |

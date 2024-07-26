@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Yellow Dwarf 
-description: Hades' Star Corporation Yellow Dwarf  Bonus [🔴] W:1 L:0 D:0 
+description: Hades' Star Yellow Dwarf  Bonus[🔴] W:1 L:0 D:0 
 ---
 
 | Statistic | Value |

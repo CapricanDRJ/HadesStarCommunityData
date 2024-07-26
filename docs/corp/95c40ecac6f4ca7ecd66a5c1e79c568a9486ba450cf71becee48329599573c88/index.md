@@ -1,7 +1,7 @@
 ---
 layout: page
 title: KhaOSs
-description: Hades' Star Corporation KhaOSs Bonus [🔴] W:0 L:2 D:0 
+description: Hades' Star KhaOSs Bonus[🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

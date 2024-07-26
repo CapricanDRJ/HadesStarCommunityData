@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ITA
-description: Hades' Star Corporation ITA Bonus [🔴] W:14 L:18 D:0 
+description: Hades' Star ITA Bonus[🔴] W:14 L:18 D:0 
 ---
 
 | Statistic | Value |

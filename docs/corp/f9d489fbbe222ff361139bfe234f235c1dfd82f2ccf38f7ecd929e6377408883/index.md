@@ -1,7 +1,7 @@
 ---
 layout: page
 title: LANCE
-description: Hades' Star Corporation LANCE Bonus [🔴] W:3 L:8 D:2 
+description: Hades' Star LANCE Bonus[🔴] W:3 L:8 D:2 
 ---
 
 | Statistic | Value |

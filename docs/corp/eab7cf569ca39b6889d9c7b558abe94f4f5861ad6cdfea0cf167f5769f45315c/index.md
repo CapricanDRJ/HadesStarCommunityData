@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Troy
-description: Hades' Star Corporation Troy Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Troy Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

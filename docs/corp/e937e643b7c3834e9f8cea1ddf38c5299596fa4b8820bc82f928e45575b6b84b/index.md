@@ -1,7 +1,7 @@
 ---
 layout: page
 title: N.P.C
-description: Hades' Star Corporation N.P.C Bonus [🔴] W:5 L:2 D:3 
+description: Hades' Star N.P.C Bonus[🔴] W:5 L:2 D:3 
 ---
 
 | Statistic | Value |

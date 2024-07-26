@@ -1,7 +1,7 @@
 ---
 layout: page
 title: StalkerUA 
-description: Hades' Star Corporation StalkerUA  Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star StalkerUA  Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

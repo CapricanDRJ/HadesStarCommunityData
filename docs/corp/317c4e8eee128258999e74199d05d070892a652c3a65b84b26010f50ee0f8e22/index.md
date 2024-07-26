@@ -1,7 +1,7 @@
 ---
 layout: page
 title: t 72 SwiftKey F
-description: Hades' Star Corporation t 72 SwiftKey F Bonus [🔴] W:5 L:8 D:0 
+description: Hades' Star t 72 SwiftKey F Bonus[🔴] W:5 L:8 D:0 
 ---
 
 | Statistic | Value |

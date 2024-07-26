@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Диванные Стражи
-description: Hades' Star Corporation Диванные Стражи Bonus [🔴] W:0 L:2 D:0 
+description: Hades' Star Диванные Стражи Bonus[🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

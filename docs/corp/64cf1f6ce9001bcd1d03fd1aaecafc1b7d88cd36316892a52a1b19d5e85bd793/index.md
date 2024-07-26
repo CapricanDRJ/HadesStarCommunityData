@@ -1,7 +1,7 @@
 ---
 layout: page
 title: lost souls
-description: Hades' Star Corporation lost souls Bonus [🟢] W:25 L:23 D:1 
+description: Hades' Star lost souls Bonus[🟢] W:25 L:23 D:1 
 ---
 
 | Statistic | Value |

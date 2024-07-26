@@ -1,7 +1,7 @@
 ---
 layout: page
 title: OPA
-description: Hades' Star Corporation OPA Bonus [🔴] W:26 L:10 D:0 
+description: Hades' Star OPA Bonus[🔴] W:26 L:10 D:0 
 ---
 
 | Statistic | Value |

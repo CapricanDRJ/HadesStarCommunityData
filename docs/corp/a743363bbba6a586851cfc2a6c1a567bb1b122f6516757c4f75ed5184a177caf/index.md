@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Noble
-description: Hades' Star Corporation Noble Bonus [🔴] W:0 L:2 D:2 
+description: Hades' Star Noble Bonus[🔴] W:0 L:2 D:2 
 ---
 
 | Statistic | Value |

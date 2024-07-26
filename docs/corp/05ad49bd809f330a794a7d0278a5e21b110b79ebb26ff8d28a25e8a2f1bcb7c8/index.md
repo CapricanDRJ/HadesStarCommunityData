@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Aeternae
-description: Hades' Star Corporation Aeternae Bonus [🔴] W:0 L:7 D:0 
+description: Hades' Star Aeternae Bonus[🔴] W:0 L:7 D:0 
 ---
 
 | Statistic | Value |

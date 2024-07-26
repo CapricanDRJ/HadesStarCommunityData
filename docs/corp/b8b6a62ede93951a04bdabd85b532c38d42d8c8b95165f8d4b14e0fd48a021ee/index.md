@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hermitage
-description: Hades' Star Corporation Hermitage Bonus [🔴] W:10 L:7 D:0 
+description: Hades' Star Hermitage Bonus[🔴] W:10 L:7 D:0 
 ---
 
 | Statistic | Value |

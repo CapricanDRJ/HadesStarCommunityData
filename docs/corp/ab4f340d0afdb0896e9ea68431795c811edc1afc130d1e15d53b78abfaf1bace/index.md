@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Страж Галактики
-description: Hades' Star Corporation Страж Галактики Bonus [🔴] W:1 L:0 D:1 
+description: Hades' Star Страж Галактики Bonus[🔴] W:1 L:0 D:1 
 ---
 
 | Statistic | Value |

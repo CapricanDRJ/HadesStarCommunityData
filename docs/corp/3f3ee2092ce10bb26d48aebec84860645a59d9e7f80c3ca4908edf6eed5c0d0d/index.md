@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nightmares 
-description: Hades' Star Corporation Nightmares  Bonus [🔴] W:0 L:2 D:0 
+description: Hades' Star Nightmares  Bonus[🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

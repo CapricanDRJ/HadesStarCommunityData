@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tortuga Station
-description: Hades' Star Corporation Tortuga Station Bonus [🔴] W:1 L:2 D:0 
+description: Hades' Star Tortuga Station Bonus[🔴] W:1 L:2 D:0 
 ---
 
 | Statistic | Value |

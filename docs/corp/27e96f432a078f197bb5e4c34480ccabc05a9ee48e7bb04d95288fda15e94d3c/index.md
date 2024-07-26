@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Últimafronteira
-description: Hades' Star Corporation Últimafronteira Bonus [🟢] W:6 L:0 D:0 
+description: Hades' Star Últimafronteira Bonus[🟢] W:6 L:0 D:0 
 ---
 
 | Statistic | Value |

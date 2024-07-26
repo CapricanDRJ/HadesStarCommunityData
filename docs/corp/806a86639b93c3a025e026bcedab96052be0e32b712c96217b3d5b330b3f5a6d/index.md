@@ -1,7 +1,7 @@
 ---
 layout: page
 title: OntarioDestiny
-description: Hades' Star Corporation OntarioDestiny Bonus [🔴] W:9 L:19 D:0 
+description: Hades' Star OntarioDestiny Bonus[🔴] W:9 L:19 D:0 
 ---
 
 | Statistic | Value |

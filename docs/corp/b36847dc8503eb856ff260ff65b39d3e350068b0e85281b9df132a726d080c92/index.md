@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 华夏太空舰队
-description: Hades' Star Corporation 华夏太空舰队 Bonus [🔴] W:0 L:1 D:1 
+description: Hades' Star 华夏太空舰队 Bonus[🔴] W:0 L:1 D:1 
 ---
 
 | Statistic | Value |

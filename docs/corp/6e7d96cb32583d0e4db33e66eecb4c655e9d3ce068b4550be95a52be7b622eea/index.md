@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sternenwanderer
-description: Hades' Star Corporation Sternenwanderer Bonus [🔴] W:1 L:2 D:0 
+description: Hades' Star Sternenwanderer Bonus[🔴] W:1 L:2 D:0 
 ---
 
 | Statistic | Value |

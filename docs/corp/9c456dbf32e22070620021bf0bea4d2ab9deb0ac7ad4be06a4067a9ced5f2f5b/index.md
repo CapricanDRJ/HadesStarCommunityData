@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Anarchy Nation 
-description: Hades' Star Corporation Anarchy Nation  Bonus [🔴] W:5 L:2 D:1 
+description: Hades' Star Anarchy Nation  Bonus[🔴] W:5 L:2 D:1 
 ---
 
 | Statistic | Value |

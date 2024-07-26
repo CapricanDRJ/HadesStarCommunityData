@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Star League
-description: Hades' Star Corporation Star League Bonus [🔴] W:0 L:2 D:0 
+description: Hades' Star Star League Bonus[🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

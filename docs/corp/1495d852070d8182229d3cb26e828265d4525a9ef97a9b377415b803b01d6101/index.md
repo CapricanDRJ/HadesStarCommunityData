@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Галактика Зла
-description: Hades' Star Corporation Галактика Зла Bonus [🟢] W:12 L:14 D:0 
+description: Hades' Star Галактика Зла Bonus[🟢] W:12 L:14 D:0 
 ---
 
 | Statistic | Value |

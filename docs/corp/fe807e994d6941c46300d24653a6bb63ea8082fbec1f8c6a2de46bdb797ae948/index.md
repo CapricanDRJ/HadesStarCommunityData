@@ -1,7 +1,7 @@
 ---
 layout: page
 title: L.P.A.
-description: Hades' Star Corporation L.P.A. Bonus [🔴] W:2 L:1 D:0 
+description: Hades' Star L.P.A. Bonus[🔴] W:2 L:1 D:0 
 ---
 
 | Statistic | Value |

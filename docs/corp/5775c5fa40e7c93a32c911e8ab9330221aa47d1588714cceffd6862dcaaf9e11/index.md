@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Federation 
-description: Hades' Star Corporation Federation  Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Federation  Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

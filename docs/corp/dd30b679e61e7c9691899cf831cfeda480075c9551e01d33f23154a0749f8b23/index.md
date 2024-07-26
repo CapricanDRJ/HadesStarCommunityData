@@ -1,7 +1,7 @@
 ---
 layout: page
 title: La resistencia
-description: Hades' Star Corporation La resistencia Bonus [🔴] W:0 L:0 D:1 
+description: Hades' Star La resistencia Bonus[🔴] W:0 L:0 D:1 
 ---
 
 | Statistic | Value |

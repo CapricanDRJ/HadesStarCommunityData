@@ -1,7 +1,7 @@
 ---
 layout: page
 title: uDS
-description: Hades' Star Corporation uDS Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star uDS Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

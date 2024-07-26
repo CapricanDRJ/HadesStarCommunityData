@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Variants
-description: Hades' Star Corporation Variants Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Variants Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Colonial Union
-description: Hades' Star Corporation Colonial Union Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Colonial Union Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

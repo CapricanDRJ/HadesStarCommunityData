@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Killer Shadow
-description: Hades' Star Corporation Killer Shadow Bonus [🔴] W:2 L:10 D:0 
+description: Hades' Star Killer Shadow Bonus[🔴] W:2 L:10 D:0 
 ---
 
 | Statistic | Value |

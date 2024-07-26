@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Russia
-description: Hades' Star Corporation Russia Bonus [🔴] W:1 L:8 D:0 
+description: Hades' Star Russia Bonus[🔴] W:1 L:8 D:0 
 ---
 
 | Statistic | Value |

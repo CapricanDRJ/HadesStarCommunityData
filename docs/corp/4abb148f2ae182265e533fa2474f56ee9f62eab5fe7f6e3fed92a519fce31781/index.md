@@ -1,7 +1,7 @@
 ---
 layout: page
 title: just because
-description: Hades' Star Corporation just because Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star just because Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

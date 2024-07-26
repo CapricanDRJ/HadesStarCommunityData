@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Rebellion!
-description: Hades' Star Corporation Rebellion! Bonus [🔴] W:0 L:1 D:1 
+description: Hades' Star Rebellion! Bonus[🔴] W:0 L:1 D:1 
 ---
 
 | Statistic | Value |

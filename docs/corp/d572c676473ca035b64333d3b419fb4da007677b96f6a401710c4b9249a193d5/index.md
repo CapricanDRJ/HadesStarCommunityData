@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Укр інтроверти
-description: Hades' Star Corporation Укр інтроверти Bonus [🔴] W:1 L:4 D:0 
+description: Hades' Star Укр інтроверти Bonus[🔴] W:1 L:4 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 资助会
-description: Hades' Star Corporation 资助会 Bonus [🟢] W:7 L:2 D:0 
+description: Hades' Star 资助会 Bonus[🟢] W:7 L:2 D:0 
 ---
 
 | Statistic | Value |

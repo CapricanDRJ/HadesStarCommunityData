@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 宇氏集团
-description: Hades' Star Corporation 宇氏集团 Bonus [🔴] W:0 L:2 D:0 
+description: Hades' Star 宇氏集团 Bonus[🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

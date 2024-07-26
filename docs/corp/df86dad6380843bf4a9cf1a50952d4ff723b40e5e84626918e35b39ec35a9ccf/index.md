@@ -1,7 +1,7 @@
 ---
 layout: page
 title: corporacion I.A
-description: Hades' Star Corporation corporacion I.A Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star corporacion I.A Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

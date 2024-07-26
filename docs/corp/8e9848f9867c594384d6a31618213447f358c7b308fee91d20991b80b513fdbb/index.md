@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Albedo
-description: Hades' Star Corporation Albedo Bonus [🔴] W:23 L:6 D:0 
+description: Hades' Star Albedo Bonus[🔴] W:23 L:6 D:0 
 ---
 
 | Statistic | Value |

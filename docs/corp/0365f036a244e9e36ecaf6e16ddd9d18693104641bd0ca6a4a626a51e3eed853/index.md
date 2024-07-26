@@ -1,7 +1,7 @@
 ---
 layout: page
 title: UsualSuspects
-description: Hades' Star Corporation UsualSuspects Bonus [🔴] W:0 L:4 D:0 
+description: Hades' Star UsualSuspects Bonus[🔴] W:0 L:4 D:0 
 ---
 
 | Statistic | Value |

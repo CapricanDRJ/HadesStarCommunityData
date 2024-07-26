@@ -1,7 +1,7 @@
 ---
 layout: page
 title: OntarioDistrict
-description: Hades' Star Corporation OntarioDistrict Bonus [🔴] W:2 L:1 D:0 
+description: Hades' Star OntarioDistrict Bonus[🔴] W:2 L:1 D:0 
 ---
 
 | Statistic | Value |

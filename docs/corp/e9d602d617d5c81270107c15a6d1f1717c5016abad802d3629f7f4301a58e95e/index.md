@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 元素联邦
-description: Hades' Star Corporation 元素联邦 Bonus [🟢] W:24 L:13 D:0 
+description: Hades' Star 元素联邦 Bonus[🟢] W:24 L:13 D:0 
 ---
 
 | Statistic | Value |

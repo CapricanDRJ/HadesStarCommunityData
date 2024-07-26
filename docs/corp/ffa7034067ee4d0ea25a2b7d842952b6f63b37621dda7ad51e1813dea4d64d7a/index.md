@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dreckiger Rest
-description: Hades' Star Corporation Dreckiger Rest Bonus [🔴] W:0 L:2 D:0 
+description: Hades' Star Dreckiger Rest Bonus[🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

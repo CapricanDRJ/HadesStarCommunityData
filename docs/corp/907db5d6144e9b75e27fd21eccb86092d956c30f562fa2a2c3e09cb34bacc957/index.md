@@ -1,7 +1,7 @@
 ---
 layout: page
 title: loveboat
-description: Hades' Star Corporation loveboat Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star loveboat Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

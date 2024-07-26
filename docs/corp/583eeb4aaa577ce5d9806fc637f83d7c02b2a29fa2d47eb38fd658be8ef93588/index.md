@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bunker
-description: Hades' Star Corporation Bunker Bonus [🟢] W:27 L:24 D:1 
+description: Hades' Star Bunker Bonus[🟢] W:27 L:24 D:1 
 ---
 
 | Statistic | Value |

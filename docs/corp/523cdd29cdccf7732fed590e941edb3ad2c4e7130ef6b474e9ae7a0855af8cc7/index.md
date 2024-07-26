@@ -1,7 +1,7 @@
 ---
 layout: page
 title: cikopo
-description: Hades' Star Corporation cikopo Bonus [🔴] W:0 L:3 D:0 
+description: Hades' Star cikopo Bonus[🔴] W:0 L:3 D:0 
 ---
 
 | Statistic | Value |

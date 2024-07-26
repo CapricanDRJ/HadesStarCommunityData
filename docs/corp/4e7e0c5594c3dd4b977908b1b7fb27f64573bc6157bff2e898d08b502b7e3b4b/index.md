@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Interstellar
-description: Hades' Star Corporation Interstellar Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Interstellar Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

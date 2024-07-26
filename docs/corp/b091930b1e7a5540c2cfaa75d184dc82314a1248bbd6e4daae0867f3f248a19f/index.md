@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ещё один Миф
-description: Hades' Star Corporation Ещё один Миф Bonus [🔴] W:0 L:5 D:0 
+description: Hades' Star Ещё один Миф Bonus[🔴] W:0 L:5 D:0 
 ---
 
 | Statistic | Value |

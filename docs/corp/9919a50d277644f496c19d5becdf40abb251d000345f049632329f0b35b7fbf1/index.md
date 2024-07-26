@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Unión latina
-description: Hades' Star Corporation Unión latina Bonus [🟢] W:26 L:19 D:0 
+description: Hades' Star Unión latina Bonus[🟢] W:26 L:19 D:0 
 ---
 
 | Statistic | Value |

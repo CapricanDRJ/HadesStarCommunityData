@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  brazil com.
-description: Hades' Star Corporation  brazil com. Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star  brazil com. Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Berlin
-description: Hades' Star Corporation Berlin Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Berlin Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

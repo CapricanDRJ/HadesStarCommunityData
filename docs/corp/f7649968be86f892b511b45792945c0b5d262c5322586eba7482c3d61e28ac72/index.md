@@ -1,7 +1,7 @@
 ---
 layout: page
 title: STARBLAZER 
-description: Hades' Star Corporation STARBLAZER  Bonus [🔴] W:2 L:4 D:0 
+description: Hades' Star STARBLAZER  Bonus[🔴] W:2 L:4 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: UniversalCaos
-description: Hades' Star Corporation UniversalCaos Bonus [🔴] W:1 L:0 D:0 
+description: Hades' Star UniversalCaos Bonus[🔴] W:1 L:0 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stars
-description: Hades' Star Corporation Stars Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Stars Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

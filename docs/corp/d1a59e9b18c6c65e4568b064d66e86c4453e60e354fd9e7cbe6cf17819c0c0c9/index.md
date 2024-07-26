@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Octoberpierynm
-description: Hades' Star Corporation Octoberpierynm Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Octoberpierynm Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Liasteria
-description: Hades' Star Corporation Liasteria Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Liasteria Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

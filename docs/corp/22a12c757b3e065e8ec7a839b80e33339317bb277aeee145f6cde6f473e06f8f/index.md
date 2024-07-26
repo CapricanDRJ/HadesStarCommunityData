@@ -1,7 +1,7 @@
 ---
 layout: page
 title: V0RTEX
-description: Hades' Star Corporation V0RTEX Bonus [🔴] W:10 L:9 D:1 
+description: Hades' Star V0RTEX Bonus[🔴] W:10 L:9 D:1 
 ---
 
 | Statistic | Value |

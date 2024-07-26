@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Outland Ind.
-description: Hades' Star Corporation Outland Ind. Bonus [🟢] W:30 L:11 D:0 
+description: Hades' Star Outland Ind. Bonus[🟢] W:30 L:11 D:0 
 ---
 
 | Statistic | Value |

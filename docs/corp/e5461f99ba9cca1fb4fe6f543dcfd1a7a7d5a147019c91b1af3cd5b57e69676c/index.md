@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Marvel
-description: Hades' Star Corporation Marvel Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Marvel Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

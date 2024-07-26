@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dumpster Fire
-description: Hades' Star Corporation Dumpster Fire Bonus [🟢] W:15 L:31 D:0 
+description: Hades' Star Dumpster Fire Bonus[🟢] W:15 L:31 D:0 
 ---
 
 | Statistic | Value |

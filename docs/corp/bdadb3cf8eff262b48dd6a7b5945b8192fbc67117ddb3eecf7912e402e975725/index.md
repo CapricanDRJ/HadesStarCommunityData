@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Eretria 
-description: Hades' Star Corporation Eretria  Bonus [🟢] W:25 L:22 D:0 
+description: Hades' Star Eretria  Bonus[🟢] W:25 L:22 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Rogue Corp
-description: Hades' Star Corporation Rogue Corp Bonus [🔴] W:1 L:17 D:0 
+description: Hades' Star Rogue Corp Bonus[🔴] W:1 L:17 D:0 
 ---
 
 | Statistic | Value |

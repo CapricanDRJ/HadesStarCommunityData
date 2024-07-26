@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kiith Trollani
-description: Hades' Star Corporation Kiith Trollani Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Kiith Trollani Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

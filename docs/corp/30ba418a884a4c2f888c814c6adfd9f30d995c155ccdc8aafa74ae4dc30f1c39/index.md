@@ -1,7 +1,7 @@
 ---
 layout: page
 title: titan tv
-description: Hades' Star Corporation titan tv Bonus [🔴] W:9 L:22 D:1 
+description: Hades' Star titan tv Bonus[🔴] W:9 L:22 D:1 
 ---
 
 | Statistic | Value |

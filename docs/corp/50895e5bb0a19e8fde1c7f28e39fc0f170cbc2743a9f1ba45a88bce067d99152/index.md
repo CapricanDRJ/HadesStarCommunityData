@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Space Donuts
-description: Hades' Star Corporation Space Donuts Bonus [🔴] W:2 L:4 D:0 
+description: Hades' Star Space Donuts Bonus[🔴] W:2 L:4 D:0 
 ---
 
 | Statistic | Value |

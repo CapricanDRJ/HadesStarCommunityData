@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wompwompway 
-description: Hades' Star Corporation Wompwompway  Bonus [🔴] W:24 L:8 D:0 
+description: Hades' Star Wompwompway  Bonus[🔴] W:24 L:8 D:0 
 ---
 
 | Statistic | Value |

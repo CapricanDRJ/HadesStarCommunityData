@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dacia Chill
-description: Hades' Star Corporation Dacia Chill Bonus [🟢] W:17 L:3 D:0 
+description: Hades' Star Dacia Chill Bonus[🟢] W:17 L:3 D:0 
 ---
 
 | Statistic | Value |

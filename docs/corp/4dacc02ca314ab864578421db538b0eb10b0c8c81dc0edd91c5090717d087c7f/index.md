@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Armored Union 
-description: Hades' Star Corporation Armored Union  Bonus [🟢] W:17 L:14 D:0 
+description: Hades' Star Armored Union  Bonus[🟢] W:17 L:14 D:0 
 ---
 
 | Statistic | Value |

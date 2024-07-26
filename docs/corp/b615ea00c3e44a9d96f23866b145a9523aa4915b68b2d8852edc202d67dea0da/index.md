@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Southall 1
-description: Hades' Star Corporation Southall 1 Bonus [🔴] W:1 L:1 D:1 
+description: Hades' Star Southall 1 Bonus[🔴] W:1 L:1 D:1 
 ---
 
 | Statistic | Value |

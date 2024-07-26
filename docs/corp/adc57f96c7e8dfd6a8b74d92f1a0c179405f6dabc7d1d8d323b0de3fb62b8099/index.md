@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bandidos
-description: Hades' Star Corporation Bandidos Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Bandidos Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

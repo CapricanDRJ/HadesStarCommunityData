@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Shrimp City
-description: Hades' Star Corporation Shrimp City Bonus [🟢] W:17 L:10 D:1 
+description: Hades' Star Shrimp City Bonus[🟢] W:17 L:10 D:1 
 ---
 
 | Statistic | Value |

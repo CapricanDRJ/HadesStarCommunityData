@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gemini↕     ☁
-description: Hades' Star Corporation Gemini↕     ☁ Bonus [🔴] W:3 L:9 D:1 
+description: Hades' Star Gemini↕     ☁ Bonus[🔴] W:3 L:9 D:1 
 ---
 
 | Statistic | Value |

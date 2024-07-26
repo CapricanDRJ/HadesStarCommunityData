@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Созидание 2.0
-description: Hades' Star Corporation Созидание 2.0 Bonus [🔴] W:9 L:16 D:0 
+description: Hades' Star Созидание 2.0 Bonus[🔴] W:9 L:16 D:0 
 ---
 
 | Statistic | Value |

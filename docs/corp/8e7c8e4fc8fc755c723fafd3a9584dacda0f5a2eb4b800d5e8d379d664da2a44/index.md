@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 8 русский рейх
-description: Hades' Star Corporation 8 русский рейх Bonus [🔴] W:1 L:0 D:0 
+description: Hades' Star 8 русский рейх Bonus[🔴] W:1 L:0 D:0 
 ---
 
 | Statistic | Value |

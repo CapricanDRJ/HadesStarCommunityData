@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BlankBoosters
-description: Hades' Star Corporation BlankBoosters Bonus [🔴] W:1 L:3 D:0 
+description: Hades' Star BlankBoosters Bonus[🔴] W:1 L:3 D:0 
 ---
 
 | Statistic | Value |

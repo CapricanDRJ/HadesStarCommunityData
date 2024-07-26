@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Стальная крыса
-description: Hades' Star Corporation Стальная крыса Bonus [🔴] W:0 L:2 D:0 
+description: Hades' Star Стальная крыса Bonus[🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

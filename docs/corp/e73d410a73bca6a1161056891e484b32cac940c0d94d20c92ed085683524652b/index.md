@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Polish Pirates
-description: Hades' Star Corporation Polish Pirates Bonus [🔴] W:14 L:12 D:0 
+description: Hades' Star Polish Pirates Bonus[🔴] W:14 L:12 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: From the Fire
-description: Hades' Star Corporation From the Fire Bonus [🔴] W:2 L:4 D:0 
+description: Hades' Star From the Fire Bonus[🔴] W:2 L:4 D:0 
 ---
 
 | Statistic | Value |

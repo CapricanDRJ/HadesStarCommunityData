@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 纸鸢台
-description: Hades' Star Corporation 纸鸢台 Bonus [🔴] W:3 L:1 D:0 
+description: Hades' Star 纸鸢台 Bonus[🔴] W:3 L:1 D:0 
 ---
 
 | Statistic | Value |

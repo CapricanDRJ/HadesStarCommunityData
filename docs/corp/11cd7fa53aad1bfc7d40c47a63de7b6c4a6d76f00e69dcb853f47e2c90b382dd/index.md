@@ -1,7 +1,7 @@
 ---
 layout: page
 title: МеГаКо
-description: Hades' Star Corporation МеГаКо Bonus [🟢] W:14 L:13 D:0 
+description: Hades' Star МеГаКо Bonus[🟢] W:14 L:13 D:0 
 ---
 
 | Statistic | Value |

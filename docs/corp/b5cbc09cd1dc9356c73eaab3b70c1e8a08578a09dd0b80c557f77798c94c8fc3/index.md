@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ukraine
-description: Hades' Star Corporation Ukraine Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Ukraine Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

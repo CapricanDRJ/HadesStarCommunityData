@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CSI
-description: Hades' Star Corporation CSI Bonus [🔴] W:1 L:5 D:0 
+description: Hades' Star CSI Bonus[🔴] W:1 L:5 D:0 
 ---
 
 | Statistic | Value |

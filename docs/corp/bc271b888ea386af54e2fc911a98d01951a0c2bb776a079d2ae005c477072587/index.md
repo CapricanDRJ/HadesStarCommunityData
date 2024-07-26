@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sternenbund
-description: Hades' Star Corporation Sternenbund Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Sternenbund Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

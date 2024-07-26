@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 墨痕空域
-description: Hades' Star Corporation 墨痕空域 Bonus [🟢] W:30 L:16 D:0 
+description: Hades' Star 墨痕空域 Bonus[🟢] W:30 L:16 D:0 
 ---
 
 | Statistic | Value |

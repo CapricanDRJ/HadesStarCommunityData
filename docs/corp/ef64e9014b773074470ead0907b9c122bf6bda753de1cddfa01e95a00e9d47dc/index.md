@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Crazy Elite
-description: Hades' Star Corporation Crazy Elite Bonus [🔴] W:26 L:39 D:0 
+description: Hades' Star Crazy Elite Bonus[🔴] W:26 L:39 D:0 
 ---
 
 | Statistic | Value |

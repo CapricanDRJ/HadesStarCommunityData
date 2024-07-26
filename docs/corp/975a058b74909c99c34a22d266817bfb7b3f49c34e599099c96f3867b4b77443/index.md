@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Firestarters
-description: Hades' Star Corporation Firestarters Bonus [🔴] W:0 L:2 D:0 
+description: Hades' Star Firestarters Bonus[🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

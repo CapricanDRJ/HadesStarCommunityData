@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Relic Hunters
-description: Hades' Star Corporation Relic Hunters Bonus [🔴] W:1 L:0 D:0 
+description: Hades' Star Relic Hunters Bonus[🔴] W:1 L:0 D:0 
 ---
 
 | Statistic | Value |

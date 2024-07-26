@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hand Of NOD! 
-description: Hades' Star Corporation Hand Of NOD!  Bonus [🟢] W:31 L:4 D:0 
+description: Hades' Star Hand Of NOD!  Bonus[🟢] W:31 L:4 D:0 
 ---
 
 | Statistic | Value |

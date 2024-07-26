@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Poison Nebula
-description: Hades' Star Corporation Poison Nebula Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Poison Nebula Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: /tmp
-description: Hades' Star Corporation /tmp Bonus [🔴] W:1 L:0 D:0 
+description: Hades' Star /tmp Bonus[🔴] W:1 L:0 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ark
-description: Hades' Star Corporation Ark Bonus [🟢] W:38 L:7 D:1 
+description: Hades' Star Ark Bonus[🟢] W:38 L:7 D:1 
 ---
 
 | Statistic | Value |

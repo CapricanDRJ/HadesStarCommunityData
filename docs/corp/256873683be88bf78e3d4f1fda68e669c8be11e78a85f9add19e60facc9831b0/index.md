@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ironbear Legion
-description: Hades' Star Corporation Ironbear Legion Bonus [🔴] W:14 L:25 D:0 
+description: Hades' Star Ironbear Legion Bonus[🔴] W:14 L:25 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Неудержимые
-description: Hades' Star Corporation Неудержимые Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Неудержимые Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

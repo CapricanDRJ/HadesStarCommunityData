@@ -1,7 +1,7 @@
 ---
 layout: page
 title: диванодавы
-description: Hades' Star Corporation диванодавы Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star диванодавы Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

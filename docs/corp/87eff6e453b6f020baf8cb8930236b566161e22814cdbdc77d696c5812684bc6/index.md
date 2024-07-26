@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Space Pirates
-description: Hades' Star Corporation Space Pirates Bonus [🔴] W:5 L:30 D:0 
+description: Hades' Star Space Pirates Bonus[🔴] W:5 L:30 D:0 
 ---
 
 | Statistic | Value |

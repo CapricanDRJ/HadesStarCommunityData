@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lexx
-description: Hades' Star Corporation Lexx Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Lexx Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

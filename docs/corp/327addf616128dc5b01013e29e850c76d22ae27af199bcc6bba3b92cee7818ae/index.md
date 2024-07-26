@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 以太超星团
-description: Hades' Star Corporation 以太超星团 Bonus [🔴] W:3 L:22 D:3 
+description: Hades' Star 以太超星团 Bonus[🔴] W:3 L:22 D:3 
 ---
 
 | Statistic | Value |

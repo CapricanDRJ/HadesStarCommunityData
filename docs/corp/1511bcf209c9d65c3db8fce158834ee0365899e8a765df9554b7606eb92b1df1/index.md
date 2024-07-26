@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 太阳系联邦
-description: Hades' Star Corporation 太阳系联邦 Bonus [🔴] W:0 L:15 D:0 
+description: Hades' Star 太阳系联邦 Bonus[🔴] W:0 L:15 D:0 
 ---
 
 | Statistic | Value |

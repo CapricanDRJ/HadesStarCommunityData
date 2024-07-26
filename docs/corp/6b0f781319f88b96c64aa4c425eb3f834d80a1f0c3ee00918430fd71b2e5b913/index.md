@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 喵喵喵喵喵喵喵
-description: Hades' Star Corporation 喵喵喵喵喵喵喵 Bonus [🔴] W:0 L:4 D:0 
+description: Hades' Star 喵喵喵喵喵喵喵 Bonus[🔴] W:0 L:4 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: New Star
-description: Hades' Star Corporation New Star Bonus [🔴] W:1 L:2 D:0 
+description: Hades' Star New Star Bonus[🔴] W:1 L:2 D:0 
 ---
 
 | Statistic | Value |

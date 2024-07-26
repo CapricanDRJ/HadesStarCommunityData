@@ -1,7 +1,7 @@
 ---
 layout: page
 title: STRVS233～
-description: Hades' Star Corporation STRVS233～ Bonus [🟢] W:12 L:7 D:0 
+description: Hades' Star STRVS233～ Bonus[🟢] W:12 L:7 D:0 
 ---
 
 | Statistic | Value |

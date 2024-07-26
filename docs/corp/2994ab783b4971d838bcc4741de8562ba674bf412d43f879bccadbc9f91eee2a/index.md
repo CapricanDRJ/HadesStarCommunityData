@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Alterra Corp
-description: Hades' Star Corporation Alterra Corp Bonus [🔴] W:0 L:0 D:1 
+description: Hades' Star Alterra Corp Bonus[🔴] W:0 L:0 D:1 
 ---
 
 | Statistic | Value |

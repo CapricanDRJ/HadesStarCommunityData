@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Latinos :)
-description: Hades' Star Corporation Latinos :) Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Latinos :) Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

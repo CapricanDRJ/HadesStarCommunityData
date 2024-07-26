@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Doomsday
-description: Hades' Star Corporation Doomsday Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Doomsday Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

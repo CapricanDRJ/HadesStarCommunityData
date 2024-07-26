@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Quantum Web
-description: Hades' Star Corporation Quantum Web Bonus [🔴] W:0 L:1 D:1 
+description: Hades' Star Quantum Web Bonus[🔴] W:0 L:1 D:1 
 ---
 
 | Statistic | Value |

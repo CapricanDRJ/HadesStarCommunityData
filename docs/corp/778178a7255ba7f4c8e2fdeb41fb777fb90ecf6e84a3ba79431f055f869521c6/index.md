@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Crucible 
-description: Hades' Star Corporation Crucible  Bonus [🔴] W:1 L:1 D:0 
+description: Hades' Star Crucible  Bonus[🔴] W:1 L:1 D:0 
 ---
 
 | Statistic | Value |

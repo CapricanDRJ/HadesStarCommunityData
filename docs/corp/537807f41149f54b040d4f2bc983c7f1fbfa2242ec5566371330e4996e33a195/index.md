@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tormenta
-description: Hades' Star Corporation Tormenta Bonus [🟢] W:2 L:5 D:0 
+description: Hades' Star Tormenta Bonus[🟢] W:2 L:5 D:0 
 ---
 
 | Statistic | Value |

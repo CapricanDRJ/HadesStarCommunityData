@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Order
-description: Hades' Star Corporation The Order Bonus [🔴] W:1 L:2 D:0 
+description: Hades' Star The Order Bonus[🔴] W:1 L:2 D:0 
 ---
 
 | Statistic | Value |

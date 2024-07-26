@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Corporation
-description: Hades' Star Corporation Corporation Bonus [🟢] W:15 L:4 D:0 
+description: Hades' Star Corporation Bonus[🟢] W:15 L:4 D:0 
 ---
 
 | Statistic | Value |

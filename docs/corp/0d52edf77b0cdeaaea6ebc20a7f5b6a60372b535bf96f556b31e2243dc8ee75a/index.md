@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Imperium XIII
-description: Hades' Star Corporation Imperium XIII Bonus [🔴] W:24 L:20 D:0 
+description: Hades' Star Imperium XIII Bonus[🔴] W:24 L:20 D:0 
 ---
 
 | Statistic | Value |

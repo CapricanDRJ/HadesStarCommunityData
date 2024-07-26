@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Neutro Corpo
-description: Hades' Star Corporation Neutro Corpo Bonus [🔴] W:0 L:3 D:0 
+description: Hades' Star Neutro Corpo Bonus[🔴] W:0 L:3 D:0 
 ---
 
 | Statistic | Value |

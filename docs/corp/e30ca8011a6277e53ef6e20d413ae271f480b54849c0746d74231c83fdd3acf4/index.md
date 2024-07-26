@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ALPHA
-description: Hades' Star Corporation ALPHA Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star ALPHA Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

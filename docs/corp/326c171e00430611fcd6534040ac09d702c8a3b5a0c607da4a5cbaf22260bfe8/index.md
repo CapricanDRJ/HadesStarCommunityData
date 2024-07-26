@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Mini Elite
-description: Hades' Star Corporation The Mini Elite Bonus [🔴] W:0 L:4 D:0 
+description: Hades' Star The Mini Elite Bonus[🔴] W:0 L:4 D:0 
 ---
 
 | Statistic | Value |

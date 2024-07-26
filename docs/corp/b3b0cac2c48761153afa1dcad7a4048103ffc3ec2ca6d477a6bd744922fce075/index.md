@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Медведи
-description: Hades' Star Corporation Медведи Bonus [🔴] W:36 L:4 D:0 
+description: Hades' Star Медведи Bonus[🔴] W:36 L:4 D:0 
 ---
 
 | Statistic | Value |

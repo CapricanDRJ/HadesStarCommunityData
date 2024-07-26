@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Crux Cadre
-description: Hades' Star Corporation Crux Cadre Bonus [🟢] W:26 L:19 D:1 
+description: Hades' Star Crux Cadre Bonus[🟢] W:26 L:19 D:1 
 ---
 
 | Statistic | Value |

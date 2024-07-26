@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Metal Nova
-description: Hades' Star Corporation Metal Nova Bonus [🔴] W:2 L:0 D:0 
+description: Hades' Star Metal Nova Bonus[🔴] W:2 L:0 D:0 
 ---
 
 | Statistic | Value |

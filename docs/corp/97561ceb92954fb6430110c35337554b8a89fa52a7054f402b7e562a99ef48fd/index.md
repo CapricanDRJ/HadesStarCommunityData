@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dark Skai
-description: Hades' Star Corporation Dark Skai Bonus [🔴] W:1 L:11 D:0 
+description: Hades' Star Dark Skai Bonus[🔴] W:1 L:11 D:0 
 ---
 
 | Statistic | Value |

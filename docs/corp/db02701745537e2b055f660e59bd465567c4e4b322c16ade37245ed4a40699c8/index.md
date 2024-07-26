@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Russian Style
-description: Hades' Star Corporation Russian Style Bonus [🔴] W:3 L:6 D:0 
+description: Hades' Star Russian Style Bonus[🔴] W:3 L:6 D:0 
 ---
 
 | Statistic | Value |

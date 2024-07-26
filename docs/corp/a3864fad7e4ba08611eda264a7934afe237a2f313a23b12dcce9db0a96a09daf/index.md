@@ -1,7 +1,7 @@
 ---
 layout: page
 title: <•|•>
-description: Hades' Star Corporation <•|•> Bonus [🟢] W:1 L:2 D:0 
+description: Hades' Star <•|•> Bonus[🟢] W:1 L:2 D:0 
 ---
 
 | Statistic | Value |

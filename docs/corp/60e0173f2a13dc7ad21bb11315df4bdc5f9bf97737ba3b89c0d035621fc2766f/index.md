@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SILVER TERRA
-description: Hades' Star Corporation SILVER TERRA Bonus [🟢] W:9 L:8 D:0 
+description: Hades' Star SILVER TERRA Bonus[🟢] W:9 L:8 D:0 
 ---
 
 | Statistic | Value |

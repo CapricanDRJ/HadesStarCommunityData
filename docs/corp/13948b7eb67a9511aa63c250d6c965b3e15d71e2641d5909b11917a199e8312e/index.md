@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Eligius 
-description: Hades' Star Corporation  Eligius  Bonus [🔴] W:1 L:2 D:0 
+description: Hades' Star  Eligius  Bonus[🔴] W:1 L:2 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gold Star
-description: Hades' Star Corporation Gold Star Bonus [🔴] W:2 L:9 D:1 
+description: Hades' Star Gold Star Bonus[🔴] W:2 L:9 D:1 
 ---
 
 | Statistic | Value |

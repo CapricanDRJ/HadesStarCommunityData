@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Anarchy
-description: Hades' Star Corporation Anarchy Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Anarchy Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

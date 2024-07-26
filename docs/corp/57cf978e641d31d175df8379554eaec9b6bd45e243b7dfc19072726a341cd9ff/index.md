@@ -1,7 +1,7 @@
 ---
 layout: page
 title: StargateCommand
-description: Hades' Star Corporation StargateCommand Bonus [🔴] W:0 L:0 D:1 
+description: Hades' Star StargateCommand Bonus[🔴] W:0 L:0 D:1 
 ---
 
 | Statistic | Value |

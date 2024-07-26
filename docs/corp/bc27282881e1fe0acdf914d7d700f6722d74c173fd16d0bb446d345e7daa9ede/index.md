@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 春城阳关
-description: Hades' Star Corporation 春城阳关 Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star 春城阳关 Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

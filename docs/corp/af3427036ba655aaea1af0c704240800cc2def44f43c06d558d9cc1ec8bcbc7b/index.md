@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Черный Легион
-description: Hades' Star Corporation Черный Легион Bonus [🔴] W:16 L:8 D:0 
+description: Hades' Star Черный Легион Bonus[🔴] W:16 L:8 D:0 
 ---
 
 | Statistic | Value |

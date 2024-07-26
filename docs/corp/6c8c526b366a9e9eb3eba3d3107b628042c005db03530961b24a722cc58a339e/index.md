@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Duchy Arrakis
-description: Hades' Star Corporation Duchy Arrakis Bonus [🟢] W:17 L:10 D:0 
+description: Hades' Star Duchy Arrakis Bonus[🟢] W:17 L:10 D:0 
 ---
 
 | Statistic | Value |

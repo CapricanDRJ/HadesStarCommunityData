@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hellfire Club
-description: Hades' Star Corporation Hellfire Club Bonus [🟢] W:29 L:23 D:0 
+description: Hades' Star Hellfire Club Bonus[🟢] W:29 L:23 D:0 
 ---
 
 | Statistic | Value |

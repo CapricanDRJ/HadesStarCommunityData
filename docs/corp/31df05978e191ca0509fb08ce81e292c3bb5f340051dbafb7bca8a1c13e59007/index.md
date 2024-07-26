@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Elder Things
-description: Hades' Star Corporation Elder Things Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Elder Things Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

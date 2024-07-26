@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 落雨观花
-description: Hades' Star Corporation 落雨观花 Bonus [🟢] W:4 L:1 D:0 
+description: Hades' Star 落雨观花 Bonus[🟢] W:4 L:1 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Space Marine
-description: Hades' Star Corporation Space Marine Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Space Marine Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

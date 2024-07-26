@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 九州分团
-description: Hades' Star Corporation 九州分团 Bonus [🟢] W:30 L:36 D:2 
+description: Hades' Star 九州分团 Bonus[🟢] W:30 L:36 D:2 
 ---
 
 | Statistic | Value |

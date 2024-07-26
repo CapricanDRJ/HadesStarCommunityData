@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Империя
-description: Hades' Star Corporation Империя Bonus [🔴] W:1 L:1 D:0 
+description: Hades' Star Империя Bonus[🔴] W:1 L:1 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stellaris
-description: Hades' Star Corporation Stellaris Bonus [🔴] W:0 L:6 D:0 
+description: Hades' Star Stellaris Bonus[🔴] W:0 L:6 D:0 
 ---
 
 | Statistic | Value |

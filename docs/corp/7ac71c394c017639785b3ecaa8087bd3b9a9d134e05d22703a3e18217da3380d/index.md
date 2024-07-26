@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Peace Keepers
-description: Hades' Star Corporation Peace Keepers Bonus [🔴] W:10 L:33 D:0 
+description: Hades' Star Peace Keepers Bonus[🔴] W:10 L:33 D:0 
 ---
 
 | Statistic | Value |

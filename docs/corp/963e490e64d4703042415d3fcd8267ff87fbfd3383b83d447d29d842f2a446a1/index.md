@@ -1,7 +1,7 @@
 ---
 layout: page
 title: KLM
-description: Hades' Star Corporation KLM Bonus [🔴] W:5 L:24 D:0 
+description: Hades' Star KLM Bonus[🔴] W:5 L:24 D:0 
 ---
 
 | Statistic | Value |

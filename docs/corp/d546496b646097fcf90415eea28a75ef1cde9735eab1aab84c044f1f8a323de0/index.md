@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Killer Bees.
-description: Hades' Star Corporation Killer Bees. Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Killer Bees. Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

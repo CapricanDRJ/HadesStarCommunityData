@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dark Rangers
-description: Hades' Star Corporation Dark Rangers Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Dark Rangers Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

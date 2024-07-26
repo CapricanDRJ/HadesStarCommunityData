@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Zeon
-description: Hades' Star Corporation Zeon Bonus [🔴] W:0 L:4 D:0 
+description: Hades' Star Zeon Bonus[🔴] W:0 L:4 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AwA
-description: Hades' Star Corporation AwA Bonus [🔴] W:2 L:3 D:0 
+description: Hades' Star AwA Bonus[🔴] W:2 L:3 D:0 
 ---
 
 | Statistic | Value |

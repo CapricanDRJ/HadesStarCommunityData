@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Rogue Dudes
-description: Hades' Star Corporation Rogue Dudes Bonus [🟢] W:2 L:0 D:0 
+description: Hades' Star Rogue Dudes Bonus[🟢] W:2 L:0 D:0 
 ---
 
 | Statistic | Value |

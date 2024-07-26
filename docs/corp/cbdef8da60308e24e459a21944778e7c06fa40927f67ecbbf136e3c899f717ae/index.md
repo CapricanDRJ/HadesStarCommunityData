@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Disintegrators
-description: Hades' Star Corporation Disintegrators Bonus [🔴] W:2 L:1 D:0 
+description: Hades' Star Disintegrators Bonus[🔴] W:2 L:1 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Red Noobs
-description: Hades' Star Corporation Red Noobs Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Red Noobs Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

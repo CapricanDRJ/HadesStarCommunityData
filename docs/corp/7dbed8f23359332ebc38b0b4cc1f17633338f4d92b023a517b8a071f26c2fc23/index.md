@@ -1,7 +1,7 @@
 ---
 layout: page
 title: nebulous
-description: Hades' Star Corporation nebulous Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star nebulous Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

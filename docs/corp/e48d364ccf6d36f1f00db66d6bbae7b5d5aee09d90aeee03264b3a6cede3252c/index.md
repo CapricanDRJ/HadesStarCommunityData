@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 星光舰队
-description: Hades' Star Corporation 星光舰队 Bonus [🟢] W:3 L:2 D:0 
+description: Hades' Star 星光舰队 Bonus[🟢] W:3 L:2 D:0 
 ---
 
 | Statistic | Value |

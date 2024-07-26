@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tabula Rasa
-description: Hades' Star Corporation Tabula Rasa Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Tabula Rasa Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

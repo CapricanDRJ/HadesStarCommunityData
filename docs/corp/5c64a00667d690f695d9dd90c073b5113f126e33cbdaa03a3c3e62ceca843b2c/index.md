@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FoxTale
-description: Hades' Star Corporation FoxTale Bonus [🔴] W:0 L:2 D:0 
+description: Hades' Star FoxTale Bonus[🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

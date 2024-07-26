@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Warp Dominion
-description: Hades' Star Corporation Warp Dominion Bonus [🔴] W:3 L:2 D:0 
+description: Hades' Star Warp Dominion Bonus[🔴] W:3 L:2 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 嘤嘤嘤嘤嘤嘤嘤嘤
-description: Hades' Star Corporation 嘤嘤嘤嘤嘤嘤嘤嘤 Bonus [🔴] W:0 L:6 D:0 
+description: Hades' Star 嘤嘤嘤嘤嘤嘤嘤嘤 Bonus[🔴] W:0 L:6 D:0 
 ---
 
 | Statistic | Value |

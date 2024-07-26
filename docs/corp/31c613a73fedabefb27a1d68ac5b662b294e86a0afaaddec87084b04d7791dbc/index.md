@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 大舰队がな
-description: Hades' Star Corporation 大舰队がな Bonus [🔴] W:0 L:8 D:1 
+description: Hades' Star 大舰队がな Bonus[🔴] W:0 L:8 D:1 
 ---
 
 | Statistic | Value |

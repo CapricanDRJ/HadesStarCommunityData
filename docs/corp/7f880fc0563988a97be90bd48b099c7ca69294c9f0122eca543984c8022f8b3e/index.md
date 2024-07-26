@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cronos World
-description: Hades' Star Corporation Cronos World Bonus [🔴] W:0 L:2 D:0 
+description: Hades' Star Cronos World Bonus[🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

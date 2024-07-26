@@ -1,7 +1,7 @@
 ---
 layout: page
 title: UKRAINE STARS
-description: Hades' Star Corporation UKRAINE STARS Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star UKRAINE STARS Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

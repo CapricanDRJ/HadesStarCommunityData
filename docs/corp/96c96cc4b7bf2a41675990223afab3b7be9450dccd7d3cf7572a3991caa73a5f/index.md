@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Austria 
-description: Hades' Star Corporation Austria  Bonus [🔴] W:2 L:2 D:0 
+description: Hades' Star Austria  Bonus[🔴] W:2 L:2 D:0 
 ---
 
 | Statistic | Value |

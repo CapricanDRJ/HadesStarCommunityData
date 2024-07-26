@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hungary First
-description: Hades' Star Corporation Hungary First Bonus [🟢] W:13 L:8 D:1 
+description: Hades' Star Hungary First Bonus[🟢] W:13 L:8 D:1 
 ---
 
 | Statistic | Value |

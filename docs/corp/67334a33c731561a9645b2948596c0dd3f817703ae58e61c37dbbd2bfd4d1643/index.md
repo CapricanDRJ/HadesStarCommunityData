@@ -1,7 +1,7 @@
 ---
 layout: page
 title: WFOS
-description: Hades' Star Corporation WFOS Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star WFOS Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

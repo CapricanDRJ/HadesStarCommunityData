@@ -1,7 +1,7 @@
 ---
 layout: page
 title: К звездам
-description: Hades' Star Corporation К звездам Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star К звездам Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

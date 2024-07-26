@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Anti union
-description: Hades' Star Corporation Anti union Bonus [🔴] W:0 L:2 D:0 
+description: Hades' Star Anti union Bonus[🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ComInterns
-description: Hades' Star Corporation ComInterns Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star ComInterns Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

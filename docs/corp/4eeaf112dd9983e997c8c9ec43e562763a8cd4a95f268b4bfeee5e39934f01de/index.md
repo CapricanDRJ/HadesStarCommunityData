@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Terranova
-description: Hades' Star Corporation Terranova Bonus [🔴] W:3 L:27 D:0 
+description: Hades' Star Terranova Bonus[🔴] W:3 L:27 D:0 
 ---
 
 | Statistic | Value |

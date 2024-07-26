@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RGW
-description: Hades' Star Corporation RGW Bonus [🟢] W:11 L:6 D:0 
+description: Hades' Star RGW Bonus[🟢] W:11 L:6 D:0 
 ---
 
 | Statistic | Value |

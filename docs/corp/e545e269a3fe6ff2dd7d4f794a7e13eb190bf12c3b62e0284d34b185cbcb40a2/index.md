@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Rozen Family
-description: Hades' Star Corporation Rozen Family Bonus [🔴] W:1 L:3 D:0 
+description: Hades' Star Rozen Family Bonus[🔴] W:1 L:3 D:0 
 ---
 
 | Statistic | Value |

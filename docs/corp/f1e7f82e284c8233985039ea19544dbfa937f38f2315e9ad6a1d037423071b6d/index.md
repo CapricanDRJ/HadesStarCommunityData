@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RUFORS
-description: Hades' Star Corporation RUFORS Bonus [🟢] W:5 L:4 D:0 
+description: Hades' Star RUFORS Bonus[🟢] W:5 L:4 D:0 
 ---
 
 | Statistic | Value |

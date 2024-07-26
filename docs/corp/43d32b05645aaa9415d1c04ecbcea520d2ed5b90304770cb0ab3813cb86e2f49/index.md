@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 붉은늑대
-description: Hades' Star Corporation 붉은늑대 Bonus [🟢] W:33 L:38 D:0 
+description: Hades' Star 붉은늑대 Bonus[🟢] W:33 L:38 D:0 
 ---
 
 | Statistic | Value |

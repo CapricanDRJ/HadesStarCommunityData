@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ua online
-description: Hades' Star Corporation ua online Bonus [🔴] W:0 L:2 D:0 
+description: Hades' Star ua online Bonus[🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

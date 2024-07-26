@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CDG
-description: Hades' Star Corporation CDG Bonus [🔴] W:24 L:27 D:5 
+description: Hades' Star CDG Bonus[🔴] W:24 L:27 D:5 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Angel Dragon
-description: Hades' Star Corporation Angel Dragon Bonus [🔴] W:12 L:8 D:1 
+description: Hades' Star Angel Dragon Bonus[🔴] W:12 L:8 D:1 
 ---
 
 | Statistic | Value |

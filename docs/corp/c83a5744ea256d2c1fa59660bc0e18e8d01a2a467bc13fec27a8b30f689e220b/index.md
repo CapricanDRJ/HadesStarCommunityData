@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SiriusStrawMoo
-description: Hades' Star Corporation SiriusStrawMoo Bonus [🟢] W:3 L:3 D:0 
+description: Hades' Star SiriusStrawMoo Bonus[🟢] W:3 L:3 D:0 
 ---
 
 | Statistic | Value |

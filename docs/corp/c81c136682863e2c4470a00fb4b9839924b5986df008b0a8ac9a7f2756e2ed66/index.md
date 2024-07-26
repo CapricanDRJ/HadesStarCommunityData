@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Base
-description: Hades' Star Corporation The Base Bonus [🔴] W:0 L:2 D:0 
+description: Hades' Star The Base Bonus[🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

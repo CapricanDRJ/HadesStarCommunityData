@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CTG
-description: Hades' Star Corporation CTG Bonus [🟢] W:10 L:13 D:0 
+description: Hades' Star CTG Bonus[🟢] W:10 L:13 D:0 
 ---
 
 | Statistic | Value |

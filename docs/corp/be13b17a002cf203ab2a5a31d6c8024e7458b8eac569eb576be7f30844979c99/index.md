@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Planet Express
-description: Hades' Star Corporation Planet Express Bonus [🔴] W:7 L:2 D:1 
+description: Hades' Star Planet Express Bonus[🔴] W:7 L:2 D:1 
 ---
 
 | Statistic | Value |

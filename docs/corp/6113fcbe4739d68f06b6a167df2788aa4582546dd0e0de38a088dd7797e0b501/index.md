@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 深空补给港
-description: Hades' Star Corporation 深空补给港 Bonus [🔴] W:2 L:12 D:0 
+description: Hades' Star 深空补给港 Bonus[🔴] W:2 L:12 D:0 
 ---
 
 | Statistic | Value |

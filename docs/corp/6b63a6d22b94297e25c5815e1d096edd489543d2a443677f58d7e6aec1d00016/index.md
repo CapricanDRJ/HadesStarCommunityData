@@ -1,7 +1,7 @@
 ---
 layout: page
 title: NASA Air base
-description: Hades' Star Corporation NASA Air base Bonus [🔴] W:0 L:8 D:2 
+description: Hades' Star NASA Air base Bonus[🔴] W:0 L:8 D:2 
 ---
 
 | Statistic | Value |

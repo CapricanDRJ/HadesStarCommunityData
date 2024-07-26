@@ -1,7 +1,7 @@
 ---
 layout: page
 title: VALLKIRIA
-description: Hades' Star Corporation VALLKIRIA Bonus [🔴] W:3 L:0 D:0 
+description: Hades' Star VALLKIRIA Bonus[🔴] W:3 L:0 D:0 
 ---
 
 | Statistic | Value |

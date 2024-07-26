@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Flying Dutchmen
-description: Hades' Star Corporation Flying Dutchmen Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Flying Dutchmen Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

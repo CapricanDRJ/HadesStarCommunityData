@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hades Academy
-description: Hades' Star Corporation Hades Academy Bonus [🔴] W:5 L:5 D:0 
+description: Hades' Star Hades Academy Bonus[🔴] W:5 L:5 D:0 
 ---
 
 | Statistic | Value |

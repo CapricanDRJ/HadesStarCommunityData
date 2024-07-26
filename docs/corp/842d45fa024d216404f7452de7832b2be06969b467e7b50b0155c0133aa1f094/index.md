@@ -1,7 +1,7 @@
 ---
 layout: page
 title: HighSociety
-description: Hades' Star Corporation HighSociety Bonus [🔴] W:2 L:1 D:0 
+description: Hades' Star HighSociety Bonus[🔴] W:2 L:1 D:0 
 ---
 
 | Statistic | Value |

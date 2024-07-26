@@ -1,7 +1,7 @@
 ---
 layout: page
 title: U.Y.E.U.
-description: Hades' Star Corporation U.Y.E.U. Bonus [🔴] W:4 L:11 D:3 
+description: Hades' Star U.Y.E.U. Bonus[🔴] W:4 L:11 D:3 
 ---
 
 | Statistic | Value |

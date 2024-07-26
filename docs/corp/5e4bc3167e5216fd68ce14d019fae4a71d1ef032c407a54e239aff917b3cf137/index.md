@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Borg
-description: Hades' Star Corporation The Borg Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star The Borg Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

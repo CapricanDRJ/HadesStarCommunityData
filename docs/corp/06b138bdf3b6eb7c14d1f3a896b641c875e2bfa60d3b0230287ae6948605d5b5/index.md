@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dirty Laundry 
-description: Hades' Star Corporation Dirty Laundry  Bonus [🔴] W:0 L:2 D:0 
+description: Hades' Star Dirty Laundry  Bonus[🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

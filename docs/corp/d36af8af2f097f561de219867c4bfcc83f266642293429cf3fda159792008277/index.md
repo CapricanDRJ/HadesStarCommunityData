@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 新纪元舰队
-description: Hades' Star Corporation 新纪元舰队 Bonus [🔴] W:4 L:12 D:2 
+description: Hades' Star 新纪元舰队 Bonus[🔴] W:4 L:12 D:2 
 ---
 
 | Statistic | Value |

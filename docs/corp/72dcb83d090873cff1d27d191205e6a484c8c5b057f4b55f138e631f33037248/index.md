@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Galactic Empire
-description: Hades' Star Corporation Galactic Empire Bonus [🔴] W:1 L:6 D:0 
+description: Hades' Star Galactic Empire Bonus[🔴] W:1 L:6 D:0 
 ---
 
 | Statistic | Value |

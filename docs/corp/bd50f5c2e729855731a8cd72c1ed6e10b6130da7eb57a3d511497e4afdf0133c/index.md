@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Imperium
-description: Hades' Star Corporation Imperium Bonus [🔴] W:1 L:0 D:0 
+description: Hades' Star Imperium Bonus[🔴] W:1 L:0 D:0 
 ---
 
 | Statistic | Value |

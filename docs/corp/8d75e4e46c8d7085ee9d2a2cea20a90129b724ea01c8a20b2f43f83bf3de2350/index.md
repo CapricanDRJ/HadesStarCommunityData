@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 111
-description: Hades' Star Corporation 111 Bonus [🟢] W:46 L:15 D:0 
+description: Hades' Star 111 Bonus[🟢] W:46 L:15 D:0 
 ---
 
 | Statistic | Value |

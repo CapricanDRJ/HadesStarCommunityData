@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lacuna Academy
-description: Hades' Star Corporation Lacuna Academy Bonus [🔴] W:15 L:2 D:0 
+description: Hades' Star Lacuna Academy Bonus[🔴] W:15 L:2 D:0 
 ---
 
 | Statistic | Value |

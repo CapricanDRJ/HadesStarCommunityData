@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ukr alliance 
-description: Hades' Star Corporation Ukr alliance  Bonus [🔴] W:1 L:3 D:1 
+description: Hades' Star Ukr alliance  Bonus[🔴] W:1 L:3 D:1 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FURIA 2.0
-description: Hades' Star Corporation FURIA 2.0 Bonus [🔴] W:1 L:8 D:0 
+description: Hades' Star FURIA 2.0 Bonus[🔴] W:1 L:8 D:0 
 ---
 
 | Statistic | Value |

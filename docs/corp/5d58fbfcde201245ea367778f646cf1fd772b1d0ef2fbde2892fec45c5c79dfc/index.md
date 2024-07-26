@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wispered Storm
-description: Hades' Star Corporation Wispered Storm Bonus [🔴] W:0 L:2 D:0 
+description: Hades' Star Wispered Storm Bonus[🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

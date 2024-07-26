@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sekolygen ♤
-description: Hades' Star Corporation Sekolygen ♤ Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Sekolygen ♤ Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

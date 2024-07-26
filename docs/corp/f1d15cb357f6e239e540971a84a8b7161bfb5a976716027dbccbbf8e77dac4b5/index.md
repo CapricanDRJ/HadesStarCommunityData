@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Новый ЭДЭМ
-description: Hades' Star Corporation Новый ЭДЭМ Bonus [🔴] W:2 L:3 D:1 
+description: Hades' Star Новый ЭДЭМ Bonus[🔴] W:2 L:3 D:1 
 ---
 
 | Statistic | Value |

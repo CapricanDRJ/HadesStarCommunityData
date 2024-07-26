@@ -1,7 +1,7 @@
 ---
 layout: page
 title: КМБ
-description: Hades' Star Corporation КМБ Bonus [🔴] W:5 L:6 D:0 
+description: Hades' Star КМБ Bonus[🔴] W:5 L:6 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sprite
-description: Hades' Star Corporation Sprite Bonus [🔴] W:3 L:4 D:0 
+description: Hades' Star Sprite Bonus[🔴] W:3 L:4 D:0 
 ---
 
 | Statistic | Value |

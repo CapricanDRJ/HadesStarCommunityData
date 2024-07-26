@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MÉXICO INFINITO
-description: Hades' Star Corporation MÉXICO INFINITO Bonus [🟢] W:16 L:21 D:0 
+description: Hades' Star MÉXICO INFINITO Bonus[🟢] W:16 L:21 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 超新星联盟
-description: Hades' Star Corporation 超新星联盟 Bonus [🔴] W:5 L:6 D:0 
+description: Hades' Star 超新星联盟 Bonus[🔴] W:5 L:6 D:0 
 ---
 
 | Statistic | Value |

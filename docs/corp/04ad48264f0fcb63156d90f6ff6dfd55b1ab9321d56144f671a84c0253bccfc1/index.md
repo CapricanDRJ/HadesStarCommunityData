@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Space Scourge
-description: Hades' Star Corporation Space Scourge Bonus [🔴] W:2 L:6 D:0 
+description: Hades' Star Space Scourge Bonus[🔴] W:2 L:6 D:0 
 ---
 
 | Statistic | Value |

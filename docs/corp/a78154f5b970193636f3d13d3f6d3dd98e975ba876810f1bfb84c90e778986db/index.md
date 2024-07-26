@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Aconitum
-description: Hades' Star Corporation Aconitum Bonus [🔴] W:1 L:0 D:0 
+description: Hades' Star Aconitum Bonus[🔴] W:1 L:0 D:0 
 ---
 
 | Statistic | Value |

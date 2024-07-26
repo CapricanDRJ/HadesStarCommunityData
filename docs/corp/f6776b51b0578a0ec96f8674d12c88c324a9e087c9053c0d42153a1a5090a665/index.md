@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Гарри Поттер
-description: Hades' Star Corporation Гарри Поттер Bonus [🔴] W:7 L:2 D:1 
+description: Hades' Star Гарри Поттер Bonus[🔴] W:7 L:2 D:1 
 ---
 
 | Statistic | Value |

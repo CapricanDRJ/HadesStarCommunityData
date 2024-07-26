@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vega Conflict
-description: Hades' Star Corporation Vega Conflict Bonus [🟢] W:8 L:5 D:0 
+description: Hades' Star Vega Conflict Bonus[🟢] W:8 L:5 D:0 
 ---
 
 | Statistic | Value |

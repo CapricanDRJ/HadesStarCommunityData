@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Forces of Light
-description: Hades' Star Corporation Forces of Light Bonus [🟢] W:7 L:4 D:1 
+description: Hades' Star Forces of Light Bonus[🟢] W:7 L:4 D:1 
 ---
 
 | Statistic | Value |

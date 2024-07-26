@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sector7
-description: Hades' Star Corporation Sector7 Bonus [🔴] W:0 L:4 D:1 
+description: Hades' Star Sector7 Bonus[🔴] W:0 L:4 D:1 
 ---
 
 | Statistic | Value |

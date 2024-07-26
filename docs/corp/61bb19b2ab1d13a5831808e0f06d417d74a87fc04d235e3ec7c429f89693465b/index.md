@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Team Elite
-description: Hades' Star Corporation Team Elite Bonus [🔴] W:1 L:2 D:1 
+description: Hades' Star Team Elite Bonus[🔴] W:1 L:2 D:1 
 ---
 
 | Statistic | Value |

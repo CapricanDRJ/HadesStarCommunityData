@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BrinySeal
-description: Hades' Star Corporation BrinySeal Bonus [🟢] W:34 L:15 D:3 
+description: Hades' Star BrinySeal Bonus[🟢] W:34 L:15 D:3 
 ---
 
 | Statistic | Value |

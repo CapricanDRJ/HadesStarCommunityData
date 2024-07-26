@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mercury Sunset
-description: Hades' Star Corporation Mercury Sunset Bonus [🟢] W:21 L:0 D:0 
+description: Hades' Star Mercury Sunset Bonus[🟢] W:21 L:0 D:0 
 ---
 
 | Statistic | Value |

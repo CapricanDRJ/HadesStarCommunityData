@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FreeSpcAlliance
-description: Hades' Star Corporation FreeSpcAlliance Bonus [🔴] W:3 L:3 D:0 
+description: Hades' Star FreeSpcAlliance Bonus[🔴] W:3 L:3 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nexland Ind.
-description: Hades' Star Corporation Nexland Ind. Bonus [🔴] W:5 L:4 D:1 
+description: Hades' Star Nexland Ind. Bonus[🔴] W:5 L:4 D:1 
 ---
 
 | Statistic | Value |

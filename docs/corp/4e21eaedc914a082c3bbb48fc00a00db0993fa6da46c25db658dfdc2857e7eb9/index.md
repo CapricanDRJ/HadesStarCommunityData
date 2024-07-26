@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 边际的文明
-description: Hades' Star Corporation 边际的文明 Bonus [🔴] W:0 L:4 D:0 
+description: Hades' Star 边际的文明 Bonus[🔴] W:0 L:4 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Imperio Tortuga
-description: Hades' Star Corporation Imperio Tortuga Bonus [🔴] W:1 L:1 D:0 
+description: Hades' Star Imperio Tortuga Bonus[🔴] W:1 L:1 D:0 
 ---
 
 | Statistic | Value |

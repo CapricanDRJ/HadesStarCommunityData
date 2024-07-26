@@ -1,7 +1,7 @@
 ---
 layout: page
 title: OntarioDiligent
-description: Hades' Star Corporation OntarioDiligent Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star OntarioDiligent Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

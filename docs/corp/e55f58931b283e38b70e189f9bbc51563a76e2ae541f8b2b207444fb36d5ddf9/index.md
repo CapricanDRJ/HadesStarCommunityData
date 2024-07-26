@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cydonia Order
-description: Hades' Star Corporation Cydonia Order Bonus [🔴] W:2 L:10 D:0 
+description: Hades' Star Cydonia Order Bonus[🔴] W:2 L:10 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Killers from Ua
-description: Hades' Star Corporation Killers from Ua Bonus [🔴] W:4 L:3 D:0 
+description: Hades' Star Killers from Ua Bonus[🔴] W:4 L:3 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SafeSpace
-description: Hades' Star Corporation SafeSpace Bonus [🔴] W:1 L:0 D:0 
+description: Hades' Star SafeSpace Bonus[🔴] W:1 L:0 D:0 
 ---
 
 | Statistic | Value |

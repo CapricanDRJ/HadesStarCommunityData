@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Orphans Of Kos
-description: Hades' Star Corporation Orphans Of Kos Bonus [🔴] W:5 L:6 D:0 
+description: Hades' Star Orphans Of Kos Bonus[🔴] W:5 L:6 D:0 
 ---
 
 | Statistic | Value |

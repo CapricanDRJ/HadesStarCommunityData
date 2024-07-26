@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Феникс 
-description: Hades' Star Corporation Феникс  Bonus [🔴] W:1 L:1 D:0 
+description: Hades' Star Феникс  Bonus[🔴] W:1 L:1 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Newbs
-description: Hades' Star Corporation Newbs Bonus [🔴] W:26 L:11 D:1 
+description: Hades' Star Newbs Bonus[🔴] W:26 L:11 D:1 
 ---
 
 | Statistic | Value |

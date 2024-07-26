@@ -1,7 +1,7 @@
 ---
 layout: page
 title: wyvern
-description: Hades' Star Corporation wyvern Bonus [🔴] W:2 L:3 D:0 
+description: Hades' Star wyvern Bonus[🔴] W:2 L:3 D:0 
 ---
 
 | Statistic | Value |

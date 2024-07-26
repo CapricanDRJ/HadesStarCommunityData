@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SQPT
-description: Hades' Star Corporation SQPT Bonus [🔴] W:29 L:33 D:0 
+description: Hades' Star SQPT Bonus[🔴] W:29 L:33 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Furyans
-description: Hades' Star Corporation Furyans Bonus [🔴] W:1 L:0 D:0 
+description: Hades' Star Furyans Bonus[🔴] W:1 L:0 D:0 
 ---
 
 | Statistic | Value |

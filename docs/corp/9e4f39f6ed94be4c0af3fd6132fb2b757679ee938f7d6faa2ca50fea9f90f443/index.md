@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Uniones
-description: Hades' Star Corporation Uniones Bonus [🔴] W:0 L:4 D:2 
+description: Hades' Star Uniones Bonus[🔴] W:0 L:4 D:2 
 ---
 
 | Statistic | Value |

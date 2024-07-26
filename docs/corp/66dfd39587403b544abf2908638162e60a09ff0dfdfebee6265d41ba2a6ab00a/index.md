@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Core Systems
-description: Hades' Star Corporation Core Systems Bonus [🔴] W:3 L:2 D:2 
+description: Hades' Star Core Systems Bonus[🔴] W:3 L:2 D:2 
 ---
 
 | Statistic | Value |

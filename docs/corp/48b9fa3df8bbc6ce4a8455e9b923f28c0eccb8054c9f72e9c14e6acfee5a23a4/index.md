@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Glashan
-description: Hades' Star Corporation Glashan Bonus [🔴] W:3 L:27 D:0 
+description: Hades' Star Glashan Bonus[🔴] W:3 L:27 D:0 
 ---
 
 | Statistic | Value |

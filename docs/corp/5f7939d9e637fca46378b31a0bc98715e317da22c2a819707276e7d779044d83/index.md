@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Warriors
-description: Hades' Star Corporation Warriors Bonus [🔴] W:3 L:1 D:0 
+description: Hades' Star Warriors Bonus[🔴] W:3 L:1 D:0 
 ---
 
 | Statistic | Value |

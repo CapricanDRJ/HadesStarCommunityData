@@ -1,7 +1,7 @@
 ---
 layout: page
 title: oen
-description: Hades' Star Corporation oen Bonus [🟢] W:2 L:0 D:0 
+description: Hades' Star oen Bonus[🟢] W:2 L:0 D:0 
 ---
 
 | Statistic | Value |

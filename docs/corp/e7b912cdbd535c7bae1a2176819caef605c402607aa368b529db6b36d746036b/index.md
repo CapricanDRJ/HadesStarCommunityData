@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Snack Empire
-description: Hades' Star Corporation Snack Empire Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Snack Empire Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

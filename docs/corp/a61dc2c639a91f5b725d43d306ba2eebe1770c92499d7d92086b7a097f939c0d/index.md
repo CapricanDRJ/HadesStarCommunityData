@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Эдем
-description: Hades' Star Corporation Эдем Bonus [🔴] W:3 L:6 D:0 
+description: Hades' Star Эдем Bonus[🔴] W:3 L:6 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: LossFarm No.648
-description: Hades' Star Corporation LossFarm No.648 Bonus [🔴] W:4 L:3 D:0 
+description: Hades' Star LossFarm No.648 Bonus[🔴] W:4 L:3 D:0 
 ---
 
 | Statistic | Value |

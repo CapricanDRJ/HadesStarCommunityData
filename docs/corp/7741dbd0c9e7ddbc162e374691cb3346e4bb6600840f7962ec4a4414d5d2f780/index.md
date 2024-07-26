@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tuatha De Danan
-description: Hades' Star Corporation Tuatha De Danan Bonus [🟢] W:44 L:12 D:0 
+description: Hades' Star Tuatha De Danan Bonus[🟢] W:44 L:12 D:0 
 ---
 
 | Statistic | Value |

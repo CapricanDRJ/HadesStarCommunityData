@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BlackDawn
-description: Hades' Star Corporation BlackDawn Bonus [🔴] W:1 L:14 D:5 
+description: Hades' Star BlackDawn Bonus[🔴] W:1 L:14 D:5 
 ---
 
 | Statistic | Value |

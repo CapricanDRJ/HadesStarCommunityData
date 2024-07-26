@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Avabel Online 2
-description: Hades' Star Corporation Avabel Online 2 Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Avabel Online 2 Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

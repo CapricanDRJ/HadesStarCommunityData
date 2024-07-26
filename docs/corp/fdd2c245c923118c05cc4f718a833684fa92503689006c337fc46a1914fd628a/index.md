@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Рикардия
-description: Hades' Star Corporation Рикардия Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Рикардия Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

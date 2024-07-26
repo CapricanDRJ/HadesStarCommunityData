@@ -1,7 +1,7 @@
 ---
 layout: page
 title: tropa (BR)
-description: Hades' Star Corporation tropa (BR) Bonus [🔴] W:7 L:9 D:2 
+description: Hades' Star tropa (BR) Bonus[🔴] W:7 L:9 D:2 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ●Black•Sails●
-description: Hades' Star Corporation ●Black•Sails● Bonus [🟢] W:13 L:10 D:0 
+description: Hades' Star ●Black•Sails● Bonus[🟢] W:13 L:10 D:0 
 ---
 
 | Statistic | Value |

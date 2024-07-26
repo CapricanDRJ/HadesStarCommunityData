@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Darkest Hour
-description: Hades' Star Corporation Darkest Hour Bonus [🔴] W:1 L:0 D:0 
+description: Hades' Star Darkest Hour Bonus[🔴] W:1 L:0 D:0 
 ---
 
 | Statistic | Value |

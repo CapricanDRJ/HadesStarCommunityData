@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 华夏三体舰队
-description: Hades' Star Corporation 华夏三体舰队 Bonus [🔴] W:9 L:15 D:3 
+description: Hades' Star 华夏三体舰队 Bonus[🔴] W:9 L:15 D:3 
 ---
 
 | Statistic | Value |

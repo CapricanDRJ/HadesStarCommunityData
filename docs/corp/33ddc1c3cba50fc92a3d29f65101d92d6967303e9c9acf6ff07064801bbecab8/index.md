@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ahamkara
-description: Hades' Star Corporation Ahamkara Bonus [🔴] W:0 L:1 D:0 
+description: Hades' Star Ahamkara Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

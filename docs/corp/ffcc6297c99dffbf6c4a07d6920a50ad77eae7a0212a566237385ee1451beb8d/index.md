@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gardiens détoil
-description: Hades' Star Corporation Gardiens détoil Bonus [🔴] W:0 L:2 D:0 
+description: Hades' Star Gardiens détoil Bonus[🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

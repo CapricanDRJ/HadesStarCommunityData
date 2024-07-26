@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 1st/Ave/Junkie2
-description: Hades' Star Corporation 1st/Ave/Junkie2 Bonus [🔴] W:16 L:20 D:1 
+description: Hades' Star 1st/Ave/Junkie2 Bonus[🔴] W:16 L:20 D:1 
 ---
 
 | Statistic | Value |

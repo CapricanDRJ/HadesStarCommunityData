@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Atlas corp
-description: Hades' Star Corporation Atlas corp Bonus [🔴] W:5 L:9 D:1 
+description: Hades' Star Atlas corp Bonus[🔴] W:5 L:9 D:1 
 ---
 
 | Statistic | Value |

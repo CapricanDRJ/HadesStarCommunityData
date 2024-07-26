@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 9-Й СКОРПИОН
-description: Hades' Star Corporation 9-Й СКОРПИОН Bonus [🟢] W:24 L:6 D:0 
+description: Hades' Star 9-Й СКОРПИОН Bonus[🟢] W:24 L:6 D:0 
 ---
 
 | Statistic | Value |

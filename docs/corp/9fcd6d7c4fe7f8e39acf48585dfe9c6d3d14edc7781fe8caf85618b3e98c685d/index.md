@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sich.ua
-description: Hades' Star Corporation Sich.ua Bonus [🟢] W:19 L:13 D:1 
+description: Hades' Star Sich.ua Bonus[🟢] W:19 L:13 D:1 
 ---
 
 | Statistic | Value |
