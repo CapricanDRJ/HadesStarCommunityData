@@ -7,7 +7,7 @@ description: W:9 L:19 D:0 Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1115 🔻  (1076)|
-| ELO Competitive | 1135 🔻  (1100)|
+| ELO Competitive | 1135 🔻  (1099)|
 | Total Matches | 28 |
 | Wins | 9 |
 | Losses | 19 |

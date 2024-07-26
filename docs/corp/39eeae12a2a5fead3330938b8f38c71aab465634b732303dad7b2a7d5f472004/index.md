@@ -1,16 +1,16 @@
 ---
 layout: page
 title: ​Север РусКорп
-description: W:14 L:8 D:0 Bonus[🟢]
+description: W:14 L:9 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1277 🔻  (160)|
-| ELO Competitive | 1324 🔺  (167)|
-| Total Matches | 22 |
+| ELO Regular | 1267 🔻  (177)|
+| ELO Competitive | 1313 🔻  (183)|
+| Total Matches | 23 |
 | Wins | 14 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 0 |
 | Streak Record | 5 |
 
@@ -19,6 +19,7 @@ description: W:14 L:8 D:0 Bonus[🟢]
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/26 | 2-15 | [9\-Й СКОРПИОН](https://ws.tsl.rocks/corp/5ad79ec30d5d805635609e2b1e1cf5f399486c1d57f6101cb6015afbd50f5913/) |
 | ❌ | 2024/07/20 | 0-18 | [Sich\.ua](https://ws.tsl.rocks/corp/9fcd6d7c4fe7f8e39acf48585dfe9c6d3d14edc7781fe8caf85618b3e98c685d/) |
 | ✅ | 2024/07/20 | 15-5 | [Halcon español](https://ws.tsl.rocks/corp/ab9c3038dcf2b019ba662007ab1e50b2d80e0eb8e7a65e57dd5260a6d2e80ff9/) |
 | ✅ | 2024/07/13 | 2-0 | [银星舰队SSF](https://ws.tsl.rocks/corp/c02d97cc37c082739a7828b6669ee67e2108bbf3d9f33628c650ced9fe04dd06/) |

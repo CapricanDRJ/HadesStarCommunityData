@@ -1,16 +1,16 @@
 ---
 layout: page
 title: ​Hun Generals
-description: W:8 L:29 D:0 Bonus[🟢]
+description: W:8 L:30 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1023 🔺  (1159)|
-| ELO Competitive | 1136 🔺  (1097)|
-| Total Matches | 37 |
+| ELO Regular | 1011 🔻  (1166)|
+| ELO Competitive | 1122 🔻  (1111)|
+| Total Matches | 38 |
 | Wins | 8 |
-| Losses | 29 |
+| Losses | 30 |
 | Draws | 0 |
 | Streak Record | 3 |
 
@@ -27,6 +27,7 @@ description: W:8 L:29 D:0 Bonus[🟢]
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/26 | 4-39 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) |
 | ✅ | 2024/07/20 | 31-12 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) |
 | ❌ | 2024/07/14 | 2-11 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) |
 | ❌ | 2024/07/13 | 4-45 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) |

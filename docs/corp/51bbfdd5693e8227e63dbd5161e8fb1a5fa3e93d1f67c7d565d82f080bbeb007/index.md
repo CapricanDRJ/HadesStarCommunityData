@@ -1,12 +1,12 @@
 ---
 layout: page
 title: ​Corporation
-description: W:15 L:4 D:0 Bonus[🟢]
+description: W:15 L:4 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1311 🔻  (108)|
+| ELO Regular | 1311 🔻  (109)|
 | ELO Competitive | 1338 🔻  (146)|
 | Total Matches | 19 |
 | Wins | 15 |

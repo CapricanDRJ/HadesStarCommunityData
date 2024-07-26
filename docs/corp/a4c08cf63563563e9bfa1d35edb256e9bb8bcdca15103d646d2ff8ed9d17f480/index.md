@@ -6,7 +6,7 @@ description: W:20 L:23 D:1 Bonus[🔴]
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1109 🔻  (1086)|
+| ELO Regular | 1109 🔻  (1087)|
 | ELO Competitive | 1277 🔻  (249)|
 | Total Matches | 44 |
 | Wins | 20 |

@@ -1,16 +1,16 @@
 ---
 layout: page
 title: ​Lacuna Holdings
-description: W:21 L:12 D:0 Bonus[🔴]
+description: W:21 L:13 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1255 🔻  (206)|
-| ELO Competitive | 1299 🔻  (207)|
-| Total Matches | 33 |
+| ELO Regular | 1245 🔻  (227)|
+| ELO Competitive | 1291 🔻  (218)|
+| Total Matches | 34 |
 | Wins | 21 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 0 |
 | Streak Record | 8 |
 
@@ -26,6 +26,7 @@ description: W:21 L:12 D:0 Bonus[🔴]
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/26 | 2-46 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) |
 | ❌ | 2024/07/13 | 11-31 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | ❌ | 2024/07/04 | 13-39 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |
 | ❌ | 2024/06/21 | 4-37 | [Starsailors](https://ws.tsl.rocks/corp/1ffdd1012b5d4a4aca2e0e34e2653630706b779eead835c61c2c715e4df17a1f/) |

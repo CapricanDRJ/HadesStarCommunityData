@@ -1,17 +1,18 @@
 ---
 layout: page
 title: ​9-Й СКОРПИОН
-description: W:24 L:6 D:0 Bonus[🟢]
+description: W:25 L:6 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1398 🔺  (36)|
-| ELO Competitive | 1440 🔺  (53)|
-| Total Matches | 30 |
-| Wins | 24 |
+| ELO Regular | 1408 🔺  (29)|
+| ELO Competitive | 1450 🔺  (47)|
+| Total Matches | 31 |
+| Wins | 25 |
 | Losses | 6 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 14 |
 
 ### Recurring Opponents
@@ -26,6 +27,7 @@ description: W:24 L:6 D:0 Bonus[🟢]
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/26 | 15-2 | [Север РусКорп](https://ws.tsl.rocks/corp/39eeae12a2a5fead3330938b8f38c71aab465634b732303dad7b2a7d5f472004/) |
 | ✅ | 2024/07/15 | 21-0 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
 | ❌ | 2024/07/10 | 3-17 | [华夏舰队](https://ws.tsl.rocks/corp/abd6d05a100ffdde2d15abd725a209bfbbf069b60b10ddeac88e88da66191472/) |
 | ✅ | 2024/07/02 | 15-4 | [四季长春](https://ws.tsl.rocks/corp/cf0b11914dc18d8e669592ecfe191f115c4e5fdba09d130d260bb625b36a3179/) |

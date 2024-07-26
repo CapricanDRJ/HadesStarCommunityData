@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Lost Legion
-description: W:19 L:35 D:0 Bonus[🔴]
+description: W:20 L:35 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1101 🔻  (1096)|
-| ELO Competitive | 1170 🔻  (963)|
-| Total Matches | 54 |
-| Wins | 19 |
+| ELO Regular | 1113 🔺  (1082)|
+| ELO Competitive | 1184 🔺  (822)|
+| Total Matches | 55 |
+| Wins | 20 |
 | Losses | 35 |
 | Draws | 0 |
 | Streak Record | 4 |
@@ -32,6 +32,7 @@ description: W:19 L:35 D:0 Bonus[🔴]
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/26 | 39-4 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) |
 | ❌ | 2024/07/21 | 17-29 | [Stargate Corp](https://ws.tsl.rocks/corp/b698cd0d86be60954a4b995f79fffe102a71c350e47fbdc2a5827f0ed0ca455d/) |
 | ❌ | 2024/07/16 | 12-50 | [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) |
 | ✅ | 2024/07/11 | 30-8 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/0c33734edc95a1bac88a9df7e0853a3bd835ea682673f097db1c75d6bb14c8da/) |
