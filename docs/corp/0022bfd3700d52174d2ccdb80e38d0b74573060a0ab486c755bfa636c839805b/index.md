@@ -3,8 +3,8 @@ layout: page
 title: ​Phoenix corp
 description: W:0 L:1 D:0 Bonus[🔴]
 ---
-
 Bonus[🔴]
+
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1192 🔻  (509)|
