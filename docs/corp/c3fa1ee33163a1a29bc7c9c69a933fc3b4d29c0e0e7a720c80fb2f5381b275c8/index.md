@@ -6,27 +6,27 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1505 🔺  (6)|
-| ELO Competitive | 1531 🔺  (12)|
-| Total Matches | 31 |
+| ELO Regular | 1480 🔻  (10)|
+| ELO Competitive | 1511 🔻  (17)|
+| Total Matches | 32 |
 | Wins | 31 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 0 |
-| Streak | 31 |
 | Streak Record | 31 |
 
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) | 2 | 1 | 0 | 3 |
 | [111](https://ws.tsl.rocks/corp/8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350/) | 2 | 0 | 0 | 2 |
 | [KLM](https://ws.tsl.rocks/corp/963e490e64d4703042415d3fcd8267ff87fbfd3383b83d447d29d842f2a446a1/) | 2 | 0 | 0 | 2 |
-| [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) | 2 | 0 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/26 | 13-25 | [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) |
 | ✅ | 2024/07/13 | 19-10 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) |
 | ✅ | 2024/06/29 | 17-3 | [111](https://ws.tsl.rocks/corp/8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350/) |
 | ✅ | 2024/06/22 | 21-3 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) |

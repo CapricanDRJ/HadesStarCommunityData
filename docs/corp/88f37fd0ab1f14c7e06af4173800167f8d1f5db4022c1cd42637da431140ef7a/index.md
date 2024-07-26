@@ -6,13 +6,13 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1372 🔺  (49)|
-| ELO Competitive | 1418 🔺  (72)|
-| Total Matches | 41 |
-| Wins | 34 |
+| ELO Regular | 1387 🔺  (44)|
+| ELO Competitive | 1439 🔺  (54)|
+| Total Matches | 42 |
+| Wins | 35 |
 | Losses | 7 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 18 |
 
 ### Recurring Opponents
@@ -26,6 +26,7 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/26 | 15-6 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ✅ | 2024/07/18 | 26-3 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |
 | ✅ | 2024/07/08 | 16-3 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
 | ❌ | 2024/07/03 | 8-10 | [sk cz nebula](https://ws.tsl.rocks/corp/6ed29f74bee91a7aad75a64196918993de6cec070ce8c65d1132ed6b0e79005d/) |
