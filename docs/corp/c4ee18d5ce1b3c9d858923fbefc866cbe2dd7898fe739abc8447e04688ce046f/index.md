@@ -2,9 +2,9 @@
 layout: page
 title: ​Phoenix Squad
 description: W:0 L:4 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1169 🔻  (886)|

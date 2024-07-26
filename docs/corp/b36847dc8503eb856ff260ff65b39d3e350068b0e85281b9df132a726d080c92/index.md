@@ -2,9 +2,9 @@
 layout: page
 title: ​华夏太空舰队
 description: W:0 L:1 D:1 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (621)|

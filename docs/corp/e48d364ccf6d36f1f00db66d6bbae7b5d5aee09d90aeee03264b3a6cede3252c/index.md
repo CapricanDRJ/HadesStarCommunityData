@@ -2,9 +2,9 @@
 layout: page
 title: ​星光舰队
 description: W:3 L:2 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1208 🔻  (396)|

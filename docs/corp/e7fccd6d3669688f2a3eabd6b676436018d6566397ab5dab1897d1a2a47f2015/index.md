@@ -2,9 +2,9 @@
 layout: page
 title: ​UKR Spase
 description: W:15 L:6 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1317 🔻  (98)|

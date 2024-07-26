@@ -2,9 +2,9 @@
 layout: page
 title: ​Imperium XIII
 description: W:24 L:20 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1237 🔻  (253)|

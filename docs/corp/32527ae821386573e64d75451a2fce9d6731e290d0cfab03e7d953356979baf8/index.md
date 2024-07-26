@@ -2,9 +2,9 @@
 layout: page
 title: ​Hail Hydra
 description: W:6 L:18 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1111 🔻  (1084)|

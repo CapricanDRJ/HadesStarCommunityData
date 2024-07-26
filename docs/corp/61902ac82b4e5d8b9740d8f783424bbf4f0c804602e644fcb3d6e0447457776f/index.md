@@ -2,9 +2,9 @@
 layout: page
 title: ​ZORG IND
 description: W:3 L:1 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1236 🔺  (255)|

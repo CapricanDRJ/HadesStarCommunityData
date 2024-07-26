@@ -2,9 +2,9 @@
 layout: page
 title: ​Star Blazers
 description: W:10 L:25 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1076 🔻  (1125)|

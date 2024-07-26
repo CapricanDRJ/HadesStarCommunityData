@@ -2,9 +2,9 @@
 layout: page
 title: ​Winged Pheonix
 description: W:3 L:9 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1162 🔻  (926)|

@@ -2,12 +2,12 @@
 layout: page
 title: ​TeddisaurusWrex
 description: W:35 L:7 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1387 🔺  (43)|
+| ELO Regular | 1387 🔺  (44)|
 | ELO Competitive | 1439 🔺  (54)|
 | Total Matches | 42 |
 | Wins | 35 |

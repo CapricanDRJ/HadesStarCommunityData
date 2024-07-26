@@ -2,9 +2,9 @@
 layout: page
 title: ​Alterra Corp
 description: W:0 L:0 D:1 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1195 🔻  (492)|

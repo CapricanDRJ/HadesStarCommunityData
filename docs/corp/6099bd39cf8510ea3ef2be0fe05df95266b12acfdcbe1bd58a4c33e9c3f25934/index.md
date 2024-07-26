@@ -2,9 +2,9 @@
 layout: page
 title: ​无聊不过
 description: W:1 L:1 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1202 🔺  (419)|

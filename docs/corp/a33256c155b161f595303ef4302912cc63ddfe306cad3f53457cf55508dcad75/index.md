@@ -2,9 +2,9 @@
 layout: page
 title: ​Auscorp 
 description: W:42 L:6 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1507 🔺  (5)|

@@ -2,9 +2,9 @@
 layout: page
 title: ​GDZ
 description: W:31 L:26 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1231 🔻  (272)|

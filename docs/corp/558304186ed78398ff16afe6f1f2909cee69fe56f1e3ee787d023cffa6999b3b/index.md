@@ -2,9 +2,9 @@
 layout: page
 title: ​六大天神.轻歌之影
 description: W:22 L:26 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1165 🔻  (904)|

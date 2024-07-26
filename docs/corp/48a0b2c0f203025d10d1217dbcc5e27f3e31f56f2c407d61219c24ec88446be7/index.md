@@ -2,9 +2,9 @@
 layout: page
 title: ​RGW
 description: W:11 L:6 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1292 🔺  (132)|

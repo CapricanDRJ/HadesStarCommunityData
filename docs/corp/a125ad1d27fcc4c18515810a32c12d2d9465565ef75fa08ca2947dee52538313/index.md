@@ -2,9 +2,9 @@
 layout: page
 title: ​Rocket-by Baby
 description: W:0 L:6 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1123 🔻  (1060)|

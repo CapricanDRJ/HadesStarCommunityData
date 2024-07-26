@@ -2,9 +2,9 @@
 layout: page
 title: ​Noble
 description: W:0 L:2 D:2 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1171 🔺  (839)|

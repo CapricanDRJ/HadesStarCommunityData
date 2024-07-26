@@ -2,9 +2,9 @@
 layout: page
 title: ​Orion
 description: W:12 L:4 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1273 🔻  (164)|

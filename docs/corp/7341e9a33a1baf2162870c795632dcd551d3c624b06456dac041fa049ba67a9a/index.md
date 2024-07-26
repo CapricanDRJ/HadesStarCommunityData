@@ -2,9 +2,9 @@
 layout: page
 title: ​11th Engineers
 description: W:4 L:11 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1097 🔻  (1099)|

@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Order of Hades
-description: W:50 L:17 D:0 Bonus[🟢]
-excerpt: 🟢
+description: W:50 L:18 D:0 Bonus[🟢]
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1387 🔺  (44)|
-| ELO Competitive | 1488 🔺  (25)|
-| Total Matches | 67 |
+| ELO Regular | 1371 🔻  (50)|
+| ELO Competitive | 1473 🔻  (35)|
+| Total Matches | 68 |
 | Wins | 50 |
-| Losses | 17 |
+| Losses | 18 |
 | Draws | 0 |
 | Streak Record | 18 |
 
@@ -19,6 +19,7 @@ excerpt: 🟢
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 1 | 1 | 0 | 2 |
 | [ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ](https://ws.tsl.rocks/corp/85a74d128f924274446b7fb754136e6ef7185c754df2fae3b10591d28536f17a/) | 1 | 1 | 0 | 2 |
 | [Anla'Shok](https://ws.tsl.rocks/corp/ee2d5a60dee46a98f5178e2807099ebca3c64db7a1fd052df34812d6d88e52a1/) | 2 | 0 | 0 | 2 |
 | [Providence](https://ws.tsl.rocks/corp/f12fc39ca2326de7c5ce96c005b1953c86430443f1f8b98e7515d082b43b4d4b/) | 2 | 1 | 0 | 3 |
@@ -32,6 +33,7 @@ excerpt: 🟢
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/26 | 24-28 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) |
 | ✅ | 2024/07/20 | 15-13 | [Omega Alpha](https://ws.tsl.rocks/corp/b6e23a3f1f3a3c735c694624b273dcd7da2f8bd13a5ac2b36a8ad39737b1d062/) |
 | ❌ | 2024/07/20 | 11-15 | [BRASIL STAR](https://ws.tsl.rocks/corp/94fc4639f17e4503a11d4ac3878f3203bca3f21baebf285433ff39ad37f0fff2/) |
 | ✅ | 2024/07/13 | 41-4 | [ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ](https://ws.tsl.rocks/corp/85a74d128f924274446b7fb754136e6ef7185c754df2fae3b10591d28536f17a/) |

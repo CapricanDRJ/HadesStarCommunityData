@@ -2,9 +2,9 @@
 layout: page
 title: ​地球联合
 description: W:12 L:3 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1314 🔺  (101)|

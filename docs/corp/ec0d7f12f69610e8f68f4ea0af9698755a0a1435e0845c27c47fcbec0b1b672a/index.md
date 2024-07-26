@@ -2,9 +2,9 @@
 layout: page
 title: ​星河绮梦
 description: W:9 L:1 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1303 🔺  (120)|

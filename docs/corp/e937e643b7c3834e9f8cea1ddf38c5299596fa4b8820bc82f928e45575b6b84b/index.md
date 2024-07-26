@@ -2,9 +2,9 @@
 layout: page
 title: ​N.P.C
 description: W:5 L:2 D:3 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1221 🔻  (313)|

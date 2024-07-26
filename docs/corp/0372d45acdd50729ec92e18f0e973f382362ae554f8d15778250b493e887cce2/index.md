@@ -2,9 +2,9 @@
 layout: page
 title: ​CDG
 description: W:24 L:27 D:5 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1143 🔻  (1011)|

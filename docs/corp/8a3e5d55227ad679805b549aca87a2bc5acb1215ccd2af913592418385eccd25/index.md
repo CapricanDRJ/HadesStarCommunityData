@@ -2,9 +2,9 @@
 layout: page
 title: ​星光禁卫
 description: W:1 L:8 D:1 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1119 🔻  (1067)|

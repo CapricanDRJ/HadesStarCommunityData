@@ -2,9 +2,9 @@
 layout: page
 title: ​Soul System
 description: W:0 L:9 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1110 🔻  (1086)|

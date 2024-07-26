@@ -2,9 +2,9 @@
 layout: page
 title: ​death squadron 
 description: W:18 L:22 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1166 🔻  (900)|

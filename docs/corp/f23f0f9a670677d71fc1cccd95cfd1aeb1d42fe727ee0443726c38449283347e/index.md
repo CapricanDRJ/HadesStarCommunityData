@@ -2,9 +2,9 @@
 layout: page
 title: ​42 Nova Corps.
 description: W:2 L:1 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1210 🔺  (393)|

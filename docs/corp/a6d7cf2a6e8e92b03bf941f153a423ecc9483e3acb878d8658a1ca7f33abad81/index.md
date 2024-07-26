@@ -2,9 +2,9 @@
 layout: page
 title: ​Space Oddity
 description: W:14 L:10 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1240 🔻  (238)|

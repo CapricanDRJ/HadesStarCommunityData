@@ -2,9 +2,9 @@
 layout: page
 title: ​Cerulean Star
 description: W:20 L:17 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1225 🔻  (302)|

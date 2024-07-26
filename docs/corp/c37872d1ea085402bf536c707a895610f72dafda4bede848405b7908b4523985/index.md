@@ -2,9 +2,9 @@
 layout: page
 title: ​Galaktika corp
 description: W:14 L:5 D:2 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1298 🔻  (124)|

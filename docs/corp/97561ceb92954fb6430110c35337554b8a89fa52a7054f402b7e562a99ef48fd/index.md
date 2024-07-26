@@ -2,9 +2,9 @@
 layout: page
 title: ​Dark Skai
 description: W:1 L:11 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1080 🔻  (1123)|

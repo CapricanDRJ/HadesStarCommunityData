@@ -2,9 +2,9 @@
 layout: page
 title: ​OrderofTheGeon
 description: W:19 L:20 D:3 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1157 🔺  (953)|

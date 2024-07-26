@@ -2,9 +2,9 @@
 layout: page
 title: ​R-6 satalite
 description: W:26 L:11 D:1 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1327 🔺  (84)|

@@ -2,9 +2,9 @@
 layout: page
 title: ​9-Й СКОРПИОН
 description: W:25 L:6 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1408 🔺  (29)|

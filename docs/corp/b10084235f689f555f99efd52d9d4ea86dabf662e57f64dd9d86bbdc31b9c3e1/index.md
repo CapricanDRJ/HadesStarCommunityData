@@ -2,9 +2,9 @@
 layout: page
 title: ​Hexwood
 description: W:7 L:4 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1248 🔺  (218)|

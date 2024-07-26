@@ -2,9 +2,9 @@
 layout: page
 title: ​helvetic force
 description: W:2 L:1 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1217 🔺  (329)|

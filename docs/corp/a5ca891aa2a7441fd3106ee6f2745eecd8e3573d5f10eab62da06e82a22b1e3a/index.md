@@ -2,9 +2,9 @@
 layout: page
 title: ​泰拉瑞亚
 description: W:1 L:1 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1198 🔻  (467)|

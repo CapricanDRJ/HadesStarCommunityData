@@ -2,9 +2,9 @@
 layout: page
 title: ​宇宙银河帝国
 description: W:21 L:12 D:2 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1307 🔺  (115)|

@@ -2,9 +2,9 @@
 layout: page
 title: ​Sternenflotte
 description: W:3 L:9 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1137 🔻  (1026)|

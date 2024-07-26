@@ -2,9 +2,9 @@
 layout: page
 title: ​Equinox
 description: W:10 L:12 D:1 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1199 🔺  (451)|

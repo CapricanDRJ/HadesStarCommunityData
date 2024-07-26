@@ -2,9 +2,9 @@
 layout: page
 title: ​Españoles
 description: W:3 L:4 D:2 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔺  (708)|

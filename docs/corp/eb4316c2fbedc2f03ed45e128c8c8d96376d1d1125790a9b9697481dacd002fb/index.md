@@ -2,9 +2,9 @@
 layout: page
 title: ​湖心亭看雪
 description: W:2 L:19 D:2 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1016 🔻  (1161)|

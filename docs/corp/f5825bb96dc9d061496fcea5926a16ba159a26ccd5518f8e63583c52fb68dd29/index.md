@@ -2,9 +2,9 @@
 layout: page
 title: ​Red_Coat_Mafia
 description: W:13 L:18 D:1 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1198 🔺  (469)|

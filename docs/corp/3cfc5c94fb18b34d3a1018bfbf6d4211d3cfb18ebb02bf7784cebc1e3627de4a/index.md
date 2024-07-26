@@ -2,9 +2,9 @@
 layout: page
 title: ​PDC
 description: W:14 L:6 D:2 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1270 🔺  (171)|

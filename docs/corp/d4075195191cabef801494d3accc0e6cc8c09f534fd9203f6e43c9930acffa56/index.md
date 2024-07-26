@@ -2,9 +2,9 @@
 layout: page
 title: ​Hamburg AG 2
 description: W:5 L:8 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1195 🔺  (488)|

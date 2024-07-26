@@ -2,9 +2,9 @@
 layout: page
 title: ​On en a Gros ! 
 description: W:23 L:24 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1196 🔻  (479)|

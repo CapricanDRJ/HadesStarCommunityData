@@ -2,9 +2,9 @@
 layout: page
 title: ​Zvezdec
 description: W:29 L:14 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1318 🔺  (96)|

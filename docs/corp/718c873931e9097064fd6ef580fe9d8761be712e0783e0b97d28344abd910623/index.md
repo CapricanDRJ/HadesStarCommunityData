@@ -2,9 +2,9 @@
 layout: page
 title: ​lesescargots
 description: W:36 L:14 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1298 🔺  (123)|

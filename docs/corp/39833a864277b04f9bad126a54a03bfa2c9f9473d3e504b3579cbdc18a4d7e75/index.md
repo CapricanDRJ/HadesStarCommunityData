@@ -2,9 +2,9 @@
 layout: page
 title: ​King's Guard
 description: W:24 L:52 D:5 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 987 🔻  (1171)|

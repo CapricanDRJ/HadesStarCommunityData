@@ -2,9 +2,9 @@
 layout: page
 title: ​TROLL SQUAD
 description: W:11 L:5 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1256 🔻  (203)|

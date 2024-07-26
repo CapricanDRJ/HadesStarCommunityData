@@ -2,9 +2,9 @@
 layout: page
 title: ​Retarts
 description: W:13 L:16 D:1 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1242 🔺  (234)|

@@ -2,9 +2,9 @@
 layout: page
 title: ​СССР
 description: W:24 L:24 D:2 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1157 🔻  (955)|

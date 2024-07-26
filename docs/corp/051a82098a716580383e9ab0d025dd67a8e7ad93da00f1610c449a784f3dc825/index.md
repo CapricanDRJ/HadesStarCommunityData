@@ -1,25 +1,26 @@
 ---
 layout: page
 title: ​ RELAX CZ/SK
-description: W:52 L:20 D:0 Bonus[🟢]
-excerpt: 🟢
+description: W:53 L:20 D:0 Bonus[🟢]
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1376 🔺  (49)|
-| ELO Competitive | 1484 🔺  (27)|
-| Total Matches | 72 |
-| Wins | 52 |
+| ELO Regular | 1392 🔺  (41)|
+| ELO Competitive | 1492 🔺  (25)|
+| Total Matches | 73 |
+| Wins | 53 |
 | Losses | 20 |
 | Draws | 0 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 14 |
 
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) | 1 | 1 | 0 | 2 |
 | [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/) | 3 | 0 | 0 | 3 |
 | [The X \- Files](https://ws.tsl.rocks/corp/f13cb0ae2dbb0654a2067c8749f86bce49edc5b520bd391c7af11948f23a41fb/) | 6 | 0 | 0 | 6 |
 | [Rising star](https://ws.tsl.rocks/corp/b7037efd74e829aa4ac6e49960fa44cebe1477e23d25cf1640594d9168d630db/) | 2 | 1 | 0 | 3 |
@@ -39,6 +40,7 @@ excerpt: 🟢
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/26 | 28-24 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) |
 | ✅ | 2024/07/26 | 46-2 | [Lacuna Holdings](https://ws.tsl.rocks/corp/17f4ece94ed033805ed258868416020d302254e2e3becbd1e25381be7933be76/) |
 | ✅ | 2024/07/20 | 59-3 | [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/) |
 | ✅ | 2024/07/19 | 56-1 | [The X \- Files](https://ws.tsl.rocks/corp/f13cb0ae2dbb0654a2067c8749f86bce49edc5b520bd391c7af11948f23a41fb/) |

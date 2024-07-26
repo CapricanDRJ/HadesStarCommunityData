@@ -2,9 +2,9 @@
 layout: page
 title: ​Enigma
 description: W:5 L:12 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1124 🔻  (1056)|

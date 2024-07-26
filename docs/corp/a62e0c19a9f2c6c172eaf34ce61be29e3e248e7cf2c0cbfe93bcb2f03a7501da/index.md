@@ -2,9 +2,9 @@
 layout: page
 title: ​КОРПОРАЦИЯ ЗЛА
 description: W:7 L:34 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 930 🔻  (1180)|

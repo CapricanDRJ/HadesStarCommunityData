@@ -2,9 +2,9 @@
 layout: page
 title: ​the Rubber Duck
 description: W:5 L:10 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1129 🔻  (1047)|

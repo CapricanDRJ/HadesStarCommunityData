@@ -2,9 +2,9 @@
 layout: page
 title: ​(_(_Vossk_)_)
 description: W:10 L:14 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1179 🔻  (762)|

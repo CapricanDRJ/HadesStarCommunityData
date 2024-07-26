@@ -2,9 +2,9 @@
 layout: page
 title: ​第一序列
 description: W:33 L:34 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1260 🔺  (192)|

@@ -2,9 +2,9 @@
 layout: page
 title: ​Серебряная орда
 description: W:44 L:27 D:2 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1275 🔺  (161)|

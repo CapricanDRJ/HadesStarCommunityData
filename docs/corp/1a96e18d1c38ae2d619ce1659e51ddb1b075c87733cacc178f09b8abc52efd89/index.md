@@ -2,9 +2,9 @@
 layout: page
 title: ​Vermilion
 description: W:1 L:5 D:1 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1152 🔻  (981)|

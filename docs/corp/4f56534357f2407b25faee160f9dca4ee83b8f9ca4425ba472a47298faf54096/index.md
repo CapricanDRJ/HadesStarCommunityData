@@ -2,9 +2,9 @@
 layout: page
 title: ​Z. O. V. 
 description: W:18 L:4 D:1 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1352 🔺  (63)|

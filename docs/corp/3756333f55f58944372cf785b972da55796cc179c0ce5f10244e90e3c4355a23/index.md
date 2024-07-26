@@ -2,9 +2,9 @@
 layout: page
 title: ​Destroyers
 description: W:16 L:16 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1220 🔻  (317)|

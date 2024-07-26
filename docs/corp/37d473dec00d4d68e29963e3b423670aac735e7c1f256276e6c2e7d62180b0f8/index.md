@@ -2,9 +2,9 @@
 layout: page
 title: ​Dumpster Fire 2
 description: W:36 L:40 D:2 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1162 🔻  (923)|

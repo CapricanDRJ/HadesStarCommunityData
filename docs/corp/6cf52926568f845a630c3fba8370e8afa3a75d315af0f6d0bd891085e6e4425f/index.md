@@ -2,9 +2,9 @@
 layout: page
 title: ​Antioch
 description: W:9 L:14 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1162 🔻  (922)|

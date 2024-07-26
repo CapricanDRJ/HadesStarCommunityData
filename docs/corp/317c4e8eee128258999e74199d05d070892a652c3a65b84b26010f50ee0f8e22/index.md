@@ -2,9 +2,9 @@
 layout: page
 title: ​t 72 SwiftKey F
 description: W:5 L:8 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1177 🔻  (770)|

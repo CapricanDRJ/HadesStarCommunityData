@@ -2,9 +2,9 @@
 layout: page
 title: ​Germania
 description: W:16 L:21 D:2 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1124 🔺  (1058)|

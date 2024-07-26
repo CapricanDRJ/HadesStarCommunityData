@@ -2,9 +2,9 @@
 layout: page
 title: ​Killers from Ua
 description: W:4 L:3 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1214 🔺  (361)|

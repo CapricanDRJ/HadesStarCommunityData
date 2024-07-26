@@ -2,9 +2,9 @@
 layout: page
 title: ​Halcon español
 description: W:20 L:9 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1291 🔻  (133)|

@@ -2,9 +2,9 @@
 layout: page
 title: ​BrinySeal
 description: W:34 L:15 D:3 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1343 🔺  (69)|

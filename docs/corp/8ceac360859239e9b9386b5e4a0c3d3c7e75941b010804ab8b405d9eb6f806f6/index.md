@@ -2,9 +2,9 @@
 layout: page
 title: ​Fleet Corp Ares
 description: W:8 L:5 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1263 🔺  (187)|

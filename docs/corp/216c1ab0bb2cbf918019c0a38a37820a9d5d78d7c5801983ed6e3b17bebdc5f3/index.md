@@ -2,9 +2,9 @@
 layout: page
 title: ​lonewolf
 description: W:9 L:10 D:1 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1236 🔺  (258)|

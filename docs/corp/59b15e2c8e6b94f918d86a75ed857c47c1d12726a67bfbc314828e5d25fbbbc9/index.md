@@ -2,9 +2,9 @@
 layout: page
 title: ​..D.E.I.T.Co..
 description: W:6 L:6 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1190 🔻  (520)|

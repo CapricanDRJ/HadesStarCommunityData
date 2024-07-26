@@ -2,9 +2,9 @@
 layout: page
 title: ​Likapa
 description: W:58 L:6 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1575 🔻  (2)|

@@ -2,9 +2,9 @@
 layout: page
 title: ​Quadra FR
 description: W:6 L:3 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1244 🔺  (229)|

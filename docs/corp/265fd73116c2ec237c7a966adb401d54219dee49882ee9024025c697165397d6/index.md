@@ -2,9 +2,9 @@
 layout: page
 title: ​Utd. Human Fed.
 description: W:23 L:20 D:1 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1198 🔺  (470)|

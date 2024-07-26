@@ -2,9 +2,9 @@
 layout: page
 title: ​Blood Hounds
 description: W:52 L:8 D:1 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1511 🔺  (4)|

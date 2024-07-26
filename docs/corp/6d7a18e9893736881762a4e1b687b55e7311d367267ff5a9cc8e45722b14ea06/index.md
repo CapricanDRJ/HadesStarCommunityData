@@ -2,9 +2,9 @@
 layout: page
 title: ​U.S.A
 description: W:8 L:13 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1162 🔻  (928)|

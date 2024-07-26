@@ -2,9 +2,9 @@
 layout: page
 title: ​Corporation
 description: W:15 L:4 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1311 🔻  (109)|

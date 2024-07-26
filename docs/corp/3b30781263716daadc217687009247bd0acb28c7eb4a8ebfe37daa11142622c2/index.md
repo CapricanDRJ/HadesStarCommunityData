@@ -2,9 +2,9 @@
 layout: page
 title: ​雪月永恒
 description: W:6 L:1 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1252 🔺  (210)|

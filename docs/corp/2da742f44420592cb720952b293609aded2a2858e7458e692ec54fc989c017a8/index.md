@@ -2,9 +2,9 @@
 layout: page
 title: ​萌新收留所（目标门集团）
 description: W:1 L:4 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1157 🔻  (951)|

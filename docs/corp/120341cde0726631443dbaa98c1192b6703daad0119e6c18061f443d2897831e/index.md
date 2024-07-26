@@ -2,9 +2,9 @@
 layout: page
 title: ​共产主义舰队
 description: W:7 L:1 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1277 🔺  (160)|

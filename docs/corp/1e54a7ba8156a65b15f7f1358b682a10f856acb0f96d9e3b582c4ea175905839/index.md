@@ -2,9 +2,9 @@
 layout: page
 title: ​Spaceballs
 description: W:12 L:16 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1197 🔻  (476)|

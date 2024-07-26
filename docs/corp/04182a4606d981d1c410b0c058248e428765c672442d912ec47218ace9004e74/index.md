@@ -2,9 +2,9 @@
 layout: page
 title: ​Created
 description: W:5 L:22 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1061 🔻  (1139)|

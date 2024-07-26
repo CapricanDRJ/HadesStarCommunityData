@@ -2,9 +2,9 @@
 layout: page
 title: ​TRAPSTAR¹
 description: W:0 L:2 D:1 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1171 🔻  (854)|

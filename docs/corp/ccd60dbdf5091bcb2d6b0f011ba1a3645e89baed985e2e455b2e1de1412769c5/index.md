@@ -2,9 +2,9 @@
 layout: page
 title: ​Warp Dominion
 description: W:3 L:2 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1212 🔻  (381)|

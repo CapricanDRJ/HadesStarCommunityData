@@ -2,9 +2,9 @@
 layout: page
 title: ​星舰地球
 description: W:1 L:3 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1177 🔺  (768)|

@@ -2,9 +2,9 @@
 layout: page
 title: ​Stardust
 description: W:2 L:16 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1086 🔻  (1116)|

@@ -2,9 +2,9 @@
 layout: page
 title: ​Deadspace
 description: W:16 L:23 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1153 🔺  (973)|

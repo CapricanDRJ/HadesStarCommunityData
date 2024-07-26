@@ -2,9 +2,9 @@
 layout: page
 title: ​Гарри Поттер
 description: W:7 L:2 D:1 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1257 🔺  (198)|

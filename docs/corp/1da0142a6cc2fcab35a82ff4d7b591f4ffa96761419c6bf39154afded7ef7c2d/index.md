@@ -2,9 +2,9 @@
 layout: page
 title: ​Orden Estelar 
 description: W:7 L:7 D:1 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1207 🔺  (401)|

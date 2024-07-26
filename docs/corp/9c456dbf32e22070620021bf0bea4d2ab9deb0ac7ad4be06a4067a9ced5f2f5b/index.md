@@ -2,9 +2,9 @@
 layout: page
 title: ​Anarchy Nation 
 description: W:5 L:2 D:1 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1226 🔻  (295)|

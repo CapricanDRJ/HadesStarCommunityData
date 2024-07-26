@@ -2,9 +2,9 @@
 layout: page
 title: ​АНДРОМЕДА 
 description: W:25 L:30 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1179 🔺  (764)|

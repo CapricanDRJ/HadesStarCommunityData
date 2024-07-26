@@ -2,9 +2,9 @@
 layout: page
 title: ​UAGC
 description: W:22 L:16 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1256 🔺  (204)|

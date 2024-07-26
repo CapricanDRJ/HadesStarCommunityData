@@ -2,9 +2,9 @@
 layout: page
 title: ​SternenStaub
 description: W:20 L:20 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1170 🔺  (875)|

@@ -2,9 +2,9 @@
 layout: page
 title: ​Avalanche 2.0
 description: W:2 L:4 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1174 🔻  (796)|

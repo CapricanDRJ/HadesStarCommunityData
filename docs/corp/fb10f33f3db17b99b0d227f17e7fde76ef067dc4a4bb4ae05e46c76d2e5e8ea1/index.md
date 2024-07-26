@@ -2,9 +2,9 @@
 layout: page
 title: ​Lacuna X
 description: W:32 L:5 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1440 🔻  (19)|

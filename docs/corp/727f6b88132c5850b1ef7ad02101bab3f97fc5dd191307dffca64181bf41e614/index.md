@@ -2,9 +2,9 @@
 layout: page
 title: ​STRVS233～
 description: W:12 L:7 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1259 🔺  (193)|

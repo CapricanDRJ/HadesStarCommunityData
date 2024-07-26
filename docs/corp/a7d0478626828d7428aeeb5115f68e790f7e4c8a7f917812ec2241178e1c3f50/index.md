@@ -2,9 +2,9 @@
 layout: page
 title: ​Альянс
 description: W:25 L:9 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1323 🔻  (91)|

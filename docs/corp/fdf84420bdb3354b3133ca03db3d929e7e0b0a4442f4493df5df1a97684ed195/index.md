@@ -2,9 +2,9 @@
 layout: page
 title: ​Северный флот 
 description: W:2 L:0 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1230 🔺  (274)|

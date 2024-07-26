@@ -2,9 +2,9 @@
 layout: page
 title: ​万星联盟
 description: W:10 L:0 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1324 🔺  (90)|

@@ -2,9 +2,9 @@
 layout: page
 title: ​USSR
 description: W:2 L:1 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1221 🔻  (314)|

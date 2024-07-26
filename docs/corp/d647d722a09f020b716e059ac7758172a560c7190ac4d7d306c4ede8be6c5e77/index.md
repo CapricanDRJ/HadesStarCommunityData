@@ -2,9 +2,9 @@
 layout: page
 title: ​Void
 description: W:6 L:7 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1189 🔺  (536)|

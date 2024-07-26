@@ -2,9 +2,9 @@
 layout: page
 title: ​探索舰队
 description: W:16 L:13 D:1 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1190 🔻  (525)|

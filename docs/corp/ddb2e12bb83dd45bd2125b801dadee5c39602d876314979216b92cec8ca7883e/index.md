@@ -2,9 +2,9 @@
 layout: page
 title: ​Metal Nova
 description: W:2 L:0 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1229 🔺  (279)|

@@ -2,9 +2,9 @@
 layout: page
 title: ​Cerulean Nebula
 description: W:14 L:10 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1247 🔺  (219)|

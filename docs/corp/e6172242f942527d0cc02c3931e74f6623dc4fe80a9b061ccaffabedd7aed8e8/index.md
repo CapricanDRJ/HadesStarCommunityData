@@ -2,9 +2,9 @@
 layout: page
 title: ​F.E.I.
 description: W:0 L:1 D:2 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1182 🔻  (746)|

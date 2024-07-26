@@ -2,9 +2,9 @@
 layout: page
 title: ​украина№1
 description: W:23 L:19 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1249 🔻  (217)|

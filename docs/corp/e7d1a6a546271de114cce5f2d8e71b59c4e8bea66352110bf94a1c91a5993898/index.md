@@ -2,9 +2,9 @@
 layout: page
 title: ​SALTARDIS
 description: W:2 L:6 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1154 🔻  (968)|

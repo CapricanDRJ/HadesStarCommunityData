@@ -2,9 +2,9 @@
 layout: page
 title: ​Legion Prime
 description: W:11 L:12 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1190 🔻  (530)|

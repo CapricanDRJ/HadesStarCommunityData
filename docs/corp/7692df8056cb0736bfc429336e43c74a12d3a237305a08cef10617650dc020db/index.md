@@ -2,9 +2,9 @@
 layout: page
 title: ​世外桃源
 description: W:9 L:77 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 854 🔺  (1181)|

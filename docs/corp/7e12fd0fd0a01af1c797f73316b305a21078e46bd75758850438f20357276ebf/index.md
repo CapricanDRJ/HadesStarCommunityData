@@ -2,9 +2,9 @@
 layout: page
 title: ​碧霄殿
 description: W:4 L:1 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1251 🔺  (212)|

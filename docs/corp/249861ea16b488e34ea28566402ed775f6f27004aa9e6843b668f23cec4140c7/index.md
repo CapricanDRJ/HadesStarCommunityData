@@ -2,9 +2,9 @@
 layout: page
 title: ​HAL
 description: W:3 L:0 D:1 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1242 🔺  (235)|

@@ -2,9 +2,9 @@
 layout: page
 title: ​INFINITY STAR
 description: W:4 L:6 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1175 🔻  (790)|

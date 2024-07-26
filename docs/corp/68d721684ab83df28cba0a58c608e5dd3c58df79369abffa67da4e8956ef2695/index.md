@@ -2,9 +2,9 @@
 layout: page
 title: ​koalition
 description: W:8 L:3 D:1 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1272 🔺  (167)|

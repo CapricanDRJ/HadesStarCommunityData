@@ -2,9 +2,9 @@
 layout: page
 title: ​Los Unidos 
 description: W:7 L:8 D:1 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔺  (576)|

@@ -2,9 +2,9 @@
 layout: page
 title: ​Furyans
 description: W:1 L:0 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1216 🔺  (334)|

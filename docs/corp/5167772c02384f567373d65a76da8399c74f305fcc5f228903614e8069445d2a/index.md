@@ -2,9 +2,9 @@
 layout: page
 title: ​Spiritic Beacon
 description: W:5 L:4 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1203 🔻  (413)|

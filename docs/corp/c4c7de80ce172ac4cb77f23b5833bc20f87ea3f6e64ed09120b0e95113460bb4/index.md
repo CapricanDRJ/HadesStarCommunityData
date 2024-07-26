@@ -2,9 +2,9 @@
 layout: page
 title: ​imperio estelar
 description: W:0 L:5 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1136 🔻  (1031)|

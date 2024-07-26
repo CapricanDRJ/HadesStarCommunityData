@@ -2,9 +2,9 @@
 layout: page
 title: ​游徒训练营
 description: W:2 L:5 D:1 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1164 🔻  (911)|

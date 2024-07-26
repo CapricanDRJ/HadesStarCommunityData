@@ -2,12 +2,12 @@
 layout: page
 title: ​Outland Ind.
 description: W:30 L:11 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1388 🔺  (42)|
+| ELO Regular | 1388 🔺  (43)|
 | ELO Competitive | 1440 🔺  (53)|
 | Total Matches | 41 |
 | Wins | 30 |

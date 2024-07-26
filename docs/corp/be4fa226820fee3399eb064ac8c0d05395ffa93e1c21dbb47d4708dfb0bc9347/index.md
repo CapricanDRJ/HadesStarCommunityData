@@ -2,9 +2,9 @@
 layout: page
 title: ​Рейнджеры
 description: W:6 L:14 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1127 🔺  (1052)|

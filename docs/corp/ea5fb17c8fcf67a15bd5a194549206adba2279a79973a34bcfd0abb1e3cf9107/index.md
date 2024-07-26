@@ -2,9 +2,9 @@
 layout: page
 title: ​Continuum
 description: W:51 L:27 D:1 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1403 🔺  (31)|

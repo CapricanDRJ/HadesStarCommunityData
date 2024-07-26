@@ -2,9 +2,9 @@
 layout: page
 title: ​八月政府
 description: W:2 L:17 D:1 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1069 🔻  (1131)|

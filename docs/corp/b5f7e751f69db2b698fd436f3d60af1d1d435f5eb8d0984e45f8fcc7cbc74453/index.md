@@ -2,9 +2,9 @@
 layout: page
 title: ​边界-萌新俱乐部
 description: W:2 L:0 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1229 🔺  (279)|

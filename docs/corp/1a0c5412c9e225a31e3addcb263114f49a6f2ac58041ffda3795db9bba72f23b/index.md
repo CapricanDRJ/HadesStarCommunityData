@@ -2,9 +2,9 @@
 layout: page
 title: ​Kratos
 description: W:37 L:17 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1344 🔺  (67)|

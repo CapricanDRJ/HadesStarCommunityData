@@ -2,9 +2,9 @@
 layout: page
 title: ​СНГ — РОССИЯ
 description: W:4 L:8 D:3 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1139 🔻  (1018)|

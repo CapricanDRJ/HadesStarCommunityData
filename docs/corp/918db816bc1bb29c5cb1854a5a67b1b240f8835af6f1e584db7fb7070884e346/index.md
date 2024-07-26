@@ -2,9 +2,9 @@
 layout: page
 title: ​Polaris Corpo
 description: W:7 L:3 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1239 🔻  (244)|

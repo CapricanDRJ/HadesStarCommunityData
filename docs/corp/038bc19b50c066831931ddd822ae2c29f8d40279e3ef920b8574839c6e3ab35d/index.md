@@ -2,9 +2,9 @@
 layout: page
 title: ​咕咕咕咕咕咕咕咕咕咕咕咕咕咕咕
 description: W:0 L:3 D:2 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1159 🔺  (940)|

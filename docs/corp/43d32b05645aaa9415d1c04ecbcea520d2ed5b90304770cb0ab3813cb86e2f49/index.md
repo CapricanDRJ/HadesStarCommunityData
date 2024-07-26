@@ -2,9 +2,9 @@
 layout: page
 title: ​붉은늑대
 description: W:33 L:38 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1180 🔺  (757)|

@@ -2,9 +2,9 @@
 layout: page
 title: ​Star Field
 description: W:7 L:1 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1306 🔺  (116)|

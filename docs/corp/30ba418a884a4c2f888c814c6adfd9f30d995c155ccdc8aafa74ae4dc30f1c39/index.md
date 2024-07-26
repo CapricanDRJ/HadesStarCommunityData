@@ -2,9 +2,9 @@
 layout: page
 title: ​titan tv
 description: W:9 L:22 D:1 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1091 🔺  (1108)|

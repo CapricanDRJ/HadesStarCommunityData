@@ -2,9 +2,9 @@
 layout: page
 title: ​Star Destroyers
 description: W:23 L:14 D:1 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1358 🔺  (58)|

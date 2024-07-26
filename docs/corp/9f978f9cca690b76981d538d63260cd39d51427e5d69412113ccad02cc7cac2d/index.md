@@ -2,9 +2,9 @@
 layout: page
 title: ​Soylent Corp.
 description: W:22 L:11 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1265 🔻  (180)|

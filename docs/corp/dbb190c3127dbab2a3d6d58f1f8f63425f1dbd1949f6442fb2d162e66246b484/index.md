@@ -2,9 +2,9 @@
 layout: page
 title: ​ANZAC Warriors
 description: W:16 L:5 D:1 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1288 🔻  (139)|

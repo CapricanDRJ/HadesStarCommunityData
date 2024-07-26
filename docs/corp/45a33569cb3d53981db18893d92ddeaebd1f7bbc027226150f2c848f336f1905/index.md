@@ -2,9 +2,9 @@
 layout: page
 title: ​Bloodtide
 description: W:35 L:33 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1172 🔻  (834)|

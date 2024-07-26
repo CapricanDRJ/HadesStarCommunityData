@@ -2,9 +2,9 @@
 layout: page
 title: ​Curcubeu
 description: W:17 L:10 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1222 🔻  (309)|

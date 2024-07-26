@@ -2,9 +2,9 @@
 layout: page
 title: ​Wompwompway 
 description: W:24 L:8 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1341 🔻  (73)|

@@ -2,9 +2,9 @@
 layout: page
 title: ​AKA
 description: W:0 L:10 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1082 🔻  (1120)|

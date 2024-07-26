@@ -2,9 +2,9 @@
 layout: page
 title: ​Star Dust
 description: W:2 L:3 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1191 🔻  (518)|

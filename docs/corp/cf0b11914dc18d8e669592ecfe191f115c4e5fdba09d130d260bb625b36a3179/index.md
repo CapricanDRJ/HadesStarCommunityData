@@ -2,9 +2,9 @@
 layout: page
 title: ​四季长春
 description: W:14 L:22 D:5 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1157 🔺  (952)|

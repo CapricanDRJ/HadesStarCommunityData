@@ -2,9 +2,9 @@
 layout: page
 title: ​LOST PIRATES
 description: W:0 L:5 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1131 🔻  (1042)|

@@ -2,9 +2,9 @@
 layout: page
 title: ​E.T.A 二营
 description: W:0 L:9 D:2 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1092 🔺  (1107)|

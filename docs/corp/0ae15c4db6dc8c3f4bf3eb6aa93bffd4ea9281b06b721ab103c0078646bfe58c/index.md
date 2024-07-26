@@ -2,9 +2,9 @@
 layout: page
 title: ​Спутник
 description: W:31 L:7 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1396 🔺  (37)|

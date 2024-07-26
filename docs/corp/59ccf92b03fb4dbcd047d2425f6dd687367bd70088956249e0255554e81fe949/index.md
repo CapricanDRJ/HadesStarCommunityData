@@ -2,9 +2,9 @@
 layout: page
 title: ​Prometheus ESP
 description: W:11 L:9 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1212 🔻  (383)|

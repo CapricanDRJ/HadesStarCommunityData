@@ -2,9 +2,9 @@
 layout: page
 title: ​Toxic
 description: W:1 L:6 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1138 🔻  (1023)|

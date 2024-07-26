@@ -2,9 +2,9 @@
 layout: page
 title: ​Free Thinkers 2
 description: W:3 L:43 D:1 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 947 🔻  (1178)|

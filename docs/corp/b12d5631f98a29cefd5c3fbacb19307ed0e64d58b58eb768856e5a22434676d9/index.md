@@ -2,9 +2,9 @@
 layout: page
 title: ​BlackDawn
 description: W:1 L:14 D:5 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1045 🔻  (1147)|

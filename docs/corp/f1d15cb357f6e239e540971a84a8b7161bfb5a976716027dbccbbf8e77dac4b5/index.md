@@ -2,9 +2,9 @@
 layout: page
 title: ​Новый ЭДЭМ
 description: W:2 L:3 D:1 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (690)|

@@ -2,13 +2,13 @@
 layout: page
 title: ​Stargate Corp
 description: W:35 L:15 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1354 🔺  (62)|
-| ELO Competitive | 1483 🔺  (28)|
+| ELO Competitive | 1483 🔺  (27)|
 | Total Matches | 50 |
 | Wins | 35 |
 | Losses | 15 |

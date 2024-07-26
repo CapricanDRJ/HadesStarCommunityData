@@ -2,9 +2,9 @@
 layout: page
 title: ​NoweUkladyII
 description: W:10 L:0 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1311 🔺  (110)|

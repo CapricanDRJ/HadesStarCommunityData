@@ -2,9 +2,9 @@
 layout: page
 title: ​Slovensko-Activ
 description: W:0 L:13 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1065 🔻  (1135)|

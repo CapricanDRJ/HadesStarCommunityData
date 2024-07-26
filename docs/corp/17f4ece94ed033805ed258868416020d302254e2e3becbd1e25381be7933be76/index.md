@@ -2,9 +2,9 @@
 layout: page
 title: ​Lacuna Holdings
 description: W:21 L:13 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1245 🔻  (227)|

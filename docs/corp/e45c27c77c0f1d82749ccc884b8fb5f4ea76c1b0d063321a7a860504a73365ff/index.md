@@ -2,9 +2,9 @@
 layout: page
 title: ​battlesquadron
 description: W:1 L:4 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1172 🔺  (822)|

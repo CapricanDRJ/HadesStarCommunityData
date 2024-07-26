@@ -2,9 +2,9 @@
 layout: page
 title: ​Red Alliance
 description: W:6 L:5 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1196 🔻  (483)|

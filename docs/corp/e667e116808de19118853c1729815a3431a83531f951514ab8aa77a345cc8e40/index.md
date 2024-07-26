@@ -2,9 +2,9 @@
 layout: page
 title: ​Highlife
 description: W:18 L:18 D:1 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1167 🔻  (894)|

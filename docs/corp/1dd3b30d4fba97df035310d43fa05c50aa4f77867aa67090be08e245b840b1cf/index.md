@@ -2,9 +2,9 @@
 layout: page
 title: ​Solysis
 description: W:3 L:7 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1137 🔻  (1027)|

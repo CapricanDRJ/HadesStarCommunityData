@@ -2,9 +2,9 @@
 layout: page
 title: ​StellarCorpIT
 description: W:8 L:1 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1299 🔺  (122)|

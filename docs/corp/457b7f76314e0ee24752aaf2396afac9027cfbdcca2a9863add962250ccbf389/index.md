@@ -2,12 +2,12 @@
 layout: page
 title: ​Лунный Феникс
 description: W:34 L:16 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1390 🔻  (41)|
+| ELO Regular | 1390 🔻  (42)|
 | ELO Competitive | 1452 🔻  (45)|
 | Total Matches | 50 |
 | Wins | 34 |

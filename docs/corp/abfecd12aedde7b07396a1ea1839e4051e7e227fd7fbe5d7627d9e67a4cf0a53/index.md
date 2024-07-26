@@ -2,9 +2,9 @@
 layout: page
 title: ​C.C Legion
 description: W:5 L:1 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1256 🔺  (202)|

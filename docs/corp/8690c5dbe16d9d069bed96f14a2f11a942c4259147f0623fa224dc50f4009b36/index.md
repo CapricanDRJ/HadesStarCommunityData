@@ -2,9 +2,9 @@
 layout: page
 title: ​Кулак
 description: W:8 L:43 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 997 🔻  (1169)|

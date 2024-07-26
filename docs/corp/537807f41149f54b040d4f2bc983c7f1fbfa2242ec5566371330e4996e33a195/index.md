@@ -2,9 +2,9 @@
 layout: page
 title: ​Tormenta
 description: W:2 L:5 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1183 🔺  (727)|

@@ -2,9 +2,9 @@
 layout: page
 title: ​Лютые
 description: W:10 L:9 D:1 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1233 🔻  (267)|

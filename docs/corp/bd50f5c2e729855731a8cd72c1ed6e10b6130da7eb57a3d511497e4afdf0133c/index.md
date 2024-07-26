@@ -2,9 +2,9 @@
 layout: page
 title: ​Imperium
 description: W:1 L:0 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1214 🔺  (357)|

@@ -2,9 +2,9 @@
 layout: page
 title: ​CCCP
 description: W:1 L:6 D:2 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1132 🔺  (1040)|

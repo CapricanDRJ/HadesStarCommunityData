@@ -2,9 +2,9 @@
 layout: page
 title: ​DarkMoon
 description: W:19 L:10 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1311 🔻  (108)|

@@ -2,9 +2,9 @@
 layout: page
 title: ​BlackStar Order
 description: W:45 L:29 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1332 🔺  (79)|

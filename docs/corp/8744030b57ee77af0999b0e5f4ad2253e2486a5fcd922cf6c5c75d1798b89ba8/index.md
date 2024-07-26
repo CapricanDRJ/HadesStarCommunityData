@@ -2,9 +2,9 @@
 layout: page
 title: ​UNSC
 description: W:4 L:2 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1215 🔺  (344)|

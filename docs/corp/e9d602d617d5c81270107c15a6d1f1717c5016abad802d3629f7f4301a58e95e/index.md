@@ -2,12 +2,12 @@
 layout: page
 title: ​元素联邦
 description: W:24 L:13 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1373 🔺  (50)|
+| ELO Regular | 1373 🔺  (49)|
 | ELO Competitive | 1409 🔺  (77)|
 | Total Matches | 37 |
 | Wins | 24 |

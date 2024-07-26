@@ -2,9 +2,9 @@
 layout: page
 title: ​初始之音
 description: W:11 L:14 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1163 🔻  (916)|

@@ -2,9 +2,9 @@
 layout: page
 title: ​Star Fleet
 description: W:7 L:16 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1155 🔻  (966)|

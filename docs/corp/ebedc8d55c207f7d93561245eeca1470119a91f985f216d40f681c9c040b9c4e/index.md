@@ -2,9 +2,9 @@
 layout: page
 title: ​Frontier X
 description: W:9 L:4 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1262 🔻  (189)|

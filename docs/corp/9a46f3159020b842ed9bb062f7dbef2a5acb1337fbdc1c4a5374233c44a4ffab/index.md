@@ -2,9 +2,9 @@
 layout: page
 title: ​Capibarius
 description: W:5 L:1 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1259 🔺  (196)|

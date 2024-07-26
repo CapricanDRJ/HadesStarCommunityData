@@ -2,9 +2,9 @@
 layout: page
 title: ​StellaMysterium
 description: W:16 L:19 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1203 🔺  (415)|

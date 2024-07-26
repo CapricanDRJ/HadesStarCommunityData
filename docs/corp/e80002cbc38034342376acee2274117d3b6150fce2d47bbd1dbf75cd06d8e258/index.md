@@ -2,9 +2,9 @@
 layout: page
 title: ​OPA
 description: W:26 L:10 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1342 🔻  (71)|

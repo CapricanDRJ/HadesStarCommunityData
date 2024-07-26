@@ -2,9 +2,9 @@
 layout: page
 title: ​宇宙联盟（中国）
 description: W:12 L:28 D:3 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1089 🔻  (1112)|

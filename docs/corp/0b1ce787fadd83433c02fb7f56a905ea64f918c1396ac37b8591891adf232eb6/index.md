@@ -2,9 +2,9 @@
 layout: page
 title: ​Kelebra
 description: W:6 L:5 D:1 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1206 🔻  (403)|

@@ -2,9 +2,9 @@
 layout: page
 title: ​j g f h me t y 
 description: W:5 L:9 D:1 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1146 🔻  (999)|

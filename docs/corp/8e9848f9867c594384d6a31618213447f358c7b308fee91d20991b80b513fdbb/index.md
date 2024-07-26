@@ -2,9 +2,9 @@
 layout: page
 title: ​Albedo
 description: W:23 L:6 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1330 🔻  (80)|

@@ -2,9 +2,9 @@
 layout: page
 title: ​星际集团
 description: W:2 L:4 D:2 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1160 🔻  (934)|

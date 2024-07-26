@@ -2,9 +2,9 @@
 layout: page
 title: ​Stellaris
 description: W:0 L:6 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1134 🔻  (1036)|

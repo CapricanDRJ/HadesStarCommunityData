@@ -2,9 +2,9 @@
 layout: page
 title: ​DESERT DEMONS
 description: W:0 L:2 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1169 🔻  (877)|

@@ -2,9 +2,9 @@
 layout: page
 title: ​柯伊伯带
 description: W:58 L:1 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1625 🔺  (1)|

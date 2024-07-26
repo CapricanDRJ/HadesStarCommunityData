@@ -2,9 +2,9 @@
 layout: page
 title: ​Pixies
 description: W:3 L:2 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1213 🔺  (371)|

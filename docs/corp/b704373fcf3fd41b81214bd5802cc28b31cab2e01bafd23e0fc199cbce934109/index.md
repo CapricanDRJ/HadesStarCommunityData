@@ -2,9 +2,9 @@
 layout: page
 title: ​pegaso
 description: W:0 L:4 D:2 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1147 🔻  (996)|

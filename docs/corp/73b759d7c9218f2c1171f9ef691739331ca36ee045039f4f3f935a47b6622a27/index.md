@@ -2,9 +2,9 @@
 layout: page
 title: ​AAAA
 description: W:2 L:5 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1166 🔻  (899)|

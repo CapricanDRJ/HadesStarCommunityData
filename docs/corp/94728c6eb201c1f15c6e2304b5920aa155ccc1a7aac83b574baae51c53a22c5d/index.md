@@ -2,9 +2,9 @@
 layout: page
 title: ​Galaxians
 description: W:11 L:13 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1195 🔻  (496)|

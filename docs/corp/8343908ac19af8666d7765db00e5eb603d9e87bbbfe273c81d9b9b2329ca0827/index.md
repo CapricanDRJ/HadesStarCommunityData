@@ -2,9 +2,9 @@
 layout: page
 title: ​Inexorable
 description: W:18 L:11 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1229 🔻  (284)|

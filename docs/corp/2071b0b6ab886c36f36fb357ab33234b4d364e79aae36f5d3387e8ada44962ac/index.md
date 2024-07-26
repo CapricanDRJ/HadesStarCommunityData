@@ -2,9 +2,9 @@
 layout: page
 title: ​korea
 description: W:23 L:6 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1343 🔻  (68)|

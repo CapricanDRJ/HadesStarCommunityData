@@ -2,9 +2,9 @@
 layout: page
 title: ​РОДНЫЕ.
 description: W:4 L:5 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1199 🔻  (461)|

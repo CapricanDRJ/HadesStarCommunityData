@@ -2,9 +2,9 @@
 layout: page
 title: ​The Allegiant
 description: W:17 L:8 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1277 🔺  (158)|

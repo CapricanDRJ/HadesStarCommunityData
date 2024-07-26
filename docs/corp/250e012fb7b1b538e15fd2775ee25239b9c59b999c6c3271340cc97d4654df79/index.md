@@ -2,9 +2,9 @@
 layout: page
 title: ​italian warrior
 description: W:12 L:16 D:1 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1222 🔺  (311)|

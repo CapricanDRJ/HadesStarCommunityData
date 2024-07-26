@@ -2,9 +2,9 @@
 layout: page
 title: ​Alpha 
 description: W:7 L:27 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1028 🔻  (1157)|

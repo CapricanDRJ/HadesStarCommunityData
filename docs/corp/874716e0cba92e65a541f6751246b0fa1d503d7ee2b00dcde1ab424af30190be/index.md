@@ -2,9 +2,9 @@
 layout: page
 title: ​ༀᅗBAR ESTELARᅗༀ
 description: W:1 L:11 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1118 🔻  (1069)|

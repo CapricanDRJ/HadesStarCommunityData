@@ -2,9 +2,9 @@
 layout: page
 title: ​●Black•Sails●
 description: W:13 L:10 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1222 🔻  (310)|

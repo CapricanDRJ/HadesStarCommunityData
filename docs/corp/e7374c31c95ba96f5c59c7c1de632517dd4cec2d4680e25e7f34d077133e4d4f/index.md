@@ -2,9 +2,9 @@
 layout: page
 title: ​九州分团
 description: W:30 L:36 D:2 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1279 🔺  (157)|

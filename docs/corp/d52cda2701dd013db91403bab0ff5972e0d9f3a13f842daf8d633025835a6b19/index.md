@@ -2,9 +2,9 @@
 layout: page
 title: ​The Galxey █
 description: W:5 L:29 D:2 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1000 🔺  (1167)|

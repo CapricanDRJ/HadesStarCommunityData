@@ -2,9 +2,9 @@
 layout: page
 title: ​Hermitage
 description: W:10 L:7 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1226 🔻  (296)|

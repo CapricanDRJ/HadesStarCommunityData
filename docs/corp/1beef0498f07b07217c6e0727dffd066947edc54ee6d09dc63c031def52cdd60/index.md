@@ -2,9 +2,9 @@
 layout: page
 title: ​ 墨痕 
 description: W:7 L:11 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1149 🔺  (987)|

@@ -2,9 +2,9 @@
 layout: page
 title: ​МеГаКо
 description: W:14 L:13 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1224 🔺  (306)|

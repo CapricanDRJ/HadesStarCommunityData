@@ -2,9 +2,9 @@
 layout: page
 title: ​NEW HOLLAND
 description: W:1 L:8 D:1 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1116 🔻  (1072)|

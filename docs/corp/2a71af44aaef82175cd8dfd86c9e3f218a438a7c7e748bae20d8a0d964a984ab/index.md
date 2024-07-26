@@ -2,9 +2,9 @@
 layout: page
 title: ​神圣罗马帝国
 description: W:19 L:39 D:1 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1100 🔻  (1097)|

@@ -2,9 +2,9 @@
 layout: page
 title: ​SYNDICATE
 description: W:5 L:0 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1271 🔺  (168)|

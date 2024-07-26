@@ -2,9 +2,9 @@
 layout: page
 title: ​SEC
 description: W:6 L:0 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1282 🔺  (153)|

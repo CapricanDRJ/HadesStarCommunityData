@@ -2,9 +2,9 @@
 layout: page
 title: ​Корпорация Миф
 description: W:8 L:0 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1303 🔺  (119)|

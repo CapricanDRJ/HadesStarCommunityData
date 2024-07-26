@@ -2,13 +2,13 @@
 layout: page
 title: ​Emergence
 description: W:25 L:2 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1441 🔺  (18)|
-| ELO Competitive | 1481 🔺  (30)|
+| ELO Competitive | 1481 🔺  (29)|
 | Total Matches | 27 |
 | Wins | 25 |
 | Losses | 2 |

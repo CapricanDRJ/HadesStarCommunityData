@@ -2,9 +2,9 @@
 layout: page
 title: ​The Syndicate 
 description: W:14 L:1 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1360 🔺  (56)|

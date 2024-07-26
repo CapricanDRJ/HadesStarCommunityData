@@ -2,9 +2,9 @@
 layout: page
 title: ​지고받자
 description: W:0 L:9 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1090 🔻  (1109)|

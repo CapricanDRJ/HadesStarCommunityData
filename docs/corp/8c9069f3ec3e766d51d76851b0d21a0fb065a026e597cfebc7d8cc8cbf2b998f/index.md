@@ -2,9 +2,9 @@
 layout: page
 title: ​TheBasics
 description: W:29 L:36 D:1 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1110 🔻  (1085)|

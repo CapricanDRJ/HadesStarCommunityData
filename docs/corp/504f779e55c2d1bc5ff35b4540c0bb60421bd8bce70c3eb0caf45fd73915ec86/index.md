@@ -2,9 +2,9 @@
 layout: page
 title: ​U.Y.E.U.
 description: W:4 L:11 D:3 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1121 🔻  (1064)|

@@ -2,9 +2,9 @@
 layout: page
 title: ​pirates spatial
 description: W:38 L:29 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1284 🔺  (146)|

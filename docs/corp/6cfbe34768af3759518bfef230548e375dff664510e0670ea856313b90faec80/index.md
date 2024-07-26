@@ -2,9 +2,9 @@
 layout: page
 title: ​Goa'uld
 description: W:0 L:1 D:2 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1181 🔻  (748)|

@@ -2,9 +2,9 @@
 layout: page
 title: ​Highland Ind. 
 description: W:10 L:10 D:1 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1182 🔻  (741)|

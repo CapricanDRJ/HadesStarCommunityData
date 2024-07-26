@@ -2,9 +2,9 @@
 layout: page
 title: ​한국인
 description: W:31 L:14 D:3 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1296 🔻  (126)|

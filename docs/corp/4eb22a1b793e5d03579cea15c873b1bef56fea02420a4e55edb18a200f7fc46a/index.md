@@ -2,9 +2,9 @@
 layout: page
 title: ​империя тьмы
 description: W:12 L:21 D:2 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1097 🔻  (1100)|

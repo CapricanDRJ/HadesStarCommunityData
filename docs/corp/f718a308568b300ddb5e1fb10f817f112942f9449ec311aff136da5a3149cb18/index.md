@@ -2,9 +2,9 @@
 layout: page
 title: ​Gwiezdna Horda
 description: W:4 L:0 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1255 🔺  (207)|

@@ -2,9 +2,9 @@
 layout: page
 title: ​Russian Style
 description: W:3 L:6 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1160 🔻  (935)|

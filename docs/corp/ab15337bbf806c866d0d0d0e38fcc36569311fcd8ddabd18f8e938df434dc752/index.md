@@ -2,9 +2,9 @@
 layout: page
 title: ​Mecha Armada
 description: W:2 L:1 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1216 🔺  (335)|

@@ -2,9 +2,9 @@
 layout: page
 title: ​UK Armada
 description: W:3 L:2 D:1 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1212 🔻  (385)|

@@ -2,9 +2,9 @@
 layout: page
 title: ​ZN•H2B
 description: W:4 L:9 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1152 🔻  (979)|

@@ -2,9 +2,9 @@
 layout: page
 title: ​Survivors
 description: W:4 L:11 D:1 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1123 🔻  (1059)|

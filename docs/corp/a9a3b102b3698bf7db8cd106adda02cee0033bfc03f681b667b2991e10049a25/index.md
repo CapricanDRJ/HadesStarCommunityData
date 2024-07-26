@@ -2,9 +2,9 @@
 layout: page
 title: ​Млечный путь
 description: W:12 L:13 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1227 🔻  (292)|

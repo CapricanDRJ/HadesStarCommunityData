@@ -2,9 +2,9 @@
 layout: page
 title: ​하데스 스타 코리아
 description: W:9 L:7 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1239 🔺  (245)|

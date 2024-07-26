@@ -2,9 +2,9 @@
 layout: page
 title: ​L.P.A.
 description: W:2 L:1 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1212 🔻  (382)|

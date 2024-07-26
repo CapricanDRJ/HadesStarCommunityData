@@ -2,9 +2,9 @@
 layout: page
 title: ​Зелёная корпа
 description: W:4 L:4 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1202 🔻  (422)|

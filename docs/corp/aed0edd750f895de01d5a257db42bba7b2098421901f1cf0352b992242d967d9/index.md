@@ -2,9 +2,9 @@
 layout: page
 title: ​Ws Polaris
 description: W:3 L:14 D:2 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1086 🔻  (1115)|

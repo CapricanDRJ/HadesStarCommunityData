@@ -2,9 +2,9 @@
 layout: page
 title: ​Team Rainbow
 description: W:1 L:2 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1193 🔻  (502)|

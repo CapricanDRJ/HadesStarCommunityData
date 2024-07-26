@@ -2,9 +2,9 @@
 layout: page
 title: ​Team Elite
 description: W:1 L:2 D:1 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1191 🔻  (513)|

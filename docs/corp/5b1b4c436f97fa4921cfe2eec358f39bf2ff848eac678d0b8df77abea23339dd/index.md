@@ -2,9 +2,9 @@
 layout: page
 title: ​Planet Express
 description: W:0 L:3 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1158 🔻  (950)|

@@ -2,9 +2,9 @@
 layout: page
 title: ​专业间谍团队
 description: W:0 L:1 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1193 🔻  (506)|

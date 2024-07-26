@@ -2,9 +2,9 @@
 layout: page
 title: ​Peace Keepers
 description: W:10 L:33 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1031 🔻  (1153)|

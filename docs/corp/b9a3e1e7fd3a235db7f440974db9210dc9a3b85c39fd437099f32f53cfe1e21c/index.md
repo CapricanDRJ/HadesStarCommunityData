@@ -2,9 +2,9 @@
 layout: page
 title: ​星舰月球
 description: W:29 L:8 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1433 🔺  (20)|

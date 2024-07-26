@@ -2,9 +2,9 @@
 layout: page
 title: ​sk cz nebula
 description: W:11 L:3 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1310 🔻  (111)|

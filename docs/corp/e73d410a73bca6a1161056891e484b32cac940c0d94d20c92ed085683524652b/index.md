@@ -2,9 +2,9 @@
 layout: page
 title: ​Polish Pirates
 description: W:14 L:12 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1245 🔻  (225)|

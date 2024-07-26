@@ -2,9 +2,9 @@
 layout: page
 title: ​Death Flight
 description: W:13 L:41 D:1 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1016 🔻  (1164)|

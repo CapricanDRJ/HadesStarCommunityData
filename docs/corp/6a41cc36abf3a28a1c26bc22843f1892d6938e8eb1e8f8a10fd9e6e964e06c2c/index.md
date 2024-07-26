@@ -2,9 +2,9 @@
 layout: page
 title: ​Space Marshalls
 description: W:28 L:18 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1232 🔻  (270)|

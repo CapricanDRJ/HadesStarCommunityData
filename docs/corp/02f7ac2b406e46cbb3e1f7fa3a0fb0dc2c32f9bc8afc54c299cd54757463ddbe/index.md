@@ -2,9 +2,9 @@
 layout: page
 title: ​ItaFederalFleet
 description: W:15 L:5 D:1 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1325 🔺  (88)|

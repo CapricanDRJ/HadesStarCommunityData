@@ -2,9 +2,9 @@
 layout: page
 title: ​Hand Of NOD! 
 description: W:31 L:4 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1456 🔺  (17)|

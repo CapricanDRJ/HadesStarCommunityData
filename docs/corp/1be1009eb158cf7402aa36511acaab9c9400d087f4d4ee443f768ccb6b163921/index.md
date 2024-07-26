@@ -2,9 +2,9 @@
 layout: page
 title: ​红日初升，其道大光
 description: W:6 L:0 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1280 🔺  (155)|

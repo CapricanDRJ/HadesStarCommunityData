@@ -2,9 +2,9 @@
 layout: page
 title: ​Eastern Front
 description: W:29 L:34 D:1 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1172 🔻  (824)|

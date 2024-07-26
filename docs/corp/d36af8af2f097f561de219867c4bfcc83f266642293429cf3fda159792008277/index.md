@@ -2,9 +2,9 @@
 layout: page
 title: ​新纪元舰队
 description: W:4 L:12 D:2 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1117 🔻  (1070)|

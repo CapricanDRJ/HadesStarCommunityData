@@ -2,9 +2,9 @@
 layout: page
 title: ​边缘世界
 description: W:3 L:2 D:2 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1210 🔻  (392)|

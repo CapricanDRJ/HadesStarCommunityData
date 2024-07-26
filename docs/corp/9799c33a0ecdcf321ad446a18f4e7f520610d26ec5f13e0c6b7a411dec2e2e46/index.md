@@ -2,9 +2,9 @@
 layout: page
 title: ​Weyland Yutani 
 description: W:12 L:23 D:3 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1126 🔻  (1054)|

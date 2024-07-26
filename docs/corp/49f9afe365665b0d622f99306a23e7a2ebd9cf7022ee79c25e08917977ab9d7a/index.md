@@ -2,9 +2,9 @@
 layout: page
 title: ​TECH CO
 description: W:9 L:17 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1123 🔻  (1061)|

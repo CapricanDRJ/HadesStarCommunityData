@@ -2,9 +2,9 @@
 layout: page
 title: ​Lost Legion
 description: W:20 L:35 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1113 🔺  (1082)|

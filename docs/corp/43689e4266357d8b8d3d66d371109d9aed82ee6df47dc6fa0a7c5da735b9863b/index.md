@@ -2,9 +2,9 @@
 layout: page
 title: ​The trade pub
 description: W:15 L:19 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1149 🔺  (988)|

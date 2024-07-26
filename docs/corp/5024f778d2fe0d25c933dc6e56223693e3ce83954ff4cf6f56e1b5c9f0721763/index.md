@@ -2,9 +2,9 @@
 layout: page
 title: ​中国航天科技集团（CASC）
 description: W:0 L:2 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1171 🔻  (849)|

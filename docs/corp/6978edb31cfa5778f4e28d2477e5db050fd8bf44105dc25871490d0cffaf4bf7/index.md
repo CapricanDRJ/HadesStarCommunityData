@@ -2,9 +2,9 @@
 layout: page
 title: ​Int. Trading Co
 description: W:16 L:9 D:1 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1300 🔻  (121)|

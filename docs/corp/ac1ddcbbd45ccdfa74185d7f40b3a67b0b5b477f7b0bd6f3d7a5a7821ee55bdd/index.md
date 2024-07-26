@@ -2,9 +2,9 @@
 layout: page
 title: ​Widow Makers
 description: W:3 L:2 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1220 🔻  (316)|

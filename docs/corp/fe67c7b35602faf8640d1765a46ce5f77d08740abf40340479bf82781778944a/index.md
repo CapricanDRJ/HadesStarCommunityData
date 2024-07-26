@@ -2,9 +2,9 @@
 layout: page
 title: ​水星联合组织
 description: W:3 L:3 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1199 🔻  (455)|

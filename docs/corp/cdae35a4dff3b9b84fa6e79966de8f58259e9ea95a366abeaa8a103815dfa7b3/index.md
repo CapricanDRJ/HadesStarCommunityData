@@ -2,9 +2,9 @@
 layout: page
 title: ​Grand Mechanism
 description: W:2 L:5 D:1 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1168 🔻  (892)|

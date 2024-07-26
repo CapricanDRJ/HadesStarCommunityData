@@ -2,9 +2,9 @@
 layout: page
 title: ​🌪TORNADO 
 description: W:6 L:8 D:3 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1183 🔺  (728)|

@@ -2,9 +2,9 @@
 layout: page
 title: ​Death Star llc.
 description: W:40 L:8 D:1 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1461 🔻  (15)|

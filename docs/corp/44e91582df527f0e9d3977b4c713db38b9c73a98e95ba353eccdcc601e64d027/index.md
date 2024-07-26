@@ -2,9 +2,9 @@
 layout: page
 title: ​Stellar Exports
 description: W:34 L:24 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1253 🔺  (209)|

@@ -2,9 +2,9 @@
 layout: page
 title: ​星环建设集团
 description: W:6 L:6 D:2 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1188 🔻  (547)|

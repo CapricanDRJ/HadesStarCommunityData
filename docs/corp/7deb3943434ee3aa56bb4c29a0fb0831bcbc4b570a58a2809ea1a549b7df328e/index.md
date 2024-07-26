@@ -2,9 +2,9 @@
 layout: page
 title: ​Sith Empire
 description: W:19 L:29 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1194 🔺  (500)|

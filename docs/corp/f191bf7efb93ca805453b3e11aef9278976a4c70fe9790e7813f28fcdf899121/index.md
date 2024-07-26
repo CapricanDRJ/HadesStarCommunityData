@@ -2,9 +2,9 @@
 layout: page
 title: ​Dumpster Fire
 description: W:15 L:31 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1095 🔺  (1103)|

@@ -2,9 +2,9 @@
 layout: page
 title: ​Poggy Rockers
 description: W:23 L:8 D:2 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1287 🔻  (142)|

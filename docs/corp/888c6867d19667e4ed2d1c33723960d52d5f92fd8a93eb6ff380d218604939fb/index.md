@@ -2,9 +2,9 @@
 layout: page
 title: ​ДИВЕРСАНТЫ
 description: W:45 L:6 D:1 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1546 🔺  (3)|

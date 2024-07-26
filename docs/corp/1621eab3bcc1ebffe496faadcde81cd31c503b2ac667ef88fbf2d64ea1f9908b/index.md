@@ -2,9 +2,9 @@
 layout: page
 title: ​IX Легион
 description: W:42 L:28 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1366 🔻  (53)|

@@ -2,13 +2,13 @@
 layout: page
 title: ​CIS
 description: W:30 L:4 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1425 🔺  (23)|
-| ELO Competitive | 1481 🔺  (31)|
+| ELO Competitive | 1481 🔺  (30)|
 | Total Matches | 34 |
 | Wins | 30 |
 | Losses | 4 |

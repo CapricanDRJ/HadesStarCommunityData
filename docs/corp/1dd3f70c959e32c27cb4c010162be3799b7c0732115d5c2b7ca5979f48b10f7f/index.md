@@ -2,9 +2,9 @@
 layout: page
 title: ​萌新的收留所
 description: W:9 L:3 D:1 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1288 🔺  (137)|

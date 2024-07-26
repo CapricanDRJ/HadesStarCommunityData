@@ -2,13 +2,13 @@
 layout: page
 title: ​Tuatha De Danan
 description: W:44 L:12 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1402 🔺  (34)|
-| ELO Competitive | 1481 🔺  (29)|
+| ELO Competitive | 1481 🔺  (28)|
 | Total Matches | 56 |
 | Wins | 44 |
 | Losses | 12 |

@@ -2,9 +2,9 @@
 layout: page
 title: ​СОЮЗ-2
 description: W:0 L:1 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔻  (696)|

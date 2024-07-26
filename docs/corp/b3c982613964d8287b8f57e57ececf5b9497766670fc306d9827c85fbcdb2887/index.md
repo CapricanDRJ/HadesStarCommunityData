@@ -2,9 +2,9 @@
 layout: page
 title: ​CAEDRUS [<o>]
 description: W:2 L:2 D:1 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1198 🔻  (466)|

@@ -2,9 +2,9 @@
 layout: page
 title: ​Aeternae
 description: W:0 L:7 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1113 🔻  (1081)|

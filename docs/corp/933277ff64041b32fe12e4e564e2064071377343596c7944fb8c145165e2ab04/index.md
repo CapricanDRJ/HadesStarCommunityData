@@ -2,9 +2,9 @@
 layout: page
 title: ​自由星际联盟
 description: W:6 L:31 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1031 🔺  (1155)|

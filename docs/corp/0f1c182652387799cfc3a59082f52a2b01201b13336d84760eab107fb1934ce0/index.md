@@ -2,9 +2,9 @@
 layout: page
 title: ​Nova Time
 description: W:13 L:1 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1338 🔺  (75)|

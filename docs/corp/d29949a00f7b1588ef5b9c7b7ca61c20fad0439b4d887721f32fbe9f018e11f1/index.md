@@ -2,9 +2,9 @@
 layout: page
 title: ​Elysium
 description: W:27 L:9 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1360 🔺  (57)|

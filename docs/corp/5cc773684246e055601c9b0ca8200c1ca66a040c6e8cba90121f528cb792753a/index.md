@@ -2,9 +2,9 @@
 layout: page
 title: ​中国星系舰队
 description: W:2 L:4 D:1 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1174 🔻  (795)|

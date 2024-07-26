@@ -2,9 +2,9 @@
 layout: page
 title: ​红星超新星爆炸
 description: W:1 L:2 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔻  (558)|

@@ -2,9 +2,9 @@
 layout: page
 title: ​星舰国际
 description: W:4 L:2 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1216 🔻  (332)|

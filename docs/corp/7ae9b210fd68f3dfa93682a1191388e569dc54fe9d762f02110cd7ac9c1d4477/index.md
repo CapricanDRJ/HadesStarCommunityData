@@ -2,9 +2,9 @@
 layout: page
 title: ​Rogue One
 description: W:28 L:20 D:1 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1279 🔻  (156)|

@@ -2,9 +2,9 @@
 layout: page
 title: ​华夏舰队
 description: W:20 L:25 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1138 🔺  (1025)|

@@ -2,9 +2,9 @@
 layout: page
 title: ​KINETIC
 description: W:8 L:0 D:0 Bonus[🔴]
-excerpt: 🔴
 ---
 
+Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1313 🔺  (102)|

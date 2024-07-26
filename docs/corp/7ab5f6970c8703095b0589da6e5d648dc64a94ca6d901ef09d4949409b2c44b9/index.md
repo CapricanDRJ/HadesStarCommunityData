@@ -2,9 +2,9 @@
 layout: page
 title: ​游徒之家
 description: W:3 L:3 D:0 Bonus[🟢]
-excerpt: 🟢
 ---
 
+Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1211 🔺  (387)|
