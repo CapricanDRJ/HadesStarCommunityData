@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hand Of NOD! 
-description: Hades' Star Hand Of NOD!  Bonus[🟢] W:31 L:4 D:0 
+title: Hand Of NOD\! 
+description: Hades' Star Hand Of NOD\!  Bonus[🟢] W:31 L:4 D:0 
 ---
 
 | Statistic | Value |
@@ -34,7 +34,7 @@ description: Hades' Star Hand Of NOD!  Bonus[🟢] W:31 L:4 D:0
 | ✅ | 2024/06/23 | 46-19 | [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) |
 | ✅ | 2024/06/16 | 32-13 | [111](https://ws.tsl.rocks/corp/8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350/) |
 | ✅ | 2024/06/09 | 46-23 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) |
-| ✅ | 2024/06/02 | 43-13 | [Nine's Own Goal](https://ws.tsl.rocks/corp/fd47245550708347721e341d893b73e7c23e0f3624053c47ce666e55641c9e9e/) |
+| ✅ | 2024/06/02 | 43-13 | [Nine\'s Own Goal](https://ws.tsl.rocks/corp/fd47245550708347721e341d893b73e7c23e0f3624053c47ce666e55641c9e9e/) |
 | ✅ | 2024/05/26 | 44-9 | [Zvezdec](https://ws.tsl.rocks/corp/7bce2af674b8fb313f43e497201ad86b230571cc3e200f44132be528eb4076d9/) |
 | ❌ | 2024/05/19 | 3-40 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) |
 | ✅ | 2024/05/12 | 45-7 | [The Watchers](https://ws.tsl.rocks/corp/62a08ec3521bd62e5c8fbfc03c7d99fbf3e30fd1df80716485c9b989b27771e6/) |

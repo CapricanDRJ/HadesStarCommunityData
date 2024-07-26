@@ -27,6 +27,6 @@ description: Hades' Star NASA Air base Bonus[🔴] W:0 L:8 D:2
 | ❌ | 2023/12/18 | 0-1 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 | ❌ | 2023/12/10 | 0-1 | [Uchiha](https://ws.tsl.rocks/corp/84cbfdcf65b61cfbc76fd507cdad0278bd1469742b77cd098a372506d8f50dbd/) |
 | ❌ | 2023/12/01 | 0-4 | [The Galxey █](https://ws.tsl.rocks/corp/d52cda2701dd013db91403bab0ff5972e0d9f3a13f842daf8d633025835a6b19/) |
-| ❌ | 2023/11/26 | 0-5 | [ЧВК "Котики"](https://ws.tsl.rocks/corp/b770b833fe257bc6accd1bbe82a887971291dd0038f8aa627a47f3ce063265c0/) |
+| ❌ | 2023/11/26 | 0-5 | [ЧВК \"Котики\"](https://ws.tsl.rocks/corp/b770b833fe257bc6accd1bbe82a887971291dd0038f8aa627a47f3ce063265c0/) |
 
 Corporation ID: 6b63a6d22b94297e25c5815e1d096edd489543d2a443677f58d7e6aec1d00016

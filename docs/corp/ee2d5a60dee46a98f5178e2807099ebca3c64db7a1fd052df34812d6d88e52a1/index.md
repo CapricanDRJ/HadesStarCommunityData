@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Anla'Shok
-description: Hades' Star Anla'Shok Bonus[🔴] W:2 L:11 D:0 
+title: Anla\'Shok
+description: Hades' Star Anla\'Shok Bonus[🔴] W:2 L:11 D:0 
 ---
 
 | Statistic | Value |
@@ -26,7 +26,7 @@ description: Hades' Star Anla'Shok Bonus[🔴] W:2 L:11 D:0
 | ❌ | 2024/07/12 | 0-34 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) |
 | ❌ | 2024/07/05 | 3-6 | [The X \- Files](https://ws.tsl.rocks/corp/f13cb0ae2dbb0654a2067c8749f86bce49edc5b520bd391c7af11948f23a41fb/) |
 | ❌ | 2024/06/29 | 0-44 | [the heavy](https://ws.tsl.rocks/corp/fc91552441e9553b76df7ca1870d63c6fd9e50f9c98a3d2bb9f6979b47bd845f/) |
-| ❌ | 2024/06/21 | 3-38 | [NERF TOY'S](https://ws.tsl.rocks/corp/34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0/) |
+| ❌ | 2024/06/21 | 3-38 | [NERF TOY\'S](https://ws.tsl.rocks/corp/34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0/) |
 | ❌ | 2024/06/15 | 6-41 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) |
 | ❌ | 2024/01/20 | 5-45 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) |
 | ❌ | 2024/01/13 | 2-54 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) |

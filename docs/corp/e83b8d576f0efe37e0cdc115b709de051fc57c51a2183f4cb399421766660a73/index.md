@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hades' 420
-description: Hades' Star Hades' 420 Bonus[🟢] W:2 L:7 D:0 
+title: Hades\' 420
+description: Hades' Star Hades\' 420 Bonus[🟢] W:2 L:7 D:0 
 ---
 
 | Statistic | Value |

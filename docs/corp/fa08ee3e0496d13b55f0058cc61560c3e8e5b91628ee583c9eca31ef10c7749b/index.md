@@ -1,7 +1,7 @@
 ---
 layout: page
-title: C'est pas faux!
-description: Hades' Star C'est pas faux! Bonus[🔴] W:0 L:1 D:0 
+title: C\'est pas faux\!
+description: Hades' Star C\'est pas faux\! Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

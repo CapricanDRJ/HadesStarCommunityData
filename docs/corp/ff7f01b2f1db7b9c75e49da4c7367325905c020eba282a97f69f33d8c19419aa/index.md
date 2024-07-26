@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ₩.BRASIL.₩
-description: Hades' Star ₩.BRASIL.₩ Bonus[🔴] W:0 L:8 D:4 
+title: ₩\.BRASIL\.₩
+description: Hades' Star ₩\.BRASIL\.₩ Bonus[🔴] W:0 L:8 D:4 
 ---
 
 | Statistic | Value |

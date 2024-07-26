@@ -1,7 +1,7 @@
 ---
 layout: page
-title: R-6 satalite
-description: Hades' Star R-6 satalite Bonus[🟢] W:26 L:11 D:1 
+title: R\-6 satalite
+description: Hades' Star R\-6 satalite Bonus[🟢] W:26 L:11 D:1 
 ---
 
 | Statistic | Value |
@@ -58,7 +58,7 @@ description: Hades' Star R-6 satalite Bonus[🟢] W:26 L:11 D:1
 | ✅ | 2024/01/12 | 15-2 | [Prometheus](https://ws.tsl.rocks/corp/b8bbef86e5b1f72bf9c827f0497871ab0363769ac4fef563fd56f96ac88c85a6/) |
 | ✅ | 2024/01/06 | 6-5 | [phoenix clan](https://ws.tsl.rocks/corp/e25bc73528b7029e9b908d920effef5e183928ad3f7b151987a29252d9052c79/) |
 | ❌ | 2023/12/31 | 0-5 | [联合宇宙](https://ws.tsl.rocks/corp/da614a2861abac24e31b7b978e75196750b88545f6ece0f367b66b43d696deab/) |
-| ✅ | 2023/12/31 | 9-4 | [Ul'Adri](https://ws.tsl.rocks/corp/d44796a95a2cc6f93a92af4d701a9c6325eff22633f874f43945a1b1d77b5fe7/) |
+| ✅ | 2023/12/31 | 9-4 | [Ul\'Adri](https://ws.tsl.rocks/corp/d44796a95a2cc6f93a92af4d701a9c6325eff22633f874f43945a1b1d77b5fe7/) |
 | ❌ | 2023/12/26 | 1-6 | [DYLAN](https://ws.tsl.rocks/corp/4c92ec3582be074db571dc198baad7b31951427215e09c4b95a597895406c6a3/) |
 | ❌ | 2023/12/19 | 4-6 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ✅ | 2023/12/14 | 7-1 | [DeutschlandGmbH](https://ws.tsl.rocks/corp/7f4550924e4740a47b7d66c9ddf38d65c37590507caab29eecc74f81a4ae2895/) |

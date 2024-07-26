@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ANDROMEDA INC. 
-description: Hades' Star ANDROMEDA INC.  Bonus[🔴] W:20 L:1 D:1 
+title: ANDROMEDA INC\. 
+description: Hades' Star ANDROMEDA INC\.  Bonus[🔴] W:20 L:1 D:1 
 ---
 
 | Statistic | Value |

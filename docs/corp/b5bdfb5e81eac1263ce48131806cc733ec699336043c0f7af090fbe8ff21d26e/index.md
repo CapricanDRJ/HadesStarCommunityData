@@ -1,7 +1,7 @@
 ---
 layout: page
-title: White Star Inc.
-description: Hades' Star White Star Inc. Bonus[🟢] W:3 L:3 D:0 
+title: White Star Inc\.
+description: Hades' Star White Star Inc\. Bonus[🟢] W:3 L:3 D:0 
 ---
 
 | Statistic | Value |

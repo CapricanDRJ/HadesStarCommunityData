@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Red_Coat_Mafia
-description: Hades' Star Red_Coat_Mafia Bonus[🟢] W:13 L:18 D:1 
+title: Red\_Coat\_Mafia
+description: Hades' Star Red\_Coat\_Mafia Bonus[🟢] W:13 L:18 D:1 
 ---
 
 | Statistic | Value |
@@ -45,7 +45,7 @@ description: Hades' Star Red_Coat_Mafia Bonus[🟢] W:13 L:18 D:1
 | ❌ | 2024/05/04 | 5-30 | [OntarioDawn](https://ws.tsl.rocks/corp/1a002c71f3aba5da5918941fa2ba4dbbfc183ad52d97d44a25718e07e6b08a03/) |
 | ↔️ | 2024/04/29 | 5-5 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ✅ | 2024/04/29 | 16-0 | [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046/) |
-| ✅ | 2024/04/23 | 29-4 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
+| ✅ | 2024/04/23 | 29-4 | [King\'s Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
 | ❌ | 2024/04/23 | 3-19 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) |
 | ❌ | 2024/04/15 | 4-29 | [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b/) |
 | ❌ | 2024/04/15 | 5-24 | [✡天启✡](https://ws.tsl.rocks/corp/f2d70a86d32ea3a8226afc6d465a6c6540acec572b1c7232994523cdfb299c53/) |

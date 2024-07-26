@@ -1,7 +1,7 @@
 ---
 layout: page
-title: P!RAT£ SHIP
-description: Hades' Star P!RAT£ SHIP Bonus[🔴] W:8 L:6 D:1 
+title: P\!RAT£ SHIP
+description: Hades' Star P\!RAT£ SHIP Bonus[🔴] W:8 L:6 D:1 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 001-23
-description: Hades' Star 001-23 Bonus[🔴] W:0 L:11 D:0 
+title: 001\-23
+description: Hades' Star 001\-23 Bonus[🔴] W:0 L:11 D:0 
 ---
 
 | Statistic | Value |

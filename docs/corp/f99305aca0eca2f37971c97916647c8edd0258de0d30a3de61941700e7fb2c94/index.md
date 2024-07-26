@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Corvus Ind.
-description: Hades' Star Corvus Ind. Bonus[🟢] W:24 L:9 D:0 
+title: Corvus Ind\.
+description: Hades' Star Corvus Ind\. Bonus[🟢] W:24 L:9 D:0 
 ---
 
 | Statistic | Value |

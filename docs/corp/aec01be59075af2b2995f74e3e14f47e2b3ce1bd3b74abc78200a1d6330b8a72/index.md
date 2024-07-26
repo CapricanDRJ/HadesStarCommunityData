@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Corp. Estelar
-description: Hades' Star Corp. Estelar Bonus[🟢] W:10 L:8 D:0 
+title: Corp\. Estelar
+description: Hades' Star Corp\. Estelar Bonus[🟢] W:10 L:8 D:0 
 ---
 
 | Statistic | Value |

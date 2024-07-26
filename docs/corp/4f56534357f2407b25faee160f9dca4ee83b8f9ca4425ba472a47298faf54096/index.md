@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Z. O. V. 
-description: Hades' Star Z. O. V.  Bonus[🟢] W:18 L:4 D:1 
+title: Z\. O\. V\. 
+description: Hades' Star Z\. O\. V\.  Bonus[🟢] W:18 L:4 D:1 
 ---
 
 | Statistic | Value |
@@ -33,7 +33,7 @@ description: Hades' Star Z. O. V.  Bonus[🟢] W:18 L:4 D:1
 | ✅ | 2024/06/18 | 20-2 | [AAAA](https://ws.tsl.rocks/corp/73b759d7c9218f2c1171f9ef691739331ca36ee045039f4f3f935a47b6622a27/) |
 | ✅ | 2024/06/11 | 21-3 | [华夏三体舰队](https://ws.tsl.rocks/corp/a457b1d7612cdff92b655d33cf4ffd72b38aa796525cf0432423cfd0d01c6cf9/) |
 | ✅ | 2024/06/06 | 18-6 | [Prometheus](https://ws.tsl.rocks/corp/b8bbef86e5b1f72bf9c827f0497871ab0363769ac4fef563fd56f96ac88c85a6/) |
-| ✅ | 2024/06/01 | 24-1 | [<•\|•\>](https://ws.tsl.rocks/corp/a3864fad7e4ba08611eda264a7934afe237a2f313a23b12dcce9db0a96a09daf/) |
+| ✅ | 2024/06/01 | 24-1 | [<•\\|•\>](https://ws.tsl.rocks/corp/a3864fad7e4ba08611eda264a7934afe237a2f313a23b12dcce9db0a96a09daf/) |
 | ✅ | 2024/05/26 | 20-0 | [华夏三体舰队](https://ws.tsl.rocks/corp/a457b1d7612cdff92b655d33cf4ffd72b38aa796525cf0432423cfd0d01c6cf9/) |
 | ✅ | 2024/05/21 | 18-0 | [六大天神\.轻歌之影](https://ws.tsl.rocks/corp/558304186ed78398ff16afe6f1f2909cee69fe56f1e3ee787d023cffa6999b3b/) |
 | ❌ | 2024/05/16 | 0-6 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Макароны V1.0
-description: Hades' Star Макароны V1.0 Bonus[🔴] W:0 L:1 D:0 
+title: Макароны V1\.0
+description: Hades' Star Макароны V1\.0 Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

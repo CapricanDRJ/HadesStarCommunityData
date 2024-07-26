@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Divinity's End
-description: Hades' Star Divinity's End Bonus[🔴] W:0 L:2 D:0 
+title: Divinity\'s End
+description: Hades' Star Divinity\'s End Bonus[🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

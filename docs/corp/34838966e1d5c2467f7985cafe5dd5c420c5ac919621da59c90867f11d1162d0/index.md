@@ -1,7 +1,7 @@
 ---
 layout: page
-title: NERF TOY'S
-description: Hades' Star NERF TOY'S Bonus[🔴] W:18 L:29 D:2 
+title: NERF TOY\'S
+description: Hades' Star NERF TOY\'S Bonus[🔴] W:18 L:29 D:2 
 ---
 
 | Statistic | Value |
@@ -34,7 +34,7 @@ description: Hades' Star NERF TOY'S Bonus[🔴] W:18 L:29 D:2
 | ❌ | 2024/07/04 | 7-36 | [地球联合](https://ws.tsl.rocks/corp/600f9edf51df1f1afe62db4c64e95b969ac6824a6a08d1a483beaec015ba2e25/) |
 | ✅ | 2024/06/29 | 42-33 | [Space Marshalls](https://ws.tsl.rocks/corp/6a41cc36abf3a28a1c26bc22843f1892d6938e8eb1e8f8a10fd9e6e964e06c2c/) |
 | ❌ | 2024/06/29 | 14-21 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |
-| ✅ | 2024/06/21 | 38-3 | [Anla'Shok](https://ws.tsl.rocks/corp/ee2d5a60dee46a98f5178e2807099ebca3c64db7a1fd052df34812d6d88e52a1/) |
+| ✅ | 2024/06/21 | 38-3 | [Anla\'Shok](https://ws.tsl.rocks/corp/ee2d5a60dee46a98f5178e2807099ebca3c64db7a1fd052df34812d6d88e52a1/) |
 | ✅ | 2024/06/21 | 13-5 | [Utd\. Human Fed\.](https://ws.tsl.rocks/corp/265fd73116c2ec237c7a966adb401d54219dee49882ee9024025c697165397d6/) |
 | ❌ | 2024/06/16 | 17-24 | [Albedo](https://ws.tsl.rocks/corp/8e9848f9867c594384d6a31618213447f358c7b308fee91d20991b80b513fdbb/) |
 | ✅ | 2024/06/16 | 25-4 | [CDG](https://ws.tsl.rocks/corp/0372d45acdd50729ec92e18f0e973f382362ae554f8d15778250b493e887cce2/) |

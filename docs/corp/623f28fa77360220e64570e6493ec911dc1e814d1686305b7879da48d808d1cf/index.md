@@ -1,7 +1,7 @@
 ---
 layout: page
-title: BrazilCorp.
-description: Hades' Star BrazilCorp. Bonus[🟢] W:35 L:5 D:0 
+title: BrazilCorp\.
+description: Hades' Star BrazilCorp\. Bonus[🟢] W:35 L:5 D:0 
 ---
 
 | Statistic | Value |

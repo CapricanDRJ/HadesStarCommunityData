@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Black Star llc.
-description: Hades' Star Black Star llc. Bonus[🟢] W:31 L:16 D:0 
+title: Black Star llc\.
+description: Hades' Star Black Star llc\. Bonus[🟢] W:31 L:16 D:0 
 ---
 
 | Statistic | Value |

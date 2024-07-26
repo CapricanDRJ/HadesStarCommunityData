@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Midland Ind.
-description: Hades' Star Midland Ind. Bonus[🔴] W:9 L:9 D:0 
+title: Midland Ind\.
+description: Hades' Star Midland Ind\. Bonus[🔴] W:9 L:9 D:0 
 ---
 
 | Statistic | Value |

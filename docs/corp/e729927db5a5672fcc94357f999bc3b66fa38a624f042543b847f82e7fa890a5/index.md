@@ -32,7 +32,7 @@ description: Hades' Star Atlas corp Bonus[🔴] W:5 L:9 D:1
 | ❌ | 2024/01/06 | 1-4 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ✅ | 2023/12/29 | 2-0 | [ToC](https://ws.tsl.rocks/corp/72dc408527c06786fa45851f432da731fd63c063d51f4a180b9ae24216e41765/) |
 | ❌ | 2023/12/24 | 3-8 | [한국우주연합](https://ws.tsl.rocks/corp/c5eef27852b12a8242ae92571d4bdaa16b3360e45fb47820da574211a095ccce/) |
-| ✅ | 2023/12/18 | 3-0 | [Goa'uld](https://ws.tsl.rocks/corp/6cfbe34768af3759518bfef230548e375dff664510e0670ea856313b90faec80/) |
+| ✅ | 2023/12/18 | 3-0 | [Goa\'uld](https://ws.tsl.rocks/corp/6cfbe34768af3759518bfef230548e375dff664510e0670ea856313b90faec80/) |
 | ❌ | 2023/12/13 | 1-7 | [Warriors union](https://ws.tsl.rocks/corp/414b486648e1871ce70a5ac9f1a65f02a15d6a38eebc99c23ab68016ba988ea8/) |
 
 Corporation ID: e729927db5a5672fcc94357f999bc3b66fa38a624f042543b847f82e7fa890a5

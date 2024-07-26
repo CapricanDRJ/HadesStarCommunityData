@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Торг. федерация
-description: Hades' Star Торг. федерация Bonus[🟢] W:4 L:9 D:0 
+title: Торг\. федерация
+description: Hades' Star Торг\. федерация Bonus[🟢] W:4 L:9 D:0 
 ---
 
 | Statistic | Value |

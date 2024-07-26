@@ -1,7 +1,7 @@
 ---
 layout: page
-title: U.S.A
-description: Hades' Star U.S.A Bonus[🔴] W:8 L:13 D:0 
+title: U\.S\.A
+description: Hades' Star U\.S\.A Bonus[🔴] W:8 L:13 D:0 
 ---
 
 | Statistic | Value |

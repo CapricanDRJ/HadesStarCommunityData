@@ -1,7 +1,7 @@
 ---
 layout: page
-title: King's Guard
-description: Hades' Star King's Guard Bonus[🔴] W:24 L:52 D:5 
+title: King\'s Guard
+description: Hades' Star King\'s Guard Bonus[🔴] W:24 L:52 D:5 
 ---
 
 | Statistic | Value |

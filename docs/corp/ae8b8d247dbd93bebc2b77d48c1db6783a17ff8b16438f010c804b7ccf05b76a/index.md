@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Созидание 2.0
-description: Hades' Star Созидание 2.0 Bonus[🔴] W:9 L:16 D:0 
+title: Созидание 2\.0
+description: Hades' Star Созидание 2\.0 Bonus[🔴] W:9 L:16 D:0 
 ---
 
 | Statistic | Value |
@@ -41,7 +41,7 @@ description: Hades' Star Созидание 2.0 Bonus[🔴] W:9 L:16 D:0
 | ❌ | 2023/12/19 | 19-20 | [ProyectCorp](https://ws.tsl.rocks/corp/ac76fbb017abc5511e6d39625245f0cd8f145ef5ba96ae1760d7f2389b5e0fe1/) |
 | ✅ | 2023/12/12 | 17-2 | [Séptimo Círculo](https://ws.tsl.rocks/corp/4155fc247a5433ea9b861507cda4f6e2086ac5dd154c08de18f20a6b293ebbb7/) |
 | ✅ | 2023/12/05 | 8-5 | [Dumpster Fire](https://ws.tsl.rocks/corp/f191bf7efb93ca805453b3e11aef9278976a4c70fe9790e7813f28fcdf899121/) |
-| ✅ | 2023/11/28 | 20-2 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
+| ✅ | 2023/11/28 | 20-2 | [King\'s Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
 | ✅ | 2023/11/21 | 16-3 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ✅ | 2023/11/14 | 9-0 | [Das Imperium](https://ws.tsl.rocks/corp/bf80902e944e3605f5f2fe70f245c1442fa4094414322964da8200dc57c58ef0/) |
 | ❌ | 2023/11/07 | 6-8 | [русский клан ](https://ws.tsl.rocks/corp/d8f9003e2fa6789706c2e1330836d6b7fb44d4f30a4f006c37210bac6c9ffcb9/) |

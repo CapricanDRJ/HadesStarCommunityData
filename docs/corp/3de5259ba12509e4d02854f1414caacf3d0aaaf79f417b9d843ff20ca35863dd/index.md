@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Atlas Star llc.
-description: Hades' Star Atlas Star llc. Bonus[🟢] W:29 L:7 D:0 
+title: Atlas Star llc\.
+description: Hades' Star Atlas Star llc\. Bonus[🟢] W:29 L:7 D:0 
 ---
 
 | Statistic | Value |
@@ -41,7 +41,7 @@ description: Hades' Star Atlas Star llc. Bonus[🟢] W:29 L:7 D:0
 | ✅ | 2024/04/28 | 29-3 | [Kratos](https://ws.tsl.rocks/corp/1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b/) |
 | ✅ | 2024/04/22 | 34-0 | [Los Unidos ](https://ws.tsl.rocks/corp/963d98b9a64c86c9edc86daabe201f5d7e1f42bbeb0f45671b44a87e0b288e91/) |
 | ✅ | 2024/04/15 | 15-1 | [Destroyers](https://ws.tsl.rocks/corp/3756333f55f58944372cf785b972da55796cc179c0ce5f10244e90e3c4355a23/) |
-| ✅ | 2024/04/08 | 24-1 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
+| ✅ | 2024/04/08 | 24-1 | [King\'s Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
 | ✅ | 2024/04/01 | 32-3 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) |
 | ✅ | 2024/03/27 | 33-0 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) |
 | ✅ | 2024/03/20 | 32-0 | [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) |

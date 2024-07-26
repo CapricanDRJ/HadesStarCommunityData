@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 2ND-R8 Corp.
-description: Hades' Star 2ND-R8 Corp. Bonus[🟢] W:20 L:14 D:0 
+title: 2ND\-R8 Corp\.
+description: Hades' Star 2ND\-R8 Corp\. Bonus[🟢] W:20 L:14 D:0 
 ---
 
 | Statistic | Value |
@@ -47,7 +47,7 @@ description: Hades' Star 2ND-R8 Corp. Bonus[🟢] W:20 L:14 D:0
 | ✅ | 2024/04/02 | 20-0 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
 | ❌ | 2024/03/26 | 11-14 | [КМБ](https://ws.tsl.rocks/corp/9863510eb8d02a7be02ef6a2cf42499cbf1e7ec62df078fe82aaa791444445f4/) |
 | ✅ | 2024/03/19 | 20-0 | [U\.S\.A](https://ws.tsl.rocks/corp/6d7a18e9893736881762a4e1b687b55e7311d367267ff5a9cc8e45722b14ea06/) |
-| ✅ | 2024/03/12 | 14-5 | [Ul'Adri](https://ws.tsl.rocks/corp/d44796a95a2cc6f93a92af4d701a9c6325eff22633f874f43945a1b1d77b5fe7/) |
+| ✅ | 2024/03/12 | 14-5 | [Ul\'Adri](https://ws.tsl.rocks/corp/d44796a95a2cc6f93a92af4d701a9c6325eff22633f874f43945a1b1d77b5fe7/) |
 | ✅ | 2024/03/06 | 13-2 | [ZION](https://ws.tsl.rocks/corp/99ac8e5c0f22878b9a4458953d0c712ada17ef36ae195ccf39c7921dc996adfe/) |
 | ✅ | 2024/02/28 | 16-0 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) |
 | ✅ | 2024/02/21 | 13-1 | [羽共和体](https://ws.tsl.rocks/corp/61b6e0502a087307a2ecf50e5d84f6123ad19984dc5790c997f16a676213aa7e/) |

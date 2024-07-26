@@ -32,6 +32,6 @@ description: Hades' Star 云浪度假村↕ Bonus[🔴] W:2 L:6 D:1
 | ❌ | 2023/12/17 | 0-12 | [元素联邦](https://ws.tsl.rocks/corp/e9d602d617d5c81270107c15a6d1f1717c5016abad802d3629f7f4301a58e95e/) |
 | ❌ | 2023/12/11 | 2-16 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ✅ | 2023/12/03 | 9-3 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
-| ✅ | 2023/11/22 | 7-3 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
+| ✅ | 2023/11/22 | 7-3 | [King\'s Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
 
 Corporation ID: 971e3a487a950dbde1067e4f0940bb1a0833adf91cdf11c73cef69b362b45c4a

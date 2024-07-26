@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Draco Ind.
-description: Hades' Star Draco Ind. Bonus[🔴] W:1 L:0 D:0 
+title: Draco Ind\.
+description: Hades' Star Draco Ind\. Bonus[🔴] W:1 L:0 D:0 
 ---
 
 | Statistic | Value |
