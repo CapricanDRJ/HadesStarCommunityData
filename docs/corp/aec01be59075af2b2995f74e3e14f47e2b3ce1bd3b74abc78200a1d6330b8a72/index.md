@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Corp. Estelar
+title: ​Corp. Estelar
 description: Hades' Star Corp. Estelar Bonus[🟢] W:10 L:8 D:0 
 ---
 

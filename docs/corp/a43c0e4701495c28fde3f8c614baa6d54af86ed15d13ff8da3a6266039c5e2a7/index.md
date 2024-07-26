@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hades Seminary 
+title: ​Hades Seminary 
 description: Hades' Star Hades Seminary  Bonus[🔴] W:2 L:1 D:0 
 ---
 

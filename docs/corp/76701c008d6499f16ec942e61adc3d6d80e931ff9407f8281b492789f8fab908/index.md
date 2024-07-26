@@ -1,6 +1,6 @@
 ---
 layout: page
-title: New Star
+title: ​New Star
 description: Hades' Star New Star Bonus[🔴] W:1 L:2 D:0 
 ---
 

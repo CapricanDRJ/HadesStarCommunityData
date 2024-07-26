@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fleet Corp Ares
+title: ​Fleet Corp Ares
 description: Hades' Star Fleet Corp Ares Bonus[🟢] W:8 L:5 D:0 
 ---
 

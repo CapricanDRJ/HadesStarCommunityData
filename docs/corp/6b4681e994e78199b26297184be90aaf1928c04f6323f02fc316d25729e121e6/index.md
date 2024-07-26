@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 101
+title: ​101
 description: Hades' Star 101 Bonus[🟢] W:34 L:47 D:4 
 ---
 

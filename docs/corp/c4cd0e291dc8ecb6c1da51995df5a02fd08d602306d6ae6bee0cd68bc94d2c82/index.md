@@ -1,6 +1,6 @@
 ---
 layout: page
-title: USA Corp
+title: ​USA Corp
 description: Hades' Star USA Corp Bonus[🔴] W:2 L:6 D:0 
 ---
 

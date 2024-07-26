@@ -1,6 +1,6 @@
 ---
 layout: page
-title: VoidCorp
+title: ​VoidCorp
 description: Hades' Star VoidCorp Bonus[🟢] W:19 L:20 D:1 
 ---
 

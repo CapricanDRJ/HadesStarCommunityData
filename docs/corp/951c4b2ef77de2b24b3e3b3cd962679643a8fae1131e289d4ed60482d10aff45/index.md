@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Simply Uranus
+title: ​Simply Uranus
 description: Hades' Star Simply Uranus Bonus[🔴] W:0 L:2 D:0 
 ---
 

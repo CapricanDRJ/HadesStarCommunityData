@@ -1,6 +1,6 @@
 ---
 layout: page
-title: N.P.C
+title: ​N.P.C
 description: Hades' Star N.P.C Bonus[🔴] W:5 L:2 D:3 
 ---
 

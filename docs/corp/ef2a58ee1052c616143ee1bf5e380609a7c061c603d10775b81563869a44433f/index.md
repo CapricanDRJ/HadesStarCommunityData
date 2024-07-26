@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Алый Феникс
+title: ​Алый Феникс
 description: Hades' Star Алый Феникс Bonus[🔴] W:4 L:9 D:0 
 ---
 

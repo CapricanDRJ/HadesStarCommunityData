@@ -1,6 +1,6 @@
 ---
 layout: page
-title: chrtrncmndr
+title: ​chrtrncmndr
 description: Hades' Star chrtrncmndr Bonus[🔴] W:0 L:2 D:0 
 ---
 

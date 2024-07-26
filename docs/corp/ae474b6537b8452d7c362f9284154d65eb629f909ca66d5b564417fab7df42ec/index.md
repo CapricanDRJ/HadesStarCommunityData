@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lost City Corp.
+title: ​Lost City Corp.
 description: Hades' Star Lost City Corp. Bonus[🔴] W:1 L:1 D:1 
 ---
 

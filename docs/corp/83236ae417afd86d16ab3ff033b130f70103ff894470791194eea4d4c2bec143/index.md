@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Belters
+title: ​Belters
 description: Hades' Star Belters Bonus[🔴] W:0 L:1 D:0 
 ---
 

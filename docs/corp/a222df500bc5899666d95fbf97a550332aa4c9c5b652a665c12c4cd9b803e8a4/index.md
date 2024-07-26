@@ -1,6 +1,6 @@
 ---
 layout: page
-title: XXX500XXX
+title: ​XXX500XXX
 description: Hades' Star XXX500XXX Bonus[🔴] W:0 L:2 D:0 
 ---
 

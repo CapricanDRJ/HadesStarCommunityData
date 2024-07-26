@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Nerd Herd
+title: ​The Nerd Herd
 description: Hades' Star The Nerd Herd Bonus[🔴] W:1 L:2 D:0 
 ---
 

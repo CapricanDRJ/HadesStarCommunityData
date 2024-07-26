@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Spacey Bois
+title: ​Spacey Bois
 description: Hades' Star Spacey Bois Bonus[🔴] W:2 L:3 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 暮光之城
+title: ​暮光之城
 description: Hades' Star 暮光之城 Bonus[🔴] W:1 L:3 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hungary First
+title: ​Hungary First
 description: Hades' Star Hungary First Bonus[🟢] W:13 L:8 D:1 
 ---
 

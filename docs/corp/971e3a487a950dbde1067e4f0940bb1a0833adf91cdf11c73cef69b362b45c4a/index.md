@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 云浪度假村↕
+title: ​云浪度假村↕
 description: Hades' Star 云浪度假村↕ Bonus[🔴] W:2 L:6 D:1 
 ---
 

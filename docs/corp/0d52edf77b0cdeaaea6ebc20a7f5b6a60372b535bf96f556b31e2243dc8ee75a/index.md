@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Imperium XIII
+title: ​Imperium XIII
 description: Hades' Star Imperium XIII Bonus[🔴] W:24 L:20 D:0 
 ---
 

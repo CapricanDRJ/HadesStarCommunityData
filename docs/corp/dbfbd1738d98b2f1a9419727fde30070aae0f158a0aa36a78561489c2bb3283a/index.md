@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Green Dwarf
+title: ​Green Dwarf
 description: Hades' Star Green Dwarf Bonus[🔴] W:4 L:1 D:0 
 ---
 

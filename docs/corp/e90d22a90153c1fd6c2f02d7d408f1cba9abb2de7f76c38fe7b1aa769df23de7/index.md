@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Killer Shadow
+title: ​Killer Shadow
 description: Hades' Star Killer Shadow Bonus[🔴] W:2 L:10 D:0 
 ---
 

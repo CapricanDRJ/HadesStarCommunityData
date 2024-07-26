@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lacuna Holdings
+title: ​Lacuna Holdings
 description: Hades' Star Lacuna Holdings Bonus[🔴] W:21 L:12 D:0 
 ---
 

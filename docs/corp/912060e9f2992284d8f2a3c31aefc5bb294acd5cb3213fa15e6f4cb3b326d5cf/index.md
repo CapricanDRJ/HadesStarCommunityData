@@ -1,6 +1,6 @@
 ---
 layout: page
-title: OntarioDiligent
+title: ​OntarioDiligent
 description: Hades' Star OntarioDiligent Bonus[🔴] W:0 L:1 D:0 
 ---
 

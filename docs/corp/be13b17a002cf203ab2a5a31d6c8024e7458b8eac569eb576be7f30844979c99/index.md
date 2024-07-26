@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Planet Express
+title: ​Planet Express
 description: Hades' Star Planet Express Bonus[🔴] W:7 L:2 D:1 
 ---
 

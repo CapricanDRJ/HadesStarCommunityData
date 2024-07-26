@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Federation 
+title: ​Federation 
 description: Hades' Star Federation  Bonus[🔴] W:0 L:1 D:0 
 ---
 

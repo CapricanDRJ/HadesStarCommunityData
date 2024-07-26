@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Зелёная корпа
+title: ​Зелёная корпа
 description: Hades' Star Зелёная корпа Bonus[🔴] W:4 L:4 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Nooooobs
+title: ​Nooooobs
 description: Hades' Star Nooooobs Bonus[🔴] W:2 L:5 D:0 
 ---
 

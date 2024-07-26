@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ukr alliance 
+title: ​Ukr alliance 
 description: Hades' Star Ukr alliance  Bonus[🔴] W:1 L:3 D:1 
 ---
 

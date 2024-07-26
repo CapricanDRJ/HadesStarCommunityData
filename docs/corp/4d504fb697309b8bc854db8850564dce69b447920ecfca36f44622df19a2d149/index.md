@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SuperStarGamers
+title: ​SuperStarGamers
 description: Hades' Star SuperStarGamers Bonus[🔴] W:1 L:0 D:0 
 ---
 

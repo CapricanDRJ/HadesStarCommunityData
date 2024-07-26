@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Final
+title: ​Final
 description: Hades' Star Final Bonus[🔴] W:3 L:9 D:0 
 ---
 

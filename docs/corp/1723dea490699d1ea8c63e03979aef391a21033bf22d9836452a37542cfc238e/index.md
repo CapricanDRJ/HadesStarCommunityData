@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Soul System
+title: ​Soul System
 description: Hades' Star Soul System Bonus[🔴] W:0 L:9 D:0 
 ---
 

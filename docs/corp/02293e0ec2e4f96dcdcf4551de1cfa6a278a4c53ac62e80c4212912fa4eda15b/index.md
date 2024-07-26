@@ -1,6 +1,6 @@
 ---
 layout: page
-title: White Dwarf
+title: ​White Dwarf
 description: Hades' Star White Dwarf Bonus[🟢] W:30 L:12 D:0 
 ---
 

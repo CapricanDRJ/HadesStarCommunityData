@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Neutro Corpo
+title: ​Neutro Corpo
 description: Hades' Star Neutro Corpo Bonus[🔴] W:0 L:3 D:0 
 ---
 

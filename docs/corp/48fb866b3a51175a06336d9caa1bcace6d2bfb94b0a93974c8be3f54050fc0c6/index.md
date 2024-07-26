@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Свободный флот
+title: ​Свободный флот
 description: Hades' Star Свободный флот Bonus[🔴] W:27 L:30 D:1 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Global Elite
+title: ​Global Elite
 description: Hades' Star Global Elite Bonus[🔴] W:0 L:2 D:0 
 ---
 

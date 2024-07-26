@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Страж Галактики
+title: ​Страж Галактики
 description: Hades' Star Страж Галактики Bonus[🔴] W:1 L:0 D:1 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: La resistencia
+title: ​La resistencia
 description: Hades' Star La resistencia Bonus[🔴] W:0 L:0 D:1 
 ---
 

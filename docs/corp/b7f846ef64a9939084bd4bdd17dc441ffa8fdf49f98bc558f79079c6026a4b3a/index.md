@@ -1,6 +1,6 @@
 ---
 layout: page
-title: space port
+title: ​space port
 description: Hades' Star space port Bonus[🔴] W:0 L:1 D:0 
 ---
 

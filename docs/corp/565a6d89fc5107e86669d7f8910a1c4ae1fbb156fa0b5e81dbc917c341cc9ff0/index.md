@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 落雨观花
+title: ​落雨观花
 description: Hades' Star 落雨观花 Bonus[🟢] W:4 L:1 D:0 
 ---
 

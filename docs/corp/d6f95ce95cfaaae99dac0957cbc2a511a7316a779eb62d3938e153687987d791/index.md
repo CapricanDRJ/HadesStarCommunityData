@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cygnus X-1
+title: ​Cygnus X-1
 description: Hades' Star Cygnus X-1 Bonus[🔴] W:0 L:2 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Orion France
+title: ​Orion France
 description: Hades' Star Orion France Bonus[🔴] W:0 L:1 D:0 
 ---
 

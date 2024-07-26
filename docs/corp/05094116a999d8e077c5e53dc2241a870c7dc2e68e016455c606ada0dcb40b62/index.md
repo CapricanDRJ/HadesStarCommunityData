@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 地球星际集团
+title: ​地球星际集团
 description: Hades' Star 地球星际集团 Bonus[🔴] W:0 L:26 D:9 
 ---
 

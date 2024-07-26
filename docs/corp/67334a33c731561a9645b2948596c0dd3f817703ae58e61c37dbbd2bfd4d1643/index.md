@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WFOS
+title: ​WFOS
 description: Hades' Star WFOS Bonus[🔴] W:0 L:1 D:0 
 ---
 

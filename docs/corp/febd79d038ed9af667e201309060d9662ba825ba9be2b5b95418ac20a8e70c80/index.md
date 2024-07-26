@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ark
+title: ​Ark
 description: Hades' Star Ark Bonus[🟢] W:38 L:7 D:1 
 ---
 

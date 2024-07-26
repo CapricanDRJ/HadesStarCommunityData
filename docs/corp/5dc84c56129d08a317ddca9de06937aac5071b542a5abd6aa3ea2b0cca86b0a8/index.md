@@ -1,6 +1,6 @@
 ---
 layout: page
-title: VALHALLA
+title: ​VALHALLA
 description: Hades' Star VALHALLA Bonus[🔴] W:0 L:1 D:0 
 ---
 

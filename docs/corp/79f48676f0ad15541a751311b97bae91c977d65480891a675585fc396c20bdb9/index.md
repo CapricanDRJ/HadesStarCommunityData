@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 初始之音
+title: ​初始之音
 description: Hades' Star 初始之音 Bonus[🔴] W:11 L:14 D:0 
 ---
 

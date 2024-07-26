@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Grand Mechanism
+title: ​Grand Mechanism
 description: Hades' Star Grand Mechanism Bonus[🔴] W:2 L:5 D:1 
 ---
 

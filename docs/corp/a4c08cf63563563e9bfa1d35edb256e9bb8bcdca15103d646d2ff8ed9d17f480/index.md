@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 脉冲星际集团
+title: ​脉冲星际集团
 description: Hades' Star 脉冲星际集团 Bonus[🔴] W:20 L:23 D:1 
 ---
 

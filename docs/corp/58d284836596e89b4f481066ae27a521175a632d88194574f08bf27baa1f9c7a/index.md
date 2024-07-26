@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Celtic Imperium
+title: ​Celtic Imperium
 description: Hades' Star Celtic Imperium Bonus[🔴] W:1 L:6 D:1 
 ---
 

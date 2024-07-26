@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 永恒之梦
+title: ​永恒之梦
 description: Hades' Star 永恒之梦 Bonus[🔴] W:0 L:1 D:0 
 ---
 

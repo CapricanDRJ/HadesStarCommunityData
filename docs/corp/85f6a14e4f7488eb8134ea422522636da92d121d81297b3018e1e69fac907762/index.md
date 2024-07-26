@@ -1,6 +1,6 @@
 ---
 layout: page
-title: OrderofTheGeon
+title: ​OrderofTheGeon
 description: Hades' Star OrderofTheGeon Bonus[🟢] W:19 L:20 D:3 
 ---
 

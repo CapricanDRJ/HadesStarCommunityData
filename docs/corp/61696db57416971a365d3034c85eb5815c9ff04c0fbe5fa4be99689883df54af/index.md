@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ƭιтαηѕ Ф тєʀʀσƦ
+title: ​Ƭιтαηѕ Ф тєʀʀσƦ
 description: Hades' Star Ƭιтαηѕ Ф тєʀʀσƦ Bonus[🟢] W:18 L:10 D:0 
 ---
 

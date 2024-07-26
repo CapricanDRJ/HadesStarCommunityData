@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Harpias
+title: ​Harpias
 description: Hades' Star Harpias Bonus[🔴] W:0 L:0 D:2 
 ---
 

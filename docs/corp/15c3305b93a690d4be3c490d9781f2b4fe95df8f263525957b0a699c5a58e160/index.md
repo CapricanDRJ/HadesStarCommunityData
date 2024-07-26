@@ -1,6 +1,6 @@
 ---
 layout: page
-title: N7 Elite Forces
+title: ​N7 Elite Forces
 description: Hades' Star N7 Elite Forces Bonus[🔴] W:3 L:0 D:0 
 ---
 

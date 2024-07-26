@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 星河绮梦
+title: ​星河绮梦
 description: Hades' Star 星河绮梦 Bonus[🟢] W:9 L:1 D:0 
 ---
 

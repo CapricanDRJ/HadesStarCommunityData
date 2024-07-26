@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reservoid  Dogs
+title: ​Reservoid  Dogs
 description: Hades' Star Reservoid  Dogs Bonus[🔴] W:0 L:1 D:0 
 ---
 

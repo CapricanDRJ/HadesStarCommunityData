@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Black Sun
+title: ​Black Sun
 description: Hades' Star Black Sun Bonus[🔴] W:6 L:13 D:1 
 ---
 

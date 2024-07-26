@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BRhue
+title: ​BRhue
 description: Hades' Star BRhue Bonus[🟢] W:3 L:2 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sternenflotte
+title: ​Sternenflotte
 description: Hades' Star Sternenflotte Bonus[🔴] W:3 L:9 D:0 
 ---
 

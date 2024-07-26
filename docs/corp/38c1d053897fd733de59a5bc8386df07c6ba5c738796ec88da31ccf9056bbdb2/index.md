@@ -1,6 +1,6 @@
 ---
 layout: page
-title: knights abyss
+title: ​knights abyss
 description: Hades' Star knights abyss Bonus[🔴] W:0 L:0 D:1 
 ---
 

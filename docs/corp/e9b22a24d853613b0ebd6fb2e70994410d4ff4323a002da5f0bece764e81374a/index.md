@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Revelation
+title: ​Revelation
 description: Hades' Star Revelation Bonus[🔴] W:3 L:4 D:0 
 ---
 

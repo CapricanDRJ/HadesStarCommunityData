@@ -1,6 +1,6 @@
 ---
 layout: page
-title: From the Fire
+title: ​From the Fire
 description: Hades' Star From the Fire Bonus[🔴] W:2 L:4 D:0 
 ---
 

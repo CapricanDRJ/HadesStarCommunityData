@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Uchiha
+title: ​Uchiha
 description: Hades' Star Uchiha Bonus[🔴] W:3 L:12 D:1 
 ---
 

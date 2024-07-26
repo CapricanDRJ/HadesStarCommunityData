@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Galactic Trade
+title: ​Galactic Trade
 description: Hades' Star Galactic Trade Bonus[🔴] W:2 L:6 D:0 
 ---
 

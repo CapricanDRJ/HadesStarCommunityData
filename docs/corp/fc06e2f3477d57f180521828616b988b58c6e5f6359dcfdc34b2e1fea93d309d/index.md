@@ -1,6 +1,6 @@
 ---
 layout: page
-title: U.P.E
+title: ​U.P.E
 description: Hades' Star U.P.E Bonus[🔴] W:0 L:1 D:0 
 ---
 

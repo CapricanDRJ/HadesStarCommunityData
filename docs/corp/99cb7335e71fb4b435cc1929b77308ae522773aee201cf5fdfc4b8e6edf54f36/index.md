@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TITANS
+title: ​TITANS
 description: Hades' Star TITANS Bonus[🔴] W:3 L:9 D:0 
 ---
 

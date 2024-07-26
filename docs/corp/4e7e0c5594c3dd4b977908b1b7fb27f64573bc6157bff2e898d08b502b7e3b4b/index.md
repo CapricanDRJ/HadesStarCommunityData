@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Interstellar
+title: ​Interstellar
 description: Hades' Star Interstellar Bonus[🔴] W:0 L:1 D:0 
 ---
 

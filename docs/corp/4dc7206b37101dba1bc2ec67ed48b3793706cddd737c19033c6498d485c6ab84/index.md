@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Team Rainbow
+title: ​Team Rainbow
 description: Hades' Star Team Rainbow Bonus[🔴] W:1 L:2 D:0 
 ---
 

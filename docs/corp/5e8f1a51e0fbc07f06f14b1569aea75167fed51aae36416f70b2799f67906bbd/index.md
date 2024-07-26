@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fishy Business 
+title: ​Fishy Business 
 description: Hades' Star Fishy Business  Bonus[🔴] W:1 L:1 D:0 
 ---
 

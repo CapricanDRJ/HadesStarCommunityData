@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stargate Corp
+title: ​Stargate Corp
 description: Hades' Star Stargate Corp Bonus[🟢] W:35 L:15 D:0 
 ---
 

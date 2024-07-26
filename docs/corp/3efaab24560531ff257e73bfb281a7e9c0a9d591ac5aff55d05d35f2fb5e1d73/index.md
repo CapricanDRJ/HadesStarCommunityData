@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CIS
+title: ​CIS
 description: Hades' Star CIS Bonus[🟢] W:30 L:4 D:0 
 ---
 

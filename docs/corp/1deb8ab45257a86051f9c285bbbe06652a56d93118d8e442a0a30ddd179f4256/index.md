@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 星际联盟（中国）
+title: ​星际联盟（中国）
 description: Hades' Star 星际联盟（中国） Bonus[🟢] W:7 L:9 D:1 
 ---
 

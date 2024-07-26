@@ -1,6 +1,6 @@
 ---
 layout: page
-title: (◉▼◉ ﾐﾐ )Э
+title: ​(◉▼◉ ﾐﾐ )Э
 description: Hades' Star (◉▼◉ ﾐﾐ )Э Bonus[🔴] W:0 L:1 D:0 
 ---
 

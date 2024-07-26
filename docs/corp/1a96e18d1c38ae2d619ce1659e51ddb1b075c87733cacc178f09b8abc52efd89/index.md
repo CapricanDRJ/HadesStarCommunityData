@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vermilion
+title: ​Vermilion
 description: Hades' Star Vermilion Bonus[🔴] W:1 L:5 D:1 
 ---
 

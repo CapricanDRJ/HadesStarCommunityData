@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Red Dwarf
+title: ​Red Dwarf
 description: Hades' Star Red Dwarf Bonus[🔴] W:0 L:1 D:0 
 ---
 

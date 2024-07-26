@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Time Lords
+title: ​Time Lords
 description: Hades' Star Time Lords Bonus[🔴] W:0 L:1 D:0 
 ---
 

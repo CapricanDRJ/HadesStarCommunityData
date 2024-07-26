@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Альянс
+title: ​Альянс
 description: Hades' Star Альянс Bonus[🔴] W:25 L:9 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: EZCO
+title: ​EZCO
 description: Hades' Star EZCO Bonus[🔴] W:13 L:14 D:1 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: OntarioDestiny
+title: ​OntarioDestiny
 description: Hades' Star OntarioDestiny Bonus[🔴] W:9 L:19 D:0 
 ---
 

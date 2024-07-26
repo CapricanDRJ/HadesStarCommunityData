@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Titan Inc.
+title: ​Titan Inc.
 description: Hades' Star Titan Inc. Bonus[🔴] W:0 L:0 D:1 
 ---
 

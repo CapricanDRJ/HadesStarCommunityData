@@ -1,6 +1,6 @@
 ---
 layout: page
-title: REFOUNDATION 
+title: ​REFOUNDATION 
 description: Hades' Star REFOUNDATION  Bonus[🔴] W:0 L:2 D:0 
 ---
 

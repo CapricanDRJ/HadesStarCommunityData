@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Серебряная орда
+title: ​Серебряная орда
 description: Hades' Star Серебряная орда Bonus[🟢] W:44 L:27 D:2 
 ---
 

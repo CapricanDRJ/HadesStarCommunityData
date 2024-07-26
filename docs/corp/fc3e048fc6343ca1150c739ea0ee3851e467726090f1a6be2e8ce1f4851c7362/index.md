@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ГОРИЗОНТ
+title: ​ГОРИЗОНТ
 description: Hades' Star ГОРИЗОНТ Bonus[🟢] W:9 L:46 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GhostNakcoorp
+title: ​GhostNakcoorp
 description: Hades' Star GhostNakcoorp Bonus[🟢] W:23 L:15 D:0 
 ---
 

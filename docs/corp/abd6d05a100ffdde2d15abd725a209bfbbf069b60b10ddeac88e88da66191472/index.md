@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 华夏舰队
+title: ​华夏舰队
 description: Hades' Star 华夏舰队 Bonus[🔴] W:20 L:25 D:0 
 ---
 

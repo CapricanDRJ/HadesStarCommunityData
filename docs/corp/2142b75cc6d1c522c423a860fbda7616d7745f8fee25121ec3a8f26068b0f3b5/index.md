@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 星舰国际
+title: ​星舰国际
 description: Hades' Star 星舰国际 Bonus[🟢] W:4 L:2 D:0 
 ---
 

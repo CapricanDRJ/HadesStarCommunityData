@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Alpha Galaxy
+title: ​Alpha Galaxy
 description: Hades' Star Alpha Galaxy Bonus[🔴] W:0 L:0 D:1 
 ---
 

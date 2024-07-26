@@ -1,6 +1,6 @@
 ---
 layout: page
-title: U.I.H
+title: ​U.I.H
 description: Hades' Star U.I.H Bonus[🔴] W:0 L:3 D:0 
 ---
 

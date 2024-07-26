@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Trade Station
+title: ​Trade Station
 description: Hades' Star Trade Station Bonus[🔴] W:4 L:31 D:0 
 ---
 

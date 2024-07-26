@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 우주미아
+title: ​우주미아
 description: Hades' Star 우주미아 Bonus[🔴] W:0 L:5 D:0 
 ---
 

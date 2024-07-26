@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Continuum
+title: ​Continuum
 description: Hades' Star Continuum Bonus[🟢] W:51 L:27 D:1 
 ---
 

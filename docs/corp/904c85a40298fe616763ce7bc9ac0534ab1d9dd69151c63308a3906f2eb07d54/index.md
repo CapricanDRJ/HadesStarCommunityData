@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Thunderbears
+title: ​Thunderbears
 description: Hades' Star Thunderbears Bonus[🔴] W:3 L:5 D:1 
 ---
 

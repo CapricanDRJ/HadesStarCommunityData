@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Лютые
+title: ​Лютые
 description: Hades' Star Лютые Bonus[🔴] W:10 L:9 D:1 
 ---
 

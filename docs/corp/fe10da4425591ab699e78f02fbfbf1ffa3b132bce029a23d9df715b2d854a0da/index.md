@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Yellow Dwarf 
+title: ​Yellow Dwarf 
 description: Hades' Star Yellow Dwarf  Bonus[🔴] W:1 L:0 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Core Systems
+title: ​Core Systems
 description: Hades' Star Core Systems Bonus[🔴] W:3 L:2 D:2 
 ---
 

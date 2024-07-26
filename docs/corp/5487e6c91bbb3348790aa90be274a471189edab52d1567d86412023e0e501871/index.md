@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 星际集团
+title: ​星际集团
 description: Hades' Star 星际集团 Bonus[🔴] W:2 L:4 D:2 
 ---
 

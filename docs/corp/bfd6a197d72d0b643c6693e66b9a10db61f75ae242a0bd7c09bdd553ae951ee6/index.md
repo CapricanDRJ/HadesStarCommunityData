@@ -1,6 +1,6 @@
 ---
 layout: page
-title: the Rubber Duck
+title: ​the Rubber Duck
 description: Hades' Star the Rubber Duck Bonus[🔴] W:5 L:10 D:0 
 ---
 

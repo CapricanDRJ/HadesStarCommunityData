@@ -1,6 +1,6 @@
 ---
 layout: page
-title: cikopo
+title: ​cikopo
 description: Hades' Star cikopo Bonus[🔴] W:0 L:3 D:0 
 ---
 

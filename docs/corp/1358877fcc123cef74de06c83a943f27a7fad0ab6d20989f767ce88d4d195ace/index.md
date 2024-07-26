@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Повстанцы Хаоса
+title: ​Повстанцы Хаоса
 description: Hades' Star Повстанцы Хаоса Bonus[🟢] W:21 L:4 D:0 
 ---
 

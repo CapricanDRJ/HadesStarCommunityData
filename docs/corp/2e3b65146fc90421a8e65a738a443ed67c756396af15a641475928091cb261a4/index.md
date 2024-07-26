@@ -1,6 +1,6 @@
 ---
 layout: page
-title: UK Armada
+title: ​UK Armada
 description: Hades' Star UK Armada Bonus[🔴] W:3 L:2 D:1 
 ---
 

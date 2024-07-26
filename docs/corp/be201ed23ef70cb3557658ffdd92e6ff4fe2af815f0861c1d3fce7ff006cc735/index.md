@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sith order
+title: ​Sith order
 description: Hades' Star Sith order Bonus[🔴] W:1 L:1 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Created
+title: ​Created
 description: Hades' Star Created Bonus[🔴] W:5 L:22 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: oen
+title: ​oen
 description: Hades' Star oen Bonus[🟢] W:2 L:0 D:0 
 ---
 

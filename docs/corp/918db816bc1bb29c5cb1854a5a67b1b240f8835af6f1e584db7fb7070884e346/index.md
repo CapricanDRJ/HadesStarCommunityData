@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Polaris Corpo
+title: ​Polaris Corpo
 description: Hades' Star Polaris Corpo Bonus[🔴] W:7 L:3 D:0 
 ---
 

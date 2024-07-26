@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HighSociety
+title: ​HighSociety
 description: Hades' Star HighSociety Bonus[🔴] W:2 L:1 D:0 
 ---
 

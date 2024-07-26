@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wispered Storm
+title: ​Wispered Storm
 description: Hades' Star Wispered Storm Bonus[🔴] W:0 L:2 D:0 
 ---
 

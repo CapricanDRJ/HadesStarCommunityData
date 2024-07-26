@@ -1,6 +1,6 @@
 ---
 layout: page
-title: helvetic force
+title: ​helvetic force
 description: Hades' Star helvetic force Bonus[🔴] W:2 L:1 D:0 
 ---
 

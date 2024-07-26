@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kratos
+title: ​Kratos
 description: Hades' Star Kratos Bonus[🟢] W:37 L:17 D:0 
 ---
 

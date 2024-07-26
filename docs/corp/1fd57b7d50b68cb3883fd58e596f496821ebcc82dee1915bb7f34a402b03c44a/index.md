@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Scar
+title: ​Scar
 description: Hades' Star Scar Bonus[🟢] W:25 L:16 D:1 
 ---
 

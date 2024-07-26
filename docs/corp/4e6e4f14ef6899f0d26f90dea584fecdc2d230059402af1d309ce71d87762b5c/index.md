@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Скричеры
+title: ​Скричеры
 description: Hades' Star Скричеры Bonus[🔴] W:2 L:2 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Br Stark Corps
+title: ​Br Stark Corps
 description: Hades' Star Br Stark Corps Bonus[🔴] W:3 L:6 D:0 
 ---
 

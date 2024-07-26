@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Омикрон Альфа
+title: ​Омикрон Альфа
 description: Hades' Star Омикрон Альфа Bonus[🔴] W:1 L:0 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 仙剑3
+title: ​仙剑3
 description: Hades' Star 仙剑3 Bonus[🔴] W:1 L:0 D:0 
 ---
 

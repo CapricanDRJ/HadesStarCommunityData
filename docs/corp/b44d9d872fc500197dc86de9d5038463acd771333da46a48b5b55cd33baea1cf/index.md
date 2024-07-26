@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 阿尔特拉集团
+title: ​阿尔特拉集团
 description: Hades' Star 阿尔特拉集团 Bonus[🟢] W:19 L:22 D:2 
 ---
 

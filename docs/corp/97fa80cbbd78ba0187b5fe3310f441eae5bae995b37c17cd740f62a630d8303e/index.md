@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gastro
+title: ​Gastro
 description: Hades' Star Gastro Bonus[🟢] W:2 L:3 D:0 
 ---
 

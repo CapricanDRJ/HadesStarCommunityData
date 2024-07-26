@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dritte Macht
+title: ​Dritte Macht
 description: Hades' Star Dritte Macht Bonus[🔴] W:0 L:1 D:0 
 ---
 

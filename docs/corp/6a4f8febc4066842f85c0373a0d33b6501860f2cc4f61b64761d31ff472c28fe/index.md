@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Quilliance
+title: ​Quilliance
 description: Hades' Star Quilliance Bonus[🟢] W:14 L:2 D:0 
 ---
 

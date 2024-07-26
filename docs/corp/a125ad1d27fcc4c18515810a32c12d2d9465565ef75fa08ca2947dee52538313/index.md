@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rocket-by Baby
+title: ​Rocket-by Baby
 description: Hades' Star Rocket-by Baby Bonus[🔴] W:0 L:6 D:0 
 ---
 

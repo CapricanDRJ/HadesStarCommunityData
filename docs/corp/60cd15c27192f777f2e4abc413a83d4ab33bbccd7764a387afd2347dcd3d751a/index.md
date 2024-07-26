@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stone Legion
+title: ​Stone Legion
 description: Hades' Star Stone Legion Bonus[🟢] W:19 L:5 D:0 
 ---
 

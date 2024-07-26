@@ -1,6 +1,6 @@
 ---
 layout: page
-title: O.E.B.
+title: ​O.E.B.
 description: Hades' Star O.E.B. Bonus[🔴] W:0 L:2 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Рикардия
+title: ​Рикардия
 description: Hades' Star Рикардия Bonus[🔴] W:0 L:1 D:0 
 ---
 

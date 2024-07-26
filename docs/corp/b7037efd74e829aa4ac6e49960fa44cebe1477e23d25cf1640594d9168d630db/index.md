@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rising star
+title: ​Rising star
 description: Hades' Star Rising star Bonus[🟢] W:18 L:26 D:0 
 ---
 

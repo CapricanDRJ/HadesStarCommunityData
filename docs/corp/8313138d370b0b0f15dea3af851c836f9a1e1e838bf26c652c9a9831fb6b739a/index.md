@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dauntless
+title: ​Dauntless
 description: Hades' Star Dauntless Bonus[🔴] W:6 L:17 D:0 
 ---
 

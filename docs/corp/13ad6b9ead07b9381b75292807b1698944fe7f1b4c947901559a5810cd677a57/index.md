@@ -1,6 +1,6 @@
 ---
 layout: page
-title: R.S.F.
+title: ​R.S.F.
 description: Hades' Star R.S.F. Bonus[🔴] W:0 L:2 D:0 
 ---
 

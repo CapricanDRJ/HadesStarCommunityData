@@ -1,6 +1,6 @@
 ---
 layout: page
-title: STAR EMPIRE 16
+title: ​STAR EMPIRE 16
 description: Hades' Star STAR EMPIRE 16 Bonus[🔴] W:0 L:3 D:0 
 ---
 

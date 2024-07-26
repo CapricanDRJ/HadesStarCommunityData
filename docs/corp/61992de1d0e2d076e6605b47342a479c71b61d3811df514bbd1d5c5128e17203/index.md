@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 小宇宙研究会
+title: ​小宇宙研究会
 description: Hades' Star 小宇宙研究会 Bonus[🔴] W:1 L:2 D:0 
 ---
 

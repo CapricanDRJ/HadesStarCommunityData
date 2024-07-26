@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Glashan
+title: ​Glashan
 description: Hades' Star Glashan Bonus[🔴] W:3 L:27 D:0 
 ---
 

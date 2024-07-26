@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vanu Centurions
+title: ​Vanu Centurions
 description: Hades' Star Vanu Centurions Bonus[🔴] W:0 L:1 D:0 
 ---
 

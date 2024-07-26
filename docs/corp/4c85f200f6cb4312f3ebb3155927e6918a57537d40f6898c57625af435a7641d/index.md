@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LOST PIRATES
+title: ​LOST PIRATES
 description: Hades' Star LOST PIRATES Bonus[🔴] W:0 L:5 D:0 
 ---
 

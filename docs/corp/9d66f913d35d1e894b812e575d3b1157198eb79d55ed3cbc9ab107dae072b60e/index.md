@@ -1,6 +1,6 @@
 ---
 layout: page
-title: uzumaki
+title: ​uzumaki
 description: Hades' Star uzumaki Bonus[🟢] W:1 L:0 D:0 
 ---
 

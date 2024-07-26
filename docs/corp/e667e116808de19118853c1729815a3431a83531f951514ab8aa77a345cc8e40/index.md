@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Highlife
+title: ​Highlife
 description: Hades' Star Highlife Bonus[🔴] W:18 L:18 D:1 
 ---
 

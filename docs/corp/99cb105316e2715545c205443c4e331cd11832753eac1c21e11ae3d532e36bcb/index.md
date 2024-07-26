@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 火洋之心
+title: ​火洋之心
 description: Hades' Star 火洋之心 Bonus[🔴] W:4 L:1 D:2 
 ---
 

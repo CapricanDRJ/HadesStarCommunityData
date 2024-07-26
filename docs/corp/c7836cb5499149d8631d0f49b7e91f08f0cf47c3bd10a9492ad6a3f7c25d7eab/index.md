@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hellfire Club
+title: ​Hellfire Club
 description: Hades' Star Hellfire Club Bonus[🟢] W:29 L:23 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blue Space
+title: ​Blue Space
 description: Hades' Star Blue Space Bonus[🔴] W:4 L:5 D:0 
 ---
 

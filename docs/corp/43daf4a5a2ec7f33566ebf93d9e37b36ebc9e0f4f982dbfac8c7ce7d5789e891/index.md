@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rebellion!
+title: ​Rebellion!
 description: Hades' Star Rebellion! Bonus[🔴] W:0 L:1 D:1 
 ---
 

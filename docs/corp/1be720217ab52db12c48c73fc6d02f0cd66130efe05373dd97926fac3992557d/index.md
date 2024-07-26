@@ -1,6 +1,6 @@
 ---
 layout: page
-title: UAGC
+title: ​UAGC
 description: Hades' Star UAGC Bonus[🟢] W:22 L:16 D:0 
 ---
 

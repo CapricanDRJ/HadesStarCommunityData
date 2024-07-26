@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Void
+title: ​Void
 description: Hades' Star Void Bonus[🟢] W:6 L:7 D:0 
 ---
 

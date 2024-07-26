@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 星舰月球
+title: ​星舰月球
 description: Hades' Star 星舰月球 Bonus[🔴] W:29 L:8 D:0 
 ---
 

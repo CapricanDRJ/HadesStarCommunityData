@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Betelgeuse
+title: ​Betelgeuse
 description: Hades' Star Betelgeuse Bonus[🔴] W:0 L:1 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Persistence
+title: ​Persistence
 description: Hades' Star Persistence Bonus[🔴] W:0 L:1 D:0 
 ---
 

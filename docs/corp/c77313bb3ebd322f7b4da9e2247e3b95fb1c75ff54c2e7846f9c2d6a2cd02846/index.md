@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Zeon
+title: ​Zeon
 description: Hades' Star Zeon Bonus[🔴] W:0 L:4 D:0 
 ---
 

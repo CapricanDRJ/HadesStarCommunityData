@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SPACECOWBOYS
+title: ​SPACECOWBOYS
 description: Hades' Star SPACECOWBOYS Bonus[🔴] W:0 L:1 D:0 
 ---
 

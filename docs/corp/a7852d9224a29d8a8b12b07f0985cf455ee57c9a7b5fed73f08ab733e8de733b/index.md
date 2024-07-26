@@ -1,6 +1,6 @@
 ---
 layout: page
-title: КРЫЛЯ ФЕНИКСА
+title: ​КРЫЛЯ ФЕНИКСА
 description: Hades' Star КРЫЛЯ ФЕНИКСА Bonus[🔴] W:4 L:4 D:0 
 ---
 

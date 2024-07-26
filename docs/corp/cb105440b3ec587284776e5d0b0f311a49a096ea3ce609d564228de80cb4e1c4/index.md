@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Black Nova
+title: ​Black Nova
 description: Hades' Star Black Nova Bonus[🔴] W:0 L:1 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Venture
+title: ​Venture
 description: Hades' Star Venture Bonus[🔴] W:8 L:22 D:4 
 ---
 

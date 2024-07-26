@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Феникс 
+title: ​Феникс 
 description: Hades' Star Феникс  Bonus[🔴] W:1 L:1 D:0 
 ---
 

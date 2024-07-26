@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BoomTech
+title: ​BoomTech
 description: Hades' Star BoomTech Bonus[🟢] W:18 L:5 D:1 
 ---
 

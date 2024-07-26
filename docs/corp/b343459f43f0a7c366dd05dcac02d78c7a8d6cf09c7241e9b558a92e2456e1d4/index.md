@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Death Flight
+title: ​Death Flight
 description: Hades' Star Death Flight Bonus[🔴] W:13 L:41 D:1 
 ---
 

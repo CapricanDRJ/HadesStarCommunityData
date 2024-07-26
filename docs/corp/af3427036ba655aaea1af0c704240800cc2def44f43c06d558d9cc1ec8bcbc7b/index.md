@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Черный Легион
+title: ​Черный Легион
 description: Hades' Star Черный Легион Bonus[🔴] W:16 L:8 D:0 
 ---
 

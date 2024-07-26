@@ -1,6 +1,6 @@
 ---
 layout: page
-title: nuevo mundo
+title: ​nuevo mundo
 description: Hades' Star nuevo mundo Bonus[🟢] W:7 L:7 D:0 
 ---
 

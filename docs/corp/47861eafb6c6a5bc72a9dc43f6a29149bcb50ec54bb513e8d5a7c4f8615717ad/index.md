@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Red Star Banker
+title: ​Red Star Banker
 description: Hades' Star Red Star Banker Bonus[🔴] W:0 L:2 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ТРУЛЯЛЯ
+title: ​ТРУЛЯЛЯ
 description: Hades' Star ТРУЛЯЛЯ Bonus[🔴] W:0 L:1 D:0 
 ---
 

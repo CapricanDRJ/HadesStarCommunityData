@@ -1,6 +1,6 @@
 ---
 layout: page
-title: KARI
+title: ​KARI
 description: Hades' Star KARI Bonus[🔴] W:2 L:62 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Russia
+title: ​Russia
 description: Hades' Star Russia Bonus[🔴] W:1 L:8 D:0 
 ---
 

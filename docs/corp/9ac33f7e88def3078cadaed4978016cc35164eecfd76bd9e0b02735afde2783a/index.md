@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dying stars
+title: ​Dying stars
 description: Hades' Star Dying stars Bonus[🔴] W:0 L:1 D:0 
 ---
 

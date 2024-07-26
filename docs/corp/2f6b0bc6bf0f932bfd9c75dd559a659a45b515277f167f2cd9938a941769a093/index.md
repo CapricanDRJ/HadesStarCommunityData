@@ -1,6 +1,6 @@
 ---
 layout: page
-title: E.T.A 二营
+title: ​E.T.A 二营
 description: Hades' Star E.T.A 二营 Bonus[🔴] W:0 L:9 D:2 
 ---
 

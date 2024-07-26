@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SpaceX
+title: ​SpaceX
 description: Hades' Star SpaceX Bonus[🔴] W:0 L:2 D:0 
 ---
 

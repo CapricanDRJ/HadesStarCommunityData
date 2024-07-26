@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dark Skai
+title: ​Dark Skai
 description: Hades' Star Dark Skai Bonus[🔴] W:1 L:11 D:0 
 ---
 

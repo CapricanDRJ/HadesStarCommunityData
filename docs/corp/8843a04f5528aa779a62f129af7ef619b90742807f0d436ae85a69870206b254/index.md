@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Valhalla Rising
+title: ​Valhalla Rising
 description: Hades' Star Valhalla Rising Bonus[🟢] W:22 L:2 D:0 
 ---
 

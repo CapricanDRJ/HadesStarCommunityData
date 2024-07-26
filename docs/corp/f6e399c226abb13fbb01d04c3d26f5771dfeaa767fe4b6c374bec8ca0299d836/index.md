@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Star League
+title: ​Star League
 description: Hades' Star Star League Bonus[🔴] W:0 L:2 D:0 
 ---
 

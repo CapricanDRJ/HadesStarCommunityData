@@ -1,6 +1,6 @@
 ---
 layout: page
-title: O.P.S
+title: ​O.P.S
 description: Hades' Star O.P.S Bonus[🔴] W:0 L:1 D:0 
 ---
 

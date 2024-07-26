@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Antioch
+title: ​Antioch
 description: Hades' Star Antioch Bonus[🟢] W:9 L:14 D:0 
 ---
 

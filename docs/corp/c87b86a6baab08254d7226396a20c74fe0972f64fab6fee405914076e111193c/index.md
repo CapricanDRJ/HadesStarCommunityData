@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Titan Corp.
+title: ​Titan Corp.
 description: Hades' Star Titan Corp. Bonus[🔴] W:22 L:17 D:0 
 ---
 

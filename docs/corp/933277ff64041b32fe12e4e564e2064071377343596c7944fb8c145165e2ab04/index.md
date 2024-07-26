@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 自由星际联盟
+title: ​自由星际联盟
 description: Hades' Star 自由星际联盟 Bonus[🟢] W:6 L:31 D:0 
 ---
 

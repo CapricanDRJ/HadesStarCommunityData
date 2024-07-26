@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 蓝色星系一号分盟
+title: ​蓝色星系一号分盟
 description: Hades' Star 蓝色星系一号分盟 Bonus[🔴] W:0 L:3 D:0 
 ---
 

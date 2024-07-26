@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mecha Armada
+title: ​Mecha Armada
 description: Hades' Star Mecha Armada Bonus[🔴] W:2 L:1 D:0 
 ---
 

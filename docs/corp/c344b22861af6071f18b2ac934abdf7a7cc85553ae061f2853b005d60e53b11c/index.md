@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MiniStarRaiders
+title: ​MiniStarRaiders
 description: Hades' Star MiniStarRaiders Bonus[🔴] W:0 L:1 D:0 
 ---
 

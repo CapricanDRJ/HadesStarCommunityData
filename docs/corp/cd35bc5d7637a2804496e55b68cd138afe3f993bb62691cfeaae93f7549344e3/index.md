@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NAC
+title: ​NAC
 description: Hades' Star NAC Bonus[🔴] W:0 L:1 D:1 
 ---
 

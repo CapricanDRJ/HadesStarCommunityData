@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Foundation
+title: ​The Foundation
 description: Hades' Star The Foundation Bonus[🔴] W:3 L:1 D:1 
 ---
 

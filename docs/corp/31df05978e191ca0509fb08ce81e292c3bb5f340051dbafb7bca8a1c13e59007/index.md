@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elder Things
+title: ​Elder Things
 description: Hades' Star Elder Things Bonus[🔴] W:0 L:1 D:0 
 ---
 

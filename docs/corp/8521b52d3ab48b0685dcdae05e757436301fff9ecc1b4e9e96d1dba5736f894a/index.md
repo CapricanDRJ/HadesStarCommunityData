@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 中国星系集团
+title: ​中国星系集团
 description: Hades' Star 中国星系集团 Bonus[🔴] W:7 L:1 D:0 
 ---
 

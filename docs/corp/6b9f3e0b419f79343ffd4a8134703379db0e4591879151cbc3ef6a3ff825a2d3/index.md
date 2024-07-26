@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Winged Pheonix
+title: ​Winged Pheonix
 description: Hades' Star Winged Pheonix Bonus[🟢] W:3 L:9 D:0 
 ---
 

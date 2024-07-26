@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Gathering
+title: ​The Gathering
 description: Hades' Star The Gathering Bonus[🔴] W:1 L:3 D:0 
 ---
 

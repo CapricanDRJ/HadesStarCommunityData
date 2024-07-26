@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 盾牌座UY分团
+title: ​盾牌座UY分团
 description: Hades' Star 盾牌座UY分团 Bonus[🔴] W:0 L:3 D:0 
 ---
 

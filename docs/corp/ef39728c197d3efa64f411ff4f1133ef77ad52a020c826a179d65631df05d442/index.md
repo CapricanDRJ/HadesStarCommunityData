@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Spectre
+title: ​Spectre
 description: Hades' Star Spectre Bonus[🔴] W:0 L:3 D:0 
 ---
 

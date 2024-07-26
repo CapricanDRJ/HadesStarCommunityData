@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hamburg AG 2
+title: ​Hamburg AG 2
 description: Hades' Star Hamburg AG 2 Bonus[🟢] W:5 L:8 D:0 
 ---
 

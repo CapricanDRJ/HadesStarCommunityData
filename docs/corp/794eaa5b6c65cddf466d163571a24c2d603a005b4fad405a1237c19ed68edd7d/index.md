@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blackwater co.
+title: ​Blackwater co.
 description: Hades' Star Blackwater co. Bonus[🔴] W:0 L:1 D:1 
 ---
 

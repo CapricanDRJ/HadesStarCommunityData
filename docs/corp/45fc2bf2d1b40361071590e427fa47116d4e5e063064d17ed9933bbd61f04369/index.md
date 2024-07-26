@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Deadspace
+title: ​Deadspace
 description: Hades' Star Deadspace Bonus[🟢] W:16 L:23 D:0 
 ---
 

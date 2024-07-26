@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Furyans
+title: ​Furyans
 description: Hades' Star Furyans Bonus[🔴] W:1 L:0 D:0 
 ---
 

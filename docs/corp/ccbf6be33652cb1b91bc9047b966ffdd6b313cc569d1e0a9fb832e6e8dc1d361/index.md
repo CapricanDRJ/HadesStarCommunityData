@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 数字星际集团
+title: ​数字星际集团
 description: Hades' Star 数字星际集团 Bonus[🔴] W:6 L:7 D:1 
 ---
 

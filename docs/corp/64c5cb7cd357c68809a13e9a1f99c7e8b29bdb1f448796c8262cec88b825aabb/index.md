@@ -1,6 +1,6 @@
 ---
 layout: page
-title: РОДНЫЕ.
+title: ​РОДНЫЕ.
 description: Hades' Star РОДНЫЕ. Bonus[🔴] W:4 L:5 D:0 
 ---
 

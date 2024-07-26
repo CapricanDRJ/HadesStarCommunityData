@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Equinox
+title: ​Equinox
 description: Hades' Star Equinox Bonus[🟢] W:10 L:12 D:1 
 ---
 

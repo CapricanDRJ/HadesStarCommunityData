@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ༀᅗBAR ESTELARᅗༀ
+title: ​ༀᅗBAR ESTELARᅗༀ
 description: Hades' Star ༀᅗBAR ESTELARᅗༀ Bonus[🔴] W:1 L:11 D:0 
 ---
 

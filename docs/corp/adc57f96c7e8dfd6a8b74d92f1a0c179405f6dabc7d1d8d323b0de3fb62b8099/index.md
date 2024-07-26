@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bandidos
+title: ​Bandidos
 description: Hades' Star Bandidos Bonus[🔴] W:0 L:1 D:0 
 ---
 

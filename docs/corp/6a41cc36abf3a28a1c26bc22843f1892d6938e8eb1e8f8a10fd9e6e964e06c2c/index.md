@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Space Marshalls
+title: ​Space Marshalls
 description: Hades' Star Space Marshalls Bonus[🔴] W:28 L:18 D:0 
 ---
 

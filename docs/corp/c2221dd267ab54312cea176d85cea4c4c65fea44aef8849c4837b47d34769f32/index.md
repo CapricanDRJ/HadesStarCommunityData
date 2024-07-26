@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Drużyna B
+title: ​Drużyna B
 description: Hades' Star Drużyna B Bonus[🔴] W:0 L:1 D:0 
 ---
 

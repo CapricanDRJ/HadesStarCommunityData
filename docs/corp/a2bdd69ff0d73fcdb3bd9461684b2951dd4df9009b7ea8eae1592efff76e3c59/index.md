@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curcubeu
+title: ​Curcubeu
 description: Hades' Star Curcubeu Bonus[🔴] W:17 L:10 D:0 
 ---
 

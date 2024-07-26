@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Imperio Nova
+title: ​Imperio Nova
 description: Hades' Star Imperio Nova Bonus[🔴] W:0 L:3 D:0 
 ---
 

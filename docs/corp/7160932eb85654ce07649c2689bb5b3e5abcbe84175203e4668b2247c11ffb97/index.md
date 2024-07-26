@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Star Field
+title: ​Star Field
 description: Hades' Star Star Field Bonus[🟢] W:7 L:1 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Укр інтроверти
+title: ​Укр інтроверти
 description: Hades' Star Укр інтроверти Bonus[🔴] W:1 L:4 D:0 
 ---
 

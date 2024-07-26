@@ -1,6 +1,6 @@
 ---
 layout: page
-title: death squadron 
+title: ​death squadron 
 description: Hades' Star death squadron  Bonus[🔴] W:18 L:22 D:0 
 ---
 

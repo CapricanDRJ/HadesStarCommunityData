@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sprite
+title: ​Sprite
 description: Hades' Star Sprite Bonus[🔴] W:3 L:4 D:0 
 ---
 

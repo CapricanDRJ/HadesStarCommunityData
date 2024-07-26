@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Albedo
+title: ​Albedo
 description: Hades' Star Albedo Bonus[🔴] W:23 L:6 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NoweUkladyII
+title: ​NoweUkladyII
 description: Hades' Star NoweUkladyII Bonus[🟢] W:10 L:0 D:0 
 ---
 

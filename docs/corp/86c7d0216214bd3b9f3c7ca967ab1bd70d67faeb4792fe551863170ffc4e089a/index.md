@@ -1,6 +1,6 @@
 ---
 layout: page
-title:   边界  
+title: ​  边界  
 description: Hades' Star   边界   Bonus[🟢] W:6 L:1 D:0 
 ---
 

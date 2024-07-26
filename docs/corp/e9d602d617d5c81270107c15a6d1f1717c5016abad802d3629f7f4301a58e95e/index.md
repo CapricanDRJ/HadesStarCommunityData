@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 元素联邦
+title: ​元素联邦
 description: Hades' Star 元素联邦 Bonus[🟢] W:24 L:13 D:0 
 ---
 

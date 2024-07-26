@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Omega Alpha
+title: ​Omega Alpha
 description: Hades' Star Omega Alpha Bonus[🟢] W:24 L:4 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cronos World
+title: ​Cronos World
 description: Hades' Star Cronos World Bonus[🔴] W:0 L:2 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: wyvern
+title: ​wyvern
 description: Hades' Star wyvern Bonus[🔴] W:2 L:3 D:0 
 ---
 

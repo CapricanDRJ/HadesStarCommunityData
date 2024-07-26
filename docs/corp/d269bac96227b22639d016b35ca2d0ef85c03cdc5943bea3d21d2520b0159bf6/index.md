@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Back of the bus
+title: ​Back of the bus
 description: Hades' Star Back of the bus Bonus[🔴] W:1 L:0 D:0 
 ---
 

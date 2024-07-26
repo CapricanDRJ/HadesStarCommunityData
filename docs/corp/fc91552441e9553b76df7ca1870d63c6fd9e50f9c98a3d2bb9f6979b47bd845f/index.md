@@ -1,6 +1,6 @@
 ---
 layout: page
-title: the heavy
+title: ​the heavy
 description: Hades' Star the heavy Bonus[🔴] W:10 L:9 D:0 
 ---
 

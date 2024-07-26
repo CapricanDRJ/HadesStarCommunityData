@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LCP
+title: ​LCP
 description: Hades' Star LCP Bonus[🔴] W:0 L:2 D:0 
 ---
 

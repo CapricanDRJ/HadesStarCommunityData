@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AKA
+title: ​AKA
 description: Hades' Star AKA Bonus[🔴] W:0 L:10 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PDC
+title: ​PDC
 description: Hades' Star PDC Bonus[🟢] W:14 L:6 D:2 
 ---
 

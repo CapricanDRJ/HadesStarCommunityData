@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Highland Ind. 
+title: ​Highland Ind. 
 description: Hades' Star Highland Ind.  Bonus[🔴] W:10 L:10 D:1 
 ---
 

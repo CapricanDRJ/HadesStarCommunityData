@@ -1,6 +1,6 @@
 ---
 layout: page
-title: New Horizons
+title: ​New Horizons
 description: Hades' Star New Horizons Bonus[🔴] W:6 L:6 D:0 
 ---
 

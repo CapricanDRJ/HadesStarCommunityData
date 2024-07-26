@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MILIBARINOS
+title: ​MILIBARINOS
 description: Hades' Star MILIBARINOS Bonus[🔴] W:0 L:1 D:0 
 ---
 

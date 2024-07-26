@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 六大天神.轻歌之影
+title: ​六大天神.轻歌之影
 description: Hades' Star 六大天神.轻歌之影 Bonus[🔴] W:22 L:26 D:0 
 ---
 

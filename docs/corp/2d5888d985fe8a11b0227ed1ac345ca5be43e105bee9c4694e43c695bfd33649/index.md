@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ギャラクシー富士山
+title: ​ギャラクシー富士山
 description: Hades' Star ギャラクシー富士山 Bonus[🔴] W:2 L:4 D:0 
 ---
 

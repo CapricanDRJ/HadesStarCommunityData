@@ -1,6 +1,6 @@
 ---
 layout: page
-title: united unicorn
+title: ​united unicorn
 description: Hades' Star united unicorn Bonus[🔴] W:1 L:0 D:0 
 ---
 

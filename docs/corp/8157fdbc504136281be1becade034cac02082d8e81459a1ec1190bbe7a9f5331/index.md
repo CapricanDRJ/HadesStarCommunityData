@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Goblin Squad
+title: ​Goblin Squad
 description: Hades' Star Goblin Squad Bonus[🔴] W:4 L:4 D:0 
 ---
 

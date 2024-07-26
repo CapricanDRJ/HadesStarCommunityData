@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Axiom
+title: ​Axiom
 description: Hades' Star Axiom Bonus[🟢] W:45 L:24 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BSO Academy
+title: ​BSO Academy
 description: Hades' Star BSO Academy Bonus[🔴] W:14 L:1 D:0 
 ---
 

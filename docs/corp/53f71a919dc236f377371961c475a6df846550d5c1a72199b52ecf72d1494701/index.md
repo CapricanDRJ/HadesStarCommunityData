@@ -1,6 +1,6 @@
 ---
 layout: page
-title: vosk empire 2
+title: ​vosk empire 2
 description: Hades' Star vosk empire 2 Bonus[🔴] W:0 L:1 D:1 
 ---
 

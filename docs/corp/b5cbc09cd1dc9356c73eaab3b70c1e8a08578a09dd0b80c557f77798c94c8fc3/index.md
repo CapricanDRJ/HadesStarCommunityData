@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ukraine
+title: ​Ukraine
 description: Hades' Star Ukraine Bonus[🔴] W:0 L:1 D:0 
 ---
 

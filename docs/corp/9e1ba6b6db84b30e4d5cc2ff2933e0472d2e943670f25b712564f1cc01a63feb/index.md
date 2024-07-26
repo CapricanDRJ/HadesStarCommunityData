@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AwA
+title: ​AwA
 description: Hades' Star AwA Bonus[🔴] W:2 L:3 D:0 
 ---
 

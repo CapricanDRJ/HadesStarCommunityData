@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ReylZ
+title: ​ReylZ
 description: Hades' Star ReylZ Bonus[🔴] W:0 L:2 D:0 
 ---
 

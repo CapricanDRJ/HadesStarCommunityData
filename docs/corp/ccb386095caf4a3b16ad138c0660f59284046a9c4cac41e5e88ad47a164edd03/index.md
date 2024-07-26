@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dahoam in AT
+title: ​Dahoam in AT
 description: Hades' Star Dahoam in AT Bonus[🔴] W:0 L:1 D:0 
 ---
 

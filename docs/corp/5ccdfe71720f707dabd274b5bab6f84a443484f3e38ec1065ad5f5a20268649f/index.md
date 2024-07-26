@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Copelius
+title: ​Copelius
 description: Hades' Star Copelius Bonus[🔴] W:0 L:1 D:0 
 ---
 

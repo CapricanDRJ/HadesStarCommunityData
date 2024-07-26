@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 美丽新世界
+title: ​美丽新世界
 description: Hades' Star 美丽新世界 Bonus[🔴] W:0 L:3 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gemini↕     ☁
+title: ​Gemini↕     ☁
 description: Hades' Star Gemini↕     ☁ Bonus[🔴] W:3 L:9 D:1 
 ---
 

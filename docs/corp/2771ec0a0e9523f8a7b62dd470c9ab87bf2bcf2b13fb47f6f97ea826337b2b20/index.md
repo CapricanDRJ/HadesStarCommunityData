@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mercury Sunset
+title: ​Mercury Sunset
 description: Hades' Star Mercury Sunset Bonus[🟢] W:21 L:0 D:0 
 ---
 

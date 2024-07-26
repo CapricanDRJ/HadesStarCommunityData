@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Españoles
+title: ​Españoles
 description: Hades' Star Españoles Bonus[🟢] W:11 L:44 D:0 
 ---
 

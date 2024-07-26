@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Коллайдер
+title: ​Коллайдер
 description: Hades' Star Коллайдер Bonus[🔴] W:0 L:1 D:0 
 ---
 

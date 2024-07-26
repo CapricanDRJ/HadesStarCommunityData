@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Призрачный Путь
+title: ​Призрачный Путь
 description: Hades' Star Призрачный Путь Bonus[🔴] W:13 L:5 D:0 
 ---
 

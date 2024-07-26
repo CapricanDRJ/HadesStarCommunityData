@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sith Empire
+title: ​Sith Empire
 description: Hades' Star Sith Empire Bonus[🟢] W:19 L:29 D:0 
 ---
 

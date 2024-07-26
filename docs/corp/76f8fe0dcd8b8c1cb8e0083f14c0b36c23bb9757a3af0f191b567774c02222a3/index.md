@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bl@ck/Galaxy 
+title: ​Bl@ck/Galaxy 
 description: Hades' Star Bl@ck/Galaxy  Bonus[🟢] W:15 L:13 D:1 
 ---
 

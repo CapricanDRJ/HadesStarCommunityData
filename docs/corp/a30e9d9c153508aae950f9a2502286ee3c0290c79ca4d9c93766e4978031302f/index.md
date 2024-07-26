@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mega Corp
+title: ​Mega Corp
 description: Hades' Star Mega Corp Bonus[🔴] W:0 L:1 D:0 
 ---
 

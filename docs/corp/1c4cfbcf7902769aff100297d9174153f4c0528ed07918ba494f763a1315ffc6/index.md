@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Allegiant
+title: ​The Allegiant
 description: Hades' Star The Allegiant Bonus[🟢] W:17 L:8 D:0 
 ---
 

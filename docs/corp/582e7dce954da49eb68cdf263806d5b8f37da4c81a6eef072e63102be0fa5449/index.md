@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Argentina 1.0
+title: ​Argentina 1.0
 description: Hades' Star Argentina 1.0 Bonus[🟢] W:17 L:12 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ul'Adri
+title: ​Ul'Adri
 description: Hades' Star Ul'Adri Bonus[🔴] W:10 L:10 D:0 
 ---
 

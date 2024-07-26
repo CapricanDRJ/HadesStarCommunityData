@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Nearland Ind
+title: ​Nearland Ind
 description: Hades' Star Nearland Ind Bonus[🟢] W:37 L:17 D:0 
 ---
 

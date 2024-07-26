@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Covenant
+title: ​The Covenant
 description: Hades' Star The Covenant Bonus[🔴] W:0 L:1 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: StellarCorpIT
+title: ​StellarCorpIT
 description: Hades' Star StellarCorpIT Bonus[🟢] W:8 L:1 D:0 
 ---
 

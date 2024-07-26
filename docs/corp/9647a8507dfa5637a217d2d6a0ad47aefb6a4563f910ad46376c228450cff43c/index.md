@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CTG
+title: ​CTG
 description: Hades' Star CTG Bonus[🟢] W:10 L:13 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Titans Pro
+title: ​The Titans Pro
 description: Hades' Star The Titans Pro Bonus[🔴] W:1 L:0 D:0 
 ---
 

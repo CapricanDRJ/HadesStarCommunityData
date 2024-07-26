@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 星光舰队
+title: ​星光舰队
 description: Hades' Star 星光舰队 Bonus[🟢] W:3 L:2 D:0 
 ---
 

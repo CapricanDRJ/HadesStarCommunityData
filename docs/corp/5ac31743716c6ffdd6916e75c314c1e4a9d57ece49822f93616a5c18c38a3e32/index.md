@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stars Radiant
+title: ​Stars Radiant
 description: Hades' Star Stars Radiant Bonus[🔴] W:0 L:1 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Majapahit
+title: ​Majapahit
 description: Hades' Star Majapahit Bonus[🔴] W:6 L:1 D:0 
 ---
 

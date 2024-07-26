@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Duchy Kalladan
+title: ​Duchy Kalladan
 description: Hades' Star Duchy Kalladan Bonus[🔴] W:1 L:1 D:0 
 ---
 

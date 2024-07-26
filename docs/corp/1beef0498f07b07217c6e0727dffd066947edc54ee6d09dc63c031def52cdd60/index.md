@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  墨痕 
+title: ​ 墨痕 
 description: Hades' Star  墨痕  Bonus[🔴] W:7 L:11 D:0 
 ---
 

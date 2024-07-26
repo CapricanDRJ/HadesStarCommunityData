@@ -1,6 +1,6 @@
 ---
 layout: page
-title: New Orbit ©
+title: ​New Orbit ©
 description: Hades' Star New Orbit © Bonus[🔴] W:0 L:1 D:0 
 ---
 

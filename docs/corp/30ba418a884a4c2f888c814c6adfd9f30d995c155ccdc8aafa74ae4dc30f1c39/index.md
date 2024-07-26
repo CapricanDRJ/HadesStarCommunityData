@@ -1,6 +1,6 @@
 ---
 layout: page
-title: titan tv
+title: ​titan tv
 description: Hades' Star titan tv Bonus[🔴] W:9 L:22 D:1 
 ---
 

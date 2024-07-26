@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Darknova
+title: ​Darknova
 description: Hades' Star Darknova Bonus[🔴] W:0 L:1 D:0 
 ---
 

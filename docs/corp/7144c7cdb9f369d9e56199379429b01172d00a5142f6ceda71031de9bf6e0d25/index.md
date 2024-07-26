@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JPR. Pretorians
+title: ​JPR. Pretorians
 description: Hades' Star JPR. Pretorians Bonus[🔴] W:6 L:9 D:0 
 ---
 

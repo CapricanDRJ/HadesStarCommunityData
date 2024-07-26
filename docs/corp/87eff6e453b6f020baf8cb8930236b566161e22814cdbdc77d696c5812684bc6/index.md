@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Space Pirates
+title: ​Space Pirates
 description: Hades' Star Space Pirates Bonus[🔴] W:5 L:30 D:0 
 ---
 

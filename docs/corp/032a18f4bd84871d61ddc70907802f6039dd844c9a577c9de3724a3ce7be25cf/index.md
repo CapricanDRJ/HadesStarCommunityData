@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ОРИОН
+title: ​ОРИОН
 description: Hades' Star ОРИОН Bonus[🔴] W:0 L:1 D:0 
 ---
 

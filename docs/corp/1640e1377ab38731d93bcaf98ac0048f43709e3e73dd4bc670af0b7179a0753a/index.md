@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 遨游星空
+title: ​遨游星空
 description: Hades' Star 遨游星空 Bonus[🔴] W:0 L:1 D:0 
 ---
 

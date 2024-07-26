@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 风云集团
+title: ​风云集团
 description: Hades' Star 风云集团 Bonus[🔴] W:1 L:3 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FoxTale
+title: ​FoxTale
 description: Hades' Star FoxTale Bonus[🔴] W:0 L:2 D:0 
 ---
 

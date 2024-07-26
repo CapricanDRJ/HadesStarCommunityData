@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ninth Planet
+title: ​Ninth Planet
 description: Hades' Star Ninth Planet Bonus[🟢] W:38 L:4 D:0 
 ---
 

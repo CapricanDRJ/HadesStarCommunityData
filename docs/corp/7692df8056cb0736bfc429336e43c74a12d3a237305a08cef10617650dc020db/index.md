@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 世外桃源
+title: ​世外桃源
 description: Hades' Star 世外桃源 Bonus[🟢] W:9 L:77 D:0 
 ---
 

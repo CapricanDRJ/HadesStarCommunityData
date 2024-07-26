@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ELITE
+title: ​ELITE
 description: Hades' Star ELITE Bonus[🔴] W:0 L:1 D:1 
 ---
 

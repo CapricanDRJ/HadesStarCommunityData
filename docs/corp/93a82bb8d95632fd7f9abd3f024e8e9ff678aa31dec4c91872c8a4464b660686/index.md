@@ -1,6 +1,6 @@
 ---
 layout: page
-title: United Artists
+title: ​United Artists
 description: Hades' Star United Artists Bonus[🔴] W:0 L:2 D:0 
 ---
 

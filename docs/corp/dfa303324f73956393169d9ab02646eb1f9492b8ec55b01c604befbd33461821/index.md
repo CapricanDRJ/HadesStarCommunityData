@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 𝖕𝖎𝖗𝖆𝖙𝖊𝖘
+title: ​𝖕𝖎𝖗𝖆𝖙𝖊𝖘
 description: Hades' Star 𝖕𝖎𝖗𝖆𝖙𝖊𝖘 Bonus[🔴] W:1 L:1 D:0 
 ---
 

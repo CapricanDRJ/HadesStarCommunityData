@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Suicide Squad
+title: ​Suicide Squad
 description: Hades' Star Suicide Squad Bonus[🔴] W:0 L:1 D:0 
 ---
 

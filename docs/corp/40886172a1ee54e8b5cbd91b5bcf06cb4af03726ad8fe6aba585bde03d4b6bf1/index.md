@@ -1,6 +1,6 @@
 ---
 layout: page
-title: M4-Valhalla
+title: ​M4-Valhalla
 description: Hades' Star M4-Valhalla Bonus[🔴] W:0 L:2 D:0 
 ---
 

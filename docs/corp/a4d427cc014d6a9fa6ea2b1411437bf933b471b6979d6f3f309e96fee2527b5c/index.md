@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Redd Armada
+title: ​Redd Armada
 description: Hades' Star Redd Armada Bonus[🔴] W:8 L:2 D:0 
 ---
 

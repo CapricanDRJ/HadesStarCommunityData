@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Star League
+title: ​The Star League
 description: Hades' Star The Star League Bonus[🔴] W:5 L:11 D:0 
 ---
 

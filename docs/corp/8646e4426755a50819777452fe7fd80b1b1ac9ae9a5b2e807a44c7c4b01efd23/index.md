@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 第一序列
+title: ​第一序列
 description: Hades' Star 第一序列 Bonus[🟢] W:33 L:34 D:0 
 ---
 

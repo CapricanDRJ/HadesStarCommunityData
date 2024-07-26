@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DESERT DEMONS
+title: ​DESERT DEMONS
 description: Hades' Star DESERT DEMONS Bonus[🔴] W:0 L:2 D:0 
 ---
 

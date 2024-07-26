@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Die pösn Purchn
+title: ​Die pösn Purchn
 description: Hades' Star Die pösn Purchn Bonus[🔴] W:0 L:2 D:0 
 ---
 

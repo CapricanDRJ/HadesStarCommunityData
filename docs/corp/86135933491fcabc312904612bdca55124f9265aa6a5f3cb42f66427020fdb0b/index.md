@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Newbs
+title: ​Newbs
 description: Hades' Star Newbs Bonus[🔴] W:26 L:11 D:1 
 ---
 

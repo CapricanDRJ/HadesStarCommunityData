@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  brazil com.
+title: ​ brazil com.
 description: Hades' Star  brazil com. Bonus[🔴] W:0 L:1 D:0 
 ---
 

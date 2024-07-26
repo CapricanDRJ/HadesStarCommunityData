@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lacuna Ind.
+title: ​Lacuna Ind.
 description: Hades' Star Lacuna Ind. Bonus[🔴] W:5 L:18 D:1 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ༺༽ʚ天轮间ɞ༼༻
+title: ​༺༽ʚ天轮间ɞ༼༻
 description: Hades' Star ༺༽ʚ天轮间ɞ༼༻ Bonus[🔴] W:1 L:2 D:0 
 ---
 

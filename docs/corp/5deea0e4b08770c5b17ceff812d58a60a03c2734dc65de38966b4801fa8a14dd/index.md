@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RDR2
+title: ​RDR2
 description: Hades' Star RDR2 Bonus[🔴] W:0 L:0 D:1 
 ---
 

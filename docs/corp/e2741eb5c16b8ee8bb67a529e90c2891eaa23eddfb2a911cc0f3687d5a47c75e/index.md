@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blood Hounds
+title: ​Blood Hounds
 description: Hades' Star Blood Hounds Bonus[🟢] W:52 L:8 D:1 
 ---
 

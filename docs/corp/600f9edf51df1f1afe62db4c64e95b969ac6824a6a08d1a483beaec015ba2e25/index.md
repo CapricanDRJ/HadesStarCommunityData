@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 地球联合
+title: ​地球联合
 description: Hades' Star 地球联合 Bonus[🔴] W:12 L:3 D:0 
 ---
 

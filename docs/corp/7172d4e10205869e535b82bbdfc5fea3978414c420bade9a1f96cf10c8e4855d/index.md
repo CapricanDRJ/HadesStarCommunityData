@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 지고받자
+title: ​지고받자
 description: Hades' Star 지고받자 Bonus[🔴] W:0 L:9 D:0 
 ---
 

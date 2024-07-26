@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Krasse Bros
+title: ​Krasse Bros
 description: Hades' Star Krasse Bros Bonus[🔴] W:5 L:1 D:0 
 ---
 

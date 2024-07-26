@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Star-Jump CORPS
+title: ​Star-Jump CORPS
 description: Hades' Star Star-Jump CORPS Bonus[🔴] W:0 L:1 D:0 
 ---
 

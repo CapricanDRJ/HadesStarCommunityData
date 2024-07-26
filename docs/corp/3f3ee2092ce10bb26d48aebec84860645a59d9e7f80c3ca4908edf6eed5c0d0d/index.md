@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Nightmares 
+title: ​Nightmares 
 description: Hades' Star Nightmares  Bonus[🔴] W:0 L:2 D:0 
 ---
 

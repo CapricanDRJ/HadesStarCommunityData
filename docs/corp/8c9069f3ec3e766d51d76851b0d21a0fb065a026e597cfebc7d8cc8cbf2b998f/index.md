@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TheBasics
+title: ​TheBasics
 description: Hades' Star TheBasics Bonus[🔴] W:29 L:36 D:1 
 ---
 

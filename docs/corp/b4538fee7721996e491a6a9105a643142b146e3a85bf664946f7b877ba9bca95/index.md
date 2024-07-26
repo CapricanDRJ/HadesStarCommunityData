@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ArcadianVoiders
+title: ​ArcadianVoiders
 description: Hades' Star ArcadianVoiders Bonus[🔴] W:0 L:2 D:0 
 ---
 

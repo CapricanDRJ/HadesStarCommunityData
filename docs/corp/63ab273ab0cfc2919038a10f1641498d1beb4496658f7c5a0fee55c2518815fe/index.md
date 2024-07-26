@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gulinga
+title: ​Gulinga
 description: Hades' Star Gulinga Bonus[🔴] W:0 L:2 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Space Donuts
+title: ​Space Donuts
 description: Hades' Star Space Donuts Bonus[🔴] W:2 L:4 D:0 
 ---
 

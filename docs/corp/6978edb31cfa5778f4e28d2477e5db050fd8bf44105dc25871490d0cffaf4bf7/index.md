@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Int. Trading Co
+title: ​Int. Trading Co
 description: Hades' Star Int. Trading Co Bonus[🔴] W:16 L:9 D:1 
 ---
 

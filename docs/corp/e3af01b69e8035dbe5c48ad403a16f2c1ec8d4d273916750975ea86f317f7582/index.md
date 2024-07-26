@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rogue Dudes
+title: ​Rogue Dudes
 description: Hades' Star Rogue Dudes Bonus[🟢] W:2 L:0 D:0 
 ---
 

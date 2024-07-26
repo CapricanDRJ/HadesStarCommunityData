@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 27rus
+title: ​27rus
 description: Hades' Star 27rus Bonus[🔴] W:0 L:1 D:0 
 ---
 

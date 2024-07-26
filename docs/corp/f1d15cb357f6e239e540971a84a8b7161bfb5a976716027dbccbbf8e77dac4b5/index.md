@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Новый ЭДЭМ
+title: ​Новый ЭДЭМ
 description: Hades' Star Новый ЭДЭМ Bonus[🔴] W:2 L:3 D:1 
 ---
 

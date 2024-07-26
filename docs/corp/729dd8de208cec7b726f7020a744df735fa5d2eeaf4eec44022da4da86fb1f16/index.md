@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Serenity
+title: ​Serenity
 description: Hades' Star Serenity Bonus[🔴] W:0 L:2 D:0 
 ---
 

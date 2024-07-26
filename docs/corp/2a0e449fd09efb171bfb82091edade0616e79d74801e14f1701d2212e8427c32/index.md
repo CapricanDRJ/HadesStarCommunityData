@@ -1,6 +1,6 @@
 ---
 layout: page
-title: R2D2
+title: ​R2D2
 description: Hades' Star R2D2 Bonus[🔴] W:0 L:2 D:0 
 ---
 

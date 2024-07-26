@@ -1,6 +1,6 @@
 ---
 layout: page
-title: VoidRunners
+title: ​VoidRunners
 description: Hades' Star VoidRunners Bonus[🟢] W:50 L:28 D:0 
 ---
 

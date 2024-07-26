@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Бестрашный лиги
+title: ​Бестрашный лиги
 description: Hades' Star Бестрашный лиги Bonus[🔴] W:3 L:5 D:0 
 ---
 

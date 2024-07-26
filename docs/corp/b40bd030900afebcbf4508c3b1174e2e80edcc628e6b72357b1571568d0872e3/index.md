@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hades Academy
+title: ​Hades Academy
 description: Hades' Star Hades Academy Bonus[🔴] W:5 L:5 D:0 
 ---
 

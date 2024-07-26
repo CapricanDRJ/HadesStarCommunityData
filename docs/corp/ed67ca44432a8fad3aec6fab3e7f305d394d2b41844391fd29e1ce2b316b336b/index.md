@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lacuna Academy
+title: ​Lacuna Academy
 description: Hades' Star Lacuna Academy Bonus[🔴] W:15 L:2 D:0 
 ---
 

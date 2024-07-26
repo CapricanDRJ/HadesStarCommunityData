@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Warriorlords
+title: ​Warriorlords
 description: Hades' Star Warriorlords Bonus[🟢] W:20 L:8 D:0 
 ---
 

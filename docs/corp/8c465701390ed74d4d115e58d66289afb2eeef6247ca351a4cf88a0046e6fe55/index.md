@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 探索舰队
+title: ​探索舰队
 description: Hades' Star 探索舰队 Bonus[🟢] W:16 L:13 D:1 
 ---
 

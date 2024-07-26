@@ -1,6 +1,6 @@
 ---
 layout: page
-title: l'empire sylli
+title: ​l'empire sylli
 description: Hades' Star l'empire sylli Bonus[🔴] W:0 L:6 D:0 
 ---
 

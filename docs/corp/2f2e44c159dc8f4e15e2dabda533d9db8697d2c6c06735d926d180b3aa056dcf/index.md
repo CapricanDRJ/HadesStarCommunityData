@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Angel Dragon
+title: ​Angel Dragon
 description: Hades' Star Angel Dragon Bonus[🔴] W:12 L:8 D:1 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Internationals
+title: ​Internationals
 description: Hades' Star Internationals Bonus[🟢] W:13 L:9 D:0 
 ---
 

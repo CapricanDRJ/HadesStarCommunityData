@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Thurn and Taxis
+title: ​Thurn and Taxis
 description: Hades' Star Thurn and Taxis Bonus[🔴] W:2 L:0 D:0 
 ---
 

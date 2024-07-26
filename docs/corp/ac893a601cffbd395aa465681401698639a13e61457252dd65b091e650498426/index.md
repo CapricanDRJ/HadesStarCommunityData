@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tycho Corp
+title: ​Tycho Corp
 description: Hades' Star Tycho Corp Bonus[🔴] W:0 L:2 D:0 
 ---
 

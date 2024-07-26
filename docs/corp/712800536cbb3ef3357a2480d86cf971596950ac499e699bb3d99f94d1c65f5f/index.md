@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 혁명군
+title: ​혁명군
 description: Hades' Star 혁명군 Bonus[🔴] W:13 L:32 D:0 
 ---
 

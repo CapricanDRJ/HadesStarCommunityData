@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cominters
+title: ​Cominters
 description: Hades' Star Cominters Bonus[🔴] W:0 L:1 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Медведи
+title: ​Медведи
 description: Hades' Star Медведи Bonus[🔴] W:36 L:4 D:0 
 ---
 

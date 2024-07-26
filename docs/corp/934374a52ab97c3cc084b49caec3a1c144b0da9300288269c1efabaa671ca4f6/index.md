@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LUPI ROMÎNI
+title: ​LUPI ROMÎNI
 description: Hades' Star LUPI ROMÎNI Bonus[🔴] W:1 L:3 D:0 
 ---
 

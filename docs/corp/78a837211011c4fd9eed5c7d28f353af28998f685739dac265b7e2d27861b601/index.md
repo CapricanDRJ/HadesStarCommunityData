@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kiith Trollani
+title: ​Kiith Trollani
 description: Hades' Star Kiith Trollani Bonus[🔴] W:0 L:1 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Terranova
+title: ​Terranova
 description: Hades' Star Terranova Bonus[🔴] W:3 L:27 D:0 
 ---
 

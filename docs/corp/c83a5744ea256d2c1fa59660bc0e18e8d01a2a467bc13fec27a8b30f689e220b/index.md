@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SiriusStrawMoo
+title: ​SiriusStrawMoo
 description: Hades' Star SiriusStrawMoo Bonus[🟢] W:3 L:3 D:0 
 ---
 

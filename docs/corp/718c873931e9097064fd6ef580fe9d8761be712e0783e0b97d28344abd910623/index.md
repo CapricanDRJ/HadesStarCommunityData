@@ -1,6 +1,6 @@
 ---
 layout: page
-title: lesescargots
+title: ​lesescargots
 description: Hades' Star lesescargots Bonus[🟢] W:36 L:14 D:0 
 ---
 

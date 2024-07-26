@@ -1,6 +1,6 @@
 ---
 layout: page
-title: space eagles
+title: ​space eagles
 description: Hades' Star space eagles Bonus[🔴] W:0 L:1 D:0 
 ---
 

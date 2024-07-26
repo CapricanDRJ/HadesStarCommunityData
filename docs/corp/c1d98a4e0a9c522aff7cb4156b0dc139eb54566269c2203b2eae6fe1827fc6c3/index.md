@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Brasil
+title: ​Brasil
 description: Hades' Star Brasil Bonus[🔴] W:0 L:2 D:0 
 ---
 

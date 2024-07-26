@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Poison Nebula
+title: ​Poison Nebula
 description: Hades' Star Poison Nebula Bonus[🔴] W:0 L:1 D:0 
 ---
 

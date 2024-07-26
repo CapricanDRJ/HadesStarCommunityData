@@ -1,6 +1,6 @@
 ---
 layout: page
-title: русский клан 
+title: ​русский клан 
 description: Hades' Star русский клан  Bonus[🔴] W:1 L:1 D:0 
 ---
 

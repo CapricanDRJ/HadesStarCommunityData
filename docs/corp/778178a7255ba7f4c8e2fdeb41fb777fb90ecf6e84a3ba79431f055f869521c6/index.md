@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Crucible 
+title: ​Crucible 
 description: Hades' Star Crucible  Bonus[🔴] W:1 L:1 D:0 
 ---
 

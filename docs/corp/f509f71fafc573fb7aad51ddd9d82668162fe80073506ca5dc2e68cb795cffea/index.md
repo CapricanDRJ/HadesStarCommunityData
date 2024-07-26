@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Odessa
+title: ​Odessa
 description: Hades' Star Odessa Bonus[🔴] W:5 L:12 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Starsailors
+title: ​Starsailors
 description: Hades' Star Starsailors Bonus[🔴] W:21 L:6 D:0 
 ---
 

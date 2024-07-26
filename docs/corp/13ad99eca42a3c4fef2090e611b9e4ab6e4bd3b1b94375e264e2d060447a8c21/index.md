@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Round Table 
+title: ​Round Table 
 description: Hades' Star Round Table  Bonus[🔴] W:0 L:1 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 愿君仍常在
+title: ​愿君仍常在
 description: Hades' Star 愿君仍常在 Bonus[🔴] W:0 L:1 D:0 
 ---
 

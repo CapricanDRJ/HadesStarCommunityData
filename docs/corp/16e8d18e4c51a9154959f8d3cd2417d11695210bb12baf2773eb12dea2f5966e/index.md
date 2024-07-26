@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sektion 32
+title: ​Sektion 32
 description: Hades' Star Sektion 32 Bonus[🔴] W:4 L:7 D:1 
 ---
 

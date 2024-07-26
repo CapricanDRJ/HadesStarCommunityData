@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Czech Legion
+title: ​Czech Legion
 description: Hades' Star Czech Legion Bonus[🟢] W:4 L:1 D:0 
 ---
 

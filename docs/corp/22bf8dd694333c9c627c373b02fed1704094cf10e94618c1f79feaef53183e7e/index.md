@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 新?的星际集团?
+title: ​新?的星际集团?
 description: Hades' Star 新?的星际集团? Bonus[🟢] W:2 L:2 D:0 
 ---
 

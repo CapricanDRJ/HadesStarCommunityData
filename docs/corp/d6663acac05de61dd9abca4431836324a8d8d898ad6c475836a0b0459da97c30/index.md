@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lolis Corp
+title: ​Lolis Corp
 description: Hades' Star Lolis Corp Bonus[🔴] W:0 L:2 D:0 
 ---
 

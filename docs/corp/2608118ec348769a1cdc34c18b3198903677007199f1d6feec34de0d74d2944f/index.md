@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sector7
+title: ​Sector7
 description: Hades' Star Sector7 Bonus[🔴] W:0 L:4 D:1 
 ---
 

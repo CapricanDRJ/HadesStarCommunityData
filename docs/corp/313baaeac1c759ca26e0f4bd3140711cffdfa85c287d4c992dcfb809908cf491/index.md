@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Legion
+title: ​Legion
 description: Hades' Star Legion Bonus[🔴] W:21 L:23 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Galactic Empire
+title: ​Galactic Empire
 description: Hades' Star Galactic Empire Bonus[🔴] W:0 L:1 D:0 
 ---
 

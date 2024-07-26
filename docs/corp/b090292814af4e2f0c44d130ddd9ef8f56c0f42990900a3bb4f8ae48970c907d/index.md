@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Enigma
+title: ​Enigma
 description: Hades' Star Enigma Bonus[🔴] W:1 L:1 D:0 
 ---
 

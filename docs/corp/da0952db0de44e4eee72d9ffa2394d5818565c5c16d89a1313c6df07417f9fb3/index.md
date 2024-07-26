@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Space Rangers
+title: ​Space Rangers
 description: Hades' Star Space Rangers Bonus[🔴] W:17 L:9 D:0 
 ---
 

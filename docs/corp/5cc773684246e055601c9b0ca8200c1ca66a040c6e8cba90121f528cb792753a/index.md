@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 中国星系舰队
+title: ​中国星系舰队
 description: Hades' Star 中国星系舰队 Bonus[🔴] W:2 L:4 D:1 
 ---
 

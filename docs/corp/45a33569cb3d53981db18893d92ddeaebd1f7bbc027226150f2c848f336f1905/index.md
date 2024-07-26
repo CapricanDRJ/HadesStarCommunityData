@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bloodtide
+title: ​Bloodtide
 description: Hades' Star Bloodtide Bonus[🟢] W:35 L:33 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Interestelar
+title: ​Interestelar
 description: Hades' Star Interestelar Bonus[🔴] W:9 L:2 D:0 
 ---
 

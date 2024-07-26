@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Discordia
+title: ​Discordia
 description: Hades' Star Discordia Bonus[🔴] W:0 L:1 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: КЕДР
+title: ​КЕДР
 description: Hades' Star КЕДР Bonus[🔴] W:0 L:1 D:0 
 ---
 

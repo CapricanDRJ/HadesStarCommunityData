@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Aconitum
+title: ​Aconitum
 description: Hades' Star Aconitum Bonus[🔴] W:1 L:0 D:0 
 ---
 

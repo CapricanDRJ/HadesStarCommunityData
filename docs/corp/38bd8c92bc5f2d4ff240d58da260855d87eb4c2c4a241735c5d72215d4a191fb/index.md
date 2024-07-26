@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Nebula
+title: ​Nebula
 description: Hades' Star Nebula Bonus[🔴] W:4 L:15 D:0 
 ---
 

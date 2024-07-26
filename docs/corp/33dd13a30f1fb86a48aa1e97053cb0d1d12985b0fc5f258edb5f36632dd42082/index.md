@@ -1,6 +1,6 @@
 ---
 layout: page
-title: E.T.A
+title: ​E.T.A
 description: Hades' Star E.T.A Bonus[🔴] W:7 L:21 D:0 
 ---
 

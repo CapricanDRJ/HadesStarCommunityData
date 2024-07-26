@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sad Panda 2.0
+title: ​Sad Panda 2.0
 description: Hades' Star Sad Panda 2.0 Bonus[🔴] W:2 L:5 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Richthofen
+title: ​Richthofen
 description: Hades' Star Richthofen Bonus[🔴] W:1 L:1 D:0 
 ---
 

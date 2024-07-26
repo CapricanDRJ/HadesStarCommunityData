@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 萌新港(大佬港)
+title: ​萌新港(大佬港)
 description: Hades' Star 萌新港(大佬港) Bonus[🟢] W:18 L:26 D:0 
 ---
 

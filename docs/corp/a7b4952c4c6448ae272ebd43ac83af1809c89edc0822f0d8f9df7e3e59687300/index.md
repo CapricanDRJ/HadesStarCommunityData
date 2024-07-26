@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CENTINELA
+title: ​CENTINELA
 description: Hades' Star CENTINELA Bonus[🔴] W:0 L:1 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Черное солнце
+title: ​Черное солнце
 description: Hades' Star Черное солнце Bonus[🔴] W:0 L:1 D:1 
 ---
 

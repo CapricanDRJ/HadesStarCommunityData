@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Quantum Web
+title: ​Quantum Web
 description: Hades' Star Quantum Web Bonus[🔴] W:0 L:1 D:1 
 ---
 

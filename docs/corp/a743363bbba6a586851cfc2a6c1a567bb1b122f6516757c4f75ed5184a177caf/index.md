@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Noble
+title: ​Noble
 description: Hades' Star Noble Bonus[🔴] W:0 L:2 D:2 
 ---
 

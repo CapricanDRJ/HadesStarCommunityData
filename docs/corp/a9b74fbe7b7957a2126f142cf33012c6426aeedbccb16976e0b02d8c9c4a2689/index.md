@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Heavens
+title: ​Heavens
 description: Hades' Star Heavens Bonus[🔴] W:0 L:1 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Regulus
+title: ​Regulus
 description: Hades' Star Regulus Bonus[🔴] W:7 L:11 D:0 
 ---
 

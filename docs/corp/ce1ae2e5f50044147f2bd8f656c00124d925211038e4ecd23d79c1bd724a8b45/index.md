@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SNSS
+title: ​SNSS
 description: Hades' Star SNSS Bonus[🔴] W:0 L:2 D:0 
 ---
 

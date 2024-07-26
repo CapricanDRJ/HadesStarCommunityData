@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 六大天神
+title: ​六大天神
 description: Hades' Star 六大天神 Bonus[🟢] W:56 L:43 D:0 
 ---
 

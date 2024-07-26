@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Red Alliance
+title: ​Red Alliance
 description: Hades' Star Red Alliance Bonus[🔴] W:6 L:5 D:0 
 ---
 

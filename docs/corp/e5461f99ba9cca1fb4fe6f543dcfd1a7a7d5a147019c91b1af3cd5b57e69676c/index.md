@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Marvel
+title: ​Marvel
 description: Hades' Star Marvel Bonus[🔴] W:0 L:1 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: リリース
+title: ​リリース
 description: Hades' Star リリース Bonus[🟢] W:33 L:10 D:0 
 ---
 

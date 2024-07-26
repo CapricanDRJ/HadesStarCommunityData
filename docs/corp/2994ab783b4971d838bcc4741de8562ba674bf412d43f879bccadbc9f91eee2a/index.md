@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Alterra Corp
+title: ​Alterra Corp
 description: Hades' Star Alterra Corp Bonus[🔴] W:0 L:0 D:1 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jesus Followers
+title: ​Jesus Followers
 description: Hades' Star Jesus Followers Bonus[🔴] W:1 L:4 D:0 
 ---
 

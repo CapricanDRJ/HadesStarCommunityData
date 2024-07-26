@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 宇宙银河帝国
+title: ​宇宙银河帝国
 description: Hades' Star 宇宙银河帝国 Bonus[🟢] W:21 L:12 D:2 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dark Rangers
+title: ​Dark Rangers
 description: Hades' Star Dark Rangers Bonus[🔴] W:0 L:1 D:0 
 ---
 

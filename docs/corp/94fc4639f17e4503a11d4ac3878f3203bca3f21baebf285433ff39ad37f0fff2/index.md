@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BRASIL STAR
+title: ​BRASIL STAR
 description: Hades' Star BRASIL STAR Bonus[🟢] W:31 L:15 D:1 
 ---
 

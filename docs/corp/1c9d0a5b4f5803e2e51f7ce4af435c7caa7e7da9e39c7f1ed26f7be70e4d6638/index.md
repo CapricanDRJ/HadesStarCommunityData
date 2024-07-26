@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sterling Gamers
+title: ​Sterling Gamers
 description: Hades' Star Sterling Gamers Bonus[🔴] W:1 L:1 D:0 
 ---
 

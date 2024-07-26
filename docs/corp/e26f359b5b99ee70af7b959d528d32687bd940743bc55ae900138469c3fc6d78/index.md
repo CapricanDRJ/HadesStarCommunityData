@@ -1,6 +1,6 @@
 ---
 layout: page
-title: UniversalCaos
+title: ​UniversalCaos
 description: Hades' Star UniversalCaos Bonus[🔴] W:1 L:0 D:0 
 ---
 

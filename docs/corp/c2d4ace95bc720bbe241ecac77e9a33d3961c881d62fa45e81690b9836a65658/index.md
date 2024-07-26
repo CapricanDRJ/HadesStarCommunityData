@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 青丘湖
+title: ​青丘湖
 description: Hades' Star 青丘湖 Bonus[🔴] W:0 L:2 D:0 
 ---
 

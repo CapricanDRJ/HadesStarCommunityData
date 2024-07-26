@@ -1,6 +1,6 @@
 ---
 layout: page
-title: UsualSuspects
+title: ​UsualSuspects
 description: Hades' Star UsualSuspects Bonus[🔴] W:0 L:4 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WTF
+title: ​WTF
 description: Hades' Star WTF Bonus[🔴] W:1 L:2 D:0 
 ---
 

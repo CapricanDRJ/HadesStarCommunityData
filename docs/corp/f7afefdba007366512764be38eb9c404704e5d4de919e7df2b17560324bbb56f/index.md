@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Seperatists
+title: ​The Seperatists
 description: Hades' Star The Seperatists Bonus[🔴] W:15 L:19 D:0 
 ---
 

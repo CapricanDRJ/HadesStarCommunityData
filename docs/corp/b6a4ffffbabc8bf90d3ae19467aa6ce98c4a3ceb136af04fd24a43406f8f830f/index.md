@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 아베노노
+title: ​아베노노
 description: Hades' Star 아베노노 Bonus[🔴] W:2 L:2 D:1 
 ---
 

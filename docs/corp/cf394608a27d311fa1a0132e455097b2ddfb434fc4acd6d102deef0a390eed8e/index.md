@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Offshore Trash
+title: ​Offshore Trash
 description: Hades' Star Offshore Trash Bonus[🔴] W:2 L:2 D:0 
 ---
 

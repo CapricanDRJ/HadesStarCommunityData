@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hand of Legion 
+title: ​Hand of Legion 
 description: Hades' Star Hand of Legion  Bonus[🔴] W:4 L:1 D:0 
 ---
 

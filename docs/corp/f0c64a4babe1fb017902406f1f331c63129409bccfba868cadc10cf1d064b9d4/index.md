@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AFronteiraFinal
+title: ​AFronteiraFinal
 description: Hades' Star AFronteiraFinal Bonus[🟢] W:20 L:6 D:1 
 ---
 

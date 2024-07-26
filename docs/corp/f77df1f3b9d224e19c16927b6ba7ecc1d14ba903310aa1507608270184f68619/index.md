@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TearsWorld
+title: ​TearsWorld
 description: Hades' Star TearsWorld Bonus[🔴] W:0 L:1 D:0 
 ---
 

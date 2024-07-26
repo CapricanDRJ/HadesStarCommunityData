@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Widow Makers
+title: ​Widow Makers
 description: Hades' Star Widow Makers Bonus[🔴] W:3 L:2 D:0 
 ---
 

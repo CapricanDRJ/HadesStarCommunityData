@@ -1,6 +1,6 @@
 ---
 layout: page
-title: universe leader
+title: ​universe leader
 description: Hades' Star universe leader Bonus[🔴] W:2 L:8 D:1 
 ---
 

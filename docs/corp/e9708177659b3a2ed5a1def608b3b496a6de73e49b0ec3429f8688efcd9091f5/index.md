@@ -1,6 +1,6 @@
 ---
 layout: page
-title: VALLKIRIA
+title: ​VALLKIRIA
 description: Hades' Star VALLKIRIA Bonus[🔴] W:3 L:0 D:0 
 ---
 

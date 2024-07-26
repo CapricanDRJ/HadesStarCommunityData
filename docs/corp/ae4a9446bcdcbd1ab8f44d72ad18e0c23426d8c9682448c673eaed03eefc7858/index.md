@@ -1,6 +1,6 @@
 ---
 layout: page
-title: /tmp
+title: ​/tmp
 description: Hades' Star /tmp Bonus[🔴] W:1 L:0 D:0 
 ---
 

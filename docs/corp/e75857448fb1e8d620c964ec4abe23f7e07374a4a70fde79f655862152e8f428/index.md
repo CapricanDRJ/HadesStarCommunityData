@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BlackStar Order
+title: ​BlackStar Order
 description: Hades' Star BlackStar Order Bonus[🟢] W:45 L:29 D:0 
 ---
 

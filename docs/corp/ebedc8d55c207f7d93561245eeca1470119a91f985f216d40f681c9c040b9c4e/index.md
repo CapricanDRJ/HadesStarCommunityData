@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Frontier X
+title: ​Frontier X
 description: Hades' Star Frontier X Bonus[🔴] W:9 L:4 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 新手联邦活动用团
+title: ​新手联邦活动用团
 description: Hades' Star 新手联邦活动用团 Bonus[🔴] W:0 L:1 D:0 
 ---
 

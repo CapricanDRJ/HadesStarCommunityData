@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ZN•H2B
+title: ​ZN•H2B
 description: Hades' Star ZN•H2B Bonus[🔴] W:4 L:9 D:0 
 ---
 

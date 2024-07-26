@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 大舰队がな
+title: ​大舰队がな
 description: Hades' Star 大舰队がな Bonus[🔴] W:0 L:8 D:1 
 ---
 

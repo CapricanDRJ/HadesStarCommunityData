@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 日月星辰
+title: ​日月星辰
 description: Hades' Star 日月星辰 Bonus[🔴] W:2 L:1 D:0 
 ---
 

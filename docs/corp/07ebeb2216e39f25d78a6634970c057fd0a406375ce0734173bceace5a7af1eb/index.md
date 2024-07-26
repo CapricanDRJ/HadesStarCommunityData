@@ -1,6 +1,6 @@
 ---
 layout: page
-title: OTRSᗜωO
+title: ​OTRSᗜωO
 description: Hades' Star OTRSᗜωO Bonus[🟢] W:1 L:1 D:0 
 ---
 

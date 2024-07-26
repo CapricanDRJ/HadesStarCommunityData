@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Germania
+title: ​Germania
 description: Hades' Star Germania Bonus[🟢] W:16 L:21 D:2 
 ---
 

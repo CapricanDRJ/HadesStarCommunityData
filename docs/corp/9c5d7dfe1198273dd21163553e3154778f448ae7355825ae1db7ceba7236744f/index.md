@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Village of Evil
+title: ​Village of Evil
 description: Hades' Star Village of Evil Bonus[🔴] W:0 L:2 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 小红色太阳
+title: ​小红色太阳
 description: Hades' Star 小红色太阳 Bonus[🔴] W:0 L:1 D:0 
 ---
 

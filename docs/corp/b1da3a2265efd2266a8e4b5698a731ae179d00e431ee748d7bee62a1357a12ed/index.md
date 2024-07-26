@@ -1,6 +1,6 @@
 ---
 layout: page
-title: *Alfa y Omega*
+title: ​*Alfa y Omega*
 description: Hades' Star *Alfa y Omega* Bonus[🟢] W:8 L:4 D:0 
 ---
 

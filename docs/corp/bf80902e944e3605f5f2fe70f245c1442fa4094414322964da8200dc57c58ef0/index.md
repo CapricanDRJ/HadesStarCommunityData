@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Das Imperium
+title: ​Das Imperium
 description: Hades' Star Das Imperium Bonus[🔴] W:1 L:8 D:0 
 ---
 

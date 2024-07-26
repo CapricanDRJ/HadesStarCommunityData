@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stellar Exports
+title: ​Stellar Exports
 description: Hades' Star Stellar Exports Bonus[🟢] W:34 L:24 D:0 
 ---
 

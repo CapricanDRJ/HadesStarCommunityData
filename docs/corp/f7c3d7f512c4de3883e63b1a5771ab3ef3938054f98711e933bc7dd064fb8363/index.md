@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wompwompway 
+title: ​Wompwompway 
 description: Hades' Star Wompwompway  Bonus[🔴] W:24 L:8 D:0 
 ---
 

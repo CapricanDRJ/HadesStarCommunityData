@@ -1,6 +1,6 @@
 ---
 layout: page
-title: mijael siuuuuuu
+title: ​mijael siuuuuuu
 description: Hades' Star mijael siuuuuuu Bonus[🔴] W:0 L:12 D:1 
 ---
 

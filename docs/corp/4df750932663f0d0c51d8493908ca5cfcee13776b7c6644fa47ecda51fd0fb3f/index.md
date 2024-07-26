@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ITA 2.0
+title: ​ITA 2.0
 description: Hades' Star ITA 2.0 Bonus[🔴] W:5 L:2 D:0 
 ---
 

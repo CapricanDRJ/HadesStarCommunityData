@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Greek Warriors
+title: ​Greek Warriors
 description: Hades' Star Greek Warriors Bonus[🔴] W:7 L:20 D:0 
 ---
 

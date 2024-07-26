@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ANZAC Warriors
+title: ​ANZAC Warriors
 description: Hades' Star ANZAC Warriors Bonus[🔴] W:16 L:5 D:1 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bund von Lykon
+title: ​Bund von Lykon
 description: Hades' Star Bund von Lykon Bonus[🔴] W:2 L:9 D:0 
 ---
 

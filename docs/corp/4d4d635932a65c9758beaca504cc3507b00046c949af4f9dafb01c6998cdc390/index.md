@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wehrmacht
+title: ​Wehrmacht
 description: Hades' Star Wehrmacht Bonus[🔴] W:0 L:2 D:0 
 ---
 

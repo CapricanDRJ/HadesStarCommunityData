@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jalisco México
+title: ​Jalisco México
 description: Hades' Star Jalisco México Bonus[🔴] W:11 L:26 D:5 
 ---
 

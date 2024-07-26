@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Grater T
+title: ​Grater T
 description: Hades' Star Grater T Bonus[🟢] W:8 L:8 D:0 
 ---
 

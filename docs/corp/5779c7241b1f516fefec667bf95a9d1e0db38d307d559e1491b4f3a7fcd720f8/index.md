@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Zeta LLC
+title: ​Zeta LLC
 description: Hades' Star Zeta LLC Bonus[🔴] W:7 L:2 D:0 
 ---
 

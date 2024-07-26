@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 心之所向
+title: ​心之所向
 description: Hades' Star 心之所向 Bonus[🔴] W:4 L:1 D:0 
 ---
 

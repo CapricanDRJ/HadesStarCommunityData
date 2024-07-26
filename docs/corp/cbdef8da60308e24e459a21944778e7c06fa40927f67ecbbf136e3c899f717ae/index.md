@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Disintegrators
+title: ​Disintegrators
 description: Hades' Star Disintegrators Bonus[🔴] W:2 L:1 D:0 
 ---
 

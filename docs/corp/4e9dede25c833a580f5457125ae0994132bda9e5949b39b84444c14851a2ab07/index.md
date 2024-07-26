@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Training Corp
+title: ​Training Corp
 description: Hades' Star Training Corp Bonus[🔴] W:0 L:1 D:0 
 ---
 

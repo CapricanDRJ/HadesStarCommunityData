@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ДИВЕРСАНТЫ
+title: ​ДИВЕРСАНТЫ
 description: Hades' Star ДИВЕРСАНТЫ Bonus[🟢] W:45 L:6 D:1 
 ---
 

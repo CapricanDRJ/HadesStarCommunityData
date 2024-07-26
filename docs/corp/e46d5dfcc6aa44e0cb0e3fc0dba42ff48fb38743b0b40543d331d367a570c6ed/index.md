@@ -1,6 +1,6 @@
 ---
 layout: page
-title: L.B.H.
+title: ​L.B.H.
 description: Hades' Star L.B.H. Bonus[🔴] W:0 L:1 D:0 
 ---
 

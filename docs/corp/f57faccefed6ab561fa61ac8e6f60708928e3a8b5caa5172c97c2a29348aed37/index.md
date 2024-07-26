@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 公共星际集团
+title: ​公共星际集团
 description: Hades' Star 公共星际集团 Bonus[🟢] W:6 L:19 D:2 
 ---
 

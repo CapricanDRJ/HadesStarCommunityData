@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Eretria 
+title: ​Eretria 
 description: Hades' Star Eretria  Bonus[🟢] W:25 L:22 D:0 
 ---
 

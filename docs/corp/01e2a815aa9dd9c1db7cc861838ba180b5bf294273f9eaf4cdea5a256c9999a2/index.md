@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 华夏远征太空舰队
+title: ​华夏远征太空舰队
 description: Hades' Star 华夏远征太空舰队 Bonus[🔴] W:0 L:1 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: North Star
+title: ​North Star
 description: Hades' Star North Star Bonus[🔴] W:1 L:4 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dumpster Fire 2
+title: ​Dumpster Fire 2
 description: Hades' Star Dumpster Fire 2 Bonus[🔴] W:36 L:40 D:2 
 ---
 

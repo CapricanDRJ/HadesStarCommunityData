@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 边际的文明
+title: ​边际的文明
 description: Hades' Star 边际的文明 Bonus[🔴] W:0 L:4 D:0 
 ---
 

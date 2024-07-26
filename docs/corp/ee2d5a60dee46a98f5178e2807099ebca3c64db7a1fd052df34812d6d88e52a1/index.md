@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Anla'Shok
+title: ​Anla'Shok
 description: Hades' Star Anla'Shok Bonus[🔴] W:2 L:11 D:0 
 ---
 

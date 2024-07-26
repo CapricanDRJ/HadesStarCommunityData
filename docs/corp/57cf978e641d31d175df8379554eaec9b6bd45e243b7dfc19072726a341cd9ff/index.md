@@ -1,6 +1,6 @@
 ---
 layout: page
-title: StargateCommand
+title: ​StargateCommand
 description: Hades' Star StargateCommand Bonus[🔴] W:0 L:0 D:1 
 ---
 

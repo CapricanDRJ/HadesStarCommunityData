@@ -1,6 +1,6 @@
 ---
 layout: page
-title: V0RTEX
+title: ​V0RTEX
 description: Hades' Star V0RTEX Bonus[🔴] W:10 L:9 D:1 
 ---
 

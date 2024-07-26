@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Les Chevaliers
+title: ​Les Chevaliers
 description: Hades' Star Les Chevaliers Bonus[🔴] W:0 L:1 D:0 
 ---
 

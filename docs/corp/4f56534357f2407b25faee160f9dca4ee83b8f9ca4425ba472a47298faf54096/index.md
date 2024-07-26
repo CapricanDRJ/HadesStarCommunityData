@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Z. O. V. 
+title: ​Z. O. V. 
 description: Hades' Star Z. O. V.  Bonus[🟢] W:18 L:4 D:1 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Spacefleet
+title: ​Spacefleet
 description: Hades' Star Spacefleet Bonus[🟢] W:33 L:20 D:0 
 ---
 

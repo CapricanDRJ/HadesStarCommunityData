@@ -1,6 +1,6 @@
 ---
 layout: page
-title: loveboat
+title: ​loveboat
 description: Hades' Star loveboat Bonus[🔴] W:0 L:1 D:0 
 ---
 

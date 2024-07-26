@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Anarchy
+title: ​Anarchy
 description: Hades' Star Anarchy Bonus[🔴] W:0 L:1 D:0 
 ---
 

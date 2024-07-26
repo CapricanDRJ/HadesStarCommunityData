@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 星を継ぐもの
+title: ​星を継ぐもの
 description: Hades' Star 星を継ぐもの Bonus[🟢] W:27 L:10 D:0 
 ---
 

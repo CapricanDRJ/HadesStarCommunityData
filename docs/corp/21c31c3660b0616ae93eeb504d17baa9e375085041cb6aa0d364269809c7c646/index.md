@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Relic Hunters
+title: ​Relic Hunters
 description: Hades' Star Relic Hunters Bonus[🔴] W:1 L:0 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GermanSpaceUno.
+title: ​GermanSpaceUno.
 description: Hades' Star GermanSpaceUno. Bonus[🔴] W:5 L:19 D:0 
 ---
 

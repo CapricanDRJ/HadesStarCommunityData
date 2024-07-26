@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Capibarius
+title: ​Capibarius
 description: Hades' Star Capibarius Bonus[🔴] W:5 L:1 D:0 
 ---
 

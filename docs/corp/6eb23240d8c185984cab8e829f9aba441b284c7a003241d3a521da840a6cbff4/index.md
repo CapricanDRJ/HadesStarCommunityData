@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 猎户座星云
+title: ​猎户座星云
 description: Hades' Star 猎户座星云 Bonus[🔴] W:3 L:6 D:0 
 ---
 

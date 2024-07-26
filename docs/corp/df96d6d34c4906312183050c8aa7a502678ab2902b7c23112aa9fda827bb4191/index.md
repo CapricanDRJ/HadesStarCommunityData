@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Spica​
+title: ​Spica​
 description: Hades' Star Spica​ Bonus[🟢] W:35 L:6 D:1 
 ---
 

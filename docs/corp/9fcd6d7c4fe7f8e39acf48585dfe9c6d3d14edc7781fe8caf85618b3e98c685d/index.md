@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sich.ua
+title: ​Sich.ua
 description: Hades' Star Sich.ua Bonus[🟢] W:19 L:13 D:1 
 ---
 

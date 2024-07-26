@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Discovery
+title: ​Discovery
 description: Hades' Star Discovery Bonus[🔴] W:0 L:1 D:0 
 ---
 

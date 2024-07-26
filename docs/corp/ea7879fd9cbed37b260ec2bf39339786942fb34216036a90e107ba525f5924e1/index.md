@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Got Nothing
+title: ​Got Nothing
 description: Hades' Star Got Nothing Bonus[🔴] W:12 L:8 D:0 
 ---
 

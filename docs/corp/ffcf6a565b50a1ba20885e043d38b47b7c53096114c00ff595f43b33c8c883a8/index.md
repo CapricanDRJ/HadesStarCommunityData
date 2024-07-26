@@ -1,6 +1,6 @@
 ---
 layout: page
-title: the light
+title: ​the light
 description: Hades' Star the light Bonus[🔴] W:0 L:1 D:0 
 ---
 

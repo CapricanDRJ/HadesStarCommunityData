@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resurrección EB
+title: ​Resurrección EB
 description: Hades' Star Resurrección EB Bonus[🔴] W:0 L:1 D:0 
 ---
 

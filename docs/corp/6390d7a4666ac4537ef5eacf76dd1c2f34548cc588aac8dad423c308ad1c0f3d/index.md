@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 水晶星际集团
+title: ​水晶星际集团
 description: Hades' Star 水晶星际集团 Bonus[🔴] W:5 L:21 D:0 
 ---
 

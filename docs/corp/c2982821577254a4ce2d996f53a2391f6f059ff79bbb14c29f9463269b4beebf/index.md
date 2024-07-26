@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curiosity + Cat
+title: ​Curiosity + Cat
 description: Hades' Star Curiosity + Cat Bonus[🔴] W:2 L:6 D:0 
 ---
 

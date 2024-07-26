@@ -1,6 +1,6 @@
 ---
 layout: page
-title: icell
+title: ​icell
 description: Hades' Star icell Bonus[🔴] W:0 L:1 D:0 
 ---
 

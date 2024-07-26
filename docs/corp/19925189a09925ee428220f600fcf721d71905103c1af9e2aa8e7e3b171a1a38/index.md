@@ -1,6 +1,6 @@
 ---
 layout: page
-title: First Legion
+title: ​First Legion
 description: Hades' Star First Legion Bonus[🟢] W:36 L:33 D:1 
 ---
 

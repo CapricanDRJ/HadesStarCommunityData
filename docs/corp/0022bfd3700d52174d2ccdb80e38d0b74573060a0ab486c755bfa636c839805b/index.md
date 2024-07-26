@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Phoenix corp
+title: ​Phoenix corp
 description: Hades' Star Phoenix corp Bonus[🔴] W:0 L:1 D:0 
 ---
 

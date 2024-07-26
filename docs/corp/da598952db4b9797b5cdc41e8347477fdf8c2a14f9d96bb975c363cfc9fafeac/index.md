@@ -1,6 +1,6 @@
 ---
 layout: page
-title: fishwax
+title: ​fishwax
 description: Hades' Star fishwax Bonus[🔴] W:0 L:1 D:0 
 ---
 

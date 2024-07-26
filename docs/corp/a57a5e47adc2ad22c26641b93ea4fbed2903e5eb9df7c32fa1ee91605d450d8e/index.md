@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Doomsday
+title: ​Doomsday
 description: Hades' Star Doomsday Bonus[🔴] W:0 L:1 D:0 
 ---
 

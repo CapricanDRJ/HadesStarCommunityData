@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 海澜之家
+title: ​海澜之家
 description: Hades' Star 海澜之家 Bonus[🔴] W:0 L:1 D:0 
 ---
 

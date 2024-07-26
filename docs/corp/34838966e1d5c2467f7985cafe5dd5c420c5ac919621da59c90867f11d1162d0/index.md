@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NERF TOY'S
+title: ​NERF TOY'S
 description: Hades' Star NERF TOY'S Bonus[🔴] W:18 L:29 D:2 
 ---
 

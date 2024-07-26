@@ -1,6 +1,6 @@
 ---
 layout: page
-title: KLM
+title: ​KLM
 description: Hades' Star KLM Bonus[🔴] W:5 L:24 D:0 
 ---
 

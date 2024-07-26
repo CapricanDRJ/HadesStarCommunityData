@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hermitage
+title: ​Hermitage
 description: Hades' Star Hermitage Bonus[🔴] W:10 L:7 D:0 
 ---
 

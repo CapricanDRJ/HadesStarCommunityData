@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sistemaimperial
+title: ​Sistemaimperial
 description: Hades' Star Sistemaimperial Bonus[🔴] W:1 L:1 D:0 
 ---
 

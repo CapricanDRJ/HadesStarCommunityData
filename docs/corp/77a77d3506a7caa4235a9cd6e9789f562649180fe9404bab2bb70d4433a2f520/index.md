@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Intercepter Inc
+title: ​Intercepter Inc
 description: Hades' Star Intercepter Inc Bonus[🔴] W:0 L:1 D:0 
 ---
 

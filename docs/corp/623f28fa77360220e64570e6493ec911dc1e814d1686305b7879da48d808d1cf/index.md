@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BrazilCorp.
+title: ​BrazilCorp.
 description: Hades' Star BrazilCorp. Bonus[🟢] W:35 L:5 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Casual Joe
+title: ​Casual Joe
 description: Hades' Star Casual Joe Bonus[🔴] W:0 L:2 D:0 
 ---
 

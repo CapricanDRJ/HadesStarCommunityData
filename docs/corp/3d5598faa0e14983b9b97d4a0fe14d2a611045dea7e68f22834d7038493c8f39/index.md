@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Orion
+title: ​Orion
 description: Hades' Star Orion Bonus[🔴] W:12 L:4 D:0 
 ---
 

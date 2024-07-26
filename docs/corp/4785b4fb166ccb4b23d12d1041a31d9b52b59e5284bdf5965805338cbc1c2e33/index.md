@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BlankBoosters
+title: ​BlankBoosters
 description: Hades' Star BlankBoosters Bonus[🔴] W:1 L:3 D:0 
 ---
 

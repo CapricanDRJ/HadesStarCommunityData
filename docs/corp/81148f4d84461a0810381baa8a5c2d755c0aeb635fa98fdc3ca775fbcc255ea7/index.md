@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TheSpacingGuild
+title: ​TheSpacingGuild
 description: Hades' Star TheSpacingGuild Bonus[🔴] W:0 L:1 D:0 
 ---
 

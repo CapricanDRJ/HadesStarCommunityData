@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 德意志阿尔法帝国
+title: ​德意志阿尔法帝国
 description: Hades' Star 德意志阿尔法帝国 Bonus[🔴] W:1 L:1 D:0 
 ---
 

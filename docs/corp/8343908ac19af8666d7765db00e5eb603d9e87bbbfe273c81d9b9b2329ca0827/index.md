@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Inexorable
+title: ​Inexorable
 description: Hades' Star Inexorable Bonus[🔴] W:18 L:11 D:0 
 ---
 

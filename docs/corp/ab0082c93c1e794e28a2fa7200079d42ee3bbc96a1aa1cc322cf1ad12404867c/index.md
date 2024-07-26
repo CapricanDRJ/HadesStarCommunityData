@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 中华人民共和国
+title: ​中华人民共和国
 description: Hades' Star 中华人民共和国 Bonus[🔴] W:0 L:3 D:0 
 ---
 

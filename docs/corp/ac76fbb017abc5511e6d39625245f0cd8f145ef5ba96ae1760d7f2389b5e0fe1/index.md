@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ProyectCorp
+title: ​ProyectCorp
 description: Hades' Star ProyectCorp Bonus[🟢] W:16 L:21 D:0 
 ---
 

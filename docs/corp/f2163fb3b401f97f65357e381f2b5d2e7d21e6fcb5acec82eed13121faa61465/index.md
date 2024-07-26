@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Starbond
+title: ​Starbond
 description: Hades' Star Starbond Bonus[🔴] W:0 L:1 D:0 
 ---
 

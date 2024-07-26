@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Watchers
+title: ​The Watchers
 description: Hades' Star The Watchers Bonus[🔴] W:11 L:14 D:0 
 ---
 

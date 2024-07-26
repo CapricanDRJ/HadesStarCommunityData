@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SALTARDIS
+title: ​SALTARDIS
 description: Hades' Star SALTARDIS Bonus[🔴] W:2 L:6 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 銀河戰狼
+title: ​銀河戰狼
 description: Hades' Star 銀河戰狼 Bonus[🔴] W:0 L:1 D:0 
 ---
 

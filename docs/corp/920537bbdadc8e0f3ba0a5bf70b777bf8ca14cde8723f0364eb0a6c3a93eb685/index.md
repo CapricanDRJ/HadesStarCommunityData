@@ -1,6 +1,6 @@
 ---
 layout: page
-title: UFO
+title: ​UFO
 description: Hades' Star UFO Bonus[🔴] W:4 L:3 D:0 
 ---
 

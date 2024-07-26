@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Imperio Lie Yan
+title: ​Imperio Lie Yan
 description: Hades' Star Imperio Lie Yan Bonus[🔴] W:2 L:1 D:0 
 ---
 

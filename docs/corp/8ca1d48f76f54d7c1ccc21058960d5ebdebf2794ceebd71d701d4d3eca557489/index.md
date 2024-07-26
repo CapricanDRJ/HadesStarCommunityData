@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 第一基地·端点星
+title: ​第一基地·端点星
 description: Hades' Star 第一基地·端点星 Bonus[🔴] W:0 L:1 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: United Stars 
+title: ​United Stars 
 description: Hades' Star United Stars  Bonus[🟢] W:23 L:15 D:1 
 ---
 

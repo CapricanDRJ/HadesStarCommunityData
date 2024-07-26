@@ -1,6 +1,6 @@
 ---
 layout: page
-title: (_(_Vossk_)_)
+title: ​(_(_Vossk_)_)
 description: Hades' Star (_(_Vossk_)_) Bonus[🔴] W:10 L:14 D:0 
 ---
 

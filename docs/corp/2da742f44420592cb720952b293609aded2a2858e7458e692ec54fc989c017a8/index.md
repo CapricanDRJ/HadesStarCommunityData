@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 萌新收留所（目标门集团）
+title: ​萌新收留所（目标门集团）
 description: Hades' Star 萌新收留所（目标门集团） Bonus[🔴] W:1 L:4 D:0 
 ---
 

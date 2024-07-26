@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Eternal empire 
+title: ​Eternal empire 
 description: Hades' Star Eternal empire  Bonus[🔴] W:7 L:15 D:0 
 ---
 

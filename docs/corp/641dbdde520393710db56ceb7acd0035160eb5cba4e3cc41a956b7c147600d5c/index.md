@@ -1,6 +1,6 @@
 ---
 layout: page
-title: StarFun
+title: ​StarFun
 description: Hades' Star StarFun Bonus[🔴] W:0 L:1 D:0 
 ---
 

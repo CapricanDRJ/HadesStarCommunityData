@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 边界-萌新俱乐部
+title: ​边界-萌新俱乐部
 description: Hades' Star 边界-萌新俱乐部 Bonus[🔴] W:2 L:0 D:0 
 ---
 

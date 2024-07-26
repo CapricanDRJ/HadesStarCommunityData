@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ascalon
+title: ​Ascalon
 description: Hades' Star Ascalon Bonus[🔴] W:1 L:1 D:1 
 ---
 

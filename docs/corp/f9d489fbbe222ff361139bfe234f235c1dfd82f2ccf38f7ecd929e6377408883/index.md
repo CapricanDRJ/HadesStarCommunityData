@@ -1,6 +1,6 @@
 ---
 layout: page
-title: LANCE
+title: ​LANCE
 description: Hades' Star LANCE Bonus[🔴] W:3 L:8 D:2 
 ---
 

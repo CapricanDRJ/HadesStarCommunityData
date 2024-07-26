@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sentencia
+title: ​Sentencia
 description: Hades' Star Sentencia Bonus[🔴] W:12 L:3 D:0 
 ---
 

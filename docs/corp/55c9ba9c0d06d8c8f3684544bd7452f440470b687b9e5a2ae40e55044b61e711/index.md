@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BlakkFlot
+title: ​BlakkFlot
 description: Hades' Star BlakkFlot Bonus[🔴] W:3 L:2 D:0 
 ---
 

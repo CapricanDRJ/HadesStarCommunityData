@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Лунный Феникс
+title: ​Лунный Феникс
 description: Hades' Star Лунный Феникс Bonus[🔴] W:34 L:16 D:0 
 ---
 

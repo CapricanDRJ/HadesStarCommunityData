@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Astra Ultima
+title: ​Astra Ultima
 description: Hades' Star Astra Ultima Bonus[🔴] W:0 L:3 D:0 
 ---
 

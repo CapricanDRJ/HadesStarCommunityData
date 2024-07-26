@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BrinySeal
+title: ​BrinySeal
 description: Hades' Star BrinySeal Bonus[🟢] W:34 L:15 D:3 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ender
+title: ​Ender
 description: Hades' Star Ender Bonus[🟢] W:41 L:13 D:0 
 ---
 

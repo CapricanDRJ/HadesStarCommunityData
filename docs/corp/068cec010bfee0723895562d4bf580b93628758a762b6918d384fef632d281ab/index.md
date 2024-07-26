@@ -1,6 +1,6 @@
 ---
 layout: page
-title: СОЮЗ
+title: ​СОЮЗ
 description: Hades' Star СОЮЗ Bonus[🔴] W:6 L:4 D:0 
 ---
 

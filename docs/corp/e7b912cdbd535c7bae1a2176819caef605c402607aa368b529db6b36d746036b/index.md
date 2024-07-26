@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Snack Empire
+title: ​Snack Empire
 description: Hades' Star Snack Empire Bonus[🔴] W:0 L:1 D:0 
 ---
 

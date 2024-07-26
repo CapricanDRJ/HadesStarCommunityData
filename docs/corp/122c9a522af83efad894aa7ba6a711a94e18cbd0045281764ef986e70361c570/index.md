@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Caprica command
+title: ​Caprica command
 description: Hades' Star Caprica command Bonus[🔴] W:4 L:4 D:0 
 ---
 

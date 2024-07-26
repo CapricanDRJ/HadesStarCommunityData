@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <•|•>
+title: ​<•|•>
 description: Hades' Star <•|•> Bonus[🟢] W:1 L:2 D:0 
 ---
 

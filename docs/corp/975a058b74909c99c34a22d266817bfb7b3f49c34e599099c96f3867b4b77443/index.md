@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Firestarters
+title: ​Firestarters
 description: Hades' Star Firestarters Bonus[🔴] W:0 L:2 D:0 
 ---
 

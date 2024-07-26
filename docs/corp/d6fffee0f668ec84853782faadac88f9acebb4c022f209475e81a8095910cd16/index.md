@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome 欢迎
+title: ​Welcome 欢迎
 description: Hades' Star Welcome 欢迎 Bonus[🔴] W:0 L:2 D:0 
 ---
 

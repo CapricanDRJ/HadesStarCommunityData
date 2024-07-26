@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hinterm Mond
+title: ​Hinterm Mond
 description: Hades' Star Hinterm Mond Bonus[🟢] W:44 L:28 D:0 
 ---
 

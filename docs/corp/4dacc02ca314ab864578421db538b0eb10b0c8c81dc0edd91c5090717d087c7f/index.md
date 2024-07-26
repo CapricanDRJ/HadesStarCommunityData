@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Armored Union 
+title: ​Armored Union 
 description: Hades' Star Armored Union  Bonus[🟢] W:17 L:14 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cyber Star
+title: ​Cyber Star
 description: Hades' Star Cyber Star Bonus[🟢] W:24 L:10 D:0 
 ---
 

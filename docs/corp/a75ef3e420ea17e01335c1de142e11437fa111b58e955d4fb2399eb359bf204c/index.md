@@ -1,6 +1,6 @@
 ---
 layout: page
-title: callisto corp
+title: ​callisto corp
 description: Hades' Star callisto corp Bonus[🔴] W:0 L:2 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 柯伊伯带
+title: ​柯伊伯带
 description: Hades' Star 柯伊伯带 Bonus[🟢] W:58 L:1 D:0 
 ---
 

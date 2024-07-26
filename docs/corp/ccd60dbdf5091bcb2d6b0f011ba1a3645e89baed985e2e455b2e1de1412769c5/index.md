@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Warp Dominion
+title: ​Warp Dominion
 description: Hades' Star Warp Dominion Bonus[🔴] W:3 L:2 D:0 
 ---
 

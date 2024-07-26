@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Famous Assasins
+title: ​Famous Assasins
 description: Hades' Star Famous Assasins Bonus[🟢] W:45 L:6 D:0 
 ---
 

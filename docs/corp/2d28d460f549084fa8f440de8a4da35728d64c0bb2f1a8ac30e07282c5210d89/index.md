@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Consortium
+title: ​Consortium
 description: Hades' Star Consortium Bonus[🔴] W:1 L:2 D:0 
 ---
 

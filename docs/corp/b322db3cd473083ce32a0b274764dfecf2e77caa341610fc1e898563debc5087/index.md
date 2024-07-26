@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 第六星际
+title: ​第六星际
 description: Hades' Star 第六星际 Bonus[🔴] W:1 L:0 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 蓝色星系
+title: ​蓝色星系
 description: Hades' Star 蓝色星系 Bonus[🔴] W:0 L:1 D:0 
 ---
 

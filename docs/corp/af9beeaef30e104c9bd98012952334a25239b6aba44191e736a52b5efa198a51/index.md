@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Fracture
+title: ​The Fracture
 description: Hades' Star The Fracture Bonus[🔴] W:0 L:4 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 中国星际联盟
+title: ​中国星际联盟
 description: Hades' Star 中国星际联盟 Bonus[🟢] W:32 L:27 D:1 
 ---
 

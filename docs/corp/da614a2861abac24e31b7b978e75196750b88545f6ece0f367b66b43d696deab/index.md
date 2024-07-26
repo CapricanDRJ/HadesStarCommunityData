@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 联合宇宙
+title: ​联合宇宙
 description: Hades' Star 联合宇宙 Bonus[🔴] W:4 L:14 D:0 
 ---
 

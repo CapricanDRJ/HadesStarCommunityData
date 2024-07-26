@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Veil of Maya
+title: ​Veil of Maya
 description: Hades' Star Veil of Maya Bonus[🔴] W:4 L:2 D:0 
 ---
 

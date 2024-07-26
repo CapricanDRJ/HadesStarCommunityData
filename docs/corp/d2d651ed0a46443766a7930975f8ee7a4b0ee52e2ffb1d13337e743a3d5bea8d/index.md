@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RUS
+title: ​RUS
 description: Hades' Star RUS Bonus[🟢] W:12 L:14 D:0 
 ---
 

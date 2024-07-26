@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Стальная крыса
+title: ​Стальная крыса
 description: Hades' Star Стальная крыса Bonus[🔴] W:0 L:2 D:0 
 ---
 

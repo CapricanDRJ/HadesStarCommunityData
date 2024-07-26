@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Red Dwarves
+title: ​The Red Dwarves
 description: Hades' Star The Red Dwarves Bonus[🔴] W:3 L:4 D:1 
 ---
 

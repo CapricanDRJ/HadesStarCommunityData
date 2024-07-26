@@ -1,6 +1,6 @@
 ---
 layout: page
-title: korea
+title: ​korea
 description: Hades' Star korea Bonus[🔴] W:23 L:6 D:0 
 ---
 

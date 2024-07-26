@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RUSSIAN TEAM
+title: ​RUSSIAN TEAM
 description: Hades' Star RUSSIAN TEAM Bonus[🔴] W:0 L:9 D:0 
 ---
 

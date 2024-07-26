@@ -1,6 +1,6 @@
 ---
 layout: page
-title: УпсПриехали
+title: ​УпсПриехали
 description: Hades' Star УпсПриехали Bonus[🔴] W:0 L:1 D:0 
 ---
 

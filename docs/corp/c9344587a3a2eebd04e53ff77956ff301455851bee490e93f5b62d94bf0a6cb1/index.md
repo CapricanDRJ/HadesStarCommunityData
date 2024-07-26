@@ -1,6 +1,6 @@
 ---
 layout: page
-title: *ПОБЕДА*
+title: ​*ПОБЕДА*
 description: Hades' Star *ПОБЕДА* Bonus[🔴] W:2 L:1 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Empire of Light
+title: ​Empire of Light
 description: Hades' Star Empire of Light Bonus[🔴] W:7 L:11 D:0 
 ---
 

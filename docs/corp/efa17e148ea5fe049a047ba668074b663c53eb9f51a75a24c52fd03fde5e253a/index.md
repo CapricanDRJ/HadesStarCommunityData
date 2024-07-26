@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pumpkin
+title: ​Pumpkin
 description: Hades' Star Pumpkin Bonus[🔴] W:0 L:1 D:0 
 ---
 

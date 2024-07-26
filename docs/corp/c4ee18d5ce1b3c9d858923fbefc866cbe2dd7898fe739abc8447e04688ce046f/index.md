@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Phoenix Squad
+title: ​Phoenix Squad
 description: Hades' Star Phoenix Squad Bonus[🔴] W:0 L:4 D:0 
 ---
 

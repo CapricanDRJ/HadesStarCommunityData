@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SUSSY IMPOSTER
+title: ​SUSSY IMPOSTER
 description: Hades' Star SUSSY IMPOSTER Bonus[🔴] W:1 L:1 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HerronCorp
+title: ​HerronCorp
 description: Hades' Star HerronCorp Bonus[🔴] W:0 L:1 D:0 
 ---
 

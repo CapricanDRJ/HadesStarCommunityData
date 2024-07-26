@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Shadow Council
+title: ​Shadow Council
 description: Hades' Star Shadow Council Bonus[🔴] W:0 L:3 D:0 
 ---
 

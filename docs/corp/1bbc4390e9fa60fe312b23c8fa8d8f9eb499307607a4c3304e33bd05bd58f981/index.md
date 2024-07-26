@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ES Gaming 
+title: ​ES Gaming 
 description: Hades' Star ES Gaming  Bonus[🔴] W:16 L:13 D:1 
 ---
 

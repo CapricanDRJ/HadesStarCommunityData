@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sith Academy
+title: ​Sith Academy
 description: Hades' Star Sith Academy Bonus[🔴] W:0 L:2 D:0 
 ---
 

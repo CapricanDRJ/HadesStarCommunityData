@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BLOK EKIPA
+title: ​BLOK EKIPA
 description: Hades' Star BLOK EKIPA Bonus[🔴] W:0 L:3 D:0 
 ---
 

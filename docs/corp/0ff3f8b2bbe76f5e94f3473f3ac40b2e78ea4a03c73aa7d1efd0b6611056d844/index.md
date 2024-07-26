@@ -1,6 +1,6 @@
 ---
 layout: page
-title: СвятыеНегодники
+title: ​СвятыеНегодники
 description: Hades' Star СвятыеНегодники Bonus[🔴] W:1 L:0 D:0 
 ---
 

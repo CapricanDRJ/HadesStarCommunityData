@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ark Summit
+title: ​Ark Summit
 description: Hades' Star Ark Summit Bonus[🟢] W:10 L:0 D:0 
 ---
 

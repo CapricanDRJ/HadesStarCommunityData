@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 对，进就进人少的
+title: ​对，进就进人少的
 description: Hades' Star 对，进就进人少的 Bonus[🟢] W:34 L:27 D:2 
 ---
 

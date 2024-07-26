@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 绛紫星
+title: ​绛紫星
 description: Hades' Star 绛紫星 Bonus[🟢] W:24 L:15 D:2 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 黑色长城
+title: ​黑色长城
 description: Hades' Star 黑色长城 Bonus[🔴] W:2 L:8 D:1 
 ---
 

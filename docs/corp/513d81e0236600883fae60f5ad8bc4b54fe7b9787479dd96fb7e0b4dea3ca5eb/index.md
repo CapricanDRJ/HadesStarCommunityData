@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 凛冬重工
+title: ​凛冬重工
 description: Hades' Star 凛冬重工 Bonus[🔴] W:1 L:1 D:0 
 ---
 

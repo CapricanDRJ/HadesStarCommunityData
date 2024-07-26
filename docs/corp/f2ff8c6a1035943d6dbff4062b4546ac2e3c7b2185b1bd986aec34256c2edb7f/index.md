@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 두빛나래
+title: ​두빛나래
 description: Hades' Star 두빛나래 Bonus[🔴] W:11 L:17 D:0 
 ---
 

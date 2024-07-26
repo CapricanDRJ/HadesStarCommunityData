@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ITA
+title: ​ITA
 description: Hades' Star ITA Bonus[🔴] W:14 L:18 D:0 
 ---
 

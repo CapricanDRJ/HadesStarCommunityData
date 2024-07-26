@@ -1,6 +1,6 @@
 ---
 layout: page
-title: You Win
+title: ​You Win
 description: Hades' Star You Win Bonus[🔴] W:1 L:6 D:0 
 ---
 

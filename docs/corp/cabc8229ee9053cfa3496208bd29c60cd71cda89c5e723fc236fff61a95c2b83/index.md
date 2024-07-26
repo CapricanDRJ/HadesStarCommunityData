@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BRASIL ACADEMY
+title: ​BRASIL ACADEMY
 description: Hades' Star BRASIL ACADEMY Bonus[🔴] W:2 L:1 D:0 
 ---
 

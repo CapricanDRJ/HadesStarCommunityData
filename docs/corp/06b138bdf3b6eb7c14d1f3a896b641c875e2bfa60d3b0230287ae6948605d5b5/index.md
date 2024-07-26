@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dirty Laundry 
+title: ​Dirty Laundry 
 description: Hades' Star Dirty Laundry  Bonus[🔴] W:0 L:2 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: МеГаКо
+title: ​МеГаКо
 description: Hades' Star МеГаКо Bonus[🟢] W:14 L:13 D:0 
 ---
 

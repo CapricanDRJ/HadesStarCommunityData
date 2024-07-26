@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elysium
+title: ​Elysium
 description: Hades' Star Elysium Bonus[🟢] W:27 L:9 D:0 
 ---
 

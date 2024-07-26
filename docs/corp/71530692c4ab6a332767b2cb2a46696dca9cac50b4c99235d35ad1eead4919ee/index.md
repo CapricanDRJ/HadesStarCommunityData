@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Spy Corp
+title: ​Spy Corp
 description: Hades' Star Spy Corp Bonus[🔴] W:0 L:2 D:0 
 ---
 

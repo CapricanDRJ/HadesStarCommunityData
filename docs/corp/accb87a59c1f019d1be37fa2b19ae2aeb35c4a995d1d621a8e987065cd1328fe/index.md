@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Alpha 
+title: ​Alpha 
 description: Hades' Star Alpha  Bonus[🔴] W:7 L:27 D:0 
 ---
 

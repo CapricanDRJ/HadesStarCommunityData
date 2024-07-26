@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Splendid
+title: ​Splendid
 description: Hades' Star Splendid Bonus[🟢] W:1 L:2 D:0 
 ---
 

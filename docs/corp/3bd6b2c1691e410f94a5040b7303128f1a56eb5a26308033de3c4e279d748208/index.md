@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 德意志第三帝国BATA分部
+title: ​德意志第三帝国BATA分部
 description: Hades' Star 德意志第三帝国BATA分部 Bonus[🔴] W:1 L:0 D:0 
 ---
 

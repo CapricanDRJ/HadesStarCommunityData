@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Alfa Reach
+title: ​Alfa Reach
 description: Hades' Star Alfa Reach Bonus[🔴] W:0 L:1 D:0 
 ---
 

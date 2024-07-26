@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Omega Aboration
+title: ​Omega Aboration
 description: Hades' Star Omega Aboration Bonus[🔴] W:0 L:1 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Peak Extraction
+title: ​Peak Extraction
 description: Hades' Star Peak Extraction Bonus[🔴] W:1 L:13 D:1 
 ---
 

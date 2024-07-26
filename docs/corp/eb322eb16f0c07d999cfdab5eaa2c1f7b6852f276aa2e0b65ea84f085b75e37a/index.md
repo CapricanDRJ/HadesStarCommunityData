@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sanctuary
+title: ​Sanctuary
 description: Hades' Star Sanctuary Bonus[🔴] W:0 L:1 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 万星联盟
+title: ​万星联盟
 description: Hades' Star 万星联盟 Bonus[🟢] W:10 L:0 D:0 
 ---
 

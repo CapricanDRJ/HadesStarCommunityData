@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rzeczypospolita
+title: ​Rzeczypospolita
 description: Hades' Star Rzeczypospolita Bonus[🔴] W:0 L:0 D:1 
 ---
 

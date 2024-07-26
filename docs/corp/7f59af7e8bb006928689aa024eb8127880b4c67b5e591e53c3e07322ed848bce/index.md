@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Legionnaires
+title: ​Legionnaires
 description: Hades' Star Legionnaires Bonus[🔴] W:0 L:2 D:0 
 ---
 

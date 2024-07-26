@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Best
+title: ​Best
 description: Hades' Star Best Bonus[🔴] W:0 L:1 D:0 
 ---
 

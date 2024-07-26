@@ -1,6 +1,6 @@
 ---
 layout: page
-title: СССР 2.0
+title: ​СССР 2.0
 description: Hades' Star СССР 2.0 Bonus[🔴] W:2 L:6 D:0 
 ---
 

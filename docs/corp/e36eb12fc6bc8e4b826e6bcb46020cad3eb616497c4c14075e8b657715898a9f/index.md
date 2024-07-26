@@ -1,6 +1,6 @@
 ---
 layout: page
-title: INFINITY STAR
+title: ​INFINITY STAR
 description: Hades' Star INFINITY STAR Bonus[🔴] W:4 L:6 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Killers from Ua
+title: ​Killers from Ua
 description: Hades' Star Killers from Ua Bonus[🔴] W:4 L:3 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Anomaly
+title: ​Anomaly
 description: Hades' Star Anomaly Bonus[🔴] W:0 L:3 D:0 
 ---
 

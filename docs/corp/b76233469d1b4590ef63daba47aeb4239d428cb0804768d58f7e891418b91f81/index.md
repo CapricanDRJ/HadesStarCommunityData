@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cerulean Nebula
+title: ​Cerulean Nebula
 description: Hades' Star Cerulean Nebula Bonus[🔴] W:14 L:10 D:0 
 ---
 

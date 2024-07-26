@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dreckiger Rest
+title: ​Dreckiger Rest
 description: Hades' Star Dreckiger Rest Bonus[🔴] W:0 L:2 D:0 
 ---
 

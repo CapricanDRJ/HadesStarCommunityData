@@ -1,6 +1,6 @@
 ---
 layout: page
-title: La NoChE NeGrA
+title: ​La NoChE NeGrA
 description: Hades' Star La NoChE NeGrA Bonus[🔴] W:0 L:0 D:1 
 ---
 

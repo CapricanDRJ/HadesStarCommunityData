@@ -1,6 +1,6 @@
 ---
 layout: page
-title: STAR TERROR CZ
+title: ​STAR TERROR CZ
 description: Hades' Star STAR TERROR CZ Bonus[🔴] W:0 L:2 D:0 
 ---
 

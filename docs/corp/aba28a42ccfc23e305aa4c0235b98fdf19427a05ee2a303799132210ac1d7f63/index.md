@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Die Mafia
+title: ​Die Mafia
 description: Hades' Star Die Mafia Bonus[🔴] W:0 L:0 D:1 
 ---
 

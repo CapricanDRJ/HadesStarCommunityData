@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wacky Wabbits
+title: ​Wacky Wabbits
 description: Hades' Star Wacky Wabbits Bonus[🔴] W:2 L:2 D:0 
 ---
 

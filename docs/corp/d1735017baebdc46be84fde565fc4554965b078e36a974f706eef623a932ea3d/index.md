@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RATAS
+title: ​RATAS
 description: Hades' Star RATAS Bonus[🔴] W:0 L:1 D:0 
 ---
 

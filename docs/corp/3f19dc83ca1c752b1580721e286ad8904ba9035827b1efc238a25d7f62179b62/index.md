@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CORE INFLICTION
+title: ​CORE INFLICTION
 description: Hades' Star CORE INFLICTION Bonus[🔴] W:0 L:1 D:0 
 ---
 

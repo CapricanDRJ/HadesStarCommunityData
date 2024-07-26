@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Eligius 
+title: ​ Eligius 
 description: Hades' Star  Eligius  Bonus[🔴] W:1 L:2 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DarkMoon
+title: ​DarkMoon
 description: Hades' Star DarkMoon Bonus[🔴] W:19 L:10 D:0 
 ---
 

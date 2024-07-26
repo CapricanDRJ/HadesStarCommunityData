@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Saiyan Empire
+title: ​Saiyan Empire
 description: Hades' Star Saiyan Empire Bonus[🔴] W:4 L:6 D:0 
 ---
 

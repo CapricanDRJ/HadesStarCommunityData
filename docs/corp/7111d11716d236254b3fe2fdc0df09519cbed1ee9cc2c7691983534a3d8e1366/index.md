@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gummibärenbande
+title: ​Gummibärenbande
 description: Hades' Star Gummibärenbande Bonus[🔴] W:1 L:17 D:0 
 ---
 

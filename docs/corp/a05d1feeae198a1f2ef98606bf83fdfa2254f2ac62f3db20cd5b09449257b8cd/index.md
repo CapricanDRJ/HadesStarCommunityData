@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DarkSide
+title: ​DarkSide
 description: Hades' Star DarkSide Bonus[🟢] W:27 L:34 D:1 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Unión latina
+title: ​Unión latina
 description: Hades' Star Unión latina Bonus[🟢] W:26 L:19 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Intari
+title: ​Intari
 description: Hades' Star Intari Bonus[🔴] W:0 L:0 D:1 
 ---
 

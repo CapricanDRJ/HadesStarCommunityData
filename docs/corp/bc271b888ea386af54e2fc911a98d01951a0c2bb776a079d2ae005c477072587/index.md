@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sternenbund
+title: ​Sternenbund
 description: Hades' Star Sternenbund Bonus[🔴] W:0 L:1 D:0 
 ---
 

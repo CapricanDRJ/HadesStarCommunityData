@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tabula Rasa
+title: ​Tabula Rasa
 description: Hades' Star Tabula Rasa Bonus[🔴] W:0 L:1 D:0 
 ---
 

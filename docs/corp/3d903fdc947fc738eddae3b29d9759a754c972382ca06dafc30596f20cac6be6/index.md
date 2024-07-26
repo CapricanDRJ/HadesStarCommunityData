@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fang Empire
+title: ​Fang Empire
 description: Hades' Star Fang Empire Bonus[🔴] W:0 L:1 D:0 
 ---
 

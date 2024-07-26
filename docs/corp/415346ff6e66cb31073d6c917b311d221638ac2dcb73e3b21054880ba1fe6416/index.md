@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Two kitties
+title: ​Two kitties
 description: Hades' Star Two kitties Bonus[🔴] W:0 L:1 D:0 
 ---
 

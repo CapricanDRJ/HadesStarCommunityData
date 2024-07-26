@@ -1,6 +1,6 @@
 ---
 layout: page
-title: X-wing
+title: ​X-wing
 description: Hades' Star X-wing Bonus[🔴] W:0 L:1 D:0 
 ---
 

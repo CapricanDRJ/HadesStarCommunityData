@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The trade pub
+title: ​The trade pub
 description: Hades' Star The trade pub Bonus[🟢] W:15 L:19 D:0 
 ---
 

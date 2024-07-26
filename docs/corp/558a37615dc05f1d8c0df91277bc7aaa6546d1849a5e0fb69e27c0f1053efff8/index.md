@@ -1,6 +1,6 @@
 ---
 layout: page
-title: hades' star
+title: ​hades' star
 description: Hades' Star hades' star Bonus[🔴] W:0 L:1 D:1 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Shrimp City
+title: ​Shrimp City
 description: Hades' Star Shrimp City Bonus[🟢] W:17 L:10 D:1 
 ---
 

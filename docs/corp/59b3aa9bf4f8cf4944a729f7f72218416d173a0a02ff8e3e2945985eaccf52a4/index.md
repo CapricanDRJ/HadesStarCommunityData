@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Anarchy G13
+title: ​Anarchy G13
 description: Hades' Star Anarchy G13 Bonus[🔴] W:0 L:3 D:0 
 ---
 

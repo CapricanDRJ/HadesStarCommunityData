@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ItBurnsWhenIEMP
+title: ​ItBurnsWhenIEMP
 description: Hades' Star ItBurnsWhenIEMP Bonus[🔴] W:22 L:8 D:0 
 ---
 

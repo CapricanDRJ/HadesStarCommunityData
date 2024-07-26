@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Galactic Otters
+title: ​Galactic Otters
 description: Hades' Star Galactic Otters Bonus[🔴] W:1 L:0 D:0 
 ---
 

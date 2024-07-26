@@ -1,6 +1,6 @@
 ---
 layout: page
-title: OntarioDynasty
+title: ​OntarioDynasty
 description: Hades' Star OntarioDynasty Bonus[🔴] W:1 L:4 D:0 
 ---
 

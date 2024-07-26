@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Variants
+title: ​Variants
 description: Hades' Star Variants Bonus[🔴] W:0 L:1 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dadsw/Daughterz
+title: ​Dadsw/Daughterz
 description: Hades' Star Dadsw/Daughterz Bonus[🔴] W:1 L:3 D:0 
 ---
 

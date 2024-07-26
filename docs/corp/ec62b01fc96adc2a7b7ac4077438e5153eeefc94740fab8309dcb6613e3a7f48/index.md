@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bacon Warriors
+title: ​Bacon Warriors
 description: Hades' Star Bacon Warriors Bonus[🟢] W:13 L:11 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tau Alpha
+title: ​Tau Alpha
 description: Hades' Star Tau Alpha Bonus[🔴] W:0 L:1 D:0 
 ---
 

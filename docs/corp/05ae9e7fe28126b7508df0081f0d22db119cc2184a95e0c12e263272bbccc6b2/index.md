@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Space lover
+title: ​Space lover
 description: Hades' Star Space lover Bonus[🔴] W:0 L:1 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: New Era
+title: ​New Era
 description: Hades' Star New Era Bonus[🔴] W:0 L:1 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 羽共和体
+title: ​羽共和体
 description: Hades' Star 羽共和体 Bonus[🟢] W:10 L:19 D:3 
 ---
 

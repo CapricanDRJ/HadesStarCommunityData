@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vertin's box
+title: ​Vertin's box
 description: Hades' Star Vertin's box Bonus[🔴] W:1 L:0 D:0 
 ---
 

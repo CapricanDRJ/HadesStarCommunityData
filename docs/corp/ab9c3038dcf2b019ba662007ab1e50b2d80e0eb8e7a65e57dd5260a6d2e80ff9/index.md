@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Halcon español
+title: ​Halcon español
 description: Hades' Star Halcon español Bonus[🔴] W:20 L:9 D:0 
 ---
 

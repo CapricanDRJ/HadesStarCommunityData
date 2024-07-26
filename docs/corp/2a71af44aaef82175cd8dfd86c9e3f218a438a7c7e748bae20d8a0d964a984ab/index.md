@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 神圣罗马帝国
+title: ​神圣罗马帝国
 description: Hades' Star 神圣罗马帝国 Bonus[🟢] W:19 L:39 D:1 
 ---
 

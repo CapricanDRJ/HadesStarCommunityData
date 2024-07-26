@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 第五星际
+title: ​第五星际
 description: Hades' Star 第五星际 Bonus[🔴] W:3 L:2 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Últimafronteira
+title: ​Últimafronteira
 description: Hades' Star Últimafronteira Bonus[🟢] W:6 L:0 D:0 
 ---
 

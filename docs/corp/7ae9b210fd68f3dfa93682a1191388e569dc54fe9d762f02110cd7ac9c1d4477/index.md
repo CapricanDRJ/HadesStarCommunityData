@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rogue One
+title: ​Rogue One
 description: Hades' Star Rogue One Bonus[🔴] W:28 L:20 D:1 
 ---
 

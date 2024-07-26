@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Империя
+title: ​Империя
 description: Hades' Star Империя Bonus[🔴] W:1 L:1 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 北冥星云
+title: ​北冥星云
 description: Hades' Star 北冥星云 Bonus[🔴] W:0 L:4 D:0 
 ---
 

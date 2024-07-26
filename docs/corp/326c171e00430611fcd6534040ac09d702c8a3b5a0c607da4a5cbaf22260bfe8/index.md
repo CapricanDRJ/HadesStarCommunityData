@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Mini Elite
+title: ​The Mini Elite
 description: Hades' Star The Mini Elite Bonus[🔴] W:0 L:4 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: STARBLAZER 
+title: ​STARBLAZER 
 description: Hades' Star STARBLAZER  Bonus[🔴] W:2 L:4 D:0 
 ---
 

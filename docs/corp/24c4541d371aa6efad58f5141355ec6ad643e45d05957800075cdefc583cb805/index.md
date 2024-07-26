@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Spaceforce
+title: ​Spaceforce
 description: Hades' Star Spaceforce Bonus[🔴] W:0 L:1 D:0 
 ---
 

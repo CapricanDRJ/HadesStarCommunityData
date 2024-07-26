@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dumpster Fire
+title: ​Dumpster Fire
 description: Hades' Star Dumpster Fire Bonus[🟢] W:15 L:31 D:0 
 ---
 

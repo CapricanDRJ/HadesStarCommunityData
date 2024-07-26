@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Türk Yıldızları
+title: ​Türk Yıldızları
 description: Hades' Star Türk Yıldızları Bonus[🔴] W:16 L:11 D:0 
 ---
 

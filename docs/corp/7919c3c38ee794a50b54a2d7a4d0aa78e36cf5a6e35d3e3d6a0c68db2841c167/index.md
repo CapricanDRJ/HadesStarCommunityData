@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Prospectors
+title: ​Prospectors
 description: Hades' Star Prospectors Bonus[🔴] W:4 L:3 D:1 
 ---
 

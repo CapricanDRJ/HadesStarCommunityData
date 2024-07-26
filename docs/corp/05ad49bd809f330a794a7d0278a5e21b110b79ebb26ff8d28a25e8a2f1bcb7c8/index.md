@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Aeternae
+title: ​Aeternae
 description: Hades' Star Aeternae Bonus[🔴] W:0 L:7 D:0 
 ---
 

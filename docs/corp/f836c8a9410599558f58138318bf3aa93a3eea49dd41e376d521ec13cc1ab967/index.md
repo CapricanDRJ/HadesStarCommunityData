@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Danish Oil
+title: ​Danish Oil
 description: Hades' Star Danish Oil Bonus[🔴] W:0 L:1 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: L.P.A.
+title: ​L.P.A.
 description: Hades' Star L.P.A. Bonus[🔴] W:2 L:1 D:0 
 ---
 

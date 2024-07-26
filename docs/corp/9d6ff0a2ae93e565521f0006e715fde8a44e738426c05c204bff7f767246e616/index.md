@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Open Infinity
+title: ​Open Infinity
 description: Hades' Star Open Infinity Bonus[🔴] W:0 L:1 D:0 
 ---
 

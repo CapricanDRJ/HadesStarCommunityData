@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kötbrüder
+title: ​Kötbrüder
 description: Hades' Star Kötbrüder Bonus[🟢] W:3 L:0 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ночные Львы
+title: ​Ночные Львы
 description: Hades' Star Ночные Львы Bonus[🔴] W:0 L:1 D:0 
 ---
 

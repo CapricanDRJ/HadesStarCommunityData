@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 德意志联邦集团
+title: ​德意志联邦集团
 description: Hades' Star 德意志联邦集团 Bonus[🔴] W:0 L:3 D:3 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Goa'uld
+title: ​Goa'uld
 description: Hades' Star Goa'uld Bonus[🔴] W:0 L:1 D:2 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SQPT
+title: ​SQPT
 description: Hades' Star SQPT Bonus[🔴] W:29 L:33 D:0 
 ---
 

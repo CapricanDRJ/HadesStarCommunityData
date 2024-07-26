@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Anarchy Nation 
+title: ​Anarchy Nation 
 description: Hades' Star Anarchy Nation  Bonus[🔴] W:5 L:2 D:1 
 ---
 

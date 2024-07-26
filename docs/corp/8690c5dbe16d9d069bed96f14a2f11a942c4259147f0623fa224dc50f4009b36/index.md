@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Кулак
+title: ​Кулак
 description: Hades' Star Кулак Bonus[🟢] W:8 L:43 D:0 
 ---
 

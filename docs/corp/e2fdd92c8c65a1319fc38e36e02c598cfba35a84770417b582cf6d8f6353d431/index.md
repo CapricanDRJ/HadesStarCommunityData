@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Galaxy knights
+title: ​Galaxy knights
 description: Hades' Star Galaxy knights Bonus[🔴] W:0 L:2 D:0 
 ---
 

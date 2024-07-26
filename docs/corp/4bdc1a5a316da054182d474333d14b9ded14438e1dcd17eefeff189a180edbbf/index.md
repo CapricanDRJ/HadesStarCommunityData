@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FirstAllegiance
+title: ​FirstAllegiance
 description: Hades' Star FirstAllegiance Bonus[🔴] W:0 L:1 D:0 
 ---
 

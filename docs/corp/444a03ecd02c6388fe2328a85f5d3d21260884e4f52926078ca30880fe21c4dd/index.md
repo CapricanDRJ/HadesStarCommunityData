@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 解语者研究会
+title: ​解语者研究会
 description: Hades' Star 解语者研究会 Bonus[🔴] W:0 L:1 D:0 
 ---
 

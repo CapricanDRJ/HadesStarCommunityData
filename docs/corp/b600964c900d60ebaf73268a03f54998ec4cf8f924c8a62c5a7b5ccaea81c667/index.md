@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Light Warriors
+title: ​Light Warriors
 description: Hades' Star Light Warriors Bonus[🔴] W:0 L:1 D:0 
 ---
 

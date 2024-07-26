@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 42 Nova Corps.
+title: ​42 Nova Corps.
 description: Hades' Star 42 Nova Corps. Bonus[🔴] W:2 L:1 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: nebulous
+title: ​nebulous
 description: Hades' Star nebulous Bonus[🔴] W:0 L:1 D:0 
 ---
 

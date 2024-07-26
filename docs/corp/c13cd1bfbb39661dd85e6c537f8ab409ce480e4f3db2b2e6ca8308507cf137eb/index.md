@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Heavenly Star 
+title: ​Heavenly Star 
 description: Hades' Star Heavenly Star  Bonus[🔴] W:0 L:2 D:0 
 ---
 

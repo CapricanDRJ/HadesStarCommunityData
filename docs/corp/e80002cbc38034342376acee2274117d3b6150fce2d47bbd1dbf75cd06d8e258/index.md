@@ -1,6 +1,6 @@
 ---
 layout: page
-title: OPA
+title: ​OPA
 description: Hades' Star OPA Bonus[🔴] W:26 L:10 D:0 
 ---
 

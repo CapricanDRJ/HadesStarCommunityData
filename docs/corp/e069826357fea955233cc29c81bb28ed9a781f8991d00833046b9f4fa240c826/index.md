@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Polandia
+title: ​Polandia
 description: Hades' Star Polandia Bonus[🔴] W:0 L:3 D:0 
 ---
 

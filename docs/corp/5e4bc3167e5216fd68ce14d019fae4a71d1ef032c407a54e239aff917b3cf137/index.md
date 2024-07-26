@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Borg
+title: ​The Borg
 description: Hades' Star The Borg Bonus[🔴] W:0 L:1 D:0 
 ---
 

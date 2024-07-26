@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Team Elite
+title: ​Team Elite
 description: Hades' Star Team Elite Bonus[🔴] W:1 L:2 D:1 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 云浪山庄↕
+title: ​云浪山庄↕
 description: Hades' Star 云浪山庄↕ Bonus[🟢] W:18 L:59 D:1 
 ---
 

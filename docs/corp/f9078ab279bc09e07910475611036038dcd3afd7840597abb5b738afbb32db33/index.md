@@ -1,6 +1,6 @@
 ---
 layout: page
-title: USAR@Hadesstar
+title: ​USAR@Hadesstar
 description: Hades' Star USAR@Hadesstar Bonus[🔴] W:1 L:3 D:0 
 ---
 

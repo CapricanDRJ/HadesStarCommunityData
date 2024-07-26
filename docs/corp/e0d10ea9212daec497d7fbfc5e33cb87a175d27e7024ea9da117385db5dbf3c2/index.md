@@ -1,6 +1,6 @@
 ---
 layout: page
-title: OKC THUNDER 
+title: ​OKC THUNDER 
 description: Hades' Star OKC THUNDER  Bonus[🔴] W:2 L:2 D:0 
 ---
 

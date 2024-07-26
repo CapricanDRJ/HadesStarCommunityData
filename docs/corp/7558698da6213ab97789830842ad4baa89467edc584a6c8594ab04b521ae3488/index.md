@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Тёмный Феникс
+title: ​Тёмный Феникс
 description: Hades' Star Тёмный Феникс Bonus[🔴] W:0 L:7 D:0 
 ---
 

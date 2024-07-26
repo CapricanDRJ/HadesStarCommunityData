@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Legión
+title: ​Legión
 description: Hades' Star Legión Bonus[🔴] W:0 L:1 D:0 
 ---
 

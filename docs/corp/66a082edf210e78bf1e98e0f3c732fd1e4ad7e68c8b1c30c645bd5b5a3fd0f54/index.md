@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lexx
+title: ​Lexx
 description: Hades' Star Lexx Bonus[🔴] W:0 L:1 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 欢迎国人
+title: ​欢迎国人
 description: Hades' Star 欢迎国人 Bonus[🔴] W:3 L:11 D:2 
 ---
 

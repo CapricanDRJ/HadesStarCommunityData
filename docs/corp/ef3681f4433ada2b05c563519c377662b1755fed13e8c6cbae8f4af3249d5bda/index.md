@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Starlancer
+title: ​Starlancer
 description: Hades' Star Starlancer Bonus[🔴] W:0 L:18 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: КОРПОРАЦИЯ ЗЛА
+title: ​КОРПОРАЦИЯ ЗЛА
 description: Hades' Star КОРПОРАЦИЯ ЗЛА Bonus[🔴] W:7 L:34 D:0 
 ---
 

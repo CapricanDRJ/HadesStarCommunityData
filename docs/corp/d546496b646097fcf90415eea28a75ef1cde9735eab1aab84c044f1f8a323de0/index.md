@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Killer Bees.
+title: ​Killer Bees.
 description: Hades' Star Killer Bees. Bonus[🔴] W:0 L:1 D:0 
 ---
 

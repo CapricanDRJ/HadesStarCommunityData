@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Север РусКорп
+title: ​Север РусКорп
 description: Hades' Star Север РусКорп Bonus[🟢] W:14 L:8 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Starborne Corp
+title: ​Starborne Corp
 description: Hades' Star Starborne Corp Bonus[🔴] W:1 L:2 D:0 
 ---
 

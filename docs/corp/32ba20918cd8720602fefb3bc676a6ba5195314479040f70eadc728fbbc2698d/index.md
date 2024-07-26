@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Star Destroyers
+title: ​Star Destroyers
 description: Hades' Star Star Destroyers Bonus[🟢] W:23 L:14 D:1 
 ---
 

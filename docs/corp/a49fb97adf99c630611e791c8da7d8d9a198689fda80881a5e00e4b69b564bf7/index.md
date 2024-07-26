@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hinterm Mars
+title: ​Hinterm Mars
 description: Hades' Star Hinterm Mars Bonus[🟢] W:22 L:28 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Order of Ares
+title: ​Order of Ares
 description: Hades' Star Order of Ares Bonus[🔴] W:0 L:2 D:0 
 ---
 

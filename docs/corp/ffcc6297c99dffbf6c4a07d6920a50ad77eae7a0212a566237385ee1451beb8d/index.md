@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gardiens détoil
+title: ​Gardiens détoil
 description: Hades' Star Gardiens détoil Bonus[🔴] W:0 L:2 D:0 
 ---
 

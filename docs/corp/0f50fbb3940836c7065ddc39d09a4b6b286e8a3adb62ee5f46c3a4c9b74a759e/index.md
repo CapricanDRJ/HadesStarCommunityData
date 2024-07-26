@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Black Mirror Co
+title: ​Black Mirror Co
 description: Hades' Star Black Mirror Co Bonus[🔴] W:0 L:1 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FreeSpcAlliance
+title: ​FreeSpcAlliance
 description: Hades' Star FreeSpcAlliance Bonus[🔴] W:3 L:3 D:0 
 ---
 

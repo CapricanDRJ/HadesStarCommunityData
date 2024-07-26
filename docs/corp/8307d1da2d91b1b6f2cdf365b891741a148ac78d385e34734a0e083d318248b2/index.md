@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FėniX•
+title: ​FėniX•
 description: Hades' Star FėniX• Bonus[🔴] W:3 L:4 D:1 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gwiezdna Horda
+title: ​Gwiezdna Horda
 description: Hades' Star Gwiezdna Horda Bonus[🔴] W:4 L:0 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Октябристы
+title: ​Октябристы
 description: Hades' Star Октябристы Bonus[🟢] W:41 L:41 D:1 
 ---
 

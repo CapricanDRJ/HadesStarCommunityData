@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SEK-SPACE ORDER
+title: ​SEK-SPACE ORDER
 description: Hades' Star SEK-SPACE ORDER Bonus[🔴] W:0 L:4 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Todesschwadron
+title: ​Todesschwadron
 description: Hades' Star Todesschwadron Bonus[🔴] W:2 L:3 D:0 
 ---
 

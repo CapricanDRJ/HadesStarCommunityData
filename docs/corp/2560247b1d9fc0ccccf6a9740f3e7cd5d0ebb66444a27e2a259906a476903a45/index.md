@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Revólver
+title: ​Revólver
 description: Hades' Star Revólver Bonus[🔴] W:8 L:12 D:0 
 ---
 

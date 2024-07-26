@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Imperium of man
+title: ​Imperium of man
 description: Hades' Star Imperium of man Bonus[🔴] W:0 L:1 D:0 
 ---
 

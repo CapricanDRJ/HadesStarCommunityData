@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SONS OF SUNS
+title: ​SONS OF SUNS
 description: Hades' Star SONS OF SUNS Bonus[🔴] W:0 L:3 D:0 
 ---
 

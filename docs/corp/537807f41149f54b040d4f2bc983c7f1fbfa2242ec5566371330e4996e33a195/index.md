@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tormenta
+title: ​Tormenta
 description: Hades' Star Tormenta Bonus[🟢] W:2 L:5 D:0 
 ---
 

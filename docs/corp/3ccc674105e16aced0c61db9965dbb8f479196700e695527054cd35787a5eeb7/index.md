@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CODEX IMPERIUS
+title: ​CODEX IMPERIUS
 description: Hades' Star CODEX IMPERIUS Bonus[🔴] W:2 L:7 D:0 
 ---
 

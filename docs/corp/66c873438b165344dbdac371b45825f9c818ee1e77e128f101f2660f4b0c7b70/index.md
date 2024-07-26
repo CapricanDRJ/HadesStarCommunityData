@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Free Ag3nts
+title: ​Free Ag3nts
 description: Hades' Star Free Ag3nts Bonus[🔴] W:3 L:0 D:0 
 ---
 

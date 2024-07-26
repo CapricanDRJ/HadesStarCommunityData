@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Void Nebula
+title: ​Void Nebula
 description: Hades' Star Void Nebula Bonus[🔴] W:0 L:3 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ВЕЧНОСТЬ
+title: ​ВЕЧНОСТЬ
 description: Hades' Star ВЕЧНОСТЬ Bonus[🔴] W:0 L:1 D:0 
 ---
 

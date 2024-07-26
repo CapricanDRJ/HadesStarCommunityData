@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ⚜NOVA⚜
+title: ​⚜NOVA⚜
 description: Hades' Star ⚜NOVA⚜ Bonus[🔴] W:0 L:2 D:0 
 ---
 

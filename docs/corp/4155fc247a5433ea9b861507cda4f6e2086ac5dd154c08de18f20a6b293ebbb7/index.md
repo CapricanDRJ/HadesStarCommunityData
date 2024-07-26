@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Séptimo Círculo
+title: ​Séptimo Círculo
 description: Hades' Star Séptimo Círculo Bonus[🔴] W:0 L:1 D:0 
 ---
 

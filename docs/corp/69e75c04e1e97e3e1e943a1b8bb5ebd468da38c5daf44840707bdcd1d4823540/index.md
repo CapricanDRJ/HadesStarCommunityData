@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 洛神峰
+title: ​洛神峰
 description: Hades' Star 洛神峰 Bonus[🔴] W:0 L:2 D:0 
 ---
 

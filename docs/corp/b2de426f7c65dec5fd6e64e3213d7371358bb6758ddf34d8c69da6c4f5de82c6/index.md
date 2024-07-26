@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hun Generals
+title: ​Hun Generals
 description: Hades' Star Hun Generals Bonus[🟢] W:8 L:29 D:0 
 ---
 

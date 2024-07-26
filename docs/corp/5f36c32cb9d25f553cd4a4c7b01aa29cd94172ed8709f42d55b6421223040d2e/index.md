@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SafeSpace
+title: ​SafeSpace
 description: Hades' Star SafeSpace Bonus[🔴] W:1 L:0 D:0 
 ---
 

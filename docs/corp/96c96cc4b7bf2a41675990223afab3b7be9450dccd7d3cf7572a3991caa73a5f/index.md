@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Austria 
+title: ​Austria 
 description: Hades' Star Austria  Bonus[🔴] W:2 L:2 D:0 
 ---
 

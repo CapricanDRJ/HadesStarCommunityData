@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The New Light
+title: ​The New Light
 description: Hades' Star The New Light Bonus[🔴] W:17 L:17 D:1 
 ---
 

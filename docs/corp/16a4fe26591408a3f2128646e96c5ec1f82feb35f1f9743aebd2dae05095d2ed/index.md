@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 揽月宫
+title: ​揽月宫
 description: Hades' Star 揽月宫 Bonus[🔴] W:0 L:1 D:0 
 ---
 

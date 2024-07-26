@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 星光禁卫
+title: ​星光禁卫
 description: Hades' Star 星光禁卫 Bonus[🔴] W:1 L:8 D:1 
 ---
 

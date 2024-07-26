@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ironbear Legion
+title: ​Ironbear Legion
 description: Hades' Star Ironbear Legion Bonus[🔴] W:14 L:25 D:0 
 ---
 

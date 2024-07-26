@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ukrain Alliance
+title: ​Ukrain Alliance
 description: Hades' Star Ukrain Alliance Bonus[🔴] W:0 L:1 D:0 
 ---
 

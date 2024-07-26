@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Moon Catchers
+title: ​Moon Catchers
 description: Hades' Star Moon Catchers Bonus[🔴] W:13 L:16 D:1 
 ---
 

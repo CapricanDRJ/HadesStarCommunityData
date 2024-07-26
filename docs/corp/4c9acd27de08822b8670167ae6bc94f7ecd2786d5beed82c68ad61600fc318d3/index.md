@@ -1,6 +1,6 @@
 ---
 layout: page
-title: THE BENDERA
+title: ​THE BENDERA
 description: Hades' Star THE BENDERA Bonus[🔴] W:15 L:6 D:0 
 ---
 

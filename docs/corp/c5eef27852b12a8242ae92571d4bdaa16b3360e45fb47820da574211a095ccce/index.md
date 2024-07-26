@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 한국우주연합
+title: ​한국우주연합
 description: Hades' Star 한국우주연합 Bonus[🔴] W:7 L:12 D:0 
 ---
 

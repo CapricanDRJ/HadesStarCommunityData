@@ -1,6 +1,6 @@
 ---
 layout: page
-title: free ws exp
+title: ​free ws exp
 description: Hades' Star free ws exp Bonus[🔴] W:1 L:0 D:0 
 ---
 

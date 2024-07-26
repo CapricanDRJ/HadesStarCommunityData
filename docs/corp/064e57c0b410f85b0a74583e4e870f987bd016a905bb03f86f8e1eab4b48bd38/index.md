@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Core
+title: ​Core
 description: Hades' Star Core Bonus[🔴] W:0 L:1 D:0 
 ---
 

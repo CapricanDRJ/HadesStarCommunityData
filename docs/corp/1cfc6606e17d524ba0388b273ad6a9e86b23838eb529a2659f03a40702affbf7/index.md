@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lofty Mountain
+title: ​Lofty Mountain
 description: Hades' Star Lofty Mountain Bonus[🟢] W:1 L:0 D:0 
 ---
 

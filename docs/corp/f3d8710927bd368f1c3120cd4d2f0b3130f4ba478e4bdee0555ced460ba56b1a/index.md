@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gregycool
+title: ​Gregycool
 description: Hades' Star Gregycool Bonus[🔴] W:0 L:1 D:0 
 ---
 

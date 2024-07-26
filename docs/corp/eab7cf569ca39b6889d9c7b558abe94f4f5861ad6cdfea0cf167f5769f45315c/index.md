@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Troy
+title: ​Troy
 description: Hades' Star Troy Bonus[🔴] W:0 L:1 D:0 
 ---
 

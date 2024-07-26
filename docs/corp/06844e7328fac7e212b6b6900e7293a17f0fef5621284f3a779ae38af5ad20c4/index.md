@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Liasteria
+title: ​Liasteria
 description: Hades' Star Liasteria Bonus[🔴] W:0 L:1 D:0 
 ---
 

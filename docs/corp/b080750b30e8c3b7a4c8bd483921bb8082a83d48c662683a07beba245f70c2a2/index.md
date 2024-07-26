@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NEW HOLLAND
+title: ​NEW HOLLAND
 description: Hades' Star NEW HOLLAND Bonus[🔴] W:1 L:8 D:1 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Poggy Rockers
+title: ​Poggy Rockers
 description: Hades' Star Poggy Rockers Bonus[🟢] W:23 L:8 D:2 
 ---
 

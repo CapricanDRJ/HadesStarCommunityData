@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Imperio Galacti
+title: ​Imperio Galacti
 description: Hades' Star Imperio Galacti Bonus[🔴] W:0 L:2 D:0 
 ---
 

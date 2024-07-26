@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ItaFederalFleet
+title: ​ItaFederalFleet
 description: Hades' Star ItaFederalFleet Bonus[🟢] W:15 L:5 D:1 
 ---
 

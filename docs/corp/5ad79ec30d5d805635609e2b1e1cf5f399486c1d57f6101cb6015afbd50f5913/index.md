@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 9-Й СКОРПИОН
+title: ​9-Й СКОРПИОН
 description: Hades' Star 9-Й СКОРПИОН Bonus[🟢] W:24 L:6 D:0 
 ---
 

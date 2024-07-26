@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stellaris
+title: ​Stellaris
 description: Hades' Star Stellaris Bonus[🔴] W:0 L:6 D:0 
 ---
 

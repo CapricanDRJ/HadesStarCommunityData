@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CDS
+title: ​CDS
 description: Hades' Star CDS Bonus[🔴] W:0 L:1 D:0 
 ---
 

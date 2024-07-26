@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Корпорация Миф
+title: ​Корпорация Миф
 description: Hades' Star Корпорация Миф Bonus[🔴] W:8 L:0 D:0 
 ---
 

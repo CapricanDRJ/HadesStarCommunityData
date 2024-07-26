@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Freelancer
+title: ​Freelancer
 description: Hades' Star Freelancer Bonus[🔴] W:0 L:2 D:0 
 ---
 

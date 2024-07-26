@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Power Rangers
+title: ​Power Rangers
 description: Hades' Star Power Rangers Bonus[🔴] W:1 L:0 D:0 
 ---
 

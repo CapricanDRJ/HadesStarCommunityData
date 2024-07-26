@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Survivors
+title: ​Survivors
 description: Hades' Star Survivors Bonus[🔴] W:4 L:11 D:1 
 ---
 

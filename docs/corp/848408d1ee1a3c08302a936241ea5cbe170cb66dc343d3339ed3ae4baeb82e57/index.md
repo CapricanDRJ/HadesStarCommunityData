@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Decode
+title: ​Decode
 description: Hades' Star Decode Bonus[🔴] W:36 L:18 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Canada 55
+title: ​Canada 55
 description: Hades' Star Canada 55 Bonus[🔴] W:2 L:0 D:0 
 ---
 

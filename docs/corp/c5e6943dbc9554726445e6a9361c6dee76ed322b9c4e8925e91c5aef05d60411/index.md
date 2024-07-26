@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 銀河星际集团
+title: ​銀河星际集团
 description: Hades' Star 銀河星际集团 Bonus[🔴] W:1 L:0 D:0 
 ---
 

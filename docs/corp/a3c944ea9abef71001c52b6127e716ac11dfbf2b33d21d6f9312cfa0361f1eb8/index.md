@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Irish Pride 
+title: ​Irish Pride 
 description: Hades' Star Irish Pride  Bonus[🔴] W:1 L:1 D:0 
 ---
 

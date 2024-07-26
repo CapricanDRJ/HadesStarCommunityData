@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Бороская Имерия
+title: ​Бороская Имерия
 description: Hades' Star Бороская Имерия Bonus[🔴] W:2 L:2 D:0 
 ---
 

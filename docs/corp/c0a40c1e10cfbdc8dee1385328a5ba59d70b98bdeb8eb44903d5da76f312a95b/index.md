@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TERRA P
+title: ​TERRA P
 description: Hades' Star TERRA P Bonus[🔴] W:0 L:1 D:0 
 ---
 

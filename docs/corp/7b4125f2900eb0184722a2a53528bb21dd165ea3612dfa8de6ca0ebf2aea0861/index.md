@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 萌新港
+title: ​萌新港
 description: Hades' Star 萌新港 Bonus[🔴] W:0 L:1 D:1 
 ---
 

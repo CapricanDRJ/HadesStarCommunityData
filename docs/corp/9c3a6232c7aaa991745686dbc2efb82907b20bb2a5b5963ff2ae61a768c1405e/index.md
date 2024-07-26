@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Death Flight 1.
+title: ​Death Flight 1.
 description: Hades' Star Death Flight 1. Bonus[🔴] W:0 L:2 D:0 
 ---
 

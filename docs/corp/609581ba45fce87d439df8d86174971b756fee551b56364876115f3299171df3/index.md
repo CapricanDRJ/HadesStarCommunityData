@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Genesis Corp
+title: ​Genesis Corp
 description: Hades' Star Genesis Corp Bonus[🔴] W:0 L:2 D:0 
 ---
 

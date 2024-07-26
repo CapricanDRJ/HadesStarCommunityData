@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TRAPSTAR¹
+title: ​TRAPSTAR¹
 description: Hades' Star TRAPSTAR¹ Bonus[🔴] W:0 L:2 D:1 
 ---
 

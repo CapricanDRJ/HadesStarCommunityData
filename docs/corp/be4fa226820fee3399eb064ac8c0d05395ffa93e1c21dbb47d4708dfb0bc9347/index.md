@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Рейнджеры
+title: ​Рейнджеры
 description: Hades' Star Рейнджеры Bonus[🔴] W:6 L:14 D:0 
 ---
 

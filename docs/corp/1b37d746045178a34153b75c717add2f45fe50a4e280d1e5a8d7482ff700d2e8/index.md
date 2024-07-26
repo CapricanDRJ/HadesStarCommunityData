@@ -1,6 +1,6 @@
 ---
 layout: page
-title: brit boys
+title: ​brit boys
 description: Hades' Star brit boys Bonus[🔴] W:1 L:1 D:0 
 ---
 

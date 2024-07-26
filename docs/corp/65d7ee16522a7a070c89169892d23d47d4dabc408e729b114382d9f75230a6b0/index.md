@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NameLess Hades
+title: ​NameLess Hades
 description: Hades' Star NameLess Hades Bonus[🔴] W:0 L:0 D:1 
 ---
 

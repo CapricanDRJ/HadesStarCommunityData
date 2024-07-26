@@ -1,6 +1,6 @@
 ---
 layout: page
-title: IMPERIAL ARMADA
+title: ​IMPERIAL ARMADA
 description: Hades' Star IMPERIAL ARMADA Bonus[🟢] W:29 L:21 D:2 
 ---
 

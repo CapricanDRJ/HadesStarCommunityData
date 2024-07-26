@@ -1,6 +1,6 @@
 ---
 layout: page
-title: lonewolf
+title: ​lonewolf
 description: Hades' Star lonewolf Bonus[🟢] W:9 L:10 D:1 
 ---
 

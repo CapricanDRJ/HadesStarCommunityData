@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BlackOrca
+title: ​BlackOrca
 description: Hades' Star BlackOrca Bonus[🔴] W:0 L:1 D:0 
 ---
 

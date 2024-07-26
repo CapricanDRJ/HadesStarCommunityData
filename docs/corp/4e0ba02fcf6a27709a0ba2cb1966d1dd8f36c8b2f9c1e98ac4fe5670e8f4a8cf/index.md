@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 共和服务器
+title: ​共和服务器
 description: Hades' Star 共和服务器 Bonus[🔴] W:1 L:2 D:1 
 ---
 

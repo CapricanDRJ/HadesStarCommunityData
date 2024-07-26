@@ -1,6 +1,6 @@
 ---
 layout: page
-title: pirates spatial
+title: ​pirates spatial
 description: Hades' Star pirates spatial Bonus[🟢] W:38 L:29 D:0 
 ---
 

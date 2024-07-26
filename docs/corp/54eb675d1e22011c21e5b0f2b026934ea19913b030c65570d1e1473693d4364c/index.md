@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 墨痕空域
+title: ​墨痕空域
 description: Hades' Star 墨痕空域 Bonus[🟢] W:30 L:16 D:0 
 ---
 

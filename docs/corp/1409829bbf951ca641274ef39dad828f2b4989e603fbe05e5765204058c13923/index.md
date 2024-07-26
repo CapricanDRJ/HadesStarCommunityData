@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 龙门训练营
+title: ​龙门训练营
 description: Hades' Star 龙门训练营 Bonus[🔴] W:9 L:18 D:0 
 ---
 

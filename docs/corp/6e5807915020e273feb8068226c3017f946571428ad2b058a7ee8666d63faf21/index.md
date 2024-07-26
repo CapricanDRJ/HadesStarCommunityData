@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sussy Coloner
+title: ​Sussy Coloner
 description: Hades' Star Sussy Coloner Bonus[🟢] W:10 L:40 D:1 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mass Effect
+title: ​Mass Effect
 description: Hades' Star Mass Effect Bonus[🔴] W:0 L:0 D:1 
 ---
 

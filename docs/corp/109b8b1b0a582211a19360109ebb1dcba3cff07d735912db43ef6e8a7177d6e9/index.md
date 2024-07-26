@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Foreshadowing
+title: ​Foreshadowing
 description: Hades' Star Foreshadowing Bonus[🔴] W:0 L:2 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ShadowSpaceCult
+title: ​ShadowSpaceCult
 description: Hades' Star ShadowSpaceCult Bonus[🔴] W:2 L:1 D:0 
 ---
 

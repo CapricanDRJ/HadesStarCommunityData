@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Atlas SLV-1
+title: ​Atlas SLV-1
 description: Hades' Star Atlas SLV-1 Bonus[🔴] W:0 L:1 D:0 
 ---
 

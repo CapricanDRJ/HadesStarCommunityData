@@ -1,6 +1,6 @@
 ---
 layout: page
-title: диванодавы
+title: ​диванодавы
 description: Hades' Star диванодавы Bonus[🔴] W:0 L:1 D:0 
 ---
 

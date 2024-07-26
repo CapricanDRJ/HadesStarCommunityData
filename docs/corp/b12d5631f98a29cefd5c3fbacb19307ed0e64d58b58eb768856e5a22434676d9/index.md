@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BlackDawn
+title: ​BlackDawn
 description: Hades' Star BlackDawn Bonus[🔴] W:1 L:14 D:5 
 ---
 

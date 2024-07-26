@@ -1,6 +1,6 @@
 ---
 layout: page
-title: pegaso
+title: ​pegaso
 description: Hades' Star pegaso Bonus[🔴] W:0 L:4 D:2 
 ---
 

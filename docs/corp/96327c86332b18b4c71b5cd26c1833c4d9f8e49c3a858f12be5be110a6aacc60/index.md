@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cell Division
+title: ​Cell Division
 description: Hades' Star Cell Division Bonus[🔴] W:0 L:3 D:0 
 ---
 

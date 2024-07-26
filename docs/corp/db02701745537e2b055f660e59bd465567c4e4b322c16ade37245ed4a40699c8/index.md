@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Russian Style
+title: ​Russian Style
 description: Hades' Star Russian Style Bonus[🔴] W:3 L:6 D:0 
 ---
 

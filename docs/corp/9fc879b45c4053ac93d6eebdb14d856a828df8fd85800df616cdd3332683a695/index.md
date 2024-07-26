@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Free Thinkers 2
+title: ​Free Thinkers 2
 description: Hades' Star Free Thinkers 2 Bonus[🔴] W:3 L:43 D:1 
 ---
 

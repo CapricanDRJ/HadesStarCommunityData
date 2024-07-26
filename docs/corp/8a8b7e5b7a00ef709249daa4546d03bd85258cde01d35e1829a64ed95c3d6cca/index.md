@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lights Off 
+title: ​Lights Off 
 description: Hades' Star Lights Off  Bonus[🟢] W:23 L:8 D:0 
 ---
 

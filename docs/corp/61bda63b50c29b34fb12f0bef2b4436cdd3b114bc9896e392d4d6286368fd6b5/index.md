@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Hexagonix
+title: ​The Hexagonix
 description: Hades' Star The Hexagonix Bonus[🔴] W:2 L:5 D:1 
 ---
 

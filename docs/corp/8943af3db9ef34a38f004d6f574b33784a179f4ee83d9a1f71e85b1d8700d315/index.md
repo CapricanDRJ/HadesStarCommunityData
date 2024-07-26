@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CSI
+title: ​CSI
 description: Hades' Star CSI Bonus[🔴] W:1 L:5 D:0 
 ---
 

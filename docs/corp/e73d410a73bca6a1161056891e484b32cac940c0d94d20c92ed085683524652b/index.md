@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Polish Pirates
+title: ​Polish Pirates
 description: Hades' Star Polish Pirates Bonus[🔴] W:14 L:12 D:0 
 ---
 

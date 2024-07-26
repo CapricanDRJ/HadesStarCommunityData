@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sternenwanderer
+title: ​Sternenwanderer
 description: Hades' Star Sternenwanderer Bonus[🔴] W:1 L:2 D:0 
 ---
 

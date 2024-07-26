@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CommCody & LPA
+title: ​CommCody & LPA
 description: Hades' Star CommCody & LPA Bonus[🔴] W:13 L:9 D:0 
 ---
 

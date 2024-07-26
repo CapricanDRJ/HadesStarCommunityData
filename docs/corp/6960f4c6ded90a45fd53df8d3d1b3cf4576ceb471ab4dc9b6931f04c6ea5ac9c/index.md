@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 代代守护你的神明
+title: ​代代守护你的神明
 description: Hades' Star 代代守护你的神明 Bonus[🔴] W:7 L:5 D:0 
 ---
 

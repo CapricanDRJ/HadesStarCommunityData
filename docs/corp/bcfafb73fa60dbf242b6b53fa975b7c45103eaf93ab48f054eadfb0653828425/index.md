@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hyperion Radius
+title: ​Hyperion Radius
 description: Hades' Star Hyperion Radius Bonus[🔴] W:0 L:1 D:0 
 ---
 

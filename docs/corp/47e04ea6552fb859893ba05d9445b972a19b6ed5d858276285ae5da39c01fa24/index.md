@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Order
+title: ​The Order
 description: Hades' Star The Order Bonus[🔴] W:1 L:2 D:0 
 ---
 

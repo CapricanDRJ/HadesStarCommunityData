@@ -1,6 +1,6 @@
 ---
 layout: page
-title: северный шторм
+title: ​северный шторм
 description: Hades' Star северный шторм Bonus[🔴] W:0 L:3 D:0 
 ---
 

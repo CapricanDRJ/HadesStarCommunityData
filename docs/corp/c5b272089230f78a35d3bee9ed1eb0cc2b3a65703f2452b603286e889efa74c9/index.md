@@ -1,6 +1,6 @@
 ---
 layout: page
-title: tropa (BR)
+title: ​tropa (BR)
 description: Hades' Star tropa (BR) Bonus[🔴] W:7 L:9 D:2 
 ---
 

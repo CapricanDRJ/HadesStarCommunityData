@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Veteran's Haven
+title: ​Veteran's Haven
 description: Hades' Star Veteran's Haven Bonus[🔴] W:5 L:9 D:0 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Red Dawn
+title: ​Red Dawn
 description: Hades' Star Red Dawn Bonus[🟢] W:27 L:17 D:1 
 ---
 

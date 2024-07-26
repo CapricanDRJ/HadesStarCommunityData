@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Crimson Dawn
+title: ​Crimson Dawn
 description: Hades' Star Crimson Dawn Bonus[🔴] W:7 L:10 D:0 
 ---
 

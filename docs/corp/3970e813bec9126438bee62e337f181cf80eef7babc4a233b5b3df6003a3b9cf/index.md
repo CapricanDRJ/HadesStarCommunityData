@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Free Star
+title: ​Free Star
 description: Hades' Star Free Star Bonus[🔴] W:5 L:8 D:0 
 ---
 

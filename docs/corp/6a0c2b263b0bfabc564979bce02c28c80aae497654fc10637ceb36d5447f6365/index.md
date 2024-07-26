@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 边缘世界
+title: ​边缘世界
 description: Hades' Star 边缘世界 Bonus[🔴] W:3 L:2 D:2 
 ---
 

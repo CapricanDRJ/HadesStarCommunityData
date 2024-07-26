@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 星环建设集团
+title: ​星环建设集团
 description: Hades' Star 星环建设集团 Bonus[🔴] W:6 L:6 D:2 
 ---
 

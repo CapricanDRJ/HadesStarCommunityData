@@ -1,6 +1,6 @@
 ---
 layout: page
-title: W.O.A
+title: ​W.O.A
 description: Hades' Star W.O.A Bonus[🔴] W:0 L:1 D:0 
 ---
 

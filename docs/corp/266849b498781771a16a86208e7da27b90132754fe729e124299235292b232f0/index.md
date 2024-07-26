@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 无名集团
+title: ​无名集团
 description: Hades' Star 无名集团 Bonus[🔴] W:0 L:1 D:0 
 ---
 

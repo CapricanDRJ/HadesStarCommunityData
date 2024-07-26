@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 阿尔特拉太空港
+title: ​阿尔特拉太空港
 description: Hades' Star 阿尔特拉太空港 Bonus[🟢] W:3 L:1 D:0 
 ---
 
