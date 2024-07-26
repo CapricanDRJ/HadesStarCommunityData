@@ -34,6 +34,6 @@ description: W:10 L:6 D:0 Bonus[🟢]
 | ✅ | 2024/01/31 | 10-0 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
 | ✅ | 2024/01/22 | 10-3 | [The Elite](https://ws.tsl.rocks/corp/a2df28ce949920025afb16d0229e0c14aed7832c217d142307a62622634d395c/) |
 | ❌ | 2023/12/09 | 0-15 | [OntarioDawn](https://ws.tsl.rocks/corp/1a002c71f3aba5da5918941fa2ba4dbbfc183ad52d97d44a25718e07e6b08a03/) |
-| ✅ | 2023/11/23 | 7-0 | [l\'empire sylli](https://ws.tsl.rocks/corp/0f9d92470641b1e171644fb99f888ee88663ea4ba40d1af7bd21d5aac1abd587/) |
+| ✅ | 2023/11/23 | 7-0 | [l'empire sylli](https://ws.tsl.rocks/corp/0f9d92470641b1e171644fb99f888ee88663ea4ba40d1af7bd21d5aac1abd587/) |
 
 Corporation ID: 4d949404db40dec4e95e786811959954fc9e2b1361f3bf0d33af2279ff86d23a

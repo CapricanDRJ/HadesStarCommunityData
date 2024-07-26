@@ -26,6 +26,6 @@ description: W:3 L:4 D:1 Bonus[🔴]
 | ✅ | 2024/02/14 | 5-4 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
 | ❌ | 2024/02/08 | 0-20 | [德意志第三帝国奥米加分部](https://ws.tsl.rocks/corp/b5f35e30b2dea2621e854b5011a9f9d07ca3585cd26bd9ac92aa7b06c0a522b1/) |
 | ↔️ | 2024/02/05 | 0-0 | [СНГ — РОССИЯ](https://ws.tsl.rocks/corp/075394144fa4e771dc8358886dc461b0ed87d948b46e5d817d29296adf2f11f2/) |
-| ✅ | 2024/02/02 | 1-0 | [\"ПОБЕДА\"](https://ws.tsl.rocks/corp/6e278fab01265655262e413d267a6cf9ac06840a6e4ee0a61cd5662657f2bab0/) |
+| ✅ | 2024/02/02 | 1-0 | ["ПОБЕДА"](https://ws.tsl.rocks/corp/6e278fab01265655262e413d267a6cf9ac06840a6e4ee0a61cd5662657f2bab0/) |
 
 Corporation ID: 4cecdcd329a545deb9c2a292081f9220114f37e845dbea6dd1ec326390e296dd

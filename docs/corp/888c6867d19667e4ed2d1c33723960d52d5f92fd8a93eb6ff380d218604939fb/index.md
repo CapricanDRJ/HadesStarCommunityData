@@ -86,6 +86,6 @@ description: W:45 L:6 D:1 Bonus[🟢]
 | ✅ | 2023/11/25 | 22-3 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
 | ✅ | 2023/11/19 | 13-7 | [Astra Ultima](https://ws.tsl.rocks/corp/28f566291e90761f5c070cb9c53ba0381b2afd62e60f643e3be33288118ec4ff/) |
 | ✅ | 2023/11/14 | 15-0 | [海賊ギルド](https://ws.tsl.rocks/corp/5a1a2bfa07b5ad3ca9bc90a4a86ce8e83d0e61393771fa0ff4c71733bc8879f3/) |
-| ✅ | 2023/11/09 | 21-3 | [Hades\' 420](https://ws.tsl.rocks/corp/e83b8d576f0efe37e0cdc115b709de051fc57c51a2183f4cb399421766660a73/) |
+| ✅ | 2023/11/09 | 21-3 | [Hades' 420](https://ws.tsl.rocks/corp/e83b8d576f0efe37e0cdc115b709de051fc57c51a2183f4cb399421766660a73/) |
 
 Corporation ID: 888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb
