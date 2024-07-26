@@ -2,6 +2,7 @@
 layout: page
 title: ​Weyland Yutani 
 description: W:12 L:23 D:3 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 layout: page
 title: ​星を継ぐもの
 description: W:27 L:10 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

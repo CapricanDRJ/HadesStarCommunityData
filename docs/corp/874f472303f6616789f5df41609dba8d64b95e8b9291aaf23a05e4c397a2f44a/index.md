@@ -2,6 +2,7 @@
 layout: page
 title: ​SUN OF 3LANDS
 description: W:8 L:2 D:1 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

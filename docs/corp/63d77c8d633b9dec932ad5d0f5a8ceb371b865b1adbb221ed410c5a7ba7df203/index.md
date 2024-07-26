@@ -2,6 +2,7 @@
 layout: page
 title: ​Cerulean Star
 description: W:20 L:17 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

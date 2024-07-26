@@ -2,6 +2,7 @@
 layout: page
 title: ​Повстанцы Хаоса
 description: W:21 L:4 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

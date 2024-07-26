@@ -2,6 +2,7 @@
 layout: page
 title: ​Crimson Dawn
 description: W:7 L:10 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

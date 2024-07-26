@@ -2,6 +2,7 @@
 layout: page
 title: ​RUFORS
 description: W:5 L:4 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

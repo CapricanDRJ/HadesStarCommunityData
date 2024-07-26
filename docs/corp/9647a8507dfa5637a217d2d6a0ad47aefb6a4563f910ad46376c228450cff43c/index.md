@@ -2,6 +2,7 @@
 layout: page
 title: ​CTG
 description: W:10 L:13 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

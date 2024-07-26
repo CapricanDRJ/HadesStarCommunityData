@@ -2,6 +2,7 @@
 layout: page
 title: ​Providence
 description: W:26 L:12 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

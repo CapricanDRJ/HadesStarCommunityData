@@ -2,6 +2,7 @@
 layout: page
 title: ​Quilliance
 description: W:14 L:2 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

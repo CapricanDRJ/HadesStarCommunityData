@@ -2,6 +2,7 @@
 layout: page
 title: ​Space Force
 description: W:1 L:3 D:2 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

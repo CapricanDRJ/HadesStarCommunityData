@@ -2,6 +2,7 @@
 layout: page
 title: ​GermanSpaceUno.
 description: W:5 L:19 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

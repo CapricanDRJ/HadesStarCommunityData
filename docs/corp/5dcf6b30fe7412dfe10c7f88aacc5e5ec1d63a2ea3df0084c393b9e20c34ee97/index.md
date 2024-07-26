@@ -2,6 +2,7 @@
 layout: page
 title: ​Galaxian
 description: W:18 L:9 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

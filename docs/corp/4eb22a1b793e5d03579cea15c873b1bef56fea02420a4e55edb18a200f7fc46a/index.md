@@ -2,6 +2,7 @@
 layout: page
 title: ​империя тьмы
 description: W:12 L:21 D:2 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

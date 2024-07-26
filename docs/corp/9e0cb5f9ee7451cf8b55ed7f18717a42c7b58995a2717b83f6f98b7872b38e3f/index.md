@@ -2,6 +2,7 @@
 layout: page
 title: ​Farland Ind.
 description: W:7 L:19 D:1 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

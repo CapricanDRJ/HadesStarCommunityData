@@ -2,6 +2,7 @@
 layout: page
 title: ​Alpaca Haven
 description: W:18 L:11 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

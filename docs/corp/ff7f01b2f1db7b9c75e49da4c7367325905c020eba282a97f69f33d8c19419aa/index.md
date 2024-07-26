@@ -2,6 +2,7 @@
 layout: page
 title: ​₩.BRASIL.₩
 description: W:0 L:8 D:4 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

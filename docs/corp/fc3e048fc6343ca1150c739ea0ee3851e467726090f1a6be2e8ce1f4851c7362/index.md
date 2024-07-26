@@ -2,6 +2,7 @@
 layout: page
 title: ​ГОРИЗОНТ
 description: W:9 L:46 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

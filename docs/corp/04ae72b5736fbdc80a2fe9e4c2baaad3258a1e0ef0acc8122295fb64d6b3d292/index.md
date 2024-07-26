@@ -2,6 +2,7 @@
 layout: page
 title: ​three kitties
 description: W:31 L:9 D:1 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

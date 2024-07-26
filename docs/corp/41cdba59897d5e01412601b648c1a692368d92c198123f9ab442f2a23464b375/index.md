@@ -2,6 +2,7 @@
 layout: page
 title: ​Crux Cadre
 description: W:26 L:19 D:1 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

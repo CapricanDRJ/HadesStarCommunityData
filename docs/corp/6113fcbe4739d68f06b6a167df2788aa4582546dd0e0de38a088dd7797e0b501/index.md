@@ -2,6 +2,7 @@
 layout: page
 title: ​深空补给港
 description: W:2 L:12 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

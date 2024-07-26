@@ -2,6 +2,7 @@
 layout: page
 title: ​Axiom
 description: W:45 L:24 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

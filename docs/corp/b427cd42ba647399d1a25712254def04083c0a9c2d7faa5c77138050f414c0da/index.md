@@ -2,6 +2,7 @@
 layout: page
 title: ​墨痕白星分部
 description: W:9 L:7 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

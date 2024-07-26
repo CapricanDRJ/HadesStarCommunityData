@@ -2,6 +2,7 @@
 layout: page
 title: ​Highlife
 description: W:18 L:18 D:1 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 layout: page
 title: ​НИФИГАСЕБЕ
 description: W:8 L:22 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

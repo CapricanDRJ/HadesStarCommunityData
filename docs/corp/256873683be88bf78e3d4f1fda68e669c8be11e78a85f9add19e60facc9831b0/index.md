@@ -2,6 +2,7 @@
 layout: page
 title: ​Ironbear Legion
 description: W:14 L:25 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

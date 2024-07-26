@@ -2,6 +2,7 @@
 layout: page
 title: ​猎户座星云
 description: W:3 L:6 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

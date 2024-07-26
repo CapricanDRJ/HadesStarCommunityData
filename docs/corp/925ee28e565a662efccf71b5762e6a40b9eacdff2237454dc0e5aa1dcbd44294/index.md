@@ -2,6 +2,7 @@
 layout: page
 title: ​RACNAROK
 description: W:7 L:2 D:2 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

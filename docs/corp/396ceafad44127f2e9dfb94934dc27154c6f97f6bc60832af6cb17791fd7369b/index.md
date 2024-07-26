@@ -2,6 +2,7 @@
 layout: page
 title: ​Vega Conflict
 description: W:8 L:5 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

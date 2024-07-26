@@ -2,6 +2,7 @@
 layout: page
 title: ​The trade pub
 description: W:15 L:19 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

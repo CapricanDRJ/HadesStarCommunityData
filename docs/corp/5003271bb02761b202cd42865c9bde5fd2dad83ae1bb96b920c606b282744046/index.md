@@ -2,6 +2,7 @@
 layout: page
 title: ​Avantgarde
 description: W:3 L:33 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

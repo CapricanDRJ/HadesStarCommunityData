@@ -2,6 +2,7 @@
 layout: page
 title: ​Dark Training
 description: W:12 L:11 D:1 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

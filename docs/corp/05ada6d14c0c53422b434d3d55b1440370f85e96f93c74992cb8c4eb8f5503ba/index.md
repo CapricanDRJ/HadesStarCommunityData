@@ -2,6 +2,7 @@
 layout: page
 title: ​BrinySeal
 description: W:34 L:15 D:3 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

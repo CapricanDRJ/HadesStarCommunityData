@@ -2,6 +2,7 @@
 layout: page
 title: ​Nueva Hyperion
 description: W:3 L:1 D:1 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

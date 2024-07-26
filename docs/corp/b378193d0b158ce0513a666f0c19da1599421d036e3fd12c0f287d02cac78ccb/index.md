@@ -2,6 +2,7 @@
 layout: page
 title: ​StargateCommand
 description: W:0 L:2 D:1 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

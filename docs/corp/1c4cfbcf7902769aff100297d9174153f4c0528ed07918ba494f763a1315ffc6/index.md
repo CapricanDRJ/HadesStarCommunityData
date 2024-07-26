@@ -2,6 +2,7 @@
 layout: page
 title: ​The Allegiant
 description: W:17 L:8 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

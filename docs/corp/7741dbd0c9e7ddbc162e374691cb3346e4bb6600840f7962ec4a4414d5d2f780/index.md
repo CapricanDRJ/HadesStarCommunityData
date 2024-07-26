@@ -2,6 +2,7 @@
 layout: page
 title: ​Tuatha De Danan
 description: W:44 L:12 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

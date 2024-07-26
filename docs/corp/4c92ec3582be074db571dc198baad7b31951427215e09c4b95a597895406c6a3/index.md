@@ -2,6 +2,7 @@
 layout: page
 title: ​DYLAN
 description: W:8 L:1 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

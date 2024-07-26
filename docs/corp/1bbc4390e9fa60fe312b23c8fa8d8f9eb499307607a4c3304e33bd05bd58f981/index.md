@@ -2,6 +2,7 @@
 layout: page
 title: ​ES Gaming 
 description: W:16 L:13 D:1 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

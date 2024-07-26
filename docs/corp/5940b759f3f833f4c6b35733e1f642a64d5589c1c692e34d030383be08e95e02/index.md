@@ -2,6 +2,7 @@
 layout: page
 title: ​Ark Summit
 description: W:10 L:0 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

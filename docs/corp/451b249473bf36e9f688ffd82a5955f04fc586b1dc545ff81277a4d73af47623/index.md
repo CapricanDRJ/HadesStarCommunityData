@@ -2,6 +2,7 @@
 layout: page
 title: ​Lost Legion
 description: W:20 L:35 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

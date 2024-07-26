@@ -2,6 +2,7 @@
 layout: page
 title: ​Emergence
 description: W:25 L:2 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 layout: page
 title: ​Star Wars
 description: W:9 L:8 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

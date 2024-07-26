@@ -2,6 +2,7 @@
 layout: page
 title: ​CDG
 description: W:24 L:27 D:5 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

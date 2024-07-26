@@ -2,6 +2,7 @@
 layout: page
 title: ​Celtic Imperium
 description: W:1 L:6 D:1 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

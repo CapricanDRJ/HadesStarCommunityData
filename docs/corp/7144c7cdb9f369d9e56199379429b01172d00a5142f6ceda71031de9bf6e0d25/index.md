@@ -2,6 +2,7 @@
 layout: page
 title: ​JPR. Pretorians
 description: W:6 L:9 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

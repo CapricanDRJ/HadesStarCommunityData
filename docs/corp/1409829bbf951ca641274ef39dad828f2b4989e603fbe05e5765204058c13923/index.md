@@ -2,6 +2,7 @@
 layout: page
 title: ​龙门训练营
 description: W:9 L:18 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

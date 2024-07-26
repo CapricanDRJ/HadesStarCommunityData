@@ -2,6 +2,7 @@
 layout: page
 title: ​Corvus Ind.
 description: W:24 L:9 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

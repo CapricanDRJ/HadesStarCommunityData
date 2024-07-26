@@ -2,6 +2,7 @@
 layout: page
 title: ​united unicorn
 description: W:1 L:0 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

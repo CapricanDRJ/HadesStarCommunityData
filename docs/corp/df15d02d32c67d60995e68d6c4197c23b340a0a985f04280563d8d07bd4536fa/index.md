@@ -2,6 +2,7 @@
 layout: page
 title: ​🌪TORNADO 
 description: W:6 L:8 D:3 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 layout: page
 title: ​Unión latina
 description: W:26 L:19 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

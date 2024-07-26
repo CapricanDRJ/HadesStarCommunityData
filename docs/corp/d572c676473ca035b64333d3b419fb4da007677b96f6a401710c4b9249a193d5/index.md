@@ -2,6 +2,7 @@
 layout: page
 title: ​Укр інтроверти
 description: W:1 L:4 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

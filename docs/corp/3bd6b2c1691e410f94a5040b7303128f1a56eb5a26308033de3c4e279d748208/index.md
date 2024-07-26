@@ -2,6 +2,7 @@
 layout: page
 title: ​德意志第三帝国BATA分部
 description: W:1 L:0 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

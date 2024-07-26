@@ -2,6 +2,7 @@
 layout: page
 title: ​U.Y.E.U.
 description: W:4 L:11 D:3 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

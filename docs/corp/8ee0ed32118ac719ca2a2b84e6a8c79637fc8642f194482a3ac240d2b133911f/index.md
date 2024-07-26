@@ -2,6 +2,7 @@
 layout: page
 title: ​Interstellar
 description: W:25 L:28 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

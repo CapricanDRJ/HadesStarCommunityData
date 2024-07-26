@@ -2,6 +2,7 @@
 layout: page
 title: ​СОЮЗ
 description: W:6 L:4 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

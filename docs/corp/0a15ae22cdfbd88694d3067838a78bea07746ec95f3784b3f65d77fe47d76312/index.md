@@ -2,6 +2,7 @@
 layout: page
 title: ​GhostNakcoorp
 description: W:23 L:15 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

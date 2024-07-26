@@ -2,6 +2,7 @@
 layout: page
 title: ​Black Star llc.
 description: W:31 L:16 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 layout: page
 title: ​第五星际
 description: W:3 L:2 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 layout: page
 title: ​First Squad
 description: W:1 L:7 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

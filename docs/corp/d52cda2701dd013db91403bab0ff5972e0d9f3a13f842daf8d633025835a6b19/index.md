@@ -2,6 +2,7 @@
 layout: page
 title: ​The Galxey █
 description: W:5 L:29 D:2 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

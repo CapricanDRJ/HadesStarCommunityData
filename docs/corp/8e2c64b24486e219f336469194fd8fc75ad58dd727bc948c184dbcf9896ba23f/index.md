@@ -2,6 +2,7 @@
 layout: page
 title: ​Space Anomalies
 description: W:1 L:0 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

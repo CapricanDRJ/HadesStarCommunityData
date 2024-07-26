@@ -2,6 +2,7 @@
 layout: page
 title: ​Eretria 
 description: W:25 L:22 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 layout: page
 title: ​Рейнджеры
 description: W:6 L:14 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

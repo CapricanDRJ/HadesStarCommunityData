@@ -2,6 +2,7 @@
 layout: page
 title: ​Planet Express
 description: W:7 L:2 D:1 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 layout: page
 title: ​Пабеда
 description: W:1 L:2 D:1 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

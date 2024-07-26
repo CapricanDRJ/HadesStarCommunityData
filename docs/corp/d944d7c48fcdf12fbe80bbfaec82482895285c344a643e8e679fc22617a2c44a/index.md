@@ -2,6 +2,7 @@
 layout: page
 title: ​Nexland Ind.
 description: W:5 L:4 D:1 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

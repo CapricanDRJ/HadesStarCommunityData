@@ -2,6 +2,7 @@
 layout: page
 title: ​Sussy Coloner
 description: W:10 L:40 D:1 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

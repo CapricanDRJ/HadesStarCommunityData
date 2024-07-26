@@ -2,6 +2,7 @@
 layout: page
 title: ​云浪山庄↕
 description: W:18 L:59 D:1 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

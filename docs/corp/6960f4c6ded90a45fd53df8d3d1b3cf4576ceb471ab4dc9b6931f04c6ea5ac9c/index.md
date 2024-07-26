@@ -2,6 +2,7 @@
 layout: page
 title: ​代代守护你的神明
 description: W:7 L:5 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

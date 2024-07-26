@@ -2,6 +2,7 @@
 layout: page
 title: ​Germania
 description: W:16 L:21 D:2 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

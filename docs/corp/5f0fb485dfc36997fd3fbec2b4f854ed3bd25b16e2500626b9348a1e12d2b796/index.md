@@ -2,6 +2,7 @@
 layout: page
 title: ​Quantum Web
 description: W:0 L:1 D:1 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

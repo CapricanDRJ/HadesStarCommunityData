@@ -2,6 +2,7 @@
 layout: page
 title: ​GalaxyNova
 description: W:7 L:2 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 layout: page
 title: ​lesescargots
 description: W:36 L:14 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

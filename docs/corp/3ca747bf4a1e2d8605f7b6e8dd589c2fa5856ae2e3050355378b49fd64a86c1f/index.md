@@ -2,6 +2,7 @@
 layout: page
 title: ​风云集团
 description: W:1 L:3 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

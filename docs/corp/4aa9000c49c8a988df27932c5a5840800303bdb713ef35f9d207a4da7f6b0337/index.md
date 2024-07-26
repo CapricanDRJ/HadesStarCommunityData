@@ -2,6 +2,7 @@
 layout: page
 title: ​The Gladiators
 description: W:1 L:2 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

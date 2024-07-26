@@ -2,6 +2,7 @@
 layout: page
 title: ​Hun Generals
 description: W:8 L:30 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

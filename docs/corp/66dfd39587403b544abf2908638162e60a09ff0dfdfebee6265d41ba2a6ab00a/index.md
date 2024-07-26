@@ -2,6 +2,7 @@
 layout: page
 title: ​Core Systems
 description: W:3 L:2 D:2 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

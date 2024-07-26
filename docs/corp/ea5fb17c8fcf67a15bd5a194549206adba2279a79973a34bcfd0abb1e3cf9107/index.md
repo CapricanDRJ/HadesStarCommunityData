@@ -2,6 +2,7 @@
 layout: page
 title: ​Continuum
 description: W:51 L:27 D:1 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 layout: page
 title: ​Bund von Lykon
 description: W:2 L:9 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

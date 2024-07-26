@@ -2,6 +2,7 @@
 layout: page
 title: ​Aeternae
 description: W:0 L:7 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

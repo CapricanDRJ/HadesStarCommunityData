@@ -2,6 +2,7 @@
 layout: page
 title: ​RUSSIAN TEAM
 description: W:0 L:9 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

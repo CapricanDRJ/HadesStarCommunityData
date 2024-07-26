@@ -2,6 +2,7 @@
 layout: page
 title: ​E.T.A
 description: W:7 L:21 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 layout: page
 title: ​UAGC
 description: W:22 L:16 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

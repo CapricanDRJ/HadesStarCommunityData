@@ -2,6 +2,7 @@
 layout: page
 title: ​Atlas Star llc.
 description: W:29 L:7 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

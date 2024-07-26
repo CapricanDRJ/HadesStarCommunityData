@@ -2,6 +2,7 @@
 layout: page
 title: ​Pyke Syndicate
 description: W:2 L:19 D:1 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

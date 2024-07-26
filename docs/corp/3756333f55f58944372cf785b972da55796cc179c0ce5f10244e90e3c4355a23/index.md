@@ -2,6 +2,7 @@
 layout: page
 title: ​Destroyers
 description: W:16 L:16 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

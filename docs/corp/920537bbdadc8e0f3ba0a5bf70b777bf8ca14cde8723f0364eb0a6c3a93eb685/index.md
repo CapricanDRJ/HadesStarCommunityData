@@ -2,6 +2,7 @@
 layout: page
 title: ​UFO
 description: W:4 L:3 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

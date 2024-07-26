@@ -2,6 +2,7 @@
 layout: page
 title: ​Aegis Shield
 description: W:2 L:7 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

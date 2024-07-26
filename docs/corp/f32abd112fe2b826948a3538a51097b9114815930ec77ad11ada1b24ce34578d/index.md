@@ -2,6 +2,7 @@
 layout: page
 title: ​欢迎国人
 description: W:3 L:11 D:2 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

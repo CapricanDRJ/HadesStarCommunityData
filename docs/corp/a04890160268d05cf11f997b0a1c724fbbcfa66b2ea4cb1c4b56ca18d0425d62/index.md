@@ -2,6 +2,7 @@
 layout: page
 title: ​GDZ
 description: W:31 L:26 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 layout: page
 title: ​苏维埃联邦
 description: W:0 L:14 D:3 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

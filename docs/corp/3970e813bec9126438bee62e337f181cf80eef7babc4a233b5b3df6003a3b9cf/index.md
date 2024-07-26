@@ -2,6 +2,7 @@
 layout: page
 title: ​Free Star
 description: W:5 L:8 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

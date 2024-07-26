@@ -2,6 +2,7 @@
 layout: page
 title: ​Rogue Dudes
 description: W:2 L:0 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

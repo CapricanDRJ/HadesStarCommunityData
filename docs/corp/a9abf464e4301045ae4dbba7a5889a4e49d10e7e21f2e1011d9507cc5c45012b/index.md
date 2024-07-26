@@ -2,6 +2,7 @@
 layout: page
 title: ​Proteus Tech
 description: W:6 L:1 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

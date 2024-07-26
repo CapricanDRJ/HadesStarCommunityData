@@ -2,6 +2,7 @@
 layout: page
 title: ​●Black•Sails●
 description: W:13 L:10 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

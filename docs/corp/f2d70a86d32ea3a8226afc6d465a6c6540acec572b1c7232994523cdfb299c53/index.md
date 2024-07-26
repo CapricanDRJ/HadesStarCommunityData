@@ -2,6 +2,7 @@
 layout: page
 title: ​✡天启✡
 description: W:22 L:8 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

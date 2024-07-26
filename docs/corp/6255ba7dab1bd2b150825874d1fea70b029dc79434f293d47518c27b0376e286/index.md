@@ -2,6 +2,7 @@
 layout: page
 title: ​Space Penguins
 description: W:36 L:10 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

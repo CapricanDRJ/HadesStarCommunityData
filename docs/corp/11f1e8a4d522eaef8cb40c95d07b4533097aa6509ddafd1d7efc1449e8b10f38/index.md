@@ -2,6 +2,7 @@
 layout: page
 title: ​SternenStaub
 description: W:20 L:20 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

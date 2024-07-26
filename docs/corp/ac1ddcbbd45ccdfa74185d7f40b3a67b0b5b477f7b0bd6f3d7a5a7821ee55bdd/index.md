@@ -2,6 +2,7 @@
 layout: page
 title: ​Widow Makers
 description: W:3 L:2 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

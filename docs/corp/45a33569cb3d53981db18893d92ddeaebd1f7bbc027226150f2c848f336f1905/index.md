@@ -2,6 +2,7 @@
 layout: page
 title: ​Bloodtide
 description: W:35 L:33 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 layout: page
 title: ​Polish Pirates
 description: W:14 L:12 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

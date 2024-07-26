@@ -2,6 +2,7 @@
 layout: page
 title: ​Russian Style
 description: W:3 L:6 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

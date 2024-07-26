@@ -2,6 +2,7 @@
 layout: page
 title: ​callisto corp
 description: W:0 L:2 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

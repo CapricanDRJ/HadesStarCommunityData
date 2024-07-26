@@ -2,6 +2,7 @@
 layout: page
 title: ​德意志阿尔法帝国
 description: W:1 L:1 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 layout: page
 title: ​以太超星团
 description: W:3 L:22 D:3 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

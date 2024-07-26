@@ -2,6 +2,7 @@
 layout: page
 title: ​STAR EMPIRE 16
 description: W:0 L:3 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

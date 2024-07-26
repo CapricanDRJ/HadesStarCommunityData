@@ -2,6 +2,7 @@
 layout: page
 title: ​Imperium XIII
 description: W:24 L:20 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

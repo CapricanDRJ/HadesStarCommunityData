@@ -2,6 +2,7 @@
 layout: page
 title: ​universe leader
 description: W:2 L:8 D:1 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

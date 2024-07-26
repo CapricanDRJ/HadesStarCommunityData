@@ -2,6 +2,7 @@
 layout: page
 title: ​Prospectors
 description: W:4 L:3 D:1 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

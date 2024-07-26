@@ -2,6 +2,7 @@
 layout: page
 title: ​MÉXICO INFINITO
 description: W:16 L:21 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

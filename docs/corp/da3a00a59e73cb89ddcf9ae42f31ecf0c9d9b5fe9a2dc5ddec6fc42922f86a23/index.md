@@ -2,6 +2,7 @@
 layout: page
 title: ​Midland Ind.
 description: W:9 L:9 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 layout: page
 title: ​遨游星空  kdy分盟
 description: W:13 L:18 D:1 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 layout: page
 title: ​Seila
 description: W:4 L:6 D:1 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

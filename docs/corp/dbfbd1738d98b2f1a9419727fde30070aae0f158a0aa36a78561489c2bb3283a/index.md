@@ -2,6 +2,7 @@
 layout: page
 title: ​Green Dwarf
 description: W:4 L:1 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

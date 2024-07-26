@@ -2,6 +2,7 @@
 layout: page
 title: ​Orion
 description: W:12 L:4 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 layout: page
 title: ​Ark
 description: W:38 L:7 D:1 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

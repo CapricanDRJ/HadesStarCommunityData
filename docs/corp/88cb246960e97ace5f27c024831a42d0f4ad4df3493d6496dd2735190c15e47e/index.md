@@ -2,6 +2,7 @@
 layout: page
 title: ​北冥星云
 description: W:0 L:4 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

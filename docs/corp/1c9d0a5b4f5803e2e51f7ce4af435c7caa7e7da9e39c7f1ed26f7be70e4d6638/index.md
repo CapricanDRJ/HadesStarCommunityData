@@ -2,6 +2,7 @@
 layout: page
 title: ​Sterling Gamers
 description: W:1 L:1 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

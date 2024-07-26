@@ -2,6 +2,7 @@
 layout: page
 title: ​N.P.C
 description: W:5 L:2 D:3 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

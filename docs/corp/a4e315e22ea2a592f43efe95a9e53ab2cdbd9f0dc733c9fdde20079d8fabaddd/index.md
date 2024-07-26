@@ -2,6 +2,7 @@
 layout: page
 title: ​Battle Academy
 description: W:4 L:0 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

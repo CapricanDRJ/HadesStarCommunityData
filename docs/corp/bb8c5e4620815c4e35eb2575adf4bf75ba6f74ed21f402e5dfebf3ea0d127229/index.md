@@ -2,6 +2,7 @@
 layout: page
 title: ​Dadsw/Daughterz
 description: W:1 L:3 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

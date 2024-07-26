@@ -2,6 +2,7 @@
 layout: page
 title: ​Nebulae Traders
 description: W:4 L:15 D:2 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

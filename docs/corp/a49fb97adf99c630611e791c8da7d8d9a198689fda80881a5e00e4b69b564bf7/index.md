@@ -2,6 +2,7 @@
 layout: page
 title: ​Hinterm Mars
 description: W:22 L:28 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

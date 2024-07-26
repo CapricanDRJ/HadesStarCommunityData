@@ -2,6 +2,7 @@
 layout: page
 title: ​Covenant
 description: W:0 L:2 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

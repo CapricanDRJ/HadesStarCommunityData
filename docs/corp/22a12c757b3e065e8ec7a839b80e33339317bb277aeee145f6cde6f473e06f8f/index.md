@@ -2,6 +2,7 @@
 layout: page
 title: ​V0RTEX
 description: W:10 L:9 D:1 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

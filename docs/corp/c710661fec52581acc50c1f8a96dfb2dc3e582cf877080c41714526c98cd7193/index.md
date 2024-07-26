@@ -2,6 +2,7 @@
 layout: page
 title: ​Eternal empire 
 description: W:7 L:15 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

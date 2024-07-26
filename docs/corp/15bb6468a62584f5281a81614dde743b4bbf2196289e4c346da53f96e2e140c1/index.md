@@ -2,6 +2,7 @@
 layout: page
 title: ​Слава Украине!
 description: W:49 L:27 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

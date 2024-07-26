@@ -2,6 +2,7 @@
 layout: page
 title: ​LOST PIRATES
 description: W:0 L:5 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

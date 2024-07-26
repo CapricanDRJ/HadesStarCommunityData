@@ -2,6 +2,7 @@
 layout: page
 title: ​Red Alliance
 description: W:6 L:5 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

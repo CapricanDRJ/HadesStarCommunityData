@@ -2,6 +2,7 @@
 layout: page
 title: ​INFINITY STAR
 description: W:4 L:6 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

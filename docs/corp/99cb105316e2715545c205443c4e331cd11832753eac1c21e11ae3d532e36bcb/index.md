@@ -2,6 +2,7 @@
 layout: page
 title: ​火洋之心
 description: W:4 L:1 D:2 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

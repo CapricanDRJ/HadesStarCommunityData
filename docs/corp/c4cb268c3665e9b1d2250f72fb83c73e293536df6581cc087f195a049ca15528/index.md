@@ -2,6 +2,7 @@
 layout: page
 title: ​Призрачный Путь
 description: W:13 L:5 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

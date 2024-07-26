@@ -2,6 +2,7 @@
 layout: page
 title: ​Krasse Bros
 description: W:5 L:1 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

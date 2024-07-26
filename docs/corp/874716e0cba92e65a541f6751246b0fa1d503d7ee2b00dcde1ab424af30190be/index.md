@@ -2,6 +2,7 @@
 layout: page
 title: ​ༀᅗBAR ESTELARᅗༀ
 description: W:1 L:11 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

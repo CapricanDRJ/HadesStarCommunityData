@@ -2,6 +2,7 @@
 layout: page
 title: ​Uchiha
 description: W:3 L:12 D:1 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

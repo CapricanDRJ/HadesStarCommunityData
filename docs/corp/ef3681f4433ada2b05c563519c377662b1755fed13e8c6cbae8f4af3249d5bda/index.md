@@ -2,6 +2,7 @@
 layout: page
 title: ​Starlancer
 description: W:0 L:18 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

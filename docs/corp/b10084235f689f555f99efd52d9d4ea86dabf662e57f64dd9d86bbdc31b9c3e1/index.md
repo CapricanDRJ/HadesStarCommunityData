@@ -2,6 +2,7 @@
 layout: page
 title: ​Hexwood
 description: W:7 L:4 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 layout: page
 title: ​DTC
 description: W:14 L:42 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

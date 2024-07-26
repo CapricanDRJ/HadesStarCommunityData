@@ -2,6 +2,7 @@
 layout: page
 title: ​СССР 2.0
 description: W:2 L:6 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 layout: page
 title: ​Неизбежный Рок
 description: W:47 L:24 D:1 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

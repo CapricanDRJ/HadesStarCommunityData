@@ -2,6 +2,7 @@
 layout: page
 title: ​超新星联盟
 description: W:5 L:6 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

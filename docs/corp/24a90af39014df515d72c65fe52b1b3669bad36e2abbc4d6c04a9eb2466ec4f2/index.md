@@ -2,6 +2,7 @@
 layout: page
 title: ​LossFarm No.648
 description: W:4 L:3 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

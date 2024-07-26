@@ -2,6 +2,7 @@
 layout: page
 title: ​Space Rangers
 description: W:17 L:9 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

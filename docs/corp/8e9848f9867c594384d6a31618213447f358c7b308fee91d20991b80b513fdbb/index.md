@@ -2,6 +2,7 @@
 layout: page
 title: ​Albedo
 description: W:23 L:6 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

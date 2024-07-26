@@ -2,6 +2,7 @@
 layout: page
 title: ​CIS
 description: W:30 L:4 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

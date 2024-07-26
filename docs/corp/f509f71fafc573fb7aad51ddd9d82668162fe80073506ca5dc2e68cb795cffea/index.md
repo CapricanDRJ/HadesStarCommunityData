@@ -2,6 +2,7 @@
 layout: page
 title: ​Odessa
 description: W:5 L:12 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 layout: page
 title: ​Elysium
 description: W:27 L:9 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

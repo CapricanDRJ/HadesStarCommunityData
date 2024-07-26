@@ -2,6 +2,7 @@
 layout: page
 title: ​Industrial W.O
 description: W:20 L:22 D:1 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

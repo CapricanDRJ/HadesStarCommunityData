@@ -2,6 +2,7 @@
 layout: page
 title: ​Scar
 description: W:25 L:16 D:1 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 layout: page
 title: ​Warriorlords
 description: W:20 L:8 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

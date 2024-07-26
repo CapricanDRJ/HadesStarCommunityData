@@ -2,6 +2,7 @@
 layout: page
 title: ​Sprite
 description: W:3 L:4 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

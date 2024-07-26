@@ -2,6 +2,7 @@
 layout: page
 title: ​Free Ag3nts
 description: W:3 L:0 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

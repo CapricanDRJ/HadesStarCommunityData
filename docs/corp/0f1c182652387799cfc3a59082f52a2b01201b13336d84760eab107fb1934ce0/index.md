@@ -2,6 +2,7 @@
 layout: page
 title: ​Nova Time
 description: W:13 L:1 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

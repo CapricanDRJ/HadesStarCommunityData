@@ -2,6 +2,7 @@
 layout: page
 title: ​SEC
 description: W:6 L:0 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

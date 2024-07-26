@@ -2,6 +2,7 @@
 layout: page
 title: ​Russia
 description: W:1 L:8 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

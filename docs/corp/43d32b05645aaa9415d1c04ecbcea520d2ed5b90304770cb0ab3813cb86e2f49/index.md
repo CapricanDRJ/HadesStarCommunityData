@@ -2,6 +2,7 @@
 layout: page
 title: ​붉은늑대
 description: W:33 L:38 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

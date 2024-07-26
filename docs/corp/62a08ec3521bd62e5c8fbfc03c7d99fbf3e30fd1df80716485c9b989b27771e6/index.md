@@ -2,6 +2,7 @@
 layout: page
 title: ​The Watchers
 description: W:11 L:14 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

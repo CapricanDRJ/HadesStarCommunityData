@@ -2,6 +2,7 @@
 layout: page
 title: ​Void
 description: W:6 L:7 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

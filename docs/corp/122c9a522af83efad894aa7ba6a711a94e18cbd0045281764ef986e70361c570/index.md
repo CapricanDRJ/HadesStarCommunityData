@@ -2,6 +2,7 @@
 layout: page
 title: ​Caprica command
 description: W:4 L:4 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

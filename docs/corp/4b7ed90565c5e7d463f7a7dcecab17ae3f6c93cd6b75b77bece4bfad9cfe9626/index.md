@@ -2,6 +2,7 @@
 layout: page
 title: ​ITA
 description: W:14 L:18 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

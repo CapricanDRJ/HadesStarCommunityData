@@ -2,6 +2,7 @@
 layout: page
 title: ​Frontier X
 description: W:9 L:4 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

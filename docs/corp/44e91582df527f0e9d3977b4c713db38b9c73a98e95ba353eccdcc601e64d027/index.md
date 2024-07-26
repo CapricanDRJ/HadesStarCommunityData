@@ -2,6 +2,7 @@
 layout: page
 title: ​Stellar Exports
 description: W:34 L:24 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

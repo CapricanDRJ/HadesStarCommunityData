@@ -2,6 +2,7 @@
 layout: page
 title: ​Omega Alpha
 description: W:24 L:4 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

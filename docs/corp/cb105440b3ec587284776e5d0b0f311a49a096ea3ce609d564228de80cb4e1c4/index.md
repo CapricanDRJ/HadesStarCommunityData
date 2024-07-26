@@ -2,6 +2,7 @@
 layout: page
 title: ​Black Nova
 description: W:0 L:1 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

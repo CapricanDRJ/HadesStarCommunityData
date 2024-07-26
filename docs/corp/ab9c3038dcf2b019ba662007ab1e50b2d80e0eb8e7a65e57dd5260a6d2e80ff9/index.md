@@ -2,6 +2,7 @@
 layout: page
 title: ​Halcon español
 description: W:20 L:9 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

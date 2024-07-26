@@ -2,6 +2,7 @@
 layout: page
 title: ​Grater T
 description: W:8 L:8 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

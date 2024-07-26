@@ -2,6 +2,7 @@
 layout: page
 title: ​RGW
 description: W:11 L:6 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

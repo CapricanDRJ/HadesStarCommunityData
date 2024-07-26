@@ -2,6 +2,7 @@
 layout: page
 title: ​羽共和体
 description: W:10 L:19 D:3 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

@@ -2,6 +2,7 @@
 layout: page
 title: ​＊СССР＊
 description: W:18 L:19 D:1 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

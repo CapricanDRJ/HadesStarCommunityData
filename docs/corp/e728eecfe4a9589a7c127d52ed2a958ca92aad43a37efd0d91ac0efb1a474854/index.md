@@ -2,6 +2,7 @@
 layout: page
 title: ​Hun Avengers
 description: W:12 L:13 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

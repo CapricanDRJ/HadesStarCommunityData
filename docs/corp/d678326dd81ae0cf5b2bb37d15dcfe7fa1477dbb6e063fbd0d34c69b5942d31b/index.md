@@ -2,6 +2,7 @@
 layout: page
 title: ​Hungary First
 description: W:13 L:8 D:1 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

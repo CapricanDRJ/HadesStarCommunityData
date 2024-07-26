@@ -2,6 +2,7 @@
 layout: page
 title: ​Cyber Star
 description: W:24 L:10 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

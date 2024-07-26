@@ -2,6 +2,7 @@
 layout: page
 title: ​Titan Inc.
 description: W:0 L:0 D:1 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

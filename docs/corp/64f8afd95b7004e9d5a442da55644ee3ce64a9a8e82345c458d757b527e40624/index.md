@@ -2,6 +2,7 @@
 layout: page
 title: ​佛矿寺
 description: W:8 L:35 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

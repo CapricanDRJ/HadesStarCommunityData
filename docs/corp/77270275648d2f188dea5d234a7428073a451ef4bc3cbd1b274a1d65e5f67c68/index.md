@@ -2,6 +2,7 @@
 layout: page
 title: ​Final
 description: W:3 L:9 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

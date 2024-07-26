@@ -2,6 +2,7 @@
 layout: page
 title: ​EZCO
 description: W:13 L:14 D:1 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

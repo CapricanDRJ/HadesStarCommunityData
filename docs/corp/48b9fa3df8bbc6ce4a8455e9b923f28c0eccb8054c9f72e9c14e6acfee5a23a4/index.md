@@ -2,6 +2,7 @@
 layout: page
 title: ​Glashan
 description: W:3 L:27 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

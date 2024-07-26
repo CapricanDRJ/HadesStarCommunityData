@@ -2,6 +2,7 @@
 layout: page
 title: ​украина№1
 description: W:23 L:19 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

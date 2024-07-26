@@ -2,6 +2,7 @@
 layout: page
 title: ​Warriors union
 description: W:3 L:5 D:1 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

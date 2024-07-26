@@ -2,6 +2,7 @@
 layout: page
 title: ​探索舰队
 description: W:3 L:10 D:1 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

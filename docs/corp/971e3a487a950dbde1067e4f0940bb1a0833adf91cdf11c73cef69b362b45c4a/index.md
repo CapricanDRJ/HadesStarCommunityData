@@ -2,6 +2,7 @@
 layout: page
 title: ​云浪度假村↕
 description: W:2 L:6 D:1 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

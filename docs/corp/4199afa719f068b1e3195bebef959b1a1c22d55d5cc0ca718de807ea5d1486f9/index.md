@@ -2,6 +2,7 @@
 layout: page
 title: ​蓝色星系
 description: W:0 L:1 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

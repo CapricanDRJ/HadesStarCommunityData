@@ -2,6 +2,7 @@
 layout: page
 title: ​Paramedic ICU
 description: W:9 L:8 D:2 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

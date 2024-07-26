@@ -2,6 +2,7 @@
 layout: page
 title: ​REY DE REYES
 description: W:1 L:9 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

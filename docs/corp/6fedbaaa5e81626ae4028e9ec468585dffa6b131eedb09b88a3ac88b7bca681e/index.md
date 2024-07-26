@@ -2,6 +2,7 @@
 layout: page
 title: ​BattleCo
 description: W:21 L:14 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

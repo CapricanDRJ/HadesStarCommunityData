@@ -2,6 +2,7 @@
 layout: page
 title: ​Black Sun
 description: W:6 L:13 D:1 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

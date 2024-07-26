@@ -2,6 +2,7 @@
 layout: page
 title: ​ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ
 description: W:20 L:28 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

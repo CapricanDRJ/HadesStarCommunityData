@@ -2,6 +2,7 @@
 layout: page
 title: ​ RELAX CZ/SK
 description: W:52 L:20 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

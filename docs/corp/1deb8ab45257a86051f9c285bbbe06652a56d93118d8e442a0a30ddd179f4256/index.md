@@ -2,6 +2,7 @@
 layout: page
 title: ​星际联盟（中国）
 description: W:7 L:9 D:1 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

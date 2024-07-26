@@ -2,6 +2,7 @@
 layout: page
 title: ​Oficina Tuga
 description: W:9 L:25 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

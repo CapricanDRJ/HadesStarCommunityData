@@ -2,6 +2,7 @@
 layout: page
 title: ​Highland Ind. 
 description: W:10 L:10 D:1 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

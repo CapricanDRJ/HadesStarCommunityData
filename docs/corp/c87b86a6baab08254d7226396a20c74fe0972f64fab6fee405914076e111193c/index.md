@@ -2,6 +2,7 @@
 layout: page
 title: ​Titan Corp.
 description: W:22 L:17 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

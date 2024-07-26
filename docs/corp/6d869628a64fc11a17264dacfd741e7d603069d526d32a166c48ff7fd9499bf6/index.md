@@ -2,6 +2,7 @@
 layout: page
 title: ​Венерский Союз
 description: W:5 L:10 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

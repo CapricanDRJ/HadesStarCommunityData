@@ -2,6 +2,7 @@
 layout: page
 title: ​地球联合
 description: W:12 L:3 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

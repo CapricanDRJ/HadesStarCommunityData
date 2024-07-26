@@ -2,6 +2,7 @@
 layout: page
 title: ​wyvern
 description: W:2 L:3 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

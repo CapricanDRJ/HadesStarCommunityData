@@ -2,6 +2,7 @@
 layout: page
 title: ​Cowboys
 description: W:6 L:9 D:3 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

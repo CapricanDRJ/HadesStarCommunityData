@@ -2,6 +2,7 @@
 layout: page
 title: ​Свободный флот
 description: W:27 L:30 D:1 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

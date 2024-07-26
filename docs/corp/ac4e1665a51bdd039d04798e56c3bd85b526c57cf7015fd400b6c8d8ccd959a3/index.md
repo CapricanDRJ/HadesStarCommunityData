@@ -2,6 +2,7 @@
 layout: page
 title: ​63SALVADORES36
 description: W:0 L:1 D:1 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

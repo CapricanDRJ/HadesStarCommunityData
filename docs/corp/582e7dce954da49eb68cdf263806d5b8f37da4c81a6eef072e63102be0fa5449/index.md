@@ -2,6 +2,7 @@
 layout: page
 title: ​Argentina 1.0
 description: W:17 L:12 D:0 Bonus[🟢]
+excerpt: 🟢
 ---
 
 | Statistic | Value |

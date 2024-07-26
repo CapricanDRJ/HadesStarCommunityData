@@ -2,6 +2,7 @@
 layout: page
 title: ​第六星际
 description: W:1 L:0 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |

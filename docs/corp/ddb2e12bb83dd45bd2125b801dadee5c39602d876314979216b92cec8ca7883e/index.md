@@ -2,6 +2,7 @@
 layout: page
 title: ​Metal Nova
 description: W:2 L:0 D:0 Bonus[🔴]
+excerpt: 🔴
 ---
 
 | Statistic | Value |
