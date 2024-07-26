@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Utd\. Human Fed\.
-description: Hades' Star Utd\. Human Fed\. Bonus[🟢] W:23 L:20 D:1 
+title: Utd. Human Fed.
+description: Hades' Star Utd. Human Fed. Bonus[🟢] W:23 L:20 D:1 
 ---
 
 | Statistic | Value |

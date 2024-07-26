@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Fr\_Corp
-description: Hades' Star Fr\_Corp Bonus[🔴] W:0 L:1 D:0 
+title: Fr_Corp
+description: Hades' Star Fr_Corp Bonus[🔴] W:0 L:1 D:0 
 ---
 
 | Statistic | Value |

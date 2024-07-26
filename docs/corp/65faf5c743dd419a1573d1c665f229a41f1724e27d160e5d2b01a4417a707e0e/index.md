@@ -1,7 +1,7 @@
 ---
 layout: page
-title: \*СССР\*
-description: Hades' Star \*СССР\* Bonus[🟢] W:18 L:19 D:1 
+title: *СССР*
+description: Hades' Star *СССР* Bonus[🟢] W:18 L:19 D:1 
 ---
 
 | Statistic | Value |

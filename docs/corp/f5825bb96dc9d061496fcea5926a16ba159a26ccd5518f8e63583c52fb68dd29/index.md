@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Red\_Coat\_Mafia
-description: Hades' Star Red\_Coat\_Mafia Bonus[🟢] W:13 L:18 D:1 
+title: Red_Coat_Mafia
+description: Hades' Star Red_Coat_Mafia Bonus[🟢] W:13 L:18 D:1 
 ---
 
 | Statistic | Value |

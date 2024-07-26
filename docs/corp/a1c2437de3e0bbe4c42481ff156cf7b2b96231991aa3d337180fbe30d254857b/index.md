@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Rogue Hero\'s
-description: Hades' Star Rogue Hero\'s Bonus[🔴] W:1 L:0 D:0 
+title: Rogue Hero's
+description: Hades' Star Rogue Hero's Bonus[🔴] W:1 L:0 D:0 
 ---
 
 | Statistic | Value |

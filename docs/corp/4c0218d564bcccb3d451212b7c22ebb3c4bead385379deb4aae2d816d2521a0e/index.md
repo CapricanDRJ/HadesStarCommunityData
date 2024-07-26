@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  星空漫游者\-GR
-description: Hades' Star  星空漫游者\-GR Bonus[🔴] W:3 L:1 D:0 
+title:  星空漫游者-GR
+description: Hades' Star  星空漫游者-GR Bonus[🔴] W:3 L:1 D:0 
 ---
 
 | Statistic | Value |

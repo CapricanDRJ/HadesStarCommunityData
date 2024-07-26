@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 2ND\-R8 Corp\.
-description: Hades' Star 2ND\-R8 Corp\. Bonus[🟢] W:20 L:14 D:0 
+title: 2ND-R8 Corp.
+description: Hades' Star 2ND-R8 Corp. Bonus[🟢] W:20 L:14 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Farland Ind\.
-description: Hades' Star Farland Ind\. Bonus[🔴] W:7 L:19 D:1 
+title: Farland Ind.
+description: Hades' Star Farland Ind. Bonus[🔴] W:7 L:19 D:1 
 ---
 
 | Statistic | Value |

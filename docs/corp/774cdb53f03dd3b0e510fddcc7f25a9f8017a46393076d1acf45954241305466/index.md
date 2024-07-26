@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Brodudes Inc\.
-description: Hades' Star Brodudes Inc\. Bonus[🟢] W:58 L:14 D:1 
+title: Brodudes Inc.
+description: Hades' Star Brodudes Inc. Bonus[🟢] W:58 L:14 D:1 
 ---
 
 | Statistic | Value |

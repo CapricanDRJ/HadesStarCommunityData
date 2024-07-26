@@ -1,7 +1,7 @@
 ---
 layout: page
-title: The X \- Files
-description: Hades' Star The X \- Files Bonus[🔴] W:3 L:35 D:0 
+title: The X - Files
+description: Hades' Star The X - Files Bonus[🔴] W:3 L:35 D:0 
 ---
 
 | Statistic | Value |

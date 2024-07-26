@@ -1,7 +1,7 @@
 ---
 layout: page
-title: RPFD\-DNR\-RWPB
-description: Hades' Star RPFD\-DNR\-RWPB Bonus[🟢] W:2 L:3 D:0 
+title: RPFD-DNR-RWPB
+description: Hades' Star RPFD-DNR-RWPB Bonus[🟢] W:2 L:3 D:0 
 ---
 
 | Statistic | Value |

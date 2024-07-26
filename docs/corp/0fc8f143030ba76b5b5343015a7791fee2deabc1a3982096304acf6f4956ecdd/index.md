@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Karanth Corp\.
-description: Hades' Star Karanth Corp\. Bonus[🔴] W:0 L:2 D:0 
+title: Karanth Corp.
+description: Hades' Star Karanth Corp. Bonus[🔴] W:0 L:2 D:0 
 ---
 
 | Statistic | Value |

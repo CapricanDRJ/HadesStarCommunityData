@@ -1,7 +1,7 @@
 ---
 layout: page
-title: cyber\_dream
-description: Hades' Star cyber\_dream Bonus[🔴] W:3 L:7 D:0 
+title: cyber_dream
+description: Hades' Star cyber_dream Bonus[🔴] W:3 L:7 D:0 
 ---
 
 | Statistic | Value |

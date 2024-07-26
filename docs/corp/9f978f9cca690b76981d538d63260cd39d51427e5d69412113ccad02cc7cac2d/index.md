@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Soylent Corp\.
-description: Hades' Star Soylent Corp\. Bonus[🔴] W:22 L:11 D:0 
+title: Soylent Corp.
+description: Hades' Star Soylent Corp. Bonus[🔴] W:22 L:11 D:0 
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Z\. O\. V\. 
-description: Hades' Star Z\. O\. V\.  Bonus[🟢] W:18 L:4 D:1 
+title: Z. O. V. 
+description: Hades' Star Z. O. V.  Bonus[🟢] W:18 L:4 D:1 
 ---
 
 | Statistic | Value |

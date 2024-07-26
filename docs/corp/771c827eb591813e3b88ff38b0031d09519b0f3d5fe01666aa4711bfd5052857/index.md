@@ -1,7 +1,7 @@
 ---
 layout: page
-title: <a\>超越®</a\>光速℡
-description: Hades' Star <a\>超越®</a\>光速℡ Bonus[🔴] W:15 L:6 D:0 
+title: <a>超越®</a>光速℡
+description: Hades' Star <a>超越®</a>光速℡ Bonus[🔴] W:15 L:6 D:0 
 ---
 
 | Statistic | Value |
