@@ -6,14 +6,14 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1617 🔺  (1)|
+| ELO Regular | 1625 🔺  (1)|
 | ELO Competitive | 1594 🔺  (2)|
-| Total Matches | 58 |
-| Wins | 57 |
+| Total Matches | 59 |
+| Wins | 58 |
 | Losses | 1 |
 | Draws | 0 |
-| Streak | 47 |
-| Streak Record | 47 |
+| Streak | 48 |
+| Streak Record | 48 |
 
 ### Recurring Opponents
 
@@ -29,6 +29,7 @@ description: Hades' Star Corporation Whitestar Records and Stats
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/25 | 21-10 | [Lacuna X](https://ws.tsl.rocks/corp/fb10f33f3db17b99b0d227f17e7fde76ef067dc4a4bb4ae05e46c76d2e5e8ea1/) |
 | ✅ | 2024/07/23 | 17-5 | [Death Star llc\.](https://ws.tsl.rocks/corp/3dd4906939827fa7537a3e95f8d75948c06b75a98f3c4aab253ea79857d2ce81/) |
 | ✅ | 2024/07/18 | 18-10 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ✅ | 2024/07/18 | 13-1 | [Moon Catchers](https://ws.tsl.rocks/corp/0625bb885137c3824ac346b97780181e23ee84562237eb345baa364f8d7d3c43/) |
