@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ​[Blue*Nation]
+title: ​[Blue＊Nation]
 description: W:30 L:6 D:0 Bonus[🟢]
 ---
 

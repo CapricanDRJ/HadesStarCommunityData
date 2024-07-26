@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ​夢幻之星*分盟*
+title: ​夢幻之星＊分盟＊
 description: W:2 L:9 D:2 Bonus[🔴]
 ---
 
