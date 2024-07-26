@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​DarkSide
-description: Hades' Star DarkSide Bonus[🟢] W:27 L:34 D:1 
+description: W:27 L:34 D:1 Bonus[🟢]
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Dark Training
-description: Hades' Star Dark Training Bonus[🟢] W:12 L:11 D:1 
+description: W:12 L:11 D:1 Bonus[🟢]
 ---
 
 | Statistic | Value |

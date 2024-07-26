@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Слава Украине!
-description: Hades' Star Слава Украине! Bonus[🟢] W:49 L:27 D:0 
+description: W:49 L:27 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

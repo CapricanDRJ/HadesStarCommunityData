@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Warriors union
-description: Hades' Star Warriors union Bonus[🔴] W:3 L:5 D:1 
+description: W:3 L:5 D:1 Bonus[🔴]
 ---
 
 | Statistic | Value |

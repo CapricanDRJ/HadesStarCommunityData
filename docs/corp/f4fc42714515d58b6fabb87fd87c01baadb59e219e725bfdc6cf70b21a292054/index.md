@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Orphans Of Kos
-description: Hades' Star Orphans Of Kos Bonus[🔴] W:5 L:6 D:0 
+description: W:5 L:6 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Dacia
-description: Hades' Star Dacia Bonus[🔴] W:1 L:1 D:0 
+description: W:1 L:1 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

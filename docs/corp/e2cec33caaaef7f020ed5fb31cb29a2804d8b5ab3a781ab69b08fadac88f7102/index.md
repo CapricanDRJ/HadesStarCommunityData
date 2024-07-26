@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​避难所
-description: Hades' Star 避难所 Bonus[🟢] W:9 L:8 D:2 
+description: W:9 L:8 D:2 Bonus[🟢]
 ---
 
 | Statistic | Value |

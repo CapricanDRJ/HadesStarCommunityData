@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​情谊永存
-description: Hades' Star 情谊永存 Bonus[🟢] W:1 L:0 D:0 
+description: W:1 L:0 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​exirium
-description: Hades' Star exirium Bonus[🔴] W:1 L:1 D:0 
+description: W:1 L:1 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​群星璀璨
-description: Hades' Star 群星璀璨 Bonus[🔴] W:0 L:2 D:0 
+description: W:0 L:2 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

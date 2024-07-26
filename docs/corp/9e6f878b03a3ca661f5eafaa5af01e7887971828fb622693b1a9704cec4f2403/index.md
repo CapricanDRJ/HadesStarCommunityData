@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ZZZ-V
-description: Hades' Star ZZZ-V Bonus[🔴] W:3 L:1 D:0 
+description: W:3 L:1 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

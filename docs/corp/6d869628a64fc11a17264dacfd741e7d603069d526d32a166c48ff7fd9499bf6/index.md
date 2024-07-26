@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Венерский Союз
-description: Hades' Star Венерский Союз Bonus[🔴] W:5 L:10 D:0 
+description: W:5 L:10 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

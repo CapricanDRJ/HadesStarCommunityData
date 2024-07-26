@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Hand Of NOD! 
-description: Hades' Star Hand Of NOD!  Bonus[🟢] W:31 L:4 D:0 
+description: W:31 L:4 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

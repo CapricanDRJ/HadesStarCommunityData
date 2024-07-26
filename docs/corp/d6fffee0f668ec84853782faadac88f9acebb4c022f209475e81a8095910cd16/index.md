@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Welcome 欢迎
-description: Hades' Star Welcome 欢迎 Bonus[🔴] W:0 L:2 D:0 
+description: W:0 L:2 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

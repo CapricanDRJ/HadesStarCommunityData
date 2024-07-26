@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Atlas Star llc.
-description: Hades' Star Atlas Star llc. Bonus[🟢] W:29 L:7 D:0 
+description: W:29 L:7 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

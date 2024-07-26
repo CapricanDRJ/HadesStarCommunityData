@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​喵喵喵喵喵喵喵
-description: Hades' Star 喵喵喵喵喵喵喵 Bonus[🔴] W:0 L:7 D:2 
+description: W:0 L:7 D:2 Bonus[🔴]
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The Picard
-description: Hades' Star The Picard Bonus[🔴] W:0 L:17 D:0 
+description: W:0 L:17 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

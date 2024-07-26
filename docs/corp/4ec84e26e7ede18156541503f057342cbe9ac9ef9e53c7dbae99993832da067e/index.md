@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Legion Prime
-description: Hades' Star Legion Prime Bonus[🔴] W:11 L:12 D:0 
+description: W:11 L:12 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

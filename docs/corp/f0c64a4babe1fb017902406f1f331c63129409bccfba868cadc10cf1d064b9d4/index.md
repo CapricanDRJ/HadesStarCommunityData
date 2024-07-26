@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​AFronteiraFinal
-description: Hades' Star AFronteiraFinal Bonus[🟢] W:20 L:6 D:1 
+description: W:20 L:6 D:1 Bonus[🟢]
 ---
 
 | Statistic | Value |

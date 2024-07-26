@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​8 русский рейх
-description: Hades' Star 8 русский рейх Bonus[🔴] W:1 L:0 D:0 
+description: W:1 L:0 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

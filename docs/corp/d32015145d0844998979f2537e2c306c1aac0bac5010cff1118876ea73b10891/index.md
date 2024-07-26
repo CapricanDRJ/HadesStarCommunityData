@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Peasants
-description: Hades' Star Peasants Bonus[🟢] W:2 L:0 D:0 
+description: W:2 L:0 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

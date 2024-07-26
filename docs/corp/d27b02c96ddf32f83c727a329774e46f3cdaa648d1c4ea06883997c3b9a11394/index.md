@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​КВАЗАР
-description: Hades' Star КВАЗАР Bonus[🔴] W:1 L:3 D:0 
+description: W:1 L:3 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

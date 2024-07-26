@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​特拉斯丁第二共和国
-description: Hades' Star 特拉斯丁第二共和国 Bonus[🔴] W:1 L:0 D:0 
+description: W:1 L:0 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Alpha to Omega
-description: Hades' Star Alpha to Omega Bonus[🟢] W:1 L:0 D:1 
+description: W:1 L:0 D:1 Bonus[🟢]
 ---
 
 | Statistic | Value |

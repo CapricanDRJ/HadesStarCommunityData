@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Sith Empire
-description: Hades' Star Sith Empire Bonus[🟢] W:19 L:29 D:0 
+description: W:19 L:29 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

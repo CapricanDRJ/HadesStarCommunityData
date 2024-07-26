@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Quantum Cats
-description: Hades' Star Quantum Cats Bonus[🔴] W:3 L:4 D:0 
+description: W:3 L:4 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

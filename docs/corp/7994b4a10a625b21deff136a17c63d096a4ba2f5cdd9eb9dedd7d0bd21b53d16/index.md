@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​РусКорп
-description: Hades' Star РусКорп Bonus[🔴] W:11 L:9 D:0 
+description: W:11 L:9 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

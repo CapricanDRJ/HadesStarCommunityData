@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​碧霄殿
-description: Hades' Star 碧霄殿 Bonus[🟢] W:4 L:1 D:0 
+description: W:4 L:1 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

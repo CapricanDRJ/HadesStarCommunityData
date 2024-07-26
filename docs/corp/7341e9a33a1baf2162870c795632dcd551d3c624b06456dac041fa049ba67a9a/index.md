@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​11th Engineers
-description: Hades' Star 11th Engineers Bonus[🔴] W:4 L:11 D:0 
+description: W:4 L:11 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

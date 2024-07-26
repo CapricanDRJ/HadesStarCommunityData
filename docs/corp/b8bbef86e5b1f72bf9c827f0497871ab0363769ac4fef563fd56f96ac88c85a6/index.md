@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Prometheus
-description: Hades' Star Prometheus Bonus[🔴] W:9 L:11 D:0 
+description: W:9 L:11 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

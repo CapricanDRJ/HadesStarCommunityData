@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Industrial W.O
-description: Hades' Star Industrial W.O Bonus[🟢] W:20 L:22 D:1 
+description: W:20 L:22 D:1 Bonus[🟢]
 ---
 
 | Statistic | Value |

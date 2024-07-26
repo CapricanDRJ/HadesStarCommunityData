@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Hinterm Mond
-description: Hades' Star Hinterm Mond Bonus[🟢] W:44 L:28 D:0 
+description: W:44 L:28 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​VoidRunners
-description: Hades' Star VoidRunners Bonus[🟢] W:50 L:28 D:0 
+description: W:50 L:28 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

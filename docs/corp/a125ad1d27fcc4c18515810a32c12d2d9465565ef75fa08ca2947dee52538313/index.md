@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Rocket-by Baby
-description: Hades' Star Rocket-by Baby Bonus[🔴] W:0 L:6 D:0 
+description: W:0 L:6 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

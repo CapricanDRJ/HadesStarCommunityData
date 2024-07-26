@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Elite
-description: Hades' Star Elite Bonus[🔴] W:1 L:4 D:0 
+description: W:1 L:4 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

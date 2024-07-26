@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Metal Nova
-description: Hades' Star Metal Nova Bonus[🔴] W:2 L:0 D:0 
+description: W:2 L:0 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

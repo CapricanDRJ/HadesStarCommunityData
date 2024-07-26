@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Revelation
-description: Hades' Star Revelation Bonus[🔴] W:3 L:4 D:0 
+description: W:3 L:4 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

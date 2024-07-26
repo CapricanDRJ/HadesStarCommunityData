@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​GalaxyNova
-description: Hades' Star GalaxyNova Bonus[🔴] W:7 L:2 D:0 
+description: W:7 L:2 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

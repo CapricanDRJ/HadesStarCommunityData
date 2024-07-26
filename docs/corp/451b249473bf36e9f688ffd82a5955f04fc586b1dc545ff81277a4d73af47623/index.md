@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Lost Legion
-description: Hades' Star Lost Legion Bonus[🔴] W:19 L:35 D:0 
+description: W:19 L:35 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

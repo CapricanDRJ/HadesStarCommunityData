@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​украина№1
-description: Hades' Star украина№1 Bonus[🔴] W:23 L:19 D:0 
+description: W:23 L:19 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​three kitties
-description: Hades' Star three kitties Bonus[🟢] W:31 L:9 D:1 
+description: W:31 L:9 D:1 Bonus[🟢]
 ---
 
 | Statistic | Value |

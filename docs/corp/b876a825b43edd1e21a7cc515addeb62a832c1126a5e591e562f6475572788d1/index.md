@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​AlSounT
-description: Hades' Star AlSounT Bonus[🔴] W:3 L:5 D:0 
+description: W:3 L:5 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

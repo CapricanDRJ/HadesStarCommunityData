@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Majapahit
-description: Hades' Star Majapahit Bonus[🔴] W:6 L:1 D:0 
+description: W:6 L:1 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

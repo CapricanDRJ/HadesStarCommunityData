@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Eastern Front
-description: Hades' Star Eastern Front Bonus[🔴] W:29 L:34 D:1 
+description: W:29 L:34 D:1 Bonus[🔴]
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Gallaecia
-description: Hades' Star Gallaecia Bonus[🔴] W:0 L:16 D:0 
+description: W:0 L:16 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

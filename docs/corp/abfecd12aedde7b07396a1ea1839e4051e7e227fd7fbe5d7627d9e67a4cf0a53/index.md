@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​C.C Legion
-description: Hades' Star C.C Legion Bonus[🔴] W:5 L:1 D:0 
+description: W:5 L:1 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Stella☆Glow
-description: Hades' Star Stella☆Glow Bonus[🟢] W:26 L:11 D:1 
+description: W:26 L:11 D:1 Bonus[🟢]
 ---
 
 | Statistic | Value |

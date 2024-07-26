@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​koalition
-description: Hades' Star koalition Bonus[🟢] W:8 L:3 D:1 
+description: W:8 L:3 D:1 Bonus[🟢]
 ---
 
 | Statistic | Value |

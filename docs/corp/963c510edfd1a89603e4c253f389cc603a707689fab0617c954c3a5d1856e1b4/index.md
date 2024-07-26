@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Черное солнце
-description: Hades' Star Черное солнце Bonus[🔴] W:0 L:1 D:1 
+description: W:0 L:1 D:1 Bonus[🔴]
 ---
 
 | Statistic | Value |

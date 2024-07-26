@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​神仙'
-description: Hades' Star 神仙' Bonus[🔴] W:8 L:11 D:3 
+description: W:8 L:11 D:3 Bonus[🔴]
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​REY DE REYES
-description: Hades' Star REY DE REYES Bonus[🔴] W:1 L:9 D:0 
+description: W:1 L:9 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Ten Forward
-description: Hades' Star Ten Forward Bonus[🔴] W:1 L:7 D:0 
+description: W:1 L:7 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

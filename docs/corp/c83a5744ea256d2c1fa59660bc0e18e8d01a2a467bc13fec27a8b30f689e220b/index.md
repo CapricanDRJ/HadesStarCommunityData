@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​SiriusStrawMoo
-description: Hades' Star SiriusStrawMoo Bonus[🟢] W:3 L:3 D:0 
+description: W:3 L:3 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

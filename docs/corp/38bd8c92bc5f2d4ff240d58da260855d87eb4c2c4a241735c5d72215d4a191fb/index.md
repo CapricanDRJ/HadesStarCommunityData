@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Nebula
-description: Hades' Star Nebula Bonus[🔴] W:4 L:15 D:0 
+description: W:4 L:15 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

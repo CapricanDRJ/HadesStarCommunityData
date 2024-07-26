@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​云霄宫
-description: Hades' Star 云霄宫 Bonus[🔴] W:0 L:2 D:0 
+description: W:0 L:2 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

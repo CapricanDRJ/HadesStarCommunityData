@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Providence
-description: Hades' Star Providence Bonus[🟢] W:26 L:12 D:0 
+description: W:26 L:12 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

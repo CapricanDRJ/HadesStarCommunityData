@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Любители Пива
-description: Hades' Star Любители Пива Bonus[🔴] W:2 L:19 D:0 
+description: W:2 L:19 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

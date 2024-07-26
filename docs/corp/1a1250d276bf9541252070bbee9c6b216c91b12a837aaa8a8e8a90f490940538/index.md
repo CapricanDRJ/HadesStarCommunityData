@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Emergence
-description: Hades' Star Emergence Bonus[🟢] W:25 L:2 D:0 
+description: W:25 L:2 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

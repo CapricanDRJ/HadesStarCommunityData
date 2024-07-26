@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Embers Rising
-description: Hades' Star Embers Rising Bonus[🟢] W:22 L:4 D:0 
+description: W:22 L:4 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

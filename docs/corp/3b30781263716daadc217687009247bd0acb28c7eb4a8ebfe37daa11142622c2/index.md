@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​雪月永恒
-description: Hades' Star 雪月永恒 Bonus[🔴] W:6 L:1 D:0 
+description: W:6 L:1 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

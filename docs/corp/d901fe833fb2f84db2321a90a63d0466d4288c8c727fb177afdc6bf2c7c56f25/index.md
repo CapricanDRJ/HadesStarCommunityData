@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Enigma
-description: Hades' Star Enigma Bonus[🔴] W:5 L:12 D:0 
+description: W:5 L:12 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

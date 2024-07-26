@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Proteus Tech
-description: Hades' Star Proteus Tech Bonus[🔴] W:6 L:1 D:0 
+description: W:6 L:1 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

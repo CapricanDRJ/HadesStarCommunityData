@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Bounty Hunters
-description: Hades' Star Bounty Hunters Bonus[🔴] W:7 L:5 D:0 
+description: W:7 L:5 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

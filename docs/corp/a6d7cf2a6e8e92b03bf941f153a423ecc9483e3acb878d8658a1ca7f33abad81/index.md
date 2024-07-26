@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Space Oddity
-description: Hades' Star Space Oddity Bonus[🔴] W:14 L:10 D:0 
+description: W:14 L:10 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Continuance
-description: Hades' Star Continuance Bonus[🔴] W:0 L:2 D:1 
+description: W:0 L:2 D:1 Bonus[🔴]
 ---
 
 | Statistic | Value |

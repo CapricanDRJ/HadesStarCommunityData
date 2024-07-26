@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Lacuna X
-description: Hades' Star Lacuna X Bonus[🟢] W:32 L:5 D:0 
+description: W:32 L:5 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

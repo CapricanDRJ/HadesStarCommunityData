@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​墨痕白星分部
-description: Hades' Star 墨痕白星分部 Bonus[🔴] W:9 L:7 D:0 
+description: W:9 L:7 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

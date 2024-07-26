@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​探索舰队
-description: Hades' Star 探索舰队 Bonus[🟢] W:16 L:13 D:1 
+description: W:16 L:13 D:1 Bonus[🟢]
 ---
 
 | Statistic | Value |

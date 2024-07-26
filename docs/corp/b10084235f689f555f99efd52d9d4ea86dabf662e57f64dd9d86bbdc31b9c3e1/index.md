@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Hexwood
-description: Hades' Star Hexwood Bonus[🟢] W:7 L:4 D:0 
+description: W:7 L:4 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

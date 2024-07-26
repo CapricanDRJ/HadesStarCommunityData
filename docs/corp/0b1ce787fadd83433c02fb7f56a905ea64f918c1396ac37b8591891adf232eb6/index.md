@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Kelebra
-description: Hades' Star Kelebra Bonus[🔴] W:6 L:5 D:1 
+description: W:6 L:5 D:1 Bonus[🔴]
 ---
 
 | Statistic | Value |

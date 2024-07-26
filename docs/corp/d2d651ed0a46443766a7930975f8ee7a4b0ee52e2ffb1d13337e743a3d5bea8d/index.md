@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​RUS
-description: Hades' Star RUS Bonus[🟢] W:12 L:14 D:0 
+description: W:12 L:14 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

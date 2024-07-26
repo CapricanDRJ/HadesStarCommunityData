@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Ƭιтαηѕ Ф тєʀʀσƦ
-description: Hades' Star Ƭιтαηѕ Ф тєʀʀσƦ Bonus[🟢] W:18 L:10 D:0 
+description: W:18 L:10 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

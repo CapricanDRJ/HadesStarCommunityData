@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Space Force
-description: Hades' Star Space Force Bonus[🔴] W:1 L:3 D:2 
+description: W:1 L:3 D:2 Bonus[🔴]
 ---
 
 | Statistic | Value |

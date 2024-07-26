@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Out landers
-description: Hades' Star Out landers Bonus[🟢] W:10 L:6 D:0 
+description: W:10 L:6 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

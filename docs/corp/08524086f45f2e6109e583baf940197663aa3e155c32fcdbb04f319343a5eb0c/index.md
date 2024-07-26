@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Looping
-description: Hades' Star Looping Bonus[🟢] W:22 L:12 D:0 
+description: W:22 L:12 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

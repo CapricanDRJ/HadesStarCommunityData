@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​德尔塔星舰联盟
-description: Hades' Star 德尔塔星舰联盟 Bonus[🔴] W:0 L:1 D:0 
+description: W:0 L:1 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​青鸾殿
-description: Hades' Star 青鸾殿 Bonus[🟢] W:2 L:2 D:0 
+description: W:2 L:2 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

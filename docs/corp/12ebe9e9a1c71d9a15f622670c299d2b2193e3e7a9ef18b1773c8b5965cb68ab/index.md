@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The Goonies
-description: Hades' Star The Goonies Bonus[🔴] W:3 L:6 D:2 
+description: W:3 L:6 D:2 Bonus[🔴]
 ---
 
 | Statistic | Value |

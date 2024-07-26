@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Created
-description: Hades' Star Created Bonus[🔴] W:5 L:22 D:0 
+description: W:5 L:22 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

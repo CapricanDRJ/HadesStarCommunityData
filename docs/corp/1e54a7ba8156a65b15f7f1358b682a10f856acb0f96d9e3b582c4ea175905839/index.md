@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Spaceballs
-description: Hades' Star Spaceballs Bonus[🔴] W:12 L:16 D:0 
+description: W:12 L:16 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

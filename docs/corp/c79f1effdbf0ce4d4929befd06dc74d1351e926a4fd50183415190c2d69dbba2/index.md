@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Orione
-description: Hades' Star Orione Bonus[🔴] W:0 L:1 D:1 
+description: W:0 L:1 D:1 Bonus[🔴]
 ---
 
 | Statistic | Value |

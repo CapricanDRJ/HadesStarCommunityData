@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​F.E.I.
-description: Hades' Star F.E.I. Bonus[🔴] W:0 L:1 D:2 
+description: W:0 L:1 D:2 Bonus[🔴]
 ---
 
 | Statistic | Value |

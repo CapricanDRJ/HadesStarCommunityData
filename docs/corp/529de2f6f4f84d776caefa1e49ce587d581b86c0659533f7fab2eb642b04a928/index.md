@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Quin Armarda 2
-description: Hades' Star Quin Armarda 2 Bonus[🔴] W:0 L:2 D:0 
+description: W:0 L:2 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

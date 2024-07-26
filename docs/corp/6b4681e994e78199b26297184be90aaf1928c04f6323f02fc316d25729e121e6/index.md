@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​101
-description: Hades' Star 101 Bonus[🟢] W:34 L:47 D:4 
+description: W:34 L:47 D:4 Bonus[🟢]
 ---
 
 | Statistic | Value |

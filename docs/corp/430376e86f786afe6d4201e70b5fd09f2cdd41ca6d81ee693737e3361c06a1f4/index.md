@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Likapa
-description: Hades' Star Likapa Bonus[🟢] W:58 L:6 D:0 
+description: W:58 L:6 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

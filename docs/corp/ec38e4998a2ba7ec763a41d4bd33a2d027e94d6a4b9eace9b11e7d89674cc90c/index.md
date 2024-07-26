@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​StarControl
-description: Hades' Star StarControl Bonus[🟢] W:19 L:5 D:0 
+description: W:19 L:5 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

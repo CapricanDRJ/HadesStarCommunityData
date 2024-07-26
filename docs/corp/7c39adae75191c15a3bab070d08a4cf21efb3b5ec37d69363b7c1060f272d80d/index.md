@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​challenger corp
-description: Hades' Star challenger corp Bonus[🔴] W:9 L:7 D:0 
+description: W:9 L:7 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Orden Estelar 
-description: Hades' Star Orden Estelar  Bonus[🔴] W:7 L:7 D:1 
+description: W:7 L:7 D:1 Bonus[🔴]
 ---
 
 | Statistic | Value |

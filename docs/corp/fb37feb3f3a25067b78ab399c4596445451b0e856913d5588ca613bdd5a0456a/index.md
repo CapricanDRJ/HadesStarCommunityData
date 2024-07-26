@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Castellón 
-description: Hades' Star Castellón  Bonus[🔴] W:1 L:1 D:1 
+description: W:1 L:1 D:1 Bonus[🔴]
 ---
 
 | Statistic | Value |

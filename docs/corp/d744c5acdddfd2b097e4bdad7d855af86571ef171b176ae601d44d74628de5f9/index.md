@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Schnuppenfarm
-description: Hades' Star Schnuppenfarm Bonus[🔴] W:1 L:2 D:0 
+description: W:1 L:2 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

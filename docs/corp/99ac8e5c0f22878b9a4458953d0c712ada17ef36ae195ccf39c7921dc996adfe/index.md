@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ZION
-description: Hades' Star ZION Bonus[🔴] W:23 L:17 D:0 
+description: W:23 L:17 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

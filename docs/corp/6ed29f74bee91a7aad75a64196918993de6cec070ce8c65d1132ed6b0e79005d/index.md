@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​sk cz nebula
-description: Hades' Star sk cz nebula Bonus[🟢] W:11 L:3 D:0 
+description: W:11 L:3 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

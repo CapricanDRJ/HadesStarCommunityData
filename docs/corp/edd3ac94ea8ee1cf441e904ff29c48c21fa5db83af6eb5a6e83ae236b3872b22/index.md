@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Osmium Star llc
-description: Hades' Star Osmium Star llc Bonus[🟢] W:9 L:1 D:0 
+description: W:9 L:1 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

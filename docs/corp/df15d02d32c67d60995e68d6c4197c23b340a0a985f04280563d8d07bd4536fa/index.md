@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​🌪TORNADO 
-description: Hades' Star 🌪TORNADO  Bonus[🔴] W:6 L:8 D:3 
+description: W:6 L:8 D:3 Bonus[🔴]
 ---
 
 | Statistic | Value |

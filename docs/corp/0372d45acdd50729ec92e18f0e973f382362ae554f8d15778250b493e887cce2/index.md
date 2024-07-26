@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​CDG
-description: Hades' Star CDG Bonus[🔴] W:24 L:27 D:5 
+description: W:24 L:27 D:5 Bonus[🔴]
 ---
 
 | Statistic | Value |

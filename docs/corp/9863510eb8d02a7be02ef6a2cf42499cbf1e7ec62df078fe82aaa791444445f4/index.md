@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​КМБ
-description: Hades' Star КМБ Bonus[🔴] W:5 L:6 D:0 
+description: W:5 L:6 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

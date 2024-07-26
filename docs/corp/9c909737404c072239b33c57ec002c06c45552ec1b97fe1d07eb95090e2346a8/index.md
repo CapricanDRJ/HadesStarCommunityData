@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Minutemen
-description: Hades' Star Minutemen Bonus[🔴] W:8 L:12 D:0 
+description: W:8 L:12 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

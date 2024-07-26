@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Space Monkeys
-description: Hades' Star Space Monkeys Bonus[🔴] W:8 L:17 D:1 
+description: W:8 L:17 D:1 Bonus[🔴]
 ---
 
 | Statistic | Value |

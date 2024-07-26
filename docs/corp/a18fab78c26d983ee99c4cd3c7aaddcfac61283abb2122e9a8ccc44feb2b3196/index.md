@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​НИФИГАСЕБЕ
-description: Hades' Star НИФИГАСЕБЕ Bonus[🔴] W:8 L:22 D:0 
+description: W:8 L:22 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

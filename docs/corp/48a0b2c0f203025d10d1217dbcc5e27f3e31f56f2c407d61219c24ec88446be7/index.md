@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​RGW
-description: Hades' Star RGW Bonus[🟢] W:11 L:6 D:0 
+description: W:11 L:6 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

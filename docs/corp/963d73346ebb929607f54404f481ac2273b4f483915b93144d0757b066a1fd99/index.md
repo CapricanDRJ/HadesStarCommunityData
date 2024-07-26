@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Вселенские 40%
-description: Hades' Star Вселенские 40% Bonus[🔴] W:18 L:20 D:0 
+description: W:18 L:20 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

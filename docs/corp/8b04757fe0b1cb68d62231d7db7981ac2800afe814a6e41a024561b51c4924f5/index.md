@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Starborne Corp
-description: Hades' Star Starborne Corp Bonus[🔴] W:1 L:2 D:0 
+description: W:1 L:2 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

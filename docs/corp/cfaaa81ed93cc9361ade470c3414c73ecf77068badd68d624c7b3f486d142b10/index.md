@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​StellaMysterium
-description: Hades' Star StellaMysterium Bonus[🟢] W:16 L:19 D:0 
+description: W:16 L:19 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​alienigenas
-description: Hades' Star alienigenas Bonus[🟢] W:6 L:4 D:0 
+description: W:6 L:4 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

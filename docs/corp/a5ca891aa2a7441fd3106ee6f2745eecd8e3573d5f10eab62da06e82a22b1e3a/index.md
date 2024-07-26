@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​泰拉瑞亚
-description: Hades' Star 泰拉瑞亚 Bonus[🔴] W:1 L:1 D:0 
+description: W:1 L:1 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

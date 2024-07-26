@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Aurora Burning
-description: Hades' Star Aurora Burning Bonus[🔴] W:2 L:3 D:0 
+description: W:2 L:3 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The Base
-description: Hades' Star The Base Bonus[🔴] W:0 L:2 D:0 
+description: W:0 L:2 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

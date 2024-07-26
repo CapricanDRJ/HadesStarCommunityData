@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​宇宙警察
-description: Hades' Star 宇宙警察 Bonus[🔴] W:1 L:0 D:0 
+description: W:1 L:0 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

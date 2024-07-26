@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​UNSC
-description: Hades' Star UNSC Bonus[🔴] W:4 L:2 D:0 
+description: W:4 L:2 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

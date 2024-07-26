@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Неизбежный Рок
-description: Hades' Star Неизбежный Рок Bonus[🟢] W:47 L:24 D:1 
+description: W:47 L:24 D:1 Bonus[🟢]
 ---
 
 | Statistic | Value |

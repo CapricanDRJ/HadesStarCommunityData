@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Dacia Chill
-description: Hades' Star Dacia Chill Bonus[🟢] W:17 L:3 D:0 
+description: W:17 L:3 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ЧВК "Котики"
-description: Hades' Star ЧВК "Котики" Bonus[🟢] W:21 L:13 D:3 
+description: W:21 L:13 D:3 Bonus[🟢]
 ---
 
 | Statistic | Value |

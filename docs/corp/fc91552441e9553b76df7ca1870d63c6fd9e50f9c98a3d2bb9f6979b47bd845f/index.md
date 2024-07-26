@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​the heavy
-description: Hades' Star the heavy Bonus[🔴] W:10 L:9 D:0 
+description: W:10 L:9 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

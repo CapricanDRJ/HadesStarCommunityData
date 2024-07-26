@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Slovensko-Activ
-description: Hades' Star Slovensko-Activ Bonus[🔴] W:0 L:13 D:0 
+description: W:0 L:13 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

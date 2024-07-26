@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​对，进就进人少的（分团）
-description: Hades' Star 对，进就进人少的（分团） Bonus[🔴] W:3 L:4 D:0 
+description: W:3 L:4 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

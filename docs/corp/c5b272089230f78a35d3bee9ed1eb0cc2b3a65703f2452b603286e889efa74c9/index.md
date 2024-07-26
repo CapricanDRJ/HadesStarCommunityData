@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​tropa (BR)
-description: Hades' Star tropa (BR) Bonus[🔴] W:7 L:9 D:2 
+description: W:7 L:9 D:2 Bonus[🔴]
 ---
 
 | Statistic | Value |

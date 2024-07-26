@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​CCCP
-description: Hades' Star CCCP Bonus[🔴] W:1 L:6 D:2 
+description: W:1 L:6 D:2 Bonus[🔴]
 ---
 
 | Statistic | Value |

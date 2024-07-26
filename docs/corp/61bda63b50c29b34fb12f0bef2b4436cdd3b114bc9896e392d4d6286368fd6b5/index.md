@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The Hexagonix
-description: Hades' Star The Hexagonix Bonus[🔴] W:2 L:5 D:1 
+description: W:2 L:5 D:1 Bonus[🔴]
 ---
 
 | Statistic | Value |

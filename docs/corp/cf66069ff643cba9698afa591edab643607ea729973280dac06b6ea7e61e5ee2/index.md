@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Españoles
-description: Hades' Star Españoles Bonus[🟢] W:11 L:44 D:0 
+description: W:11 L:44 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

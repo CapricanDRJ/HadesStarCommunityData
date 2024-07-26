@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Lights Off 
-description: Hades' Star Lights Off  Bonus[🟢] W:23 L:8 D:0 
+description: W:23 L:8 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

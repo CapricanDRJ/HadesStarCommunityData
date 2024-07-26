@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Star Fleet
-description: Hades' Star Star Fleet Bonus[🔴] W:7 L:16 D:0 
+description: W:7 L:16 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

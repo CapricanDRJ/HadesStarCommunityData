@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Avalanche 2.0
-description: Hades' Star Avalanche 2.0 Bonus[🔴] W:2 L:4 D:0 
+description: W:2 L:4 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

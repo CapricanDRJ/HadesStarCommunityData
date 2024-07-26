@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Red Suns
-description: Hades' Star Red Suns Bonus[🔴] W:15 L:17 D:0 
+description: W:15 L:17 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

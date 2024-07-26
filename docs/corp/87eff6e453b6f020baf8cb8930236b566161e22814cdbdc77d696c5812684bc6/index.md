@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Space Pirates
-description: Hades' Star Space Pirates Bonus[🔴] W:5 L:30 D:0 
+description: W:5 L:30 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

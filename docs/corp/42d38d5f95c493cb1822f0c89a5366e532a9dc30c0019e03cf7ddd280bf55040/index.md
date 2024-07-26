@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​第四星际
-description: Hades' Star 第四星际 Bonus[🟢] W:25 L:9 D:2 
+description: W:25 L:9 D:2 Bonus[🟢]
 ---
 
 | Statistic | Value |

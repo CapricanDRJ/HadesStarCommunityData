@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ
-description: Hades' Star ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ Bonus[🔴] W:20 L:28 D:0 
+description: W:20 L:28 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

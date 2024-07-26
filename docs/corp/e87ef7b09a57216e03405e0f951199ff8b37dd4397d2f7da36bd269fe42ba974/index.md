@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Quadra FR
-description: Hades' Star Quadra FR Bonus[🔴] W:6 L:3 D:0 
+description: W:6 L:3 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

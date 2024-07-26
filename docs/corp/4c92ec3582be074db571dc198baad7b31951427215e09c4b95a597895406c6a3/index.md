@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​DYLAN
-description: Hades' Star DYLAN Bonus[🔴] W:8 L:1 D:0 
+description: W:8 L:1 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

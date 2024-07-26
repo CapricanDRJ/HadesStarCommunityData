@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Hexacropians
-description: Hades' Star Hexacropians Bonus[🟢] W:36 L:7 D:1 
+description: W:36 L:7 D:1 Bonus[🟢]
 ---
 
 | Statistic | Value |

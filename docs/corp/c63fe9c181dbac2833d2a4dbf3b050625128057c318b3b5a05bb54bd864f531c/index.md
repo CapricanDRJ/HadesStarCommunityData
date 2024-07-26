@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​华夏航队
-description: Hades' Star 华夏航队 Bonus[🔴] W:2 L:7 D:0 
+description: W:2 L:7 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

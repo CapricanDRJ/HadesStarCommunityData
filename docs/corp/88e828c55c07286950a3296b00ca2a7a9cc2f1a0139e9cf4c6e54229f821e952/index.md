@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​使命白星
-description: Hades' Star 使命白星 Bonus[🟢] W:4 L:4 D:0 
+description: W:4 L:4 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

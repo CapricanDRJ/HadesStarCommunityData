@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​WSC(no DISCORD)
-description: Hades' Star WSC(no DISCORD) Bonus[🟢] W:18 L:14 D:3 
+description: W:18 L:14 D:3 Bonus[🟢]
 ---
 
 | Statistic | Value |

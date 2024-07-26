@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​battlesquadron
-description: Hades' Star battlesquadron Bonus[🔴] W:1 L:4 D:0 
+description: W:1 L:4 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

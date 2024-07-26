@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Anti union
-description: Hades' Star Anti union Bonus[🔴] W:0 L:2 D:0 
+description: W:0 L:2 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

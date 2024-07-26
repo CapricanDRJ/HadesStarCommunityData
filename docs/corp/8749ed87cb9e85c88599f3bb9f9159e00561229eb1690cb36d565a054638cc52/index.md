@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Seila
-description: Hades' Star Seila Bonus[🔴] W:4 L:6 D:1 
+description: W:4 L:6 D:1 Bonus[🔴]
 ---
 
 | Statistic | Value |

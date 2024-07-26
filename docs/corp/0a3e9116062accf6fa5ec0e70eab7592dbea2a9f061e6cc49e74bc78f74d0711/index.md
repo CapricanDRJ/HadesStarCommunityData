@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Justice Vengers
-description: Hades' Star Justice Vengers Bonus[🟢] W:12 L:2 D:0 
+description: W:12 L:2 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

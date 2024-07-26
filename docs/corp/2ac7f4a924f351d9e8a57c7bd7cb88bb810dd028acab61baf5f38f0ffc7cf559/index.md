@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Regulus
-description: Hades' Star Regulus Bonus[🔴] W:7 L:11 D:0 
+description: W:7 L:11 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

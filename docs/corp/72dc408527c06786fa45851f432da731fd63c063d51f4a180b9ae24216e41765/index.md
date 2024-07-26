@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ToC
-description: Hades' Star ToC Bonus[🔴] W:3 L:7 D:0 
+description: W:3 L:7 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​星际集团
-description: Hades' Star 星际集团 Bonus[🟢] W:5 L:3 D:2 
+description: W:5 L:3 D:2 Bonus[🟢]
 ---
 
 | Statistic | Value |

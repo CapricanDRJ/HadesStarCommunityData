@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​phoenix clan
-description: Hades' Star phoenix clan Bonus[🔴] W:4 L:1 D:0 
+description: W:4 L:1 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

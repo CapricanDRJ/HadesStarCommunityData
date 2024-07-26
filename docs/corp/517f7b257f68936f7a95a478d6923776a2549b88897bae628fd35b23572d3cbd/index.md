@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Spacefleet
-description: Hades' Star Spacefleet Bonus[🟢] W:33 L:20 D:0 
+description: W:33 L:20 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

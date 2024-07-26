@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​italian warrior
-description: Hades' Star italian warrior Bonus[🔴] W:12 L:16 D:1 
+description: W:12 L:16 D:1 Bonus[🔴]
 ---
 
 | Statistic | Value |

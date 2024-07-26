@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Das Imperium
-description: Hades' Star Das Imperium Bonus[🔴] W:1 L:8 D:0 
+description: W:1 L:8 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

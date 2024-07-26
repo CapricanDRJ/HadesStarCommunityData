@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Alpha Galaxy
-description: Hades' Star Alpha Galaxy Bonus[🔴] W:0 L:0 D:1 
+description: W:0 L:0 D:1 Bonus[🔴]
 ---
 
 | Statistic | Value |

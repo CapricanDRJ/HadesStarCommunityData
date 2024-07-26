@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​IX Легион
-description: Hades' Star IX Легион Bonus[🟢] W:42 L:28 D:0 
+description: W:42 L:28 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

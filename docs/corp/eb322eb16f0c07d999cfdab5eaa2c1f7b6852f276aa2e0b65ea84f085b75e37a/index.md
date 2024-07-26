@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Sanctuary
-description: Hades' Star Sanctuary Bonus[🔴] W:0 L:1 D:0 
+description: W:0 L:1 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

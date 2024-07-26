@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​深空补给港
-description: Hades' Star 深空补给港 Bonus[🔴] W:2 L:12 D:0 
+description: W:2 L:12 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

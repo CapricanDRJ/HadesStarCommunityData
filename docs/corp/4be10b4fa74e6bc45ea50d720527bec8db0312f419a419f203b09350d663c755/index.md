@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​DTC
-description: Hades' Star DTC Bonus[🔴] W:14 L:42 D:0 
+description: W:14 L:42 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

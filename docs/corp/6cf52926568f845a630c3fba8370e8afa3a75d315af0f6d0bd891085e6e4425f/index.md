@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Antioch
-description: Hades' Star Antioch Bonus[🟢] W:9 L:14 D:0 
+description: W:9 L:14 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

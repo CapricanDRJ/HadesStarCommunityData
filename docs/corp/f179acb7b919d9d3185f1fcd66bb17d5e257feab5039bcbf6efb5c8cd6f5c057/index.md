@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Star Blazers
-description: Hades' Star Star Blazers Bonus[🔴] W:10 L:25 D:0 
+description: W:10 L:25 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

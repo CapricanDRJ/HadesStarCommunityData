@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Decode
-description: Hades' Star Decode Bonus[🔴] W:36 L:18 D:0 
+description: W:36 L:18 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

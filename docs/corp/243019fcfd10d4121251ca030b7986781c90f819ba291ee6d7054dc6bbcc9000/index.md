@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Españoles
-description: Hades' Star Españoles Bonus[🔴] W:3 L:4 D:2 
+description: W:3 L:4 D:2 Bonus[🔴]
 ---
 
 | Statistic | Value |

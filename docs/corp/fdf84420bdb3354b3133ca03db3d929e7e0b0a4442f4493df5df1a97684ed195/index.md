@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Северный флот 
-description: Hades' Star Северный флот  Bonus[🔴] W:2 L:0 D:0 
+description: W:2 L:0 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

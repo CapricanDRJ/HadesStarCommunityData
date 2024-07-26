@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​GDZ
-description: Hades' Star GDZ Bonus[🟢] W:31 L:26 D:0 
+description: W:31 L:26 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

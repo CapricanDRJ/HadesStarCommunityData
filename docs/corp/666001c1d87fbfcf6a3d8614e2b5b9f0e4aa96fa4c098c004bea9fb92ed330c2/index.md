@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Equinox
-description: Hades' Star Equinox Bonus[🟢] W:10 L:12 D:1 
+description: W:10 L:12 D:1 Bonus[🟢]
 ---
 
 | Statistic | Value |

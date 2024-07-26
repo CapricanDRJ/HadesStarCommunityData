@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Monster AG
-description: Hades' Star Monster AG Bonus[🔴] W:0 L:3 D:0 
+description: W:0 L:3 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

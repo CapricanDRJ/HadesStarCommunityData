@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​FėniX•
-description: Hades' Star FėniX• Bonus[🔴] W:3 L:4 D:1 
+description: W:3 L:4 D:1 Bonus[🔴]
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​星海共同体
-description: Hades' Star 星海共同体 Bonus[🔴] W:0 L:1 D:0 
+description: W:0 L:1 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​无聊不过
-description: Hades' Star 无聊不过 Bonus[🟢] W:1 L:1 D:0 
+description: W:1 L:1 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

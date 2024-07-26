@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​SYNDICATE
-description: Hades' Star SYNDICATE Bonus[🔴] W:5 L:0 D:0 
+description: W:5 L:0 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

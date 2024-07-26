@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​TAKE IT DEEP
-description: Hades' Star TAKE IT DEEP Bonus[🔴] W:0 L:1 D:0 
+description: W:0 L:1 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

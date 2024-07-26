@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Croce del Sud
-description: Hades' Star Croce del Sud Bonus[🟢] W:8 L:7 D:0 
+description: W:8 L:7 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

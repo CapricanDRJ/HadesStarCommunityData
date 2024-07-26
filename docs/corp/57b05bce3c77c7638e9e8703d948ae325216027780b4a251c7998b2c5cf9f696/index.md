@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Celtic Empire 2
-description: Hades' Star Celtic Empire 2 Bonus[🔴] W:0 L:1 D:0 
+description: W:0 L:1 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

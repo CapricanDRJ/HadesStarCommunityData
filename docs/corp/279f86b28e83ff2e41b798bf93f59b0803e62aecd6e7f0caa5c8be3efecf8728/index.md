@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The Foundation
-description: Hades' Star The Foundation Bonus[🔴] W:3 L:1 D:1 
+description: W:3 L:1 D:1 Bonus[🔴]
 ---
 
 | Statistic | Value |

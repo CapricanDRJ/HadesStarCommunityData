@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Toxic
-description: Hades' Star Toxic Bonus[🔴] W:1 L:6 D:0 
+description: W:1 L:6 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​First Squad
-description: Hades' Star First Squad Bonus[🔴] W:1 L:7 D:0 
+description: W:1 L:7 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

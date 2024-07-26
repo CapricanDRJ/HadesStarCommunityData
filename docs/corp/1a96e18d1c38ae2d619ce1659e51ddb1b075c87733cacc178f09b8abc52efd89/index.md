@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Vermilion
-description: Hades' Star Vermilion Bonus[🔴] W:1 L:5 D:1 
+description: W:1 L:5 D:1 Bonus[🔴]
 ---
 
 | Statistic | Value |

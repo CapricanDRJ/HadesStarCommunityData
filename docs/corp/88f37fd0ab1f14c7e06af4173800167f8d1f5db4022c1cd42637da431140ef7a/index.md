@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​TeddisaurusWrex
-description: Hades' Star TeddisaurusWrex Bonus[🟢] W:35 L:7 D:0 
+description: W:35 L:7 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

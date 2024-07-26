@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​русь 
-description: Hades' Star русь  Bonus[🟢] W:45 L:25 D:0 
+description: W:45 L:25 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

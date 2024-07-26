@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​mijael siuuuuuu
-description: Hades' Star mijael siuuuuuu Bonus[🔴] W:0 L:12 D:1 
+description: W:0 L:12 D:1 Bonus[🔴]
 ---
 
 | Statistic | Value |

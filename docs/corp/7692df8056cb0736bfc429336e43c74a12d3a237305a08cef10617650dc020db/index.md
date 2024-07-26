@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​世外桃源
-description: Hades' Star 世外桃源 Bonus[🟢] W:9 L:77 D:0 
+description: W:9 L:77 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

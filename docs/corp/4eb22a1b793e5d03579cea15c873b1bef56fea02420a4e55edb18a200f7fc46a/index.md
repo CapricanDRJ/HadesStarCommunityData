@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​империя тьмы
-description: Hades' Star империя тьмы Bonus[🟢] W:12 L:21 D:2 
+description: W:12 L:21 D:2 Bonus[🟢]
 ---
 
 | Statistic | Value |

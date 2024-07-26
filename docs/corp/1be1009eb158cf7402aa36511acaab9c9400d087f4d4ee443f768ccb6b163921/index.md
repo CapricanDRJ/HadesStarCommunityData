@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​红日初升，其道大光
-description: Hades' Star 红日初升，其道大光 Bonus[🟢] W:6 L:0 D:0 
+description: W:6 L:0 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

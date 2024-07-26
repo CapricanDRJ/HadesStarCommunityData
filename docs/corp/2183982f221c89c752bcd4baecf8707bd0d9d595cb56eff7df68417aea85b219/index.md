@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​宇宙生協
-description: Hades' Star 宇宙生協 Bonus[🔴] W:0 L:1 D:0 
+description: W:0 L:1 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

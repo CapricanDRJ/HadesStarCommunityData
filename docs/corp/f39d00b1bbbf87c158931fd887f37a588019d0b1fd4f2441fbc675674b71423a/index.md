@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​普罗米修斯
-description: Hades' Star 普罗米修斯 Bonus[🔴] W:1 L:8 D:0 
+description: W:1 L:8 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

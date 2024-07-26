@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ZORG IND
-description: Hades' Star ZORG IND Bonus[🟢] W:3 L:1 D:0 
+description: W:3 L:1 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

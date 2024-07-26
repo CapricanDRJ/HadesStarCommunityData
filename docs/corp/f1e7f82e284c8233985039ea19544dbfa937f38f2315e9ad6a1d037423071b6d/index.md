@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​RUFORS
-description: Hades' Star RUFORS Bonus[🟢] W:5 L:4 D:0 
+description: W:5 L:4 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

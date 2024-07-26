@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The Allegiant
-description: Hades' Star The Allegiant Bonus[🟢] W:17 L:8 D:0 
+description: W:17 L:8 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

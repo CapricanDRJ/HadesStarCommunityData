@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Interestelar
-description: Hades' Star Interestelar Bonus[🔴] W:9 L:2 D:0 
+description: W:9 L:2 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

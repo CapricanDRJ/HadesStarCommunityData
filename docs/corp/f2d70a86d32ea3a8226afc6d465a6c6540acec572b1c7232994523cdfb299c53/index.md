@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​✡天启✡
-description: Hades' Star ✡天启✡ Bonus[🔴] W:22 L:8 D:0 
+description: W:22 L:8 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

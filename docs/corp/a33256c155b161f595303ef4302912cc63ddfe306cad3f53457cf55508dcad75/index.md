@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Auscorp 
-description: Hades' Star Auscorp  Bonus[🟢] W:42 L:6 D:0 
+description: W:42 L:6 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

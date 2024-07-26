@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​共产星际
-description: Hades' Star 共产星际 Bonus[🟢] W:31 L:5 D:0 
+description: W:31 L:5 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Ws Polaris
-description: Hades' Star Ws Polaris Bonus[🔴] W:3 L:14 D:2 
+description: W:3 L:14 D:2 Bonus[🔴]
 ---
 
 | Statistic | Value |

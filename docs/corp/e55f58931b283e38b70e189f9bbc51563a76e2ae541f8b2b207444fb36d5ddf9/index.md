@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Cydonia Order
-description: Hades' Star Cydonia Order Bonus[🔴] W:2 L:10 D:0 
+description: W:2 L:10 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

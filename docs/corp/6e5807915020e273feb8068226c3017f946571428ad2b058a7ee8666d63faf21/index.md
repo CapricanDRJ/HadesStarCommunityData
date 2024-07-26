@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Sussy Coloner
-description: Hades' Star Sussy Coloner Bonus[🟢] W:10 L:40 D:1 
+description: W:10 L:40 D:1 Bonus[🟢]
 ---
 
 | Statistic | Value |

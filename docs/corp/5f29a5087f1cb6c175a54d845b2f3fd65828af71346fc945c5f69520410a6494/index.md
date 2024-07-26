@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Пабеда
-description: Hades' Star Пабеда Bonus[🔴] W:1 L:2 D:1 
+description: W:1 L:2 D:1 Bonus[🔴]
 ---
 
 | Statistic | Value |

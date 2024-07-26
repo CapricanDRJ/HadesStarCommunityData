@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​佛矿寺
-description: Hades' Star 佛矿寺 Bonus[🔴] W:8 L:35 D:0 
+description: W:8 L:35 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

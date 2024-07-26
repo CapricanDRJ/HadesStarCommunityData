@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​TheBasics
-description: Hades' Star TheBasics Bonus[🔴] W:29 L:36 D:1 
+description: W:29 L:36 D:1 Bonus[🔴]
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Axiom
-description: Hades' Star Axiom Bonus[🟢] W:45 L:24 D:0 
+description: W:45 L:24 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

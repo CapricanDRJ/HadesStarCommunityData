@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Rogue One
-description: Hades' Star Rogue One Bonus[🔴] W:28 L:20 D:1 
+description: W:28 L:20 D:1 Bonus[🔴]
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​HAL
-description: Hades' Star HAL Bonus[🔴] W:3 L:0 D:1 
+description: W:3 L:0 D:1 Bonus[🔴]
 ---
 
 | Statistic | Value |

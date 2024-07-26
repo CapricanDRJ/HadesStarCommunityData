@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​UKR Spase
-description: Hades' Star UKR Spase Bonus[🔴] W:15 L:6 D:0 
+description: W:15 L:6 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

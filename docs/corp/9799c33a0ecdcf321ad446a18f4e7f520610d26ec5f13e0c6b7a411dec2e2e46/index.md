@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Weyland Yutani 
-description: Hades' Star Weyland Yutani  Bonus[🟢] W:12 L:23 D:3 
+description: W:12 L:23 D:3 Bonus[🟢]
 ---
 
 | Statistic | Value |

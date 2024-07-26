@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Gemini Ind.
-description: Hades' Star Gemini Ind. Bonus[🟢] W:32 L:6 D:0 
+description: W:32 L:6 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

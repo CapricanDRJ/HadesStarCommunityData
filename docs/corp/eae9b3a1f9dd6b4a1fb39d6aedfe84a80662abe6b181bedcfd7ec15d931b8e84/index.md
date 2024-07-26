@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Shrimp City
-description: Hades' Star Shrimp City Bonus[🟢] W:17 L:10 D:1 
+description: W:17 L:10 D:1 Bonus[🟢]
 ---
 
 | Statistic | Value |

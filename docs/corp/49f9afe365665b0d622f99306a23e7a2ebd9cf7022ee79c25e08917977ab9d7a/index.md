@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​TECH CO
-description: Hades' Star TECH CO Bonus[🔴] W:9 L:17 D:0 
+description: W:9 L:17 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

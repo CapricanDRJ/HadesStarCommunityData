@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​CTG
-description: Hades' Star CTG Bonus[🟢] W:10 L:13 D:0 
+description: W:10 L:13 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

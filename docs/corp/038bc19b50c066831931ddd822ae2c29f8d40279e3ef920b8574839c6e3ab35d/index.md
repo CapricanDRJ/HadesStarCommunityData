@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​咕咕咕咕咕咕咕咕咕咕咕咕咕咕咕
-description: Hades' Star 咕咕咕咕咕咕咕咕咕咕咕咕咕咕咕 Bonus[🔴] W:0 L:3 D:2 
+description: W:0 L:3 D:2 Bonus[🔴]
 ---
 
 | Statistic | Value |

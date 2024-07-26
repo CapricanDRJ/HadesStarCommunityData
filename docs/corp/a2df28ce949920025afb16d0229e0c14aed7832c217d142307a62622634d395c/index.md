@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The Elite
-description: Hades' Star The Elite Bonus[🔴] W:12 L:12 D:0 
+description: W:12 L:12 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

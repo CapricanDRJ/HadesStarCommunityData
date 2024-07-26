@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​No Orbit©
-description: Hades' Star No Orbit© Bonus[🔴] W:11 L:6 D:0 
+description: W:11 L:6 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​-=Содружество=-
-description: Hades' Star -=Содружество=- Bonus[🔴] W:19 L:8 D:0 
+description: W:19 L:8 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

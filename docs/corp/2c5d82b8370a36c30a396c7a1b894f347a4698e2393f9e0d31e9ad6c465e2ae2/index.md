@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Quantum Jumpers
-description: Hades' Star Quantum Jumpers Bonus[🔴] W:4 L:5 D:1 
+description: W:4 L:5 D:1 Bonus[🔴]
 ---
 
 | Statistic | Value |

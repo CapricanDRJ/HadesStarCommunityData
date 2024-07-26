@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Jalisco México
-description: Hades' Star Jalisco México Bonus[🔴] W:11 L:26 D:5 
+description: W:11 L:26 D:5 Bonus[🔴]
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Tacitus
-description: Hades' Star Tacitus Bonus[🔴] W:1 L:0 D:0 
+description: W:1 L:0 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

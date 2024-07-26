@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The Gladiators
-description: Hades' Star The Gladiators Bonus[🔴] W:1 L:2 D:0 
+description: W:1 L:2 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

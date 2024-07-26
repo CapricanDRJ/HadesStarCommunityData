@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​L’Amalgame
-description: Hades' Star L’Amalgame Bonus[🔴] W:0 L:1 D:1 
+description: W:0 L:1 D:1 Bonus[🔴]
 ---
 
 | Statistic | Value |

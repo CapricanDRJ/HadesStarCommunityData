@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Star Wars
-description: Hades' Star Star Wars Bonus[🔴] W:9 L:8 D:0 
+description: W:9 L:8 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

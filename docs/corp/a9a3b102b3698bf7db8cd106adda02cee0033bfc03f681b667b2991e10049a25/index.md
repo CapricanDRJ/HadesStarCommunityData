@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Млечный путь
-description: Hades' Star Млечный путь Bonus[🔴] W:12 L:13 D:0 
+description: W:12 L:13 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

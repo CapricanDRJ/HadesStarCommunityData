@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Polaris Corpo
-description: Hades' Star Polaris Corpo Bonus[🔴] W:7 L:3 D:0 
+description: W:7 L:3 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

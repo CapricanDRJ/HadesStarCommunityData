@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​THE ECHAPES BEL
-description: Hades' Star THE ECHAPES BEL Bonus[🔴] W:0 L:5 D:0 
+description: W:0 L:5 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

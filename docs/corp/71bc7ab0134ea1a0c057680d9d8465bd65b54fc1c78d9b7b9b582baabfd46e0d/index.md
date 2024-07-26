@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Ender
-description: Hades' Star Ender Bonus[🟢] W:41 L:13 D:0 
+description: W:41 L:13 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

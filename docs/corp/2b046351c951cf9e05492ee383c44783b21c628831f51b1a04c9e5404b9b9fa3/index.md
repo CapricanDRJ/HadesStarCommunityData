@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Paramedic ICU
-description: Hades' Star Paramedic ICU Bonus[🔴] W:9 L:8 D:2 
+description: W:9 L:8 D:2 Bonus[🔴]
 ---
 
 | Statistic | Value |

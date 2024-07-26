@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​RACNAROK
-description: Hades' Star RACNAROK Bonus[🔴] W:7 L:2 D:2 
+description: W:7 L:2 D:2 Bonus[🔴]
 ---
 
 | Statistic | Value |

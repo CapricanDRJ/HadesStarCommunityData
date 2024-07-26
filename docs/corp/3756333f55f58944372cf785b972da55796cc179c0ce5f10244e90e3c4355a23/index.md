@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Destroyers
-description: Hades' Star Destroyers Bonus[🔴] W:16 L:16 D:0 
+description: W:16 L:16 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

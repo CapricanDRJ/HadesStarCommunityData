@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Space Anomalies
-description: Hades' Star Space Anomalies Bonus[🔴] W:1 L:0 D:0 
+description: W:1 L:0 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

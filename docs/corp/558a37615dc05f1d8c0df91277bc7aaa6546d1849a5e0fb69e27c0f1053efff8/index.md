@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​hades' star
-description: Hades' Star hades' star Bonus[🔴] W:0 L:1 D:1 
+description: W:0 L:1 D:1 Bonus[🔴]
 ---
 
 | Statistic | Value |

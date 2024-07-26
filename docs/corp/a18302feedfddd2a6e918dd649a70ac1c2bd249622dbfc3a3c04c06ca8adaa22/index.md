@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Next Hyperion
-description: Hades' Star Next Hyperion Bonus[🔴] W:2 L:6 D:0 
+description: W:2 L:6 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

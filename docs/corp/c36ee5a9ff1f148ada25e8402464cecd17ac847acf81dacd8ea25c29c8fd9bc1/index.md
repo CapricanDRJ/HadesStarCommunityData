@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​SEC
-description: Hades' Star SEC Bonus[🟢] W:6 L:0 D:0 
+description: W:6 L:0 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

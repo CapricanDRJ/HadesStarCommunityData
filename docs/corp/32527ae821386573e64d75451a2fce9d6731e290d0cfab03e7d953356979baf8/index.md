@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Hail Hydra
-description: Hades' Star Hail Hydra Bonus[🔴] W:6 L:18 D:0 
+description: W:6 L:18 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

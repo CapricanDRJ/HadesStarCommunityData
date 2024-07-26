@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Nine's Own Goal
-description: Hades' Star Nine's Own Goal Bonus[🔴] W:26 L:15 D:2 
+description: W:26 L:15 D:2 Bonus[🔴]
 ---
 
 | Statistic | Value |

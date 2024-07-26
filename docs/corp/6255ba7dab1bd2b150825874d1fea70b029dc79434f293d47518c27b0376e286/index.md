@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Space Penguins
-description: Hades' Star Space Penguins Bonus[🟢] W:36 L:10 D:0 
+description: W:36 L:10 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

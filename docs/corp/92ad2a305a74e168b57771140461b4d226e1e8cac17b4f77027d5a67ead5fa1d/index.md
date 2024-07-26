@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​星光万丈
-description: Hades' Star 星光万丈 Bonus[🟢] W:8 L:16 D:1 
+description: W:8 L:16 D:1 Bonus[🟢]
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​TROLL SQUAD
-description: Hades' Star TROLL SQUAD Bonus[🔴] W:11 L:5 D:0 
+description: W:11 L:5 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

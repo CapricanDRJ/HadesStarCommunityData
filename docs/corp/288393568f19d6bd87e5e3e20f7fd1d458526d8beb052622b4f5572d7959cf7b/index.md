@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Sentencia
-description: Hades' Star Sentencia Bonus[🔴] W:12 L:3 D:0 
+description: W:12 L:3 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

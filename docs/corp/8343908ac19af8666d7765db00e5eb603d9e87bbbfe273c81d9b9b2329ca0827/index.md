@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Inexorable
-description: Hades' Star Inexorable Bonus[🔴] W:18 L:11 D:0 
+description: W:18 L:11 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

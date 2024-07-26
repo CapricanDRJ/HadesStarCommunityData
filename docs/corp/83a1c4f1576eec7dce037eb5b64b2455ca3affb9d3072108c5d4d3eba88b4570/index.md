@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​RedStar Raiding
-description: Hades' Star RedStar Raiding Bonus[🟢] W:7 L:28 D:1 
+description: W:7 L:28 D:1 Bonus[🟢]
 ---
 
 | Statistic | Value |

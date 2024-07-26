@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​四季长春
-description: Hades' Star 四季长春 Bonus[🟢] W:14 L:22 D:5 
+description: W:14 L:22 D:5 Bonus[🟢]
 ---
 
 | Statistic | Value |

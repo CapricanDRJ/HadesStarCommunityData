@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Hun Avengers
-description: Hades' Star Hun Avengers Bonus[🔴] W:12 L:13 D:0 
+description: W:12 L:13 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Pixies
-description: Hades' Star Pixies Bonus[🟢] W:3 L:2 D:0 
+description: W:3 L:2 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

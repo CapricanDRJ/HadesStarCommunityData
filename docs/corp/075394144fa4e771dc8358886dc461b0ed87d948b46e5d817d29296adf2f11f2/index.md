@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​СНГ — РОССИЯ
-description: Hades' Star СНГ — РОССИЯ Bonus[🔴] W:4 L:8 D:3 
+description: W:4 L:8 D:3 Bonus[🔴]
 ---
 
 | Statistic | Value |

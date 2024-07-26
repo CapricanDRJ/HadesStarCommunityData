@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​星舰地球
-description: Hades' Star 星舰地球 Bonus[🔴] W:1 L:3 D:0 
+description: W:1 L:3 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

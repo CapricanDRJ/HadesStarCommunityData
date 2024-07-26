@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​三体舰队
-description: Hades' Star 三体舰队 Bonus[🔴] W:8 L:11 D:0 
+description: W:8 L:11 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

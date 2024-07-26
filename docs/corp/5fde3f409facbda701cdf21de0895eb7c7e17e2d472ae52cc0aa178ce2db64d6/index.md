@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​AKA
-description: Hades' Star AKA Bonus[🔴] W:0 L:10 D:0 
+description: W:0 L:10 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

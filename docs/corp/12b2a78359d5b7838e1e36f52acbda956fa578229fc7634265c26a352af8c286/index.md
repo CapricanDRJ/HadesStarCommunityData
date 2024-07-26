@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​SGC
-description: Hades' Star SGC Bonus[🔴] W:1 L:0 D:0 
+description: W:1 L:0 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

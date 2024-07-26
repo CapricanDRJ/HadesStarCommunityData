@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Galaxian
-description: Hades' Star Galaxian Bonus[🔴] W:18 L:9 D:0 
+description: W:18 L:9 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

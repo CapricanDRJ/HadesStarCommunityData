@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Stardust
-description: Hades' Star Stardust Bonus[🔴] W:2 L:16 D:0 
+description: W:2 L:16 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

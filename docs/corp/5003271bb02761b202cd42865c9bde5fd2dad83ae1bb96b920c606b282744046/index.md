@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Avantgarde
-description: Hades' Star Avantgarde Bonus[🔴] W:3 L:33 D:0 
+description: W:3 L:33 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

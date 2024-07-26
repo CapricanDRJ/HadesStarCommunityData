@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Galaktika corp
-description: Hades' Star Galaktika corp Bonus[🔴] W:14 L:5 D:2 
+description: W:14 L:5 D:2 Bonus[🔴]
 ---
 
 | Statistic | Value |

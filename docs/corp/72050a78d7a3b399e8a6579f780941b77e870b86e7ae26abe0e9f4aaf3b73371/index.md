@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Death Starz
-description: Hades' Star Death Starz Bonus[🔴] W:0 L:1 D:0 
+description: W:0 L:1 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

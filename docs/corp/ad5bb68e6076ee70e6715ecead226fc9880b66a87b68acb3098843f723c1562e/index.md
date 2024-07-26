@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Game of Stars
-description: Hades' Star Game of Stars Bonus[🟢] W:8 L:17 D:0 
+description: W:8 L:17 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

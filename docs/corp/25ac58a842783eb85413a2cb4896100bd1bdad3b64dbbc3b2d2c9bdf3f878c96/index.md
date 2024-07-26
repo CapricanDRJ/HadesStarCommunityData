@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​夢幻之星*分盟*
-description: Hades' Star 夢幻之星*分盟* Bonus[🔴] W:2 L:9 D:2 
+description: W:2 L:9 D:2 Bonus[🔴]
 ---
 
 | Statistic | Value |

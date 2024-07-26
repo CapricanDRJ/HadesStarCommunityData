@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Novana Gaming
-description: Hades' Star Novana Gaming Bonus[🟢] W:3 L:2 D:0 
+description: W:3 L:2 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

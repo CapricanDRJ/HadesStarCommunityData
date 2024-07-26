@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Intertwine 
-description: Hades' Star Intertwine  Bonus[🔴] W:2 L:1 D:0 
+description: W:2 L:1 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

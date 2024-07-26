@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​FAIR
-description: Hades' Star FAIR Bonus[🔴] W:0 L:1 D:1 
+description: W:0 L:1 D:1 Bonus[🔴]
 ---
 
 | Statistic | Value |

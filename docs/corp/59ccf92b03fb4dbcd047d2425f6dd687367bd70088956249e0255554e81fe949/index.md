@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Prometheus ESP
-description: Hades' Star Prometheus ESP Bonus[🔴] W:11 L:9 D:0 
+description: W:11 L:9 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

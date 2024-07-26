@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​On en a Gros ! 
-description: Hades' Star On en a Gros !  Bonus[🔴] W:23 L:24 D:0 
+description: W:23 L:24 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

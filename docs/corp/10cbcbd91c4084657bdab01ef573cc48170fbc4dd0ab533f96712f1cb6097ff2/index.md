@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Дом Датэ
-description: Hades' Star Дом Датэ Bonus[🟢] W:24 L:17 D:0 
+description: W:24 L:17 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

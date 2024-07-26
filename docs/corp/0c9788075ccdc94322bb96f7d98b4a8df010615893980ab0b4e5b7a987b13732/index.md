@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Aegis Shield
-description: Hades' Star Aegis Shield Bonus[🔴] W:2 L:7 D:0 
+description: W:2 L:7 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

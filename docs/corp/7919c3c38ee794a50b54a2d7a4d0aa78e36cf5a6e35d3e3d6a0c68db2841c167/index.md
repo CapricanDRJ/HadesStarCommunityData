@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Prospectors
-description: Hades' Star Prospectors Bonus[🔴] W:4 L:3 D:1 
+description: W:4 L:3 D:1 Bonus[🔴]
 ---
 
 | Statistic | Value |

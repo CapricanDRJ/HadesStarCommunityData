@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​BattleCo
-description: Hades' Star BattleCo Bonus[🔴] W:21 L:14 D:0 
+description: W:21 L:14 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

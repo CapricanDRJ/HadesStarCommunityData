@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​超新星联盟
-description: Hades' Star 超新星联盟 Bonus[🔴] W:5 L:6 D:0 
+description: W:5 L:6 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

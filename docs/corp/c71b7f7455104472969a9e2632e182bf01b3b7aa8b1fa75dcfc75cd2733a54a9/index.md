@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​萌新收留所
-description: Hades' Star 萌新收留所 Bonus[🔴] W:2 L:2 D:2 
+description: W:2 L:2 D:2 Bonus[🔴]
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Cowboys
-description: Hades' Star Cowboys Bonus[🔴] W:6 L:9 D:3 
+description: W:6 L:9 D:3 Bonus[🔴]
 ---
 
 | Statistic | Value |

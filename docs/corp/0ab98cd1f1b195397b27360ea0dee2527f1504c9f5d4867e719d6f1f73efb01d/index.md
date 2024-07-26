@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Grunthal Gang
-description: Hades' Star Grunthal Gang Bonus[🟢] W:34 L:23 D:0 
+description: W:34 L:23 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

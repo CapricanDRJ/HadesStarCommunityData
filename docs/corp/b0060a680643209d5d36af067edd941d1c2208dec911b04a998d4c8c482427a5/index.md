@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​神貓聯盟
-description: Hades' Star 神貓聯盟 Bonus[🔴] W:0 L:2 D:0 
+description: W:0 L:2 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

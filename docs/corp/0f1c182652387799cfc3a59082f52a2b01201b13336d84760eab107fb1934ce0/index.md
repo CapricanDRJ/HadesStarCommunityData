@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Nova Time
-description: Hades' Star Nova Time Bonus[🔴] W:13 L:1 D:0 
+description: W:13 L:1 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​АНДРОМЕДА 
-description: Hades' Star АНДРОМЕДА  Bonus[🔴] W:25 L:30 D:0 
+description: W:25 L:30 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​꿀벌왕국
-description: Hades' Star 꿀벌왕국 Bonus[🔴] W:7 L:12 D:0 
+description: W:7 L:12 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

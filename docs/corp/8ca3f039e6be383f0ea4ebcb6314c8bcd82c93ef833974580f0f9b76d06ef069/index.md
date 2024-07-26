@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​KINETIC
-description: Hades' Star KINETIC Bonus[🔴] W:8 L:0 D:0 
+description: W:8 L:0 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

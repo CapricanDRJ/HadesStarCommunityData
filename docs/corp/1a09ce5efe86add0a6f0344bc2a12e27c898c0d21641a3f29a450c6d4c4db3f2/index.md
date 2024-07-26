@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Helion Prime
-description: Hades' Star Helion Prime Bonus[🔴] W:6 L:5 D:0 
+description: W:6 L:5 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

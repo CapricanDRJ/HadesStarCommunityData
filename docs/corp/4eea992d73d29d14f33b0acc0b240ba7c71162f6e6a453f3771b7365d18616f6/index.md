@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​柯伊伯带伊甸园
-description: Hades' Star 柯伊伯带伊甸园 Bonus[🔴] W:10 L:1 D:0 
+description: W:10 L:1 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

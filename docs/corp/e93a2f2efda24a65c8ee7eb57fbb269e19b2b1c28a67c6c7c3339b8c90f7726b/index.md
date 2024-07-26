@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Alpaca Haven
-description: Hades' Star Alpaca Haven Bonus[🔴] W:18 L:11 D:0 
+description: W:18 L:11 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

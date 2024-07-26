@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Galactic Empire
-description: Hades' Star Galactic Empire Bonus[🟢] W:21 L:12 D:0 
+description: W:21 L:12 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

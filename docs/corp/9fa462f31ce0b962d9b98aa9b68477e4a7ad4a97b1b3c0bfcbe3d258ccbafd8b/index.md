@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​新兴帝国
-description: Hades' Star 新兴帝国 Bonus[🔴] W:3 L:4 D:0 
+description: W:3 L:4 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

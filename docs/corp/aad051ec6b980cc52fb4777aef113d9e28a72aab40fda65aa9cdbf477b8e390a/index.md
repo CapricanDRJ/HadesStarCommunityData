@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​West Worlders
-description: Hades' Star West Worlders Bonus[🟢] W:2 L:10 D:0 
+description: W:2 L:10 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

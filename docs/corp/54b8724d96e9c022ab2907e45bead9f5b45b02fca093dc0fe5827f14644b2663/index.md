@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​IMPERIAL ARMADA
-description: Hades' Star IMPERIAL ARMADA Bonus[🟢] W:21 L:1 D:0 
+description: W:21 L:1 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

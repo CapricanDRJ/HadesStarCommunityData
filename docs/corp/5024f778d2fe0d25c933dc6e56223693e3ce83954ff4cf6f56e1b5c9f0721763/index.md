@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​中国航天科技集团（CASC）
-description: Hades' Star 中国航天科技集团（CASC） Bonus[🔴] W:0 L:2 D:0 
+description: W:0 L:2 D:0 Bonus[🔴]
 ---
 
 | Statistic | Value |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Death Star llc.
-description: Hades' Star Death Star llc. Bonus[🟢] W:40 L:8 D:1 
+description: W:40 L:8 D:1 Bonus[🟢]
 ---
 
 | Statistic | Value |

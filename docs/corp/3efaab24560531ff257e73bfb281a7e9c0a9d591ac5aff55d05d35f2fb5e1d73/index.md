@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​CIS
-description: Hades' Star CIS Bonus[🟢] W:30 L:4 D:0 
+description: W:30 L:4 D:0 Bonus[🟢]
 ---
 
 | Statistic | Value |

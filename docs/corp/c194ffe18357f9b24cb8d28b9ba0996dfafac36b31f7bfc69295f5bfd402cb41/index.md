@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​UNNP
-description: Hades' Star UNNP Bonus[🔴] W:0 L:2 D:1 
+description: W:0 L:2 D:1 Bonus[🔴]
 ---
 
 | Statistic | Value |
