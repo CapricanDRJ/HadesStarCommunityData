@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Ark Summit
-description: W:10 L:0 D:0 Bonus[🟢]
+description: W:10 L:0 D:0 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1326 🔺  (85)|

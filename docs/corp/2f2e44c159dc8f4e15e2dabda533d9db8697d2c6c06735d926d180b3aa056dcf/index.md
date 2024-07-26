@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Angel Dragon
-description: W:12 L:8 D:1 Bonus[🔴]
+description: W:12 L:8 D:1 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1264 🔻  (182)|

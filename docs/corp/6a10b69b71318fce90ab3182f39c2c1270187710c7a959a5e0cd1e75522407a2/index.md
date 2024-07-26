@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Imperium of man
-description: W:0 L:1 D:0 Bonus[🔴]
+description: W:0 L:1 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (645)|

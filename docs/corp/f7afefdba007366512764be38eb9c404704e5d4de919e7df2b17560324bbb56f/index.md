@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​The Seperatists
-description: W:15 L:19 D:0 Bonus[🔴]
+description: W:15 L:19 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (629)|

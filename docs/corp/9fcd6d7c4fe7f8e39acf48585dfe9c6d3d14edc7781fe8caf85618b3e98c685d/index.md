@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Sich.ua
-description: W:19 L:13 D:1 Bonus[🟢]
+description: W:19 L:13 D:1 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1259 🔺  (195)|

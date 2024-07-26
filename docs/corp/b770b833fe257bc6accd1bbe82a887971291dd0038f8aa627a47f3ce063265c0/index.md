@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​ЧВК "Котики"
-description: W:21 L:13 D:3 Bonus[🟢]
+description: W:21 L:13 D:3 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1312 🔺  (104)|

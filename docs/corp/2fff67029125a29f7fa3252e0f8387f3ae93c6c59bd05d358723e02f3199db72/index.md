@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Oficina Tuga
-description: W:9 L:25 D:0 Bonus[🔴]
+description: W:9 L:25 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1070 🔻  (1130)|

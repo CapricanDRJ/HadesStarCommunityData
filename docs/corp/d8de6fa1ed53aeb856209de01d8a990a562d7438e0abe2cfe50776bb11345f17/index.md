@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​拆迁大队
-description: W:15 L:30 D:3 Bonus[🔴]
+description: W:15 L:30 D:3 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1087 🔻  (1113)|

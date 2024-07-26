@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​SUN OF 3LANDS
-description: W:8 L:2 D:1 Bonus[🟢]
+description: W:8 L:2 D:1 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1277 🔺  (159)|

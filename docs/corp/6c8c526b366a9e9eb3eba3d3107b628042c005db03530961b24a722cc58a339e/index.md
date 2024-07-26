@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Duchy Arrakis
-description: W:17 L:10 D:0 Bonus[🟢]
+description: W:17 L:10 D:0 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1255 🔻  (205)|

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Minutemen
-description: W:8 L:12 D:0 Bonus[🔴]
+description: W:8 L:12 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1173 🔻  (814)|

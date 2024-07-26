@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Corp. Estelar
-description: W:10 L:8 D:0 Bonus[🟢]
+description: W:10 L:8 D:0 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1271 🔺  (169)|

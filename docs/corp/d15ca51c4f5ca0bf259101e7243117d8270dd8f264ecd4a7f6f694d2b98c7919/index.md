@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​WSC(no DISCORD)
-description: W:18 L:14 D:3 Bonus[🟢]
+description: W:18 L:14 D:3 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1267 🔺  (178)|

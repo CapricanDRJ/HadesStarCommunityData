@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Zeon
-description: W:0 L:4 D:0 Bonus[🔴]
+description: W:0 L:4 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1152 🔻  (980)|

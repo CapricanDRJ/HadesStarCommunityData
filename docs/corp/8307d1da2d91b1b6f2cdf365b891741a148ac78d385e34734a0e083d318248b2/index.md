@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​FėniX•
-description: W:3 L:4 D:1 Bonus[🔴]
+description: W:3 L:4 D:1 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1188 🔻  (550)|

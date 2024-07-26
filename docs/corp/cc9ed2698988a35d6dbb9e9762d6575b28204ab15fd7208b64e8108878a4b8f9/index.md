@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Interestelar
-description: W:9 L:2 D:0 Bonus[🔴]
+description: W:9 L:2 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1304 🔻  (118)|

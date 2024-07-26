@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Schnuppenfarm
-description: W:1 L:2 D:0 Bonus[🔴]
+description: W:1 L:2 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔻  (705)|

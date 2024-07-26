@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Czech Legion
-description: W:4 L:1 D:0 Bonus[🟢]
+description: W:4 L:1 D:0 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1241 🔺  (236)|

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​火洋之心
-description: W:4 L:1 D:2 Bonus[🔴]
+description: W:4 L:1 D:2 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1237 🔻  (252)|

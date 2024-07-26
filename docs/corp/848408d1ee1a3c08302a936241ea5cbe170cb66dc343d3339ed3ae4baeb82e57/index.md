@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Decode
-description: W:36 L:18 D:0 Bonus[🔴]
+description: W:36 L:18 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1255 🔻  (206)|

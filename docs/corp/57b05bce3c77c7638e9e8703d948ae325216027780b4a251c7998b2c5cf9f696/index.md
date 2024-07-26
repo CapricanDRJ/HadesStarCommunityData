@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Celtic Empire 2
-description: W:0 L:1 D:0 Bonus[🔴]
+description: W:0 L:1 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1190 🔻  (523)|

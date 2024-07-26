@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Red Star Corp.
-description: W:6 L:14 D:0 Bonus[🔴]
+description: W:6 L:14 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1090 🔺  (1110)|

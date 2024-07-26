@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Quantum Jumpers
-description: W:4 L:5 D:1 Bonus[🔴]
+description: W:4 L:5 D:1 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔺  (560)|

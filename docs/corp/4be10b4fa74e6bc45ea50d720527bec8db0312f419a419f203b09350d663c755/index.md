@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​DTC
-description: W:14 L:42 D:0 Bonus[🔴]
+description: W:14 L:42 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1022 🔻  (1159)|

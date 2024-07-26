@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Harpias
-description: W:0 L:0 D:2 Bonus[🔴]
+description: W:0 L:0 D:2 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1200 🔻  (449)|

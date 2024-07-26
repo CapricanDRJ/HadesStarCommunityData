@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​华夏航队
-description: W:2 L:7 D:0 Bonus[🔴]
+description: W:2 L:7 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1141 🔻  (1015)|

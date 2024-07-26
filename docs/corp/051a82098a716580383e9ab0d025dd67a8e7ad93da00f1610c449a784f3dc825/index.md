@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​ RELAX CZ/SK
-description: W:53 L:20 D:0 Bonus[🟢]
+description: W:53 L:20 D:0 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1392 🔺  (41)|

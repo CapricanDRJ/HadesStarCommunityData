@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​SILVER TERRA
-description: W:9 L:8 D:0 Bonus[🟢]
+description: W:9 L:8 D:0 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1232 🔻  (268)|

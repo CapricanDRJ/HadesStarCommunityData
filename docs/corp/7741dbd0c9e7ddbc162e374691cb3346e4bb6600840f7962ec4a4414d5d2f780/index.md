@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Tuatha De Danan
-description: W:44 L:12 D:0 Bonus[🟢]
+description: W:44 L:12 D:0 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1402 🔺  (34)|

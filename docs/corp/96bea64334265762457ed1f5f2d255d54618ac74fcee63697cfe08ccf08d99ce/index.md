@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​FreeSpcAlliance
-description: W:3 L:3 D:0 Bonus[🔴]
+description: W:3 L:3 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1197 🔻  (474)|

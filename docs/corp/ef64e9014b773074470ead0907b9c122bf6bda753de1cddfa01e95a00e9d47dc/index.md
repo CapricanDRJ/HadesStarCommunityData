@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Crazy Elite
-description: W:26 L:39 D:0 Bonus[🔴]
+description: W:26 L:39 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1160 🔻  (937)|

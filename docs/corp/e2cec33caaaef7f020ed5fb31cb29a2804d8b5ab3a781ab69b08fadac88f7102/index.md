@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​避难所
-description: W:9 L:8 D:2 Bonus[🟢]
+description: W:9 L:8 D:2 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1225 🔺  (303)|

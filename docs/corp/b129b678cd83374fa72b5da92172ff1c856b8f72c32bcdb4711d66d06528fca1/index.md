@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​1st/Ave/Junkie2
-description: W:16 L:20 D:1 Bonus[🔴]
+description: W:16 L:20 D:1 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1176 🔻  (776)|

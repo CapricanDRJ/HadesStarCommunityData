@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​New Horizons
-description: W:6 L:6 D:0 Bonus[🔴]
+description: W:6 L:6 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1205 🔻  (407)|

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Dark Sun
-description: W:6 L:11 D:2 Bonus[🔴]
+description: W:6 L:11 D:2 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1137 🔻  (1029)|

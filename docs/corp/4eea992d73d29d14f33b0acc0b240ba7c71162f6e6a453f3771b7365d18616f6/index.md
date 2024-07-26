@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​柯伊伯带伊甸园
-description: W:10 L:1 D:0 Bonus[🔴]
+description: W:10 L:1 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1312 🔻  (103)|

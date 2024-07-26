@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​ 星空漫游者-GR
-description: W:3 L:1 D:0 Bonus[🔴]
+description: W:3 L:1 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1234 🔺  (262)|

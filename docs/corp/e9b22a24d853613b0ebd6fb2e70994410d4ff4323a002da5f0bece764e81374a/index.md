@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Revelation
-description: W:3 L:4 D:0 Bonus[🔴]
+description: W:3 L:4 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1189 🔻  (540)|

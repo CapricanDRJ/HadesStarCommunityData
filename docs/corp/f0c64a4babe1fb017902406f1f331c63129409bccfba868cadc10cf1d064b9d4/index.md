@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​AFronteiraFinal
-description: W:20 L:6 D:1 Bonus[🟢]
+description: W:20 L:6 D:1 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1384 🔺  (45)|

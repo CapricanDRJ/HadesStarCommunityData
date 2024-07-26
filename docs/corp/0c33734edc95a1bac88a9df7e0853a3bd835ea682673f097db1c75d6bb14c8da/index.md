@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​IMPERIAL ARMADA
-description: W:29 L:21 D:2 Bonus[🟢]
+description: W:29 L:21 D:2 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1263 🔺  (184)|

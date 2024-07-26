@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​リリース
-description: W:33 L:10 D:0 Bonus[🟢]
+description: W:33 L:10 D:0 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1381 🔺  (47)|

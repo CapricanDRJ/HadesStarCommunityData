@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​星际联盟（中国）
-description: W:7 L:9 D:1 Bonus[🟢]
+description: W:7 L:9 D:1 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1195 🔻  (487)|

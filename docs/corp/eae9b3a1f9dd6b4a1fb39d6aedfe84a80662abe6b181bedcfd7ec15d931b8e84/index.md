@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Shrimp City
-description: W:17 L:10 D:1 Bonus[🟢]
+description: W:17 L:10 D:1 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1283 🔻  (151)|

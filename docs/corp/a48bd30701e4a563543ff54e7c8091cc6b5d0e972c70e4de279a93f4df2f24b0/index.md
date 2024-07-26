@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Venture
-description: W:8 L:22 D:4 Bonus[🔴]
+description: W:8 L:22 D:4 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1087 🔻  (1114)|

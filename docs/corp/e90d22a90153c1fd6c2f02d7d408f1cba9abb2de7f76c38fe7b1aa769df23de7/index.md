@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Killer Shadow
-description: W:2 L:10 D:0 Bonus[🔴]
+description: W:2 L:10 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1109 🔻  (1089)|

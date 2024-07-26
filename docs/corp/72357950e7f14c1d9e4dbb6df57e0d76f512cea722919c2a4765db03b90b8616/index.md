@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​cyber_dream
-description: W:3 L:7 D:0 Bonus[🔴]
+description: W:3 L:7 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1154 🔻  (969)|

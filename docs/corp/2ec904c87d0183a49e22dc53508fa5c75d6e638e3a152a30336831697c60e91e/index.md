@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Axioma
-description: W:10 L:26 D:1 Bonus[🔴]
+description: W:10 L:26 D:1 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1016 🔻  (1163)|

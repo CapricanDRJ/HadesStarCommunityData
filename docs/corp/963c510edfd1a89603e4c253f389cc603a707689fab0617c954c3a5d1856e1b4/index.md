@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Черное солнце
-description: W:0 L:1 D:1 Bonus[🔴]
+description: W:0 L:1 D:1 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (588)|

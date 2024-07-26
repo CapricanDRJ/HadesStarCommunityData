@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Gallaecia
-description: W:0 L:16 D:0 Bonus[🔴]
+description: W:0 L:16 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1035 🔻  (1151)|

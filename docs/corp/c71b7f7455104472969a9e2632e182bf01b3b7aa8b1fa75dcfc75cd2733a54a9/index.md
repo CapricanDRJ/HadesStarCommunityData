@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​萌新收留所
-description: W:2 L:2 D:2 Bonus[🔴]
+description: W:2 L:2 D:2 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1199 🔻  (459)|

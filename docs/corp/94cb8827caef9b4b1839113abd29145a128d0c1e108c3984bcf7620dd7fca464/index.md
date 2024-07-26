@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Outland Ind.
-description: W:30 L:11 D:0 Bonus[🟢]
+description: W:30 L:11 D:0 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1388 🔺  (43)|

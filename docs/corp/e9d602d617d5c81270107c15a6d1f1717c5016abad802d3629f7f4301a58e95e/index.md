@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​元素联邦
-description: W:24 L:13 D:0 Bonus[🟢]
+description: W:24 L:13 D:0 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1373 🔺  (49)|

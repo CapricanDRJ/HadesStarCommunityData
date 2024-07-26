@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Эдем
-description: W:3 L:6 D:0 Bonus[🔴]
+description: W:3 L:6 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1163 🔻  (921)|

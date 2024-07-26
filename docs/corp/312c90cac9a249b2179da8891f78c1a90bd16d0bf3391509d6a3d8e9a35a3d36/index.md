@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​United Stars 
-description: W:23 L:15 D:1 Bonus[🟢]
+description: W:23 L:15 D:1 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1260 🔺  (191)|

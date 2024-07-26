@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Hinterm Mond
-description: W:45 L:28 D:0 Bonus[🟢]
+description: W:45 L:28 D:0 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1311 🔺  (106)|

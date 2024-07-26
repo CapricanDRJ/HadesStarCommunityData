@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​lost souls
-description: W:25 L:23 D:1 Bonus[🟢]
+description: W:25 L:23 D:1 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1232 🔻  (269)|

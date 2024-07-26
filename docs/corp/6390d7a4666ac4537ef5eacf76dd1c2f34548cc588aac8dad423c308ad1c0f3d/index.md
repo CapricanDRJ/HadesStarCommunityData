@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​水晶星际集团
-description: W:5 L:21 D:0 Bonus[🔴]
+description: W:5 L:21 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1061 🔻  (1140)|

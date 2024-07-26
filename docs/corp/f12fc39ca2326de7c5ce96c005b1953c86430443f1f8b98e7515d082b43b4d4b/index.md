@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Providence
-description: W:26 L:12 D:0 Bonus[🟢]
+description: W:26 L:12 D:0 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1321 🔺  (93)|

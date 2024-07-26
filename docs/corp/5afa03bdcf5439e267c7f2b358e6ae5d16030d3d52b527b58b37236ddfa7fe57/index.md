@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​行星联合军
-description: W:7 L:9 D:0 Bonus[🟢]
+description: W:7 L:9 D:0 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1169 🔺  (883)|

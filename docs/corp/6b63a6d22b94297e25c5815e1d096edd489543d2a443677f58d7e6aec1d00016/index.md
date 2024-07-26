@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​NASA Air base
-description: W:0 L:8 D:2 Bonus[🔴]
+description: W:0 L:8 D:2 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1097 🔻  (1098)|

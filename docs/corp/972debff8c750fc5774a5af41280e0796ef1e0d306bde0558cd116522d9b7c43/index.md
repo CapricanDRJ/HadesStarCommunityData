@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​You Win
-description: W:1 L:6 D:0 Bonus[🔴]
+description: W:1 L:6 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1138 🔻  (1024)|

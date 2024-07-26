@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Повстанцы Хаоса
-description: W:21 L:4 D:0 Bonus[🟢]
+description: W:21 L:4 D:0 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1403 🔺  (33)|

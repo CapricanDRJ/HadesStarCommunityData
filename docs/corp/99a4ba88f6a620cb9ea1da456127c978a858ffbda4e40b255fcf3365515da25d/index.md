@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Industrial W.O
-description: W:20 L:22 D:1 Bonus[🟢]
+description: W:20 L:22 D:1 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1226 🔺  (298)|

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Starlancer
-description: W:0 L:18 D:0 Bonus[🔴]
+description: W:0 L:18 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1016 🔻  (1162)|

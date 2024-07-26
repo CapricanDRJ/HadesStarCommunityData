@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Odessa
-description: W:5 L:12 D:0 Bonus[🔴]
+description: W:5 L:12 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1135 🔻  (1033)|

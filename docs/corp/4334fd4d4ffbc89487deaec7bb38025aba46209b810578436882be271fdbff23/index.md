@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​荣耀之星
-description: W:6 L:7 D:2 Bonus[🟢]
+description: W:6 L:7 D:2 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔺  (570)|

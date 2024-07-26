@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Grunthal Gang
-description: W:34 L:23 D:0 Bonus[🟢]
+description: W:34 L:23 D:0 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1329 🔻  (81)|

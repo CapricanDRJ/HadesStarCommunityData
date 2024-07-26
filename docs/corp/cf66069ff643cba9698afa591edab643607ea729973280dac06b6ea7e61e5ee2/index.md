@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Españoles
-description: W:11 L:44 D:0 Bonus[🟢]
+description: W:11 L:44 D:0 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 985 🔻  (1172)|

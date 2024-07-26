@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​the heavy
-description: W:10 L:9 D:0 Bonus[🔴]
+description: W:10 L:9 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1225 🔻  (300)|

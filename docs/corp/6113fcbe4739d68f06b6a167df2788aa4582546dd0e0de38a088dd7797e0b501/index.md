@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​深空补给港
-description: W:2 L:12 D:0 Bonus[🔴]
+description: W:2 L:12 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1107 🔻  (1091)|

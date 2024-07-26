@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Ironbear Legion
-description: W:14 L:25 D:0 Bonus[🔴]
+description: W:14 L:25 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1123 🔻  (1062)|

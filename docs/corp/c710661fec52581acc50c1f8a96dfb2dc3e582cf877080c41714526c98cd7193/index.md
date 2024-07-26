@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Eternal empire 
-description: W:7 L:15 D:0 Bonus[🔴]
+description: W:7 L:15 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1102 🔻  (1096)|

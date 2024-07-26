@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Лунный Феникс
-description: W:34 L:16 D:0 Bonus[🔴]
+description: W:34 L:16 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1390 🔻  (42)|

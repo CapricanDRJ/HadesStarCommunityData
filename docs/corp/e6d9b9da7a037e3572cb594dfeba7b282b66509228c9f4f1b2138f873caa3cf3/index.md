@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​萌新港(大佬港)
-description: W:18 L:26 D:0 Bonus[🟢]
+description: W:18 L:26 D:0 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1171 🔻  (853)|

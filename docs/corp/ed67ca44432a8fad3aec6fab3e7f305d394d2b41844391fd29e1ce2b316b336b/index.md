@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Lacuna Academy
-description: W:15 L:2 D:0 Bonus[🔴]
+description: W:15 L:2 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1345 🔺  (66)|

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Duchy Kalladan
-description: W:1 L:1 D:0 Bonus[🔴]
+description: W:1 L:1 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1203 🔻  (417)|

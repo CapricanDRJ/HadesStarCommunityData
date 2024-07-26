@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Regulus
-description: W:7 L:11 D:0 Bonus[🔴]
+description: W:7 L:11 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1151 🔻  (983)|

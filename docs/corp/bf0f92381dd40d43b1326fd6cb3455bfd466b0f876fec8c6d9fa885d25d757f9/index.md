@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Space Monkeys
-description: W:8 L:17 D:1 Bonus[🔴]
+description: W:8 L:17 D:1 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1133 🔺  (1039)|

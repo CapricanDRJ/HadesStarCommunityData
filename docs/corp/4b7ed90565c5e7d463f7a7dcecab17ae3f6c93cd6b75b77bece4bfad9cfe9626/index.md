@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​ITA
-description: W:14 L:18 D:0 Bonus[🔴]
+description: W:14 L:18 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1163 🔻  (918)|

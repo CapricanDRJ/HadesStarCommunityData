@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Looping
-description: W:22 L:12 D:0 Bonus[🟢]
+description: W:22 L:12 D:0 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1309 🔺  (112)|

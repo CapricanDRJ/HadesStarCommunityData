@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​The X - Files
-description: W:3 L:35 D:0 Bonus[🔴]
+description: W:3 L:35 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 977 🔻  (1174)|

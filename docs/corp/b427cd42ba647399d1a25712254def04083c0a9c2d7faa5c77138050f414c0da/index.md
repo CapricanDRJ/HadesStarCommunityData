@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​墨痕白星分部
-description: W:9 L:7 D:0 Bonus[🔴]
+description: W:9 L:7 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1213 🔻  (376)|

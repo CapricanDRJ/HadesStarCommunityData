@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​黑色长城
-description: W:2 L:8 D:1 Bonus[🔴]
+description: W:2 L:8 D:1 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1124 🔻  (1055)|

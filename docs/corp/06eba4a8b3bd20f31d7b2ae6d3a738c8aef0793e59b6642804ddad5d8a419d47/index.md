@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Time Lords
-description: W:0 L:1 D:0 Bonus[🔴]
+description: W:0 L:1 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1183 🔻  (737)|

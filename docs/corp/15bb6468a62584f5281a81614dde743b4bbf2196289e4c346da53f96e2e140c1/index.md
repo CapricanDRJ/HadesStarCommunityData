@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Слава Украине!
-description: W:49 L:27 D:0 Bonus[🟢]
+description: W:49 L:27 D:0 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1342 🔻  (72)|

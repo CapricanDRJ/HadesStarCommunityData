@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Cowboys
-description: W:6 L:9 D:3 Bonus[🔴]
+description: W:6 L:9 D:3 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1163 🔻  (920)|

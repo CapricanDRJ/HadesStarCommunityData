@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​公共星际集团
-description: W:6 L:19 D:2 Bonus[🟢]
+description: W:6 L:19 D:2 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1064 🔻  (1136)|

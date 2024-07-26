@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​仙女座星雲
-description: W:48 L:36 D:2 Bonus[🟢]
+description: W:48 L:36 D:2 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1294 🔺  (131)|

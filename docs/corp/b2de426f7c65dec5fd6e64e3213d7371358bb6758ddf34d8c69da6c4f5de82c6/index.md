@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Hun Generals
-description: W:8 L:30 D:0 Bonus[🟢]
+description: W:8 L:30 D:0 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1011 🔻  (1166)|

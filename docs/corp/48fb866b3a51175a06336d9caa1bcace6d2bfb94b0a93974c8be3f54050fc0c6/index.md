@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Свободный флот
-description: W:27 L:30 D:1 Bonus[🔴]
+description: W:27 L:30 D:1 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1135 🔻  (1035)|

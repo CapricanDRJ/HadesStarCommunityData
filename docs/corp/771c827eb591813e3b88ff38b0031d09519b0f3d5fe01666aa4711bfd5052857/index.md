@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​<a>超越®</a>光速℡
-description: W:15 L:6 D:0 Bonus[🔴]
+description: W:15 L:6 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1284 🔻  (147)|

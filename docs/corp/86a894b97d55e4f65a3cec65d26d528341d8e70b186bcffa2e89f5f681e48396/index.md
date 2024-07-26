@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Stella☆Glow
-description: W:26 L:11 D:1 Bonus[🟢]
+description: W:26 L:11 D:1 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1320 🔻  (94)|

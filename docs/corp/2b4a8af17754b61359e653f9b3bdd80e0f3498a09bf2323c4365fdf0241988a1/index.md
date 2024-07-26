@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​对，进就进人少的
-description: W:34 L:27 D:2 Bonus[🟢]
+description: W:34 L:27 D:2 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1328 🔺  (82)|

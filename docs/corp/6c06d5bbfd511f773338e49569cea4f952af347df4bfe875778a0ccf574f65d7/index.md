@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Dansk
-description: W:0 L:4 D:0 Bonus[🔴]
+description: W:0 L:4 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1145 🔻  (1005)|

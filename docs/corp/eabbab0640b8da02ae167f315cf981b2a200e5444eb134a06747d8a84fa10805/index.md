@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​SQPT
-description: W:29 L:33 D:0 Bonus[🔴]
+description: W:29 L:33 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔻  (723)|

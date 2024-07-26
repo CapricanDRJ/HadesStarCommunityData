@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Ender
-description: W:41 L:13 D:0 Bonus[🟢]
+description: W:41 L:13 D:0 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1465 🔺  (13)|

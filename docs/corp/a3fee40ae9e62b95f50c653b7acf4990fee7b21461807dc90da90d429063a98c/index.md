@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​情谊永存
-description: W:1 L:0 D:0 Bonus[🟢]
+description: W:1 L:0 D:0 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1216 🔺  (339)|

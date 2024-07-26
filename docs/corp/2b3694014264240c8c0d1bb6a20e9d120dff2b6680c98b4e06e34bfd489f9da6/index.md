@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Alpha to Omega
-description: W:1 L:0 D:1 Bonus[🟢]
+description: W:1 L:0 D:1 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1206 🔺  (402)|

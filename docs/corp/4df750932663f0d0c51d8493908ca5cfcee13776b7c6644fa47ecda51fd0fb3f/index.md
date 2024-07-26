@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​ITA 2.0
-description: W:5 L:2 D:0 Bonus[🔴]
+description: W:5 L:2 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1240 🔻  (239)|

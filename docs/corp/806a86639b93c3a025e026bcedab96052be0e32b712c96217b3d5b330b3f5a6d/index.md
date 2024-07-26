@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​OntarioDestiny
-description: W:9 L:19 D:0 Bonus[🔴]
+description: W:9 L:19 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1115 🔻  (1076)|

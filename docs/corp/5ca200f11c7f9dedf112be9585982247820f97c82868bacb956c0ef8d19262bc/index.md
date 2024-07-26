@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Empire of Light
-description: W:7 L:11 D:0 Bonus[🔴]
+description: W:7 L:11 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1162 🔻  (924)|

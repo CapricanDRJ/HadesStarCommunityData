@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​暮光之城
-description: W:1 L:3 D:0 Bonus[🔴]
+description: W:1 L:3 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1177 🔻  (767)|

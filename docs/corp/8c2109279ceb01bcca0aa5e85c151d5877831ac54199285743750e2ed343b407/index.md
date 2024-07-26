@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​绛紫星
-description: W:24 L:15 D:2 Bonus[🟢]
+description: W:24 L:15 D:2 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1264 🔺  (181)|

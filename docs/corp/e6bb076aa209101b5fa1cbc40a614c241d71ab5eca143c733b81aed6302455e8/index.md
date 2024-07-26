@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​逐光起航
-description: W:4 L:23 D:4 Bonus[🔴]
+description: W:4 L:23 D:4 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1048 🔻  (1145)|

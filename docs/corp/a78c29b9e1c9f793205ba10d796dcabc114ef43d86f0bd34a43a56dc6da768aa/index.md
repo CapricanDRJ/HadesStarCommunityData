@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Warriorlords
-description: W:20 L:8 D:0 Bonus[🟢]
+description: W:20 L:8 D:0 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1326 🔺  (87)|

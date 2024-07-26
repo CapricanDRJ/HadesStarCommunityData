@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​mijael siuuuuuu
-description: W:0 L:12 D:1 Bonus[🔴]
+description: W:0 L:12 D:1 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1066 🔻  (1133)|

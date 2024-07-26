@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Тихий Омут
-description: W:10 L:43 D:1 Bonus[🟢]
+description: W:10 L:43 D:1 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1025 🔻  (1158)|

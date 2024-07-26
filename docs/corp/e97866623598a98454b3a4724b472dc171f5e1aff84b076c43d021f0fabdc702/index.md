@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​2ND-R8 Corp.
-description: W:20 L:14 D:0 Bonus[🟢]
+description: W:20 L:14 D:0 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1308 🔺  (114)|

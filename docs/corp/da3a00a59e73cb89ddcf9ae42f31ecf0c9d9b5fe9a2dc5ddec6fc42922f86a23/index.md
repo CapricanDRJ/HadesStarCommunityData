@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Midland Ind.
-description: W:9 L:9 D:0 Bonus[🔴]
+description: W:9 L:9 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1204 🔻  (412)|

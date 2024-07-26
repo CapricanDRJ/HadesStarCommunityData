@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​资助会
-description: W:7 L:2 D:0 Bonus[🟢]
+description: W:7 L:2 D:0 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1264 🔺  (183)|

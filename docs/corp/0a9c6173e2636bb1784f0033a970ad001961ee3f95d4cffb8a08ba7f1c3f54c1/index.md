@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​STAR EMPIRE 16
-description: W:0 L:3 D:0 Bonus[🔴]
+description: W:0 L:3 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1153 🔻  (976)|

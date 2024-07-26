@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​The Watchers
-description: W:11 L:14 D:0 Bonus[🔴]
+description: W:11 L:14 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1164 🔻  (913)|

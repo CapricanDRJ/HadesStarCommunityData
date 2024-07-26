@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Nebula
-description: W:4 L:15 D:0 Bonus[🔴]
+description: W:4 L:15 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1071 🔻  (1128)|

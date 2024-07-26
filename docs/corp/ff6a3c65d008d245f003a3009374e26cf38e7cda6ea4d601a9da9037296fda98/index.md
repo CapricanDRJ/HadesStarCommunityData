@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​YETI Collective
-description: W:18 L:30 D:0 Bonus[🔴]
+description: W:18 L:30 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1081 🔻  (1122)|

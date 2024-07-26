@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Glashan
-description: W:3 L:27 D:0 Bonus[🔴]
+description: W:3 L:27 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1039 🔻  (1148)|

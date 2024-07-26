@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Space Donuts
-description: W:2 L:4 D:0 Bonus[🔴]
+description: W:2 L:4 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1176 🔻  (782)|

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​CODEX IMPERIUS
-description: W:2 L:7 D:0 Bonus[🔴]
+description: W:2 L:7 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1129 🔻  (1049)|

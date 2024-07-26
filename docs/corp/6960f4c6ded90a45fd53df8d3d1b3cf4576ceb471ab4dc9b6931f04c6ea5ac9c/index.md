@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​代代守护你的神明
-description: W:7 L:5 D:0 Bonus[🔴]
+description: W:7 L:5 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1225 🔺  (304)|

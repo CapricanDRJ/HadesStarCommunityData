@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Gold Star
-description: W:2 L:9 D:1 Bonus[🔴]
+description: W:2 L:9 D:1 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1130 🔺  (1045)|

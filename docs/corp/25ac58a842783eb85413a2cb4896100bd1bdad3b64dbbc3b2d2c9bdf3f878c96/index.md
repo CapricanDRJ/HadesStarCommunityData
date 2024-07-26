@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​夢幻之星＊分盟＊
-description: W:2 L:9 D:2 Bonus[🔴]
+description: W:2 L:9 D:2 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1124 🔻  (1057)|

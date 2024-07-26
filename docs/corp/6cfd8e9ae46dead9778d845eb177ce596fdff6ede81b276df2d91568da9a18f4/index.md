@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​North Star
-description: W:1 L:4 D:0 Bonus[🔴]
+description: W:1 L:4 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1164 🔻  (910)|

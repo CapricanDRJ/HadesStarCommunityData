@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​CORE INFLICTION
-description: W:0 L:1 D:0 Bonus[🔴]
+description: W:0 L:1 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔻  (566)|

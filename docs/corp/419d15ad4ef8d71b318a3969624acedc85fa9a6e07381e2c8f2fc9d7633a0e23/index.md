@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Ascalon
-description: W:1 L:1 D:1 Bonus[🔴]
+description: W:1 L:1 D:1 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1201 🔻  (435)|

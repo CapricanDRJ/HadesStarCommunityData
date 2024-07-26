@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Moon Catchers
-description: W:13 L:16 D:1 Bonus[🔴]
+description: W:13 L:16 D:1 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1165 🔻  (906)|

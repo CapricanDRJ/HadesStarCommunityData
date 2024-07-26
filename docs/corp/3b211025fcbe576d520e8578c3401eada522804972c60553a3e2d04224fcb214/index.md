@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Space Force
-description: W:1 L:3 D:2 Bonus[🔴]
+description: W:1 L:3 D:2 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1170 🔻  (869)|

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​SveaEmpire
-description: W:1 L:5 D:0 Bonus[🔴]
+description: W:1 L:5 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1143 🔻  (1012)|

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​l'empire sylli
-description: W:0 L:6 D:0 Bonus[🔴]
+description: W:0 L:6 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1116 🔻  (1074)|

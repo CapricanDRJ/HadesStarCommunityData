@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​111
-description: W:46 L:15 D:0 Bonus[🟢]
+description: W:46 L:15 D:0 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1392 🔺  (40)|

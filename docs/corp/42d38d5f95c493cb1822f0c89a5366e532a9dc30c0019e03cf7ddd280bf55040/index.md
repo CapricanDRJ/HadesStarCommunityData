@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​第四星际
-description: W:25 L:9 D:2 Bonus[🟢]
+description: W:25 L:9 D:2 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1311 🔺  (105)|

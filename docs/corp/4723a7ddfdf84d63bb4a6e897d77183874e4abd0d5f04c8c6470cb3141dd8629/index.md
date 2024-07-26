@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Red Suns
-description: W:15 L:17 D:0 Bonus[🔴]
+description: W:15 L:17 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1196 🔺  (482)|

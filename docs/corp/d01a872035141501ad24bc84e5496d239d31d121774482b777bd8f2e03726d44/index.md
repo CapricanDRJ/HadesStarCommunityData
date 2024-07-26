@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Crimson Dawn
-description: W:7 L:10 D:0 Bonus[🔴]
+description: W:7 L:10 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1159 🔻  (943)|

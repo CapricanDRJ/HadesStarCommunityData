@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Ten Forward
-description: W:1 L:7 D:0 Bonus[🔴]
+description: W:1 L:7 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1115 🔻  (1077)|

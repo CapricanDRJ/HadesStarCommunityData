@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​BRASIL ACADEMY
-description: W:2 L:1 D:0 Bonus[🔴]
+description: W:2 L:1 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1218 🔻  (325)|

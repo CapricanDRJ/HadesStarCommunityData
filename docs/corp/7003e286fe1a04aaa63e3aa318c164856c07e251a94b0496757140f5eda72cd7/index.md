@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Trade Station
-description: W:4 L:31 D:0 Bonus[🔴]
+description: W:4 L:31 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 975 🔻  (1175)|

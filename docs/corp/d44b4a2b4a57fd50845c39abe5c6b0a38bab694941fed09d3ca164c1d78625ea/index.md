@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Bounty Hunters
-description: W:7 L:5 D:0 Bonus[🔴]
+description: W:7 L:5 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1235 🔻  (259)|

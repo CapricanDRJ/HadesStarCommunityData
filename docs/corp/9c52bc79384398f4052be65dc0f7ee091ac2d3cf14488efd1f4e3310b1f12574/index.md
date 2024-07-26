@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​FURIA 2.0
-description: W:1 L:8 D:0 Bonus[🔴]
+description: W:1 L:8 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1129 🔻  (1048)|

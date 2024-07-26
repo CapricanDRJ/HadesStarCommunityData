@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​ZZZ-V
-description: W:3 L:1 D:0 Bonus[🔴]
+description: W:3 L:1 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1237 🔺  (254)|

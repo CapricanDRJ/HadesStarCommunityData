@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​喵喵喵喵喵喵喵
-description: W:0 L:7 D:2 Bonus[🔴]
+description: W:0 L:7 D:2 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1095 🔻  (1101)|

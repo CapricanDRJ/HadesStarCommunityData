@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​N7 Elite Forces
-description: W:3 L:0 D:0 Bonus[🔴]
+description: W:3 L:0 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1250 🔺  (213)|

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​우주미아
-description: W:0 L:5 D:0 Bonus[🔴]
+description: W:0 L:5 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1139 🔻  (1019)|

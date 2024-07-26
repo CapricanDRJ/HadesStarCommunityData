@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​SpaceCowboys
-description: W:13 L:5 D:0 Bonus[🔴]
+description: W:13 L:5 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1288 🔻  (136)|

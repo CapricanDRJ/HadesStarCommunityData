@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Shadow Council
-description: W:0 L:3 D:0 Bonus[🔴]
+description: W:0 L:3 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1158 🔻  (948)|

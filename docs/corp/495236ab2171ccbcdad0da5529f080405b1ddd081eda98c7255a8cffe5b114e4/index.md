@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Jalisco México
-description: W:11 L:26 D:5 Bonus[🔴]
+description: W:11 L:26 D:5 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1083 🔺  (1119)|

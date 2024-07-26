@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Red Dawn
-description: W:27 L:17 D:1 Bonus[🟢]
+description: W:27 L:17 D:1 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1296 🔺  (127)|

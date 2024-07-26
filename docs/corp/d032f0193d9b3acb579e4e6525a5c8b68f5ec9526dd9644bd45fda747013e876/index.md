@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​BSO Academy
-description: W:14 L:1 D:0 Bonus[🔴]
+description: W:14 L:1 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1355 🔺  (61)|

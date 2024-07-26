@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​德意志联邦集团
-description: W:0 L:3 D:3 Bonus[🔴]
+description: W:0 L:3 D:3 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1154 🔻  (972)|

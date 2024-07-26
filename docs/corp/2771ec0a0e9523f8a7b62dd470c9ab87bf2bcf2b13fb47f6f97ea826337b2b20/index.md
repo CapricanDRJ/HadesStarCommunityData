@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Mercury Sunset
-description: W:21 L:0 D:0 Bonus[🟢]
+description: W:21 L:0 D:0 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1429 🔺  (22)|

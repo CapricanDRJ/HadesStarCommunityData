@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​星环-星际联盟
-description: W:0 L:1 D:0 Bonus[🔴]
+description: W:0 L:1 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (591)|

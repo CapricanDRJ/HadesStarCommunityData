@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Eretria 
-description: W:25 L:22 D:0 Bonus[🟢]
+description: W:25 L:22 D:0 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1238 🔺  (248)|

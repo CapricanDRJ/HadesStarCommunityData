@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​OntarioDawn
-description: W:35 L:3 D:0 Bonus[🟢]
+description: W:35 L:3 D:0 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1464 🔻  (14)|

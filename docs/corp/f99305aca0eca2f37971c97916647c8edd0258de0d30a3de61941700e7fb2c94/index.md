@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Corvus Ind.
-description: W:24 L:9 D:0 Bonus[🟢]
+description: W:24 L:9 D:0 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1369 🔺  (51)|

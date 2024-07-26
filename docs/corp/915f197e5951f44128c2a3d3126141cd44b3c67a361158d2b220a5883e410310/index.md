@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Торг. федерация
-description: W:4 L:9 D:0 Bonus[🟢]
+description: W:4 L:9 D:0 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1155 🔺  (965)|

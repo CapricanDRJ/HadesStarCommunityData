@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Stone Legion
-description: W:19 L:5 D:0 Bonus[🟢]
+description: W:19 L:5 D:0 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1347 🔺  (65)|

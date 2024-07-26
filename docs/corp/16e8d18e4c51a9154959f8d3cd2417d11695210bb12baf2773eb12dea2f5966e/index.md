@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Sektion 32
-description: W:4 L:7 D:1 Bonus[🔴]
+description: W:4 L:7 D:1 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1172 🔻  (831)|

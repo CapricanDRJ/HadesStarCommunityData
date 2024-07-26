@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​ProyectCorp
-description: W:16 L:21 D:0 Bonus[🟢]
+description: W:16 L:21 D:0 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1152 🔺  (982)|

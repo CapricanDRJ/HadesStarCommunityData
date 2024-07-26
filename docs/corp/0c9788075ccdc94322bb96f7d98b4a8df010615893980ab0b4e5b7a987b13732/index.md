@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Aegis Shield
-description: W:2 L:7 D:0 Bonus[🔴]
+description: W:2 L:7 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1126 🔻  (1053)|

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​The Hexagonix
-description: W:2 L:5 D:1 Bonus[🔴]
+description: W:2 L:5 D:1 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1164 🔺  (914)|

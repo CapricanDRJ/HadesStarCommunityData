@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Sith order
-description: W:1 L:1 D:0 Bonus[🔴]
+description: W:1 L:1 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1201 🔺  (425)|

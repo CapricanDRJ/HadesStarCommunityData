@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Dauntless
-description: W:6 L:17 D:0 Bonus[🔴]
+description: W:6 L:17 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1082 🔻  (1121)|

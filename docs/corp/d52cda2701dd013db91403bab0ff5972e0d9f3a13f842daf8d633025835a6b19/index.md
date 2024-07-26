@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​The Galxey █
-description: W:5 L:29 D:2 Bonus[🔴]
+description: W:5 L:29 D:2 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1000 🔺  (1167)|

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Эдельвейс
-description: W:0 L:3 D:1 Bonus[🔴]
+description: W:0 L:3 D:1 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1156 🔻  (959)|

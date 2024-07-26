@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Sternenflotte
-description: W:18 L:17 D:0 Bonus[🔴]
+description: W:18 L:17 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1178 🔻  (766)|

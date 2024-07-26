@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​혁명군
-description: W:13 L:32 D:0 Bonus[🔴]
+description: W:13 L:32 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1115 🔻  (1078)|

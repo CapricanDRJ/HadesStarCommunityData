@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Unión latina
-description: W:26 L:19 D:0 Bonus[🟢]
+description: W:26 L:19 D:0 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1274 🔺  (162)|

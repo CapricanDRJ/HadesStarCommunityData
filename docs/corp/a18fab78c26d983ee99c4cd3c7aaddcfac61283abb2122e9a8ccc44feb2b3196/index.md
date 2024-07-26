@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​НИФИГАСЕБЕ
-description: W:8 L:22 D:0 Bonus[🔴]
+description: W:8 L:22 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1093 🔻  (1104)|

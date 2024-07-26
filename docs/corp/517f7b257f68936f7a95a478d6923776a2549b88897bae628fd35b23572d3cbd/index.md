@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Spacefleet
-description: W:33 L:20 D:0 Bonus[🟢]
+description: W:33 L:20 D:0 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1286 🔻  (143)|

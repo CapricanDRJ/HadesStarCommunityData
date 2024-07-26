@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Hellfire Club
-description: W:29 L:23 D:0 Bonus[🟢]
+description: W:29 L:23 D:0 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1239 🔺  (243)|

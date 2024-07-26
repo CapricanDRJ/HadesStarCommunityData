@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Emergence
-description: W:25 L:2 D:0 Bonus[🟢]
+description: W:25 L:2 D:0 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1441 🔺  (18)|

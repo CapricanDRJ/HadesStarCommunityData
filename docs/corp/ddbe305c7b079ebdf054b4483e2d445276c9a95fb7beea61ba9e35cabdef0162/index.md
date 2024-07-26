@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​RUSSIAN TEAM
-description: W:0 L:9 D:0 Bonus[🔴]
+description: W:0 L:9 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1109 🔻  (1088)|

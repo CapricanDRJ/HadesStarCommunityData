@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​✡天启✡
-description: W:22 L:8 D:0 Bonus[🔴]
+description: W:22 L:8 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1356 🔻  (59)|

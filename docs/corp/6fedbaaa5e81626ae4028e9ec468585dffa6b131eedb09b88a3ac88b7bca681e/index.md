@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​BattleCo
-description: W:21 L:14 D:0 Bonus[🔴]
+description: W:21 L:14 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1236 🔻  (256)|

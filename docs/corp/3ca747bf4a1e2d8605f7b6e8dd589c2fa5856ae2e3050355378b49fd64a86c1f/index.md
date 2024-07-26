@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​风云集团
-description: W:1 L:3 D:0 Bonus[🔴]
+description: W:1 L:3 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1173 🔻  (813)|

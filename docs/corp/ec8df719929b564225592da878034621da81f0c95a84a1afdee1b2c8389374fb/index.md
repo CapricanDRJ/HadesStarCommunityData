@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Krasse Bros
-description: W:5 L:1 D:0 Bonus[🔴]
+description: W:5 L:1 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1256 🔺  (201)|

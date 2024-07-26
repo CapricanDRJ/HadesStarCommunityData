@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Вселенские 40%
-description: W:18 L:20 D:0 Bonus[🔴]
+description: W:18 L:20 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (587)|

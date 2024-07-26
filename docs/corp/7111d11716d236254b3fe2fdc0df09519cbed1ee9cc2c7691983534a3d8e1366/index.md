@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Gummibärenbande
-description: W:1 L:17 D:0 Bonus[🔴]
+description: W:1 L:17 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1055 🔻  (1141)|

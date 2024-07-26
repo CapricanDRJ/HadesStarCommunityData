@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​The Goonies
-description: W:3 L:6 D:2 Bonus[🔴]
+description: W:3 L:6 D:2 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1158 🔻  (946)|

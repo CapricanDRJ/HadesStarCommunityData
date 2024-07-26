@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​tropa (BR)
-description: W:7 L:9 D:2 Bonus[🔴]
+description: W:7 L:9 D:2 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1181 🔻  (754)|

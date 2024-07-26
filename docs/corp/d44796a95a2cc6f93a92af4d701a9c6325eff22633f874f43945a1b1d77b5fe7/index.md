@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Ul'Adri
-description: W:10 L:10 D:0 Bonus[🔴]
+description: W:10 L:10 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1209 🔺  (395)|

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Brodudes Inc.
-description: W:58 L:14 D:1 Bonus[🟢]
+description: W:58 L:14 D:1 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1477 🔺  (11)|

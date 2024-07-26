@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​The Picard
-description: W:0 L:17 D:0 Bonus[🔴]
+description: W:0 L:17 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1030 🔻  (1156)|

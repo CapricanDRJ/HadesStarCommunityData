@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​TeddisaurusWrex
-description: W:35 L:7 D:0 Bonus[🟢]
+description: W:35 L:7 D:0 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1387 🔺  (44)|

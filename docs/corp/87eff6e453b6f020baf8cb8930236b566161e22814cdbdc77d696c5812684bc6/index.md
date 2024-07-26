@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Space Pirates
-description: W:5 L:30 D:0 Bonus[🔴]
+description: W:5 L:30 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 972 🔻  (1176)|

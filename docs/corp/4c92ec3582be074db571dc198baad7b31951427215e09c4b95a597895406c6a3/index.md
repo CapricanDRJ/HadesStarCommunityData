@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​DYLAN
-description: W:8 L:1 D:0 Bonus[🔴]
+description: W:8 L:1 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1281 🔻  (154)|

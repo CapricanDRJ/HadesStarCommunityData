@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​小宇宙研究会
-description: W:1 L:2 D:0 Bonus[🔴]
+description: W:1 L:2 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1180 🔻  (759)|

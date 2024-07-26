@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​云浪山庄↕
-description: W:18 L:59 D:1 Bonus[🟢]
+description: W:18 L:59 D:1 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 936 🔻  (1179)|

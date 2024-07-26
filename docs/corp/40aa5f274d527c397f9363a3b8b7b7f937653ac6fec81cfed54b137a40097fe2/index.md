@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Die pösn Purchn
-description: W:0 L:2 D:0 Bonus[🔴]
+description: W:0 L:2 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1176 🔻  (777)|

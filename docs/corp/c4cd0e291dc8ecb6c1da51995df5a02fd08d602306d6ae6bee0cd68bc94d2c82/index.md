@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​USA Corp
-description: W:2 L:6 D:0 Bonus[🔴]
+description: W:2 L:6 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1148 🔻  (989)|

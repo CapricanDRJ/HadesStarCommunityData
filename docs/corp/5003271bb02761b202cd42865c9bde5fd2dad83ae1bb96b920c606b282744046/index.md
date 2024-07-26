@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Avantgarde
-description: W:3 L:33 D:0 Bonus[🔴]
+description: W:3 L:33 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 951 🔻  (1177)|

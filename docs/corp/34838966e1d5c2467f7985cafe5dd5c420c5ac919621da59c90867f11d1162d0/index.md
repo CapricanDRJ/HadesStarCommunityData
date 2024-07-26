@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​NERF TOY'S
-description: W:18 L:29 D:2 Bonus[🔴]
+description: W:18 L:29 D:2 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1202 🔻  (420)|

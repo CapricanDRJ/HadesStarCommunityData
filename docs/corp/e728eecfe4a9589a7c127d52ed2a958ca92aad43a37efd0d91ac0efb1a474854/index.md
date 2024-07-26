@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Hun Avengers
-description: W:12 L:13 D:0 Bonus[🔴]
+description: W:12 L:13 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1181 🔻  (749)|

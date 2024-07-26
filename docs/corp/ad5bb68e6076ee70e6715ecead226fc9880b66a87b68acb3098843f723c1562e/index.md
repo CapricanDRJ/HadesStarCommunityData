@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Game of Stars
-description: W:8 L:17 D:0 Bonus[🟢]
+description: W:8 L:17 D:0 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1161 🔺  (931)|

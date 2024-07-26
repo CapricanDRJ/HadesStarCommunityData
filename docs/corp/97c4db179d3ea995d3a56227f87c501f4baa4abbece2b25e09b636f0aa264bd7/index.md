@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​BoomTech
-description: W:18 L:5 D:1 Bonus[🟢]
+description: W:18 L:5 D:1 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1325 🔺  (89)|

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Out landers
-description: W:10 L:6 D:0 Bonus[🟢]
+description: W:10 L:6 D:0 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1270 🔺  (170)|

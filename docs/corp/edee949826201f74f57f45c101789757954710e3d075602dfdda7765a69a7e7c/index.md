@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​P!RAT£ SHIP
-description: W:8 L:6 D:1 Bonus[🔴]
+description: W:8 L:6 D:1 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1233 🔻  (263)|

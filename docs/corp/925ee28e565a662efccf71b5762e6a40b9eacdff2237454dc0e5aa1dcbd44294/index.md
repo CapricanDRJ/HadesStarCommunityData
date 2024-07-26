@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​RACNAROK
-description: W:7 L:2 D:2 Bonus[🔴]
+description: W:7 L:2 D:2 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1252 🔻  (211)|

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​[Blue＊Nation]
-description: W:30 L:6 D:0 Bonus[🟢]
+description: W:30 L:6 D:0 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1468 🔺  (12)|

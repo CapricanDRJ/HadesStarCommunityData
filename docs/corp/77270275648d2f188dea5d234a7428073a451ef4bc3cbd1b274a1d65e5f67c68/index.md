@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Final
-description: W:3 L:9 D:0 Bonus[🔴]
+description: W:3 L:9 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1122 🔻  (1063)|

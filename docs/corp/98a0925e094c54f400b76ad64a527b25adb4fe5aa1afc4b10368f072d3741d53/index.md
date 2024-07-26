@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Бестрашный лиги
-description: W:3 L:5 D:0 Bonus[🔴]
+description: W:3 L:5 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1177 🔻  (772)|

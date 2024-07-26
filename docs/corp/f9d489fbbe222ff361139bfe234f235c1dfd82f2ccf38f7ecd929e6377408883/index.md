@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​LANCE
-description: W:3 L:8 D:2 Bonus[🔴]
+description: W:3 L:8 D:2 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1146 🔻  (997)|

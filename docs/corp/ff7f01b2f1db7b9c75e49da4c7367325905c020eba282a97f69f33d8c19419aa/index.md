@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​₩.BRASIL.₩
-description: W:0 L:8 D:4 Bonus[🔴]
+description: W:0 L:8 D:4 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1106 🔺  (1092)|

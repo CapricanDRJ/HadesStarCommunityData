@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Hexacropians
-description: W:36 L:7 D:1 Bonus[🟢]
+description: W:36 L:7 D:1 Bonus[✅]
 ---
+### Bonus[✅]
 
-Bonus[🟢]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1406 🔻  (30)|

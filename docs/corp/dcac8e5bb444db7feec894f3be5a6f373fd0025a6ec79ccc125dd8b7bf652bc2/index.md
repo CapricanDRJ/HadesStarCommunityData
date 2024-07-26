@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​很多星球的社会主义团
-description: W:8 L:9 D:1 Bonus[🔴]
+description: W:8 L:9 D:1 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1183 🔻  (732)|

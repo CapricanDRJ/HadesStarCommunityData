@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Panda clan 
-description: W:2 L:3 D:0 Bonus[🔴]
+description: W:2 L:3 D:0 Bonus[❌]
 ---
+### Bonus[❌]
 
-Bonus[🔴]
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1199 🔺  (463)|
