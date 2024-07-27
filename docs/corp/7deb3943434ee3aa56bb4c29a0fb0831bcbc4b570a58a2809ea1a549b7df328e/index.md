@@ -2,6 +2,7 @@
 layout: page
 title: ​Sith Empire
 description: W:19 L:29 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

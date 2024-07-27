@@ -2,6 +2,7 @@
 layout: page
 title: ​United Stars 
 description: W:23 L:15 D:1 Bonus ✅
+date: NaN
 ---
 ### Whitestar Bonus ✅
 

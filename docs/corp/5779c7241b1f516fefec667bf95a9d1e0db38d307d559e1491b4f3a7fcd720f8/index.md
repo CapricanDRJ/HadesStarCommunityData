@@ -2,13 +2,14 @@
 layout: page
 title: ​Zeta LLC
 description: W:7 L:2 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1266 🔻  (179)|
-| ELO Competitive | 1270 🔻  (264)|
+| ELO Competitive | 1270 🔻  (265)|
 | Total Matches | 9 |
 | Wins | 7 |
 | Losses | 2 |

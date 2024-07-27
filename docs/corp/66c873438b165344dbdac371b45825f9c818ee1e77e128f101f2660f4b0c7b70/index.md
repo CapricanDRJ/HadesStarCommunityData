@@ -2,12 +2,13 @@
 layout: page
 title: ​Free Ag3nts
 description: W:3 L:0 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1245 🔺  (224)|
+| ELO Regular | 1245 🔺  (225)|
 | ELO Competitive | 1252 🔺  (304)|
 | Total Matches | 3 |
 | Wins | 3 |

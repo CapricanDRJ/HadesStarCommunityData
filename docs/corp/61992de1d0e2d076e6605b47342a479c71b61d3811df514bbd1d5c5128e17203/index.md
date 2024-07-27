@@ -2,6 +2,7 @@
 layout: page
 title: ​小宇宙研究会
 description: W:1 L:2 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

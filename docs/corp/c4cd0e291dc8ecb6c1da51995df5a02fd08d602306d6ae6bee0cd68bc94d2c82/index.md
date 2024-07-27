@@ -2,13 +2,14 @@
 layout: page
 title: ​USA Corp
 description: W:2 L:6 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1148 🔻  (989)|
-| ELO Competitive | 1147 🔻  (1062)|
+| ELO Competitive | 1147 🔻  (1061)|
 | Total Matches | 8 |
 | Wins | 2 |
 | Losses | 6 |

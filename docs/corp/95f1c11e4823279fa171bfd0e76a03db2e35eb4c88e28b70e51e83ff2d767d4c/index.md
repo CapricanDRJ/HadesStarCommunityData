@@ -2,6 +2,7 @@
 layout: page
 title: ​Imperio Galacti
 description: W:0 L:2 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

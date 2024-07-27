@@ -2,13 +2,14 @@
 layout: page
 title: ​  边界  
 description: W:6 L:1 D:0 Bonus ✅
+date: NaN
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1272 🔺  (165)|
-| ELO Competitive | 1270 🔺  (266)|
+| ELO Competitive | 1270 🔺  (267)|
 | Total Matches | 7 |
 | Wins | 6 |
 | Losses | 1 |

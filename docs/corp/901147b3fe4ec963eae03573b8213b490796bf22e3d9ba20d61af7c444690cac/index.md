@@ -2,6 +2,7 @@
 layout: page
 title: ​Türk Yıldızları
 description: W:16 L:11 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

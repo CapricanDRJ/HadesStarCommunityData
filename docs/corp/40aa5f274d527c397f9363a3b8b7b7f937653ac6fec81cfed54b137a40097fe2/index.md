@@ -2,6 +2,7 @@
 layout: page
 title: ​Die pösn Purchn
 description: W:0 L:2 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

@@ -2,6 +2,7 @@
 layout: page
 title: ​BlankBoosters
 description: W:1 L:3 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

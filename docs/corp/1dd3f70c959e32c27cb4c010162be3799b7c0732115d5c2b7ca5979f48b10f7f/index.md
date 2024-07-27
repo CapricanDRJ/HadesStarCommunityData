@@ -2,6 +2,7 @@
 layout: page
 title: ​萌新的收留所
 description: W:9 L:3 D:1 Bonus ✅
+date: NaN
 ---
 ### Whitestar Bonus ✅
 

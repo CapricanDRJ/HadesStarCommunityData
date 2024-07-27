@@ -2,13 +2,14 @@
 layout: page
 title: ​РусКорп
 description: W:11 L:9 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1218 🔻  (324)|
-| ELO Competitive | 1263 🔻  (277)|
+| ELO Regular | 1218 🔻  (323)|
+| ELO Competitive | 1263 🔻  (278)|
 | Total Matches | 20 |
 | Wins | 11 |
 | Losses | 9 |

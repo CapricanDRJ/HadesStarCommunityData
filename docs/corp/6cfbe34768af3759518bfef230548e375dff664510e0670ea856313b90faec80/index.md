@@ -2,6 +2,7 @@
 layout: page
 title: ​Goa'uld
 description: W:0 L:1 D:2 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

@@ -2,6 +2,7 @@
 layout: page
 title: ​Dauntless
 description: W:6 L:17 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

@@ -2,6 +2,7 @@
 layout: page
 title: ​咕咕咕咕咕咕咕咕咕咕咕咕咕咕咕
 description: W:0 L:3 D:2 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

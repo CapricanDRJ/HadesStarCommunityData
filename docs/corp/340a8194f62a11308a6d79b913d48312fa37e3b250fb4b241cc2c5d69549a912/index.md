@@ -2,13 +2,14 @@
 layout: page
 title: ​SYNDICATE
 description: W:5 L:0 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1271 🔺  (168)|
-| ELO Competitive | 1271 🔺  (263)|
+| ELO Competitive | 1271 🔺  (264)|
 | Total Matches | 5 |
 | Wins | 5 |
 | Losses | 0 |

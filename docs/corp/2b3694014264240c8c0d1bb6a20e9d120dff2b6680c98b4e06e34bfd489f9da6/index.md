@@ -2,6 +2,7 @@
 layout: page
 title: ​Alpha to Omega
 description: W:1 L:0 D:1 Bonus ✅
+date: NaN
 ---
 ### Whitestar Bonus ✅
 

@@ -2,12 +2,13 @@
 layout: page
 title: ​Альянс звезд
 description: W:3 L:1 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1228 🔻  (288)|
+| ELO Regular | 1228 🔻  (287)|
 | ELO Competitive | 1228 🔻  (374)|
 | Total Matches | 4 |
 | Wins | 3 |

@@ -2,6 +2,7 @@
 layout: page
 title: ​지고받자
 description: W:0 L:9 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

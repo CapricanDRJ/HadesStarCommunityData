@@ -2,13 +2,14 @@
 layout: page
 title: ​Призрачный Путь
 description: W:13 L:5 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1284 🔻  (148)|
-| ELO Competitive | 1295 🔻  (214)|
+| ELO Competitive | 1295 🔻  (213)|
 | Total Matches | 18 |
 | Wins | 13 |
 | Losses | 5 |

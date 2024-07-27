@@ -2,13 +2,14 @@
 layout: page
 title: ​Black Sun
 description: W:6 L:13 D:1 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1119 🔻  (1068)|
-| ELO Competitive | 1149 🔻  (1055)|
+| ELO Competitive | 1149 🔻  (1054)|
 | Total Matches | 20 |
 | Wins | 6 |
 | Losses | 13 |

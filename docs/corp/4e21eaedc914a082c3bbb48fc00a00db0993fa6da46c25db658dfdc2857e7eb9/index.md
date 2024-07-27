@@ -2,13 +2,14 @@
 layout: page
 title: ​边际的文明
 description: W:0 L:4 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1143 🔻  (1013)|
-| ELO Competitive | 1145 🔻  (1071)|
+| ELO Competitive | 1145 🔻  (1070)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 4 |

@@ -2,12 +2,13 @@
 layout: page
 title: ​Enigma
 description: W:5 L:12 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1124 🔻  (1056)|
+| ELO Regular | 1124 🔻  (1055)|
 | ELO Competitive | 1152 🔻  (1044)|
 | Total Matches | 17 |
 | Wins | 5 |

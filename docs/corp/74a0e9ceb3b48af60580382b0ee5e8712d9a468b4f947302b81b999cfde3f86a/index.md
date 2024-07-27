@@ -2,12 +2,13 @@
 layout: page
 title: ​СлАвЯнСкИй СоЮз
 description: W:7 L:4 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1228 🔻  (290)|
+| ELO Regular | 1228 🔻  (289)|
 | ELO Competitive | 1231 🔻  (363)|
 | Total Matches | 11 |
 | Wins | 7 |

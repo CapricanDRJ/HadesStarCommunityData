@@ -2,6 +2,7 @@
 layout: page
 title: ​VoidCorp
 description: W:19 L:20 D:1 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

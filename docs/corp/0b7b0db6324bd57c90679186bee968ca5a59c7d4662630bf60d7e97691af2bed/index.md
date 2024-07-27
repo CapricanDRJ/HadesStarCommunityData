@@ -2,13 +2,14 @@
 layout: page
 title: ​SveaEmpire
 description: W:1 L:5 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1143 🔻  (1012)|
-| ELO Competitive | 1144 🔻  (1077)|
+| ELO Competitive | 1144 🔻  (1076)|
 | Total Matches | 6 |
 | Wins | 1 |
 | Losses | 5 |

@@ -2,12 +2,13 @@
 layout: page
 title: ​Germania
 description: W:16 L:21 D:2 Bonus ✅
+date: NaN
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1124 🔺  (1058)|
+| ELO Regular | 1124 🔺  (1057)|
 | ELO Competitive | 1164 🔺  (993)|
 | Total Matches | 39 |
 | Wins | 16 |

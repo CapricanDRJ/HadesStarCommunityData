@@ -2,6 +2,7 @@
 layout: page
 title: ​Vertin's box
 description: W:1 L:0 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

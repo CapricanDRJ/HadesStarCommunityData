@@ -2,6 +2,7 @@
 layout: page
 title: ​中国星系舰队
 description: W:2 L:4 D:1 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

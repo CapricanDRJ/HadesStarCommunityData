@@ -2,12 +2,13 @@
 layout: page
 title: ​Warriors
 description: W:3 L:1 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1228 🔺  (289)|
+| ELO Regular | 1228 🔺  (288)|
 | ELO Competitive | 1228 🔺  (375)|
 | Total Matches | 4 |
 | Wins | 3 |

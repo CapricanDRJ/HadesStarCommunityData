@@ -2,6 +2,7 @@
 layout: page
 title: ​русь 
 description: W:45 L:25 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

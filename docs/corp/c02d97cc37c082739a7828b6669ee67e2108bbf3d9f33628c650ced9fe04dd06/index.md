@@ -2,13 +2,14 @@
 layout: page
 title: ​银星舰队SSF
 description: W:9 L:3 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1262 🔺  (188)|
-| ELO Competitive | 1274 🔺  (256)|
+| ELO Competitive | 1274 🔺  (257)|
 | Total Matches | 12 |
 | Wins | 9 |
 | Losses | 3 |

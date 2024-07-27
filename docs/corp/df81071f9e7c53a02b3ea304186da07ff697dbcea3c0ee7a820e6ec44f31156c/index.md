@@ -2,6 +2,7 @@
 layout: page
 title: ​L’Amalgame
 description: W:0 L:1 D:1 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

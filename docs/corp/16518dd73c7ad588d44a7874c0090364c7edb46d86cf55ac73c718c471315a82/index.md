@@ -2,6 +2,7 @@
 layout: page
 title: ​Avalanche 2.0
 description: W:2 L:4 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

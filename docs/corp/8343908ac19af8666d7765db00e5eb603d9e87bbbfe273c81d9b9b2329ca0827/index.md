@@ -2,12 +2,13 @@
 layout: page
 title: ​Inexorable
 description: W:18 L:11 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1229 🔻  (284)|
+| ELO Regular | 1229 🔻  (283)|
 | ELO Competitive | 1286 🔻  (227)|
 | Total Matches | 29 |
 | Wins | 18 |

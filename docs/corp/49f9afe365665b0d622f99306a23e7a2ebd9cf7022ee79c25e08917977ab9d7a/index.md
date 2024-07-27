@@ -2,12 +2,13 @@
 layout: page
 title: ​TECH CO
 description: W:9 L:17 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1123 🔻  (1061)|
+| ELO Regular | 1123 🔻  (1060)|
 | ELO Competitive | 1187 🔻  (668)|
 | Total Matches | 26 |
 | Wins | 9 |

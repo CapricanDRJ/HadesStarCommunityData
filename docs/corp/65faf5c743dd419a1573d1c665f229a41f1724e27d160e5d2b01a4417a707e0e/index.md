@@ -2,13 +2,14 @@
 layout: page
 title: ​＊СССР＊
 description: W:18 L:19 D:1 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1245 🔻  (223)|
-| ELO Competitive | 1290 🔻  (223)|
+| ELO Regular | 1245 🔻  (224)|
+| ELO Competitive | 1290 🔻  (222)|
 | Total Matches | 38 |
 | Wins | 18 |
 | Losses | 19 |

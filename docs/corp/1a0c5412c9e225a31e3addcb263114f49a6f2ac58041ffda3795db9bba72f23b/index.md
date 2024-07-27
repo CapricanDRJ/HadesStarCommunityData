@@ -2,12 +2,13 @@
 layout: page
 title: ​Kratos
 description: W:37 L:17 D:0 Bonus ✅
+date: NaN
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1344 🔺  (67)|
+| ELO Regular | 1344 🔺  (68)|
 | ELO Competitive | 1414 🔺  (75)|
 | Total Matches | 54 |
 | Wins | 37 |

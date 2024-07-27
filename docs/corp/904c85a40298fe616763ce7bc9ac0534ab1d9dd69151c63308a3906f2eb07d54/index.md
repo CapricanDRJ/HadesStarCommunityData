@@ -2,6 +2,7 @@
 layout: page
 title: ​Thunderbears
 description: W:3 L:5 D:1 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

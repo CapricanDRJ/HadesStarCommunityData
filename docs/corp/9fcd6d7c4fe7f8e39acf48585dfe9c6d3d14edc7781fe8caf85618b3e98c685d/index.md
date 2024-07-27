@@ -2,12 +2,13 @@
 layout: page
 title: ​Sich.ua
 description: W:19 L:13 D:1 Bonus ✅
+date: NaN
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1259 🔺  (195)|
+| ELO Regular | 1259 🔺  (196)|
 | ELO Competitive | 1387 🔺  (96)|
 | Total Matches | 33 |
 | Wins | 19 |

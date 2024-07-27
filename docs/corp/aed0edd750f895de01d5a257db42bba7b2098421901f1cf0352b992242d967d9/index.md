@@ -2,6 +2,7 @@
 layout: page
 title: ​Ws Polaris
 description: W:3 L:14 D:2 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

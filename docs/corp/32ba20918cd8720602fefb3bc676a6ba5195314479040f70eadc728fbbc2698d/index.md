@@ -2,6 +2,7 @@
 layout: page
 title: ​Star Destroyers
 description: W:23 L:14 D:1 Bonus ✅
+date: NaN
 ---
 ### Whitestar Bonus ✅
 

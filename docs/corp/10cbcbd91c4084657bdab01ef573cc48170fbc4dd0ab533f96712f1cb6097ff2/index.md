@@ -2,6 +2,7 @@
 layout: page
 title: ​Дом Датэ
 description: W:24 L:17 D:0 Bonus ✅
+date: NaN
 ---
 ### Whitestar Bonus ✅
 

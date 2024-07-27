@@ -2,13 +2,14 @@
 layout: page
 title: ​四季长春
 description: W:14 L:22 D:5 Bonus ✅
+date: NaN
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1157 🔺  (952)|
-| ELO Competitive | 1301 🔺  (204)|
+| ELO Competitive | 1301 🔺  (203)|
 | Total Matches | 41 |
 | Wins | 14 |
 | Losses | 22 |

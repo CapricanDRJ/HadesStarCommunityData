@@ -2,12 +2,13 @@
 layout: page
 title: ​边界-萌新俱乐部
 description: W:2 L:0 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1229 🔺  (279)|
+| ELO Regular | 1229 🔺  (278)|
 | ELO Competitive | 1229 🔺  (368)|
 | Total Matches | 2 |
 | Wins | 2 |

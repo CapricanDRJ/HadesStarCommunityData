@@ -2,12 +2,13 @@
 layout: page
 title: ​N7 Elite Forces
 description: W:3 L:0 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1250 🔺  (213)|
+| ELO Regular | 1250 🔺  (214)|
 | ELO Competitive | 1252 🔺  (307)|
 | Total Matches | 3 |
 | Wins | 3 |

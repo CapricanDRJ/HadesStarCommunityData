@@ -2,12 +2,13 @@
 layout: page
 title: ​united unicorn
 description: W:1 L:0 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1219 🔺  (321)|
+| ELO Regular | 1219 🔺  (320)|
 | ELO Competitive | 1219 🔺  (403)|
 | Total Matches | 1 |
 | Wins | 1 |

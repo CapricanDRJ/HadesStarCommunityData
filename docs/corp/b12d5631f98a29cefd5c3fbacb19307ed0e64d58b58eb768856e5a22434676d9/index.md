@@ -2,6 +2,7 @@
 layout: page
 title: ​BlackDawn
 description: W:1 L:14 D:5 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

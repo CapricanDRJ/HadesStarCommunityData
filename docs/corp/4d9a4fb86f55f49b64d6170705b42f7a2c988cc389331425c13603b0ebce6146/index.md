@@ -2,13 +2,14 @@
 layout: page
 title: ​Best UA West
 description: W:0 L:4 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1144 🔻  (1010)|
-| ELO Competitive | 1144 🔻  (1076)|
+| ELO Competitive | 1144 🔻  (1075)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 4 |

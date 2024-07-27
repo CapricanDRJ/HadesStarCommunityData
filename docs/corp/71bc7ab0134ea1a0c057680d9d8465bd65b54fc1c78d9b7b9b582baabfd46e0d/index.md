@@ -2,6 +2,7 @@
 layout: page
 title: ​Ender
 description: W:41 L:13 D:0 Bonus ✅
+date: NaN
 ---
 ### Whitestar Bonus ✅
 

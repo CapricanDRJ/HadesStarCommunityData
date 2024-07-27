@@ -2,6 +2,7 @@
 layout: page
 title: ​CAEDRUS [<o>]
 description: W:2 L:2 D:1 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

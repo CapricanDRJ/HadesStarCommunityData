@@ -2,13 +2,14 @@
 layout: page
 title: ​The Syndicate 
 description: W:14 L:1 D:0 Bonus ✅
+date: NaN
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1360 🔺  (56)|
-| ELO Competitive | 1370 🔺  (106)|
+| ELO Competitive | 1370 🔺  (107)|
 | Total Matches | 15 |
 | Wins | 14 |
 | Losses | 1 |

@@ -2,12 +2,13 @@
 layout: page
 title: ​Северный флот 
 description: W:2 L:0 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1230 🔺  (274)|
+| ELO Regular | 1230 🔺  (273)|
 | ELO Competitive | 1231 🔺  (364)|
 | Total Matches | 2 |
 | Wins | 2 |

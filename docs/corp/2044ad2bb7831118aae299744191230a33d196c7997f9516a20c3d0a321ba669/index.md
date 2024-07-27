@@ -2,13 +2,14 @@
 layout: page
 title: ​Grater T
 description: W:8 L:8 D:0 Bonus ✅
+date: NaN
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1229 🔻  (283)|
-| ELO Competitive | 1264 🔺  (275)|
+| ELO Regular | 1229 🔻  (282)|
+| ELO Competitive | 1264 🔺  (276)|
 | Total Matches | 16 |
 | Wins | 8 |
 | Losses | 8 |

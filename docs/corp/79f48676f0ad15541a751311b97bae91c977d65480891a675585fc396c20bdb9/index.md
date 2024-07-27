@@ -2,6 +2,7 @@
 layout: page
 title: ​初始之音
 description: W:11 L:14 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

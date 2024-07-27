@@ -2,12 +2,13 @@
 layout: page
 title: ​Aegis Shield
 description: W:2 L:7 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1126 🔻  (1053)|
+| ELO Regular | 1126 🔻  (1052)|
 | ELO Competitive | 1138 🔻  (1093)|
 | Total Matches | 9 |
 | Wins | 2 |

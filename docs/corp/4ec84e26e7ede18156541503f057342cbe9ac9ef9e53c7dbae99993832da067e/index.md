@@ -2,6 +2,7 @@
 layout: page
 title: ​Legion Prime
 description: W:11 L:12 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

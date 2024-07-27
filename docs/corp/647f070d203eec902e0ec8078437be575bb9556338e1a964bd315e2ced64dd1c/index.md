@@ -2,6 +2,7 @@
 layout: page
 title: ​特拉斯丁第二共和国
 description: W:1 L:0 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

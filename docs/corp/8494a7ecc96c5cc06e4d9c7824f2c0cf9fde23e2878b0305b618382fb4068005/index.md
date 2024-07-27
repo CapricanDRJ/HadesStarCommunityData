@@ -2,12 +2,13 @@
 layout: page
 title: ​黑色长城
 description: W:2 L:8 D:1 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1124 🔻  (1055)|
+| ELO Regular | 1124 🔻  (1054)|
 | ELO Competitive | 1131 🔻  (1103)|
 | Total Matches | 11 |
 | Wins | 2 |

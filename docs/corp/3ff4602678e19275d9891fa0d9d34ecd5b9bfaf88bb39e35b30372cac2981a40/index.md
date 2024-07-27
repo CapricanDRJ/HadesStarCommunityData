@@ -2,6 +2,7 @@
 layout: page
 title: ​pirates spatial
 description: W:38 L:29 D:0 Bonus ✅
+date: NaN
 ---
 ### Whitestar Bonus ✅
 

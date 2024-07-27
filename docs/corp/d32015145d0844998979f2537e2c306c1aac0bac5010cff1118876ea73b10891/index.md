@@ -2,12 +2,13 @@
 layout: page
 title: ​Peasants
 description: W:2 L:0 D:0 Bonus ✅
+date: NaN
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1226 🔺  (297)|
+| ELO Regular | 1226 🔺  (296)|
 | ELO Competitive | 1231 🔺  (362)|
 | Total Matches | 2 |
 | Wins | 2 |

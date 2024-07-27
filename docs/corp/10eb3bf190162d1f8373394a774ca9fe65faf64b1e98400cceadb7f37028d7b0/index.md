@@ -2,12 +2,13 @@
 layout: page
 title: ​Survivors
 description: W:4 L:11 D:1 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1123 🔻  (1059)|
+| ELO Regular | 1123 🔻  (1058)|
 | ELO Competitive | 1138 🔻  (1092)|
 | Total Matches | 16 |
 | Wins | 4 |

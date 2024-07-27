@@ -2,13 +2,14 @@
 layout: page
 title: ​SpaceCowboys
 description: W:13 L:5 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1288 🔻  (136)|
-| ELO Competitive | 1297 🔻  (209)|
+| ELO Competitive | 1297 🔻  (208)|
 | Total Matches | 18 |
 | Wins | 13 |
 | Losses | 5 |

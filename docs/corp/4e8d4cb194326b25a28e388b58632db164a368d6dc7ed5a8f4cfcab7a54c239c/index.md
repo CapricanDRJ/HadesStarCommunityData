@@ -2,6 +2,7 @@
 layout: page
 title: ​Тихий Омут
 description: W:10 L:43 D:1 Bonus ✅
+date: NaN
 ---
 ### Whitestar Bonus ✅
 

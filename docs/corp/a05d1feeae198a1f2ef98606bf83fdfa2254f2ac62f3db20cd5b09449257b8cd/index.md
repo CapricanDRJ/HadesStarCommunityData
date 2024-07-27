@@ -1,13 +1,14 @@
 ---
 layout: page
 title: ​DarkSide
-description: W:27 L:34 D:1 Bonus ✅
+description: W:27 L:34 D:1 Bonus ❌
+date: NaN
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1230 🔻  (276)|
+| ELO Regular | 1230 🔻  (275)|
 | ELO Competitive | 1393 🔺  (85)|
 | Total Matches | 62 |
 | Wins | 27 |

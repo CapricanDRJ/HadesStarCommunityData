@@ -2,13 +2,14 @@
 layout: page
 title: ​雪月永恒
 description: W:6 L:1 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1252 🔺  (210)|
-| ELO Competitive | 1260 🔺  (285)|
+| ELO Regular | 1252 🔺  (211)|
+| ELO Competitive | 1260 🔺  (286)|
 | Total Matches | 7 |
 | Wins | 6 |
 | Losses | 1 |

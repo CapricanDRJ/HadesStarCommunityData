@@ -2,13 +2,14 @@
 layout: page
 title: ​Space Scourge
 description: W:2 L:6 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1146 🔻  (1000)|
-| ELO Competitive | 1149 🔻  (1056)|
+| ELO Competitive | 1149 🔻  (1055)|
 | Total Matches | 8 |
 | Wins | 2 |
 | Losses | 6 |

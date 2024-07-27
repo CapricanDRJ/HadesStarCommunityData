@@ -2,13 +2,14 @@
 layout: page
 title: ​СССР 2.0
 description: W:2 L:6 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1144 🔻  (1008)|
-| ELO Competitive | 1146 🔻  (1065)|
+| ELO Competitive | 1146 🔻  (1064)|
 | Total Matches | 8 |
 | Wins | 2 |
 | Losses | 6 |

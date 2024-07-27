@@ -2,13 +2,14 @@
 layout: page
 title: ​Frontier X
 description: W:9 L:4 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1262 🔻  (189)|
-| ELO Competitive | 1263 🔻  (276)|
+| ELO Competitive | 1263 🔻  (277)|
 | Total Matches | 13 |
 | Wins | 9 |
 | Losses | 4 |

@@ -2,13 +2,14 @@
 layout: page
 title: ​No Orbit©
 description: W:11 L:6 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1256 🔻  (200)|
-| ELO Competitive | 1273 🔻  (259)|
+| ELO Regular | 1256 🔻  (201)|
+| ELO Competitive | 1273 🔻  (260)|
 | Total Matches | 17 |
 | Wins | 11 |
 | Losses | 6 |

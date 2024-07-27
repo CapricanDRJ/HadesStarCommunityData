@@ -2,12 +2,13 @@
 layout: page
 title: ​Ironbear Legion
 description: W:14 L:25 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1123 🔻  (1062)|
+| ELO Regular | 1123 🔻  (1061)|
 | ELO Competitive | 1178 🔻  (864)|
 | Total Matches | 39 |
 | Wins | 14 |

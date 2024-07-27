@@ -2,13 +2,14 @@
 layout: page
 title: ​SUN OF 3LANDS
 description: W:8 L:2 D:1 Bonus ✅
+date: NaN
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1277 🔺  (159)|
-| ELO Competitive | 1291 🔺  (219)|
+| ELO Competitive | 1291 🔺  (218)|
 | Total Matches | 11 |
 | Wins | 8 |
 | Losses | 2 |

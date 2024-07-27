@@ -2,12 +2,13 @@
 layout: page
 title: ​BrinySeal
 description: W:34 L:15 D:3 Bonus ✅
+date: NaN
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1343 🔺  (69)|
+| ELO Regular | 1343 🔺  (70)|
 | ELO Competitive | 1390 🔺  (90)|
 | Total Matches | 52 |
 | Wins | 34 |

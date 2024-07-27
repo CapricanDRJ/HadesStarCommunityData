@@ -2,6 +2,7 @@
 layout: page
 title: ​Veteran's Haven
 description: W:5 L:9 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

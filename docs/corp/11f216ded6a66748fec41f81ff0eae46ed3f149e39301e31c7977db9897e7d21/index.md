@@ -2,6 +2,7 @@
 layout: page
 title: ​Galactic Trade
 description: W:2 L:6 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

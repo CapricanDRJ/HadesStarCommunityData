@@ -2,13 +2,14 @@
 layout: page
 title: ​Odessa
 description: W:5 L:12 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1135 🔻  (1033)|
-| ELO Competitive | 1147 🔻  (1061)|
+| ELO Competitive | 1147 🔻  (1060)|
 | Total Matches | 17 |
 | Wins | 5 |
 | Losses | 12 |

@@ -2,12 +2,13 @@
 layout: page
 title: ​C.C Legion
 description: W:5 L:1 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1256 🔺  (202)|
+| ELO Regular | 1256 🔺  (203)|
 | ELO Competitive | 1257 🔺  (296)|
 | Total Matches | 6 |
 | Wins | 5 |

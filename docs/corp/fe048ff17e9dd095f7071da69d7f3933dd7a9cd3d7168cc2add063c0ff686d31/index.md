@@ -2,13 +2,14 @@
 layout: page
 title: ​●Black•Sails●
 description: W:13 L:10 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1222 🔻  (310)|
-| ELO Competitive | 1265 🔻  (272)|
+| ELO Regular | 1222 🔻  (309)|
+| ELO Competitive | 1265 🔻  (273)|
 | Total Matches | 23 |
 | Wins | 13 |
 | Losses | 10 |

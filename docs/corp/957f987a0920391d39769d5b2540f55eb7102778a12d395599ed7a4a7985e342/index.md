@@ -2,13 +2,14 @@
 layout: page
 title: ​Stellaris
 description: W:0 L:6 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1134 🔻  (1036)|
-| ELO Competitive | 1145 🔻  (1069)|
+| ELO Competitive | 1145 🔻  (1068)|
 | Total Matches | 6 |
 | Wins | 0 |
 | Losses | 6 |

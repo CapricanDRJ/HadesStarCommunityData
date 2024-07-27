@@ -2,13 +2,14 @@
 layout: page
 title: ​Capibarius
 description: W:5 L:1 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1259 🔺  (196)|
-| ELO Competitive | 1260 🔺  (287)|
+| ELO Regular | 1259 🔺  (197)|
+| ELO Competitive | 1260 🔺  (288)|
 | Total Matches | 6 |
 | Wins | 5 |
 | Losses | 1 |

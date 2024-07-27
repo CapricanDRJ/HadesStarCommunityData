@@ -2,13 +2,14 @@
 layout: page
 title: ​龙门训练营
 description: W:9 L:18 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1138 🔺  (1022)|
-| ELO Competitive | 1265 🔺  (270)|
+| ELO Competitive | 1265 🔺  (271)|
 | Total Matches | 27 |
 | Wins | 9 |
 | Losses | 18 |

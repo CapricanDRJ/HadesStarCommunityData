@@ -2,13 +2,14 @@
 layout: page
 title: ​OPA
 description: W:26 L:10 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1342 🔻  (71)|
-| ELO Competitive | 1369 🔻  (108)|
+| ELO Regular | 1342 🔻  (72)|
+| ELO Competitive | 1369 🔻  (109)|
 | Total Matches | 36 |
 | Wins | 26 |
 | Losses | 10 |

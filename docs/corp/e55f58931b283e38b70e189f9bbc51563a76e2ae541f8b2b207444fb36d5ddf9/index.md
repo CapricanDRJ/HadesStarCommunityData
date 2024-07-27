@@ -2,6 +2,7 @@
 layout: page
 title: ​Cydonia Order
 description: W:2 L:10 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

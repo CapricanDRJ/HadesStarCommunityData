@@ -2,6 +2,7 @@
 layout: page
 title: ​Blue Space
 description: W:4 L:5 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

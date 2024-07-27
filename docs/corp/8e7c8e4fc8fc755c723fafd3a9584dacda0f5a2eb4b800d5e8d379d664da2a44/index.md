@@ -2,12 +2,13 @@
 layout: page
 title: ​8 русский рейх
 description: W:1 L:0 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1222 🔺  (312)|
+| ELO Regular | 1222 🔺  (311)|
 | ELO Competitive | 1222 🔺  (396)|
 | Total Matches | 1 |
 | Wins | 1 |

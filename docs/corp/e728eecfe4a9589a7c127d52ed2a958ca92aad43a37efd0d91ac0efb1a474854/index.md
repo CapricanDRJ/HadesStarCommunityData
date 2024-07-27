@@ -2,13 +2,14 @@
 layout: page
 title: ​Hun Avengers
 description: W:12 L:13 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1181 🔻  (750)|
-| ELO Competitive | 1288 🔻  (225)|
+| ELO Competitive | 1288 🔻  (224)|
 | Total Matches | 25 |
 | Wins | 12 |
 | Losses | 13 |

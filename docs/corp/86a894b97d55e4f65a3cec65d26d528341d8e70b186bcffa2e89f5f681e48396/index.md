@@ -2,6 +2,7 @@
 layout: page
 title: ​Stella☆Glow
 description: W:26 L:11 D:1 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

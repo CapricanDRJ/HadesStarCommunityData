@@ -2,12 +2,13 @@
 layout: page
 title: ​Offshore Trash
 description: W:2 L:2 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1219 🔻  (319)|
+| ELO Regular | 1219 🔻  (318)|
 | ELO Competitive | 1225 🔻  (383)|
 | Total Matches | 4 |
 | Wins | 2 |

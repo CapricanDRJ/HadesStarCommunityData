@@ -2,12 +2,13 @@
 layout: page
 title: ​The Titans Pro
 description: W:1 L:0 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1218 🔺  (323)|
+| ELO Regular | 1218 🔺  (322)|
 | ELO Competitive | 1223 🔺  (390)|
 | Total Matches | 1 |
 | Wins | 1 |

@@ -2,6 +2,7 @@
 layout: page
 title: ​Dark Sun
 description: W:6 L:11 D:2 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

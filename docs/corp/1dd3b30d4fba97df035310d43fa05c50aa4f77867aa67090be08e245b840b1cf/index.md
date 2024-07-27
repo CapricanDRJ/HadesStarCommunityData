@@ -2,13 +2,14 @@
 layout: page
 title: ​Solysis
 description: W:3 L:7 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1137 🔻  (1027)|
-| ELO Competitive | 1150 🔻  (1053)|
+| ELO Competitive | 1150 🔻  (1052)|
 | Total Matches | 10 |
 | Wins | 3 |
 | Losses | 7 |

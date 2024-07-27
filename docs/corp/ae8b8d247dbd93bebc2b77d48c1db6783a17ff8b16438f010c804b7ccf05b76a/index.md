@@ -2,13 +2,14 @@
 layout: page
 title: ​Созидание 2.0
 description: W:9 L:16 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1137 🔺  (1030)|
-| ELO Competitive | 1148 🔺  (1059)|
+| ELO Competitive | 1148 🔺  (1058)|
 | Total Matches | 25 |
 | Wins | 9 |
 | Losses | 16 |

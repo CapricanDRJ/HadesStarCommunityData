@@ -2,6 +2,7 @@
 layout: page
 title: ​Hellfire Club
 description: W:29 L:23 D:0 Bonus ✅
+date: NaN
 ---
 ### Whitestar Bonus ✅
 

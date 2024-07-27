@@ -2,12 +2,13 @@
 layout: page
 title: ​Rogue Dudes
 description: W:2 L:0 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1230 🔺  (277)|
+| ELO Regular | 1230 🔺  (276)|
 | ELO Competitive | 1230 🔺  (365)|
 | Total Matches | 2 |
 | Wins | 2 |

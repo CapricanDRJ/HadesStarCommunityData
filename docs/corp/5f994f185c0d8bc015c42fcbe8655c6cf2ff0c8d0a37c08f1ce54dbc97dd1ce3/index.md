@@ -2,12 +2,13 @@
 layout: page
 title: ​Veil of Maya
 description: W:4 L:2 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1224 🔻  (308)|
+| ELO Regular | 1224 🔻  (307)|
 | ELO Competitive | 1224 🔻  (388)|
 | Total Matches | 6 |
 | Wins | 4 |

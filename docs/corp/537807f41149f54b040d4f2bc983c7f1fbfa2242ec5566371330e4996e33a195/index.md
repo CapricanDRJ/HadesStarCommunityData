@@ -2,6 +2,7 @@
 layout: page
 title: ​Tormenta
 description: W:2 L:5 D:0 Bonus ✅
+date: NaN
 ---
 ### Whitestar Bonus ✅
 

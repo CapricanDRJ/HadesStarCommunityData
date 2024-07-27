@@ -2,12 +2,13 @@
 layout: page
 title: ​BRASIL ACADEMY
 description: W:2 L:1 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1218 🔻  (325)|
+| ELO Regular | 1218 🔻  (324)|
 | ELO Competitive | 1219 🔻  (406)|
 | Total Matches | 3 |
 | Wins | 2 |

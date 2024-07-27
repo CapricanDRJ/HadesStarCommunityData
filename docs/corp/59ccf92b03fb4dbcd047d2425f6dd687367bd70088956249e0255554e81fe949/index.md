@@ -2,13 +2,14 @@
 layout: page
 title: ​Prometheus ESP
 description: W:11 L:9 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1212 🔻  (384)|
-| ELO Competitive | 1276 🔻  (254)|
+| ELO Competitive | 1276 🔻  (255)|
 | Total Matches | 20 |
 | Wins | 11 |
 | Losses | 9 |

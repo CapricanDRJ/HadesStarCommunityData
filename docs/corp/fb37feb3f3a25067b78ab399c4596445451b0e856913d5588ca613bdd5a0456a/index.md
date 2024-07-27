@@ -2,6 +2,7 @@
 layout: page
 title: ​Castellón 
 description: W:1 L:1 D:1 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

@@ -2,12 +2,13 @@
 layout: page
 title: ​Nova Time
 description: W:13 L:1 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1338 🔺  (75)|
+| ELO Regular | 1338 🔺  (76)|
 | ELO Competitive | 1342 🔺  (141)|
 | Total Matches | 14 |
 | Wins | 13 |

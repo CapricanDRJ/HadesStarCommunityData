@@ -2,6 +2,7 @@
 layout: page
 title: ​North Star
 description: W:1 L:4 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

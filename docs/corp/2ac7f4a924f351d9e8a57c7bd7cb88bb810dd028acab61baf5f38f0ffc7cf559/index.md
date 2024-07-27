@@ -2,6 +2,7 @@
 layout: page
 title: ​Regulus
 description: W:7 L:11 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

@@ -2,12 +2,13 @@
 layout: page
 title: ​VENTORMENTA
 description: W:3 L:1 D:1 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1227 🔻  (293)|
+| ELO Regular | 1227 🔻  (292)|
 | ELO Competitive | 1227 🔻  (376)|
 | Total Matches | 5 |
 | Wins | 3 |

@@ -2,13 +2,14 @@
 layout: page
 title: ​Dark Training
 description: W:12 L:11 D:1 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1238 🔺  (249)|
-| ELO Competitive | 1276 🔺  (253)|
+| ELO Competitive | 1276 🔺  (254)|
 | Total Matches | 24 |
 | Wins | 12 |
 | Losses | 11 |

@@ -1,17 +1,18 @@
 ---
 layout: page
 title: ​GDZ
-description: W:31 L:26 D:0 Bonus ✅
+description: W:31 L:27 D:0 Bonus ✅
+date: NaN
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1231 🔻  (272)|
-| ELO Competitive | 1303 🔺  (197)|
-| Total Matches | 57 |
+| ELO Regular | 1217 🔻  (331)|
+| ELO Competitive | 1287 🔻  (226)|
+| Total Matches | 58 |
 | Wins | 31 |
-| Losses | 26 |
+| Losses | 27 |
 | Draws | 0 |
 | Streak Record | 8 |
 
@@ -32,6 +33,7 @@ description: W:31 L:26 D:0 Bonus ✅
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/27 | 19-31 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) |
 | ❌ | 2024/07/24 | 4-12 | [Торг\. федерация](https://ws.tsl.rocks/corp/915f197e5951f44128c2a3d3126141cd44b3c67a361158d2b220a5883e410310/) |
 | ✅ | 2024/07/21 | 28-2 | [YETI Collective](https://ws.tsl.rocks/corp/ff6a3c65d008d245f003a3009374e26cf38e7cda6ea4d601a9da9037296fda98/) |
 | ✅ | 2024/07/16 | 23-20 | [KLM](https://ws.tsl.rocks/corp/963e490e64d4703042415d3fcd8267ff87fbfd3383b83d447d29d842f2a446a1/) |

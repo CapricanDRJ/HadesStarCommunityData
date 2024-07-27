@@ -2,6 +2,7 @@
 layout: page
 title: ​Legion
 description: W:21 L:23 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

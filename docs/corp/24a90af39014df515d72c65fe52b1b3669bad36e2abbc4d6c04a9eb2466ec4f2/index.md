@@ -2,12 +2,13 @@
 layout: page
 title: ​LossFarm No.648
 description: W:4 L:3 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1217 🔻  (330)|
+| ELO Regular | 1217 🔻  (329)|
 | ELO Competitive | 1218 🔻  (417)|
 | Total Matches | 7 |
 | Wins | 4 |

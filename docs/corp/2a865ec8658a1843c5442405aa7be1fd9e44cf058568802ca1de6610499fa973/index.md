@@ -2,6 +2,7 @@
 layout: page
 title: ​神仙'
 description: W:8 L:11 D:3 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

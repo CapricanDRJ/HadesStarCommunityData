@@ -2,13 +2,14 @@
 layout: page
 title: ​Uniones
 description: W:0 L:4 D:2 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1139 🔻  (1021)|
-| ELO Competitive | 1146 🔻  (1066)|
+| ELO Competitive | 1146 🔻  (1065)|
 | Total Matches | 6 |
 | Wins | 0 |
 | Losses | 4 |

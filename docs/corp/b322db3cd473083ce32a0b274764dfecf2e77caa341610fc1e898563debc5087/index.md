@@ -2,12 +2,13 @@
 layout: page
 title: ​第六星际
 description: W:1 L:0 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1219 🔺  (322)|
+| ELO Regular | 1219 🔺  (321)|
 | ELO Competitive | 1219 🔺  (410)|
 | Total Matches | 1 |
 | Wins | 1 |

@@ -2,6 +2,7 @@
 layout: page
 title: ​Вселенские 40%
 description: W:18 L:20 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

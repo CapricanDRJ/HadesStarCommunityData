@@ -2,12 +2,13 @@
 layout: page
 title: ​RACNAROK
 description: W:7 L:2 D:2 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1252 🔻  (211)|
+| ELO Regular | 1252 🔻  (212)|
 | ELO Competitive | 1281 🔻  (238)|
 | Total Matches | 11 |
 | Wins | 7 |

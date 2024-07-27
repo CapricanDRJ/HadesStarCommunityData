@@ -2,13 +2,14 @@
 layout: page
 title: ​Dansk
 description: W:0 L:4 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1145 🔻  (1005)|
-| ELO Competitive | 1145 🔻  (1068)|
+| ELO Competitive | 1145 🔻  (1067)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 4 |

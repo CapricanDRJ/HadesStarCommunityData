@@ -2,12 +2,13 @@
 layout: page
 title: ​CommCody & LPA
 description: W:13 L:9 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1230 🔻  (275)|
+| ELO Regular | 1230 🔻  (274)|
 | ELO Competitive | 1256 🔻  (297)|
 | Total Matches | 22 |
 | Wins | 13 |

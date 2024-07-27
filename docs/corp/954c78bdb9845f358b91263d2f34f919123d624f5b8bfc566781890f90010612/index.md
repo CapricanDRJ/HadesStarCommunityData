@@ -2,12 +2,13 @@
 layout: page
 title: ​helvetic force
 description: W:2 L:1 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1217 🔺  (329)|
+| ELO Regular | 1217 🔺  (328)|
 | ELO Competitive | 1222 🔺  (394)|
 | Total Matches | 3 |
 | Wins | 2 |

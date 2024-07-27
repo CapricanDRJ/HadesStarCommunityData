@@ -2,13 +2,14 @@
 layout: page
 title: ​Proteus Tech
 description: W:6 L:1 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1263 🔻  (186)|
-| ELO Competitive | 1267 🔻  (267)|
+| ELO Competitive | 1267 🔻  (268)|
 | Total Matches | 7 |
 | Wins | 6 |
 | Losses | 1 |

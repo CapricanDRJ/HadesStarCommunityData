@@ -2,6 +2,7 @@
 layout: page
 title: ​Rogue One
 description: W:28 L:20 D:1 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

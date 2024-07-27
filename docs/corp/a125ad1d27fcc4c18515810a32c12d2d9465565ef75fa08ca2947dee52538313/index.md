@@ -2,12 +2,13 @@
 layout: page
 title: ​Rocket-by Baby
 description: W:0 L:6 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1123 🔻  (1060)|
+| ELO Regular | 1123 🔻  (1059)|
 | ELO Competitive | 1135 🔻  (1097)|
 | Total Matches | 6 |
 | Wins | 0 |

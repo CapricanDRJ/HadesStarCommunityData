@@ -2,12 +2,13 @@
 layout: page
 title: ​USSR
 description: W:2 L:1 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1221 🔻  (314)|
+| ELO Regular | 1221 🔻  (313)|
 | ELO Competitive | 1224 🔻  (387)|
 | Total Matches | 3 |
 | Wins | 2 |

@@ -2,6 +2,7 @@
 layout: page
 title: ​Greek Warriors
 description: W:7 L:20 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

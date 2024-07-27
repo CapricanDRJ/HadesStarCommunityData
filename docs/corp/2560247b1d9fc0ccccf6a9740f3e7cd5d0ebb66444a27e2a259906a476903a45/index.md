@@ -2,6 +2,7 @@
 layout: page
 title: ​Revólver
 description: W:8 L:12 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

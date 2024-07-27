@@ -2,13 +2,14 @@
 layout: page
 title: ​BoomTech
 description: W:18 L:5 D:1 Bonus ✅
+date: NaN
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1325 🔺  (89)|
-| ELO Competitive | 1374 🔺  (102)|
+| ELO Competitive | 1374 🔺  (103)|
 | Total Matches | 24 |
 | Wins | 18 |
 | Losses | 5 |

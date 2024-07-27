@@ -2,13 +2,14 @@
 layout: page
 title: ​universe leader
 description: W:2 L:8 D:1 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1131 🔻  (1043)|
-| ELO Competitive | 1148 🔻  (1058)|
+| ELO Competitive | 1148 🔻  (1057)|
 | Total Matches | 11 |
 | Wins | 2 |
 | Losses | 8 |

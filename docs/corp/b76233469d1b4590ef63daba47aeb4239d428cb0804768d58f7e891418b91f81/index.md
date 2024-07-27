@@ -2,13 +2,14 @@
 layout: page
 title: ​Cerulean Nebula
 description: W:14 L:10 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1247 🔺  (219)|
-| ELO Competitive | 1294 🔺  (215)|
+| ELO Regular | 1247 🔺  (220)|
+| ELO Competitive | 1294 🔺  (214)|
 | Total Matches | 24 |
 | Wins | 14 |
 | Losses | 10 |

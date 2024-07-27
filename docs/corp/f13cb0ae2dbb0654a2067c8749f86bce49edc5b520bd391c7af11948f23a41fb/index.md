@@ -2,6 +2,7 @@
 layout: page
 title: ​The X - Files
 description: W:3 L:35 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

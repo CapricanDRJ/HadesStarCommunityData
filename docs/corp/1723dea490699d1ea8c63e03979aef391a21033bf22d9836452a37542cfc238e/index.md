@@ -2,6 +2,7 @@
 layout: page
 title: ​Soul System
 description: W:0 L:9 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

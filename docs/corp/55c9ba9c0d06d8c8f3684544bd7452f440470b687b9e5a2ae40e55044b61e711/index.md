@@ -2,12 +2,13 @@
 layout: page
 title: ​BlakkFlot
 description: W:3 L:2 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1219 🔻  (320)|
+| ELO Regular | 1219 🔻  (319)|
 | ELO Competitive | 1221 🔻  (397)|
 | Total Matches | 5 |
 | Wins | 3 |

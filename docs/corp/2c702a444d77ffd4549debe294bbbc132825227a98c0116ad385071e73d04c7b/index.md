@@ -2,12 +2,13 @@
 layout: page
 title: ​仙剑3
 description: W:1 L:0 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1217 🔺  (327)|
+| ELO Regular | 1217 🔺  (326)|
 | ELO Competitive | 1217 🔺  (418)|
 | Total Matches | 1 |
 | Wins | 1 |

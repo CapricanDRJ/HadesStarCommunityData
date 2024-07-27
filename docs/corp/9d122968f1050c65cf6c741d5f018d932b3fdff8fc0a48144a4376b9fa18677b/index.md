@@ -2,6 +2,7 @@
 layout: page
 title: ​ANDROMEDA INC. 
 description: W:20 L:1 D:1 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

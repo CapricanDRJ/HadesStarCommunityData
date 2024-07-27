@@ -2,12 +2,13 @@
 layout: page
 title: ​DadCorp
 description: W:4 L:2 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1228 🔻  (285)|
+| ELO Regular | 1228 🔻  (284)|
 | ELO Competitive | 1236 🔻  (346)|
 | Total Matches | 6 |
 | Wins | 4 |

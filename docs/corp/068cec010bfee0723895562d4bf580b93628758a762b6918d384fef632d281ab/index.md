@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​СОЮЗ
-description: W:6 L:4 D:0 Bonus ❌
+description: W:7 L:4 D:0 Bonus ✅
+date: NaN
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1245 🔺  (226)|
-| ELO Competitive | 1259 🔺  (290)|
-| Total Matches | 10 |
-| Wins | 6 |
+| ELO Regular | 1259 🔺  (193)|
+| ELO Competitive | 1276 🔺  (251)|
+| Total Matches | 11 |
+| Wins | 7 |
 | Losses | 4 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 3 |
 
 ### Recurring Opponents
@@ -26,6 +27,7 @@ description: W:6 L:4 D:0 Bonus ❌
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/27 | 31-19 | [GDZ](https://ws.tsl.rocks/corp/a04890160268d05cf11f997b0a1c724fbbcfa66b2ea4cb1c4b56ca18d0425d62/) |
 | ✅ | 2024/07/06 | 46-10 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) |
 | ✅ | 2024/06/15 | 41-6 | [Anla'Shok](https://ws.tsl.rocks/corp/ee2d5a60dee46a98f5178e2807099ebca3c64db7a1fd052df34812d6d88e52a1/) |
 | ❌ | 2024/05/31 | 24-30 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) |

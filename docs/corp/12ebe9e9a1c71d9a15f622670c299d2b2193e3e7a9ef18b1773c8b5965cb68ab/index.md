@@ -2,6 +2,7 @@
 layout: page
 title: ​The Goonies
 description: W:3 L:6 D:2 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

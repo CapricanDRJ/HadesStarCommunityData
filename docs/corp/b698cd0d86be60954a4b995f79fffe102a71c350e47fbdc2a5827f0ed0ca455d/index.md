@@ -2,6 +2,7 @@
 layout: page
 title: ​Stargate Corp
 description: W:35 L:15 D:0 Bonus ✅
+date: NaN
 ---
 ### Whitestar Bonus ✅
 

@@ -2,6 +2,7 @@
 layout: page
 title: ​WTF
 description: W:1 L:2 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

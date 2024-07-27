@@ -2,6 +2,7 @@
 layout: page
 title: ​L.P.A.
 description: W:2 L:1 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

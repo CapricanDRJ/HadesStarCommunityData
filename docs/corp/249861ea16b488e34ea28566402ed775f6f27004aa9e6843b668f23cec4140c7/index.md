@@ -2,6 +2,7 @@
 layout: page
 title: ​HAL
 description: W:3 L:0 D:1 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

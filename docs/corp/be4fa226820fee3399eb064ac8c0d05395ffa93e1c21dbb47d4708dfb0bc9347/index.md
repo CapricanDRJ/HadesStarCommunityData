@@ -2,12 +2,13 @@
 layout: page
 title: ​Рейнджеры
 description: W:6 L:14 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1127 🔺  (1052)|
+| ELO Regular | 1127 🔺  (1051)|
 | ELO Competitive | 1153 🔺  (1038)|
 | Total Matches | 20 |
 | Wins | 6 |

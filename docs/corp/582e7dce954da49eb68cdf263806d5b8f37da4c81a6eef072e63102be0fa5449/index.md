@@ -2,12 +2,13 @@
 layout: page
 title: ​Argentina 1.0
 description: W:17 L:12 D:0 Bonus ✅
+date: NaN
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1249 🔺  (216)|
+| ELO Regular | 1249 🔺  (217)|
 | ELO Competitive | 1283 🔺  (232)|
 | Total Matches | 29 |
 | Wins | 17 |

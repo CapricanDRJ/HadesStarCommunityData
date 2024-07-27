@@ -2,13 +2,14 @@
 layout: page
 title: ​TROLL SQUAD
 description: W:11 L:5 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1256 🔻  (203)|
-| ELO Competitive | 1261 🔻  (282)|
+| ELO Regular | 1256 🔻  (204)|
+| ELO Competitive | 1261 🔻  (283)|
 | Total Matches | 16 |
 | Wins | 11 |
 | Losses | 5 |

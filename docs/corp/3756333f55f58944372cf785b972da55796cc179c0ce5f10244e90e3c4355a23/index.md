@@ -2,12 +2,13 @@
 layout: page
 title: ​Destroyers
 description: W:16 L:16 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1220 🔻  (317)|
+| ELO Regular | 1220 🔻  (316)|
 | ELO Competitive | 1239 🔻  (331)|
 | Total Matches | 32 |
 | Wins | 16 |

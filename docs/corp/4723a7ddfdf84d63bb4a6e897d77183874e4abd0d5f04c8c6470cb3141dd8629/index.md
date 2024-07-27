@@ -2,6 +2,7 @@
 layout: page
 title: ​Red Suns
 description: W:15 L:17 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

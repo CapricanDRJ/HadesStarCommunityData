@@ -2,13 +2,14 @@
 layout: page
 title: ​CDG
 description: W:24 L:27 D:5 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1143 🔻  (1011)|
-| ELO Competitive | 1295 🔻  (213)|
+| ELO Competitive | 1295 🔻  (212)|
 | Total Matches | 56 |
 | Wins | 24 |
 | Losses | 27 |

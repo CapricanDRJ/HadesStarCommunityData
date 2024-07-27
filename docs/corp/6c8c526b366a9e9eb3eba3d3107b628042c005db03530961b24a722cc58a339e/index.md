@@ -2,12 +2,13 @@
 layout: page
 title: ​Duchy Arrakis
 description: W:17 L:10 D:0 Bonus ✅
+date: NaN
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1255 🔻  (205)|
+| ELO Regular | 1255 🔻  (206)|
 | ELO Competitive | 1285 🔻  (230)|
 | Total Matches | 27 |
 | Wins | 17 |

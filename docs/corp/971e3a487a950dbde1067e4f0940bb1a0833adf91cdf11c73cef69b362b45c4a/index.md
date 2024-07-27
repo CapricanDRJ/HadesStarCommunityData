@@ -2,13 +2,14 @@
 layout: page
 title: ​云浪度假村↕
 description: W:2 L:6 D:1 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1140 🔺  (1017)|
-| ELO Competitive | 1146 🔺  (1064)|
+| ELO Competitive | 1146 🔺  (1063)|
 | Total Matches | 9 |
 | Wins | 2 |
 | Losses | 6 |

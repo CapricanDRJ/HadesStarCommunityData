@@ -2,6 +2,7 @@
 layout: page
 title: ​Free Thinkers 2
 description: W:3 L:43 D:1 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

@@ -2,13 +2,14 @@
 layout: page
 title: ​Lacuna Holdings
 description: W:21 L:13 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1245 🔻  (227)|
-| ELO Competitive | 1291 🔻  (218)|
+| ELO Competitive | 1291 🔻  (217)|
 | Total Matches | 34 |
 | Wins | 21 |
 | Losses | 13 |

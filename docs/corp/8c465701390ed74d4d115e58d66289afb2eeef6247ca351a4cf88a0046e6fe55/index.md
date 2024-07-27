@@ -2,13 +2,14 @@
 layout: page
 title: ​探索舰队
 description: W:16 L:13 D:1 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1190 🔻  (525)|
-| ELO Competitive | 1276 🔺  (251)|
+| ELO Competitive | 1276 🔺  (252)|
 | Total Matches | 30 |
 | Wins | 16 |
 | Losses | 13 |

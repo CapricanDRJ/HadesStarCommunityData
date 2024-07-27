@@ -2,13 +2,14 @@
 layout: page
 title: ​ANZAC Warriors
 description: W:16 L:5 D:1 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1288 🔻  (139)|
-| ELO Competitive | 1302 🔻  (198)|
+| ELO Competitive | 1302 🔻  (197)|
 | Total Matches | 22 |
 | Wins | 16 |
 | Losses | 5 |

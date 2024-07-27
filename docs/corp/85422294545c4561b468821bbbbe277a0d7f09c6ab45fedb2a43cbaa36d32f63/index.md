@@ -2,6 +2,7 @@
 layout: page
 title: ​星环建设集团
 description: W:6 L:6 D:2 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

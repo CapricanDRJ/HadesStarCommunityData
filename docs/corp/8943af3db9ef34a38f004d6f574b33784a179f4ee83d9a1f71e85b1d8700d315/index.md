@@ -2,6 +2,7 @@
 layout: page
 title: ​CSI
 description: W:1 L:5 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

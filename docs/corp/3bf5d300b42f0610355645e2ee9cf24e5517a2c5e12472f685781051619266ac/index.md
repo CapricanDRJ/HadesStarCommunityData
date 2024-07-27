@@ -2,6 +2,7 @@
 layout: page
 title: ​Sprite
 description: W:4 L:4 D:0 Bonus ✅
+date: NaN
 ---
 ### Whitestar Bonus ✅
 

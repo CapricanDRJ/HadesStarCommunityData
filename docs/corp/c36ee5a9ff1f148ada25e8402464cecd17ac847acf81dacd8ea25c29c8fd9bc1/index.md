@@ -2,13 +2,14 @@
 layout: page
 title: ​SEC
 description: W:6 L:0 D:0 Bonus ✅
+date: NaN
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1282 🔺  (153)|
-| ELO Competitive | 1290 🔺  (221)|
+| ELO Competitive | 1290 🔺  (220)|
 | Total Matches | 6 |
 | Wins | 6 |
 | Losses | 0 |

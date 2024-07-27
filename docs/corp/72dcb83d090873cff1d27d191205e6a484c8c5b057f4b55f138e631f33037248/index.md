@@ -2,6 +2,7 @@
 layout: page
 title: ​Galactic Empire
 description: W:1 L:6 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

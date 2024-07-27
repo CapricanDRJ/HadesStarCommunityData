@@ -2,12 +2,13 @@
 layout: page
 title: ​U.Y.E.U.
 description: W:4 L:11 D:3 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1121 🔻  (1064)|
+| ELO Regular | 1121 🔻  (1063)|
 | ELO Competitive | 1165 🔻  (988)|
 | Total Matches | 18 |
 | Wins | 4 |

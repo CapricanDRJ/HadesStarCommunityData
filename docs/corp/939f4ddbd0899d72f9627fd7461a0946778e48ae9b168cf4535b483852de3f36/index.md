@@ -2,12 +2,13 @@
 layout: page
 title: ​Thurn and Taxis
 description: W:2 L:0 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1230 🔺  (278)|
+| ELO Regular | 1230 🔺  (277)|
 | ELO Competitive | 1230 🔺  (366)|
 | Total Matches | 2 |
 | Wins | 2 |

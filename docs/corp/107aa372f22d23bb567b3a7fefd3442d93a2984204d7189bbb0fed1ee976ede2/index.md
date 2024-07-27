@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​星を継ぐもの
-description: W:27 L:10 D:0 Bonus ✅
+description: W:28 L:10 D:0 Bonus ✅
+date: NaN
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1337 🔺  (76)|
-| ELO Competitive | 1368 🔺  (110)|
-| Total Matches | 37 |
-| Wins | 27 |
+| ELO Regular | 1344 🔺  (67)|
+| ELO Competitive | 1375 🔺  (102)|
+| Total Matches | 38 |
+| Wins | 28 |
 | Losses | 10 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 8 |
 
 ### Recurring Opponents
@@ -27,6 +28,7 @@ description: W:27 L:10 D:0 Bonus ✅
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/27 | 22-4 | [Hades' 420](https://ws.tsl.rocks/corp/e83b8d576f0efe37e0cdc115b709de051fc57c51a2183f4cb399421766660a73/) |
 | ✅ | 2024/07/21 | 35-0 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) |
 | ✅ | 2024/07/14 | 25-0 | [Вселенские 40%](https://ws.tsl.rocks/corp/963d73346ebb929607f54404f481ac2273b4f483915b93144d0757b066a1fd99/) |
 | ❌ | 2024/07/08 | 3-20 | [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) |

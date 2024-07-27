@@ -2,12 +2,13 @@
 layout: page
 title: ​The Foundation
 description: W:3 L:1 D:1 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1231 🔺  (273)|
+| ELO Regular | 1231 🔺  (272)|
 | ELO Competitive | 1233 🔺  (355)|
 | Total Matches | 5 |
 | Wins | 3 |

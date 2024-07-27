@@ -2,12 +2,13 @@
 layout: page
 title: ​Млечный путь
 description: W:12 L:13 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1227 🔻  (292)|
+| ELO Regular | 1227 🔻  (291)|
 | ELO Competitive | 1283 🔻  (231)|
 | Total Matches | 25 |
 | Wins | 12 |

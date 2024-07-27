@@ -2,6 +2,7 @@
 layout: page
 title: ​Sentencia
 description: W:12 L:3 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

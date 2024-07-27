@@ -2,12 +2,13 @@
 layout: page
 title: ​Helion Prime
 description: W:6 L:5 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1225 🔻  (299)|
+| ELO Regular | 1225 🔻  (298)|
 | ELO Competitive | 1246 🔻  (317)|
 | Total Matches | 11 |
 | Wins | 6 |

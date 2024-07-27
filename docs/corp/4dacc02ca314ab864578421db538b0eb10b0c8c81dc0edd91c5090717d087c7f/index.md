@@ -2,13 +2,14 @@
 layout: page
 title: ​Armored Union 
 description: W:17 L:14 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1217 🔻  (328)|
-| ELO Competitive | 1301 🔻  (203)|
+| ELO Regular | 1217 🔻  (327)|
+| ELO Competitive | 1301 🔻  (202)|
 | Total Matches | 31 |
 | Wins | 17 |
 | Losses | 14 |

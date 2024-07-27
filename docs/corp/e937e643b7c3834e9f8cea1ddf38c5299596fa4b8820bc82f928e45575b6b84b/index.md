@@ -2,12 +2,13 @@
 layout: page
 title: ​N.P.C
 description: W:5 L:2 D:3 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1221 🔻  (313)|
+| ELO Regular | 1221 🔻  (312)|
 | ELO Competitive | 1227 🔻  (378)|
 | Total Matches | 10 |
 | Wins | 5 |

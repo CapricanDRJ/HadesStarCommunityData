@@ -2,12 +2,13 @@
 layout: page
 title: ​Weyland Yutani 
 description: W:12 L:23 D:3 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1126 🔻  (1054)|
+| ELO Regular | 1126 🔻  (1053)|
 | ELO Competitive | 1234 🔻  (351)|
 | Total Matches | 38 |
 | Wins | 12 |

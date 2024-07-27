@@ -2,12 +2,13 @@
 layout: page
 title: ​korea
 description: W:23 L:6 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1343 🔻  (68)|
+| ELO Regular | 1343 🔻  (69)|
 | ELO Competitive | 1368 🔻  (111)|
 | Total Matches | 29 |
 | Wins | 23 |

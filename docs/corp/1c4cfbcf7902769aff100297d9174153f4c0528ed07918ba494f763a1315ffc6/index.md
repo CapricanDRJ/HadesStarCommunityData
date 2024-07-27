@@ -2,13 +2,14 @@
 layout: page
 title: ​The Allegiant
 description: W:17 L:8 D:0 Bonus ✅
+date: NaN
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1277 🔺  (158)|
-| ELO Competitive | 1302 🔺  (199)|
+| ELO Competitive | 1302 🔺  (198)|
 | Total Matches | 25 |
 | Wins | 17 |
 | Losses | 8 |

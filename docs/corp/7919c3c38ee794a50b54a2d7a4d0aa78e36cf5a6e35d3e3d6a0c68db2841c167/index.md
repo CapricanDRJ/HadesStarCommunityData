@@ -2,12 +2,13 @@
 layout: page
 title: ​Prospectors
 description: W:4 L:3 D:1 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1217 🔻  (331)|
+| ELO Regular | 1217 🔻  (330)|
 | ELO Competitive | 1223 🔻  (389)|
 | Total Matches | 8 |
 | Wins | 4 |

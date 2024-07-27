@@ -2,13 +2,14 @@
 layout: page
 title: ​CODEX IMPERIUS
 description: W:2 L:7 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1129 🔻  (1049)|
-| ELO Competitive | 1147 🔻  (1063)|
+| ELO Competitive | 1147 🔻  (1062)|
 | Total Matches | 9 |
 | Wins | 2 |
 | Losses | 7 |

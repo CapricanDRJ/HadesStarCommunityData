@@ -2,12 +2,13 @@
 layout: page
 title: ​Kötbrüder
 description: W:3 L:0 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1229 🔺  (282)|
+| ELO Regular | 1229 🔺  (281)|
 | ELO Competitive | 1237 🔺  (341)|
 | Total Matches | 3 |
 | Wins | 3 |

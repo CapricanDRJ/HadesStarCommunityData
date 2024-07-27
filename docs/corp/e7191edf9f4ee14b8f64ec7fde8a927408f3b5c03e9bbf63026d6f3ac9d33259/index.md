@@ -2,6 +2,7 @@
 layout: page
 title: ​THE ECHAPES BEL
 description: W:0 L:5 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

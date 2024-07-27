@@ -2,13 +2,14 @@
 layout: page
 title: ​Nine's Own Goal
 description: W:26 L:15 D:2 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1246 🔻  (222)|
-| ELO Competitive | 1276 🔻  (252)|
+| ELO Regular | 1246 🔻  (223)|
+| ELO Competitive | 1276 🔻  (253)|
 | Total Matches | 43 |
 | Wins | 26 |
 | Losses | 15 |

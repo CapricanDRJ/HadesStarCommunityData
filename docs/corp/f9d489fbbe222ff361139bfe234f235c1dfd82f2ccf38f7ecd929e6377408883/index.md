@@ -2,6 +2,7 @@
 layout: page
 title: ​LANCE
 description: W:3 L:8 D:2 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

@@ -2,6 +2,7 @@
 layout: page
 title: ​Eastern Front
 description: W:30 L:34 D:1 Bonus ✅
+date: NaN
 ---
 ### Whitestar Bonus ✅
 

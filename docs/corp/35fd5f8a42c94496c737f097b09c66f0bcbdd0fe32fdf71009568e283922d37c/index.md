@@ -2,6 +2,7 @@
 layout: page
 title: ​New Horizons
 description: W:6 L:6 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

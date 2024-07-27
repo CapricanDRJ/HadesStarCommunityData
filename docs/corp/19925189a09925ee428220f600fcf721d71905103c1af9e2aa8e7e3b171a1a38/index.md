@@ -2,12 +2,13 @@
 layout: page
 title: ​First Legion
 description: W:36 L:33 D:1 Bonus ✅
+date: NaN
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1249 🔺  (215)|
+| ELO Regular | 1249 🔺  (216)|
 | ELO Competitive | 1424 🔺  (69)|
 | Total Matches | 70 |
 | Wins | 36 |

@@ -2,12 +2,13 @@
 layout: page
 title: ​夢幻之星＊分盟＊
 description: W:2 L:9 D:2 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1124 🔻  (1057)|
+| ELO Regular | 1124 🔻  (1056)|
 | ELO Competitive | 1140 🔻  (1089)|
 | Total Matches | 13 |
 | Wins | 2 |

@@ -2,6 +2,7 @@
 layout: page
 title: ​Duchy Kalladan
 description: W:1 L:1 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

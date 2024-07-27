@@ -2,6 +2,7 @@
 layout: page
 title: ​Starbond
 description: W:0 L:1 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

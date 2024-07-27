@@ -2,13 +2,14 @@
 layout: page
 title: ​资助会
 description: W:7 L:2 D:0 Bonus ✅
+date: NaN
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1264 🔺  (183)|
-| ELO Competitive | 1261 🔺  (283)|
+| ELO Competitive | 1261 🔺  (284)|
 | Total Matches | 9 |
 | Wins | 7 |
 | Losses | 2 |

@@ -2,13 +2,14 @@
 layout: page
 title: ​한국우주연합
 description: W:7 L:12 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1131 🔻  (1044)|
-| ELO Competitive | 1149 🔻  (1054)|
+| ELO Competitive | 1149 🔻  (1053)|
 | Total Matches | 19 |
 | Wins | 7 |
 | Losses | 12 |

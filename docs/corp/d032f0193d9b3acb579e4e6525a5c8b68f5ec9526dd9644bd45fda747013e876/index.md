@@ -2,13 +2,14 @@
 layout: page
 title: ​BSO Academy
 description: W:14 L:1 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1355 🔺  (61)|
-| ELO Competitive | 1369 🔺  (107)|
+| ELO Competitive | 1369 🔺  (108)|
 | Total Matches | 15 |
 | Wins | 14 |
 | Losses | 1 |

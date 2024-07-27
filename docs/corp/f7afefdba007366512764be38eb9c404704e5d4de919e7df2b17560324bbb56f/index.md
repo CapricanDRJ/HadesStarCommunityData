@@ -2,13 +2,14 @@
 layout: page
 title: ​The Seperatists
 description: W:15 L:19 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (629)|
-| ELO Competitive | 1264 🔻  (274)|
+| ELO Competitive | 1264 🔻  (275)|
 | Total Matches | 34 |
 | Wins | 15 |
 | Losses | 19 |

@@ -2,12 +2,13 @@
 layout: page
 title: ​Октябристы
 description: W:41 L:41 D:1 Bonus ✅
+date: NaN
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1224 🔺  (307)|
+| ELO Regular | 1224 🔺  (306)|
 | ELO Competitive | 1479 🔺  (33)|
 | Total Matches | 83 |
 | Wins | 41 |

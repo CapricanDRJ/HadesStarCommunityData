@@ -2,6 +2,7 @@
 layout: page
 title: ​Outland Ind.
 description: W:30 L:11 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

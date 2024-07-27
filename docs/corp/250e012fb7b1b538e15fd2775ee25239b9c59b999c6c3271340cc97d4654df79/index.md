@@ -2,12 +2,13 @@
 layout: page
 title: ​italian warrior
 description: W:12 L:16 D:1 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1222 🔺  (311)|
+| ELO Regular | 1222 🔺  (310)|
 | ELO Competitive | 1281 🔺  (239)|
 | Total Matches | 29 |
 | Wins | 12 |

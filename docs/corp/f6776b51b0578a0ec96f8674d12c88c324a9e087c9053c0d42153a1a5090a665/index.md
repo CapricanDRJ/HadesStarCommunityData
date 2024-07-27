@@ -2,12 +2,13 @@
 layout: page
 title: ​Гарри Поттер
 description: W:7 L:2 D:1 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1257 🔺  (198)|
+| ELO Regular | 1257 🔺  (199)|
 | ELO Competitive | 1278 🔺  (248)|
 | Total Matches | 10 |
 | Wins | 7 |

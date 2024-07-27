@@ -2,13 +2,14 @@
 layout: page
 title: ​우주미아
 description: W:0 L:5 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1139 🔻  (1019)|
-| ELO Competitive | 1145 🔻  (1070)|
+| ELO Competitive | 1145 🔻  (1069)|
 | Total Matches | 5 |
 | Wins | 0 |
 | Losses | 5 |

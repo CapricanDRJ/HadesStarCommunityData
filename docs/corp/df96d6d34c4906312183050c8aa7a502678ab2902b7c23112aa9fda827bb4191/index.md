@@ -2,6 +2,7 @@
 layout: page
 title: ​Spica​
 description: W:35 L:6 D:1 Bonus ✅
+date: NaN
 ---
 ### Whitestar Bonus ✅
 

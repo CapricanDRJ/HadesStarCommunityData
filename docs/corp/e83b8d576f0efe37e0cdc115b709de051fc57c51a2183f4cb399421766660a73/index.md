@@ -1,17 +1,18 @@
 ---
 layout: page
 title: ​Hades' 420
-description: W:2 L:7 D:0 Bonus ❌
+description: W:2 L:8 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1127 🔻  (1051)|
-| ELO Competitive | 1150 🔻  (1051)|
-| Total Matches | 9 |
+| ELO Regular | 1120 🔻  (1064)|
+| ELO Competitive | 1143 🔻  (1078)|
+| Total Matches | 10 |
 | Wins | 2 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
 
 
@@ -19,6 +20,7 @@ description: W:2 L:7 D:0 Bonus ❌
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/27 | 4-22 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) |
 | ❌ | 2024/07/21 | 0-16 | [Grater T](https://ws.tsl.rocks/corp/2044ad2bb7831118aae299744191230a33d196c7997f9516a20c3d0a321ba669/) |
 | ✅ | 2024/07/15 | 10-2 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) |
 | ❌ | 2024/07/07 | 9-21 | [Created](https://ws.tsl.rocks/corp/04182a4606d981d1c410b0c058248e428765c672442d912ec47218ace9004e74/) |

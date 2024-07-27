@@ -2,13 +2,14 @@
 layout: page
 title: ​中国星系集团
 description: W:7 L:1 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1287 🔺  (141)|
-| ELO Competitive | 1290 🔺  (222)|
+| ELO Competitive | 1290 🔺  (221)|
 | Total Matches | 8 |
 | Wins | 7 |
 | Losses | 1 |

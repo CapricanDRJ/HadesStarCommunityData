@@ -2,6 +2,7 @@
 layout: page
 title: ​ 星空漫游者-GR
 description: W:3 L:1 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

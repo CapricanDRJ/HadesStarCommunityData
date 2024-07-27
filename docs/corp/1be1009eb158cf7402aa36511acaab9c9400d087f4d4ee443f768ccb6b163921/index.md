@@ -2,13 +2,14 @@
 layout: page
 title: ​红日初升，其道大光
 description: W:6 L:0 D:0 Bonus ✅
+date: NaN
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1280 🔺  (155)|
-| ELO Competitive | 1261 🔺  (284)|
+| ELO Competitive | 1261 🔺  (285)|
 | Total Matches | 6 |
 | Wins | 6 |
 | Losses | 0 |

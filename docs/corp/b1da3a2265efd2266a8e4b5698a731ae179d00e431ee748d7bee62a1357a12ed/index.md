@@ -2,13 +2,14 @@
 layout: page
 title: ​＊Alfa y Omega＊
 description: W:8 L:4 D:0 Bonus ✅
+date: NaN
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1267 🔻  (176)|
-| ELO Competitive | 1292 🔺  (217)|
+| ELO Competitive | 1292 🔺  (216)|
 | Total Matches | 12 |
 | Wins | 8 |
 | Losses | 4 |

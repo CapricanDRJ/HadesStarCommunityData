@@ -2,12 +2,13 @@
 layout: page
 title: ​避难所
 description: W:9 L:8 D:2 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1225 🔺  (303)|
+| ELO Regular | 1225 🔺  (302)|
 | ELO Competitive | 1278 🔺  (247)|
 | Total Matches | 19 |
 | Wins | 9 |

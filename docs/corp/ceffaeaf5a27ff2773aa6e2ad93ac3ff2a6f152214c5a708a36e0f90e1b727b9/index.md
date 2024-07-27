@@ -2,12 +2,13 @@
 layout: page
 title: ​Девчата
 description: W:2 L:0 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1227 🔺  (291)|
+| ELO Regular | 1227 🔺  (290)|
 | ELO Competitive | 1228 🔺  (372)|
 | Total Matches | 2 |
 | Wins | 2 |

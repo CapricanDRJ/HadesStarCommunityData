@@ -2,6 +2,7 @@
 layout: page
 title: ​Grand Mechanism
 description: W:2 L:5 D:1 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

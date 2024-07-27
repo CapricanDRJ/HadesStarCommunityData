@@ -2,12 +2,13 @@
 layout: page
 title: ​Слава Украине!
 description: W:49 L:27 D:0 Bonus ✅
+date: NaN
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1342 🔻  (72)|
+| ELO Regular | 1342 🔻  (73)|
 | ELO Competitive | 1576 🔺  (3)|
 | Total Matches | 76 |
 | Wins | 49 |

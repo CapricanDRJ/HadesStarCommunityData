@@ -2,13 +2,14 @@
 layout: page
 title: ​PDC
 description: W:14 L:6 D:2 Bonus ✅
+date: NaN
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1270 🔺  (171)|
-| ELO Competitive | 1289 🔺  (224)|
+| ELO Competitive | 1289 🔺  (223)|
 | Total Matches | 22 |
 | Wins | 14 |
 | Losses | 6 |

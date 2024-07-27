@@ -2,12 +2,13 @@
 layout: page
 title: ​Hermitage
 description: W:10 L:7 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1226 🔻  (296)|
+| ELO Regular | 1226 🔻  (295)|
 | ELO Competitive | 1246 🔻  (316)|
 | Total Matches | 17 |
 | Wins | 10 |

@@ -2,12 +2,13 @@
 layout: page
 title: ​Gwiezdna Horda
 description: W:4 L:0 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1255 🔺  (207)|
+| ELO Regular | 1255 🔺  (208)|
 | ELO Competitive | 1255 🔺  (299)|
 | Total Matches | 4 |
 | Wins | 4 |

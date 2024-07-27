@@ -2,12 +2,13 @@
 layout: page
 title: ​Stellar Exports
 description: W:34 L:24 D:0 Bonus ✅
+date: NaN
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1253 🔺  (209)|
+| ELO Regular | 1253 🔺  (210)|
 | ELO Competitive | 1401 🔺  (81)|
 | Total Matches | 58 |
 | Wins | 34 |

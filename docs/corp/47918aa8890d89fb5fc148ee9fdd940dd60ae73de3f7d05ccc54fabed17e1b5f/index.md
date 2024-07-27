@@ -2,13 +2,14 @@
 layout: page
 title: ​j g f h me t y 
 description: W:5 L:9 D:1 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1146 🔻  (999)|
-| ELO Competitive | 1147 🔻  (1060)|
+| ELO Competitive | 1147 🔻  (1059)|
 | Total Matches | 15 |
 | Wins | 5 |
 | Losses | 9 |

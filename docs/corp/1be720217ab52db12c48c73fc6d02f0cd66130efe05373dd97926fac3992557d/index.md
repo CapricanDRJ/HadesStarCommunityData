@@ -2,12 +2,13 @@
 layout: page
 title: ​UAGC
 description: W:22 L:16 D:0 Bonus ✅
+date: NaN
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1256 🔺  (204)|
+| ELO Regular | 1256 🔺  (205)|
 | ELO Competitive | 1345 🔺  (139)|
 | Total Matches | 38 |
 | Wins | 22 |

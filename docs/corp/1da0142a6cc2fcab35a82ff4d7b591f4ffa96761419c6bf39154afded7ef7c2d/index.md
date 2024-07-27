@@ -2,6 +2,7 @@
 layout: page
 title: ​Orden Estelar 
 description: W:7 L:7 D:1 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

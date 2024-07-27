@@ -2,13 +2,14 @@
 layout: page
 title: ​Sector7
 description: W:0 L:4 D:1 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1144 🔻  (1007)|
-| ELO Competitive | 1144 🔻  (1073)|
+| ELO Competitive | 1144 🔻  (1072)|
 | Total Matches | 5 |
 | Wins | 0 |
 | Losses | 4 |

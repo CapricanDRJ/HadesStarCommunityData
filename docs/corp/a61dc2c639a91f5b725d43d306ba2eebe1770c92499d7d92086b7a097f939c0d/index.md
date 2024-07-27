@@ -2,6 +2,7 @@
 layout: page
 title: ​Эдем
 description: W:3 L:6 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

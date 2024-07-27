@@ -2,6 +2,7 @@
 layout: page
 title: ​日月星辰
 description: W:2 L:1 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

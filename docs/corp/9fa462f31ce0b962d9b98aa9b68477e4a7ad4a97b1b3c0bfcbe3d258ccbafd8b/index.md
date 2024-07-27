@@ -2,6 +2,7 @@
 layout: page
 title: ​新兴帝国
 description: W:3 L:4 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

@@ -2,13 +2,14 @@
 layout: page
 title: ​Battle Academy
 description: W:4 L:0 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1254 🔺  (208)|
-| ELO Competitive | 1259 🔺  (289)|
+| ELO Regular | 1254 🔺  (209)|
+| ELO Competitive | 1259 🔺  (290)|
 | Total Matches | 4 |
 | Wins | 4 |
 | Losses | 0 |

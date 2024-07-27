@@ -2,13 +2,14 @@
 layout: page
 title: ​Orion
 description: W:12 L:4 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1273 🔻  (164)|
-| ELO Competitive | 1300 🔻  (206)|
+| ELO Competitive | 1300 🔻  (205)|
 | Total Matches | 16 |
 | Wins | 12 |
 | Losses | 4 |

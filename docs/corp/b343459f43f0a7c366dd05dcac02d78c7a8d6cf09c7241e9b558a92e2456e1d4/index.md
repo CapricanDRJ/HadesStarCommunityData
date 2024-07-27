@@ -2,6 +2,7 @@
 layout: page
 title: ​Death Flight
 description: W:13 L:41 D:1 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

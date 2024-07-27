@@ -2,6 +2,7 @@
 layout: page
 title: ​Osmium Star llc
 description: W:9 L:1 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

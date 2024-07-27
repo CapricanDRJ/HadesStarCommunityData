@@ -2,6 +2,7 @@
 layout: page
 title: ​Ukr alliance 
 description: W:1 L:3 D:1 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

@@ -2,6 +2,7 @@
 layout: page
 title: ​新手联邦（新经济开发区）
 description: W:27 L:0 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 

@@ -2,13 +2,14 @@
 layout: page
 title: ​GhostNakcoorp
 description: W:23 L:15 D:0 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1250 🔻  (214)|
-| ELO Competitive | 1272 🔻  (261)|
+| ELO Regular | 1250 🔻  (215)|
+| ELO Competitive | 1272 🔻  (262)|
 | Total Matches | 38 |
 | Wins | 23 |
 | Losses | 15 |

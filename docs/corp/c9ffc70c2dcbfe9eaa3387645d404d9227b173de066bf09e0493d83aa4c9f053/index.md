@@ -2,13 +2,14 @@
 layout: page
 title: ​Лютые
 description: W:10 L:9 D:1 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1233 🔻  (267)|
-| ELO Competitive | 1301 🔻  (202)|
+| ELO Competitive | 1301 🔻  (201)|
 | Total Matches | 20 |
 | Wins | 10 |
 | Losses | 9 |

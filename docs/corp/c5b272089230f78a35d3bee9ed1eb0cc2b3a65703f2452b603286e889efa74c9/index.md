@@ -2,6 +2,7 @@
 layout: page
 title: ​tropa (BR)
 description: W:7 L:9 D:2 Bonus ❌
+date: NaN
 ---
 ### Whitestar Bonus ❌
 
