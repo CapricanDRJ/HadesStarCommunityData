@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Grater T
-description: W:8 L:8 D:0 Bonus ✅
-date: 1721556848
+description: W:9 L:8 D:0 Bonus ✅
+date: 1722047883
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1229 🔻  (282)|
-| ELO Competitive | 1264 🔺  (276)|
-| Total Matches | 16 |
-| Wins | 8 |
+| ELO Regular | 1242 🔺  (236)|
+| ELO Competitive | 1280 🔺  (241)|
+| Total Matches | 17 |
+| Wins | 9 |
 | Losses | 8 |
 | Draws | 0 |
 | Streak Record | 4 |
@@ -21,6 +21,7 @@ date: 1721556848
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/27 | 10-8 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
 | ❌ | 2024/07/21 | 3-4 | [Retarts](https://ws.tsl.rocks/corp/1556331f722d00268e3c524b12efedac51051cf48e46b2513675774b9315a155/) |
 | ✅ | 2024/07/21 | 16-0 | [Hades' 420](https://ws.tsl.rocks/corp/e83b8d576f0efe37e0cdc115b709de051fc57c51a2183f4cb399421766660a73/) |
 | ❌ | 2024/07/13 | 15-23 | [OntarioDawn](https://ws.tsl.rocks/corp/1a002c71f3aba5da5918941fa2ba4dbbfc183ad52d97d44a25718e07e6b08a03/) |

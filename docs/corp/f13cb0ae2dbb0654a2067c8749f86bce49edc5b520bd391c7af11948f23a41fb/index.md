@@ -1,24 +1,25 @@
 ---
 layout: page
 title: ​The X - Files
-description: W:3 L:35 D:0 Bonus ❌
-date: 1721420704
+description: W:3 L:36 D:0 Bonus ❌
+date: 1722050287
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 977 🔻  (1174)|
-| ELO Competitive | 997 🔻  (1181)|
-| Total Matches | 38 |
+| ELO Regular | 971 🔻  (1176)|
+| ELO Competitive | 992 🔻  (1181)|
+| Total Matches | 39 |
 | Wins | 3 |
-| Losses | 35 |
+| Losses | 36 |
 | Draws | 0 |
 
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Imperium XIII](https://ws.tsl.rocks/corp/0d52edf77b0cdeaaea6ebc20a7f5b6a60372b535bf96f556b31e2243dc8ee75a/) | 0 | 2 | 0 | 2 |
 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 0 | 6 | 0 | 6 |
 | [Corvus Ind\.](https://ws.tsl.rocks/corp/f99305aca0eca2f37971c97916647c8edd0258de0d30a3de61941700e7fb2c94/) | 0 | 2 | 0 | 2 |
 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) | 0 | 3 | 0 | 3 |
@@ -29,6 +30,7 @@ date: 1721420704
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/27 | 7-53 | [Imperium XIII](https://ws.tsl.rocks/corp/0d52edf77b0cdeaaea6ebc20a7f5b6a60372b535bf96f556b31e2243dc8ee75a/) |
 | ❌ | 2024/07/19 | 1-56 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) |
 | ❌ | 2024/07/13 | 2-37 | [Rising star](https://ws.tsl.rocks/corp/b7037efd74e829aa4ac6e49960fa44cebe1477e23d25cf1640594d9168d630db/) |
 | ✅ | 2024/07/05 | 6-3 | [Anla'Shok](https://ws.tsl.rocks/corp/ee2d5a60dee46a98f5178e2807099ebca3c64db7a1fd052df34812d6d88e52a1/) |

@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Imperium XIII
-description: W:24 L:20 D:0 Bonus ❌
-date: 1721456463
+description: W:25 L:20 D:0 Bonus ✅
+date: 1722050287
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1237 🔻  (253)|
-| ELO Competitive | 1273 🔻  (259)|
-| Total Matches | 44 |
-| Wins | 24 |
+| ELO Regular | 1242 🔺  (235)|
+| ELO Competitive | 1278 🔺  (246)|
+| Total Matches | 45 |
+| Wins | 25 |
 | Losses | 20 |
 | Draws | 0 |
 | Streak Record | 5 |
@@ -20,6 +20,7 @@ date: 1721456463
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [The X \- Files](https://ws.tsl.rocks/corp/f13cb0ae2dbb0654a2067c8749f86bce49edc5b520bd391c7af11948f23a41fb/) | 2 | 0 | 0 | 2 |
 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 0 | 2 | 0 | 2 |
 | [ANDROMEDA INC\. ](https://ws.tsl.rocks/corp/9d122968f1050c65cf6c741d5f018d932b3fdff8fc0a48144a4376b9fa18677b/) | 0 | 2 | 0 | 2 |
 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 2 | 2 | 0 | 4 |
@@ -35,6 +36,7 @@ date: 1721456463
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/27 | 53-7 | [The X \- Files](https://ws.tsl.rocks/corp/f13cb0ae2dbb0654a2067c8749f86bce49edc5b520bd391c7af11948f23a41fb/) |
 | ❌ | 2024/07/20 | 20-21 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | ❌ | 2024/07/12 | 29-38 | [VoidCorp](https://ws.tsl.rocks/corp/b866417e5607f8434347bb5f986e37c4fa7dda68b3882f0135d186043d3f68a3/) |
 | ❌ | 2024/07/06 | 13-23 | [ANDROMEDA INC\. ](https://ws.tsl.rocks/corp/9d122968f1050c65cf6c741d5f018d932b3fdff8fc0a48144a4376b9fa18677b/) |

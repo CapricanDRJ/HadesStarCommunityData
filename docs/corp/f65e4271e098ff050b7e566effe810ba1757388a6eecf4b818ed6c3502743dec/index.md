@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​宇宙联盟（中国）
-description: W:12 L:28 D:3 Bonus ❌
-date: 1721528900
+description: W:12 L:29 D:3 Bonus ❌
+date: 1722048184
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1089 🔻  (1112)|
-| ELO Competitive | 1203 🔻  (510)|
-| Total Matches | 43 |
+| ELO Regular | 1079 🔻  (1123)|
+| ELO Competitive | 1189 🔻  (632)|
+| Total Matches | 44 |
 | Wins | 12 |
-| Losses | 28 |
+| Losses | 29 |
 | Draws | 3 |
 | Streak Record | 3 |
 
@@ -30,6 +30,7 @@ date: 1721528900
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/27 | 0-12 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) |
 | ❌ | 2024/07/21 | 0-10 | [使命白星](https://ws.tsl.rocks/corp/88e828c55c07286950a3296b00ca2a7a9cc2f1a0139e9cf4c6e54229f821e952/) |
 | ↔️ | 2024/07/15 | 0-0 | [империя тьмы](https://ws.tsl.rocks/corp/4eb22a1b793e5d03579cea15c873b1bef56fea02420a4e55edb18a200f7fc46a/) |
 | ❌ | 2024/07/15 | 0-22 | [RGW](https://ws.tsl.rocks/corp/48a0b2c0f203025d10d1217dbcc5e27f3e31f56f2c407d61219c24ec88446be7/) |
