@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​русь 
-description: W:45 L:25 D:0 Bonus ❌
-date: 1721445944
+description: W:46 L:25 D:0 Bonus ✅
+date: 1722061406
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1289 🔻  (135)|
-| ELO Competitive | 1461 🔻  (42)|
-| Total Matches | 70 |
-| Wins | 45 |
+| ELO Regular | 1300 🔺  (120)|
+| ELO Competitive | 1468 🔺  (37)|
+| Total Matches | 71 |
+| Wins | 46 |
 | Losses | 25 |
 | Draws | 0 |
 | Streak Record | 11 |
@@ -41,6 +41,7 @@ date: 1721445944
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/27 | 39-21 | [EZCO](https://ws.tsl.rocks/corp/cfad990cabcdc1326c0aa3f93a57d1f0e6ec3cd2949e01e6b08443c3af8282f1/) |
 | ❌ | 2024/07/20 | 31-67 | [Grunthal Gang](https://ws.tsl.rocks/corp/0ab98cd1f1b195397b27360ea0dee2527f1504c9f5d4867e719d6f1f73efb01d/) |
 | ❌ | 2024/07/19 | 11-38 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) |
 | ✅ | 2024/07/13 | 28-10 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) |

@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​九州分团
-description: W:30 L:36 D:2 Bonus ✅
-date: 1721976355
+description: W:31 L:36 D:2 Bonus ✅
+date: 1722062007
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1279 🔺  (157)|
-| ELO Competitive | 1353 🔺  (128)|
-| Total Matches | 68 |
-| Wins | 30 |
+| ELO Regular | 1290 🔺  (136)|
+| ELO Competitive | 1354 🔺  (128)|
+| Total Matches | 69 |
+| Wins | 31 |
 | Losses | 36 |
 | Draws | 2 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 7 |
 
 ### Recurring Opponents
@@ -36,6 +36,7 @@ date: 1721976355
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/27 | 13-6 | [Ẁhıťɛ Ṣօᴌᴧᴙɨṣ](https://ws.tsl.rocks/corp/4019e0b42b27f4016da780eed9d3c84aec7ad9d180e90febddb3a9a22dac131c/) |
 | ✅ | 2024/07/26 | 14-3 | [Seila](https://ws.tsl.rocks/corp/8749ed87cb9e85c88599f3bb9f9159e00561229eb1690cb36d565a054638cc52/) |
 | ✅ | 2024/07/22 | 14-0 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |
 | ✅ | 2024/07/21 | 22-6 | [Sternenflotte](https://ws.tsl.rocks/corp/6273be8c33cae6938fe5608aa5cf5a78e740f71dd888477b437e47ec106c0a0d/) |

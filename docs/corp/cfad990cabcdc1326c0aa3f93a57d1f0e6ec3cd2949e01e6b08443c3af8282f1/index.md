@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​EZCO
-description: W:13 L:14 D:1 Bonus ❌
-date: 1721472991
+description: W:13 L:15 D:1 Bonus ❌
+date: 1722061406
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1207 🔻  (400)|
-| ELO Competitive | 1272 🔻  (264)|
-| Total Matches | 28 |
+| ELO Regular | 1196 🔻  (481)|
+| ELO Competitive | 1264 🔻  (276)|
+| Total Matches | 29 |
 | Wins | 13 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 1 |
 | Streak Record | 6 |
 
@@ -29,6 +29,7 @@ date: 1721472991
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/27 | 21-39 | [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) |
 | ❌ | 2024/07/20 | 4-24 | [Spacefleet](https://ws.tsl.rocks/corp/517f7b257f68936f7a95a478d6923776a2549b88897bae628fd35b23572d3cbd/) |
 | ❌ | 2024/07/13 | 0-17 | [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) |
 | ❌ | 2024/07/13 | 10-53 | [Hamburg AG 2](https://ws.tsl.rocks/corp/d4075195191cabef801494d3accc0e6cc8c09f534fd9203f6e43c9930acffa56/) |

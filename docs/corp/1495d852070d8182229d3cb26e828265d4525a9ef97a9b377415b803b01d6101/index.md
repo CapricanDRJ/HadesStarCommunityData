@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​Галактика Зла
-description: W:12 L:14 D:0 Bonus ✅
+description: W:12 L:14 D:0 Bonus ❌
 date: 1721437231
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1245 🔺  (228)|
+| ELO Regular | 1245 🔺  (229)|
 | ELO Competitive | 1262 🔺  (280)|
 | Total Matches | 26 |
 | Wins | 12 |

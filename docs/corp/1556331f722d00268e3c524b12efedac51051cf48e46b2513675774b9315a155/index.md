@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​Retarts
-description: W:13 L:16 D:1 Bonus ✅
-date: 1721556848
+description: W:14 L:16 D:1 Bonus ✅
+date: 1722061105
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1242 🔺  (234)|
-| ELO Competitive | 1308 🔺  (190)|
-| Total Matches | 30 |
-| Wins | 13 |
+| ELO Regular | 1251 🔺  (214)|
+| ELO Competitive | 1316 🔺  (174)|
+| Total Matches | 31 |
+| Wins | 14 |
 | Losses | 16 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 4 |
 
 
@@ -21,6 +22,7 @@ date: 1721556848
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/27 | 14-5 | [Dumpster Fire](https://ws.tsl.rocks/corp/f191bf7efb93ca805453b3e11aef9278976a4c70fe9790e7813f28fcdf899121/) |
 | ✅ | 2024/07/21 | 4-3 | [Grater T](https://ws.tsl.rocks/corp/2044ad2bb7831118aae299744191230a33d196c7997f9516a20c3d0a321ba669/) |
 | ❌ | 2024/07/21 | 13-17 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) |
 | ✅ | 2024/07/14 | 5-4 | [Germania](https://ws.tsl.rocks/corp/e088c9a1e761ef8c1f07a1d374886006b0ecace15d07b9549e3655729b630897/) |

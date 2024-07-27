@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Dumpster Fire
-description: W:15 L:31 D:0 Bonus ❌
-date: 1721427316
+description: W:15 L:33 D:0 Bonus ❌
+date: 1722061105
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1095 🔺  (1103)|
-| ELO Competitive | 1153 🔺  (1040)|
-| Total Matches | 46 |
+| ELO Regular | 1074 🔻  (1127)|
+| ELO Competitive | 1144 🔻  (1074)|
+| Total Matches | 48 |
 | Wins | 15 |
-| Losses | 31 |
+| Losses | 33 |
 | Draws | 0 |
 | Streak Record | 3 |
 
@@ -20,6 +20,7 @@ date: 1721427316
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Rising star](https://ws.tsl.rocks/corp/b7037efd74e829aa4ac6e49960fa44cebe1477e23d25cf1640594d9168d630db/) | 0 | 2 | 0 | 2 |
 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) | 0 | 2 | 0 | 2 |
 | [Tuatha De Danan](https://ws.tsl.rocks/corp/7741dbd0c9e7ddbc162e374691cb3346e4bb6600840f7962ec4a4414d5d2f780/) | 0 | 2 | 0 | 2 |
 
@@ -27,6 +28,8 @@ date: 1721427316
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/27 | 5-14 | [Retarts](https://ws.tsl.rocks/corp/1556331f722d00268e3c524b12efedac51051cf48e46b2513675774b9315a155/) |
+| ❌ | 2024/07/27 | 9-33 | [Rising star](https://ws.tsl.rocks/corp/b7037efd74e829aa4ac6e49960fa44cebe1477e23d25cf1640594d9168d630db/) |
 | ✅ | 2024/07/19 | 15-6 | [Nebula](https://ws.tsl.rocks/corp/38bd8c92bc5f2d4ff240d58da260855d87eb4c2c4a241735c5d72215d4a191fb/) |
 | ❌ | 2024/07/19 | 0-29 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
 | ❌ | 2024/07/08 | 5-37 | [Argentina 1\.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449/) |

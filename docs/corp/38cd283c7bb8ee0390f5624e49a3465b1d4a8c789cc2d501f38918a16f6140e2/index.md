@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​[Blue＊Nation]
-description: W:30 L:6 D:0 Bonus ❌
-date: 1720851164
+description: W:31 L:6 D:0 Bonus ✅
+date: 1722053292
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1468 🔺  (12)|
-| ELO Competitive | 1499 🔺  (22)|
-| Total Matches | 36 |
-| Wins | 30 |
+| ELO Regular | 1473 🔺  (12)|
+| ELO Competitive | 1509 🔺  (19)|
+| Total Matches | 37 |
+| Wins | 31 |
 | Losses | 6 |
 | Draws | 0 |
-| Streak | 21 |
-| Streak Record | 21 |
+| Streak | 22 |
+| Streak Record | 22 |
 
 ### Recurring Opponents
 
@@ -31,6 +31,7 @@ date: 1720851164
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/27 | 26-1 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ✅ | 2024/07/13 | 28-3 | [StellaMysterium](https://ws.tsl.rocks/corp/cfaaa81ed93cc9361ade470c3414c73ecf77068badd68d624c7b3f486d142b10/) |
 | ✅ | 2024/07/06 | 29-4 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |
 | ✅ | 2024/06/29 | 28-18 | [Дом Датэ](https://ws.tsl.rocks/corp/10cbcbd91c4084657bdab01ef573cc48170fbc4dd0ab533f96712f1cb6097ff2/) |
