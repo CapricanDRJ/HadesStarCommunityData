@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​  边界  
-description: W:6 L:1 D:0 Bonus ✅
-date: 1721723333
+description: W:6 L:2 D:0 Bonus ✅
+date: 1722074326
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1272 🔺  (166)|
-| ELO Competitive | 1270 🔺  (267)|
-| Total Matches | 7 |
+| ELO Regular | 1263 🔻  (186)|
+| ELO Competitive | 1262 🔻  (280)|
+| Total Matches | 8 |
 | Wins | 6 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
-| Streak | 6 |
 | Streak Record | 6 |
 
 
@@ -22,6 +21,7 @@ date: 1721723333
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/27 | 13-24 | [Mercury Sunset](https://ws.tsl.rocks/corp/2771ec0a0e9523f8a7b62dd470c9ab87bf2bcf2b13fb47f6f97ea826337b2b20/) |
 | ✅ | 2024/07/23 | 13-0 | [United Artists](https://ws.tsl.rocks/corp/93a82bb8d95632fd7f9abd3f024e8e9ff678aa31dec4c91872c8a4464b660686/) |
 | ✅ | 2024/07/22 | 22-4 | [永恒之梦](https://ws.tsl.rocks/corp/51524c100011292acfff96dc47f5b506950922c6e467b1586d5c571cc281fd4d/) |
 | ✅ | 2024/07/17 | 17-1 | [The New Light](https://ws.tsl.rocks/corp/73c87b4394c7e44aa0fa6996ae32e7448f956391dac8b5d025da6019d3062cfc/) |

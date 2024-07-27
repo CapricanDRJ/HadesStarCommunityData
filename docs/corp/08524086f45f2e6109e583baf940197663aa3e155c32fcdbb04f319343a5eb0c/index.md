@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​Looping
-description: W:22 L:12 D:0 Bonus ✅
-date: 1721551139
+description: W:23 L:12 D:0 Bonus ✅
+date: 1722078533
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1309 🔺  (110)|
-| ELO Competitive | 1357 🔺  (124)|
-| Total Matches | 34 |
-| Wins | 22 |
+| ELO Regular | 1322 🔺  (94)|
+| ELO Competitive | 1373 🔺  (103)|
+| Total Matches | 35 |
+| Wins | 23 |
 | Losses | 12 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 9 |
 
 ### Recurring Opponents
@@ -27,6 +28,7 @@ date: 1721551139
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/27 | 20-5 | [绛紫星](https://ws.tsl.rocks/corp/8c2109279ceb01bcca0aa5e85c151d5877831ac54199285743750e2ed343b407/) |
 | ✅ | 2024/07/21 | 33-0 | [KARI](https://ws.tsl.rocks/corp/4434276aa1aebbe4c0a69ac51dff9c243c5287d00096e12c87e8590318a2ab65/) |
 | ❌ | 2024/06/28 | 4-27 | [Corvus Ind\.](https://ws.tsl.rocks/corp/f99305aca0eca2f37971c97916647c8edd0258de0d30a3de61941700e7fb2c94/) |
 | ❌ | 2024/06/22 | 3-17 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |

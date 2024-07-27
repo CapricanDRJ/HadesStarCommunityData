@@ -1,26 +1,32 @@
 ---
 layout: page
 title: ​Halcon español
-description: W:20 L:9 D:0 Bonus ❌
-date: 1721503356
+description: W:20 L:10 D:0 Bonus ❌
+date: 1722082140
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1291 🔻  (133)|
-| ELO Competitive | 1309 🔻  (189)|
-| Total Matches | 29 |
+| ELO Regular | 1273 🔻  (163)|
+| ELO Competitive | 1297 🔻  (207)|
+| Total Matches | 30 |
 | Wins | 20 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 0 |
 | Streak Record | 9 |
 
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) | 1 | 1 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/27 | 10-14 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
 | ❌ | 2024/07/20 | 5-15 | [Север РусКорп](https://ws.tsl.rocks/corp/39eeae12a2a5fead3330938b8f38c71aab465634b732303dad7b2a7d5f472004/) |
 | ❌ | 2024/07/13 | 9-23 | [宇宙银河帝国](https://ws.tsl.rocks/corp/afb9817e45c3c79048d2be30be3b635704485d260ae7b474b579a019d56d3c2d/) |
 | ❌ | 2024/07/06 | 0-11 | [碧霄殿](https://ws.tsl.rocks/corp/7e12fd0fd0a01af1c797f73316b305a21078e46bd75758850438f20357276ebf/) |

@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Mercury Sunset
-description: W:21 L:0 D:0 Bonus ✅
-date: 1721476899
+description: W:22 L:0 D:0 Bonus ✅
+date: 1722074326
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1429 🔺  (22)|
-| ELO Competitive | 1465 🔺  (41)|
-| Total Matches | 21 |
-| Wins | 21 |
+| ELO Regular | 1438 🔺  (20)|
+| ELO Competitive | 1472 🔺  (37)|
+| Total Matches | 22 |
+| Wins | 22 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 21 |
-| Streak Record | 21 |
+| Streak | 22 |
+| Streak Record | 22 |
 
 ### Recurring Opponents
 
@@ -27,6 +27,7 @@ date: 1721476899
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/27 | 24-13 | [  边界  ](https://ws.tsl.rocks/corp/86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a/) |
 | ✅ | 2024/07/20 | 35-1 | [无聊不过](https://ws.tsl.rocks/corp/6099bd39cf8510ea3ef2be0fe05df95266b12acfdcbe1bd58a4c33e9c3f25934/) |
 | ✅ | 2024/07/12 | 22-2 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
 | ✅ | 2024/07/05 | 41-0 | [Utd\. Human Fed\.](https://ws.tsl.rocks/corp/265fd73116c2ec237c7a966adb401d54219dee49882ee9024025c697165397d6/) |

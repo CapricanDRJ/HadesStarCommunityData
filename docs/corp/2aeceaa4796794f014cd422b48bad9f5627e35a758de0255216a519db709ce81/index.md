@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Order of Hades
-description: W:50 L:18 D:0 Bonus ✅
-date: 1722030457
+description: W:51 L:18 D:0 Bonus ✅
+date: 1722080938
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1371 🔻  (50)|
-| ELO Competitive | 1473 🔻  (36)|
-| Total Matches | 68 |
-| Wins | 50 |
+| ELO Regular | 1377 🔺  (49)|
+| ELO Competitive | 1492 🔺  (24)|
+| Total Matches | 69 |
+| Wins | 51 |
 | Losses | 18 |
 | Draws | 0 |
 | Streak Record | 18 |
@@ -34,6 +34,7 @@ date: 1722030457
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/27 | 41-7 | [Ironbear Legion](https://ws.tsl.rocks/corp/256873683be88bf78e3d4f1fda68e669c8be11e78a85f9add19e60facc9831b0/) |
 | ❌ | 2024/07/26 | 24-28 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) |
 | ✅ | 2024/07/20 | 15-13 | [Omega Alpha](https://ws.tsl.rocks/corp/b6e23a3f1f3a3c735c694624b273dcd7da2f8bd13a5ac2b36a8ad39737b1d062/) |
 | ❌ | 2024/07/20 | 11-15 | [BRASIL STAR](https://ws.tsl.rocks/corp/94fc4639f17e4503a11d4ac3878f3203bca3f21baebf285433ff39ad37f0fff2/) |

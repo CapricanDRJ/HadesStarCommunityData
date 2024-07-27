@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Space Penguins
-description: W:36 L:10 D:0 Bonus ✅
-date: 1721466680
+description: W:37 L:10 D:0 Bonus ✅
+date: 1722076730
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1401 🔺  (35)|
-| ELO Competitive | 1451 🔺  (46)|
-| Total Matches | 46 |
-| Wins | 36 |
+| ELO Regular | 1408 🔺  (30)|
+| ELO Competitive | 1461 🔺  (43)|
+| Total Matches | 47 |
+| Wins | 37 |
 | Losses | 10 |
 | Draws | 0 |
-| Streak | 6 |
+| Streak | 7 |
 | Streak Record | 12 |
 
 ### Recurring Opponents
@@ -33,6 +33,7 @@ date: 1721466680
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/27 | 42-26 | [Sith Empire](https://ws.tsl.rocks/corp/7deb3943434ee3aa56bb4c29a0fb0831bcbc4b570a58a2809ea1a549b7df328e/) |
 | ✅ | 2024/07/20 | 28-26 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) |
 | ✅ | 2024/07/13 | 48-3 | [Держава Русь](https://ws.tsl.rocks/corp/cbf11e25cee65a6c529251b7f47a35d9e4ba7bb9d640f384605541637e931672/) |
 | ✅ | 2024/07/06 | 52-3 | [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/) |

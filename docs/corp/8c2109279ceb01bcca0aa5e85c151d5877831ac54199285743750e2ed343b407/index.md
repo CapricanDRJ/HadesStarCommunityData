@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​绛紫星
-description: W:24 L:15 D:2 Bonus ✅
-date: 1721475997
+description: W:24 L:16 D:2 Bonus ✅
+date: 1722078533
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1264 🔺  (184)|
-| ELO Competitive | 1387 🔺  (94)|
-| Total Matches | 41 |
+| ELO Regular | 1251 🔻  (214)|
+| ELO Competitive | 1371 🔻  (107)|
+| Total Matches | 42 |
 | Wins | 24 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 2 |
 | Streak Record | 5 |
 
@@ -28,6 +28,7 @@ date: 1721475997
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/27 | 5-20 | [Looping](https://ws.tsl.rocks/corp/08524086f45f2e6109e583baf940197663aa3e155c32fcdbb04f319343a5eb0c/) |
 | ✅ | 2024/07/20 | 19-8 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) |
 | ↔️ | 2024/07/12 | 11-11 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
 | ✅ | 2024/07/04 | 21-1 | [Alpha ](https://ws.tsl.rocks/corp/accb87a59c1f019d1be37fa2b19ae2aeb35c4a995d1d621a8e987065cd1328fe/) |

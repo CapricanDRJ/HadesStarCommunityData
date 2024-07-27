@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Sith Empire
-description: W:19 L:29 D:0 Bonus ❌
-date: 1721404169
+description: W:19 L:30 D:0 Bonus ❌
+date: 1722076730
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1194 🔺  (499)|
-| ELO Competitive | 1337 🔺  (149)|
-| Total Matches | 48 |
+| ELO Regular | 1187 🔻  (572)|
+| ELO Competitive | 1326 🔻  (164)|
+| Total Matches | 49 |
 | Wins | 19 |
-| Losses | 29 |
+| Losses | 30 |
 | Draws | 0 |
-| Streak | 3 |
 | Streak Record | 4 |
 
 ### Recurring Opponents
@@ -36,6 +35,7 @@ date: 1721404169
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/27 | 26-42 | [Space Penguins](https://ws.tsl.rocks/corp/6255ba7dab1bd2b150825874d1fea70b029dc79434f293d47518c27b0376e286/) |
 | ✅ | 2024/07/19 | 43-29 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) |
 | ✅ | 2024/07/13 | 39-7 | [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/) |
 | ✅ | 2024/07/06 | 36-13 | [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) |

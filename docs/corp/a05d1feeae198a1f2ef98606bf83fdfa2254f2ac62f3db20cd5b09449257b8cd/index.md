@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​DarkSide
-description: W:27 L:34 D:1 Bonus ❌
-date: 1721706808
+description: W:28 L:34 D:1 Bonus ✅
+date: 1722082140
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1230 🔻  (276)|
-| ELO Competitive | 1393 🔺  (85)|
-| Total Matches | 62 |
-| Wins | 27 |
+| ELO Regular | 1248 🔺  (221)|
+| ELO Competitive | 1405 🔺  (79)|
+| Total Matches | 63 |
+| Wins | 28 |
 | Losses | 34 |
 | Draws | 1 |
 | Streak Record | 6 |
@@ -20,6 +20,7 @@ date: 1721706808
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Halcon español](https://ws.tsl.rocks/corp/ab9c3038dcf2b019ba662007ab1e50b2d80e0eb8e7a65e57dd5260a6d2e80ff9/) | 1 | 1 | 0 | 2 |
 | [Mercury Sunset](https://ws.tsl.rocks/corp/2771ec0a0e9523f8a7b62dd470c9ab87bf2bcf2b13fb47f6f97ea826337b2b20/) | 0 | 3 | 0 | 3 |
 | [империя тьмы](https://ws.tsl.rocks/corp/4eb22a1b793e5d03579cea15c873b1bef56fea02420a4e55edb18a200f7fc46a/) | 2 | 0 | 0 | 2 |
 | [Kratos](https://ws.tsl.rocks/corp/1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b/) | 1 | 1 | 0 | 2 |
@@ -35,6 +36,7 @@ date: 1721706808
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/27 | 14-10 | [Halcon español](https://ws.tsl.rocks/corp/ab9c3038dcf2b019ba662007ab1e50b2d80e0eb8e7a65e57dd5260a6d2e80ff9/) |
 | ❌ | 2024/07/23 | 2-3 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 | ✅ | 2024/07/19 | 29-0 | [Dumpster Fire](https://ws.tsl.rocks/corp/f191bf7efb93ca805453b3e11aef9278976a4c70fe9790e7813f28fcdf899121/) |
 | ✅ | 2024/07/15 | 5-4 | [Brasil](https://ws.tsl.rocks/corp/c1d98a4e0a9c522aff7cb4156b0dc139eb54566269c2203b2eae6fe1827fc6c3/) |

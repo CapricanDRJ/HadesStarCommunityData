@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Ironbear Legion
-description: W:14 L:25 D:0 Bonus ❌
-date: 1721335643
+description: W:14 L:26 D:0 Bonus ❌
+date: 1722080938
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1123 🔻  (1062)|
-| ELO Competitive | 1178 🔻  (865)|
-| Total Matches | 39 |
+| ELO Regular | 1117 🔻  (1071)|
+| ELO Competitive | 1174 🔻  (909)|
+| Total Matches | 40 |
 | Wins | 14 |
-| Losses | 25 |
+| Losses | 26 |
 | Draws | 0 |
 | Streak Record | 7 |
 
@@ -29,6 +29,7 @@ date: 1721335643
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/27 | 7-41 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) |
 | ❌ | 2024/07/18 | 4-14 | [NoweUkladyII](https://ws.tsl.rocks/corp/9d1a50e524f7abc0623ab7e010875dfcce9e5682a06ebc4aee47e972d258493c/) |
 | ✅ | 2024/07/11 | 32-8 | [Trade Station](https://ws.tsl.rocks/corp/7003e286fe1a04aaa63e3aa318c164856c07e251a94b0496757140f5eda72cd7/) |
 | ❌ | 2024/06/29 | 21-35 | [Dacia Chill](https://ws.tsl.rocks/corp/b38c6a1ce87d3b7937da53dddc33cbdfc7152ab1e5023f2308ee9c81a1633208/) |
