@@ -1,16 +1,16 @@
 ---
 layout: page
 title: ​Sprite
-description: W:3 L:4 D:0 Bonus ❌
+description: W:4 L:4 D:0 Bonus ✅
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1202 🔻  (421)|
-| ELO Competitive | 1209 🔻  (486)|
-| Total Matches | 7 |
-| Wins | 3 |
+| ELO Regular | 1217 🔺  (332)|
+| ELO Competitive | 1225 🔺  (384)|
+| Total Matches | 8 |
+| Wins | 4 |
 | Losses | 4 |
 | Draws | 0 |
 | Streak Record | 2 |
@@ -20,6 +20,7 @@ description: W:3 L:4 D:0 Bonus ❌
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/26 | 16-8 | [CTG](https://ws.tsl.rocks/corp/9647a8507dfa5637a217d2d6a0ad47aefb6a4563f910ad46376c228450cff43c/) |
 | ❌ | 2024/07/19 | 5-23 | [CIS](https://ws.tsl.rocks/corp/3efaab24560531ff257e73bfb281a7e9c0a9d591ac5aff55d05d35f2fb5e1d73/) |
 | ✅ | 2024/07/11 | 23-0 | [Simply Uranus](https://ws.tsl.rocks/corp/951c4b2ef77de2b24b3e3b3cd962679643a8fae1131e289d4ed60482d10aff45/) |
 | ✅ | 2024/07/06 | 21-0 | [Quin Armarda](https://ws.tsl.rocks/corp/281e5fa5950e49cecfe76d2adb80613499a0bb841567f92040bfeaea5f4ac218/) |

@@ -1,16 +1,16 @@
 ---
 layout: page
 title: ​Eastern Front
-description: W:29 L:34 D:1 Bonus ❌
+description: W:30 L:34 D:1 Bonus ✅
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (824)|
-| ELO Competitive | 1340 🔻  (142)|
-| Total Matches | 64 |
-| Wins | 29 |
+| ELO Regular | 1193 🔺  (507)|
+| ELO Competitive | 1358 🔺  (123)|
+| Total Matches | 65 |
+| Wins | 30 |
 | Losses | 34 |
 | Draws | 1 |
 | Streak Record | 4 |
@@ -28,6 +28,7 @@ description: W:29 L:34 D:1 Bonus ❌
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/27 | 4-0 | [第四星际](https://ws.tsl.rocks/corp/42d38d5f95c493cb1822f0c89a5366e532a9dc30c0019e03cf7ddd280bf55040/) |
 | ❌ | 2024/07/21 | 5-11 | [Galactic Empire](https://ws.tsl.rocks/corp/e2223ab2b582a5eb5ae1734e132358eb3c24ddf61fcbeee7b8f6708f26782108/) |
 | ❌ | 2024/07/16 | 0-11 | [AAAA](https://ws.tsl.rocks/corp/73b759d7c9218f2c1171f9ef691739331ca36ee045039f4f3f935a47b6622a27/) |
 | ❌ | 2024/07/16 | 3-10 | [2ND\-R8 Corp\.](https://ws.tsl.rocks/corp/e97866623598a98454b3a4724b472dc171f5e1aff84b076c43d021f0fabdc702/) |

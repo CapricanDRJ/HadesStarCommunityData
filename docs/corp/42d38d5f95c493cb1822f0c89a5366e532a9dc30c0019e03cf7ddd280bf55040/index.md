@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​第四星际
-description: W:25 L:9 D:2 Bonus ✅
+description: W:25 L:10 D:2 Bonus ✅
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1311 🔺  (105)|
-| ELO Competitive | 1418 🔺  (72)|
-| Total Matches | 36 |
+| ELO Regular | 1291 🔻  (133)|
+| ELO Competitive | 1400 🔻  (82)|
+| Total Matches | 37 |
 | Wins | 25 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 2 |
 | Streak Record | 7 |
 
@@ -25,6 +25,7 @@ description: W:25 L:9 D:2 Bonus ✅
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/27 | 0-4 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ✅ | 2024/07/24 | 6-1 | [神圣罗马帝国](https://ws.tsl.rocks/corp/2a71af44aaef82175cd8dfd86c9e3f218a438a7c7e748bae20d8a0d964a984ab/) |
 | ❌ | 2024/07/21 | 2-10 | [R\-6 satalite](https://ws.tsl.rocks/corp/ce3450a529768e932b3aeb4c6f39b9295e6e07d010b209d0120c0125799adc43/) |
 | ↔️ | 2024/07/18 | 3-3 | [PDC](https://ws.tsl.rocks/corp/3cfc5c94fb18b34d3a1018bfbf6d4211d3cfb18ebb02bf7784cebc1e3627de4a/) |
