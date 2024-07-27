@@ -2,7 +2,7 @@
 layout: page
 title: ​The Nerd Herd
 description: W:1 L:2 D:0 Bonus ❌
-date: NaN
+date: 1712463334
 ---
 ### Whitestar Bonus ❌
 

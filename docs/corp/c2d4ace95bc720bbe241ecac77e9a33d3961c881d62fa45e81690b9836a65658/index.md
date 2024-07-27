@@ -2,7 +2,7 @@
 layout: page
 title: ​青丘湖
 description: W:0 L:2 D:0 Bonus ❌
-date: NaN
+date: 1716330970
 ---
 ### Whitestar Bonus ❌
 

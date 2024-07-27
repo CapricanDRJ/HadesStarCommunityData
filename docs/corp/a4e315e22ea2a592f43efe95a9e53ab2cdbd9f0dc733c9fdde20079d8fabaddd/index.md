@@ -2,7 +2,7 @@
 layout: page
 title: ​Battle Academy
 description: W:4 L:0 D:0 Bonus ❌
-date: NaN
+date: 1717055612
 ---
 ### Whitestar Bonus ❌
 

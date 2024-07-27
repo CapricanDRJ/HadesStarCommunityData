@@ -2,7 +2,7 @@
 layout: page
 title: ​Алый Феникс
 description: W:4 L:9 D:0 Bonus ❌
-date: NaN
+date: 1712910118
 ---
 ### Whitestar Bonus ❌
 

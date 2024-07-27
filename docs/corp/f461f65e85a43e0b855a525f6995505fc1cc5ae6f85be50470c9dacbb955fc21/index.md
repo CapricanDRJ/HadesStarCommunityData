@@ -2,7 +2,7 @@
 layout: page
 title: ​Cowboys
 description: W:6 L:9 D:3 Bonus ❌
-date: NaN
+date: 1714959908
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​STRVS233～
 description: W:12 L:7 D:0 Bonus ✅
-date: NaN
+date: 1721912348
 ---
 ### Whitestar Bonus ✅
 

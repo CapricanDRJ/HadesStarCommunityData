@@ -2,7 +2,7 @@
 layout: page
 title: ​黑色长城
 description: W:2 L:8 D:1 Bonus ❌
-date: NaN
+date: 1708606362
 ---
 ### Whitestar Bonus ❌
 

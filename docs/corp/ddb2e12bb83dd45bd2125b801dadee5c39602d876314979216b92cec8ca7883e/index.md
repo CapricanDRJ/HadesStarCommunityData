@@ -2,7 +2,7 @@
 layout: page
 title: ​Metal Nova
 description: W:2 L:0 D:0 Bonus ❌
-date: NaN
+date: 1700618828
 ---
 ### Whitestar Bonus ❌
 

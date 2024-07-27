@@ -2,7 +2,7 @@
 layout: page
 title: ​DTC
 description: W:14 L:42 D:0 Bonus ❌
-date: NaN
+date: 1721994387
 ---
 ### Whitestar Bonus ❌
 

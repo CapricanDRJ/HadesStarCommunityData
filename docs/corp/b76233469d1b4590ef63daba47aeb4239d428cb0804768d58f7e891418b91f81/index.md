@@ -2,7 +2,7 @@
 layout: page
 title: ​Cerulean Nebula
 description: W:14 L:10 D:0 Bonus ❌
-date: NaN
+date: 1716738979
 ---
 ### Whitestar Bonus ❌
 

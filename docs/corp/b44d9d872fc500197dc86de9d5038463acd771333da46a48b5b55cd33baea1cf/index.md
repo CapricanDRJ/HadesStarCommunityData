@@ -2,7 +2,7 @@
 layout: page
 title: ​阿尔特拉集团
 description: W:19 L:22 D:2 Bonus ✅
-date: NaN
+date: 1721574885
 ---
 ### Whitestar Bonus ✅
 

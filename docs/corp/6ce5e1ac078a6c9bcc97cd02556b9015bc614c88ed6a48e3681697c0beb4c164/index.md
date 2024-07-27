@@ -2,7 +2,7 @@
 layout: page
 title: ​Saiyan Empire
 description: W:4 L:6 D:0 Bonus ❌
-date: NaN
+date: 1720963860
 ---
 ### Whitestar Bonus ❌
 

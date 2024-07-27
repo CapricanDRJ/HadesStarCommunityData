@@ -2,7 +2,7 @@
 layout: page
 title: ​The Picard
 description: W:0 L:17 D:0 Bonus ❌
-date: NaN
+date: 1716358005
 ---
 ### Whitestar Bonus ❌
 

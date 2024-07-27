@@ -2,7 +2,7 @@
 layout: page
 title: ​Диванные Стражи
 description: W:0 L:2 D:0 Bonus ❌
-date: NaN
+date: 1713557656
 ---
 ### Whitestar Bonus ❌
 

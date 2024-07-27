@@ -2,7 +2,7 @@
 layout: page
 title: ​Void Nebula
 description: W:0 L:3 D:0 Bonus ❌
-date: NaN
+date: 1701972491
 ---
 ### Whitestar Bonus ❌
 

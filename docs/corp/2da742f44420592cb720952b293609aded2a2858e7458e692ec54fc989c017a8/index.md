@@ -2,7 +2,7 @@
 layout: page
 title: ​萌新收留所（目标门集团）
 description: W:1 L:4 D:0 Bonus ❌
-date: NaN
+date: 1702529096
 ---
 ### Whitestar Bonus ❌
 

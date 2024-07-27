@@ -2,7 +2,7 @@
 layout: page
 title: ​Empire of Light
 description: W:7 L:11 D:0 Bonus ❌
-date: NaN
+date: 1713912517
 ---
 ### Whitestar Bonus ❌
 

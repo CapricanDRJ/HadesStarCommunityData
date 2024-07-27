@@ -2,7 +2,7 @@
 layout: page
 title: ​小红色太阳
 description: W:0 L:1 D:0 Bonus ❌
-date: NaN
+date: 1704690716
 ---
 ### Whitestar Bonus ❌
 

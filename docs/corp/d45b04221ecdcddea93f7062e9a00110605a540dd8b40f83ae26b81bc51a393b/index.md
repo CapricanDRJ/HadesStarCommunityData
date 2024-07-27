@@ -2,7 +2,7 @@
 layout: page
 title: ​chrtrncmndr
 description: W:0 L:2 D:0 Bonus ❌
-date: NaN
+date: 1700546696
 ---
 ### Whitestar Bonus ❌
 

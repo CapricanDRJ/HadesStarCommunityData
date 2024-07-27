@@ -2,7 +2,7 @@
 layout: page
 title: ​HighSociety
 description: W:2 L:1 D:0 Bonus ❌
-date: NaN
+date: 1706828870
 ---
 ### Whitestar Bonus ❌
 

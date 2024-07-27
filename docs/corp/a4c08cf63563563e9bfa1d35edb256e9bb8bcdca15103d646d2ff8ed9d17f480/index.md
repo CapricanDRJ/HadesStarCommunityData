@@ -2,7 +2,7 @@
 layout: page
 title: ​脉冲星际集团
 description: W:20 L:23 D:1 Bonus ❌
-date: NaN
+date: 1721874184
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​Cronos World
 description: W:0 L:2 D:0 Bonus ❌
-date: NaN
+date: 1710932080
 ---
 ### Whitestar Bonus ❌
 

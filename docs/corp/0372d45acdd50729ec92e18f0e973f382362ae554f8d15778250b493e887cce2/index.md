@@ -2,7 +2,7 @@
 layout: page
 title: ​CDG
 description: W:24 L:27 D:5 Bonus ❌
-date: NaN
+date: 1720925094
 ---
 ### Whitestar Bonus ❌
 

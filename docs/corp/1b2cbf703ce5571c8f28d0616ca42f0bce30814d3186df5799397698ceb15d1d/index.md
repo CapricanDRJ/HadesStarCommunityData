@@ -2,7 +2,7 @@
 layout: page
 title: ​DadCorp
 description: W:4 L:2 D:0 Bonus ❌
-date: NaN
+date: 1704549471
 ---
 ### Whitestar Bonus ❌
 

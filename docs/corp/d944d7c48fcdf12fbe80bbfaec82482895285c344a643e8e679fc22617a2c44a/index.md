@@ -2,7 +2,7 @@
 layout: page
 title: ​Nexland Ind.
 description: W:5 L:4 D:1 Bonus ❌
-date: NaN
+date: 1719570374
 ---
 ### Whitestar Bonus ❌
 

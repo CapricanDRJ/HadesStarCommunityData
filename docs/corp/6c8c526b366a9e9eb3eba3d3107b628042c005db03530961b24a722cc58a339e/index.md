@@ -2,7 +2,7 @@
 layout: page
 title: ​Duchy Arrakis
 description: W:17 L:10 D:0 Bonus ✅
-date: NaN
+date: 1722006411
 ---
 ### Whitestar Bonus ✅
 

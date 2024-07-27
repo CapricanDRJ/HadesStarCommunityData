@@ -2,7 +2,7 @@
 layout: page
 title: ​Lacuna X
 description: W:32 L:5 D:0 Bonus ❌
-date: NaN
+date: 1721944808
 ---
 ### Whitestar Bonus ❌
 

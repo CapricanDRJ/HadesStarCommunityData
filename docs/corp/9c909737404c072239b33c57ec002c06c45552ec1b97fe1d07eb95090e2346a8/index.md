@@ -2,7 +2,7 @@
 layout: page
 title: ​Minutemen
 description: W:8 L:12 D:0 Bonus ❌
-date: NaN
+date: 1721835420
 ---
 ### Whitestar Bonus ❌
 

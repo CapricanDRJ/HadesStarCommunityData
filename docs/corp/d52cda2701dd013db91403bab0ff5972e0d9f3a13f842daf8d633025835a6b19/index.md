@@ -2,7 +2,7 @@
 layout: page
 title: ​The Galxey █
 description: W:5 L:29 D:2 Bonus ❌
-date: NaN
+date: 1713636340
 ---
 ### Whitestar Bonus ❌
 

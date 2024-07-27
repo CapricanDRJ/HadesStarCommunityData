@@ -2,7 +2,7 @@
 layout: page
 title: ​Grunthal Gang
 description: W:34 L:23 D:0 Bonus ✅
-date: NaN
+date: 1721934891
 ---
 ### Whitestar Bonus ✅
 

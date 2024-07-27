@@ -2,7 +2,7 @@
 layout: page
 title: ​Альянс звезд
 description: W:3 L:1 D:0 Bonus ❌
-date: NaN
+date: 1702812215
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​自由星际联盟
 description: W:6 L:31 D:0 Bonus ✅
-date: NaN
+date: 1721742264
 ---
 ### Whitestar Bonus ✅
 

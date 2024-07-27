@@ -2,7 +2,7 @@
 layout: page
 title: ​Девчата
 description: W:2 L:0 D:0 Bonus ❌
-date: NaN
+date: 1721403868
 ---
 ### Whitestar Bonus ❌
 

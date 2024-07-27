@@ -2,7 +2,7 @@
 layout: page
 title: ​ua online
 description: W:0 L:2 D:0 Bonus ❌
-date: NaN
+date: 1705775870
 ---
 ### Whitestar Bonus ❌
 

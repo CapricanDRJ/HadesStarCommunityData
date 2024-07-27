@@ -2,7 +2,7 @@
 layout: page
 title: ​Неизбежный Рок
 description: W:47 L:24 D:1 Bonus ✅
-date: NaN
+date: 1721980863
 ---
 ### Whitestar Bonus ✅
 

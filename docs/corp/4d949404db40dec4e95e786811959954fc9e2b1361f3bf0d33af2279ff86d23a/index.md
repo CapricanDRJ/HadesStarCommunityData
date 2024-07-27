@@ -2,7 +2,7 @@
 layout: page
 title: ​Out landers
 description: W:10 L:6 D:0 Bonus ✅
-date: NaN
+date: 1721667143
 ---
 ### Whitestar Bonus ✅
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​C.C Legion
 description: W:5 L:1 D:0 Bonus ❌
-date: NaN
+date: 1706036411
 ---
 ### Whitestar Bonus ❌
 

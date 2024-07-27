@@ -2,7 +2,7 @@
 layout: page
 title: ​Game of Stars
 description: W:8 L:17 D:0 Bonus ✅
-date: NaN
+date: 1721642197
 ---
 ### Whitestar Bonus ✅
 

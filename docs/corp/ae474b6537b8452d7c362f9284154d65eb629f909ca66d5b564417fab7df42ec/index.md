@@ -2,7 +2,7 @@
 layout: page
 title: ​Lost City Corp.
 description: W:1 L:1 D:1 Bonus ❌
-date: NaN
+date: 1706097412
 ---
 ### Whitestar Bonus ❌
 

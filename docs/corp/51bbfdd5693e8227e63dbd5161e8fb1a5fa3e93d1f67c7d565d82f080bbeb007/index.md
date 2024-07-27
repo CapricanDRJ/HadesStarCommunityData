@@ -2,7 +2,7 @@
 layout: page
 title: ​Corporation
 description: W:15 L:4 D:0 Bonus ❌
-date: NaN
+date: 1721697194
 ---
 ### Whitestar Bonus ❌
 

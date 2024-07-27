@@ -2,7 +2,7 @@
 layout: page
 title: ​Crimson Dawn
 description: W:7 L:10 D:0 Bonus ❌
-date: NaN
+date: 1721181455
 ---
 ### Whitestar Bonus ❌
 

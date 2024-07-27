@@ -2,7 +2,7 @@
 layout: page
 title: ​火洋之心
 description: W:4 L:1 D:2 Bonus ❌
-date: NaN
+date: 1719910542
 ---
 ### Whitestar Bonus ❌
 

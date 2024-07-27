@@ -2,7 +2,7 @@
 layout: page
 title: ​Seila
 description: W:4 L:6 D:1 Bonus ❌
-date: NaN
+date: 1721976355
 ---
 ### Whitestar Bonus ❌
 

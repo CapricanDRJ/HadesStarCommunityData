@@ -2,7 +2,7 @@
 layout: page
 title: ​Panda clan 
 description: W:2 L:3 D:0 Bonus ❌
-date: NaN
+date: 1717075472
 ---
 ### Whitestar Bonus ❌
 

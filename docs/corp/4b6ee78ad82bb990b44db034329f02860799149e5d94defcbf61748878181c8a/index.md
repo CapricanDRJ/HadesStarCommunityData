@@ -2,7 +2,7 @@
 layout: page
 title: ​wyvern
 description: W:2 L:3 D:0 Bonus ❌
-date: NaN
+date: 1717154509
 ---
 ### Whitestar Bonus ❌
 

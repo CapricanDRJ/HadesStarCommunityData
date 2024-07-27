@@ -2,7 +2,7 @@
 layout: page
 title: ​Valhalla Rising
 description: W:22 L:2 D:0 Bonus ❌
-date: NaN
+date: 1720898650
 ---
 ### Whitestar Bonus ❌
 

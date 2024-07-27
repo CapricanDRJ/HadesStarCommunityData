@@ -2,7 +2,7 @@
 layout: page
 title: ​battlesquadron
 description: W:1 L:4 D:0 Bonus ❌
-date: NaN
+date: 1716282592
 ---
 ### Whitestar Bonus ❌
 

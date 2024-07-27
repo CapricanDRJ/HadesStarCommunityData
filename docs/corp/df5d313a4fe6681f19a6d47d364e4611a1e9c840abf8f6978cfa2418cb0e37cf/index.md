@@ -2,7 +2,7 @@
 layout: page
 title: ​From the Fire
 description: W:2 L:4 D:0 Bonus ❌
-date: NaN
+date: 1705705257
 ---
 ### Whitestar Bonus ❌
 

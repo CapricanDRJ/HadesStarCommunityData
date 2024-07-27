@@ -2,7 +2,7 @@
 layout: page
 title: ​USSR
 description: W:2 L:3 D:0 Bonus ❌
-date: NaN
+date: 1701973393
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​海賊ギルド
 description: W:5 L:17 D:0 Bonus ❌
-date: NaN
+date: 1712643896
 ---
 ### Whitestar Bonus ❌
 

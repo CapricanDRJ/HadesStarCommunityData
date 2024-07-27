@@ -2,7 +2,7 @@
 layout: page
 title: ​You Win
 description: W:1 L:6 D:0 Bonus ❌
-date: NaN
+date: 1716807774
 ---
 ### Whitestar Bonus ❌
 

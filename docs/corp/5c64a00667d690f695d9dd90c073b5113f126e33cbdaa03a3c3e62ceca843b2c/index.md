@@ -2,7 +2,7 @@
 layout: page
 title: ​FoxTale
 description: W:0 L:2 D:0 Bonus ❌
-date: NaN
+date: 1704624298
 ---
 ### Whitestar Bonus ❌
 

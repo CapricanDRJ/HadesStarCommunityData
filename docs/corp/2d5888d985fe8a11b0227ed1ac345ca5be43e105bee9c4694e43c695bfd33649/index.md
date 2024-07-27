@@ -2,7 +2,7 @@
 layout: page
 title: ​ギャラクシー富士山
 description: W:2 L:4 D:0 Bonus ❌
-date: NaN
+date: 1708471446
 ---
 ### Whitestar Bonus ❌
 

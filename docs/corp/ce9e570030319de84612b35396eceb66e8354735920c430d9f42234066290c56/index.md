@@ -2,7 +2,7 @@
 layout: page
 title: ​Canada 55
 description: W:2 L:0 D:0 Bonus ❌
-date: NaN
+date: 1702928532
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​Drużyna B
 description: W:0 L:1 D:0 Bonus ❌
-date: NaN
+date: 1703105850
 ---
 ### Whitestar Bonus ❌
 

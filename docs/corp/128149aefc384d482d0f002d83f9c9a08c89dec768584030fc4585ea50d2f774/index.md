@@ -2,7 +2,7 @@
 layout: page
 title: ​リリース
 description: W:33 L:10 D:0 Bonus ✅
-date: NaN
+date: 1721602838
 ---
 ### Whitestar Bonus ✅
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​ANZAC Warriors
 description: W:16 L:5 D:1 Bonus ❌
-date: NaN
+date: 1716584253
 ---
 ### Whitestar Bonus ❌
 

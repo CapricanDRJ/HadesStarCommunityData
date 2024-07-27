@@ -2,7 +2,7 @@
 layout: page
 title: ​Uchiha
 description: W:3 L:12 D:1 Bonus ❌
-date: NaN
+date: 1716917436
 ---
 ### Whitestar Bonus ❌
 

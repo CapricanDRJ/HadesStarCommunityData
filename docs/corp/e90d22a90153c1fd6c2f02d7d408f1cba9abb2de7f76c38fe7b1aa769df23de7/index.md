@@ -2,7 +2,7 @@
 layout: page
 title: ​Killer Shadow
 description: W:2 L:10 D:0 Bonus ❌
-date: NaN
+date: 1708469944
 ---
 ### Whitestar Bonus ❌
 

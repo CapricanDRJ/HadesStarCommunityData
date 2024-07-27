@@ -2,7 +2,7 @@
 layout: page
 title: ​Equinox
 description: W:10 L:12 D:1 Bonus ❌
-date: NaN
+date: 1720895344
 ---
 ### Whitestar Bonus ❌
 

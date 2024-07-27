@@ -2,7 +2,7 @@
 layout: page
 title: ​Death Starz
 description: W:0 L:1 D:0 Bonus ❌
-date: NaN
+date: 1702672167
 ---
 ### Whitestar Bonus ❌
 

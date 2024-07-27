@@ -2,7 +2,7 @@
 layout: page
 title: ​Majapahit
 description: W:6 L:1 D:0 Bonus ❌
-date: NaN
+date: 1715514037
 ---
 ### Whitestar Bonus ❌
 

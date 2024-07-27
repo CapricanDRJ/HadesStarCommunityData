@@ -2,7 +2,7 @@
 layout: page
 title: ​Stone Legion
 description: W:19 L:5 D:0 Bonus ❌
-date: NaN
+date: 1721423108
 ---
 ### Whitestar Bonus ❌
 

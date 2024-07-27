@@ -2,7 +2,7 @@
 layout: page
 title: ​Пабеда
 description: W:1 L:2 D:1 Bonus ❌
-date: NaN
+date: 1707483687
 ---
 ### Whitestar Bonus ❌
 

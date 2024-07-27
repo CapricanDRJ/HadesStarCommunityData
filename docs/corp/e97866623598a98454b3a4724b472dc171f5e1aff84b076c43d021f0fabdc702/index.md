@@ -2,7 +2,7 @@
 layout: page
 title: ​2ND-R8 Corp.
 description: W:20 L:14 D:0 Bonus ✅
-date: NaN
+date: 1721816185
 ---
 ### Whitestar Bonus ✅
 

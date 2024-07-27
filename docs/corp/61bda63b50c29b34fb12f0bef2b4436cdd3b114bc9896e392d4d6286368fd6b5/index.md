@@ -2,7 +2,7 @@
 layout: page
 title: ​The Hexagonix
 description: W:2 L:5 D:1 Bonus ❌
-date: NaN
+date: 1717110037
 ---
 ### Whitestar Bonus ❌
 

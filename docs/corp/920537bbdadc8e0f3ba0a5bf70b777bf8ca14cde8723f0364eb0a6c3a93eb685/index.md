@@ -2,7 +2,7 @@
 layout: page
 title: ​UFO
 description: W:4 L:3 D:0 Bonus ❌
-date: NaN
+date: 1709314635
 ---
 ### Whitestar Bonus ❌
 

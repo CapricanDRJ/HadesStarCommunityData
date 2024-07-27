@@ -2,7 +2,7 @@
 layout: page
 title: ​The Foundation
 description: W:3 L:1 D:1 Bonus ❌
-date: NaN
+date: 1707910558
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​Лютые
 description: W:10 L:9 D:1 Bonus ❌
-date: NaN
+date: 1719341075
 ---
 ### Whitestar Bonus ❌
 

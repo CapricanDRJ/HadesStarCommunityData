@@ -2,7 +2,7 @@
 layout: page
 title: ​Red Dawn
 description: W:27 L:17 D:1 Bonus ❌
-date: NaN
+date: 1721394547
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​mijael siuuuuuu
 description: W:0 L:12 D:1 Bonus ❌
-date: NaN
+date: 1707844755
 ---
 ### Whitestar Bonus ❌
 

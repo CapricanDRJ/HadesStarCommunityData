@@ -2,7 +2,7 @@
 layout: page
 title: ​Capibarius
 description: W:5 L:1 D:0 Bonus ❌
-date: NaN
+date: 1704570813
 ---
 ### Whitestar Bonus ❌
 

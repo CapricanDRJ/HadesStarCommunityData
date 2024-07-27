@@ -2,7 +2,7 @@
 layout: page
 title: ​StargateCommand
 description: W:0 L:2 D:1 Bonus ❌
-date: NaN
+date: 1711062785
 ---
 ### Whitestar Bonus ❌
 

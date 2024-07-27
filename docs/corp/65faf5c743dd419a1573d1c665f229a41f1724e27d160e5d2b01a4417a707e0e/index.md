@@ -2,7 +2,7 @@
 layout: page
 title: ​＊СССР＊
 description: W:18 L:19 D:1 Bonus ❌
-date: NaN
+date: 1722019037
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​challenger corp
 description: W:9 L:7 D:0 Bonus ❌
-date: NaN
+date: 1712788428
 ---
 ### Whitestar Bonus ❌
 

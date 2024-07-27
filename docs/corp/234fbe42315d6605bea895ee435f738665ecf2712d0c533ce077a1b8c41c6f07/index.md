@@ -2,7 +2,7 @@
 layout: page
 title: ​Star-Jump CORPS
 description: W:0 L:1 D:0 Bonus ❌
-date: NaN
+date: 1699184598
 ---
 ### Whitestar Bonus ❌
 

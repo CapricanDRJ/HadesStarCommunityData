@@ -2,7 +2,7 @@
 layout: page
 title: ​ELITE
 description: W:0 L:1 D:1 Bonus ❌
-date: NaN
+date: 1702547267
 ---
 ### Whitestar Bonus ❌
 

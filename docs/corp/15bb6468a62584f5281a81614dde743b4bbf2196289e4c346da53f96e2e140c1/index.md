@@ -2,7 +2,7 @@
 layout: page
 title: ​Слава Украине!
 description: W:49 L:27 D:0 Bonus ✅
-date: NaN
+date: 1721974252
 ---
 ### Whitestar Bonus ✅
 

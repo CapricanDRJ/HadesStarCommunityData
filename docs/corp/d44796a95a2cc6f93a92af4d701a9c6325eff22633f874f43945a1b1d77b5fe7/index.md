@@ -2,7 +2,7 @@
 layout: page
 title: ​Ul'Adri
 description: W:10 L:10 D:0 Bonus ❌
-date: NaN
+date: 1713796231
 ---
 ### Whitestar Bonus ❌
 

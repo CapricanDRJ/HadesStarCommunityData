@@ -2,7 +2,7 @@
 layout: page
 title: ​White Star Inc.
 description: W:3 L:3 D:0 Bonus ❌
-date: NaN
+date: 1720872799
 ---
 ### Whitestar Bonus ❌
 

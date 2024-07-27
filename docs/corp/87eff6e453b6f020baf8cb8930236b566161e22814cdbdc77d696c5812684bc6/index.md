@@ -2,7 +2,7 @@
 layout: page
 title: ​Space Pirates
 description: W:5 L:30 D:0 Bonus ❌
-date: NaN
+date: 1721462173
 ---
 ### Whitestar Bonus ❌
 

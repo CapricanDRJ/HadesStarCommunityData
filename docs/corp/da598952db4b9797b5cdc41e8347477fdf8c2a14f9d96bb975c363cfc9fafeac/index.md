@@ -2,7 +2,7 @@
 layout: page
 title: ​fishwax
 description: W:0 L:1 D:0 Bonus ❌
-date: NaN
+date: 1709098064
 ---
 ### Whitestar Bonus ❌
 

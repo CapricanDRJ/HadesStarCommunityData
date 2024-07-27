@@ -2,7 +2,7 @@
 layout: page
 title: ​Омикрон Альфа
 description: W:1 L:0 D:0 Bonus ❌
-date: NaN
+date: 1700125538
 ---
 ### Whitestar Bonus ❌
 

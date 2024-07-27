@@ -2,7 +2,7 @@
 layout: page
 title: ​仙剑3
 description: W:1 L:0 D:0 Bonus ❌
-date: NaN
+date: 1711149196
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​The 501st
 description: W:3 L:5 D:0 Bonus ❌
-date: NaN
+date: 1710338957
 ---
 ### Whitestar Bonus ❌
 

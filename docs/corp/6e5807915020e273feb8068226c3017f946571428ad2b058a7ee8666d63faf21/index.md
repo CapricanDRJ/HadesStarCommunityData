@@ -2,7 +2,7 @@
 layout: page
 title: ​Sussy Coloner
 description: W:10 L:40 D:1 Bonus ❌
-date: NaN
+date: 1721906037
 ---
 ### Whitestar Bonus ❌
 

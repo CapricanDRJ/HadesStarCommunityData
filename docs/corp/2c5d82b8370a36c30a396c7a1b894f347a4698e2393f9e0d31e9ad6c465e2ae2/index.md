@@ -2,7 +2,7 @@
 layout: page
 title: ​Quantum Jumpers
 description: W:4 L:5 D:1 Bonus ❌
-date: NaN
+date: 1719449551
 ---
 ### Whitestar Bonus ❌
 

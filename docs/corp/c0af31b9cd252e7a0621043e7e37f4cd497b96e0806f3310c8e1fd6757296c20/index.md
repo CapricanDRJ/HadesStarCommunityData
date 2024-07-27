@@ -2,7 +2,7 @@
 layout: page
 title: ​Wacky Wabbits
 description: W:2 L:2 D:0 Bonus ❌
-date: NaN
+date: 1709650270
 ---
 ### Whitestar Bonus ❌
 

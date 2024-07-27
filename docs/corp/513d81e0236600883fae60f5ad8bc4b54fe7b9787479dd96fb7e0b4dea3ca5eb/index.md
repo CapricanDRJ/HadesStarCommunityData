@@ -2,7 +2,7 @@
 layout: page
 title: ​凛冬重工
 description: W:1 L:1 D:0 Bonus ❌
-date: NaN
+date: 1720789556
 ---
 ### Whitestar Bonus ❌
 

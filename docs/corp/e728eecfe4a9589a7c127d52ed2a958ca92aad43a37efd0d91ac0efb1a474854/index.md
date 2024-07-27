@@ -2,7 +2,7 @@
 layout: page
 title: ​Hun Avengers
 description: W:12 L:13 D:0 Bonus ❌
-date: NaN
+date: 1709658385
 ---
 ### Whitestar Bonus ❌
 

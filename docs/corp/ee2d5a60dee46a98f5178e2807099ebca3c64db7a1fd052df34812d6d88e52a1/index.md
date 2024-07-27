@@ -2,7 +2,7 @@
 layout: page
 title: ​Anla'Shok
 description: W:2 L:11 D:0 Bonus ❌
-date: NaN
+date: 1720811802
 ---
 ### Whitestar Bonus ❌
 

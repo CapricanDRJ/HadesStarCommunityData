@@ -2,7 +2,7 @@
 layout: page
 title: ​Orione
 description: W:0 L:1 D:1 Bonus ❌
-date: NaN
+date: 1720098657
 ---
 ### Whitestar Bonus ❌
 

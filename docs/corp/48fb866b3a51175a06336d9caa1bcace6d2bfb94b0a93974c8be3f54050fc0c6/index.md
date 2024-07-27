@@ -2,7 +2,7 @@
 layout: page
 title: ​Свободный флот
 description: W:27 L:30 D:1 Bonus ❌
-date: NaN
+date: 1721387332
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​Slovensko-Activ
 description: W:0 L:13 D:0 Bonus ❌
-date: NaN
+date: 1720118894
 ---
 ### Whitestar Bonus ❌
 

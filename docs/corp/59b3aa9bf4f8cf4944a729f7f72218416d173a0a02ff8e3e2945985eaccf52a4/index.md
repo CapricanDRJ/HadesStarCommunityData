@@ -2,7 +2,7 @@
 layout: page
 title: ​Anarchy G13
 description: W:0 L:3 D:0 Bonus ❌
-date: NaN
+date: 1707434106
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​Next Hyperion
 description: W:2 L:6 D:0 Bonus ❌
-date: NaN
+date: 1711536025
 ---
 ### Whitestar Bonus ❌
 

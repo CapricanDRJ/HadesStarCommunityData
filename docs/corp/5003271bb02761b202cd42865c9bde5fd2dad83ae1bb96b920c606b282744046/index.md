@@ -2,7 +2,7 @@
 layout: page
 title: ​Avantgarde
 description: W:3 L:33 D:0 Bonus ❌
-date: NaN
+date: 1721980262
 ---
 ### Whitestar Bonus ❌
 

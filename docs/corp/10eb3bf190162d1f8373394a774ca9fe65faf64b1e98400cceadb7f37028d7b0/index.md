@@ -2,7 +2,7 @@
 layout: page
 title: ​Survivors
 description: W:4 L:11 D:1 Bonus ❌
-date: NaN
+date: 1717831906
 ---
 ### Whitestar Bonus ❌
 

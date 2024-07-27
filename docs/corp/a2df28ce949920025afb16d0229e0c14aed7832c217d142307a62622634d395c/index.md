@@ -2,7 +2,7 @@
 layout: page
 title: ​The Elite
 description: W:12 L:12 D:0 Bonus ❌
-date: NaN
+date: 1719846836
 ---
 ### Whitestar Bonus ❌
 

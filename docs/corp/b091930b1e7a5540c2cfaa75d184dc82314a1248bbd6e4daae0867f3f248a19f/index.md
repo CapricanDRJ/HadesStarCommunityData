@@ -2,7 +2,7 @@
 layout: page
 title: ​Ещё один Миф
 description: W:0 L:5 D:0 Bonus ❌
-date: NaN
+date: 1717461046
 ---
 ### Whitestar Bonus ❌
 

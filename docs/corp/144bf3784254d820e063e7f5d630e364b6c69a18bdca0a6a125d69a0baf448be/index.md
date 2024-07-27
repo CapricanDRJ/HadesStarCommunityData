@@ -2,7 +2,7 @@
 layout: page
 title: ​Divinity's End
 description: W:0 L:2 D:0 Bonus ❌
-date: NaN
+date: 1721093092
 ---
 ### Whitestar Bonus ❌
 

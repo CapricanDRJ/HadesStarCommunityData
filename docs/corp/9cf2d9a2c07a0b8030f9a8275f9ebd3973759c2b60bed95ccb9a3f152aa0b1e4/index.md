@@ -2,7 +2,7 @@
 layout: page
 title: ​星海扬帆
 description: W:17 L:15 D:0 Bonus ❌
-date: NaN
+date: 1721123744
 ---
 ### Whitestar Bonus ❌
 

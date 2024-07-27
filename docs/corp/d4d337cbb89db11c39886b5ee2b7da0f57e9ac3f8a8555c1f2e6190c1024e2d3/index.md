@@ -2,7 +2,7 @@
 layout: page
 title: ​Alfa Reach
 description: W:0 L:1 D:0 Bonus ❌
-date: NaN
+date: 1702625273
 ---
 ### Whitestar Bonus ❌
 

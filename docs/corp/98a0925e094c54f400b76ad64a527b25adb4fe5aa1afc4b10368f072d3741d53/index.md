@@ -2,7 +2,7 @@
 layout: page
 title: ​Бестрашный лиги
 description: W:3 L:5 D:0 Bonus ❌
-date: NaN
+date: 1704263980
 ---
 ### Whitestar Bonus ❌
 

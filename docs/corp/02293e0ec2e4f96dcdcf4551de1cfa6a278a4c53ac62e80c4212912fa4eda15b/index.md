@@ -2,7 +2,7 @@
 layout: page
 title: ​White Dwarf
 description: W:30 L:12 D:0 Bonus ✅
-date: NaN
+date: 1721924673
 ---
 ### Whitestar Bonus ✅
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​Альянс
 description: W:25 L:9 D:0 Bonus ❌
-date: NaN
+date: 1722007313
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​Anarchy Nation 
 description: W:5 L:2 D:1 Bonus ❌
-date: NaN
+date: 1719320936
 ---
 ### Whitestar Bonus ❌
 

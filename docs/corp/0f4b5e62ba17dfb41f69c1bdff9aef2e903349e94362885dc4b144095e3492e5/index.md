@@ -2,7 +2,7 @@
 layout: page
 title: ​Рагнарёк
 description: W:0 L:2 D:0 Bonus ❌
-date: NaN
+date: 1703958954
 ---
 ### Whitestar Bonus ❌
 

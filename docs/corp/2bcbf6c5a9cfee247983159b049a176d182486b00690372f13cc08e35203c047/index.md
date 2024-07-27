@@ -2,7 +2,7 @@
 layout: page
 title: ​Todesschwadron
 description: W:2 L:3 D:0 Bonus ❌
-date: NaN
+date: 1704688043
 ---
 ### Whitestar Bonus ❌
 

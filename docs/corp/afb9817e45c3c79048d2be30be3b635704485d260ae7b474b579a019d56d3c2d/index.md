@@ -2,7 +2,7 @@
 layout: page
 title: ​宇宙银河帝国
 description: W:21 L:12 D:2 Bonus ✅
-date: NaN
+date: 1721874784
 ---
 ### Whitestar Bonus ✅
 

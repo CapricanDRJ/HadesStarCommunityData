@@ -2,7 +2,7 @@
 layout: page
 title: ​ZN•H2B
 description: W:4 L:9 D:0 Bonus ❌
-date: NaN
+date: 1720840648
 ---
 ### Whitestar Bonus ❌
 

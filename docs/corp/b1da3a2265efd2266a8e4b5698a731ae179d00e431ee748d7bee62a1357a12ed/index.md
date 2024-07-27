@@ -2,7 +2,7 @@
 layout: page
 title: ​＊Alfa y Omega＊
 description: W:8 L:4 D:0 Bonus ✅
-date: NaN
+date: 1721884100
 ---
 ### Whitestar Bonus ✅
 

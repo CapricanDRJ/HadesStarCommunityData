@@ -2,7 +2,7 @@
 layout: page
 title: ​Soylent Corp.
 description: W:22 L:11 D:0 Bonus ❌
-date: NaN
+date: 1719658118
 ---
 ### Whitestar Bonus ❌
 

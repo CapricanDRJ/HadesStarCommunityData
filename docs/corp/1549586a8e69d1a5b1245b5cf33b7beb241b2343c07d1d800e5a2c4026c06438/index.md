@@ -2,7 +2,7 @@
 layout: page
 title: ​ItBurnsWhenIEMP
 description: W:22 L:8 D:0 Bonus ❌
-date: NaN
+date: 1717274726
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​Rebellion!
 description: W:0 L:1 D:1 Bonus ❌
-date: NaN
+date: 1712768023
 ---
 ### Whitestar Bonus ❌
 

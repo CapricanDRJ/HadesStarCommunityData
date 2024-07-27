@@ -2,7 +2,7 @@
 layout: page
 title: ​Aeternae
 description: W:0 L:7 D:0 Bonus ❌
-date: NaN
+date: 1714856234
 ---
 ### Whitestar Bonus ❌
 

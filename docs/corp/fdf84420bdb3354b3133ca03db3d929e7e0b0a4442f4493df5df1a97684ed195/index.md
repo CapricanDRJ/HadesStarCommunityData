@@ -2,7 +2,7 @@
 layout: page
 title: ​Северный флот 
 description: W:2 L:0 D:0 Bonus ❌
-date: NaN
+date: 1706608888
 ---
 ### Whitestar Bonus ❌
 

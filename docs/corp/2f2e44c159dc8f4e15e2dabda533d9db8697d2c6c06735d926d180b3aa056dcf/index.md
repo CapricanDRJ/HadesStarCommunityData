@@ -2,7 +2,7 @@
 layout: page
 title: ​Angel Dragon
 description: W:12 L:8 D:1 Bonus ❌
-date: NaN
+date: 1720561770
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​Terranova
 description: W:3 L:28 D:0 Bonus ❌
-date: NaN
+date: 1722029557
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​АНДРОМЕДА 
 description: W:25 L:30 D:0 Bonus ❌
-date: NaN
+date: 1720580398
 ---
 ### Whitestar Bonus ❌
 

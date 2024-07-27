@@ -2,7 +2,7 @@
 layout: page
 title: ​Sector7
 description: W:0 L:4 D:1 Bonus ❌
-date: NaN
+date: 1708953767
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​Spy Corp
 description: W:0 L:2 D:0 Bonus ❌
-date: NaN
+date: 1706193880
 ---
 ### Whitestar Bonus ❌
 

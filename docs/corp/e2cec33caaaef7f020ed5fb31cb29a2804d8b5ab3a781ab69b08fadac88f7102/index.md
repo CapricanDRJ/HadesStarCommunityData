@@ -2,7 +2,7 @@
 layout: page
 title: ​避难所
 description: W:9 L:8 D:2 Bonus ❌
-date: NaN
+date: 1721236461
 ---
 ### Whitestar Bonus ❌
 

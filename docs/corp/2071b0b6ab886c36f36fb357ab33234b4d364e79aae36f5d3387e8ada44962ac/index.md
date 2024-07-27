@@ -2,7 +2,7 @@
 layout: page
 title: ​korea
 description: W:23 L:6 D:0 Bonus ❌
-date: NaN
+date: 1718444485
 ---
 ### Whitestar Bonus ❌
 

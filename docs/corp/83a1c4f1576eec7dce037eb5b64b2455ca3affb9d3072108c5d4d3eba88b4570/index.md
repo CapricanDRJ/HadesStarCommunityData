@@ -2,7 +2,7 @@
 layout: page
 title: ​RedStar Raiding
 description: W:7 L:28 D:1 Bonus ✅
-date: NaN
+date: 1721597128
 ---
 ### Whitestar Bonus ✅
 

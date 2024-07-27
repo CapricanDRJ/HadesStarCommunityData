@@ -2,7 +2,7 @@
 layout: page
 title: ​Noble
 description: W:0 L:2 D:2 Bonus ❌
-date: NaN
+date: 1706790433
 ---
 ### Whitestar Bonus ❌
 

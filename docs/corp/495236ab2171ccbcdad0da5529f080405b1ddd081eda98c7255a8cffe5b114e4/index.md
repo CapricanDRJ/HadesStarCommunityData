@@ -2,7 +2,7 @@
 layout: page
 title: ​Jalisco México
 description: W:11 L:26 D:5 Bonus ❌
-date: NaN
+date: 1721939098
 ---
 ### Whitestar Bonus ❌
 

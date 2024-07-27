@@ -2,7 +2,7 @@
 layout: page
 title: ​TROLL SQUAD
 description: W:11 L:5 D:0 Bonus ❌
-date: NaN
+date: 1705901181
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​Галактика Зла
 description: W:12 L:14 D:0 Bonus ✅
-date: NaN
+date: 1721437231
 ---
 ### Whitestar Bonus ✅
 

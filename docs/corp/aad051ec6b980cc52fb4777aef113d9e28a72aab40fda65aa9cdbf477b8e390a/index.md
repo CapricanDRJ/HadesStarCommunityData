@@ -2,7 +2,7 @@
 layout: page
 title: ​West Worlders
 description: W:2 L:10 D:0 Bonus ✅
-date: NaN
+date: 1721890711
 ---
 ### Whitestar Bonus ✅
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​＊ПОБЕДА＊
 description: W:2 L:1 D:0 Bonus ❌
-date: NaN
+date: 1700458875
 ---
 ### Whitestar Bonus ❌
 

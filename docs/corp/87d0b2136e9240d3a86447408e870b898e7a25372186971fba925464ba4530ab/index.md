@@ -2,7 +2,7 @@
 layout: page
 title: ​GALACTIC EMPIRE
 description: W:0 L:2 D:0 Bonus ❌
-date: NaN
+date: 1717641945
 ---
 ### Whitestar Bonus ❌
 

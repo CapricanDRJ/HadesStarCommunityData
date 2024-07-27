@@ -2,7 +2,7 @@
 layout: page
 title: ​Nueva Hyperion
 description: W:3 L:1 D:1 Bonus ❌
-date: NaN
+date: 1707681836
 ---
 ### Whitestar Bonus ❌
 

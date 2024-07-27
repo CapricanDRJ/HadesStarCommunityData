@@ -2,7 +2,7 @@
 layout: page
 title: ​우주미아
 description: W:0 L:5 D:0 Bonus ❌
-date: NaN
+date: 1720182198
 ---
 ### Whitestar Bonus ❌
 

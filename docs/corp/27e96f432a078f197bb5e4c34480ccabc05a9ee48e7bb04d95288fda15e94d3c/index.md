@@ -2,7 +2,7 @@
 layout: page
 title: ​Últimafronteira
 description: W:6 L:0 D:0 Bonus ✅
-date: NaN
+date: 1721776524
 ---
 ### Whitestar Bonus ✅
 

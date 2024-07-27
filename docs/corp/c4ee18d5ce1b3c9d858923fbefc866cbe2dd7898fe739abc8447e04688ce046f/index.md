@@ -2,7 +2,7 @@
 layout: page
 title: ​Phoenix Squad
 description: W:0 L:4 D:0 Bonus ❌
-date: NaN
+date: 1716685502
 ---
 ### Whitestar Bonus ❌
 

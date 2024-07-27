@@ -2,7 +2,7 @@
 layout: page
 title: ​Рикардия
 description: W:0 L:1 D:0 Bonus ❌
-date: NaN
+date: 1700510332
 ---
 ### Whitestar Bonus ❌
 

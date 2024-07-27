@@ -2,7 +2,7 @@
 layout: page
 title: ​欢迎国人
 description: W:3 L:11 D:2 Bonus ❌
-date: NaN
+date: 1721711615
 ---
 ### Whitestar Bonus ❌
 

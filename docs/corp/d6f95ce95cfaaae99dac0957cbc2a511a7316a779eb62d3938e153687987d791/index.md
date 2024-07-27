@@ -2,7 +2,7 @@
 layout: page
 title: ​Cygnus X-1
 description: W:0 L:2 D:0 Bonus ❌
-date: NaN
+date: 1705551985
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​StarFun
 description: W:0 L:1 D:0 Bonus ❌
-date: NaN
+date: 1720871297
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​八月政府
 description: W:2 L:17 D:1 Bonus ❌
-date: NaN
+date: 1721726638
 ---
 ### Whitestar Bonus ❌
 

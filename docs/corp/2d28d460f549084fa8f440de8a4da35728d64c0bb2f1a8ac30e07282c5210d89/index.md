@@ -2,7 +2,7 @@
 layout: page
 title: ​Consortium
 description: W:1 L:2 D:0 Bonus ❌
-date: NaN
+date: 1708001106
 ---
 ### Whitestar Bonus ❌
 

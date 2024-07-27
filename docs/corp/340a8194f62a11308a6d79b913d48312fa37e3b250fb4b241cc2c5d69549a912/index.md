@@ -2,7 +2,7 @@
 layout: page
 title: ​SYNDICATE
 description: W:5 L:0 D:0 Bonus ❌
-date: NaN
+date: 1701301973
 ---
 ### Whitestar Bonus ❌
 

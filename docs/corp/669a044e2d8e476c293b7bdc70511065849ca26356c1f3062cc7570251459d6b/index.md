@@ -2,7 +2,7 @@
 layout: page
 title: ​Rzeczypospolita
 description: W:0 L:0 D:1 Bonus ❌
-date: NaN
+date: 1700222876
 ---
 ### Whitestar Bonus ❌
 

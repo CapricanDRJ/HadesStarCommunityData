@@ -2,7 +2,7 @@
 layout: page
 title: ​NEW HOLLAND
 description: W:1 L:8 D:1 Bonus ❌
-date: NaN
+date: 1708785058
 ---
 ### Whitestar Bonus ❌
 

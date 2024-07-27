@@ -2,7 +2,7 @@
 layout: page
 title: ​E.T.A 二营
 description: W:0 L:9 D:2 Bonus ❌
-date: NaN
+date: 1707695531
 ---
 ### Whitestar Bonus ❌
 

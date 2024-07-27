@@ -2,7 +2,7 @@
 layout: page
 title: ​Urban Legends
 description: W:1 L:3 D:0 Bonus ❌
-date: NaN
+date: 1705760541
 ---
 ### Whitestar Bonus ❌
 

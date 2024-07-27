@@ -2,7 +2,7 @@
 layout: page
 title: ​Gallaecia
 description: W:0 L:16 D:0 Bonus ❌
-date: NaN
+date: 1711749983
 ---
 ### Whitestar Bonus ❌
 

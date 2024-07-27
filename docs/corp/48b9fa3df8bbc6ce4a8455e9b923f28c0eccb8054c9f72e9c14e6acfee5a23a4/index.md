@@ -2,7 +2,7 @@
 layout: page
 title: ​Glashan
 description: W:3 L:27 D:0 Bonus ❌
-date: NaN
+date: 1721340452
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​СССР
 description: W:24 L:24 D:2 Bonus ❌
-date: NaN
+date: 1721979961
 ---
 ### Whitestar Bonus ❌
 

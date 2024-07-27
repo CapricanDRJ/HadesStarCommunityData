@@ -2,7 +2,7 @@
 layout: page
 title: ​Core Systems
 description: W:3 L:2 D:2 Bonus ❌
-date: NaN
+date: 1719192673
 ---
 ### Whitestar Bonus ❌
 

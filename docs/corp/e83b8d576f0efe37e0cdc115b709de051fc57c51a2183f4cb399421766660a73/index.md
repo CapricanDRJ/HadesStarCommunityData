@@ -2,7 +2,7 @@
 layout: page
 title: ​Hades' 420
 description: W:2 L:8 D:0 Bonus ❌
-date: NaN
+date: 1722045480
 ---
 ### Whitestar Bonus ❌
 

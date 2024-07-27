@@ -2,7 +2,7 @@
 layout: page
 title: ​Crucible 
 description: W:1 L:1 D:0 Bonus ❌
-date: NaN
+date: 1707182127
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​l'empire sylli
 description: W:0 L:6 D:0 Bonus ❌
-date: NaN
+date: 1719962692
 ---
 ### Whitestar Bonus ❌
 

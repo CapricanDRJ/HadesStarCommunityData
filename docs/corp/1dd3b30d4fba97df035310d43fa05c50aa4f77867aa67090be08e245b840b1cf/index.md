@@ -2,7 +2,7 @@
 layout: page
 title: ​Solysis
 description: W:3 L:7 D:0 Bonus ❌
-date: NaN
+date: 1718968140
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​佛矿寺
 description: W:8 L:35 D:0 Bonus ❌
-date: NaN
+date: 1720846356
 ---
 ### Whitestar Bonus ❌
 

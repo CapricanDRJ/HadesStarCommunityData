@@ -2,7 +2,7 @@
 layout: page
 title: ​Укр інтроверти
 description: W:1 L:4 D:0 Bonus ❌
-date: NaN
+date: 1712411328
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​КУСАКА
 description: W:0 L:1 D:0 Bonus ❌
-date: NaN
+date: 1708905365
 ---
 ### Whitestar Bonus ❌
 

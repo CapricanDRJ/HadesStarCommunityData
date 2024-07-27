@@ -2,7 +2,7 @@
 layout: page
 title: ​Emergence
 description: W:25 L:2 D:0 Bonus ✅
-date: NaN
+date: 1722004909
 ---
 ### Whitestar Bonus ✅
 

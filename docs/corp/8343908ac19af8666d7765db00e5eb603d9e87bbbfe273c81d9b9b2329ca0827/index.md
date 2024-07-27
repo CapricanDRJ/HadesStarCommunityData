@@ -2,7 +2,7 @@
 layout: page
 title: ​Inexorable
 description: W:18 L:11 D:0 Bonus ❌
-date: NaN
+date: 1713540223
 ---
 ### Whitestar Bonus ❌
 

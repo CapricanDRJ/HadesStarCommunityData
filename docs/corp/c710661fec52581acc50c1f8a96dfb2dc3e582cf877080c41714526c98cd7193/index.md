@@ -2,7 +2,7 @@
 layout: page
 title: ​Eternal empire 
 description: W:7 L:15 D:0 Bonus ❌
-date: NaN
+date: 1714808450
 ---
 ### Whitestar Bonus ❌
 

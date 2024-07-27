@@ -2,7 +2,7 @@
 layout: page
 title: ​Hamburg AG 2
 description: W:5 L:8 D:0 Bonus ✅
-date: NaN
+date: 1721471188
 ---
 ### Whitestar Bonus ✅
 

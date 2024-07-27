@@ -2,7 +2,7 @@
 layout: page
 title: ​Sith Academy
 description: W:0 L:2 D:0 Bonus ❌
-date: NaN
+date: 1714273340
 ---
 ### Whitestar Bonus ❌
 

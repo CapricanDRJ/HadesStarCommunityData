@@ -2,7 +2,7 @@
 layout: page
 title: ​Север РусКорп
 description: W:14 L:9 D:0 Bonus ✅
-date: NaN
+date: 1722028054
 ---
 ### Whitestar Bonus ✅
 

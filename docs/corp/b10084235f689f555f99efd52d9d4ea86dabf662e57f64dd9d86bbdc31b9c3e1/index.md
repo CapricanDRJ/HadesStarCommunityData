@@ -2,7 +2,7 @@
 layout: page
 title: ​Hexwood
 description: W:7 L:4 D:0 Bonus ❌
-date: NaN
+date: 1721376211
 ---
 ### Whitestar Bonus ❌
 

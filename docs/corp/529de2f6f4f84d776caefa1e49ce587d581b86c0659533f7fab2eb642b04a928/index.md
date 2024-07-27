@@ -2,7 +2,7 @@
 layout: page
 title: ​Quin Armarda 2
 description: W:0 L:2 D:0 Bonus ❌
-date: NaN
+date: 1720743580
 ---
 ### Whitestar Bonus ❌
 

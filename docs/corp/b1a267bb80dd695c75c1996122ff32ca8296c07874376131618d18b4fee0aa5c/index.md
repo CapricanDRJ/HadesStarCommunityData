@@ -2,7 +2,7 @@
 layout: page
 title: ​Bund von Lykon
 description: W:2 L:9 D:0 Bonus ❌
-date: NaN
+date: 1720944325
 ---
 ### Whitestar Bonus ❌
 

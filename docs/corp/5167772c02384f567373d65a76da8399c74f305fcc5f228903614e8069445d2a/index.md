@@ -2,7 +2,7 @@
 layout: page
 title: ​Spiritic Beacon
 description: W:5 L:4 D:0 Bonus ❌
-date: NaN
+date: 1707775947
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​Star Fleet
 description: W:7 L:16 D:0 Bonus ❌
-date: NaN
+date: 1721804766
 ---
 ### Whitestar Bonus ❌
 

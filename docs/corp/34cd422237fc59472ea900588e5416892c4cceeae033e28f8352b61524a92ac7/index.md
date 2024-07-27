@@ -2,7 +2,7 @@
 layout: page
 title: ​CCCP
 description: W:1 L:6 D:2 Bonus ❌
-date: NaN
+date: 1715999227
 ---
 ### Whitestar Bonus ❌
 

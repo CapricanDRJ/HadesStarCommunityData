@@ -2,7 +2,7 @@
 layout: page
 title: ​1st/Ave/Junkie2
 description: W:16 L:20 D:1 Bonus ❌
-date: NaN
+date: 1721079870
 ---
 ### Whitestar Bonus ❌
 

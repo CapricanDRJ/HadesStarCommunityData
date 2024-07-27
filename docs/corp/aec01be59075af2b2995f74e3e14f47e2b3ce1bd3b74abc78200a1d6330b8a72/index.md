@@ -2,7 +2,7 @@
 layout: page
 title: ​Corp. Estelar
 description: W:10 L:8 D:0 Bonus ✅
-date: NaN
+date: 1721497344
 ---
 ### Whitestar Bonus ✅
 

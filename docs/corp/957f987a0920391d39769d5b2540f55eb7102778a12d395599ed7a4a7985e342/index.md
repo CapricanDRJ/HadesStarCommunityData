@@ -2,7 +2,7 @@
 layout: page
 title: ​Stellaris
 description: W:0 L:6 D:0 Bonus ❌
-date: NaN
+date: 1721997092
 ---
 ### Whitestar Bonus ❌
 

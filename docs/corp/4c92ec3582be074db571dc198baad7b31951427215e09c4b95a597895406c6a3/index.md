@@ -2,7 +2,7 @@
 layout: page
 title: ​DYLAN
 description: W:8 L:1 D:0 Bonus ❌
-date: NaN
+date: 1705768055
 ---
 ### Whitestar Bonus ❌
 

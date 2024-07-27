@@ -2,7 +2,7 @@
 layout: page
 title: ​Tycho Corp
 description: W:0 L:2 D:0 Bonus ❌
-date: NaN
+date: 1713475317
 ---
 ### Whitestar Bonus ❌
 

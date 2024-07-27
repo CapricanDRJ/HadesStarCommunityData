@@ -2,7 +2,7 @@
 layout: page
 title: ​Wehrmacht
 description: W:0 L:2 D:0 Bonus ❌
-date: NaN
+date: 1720703607
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​FURIA 2.0
 description: W:1 L:8 D:0 Bonus ❌
-date: NaN
+date: 1721066643
 ---
 ### Whitestar Bonus ❌
 

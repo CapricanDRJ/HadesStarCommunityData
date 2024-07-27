@@ -2,7 +2,7 @@
 layout: page
 title: ​Order of Hades
 description: W:50 L:18 D:0 Bonus ✅
-date: NaN
+date: 1722030457
 ---
 ### Whitestar Bonus ✅
 

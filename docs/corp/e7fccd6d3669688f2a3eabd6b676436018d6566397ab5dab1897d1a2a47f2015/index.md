@@ -2,7 +2,7 @@
 layout: page
 title: ​UKR Spase
 description: W:15 L:6 D:0 Bonus ❌
-date: NaN
+date: 1720691585
 ---
 ### Whitestar Bonus ❌
 

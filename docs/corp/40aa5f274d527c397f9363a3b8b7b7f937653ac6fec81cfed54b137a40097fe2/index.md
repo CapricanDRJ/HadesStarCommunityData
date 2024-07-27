@@ -2,7 +2,7 @@
 layout: page
 title: ​Die pösn Purchn
 description: W:0 L:2 D:0 Bonus ❌
-date: NaN
+date: 1716150402
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​Alterra Corp
 description: W:0 L:0 D:1 Bonus ❌
-date: NaN
+date: 1721939098
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​ RELAX CZ/SK
 description: W:53 L:20 D:0 Bonus ✅
-date: NaN
+date: 1722030457
 ---
 ### Whitestar Bonus ✅
 

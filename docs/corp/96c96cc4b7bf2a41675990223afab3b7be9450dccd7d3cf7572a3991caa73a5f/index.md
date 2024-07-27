@@ -2,7 +2,7 @@
 layout: page
 title: ​Austria 
 description: W:2 L:2 D:0 Bonus ❌
-date: NaN
+date: 1701466685
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​The Gladiators
 description: W:1 L:2 D:0 Bonus ❌
-date: NaN
+date: 1710258432
 ---
 ### Whitestar Bonus ❌
 

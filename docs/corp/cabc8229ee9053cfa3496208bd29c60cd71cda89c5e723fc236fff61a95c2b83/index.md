@@ -2,7 +2,7 @@
 layout: page
 title: ​BRASIL ACADEMY
 description: W:2 L:1 D:0 Bonus ❌
-date: NaN
+date: 1714774505
 ---
 ### Whitestar Bonus ❌
 

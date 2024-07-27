@@ -2,7 +2,7 @@
 layout: page
 title: ​INFINITY STAR
 description: W:4 L:6 D:0 Bonus ❌
-date: NaN
+date: 1721993786
 ---
 ### Whitestar Bonus ❌
 

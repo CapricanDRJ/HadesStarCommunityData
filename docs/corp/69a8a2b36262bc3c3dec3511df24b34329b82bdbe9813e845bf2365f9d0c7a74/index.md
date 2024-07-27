@@ -2,7 +2,7 @@
 layout: page
 title: ​ReylZ
 description: W:0 L:2 D:0 Bonus ❌
-date: NaN
+date: 1716618499
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​UAGC
 description: W:22 L:16 D:0 Bonus ✅
-date: NaN
+date: 1721790944
 ---
 ### Whitestar Bonus ✅
 

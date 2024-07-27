@@ -2,7 +2,7 @@
 layout: page
 title: ​Cyber Star
 description: W:24 L:10 D:0 Bonus ❌
-date: NaN
+date: 1721957726
 ---
 ### Whitestar Bonus ❌
 

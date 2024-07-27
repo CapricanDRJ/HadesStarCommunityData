@@ -2,7 +2,7 @@
 layout: page
 title: ​Quilliance
 description: W:14 L:2 D:0 Bonus ✅
-date: NaN
+date: 1721745871
 ---
 ### Whitestar Bonus ✅
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​AFronteiraFinal
 description: W:20 L:6 D:1 Bonus ✅
-date: NaN
+date: 1721781931
 ---
 ### Whitestar Bonus ✅
 

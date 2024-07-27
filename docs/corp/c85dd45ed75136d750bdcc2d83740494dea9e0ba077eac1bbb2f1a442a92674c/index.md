@@ -2,7 +2,7 @@
 layout: page
 title: ​Gemini Ind.
 description: W:32 L:6 D:0 Bonus ❌
-date: NaN
+date: 1721415418
 ---
 ### Whitestar Bonus ❌
 

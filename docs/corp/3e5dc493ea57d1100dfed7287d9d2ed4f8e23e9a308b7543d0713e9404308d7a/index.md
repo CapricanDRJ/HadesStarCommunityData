@@ -2,7 +2,7 @@
 layout: page
 title: ​Tabula Rasa
 description: W:0 L:1 D:0 Bonus ❌
-date: NaN
+date: 1703095931
 ---
 ### Whitestar Bonus ❌
 

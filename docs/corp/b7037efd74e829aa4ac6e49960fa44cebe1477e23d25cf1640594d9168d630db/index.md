@@ -2,7 +2,7 @@
 layout: page
 title: ​Rising star
 description: W:18 L:26 D:0 Bonus ✅
-date: NaN
+date: 1721443541
 ---
 ### Whitestar Bonus ✅
 

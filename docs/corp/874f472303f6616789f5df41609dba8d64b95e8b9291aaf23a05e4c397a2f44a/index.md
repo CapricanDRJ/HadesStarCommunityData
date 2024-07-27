@@ -2,7 +2,7 @@
 layout: page
 title: ​SUN OF 3LANDS
 description: W:8 L:2 D:1 Bonus ✅
-date: NaN
+date: 1721990204
 ---
 ### Whitestar Bonus ✅
 

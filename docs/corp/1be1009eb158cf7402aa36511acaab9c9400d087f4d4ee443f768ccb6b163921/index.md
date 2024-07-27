@@ -2,7 +2,7 @@
 layout: page
 title: ​红日初升，其道大光
 description: W:6 L:0 D:0 Bonus ✅
-date: NaN
+date: 1721833015
 ---
 ### Whitestar Bonus ✅
 

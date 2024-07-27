@@ -2,7 +2,7 @@
 layout: page
 title: ​universe leader
 description: W:2 L:8 D:1 Bonus ❌
-date: NaN
+date: 1710829328
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​FreeSpcAlliance
 description: W:3 L:3 D:0 Bonus ❌
-date: NaN
+date: 1702742189
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​Farland Ind.
 description: W:7 L:19 D:1 Bonus ❌
-date: NaN
+date: 1721257201
 ---
 ### Whitestar Bonus ❌
 

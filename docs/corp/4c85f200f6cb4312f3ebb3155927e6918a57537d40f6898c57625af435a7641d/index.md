@@ -2,7 +2,7 @@
 layout: page
 title: ​LOST PIRATES
 description: W:0 L:5 D:0 Bonus ❌
-date: NaN
+date: 1702944764
 ---
 ### Whitestar Bonus ❌
 

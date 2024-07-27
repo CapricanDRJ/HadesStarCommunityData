@@ -2,7 +2,7 @@
 layout: page
 title: ​РусКорп
 description: W:11 L:9 D:0 Bonus ❌
-date: NaN
+date: 1708836120
 ---
 ### Whitestar Bonus ❌
 

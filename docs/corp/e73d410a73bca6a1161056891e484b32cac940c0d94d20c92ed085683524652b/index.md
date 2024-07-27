@@ -2,7 +2,7 @@
 layout: page
 title: ​Polish Pirates
 description: W:14 L:12 D:0 Bonus ❌
-date: NaN
+date: 1721381321
 ---
 ### Whitestar Bonus ❌
 

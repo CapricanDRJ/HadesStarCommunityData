@@ -2,7 +2,7 @@
 layout: page
 title: ​Czech Legion
 description: W:4 L:1 D:0 Bonus ❌
-date: NaN
+date: 1721408118
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​ITA 2.0
 description: W:5 L:2 D:0 Bonus ❌
-date: NaN
+date: 1707654185
 ---
 ### Whitestar Bonus ❌
 

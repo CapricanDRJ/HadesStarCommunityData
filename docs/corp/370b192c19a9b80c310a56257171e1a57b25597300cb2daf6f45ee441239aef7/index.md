@@ -2,7 +2,7 @@
 layout: page
 title: ​W.O.A
 description: W:0 L:1 D:0 Bonus ❌
-date: NaN
+date: 1707724502
 ---
 ### Whitestar Bonus ❌
 

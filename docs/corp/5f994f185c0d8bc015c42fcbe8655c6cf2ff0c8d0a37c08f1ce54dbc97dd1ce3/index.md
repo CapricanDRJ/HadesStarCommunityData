@@ -2,7 +2,7 @@
 layout: page
 title: ​Veil of Maya
 description: W:4 L:2 D:0 Bonus ❌
-date: NaN
+date: 1719574274
 ---
 ### Whitestar Bonus ❌
 

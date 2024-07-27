@@ -2,7 +2,7 @@
 layout: page
 title: ​Quadra FR
 description: W:6 L:3 D:0 Bonus ❌
-date: NaN
+date: 1719574274
 ---
 ### Whitestar Bonus ❌
 

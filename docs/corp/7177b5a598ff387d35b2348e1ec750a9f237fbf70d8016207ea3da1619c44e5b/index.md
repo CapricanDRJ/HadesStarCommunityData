@@ -2,7 +2,7 @@
 layout: page
 title: ​death squadron 
 description: W:18 L:22 D:0 Bonus ❌
-date: NaN
+date: 1719396058
 ---
 ### Whitestar Bonus ❌
 

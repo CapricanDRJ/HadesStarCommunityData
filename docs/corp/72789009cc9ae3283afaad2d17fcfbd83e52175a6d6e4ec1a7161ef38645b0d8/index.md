@@ -2,7 +2,7 @@
 layout: page
 title: ​Red Alliance
 description: W:6 L:5 D:0 Bonus ❌
-date: NaN
+date: 1722012724
 ---
 ### Whitestar Bonus ❌
 

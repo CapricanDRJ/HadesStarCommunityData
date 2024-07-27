@@ -2,7 +2,7 @@
 layout: page
 title: ​The Syndicate 
 description: W:14 L:1 D:0 Bonus ✅
-date: NaN
+date: 1721668345
 ---
 ### Whitestar Bonus ✅
 

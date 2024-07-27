@@ -2,7 +2,7 @@
 layout: page
 title: ​Neutro Corpo
 description: W:0 L:3 D:0 Bonus ❌
-date: NaN
+date: 1713971404
 ---
 ### Whitestar Bonus ❌
 

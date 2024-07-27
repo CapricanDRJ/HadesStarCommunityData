@@ -2,7 +2,7 @@
 layout: page
 title: ​Rogue Corp
 description: W:1 L:17 D:0 Bonus ❌
-date: NaN
+date: 1717874292
 ---
 ### Whitestar Bonus ❌
 

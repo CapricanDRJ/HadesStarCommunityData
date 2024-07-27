@@ -2,7 +2,7 @@
 layout: page
 title: ​星光禁卫
 description: W:1 L:8 D:1 Bonus ❌
-date: NaN
+date: 1709802966
 ---
 ### Whitestar Bonus ❌
 

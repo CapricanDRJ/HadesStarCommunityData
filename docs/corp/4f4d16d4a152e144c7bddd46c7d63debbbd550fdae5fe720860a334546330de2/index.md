@@ -2,7 +2,7 @@
 layout: page
 title: ​Gold Star
 description: W:2 L:9 D:1 Bonus ❌
-date: NaN
+date: 1719882600
 ---
 ### Whitestar Bonus ❌
 

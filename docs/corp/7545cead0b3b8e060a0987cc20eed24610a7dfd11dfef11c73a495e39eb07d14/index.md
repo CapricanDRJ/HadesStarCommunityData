@@ -2,7 +2,7 @@
 layout: page
 title: ​Hand of Legion 
 description: W:4 L:1 D:0 Bonus ❌
-date: NaN
+date: 1710084164
 ---
 ### Whitestar Bonus ❌
 

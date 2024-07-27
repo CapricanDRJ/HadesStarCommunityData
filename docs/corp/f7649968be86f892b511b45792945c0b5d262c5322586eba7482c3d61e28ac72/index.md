@@ -2,7 +2,7 @@
 layout: page
 title: ​STARBLAZER 
 description: W:2 L:4 D:0 Bonus ❌
-date: NaN
+date: 1707871199
 ---
 ### Whitestar Bonus ❌
 

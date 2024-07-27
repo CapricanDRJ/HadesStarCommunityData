@@ -2,7 +2,7 @@
 layout: page
 title: ​V0RTEX
 description: W:10 L:9 D:1 Bonus ❌
-date: NaN
+date: 1712597022
 ---
 ### Whitestar Bonus ❌
 

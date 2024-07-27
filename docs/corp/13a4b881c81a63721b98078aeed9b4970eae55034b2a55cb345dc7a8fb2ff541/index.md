@@ -2,7 +2,7 @@
 layout: page
 title: ​Бороская Имерия
 description: W:2 L:2 D:0 Bonus ❌
-date: NaN
+date: 1702646613
 ---
 ### Whitestar Bonus ❌
 

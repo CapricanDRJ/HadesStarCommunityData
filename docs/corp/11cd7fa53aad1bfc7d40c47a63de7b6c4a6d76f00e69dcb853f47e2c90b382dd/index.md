@@ -2,7 +2,7 @@
 layout: page
 title: ​МеГаКо
 description: W:14 L:13 D:0 Bonus ✅
-date: NaN
+date: 1721529200
 ---
 ### Whitestar Bonus ✅
 

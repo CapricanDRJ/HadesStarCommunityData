@@ -2,7 +2,7 @@
 layout: page
 title: ​TeddisaurusWrex
 description: W:35 L:7 D:0 Bonus ✅
-date: NaN
+date: 1721974252
 ---
 ### Whitestar Bonus ✅
 

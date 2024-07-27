@@ -2,7 +2,7 @@
 layout: page
 title: ​Weyland Yutani 
 description: W:12 L:23 D:3 Bonus ❌
-date: NaN
+date: 1721863369
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​Lolis Corp
 description: W:0 L:2 D:0 Bonus ❌
-date: NaN
+date: 1706764255
 ---
 ### Whitestar Bonus ❌
 

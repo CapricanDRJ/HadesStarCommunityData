@@ -2,7 +2,7 @@
 layout: page
 title: ​TheBasics
 description: W:29 L:36 D:1 Bonus ❌
-date: NaN
+date: 1721673455
 ---
 ### Whitestar Bonus ❌
 

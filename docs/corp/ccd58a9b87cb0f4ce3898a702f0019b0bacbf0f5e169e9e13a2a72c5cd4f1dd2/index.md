@@ -2,7 +2,7 @@
 layout: page
 title: ​SPACECOWBOYS
 description: W:0 L:1 D:0 Bonus ❌
-date: NaN
+date: 1709290891
 ---
 ### Whitestar Bonus ❌
 

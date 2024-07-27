@@ -2,7 +2,7 @@
 layout: page
 title: ​42 Nova Corps.
 description: W:2 L:1 D:0 Bonus ❌
-date: NaN
+date: 1706899492
 ---
 ### Whitestar Bonus ❌
 

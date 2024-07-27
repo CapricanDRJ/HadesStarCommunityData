@@ -2,7 +2,7 @@
 layout: page
 title: ​F.E.I.
 description: W:0 L:1 D:2 Bonus ❌
-date: NaN
+date: 1708050438
 ---
 ### Whitestar Bonus ❌
 

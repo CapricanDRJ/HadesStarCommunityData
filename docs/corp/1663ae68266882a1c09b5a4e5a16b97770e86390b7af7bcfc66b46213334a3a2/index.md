@@ -2,7 +2,7 @@
 layout: page
 title: ​Hexacropians
 description: W:36 L:7 D:1 Bonus ❌
-date: NaN
+date: 1721626874
 ---
 ### Whitestar Bonus ❌
 

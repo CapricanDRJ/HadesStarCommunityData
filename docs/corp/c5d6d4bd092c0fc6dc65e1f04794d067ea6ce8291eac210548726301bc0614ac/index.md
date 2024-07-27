@@ -2,7 +2,7 @@
 layout: page
 title: ​Dritte Macht
 description: W:0 L:1 D:0 Bonus ❌
-date: NaN
+date: 1700160115
 ---
 ### Whitestar Bonus ❌
 

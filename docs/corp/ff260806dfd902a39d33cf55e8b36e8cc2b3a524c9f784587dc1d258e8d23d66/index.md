@@ -2,7 +2,7 @@
 layout: page
 title: ​(◉▼◉ ﾐ )Э
 description: W:0 L:2 D:0 Bonus ❌
-date: NaN
+date: 1715412786
 ---
 ### Whitestar Bonus ❌
 

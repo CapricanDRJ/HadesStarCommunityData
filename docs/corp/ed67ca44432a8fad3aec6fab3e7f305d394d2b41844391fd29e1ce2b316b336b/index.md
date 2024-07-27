@@ -2,7 +2,7 @@
 layout: page
 title: ​Lacuna Academy
 description: W:15 L:2 D:0 Bonus ❌
-date: NaN
+date: 1718228706
 ---
 ### Whitestar Bonus ❌
 

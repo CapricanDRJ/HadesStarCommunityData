@@ -2,7 +2,7 @@
 layout: page
 title: ​СлАвЯнСкИй СоЮз
 description: W:7 L:4 D:0 Bonus ❌
-date: NaN
+date: 1707222843
 ---
 ### Whitestar Bonus ❌
 

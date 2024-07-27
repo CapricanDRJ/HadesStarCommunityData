@@ -2,7 +2,7 @@
 layout: page
 title: ​УпсПриехали
 description: W:0 L:1 D:0 Bonus ❌
-date: NaN
+date: 1705149299
 ---
 ### Whitestar Bonus ❌
 

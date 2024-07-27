@@ -2,7 +2,7 @@
 layout: page
 title: ​[Blue＊Nation]
 description: W:30 L:6 D:0 Bonus ❌
-date: NaN
+date: 1720851164
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​Forces of Light
 description: W:7 L:4 D:1 Bonus ❌
-date: NaN
+date: 1721776524
 ---
 ### Whitestar Bonus ❌
 

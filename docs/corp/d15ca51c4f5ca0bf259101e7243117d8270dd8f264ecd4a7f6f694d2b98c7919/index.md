@@ -2,7 +2,7 @@
 layout: page
 title: ​WSC(no DISCORD)
 description: W:18 L:14 D:3 Bonus ✅
-date: NaN
+date: 1722007013
 ---
 ### Whitestar Bonus ✅
 

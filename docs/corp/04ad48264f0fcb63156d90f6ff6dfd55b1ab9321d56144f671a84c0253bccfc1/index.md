@@ -2,7 +2,7 @@
 layout: page
 title: ​Space Scourge
 description: W:2 L:6 D:0 Bonus ❌
-date: NaN
+date: 1705147495
 ---
 ### Whitestar Bonus ❌
 

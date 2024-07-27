@@ -2,7 +2,7 @@
 layout: page
 title: ​СНГ — РОССИЯ
 description: W:4 L:8 D:3 Bonus ❌
-date: NaN
+date: 1720924493
 ---
 ### Whitestar Bonus ❌
 

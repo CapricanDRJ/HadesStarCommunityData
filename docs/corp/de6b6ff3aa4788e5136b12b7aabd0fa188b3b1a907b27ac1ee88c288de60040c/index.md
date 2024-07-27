@@ -2,7 +2,7 @@
 layout: page
 title: ​Global Elite
 description: W:0 L:2 D:0 Bonus ❌
-date: NaN
+date: 1718903534
 ---
 ### Whitestar Bonus ❌
 

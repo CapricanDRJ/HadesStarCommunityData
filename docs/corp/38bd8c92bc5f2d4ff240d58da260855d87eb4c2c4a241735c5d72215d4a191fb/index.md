@@ -2,7 +2,7 @@
 layout: page
 title: ​Nebula
 description: W:4 L:15 D:0 Bonus ❌
-date: NaN
+date: 1722013326
 ---
 ### Whitestar Bonus ❌
 

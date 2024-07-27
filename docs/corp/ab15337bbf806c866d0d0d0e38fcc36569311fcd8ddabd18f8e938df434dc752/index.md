@@ -2,7 +2,7 @@
 layout: page
 title: ​Mecha Armada
 description: W:2 L:1 D:0 Bonus ❌
-date: NaN
+date: 1705425169
 ---
 ### Whitestar Bonus ❌
 

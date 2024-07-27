@@ -2,7 +2,7 @@
 layout: page
 title: ​Fr_Corp
 description: W:0 L:1 D:0 Bonus ❌
-date: NaN
+date: 1711916138
 ---
 ### Whitestar Bonus ❌
 

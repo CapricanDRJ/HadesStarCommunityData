@@ -2,7 +2,7 @@
 layout: page
 title: ​Int. Trading Co
 description: W:16 L:9 D:1 Bonus ❌
-date: NaN
+date: 1721018557
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​Venture
 description: W:8 L:22 D:4 Bonus ❌
-date: NaN
+date: 1720229381
 ---
 ### Whitestar Bonus ❌
 

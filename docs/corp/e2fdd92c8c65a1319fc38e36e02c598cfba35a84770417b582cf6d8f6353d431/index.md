@@ -2,7 +2,7 @@
 layout: page
 title: ​Galaxy knights
 description: W:0 L:2 D:0 Bonus ❌
-date: NaN
+date: 1701690282
 ---
 ### Whitestar Bonus ❌
 

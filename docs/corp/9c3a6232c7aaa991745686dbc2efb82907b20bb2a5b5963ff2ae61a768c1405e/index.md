@@ -2,7 +2,7 @@
 layout: page
 title: ​Death Flight 1.
 description: W:0 L:2 D:0 Bonus ❌
-date: NaN
+date: 1714979423
 ---
 ### Whitestar Bonus ❌
 

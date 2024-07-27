@@ -2,7 +2,7 @@
 layout: page
 title: ​Cerulean Star
 description: W:20 L:17 D:0 Bonus ❌
-date: NaN
+date: 1718415037
 ---
 ### Whitestar Bonus ❌
 

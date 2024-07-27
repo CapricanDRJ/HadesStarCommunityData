@@ -2,7 +2,7 @@
 layout: page
 title: ​United Artists
 description: W:0 L:2 D:0 Bonus ❌
-date: NaN
+date: 1721723333
 ---
 ### Whitestar Bonus ❌
 

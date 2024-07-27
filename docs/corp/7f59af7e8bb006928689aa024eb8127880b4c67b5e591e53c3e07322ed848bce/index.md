@@ -2,7 +2,7 @@
 layout: page
 title: ​Legionnaires
 description: W:0 L:2 D:0 Bonus ❌
-date: NaN
+date: 1705332614
 ---
 ### Whitestar Bonus ❌
 

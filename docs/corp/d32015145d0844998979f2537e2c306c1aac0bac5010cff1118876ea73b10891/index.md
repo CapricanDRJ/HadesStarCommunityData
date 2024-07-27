@@ -2,7 +2,7 @@
 layout: page
 title: ​Peasants
 description: W:2 L:0 D:0 Bonus ✅
-date: NaN
+date: 1721863369
 ---
 ### Whitestar Bonus ✅
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​NameLess Hades
 description: W:0 L:0 D:1 Bonus ❌
-date: NaN
+date: 1705295296
 ---
 ### Whitestar Bonus ❌
 

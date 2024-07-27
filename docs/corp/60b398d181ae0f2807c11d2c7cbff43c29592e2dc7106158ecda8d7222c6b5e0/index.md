@@ -2,7 +2,7 @@
 layout: page
 title: ​Коллайдер
 description: W:0 L:1 D:0 Bonus ❌
-date: NaN
+date: 1704522124
 ---
 ### Whitestar Bonus ❌
 

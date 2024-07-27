@@ -2,7 +2,7 @@
 layout: page
 title: ​Toxic
 description: W:1 L:6 D:0 Bonus ❌
-date: NaN
+date: 1706031300
 ---
 ### Whitestar Bonus ❌
 

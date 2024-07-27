@@ -2,7 +2,7 @@
 layout: page
 title: ​La orden real
 description: W:1 L:0 D:0 Bonus ❌
-date: NaN
+date: 1712178754
 ---
 ### Whitestar Bonus ❌
 

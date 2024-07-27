@@ -2,7 +2,7 @@
 layout: page
 title: ​Germania
 description: W:16 L:21 D:2 Bonus ✅
-date: NaN
+date: 1721980863
 ---
 ### Whitestar Bonus ✅
 

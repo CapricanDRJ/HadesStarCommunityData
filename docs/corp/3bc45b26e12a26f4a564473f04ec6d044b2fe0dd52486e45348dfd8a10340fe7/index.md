@@ -2,7 +2,7 @@
 layout: page
 title: ​Kötbrüder
 description: W:3 L:0 D:0 Bonus ❌
-date: NaN
+date: 1721086782
 ---
 ### Whitestar Bonus ❌
 

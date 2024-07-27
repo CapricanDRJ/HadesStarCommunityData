@@ -2,7 +2,7 @@
 layout: page
 title: ​nuevo mundo
 description: W:7 L:7 D:0 Bonus ✅
-date: NaN
+date: 1721496442
 ---
 ### Whitestar Bonus ✅
 

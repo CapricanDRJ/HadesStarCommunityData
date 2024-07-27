@@ -2,7 +2,7 @@
 layout: page
 title: ​Sternenbund
 description: W:0 L:1 D:0 Bonus ❌
-date: NaN
+date: 1699571671
 ---
 ### Whitestar Bonus ❌
 

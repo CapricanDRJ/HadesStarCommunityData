@@ -2,7 +2,7 @@
 layout: page
 title: ​Hail Hydra
 description: W:6 L:18 D:0 Bonus ❌
-date: NaN
+date: 1719168289
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​Foreshadowing
 description: W:0 L:2 D:0 Bonus ❌
-date: NaN
+date: 1715385150
 ---
 ### Whitestar Bonus ❌
 

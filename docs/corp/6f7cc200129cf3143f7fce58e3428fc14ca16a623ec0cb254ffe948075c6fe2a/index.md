@@ -2,7 +2,7 @@
 layout: page
 title: ​Dark Exodus
 description: W:1 L:3 D:0 Bonus ❌
-date: NaN
+date: 1703087815
 ---
 ### Whitestar Bonus ❌
 

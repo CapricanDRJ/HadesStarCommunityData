@@ -2,7 +2,7 @@
 layout: page
 title: ​Держава Русь
 description: W:0 L:13 D:0 Bonus ❌
-date: NaN
+date: 1721910244
 ---
 ### Whitestar Bonus ❌
 

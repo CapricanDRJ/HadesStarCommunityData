@@ -2,7 +2,7 @@
 layout: page
 title: ​OrderofTheGeon
 description: W:19 L:20 D:3 Bonus ✅
-date: NaN
+date: 1721706808
 ---
 ### Whitestar Bonus ✅
 

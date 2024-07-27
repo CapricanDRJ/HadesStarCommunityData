@@ -2,7 +2,7 @@
 layout: page
 title: ​Round Table 
 description: W:0 L:1 D:0 Bonus ❌
-date: NaN
+date: 1704086180
 ---
 ### Whitestar Bonus ❌
 

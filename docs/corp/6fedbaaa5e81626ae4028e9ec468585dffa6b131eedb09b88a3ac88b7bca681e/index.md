@@ -2,7 +2,7 @@
 layout: page
 title: ​BattleCo
 description: W:21 L:14 D:0 Bonus ❌
-date: NaN
+date: 1718363340
 ---
 ### Whitestar Bonus ❌
 

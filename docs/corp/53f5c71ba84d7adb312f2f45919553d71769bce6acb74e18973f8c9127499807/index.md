@@ -2,7 +2,7 @@
 layout: page
 title: ​企鹅帝国
 description: W:1 L:1 D:0 Bonus ❌
-date: NaN
+date: 1721016974
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​SQPT
 description: W:29 L:33 D:0 Bonus ❌
-date: NaN
+date: 1721619362
 ---
 ### Whitestar Bonus ❌
 

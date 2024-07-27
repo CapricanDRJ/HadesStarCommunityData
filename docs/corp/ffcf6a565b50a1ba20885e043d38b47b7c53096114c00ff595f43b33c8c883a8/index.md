@@ -2,7 +2,7 @@
 layout: page
 title: ​the light
 description: W:0 L:1 D:0 Bonus ❌
-date: NaN
+date: 1716171643
 ---
 ### Whitestar Bonus ❌
 

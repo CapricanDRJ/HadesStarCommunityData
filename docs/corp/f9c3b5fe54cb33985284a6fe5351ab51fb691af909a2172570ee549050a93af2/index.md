@@ -2,7 +2,7 @@
 layout: page
 title: ​STAR TERROR CZ
 description: W:0 L:2 D:0 Bonus ❌
-date: NaN
+date: 1706655775
 ---
 ### Whitestar Bonus ❌
 

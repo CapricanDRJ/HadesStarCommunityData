@@ -2,7 +2,7 @@
 layout: page
 title: ​Ночные Львы
 description: W:0 L:1 D:0 Bonus ❌
-date: NaN
+date: 1699435232
 ---
 ### Whitestar Bonus ❌
 

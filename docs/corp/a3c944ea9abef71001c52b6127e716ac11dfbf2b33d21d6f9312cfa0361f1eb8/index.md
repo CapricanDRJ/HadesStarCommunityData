@@ -2,7 +2,7 @@
 layout: page
 title: ​Irish Pride 
 description: W:1 L:1 D:0 Bonus ❌
-date: NaN
+date: 1703938816
 ---
 ### Whitestar Bonus ❌
 

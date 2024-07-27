@@ -2,7 +2,7 @@
 layout: page
 title: ​SveaEmpire
 description: W:1 L:5 D:0 Bonus ❌
-date: NaN
+date: 1702678179
 ---
 ### Whitestar Bonus ❌
 

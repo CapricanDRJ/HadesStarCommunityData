@@ -2,7 +2,7 @@
 layout: page
 title: ​КОРПОРАЦИЯ ЗЛА
 description: W:7 L:34 D:0 Bonus ❌
-date: NaN
+date: 1721981472
 ---
 ### Whitestar Bonus ❌
 

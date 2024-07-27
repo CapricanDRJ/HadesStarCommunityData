@@ -2,7 +2,7 @@
 layout: page
 title: ​Starlancer
 description: W:0 L:18 D:0 Bonus ❌
-date: NaN
+date: 1715051835
 ---
 ### Whitestar Bonus ❌
 

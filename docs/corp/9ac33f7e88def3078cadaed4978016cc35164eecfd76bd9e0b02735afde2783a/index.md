@@ -2,7 +2,7 @@
 layout: page
 title: ​Dying stars
 description: W:0 L:1 D:0 Bonus ❌
-date: NaN
+date: 1709592586
 ---
 ### Whitestar Bonus ❌
 

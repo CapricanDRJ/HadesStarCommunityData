@@ -2,7 +2,7 @@
 layout: page
 title: ​🌪TORNADO 
 description: W:6 L:8 D:3 Bonus ❌
-date: NaN
+date: 1716651851
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​Hungary First
 description: W:13 L:8 D:1 Bonus ❌
-date: NaN
+date: 1721200088
 ---
 ### Whitestar Bonus ❌
 

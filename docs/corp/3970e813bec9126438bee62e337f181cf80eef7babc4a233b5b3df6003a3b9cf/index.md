@@ -2,7 +2,7 @@
 layout: page
 title: ​Free Star
 description: W:5 L:8 D:0 Bonus ❌
-date: NaN
+date: 1704630910
 ---
 ### Whitestar Bonus ❌
 

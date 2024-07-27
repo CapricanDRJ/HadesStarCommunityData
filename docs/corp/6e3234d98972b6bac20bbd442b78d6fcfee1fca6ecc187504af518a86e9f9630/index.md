@@ -2,7 +2,7 @@
 layout: page
 title: ​VAJRA 
 description: W:1 L:2 D:0 Bonus ❌
-date: NaN
+date: 1713318167
 ---
 ### Whitestar Bonus ❌
 

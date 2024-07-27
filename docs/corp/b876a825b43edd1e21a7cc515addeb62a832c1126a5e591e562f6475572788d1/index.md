@@ -2,7 +2,7 @@
 layout: page
 title: ​AlSounT
 description: W:3 L:5 D:0 Bonus ❌
-date: NaN
+date: 1703234778
 ---
 ### Whitestar Bonus ❌
 

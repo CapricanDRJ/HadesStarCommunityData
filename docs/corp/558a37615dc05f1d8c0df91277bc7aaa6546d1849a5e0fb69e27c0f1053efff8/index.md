@@ -2,7 +2,7 @@
 layout: page
 title: ​hades' star
 description: W:0 L:1 D:1 Bonus ❌
-date: NaN
+date: 1709683723
 ---
 ### Whitestar Bonus ❌
 

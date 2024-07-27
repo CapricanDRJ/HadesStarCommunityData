@@ -2,7 +2,7 @@
 layout: page
 title: ​Freelancer
 description: W:0 L:2 D:0 Bonus ❌
-date: NaN
+date: 1707024506
 ---
 ### Whitestar Bonus ❌
 

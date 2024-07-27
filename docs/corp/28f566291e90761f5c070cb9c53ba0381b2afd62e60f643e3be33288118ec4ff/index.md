@@ -2,7 +2,7 @@
 layout: page
 title: ​Astra Ultima
 description: W:0 L:3 D:0 Bonus ❌
-date: NaN
+date: 1700916068
 ---
 ### Whitestar Bonus ❌
 

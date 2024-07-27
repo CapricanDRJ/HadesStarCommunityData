@@ -2,7 +2,7 @@
 layout: page
 title: ​星光万丈
 description: W:8 L:16 D:1 Bonus ✅
-date: NaN
+date: 1721651212
 ---
 ### Whitestar Bonus ✅
 

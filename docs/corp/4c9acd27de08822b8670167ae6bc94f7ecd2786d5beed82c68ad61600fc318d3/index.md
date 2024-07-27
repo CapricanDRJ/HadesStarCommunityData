@@ -2,7 +2,7 @@
 layout: page
 title: ​THE BENDERA
 description: W:15 L:6 D:0 Bonus ❌
-date: NaN
+date: 1715830706
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​绛紫星
 description: W:24 L:15 D:2 Bonus ✅
-date: NaN
+date: 1721475997
 ---
 ### Whitestar Bonus ✅
 

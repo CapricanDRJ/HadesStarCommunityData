@@ -2,7 +2,7 @@
 layout: page
 title: ​很多星球的社会主义团
 description: W:8 L:9 D:1 Bonus ❌
-date: NaN
+date: 1718246063
 ---
 ### Whitestar Bonus ❌
 

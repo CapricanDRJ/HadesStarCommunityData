@@ -2,7 +2,7 @@
 layout: page
 title: ​Midland Ind.
 description: W:9 L:9 D:0 Bonus ❌
-date: NaN
+date: 1720800679
 ---
 ### Whitestar Bonus ❌
 

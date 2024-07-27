@@ -2,7 +2,7 @@
 layout: page
 title: ​Galaxians
 description: W:11 L:13 D:0 Bonus ❌
-date: NaN
+date: 1721756090
 ---
 ### Whitestar Bonus ❌
 

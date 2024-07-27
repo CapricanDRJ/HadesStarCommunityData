@@ -2,7 +2,7 @@
 layout: page
 title: ​Bloodtide
 description: W:35 L:33 D:0 Bonus ❌
-date: NaN
+date: 1721466680
 ---
 ### Whitestar Bonus ❌
 

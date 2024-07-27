@@ -2,7 +2,7 @@
 layout: page
 title: ​P!RAT£ SHIP
 description: W:8 L:6 D:1 Bonus ❌
-date: NaN
+date: 1721602838
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​ProyectCorp
 description: W:16 L:21 D:0 Bonus ✅
-date: NaN
+date: 1721910244
 ---
 ### Whitestar Bonus ✅
 

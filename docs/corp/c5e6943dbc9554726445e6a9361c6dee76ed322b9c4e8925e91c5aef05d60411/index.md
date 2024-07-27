@@ -2,7 +2,7 @@
 layout: page
 title: ​銀河星际集团
 description: W:1 L:0 D:0 Bonus ❌
-date: NaN
+date: 1706235354
 ---
 ### Whitestar Bonus ❌
 

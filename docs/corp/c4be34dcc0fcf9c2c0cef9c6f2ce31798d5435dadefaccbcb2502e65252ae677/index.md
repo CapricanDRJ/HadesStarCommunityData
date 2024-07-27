@@ -2,7 +2,7 @@
 layout: page
 title: ​纸鸢台
 description: W:3 L:1 D:0 Bonus ❌
-date: NaN
+date: 1707147417
 ---
 ### Whitestar Bonus ❌
 

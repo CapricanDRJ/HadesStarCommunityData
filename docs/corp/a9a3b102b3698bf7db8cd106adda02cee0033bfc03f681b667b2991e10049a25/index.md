@@ -2,7 +2,7 @@
 layout: page
 title: ​Млечный путь
 description: W:12 L:13 D:0 Bonus ❌
-date: NaN
+date: 1720168374
 ---
 ### Whitestar Bonus ❌
 

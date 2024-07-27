@@ -2,7 +2,7 @@
 layout: page
 title: ​Bounty Hunters
 description: W:7 L:5 D:0 Bonus ❌
-date: NaN
+date: 1721911166
 ---
 ### Whitestar Bonus ❌
 

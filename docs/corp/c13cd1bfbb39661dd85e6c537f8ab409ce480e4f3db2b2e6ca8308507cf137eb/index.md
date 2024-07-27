@@ -2,7 +2,7 @@
 layout: page
 title: ​Heavenly Star 
 description: W:0 L:2 D:0 Bonus ❌
-date: NaN
+date: 1714751366
 ---
 ### Whitestar Bonus ❌
 

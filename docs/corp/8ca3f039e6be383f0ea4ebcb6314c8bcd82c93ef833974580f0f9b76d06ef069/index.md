@@ -2,7 +2,7 @@
 layout: page
 title: ​KINETIC
 description: W:8 L:0 D:0 Bonus ❌
-date: NaN
+date: 1711778222
 ---
 ### Whitestar Bonus ❌
 

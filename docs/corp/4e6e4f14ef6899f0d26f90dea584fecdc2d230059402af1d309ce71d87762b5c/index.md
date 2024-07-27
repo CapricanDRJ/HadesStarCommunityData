@@ -2,7 +2,7 @@
 layout: page
 title: ​Скричеры
 description: W:2 L:2 D:0 Bonus ❌
-date: NaN
+date: 1705243362
 ---
 ### Whitestar Bonus ❌
 

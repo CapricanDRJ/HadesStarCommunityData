@@ -2,7 +2,7 @@
 layout: page
 title: ​蓝色星系一号分盟
 description: W:0 L:3 D:0 Bonus ❌
-date: NaN
+date: 1718112615
 ---
 ### Whitestar Bonus ❌
 

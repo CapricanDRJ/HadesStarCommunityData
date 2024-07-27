@@ -2,7 +2,7 @@
 layout: page
 title: ​Warriors
 description: W:3 L:1 D:0 Bonus ❌
-date: NaN
+date: 1707860684
 ---
 ### Whitestar Bonus ❌
 

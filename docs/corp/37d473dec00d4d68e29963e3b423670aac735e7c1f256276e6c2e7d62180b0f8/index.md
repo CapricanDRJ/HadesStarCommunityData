@@ -2,7 +2,7 @@
 layout: page
 title: ​Dumpster Fire 2
 description: W:36 L:40 D:2 Bonus ❌
-date: NaN
+date: 1721805067
 ---
 ### Whitestar Bonus ❌
 

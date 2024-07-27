@@ -2,7 +2,7 @@
 layout: page
 title: ​DeutschlandGmbH
 description: W:1 L:3 D:0 Bonus ❌
-date: NaN
+date: 1709963978
 ---
 ### Whitestar Bonus ❌
 

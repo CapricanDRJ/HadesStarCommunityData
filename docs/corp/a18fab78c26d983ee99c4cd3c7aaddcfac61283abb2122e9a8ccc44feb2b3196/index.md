@@ -2,7 +2,7 @@
 layout: page
 title: ​НИФИГАСЕБЕ
 description: W:8 L:22 D:0 Bonus ❌
-date: NaN
+date: 1714308789
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​青鸾殿
 description: W:2 L:2 D:0 Bonus ❌
-date: NaN
+date: 1721536413
 ---
 ### Whitestar Bonus ❌
 

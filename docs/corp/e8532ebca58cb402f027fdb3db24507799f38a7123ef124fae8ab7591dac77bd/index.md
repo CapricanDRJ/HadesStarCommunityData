@@ -2,7 +2,7 @@
 layout: page
 title: ​仙女座星雲
 description: W:48 L:36 D:2 Bonus ✅
-date: NaN
+date: 1721726638
 ---
 ### Whitestar Bonus ✅
 

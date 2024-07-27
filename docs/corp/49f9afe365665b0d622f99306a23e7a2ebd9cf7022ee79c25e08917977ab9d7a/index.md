@@ -2,7 +2,7 @@
 layout: page
 title: ​TECH CO
 description: W:9 L:17 D:0 Bonus ❌
-date: NaN
+date: 1715583143
 ---
 ### Whitestar Bonus ❌
 

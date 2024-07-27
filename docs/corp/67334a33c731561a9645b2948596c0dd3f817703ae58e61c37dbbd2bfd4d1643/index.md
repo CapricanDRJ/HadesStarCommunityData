@@ -2,7 +2,7 @@
 layout: page
 title: ​WFOS
 description: W:0 L:1 D:0 Bonus ❌
-date: NaN
+date: 1718489572
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​GermanIndustrie
 description: W:8 L:2 D:1 Bonus ❌
-date: NaN
+date: 1720850863
 ---
 ### Whitestar Bonus ❌
 

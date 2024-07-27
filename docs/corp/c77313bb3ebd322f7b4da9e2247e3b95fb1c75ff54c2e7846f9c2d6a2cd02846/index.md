@@ -2,7 +2,7 @@
 layout: page
 title: ​Zeon
 description: W:0 L:4 D:0 Bonus ❌
-date: NaN
+date: 1710232783
 ---
 ### Whitestar Bonus ❌
 

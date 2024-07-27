@@ -2,7 +2,7 @@
 layout: page
 title: ​Enigma
 description: W:1 L:1 D:0 Bonus ❌
-date: NaN
+date: 1702352980
 ---
 ### Whitestar Bonus ❌
 

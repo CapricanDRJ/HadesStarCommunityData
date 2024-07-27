@@ -2,7 +2,7 @@
 layout: page
 title: ​YETI Collective
 description: W:18 L:30 D:0 Bonus ❌
-date: NaN
+date: 1721528599
 ---
 ### Whitestar Bonus ❌
 

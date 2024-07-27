@@ -2,7 +2,7 @@
 layout: page
 title: ​第一基地·端点星
 description: W:0 L:1 D:0 Bonus ❌
-date: NaN
+date: 1702827360
 ---
 ### Whitestar Bonus ❌
 

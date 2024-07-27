@@ -2,7 +2,7 @@
 layout: page
 title: ​Celtic Empire 2
 description: W:0 L:1 D:0 Bonus ❌
-date: NaN
+date: 1715128283
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​Team Elite
 description: W:1 L:2 D:1 Bonus ❌
-date: NaN
+date: 1710273158
 ---
 ### Whitestar Bonus ❌
 

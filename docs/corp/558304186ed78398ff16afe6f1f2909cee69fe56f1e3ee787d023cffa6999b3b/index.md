@@ -2,7 +2,7 @@
 layout: page
 title: ​六大天神.轻歌之影
 description: W:22 L:26 D:0 Bonus ❌
-date: NaN
+date: 1720664839
 ---
 ### Whitestar Bonus ❌
 

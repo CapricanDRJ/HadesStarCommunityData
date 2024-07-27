@@ -2,7 +2,7 @@
 layout: page
 title: ​Bandidos
 description: W:0 L:1 D:0 Bonus ❌
-date: NaN
+date: 1714900999
 ---
 ### Whitestar Bonus ❌
 

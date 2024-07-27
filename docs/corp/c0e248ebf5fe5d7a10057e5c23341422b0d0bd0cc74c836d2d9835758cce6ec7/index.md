@@ -2,7 +2,7 @@
 layout: page
 title: ​Sternenflotte
 description: W:3 L:9 D:0 Bonus ❌
-date: NaN
+date: 1720873100
 ---
 ### Whitestar Bonus ❌
 

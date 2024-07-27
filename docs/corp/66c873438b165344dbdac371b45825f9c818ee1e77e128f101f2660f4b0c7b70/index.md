@@ -2,7 +2,7 @@
 layout: page
 title: ​Free Ag3nts
 description: W:3 L:0 D:0 Bonus ❌
-date: NaN
+date: 1720030745
 ---
 ### Whitestar Bonus ❌
 

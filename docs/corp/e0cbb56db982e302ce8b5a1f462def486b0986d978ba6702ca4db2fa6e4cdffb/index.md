@@ -2,7 +2,7 @@
 layout: page
 title: ​Anti union
 description: W:0 L:2 D:0 Bonus ❌
-date: NaN
+date: 1703961058
 ---
 ### Whitestar Bonus ❌
 

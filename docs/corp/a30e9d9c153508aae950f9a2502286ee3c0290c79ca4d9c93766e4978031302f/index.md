@@ -2,7 +2,7 @@
 layout: page
 title: ​Mega Corp
 description: W:0 L:1 D:0 Bonus ❌
-date: NaN
+date: 1720844854
 ---
 ### Whitestar Bonus ❌
 

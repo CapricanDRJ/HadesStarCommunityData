@@ -2,7 +2,7 @@
 layout: page
 title: ​Rogue Hero's
 description: W:1 L:0 D:0 Bonus ❌
-date: NaN
+date: 1706926239
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​Sternenwanderer
 description: W:1 L:2 D:0 Bonus ❌
-date: NaN
+date: 1707271529
 ---
 ### Whitestar Bonus ❌
 

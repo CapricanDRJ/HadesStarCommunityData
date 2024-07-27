@@ -2,7 +2,7 @@
 layout: page
 title: ​Atlas corp
 description: W:5 L:9 D:1 Bonus ❌
-date: NaN
+date: 1719530028
 ---
 ### Whitestar Bonus ❌
 

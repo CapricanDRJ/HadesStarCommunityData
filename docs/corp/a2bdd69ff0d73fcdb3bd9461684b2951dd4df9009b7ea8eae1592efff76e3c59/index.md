@@ -2,7 +2,7 @@
 layout: page
 title: ​Curcubeu
 description: W:17 L:10 D:0 Bonus ❌
-date: NaN
+date: 1715328362
 ---
 ### Whitestar Bonus ❌
 

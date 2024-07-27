@@ -2,7 +2,7 @@
 layout: page
 title: ​Star Blazers
 description: W:10 L:25 D:0 Bonus ❌
-date: NaN
+date: 1722017834
 ---
 ### Whitestar Bonus ❌
 

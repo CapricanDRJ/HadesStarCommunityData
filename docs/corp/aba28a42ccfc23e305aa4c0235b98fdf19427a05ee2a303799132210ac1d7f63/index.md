@@ -2,7 +2,7 @@
 layout: page
 title: ​Die Mafia
 description: W:0 L:0 D:1 Bonus ❌
-date: NaN
+date: 1708916623
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​LUPI ROMÎNI
 description: W:1 L:3 D:0 Bonus ❌
-date: NaN
+date: 1716847439
 ---
 ### Whitestar Bonus ❌
 

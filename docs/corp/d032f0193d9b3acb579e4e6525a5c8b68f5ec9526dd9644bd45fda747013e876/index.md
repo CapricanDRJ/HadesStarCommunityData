@@ -2,7 +2,7 @@
 layout: page
 title: ​BSO Academy
 description: W:14 L:1 D:0 Bonus ❌
-date: NaN
+date: 1712594618
 ---
 ### Whitestar Bonus ❌
 

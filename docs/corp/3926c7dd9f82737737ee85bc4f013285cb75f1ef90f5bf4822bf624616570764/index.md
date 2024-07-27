@@ -2,7 +2,7 @@
 layout: page
 title: ​Любители Пива
 description: W:2 L:19 D:0 Bonus ❌
-date: NaN
+date: 1709926722
 ---
 ### Whitestar Bonus ❌
 

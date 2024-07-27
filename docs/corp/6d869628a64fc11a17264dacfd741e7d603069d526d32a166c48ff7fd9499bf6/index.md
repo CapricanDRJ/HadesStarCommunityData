@@ -2,7 +2,7 @@
 layout: page
 title: ​Венерский Союз
 description: W:5 L:10 D:0 Bonus ❌
-date: NaN
+date: 1716019102
 ---
 ### Whitestar Bonus ❌
 

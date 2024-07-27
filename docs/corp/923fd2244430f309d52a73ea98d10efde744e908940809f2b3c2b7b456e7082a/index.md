@@ -2,7 +2,7 @@
 layout: page
 title: ​27rus
 description: W:0 L:1 D:0 Bonus ❌
-date: NaN
+date: 1704707842
 ---
 ### Whitestar Bonus ❌
 

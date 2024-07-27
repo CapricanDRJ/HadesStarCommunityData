@@ -2,7 +2,7 @@
 layout: page
 title: ​КВАЗАР
 description: W:1 L:3 D:0 Bonus ❌
-date: NaN
+date: 1703858281
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​pegaso
 description: W:0 L:4 D:2 Bonus ❌
-date: NaN
+date: 1710487997
 ---
 ### Whitestar Bonus ❌
 

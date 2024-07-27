@@ -2,7 +2,7 @@
 layout: page
 title: ​Red Sky
 description: W:0 L:0 D:1 Bonus ❌
-date: NaN
+date: 1702699114
 ---
 ### Whitestar Bonus ❌
 

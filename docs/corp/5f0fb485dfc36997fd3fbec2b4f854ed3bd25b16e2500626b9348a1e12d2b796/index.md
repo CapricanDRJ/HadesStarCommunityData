@@ -2,7 +2,7 @@
 layout: page
 title: ​Quantum Web
 description: W:0 L:1 D:1 Bonus ❌
-date: NaN
+date: 1717877900
 ---
 ### Whitestar Bonus ❌
 

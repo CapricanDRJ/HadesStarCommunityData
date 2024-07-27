@@ -2,7 +2,7 @@
 layout: page
 title: ​Gwiezdna Horda
 description: W:4 L:0 D:0 Bonus ❌
-date: NaN
+date: 1702798992
 ---
 ### Whitestar Bonus ❌
 

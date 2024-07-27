@@ -2,7 +2,7 @@
 layout: page
 title: ​Galaktika corp
 description: W:14 L:5 D:2 Bonus ❌
-date: NaN
+date: 1721651212
 ---
 ### Whitestar Bonus ❌
 

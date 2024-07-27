@@ -2,7 +2,7 @@
 layout: page
 title: ​MicroNova
 description: W:0 L:1 D:0 Bonus ❌
-date: NaN
+date: 1702667056
 ---
 ### Whitestar Bonus ❌
 

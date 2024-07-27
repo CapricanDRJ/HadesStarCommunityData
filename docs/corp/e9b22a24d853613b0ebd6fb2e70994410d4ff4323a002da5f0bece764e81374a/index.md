@@ -2,7 +2,7 @@
 layout: page
 title: ​Revelation
 description: W:3 L:4 D:0 Bonus ❌
-date: NaN
+date: 1707180175
 ---
 ### Whitestar Bonus ❌
 

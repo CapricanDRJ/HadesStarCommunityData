@@ -2,7 +2,7 @@
 layout: page
 title: ​혁명군
 description: W:13 L:32 D:0 Bonus ❌
-date: NaN
+date: 1715096003
 ---
 ### Whitestar Bonus ❌
 

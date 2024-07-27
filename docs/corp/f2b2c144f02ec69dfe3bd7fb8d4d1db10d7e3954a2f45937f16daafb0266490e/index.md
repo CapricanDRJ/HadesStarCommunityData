@@ -2,7 +2,7 @@
 layout: page
 title: ​한국인
 description: W:31 L:14 D:3 Bonus ❌
-date: NaN
+date: 1718926373
 ---
 ### Whitestar Bonus ❌
 

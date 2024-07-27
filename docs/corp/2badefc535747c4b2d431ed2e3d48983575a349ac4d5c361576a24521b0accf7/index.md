@@ -2,7 +2,7 @@
 layout: page
 title: ​Darknova
 description: W:0 L:1 D:0 Bonus ❌
-date: NaN
+date: 1699370027
 ---
 ### Whitestar Bonus ❌
 

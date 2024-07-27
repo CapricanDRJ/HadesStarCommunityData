@@ -2,7 +2,7 @@
 layout: page
 title: ​Red Star Banker
 description: W:0 L:2 D:0 Bonus ❌
-date: NaN
+date: 1705138180
 ---
 ### Whitestar Bonus ❌
 

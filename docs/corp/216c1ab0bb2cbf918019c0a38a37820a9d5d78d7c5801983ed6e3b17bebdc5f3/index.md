@@ -2,7 +2,7 @@
 layout: page
 title: ​lonewolf
 description: W:9 L:10 D:1 Bonus ✅
-date: NaN
+date: 1722006411
 ---
 ### Whitestar Bonus ✅
 

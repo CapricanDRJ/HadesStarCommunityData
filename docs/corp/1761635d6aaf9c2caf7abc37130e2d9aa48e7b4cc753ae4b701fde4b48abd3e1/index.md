@@ -2,7 +2,7 @@
 layout: page
 title: ​Pyke Syndicate
 description: W:2 L:19 D:1 Bonus ❌
-date: NaN
+date: 1721810776
 ---
 ### Whitestar Bonus ❌
 

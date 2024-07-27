@@ -2,7 +2,7 @@
 layout: page
 title: ​Crux Cadre
 description: W:26 L:19 D:1 Bonus ❌
-date: NaN
+date: 1721642197
 ---
 ### Whitestar Bonus ❌
 

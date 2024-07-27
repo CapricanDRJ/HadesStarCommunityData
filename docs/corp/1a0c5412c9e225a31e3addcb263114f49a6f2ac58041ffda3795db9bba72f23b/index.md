@@ -2,7 +2,7 @@
 layout: page
 title: ​Kratos
 description: W:37 L:17 D:0 Bonus ✅
-date: NaN
+date: 1721899125
 ---
 ### Whitestar Bonus ✅
 

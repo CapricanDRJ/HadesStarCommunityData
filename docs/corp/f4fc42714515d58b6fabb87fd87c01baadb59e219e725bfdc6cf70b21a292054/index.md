@@ -2,7 +2,7 @@
 layout: page
 title: ​Orphans Of Kos
 description: W:5 L:6 D:0 Bonus ❌
-date: NaN
+date: 1707429599
 ---
 ### Whitestar Bonus ❌
 

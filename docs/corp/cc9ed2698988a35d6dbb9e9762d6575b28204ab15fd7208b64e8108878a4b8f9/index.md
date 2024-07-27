@@ -2,7 +2,7 @@
 layout: page
 title: ​Interestelar
 description: W:9 L:2 D:0 Bonus ❌
-date: NaN
+date: 1715970433
 ---
 ### Whitestar Bonus ❌
 

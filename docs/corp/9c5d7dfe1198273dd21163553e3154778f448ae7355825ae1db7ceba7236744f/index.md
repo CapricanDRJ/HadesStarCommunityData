@@ -2,7 +2,7 @@
 layout: page
 title: ​Village of Evil
 description: W:0 L:2 D:0 Bonus ❌
-date: NaN
+date: 1707496428
 ---
 ### Whitestar Bonus ❌
 

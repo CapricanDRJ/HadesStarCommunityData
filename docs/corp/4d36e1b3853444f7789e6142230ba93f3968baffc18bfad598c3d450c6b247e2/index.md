@@ -2,7 +2,7 @@
 layout: page
 title: ​资助会
 description: W:7 L:2 D:0 Bonus ✅
-date: NaN
+date: 1721832113
 ---
 ### Whitestar Bonus ✅
 

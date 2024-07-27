@@ -2,7 +2,7 @@
 layout: page
 title: ​Belters
 description: W:0 L:1 D:0 Bonus ❌
-date: NaN
+date: 1699696974
 ---
 ### Whitestar Bonus ❌
 

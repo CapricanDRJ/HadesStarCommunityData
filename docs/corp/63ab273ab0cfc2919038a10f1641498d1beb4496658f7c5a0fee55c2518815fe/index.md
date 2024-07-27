@@ -2,7 +2,7 @@
 layout: page
 title: ​Gulinga
 description: W:0 L:2 D:0 Bonus ❌
-date: NaN
+date: 1700612819
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​Russia 
 description: W:2 L:3 D:0 Bonus ❌
-date: NaN
+date: 1711683867
 ---
 ### Whitestar Bonus ❌
 

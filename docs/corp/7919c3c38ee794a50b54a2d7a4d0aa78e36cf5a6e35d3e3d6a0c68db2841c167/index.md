@@ -2,7 +2,7 @@
 layout: page
 title: ​Prospectors
 description: W:4 L:3 D:1 Bonus ❌
-date: NaN
+date: 1712005979
 ---
 ### Whitestar Bonus ❌
 

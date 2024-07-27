@@ -2,7 +2,7 @@
 layout: page
 title: ​Hades Academy
 description: W:5 L:5 D:0 Bonus ❌
-date: NaN
+date: 1721778627
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​IX Легион
 description: W:42 L:28 D:0 Bonus ✅
-date: NaN
+date: 1721894618
 ---
 ### Whitestar Bonus ✅
 

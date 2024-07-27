@@ -2,7 +2,7 @@
 layout: page
 title: ​Richthofen
 description: W:1 L:1 D:0 Bonus ❌
-date: NaN
+date: 1706552096
 ---
 ### Whitestar Bonus ❌
 

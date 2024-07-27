@@ -2,7 +2,7 @@
 layout: page
 title: ​Croce del Sud
 description: W:8 L:7 D:0 Bonus ✅
-date: NaN
+date: 1721778627
 ---
 ### Whitestar Bonus ✅
 

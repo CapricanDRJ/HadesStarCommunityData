@@ -2,7 +2,7 @@
 layout: page
 title: ​TRAPSTAR¹
 description: W:0 L:2 D:1 Bonus ❌
-date: NaN
+date: 1710306206
 ---
 ### Whitestar Bonus ❌
 

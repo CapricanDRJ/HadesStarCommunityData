@@ -2,7 +2,7 @@
 layout: page
 title: ​Highland Ind. 
 description: W:10 L:10 D:1 Bonus ❌
-date: NaN
+date: 1714044555
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​Tau Alpha
 description: W:0 L:1 D:0 Bonus ❌
-date: NaN
+date: 1706539713
 ---
 ### Whitestar Bonus ❌
 

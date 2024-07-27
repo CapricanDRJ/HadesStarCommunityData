@@ -2,7 +2,7 @@
 layout: page
 title: ​Hades Seminary 
 description: W:2 L:1 D:0 Bonus ❌
-date: NaN
+date: 1707434406
 ---
 ### Whitestar Bonus ❌
 

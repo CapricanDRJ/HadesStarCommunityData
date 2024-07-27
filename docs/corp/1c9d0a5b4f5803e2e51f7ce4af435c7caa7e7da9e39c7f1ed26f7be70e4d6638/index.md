@@ -2,7 +2,7 @@
 layout: page
 title: ​Sterling Gamers
 description: W:1 L:1 D:0 Bonus ❌
-date: NaN
+date: 1700841235
 ---
 ### Whitestar Bonus ❌
 

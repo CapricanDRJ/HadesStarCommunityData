@@ -2,7 +2,7 @@
 layout: page
 title: ​Sich.ua
 description: W:19 L:13 D:1 Bonus ✅
-date: NaN
+date: 1721505761
 ---
 ### Whitestar Bonus ✅
 

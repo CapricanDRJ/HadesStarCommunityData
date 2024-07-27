@@ -2,7 +2,7 @@
 layout: page
 title: ​Zvezdec
 description: W:29 L:14 D:0 Bonus ❌
-date: NaN
+date: 1720938316
 ---
 ### Whitestar Bonus ❌
 

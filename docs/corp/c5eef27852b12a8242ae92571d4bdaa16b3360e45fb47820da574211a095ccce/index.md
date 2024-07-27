@@ -2,7 +2,7 @@
 layout: page
 title: ​한국우주연합
 description: W:7 L:12 D:0 Bonus ❌
-date: NaN
+date: 1717387418
 ---
 ### Whitestar Bonus ❌
 

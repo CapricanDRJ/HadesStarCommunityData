@@ -2,7 +2,7 @@
 layout: page
 title: ​The Seperatists
 description: W:15 L:19 D:0 Bonus ❌
-date: NaN
+date: 1721270421
 ---
 ### Whitestar Bonus ❌
 

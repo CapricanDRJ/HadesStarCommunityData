@@ -2,7 +2,7 @@
 layout: page
 title: ​Polaris Corpo
 description: W:7 L:3 D:0 Bonus ❌
-date: NaN
+date: 1720434626
 ---
 ### Whitestar Bonus ❌
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​Hands Of God
 description: W:0 L:1 D:0 Bonus ❌
-date: NaN
+date: 1719519560
 ---
 ### Whitestar Bonus ❌
 

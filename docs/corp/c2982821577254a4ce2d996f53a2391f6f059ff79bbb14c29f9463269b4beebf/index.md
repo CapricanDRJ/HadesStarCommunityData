@@ -2,7 +2,7 @@
 layout: page
 title: ​Curiosity + Cat
 description: W:2 L:6 D:0 Bonus ❌
-date: NaN
+date: 1719293630
 ---
 ### Whitestar Bonus ❌
 

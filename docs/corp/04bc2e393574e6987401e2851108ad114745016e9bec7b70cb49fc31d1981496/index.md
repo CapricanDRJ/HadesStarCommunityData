@@ -2,7 +2,7 @@
 layout: page
 title: ​Октябристы
 description: W:41 L:41 D:1 Bonus ✅
-date: NaN
+date: 1721697194
 ---
 ### Whitestar Bonus ✅
 

@@ -2,7 +2,7 @@
 layout: page
 title: ​中国星际联盟
 description: W:32 L:27 D:1 Bonus ✅
-date: NaN
+date: 1721804766
 ---
 ### Whitestar Bonus ✅
 
