@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​Grunthal Gang
-description: W:34 L:23 D:0 Bonus ✅
+description: W:34 L:23 D:0 Bonus ❌
 date: 1721934891
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1329 🔻  (81)|
+| ELO Regular | 1329 🔻  (83)|
 | ELO Competitive | 1433 🔻  (60)|
 | Total Matches | 57 |
 | Wins | 34 |

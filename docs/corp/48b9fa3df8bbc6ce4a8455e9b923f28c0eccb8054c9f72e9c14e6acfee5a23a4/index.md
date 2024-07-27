@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Glashan
-description: W:3 L:27 D:0 Bonus ❌
-date: 1721340452
+description: W:3 L:28 D:0 Bonus ❌
+date: 1722067415
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1039 🔻  (1149)|
-| ELO Competitive | 1053 🔻  (1174)|
-| Total Matches | 30 |
+| ELO Regular | 1033 🔻  (1152)|
+| ELO Competitive | 1048 🔻  (1175)|
+| Total Matches | 31 |
 | Wins | 3 |
-| Losses | 27 |
+| Losses | 28 |
 | Draws | 0 |
 
 ### Recurring Opponents
@@ -26,6 +26,7 @@ date: 1721340452
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/27 | 3-17 | [Poggy Rockers](https://ws.tsl.rocks/corp/47aeb151232251d9e53310e21f1290b1240c63878169968847bd1e89efc909a7/) |
 | ❌ | 2024/07/18 | 3-28 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ✅ | 2024/07/12 | 7-2 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |
 | ❌ | 2024/07/05 | 0-23 | [Cyber Star](https://ws.tsl.rocks/corp/358bbbde0af23c5f41cdb4fde95bb713989c7812b5a0358f7c34ecceca19916c/) |

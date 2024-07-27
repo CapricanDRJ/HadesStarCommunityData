@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​Sich.ua
-description: W:19 L:13 D:1 Bonus ✅
-date: 1721505761
+description: W:20 L:13 D:1 Bonus ✅
+date: 1722065312
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1259 🔺  (196)|
-| ELO Competitive | 1387 🔺  (96)|
-| Total Matches | 33 |
-| Wins | 19 |
+| ELO Regular | 1269 🔺  (175)|
+| ELO Competitive | 1395 🔺  (82)|
+| Total Matches | 34 |
+| Wins | 20 |
 | Losses | 13 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 5 |
 
 ### Recurring Opponents
@@ -27,6 +28,7 @@ date: 1721505761
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/27 | 4-3 | [华夏三体舰队](https://ws.tsl.rocks/corp/a457b1d7612cdff92b655d33cf4ffd72b38aa796525cf0432423cfd0d01c6cf9/) |
 | ✅ | 2024/07/20 | 18-0 | [Север РусКорп](https://ws.tsl.rocks/corp/39eeae12a2a5fead3330938b8f38c71aab465634b732303dad7b2a7d5f472004/) |
 | ↔️ | 2024/07/13 | 0-0 | [PDC](https://ws.tsl.rocks/corp/3cfc5c94fb18b34d3a1018bfbf6d4211d3cfb18ebb02bf7784cebc1e3627de4a/) |
 | ✅ | 2024/07/13 | 14-0 | [ZN•H2B](https://ws.tsl.rocks/corp/2db26f485dd1e772b0bf13ef6db7eb053b37270ef1e24804ebc12472adb0708d/) |

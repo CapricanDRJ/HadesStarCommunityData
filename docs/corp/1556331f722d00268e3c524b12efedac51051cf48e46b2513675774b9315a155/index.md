@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Retarts
-description: W:14 L:16 D:1 Bonus ✅
-date: 1722061105
+description: W:15 L:16 D:1 Bonus ✅
+date: 1722063209
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1251 🔺  (214)|
-| ELO Competitive | 1316 🔺  (174)|
-| Total Matches | 31 |
-| Wins | 14 |
+| ELO Regular | 1270 🔺  (172)|
+| ELO Competitive | 1327 🔺  (164)|
+| Total Matches | 32 |
+| Wins | 15 |
 | Losses | 16 |
 | Draws | 1 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 4 |
 
 
@@ -22,6 +22,7 @@ date: 1722061105
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/27 | 27-8 | [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1/) |
 | ✅ | 2024/07/27 | 14-5 | [Dumpster Fire](https://ws.tsl.rocks/corp/f191bf7efb93ca805453b3e11aef9278976a4c70fe9790e7813f28fcdf899121/) |
 | ✅ | 2024/07/21 | 4-3 | [Grater T](https://ws.tsl.rocks/corp/2044ad2bb7831118aae299744191230a33d196c7997f9516a20c3d0a321ba669/) |
 | ❌ | 2024/07/21 | 13-17 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) |

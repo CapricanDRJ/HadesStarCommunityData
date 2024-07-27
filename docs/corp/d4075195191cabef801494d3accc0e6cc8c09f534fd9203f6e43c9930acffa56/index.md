@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Hamburg AG 2
-description: W:5 L:8 D:0 Bonus ✅
-date: 1721471188
+description: W:5 L:9 D:0 Bonus ✅
+date: 1722064110
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1195 🔺  (487)|
-| ELO Competitive | 1211 🔺  (476)|
-| Total Matches | 13 |
+| ELO Regular | 1186 🔻  (585)|
+| ELO Competitive | 1205 🔻  (500)|
+| Total Matches | 14 |
 | Wins | 5 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 0 |
-| Streak | 3 |
 | Streak Record | 3 |
 
 ### Recurring Opponents
@@ -27,6 +26,7 @@ date: 1721471188
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/27 | 12-35 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | ✅ | 2024/07/20 | 25-19 | [ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ](https://ws.tsl.rocks/corp/85a74d128f924274446b7fb754136e6ef7185c754df2fae3b10591d28536f17a/) |
 | ✅ | 2024/07/13 | 53-10 | [EZCO](https://ws.tsl.rocks/corp/cfad990cabcdc1326c0aa3f93a57d1f0e6ec3cd2949e01e6b08443c3af8282f1/) |
 | ✅ | 2024/07/06 | 36-20 | [Duchy Arrakis](https://ws.tsl.rocks/corp/6c8c526b366a9e9eb3eba3d3107b628042c005db03530961b24a722cc58a339e/) |

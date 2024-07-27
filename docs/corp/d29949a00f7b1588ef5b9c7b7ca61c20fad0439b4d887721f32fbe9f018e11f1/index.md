@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Elysium
-description: W:27 L:9 D:0 Bonus ✅
-date: 1721476298
+description: W:27 L:10 D:0 Bonus ✅
+date: 1722063209
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1360 🔺  (57)|
-| ELO Competitive | 1406 🔺  (79)|
-| Total Matches | 36 |
+| ELO Regular | 1340 🔻  (75)|
+| ELO Competitive | 1387 🔻  (93)|
+| Total Matches | 37 |
 | Wins | 27 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 10 |
 
 ### Recurring Opponents
@@ -29,6 +28,7 @@ date: 1721476298
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/27 | 8-27 | [Retarts](https://ws.tsl.rocks/corp/1556331f722d00268e3c524b12efedac51051cf48e46b2513675774b9315a155/) |
 | ✅ | 2024/07/20 | 29-3 | [Germania](https://ws.tsl.rocks/corp/e088c9a1e761ef8c1f07a1d374886006b0ecace15d07b9549e3655729b630897/) |
 | ✅ | 2024/07/13 | 23-2 | [Star Blazers](https://ws.tsl.rocks/corp/f179acb7b919d9d3185f1fcd66bb17d5e257feab5039bcbf6efb5c8cd6f5c057/) |
 | ❌ | 2024/06/29 | 8-19 | [AFronteiraFinal](https://ws.tsl.rocks/corp/f0c64a4babe1fb017902406f1f331c63129409bccfba868cadc10cf1d064b9d4/) |

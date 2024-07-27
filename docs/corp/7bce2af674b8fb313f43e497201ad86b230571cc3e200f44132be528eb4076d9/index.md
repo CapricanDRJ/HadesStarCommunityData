@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Zvezdec
-description: W:29 L:14 D:0 Bonus ❌
-date: 1720938316
+description: W:29 L:15 D:0 Bonus ❌
+date: 1722073425
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1318 🔺  (96)|
-| ELO Competitive | 1399 🔺  (83)|
-| Total Matches | 43 |
+| ELO Regular | 1304 🔻  (117)|
+| ELO Competitive | 1382 🔻  (99)|
+| Total Matches | 44 |
 | Wins | 29 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 0 |
 | Streak Record | 9 |
 
@@ -31,6 +31,7 @@ date: 1720938316
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/27 | 3-29 | [Lights Off ](https://ws.tsl.rocks/corp/8a8b7e5b7a00ef709249daa4546d03bd85258cde01d35e1829a64ed95c3d6cca/) |
 | ✅ | 2024/07/14 | 26-0 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |
 | ❌ | 2024/07/07 | 11-32 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | ✅ | 2024/06/30 | 32-8 | [Hamburg AG 2](https://ws.tsl.rocks/corp/d4075195191cabef801494d3accc0e6cc8c09f534fd9203f6e43c9930acffa56/) |

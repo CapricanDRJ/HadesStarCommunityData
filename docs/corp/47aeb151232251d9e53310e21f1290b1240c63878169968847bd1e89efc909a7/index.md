@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Poggy Rockers
-description: W:23 L:8 D:2 Bonus ✅
-date: 1721561831
+description: W:24 L:9 D:2 Bonus ✅
+date: 1722067716
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1287 🔻  (143)|
-| ELO Competitive | 1316 🔺  (180)|
-| Total Matches | 33 |
-| Wins | 23 |
-| Losses | 8 |
+| ELO Regular | 1273 🔻  (164)|
+| ELO Competitive | 1321 🔺  (172)|
+| Total Matches | 35 |
+| Wins | 24 |
+| Losses | 9 |
 | Draws | 2 |
 | Streak Record | 15 |
 
@@ -26,6 +26,8 @@ date: 1721561831
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/27 | 0-5 | [永恒之梦](https://ws.tsl.rocks/corp/51524c100011292acfff96dc47f5b506950922c6e467b1586d5c571cc281fd4d/) |
+| ✅ | 2024/07/27 | 17-3 | [Glashan](https://ws.tsl.rocks/corp/48b9fa3df8bbc6ce4a8455e9b923f28c0eccb8054c9f72e9c14e6acfee5a23a4/) |
 | ↔️ | 2024/07/21 | 0-0 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ✅ | 2024/07/21 | 13-0 | [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046/) |
 | ✅ | 2024/07/14 | 15-0 | [RedStar Raiding](https://ws.tsl.rocks/corp/83a1c4f1576eec7dce037eb5b64b2455ca3affb9d3072108c5d4d3eba88b4570/) |

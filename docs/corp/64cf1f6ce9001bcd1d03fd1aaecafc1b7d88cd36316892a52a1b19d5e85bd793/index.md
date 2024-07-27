@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​lost souls
-description: W:25 L:23 D:1 Bonus ✅
-date: 1721583302
+description: W:25 L:24 D:1 Bonus ✅
+date: 1722064710
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1232 🔻  (271)|
-| ELO Competitive | 1365 🔺  (114)|
-| Total Matches | 49 |
+| ELO Regular | 1219 🔻  (321)|
+| ELO Competitive | 1348 🔻  (136)|
+| Total Matches | 50 |
 | Wins | 25 |
-| Losses | 23 |
+| Losses | 24 |
 | Draws | 1 |
 | Streak Record | 4 |
 
@@ -30,6 +30,7 @@ date: 1721583302
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/27 | 2-3 | [Север РусКорп](https://ws.tsl.rocks/corp/39eeae12a2a5fead3330938b8f38c71aab465634b732303dad7b2a7d5f472004/) |
 | ❌ | 2024/07/21 | 4-34 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) |
 | ✅ | 2024/07/21 | 15-2 | [Axioma](https://ws.tsl.rocks/corp/2ec904c87d0183a49e22dc53508fa5c75d6e638e3a152a30336831697c60e91e/) |
 | ❌ | 2024/07/15 | 1-26 | [Bacon Warriors](https://ws.tsl.rocks/corp/ec62b01fc96adc2a7b7ac4077438e5153eeefc94740fab8309dcb6613e3a7f48/) |

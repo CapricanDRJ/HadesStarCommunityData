@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​Providence
-description: W:26 L:12 D:0 Bonus ❌
-date: 1720961756
+description: W:27 L:12 D:0 Bonus ✅
+date: 1722065913
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1321 🔺  (93)|
-| ELO Competitive | 1381 🔺  (100)|
-| Total Matches | 38 |
-| Wins | 26 |
+| ELO Regular | 1330 🔺  (82)|
+| ELO Competitive | 1395 🔺  (83)|
+| Total Matches | 39 |
+| Wins | 27 |
 | Losses | 12 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 11 |
 
 ### Recurring Opponents
@@ -31,6 +32,7 @@ date: 1720961756
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/27 | 29-14 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) |
 | ✅ | 2024/07/14 | 18-9 | [Crazy Elite](https://ws.tsl.rocks/corp/ef64e9014b773074470ead0907b9c122bf6bda753de1cddfa01e95a00e9d47dc/) |
 | ❌ | 2024/07/06 | 19-37 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) |
 | ❌ | 2024/06/21 | 12-14 | [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) |

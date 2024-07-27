@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Hun Generals
-description: W:8 L:30 D:0 Bonus ✅
+description: W:8 L:30 D:0 Bonus ❌
 date: 1722028054
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

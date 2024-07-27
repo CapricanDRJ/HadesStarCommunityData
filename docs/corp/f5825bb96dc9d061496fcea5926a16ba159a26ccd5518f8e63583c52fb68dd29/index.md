@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Red_Coat_Mafia
-description: W:13 L:18 D:1 Bonus ✅
+description: W:13 L:18 D:1 Bonus ❌
 date: 1721452857
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1198 🔺  (468)|
-| ELO Competitive | 1320 🔺  (170)|
+| ELO Regular | 1198 🔺  (469)|
+| ELO Competitive | 1320 🔺  (173)|
 | Total Matches | 32 |
 | Wins | 13 |
 | Losses | 18 |
