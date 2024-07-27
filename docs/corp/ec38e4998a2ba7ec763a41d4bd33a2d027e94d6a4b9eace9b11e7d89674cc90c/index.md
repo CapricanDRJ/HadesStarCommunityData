@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​StarControl
-description: W:19 L:5 D:0 Bonus ✅
+description: W:19 L:5 D:0 Bonus ❌
 date: 1721475697
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

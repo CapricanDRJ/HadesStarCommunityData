@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​BRASIL STAR
-description: W:31 L:15 D:1 Bonus ❌
-date: 1721455261
+description: W:32 L:15 D:1 Bonus ✅
+date: 1722094164
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1334 🔺  (79)|
-| ELO Competitive | 1429 🔺  (64)|
-| Total Matches | 47 |
-| Wins | 31 |
+| ELO Regular | 1345 🔺  (66)|
+| ELO Competitive | 1438 🔺  (57)|
+| Total Matches | 48 |
+| Wins | 32 |
 | Losses | 15 |
 | Draws | 1 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 5 |
 
 ### Recurring Opponents
@@ -29,6 +29,7 @@ date: 1721455261
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/27 | 24-0 | [Grater T](https://ws.tsl.rocks/corp/2044ad2bb7831118aae299744191230a33d196c7997f9516a20c3d0a321ba669/) |
 | ✅ | 2024/07/20 | 15-11 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) |
 | ✅ | 2024/07/13 | 28-0 | [ༀᅗBAR ESTELARᅗༀ](https://ws.tsl.rocks/corp/874716e0cba92e65a541f6751246b0fa1d503d7ee2b00dcde1ab424af30190be/) |
 | ❌ | 2024/06/29 | 3-13 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |

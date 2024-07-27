@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Hun Generals
-description: W:8 L:30 D:0 Bonus ❌
-date: 1722028054
+description: W:8 L:31 D:0 Bonus ❌
+date: 1722093262
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1011 🔻  (1167)|
-| ELO Competitive | 1122 🔻  (1112)|
-| Total Matches | 38 |
+| ELO Regular | 1006 🔻  (1167)|
+| ELO Competitive | 1129 🔻  (1106)|
+| Total Matches | 39 |
 | Wins | 8 |
-| Losses | 30 |
+| Losses | 31 |
 | Draws | 0 |
 | Streak Record | 3 |
 
@@ -29,6 +29,7 @@ date: 1722028054
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/27 | 0-37 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |
 | ❌ | 2024/07/26 | 4-39 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) |
 | ✅ | 2024/07/20 | 31-12 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) |
 | ❌ | 2024/07/14 | 2-11 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) |

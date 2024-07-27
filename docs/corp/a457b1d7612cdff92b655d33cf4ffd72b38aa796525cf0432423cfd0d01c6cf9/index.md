@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​华夏三体舰队
-description: W:9 L:16 D:3 Bonus ❌
-date: 1722065312
+description: W:9 L:17 D:3 Bonus ❌
+date: 1722089655
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1137 🔻  (1030)|
-| ELO Competitive | 1219 🔻  (404)|
-| Total Matches | 28 |
+| ELO Regular | 1125 🔻  (1054)|
+| ELO Competitive | 1219 🔻  (406)|
+| Total Matches | 29 |
 | Wins | 9 |
-| Losses | 16 |
+| Losses | 17 |
 | Draws | 3 |
 | Streak Record | 3 |
 
@@ -27,6 +27,7 @@ date: 1722065312
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/27 | 0-2 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ❌ | 2024/07/27 | 3-4 | [Sich\.ua](https://ws.tsl.rocks/corp/9fcd6d7c4fe7f8e39acf48585dfe9c6d3d14edc7781fe8caf85618b3e98c685d/) |
 | ❌ | 2024/07/21 | 2-3 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) |
 | ❌ | 2024/07/20 | 2-6 | [STRVS233～](https://ws.tsl.rocks/corp/727f6b88132c5850b1ef7ad02101bab3f97fc5dd191307dffca64181bf41e614/) |

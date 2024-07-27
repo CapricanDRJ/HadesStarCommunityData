@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​Ƭιтαηѕ Ф тєʀʀσƦ
-description: W:18 L:10 D:0 Bonus ✅
-date: 1721530102
+description: W:19 L:10 D:0 Bonus ✅
+date: 1722093262
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1283 🔺  (151)|
-| ELO Competitive | 1361 🔺  (120)|
-| Total Matches | 28 |
-| Wins | 18 |
+| ELO Regular | 1288 🔺  (137)|
+| ELO Competitive | 1367 🔺  (115)|
+| Total Matches | 29 |
+| Wins | 19 |
 | Losses | 10 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 5 |
 
 ### Recurring Opponents
@@ -27,6 +28,7 @@ date: 1721530102
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/27 | 37-0 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) |
 | ✅ | 2024/07/21 | 21-5 | [Created](https://ws.tsl.rocks/corp/04182a4606d981d1c410b0c058248e428765c672442d912ec47218ace9004e74/) |
 | ❌ | 2024/07/21 | 0-14 | [МеГаКо](https://ws.tsl.rocks/corp/11cd7fa53aad1bfc7d40c47a63de7b6c4a6d76f00e69dcb853f47e2c90b382dd/) |
 | ❌ | 2024/07/14 | 0-26 | [Zvezdec](https://ws.tsl.rocks/corp/7bce2af674b8fb313f43e497201ad86b230571cc3e200f44132be528eb4076d9/) |

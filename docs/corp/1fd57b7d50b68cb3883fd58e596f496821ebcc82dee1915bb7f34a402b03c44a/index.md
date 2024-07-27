@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Scar
-description: W:25 L:16 D:1 Bonus ✅
-date: 1721643099
+description: W:26 L:16 D:1 Bonus ✅
+date: 1722088753
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1319 🔺  (96)|
-| ELO Competitive | 1354 🔺  (127)|
-| Total Matches | 42 |
-| Wins | 25 |
+| ELO Regular | 1322 🔺  (94)|
+| ELO Competitive | 1358 🔺  (124)|
+| Total Matches | 43 |
+| Wins | 26 |
 | Losses | 16 |
 | Draws | 1 |
-| Streak | 4 |
-| Streak Record | 4 |
+| Streak | 5 |
+| Streak Record | 5 |
 
 ### Recurring Opponents
 
@@ -31,6 +31,7 @@ date: 1721643099
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/27 | 22-4 | [Space Pirates](https://ws.tsl.rocks/corp/87eff6e453b6f020baf8cb8930236b566161e22814cdbdc77d696c5812684bc6/) |
 | ✅ | 2024/07/22 | 28-0 | [Sektion 32](https://ws.tsl.rocks/corp/16e8d18e4c51a9154959f8d3cd2417d11695210bb12baf2773eb12dea2f5966e/) |
 | ✅ | 2024/07/17 | 28-0 | [Черный Легион](https://ws.tsl.rocks/corp/af3427036ba655aaea1af0c704240800cc2def44f43c06d558d9cc1ec8bcbc7b/) |
 | ✅ | 2024/07/11 | 34-8 | [Simply Uranus](https://ws.tsl.rocks/corp/951c4b2ef77de2b24b3e3b3cd962679643a8fae1131e289d4ed60482d10aff45/) |

@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​Brodudes Inc.
-description: W:58 L:14 D:1 Bonus ✅
-date: 1721651212
+description: W:59 L:14 D:1 Bonus ✅
+date: 1722086047
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1477 🔺  (11)|
-| ELO Competitive | 1572 🔺  (4)|
-| Total Matches | 73 |
-| Wins | 58 |
+| ELO Regular | 1486 🔺  (8)|
+| ELO Competitive | 1580 🔺  (3)|
+| Total Matches | 74 |
+| Wins | 59 |
 | Losses | 14 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 9 |
 
 ### Recurring Opponents
@@ -33,6 +34,7 @@ date: 1721651212
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/27 | 17-7 | [Дом Датэ](https://ws.tsl.rocks/corp/10cbcbd91c4084657bdab01ef573cc48170fbc4dd0ab533f96712f1cb6097ff2/) |
 | ✅ | 2024/07/22 | 24-3 | [Galaktika corp](https://ws.tsl.rocks/corp/c37872d1ea085402bf536c707a895610f72dafda4bede848405b7908b4523985/) |
 | ❌ | 2024/07/20 | 19-21 | [Corp\. Estelar](https://ws.tsl.rocks/corp/aec01be59075af2b2995f74e3e14f47e2b3ce1bd3b74abc78200a1d6330b8a72/) |
 | ✅ | 2024/07/14 | 34-3 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |

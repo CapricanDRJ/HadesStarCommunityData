@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Gummibärenbande
-description: W:1 L:17 D:0 Bonus ❌
-date: 1721414090
+description: W:1 L:18 D:0 Bonus ❌
+date: 1722093863
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1055 🔻  (1142)|
-| ELO Competitive | 1082 🔻  (1155)|
-| Total Matches | 18 |
+| ELO Regular | 1046 🔻  (1146)|
+| ELO Competitive | 1072 🔻  (1165)|
+| Total Matches | 19 |
 | Wins | 1 |
-| Losses | 17 |
+| Losses | 18 |
 | Draws | 0 |
 
 ### Recurring Opponents
@@ -27,6 +27,7 @@ date: 1721414090
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/27 | 22-26 | [BRhue](https://ws.tsl.rocks/corp/cf382c812409b617906f693517aebeee55e827f37c20a515ff23810e49d6310d/) |
 | ❌ | 2024/07/19 | 7-18 | [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) |
 | ❌ | 2024/07/05 | 32-41 | [星舰月球](https://ws.tsl.rocks/corp/b9a3e1e7fd3a235db7f440974db9210dc9a3b85c39fd437099f32f53cfe1e21c/) |
 | ✅ | 2024/06/21 | 26-23 | [Titan Corp\.](https://ws.tsl.rocks/corp/c87b86a6baab08254d7226396a20c74fe0972f64fab6fee405914076e111193c/) |

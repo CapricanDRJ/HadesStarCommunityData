@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Space Pirates
-description: W:5 L:30 D:0 Bonus ❌
-date: 1721462173
+description: W:5 L:31 D:0 Bonus ❌
+date: 1722088753
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 972 🔻  (1176)|
-| ELO Competitive | 1002 🔻  (1181)|
-| Total Matches | 35 |
+| ELO Regular | 968 🔻  (1177)|
+| ELO Competitive | 998 🔻  (1181)|
+| Total Matches | 36 |
 | Wins | 5 |
-| Losses | 30 |
+| Losses | 31 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -27,6 +27,7 @@ date: 1721462173
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/27 | 4-22 | [Scar](https://ws.tsl.rocks/corp/1fd57b7d50b68cb3883fd58e596f496821ebcc82dee1915bb7f34a402b03c44a/) |
 | ❌ | 2024/07/20 | 0-37 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |
 | ❌ | 2024/07/14 | 0-24 | [SternenStaub](https://ws.tsl.rocks/corp/11f1e8a4d522eaef8cb40c95d07b4533097aa6509ddafd1d7efc1449e8b10f38/) |
 | ❌ | 2024/07/06 | 0-36 | [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) |

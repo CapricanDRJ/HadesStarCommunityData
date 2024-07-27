@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​SQPT
-description: W:29 L:33 D:0 Bonus ❌
-date: 1721619362
+description: W:30 L:33 D:0 Bonus ✅
+date: 1722089354
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (723)|
-| ELO Competitive | 1329 🔻  (161)|
-| Total Matches | 62 |
-| Wins | 29 |
+| ELO Regular | 1201 🔺  (432)|
+| ELO Competitive | 1344 🔺  (141)|
+| Total Matches | 63 |
+| Wins | 30 |
 | Losses | 33 |
 | Draws | 0 |
 | Streak Record | 5 |
@@ -31,6 +31,7 @@ date: 1721619362
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/27 | 24-21 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) |
 | ❌ | 2024/07/22 | 7-14 | [Fleet Corp Ares](https://ws.tsl.rocks/corp/8ceac360859239e9b9386b5e4a0c3d3c7e75941b010804ab8b405d9eb6f806f6/) |
 | ❌ | 2024/07/20 | 8-19 | [绛紫星](https://ws.tsl.rocks/corp/8c2109279ceb01bcca0aa5e85c151d5877831ac54199285743750e2ed343b407/) |
 | ❌ | 2024/07/13 | 24-37 | [Omega Alpha](https://ws.tsl.rocks/corp/b6e23a3f1f3a3c735c694624b273dcd7da2f8bd13a5ac2b36a8ad39737b1d062/) |

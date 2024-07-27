@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​RUFORS
-description: W:5 L:4 D:0 Bonus ✅
+description: W:5 L:4 D:0 Bonus ❌
 date: 1721474795
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1229 🔺  (281)|
-| ELO Competitive | 1234 🔺  (354)|
+| ELO Regular | 1229 🔺  (280)|
+| ELO Competitive | 1234 🔺  (355)|
 | Total Matches | 9 |
 | Wins | 5 |
 | Losses | 4 |

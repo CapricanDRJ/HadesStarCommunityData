@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​银星舰队SSF
-description: W:9 L:3 D:0 Bonus ❌
-date: 1721319218
+description: W:9 L:4 D:0 Bonus ❌
+date: 1722084544
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1262 🔺  (190)|
-| ELO Competitive | 1274 🔺  (259)|
-| Total Matches | 12 |
+| ELO Regular | 1244 🔻  (231)|
+| ELO Competitive | 1256 🔻  (295)|
+| Total Matches | 13 |
 | Wins | 9 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
 | Streak Record | 7 |
 
@@ -21,6 +21,7 @@ date: 1721319218
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/27 | 2-15 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ✅ | 2024/07/18 | 1-0 | [苏维埃联邦](https://ws.tsl.rocks/corp/4b067d39aa68bf846ec24a1af1a1038844cfa78699d1190f74a77b1745e148ac/) |
 | ❌ | 2024/07/13 | 0-2 | [Север РусКорп](https://ws.tsl.rocks/corp/39eeae12a2a5fead3330938b8f38c71aab465634b732303dad7b2a7d5f472004/) |
 | ❌ | 2024/06/16 | 2-19 | [柯伊伯带伊甸园](https://ws.tsl.rocks/corp/4eea992d73d29d14f33b0acc0b240ba7c71162f6e6a453f3771b7365d18616f6/) |

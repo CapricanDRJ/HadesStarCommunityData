@@ -1,27 +1,32 @@
 ---
 layout: page
 title: ​Галактика Зла
-description: W:12 L:14 D:0 Bonus ❌
-date: 1721437231
+description: W:12 L:15 D:0 Bonus ❌
+date: 1722090256
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1245 🔺  (230)|
-| ELO Competitive | 1262 🔺  (279)|
-| Total Matches | 26 |
+| ELO Regular | 1229 🔻  (282)|
+| ELO Competitive | 1248 🔻  (313)|
+| Total Matches | 27 |
 | Wins | 12 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 4 |
 
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [Industrial W\.O](https://ws.tsl.rocks/corp/99a4ba88f6a620cb9ea1da456127c978a858ffbda4e40b255fcf3365515da25d/) | 0 | 2 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/27 | 0-11 | [Industrial W\.O](https://ws.tsl.rocks/corp/99a4ba88f6a620cb9ea1da456127c978a858ffbda4e40b255fcf3365515da25d/) |
 | ✅ | 2024/07/20 | 19-11 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |
 | ✅ | 2024/07/11 | 18-9 | [Cyber Star](https://ws.tsl.rocks/corp/358bbbde0af23c5f41cdb4fde95bb713989c7812b5a0358f7c34ecceca19916c/) |
 | ❌ | 2024/07/05 | 0-10 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) |

@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Дом Датэ
-description: W:24 L:17 D:0 Bonus ✅
-date: 1721987475
+description: W:24 L:18 D:0 Bonus ✅
+date: 1722086047
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1336 🔺  (78)|
+| ELO Regular | 1327 🔻  (85)|
 | ELO Competitive | 1393 🔺  (87)|
-| Total Matches | 41 |
+| Total Matches | 42 |
 | Wins | 24 |
-| Losses | 17 |
+| Losses | 18 |
 | Draws | 0 |
-| Streak | 5 |
 | Streak Record | 5 |
 
 ### Recurring Opponents
@@ -29,6 +28,7 @@ date: 1721987475
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/27 | 7-17 | [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) |
 | ✅ | 2024/07/26 | 20-9 | [Spica​](https://ws.tsl.rocks/corp/df96d6d34c4906312183050c8aa7a502678ab2902b7c23112aa9fda827bb4191/) |
 | ✅ | 2024/07/20 | 15-8 | [Tuatha De Danan](https://ws.tsl.rocks/corp/7741dbd0c9e7ddbc162e374691cb3346e4bb6600840f7962ec4a4414d5d2f780/) |
 | ✅ | 2024/07/19 | 15-1 | [AKA](https://ws.tsl.rocks/corp/5fde3f409facbda701cdf21de0895eb7c7e17e2d472ae52cc0aa178ce2db64d6/) |
