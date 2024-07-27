@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​YETI Collective
-description: W:18 L:30 D:0 Bonus ❌
-date: 1721528599
+description: W:18 L:31 D:0 Bonus ❌
+date: 1722113702
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1081 🔻  (1121)|
-| ELO Competitive | 1180 🔻  (853)|
-| Total Matches | 48 |
+| ELO Regular | 1071 🔻  (1129)|
+| ELO Competitive | 1167 🔻  (983)|
+| Total Matches | 49 |
 | Wins | 18 |
-| Losses | 30 |
+| Losses | 31 |
 | Draws | 0 |
 | Streak Record | 7 |
 
@@ -30,6 +30,7 @@ date: 1721528599
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/27 | 3-22 | [Midland Ind\.](https://ws.tsl.rocks/corp/da3a00a59e73cb89ddcf9ae42f31ecf0c9d9b5fe9a2dc5ddec6fc42922f86a23/) |
 | ❌ | 2024/07/21 | 2-28 | [GDZ](https://ws.tsl.rocks/corp/a04890160268d05cf11f997b0a1c724fbbcfa66b2ea4cb1c4b56ca18d0425d62/) |
 | ❌ | 2024/07/13 | 23-47 | [BRhue](https://ws.tsl.rocks/corp/cf382c812409b617906f693517aebeee55e827f37c20a515ff23810e49d6310d/) |
 | ✅ | 2024/07/06 | 25-5 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) |

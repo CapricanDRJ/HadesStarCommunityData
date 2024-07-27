@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​星舰月球
-description: W:29 L:8 D:0 Bonus ❌
-date: 1720200233
+description: W:30 L:8 D:0 Bonus ✅
+date: 1722105915
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1433 🔺  (21)|
-| ELO Competitive | 1504 🔺  (21)|
-| Total Matches | 37 |
-| Wins | 29 |
+| ELO Regular | 1435 🔺  (21)|
+| ELO Competitive | 1507 🔺  (20)|
+| Total Matches | 38 |
+| Wins | 30 |
 | Losses | 8 |
 | Draws | 0 |
-| Streak | 18 |
-| Streak Record | 18 |
+| Streak | 19 |
+| Streak Record | 19 |
 
 ### Recurring Opponents
 
@@ -30,6 +30,7 @@ date: 1720200233
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/27 | 39-18 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) |
 | ✅ | 2024/07/05 | 41-32 | [Gummibärenbande](https://ws.tsl.rocks/corp/7111d11716d236254b3fe2fdc0df09519cbed1ee9cc2c7691983534a3d8e1366/) |
 | ✅ | 2024/06/29 | 31-11 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) |
 | ✅ | 2024/06/22 | 33-18 | [Winged Pheonix](https://ws.tsl.rocks/corp/6b9f3e0b419f79343ffd4a8134703379db0e4591879151cbc3ef6a3ff825a2d3/) |

@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​星河绮梦
-description: W:9 L:1 D:0 Bonus ❌
-date: 1721023966
+description: W:9 L:2 D:0 Bonus ❌
+date: 1722110081
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1303 🔺  (119)|
-| ELO Competitive | 1330 🔺  (159)|
-| Total Matches | 10 |
+| ELO Regular | 1284 🔻  (147)|
+| ELO Competitive | 1311 🔻  (186)|
+| Total Matches | 11 |
 | Wins | 9 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
-| Streak | 4 |
 | Streak Record | 5 |
 
 
@@ -22,6 +21,7 @@ date: 1721023966
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/27 | 9-17 | [游徒之家](https://ws.tsl.rocks/corp/7ab5f6970c8703095b0589da6e5d648dc64a94ca6d901ef09d4949409b2c44b9/) |
 | ✅ | 2024/07/15 | 21-1 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ✅ | 2024/07/10 | 18-0 | [超新星联盟](https://ws.tsl.rocks/corp/c3667794c88fd0a09f565dc3b4fed5325f131a616d01d0f6890755b44997d0a1/) |
 | ✅ | 2024/07/04 | 13-0 | [星光舰队](https://ws.tsl.rocks/corp/e48d364ccf6d36f1f00db66d6bbae7b5d5aee09d90aeee03264b3a6cede3252c/) |

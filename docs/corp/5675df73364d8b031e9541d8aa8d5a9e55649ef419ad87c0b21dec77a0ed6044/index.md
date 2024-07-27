@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​nuevo mundo
-description: W:7 L:7 D:0 Bonus ✅
-date: 1721496442
+description: W:7 L:8 D:0 Bonus ❌
+date: 1722112500
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1239 🔺  (247)|
-| ELO Competitive | 1258 🔺  (292)|
-| Total Matches | 14 |
+| ELO Regular | 1226 🔻  (294)|
+| ELO Competitive | 1246 🔻  (316)|
+| Total Matches | 15 |
 | Wins | 7 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
-| Streak | 6 |
 | Streak Record | 6 |
 
 
@@ -22,6 +21,7 @@ date: 1721496442
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/27 | 9-25 | [Bl@ck/Galaxy ](https://ws.tsl.rocks/corp/76f8fe0dcd8b8c1cb8e0083f14c0b36c23bb9757a3af0f191b567774c02222a3/) |
 | ✅ | 2024/07/20 | 33-0 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) |
 | ✅ | 2024/07/13 | 28-5 | [Sternenflotte](https://ws.tsl.rocks/corp/c0e248ebf5fe5d7a10057e5c23341422b0d0bd0cc74c836d2d9835758cce6ec7/) |
 | ✅ | 2024/07/05 | 20-3 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |

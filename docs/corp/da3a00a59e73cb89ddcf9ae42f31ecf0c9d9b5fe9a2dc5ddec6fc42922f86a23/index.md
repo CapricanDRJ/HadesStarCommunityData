@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Midland Ind.
-description: W:9 L:9 D:0 Bonus ❌
-date: 1720800679
+description: W:10 L:9 D:0 Bonus ✅
+date: 1722113702
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1204 🔻  (414)|
-| ELO Competitive | 1225 🔻  (384)|
-| Total Matches | 18 |
-| Wins | 9 |
+| ELO Regular | 1214 🔺  (370)|
+| ELO Competitive | 1238 🔺  (337)|
+| Total Matches | 19 |
+| Wins | 10 |
 | Losses | 9 |
 | Draws | 0 |
 | Streak Record | 3 |
@@ -21,6 +21,7 @@ date: 1720800679
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/27 | 22-3 | [YETI Collective](https://ws.tsl.rocks/corp/ff6a3c65d008d245f003a3009374e26cf38e7cda6ea4d601a9da9037296fda98/) |
 | ❌ | 2024/07/12 | 19-30 | [alienigenas](https://ws.tsl.rocks/corp/1c092f1b0e9645193eac68e27b29b2b9fef39474fd8924495abec6754857a8f9/) |
 | ✅ | 2024/07/06 | 25-14 | [Dumpster Fire 2](https://ws.tsl.rocks/corp/37d473dec00d4d68e29963e3b423670aac735e7c1f256276e6c2e7d62180b0f8/) |
 | ❌ | 2024/05/31 | 0-58 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) |

@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​公共星际集团
-description: W:6 L:19 D:2 Bonus ✅
+description: W:6 L:19 D:2 Bonus ❌
 date: 1721973350
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1064 🔻  (1137)|
-| ELO Competitive | 1159 🔻  (1016)|
+| ELO Competitive | 1159 🔻  (1017)|
 | Total Matches | 27 |
 | Wins | 6 |
 | Losses | 19 |

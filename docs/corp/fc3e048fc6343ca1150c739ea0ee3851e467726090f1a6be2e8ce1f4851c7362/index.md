@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​ГОРИЗОНТ
-description: W:9 L:46 D:0 Bonus ✅
-date: 1721532205
+description: W:10 L:47 D:0 Bonus ✅
+date: 1722109494
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 998 🔻  (1169)|
-| ELO Competitive | 1156 🔺  (1032)|
-| Total Matches | 55 |
-| Wins | 9 |
-| Losses | 46 |
+| ELO Regular | 1018 🔺  (1162)|
+| ELO Competitive | 1172 🔺  (923)|
+| Total Matches | 57 |
+| Wins | 10 |
+| Losses | 47 |
 | Draws | 0 |
 | Streak Record | 3 |
 
@@ -32,6 +32,8 @@ date: 1721532205
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/27 | 28-1 | [battlesquadron](https://ws.tsl.rocks/corp/e45c27c77c0f1d82749ccc884b8fb5f4ea76c1b0d063321a7a860504a73365ff/) |
+| ❌ | 2024/07/27 | 18-39 | [星舰月球](https://ws.tsl.rocks/corp/b9a3e1e7fd3a235db7f440974db9210dc9a3b85c39fd437099f32f53cfe1e21c/) |
 | ❌ | 2024/07/21 | 4-77 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) |
 | ✅ | 2024/07/20 | 29-4 | [Peace Keepers](https://ws.tsl.rocks/corp/7ac71c394c017639785b3ecaa8087bd3b9a9d134e05d22703a3e18217da3380d/) |
 | ✅ | 2024/07/14 | 30-9 | [Stellaris](https://ws.tsl.rocks/corp/957f987a0920391d39769d5b2540f55eb7102778a12d395599ed7a4a7985e342/) |

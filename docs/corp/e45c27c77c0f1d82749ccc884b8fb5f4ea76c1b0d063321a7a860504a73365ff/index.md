@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​battlesquadron
-description: W:1 L:4 D:0 Bonus ❌
-date: 1716282592
+description: W:1 L:5 D:0 Bonus ❌
+date: 1722109494
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔺  (823)|
-| ELO Competitive | 1183 🔺  (843)|
-| Total Matches | 5 |
+| ELO Regular | 1150 🔻  (984)|
+| ELO Competitive | 1166 🔻  (987)|
+| Total Matches | 6 |
 | Wins | 1 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
 
 
@@ -20,6 +20,7 @@ date: 1716282592
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/27 | 1-28 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) |
 | ✅ | 2024/05/21 | 20-4 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
 | ❌ | 2024/05/10 | 11-32 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |
 | ❌ | 2024/03/29 | 6-17 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) |

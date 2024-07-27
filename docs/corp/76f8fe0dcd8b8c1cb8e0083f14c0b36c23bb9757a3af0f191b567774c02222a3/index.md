@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Bl@ck/Galaxy 
-description: W:15 L:13 D:1 Bonus ❌
-date: 1721481108
+description: W:16 L:13 D:1 Bonus ✅
+date: 1722112500
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1295 🔺  (130)|
-| ELO Competitive | 1332 🔺  (155)|
-| Total Matches | 29 |
-| Wins | 15 |
+| ELO Regular | 1307 🔺  (113)|
+| ELO Competitive | 1344 🔺  (141)|
+| Total Matches | 30 |
+| Wins | 16 |
 | Losses | 13 |
 | Draws | 1 |
-| Streak | 5 |
-| Streak Record | 5 |
+| Streak | 6 |
+| Streak Record | 6 |
 
 ### Recurring Opponents
 
@@ -30,6 +30,7 @@ date: 1721481108
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/27 | 25-9 | [nuevo mundo](https://ws.tsl.rocks/corp/5675df73364d8b031e9541d8aa8d5a9e55649ef419ad87c0b21dec77a0ed6044/) |
 | ✅ | 2024/07/20 | 22-7 | [Helion Prime](https://ws.tsl.rocks/corp/1a09ce5efe86add0a6f0344bc2a12e27c898c0d21641a3f29a450c6d4c4db3f2/) |
 | ✅ | 2024/07/14 | 35-3 | [Unión latina](https://ws.tsl.rocks/corp/9919a50d277644f496c19d5becdf40abb251d000345f049632329f0b35b7fbf1/) |
 | ✅ | 2024/07/06 | 20-14 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) |
