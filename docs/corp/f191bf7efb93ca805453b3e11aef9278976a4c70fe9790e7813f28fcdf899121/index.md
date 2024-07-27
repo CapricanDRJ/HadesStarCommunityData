@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Dumpster Fire
-description: W:15 L:31 D:0 Bonus ✅
+description: W:15 L:31 D:0 Bonus ❌
 date: 1721427316
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
@@ -77,3 +77,7 @@ date: 1721427316
 Corporation ID: f191bf7efb93ca805453b3e11aef9278976a4c70fe9790e7813f28fcdf899121
 
 [Hades' Star](https://www.hadesstar.com)
+<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+<div>
+  Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
+</div>

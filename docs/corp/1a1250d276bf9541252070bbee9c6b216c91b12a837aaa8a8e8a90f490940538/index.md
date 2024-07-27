@@ -61,3 +61,7 @@ date: 1722004909
 Corporation ID: 1a1250d276bf9541252070bbee9c6b216c91b12a837aaa8a8e8a90f490940538
 
 [Hades' Star](https://www.hadesstar.com)
+<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+<div>
+  Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
+</div>
