@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​White Star Inc.
-description: W:3 L:3 D:0 Bonus ❌
-date: 1720872799
+description: W:3 L:4 D:0 Bonus ❌
+date: 1722101979
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔺  (518)|
-| ELO Competitive | 1203 🔺  (512)|
-| Total Matches | 6 |
+| ELO Regular | 1182 🔻  (747)|
+| ELO Competitive | 1196 🔻  (584)|
+| Total Matches | 7 |
 | Wins | 3 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -21,6 +21,7 @@ date: 1720872799
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/27 | 8-21 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
 | ✅ | 2024/07/13 | 20-3 | [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) |
 | ❌ | 2024/03/06 | 2-30 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ❌ | 2024/02/20 | 12-21 | [THE BENDERA](https://ws.tsl.rocks/corp/4c9acd27de08822b8670167ae6bc94f7ecd2786d5beed82c68ad61600fc318d3/) |

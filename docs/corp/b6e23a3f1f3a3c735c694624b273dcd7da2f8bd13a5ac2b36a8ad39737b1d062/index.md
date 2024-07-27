@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Omega Alpha
-description: W:24 L:4 D:0 Bonus ❌
-date: 1721488626
+description: W:25 L:4 D:0 Bonus ✅
+date: 1722101077
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1400 🔻  (36)|
-| ELO Competitive | 1424 🔻  (68)|
-| Total Matches | 28 |
-| Wins | 24 |
+| ELO Regular | 1408 🔺  (29)|
+| ELO Competitive | 1433 🔺  (61)|
+| Total Matches | 29 |
+| Wins | 25 |
 | Losses | 4 |
 | Draws | 0 |
 | Streak Record | 13 |
@@ -28,6 +28,7 @@ date: 1721488626
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/27 | 38-16 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) |
 | ❌ | 2024/07/20 | 13-15 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) |
 | ✅ | 2024/07/13 | 37-24 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) |
 | ✅ | 2024/07/06 | 40-36 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) |

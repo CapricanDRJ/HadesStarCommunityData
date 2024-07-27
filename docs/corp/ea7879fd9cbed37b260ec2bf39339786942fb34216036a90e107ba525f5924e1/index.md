@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​Got Nothing
-description: W:12 L:8 D:0 Bonus ❌
-date: 1720293089
+description: W:13 L:8 D:0 Bonus ✅
+date: 1722095966
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1240 🔺  (242)|
-| ELO Competitive | 1254 🔺  (300)|
-| Total Matches | 20 |
-| Wins | 12 |
+| ELO Regular | 1252 🔺  (211)|
+| ELO Competitive | 1269 🔺  (267)|
+| Total Matches | 21 |
+| Wins | 13 |
 | Losses | 8 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 4 |
 
 
@@ -21,6 +22,7 @@ date: 1720293089
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/27 | 30-3 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |
 | ✅ | 2024/07/06 | 33-3 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) |
 | ❌ | 2024/06/21 | 23-37 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) |
 | ❌ | 2024/06/01 | 21-29 | [Albedo](https://ws.tsl.rocks/corp/8e9848f9867c594384d6a31618213447f358c7b308fee91d20991b80b513fdbb/) |

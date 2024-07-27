@@ -1,25 +1,28 @@
 ---
 layout: page
 title: ​Tormenta
-description: W:2 L:5 D:0 Bonus ✅
-date: 1721505460
+description: W:3 L:5 D:0 Bonus ✅
+date: 1722104985
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔺  (727)|
-| ELO Competitive | 1190 🔺  (630)|
-| Total Matches | 7 |
-| Wins | 2 |
+| ELO Regular | 1202 🔺  (421)|
+| ELO Competitive | 1211 🔺  (477)|
+| Total Matches | 8 |
+| Wins | 3 |
 | Losses | 5 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/27 | 28-0 | [Unión latina](https://ws.tsl.rocks/corp/9919a50d277644f496c19d5becdf40abb251d000345f049632329f0b35b7fbf1/) |
 | ✅ | 2024/07/20 | 28-13 | [OntarioDawn](https://ws.tsl.rocks/corp/1a002c71f3aba5da5918941fa2ba4dbbfc183ad52d97d44a25718e07e6b08a03/) |
 | ❌ | 2024/07/13 | 2-27 | [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) |
 | ❌ | 2024/07/07 | 12-16 | [Corp\. Estelar](https://ws.tsl.rocks/corp/aec01be59075af2b2995f74e3e14f47e2b3ce1bd3b74abc78200a1d6330b8a72/) |

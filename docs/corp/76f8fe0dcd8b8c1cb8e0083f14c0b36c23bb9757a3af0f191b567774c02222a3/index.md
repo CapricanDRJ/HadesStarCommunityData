@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Bl@ck/Galaxy 
-description: W:15 L:13 D:1 Bonus ✅
+description: W:15 L:13 D:1 Bonus ❌
 date: 1721481108
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1295 🔺  (130)|
-| ELO Competitive | 1332 🔺  (156)|
+| ELO Competitive | 1332 🔺  (155)|
 | Total Matches | 29 |
 | Wins | 15 |
 | Losses | 13 |

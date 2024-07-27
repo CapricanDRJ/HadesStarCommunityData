@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Unión latina
-description: W:26 L:19 D:0 Bonus ✅
-date: 1721515079
+description: W:26 L:20 D:0 Bonus ✅
+date: 1722104985
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1274 🔺  (161)|
-| ELO Competitive | 1345 🔺  (138)|
-| Total Matches | 45 |
+| ELO Regular | 1255 🔻  (207)|
+| ELO Competitive | 1324 🔻  (167)|
+| Total Matches | 46 |
 | Wins | 26 |
-| Losses | 19 |
+| Losses | 20 |
 | Draws | 0 |
 | Streak Record | 6 |
 
@@ -33,6 +33,7 @@ date: 1721515079
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/27 | 0-28 | [Tormenta](https://ws.tsl.rocks/corp/537807f41149f54b040d4f2bc983c7f1fbfa2242ec5566371330e4996e33a195/) |
 | ✅ | 2024/07/20 | 29-1 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ❌ | 2024/07/14 | 3-35 | [Bl@ck/Galaxy ](https://ws.tsl.rocks/corp/76f8fe0dcd8b8c1cb8e0083f14c0b36c23bb9757a3af0f191b567774c02222a3/) |
 | ✅ | 2024/07/08 | 17-1 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |

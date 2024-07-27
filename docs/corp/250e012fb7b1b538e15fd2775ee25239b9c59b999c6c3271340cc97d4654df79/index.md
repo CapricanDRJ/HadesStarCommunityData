@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​italian warrior
-description: W:12 L:16 D:1 Bonus ❌
-date: 1721626874
+description: W:12 L:17 D:1 Bonus ❌
+date: 1722101077
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1222 🔺  (309)|
-| ELO Competitive | 1281 🔺  (238)|
-| Total Matches | 29 |
+| ELO Regular | 1214 🔻  (367)|
+| ELO Competitive | 1272 🔻  (263)|
+| Total Matches | 30 |
 | Wins | 12 |
-| Losses | 16 |
+| Losses | 17 |
 | Draws | 1 |
 | Streak Record | 5 |
 
@@ -26,6 +26,7 @@ date: 1721626874
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/27 | 16-38 | [Omega Alpha](https://ws.tsl.rocks/corp/b6e23a3f1f3a3c735c694624b273dcd7da2f8bd13a5ac2b36a8ad39737b1d062/) |
 | ↔️ | 2024/07/22 | 35-35 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) |
 | ❌ | 2024/07/15 | 14-35 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ✅ | 2024/07/08 | 40-1 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |

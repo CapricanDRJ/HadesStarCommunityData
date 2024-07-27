@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​АНДРОМЕДА 
-description: W:25 L:30 D:0 Bonus ❌
-date: 1720580398
+description: W:25 L:31 D:0 Bonus ❌
+date: 1722095966
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1179 🔺  (765)|
-| ELO Competitive | 1252 🔺  (304)|
-| Total Matches | 55 |
+| ELO Regular | 1166 🔻  (900)|
+| ELO Competitive | 1237 🔻  (340)|
+| Total Matches | 56 |
 | Wins | 25 |
-| Losses | 30 |
+| Losses | 31 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 6 |
 
 ### Recurring Opponents
@@ -32,6 +31,7 @@ date: 1720580398
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/27 | 3-30 | [Got Nothing](https://ws.tsl.rocks/corp/ea7879fd9cbed37b260ec2bf39339786942fb34216036a90e107ba525f5924e1/) |
 | ✅ | 2024/07/10 | 12-9 | [GhostNakcoorp](https://ws.tsl.rocks/corp/0a15ae22cdfbd88694d3067838a78bea07746ec95f3784b3f65d77fe47d76312/) |
 | ✅ | 2024/07/04 | 28-8 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |
 | ❌ | 2024/06/29 | 7-27 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |

@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​BrinySeal
-description: W:34 L:15 D:3 Bonus ✅
-date: 1721665640
+description: W:35 L:15 D:3 Bonus ✅
+date: 1722101979
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1343 🔺  (71)|
-| ELO Competitive | 1390 🔺  (90)|
-| Total Matches | 52 |
-| Wins | 34 |
+| ELO Regular | 1352 🔺  (63)|
+| ELO Competitive | 1398 🔺  (83)|
+| Total Matches | 53 |
+| Wins | 35 |
 | Losses | 15 |
 | Draws | 3 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 9 |
 
 ### Recurring Opponents
@@ -28,6 +28,7 @@ date: 1721665640
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/27 | 21-8 | [White Star Inc\.](https://ws.tsl.rocks/corp/b5bdfb5e81eac1263ce48131806cc733ec699336043c0f7af090fbe8ff21d26e/) |
 | ✅ | 2024/07/22 | 22-6 | [Mass Effect](https://ws.tsl.rocks/corp/6f715653bec3925d9c3acd7c2388fe8e1c79332146894ed424f57bd2636de8c7/) |
 | ✅ | 2024/07/17 | 29-6 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |
 | ↔️ | 2024/07/12 | 11-11 | [绛紫星](https://ws.tsl.rocks/corp/8c2109279ceb01bcca0aa5e85c151d5877831ac54199285743750e2ed343b407/) |
