@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​GermanIndustrie
-description: W:8 L:2 D:1 Bonus ✅
+description: W:8 L:2 D:1 Bonus ❌
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

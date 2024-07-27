@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​[Blue＊Nation]
-description: W:30 L:6 D:0 Bonus ✅
+description: W:30 L:6 D:0 Bonus ❌
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

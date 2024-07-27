@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Corporation
-description: W:15 L:4 D:0 Bonus ✅
+description: W:15 L:4 D:0 Bonus ❌
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

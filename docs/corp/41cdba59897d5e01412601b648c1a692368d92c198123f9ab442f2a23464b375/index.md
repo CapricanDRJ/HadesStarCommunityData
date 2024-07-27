@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Crux Cadre
-description: W:26 L:19 D:1 Bonus ✅
+description: W:26 L:19 D:1 Bonus ❌
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​万星联盟
-description: W:10 L:0 D:0 Bonus ✅
+description: W:10 L:0 D:0 Bonus ❌
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

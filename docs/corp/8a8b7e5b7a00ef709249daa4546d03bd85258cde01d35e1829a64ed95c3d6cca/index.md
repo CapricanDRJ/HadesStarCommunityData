@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Lights Off 
-description: W:23 L:8 D:0 Bonus ✅
+description: W:23 L:8 D:0 Bonus ❌
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

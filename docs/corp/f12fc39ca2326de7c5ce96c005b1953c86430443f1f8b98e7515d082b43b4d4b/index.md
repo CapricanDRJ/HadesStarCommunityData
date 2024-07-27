@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Providence
-description: W:26 L:12 D:0 Bonus ✅
+description: W:26 L:12 D:0 Bonus ❌
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

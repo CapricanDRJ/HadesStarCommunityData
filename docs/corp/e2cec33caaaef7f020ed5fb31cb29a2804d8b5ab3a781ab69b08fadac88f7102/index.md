@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​避难所
-description: W:9 L:8 D:2 Bonus ✅
+description: W:9 L:8 D:2 Bonus ❌
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

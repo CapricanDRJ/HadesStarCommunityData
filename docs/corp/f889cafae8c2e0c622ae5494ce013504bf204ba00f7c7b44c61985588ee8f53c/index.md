@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Dark Training
-description: W:12 L:11 D:1 Bonus ✅
+description: W:12 L:11 D:1 Bonus ❌
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

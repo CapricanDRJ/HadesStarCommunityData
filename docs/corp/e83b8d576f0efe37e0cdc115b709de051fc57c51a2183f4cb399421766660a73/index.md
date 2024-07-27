@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Hades' 420
-description: W:2 L:7 D:0 Bonus ✅
+description: W:2 L:7 D:0 Bonus ❌
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

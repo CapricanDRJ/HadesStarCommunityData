@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Españoles
-description: W:11 L:44 D:0 Bonus ✅
+description: W:11 L:44 D:0 Bonus ❌
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

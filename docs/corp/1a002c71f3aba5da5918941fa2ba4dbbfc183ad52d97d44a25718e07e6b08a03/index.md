@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​OntarioDawn
-description: W:35 L:3 D:0 Bonus ✅
+description: W:35 L:3 D:0 Bonus ❌
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

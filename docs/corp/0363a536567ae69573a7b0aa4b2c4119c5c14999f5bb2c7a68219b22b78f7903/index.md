@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Forces of Light
-description: W:7 L:4 D:1 Bonus ✅
+description: W:7 L:4 D:1 Bonus ❌
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

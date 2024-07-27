@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​＊СССР＊
-description: W:18 L:19 D:1 Bonus ✅
+description: W:18 L:19 D:1 Bonus ❌
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Спутник
-description: W:31 L:7 D:0 Bonus ✅
+description: W:31 L:7 D:0 Bonus ❌
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

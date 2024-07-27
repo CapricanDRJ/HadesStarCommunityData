@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​White Star Inc.
-description: W:3 L:3 D:0 Bonus ✅
+description: W:3 L:3 D:0 Bonus ❌
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

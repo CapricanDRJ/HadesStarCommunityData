@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Lacuna X
-description: W:32 L:5 D:0 Bonus ✅
+description: W:32 L:5 D:0 Bonus ❌
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

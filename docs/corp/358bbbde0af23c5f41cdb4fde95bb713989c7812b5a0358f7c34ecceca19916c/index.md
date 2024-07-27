@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Cyber Star
-description: W:24 L:10 D:0 Bonus ✅
+description: W:24 L:10 D:0 Bonus ❌
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

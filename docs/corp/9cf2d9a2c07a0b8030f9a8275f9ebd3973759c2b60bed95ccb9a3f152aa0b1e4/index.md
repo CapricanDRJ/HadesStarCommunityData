@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​星海扬帆
-description: W:17 L:15 D:0 Bonus ✅
+description: W:17 L:15 D:0 Bonus ❌
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
