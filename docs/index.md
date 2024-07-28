@@ -59,7 +59,8 @@ Stay connected with the official Hades' Star community and resources:
 - [Hades Space](https://userxinos.github.io/HadesSpace/) - A community resource site for Hades' Star
 - [Red Star Queue Bot](https://discord.com/oauth2/authorize?client_id=1055503950067007569) - Discord bot invite for the Hades' Star Red Star Queue
 - [Elo Bot](https://discord.com/oauth2/authorize?client_id=1198035340955504670) - Discord bot invite for Hades' Star Elo bot
-- [DRS mining simulator](https://dn-toolbox.streamlit.app/) - CapSora's dark red star mining simulator
+- [DRS Mining Simulator](https://dn-toolbox.streamlit.app/) - CapSora's dark red star mining simulator
+- [KestraAkadi's Youtube Channel](https://www.youtube.com/channel/UClCEI716iodpAUc7_F45MAw) - The Star League Hades' Star corporation whitestar replay records.
 
 ## Contributing
 
