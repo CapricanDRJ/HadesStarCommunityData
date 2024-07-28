@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Embers Rising
-description: W:22 L:4 D:0 Bonus ✅
-date: 1721681270
+description: W:23 L:4 D:0 Bonus ✅
+date: 1722201452
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1381 🔺  (46)|
-| ELO Competitive | 1429 🔺  (66)|
-| Total Matches | 26 |
-| Wins | 22 |
+| ELO Regular | 1389 🔺  (43)|
+| ELO Competitive | 1439 🔺  (54)|
+| Total Matches | 27 |
+| Wins | 23 |
 | Losses | 4 |
 | Draws | 0 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 13 |
 
 
@@ -22,6 +22,7 @@ date: 1721681270
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/28 | 13-5 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) |
 | ✅ | 2024/07/22 | 27-0 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 | ✅ | 2024/07/08 | 21-13 | [Dark Training](https://ws.tsl.rocks/corp/f889cafae8c2e0c622ae5494ce013504bf204ba00f7c7b44c61985588ee8f53c/) |
 | ✅ | 2024/06/27 | 30-0 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |

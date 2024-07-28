@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​VoidCorp
-description: W:19 L:20 D:1 Bonus ❌
-date: 1721762701
+description: W:19 L:21 D:1 Bonus ❌
+date: 1722202053
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1241 🔻  (238)|
-| ELO Competitive | 1279 🔻  (245)|
-| Total Matches | 40 |
+| ELO Regular | 1234 🔻  (260)|
+| ELO Competitive | 1273 🔻  (259)|
+| Total Matches | 41 |
 | Wins | 19 |
-| Losses | 20 |
+| Losses | 21 |
 | Draws | 1 |
 | Streak Record | 4 |
 
@@ -30,6 +30,7 @@ date: 1721762701
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/28 | 8-44 | [Hand Of NOD\! ](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) |
 | ❌ | 2024/07/23 | 21-61 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) |
 | ✅ | 2024/07/18 | 35-6 | [The Seperatists](https://ws.tsl.rocks/corp/f7afefdba007366512764be38eb9c404704e5d4de919e7df2b17560324bbb56f/) |
 | ✅ | 2024/07/12 | 38-29 | [Imperium XIII](https://ws.tsl.rocks/corp/0d52edf77b0cdeaaea6ebc20a7f5b6a60372b535bf96f556b31e2243dc8ee75a/) |

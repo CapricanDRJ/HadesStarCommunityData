@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Warriorlords
-description: W:20 L:8 D:0 Bonus ✅
-date: 1722017834
+description: W:20 L:9 D:0 Bonus ✅
+date: 1722194539
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1326 🔺  (90)|
+| ELO Regular | 1308 🔻  (113)|
 | ELO Competitive | 1416 🔺  (73)|
-| Total Matches | 28 |
+| Total Matches | 29 |
 | Wins | 20 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 8 |
 
 ### Recurring Opponents
@@ -28,6 +27,7 @@ date: 1722017834
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/28 | 0-14 | [Angel Dragon](https://ws.tsl.rocks/corp/2f2e44c159dc8f4e15e2dabda533d9db8697d2c6c06735d926d180b3aa056dcf/) |
 | ✅ | 2024/07/26 | 18-0 | [Star Blazers](https://ws.tsl.rocks/corp/f179acb7b919d9d3185f1fcd66bb17d5e257feab5039bcbf6efb5c8cd6f5c057/) |
 | ✅ | 2024/07/15 | 19-3 | [Shrimp City](https://ws.tsl.rocks/corp/eae9b3a1f9dd6b4a1fb39d6aedfe84a80662abe6b181bedcfd7ec15d931b8e84/) |
 | ❌ | 2024/07/13 | 12-20 | [Valhalla Rising](https://ws.tsl.rocks/corp/8843a04f5528aa779a62f129af7ef619b90742807f0d436ae85a69870206b254/) |

@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Red_Coat_Mafia
-description: W:13 L:18 D:1 Bonus ❌
-date: 1721452857
+description: W:13 L:19 D:1 Bonus ❌
+date: 1722201452
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1198 🔺  (472)|
-| ELO Competitive | 1320 🔺  (173)|
-| Total Matches | 32 |
+| ELO Regular | 1190 🔻  (523)|
+| ELO Competitive | 1310 🔻  (187)|
+| Total Matches | 33 |
 | Wins | 13 |
-| Losses | 18 |
+| Losses | 19 |
 | Draws | 1 |
-| Streak | 3 |
 | Streak Record | 3 |
 
 ### Recurring Opponents
@@ -27,6 +26,7 @@ date: 1721452857
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/28 | 5-13 | [Embers Rising](https://ws.tsl.rocks/corp/30173fb6f0cf7a6d78f30c60350646ad6bc0d667a14854bdc9abbc19cd7d0327/) |
 | ✅ | 2024/07/20 | 25-1 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) |
 | ✅ | 2024/07/15 | 22-10 | [Int\. Trading Co](https://ws.tsl.rocks/corp/6978edb31cfa5778f4e28d2477e5db050fd8bf44105dc25871490d0cffaf4bf7/) |
 | ✅ | 2024/07/10 | 14-0 | [拆迁大队](https://ws.tsl.rocks/corp/d8de6fa1ed53aeb856209de01d8a990a562d7438e0abe2cfe50776bb11345f17/) |

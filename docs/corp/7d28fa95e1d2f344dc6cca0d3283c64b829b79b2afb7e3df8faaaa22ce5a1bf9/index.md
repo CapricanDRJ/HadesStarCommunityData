@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​Hand Of NOD! 
-description: W:31 L:4 D:0 Bonus ❌
-date: 1721558050
+description: W:32 L:4 D:0 Bonus ✅
+date: 1722202053
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1456 🔺  (17)|
-| ELO Competitive | 1493 🔺  (24)|
-| Total Matches | 35 |
-| Wins | 31 |
+| ELO Regular | 1463 🔺  (15)|
+| ELO Competitive | 1500 🔺  (23)|
+| Total Matches | 36 |
+| Wins | 32 |
 | Losses | 4 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 15 |
 
 ### Recurring Opponents
@@ -29,6 +30,7 @@ date: 1721558050
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/28 | 44-8 | [VoidCorp](https://ws.tsl.rocks/corp/b866417e5607f8434347bb5f986e37c4fa7dda68b3882f0135d186043d3f68a3/) |
 | ✅ | 2024/07/21 | 42-3 | [KARI](https://ws.tsl.rocks/corp/4434276aa1aebbe4c0a69ac51dff9c243c5287d00096e12c87e8590318a2ab65/) |
 | ❌ | 2024/07/14 | 17-28 | [111](https://ws.tsl.rocks/corp/8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350/) |
 | ✅ | 2024/07/08 | 41-20 | [Winged Pheonix](https://ws.tsl.rocks/corp/6b9f3e0b419f79343ffd4a8134703379db0e4591879151cbc3ef6a3ff825a2d3/) |

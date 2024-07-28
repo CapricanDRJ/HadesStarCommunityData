@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Internationals
-description: W:13 L:9 D:0 Bonus ✅
+description: W:13 L:9 D:0 Bonus ❌
 date: 1721583302
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

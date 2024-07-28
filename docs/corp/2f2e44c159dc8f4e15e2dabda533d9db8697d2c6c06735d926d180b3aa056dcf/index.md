@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Angel Dragon
-description: W:12 L:8 D:1 Bonus ❌
-date: 1720561770
+description: W:13 L:8 D:1 Bonus ✅
+date: 1722194539
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1264 🔻  (183)|
-| ELO Competitive | 1300 🔻  (204)|
-| Total Matches | 21 |
-| Wins | 12 |
+| ELO Regular | 1282 🔺  (154)|
+| ELO Competitive | 1320 🔺  (173)|
+| Total Matches | 22 |
+| Wins | 13 |
 | Losses | 8 |
 | Draws | 1 |
 | Streak Record | 6 |
@@ -26,6 +26,7 @@ date: 1720561770
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/28 | 14-0 | [Warriorlords](https://ws.tsl.rocks/corp/a78c29b9e1c9f793205ba10d796dcabc114ef43d86f0bd34a43a56dc6da768aa/) |
 | ❌ | 2024/07/09 | 0-14 | [Star Destroyers](https://ws.tsl.rocks/corp/32ba20918cd8720602fefb3bc676a6ba5195314479040f70eadc728fbbc2698d/) |
 | ✅ | 2024/06/26 | 14-0 | [神圣罗马帝国](https://ws.tsl.rocks/corp/2a71af44aaef82175cd8dfd86c9e3f218a438a7c7e748bae20d8a0d964a984ab/) |
 | ✅ | 2024/06/13 | 15-4 | [Dumpster Fire 2](https://ws.tsl.rocks/corp/37d473dec00d4d68e29963e3b423670aac735e7c1f256276e6c2e7d62180b0f8/) |
