@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​仙女座星雲
-description: W:48 L:36 D:2 Bonus ✅
-date: 1721726638
+description: W:49 L:36 D:2 Bonus ✅
+date: 1722171093
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1294 🔺  (130)|
-| ELO Competitive | 1507 🔺  (21)|
-| Total Matches | 86 |
-| Wins | 48 |
+| ELO Regular | 1301 🔺  (122)|
+| ELO Competitive | 1509 🔺  (18)|
+| Total Matches | 87 |
+| Wins | 49 |
 | Losses | 36 |
 | Draws | 2 |
-| Streak | 4 |
+| Streak | 5 |
 | Streak Record | 6 |
 
 ### Recurring Opponents
@@ -36,6 +36,7 @@ date: 1721726638
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/28 | 19-3 | [AKA](https://ws.tsl.rocks/corp/5fde3f409facbda701cdf21de0895eb7c7e17e2d472ae52cc0aa178ce2db64d6/) |
 | ✅ | 2024/07/23 | 9-7 | [八月政府](https://ws.tsl.rocks/corp/72097ba1b36daa9482410e9d2b442965a1f4bbb7bb7974995521f1a948244424/) |
 | ✅ | 2024/07/23 | 25-3 | [Antioch](https://ws.tsl.rocks/corp/6cf52926568f845a630c3fba8370e8afa3a75d315af0f6d0bd891085e6e4425f/) |
 | ✅ | 2024/07/17 | 23-18 | [Bunker](https://ws.tsl.rocks/corp/583eeb4aaa577ce5d9806fc637f83d7c02b2a29fa2d47eb38fd658be8ef93588/) |

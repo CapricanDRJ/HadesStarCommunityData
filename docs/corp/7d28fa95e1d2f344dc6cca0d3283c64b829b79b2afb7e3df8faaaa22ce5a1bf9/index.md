@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Hand Of NOD! 
-description: W:31 L:4 D:0 Bonus ✅
+description: W:31 L:4 D:0 Bonus ❌
 date: 1721558050
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1456 🔺  (17)|
-| ELO Competitive | 1493 🔺  (23)|
+| ELO Competitive | 1493 🔺  (24)|
 | Total Matches | 35 |
 | Wins | 31 |
 | Losses | 4 |

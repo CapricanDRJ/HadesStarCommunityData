@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​欢迎国人
-description: W:3 L:11 D:2 Bonus ❌
-date: 1721711615
+description: W:3 L:12 D:2 Bonus ❌
+date: 1722178308
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1092 🔻  (1108)|
-| ELO Competitive | 1099 🔻  (1143)|
-| Total Matches | 16 |
+| ELO Regular | 1080 🔻  (1121)|
+| ELO Competitive | 1088 🔻  (1153)|
+| Total Matches | 17 |
 | Wins | 3 |
-| Losses | 11 |
+| Losses | 12 |
 | Draws | 2 |
 | Streak Record | 2 |
 
@@ -21,6 +21,7 @@ date: 1721711615
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/28 | 1-3 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 | ❌ | 2024/07/23 | 0-14 | [德意志第三帝国奥米加分部](https://ws.tsl.rocks/corp/b5f35e30b2dea2621e854b5011a9f9d07ca3585cd26bd9ac92aa7b06c0a522b1/) |
 | ❌ | 2024/07/17 | 3-5 | [星舰国际](https://ws.tsl.rocks/corp/2142b75cc6d1c522c423a860fbda7616d7745f8fee25121ec3a8f26068b0f3b5/) |
 | ❌ | 2024/07/11 | 0-15 | [落雨观花](https://ws.tsl.rocks/corp/565a6d89fc5107e86669d7f8910a1c4ae1fbb156fa0b5e81dbc917c341cc9ff0/) |

@@ -1,26 +1,26 @@
 ---
 layout: page
 title: ​Famous Assasins
-description: W:45 L:6 D:0 Bonus ✅
-date: 1721637990
+description: W:45 L:7 D:0 Bonus ✅
+date: 1722178008
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1498 🔺  (6)|
-| ELO Competitive | 1530 🔺  (12)|
-| Total Matches | 51 |
+| ELO Regular | 1479 🔻  (11)|
+| ELO Competitive | 1513 🔻  (16)|
+| Total Matches | 52 |
 | Wins | 45 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 0 |
-| Streak | 12 |
 | Streak Record | 12 |
 
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Tuatha De Danan](https://ws.tsl.rocks/corp/7741dbd0c9e7ddbc162e374691cb3346e4bb6600840f7962ec4a4414d5d2f780/) | 1 | 1 | 0 | 2 |
 | [lost souls](https://ws.tsl.rocks/corp/64cf1f6ce9001bcd1d03fd1aaecafc1b7d88cd36316892a52a1b19d5e85bd793/) | 2 | 0 | 0 | 2 |
 | [GDZ](https://ws.tsl.rocks/corp/a04890160268d05cf11f997b0a1c724fbbcfa66b2ea4cb1c4b56ca18d0425d62/) | 3 | 0 | 0 | 3 |
 | [Int\. Trading Co](https://ws.tsl.rocks/corp/6978edb31cfa5778f4e28d2477e5db050fd8bf44105dc25871490d0cffaf4bf7/) | 1 | 1 | 0 | 2 |
@@ -31,6 +31,7 @@ date: 1721637990
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/28 | 20-27 | [Tuatha De Danan](https://ws.tsl.rocks/corp/7741dbd0c9e7ddbc162e374691cb3346e4bb6600840f7962ec4a4414d5d2f780/) |
 | ✅ | 2024/07/22 | 45-0 | [Crux Cadre](https://ws.tsl.rocks/corp/41cdba59897d5e01412601b648c1a692368d92c198123f9ab442f2a23464b375/) |
 | ✅ | 2024/07/15 | 29-4 | [lost souls](https://ws.tsl.rocks/corp/64cf1f6ce9001bcd1d03fd1aaecafc1b7d88cd36316892a52a1b19d5e85bd793/) |
 | ✅ | 2024/07/10 | 36-10 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |

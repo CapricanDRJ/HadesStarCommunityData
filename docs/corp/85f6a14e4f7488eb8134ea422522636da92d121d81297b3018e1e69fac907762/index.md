@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​OrderofTheGeon
-description: W:19 L:20 D:3 Bonus ✅
-date: 1721706808
+description: W:20 L:20 D:3 Bonus ✅
+date: 1722178308
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔺  (953)|
-| ELO Competitive | 1194 🔺  (587)|
-| Total Matches | 42 |
-| Wins | 19 |
+| ELO Regular | 1169 🔺  (877)|
+| ELO Competitive | 1205 🔺  (503)|
+| Total Matches | 43 |
+| Wins | 20 |
 | Losses | 20 |
 | Draws | 3 |
+| Streak | 2 |
 | Streak Record | 5 |
 
 ### Recurring Opponents
@@ -29,6 +30,7 @@ date: 1721706808
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/28 | 3-1 | [欢迎国人](https://ws.tsl.rocks/corp/f32abd112fe2b826948a3538a51097b9114815930ec77ad11ada1b24ce34578d/) |
 | ✅ | 2024/07/23 | 3-2 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
 | ❌ | 2024/07/17 | 3-4 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ✅ | 2024/07/12 | 4-0 | [Чистое Небо](https://ws.tsl.rocks/corp/82c64f0d4483d056037e3a43e597d4b1730ac0cd84bae8307fadef28fd6c202f/) |

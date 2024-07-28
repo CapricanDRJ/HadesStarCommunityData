@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Decode
-description: W:36 L:18 D:0 Bonus ❌
-date: 1721356279
+description: W:36 L:19 D:0 Bonus ❌
+date: 1722175002
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1255 🔻  (204)|
-| ELO Competitive | 1387 🔻  (94)|
-| Total Matches | 54 |
+| ELO Regular | 1242 🔻  (234)|
+| ELO Competitive | 1378 🔻  (101)|
+| Total Matches | 55 |
 | Wins | 36 |
-| Losses | 18 |
+| Losses | 19 |
 | Draws | 0 |
 | Streak Record | 6 |
 
@@ -29,6 +29,7 @@ date: 1721356279
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/28 | 0-18 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ❌ | 2024/07/19 | 0-20 | [Black Star llc\.](https://ws.tsl.rocks/corp/f6cd5aed527efed3a402f931784d68b5b7201b317118a60bd3d81b551ee87330/) |
 | ❌ | 2024/07/01 | 0-6 | [神圣罗马帝国](https://ws.tsl.rocks/corp/2a71af44aaef82175cd8dfd86c9e3f218a438a7c7e748bae20d8a0d964a984ab/) |
 | ❌ | 2024/06/07 | 0-18 | [Prometheus ESP](https://ws.tsl.rocks/corp/59ccf92b03fb4dbcd047d2425f6dd687367bd70088956249e0255554e81fe949/) |
