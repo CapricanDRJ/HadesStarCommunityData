@@ -1,27 +1,28 @@
 ---
 layout: page
 title: ​koalition
-description: W:8 L:3 D:1 Bonus ✅
-date: 1721561957
+description: W:9 L:3 D:1 Bonus ✅
+date: 1722149758
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1272 🔺  (168)|
-| ELO Competitive | 1278 🔺  (245)|
-| Total Matches | 12 |
-| Wins | 8 |
+| ELO Regular | 1283 🔺  (149)|
+| ELO Competitive | 1290 🔺  (219)|
+| Total Matches | 13 |
+| Wins | 9 |
 | Losses | 3 |
 | Draws | 1 |
-| Streak | 6 |
-| Streak Record | 6 |
+| Streak | 7 |
+| Streak Record | 7 |
 
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/28 | 7-0 | [Orion](https://ws.tsl.rocks/corp/7c0851ebb511881954f862d0a9c0e83978c708f123d2059a6fd3bcc6b9faa813/) |
 | ✅ | 2024/07/21 | 9-2 | [水晶星际集团](https://ws.tsl.rocks/corp/6390d7a4666ac4537ef5eacf76dd1c2f34548cc588aac8dad423c308ad1c0f3d/) |
 | ✅ | 2024/07/14 | 7-0 | [Poggy Rockers](https://ws.tsl.rocks/corp/47aeb151232251d9e53310e21f1290b1240c63878169968847bd1e89efc909a7/) |
 | ✅ | 2024/07/05 | 7-1 | [德意志联邦集团](https://ws.tsl.rocks/corp/2ee580123f8c46103f61a4e5edc43e8c3379d17cc2280c935a0a62c6ee81e50c/) |

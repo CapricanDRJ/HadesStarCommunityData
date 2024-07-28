@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​King's Guard
-description: W:24 L:52 D:5 Bonus ❌
-date: 1721297767
+description: W:25 L:52 D:5 Bonus ✅
+date: 1722154265
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 987 🔻  (1173)|
-| ELO Competitive | 1164 🔻  (997)|
-| Total Matches | 81 |
-| Wins | 24 |
+| ELO Regular | 995 🔺  (1175)|
+| ELO Competitive | 1173 🔺  (918)|
+| Total Matches | 82 |
+| Wins | 25 |
 | Losses | 52 |
 | Draws | 5 |
 | Streak Record | 4 |
@@ -32,6 +32,7 @@ date: 1721297767
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/28 | 15-0 | [KARI](https://ws.tsl.rocks/corp/4434276aa1aebbe4c0a69ac51dff9c243c5287d00096e12c87e8590318a2ab65/) |
 | ❌ | 2024/07/18 | 1-23 | [StellaMysterium](https://ws.tsl.rocks/corp/cfaaa81ed93cc9361ade470c3414c73ecf77068badd68d624c7b3f486d142b10/) |
 | ❌ | 2024/07/12 | 7-12 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |
 | ❌ | 2024/07/06 | 3-25 | [Scar](https://ws.tsl.rocks/corp/1fd57b7d50b68cb3883fd58e596f496821ebcc82dee1915bb7f34a402b03c44a/) |

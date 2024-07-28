@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​IMPERIAL ARMADA
-description: W:21 L:1 D:0 Bonus ❌
-date: 1721668345
+description: W:22 L:1 D:0 Bonus ✅
+date: 1722156969
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1409 🔻  (28)|
-| ELO Competitive | 1433 🔻  (63)|
-| Total Matches | 22 |
-| Wins | 21 |
+| ELO Regular | 1416 🔺  (26)|
+| ELO Competitive | 1439 🔺  (55)|
+| Total Matches | 23 |
+| Wins | 22 |
 | Losses | 1 |
 | Draws | 0 |
 | Streak Record | 21 |
@@ -21,6 +21,7 @@ date: 1721668345
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/28 | 24-0 | [ 边域](https://ws.tsl.rocks/corp/b982530486b86a4944af4474183f3fa6aca9db7a2a4195c018930f68d6ede865/) |
 | ❌ | 2024/07/22 | 2-16 | [The Syndicate ](https://ws.tsl.rocks/corp/a7da1f6bd313248b8b6e68a1826bffb463c0e4977776708b28d97199f878b88c/) |
 | ✅ | 2024/07/16 | 23-0 | [使命白星](https://ws.tsl.rocks/corp/88e828c55c07286950a3296b00ca2a7a9cc2f1a0139e9cf4c6e54229f821e952/) |
 | ✅ | 2024/07/06 | 14-3 | [游徒之家](https://ws.tsl.rocks/corp/7ab5f6970c8703095b0589da6e5d648dc64a94ca6d901ef09d4949409b2c44b9/) |

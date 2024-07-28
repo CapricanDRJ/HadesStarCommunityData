@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​KARI
-description: W:2 L:62 D:0 Bonus ❌
-date: 1721558050
+description: W:2 L:63 D:0 Bonus ❌
+date: 1722154265
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 833 🔻  (1183)|
-| ELO Competitive | 1009 🔻  (1180)|
-| Total Matches | 64 |
+| ELO Regular | 824 🔻  (1185)|
+| ELO Competitive | 1000 🔻  (1182)|
+| Total Matches | 65 |
 | Wins | 2 |
-| Losses | 62 |
+| Losses | 63 |
 | Draws | 0 |
 
 ### Recurring Opponents
@@ -28,6 +28,7 @@ date: 1721558050
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/28 | 0-15 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
 | ❌ | 2024/07/21 | 3-42 | [Hand Of NOD\! ](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) |
 | ❌ | 2024/07/21 | 0-33 | [Looping](https://ws.tsl.rocks/corp/08524086f45f2e6109e583baf940197663aa3e155c32fcdbb04f319343a5eb0c/) |
 | ❌ | 2024/07/15 | 0-39 | [Crux Cadre](https://ws.tsl.rocks/corp/41cdba59897d5e01412601b648c1a692368d92c198123f9ab442f2a23464b375/) |
