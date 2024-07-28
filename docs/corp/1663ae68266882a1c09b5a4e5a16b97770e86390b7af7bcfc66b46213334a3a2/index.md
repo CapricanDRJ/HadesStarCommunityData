@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Hexacropians
-description: W:36 L:7 D:1 Bonus ❌
-date: 1721626874
+description: W:37 L:7 D:1 Bonus ✅
+date: 1722132630
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1406 🔻  (32)|
-| ELO Competitive | 1449 🔻  (48)|
-| Total Matches | 44 |
-| Wins | 36 |
+| ELO Regular | 1409 🔺  (29)|
+| ELO Competitive | 1452 🔺  (47)|
+| Total Matches | 45 |
+| Wins | 37 |
 | Losses | 7 |
 | Draws | 1 |
 | Streak Record | 13 |
@@ -27,6 +27,7 @@ date: 1721626874
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/28 | 35-3 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) |
 | ↔️ | 2024/07/22 | 35-35 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) |
 | ✅ | 2024/07/16 | 27-7 | [Divinity's End](https://ws.tsl.rocks/corp/144bf3784254d820e063e7f5d630e364b6c69a18bdca0a6a125d69a0baf448be/) |
 | ❌ | 2024/07/09 | 10-46 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
