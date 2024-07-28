@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Nine's Own Goal
-description: W:26 L:15 D:2 Bonus ❌
-date: 1721605241
+description: W:26 L:16 D:2 Bonus ❌
+date: 1722139240
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1246 🔻  (224)|
-| ELO Competitive | 1276 🔻  (255)|
-| Total Matches | 43 |
+| ELO Regular | 1229 🔻  (281)|
+| ELO Competitive | 1262 🔻  (278)|
+| Total Matches | 44 |
 | Wins | 26 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 2 |
 | Streak Record | 7 |
 
@@ -32,6 +32,7 @@ date: 1721605241
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/28 | 10-63 | [Legion](https://ws.tsl.rocks/corp/313baaeac1c759ca26e0f4bd3140711cffdfa85c287d4c992dcfb809908cf491/) |
 | ❌ | 2024/07/21 | 10-44 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) |
 | ✅ | 2024/07/11 | 33-14 | [West Worlders](https://ws.tsl.rocks/corp/aad051ec6b980cc52fb4777aef113d9e28a72aab40fda65aa9cdbf477b8e390a/) |
 | ❌ | 2024/07/05 | 9-24 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |

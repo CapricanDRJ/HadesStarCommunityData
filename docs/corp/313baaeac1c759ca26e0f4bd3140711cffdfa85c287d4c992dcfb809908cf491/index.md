@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Legion
-description: W:21 L:23 D:0 Bonus ❌
-date: 1721553242
+description: W:22 L:23 D:0 Bonus ✅
+date: 1722139240
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1212 🔻  (384)|
-| ELO Competitive | 1312 🔻  (184)|
-| Total Matches | 44 |
-| Wins | 21 |
+| ELO Regular | 1229 🔺  (282)|
+| ELO Competitive | 1326 🔺  (165)|
+| Total Matches | 45 |
+| Wins | 22 |
 | Losses | 23 |
 | Draws | 0 |
 | Streak Record | 4 |
@@ -33,6 +33,7 @@ date: 1721553242
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/28 | 63-10 | [Nine's Own Goal](https://ws.tsl.rocks/corp/fd47245550708347721e341d893b73e7c23e0f3624053c47ce666e55641c9e9e/) |
 | ❌ | 2024/07/21 | 18-27 | [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) |
 | ❌ | 2024/07/12 | 62-64 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) |
 | ✅ | 2024/07/06 | 13-0 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) |
