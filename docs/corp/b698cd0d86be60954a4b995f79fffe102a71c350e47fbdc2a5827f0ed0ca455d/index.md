@@ -1,26 +1,26 @@
 ---
 layout: page
 title: ​Stargate Corp
-description: W:36 L:15 D:0 Bonus ✅
-date: 1722162378
+description: W:36 L:16 D:0 Bonus ✅
+date: 1722184019
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1364 🔺  (55)|
+| ELO Regular | 1355 🔻  (60)|
 | ELO Competitive | 1492 🔺  (28)|
-| Total Matches | 51 |
+| Total Matches | 52 |
 | Wins | 36 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 0 |
-| Streak | 4 |
 | Streak Record | 12 |
 
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Auscorp ](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) | 0 | 4 | 0 | 4 |
 | [Legion](https://ws.tsl.rocks/corp/313baaeac1c759ca26e0f4bd3140711cffdfa85c287d4c992dcfb809908cf491/) | 2 | 0 | 0 | 2 |
 | [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) | 1 | 1 | 0 | 2 |
 | [StarControl](https://ws.tsl.rocks/corp/ec38e4998a2ba7ec763a41d4bd33a2d027e94d6a4b9eace9b11e7d89674cc90c/) | 0 | 2 | 0 | 2 |
@@ -32,12 +32,12 @@ date: 1722162378
 | [Titan Corp\.](https://ws.tsl.rocks/corp/c87b86a6baab08254d7226396a20c74fe0972f64fab6fee405914076e111193c/) | 1 | 1 | 0 | 2 |
 | [Grunthal Gang](https://ws.tsl.rocks/corp/0ab98cd1f1b195397b27360ea0dee2527f1504c9f5d4867e719d6f1f73efb01d/) | 3 | 0 | 0 | 3 |
 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) | 1 | 1 | 0 | 2 |
-| [Auscorp ](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) | 0 | 3 | 0 | 3 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/28 | 4-57 | [Auscorp ](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) |
 | ✅ | 2024/07/28 | 41-28 | [Legion](https://ws.tsl.rocks/corp/313baaeac1c759ca26e0f4bd3140711cffdfa85c287d4c992dcfb809908cf491/) |
 | ✅ | 2024/07/22 | 66-4 | [Trade Station](https://ws.tsl.rocks/corp/7003e286fe1a04aaa63e3aa318c164856c07e251a94b0496757140f5eda72cd7/) |
 | ✅ | 2024/07/21 | 29-17 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) |

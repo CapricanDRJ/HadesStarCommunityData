@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​SQPT
-description: W:30 L:33 D:0 Bonus ✅
-date: 1722089354
+description: W:31 L:33 D:0 Bonus ✅
+date: 1722185221
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 🔺  (433)|
-| ELO Competitive | 1344 🔺  (140)|
-| Total Matches | 63 |
-| Wins | 30 |
+| ELO Regular | 1220 🔺  (318)|
+| ELO Competitive | 1351 🔺  (133)|
+| Total Matches | 64 |
+| Wins | 31 |
 | Losses | 33 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 5 |
 
 ### Recurring Opponents
@@ -31,6 +32,7 @@ date: 1722089354
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/28 | 13-3 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ✅ | 2024/07/27 | 24-21 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) |
 | ❌ | 2024/07/22 | 7-14 | [Fleet Corp Ares](https://ws.tsl.rocks/corp/8ceac360859239e9b9386b5e4a0c3d3c7e75941b010804ab8b405d9eb6f806f6/) |
 | ❌ | 2024/07/20 | 8-19 | [绛紫星](https://ws.tsl.rocks/corp/8c2109279ceb01bcca0aa5e85c151d5877831ac54199285743750e2ed343b407/) |

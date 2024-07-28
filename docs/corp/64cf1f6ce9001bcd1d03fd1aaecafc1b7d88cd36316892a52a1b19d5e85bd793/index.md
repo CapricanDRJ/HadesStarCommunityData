@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​lost souls
-description: W:25 L:24 D:1 Bonus ✅
+description: W:25 L:24 D:1 Bonus ❌
 date: 1722064710
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1219 🔻  (324)|
-| ELO Competitive | 1348 🔻  (136)|
+| ELO Regular | 1219 🔻  (325)|
+| ELO Competitive | 1348 🔻  (137)|
 | Total Matches | 50 |
 | Wins | 25 |
 | Losses | 24 |

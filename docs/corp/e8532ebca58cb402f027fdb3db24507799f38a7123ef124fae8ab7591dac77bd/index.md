@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​仙女座星雲
-description: W:49 L:36 D:2 Bonus ✅
-date: 1722171093
+description: W:49 L:37 D:2 Bonus ✅
+date: 1722185221
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1301 🔺  (122)|
+| ELO Regular | 1282 🔻  (152)|
 | ELO Competitive | 1509 🔺  (18)|
-| Total Matches | 87 |
+| Total Matches | 88 |
 | Wins | 49 |
-| Losses | 36 |
+| Losses | 37 |
 | Draws | 2 |
-| Streak | 5 |
 | Streak Record | 6 |
 
 ### Recurring Opponents
@@ -36,6 +35,7 @@ date: 1722171093
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/28 | 3-13 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) |
 | ✅ | 2024/07/28 | 19-3 | [AKA](https://ws.tsl.rocks/corp/5fde3f409facbda701cdf21de0895eb7c7e17e2d472ae52cc0aa178ce2db64d6/) |
 | ✅ | 2024/07/23 | 9-7 | [八月政府](https://ws.tsl.rocks/corp/72097ba1b36daa9482410e9d2b442965a1f4bbb7bb7974995521f1a948244424/) |
 | ✅ | 2024/07/23 | 25-3 | [Antioch](https://ws.tsl.rocks/corp/6cf52926568f845a630c3fba8370e8afa3a75d315af0f6d0bd891085e6e4425f/) |
