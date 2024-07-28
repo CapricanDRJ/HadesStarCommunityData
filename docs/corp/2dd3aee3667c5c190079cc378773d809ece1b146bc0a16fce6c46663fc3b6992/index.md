@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Star Wars
-description: W:9 L:8 D:0 Bonus ❌
-date: 1713264078
+description: W:10 L:8 D:0 Bonus ✅
+date: 1722148180
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1211 🔻  (395)|
-| ELO Competitive | 1232 🔻  (362)|
-| Total Matches | 17 |
-| Wins | 9 |
+| ELO Regular | 1225 🔺  (305)|
+| ELO Competitive | 1246 🔺  (317)|
+| Total Matches | 18 |
+| Wins | 10 |
 | Losses | 8 |
 | Draws | 0 |
 | Streak Record | 4 |
@@ -26,6 +26,7 @@ date: 1713264078
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/28 | 27-3 | [Неудержимые](https://ws.tsl.rocks/corp/144c80f6e5fb0e145a52f3066b2e61d14a1529f28a8c543720ac999e67c91ef6/) |
 | ❌ | 2024/04/16 | 2-26 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) |
 | ❌ | 2024/03/27 | 1-16 | [GhostNakcoorp](https://ws.tsl.rocks/corp/0a15ae22cdfbd88694d3067838a78bea07746ec95f3784b3f65d77fe47d76312/) |
 | ❌ | 2024/03/25 | 5-34 | [GDZ](https://ws.tsl.rocks/corp/a04890160268d05cf11f997b0a1c724fbbcfa66b2ea4cb1c4b56ca18d0425d62/) |

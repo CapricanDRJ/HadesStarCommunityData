@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Galaktika corp
-description: W:14 L:5 D:2 Bonus ❌
-date: 1721651212
+description: W:15 L:5 D:2 Bonus ✅
+date: 1722144918
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1298 🔻  (124)|
-| ELO Competitive | 1320 🔻  (173)|
-| Total Matches | 21 |
-| Wins | 14 |
+| ELO Regular | 1305 🔺  (116)|
+| ELO Competitive | 1334 🔺  (154)|
+| Total Matches | 22 |
+| Wins | 15 |
 | Losses | 5 |
 | Draws | 2 |
 | Streak Record | 5 |
@@ -26,6 +26,7 @@ date: 1721651212
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/28 | 17-0 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |
 | ❌ | 2024/07/22 | 3-24 | [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) |
 | ❌ | 2024/07/17 | 11-21 | [Star Destroyers](https://ws.tsl.rocks/corp/32ba20918cd8720602fefb3bc676a6ba5195314479040f70eadc728fbbc2698d/) |
 | ✅ | 2024/07/10 | 10-5 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
