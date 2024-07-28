@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​Corp. Estelar
-description: W:10 L:8 D:0 Bonus ❌
-date: 1721497344
+description: W:11 L:8 D:0 Bonus ✅
+date: 1722118210
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1271 🔺  (169)|
-| ELO Competitive | 1302 🔺  (198)|
-| Total Matches | 18 |
-| Wins | 10 |
+| ELO Regular | 1279 🔺  (157)|
+| ELO Competitive | 1318 🔺  (174)|
+| Total Matches | 19 |
+| Wins | 11 |
 | Losses | 8 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 4 |
 
 ### Recurring Opponents
@@ -26,6 +27,7 @@ date: 1721497344
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/27 | 25-3 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |
 | ✅ | 2024/07/20 | 21-19 | [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) |
 | ❌ | 2024/07/13 | 17-31 | [Lights Off ](https://ws.tsl.rocks/corp/8a8b7e5b7a00ef709249daa4546d03bd85258cde01d35e1829a64ed95c3d6cca/) |
 | ✅ | 2024/07/07 | 16-12 | [Tormenta](https://ws.tsl.rocks/corp/537807f41149f54b040d4f2bc983c7f1fbfa2242ec5566371330e4996e33a195/) |

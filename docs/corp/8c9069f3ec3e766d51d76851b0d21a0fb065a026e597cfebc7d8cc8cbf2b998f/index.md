@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​TheBasics
-description: W:29 L:36 D:1 Bonus ❌
-date: 1721673455
+description: W:29 L:37 D:1 Bonus ❌
+date: 1722118210
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1110 🔻  (1086)|
-| ELO Competitive | 1320 🔻  (173)|
-| Total Matches | 66 |
+| ELO Regular | 1102 🔻  (1097)|
+| ELO Competitive | 1304 🔻  (195)|
+| Total Matches | 67 |
 | Wins | 29 |
-| Losses | 36 |
+| Losses | 37 |
 | Draws | 1 |
 | Streak Record | 4 |
 
@@ -30,6 +30,7 @@ date: 1721673455
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/27 | 3-25 | [Corp\. Estelar](https://ws.tsl.rocks/corp/aec01be59075af2b2995f74e3e14f47e2b3ce1bd3b74abc78200a1d6330b8a72/) |
 | ❌ | 2024/07/22 | 11-28 | [资助会](https://ws.tsl.rocks/corp/4d36e1b3853444f7789e6142230ba93f3968baffc18bfad598c3d450c6b247e2/) |
 | ❌ | 2024/07/22 | 0-24 | [Out landers](https://ws.tsl.rocks/corp/4d949404db40dec4e95e786811959954fc9e2b1361f3bf0d33af2279ff86d23a/) |
 | ❌ | 2024/07/17 | 0-15 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |

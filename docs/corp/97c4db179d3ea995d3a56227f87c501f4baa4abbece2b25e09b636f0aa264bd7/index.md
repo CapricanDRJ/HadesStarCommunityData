@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​BoomTech
-description: W:18 L:5 D:1 Bonus ✅
-date: 1721598632
+description: W:19 L:5 D:1 Bonus ✅
+date: 1722123617
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1325 🔺  (91)|
-| ELO Competitive | 1374 🔺  (102)|
-| Total Matches | 24 |
-| Wins | 18 |
+| ELO Regular | 1337 🔺  (78)|
+| ELO Competitive | 1384 🔺  (98)|
+| Total Matches | 25 |
+| Wins | 19 |
 | Losses | 5 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 5 |
 
 ### Recurring Opponents
@@ -27,6 +28,7 @@ date: 1721598632
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/27 | 20-4 | [碧霄殿](https://ws.tsl.rocks/corp/7e12fd0fd0a01af1c797f73316b305a21078e46bd75758850438f20357276ebf/) |
 | ✅ | 2024/07/21 | 14-10 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
 | ❌ | 2024/07/21 | 0-9 | [RedStar Raiding](https://ws.tsl.rocks/corp/83a1c4f1576eec7dce037eb5b64b2455ca3affb9d3072108c5d4d3eba88b4570/) |
 | ❌ | 2024/07/14 | 4-18 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |

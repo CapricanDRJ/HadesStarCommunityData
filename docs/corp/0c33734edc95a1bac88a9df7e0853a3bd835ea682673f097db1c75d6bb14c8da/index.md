@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​IMPERIAL ARMADA
-description: W:29 L:21 D:2 Bonus ✅
-date: 1721646705
+description: W:30 L:21 D:2 Bonus ✅
+date: 1722122716
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1263 🔺  (184)|
-| ELO Competitive | 1349 🔺  (134)|
-| Total Matches | 52 |
-| Wins | 29 |
+| ELO Regular | 1274 🔺  (162)|
+| ELO Competitive | 1362 🔺  (119)|
+| Total Matches | 53 |
+| Wins | 30 |
 | Losses | 21 |
 | Draws | 2 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 7 |
 
 ### Recurring Opponents
@@ -31,6 +31,7 @@ date: 1721646705
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/27 | 34-22 | [Crazy Elite](https://ws.tsl.rocks/corp/ef64e9014b773074470ead0907b9c122bf6bda753de1cddfa01e95a00e9d47dc/) |
 | ✅ | 2024/07/22 | 48-3 | [Stella☆Glow](https://ws.tsl.rocks/corp/86a894b97d55e4f65a3cec65d26d528341d8e70b186bcffa2e89f5f681e48396/) |
 | ✅ | 2024/07/17 | 46-4 | [ZION](https://ws.tsl.rocks/corp/99ac8e5c0f22878b9a4458953d0c712ada17ef36ae195ccf39c7921dc996adfe/) |
 | ❌ | 2024/07/11 | 8-30 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) |

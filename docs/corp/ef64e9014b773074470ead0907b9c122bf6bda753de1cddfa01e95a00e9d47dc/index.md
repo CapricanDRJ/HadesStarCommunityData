@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Crazy Elite
-description: W:26 L:39 D:0 Bonus ❌
-date: 1721402064
+description: W:26 L:40 D:0 Bonus ❌
+date: 1722122716
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1160 🔻  (936)|
-| ELO Competitive | 1316 🔻  (177)|
-| Total Matches | 65 |
+| ELO Regular | 1149 🔻  (988)|
+| ELO Competitive | 1302 🔻  (198)|
+| Total Matches | 66 |
 | Wins | 26 |
-| Losses | 39 |
+| Losses | 40 |
 | Draws | 0 |
 | Streak Record | 4 |
 
@@ -34,6 +34,7 @@ date: 1721402064
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/27 | 22-34 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/0c33734edc95a1bac88a9df7e0853a3bd835ea682673f097db1c75d6bb14c8da/) |
 | ❌ | 2024/07/19 | 13-21 | [Outland Ind\.](https://ws.tsl.rocks/corp/94cb8827caef9b4b1839113abd29145a128d0c1e108c3984bcf7620dd7fca464/) |
 | ❌ | 2024/07/14 | 9-18 | [Providence](https://ws.tsl.rocks/corp/f12fc39ca2326de7c5ce96c005b1953c86430443f1f8b98e7515d082b43b4d4b/) |
 | ❌ | 2024/07/09 | 5-37 | [111](https://ws.tsl.rocks/corp/8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350/) |

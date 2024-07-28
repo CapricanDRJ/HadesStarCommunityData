@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Españoles
-description: W:11 L:44 D:0 Bonus ❌
-date: 1721661131
+description: W:12 L:44 D:0 Bonus ✅
+date: 1722121815
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 985 🔻  (1173)|
-| ELO Competitive | 1077 🔻  (1159)|
-| Total Matches | 55 |
-| Wins | 11 |
+| ELO Regular | 1000 🔺  (1170)|
+| ELO Competitive | 1090 🔺  (1149)|
+| Total Matches | 56 |
+| Wins | 12 |
 | Losses | 44 |
 | Draws | 0 |
 | Streak Record | 3 |
@@ -32,6 +32,7 @@ date: 1721661131
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/27 | 18-13 | [Trade Station](https://ws.tsl.rocks/corp/7003e286fe1a04aaa63e3aa318c164856c07e251a94b0496757140f5eda72cd7/) |
 | ❌ | 2024/07/22 | 30-37 | [The trade pub](https://ws.tsl.rocks/corp/43689e4266357d8b8d3d66d371109d9aed82ee6df47dc6fa0a7c5da735b9863b/) |
 | ✅ | 2024/07/17 | 22-4 | [ProyectCorp](https://ws.tsl.rocks/corp/ac76fbb017abc5511e6d39625245f0cd8f145ef5ba96ae1760d7f2389b5e0fe1/) |
 | ✅ | 2024/07/12 | 16-14 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
