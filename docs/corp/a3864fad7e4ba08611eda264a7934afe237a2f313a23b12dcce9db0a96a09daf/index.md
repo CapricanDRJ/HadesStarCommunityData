@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​<•|•>
-description: W:1 L:2 D:0 Bonus ❌
-date: 1721289653
+description: W:1 L:3 D:0 Bonus ❌
+date: 1722161175
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1180 🔺  (762)|
-| ELO Competitive | 1187 🔺  (674)|
-| Total Matches | 3 |
+| ELO Regular | 1163 🔻  (917)|
+| ELO Competitive | 1172 🔻  (923)|
+| Total Matches | 4 |
 | Wins | 1 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 
 
@@ -20,6 +20,7 @@ date: 1721289653
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/28 | 3-9 | [星光万丈](https://ws.tsl.rocks/corp/92ad2a305a74e168b57771140461b4d226e1e8cac17b4f77027d5a67ead5fa1d/) |
 | ✅ | 2024/07/18 | 2-1 | [逐光起航](https://ws.tsl.rocks/corp/e6bb076aa209101b5fa1cbc40a614c241d71ab5eca143c733b81aed6302455e8/) |
 | ❌ | 2024/07/10 | 2-3 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
 | ❌ | 2024/06/01 | 1-24 | [Z\. O\. V\. ](https://ws.tsl.rocks/corp/4f56534357f2407b25faee160f9dca4ee83b8f9ca4425ba472a47298faf54096/) |

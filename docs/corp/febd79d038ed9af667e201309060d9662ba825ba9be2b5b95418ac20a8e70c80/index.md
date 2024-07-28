@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Ark
-description: W:38 L:7 D:1 Bonus ✅
-date: 1721545729
+description: W:39 L:7 D:1 Bonus ✅
+date: 1722169290
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1418 🔻  (25)|
-| ELO Competitive | 1480 🔺  (34)|
-| Total Matches | 46 |
-| Wins | 38 |
+| ELO Regular | 1426 🔺  (23)|
+| ELO Competitive | 1487 🔺  (28)|
+| Total Matches | 47 |
+| Wins | 39 |
 | Losses | 7 |
 | Draws | 1 |
 | Streak Record | 24 |
@@ -30,6 +30,7 @@ date: 1721545729
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/28 | 32-8 | [Alpaca Haven](https://ws.tsl.rocks/corp/e93a2f2efda24a65c8ee7eb57fbb269e19b2b1c28a67c6c7c3339b8c90f7726b/) |
 | ❌ | 2024/07/21 | 1-15 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ✅ | 2024/07/21 | 44-0 | [Free Thinkers 2](https://ws.tsl.rocks/corp/9fc879b45c4053ac93d6eebdb14d856a828df8fd85800df616cdd3332683a695/) |
 | ↔️ | 2024/07/14 | 38-38 | [Retarts](https://ws.tsl.rocks/corp/1556331f722d00268e3c524b12efedac51051cf48e46b2513675774b9315a155/) |

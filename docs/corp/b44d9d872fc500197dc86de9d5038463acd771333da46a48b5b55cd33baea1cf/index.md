@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​阿尔特拉集团
-description: W:19 L:23 D:2 Bonus ✅
-date: 1722047883
+description: W:20 L:23 D:2 Bonus ✅
+date: 1722161476
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (792)|
-| ELO Competitive | 1279 🔻  (244)|
-| Total Matches | 44 |
-| Wins | 19 |
+| ELO Regular | 1189 🔺  (532)|
+| ELO Competitive | 1307 🔺  (190)|
+| Total Matches | 45 |
+| Wins | 20 |
 | Losses | 23 |
 | Draws | 2 |
 | Streak Record | 4 |
@@ -26,6 +26,7 @@ date: 1722047883
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/28 | 17-0 | [星光万丈](https://ws.tsl.rocks/corp/92ad2a305a74e168b57771140461b4d226e1e8cac17b4f77027d5a67ead5fa1d/) |
 | ❌ | 2024/07/27 | 8-10 | [Grater T](https://ws.tsl.rocks/corp/2044ad2bb7831118aae299744191230a33d196c7997f9516a20c3d0a321ba669/) |
 | ✅ | 2024/07/21 | 19-0 | [Ws Polaris](https://ws.tsl.rocks/corp/aed0edd750f895de01d5a257db42bba7b2098421901f1cf0352b992242d967d9/) |
 | ❌ | 2024/07/21 | 0-16 | [Shrimp City](https://ws.tsl.rocks/corp/eae9b3a1f9dd6b4a1fb39d6aedfe84a80662abe6b181bedcfd7ec15d931b8e84/) |

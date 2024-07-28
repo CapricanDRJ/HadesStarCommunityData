@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Alpaca Haven
-description: W:18 L:11 D:0 Bonus ❌
-date: 1721164028
+description: W:18 L:12 D:0 Bonus ❌
+date: 1722169290
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1263 🔻  (186)|
-| ELO Competitive | 1288 🔻  (225)|
-| Total Matches | 29 |
+| ELO Regular | 1255 🔻  (207)|
+| ELO Competitive | 1280 🔻  (243)|
+| Total Matches | 30 |
 | Wins | 18 |
-| Losses | 11 |
+| Losses | 12 |
 | Draws | 0 |
 | Streak Record | 5 |
 
@@ -26,6 +26,7 @@ date: 1721164028
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/28 | 8-32 | [Ark](https://ws.tsl.rocks/corp/febd79d038ed9af667e201309060d9662ba825ba9be2b5b95418ac20a8e70c80/) |
 | ❌ | 2024/07/16 | 14-19 | [Game of Stars](https://ws.tsl.rocks/corp/ad5bb68e6076ee70e6715ecead226fc9880b66a87b68acb3098843f723c1562e/) |
 | ✅ | 2024/07/07 | 35-10 | [VoidCorp](https://ws.tsl.rocks/corp/b866417e5607f8434347bb5f986e37c4fa7dda68b3882f0135d186043d3f68a3/) |
 | ❌ | 2024/06/22 | 16-35 | [Bounty Hunters](https://ws.tsl.rocks/corp/d44b4a2b4a57fd50845c39abe5c6b0a38bab694941fed09d3ca164c1d78625ea/) |

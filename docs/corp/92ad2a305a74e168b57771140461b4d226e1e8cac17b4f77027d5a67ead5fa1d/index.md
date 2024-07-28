@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​星光万丈
-description: W:8 L:16 D:1 Bonus ✅
-date: 1721651212
+description: W:9 L:17 D:1 Bonus ✅
+date: 1722161476
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1147 🔻  (994)|
-| ELO Competitive | 1196 🔺  (580)|
-| Total Matches | 25 |
-| Wins | 8 |
-| Losses | 16 |
+| ELO Regular | 1149 🔻  (990)|
+| ELO Competitive | 1211 🔺  (480)|
+| Total Matches | 27 |
+| Wins | 9 |
+| Losses | 17 |
 | Draws | 1 |
 | Streak Record | 3 |
 
@@ -27,6 +27,8 @@ date: 1721651212
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/28 | 0-17 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
+| ✅ | 2024/07/28 | 9-3 | [<•\|•\>](https://ws.tsl.rocks/corp/a3864fad7e4ba08611eda264a7934afe237a2f313a23b12dcce9db0a96a09daf/) |
 | ❌ | 2024/07/22 | 4-15 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ✅ | 2024/07/22 | 13-0 | [遨游星空  kdy分盟](https://ws.tsl.rocks/corp/74a42c9e5b716ea7c784243c029ad5dc1871f6b81692170099efdf8d3f94ba8f/) |
 | ✅ | 2024/07/14 | 8-0 | [羽共和体](https://ws.tsl.rocks/corp/61b6e0502a087307a2ecf50e5d84f6123ad19984dc5790c997f16a676213aa7e/) |

@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​украина№1
-description: W:23 L:19 D:0 Bonus ❌
-date: 1721287549
+description: W:24 L:19 D:0 Bonus ✅
+date: 1722162979
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1249 🔻  (218)|
-| ELO Competitive | 1333 🔻  (156)|
-| Total Matches | 42 |
-| Wins | 23 |
+| ELO Regular | 1252 🔺  (213)|
+| ELO Competitive | 1336 🔺  (150)|
+| Total Matches | 43 |
+| Wins | 24 |
 | Losses | 19 |
 | Draws | 0 |
 | Streak Record | 9 |
@@ -29,6 +29,7 @@ date: 1721287549
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/28 | 52-0 | [KARI](https://ws.tsl.rocks/corp/4434276aa1aebbe4c0a69ac51dff9c243c5287d00096e12c87e8590318a2ab65/) |
 | ❌ | 2024/07/18 | 9-21 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | ❌ | 2024/07/03 | 2-21 | [Spacefleet](https://ws.tsl.rocks/corp/517f7b257f68936f7a95a478d6923776a2549b88897bae628fd35b23572d3cbd/) |
 | ✅ | 2024/06/25 | 44-4 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) |
