@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​对，进就进人少的
-description: W:34 L:27 D:2 Bonus ✅
-date: 1721796352
+description: W:35 L:28 D:2 Bonus ✅
+date: 1722242615
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1328 🔺  (85)|
-| ELO Competitive | 1422 🔺  (70)|
-| Total Matches | 63 |
-| Wins | 34 |
-| Losses | 27 |
+| ELO Regular | 1314 🔻  (99)|
+| ELO Competitive | 1430 🔺  (66)|
+| Total Matches | 65 |
+| Wins | 35 |
+| Losses | 28 |
 | Draws | 2 |
-| Streak | 4 |
 | Streak Record | 8 |
 
 ### Recurring Opponents
@@ -34,6 +33,8 @@ date: 1721796352
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/29 | 3-16 | [AKA](https://ws.tsl.rocks/corp/5fde3f409facbda701cdf21de0895eb7c7e17e2d472ae52cc0aa178ce2db64d6/) |
+| ✅ | 2024/07/29 | 15-6 | [Midland Ind\.](https://ws.tsl.rocks/corp/da3a00a59e73cb89ddcf9ae42f31ecf0c9d9b5fe9a2dc5ddec6fc42922f86a23/) |
 | ✅ | 2024/07/24 | 25-0 | [Bunker](https://ws.tsl.rocks/corp/583eeb4aaa577ce5d9806fc637f83d7c02b2a29fa2d47eb38fd658be8ef93588/) |
 | ✅ | 2024/07/24 | 7-0 | [Black Star llc\.](https://ws.tsl.rocks/corp/f6cd5aed527efed3a402f931784d68b5b7201b317118a60bd3d81b551ee87330/) |
 | ✅ | 2024/07/17 | 4-3 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |

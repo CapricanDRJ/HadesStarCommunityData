@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​AKA
-description: W:0 L:11 D:0 Bonus ❌
-date: 1722171093
+description: W:1 L:11 D:0 Bonus ✅
+date: 1722242615
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1075 🔻  (1129)|
-| ELO Competitive | 1104 🔻  (1139)|
-| Total Matches | 11 |
-| Wins | 0 |
+| ELO Regular | 1100 🔺  (1103)|
+| ELO Competitive | 1133 🔺  (1107)|
+| Total Matches | 12 |
+| Wins | 1 |
 | Losses | 11 |
 | Draws | 0 |
 
@@ -20,6 +20,7 @@ date: 1722171093
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/29 | 16-3 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ❌ | 2024/07/28 | 3-19 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ❌ | 2024/07/19 | 4-22 | [Девчата](https://ws.tsl.rocks/corp/ceffaeaf5a27ff2773aa6e2ad93ac3ff2a6f152214c5a708a36e0f90e1b727b9/) |
 | ❌ | 2024/07/19 | 1-15 | [Дом Датэ](https://ws.tsl.rocks/corp/10cbcbd91c4084657bdab01ef573cc48170fbc4dd0ab533f96712f1cb6097ff2/) |

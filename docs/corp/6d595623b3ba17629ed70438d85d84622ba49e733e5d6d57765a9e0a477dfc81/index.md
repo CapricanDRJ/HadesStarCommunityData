@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​中国星际联盟
-description: W:32 L:28 D:1 Bonus ✅
-date: 1722230296
+description: W:33 L:28 D:1 Bonus ✅
+date: 1722241413
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1241 🔻  (237)|
-| ELO Competitive | 1422 🔻  (71)|
-| Total Matches | 61 |
-| Wins | 32 |
+| ELO Regular | 1254 🔺  (208)|
+| ELO Competitive | 1436 🔺  (62)|
+| Total Matches | 62 |
+| Wins | 33 |
 | Losses | 28 |
 | Draws | 1 |
 | Streak Record | 5 |
@@ -28,6 +28,7 @@ date: 1722230296
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/29 | 10-0 | [TUSFO星舰第二联邦](https://ws.tsl.rocks/corp/ce300265f7ff838a94e6b41da8dca8d346f0b2200c2ae84d309ef97d4af2777c/) |
 | ❌ | 2024/07/29 | 3-22 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) |
 | ✅ | 2024/07/24 | 7-4 | [Star Fleet](https://ws.tsl.rocks/corp/b50e0529c2b2e86bae23d0fb4cbcdc4bff7615c45efb95150747a89dd3ea0231/) |
 | ❌ | 2024/07/23 | 11-17 | [自由星际联盟](https://ws.tsl.rocks/corp/933277ff64041b32fe12e4e564e2064071377343596c7944fb8c145165e2ab04/) |

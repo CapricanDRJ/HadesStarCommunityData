@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​oen
-description: W:2 L:0 D:0 Bonus ✅
+description: W:2 L:0 D:0 Bonus ❌
 date: 1721620564
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

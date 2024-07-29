@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Midland Ind.
-description: W:10 L:9 D:0 Bonus ✅
-date: 1722113702
+description: W:10 L:10 D:0 Bonus ✅
+date: 1722238409
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔺  (373)|
+| ELO Regular | 1203 🔻  (416)|
 | ELO Competitive | 1238 🔺  (338)|
-| Total Matches | 19 |
+| Total Matches | 20 |
 | Wins | 10 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 0 |
 | Streak Record | 3 |
 
@@ -21,6 +21,7 @@ date: 1722113702
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/29 | 6-15 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ✅ | 2024/07/27 | 22-3 | [YETI Collective](https://ws.tsl.rocks/corp/ff6a3c65d008d245f003a3009374e26cf38e7cda6ea4d601a9da9037296fda98/) |
 | ❌ | 2024/07/12 | 19-30 | [alienigenas](https://ws.tsl.rocks/corp/1c092f1b0e9645193eac68e27b29b2b9fef39474fd8924495abec6754857a8f9/) |
 | ✅ | 2024/07/06 | 25-14 | [Dumpster Fire 2](https://ws.tsl.rocks/corp/37d473dec00d4d68e29963e3b423670aac735e7c1f256276e6c2e7d62180b0f8/) |
