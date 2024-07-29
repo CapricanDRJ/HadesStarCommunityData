@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​柯伊伯带
-description: W:58 L:1 D:0 Bonus ✅
-date: 1721944808
+description: W:59 L:1 D:0 Bonus ✅
+date: 1722230296
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1625 🔺  (1)|
-| ELO Competitive | 1594 🔺  (2)|
-| Total Matches | 59 |
-| Wins | 58 |
+| ELO Regular | 1628 🔺  (1)|
+| ELO Competitive | 1602 🔺  (2)|
+| Total Matches | 60 |
+| Wins | 59 |
 | Losses | 1 |
 | Draws | 0 |
-| Streak | 48 |
-| Streak Record | 48 |
+| Streak | 49 |
+| Streak Record | 49 |
 
 ### Recurring Opponents
 
@@ -31,6 +31,7 @@ date: 1721944808
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/29 | 22-3 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) |
 | ✅ | 2024/07/25 | 21-10 | [Lacuna X](https://ws.tsl.rocks/corp/fb10f33f3db17b99b0d227f17e7fde76ef067dc4a4bb4ae05e46c76d2e5e8ea1/) |
 | ✅ | 2024/07/23 | 17-5 | [Death Star llc\.](https://ws.tsl.rocks/corp/3dd4906939827fa7537a3e95f8d75948c06b75a98f3c4aab253ea79857d2ce81/) |
 | ✅ | 2024/07/18 | 18-10 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |

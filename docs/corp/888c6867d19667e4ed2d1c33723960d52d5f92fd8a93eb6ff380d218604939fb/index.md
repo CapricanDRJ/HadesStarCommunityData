@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​ДИВЕРСАНТЫ
-description: W:45 L:6 D:1 Bonus ✅
-date: 1721736254
+description: W:46 L:6 D:1 Bonus ✅
+date: 1722225788
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1546 🔺  (3)|
-| ELO Competitive | 1610 🔺  (1)|
-| Total Matches | 52 |
-| Wins | 45 |
+| ELO Regular | 1550 🔺  (3)|
+| ELO Competitive | 1614 🔺  (1)|
+| Total Matches | 53 |
+| Wins | 46 |
 | Losses | 6 |
 | Draws | 1 |
-| Streak | 20 |
-| Streak Record | 20 |
+| Streak | 21 |
+| Streak Record | 21 |
 
 ### Recurring Opponents
 
@@ -37,6 +37,7 @@ date: 1721736254
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/29 | 43-7 | [Argentina 1\.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449/) |
 | ✅ | 2024/07/23 | 40-25 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) |
 | ✅ | 2024/07/18 | 21-9 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) |
 | ✅ | 2024/07/13 | 30-6 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) |

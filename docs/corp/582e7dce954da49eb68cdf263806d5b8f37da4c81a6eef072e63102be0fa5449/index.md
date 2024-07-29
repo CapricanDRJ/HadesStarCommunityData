@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Argentina 1.0
-description: W:17 L:12 D:0 Bonus ✅
-date: 1721684276
+description: W:17 L:13 D:0 Bonus ✅
+date: 1722225788
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1249 🔺  (217)|
-| ELO Competitive | 1283 🔺  (232)|
-| Total Matches | 29 |
+| ELO Regular | 1245 🔻  (226)|
+| ELO Competitive | 1279 🔻  (244)|
+| Total Matches | 30 |
 | Wins | 17 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 0 |
 | Streak Record | 5 |
 
@@ -21,6 +21,7 @@ date: 1721684276
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/29 | 7-43 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | ✅ | 2024/07/22 | 36-7 | [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) |
 | ❌ | 2024/07/14 | 26-35 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) |
 | ✅ | 2024/07/08 | 37-5 | [Dumpster Fire](https://ws.tsl.rocks/corp/f191bf7efb93ca805453b3e11aef9278976a4c70fe9790e7813f28fcdf899121/) |

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​mijael siuuuuuu
-description: W:0 L:12 D:1 Bonus ❌
-date: 1707844755
+description: W:0 L:13 D:1 Bonus ❌
+date: 1722229384
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1066 🔻  (1136)|
-| ELO Competitive | 1069 🔻  (1171)|
-| Total Matches | 13 |
+| ELO Regular | 1057 🔻  (1145)|
+| ELO Competitive | 1059 🔻  (1176)|
+| Total Matches | 14 |
 | Wins | 0 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 1 |
 
 ### Recurring Opponents
@@ -25,6 +25,7 @@ date: 1707844755
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/29 | 0-3 | [Картофель 🇲🇬](https://ws.tsl.rocks/corp/5d4771f2f16010ac3d53e0bc6defa1e28a1fd05c83942048171d186c4af2da9d/) |
 | ❌ | 2024/02/13 | 0-9 | [第四星际](https://ws.tsl.rocks/corp/42d38d5f95c493cb1822f0c89a5366e532a9dc30c0019e03cf7ddd280bf55040/) |
 | ❌ | 2024/02/06 | 0-3 | [한국인](https://ws.tsl.rocks/corp/f2b2c144f02ec69dfe3bd7fb8d4d1db10d7e3954a2f45937f16daafb0266490e/) |
 | ↔️ | 2024/01/31 | 0-0 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |

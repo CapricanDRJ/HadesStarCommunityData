@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Повстанцы Хаоса
-description: W:21 L:4 D:0 Bonus ✅
-date: 1721628977
+description: W:21 L:5 D:0 Bonus ✅
+date: 1722226991
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1403 🔺  (36)|
-| ELO Competitive | 1437 🔺  (61)|
-| Total Matches | 25 |
+| ELO Regular | 1391 🔻  (42)|
+| ELO Competitive | 1428 🔻  (65)|
+| Total Matches | 26 |
 | Wins | 21 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
-| Streak | 10 |
 | Streak Record | 10 |
 
 ### Recurring Opponents
@@ -27,6 +26,7 @@ date: 1721628977
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/29 | 2-3 | [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) |
 | ✅ | 2024/07/22 | 24-0 | [ༀᅗBAR ESTELARᅗༀ](https://ws.tsl.rocks/corp/874716e0cba92e65a541f6751246b0fa1d503d7ee2b00dcde1ab424af30190be/) |
 | ✅ | 2024/07/15 | 22-9 | [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b/) |
 | ✅ | 2024/07/08 | 30-3 | [Poggy Rockers](https://ws.tsl.rocks/corp/47aeb151232251d9e53310e21f1290b1240c63878169968847bd1e89efc909a7/) |

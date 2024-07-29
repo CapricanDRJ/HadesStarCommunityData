@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Brodudes Inc.
-description: W:59 L:14 D:1 Bonus ✅
-date: 1722086047
+description: W:60 L:14 D:1 Bonus ✅
+date: 1722226991
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1486 🔺  (7)|
-| ELO Competitive | 1580 🔺  (3)|
-| Total Matches | 74 |
-| Wins | 59 |
+| ELO Regular | 1498 🔺  (6)|
+| ELO Competitive | 1582 🔺  (3)|
+| Total Matches | 75 |
+| Wins | 60 |
 | Losses | 14 |
 | Draws | 1 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 9 |
 
 ### Recurring Opponents
@@ -34,6 +34,7 @@ date: 1722086047
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/29 | 3-2 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |
 | ✅ | 2024/07/27 | 17-7 | [Дом Датэ](https://ws.tsl.rocks/corp/10cbcbd91c4084657bdab01ef573cc48170fbc4dd0ab533f96712f1cb6097ff2/) |
 | ✅ | 2024/07/22 | 24-3 | [Galaktika corp](https://ws.tsl.rocks/corp/c37872d1ea085402bf536c707a895610f72dafda4bede848405b7908b4523985/) |
 | ❌ | 2024/07/20 | 19-21 | [Corp\. Estelar](https://ws.tsl.rocks/corp/aec01be59075af2b2995f74e3e14f47e2b3ce1bd3b74abc78200a1d6330b8a72/) |
