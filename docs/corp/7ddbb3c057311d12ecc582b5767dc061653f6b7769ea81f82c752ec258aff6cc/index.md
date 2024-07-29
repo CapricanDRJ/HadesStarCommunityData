@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Internationals
-description: W:13 L:9 D:0 Bonus ❌
-date: 1721583302
+description: W:13 L:10 D:0 Bonus ❌
+date: 1722215573
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1286 🔺  (142)|
-| ELO Competitive | 1319 🔺  (174)|
-| Total Matches | 22 |
+| ELO Regular | 1281 🔻  (154)|
+| ELO Competitive | 1313 🔻  (183)|
+| Total Matches | 23 |
 | Wins | 13 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 0 |
-| Streak | 9 |
 | Streak Record | 9 |
 
 
@@ -22,6 +21,7 @@ date: 1721583302
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/29 | 23-29 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) |
 | ✅ | 2024/07/21 | 34-4 | [lost souls](https://ws.tsl.rocks/corp/64cf1f6ce9001bcd1d03fd1aaecafc1b7d88cd36316892a52a1b19d5e85bd793/) |
 | ✅ | 2024/07/14 | 35-26 | [Argentina 1\.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449/) |
 | ✅ | 2024/07/08 | 23-8 | [Game of Stars](https://ws.tsl.rocks/corp/ad5bb68e6076ee70e6715ecead226fc9880b66a87b68acb3098843f723c1562e/) |

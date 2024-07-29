@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​落雨观花
-description: W:4 L:1 D:0 Bonus ✅
-date: 1721881095
+description: W:4 L:2 D:0 Bonus ✅
+date: 1722218877
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1239 🔻  (242)|
-| ELO Competitive | 1260 🔺  (287)|
-| Total Matches | 5 |
+| ELO Regular | 1225 🔻  (300)|
+| ELO Competitive | 1245 🔻  (320)|
+| Total Matches | 6 |
 | Wins | 4 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Streak Record | 4 |
 
@@ -21,6 +21,7 @@ date: 1721881095
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/29 | 3-13 | [资助会](https://ws.tsl.rocks/corp/4d36e1b3853444f7789e6142230ba93f3968baffc18bfad598c3d450c6b247e2/) |
 | ❌ | 2024/07/25 | 8-20 | [萌新的收留所](https://ws.tsl.rocks/corp/1dd3f70c959e32c27cb4c010162be3799b7c0732115d5c2b7ca5979f48b10f7f/) |
 | ✅ | 2024/07/23 | 6-4 | [sk cz nebula](https://ws.tsl.rocks/corp/6ed29f74bee91a7aad75a64196918993de6cec070ce8c65d1132ed6b0e79005d/) |
 | ✅ | 2024/07/18 | 17-9 | [神圣罗马帝国](https://ws.tsl.rocks/corp/2a71af44aaef82175cd8dfd86c9e3f218a438a7c7e748bae20d8a0d964a984ab/) |

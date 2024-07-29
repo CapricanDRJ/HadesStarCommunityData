@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​リリース
-description: W:34 L:10 D:0 Bonus ✅
-date: 1722203256
+description: W:35 L:10 D:0 Bonus ✅
+date: 1722216774
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1385 🔺  (46)|
-| ELO Competitive | 1435 🔺  (63)|
-| Total Matches | 44 |
-| Wins | 34 |
+| ELO Regular | 1392 🔺  (41)|
+| ELO Competitive | 1437 🔺  (60)|
+| Total Matches | 45 |
+| Wins | 35 |
 | Losses | 10 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 13 |
 
 ### Recurring Opponents
@@ -28,6 +28,7 @@ date: 1722203256
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/29 | 15-1 | [AAAA](https://ws.tsl.rocks/corp/73b759d7c9218f2c1171f9ef691739331ca36ee045039f4f3f935a47b6622a27/) |
 | ✅ | 2024/07/28 | 21-4 | [RedStar Raiding](https://ws.tsl.rocks/corp/83a1c4f1576eec7dce037eb5b64b2455ca3affb9d3072108c5d4d3eba88b4570/) |
 | ✅ | 2024/07/21 | 21-0 | [P\!RAT£ SHIP](https://ws.tsl.rocks/corp/edee949826201f74f57f45c101789757954710e3d075602dfdda7765a69a7e7c/) |
 | ❌ | 2024/07/21 | 10-14 | [BoomTech](https://ws.tsl.rocks/corp/97c4db179d3ea995d3a56227f87c501f4baa4abbece2b25e09b636f0aa264bd7/) |

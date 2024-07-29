@@ -1,19 +1,21 @@
 ---
 layout: page
 title: ​德意志第三帝国奥米加分部
-description: W:4 L:11 D:3 Bonus ✅
-date: 1721711615
+description: W:5 L:11 D:3 Bonus ✅
+date: 1722223040
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1120 🔺  (1067)|
-| ELO Competitive | 1143 🔺  (1083)|
-| Total Matches | 18 |
-| Wins | 4 |
+| ELO Regular | 1138 🔺  (1025)|
+| ELO Competitive | 1160 🔺  (1018)|
+| Total Matches | 19 |
+| Wins | 5 |
 | Losses | 11 |
 | Draws | 3 |
+| Streak | 2 |
+| Streak Record | 2 |
 
 ### Recurring Opponents
 
@@ -25,6 +27,7 @@ date: 1721711615
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/29 | 19-7 | [第三舰队](https://ws.tsl.rocks/corp/5c221ea6be2f8e437f63c736ee45290cb3304543c57a4a1ea677e5e24e121f89/) |
 | ✅ | 2024/07/23 | 14-0 | [欢迎国人](https://ws.tsl.rocks/corp/f32abd112fe2b826948a3538a51097b9114815930ec77ad11ada1b24ce34578d/) |
 | ❌ | 2024/07/06 | 9-14 | [P\!RAT£ SHIP](https://ws.tsl.rocks/corp/edee949826201f74f57f45c101789757954710e3d075602dfdda7765a69a7e7c/) |
 | ✅ | 2024/06/26 | 10-1 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |

@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​资助会
-description: W:7 L:2 D:0 Bonus ✅
-date: 1721832113
+description: W:8 L:2 D:0 Bonus ✅
+date: 1722218877
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1264 🔺  (184)|
-| ELO Competitive | 1261 🔺  (283)|
-| Total Matches | 9 |
-| Wins | 7 |
+| ELO Regular | 1277 🔺  (160)|
+| ELO Competitive | 1276 🔺  (257)|
+| Total Matches | 10 |
+| Wins | 8 |
 | Losses | 2 |
 | Draws | 0 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 4 |
 
 
@@ -22,6 +22,7 @@ date: 1721832113
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/29 | 13-3 | [落雨观花](https://ws.tsl.rocks/corp/565a6d89fc5107e86669d7f8910a1c4ae1fbb156fa0b5e81dbc917c341cc9ff0/) |
 | ✅ | 2024/07/24 | 34-0 | [初始之音](https://ws.tsl.rocks/corp/79f48676f0ad15541a751311b97bae91c977d65480891a675585fc396c20bdb9/) |
 | ✅ | 2024/07/22 | 28-11 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |
 | ✅ | 2024/07/17 | 28-10 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |

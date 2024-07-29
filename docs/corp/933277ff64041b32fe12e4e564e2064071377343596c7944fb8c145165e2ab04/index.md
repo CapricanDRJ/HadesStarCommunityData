@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​自由星际联盟
-description: W:6 L:31 D:0 Bonus ✅
-date: 1721742264
+description: W:6 L:32 D:0 Bonus ✅
+date: 1722216663
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1031 🔺  (1158)|
-| ELO Competitive | 1107 🔺  (1137)|
-| Total Matches | 37 |
+| ELO Regular | 1026 🔻  (1161)|
+| ELO Competitive | 1101 🔻  (1140)|
+| Total Matches | 38 |
 | Wins | 6 |
-| Losses | 31 |
+| Losses | 32 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -20,6 +20,7 @@ date: 1721742264
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [R\-6 satalite](https://ws.tsl.rocks/corp/ce3450a529768e932b3aeb4c6f39b9295e6e07d010b209d0120c0125799adc43/) | 0 | 2 | 0 | 2 |
 | [SternenStaub](https://ws.tsl.rocks/corp/11f1e8a4d522eaef8cb40c95d07b4533097aa6509ddafd1d7efc1449e8b10f38/) | 0 | 2 | 0 | 2 |
 | [萌新港\(大佬港\)](https://ws.tsl.rocks/corp/e6d9b9da7a037e3572cb594dfeba7b282b66509228c9f4f1b2138f873caa3cf3/) | 1 | 1 | 0 | 2 |
 | [ 墨痕 ](https://ws.tsl.rocks/corp/1beef0498f07b07217c6e0727dffd066947edc54ee6d09dc63c031def52cdd60/) | 1 | 2 | 0 | 3 |
@@ -28,6 +29,7 @@ date: 1721742264
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/29 | 1-21 | [R\-6 satalite](https://ws.tsl.rocks/corp/ce3450a529768e932b3aeb4c6f39b9295e6e07d010b209d0120c0125799adc43/) |
 | ✅ | 2024/07/23 | 17-11 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) |
 | ❌ | 2024/06/12 | 2-23 | [Intertwine ](https://ws.tsl.rocks/corp/bdbcd28dadb65d4f49f3e56bf50f516066bc3b72a265b4e3f59e66161c9a35ef/) |
 | ❌ | 2024/06/12 | 3-12 | [The New Light](https://ws.tsl.rocks/corp/73c87b4394c7e44aa0fa6996ae32e7448f956391dac8b5d025da6019d3062cfc/) |
