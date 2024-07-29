@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​墨痕空域
-description: W:30 L:16 D:0 Bonus ✅
-date: 1721846839
+description: W:31 L:16 D:0 Bonus ✅
+date: 1722256438
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1268 🔻  (180)|
-| ELO Competitive | 1467 🔺  (41)|
-| Total Matches | 46 |
-| Wins | 30 |
+| ELO Regular | 1276 🔺  (164)|
+| ELO Competitive | 1473 🔺  (37)|
+| Total Matches | 47 |
+| Wins | 31 |
 | Losses | 16 |
 | Draws | 0 |
 | Streak Record | 7 |
@@ -20,6 +20,7 @@ date: 1721846839
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [神圣罗马帝国](https://ws.tsl.rocks/corp/2a71af44aaef82175cd8dfd86c9e3f218a438a7c7e748bae20d8a0d964a984ab/) | 2 | 0 | 0 | 2 |
 | [Stardust](https://ws.tsl.rocks/corp/304ad360ced8ec5a0e12a9955f3dd8f8ac2476f48d98a379beda41221e5a1c1c/) | 2 | 0 | 0 | 2 |
 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) | 1 | 1 | 0 | 2 |
 | [初始之音](https://ws.tsl.rocks/corp/79f48676f0ad15541a751311b97bae91c977d65480891a675585fc396c20bdb9/) | 2 | 0 | 0 | 2 |
@@ -28,6 +29,7 @@ date: 1721846839
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/29 | 15-14 | [神圣罗马帝国](https://ws.tsl.rocks/corp/2a71af44aaef82175cd8dfd86c9e3f218a438a7c7e748bae20d8a0d964a984ab/) |
 | ❌ | 2024/07/24 | 2-8 | [ItaFederalFleet](https://ws.tsl.rocks/corp/02f7ac2b406e46cbb3e1f7fa3a0fb0dc2c32f9bc8afc54c299cd54757463ddbe/) |
 | ✅ | 2024/07/24 | 17-3 | [超新星联盟](https://ws.tsl.rocks/corp/c3667794c88fd0a09f565dc3b4fed5325f131a616d01d0f6890755b44997d0a1/) |
 | ✅ | 2024/07/19 | 9-3 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |

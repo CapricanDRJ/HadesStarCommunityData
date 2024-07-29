@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​神圣罗马帝国
-description: W:19 L:39 D:1 Bonus ✅
-date: 1721814081
+description: W:19 L:40 D:1 Bonus ✅
+date: 1722256438
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1100 🔻  (1102)|
-| ELO Competitive | 1229 🔺  (375)|
-| Total Matches | 59 |
+| ELO Regular | 1092 🔻  (1111)|
+| ELO Competitive | 1223 🔻  (394)|
+| Total Matches | 60 |
 | Wins | 19 |
-| Losses | 39 |
+| Losses | 40 |
 | Draws | 1 |
 | Streak Record | 4 |
 
@@ -20,6 +20,7 @@ date: 1721814081
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) | 0 | 2 | 0 | 2 |
 | [佛矿寺](https://ws.tsl.rocks/corp/64f8afd95b7004e9d5a442da55644ee3ce64a9a8e82345c458d757b527e40624/) | 1 | 1 | 0 | 2 |
 | [Decode](https://ws.tsl.rocks/corp/848408d1ee1a3c08302a936241ea5cbe170cb66dc343d3339ed3ae4baeb82e57/) | 2 | 0 | 0 | 2 |
 | [Angel Dragon](https://ws.tsl.rocks/corp/2f2e44c159dc8f4e15e2dabda533d9db8697d2c6c06735d926d180b3aa056dcf/) | 0 | 2 | 0 | 2 |
@@ -30,6 +31,7 @@ date: 1721814081
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/29 | 14-15 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |
 | ❌ | 2024/07/24 | 1-6 | [第四星际](https://ws.tsl.rocks/corp/42d38d5f95c493cb1822f0c89a5366e532a9dc30c0019e03cf7ddd280bf55040/) |
 | ✅ | 2024/07/24 | 7-0 | [Armored Union ](https://ws.tsl.rocks/corp/4dacc02ca314ab864578421db538b0eb10b0c8c81dc0edd91c5090717d087c7f/) |
 | ✅ | 2024/07/19 | 1-0 | [四季长春](https://ws.tsl.rocks/corp/cf0b11914dc18d8e669592ecfe191f115c4e5fdba09d130d260bb625b36a3179/) |
