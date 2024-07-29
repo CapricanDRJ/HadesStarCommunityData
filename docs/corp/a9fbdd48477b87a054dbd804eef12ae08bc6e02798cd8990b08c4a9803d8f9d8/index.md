@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​MÉXICO INFINITO
-description: W:16 L:21 D:0 Bonus ✅
-date: 1721774121
+description: W:17 L:21 D:0 Bonus ✅
+date: 1722211667
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔺  (849)|
-| ELO Competitive | 1265 🔺  (270)|
-| Total Matches | 37 |
-| Wins | 16 |
+| ELO Regular | 1186 🔺  (605)|
+| ELO Competitive | 1277 🔺  (251)|
+| Total Matches | 38 |
+| Wins | 17 |
 | Losses | 21 |
 | Draws | 0 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 4 |
 
 ### Recurring Opponents
@@ -28,6 +28,7 @@ date: 1721774121
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/29 | 10-2 | [Бестрашный лиги](https://ws.tsl.rocks/corp/98a0925e094c54f400b76ad64a527b25adb4fe5aa1afc4b10368f072d3741d53/) |
 | ✅ | 2024/07/23 | 9-1 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |
 | ✅ | 2024/07/11 | 10-6 | [Quin Armarda](https://ws.tsl.rocks/corp/281e5fa5950e49cecfe76d2adb80613499a0bb841567f92040bfeaea5f4ac218/) |
 | ✅ | 2024/07/05 | 4-3 | [Север РусКорп](https://ws.tsl.rocks/corp/39eeae12a2a5fead3330938b8f38c71aab465634b732303dad7b2a7d5f472004/) |

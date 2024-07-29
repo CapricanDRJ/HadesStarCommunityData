@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Бестрашный лиги
-description: W:3 L:5 D:0 Bonus ❌
-date: 1704263980
+description: W:3 L:6 D:0 Bonus ❌
+date: 1722211667
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1177 🔻  (773)|
-| ELO Competitive | 1177 🔻  (873)|
-| Total Matches | 8 |
+| ELO Regular | 1162 🔻  (932)|
+| ELO Competitive | 1166 🔻  (992)|
+| Total Matches | 9 |
 | Wins | 3 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -26,6 +26,7 @@ date: 1704263980
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/29 | 2-10 | [MÉXICO INFINITO](https://ws.tsl.rocks/corp/a9fbdd48477b87a054dbd804eef12ae08bc6e02798cd8990b08c4a9803d8f9d8/) |
 | ❌ | 2024/01/03 | 0-12 | [Poggy Rockers](https://ws.tsl.rocks/corp/47aeb151232251d9e53310e21f1290b1240c63878169968847bd1e89efc909a7/) |
 | ✅ | 2023/12/23 | 4-1 | [Space Scourge](https://ws.tsl.rocks/corp/04ad48264f0fcb63156d90f6ff6dfd55b1ab9321d56144f671a84c0253bccfc1/) |
 | ❌ | 2023/12/09 | 0-1 | [tropa \(BR\)](https://ws.tsl.rocks/corp/c5b272089230f78a35d3bee9ed1eb0cc2b3a65703f2452b603286e889efa74c9/) |
