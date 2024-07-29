@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Fleet Corp Ares
-description: W:8 L:5 D:0 Bonus ❌
-date: 1721619362
+description: W:8 L:6 D:0 Bonus ❌
+date: 1722266356
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1263 🔺  (187)|
-| ELO Competitive | 1281 🔺  (236)|
-| Total Matches | 13 |
+| ELO Regular | 1243 🔻  (232)|
+| ELO Competitive | 1262 🔻  (281)|
+| Total Matches | 14 |
 | Wins | 8 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 0 |
-| Streak | 6 |
 | Streak Record | 6 |
 
 ### Recurring Opponents
@@ -27,6 +26,7 @@ date: 1721619362
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/29 | 24-25 | [The trade pub](https://ws.tsl.rocks/corp/43689e4266357d8b8d3d66d371109d9aed82ee6df47dc6fa0a7c5da735b9863b/) |
 | ✅ | 2024/07/22 | 14-7 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) |
 | ✅ | 2024/07/15 | 19-3 | [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) |
 | ✅ | 2024/06/23 | 25-5 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) |

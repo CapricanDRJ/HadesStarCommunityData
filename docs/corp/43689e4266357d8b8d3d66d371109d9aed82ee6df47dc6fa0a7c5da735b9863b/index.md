@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​The trade pub
-description: W:15 L:19 D:0 Bonus ✅
-date: 1721661131
+description: W:16 L:19 D:0 Bonus ✅
+date: 1722266356
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1149 🔺  (995)|
-| ELO Competitive | 1184 🔺  (827)|
-| Total Matches | 34 |
-| Wins | 15 |
+| ELO Regular | 1169 🔺  (892)|
+| ELO Competitive | 1203 🔺  (517)|
+| Total Matches | 35 |
+| Wins | 16 |
 | Losses | 19 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 4 |
 
 ### Recurring Opponents
@@ -28,6 +29,7 @@ date: 1721661131
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/29 | 25-24 | [Fleet Corp Ares](https://ws.tsl.rocks/corp/8ceac360859239e9b9386b5e4a0c3d3c7e75941b010804ab8b405d9eb6f806f6/) |
 | ✅ | 2024/07/22 | 37-30 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) |
 | ❌ | 2024/07/12 | 10-30 | [Outland Ind\.](https://ws.tsl.rocks/corp/94cb8827caef9b4b1839113abd29145a128d0c1e108c3984bcf7620dd7fca464/) |
 | ❌ | 2024/06/29 | 8-25 | [Omega Alpha](https://ws.tsl.rocks/corp/b6e23a3f1f3a3c735c694624b273dcd7da2f8bd13a5ac2b36a8ad39737b1d062/) |

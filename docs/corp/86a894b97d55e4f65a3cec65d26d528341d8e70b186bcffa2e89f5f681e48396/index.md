@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Stella☆Glow
-description: W:26 L:11 D:1 Bonus ❌
-date: 1721646705
+description: W:27 L:11 D:1 Bonus ✅
+date: 1722257640
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1320 🔻  (94)|
-| ELO Competitive | 1352 🔻  (132)|
-| Total Matches | 38 |
-| Wins | 26 |
+| ELO Regular | 1323 🔺  (92)|
+| ELO Competitive | 1359 🔺  (123)|
+| Total Matches | 39 |
+| Wins | 27 |
 | Losses | 11 |
 | Draws | 1 |
 | Streak Record | 9 |
@@ -29,6 +29,7 @@ date: 1721646705
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/29 | 31-2 | [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) |
 | ❌ | 2024/07/22 | 3-48 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/0c33734edc95a1bac88a9df7e0853a3bd835ea682673f097db1c75d6bb14c8da/) |
 | ✅ | 2024/07/15 | 35-3 | [Created](https://ws.tsl.rocks/corp/04182a4606d981d1c410b0c058248e428765c672442d912ec47218ace9004e74/) |
 | ✅ | 2024/07/08 | 17-9 | [StellaMysterium](https://ws.tsl.rocks/corp/cfaaa81ed93cc9361ade470c3414c73ecf77068badd68d624c7b3f486d142b10/) |

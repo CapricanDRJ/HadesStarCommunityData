@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​云浪山庄↕
-description: W:18 L:59 D:1 Bonus ❌
-date: 1721842487
+description: W:18 L:60 D:1 Bonus ❌
+date: 1722257640
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 936 🔻  (1185)|
-| ELO Competitive | 1168 🔻  (982)|
-| Total Matches | 78 |
+| ELO Regular | 933 🔻  (1185)|
+| ELO Competitive | 1160 🔻  (1020)|
+| Total Matches | 79 |
 | Wins | 18 |
-| Losses | 59 |
+| Losses | 60 |
 | Draws | 1 |
 | Streak Record | 5 |
 
@@ -34,6 +34,7 @@ date: 1721842487
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/29 | 2-31 | [Stella☆Glow](https://ws.tsl.rocks/corp/86a894b97d55e4f65a3cec65d26d528341d8e70b186bcffa2e89f5f681e48396/) |
 | ❌ | 2024/07/24 | 0-13 | [The Allegiant](https://ws.tsl.rocks/corp/1c4cfbcf7902769aff100297d9174153f4c0528ed07918ba494f763a1315ffc6/) |
 | ❌ | 2024/07/24 | 4-32 | [붉은늑대](https://ws.tsl.rocks/corp/43d32b05645aaa9415d1c04ecbcea520d2ed5b90304770cb0ab3813cb86e2f49/) |
 | ❌ | 2024/07/18 | 3-7 | [StellaMysterium](https://ws.tsl.rocks/corp/cfaaa81ed93cc9361ade470c3414c73ecf77068badd68d624c7b3f486d142b10/) |
