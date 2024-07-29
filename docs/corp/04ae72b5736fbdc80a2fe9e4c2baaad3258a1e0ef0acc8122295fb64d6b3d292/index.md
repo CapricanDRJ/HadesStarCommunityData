@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​three kitties
-description: W:31 L:9 D:1 Bonus ❌
-date: 1721816185
+description: W:31 L:10 D:1 Bonus ❌
+date: 1722274473
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1395 🔻  (37)|
-| ELO Competitive | 1437 🔻  (61)|
-| Total Matches | 41 |
+| ELO Regular | 1379 🔻  (48)|
+| ELO Competitive | 1419 🔻  (72)|
+| Total Matches | 42 |
 | Wins | 31 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 1 |
 | Streak Record | 15 |
 
@@ -28,6 +28,7 @@ date: 1721816185
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/29 | 4-14 | [The Syndicate ](https://ws.tsl.rocks/corp/a7da1f6bd313248b8b6e68a1826bffb463c0e4977776708b28d97199f878b88c/) |
 | ❌ | 2024/07/24 | 14-16 | [2ND\-R8 Corp\.](https://ws.tsl.rocks/corp/e97866623598a98454b3a4724b472dc171f5e1aff84b076c43d021f0fabdc702/) |
 | ✅ | 2024/07/18 | 28-3 | [Glashan](https://ws.tsl.rocks/corp/48b9fa3df8bbc6ce4a8455e9b923f28c0eccb8054c9f72e9c14e6acfee5a23a4/) |
 | ✅ | 2024/07/13 | 23-3 | [专业间谍团队](https://ws.tsl.rocks/corp/2e93c453822c84d64bf8ae81e68d3dee1ed7832ee77b50dd8762a572432896ad/) |

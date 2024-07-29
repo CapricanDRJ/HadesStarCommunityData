@@ -1,27 +1,28 @@
 ---
 layout: page
 title: ​The Syndicate 
-description: W:14 L:1 D:0 Bonus ✅
-date: 1721668345
+description: W:15 L:1 D:0 Bonus ✅
+date: 1722274473
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1360 🔺  (56)|
-| ELO Competitive | 1370 🔺  (108)|
-| Total Matches | 15 |
-| Wins | 14 |
+| ELO Regular | 1376 🔺  (50)|
+| ELO Competitive | 1387 🔺  (93)|
+| Total Matches | 16 |
+| Wins | 15 |
 | Losses | 1 |
 | Draws | 0 |
-| Streak | 14 |
-| Streak Record | 14 |
+| Streak | 15 |
+| Streak Record | 15 |
 
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/29 | 14-4 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ✅ | 2024/07/22 | 16-2 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/54b8724d96e9c022ab2907e45bead9f5b45b02fca093dc0fe5827f14644b2663/) |
 | ✅ | 2024/07/15 | 30-0 | [FURIA 2\.0](https://ws.tsl.rocks/corp/9c52bc79384398f4052be65dc0f7ee091ac2d3cf14488efd1f4e3310b1f12574/) |
 | ✅ | 2024/07/08 | 25-0 | [Ws Polaris](https://ws.tsl.rocks/corp/aed0edd750f895de01d5a257db42bba7b2098421901f1cf0352b992242d967d9/) |

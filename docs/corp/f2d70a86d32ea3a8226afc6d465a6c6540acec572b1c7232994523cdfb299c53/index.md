@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​✡天启✡
-description: W:22 L:8 D:0 Bonus ❌
-date: 1720762207
+description: W:23 L:8 D:0 Bonus ✅
+date: 1722274172
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1356 🔻  (58)|
-| ELO Competitive | 1457 🔺  (44)|
-| Total Matches | 30 |
-| Wins | 22 |
+| ELO Regular | 1368 🔺  (54)|
+| ELO Competitive | 1468 🔺  (42)|
+| Total Matches | 31 |
+| Wins | 23 |
 | Losses | 8 |
 | Draws | 0 |
 | Streak Record | 6 |
@@ -21,6 +21,7 @@ date: 1720762207
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/29 | 28-4 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) |
 | ❌ | 2024/07/12 | 9-13 | [Lacuna X](https://ws.tsl.rocks/corp/fb10f33f3db17b99b0d227f17e7fde76ef067dc4a4bb4ae05e46c76d2e5e8ea1/) |
 | ✅ | 2024/07/08 | 27-4 | [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b/) |
 | ✅ | 2024/06/22 | 35-6 | [Mass Effect](https://ws.tsl.rocks/corp/6f715653bec3925d9c3acd7c2388fe8e1c79332146894ed424f57bd2636de8c7/) |

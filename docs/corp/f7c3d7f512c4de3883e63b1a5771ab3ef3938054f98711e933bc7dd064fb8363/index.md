@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Wompwompway 
-description: W:24 L:8 D:0 Bonus ❌
-date: 1721076564
+description: W:25 L:8 D:0 Bonus ✅
+date: 1722268160
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1341 🔻  (74)|
-| ELO Competitive | 1371 🔻  (105)|
-| Total Matches | 32 |
-| Wins | 24 |
+| ELO Regular | 1352 🔺  (63)|
+| ELO Competitive | 1382 🔺  (99)|
+| Total Matches | 33 |
+| Wins | 25 |
 | Losses | 8 |
 | Draws | 0 |
 | Streak Record | 6 |
@@ -21,6 +21,7 @@ date: 1721076564
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/29 | 12-5 | [GhostNakcoorp](https://ws.tsl.rocks/corp/0a15ae22cdfbd88694d3067838a78bea07746ec95f3784b3f65d77fe47d76312/) |
 | ❌ | 2024/07/15 | 8-10 | [Ninth Planet](https://ws.tsl.rocks/corp/53297ed66c8c326d4cb4eebdee55172d3d64f122addd5d916b314f4ab557e21a/) |
 | ✅ | 2024/07/05 | 33-6 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ✅ | 2024/06/28 | 29-7 | [ЧВК "Котики"](https://ws.tsl.rocks/corp/b770b833fe257bc6accd1bbe82a887971291dd0038f8aa627a47f3ce063265c0/) |

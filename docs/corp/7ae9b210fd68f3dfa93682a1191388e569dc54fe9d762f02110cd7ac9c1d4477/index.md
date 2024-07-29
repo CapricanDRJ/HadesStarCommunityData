@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Rogue One
-description: W:28 L:20 D:1 Bonus ❌
-date: 1721496442
+description: W:28 L:21 D:1 Bonus ❌
+date: 1722274172
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1279 🔻  (157)|
-| ELO Competitive | 1365 🔻  (117)|
-| Total Matches | 49 |
+| ELO Regular | 1268 🔻  (180)|
+| ELO Competitive | 1354 🔻  (129)|
+| Total Matches | 50 |
 | Wins | 28 |
-| Losses | 20 |
+| Losses | 21 |
 | Draws | 1 |
 | Streak Record | 5 |
 
@@ -33,6 +33,7 @@ date: 1721496442
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/29 | 4-28 | [✡天启✡](https://ws.tsl.rocks/corp/f2d70a86d32ea3a8226afc6d465a6c6540acec572b1c7232994523cdfb299c53/) |
 | ❌ | 2024/07/20 | 0-33 | [nuevo mundo](https://ws.tsl.rocks/corp/5675df73364d8b031e9541d8aa8d5a9e55649ef419ad87c0b21dec77a0ed6044/) |
 | ❌ | 2024/07/20 | 5-38 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ✅ | 2024/07/12 | 36-20 | [INFINITY STAR](https://ws.tsl.rocks/corp/e36eb12fc6bc8e4b826e6bcb46020cad3eb616497c4c14075e8b657715898a9f/) |

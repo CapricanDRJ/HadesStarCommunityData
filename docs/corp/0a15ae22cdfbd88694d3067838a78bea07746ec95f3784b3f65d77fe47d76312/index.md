@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​GhostNakcoorp
-description: W:23 L:15 D:0 Bonus ❌
-date: 1721745871
+description: W:23 L:16 D:0 Bonus ❌
+date: 1722268160
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1250 🔻  (215)|
-| ELO Competitive | 1272 🔻  (263)|
-| Total Matches | 38 |
+| ELO Regular | 1238 🔻  (243)|
+| ELO Competitive | 1261 🔻  (282)|
+| Total Matches | 39 |
 | Wins | 23 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 0 |
 | Streak Record | 6 |
 
@@ -26,6 +26,7 @@ date: 1721745871
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/29 | 5-12 | [Wompwompway ](https://ws.tsl.rocks/corp/f7c3d7f512c4de3883e63b1a5771ab3ef3938054f98711e933bc7dd064fb8363/) |
 | ❌ | 2024/07/23 | 3-23 | [Quilliance](https://ws.tsl.rocks/corp/6a4f8febc4066842f85c0373a0d33b6501860f2cc4f61b64761d31ff472c28fe/) |
 | ✅ | 2024/07/16 | 14-5 | [Team Rainbow](https://ws.tsl.rocks/corp/4dc7206b37101dba1bc2ec67ed48b3793706cddd737c19033c6498d485c6ab84/) |
 | ❌ | 2024/07/10 | 9-12 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |
