@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Auscorp 
-description: W:43 L:6 D:0 Bonus ✅
-date: 1722184019
+description: W:43 L:7 D:0 Bonus ✅
+date: 1722318043
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1516 🔺  (4)|
-| ELO Competitive | 1570 🔺  (6)|
-| Total Matches | 49 |
+| ELO Regular | 1496 🔻  (6)|
+| ELO Competitive | 1570 🔺  (7)|
+| Total Matches | 50 |
 | Wins | 43 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 0 |
-| Streak | 7 |
 | Streak Record | 12 |
 
 ### Recurring Opponents
@@ -37,6 +36,7 @@ date: 1722184019
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/30 | 0-37 | [111](https://ws.tsl.rocks/corp/8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350/) |
 | ✅ | 2024/07/28 | 57-4 | [Stargate Corp](https://ws.tsl.rocks/corp/b698cd0d86be60954a4b995f79fffe102a71c350e47fbdc2a5827f0ed0ca455d/) |
 | ✅ | 2024/07/23 | 46-11 | [The Star League](https://ws.tsl.rocks/corp/f8b4a4ab48d0f4dc8e2d35c049289e4cd31960c34c0d114426164f223cdb5140/) |
 | ✅ | 2024/07/23 | 56-4 | [Spacefleet](https://ws.tsl.rocks/corp/517f7b257f68936f7a95a478d6923776a2549b88897bae628fd35b23572d3cbd/) |

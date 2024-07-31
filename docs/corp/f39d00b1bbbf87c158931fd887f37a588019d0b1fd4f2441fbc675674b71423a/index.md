@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​普罗米修斯
-description: W:1 L:8 D:0 Bonus ❌
-date: 1721896721
+description: W:1 L:9 D:0 Bonus ❌
+date: 1722329461
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1116 🔻  (1079)|
-| ELO Competitive | 1125 🔻  (1116)|
-| Total Matches | 9 |
+| ELO Regular | 1100 🔻  (1107)|
+| ELO Competitive | 1111 🔻  (1140)|
+| Total Matches | 10 |
 | Wins | 1 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 0 |
 
 
@@ -20,6 +20,7 @@ date: 1721896721
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/30 | 13-16 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |
 | ❌ | 2024/07/25 | 5-11 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |
 | ❌ | 2024/01/30 | 3-16 | [Северный флот ](https://ws.tsl.rocks/corp/fdf84420bdb3354b3133ca03db3d929e7e0b0a4442f4493df5df1a97684ed195/) |
 | ❌ | 2024/01/25 | 2-11 | [TECH CO](https://ws.tsl.rocks/corp/49f9afe365665b0d622f99306a23e7a2ebd9cf7022ee79c25e08917977ab9d7a/) |

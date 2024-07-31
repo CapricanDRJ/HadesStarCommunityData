@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​火洋之心
-description: W:4 L:1 D:2 Bonus ❌
-date: 1719910542
+description: W:4 L:2 D:2 Bonus ❌
+date: 1722404657
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1237 🔻  (249)|
-| ELO Competitive | 1239 🔻  (335)|
-| Total Matches | 7 |
+| ELO Regular | 1222 🔻  (309)|
+| ELO Competitive | 1226 🔻  (384)|
+| Total Matches | 8 |
 | Wins | 4 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 2 |
 | Streak Record | 2 |
 
@@ -21,6 +21,7 @@ date: 1719910542
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/31 | 0-11 | [避难所](https://ws.tsl.rocks/corp/e2cec33caaaef7f020ed5fb31cb29a2804d8b5ab3a781ab69b08fadac88f7102/) |
 | ❌ | 2024/07/02 | 0-5 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
 | ✅ | 2024/02/19 | 7-0 | [Oficina Tuga](https://ws.tsl.rocks/corp/2fff67029125a29f7fa3252e0f8387f3ae93c6c59bd05d358723e02f3199db72/) |
 | ↔️ | 2024/02/14 | 8-8 | [The Foundation](https://ws.tsl.rocks/corp/279f86b28e83ff2e41b798bf93f59b0803e62aecd6e7f0caa5c8be3efecf8728/) |

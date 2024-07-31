@@ -1,21 +1,20 @@
 ---
 layout: page
 title: ​星海扬帆
-description: W:17 L:15 D:0 Bonus ❌
-date: 1721123744
+description: W:18 L:16 D:0 Bonus ✅
+date: 1722393171
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1228 🔺  (284)|
-| ELO Competitive | 1330 🔺  (160)|
-| Total Matches | 32 |
-| Wins | 17 |
-| Losses | 15 |
+| ELO Regular | 1226 🔻  (294)|
+| ELO Competitive | 1348 🔺  (136)|
+| Total Matches | 34 |
+| Wins | 18 |
+| Losses | 16 |
 | Draws | 0 |
-| Streak | 3 |
-| Streak Record | 3 |
+| Streak Record | 4 |
 
 ### Recurring Opponents
 
@@ -27,6 +26,8 @@ date: 1721123744
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/31 | 6-26 | [Últimafronteira](https://ws.tsl.rocks/corp/27e96f432a078f197bb5e4c34480ccabc05a9ee48e7bb04d95288fda15e94d3c/) |
+| ✅ | 2024/07/31 | 1-0 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) |
 | ✅ | 2024/07/16 | 12-7 | [OTRSᗜωO](https://ws.tsl.rocks/corp/07ebeb2216e39f25d78a6634970c057fd0a406375ce0734173bceace5a7af1eb/) |
 | ✅ | 2024/07/08 | 10-0 | [Weyland Yutani ](https://ws.tsl.rocks/corp/9799c33a0ecdcf321ad446a18f4e7f520610d26ec5f13e0c6b7a411dec2e2e46/) |
 | ✅ | 2024/07/07 | 11-2 | [神圣罗马帝国](https://ws.tsl.rocks/corp/2a71af44aaef82175cd8dfd86c9e3f218a438a7c7e748bae20d8a0d964a984ab/) |

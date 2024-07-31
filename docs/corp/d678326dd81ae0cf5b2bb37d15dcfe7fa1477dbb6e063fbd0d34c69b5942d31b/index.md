@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Hungary First
-description: W:13 L:8 D:1 Bonus ❌
-date: 1721200088
+description: W:14 L:8 D:1 Bonus ✅
+date: 1722417809
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1259 🔺  (192)|
-| ELO Competitive | 1267 🔺  (269)|
-| Total Matches | 22 |
-| Wins | 13 |
+| ELO Regular | 1263 🔺  (188)|
+| ELO Competitive | 1275 🔺  (258)|
+| Total Matches | 23 |
+| Wins | 14 |
 | Losses | 8 |
 | Draws | 1 |
-| Streak | 4 |
-| Streak Record | 4 |
+| Streak | 5 |
+| Streak Record | 5 |
 
 ### Recurring Opponents
 
@@ -27,6 +27,7 @@ date: 1721200088
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/31 | 18-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
 | ✅ | 2024/07/17 | 13-0 | [Star Fleet](https://ws.tsl.rocks/corp/b50e0529c2b2e86bae23d0fb4cbcdc4bff7615c45efb95150747a89dd3ea0231/) |
 | ✅ | 2024/07/03 | 12-0 | [萌新的收留所](https://ws.tsl.rocks/corp/1dd3f70c959e32c27cb4c010162be3799b7c0732115d5c2b7ca5979f48b10f7f/) |
 | ✅ | 2024/06/19 | 6-1 | [The New Light](https://ws.tsl.rocks/corp/73c87b4394c7e44aa0fa6996ae32e7448f956391dac8b5d025da6019d3062cfc/) |

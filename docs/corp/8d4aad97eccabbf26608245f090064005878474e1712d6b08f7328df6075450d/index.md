@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Серебряная орда
-description: W:44 L:27 D:2 Bonus ✅
-date: 1721906037
+description: W:45 L:28 D:2 Bonus ✅
+date: 1722370335
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1275 🔺  (164)|
-| ELO Competitive | 1468 🔺  (41)|
-| Total Matches | 73 |
-| Wins | 44 |
-| Losses | 27 |
+| ELO Regular | 1268 🔻  (182)|
+| ELO Competitive | 1483 🔺  (32)|
+| Total Matches | 75 |
+| Wins | 45 |
+| Losses | 28 |
 | Draws | 2 |
-| Streak | 4 |
 | Streak Record | 6 |
 
 ### Recurring Opponents
@@ -35,6 +34,8 @@ date: 1721906037
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/30 | 2-5 | [Galaxians](https://ws.tsl.rocks/corp/94728c6eb201c1f15c6e2304b5920aa155ccc1a7aac83b574baae51c53a22c5d/) |
+| ✅ | 2024/07/30 | 39-0 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 | ✅ | 2024/07/25 | 32-0 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
 | ✅ | 2024/07/25 | 11-5 | [普罗米修斯](https://ws.tsl.rocks/corp/f39d00b1bbbf87c158931fd887f37a588019d0b1fd4f2441fbc675674b71423a/) |
 | ✅ | 2024/07/20 | 37-0 | [Space Pirates](https://ws.tsl.rocks/corp/87eff6e453b6f020baf8cb8930236b566161e22814cdbdc77d696c5812684bc6/) |

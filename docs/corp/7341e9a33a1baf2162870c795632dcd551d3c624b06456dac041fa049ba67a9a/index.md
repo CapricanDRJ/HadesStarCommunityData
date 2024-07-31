@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​11th Engineers
-description: W:4 L:11 D:0 Bonus ❌
-date: 1721990204
+description: W:4 L:12 D:0 Bonus ❌
+date: 1722416608
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1097 🔻  (1104)|
-| ELO Competitive | 1174 🔻  (906)|
-| Total Matches | 15 |
+| ELO Regular | 1088 🔻  (1119)|
+| ELO Competitive | 1168 🔻  (977)|
+| Total Matches | 16 |
 | Wins | 4 |
-| Losses | 11 |
+| Losses | 12 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -20,6 +20,7 @@ date: 1721990204
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Axiom](https://ws.tsl.rocks/corp/4000a010c205d318c766ba14fe1836eaab6652f1738a88cce8a8c69d0283e1b0/) | 0 | 2 | 0 | 2 |
 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) | 1 | 1 | 0 | 2 |
 | [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046/) | 2 | 0 | 0 | 2 |
 
@@ -27,6 +28,7 @@ date: 1721990204
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/31 | 0-2 | [Axiom](https://ws.tsl.rocks/corp/4000a010c205d318c766ba14fe1836eaab6652f1738a88cce8a8c69d0283e1b0/) |
 | ❌ | 2024/07/26 | 0-21 | [SUN OF 3LANDS](https://ws.tsl.rocks/corp/874f472303f6616789f5df41609dba8d64b95e8b9291aaf23a05e4c397a2f44a/) |
 | ❌ | 2024/07/26 | 0-12 | [Pixies](https://ws.tsl.rocks/corp/fe3875cc3bc7cd97ee3d418bb35d69d8ec90da355cbec2dfb7a364387e021240/) |
 | ❌ | 2024/07/21 | 0-19 | [Eretria ](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |

@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​元素联邦
-description: W:24 L:13 D:0 Bonus ❌
-date: 1721521989
+description: W:25 L:13 D:0 Bonus ✅
+date: 1722293106
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1373 🔺  (51)|
-| ELO Competitive | 1409 🔺  (76)|
-| Total Matches | 37 |
-| Wins | 24 |
+| ELO Regular | 1380 🔺  (49)|
+| ELO Competitive | 1422 🔺  (73)|
+| Total Matches | 38 |
+| Wins | 25 |
 | Losses | 13 |
 | Draws | 0 |
-| Streak | 15 |
-| Streak Record | 15 |
+| Streak | 16 |
+| Streak Record | 16 |
 
 ### Recurring Opponents
 
@@ -28,6 +28,7 @@ date: 1721521989
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/29 | 25-10 | [Dumpster Fire 2](https://ws.tsl.rocks/corp/37d473dec00d4d68e29963e3b423670aac735e7c1f256276e6c2e7d62180b0f8/) |
 | ✅ | 2024/07/21 | 29-0 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
 | ✅ | 2024/07/06 | 30-12 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) |
 | ✅ | 2024/06/30 | 33-4 | [Created](https://ws.tsl.rocks/corp/04182a4606d981d1c410b0c058248e428765c672442d912ec47218ace9004e74/) |

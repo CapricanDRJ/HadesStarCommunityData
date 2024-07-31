@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Atlas Star llc.
-description: W:29 L:7 D:0 Bonus ✅
-date: 1721766909
+description: W:30 L:7 D:0 Bonus ✅
+date: 1722347491
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1412 🔺  (29)|
-| ELO Competitive | 1439 🔺  (58)|
-| Total Matches | 36 |
-| Wins | 29 |
+| ELO Regular | 1418 🔺  (28)|
+| ELO Competitive | 1446 🔺  (50)|
+| Total Matches | 37 |
+| Wins | 30 |
 | Losses | 7 |
 | Draws | 0 |
-| Streak | 6 |
+| Streak | 7 |
 | Streak Record | 10 |
 
 ### Recurring Opponents
@@ -27,6 +27,7 @@ date: 1721766909
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/30 | 31-3 | [萌新港\(大佬港\)](https://ws.tsl.rocks/corp/e6d9b9da7a037e3572cb594dfeba7b282b66509228c9f4f1b2138f873caa3cf3/) |
 | ✅ | 2024/07/23 | 30-9 | [Destroyers](https://ws.tsl.rocks/corp/3756333f55f58944372cf785b972da55796cc179c0ce5f10244e90e3c4355a23/) |
 | ✅ | 2024/07/16 | 39-3 | [Galaxians](https://ws.tsl.rocks/corp/94728c6eb201c1f15c6e2304b5920aa155ccc1a7aac83b574baae51c53a22c5d/) |
 | ✅ | 2024/07/09 | 21-3 | [Spaceballs](https://ws.tsl.rocks/corp/1e54a7ba8156a65b15f7f1358b682a10f856acb0f96d9e3b582c4ea175905839/) |

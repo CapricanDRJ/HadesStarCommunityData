@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Galaxians
-description: W:11 L:13 D:0 Bonus ❌
-date: 1721756090
+description: W:12 L:13 D:0 Bonus ✅
+date: 1722370335
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1195 🔻  (497)|
-| ELO Competitive | 1233 🔻  (359)|
-| Total Matches | 24 |
-| Wins | 11 |
+| ELO Regular | 1213 🔺  (371)|
+| ELO Competitive | 1258 🔺  (291)|
+| Total Matches | 25 |
+| Wins | 12 |
 | Losses | 13 |
 | Draws | 0 |
 | Streak Record | 3 |
@@ -26,6 +26,7 @@ date: 1721756090
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/30 | 5-2 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |
 | ❌ | 2024/07/23 | 0-45 | [United Stars ](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) |
 | ❌ | 2024/07/16 | 3-39 | [Atlas Star llc\.](https://ws.tsl.rocks/corp/3de5259ba12509e4d02854f1414caacf3d0aaaf79f417b9d843ff20ca35863dd/) |
 | ❌ | 2024/07/09 | 0-28 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |

@@ -1,19 +1,21 @@
 ---
 layout: page
 title: ​Void
-description: W:6 L:7 D:0 Bonus ✅
-date: 1721926777
+description: W:7 L:7 D:0 Bonus ✅
+date: 1722365826
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 🔺  (538)|
-| ELO Competitive | 1210 🔺  (484)|
-| Total Matches | 13 |
-| Wins | 6 |
+| ELO Regular | 1203 🔺  (423)|
+| ELO Competitive | 1225 🔺  (389)|
+| Total Matches | 14 |
+| Wins | 7 |
 | Losses | 7 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 
 ### Recurring Opponents
 
@@ -25,6 +27,7 @@ date: 1721926777
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/30 | 14-7 | [Deadspace](https://ws.tsl.rocks/corp/45fc2bf2d1b40361071590e427fa47116d4e5e063064d17ed9933bbd61f04369/) |
 | ✅ | 2024/07/25 | 30-6 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
 | ❌ | 2024/07/09 | 26-41 | [Crux Cadre](https://ws.tsl.rocks/corp/41cdba59897d5e01412601b648c1a692368d92c198123f9ab442f2a23464b375/) |
 | ✅ | 2024/07/02 | 27-23 | [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) |

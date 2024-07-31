@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​六大天神
-description: W:57 L:43 D:0 Bonus ✅
-date: 1722175002
+description: W:58 L:43 D:0 Bonus ✅
+date: 1722417809
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1309 🔺  (110)|
-| ELO Competitive | 1531 🔺  (11)|
-| Total Matches | 100 |
-| Wins | 57 |
+| ELO Regular | 1312 🔺  (105)|
+| ELO Competitive | 1531 🔺  (13)|
+| Total Matches | 101 |
+| Wins | 58 |
 | Losses | 43 |
 | Draws | 0 |
-| Streak | 4 |
+| Streak | 5 |
 | Streak Record | 6 |
 
 ### Recurring Opponents
@@ -45,6 +45,7 @@ date: 1722175002
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/31 | 34-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
 | ✅ | 2024/07/28 | 18-0 | [Decode](https://ws.tsl.rocks/corp/848408d1ee1a3c08302a936241ea5cbe170cb66dc343d3339ed3ae4baeb82e57/) |
 | ✅ | 2024/07/26 | 12-7 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | ✅ | 2024/07/23 | 12-8 | [●Black•Sails●](https://ws.tsl.rocks/corp/fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31/) |

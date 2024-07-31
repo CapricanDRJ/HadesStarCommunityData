@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​●Black•Sails●
-description: W:13 L:10 D:0 Bonus ❌
-date: 1721725136
+description: W:13 L:11 D:0 Bonus ❌
+date: 1722345387
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1222 🔻  (310)|
-| ELO Competitive | 1265 🔻  (271)|
-| Total Matches | 23 |
+| ELO Regular | 1202 🔻  (425)|
+| ELO Competitive | 1246 🔻  (318)|
+| Total Matches | 24 |
 | Wins | 13 |
-| Losses | 10 |
+| Losses | 11 |
 | Draws | 0 |
 | Streak Record | 4 |
 
@@ -21,6 +21,7 @@ date: 1721725136
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/30 | 7-8 | [羽共和体](https://ws.tsl.rocks/corp/61b6e0502a087307a2ecf50e5d84f6123ad19984dc5790c997f16a676213aa7e/) |
 | ❌ | 2024/07/23 | 8-12 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ✅ | 2024/07/16 | 12-0 | [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046/) |
 | ✅ | 2024/07/09 | 9-3 | [империя тьмы](https://ws.tsl.rocks/corp/4eb22a1b793e5d03579cea15c873b1bef56fea02420a4e55edb18a200f7fc46a/) |

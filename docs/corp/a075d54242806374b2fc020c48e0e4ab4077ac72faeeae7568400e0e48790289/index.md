@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​Неизбежный Рок
-description: W:48 L:24 D:1 Bonus ✅
-date: 1722064110
+description: W:49 L:24 D:1 Bonus ✅
+date: 1722417209
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1352 🔺  (65)|
-| ELO Competitive | 1481 🔺  (33)|
-| Total Matches | 73 |
-| Wins | 48 |
+| ELO Regular | 1364 🔺  (57)|
+| ELO Competitive | 1491 🔺  (30)|
+| Total Matches | 74 |
+| Wins | 49 |
 | Losses | 24 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 7 |
 
 ### Recurring Opponents
@@ -37,6 +38,7 @@ date: 1722064110
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/31 | 16-2 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ✅ | 2024/07/27 | 35-12 | [Hamburg AG 2](https://ws.tsl.rocks/corp/d4075195191cabef801494d3accc0e6cc8c09f534fd9203f6e43c9930acffa56/) |
 | ❌ | 2024/07/26 | 7-12 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ✅ | 2024/07/21 | 22-0 | [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046/) |

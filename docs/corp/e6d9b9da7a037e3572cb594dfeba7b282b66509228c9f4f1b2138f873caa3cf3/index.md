@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​萌新港(大佬港)
-description: W:18 L:26 D:0 Bonus ❌
-date: 1721885903
+description: W:19 L:27 D:0 Bonus ✅
+date: 1722347491
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (854)|
-| ELO Competitive | 1245 🔻  (321)|
-| Total Matches | 44 |
-| Wins | 18 |
-| Losses | 26 |
+| ELO Regular | 1181 🔺  (764)|
+| ELO Competitive | 1258 🔺  (290)|
+| Total Matches | 46 |
+| Wins | 19 |
+| Losses | 27 |
 | Draws | 0 |
 | Streak Record | 3 |
 
@@ -29,6 +29,8 @@ date: 1721885903
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/30 | 4-0 | [The Elite](https://ws.tsl.rocks/corp/a2df28ce949920025afb16d0229e0c14aed7832c217d142307a62622634d395c/) |
+| ❌ | 2024/07/30 | 3-31 | [Atlas Star llc\.](https://ws.tsl.rocks/corp/3de5259ba12509e4d02854f1414caacf3d0aaaf79f417b9d843ff20ca35863dd/) |
 | ❌ | 2024/07/25 | 11-15 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |
 | ❌ | 2024/07/25 | 9-24 | [宇宙银河帝国](https://ws.tsl.rocks/corp/afb9817e45c3c79048d2be30be3b635704485d260ae7b474b579a019d56d3c2d/) |
 | ✅ | 2024/07/19 | 25-1 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |

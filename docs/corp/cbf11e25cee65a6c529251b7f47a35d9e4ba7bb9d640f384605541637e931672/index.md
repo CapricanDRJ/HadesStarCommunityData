@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Держава Русь
-description: W:0 L:13 D:0 Bonus ❌
-date: 1721910244
+description: W:0 L:14 D:0 Bonus ❌
+date: 1722365526
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1048 🔻  (1149)|
-| ELO Competitive | 1077 🔻  (1166)|
-| Total Matches | 13 |
+| ELO Regular | 1044 🔻  (1156)|
+| ELO Competitive | 1072 🔻  (1173)|
+| Total Matches | 14 |
 | Wins | 0 |
-| Losses | 13 |
+| Losses | 14 |
 | Draws | 0 |
 
 
@@ -20,6 +20,7 @@ date: 1721910244
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/30 | 7-44 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) |
 | ❌ | 2024/07/25 | 2-19 | [ProyectCorp](https://ws.tsl.rocks/corp/ac76fbb017abc5511e6d39625245f0cd8f145ef5ba96ae1760d7f2389b5e0fe1/) |
 | ❌ | 2024/07/19 | 0-24 | [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/) |
 | ❌ | 2024/07/13 | 3-48 | [Space Penguins](https://ws.tsl.rocks/corp/6255ba7dab1bd2b150825874d1fea70b029dc79434f293d47518c27b0376e286/) |

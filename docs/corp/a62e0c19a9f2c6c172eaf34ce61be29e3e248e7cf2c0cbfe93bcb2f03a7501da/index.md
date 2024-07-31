@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​КОРПОРАЦИЯ ЗЛА
-description: W:7 L:34 D:0 Bonus ❌
-date: 1721981472
+description: W:7 L:36 D:0 Bonus ❌
+date: 1722417809
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 930 🔻  (1186)|
-| ELO Competitive | 1093 🔻  (1151)|
-| Total Matches | 41 |
+| ELO Regular | 923 🔻  (1190)|
+| ELO Competitive | 1090 🔻  (1156)|
+| Total Matches | 43 |
 | Wins | 7 |
-| Losses | 34 |
+| Losses | 36 |
 | Draws | 0 |
 | Streak Record | 4 |
 
@@ -30,6 +30,8 @@ date: 1721981472
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/31 | 0-18 | [Hungary First](https://ws.tsl.rocks/corp/d678326dd81ae0cf5b2bb37d15dcfe7fa1477dbb6e063fbd0d34c69b5942d31b/) |
+| ❌ | 2024/07/31 | 0-34 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ❌ | 2024/07/26 | 0-5 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) |
 | ❌ | 2024/07/26 | 0-21 | [Germania](https://ws.tsl.rocks/corp/e088c9a1e761ef8c1f07a1d374886006b0ecace15d07b9549e3655729b630897/) |
 | ❌ | 2024/07/21 | 0-3 | [Axiom](https://ws.tsl.rocks/corp/4000a010c205d318c766ba14fe1836eaab6652f1738a88cce8a8c69d0283e1b0/) |

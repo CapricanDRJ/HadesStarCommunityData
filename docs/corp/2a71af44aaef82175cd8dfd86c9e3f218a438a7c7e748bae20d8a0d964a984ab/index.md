@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​神圣罗马帝国
-description: W:19 L:41 D:1 Bonus ✅
+description: W:19 L:41 D:1 Bonus ❌
 date: 1722257940
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1085 🔻  (1121)|
-| ELO Competitive | 1223 🔻  (394)|
+| ELO Regular | 1085 🔻  (1125)|
+| ELO Competitive | 1223 🔻  (396)|
 | Total Matches | 61 |
 | Wins | 19 |
 | Losses | 41 |

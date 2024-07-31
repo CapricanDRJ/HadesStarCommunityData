@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​STRVS233～
-description: W:12 L:7 D:0 Bonus ✅
-date: 1721912348
+description: W:13 L:7 D:0 Bonus ✅
+date: 1722403646
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1259 🔺  (191)|
-| ELO Competitive | 1280 🔺  (238)|
-| Total Matches | 19 |
-| Wins | 12 |
+| ELO Regular | 1271 🔺  (174)|
+| ELO Competitive | 1291 🔺  (220)|
+| Total Matches | 20 |
+| Wins | 13 |
 | Losses | 7 |
 | Draws | 0 |
-| Streak | 5 |
-| Streak Record | 5 |
+| Streak | 6 |
+| Streak Record | 6 |
 
 ### Recurring Opponents
 
@@ -27,6 +27,7 @@ date: 1721912348
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/31 | 12-0 | [666](https://ws.tsl.rocks/corp/73c85bc4afbc97eb34c80ffca01f209245cad5abd35ba7ee20994ab748794e2d/) |
 | ✅ | 2024/07/25 | 21-0 | [羽共和体](https://ws.tsl.rocks/corp/61b6e0502a087307a2ecf50e5d84f6123ad19984dc5790c997f16a676213aa7e/) |
 | ✅ | 2024/07/20 | 6-2 | [华夏三体舰队](https://ws.tsl.rocks/corp/a457b1d7612cdff92b655d33cf4ffd72b38aa796525cf0432423cfd0d01c6cf9/) |
 | ✅ | 2024/07/15 | 19-0 | [UNNP](https://ws.tsl.rocks/corp/c194ffe18357f9b24cb8d28b9ba0996dfafac36b31f7bfc69295f5bfd402cb41/) |

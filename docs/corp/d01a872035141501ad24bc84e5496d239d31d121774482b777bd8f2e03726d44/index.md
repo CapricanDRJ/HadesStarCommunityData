@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Crimson Dawn
-description: W:7 L:10 D:0 Bonus ❌
-date: 1721181455
+description: W:8 L:10 D:0 Bonus ✅
+date: 1722348693
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1159 🔻  (948)|
-| ELO Competitive | 1186 🔻  (708)|
-| Total Matches | 17 |
-| Wins | 7 |
+| ELO Regular | 1163 🔺  (927)|
+| ELO Competitive | 1195 🔺  (582)|
+| Total Matches | 18 |
+| Wins | 8 |
 | Losses | 10 |
 | Draws | 0 |
 | Streak Record | 3 |
@@ -20,12 +20,14 @@ date: 1721181455
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) | 2 | 0 | 0 | 2 |
 | [Quilliance](https://ws.tsl.rocks/corp/6a4f8febc4066842f85c0373a0d33b6501860f2cc4f61b64761d31ff472c28fe/) | 0 | 2 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/30 | 23-0 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) |
 | ❌ | 2024/07/17 | 9-12 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) |
 | ❌ | 2024/07/08 | 12-18 | [Ninth Planet](https://ws.tsl.rocks/corp/53297ed66c8c326d4cb4eebdee55172d3d64f122addd5d916b314f4ab557e21a/) |
 | ❌ | 2024/07/02 | 9-31 | [Quilliance](https://ws.tsl.rocks/corp/6a4f8febc4066842f85c0373a0d33b6501860f2cc4f61b64761d31ff472c28fe/) |

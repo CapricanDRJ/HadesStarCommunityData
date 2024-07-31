@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​世外桃源
-description: W:9 L:77 D:0 Bonus ✅
-date: 1721893115
+description: W:9 L:79 D:0 Bonus ✅
+date: 1722348693
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 854 🔺  (1187)|
-| ELO Competitive | 1057 🔺  (1178)|
-| Total Matches | 86 |
+| ELO Regular | 846 🔻  (1191)|
+| ELO Competitive | 1047 🔻  (1184)|
+| Total Matches | 88 |
 | Wins | 9 |
-| Losses | 77 |
+| Losses | 79 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -20,6 +20,8 @@ date: 1721893115
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Crimson Dawn](https://ws.tsl.rocks/corp/d01a872035141501ad24bc84e5496d239d31d121774482b777bd8f2e03726d44/) | 0 | 2 | 0 | 2 |
+| [Winged Pheonix](https://ws.tsl.rocks/corp/6b9f3e0b419f79343ffd4a8134703379db0e4591879151cbc3ef6a3ff825a2d3/) | 0 | 2 | 0 | 2 |
 | [West Worlders](https://ws.tsl.rocks/corp/aad051ec6b980cc52fb4777aef113d9e28a72aab40fda65aa9cdbf477b8e390a/) | 0 | 2 | 0 | 2 |
 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) | 0 | 2 | 0 | 2 |
 | [Hermitage](https://ws.tsl.rocks/corp/b8b6a62ede93951a04bdabd85b532c38d42d8c8b95165f8d4b14e0fd48a021ee/) | 0 | 2 | 0 | 2 |
@@ -35,6 +37,8 @@ date: 1721893115
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/30 | 0-23 | [Crimson Dawn](https://ws.tsl.rocks/corp/d01a872035141501ad24bc84e5496d239d31d121774482b777bd8f2e03726d44/) |
+| ❌ | 2024/07/30 | 3-47 | [Winged Pheonix](https://ws.tsl.rocks/corp/6b9f3e0b419f79343ffd4a8134703379db0e4591879151cbc3ef6a3ff825a2d3/) |
 | ✅ | 2024/07/25 | 3-0 | [Alpha ](https://ws.tsl.rocks/corp/accb87a59c1f019d1be37fa2b19ae2aeb35c4a995d1d621a8e987065cd1328fe/) |
 | ❌ | 2024/07/25 | 3-42 | [West Worlders](https://ws.tsl.rocks/corp/aad051ec6b980cc52fb4777aef113d9e28a72aab40fda65aa9cdbf477b8e390a/) |
 | ❌ | 2024/07/20 | 1-25 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) |

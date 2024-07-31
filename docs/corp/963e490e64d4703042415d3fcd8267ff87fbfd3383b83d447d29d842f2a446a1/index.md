@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​KLM
-description: W:5 L:24 D:0 Bonus ❌
-date: 1721861567
+description: W:6 L:24 D:0 Bonus ✅
+date: 1722384458
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1064 🔻  (1142)|
-| ELO Competitive | 1097 🔻  (1147)|
-| Total Matches | 29 |
-| Wins | 5 |
+| ELO Regular | 1084 🔺  (1127)|
+| ELO Competitive | 1121 🔺  (1123)|
+| Total Matches | 30 |
+| Wins | 6 |
 | Losses | 24 |
 | Draws | 0 |
 | Streak Record | 4 |
@@ -31,6 +31,7 @@ date: 1721861567
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/31 | 39-20 | [붉은늑대](https://ws.tsl.rocks/corp/43d32b05645aaa9415d1c04ecbcea520d2ed5b90304770cb0ab3813cb86e2f49/) |
 | ❌ | 2024/07/24 | 14-37 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | ❌ | 2024/07/16 | 20-23 | [GDZ](https://ws.tsl.rocks/corp/a04890160268d05cf11f997b0a1c724fbbcfa66b2ea4cb1c4b56ca18d0425d62/) |
 | ❌ | 2024/07/09 | 8-22 | [Spacefleet](https://ws.tsl.rocks/corp/517f7b257f68936f7a95a478d6923776a2549b88897bae628fd35b23572d3cbd/) |

@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​碧霄殿
-description: W:4 L:2 D:0 Bonus ✅
+description: W:4 L:2 D:0 Bonus ❌
 date: 1722123617
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1239 🔻  (240)|
-| ELO Competitive | 1250 🔻  (305)|
+| ELO Regular | 1239 🔻  (242)|
+| ELO Competitive | 1250 🔻  (306)|
 | Total Matches | 6 |
 | Wins | 4 |
 | Losses | 2 |

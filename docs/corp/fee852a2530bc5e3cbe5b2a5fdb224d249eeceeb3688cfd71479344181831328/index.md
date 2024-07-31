@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Red Dawn
-description: W:27 L:17 D:1 Bonus ❌
-date: 1721394547
+description: W:28 L:17 D:1 Bonus ✅
+date: 1722429229
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1296 🔺  (128)|
-| ELO Competitive | 1394 🔺  (86)|
-| Total Matches | 45 |
-| Wins | 27 |
+| ELO Regular | 1301 🔺  (123)|
+| ELO Competitive | 1399 🔺  (83)|
+| Total Matches | 46 |
+| Wins | 28 |
 | Losses | 17 |
 | Draws | 1 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 6 |
 
 ### Recurring Opponents
@@ -31,6 +31,7 @@ date: 1721394547
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/31 | 20-7 | [Pyke Syndicate](https://ws.tsl.rocks/corp/1761635d6aaf9c2caf7abc37130e2d9aa48e7b4cc753ae4b701fde4b48abd3e1/) |
 | ✅ | 2024/07/19 | 19-15 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |
 | ✅ | 2024/07/06 | 40-4 | [Nebula](https://ws.tsl.rocks/corp/38bd8c92bc5f2d4ff240d58da260855d87eb4c2c4a241735c5d72215d4a191fb/) |
 | ✅ | 2024/06/27 | 28-11 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |

@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​Торг. федерация
-description: W:4 L:9 D:0 Bonus ✅
-date: 1721851349
+description: W:5 L:9 D:0 Bonus ✅
+date: 1722285594
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1155 🔺  (969)|
-| ELO Competitive | 1175 🔺  (895)|
-| Total Matches | 13 |
-| Wins | 4 |
+| ELO Regular | 1170 🔺  (872)|
+| ELO Competitive | 1191 🔺  (619)|
+| Total Matches | 14 |
+| Wins | 5 |
 | Losses | 9 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 2 |
 
 
@@ -21,6 +22,7 @@ date: 1721851349
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/29 | 18-2 | [Moon Catchers](https://ws.tsl.rocks/corp/0625bb885137c3824ac346b97780181e23ee84562237eb345baa364f8d7d3c43/) |
 | ✅ | 2024/07/24 | 12-4 | [GDZ](https://ws.tsl.rocks/corp/a04890160268d05cf11f997b0a1c724fbbcfa66b2ea4cb1c4b56ca18d0425d62/) |
 | ❌ | 2024/05/07 | 10-28 | [Альянс](https://ws.tsl.rocks/corp/a7d0478626828d7428aeeb5115f68e790f7e4c8a7f917812ec2241178e1c3f50/) |
 | ❌ | 2024/05/01 | 6-30 | [Argentina 1\.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449/) |

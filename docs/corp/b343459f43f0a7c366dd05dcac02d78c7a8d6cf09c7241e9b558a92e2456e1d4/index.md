@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Death Flight
-description: W:13 L:41 D:1 Bonus ❌
-date: 1721926777
+description: W:13 L:43 D:1 Bonus ❌
+date: 1722389265
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1016 🔻  (1171)|
-| ELO Competitive | 1073 🔻  (1168)|
-| Total Matches | 55 |
+| ELO Regular | 1003 🔻  (1177)|
+| ELO Competitive | 1071 🔻  (1174)|
+| Total Matches | 57 |
 | Wins | 13 |
-| Losses | 41 |
+| Losses | 43 |
 | Draws | 1 |
 | Streak Record | 3 |
 
@@ -29,6 +29,8 @@ date: 1721926777
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/31 | 1-17 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) |
+| ❌ | 2024/07/30 | 0-31 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | ❌ | 2024/07/25 | 6-30 | [Void](https://ws.tsl.rocks/corp/d647d722a09f020b716e059ac7758172a560c7190ac4d7d306c4ede8be6c5e77/) |
 | ❌ | 2024/07/20 | 12-40 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) |
 | ❌ | 2024/07/14 | 14-48 | [Ark](https://ws.tsl.rocks/corp/febd79d038ed9af667e201309060d9662ba825ba9be2b5b95418ac20a8e70c80/) |

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Pyke Syndicate
-description: W:2 L:19 D:1 Bonus ❌
-date: 1721810776
+description: W:2 L:20 D:1 Bonus ❌
+date: 1722429229
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1045 🔻  (1152)|
-| ELO Competitive | 1079 🔻  (1162)|
-| Total Matches | 22 |
+| ELO Regular | 1040 🔻  (1157)|
+| ELO Competitive | 1075 🔻  (1170)|
+| Total Matches | 23 |
 | Wins | 2 |
-| Losses | 19 |
+| Losses | 20 |
 | Draws | 1 |
 | Streak Record | 2 |
 
@@ -26,6 +26,7 @@ date: 1721810776
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/31 | 7-20 | [Red Dawn](https://ws.tsl.rocks/corp/fee852a2530bc5e3cbe5b2a5fdb224d249eeceeb3688cfd71479344181831328/) |
 | ❌ | 2024/07/24 | 4-37 | [Bunker](https://ws.tsl.rocks/corp/583eeb4aaa577ce5d9806fc637f83d7c02b2a29fa2d47eb38fd658be8ef93588/) |
 | ❌ | 2024/07/17 | 8-11 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ❌ | 2024/07/10 | 7-32 | [Альянс](https://ws.tsl.rocks/corp/a7d0478626828d7428aeeb5115f68e790f7e4c8a7f917812ec2241178e1c3f50/) |

@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​九州分团
-description: W:31 L:36 D:2 Bonus ✅
-date: 1722062007
+description: W:31 L:37 D:2 Bonus ✅
+date: 1722417209
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1290 🔺  (133)|
-| ELO Competitive | 1354 🔺  (130)|
-| Total Matches | 69 |
+| ELO Regular | 1278 🔻  (159)|
+| ELO Competitive | 1344 🔻  (140)|
+| Total Matches | 70 |
 | Wins | 31 |
-| Losses | 36 |
+| Losses | 37 |
 | Draws | 2 |
-| Streak | 4 |
 | Streak Record | 7 |
 
 ### Recurring Opponents
@@ -36,6 +35,7 @@ date: 1722062007
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/31 | 2-16 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | ✅ | 2024/07/27 | 13-6 | [Ẁhıťɛ Ṣօᴌᴧᴙɨṣ](https://ws.tsl.rocks/corp/4019e0b42b27f4016da780eed9d3c84aec7ad9d180e90febddb3a9a22dac131c/) |
 | ✅ | 2024/07/26 | 14-3 | [Seila](https://ws.tsl.rocks/corp/8749ed87cb9e85c88599f3bb9f9159e00561229eb1690cb36d565a054638cc52/) |
 | ✅ | 2024/07/22 | 14-0 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |

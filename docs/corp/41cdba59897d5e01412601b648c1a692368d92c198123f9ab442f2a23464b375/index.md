@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Crux Cadre
-description: W:26 L:19 D:1 Bonus ❌
-date: 1721642197
+description: W:27 L:19 D:1 Bonus ✅
+date: 1722315939
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1236 🔻  (254)|
-| ELO Competitive | 1315 🔻  (179)|
-| Total Matches | 46 |
-| Wins | 26 |
+| ELO Regular | 1248 🔺  (219)|
+| ELO Competitive | 1326 🔺  (168)|
+| Total Matches | 47 |
+| Wins | 27 |
 | Losses | 19 |
 | Draws | 1 |
 | Streak Record | 5 |
@@ -31,6 +31,7 @@ date: 1721642197
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/30 | 35-22 | [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) |
 | ❌ | 2024/07/22 | 3-29 | [Game of Stars](https://ws.tsl.rocks/corp/ad5bb68e6076ee70e6715ecead226fc9880b66a87b68acb3098843f723c1562e/) |
 | ❌ | 2024/07/22 | 0-45 | [Famous Assasins](https://ws.tsl.rocks/corp/8a3aea3b3dacfd3dcdb402e896204557e250b07b8a5e04b5814600c66cc1a25b/) |
 | ✅ | 2024/07/15 | 39-0 | [KARI](https://ws.tsl.rocks/corp/4434276aa1aebbe4c0a69ac51dff9c243c5287d00096e12c87e8590318a2ab65/) |

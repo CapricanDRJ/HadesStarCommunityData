@@ -1,32 +1,34 @@
 ---
 layout: page
 title: ​StellaMysterium
-description: W:16 L:19 D:0 Bonus ✅
-date: 1721835420
+description: W:17 L:20 D:0 Bonus ✅
+date: 1722380252
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1203 🔺  (419)|
-| ELO Competitive | 1236 🔺  (347)|
-| Total Matches | 35 |
-| Wins | 16 |
-| Losses | 19 |
+| ELO Regular | 1202 🔺  (429)|
+| ELO Competitive | 1249 🔺  (309)|
+| Total Matches | 37 |
+| Wins | 17 |
+| Losses | 20 |
 | Draws | 0 |
-| Streak | 4 |
 | Streak Record | 4 |
 
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Bunker](https://ws.tsl.rocks/corp/583eeb4aaa577ce5d9806fc637f83d7c02b2a29fa2d47eb38fd658be8ef93588/) | 0 | 2 | 0 | 2 |
 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) | 2 | 0 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/30 | 20-11 | [Greek Warriors](https://ws.tsl.rocks/corp/0ebbf2228c6b86ec5117c216d8909c8e6f32f1a59b8f9b586bcdbbb85f603bc6/) |
+| ❌ | 2024/07/30 | 22-37 | [Bunker](https://ws.tsl.rocks/corp/583eeb4aaa577ce5d9806fc637f83d7c02b2a29fa2d47eb38fd658be8ef93588/) |
 | ✅ | 2024/07/24 | 18-3 | [Minutemen](https://ws.tsl.rocks/corp/9c909737404c072239b33c57ec002c06c45552ec1b97fe1d07eb95090e2346a8/) |
 | ✅ | 2024/07/24 | 19-0 | [星际联盟（中国）](https://ws.tsl.rocks/corp/1deb8ab45257a86051f9c285bbbe06652a56d93118d8e442a0a30ddd179f4256/) |
 | ✅ | 2024/07/18 | 7-3 | [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) |

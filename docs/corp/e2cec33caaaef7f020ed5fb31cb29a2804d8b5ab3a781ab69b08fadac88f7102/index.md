@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​避难所
-description: W:9 L:8 D:2 Bonus ❌
-date: 1721236461
+description: W:10 L:8 D:2 Bonus ✅
+date: 1722404657
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1225 🔺  (302)|
-| ELO Competitive | 1278 🔺  (247)|
-| Total Matches | 19 |
-| Wins | 9 |
+| ELO Regular | 1241 🔺  (238)|
+| ELO Competitive | 1291 🔺  (221)|
+| Total Matches | 20 |
+| Wins | 10 |
 | Losses | 8 |
 | Draws | 2 |
+| Streak | 2 |
 | Streak Record | 3 |
 
 ### Recurring Opponents
@@ -26,6 +27,7 @@ date: 1721236461
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/31 | 11-0 | [火洋之心](https://ws.tsl.rocks/corp/99cb105316e2715545c205443c4e331cd11832753eac1c21e11ae3d532e36bcb/) |
 | ✅ | 2024/07/17 | 5-1 | [Splendid](https://ws.tsl.rocks/corp/8d0fd2cb62785c9876643edf419b241f0f86e339052e5d3e4fab40b0416828dd/) |
 | ↔️ | 2024/07/11 | 1-1 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
 | ✅ | 2024/07/04 | 12-5 | [群星璀璨](https://ws.tsl.rocks/corp/bea31635844ab6ddf96f0a6984cd0498838cd869ca859dac82c7d40d709f52aa/) |

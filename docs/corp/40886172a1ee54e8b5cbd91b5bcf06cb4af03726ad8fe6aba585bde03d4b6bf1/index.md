@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​M4-Valhalla
-description: W:0 L:2 D:0 Bonus ❌
-date: 1721895219
+description: W:0 L:3 D:0 Bonus ❌
+date: 1722421114
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (797)|
-| ELO Competitive | 1178 🔻  (864)|
-| Total Matches | 2 |
+| ELO Regular | 1165 🔻  (913)|
+| ELO Competitive | 1171 🔻  (964)|
+| Total Matches | 3 |
 | Wins | 0 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 
 
@@ -20,6 +20,7 @@ date: 1721895219
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/31 | 0-26 | [2ND\-R8 Corp\.](https://ws.tsl.rocks/corp/e97866623598a98454b3a4724b472dc171f5e1aff84b076c43d021f0fabdc702/) |
 | ❌ | 2024/07/25 | 0-29 | [Kratos](https://ws.tsl.rocks/corp/1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b/) |
 | ❌ | 2024/03/31 | 0-4 | [四季长春](https://ws.tsl.rocks/corp/cf0b11914dc18d8e669592ecfe191f115c4e5fdba09d130d260bb625b36a3179/) |
 

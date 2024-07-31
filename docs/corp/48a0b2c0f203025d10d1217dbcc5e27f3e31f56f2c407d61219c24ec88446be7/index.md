@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​RGW
-description: W:11 L:6 D:0 Bonus ✅
-date: 1721759696
+description: W:12 L:6 D:0 Bonus ✅
+date: 1722334869
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1292 🔺  (130)|
-| ELO Competitive | 1305 🔺  (193)|
-| Total Matches | 17 |
-| Wins | 11 |
+| ELO Regular | 1300 🔺  (126)|
+| ELO Competitive | 1315 🔺  (183)|
+| Total Matches | 18 |
+| Wins | 12 |
 | Losses | 6 |
 | Draws | 0 |
-| Streak | 7 |
-| Streak Record | 7 |
+| Streak | 8 |
+| Streak Record | 8 |
 
 ### Recurring Opponents
 
@@ -27,6 +27,7 @@ date: 1721759696
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/30 | 19-0 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |
 | ✅ | 2024/07/23 | 18-1 | [Osmium Star llc](https://ws.tsl.rocks/corp/edd3ac94ea8ee1cf441e904ff29c48c21fa5db83af6eb5a6e83ae236b3872b22/) |
 | ✅ | 2024/07/15 | 22-0 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
 | ✅ | 2024/06/18 | 23-3 | [华夏三体舰队](https://ws.tsl.rocks/corp/a457b1d7612cdff92b655d33cf4ffd72b38aa796525cf0432423cfd0d01c6cf9/) |

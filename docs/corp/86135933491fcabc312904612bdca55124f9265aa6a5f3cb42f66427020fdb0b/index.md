@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Newbs
-description: W:26 L:11 D:1 Bonus ❌
-date: 1721048908
+description: W:26 L:12 D:1 Bonus ❌
+date: 1722322550
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1314 🔻  (98)|
-| ELO Competitive | 1364 🔻  (117)|
-| Total Matches | 38 |
+| ELO Regular | 1301 🔻  (124)|
+| ELO Competitive | 1356 🔻  (127)|
+| Total Matches | 39 |
 | Wins | 26 |
-| Losses | 11 |
+| Losses | 12 |
 | Draws | 1 |
 | Streak Record | 12 |
 
@@ -30,6 +30,7 @@ date: 1721048908
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/30 | 9-44 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ❌ | 2024/07/15 | 15-28 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 | ❌ | 2024/07/15 | 9-22 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |
 | ❌ | 2024/07/08 | 4-27 | [✡天启✡](https://ws.tsl.rocks/corp/f2d70a86d32ea3a8226afc6d465a6c6540acec572b1c7232994523cdfb299c53/) |

@@ -1,19 +1,21 @@
 ---
 layout: page
 title: ​West Worlders
-description: W:2 L:10 D:0 Bonus ✅
-date: 1721890711
+description: W:3 L:10 D:0 Bonus ✅
+date: 1722410298
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1092 🔺  (1110)|
-| ELO Competitive | 1118 🔺  (1124)|
-| Total Matches | 12 |
-| Wins | 2 |
+| ELO Regular | 1110 🔺  (1095)|
+| ELO Competitive | 1141 🔺  (1096)|
+| Total Matches | 13 |
+| Wins | 3 |
 | Losses | 10 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 
 ### Recurring Opponents
 
@@ -26,6 +28,7 @@ date: 1721890711
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/31 | 36-18 | [붉은늑대](https://ws.tsl.rocks/corp/43d32b05645aaa9415d1c04ecbcea520d2ed5b90304770cb0ab3813cb86e2f49/) |
 | ✅ | 2024/07/25 | 42-3 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) |
 | ❌ | 2024/07/19 | 30-36 | [Winged Pheonix](https://ws.tsl.rocks/corp/6b9f3e0b419f79343ffd4a8134703379db0e4591879151cbc3ef6a3ff825a2d3/) |
 | ❌ | 2024/07/11 | 14-33 | [Nine's Own Goal](https://ws.tsl.rocks/corp/fd47245550708347721e341d893b73e7c23e0f3624053c47ce666e55641c9e9e/) |

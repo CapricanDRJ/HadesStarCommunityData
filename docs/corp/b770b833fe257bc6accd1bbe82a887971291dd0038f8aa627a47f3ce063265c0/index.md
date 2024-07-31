@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​ЧВК "Котики"
-description: W:21 L:13 D:3 Bonus ✅
-date: 1721805067
+description: W:22 L:13 D:3 Bonus ✅
+date: 1722381254
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1312 🔺  (103)|
-| ELO Competitive | 1356 🔺  (127)|
-| Total Matches | 37 |
-| Wins | 21 |
+| ELO Regular | 1322 🔺  (91)|
+| ELO Competitive | 1364 🔺  (118)|
+| Total Matches | 38 |
+| Wins | 22 |
 | Losses | 13 |
 | Draws | 3 |
+| Streak | 2 |
 | Streak Record | 5 |
 
 ### Recurring Opponents
@@ -28,6 +29,7 @@ date: 1721805067
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/30 | 22-3 | [PLUTON](https://ws.tsl.rocks/corp/9df6bc8c76c8f37e2b7c80c6219994a2a60dd4c65052726c7a367ce0683bac2a/) |
 | ✅ | 2024/07/24 | 22-4 | [Dumpster Fire 2](https://ws.tsl.rocks/corp/37d473dec00d4d68e29963e3b423670aac735e7c1f256276e6c2e7d62180b0f8/) |
 | ❌ | 2024/07/18 | 4-9 | [Cyber Star](https://ws.tsl.rocks/corp/358bbbde0af23c5f41cdb4fde95bb713989c7812b5a0358f7c34ecceca19916c/) |
 | ✅ | 2024/07/11 | 33-3 | [共产星际](https://ws.tsl.rocks/corp/5cb42bdae108ad850e61479922e7d8cb4d5b7be7b8ac2f64fc828d3b88046737/) |

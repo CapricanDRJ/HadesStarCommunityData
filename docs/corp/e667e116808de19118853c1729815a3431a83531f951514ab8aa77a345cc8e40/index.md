@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Highlife
-description: W:18 L:18 D:1 Bonus ❌
-date: 1721684276
+description: W:18 L:19 D:1 Bonus ❌
+date: 1722315939
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1167 🔻  (898)|
-| ELO Competitive | 1198 🔻  (576)|
-| Total Matches | 37 |
+| ELO Regular | 1155 🔻  (971)|
+| ELO Competitive | 1188 🔻  (667)|
+| Total Matches | 38 |
 | Wins | 18 |
-| Losses | 18 |
+| Losses | 19 |
 | Draws | 1 |
 | Streak Record | 6 |
 
@@ -26,6 +26,7 @@ date: 1721684276
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/30 | 22-35 | [Crux Cadre](https://ws.tsl.rocks/corp/41cdba59897d5e01412601b648c1a692368d92c198123f9ab442f2a23464b375/) |
 | ❌ | 2024/07/22 | 7-36 | [Argentina 1\.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449/) |
 | ❌ | 2024/07/15 | 3-19 | [Fleet Corp Ares](https://ws.tsl.rocks/corp/8ceac360859239e9b9386b5e4a0c3d3c7e75941b010804ab8b405d9eb6f806f6/) |
 | ✅ | 2024/07/08 | 16-3 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |

@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​United Stars 
-description: W:23 L:15 D:1 Bonus ✅
-date: 1721756090
+description: W:23 L:15 D:2 Bonus ❌
+date: 1722311732
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1260 🔺  (189)|
-| ELO Competitive | 1316 🔺  (178)|
-| Total Matches | 39 |
+| ELO Regular | 1269 🔺  (180)|
+| ELO Competitive | 1324 🔺  (171)|
+| Total Matches | 40 |
 | Wins | 23 |
 | Losses | 15 |
-| Draws | 1 |
-| Streak | 2 |
+| Draws | 2 |
 | Streak Record | 4 |
 
 ### Recurring Opponents
@@ -27,6 +26,7 @@ date: 1721756090
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/07/30 | 14-14 | [Ninth Planet](https://ws.tsl.rocks/corp/53297ed66c8c326d4cb4eebdee55172d3d64f122addd5d916b314f4ab557e21a/) |
 | ✅ | 2024/07/23 | 45-0 | [Galaxians](https://ws.tsl.rocks/corp/94728c6eb201c1f15c6e2304b5920aa155ccc1a7aac83b574baae51c53a22c5d/) |
 | ✅ | 2024/07/15 | 28-13 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | ❌ | 2024/06/28 | 6-14 | [Mass Effect](https://ws.tsl.rocks/corp/6f715653bec3925d9c3acd7c2388fe8e1c79332146894ed424f57bd2636de8c7/) |

@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​自由星际联盟
-description: W:6 L:32 D:0 Bonus ✅
+description: W:6 L:32 D:0 Bonus ❌
 date: 1722216663
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1026 🔻  (1163)|
-| ELO Competitive | 1101 🔻  (1142)|
+| ELO Regular | 1026 🔻  (1167)|
+| ELO Competitive | 1101 🔻  (1147)|
 | Total Matches | 38 |
 | Wins | 6 |
 | Losses | 32 |

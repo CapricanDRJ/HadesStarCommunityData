@@ -1,31 +1,34 @@
 ---
 layout: page
 title: ​Dark Training
-description: W:12 L:11 D:1 Bonus ❌
-date: 1721155611
+description: W:13 L:11 D:1 Bonus ✅
+date: 1722396776
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔺  (246)|
-| ELO Competitive | 1276 🔺  (254)|
-| Total Matches | 24 |
-| Wins | 12 |
+| ELO Regular | 1258 🔺  (195)|
+| ELO Competitive | 1296 🔺  (213)|
+| Total Matches | 25 |
+| Wins | 13 |
 | Losses | 11 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 3 |
 
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Star Destroyers](https://ws.tsl.rocks/corp/32ba20918cd8720602fefb3bc676a6ba5195314479040f70eadc728fbbc2698d/) | 1 | 1 | 0 | 2 |
 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) | 2 | 0 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/31 | 19-4 | [Star Destroyers](https://ws.tsl.rocks/corp/32ba20918cd8720602fefb3bc676a6ba5195314479040f70eadc728fbbc2698d/) |
 | ✅ | 2024/07/16 | 9-1 | [Spaceballs](https://ws.tsl.rocks/corp/1e54a7ba8156a65b15f7f1358b682a10f856acb0f96d9e3b582c4ea175905839/) |
 | ❌ | 2024/07/08 | 13-21 | [Embers Rising](https://ws.tsl.rocks/corp/30173fb6f0cf7a6d78f30c60350646ad6bc0d667a14854bdc9abbc19cd7d0327/) |
 | ✅ | 2024/06/28 | 28-0 | [Utd\. Human Fed\.](https://ws.tsl.rocks/corp/265fd73116c2ec237c7a966adb401d54219dee49882ee9024025c697165397d6/) |

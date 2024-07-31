@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​붉은늑대
-description: W:33 L:38 D:0 Bonus ✅
-date: 1721817687
+description: W:33 L:40 D:0 Bonus ❌
+date: 1722410298
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1180 🔺  (764)|
-| ELO Competitive | 1355 🔺  (128)|
-| Total Matches | 71 |
+| ELO Regular | 1143 🔻  (1021)|
+| ELO Competitive | 1331 🔻  (160)|
+| Total Matches | 73 |
 | Wins | 33 |
-| Losses | 38 |
+| Losses | 40 |
 | Draws | 0 |
 | Streak Record | 6 |
 
@@ -33,6 +33,8 @@ date: 1721817687
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/31 | 18-36 | [West Worlders](https://ws.tsl.rocks/corp/aad051ec6b980cc52fb4777aef113d9e28a72aab40fda65aa9cdbf477b8e390a/) |
+| ❌ | 2024/07/31 | 20-39 | [KLM](https://ws.tsl.rocks/corp/963e490e64d4703042415d3fcd8267ff87fbfd3383b83d447d29d842f2a446a1/) |
 | ✅ | 2024/07/24 | 32-4 | [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) |
 | ❌ | 2024/07/24 | 0-44 | [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) |
 | ✅ | 2024/07/17 | 25-19 | [北冥星云](https://ws.tsl.rocks/corp/88cb246960e97ace5f27c024831a42d0f4ad4df3493d6496dd2735190c15e47e/) |

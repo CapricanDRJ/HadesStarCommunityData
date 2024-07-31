@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Osmium Star llc
-description: W:9 L:1 D:0 Bonus ❌
-date: 1721759696
+description: W:10 L:1 D:0 Bonus ✅
+date: 1722331865
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1297 🔻  (126)|
-| ELO Competitive | 1306 🔻  (192)|
-| Total Matches | 10 |
-| Wins | 9 |
+| ELO Regular | 1308 🔺  (111)|
+| ELO Competitive | 1317 🔺  (178)|
+| Total Matches | 11 |
+| Wins | 10 |
 | Losses | 1 |
 | Draws | 0 |
 | Streak Record | 9 |
@@ -21,6 +21,7 @@ date: 1721759696
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/30 | 24-0 | [N\.P\.C](https://ws.tsl.rocks/corp/e937e643b7c3834e9f8cea1ddf38c5299596fa4b8820bc82f928e45575b6b84b/) |
 | ❌ | 2024/07/23 | 1-18 | [RGW](https://ws.tsl.rocks/corp/48a0b2c0f203025d10d1217dbcc5e27f3e31f56f2c407d61219c24ec88446be7/) |
 | ✅ | 2024/07/16 | 14-0 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
 | ✅ | 2024/07/08 | 29-1 | [Jalisco México](https://ws.tsl.rocks/corp/495236ab2171ccbcdad0da5529f080405b1ddd081eda98c7255a8cffe5b114e4/) |

@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Stone Legion
-description: W:19 L:5 D:0 Bonus ❌
-date: 1721423108
+description: W:20 L:5 D:0 Bonus ✅
+date: 1722286796
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1347 🔺  (67)|
-| ELO Competitive | 1371 🔺  (107)|
-| Total Matches | 24 |
-| Wins | 19 |
+| ELO Regular | 1356 🔺  (60)|
+| ELO Competitive | 1379 🔺  (102)|
+| Total Matches | 25 |
+| Wins | 20 |
 | Losses | 5 |
 | Draws | 0 |
-| Streak | 6 |
+| Streak | 7 |
 | Streak Record | 8 |
 
 
@@ -22,6 +22,7 @@ date: 1721423108
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/29 | 28-3 | [FAIR](https://ws.tsl.rocks/corp/3cc5fce62e95c8f5c0123072cd7f74ed1e7cb7794a835d5539a9c965f731398e/) |
 | ✅ | 2024/07/19 | 13-3 | [SternenStaub](https://ws.tsl.rocks/corp/11f1e8a4d522eaef8cb40c95d07b4533097aa6509ddafd1d7efc1449e8b10f38/) |
 | ✅ | 2024/07/03 | 23-3 | [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) |
 | ✅ | 2024/06/15 | 23-5 | [Space Pirates](https://ws.tsl.rocks/corp/87eff6e453b6f020baf8cb8930236b566161e22814cdbdc77d696c5812684bc6/) |

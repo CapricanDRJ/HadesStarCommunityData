@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​N.P.C
-description: W:5 L:2 D:3 Bonus ❌
-date: 1717110046
+description: W:5 L:3 D:3 Bonus ❌
+date: 1722331865
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1221 🔻  (313)|
-| ELO Competitive | 1227 🔻  (381)|
-| Total Matches | 10 |
+| ELO Regular | 1209 🔻  (400)|
+| ELO Competitive | 1215 🔻  (451)|
+| Total Matches | 11 |
 | Wins | 5 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 3 |
 | Streak Record | 5 |
 
@@ -26,6 +26,7 @@ date: 1717110046
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/30 | 0-24 | [Osmium Star llc](https://ws.tsl.rocks/corp/edd3ac94ea8ee1cf441e904ff29c48c21fa5db83af6eb5a6e83ae236b3872b22/) |
 | ↔️ | 2024/05/30 | 0-0 | [地球星际集团](https://ws.tsl.rocks/corp/05094116a999d8e077c5e53dc2241a870c7dc2e68e016455c606ada0dcb40b62/) |
 | ↔️ | 2024/05/23 | 0-0 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
 | ↔️ | 2024/05/16 | 0-0 | [华夏三体舰队](https://ws.tsl.rocks/corp/a457b1d7612cdff92b655d33cf4ffd72b38aa796525cf0432423cfd0d01c6cf9/) |

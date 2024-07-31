@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Greek Warriors
-description: W:7 L:20 D:0 Bonus ❌
-date: 1721152905
+description: W:7 L:21 D:0 Bonus ❌
+date: 1722380252
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1147 🔻  (1000)|
-| ELO Competitive | 1175 🔻  (896)|
-| Total Matches | 27 |
+| ELO Regular | 1134 🔻  (1049)|
+| ELO Competitive | 1162 🔻  (1018)|
+| Total Matches | 28 |
 | Wins | 7 |
-| Losses | 20 |
+| Losses | 21 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -28,6 +28,7 @@ date: 1721152905
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/30 | 11-20 | [StellaMysterium](https://ws.tsl.rocks/corp/cfaaa81ed93cc9361ade470c3414c73ecf77068badd68d624c7b3f486d142b10/) |
 | ❌ | 2024/07/16 | 9-11 | [Mass Effect](https://ws.tsl.rocks/corp/6f715653bec3925d9c3acd7c2388fe8e1c79332146894ed424f57bd2636de8c7/) |
 | ❌ | 2024/07/02 | 5-37 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/0c33734edc95a1bac88a9df7e0853a3bd835ea682673f097db1c75d6bb14c8da/) |
 | ✅ | 2024/06/24 | 17-14 | [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) |

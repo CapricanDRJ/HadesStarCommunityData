@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​The Elite
-description: W:12 L:12 D:0 Bonus ❌
-date: 1719846836
+description: W:12 L:13 D:0 Bonus ❌
+date: 1722347491
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔺  (529)|
-| ELO Competitive | 1207 🔺  (500)|
-| Total Matches | 24 |
+| ELO Regular | 1174 🔻  (810)|
+| ELO Competitive | 1194 🔻  (591)|
+| Total Matches | 25 |
 | Wins | 12 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 0 |
 | Streak Record | 4 |
 
@@ -26,6 +26,7 @@ date: 1719846836
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/30 | 0-4 | [萌新港\(大佬港\)](https://ws.tsl.rocks/corp/e6d9b9da7a037e3572cb594dfeba7b282b66509228c9f4f1b2138f873caa3cf3/) |
 | ✅ | 2024/07/01 | 4-2 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) |
 | ❌ | 2024/06/10 | 1-29 | [Star Destroyers](https://ws.tsl.rocks/corp/32ba20918cd8720602fefb3bc676a6ba5195314479040f70eadc728fbbc2698d/) |
 | ❌ | 2024/05/28 | 0-35 | [Death Star llc\.](https://ws.tsl.rocks/corp/3dd4906939827fa7537a3e95f8d75948c06b75a98f3c4aab253ea79857d2ce81/) |

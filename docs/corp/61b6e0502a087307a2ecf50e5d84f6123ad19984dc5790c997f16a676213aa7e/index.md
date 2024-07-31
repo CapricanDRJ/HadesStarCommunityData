@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​羽共和体
-description: W:10 L:19 D:3 Bonus ❌
-date: 1721912348
+description: W:11 L:19 D:4 Bonus ✅
+date: 1722345688
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1115 🔻  (1085)|
-| ELO Competitive | 1185 🔻  (800)|
-| Total Matches | 32 |
-| Wins | 10 |
+| ELO Regular | 1138 🔺  (1035)|
+| ELO Competitive | 1203 🔺  (509)|
+| Total Matches | 34 |
+| Wins | 11 |
 | Losses | 19 |
-| Draws | 3 |
+| Draws | 4 |
 | Streak Record | 2 |
 
 
@@ -21,6 +21,8 @@ date: 1721912348
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/07/30 | 3-3 | [星舰国际](https://ws.tsl.rocks/corp/2142b75cc6d1c522c423a860fbda7616d7745f8fee25121ec3a8f26068b0f3b5/) |
+| ✅ | 2024/07/30 | 8-7 | [●Black•Sails●](https://ws.tsl.rocks/corp/fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31/) |
 | ❌ | 2024/07/25 | 0-21 | [STRVS233～](https://ws.tsl.rocks/corp/727f6b88132c5850b1ef7ad02101bab3f97fc5dd191307dffca64181bf41e614/) |
 | ❌ | 2024/07/25 | 0-8 | [Alpha to Omega](https://ws.tsl.rocks/corp/2b3694014264240c8c0d1bb6a20e9d120dff2b6680c98b4e06e34bfd489f9da6/) |
 | ✅ | 2024/07/20 | 3-2 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |

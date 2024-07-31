@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Deadspace
-description: W:16 L:23 D:0 Bonus ✅
-date: 1721836321
+description: W:16 L:24 D:0 Bonus ✅
+date: 1722365826
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1153 🔺  (977)|
-| ELO Competitive | 1208 🔺  (494)|
-| Total Matches | 39 |
+| ELO Regular | 1140 🔻  (1023)|
+| ELO Competitive | 1193 🔻  (598)|
+| Total Matches | 40 |
 | Wins | 16 |
-| Losses | 23 |
+| Losses | 24 |
 | Draws | 0 |
 | Streak Record | 4 |
 
@@ -33,6 +33,7 @@ date: 1721836321
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/30 | 7-14 | [Void](https://ws.tsl.rocks/corp/d647d722a09f020b716e059ac7758172a560c7190ac4d7d306c4ede8be6c5e77/) |
 | ✅ | 2024/07/24 | 22-4 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) |
 | ❌ | 2024/07/17 | 23-55 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) |
 | ❌ | 2024/07/12 | 15-30 | [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) |

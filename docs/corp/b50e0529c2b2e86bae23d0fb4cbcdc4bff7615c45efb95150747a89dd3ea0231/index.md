@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Star Fleet
-description: W:7 L:16 D:0 Bonus ❌
-date: 1721804766
+description: W:8 L:16 D:0 Bonus ✅
+date: 1722431633
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1155 🔻  (970)|
-| ELO Competitive | 1210 🔻  (482)|
-| Total Matches | 23 |
-| Wins | 7 |
+| ELO Regular | 1172 🔺  (840)|
+| ELO Competitive | 1225 🔺  (388)|
+| Total Matches | 24 |
+| Wins | 8 |
 | Losses | 16 |
 | Draws | 0 |
 | Streak Record | 6 |
@@ -28,6 +28,7 @@ date: 1721804766
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/31 | 9-0 | [星际集团](https://ws.tsl.rocks/corp/4f61a43eb3082215034e4c78c8feceeae71ca38f447469c49ba8a61d0c0d97eb/) |
 | ❌ | 2024/07/24 | 4-7 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) |
 | ❌ | 2024/07/17 | 0-13 | [Hungary First](https://ws.tsl.rocks/corp/d678326dd81ae0cf5b2bb37d15dcfe7fa1477dbb6e063fbd0d34c69b5942d31b/) |
 | ✅ | 2024/07/10 | 7-3 | [Armored Union ](https://ws.tsl.rocks/corp/4dacc02ca314ab864578421db538b0eb10b0c8c81dc0edd91c5090717d087c7f/) |

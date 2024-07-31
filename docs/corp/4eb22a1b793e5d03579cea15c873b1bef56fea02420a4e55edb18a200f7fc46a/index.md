@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​империя тьмы
-description: W:12 L:21 D:2 Bonus ❌
-date: 1721916857
+description: W:13 L:22 D:2 Bonus ✅
+date: 1722426933
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1097 🔻  (1105)|
-| ELO Competitive | 1206 🔻  (502)|
-| Total Matches | 35 |
-| Wins | 12 |
-| Losses | 21 |
+| ELO Regular | 1105 🔻  (1103)|
+| ELO Competitive | 1221 🔺  (402)|
+| Total Matches | 37 |
+| Wins | 13 |
+| Losses | 22 |
 | Draws | 2 |
 | Streak Record | 2 |
 
@@ -30,6 +30,8 @@ date: 1721916857
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/31 | 2-17 | [Armored Union ](https://ws.tsl.rocks/corp/4dacc02ca314ab864578421db538b0eb10b0c8c81dc0edd91c5090717d087c7f/) |
+| ✅ | 2024/07/31 | 3-1 | [无聊不过](https://ws.tsl.rocks/corp/6099bd39cf8510ea3ef2be0fe05df95266b12acfdcbe1bd58a4c33e9c3f25934/) |
 | ❌ | 2024/07/25 | 2-16 | [SiriusStrawMoo](https://ws.tsl.rocks/corp/c83a5744ea256d2c1fa59660bc0e18e8d01a2a467bc13fec27a8b30f689e220b/) |
 | ❌ | 2024/07/25 | 0-2 | [Novana Gaming](https://ws.tsl.rocks/corp/073bc5604115e6eb4df318ba3c7a80d782d26f83d70723c5f15b6453ce690a08/) |
 | ↔️ | 2024/07/15 | 0-0 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |

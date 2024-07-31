@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Dumpster Fire 2
-description: W:36 L:40 D:2 Bonus ❌
-date: 1721805067
+description: W:36 L:41 D:2 Bonus ❌
+date: 1722293106
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1162 🔻  (928)|
-| ELO Competitive | 1349 🔻  (136)|
-| Total Matches | 78 |
+| ELO Regular | 1155 🔻  (969)|
+| ELO Competitive | 1336 🔻  (151)|
+| Total Matches | 79 |
 | Wins | 36 |
-| Losses | 40 |
+| Losses | 41 |
 | Draws | 2 |
 | Streak Record | 5 |
 
@@ -34,6 +34,7 @@ date: 1721805067
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/29 | 10-25 | [元素联邦](https://ws.tsl.rocks/corp/e9d602d617d5c81270107c15a6d1f1717c5016abad802d3629f7f4301a58e95e/) |
 | ❌ | 2024/07/24 | 4-22 | [ЧВК "Котики"](https://ws.tsl.rocks/corp/b770b833fe257bc6accd1bbe82a887971291dd0038f8aa627a47f3ce063265c0/) |
 | ❌ | 2024/07/18 | 9-36 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |
 | ❌ | 2024/07/12 | 0-26 | [ZION](https://ws.tsl.rocks/corp/99ac8e5c0f22878b9a4458953d0c712ada17ef36ae195ccf39c7921dc996adfe/) |

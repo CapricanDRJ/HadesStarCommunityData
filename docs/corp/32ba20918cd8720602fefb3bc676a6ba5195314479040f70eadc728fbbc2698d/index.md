@@ -1,26 +1,26 @@
 ---
 layout: page
 title: ​Star Destroyers
-description: W:23 L:14 D:1 Bonus ✅
-date: 1721747073
+description: W:23 L:15 D:1 Bonus ❌
+date: 1722396776
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1358 🔺  (58)|
-| ELO Competitive | 1393 🔺  (87)|
-| Total Matches | 38 |
+| ELO Regular | 1338 🔻  (77)|
+| ELO Competitive | 1373 🔻  (107)|
+| Total Matches | 39 |
 | Wins | 23 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 1 |
-| Streak | 10 |
 | Streak Record | 10 |
 
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Dark Training](https://ws.tsl.rocks/corp/f889cafae8c2e0c622ae5494ce013504bf204ba00f7c7b44c61985588ee8f53c/) | 1 | 1 | 0 | 2 |
 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) | 2 | 0 | 0 | 2 |
 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) | 1 | 1 | 0 | 2 |
 
@@ -28,6 +28,7 @@ date: 1721747073
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/31 | 4-19 | [Dark Training](https://ws.tsl.rocks/corp/f889cafae8c2e0c622ae5494ce013504bf204ba00f7c7b44c61985588ee8f53c/) |
 | ✅ | 2024/07/23 | 26-6 | [두빛나래](https://ws.tsl.rocks/corp/f2ff8c6a1035943d6dbff4062b4546ac2e3c7b2185b1bd986aec34256c2edb7f/) |
 | ✅ | 2024/07/17 | 21-11 | [Galaktika corp](https://ws.tsl.rocks/corp/c37872d1ea085402bf536c707a895610f72dafda4bede848405b7908b4523985/) |
 | ✅ | 2024/07/09 | 14-0 | [Angel Dragon](https://ws.tsl.rocks/corp/2f2e44c159dc8f4e15e2dabda533d9db8697d2c6c06735d926d180b3aa056dcf/) |

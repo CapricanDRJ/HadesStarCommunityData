@@ -1,27 +1,28 @@
 ---
 layout: page
 title: ​NoweUkladyII
-description: W:10 L:0 D:0 Bonus ❌
-date: 1721335643
+description: W:11 L:0 D:0 Bonus ✅
+date: 1722335170
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1311 🔺  (108)|
-| ELO Competitive | 1337 🔺  (149)|
-| Total Matches | 10 |
-| Wins | 10 |
+| ELO Regular | 1317 🔺  (98)|
+| ELO Competitive | 1343 🔺  (142)|
+| Total Matches | 11 |
+| Wins | 11 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 10 |
-| Streak Record | 10 |
+| Streak | 11 |
+| Streak Record | 11 |
 
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/30 | 14-0 | [八月政府](https://ws.tsl.rocks/corp/72097ba1b36daa9482410e9d2b442965a1f4bbb7bb7974995521f1a948244424/) |
 | ✅ | 2024/07/18 | 14-4 | [Ironbear Legion](https://ws.tsl.rocks/corp/256873683be88bf78e3d4f1fda68e669c8be11e78a85f9add19e60facc9831b0/) |
 | ✅ | 2024/07/07 | 26-14 | [CDG](https://ws.tsl.rocks/corp/0372d45acdd50729ec92e18f0e973f382362ae554f8d15778250b493e887cce2/) |
 | ✅ | 2024/06/30 | 17-3 | [GhostNakcoorp](https://ws.tsl.rocks/corp/0a15ae22cdfbd88694d3067838a78bea07746ec95f3784b3f65d77fe47d76312/) |

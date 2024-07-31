@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​2ND-R8 Corp.
-description: W:20 L:14 D:0 Bonus ✅
-date: 1721816185
+description: W:21 L:14 D:0 Bonus ✅
+date: 1722421114
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1308 🔺  (112)|
-| ELO Competitive | 1360 🔺  (121)|
-| Total Matches | 34 |
-| Wins | 20 |
+| ELO Regular | 1318 🔺  (95)|
+| ELO Competitive | 1367 🔺  (114)|
+| Total Matches | 35 |
+| Wins | 21 |
 | Losses | 14 |
 | Draws | 0 |
-| Streak | 7 |
-| Streak Record | 7 |
+| Streak | 8 |
+| Streak Record | 8 |
 
 ### Recurring Opponents
 
@@ -28,6 +28,7 @@ date: 1721816185
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/31 | 26-0 | [M4\-Valhalla](https://ws.tsl.rocks/corp/40886172a1ee54e8b5cbd91b5bcf06cb4af03726ad8fe6aba585bde03d4b6bf1/) |
 | ✅ | 2024/07/24 | 16-14 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ✅ | 2024/07/16 | 10-3 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ✅ | 2024/07/10 | 25-1 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​101
-description: W:34 L:47 D:4 Bonus ❌
-date: 1721791845
+description: W:35 L:48 D:4 Bonus ✅
+date: 1722392870
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1140 🔻  (1021)|
-| ELO Competitive | 1391 🔻  (89)|
-| Total Matches | 85 |
-| Wins | 34 |
-| Losses | 47 |
+| ELO Regular | 1138 🔻  (1032)|
+| ELO Competitive | 1395 🔺  (88)|
+| Total Matches | 87 |
+| Wins | 35 |
+| Losses | 48 |
 | Draws | 4 |
 | Streak Record | 10 |
 
@@ -34,6 +34,8 @@ date: 1721791845
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/31 | 0-1 | [星海扬帆](https://ws.tsl.rocks/corp/9cf2d9a2c07a0b8030f9a8275f9ebd3973759c2b60bed95ccb9a3f152aa0b1e4/) |
+| ✅ | 2024/07/31 | 17-1 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
 | ↔️ | 2024/07/24 | 0-0 | [苏维埃联邦](https://ws.tsl.rocks/corp/4b067d39aa68bf846ec24a1af1a1038844cfa78699d1190f74a77b1745e148ac/) |
 | ❌ | 2024/07/24 | 17-22 | [AFronteiraFinal](https://ws.tsl.rocks/corp/f0c64a4babe1fb017902406f1f331c63129409bccfba868cadc10cf1d064b9d4/) |
 | ❌ | 2024/07/17 | 0-13 | [游徒之家](https://ws.tsl.rocks/corp/7ab5f6970c8703095b0589da6e5d648dc64a94ca6d901ef09d4949409b2c44b9/) |

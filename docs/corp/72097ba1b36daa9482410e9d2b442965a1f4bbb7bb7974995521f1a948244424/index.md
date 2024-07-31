@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​八月政府
-description: W:2 L:17 D:1 Bonus ❌
-date: 1721726638
+description: W:2 L:18 D:1 Bonus ❌
+date: 1722335170
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1069 🔻  (1136)|
-| ELO Competitive | 1101 🔻  (1144)|
-| Total Matches | 20 |
+| ELO Regular | 1063 🔻  (1147)|
+| ELO Competitive | 1095 🔻  (1152)|
+| Total Matches | 21 |
 | Wins | 2 |
-| Losses | 17 |
+| Losses | 18 |
 | Draws | 1 |
 
 
@@ -20,6 +20,7 @@ date: 1721726638
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/30 | 0-14 | [NoweUkladyII](https://ws.tsl.rocks/corp/9d1a50e524f7abc0623ab7e010875dfcce9e5682a06ebc4aee47e972d258493c/) |
 | ❌ | 2024/07/23 | 7-9 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ❌ | 2024/07/16 | 4-19 | [Quilliance](https://ws.tsl.rocks/corp/6a4f8febc4066842f85c0373a0d33b6501860f2cc4f61b64761d31ff472c28fe/) |
 | ❌ | 2024/07/04 | 3-33 | [R\-6 satalite](https://ws.tsl.rocks/corp/ce3450a529768e932b3aeb4c6f39b9295e6e07d010b209d0120c0125799adc43/) |

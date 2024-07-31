@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Armored Union 
-description: W:17 L:14 D:0 Bonus ❌
-date: 1721791845
+description: W:18 L:14 D:0 Bonus ✅
+date: 1722426933
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1217 🔻  (331)|
-| ELO Competitive | 1301 🔻  (203)|
-| Total Matches | 31 |
-| Wins | 17 |
+| ELO Regular | 1228 🔺  (283)|
+| ELO Competitive | 1313 🔺  (185)|
+| Total Matches | 32 |
+| Wins | 18 |
 | Losses | 14 |
 | Draws | 0 |
 | Streak Record | 3 |
@@ -28,6 +28,7 @@ date: 1721791845
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/31 | 17-2 | [империя тьмы](https://ws.tsl.rocks/corp/4eb22a1b793e5d03579cea15c873b1bef56fea02420a4e55edb18a200f7fc46a/) |
 | ❌ | 2024/07/24 | 0-7 | [神圣罗马帝国](https://ws.tsl.rocks/corp/2a71af44aaef82175cd8dfd86c9e3f218a438a7c7e748bae20d8a0d964a984ab/) |
 | ✅ | 2024/07/17 | 15-4 | [Novana Gaming](https://ws.tsl.rocks/corp/073bc5604115e6eb4df318ba3c7a80d782d26f83d70723c5f15b6453ce690a08/) |
 | ❌ | 2024/07/17 | 0-6 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |

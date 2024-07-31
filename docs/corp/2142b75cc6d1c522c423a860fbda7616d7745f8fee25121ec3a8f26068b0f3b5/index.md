@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​星舰国际
-description: W:4 L:2 D:0 Bonus ❌
-date: 1721734451
+description: W:4 L:2 D:1 Bonus ❌
+date: 1722345688
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔻  (337)|
-| ELO Competitive | 1238 🔻  (340)|
-| Total Matches | 6 |
+| ELO Regular | 1213 🔻  (381)|
+| ELO Competitive | 1237 🔻  (347)|
+| Total Matches | 7 |
 | Wins | 4 |
 | Losses | 2 |
-| Draws | 0 |
+| Draws | 1 |
 | Streak Record | 4 |
 
 
@@ -21,6 +21,7 @@ date: 1721734451
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/07/30 | 3-3 | [羽共和体](https://ws.tsl.rocks/corp/61b6e0502a087307a2ecf50e5d84f6123ad19984dc5790c997f16a676213aa7e/) |
 | ❌ | 2024/07/23 | 1-6 | [SEC](https://ws.tsl.rocks/corp/c36ee5a9ff1f148ada25e8402464cecd17ac847acf81dacd8ea25c29c8fd9bc1/) |
 | ❌ | 2024/07/22 | 0-10 | [碧霄殿](https://ws.tsl.rocks/corp/7e12fd0fd0a01af1c797f73316b305a21078e46bd75758850438f20357276ebf/) |
 | ✅ | 2024/07/17 | 5-3 | [欢迎国人](https://ws.tsl.rocks/corp/f32abd112fe2b826948a3538a51097b9114815930ec77ad11ada1b24ce34578d/) |

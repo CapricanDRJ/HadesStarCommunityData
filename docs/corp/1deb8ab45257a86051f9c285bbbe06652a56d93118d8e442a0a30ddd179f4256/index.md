@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​星际联盟（中国）
-description: W:7 L:9 D:1 Bonus ✅
-date: 1721822495
+description: W:8 L:9 D:1 Bonus ✅
+date: 1722299714
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1195 🔻  (489)|
-| ELO Competitive | 1225 🔺  (387)|
-| Total Matches | 17 |
-| Wins | 7 |
+| ELO Regular | 1213 🔺  (383)|
+| ELO Competitive | 1247 🔺  (313)|
+| Total Matches | 18 |
+| Wins | 8 |
 | Losses | 9 |
 | Draws | 1 |
 | Streak Record | 2 |
@@ -26,6 +26,7 @@ date: 1721822495
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/30 | 4-3 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
 | ❌ | 2024/07/24 | 0-19 | [StellaMysterium](https://ws.tsl.rocks/corp/cfaaa81ed93cc9361ade470c3414c73ecf77068badd68d624c7b3f486d142b10/) |
 | ✅ | 2024/07/24 | 13-3 | [逐光起航](https://ws.tsl.rocks/corp/e6bb076aa209101b5fa1cbc40a614c241d71ab5eca143c733b81aed6302455e8/) |
 | ✅ | 2024/06/18 | 21-0 | [lesescargots](https://ws.tsl.rocks/corp/718c873931e9097064fd6ef580fe9d8761be712e0783e0b97d28344abd910623/) |

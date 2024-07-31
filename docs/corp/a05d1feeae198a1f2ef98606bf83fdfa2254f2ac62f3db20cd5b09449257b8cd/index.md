@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​DarkSide
-description: W:28 L:34 D:1 Bonus ✅
-date: 1722082140
+description: W:28 L:35 D:1 Bonus ✅
+date: 1722299714
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1248 🔺  (217)|
-| ELO Competitive | 1405 🔺  (79)|
-| Total Matches | 63 |
+| ELO Regular | 1231 🔻  (270)|
+| ELO Competitive | 1405 🔺  (80)|
+| Total Matches | 64 |
 | Wins | 28 |
-| Losses | 34 |
+| Losses | 35 |
 | Draws | 1 |
 | Streak Record | 6 |
 
@@ -36,6 +36,7 @@ date: 1722082140
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/30 | 3-4 | [星际联盟（中国）](https://ws.tsl.rocks/corp/1deb8ab45257a86051f9c285bbbe06652a56d93118d8e442a0a30ddd179f4256/) |
 | ✅ | 2024/07/27 | 14-10 | [Halcon español](https://ws.tsl.rocks/corp/ab9c3038dcf2b019ba662007ab1e50b2d80e0eb8e7a65e57dd5260a6d2e80ff9/) |
 | ❌ | 2024/07/23 | 2-3 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 | ✅ | 2024/07/19 | 29-0 | [Dumpster Fire](https://ws.tsl.rocks/corp/f191bf7efb93ca805453b3e11aef9278976a4c70fe9790e7813f28fcdf899121/) |

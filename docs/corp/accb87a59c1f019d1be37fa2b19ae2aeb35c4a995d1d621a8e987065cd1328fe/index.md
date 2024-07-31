@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Alpha 
-description: W:7 L:27 D:0 Bonus ❌
-date: 1721893115
+description: W:7 L:28 D:0 Bonus ❌
+date: 1722412401
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1028 🔻  (1162)|
-| ELO Competitive | 1069 🔻  (1172)|
-| Total Matches | 34 |
+| ELO Regular | 1023 🔻  (1168)|
+| ELO Competitive | 1068 🔻  (1176)|
+| Total Matches | 35 |
 | Wins | 7 |
-| Losses | 27 |
+| Losses | 28 |
 | Draws | 0 |
 | Streak Record | 3 |
 
@@ -29,6 +29,7 @@ date: 1721893115
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/31 | 1-10 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ❌ | 2024/07/25 | 0-3 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) |
 | ❌ | 2024/07/14 | 2-27 | [萌新港\(大佬港\)](https://ws.tsl.rocks/corp/e6d9b9da7a037e3572cb594dfeba7b282b66509228c9f4f1b2138f873caa3cf3/) |
 | ❌ | 2024/07/04 | 1-21 | [绛紫星](https://ws.tsl.rocks/corp/8c2109279ceb01bcca0aa5e85c151d5877831ac54199285743750e2ed343b407/) |

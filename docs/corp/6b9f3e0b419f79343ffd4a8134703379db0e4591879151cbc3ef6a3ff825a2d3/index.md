@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Winged Pheonix
-description: W:3 L:9 D:0 Bonus ❌
-date: 1721877187
+description: W:4 L:9 D:0 Bonus ✅
+date: 1722338475
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1162 🔻  (932)|
-| ELO Competitive | 1185 🔻  (806)|
-| Total Matches | 12 |
-| Wins | 3 |
+| ELO Regular | 1166 🔺  (905)|
+| ELO Competitive | 1194 🔺  (585)|
+| Total Matches | 13 |
+| Wins | 4 |
 | Losses | 9 |
 | Draws | 0 |
 
@@ -19,12 +19,14 @@ date: 1721877187
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) | 2 | 0 | 0 | 2 |
 | [BrazilCorp\.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) | 0 | 2 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/30 | 47-3 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) |
 | ❌ | 2024/07/25 | 22-35 | [BrazilCorp\.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) |
 | ✅ | 2024/07/19 | 36-30 | [West Worlders](https://ws.tsl.rocks/corp/aad051ec6b980cc52fb4777aef113d9e28a72aab40fda65aa9cdbf477b8e390a/) |
 | ❌ | 2024/07/08 | 20-41 | [Hand Of NOD\! ](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) |

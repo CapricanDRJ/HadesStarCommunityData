@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Nebulae Traders
-description: W:4 L:15 D:2 Bonus ❌
-date: 1721774121
+description: W:5 L:16 D:2 Bonus ✅
+date: 1722334869
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1103 🔻  (1100)|
-| ELO Competitive | 1151 🔻  (1053)|
-| Total Matches | 21 |
-| Wins | 4 |
-| Losses | 15 |
+| ELO Regular | 1110 🔻  (1094)|
+| ELO Competitive | 1165 🔺  (1003)|
+| Total Matches | 23 |
+| Wins | 5 |
+| Losses | 16 |
 | Draws | 2 |
 | Streak Record | 2 |
 
@@ -26,6 +26,8 @@ date: 1721774121
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/30 | 0-19 | [RGW](https://ws.tsl.rocks/corp/48a0b2c0f203025d10d1217dbcc5e27f3e31f56f2c407d61219c24ec88446be7/) |
+| ✅ | 2024/07/30 | 16-13 | [普罗米修斯](https://ws.tsl.rocks/corp/f39d00b1bbbf87c158931fd887f37a588019d0b1fd4f2441fbc675674b71423a/) |
 | ❌ | 2024/07/23 | 1-9 | [MÉXICO INFINITO](https://ws.tsl.rocks/corp/a9fbdd48477b87a054dbd804eef12ae08bc6e02798cd8990b08c4a9803d8f9d8/) |
 | ❌ | 2024/07/22 | 0-14 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ❌ | 2024/07/18 | 3-26 | [TeddisaurusWrex](https://ws.tsl.rocks/corp/88f37fd0ab1f14c7e06af4173800167f8d1f5db4022c1cd42637da431140ef7a/) |

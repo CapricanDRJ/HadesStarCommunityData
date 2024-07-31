@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​lesescargots
-description: W:36 L:14 D:0 Bonus ✅
-date: 1721911166
+description: W:37 L:14 D:0 Bonus ✅
+date: 1722369734
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1298 🔺  (125)|
-| ELO Competitive | 1334 🔺  (154)|
-| Total Matches | 50 |
-| Wins | 36 |
+| ELO Regular | 1314 🔺  (99)|
+| ELO Competitive | 1351 🔺  (131)|
+| Total Matches | 51 |
+| Wins | 37 |
 | Losses | 14 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 14 |
 
 ### Recurring Opponents
@@ -28,6 +29,7 @@ date: 1721911166
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/30 | 11-0 | [BoomTech](https://ws.tsl.rocks/corp/97c4db179d3ea995d3a56227f87c501f4baa4abbece2b25e09b636f0aa264bd7/) |
 | ✅ | 2024/07/25 | 14-3 | [Bounty Hunters](https://ws.tsl.rocks/corp/d44b4a2b4a57fd50845c39abe5c6b0a38bab694941fed09d3ca164c1d78625ea/) |
 | ❌ | 2024/07/20 | 0-9 | [RUFORS](https://ws.tsl.rocks/corp/f1e7f82e284c8233985039ea19544dbfa937f38f2315e9ad6a1d037423071b6d/) |
 | ✅ | 2024/07/15 | 14-3 | [KARI](https://ws.tsl.rocks/corp/4434276aa1aebbe4c0a69ac51dff9c243c5287d00096e12c87e8590318a2ab65/) |

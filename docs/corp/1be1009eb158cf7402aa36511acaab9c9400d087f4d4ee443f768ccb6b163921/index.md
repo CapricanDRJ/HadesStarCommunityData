@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​红日初升，其道大光
-description: W:7 L:0 D:0 Bonus ✅
-date: 1722257940
+description: W:7 L:1 D:0 Bonus ✅
+date: 1722297011
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1288 🔺  (137)|
-| ELO Competitive | 1274 🔺  (258)|
-| Total Matches | 7 |
+| ELO Regular | 1271 🔻  (173)|
+| ELO Competitive | 1274 🔺  (259)|
+| Total Matches | 8 |
 | Wins | 7 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 0 |
-| Streak | 7 |
 | Streak Record | 7 |
 
 
@@ -22,6 +21,7 @@ date: 1722257940
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/29 | 2-8 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) |
 | ✅ | 2024/07/29 | 13-3 | [神圣罗马帝国](https://ws.tsl.rocks/corp/2a71af44aaef82175cd8dfd86c9e3f218a438a7c7e748bae20d8a0d964a984ab/) |
 | ✅ | 2024/07/24 | 2-0 | [超新星联盟](https://ws.tsl.rocks/corp/c3667794c88fd0a09f565dc3b4fed5325f131a616d01d0f6890755b44997d0a1/) |
 | ✅ | 2024/07/24 | 18-3 | [Minutemen](https://ws.tsl.rocks/corp/9c909737404c072239b33c57ec002c06c45552ec1b97fe1d07eb95090e2346a8/) |

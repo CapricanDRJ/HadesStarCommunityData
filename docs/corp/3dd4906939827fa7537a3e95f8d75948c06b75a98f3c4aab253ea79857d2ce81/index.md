@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Death Star llc.
-description: W:40 L:8 D:1 Bonus ❌
-date: 1721719126
+description: W:41 L:8 D:1 Bonus ✅
+date: 1722299714
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1461 🔻  (16)|
-| ELO Competitive | 1485 🔻  (30)|
-| Total Matches | 49 |
-| Wins | 40 |
+| ELO Regular | 1468 🔺  (14)|
+| ELO Competitive | 1497 🔺  (25)|
+| Total Matches | 50 |
+| Wins | 41 |
 | Losses | 8 |
 | Draws | 1 |
 | Streak Record | 20 |
@@ -20,7 +20,7 @@ date: 1721719126
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
-| [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) | 2 | 0 | 0 | 2 |
+| [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) | 3 | 0 | 0 | 3 |
 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) | 3 | 0 | 0 | 3 |
 | [Альянс](https://ws.tsl.rocks/corp/a7d0478626828d7428aeeb5115f68e790f7e4c8a7f917812ec2241178e1c3f50/) | 1 | 1 | 0 | 2 |
 | [Black Star llc\.](https://ws.tsl.rocks/corp/f6cd5aed527efed3a402f931784d68b5b7201b317118a60bd3d81b551ee87330/) | 2 | 1 | 0 | 3 |
@@ -30,6 +30,7 @@ date: 1721719126
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/30 | 25-4 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) |
 | ❌ | 2024/07/23 | 5-17 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) |
 | ✅ | 2024/07/17 | 19-1 | [揽月宫](https://ws.tsl.rocks/corp/16a4fe26591408a3f2128646e96c5ec1f82feb35f1f9743aebd2dae05095d2ed/) |
 | ✅ | 2024/07/09 | 21-0 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) |

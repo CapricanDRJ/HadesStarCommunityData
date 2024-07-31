@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​OPA
-description: W:26 L:10 D:0 Bonus ❌
-date: 1721736254
+description: W:27 L:10 D:0 Bonus ✅
+date: 1722365526
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1342 🔻  (73)|
-| ELO Competitive | 1369 🔻  (110)|
-| Total Matches | 36 |
-| Wins | 26 |
+| ELO Regular | 1347 🔺  (68)|
+| ELO Competitive | 1373 🔺  (106)|
+| Total Matches | 37 |
+| Wins | 27 |
 | Losses | 10 |
 | Draws | 0 |
 | Streak Record | 9 |
@@ -31,6 +31,7 @@ date: 1721736254
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/30 | 44-7 | [Держава Русь](https://ws.tsl.rocks/corp/cbf11e25cee65a6c529251b7f47a35d9e4ba7bb9d640f384605541637e931672/) |
 | ❌ | 2024/07/23 | 25-40 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | ❌ | 2024/07/09 | 12-33 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ❌ | 2024/07/03 | 5-30 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) |

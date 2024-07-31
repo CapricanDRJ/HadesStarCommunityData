@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Moon Catchers
-description: W:13 L:16 D:1 Bonus ❌
-date: 1721267416
+description: W:13 L:17 D:1 Bonus ❌
+date: 1722285594
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 🔻  (910)|
-| ELO Competitive | 1204 🔻  (511)|
-| Total Matches | 30 |
+| ELO Regular | 1150 🔻  (993)|
+| ELO Competitive | 1188 🔻  (665)|
+| Total Matches | 31 |
 | Wins | 13 |
-| Losses | 16 |
+| Losses | 17 |
 | Draws | 1 |
 | Streak Record | 5 |
 
@@ -26,6 +26,7 @@ date: 1721267416
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/29 | 2-18 | [Торг\. федерация](https://ws.tsl.rocks/corp/915f197e5951f44128c2a3d3126141cd44b3c67a361158d2b220a5883e410310/) |
 | ❌ | 2024/07/18 | 1-13 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) |
 | ✅ | 2024/06/24 | 13-1 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
 | ❌ | 2024/06/07 | 11-36 | [Space Marshalls](https://ws.tsl.rocks/corp/6a41cc36abf3a28a1c26bc22843f1892d6938e8eb1e8f8a10fd9e6e964e06c2c/) |

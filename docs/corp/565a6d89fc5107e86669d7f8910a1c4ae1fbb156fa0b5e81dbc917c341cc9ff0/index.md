@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​落雨观花
-description: W:4 L:2 D:0 Bonus ✅
-date: 1722218877
+description: W:4 L:3 D:0 Bonus ❌
+date: 1722326457
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1225 🔻  (300)|
-| ELO Competitive | 1245 🔻  (320)|
-| Total Matches | 6 |
+| ELO Regular | 1211 🔻  (393)|
+| ELO Competitive | 1245 🔻  (324)|
+| Total Matches | 7 |
 | Wins | 4 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 | Streak Record | 4 |
 
@@ -21,6 +21,7 @@ date: 1722218877
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/30 | 0-9 | [Czech Legion](https://ws.tsl.rocks/corp/b4453b41cf7b1c019648ed14db493a47c8a64347e689013b2c969bf97e251ec8/) |
 | ❌ | 2024/07/29 | 3-13 | [资助会](https://ws.tsl.rocks/corp/4d36e1b3853444f7789e6142230ba93f3968baffc18bfad598c3d450c6b247e2/) |
 | ❌ | 2024/07/25 | 8-20 | [萌新的收留所](https://ws.tsl.rocks/corp/1dd3f70c959e32c27cb4c010162be3799b7c0732115d5c2b7ca5979f48b10f7f/) |
 | ✅ | 2024/07/23 | 6-4 | [sk cz nebula](https://ws.tsl.rocks/corp/6ed29f74bee91a7aad75a64196918993de6cec070ce8c65d1132ed6b0e79005d/) |

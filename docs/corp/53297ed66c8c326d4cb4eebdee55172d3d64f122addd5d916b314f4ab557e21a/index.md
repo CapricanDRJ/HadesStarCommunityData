@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Ninth Planet
-description: W:38 L:4 D:0 Bonus ✅
-date: 1721683374
+description: W:38 L:4 D:1 Bonus ❌
+date: 1722311732
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1487 🔺  (7)|
-| ELO Competitive | 1520 🔺  (15)|
-| Total Matches | 42 |
+| ELO Regular | 1478 🔻  (11)|
+| ELO Competitive | 1512 🔻  (17)|
+| Total Matches | 43 |
 | Wins | 38 |
 | Losses | 4 |
-| Draws | 0 |
-| Streak | 12 |
+| Draws | 1 |
 | Streak Record | 24 |
 
 ### Recurring Opponents
@@ -28,6 +27,7 @@ date: 1721683374
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/07/30 | 14-14 | [United Stars ](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) |
 | ✅ | 2024/07/22 | 40-3 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) |
 | ✅ | 2024/07/15 | 10-8 | [Wompwompway ](https://ws.tsl.rocks/corp/f7c3d7f512c4de3883e63b1a5771ab3ef3938054f98711e933bc7dd064fb8363/) |
 | ✅ | 2024/07/09 | 20-0 | [DarkMoon](https://ws.tsl.rocks/corp/90066f3df9499804310418b33334c0ae72f144b5592c4863ac52d2b2eace302a/) |

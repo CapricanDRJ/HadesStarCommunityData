@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​AFronteiraFinal
-description: W:20 L:6 D:1 Bonus ✅
+description: W:20 L:6 D:1 Bonus ❌
 date: 1721781931
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1384 🔺  (46)|
-| ELO Competitive | 1409 🔺  (77)|
+| ELO Regular | 1384 🔺  (47)|
+| ELO Competitive | 1409 🔺  (78)|
 | Total Matches | 27 |
 | Wins | 20 |
 | Losses | 6 |

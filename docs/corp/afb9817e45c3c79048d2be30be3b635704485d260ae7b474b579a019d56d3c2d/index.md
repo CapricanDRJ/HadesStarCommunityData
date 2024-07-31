@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​宇宙银河帝国
-description: W:21 L:12 D:2 Bonus ✅
-date: 1721874784
+description: W:21 L:12 D:3 Bonus ✅
+date: 1722307225
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1307 🔺  (115)|
-| ELO Competitive | 1373 🔺  (106)|
-| Total Matches | 35 |
+| ELO Regular | 1307 🔺  (116)|
+| ELO Competitive | 1378 🔺  (103)|
+| Total Matches | 36 |
 | Wins | 21 |
 | Losses | 12 |
-| Draws | 2 |
-| Streak | 5 |
+| Draws | 3 |
 | Streak Record | 5 |
 
 ### Recurring Opponents
@@ -28,6 +27,7 @@ date: 1721874784
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/07/30 | 8-8 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |
 | ✅ | 2024/07/25 | 24-9 | [萌新港\(大佬港\)](https://ws.tsl.rocks/corp/e6d9b9da7a037e3572cb594dfeba7b282b66509228c9f4f1b2138f873caa3cf3/) |
 | ✅ | 2024/07/19 | 8-5 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |
 | ✅ | 2024/07/18 | 19-3 | [Bunker](https://ws.tsl.rocks/corp/583eeb4aaa577ce5d9806fc637f83d7c02b2a29fa2d47eb38fd658be8ef93588/) |

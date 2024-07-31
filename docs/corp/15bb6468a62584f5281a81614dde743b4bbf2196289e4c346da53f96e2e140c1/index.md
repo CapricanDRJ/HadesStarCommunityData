@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​Слава Украине!
-description: W:49 L:27 D:0 Bonus ✅
-date: 1721974252
+description: W:51 L:27 D:0 Bonus ✅
+date: 1722414204
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1342 🔻  (74)|
-| ELO Competitive | 1576 🔺  (4)|
-| Total Matches | 76 |
-| Wins | 49 |
+| ELO Regular | 1358 🔺  (59)|
+| ELO Competitive | 1586 🔺  (3)|
+| Total Matches | 78 |
+| Wins | 51 |
 | Losses | 27 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 12 |
 
 ### Recurring Opponents
@@ -33,6 +34,8 @@ date: 1721974252
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/31 | 45-3 | [Axiom](https://ws.tsl.rocks/corp/4000a010c205d318c766ba14fe1836eaab6652f1738a88cce8a8c69d0283e1b0/) |
+| ✅ | 2024/07/31 | 10-1 | [Alpha ](https://ws.tsl.rocks/corp/accb87a59c1f019d1be37fa2b19ae2aeb35c4a995d1d621a8e987065cd1328fe/) |
 | ❌ | 2024/07/26 | 6-15 | [TeddisaurusWrex](https://ws.tsl.rocks/corp/88f37fd0ab1f14c7e06af4173800167f8d1f5db4022c1cd42637da431140ef7a/) |
 | ✅ | 2024/07/25 | 45-15 | [ZION](https://ws.tsl.rocks/corp/99ac8e5c0f22878b9a4458953d0c712ada17ef36ae195ccf39c7921dc996adfe/) |
 | ❌ | 2024/07/20 | 1-29 | [Unión latina](https://ws.tsl.rocks/corp/9919a50d277644f496c19d5becdf40abb251d000345f049632329f0b35b7fbf1/) |

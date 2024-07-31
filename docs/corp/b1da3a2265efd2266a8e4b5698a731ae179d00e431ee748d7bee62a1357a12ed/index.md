@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​＊Alfa y Omega＊
-description: W:8 L:4 D:0 Bonus ✅
-date: 1721884100
+description: W:9 L:4 D:0 Bonus ✅
+date: 1722389866
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1267 🔻  (181)|
-| ELO Competitive | 1292 🔺  (216)|
-| Total Matches | 12 |
-| Wins | 8 |
+| ELO Regular | 1281 🔺  (155)|
+| ELO Competitive | 1311 🔺  (188)|
+| Total Matches | 13 |
+| Wins | 9 |
 | Losses | 4 |
 | Draws | 0 |
 | Streak Record | 5 |
@@ -26,6 +26,7 @@ date: 1721884100
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/31 | 23-3 | [Bunker](https://ws.tsl.rocks/corp/583eeb4aaa577ce5d9806fc637f83d7c02b2a29fa2d47eb38fd658be8ef93588/) |
 | ❌ | 2024/07/25 | 1-10 | [萌新的收留所](https://ws.tsl.rocks/corp/1dd3f70c959e32c27cb4c010162be3799b7c0732115d5c2b7ca5979f48b10f7f/) |
 | ✅ | 2024/07/25 | 18-3 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |
 | ✅ | 2024/07/20 | 16-5 | [Pixies](https://ws.tsl.rocks/corp/fe3875cc3bc7cd97ee3d418bb35d69d8ec90da355cbec2dfb7a364387e021240/) |

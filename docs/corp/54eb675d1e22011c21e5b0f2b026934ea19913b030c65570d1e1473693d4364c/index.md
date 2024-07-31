@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​墨痕空域
-description: W:31 L:16 D:0 Bonus ✅
-date: 1722256438
+description: W:32 L:16 D:0 Bonus ✅
+date: 1722303620
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1276 🔺  (163)|
+| ELO Regular | 1288 🔺  (137)|
 | ELO Competitive | 1473 🔺  (37)|
-| Total Matches | 47 |
-| Wins | 31 |
+| Total Matches | 48 |
+| Wins | 32 |
 | Losses | 16 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 7 |
 
 ### Recurring Opponents
@@ -29,6 +30,7 @@ date: 1722256438
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/30 | 8-0 | [LEGION](https://ws.tsl.rocks/corp/37b2cdf6d561f31f8bd34ad22c3823514d2dfac06e8c80d47a19e9551a040f0e/) |
 | ✅ | 2024/07/29 | 15-14 | [神圣罗马帝国](https://ws.tsl.rocks/corp/2a71af44aaef82175cd8dfd86c9e3f218a438a7c7e748bae20d8a0d964a984ab/) |
 | ❌ | 2024/07/24 | 2-8 | [ItaFederalFleet](https://ws.tsl.rocks/corp/02f7ac2b406e46cbb3e1f7fa3a0fb0dc2c32f9bc8afc54c299cd54757463ddbe/) |
 | ✅ | 2024/07/24 | 17-3 | [超新星联盟](https://ws.tsl.rocks/corp/c3667794c88fd0a09f565dc3b4fed5325f131a616d01d0f6890755b44997d0a1/) |

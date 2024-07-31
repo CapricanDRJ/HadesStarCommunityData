@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​FAIR
-description: W:0 L:1 D:1 Bonus ❌
-date: 1710716059
+description: W:0 L:2 D:1 Bonus ❌
+date: 1722286796
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔺  (565)|
-| ELO Competitive | 1191 🔺  (613)|
-| Total Matches | 2 |
+| ELO Regular | 1179 🔻  (770)|
+| ELO Competitive | 1184 🔻  (833)|
+| Total Matches | 3 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 1 |
 
 
@@ -20,6 +20,7 @@ date: 1710716059
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/29 | 3-28 | [Stone Legion](https://ws.tsl.rocks/corp/60cd15c27192f777f2e4abc413a83d4ab33bbccd7764a387afd2347dcd3d751a/) |
 | ↔️ | 2024/03/17 | 7-7 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ❌ | 2023/11/09 | 5-15 | [Corporation](https://ws.tsl.rocks/corp/51bbfdd5693e8227e63dbd5161e8fb1a5fa3e93d1f67c7d565d82f080bbeb007/) |
 
