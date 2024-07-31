@@ -1,24 +1,25 @@
 ---
 layout: page
 title: ​BlackDawn
-description: W:1 L:14 D:5 Bonus ❌
-date: 1721932787
+description: W:1 L:15 D:5 Bonus ❌
+date: 1722439946
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1045 🔻  (1155)|
-| ELO Competitive | 1061 🔻  (1179)|
-| Total Matches | 20 |
+| ELO Regular | 1037 🔻  (1158)|
+| ELO Competitive | 1056 🔻  (1181)|
+| Total Matches | 21 |
 | Wins | 1 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 5 |
 
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Armored Union ](https://ws.tsl.rocks/corp/4dacc02ca314ab864578421db538b0eb10b0c8c81dc0edd91c5090717d087c7f/) | 0 | 2 | 0 | 2 |
 | [避难所](https://ws.tsl.rocks/corp/e2cec33caaaef7f020ed5fb31cb29a2804d8b5ab3a781ab69b08fadac88f7102/) | 0 | 2 | 0 | 2 |
 | [四季长春](https://ws.tsl.rocks/corp/cf0b11914dc18d8e669592ecfe191f115c4e5fdba09d130d260bb625b36a3179/) | 0 | 0 | 2 | 2 |
 | [第四星际](https://ws.tsl.rocks/corp/42d38d5f95c493cb1822f0c89a5366e532a9dc30c0019e03cf7ddd280bf55040/) | 0 | 2 | 0 | 2 |
@@ -27,6 +28,7 @@ date: 1721932787
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/31 | 0-1 | [Armored Union ](https://ws.tsl.rocks/corp/4dacc02ca314ab864578421db538b0eb10b0c8c81dc0edd91c5090717d087c7f/) |
 | ❌ | 2024/07/25 | 0-2 | [Splendid](https://ws.tsl.rocks/corp/8d0fd2cb62785c9876643edf419b241f0f86e339052e5d3e4fab40b0416828dd/) |
 | ↔️ | 2024/07/16 | 0-0 | [Alpha to Omega](https://ws.tsl.rocks/corp/2b3694014264240c8c0d1bb6a20e9d120dff2b6680c98b4e06e34bfd489f9da6/) |
 | ❌ | 2024/07/11 | 0-3 | [SiriusStrawMoo](https://ws.tsl.rocks/corp/c83a5744ea256d2c1fa59660bc0e18e8d01a2a467bc13fec27a8b30f689e220b/) |

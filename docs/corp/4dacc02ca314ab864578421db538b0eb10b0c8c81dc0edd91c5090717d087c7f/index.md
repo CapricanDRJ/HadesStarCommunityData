@@ -1,25 +1,27 @@
 ---
 layout: page
 title: ​Armored Union 
-description: W:18 L:14 D:0 Bonus ✅
-date: 1722426933
+description: W:19 L:14 D:0 Bonus ✅
+date: 1722439946
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1228 🔺  (283)|
+| ELO Regular | 1236 🔺  (255)|
 | ELO Competitive | 1313 🔺  (185)|
-| Total Matches | 32 |
-| Wins | 18 |
+| Total Matches | 33 |
+| Wins | 19 |
 | Losses | 14 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 3 |
 
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) | 2 | 0 | 0 | 2 |
 | [Star Fleet](https://ws.tsl.rocks/corp/b50e0529c2b2e86bae23d0fb4cbcdc4bff7615c45efb95150747a89dd3ea0231/) | 1 | 1 | 0 | 2 |
 | [CIS](https://ws.tsl.rocks/corp/3efaab24560531ff257e73bfb281a7e9c0a9d591ac5aff55d05d35f2fb5e1d73/) | 1 | 1 | 0 | 2 |
 | [Star Field](https://ws.tsl.rocks/corp/7160932eb85654ce07649c2689bb5b3e5abcbe84175203e4668b2247c11ffb97/) | 1 | 1 | 0 | 2 |
@@ -28,6 +30,7 @@ date: 1722426933
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/31 | 1-0 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) |
 | ✅ | 2024/07/31 | 17-2 | [империя тьмы](https://ws.tsl.rocks/corp/4eb22a1b793e5d03579cea15c873b1bef56fea02420a4e55edb18a200f7fc46a/) |
 | ❌ | 2024/07/24 | 0-7 | [神圣罗马帝国](https://ws.tsl.rocks/corp/2a71af44aaef82175cd8dfd86c9e3f218a438a7c7e748bae20d8a0d964a984ab/) |
 | ✅ | 2024/07/17 | 15-4 | [Novana Gaming](https://ws.tsl.rocks/corp/073bc5604115e6eb4df318ba3c7a80d782d26f83d70723c5f15b6453ce690a08/) |
