@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​The Allegiant
-description: W:17 L:8 D:0 Bonus ✅
+description: W:17 L:8 D:0 Bonus ❌
 date: 1721842487
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

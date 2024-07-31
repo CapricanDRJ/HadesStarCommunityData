@@ -1,27 +1,33 @@
 ---
 layout: page
 title: ​Justice Vengers
-description: W:12 L:2 D:0 Bonus ✅
-date: 1721995289
+description: W:13 L:2 D:0 Bonus ✅
+date: 1722456578
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1327 🔺  (83)|
-| ELO Competitive | 1361 🔺  (121)|
-| Total Matches | 14 |
-| Wins | 12 |
+| ELO Regular | 1338 🔺  (77)|
+| ELO Competitive | 1372 🔺  (109)|
+| Total Matches | 15 |
+| Wins | 13 |
 | Losses | 2 |
 | Draws | 0 |
-| Streak | 8 |
-| Streak Record | 8 |
+| Streak | 9 |
+| Streak Record | 9 |
 
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) | 2 | 0 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/31 | 23-4 | [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) |
 | ✅ | 2024/07/26 | 20-11 | [Duchy Kalladan](https://ws.tsl.rocks/corp/59ce0b129bf10b8e56adb00f3c4b695604cf2e850fb43132ede36fe7c9e6fb80/) |
 | ✅ | 2024/07/21 | 17-13 | [Retarts](https://ws.tsl.rocks/corp/1556331f722d00268e3c524b12efedac51051cf48e46b2513675774b9315a155/) |
 | ✅ | 2024/07/16 | 18-2 | [U\.S\.A](https://ws.tsl.rocks/corp/6d7a18e9893736881762a4e1b687b55e7311d367267ff5a9cc8e45722b14ea06/) |

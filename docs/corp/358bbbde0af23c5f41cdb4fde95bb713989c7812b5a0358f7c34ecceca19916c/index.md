@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Cyber Star
-description: W:24 L:10 D:0 Bonus ❌
-date: 1721957726
+description: W:25 L:10 D:0 Bonus ✅
+date: 1722459283
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1356 🔻  (61)|
-| ELO Competitive | 1390 🔻  (90)|
-| Total Matches | 34 |
-| Wins | 24 |
+| ELO Regular | 1363 🔺  (58)|
+| ELO Competitive | 1404 🔺  (81)|
+| Total Matches | 35 |
+| Wins | 25 |
 | Losses | 10 |
 | Draws | 0 |
 | Streak Record | 7 |
@@ -26,6 +26,7 @@ date: 1721957726
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/31 | 17-5 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
 | ❌ | 2024/07/26 | 8-17 | [StellarCorpIT](https://ws.tsl.rocks/corp/7a04d23f7e63879df1e854aaa391473a3a177095a387f75fff1ba98d61d6091f/) |
 | ✅ | 2024/07/18 | 9-4 | [ЧВК "Котики"](https://ws.tsl.rocks/corp/b770b833fe257bc6accd1bbe82a887971291dd0038f8aa627a47f3ce063265c0/) |
 | ❌ | 2024/07/11 | 9-18 | [Галактика Зла](https://ws.tsl.rocks/corp/1495d852070d8182229d3cb26e828265d4525a9ef97a9b377415b803b01d6101/) |

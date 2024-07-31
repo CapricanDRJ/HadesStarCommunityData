@@ -1,26 +1,32 @@
 ---
 layout: page
 title: ​SILVER TERRA
-description: W:9 L:8 D:0 Bonus ❌
-date: 1721874184
+description: W:9 L:9 D:0 Bonus ❌
+date: 1722456578
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1232 🔻  (266)|
-| ELO Competitive | 1251 🔻  (304)|
-| Total Matches | 17 |
+| ELO Regular | 1221 🔻  (311)|
+| ELO Competitive | 1241 🔻  (333)|
+| Total Matches | 18 |
 | Wins | 9 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 0 |
 | Streak Record | 3 |
 
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) | 0 | 2 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/31 | 4-23 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) |
 | ❌ | 2024/07/25 | 2-4 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |
 | ✅ | 2024/07/15 | 13-0 | [1st/Ave/Junkie2](https://ws.tsl.rocks/corp/b129b678cd83374fa72b5da92172ff1c856b8f72c32bcdb4711d66d06528fca1/) |
 | ❌ | 2024/07/10 | 1-30 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) |
