@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​UAGC
-description: W:22 L:16 D:0 Bonus ❌
-date: 1721790944
+description: W:22 L:17 D:0 Bonus ❌
+date: 1722446661
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1256 🔺  (203)|
-| ELO Competitive | 1345 🔺  (138)|
-| Total Matches | 38 |
+| ELO Regular | 1242 🔻  (235)|
+| ELO Competitive | 1334 🔻  (155)|
+| Total Matches | 39 |
 | Wins | 22 |
-| Losses | 16 |
+| Losses | 17 |
 | Draws | 0 |
 | Streak Record | 5 |
 
@@ -20,6 +20,7 @@ date: 1721790944
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Spacefleet](https://ws.tsl.rocks/corp/517f7b257f68936f7a95a478d6923776a2549b88897bae628fd35b23572d3cbd/) | 0 | 2 | 0 | 2 |
 | [붉은늑대](https://ws.tsl.rocks/corp/43d32b05645aaa9415d1c04ecbcea520d2ed5b90304770cb0ab3813cb86e2f49/) | 2 | 0 | 0 | 2 |
 | [Deadspace](https://ws.tsl.rocks/corp/45fc2bf2d1b40361071590e427fa47116d4e5e063064d17ed9933bbd61f04369/) | 2 | 0 | 0 | 2 |
 | [Stargate Corp](https://ws.tsl.rocks/corp/b698cd0d86be60954a4b995f79fffe102a71c350e47fbdc2a5827f0ed0ca455d/) | 1 | 2 | 0 | 3 |
@@ -34,6 +35,7 @@ date: 1721790944
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/31 | 3-32 | [Spacefleet](https://ws.tsl.rocks/corp/517f7b257f68936f7a95a478d6923776a2549b88897bae628fd35b23572d3cbd/) |
 | ✅ | 2024/07/24 | 44-0 | [붉은늑대](https://ws.tsl.rocks/corp/43d32b05645aaa9415d1c04ecbcea520d2ed5b90304770cb0ab3813cb86e2f49/) |
 | ❌ | 2024/07/19 | 0-58 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | ✅ | 2024/07/16 | 50-12 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) |

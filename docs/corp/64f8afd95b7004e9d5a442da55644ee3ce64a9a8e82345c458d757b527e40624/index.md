@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​佛矿寺
-description: W:8 L:35 D:0 Bonus ❌
-date: 1720846356
+description: W:8 L:35 D:1 Bonus ❌
+date: 1722446318
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 997 🔻  (1181)|
-| ELO Competitive | 1027 🔻  (1187)|
-| Total Matches | 43 |
+| ELO Regular | 998 🔺  (1179)|
+| ELO Competitive | 1028 🔺  (1187)|
+| Total Matches | 44 |
 | Wins | 8 |
 | Losses | 35 |
-| Draws | 0 |
+| Draws | 1 |
 | Streak Record | 2 |
 
 ### Recurring Opponents
@@ -29,6 +29,7 @@ date: 1720846356
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/07/31 | 3-3 | [Axioma](https://ws.tsl.rocks/corp/2ec904c87d0183a49e22dc53508fa5c75d6e638e3a152a30336831697c60e91e/) |
 | ❌ | 2024/07/13 | 4-10 | [神圣罗马帝国](https://ws.tsl.rocks/corp/2a71af44aaef82175cd8dfd86c9e3f218a438a7c7e748bae20d8a0d964a984ab/) |
 | ❌ | 2024/07/07 | 3-10 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ✅ | 2024/07/01 | 3-0 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |

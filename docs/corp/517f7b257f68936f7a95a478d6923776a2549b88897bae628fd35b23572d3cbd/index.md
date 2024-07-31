@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Spacefleet
-description: W:33 L:21 D:0 Bonus ❌
-date: 1722266657
+description: W:34 L:21 D:0 Bonus ✅
+date: 1722446661
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1279 🔻  (158)|
-| ELO Competitive | 1423 🔻  (71)|
-| Total Matches | 54 |
-| Wins | 33 |
+| ELO Regular | 1293 🔺  (133)|
+| ELO Competitive | 1435 🔺  (63)|
+| Total Matches | 55 |
+| Wins | 34 |
 | Losses | 21 |
 | Draws | 0 |
 | Streak Record | 8 |
@@ -20,6 +20,7 @@ date: 1722266657
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) | 2 | 0 | 0 | 2 |
 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) | 2 | 1 | 0 | 3 |
 | [EZCO](https://ws.tsl.rocks/corp/cfad990cabcdc1326c0aa3f93a57d1f0e6ec3cd2949e01e6b08443c3af8282f1/) | 1 | 1 | 0 | 2 |
 | [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) | 1 | 2 | 0 | 3 |
@@ -37,6 +38,7 @@ date: 1722266657
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/31 | 32-3 | [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) |
 | ❌ | 2024/07/29 | 0-92 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) |
 | ❌ | 2024/07/26 | 12-21 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) |
 | ❌ | 2024/07/23 | 4-56 | [Auscorp ](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) |

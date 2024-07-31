@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​Axioma
-description: W:10 L:26 D:1 Bonus ❌
-date: 1721999798
+description: W:10 L:26 D:2 Bonus ❌
+date: 1722446318
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1016 🔻  (1174)|
-| ELO Competitive | 1062 🔻  (1178)|
-| Total Matches | 37 |
+| ELO Regular | 1015 🔻  (1174)|
+| ELO Competitive | 1061 🔻  (1178)|
+| Total Matches | 38 |
 | Wins | 10 |
 | Losses | 26 |
-| Draws | 1 |
+| Draws | 2 |
 | Streak Record | 5 |
 
 ### Recurring Opponents
@@ -28,6 +28,7 @@ date: 1721999798
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/07/31 | 3-3 | [佛矿寺](https://ws.tsl.rocks/corp/64f8afd95b7004e9d5a442da55644ee3ce64a9a8e82345c458d757b527e40624/) |
 | ❌ | 2024/07/26 | 1-5 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
 | ❌ | 2024/07/21 | 2-15 | [lost souls](https://ws.tsl.rocks/corp/64cf1f6ce9001bcd1d03fd1aaecafc1b7d88cd36316892a52a1b19d5e85bd793/) |
 | ❌ | 2024/07/15 | 3-15 | [империя тьмы](https://ws.tsl.rocks/corp/4eb22a1b793e5d03579cea15c873b1bef56fea02420a4e55edb18a200f7fc46a/) |
