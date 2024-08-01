@@ -64,3 +64,89 @@ Corporation ID: c7d71837164a41f0f3a49a6fa7a0c6d70a01f245de86b3783940bba2632a8804
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>
+
+# Dynamic Bar Chart Example
+
+This example dynamically creates a bar chart based on Unix timestamps using Chart.js loaded from a CDN.
+
+<!-- Load Chart.js from jsDelivr CDN -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.0.1"></script>
+
+<!-- Create a canvas element where the chart will be rendered -->
+<canvas id="myChart" width="400" height="200"></canvas>
+
+<!-- JavaScript code to render the bar chart -->
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        // Ensure scanTime is an array; if empty, handle accordingly
+        let timestamps = [1712581190,1712037321,1711479629,1710930361,1710491969,1710051791,1709604993,1708773552,1707750354,1707317141,1706882134,1706448856,1706015216,1705582469,1705146729,1704714293,1704270133,1703835286,1703361670,1702912176,1702479397,1702014744,1701447021,1701014842,1700582646,1700143848,1699609056];
+
+        if (timestamps.length === 0) {
+            // Handle empty data case, e.g., display a message
+            document.getElementById('myChart').style.display = 'none';
+            const message = document.createElement('p');
+            message.textContent = 'No data available to display the chart.';
+            document.body.appendChild(message);
+            return;
+        }
+
+        // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
+        function getDayOfWeek(timestamp) {
+            return new Date(timestamp * 1000).getDay();
+        }
+
+        // Initialize an array to count occurrences for each day of the week
+        let dayCounts = [0, 0, 0, 0, 0, 0, 0];
+
+        // Populate the dayCounts array based on the scanTime data
+        timestamps.forEach(ts => {
+            let dayOfWeek = getDayOfWeek(ts);
+            dayCounts[dayOfWeek]++;
+        });
+
+        // Chart.js configuration for the bar chart
+        const data = {
+            labels: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
+            datasets: [{
+                label: 'Events by Day of the Week',
+                data: dayCounts,
+                backgroundColor: [
+                    'rgba(255, 99, 132, 0.2)',
+                    'rgba(54, 162, 235, 0.2)',
+                    'rgba(255, 206, 86, 0.2)',
+                    'rgba(75, 192, 192, 0.2)',
+                    'rgba(153, 102, 255, 0.2)',
+                    'rgba(255, 159, 64, 0.2)',
+                    'rgba(255, 99, 132, 0.2)'
+                ],
+                borderColor: [
+                    'rgba(255, 99, 132, 1)',
+                    'rgba(54, 162, 235, 1)',
+                    'rgba(255, 206, 86, 1)',
+                    'rgba(75, 192, 192, 1)',
+                    'rgba(153, 102, 255, 1)',
+                    'rgba(255, 159, 64, 1)',
+                    'rgba(255, 99, 132, 1)'
+                ],
+                borderWidth: 1
+            }]
+        };
+
+        const config = {
+            type: 'bar',
+            data: data,
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        };
+
+        // Render the chart
+        const ctx = document.getElementById('myChart').getContext('2d');
+        const myChart = new Chart(ctx, config);
+    });
+</script>
+    
