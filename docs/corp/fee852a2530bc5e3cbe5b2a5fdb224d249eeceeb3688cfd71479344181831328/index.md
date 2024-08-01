@@ -9,7 +9,7 @@ date: 1722429229
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1301 🔺  (124)|
-| ELO Competitive | 1399 🔺  (84)|
+| ELO Competitive | 1399 🔺  (85)|
 | Total Matches | 46 |
 | Wins | 28 |
 | Losses | 17 |
@@ -86,9 +86,9 @@ Corporation ID: fee852a2530bc5e3cbe5b2a5fdb224d249eeceeb3688cfd71479344181831328
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>
 
-# Corporation Whitestar match day frequency
+# Whitestar Match Day
 
-This chart shows the frequency of days of the week when whitestars were found.
+This chart shows the frequency of days of the week when whitestars were matched.
 
 <!-- Load Chart.js from jsDelivr CDN -->
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.0.1"></script>
@@ -108,7 +108,7 @@ This chart shows the frequency of days of the week when whitestars were found.
         }
 
         // Initialize an array to count occurrences for each day of the week
-        let dayCounts = [0, 0, 0, 0, 0, 0, 0];
+        let dayCounts = [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1];
 
         // Populate the dayCounts array based on the scanTime data
         timestamps.forEach(ts => {

@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​BrinySeal
-description: W:35 L:15 D:3 Bonus ✅
-date: 1722101979
+description: W:36 L:15 D:3 Bonus ✅
+date: 1722535929
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1352 🔺  (66)|
-| ELO Competitive | 1398 🔺  (85)|
-| Total Matches | 53 |
-| Wins | 35 |
+| ELO Regular | 1364 🔺  (58)|
+| ELO Competitive | 1410 🔺  (78)|
+| Total Matches | 54 |
+| Wins | 36 |
 | Losses | 15 |
 | Draws | 3 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 9 |
 
 ### Recurring Opponents
@@ -28,6 +28,7 @@ date: 1722101979
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/01 | 18-2 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ✅ | 2024/07/27 | 21-8 | [White Star Inc\.](https://ws.tsl.rocks/corp/b5bdfb5e81eac1263ce48131806cc733ec699336043c0f7af090fbe8ff21d26e/) |
 | ✅ | 2024/07/22 | 22-6 | [Mass Effect](https://ws.tsl.rocks/corp/6f715653bec3925d9c3acd7c2388fe8e1c79332146894ed424f57bd2636de8c7/) |
 | ✅ | 2024/07/17 | 29-6 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |
@@ -90,9 +91,9 @@ Corporation ID: 05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>
 
-# Corporation Whitestar match day frequency
+# Whitestar Match Day
 
-This chart shows the frequency of days of the week when whitestars were found.
+This chart shows the frequency of days of the week when whitestars were matched.
 
 <!-- Load Chart.js from jsDelivr CDN -->
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.0.1"></script>
@@ -104,7 +105,7 @@ This chart shows the frequency of days of the week when whitestars were found.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721669979,1721233640,1720794238,1720362066,1719929899,1719487557,1719055117,1718622986,1718183479,1717751242,1717319053,1716872472,1716436766,1715988202,1715552858,1715107581,1714666107,1714234033,1713789060,1713347702,1712904492,1712471808,1712039123,1711604921,1711127163,1710693900,1710261521,1709829137,1709391952,1708946331,1708512123,1708076101,1707643978,1707211668,1706779424,1706337663,1705898919,1705465876,1705027131,1704575759,1704141217,1703708771,1703271811,1702836142,1702402759,1701970567,1701510433,1701076153,1700633437,1700198847,1699760877,1699305845,1698804305];
+        let timestamps = [1722103929,1721669979,1721233640,1720794238,1720362066,1719929899,1719487557,1719055117,1718622986,1718183479,1717751242,1717319053,1716872472,1716436766,1715988202,1715552858,1715107581,1714666107,1714234033,1713789060,1713347702,1712904492,1712471808,1712039123,1711604921,1711127163,1710693900,1710261521,1709829137,1709391952,1708946331,1708512123,1708076101,1707643978,1707211668,1706779424,1706337663,1705898919,1705465876,1705027131,1704575759,1704141217,1703708771,1703271811,1702836142,1702402759,1701970567,1701510433,1701076153,1700633437,1700198847,1699760877,1699305845,1698804305];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -112,7 +113,7 @@ This chart shows the frequency of days of the week when whitestars were found.
         }
 
         // Initialize an array to count occurrences for each day of the week
-        let dayCounts = [0, 0, 0, 0, 0, 0, 0];
+        let dayCounts = [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1];
 
         // Populate the dayCounts array based on the scanTime data
         timestamps.forEach(ts => {
