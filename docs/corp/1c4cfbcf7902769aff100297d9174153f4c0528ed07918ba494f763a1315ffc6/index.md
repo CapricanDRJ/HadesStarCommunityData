@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​The Allegiant
-description: W:17 L:8 D:0 Bonus ❌
-date: 1721842487
+description: W:18 L:8 D:0 Bonus ✅
+date: 1722467996
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1277 🔺  (161)|
-| ELO Competitive | 1302 🔺  (201)|
-| Total Matches | 25 |
-| Wins | 17 |
+| ELO Regular | 1291 🔺  (135)|
+| ELO Competitive | 1316 🔺  (180)|
+| Total Matches | 26 |
+| Wins | 18 |
 | Losses | 8 |
 | Draws | 0 |
-| Streak | 4 |
+| Streak | 5 |
 | Streak Record | 7 |
 
 ### Recurring Opponents
@@ -28,6 +28,7 @@ date: 1721842487
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/31 | 21-0 | [Eretria ](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |
 | ✅ | 2024/07/24 | 13-0 | [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) |
 | ✅ | 2024/07/16 | 17-3 | [Destroyers](https://ws.tsl.rocks/corp/3756333f55f58944372cf785b972da55796cc179c0ce5f10244e90e3c4355a23/) |
 | ✅ | 2024/07/04 | 22-3 | [Slovensko\-Activ](https://ws.tsl.rocks/corp/1b9254941b8239a2cb7067c51e8806c4922f1d033fa8d4506c0b705f51322939/) |

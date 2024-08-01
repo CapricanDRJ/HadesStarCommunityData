@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Shrimp City
-description: W:17 L:10 D:1 Bonus ❌
-date: 1722007013
+description: W:18 L:10 D:1 Bonus ✅
+date: 1722462589
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1283 🔻  (150)|
-| ELO Competitive | 1302 🔺  (203)|
-| Total Matches | 28 |
-| Wins | 17 |
+| ELO Regular | 1294 🔺  (133)|
+| ELO Competitive | 1313 🔺  (187)|
+| Total Matches | 29 |
+| Wins | 18 |
 | Losses | 10 |
 | Draws | 1 |
 | Streak Record | 11 |
@@ -26,6 +26,7 @@ date: 1722007013
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/07/31 | 15-0 | [使命白星分团](https://ws.tsl.rocks/corp/756b9e1ef6c71e6a6b21c9859364c3bb6db5b24082327b1ea0f2b790cb49ef75/) |
 | ↔️ | 2024/07/26 | 13-13 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ✅ | 2024/07/21 | 16-0 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
 | ❌ | 2024/07/15 | 3-19 | [Warriorlords](https://ws.tsl.rocks/corp/a78c29b9e1c9f793205ba10d796dcabc114ef43d86f0bd34a43a56dc6da768aa/) |

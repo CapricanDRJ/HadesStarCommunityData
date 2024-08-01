@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Eretria 
-description: W:25 L:22 D:0 Bonus ✅
-date: 1721982065
+description: W:25 L:23 D:0 Bonus ✅
+date: 1722467996
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔺  (247)|
-| ELO Competitive | 1270 🔺  (268)|
-| Total Matches | 47 |
+| ELO Regular | 1225 🔻  (301)|
+| ELO Competitive | 1256 🔻  (295)|
+| Total Matches | 48 |
 | Wins | 25 |
-| Losses | 22 |
+| Losses | 23 |
 | Draws | 0 |
-| Streak | 3 |
 | Streak Record | 7 |
 
 ### Recurring Opponents
@@ -28,6 +27,7 @@ date: 1721982065
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/07/31 | 0-21 | [The Allegiant](https://ws.tsl.rocks/corp/1c4cfbcf7902769aff100297d9174153f4c0528ed07918ba494f763a1315ffc6/) |
 | ✅ | 2024/07/26 | 13-0 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) |
 | ✅ | 2024/07/21 | 19-0 | [11th Engineers](https://ws.tsl.rocks/corp/7341e9a33a1baf2162870c795632dcd551d3c624b06456dac041fa049ba67a9a/) |
 | ✅ | 2024/07/14 | 8-4 | [德尔塔星舰联盟](https://ws.tsl.rocks/corp/1b2cf7bd23515b61b88cb477e9e99bf6d7def430c3ef239a5a0c9c81315a63bc/) |
