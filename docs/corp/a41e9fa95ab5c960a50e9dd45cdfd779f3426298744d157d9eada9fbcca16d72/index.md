@@ -16,21 +16,6 @@ date: 1700164023
 | Draws | 0 |
 
 
-### Match History
-
-|  | Date | Score | Opponent |
-| --- | --- | --- | --- |
-| ❌ | 2023/11/16 | 4-10 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
-| ❌ | 2023/11/16 | 0-17 | [代代守护你的神明](https://ws.tsl.rocks/corp/6960f4c6ded90a45fd53df8d3d1b3cf4576ceb471ab4dc9b6931f04c6ea5ac9c/) |
-
-Corporation ID: a41e9fa95ab5c960a50e9dd45cdfd779f3426298744d157d9eada9fbcca16d72
-
-[Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
-<div>
-  Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
-</div>
-
 # Whitestar Match Day
 
 This chart shows the frequency of days of the week when whitestars were matched.
@@ -126,3 +111,18 @@ This chart shows the frequency of days of the week when whitestars were matched.
     });
 </script>
     
+
+### Match History
+
+|  | Date | Score | Opponent |
+| --- | --- | --- | --- |
+| ❌ | 2023/11/16 | 4-10 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
+| ❌ | 2023/11/16 | 0-17 | [代代守护你的神明](https://ws.tsl.rocks/corp/6960f4c6ded90a45fd53df8d3d1b3cf4576ceb471ab4dc9b6931f04c6ea5ac9c/) |
+
+Corporation ID: a41e9fa95ab5c960a50e9dd45cdfd779f3426298744d157d9eada9fbcca16d72
+
+[Hades' Star](https://www.hadesstar.com)
+<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+<div>
+  Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
+</div>

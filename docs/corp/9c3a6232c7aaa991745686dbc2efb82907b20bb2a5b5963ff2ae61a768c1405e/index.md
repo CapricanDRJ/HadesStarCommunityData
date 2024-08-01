@@ -16,21 +16,6 @@ date: 1714979423
 | Draws | 0 |
 
 
-### Match History
-
-|  | Date | Score | Opponent |
-| --- | --- | --- | --- |
-| ❌ | 2024/05/06 | 1-29 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) |
-| ❌ | 2023/11/20 | 3-20 | [Revelation](https://ws.tsl.rocks/corp/e9b22a24d853613b0ebd6fb2e70994410d4ff4323a002da5f0bece764e81374a/) |
-
-Corporation ID: 9c3a6232c7aaa991745686dbc2efb82907b20bb2a5b5963ff2ae61a768c1405e
-
-[Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
-<div>
-  Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
-</div>
-
 # Whitestar Match Day
 
 This chart shows the frequency of days of the week when whitestars were matched.
@@ -126,3 +111,18 @@ This chart shows the frequency of days of the week when whitestars were matched.
     });
 </script>
     
+
+### Match History
+
+|  | Date | Score | Opponent |
+| --- | --- | --- | --- |
+| ❌ | 2024/05/06 | 1-29 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) |
+| ❌ | 2023/11/20 | 3-20 | [Revelation](https://ws.tsl.rocks/corp/e9b22a24d853613b0ebd6fb2e70994410d4ff4323a002da5f0bece764e81374a/) |
+
+Corporation ID: 9c3a6232c7aaa991745686dbc2efb82907b20bb2a5b5963ff2ae61a768c1405e
+
+[Hades' Star](https://www.hadesstar.com)
+<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+<div>
+  Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
+</div>

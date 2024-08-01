@@ -16,20 +16,6 @@ date: 1699435232
 | Draws | 0 |
 
 
-### Match History
-
-|  | Date | Score | Opponent |
-| --- | --- | --- | --- |
-| ❌ | 2023/11/08 | 2-22 | [Lacuna Holdings](https://ws.tsl.rocks/corp/17f4ece94ed033805ed258868416020d302254e2e3becbd1e25381be7933be76/) |
-
-Corporation ID: 0ed108e924dc1ffb26f5569d6644d9eeefc397f2435eb15d122fe9f5368aabd7
-
-[Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
-<div>
-  Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
-</div>
-
 # Whitestar Match Day
 
 This chart shows the frequency of days of the week when whitestars were matched.
@@ -125,3 +111,17 @@ This chart shows the frequency of days of the week when whitestars were matched.
     });
 </script>
     
+
+### Match History
+
+|  | Date | Score | Opponent |
+| --- | --- | --- | --- |
+| ❌ | 2023/11/08 | 2-22 | [Lacuna Holdings](https://ws.tsl.rocks/corp/17f4ece94ed033805ed258868416020d302254e2e3becbd1e25381be7933be76/) |
+
+Corporation ID: 0ed108e924dc1ffb26f5569d6644d9eeefc397f2435eb15d122fe9f5368aabd7
+
+[Hades' Star](https://www.hadesstar.com)
+<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+<div>
+  Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
+</div>

@@ -16,20 +16,6 @@ date: 1701200386
 | Draws | 0 |
 
 
-### Match History
-
-|  | Date | Score | Opponent |
-| --- | --- | --- | --- |
-| ✅ | 2023/11/28 | 11-7 | [Алый Феникс](https://ws.tsl.rocks/corp/ef2a58ee1052c616143ee1bf5e380609a7c061c603d10775b81563869a44433f/) |
-
-Corporation ID: 971c13e71df362d95d80e5823735c939fd9710e349532ae3c4a66898156c45be
-
-[Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
-<div>
-  Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
-</div>
-
 # Whitestar Match Day
 
 This chart shows the frequency of days of the week when whitestars were matched.
@@ -125,3 +111,17 @@ This chart shows the frequency of days of the week when whitestars were matched.
     });
 </script>
     
+
+### Match History
+
+|  | Date | Score | Opponent |
+| --- | --- | --- | --- |
+| ✅ | 2023/11/28 | 11-7 | [Алый Феникс](https://ws.tsl.rocks/corp/ef2a58ee1052c616143ee1bf5e380609a7c061c603d10775b81563869a44433f/) |
+
+Corporation ID: 971c13e71df362d95d80e5823735c939fd9710e349532ae3c4a66898156c45be
+
+[Hades' Star](https://www.hadesstar.com)
+<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+<div>
+  Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
+</div>

@@ -16,22 +16,6 @@ date: 1702763834
 | Draws | 0 |
 
 
-### Match History
-
-|  | Date | Score | Opponent |
-| --- | --- | --- | --- |
-| ❌ | 2023/12/16 | 0-24 | [Ark](https://ws.tsl.rocks/corp/febd79d038ed9af667e201309060d9662ba825ba9be2b5b95418ac20a8e70c80/) |
-| ❌ | 2023/12/10 | 3-31 | [Zvezdec](https://ws.tsl.rocks/corp/7bce2af674b8fb313f43e497201ad86b230571cc3e200f44132be528eb4076d9/) |
-| ❌ | 2023/12/02 | 1-10 | [НИФИГАСЕБЕ](https://ws.tsl.rocks/corp/a18fab78c26d983ee99c4cd3c7aaddcfac61283abb2122e9a8ccc44feb2b3196/) |
-
-Corporation ID: 26dda34c094a619687567dfb658a41b58a4e5625f96da08b309cfa90fa1c857f
-
-[Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
-<div>
-  Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
-</div>
-
 # Whitestar Match Day
 
 This chart shows the frequency of days of the week when whitestars were matched.
@@ -127,3 +111,19 @@ This chart shows the frequency of days of the week when whitestars were matched.
     });
 </script>
     
+
+### Match History
+
+|  | Date | Score | Opponent |
+| --- | --- | --- | --- |
+| ❌ | 2023/12/16 | 0-24 | [Ark](https://ws.tsl.rocks/corp/febd79d038ed9af667e201309060d9662ba825ba9be2b5b95418ac20a8e70c80/) |
+| ❌ | 2023/12/10 | 3-31 | [Zvezdec](https://ws.tsl.rocks/corp/7bce2af674b8fb313f43e497201ad86b230571cc3e200f44132be528eb4076d9/) |
+| ❌ | 2023/12/02 | 1-10 | [НИФИГАСЕБЕ](https://ws.tsl.rocks/corp/a18fab78c26d983ee99c4cd3c7aaddcfac61283abb2122e9a8ccc44feb2b3196/) |
+
+Corporation ID: 26dda34c094a619687567dfb658a41b58a4e5625f96da08b309cfa90fa1c857f
+
+[Hades' Star](https://www.hadesstar.com)
+<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+<div>
+  Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
+</div>

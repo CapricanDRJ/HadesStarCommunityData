@@ -16,6 +16,102 @@ date: 1722433437
 | Draws | 0 |
 | Streak Record | 5 |
 
+
+# Whitestar Match Day
+
+This chart shows the frequency of days of the week when whitestars were matched.
+
+<!-- Load Chart.js from jsDelivr CDN -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.0.1"></script>
+
+<!-- Create a canvas element where the chart will be rendered -->
+<canvas id="myChart" width="400" height="200"></canvas>
+
+<!-- JavaScript code to render the bar chart -->
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        // Ensure scanTime is an array; if empty, handle accordingly
+        let timestamps = [1722001437,1721957265,1721477643,1721404321,1720870275,1720825201,1720376795,1719806394,1719795278,1719325888,1718569806,1718557482,1718024507,1718020299,1717520430,1717490070,1716994484,1716981559,1716547321,1716546720,1715887552,1715881841,1715330807,1715210934,1714647175,1714642668,1714013383,1713971432,1713466093,1713449564,1712827571,1712720912,1712250059,1712224515,1711637069,1711083296,1711051149,1710497377,1710496776,1709926191,1709863691,1709368511,1709303908,1708757024,1708749513,1708287659,1708235064,1707666219,1707638268,1707076934,1706437736,1705835206,1705248911,1704758175,1704700539,1704310105,1704014397,1703804339,1703352653,1702881520,1702870403,1702390434,1702179449,1701937506,1701576554,1701431390,1701033784,1700926174,1700449811,1700374970,1699974579,1699824910,1699492751,1699292920,1698722543,1698716232];
+
+        // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
+        function getDayOfWeek(timestamp) {
+            return new Date(timestamp * 1000).getDay();
+        }
+
+        // Initialize an array to count occurrences for each day of the week
+        let dayCounts = [0, 0, 0, 0, 0, 0, 0];
+
+        // Populate the dayCounts array based on the scanTime data
+        timestamps.forEach(ts => {
+            let dayOfWeek = getDayOfWeek(ts);
+            dayCounts[dayOfWeek]++;
+        });
+
+        // Chart.js configuration for the bar chart
+        const data = {
+            labels: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
+            datasets: [{
+            data: dayCounts,
+                backgroundColor: [
+                    'rgba(0, 191, 255, 0.2)',   // Deep Sky Blue (Sunday)
+                    'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Monday)
+                    'rgba(173, 216, 230, 0.2)', // Light Blue (Tuesday)
+                    'rgba(255, 255, 255, 0.2)', // White (Wednesday)
+                    'rgba(173, 216, 230, 0.2)', // Light Blue (Thursday)
+                    'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Friday)
+                    'rgba(0, 191, 255, 0.2)'    // Deep Sky Blue (Saturday)
+                ],
+                borderColor: [
+                    'rgba(0, 191, 255, 1)',   // Deep Sky Blue (Sunday)
+                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Monday)
+                    'rgba(173, 216, 230, 1)', // Light Blue (Tuesday)
+                    'rgba(255, 255, 255, 1)', // White (Wednesday)
+                    'rgba(173, 216, 230, 1)', // Light Blue (Thursday)
+                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Friday)
+                    'rgba(0, 191, 255, 1)'    // Deep Sky Blue (Saturday)
+                ],
+                borderWidth: 1,
+                minBarLength: 5
+            }]
+        };
+
+        const config = {
+            type: 'bar',
+            data: data,
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        ticks: {
+                            color: 'rgba(255, 255, 255, 0.8)'
+                        },
+                        grid: {
+                            color: 'rgba(255, 255, 255, 0.2)'
+                        }
+                    },
+                    x: {
+                        ticks: {
+                            color: 'rgba(255, 255, 255, 0.8)'
+                        },
+                        grid: {
+                            display: false 
+                        }
+                    }
+                },
+                plugins: {
+                    legend: {
+                        display: false
+                    }
+                }
+            }
+        };
+
+        // Render the chart
+        const ctx = document.getElementById('myChart').getContext('2d');
+        const myChart = new Chart(ctx, config);
+    });
+</script>
+    
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
@@ -124,99 +220,3 @@ Corporation ID: e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>
-
-# Whitestar Match Day
-
-This chart shows the frequency of days of the week when whitestars were matched.
-
-<!-- Load Chart.js from jsDelivr CDN -->
-<script src="https://cdn.jsdelivr.net/npm/chart.js@4.0.1"></script>
-
-<!-- Create a canvas element where the chart will be rendered -->
-<canvas id="myChart" width="400" height="200"></canvas>
-
-<!-- JavaScript code to render the bar chart -->
-<script>
-    document.addEventListener("DOMContentLoaded", function() {
-        // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722001437,1721957265,1721477643,1721404321,1720870275,1720825201,1720376795,1719806394,1719795278,1719325888,1718569806,1718557482,1718024507,1718020299,1717520430,1717490070,1716994484,1716981559,1716547321,1716546720,1715887552,1715881841,1715330807,1715210934,1714647175,1714642668,1714013383,1713971432,1713466093,1713449564,1712827571,1712720912,1712250059,1712224515,1711637069,1711083296,1711051149,1710497377,1710496776,1709926191,1709863691,1709368511,1709303908,1708757024,1708749513,1708287659,1708235064,1707666219,1707638268,1707076934,1706437736,1705835206,1705248911,1704758175,1704700539,1704310105,1704014397,1703804339,1703352653,1702881520,1702870403,1702390434,1702179449,1701937506,1701576554,1701431390,1701033784,1700926174,1700449811,1700374970,1699974579,1699824910,1699492751,1699292920,1698722543,1698716232];
-
-        // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
-        function getDayOfWeek(timestamp) {
-            return new Date(timestamp * 1000).getDay();
-        }
-
-        // Initialize an array to count occurrences for each day of the week
-        let dayCounts = [0, 0, 0, 0, 0, 0, 0];
-
-        // Populate the dayCounts array based on the scanTime data
-        timestamps.forEach(ts => {
-            let dayOfWeek = getDayOfWeek(ts);
-            dayCounts[dayOfWeek]++;
-        });
-
-        // Chart.js configuration for the bar chart
-        const data = {
-            labels: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
-            datasets: [{
-            data: dayCounts,
-                backgroundColor: [
-                    'rgba(0, 191, 255, 0.2)',   // Deep Sky Blue (Sunday)
-                    'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Monday)
-                    'rgba(173, 216, 230, 0.2)', // Light Blue (Tuesday)
-                    'rgba(255, 255, 255, 0.2)', // White (Wednesday)
-                    'rgba(173, 216, 230, 0.2)', // Light Blue (Thursday)
-                    'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Friday)
-                    'rgba(0, 191, 255, 0.2)'    // Deep Sky Blue (Saturday)
-                ],
-                borderColor: [
-                    'rgba(0, 191, 255, 1)',   // Deep Sky Blue (Sunday)
-                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Monday)
-                    'rgba(173, 216, 230, 1)', // Light Blue (Tuesday)
-                    'rgba(255, 255, 255, 1)', // White (Wednesday)
-                    'rgba(173, 216, 230, 1)', // Light Blue (Thursday)
-                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Friday)
-                    'rgba(0, 191, 255, 1)'    // Deep Sky Blue (Saturday)
-                ],
-                borderWidth: 1,
-                minBarLength: 5
-            }]
-        };
-
-        const config = {
-            type: 'bar',
-            data: data,
-            options: {
-                scales: {
-                    y: {
-                        beginAtZero: true,
-                        ticks: {
-                            color: 'rgba(255, 255, 255, 0.8)'
-                        },
-                        grid: {
-                            color: 'rgba(255, 255, 255, 0.2)'
-                        }
-                    },
-                    x: {
-                        ticks: {
-                            color: 'rgba(255, 255, 255, 0.8)'
-                        },
-                        grid: {
-                            display: false 
-                        }
-                    }
-                },
-                plugins: {
-                    legend: {
-                        display: false
-                    }
-                }
-            }
-        };
-
-        // Render the chart
-        const ctx = document.getElementById('myChart').getContext('2d');
-        const myChart = new Chart(ctx, config);
-    });
-</script>
-    
