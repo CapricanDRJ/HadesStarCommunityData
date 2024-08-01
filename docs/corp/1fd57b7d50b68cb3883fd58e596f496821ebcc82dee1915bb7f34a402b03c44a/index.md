@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Scar
-description: W:26 L:16 D:1 Bonus ✅
-date: 1722088753
+description: W:27 L:16 D:1 Bonus ✅
+date: 1722520898
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1322 🔺  (90)|
-| ELO Competitive | 1358 🔺  (126)|
-| Total Matches | 43 |
-| Wins | 26 |
+| ELO Regular | 1330 🔺  (82)|
+| ELO Competitive | 1364 🔺  (120)|
+| Total Matches | 44 |
+| Wins | 27 |
 | Losses | 16 |
 | Draws | 1 |
-| Streak | 5 |
-| Streak Record | 5 |
+| Streak | 6 |
+| Streak Record | 6 |
 
 ### Recurring Opponents
 
@@ -31,6 +31,7 @@ date: 1722088753
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/01 | 25-0 | [Hades' 420](https://ws.tsl.rocks/corp/e83b8d576f0efe37e0cdc115b709de051fc57c51a2183f4cb399421766660a73/) |
 | ✅ | 2024/07/27 | 22-4 | [Space Pirates](https://ws.tsl.rocks/corp/87eff6e453b6f020baf8cb8930236b566161e22814cdbdc77d696c5812684bc6/) |
 | ✅ | 2024/07/22 | 28-0 | [Sektion 32](https://ws.tsl.rocks/corp/16e8d18e4c51a9154959f8d3cd2417d11695210bb12baf2773eb12dea2f5966e/) |
 | ✅ | 2024/07/17 | 28-0 | [Черный Легион](https://ws.tsl.rocks/corp/af3427036ba655aaea1af0c704240800cc2def44f43c06d558d9cc1ec8bcbc7b/) |
