@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​WSC(no DISCORD)
-description: W:18 L:14 D:3 Bonus ❌
-date: 1722007013
+description: W:19 L:15 D:3 Bonus ✅
+date: 1722488431
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1267 🔺  (185)|
-| ELO Competitive | 1331 🔻  (159)|
-| Total Matches | 35 |
-| Wins | 18 |
-| Losses | 14 |
+| ELO Regular | 1266 🔺  (186)|
+| ELO Competitive | 1343 🔺  (141)|
+| Total Matches | 37 |
+| Wins | 19 |
+| Losses | 15 |
 | Draws | 3 |
 | Streak Record | 7 |
 
@@ -32,6 +32,8 @@ date: 1722007013
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/01 | 25-3 | [The New Light](https://ws.tsl.rocks/corp/73c87b4394c7e44aa0fa6996ae32e7448f956391dac8b5d025da6019d3062cfc/) |
+| ❌ | 2024/08/01 | 0-9 | [萌新的收留所](https://ws.tsl.rocks/corp/1dd3f70c959e32c27cb4c010162be3799b7c0732115d5c2b7ca5979f48b10f7f/) |
 | ↔️ | 2024/07/26 | 13-13 | [Shrimp City](https://ws.tsl.rocks/corp/eae9b3a1f9dd6b4a1fb39d6aedfe84a80662abe6b181bedcfd7ec15d931b8e84/) |
 | ❌ | 2024/07/26 | 0-3 | [PDC](https://ws.tsl.rocks/corp/3cfc5c94fb18b34d3a1018bfbf6d4211d3cfb18ebb02bf7784cebc1e3627de4a/) |
 | ↔️ | 2024/07/21 | 0-0 | [Poggy Rockers](https://ws.tsl.rocks/corp/47aeb151232251d9e53310e21f1290b1240c63878169968847bd1e89efc909a7/) |

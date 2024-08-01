@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​OKC THUNDER 
-description: W:2 L:2 D:0 Bonus ❌
-date: 1721924673
+description: W:2 L:3 D:0 Bonus ❌
+date: 1722484224
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1205 🔻  (414)|
-| ELO Competitive | 1208 🔻  (492)|
-| Total Matches | 4 |
+| ELO Regular | 1201 🔻  (438)|
+| ELO Competitive | 1205 🔻  (503)|
+| Total Matches | 5 |
 | Wins | 2 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 
 
@@ -20,6 +20,7 @@ date: 1721924673
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/01 | 4-33 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |
 | ❌ | 2024/07/25 | 0-37 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) |
 | ✅ | 2024/01/08 | 11-1 | [Legionnaires](https://ws.tsl.rocks/corp/7f59af7e8bb006928689aa024eb8127880b4c67b5e591e53c3e07322ed848bce/) |
 | ❌ | 2023/12/27 | 8-15 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |

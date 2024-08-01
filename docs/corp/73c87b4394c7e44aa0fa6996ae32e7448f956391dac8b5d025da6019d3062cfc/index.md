@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​The New Light
-description: W:17 L:17 D:1 Bonus ❌
-date: 1721201290
+description: W:17 L:18 D:1 Bonus ❌
+date: 1722488431
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1208 🔻  (405)|
-| ELO Competitive | 1256 🔻  (297)|
-| Total Matches | 35 |
+| ELO Regular | 1195 🔻  (493)|
+| ELO Competitive | 1244 🔻  (327)|
+| Total Matches | 36 |
 | Wins | 17 |
-| Losses | 17 |
+| Losses | 18 |
 | Draws | 1 |
 | Streak Record | 4 |
 
@@ -28,6 +28,7 @@ date: 1721201290
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/01 | 3-25 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ❌ | 2024/07/17 | 1-17 | [  边界  ](https://ws.tsl.rocks/corp/86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a/) |
 | ✅ | 2024/07/10 | 4-0 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
 | ❌ | 2024/07/03 | 0-25 | [Z\. O\. V\. ](https://ws.tsl.rocks/corp/4f56534357f2407b25faee160f9dca4ee83b8f9ca4425ba472a47298faf54096/) |

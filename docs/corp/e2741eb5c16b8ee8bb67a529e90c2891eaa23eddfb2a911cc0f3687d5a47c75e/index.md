@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Blood Hounds
-description: W:52 L:8 D:1 Bonus ✅
-date: 1721894618
+description: W:53 L:8 D:1 Bonus ✅
+date: 1722484224
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1511 🔺  (4)|
-| ELO Competitive | 1547 🔺  (9)|
-| Total Matches | 61 |
-| Wins | 52 |
+| ELO Regular | 1516 🔺  (4)|
+| ELO Competitive | 1551 🔺  (8)|
+| Total Matches | 62 |
+| Wins | 53 |
 | Losses | 8 |
 | Draws | 1 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 15 |
 
 ### Recurring Opponents
@@ -31,6 +31,7 @@ date: 1721894618
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/01 | 33-4 | [OKC THUNDER ](https://ws.tsl.rocks/corp/e0d10ea9212daec497d7fbfc5e33cb87a175d27e7024ea9da117385db5dbf3c2/) |
 | ✅ | 2024/07/25 | 34-4 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ✅ | 2024/07/25 | 15-11 | [萌新港\(大佬港\)](https://ws.tsl.rocks/corp/e6d9b9da7a037e3572cb594dfeba7b282b66509228c9f4f1b2138f873caa3cf3/) |
 | ✅ | 2024/07/18 | 36-9 | [Dumpster Fire 2](https://ws.tsl.rocks/corp/37d473dec00d4d68e29963e3b423670aac735e7c1f256276e6c2e7d62180b0f8/) |

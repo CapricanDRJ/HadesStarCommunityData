@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Interstellar
-description: W:25 L:29 D:0 Bonus ✅
-date: 1722459283
+description: W:26 L:29 D:0 Bonus ✅
+date: 1722484524
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (888)|
-| ELO Competitive | 1338 🔻  (148)|
-| Total Matches | 54 |
-| Wins | 25 |
+| ELO Regular | 1180 🔺  (767)|
+| ELO Competitive | 1358 🔺  (124)|
+| Total Matches | 55 |
+| Wins | 26 |
 | Losses | 29 |
 | Draws | 0 |
 | Streak Record | 4 |
@@ -30,6 +30,7 @@ date: 1722459283
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/01 | 4-0 | [Jalisco México](https://ws.tsl.rocks/corp/495236ab2171ccbcdad0da5529f080405b1ddd081eda98c7255a8cffe5b114e4/) |
 | ❌ | 2024/07/31 | 5-17 | [Cyber Star](https://ws.tsl.rocks/corp/358bbbde0af23c5f41cdb4fde95bb713989c7812b5a0358f7c34ecceca19916c/) |
 | ✅ | 2024/07/26 | 5-1 | [Axioma](https://ws.tsl.rocks/corp/2ec904c87d0183a49e22dc53508fa5c75d6e638e3a152a30336831697c60e91e/) |
 | ❌ | 2024/07/26 | 0-22 | [CIS](https://ws.tsl.rocks/corp/3efaab24560531ff257e73bfb281a7e9c0a9d591ac5aff55d05d35f2fb5e1d73/) |

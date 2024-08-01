@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Jalisco México
-description: W:11 L:26 D:5 Bonus ❌
-date: 1721939098
+description: W:11 L:27 D:5 Bonus ❌
+date: 1722484524
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1083 🔺  (1129)|
-| ELO Competitive | 1143 🔺  (1092)|
-| Total Matches | 42 |
+| ELO Regular | 1072 🔻  (1138)|
+| ELO Competitive | 1135 🔻  (1108)|
+| Total Matches | 43 |
 | Wins | 11 |
-| Losses | 26 |
+| Losses | 27 |
 | Draws | 5 |
 | Streak Record | 3 |
 
@@ -27,6 +27,7 @@ date: 1721939098
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/01 | 0-4 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
 | ↔️ | 2024/07/25 | 4-4 | [Alterra Corp](https://ws.tsl.rocks/corp/2994ab783b4971d838bcc4741de8562ba674bf412d43f879bccadbc9f91eee2a/) |
 | ❌ | 2024/07/20 | 1-9 | [SiriusStrawMoo](https://ws.tsl.rocks/corp/c83a5744ea256d2c1fa59660bc0e18e8d01a2a467bc13fec27a8b30f689e220b/) |
 | ❌ | 2024/07/19 | 0-3 | [探索舰队](https://ws.tsl.rocks/corp/8c465701390ed74d4d115e58d66289afb2eeef6247ca351a4cf88a0046e6fe55/) |
