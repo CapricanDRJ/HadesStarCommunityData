@@ -79,7 +79,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
         }
 
         // Initialize an array to count occurrences for each day of the week
-        let dayCounts = [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1];
+        let dayCounts = [0, 0, 0, 0, 0, 0, 0];
 
         // Populate the dayCounts array based on the scanTime data
         timestamps.forEach(ts => {
@@ -111,7 +111,8 @@ This chart shows the frequency of days of the week when whitestars were matched.
                     'rgba(255, 159, 64, 1)',
                     'rgba(255, 99, 132, 1)'
                 ],
-                borderWidth: 1
+                borderWidth: 1,
+                minBarLength: 5 // Ensure bars have at least this many pixels in height
             }]
         };
 
