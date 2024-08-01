@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Bacon Warriors
-description: W:13 L:11 D:0 Bonus ❌
-date: 1721494037
+description: W:13 L:12 D:0 Bonus ❌
+date: 1722538935
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1258 🔻  (196)|
-| ELO Competitive | 1295 🔻  (214)|
-| Total Matches | 24 |
+| ELO Regular | 1243 🔻  (230)|
+| ELO Competitive | 1281 🔻  (239)|
+| Total Matches | 25 |
 | Wins | 13 |
-| Losses | 11 |
+| Losses | 12 |
 | Draws | 0 |
 | Streak Record | 5 |
 
@@ -27,6 +27,7 @@ date: 1721494037
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/01 | 5-12 | [Poggy Rockers](https://ws.tsl.rocks/corp/47aeb151232251d9e53310e21f1290b1240c63878169968847bd1e89efc909a7/) |
 | ❌ | 2024/07/20 | 1-4 | [公共星际集团](https://ws.tsl.rocks/corp/f57faccefed6ab561fa61ac8e6f60708928e3a8b5caa5172c97c2a29348aed37/) |
 | ✅ | 2024/07/15 | 26-1 | [lost souls](https://ws.tsl.rocks/corp/64cf1f6ce9001bcd1d03fd1aaecafc1b7d88cd36316892a52a1b19d5e85bd793/) |
 | ✅ | 2024/07/10 | 1-0 | [ToC](https://ws.tsl.rocks/corp/72dc408527c06786fa45851f432da731fd63c063d51f4a180b9ae24216e41765/) |
@@ -74,7 +75,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721062037,1720631036,1720192874,1719757712,1718978785,1718638015,1717939157,1717855907,1717166371,1717157654,1716663010,1715522202,1714828760,1714313469,1713644853,1713031808,1712381966,1711508775,1710465534,1709853177,1709399166,1708792486,1701403443,1700658298];
+        let timestamps = [1722106935,1721062037,1720631036,1720192874,1719757712,1718978785,1718638015,1717939157,1717855907,1717166371,1717157654,1716663010,1715522202,1714828760,1714313469,1713644853,1713031808,1712381966,1711508775,1710465534,1709853177,1709399166,1708792486,1701403443,1700658298];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -94,28 +95,27 @@ This chart shows the frequency of days of the week when whitestars were matched.
         const data = {
             labels: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
             datasets: [{
-                // Custom electric blue/white color scheme for a dark background
-                data: dayCounts,
+            data: dayCounts,
                 backgroundColor: [
-                    'rgba(0, 255, 255, 0.9)',   // Electric Cyan
-                    'rgba(173, 216, 230, 0.9)', // Light Blue
-                    'rgba(0, 191, 255, 0.9)',   // Deep Sky Blue
-                    'rgba(0, 206, 209, 0.9)',   // Dark Turquoise
-                    'rgba(135, 206, 250, 0.9)', // Light Sky Blue
-                    'rgba(0, 255, 255, 0.9)',   // Cyan
-                    'rgba(30, 144, 255, 0.9)'   // Dodger Blue
+                    'rgba(0, 191, 255, 0.2)',   // Deep Sky Blue (Sunday)
+                    'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Monday)
+                    'rgba(173, 216, 230, 0.2)', // Light Blue (Tuesday)
+                    'rgba(255, 255, 255, 0.2)', // White (Wednesday)
+                    'rgba(173, 216, 230, 0.2)', // Light Blue (Thursday)
+                    'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Friday)
+                    'rgba(0, 191, 255, 0.2)'    // Deep Sky Blue (Saturday)
                 ],
                 borderColor: [
-                    'rgba(0, 255, 255, 1)',     // Electric Cyan
-                    'rgba(173, 216, 230, 1)',   // Light Blue
-                    'rgba(0, 191, 255, 1)',     // Deep Sky Blue
-                    'rgba(0, 206, 209, 1)',     // Dark Turquoise
-                    'rgba(135, 206, 250, 1)',   // Light Sky Blue
-                    'rgba(0, 255, 255, 1)',     // Cyan
-                    'rgba(30, 144, 255, 1)'     // Dodger Blue
+                    'rgba(0, 191, 255, 1)',   // Deep Sky Blue (Sunday)
+                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Monday)
+                    'rgba(173, 216, 230, 1)', // Light Blue (Tuesday)
+                    'rgba(255, 255, 255, 1)', // White (Wednesday)
+                    'rgba(173, 216, 230, 1)', // Light Blue (Thursday)
+                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Friday)
+                    'rgba(0, 191, 255, 1)'    // Deep Sky Blue (Saturday)
                 ],
                 borderWidth: 1,
-                minBarLength: 5 // Ensure bars have at least this many pixels in height
+                minBarLength: 5
             }]
         };
 
@@ -127,24 +127,24 @@ This chart shows the frequency of days of the week when whitestars were matched.
                     y: {
                         beginAtZero: true,
                         ticks: {
-                            color: 'rgba(255, 255, 255, 0.8)' // Light text for contrast
+                            color: 'rgba(255, 255, 255, 0.8)'
                         },
                         grid: {
-                            color: 'rgba(255, 255, 255, 0.2)' // Light grid lines for contrast
+                            color: 'rgba(255, 255, 255, 0.2)'
                         }
                     },
                     x: {
                         ticks: {
-                            color: 'rgba(255, 255, 255, 0.8)' // Light text for contrast
+                            color: 'rgba(255, 255, 255, 0.8)'
                         },
                         grid: {
-                            color: 'rgba(255, 255, 255, 0.2)' // Light grid lines for contrast
+                            display: false 
                         }
                     }
                 },
                 plugins: {
                     legend: {
-                        display: false // Hide the legend since we don't have a label
+                        display: false
                     }
                 }
             }

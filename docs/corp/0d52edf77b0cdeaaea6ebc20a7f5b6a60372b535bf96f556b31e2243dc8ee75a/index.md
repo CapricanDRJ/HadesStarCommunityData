@@ -8,7 +8,7 @@ date: 1722050287
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1242 🔺  (234)|
+| ELO Regular | 1242 🔺  (233)|
 | ELO Competitive | 1278 🔺  (245)|
 | Total Matches | 45 |
 | Wins | 25 |
@@ -124,28 +124,27 @@ This chart shows the frequency of days of the week when whitestars were matched.
         const data = {
             labels: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
             datasets: [{
-                // Custom electric blue/white color scheme for a dark background
-                data: dayCounts,
+            data: dayCounts,
                 backgroundColor: [
-                    'rgba(0, 255, 255, 0.9)',   // Electric Cyan
-                    'rgba(173, 216, 230, 0.9)', // Light Blue
-                    'rgba(0, 191, 255, 0.9)',   // Deep Sky Blue
-                    'rgba(0, 206, 209, 0.9)',   // Dark Turquoise
-                    'rgba(135, 206, 250, 0.9)', // Light Sky Blue
-                    'rgba(0, 255, 255, 0.9)',   // Cyan
-                    'rgba(30, 144, 255, 0.9)'   // Dodger Blue
+                    'rgba(0, 191, 255, 0.2)',   // Deep Sky Blue (Sunday)
+                    'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Monday)
+                    'rgba(173, 216, 230, 0.2)', // Light Blue (Tuesday)
+                    'rgba(255, 255, 255, 0.2)', // White (Wednesday)
+                    'rgba(173, 216, 230, 0.2)', // Light Blue (Thursday)
+                    'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Friday)
+                    'rgba(0, 191, 255, 0.2)'    // Deep Sky Blue (Saturday)
                 ],
                 borderColor: [
-                    'rgba(0, 255, 255, 1)',     // Electric Cyan
-                    'rgba(173, 216, 230, 1)',   // Light Blue
-                    'rgba(0, 191, 255, 1)',     // Deep Sky Blue
-                    'rgba(0, 206, 209, 1)',     // Dark Turquoise
-                    'rgba(135, 206, 250, 1)',   // Light Sky Blue
-                    'rgba(0, 255, 255, 1)',     // Cyan
-                    'rgba(30, 144, 255, 1)'     // Dodger Blue
+                    'rgba(0, 191, 255, 1)',   // Deep Sky Blue (Sunday)
+                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Monday)
+                    'rgba(173, 216, 230, 1)', // Light Blue (Tuesday)
+                    'rgba(255, 255, 255, 1)', // White (Wednesday)
+                    'rgba(173, 216, 230, 1)', // Light Blue (Thursday)
+                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Friday)
+                    'rgba(0, 191, 255, 1)'    // Deep Sky Blue (Saturday)
                 ],
                 borderWidth: 1,
-                minBarLength: 5 // Ensure bars have at least this many pixels in height
+                minBarLength: 5
             }]
         };
 
@@ -157,24 +156,24 @@ This chart shows the frequency of days of the week when whitestars were matched.
                     y: {
                         beginAtZero: true,
                         ticks: {
-                            color: 'rgba(255, 255, 255, 0.8)' // Light text for contrast
+                            color: 'rgba(255, 255, 255, 0.8)'
                         },
                         grid: {
-                            color: 'rgba(255, 255, 255, 0.2)' // Light grid lines for contrast
+                            color: 'rgba(255, 255, 255, 0.2)'
                         }
                     },
                     x: {
                         ticks: {
-                            color: 'rgba(255, 255, 255, 0.8)' // Light text for contrast
+                            color: 'rgba(255, 255, 255, 0.8)'
                         },
                         grid: {
-                            color: 'rgba(255, 255, 255, 0.2)' // Light grid lines for contrast
+                            display: false 
                         }
                     }
                 },
                 plugins: {
                     legend: {
-                        display: false // Hide the legend since we don't have a label
+                        display: false
                     }
                 }
             }

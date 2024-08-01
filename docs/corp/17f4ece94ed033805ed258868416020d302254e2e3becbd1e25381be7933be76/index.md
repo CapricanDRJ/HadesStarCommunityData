@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Lacuna Holdings
-description: W:21 L:13 D:0 Bonus ❌
-date: 1722028355
+description: W:21 L:14 D:0 Bonus ❌
+date: 1722539236
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1245 🔻  (226)|
-| ELO Competitive | 1291 🔻  (219)|
-| Total Matches | 34 |
+| ELO Regular | 1239 🔻  (243)|
+| ELO Competitive | 1285 🔻  (231)|
+| Total Matches | 35 |
 | Wins | 21 |
-| Losses | 13 |
+| Losses | 14 |
 | Draws | 0 |
 | Streak Record | 8 |
 
@@ -28,6 +28,7 @@ date: 1722028355
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/01 | 7-37 | [BrazilCorp\.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) |
 | ❌ | 2024/07/26 | 2-46 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) |
 | ❌ | 2024/07/13 | 11-31 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | ❌ | 2024/07/04 | 13-39 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |
@@ -85,7 +86,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721596355,1720416159,1719652232,1718563794,1718048256,1717313040,1716713193,1716028159,1715460608,1714820646,1714291717,1713719062,1712438461,1711655401,1711123557,1710625389,1709988989,1709327048,1708822535,1708152126,1707561492,1706887909,1706282370,1705676833,1705092942,1704521359,1703880668,1703214709,1702717724,1702167730,1700884096,1700340711,1699663481,1699003232];
+        let timestamps = [1722107236,1721596355,1720416159,1719652232,1718563794,1718048256,1717313040,1716713193,1716028159,1715460608,1714820646,1714291717,1713719062,1712438461,1711655401,1711123557,1710625389,1709988989,1709327048,1708822535,1708152126,1707561492,1706887909,1706282370,1705676833,1705092942,1704521359,1703880668,1703214709,1702717724,1702167730,1700884096,1700340711,1699663481,1699003232];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -105,28 +106,27 @@ This chart shows the frequency of days of the week when whitestars were matched.
         const data = {
             labels: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
             datasets: [{
-                // Custom electric blue/white color scheme for a dark background
-                data: dayCounts,
+            data: dayCounts,
                 backgroundColor: [
-                    'rgba(0, 255, 255, 0.9)',   // Electric Cyan
-                    'rgba(173, 216, 230, 0.9)', // Light Blue
-                    'rgba(0, 191, 255, 0.9)',   // Deep Sky Blue
-                    'rgba(0, 206, 209, 0.9)',   // Dark Turquoise
-                    'rgba(135, 206, 250, 0.9)', // Light Sky Blue
-                    'rgba(0, 255, 255, 0.9)',   // Cyan
-                    'rgba(30, 144, 255, 0.9)'   // Dodger Blue
+                    'rgba(0, 191, 255, 0.2)',   // Deep Sky Blue (Sunday)
+                    'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Monday)
+                    'rgba(173, 216, 230, 0.2)', // Light Blue (Tuesday)
+                    'rgba(255, 255, 255, 0.2)', // White (Wednesday)
+                    'rgba(173, 216, 230, 0.2)', // Light Blue (Thursday)
+                    'rgba(135, 206, 250, 0.2)', // Light Sky Blue (Friday)
+                    'rgba(0, 191, 255, 0.2)'    // Deep Sky Blue (Saturday)
                 ],
                 borderColor: [
-                    'rgba(0, 255, 255, 1)',     // Electric Cyan
-                    'rgba(173, 216, 230, 1)',   // Light Blue
-                    'rgba(0, 191, 255, 1)',     // Deep Sky Blue
-                    'rgba(0, 206, 209, 1)',     // Dark Turquoise
-                    'rgba(135, 206, 250, 1)',   // Light Sky Blue
-                    'rgba(0, 255, 255, 1)',     // Cyan
-                    'rgba(30, 144, 255, 1)'     // Dodger Blue
+                    'rgba(0, 191, 255, 1)',   // Deep Sky Blue (Sunday)
+                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Monday)
+                    'rgba(173, 216, 230, 1)', // Light Blue (Tuesday)
+                    'rgba(255, 255, 255, 1)', // White (Wednesday)
+                    'rgba(173, 216, 230, 1)', // Light Blue (Thursday)
+                    'rgba(135, 206, 250, 1)', // Light Sky Blue (Friday)
+                    'rgba(0, 191, 255, 1)'    // Deep Sky Blue (Saturday)
                 ],
                 borderWidth: 1,
-                minBarLength: 5 // Ensure bars have at least this many pixels in height
+                minBarLength: 5
             }]
         };
 
@@ -138,24 +138,24 @@ This chart shows the frequency of days of the week when whitestars were matched.
                     y: {
                         beginAtZero: true,
                         ticks: {
-                            color: 'rgba(255, 255, 255, 0.8)' // Light text for contrast
+                            color: 'rgba(255, 255, 255, 0.8)'
                         },
                         grid: {
-                            color: 'rgba(255, 255, 255, 0.2)' // Light grid lines for contrast
+                            color: 'rgba(255, 255, 255, 0.2)'
                         }
                     },
                     x: {
                         ticks: {
-                            color: 'rgba(255, 255, 255, 0.8)' // Light text for contrast
+                            color: 'rgba(255, 255, 255, 0.8)'
                         },
                         grid: {
-                            color: 'rgba(255, 255, 255, 0.2)' // Light grid lines for contrast
+                            display: false 
                         }
                     }
                 },
                 plugins: {
                     legend: {
-                        display: false // Hide the legend since we don't have a label
+                        display: false
                     }
                 }
             }
