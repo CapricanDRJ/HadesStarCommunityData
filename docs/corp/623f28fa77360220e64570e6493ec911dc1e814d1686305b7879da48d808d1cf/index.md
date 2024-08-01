@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​BrazilCorp.
-description: W:35 L:5 D:0 Bonus ✅
+description: W:35 L:5 D:0 Bonus ❌
 date: 1721877187
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

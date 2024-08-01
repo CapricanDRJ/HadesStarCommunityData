@@ -1,32 +1,33 @@
 ---
 layout: page
 title: ​Z. O. V. 
-description: W:18 L:4 D:1 Bonus ❌
-date: 1721874184
+description: W:19 L:4 D:1 Bonus ✅
+date: 1722498350
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1352 🔺  (64)|
-| ELO Competitive | 1402 🔺  (82)|
-| Total Matches | 23 |
-| Wins | 18 |
+| ELO Regular | 1359 🔺  (60)|
+| ELO Competitive | 1410 🔺  (78)|
+| Total Matches | 24 |
+| Wins | 19 |
 | Losses | 4 |
 | Draws | 1 |
-| Streak | 11 |
-| Streak Record | 11 |
+| Streak | 12 |
+| Streak Record | 12 |
 
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
-| [华夏三体舰队](https://ws.tsl.rocks/corp/a457b1d7612cdff92b655d33cf4ffd72b38aa796525cf0432423cfd0d01c6cf9/) | 2 | 0 | 0 | 2 |
+| [华夏三体舰队](https://ws.tsl.rocks/corp/a457b1d7612cdff92b655d33cf4ffd72b38aa796525cf0432423cfd0d01c6cf9/) | 3 | 0 | 0 | 3 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/01 | 13-1 | [华夏三体舰队](https://ws.tsl.rocks/corp/a457b1d7612cdff92b655d33cf4ffd72b38aa796525cf0432423cfd0d01c6cf9/) |
 | ✅ | 2024/07/25 | 24-2 | [脉冲星际集团](https://ws.tsl.rocks/corp/a4c08cf63563563e9bfa1d35edb256e9bb8bcdca15103d646d2ff8ed9d17f480/) |
 | ✅ | 2024/07/18 | 19-4 | [四季长春](https://ws.tsl.rocks/corp/cf0b11914dc18d8e669592ecfe191f115c4e5fdba09d130d260bb625b36a3179/) |
 | ✅ | 2024/07/10 | 28-0 | [三体舰队](https://ws.tsl.rocks/corp/4f07d6381e25833973d274b90a76aa73a9cac9b3f93a5279e2b0375f1108eb3a/) |

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​华夏三体舰队
-description: W:9 L:17 D:3 Bonus ❌
-date: 1722089655
+description: W:9 L:18 D:3 Bonus ❌
+date: 1722498350
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1125 🔻  (1066)|
-| ELO Competitive | 1219 🔻  (409)|
-| Total Matches | 29 |
+| ELO Regular | 1119 🔻  (1079)|
+| ELO Competitive | 1212 🔻  (476)|
+| Total Matches | 30 |
 | Wins | 9 |
-| Losses | 17 |
+| Losses | 18 |
 | Draws | 3 |
 | Streak Record | 3 |
 
@@ -20,13 +20,14 @@ date: 1722089655
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Z\. O\. V\. ](https://ws.tsl.rocks/corp/4f56534357f2407b25faee160f9dca4ee83b8f9ca4425ba472a47298faf54096/) | 0 | 3 | 0 | 3 |
 | [RGW](https://ws.tsl.rocks/corp/48a0b2c0f203025d10d1217dbcc5e27f3e31f56f2c407d61219c24ec88446be7/) | 0 | 2 | 0 | 2 |
-| [Z\. O\. V\. ](https://ws.tsl.rocks/corp/4f56534357f2407b25faee160f9dca4ee83b8f9ca4425ba472a47298faf54096/) | 0 | 2 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/01 | 1-13 | [Z\. O\. V\. ](https://ws.tsl.rocks/corp/4f56534357f2407b25faee160f9dca4ee83b8f9ca4425ba472a47298faf54096/) |
 | ❌ | 2024/07/27 | 0-2 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ❌ | 2024/07/27 | 3-4 | [Sich\.ua](https://ws.tsl.rocks/corp/9fcd6d7c4fe7f8e39acf48585dfe9c6d3d14edc7781fe8caf85618b3e98c685d/) |
 | ❌ | 2024/07/21 | 2-3 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) |
