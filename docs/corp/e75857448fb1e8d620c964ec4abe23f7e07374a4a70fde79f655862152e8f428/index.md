@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​BlackStar Order
-description: W:45 L:31 D:0 Bonus ✅
+description: W:45 L:31 D:0 Bonus ❌
 date: 1722433437
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
@@ -125,9 +125,9 @@ Corporation ID: e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>
 
-# Dynamic Bar Chart Example
+# Corporation Whitestar match day frequency
 
-This example dynamically creates a bar chart based on Unix timestamps using Chart.js loaded from a CDN.
+This chart shows the frequency of days of the week when whitestars were found.
 
 <!-- Load Chart.js from jsDelivr CDN -->
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.0.1"></script>
@@ -140,15 +140,6 @@ This example dynamically creates a bar chart based on Unix timestamps using Char
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
         let timestamps = [1722001437,1721957265,1721477643,1721404321,1720870275,1720825201,1720376795,1719806394,1719795278,1719325888,1718569806,1718557482,1718024507,1718020299,1717520430,1717490070,1716994484,1716981559,1716547321,1716546720,1715887552,1715881841,1715330807,1715210934,1714647175,1714642668,1714013383,1713971432,1713466093,1713449564,1712827571,1712720912,1712250059,1712224515,1711637069,1711083296,1711051149,1710497377,1710496776,1709926191,1709863691,1709368511,1709303908,1708757024,1708749513,1708287659,1708235064,1707666219,1707638268,1707076934,1706437736,1705835206,1705248911,1704758175,1704700539,1704310105,1704014397,1703804339,1703352653,1702881520,1702870403,1702390434,1702179449,1701937506,1701576554,1701431390,1701033784,1700926174,1700449811,1700374970,1699974579,1699824910,1699492751,1699292920,1698722543,1698716232];
-
-        if (timestamps.length === 0) {
-            // Handle empty data case, e.g., display a message
-            document.getElementById('myChart').style.display = 'none';
-            const message = document.createElement('p');
-            message.textContent = 'No data available to display the chart.';
-            document.body.appendChild(message);
-            return;
-        }
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {

@@ -114,9 +114,9 @@ Corporation ID: e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>
 
-# Dynamic Bar Chart Example
+# Corporation Whitestar match day frequency
 
-This example dynamically creates a bar chart based on Unix timestamps using Chart.js loaded from a CDN.
+This chart shows the frequency of days of the week when whitestars were found.
 
 <!-- Load Chart.js from jsDelivr CDN -->
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.0.1"></script>
@@ -129,15 +129,6 @@ This example dynamically creates a bar chart based on Unix timestamps using Char
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
         let timestamps = [1721985209,1721630007,1721544355,1721197578,1721108620,1720749455,1720673713,1720271607,1720238548,1719807896,1719797381,1719364356,1718916289,1718471233,1718032023,1718032023,1717595261,1717481957,1717155550,1717047072,1716650386,1716604406,1716171178,1716164871,1715709387,1715258099,1714820046,1714635285,1714384862,1714042337,1713922160,1713609693,1713273236,1713168917,1712822464,1712369046,1712361535,1711565563,1711563459,1711119951,1711119951,1710624488,1710567387,1709918377,1709388346,1708499804,1708061979,1707586585,1707577421,1707122306,1707113592,1706588900,1706586496,1706143237,1706138130,1705703405,1705701779,1705236286,1705199925,1704759077,1704293574,1703793819,1703779391,1703264297,1703263291,1702788354,1702787152,1702185760,1698687967,1698687065];
-
-        if (timestamps.length === 0) {
-            // Handle empty data case, e.g., display a message
-            document.getElementById('myChart').style.display = 'none';
-            const message = document.createElement('p');
-            message.textContent = 'No data available to display the chart.';
-            document.body.appendChild(message);
-            return;
-        }
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {

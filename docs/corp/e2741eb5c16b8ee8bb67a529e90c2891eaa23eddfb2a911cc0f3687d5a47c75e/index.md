@@ -103,9 +103,9 @@ Corporation ID: e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>
 
-# Dynamic Bar Chart Example
+# Corporation Whitestar match day frequency
 
-This example dynamically creates a bar chart based on Unix timestamps using Chart.js loaded from a CDN.
+This chart shows the frequency of days of the week when whitestars were found.
 
 <!-- Load Chart.js from jsDelivr CDN -->
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.0.1"></script>
@@ -118,15 +118,6 @@ This example dynamically creates a bar chart based on Unix timestamps using Char
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
         let timestamps = [1722076269,1722052224,1721462618,1721453903,1720856150,1720842327,1720239149,1720236745,1719633300,1719627291,1719023261,1719023260,1718337942,1718331333,1717735014,1717729906,1717238796,1717209044,1716612936,1716604406,1716014448,1716003522,1715432359,1715395101,1714808328,1714797511,1714186259,1714184756,1713612555,1713587159,1712988323,1712979609,1712378060,1712374454,1711778302,1711774396,1711204989,1711161720,1710557473,1710556271,1709969156,1709957139,1709358595,1709356793,1708750715,1708745607,1708161741,1708141009,1707551576,1707536254,1706944704,1706931183,1706325645,1706325044,1705729122,1705726199,1704862451,1704595291,1703998170,1703787206,1702944038,1702176444,1701611417];
-
-        if (timestamps.length === 0) {
-            // Handle empty data case, e.g., display a message
-            document.getElementById('myChart').style.display = 'none';
-            const message = document.createElement('p');
-            message.textContent = 'No data available to display the chart.';
-            document.body.appendChild(message);
-            return;
-        }
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {

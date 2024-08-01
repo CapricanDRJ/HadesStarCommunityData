@@ -105,9 +105,9 @@ Corporation ID: 0ab98cd1f1b195397b27360ea0dee2527f1504c9f5d4867e719d6f1f73efb01d
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>
 
-# Dynamic Bar Chart Example
+# Corporation Whitestar match day frequency
 
-This example dynamically creates a bar chart based on Unix timestamps using Chart.js loaded from a CDN.
+This chart shows the frequency of days of the week when whitestars were found.
 
 <!-- Load Chart.js from jsDelivr CDN -->
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.0.1"></script>
@@ -120,15 +120,6 @@ This example dynamically creates a bar chart based on Unix timestamps using Char
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
         let timestamps = [1721502891,1721013944,1720445909,1719846060,1719260684,1718557482,1717831563,1717065701,1716472514,1715760760,1715210934,1714583482,1713916453,1713449564,1712937844,1712378360,1711802041,1711209197,1710595034,1710546056,1709893898,1709352286,1708757024,1708749513,1708136502,1708092628,1707538056,1707008715,1706996998,1706552239,1706542019,1706101761,1706065405,1705469181,1705426509,1704964321,1704892198,1704410178,1704408676,1703960005,1703915825,1703410652,1703352653,1702818407,1702805182,1702270217,1702257598,1701740654,1701717812,1701193969,1701193668,1700659581,1700165791,1699668290,1699663481,1699175434,1699108426];
-
-        if (timestamps.length === 0) {
-            // Handle empty data case, e.g., display a message
-            document.getElementById('myChart').style.display = 'none';
-            const message = document.createElement('p');
-            message.textContent = 'No data available to display the chart.';
-            document.body.appendChild(message);
-            return;
-        }
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {

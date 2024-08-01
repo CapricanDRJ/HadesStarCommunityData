@@ -106,9 +106,9 @@ Corporation ID: 8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>
 
-# Dynamic Bar Chart Example
+# Corporation Whitestar match day frequency
 
-This example dynamically creates a bar chart based on Unix timestamps using Chart.js loaded from a CDN.
+This chart shows the frequency of days of the week when whitestars were found.
 
 <!-- Load Chart.js from jsDelivr CDN -->
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.0.1"></script>
@@ -121,15 +121,6 @@ This example dynamically creates a bar chart based on Unix timestamps using Char
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
         let timestamps = [1721886043,1721379978,1720944211,1720512025,1720079569,1719643817,1719201782,1718612469,1718085813,1717646956,1717646055,1717159918,1716725214,1716285345,1715805531,1715330807,1714872804,1714850395,1714417619,1714414915,1713967825,1713964670,1713533994,1713499441,1713076667,1713016268,1712644291,1712200478,1711745552,1711309568,1710838723,1710403336,1709970058,1709530776,1709069242,1708636832,1708195101,1707759071,1707315338,1706882799,1706442244,1705987572,1705516663,1705505542,1705071302,1704600399,1704123483,1703360168,1703215611,1702792561,1702729146,1702295160,1701803168,1701342133,1700895815,1700463633,1700031082,1699587108,1699197371,1699154703,1698693381,1698693080];
-
-        if (timestamps.length === 0) {
-            // Handle empty data case, e.g., display a message
-            document.getElementById('myChart').style.display = 'none';
-            const message = document.createElement('p');
-            message.textContent = 'No data available to display the chart.';
-            document.body.appendChild(message);
-            return;
-        }
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {

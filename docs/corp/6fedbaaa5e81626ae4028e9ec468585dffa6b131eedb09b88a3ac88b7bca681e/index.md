@@ -77,9 +77,9 @@ Corporation ID: 6fedbaaa5e81626ae4028e9ec468585dffa6b131eedb09b88a3ac88b7bca681e
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>
 
-# Dynamic Bar Chart Example
+# Corporation Whitestar match day frequency
 
-This example dynamically creates a bar chart based on Unix timestamps using Chart.js loaded from a CDN.
+This chart shows the frequency of days of the week when whitestars were found.
 
 <!-- Load Chart.js from jsDelivr CDN -->
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.0.1"></script>
@@ -92,15 +92,6 @@ This example dynamically creates a bar chart based on Unix timestamps using Char
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
         let timestamps = [1717931340,1717170580,1715887552,1714504158,1713406602,1712417124,1711930954,1711475723,1710924353,1710370293,1709841158,1709324344,1708890449,1708656360,1708235064,1707771398,1707248333,1706564262,1706127911,1705595091,1705070099,1704549908,1704067591,1703613204,1703091793,1702586996,1702091086,1701717812,1701283230,1701042800,1700600683,1700165791,1699686624,1699234332,1698786272];
-
-        if (timestamps.length === 0) {
-            // Handle empty data case, e.g., display a message
-            document.getElementById('myChart').style.display = 'none';
-            const message = document.createElement('p');
-            message.textContent = 'No data available to display the chart.';
-            document.body.appendChild(message);
-            return;
-        }
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {

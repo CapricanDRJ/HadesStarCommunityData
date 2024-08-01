@@ -121,9 +121,9 @@ Corporation ID: a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>
 
-# Dynamic Bar Chart Example
+# Corporation Whitestar match day frequency
 
-This example dynamically creates a bar chart based on Unix timestamps using Chart.js loaded from a CDN.
+This chart shows the frequency of days of the week when whitestars were found.
 
 <!-- Load Chart.js from jsDelivr CDN -->
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.0.1"></script>
@@ -136,15 +136,6 @@ This example dynamically creates a bar chart based on Unix timestamps using Char
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
         let timestamps = [1721985209,1721632110,1721548863,1721113128,1721024463,1720650575,1720425174,1720199786,1719812404,1719758313,1719276609,1719205687,1718841764,1718604357,1718399108,1717997760,1717959298,1717495997,1717392995,1717056085,1716790126,1716612936,1716183494,1716176285,1715716599,1715584098,1715281238,1714981987,1714844386,1714461188,1714406500,1713971732,1713770133,1713524520,1713158103,1713085382,1712640386,1712557152,1712203483,1711960396,1711743387,1711354032,1711303566,1710916242,1710866367,1710415953,1710261822,1709824930,1709786171,1709298319,1709218270,1708865203,1708608880,1708064383,1707986854,1707457826,1707381803,1706784532,1706178691,1705495624,1704958312,1703253776,1702810292,1702364588,1701841935,1701326206,1700809255,1700152566,1700149559,1699645442,1699637925,1699191360,1698715030,1698714729];
-
-        if (timestamps.length === 0) {
-            // Handle empty data case, e.g., display a message
-            document.getElementById('myChart').style.display = 'none';
-            const message = document.createElement('p');
-            message.textContent = 'No data available to display the chart.';
-            document.body.appendChild(message);
-            return;
-        }
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {

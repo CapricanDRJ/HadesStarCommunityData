@@ -99,9 +99,9 @@ Corporation ID: 6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>
 
-# Dynamic Bar Chart Example
+# Corporation Whitestar match day frequency
 
-This example dynamically creates a bar chart based on Unix timestamps using Chart.js loaded from a CDN.
+This chart shows the frequency of days of the week when whitestars were found.
 
 <!-- Load Chart.js from jsDelivr CDN -->
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.0.1"></script>
@@ -114,15 +114,6 @@ This example dynamically creates a bar chart based on Unix timestamps using Char
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
         let timestamps = [1721809413,1721798296,1721372766,1721310264,1720928884,1720494296,1720110230,1720059735,1719627291,1719564485,1719105011,1719105011,1718635910,1718613370,1718195499,1718121274,1717730818,1717683922,1717264050,1717251423,1716811461,1716805150,1716332308,1716331317,1715882142,1715853896,1715335013,1714933020,1714892155,1714404998,1714385162,1713921259,1713913750,1713447761,1713446259,1713012061,1712658712,1712574578,1712113342,1712110037,1711648789,1711642478,1711201082,1711114542,1710761203,1710246195,1709728480,1709421704,1709211358,1708954445,1708680097,1708218841,1707756366,1706887007,1706882198,1706444347,1706190112,1706011610,1705718906,1705532894,1705067094,1704619630];
-
-        if (timestamps.length === 0) {
-            // Handle empty data case, e.g., display a message
-            document.getElementById('myChart').style.display = 'none';
-            const message = document.createElement('p');
-            message.textContent = 'No data available to display the chart.';
-            document.body.appendChild(message);
-            return;
-        }
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
