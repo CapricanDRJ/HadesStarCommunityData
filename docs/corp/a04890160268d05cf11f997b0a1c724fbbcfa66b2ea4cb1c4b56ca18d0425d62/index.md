@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​GDZ
-description: W:31 L:27 D:0 Bonus ❌
-date: 1722044879
+description: W:31 L:28 D:0 Bonus ❌
+date: 1722511576
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1217 🔻  (333)|
-| ELO Competitive | 1287 🔻  (230)|
-| Total Matches | 58 |
+| ELO Regular | 1197 🔻  (473)|
+| ELO Competitive | 1267 🔻  (268)|
+| Total Matches | 59 |
 | Wins | 31 |
-| Losses | 27 |
+| Losses | 28 |
 | Draws | 0 |
 | Streak Record | 8 |
 
@@ -20,11 +20,11 @@ date: 1722044879
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) | 2 | 1 | 0 | 3 |
 | [YETI Collective](https://ws.tsl.rocks/corp/ff6a3c65d008d245f003a3009374e26cf38e7cda6ea4d601a9da9037296fda98/) | 1 | 1 | 0 | 2 |
 | [KLM](https://ws.tsl.rocks/corp/963e490e64d4703042415d3fcd8267ff87fbfd3383b83d447d29d842f2a446a1/) | 1 | 1 | 0 | 2 |
 | [Famous Assasins](https://ws.tsl.rocks/corp/8a3aea3b3dacfd3dcdb402e896204557e250b07b8a5e04b5814600c66cc1a25b/) | 0 | 3 | 0 | 3 |
 | [VoidCorp](https://ws.tsl.rocks/corp/b866417e5607f8434347bb5f986e37c4fa7dda68b3882f0135d186043d3f68a3/) | 1 | 1 | 0 | 2 |
-| [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) | 2 | 0 | 0 | 2 |
 | [Crux Cadre](https://ws.tsl.rocks/corp/41cdba59897d5e01412601b648c1a692368d92c198123f9ab442f2a23464b375/) | 2 | 0 | 0 | 2 |
 | [ItBurnsWhenIEMP](https://ws.tsl.rocks/corp/1549586a8e69d1a5b1245b5cf33b7beb241b2343c07d1d800e5a2c4026c06438/) | 0 | 2 | 0 | 2 |
 | [Omega Alpha](https://ws.tsl.rocks/corp/b6e23a3f1f3a3c735c694624b273dcd7da2f8bd13a5ac2b36a8ad39737b1d062/) | 0 | 2 | 0 | 2 |
@@ -33,6 +33,7 @@ date: 1722044879
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/01 | 20-27 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) |
 | ❌ | 2024/07/27 | 19-31 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) |
 | ❌ | 2024/07/24 | 4-12 | [Торг\. федерация](https://ws.tsl.rocks/corp/915f197e5951f44128c2a3d3126141cd44b3c67a361158d2b220a5883e410310/) |
 | ✅ | 2024/07/21 | 28-2 | [YETI Collective](https://ws.tsl.rocks/corp/ff6a3c65d008d245f003a3009374e26cf38e7cda6ea4d601a9da9037296fda98/) |

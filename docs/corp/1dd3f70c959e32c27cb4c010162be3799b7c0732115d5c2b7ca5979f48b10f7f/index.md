@@ -1,27 +1,28 @@
 ---
 layout: page
 title: ​萌新的收留所
-description: W:10 L:3 D:1 Bonus ✅
-date: 1722484825
+description: W:11 L:3 D:1 Bonus ✅
+date: 1722514583
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1302 🔺  (123)|
+| ELO Regular | 1311 🔺  (106)|
 | ELO Competitive | 1339 🔺  (147)|
-| Total Matches | 14 |
-| Wins | 10 |
+| Total Matches | 15 |
+| Wins | 11 |
 | Losses | 3 |
 | Draws | 1 |
-| Streak | 5 |
-| Streak Record | 5 |
+| Streak | 6 |
+| Streak Record | 6 |
 
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/01 | 11-7 | [蓝色星系一号分盟](https://ws.tsl.rocks/corp/e0f054888d7f0127596210e18c6714dc3bd228748e8f6822d1a091514d6264b8/) |
 | ✅ | 2024/08/01 | 9-0 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ✅ | 2024/07/25 | 10-1 | [\*Alfa y Omega\*](https://ws.tsl.rocks/corp/b1da3a2265efd2266a8e4b5698a731ae179d00e431ee748d7bee62a1357a12ed/) |
 | ✅ | 2024/07/25 | 20-8 | [落雨观花](https://ws.tsl.rocks/corp/565a6d89fc5107e86669d7f8910a1c4ae1fbb156fa0b5e81dbc917c341cc9ff0/) |

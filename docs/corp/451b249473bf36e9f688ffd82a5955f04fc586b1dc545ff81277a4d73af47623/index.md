@@ -1,28 +1,29 @@
 ---
 layout: page
 title: ​Lost Legion
-description: W:20 L:35 D:0 Bonus ✅
-date: 1722028054
+description: W:21 L:35 D:0 Bonus ✅
+date: 1722511576
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1113 🔺  (1092)|
-| ELO Competitive | 1184 🔺  (830)|
-| Total Matches | 55 |
-| Wins | 20 |
+| ELO Regular | 1132 🔺  (1052)|
+| ELO Competitive | 1203 🔺  (511)|
+| Total Matches | 56 |
+| Wins | 21 |
 | Losses | 35 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 4 |
 
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [GDZ](https://ws.tsl.rocks/corp/a04890160268d05cf11f997b0a1c724fbbcfa66b2ea4cb1c4b56ca18d0425d62/) | 1 | 2 | 0 | 3 |
 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 1 | 1 | 0 | 2 |
 | [YETI Collective](https://ws.tsl.rocks/corp/ff6a3c65d008d245f003a3009374e26cf38e7cda6ea4d601a9da9037296fda98/) | 2 | 0 | 0 | 2 |
-| [GDZ](https://ws.tsl.rocks/corp/a04890160268d05cf11f997b0a1c724fbbcfa66b2ea4cb1c4b56ca18d0425d62/) | 0 | 2 | 0 | 2 |
 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) | 2 | 0 | 0 | 2 |
 | [The Watchers](https://ws.tsl.rocks/corp/62a08ec3521bd62e5c8fbfc03c7d99fbf3e30fd1df80716485c9b989b27771e6/) | 0 | 2 | 0 | 2 |
 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) | 2 | 0 | 0 | 2 |
@@ -34,6 +35,7 @@ date: 1722028054
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/01 | 27-20 | [GDZ](https://ws.tsl.rocks/corp/a04890160268d05cf11f997b0a1c724fbbcfa66b2ea4cb1c4b56ca18d0425d62/) |
 | ✅ | 2024/07/26 | 39-4 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) |
 | ❌ | 2024/07/21 | 17-29 | [Stargate Corp](https://ws.tsl.rocks/corp/b698cd0d86be60954a4b995f79fffe102a71c350e47fbdc2a5827f0ed0ca455d/) |
 | ❌ | 2024/07/16 | 12-50 | [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) |

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​世外桃源
-description: W:9 L:79 D:0 Bonus ✅
+description: W:9 L:79 D:0 Bonus ❌
 date: 1722348693
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
