@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Industrial W.O
-description: W:21 L:22 D:1 Bonus ✅
-date: 1722090256
+description: W:22 L:22 D:1 Bonus ✅
+date: 1722545849
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1241 🔺  (237)|
-| ELO Competitive | 1280 🔺  (241)|
-| Total Matches | 44 |
-| Wins | 21 |
+| ELO Regular | 1261 🔺  (191)|
+| ELO Competitive | 1301 🔺  (206)|
+| Total Matches | 45 |
+| Wins | 22 |
 | Losses | 22 |
 | Draws | 1 |
-| Streak | 3 |
-| Streak Record | 3 |
+| Streak | 4 |
+| Streak Record | 4 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721658256,1721137474,1720704068,1720200988,1719622484,1718982091,1718441777,1717966212,1717451611,1716585845,1715880940,1715263208,1714488832,1713888509,1713259663,1712670130,1712081492,1711480531,1711025904,1710525322,1709912667,1709401270,1708910580,1708375706,1707903316,1707393821,1706954021,1706477713,1706043771,1705597196,1705093543,1704632554,1704192298,1703716586,1703279926,1702834038,1702339948,1701877700,1701442813,1700995603,1700510220,1700044904,1699489146,1698691369];
+        let timestamps = [1722113849,1721658256,1721137474,1720704068,1720200988,1719622484,1718982091,1718441777,1717966212,1717451611,1716585845,1715880940,1715263208,1714488832,1713888509,1713259663,1712670130,1712081492,1711480531,1711025904,1710525322,1709912667,1709401270,1708910580,1708375706,1707903316,1707393821,1706954021,1706477713,1706043771,1705597196,1705093543,1704632554,1704192298,1703716586,1703279926,1702834038,1702339948,1701877700,1701442813,1700995603,1700510220,1700044904,1699489146,1698691369];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/01 | 19-9 | [Kratos](https://ws.tsl.rocks/corp/1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b/) |
 | ✅ | 2024/07/27 | 11-0 | [Галактика Зла](https://ws.tsl.rocks/corp/1495d852070d8182229d3cb26e828265d4525a9ef97a9b377415b803b01d6101/) |
 | ✅ | 2024/07/21 | 28-0 | [Mandalorians](https://ws.tsl.rocks/corp/c02d28803fca7e05e20ff959e4809e2b387097a58bbc34432aacbbeb01b6d81c/) |
 | ✅ | 2024/07/16 | 24-13 | [NERF TOY'S](https://ws.tsl.rocks/corp/34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0/) |
