@@ -1031,7 +1031,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [以太超星团](https://ws.tsl.rocks/corp/327addf616128dc5b01013e29e850c76d22ae27af199bcc6bba3b92cee7818ae/) | 1031 | 1158 | 28 |
 | [企鹅帝国](https://ws.tsl.rocks/corp/53f5c71ba84d7adb312f2f45919553d71769bce6acb74e18973f8c9127499807/) | 1200 | 1200 | 2 |
 | [佛矿寺](https://ws.tsl.rocks/corp/64f8afd95b7004e9d5a442da55644ee3ce64a9a8e82345c458d757b527e40624/) | 998 | 1028 | 44 |
-| [使命白星](https://ws.tsl.rocks/corp/88e828c55c07286950a3296b00ca2a7a9cc2f1a0139e9cf4c6e54229f821e952/) | 1205 | 1230 | 8 |
+| [使命白星](https://ws.tsl.rocks/corp/88e828c55c07286950a3296b00ca2a7a9cc2f1a0139e9cf4c6e54229f821e952/) | 1219 | 1245 | 9 |
 | [使命白星分团](https://ws.tsl.rocks/corp/756b9e1ef6c71e6a6b21c9859364c3bb6db5b24082327b1ea0f2b790cb49ef75/) | 1189 | 1189 | 1 |
 | [元素联邦](https://ws.tsl.rocks/corp/e9d602d617d5c81270107c15a6d1f1717c5016abad802d3629f7f4301a58e95e/) | 1380 | 1422 | 38 |
 | [八月政府](https://ws.tsl.rocks/corp/72097ba1b36daa9482410e9d2b442965a1f4bbb7bb7974995521f1a948244424/) | 1063 | 1095 | 21 |
@@ -1109,7 +1109,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [星舰月球](https://ws.tsl.rocks/corp/b9a3e1e7fd3a235db7f440974db9210dc9a3b85c39fd437099f32f53cfe1e21c/) | 1435 | 1507 | 38 |
 | [星际联盟（中国）](https://ws.tsl.rocks/corp/1deb8ab45257a86051f9c285bbbe06652a56d93118d8e442a0a30ddd179f4256/) | 1213 | 1247 | 18 |
 | [星际集团](https://ws.tsl.rocks/corp/5487e6c91bbb3348790aa90be274a471189edab52d1567d86412023e0e501871/) | 1160 | 1163 | 8 |
-| [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) | 1198 | 1240 | 10 |
+| [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) | 1183 | 1224 | 11 |
 | [星际集团](https://ws.tsl.rocks/corp/4f61a43eb3082215034e4c78c8feceeae71ca38f447469c49ba8a61d0c0d97eb/) | 1183 | 1185 | 1 |
 | [春城阳关](https://ws.tsl.rocks/corp/bc27282881e1fe0acdf914d7d700f6722d74c173fd16d0bb446d345e7daa9ede/) | 1187 | 1187 | 1 |
 | [普罗米修斯](https://ws.tsl.rocks/corp/f39d00b1bbbf87c158931fd887f37a588019d0b1fd4f2441fbc675674b71423a/) | 1100 | 1111 | 10 |
@@ -1167,7 +1167,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [行星联合军](https://ws.tsl.rocks/corp/5afa03bdcf5439e267c7f2b358e6ae5d16030d3d52b527b58b37236ddfa7fe57/) | 1169 | 1187 | 16 |
 | [解语者研究会](https://ws.tsl.rocks/corp/444a03ecd02c6388fe2328a85f5d3d21260884e4f52926078ca30880fe21c4dd/) | 1186 | 1186 | 1 |
 | [资助会](https://ws.tsl.rocks/corp/4d36e1b3853444f7789e6142230ba93f3968baffc18bfad598c3d450c6b247e2/) | 1277 | 1276 | 10 |
-| [超新星联盟](https://ws.tsl.rocks/corp/c3667794c88fd0a09f565dc3b4fed5325f131a616d01d0f6890755b44997d0a1/) | 1182 | 1209 | 11 |
+| [超新星联盟](https://ws.tsl.rocks/corp/c3667794c88fd0a09f565dc3b4fed5325f131a616d01d0f6890755b44997d0a1/) | 1170 | 1196 | 12 |
 | [边界\-萌新俱乐部](https://ws.tsl.rocks/corp/b5f7e751f69db2b698fd436f3d60af1d1d435f5eb8d0984e45f8fcc7cbc74453/) | 1229 | 1229 | 2 |
 | [边缘世界](https://ws.tsl.rocks/corp/6a0c2b263b0bfabc564979bce02c28c80aae497654fc10637ceb36d5447f6365/) | 1210 | 1211 | 7 |
 | [边际的文明](https://ws.tsl.rocks/corp/4e21eaedc914a082c3bbb48fc00a00db0993fa6da46c25db658dfdc2857e7eb9/) | 1143 | 1145 | 4 |
@@ -1178,7 +1178,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [銀河戰狼](https://ws.tsl.rocks/corp/0e3a0b6c7cab81e9ca908fb9dbeea4ed3917675ad8fb003ad565c772e1b36646/) | 1193 | 1193 | 1 |
 | [銀河星际集团](https://ws.tsl.rocks/corp/c5e6943dbc9554726445e6a9361c6dee76ed322b9c4e8925e91c5aef05d60411/) | 1213 | 1213 | 1 |
 | [银星舰队SSF](https://ws.tsl.rocks/corp/c02d97cc37c082739a7828b6669ee67e2108bbf3d9f33628c650ced9fe04dd06/) | 1244 | 1256 | 13 |
-| [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) | 1237 | 1245 | 5 |
+| [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) | 1250 | 1259 | 6 |
 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) | 1189 | 1307 | 45 |
 | [雪月永恒](https://ws.tsl.rocks/corp/3b30781263716daadc217687009247bd0acb28c7eb4a8ebfe37daa11142622c2/) | 1252 | 1260 | 7 |
 | [零号帝国](https://ws.tsl.rocks/corp/972b9a4a3b2871e8708ed94f690dec82625905681c3c77a5688cea7b69d77ee0/) | 1243 | 1244 | 3 |

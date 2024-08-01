@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​星际集团
-description: W:5 L:3 D:2 Bonus ✅
-date: 1721956624
+description: W:5 L:4 D:2 Bonus ✅
+date: 1722473705
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1198 🔺  (474)|
-| ELO Competitive | 1240 🔺  (334)|
-| Total Matches | 10 |
+| ELO Regular | 1183 🔻  (733)|
+| ELO Competitive | 1224 🔻  (390)|
+| Total Matches | 11 |
 | Wins | 5 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 2 |
 | Streak Record | 2 |
 
@@ -26,6 +26,7 @@ date: 1721956624
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/01 | 0-13 | [使命白星](https://ws.tsl.rocks/corp/88e828c55c07286950a3296b00ca2a7a9cc2f1a0139e9cf4c6e54229f821e952/) |
 | ✅ | 2024/07/26 | 1-0 | [以太超星团](https://ws.tsl.rocks/corp/327addf616128dc5b01013e29e850c76d22ae27af199bcc6bba3b92cee7818ae/) |
 | ❌ | 2024/07/20 | 2-3 | [羽共和体](https://ws.tsl.rocks/corp/61b6e0502a087307a2ecf50e5d84f6123ad19984dc5790c997f16a676213aa7e/) |
 | ❌ | 2024/07/20 | 0-18 | [萌新的收留所](https://ws.tsl.rocks/corp/1dd3f70c959e32c27cb4c010162be3799b7c0732115d5c2b7ca5979f48b10f7f/) |

@@ -1,27 +1,33 @@
 ---
 layout: page
 title: ​阿尔特拉太空港
-description: W:4 L:1 D:0 Bonus ✅
-date: 1722048184
+description: W:5 L:1 D:0 Bonus ✅
+date: 1722483622
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1237 🔺  (249)|
-| ELO Competitive | 1245 🔺  (321)|
-| Total Matches | 5 |
-| Wins | 4 |
+| ELO Regular | 1250 🔺  (217)|
+| ELO Competitive | 1259 🔺  (288)|
+| Total Matches | 6 |
+| Wins | 5 |
 | Losses | 1 |
 | Draws | 0 |
-| Streak | 4 |
-| Streak Record | 4 |
+| Streak | 5 |
+| Streak Record | 5 |
 
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [超新星联盟](https://ws.tsl.rocks/corp/c3667794c88fd0a09f565dc3b4fed5325f131a616d01d0f6890755b44997d0a1/) | 2 | 0 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/01 | 9-1 | [超新星联盟](https://ws.tsl.rocks/corp/c3667794c88fd0a09f565dc3b4fed5325f131a616d01d0f6890755b44997d0a1/) |
 | ✅ | 2024/07/27 | 12-0 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
 | ✅ | 2024/07/21 | 3-2 | [华夏三体舰队](https://ws.tsl.rocks/corp/a457b1d7612cdff92b655d33cf4ffd72b38aa796525cf0432423cfd0d01c6cf9/) |
 | ✅ | 2024/07/16 | 3-2 | [超新星联盟](https://ws.tsl.rocks/corp/c3667794c88fd0a09f565dc3b4fed5325f131a616d01d0f6890755b44997d0a1/) |

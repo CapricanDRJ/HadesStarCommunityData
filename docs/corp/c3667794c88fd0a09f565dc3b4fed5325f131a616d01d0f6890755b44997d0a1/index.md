@@ -1,26 +1,32 @@
 ---
 layout: page
 title: ​超新星联盟
-description: W:5 L:6 D:0 Bonus ❌
-date: 1721833015
+description: W:5 L:7 D:0 Bonus ❌
+date: 1722483622
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔻  (748)|
-| ELO Competitive | 1209 🔻  (490)|
-| Total Matches | 11 |
+| ELO Regular | 1170 🔻  (878)|
+| ELO Competitive | 1196 🔻  (580)|
+| Total Matches | 12 |
 | Wins | 5 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 0 |
 | Streak Record | 3 |
 
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) | 0 | 2 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/01 | 1-9 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) |
 | ❌ | 2024/07/24 | 0-2 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
 | ❌ | 2024/07/24 | 3-17 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |
 | ❌ | 2024/07/16 | 2-3 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) |
