@@ -83,6 +83,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
                     y: {
                         beginAtZero: true,
                         ticks: {
+                            stepSize: 1,
                             color: 'rgba(255, 255, 255, 0.8)'
                         },
                         grid: {
