@@ -137,25 +137,25 @@ This chart shows the frequency of days of the week when whitestars were matched.
         const data = {
             labels: ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'],
             datasets: [{
-                label: 'Events by Day of the Week',
+                // Custom electric blue/white color scheme for a dark background
                 data: dayCounts,
                 backgroundColor: [
-                    'rgba(255, 99, 132, 0.2)',
-                    'rgba(54, 162, 235, 0.2)',
-                    'rgba(255, 206, 86, 0.2)',
-                    'rgba(75, 192, 192, 0.2)',
-                    'rgba(153, 102, 255, 0.2)',
-                    'rgba(255, 159, 64, 0.2)',
-                    'rgba(255, 99, 132, 0.2)'
+                    'rgba(0, 255, 255, 0.9)',   // Electric Cyan
+                    'rgba(173, 216, 230, 0.9)', // Light Blue
+                    'rgba(0, 191, 255, 0.9)',   // Deep Sky Blue
+                    'rgba(0, 206, 209, 0.9)',   // Dark Turquoise
+                    'rgba(135, 206, 250, 0.9)', // Light Sky Blue
+                    'rgba(0, 255, 255, 0.9)',   // Cyan
+                    'rgba(30, 144, 255, 0.9)'   // Dodger Blue
                 ],
                 borderColor: [
-                    'rgba(255, 99, 132, 1)',
-                    'rgba(54, 162, 235, 1)',
-                    'rgba(255, 206, 86, 1)',
-                    'rgba(75, 192, 192, 1)',
-                    'rgba(153, 102, 255, 1)',
-                    'rgba(255, 159, 64, 1)',
-                    'rgba(255, 99, 132, 1)'
+                    'rgba(0, 255, 255, 1)',     // Electric Cyan
+                    'rgba(173, 216, 230, 1)',   // Light Blue
+                    'rgba(0, 191, 255, 1)',     // Deep Sky Blue
+                    'rgba(0, 206, 209, 1)',     // Dark Turquoise
+                    'rgba(135, 206, 250, 1)',   // Light Sky Blue
+                    'rgba(0, 255, 255, 1)',     // Cyan
+                    'rgba(30, 144, 255, 1)'     // Dodger Blue
                 ],
                 borderWidth: 1,
                 minBarLength: 5 // Ensure bars have at least this many pixels in height
@@ -168,7 +168,26 @@ This chart shows the frequency of days of the week when whitestars were matched.
             options: {
                 scales: {
                     y: {
-                        beginAtZero: true
+                        beginAtZero: true,
+                        ticks: {
+                            color: 'rgba(255, 255, 255, 0.8)' // Light text for contrast
+                        },
+                        grid: {
+                            color: 'rgba(255, 255, 255, 0.2)' // Light grid lines for contrast
+                        }
+                    },
+                    x: {
+                        ticks: {
+                            color: 'rgba(255, 255, 255, 0.8)' // Light text for contrast
+                        },
+                        grid: {
+                            color: 'rgba(255, 255, 255, 0.2)' // Light grid lines for contrast
+                        }
+                    }
+                },
+                plugins: {
+                    legend: {
+                        display: false // Hide the legend since we don't have a label
                     }
                 }
             }
