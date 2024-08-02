@@ -868,7 +868,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Zeta LLC](https://ws.tsl.rocks/corp/5779c7241b1f516fefec667bf95a9d1e0db38d307d559e1491b4f3a7fcd720f8/) | 1266 | 1270 | 9 |
 | [ZION](https://ws.tsl.rocks/corp/99ac8e5c0f22878b9a4458953d0c712ada17ef36ae195ccf39c7921dc996adfe/) | 1232 | 1312 | 40 |
 | [ZN•H2B](https://ws.tsl.rocks/corp/2db26f485dd1e772b0bf13ef6db7eb053b37270ef1e24804ebc12472adb0708d/) | 1152 | 1167 | 13 |
-| [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) | 1236 | 1245 | 4 |
+| [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) | 1247 | 1258 | 5 |
 | [Zvezdec](https://ws.tsl.rocks/corp/7bce2af674b8fb313f43e497201ad86b230571cc3e200f44132be528eb4076d9/) | 1304 | 1382 | 44 |
 | [ZZZ\-V](https://ws.tsl.rocks/corp/9e6f878b03a3ca661f5eafaa5af01e7887971828fb622693b1a9704cec4f2403/) | 1237 | 1238 | 4 |
 | [001\-23](https://ws.tsl.rocks/corp/790662c2084ccccfc01b7d1639992198be537b4040c21dae0a20e650e0667ffc/) | 1066 | 1070 | 11 |
@@ -1044,7 +1044,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [凛冬重工](https://ws.tsl.rocks/corp/513d81e0236600883fae60f5ad8bc4b54fe7b9787479dd96fb7e0b4dea3ca5eb/) | 1195 | 1198 | 2 |
 | [初始之音](https://ws.tsl.rocks/corp/79f48676f0ad15541a751311b97bae91c977d65480891a675585fc396c20bdb9/) | 1163 | 1207 | 25 |
 | [北冥星云](https://ws.tsl.rocks/corp/88cb246960e97ace5f27c024831a42d0f4ad4df3493d6496dd2735190c15e47e/) | 1145 | 1160 | 4 |
-| [华夏三体舰队](https://ws.tsl.rocks/corp/a457b1d7612cdff92b655d33cf4ffd72b38aa796525cf0432423cfd0d01c6cf9/) | 1119 | 1212 | 30 |
+| [华夏三体舰队](https://ws.tsl.rocks/corp/a457b1d7612cdff92b655d33cf4ffd72b38aa796525cf0432423cfd0d01c6cf9/) | 1109 | 1212 | 31 |
 | [华夏太空舰队](https://ws.tsl.rocks/corp/b36847dc8503eb856ff260ff65b39d3e350068b0e85281b9df132a726d080c92/) | 1186 | 1186 | 2 |
 | [华夏航队](https://ws.tsl.rocks/corp/c63fe9c181dbac2833d2a4dbf3b050625128057c318b3b5a05bb54bd864f531c/) | 1141 | 1176 | 9 |
 | [华夏舰队](https://ws.tsl.rocks/corp/abd6d05a100ffdde2d15abd725a209bfbbf069b60b10ddeac88e88da66191472/) | 1138 | 1219 | 45 |

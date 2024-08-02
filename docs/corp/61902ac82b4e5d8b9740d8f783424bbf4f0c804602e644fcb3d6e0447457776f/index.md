@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​ZORG IND
-description: W:3 L:1 D:0 Bonus ✅
-date: 1721975454
+description: W:4 L:1 D:0 Bonus ✅
+date: 1722577400
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1236 🔺  (251)|
-| ELO Competitive | 1245 🔺  (325)|
-| Total Matches | 4 |
-| Wins | 3 |
+| ELO Regular | 1247 🔺  (224)|
+| ELO Competitive | 1258 🔺  (291)|
+| Total Matches | 5 |
+| Wins | 4 |
 | Losses | 1 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 2 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721543454,1720390976,1720357556,1719395902];
+        let timestamps = [1722145400,1721543454,1720390976,1720357556,1719395902];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/02 | 10-1 | [华夏三体舰队](https://ws.tsl.rocks/corp/a457b1d7612cdff92b655d33cf4ffd72b38aa796525cf0432423cfd0d01c6cf9/) |
 | ✅ | 2024/07/26 | 12-1 | [使命白星](https://ws.tsl.rocks/corp/88e828c55c07286950a3296b00ca2a7a9cc2f1a0139e9cf4c6e54229f821e952/) |
 | ❌ | 2024/07/12 | 0-4 | [CIS](https://ws.tsl.rocks/corp/3efaab24560531ff257e73bfb281a7e9c0a9d591ac5aff55d05d35f2fb5e1d73/) |
 | ✅ | 2024/07/12 | 9-3 | [凛冬重工](https://ws.tsl.rocks/corp/513d81e0236600883fae60f5ad8bc4b54fe7b9787479dd96fb7e0b4dea3ca5eb/) |
