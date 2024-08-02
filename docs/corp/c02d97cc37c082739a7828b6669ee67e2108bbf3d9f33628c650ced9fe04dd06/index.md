@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​银星舰队SSF
-description: W:9 L:4 D:0 Bonus ❌
-date: 1722084544
+description: W:10 L:4 D:0 Bonus ✅
+date: 1722558618
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1244 🔻  (229)|
-| ELO Competitive | 1256 🔻  (294)|
-| Total Matches | 13 |
-| Wins | 9 |
+| ELO Regular | 1261 🔺  (191)|
+| ELO Competitive | 1275 🔺  (257)|
+| Total Matches | 14 |
+| Wins | 10 |
 | Losses | 4 |
 | Draws | 0 |
 | Streak Record | 7 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721652544,1720887218,1720435690,1718076198,1717246011,1715609034,1715174577,1714625544,1714176646,1713530087,1712945957,1712324574,1711888278];
+        let timestamps = [1722126618,1721652544,1720887218,1720435690,1718076198,1717246011,1715609034,1715174577,1714625544,1714176646,1713530087,1712945957,1712324574,1711888278];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/02 | 2-0 | [Poggy Rockers](https://ws.tsl.rocks/corp/47aeb151232251d9e53310e21f1290b1240c63878169968847bd1e89efc909a7/) |
 | ❌ | 2024/07/27 | 2-15 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ✅ | 2024/07/18 | 1-0 | [苏维埃联邦](https://ws.tsl.rocks/corp/4b067d39aa68bf846ec24a1af1a1038844cfa78699d1190f74a77b1745e148ac/) |
 | ❌ | 2024/07/13 | 0-2 | [Север РусКорп](https://ws.tsl.rocks/corp/39eeae12a2a5fead3330938b8f38c71aab465634b732303dad7b2a7d5f472004/) |

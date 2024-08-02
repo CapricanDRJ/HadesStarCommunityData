@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​星河绮梦
-description: W:9 L:2 D:0 Bonus ❌
-date: 1722110081
+description: W:9 L:3 D:0 Bonus ❌
+date: 1722558770
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1284 🔻  (149)|
-| ELO Competitive | 1311 🔻  (191)|
-| Total Matches | 11 |
+| ELO Regular | 1264 🔻  (186)|
+| ELO Competitive | 1292 🔻  (218)|
+| Total Matches | 12 |
 | Wins | 9 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 | Streak Record | 5 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721678081,1720591966,1720150201,1719666356,1719229123,1718794879,1718710135,1718207523,1717713682,1716678338,1714826356];
+        let timestamps = [1722126770,1721678081,1720591966,1720150201,1719666356,1719229123,1718794879,1718710135,1718207523,1717713682,1716678338,1714826356];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/02 | 11-13 | [很多星球的社会主义团](https://ws.tsl.rocks/corp/dcac8e5bb444db7feec894f3be5a6f373fd0025a6ec79ccc125dd8b7bf652bc2/) |
 | ❌ | 2024/07/27 | 9-17 | [游徒之家](https://ws.tsl.rocks/corp/7ab5f6970c8703095b0589da6e5d648dc64a94ca6d901ef09d4949409b2c44b9/) |
 | ✅ | 2024/07/15 | 21-1 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ✅ | 2024/07/10 | 18-0 | [超新星联盟](https://ws.tsl.rocks/corp/c3667794c88fd0a09f565dc3b4fed5325f131a616d01d0f6890755b44997d0a1/) |

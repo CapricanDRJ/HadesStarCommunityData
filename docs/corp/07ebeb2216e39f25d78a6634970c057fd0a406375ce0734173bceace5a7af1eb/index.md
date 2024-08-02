@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​OTRSᗜωO
-description: W:1 L:2 D:0 Bonus ✅
+description: W:1 L:2 D:0 Bonus ❌
 date: 1722382956
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (641)|
+| ELO Regular | 1185 🔻  (642)|
 | ELO Competitive | 1190 🔻  (637)|
 | Total Matches | 3 |
 | Wins | 1 |
