@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​SternenStaub
-description: W:20 L:21 D:0 Bonus ✅
+description: W:20 L:21 D:0 Bonus ❌
 date: 1722599641
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

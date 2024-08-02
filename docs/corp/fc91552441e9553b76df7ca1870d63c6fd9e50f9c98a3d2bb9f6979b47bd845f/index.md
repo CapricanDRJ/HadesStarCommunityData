@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​the heavy
-description: W:10 L:9 D:0 Bonus ❌
-date: 1720165669
+description: W:11 L:9 D:0 Bonus ✅
+date: 1722633012
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1225 🔻  (298)|
-| ELO Competitive | 1246 🔻  (315)|
-| Total Matches | 19 |
-| Wins | 10 |
+| ELO Regular | 1245 🔺  (227)|
+| ELO Competitive | 1266 🔺  (271)|
+| Total Matches | 20 |
+| Wins | 11 |
 | Losses | 9 |
 | Draws | 0 |
 | Streak Record | 4 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1719733669,1719190667,1717923226,1716730324,1715520399,1714331387,1713676996,1711927950,1711312574,1710707726,1710094765,1709493520,1708854984,1708265717,1705245905,1703435900,1702210706,1700385790,1699168823];
+        let timestamps = [1722201012,1719733669,1719190667,1717923226,1716730324,1715520399,1714331387,1713676996,1711927950,1711312574,1710707726,1710094765,1709493520,1708854984,1708265717,1705245905,1703435900,1702210706,1700385790,1699168823];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/02 | 32-8 | [Lights Off ](https://ws.tsl.rocks/corp/8a8b7e5b7a00ef709249daa4546d03bd85258cde01d35e1829a64ed95c3d6cca/) |
 | ❌ | 2024/07/05 | 22-25 | [Hermitage](https://ws.tsl.rocks/corp/b8b6a62ede93951a04bdabd85b532c38d42d8c8b95165f8d4b14e0fd48a021ee/) |
 | ✅ | 2024/06/29 | 44-0 | [Anla'Shok](https://ws.tsl.rocks/corp/ee2d5a60dee46a98f5178e2807099ebca3c64db7a1fd052df34812d6d88e52a1/) |
 | ✅ | 2024/06/14 | 34-6 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |

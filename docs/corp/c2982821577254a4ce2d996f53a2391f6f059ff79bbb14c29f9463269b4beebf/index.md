@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Curiosity + Cat
-description: W:2 L:6 D:0 Bonus ❌
-date: 1719293630
+description: W:2 L:7 D:0 Bonus ❌
+date: 1722631414
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1146 🔻  (1005)|
-| ELO Competitive | 1150 🔻  (1061)|
-| Total Matches | 8 |
+| ELO Regular | 1129 🔻  (1063)|
+| ELO Competitive | 1141 🔻  (1095)|
+| Total Matches | 9 |
 | Wins | 2 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1718861630,1718303087,1702451145,1701201785,1700701062,1700242127,1699472016,1698687967];
+        let timestamps = [1722199414,1718861630,1718303087,1702451145,1701201785,1700701062,1700242127,1699472016,1698687967];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/02 | 4-26 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |
 | ❌ | 2024/06/25 | 3-8 | [Duchy Kalladan](https://ws.tsl.rocks/corp/59ce0b129bf10b8e56adb00f3c4b695604cf2e850fb43132ede36fe7c9e6fb80/) |
 | ❌ | 2024/06/18 | 0-24 | [Spaceballs](https://ws.tsl.rocks/corp/1e54a7ba8156a65b15f7f1358b682a10f856acb0f96d9e3b582c4ea175905839/) |
 | ❌ | 2023/12/18 | 0-29 | [Star Blazers](https://ws.tsl.rocks/corp/f179acb7b919d9d3185f1fcd66bb17d5e257feab5039bcbf6efb5c8cd6f5c057/) |

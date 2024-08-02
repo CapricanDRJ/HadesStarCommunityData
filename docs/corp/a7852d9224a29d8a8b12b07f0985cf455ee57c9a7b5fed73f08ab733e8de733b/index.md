@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​КРЫЛЯ ФЕНИКСА
-description: W:4 L:4 D:0 Bonus ❌
-date: 1713673133
+description: W:5 L:4 D:0 Bonus ✅
+date: 1722626098
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1217 🔻  (328)|
-| ELO Competitive | 1227 🔻  (378)|
-| Total Matches | 8 |
-| Wins | 4 |
+| ELO Regular | 1235 🔺  (260)|
+| ELO Competitive | 1249 🔺  (311)|
+| Total Matches | 9 |
+| Wins | 5 |
 | Losses | 4 |
 | Draws | 0 |
 | Streak Record | 3 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1713241133,1711887077,1711380775,1710145841,1709486908,1708884439,1708265116,1707039365];
+        let timestamps = [1722194098,1713241133,1711887077,1711380775,1710145841,1709486908,1708884439,1708265116,1707039365];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/02 | 10-1 | [Sich\.ua](https://ws.tsl.rocks/corp/9fcd6d7c4fe7f8e39acf48585dfe9c6d3d14edc7781fe8caf85618b3e98c685d/) |
 | ❌ | 2024/04/21 | 0-21 | [ЧВК "Котики"](https://ws.tsl.rocks/corp/b770b833fe257bc6accd1bbe82a887971291dd0038f8aa627a47f3ce063265c0/) |
 | ❌ | 2024/04/05 | 2-19 | [Медведи](https://ws.tsl.rocks/corp/b3b0cac2c48761153afa1dcad7a4048103ffc3ec2ca6d477a6bd744922fce075/) |
 | ❌ | 2024/03/30 | 0-23 | [Warriorlords](https://ws.tsl.rocks/corp/a78c29b9e1c9f793205ba10d796dcabc114ef43d86f0bd34a43a56dc6da768aa/) |
