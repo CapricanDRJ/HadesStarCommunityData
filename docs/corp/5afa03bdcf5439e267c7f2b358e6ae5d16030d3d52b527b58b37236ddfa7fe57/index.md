@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​行星联合军
-description: W:7 L:9 D:0 Bonus ✅
+description: W:7 L:9 D:0 Bonus ❌
 date: 1721973350
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔺  (890)|
+| ELO Regular | 1169 🔺  (889)|
 | ELO Competitive | 1187 🔺  (692)|
 | Total Matches | 16 |
 | Wins | 7 |

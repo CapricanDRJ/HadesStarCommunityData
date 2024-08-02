@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Eretria 
-description: W:25 L:23 D:0 Bonus ✅
+description: W:25 L:23 D:0 Bonus ❌
 date: 1722467996
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
