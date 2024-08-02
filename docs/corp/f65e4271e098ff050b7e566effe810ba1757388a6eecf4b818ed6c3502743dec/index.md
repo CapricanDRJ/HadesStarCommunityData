@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​宇宙联盟（中国）
-description: W:12 L:29 D:3 Bonus ❌
-date: 1722048184
+description: W:13 L:29 D:3 Bonus ✅
+date: 1722562976
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1079 🔻  (1132)|
-| ELO Competitive | 1189 🔻  (641)|
-| Total Matches | 44 |
-| Wins | 12 |
+| ELO Regular | 1099 🔺  (1110)|
+| ELO Competitive | 1207 🔺  (499)|
+| Total Matches | 45 |
+| Wins | 13 |
 | Losses | 29 |
 | Draws | 3 |
 | Streak Record | 3 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721616184,1721096900,1720622455,1720615107,1720169432,1720155610,1719722998,1719711134,1719236337,1719229123,1718714042,1718288057,1718277838,1717821128,1717650653,1717331679,1716898613,1716897111,1716413336,1716025876,1715945749,1715458903,1714997010,1714562446,1714296524,1714050750,1713621181,1713577245,1713111529,1713094396,1712637982,1712625064,1712149394,1712147291,1711691158,1711248863,1711092309,1710787950,1710332426,1709895290,1709332057,1708858891,1708406052,1707942986];
+        let timestamps = [1722130976,1721616184,1721096900,1720622455,1720615107,1720169432,1720155610,1719722998,1719711134,1719236337,1719229123,1718714042,1718288057,1718277838,1717821128,1717650653,1717331679,1716898613,1716897111,1716413336,1716025876,1715945749,1715458903,1714997010,1714562446,1714296524,1714050750,1713621181,1713577245,1713111529,1713094396,1712637982,1712625064,1712149394,1712147291,1711691158,1711248863,1711092309,1710787950,1710332426,1709895290,1709332057,1708858891,1708406052,1707942986];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -127,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/02 | 8-4 | [荣耀之星](https://ws.tsl.rocks/corp/4334fd4d4ffbc89487deaec7bb38025aba46209b810578436882be271fdbff23/) |
 | ❌ | 2024/07/27 | 0-12 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) |
 | ❌ | 2024/07/21 | 0-10 | [使命白星](https://ws.tsl.rocks/corp/88e828c55c07286950a3296b00ca2a7a9cc2f1a0139e9cf4c6e54229f821e952/) |
 | ↔️ | 2024/07/15 | 0-0 | [империя тьмы](https://ws.tsl.rocks/corp/4eb22a1b793e5d03579cea15c873b1bef56fea02420a4e55edb18a200f7fc46a/) |

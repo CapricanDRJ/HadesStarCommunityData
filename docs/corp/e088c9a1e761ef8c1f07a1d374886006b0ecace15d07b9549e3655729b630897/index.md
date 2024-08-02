@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Germania
-description: W:16 L:21 D:2 Bonus ✅
-date: 1721980863
+description: W:16 L:22 D:2 Bonus ✅
+date: 1722560873
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1124 🔺  (1070)|
-| ELO Competitive | 1164 🔺  (1004)|
-| Total Matches | 39 |
+| ELO Regular | 1111 🔻  (1093)|
+| ELO Competitive | 1157 🔻  (1042)|
+| Total Matches | 40 |
 | Wins | 16 |
-| Losses | 21 |
+| Losses | 22 |
 | Draws | 2 |
 | Streak Record | 4 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721548863,1721044298,1720524346,1719948536,1719481847,1718992310,1718469429,1717481957,1716476421,1715938021,1715407118,1714937828,1714422430,1713967225,1713521974,1713044519,1712589259,1712152400,1711719706,1711287326,1710848637,1710402736,1709928294,1709492017,1709045799,1708600766,1708119377,1707667121,1707214372,1706737659,1706302509,1705856247,1705392850,1704924060,1704365995,1703254977,1702768222,1699393893,1698753200];
+        let timestamps = [1722128873,1721548863,1721044298,1720524346,1719948536,1719481847,1718992310,1718469429,1717481957,1716476421,1715938021,1715407118,1714937828,1714422430,1713967225,1713521974,1713044519,1712589259,1712152400,1711719706,1711287326,1710848637,1710402736,1709928294,1709492017,1709045799,1708600766,1708119377,1707667121,1707214372,1706737659,1706302509,1705856247,1705392850,1704924060,1704365995,1703254977,1702768222,1699393893,1698753200];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) | 1 | 1 | 0 | 2 |
 | [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) | 1 | 1 | 0 | 2 |
 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) | 0 | 2 | 0 | 2 |
 | [1st/Ave/Junkie2](https://ws.tsl.rocks/corp/b129b678cd83374fa72b5da92172ff1c856b8f72c32bcdb4711d66d06528fca1/) | 1 | 1 | 0 | 2 |
@@ -125,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/02 | 3-4 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ✅ | 2024/07/26 | 21-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
 | ❌ | 2024/07/20 | 3-29 | [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1/) |
 | ❌ | 2024/07/14 | 4-5 | [Retarts](https://ws.tsl.rocks/corp/1556331f722d00268e3c524b12efedac51051cf48e46b2513675774b9315a155/) |
