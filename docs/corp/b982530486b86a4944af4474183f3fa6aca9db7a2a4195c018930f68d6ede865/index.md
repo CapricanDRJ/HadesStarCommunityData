@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​ 边域
-description: W:0 L:1 D:0 Bonus ❌
-date: 1722156969
+description: W:1 L:1 D:0 Bonus ✅
+date: 1722619785
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1193 🔻  (504)|
-| ELO Competitive | 1194 🔻  (591)|
-| Total Matches | 1 |
-| Wins | 0 |
+| ELO Regular | 1208 🔺  (405)|
+| ELO Competitive | 1211 🔺  (487)|
+| Total Matches | 2 |
+| Wins | 1 |
 | Losses | 1 |
 | Draws | 0 |
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721724969];
+        let timestamps = [1722187785,1721724969];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/02 | 7-3 | [Red Suns](https://ws.tsl.rocks/corp/4723a7ddfdf84d63bb4a6e897d77183874e4abd0d5f04c8c6470cb3141dd8629/) |
 | ❌ | 2024/07/28 | 0-24 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/54b8724d96e9c022ab2907e45bead9f5b45b02fca093dc0fe5827f14644b2663/) |
 
 Corporation ID: b982530486b86a4944af4474183f3fa6aca9db7a2a4195c018930f68d6ede865

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Red Star Corp.
-description: W:6 L:14 D:0 Bonus ❌
-date: 1717682822
+description: W:6 L:15 D:0 Bonus ❌
+date: 1722615275
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1090 🔺  (1119)|
-| ELO Competitive | 1108 🔺  (1146)|
-| Total Matches | 20 |
+| ELO Regular | 1079 🔻  (1133)|
+| ELO Competitive | 1099 🔻  (1150)|
+| Total Matches | 21 |
 | Wins | 6 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 0 |
 | Streak Record | 3 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1717250822,1713827522,1712019297,1710711333,1709440029,1708763035,1707886490,1707085951,1705944598,1705186706,1704744952,1704243694,1703505915,1703030787,1702064038,1701580160,1700924972,1700283001,1699641232,1698913386];
+        let timestamps = [1722183275,1717250822,1713827522,1712019297,1710711333,1709440029,1708763035,1707886490,1707085951,1705944598,1705186706,1704744952,1704243694,1703505915,1703030787,1702064038,1701580160,1700924972,1700283001,1699641232,1698913386];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/02 | 3-27 | [Mass Effect](https://ws.tsl.rocks/corp/6f715653bec3925d9c3acd7c2388fe8e1c79332146894ed424f57bd2636de8c7/) |
 | ✅ | 2024/06/06 | 9-0 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
 | ❌ | 2024/04/27 | 3-14 | [小宇宙研究会](https://ws.tsl.rocks/corp/61992de1d0e2d076e6605b47342a479c71b61d3811df514bbd1d5c5128e17203/) |
 | ❌ | 2024/04/07 | 3-14 | [Antioch](https://ws.tsl.rocks/corp/6cf52926568f845a630c3fba8370e8afa3a75d315af0f6d0bd891085e6e4425f/) |
