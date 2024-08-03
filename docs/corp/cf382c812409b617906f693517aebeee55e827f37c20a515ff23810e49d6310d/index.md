@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​BRhue
-description: W:4 L:2 D:0 Bonus ✅
-date: 1722093863
+description: W:4 L:3 D:0 Bonus ✅
+date: 1722704831
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔺  (358)|
-| ELO Competitive | 1228 🔺  (375)|
-| Total Matches | 6 |
+| ELO Regular | 1209 🔻  (402)|
+| ELO Competitive | 1224 🔻  (390)|
+| Total Matches | 7 |
 | Wins | 4 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
-| Streak | 4 |
 | Streak Record | 4 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721661863,1721057528,1720476569,1719854176,1701103804,1699888623];
+        let timestamps = [1722272831,1721661863,1721057528,1720476569,1719854176,1701103804,1699888623];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/03 | 15-74 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) |
 | ✅ | 2024/07/27 | 26-22 | [Gummibärenbande](https://ws.tsl.rocks/corp/7111d11716d236254b3fe2fdc0df09519cbed1ee9cc2c7691983534a3d8e1366/) |
 | ✅ | 2024/07/20 | 64-3 | [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) |
 | ✅ | 2024/07/13 | 47-23 | [YETI Collective](https://ws.tsl.rocks/corp/ff6a3c65d008d245f003a3009374e26cf38e7cda6ea4d601a9da9037296fda98/) |

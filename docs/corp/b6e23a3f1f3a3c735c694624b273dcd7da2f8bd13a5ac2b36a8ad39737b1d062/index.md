@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​Omega Alpha
-description: W:25 L:4 D:0 Bonus ✅
-date: 1722101077
+description: W:26 L:4 D:0 Bonus ✅
+date: 1722703929
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1408 🔺  (34)|
-| ELO Competitive | 1433 🔺  (65)|
-| Total Matches | 29 |
-| Wins | 25 |
+| ELO Regular | 1417 🔺  (30)|
+| ELO Competitive | 1442 🔺  (53)|
+| Total Matches | 30 |
+| Wins | 26 |
 | Losses | 4 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 13 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721669077,1721056626,1720439597,1719823219,1719240846,1716194910,1715678137,1713808894,1713281901,1712585097,1712000968,1710155454,1709555112,1708946031,1708340540,1707747049,1707145445,1706529995,1705915144,1704714894,1704112962,1703557006,1702897447,1702288548,1701681441,1701084867,1700487374,1699862774,1699275190];
+        let timestamps = [1722271929,1721669077,1721056626,1720439597,1719823219,1719240846,1716194910,1715678137,1713808894,1713281901,1712585097,1712000968,1710155454,1709555112,1708946031,1708340540,1707747049,1707145445,1706529995,1705915144,1704714894,1704112962,1703557006,1702897447,1702288548,1701681441,1701084867,1700487374,1699862774,1699275190];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/03 | 32-5 | [Got Nothing](https://ws.tsl.rocks/corp/ea7879fd9cbed37b260ec2bf39339786942fb34216036a90e107ba525f5924e1/) |
 | ✅ | 2024/07/27 | 38-16 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) |
 | ❌ | 2024/07/20 | 13-15 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) |
 | ✅ | 2024/07/13 | 37-24 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) |

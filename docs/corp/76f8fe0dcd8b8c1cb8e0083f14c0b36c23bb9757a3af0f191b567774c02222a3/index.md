@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Bl@ck/Galaxy 
-description: W:16 L:13 D:1 Bonus ✅
-date: 1722112500
+description: W:17 L:13 D:1 Bonus ✅
+date: 1722700021
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1307 🔺  (112)|
-| ELO Competitive | 1344 🔺  (141)|
-| Total Matches | 30 |
-| Wins | 16 |
+| ELO Regular | 1320 🔺  (91)|
+| ELO Competitive | 1357 🔺  (128)|
+| Total Matches | 31 |
+| Wins | 17 |
 | Losses | 13 |
 | Draws | 1 |
-| Streak | 6 |
-| Streak Record | 6 |
+| Streak | 7 |
+| Streak Record | 7 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721680500,1721049108,1720488887,1719849667,1719261136,1718657855,1718038637,1717428460,1716833406,1716222255,1715627967,1715013237,1714410407,1713804386,1713204679,1712591409,1711989246,1711480531,1710787048,1710181599,1709584863,1708993815,1708512123,1706563661,1705956021,1705364608,1704780410,1702944038,1702198382,1700640348];
+        let timestamps = [1722268021,1721680500,1721049108,1720488887,1719849667,1719261136,1718657855,1718038637,1717428460,1716833406,1716222255,1715627967,1715013237,1714410407,1713804386,1713204679,1712591409,1711989246,1711480531,1710787048,1710181599,1709584863,1708993815,1708512123,1706563661,1705956021,1705364608,1704780410,1702944038,1702198382,1700640348];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -127,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/03 | 22-9 | [Grater T](https://ws.tsl.rocks/corp/2044ad2bb7831118aae299744191230a33d196c7997f9516a20c3d0a321ba669/) |
 | ✅ | 2024/07/27 | 25-9 | [nuevo mundo](https://ws.tsl.rocks/corp/5675df73364d8b031e9541d8aa8d5a9e55649ef419ad87c0b21dec77a0ed6044/) |
 | ✅ | 2024/07/20 | 22-7 | [Helion Prime](https://ws.tsl.rocks/corp/1a09ce5efe86add0a6f0344bc2a12e27c898c0d21641a3f29a450c6d4c4db3f2/) |
 | ✅ | 2024/07/14 | 35-3 | [Unión latina](https://ws.tsl.rocks/corp/9919a50d277644f496c19d5becdf40abb251d000345f049632329f0b35b7fbf1/) |

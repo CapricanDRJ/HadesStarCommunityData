@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Grater T
-description: W:10 L:9 D:0 Bonus ✅
-date: 1722698518
+description: W:10 L:10 D:0 Bonus ✅
+date: 1722700021
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1249 🔺  (221)|
+| ELO Regular | 1237 🔻  (253)|
 | ELO Competitive | 1301 🔺  (202)|
-| Total Matches | 19 |
+| Total Matches | 20 |
 | Wins | 10 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 0 |
 | Streak Record | 4 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722266518,1721662164,1721615883,1721124848,1721099003,1720454026,1719931402,1714516495,1712466400,1710121208,1708875723,1708011496,1707359870,1706862966,1705599300,1703657978,1703063540,1703054224,1699248751];
+        let timestamps = [1722268021,1722266518,1721662164,1721615883,1721124848,1721099003,1720454026,1719931402,1714516495,1712466400,1710121208,1708875723,1708011496,1707359870,1706862966,1705599300,1703657978,1703063540,1703054224,1699248751];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/03 | 9-22 | [Bl@ck/Galaxy ](https://ws.tsl.rocks/corp/76f8fe0dcd8b8c1cb8e0083f14c0b36c23bb9757a3af0f191b567774c02222a3/) |
 | ✅ | 2024/08/03 | 12-2 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ❌ | 2024/07/27 | 0-24 | [BRASIL STAR](https://ws.tsl.rocks/corp/94fc4639f17e4503a11d4ac3878f3203bca3f21baebf285433ff39ad37f0fff2/) |
 | ✅ | 2024/07/27 | 10-8 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |

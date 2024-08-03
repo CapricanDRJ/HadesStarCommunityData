@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​新?的星际集团?
-description: W:4 L:3 D:0 Bonus ✅
+description: W:4 L:3 D:0 Bonus ❌
 date: 1722593630
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1211 🔻  (392)|
+| ELO Regular | 1211 🔻  (390)|
 | ELO Competitive | 1220 🔻  (406)|
 | Total Matches | 7 |
 | Wins | 4 |

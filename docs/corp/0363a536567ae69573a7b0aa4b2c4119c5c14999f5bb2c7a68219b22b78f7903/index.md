@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Forces of Light
-description: W:7 L:4 D:1 Bonus ❌
-date: 1721776524
+description: W:8 L:4 D:1 Bonus ✅
+date: 1722703629
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1244 🔻  (235)|
-| ELO Competitive | 1250 🔻  (307)|
-| Total Matches | 12 |
-| Wins | 7 |
+| ELO Regular | 1260 🔺  (192)|
+| ELO Competitive | 1266 🔺  (268)|
+| Total Matches | 13 |
+| Wins | 8 |
 | Losses | 4 |
 | Draws | 1 |
 | Streak Record | 4 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721344524,1720496700,1715064613,1713390461,1712737435,1711843083,1710166573,1709269352,1708306889,1707449714,1706477112,1705294588];
+        let timestamps = [1722271629,1721344524,1720496700,1715064613,1713390461,1712737435,1711843083,1710166573,1709269352,1708306889,1707449714,1706477112,1705294588];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/03 | 6-3 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
 | ❌ | 2024/07/23 | 3-20 | [Últimafronteira](https://ws.tsl.rocks/corp/27e96f432a078f197bb5e4c34480ccabc05a9ee48e7bb04d95288fda15e94d3c/) |
 | ✅ | 2024/07/14 | 8-3 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |
 | ✅ | 2024/05/12 | 6-0 | [Armored Union ](https://ws.tsl.rocks/corp/4dacc02ca314ab864578421db538b0eb10b0c8c81dc0edd91c5090717d087c7f/) |
