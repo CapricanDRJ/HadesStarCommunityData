@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Looping
-description: W:23 L:12 D:0 Bonus ✅
+description: W:23 L:12 D:0 Bonus ❌
 date: 1722078533
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

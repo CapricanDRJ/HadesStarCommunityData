@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Grater T
-description: W:9 L:9 D:0 Bonus ❌
-date: 1722094164
+description: W:10 L:9 D:0 Bonus ✅
+date: 1722698518
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1231 🔻  (271)|
-| ELO Competitive | 1280 🔺  (243)|
-| Total Matches | 18 |
-| Wins | 9 |
+| ELO Regular | 1249 🔺  (221)|
+| ELO Competitive | 1301 🔺  (202)|
+| Total Matches | 19 |
+| Wins | 10 |
 | Losses | 9 |
 | Draws | 0 |
 | Streak Record | 4 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721662164,1721615883,1721124848,1721099003,1720454026,1719931402,1714516495,1712466400,1710121208,1708875723,1708011496,1707359870,1706862966,1705599300,1703657978,1703063540,1703054224,1699248751];
+        let timestamps = [1722266518,1721662164,1721615883,1721124848,1721099003,1720454026,1719931402,1714516495,1712466400,1710121208,1708875723,1708011496,1707359870,1706862966,1705599300,1703657978,1703063540,1703054224,1699248751];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/03 | 12-2 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ❌ | 2024/07/27 | 0-24 | [BRASIL STAR](https://ws.tsl.rocks/corp/94fc4639f17e4503a11d4ac3878f3203bca3f21baebf285433ff39ad37f0fff2/) |
 | ✅ | 2024/07/27 | 10-8 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
 | ❌ | 2024/07/21 | 3-4 | [Retarts](https://ws.tsl.rocks/corp/1556331f722d00268e3c524b12efedac51051cf48e46b2513675774b9315a155/) |

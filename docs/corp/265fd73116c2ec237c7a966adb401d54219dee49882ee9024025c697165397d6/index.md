@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​Utd. Human Fed.
-description: W:23 L:20 D:1 Bonus ❌
-date: 1721985671
+description: W:24 L:20 D:1 Bonus ✅
+date: 1722689200
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1198 🔺  (477)|
-| ELO Competitive | 1335 🔺  (153)|
-| Total Matches | 44 |
-| Wins | 23 |
+| ELO Regular | 1204 🔺  (417)|
+| ELO Competitive | 1339 🔺  (147)|
+| Total Matches | 45 |
+| Wins | 24 |
 | Losses | 20 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 5 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721553671,1720970064,1719795879,1719777636,1719179250,1719169029,1718525526,1718519911,1717955390,1717954489,1717443795,1717441390,1716801243,1716139331,1716123104,1715513788,1715507204,1714901469,1714901469,1714313469,1714310647,1713204078,1713202274,1712557452,1711870250,1711282516,1710683682,1710055096,1709454151,1709452047,1708597161,1707888893,1707132221,1706541417,1705838512,1705832802,1705238690,1705230876,1704565839,1704554417,1703579240,1702939230,1702274725,1701708793];
+        let timestamps = [1722257200,1721553671,1720970064,1719795879,1719777636,1719179250,1719169029,1718525526,1718519911,1717955390,1717954489,1717443795,1717441390,1716801243,1716139331,1716123104,1715513788,1715507204,1714901469,1714901469,1714313469,1714310647,1713204078,1713202274,1712557452,1711870250,1711282516,1710683682,1710055096,1709454151,1709452047,1708597161,1707888893,1707132221,1706541417,1705838512,1705832802,1705238690,1705230876,1704565839,1704554417,1703579240,1702939230,1702274725,1701708793];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/03 | 35-3 | [Space Pirates](https://ws.tsl.rocks/corp/87eff6e453b6f020baf8cb8930236b566161e22814cdbdc77d696c5812684bc6/) |
 | ✅ | 2024/07/26 | 22-6 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |
 | ❌ | 2024/07/19 | 0-24 | [Lacuna X](https://ws.tsl.rocks/corp/fb10f33f3db17b99b0d227f17e7fde76ef067dc4a4bb4ae05e46c76d2e5e8ea1/) |
 | ❌ | 2024/07/06 | 7-8 | [Darkest Hour](https://ws.tsl.rocks/corp/0e253fa2fd0fda884dc5576e478434ebac89a568cb59a79a3ce94fa4b067dfc9/) |

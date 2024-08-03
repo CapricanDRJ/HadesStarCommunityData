@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​ZION
-description: W:23 L:17 D:0 Bonus ❌
-date: 1721903633
+description: W:23 L:18 D:0 Bonus ❌
+date: 1722697015
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1232 🔻  (269)|
-| ELO Competitive | 1312 🔻  (191)|
-| Total Matches | 40 |
+| ELO Regular | 1217 🔻  (327)|
+| ELO Competitive | 1296 🔻  (214)|
+| Total Matches | 41 |
 | Wins | 23 |
-| Losses | 17 |
+| Losses | 18 |
 | Draws | 0 |
 | Streak Record | 9 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721471633,1720757569,1720324498,1719823611,1719301545,1718594441,1718076198,1717557696,1717039560,1716395906,1716008930,1715698869,1715546385,1715235566,1714743624,1714724394,1714197675,1713587159,1712843797,1712260278,1710906629,1710903024,1710397328,1710391020,1709881717,1709874506,1709269953,1709269652,1708750715,1708682801,1708151825,1708064383,1707575617,1707112391,1706540515,1706022129,1705561737,1704960715,1704461859,1703926643];
+        let timestamps = [1722265015,1721471633,1720757569,1720324498,1719823611,1719301545,1718594441,1718076198,1717557696,1717039560,1716395906,1716008930,1715698869,1715546385,1715235566,1714743624,1714724394,1714197675,1713587159,1712843797,1712260278,1710906629,1710903024,1710397328,1710391020,1709881717,1709874506,1709269953,1709269652,1708750715,1708682801,1708151825,1708064383,1707575617,1707112391,1706540515,1706022129,1705561737,1704960715,1704461859,1703926643];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/03 | 4-48 | [Argentina 1\.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449/) |
 | ❌ | 2024/07/25 | 15-45 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ❌ | 2024/07/17 | 4-46 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/0c33734edc95a1bac88a9df7e0853a3bd835ea682673f097db1c75d6bb14c8da/) |
 | ✅ | 2024/07/12 | 26-0 | [Dumpster Fire 2](https://ws.tsl.rocks/corp/37d473dec00d4d68e29963e3b423670aac735e7c1f256276e6c2e7d62180b0f8/) |
