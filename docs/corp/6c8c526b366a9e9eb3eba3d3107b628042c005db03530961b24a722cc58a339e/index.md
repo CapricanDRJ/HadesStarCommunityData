@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Duchy Arrakis
-description: W:17 L:10 D:0 Bonus ❌
-date: 1722006411
+description: W:18 L:10 D:0 Bonus ✅
+date: 1722667565
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1255 🔻  (205)|
-| ELO Competitive | 1285 🔻  (233)|
-| Total Matches | 27 |
-| Wins | 17 |
+| ELO Regular | 1274 🔺  (164)|
+| ELO Competitive | 1304 🔺  (200)|
+| Total Matches | 28 |
+| Wins | 18 |
 | Losses | 10 |
 | Draws | 0 |
 | Streak Record | 5 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721574411,1721047605,1719814207,1719214615,1718607061,1718003470,1717397202,1716790126,1716185597,1715586501,1714193469,1713761121,1713267776,1712819160,1712311954,1711377469,1710859455,1710254909,1708953543,1707053490,1706312726,1705238089,1704639467,1703076463,1701623140,1700396010,1699436555];
+        let timestamps = [1722235565,1721574411,1721047605,1719814207,1719214615,1718607061,1718003470,1717397202,1716790126,1716185597,1715586501,1714193469,1713761121,1713267776,1712819160,1712311954,1711377469,1710859455,1710254909,1708953543,1707053490,1706312726,1705238089,1704639467,1703076463,1701623140,1700396010,1699436555];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/03 | 21-19 | [Дом Датэ](https://ws.tsl.rocks/corp/10cbcbd91c4084657bdab01ef573cc48170fbc4dd0ab533f96712f1cb6097ff2/) |
 | ❌ | 2024/07/26 | 6-13 | [lonewolf](https://ws.tsl.rocks/corp/216c1ab0bb2cbf918019c0a38a37820a9d5d78d7c5801983ed6e3b17bebdc5f3/) |
 | ✅ | 2024/07/20 | 24-0 | [The Goonies](https://ws.tsl.rocks/corp/12ebe9e9a1c71d9a15f622670c299d2b2193e3e7a9ef18b1773c8b5965cb68ab/) |
 | ❌ | 2024/07/06 | 20-36 | [Hamburg AG 2](https://ws.tsl.rocks/corp/d4075195191cabef801494d3accc0e6cc8c09f534fd9203f6e43c9930acffa56/) |
