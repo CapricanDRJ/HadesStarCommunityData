@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​СОЮЗ
-description: W:7 L:4 D:0 Bonus ✅
+description: W:7 L:4 D:0 Bonus ❌
 date: 1722044879
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

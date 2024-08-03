@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​МеГаКо
-description: W:14 L:13 D:0 Bonus ❌
-date: 1721529200
+description: W:14 L:14 D:0 Bonus ❌
+date: 1722666062
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1224 🔺  (306)|
-| ELO Competitive | 1261 🔺  (284)|
-| Total Matches | 27 |
+| ELO Regular | 1207 🔻  (407)|
+| ELO Competitive | 1248 🔻  (313)|
+| Total Matches | 28 |
 | Wins | 14 |
-| Losses | 13 |
+| Losses | 14 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 6 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721097200,1720181752,1719673571,1718599248,1717479553,1716416340,1715944631,1715882142,1715344928,1714681575,1714041435,1713404799,1712886167,1711564060,1711037624,1710567387,1709867296,1708932511,1707936072,1707367080,1706633978,1705925662,1705455960,1703109228,1702646197,1701707591,1700572726];
+        let timestamps = [1722234062,1721097200,1720181752,1719673571,1718599248,1717479553,1716416340,1715944631,1715882142,1715344928,1714681575,1714041435,1713404799,1712886167,1711564060,1711037624,1710567387,1709867296,1708932511,1707936072,1707367080,1706633978,1705925662,1705455960,1703109228,1702646197,1701707591,1700572726];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) | 1 | 1 | 0 | 2 |
 | [Axioma](https://ws.tsl.rocks/corp/2ec904c87d0183a49e22dc53508fa5c75d6e638e3a152a30336831697c60e91e/) | 2 | 0 | 0 | 2 |
 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) | 0 | 2 | 0 | 2 |
 
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/03 | 3-19 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
 | ✅ | 2024/07/21 | 14-0 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |
 | ✅ | 2024/07/10 | 8-3 | [Axioma](https://ws.tsl.rocks/corp/2ec904c87d0183a49e22dc53508fa5c75d6e638e3a152a30336831697c60e91e/) |
 | ❌ | 2024/07/04 | 0-15 | [Lacuna X](https://ws.tsl.rocks/corp/fb10f33f3db17b99b0d227f17e7fde76ef067dc4a4bb4ae05e46c76d2e5e8ea1/) |

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​星を継ぐもの
-description: W:28 L:10 D:0 Bonus ✅
+description: W:28 L:10 D:0 Bonus ❌
 date: 1722045480
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

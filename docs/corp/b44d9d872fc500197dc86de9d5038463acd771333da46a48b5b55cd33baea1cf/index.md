@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​阿尔特拉集团
-description: W:20 L:23 D:2 Bonus ✅
-date: 1722161476
+description: W:21 L:24 D:2 Bonus ✅
+date: 1722666062
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 🔺  (532)|
-| ELO Competitive | 1307 🔺  (197)|
-| Total Matches | 45 |
-| Wins | 20 |
-| Losses | 23 |
+| ELO Regular | 1200 🔺  (445)|
+| ELO Competitive | 1320 🔺  (176)|
+| Total Matches | 47 |
+| Wins | 21 |
+| Losses | 24 |
 | Draws | 2 |
 | Streak Record | 4 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721729476,1721615883,1721142885,1721138876,1720694148,1720616607,1720252973,1720110230,1719537746,1719493868,1718157338,1717697450,1717690837,1717077740,1717071411,1716499699,1716328613,1715867117,1715782091,1715350036,1715204625,1714526992,1714515877,1714059767,1713439648,1712841693,1712240442,1712227520,1711787393,1711662312,1711037624,1710440294,1709817718,1708827342,1708305387,1707795437,1706806772,1705697277,1705048764,1704500929,1703759554,1702655515,1701540491,1701092381,1700658298];
+        let timestamps = [1722234062,1722231958,1721729476,1721615883,1721142885,1721138876,1720694148,1720616607,1720252973,1720110230,1719537746,1719493868,1718157338,1717697450,1717690837,1717077740,1717071411,1716499699,1716328613,1715867117,1715782091,1715350036,1715204625,1714526992,1714515877,1714059767,1713439648,1712841693,1712240442,1712227520,1711787393,1711662312,1711037624,1710440294,1709817718,1708827342,1708305387,1707795437,1706806772,1705697277,1705048764,1704500929,1703759554,1702655515,1701540491,1701092381,1700658298];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,12 +117,15 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [МеГаКо](https://ws.tsl.rocks/corp/11cd7fa53aad1bfc7d40c47a63de7b6c4a6d76f00e69dcb853f47e2c90b382dd/) | 1 | 1 | 0 | 2 |
 | [The New Light](https://ws.tsl.rocks/corp/73c87b4394c7e44aa0fa6996ae32e7448f956391dac8b5d025da6019d3062cfc/) | 1 | 1 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/03 | 19-3 | [МеГаКо](https://ws.tsl.rocks/corp/11cd7fa53aad1bfc7d40c47a63de7b6c4a6d76f00e69dcb853f47e2c90b382dd/) |
+| ❌ | 2024/08/03 | 1-30 | [Mercury Sunset](https://ws.tsl.rocks/corp/2771ec0a0e9523f8a7b62dd470c9ab87bf2bcf2b13fb47f6f97ea826337b2b20/) |
 | ✅ | 2024/07/28 | 17-0 | [星光万丈](https://ws.tsl.rocks/corp/92ad2a305a74e168b57771140461b4d226e1e8cac17b4f77027d5a67ead5fa1d/) |
 | ❌ | 2024/07/27 | 8-10 | [Grater T](https://ws.tsl.rocks/corp/2044ad2bb7831118aae299744191230a33d196c7997f9516a20c3d0a321ba669/) |
 | ✅ | 2024/07/21 | 19-0 | [Ws Polaris](https://ws.tsl.rocks/corp/aed0edd750f895de01d5a257db42bba7b2098421901f1cf0352b992242d967d9/) |

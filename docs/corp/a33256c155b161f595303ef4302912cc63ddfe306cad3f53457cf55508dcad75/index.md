@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Auscorp 
-description: W:43 L:7 D:0 Bonus ✅
-date: 1722318043
+description: W:44 L:7 D:0 Bonus ✅
+date: 1722666663
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1496 🔻  (6)|
-| ELO Competitive | 1570 🔺  (7)|
-| Total Matches | 50 |
-| Wins | 43 |
+| ELO Regular | 1503 🔺  (5)|
+| ELO Competitive | 1580 🔺  (5)|
+| Total Matches | 51 |
+| Wins | 44 |
 | Losses | 7 |
 | Draws | 0 |
 | Streak Record | 12 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721886043,1721752019,1721310564,1721275408,1720807467,1720310979,1719718344,1719220709,1718754320,1718178972,1717831563,1717744931,1717333182,1717170580,1716624539,1716072030,1715610237,1715128613,1714583482,1713971432,1713520079,1712937844,1712407807,1711971815,1711525898,1711083296,1710546056,1710071322,1709476088,1709041592,1708569820,1708024119,1707453620,1706996998,1706412642,1705929869,1705497728,1704964321,1704523162,1703970225,1703459040,1702881520,1702270217,1701826911,1701359565,1700927077,1700449811,1700016357,1699398400,1698814220];
+        let timestamps = [1722234663,1721886043,1721752019,1721310564,1721275408,1720807467,1720310979,1719718344,1719220709,1718754320,1718178972,1717831563,1717744931,1717333182,1717170580,1716624539,1716072030,1715610237,1715128613,1714583482,1713971432,1713520079,1712937844,1712407807,1711971815,1711525898,1711083296,1710546056,1710071322,1709476088,1709041592,1708569820,1708024119,1707453620,1706996998,1706412642,1705929869,1705497728,1704964321,1704523162,1703970225,1703459040,1702881520,1702270217,1701826911,1701359565,1700927077,1700449811,1700016357,1699398400,1698814220];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) | 3 | 0 | 0 | 3 |
 | [Stargate Corp](https://ws.tsl.rocks/corp/b698cd0d86be60954a4b995f79fffe102a71c350e47fbdc2a5827f0ed0ca455d/) | 4 | 0 | 0 | 4 |
 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) | 4 | 1 | 0 | 5 |
 | [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 1 | 1 | 0 | 2 |
@@ -125,7 +126,6 @@ This chart shows the frequency of days of the week when whitestars were matched.
 | [Grunthal Gang](https://ws.tsl.rocks/corp/0ab98cd1f1b195397b27360ea0dee2527f1504c9f5d4867e719d6f1f73efb01d/) | 5 | 2 | 0 | 7 |
 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 2 | 0 | 0 | 2 |
 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) | 4 | 0 | 0 | 4 |
-| [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) | 2 | 0 | 0 | 2 |
 | [Trade Station](https://ws.tsl.rocks/corp/7003e286fe1a04aaa63e3aa318c164856c07e251a94b0496757140f5eda72cd7/) | 2 | 0 | 0 | 2 |
 | [Legion](https://ws.tsl.rocks/corp/313baaeac1c759ca26e0f4bd3140711cffdfa85c287d4c992dcfb809908cf491/) | 2 | 0 | 0 | 2 |
 
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/03 | 55-0 | [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) |
 | ❌ | 2024/07/30 | 0-37 | [111](https://ws.tsl.rocks/corp/8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350/) |
 | ✅ | 2024/07/28 | 57-4 | [Stargate Corp](https://ws.tsl.rocks/corp/b698cd0d86be60954a4b995f79fffe102a71c350e47fbdc2a5827f0ed0ca455d/) |
 | ✅ | 2024/07/23 | 46-11 | [The Star League](https://ws.tsl.rocks/corp/f8b4a4ab48d0f4dc8e2d35c049289e4cd31960c34c0d114426164f223cdb5140/) |
