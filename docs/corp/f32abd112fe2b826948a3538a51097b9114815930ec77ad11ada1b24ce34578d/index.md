@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​欢迎国人
-description: W:3 L:12 D:2 Bonus ❌
-date: 1722178308
+description: W:3 L:12 D:3 Bonus ❌
+date: 1722642928
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1080 🔻  (1131)|
-| ELO Competitive | 1088 🔻  (1162)|
-| Total Matches | 17 |
+| ELO Regular | 1078 🔻  (1133)|
+| ELO Competitive | 1090 🔺  (1159)|
+| Total Matches | 18 |
 | Wins | 3 |
 | Losses | 12 |
-| Draws | 2 |
+| Draws | 3 |
 | Streak Record | 2 |
 
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721746308,1721279615,1720787623,1720261689,1718714042,1712659012,1712203411,1711739769,1711156695,1710689693,1708265417,1706870699,1706343673,1705888103,1705454336,1705010912,1704532177];
+        let timestamps = [1722210928,1721746308,1721279615,1720787623,1720261689,1718714042,1712659012,1712203411,1711739769,1711156695,1710689693,1708265417,1706870699,1706343673,1705888103,1705454336,1705010912,1704532177];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/08/02 | 3-3 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
 | ❌ | 2024/07/28 | 1-3 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 | ❌ | 2024/07/23 | 0-14 | [德意志第三帝国奥米加分部](https://ws.tsl.rocks/corp/b5f35e30b2dea2621e854b5011a9f9d07ca3585cd26bd9ac92aa7b06c0a522b1/) |
 | ❌ | 2024/07/17 | 3-5 | [星舰国际](https://ws.tsl.rocks/corp/2142b75cc6d1c522c423a860fbda7616d7745f8fee25121ec3a8f26068b0f3b5/) |
