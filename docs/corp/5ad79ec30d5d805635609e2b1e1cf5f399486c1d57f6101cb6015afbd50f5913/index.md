@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​9-Й СКОРПИОН
-description: W:25 L:6 D:0 Bonus ✅
+description: W:25 L:6 D:0 Bonus ❌
 date: 1722028054
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

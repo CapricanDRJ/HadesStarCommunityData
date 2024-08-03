@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Elysium
-description: W:27 L:10 D:0 Bonus ❌
-date: 1722063209
+description: W:28 L:10 D:0 Bonus ✅
+date: 1722650439
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1340 🔻  (74)|
-| ELO Competitive | 1387 🔻  (93)|
-| Total Matches | 37 |
-| Wins | 27 |
+| ELO Regular | 1345 🔺  (71)|
+| ELO Competitive | 1393 🔺  (88)|
+| Total Matches | 38 |
+| Wins | 28 |
 | Losses | 10 |
 | Draws | 0 |
 | Streak Record | 10 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721631209,1721044298,1720407446,1719195473,1717985441,1717380674,1716782313,1716175384,1715572082,1714969069,1714367137,1713751509,1713153596,1712549640,1711936061,1711347123,1710727859,1710142836,1710127216,1709134139,1708701734,1708257001,1707814367,1707375793,1706943502,1706504455,1705898318,1705287678,1704682745,1704085918,1703372790,1702889033,1702270217,1701580160,1700487074,1699854961,1698852386];
+        let timestamps = [1722218439,1721631209,1721044298,1720407446,1719195473,1717985441,1717380674,1716782313,1716175384,1715572082,1714969069,1714367137,1713751509,1713153596,1712549640,1711936061,1711347123,1710727859,1710142836,1710127216,1709134139,1708701734,1708257001,1707814367,1707375793,1706943502,1706504455,1705898318,1705287678,1704682745,1704085918,1703372790,1702889033,1702270217,1701580160,1700487074,1699854961,1698852386];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/03 | 20-4 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
 | ❌ | 2024/07/27 | 8-27 | [Retarts](https://ws.tsl.rocks/corp/1556331f722d00268e3c524b12efedac51051cf48e46b2513675774b9315a155/) |
 | ✅ | 2024/07/20 | 29-3 | [Germania](https://ws.tsl.rocks/corp/e088c9a1e761ef8c1f07a1d374886006b0ecace15d07b9549e3655729b630897/) |
 | ✅ | 2024/07/13 | 23-2 | [Star Blazers](https://ws.tsl.rocks/corp/f179acb7b919d9d3185f1fcd66bb17d5e257feab5039bcbf6efb5c8cd6f5c057/) |

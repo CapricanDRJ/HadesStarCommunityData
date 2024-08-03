@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​自由星际联盟
-description: W:6 L:32 D:0 Bonus ❌
-date: 1722216663
+description: W:6 L:33 D:0 Bonus ❌
+date: 1722655846
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1026 🔻  (1168)|
-| ELO Competitive | 1101 🔻  (1148)|
-| Total Matches | 38 |
+| ELO Regular | 1019 🔻  (1170)|
+| ELO Competitive | 1092 🔻  (1157)|
+| Total Matches | 39 |
 | Wins | 6 |
-| Losses | 32 |
+| Losses | 33 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721784663,1721310264,1717741626,1717741626,1716468008,1716436766,1714461789,1713676695,1710025051,1709991393,1709467673,1708611585,1708519034,1708000977,1707552177,1707109539,1706615663,1706583492,1706019124,1705582469,1704970488,1704457651,1703945577,1703505915,1703062448,1703046112,1702560844,1702099501,1702097396,1701607809,1701172024,1700907537,1700694151,1700133328,1700126416,1699692829,1699689930,1698748991];
+        let timestamps = [1722223846,1721784663,1721310264,1717741626,1717741626,1716468008,1716436766,1714461789,1713676695,1710025051,1709991393,1709467673,1708611585,1708519034,1708000977,1707552177,1707109539,1706615663,1706583492,1706019124,1705582469,1704970488,1704457651,1703945577,1703505915,1703062448,1703046112,1702560844,1702099501,1702097396,1701607809,1701172024,1700907537,1700694151,1700133328,1700126416,1699692829,1699689930,1698748991];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/03 | 1-18 | [落雨观花](https://ws.tsl.rocks/corp/565a6d89fc5107e86669d7f8910a1c4ae1fbb156fa0b5e81dbc917c341cc9ff0/) |
 | ❌ | 2024/07/29 | 1-21 | [R\-6 satalite](https://ws.tsl.rocks/corp/ce3450a529768e932b3aeb4c6f39b9295e6e07d010b209d0120c0125799adc43/) |
 | ✅ | 2024/07/23 | 17-11 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) |
 | ❌ | 2024/06/12 | 2-23 | [Intertwine ](https://ws.tsl.rocks/corp/bdbcd28dadb65d4f49f3e56bf50f516066bc3b72a265b4e3f59e66161c9a35ef/) |

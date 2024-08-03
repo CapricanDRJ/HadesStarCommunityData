@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​碧霄殿
-description: W:4 L:2 D:0 Bonus ❌
-date: 1722123617
+description: W:5 L:2 D:0 Bonus ✅
+date: 1722652241
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1239 🔻  (244)|
-| ELO Competitive | 1250 🔻  (308)|
-| Total Matches | 6 |
-| Wins | 4 |
+| ELO Regular | 1252 🔺  (213)|
+| ELO Competitive | 1266 🔺  (271)|
+| Total Matches | 7 |
+| Wins | 5 |
 | Losses | 2 |
 | Draws | 0 |
 | Streak Record | 4 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721691617,1721257418,1720272810,1719835239,1718626893,1700542075];
+        let timestamps = [1722220241,1721691617,1721257418,1720272810,1719835239,1718626893,1700542075];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/03 | 12-6 | [MÉXICO INFINITO](https://ws.tsl.rocks/corp/a9fbdd48477b87a054dbd804eef12ae08bc6e02798cd8990b08c4a9803d8f9d8/) |
 | ❌ | 2024/07/27 | 4-20 | [BoomTech](https://ws.tsl.rocks/corp/97c4db179d3ea995d3a56227f87c501f4baa4abbece2b25e09b636f0aa264bd7/) |
 | ✅ | 2024/07/22 | 10-0 | [星舰国际](https://ws.tsl.rocks/corp/2142b75cc6d1c522c423a860fbda7616d7745f8fee25121ec3a8f26068b0f3b5/) |
 | ✅ | 2024/07/11 | 25-2 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |

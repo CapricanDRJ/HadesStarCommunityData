@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​CTG
-description: W:10 L:14 D:0 Bonus ❌
-date: 1722034665
+description: W:11 L:14 D:0 Bonus ✅
+date: 1722648937
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (744)|
-| ELO Competitive | 1204 🔻  (506)|
-| Total Matches | 24 |
-| Wins | 10 |
+| ELO Regular | 1193 🔺  (504)|
+| ELO Competitive | 1217 🔺  (431)|
+| Total Matches | 25 |
+| Wins | 11 |
 | Losses | 14 |
 | Draws | 0 |
 | Streak Record | 5 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721602665,1721010639,1720378599,1719781157,1719169931,1718625991,1716858050,1715610838,1714945039,1714389068,1713726574,1711956490,1711351929,1709553309,1708322512,1707721508,1707093162,1706494239,1705867969,1705280467,1704726917,1704082613,1703628834,1700528554];
+        let timestamps = [1722216937,1721602665,1721010639,1720378599,1719781157,1719169931,1718625991,1716858050,1715610838,1714945039,1714389068,1713726574,1711956490,1711351929,1709553309,1708322512,1707721508,1707093162,1706494239,1705867969,1705280467,1704726917,1704082613,1703628834,1700528554];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,12 +117,14 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Dumpster Fire](https://ws.tsl.rocks/corp/f191bf7efb93ca805453b3e11aef9278976a4c70fe9790e7813f28fcdf899121/) | 1 | 1 | 0 | 2 |
 | [Emergence](https://ws.tsl.rocks/corp/1a1250d276bf9541252070bbee9c6b216c91b12a837aaa8a8e8a90f490940538/) | 0 | 2 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/03 | 24-8 | [Dumpster Fire](https://ws.tsl.rocks/corp/f191bf7efb93ca805453b3e11aef9278976a4c70fe9790e7813f28fcdf899121/) |
 | ❌ | 2024/07/26 | 8-16 | [Sprite](https://ws.tsl.rocks/corp/3bf5d300b42f0610355645e2ee9cf24e5517a2c5e12472f685781051619266ac/) |
 | ✅ | 2024/07/20 | 19-11 | [imperio estelar](https://ws.tsl.rocks/corp/c4c7de80ce172ac4cb77f23b5833bc20f87ea3f6e64ed09120b0e95113460bb4/) |
 | ❌ | 2024/07/12 | 0-25 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) |
