@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​星光万丈
-description: W:9 L:17 D:1 Bonus ✅
-date: 1722161476
+description: W:9 L:18 D:1 Bonus ✅
+date: 1722714748
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1149 🔻  (997)|
-| ELO Competitive | 1211 🔺  (487)|
-| Total Matches | 27 |
+| ELO Regular | 1141 🔻  (1022)|
+| ELO Competitive | 1203 🔻  (512)|
+| Total Matches | 28 |
 | Wins | 9 |
-| Losses | 17 |
+| Losses | 18 |
 | Draws | 1 |
 | Streak Record | 3 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721729476,1721729175,1721219212,1721193973,1720536368,1720530357,1719574401,1719440986,1718991431,1718443279,1717894377,1717166371,1713185743,1712301422,1712281008,1711844713,1711172976,1708438043,1707797041,1707132221,1706667938,1706164269,1705126295,1704540591,1699361733,1699131567,1698929312];
+        let timestamps = [1722282748,1721729476,1721729175,1721219212,1721193973,1720536368,1720530357,1719574401,1719440986,1718991431,1718443279,1717894377,1717166371,1713185743,1712301422,1712281008,1711844713,1711172976,1708438043,1707797041,1707132221,1706667938,1706164269,1705126295,1704540591,1699361733,1699131567,1698929312];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/03 | 2-7 | [BoomTech](https://ws.tsl.rocks/corp/97c4db179d3ea995d3a56227f87c501f4baa4abbece2b25e09b636f0aa264bd7/) |
 | ❌ | 2024/07/28 | 0-17 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
 | ✅ | 2024/07/28 | 9-3 | [<•\|•\>](https://ws.tsl.rocks/corp/a3864fad7e4ba08611eda264a7934afe237a2f313a23b12dcce9db0a96a09daf/) |
 | ❌ | 2024/07/22 | 4-15 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |

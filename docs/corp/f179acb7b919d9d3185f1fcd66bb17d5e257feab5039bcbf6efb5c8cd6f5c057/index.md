@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Star Blazers
-description: W:10 L:25 D:0 Bonus ❌
-date: 1722017834
+description: W:10 L:26 D:0 Bonus ❌
+date: 1722713246
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1076 🔻  (1136)|
-| ELO Competitive | 1121 🔻  (1125)|
-| Total Matches | 35 |
+| ELO Regular | 1069 🔻  (1142)|
+| ELO Competitive | 1115 🔻  (1134)|
+| Total Matches | 36 |
 | Wins | 10 |
-| Losses | 25 |
+| Losses | 26 |
 | Draws | 0 |
 | Streak Record | 3 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721585834,1720983418,1720407446,1718714643,1717313040,1715669752,1714161323,1713702834,1713216702,1712760271,1712282511,1711161720,1710340540,1708351960,1707627451,1706893018,1706425414,1705960530,1705508848,1705018118,1704520157,1704069694,1703566921,1703091793,1702938027,1702451145,1702048049,1701944718,1701262189,1701104706,1700793630,1700520741,1700066847,1699581996,1699131567];
+        let timestamps = [1722281246,1721585834,1720983418,1720407446,1718714643,1717313040,1715669752,1714161323,1713702834,1713216702,1712760271,1712282511,1711161720,1710340540,1708351960,1707627451,1706893018,1706425414,1705960530,1705508848,1705018118,1704520157,1704069694,1703566921,1703091793,1702938027,1702451145,1702048049,1701944718,1701262189,1701104706,1700793630,1700520741,1700066847,1699581996,1699131567];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/03 | 4-30 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |
 | ❌ | 2024/07/26 | 0-18 | [Warriorlords](https://ws.tsl.rocks/corp/a78c29b9e1c9f793205ba10d796dcabc114ef43d86f0bd34a43a56dc6da768aa/) |
 | ❌ | 2024/07/19 | 2-24 | [Gemini Ind\.](https://ws.tsl.rocks/corp/c85dd45ed75136d750bdcc2d83740494dea9e0ba077eac1bbb2f1a442a92674c/) |
 | ❌ | 2024/07/13 | 2-23 | [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1/) |

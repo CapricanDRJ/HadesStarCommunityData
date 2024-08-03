@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​BoomTech
-description: W:19 L:6 D:1 Bonus ✅
-date: 1722369734
+description: W:20 L:6 D:1 Bonus ✅
+date: 1722714748
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1320 🔻  (90)|
-| ELO Competitive | 1384 🔺  (95)|
-| Total Matches | 26 |
-| Wins | 19 |
+| ELO Regular | 1328 🔺  (81)|
+| ELO Competitive | 1392 🔺  (89)|
+| Total Matches | 27 |
+| Wins | 20 |
 | Losses | 6 |
 | Draws | 1 |
 | Streak Record | 5 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721937734,1721691617,1721166632,1721165128,1720542681,1720055828,1719350535,1718736288,1718106545,1717534261,1716898613,1716308181,1715689554,1715103975,1714476811,1713906540,1713322164,1712671934,1712083296,1711464303,1710855548,1710292471,1709693930,1709061728,1708433394,1707414558];
+        let timestamps = [1722282748,1721937734,1721691617,1721166632,1721165128,1720542681,1720055828,1719350535,1718736288,1718106545,1717534261,1716898613,1716308181,1715689554,1715103975,1714476811,1713906540,1713322164,1712671934,1712083296,1711464303,1710855548,1710292471,1709693930,1709061728,1708433394,1707414558];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/03 | 7-2 | [星光万丈](https://ws.tsl.rocks/corp/92ad2a305a74e168b57771140461b4d226e1e8cac17b4f77027d5a67ead5fa1d/) |
 | ❌ | 2024/07/30 | 0-11 | [lesescargots](https://ws.tsl.rocks/corp/718c873931e9097064fd6ef580fe9d8761be712e0783e0b97d28344abd910623/) |
 | ✅ | 2024/07/27 | 20-4 | [碧霄殿](https://ws.tsl.rocks/corp/7e12fd0fd0a01af1c797f73316b305a21078e46bd75758850438f20357276ebf/) |
 | ✅ | 2024/07/21 | 14-10 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
