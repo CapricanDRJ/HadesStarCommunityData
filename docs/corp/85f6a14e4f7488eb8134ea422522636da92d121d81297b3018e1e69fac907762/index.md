@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​OrderofTheGeon
-description: W:20 L:20 D:3 Bonus ✅
-date: 1722178308
+description: W:20 L:21 D:3 Bonus ✅
+date: 1722686194
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔺  (880)|
-| ELO Competitive | 1205 🔺  (502)|
-| Total Matches | 43 |
+| ELO Regular | 1159 🔻  (947)|
+| ELO Competitive | 1194 🔻  (593)|
+| Total Matches | 44 |
 | Wins | 20 |
-| Losses | 20 |
+| Losses | 21 |
 | Draws | 3 |
-| Streak | 2 |
 | Streak Record | 5 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721746308,1721274808,1720800251,1720348411,1719863794,1719408524,1719096881,1718947833,1718472135,1718031723,1717557549,1717113787,1716678037,1716242688,1715769113,1715296394,1714861513,1714428140,1713994982,1713509389,1712804439,1712333499,1711772102,1711156012,1710524721,1709933404,1709286179,1708689932,1708107656,1707643978,1707164794,1706715116,1706205741,1705762481,1705318024,1704803547,1704325357,1703877581,1703435298,1702938628,1702504949,1701961550,1701369183];
+        let timestamps = [1722254194,1721746308,1721274808,1720800251,1720348411,1719863794,1719408524,1719096881,1718947833,1718472135,1718031723,1717557549,1717113787,1716678037,1716242688,1715769113,1715296394,1714861513,1714428140,1713994982,1713509389,1712804439,1712333499,1711772102,1711156012,1710524721,1709933404,1709286179,1708689932,1708107656,1707643978,1707164794,1706715116,1706205741,1705762481,1705318024,1704803547,1704325357,1703877581,1703435298,1702938628,1702504949,1701961550,1701369183];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -127,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/03 | 6-7 | [koalition](https://ws.tsl.rocks/corp/68d721684ab83df28cba0a58c608e5dd3c58df79369abffa67da4e8956ef2695/) |
 | ✅ | 2024/07/28 | 3-1 | [欢迎国人](https://ws.tsl.rocks/corp/f32abd112fe2b826948a3538a51097b9114815930ec77ad11ada1b24ce34578d/) |
 | ✅ | 2024/07/23 | 3-2 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
 | ❌ | 2024/07/17 | 3-4 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |

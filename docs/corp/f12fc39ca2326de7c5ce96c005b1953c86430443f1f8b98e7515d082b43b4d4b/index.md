@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Providence
-description: W:27 L:12 D:0 Bonus ✅
+description: W:27 L:12 D:0 Bonus ❌
 date: 1722065913
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

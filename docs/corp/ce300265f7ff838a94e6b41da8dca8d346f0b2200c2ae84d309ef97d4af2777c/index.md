@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​TUSFO星舰第二联邦
-description: W:0 L:1 D:0 Bonus ❌
-date: 1722241413
+description: W:0 L:2 D:0 Bonus ❌
+date: 1722686194
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (577)|
-| ELO Competitive | 1193 🔻  (595)|
-| Total Matches | 1 |
+| ELO Regular | 1172 🔻  (827)|
+| ELO Competitive | 1180 🔻  (862)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721809413];
+        let timestamps = [1722254194,1721809413];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/03 | 0-8 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 | ❌ | 2024/07/29 | 0-10 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) |
 
 Corporation ID: ce300265f7ff838a94e6b41da8dca8d346f0b2200c2ae84d309ef97d4af2777c
