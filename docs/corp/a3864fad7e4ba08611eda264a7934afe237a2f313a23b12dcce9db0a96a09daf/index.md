@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​<•|•>
-description: W:1 L:3 D:0 Bonus ❌
-date: 1722161175
+description: W:1 L:3 D:1 Bonus ❌
+date: 1722772138
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1163 🔻  (927)|
-| ELO Competitive | 1172 🔻  (929)|
-| Total Matches | 4 |
+| ELO Regular | 1166 🔺  (912)|
+| ELO Competitive | 1176 🔺  (895)|
+| Total Matches | 5 |
 | Wins | 1 |
 | Losses | 3 |
-| Draws | 0 |
+| Draws | 1 |
 
 
 # Whitestar Match Day
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721729175,1720857653,1720155610,1716780511];
+        let timestamps = [1722340138,1721729175,1720857653,1720155610,1716780511];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/08/04 | 0-0 | [落雨观花](https://ws.tsl.rocks/corp/565a6d89fc5107e86669d7f8910a1c4ae1fbb156fa0b5e81dbc917c341cc9ff0/) |
 | ❌ | 2024/07/28 | 3-9 | [星光万丈](https://ws.tsl.rocks/corp/92ad2a305a74e168b57771140461b4d226e1e8cac17b4f77027d5a67ead5fa1d/) |
 | ✅ | 2024/07/18 | 2-1 | [逐光起航](https://ws.tsl.rocks/corp/e6bb076aa209101b5fa1cbc40a614c241d71ab5eca143c733b81aed6302455e8/) |
 | ❌ | 2024/07/10 | 2-3 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Out landers
-description: W:10 L:6 D:0 Bonus ❌
-date: 1721667143
+description: W:10 L:7 D:0 Bonus ❌
+date: 1722773340
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1270 🔺  (169)|
-| ELO Competitive | 1290 🔺  (226)|
-| Total Matches | 16 |
+| ELO Regular | 1262 🔻  (188)|
+| ELO Competitive | 1283 🔻  (237)|
+| Total Matches | 17 |
 | Wins | 10 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 0 |
 | Streak Record | 4 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721235143,1720239149,1719578609,1718286254,1717331679,1716209332,1715648097,1714224116,1712908998,1711893989,1711104025,1709810205,1706265840,1705495323,1701728033,1700310049];
+        let timestamps = [1722341340,1721235143,1720239149,1719578609,1718286254,1717331679,1716209332,1715648097,1714224116,1712908998,1711893989,1711104025,1709810205,1706265840,1705495323,1701728033,1700310049];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -113,11 +113,17 @@ This chart shows the frequency of days of the week when whitestars were matched.
     });
 </script>
     
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [CIS](https://ws.tsl.rocks/corp/3efaab24560531ff257e73bfb281a7e9c0a9d591ac5aff55d05d35f2fb5e1d73/) | 0 | 2 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/04 | 6-14 | [CIS](https://ws.tsl.rocks/corp/3efaab24560531ff257e73bfb281a7e9c0a9d591ac5aff55d05d35f2fb5e1d73/) |
 | ✅ | 2024/07/22 | 24-0 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |
 | ❌ | 2024/07/11 | 4-10 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |
 | ❌ | 2024/07/03 | 8-25 | [2ND\-R8 Corp\.](https://ws.tsl.rocks/corp/e97866623598a98454b3a4724b472dc171f5e1aff84b076c43d021f0fabdc702/) |

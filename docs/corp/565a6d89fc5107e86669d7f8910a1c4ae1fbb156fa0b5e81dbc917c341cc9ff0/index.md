@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​落雨观花
-description: W:5 L:3 D:0 Bonus ✅
-date: 1722655846
+description: W:5 L:3 D:1 Bonus ✅
+date: 1722772138
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1219 🔺  (322)|
+| ELO Regular | 1216 🔻  (331)|
 | ELO Competitive | 1254 🔺  (303)|
-| Total Matches | 8 |
+| Total Matches | 9 |
 | Wins | 5 |
 | Losses | 3 |
-| Draws | 0 |
+| Draws | 1 |
 | Streak Record | 4 |
 
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722223846,1721894457,1721786877,1721449095,1721325292,1720851041,1720261689,1719666657];
+        let timestamps = [1722340138,1722223846,1721894457,1721786877,1721449095,1721325292,1720851041,1720261689,1719666657];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/08/04 | 0-0 | [<•\|•\>](https://ws.tsl.rocks/corp/a3864fad7e4ba08611eda264a7934afe237a2f313a23b12dcce9db0a96a09daf/) |
 | ✅ | 2024/08/03 | 18-1 | [自由星际联盟](https://ws.tsl.rocks/corp/933277ff64041b32fe12e4e564e2064071377343596c7944fb8c145165e2ab04/) |
 | ❌ | 2024/07/30 | 0-9 | [Czech Legion](https://ws.tsl.rocks/corp/b4453b41cf7b1c019648ed14db493a47c8a64347e689013b2c969bf97e251ec8/) |
 | ❌ | 2024/07/29 | 3-13 | [资助会](https://ws.tsl.rocks/corp/4d36e1b3853444f7789e6142230ba93f3968baffc18bfad598c3d450c6b247e2/) |

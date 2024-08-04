@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​King's Guard
-description: W:25 L:53 D:5 Bonus ✅
+description: W:25 L:53 D:5 Bonus ❌
 date: 1722608359
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

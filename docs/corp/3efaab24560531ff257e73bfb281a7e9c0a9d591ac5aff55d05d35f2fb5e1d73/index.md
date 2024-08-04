@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​CIS
-description: W:30 L:4 D:0 Bonus ❌
-date: 1721996491
+description: W:31 L:4 D:0 Bonus ✅
+date: 1722773340
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1425 🔺  (24)|
-| ELO Competitive | 1481 🔺  (34)|
-| Total Matches | 34 |
-| Wins | 30 |
+| ELO Regular | 1434 🔺  (22)|
+| ELO Competitive | 1488 🔺  (32)|
+| Total Matches | 35 |
+| Wins | 31 |
 | Losses | 4 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 9 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721564491,1720928884,1720923175,1720390976,1720366274,1719766129,1719758915,1719202683,1719191869,1718599248,1717939157,1717331679,1716817774,1716136326,1715513788,1715072423,1714329884,1713196564,1712151498,1711282516,1710759701,1710158759,1709472782,1708080908,1707154874,1706606929,1705765487,1704316418,1703214409,1702662729,1702127751,1701319594,1700354536,1699640631];
+        let timestamps = [1722341340,1721564491,1720928884,1720923175,1720390976,1720366274,1719766129,1719758915,1719202683,1719191869,1718599248,1717939157,1717331679,1716817774,1716136326,1715513788,1715072423,1714329884,1713196564,1712151498,1711282516,1710759701,1710158759,1709472782,1708080908,1707154874,1706606929,1705765487,1704316418,1703214409,1702662729,1702127751,1701319594,1700354536,1699640631];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Out landers](https://ws.tsl.rocks/corp/4d949404db40dec4e95e786811959954fc9e2b1361f3bf0d33af2279ff86d23a/) | 2 | 0 | 0 | 2 |
 | [Stardust](https://ws.tsl.rocks/corp/304ad360ced8ec5a0e12a9955f3dd8f8ac2476f48d98a379beda41221e5a1c1c/) | 2 | 0 | 0 | 2 |
 | [Armored Union ](https://ws.tsl.rocks/corp/4dacc02ca314ab864578421db538b0eb10b0c8c81dc0edd91c5090717d087c7f/) | 1 | 1 | 0 | 2 |
 | [佛矿寺](https://ws.tsl.rocks/corp/64f8afd95b7004e9d5a442da55644ee3ce64a9a8e82345c458d757b527e40624/) | 2 | 0 | 0 | 2 |
@@ -126,6 +128,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/04 | 14-6 | [Out landers](https://ws.tsl.rocks/corp/4d949404db40dec4e95e786811959954fc9e2b1361f3bf0d33af2279ff86d23a/) |
 | ✅ | 2024/07/26 | 22-0 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
 | ❌ | 2024/07/19 | 2-7 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) |
 | ✅ | 2024/07/19 | 23-5 | [Sprite](https://ws.tsl.rocks/corp/3bf5d300b42f0610355645e2ee9cf24e5517a2c5e12472f685781051619266ac/) |

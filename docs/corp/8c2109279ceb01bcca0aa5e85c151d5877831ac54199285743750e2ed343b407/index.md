@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​绛紫星
-description: W:24 L:16 D:2 Bonus ❌
-date: 1722078533
+description: W:25 L:16 D:2 Bonus ✅
+date: 1722770936
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1251 🔻  (218)|
-| ELO Competitive | 1371 🔻  (110)|
-| Total Matches | 42 |
-| Wins | 24 |
+| ELO Regular | 1265 🔺  (182)|
+| ELO Competitive | 1385 🔺  (94)|
+| Total Matches | 43 |
+| Wins | 25 |
 | Losses | 16 |
 | Draws | 2 |
 | Streak Record | 5 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721646533,1721043997,1720362066,1719681085,1718251096,1718250796,1717389990,1717339196,1716903423,1716892202,1715702776,1714576269,1714567555,1713967225,1712329082,1712329082,1709306995,1709305110,1708863099,1708860694,1708418070,1708417769,1707920144,1707919843,1707211668,1707190334,1706683863,1706676952,1706236693,1705586376,1705150637,1704186588,1703306669,1702715320,1702167730,1701733142,1701272109,1700807753,1700357541,1699890728,1699456688,1699020962];
+        let timestamps = [1722338936,1721646533,1721043997,1720362066,1719681085,1718251096,1718250796,1717389990,1717339196,1716903423,1716892202,1715702776,1714576269,1714567555,1713967225,1712329082,1712329082,1709306995,1709305110,1708863099,1708860694,1708418070,1708417769,1707920144,1707919843,1707211668,1707190334,1706683863,1706676952,1706236693,1705586376,1705150637,1704186588,1703306669,1702715320,1702167730,1701733142,1701272109,1700807753,1700357541,1699890728,1699456688,1699020962];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/04 | 38-3 | [Space Marshalls](https://ws.tsl.rocks/corp/6a41cc36abf3a28a1c26bc22843f1892d6938e8eb1e8f8a10fd9e6e964e06c2c/) |
 | ❌ | 2024/07/27 | 5-20 | [Looping](https://ws.tsl.rocks/corp/08524086f45f2e6109e583baf940197663aa3e155c32fcdbb04f319343a5eb0c/) |
 | ✅ | 2024/07/20 | 19-8 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) |
 | ↔️ | 2024/07/12 | 11-11 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
