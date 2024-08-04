@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Ninth Planet
-description: W:38 L:4 D:1 Bonus ❌
-date: 1722311732
+description: W:39 L:4 D:1 Bonus ✅
+date: 1722778450
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1478 🔻  (12)|
-| ELO Competitive | 1512 🔻  (19)|
-| Total Matches | 43 |
-| Wins | 38 |
+| ELO Regular | 1483 🔺  (9)|
+| ELO Competitive | 1516 🔺  (16)|
+| Total Matches | 44 |
+| Wins | 39 |
 | Losses | 4 |
 | Draws | 1 |
 | Streak Record | 24 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721879732,1721251374,1720644564,1720067357,1720047116,1719451802,1718835456,1718255303,1717546280,1717542675,1716944303,1716331317,1716328613,1715663116,1715587102,1715129256,1714601211,1713994872,1713436343,1713416214,1712799933,1712791522,1712235333,1712190264,1711508474,1710996863,1710379305,1709786407,1709161903,1708563853,1707990025,1707325256,1706750127,1706180194,1705635975,1704317620,1703155298,1702510660,1701964024,1701315087,1700119805,1699489746,1698781641];
+        let timestamps = [1722346450,1721879732,1721251374,1720644564,1720067357,1720047116,1719451802,1718835456,1718255303,1717546280,1717542675,1716944303,1716331317,1716328613,1715663116,1715587102,1715129256,1714601211,1713994872,1713436343,1713416214,1712799933,1712791522,1712235333,1712190264,1711508474,1710996863,1710379305,1709786407,1709161903,1708563853,1707990025,1707325256,1706750127,1706180194,1705635975,1704317620,1703155298,1702510660,1701964024,1701315087,1700119805,1699489746,1698781641];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/04 | 22-7 | [哈迪斯之星，启动！](https://ws.tsl.rocks/corp/bc58305a02f7392f340d26a3becd4784de7360dd5264df9e85d73116b93496d8/) |
 | ↔️ | 2024/07/30 | 14-14 | [United Stars ](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) |
 | ✅ | 2024/07/22 | 40-3 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) |
 | ✅ | 2024/07/15 | 10-8 | [Wompwompway ](https://ws.tsl.rocks/corp/f7c3d7f512c4de3883e63b1a5771ab3ef3938054f98711e933bc7dd064fb8363/) |

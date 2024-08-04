@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Midland Ind.
-description: W:10 L:10 D:0 Bonus ❌
-date: 1722238409
+description: W:10 L:11 D:0 Bonus ❌
+date: 1722779350
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1203 🔻  (419)|
-| ELO Competitive | 1238 🔺  (341)|
-| Total Matches | 20 |
+| ELO Regular | 1191 🔻  (514)|
+| ELO Competitive | 1228 🔻  (375)|
+| Total Matches | 21 |
 | Wins | 10 |
-| Losses | 10 |
+| Losses | 11 |
 | Draws | 0 |
 | Streak Record | 3 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721806409,1721681702,1720368679,1719847262,1716751968,1716237581,1714917695,1712518394,1710119406,1709528673,1708400644,1707682751,1702918789,1702247382,1701639074,1701042800,1700434187,1699831823,1699221113,1699010444];
+        let timestamps = [1722347350,1721806409,1721681702,1720368679,1719847262,1716751968,1716237581,1714917695,1712518394,1710119406,1709528673,1708400644,1707682751,1702918789,1702247382,1701639074,1701042800,1700434187,1699831823,1699221113,1699010444];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/04 | 4-47 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/0c33734edc95a1bac88a9df7e0853a3bd835ea682673f097db1c75d6bb14c8da/) |
 | ❌ | 2024/07/29 | 6-15 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ✅ | 2024/07/27 | 22-3 | [YETI Collective](https://ws.tsl.rocks/corp/ff6a3c65d008d245f003a3009374e26cf38e7cda6ea4d601a9da9037296fda98/) |
 | ❌ | 2024/07/12 | 19-30 | [alienigenas](https://ws.tsl.rocks/corp/1c092f1b0e9645193eac68e27b29b2b9fef39474fd8924495abec6754857a8f9/) |

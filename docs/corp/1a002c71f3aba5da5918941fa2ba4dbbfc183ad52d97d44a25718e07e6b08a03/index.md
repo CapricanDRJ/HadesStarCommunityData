@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​OntarioDawn
-description: W:35 L:3 D:0 Bonus ❌
-date: 1721505460
+description: W:36 L:3 D:0 Bonus ✅
+date: 1722779051
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1464 🔻  (16)|
-| ELO Competitive | 1472 🔻  (40)|
-| Total Matches | 38 |
-| Wins | 35 |
+| ELO Regular | 1470 🔺  (14)|
+| ELO Competitive | 1487 🔺  (34)|
+| Total Matches | 39 |
+| Wins | 36 |
 | Losses | 3 |
 | Draws | 0 |
 | Streak Record | 23 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721073460,1720454026,1719839748,1719242650,1718655751,1718038637,1717434475,1716834007,1716218048,1715614444,1714410407,1713821514,1713188749,1712600425,1711993454,1711385282,1710802074,1710179796,1709606166,1709598985,1709022057,1708993815,1708375706,1707803850,1707172910,1706586496,1706554944,1705978858,1705346576,1704725113,1704168261,1703529058,1702951248,1702380215,1701728033,1701086070,1700408033,1699796046];
+        let timestamps = [1722347051,1721073460,1720454026,1719839748,1719242650,1718655751,1718038637,1717434475,1716834007,1716218048,1715614444,1714410407,1713821514,1713188749,1712600425,1711993454,1711385282,1710802074,1710179796,1709606166,1709598985,1709022057,1708993815,1708375706,1707803850,1707172910,1706586496,1706554944,1705978858,1705346576,1704725113,1704168261,1703529058,1702951248,1702380215,1701728033,1701086070,1700408033,1699796046];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/04 | 32-0 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 | ❌ | 2024/07/20 | 13-28 | [Tormenta](https://ws.tsl.rocks/corp/537807f41149f54b040d4f2bc983c7f1fbfa2242ec5566371330e4996e33a195/) |
 | ✅ | 2024/07/13 | 23-15 | [Grater T](https://ws.tsl.rocks/corp/2044ad2bb7831118aae299744191230a33d196c7997f9516a20c3d0a321ba669/) |
 | ✅ | 2024/07/06 | 30-5 | [Sternenflotte](https://ws.tsl.rocks/corp/c0e248ebf5fe5d7a10057e5c23341422b0d0bd0cc74c836d2d9835758cce6ec7/) |
