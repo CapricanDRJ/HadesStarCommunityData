@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​OrderofTheGeon
-description: W:20 L:21 D:3 Bonus ✅
+description: W:20 L:21 D:3 Bonus ❌
 date: 1722686194
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1159 🔻  (952)|
+| ELO Regular | 1159 🔻  (951)|
 | ELO Competitive | 1194 🔻  (598)|
 | Total Matches | 44 |
 | Wins | 20 |

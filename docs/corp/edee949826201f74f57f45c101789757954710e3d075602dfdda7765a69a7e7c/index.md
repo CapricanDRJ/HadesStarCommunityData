@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​P!RAT£ SHIP
-description: W:8 L:6 D:1 Bonus ❌
-date: 1721602838
+description: W:9 L:6 D:1 Bonus ✅
+date: 1722793478
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1233 🔻  (266)|
-| ELO Competitive | 1237 🔻  (343)|
-| Total Matches | 15 |
-| Wins | 8 |
+| ELO Regular | 1250 🔺  (219)|
+| ELO Competitive | 1254 🔺  (303)|
+| Total Matches | 16 |
+| Wins | 9 |
 | Losses | 6 |
 | Draws | 1 |
 | Streak Record | 3 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721170838,1720359961,1719850268,1714335894,1713722968,1713045120,1710457723,1708084814,1705156347,1704313412,1702820511,1702315601,1701825409,1701790838,1700839611];
+        let timestamps = [1722361478,1721170838,1720359961,1719850268,1714335894,1713722968,1713045120,1710457723,1708084814,1705156347,1704313412,1702820511,1702315601,1701825409,1701790838,1700839611];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/04 | 8-6 | [  边界  ](https://ws.tsl.rocks/corp/86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a/) |
 | ❌ | 2024/07/21 | 0-21 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
 | ✅ | 2024/07/12 | 16-3 | [Star League](https://ws.tsl.rocks/corp/f6e399c226abb13fbb01d04c3d26f5771dfeaa767fe4b6c374bec8ca0299d836/) |
 | ✅ | 2024/07/06 | 14-9 | [德意志第三帝国奥米加分部](https://ws.tsl.rocks/corp/b5f35e30b2dea2621e854b5011a9f9d07ca3585cd26bd9ac92aa7b06c0a522b1/) |
