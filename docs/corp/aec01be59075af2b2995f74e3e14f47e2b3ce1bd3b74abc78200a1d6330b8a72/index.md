@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​Corp. Estelar
-description: W:11 L:9 D:0 Bonus ✅
+description: W:11 L:9 D:0 Bonus ❌
 date: 1722699119
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1268 🔻  (179)|
+| ELO Regular | 1268 🔻  (178)|
 | ELO Competitive | 1310 🔻  (193)|
 | Total Matches | 20 |
 | Wins | 11 |

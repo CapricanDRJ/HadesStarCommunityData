@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​青鸾殿
-description: W:2 L:2 D:0 Bonus ❌
-date: 1721536413
+description: W:2 L:3 D:0 Bonus ❌
+date: 1722736681
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1203 🔻  (421)|
-| ELO Competitive | 1208 🔻  (494)|
-| Total Matches | 4 |
+| ELO Regular | 1183 🔻  (737)|
+| ELO Competitive | 1193 🔻  (600)|
+| Total Matches | 5 |
 | Wins | 2 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721104413,1720524947,1719998719,1719493267];
+        let timestamps = [1722304681,1721104413,1720524947,1719998719,1719493267];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/04 | 13-22 | [神圣罗马帝国](https://ws.tsl.rocks/corp/2a71af44aaef82175cd8dfd86c9e3f218a438a7c7e748bae20d8a0d964a984ab/) |
 | ❌ | 2024/07/21 | 3-13 | [情谊永存](https://ws.tsl.rocks/corp/a3fee40ae9e62b95f50c653b7acf4990fee7b21461807dc90da90d429063a98c/) |
 | ✅ | 2024/07/14 | 19-1 | [花鸟市场](https://ws.tsl.rocks/corp/45a61cb4d071f081ca6b32010343d3539ff9002b1cc2fd2fb455841faad7d182/) |
 | ✅ | 2024/07/08 | 9-0 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |

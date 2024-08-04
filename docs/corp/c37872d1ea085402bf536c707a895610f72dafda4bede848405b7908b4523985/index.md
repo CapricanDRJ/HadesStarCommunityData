@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​Galaktika corp
-description: W:15 L:5 D:2 Bonus ✅
-date: 1722144918
+description: W:16 L:5 D:2 Bonus ✅
+date: 1722735881
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1305 🔺  (116)|
-| ELO Competitive | 1334 🔺  (157)|
-| Total Matches | 22 |
-| Wins | 15 |
+| ELO Regular | 1320 🔺  (91)|
+| ELO Competitive | 1351 🔺  (134)|
+| Total Matches | 23 |
+| Wins | 16 |
 | Losses | 5 |
 | Draws | 2 |
+| Streak | 2 |
 | Streak Record | 5 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721712918,1721219212,1720766585,1720149900,1719287424,1718823133,1718357791,1717572119,1717078926,1715793511,1715203724,1712776499,1711185455,1709052712,1707999474,1707077836,1706633978,1705162660,1703425079,1702311692,1701443114,1699964420];
+        let timestamps = [1722303881,1721712918,1721219212,1720766585,1720149900,1719287424,1718823133,1718357791,1717572119,1717078926,1715793511,1715203724,1712776499,1711185455,1709052712,1707999474,1707077836,1706633978,1705162660,1703425079,1702311692,1701443114,1699964420];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/04 | 12-1 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |
 | ✅ | 2024/07/28 | 17-0 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |
 | ❌ | 2024/07/22 | 3-24 | [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) |
 | ❌ | 2024/07/17 | 11-21 | [Star Destroyers](https://ws.tsl.rocks/corp/32ba20918cd8720602fefb3bc676a6ba5195314479040f70eadc728fbbc2698d/) |

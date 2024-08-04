@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Ƭιтαηѕ Ф тєʀʀσƦ
-description: W:20 L:10 D:0 Bonus ✅
-date: 1722713246
+description: W:20 L:11 D:0 Bonus ✅
+date: 1722735881
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1295 🔺  (133)|
-| ELO Competitive | 1373 🔺  (109)|
-| Total Matches | 30 |
+| ELO Regular | 1280 🔻  (154)|
+| ELO Competitive | 1373 🔺  (108)|
+| Total Matches | 31 |
 | Wins | 20 |
-| Losses | 10 |
+| Losses | 11 |
 | Draws | 0 |
-| Streak | 3 |
 | Streak Record | 5 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722281246,1721661262,1721098102,1721097200,1720506316,1720387016,1719817211,1719803990,1719252268,1718644328,1718091522,1717511411,1716816270,1716231570,1715637282,1715614143,1715025558,1714418220,1714418220,1713751809,1713748806,1713290015,1713290015,1712694174,1712689366,1712087203,1711473920,1710928258,1710913538,1710373898];
+        let timestamps = [1722303881,1722281246,1721661262,1721098102,1721097200,1720506316,1720387016,1719817211,1719803990,1719252268,1718644328,1718091522,1717511411,1716816270,1716231570,1715637282,1715614143,1715025558,1714418220,1714418220,1713751809,1713748806,1713290015,1713290015,1712694174,1712689366,1712087203,1711473920,1710928258,1710913538,1710373898];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/04 | 1-12 | [Galaktika corp](https://ws.tsl.rocks/corp/c37872d1ea085402bf536c707a895610f72dafda4bede848405b7908b4523985/) |
 | ✅ | 2024/08/03 | 30-4 | [Star Blazers](https://ws.tsl.rocks/corp/f179acb7b919d9d3185f1fcd66bb17d5e257feab5039bcbf6efb5c8cd6f5c057/) |
 | ✅ | 2024/07/27 | 37-0 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) |
 | ✅ | 2024/07/21 | 21-5 | [Created](https://ws.tsl.rocks/corp/04182a4606d981d1c410b0c058248e428765c672442d912ec47218ace9004e74/) |
