@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Tormenta
-description: W:3 L:5 D:0 Bonus ✅
+description: W:3 L:5 D:0 Bonus ❌
 date: 1722104985
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

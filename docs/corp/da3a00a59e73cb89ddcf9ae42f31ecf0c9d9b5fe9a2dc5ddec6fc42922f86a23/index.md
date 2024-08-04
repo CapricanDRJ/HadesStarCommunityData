@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Midland Ind.
-description: W:10 L:10 D:0 Bonus ✅
+description: W:10 L:10 D:0 Bonus ❌
 date: 1722238409
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

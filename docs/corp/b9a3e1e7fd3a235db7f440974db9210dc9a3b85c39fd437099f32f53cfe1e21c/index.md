@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​星舰月球
-description: W:30 L:8 D:0 Bonus ✅
+description: W:30 L:8 D:0 Bonus ❌
 date: 1722105915
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

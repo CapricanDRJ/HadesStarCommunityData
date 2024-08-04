@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Brasil
-description: W:0 L:2 D:0 Bonus ❌
-date: 1721878090
+description: W:1 L:2 D:0 Bonus ✅
+date: 1722723162
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (865)|
-| ELO Competitive | 1178 🔻  (873)|
-| Total Matches | 2 |
-| Wins | 0 |
+| ELO Regular | 1187 🔺  (574)|
+| ELO Competitive | 1194 🔺  (591)|
+| Total Matches | 3 |
+| Wins | 1 |
 | Losses | 2 |
 | Draws | 0 |
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721446090,1720655683];
+        let timestamps = [1722291162,1721446090,1720655683];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/03 | 9-0 | [The Belters](https://ws.tsl.rocks/corp/1cd5dde249c27c1353d5526f2b41bdaa54d289a3d5eeba035a7a49f382f10a7b/) |
 | ❌ | 2024/07/25 | 4-7 | [荣耀之星](https://ws.tsl.rocks/corp/4334fd4d4ffbc89487deaec7bb38025aba46209b810578436882be271fdbff23/) |
 | ❌ | 2024/07/15 | 4-5 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
 

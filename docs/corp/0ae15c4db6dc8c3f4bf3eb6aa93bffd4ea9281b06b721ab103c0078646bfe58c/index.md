@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Спутник
-description: W:31 L:7 D:0 Bonus ❌
-date: 1721423709
+description: W:31 L:8 D:0 Bonus ❌
+date: 1722722561
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1396 🔺  (39)|
-| ELO Competitive | 1426 🔺  (68)|
-| Total Matches | 38 |
+| ELO Regular | 1369 🔻  (52)|
+| ELO Competitive | 1403 🔻  (83)|
+| Total Matches | 39 |
 | Wins | 31 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
-| Streak | 7 |
 | Streak Record | 17 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1720991709,1716155859,1714340402,1713378958,1711954687,1711332704,1710657019,1709893898,1709530776,1709289784,1708915987,1708247384,1708236566,1707714297,1707048080,1707037562,1706266441,1706089741,1705667816,1705174983,1705040652,1704578764,1704557424,1704123483,1703262794,1703260389,1702757402,1702737863,1702258720,1702134365,1701630957,1701628552,1701075251,1701066537,1699844143,1699283904,1698746887,1698685862];
+        let timestamps = [1722290561,1720991709,1716155859,1714340402,1713378958,1711954687,1711332704,1710657019,1709893898,1709530776,1709289784,1708915987,1708247384,1708236566,1707714297,1707048080,1707037562,1706266441,1706089741,1705667816,1705174983,1705040652,1704578764,1704557424,1704123483,1703262794,1703260389,1702757402,1702737863,1702258720,1702134365,1701630957,1701628552,1701075251,1701066537,1699844143,1699283904,1698746887,1698685862];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -129,6 +128,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/03 | 8-9 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) |
 | ✅ | 2024/07/19 | 33-26 | [Terranova](https://ws.tsl.rocks/corp/4eeaf112dd9983e997c8c9ec43e562763a8cd4a95f268b4bfeee5e39934f01de/) |
 | ✅ | 2024/05/24 | 40-24 | [No Orbit©](https://ws.tsl.rocks/corp/15831bc11de2a279f369118ffb2cd889844a6992e769889ad9e64f8ac15a410f/) |
 | ✅ | 2024/05/03 | 38-28 | [ANZAC Warriors](https://ws.tsl.rocks/corp/dbb190c3127dbab2a3d6d58f1f8f63425f1dbd1949f6442fb2d162e66246b484/) |
