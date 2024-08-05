@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Nebulae Traders
-description: W:5 L:16 D:2 Bonus ✅
-date: 1722334869
+description: W:5 L:18 D:2 Bonus ✅
+date: 1722823227
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1110 🔻  (1099)|
-| ELO Competitive | 1165 🔺  (1008)|
-| Total Matches | 23 |
+| ELO Regular | 1100 🔻  (1113)|
+| ELO Competitive | 1162 🔻  (1020)|
+| Total Matches | 25 |
 | Wins | 5 |
-| Losses | 16 |
+| Losses | 18 |
 | Draws | 2 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721902869,1721897461,1721342121,1721197578,1720897630,1720387617,1719897145,1719433774,1718823133,1716078338,1715637282,1715113291,1713788760,1713203176,1712437860,1711409023,1710035723,1709402172,1707263531,1707260655,1706121534,1705966840,1698725548];
+        let timestamps = [1722391227,1722390025,1721902869,1721897461,1721342121,1721197578,1720897630,1720387617,1719897145,1719433774,1718823133,1716078338,1715637282,1715113291,1713788760,1713203176,1712437860,1711409023,1710035723,1709402172,1707263531,1707260655,1706121534,1705966840,1698725548];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,8 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/05 | 2-14 | [宇宙银河帝国](https://ws.tsl.rocks/corp/afb9817e45c3c79048d2be30be3b635704485d260ae7b474b579a019d56d3c2d/) |
+| ❌ | 2024/08/05 | 0-27 | [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) |
 | ❌ | 2024/07/30 | 0-19 | [RGW](https://ws.tsl.rocks/corp/48a0b2c0f203025d10d1217dbcc5e27f3e31f56f2c407d61219c24ec88446be7/) |
 | ✅ | 2024/07/30 | 16-13 | [普罗米修斯](https://ws.tsl.rocks/corp/f39d00b1bbbf87c158931fd887f37a588019d0b1fd4f2441fbc675674b71423a/) |
 | ❌ | 2024/07/23 | 1-9 | [MÉXICO INFINITO](https://ws.tsl.rocks/corp/a9fbdd48477b87a054dbd804eef12ae08bc6e02798cd8990b08c4a9803d8f9d8/) |

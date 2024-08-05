@@ -1,19 +1,21 @@
 ---
 layout: page
 title: ​Winged Pheonix
-description: W:4 L:9 D:0 Bonus ✅
-date: 1722338475
+description: W:5 L:9 D:0 Bonus ✅
+date: 1722829236
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1166 🔺  (908)|
-| ELO Competitive | 1194 🔺  (590)|
-| Total Matches | 13 |
-| Wins | 4 |
+| ELO Regular | 1176 🔺  (788)|
+| ELO Competitive | 1204 🔺  (507)|
+| Total Matches | 14 |
+| Wins | 5 |
 | Losses | 9 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 
 
 # Whitestar Match Day
@@ -30,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721906475,1721445187,1720937900,1720040505,1719463519,1718596544,1718121274,1717392995,1716545518,1716007428,1715248485,1714705767,1713772837];
+        let timestamps = [1722397236,1721906475,1721445187,1720937900,1720040505,1719463519,1718596544,1718121274,1717392995,1716545518,1716007428,1715248485,1714705767,1713772837];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/05 | 39-3 | [Держава Русь](https://ws.tsl.rocks/corp/cbf11e25cee65a6c529251b7f47a35d9e4ba7bb9d640f384605541637e931672/) |
 | ✅ | 2024/07/30 | 47-3 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) |
 | ❌ | 2024/07/25 | 22-35 | [BrazilCorp\.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) |
 | ✅ | 2024/07/19 | 36-30 | [West Worlders](https://ws.tsl.rocks/corp/aad051ec6b980cc52fb4777aef113d9e28a72aab40fda65aa9cdbf477b8e390a/) |
