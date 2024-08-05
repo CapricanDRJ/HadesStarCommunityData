@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​星海扬帆
-description: W:18 L:16 D:0 Bonus ✅
-date: 1722393171
+description: W:20 L:16 D:0 Bonus ✅
+date: 1722851808
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1226 🔻  (292)|
-| ELO Competitive | 1348 🔺  (135)|
-| Total Matches | 34 |
-| Wins | 18 |
+| ELO Regular | 1246 🔺  (228)|
+| ELO Competitive | 1367 🔺  (120)|
+| Total Matches | 36 |
+| Wins | 20 |
 | Losses | 16 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 4 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721961171,1721960870,1720691744,1719970454,1719938919,1718992600,1718973975,1718471534,1718366789,1717956893,1717680615,1717157654,1716623612,1716558439,1714479215,1708424680,1707987154,1707403438,1707002406,1706970850,1706550436,1706536307,1706103865,1705671723,1705088133,1705079417,1704461859,1704445631,1703866241,1703584048,1703347243,1703135969,1702646197,1702032474];
+        let timestamps = [1722419808,1722419771,1721961171,1721960870,1720691744,1719970454,1719938919,1718992600,1718973975,1718471534,1718366789,1717956893,1717680615,1717157654,1716623612,1716558439,1714479215,1708424680,1707987154,1707403438,1707002406,1706970850,1706550436,1706536307,1706103865,1705671723,1705088133,1705079417,1704461859,1704445631,1703866241,1703584048,1703347243,1703135969,1702646197,1702032474];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +124,8 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/05 | 3-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
+| ✅ | 2024/08/05 | 22-0 | [Axiom](https://ws.tsl.rocks/corp/4000a010c205d318c766ba14fe1836eaab6652f1738a88cce8a8c69d0283e1b0/) |
 | ❌ | 2024/07/31 | 6-26 | [Últimafronteira](https://ws.tsl.rocks/corp/27e96f432a078f197bb5e4c34480ccabc05a9ee48e7bb04d95288fda15e94d3c/) |
 | ✅ | 2024/07/31 | 1-0 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) |
 | ✅ | 2024/07/16 | 12-7 | [OTRSᗜωO](https://ws.tsl.rocks/corp/07ebeb2216e39f25d78a6634970c057fd0a406375ce0734173bceace5a7af1eb/) |

@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​中国星际联盟
-description: W:33 L:28 D:2 Bonus ✅
+description: W:33 L:28 D:2 Bonus ❌
 date: 1722739686
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1252 🔻  (216)|
+| ELO Regular | 1252 🔻  (215)|
 | ELO Competitive | 1428 🔻  (64)|
 | Total Matches | 63 |
 | Wins | 33 |

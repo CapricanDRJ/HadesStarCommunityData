@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​对，进就进人少的
-description: W:35 L:30 D:2 Bonus ✅
+description: W:35 L:30 D:2 Bonus ❌
 date: 1722699119
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
