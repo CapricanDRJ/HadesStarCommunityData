@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Hun Generals
-description: W:8 L:32 D:0 Bonus ❌
-date: 1722664860
+description: W:8 L:33 D:0 Bonus ❌
+date: 1722840654
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1000 🔻  (1182)|
-| ELO Competitive | 1125 🔻  (1124)|
-| Total Matches | 40 |
+| ELO Regular | 995 🔻  (1184)|
+| ELO Competitive | 1126 🔻  (1124)|
+| Total Matches | 41 |
 | Wins | 8 |
-| Losses | 32 |
+| Losses | 33 |
 | Draws | 0 |
 | Streak Record | 3 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722232860,1721661262,1721596054,1721017550,1720509685,1720419765,1719897145,1719643817,1719414836,1719203885,1718698055,1718647935,1718084310,1718034729,1717450108,1717438984,1716802145,1716300067,1715748142,1715285145,1714802318,1714356322,1713865973,1713384069,1712916809,1712484128,1712047835,1711061667,1710628995,1709955036,1709507945,1708895859,1708292769,1707685455,1707100372,1706476511,1705870375,1705260032,1704231673,1701033784];
+        let timestamps = [1722408654,1722232860,1721661262,1721596054,1721017550,1720509685,1720419765,1719897145,1719643817,1719414836,1719203885,1718698055,1718647935,1718084310,1718034729,1717450108,1717438984,1716802145,1716300067,1715748142,1715285145,1714802318,1714356322,1713865973,1713384069,1712916809,1712484128,1712047835,1711061667,1710628995,1709955036,1709507945,1708895859,1708292769,1707685455,1707100372,1706476511,1705870375,1705260032,1704231673,1701033784];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/05 | 0-13 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |
 | ❌ | 2024/08/03 | 0-16 | [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) |
 | ❌ | 2024/07/27 | 0-37 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |
 | ❌ | 2024/07/26 | 4-39 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) |
