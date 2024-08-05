@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​资助会
-description: W:8 L:2 D:0 Bonus ✅
+description: W:8 L:2 D:0 Bonus ❌
 date: 1722218877
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

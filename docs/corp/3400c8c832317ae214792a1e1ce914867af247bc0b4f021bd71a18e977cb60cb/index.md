@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​REY DE REYES
-description: W:1 L:9 D:0 Bonus ❌
-date: 1720109178
+description: W:1 L:10 D:0 Bonus ❌
+date: 1722838852
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1107 🔻  (1105)|
-| ELO Competitive | 1118 🔻  (1133)|
-| Total Matches | 10 |
+| ELO Regular | 1097 🔻  (1116)|
+| ELO Competitive | 1108 🔻  (1149)|
+| Total Matches | 11 |
 | Wins | 1 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1719677178,1719221310,1717004433,1716524593,1710142836,1709611546,1709136844,1708700811,1708235187,1700218681];
+        let timestamps = [1722406852,1719677178,1719221310,1717004433,1716524593,1710142836,1709611546,1709136844,1708700811,1708235187,1700218681];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/05 | 0-14 | [游徒之家](https://ws.tsl.rocks/corp/7ab5f6970c8703095b0589da6e5d648dc64a94ca6d901ef09d4949409b2c44b9/) |
 | ❌ | 2024/07/04 | 0-10 | [雪月永恒](https://ws.tsl.rocks/corp/3b30781263716daadc217687009247bd0acb28c7eb4a8ebfe37daa11142622c2/) |
 | ❌ | 2024/06/29 | 2-18 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |
 | ❌ | 2024/06/03 | 2-9 | [한국인](https://ws.tsl.rocks/corp/f2b2c144f02ec69dfe3bd7fb8d4d1db10d7e3954a2f45937f16daafb0266490e/) |
