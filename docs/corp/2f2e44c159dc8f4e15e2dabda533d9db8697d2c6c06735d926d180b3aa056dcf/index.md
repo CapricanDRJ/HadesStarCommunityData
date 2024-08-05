@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​Angel Dragon
-description: W:13 L:8 D:1 Bonus ✅
+description: W:13 L:8 D:1 Bonus ❌
 date: 1722194539
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1282 🔺  (151)|
+| ELO Regular | 1282 🔺  (152)|
 | ELO Competitive | 1320 🔺  (177)|
 | Total Matches | 22 |
 | Wins | 13 |
