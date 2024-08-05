@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​STRVS233～
-description: W:13 L:7 D:0 Bonus ✅
-date: 1722403646
+description: W:13 L:8 D:0 Bonus ✅
+date: 1722864994
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1271 🔺  (166)|
-| ELO Competitive | 1291 🔺  (222)|
-| Total Matches | 20 |
+| ELO Regular | 1255 🔻  (209)|
+| ELO Competitive | 1276 🔻  (253)|
+| Total Matches | 21 |
 | Wins | 13 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
-| Streak | 6 |
 | Streak Record | 6 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721971646,1721480348,1721025966,1720589240,1720139085,1717780883,1714143292,1711667420,1711156312,1709299700,1707379699,1706916461,1706450359,1706017320,1705578262,1705066794,1704468171,1703679915,1702629066,1701693763];
+        let timestamps = [1722432994,1721971646,1721480348,1721025966,1720589240,1720139085,1717780883,1714143292,1711667420,1711156312,1709299700,1707379699,1706916461,1706450359,1706017320,1705578262,1705066794,1704468171,1703679915,1702629066,1701693763];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/05 | 0-9 | [Bacon Warriors](https://ws.tsl.rocks/corp/ec62b01fc96adc2a7b7ac4077438e5153eeefc94740fab8309dcb6613e3a7f48/) |
 | ✅ | 2024/07/31 | 12-0 | [666](https://ws.tsl.rocks/corp/73c85bc4afbc97eb34c80ffca01f209245cad5abd35ba7ee20994ab748794e2d/) |
 | ✅ | 2024/07/25 | 21-0 | [羽共和体](https://ws.tsl.rocks/corp/61b6e0502a087307a2ecf50e5d84f6123ad19984dc5790c997f16a676213aa7e/) |
 | ✅ | 2024/07/20 | 6-2 | [华夏三体舰队](https://ws.tsl.rocks/corp/a457b1d7612cdff92b655d33cf4ffd72b38aa796525cf0432423cfd0d01c6cf9/) |
