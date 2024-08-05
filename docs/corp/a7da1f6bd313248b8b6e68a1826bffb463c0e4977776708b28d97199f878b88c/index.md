@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​The Syndicate 
-description: W:15 L:1 D:0 Bonus ✅
+description: W:15 L:1 D:0 Bonus ❌
 date: 1722274473
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

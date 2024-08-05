@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Newbs
-description: W:26 L:12 D:1 Bonus ❌
-date: 1722322550
+description: W:26 L:13 D:1 Bonus ❌
+date: 1722883629
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1301 🔻  (126)|
-| ELO Competitive | 1356 🔻  (130)|
-| Total Matches | 39 |
+| ELO Regular | 1290 🔻  (139)|
+| ELO Competitive | 1344 🔻  (140)|
+| Total Matches | 40 |
 | Wins | 26 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 1 |
 | Streak Record | 12 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721890550,1720616908,1720596172,1720018859,1719358948,1718812012,1718136004,1717527346,1716919059,1716915753,1716296160,1715775480,1715167666,1714560343,1713992769,1713370543,1712768085,1712157809,1711566164,1710960710,1710345649,1709731185,1709163289,1708530455,1707923449,1707318043,1706748175,1706113194,1705509750,1704973636,1704483499,1703787807,1702611337,1701890927,1701292850,1700707072,1700061136,1699472016,1698862004];
+        let timestamps = [1722451629,1721890550,1720616908,1720596172,1720018859,1719358948,1718812012,1718136004,1717527346,1716919059,1716915753,1716296160,1715775480,1715167666,1714560343,1713992769,1713370543,1712768085,1712157809,1711566164,1710960710,1710345649,1709731185,1709163289,1708530455,1707923449,1707318043,1706748175,1706113194,1705509750,1704973636,1704483499,1703787807,1702611337,1701890927,1701292850,1700707072,1700061136,1699472016,1698862004];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -127,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/05 | 7-22 | [Embers Rising](https://ws.tsl.rocks/corp/30173fb6f0cf7a6d78f30c60350646ad6bc0d667a14854bdc9abbc19cd7d0327/) |
 | ❌ | 2024/07/30 | 9-44 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ❌ | 2024/07/15 | 15-28 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 | ❌ | 2024/07/15 | 9-22 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |
