@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Atlas Star llc.
-description: W:30 L:7 D:0 Bonus ✅
-date: 1722347491
+description: W:30 L:8 D:0 Bonus ✅
+date: 1722953644
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1418 🔺  (29)|
-| ELO Competitive | 1446 🔺  (52)|
-| Total Matches | 37 |
+| ELO Regular | 1399 🔻  (37)|
+| ELO Competitive | 1427 🔻  (66)|
+| Total Matches | 38 |
 | Wins | 30 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
-| Streak | 7 |
 | Streak Record | 10 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721915491,1721334909,1720720303,1720117144,1719473735,1718916289,1718352966,1717917816,1717467533,1716860454,1716218048,1715664318,1715124708,1714499951,1713912548,1713321864,1712710998,1712114243,1711574880,1711069177,1710546356,1709828837,1709255232,1708734190,1708243177,1707675837,1707106081,1705864062,1705343870,1704744952,1704135506,1703339727,1702318607,1701016646,1700059633,1699323574,1698706013];
+        let timestamps = [1722521644,1721915491,1721334909,1720720303,1720117144,1719473735,1718916289,1718352966,1717917816,1717467533,1716860454,1716218048,1715664318,1715124708,1714499951,1713912548,1713321864,1712710998,1712114243,1711574880,1711069177,1710546356,1709828837,1709255232,1708734190,1708243177,1707675837,1707106081,1705864062,1705343870,1704744952,1704135506,1703339727,1702318607,1701016646,1700059633,1699323574,1698706013];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/06 | 9-24 | [NoweUkladyII](https://ws.tsl.rocks/corp/9d1a50e524f7abc0623ab7e010875dfcce9e5682a06ebc4aee47e972d258493c/) |
 | ✅ | 2024/07/30 | 31-3 | [萌新港\(大佬港\)](https://ws.tsl.rocks/corp/e6d9b9da7a037e3572cb594dfeba7b282b66509228c9f4f1b2138f873caa3cf3/) |
 | ✅ | 2024/07/23 | 30-9 | [Destroyers](https://ws.tsl.rocks/corp/3756333f55f58944372cf785b972da55796cc179c0ce5f10244e90e3c4355a23/) |
 | ✅ | 2024/07/16 | 39-3 | [Galaxians](https://ws.tsl.rocks/corp/94728c6eb201c1f15c6e2304b5920aa155ccc1a7aac83b574baae51c53a22c5d/) |
