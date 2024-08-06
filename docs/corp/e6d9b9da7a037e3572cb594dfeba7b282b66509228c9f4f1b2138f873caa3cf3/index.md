@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​萌新港(大佬港)
-description: W:19 L:27 D:0 Bonus ✅
+description: W:19 L:27 D:0 Bonus ❌
 date: 1722347491
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

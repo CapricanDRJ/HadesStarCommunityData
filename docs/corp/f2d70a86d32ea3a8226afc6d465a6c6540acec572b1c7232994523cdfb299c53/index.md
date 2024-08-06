@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​✡天启✡
-description: W:23 L:8 D:0 Bonus ❌
-date: 1722274172
+description: W:24 L:8 D:0 Bonus ✅
+date: 1722968972
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1368 🔺  (54)|
-| ELO Competitive | 1468 🔺  (41)|
-| Total Matches | 31 |
-| Wins | 23 |
+| ELO Regular | 1383 🔺  (46)|
+| ELO Competitive | 1480 🔺  (35)|
+| Total Matches | 32 |
+| Wins | 24 |
 | Losses | 8 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 6 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721842172,1720330207,1720018859,1718589033,1717278480,1715958454,1715148138,1715129256,1714516495,1713334784,1712771390,1712765079,1712244650,1712121153,1711473920,1711004273,1710930361,1710155755,1709708050,1709128429,1707749753,1707140035,1706448856,1706007403,1705516663,1705056576,1704603403,1703821164,1703359867,1702476090,1701016045];
+        let timestamps = [1722536972,1721842172,1720330207,1720018859,1718589033,1717278480,1715958454,1715148138,1715129256,1714516495,1713334784,1712771390,1712765079,1712244650,1712121153,1711473920,1711004273,1710930361,1710155755,1709708050,1709128429,1707749753,1707140035,1706448856,1706007403,1705516663,1705056576,1704603403,1703821164,1703359867,1702476090,1701016045];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/06 | 23-10 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
 | ✅ | 2024/07/29 | 28-4 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) |
 | ❌ | 2024/07/12 | 9-13 | [Lacuna X](https://ws.tsl.rocks/corp/fb10f33f3db17b99b0d227f17e7fde76ef067dc4a4bb4ae05e46c76d2e5e8ea1/) |
 | ✅ | 2024/07/08 | 27-4 | [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b/) |

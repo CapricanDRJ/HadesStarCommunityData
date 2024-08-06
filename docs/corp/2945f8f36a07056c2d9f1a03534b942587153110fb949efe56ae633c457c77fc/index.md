@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​第三共产星际世界
-description: W:0 L:1 D:0 Bonus ❌
-date: 1722939819
+description: W:0 L:2 D:0 Bonus ❌
+date: 1722962060
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (577)|
+| ELO Regular | 1178 🔻  (777)|
 | ELO Competitive | 1192 🔻  (614)|
-| Total Matches | 1 |
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722507819];
+        let timestamps = [1722530060,1722507819];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/06 | 10-16 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) |
 | ❌ | 2024/08/06 | 0-28 | [lost souls](https://ws.tsl.rocks/corp/64cf1f6ce9001bcd1d03fd1aaecafc1b7d88cd36316892a52a1b19d5e85bd793/) |
 
 Corporation ID: 2945f8f36a07056c2d9f1a03534b942587153110fb949efe56ae633c457c77fc
