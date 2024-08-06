@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​超新星联盟
-description: W:5 L:7 D:0 Bonus ❌
-date: 1722483622
+description: W:6 L:7 D:0 Bonus ✅
+date: 1722944928
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔻  (882)|
-| ELO Competitive | 1196 🔻  (585)|
-| Total Matches | 12 |
-| Wins | 5 |
+| ELO Regular | 1182 🔺  (752)|
+| ELO Competitive | 1212 🔺  (477)|
+| Total Matches | 13 |
+| Wins | 6 |
 | Losses | 7 |
 | Draws | 0 |
 | Streak Record | 3 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722051622,1721401015,1721383584,1720710383,1720150201,1719410328,1718953241,1718364685,1717727502,1717161261,1716529297,1715939523];
+        let timestamps = [1722512928,1722051622,1721401015,1721383584,1720710383,1720150201,1719410328,1718953241,1718364685,1717727502,1717161261,1716529297,1715939523];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/06 | 2-0 | [империя тьмы](https://ws.tsl.rocks/corp/4eb22a1b793e5d03579cea15c873b1bef56fea02420a4e55edb18a200f7fc46a/) |
 | ❌ | 2024/08/01 | 1-9 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) |
 | ❌ | 2024/07/24 | 0-2 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
 | ❌ | 2024/07/24 | 3-17 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |

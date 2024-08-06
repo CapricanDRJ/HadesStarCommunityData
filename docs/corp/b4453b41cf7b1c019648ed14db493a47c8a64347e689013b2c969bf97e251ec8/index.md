@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​Czech Legion
-description: W:5 L:1 D:0 Bonus ✅
+description: W:5 L:1 D:0 Bonus ❌
 date: 1722326457
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1256 🔺  (204)|
+| ELO Regular | 1256 🔺  (205)|
 | ELO Competitive | 1272 🔺  (264)|
 | Total Matches | 6 |
 | Wins | 5 |

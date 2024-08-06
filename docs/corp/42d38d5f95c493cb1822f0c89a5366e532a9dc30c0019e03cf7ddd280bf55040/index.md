@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​第四星际
-description: W:26 L:10 D:2 Bonus ✅
+description: W:26 L:10 D:2 Bonus ❌
 date: 1722328560
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

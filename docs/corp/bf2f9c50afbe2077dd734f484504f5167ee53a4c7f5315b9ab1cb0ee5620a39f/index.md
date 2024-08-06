@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Nebulae Traders
-description: W:5 L:18 D:2 Bonus ✅
+description: W:5 L:18 D:2 Bonus ❌
 date: 1722823227
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1100 🔻  (1112)|
-| ELO Competitive | 1162 🔻  (1019)|
+| ELO Regular | 1100 🔻  (1113)|
+| ELO Competitive | 1162 🔻  (1020)|
 | Total Matches | 25 |
 | Wins | 5 |
 | Losses | 18 |

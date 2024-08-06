@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​阿尔特拉太空港
-description: W:5 L:1 D:0 Bonus ✅
-date: 1722483622
+description: W:5 L:1 D:1 Bonus ✅
+date: 1722941622
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1250 🔺  (221)|
-| ELO Competitive | 1259 🔺  (290)|
-| Total Matches | 6 |
+| ELO Regular | 1248 🔻  (222)|
+| ELO Competitive | 1258 🔻  (293)|
+| Total Matches | 7 |
 | Wins | 5 |
 | Losses | 1 |
-| Draws | 0 |
-| Streak | 5 |
+| Draws | 1 |
 | Streak Record | 5 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722051622,1721616184,1721170235,1720710383,1720183555,1719644719];
+        let timestamps = [1722509622,1722051622,1721616184,1721170235,1720710383,1720183555,1719644719];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/08/06 | 2-2 | [使命白星](https://ws.tsl.rocks/corp/88e828c55c07286950a3296b00ca2a7a9cc2f1a0139e9cf4c6e54229f821e952/) |
 | ✅ | 2024/08/01 | 9-1 | [超新星联盟](https://ws.tsl.rocks/corp/c3667794c88fd0a09f565dc3b4fed5325f131a616d01d0f6890755b44997d0a1/) |
 | ✅ | 2024/07/27 | 12-0 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
 | ✅ | 2024/07/21 | 3-2 | [华夏三体舰队](https://ws.tsl.rocks/corp/a457b1d7612cdff92b655d33cf4ffd72b38aa796525cf0432423cfd0d01c6cf9/) |
