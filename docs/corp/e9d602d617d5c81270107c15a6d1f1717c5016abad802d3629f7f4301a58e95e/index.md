@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​元素联邦
-description: W:25 L:13 D:0 Bonus ✅
-date: 1722293106
+description: W:26 L:13 D:0 Bonus ✅
+date: 1722898055
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1380 🔺  (48)|
-| ELO Competitive | 1422 🔺  (68)|
-| Total Matches | 38 |
-| Wins | 25 |
+| ELO Regular | 1392 🔺  (41)|
+| ELO Competitive | 1434 🔺  (63)|
+| Total Matches | 39 |
+| Wins | 26 |
 | Losses | 13 |
 | Draws | 0 |
-| Streak | 16 |
-| Streak Record | 16 |
+| Streak | 17 |
+| Streak Record | 17 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721861106,1721089989,1719794077,1719273605,1717628930,1717111084,1716510072,1715908281,1714526992,1714086510,1713480517,1712879859,1712101025,1711665918,1711061066,1710456521,1709867297,1709226986,1708156933,1707698675,1707193940,1706677553,1706237895,1705651890,1704940284,1704322729,1703856322,1703335219,1702789556,1702348962,1701907459,1701442813,1701385115,1700694151,1700235814,1699766286,1699324776,1698843669];
+        let timestamps = [1722466055,1721861106,1721089989,1719794077,1719273605,1717628930,1717111084,1716510072,1715908281,1714526992,1714086510,1713480517,1712879859,1712101025,1711665918,1711061066,1710456521,1709867297,1709226986,1708156933,1707698675,1707193940,1706677553,1706237895,1705651890,1704940284,1704322729,1703856322,1703335219,1702789556,1702348962,1701907459,1701442813,1701385115,1700694151,1700235814,1699766286,1699324776,1698843669];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/05 | 33-2 | [ЧВК "Котики"](https://ws.tsl.rocks/corp/b770b833fe257bc6accd1bbe82a887971291dd0038f8aa627a47f3ce063265c0/) |
 | ✅ | 2024/07/29 | 25-10 | [Dumpster Fire 2](https://ws.tsl.rocks/corp/37d473dec00d4d68e29963e3b423670aac735e7c1f256276e6c2e7d62180b0f8/) |
 | ✅ | 2024/07/21 | 29-0 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
 | ✅ | 2024/07/06 | 30-12 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) |

@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​three kitties
-description: W:31 L:10 D:1 Bonus ❌
-date: 1722274473
+description: W:32 L:10 D:1 Bonus ✅
+date: 1722897154
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1379 🔻  (49)|
-| ELO Competitive | 1419 🔻  (72)|
-| Total Matches | 42 |
-| Wins | 31 |
+| ELO Regular | 1389 🔺  (42)|
+| ELO Competitive | 1434 🔺  (62)|
+| Total Matches | 43 |
+| Wins | 32 |
 | Losses | 10 |
 | Draws | 1 |
 | Streak Record | 15 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721842473,1721384185,1720908452,1720431784,1719927194,1719383885,1718874812,1718402714,1717959298,1717266455,1716834007,1716387793,1715923902,1715487947,1715030366,1714596404,1714127666,1713681803,1713229318,1712751856,1712281008,1711667420,1711123557,1710496776,1709975166,1709328251,1708854684,1708353058,1707794235,1707249836,1706806172,1706302508,1706180194,1705657599,1704909933,1704092227,1704088021,1703487883,1702629066,1702584291,1702049007,1701566038];
+        let timestamps = [1722465154,1721842473,1721384185,1720908452,1720431784,1719927194,1719383885,1718874812,1718402714,1717959298,1717266455,1716834007,1716387793,1715923902,1715487947,1715030366,1714596404,1714127666,1713681803,1713229318,1712751856,1712281008,1711667420,1711123557,1710496776,1709975166,1709328251,1708854684,1708353058,1707794235,1707249836,1706806172,1706302508,1706180194,1705657599,1704909933,1704092227,1704088021,1703487883,1702629066,1702584291,1702049007,1701566038];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/05 | 22-3 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) |
 | ❌ | 2024/07/29 | 4-14 | [The Syndicate ](https://ws.tsl.rocks/corp/a7da1f6bd313248b8b6e68a1826bffb463c0e4977776708b28d97199f878b88c/) |
 | ❌ | 2024/07/24 | 14-16 | [2ND\-R8 Corp\.](https://ws.tsl.rocks/corp/e97866623598a98454b3a4724b472dc171f5e1aff84b076c43d021f0fabdc702/) |
 | ✅ | 2024/07/18 | 28-3 | [Glashan](https://ws.tsl.rocks/corp/48b9fa3df8bbc6ce4a8455e9b923f28c0eccb8054c9f72e9c14e6acfee5a23a4/) |

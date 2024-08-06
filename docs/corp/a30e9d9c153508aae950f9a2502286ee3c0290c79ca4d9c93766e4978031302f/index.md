@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Mega Corp
-description: W:0 L:1 D:0 Bonus ❌
-date: 1720844854
+description: W:0 L:2 D:0 Bonus ❌
+date: 1722900758
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (729)|
-| ELO Competitive | 1184 🔻  (832)|
-| Total Matches | 1 |
+| ELO Regular | 1171 🔻  (848)|
+| ELO Competitive | 1178 🔻  (877)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1720412854];
+        let timestamps = [1722468758,1720412854];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/05 | 0-10 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) |
 | ❌ | 2024/07/13 | 0-3 | [RPFD\-DNR\-RWPB](https://ws.tsl.rocks/corp/0b44b93ba4150cc49e8bc5e489bd0f381cac46064d18e6929011011e0aaaf48c/) |
 
 Corporation ID: a30e9d9c153508aae950f9a2502286ee3c0290c79ca4d9c93766e4978031302f

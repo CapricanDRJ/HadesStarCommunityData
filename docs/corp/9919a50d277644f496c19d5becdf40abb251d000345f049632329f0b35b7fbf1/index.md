@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Unión latina
-description: W:26 L:20 D:0 Bonus ❌
-date: 1722104985
+description: W:26 L:21 D:0 Bonus ❌
+date: 1722904664
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1255 🔻  (208)|
-| ELO Competitive | 1324 🔻  (172)|
-| Total Matches | 46 |
+| ELO Regular | 1248 🔻  (223)|
+| ELO Competitive | 1316 🔻  (181)|
+| Total Matches | 47 |
 | Wins | 26 |
-| Losses | 20 |
+| Losses | 21 |
 | Draws | 0 |
 | Streak Record | 6 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721672985,1721083079,1720488887,1719987001,1719520319,1719512203,1718949937,1718932512,1718473637,1717985441,1717542675,1717024840,1716476421,1715929910,1715489149,1715049291,1714517078,1714001180,1713486824,1712866038,1712250059,1711734132,1711202885,1710655734,1710179796,1709662382,1709134139,1708643142,1708111371,1707505645,1706919465,1706459076,1705872178,1705324635,1704838414,1704233697,1703627331,1702784447,1702148794,1701616828,1700873879,1700842317,1700408033,1699946629,1699432649,1698782363];
+        let timestamps = [1722472664,1721672985,1721083079,1720488887,1719987001,1719520319,1719512203,1718949937,1718932512,1718473637,1717985441,1717542675,1717024840,1716476421,1715929910,1715489149,1715049291,1714517078,1714001180,1713486824,1712866038,1712250059,1711734132,1711202885,1710655734,1710179796,1709662382,1709134139,1708643142,1708111371,1707505645,1706919465,1706459076,1705872178,1705324635,1704838414,1704233697,1703627331,1702784447,1702148794,1701616828,1700873879,1700842317,1700408033,1699946629,1699432649,1698782363];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Death Star llc\.](https://ws.tsl.rocks/corp/3dd4906939827fa7537a3e95f8d75948c06b75a98f3c4aab253ea79857d2ce81/) | 0 | 2 | 0 | 2 |
 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) | 1 | 1 | 0 | 2 |
 | [Spaceballs](https://ws.tsl.rocks/corp/1e54a7ba8156a65b15f7f1358b682a10f856acb0f96d9e3b582c4ea175905839/) | 1 | 1 | 0 | 2 |
 | [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) | 0 | 2 | 0 | 2 |
@@ -130,6 +131,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/06 | 0-27 | [Death Star llc\.](https://ws.tsl.rocks/corp/3dd4906939827fa7537a3e95f8d75948c06b75a98f3c4aab253ea79857d2ce81/) |
 | ❌ | 2024/07/27 | 0-28 | [Tormenta](https://ws.tsl.rocks/corp/537807f41149f54b040d4f2bc983c7f1fbfa2242ec5566371330e4996e33a195/) |
 | ✅ | 2024/07/20 | 29-1 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ❌ | 2024/07/14 | 3-35 | [Bl@ck/Galaxy ](https://ws.tsl.rocks/corp/76f8fe0dcd8b8c1cb8e0083f14c0b36c23bb9757a3af0f191b567774c02222a3/) |

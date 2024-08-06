@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Trade Station
-description: W:4 L:32 D:0 Bonus ❌
-date: 1722121815
+description: W:4 L:33 D:0 Bonus ❌
+date: 1722897755
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 961 🔻  (1191)|
-| ELO Competitive | 1010 🔻  (1193)|
-| Total Matches | 36 |
+| ELO Regular | 956 🔻  (1191)|
+| ELO Competitive | 1006 🔻  (1193)|
+| Total Matches | 37 |
 | Wins | 4 |
-| Losses | 32 |
+| Losses | 33 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721689815,1721236044,1720755766,1720289343,1719854176,1719391696,1718941223,1718491068,1718058473,1717559799,1714857006,1714098526,1713191454,1712407807,1711802041,1711327897,1710760903,1710192718,1709718564,1709023560,1708431591,1707771398,1707124409,1706443145,1705877287,1705174983,1704410178,1703849710,1703019667,1702540108,1701883111,1701193969,1700386992,1699856463,1699326278,1698814220];
+        let timestamps = [1722465755,1721689815,1721236044,1720755766,1720289343,1719854176,1719391696,1718941223,1718491068,1718058473,1717559799,1714857006,1714098526,1713191454,1712407807,1711802041,1711327897,1710760903,1710192718,1709718564,1709023560,1708431591,1707771398,1707124409,1706443145,1705877287,1705174983,1704410178,1703849710,1703019667,1702540108,1701883111,1701193969,1700386992,1699856463,1699326278,1698814220];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -129,6 +129,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/05 | 9-52 | [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) |
 | ❌ | 2024/07/27 | 13-18 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) |
 | ❌ | 2024/07/22 | 4-66 | [Stargate Corp](https://ws.tsl.rocks/corp/b698cd0d86be60954a4b995f79fffe102a71c350e47fbdc2a5827f0ed0ca455d/) |
 | ❌ | 2024/07/17 | 11-29 | [붉은늑대](https://ws.tsl.rocks/corp/43d32b05645aaa9415d1c04ecbcea520d2ed5b90304770cb0ab3813cb86e2f49/) |

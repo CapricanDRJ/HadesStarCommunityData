@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​ЧВК "Котики"
-description: W:22 L:13 D:3 Bonus ✅
-date: 1722381254
+description: W:22 L:14 D:3 Bonus ✅
+date: 1722898055
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1322 🔺  (89)|
-| ELO Competitive | 1364 🔺  (121)|
-| Total Matches | 38 |
+| ELO Regular | 1310 🔻  (110)|
+| ELO Competitive | 1352 🔻  (131)|
+| Total Matches | 39 |
 | Wins | 22 |
-| Losses | 13 |
+| Losses | 14 |
 | Draws | 3 |
-| Streak | 2 |
 | Streak Record | 5 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721949254,1721373067,1720904545,1720258382,1719823611,1719120334,1718565598,1718087315,1718082808,1717486464,1716868265,1716848736,1716281740,1716263715,1715689554,1715667923,1714995507,1714986494,1714376450,1714374047,1713772837,1713241133,1712557452,1711967006,1711347123,1710741976,1710064411,1709454151,1708905473,1708088721,1707462634,1706695581,1705822584,1704878676,1703737619,1702880018,1701721720,1700598278];
+        let timestamps = [1722466055,1721949254,1721373067,1720904545,1720258382,1719823611,1719120334,1718565598,1718087315,1718082808,1717486464,1716868265,1716848736,1716281740,1716263715,1715689554,1715667923,1714995507,1714986494,1714376450,1714374047,1713772837,1713241133,1712557452,1711967006,1711347123,1710741976,1710064411,1709454151,1708905473,1708088721,1707462634,1706695581,1705822584,1704878676,1703737619,1702880018,1701721720,1700598278];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/05 | 2-33 | [元素联邦](https://ws.tsl.rocks/corp/e9d602d617d5c81270107c15a6d1f1717c5016abad802d3629f7f4301a58e95e/) |
 | ✅ | 2024/07/30 | 22-3 | [PLUTON](https://ws.tsl.rocks/corp/9df6bc8c76c8f37e2b7c80c6219994a2a60dd4c65052726c7a367ce0683bac2a/) |
 | ✅ | 2024/07/24 | 22-4 | [Dumpster Fire 2](https://ws.tsl.rocks/corp/37d473dec00d4d68e29963e3b423670aac735e7c1f256276e6c2e7d62180b0f8/) |
 | ❌ | 2024/07/18 | 4-9 | [Cyber Star](https://ws.tsl.rocks/corp/358bbbde0af23c5f41cdb4fde95bb713989c7812b5a0358f7c34ecceca19916c/) |
