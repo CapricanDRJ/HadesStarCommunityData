@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​украина№1
-description: W:25 L:19 D:0 Bonus ✅
-date: 1722938918
+description: W:26 L:19 D:0 Bonus ✅
+date: 1722978288
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1272 🔺  (164)|
-| ELO Competitive | 1359 🔺  (126)|
-| Total Matches | 44 |
-| Wins | 25 |
+| ELO Regular | 1283 🔺  (154)|
+| ELO Competitive | 1359 🔺  (127)|
+| Total Matches | 45 |
+| Wins | 26 |
 | Losses | 19 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 9 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722506918,1721730979,1720855549,1719593937,1718892844,1718245388,1717646055,1717059090,1716361056,1715706382,1715268618,1714750837,1714105135,1713515664,1711885874,1711284319,1710530731,1709451446,1708677994,1708674389,1708000075,1707431688,1707426280,1706911953,1706911653,1706354191,1706335260,1705867970,1705867969,1705317723,1705317723,1704788523,1704784316,1704322729,1704317920,1703283532,1702673850,1702131660,1701535681,1701102301,1700514730,1699946328,1699361733,1698746887];
+        let timestamps = [1722546288,1722506918,1721730979,1720855549,1719593937,1718892844,1718245388,1717646055,1717059090,1716361056,1715706382,1715268618,1714750837,1714105135,1713515664,1711885874,1711284319,1710530731,1709451446,1708677994,1708674389,1708000075,1707431688,1707426280,1706911953,1706911653,1706354191,1706335260,1705867970,1705867969,1705317723,1705317723,1704788523,1704784316,1704322729,1704317920,1703283532,1702673850,1702131660,1701535681,1701102301,1700514730,1699946328,1699361733,1698746887];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -127,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/06 | 39-0 | [Неудержимые](https://ws.tsl.rocks/corp/144c80f6e5fb0e145a52f3066b2e61d14a1529f28a8c543720ac999e67c91ef6/) |
 | ✅ | 2024/08/06 | 43-4 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ✅ | 2024/07/28 | 52-0 | [KARI](https://ws.tsl.rocks/corp/4434276aa1aebbe4c0a69ac51dff9c243c5287d00096e12c87e8590318a2ab65/) |
 | ❌ | 2024/07/18 | 9-21 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |

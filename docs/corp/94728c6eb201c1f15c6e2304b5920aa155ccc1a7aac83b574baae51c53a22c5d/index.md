@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Galaxians
-description: W:12 L:13 D:0 Bonus ✅
-date: 1722370335
+description: W:12 L:14 D:0 Bonus ✅
+date: 1722976485
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1213 🔺  (370)|
-| ELO Competitive | 1258 🔺  (295)|
-| Total Matches | 25 |
+| ELO Regular | 1200 🔻  (440)|
+| ELO Competitive | 1243 🔻  (330)|
+| Total Matches | 26 |
 | Wins | 12 |
-| Losses | 13 |
+| Losses | 14 |
 | Draws | 0 |
 | Streak Record | 3 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721938335,1721324090,1720720303,1720095197,1719260083,1718822231,1718318415,1717707071,1717071411,1716526593,1715880038,1715321795,1714679630,1714086510,1713465793,1712841393,1712244650,1711700475,1711061066,1710402736,1709795184,1703657377,1701532074,1699564265,1698912184];
+        let timestamps = [1722544485,1721938335,1721324090,1720720303,1720095197,1719260083,1718822231,1718318415,1717707071,1717071411,1716526593,1715880038,1715321795,1714679630,1714086510,1713465793,1712841393,1712244650,1711700475,1711061066,1710402736,1709795184,1703657377,1701532074,1699564265,1698912184];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/06 | 3-20 | [Czech Legion](https://ws.tsl.rocks/corp/b4453b41cf7b1c019648ed14db493a47c8a64347e689013b2c969bf97e251ec8/) |
 | ✅ | 2024/07/30 | 5-2 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |
 | ❌ | 2024/07/23 | 0-45 | [United Stars ](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) |
 | ❌ | 2024/07/16 | 3-39 | [Atlas Star llc\.](https://ws.tsl.rocks/corp/3de5259ba12509e4d02854f1414caacf3d0aaaf79f417b9d843ff20ca35863dd/) |
