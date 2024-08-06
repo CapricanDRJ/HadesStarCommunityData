@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​星际联盟（中国）
-description: W:8 L:9 D:2 Bonus ✅
+description: W:8 L:9 D:2 Bonus ❌
 date: 1722754710
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
