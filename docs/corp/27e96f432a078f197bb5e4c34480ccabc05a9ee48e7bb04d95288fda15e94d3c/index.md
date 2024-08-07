@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Últimafronteira
-description: W:7 L:0 D:0 Bonus ✅
+description: W:7 L:0 D:0 Bonus ❌
 date: 1722393171
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1296 🔺  (132)|
-| ELO Competitive | 1298 🔺  (210)|
+| ELO Competitive | 1298 🔺  (211)|
 | Total Matches | 7 |
 | Wins | 7 |
 | Losses | 0 |
