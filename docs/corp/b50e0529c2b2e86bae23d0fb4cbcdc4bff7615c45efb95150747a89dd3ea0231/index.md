@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Star Fleet
-description: W:8 L:16 D:0 Bonus ✅
-date: 1722431633
+description: W:8 L:17 D:0 Bonus ✅
+date: 1723025762
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔺  (845)|
-| ELO Competitive | 1225 🔺  (388)|
-| Total Matches | 24 |
+| ELO Regular | 1158 🔻  (958)|
+| ELO Competitive | 1210 🔻  (494)|
+| Total Matches | 25 |
 | Wins | 8 |
-| Losses | 16 |
+| Losses | 17 |
 | Draws | 0 |
 | Streak Record | 6 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721999633,1721372766,1720768088,1720163122,1719558476,1718960152,1718347859,1717755749,1717181399,1716536807,1716534103,1715938922,1715374014,1715345830,1709835448,1708122983,1706430523,1706428118,1705962032,1705961732,1705275961,1705275961,1704780410,1704275842];
+        let timestamps = [1722593762,1721999633,1721372766,1720768088,1720163122,1719558476,1718960152,1718347859,1717755749,1717181399,1716536807,1716534103,1715938922,1715374014,1715345830,1709835448,1708122983,1706430523,1706428118,1705962032,1705961732,1705275961,1705275961,1704780410,1704275842];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/07 | 2-25 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ✅ | 2024/07/31 | 9-0 | [星际集团](https://ws.tsl.rocks/corp/4f61a43eb3082215034e4c78c8feceeae71ca38f447469c49ba8a61d0c0d97eb/) |
 | ❌ | 2024/07/24 | 4-7 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) |
 | ❌ | 2024/07/17 | 0-13 | [Hungary First](https://ws.tsl.rocks/corp/d678326dd81ae0cf5b2bb37d15dcfe7fa1477dbb6e063fbd0d34c69b5942d31b/) |
