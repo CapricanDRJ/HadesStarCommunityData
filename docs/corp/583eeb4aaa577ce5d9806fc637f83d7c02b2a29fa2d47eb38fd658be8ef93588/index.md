@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Bunker
-description: W:28 L:25 D:1 Bonus ✅
+description: W:28 L:25 D:1 Bonus ❌
 date: 1722389866
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

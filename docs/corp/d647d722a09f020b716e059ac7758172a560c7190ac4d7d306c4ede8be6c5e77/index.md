@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Void
-description: W:7 L:8 D:0 Bonus ✅
+description: W:7 L:8 D:0 Bonus ❌
 date: 1722953644
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
