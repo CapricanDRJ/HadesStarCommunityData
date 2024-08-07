@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​永恒之梦
-description: W:2 L:1 D:0 Bonus ✅
-date: 1722523905
+description: W:2 L:3 D:0 Bonus ✅
+date: 1723001423
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1220 🔺  (315)|
-| ELO Competitive | 1222 🔺  (397)|
-| Total Matches | 3 |
+| ELO Regular | 1184 🔻  (713)|
+| ELO Competitive | 1206 🔻  (506)|
+| Total Matches | 5 |
 | Wins | 2 |
-| Losses | 1 |
+| Losses | 3 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 2 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722091905,1721635716,1721203587];
+        let timestamps = [1722569423,1722569123,1722091905,1721635716,1721203587];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +118,8 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/07 | 0-1 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
+| ❌ | 2024/08/07 | 0-13 | [无聊不过](https://ws.tsl.rocks/corp/6099bd39cf8510ea3ef2be0fe05df95266b12acfdcbe1bd58a4c33e9c3f25934/) |
 | ✅ | 2024/08/01 | 2-0 | [Splendid](https://ws.tsl.rocks/corp/8d0fd2cb62785c9876643edf419b241f0f86e339052e5d3e4fab40b0416828dd/) |
 | ✅ | 2024/07/27 | 5-0 | [Poggy Rockers](https://ws.tsl.rocks/corp/47aeb151232251d9e53310e21f1290b1240c63878169968847bd1e89efc909a7/) |
 | ❌ | 2024/07/22 | 4-22 | [  边界  ](https://ws.tsl.rocks/corp/86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a/) |

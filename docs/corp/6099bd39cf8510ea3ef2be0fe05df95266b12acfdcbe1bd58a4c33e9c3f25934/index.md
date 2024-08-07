@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​无聊不过
-description: W:1 L:2 D:1 Bonus ❌
-date: 1722425923
+description: W:2 L:2 D:1 Bonus ✅
+date: 1723001123
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (761)|
-| ELO Competitive | 1193 🔻  (607)|
-| Total Matches | 4 |
-| Wins | 1 |
+| ELO Regular | 1198 🔺  (471)|
+| ELO Competitive | 1209 🔺  (496)|
+| Total Matches | 5 |
+| Wins | 2 |
 | Losses | 2 |
 | Draws | 1 |
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721993923,1721639021,1721533537,1721044899];
+        let timestamps = [1722569123,1721993923,1721639021,1721533537,1721044899];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/07 | 13-0 | [永恒之梦](https://ws.tsl.rocks/corp/51524c100011292acfff96dc47f5b506950922c6e467b1586d5c571cc281fd4d/) |
 | ❌ | 2024/07/31 | 1-3 | [империя тьмы](https://ws.tsl.rocks/corp/4eb22a1b793e5d03579cea15c873b1bef56fea02420a4e55edb18a200f7fc46a/) |
 | ↔️ | 2024/07/27 | 9-9 | [蓝色星系一号分盟](https://ws.tsl.rocks/corp/e0f054888d7f0127596210e18c6714dc3bd228748e8f6822d1a091514d6264b8/) |
 | ✅ | 2024/07/26 | 6-0 | [以太超星团](https://ws.tsl.rocks/corp/327addf616128dc5b01013e29e850c76d22ae27af199bcc6bba3b92cee7818ae/) |

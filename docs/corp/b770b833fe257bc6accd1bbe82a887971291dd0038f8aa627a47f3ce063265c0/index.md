@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​ЧВК "Котики"
-description: W:22 L:14 D:3 Bonus ✅
+description: W:22 L:14 D:3 Bonus ❌
 date: 1722898055
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1310 🔻  (111)|
-| ELO Competitive | 1352 🔻  (132)|
+| ELO Regular | 1310 🔻  (110)|
+| ELO Competitive | 1352 🔻  (131)|
 | Total Matches | 39 |
 | Wins | 22 |
 | Losses | 14 |
