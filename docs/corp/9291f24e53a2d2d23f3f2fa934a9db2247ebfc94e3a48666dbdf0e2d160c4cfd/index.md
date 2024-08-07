@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​СССР
-description: W:25 L:24 D:2 Bonus ✅
+description: W:25 L:24 D:2 Bonus ❌
 date: 1722433437
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1179 🔺  (776)|
+| ELO Regular | 1179 🔺  (777)|
 | ELO Competitive | 1332 🔺  (161)|
 | Total Matches | 51 |
 | Wins | 25 |

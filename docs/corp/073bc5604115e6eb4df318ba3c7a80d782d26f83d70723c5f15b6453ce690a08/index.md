@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Novana Gaming
-description: W:4 L:2 D:0 Bonus ✅
+description: W:4 L:2 D:0 Bonus ❌
 date: 1722430732
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1226 🔺  (294)|
-| ELO Competitive | 1234 🔺  (364)|
+| ELO Competitive | 1234 🔺  (365)|
 | Total Matches | 6 |
 | Wins | 4 |
 | Losses | 2 |
