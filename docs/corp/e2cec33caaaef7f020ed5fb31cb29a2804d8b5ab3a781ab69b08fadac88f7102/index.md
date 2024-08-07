@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​避难所
-description: W:10 L:8 D:2 Bonus ✅
+description: W:10 L:8 D:2 Bonus ❌
 date: 1722404657
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

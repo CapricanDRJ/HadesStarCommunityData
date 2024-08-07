@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​星光舰队
-description: W:3 L:2 D:0 Bonus ❌
-date: 1721868476
+description: W:3 L:2 D:1 Bonus ❌
+date: 1723022156
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1208 🔻  (400)|
+| ELO Regular | 1204 🔻  (413)|
 | ELO Competitive | 1212 🔻  (479)|
-| Total Matches | 5 |
+| Total Matches | 6 |
 | Wins | 3 |
 | Losses | 2 |
-| Draws | 0 |
+| Draws | 1 |
 | Streak Record | 2 |
 
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721436476,1720946916,1720235844,1719666356,1717772584];
+        let timestamps = [1722590156,1721436476,1720946916,1720235844,1719666356,1717772584];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/08/07 | 6-6 | [华夏三体舰队](https://ws.tsl.rocks/corp/a457b1d7612cdff92b655d33cf4ffd72b38aa796525cf0432423cfd0d01c6cf9/) |
 | ❌ | 2024/07/25 | 0-24 | [uzumaki](https://ws.tsl.rocks/corp/9d66f913d35d1e894b812e575d3b1157198eb79d55ed3cbc9ab107dae072b60e/) |
 | ✅ | 2024/07/19 | 5-0 | [荣耀之星](https://ws.tsl.rocks/corp/4334fd4d4ffbc89487deaec7bb38025aba46209b810578436882be271fdbff23/) |
 | ✅ | 2024/07/11 | 7-0 | [德意志联邦集团](https://ws.tsl.rocks/corp/2ee580123f8c46103f61a4e5edc43e8c3379d17cc2280c935a0a62c6ee81e50c/) |

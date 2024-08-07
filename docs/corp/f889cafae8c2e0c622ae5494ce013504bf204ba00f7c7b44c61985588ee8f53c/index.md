@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Dark Training
-description: W:13 L:11 D:1 Bonus ✅
+description: W:13 L:11 D:1 Bonus ❌
 date: 1722396776
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

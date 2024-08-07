@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​华夏三体舰队
-description: W:9 L:19 D:3 Bonus ❌
-date: 1722577400
+description: W:9 L:19 D:4 Bonus ❌
+date: 1723022156
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1109 🔻  (1105)|
-| ELO Competitive | 1212 🔻  (481)|
-| Total Matches | 31 |
+| ELO Regular | 1113 🔺  (1098)|
+| ELO Competitive | 1212 🔺  (481)|
+| Total Matches | 32 |
 | Wins | 9 |
 | Losses | 19 |
-| Draws | 3 |
+| Draws | 4 |
 | Streak Record | 3 |
 
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722145400,1722066350,1721657655,1721633312,1721170235,1721025966,1720643362,1720440799,1720005331,1719530692,1719383885,1718903664,1718794879,1718288057,1718273932,1717696248,1717678811,1717246011,1716980057,1716736938,1716528997,1716295259,1716088852,1715860507,1715600921,1715420940,1715124408,1714903873,1714639364,1714173341,1713727776];
+        let timestamps = [1722590156,1722145400,1722066350,1721657655,1721633312,1721170235,1721025966,1720643362,1720440799,1720005331,1719530692,1719383885,1718903664,1718794879,1718288057,1718273932,1717696248,1717678811,1717246011,1716980057,1716736938,1716528997,1716295259,1716088852,1715860507,1715600921,1715420940,1715124408,1714903873,1714639364,1714173341,1713727776];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/08/07 | 6-6 | [星光舰队](https://ws.tsl.rocks/corp/e48d364ccf6d36f1f00db66d6bbae7b5d5aee09d90aeee03264b3a6cede3252c/) |
 | ❌ | 2024/08/02 | 1-10 | [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) |
 | ❌ | 2024/08/01 | 1-13 | [Z\. O\. V\. ](https://ws.tsl.rocks/corp/4f56534357f2407b25faee160f9dca4ee83b8f9ca4425ba472a47298faf54096/) |
 | ❌ | 2024/07/27 | 0-2 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
