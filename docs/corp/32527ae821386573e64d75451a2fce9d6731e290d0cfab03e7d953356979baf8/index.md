@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​Hail Hydra
-description: W:6 L:18 D:0 Bonus ❌
-date: 1719168289
+description: W:6 L:18 D:1 Bonus ❌
+date: 1723153186
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1111 🔻  (1101)|
-| ELO Competitive | 1127 🔻  (1126)|
-| Total Matches | 24 |
+| ELO Regular | 1112 🔺  (1100)|
+| ELO Competitive | 1127 🔺  (1127)|
+| Total Matches | 25 |
 | Wins | 6 |
 | Losses | 18 |
-| Draws | 0 |
+| Draws | 1 |
 | Streak Record | 3 |
 
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1718736289,1718221952,1716955229,1715818149,1715031414,1714320971,1713560505,1713045120,1712437560,1711717001,1710881994,1710246195,1709458658,1708982397,1708210947,1707768091,1707270570,1706797153,1706011911,1705531391,1702598418,1700873879,1699738937,1698850883];
+        let timestamps = [1722721186,1718736289,1718221952,1716955229,1715818149,1715031414,1714320971,1713560505,1713045120,1712437560,1711717001,1710881994,1710246195,1709458658,1708982397,1708210947,1707768091,1707270570,1706797153,1706011911,1705531391,1702598418,1700873879,1699738937,1698850883];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/08/08 | 0-0 | [Gold Star](https://ws.tsl.rocks/corp/4f4d16d4a152e144c7bddd46c7d63debbbd550fdae5fe720860a334546330de2/) |
 | ❌ | 2024/06/23 | 0-11 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
 | ❌ | 2024/06/17 | 0-15 | [Warriorlords](https://ws.tsl.rocks/corp/a78c29b9e1c9f793205ba10d796dcabc114ef43d86f0bd34a43a56dc6da768aa/) |
 | ✅ | 2024/06/03 | 7-0 | [ZN•H2B](https://ws.tsl.rocks/corp/2db26f485dd1e772b0bf13ef6db7eb053b37270ef1e24804ebc12472adb0708d/) |
