@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​9-Й СКОРПИОН
-description: W:25 L:6 D:0 Bonus ❌
-date: 1722028054
+description: W:26 L:6 D:0 Bonus ✅
+date: 1723125233
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1408 🔺  (31)|
-| ELO Competitive | 1450 🔺  (49)|
-| Total Matches | 31 |
-| Wins | 25 |
+| ELO Regular | 1412 🔺  (30)|
+| ELO Competitive | 1454 🔺  (47)|
+| Total Matches | 32 |
+| Wins | 26 |
 | Losses | 6 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 14 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721596054,1720645466,1720171836,1719490862,1718815017,1718227362,1717790394,1717338294,1716841824,1716406725,1715664318,1715200720,1714735210,1714298327,1713862068,1713429433,1712995534,1712543932,1712110037,1711662312,1711221519,1710789453,1710357370,1709922885,1709489913,1709057821,1708621503,1708115169,1706984676,1706456070,1703779391];
+        let timestamps = [1722693233,1721596054,1720645466,1720171836,1719490862,1718815017,1718227362,1717790394,1717338294,1716841824,1716406725,1715664318,1715200720,1714735210,1714298327,1713862068,1713429433,1712995534,1712543932,1712110037,1711662312,1711221519,1710789453,1710357370,1709922885,1709489913,1709057821,1708621503,1708115169,1706984676,1706456070,1703779391];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/08 | 12-2 | [Jalisco México](https://ws.tsl.rocks/corp/495236ab2171ccbcdad0da5529f080405b1ddd081eda98c7255a8cffe5b114e4/) |
 | ✅ | 2024/07/26 | 15-2 | [Север РусКорп](https://ws.tsl.rocks/corp/39eeae12a2a5fead3330938b8f38c71aab465634b732303dad7b2a7d5f472004/) |
 | ✅ | 2024/07/15 | 21-0 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
 | ❌ | 2024/07/10 | 3-17 | [华夏舰队](https://ws.tsl.rocks/corp/abd6d05a100ffdde2d15abd725a209bfbbf069b60b10ddeac88e88da66191472/) |
