@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​使命白星
-description: W:5 L:4 D:1 Bonus ✅
+description: W:5 L:4 D:1 Bonus ❌
 date: 1722941622
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

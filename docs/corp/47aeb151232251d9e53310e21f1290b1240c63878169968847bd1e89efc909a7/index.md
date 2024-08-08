@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Poggy Rockers
-description: W:25 L:10 D:2 Bonus ✅
-date: 1722558618
+description: W:25 L:11 D:2 Bonus ✅
+date: 1723098184
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1271 🔻  (171)|
-| ELO Competitive | 1335 🔺  (155)|
-| Total Matches | 37 |
+| ELO Regular | 1248 🔻  (222)|
+| ELO Competitive | 1311 🔻  (195)|
+| Total Matches | 38 |
 | Wins | 25 |
-| Losses | 10 |
+| Losses | 11 |
 | Draws | 2 |
 | Streak Record | 15 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722126618,1722106935,1721635716,1721635415,1721129831,1721113128,1720563159,1720560037,1719978586,1719544655,1718508192,1717735014,1717078926,1716573153,1715888754,1714980786,1714106938,1713591065,1712890372,1712275902,1711669223,1710535539,1709951731,1709328251,1708646447,1708059876,1707570207,1706916461,1706902113,1706343673,1705717703,1705109469,1704442927,1703831980,1703193074,1702700294,1702195076];
+        let timestamps = [1722666184,1722126618,1722106935,1721635716,1721635415,1721129831,1721113128,1720563159,1720560037,1719978586,1719544655,1718508192,1717735014,1717078926,1716573153,1715888754,1714980786,1714106938,1713591065,1712890372,1712275902,1711669223,1710535539,1709951731,1709328251,1708646447,1708059876,1707570207,1706916461,1706902113,1706343673,1705717703,1705109469,1704442927,1703831980,1703193074,1702700294,1702195076];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,12 +117,14 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [欢迎国人](https://ws.tsl.rocks/corp/f32abd112fe2b826948a3538a51097b9114815930ec77ad11ada1b24ce34578d/) | 1 | 1 | 0 | 2 |
 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) | 0 | 1 | 1 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/08 | 0-1 | [欢迎国人](https://ws.tsl.rocks/corp/f32abd112fe2b826948a3538a51097b9114815930ec77ad11ada1b24ce34578d/) |
 | ❌ | 2024/08/02 | 0-2 | [银星舰队SSF](https://ws.tsl.rocks/corp/c02d97cc37c082739a7828b6669ee67e2108bbf3d9f33628c650ced9fe04dd06/) |
 | ✅ | 2024/08/01 | 12-5 | [Bacon Warriors](https://ws.tsl.rocks/corp/ec62b01fc96adc2a7b7ac4077438e5153eeefc94740fab8309dcb6613e3a7f48/) |
 | ❌ | 2024/07/27 | 0-5 | [永恒之梦](https://ws.tsl.rocks/corp/51524c100011292acfff96dc47f5b506950922c6e467b1586d5c571cc281fd4d/) |
