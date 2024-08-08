@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​UAGC
-description: W:23 L:17 D:0 Bonus ✅
-date: 1722897755
+description: W:23 L:18 D:0 Bonus ✅
+date: 1723134853
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1247 🔺  (227)|
+| ELO Regular | 1225 🔻  (301)|
 | ELO Competitive | 1338 🔺  (157)|
-| Total Matches | 40 |
+| Total Matches | 41 |
 | Wins | 23 |
-| Losses | 17 |
+| Losses | 18 |
 | Draws | 0 |
 | Streak Record | 5 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722465755,1722014661,1721358944,1720924978,1720713689,1720140587,1719606259,1719377875,1718719453,1718689403,1718203014,1716797938,1716213239,1715112690,1715057703,1714381257,1714040233,1713921860,1713466093,1713254856,1712804439,1712163519,1711492552,1710885299,1710059904,1709538587,1709014544,1708932210,1708346550,1707814066,1707218879,1705927165,1705314117,1704799340,1704343160,1704313412,1703865640,1703849409,1703248065,1701576854];
+        let timestamps = [1722702853,1722465755,1722014661,1721358944,1720924978,1720713689,1720140587,1719606259,1719377875,1718719453,1718689403,1718203014,1716797938,1716213239,1715112690,1715057703,1714381257,1714040233,1713921860,1713466093,1713254856,1712804439,1712163519,1711492552,1710885299,1710059904,1709538587,1709014544,1708932210,1708346550,1707814066,1707218879,1705927165,1705314117,1704799340,1704343160,1704313412,1703865640,1703849409,1703248065,1701576854];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/08 | 9-48 | [KLM](https://ws.tsl.rocks/corp/963e490e64d4703042415d3fcd8267ff87fbfd3383b83d447d29d842f2a446a1/) |
 | ✅ | 2024/08/05 | 52-9 | [Trade Station](https://ws.tsl.rocks/corp/7003e286fe1a04aaa63e3aa318c164856c07e251a94b0496757140f5eda72cd7/) |
 | ❌ | 2024/07/31 | 3-32 | [Spacefleet](https://ws.tsl.rocks/corp/517f7b257f68936f7a95a478d6923776a2549b88897bae628fd35b23572d3cbd/) |
 | ✅ | 2024/07/24 | 44-0 | [붉은늑대](https://ws.tsl.rocks/corp/43d32b05645aaa9415d1c04ecbcea520d2ed5b90304770cb0ab3813cb86e2f49/) |

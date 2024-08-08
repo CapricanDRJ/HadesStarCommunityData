@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​koalition
-description: W:10 L:3 D:1 Bonus ✅
-date: 1722686194
+description: W:10 L:4 D:1 Bonus ✅
+date: 1723135673
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1294 🔺  (135)|
-| ELO Competitive | 1301 🔺  (206)|
-| Total Matches | 14 |
+| ELO Regular | 1280 🔻  (157)|
+| ELO Competitive | 1288 🔻  (228)|
+| Total Matches | 15 |
 | Wins | 10 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 1 |
-| Streak | 8 |
 | Streak Record | 8 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722254194,1721717758,1721129957,1720560037,1719745689,1719087560,1718487336,1717929537,1717445900,1716925122,1716123104,1713447160,1706916461,1705854143];
+        let timestamps = [1722703673,1722254194,1721717758,1721129957,1720560037,1719745689,1719087560,1718487336,1717929537,1717445900,1716925122,1716123104,1713447160,1706916461,1705854143];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/08 | 0-4 | [萌新的收留所](https://ws.tsl.rocks/corp/1dd3f70c959e32c27cb4c010162be3799b7c0732115d5c2b7ca5979f48b10f7f/) |
 | ✅ | 2024/08/03 | 7-6 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 | ✅ | 2024/07/28 | 7-0 | [Orion](https://ws.tsl.rocks/corp/7c0851ebb511881954f862d0a9c0e83978c708f123d2059a6fd3bcc6b9faa813/) |
 | ✅ | 2024/07/21 | 9-2 | [水晶星际集团](https://ws.tsl.rocks/corp/6390d7a4666ac4537ef5eacf76dd1c2f34548cc588aac8dad423c308ad1c0f3d/) |

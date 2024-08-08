@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​KLM
-description: W:6 L:24 D:0 Bonus ❌
-date: 1722384458
+description: W:7 L:24 D:0 Bonus ✅
+date: 1723134853
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1084 🔺  (1138)|
-| ELO Competitive | 1121 🔺  (1130)|
-| Total Matches | 30 |
-| Wins | 6 |
+| ELO Regular | 1106 🔺  (1110)|
+| ELO Competitive | 1144 🔺  (1089)|
+| Total Matches | 31 |
+| Wins | 7 |
 | Losses | 24 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 4 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721952458,1721429567,1720656284,1720052824,1719443089,1718847171,1718226159,1717639144,1716943402,1716338526,1715748142,1715212435,1714598206,1714119254,1713406602,1712694475,1712112140,1711516886,1707267866,1706686567,1706065405,1705451755,1704686650,1703993664,1702974985,1702257123,1701323201,1700441398,1699686624,1698967480];
+        let timestamps = [1722702853,1721952458,1721429567,1720656284,1720052824,1719443089,1718847171,1718226159,1717639144,1716943402,1716338526,1715748142,1715212435,1714598206,1714119254,1713406602,1712694475,1712112140,1711516886,1707267866,1706686567,1706065405,1705451755,1704686650,1703993664,1702974985,1702257123,1701323201,1700441398,1699686624,1698967480];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -128,6 +129,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/08 | 48-9 | [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) |
 | ✅ | 2024/07/31 | 39-20 | [붉은늑대](https://ws.tsl.rocks/corp/43d32b05645aaa9415d1c04ecbcea520d2ed5b90304770cb0ab3813cb86e2f49/) |
 | ❌ | 2024/07/24 | 14-37 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | ❌ | 2024/07/16 | 20-23 | [GDZ](https://ws.tsl.rocks/corp/a04890160268d05cf11f997b0a1c724fbbcfa66b2ea4cb1c4b56ca18d0425d62/) |
