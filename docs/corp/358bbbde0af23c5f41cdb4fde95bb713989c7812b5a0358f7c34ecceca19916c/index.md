@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Cyber Star
-description: W:25 L:10 D:0 Bonus ✅
+description: W:25 L:10 D:0 Bonus ❌
 date: 1722459283
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1363 🔺  (60)|
-| ELO Competitive | 1404 🔺  (82)|
+| ELO Competitive | 1404 🔺  (83)|
 | Total Matches | 35 |
 | Wins | 25 |
 | Losses | 10 |
