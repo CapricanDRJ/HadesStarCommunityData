@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​The Allegiant
-description: W:18 L:8 D:0 Bonus ✅
-date: 1722467996
+description: W:19 L:8 D:0 Bonus ✅
+date: 1723084963
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1291 🔺  (135)|
-| ELO Competitive | 1316 🔺  (184)|
-| Total Matches | 26 |
-| Wins | 18 |
+| ELO Regular | 1314 🔺  (99)|
+| ELO Competitive | 1340 🔺  (148)|
+| Total Matches | 27 |
+| Wins | 19 |
 | Losses | 8 |
 | Draws | 0 |
-| Streak | 5 |
+| Streak | 6 |
 | Streak Record | 7 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722035996,1721410487,1720715794,1719686894,1719158808,1717790394,1717257437,1716663010,1715956351,1715374014,1714765363,1714254165,1713644853,1712976004,1710620581,1710010026,1709402172,1708799999,1708794590,1708193599,1707586585,1706919465,1706378839,1705770597,1705165966,1704647583];
+        let timestamps = [1722652963,1722035996,1721410487,1720715794,1719686894,1719158808,1717790394,1717257437,1716663010,1715956351,1715374014,1714765363,1714254165,1713644853,1712976004,1710620581,1710010026,1709402172,1708799999,1708794590,1708193599,1707586585,1706919465,1706378839,1705770597,1705165966,1704647583];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/08 | 39-0 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |
 | ✅ | 2024/07/31 | 21-0 | [Eretria ](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |
 | ✅ | 2024/07/24 | 13-0 | [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) |
 | ✅ | 2024/07/16 | 17-3 | [Destroyers](https://ws.tsl.rocks/corp/3756333f55f58944372cf785b972da55796cc179c0ce5f10244e90e3c4355a23/) |

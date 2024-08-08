@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Armored Union 
-description: W:20 L:14 D:0 Bonus ✅
-date: 1722909171
+description: W:20 L:15 D:0 Bonus ✅
+date: 1723079255
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1252 🔺  (215)|
-| ELO Competitive | 1333 🔺  (158)|
-| Total Matches | 34 |
+| ELO Regular | 1235 🔻  (265)|
+| ELO Competitive | 1333 🔺  (159)|
+| Total Matches | 35 |
 | Wins | 20 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 0 |
-| Streak | 3 |
 | Streak Record | 3 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722477171,1722007946,1721994933,1721359845,1720790329,1720767186,1720163122,1720160117,1719711134,1719660946,1719191869,1719179250,1718748912,1718728473,1718229165,1718211732,1717534261,1717002300,1716955418,1716536807,1716240886,1715726515,1715704660,1715072423,1715064613,1714439558,1714428140,1713804687,1713255157,1712694174,1711922842,1711361242,1710721843,1709826432];
+        let timestamps = [1722647255,1722477171,1722007946,1721994933,1721359845,1720790329,1720767186,1720163122,1720160117,1719711134,1719660946,1719191869,1719179250,1718748912,1718728473,1718229165,1718211732,1717534261,1717002300,1716955418,1716536807,1716240886,1715726515,1715704660,1715072423,1715064613,1714439558,1714428140,1713804687,1713255157,1712694174,1711922842,1711361242,1710721843,1709826432];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -127,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/08 | 3-7 | [ 边域](https://ws.tsl.rocks/corp/b982530486b86a4944af4474183f3fa6aca9db7a2a4195c018930f68d6ede865/) |
 | ✅ | 2024/08/06 | 12-7 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |
 | ✅ | 2024/07/31 | 1-0 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) |
 | ✅ | 2024/07/31 | 17-2 | [империя тьмы](https://ws.tsl.rocks/corp/4eb22a1b793e5d03579cea15c873b1bef56fea02420a4e55edb18a200f7fc46a/) |
