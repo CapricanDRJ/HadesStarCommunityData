@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Mass Effect
-description: W:20 L:17 D:1 Bonus ✅
+description: W:20 L:17 D:1 Bonus ❌
 date: 1722615275
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

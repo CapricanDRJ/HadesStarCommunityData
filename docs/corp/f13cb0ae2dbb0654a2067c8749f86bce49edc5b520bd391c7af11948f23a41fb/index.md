@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​The X - Files
-description: W:3 L:37 D:0 Bonus ❌
-date: 1722657649
+description: W:3 L:38 D:0 Bonus ❌
+date: 1723230420
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 963 🔻  (1194)|
-| ELO Competitive | 988 🔻  (1201)|
-| Total Matches | 40 |
+| ELO Regular | 955 🔻  (1196)|
+| ELO Competitive | 984 🔻  (1201)|
+| Total Matches | 41 |
 | Wins | 3 |
-| Losses | 37 |
+| Losses | 38 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722225649,1721618287,1720988704,1720400836,1719778151,1719172336,1718565598,1717977930,1717356935,1716761887,1716168775,1715543241,1714939030,1714358125,1713728978,1713124153,1712517191,1711960396,1711304459,1710729960,1710100475,1709493520,1708892253,1708283452,1707687259,1707100372,1706562158,1705895915,1705304202,1704731125,1704092226,1703444916,1702877614,1702318306,1701627950,1701020555,1700430580,1699811982,1699206687,1698690674];
+        let timestamps = [1722798420,1722225649,1721618287,1720988704,1720400836,1719778151,1719172336,1718565598,1717977930,1717356935,1716761887,1716168775,1715543241,1714939030,1714358125,1713728978,1713124153,1712517191,1711960396,1711304459,1710729960,1710100475,1709493520,1708892253,1708283452,1707687259,1707100372,1706562158,1705895915,1705304202,1704731125,1704092226,1703444916,1702877614,1702318306,1701627950,1701020555,1700430580,1699811982,1699206687,1698690674];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -127,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/09 | 3-42 | [Crazy Elite](https://ws.tsl.rocks/corp/ef64e9014b773074470ead0907b9c122bf6bda753de1cddfa01e95a00e9d47dc/) |
 | ❌ | 2024/08/03 | 11-26 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) |
 | ❌ | 2024/07/27 | 7-53 | [Imperium XIII](https://ws.tsl.rocks/corp/0d52edf77b0cdeaaea6ebc20a7f5b6a60372b535bf96f556b31e2243dc8ee75a/) |
 | ❌ | 2024/07/19 | 1-56 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) |

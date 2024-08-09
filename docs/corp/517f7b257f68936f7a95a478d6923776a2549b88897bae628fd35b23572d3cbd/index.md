@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Spacefleet
-description: W:34 L:23 D:0 Bonus ❌
-date: 1722889641
+description: W:34 L:24 D:0 Bonus ❌
+date: 1723234027
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1255 🔻  (206)|
+| ELO Regular | 1232 🔻  (272)|
 | ELO Competitive | 1425 🔻  (68)|
-| Total Matches | 57 |
+| Total Matches | 58 |
 | Wins | 34 |
-| Losses | 23 |
+| Losses | 24 |
 | Draws | 0 |
 | Streak Record | 8 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722457641,1722303179,1722014661,1721834657,1721572909,1721275408,1721040991,1720682729,1720523745,1720158915,1720052824,1719606259,1719593937,1719116729,1718668672,1718505789,1718071390,1717842381,1717329575,1716780511,1716115892,1715561269,1714857006,1714353018,1713759619,1713141580,1712551142,1711930954,1711327897,1710728459,1710117603,1709506443,1708917189,1708397339,1707699877,1707092861,1706496943,1705877287,1705275360,1704700539,1703631538,1702878516,1702876412,1702435820,1702382018,1701945019,1701538988,1701512838,1701042800,1700918057,1700568819,1700118001,1699663481,1699207288,1699194666,1698752598,1698698494];
+        let timestamps = [1722802027,1722457641,1722303179,1722014661,1721834657,1721572909,1721275408,1721040991,1720682729,1720523745,1720158915,1720052824,1719606259,1719593937,1719116729,1718668672,1718505789,1718071390,1717842381,1717329575,1716780511,1716115892,1715561269,1714857006,1714353018,1713759619,1713141580,1712551142,1711930954,1711327897,1710728459,1710117603,1709506443,1708917189,1708397339,1707699877,1707092861,1706496943,1705877287,1705275360,1704700539,1703631538,1702878516,1702876412,1702435820,1702382018,1701945019,1701538988,1701512838,1701042800,1700918057,1700568819,1700118001,1699663481,1699207288,1699194666,1698752598,1698698494];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,13 +117,13 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Gummibärenbande](https://ws.tsl.rocks/corp/7111d11716d236254b3fe2fdc0df09519cbed1ee9cc2c7691983534a3d8e1366/) | 2 | 1 | 0 | 3 |
 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) | 1 | 1 | 0 | 2 |
 | [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) | 2 | 0 | 0 | 2 |
 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) | 2 | 1 | 0 | 3 |
 | [EZCO](https://ws.tsl.rocks/corp/cfad990cabcdc1326c0aa3f93a57d1f0e6ec3cd2949e01e6b08443c3af8282f1/) | 1 | 1 | 0 | 2 |
 | [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) | 1 | 2 | 0 | 3 |
 | [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 1 | 1 | 0 | 2 |
-| [Gummibärenbande](https://ws.tsl.rocks/corp/7111d11716d236254b3fe2fdc0df09519cbed1ee9cc2c7691983534a3d8e1366/) | 2 | 0 | 0 | 2 |
 | [Sith Empire](https://ws.tsl.rocks/corp/7deb3943434ee3aa56bb4c29a0fb0831bcbc4b570a58a2809ea1a549b7df328e/) | 3 | 1 | 0 | 4 |
 | [Legion](https://ws.tsl.rocks/corp/313baaeac1c759ca26e0f4bd3140711cffdfa85c287d4c992dcfb809908cf491/) | 2 | 2 | 0 | 4 |
 | [StarControl](https://ws.tsl.rocks/corp/ec38e4998a2ba7ec763a41d4bd33a2d027e94d6a4b9eace9b11e7d89674cc90c/) | 1 | 2 | 0 | 3 |
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/09 | 11-22 | [Gummibärenbande](https://ws.tsl.rocks/corp/7111d11716d236254b3fe2fdc0df09519cbed1ee9cc2c7691983534a3d8e1366/) |
 | ❌ | 2024/08/05 | 18-33 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) |
 | ❌ | 2024/08/04 | 9-20 | [YETI Collective](https://ws.tsl.rocks/corp/ff6a3c65d008d245f003a3009374e26cf38e7cda6ea4d601a9da9037296fda98/) |
 | ✅ | 2024/07/31 | 32-3 | [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) |
