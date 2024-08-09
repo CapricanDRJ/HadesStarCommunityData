@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​星舰月球
-description: W:30 L:8 D:0 Bonus ❌
-date: 1722105915
+description: W:30 L:9 D:0 Bonus ❌
+date: 1723222906
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1435 🔺  (21)|
-| ELO Competitive | 1507 🔺  (23)|
-| Total Matches | 38 |
+| ELO Regular | 1417 🔻  (28)|
+| ELO Competitive | 1490 🔻  (29)|
+| Total Matches | 39 |
 | Wins | 30 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 0 |
-| Streak | 19 |
 | Streak Record | 19 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721673915,1719768233,1719203885,1718596544,1717348216,1716769096,1716135124,1715620154,1714927912,1714319967,1713728978,1713158103,1711903908,1711297546,1710720648,1710115226,1709482099,1708879630,1707066114,1706494239,1706466591,1705892309,1705858351,1705248911,1704787087,1704646682,1704244294,1704045356,1703476766,1703430489,1702859887,1702768222,1702225436,1701620134,1701019954,1700409537,1699811681,1699234632];
+        let timestamps = [1722790906,1721673915,1719768233,1719203885,1718596544,1717348216,1716769096,1716135124,1715620154,1714927912,1714319967,1713728978,1713158103,1711903908,1711297546,1710720648,1710115226,1709482099,1708879630,1707066114,1706494239,1706466591,1705892309,1705858351,1705248911,1704787087,1704646682,1704244294,1704045356,1703476766,1703430489,1702859887,1702768222,1702225436,1701620134,1701019954,1700409537,1699811681,1699234632];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,15 +117,16 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) | 3 | 1 | 0 | 4 |
 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 3 | 0 | 0 | 3 |
 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) | 2 | 0 | 0 | 2 |
-| [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) | 3 | 0 | 0 | 3 |
 | [Любители Пива](https://ws.tsl.rocks/corp/3926c7dd9f82737737ee85bc4f013285cb75f1ef90f5bf4822bf624616570764/) | 3 | 0 | 0 | 3 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/09 | 0-26 | [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) |
 | ✅ | 2024/07/27 | 39-18 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) |
 | ✅ | 2024/07/05 | 41-32 | [Gummibärenbande](https://ws.tsl.rocks/corp/7111d11716d236254b3fe2fdc0df09519cbed1ee9cc2c7691983534a3d8e1366/) |
 | ✅ | 2024/06/29 | 31-11 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) |

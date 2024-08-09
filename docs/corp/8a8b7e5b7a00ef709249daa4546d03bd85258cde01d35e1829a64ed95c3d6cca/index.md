@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Lights Off 
-description: W:24 L:9 D:0 Bonus ❌
-date: 1722633012
+description: W:25 L:9 D:0 Bonus ✅
+date: 1723223507
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1317 🔻  (101)|
-| ELO Competitive | 1347 🔻  (143)|
-| Total Matches | 33 |
-| Wins | 24 |
+| ELO Regular | 1328 🔺  (86)|
+| ELO Competitive | 1364 🔺  (120)|
+| Total Matches | 34 |
+| Wins | 25 |
 | Losses | 9 |
 | Draws | 0 |
 | Streak Record | 10 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722201012,1721641425,1720482277,1719920883,1719253771,1718625089,1717991450,1716829799,1716204825,1715619252,1715105478,1713799878,1713172222,1712571573,1711991351,1711354032,1710759701,1710184904,1709589972,1708962259,1708292769,1706638787,1706117090,1705603509,1705168371,1704692659,1704242492,1703734614,1702558439,1702084475,1701260085,1700658980,1700204557];
+        let timestamps = [1722791507,1722201012,1721641425,1720482277,1719920883,1719253771,1718625089,1717991450,1716829799,1716204825,1715619252,1715105478,1713799878,1713172222,1712571573,1711991351,1711354032,1710759701,1710184904,1709589972,1708962259,1708292769,1706638787,1706117090,1705603509,1705168371,1704692659,1704242492,1703734614,1702558439,1702084475,1701260085,1700658980,1700204557];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/09 | 33-27 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |
 | ❌ | 2024/08/02 | 8-32 | [the heavy](https://ws.tsl.rocks/corp/fc91552441e9553b76df7ca1870d63c6fd9e50f9c98a3d2bb9f6979b47bd845f/) |
 | ✅ | 2024/07/27 | 29-3 | [Zvezdec](https://ws.tsl.rocks/corp/7bce2af674b8fb313f43e497201ad86b230571cc3e200f44132be528eb4076d9/) |
 | ✅ | 2024/07/13 | 31-17 | [Corp\. Estelar](https://ws.tsl.rocks/corp/aec01be59075af2b2995f74e3e14f47e2b3ce1bd3b74abc78200a1d6330b8a72/) |

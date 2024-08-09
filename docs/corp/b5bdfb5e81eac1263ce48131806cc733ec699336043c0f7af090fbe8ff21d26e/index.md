@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​White Star Inc.
-description: W:3 L:4 D:0 Bonus ❌
-date: 1722101979
+description: W:3 L:5 D:0 Bonus ❌
+date: 1723228616
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔻  (760)|
-| ELO Competitive | 1196 🔻  (589)|
-| Total Matches | 7 |
+| ELO Regular | 1168 🔻  (907)|
+| ELO Competitive | 1188 🔻  (676)|
+| Total Matches | 8 |
 | Wins | 3 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721669979,1720440799,1709276864,1708027425,1704384930,1702320711,1699727213];
+        let timestamps = [1722796616,1721669979,1720440799,1709276864,1708027425,1704384930,1702320711,1699727213];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/09 | 3-22 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |
 | ❌ | 2024/07/27 | 8-21 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
 | ✅ | 2024/07/13 | 20-3 | [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) |
 | ❌ | 2024/03/06 | 2-30 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
