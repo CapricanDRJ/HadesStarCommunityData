@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​很多星球的社会主义团
-description: W:9 L:9 D:1 Bonus ✅
+description: W:9 L:9 D:1 Bonus ❌
 date: 1722558770
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1202 🔺  (417)|
+| ELO Regular | 1202 🔺  (419)|
 | ELO Competitive | 1231 🔺  (372)|
 | Total Matches | 19 |
 | Wins | 9 |

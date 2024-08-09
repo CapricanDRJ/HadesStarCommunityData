@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Торг. федерация
-description: W:6 L:9 D:0 Bonus ✅
-date: 1722721960
+description: W:6 L:10 D:0 Bonus ✅
+date: 1723180526
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔺  (700)|
-| ELO Competitive | 1207 🔺  (506)|
-| Total Matches | 15 |
+| ELO Regular | 1170 🔻  (882)|
+| ELO Competitive | 1198 🔻  (574)|
+| Total Matches | 16 |
 | Wins | 6 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 0 |
-| Streak | 3 |
 | Streak Record | 3 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722289960,1721853594,1721419349,1714625242,1714163126,1713712751,1713277694,1712819160,1712358531,1702632672,1702295160,1702027966,1699943023,1699216905,1698687065];
+        let timestamps = [1722748526,1722289960,1721853594,1721419349,1714625242,1714163126,1713712751,1713277694,1712819160,1712358531,1702632672,1702295160,1702027966,1699943023,1699216905,1698687065];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/09 | 7-36 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | ✅ | 2024/08/03 | 13-5 | [ProyectCorp](https://ws.tsl.rocks/corp/ac76fbb017abc5511e6d39625245f0cd8f145ef5ba96ae1760d7f2389b5e0fe1/) |
 | ✅ | 2024/07/29 | 18-2 | [Moon Catchers](https://ws.tsl.rocks/corp/0625bb885137c3824ac346b97780181e23ee84562237eb345baa364f8d7d3c43/) |
 | ✅ | 2024/07/24 | 12-4 | [GDZ](https://ws.tsl.rocks/corp/a04890160268d05cf11f997b0a1c724fbbcfa66b2ea4cb1c4b56ca18d0425d62/) |
