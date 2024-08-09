@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​BrinySeal
-description: W:36 L:16 D:3 Bonus ✅
+description: W:36 L:16 D:3 Bonus ❌
 date: 1722968972
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
