@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​DTC
-description: W:14 L:43 D:0 Bonus ❌
-date: 1722590324
+description: W:14 L:44 D:0 Bonus ❌
+date: 1723212084
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1016 🔻  (1183)|
-| ELO Competitive | 1165 🔻  (1008)|
-| Total Matches | 57 |
+| ELO Regular | 1013 🔻  (1185)|
+| ELO Competitive | 1161 🔻  (1027)|
+| Total Matches | 58 |
 | Wins | 14 |
-| Losses | 43 |
+| Losses | 44 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722158324,1721562387,1720944211,1720344933,1720341326,1719738177,1719736975,1719204786,1718523518,1717919920,1717332280,1716709888,1716072030,1715581695,1715569379,1714896362,1714291717,1713702834,1713685709,1713101610,1713083879,1712479621,1712477217,1711718204,1711717603,1711273201,1711270797,1710709229,1710675266,1710061707,1710060805,1709457155,1709456554,1708860093,1708851679,1708247384,1708247384,1707656300,1707651491,1707040266,1707037562,1706443145,1705835206,1705829496,1705232679,1704624138,1704015599,1703407947,1702834038,1702198984,1701599393,1700994100,1700987788,1700383085,1699779211,1699194967,1698685261];
+        let timestamps = [1722780084,1722158324,1721562387,1720944211,1720344933,1720341326,1719738177,1719736975,1719204786,1718523518,1717919920,1717332280,1716709888,1716072030,1715581695,1715569379,1714896362,1714291717,1713702834,1713685709,1713101610,1713083879,1712479621,1712477217,1711718204,1711717603,1711273201,1711270797,1710709229,1710675266,1710061707,1710060805,1709457155,1709456554,1708860093,1708851679,1708247384,1708247384,1707656300,1707651491,1707040266,1707037562,1706443145,1705835206,1705829496,1705232679,1704624138,1704015599,1703407947,1702834038,1702198984,1701599393,1700994100,1700987788,1700383085,1699779211,1699194967,1698685261];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,10 +117,10 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) | 0 | 3 | 0 | 3 |
 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) | 0 | 5 | 0 | 5 |
 | [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) | 0 | 2 | 0 | 2 |
 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 0 | 2 | 0 | 2 |
-| [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) | 0 | 2 | 0 | 2 |
 | [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 0 | 4 | 0 | 4 |
 | [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) | 3 | 1 | 0 | 4 |
 | [Curcubeu](https://ws.tsl.rocks/corp/a2bdd69ff0d73fcdb3bd9461684b2951dd4df9009b7ea8eae1592efff76e3c59/) | 1 | 1 | 0 | 2 |
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/09 | 17-31 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) |
 | ❌ | 2024/08/02 | 11-20 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |
 | ❌ | 2024/07/26 | 2-24 | [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) |
 | ❌ | 2024/07/19 | 9-27 | [111](https://ws.tsl.rocks/corp/8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350/) |

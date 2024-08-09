@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Ws Polaris
-description: W:3 L:14 D:2 Bonus ❌
-date: 1721574885
+description: W:4 L:14 D:2 Bonus ✅
+date: 1723212986
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1086 🔻  (1137)|
-| ELO Competitive | 1094 🔻  (1162)|
-| Total Matches | 19 |
-| Wins | 3 |
+| ELO Regular | 1110 🔺  (1108)|
+| ELO Competitive | 1119 🔺  (1136)|
+| Total Matches | 20 |
+| Wins | 4 |
 | Losses | 14 |
 | Draws | 2 |
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721142885,1720022767,1712957677,1709560520,1708173160,1707657502,1706294393,1705776909,1705238690,1704259617,1703777286,1703274215,1702657919,1702059829,1701443114,1700880490,1700285105,1699640631,1699045928];
+        let timestamps = [1722780986,1721142885,1720022767,1712957677,1709560520,1708173160,1707657502,1706294393,1705776909,1705238690,1704259617,1703777286,1703274215,1702657919,1702059829,1701443114,1700880490,1700285105,1699640631,1699045928];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/09 | 6-2 | [Север РусКорп](https://ws.tsl.rocks/corp/39eeae12a2a5fead3330938b8f38c71aab465634b732303dad7b2a7d5f472004/) |
 | ❌ | 2024/07/21 | 0-19 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
 | ❌ | 2024/07/08 | 0-25 | [The Syndicate ](https://ws.tsl.rocks/corp/a7da1f6bd313248b8b6e68a1826bffb463c0e4977776708b28d97199f878b88c/) |
 | ❌ | 2024/04/17 | 4-5 | [PDC](https://ws.tsl.rocks/corp/3cfc5c94fb18b34d3a1018bfbf6d4211d3cfb18ebb02bf7784cebc1e3627de4a/) |
