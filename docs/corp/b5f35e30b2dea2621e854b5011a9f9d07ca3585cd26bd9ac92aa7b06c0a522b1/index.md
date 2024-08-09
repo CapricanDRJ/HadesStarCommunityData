@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​德意志第三帝国奥米加分部
-description: W:5 L:11 D:3 Bonus ❌
-date: 1722223040
+description: W:6 L:11 D:3 Bonus ✅
+date: 1723187138
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1138 🔺  (1037)|
-| ELO Competitive | 1160 🔺  (1028)|
-| Total Matches | 19 |
-| Wins | 5 |
+| ELO Regular | 1156 🔺  (972)|
+| ELO Competitive | 1177 🔺  (890)|
+| Total Matches | 20 |
+| Wins | 6 |
 | Losses | 11 |
 | Draws | 3 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721791040,1721279615,1719850268,1718987802,1717588347,1716980057,1716675491,1716499699,1715945749,1715493656,1714917094,1713850953,1713373849,1712872511,1712563532,1712324574,1711911121,1707679745,1706928178];
+        let timestamps = [1722755138,1721791040,1721279615,1719850268,1718987802,1717588347,1716980057,1716675491,1716499699,1715945749,1715493656,1714917094,1713850953,1713373849,1712872511,1712563532,1712324574,1711911121,1707679745,1706928178];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/09 | 13-2 | [企鹅帝国](https://ws.tsl.rocks/corp/53f5c71ba84d7adb312f2f45919553d71769bce6acb74e18973f8c9127499807/) |
 | ✅ | 2024/07/29 | 19-7 | [第三舰队](https://ws.tsl.rocks/corp/5c221ea6be2f8e437f63c736ee45290cb3304543c57a4a1ea677e5e24e121f89/) |
 | ✅ | 2024/07/23 | 14-0 | [欢迎国人](https://ws.tsl.rocks/corp/f32abd112fe2b826948a3538a51097b9114815930ec77ad11ada1b24ce34578d/) |
 | ❌ | 2024/07/06 | 9-14 | [P\!RAT£ SHIP](https://ws.tsl.rocks/corp/edee949826201f74f57f45c101789757954710e3d075602dfdda7765a69a7e7c/) |

@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​共产国际
-description: W:0 L:0 D:1 Bonus ❌
-date: 1722739686
+description: W:1 L:0 D:1 Bonus ✅
+date: 1723189542
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1202 🔺  (418)|
-| ELO Competitive | 1209 🔺  (497)|
-| Total Matches | 1 |
-| Wins | 0 |
+| ELO Regular | 1217 🔺  (330)|
+| ELO Competitive | 1223 🔺  (396)|
+| Total Matches | 2 |
+| Wins | 1 |
 | Losses | 0 |
 | Draws | 1 |
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722307686];
+        let timestamps = [1722757542,1722307686];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/09 | 5-3 | [Nox Imperium](https://ws.tsl.rocks/corp/b60fb003fae650d1de18e7bca4fad04f9805501f4568d07ceb47bffdfeb613c1/) |
 | ↔️ | 2024/08/04 | 2-2 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) |
 
 Corporation ID: 375b1efc576c9d15f93249680dcd6dccaf2ad07cd520b85242d0b704d3a494c6

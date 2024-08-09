@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​水晶星际集团
-description: W:5 L:21 D:0 Bonus ❌
-date: 1721561957
+description: W:5 L:22 D:0 Bonus ❌
+date: 1723193148
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1061 🔻  (1156)|
-| ELO Competitive | 1093 🔻  (1163)|
-| Total Matches | 26 |
+| ELO Regular | 1053 🔻  (1162)|
+| ELO Competitive | 1089 🔻  (1169)|
+| Total Matches | 27 |
 | Wins | 5 |
-| Losses | 21 |
+| Losses | 22 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721129957,1721129657,1719657040,1717020333,1716008930,1715224751,1714396881,1713018973,1712578785,1712140980,1711284019,1710411447,1709978472,1709486721,1709035281,1708572824,1708095935,1707654196,1707141838,1706623157,1706176888,1705701779,1704546602,1703809146,1703314182,1702041491];
+        let timestamps = [1722761148,1721129957,1721129657,1719657040,1717020333,1716008930,1715224751,1714396881,1713018973,1712578785,1712140980,1711284019,1710411447,1709978472,1709486721,1709035281,1708572824,1708095935,1707654196,1707141838,1706623157,1706176888,1705701779,1704546602,1703809146,1703314182,1702041491];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/09 | 0-8 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) |
 | ❌ | 2024/07/21 | 2-9 | [koalition](https://ws.tsl.rocks/corp/68d721684ab83df28cba0a58c608e5dd3c58df79369abffa67da4e8956ef2695/) |
 | ❌ | 2024/07/21 | 3-18 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ❌ | 2024/07/04 | 8-23 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |
