@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Legión
-description: W:0 L:1 D:0 Bonus ❌
-date: 1700329040
+description: W:0 L:2 D:0 Bonus ❌
+date: 1723249952
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (649)|
-| ELO Competitive | 1185 🔻  (773)|
-| Total Matches | 1 |
+| ELO Regular | 1176 🔻  (799)|
+| ELO Competitive | 1177 🔻  (891)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1699897040];
+        let timestamps = [1722817952,1699897040];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/10 | 2-25 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) |
 | ❌ | 2023/11/18 | 2-12 | [Vega Conflict](https://ws.tsl.rocks/corp/396ceafad44127f2e9dfb94934dc27154c6f97f6bc60832af6cb17791fd7369b/) |
 
 Corporation ID: 50f2309d2f9e5d31b10e6b9cf5928035bc1df6f395d81adf89b10627daad0fc7

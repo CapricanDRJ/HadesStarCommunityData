@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​КРЫЛЯ ФЕНИКСА
-description: W:5 L:4 D:0 Bonus ✅
+description: W:5 L:4 D:0 Bonus ❌
 date: 1722626098
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1235 🔺  (265)|
+| ELO Regular | 1235 🔺  (266)|
 | ELO Competitive | 1249 🔺  (313)|
 | Total Matches | 9 |
 | Wins | 5 |

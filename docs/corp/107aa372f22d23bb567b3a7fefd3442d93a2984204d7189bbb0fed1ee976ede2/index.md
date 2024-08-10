@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​星を継ぐもの
-description: W:28 L:11 D:0 Bonus ❌
-date: 1722738484
+description: W:29 L:11 D:0 Bonus ✅
+date: 1723249952
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1324 🔻  (91)|
-| ELO Competitive | 1355 🔻  (130)|
-| Total Matches | 39 |
-| Wins | 28 |
+| ELO Regular | 1333 🔺  (83)|
+| ELO Competitive | 1363 🔺  (121)|
+| Total Matches | 40 |
+| Wins | 29 |
 | Losses | 11 |
 | Draws | 0 |
 | Streak Record | 8 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722306484,1721613480,1721096299,1720490990,1719973477,1719364356,1718846871,1718068386,1717203035,1716688251,1715908882,1715308877,1715303470,1714705767,1714702162,1714179048,1714091617,1713498840,1713486824,1712979263,1712969394,1712366042,1712361535,1711768688,1711759975,1711243455,1710759701,1710301483,1709778060,1709251928,1708792486,1708781666,1708061078,1707308426,1707305720,1706667938,1706001092,1705395554,1704803547];
+        let timestamps = [1722817952,1722306484,1721613480,1721096299,1720490990,1719973477,1719364356,1718846871,1718068386,1717203035,1716688251,1715908882,1715308877,1715303470,1714705767,1714702162,1714179048,1714091617,1713498840,1713486824,1712979263,1712969394,1712366042,1712361535,1711768688,1711759975,1711243455,1710759701,1710301483,1709778060,1709251928,1708792486,1708781666,1708061078,1707308426,1707305720,1706667938,1706001092,1705395554,1704803547];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/10 | 25-2 | [Legión](https://ws.tsl.rocks/corp/50f2309d2f9e5d31b10e6b9cf5928035bc1df6f395d81adf89b10627daad0fc7/) |
 | ❌ | 2024/08/04 | 10-22 | [Helion Prime](https://ws.tsl.rocks/corp/1a09ce5efe86add0a6f0344bc2a12e27c898c0d21641a3f29a450c6d4c4db3f2/) |
 | ✅ | 2024/07/27 | 22-4 | [Hades' 420](https://ws.tsl.rocks/corp/e83b8d576f0efe37e0cdc115b709de051fc57c51a2183f4cb399421766660a73/) |
 | ✅ | 2024/07/21 | 35-0 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) |

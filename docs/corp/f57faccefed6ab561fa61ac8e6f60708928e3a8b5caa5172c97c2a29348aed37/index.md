@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​公共星际集团
-description: W:7 L:19 D:2 Bonus ✅
-date: 1722794681
+description: W:7 L:20 D:2 Bonus ✅
+date: 1723250121
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1085 🔺  (1141)|
-| ELO Competitive | 1177 🔺  (886)|
-| Total Matches | 28 |
+| ELO Regular | 1076 🔻  (1146)|
+| ELO Competitive | 1166 🔻  (1002)|
+| Total Matches | 29 |
 | Wins | 7 |
-| Losses | 19 |
+| Losses | 20 |
 | Draws | 2 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722362681,1721541350,1721062037,1720512325,1720512325,1719923287,1719922686,1717821128,1710674965,1710659134,1709331642,1709317432,1708646447,1708629918,1708174362,1708173160,1707605526,1707573213,1707119902,1707053490,1706658323,1706618348,1706189811,1705723413,1705285274,1704842321,1704404168,1703932954];
+        let timestamps = [1722818121,1722362681,1721541350,1721062037,1720512325,1720512325,1719923287,1719922686,1717821128,1710674965,1710659134,1709331642,1709317432,1708646447,1708629918,1708174362,1708173160,1707605526,1707573213,1707119902,1707053490,1706658323,1706618348,1706189811,1705723413,1705285274,1704842321,1704404168,1703932954];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -122,6 +122,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/10 | 3-6 | [落雨观花](https://ws.tsl.rocks/corp/565a6d89fc5107e86669d7f8910a1c4ae1fbb156fa0b5e81dbc917c341cc9ff0/) |
 | ✅ | 2024/08/04 | 5-3 | [星舰国际](https://ws.tsl.rocks/corp/2142b75cc6d1c522c423a860fbda7616d7745f8fee25121ec3a8f26068b0f3b5/) |
 | ❌ | 2024/07/26 | 0-7 | [行星联合军](https://ws.tsl.rocks/corp/5afa03bdcf5439e267c7f2b358e6ae5d16030d3d52b527b58b37236ddfa7fe57/) |
 | ✅ | 2024/07/20 | 4-1 | [Bacon Warriors](https://ws.tsl.rocks/corp/ec62b01fc96adc2a7b7ac4077438e5153eeefc94740fab8309dcb6613e3a7f48/) |
