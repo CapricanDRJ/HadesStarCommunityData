@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​koalition
-description: W:10 L:4 D:1 Bonus ✅
+description: W:10 L:4 D:1 Bonus ❌
 date: 1723135673
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1280 🔻  (157)|
+| ELO Regular | 1280 🔻  (156)|
 | ELO Competitive | 1288 🔻  (228)|
 | Total Matches | 15 |
 | Wins | 10 |
