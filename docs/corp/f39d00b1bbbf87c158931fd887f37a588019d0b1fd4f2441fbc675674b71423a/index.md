@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​普罗米修斯
-description: W:1 L:9 D:0 Bonus ❌
-date: 1722329461
+description: W:1 L:9 D:1 Bonus ❌
+date: 1723294424
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1100 🔻  (1124)|
-| ELO Competitive | 1111 🔻  (1155)|
-| Total Matches | 10 |
+| ELO Regular | 1109 🔺  (1113)|
+| ELO Competitive | 1123 🔺  (1138)|
+| Total Matches | 11 |
 | Wins | 1 |
 | Losses | 9 |
-| Draws | 0 |
+| Draws | 1 |
 
 
 # Whitestar Match Day
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721897461,1721464721,1706176888,1705721310,1705148833,1704538788,1703704816,1703251672,1702472182,1699104820];
+        let timestamps = [1722862424,1721897461,1721464721,1706176888,1705721310,1705148833,1704538788,1703704816,1703251672,1702472182,1699104820];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/08/10 | 9-9 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ❌ | 2024/07/30 | 13-16 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |
 | ❌ | 2024/07/25 | 5-11 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |
 | ❌ | 2024/01/30 | 3-16 | [Северный флот ](https://ws.tsl.rocks/corp/fdf84420bdb3354b3133ca03db3d929e7e0b0a4442f4493df5df1a97684ed195/) |

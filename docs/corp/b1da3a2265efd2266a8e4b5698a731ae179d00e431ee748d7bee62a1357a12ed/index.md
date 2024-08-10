@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​＊Alfa y Omega＊
-description: W:10 L:4 D:0 Bonus ✅
-date: 1722837650
+description: W:11 L:4 D:0 Bonus ✅
+date: 1723300135
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1300 🔺  (125)|
-| ELO Competitive | 1331 🔺  (168)|
-| Total Matches | 14 |
-| Wins | 10 |
+| ELO Regular | 1310 🔺  (113)|
+| ELO Competitive | 1340 🔺  (156)|
+| Total Matches | 15 |
+| Wins | 11 |
 | Losses | 4 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 5 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722405650,1721957866,1721452100,1721437678,1721012742,1720907551,1720466951,1719967560,1719958154,1719440986,1718912682,1718309099,1716912746,1699916881];
+        let timestamps = [1722868135,1722405650,1721957866,1721452100,1721437678,1721012742,1720907551,1720466951,1719967560,1719958154,1719440986,1718912682,1718309099,1716912746,1699916881];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/10 | 26-0 | [C'est pas faux\!](https://ws.tsl.rocks/corp/fa08ee3e0496d13b55f0058cc61560c3e8e5b91628ee583c9eca31ef10c7749b/) |
 | ✅ | 2024/08/05 | 25-3 | [TeddisaurusWrex](https://ws.tsl.rocks/corp/88f37fd0ab1f14c7e06af4173800167f8d1f5db4022c1cd42637da431140ef7a/) |
 | ✅ | 2024/07/31 | 23-3 | [Bunker](https://ws.tsl.rocks/corp/583eeb4aaa577ce5d9806fc637f83d7c02b2a29fa2d47eb38fd658be8ef93588/) |
 | ❌ | 2024/07/25 | 1-10 | [萌新的收留所](https://ws.tsl.rocks/corp/1dd3f70c959e32c27cb4c010162be3799b7c0732115d5c2b7ca5979f48b10f7f/) |

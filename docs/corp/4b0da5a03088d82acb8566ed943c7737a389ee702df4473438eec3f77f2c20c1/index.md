@@ -1,19 +1,21 @@
 ---
 layout: page
 title: ​梨山养老院
-description: W:1 L:0 D:0 Bonus ✅
-date: 1722764625
+description: W:2 L:0 D:0 Bonus ✅
+date: 1723299834
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1211 🔺  (393)|
-| ELO Competitive | 1217 🔺  (428)|
-| Total Matches | 1 |
-| Wins | 1 |
+| ELO Regular | 1225 🔺  (308)|
+| ELO Competitive | 1230 🔺  (375)|
+| Total Matches | 2 |
+| Wins | 2 |
 | Losses | 0 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 
 
 # Whitestar Match Day
@@ -30,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722332625];
+        let timestamps = [1722867834,1722332625];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/10 | 4-1 | [C'est pas faux\!](https://ws.tsl.rocks/corp/fa08ee3e0496d13b55f0058cc61560c3e8e5b91628ee583c9eca31ef10c7749b/) |
 | ✅ | 2024/08/04 | 14-0 | [神圣罗马帝国](https://ws.tsl.rocks/corp/2a71af44aaef82175cd8dfd86c9e3f218a438a7c7e748bae20d8a0d964a984ab/) |
 
 Corporation ID: 4b0da5a03088d82acb8566ed943c7737a389ee702df4473438eec3f77f2c20c1
