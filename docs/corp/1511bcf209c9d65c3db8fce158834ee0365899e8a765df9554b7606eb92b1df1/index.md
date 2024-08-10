@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​太阳系联邦
-description: W:0 L:15 D:0 Bonus ❌
-date: 1719154159
+description: W:0 L:16 D:0 Bonus ❌
+date: 1723271585
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1033 🔻  (1173)|
-| ELO Competitive | 1104 🔻  (1159)|
-| Total Matches | 15 |
+| ELO Regular | 1026 🔻  (1176)|
+| ELO Competitive | 1095 🔻  (1164)|
+| Total Matches | 16 |
 | Wins | 0 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1718722159,1718714643,1712976604,1711176742,1711167128,1708498674,1708492593,1703678413,1703678112,1703163917,1702986440,1700056326,1699604245,1699583500,1698714729];
+        let timestamps = [1722839585,1718722159,1718714643,1712976604,1711176742,1711167128,1708498674,1708492593,1703678413,1703678112,1703163917,1702986440,1700056326,1699604245,1699583500,1698714729];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/10 | 0-24 | [游徒之家](https://ws.tsl.rocks/corp/7ab5f6970c8703095b0589da6e5d648dc64a94ca6d901ef09d4949409b2c44b9/) |
 | ❌ | 2024/06/23 | 0-8 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ❌ | 2024/06/23 | 0-13 | [Star Blazers](https://ws.tsl.rocks/corp/f179acb7b919d9d3185f1fcd66bb17d5e257feab5039bcbf6efb5c8cd6f5c057/) |
 | ❌ | 2024/04/18 | 3-9 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Grater T
-description: W:10 L:11 D:0 Bonus ✅
-date: 1723255960
+description: W:10 L:12 D:0 Bonus ✅
+date: 1723271885
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1226 🔻  (296)|
-| ELO Competitive | 1290 🔻  (223)|
-| Total Matches | 21 |
+| ELO Regular | 1221 🔻  (316)|
+| ELO Competitive | 1295 🔻  (218)|
+| Total Matches | 22 |
 | Wins | 10 |
-| Losses | 11 |
+| Losses | 12 |
 | Draws | 0 |
 | Streak Record | 4 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722823960,1722268021,1722266518,1721662164,1721615883,1721124848,1721099003,1720454026,1719931402,1714516495,1712466400,1710121208,1708875723,1708011496,1707359870,1706862966,1705599300,1703657978,1703063540,1703054224,1699248751];
+        let timestamps = [1722839885,1722823960,1722268021,1722266518,1721662164,1721615883,1721124848,1721099003,1720454026,1719931402,1714516495,1712466400,1710121208,1708875723,1708011496,1707359870,1706862966,1705599300,1703657978,1703063540,1703054224,1699248751];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/10 | 3-37 | [\[Blue\*Nation\]](https://ws.tsl.rocks/corp/38cd283c7bb8ee0390f5624e49a3465b1d4a8c789cc2d501f38918a16f6140e2/) |
 | ❌ | 2024/08/10 | 0-27 | [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1/) |
 | ❌ | 2024/08/03 | 9-22 | [Bl@ck/Galaxy ](https://ws.tsl.rocks/corp/76f8fe0dcd8b8c1cb8e0083f14c0b36c23bb9757a3af0f191b567774c02222a3/) |
 | ✅ | 2024/08/03 | 12-2 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
