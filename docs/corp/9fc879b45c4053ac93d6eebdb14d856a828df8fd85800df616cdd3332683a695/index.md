@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Free Thinkers 2
-description: W:3 L:43 D:1 Bonus ❌
-date: 1721545729
+description: W:3 L:44 D:1 Bonus ❌
+date: 1723280900
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 947 🔻  (1197)|
-| ELO Competitive | 972 🔻  (1202)|
-| Total Matches | 47 |
+| ELO Regular | 935 🔻  (1199)|
+| ELO Competitive | 961 🔻  (1203)|
+| Total Matches | 48 |
 | Wins | 3 |
-| Losses | 43 |
+| Losses | 44 |
 | Draws | 1 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721113729,1719169931,1718735687,1718209327,1717743428,1717308832,1716863758,1716429256,1715963262,1715517093,1715079934,1714619235,1714154110,1713709746,1713267776,1712810748,1712374454,1711900302,1711437261,1710916242,1710482356,1709991995,1709558417,1709125424,1708690614,1708238670,1707805052,1707315338,1706876487,1706421207,1705970445,1705532894,1705092340,1704636161,1704172167,1703738820,1703283532,1702803078,1702345957,1701911065,1701475779,1701027470,1700556498,1700117701,1699682716,1699235233,1698797393];
+        let timestamps = [1722848900,1721113729,1719169931,1718735687,1718209327,1717743428,1717308832,1716863758,1716429256,1715963262,1715517093,1715079934,1714619235,1714154110,1713709746,1713267776,1712810748,1712374454,1711900302,1711437261,1710916242,1710482356,1709991995,1709558417,1709125424,1708690614,1708238670,1707805052,1707315338,1706876487,1706421207,1705970445,1705532894,1705092340,1704636161,1704172167,1703738820,1703283532,1702803078,1702345957,1701911065,1701475779,1701027470,1700556498,1700117701,1699682716,1699235233,1698797393];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -116,8 +116,8 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) | 0 | 3 | 1 | 4 |
 | [Tuatha De Danan](https://ws.tsl.rocks/corp/7741dbd0c9e7ddbc162e374691cb3346e4bb6600840f7962ec4a4414d5d2f780/) | 0 | 2 | 0 | 2 |
-| [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) | 0 | 2 | 1 | 3 |
 | [Space Pirates](https://ws.tsl.rocks/corp/87eff6e453b6f020baf8cb8930236b566161e22814cdbdc77d696c5812684bc6/) | 1 | 1 | 0 | 2 |
 | [华夏舰队](https://ws.tsl.rocks/corp/abd6d05a100ffdde2d15abd725a209bfbbf069b60b10ddeac88e88da66191472/) | 0 | 2 | 0 | 2 |
 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 0 | 2 | 0 | 2 |
@@ -127,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/10 | 0-37 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
 | ❌ | 2024/07/21 | 0-44 | [Ark](https://ws.tsl.rocks/corp/febd79d038ed9af667e201309060d9662ba825ba9be2b5b95418ac20a8e70c80/) |
 | ❌ | 2024/06/28 | 5-15 | [CTG](https://ws.tsl.rocks/corp/9647a8507dfa5637a217d2d6a0ad47aefb6a4563f910ad46376c228450cff43c/) |
 | ❌ | 2024/06/23 | 0-44 | [Tuatha De Danan](https://ws.tsl.rocks/corp/7741dbd0c9e7ddbc162e374691cb3346e4bb6600840f7962ec4a4414d5d2f780/) |
