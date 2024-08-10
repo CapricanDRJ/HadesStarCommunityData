@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​КОРПОРАЦИЯ ЗЛА
-description: W:7 L:38 D:0 Bonus ❌
-date: 1722854475
+description: W:7 L:40 D:0 Bonus ❌
+date: 1723289615
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 908 🔻  (1201)|
-| ELO Competitive | 1085 🔻  (1177)|
-| Total Matches | 45 |
+| ELO Regular | 895 🔻  (1202)|
+| ELO Competitive | 1084 🔻  (1179)|
+| Total Matches | 47 |
 | Wins | 7 |
-| Losses | 38 |
+| Losses | 40 |
 | Draws | 0 |
 | Streak Record | 4 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722422475,1722419808,1721985809,1721985809,1721549472,1721548863,1721109302,1721091491,1720654782,1720651477,1720199185,1720199185,1719764025,1719305451,1719281132,1718839061,1718836069,1718402714,1718399408,1717951947,1717943733,1717502901,1717496982,1717059166,1716614310,1716612831,1716176285,1716175384,1715739643,1715280000,1714844086,1713971432,1713969098,1712484128,1710792458,1710094765,1709069242,1708533460,1708529553,1706882799,1706080427,1704026118,1703530862,1700385790,1699127961];
+        let timestamps = [1722857615,1722857315,1722422475,1722419808,1721985809,1721985809,1721549472,1721548863,1721109302,1721091491,1720654782,1720651477,1720199185,1720199185,1719764025,1719305451,1719281132,1718839061,1718836069,1718402714,1718399408,1717951947,1717943733,1717502901,1717496982,1717059166,1716614310,1716612831,1716176285,1716175384,1715739643,1715280000,1714844086,1713971432,1713969098,1712484128,1710792458,1710094765,1709069242,1708533460,1708529553,1706882799,1706080427,1704026118,1703530862,1700385790,1699127961];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) | 0 | 2 | 0 | 2 |
 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) | 0 | 7 | 0 | 7 |
 | [Axiom](https://ws.tsl.rocks/corp/4000a010c205d318c766ba14fe1836eaab6652f1738a88cce8a8c69d0283e1b0/) | 0 | 9 | 0 | 9 |
 | [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046/) | 0 | 2 | 0 | 2 |
@@ -127,6 +128,8 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/10 | 0-9 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
+| ❌ | 2024/08/10 | 0-3 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) |
 | ❌ | 2024/08/05 | 0-5 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) |
 | ❌ | 2024/08/05 | 0-3 | [星海扬帆](https://ws.tsl.rocks/corp/9cf2d9a2c07a0b8030f9a8275f9ebd3973759c2b60bed95ccb9a3f152aa0b1e4/) |
 | ❌ | 2024/07/31 | 0-18 | [Hungary First](https://ws.tsl.rocks/corp/d678326dd81ae0cf5b2bb37d15dcfe7fa1477dbb6e063fbd0d34c69b5942d31b/) |

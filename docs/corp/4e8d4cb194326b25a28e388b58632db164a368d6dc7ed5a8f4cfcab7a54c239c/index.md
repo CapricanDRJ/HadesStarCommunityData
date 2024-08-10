@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​Тихий Омут
-description: W:12 L:44 D:2 Bonus ✅
-date: 1722854475
+description: W:13 L:44 D:2 Bonus ✅
+date: 1723291649
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1039 🔺  (1169)|
-| ELO Competitive | 1231 🔺  (371)|
-| Total Matches | 58 |
-| Wins | 12 |
+| ELO Regular | 1056 🔺  (1165)|
+| ELO Competitive | 1243 🔺  (338)|
+| Total Matches | 59 |
+| Wins | 13 |
 | Losses | 44 |
 | Draws | 2 |
+| Streak | 2 |
 | Streak Record | 2 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722422475,1722422175,1721986223,1721985509,1721550065,1721549472,1721096299,1721086985,1720653280,1720651477,1720200988,1720200688,1719762100,1719757712,1719281132,1719276609,1718839661,1718839661,1718399408,1718399108,1717964015,1717945170,1717509473,1717492474,1717059166,1717058790,1716611017,1716610716,1716174783,1716174782,1715717501,1715715397,1715281238,1714845869,1714845681,1714404697,1713971732,1713971432,1713538502,1713530387,1713089588,1713085382,1712653304,1712639769,1712203483,1712203483,1711741584,1711741344,1711303608,1711303566,1710870875,1710868771,1710261822,1710261822,1709767546,1709757931,1709298479,1709298319];
+        let timestamps = [1722859649,1722422475,1722422175,1721986223,1721985509,1721550065,1721549472,1721096299,1721086985,1720653280,1720651477,1720200988,1720200688,1719762100,1719757712,1719281132,1719276609,1718839661,1718839661,1718399408,1718399108,1717964015,1717945170,1717509473,1717492474,1717059166,1717058790,1716611017,1716610716,1716174783,1716174782,1715717501,1715715397,1715281238,1714845869,1714845681,1714404697,1713971732,1713971432,1713538502,1713530387,1713089588,1713085382,1712653304,1712639769,1712203483,1712203483,1711741584,1711741344,1711303608,1711303566,1710870875,1710868771,1710261822,1710261822,1709767546,1709757931,1709298479,1709298319];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,9 +118,9 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [11th Engineers](https://ws.tsl.rocks/corp/7341e9a33a1baf2162870c795632dcd551d3c624b06456dac041fa049ba67a9a/) | 2 | 1 | 0 | 3 |
 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) | 7 | 0 | 0 | 7 |
 | [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046/) | 4 | 1 | 1 | 6 |
-| [11th Engineers](https://ws.tsl.rocks/corp/7341e9a33a1baf2162870c795632dcd551d3c624b06456dac041fa049ba67a9a/) | 1 | 1 | 0 | 2 |
 | [Axiom](https://ws.tsl.rocks/corp/4000a010c205d318c766ba14fe1836eaab6652f1738a88cce8a8c69d0283e1b0/) | 0 | 9 | 0 | 9 |
 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 0 | 8 | 1 | 9 |
 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) | 0 | 2 | 0 | 2 |
@@ -128,6 +129,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/10 | 9-0 | [11th Engineers](https://ws.tsl.rocks/corp/7341e9a33a1baf2162870c795632dcd551d3c624b06456dac041fa049ba67a9a/) |
 | ✅ | 2024/08/05 | 5-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
 | ❌ | 2024/08/05 | 2-7 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ↔️ | 2024/07/31 | 0-0 | [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046/) |

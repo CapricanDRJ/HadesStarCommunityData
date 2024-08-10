@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​宇宙银河帝国
-description: W:22 L:12 D:3 Bonus ✅
-date: 1722823227
+description: W:23 L:12 D:3 Bonus ✅
+date: 1723288413
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1314 🔺  (103)|
-| ELO Competitive | 1385 🔺  (95)|
-| Total Matches | 37 |
-| Wins | 22 |
+| ELO Regular | 1317 🔺  (101)|
+| ELO Competitive | 1390 🔺  (90)|
+| Total Matches | 38 |
+| Wins | 23 |
 | Losses | 12 |
 | Draws | 3 |
+| Streak | 2 |
 | Streak Record | 5 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722391227,1721875225,1721442784,1720933992,1720885005,1720442602,1720439297,1719987301,1719963262,1719495972,1719488158,1718978785,1718959551,1718424046,1717988445,1717441390,1717434775,1717002300,1716983362,1716493249,1716476421,1716027858,1716007646,1715392698,1715340721,1714836273,1714826655,1714224116,1713640946,1713031808,1712410212,1711802041,1711183052,1710595334,1709951095,1709043996,1706871980];
+        let timestamps = [1722856413,1722391227,1721875225,1721442784,1720933992,1720885005,1720442602,1720439297,1719987301,1719963262,1719495972,1719488158,1718978785,1718959551,1718424046,1717988445,1717441390,1717434775,1717002300,1716983362,1716493249,1716476421,1716027858,1716007646,1715392698,1715340721,1714836273,1714826655,1714224116,1713640946,1713031808,1712410212,1711802041,1711183052,1710595334,1709951095,1709043996,1706871980];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/10 | 17-0 | [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046/) |
 | ✅ | 2024/08/05 | 14-2 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |
 | ↔️ | 2024/07/30 | 8-8 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |
 | ✅ | 2024/07/25 | 24-9 | [萌新港\(大佬港\)](https://ws.tsl.rocks/corp/e6d9b9da7a037e3572cb594dfeba7b282b66509228c9f4f1b2138f873caa3cf3/) |
