@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​DeutschlandGmbH
-description: W:2 L:3 D:0 Bonus ✅
+description: W:2 L:3 D:0 Bonus ❌
 date: 1722632711
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔺  (643)|
+| ELO Regular | 1185 🔺  (642)|
 | ELO Competitive | 1194 🔺  (594)|
 | Total Matches | 5 |
 | Wins | 2 |
