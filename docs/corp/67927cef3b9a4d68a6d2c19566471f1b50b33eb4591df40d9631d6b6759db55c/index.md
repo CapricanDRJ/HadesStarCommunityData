@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​星际集团
-description: W:5 L:5 D:2 Bonus ❌
-date: 1722906729
+description: W:6 L:5 D:2 Bonus ✅
+date: 1723374961
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔻  (882)|
-| ELO Competitive | 1210 🔻  (496)|
-| Total Matches | 12 |
-| Wins | 5 |
+| ELO Regular | 1186 🔺  (609)|
+| ELO Competitive | 1223 🔺  (396)|
+| Total Matches | 13 |
+| Wins | 6 |
 | Losses | 5 |
 | Draws | 2 |
 | Streak Record | 2 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722474729,1722041705,1721524624,1721020556,1721014846,1720512325,1720512325,1720078067,1720005331,1719586724,1719152494,1718710135];
+        let timestamps = [1722942961,1722474729,1722041705,1721524624,1721020556,1721014846,1720512325,1720512325,1720078067,1720005331,1719586724,1719152494,1718710135];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/11 | 1-0 | [The Belters](https://ws.tsl.rocks/corp/1cd5dde249c27c1353d5526f2b41bdaa54d289a3d5eeba035a7a49f382f10a7b/) |
 | ❌ | 2024/08/06 | 0-3 | [oen](https://ws.tsl.rocks/corp/33d062d54a7aaaa60ae11e07fba73e1b28f5c9f323ff4a98f5810933e7d2b41f/) |
 | ❌ | 2024/08/01 | 0-13 | [使命白星](https://ws.tsl.rocks/corp/88e828c55c07286950a3296b00ca2a7a9cc2f1a0139e9cf4c6e54229f821e952/) |
 | ✅ | 2024/07/26 | 1-0 | [以太超星团](https://ws.tsl.rocks/corp/327addf616128dc5b01013e29e850c76d22ae27af199bcc6bba3b92cee7818ae/) |

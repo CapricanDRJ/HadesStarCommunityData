@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​使命白星分团
-description: W:0 L:2 D:0 Bonus ❌
-date: 1722931406
+description: W:0 L:3 D:0 Bonus ❌
+date: 1723378267
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1178 🔻  (782)|
-| ELO Competitive | 1179 🔻  (877)|
-| Total Matches | 2 |
+| ELO Regular | 1165 🔻  (918)|
+| ELO Competitive | 1167 🔻  (997)|
+| Total Matches | 3 |
 | Wins | 0 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722499406,1722030589];
+        let timestamps = [1722946267,1722499406,1722030589];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/11 | 0-10 | [ 边域](https://ws.tsl.rocks/corp/b982530486b86a4944af4474183f3fa6aca9db7a2a4195c018930f68d6ede865/) |
 | ❌ | 2024/08/06 | 0-25 | [RGW](https://ws.tsl.rocks/corp/48a0b2c0f203025d10d1217dbcc5e27f3e31f56f2c407d61219c24ec88446be7/) |
 | ❌ | 2024/07/31 | 0-15 | [Shrimp City](https://ws.tsl.rocks/corp/eae9b3a1f9dd6b4a1fb39d6aedfe84a80662abe6b181bedcfd7ec15d931b8e84/) |
 
