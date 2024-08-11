@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Corporation
-description: W:15 L:4 D:0 Bonus ❌
-date: 1721697194
+description: W:16 L:4 D:0 Bonus ✅
+date: 1723404717
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1311 🔻  (111)|
-| ELO Competitive | 1338 🔻  (161)|
-| Total Matches | 19 |
-| Wins | 15 |
+| ELO Regular | 1323 🔺  (95)|
+| ELO Competitive | 1354 🔺  (132)|
+| Total Matches | 20 |
+| Wins | 16 |
 | Losses | 4 |
 | Draws | 0 |
 | Streak Record | 11 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721265194,1720387617,1719596641,1717090648,1715941025,1715407118,1714759052,1713003347,1706174184,1705658801,1704378618,1703847005,1703242054,1702594811,1701545901,1700774398,1700249041,1699550439,1699115339];
+        let timestamps = [1722972717,1721265194,1720387617,1719596641,1717090648,1715941025,1715407118,1714759052,1713003347,1706174184,1705658801,1704378618,1703847005,1703242054,1702594811,1701545901,1700774398,1700249041,1699550439,1699115339];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/11 | 36-2 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) |
 | ❌ | 2024/07/23 | 10-11 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 | ✅ | 2024/07/12 | 28-0 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |
 | ❌ | 2024/07/03 | 14-22 | [Bunker](https://ws.tsl.rocks/corp/583eeb4aaa577ce5d9806fc637f83d7c02b2a29fa2d47eb38fd658be8ef93588/) |

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Killers from Ua
-description: W:5 L:3 D:0 Bonus ✅
+description: W:5 L:3 D:0 Bonus ❌
 date: 1722793779
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

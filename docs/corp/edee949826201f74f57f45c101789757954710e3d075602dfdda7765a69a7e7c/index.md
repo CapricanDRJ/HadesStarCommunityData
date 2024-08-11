@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​P!RAT£ SHIP
-description: W:9 L:6 D:1 Bonus ✅
+description: W:9 L:6 D:1 Bonus ❌
 date: 1722793478
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1250 🔺  (218)|
+| ELO Regular | 1250 🔺  (217)|
 | ELO Competitive | 1254 🔺  (304)|
 | Total Matches | 16 |
 | Wins | 9 |

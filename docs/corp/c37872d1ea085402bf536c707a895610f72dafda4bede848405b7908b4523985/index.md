@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Galaktika corp
-description: W:16 L:5 D:2 Bonus ❌
-date: 1722735881
+description: W:16 L:6 D:2 Bonus ❌
+date: 1723410728
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1320 🔺  (96)|
-| ELO Competitive | 1351 🔺  (139)|
-| Total Matches | 23 |
+| ELO Regular | 1298 🔻  (129)|
+| ELO Competitive | 1336 🔻  (164)|
+| Total Matches | 24 |
 | Wins | 16 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 2 |
-| Streak | 2 |
 | Streak Record | 5 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722303881,1721712918,1721219212,1720766585,1720149900,1719287424,1718823133,1718357791,1717572119,1717078926,1715793511,1715203724,1712776499,1711185455,1709052712,1707999474,1707077836,1706633978,1705162660,1703425079,1702311692,1701443114,1699964420];
+        let timestamps = [1722978728,1722303881,1721712918,1721219212,1720766585,1720149900,1719287424,1718823133,1718357791,1717572119,1717078926,1715793511,1715203724,1712776499,1711185455,1709052712,1707999474,1707077836,1706633978,1705162660,1703425079,1702311692,1701443114,1699964420];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,12 +117,13 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
-| [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) | 2 | 0 | 0 | 2 |
+| [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) | 2 | 1 | 0 | 3 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/11 | 0-14 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
 | ✅ | 2024/08/04 | 12-1 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |
 | ✅ | 2024/07/28 | 17-0 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |
 | ❌ | 2024/07/22 | 3-24 | [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) |
