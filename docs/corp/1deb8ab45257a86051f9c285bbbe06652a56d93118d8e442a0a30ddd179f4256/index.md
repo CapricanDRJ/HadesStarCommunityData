@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​星际联盟（中国）
-description: W:8 L:9 D:2 Bonus ❌
-date: 1722754710
+description: W:8 L:10 D:2 Bonus ❌
+date: 1723389108
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1215 🔺  (352)|
-| ELO Competitive | 1250 🔺  (310)|
-| Total Matches | 19 |
+| ELO Regular | 1207 🔻  (408)|
+| ELO Competitive | 1243 🔻  (338)|
+| Total Matches | 20 |
 | Wins | 8 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 2 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722322710,1721867714,1721390495,1721359040,1718288959,1716476421,1714499951,1713449564,1712842595,1712103128,1711635266,1711041251,1710416554,1709820122,1709211358,1707398630,1706882134,1706332255,1703856022];
+        let timestamps = [1722957108,1722322710,1721867714,1721390495,1721359040,1718288959,1716476421,1714499951,1713449564,1712842595,1712103128,1711635266,1711041251,1710416554,1709820122,1709211358,1707398630,1706882134,1706332255,1703856022];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/11 | 3-33 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ↔️ | 2024/08/04 | 4-4 | [Retarts](https://ws.tsl.rocks/corp/1556331f722d00268e3c524b12efedac51051cf48e46b2513675774b9315a155/) |
 | ✅ | 2024/07/30 | 4-3 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
 | ❌ | 2024/07/24 | 0-19 | [StellaMysterium](https://ws.tsl.rocks/corp/cfaaa81ed93cc9361ade470c3414c73ecf77068badd68d624c7b3f486d142b10/) |
