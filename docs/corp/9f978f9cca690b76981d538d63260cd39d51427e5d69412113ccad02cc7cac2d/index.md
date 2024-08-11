@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Soylent Corp.
-description: W:24 L:11 D:0 Bonus ✅
-date: 1722810610
+description: W:24 L:12 D:0 Bonus ✅
+date: 1723357834
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1298 🔺  (129)|
-| ELO Competitive | 1345 🔺  (147)|
-| Total Matches | 35 |
+| ELO Regular | 1288 🔻  (138)|
+| ELO Competitive | 1335 🔻  (162)|
+| Total Matches | 36 |
 | Wins | 24 |
-| Losses | 11 |
+| Losses | 12 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 7 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722378610,1721851190,1719226118,1718614872,1718021801,1716913648,1715719604,1715032469,1714474707,1713847949,1713309549,1712563762,1712042728,1711377469,1710942980,1710490767,1710034665,1709543093,1709069242,1708620301,1708162042,1707665618,1707220982,1706715717,1706072916,1705592387,1705112774,1705092340,1704621434,1704082613,1703619215,1703008245,1702487213,1702021054,1701445819];
+        let timestamps = [1722925834,1722378610,1721851190,1719226118,1718614872,1718021801,1716913648,1715719604,1715032469,1714474707,1713847949,1713309549,1712563762,1712042728,1711377469,1710942980,1710490767,1710034665,1709543093,1709069242,1708620301,1708162042,1707665618,1707220982,1706715717,1706072916,1705592387,1705112774,1705092340,1704621434,1704082613,1703619215,1703008245,1702487213,1702021054,1701445819];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -129,6 +128,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/11 | 12-23 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) |
 | ✅ | 2024/08/04 | 22-13 | [Tuatha De Danan](https://ws.tsl.rocks/corp/7741dbd0c9e7ddbc162e374691cb3346e4bb6600840f7962ec4a4414d5d2f780/) |
 | ✅ | 2024/07/29 | 32-17 | [New Star](https://ws.tsl.rocks/corp/76701c008d6499f16ec942e61adc3d6d80e931ff9407f8281b492789f8fab908/) |
 | ❌ | 2024/06/29 | 7-32 | [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/) |

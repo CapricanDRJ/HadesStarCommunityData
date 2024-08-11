@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Nine's Own Goal
-description: W:27 L:16 D:2 Bonus ✅
+description: W:27 L:16 D:2 Bonus ❌
 date: 1722734278
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

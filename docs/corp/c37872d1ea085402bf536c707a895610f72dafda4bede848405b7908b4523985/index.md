@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Galaktika corp
-description: W:16 L:5 D:2 Bonus ✅
+description: W:16 L:5 D:2 Bonus ❌
 date: 1722735881
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
