@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​ギャラクシー富士山
-description: W:2 L:4 D:0 Bonus ❌
-date: 1708471446
+description: W:2 L:4 D:1 Bonus ❌
+date: 1723347017
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1166 🔻  (913)|
-| ELO Competitive | 1167 🔻  (999)|
-| Total Matches | 6 |
+| ELO Regular | 1160 🔻  (950)|
+| ELO Competitive | 1165 🔻  (1010)|
+| Total Matches | 7 |
 | Wins | 2 |
 | Losses | 4 |
-| Draws | 0 |
+| Draws | 1 |
 
 
 # Whitestar Match Day
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1708039446,1702264208,1701694665,1700887702,1700224993,1699520316];
+        let timestamps = [1722915017,1708039446,1702264208,1701694665,1700887702,1700224993,1699520316];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/08/11 | 3-3 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
 | ❌ | 2024/02/20 | 2-12 | [Spaceballs](https://ws.tsl.rocks/corp/1e54a7ba8156a65b15f7f1358b682a10f856acb0f96d9e3b582c4ea175905839/) |
 | ❌ | 2023/12/16 | 0-26 | [\[Blue\*Nation\]](https://ws.tsl.rocks/corp/38cd283c7bb8ee0390f5624e49a3465b1d4a8c789cc2d501f38918a16f6140e2/) |
 | ❌ | 2023/12/09 | 3-8 | [the Rubber Duck](https://ws.tsl.rocks/corp/bfd6a197d72d0b643c6693e66b9a10db61f75ae242a0bd7c09bdd553ae951ee6/) |
