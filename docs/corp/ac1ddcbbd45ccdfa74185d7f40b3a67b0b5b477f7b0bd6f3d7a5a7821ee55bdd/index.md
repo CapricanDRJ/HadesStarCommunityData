@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​Widow Makers
-description: W:4 L:2 D:0 Bonus ✅
+description: W:4 L:2 D:0 Bonus ❌
 date: 1722808807
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1236 🔺  (261)|
+| ELO Regular | 1236 🔺  (259)|
 | ELO Competitive | 1248 🔺  (318)|
 | Total Matches | 6 |
 | Wins | 4 |

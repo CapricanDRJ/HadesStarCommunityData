@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Soylent Corp.
-description: W:24 L:12 D:0 Bonus ✅
+description: W:24 L:12 D:0 Bonus ❌
 date: 1723357834
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

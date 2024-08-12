@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​星海扬帆
-description: W:20 L:16 D:0 Bonus ✅
-date: 1722851808
+description: W:21 L:17 D:0 Bonus ✅
+date: 1723428035
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1246 🔺  (226)|
-| ELO Competitive | 1367 🔺  (119)|
-| Total Matches | 36 |
-| Wins | 20 |
-| Losses | 16 |
+| ELO Regular | 1248 🔻  (221)|
+| ELO Competitive | 1376 🔺  (106)|
+| Total Matches | 38 |
+| Wins | 21 |
+| Losses | 17 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 4 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722419808,1722419771,1721961171,1721960870,1720691744,1719970454,1719938919,1718992600,1718973975,1718471534,1718366789,1717956893,1717680615,1717157654,1716623612,1716558439,1714479215,1708424680,1707987154,1707403438,1707002406,1706970850,1706550436,1706536307,1706103865,1705671723,1705088133,1705079417,1704461859,1704445631,1703866241,1703584048,1703347243,1703135969,1702646197,1702032474];
+        let timestamps = [1722996035,1722993450,1722419808,1722419771,1721961171,1721960870,1720691744,1719970454,1719938919,1718992600,1718973975,1718471534,1718366789,1717956893,1717680615,1717157654,1716623612,1716558439,1714479215,1708424680,1707987154,1707403438,1707002406,1706970850,1706550436,1706536307,1706103865,1705671723,1705088133,1705079417,1704461859,1704445631,1703866241,1703584048,1703347243,1703135969,1702646197,1702032474];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,12 +117,15 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Black Star llc\.](https://ws.tsl.rocks/corp/f6cd5aed527efed3a402f931784d68b5b7201b317118a60bd3d81b551ee87330/) | 1 | 1 | 0 | 2 |
 | [2ND\-R8 Corp\.](https://ws.tsl.rocks/corp/e97866623598a98454b3a4724b472dc171f5e1aff84b076c43d021f0fabdc702/) | 1 | 1 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/12 | 0-10 | [Black Star llc\.](https://ws.tsl.rocks/corp/f6cd5aed527efed3a402f931784d68b5b7201b317118a60bd3d81b551ee87330/) |
+| ✅ | 2024/08/12 | 14-3 | [oen](https://ws.tsl.rocks/corp/33d062d54a7aaaa60ae11e07fba73e1b28f5c9f323ff4a98f5810933e7d2b41f/) |
 | ✅ | 2024/08/05 | 3-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
 | ✅ | 2024/08/05 | 22-0 | [Axiom](https://ws.tsl.rocks/corp/4000a010c205d318c766ba14fe1836eaab6652f1738a88cce8a8c69d0283e1b0/) |
 | ❌ | 2024/07/31 | 6-26 | [Últimafronteira](https://ws.tsl.rocks/corp/27e96f432a078f197bb5e4c34480ccabc05a9ee48e7bb04d95288fda15e94d3c/) |
