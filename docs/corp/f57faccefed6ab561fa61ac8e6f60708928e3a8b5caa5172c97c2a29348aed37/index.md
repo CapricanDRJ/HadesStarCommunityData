@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​公共星际集团
-description: W:7 L:21 D:2 Bonus ✅
+description: W:7 L:21 D:2 Bonus ❌
 date: 1723284510
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
