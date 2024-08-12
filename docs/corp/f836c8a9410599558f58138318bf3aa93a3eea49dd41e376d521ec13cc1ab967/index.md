@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Danish Oil
-description: W:0 L:1 D:0 Bonus ❌
-date: 1717153608
+description: W:0 L:2 D:0 Bonus ❌
+date: 1723461506
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (638)|
-| ELO Competitive | 1186 🔻  (737)|
-| Total Matches | 1 |
+| ELO Regular | 1171 🔻  (857)|
+| ELO Competitive | 1173 🔻  (933)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1716721608];
+        let timestamps = [1723029506,1716721608];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/12 | 0-21 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ❌ | 2024/05/31 | 0-3 | [星环建设集团](https://ws.tsl.rocks/corp/85422294545c4561b468821bbbbe277a0d7f09c6ab45fedb2a43cbaa36d32f63/) |
 
 Corporation ID: f836c8a9410599558f58138318bf3aa93a3eea49dd41e376d521ec13cc1ab967

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Stella☆Glow
-description: W:27 L:12 D:1 Bonus ❌
-date: 1722820523
+description: W:27 L:13 D:1 Bonus ❌
+date: 1723462408
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1309 🔻  (115)|
-| ELO Competitive | 1346 🔻  (146)|
-| Total Matches | 40 |
+| ELO Regular | 1305 🔻  (122)|
+| ELO Competitive | 1340 🔻  (155)|
+| Total Matches | 41 |
 | Wins | 27 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 1 |
 | Streak Record | 9 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722388523,1721825640,1721214705,1720585655,1719975280,1719437381,1718785865,1718212934,1717603981,1716992681,1716308482,1715795315,1715178183,1714574767,1713964670,1713359423,1712745245,1712152400,1711540319,1710942980,1710345649,1709731785,1709131735,1708530455,1707912030,1707304520,1706715717,1706097554,1705503438,1704900614,1704306498,1703692239,1703014557,1702483605,1701877700,1701300965,1700670403,1700061136,1699534211,1698871022];
+        let timestamps = [1723030408,1722388523,1721825640,1721214705,1720585655,1719975280,1719437381,1718785865,1718212934,1717603981,1716992681,1716308482,1715795315,1715178183,1714574767,1713964670,1713359423,1712745245,1712152400,1711540319,1710942980,1710345649,1709731785,1709131735,1708530455,1707912030,1707304520,1706715717,1706097554,1705503438,1704900614,1704306498,1703692239,1703014557,1702483605,1701877700,1701300965,1700670403,1700061136,1699534211,1698871022];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -127,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/12 | 8-29 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) |
 | ❌ | 2024/08/05 | 5-21 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) |
 | ✅ | 2024/07/29 | 31-2 | [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) |
 | ❌ | 2024/07/22 | 3-48 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/0c33734edc95a1bac88a9df7e0853a3bd835ea682673f097db1c75d6bb14c8da/) |
