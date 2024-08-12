@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​BlackDawn
-description: W:1 L:16 D:5 Bonus ❌
-date: 1722978889
+description: W:1 L:17 D:5 Bonus ❌
+date: 1723493366
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1031 🔻  (1178)|
-| ELO Competitive | 1051 🔻  (1197)|
-| Total Matches | 22 |
+| ELO Regular | 1020 🔻  (1185)|
+| ELO Competitive | 1043 🔻  (1197)|
+| Total Matches | 23 |
 | Wins | 1 |
-| Losses | 16 |
+| Losses | 17 |
 | Draws | 5 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722546889,1722007946,1721500787,1720723310,1720267098,1719658075,1719208091,1718759126,1718229165,1717696248,1717200031,1716714883,1716159173,1715660112,1715210033,1714540211,1714042337,1713414111,1712945957,1706074719,1705589382,1705113074];
+        let timestamps = [1723061366,1722546889,1722007946,1721500787,1720723310,1720267098,1719658075,1719208091,1718759126,1718229165,1717696248,1717200031,1716714883,1716159173,1715660112,1715210033,1714540211,1714042337,1713414111,1712945957,1706074719,1705589382,1705113074];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/12 | 0-1 | [империя тьмы](https://ws.tsl.rocks/corp/4eb22a1b793e5d03579cea15c873b1bef56fea02420a4e55edb18a200f7fc46a/) |
 | ❌ | 2024/08/06 | 0-7 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ❌ | 2024/07/31 | 0-1 | [Armored Union ](https://ws.tsl.rocks/corp/4dacc02ca314ab864578421db538b0eb10b0c8c81dc0edd91c5090717d087c7f/) |
 | ❌ | 2024/07/25 | 0-2 | [Splendid](https://ws.tsl.rocks/corp/8d0fd2cb62785c9876643edf419b241f0f86e339052e5d3e4fab40b0416828dd/) |

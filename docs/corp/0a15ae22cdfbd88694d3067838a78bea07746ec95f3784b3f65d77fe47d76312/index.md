@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​GhostNakcoorp
-description: W:23 L:17 D:0 Bonus ❌
-date: 1722808807
+description: W:23 L:18 D:0 Bonus ❌
+date: 1723497273
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1223 🔻  (311)|
-| ELO Competitive | 1245 🔻  (327)|
-| Total Matches | 40 |
+| ELO Regular | 1209 🔻  (403)|
+| ELO Competitive | 1235 🔻  (363)|
+| Total Matches | 41 |
 | Wins | 23 |
-| Losses | 17 |
+| Losses | 18 |
 | Draws | 0 |
 | Streak Record | 6 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722376807,1721836160,1721313871,1720730825,1720148398,1719340314,1718660862,1718076198,1717449207,1716915753,1716296160,1715616848,1714393274,1713910145,1713320663,1712883163,1712400595,1711931855,1711101922,1710361277,1709859185,1708937318,1708498674,1708058073,1707611227,1707188231,1707178016,1706745771,1706027840,1705364608,1704682745,1704231974,1703640853,1702986440,1701634264,1700884096,1700448609,1700015756,1699489146,1699051037];
+        let timestamps = [1723065273,1722376807,1721836160,1721313871,1720730825,1720148398,1719340314,1718660862,1718076198,1717449207,1716915753,1716296160,1715616848,1714393274,1713910145,1713320663,1712883163,1712400595,1711931855,1711101922,1710361277,1709859185,1708937318,1708498674,1708058073,1707611227,1707188231,1707178016,1706745771,1706027840,1705364608,1704682745,1704231974,1703640853,1702986440,1701634264,1700884096,1700448609,1700015756,1699489146,1699051037];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/12 | 6-35 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) |
 | ❌ | 2024/08/04 | 4-23 | [Widow Makers](https://ws.tsl.rocks/corp/ac1ddcbbd45ccdfa74185d7f40b3a67b0b5b477f7b0bd6f3d7a5a7821ee55bdd/) |
 | ❌ | 2024/07/29 | 5-12 | [Wompwompway ](https://ws.tsl.rocks/corp/f7c3d7f512c4de3883e63b1a5771ab3ef3938054f98711e933bc7dd064fb8363/) |
 | ❌ | 2024/07/23 | 3-23 | [Quilliance](https://ws.tsl.rocks/corp/6a4f8febc4066842f85c0373a0d33b6501860f2cc4f61b64761d31ff472c28fe/) |
