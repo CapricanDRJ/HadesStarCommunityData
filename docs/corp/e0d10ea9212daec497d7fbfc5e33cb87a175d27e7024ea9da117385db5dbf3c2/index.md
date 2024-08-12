@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​OKC THUNDER 
-description: W:2 L:4 D:0 Bonus ❌
-date: 1723030270
+description: W:2 L:5 D:0 Bonus ❌
+date: 1723474731
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1193 🔻  (501)|
-| ELO Competitive | 1200 🔻  (544)|
-| Total Matches | 6 |
+| ELO Regular | 1187 🔻  (563)|
+| ELO Competitive | 1196 🔻  (590)|
+| Total Matches | 7 |
 | Wins | 2 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722598270,1722052224,1721492673,1704287863,1703248366,1702217018];
+        let timestamps = [1723042731,1722598270,1722052224,1721492673,1704287863,1703248366,1702217018];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -122,6 +122,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/12 | 2-31 | [OntarioDawn](https://ws.tsl.rocks/corp/1a002c71f3aba5da5918941fa2ba4dbbfc183ad52d97d44a25718e07e6b08a03/) |
 | ❌ | 2024/08/07 | 9-37 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ❌ | 2024/08/01 | 4-33 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |
 | ❌ | 2024/07/25 | 0-37 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) |

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​新?的星际集团?
-description: W:6 L:4 D:0 Bonus ✅
-date: 1723461506
+description: W:6 L:5 D:0 Bonus ✅
+date: 1723469622
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1221 🔺  (316)|
+| ELO Regular | 1205 🔻  (417)|
 | ELO Competitive | 1249 🔺  (313)|
-| Total Matches | 10 |
+| Total Matches | 11 |
 | Wins | 6 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
 | Streak Record | 3 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723029506,1722595265,1722593762,1722161630,1721657655,1721652544,1721219212,1721092693,1720591966,1719722998];
+        let timestamps = [1723037622,1723029506,1722595265,1722593762,1722161630,1721657655,1721652544,1721219212,1721092693,1720591966,1719722998];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/12 | 3-13 | [无聊不过](https://ws.tsl.rocks/corp/6099bd39cf8510ea3ef2be0fe05df95266b12acfdcbe1bd58a4c33e9c3f25934/) |
 | ✅ | 2024/08/12 | 21-0 | [Danish Oil](https://ws.tsl.rocks/corp/f836c8a9410599558f58138318bf3aa93a3eea49dd41e376d521ec13cc1ab967/) |
 | ❌ | 2024/08/07 | 0-7 | [荣耀之星](https://ws.tsl.rocks/corp/4334fd4d4ffbc89487deaec7bb38025aba46209b810578436882be271fdbff23/) |
 | ✅ | 2024/08/07 | 25-2 | [Star Fleet](https://ws.tsl.rocks/corp/b50e0529c2b2e86bae23d0fb4cbcdc4bff7615c45efb95150747a89dd3ea0231/) |
