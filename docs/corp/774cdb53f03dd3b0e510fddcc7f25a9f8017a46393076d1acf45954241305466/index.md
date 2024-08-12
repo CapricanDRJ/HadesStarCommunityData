@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Brodudes Inc.
-description: W:61 L:15 D:1 Bonus ✅
+description: W:61 L:15 D:1 Bonus ❌
 date: 1723394498
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
