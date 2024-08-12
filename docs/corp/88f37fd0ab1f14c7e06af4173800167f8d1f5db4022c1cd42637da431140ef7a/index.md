@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​TeddisaurusWrex
-description: W:35 L:8 D:0 Bonus ❌
-date: 1722837650
+description: W:36 L:8 D:0 Bonus ✅
+date: 1723453093
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1367 🔻  (58)|
-| ELO Competitive | 1419 🔻  (78)|
-| Total Matches | 43 |
-| Wins | 35 |
+| ELO Regular | 1371 🔺  (53)|
+| ELO Competitive | 1423 🔺  (74)|
+| Total Matches | 44 |
+| Wins | 36 |
 | Losses | 8 |
 | Draws | 0 |
 | Streak Record | 18 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722405650,1721542252,1720897630,1720025774,1719533540,1718590836,1717920521,1717340399,1716834007,1716253502,1715786299,1715113291,1714459686,1713669485,1713196564,1712444771,1712282511,1711908416,1711716400,1711177944,1711172235,1710569791,1710505789,1709990492,1709975166,1709437325,1709435824,1708905473,1708903370,1708321911,1708319507,1707695971,1707053490,1706428118,1705809364,1705258530,1704615723,1704042951,1703566320,1702962966,1702325221,1701746062,1700968856];
+        let timestamps = [1723021093,1722405650,1721542252,1720897630,1720025774,1719533540,1718590836,1717920521,1717340399,1716834007,1716253502,1715786299,1715113291,1714459686,1713669485,1713196564,1712444771,1712282511,1711908416,1711716400,1711177944,1711172235,1710569791,1710505789,1709990492,1709975166,1709437325,1709435824,1708905473,1708903370,1708321911,1708319507,1707695971,1707053490,1706428118,1705809364,1705258530,1704615723,1704042951,1703566320,1702962966,1702325221,1701746062,1700968856];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/12 | 21-1 | [RedStar Raiding](https://ws.tsl.rocks/corp/83a1c4f1576eec7dce037eb5b64b2455ca3affb9d3072108c5d4d3eba88b4570/) |
 | ❌ | 2024/08/05 | 3-25 | [\*Alfa y Omega\*](https://ws.tsl.rocks/corp/b1da3a2265efd2266a8e4b5698a731ae179d00e431ee748d7bee62a1357a12ed/) |
 | ✅ | 2024/07/26 | 15-6 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ✅ | 2024/07/18 | 26-3 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |

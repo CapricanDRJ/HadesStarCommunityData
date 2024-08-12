@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​WSC(no DISCORD)
-description: W:21 L:16 D:3 Bonus ✅
-date: 1723440172
+description: W:22 L:16 D:3 Bonus ✅
+date: 1723447985
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1266 🔻  (183)|
-| ELO Competitive | 1338 🔻  (159)|
-| Total Matches | 40 |
-| Wins | 21 |
+| ELO Regular | 1280 🔺  (155)|
+| ELO Competitive | 1370 🔺  (115)|
+| Total Matches | 41 |
+| Wins | 22 |
 | Losses | 16 |
 | Draws | 3 |
 | Streak Record | 7 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723008172,1722546889,1722545387,1722056431,1722052825,1721575013,1721573004,1721129831,1721129657,1720616607,1719987301,1719479744,1718991431,1718987802,1718472135,1717917516,1717484962,1717161261,1716961428,1716543132,1716361957,1715990757,1715888754,1715493656,1715429053,1715010532,1714578373,1714576269,1714139685,1714135178,1713652064,1713640946,1713189350,1713185743,1712751856,1712671934,1712319656,1712173137,1711725116,1711233841];
+        let timestamps = [1723015985,1723008172,1722546889,1722545387,1722056431,1722052825,1721575013,1721573004,1721129831,1721129657,1720616607,1719987301,1719479744,1718991431,1718987802,1718472135,1717917516,1717484962,1717161261,1716961428,1716543132,1716361957,1715990757,1715888754,1715493656,1715429053,1715010532,1714578373,1714576269,1714139685,1714135178,1713652064,1713640946,1713189350,1713185743,1712751856,1712671934,1712319656,1712173137,1711725116,1711233841];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -129,6 +129,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/12 | 26-1 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) |
 | ❌ | 2024/08/12 | 0-5 | [电磁脉冲集团](https://ws.tsl.rocks/corp/dcb1da78498db8641adb123c1a92ba9ab5f4a68b2a22e41fd8694b912a6d3482/) |
 | ✅ | 2024/08/06 | 7-0 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) |
 | ✅ | 2024/08/06 | 11-2 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |

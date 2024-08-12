@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​RedStar Raiding
-description: W:7 L:30 D:1 Bonus ❌
-date: 1722817518
+description: W:7 L:31 D:1 Bonus ❌
+date: 1723453093
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1054 🔻  (1168)|
-| ELO Competitive | 1088 🔻  (1178)|
-| Total Matches | 38 |
+| ELO Regular | 1050 🔻  (1172)|
+| ELO Competitive | 1084 🔻  (1181)|
+| Total Matches | 39 |
 | Wins | 7 |
-| Losses | 30 |
+| Losses | 31 |
 | Draws | 1 |
 | Streak Record | 3 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722385518,1721771256,1721165128,1720563159,1719956061,1719368261,1718776852,1718179873,1717572119,1716943402,1716344833,1715740933,1715070621,1714566653,1713936580,1713394286,1712741941,1712079689,1711486242,1710925254,1710357370,1709708050,1709147363,1708572507,1707898809,1707393821,1706745771,1706140533,1705531091,1704912638,1704423812,1703189166,1702615844,1702014744,1701510433,1700856146,1700209666,1699604245];
+        let timestamps = [1723021093,1722385518,1721771256,1721165128,1720563159,1719956061,1719368261,1718776852,1718179873,1717572119,1716943402,1716344833,1715740933,1715070621,1714566653,1713936580,1713394286,1712741941,1712079689,1711486242,1710925254,1710357370,1709708050,1709147363,1708572507,1707898809,1707393821,1706745771,1706140533,1705531091,1704912638,1704423812,1703189166,1702615844,1702014744,1701510433,1700856146,1700209666,1699604245];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/12 | 1-21 | [TeddisaurusWrex](https://ws.tsl.rocks/corp/88f37fd0ab1f14c7e06af4173800167f8d1f5db4022c1cd42637da431140ef7a/) |
 | ❌ | 2024/08/05 | 0-10 | [羽共和体](https://ws.tsl.rocks/corp/61b6e0502a087307a2ecf50e5d84f6123ad19984dc5790c997f16a676213aa7e/) |
 | ❌ | 2024/07/28 | 4-21 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
 | ✅ | 2024/07/21 | 9-0 | [BoomTech](https://ws.tsl.rocks/corp/97c4db179d3ea995d3a56227f87c501f4baa4abbece2b25e09b636f0aa264bd7/) |

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Star Destroyers
-description: W:24 L:16 D:1 Bonus ✅
+description: W:24 L:16 D:1 Bonus ❌
 date: 1723390591
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

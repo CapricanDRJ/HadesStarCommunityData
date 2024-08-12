@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Zvezdec
-description: W:29 L:15 D:0 Bonus ❌
-date: 1722073425
+description: W:30 L:15 D:0 Bonus ✅
+date: 1723447384
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1304 🔻  (123)|
-| ELO Competitive | 1382 🔻  (101)|
-| Total Matches | 44 |
-| Wins | 29 |
+| ELO Regular | 1305 🔺  (122)|
+| ELO Competitive | 1386 🔺  (98)|
+| Total Matches | 45 |
+| Wins | 30 |
 | Losses | 15 |
 | Draws | 0 |
 | Streak Record | 9 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721641425,1720506316,1719906159,1719297940,1718705929,1718102037,1717474444,1716980658,1716885992,1716274831,1716185597,1715668824,1715581695,1714981987,1714370742,1713932073,1713770133,1713182438,1712563762,1711895793,1711446574,1710923151,1710230271,1710134125,1709536184,1709098985,1709019052,1708581838,1708489889,1707808959,1707211367,1706518276,1705635964,1705130502,1704615122,1703962710,1703330710,1702796467,1702272621,1701779416,1701159403,1700637944,1700046707,1699331085];
+        let timestamps = [1723015384,1721641425,1720506316,1719906159,1719297940,1718705929,1718102037,1717474444,1716980658,1716885992,1716274831,1716185597,1715668824,1715581695,1714981987,1714370742,1713932073,1713770133,1713182438,1712563762,1711895793,1711446574,1710923151,1710230271,1710134125,1709536184,1709098985,1709019052,1708581838,1708489889,1707808959,1707211367,1706518276,1705635964,1705130502,1704615122,1703962710,1703330710,1702796467,1702272621,1701779416,1701159403,1700637944,1700046707,1699331085];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) | 2 | 0 | 0 | 2 |
 | [Hamburg AG 2](https://ws.tsl.rocks/corp/d4075195191cabef801494d3accc0e6cc8c09f534fd9203f6e43c9930acffa56/) | 2 | 0 | 0 | 2 |
 | [Ark](https://ws.tsl.rocks/corp/febd79d038ed9af667e201309060d9662ba825ba9be2b5b95418ac20a8e70c80/) | 0 | 2 | 0 | 2 |
 | [Hand Of NOD\! ](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) | 0 | 2 | 0 | 2 |
@@ -128,6 +129,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/12 | 33-6 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) |
 | ❌ | 2024/07/27 | 3-29 | [Lights Off ](https://ws.tsl.rocks/corp/8a8b7e5b7a00ef709249daa4546d03bd85258cde01d35e1829a64ed95c3d6cca/) |
 | ✅ | 2024/07/14 | 26-0 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |
 | ❌ | 2024/07/07 | 11-32 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
