@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​ProyectCorp
-description: W:16 L:22 D:0 Bonus ❌
-date: 1722721960
+description: W:17 L:22 D:0 Bonus ✅
+date: 1723545947
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1137 🔻  (1048)|
-| ELO Competitive | 1195 🔻  (594)|
-| Total Matches | 38 |
-| Wins | 16 |
+| ELO Regular | 1154 🔺  (987)|
+| ELO Competitive | 1210 🔺  (497)|
+| Total Matches | 39 |
+| Wins | 17 |
 | Losses | 22 |
 | Draws | 0 |
 | Streak Record | 4 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722289960,1721478244,1720791231,1720139986,1719631498,1718909376,1718453498,1717706470,1717108680,1716525392,1716001119,1715342824,1715335614,1714105135,1713539103,1712843496,1712146690,1711248014,1710525322,1709673802,1708586044,1708075199,1707425979,1707420569,1706874083,1706273653,1705658801,1705067996,1704384930,1703803738,1703181651,1702577076,1702073657,1701577455,1700749444,1700133328,1699601840,1698940732];
+        let timestamps = [1723113947,1722289960,1721478244,1720791231,1720139986,1719631498,1718909376,1718453498,1717706470,1717108680,1716525392,1716001119,1715342824,1715335614,1714105135,1713539103,1712843496,1712146690,1711248014,1710525322,1709673802,1708586044,1708075199,1707425979,1707420569,1706874083,1706273653,1705658801,1705067996,1704384930,1703803738,1703181651,1702577076,1702073657,1701577455,1700749444,1700133328,1699601840,1698940732];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) | 2 | 0 | 0 | 2 |
 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) | 1 | 1 | 0 | 2 |
 | [붉은늑대](https://ws.tsl.rocks/corp/43d32b05645aaa9415d1c04ecbcea520d2ed5b90304770cb0ab3813cb86e2f49/) | 0 | 2 | 0 | 2 |
 | [BrazilCorp\.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) | 0 | 2 | 0 | 2 |
@@ -126,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/13 | 17-11 | [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) |
 | ❌ | 2024/08/03 | 5-13 | [Торг\. федерация](https://ws.tsl.rocks/corp/915f197e5951f44128c2a3d3126141cd44b3c67a361158d2b220a5883e410310/) |
 | ✅ | 2024/07/25 | 19-2 | [Держава Русь](https://ws.tsl.rocks/corp/cbf11e25cee65a6c529251b7f47a35d9e4ba7bb9d640f384605541637e931672/) |
 | ❌ | 2024/07/17 | 4-22 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) |
