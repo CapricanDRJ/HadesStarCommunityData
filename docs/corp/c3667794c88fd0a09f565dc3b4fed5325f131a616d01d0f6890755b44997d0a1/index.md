@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​超新星联盟
-description: W:6 L:8 D:1 Bonus ✅
+description: W:6 L:8 D:1 Bonus ❌
 date: 1723445581
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (805)|
-| ELO Competitive | 1221 🔺  (408)|
+| ELO Regular | 1175 🔻  (804)|
+| ELO Competitive | 1221 🔺  (409)|
 | Total Matches | 15 |
 | Wins | 6 |
 | Losses | 8 |
