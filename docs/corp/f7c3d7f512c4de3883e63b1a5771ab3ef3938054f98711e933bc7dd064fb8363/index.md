@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Wompwompway 
-description: W:26 L:8 D:0 Bonus ✅
+description: W:26 L:8 D:0 Bonus ❌
 date: 1722909171
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
