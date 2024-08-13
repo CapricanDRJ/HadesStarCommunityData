@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Embers Rising
-description: W:24 L:4 D:0 Bonus ✅
+description: W:24 L:4 D:0 Bonus ❌
 date: 1722883629
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
