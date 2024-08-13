@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​Highlife
-description: W:19 L:19 D:1 Bonus ✅
+description: W:19 L:19 D:1 Bonus ❌
 date: 1722920288
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1177 🔺  (788)|
+| ELO Regular | 1177 🔺  (787)|
 | ELO Competitive | 1210 🔺  (497)|
 | Total Matches | 39 |
 | Wins | 19 |

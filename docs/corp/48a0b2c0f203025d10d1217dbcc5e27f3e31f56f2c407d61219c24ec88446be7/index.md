@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​RGW
-description: W:13 L:6 D:0 Bonus ✅
-date: 1722931406
+description: W:14 L:6 D:0 Bonus ✅
+date: 1723540839
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1310 🔺  (113)|
-| ELO Competitive | 1324 🔺  (181)|
-| Total Matches | 19 |
-| Wins | 13 |
+| ELO Regular | 1319 🔺  (98)|
+| ELO Competitive | 1339 🔺  (157)|
+| Total Matches | 20 |
+| Wins | 14 |
 | Losses | 6 |
 | Draws | 0 |
-| Streak | 9 |
-| Streak Record | 9 |
+| Streak | 10 |
+| Streak Record | 10 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722499406,1721902869,1721327696,1720615107,1718273932,1717409823,1716379680,1715600921,1714644970,1713190252,1712410212,1711284019,1708321911,1706606929,1706122501,1704911135,1703654180,1702812697,1702312293];
+        let timestamps = [1723108839,1722499406,1721902869,1721327696,1720615107,1718273932,1717409823,1716379680,1715600921,1714644970,1713190252,1712410212,1711284019,1708321911,1706606929,1706122501,1704911135,1703654180,1702812697,1702312293];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/13 | 19-3 | [四季长春](https://ws.tsl.rocks/corp/cf0b11914dc18d8e669592ecfe191f115c4e5fdba09d130d260bb625b36a3179/) |
 | ✅ | 2024/08/06 | 25-0 | [使命白星分团](https://ws.tsl.rocks/corp/756b9e1ef6c71e6a6b21c9859364c3bb6db5b24082327b1ea0f2b790cb49ef75/) |
 | ✅ | 2024/07/30 | 19-0 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |
 | ✅ | 2024/07/23 | 18-1 | [Osmium Star llc](https://ws.tsl.rocks/corp/edd3ac94ea8ee1cf441e904ff29c48c21fa5db83af6eb5a6e83ae236b3872b22/) |

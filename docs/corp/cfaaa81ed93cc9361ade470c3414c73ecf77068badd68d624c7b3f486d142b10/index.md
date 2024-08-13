@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​StellaMysterium
-description: W:17 L:22 D:0 Bonus ❌
-date: 1723053113
+description: W:18 L:23 D:0 Bonus ✅
+date: 1723533928
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (706)|
-| ELO Competitive | 1243 🔻  (333)|
-| Total Matches | 39 |
-| Wins | 17 |
-| Losses | 22 |
+| ELO Regular | 1189 🔺  (542)|
+| ELO Competitive | 1259 🔺  (294)|
+| Total Matches | 41 |
+| Wins | 18 |
+| Losses | 23 |
 | Draws | 0 |
 | Streak Record | 4 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722621113,1722616304,1721948252,1721939538,1721403420,1721390495,1720895827,1720865767,1720425174,1720419164,1719975280,1719301545,1719296137,1718436367,1717932543,1717433572,1716860454,1716113188,1715450691,1714930015,1714094621,1713477512,1712934839,1712389177,1711787617,1710978739,1710425269,1709881717,1708846570,1708241675,1706924873,1706080427,1705043656,1704525266,1703716586,1703142279,1702700249,1702214613,1700599481];
+        let timestamps = [1723101928,1723101628,1722621113,1722616304,1721948252,1721939538,1721403420,1721390495,1720895827,1720865767,1720425174,1720419164,1719975280,1719301545,1719296137,1718436367,1717932543,1717433572,1716860454,1716113188,1715450691,1714930015,1714094621,1713477512,1712934839,1712389177,1711787617,1710978739,1710425269,1709881717,1708846570,1708241675,1706924873,1706080427,1705043656,1704525266,1703716586,1703142279,1702700249,1702214613,1700599481];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,8 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/13 | 11-6 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |
+| ❌ | 2024/08/13 | 0-19 | [Kratos](https://ws.tsl.rocks/corp/1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b/) |
 | ❌ | 2024/08/07 | 5-45 | [Famous Assasins](https://ws.tsl.rocks/corp/8a3aea3b3dacfd3dcdb402e896204557e250b07b8a5e04b5814600c66cc1a25b/) |
 | ❌ | 2024/08/07 | 3-21 | [Industrial W\.O](https://ws.tsl.rocks/corp/99a4ba88f6a620cb9ea1da456127c978a858ffbda4e40b255fcf3365515da25d/) |
 | ✅ | 2024/07/30 | 20-11 | [Greek Warriors](https://ws.tsl.rocks/corp/0ebbf2228c6b86ec5117c216d8909c8e6f32f1a59b8f9b586bcdbbb85f603bc6/) |
