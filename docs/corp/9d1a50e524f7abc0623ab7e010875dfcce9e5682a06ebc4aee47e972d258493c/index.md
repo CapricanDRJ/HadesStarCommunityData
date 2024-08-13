@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​NoweUkladyII
-description: W:12 L:0 D:0 Bonus ✅
+description: W:12 L:0 D:0 Bonus ❌
 date: 1722953644
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

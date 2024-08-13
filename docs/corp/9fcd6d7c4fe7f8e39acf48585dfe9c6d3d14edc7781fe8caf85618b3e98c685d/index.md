@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Sich.ua
-description: W:20 L:14 D:1 Bonus ❌
-date: 1722626098
+description: W:21 L:14 D:1 Bonus ✅
+date: 1723574198
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1252 🔻  (210)|
-| ELO Competitive | 1373 🔻  (109)|
-| Total Matches | 35 |
-| Wins | 20 |
+| ELO Regular | 1270 🔺  (173)|
+| ELO Competitive | 1389 🔺  (95)|
+| Total Matches | 36 |
+| Wins | 21 |
 | Losses | 14 |
 | Draws | 1 |
 | Streak Record | 5 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722194098,1721633312,1721073761,1720416855,1720408648,1719863794,1719862292,1719273432,1719270672,1718760673,1718748912,1718158428,1718140213,1717668291,1717630432,1717116746,1717107668,1716595994,1716578563,1716007646,1715990757,1715490666,1715468420,1714901469,1714366536,1713738293,1713229318,1712702888,1712119650,1711508474,1710987771,1710448108,1709971861,1706205741,1705727319];
+        let timestamps = [1723142198,1722194098,1721633312,1721073761,1720416855,1720408648,1719863794,1719862292,1719273432,1719270672,1718760673,1718748912,1718158428,1718140213,1717668291,1717630432,1717116746,1717107668,1716595994,1716578563,1716007646,1715990757,1715490666,1715468420,1714901469,1714366536,1713738293,1713229318,1712702888,1712119650,1711508474,1710987771,1710448108,1709971861,1706205741,1705727319];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/13 | 11-0 | [BoomTech](https://ws.tsl.rocks/corp/97c4db179d3ea995d3a56227f87c501f4baa4abbece2b25e09b636f0aa264bd7/) |
 | ❌ | 2024/08/02 | 1-10 | [КРЫЛЯ ФЕНИКСА](https://ws.tsl.rocks/corp/a7852d9224a29d8a8b12b07f0985cf455ee57c9a7b5fed73f08ab733e8de733b/) |
 | ✅ | 2024/07/27 | 4-3 | [华夏三体舰队](https://ws.tsl.rocks/corp/a457b1d7612cdff92b655d33cf4ffd72b38aa796525cf0432423cfd0d01c6cf9/) |
 | ✅ | 2024/07/20 | 18-0 | [Север РусКорп](https://ws.tsl.rocks/corp/39eeae12a2a5fead3330938b8f38c71aab465634b732303dad7b2a7d5f472004/) |

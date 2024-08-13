@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​BoomTech
-description: W:20 L:6 D:2 Bonus ❌
-date: 1723327187
+description: W:20 L:7 D:2 Bonus ❌
+date: 1723574198
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1326 🔻  (92)|
+| ELO Regular | 1308 🔻  (118)|
 | ELO Competitive | 1389 🔻  (94)|
-| Total Matches | 28 |
+| Total Matches | 29 |
 | Wins | 20 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 2 |
 | Streak Record | 5 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722895187,1722282748,1721937734,1721691617,1721166632,1721165128,1720542681,1720055828,1719350535,1718736288,1718106545,1717534261,1716898613,1716308181,1715689554,1715103975,1714476811,1713906540,1713322164,1712671934,1712083296,1711464303,1710855548,1710292471,1709693930,1709061728,1708433394,1707414558];
+        let timestamps = [1723142198,1722895187,1722282748,1721937734,1721691617,1721166632,1721165128,1720542681,1720055828,1719350535,1718736288,1718106545,1717534261,1716898613,1716308181,1715689554,1715103975,1714476811,1713906540,1713322164,1712671934,1712083296,1711464303,1710855548,1710292471,1709693930,1709061728,1708433394,1707414558];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/13 | 0-11 | [Sich\.ua](https://ws.tsl.rocks/corp/9fcd6d7c4fe7f8e39acf48585dfe9c6d3d14edc7781fe8caf85618b3e98c685d/) |
 | ↔️ | 2024/08/10 | 5-5 | [Angel Dragon](https://ws.tsl.rocks/corp/2f2e44c159dc8f4e15e2dabda533d9db8697d2c6c06735d926d180b3aa056dcf/) |
 | ✅ | 2024/08/03 | 7-2 | [星光万丈](https://ws.tsl.rocks/corp/92ad2a305a74e168b57771140461b4d226e1e8cac17b4f77027d5a67ead5fa1d/) |
 | ❌ | 2024/07/30 | 0-11 | [lesescargots](https://ws.tsl.rocks/corp/718c873931e9097064fd6ef580fe9d8761be712e0783e0b97d28344abd910623/) |

@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Shrimp City
-description: W:19 L:10 D:1 Bonus ❌
-date: 1722925396
+description: W:20 L:10 D:1 Bonus ✅
+date: 1723567586
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1299 🔺  (128)|
-| ELO Competitive | 1318 🔺  (185)|
-| Total Matches | 30 |
-| Wins | 19 |
+| ELO Regular | 1309 🔺  (115)|
+| ELO Competitive | 1329 🔺  (174)|
+| Total Matches | 31 |
+| Wins | 20 |
 | Losses | 10 |
 | Draws | 1 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 11 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722493396,1722030589,1721575013,1721138876,1720639754,1720182052,1719740881,1719270672,1719214100,1718766336,1718309099,1717856809,1717411025,1716973746,1716528997,1716095762,1715651701,1715208230,1714763919,1714314555,1713850953,1713406301,1712961282,1712523503,1712087203,1711627753,1704976641,1704492516,1701486394,1701017248];
+        let timestamps = [1723135586,1722493396,1722030589,1721575013,1721138876,1720639754,1720182052,1719740881,1719270672,1719214100,1718766336,1718309099,1717856809,1717411025,1716973746,1716528997,1716095762,1715651701,1715208230,1714763919,1714314555,1713850953,1713406301,1712961282,1712523503,1712087203,1711627753,1704976641,1704492516,1701486394,1701017248];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/13 | 14-10 | [●Black•Sails●](https://ws.tsl.rocks/corp/fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31/) |
 | ✅ | 2024/08/06 | 16-3 | [佛矿寺](https://ws.tsl.rocks/corp/64f8afd95b7004e9d5a442da55644ee3ce64a9a8e82345c458d757b527e40624/) |
 | ✅ | 2024/07/31 | 15-0 | [使命白星分团](https://ws.tsl.rocks/corp/756b9e1ef6c71e6a6b21c9859364c3bb6db5b24082327b1ea0f2b790cb49ef75/) |
 | ↔️ | 2024/07/26 | 13-13 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
