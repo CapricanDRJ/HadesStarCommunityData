@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​The Allegiant
-description: W:19 L:8 D:0 Bonus ✅
-date: 1723084963
+description: W:19 L:9 D:0 Bonus ✅
+date: 1723665553
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1314 🔺  (104)|
-| ELO Competitive | 1340 🔺  (157)|
-| Total Matches | 27 |
+| ELO Regular | 1296 🔻  (132)|
+| ELO Competitive | 1321 🔻  (185)|
+| Total Matches | 28 |
 | Wins | 19 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 0 |
-| Streak | 6 |
 | Streak Record | 7 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722652963,1722035996,1721410487,1720715794,1719686894,1719158808,1717790394,1717257437,1716663010,1715956351,1715374014,1714765363,1714254165,1713644853,1712976004,1710620581,1710010026,1709402172,1708799999,1708794590,1708193599,1707586585,1706919465,1706378839,1705770597,1705165966,1704647583];
+        let timestamps = [1723233553,1722652963,1722035996,1721410487,1720715794,1719686894,1719158808,1717790394,1717257437,1716663010,1715956351,1715374014,1714765363,1714254165,1713644853,1712976004,1710620581,1710010026,1709402172,1708799999,1708794590,1708193599,1707586585,1706919465,1706378839,1705770597,1705165966,1704647583];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/14 | 3-29 | [lonewolf](https://ws.tsl.rocks/corp/216c1ab0bb2cbf918019c0a38a37820a9d5d78d7c5801983ed6e3b17bebdc5f3/) |
 | ✅ | 2024/08/08 | 39-0 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |
 | ✅ | 2024/07/31 | 21-0 | [Eretria ](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |
 | ✅ | 2024/07/24 | 13-0 | [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) |
