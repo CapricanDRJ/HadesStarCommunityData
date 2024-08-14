@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​sk cz nebula
-description: W:12 L:3 D:0 Bonus ✅
-date: 1723121925
+description: W:13 L:3 D:0 Bonus ✅
+date: 1723626180
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1318 🔺  (99)|
-| ELO Competitive | 1347 🔺  (144)|
-| Total Matches | 15 |
-| Wins | 12 |
+| ELO Regular | 1332 🔺  (88)|
+| ELO Competitive | 1364 🔺  (123)|
+| Total Matches | 16 |
+| Wins | 13 |
 | Losses | 3 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 6 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722689925,1721325292,1720622919,1719533540,1719025364,1718397605,1717720893,1716056105,1714885846,1713644853,1713028591,1710664448,1708932511,1706980769,1705259732];
+        let timestamps = [1723194180,1722689925,1721325292,1720622919,1719533540,1719025364,1718397605,1717720893,1716056105,1714885846,1713644853,1713028591,1710664448,1708932511,1706980769,1705259732];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/14 | 14-3 | [DarkMoon](https://ws.tsl.rocks/corp/90066f3df9499804310418b33334c0ae72f144b5592c4863ac52d2b2eace302a/) |
 | ✅ | 2024/08/08 | 18-0 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |
 | ❌ | 2024/07/23 | 4-6 | [落雨观花](https://ws.tsl.rocks/corp/565a6d89fc5107e86669d7f8910a1c4ae1fbb156fa0b5e81dbc917c341cc9ff0/) |
 | ✅ | 2024/07/15 | 14-5 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​NERF TOY'S
-description: W:19 L:29 D:2 Bonus ✅
+description: W:19 L:29 D:2 Bonus ❌
 date: 1723001123
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

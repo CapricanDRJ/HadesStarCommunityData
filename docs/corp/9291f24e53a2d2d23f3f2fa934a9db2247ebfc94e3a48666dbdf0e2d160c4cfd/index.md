@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​СССР
-description: W:27 L:24 D:2 Bonus ✅
-date: 1723180526
+description: W:28 L:24 D:2 Bonus ✅
+date: 1723621072
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1213 🔺  (377)|
-| ELO Competitive | 1353 🔺  (139)|
-| Total Matches | 53 |
-| Wins | 27 |
+| ELO Regular | 1230 🔺  (271)|
+| ELO Competitive | 1373 🔺  (110)|
+| Total Matches | 54 |
+| Wins | 28 |
 | Losses | 24 |
 | Draws | 2 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 4 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722748526,1722745222,1722001437,1721547961,1721379978,1720924978,1720344933,1720329606,1719724654,1719724053,1719120334,1718523518,1717910002,1717908499,1717319955,1717313040,1716702674,1716100569,1715491553,1714890052,1714280601,1713682404,1713672189,1713105518,1713073662,1712469104,1711868147,1711862438,1711267190,1711261180,1710671960,1710657837,1710060805,1710059904,1709455653,1708854984,1708854083,1708236566,1707631056,1707028846,1706421207,1705825289,1705211343,1704605807,1704002677,1703410952,1702803078,1702198382,1701588874,1700974866,1700374970,1699771996,1699225920];
+        let timestamps = [1723189072,1722748526,1722745222,1722001437,1721547961,1721379978,1720924978,1720344933,1720329606,1719724654,1719724053,1719120334,1718523518,1717910002,1717908499,1717319955,1717313040,1716702674,1716100569,1715491553,1714890052,1714280601,1713682404,1713672189,1713105518,1713073662,1712469104,1711868147,1711862438,1711267190,1711261180,1710671960,1710657837,1710060805,1710059904,1709455653,1708854984,1708854083,1708236566,1707631056,1707028846,1706421207,1705825289,1705211343,1704605807,1704002677,1703410952,1702803078,1702198382,1701588874,1700974866,1700374970,1699771996,1699225920];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,13 +118,13 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) | 2 | 1 | 0 | 3 |
 | [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 3 | 3 | 0 | 6 |
 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) | 1 | 1 | 0 | 2 |
 | [DTC](https://ws.tsl.rocks/corp/4be10b4fa74e6bc45ea50d720527bec8db0312f419a419f203b09350d663c755/) | 2 | 0 | 0 | 2 |
 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) | 1 | 1 | 0 | 2 |
 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) | 1 | 1 | 0 | 2 |
 | [Nine's Own Goal](https://ws.tsl.rocks/corp/fd47245550708347721e341d893b73e7c23e0f3624053c47ce666e55641c9e9e/) | 1 | 0 | 1 | 2 |
-| [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) | 1 | 1 | 0 | 2 |
 | [Free Thinkers 2](https://ws.tsl.rocks/corp/9fc879b45c4053ac93d6eebdb14d856a828df8fd85800df616cdd3332683a695/) | 2 | 0 | 0 | 2 |
 | [혁명군](https://ws.tsl.rocks/corp/712800536cbb3ef3357a2480d86cf971596950ac499e699bb3d99f94d1c65f5f/) | 2 | 0 | 0 | 2 |
 
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/14 | 40-22 | [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) |
 | ✅ | 2024/08/09 | 36-7 | [Торг\. федерация](https://ws.tsl.rocks/corp/915f197e5951f44128c2a3d3126141cd44b3c67a361158d2b220a5883e410310/) |
 | ✅ | 2024/08/09 | 41-2 | [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) |
 | ✅ | 2024/07/31 | 36-2 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) |
