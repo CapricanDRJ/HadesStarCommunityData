@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Antioch
-description: W:9 L:14 D:0 Bonus ❌
-date: 1721719126
+description: W:9 L:15 D:0 Bonus ❌
+date: 1723597635
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1162 🔻  (941)|
-| ELO Competitive | 1190 🔻  (641)|
-| Total Matches | 23 |
+| ELO Regular | 1153 🔻  (998)|
+| ELO Competitive | 1182 🔻  (864)|
+| Total Matches | 24 |
 | Wins | 9 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721287126,1720493094,1717224671,1715907080,1714990700,1714489433,1714040233,1712973600,1712019297,1711041231,1710435486,1708822535,1708297767,1707491180,1706926375,1706325344,1705632659,1705197822,1704744952,1704231974,1703765564,1703187637,1702689476];
+        let timestamps = [1723165635,1721287126,1720493094,1717224671,1715907080,1714990700,1714489433,1714040233,1712973600,1712019297,1711041231,1710435486,1708822535,1708297767,1707491180,1706926375,1706325344,1705632659,1705197822,1704744952,1704231974,1703765564,1703187637,1702689476];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/14 | 2-29 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) |
 | ❌ | 2024/07/23 | 3-25 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ✅ | 2024/07/14 | 20-4 | [CDG](https://ws.tsl.rocks/corp/0372d45acdd50729ec92e18f0e973f382362ae554f8d15778250b493e887cce2/) |
 | ❌ | 2024/06/06 | 9-36 | [BrazilCorp\.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) |
