@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​OPA
-description: W:28 L:10 D:0 Bonus ❌
-date: 1722962060
+description: W:29 L:10 D:0 Bonus ✅
+date: 1723640006
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1355 🔺  (64)|
-| ELO Competitive | 1381 🔺  (104)|
-| Total Matches | 38 |
-| Wins | 28 |
+| ELO Regular | 1366 🔺  (60)|
+| ELO Competitive | 1394 🔺  (88)|
+| Total Matches | 39 |
+| Wins | 29 |
 | Losses | 10 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 9 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722530060,1721933526,1721304254,1720098203,1719559979,1718909075,1718908474,1718269124,1717678210,1717090648,1716525392,1715863511,1715274026,1714667910,1714051051,1713452570,1712832078,1712232628,1711629857,1711039428,1710433082,1709811708,1709202344,1708613088,1708600766,1707998272,1707388112,1706786936,1706178691,1705478495,1704897609,1704214540,1702505550,1701476478,1700774398,1700174208,1699645442,1698926007];
+        let timestamps = [1723208006,1722530060,1721933526,1721304254,1720098203,1719559979,1718909075,1718908474,1718269124,1717678210,1717090648,1716525392,1715863511,1715274026,1714667910,1714051051,1713452570,1712832078,1712232628,1711629857,1711039428,1710433082,1709811708,1709202344,1708613088,1708600766,1707998272,1707388112,1706786936,1706178691,1705478495,1704897609,1704214540,1702505550,1701476478,1700774398,1700174208,1699645442,1698926007];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -129,6 +129,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/14 | 29-1 | [United Stars ](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) |
 | ✅ | 2024/08/06 | 16-10 | [第三共产星际世界](https://ws.tsl.rocks/corp/2945f8f36a07056c2d9f1a03534b942587153110fb949efe56ae633c457c77fc/) |
 | ✅ | 2024/07/30 | 44-7 | [Держава Русь](https://ws.tsl.rocks/corp/cbf11e25cee65a6c529251b7f47a35d9e4ba7bb9d640f384605541637e931672/) |
 | ❌ | 2024/07/23 | 25-40 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |

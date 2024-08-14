@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​荣耀之星
-description: W:7 L:8 D:2 Bonus ✅
+description: W:7 L:8 D:2 Bonus ❌
 date: 1723027265
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔺  (647)|
+| ELO Regular | 1185 🔺  (648)|
 | ELO Competitive | 1237 🔺  (352)|
 | Total Matches | 17 |
 | Wins | 7 |

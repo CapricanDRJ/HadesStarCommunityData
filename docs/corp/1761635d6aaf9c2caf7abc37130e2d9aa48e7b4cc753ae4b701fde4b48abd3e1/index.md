@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Pyke Syndicate
-description: W:3 L:20 D:1 Bonus ✅
+description: W:3 L:20 D:1 Bonus ❌
 date: 1723026663
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

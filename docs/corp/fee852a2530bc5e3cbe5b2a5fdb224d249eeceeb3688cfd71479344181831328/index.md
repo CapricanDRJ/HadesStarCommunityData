@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Red Dawn
-description: W:28 L:18 D:1 Bonus ❌
-date: 1723086165
+description: W:28 L:19 D:1 Bonus ❌
+date: 1723648422
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1294 🔻  (134)|
-| ELO Competitive | 1389 🔻  (95)|
-| Total Matches | 47 |
+| ELO Regular | 1272 🔻  (170)|
+| ELO Competitive | 1372 🔻  (112)|
+| Total Matches | 48 |
 | Wins | 28 |
-| Losses | 18 |
+| Losses | 19 |
 | Draws | 1 |
 | Streak Record | 6 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722654165,1721997229,1720962547,1719797081,1719055117,1718423445,1717707071,1717532757,1716938595,1716498958,1715742134,1714697355,1713885504,1713097101,1712329082,1711774396,1711662914,1711199579,1711041231,1710633802,1710585116,1710113998,1709901547,1709384739,1708790683,1708263914,1707597105,1707587487,1706963336,1706963336,1705670521,1705148533,1704632554,1704110858,1703678413,1703086082,1702641989,1702129856,1702125046,1701564836,1700948721,1700396010,1700242127,1699797248,1699740140,1699201277,1698689170];
+        let timestamps = [1723216422,1722654165,1721997229,1720962547,1719797081,1719055117,1718423445,1717707071,1717532757,1716938595,1716498958,1715742134,1714697355,1713885504,1713097101,1712329082,1711774396,1711662914,1711199579,1711041231,1710633802,1710585116,1710113998,1709901547,1709384739,1708790683,1708263914,1707597105,1707587487,1706963336,1706963336,1705670521,1705148533,1704632554,1704110858,1703678413,1703086082,1702641989,1702129856,1702125046,1701564836,1700948721,1700396010,1700242127,1699797248,1699740140,1699201277,1698689170];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 1 | 1 | 0 | 2 |
 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) | 0 | 2 | 0 | 2 |
 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) | 2 | 0 | 0 | 2 |
 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) | 2 | 0 | 0 | 2 |
@@ -128,6 +129,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/14 | 9-13 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
 | ❌ | 2024/08/08 | 30-39 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |
 | ✅ | 2024/07/31 | 20-7 | [Pyke Syndicate](https://ws.tsl.rocks/corp/1761635d6aaf9c2caf7abc37130e2d9aa48e7b4cc753ae4b701fde4b48abd3e1/) |
 | ✅ | 2024/07/19 | 19-15 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |

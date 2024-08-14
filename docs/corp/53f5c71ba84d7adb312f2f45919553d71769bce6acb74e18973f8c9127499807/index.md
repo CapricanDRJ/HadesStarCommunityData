@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​企鹅帝国
-description: W:1 L:2 D:0 Bonus ❌
-date: 1723187138
+description: W:1 L:3 D:0 Bonus ❌
+date: 1723645116
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔻  (756)|
-| ELO Competitive | 1183 🔻  (851)|
-| Total Matches | 3 |
+| ELO Regular | 1167 🔻  (914)|
+| ELO Competitive | 1168 🔻  (994)|
+| Total Matches | 4 |
 | Wins | 1 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722755138,1720584974,1707454822];
+        let timestamps = [1723213116,1722755138,1720584974,1707454822];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/14 | 10-17 | [青丘湖](https://ws.tsl.rocks/corp/c2d4ace95bc720bbe241ecac77e9a33d3961c881d62fa45e81690b9836a65658/) |
 | ❌ | 2024/08/09 | 2-13 | [德意志第三帝国奥米加分部](https://ws.tsl.rocks/corp/b5f35e30b2dea2621e854b5011a9f9d07ca3585cd26bd9ac92aa7b06c0a522b1/) |
 | ❌ | 2024/07/15 | 0-5 | [Rogue Dudes](https://ws.tsl.rocks/corp/e3af01b69e8035dbe5c48ad403a16f2c1ec8d4d273916750975ea86f317f7582/) |
 | ✅ | 2024/02/14 | 2-0 | [Atlas corp](https://ws.tsl.rocks/corp/e729927db5a5672fcc94357f999bc3b66fa38a624f042543b847f82e7fa890a5/) |
