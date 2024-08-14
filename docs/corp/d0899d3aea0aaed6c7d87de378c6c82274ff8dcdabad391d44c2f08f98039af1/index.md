@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Croce del Sud
-description: W:8 L:7 D:0 Bonus ❌
-date: 1721778627
+description: W:8 L:8 D:0 Bonus ❌
+date: 1723590426
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1225 🔺  (299)|
-| ELO Competitive | 1245 🔺  (327)|
-| Total Matches | 15 |
+| ELO Regular | 1205 🔻  (417)|
+| ELO Competitive | 1226 🔻  (390)|
+| Total Matches | 16 |
 | Wins | 8 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
-| Streak | 3 |
 | Streak Record | 3 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721346627,1720158915,1718333736,1714699158,1713565529,1712267490,1710720648,1708762734,1707431688,1706226479,1705019621,1702247382,1701127252,1700637944,1698886949];
+        let timestamps = [1723158426,1721346627,1720158915,1718333736,1714699158,1713565529,1712267490,1710720648,1708762734,1707431688,1706226479,1705019621,1702247382,1701127252,1700637944,1698886949];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/13 | 37-46 | [KLM](https://ws.tsl.rocks/corp/963e490e64d4703042415d3fcd8267ff87fbfd3383b83d447d29d842f2a446a1/) |
 | ✅ | 2024/07/23 | 39-33 | [Hades Academy](https://ws.tsl.rocks/corp/b40bd030900afebcbf4508c3b1174e2e80edcc628e6b72357b1571568d0872e3/) |
 | ✅ | 2024/07/10 | 20-19 | [Spacefleet](https://ws.tsl.rocks/corp/517f7b257f68936f7a95a478d6923776a2549b88897bae628fd35b23572d3cbd/) |
 | ✅ | 2024/06/19 | 35-3 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) |

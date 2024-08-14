@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​✡天启✡
-description: W:24 L:8 D:0 Bonus ✅
+description: W:24 L:8 D:0 Bonus ❌
 date: 1722968972
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
