@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​The New Light
-description: W:17 L:18 D:1 Bonus ❌
-date: 1722488431
+description: W:17 L:19 D:1 Bonus ❌
+date: 1723615663
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1195 🔻  (489)|
-| ELO Competitive | 1244 🔻  (331)|
-| Total Matches | 36 |
+| ELO Regular | 1184 🔻  (731)|
+| ELO Competitive | 1231 🔻  (373)|
+| Total Matches | 37 |
 | Wins | 17 |
-| Losses | 18 |
+| Losses | 19 |
 | Draws | 1 |
 | Streak Record | 4 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722056431,1720769290,1720169432,1719555472,1718345154,1717741626,1716904324,1716893204,1713959111,1712872949,1712866038,1712227520,1711665918,1711020195,1710404538,1709810205,1709189726,1708548487,1707949297,1707327661,1706774616,1706168175,1705556329,1705548318,1704916245,1704909933,1704389858,1704368099,1703771575,1703759554,1703102013,1703099909,1702660023,1702160217,1701721720,1701258282];
+        let timestamps = [1723183663,1722056431,1720769290,1720169432,1719555472,1718345154,1717741626,1716904324,1716893204,1713959111,1712872949,1712866038,1712227520,1711665918,1711020195,1710404538,1709810205,1709189726,1708548487,1707949297,1707327661,1706774616,1706168175,1705556329,1705548318,1704916245,1704909933,1704389858,1704368099,1703771575,1703759554,1703102013,1703099909,1702660023,1702160217,1701721720,1701258282];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/14 | 2-22 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
 | ❌ | 2024/08/01 | 3-25 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ❌ | 2024/07/17 | 1-17 | [  边界  ](https://ws.tsl.rocks/corp/86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a/) |
 | ✅ | 2024/07/10 | 4-0 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |

@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​碧霄殿
-description: W:5 L:4 D:0 Bonus ❌
-date: 1723176320
+description: W:6 L:4 D:0 Bonus ✅
+date: 1723609954
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1218 🔻  (328)|
-| ELO Competitive | 1254 🔻  (302)|
-| Total Matches | 9 |
-| Wins | 5 |
+| ELO Regular | 1232 🔺  (267)|
+| ELO Competitive | 1275 🔺  (260)|
+| Total Matches | 10 |
+| Wins | 6 |
 | Losses | 4 |
 | Draws | 0 |
 | Streak Record | 4 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722744320,1722744020,1722220241,1721691617,1721257418,1720272810,1719835239,1718626893,1700542075];
+        let timestamps = [1723177954,1722744320,1722744020,1722220241,1721691617,1721257418,1720272810,1719835239,1718626893,1700542075];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/14 | 20-2 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
 | ❌ | 2024/08/09 | 2-6 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
 | ❌ | 2024/08/09 | 19-20 | [青丘湖](https://ws.tsl.rocks/corp/c2d4ace95bc720bbe241ecac77e9a33d3961c881d62fa45e81690b9836a65658/) |
 | ✅ | 2024/08/03 | 12-6 | [MÉXICO INFINITO](https://ws.tsl.rocks/corp/a9fbdd48477b87a054dbd804eef12ae08bc6e02798cd8990b08c4a9803d8f9d8/) |

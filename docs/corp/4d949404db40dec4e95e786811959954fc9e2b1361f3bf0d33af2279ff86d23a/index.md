@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Out landers
-description: W:10 L:7 D:0 Bonus ❌
-date: 1722773340
+description: W:10 L:8 D:0 Bonus ❌
+date: 1723610855
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1262 🔻  (192)|
-| ELO Competitive | 1283 🔻  (242)|
-| Total Matches | 17 |
+| ELO Regular | 1243 🔻  (234)|
+| ELO Competitive | 1264 🔻  (282)|
+| Total Matches | 18 |
 | Wins | 10 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
 | Streak Record | 4 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722341340,1721235143,1720239149,1719578609,1718286254,1717331679,1716209332,1715648097,1714224116,1712908998,1711893989,1711104025,1709810205,1706265840,1705495323,1701728033,1700310049];
+        let timestamps = [1723178855,1722341340,1721235143,1720239149,1719578609,1718286254,1717331679,1716209332,1715648097,1714224116,1712908998,1711893989,1711104025,1709810205,1706265840,1705495323,1701728033,1700310049];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/14 | 5-10 | [对，进就进人少的（分团）](https://ws.tsl.rocks/corp/69a860d3020745a9088fa70fa7ebc4caaa8a6181832961bcd607fbfa627203f3/) |
 | ❌ | 2024/08/04 | 6-14 | [CIS](https://ws.tsl.rocks/corp/3efaab24560531ff257e73bfb281a7e9c0a9d591ac5aff55d05d35f2fb5e1d73/) |
 | ✅ | 2024/07/22 | 24-0 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |
 | ❌ | 2024/07/11 | 4-10 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |

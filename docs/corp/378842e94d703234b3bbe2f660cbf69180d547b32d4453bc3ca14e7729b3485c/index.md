@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​Union premiun
-description: W:0 L:3 D:1 Bonus ❌
-date: 1703610947
+description: W:0 L:3 D:2 Bonus ❌
+date: 1723607550
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1159 🔻  (963)|
-| ELO Competitive | 1159 🔻  (1039)|
-| Total Matches | 4 |
+| ELO Regular | 1157 🔻  (973)|
+| ELO Competitive | 1162 🔺  (1029)|
+| Total Matches | 5 |
 | Wins | 0 |
 | Losses | 3 |
-| Draws | 1 |
+| Draws | 2 |
 
 
 # Whitestar Match Day
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1703178947,1702313797,1701018149,1700101775];
+        let timestamps = [1723175550,1703178947,1702313797,1701018149,1700101775];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/08/14 | 0-0 | [华夏三体舰队](https://ws.tsl.rocks/corp/a457b1d7612cdff92b655d33cf4ffd72b38aa796525cf0432423cfd0d01c6cf9/) |
 | ❌ | 2023/12/26 | 2-10 | [RACNAROK](https://ws.tsl.rocks/corp/925ee28e565a662efccf71b5762e6a40b9eacdff2237454dc0e5aa1dcbd44294/) |
 | ❌ | 2023/12/16 | 0-42 | [Медведи](https://ws.tsl.rocks/corp/b3b0cac2c48761153afa1dcad7a4048103ffc3ec2ca6d477a6bd744922fce075/) |
 | ↔️ | 2023/12/01 | 1-1 | [Paramedic ICU](https://ws.tsl.rocks/corp/2b046351c951cf9e05492ee383c44783b21c628831f51b1a04c9e5404b9b9fa3/) |

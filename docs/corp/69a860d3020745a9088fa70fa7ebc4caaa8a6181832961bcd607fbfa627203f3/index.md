@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​对，进就进人少的（分团）
-description: W:3 L:5 D:0 Bonus ❌
-date: 1723170912
+description: W:4 L:5 D:0 Bonus ✅
+date: 1723610855
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (792)|
-| ELO Competitive | 1189 🔻  (664)|
-| Total Matches | 8 |
-| Wins | 3 |
+| ELO Regular | 1195 🔺  (489)|
+| ELO Competitive | 1207 🔺  (506)|
+| Total Matches | 9 |
+| Wins | 4 |
 | Losses | 5 |
 | Draws | 0 |
 | Streak Record | 2 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722738912,1720250268,1719797381,1719350535,1718759126,1717484962,1716615524,1714711174];
+        let timestamps = [1723178855,1722738912,1720250268,1719797381,1719350535,1718759126,1717484962,1716615524,1714711174];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/14 | 10-5 | [Out landers](https://ws.tsl.rocks/corp/4d949404db40dec4e95e786811959954fc9e2b1361f3bf0d33af2279ff86d23a/) |
 | ❌ | 2024/08/09 | 1-3 | [神圣罗马帝国](https://ws.tsl.rocks/corp/2a71af44aaef82175cd8dfd86c9e3f218a438a7c7e748bae20d8a0d964a984ab/) |
 | ✅ | 2024/07/11 | 8-2 | [第四星际](https://ws.tsl.rocks/corp/42d38d5f95c493cb1822f0c89a5366e532a9dc30c0019e03cf7ddd280bf55040/) |
 | ✅ | 2024/07/06 | 13-0 | [Venture](https://ws.tsl.rocks/corp/a48bd30701e4a563543ff54e7c8091cc6b5d0e972c70e4de279a93f4df2f24b0/) |
