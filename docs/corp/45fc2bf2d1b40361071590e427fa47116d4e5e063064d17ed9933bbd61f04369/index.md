@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Deadspace
-description: W:17 L:25 D:0 Bonus ✅
+description: W:17 L:25 D:0 Bonus ❌
 date: 1723518604
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1141 🔻  (1038)|
-| ELO Competitive | 1198 🔻  (573)|
+| ELO Competitive | 1198 🔻  (574)|
 | Total Matches | 42 |
 | Wins | 17 |
 | Losses | 25 |
