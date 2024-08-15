@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​The Hexagonix
-description: W:2 L:5 D:1 Bonus ❌
-date: 1717110037
+description: W:2 L:6 D:1 Bonus ❌
+date: 1723679677
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1164 🔺  (933)|
-| ELO Competitive | 1165 🔺  (1015)|
-| Total Matches | 8 |
+| ELO Regular | 1151 🔻  (1003)|
+| ELO Competitive | 1152 🔻  (1065)|
+| Total Matches | 9 |
 | Wins | 2 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 1 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1716678037,1704863953,1704122882,1703241152,1702032474,1701486394,1700995603,1699971272];
+        let timestamps = [1723247677,1716678037,1704863953,1704122882,1703241152,1702032474,1701486394,1700995603,1699971272];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/14 | 0-17 | [银星S Stars‘](https://ws.tsl.rocks/corp/ae73bc387e166c41c7df8d5514866f190e7d81ec4286fdd54d78fe1f07ff71b4/) |
 | ↔️ | 2024/05/30 | 5-5 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 | ❌ | 2024/01/15 | 0-11 | [korea](https://ws.tsl.rocks/corp/2071b0b6ab886c36f36fb357ab33234b4d364e79aae36f5d3387e8ada44962ac/) |
 | ❌ | 2024/01/06 | 0-7 | [MÉXICO INFINITO](https://ws.tsl.rocks/corp/a9fbdd48477b87a054dbd804eef12ae08bc6e02798cd8990b08c4a9803d8f9d8/) |

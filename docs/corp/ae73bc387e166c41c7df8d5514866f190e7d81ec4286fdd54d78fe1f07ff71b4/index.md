@@ -1,19 +1,21 @@
 ---
 layout: page
 title: ​银星S Stars‘
-description: W:1 L:0 D:0 Bonus ✅
-date: 1723211182
+description: W:2 L:0 D:0 Bonus ✅
+date: 1723679677
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1220 🔺  (320)|
-| ELO Competitive | 1220 🔺  (414)|
-| Total Matches | 1 |
-| Wins | 1 |
+| ELO Regular | 1233 🔺  (267)|
+| ELO Competitive | 1233 🔺  (366)|
+| Total Matches | 2 |
+| Wins | 2 |
 | Losses | 0 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 
 
 # Whitestar Match Day
@@ -30,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722779182];
+        let timestamps = [1723247677,1722779182];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/14 | 17-0 | [The Hexagonix](https://ws.tsl.rocks/corp/61bda63b50c29b34fb12f0bef2b4436cdd3b114bc9896e392d4d6286368fd6b5/) |
 | ✅ | 2024/08/09 | 17-1 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
 
 Corporation ID: ae73bc387e166c41c7df8d5514866f190e7d81ec4286fdd54d78fe1f07ff71b4
