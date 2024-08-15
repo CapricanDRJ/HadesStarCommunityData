@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Stars
-description: W:0 L:1 D:0 Bonus ❌
-date: 1721413188
+description: W:0 L:2 D:0 Bonus ❌
+date: 1723710627
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔻  (759)|
-| ELO Competitive | 1187 🔻  (701)|
-| Total Matches | 1 |
+| ELO Regular | 1172 🔻  (845)|
+| ELO Competitive | 1178 🔻  (888)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1720981188];
+        let timestamps = [1723278627,1720981188];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/15 | 0-15 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
 | ❌ | 2024/07/19 | 0-3 | [Weyland Yutani ](https://ws.tsl.rocks/corp/9799c33a0ecdcf321ad446a18f4e7f520610d26ec5f13e0c6b7a411dec2e2e46/) |
 
 Corporation ID: 0e1b189f1119cbc08c19cd3809191c65df5fe40514444e31217a0a3611fd8ec3
