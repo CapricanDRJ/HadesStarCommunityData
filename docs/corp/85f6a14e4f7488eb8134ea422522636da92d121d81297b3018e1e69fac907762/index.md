@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​OrderofTheGeon
-description: W:21 L:21 D:4 Bonus ✅
+description: W:21 L:21 D:4 Bonus ❌
 date: 1723665853
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
