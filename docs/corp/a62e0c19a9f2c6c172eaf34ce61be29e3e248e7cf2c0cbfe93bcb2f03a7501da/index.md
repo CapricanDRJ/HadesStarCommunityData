@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​КОРПОРАЦИЯ ЗЛА
-description: W:7 L:40 D:0 Bonus ❌
-date: 1723289615
+description: W:7 L:42 D:0 Bonus ❌
+date: 1723735219
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 895 🔻  (1207)|
-| ELO Competitive | 1084 🔻  (1183)|
-| Total Matches | 47 |
+| ELO Regular | 886 🔻  (1207)|
+| ELO Competitive | 1081 🔻  (1183)|
+| Total Matches | 49 |
 | Wins | 7 |
-| Losses | 40 |
+| Losses | 42 |
 | Draws | 0 |
 | Streak Record | 4 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722857615,1722857315,1722422475,1722419808,1721985809,1721985809,1721549472,1721548863,1721109302,1721091491,1720654782,1720651477,1720199185,1720199185,1719764025,1719305451,1719281132,1718839061,1718836069,1718402714,1718399408,1717951947,1717943733,1717502901,1717496982,1717059166,1716614310,1716612831,1716176285,1716175384,1715739643,1715280000,1714844086,1713971432,1713969098,1712484128,1710792458,1710094765,1709069242,1708533460,1708529553,1706882799,1706080427,1704026118,1703530862,1700385790,1699127961];
+        let timestamps = [1723303219,1723298162,1722857615,1722857315,1722422475,1722419808,1721985809,1721985809,1721549472,1721548863,1721109302,1721091491,1720654782,1720651477,1720199185,1720199185,1719764025,1719305451,1719281132,1718839061,1718836069,1718402714,1718399408,1717951947,1717943733,1717502901,1717496982,1717059166,1716614310,1716612831,1716176285,1716175384,1715739643,1715280000,1714844086,1713971432,1713969098,1712484128,1710792458,1710094765,1709069242,1708533460,1708529553,1706882799,1706080427,1704026118,1703530862,1700385790,1699127961];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 0 | 2 | 0 | 2 |
 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) | 0 | 2 | 0 | 2 |
 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) | 0 | 7 | 0 | 7 |
 | [Axiom](https://ws.tsl.rocks/corp/4000a010c205d318c766ba14fe1836eaab6652f1738a88cce8a8c69d0283e1b0/) | 0 | 9 | 0 | 9 |
@@ -128,6 +129,8 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/15 | 0-3 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |
+| ❌ | 2024/08/15 | 0-31 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | ❌ | 2024/08/10 | 0-9 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ❌ | 2024/08/10 | 0-3 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) |
 | ❌ | 2024/08/05 | 0-5 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) |

@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​资助会
-description: W:8 L:2 D:0 Bonus ❌
-date: 1722218877
+description: W:9 L:2 D:0 Bonus ✅
+date: 1723731966
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1277 🔺  (160)|
-| ELO Competitive | 1276 🔺  (259)|
-| Total Matches | 10 |
-| Wins | 8 |
+| ELO Regular | 1284 🔺  (148)|
+| ELO Competitive | 1286 🔺  (238)|
+| Total Matches | 11 |
+| Wins | 9 |
 | Losses | 2 |
 | Draws | 0 |
-| Streak | 4 |
-| Streak Record | 4 |
+| Streak | 5 |
+| Streak Record | 5 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721786877,1721400113,1721241455,1720749455,1707741940,1707153372,1707147066,1706709706,1702048049,1699102115];
+        let timestamps = [1723299966,1721786877,1721400113,1721241455,1720749455,1707741940,1707153372,1707147066,1706709706,1702048049,1699102115];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/15 | 5-0 | [11th Engineers](https://ws.tsl.rocks/corp/7341e9a33a1baf2162870c795632dcd551d3c624b06456dac041fa049ba67a9a/) |
 | ✅ | 2024/07/29 | 13-3 | [落雨观花](https://ws.tsl.rocks/corp/565a6d89fc5107e86669d7f8910a1c4ae1fbb156fa0b5e81dbc917c341cc9ff0/) |
 | ✅ | 2024/07/24 | 34-0 | [初始之音](https://ws.tsl.rocks/corp/79f48676f0ad15541a751311b97bae91c977d65480891a675585fc396c20bdb9/) |
 | ✅ | 2024/07/22 | 28-11 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |
