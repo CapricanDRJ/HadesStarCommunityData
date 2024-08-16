@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​Nearland Ind
-description: W:40 L:19 D:0 Bonus ✅
+description: W:40 L:19 D:0 Bonus ❌
 date: 1723816710
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1362 🔻  (60)|
+| ELO Regular | 1362 🔻  (61)|
 | ELO Competitive | 1467 🔻  (41)|
 | Total Matches | 59 |
 | Wins | 40 |
