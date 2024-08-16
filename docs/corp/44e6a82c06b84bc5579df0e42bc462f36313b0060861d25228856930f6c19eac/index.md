@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Fairy tail 
-description: W:0 L:1 D:0 Bonus ❌
-date: 1723327788
+description: W:0 L:2 D:0 Bonus ❌
+date: 1723821219
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (737)|
-| ELO Competitive | 1184 🔻  (837)|
-| Total Matches | 1 |
+| ELO Regular | 1169 🔻  (906)|
+| ELO Competitive | 1169 🔻  (992)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722895788];
+        let timestamps = [1723389219,1722895788];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/16 | 0-15 | [揽月宫](https://ws.tsl.rocks/corp/16a4fe26591408a3f2128646e96c5ec1f82feb35f1f9743aebd2dae05095d2ed/) |
 | ❌ | 2024/08/10 | 0-3 | [<•\|•\>](https://ws.tsl.rocks/corp/a3864fad7e4ba08611eda264a7934afe237a2f313a23b12dcce9db0a96a09daf/) |
 
 Corporation ID: 44e6a82c06b84bc5579df0e42bc462f36313b0060861d25228856930f6c19eac

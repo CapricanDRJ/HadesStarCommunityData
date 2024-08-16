@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​凛冬重工
-description: W:1 L:1 D:0 Bonus ❌
-date: 1720789556
+description: W:1 L:2 D:0 Bonus ❌
+date: 1723817612
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1195 🔻  (493)|
-| ELO Competitive | 1198 🔻  (580)|
-| Total Matches | 2 |
+| ELO Regular | 1181 🔻  (771)|
+| ELO Competitive | 1184 🔻  (836)|
+| Total Matches | 3 |
 | Wins | 1 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1720357556,1719923287];
+        let timestamps = [1723385612,1720357556,1719923287];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/16 | 0-8 | [共产国际](https://ws.tsl.rocks/corp/375b1efc576c9d15f93249680dcd6dccaf2ad07cd520b85242d0b704d3a494c6/) |
 | ❌ | 2024/07/12 | 3-9 | [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) |
 | ✅ | 2024/07/07 | 4-0 | [公共星际集团](https://ws.tsl.rocks/corp/f57faccefed6ab561fa61ac8e6f60708928e3a8b5caa5172c97c2a29348aed37/) |
 

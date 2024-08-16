@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Nearland Ind
-description: W:40 L:18 D:0 Bonus ✅
-date: 1723287812
+description: W:40 L:19 D:0 Bonus ✅
+date: 1723816710
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1368 🔻  (58)|
-| ELO Competitive | 1478 🔺  (38)|
-| Total Matches | 58 |
+| ELO Regular | 1362 🔻  (60)|
+| ELO Competitive | 1467 🔻  (41)|
+| Total Matches | 59 |
 | Wins | 40 |
-| Losses | 18 |
+| Losses | 19 |
 | Draws | 0 |
 | Streak Record | 8 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722855812,1722790906,1722278541,1722236767,1721587638,1721562387,1720982090,1720436592,1720368378,1719876414,1719779053,1719149488,1718539446,1718018797,1717935549,1717371661,1717332280,1716733030,1716135124,1715515290,1714954952,1714308243,1713716057,1713097402,1712499156,1711885874,1711290934,1710676768,1710084847,1709724874,1709482099,1709019052,1708859793,1708473365,1708257903,1707668323,1707220982,1707048080,1706444046,1706301005,1705839714,1705412081,1705236286,1704796936,1704629248,1704095231,1703934157,1703430489,1702810893,1702221529,1701601497,1701006425,1700393304,1699907262,1699788229,1699339497,1699207288,1698693080];
+        let timestamps = [1723384710,1722855812,1722790906,1722278541,1722236767,1721587638,1721562387,1720982090,1720436592,1720368378,1719876414,1719779053,1719149488,1718539446,1718018797,1717935549,1717371661,1717332280,1716733030,1716135124,1715515290,1714954952,1714308243,1713716057,1713097402,1712499156,1711885874,1711290934,1710676768,1710084847,1709724874,1709482099,1709019052,1708859793,1708473365,1708257903,1707668323,1707220982,1707048080,1706444046,1706301005,1705839714,1705412081,1705236286,1704796936,1704629248,1704095231,1703934157,1703430489,1702810893,1702221529,1701601497,1701006425,1700393304,1699907262,1699788229,1699339497,1699207288,1698693080];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) | 1 | 2 | 0 | 3 |
 | [Providence](https://ws.tsl.rocks/corp/f12fc39ca2326de7c5ce96c005b1953c86430443f1f8b98e7515d082b43b4d4b/) | 1 | 1 | 0 | 2 |
 | [星舰月球](https://ws.tsl.rocks/corp/b9a3e1e7fd3a235db7f440974db9210dc9a3b85c39fd437099f32f53cfe1e21c/) | 1 | 3 | 0 | 4 |
 | [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/) | 1 | 1 | 0 | 2 |
@@ -126,12 +127,12 @@ This chart shows the frequency of days of the week when whitestars were matched.
 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 3 | 0 | 0 | 3 |
 | [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 1 | 1 | 0 | 2 |
 | [Axiom](https://ws.tsl.rocks/corp/4000a010c205d318c766ba14fe1836eaab6652f1738a88cce8a8c69d0283e1b0/) | 2 | 0 | 0 | 2 |
-| [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) | 1 | 1 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/16 | 20-45 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) |
 | ❌ | 2024/08/10 | 23-38 | [Providence](https://ws.tsl.rocks/corp/f12fc39ca2326de7c5ce96c005b1953c86430443f1f8b98e7515d082b43b4d4b/) |
 | ✅ | 2024/08/09 | 26-0 | [星舰月球](https://ws.tsl.rocks/corp/b9a3e1e7fd3a235db7f440974db9210dc9a3b85c39fd437099f32f53cfe1e21c/) |
 | ✅ | 2024/08/03 | 25-7 | [GDZ](https://ws.tsl.rocks/corp/a04890160268d05cf11f997b0a1c724fbbcfa66b2ea4cb1c4b56ca18d0425d62/) |
