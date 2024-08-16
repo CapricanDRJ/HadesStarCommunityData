@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Ark Summit
-description: W:11 L:0 D:0 Bonus ✅
+description: W:11 L:0 D:0 Bonus ❌
 date: 1723215090
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1333 🔺  (85)|
-| ELO Competitive | 1340 🔺  (155)|
+| ELO Regular | 1333 🔺  (84)|
+| ELO Competitive | 1340 🔺  (157)|
 | Total Matches | 11 |
 | Wins | 11 |
 | Losses | 0 |

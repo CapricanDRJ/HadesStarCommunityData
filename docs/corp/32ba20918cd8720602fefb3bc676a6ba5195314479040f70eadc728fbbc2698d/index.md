@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Star Destroyers
-description: W:24 L:16 D:1 Bonus ❌
-date: 1723390591
+description: W:24 L:17 D:1 Bonus ❌
+date: 1723833841
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1335 🔻  (80)|
-| ELO Competitive | 1371 🔻  (116)|
-| Total Matches | 41 |
+| ELO Regular | 1321 🔻  (97)|
+| ELO Competitive | 1357 🔻  (137)|
+| Total Matches | 42 |
 | Wins | 24 |
-| Losses | 16 |
+| Losses | 17 |
 | Draws | 1 |
 | Streak Record | 10 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722958591,1722404748,1721964776,1721315073,1720766585,1720129770,1719546458,1718912081,1718822231,1718208425,1717595562,1717496982,1716884189,1716883288,1716444276,1715880940,1715320893,1714662500,1714041435,1713506050,1712960982,1712398792,1711724215,1711230535,1710690895,1710142836,1709440029,1708713456,1708141009,1707487874,1706737659,1706214759,1705632659,1705094144,1704486204,1703895393,1703117641,1703113435,1702226338,1701005524,1698948246];
+        let timestamps = [1723401841,1722958591,1722404748,1721964776,1721315073,1720766585,1720129770,1719546458,1718912081,1718822231,1718208425,1717595562,1717496982,1716884189,1716883288,1716444276,1715880940,1715320893,1714662500,1714041435,1713506050,1712960982,1712398792,1711724215,1711230535,1710690895,1710142836,1709440029,1708713456,1708141009,1707487874,1706737659,1706214759,1705632659,1705094144,1704486204,1703895393,1703117641,1703113435,1702226338,1701005524,1698948246];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/16 | 2-10 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
 | ❌ | 2024/08/11 | 20-26 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | ✅ | 2024/08/05 | 15-11 | [lonewolf](https://ws.tsl.rocks/corp/216c1ab0bb2cbf918019c0a38a37820a9d5d78d7c5801983ed6e3b17bebdc5f3/) |
 | ❌ | 2024/07/31 | 4-19 | [Dark Training](https://ws.tsl.rocks/corp/f889cafae8c2e0c622ae5494ce013504bf204ba00f7c7b44c61985588ee8f53c/) |

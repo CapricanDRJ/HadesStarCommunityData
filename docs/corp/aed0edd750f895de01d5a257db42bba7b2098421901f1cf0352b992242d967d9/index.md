@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Ws Polaris
-description: W:4 L:14 D:2 Bonus ✅
+description: W:4 L:14 D:2 Bonus ❌
 date: 1723212986
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1110 🔺  (1119)|
-| ELO Competitive | 1119 🔺  (1146)|
+| ELO Regular | 1110 🔺  (1120)|
+| ELO Competitive | 1119 🔺  (1147)|
 | Total Matches | 20 |
 | Wins | 4 |
 | Losses | 14 |
