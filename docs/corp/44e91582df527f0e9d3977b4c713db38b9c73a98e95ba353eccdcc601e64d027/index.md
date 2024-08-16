@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​Stellar Exports
-description: W:37 L:25 D:0 Bonus ✅
-date: 1723195553
+description: W:38 L:25 D:0 Bonus ✅
+date: 1723797475
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1269 🔺  (180)|
-| ELO Competitive | 1420 🔺  (78)|
-| Total Matches | 62 |
-| Wins | 37 |
+| ELO Regular | 1282 🔺  (155)|
+| ELO Competitive | 1434 🔺  (65)|
+| Total Matches | 63 |
+| Wins | 38 |
 | Losses | 25 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 7 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722763553,1722761449,1722167641,1722158324,1721547961,1720962547,1720955332,1720351845,1720346736,1719750198,1719141672,1719135060,1718536140,1718528026,1717932843,1717923226,1717317550,1716715297,1716713193,1716117695,1716107480,1715509881,1715509582,1714920099,1714319366,1713695623,1713685709,1713085682,1713083578,1712486532,1712479621,1711878362,1711875959,1711278309,1711272299,1710701114,1710083945,1709470678,1708857088,1708259406,1707646683,1707646683,1707040266,1706434129,1705831901,1705829496,1705228772,1704618728,1704618728,1704017102,1704016200,1703415160,1702812396,1702808488,1702207700,1702200787,1701602399,1700994100,1700388194,1699784922,1699182946,1699182946];
+        let timestamps = [1723365475,1722763553,1722761449,1722167641,1722158324,1721547961,1720962547,1720955332,1720351845,1720346736,1719750198,1719141672,1719135060,1718536140,1718528026,1717932843,1717923226,1717317550,1716715297,1716713193,1716117695,1716107480,1715509881,1715509582,1714920099,1714319366,1713695623,1713685709,1713085682,1713083578,1712486532,1712479621,1711878362,1711875959,1711278309,1711272299,1710701114,1710083945,1709470678,1708857088,1708259406,1707646683,1707646683,1707040266,1706434129,1705831901,1705829496,1705228772,1704618728,1704618728,1704017102,1704016200,1703415160,1702812396,1702808488,1702207700,1702200787,1701602399,1700994100,1700388194,1699784922,1699182946,1699182946];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,11 +118,11 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) | 3 | 1 | 0 | 4 |
 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) | 0 | 2 | 0 | 2 |
 | [DTC](https://ws.tsl.rocks/corp/4be10b4fa74e6bc45ea50d720527bec8db0312f419a419f203b09350d663c755/) | 5 | 0 | 0 | 5 |
 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 1 | 1 | 0 | 2 |
 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) | 1 | 1 | 0 | 2 |
-| [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) | 2 | 1 | 0 | 3 |
 | [GermanSpaceUno\.](https://ws.tsl.rocks/corp/47482f042b35cecaaaf58ee05b6672bab3c49469b039f75f304535ffd2d02491/) | 2 | 0 | 0 | 2 |
 | [혁명군](https://ws.tsl.rocks/corp/712800536cbb3ef3357a2480d86cf971596950ac499e699bb3d99f94d1c65f5f/) | 2 | 0 | 0 | 2 |
 
@@ -129,6 +130,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/16 | 21-6 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |
 | ✅ | 2024/08/09 | 28-3 | [On en a Gros \! ](https://ws.tsl.rocks/corp/eee919ee67cd5b7eb62548219cd7981660ab85d08ab0fe23b83f1849ca6cf8c6/) |
 | ❌ | 2024/08/09 | 19-21 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ✅ | 2024/08/02 | 19-4 | [SternenStaub](https://ws.tsl.rocks/corp/11f1e8a4d522eaef8cb40c95d07b4533097aa6509ddafd1d7efc1449e8b10f38/) |
