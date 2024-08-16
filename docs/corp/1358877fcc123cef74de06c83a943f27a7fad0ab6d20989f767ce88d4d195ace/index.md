@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Повстанцы Хаоса
-description: W:23 L:5 D:0 Bonus ✅
-date: 1723189241
+description: W:24 L:5 D:0 Bonus ✅
+date: 1723785153
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1405 🔺  (34)|
-| ELO Competitive | 1449 🔺  (50)|
-| Total Matches | 28 |
-| Wins | 23 |
+| ELO Regular | 1412 🔺  (31)|
+| ELO Competitive | 1461 🔺  (46)|
+| Total Matches | 29 |
+| Wins | 24 |
 | Losses | 5 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 10 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722757241,1722242475,1721794991,1721196977,1720596172,1719978586,1719378387,1718698055,1718082808,1717467533,1716906731,1714985893,1714186259,1713506050,1712908998,1712904492,1711948379,1711339312,1710474545,1709885021,1709358595,1708745006,1708163544,1707636465,1707023738,1706415799,1705824087,1705332749];
+        let timestamps = [1723353153,1722757241,1722242475,1721794991,1721196977,1720596172,1719978586,1719378387,1718698055,1718082808,1717467533,1716906731,1714985893,1714186259,1713506050,1712908998,1712904492,1711948379,1711339312,1710474545,1709885021,1709358595,1708745006,1708163544,1707636465,1707023738,1706415799,1705824087,1705332749];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/16 | 10-0 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ✅ | 2024/08/09 | 28-3 | [ZION](https://ws.tsl.rocks/corp/99ac8e5c0f22878b9a4458953d0c712ada17ef36ae195ccf39c7921dc996adfe/) |
 | ✅ | 2024/08/03 | 19-0 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
 | ❌ | 2024/07/29 | 2-3 | [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) |

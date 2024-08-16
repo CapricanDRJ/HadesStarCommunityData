@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​萌新的收留所
-description: W:13 L:4 D:1 Bonus ❌
-date: 1723731064
+description: W:13 L:5 D:1 Bonus ❌
+date: 1723787557
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1315 🔻  (105)|
-| ELO Competitive | 1333 🔻  (168)|
-| Total Matches | 18 |
+| ELO Regular | 1296 🔻  (132)|
+| ELO Competitive | 1336 🔻  (164)|
+| Total Matches | 19 |
 | Wins | 13 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 1 |
 | Streak Record | 8 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723299064,1722703673,1722691428,1722082583,1722052825,1721452100,1721449095,1721014846,1720531860,1720110230,1720096700,1719571384,1719570495,1718952941,1718334036,1717727502,1717122664,1715990605];
+        let timestamps = [1723355557,1723299064,1722703673,1722691428,1722082583,1722052825,1721452100,1721449095,1721014846,1720531860,1720110230,1720096700,1719571384,1719570495,1718952941,1718334036,1717727502,1717122664,1715990605];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -113,11 +113,17 @@ This chart shows the frequency of days of the week when whitestars were matched.
     });
 </script>
     
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) | 0 | 2 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/16 | 0-15 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
 | ❌ | 2024/08/15 | 2-6 | [SiriusStrawMoo](https://ws.tsl.rocks/corp/c83a5744ea256d2c1fa59660bc0e18e8d01a2a467bc13fec27a8b30f689e220b/) |
 | ✅ | 2024/08/08 | 4-0 | [koalition](https://ws.tsl.rocks/corp/68d721684ab83df28cba0a58c608e5dd3c58df79369abffa67da4e8956ef2695/) |
 | ✅ | 2024/08/08 | 13-3 | [羽共和体](https://ws.tsl.rocks/corp/61b6e0502a087307a2ecf50e5d84f6123ad19984dc5790c997f16a676213aa7e/) |

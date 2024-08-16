@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​AlyTec Sys.
-description: W:1 L:0 D:0 Bonus ✅
-date: 1723284510
+description: W:1 L:1 D:0 Bonus ✅
+date: 1723783651
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1210 🔺  (397)|
-| ELO Competitive | 1214 🔺  (477)|
-| Total Matches | 1 |
+| ELO Regular | 1193 🔻  (501)|
+| ELO Competitive | 1197 🔻  (587)|
+| Total Matches | 2 |
 | Wins | 1 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722852510];
+        let timestamps = [1723351651,1722852510];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/16 | 0-3 | [Splendid](https://ws.tsl.rocks/corp/8d0fd2cb62785c9876643edf419b241f0f86e339052e5d3e4fab40b0416828dd/) |
 | ✅ | 2024/08/10 | 2-0 | [公共星际集团](https://ws.tsl.rocks/corp/f57faccefed6ab561fa61ac8e6f60708928e3a8b5caa5172c97c2a29348aed37/) |
 
 Corporation ID: 4f98eeb43077d5c00a32f9810352931d8778fb5b24d8b49c318953d489f07df0

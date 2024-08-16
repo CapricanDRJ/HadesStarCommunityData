@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​M4-Valhalla
-description: W:0 L:4 D:0 Bonus ❌
-date: 1722915781
+description: W:0 L:5 D:0 Bonus ❌
+date: 1723790261
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1153 🔻  (999)|
-| ELO Competitive | 1159 🔻  (1039)|
-| Total Matches | 4 |
+| ELO Regular | 1142 🔻  (1037)|
+| ELO Competitive | 1152 🔻  (1070)|
+| Total Matches | 5 |
 | Wins | 0 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722483781,1721989114,1721463219,1711479028];
+        let timestamps = [1723358261,1722483781,1721989114,1721463219,1711479028];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/16 | 0-26 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
 | ❌ | 2024/08/06 | 0-14 | [Eretria ](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |
 | ❌ | 2024/07/31 | 0-26 | [2ND\-R8 Corp\.](https://ws.tsl.rocks/corp/e97866623598a98454b3a4724b472dc171f5e1aff84b076c43d021f0fabdc702/) |
 | ❌ | 2024/07/25 | 0-29 | [Kratos](https://ws.tsl.rocks/corp/1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b/) |
