@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Red Sky
-description: W:0 L:0 D:1 Bonus ❌
-date: 1702699114
+description: W:0 L:1 D:1 Bonus ❌
+date: 1723759917
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1200 ▫️  (442)|
-| ELO Competitive | 1200 ▫️  (546)|
-| Total Matches | 1 |
+| ELO Regular | 1184 🔻  (712)|
+| ELO Competitive | 1184 🔻  (821)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 1 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1702267114];
+        let timestamps = [1723327917,1702267114];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/15 | 0-1 | [Spaceforce](https://ws.tsl.rocks/corp/24c4541d371aa6efad58f5141355ec6ad643e45d05957800075cdefc583cb805/) |
 | ↔️ | 2023/12/16 | 0-0 | [Jalisco México](https://ws.tsl.rocks/corp/495236ab2171ccbcdad0da5529f080405b1ddd081eda98c7255a8cffe5b114e4/) |
 
 Corporation ID: c5d615aa6be8025330917694307dea3f25210bff1c7ee2db6c0778a78e1a00d4

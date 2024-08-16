@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Дом Датэ
-description: W:24 L:19 D:0 Bonus ❌
-date: 1722667565
+description: W:25 L:20 D:0 Bonus ✅
+date: 1723765325
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1309 🔻  (113)|
-| ELO Competitive | 1373 🔻  (110)|
-| Total Matches | 43 |
-| Wins | 24 |
-| Losses | 19 |
+| ELO Regular | 1310 🔺  (111)|
+| ELO Competitive | 1381 🔺  (104)|
+| Total Matches | 45 |
+| Wins | 25 |
+| Losses | 20 |
 | Draws | 0 |
 | Streak Record | 5 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722235565,1721654047,1721555475,1721068951,1720969162,1720347337,1719781157,1719777851,1719201482,1719162115,1718537943,1718533736,1717944268,1717932543,1717322660,1717319053,1716722509,1716720406,1715681742,1714294121,1713565529,1712947460,1712437560,1711779804,1711314077,1710831513,1709287681,1708657862,1707073628,1706262835,1705766689,1704642774,1704166458,1703410952,1702924200,1702476090,1701942013,1701721118,1701448224,1700948721,1700174208,1699382772,1698741177];
+        let timestamps = [1723333325,1723330921,1722235565,1721654047,1721555475,1721068951,1720969162,1720347337,1719781157,1719777851,1719201482,1719162115,1718537943,1718533736,1717944268,1717932543,1717322660,1717319053,1716722509,1716720406,1715681742,1714294121,1713565529,1712947460,1712437560,1711779804,1711314077,1710831513,1709287681,1708657862,1707073628,1706262835,1705766689,1704642774,1704166458,1703410952,1702924200,1702476090,1701942013,1701721118,1701448224,1700948721,1700174208,1699382772,1698741177];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,8 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/15 | 39-0 | [SternenStaub](https://ws.tsl.rocks/corp/11f1e8a4d522eaef8cb40c95d07b4533097aa6509ddafd1d7efc1449e8b10f38/) |
+| ❌ | 2024/08/15 | 6-17 | [Famous Assasins](https://ws.tsl.rocks/corp/8a3aea3b3dacfd3dcdb402e896204557e250b07b8a5e04b5814600c66cc1a25b/) |
 | ❌ | 2024/08/03 | 19-21 | [Duchy Arrakis](https://ws.tsl.rocks/corp/6c8c526b366a9e9eb3eba3d3107b628042c005db03530961b24a722cc58a339e/) |
 | ❌ | 2024/07/27 | 7-17 | [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) |
 | ✅ | 2024/07/26 | 20-9 | [Spica​](https://ws.tsl.rocks/corp/df96d6d34c4906312183050c8aa7a502678ab2902b7c23112aa9fda827bb4191/) |

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​华夏舰队
-description: W:20 L:28 D:0 Bonus ❌
-date: 1723726856
+description: W:20 L:29 D:0 Bonus ❌
+date: 1723767427
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1099 🔻  (1129)|
-| ELO Competitive | 1197 🔻  (588)|
-| Total Matches | 48 |
+| ELO Regular | 1096 🔻  (1131)|
+| ELO Competitive | 1211 🔻  (498)|
+| Total Matches | 49 |
 | Wins | 20 |
-| Losses | 28 |
+| Losses | 29 |
 | Draws | 0 |
 | Streak Record | 6 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723294856,1722838383,1722837181,1720171836,1718006175,1716227363,1712145487,1711661411,1711207093,1710769918,1710160863,1709604993,1709330955,1708881433,1708443913,1708434296,1707315939,1707308726,1706878892,1706876487,1706446451,1706444046,1706011911,1706007403,1705577060,1705040652,1705040351,1704600399,1704598596,1704116870,1703923938,1703683222,1703491789,1703231236,1703047313,1702796467,1702611337,1702363386,1702179149,1701919177,1701696769,1701475779,1701264293,1701020555,1700831795,1700587456,1700139640,1699670995];
+        let timestamps = [1723335427,1723294856,1722838383,1722837181,1720171836,1718006175,1716227363,1712145487,1711661411,1711207093,1710769918,1710160863,1709604993,1709330955,1708881433,1708443913,1708434296,1707315939,1707308726,1706878892,1706876487,1706446451,1706444046,1706011911,1706007403,1705577060,1705040652,1705040351,1704600399,1704598596,1704116870,1703923938,1703683222,1703491789,1703231236,1703047313,1702796467,1702611337,1702363386,1702179149,1701919177,1701696769,1701475779,1701264293,1701020555,1700831795,1700587456,1700139640,1699670995];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) | 0 | 2 | 0 | 2 |
 | [Providence](https://ws.tsl.rocks/corp/f12fc39ca2326de7c5ce96c005b1953c86430443f1f8b98e7515d082b43b4d4b/) | 0 | 2 | 0 | 2 |
 | [Free Thinkers 2](https://ws.tsl.rocks/corp/9fc879b45c4053ac93d6eebdb14d856a828df8fd85800df616cdd3332683a695/) | 2 | 0 | 0 | 2 |
 | [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) | 1 | 1 | 0 | 2 |
@@ -125,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/16 | 0-64 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) |
 | ❌ | 2024/08/15 | 0-14 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |
 | ❌ | 2024/08/10 | 0-37 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | ❌ | 2024/08/10 | 0-26 | [AKA](https://ws.tsl.rocks/corp/5fde3f409facbda701cdf21de0895eb7c7e17e2d472ae52cc0aa178ce2db64d6/) |
