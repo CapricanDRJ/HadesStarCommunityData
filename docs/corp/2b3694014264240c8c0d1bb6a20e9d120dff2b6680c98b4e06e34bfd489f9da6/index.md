@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Alpha to Omega
-description: W:1 L:0 D:1 Bonus ❌
-date: 1721911747
+description: W:1 L:1 D:1 Bonus ❌
+date: 1723804086
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1206 🔺  (410)|
-| ELO Competitive | 1210 🔺  (501)|
-| Total Matches | 2 |
+| ELO Regular | 1191 🔻  (516)|
+| ELO Competitive | 1194 🔻  (598)|
+| Total Matches | 3 |
 | Wins | 1 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 1 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721479747,1720723310];
+        let timestamps = [1723372086,1721479747,1720723310];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/16 | 0-5 | [闲散人员](https://ws.tsl.rocks/corp/4f0fa774b66e4f744a305525f92e7252205ae754df0f3982b577b32caf32cdbc/) |
 | ✅ | 2024/07/25 | 8-0 | [羽共和体](https://ws.tsl.rocks/corp/61b6e0502a087307a2ecf50e5d84f6123ad19984dc5790c997f16a676213aa7e/) |
 | ↔️ | 2024/07/16 | 0-0 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) |
 

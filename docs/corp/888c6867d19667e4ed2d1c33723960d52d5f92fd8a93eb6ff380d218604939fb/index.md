@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​ДИВЕРСАНТЫ
-description: W:48 L:7 D:1 Bonus ✅
+description: W:48 L:7 D:1 Bonus ❌
 date: 1723619570
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

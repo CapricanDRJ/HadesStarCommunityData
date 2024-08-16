@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Novana Gaming
-description: W:4 L:3 D:0 Bonus ❌
-date: 1723370454
+description: W:4 L:4 D:0 Bonus ❌
+date: 1723811599
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1212 🔻  (386)|
-| ELO Competitive | 1220 🔻  (414)|
-| Total Matches | 7 |
+| ELO Regular | 1201 🔻  (436)|
+| ELO Competitive | 1213 🔻  (477)|
+| Total Matches | 8 |
 | Wins | 4 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722938454,1721998732,1721480949,1720790329,1720290846,1719708596,1711156312];
+        let timestamps = [1723379599,1722938454,1721998732,1721480949,1720790329,1720290846,1719708596,1711156312];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/16 | 4-10 | [第四星际](https://ws.tsl.rocks/corp/42d38d5f95c493cb1822f0c89a5366e532a9dc30c0019e03cf7ddd280bf55040/) |
 | ❌ | 2024/08/11 | 3-13 | [Eretria ](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |
 | ✅ | 2024/07/31 | 15-7 | [Qonqr](https://ws.tsl.rocks/corp/8011516d431af62ef24f4ba8a7c660a0633950c298477032c97ab726991b65ad/) |
 | ✅ | 2024/07/25 | 2-0 | [империя тьмы](https://ws.tsl.rocks/corp/4eb22a1b793e5d03579cea15c873b1bef56fea02420a4e55edb18a200f7fc46a/) |
