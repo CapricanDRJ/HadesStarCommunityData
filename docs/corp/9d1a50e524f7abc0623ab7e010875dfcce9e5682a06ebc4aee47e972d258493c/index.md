@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​NoweUkladyII
-description: W:12 L:0 D:0 Bonus ❌
-date: 1722953644
+description: W:13 L:0 D:0 Bonus ✅
+date: 1723854877
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1336 🔺  (78)|
-| ELO Competitive | 1362 🔺  (127)|
-| Total Matches | 12 |
-| Wins | 12 |
+| ELO Regular | 1344 🔺  (74)|
+| ELO Competitive | 1372 🔺  (114)|
+| Total Matches | 13 |
+| Wins | 13 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 12 |
-| Streak Record | 12 |
+| Streak | 13 |
+| Streak Record | 13 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722521644,1721903170,1720903643,1719885428,1719340314,1718795480,1717958998,1717443193,1717003502,1716553331,1716104587,1715636381];
+        let timestamps = [1723422877,1722521644,1721903170,1720903643,1719885428,1719340314,1718795480,1717958998,1717443193,1717003502,1716553331,1716104587,1715636381];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/17 | 20-0 | [U\.S\.A](https://ws.tsl.rocks/corp/6d7a18e9893736881762a4e1b687b55e7311d367267ff5a9cc8e45722b14ea06/) |
 | ✅ | 2024/08/06 | 24-9 | [Atlas Star llc\.](https://ws.tsl.rocks/corp/3de5259ba12509e4d02854f1414caacf3d0aaaf79f417b9d843ff20ca35863dd/) |
 | ✅ | 2024/07/30 | 14-0 | [八月政府](https://ws.tsl.rocks/corp/72097ba1b36daa9482410e9d2b442965a1f4bbb7bb7974995521f1a948244424/) |
 | ✅ | 2024/07/18 | 14-4 | [Ironbear Legion](https://ws.tsl.rocks/corp/256873683be88bf78e3d4f1fda68e669c8be11e78a85f9add19e60facc9831b0/) |
