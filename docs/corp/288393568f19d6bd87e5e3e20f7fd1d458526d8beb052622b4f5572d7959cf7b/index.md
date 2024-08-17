@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Sentencia
-description: W:13 L:3 D:0 Bonus ✅
+description: W:13 L:3 D:0 Bonus ❌
 date: 1723250853
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1336 🔺  (79)|
-| ELO Competitive | 1360 🔺  (132)|
+| ELO Competitive | 1360 🔺  (131)|
 | Total Matches | 16 |
 | Wins | 13 |
 | Losses | 3 |

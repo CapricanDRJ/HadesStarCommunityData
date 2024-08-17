@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​ZION
-description: W:23 L:19 D:0 Bonus ❌
-date: 1723189241
+description: W:24 L:19 D:0 Bonus ✅
+date: 1723872003
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1209 🔻  (399)|
-| ELO Competitive | 1287 🔻  (235)|
-| Total Matches | 42 |
-| Wins | 23 |
+| ELO Regular | 1216 🔺  (342)|
+| ELO Competitive | 1296 🔺  (217)|
+| Total Matches | 43 |
+| Wins | 24 |
 | Losses | 19 |
 | Draws | 0 |
 | Streak Record | 9 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722757241,1722265015,1721471633,1720757569,1720324498,1719823611,1719301545,1718594441,1718076198,1717557696,1717039560,1716395906,1716008930,1715698869,1715546385,1715235566,1714743624,1714724394,1714197675,1713587159,1712843797,1712260278,1710906629,1710903024,1710397328,1710391020,1709881717,1709874506,1709269953,1709269652,1708750715,1708682801,1708151825,1708064383,1707575617,1707112391,1706540515,1706022129,1705561737,1704960715,1704461859,1703926643];
+        let timestamps = [1723440003,1722757241,1722265015,1721471633,1720757569,1720324498,1719823611,1719301545,1718594441,1718076198,1717557696,1717039560,1716395906,1716008930,1715698869,1715546385,1715235566,1714743624,1714724394,1714197675,1713587159,1712843797,1712260278,1710906629,1710903024,1710397328,1710391020,1709881717,1709874506,1709269953,1709269652,1708750715,1708682801,1708151825,1708064383,1707575617,1707112391,1706540515,1706022129,1705561737,1704960715,1704461859,1703926643];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/17 | 29-0 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
 | ❌ | 2024/08/09 | 3-28 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |
 | ❌ | 2024/08/03 | 4-48 | [Argentina 1\.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449/) |
 | ❌ | 2024/07/25 | 15-45 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |

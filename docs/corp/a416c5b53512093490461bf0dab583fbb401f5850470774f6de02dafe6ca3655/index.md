@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​舰队联邦[FF]
-description: W:0 L:1 D:0 Bonus ❌
-date: 1723275792
+description: W:0 L:2 D:0 Bonus ❌
+date: 1723868697
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 🔻  (543)|
-| ELO Competitive | 1189 🔻  (651)|
-| Total Matches | 1 |
+| ELO Regular | 1173 🔻  (818)|
+| ELO Competitive | 1174 🔻  (925)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722843792];
+        let timestamps = [1723436697,1722843792];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/17 | 0-5 | [DeutschlandGmbH](https://ws.tsl.rocks/corp/7f4550924e4740a47b7d66c9ddf38d65c37590507caab29eecc74f81a4ae2895/) |
 | ❌ | 2024/08/10 | 0-5 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
 
 Corporation ID: a416c5b53512093490461bf0dab583fbb401f5850470774f6de02dafe6ca3655
