@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​脉冲星际集团
-description: W:21 L:23 D:1 Bonus ✅
+description: W:21 L:23 D:1 Bonus ❌
 date: 1723295626
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
