@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​МАРСЮКИ
-description: W:32 L:1 D:0 Bonus ✅
+description: W:32 L:1 D:0 Bonus ❌
 date: 1723261970
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1486 🔺  (9)|
+| ELO Regular | 1486 🔺  (10)|
 | ELO Competitive | 1518 🔺  (20)|
 | Total Matches | 33 |
 | Wins | 32 |

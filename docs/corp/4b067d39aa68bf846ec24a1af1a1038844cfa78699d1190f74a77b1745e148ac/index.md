@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​苏维埃联邦
-description: W:0 L:14 D:3 Bonus ❌
-date: 1721791845
+description: W:0 L:15 D:3 Bonus ❌
+date: 1723877412
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1052 🔺  (1173)|
-| ELO Competitive | 1060 🔺  (1198)|
-| Total Matches | 17 |
+| ELO Regular | 1044 🔻  (1178)|
+| ELO Competitive | 1051 🔻  (1201)|
+| Total Matches | 18 |
 | Wins | 0 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 3 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721359845,1720887218,1720183555,1711360691,1710579607,1707908123,1707346050,1706299803,1705762481,1705113074,1704215141,1702977389,1702535600,1702046301,1701578657,1700973364,1700485871];
+        let timestamps = [1723445412,1721359845,1720887218,1720183555,1711360691,1710579607,1707908123,1707346050,1706299803,1705762481,1705113074,1704215141,1702977389,1702535600,1702046301,1701578657,1700973364,1700485871];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/17 | 0-13 | [电磁脉冲集团](https://ws.tsl.rocks/corp/dcb1da78498db8641adb123c1a92ba9ab5f4a68b2a22e41fd8694b912a6d3482/) |
 | ↔️ | 2024/07/24 | 0-0 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) |
 | ❌ | 2024/07/18 | 0-1 | [银星舰队SSF](https://ws.tsl.rocks/corp/c02d97cc37c082739a7828b6669ee67e2108bbf3d9f33628c650ced9fe04dd06/) |
 | ❌ | 2024/07/10 | 0-4 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) |

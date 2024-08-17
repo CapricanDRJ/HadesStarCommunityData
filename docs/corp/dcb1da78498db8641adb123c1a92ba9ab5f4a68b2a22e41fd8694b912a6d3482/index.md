@@ -1,19 +1,21 @@
 ---
 layout: page
 title: ​电磁脉冲集团
-description: W:1 L:0 D:0 Bonus ✅
-date: 1723440172
+description: W:2 L:0 D:0 Bonus ✅
+date: 1723877412
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1219 🔺  (326)|
-| ELO Competitive | 1221 🔺  (410)|
-| Total Matches | 1 |
-| Wins | 1 |
+| ELO Regular | 1227 🔺  (294)|
+| ELO Competitive | 1230 🔺  (380)|
+| Total Matches | 2 |
+| Wins | 2 |
 | Losses | 0 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 
 
 # Whitestar Match Day
@@ -30,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723008172];
+        let timestamps = [1723445412,1723008172];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/17 | 13-0 | [苏维埃联邦](https://ws.tsl.rocks/corp/4b067d39aa68bf846ec24a1af1a1038844cfa78699d1190f74a77b1745e148ac/) |
 | ✅ | 2024/08/12 | 5-0 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 
 Corporation ID: dcb1da78498db8641adb123c1a92ba9ab5f4a68b2a22e41fd8694b912a6d3482
