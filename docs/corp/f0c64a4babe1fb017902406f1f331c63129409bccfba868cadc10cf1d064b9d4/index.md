@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​AFronteiraFinal
-description: W:21 L:6 D:1 Bonus ❌
-date: 1722937115
+description: W:21 L:7 D:1 Bonus ❌
+date: 1723921293
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1391 🔺  (44)|
-| ELO Competitive | 1421 🔺  (75)|
-| Total Matches | 28 |
+| ELO Regular | 1374 🔻  (53)|
+| ELO Competitive | 1404 🔻  (84)|
+| Total Matches | 29 |
 | Wins | 21 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 1 |
-| Streak | 4 |
 | Streak Record | 7 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722505115,1721349931,1720842327,1720232839,1719630296,1719195473,1717091550,1716462901,1715742134,1715051694,1714514375,1714509567,1714070887,1713202274,1713199269,1712407807,1711648789,1710603450,1710597739,1709345676,1708723974,1708095935,1706550436,1705962032,1705153342,1704238886,1701072246,1700072921];
+        let timestamps = [1723489293,1722505115,1721349931,1720842327,1720232839,1719630296,1719195473,1717091550,1716462901,1715742134,1715051694,1714514375,1714509567,1714070887,1713202274,1713199269,1712407807,1711648789,1710603450,1710597739,1709345676,1708723974,1708095935,1706550436,1705962032,1705153342,1704238886,1701072246,1700072921];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/17 | 6-26 | [Bl@ck/Galaxy ](https://ws.tsl.rocks/corp/76f8fe0dcd8b8c1cb8e0083f14c0b36c23bb9757a3af0f191b567774c02222a3/) |
 | ✅ | 2024/08/06 | 32-1 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
 | ✅ | 2024/07/24 | 22-17 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) |
 | ✅ | 2024/07/18 | 25-5 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |
