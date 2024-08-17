@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Hamburg AG 2
-description: W:6 L:11 D:0 Bonus ✅
+description: W:6 L:11 D:0 Bonus ❌
 date: 1723878915
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1178 🔻  (779)|
-| ELO Competitive | 1208 🔻  (509)|
+| ELO Competitive | 1208 🔻  (508)|
 | Total Matches | 17 |
 | Wins | 6 |
 | Losses | 11 |

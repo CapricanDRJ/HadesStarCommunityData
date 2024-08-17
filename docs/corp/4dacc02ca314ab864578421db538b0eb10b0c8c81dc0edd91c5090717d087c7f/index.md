@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Armored Union 
-description: W:21 L:15 D:0 Bonus ✅
-date: 1723393597
+description: W:21 L:16 D:0 Bonus ✅
+date: 1723893338
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1241 🔺  (238)|
-| ELO Competitive | 1338 🔺  (162)|
-| Total Matches | 36 |
+| ELO Regular | 1233 🔻  (265)|
+| ELO Competitive | 1328 🔻  (175)|
+| Total Matches | 37 |
 | Wins | 21 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 0 |
 | Streak Record | 3 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722961597,1722647255,1722477171,1722007946,1721994933,1721359845,1720790329,1720767186,1720163122,1720160117,1719711134,1719660946,1719191869,1719179250,1718748912,1718728473,1718229165,1718211732,1717534261,1717002300,1716955418,1716536807,1716240886,1715726515,1715704660,1715072423,1715064613,1714439558,1714428140,1713804687,1713255157,1712694174,1711922842,1711361242,1710721843,1709826432];
+        let timestamps = [1723461338,1722961597,1722647255,1722477171,1722007946,1721994933,1721359845,1720790329,1720767186,1720163122,1720160117,1719711134,1719660946,1719191869,1719179250,1718748912,1718728473,1718229165,1718211732,1717534261,1717002300,1716955418,1716536807,1716240886,1715726515,1715704660,1715072423,1715064613,1714439558,1714428140,1713804687,1713255157,1712694174,1711922842,1711361242,1710721843,1709826432];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/17 | 2-3 | [9\-Й СКОРПИОН](https://ws.tsl.rocks/corp/5ad79ec30d5d805635609e2b1e1cf5f399486c1d57f6101cb6015afbd50f5913/) |
 | ✅ | 2024/08/11 | 19-3 | [佛矿寺](https://ws.tsl.rocks/corp/64f8afd95b7004e9d5a442da55644ee3ce64a9a8e82345c458d757b527e40624/) |
 | ❌ | 2024/08/08 | 3-7 | [ 边域](https://ws.tsl.rocks/corp/b982530486b86a4944af4474183f3fa6aca9db7a2a4195c018930f68d6ede865/) |
 | ✅ | 2024/08/06 | 12-7 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |

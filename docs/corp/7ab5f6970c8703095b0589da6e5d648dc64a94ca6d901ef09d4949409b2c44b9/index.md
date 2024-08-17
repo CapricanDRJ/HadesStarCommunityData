@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​游徒之家
-description: W:6 L:5 D:0 Bonus ✅
+description: W:6 L:5 D:0 Bonus ❌
 date: 1723719342
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔻  (344)|
+| ELO Regular | 1216 🔻  (343)|
 | ELO Competitive | 1252 🔻  (308)|
 | Total Matches | 11 |
 | Wins | 6 |

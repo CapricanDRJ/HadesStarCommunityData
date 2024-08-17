@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​ANDROMEDA INC. 
-description: W:20 L:1 D:1 Bonus ❌
-date: 1720263031
+description: W:21 L:1 D:1 Bonus ✅
+date: 1723897846
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1420 🔺  (27)|
-| ELO Competitive | 1439 🔺  (59)|
-| Total Matches | 22 |
-| Wins | 20 |
+| ELO Regular | 1427 🔺  (26)|
+| ELO Competitive | 1446 🔺  (55)|
+| Total Matches | 23 |
+| Wins | 21 |
 | Losses | 1 |
 | Draws | 1 |
-| Streak | 13 |
-| Streak Record | 13 |
+| Streak | 14 |
+| Streak Record | 14 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1719831031,1716804248,1715602123,1713772236,1712573076,1711364471,1710152149,1709553309,1708946932,1708354365,1707737432,1706526990,1705926563,1704714894,1704108454,1702899250,1702293056,1701696769,1701084567,1700492184,1699879305,1699269781];
+        let timestamps = [1723465846,1719831031,1716804248,1715602123,1713772236,1712573076,1711364471,1710152149,1709553309,1708946932,1708354365,1707737432,1706526990,1705926563,1704714894,1704108454,1702899250,1702293056,1701696769,1701084567,1700492184,1699879305,1699269781];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/17 | 30-6 | [Got Nothing](https://ws.tsl.rocks/corp/ea7879fd9cbed37b260ec2bf39339786942fb34216036a90e107ba525f5924e1/) |
 | ✅ | 2024/07/06 | 23-13 | [Imperium XIII](https://ws.tsl.rocks/corp/0d52edf77b0cdeaaea6ebc20a7f5b6a60372b535bf96f556b31e2243dc8ee75a/) |
 | ✅ | 2024/06/01 | 43-5 | [Space Marshalls](https://ws.tsl.rocks/corp/6a41cc36abf3a28a1c26bc22843f1892d6938e8eb1e8f8a10fd9e6e964e06c2c/) |
 | ✅ | 2024/05/18 | 34-8 | [Galactic Empire](https://ws.tsl.rocks/corp/72dcb83d090873cff1d27d191205e6a484c8c5b057f4b55f138e631f33037248/) |

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Got Nothing
-description: W:13 L:10 D:0 Bonus ❌
-date: 1723318133
+description: W:13 L:11 D:0 Bonus ❌
+date: 1723897846
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1221 🔻  (314)|
-| ELO Competitive | 1242 🔻  (339)|
-| Total Matches | 23 |
+| ELO Regular | 1214 🔻  (371)|
+| ELO Competitive | 1235 🔻  (359)|
+| Total Matches | 24 |
 | Wins | 13 |
-| Losses | 10 |
+| Losses | 11 |
 | Draws | 0 |
 | Streak Record | 4 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722886133,1722271929,1721663966,1719861089,1718539446,1716831302,1716346035,1715627967,1713821514,1712592611,1712019897,1711398506,1710193019,1709612504,1707805052,1707160585,1705988773,1705334252,1704763583,1703526353,1702921795,1701102602,1699901550];
+        let timestamps = [1723465846,1722886133,1722271929,1721663966,1719861089,1718539446,1716831302,1716346035,1715627967,1713821514,1712592611,1712019897,1711398506,1710193019,1709612504,1707805052,1707160585,1705988773,1705334252,1704763583,1703526353,1702921795,1701102602,1699901550];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/17 | 6-30 | [ANDROMEDA INC\. ](https://ws.tsl.rocks/corp/9d122968f1050c65cf6c741d5f018d932b3fdff8fc0a48144a4376b9fa18677b/) |
 | ❌ | 2024/08/10 | 11-28 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) |
 | ❌ | 2024/08/03 | 5-32 | [Omega Alpha](https://ws.tsl.rocks/corp/b6e23a3f1f3a3c735c694624b273dcd7da2f8bd13a5ac2b36a8ad39737b1d062/) |
 | ✅ | 2024/07/27 | 30-3 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |

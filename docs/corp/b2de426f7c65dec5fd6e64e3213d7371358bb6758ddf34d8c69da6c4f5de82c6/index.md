@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Hun Generals
-description: W:9 L:34 D:0 Bonus ✅
-date: 1723289315
+description: W:9 L:36 D:0 Bonus ✅
+date: 1723893037
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1006 🔺  (1198)|
-| ELO Competitive | 1139 🔺  (1120)|
-| Total Matches | 43 |
+| ELO Regular | 995 🔻  (1200)|
+| ELO Competitive | 1132 🔻  (1137)|
+| Total Matches | 45 |
 | Wins | 9 |
-| Losses | 34 |
+| Losses | 36 |
 | Draws | 0 |
 | Streak Record | 3 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722857315,1722847998,1722408654,1722232860,1721661262,1721596054,1721017550,1720509685,1720419765,1719897145,1719643817,1719414836,1719203885,1718698055,1718647935,1718084310,1718034729,1717450108,1717438984,1716802145,1716300067,1715748142,1715285145,1714802318,1714356322,1713865973,1713384069,1712916809,1712484128,1712047835,1711061667,1710628995,1709955036,1709507945,1708895859,1708292769,1707685455,1707100372,1706476511,1705870375,1705260032,1704231673,1701033784];
+        let timestamps = [1723461037,1723460737,1722857315,1722847998,1722408654,1722232860,1721661262,1721596054,1721017550,1720509685,1720419765,1719897145,1719643817,1719414836,1719203885,1718698055,1718647935,1718084310,1718034729,1717450108,1717438984,1716802145,1716300067,1715748142,1715285145,1714802318,1714356322,1713865973,1713384069,1712916809,1712484128,1712047835,1711061667,1710628995,1709955036,1709507945,1708895859,1708292769,1707685455,1707100372,1706476511,1705870375,1705260032,1704231673,1701033784];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -128,6 +128,8 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/17 | 15-30 | [Soylent Corp\.](https://ws.tsl.rocks/corp/9f978f9cca690b76981d538d63260cd39d51427e5d69412113ccad02cc7cac2d/) |
+| ❌ | 2024/08/17 | 0-25 | [Halcon español](https://ws.tsl.rocks/corp/ab9c3038dcf2b019ba662007ab1e50b2d80e0eb8e7a65e57dd5260a6d2e80ff9/) |
 | ✅ | 2024/08/10 | 3-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
 | ❌ | 2024/08/10 | 3-38 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) |
 | ❌ | 2024/08/05 | 0-13 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |

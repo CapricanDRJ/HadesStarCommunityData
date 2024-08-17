@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Utd. Human Fed.
-description: W:25 L:22 D:1 Bonus ✅
+description: W:25 L:22 D:1 Bonus ❌
 date: 1723872604
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1200 🔻  (444)|
-| ELO Competitive | 1342 🔻  (154)|
+| ELO Regular | 1200 🔻  (445)|
+| ELO Competitive | 1342 🔻  (155)|
 | Total Matches | 48 |
 | Wins | 25 |
 | Losses | 22 |

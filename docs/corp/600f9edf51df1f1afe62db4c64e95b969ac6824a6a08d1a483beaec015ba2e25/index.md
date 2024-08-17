@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​地球联合
-description: W:12 L:3 D:0 Bonus ❌
-date: 1720093548
+description: W:12 L:4 D:0 Bonus ❌
+date: 1723897846
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1314 🔺  (103)|
-| ELO Competitive | 1334 🔺  (169)|
-| Total Matches | 15 |
+| ELO Regular | 1303 🔻  (120)|
+| ELO Competitive | 1324 🔻  (179)|
+| Total Matches | 16 |
 | Wins | 12 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 6 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1719661548,1719196374,1718594441,1713153897,1709461362,1707203555,1706434129,1705201728,1704615122,1704012594,1703413357,1702617046,1700626827,1700136333,1698701803];
+        let timestamps = [1723465846,1719661548,1719196374,1718594441,1713153897,1709461362,1707203555,1706434129,1705201728,1704615122,1704012594,1703413357,1702617046,1700626827,1700136333,1698701803];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/17 | 14-34 | [Omega Alpha](https://ws.tsl.rocks/corp/b6e23a3f1f3a3c735c694624b273dcd7da2f8bd13a5ac2b36a8ad39737b1d062/) |
 | ✅ | 2024/07/04 | 36-7 | [NERF TOY'S](https://ws.tsl.rocks/corp/34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0/) |
 | ✅ | 2024/06/29 | 20-7 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) |
 | ❌ | 2024/06/22 | 0-40 | [\[Blue\*Nation\]](https://ws.tsl.rocks/corp/38cd283c7bb8ee0390f5624e49a3465b1d4a8c789cc2d501f38918a16f6140e2/) |

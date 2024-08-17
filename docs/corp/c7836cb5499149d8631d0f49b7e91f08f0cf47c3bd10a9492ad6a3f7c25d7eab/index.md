@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Hellfire Club
-description: W:30 L:26 D:0 Bonus ✅
+description: W:30 L:26 D:0 Bonus ❌
 date: 1723882220
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1217 🔻  (334)|
-| ELO Competitive | 1310 🔻  (200)|
+| ELO Regular | 1217 🔻  (333)|
+| ELO Competitive | 1310 🔻  (201)|
 | Total Matches | 56 |
 | Wins | 30 |
 | Losses | 26 |

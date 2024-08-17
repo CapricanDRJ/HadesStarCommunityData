@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​逐光起航
-description: W:5 L:26 D:4 Bonus ✅
+description: W:5 L:26 D:4 Bonus ❌
 date: 1723793568
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1046 🔻  (1177)|
-| ELO Competitive | 1085 🔻  (1183)|
+| ELO Regular | 1046 🔻  (1178)|
+| ELO Competitive | 1085 🔻  (1184)|
 | Total Matches | 35 |
 | Wins | 5 |
 | Losses | 26 |

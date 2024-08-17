@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​StarFun
-description: W:0 L:1 D:0 Bonus ❌
-date: 1720871297
+description: W:1 L:1 D:0 Bonus ✅
+date: 1723894239
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (591)|
-| ELO Competitive | 1190 🔻  (635)|
-| Total Matches | 1 |
-| Wins | 0 |
+| ELO Regular | 1202 🔺  (428)|
+| ELO Competitive | 1207 🔺  (515)|
+| Total Matches | 2 |
+| Wins | 1 |
 | Losses | 1 |
 | Draws | 0 |
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1720439297];
+        let timestamps = [1723462239,1720439297];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/17 | 2-0 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |
 | ❌ | 2024/07/13 | 1-10 | [宇宙银河帝国](https://ws.tsl.rocks/corp/afb9817e45c3c79048d2be30be3b635704485d260ae7b474b579a019d56d3c2d/) |
 
 Corporation ID: 641dbdde520393710db56ceb7acd0035160eb5cba4e3cc41a956b7c147600d5c
