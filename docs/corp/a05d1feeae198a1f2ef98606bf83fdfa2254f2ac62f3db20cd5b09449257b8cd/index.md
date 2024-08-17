@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​DarkSide
-description: W:29 L:38 D:1 Bonus ✅
+description: W:29 L:38 D:1 Bonus ❌
 date: 1723609954
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
