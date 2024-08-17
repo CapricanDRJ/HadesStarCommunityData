@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Альянс
-description: W:25 L:9 D:0 Bonus ❌
-date: 1722007313
+description: W:26 L:9 D:0 Bonus ✅
+date: 1723904160
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1323 🔻  (94)|
-| ELO Competitive | 1359 🔻  (132)|
-| Total Matches | 34 |
-| Wins | 25 |
+| ELO Regular | 1337 🔺  (79)|
+| ELO Competitive | 1374 🔺  (109)|
+| Total Matches | 35 |
+| Wins | 26 |
 | Losses | 9 |
 | Draws | 0 |
 | Streak Record | 9 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721575313,1720189568,1719306653,1717433572,1716873373,1716203923,1715514990,1714625242,1713762323,1712823065,1712242546,1711516886,1710955301,1710350458,1709787072,1709284075,1708688210,1708156933,1707550675,1707021033,1706554944,1706086436,1705575257,1705089034,1704655399,1704109957,1703675107,1703152797,1702712014,1702193273,1701691960,1701253173,1700478057,1699362935];
+        let timestamps = [1723472160,1721575313,1720189568,1719306653,1717433572,1716873373,1716203923,1715514990,1714625242,1713762323,1712823065,1712242546,1711516886,1710955301,1710350458,1709787072,1709284075,1708688210,1708156933,1707550675,1707021033,1706554944,1706086436,1705575257,1705089034,1704655399,1704109957,1703675107,1703152797,1702712014,1702193273,1701691960,1701253173,1700478057,1699362935];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/17 | 33-23 | [Scar](https://ws.tsl.rocks/corp/1fd57b7d50b68cb3883fd58e596f496821ebcc82dee1915bb7f34a402b03c44a/) |
 | ❌ | 2024/07/26 | 6-25 | [alienigenas](https://ws.tsl.rocks/corp/1c092f1b0e9645193eac68e27b29b2b9fef39474fd8924495abec6754857a8f9/) |
 | ✅ | 2024/07/10 | 32-7 | [Pyke Syndicate](https://ws.tsl.rocks/corp/1761635d6aaf9c2caf7abc37130e2d9aa48e7b4cc753ae4b701fde4b48abd3e1/) |
 | ✅ | 2024/06/30 | 21-5 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |

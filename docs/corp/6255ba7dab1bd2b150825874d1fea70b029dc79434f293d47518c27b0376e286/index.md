@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Space Penguins
-description: W:39 L:10 D:0 Bonus ✅
+description: W:39 L:10 D:0 Bonus ❌
 date: 1723281200
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

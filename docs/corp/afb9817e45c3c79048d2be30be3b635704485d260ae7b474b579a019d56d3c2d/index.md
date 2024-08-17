@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​宇宙银河帝国
-description: W:23 L:13 D:3 Bonus ✅
+description: W:23 L:13 D:3 Bonus ❌
 date: 1723819115
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1300 🔻  (125)|
-| ELO Competitive | 1371 🔻  (116)|
+| ELO Competitive | 1371 🔻  (117)|
 | Total Matches | 39 |
 | Wins | 23 |
 | Losses | 13 |
