@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​UK Armada
-description: W:3 L:2 D:1 Bonus ❌
-date: 1719402669
+description: W:3 L:3 D:1 Bonus ❌
+date: 1723967267
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1212 🔻  (392)|
-| ELO Competitive | 1218 🔻  (430)|
-| Total Matches | 6 |
+| ELO Regular | 1199 🔻  (469)|
+| ELO Competitive | 1208 🔻  (510)|
+| Total Matches | 7 |
 | Wins | 3 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 1 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1718970669,1713167716,1711089605,1708443913,1706575379,1705531091];
+        let timestamps = [1723535267,1718970669,1713167716,1711089605,1708443913,1706575379,1705531091];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/18 | 7-28 | [Retarts](https://ws.tsl.rocks/corp/1556331f722d00268e3c524b12efedac51051cf48e46b2513675774b9315a155/) |
 | ❌ | 2024/06/26 | 10-16 | [2ND\-R8 Corp\.](https://ws.tsl.rocks/corp/e97866623598a98454b3a4724b472dc171f5e1aff84b076c43d021f0fabdc702/) |
 | ❌ | 2024/04/20 | 4-9 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |
 | ✅ | 2024/03/27 | 17-6 | [lesescargots](https://ws.tsl.rocks/corp/718c873931e9097064fd6ef580fe9d8761be712e0783e0b97d28344abd910623/) |

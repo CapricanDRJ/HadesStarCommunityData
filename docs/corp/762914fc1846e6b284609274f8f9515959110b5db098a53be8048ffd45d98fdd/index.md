@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Final Space
-description: W:0 L:1 D:0 Bonus ❌
-date: 1723383377
+description: W:0 L:2 D:0 Bonus ❌
+date: 1723973277
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (612)|
-| ELO Competitive | 1187 🔻  (695)|
-| Total Matches | 1 |
+| ELO Regular | 1173 🔻  (821)|
+| ELO Competitive | 1175 🔻  (920)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722951377];
+        let timestamps = [1723541277,1722951377];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/18 | 4-5 | [Anarchy Nation ](https://ws.tsl.rocks/corp/9c456dbf32e22070620021bf0bea4d2ab9deb0ac7ad4be06a4067a9ced5f2f5b/) |
 | ❌ | 2024/08/11 | 1-16 | [使命白星](https://ws.tsl.rocks/corp/88e828c55c07286950a3296b00ca2a7a9cc2f1a0139e9cf4c6e54229f821e952/) |
 
 Corporation ID: 762914fc1846e6b284609274f8f9515959110b5db098a53be8048ffd45d98fdd

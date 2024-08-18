@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Game of Stars
-description: W:9 L:18 D:0 Bonus ✅
+description: W:9 L:18 D:0 Bonus ❌
 date: 1723352425
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1159 🔺  (964)|
-| ELO Competitive | 1185 🔺  (770)|
+| ELO Competitive | 1185 🔺  (769)|
 | Total Matches | 27 |
 | Wins | 9 |
 | Losses | 18 |

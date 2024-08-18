@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Retarts
-description: W:17 L:17 D:2 Bonus ✅
-date: 1723361140
+description: W:18 L:17 D:2 Bonus ✅
+date: 1723967267
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1276 🔺  (169)|
-| ELO Competitive | 1343 🔺  (150)|
-| Total Matches | 36 |
-| Wins | 17 |
+| ELO Regular | 1289 🔺  (138)|
+| ELO Competitive | 1353 🔺  (139)|
+| Total Matches | 37 |
+| Wins | 18 |
 | Losses | 17 |
 | Draws | 2 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 4 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722929140,1722929139,1722325114,1722322710,1721631209,1721629105,1721124848,1721115532,1720524346,1720513227,1720017055,1719989104,1719487557,1718956547,1718436367,1717917816,1717350621,1717340399,1715908882,1715908281,1714724394,1714156815,1713691717,1713259062,1712806542,1712325175,1711771692,1711189662,1710739272,1710130220,1709567998,1708924099,1708919592,1708319507,1708318306,1698718336];
+        let timestamps = [1723535267,1722929140,1722929139,1722325114,1722322710,1721631209,1721629105,1721124848,1721115532,1720524346,1720513227,1720017055,1719989104,1719487557,1718956547,1718436367,1717917816,1717350621,1717340399,1715908882,1715908281,1714724394,1714156815,1713691717,1713259062,1712806542,1712325175,1711771692,1711189662,1710739272,1710130220,1709567998,1708924099,1708919592,1708319507,1708318306,1698718336];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/18 | 28-7 | [UK Armada](https://ws.tsl.rocks/corp/2e3b65146fc90421a8e65a738a443ed67c756396af15a641475928091cb261a4/) |
 | ✅ | 2024/08/11 | 4-3 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |
 | ✅ | 2024/08/11 | 19-5 | [Space Pirates](https://ws.tsl.rocks/corp/87eff6e453b6f020baf8cb8930236b566161e22814cdbdc77d696c5812684bc6/) |
 | ❌ | 2024/08/04 | 24-35 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
