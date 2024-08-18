@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​ГОРИЗОНТ
-description: W:13 L:50 D:0 Bonus ✅
+description: W:13 L:50 D:0 Bonus ❌
 date: 1723925200
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1065 🔻  (1166)|
-| ELO Competitive | 1203 🔻  (528)|
+| ELO Competitive | 1203 🔻  (527)|
 | Total Matches | 63 |
 | Wins | 13 |
 | Losses | 50 |

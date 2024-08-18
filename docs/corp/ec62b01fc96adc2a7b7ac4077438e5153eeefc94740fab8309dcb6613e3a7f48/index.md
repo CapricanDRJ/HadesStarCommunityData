@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Bacon Warriors
-description: W:15 L:12 D:0 Bonus ✅
+description: W:15 L:12 D:0 Bonus ❌
 date: 1723316066
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1275 🔺  (171)|
-| ELO Competitive | 1327 🔺  (176)|
+| ELO Regular | 1275 🔺  (173)|
+| ELO Competitive | 1327 🔺  (178)|
 | Total Matches | 27 |
 | Wins | 15 |
 | Losses | 12 |

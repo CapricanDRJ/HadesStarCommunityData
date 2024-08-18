@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​두빛나래
-description: W:11 L:18 D:0 Bonus ❌
-date: 1722815416
+description: W:11 L:19 D:0 Bonus ❌
+date: 1723938121
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1141 🔻  (1043)|
-| ELO Competitive | 1203 🔻  (525)|
-| Total Matches | 29 |
+| ELO Regular | 1127 🔻  (1081)|
+| ELO Competitive | 1194 🔻  (601)|
+| Total Matches | 30 |
 | Wins | 11 |
-| Losses | 18 |
+| Losses | 19 |
 | Draws | 0 |
 | Streak Record | 4 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722383416,1721315073,1719931402,1719152494,1718291363,1717124903,1716610716,1716123705,1715687451,1715204625,1714735210,1714282704,1713693219,1712969094,1712588974,1712507873,1711825482,1711729023,1710772507,1710694201,1709742904,1708613088,1707672831,1706803767,1705978858,1705263039,1704305233,1703341531,1702568659];
+        let timestamps = [1723506121,1722383416,1721315073,1719931402,1719152494,1718291363,1717124903,1716610716,1716123705,1715687451,1715204625,1714735210,1714282704,1713693219,1712969094,1712588974,1712507873,1711825482,1711729023,1710772507,1710694201,1709742904,1708613088,1707672831,1706803767,1705978858,1705263039,1704305233,1703341531,1702568659];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/17 | 0-18 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
 | ❌ | 2024/08/04 | 0-13 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) |
 | ❌ | 2024/07/23 | 6-26 | [Star Destroyers](https://ws.tsl.rocks/corp/32ba20918cd8720602fefb3bc676a6ba5195314479040f70eadc728fbbc2698d/) |
 | ❌ | 2024/07/07 | 2-25 | [Grater T](https://ws.tsl.rocks/corp/2044ad2bb7831118aae299744191230a33d196c7997f9516a20c3d0a321ba669/) |
