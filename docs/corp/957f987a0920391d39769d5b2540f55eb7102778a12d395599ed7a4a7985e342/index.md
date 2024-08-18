@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Stellaris
-description: W:0 L:7 D:0 Bonus ❌
-date: 1723213888
+description: W:0 L:8 D:0 Bonus ❌
+date: 1724001529
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1121 🔻  (1096)|
-| ELO Competitive | 1133 🔻  (1136)|
-| Total Matches | 7 |
+| ELO Regular | 1120 🔻  (1098)|
+| ELO Competitive | 1131 🔻  (1139)|
+| Total Matches | 8 |
 | Wins | 0 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722781888,1721565092,1720537270,1718568603,1717059992,1714808328,1707318043];
+        let timestamps = [1723569529,1722781888,1721565092,1720537270,1718568603,1717059992,1714808328,1707318043];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/18 | 3-41 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) |
 | ❌ | 2024/08/09 | 10-27 | [INFINITY STAR](https://ws.tsl.rocks/corp/e36eb12fc6bc8e4b826e6bcb46020cad3eb616497c4c14075e8b657715898a9f/) |
 | ❌ | 2024/07/26 | 3-8 | [Vega Conflict](https://ws.tsl.rocks/corp/396ceafad44127f2e9dfb94934dc27154c6f97f6bc60832af6cb17791fd7369b/) |
 | ❌ | 2024/07/14 | 9-30 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) |
