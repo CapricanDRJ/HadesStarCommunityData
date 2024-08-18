@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​three kitties
-description: W:33 L:11 D:1 Bonus ✅
+description: W:33 L:11 D:1 Bonus ❌
 date: 1723866894
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

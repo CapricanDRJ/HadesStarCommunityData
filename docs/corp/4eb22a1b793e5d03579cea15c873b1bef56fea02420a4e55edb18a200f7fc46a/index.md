@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​империя тьмы
-description: W:15 L:24 D:2 Bonus ✅
-date: 1723502982
+description: W:16 L:24 D:2 Bonus ✅
+date: 1724011448
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1113 🔻  (1119)|
-| ELO Competitive | 1245 🔺  (333)|
-| Total Matches | 41 |
-| Wins | 15 |
+| ELO Regular | 1125 🔺  (1089)|
+| ELO Competitive | 1253 🔺  (309)|
+| Total Matches | 42 |
+| Wins | 16 |
 | Losses | 24 |
 | Draws | 2 |
 | Streak Record | 2 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723070982,1723061366,1722512928,1722512928,1721994933,1721993923,1721484857,1721480949,1720622455,1720619913,1720082574,1720078067,1719602352,1719601751,1719138374,1719130853,1718642524,1717863724,1717368056,1716818074,1716156159,1715030366,1714176646,1713741297,1713125656,1713124941,1712637982,1712119650,1711644281,1711637369,1711107030,1711077589,1710588122,1710346551,1710142836,1709714677,1709661781,1709237204,1709161903,1708706543,1708273559];
+        let timestamps = [1723579448,1723070982,1723061366,1722512928,1722512928,1721994933,1721993923,1721484857,1721480949,1720622455,1720619913,1720082574,1720078067,1719602352,1719601751,1719138374,1719130853,1718642524,1717863724,1717368056,1716818074,1716156159,1715030366,1714176646,1713741297,1713125656,1713124941,1712637982,1712119650,1711644281,1711637369,1711107030,1711077589,1710588122,1710346551,1710142836,1709714677,1709661781,1709237204,1709161903,1708706543,1708273559];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -128,6 +128,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/18 | 9-0 | [RedStar Raiding](https://ws.tsl.rocks/corp/83a1c4f1576eec7dce037eb5b64b2455ca3affb9d3072108c5d4d3eba88b4570/) |
 | ❌ | 2024/08/12 | 3-16 | [Pixies](https://ws.tsl.rocks/corp/fe3875cc3bc7cd97ee3d418bb35d69d8ec90da355cbec2dfb7a364387e021240/) |
 | ✅ | 2024/08/12 | 1-0 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) |
 | ✅ | 2024/08/06 | 3-2 | [●Black•Sails●](https://ws.tsl.rocks/corp/fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31/) |
