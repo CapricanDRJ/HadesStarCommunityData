@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​绛紫星
-description: W:26 L:18 D:2 Bonus ✅
+description: W:26 L:18 D:2 Bonus ❌
 date: 1723862988
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

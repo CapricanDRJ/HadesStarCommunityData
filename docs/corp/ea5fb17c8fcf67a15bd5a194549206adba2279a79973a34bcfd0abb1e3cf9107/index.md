@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Continuum
-description: W:56 L:30 D:1 Bonus ✅
+description: W:56 L:30 D:1 Bonus ❌
 date: 1723839554
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
