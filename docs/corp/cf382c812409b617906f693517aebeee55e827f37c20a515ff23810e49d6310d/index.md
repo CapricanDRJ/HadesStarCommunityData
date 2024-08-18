@@ -8,8 +8,8 @@ date: 1723921293
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1202 🔺  (428)|
-| ELO Competitive | 1222 🔺  (407)|
+| ELO Regular | 1202 🔺  (429)|
+| ELO Competitive | 1222 🔺  (408)|
 | Total Matches | 9 |
 | Wins | 5 |
 | Losses | 4 |

@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Gastro
-description: W:3 L:3 D:0 Bonus ✅
+description: W:3 L:3 D:0 Bonus ❌
 date: 1723339205
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 🔺  (432)|
-| ELO Competitive | 1209 🔺  (509)|
+| ELO Regular | 1201 🔺  (433)|
+| ELO Competitive | 1209 🔺  (510)|
 | Total Matches | 6 |
 | Wins | 3 |
 | Losses | 3 |

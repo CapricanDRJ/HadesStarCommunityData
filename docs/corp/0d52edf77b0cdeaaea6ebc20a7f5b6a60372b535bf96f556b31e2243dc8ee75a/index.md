@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Imperium XIII
-description: W:26 L:21 D:0 Bonus ❌
-date: 1723261970
+description: W:27 L:21 D:0 Bonus ✅
+date: 1723953144
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1242 🔻  (237)|
-| ELO Competitive | 1280 🔻  (253)|
-| Total Matches | 47 |
-| Wins | 26 |
+| ELO Regular | 1259 🔺  (199)|
+| ELO Competitive | 1300 🔺  (213)|
+| Total Matches | 48 |
+| Wins | 27 |
 | Losses | 21 |
 | Draws | 0 |
 | Streak Record | 5 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722829970,1722243076,1721618287,1721024463,1720380403,1719831031,1719174139,1718557482,1718047053,1717402310,1716754974,1716183494,1715535727,1714982889,1714327480,1713707943,1713182438,1712526508,1711913526,1711360341,1710714638,1710100475,1709536184,1708875122,1708320709,1707692967,1707131019,1706535105,1706535105,1705926563,1705390146,1705265143,1704784316,1704703776,1704121980,1703365277,1703330410,1702873107,1702228442,1701690156,1701023561,1700514730,1700469943,1699849852,1699220512,1699216905,1698685261];
+        let timestamps = [1723521144,1722829970,1722243076,1721618287,1721024463,1720380403,1719831031,1719174139,1718557482,1718047053,1717402310,1716754974,1716183494,1715535727,1714982889,1714327480,1713707943,1713182438,1712526508,1711913526,1711360341,1710714638,1710100475,1709536184,1708875122,1708320709,1707692967,1707131019,1706535105,1706535105,1705926563,1705390146,1705265143,1704784316,1704703776,1704121980,1703365277,1703330410,1702873107,1702228442,1701690156,1701023561,1700514730,1700469943,1699849852,1699220512,1699216905,1698685261];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Zvezdec](https://ws.tsl.rocks/corp/7bce2af674b8fb313f43e497201ad86b230571cc3e200f44132be528eb4076d9/) | 1 | 2 | 0 | 3 |
 | [The X \- Files](https://ws.tsl.rocks/corp/f13cb0ae2dbb0654a2067c8749f86bce49edc5b520bd391c7af11948f23a41fb/) | 2 | 0 | 0 | 2 |
 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 0 | 2 | 0 | 2 |
 | [ANDROMEDA INC\. ](https://ws.tsl.rocks/corp/9d122968f1050c65cf6c741d5f018d932b3fdff8fc0a48144a4376b9fa18677b/) | 0 | 2 | 0 | 2 |
@@ -125,7 +126,6 @@ This chart shows the frequency of days of the week when whitestars were matched.
 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) | 0 | 2 | 0 | 2 |
 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 1 | 1 | 0 | 2 |
 | [Ironbear Legion](https://ws.tsl.rocks/corp/256873683be88bf78e3d4f1fda68e669c8be11e78a85f9add19e60facc9831b0/) | 1 | 1 | 0 | 2 |
-| [Zvezdec](https://ws.tsl.rocks/corp/7bce2af674b8fb313f43e497201ad86b230571cc3e200f44132be528eb4076d9/) | 0 | 2 | 0 | 2 |
 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) | 1 | 1 | 0 | 2 |
 | [Peak Extraction](https://ws.tsl.rocks/corp/b656a84b60d6de62745eb9059a703b44cca76b6247beeceef5f856f89e4c2d0d/) | 2 | 0 | 0 | 2 |
 
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/18 | 31-0 | [Zvezdec](https://ws.tsl.rocks/corp/7bce2af674b8fb313f43e497201ad86b230571cc3e200f44132be528eb4076d9/) |
 | ❌ | 2024/08/10 | 0-16 | [МАРСЮКИ](https://ws.tsl.rocks/corp/c3fa1ee33163a1a29bc7c9c69a933fc3b4d29c0e0e7a720c80fb2f5381b275c8/) |
 | ✅ | 2024/08/03 | 29-10 | [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/) |
 | ✅ | 2024/07/27 | 53-7 | [The X \- Files](https://ws.tsl.rocks/corp/f13cb0ae2dbb0654a2067c8749f86bce49edc5b520bd391c7af11948f23a41fb/) |
