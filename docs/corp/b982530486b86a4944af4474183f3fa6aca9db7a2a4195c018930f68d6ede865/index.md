@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​ 边域
-description: W:3 L:2 D:0 Bonus ✅
-date: 1723513497
+description: W:4 L:2 D:0 Bonus ✅
+date: 1723947435
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1221 🔻  (314)|
-| ELO Competitive | 1214 🔻  (470)|
-| Total Matches | 5 |
-| Wins | 3 |
+| ELO Regular | 1235 🔺  (259)|
+| ELO Competitive | 1230 🔺  (378)|
+| Total Matches | 6 |
+| Wins | 4 |
 | Losses | 2 |
 | Draws | 0 |
 | Streak Record | 3 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723081497,1722946267,1722647255,1722187785,1721724969];
+        let timestamps = [1723515435,1723081497,1722946267,1722647255,1722187785,1721724969];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/18 | 13-1 | [超新星联盟](https://ws.tsl.rocks/corp/c3667794c88fd0a09f565dc3b4fed5325f131a616d01d0f6890755b44997d0a1/) |
 | ❌ | 2024/08/13 | 0-4 | [Brasil](https://ws.tsl.rocks/corp/c1d98a4e0a9c522aff7cb4156b0dc139eb54566269c2203b2eae6fe1827fc6c3/) |
 | ✅ | 2024/08/11 | 10-0 | [使命白星分团](https://ws.tsl.rocks/corp/756b9e1ef6c71e6a6b21c9859364c3bb6db5b24082327b1ea0f2b790cb49ef75/) |
 | ✅ | 2024/08/08 | 7-3 | [Armored Union ](https://ws.tsl.rocks/corp/4dacc02ca314ab864578421db538b0eb10b0c8c81dc0edd91c5090717d087c7f/) |

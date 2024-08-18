@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​<•|•>
-description: W:2 L:4 D:1 Bonus ✅
+description: W:2 L:4 D:1 Bonus ❌
 date: 1723840155
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔻  (913)|
+| ELO Regular | 1168 🔻  (914)|
 | ELO Competitive | 1177 🔻  (895)|
 | Total Matches | 7 |
 | Wins | 2 |

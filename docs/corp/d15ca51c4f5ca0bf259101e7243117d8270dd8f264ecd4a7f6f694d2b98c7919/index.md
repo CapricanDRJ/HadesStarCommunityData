@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​WSC(no DISCORD)
-description: W:23 L:16 D:3 Bonus ✅
-date: 1723918588
+description: W:23 L:17 D:3 Bonus ✅
+date: 1723943529
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1297 🔺  (129)|
+| ELO Regular | 1276 🔻  (168)|
 | ELO Competitive | 1386 🔺  (98)|
-| Total Matches | 42 |
+| Total Matches | 43 |
 | Wins | 23 |
-| Losses | 16 |
+| Losses | 17 |
 | Draws | 3 |
-| Streak | 2 |
 | Streak Record | 7 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723486588,1723015985,1723008172,1722546889,1722545387,1722056431,1722052825,1721575013,1721573004,1721129831,1721129657,1720616607,1719987301,1719479744,1718991431,1718987802,1718472135,1717917516,1717484962,1717161261,1716961428,1716543132,1716361957,1715990757,1715888754,1715493656,1715429053,1715010532,1714578373,1714576269,1714139685,1714135178,1713652064,1713640946,1713189350,1713185743,1712751856,1712671934,1712319656,1712173137,1711725116,1711233841];
+        let timestamps = [1723511529,1723486588,1723015985,1723008172,1722546889,1722545387,1722056431,1722052825,1721575013,1721573004,1721129831,1721129657,1720616607,1719987301,1719479744,1718991431,1718987802,1718472135,1717917516,1717484962,1717161261,1716961428,1716543132,1716361957,1715990757,1715888754,1715493656,1715429053,1715010532,1714578373,1714576269,1714139685,1714135178,1713652064,1713640946,1713189350,1713185743,1712751856,1712671934,1712319656,1712173137,1711725116,1711233841];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -130,6 +129,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/18 | 0-15 | [MÉXICO INFINITO](https://ws.tsl.rocks/corp/a9fbdd48477b87a054dbd804eef12ae08bc6e02798cd8990b08c4a9803d8f9d8/) |
 | ✅ | 2024/08/17 | 16-3 | [Black Star llc\.](https://ws.tsl.rocks/corp/f6cd5aed527efed3a402f931784d68b5b7201b317118a60bd3d81b551ee87330/) |
 | ✅ | 2024/08/12 | 26-1 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) |
 | ❌ | 2024/08/12 | 0-5 | [电磁脉冲集团](https://ws.tsl.rocks/corp/dcb1da78498db8641adb123c1a92ba9ab5f4a68b2a22e41fd8694b912a6d3482/) |
