@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​云霄宫
-description: W:1 L:4 D:0 Bonus ✅
+description: W:1 L:4 D:0 Bonus ❌
 date: 1723868096
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
