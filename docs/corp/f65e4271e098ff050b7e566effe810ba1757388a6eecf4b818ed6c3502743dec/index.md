@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​宇宙联盟（中国）
-description: W:15 L:29 D:3 Bonus ✅
+description: W:15 L:29 D:3 Bonus ❌
 date: 1723456999
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Ninth Planet
-description: W:40 L:4 D:1 Bonus ✅
-date: 1723497874
+description: W:41 L:4 D:1 Bonus ✅
+date: 1724079657
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1490 🔺  (8)|
-| ELO Competitive | 1523 🔺  (19)|
-| Total Matches | 45 |
-| Wins | 40 |
+| ELO Regular | 1494 🔺  (6)|
+| ELO Competitive | 1526 🔺  (19)|
+| Total Matches | 46 |
+| Wins | 41 |
 | Losses | 4 |
 | Draws | 1 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 24 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723065874,1722346450,1721879732,1721251374,1720644564,1720067357,1720047116,1719451802,1718835456,1718255303,1717546280,1717542675,1716944303,1716331317,1716328613,1715663116,1715587102,1715129256,1714601211,1713994872,1713436343,1713416214,1712799933,1712791522,1712235333,1712190264,1711508474,1710996863,1710379305,1709786407,1709161903,1708563853,1707990025,1707325256,1706750127,1706180194,1705635975,1704317620,1703155298,1702510660,1701964024,1701315087,1700119805,1699489746,1698781641];
+        let timestamps = [1723647657,1723065874,1722346450,1721879732,1721251374,1720644564,1720067357,1720047116,1719451802,1718835456,1718255303,1717546280,1717542675,1716944303,1716331317,1716328613,1715663116,1715587102,1715129256,1714601211,1713994872,1713436343,1713416214,1712799933,1712791522,1712235333,1712190264,1711508474,1710996863,1710379305,1709786407,1709161903,1708563853,1707990025,1707325256,1706750127,1706180194,1705635975,1704317620,1703155298,1702510660,1701964024,1701315087,1700119805,1699489746,1698781641];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/19 | 37-2 | [Curiosity \+ Cat](https://ws.tsl.rocks/corp/c2982821577254a4ce2d996f53a2391f6f059ff79bbb14c29f9463269b4beebf/) |
 | ✅ | 2024/08/12 | 32-5 | [Industrial W\.O](https://ws.tsl.rocks/corp/99a4ba88f6a620cb9ea1da456127c978a858ffbda4e40b255fcf3365515da25d/) |
 | ✅ | 2024/08/04 | 22-7 | [哈迪斯之星，启动！](https://ws.tsl.rocks/corp/bc58305a02f7392f340d26a3becd4784de7360dd5264df9e85d73116b93496d8/) |
 | ↔️ | 2024/07/30 | 14-14 | [United Stars ](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) |
