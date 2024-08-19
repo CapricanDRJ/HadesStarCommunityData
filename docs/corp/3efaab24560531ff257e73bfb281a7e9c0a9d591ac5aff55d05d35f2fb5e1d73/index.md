@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​CIS
-description: W:32 L:4 D:0 Bonus ✅
+description: W:32 L:4 D:0 Bonus ❌
 date: 1723480442
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

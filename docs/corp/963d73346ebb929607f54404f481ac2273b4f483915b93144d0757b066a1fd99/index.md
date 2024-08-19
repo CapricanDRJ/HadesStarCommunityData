@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Вселенские 40%
-description: W:18 L:20 D:0 Bonus ❌
-date: 1720922990
+description: W:18 L:21 D:0 Bonus ❌
+date: 1724095887
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (595)|
-| ELO Competitive | 1235 🔻  (364)|
-| Total Matches | 38 |
+| ELO Regular | 1172 🔻  (848)|
+| ELO Competitive | 1219 🔻  (423)|
+| Total Matches | 39 |
 | Wins | 18 |
-| Losses | 20 |
+| Losses | 21 |
 | Draws | 0 |
 | Streak Record | 6 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1720490990,1719397705,1718024808,1716778108,1716223458,1715789304,1714139084,1713699229,1713240434,1712806542,1712205586,1711749158,1711176742,1710560778,1710097470,1709543694,1708978189,1708538269,1708533460,1708088721,1707968087,1707406142,1706963336,1706365913,1705758573,1705323432,1704726917,1704146026,1703419368,1702850572,1702240167,1701607809,1701080660,1700633437,1700120706,1699682115,1699158308,1698716532];
+        let timestamps = [1723663887,1720490990,1719397705,1718024808,1716778108,1716223458,1715789304,1714139084,1713699229,1713240434,1712806542,1712205586,1711749158,1711176742,1710560778,1710097470,1709543694,1708978189,1708538269,1708533460,1708088721,1707968087,1707406142,1706963336,1706365913,1705758573,1705323432,1704726917,1704146026,1703419368,1702850572,1702240167,1701607809,1701080660,1700633437,1700120706,1699682115,1699158308,1698716532];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/19 | 1-8 | [对，进就进人少的（分团）](https://ws.tsl.rocks/corp/69a860d3020745a9088fa70fa7ebc4caaa8a6181832961bcd607fbfa627203f3/) |
 | ❌ | 2024/07/14 | 0-25 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) |
 | ❌ | 2024/07/01 | 1-22 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |
 | ✅ | 2024/06/15 | 18-1 | [Game of Stars](https://ws.tsl.rocks/corp/ad5bb68e6076ee70e6715ecead226fc9880b66a87b68acb3098843f723c1562e/) |
