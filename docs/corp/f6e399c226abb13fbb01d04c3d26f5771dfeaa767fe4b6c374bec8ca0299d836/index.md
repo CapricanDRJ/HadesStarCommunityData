@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Star League
-description: W:0 L:2 D:0 Bonus ❌
-date: 1720791961
+description: W:0 L:3 D:0 Bonus ❌
+date: 1724050809
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (842)|
-| ELO Competitive | 1172 🔻  (953)|
-| Total Matches | 2 |
+| ELO Regular | 1161 🔻  (955)|
+| ELO Competitive | 1163 🔻  (1036)|
+| Total Matches | 3 |
 | Wins | 0 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1720359961,1719926131];
+        let timestamps = [1723618809,1720359961,1719926131];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/19 | 0-10 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
 | ❌ | 2024/07/12 | 3-16 | [P\!RAT£ SHIP](https://ws.tsl.rocks/corp/edee949826201f74f57f45c101789757954710e3d075602dfdda7765a69a7e7c/) |
 | ❌ | 2024/07/07 | 0-6 | [Rogue Dudes](https://ws.tsl.rocks/corp/e3af01b69e8035dbe5c48ad403a16f2c1ec8d4d273916750975ea86f317f7582/) |
 
