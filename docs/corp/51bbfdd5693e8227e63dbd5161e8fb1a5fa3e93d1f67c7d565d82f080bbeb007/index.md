@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​Corporation
-description: W:16 L:4 D:0 Bonus ✅
+description: W:16 L:4 D:0 Bonus ❌
 date: 1723404717
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1323 🔺  (92)|
+| ELO Regular | 1323 🔺  (93)|
 | ELO Competitive | 1354 🔺  (137)|
 | Total Matches | 20 |
 | Wins | 16 |

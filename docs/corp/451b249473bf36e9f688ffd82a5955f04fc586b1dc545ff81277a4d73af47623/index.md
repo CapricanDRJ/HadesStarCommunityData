@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Lost Legion
-description: W:23 L:36 D:0 Bonus ✅
+description: W:23 L:36 D:0 Bonus ❌
 date: 1723845864
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
