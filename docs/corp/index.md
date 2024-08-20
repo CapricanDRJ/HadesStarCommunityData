@@ -622,7 +622,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Shadow Council](https://ws.tsl.rocks/corp/4eef05bb882a64bb56d4232816fba1c84a986f012daaab59d01b41a95e90c7b1/) | 1158 | 1167 | 3 |
 | [ShadowSpaceCult](https://ws.tsl.rocks/corp/2a0dfd09353bfa78a5958fa753f7a17a2e76ea4fcb92a2c6a860eae24cde03d6/) | 1213 | 1216 | 3 |
 | [Shrimp City](https://ws.tsl.rocks/corp/eae9b3a1f9dd6b4a1fb39d6aedfe84a80662abe6b181bedcfd7ec15d931b8e84/) | 1293 | 1315 | 32 |
-| [Sich\.ua](https://ws.tsl.rocks/corp/9fcd6d7c4fe7f8e39acf48585dfe9c6d3d14edc7781fe8caf85618b3e98c685d/) | 1233 | 1366 | 38 |
+| [Sich\.ua](https://ws.tsl.rocks/corp/9fcd6d7c4fe7f8e39acf48585dfe9c6d3d14edc7781fe8caf85618b3e98c685d/) | 1231 | 1386 | 39 |
 | [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) | 1229 | 1257 | 20 |
 | [Simply Uranus](https://ws.tsl.rocks/corp/951c4b2ef77de2b24b3e3b3cd962679643a8fae1131e289d4ed60482d10aff45/) | 1174 | 1190 | 2 |
 | [SiriusStrawMoo](https://ws.tsl.rocks/corp/c83a5744ea256d2c1fa59660bc0e18e8d01a2a467bc13fec27a8b30f689e220b/) | 1258 | 1267 | 10 |
@@ -1069,7 +1069,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [喵喵喵喵喵喵喵](https://ws.tsl.rocks/corp/6f70ed81f6b0fd95da417ce3a268db3bbd0cd3b6e9e188a0e922db3d7f8ac968/) | 1095 | 1144 | 9 |
 | [喵喵喵喵喵喵喵](https://ws.tsl.rocks/corp/6b0f781319f88b96c64aa4c425eb3f834d80a1f0c3ee00918430fd71b2e5b913/) | 1147 | 1164 | 4 |
 | [嘤嘤嘤嘤嘤嘤嘤嘤](https://ws.tsl.rocks/corp/ad65ab5ca4b50864e2b171fc9018045cba5ae1bad1712a63a110a2c55c33f41b/) | 1119 | 1136 | 6 |
-| [四季长春](https://ws.tsl.rocks/corp/cf0b11914dc18d8e669592ecfe191f115c4e5fdba09d130d260bb625b36a3179/) | 1179 | 1322 | 44 |
+| [四季长春](https://ws.tsl.rocks/corp/cf0b11914dc18d8e669592ecfe191f115c4e5fdba09d130d260bb625b36a3179/) | 1168 | 1324 | 46 |
 | [地球星际集团](https://ws.tsl.rocks/corp/05094116a999d8e077c5e53dc2241a870c7dc2e68e016455c606ada0dcb40b62/) | 977 | 1075 | 35 |
 | [地球联合](https://ws.tsl.rocks/corp/600f9edf51df1f1afe62db4c64e95b969ac6824a6a08d1a483beaec015ba2e25/) | 1303 | 1324 | 16 |
 | [墨痕白星分部](https://ws.tsl.rocks/corp/b427cd42ba647399d1a25712254def04083c0a9c2d7faa5c77138050f414c0da/) | 1213 | 1281 | 16 |
@@ -1175,7 +1175,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [舰队联邦\[FF\]](https://ws.tsl.rocks/corp/a416c5b53512093490461bf0dab583fbb401f5850470774f6de02dafe6ca3655/) | 1173 | 1174 | 2 |
 | [花鸟市场](https://ws.tsl.rocks/corp/45a61cb4d071f081ca6b32010343d3539ff9002b1cc2fd2fb455841faad7d182/) | 1185 | 1185 | 1 |
 | [苏维埃联邦](https://ws.tsl.rocks/corp/4b067d39aa68bf846ec24a1af1a1038844cfa78699d1190f74a77b1745e148ac/) | 1044 | 1051 | 18 |
-| [荣耀之星](https://ws.tsl.rocks/corp/4334fd4d4ffbc89487deaec7bb38025aba46209b810578436882be271fdbff23/) | 1199 | 1249 | 18 |
+| [荣耀之星](https://ws.tsl.rocks/corp/4334fd4d4ffbc89487deaec7bb38025aba46209b810578436882be271fdbff23/) | 1213 | 1267 | 19 |
 | [萌新收留所](https://ws.tsl.rocks/corp/c71b7f7455104472969a9e2632e182bf01b3b7aa8b1fa75dcfc75cd2733a54a9/) | 1199 | 1199 | 6 |
 | [萌新收留所（目标门集团）](https://ws.tsl.rocks/corp/2da742f44420592cb720952b293609aded2a2858e7458e692ec54fc989c017a8/) | 1157 | 1159 | 5 |
 | [萌新港](https://ws.tsl.rocks/corp/7b4125f2900eb0184722a2a53528bb21dd165ea3612dfa8de6ca0ebf2aea0861/) | 1185 | 1185 | 2 |

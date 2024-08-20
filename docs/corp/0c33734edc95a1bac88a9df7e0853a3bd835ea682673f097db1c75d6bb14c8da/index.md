@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​IMPERIAL ARMADA
-description: W:32 L:22 D:2 Bonus ✅
+description: W:32 L:22 D:2 Bonus ❌
 date: 1724059221
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1288 🔻  (142)|
-| ELO Competitive | 1370 🔻  (120)|
+| ELO Competitive | 1370 🔻  (121)|
 | Total Matches | 56 |
 | Wins | 32 |
 | Losses | 22 |
