@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​КМБ
-description: W:6 L:6 D:0 Bonus ✅
+description: W:6 L:6 D:0 Bonus ❌
 date: 1723500278
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔺  (375)|
-| ELO Competitive | 1218 🔺  (427)|
+| ELO Regular | 1214 🔺  (374)|
+| ELO Competitive | 1218 🔺  (428)|
 | Total Matches | 12 |
 | Wins | 6 |
 | Losses | 6 |

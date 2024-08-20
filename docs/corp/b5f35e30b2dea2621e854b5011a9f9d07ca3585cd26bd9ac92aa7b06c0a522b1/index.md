@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​德意志第三帝国奥米加分部
-description: W:7 L:11 D:3 Bonus ✅
-date: 1723644815
+description: W:8 L:11 D:3 Bonus ✅
+date: 1724121126
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔺  (801)|
-| ELO Competitive | 1196 🔺  (595)|
-| Total Matches | 21 |
-| Wins | 7 |
+| ELO Regular | 1193 🔺  (510)|
+| ELO Competitive | 1220 🔺  (417)|
+| Total Matches | 22 |
+| Wins | 8 |
 | Losses | 11 |
 | Draws | 3 |
-| Streak | 4 |
-| Streak Record | 4 |
+| Streak | 5 |
+| Streak Record | 5 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723212815,1722755138,1721791040,1721279615,1719850268,1718987802,1717588347,1716980057,1716675491,1716499699,1715945749,1715493656,1714917094,1713850953,1713373849,1712872511,1712563532,1712324574,1711911121,1707679745,1706928178];
+        let timestamps = [1723689126,1723212815,1722755138,1721791040,1721279615,1719850268,1718987802,1717588347,1716980057,1716675491,1716499699,1715945749,1715493656,1714917094,1713850953,1713373849,1712872511,1712563532,1712324574,1711911121,1707679745,1706928178];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/20 | 20-2 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) |
 | ✅ | 2024/08/14 | 13-5 | [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) |
 | ✅ | 2024/08/09 | 13-2 | [企鹅帝国](https://ws.tsl.rocks/corp/53f5c71ba84d7adb312f2f45919553d71769bce6acb74e18973f8c9127499807/) |
 | ✅ | 2024/07/29 | 19-7 | [第三舰队](https://ws.tsl.rocks/corp/5c221ea6be2f8e437f63c736ee45290cb3304543c57a4a1ea677e5e24e121f89/) |
