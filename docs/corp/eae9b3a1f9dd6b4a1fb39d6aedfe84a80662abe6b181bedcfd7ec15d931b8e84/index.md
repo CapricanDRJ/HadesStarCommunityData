@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Shrimp City
-description: W:20 L:11 D:1 Bonus ✅
+description: W:20 L:11 D:1 Bonus ❌
 date: 1724027973
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

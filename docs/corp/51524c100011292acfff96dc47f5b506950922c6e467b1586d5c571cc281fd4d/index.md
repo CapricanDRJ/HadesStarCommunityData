@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​永恒之梦
-description: W:3 L:3 D:1 Bonus ❌
-date: 1723445581
+description: W:4 L:3 D:1 Bonus ✅
+date: 1724187531
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1200 🔺  (459)|
-| ELO Competitive | 1222 🔺  (410)|
-| Total Matches | 7 |
-| Wins | 3 |
+| ELO Regular | 1211 🔺  (397)|
+| ELO Competitive | 1232 🔺  (371)|
+| Total Matches | 8 |
+| Wins | 4 |
 | Losses | 3 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 2 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723013581,1723004867,1722569423,1722569123,1722091905,1721635716,1721203587];
+        let timestamps = [1723755531,1723013581,1723004867,1722569423,1722569123,1722091905,1721635716,1721203587];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/20 | 3-0 | [₩\.BRASIL\.₩](https://ws.tsl.rocks/corp/ff7f01b2f1db7b9c75e49da4c7367325905c020eba282a97f69f33d8c19419aa/) |
 | ✅ | 2024/08/12 | 3-1 | [超新星联盟](https://ws.tsl.rocks/corp/c3667794c88fd0a09f565dc3b4fed5325f131a616d01d0f6890755b44997d0a1/) |
 | ↔️ | 2024/08/12 | 0-0 | [星舰国际](https://ws.tsl.rocks/corp/2142b75cc6d1c522c423a860fbda7616d7745f8fee25121ec3a8f26068b0f3b5/) |
 | ❌ | 2024/08/07 | 0-1 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
