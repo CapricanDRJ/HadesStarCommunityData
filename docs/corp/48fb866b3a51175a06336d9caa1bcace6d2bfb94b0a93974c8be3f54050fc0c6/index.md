@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​Свободный флот
-description: W:28 L:32 D:1 Bonus ✅
-date: 1723648422
+description: W:29 L:32 D:1 Bonus ✅
+date: 1724149372
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1142 🔺  (1043)|
-| ELO Competitive | 1361 🔺  (132)|
-| Total Matches | 61 |
-| Wins | 28 |
+| ELO Regular | 1160 🔺  (966)|
+| ELO Competitive | 1371 🔺  (120)|
+| Total Matches | 62 |
+| Wins | 29 |
 | Losses | 32 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 10 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723216422,1722244579,1722242475,1720955332,1720950824,1719662750,1719657040,1719222813,1719215602,1718526824,1718521414,1717365052,1717362046,1716858050,1716848736,1716415739,1716395906,1715850892,1715850592,1715251789,1715235566,1714697355,1714696754,1714197675,1714197675,1713764125,1713762323,1713179132,1713176428,1712699283,1712689366,1712121153,1712116045,1711662914,1711659608,1711221519,1711216110,1710727859,1710711333,1709970959,1709401270,1708863099,1708386224,1707304520,1706779424,1706302509,1705824087,1705389845,1704875370,1704442026,1703998170,1703543485,1703098707,1702586996,1702088982,1701373091,1700856146,1700276523,1699738937,1699251155,1698748991];
+        let timestamps = [1723717372,1723216422,1722244579,1722242475,1720955332,1720950824,1719662750,1719657040,1719222813,1719215602,1718526824,1718521414,1717365052,1717362046,1716858050,1716848736,1716415739,1716395906,1715850892,1715850592,1715251789,1715235566,1714697355,1714696754,1714197675,1714197675,1713764125,1713762323,1713179132,1713176428,1712699283,1712689366,1712121153,1712116045,1711662914,1711659608,1711221519,1711216110,1710727859,1710711333,1709970959,1709401270,1708863099,1708386224,1707304520,1706779424,1706302509,1705824087,1705389845,1704875370,1704442026,1703998170,1703543485,1703098707,1702586996,1702088982,1701373091,1700856146,1700276523,1699738937,1699251155,1698748991];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,10 +118,10 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Mass Effect](https://ws.tsl.rocks/corp/6f715653bec3925d9c3acd7c2388fe8e1c79332146894ed424f57bd2636de8c7/) | 3 | 0 | 0 | 3 |
 | [Red Dawn](https://ws.tsl.rocks/corp/fee852a2530bc5e3cbe5b2a5fdb224d249eeceeb3688cfd71479344181831328/) | 1 | 1 | 0 | 2 |
 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) | 0 | 2 | 0 | 2 |
 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) | 0 | 2 | 0 | 2 |
-| [Mass Effect](https://ws.tsl.rocks/corp/6f715653bec3925d9c3acd7c2388fe8e1c79332146894ed424f57bd2636de8c7/) | 2 | 0 | 0 | 2 |
 | [Galactic Empire](https://ws.tsl.rocks/corp/e2223ab2b582a5eb5ae1734e132358eb3c24ddf61fcbeee7b8f6708f26782108/) | 1 | 1 | 0 | 2 |
 | [ZION](https://ws.tsl.rocks/corp/99ac8e5c0f22878b9a4458953d0c712ada17ef36ae195ccf39c7921dc996adfe/) | 1 | 2 | 0 | 3 |
 | [Scar](https://ws.tsl.rocks/corp/1fd57b7d50b68cb3883fd58e596f496821ebcc82dee1915bb7f34a402b03c44a/) | 0 | 2 | 0 | 2 |
@@ -130,6 +131,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/20 | 22-7 | [Mass Effect](https://ws.tsl.rocks/corp/6f715653bec3925d9c3acd7c2388fe8e1c79332146894ed424f57bd2636de8c7/) |
 | ✅ | 2024/08/14 | 13-9 | [Red Dawn](https://ws.tsl.rocks/corp/fee852a2530bc5e3cbe5b2a5fdb224d249eeceeb3688cfd71479344181831328/) |
 | ❌ | 2024/08/03 | 19-26 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ❌ | 2024/08/03 | 0-19 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |
