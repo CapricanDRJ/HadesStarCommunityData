@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​cyber_dream
-description: W:4 L:8 D:0 Bonus ✅
+description: W:4 L:8 D:0 Bonus ❌
 date: 1724236216
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1157 🔻  (981)|
-| ELO Competitive | 1177 🔻  (898)|
+| ELO Competitive | 1177 🔻  (897)|
 | Total Matches | 12 |
 | Wins | 4 |
 | Losses | 8 |

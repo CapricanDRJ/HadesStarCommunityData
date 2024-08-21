@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Space Marshalls
-description: W:29 L:19 D:0 Bonus ✅
+description: W:29 L:19 D:0 Bonus ❌
 date: 1723632490
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

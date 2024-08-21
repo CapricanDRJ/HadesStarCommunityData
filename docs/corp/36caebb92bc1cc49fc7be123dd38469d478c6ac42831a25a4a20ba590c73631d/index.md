@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​海澜之家
-description: W:0 L:1 D:0 Bonus ❌
-date: 1718779859
+description: W:0 L:2 D:0 Bonus ❌
+date: 1724251847
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (767)|
-| ELO Competitive | 1184 🔻  (847)|
-| Total Matches | 1 |
+| ELO Regular | 1167 🔻  (919)|
+| ELO Competitive | 1172 🔻  (952)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1718347859];
+        let timestamps = [1723819847,1718347859];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/21 | 0-10 | [使命白星](https://ws.tsl.rocks/corp/88e828c55c07286950a3296b00ca2a7a9cc2f1a0139e9cf4c6e54229f821e952/) |
 | ❌ | 2024/06/19 | 3-7 | [Star Fleet](https://ws.tsl.rocks/corp/b50e0529c2b2e86bae23d0fb4cbcdc4bff7615c45efb95150747a89dd3ea0231/) |
 
 Corporation ID: 36caebb92bc1cc49fc7be123dd38469d478c6ac42831a25a4a20ba590c73631d
