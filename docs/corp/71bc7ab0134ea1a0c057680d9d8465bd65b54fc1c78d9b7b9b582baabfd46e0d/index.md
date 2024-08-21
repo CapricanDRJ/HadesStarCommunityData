@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Ender
-description: W:45 L:13 D:0 Bonus ✅
-date: 1723767427
+description: W:45 L:14 D:0 Bonus ✅
+date: 1724271984
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1493 🔺  (7)|
-| ELO Competitive | 1565 🔺  (12)|
-| Total Matches | 58 |
+| ELO Regular | 1474 🔻  (13)|
+| ELO Competitive | 1550 🔻  (12)|
+| Total Matches | 59 |
 | Wins | 45 |
-| Losses | 13 |
+| Losses | 14 |
 | Draws | 0 |
-| Streak | 6 |
 | Streak Record | 22 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723335427,1722818668,1722272831,1721834657,1721330701,1720798748,1720310979,1719757712,1719253470,1718754320,1718226159,1717769578,1717306427,1716797337,1716179889,1715676934,1715185996,1714737614,1714280601,1713699529,1713181236,1712588403,1712112140,1711661411,1711051149,1710595034,1710105585,1709548802,1709071947,1708569820,1708092628,1707599509,1707119000,1706686567,1706232187,1705703883,1705267247,1704814968,1704382826,1703947681,1703804339,1703512226,1703251672,1703019667,1702586996,1702382018,1702009035,1701937506,1701459646,1701359565,1701010333,1700702264,1700570322,1700118001,1700016357,1699668290,1699222315,1698786272];
+        let timestamps = [1723839984,1723335427,1722818668,1722272831,1721834657,1721330701,1720798748,1720310979,1719757712,1719253470,1718754320,1718226159,1717769578,1717306427,1716797337,1716179889,1715676934,1715185996,1714737614,1714280601,1713699529,1713181236,1712588403,1712112140,1711661411,1711051149,1710595034,1710105585,1709548802,1709071947,1708569820,1708092628,1707599509,1707119000,1706686567,1706232187,1705703883,1705267247,1704814968,1704382826,1703947681,1703804339,1703512226,1703251672,1703019667,1702586996,1702382018,1702009035,1701937506,1701459646,1701359565,1701010333,1700702264,1700570322,1700118001,1700016357,1699668290,1699222315,1698786272];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 2 | 1 | 0 | 3 |
 | [华夏舰队](https://ws.tsl.rocks/corp/abd6d05a100ffdde2d15abd725a209bfbbf069b60b10ddeac88e88da66191472/) | 2 | 0 | 0 | 2 |
 | [Spacefleet](https://ws.tsl.rocks/corp/517f7b257f68936f7a95a478d6923776a2549b88897bae628fd35b23572d3cbd/) | 1 | 2 | 0 | 3 |
 | [VoidCorp](https://ws.tsl.rocks/corp/b866417e5607f8434347bb5f986e37c4fa7dda68b3882f0135d186043d3f68a3/) | 2 | 0 | 0 | 2 |
@@ -130,13 +130,13 @@ This chart shows the frequency of days of the week when whitestars were matched.
 | [龙门训练营](https://ws.tsl.rocks/corp/1409829bbf951ca641274ef39dad828f2b4989e603fbe05e5765204058c13923/) | 2 | 1 | 0 | 3 |
 | [Final](https://ws.tsl.rocks/corp/77270275648d2f188dea5d234a7428073a451ef4bc3cbd1b274a1d65e5f67c68/) | 2 | 0 | 0 | 2 |
 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) | 2 | 0 | 0 | 2 |
-| [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 2 | 0 | 0 | 2 |
 | [BattleCo](https://ws.tsl.rocks/corp/6fedbaaa5e81626ae4028e9ec468585dffa6b131eedb09b88a3ac88b7bca681e/) | 0 | 2 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/21 | 13-50 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | ✅ | 2024/08/16 | 64-0 | [华夏舰队](https://ws.tsl.rocks/corp/abd6d05a100ffdde2d15abd725a209bfbbf069b60b10ddeac88e88da66191472/) |
 | ✅ | 2024/08/10 | 52-16 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) |
 | ✅ | 2024/08/03 | 74-15 | [BRhue](https://ws.tsl.rocks/corp/cf382c812409b617906f693517aebeee55e827f37c20a515ff23810e49d6310d/) |

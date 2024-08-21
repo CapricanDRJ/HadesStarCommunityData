@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Goblin Squad
-description: W:4 L:4 D:0 Bonus ❌
-date: 1708226235
+description: W:4 L:5 D:0 Bonus ❌
+date: 1724273487
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1196 🔻  (493)|
-| ELO Competitive | 1226 🔺  (398)|
-| Total Matches | 8 |
+| ELO Regular | 1181 🔻  (770)|
+| ELO Competitive | 1210 🔻  (503)|
+| Total Matches | 9 |
 | Wins | 4 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1707794235,1707791531,1705858952,1705856848,1705010912,1705007601,1704575195,1704529773];
+        let timestamps = [1723841487,1707794235,1707791531,1705858952,1705856848,1705010912,1705007601,1704575195,1704529773];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/21 | 0-3 | [星舰国际](https://ws.tsl.rocks/corp/2142b75cc6d1c522c423a860fbda7616d7745f8fee25121ec3a8f26068b0f3b5/) |
 | ❌ | 2024/02/18 | 2-13 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ✅ | 2024/02/18 | 5-0 | [三体舰队](https://ws.tsl.rocks/corp/4f07d6381e25833973d274b90a76aa73a9cac9b3f93a5279e2b0375f1108eb3a/) |
 | ✅ | 2024/01/26 | 9-0 | [l'empire sylli](https://ws.tsl.rocks/corp/0f9d92470641b1e171644fb99f888ee88663ea4ba40d1af7bd21d5aac1abd587/) |
