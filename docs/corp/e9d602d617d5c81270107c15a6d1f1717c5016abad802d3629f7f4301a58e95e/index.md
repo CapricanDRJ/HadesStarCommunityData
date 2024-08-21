@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​元素联邦
-description: W:27 L:13 D:0 Bonus ✅
+description: W:27 L:13 D:0 Bonus ❌
 date: 1723589224
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

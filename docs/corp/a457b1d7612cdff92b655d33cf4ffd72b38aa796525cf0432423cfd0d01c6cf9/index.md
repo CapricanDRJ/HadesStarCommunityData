@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​华夏三体舰队
-description: W:10 L:21 D:5 Bonus ✅
+description: W:10 L:21 D:5 Bonus ❌
 date: 1724038489
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
