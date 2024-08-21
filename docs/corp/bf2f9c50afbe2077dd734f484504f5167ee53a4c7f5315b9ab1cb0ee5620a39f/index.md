@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Nebulae Traders
-description: W:7 L:20 D:2 Bonus ✅
-date: 1723735219
+description: W:7 L:22 D:2 Bonus ✅
+date: 1724263868
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1103 🔺  (1133)|
-| ELO Competitive | 1174 🔺  (924)|
-| Total Matches | 29 |
+| ELO Regular | 1084 🔻  (1153)|
+| ELO Competitive | 1166 🔻  (1010)|
+| Total Matches | 31 |
 | Wins | 7 |
-| Losses | 20 |
+| Losses | 22 |
 | Draws | 2 |
-| Streak | 2 |
 | Streak Record | 2 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723303219,1723294856,1722856529,1722851304,1722391227,1722390025,1721902869,1721897461,1721342121,1721197578,1720897630,1720387617,1719897145,1719433774,1718823133,1716078338,1715637282,1715113291,1713788760,1713203176,1712437860,1711409023,1710035723,1709402172,1707263531,1707260655,1706121534,1705966840,1698725548];
+        let timestamps = [1723831868,1723826760,1723303219,1723294856,1722856529,1722851304,1722391227,1722390025,1721902869,1721897461,1721342121,1721197578,1720897630,1720387617,1719897145,1719433774,1718823133,1716078338,1715637282,1715113291,1713788760,1713203176,1712437860,1711409023,1710035723,1709402172,1707263531,1707260655,1706121534,1705966840,1698725548];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +123,8 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/21 | 3-4 | [МеГаКо](https://ws.tsl.rocks/corp/11cd7fa53aad1bfc7d40c47a63de7b6c4a6d76f00e69dcb853f47e2c90b382dd/) |
+| ❌ | 2024/08/21 | 3-17 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
 | ✅ | 2024/08/15 | 3-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
 | ✅ | 2024/08/15 | 14-0 | [华夏舰队](https://ws.tsl.rocks/corp/abd6d05a100ffdde2d15abd725a209bfbbf069b60b10ddeac88e88da66191472/) |
 | ❌ | 2024/08/10 | 0-8 | [Axiom](https://ws.tsl.rocks/corp/4000a010c205d318c766ba14fe1836eaab6652f1738a88cce8a8c69d0283e1b0/) |
