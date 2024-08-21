@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Sich.ua
-description: W:21 L:16 D:2 Bonus ✅
+description: W:21 L:16 D:2 Bonus ❌
 date: 1724104602
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

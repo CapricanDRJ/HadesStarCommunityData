@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Weyland Yutani 
-description: W:12 L:23 D:3 Bonus ❌
-date: 1721863369
+description: W:12 L:24 D:3 Bonus ❌
+date: 1724197758
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1126 🔻  (1087)|
-| ELO Competitive | 1234 🔻  (366)|
-| Total Matches | 38 |
+| ELO Regular | 1116 🔻  (1112)|
+| ELO Competitive | 1221 🔻  (415)|
+| Total Matches | 39 |
 | Wins | 12 |
-| Losses | 23 |
+| Losses | 24 |
 | Draws | 3 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721431369,1720981188,1720494296,1719975356,1719970454,1719539489,1719027767,1719017551,1718577919,1718329230,1717845687,1717383379,1717067504,1716805150,1716544316,1716361957,1716104487,1715910684,1715468420,1715255161,1714812234,1714596404,1714173341,1713906540,1713561924,1712518995,1711871752,1711853725,1710889506,1710379305,1709951731,1709946624,1709485405,1709043996,1708387125,1707908123,1707414558,1706953720];
+        let timestamps = [1723765758,1721431369,1720981188,1720494296,1719975356,1719970454,1719539489,1719027767,1719017551,1718577919,1718329230,1717845687,1717383379,1717067504,1716805150,1716544316,1716361957,1716104487,1715910684,1715468420,1715255161,1714812234,1714596404,1714173341,1713906540,1713561924,1712518995,1711871752,1711853725,1710889506,1710379305,1709951731,1709946624,1709485405,1709043996,1708387125,1707908123,1707414558,1706953720];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/20 | 0-15 | [SiriusStrawMoo](https://ws.tsl.rocks/corp/c83a5744ea256d2c1fa59660bc0e18e8d01a2a467bc13fec27a8b30f689e220b/) |
 | ❌ | 2024/07/24 | 0-21 | [Peasants](https://ws.tsl.rocks/corp/d32015145d0844998979f2537e2c306c1aac0bac5010cff1118876ea73b10891/) |
 | ✅ | 2024/07/19 | 3-0 | [Stars](https://ws.tsl.rocks/corp/0e1b189f1119cbc08c19cd3809191c65df5fe40514444e31217a0a3611fd8ec3/) |
 | ❌ | 2024/07/14 | 0-15 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) |

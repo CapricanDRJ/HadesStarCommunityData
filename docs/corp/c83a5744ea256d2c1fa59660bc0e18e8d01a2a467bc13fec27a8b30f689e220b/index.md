@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​SiriusStrawMoo
-description: W:7 L:3 D:0 Bonus ✅
-date: 1723731064
+description: W:8 L:3 D:0 Bonus ✅
+date: 1724197758
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1258 🔺  (202)|
-| ELO Competitive | 1267 🔺  (282)|
-| Total Matches | 10 |
-| Wins | 7 |
+| ELO Regular | 1268 🔺  (185)|
+| ELO Competitive | 1281 🔺  (254)|
+| Total Matches | 11 |
+| Wins | 8 |
 | Losses | 3 |
 | Draws | 0 |
-| Streak | 7 |
-| Streak Record | 7 |
+| Streak | 8 |
+| Streak Record | 8 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723299064,1722857916,1722406251,1721950956,1721484857,1721051514,1720267098,1719395902,1718657254,1718194898];
+        let timestamps = [1723765758,1723299064,1722857916,1722406251,1721950956,1721484857,1721051514,1720267098,1719395902,1718657254,1718194898];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/20 | 15-0 | [Weyland Yutani ](https://ws.tsl.rocks/corp/9799c33a0ecdcf321ad446a18f4e7f520610d26ec5f13e0c6b7a411dec2e2e46/) |
 | ✅ | 2024/08/15 | 6-2 | [萌新的收留所](https://ws.tsl.rocks/corp/1dd3f70c959e32c27cb4c010162be3799b7c0732115d5c2b7ca5979f48b10f7f/) |
 | ✅ | 2024/08/10 | 15-4 | [哈迪斯之星，启动！](https://ws.tsl.rocks/corp/bc58305a02f7392f340d26a3becd4784de7360dd5264df9e85d73116b93496d8/) |
 | ✅ | 2024/08/05 | 15-4 | [火洋之心](https://ws.tsl.rocks/corp/99cb105316e2715545c205443c4e331cd11832753eac1c21e11ae3d532e36bcb/) |
