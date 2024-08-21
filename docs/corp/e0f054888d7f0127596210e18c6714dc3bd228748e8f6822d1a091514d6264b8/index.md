@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​蓝色星系一号分盟
-description: W:1 L:6 D:1 Bonus ✅
+description: W:1 L:6 D:1 Bonus ❌
 date: 1724069137
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​Star Fleet
-description: W:9 L:17 D:0 Bonus ✅
-date: 1723621072
+description: W:10 L:17 D:0 Bonus ✅
+date: 1724223898
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔺  (842)|
-| ELO Competitive | 1227 🔺  (396)|
-| Total Matches | 26 |
-| Wins | 9 |
+| ELO Regular | 1192 🔺  (516)|
+| ELO Competitive | 1246 🔺  (330)|
+| Total Matches | 27 |
+| Wins | 10 |
 | Losses | 17 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 6 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723189072,1722593762,1721999633,1721372766,1720768088,1720163122,1719558476,1718960152,1718347859,1717755749,1717181399,1716536807,1716534103,1715938922,1715374014,1715345830,1709835448,1708122983,1706430523,1706428118,1705962032,1705961732,1705275961,1705275961,1704780410,1704275842];
+        let timestamps = [1723791898,1723189072,1722593762,1721999633,1721372766,1720768088,1720163122,1719558476,1718960152,1718347859,1717755749,1717181399,1716536807,1716534103,1715938922,1715374014,1715345830,1709835448,1708122983,1706430523,1706428118,1705962032,1705961732,1705275961,1705275961,1704780410,1704275842];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/21 | 5-0 | [星河绮梦](https://ws.tsl.rocks/corp/ec0d7f12f69610e8f68f4ea0af9698755a0a1435e0845c27c47fcbec0b1b672a/) |
 | ✅ | 2024/08/14 | 10-0 | [神圣罗马帝国](https://ws.tsl.rocks/corp/2a71af44aaef82175cd8dfd86c9e3f218a438a7c7e748bae20d8a0d964a984ab/) |
 | ❌ | 2024/08/07 | 2-25 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ✅ | 2024/07/31 | 9-0 | [星际集团](https://ws.tsl.rocks/corp/4f61a43eb3082215034e4c78c8feceeae71ca38f447469c49ba8a61d0c0d97eb/) |
