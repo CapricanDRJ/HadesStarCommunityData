@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​cyber_dream
-description: W:4 L:7 D:0 Bonus ✅
-date: 1723633392
+description: W:4 L:8 D:0 Bonus ✅
+date: 1724236216
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔺  (891)|
-| ELO Competitive | 1182 🔺  (866)|
-| Total Matches | 11 |
+| ELO Regular | 1157 🔻  (981)|
+| ELO Competitive | 1177 🔻  (898)|
+| Total Matches | 12 |
 | Wins | 4 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
 | Streak Record | 3 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723201392,1714205187,1712969394,1711868447,1709930699,1709312323,1707540460,1703796223,1700129656,1699298931,1698822933];
+        let timestamps = [1723804216,1723201392,1714205187,1712969394,1711868447,1709930699,1709312323,1707540460,1703796223,1700129656,1699298931,1698822933];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/21 | 2-6 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |
 | ✅ | 2024/08/14 | 3-0 | [萌新港\(大佬港\)](https://ws.tsl.rocks/corp/e6d9b9da7a037e3572cb594dfeba7b282b66509228c9f4f1b2138f873caa3cf3/) |
 | ❌ | 2024/05/02 | 0-9 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ❌ | 2024/04/18 | 3-21 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) |

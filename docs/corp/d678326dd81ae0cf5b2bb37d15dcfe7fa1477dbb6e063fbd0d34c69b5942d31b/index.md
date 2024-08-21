@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​Hungary First
-description: W:15 L:8 D:1 Bonus ✅
+description: W:15 L:8 D:1 Bonus ❌
 date: 1723618368
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1280 🔺  (162)|
+| ELO Regular | 1280 🔺  (163)|
 | ELO Competitive | 1291 🔺  (227)|
 | Total Matches | 24 |
 | Wins | 15 |

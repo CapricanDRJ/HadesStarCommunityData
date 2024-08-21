@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​CIS
-description: W:32 L:4 D:0 Bonus ❌
-date: 1723480442
+description: W:33 L:4 D:0 Bonus ✅
+date: 1724236217
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1442 🔺  (21)|
-| ELO Competitive | 1500 🔺  (30)|
-| Total Matches | 36 |
-| Wins | 32 |
+| ELO Regular | 1449 🔺  (19)|
+| ELO Competitive | 1513 🔺  (23)|
+| Total Matches | 37 |
+| Wins | 33 |
 | Losses | 4 |
 | Draws | 0 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 9 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723048442,1722341340,1721564491,1720928884,1720923175,1720390976,1720366274,1719766129,1719758915,1719202683,1719191869,1718599248,1717939157,1717331679,1716817774,1716136326,1715513788,1715072423,1714329884,1713196564,1712151498,1711282516,1710759701,1710158759,1709472782,1708080908,1707154874,1706606929,1705765487,1704316418,1703214409,1702662729,1702127751,1701319594,1700354536,1699640631];
+        let timestamps = [1723804217,1723048442,1722341340,1721564491,1720928884,1720923175,1720390976,1720366274,1719766129,1719758915,1719202683,1719191869,1718599248,1717939157,1717331679,1716817774,1716136326,1715513788,1715072423,1714329884,1713196564,1712151498,1711282516,1710759701,1710158759,1709472782,1708080908,1707154874,1706606929,1705765487,1704316418,1703214409,1702662729,1702127751,1701319594,1700354536,1699640631];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -129,6 +129,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/21 | 33-25 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |
 | ✅ | 2024/08/12 | 32-0 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) |
 | ✅ | 2024/08/04 | 14-6 | [Out landers](https://ws.tsl.rocks/corp/4d949404db40dec4e95e786811959954fc9e2b1361f3bf0d33af2279ff86d23a/) |
 | ✅ | 2024/07/26 | 22-0 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
