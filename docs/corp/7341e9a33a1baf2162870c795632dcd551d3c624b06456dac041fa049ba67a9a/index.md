@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​11th Engineers
-description: W:4 L:17 D:0 Bonus ❌
-date: 1724204968
+description: W:4 L:18 D:0 Bonus ❌
+date: 1724219992
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1034 🔻  (1188)|
-| ELO Competitive | 1145 🔻  (1106)|
-| Total Matches | 21 |
+| ELO Regular | 1029 🔻  (1191)|
+| ELO Competitive | 1147 🔻  (1093)|
+| Total Matches | 22 |
 | Wins | 4 |
-| Losses | 17 |
+| Losses | 18 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723772968,1723299966,1723298371,1722859649,1722858817,1721984608,1721558204,1721551868,1721096299,1720663796,1720226530,1720200988,1719767432,1719287424,1719287071,1718839061,1718398807,1717954489,1717948477,1717493374,1717058790];
+        let timestamps = [1723787992,1723772968,1723299966,1723298371,1722859649,1722858817,1721984608,1721558204,1721551868,1721096299,1720663796,1720226530,1720200988,1719767432,1719287424,1719287071,1718839061,1718398807,1717954489,1717948477,1717493374,1717058790];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/21 | 0-13 | [萌新的收留所](https://ws.tsl.rocks/corp/1dd3f70c959e32c27cb4c010162be3799b7c0732115d5c2b7ca5979f48b10f7f/) |
 | ❌ | 2024/08/21 | 0-4 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) |
 | ❌ | 2024/08/15 | 0-5 | [资助会](https://ws.tsl.rocks/corp/4d36e1b3853444f7789e6142230ba93f3968baffc18bfad598c3d450c6b247e2/) |
 | ❌ | 2024/08/15 | 0-3 | [Axiom](https://ws.tsl.rocks/corp/4000a010c205d318c766ba14fe1836eaab6652f1738a88cce8a8c69d0283e1b0/) |

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Pyke Syndicate
-description: W:3 L:20 D:1 Bonus ❌
-date: 1723026663
+description: W:3 L:21 D:1 Bonus ❌
+date: 1724222396
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1058 🔺  (1174)|
-| ELO Competitive | 1093 🔺  (1183)|
-| Total Matches | 24 |
+| ELO Regular | 1049 🔻  (1179)|
+| ELO Competitive | 1087 🔻  (1187)|
+| Total Matches | 25 |
 | Wins | 3 |
-| Losses | 20 |
+| Losses | 21 |
 | Draws | 1 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722594663,1721997229,1721378776,1720785820,1720189568,1719242650,1718293167,1716992681,1716113188,1715531820,1714915892,1714161323,1713528585,1712907496,1712145187,1711214607,1710340540,1709713758,1708950538,1706891215,1704361788,1704346765,1700495190,1699351516];
+        let timestamps = [1723790396,1722594663,1721997229,1721378776,1720785820,1720189568,1719242650,1718293167,1716992681,1716113188,1715531820,1714915892,1714161323,1713528585,1712907496,1712145187,1711214607,1710340540,1709713758,1708950538,1706891215,1704361788,1704346765,1700495190,1699351516];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/21 | 0-17 | [Poggy Rockers](https://ws.tsl.rocks/corp/47aeb151232251d9e53310e21f1290b1240c63878169968847bd1e89efc909a7/) |
 | ✅ | 2024/08/07 | 12-3 | [Germania](https://ws.tsl.rocks/corp/e088c9a1e761ef8c1f07a1d374886006b0ecace15d07b9549e3655729b630897/) |
 | ❌ | 2024/07/31 | 7-20 | [Red Dawn](https://ws.tsl.rocks/corp/fee852a2530bc5e3cbe5b2a5fdb224d249eeceeb3688cfd71479344181831328/) |
 | ❌ | 2024/07/24 | 4-37 | [Bunker](https://ws.tsl.rocks/corp/583eeb4aaa577ce5d9806fc637f83d7c02b2a29fa2d47eb38fd658be8ef93588/) |

@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​украина№1
-description: W:28 L:20 D:0 Bonus ✅
+description: W:28 L:20 D:0 Bonus ❌
 date: 1724156884
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1283 🔻  (158)|
-| ELO Competitive | 1351 🔻  (143)|
+| ELO Regular | 1283 🔻  (157)|
+| ELO Competitive | 1351 🔻  (145)|
 | Total Matches | 48 |
 | Wins | 28 |
 | Losses | 20 |

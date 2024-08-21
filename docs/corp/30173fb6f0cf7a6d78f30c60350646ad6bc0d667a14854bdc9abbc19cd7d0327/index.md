@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Embers Rising
-description: W:24 L:5 D:0 Bonus ❌
-date: 1723740983
+description: W:25 L:5 D:0 Bonus ✅
+date: 1724212479
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1384 🔻  (45)|
-| ELO Competitive | 1437 🔻  (64)|
-| Total Matches | 29 |
-| Wins | 24 |
+| ELO Regular | 1390 🔺  (45)|
+| ELO Competitive | 1443 🔺  (59)|
+| Total Matches | 30 |
+| Wins | 25 |
 | Losses | 5 |
 | Draws | 0 |
 | Streak Record | 13 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723308983,1722451629,1721769452,1721249270,1720038401,1719074358,1718467025,1717421546,1716702674,1715369567,1714546822,1713302939,1712203483,1711550837,1711396402,1710657837,1709928294,1709366064,1708407854,1707802949,1707346952,1706862966,1705858351,1705176787,1704090124,1703051220,1702011740,1700768686,1699250554];
+        let timestamps = [1723780479,1723308983,1722451629,1721769452,1721249270,1720038401,1719074358,1718467025,1717421546,1716702674,1715369567,1714546822,1713302939,1712203483,1711550837,1711396402,1710657837,1709928294,1709366064,1708407854,1707802949,1707346952,1706862966,1705858351,1705176787,1704090124,1703051220,1702011740,1700768686,1699250554];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/21 | 14-0 | [SternenStaub](https://ws.tsl.rocks/corp/11f1e8a4d522eaef8cb40c95d07b4533097aa6509ddafd1d7efc1449e8b10f38/) |
 | ❌ | 2024/08/15 | 6-31 | [✡天启✡](https://ws.tsl.rocks/corp/f2d70a86d32ea3a8226afc6d465a6c6540acec572b1c7232994523cdfb299c53/) |
 | ✅ | 2024/08/05 | 22-7 | [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b/) |
 | ✅ | 2024/07/28 | 13-5 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) |

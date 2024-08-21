@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Poggy Rockers
-description: W:26 L:12 D:3 Bonus ❌
-date: 1723713332
+description: W:27 L:13 D:3 Bonus ✅
+date: 1724222396
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1240 🔻  (241)|
-| ELO Competitive | 1346 🔻  (147)|
-| Total Matches | 41 |
-| Wins | 26 |
-| Losses | 12 |
+| ELO Regular | 1236 🔺  (250)|
+| ELO Competitive | 1351 🔺  (143)|
+| Total Matches | 43 |
+| Wins | 27 |
+| Losses | 13 |
 | Draws | 3 |
 | Streak Record | 15 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723281332,1723264400,1722687821,1722666184,1722126618,1722106935,1721635716,1721635415,1721129831,1721113128,1720563159,1720560037,1719978586,1719544655,1718508192,1717735014,1717078926,1716573153,1715888754,1714980786,1714106938,1713591065,1712890372,1712275902,1711669223,1710535539,1709951731,1709328251,1708646447,1708059876,1707570207,1706916461,1706902113,1706343673,1705717703,1705109469,1704442927,1703831980,1703193074,1702700294,1702195076];
+        let timestamps = [1723790396,1723789194,1723281332,1723264400,1722687821,1722666184,1722126618,1722106935,1721635716,1721635415,1721129831,1721113128,1720563159,1720560037,1719978586,1719544655,1718508192,1717735014,1717078926,1716573153,1715888754,1714980786,1714106938,1713591065,1712890372,1712275902,1711669223,1710535539,1709951731,1709328251,1708646447,1708059876,1707570207,1706916461,1706902113,1706343673,1705717703,1705109469,1704442927,1703831980,1703193074,1702700294,1702195076];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,8 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/21 | 17-0 | [Pyke Syndicate](https://ws.tsl.rocks/corp/1761635d6aaf9c2caf7abc37130e2d9aa48e7b4cc753ae4b701fde4b48abd3e1/) |
+| ❌ | 2024/08/21 | 0-7 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
 | ❌ | 2024/08/15 | 0-27 | [Dark Training](https://ws.tsl.rocks/corp/f889cafae8c2e0c622ae5494ce013504bf204ba00f7c7b44c61985588ee8f53c/) |
 | ↔️ | 2024/08/15 | 0-0 | [以太超星团](https://ws.tsl.rocks/corp/327addf616128dc5b01013e29e850c76d22ae27af199bcc6bba3b92cee7818ae/) |
 | ✅ | 2024/08/08 | 7-0 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) |

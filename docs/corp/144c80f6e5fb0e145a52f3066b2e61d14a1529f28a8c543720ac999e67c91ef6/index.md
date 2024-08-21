@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Неудержимые
-description: W:0 L:3 D:0 Bonus ❌
-date: 1722978288
+description: W:0 L:4 D:0 Bonus ❌
+date: 1724217287
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1159 🔻  (970)|
-| ELO Competitive | 1169 🔻  (1002)|
-| Total Matches | 3 |
+| ELO Regular | 1153 🔻  (1006)|
+| ELO Competitive | 1166 🔻  (1018)|
+| Total Matches | 4 |
 | Wins | 0 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722546288,1721716180,1717866729];
+        let timestamps = [1723785287,1722546288,1721716180,1717866729];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/21 | 0-33 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ❌ | 2024/08/06 | 0-39 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) |
 | ❌ | 2024/07/28 | 3-27 | [Star Wars](https://ws.tsl.rocks/corp/2dd3aee3667c5c190079cc378773d809ece1b146bc0a16fce6c46663fc3b6992/) |
 | ❌ | 2024/06/13 | 3-27 | [붉은늑대](https://ws.tsl.rocks/corp/43d32b05645aaa9415d1c04ecbcea520d2ed5b90304770cb0ab3813cb86e2f49/) |

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​SternenStaub
-description: W:20 L:23 D:0 Bonus ❌
-date: 1723765325
+description: W:20 L:24 D:0 Bonus ❌
+date: 1724212479
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1145 🔻  (1029)|
-| ELO Competitive | 1189 🔻  (669)|
-| Total Matches | 43 |
+| ELO Regular | 1139 🔻  (1050)|
+| ELO Competitive | 1183 🔻  (861)|
+| Total Matches | 44 |
 | Wins | 20 |
-| Losses | 23 |
+| Losses | 24 |
 | Draws | 0 |
 | Streak Record | 4 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723333325,1722875950,1722167641,1721581326,1720991108,1720535898,1719901953,1719419045,1718956547,1718174765,1717501490,1716791628,1716278436,1715571782,1715081737,1714461789,1714000580,1713462186,1712843797,1712115445,1711497058,1710791857,1710155755,1709673802,1709155177,1708643142,1708193599,1707656901,1707166898,1706733451,1706291988,1705851438,1705418995,1704970488,1704378919,1703886078,1703339727,1702819911,1702110618,1701586770,1701042800,1700428175,1699956545];
+        let timestamps = [1723780479,1723333325,1722875950,1722167641,1721581326,1720991108,1720535898,1719901953,1719419045,1718956547,1718174765,1717501490,1716791628,1716278436,1715571782,1715081737,1714461789,1714000580,1713462186,1712843797,1712115445,1711497058,1710791857,1710155755,1709673802,1709155177,1708643142,1708193599,1707656901,1707166898,1706733451,1706291988,1705851438,1705418995,1704970488,1704378919,1703886078,1703339727,1702819911,1702110618,1701586770,1701042800,1700428175,1699956545];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/21 | 0-14 | [Embers Rising](https://ws.tsl.rocks/corp/30173fb6f0cf7a6d78f30c60350646ad6bc0d667a14854bdc9abbc19cd7d0327/) |
 | ❌ | 2024/08/15 | 0-39 | [Дом Датэ](https://ws.tsl.rocks/corp/10cbcbd91c4084657bdab01ef573cc48170fbc4dd0ab533f96712f1cb6097ff2/) |
 | ❌ | 2024/08/10 | 12-38 | [Famous Assasins](https://ws.tsl.rocks/corp/8a3aea3b3dacfd3dcdb402e896204557e250b07b8a5e04b5814600c66cc1a25b/) |
 | ❌ | 2024/08/02 | 4-19 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |
