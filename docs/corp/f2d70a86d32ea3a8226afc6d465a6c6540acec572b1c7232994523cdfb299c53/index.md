@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​✡天启✡
-description: W:25 L:8 D:0 Bonus ✅
+description: W:25 L:8 D:0 Bonus ❌
 date: 1723740983
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1399 🔺  (40)|
+| ELO Regular | 1399 🔺  (39)|
 | ELO Competitive | 1494 🔺  (32)|
 | Total Matches | 33 |
 | Wins | 25 |

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​tropa (BR)
-description: W:7 L:9 D:2 Bonus ❌
-date: 1718695116
+description: W:7 L:10 D:2 Bonus ❌
+date: 1724361849
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (770)|
-| ELO Competitive | 1190 🔻  (646)|
-| Total Matches | 18 |
+| ELO Regular | 1165 🔻  (926)|
+| ELO Competitive | 1174 🔻  (932)|
+| Total Matches | 19 |
 | Wins | 7 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 2 |
 | Streak Record | 3 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1718263116,1717044968,1716434363,1715255161,1714621820,1707025841,1706557349,1706022129,1705556329,1705119985,1704424000,1703649565,1703135969,1702660023,1702196279,1701663112,1701191564,1700714101];
+        let timestamps = [1723929849,1718263116,1717044968,1716434363,1715255161,1714621820,1707025841,1706557349,1706022129,1705556329,1705119985,1704424000,1703649565,1703135969,1702660023,1702196279,1701663112,1701191564,1700714101];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/22 | 2-5 | [Fairy tail ](https://ws.tsl.rocks/corp/44e6a82c06b84bc5579df0e42bc462f36313b0060861d25228856930f6c19eac/) |
 | ❌ | 2024/06/18 | 3-27 | [Osmium Star llc](https://ws.tsl.rocks/corp/edd3ac94ea8ee1cf441e904ff29c48c21fa5db83af6eb5a6e83ae236b3872b22/) |
 | ✅ | 2024/06/04 | 10-2 | [以太超星团](https://ws.tsl.rocks/corp/327addf616128dc5b01013e29e850c76d22ae27af199bcc6bba3b92cee7818ae/) |
 | ❌ | 2024/05/28 | 5-15 | [lesescargots](https://ws.tsl.rocks/corp/718c873931e9097064fd6ef580fe9d8761be712e0783e0b97d28344abd910623/) |
