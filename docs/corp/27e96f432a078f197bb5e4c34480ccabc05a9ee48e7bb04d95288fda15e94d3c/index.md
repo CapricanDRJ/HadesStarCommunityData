@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Últimafronteira
-description: W:7 L:0 D:0 Bonus ❌
-date: 1722393171
+description: W:8 L:0 D:0 Bonus ✅
+date: 1724277994
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1296 🔺  (128)|
-| ELO Competitive | 1298 🔺  (217)|
-| Total Matches | 7 |
-| Wins | 7 |
+| ELO Regular | 1309 🔺  (113)|
+| ELO Competitive | 1312 🔺  (200)|
+| Total Matches | 8 |
+| Wins | 8 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 7 |
-| Streak Record | 7 |
+| Streak | 8 |
+| Streak Record | 8 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721961171,1721344524,1718508192,1718062679,1718062379,1717610294,1716578864];
+        let timestamps = [1723845994,1721961171,1721344524,1718508192,1718062679,1718062379,1717610294,1716578864];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/21 | 17-3 | [碧霄殿](https://ws.tsl.rocks/corp/7e12fd0fd0a01af1c797f73316b305a21078e46bd75758850438f20357276ebf/) |
 | ✅ | 2024/07/31 | 26-6 | [星海扬帆](https://ws.tsl.rocks/corp/9cf2d9a2c07a0b8030f9a8275f9ebd3973759c2b60bed95ccb9a3f152aa0b1e4/) |
 | ✅ | 2024/07/23 | 20-3 | [Forces of Light](https://ws.tsl.rocks/corp/0363a536567ae69573a7b0aa4b2c4119c5c14999f5bb2c7a68219b22b78f7903/) |
 | ✅ | 2024/06/21 | 31-0 | [Poggy Rockers](https://ws.tsl.rocks/corp/47aeb151232251d9e53310e21f1290b1240c63878169968847bd1e89efc909a7/) |

@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​lonewolf
-description: W:10 L:11 D:1 Bonus ✅
+description: W:10 L:11 D:1 Bonus ❌
 date: 1723665553
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1244 🔺  (231)|
-| ELO Competitive | 1261 🔺  (298)|
+| ELO Competitive | 1261 🔺  (297)|
 | Total Matches | 22 |
 | Wins | 10 |
 | Losses | 11 |

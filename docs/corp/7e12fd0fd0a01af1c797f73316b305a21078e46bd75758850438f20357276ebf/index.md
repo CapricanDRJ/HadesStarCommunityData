@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​碧霄殿
-description: W:6 L:4 D:0 Bonus ❌
-date: 1723609954
+description: W:6 L:5 D:0 Bonus ❌
+date: 1724277994
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1232 🔺  (268)|
-| ELO Competitive | 1275 🔺  (266)|
-| Total Matches | 10 |
+| ELO Regular | 1220 🔻  (321)|
+| ELO Competitive | 1261 🔻  (298)|
+| Total Matches | 11 |
 | Wins | 6 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
 | Streak Record | 4 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723177954,1722744320,1722744020,1722220241,1721691617,1721257418,1720272810,1719835239,1718626893,1700542075];
+        let timestamps = [1723845994,1723177954,1722744320,1722744020,1722220241,1721691617,1721257418,1720272810,1719835239,1718626893,1700542075];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/21 | 3-17 | [Últimafronteira](https://ws.tsl.rocks/corp/27e96f432a078f197bb5e4c34480ccabc05a9ee48e7bb04d95288fda15e94d3c/) |
 | ✅ | 2024/08/14 | 20-2 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
 | ❌ | 2024/08/09 | 2-6 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
 | ❌ | 2024/08/09 | 19-20 | [青丘湖](https://ws.tsl.rocks/corp/c2d4ace95bc720bbe241ecac77e9a33d3961c881d62fa45e81690b9836a65658/) |
