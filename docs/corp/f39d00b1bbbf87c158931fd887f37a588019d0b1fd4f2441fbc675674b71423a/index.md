@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​普罗米修斯
-description: W:2 L:9 D:1 Bonus ✅
+description: W:2 L:9 D:1 Bonus ❌
 date: 1723729561
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1121 🔺  (1098)|
-| ELO Competitive | 1143 🔺  (1112)|
+| ELO Regular | 1121 🔺  (1099)|
+| ELO Competitive | 1143 🔺  (1113)|
 | Total Matches | 12 |
 | Wins | 2 |
 | Losses | 9 |

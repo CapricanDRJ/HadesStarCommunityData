@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​九州分团
-description: W:35 L:41 D:2 Bonus ✅
+description: W:35 L:41 D:2 Bonus ❌
 date: 1724171613
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

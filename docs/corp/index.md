@@ -564,7 +564,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [RATAS](https://ws.tsl.rocks/corp/d1735017baebdc46be84fde565fc4554965b078e36a974f706eef623a932ea3d/) | 1185 | 1190 | 1 |
 | [RDR2](https://ws.tsl.rocks/corp/5deea0e4b08770c5b17ceff812d58a60a03c2734dc65de38966b4801fa8a14dd/) | 1200 | 1200 | 1 |
 | [Rebellion\!](https://ws.tsl.rocks/corp/43daf4a5a2ec7f33566ebf93d9e37b36ebc9e0f4f982dbfac8c7ce7d5789e891/) | 1190 | 1198 | 2 |
-| [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) | 1204 | 1253 | 15 |
+| [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) | 1188 | 1236 | 16 |
 | [Red Dawn](https://ws.tsl.rocks/corp/fee852a2530bc5e3cbe5b2a5fdb224d249eeceeb3688cfd71479344181831328/) | 1285 | 1386 | 49 |
 | [Red Dwarf](https://ws.tsl.rocks/corp/49202a011f1e2333a5cb54f3abd75ccc2514e568f1108edc968f13003720629e/) | 1187 | 1187 | 1 |
 | [Red Noobs](https://ws.tsl.rocks/corp/77a15a2a5ecb3dbd333ea491275d2d41c23e39c1744dd9f1c092c5e3306a2e14/) | 1186 | 1186 | 1 |
@@ -1186,6 +1186,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [萌新的收留所](https://ws.tsl.rocks/corp/1dd3f70c959e32c27cb4c010162be3799b7c0732115d5c2b7ca5979f48b10f7f/) | 1316 | 1349 | 21 |
 | [落雨观花](https://ws.tsl.rocks/corp/565a6d89fc5107e86669d7f8910a1c4ae1fbb156fa0b5e81dbc917c341cc9ff0/) | 1279 | 1295 | 14 |
 | [蓝太阳](https://ws.tsl.rocks/corp/3d8bcfd3fe682016f1d82e28b9ad7ed8de9df1c1a81ceb6d63e35844660d2212/) | 1189 | 1195 | 3 |
+| [蓝星集团](https://ws.tsl.rocks/corp/9d718b80beaf9682ccde175169372b72f70b75bb593770762dfc9e990cbd098a/) | 1215 | 1217 | 1 |
 | [蓝色星系](https://ws.tsl.rocks/corp/4199afa719f068b1e3195bebef959b1a1c22d55d5cc0ca718de807ea5d1486f9/) | 1185 | 1185 | 1 |
 | [蓝色星系一号分盟](https://ws.tsl.rocks/corp/e0f054888d7f0127596210e18c6714dc3bd228748e8f6822d1a091514d6264b8/) | 1139 | 1152 | 8 |
 | [行星联合军](https://ws.tsl.rocks/corp/5afa03bdcf5439e267c7f2b358e6ae5d16030d3d52b527b58b37236ddfa7fe57/) | 1169 | 1187 | 16 |
