@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Majapahit
-description: W:6 L:1 D:0 Bonus ❌
-date: 1715514037
+description: W:6 L:2 D:0 Bonus ❌
+date: 1724340507
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1268 🔺  (183)|
-| ELO Competitive | 1276 🔺  (265)|
-| Total Matches | 7 |
+| ELO Regular | 1261 🔻  (195)|
+| ELO Competitive | 1269 🔻  (277)|
+| Total Matches | 8 |
 | Wins | 6 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
-| Streak | 4 |
 | Streak Record | 4 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1715082037,1713500042,1704725113,1703196381,1702265410,1699851956,1699258965];
+        let timestamps = [1723908507,1715082037,1713500042,1704725113,1703196381,1702265410,1699851956,1699258965];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/22 | 0-39 | [BrazilCorp\.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) |
 | ✅ | 2024/05/12 | 25-4 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ✅ | 2024/04/24 | 29-8 | [Legion Prime](https://ws.tsl.rocks/corp/4ec84e26e7ede18156541503f057342cbe9ac9ef9e53c7dbae99993832da067e/) |
 | ✅ | 2024/01/13 | 27-0 | [Peak Extraction](https://ws.tsl.rocks/corp/b656a84b60d6de62745eb9059a703b44cca76b6247beeceef5f856f89e4c2d0d/) |

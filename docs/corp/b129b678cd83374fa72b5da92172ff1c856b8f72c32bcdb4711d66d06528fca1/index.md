@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​1st/Ave/Junkie2
-description: W:16 L:22 D:1 Bonus ❌
-date: 1723749097
+description: W:16 L:23 D:1 Bonus ❌
+date: 1724338703
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1158 🔻  (978)|
-| ELO Competitive | 1176 🔻  (905)|
-| Total Matches | 39 |
+| ELO Regular | 1148 🔻  (1021)|
+| ELO Competitive | 1166 🔻  (1016)|
+| Total Matches | 40 |
 | Wins | 16 |
-| Losses | 22 |
+| Losses | 23 |
 | Draws | 1 |
 | Streak Record | 3 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723317097,1722774372,1720647870,1719758313,1718986631,1718488964,1717968015,1717456118,1716944303,1716483333,1715938021,1715427851,1714991902,1714517078,1714033324,1713314655,1712835683,1712317963,1711825482,1710848637,1710404538,1709080359,1708257001,1707822779,1707343947,1706885805,1706403481,1705943997,1705508848,1704972434,1704470876,1703989758,1703265499,1702605328,1702005129,1701532074,1700765078,1700165491,1699585003];
+        let timestamps = [1723906703,1723317097,1722774372,1720647870,1719758313,1718986631,1718488964,1717968015,1717456118,1716944303,1716483333,1715938021,1715427851,1714991902,1714517078,1714033324,1713314655,1712835683,1712317963,1711825482,1710848637,1710404538,1709080359,1708257001,1707822779,1707343947,1706885805,1706403481,1705943997,1705508848,1704972434,1704470876,1703989758,1703265499,1702605328,1702005129,1701532074,1700765078,1700165491,1699585003];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/22 | 1-26 | [Sprite](https://ws.tsl.rocks/corp/3bf5d300b42f0610355645e2ee9cf24e5517a2c5e12472f685781051619266ac/) |
 | ❌ | 2024/08/15 | 4-20 | [Lacuna X](https://ws.tsl.rocks/corp/fb10f33f3db17b99b0d227f17e7fde76ef067dc4a4bb4ae05e46c76d2e5e8ea1/) |
 | ❌ | 2024/08/09 | 1-31 | [落雨观花](https://ws.tsl.rocks/corp/565a6d89fc5107e86669d7f8910a1c4ae1fbb156fa0b5e81dbc917c341cc9ff0/) |
 | ❌ | 2024/07/15 | 0-13 | [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) |

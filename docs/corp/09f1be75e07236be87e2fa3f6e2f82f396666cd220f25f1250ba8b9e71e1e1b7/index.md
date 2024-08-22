@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Lacuna Ind.
-description: W:6 L:18 D:1 Bonus ✅
+description: W:6 L:18 D:1 Bonus ❌
 date: 1723721445
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Z. O. V. 
-description: W:21 L:4 D:1 Bonus ✅
+description: W:21 L:4 D:1 Bonus ❌
 date: 1723714233
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
