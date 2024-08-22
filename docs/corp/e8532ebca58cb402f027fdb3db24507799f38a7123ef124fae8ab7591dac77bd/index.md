@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​仙女座星雲
-description: W:53 L:38 D:3 Bonus ✅
+description: W:53 L:38 D:3 Bonus ❌
 date: 1723801081
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

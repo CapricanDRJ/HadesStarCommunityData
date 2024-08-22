@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​第一序列
-description: W:37 L:37 D:0 Bonus ✅
+description: W:37 L:37 D:0 Bonus ❌
 date: 1723692897
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
