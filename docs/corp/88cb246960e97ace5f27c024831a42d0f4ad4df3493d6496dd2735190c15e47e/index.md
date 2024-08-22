@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​北冥星云
-description: W:0 L:4 D:0 Bonus ❌
-date: 1721238866
+description: W:1 L:4 D:0 Bonus ✅
+date: 1724290011
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1145 🔻  (1030)|
-| ELO Competitive | 1160 🔻  (1042)|
-| Total Matches | 4 |
-| Wins | 0 |
+| ELO Regular | 1166 🔺  (924)|
+| ELO Competitive | 1183 🔺  (858)|
+| Total Matches | 5 |
+| Wins | 1 |
 | Losses | 4 |
 | Draws | 0 |
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1720806866,1720334414,1718598347,1708705942];
+        let timestamps = [1723858011,1720806866,1720334414,1718598347,1708705942];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/22 | 12-9 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) |
 | ❌ | 2024/07/17 | 19-25 | [붉은늑대](https://ws.tsl.rocks/corp/43d32b05645aaa9415d1c04ecbcea520d2ed5b90304770cb0ab3813cb86e2f49/) |
 | ❌ | 2024/07/12 | 7-55 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |
 | ❌ | 2024/06/22 | 7-28 | [Sternenflotte](https://ws.tsl.rocks/corp/6273be8c33cae6938fe5608aa5cf5a78e740f71dd888477b437e47ec106c0a0d/) |

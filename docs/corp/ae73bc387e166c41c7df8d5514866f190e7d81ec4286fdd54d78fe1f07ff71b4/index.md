@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​银星S Stars‘
-description: W:2 L:0 D:0 Bonus ✅
+description: W:2 L:0 D:0 Bonus ❌
 date: 1723679677
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
