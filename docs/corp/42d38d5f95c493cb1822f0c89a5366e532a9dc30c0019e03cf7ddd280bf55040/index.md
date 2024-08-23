@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​第四星际
-description: W:27 L:10 D:2 Bonus ✅
+description: W:27 L:10 D:2 Bonus ❌
 date: 1723811599
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1318 🔺  (100)|
-| ELO Competitive | 1436 🔺  (67)|
+| ELO Competitive | 1436 🔺  (68)|
 | Total Matches | 39 |
 | Wins | 27 |
 | Losses | 10 |

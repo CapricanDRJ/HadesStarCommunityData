@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Czech Legion
-description: W:7 L:1 D:0 Bonus ✅
-date: 1723833542
+description: W:8 L:1 D:0 Bonus ✅
+date: 1724436985
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1286 🔺  (148)|
-| ELO Competitive | 1304 🔺  (212)|
-| Total Matches | 8 |
-| Wins | 7 |
+| ELO Regular | 1301 🔺  (125)|
+| ELO Competitive | 1318 🔺  (186)|
+| Total Matches | 9 |
+| Wins | 8 |
 | Losses | 1 |
 | Draws | 0 |
-| Streak | 7 |
-| Streak Record | 7 |
+| Streak | 8 |
+| Streak Record | 8 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723401542,1722544485,1721894457,1720976118,1719862292,1718657254,1717434775,1716332308];
+        let timestamps = [1724004985,1723401542,1722544485,1721894457,1720976118,1719862292,1718657254,1717434775,1716332308];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/23 | 13-0 | [Призрачный Путь](https://ws.tsl.rocks/corp/c4cb268c3665e9b1d2250f72fb83c73e293536df6581cc087f195a049ca15528/) |
 | ✅ | 2024/08/16 | 17-5 | [\*Alfa y Omega\*](https://ws.tsl.rocks/corp/b1da3a2265efd2266a8e4b5698a731ae179d00e431ee748d7bee62a1357a12ed/) |
 | ✅ | 2024/08/06 | 20-3 | [Galaxians](https://ws.tsl.rocks/corp/94728c6eb201c1f15c6e2304b5920aa155ccc1a7aac83b574baae51c53a22c5d/) |
 | ✅ | 2024/07/30 | 9-0 | [落雨观花](https://ws.tsl.rocks/corp/565a6d89fc5107e86669d7f8910a1c4ae1fbb156fa0b5e81dbc917c341cc9ff0/) |

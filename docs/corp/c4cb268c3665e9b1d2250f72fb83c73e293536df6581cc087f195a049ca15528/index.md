@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Призрачный Путь
-description: W:13 L:5 D:0 Bonus ❌
-date: 1716641332
+description: W:13 L:6 D:0 Bonus ❌
+date: 1724436985
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1284 🔻  (155)|
-| ELO Competitive | 1295 🔻  (223)|
-| Total Matches | 18 |
+| ELO Regular | 1269 🔻  (179)|
+| ELO Competitive | 1280 🔻  (255)|
+| Total Matches | 19 |
 | Wins | 13 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 0 |
 | Streak Record | 10 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1716209332,1712346813,1711534009,1711092309,1710649725,1710166573,1709726137,1709290385,1708848072,1707987154,1706813385,1705576459,1704753969,1703214409,1701338827,1700409235,1699728115,1698938027];
+        let timestamps = [1724004985,1716209332,1712346813,1711534009,1711092309,1710649725,1710166573,1709726137,1709290385,1708848072,1707987154,1706813385,1705576459,1704753969,1703214409,1701338827,1700409235,1699728115,1698938027];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/23 | 0-13 | [Czech Legion](https://ws.tsl.rocks/corp/b4453b41cf7b1c019648ed14db493a47c8a64347e689013b2c969bf97e251ec8/) |
 | ❌ | 2024/05/25 | 0-23 | [Out landers](https://ws.tsl.rocks/corp/4d949404db40dec4e95e786811959954fc9e2b1361f3bf0d33af2279ff86d23a/) |
 | ❌ | 2024/04/10 | 0-16 | [Eretria ](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |
 | ❌ | 2024/04/01 | 3-14 | [lesescargots](https://ws.tsl.rocks/corp/718c873931e9097064fd6ef580fe9d8761be712e0783e0b97d28344abd910623/) |

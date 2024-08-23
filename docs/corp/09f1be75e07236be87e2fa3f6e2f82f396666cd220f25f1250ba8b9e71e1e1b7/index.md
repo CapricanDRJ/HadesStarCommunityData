@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​Lacuna Ind.
-description: W:6 L:18 D:1 Bonus ❌
-date: 1723721445
+description: W:7 L:18 D:1 Bonus ✅
+date: 1724428568
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1089 🔺  (1154)|
-| ELO Competitive | 1105 🔺  (1180)|
-| Total Matches | 25 |
-| Wins | 6 |
+| ELO Regular | 1110 🔺  (1130)|
+| ELO Competitive | 1128 🔺  (1153)|
+| Total Matches | 26 |
+| Wins | 7 |
 | Losses | 18 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 3 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723289445,1720983594,1715551956,1714304036,1713628926,1712457988,1711740441,1711130168,1710677069,1709955036,1709346277,1708783469,1708094432,1707510414,1707016226,1706301005,1705694566,1703990359,1703231236,1702763413,1702117532,1701388120,1700908739,1700236716,1699704962];
+        let timestamps = [1723996568,1723289445,1720983594,1715551956,1714304036,1713628926,1712457988,1711740441,1711130168,1710677069,1709955036,1709346277,1708783469,1708094432,1707510414,1707016226,1706301005,1705694566,1703990359,1703231236,1702763413,1702117532,1701388120,1700908739,1700236716,1699704962];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/23 | 37-21 | [NERF TOY'S](https://ws.tsl.rocks/corp/34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0/) |
 | ✅ | 2024/08/15 | 38-6 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
 | ❌ | 2024/07/19 | 21-28 | [Corvus Ind\.](https://ws.tsl.rocks/corp/f99305aca0eca2f37971c97916647c8edd0258de0d30a3de61941700e7fb2c94/) |
 | ❌ | 2024/05/17 | 3-40 | [No Orbit©](https://ws.tsl.rocks/corp/15831bc11de2a279f369118ffb2cd889844a6992e769889ad9e64f8ac15a410f/) |

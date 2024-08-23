@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Veteran's Haven
-description: W:5 L:10 D:0 Bonus ❌
-date: 1722754109
+description: W:5 L:11 D:0 Bonus ❌
+date: 1724436685
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1139 🔻  (1051)|
-| ELO Competitive | 1157 🔻  (1064)|
-| Total Matches | 15 |
+| ELO Regular | 1128 🔻  (1090)|
+| ELO Competitive | 1147 🔻  (1099)|
+| Total Matches | 16 |
 | Wins | 5 |
-| Losses | 10 |
+| Losses | 11 |
 | Draws | 0 |
 | Streak Record | 3 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722322109,1718269124,1717622319,1717129108,1716562346,1716001119,1715398706,1714705767,1714081704,1713496437,1713025586,1711719706,1711062268,1710328520,1709653066];
+        let timestamps = [1724004685,1722322109,1718269124,1717622319,1717129108,1716562346,1716001119,1715398706,1714705767,1714081704,1713496437,1713025586,1711719706,1711062268,1710328520,1709653066];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/23 | 0-32 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) |
 | ❌ | 2024/08/04 | 7-40 | [Ark](https://ws.tsl.rocks/corp/febd79d038ed9af667e201309060d9662ba825ba9be2b5b95418ac20a8e70c80/) |
 | ❌ | 2024/06/18 | 6-32 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) |
 | ❌ | 2024/06/10 | 2-41 | [Planet Express](https://ws.tsl.rocks/corp/be13b17a002cf203ab2a5a31d6c8024e7458b8eac569eb576be7f30844979c99/) |

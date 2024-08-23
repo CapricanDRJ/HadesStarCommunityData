@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​＊СССР＊
-description: W:18 L:20 D:1 Bonus ❌
-date: 1723404717
+description: W:19 L:20 D:1 Bonus ✅
+date: 1724436685
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1230 🔻  (282)|
-| ELO Competitive | 1274 🔻  (266)|
-| Total Matches | 39 |
-| Wins | 18 |
+| ELO Regular | 1241 🔺  (243)|
+| ELO Competitive | 1284 🔺  (242)|
+| Total Matches | 40 |
+| Wins | 19 |
 | Losses | 20 |
 | Draws | 1 |
 | Streak Record | 3 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722972717,1721587037,1720985097,1720368378,1719767932,1719135060,1718560187,1717950281,1717357235,1716744153,1716127311,1715559466,1714930916,1714329884,1713719062,1713113933,1712514185,1711909919,1711904810,1711278309,1710963114,1710701114,1710127861,1709522965,1708918391,1708326718,1707712194,1707710692,1707106982,1707106982,1706505055,1705895614,1705392850,1704824287,1703199386,1701660408,1701067439,1699818897,1699194366];
+        let timestamps = [1724004685,1722972717,1721587037,1720985097,1720368378,1719767932,1719135060,1718560187,1717950281,1717357235,1716744153,1716127311,1715559466,1714930916,1714329884,1713719062,1713113933,1712514185,1711909919,1711904810,1711278309,1710963114,1710701114,1710127861,1709522965,1708918391,1708326718,1707712194,1707710692,1707106982,1707106982,1706505055,1705895614,1705392850,1704824287,1703199386,1701660408,1701067439,1699818897,1699194366];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -128,6 +128,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/23 | 32-0 | [Veteran's Haven](https://ws.tsl.rocks/corp/254fdc629bae81f3b0ca69160e0b6e34bd81993e755e4fb5ddedd1533038a683/) |
 | ❌ | 2024/08/11 | 8-18 | [Nine's Own Goal](https://ws.tsl.rocks/corp/fd47245550708347721e341d893b73e7c23e0f3624053c47ce666e55641c9e9e/) |
 | ❌ | 2024/07/26 | 7-20 | [Corvus Ind\.](https://ws.tsl.rocks/corp/f99305aca0eca2f37971c97916647c8edd0258de0d30a3de61941700e7fb2c94/) |
 | ✅ | 2024/07/19 | 20-9 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) |
