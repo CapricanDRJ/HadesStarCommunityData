@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Grater U
-description: W:0 L:1 D:0 Bonus ❌
-date: 1723905663
+description: W:1 L:1 D:0 Bonus ✅
+date: 1724379275
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔻  (540)|
-| ELO Competitive | 1192 🔻  (617)|
-| Total Matches | 1 |
-| Wins | 0 |
+| ELO Regular | 1205 🔺  (423)|
+| ELO Competitive | 1208 🔺  (515)|
+| Total Matches | 2 |
+| Wins | 1 |
 | Losses | 1 |
 | Draws | 0 |
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723473663];
+        let timestamps = [1723947275,1723473663];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/23 | 19-3 | [群星联盟](https://ws.tsl.rocks/corp/9b52999ef6fd3e408347334f34c792155b405eead69b509cbc68fd14520ace95/) |
 | ❌ | 2024/08/17 | 3-4 | [BoomTech](https://ws.tsl.rocks/corp/97c4db179d3ea995d3a56227f87c501f4baa4abbece2b25e09b636f0aa264bd7/) |
 
 Corporation ID: 0e4162ae372602616761a4d3d17986722b9cc8c4371f9ddeadb3d0d37aace4fa

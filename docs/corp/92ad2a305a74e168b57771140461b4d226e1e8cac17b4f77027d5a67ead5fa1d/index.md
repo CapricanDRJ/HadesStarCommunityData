@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​星光万丈
-description: W:12 L:20 D:1 Bonus ❌
-date: 1723775238
+description: W:12 L:21 D:1 Bonus ❌
+date: 1724384683
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1164 🔻  (938)|
-| ELO Competitive | 1238 🔻  (352)|
-| Total Matches | 33 |
+| ELO Regular | 1159 🔻  (971)|
+| ELO Competitive | 1232 🔻  (373)|
+| Total Matches | 34 |
 | Wins | 12 |
-| Losses | 20 |
+| Losses | 21 |
 | Draws | 1 |
 | Streak Record | 3 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723343238,1723302371,1722851304,1722774973,1722304382,1722282748,1721729476,1721729175,1721219212,1721193973,1720536368,1720530357,1719574401,1719440986,1718991431,1718443279,1717894377,1717166371,1713185743,1712301422,1712281008,1711844713,1711172976,1708438043,1707797041,1707132221,1706667938,1706164269,1705126295,1704540591,1699361733,1699131567,1698929312];
+        let timestamps = [1723952683,1723343238,1723302371,1722851304,1722774973,1722304382,1722282748,1721729476,1721729175,1721219212,1721193973,1720536368,1720530357,1719574401,1719440986,1718991431,1718443279,1717894377,1717166371,1713185743,1712301422,1712281008,1711844713,1711172976,1708438043,1707797041,1707132221,1706667938,1706164269,1705126295,1704540591,1699361733,1699131567,1698929312];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/23 | 0-27 | [Lacuna X](https://ws.tsl.rocks/corp/fb10f33f3db17b99b0d227f17e7fde76ef067dc4a4bb4ae05e46c76d2e5e8ea1/) |
 | ❌ | 2024/08/16 | 0-6 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ❌ | 2024/08/15 | 0-24 | [落雨观花](https://ws.tsl.rocks/corp/565a6d89fc5107e86669d7f8910a1c4ae1fbb156fa0b5e81dbc917c341cc9ff0/) |
 | ✅ | 2024/08/10 | 10-3 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |
