@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​INFINITY STAR
-description: W:6 L:7 D:0 Bonus ❌
-date: 1723825727
+description: W:6 L:8 D:0 Bonus ❌
+date: 1724417143
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻  (563)|
-| ELO Competitive | 1226 🔻  (401)|
-| Total Matches | 13 |
+| ELO Regular | 1182 🔻  (766)|
+| ELO Competitive | 1219 🔻  (419)|
+| Total Matches | 14 |
 | Wins | 6 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723393727,1722781888,1722176359,1721561786,1720351244,1719663050,1719141672,1718546961,1717942765,1716728521,1711894891,1710086049,1705845726];
+        let timestamps = [1723985143,1723393727,1722781888,1722176359,1721561786,1720351244,1719663050,1719141672,1718546961,1717942765,1716728521,1711894891,1710086049,1705845726];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/23 | 4-28 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |
 | ❌ | 2024/08/16 | 12-28 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ✅ | 2024/08/09 | 27-10 | [Stellaris](https://ws.tsl.rocks/corp/957f987a0920391d39769d5b2540f55eb7102778a12d395599ed7a4a7985e342/) |
 | ✅ | 2024/08/02 | 17-4 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​DTC
-description: W:15 L:44 D:0 Bonus ✅
+description: W:15 L:44 D:0 Bonus ❌
 date: 1723804386
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
