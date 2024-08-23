@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​DadCorp
-description: W:4 L:2 D:0 Bonus ❌
-date: 1704549471
+description: W:5 L:2 D:0 Bonus ✅
+date: 1724390393
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1228 🔻  (291)|
-| ELO Competitive | 1236 🔻  (359)|
-| Total Matches | 6 |
-| Wins | 4 |
+| ELO Regular | 1243 🔺  (235)|
+| ELO Competitive | 1257 🔺  (310)|
+| Total Matches | 7 |
+| Wins | 5 |
 | Losses | 2 |
 | Draws | 0 |
 | Streak Record | 3 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1704117471,1702876412,1701005523,1700010949,1699492751,1698738171];
+        let timestamps = [1723958393,1704117471,1702876412,1701005523,1700010949,1699492751,1698738171];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/23 | 36-14 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | ❌ | 2024/01/06 | 28-42 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) |
 | ✅ | 2023/12/23 | 43-12 | [Spacefleet](https://ws.tsl.rocks/corp/517f7b257f68936f7a95a478d6923776a2549b88897bae628fd35b23572d3cbd/) |
 | ❌ | 2023/12/01 | 33-53 | [Legion](https://ws.tsl.rocks/corp/313baaeac1c759ca26e0f4bd3140711cffdfa85c287d4c992dcfb809908cf491/) |

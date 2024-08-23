@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​<•|•>
-description: W:2 L:4 D:1 Bonus ❌
-date: 1723840155
+description: W:2 L:5 D:1 Bonus ❌
+date: 1724394299
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔻  (914)|
-| ELO Competitive | 1177 🔻  (901)|
-| Total Matches | 7 |
+| ELO Regular | 1156 🔻  (996)|
+| ELO Competitive | 1165 🔻  (1023)|
+| Total Matches | 8 |
 | Wins | 2 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 1 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723408155,1722895788,1722340138,1721729175,1720857653,1720155610,1716780511];
+        let timestamps = [1723962299,1723408155,1722895788,1722340138,1721729175,1720857653,1720155610,1716780511];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/23 | 2-14 | [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) |
 | ❌ | 2024/08/16 | 0-7 | [EarthFederation](https://ws.tsl.rocks/corp/e1d58bc0b534389adeb45301641e32cdda2af0a1748a0d2ddb52e794db2c6d5b/) |
 | ✅ | 2024/08/10 | 3-0 | [Fairy tail ](https://ws.tsl.rocks/corp/44e6a82c06b84bc5579df0e42bc462f36313b0060861d25228856930f6c19eac/) |
 | ↔️ | 2024/08/04 | 0-0 | [落雨观花](https://ws.tsl.rocks/corp/565a6d89fc5107e86669d7f8910a1c4ae1fbb156fa0b5e81dbc917c341cc9ff0/) |

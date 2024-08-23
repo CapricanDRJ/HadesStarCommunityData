@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​lonewolf
-description: W:10 L:11 D:1 Bonus ❌
-date: 1723665553
+description: W:11 L:11 D:1 Bonus ✅
+date: 1724394600
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1244 🔺  (231)|
-| ELO Competitive | 1261 🔺  (299)|
-| Total Matches | 22 |
-| Wins | 10 |
+| ELO Regular | 1257 🔺  (203)|
+| ELO Competitive | 1281 🔺  (249)|
+| Total Matches | 23 |
+| Wins | 11 |
 | Losses | 11 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 3 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723233553,1722404748,1721574411,1720841726,1719736374,1718492570,1717841780,1717278480,1716305777,1715670927,1714924606,1714282403,1713595572,1712988323,1712416222,1711251867,1710655734,1709991995,1709373620,1708763035,1708076101,1707547971];
+        let timestamps = [1723962600,1723233553,1722404748,1721574411,1720841726,1719736374,1718492570,1717841780,1717278480,1716305777,1715670927,1714924606,1714282403,1713595572,1712988323,1712416222,1711251867,1710655734,1709991995,1709373620,1708763035,1708076101,1707547971];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/23 | 27-3 | [Bunker](https://ws.tsl.rocks/corp/583eeb4aaa577ce5d9806fc637f83d7c02b2a29fa2d47eb38fd658be8ef93588/) |
 | ✅ | 2024/08/14 | 29-3 | [The Allegiant](https://ws.tsl.rocks/corp/1c4cfbcf7902769aff100297d9174153f4c0528ed07918ba494f763a1315ffc6/) |
 | ❌ | 2024/08/05 | 11-15 | [Star Destroyers](https://ws.tsl.rocks/corp/32ba20918cd8720602fefb3bc676a6ba5195314479040f70eadc728fbbc2698d/) |
 | ✅ | 2024/07/26 | 13-6 | [Duchy Arrakis](https://ws.tsl.rocks/corp/6c8c526b366a9e9eb3eba3d3107b628042c005db03530961b24a722cc58a339e/) |

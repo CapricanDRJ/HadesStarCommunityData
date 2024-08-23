@@ -1,19 +1,21 @@
 ---
 layout: page
 title: ​ISERLOHN
-description: W:1 L:0 D:0 Bonus ✅
-date: 1723961859
+description: W:2 L:0 D:0 Bonus ✅
+date: 1724394900
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1223 🔺  (312)|
-| ELO Competitive | 1225 🔺  (401)|
-| Total Matches | 1 |
-| Wins | 1 |
+| ELO Regular | 1238 🔺  (251)|
+| ELO Competitive | 1244 🔺  (339)|
+| Total Matches | 2 |
+| Wins | 2 |
 | Losses | 0 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 
 
 # Whitestar Match Day
@@ -30,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723529859];
+        let timestamps = [1723962900,1723529859];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/23 | 20-7 | [Armored Union ](https://ws.tsl.rocks/corp/4dacc02ca314ab864578421db538b0eb10b0c8c81dc0edd91c5090717d087c7f/) |
 | ✅ | 2024/08/18 | 14-0 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 
 Corporation ID: 6c287f852581788415a341fe40fa82f1f10d0da5752b2474833cb58351972699

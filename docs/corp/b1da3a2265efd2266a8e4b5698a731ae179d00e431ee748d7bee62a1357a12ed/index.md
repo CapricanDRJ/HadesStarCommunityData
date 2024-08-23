@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​＊Alfa y Omega＊
-description: W:12 L:5 D:0 Bonus ✅
-date: 1723833542
+description: W:12 L:5 D:1 Bonus ✅
+date: 1724386185
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1304 🔻  (120)|
-| ELO Competitive | 1351 🔺  (144)|
-| Total Matches | 17 |
+| ELO Regular | 1299 🔻  (127)|
+| ELO Competitive | 1345 🔻  (152)|
+| Total Matches | 18 |
 | Wins | 12 |
 | Losses | 5 |
-| Draws | 0 |
+| Draws | 1 |
 | Streak Record | 5 |
 
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723401542,1723399438,1722868135,1722405650,1721957866,1721452100,1721437678,1721012742,1720907551,1720466951,1719967560,1719958154,1719440986,1718912682,1718309099,1716912746,1699916881];
+        let timestamps = [1723954185,1723401542,1723399438,1722868135,1722405650,1721957866,1721452100,1721437678,1721012742,1720907551,1720466951,1719967560,1719958154,1719440986,1718912682,1718309099,1716912746,1699916881];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/08/23 | 4-4 | [Cydonia](https://ws.tsl.rocks/corp/d7b61bdd2b275833780d36a5bdf64fa64d7a1dbea9bde8bdcf54a7e37381214a/) |
 | ❌ | 2024/08/16 | 5-17 | [Czech Legion](https://ws.tsl.rocks/corp/b4453b41cf7b1c019648ed14db493a47c8a64347e689013b2c969bf97e251ec8/) |
 | ✅ | 2024/08/16 | 4-0 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 | ✅ | 2024/08/10 | 26-0 | [C'est pas faux\!](https://ws.tsl.rocks/corp/fa08ee3e0496d13b55f0058cc61560c3e8e5b91628ee583c9eca31ef10c7749b/) |
