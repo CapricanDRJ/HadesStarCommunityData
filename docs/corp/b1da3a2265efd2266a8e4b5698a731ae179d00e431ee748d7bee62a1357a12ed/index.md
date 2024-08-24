@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​＊Alfa y Omega＊
-description: W:12 L:5 D:1 Bonus ✅
+description: W:12 L:5 D:1 Bonus ❌
 date: 1724386185
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

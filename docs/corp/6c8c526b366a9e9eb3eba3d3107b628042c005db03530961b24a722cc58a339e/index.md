@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Duchy Arrakis
-description: W:20 L:10 D:0 Bonus ✅
+description: W:20 L:10 D:0 Bonus ❌
 date: 1723832640
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

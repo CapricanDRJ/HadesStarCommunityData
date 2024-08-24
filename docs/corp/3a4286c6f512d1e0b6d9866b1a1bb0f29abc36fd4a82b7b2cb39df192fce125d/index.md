@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Hinterm Mond
-description: W:49 L:28 D:0 Bonus ✅
+description: W:49 L:28 D:0 Bonus ❌
 date: 1723839554
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
