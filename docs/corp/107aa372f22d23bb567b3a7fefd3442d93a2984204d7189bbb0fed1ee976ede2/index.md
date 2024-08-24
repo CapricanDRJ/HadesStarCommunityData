@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​星を継ぐもの
-description: W:29 L:12 D:0 Bonus ❌
-date: 1723860585
+description: W:29 L:13 D:0 Bonus ❌
+date: 1724461029
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1319 🔻  (97)|
-| ELO Competitive | 1350 🔻  (147)|
-| Total Matches | 41 |
+| ELO Regular | 1301 🔻  (125)|
+| ELO Competitive | 1331 🔻  (170)|
+| Total Matches | 42 |
 | Wins | 29 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 0 |
 | Streak Record | 8 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723428585,1722817952,1722306484,1721613480,1721096299,1720490990,1719973477,1719364356,1718846871,1718068386,1717203035,1716688251,1715908882,1715308877,1715303470,1714705767,1714702162,1714179048,1714091617,1713498840,1713486824,1712979263,1712969394,1712366042,1712361535,1711768688,1711759975,1711243455,1710759701,1710301483,1709778060,1709251928,1708792486,1708781666,1708061078,1707308426,1707305720,1706667938,1706001092,1705395554,1704803547];
+        let timestamps = [1724029029,1723428585,1722817952,1722306484,1721613480,1721096299,1720490990,1719973477,1719364356,1718846871,1718068386,1717203035,1716688251,1715908882,1715308877,1715303470,1714705767,1714702162,1714179048,1714091617,1713498840,1713486824,1712979263,1712969394,1712366042,1712361535,1711768688,1711759975,1711243455,1710759701,1710301483,1709778060,1709251928,1708792486,1708781666,1708061078,1707308426,1707305720,1706667938,1706001092,1705395554,1704803547];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/24 | 10-40 | [Widow Makers](https://ws.tsl.rocks/corp/ac1ddcbbd45ccdfa74185d7f40b3a67b0b5b477f7b0bd6f3d7a5a7821ee55bdd/) |
 | ❌ | 2024/08/17 | 3-11 | [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1/) |
 | ✅ | 2024/08/10 | 25-2 | [Legión](https://ws.tsl.rocks/corp/50f2309d2f9e5d31b10e6b9cf5928035bc1df6f395d81adf89b10627daad0fc7/) |
 | ❌ | 2024/08/04 | 10-22 | [Helion Prime](https://ws.tsl.rocks/corp/1a09ce5efe86add0a6f0344bc2a12e27c898c0d21641a3f29a450c6d4c4db3f2/) |

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Terranova
-description: W:5 L:29 D:0 Bonus ❌
-date: 1723876210
+description: W:5 L:30 D:0 Bonus ❌
+date: 1724466437
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1052 🔻  (1185)|
-| ELO Competitive | 1128 🔻  (1154)|
-| Total Matches | 34 |
+| ELO Regular | 1047 🔻  (1187)|
+| ELO Competitive | 1125 🔻  (1155)|
+| Total Matches | 35 |
 | Wins | 5 |
-| Losses | 29 |
+| Losses | 30 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723444210,1722832073,1722249687,1721597557,1720991709,1720407446,1719807896,1719160612,1718569806,1717969518,1717369258,1716817172,1716207529,1715594612,1714992502,1714381257,1713773738,1713191454,1712561658,1712077285,1710756395,1710743177,1710148544,1709548802,1708932210,1708928905,1708336933,1708327920,1707666219,1707065212,1705870375,1705248911,1702818407,1699209091];
+        let timestamps = [1724034437,1723444210,1722832073,1722249687,1721597557,1720991709,1720407446,1719807896,1719160612,1718569806,1717969518,1717369258,1716817172,1716207529,1715594612,1714992502,1714381257,1713773738,1713191454,1712561658,1712077285,1710756395,1710743177,1710148544,1709548802,1708932210,1708928905,1708336933,1708327920,1707666219,1707065212,1705870375,1705248911,1702818407,1699209091];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -129,6 +129,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/24 | 7-37 | [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) |
 | ❌ | 2024/08/17 | 37-51 | [Auscorp ](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) |
 | ✅ | 2024/08/10 | 41-17 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) |
 | ✅ | 2024/08/03 | 46-13 | [EZCO](https://ws.tsl.rocks/corp/cfad990cabcdc1326c0aa3f93a57d1f0e6ec3cd2949e01e6b08443c3af8282f1/) |

@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Widow Makers
-description: W:5 L:2 D:0 Bonus ✅
-date: 1723922195
+description: W:6 L:2 D:0 Bonus ✅
+date: 1724461029
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1249 🔺  (218)|
-| ELO Competitive | 1271 🔺  (272)|
-| Total Matches | 7 |
-| Wins | 5 |
+| ELO Regular | 1267 🔺  (184)|
+| ELO Competitive | 1290 🔺  (233)|
+| Total Matches | 8 |
+| Wins | 6 |
 | Losses | 2 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 3 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723490195,1722376807,1711117848,1709053914,1708620301,1708000075,1707401635];
+        let timestamps = [1724029029,1723490195,1722376807,1711117848,1709053914,1708620301,1708000075,1707401635];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/24 | 40-10 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) |
 | ✅ | 2024/08/17 | 21-19 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 | ✅ | 2024/08/04 | 23-4 | [GhostNakcoorp](https://ws.tsl.rocks/corp/0a15ae22cdfbd88694d3067838a78bea07746ec95f3784b3f65d77fe47d76312/) |
 | ❌ | 2024/03/27 | 5-25 | [BrazilCorp\.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) |

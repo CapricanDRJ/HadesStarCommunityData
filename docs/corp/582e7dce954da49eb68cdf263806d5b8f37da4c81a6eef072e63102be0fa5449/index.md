@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Argentina 1.0
-description: W:20 L:13 D:0 Bonus ✅
-date: 1723933014
+description: W:21 L:13 D:0 Bonus ✅
+date: 1724465836
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1295 🔺  (134)|
-| ELO Competitive | 1334 🔺  (169)|
-| Total Matches | 33 |
-| Wins | 20 |
+| ELO Regular | 1305 🔺  (118)|
+| ELO Competitive | 1343 🔺  (153)|
+| Total Matches | 34 |
+| Wins | 21 |
 | Losses | 13 |
 | Draws | 0 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 5 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723501014,1723008773,1722265015,1721793788,1721252276,1720565225,1720039603,1719451201,1719011543,1718503686,1717810227,1717124903,1716429256,1715973479,1715181789,1714163126,1713496437,1712961583,1711196573,1709522965,1709518545,1708820132,1707178917,1706459978,1706020326,1705544010,1705028033,1703892689,1701179238,1700658980,1700191035,1699464803,1698725548];
+        let timestamps = [1724033836,1723501014,1723008773,1722265015,1721793788,1721252276,1720565225,1720039603,1719451201,1719011543,1718503686,1717810227,1717124903,1716429256,1715973479,1715181789,1714163126,1713496437,1712961583,1711196573,1709522965,1709518545,1708820132,1707178917,1706459978,1706020326,1705544010,1705028033,1703892689,1701179238,1700658980,1700191035,1699464803,1698725548];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/24 | 32-3 | [CTG](https://ws.tsl.rocks/corp/9647a8507dfa5637a217d2d6a0ad47aefb6a4563f910ad46376c228450cff43c/) |
 | ✅ | 2024/08/17 | 15-9 | [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) |
 | ✅ | 2024/08/12 | 42-13 | [Mass Effect](https://ws.tsl.rocks/corp/6f715653bec3925d9c3acd7c2388fe8e1c79332146894ed424f57bd2636de8c7/) |
 | ✅ | 2024/08/03 | 48-4 | [ZION](https://ws.tsl.rocks/corp/99ac8e5c0f22878b9a4458953d0c712ada17ef36ae195ccf39c7921dc996adfe/) |
