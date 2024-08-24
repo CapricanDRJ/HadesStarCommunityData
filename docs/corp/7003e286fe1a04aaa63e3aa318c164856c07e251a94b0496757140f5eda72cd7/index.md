@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Trade Station
-description: W:4 L:34 D:0 Bonus ❌
-date: 1723399607
+description: W:4 L:35 D:0 Bonus ❌
+date: 1724501592
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 949 🔻  (1217)|
-| ELO Competitive | 999 🔻  (1222)|
-| Total Matches | 38 |
+| ELO Regular | 944 🔻  (1218)|
+| ELO Competitive | 994 🔻  (1222)|
+| Total Matches | 39 |
 | Wins | 4 |
-| Losses | 34 |
+| Losses | 35 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722967607,1722465755,1721689815,1721236044,1720755766,1720289343,1719854176,1719391696,1718941223,1718491068,1718058473,1717559799,1714857006,1714098526,1713191454,1712407807,1711802041,1711327897,1710760903,1710192718,1709718564,1709023560,1708431591,1707771398,1707124409,1706443145,1705877287,1705174983,1704410178,1703849710,1703019667,1702540108,1701883111,1701193969,1700386992,1699856463,1699326278,1698814220];
+        let timestamps = [1724069592,1722967607,1722465755,1721689815,1721236044,1720755766,1720289343,1719854176,1719391696,1718941223,1718491068,1718058473,1717559799,1714857006,1714098526,1713191454,1712407807,1711802041,1711327897,1710760903,1710192718,1709718564,1709023560,1708431591,1707771398,1707124409,1706443145,1705877287,1705174983,1704410178,1703849710,1703019667,1702540108,1701883111,1701193969,1700386992,1699856463,1699326278,1698814220];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -130,6 +130,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/24 | 20-42 | [Imperium XIII](https://ws.tsl.rocks/corp/0d52edf77b0cdeaaea6ebc20a7f5b6a60372b535bf96f556b31e2243dc8ee75a/) |
 | ❌ | 2024/08/11 | 10-52 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) |
 | ❌ | 2024/08/05 | 9-52 | [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) |
 | ❌ | 2024/07/27 | 13-18 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) |

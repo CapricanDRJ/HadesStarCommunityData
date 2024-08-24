@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Дом Датэ
-description: W:25 L:20 D:0 Bonus ❌
-date: 1723765325
+description: W:25 L:22 D:0 Bonus ❌
+date: 1724498888
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1310 🔺  (113)|
-| ELO Competitive | 1381 🔺  (110)|
-| Total Matches | 45 |
+| ELO Regular | 1279 🔻  (164)|
+| ELO Competitive | 1367 🔻  (130)|
+| Total Matches | 47 |
 | Wins | 25 |
-| Losses | 20 |
+| Losses | 22 |
 | Draws | 0 |
 | Streak Record | 5 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723333325,1723330921,1722235565,1721654047,1721555475,1721068951,1720969162,1720347337,1719781157,1719777851,1719201482,1719162115,1718537943,1718533736,1717944268,1717932543,1717322660,1717319053,1716722509,1716720406,1715681742,1714294121,1713565529,1712947460,1712437560,1711779804,1711314077,1710831513,1709287681,1708657862,1707073628,1706262835,1705766689,1704642774,1704166458,1703410952,1702924200,1702476090,1701942013,1701721118,1701448224,1700948721,1700174208,1699382772,1698741177];
+        let timestamps = [1724066888,1724066888,1723333325,1723330921,1722235565,1721654047,1721555475,1721068951,1720969162,1720347337,1719781157,1719777851,1719201482,1719162115,1718537943,1718533736,1717944268,1717932543,1717322660,1717319053,1716722509,1716720406,1715681742,1714294121,1713565529,1712947460,1712437560,1711779804,1711314077,1710831513,1709287681,1708657862,1707073628,1706262835,1705766689,1704642774,1704166458,1703410952,1702924200,1702476090,1701942013,1701721118,1701448224,1700948721,1700174208,1699382772,1698741177];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Corvus Ind\.](https://ws.tsl.rocks/corp/f99305aca0eca2f37971c97916647c8edd0258de0d30a3de61941700e7fb2c94/) | 0 | 2 | 0 | 2 |
 | [Spica​](https://ws.tsl.rocks/corp/df96d6d34c4906312183050c8aa7a502678ab2902b7c23112aa9fda827bb4191/) | 3 | 0 | 0 | 3 |
 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) | 1 | 1 | 0 | 2 |
 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 0 | 2 | 0 | 2 |
@@ -125,6 +126,8 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/24 | 20-23 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |
+| ❌ | 2024/08/24 | 9-27 | [Corvus Ind\.](https://ws.tsl.rocks/corp/f99305aca0eca2f37971c97916647c8edd0258de0d30a3de61941700e7fb2c94/) |
 | ✅ | 2024/08/15 | 39-0 | [SternenStaub](https://ws.tsl.rocks/corp/11f1e8a4d522eaef8cb40c95d07b4533097aa6509ddafd1d7efc1449e8b10f38/) |
 | ❌ | 2024/08/15 | 6-17 | [Famous Assasins](https://ws.tsl.rocks/corp/8a3aea3b3dacfd3dcdb402e896204557e250b07b8a5e04b5814600c66cc1a25b/) |
 | ❌ | 2024/08/03 | 19-21 | [Duchy Arrakis](https://ws.tsl.rocks/corp/6c8c526b366a9e9eb3eba3d3107b628042c005db03530961b24a722cc58a339e/) |

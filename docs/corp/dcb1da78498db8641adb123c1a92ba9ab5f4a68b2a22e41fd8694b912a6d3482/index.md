@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​电磁脉冲集团
-description: W:2 L:1 D:0 Bonus ✅
+description: W:2 L:1 D:0 Bonus ❌
 date: 1723979587
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1211 🔻  (399)|
-| ELO Competitive | 1230 🔺  (386)|
+| ELO Regular | 1211 🔻  (400)|
+| ELO Competitive | 1230 🔺  (385)|
 | Total Matches | 3 |
 | Wins | 2 |
 | Losses | 1 |

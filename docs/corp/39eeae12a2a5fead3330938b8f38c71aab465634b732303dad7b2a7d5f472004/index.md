@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​Север РусКорп
-description: W:18 L:10 D:0 Bonus ✅
-date: 1724027973
+description: W:19 L:10 D:0 Bonus ✅
+date: 1724494981
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1292 🔺  (140)|
-| ELO Competitive | 1375 🔺  (119)|
-| Total Matches | 28 |
-| Wins | 18 |
+| ELO Regular | 1302 🔺  (124)|
+| ELO Competitive | 1384 🔺  (105)|
+| Total Matches | 29 |
+| Wins | 19 |
 | Losses | 10 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 5 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723595973,1722780986,1722780385,1722252391,1721632710,1721596054,1721073761,1721071356,1720435690,1720404141,1719782660,1719776949,1719043095,1718404217,1716672328,1716084346,1715470523,1714885846,1714083206,1713558018,1712984116,1712337797,1711788819,1711313476,1710689693,1710191216,1709611546,1708931910];
+        let timestamps = [1724062981,1723595973,1722780986,1722780385,1722252391,1721632710,1721596054,1721073761,1721071356,1720435690,1720404141,1719782660,1719776949,1719043095,1718404217,1716672328,1716084346,1715470523,1714885846,1714083206,1713558018,1712984116,1712337797,1711788819,1711313476,1710689693,1710191216,1709611546,1708931910];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/24 | 3-0 | [超新星联盟](https://ws.tsl.rocks/corp/c3667794c88fd0a09f565dc3b4fed5325f131a616d01d0f6890755b44997d0a1/) |
 | ✅ | 2024/08/19 | 23-6 | [Shrimp City](https://ws.tsl.rocks/corp/eae9b3a1f9dd6b4a1fb39d6aedfe84a80662abe6b181bedcfd7ec15d931b8e84/) |
 | ❌ | 2024/08/09 | 2-6 | [Ws Polaris](https://ws.tsl.rocks/corp/aed0edd750f895de01d5a257db42bba7b2098421901f1cf0352b992242d967d9/) |
 | ✅ | 2024/08/09 | 28-0 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
