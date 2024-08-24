@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​BRASIL ACADEMY
-description: W:3 L:3 D:0 Bonus ✅
-date: 1723918662
+description: W:3 L:4 D:0 Bonus ✅
+date: 1724528043
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1196 🔺  (495)|
-| ELO Competitive | 1209 🔺  (511)|
-| Total Matches | 6 |
+| ELO Regular | 1183 🔻  (759)|
+| ELO Competitive | 1196 🔻  (596)|
+| Total Matches | 7 |
 | Wins | 3 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723486662,1722971214,1722532765,1714342505,1711929151,1703966919];
+        let timestamps = [1724096043,1723486662,1722971214,1722532765,1714342505,1711929151,1703966919];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/24 | 7-14 | [Eretria ](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |
 | ✅ | 2024/08/17 | 6-0 | [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) |
 | ❌ | 2024/08/11 | 0-14 | [Warriorlords](https://ws.tsl.rocks/corp/a78c29b9e1c9f793205ba10d796dcabc114ef43d86f0bd34a43a56dc6da768aa/) |
 | ❌ | 2024/08/06 | 3-6 | [Saiyan Empire](https://ws.tsl.rocks/corp/6ce5e1ac078a6c9bcc97cd02556b9015bc614c88ed6a48e3681697c0beb4c164/) |

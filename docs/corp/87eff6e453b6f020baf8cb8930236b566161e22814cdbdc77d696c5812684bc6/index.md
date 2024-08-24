@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Space Pirates
-description: W:6 L:33 D:0 Bonus ✅
+description: W:6 L:33 D:0 Bonus ❌
 date: 1723912576
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
