@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​绛紫星
-description: W:26 L:18 D:2 Bonus ❌
-date: 1723862988
+description: W:26 L:20 D:2 Bonus ❌
+date: 1724473047
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1256 🔻  (206)|
-| ELO Competitive | 1394 🔻  (93)|
-| Total Matches | 46 |
+| ELO Regular | 1234 🔻  (269)|
+| ELO Competitive | 1385 🔻  (102)|
+| Total Matches | 48 |
 | Wins | 26 |
-| Losses | 18 |
+| Losses | 20 |
 | Draws | 2 |
 | Streak Record | 5 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723430988,1723129576,1722935449,1722338936,1721646533,1721043997,1720362066,1719681085,1718251096,1718250796,1717389990,1717339196,1716903423,1716892202,1715702776,1714576269,1714567555,1713967225,1712329082,1712329082,1709306995,1709305110,1708863099,1708860694,1708418070,1708417769,1707920144,1707919843,1707211668,1707190334,1706683863,1706676952,1706236693,1705586376,1705150637,1704186588,1703306669,1702715320,1702167730,1701733142,1701272109,1700807753,1700357541,1699890728,1699456688,1699020962];
+        let timestamps = [1724041047,1724041047,1723430988,1723129576,1722935449,1722338936,1721646533,1721043997,1720362066,1719681085,1718251096,1718250796,1717389990,1717339196,1716903423,1716892202,1715702776,1714576269,1714567555,1713967225,1712329082,1712329082,1709306995,1709305110,1708863099,1708860694,1708418070,1708417769,1707920144,1707919843,1707211668,1707190334,1706683863,1706676952,1706236693,1705586376,1705150637,1704186588,1703306669,1702715320,1702167730,1701733142,1701272109,1700807753,1700357541,1699890728,1699456688,1699020962];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) | 0 | 2 | 0 | 2 |
 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) | 1 | 0 | 1 | 2 |
 | [Bunker](https://ws.tsl.rocks/corp/583eeb4aaa577ce5d9806fc637f83d7c02b2a29fa2d47eb38fd658be8ef93588/) | 1 | 1 | 0 | 2 |
 | [\(\_\(\_Vossk\_\)\_\)](https://ws.tsl.rocks/corp/6db23201f00670abe532f02a8fc28e109f95d673ef31ca1df7362c0a6c45dd2f/) | 2 | 0 | 0 | 2 |
@@ -125,6 +126,8 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/24 | 0-32 | [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1/) |
+| ❌ | 2024/08/24 | 11-20 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ❌ | 2024/08/17 | 12-22 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) |
 | ❌ | 2024/08/13 | 5-15 | [Crimson Dawn](https://ws.tsl.rocks/corp/d01a872035141501ad24bc84e5496d239d31d121774482b777bd8f2e03726d44/) |
 | ✅ | 2024/08/11 | 7-4 | [Ark](https://ws.tsl.rocks/corp/febd79d038ed9af667e201309060d9662ba825ba9be2b5b95418ac20a8e70c80/) |
