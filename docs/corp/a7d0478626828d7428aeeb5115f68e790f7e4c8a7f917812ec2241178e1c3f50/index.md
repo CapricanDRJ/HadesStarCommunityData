@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Альянс
-description: W:26 L:9 D:0 Bonus ✅
+description: W:26 L:9 D:0 Bonus ❌
 date: 1723904160
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1337 🔺  (83)|
-| ELO Competitive | 1374 🔺  (119)|
+| ELO Regular | 1337 🔺  (84)|
+| ELO Competitive | 1374 🔺  (121)|
 | Total Matches | 35 |
 | Wins | 26 |
 | Losses | 9 |

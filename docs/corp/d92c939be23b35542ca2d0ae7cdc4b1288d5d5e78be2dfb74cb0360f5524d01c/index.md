@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​青鸾殿
-description: W:3 L:3 D:0 Bonus ✅
+description: W:3 L:3 D:0 Bonus ❌
 date: 1723901754
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
