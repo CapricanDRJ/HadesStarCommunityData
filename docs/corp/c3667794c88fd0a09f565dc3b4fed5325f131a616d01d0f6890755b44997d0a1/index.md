@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​超新星联盟
-description: W:7 L:9 D:1 Bonus ✅
+description: W:7 L:9 D:1 Bonus ❌
 date: 1723947435
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​R-6 satalite
-description: W:29 L:11 D:1 Bonus ✅
+description: W:29 L:11 D:1 Bonus ❌
 date: 1723868096
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1348 🔺  (73)|
-| ELO Competitive | 1390 🔺  (93)|
+| ELO Competitive | 1390 🔺  (94)|
 | Total Matches | 41 |
 | Wins | 29 |
 | Losses | 11 |

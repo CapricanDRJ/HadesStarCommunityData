@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​Wompwompway 
-description: W:27 L:8 D:0 Bonus ✅
+description: W:27 L:8 D:0 Bonus ❌
 date: 1723872604
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1366 🔺  (59)|
+| ELO Regular | 1366 🔺  (60)|
 | ELO Competitive | 1401 🔺  (87)|
 | Total Matches | 35 |
 | Wins | 27 |

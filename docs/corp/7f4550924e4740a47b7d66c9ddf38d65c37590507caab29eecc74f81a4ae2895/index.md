@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​DeutschlandGmbH
-description: W:3 L:4 D:0 Bonus ✅
+description: W:3 L:4 D:0 Bonus ❌
 date: 1723868697
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

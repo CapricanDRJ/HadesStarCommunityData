@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​GDZ
-description: W:33 L:29 D:0 Bonus ✅
+description: W:33 L:29 D:0 Bonus ❌
 date: 1723872604
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1219 🔺  (322)|
-| ELO Competitive | 1308 🔺  (207)|
+| ELO Regular | 1219 🔺  (323)|
+| ELO Competitive | 1308 🔺  (206)|
 | Total Matches | 62 |
 | Wins | 33 |
 | Losses | 29 |
