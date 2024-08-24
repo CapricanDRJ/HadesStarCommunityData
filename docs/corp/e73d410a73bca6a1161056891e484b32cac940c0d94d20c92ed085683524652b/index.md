@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Polish Pirates
-description: W:14 L:12 D:0 Bonus ❌
-date: 1721381321
+description: W:15 L:12 D:0 Bonus ✅
+date: 1724506401
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1245 🔻  (232)|
-| ELO Competitive | 1274 🔻  (268)|
-| Total Matches | 26 |
-| Wins | 14 |
+| ELO Regular | 1254 🔺  (214)|
+| ELO Competitive | 1291 🔺  (231)|
+| Total Matches | 27 |
+| Wins | 15 |
 | Losses | 12 |
 | Draws | 0 |
 | Streak Record | 5 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1720949321,1719217104,1717934046,1717347315,1716733030,1715524607,1714134877,1713165613,1712510578,1712051741,1711295743,1710148544,1709520862,1708277742,1707651491,1707510414,1707124709,1705267247,1702878516,1702206498,1702198984,1701165713,1700639146,1700083143,1699496055,1698831647];
+        let timestamps = [1724074401,1720949321,1719217104,1717934046,1717347315,1716733030,1715524607,1714134877,1713165613,1712510578,1712051741,1711295743,1710148544,1709520862,1708277742,1707651491,1707510414,1707124709,1705267247,1702878516,1702206498,1702198984,1701165713,1700639146,1700083143,1699496055,1698831647];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) | 2 | 0 | 0 | 2 |
 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) | 1 | 1 | 0 | 2 |
 | [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 1 | 1 | 0 | 2 |
 | [DTC](https://ws.tsl.rocks/corp/4be10b4fa74e6bc45ea50d720527bec8db0312f419a419f203b09350d663c755/) | 2 | 0 | 0 | 2 |
@@ -125,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/24 | 32-9 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) |
 | ❌ | 2024/07/19 | 4-44 | [Ark Summit](https://ws.tsl.rocks/corp/5940b759f3f833f4c6b35733e1f642a64d5589c1c692e34d030383be08e95e02/) |
 | ❌ | 2024/06/29 | 13-23 | [Space Penguins](https://ws.tsl.rocks/corp/6255ba7dab1bd2b150825874d1fea70b029dc79434f293d47518c27b0376e286/) |
 | ✅ | 2024/06/14 | 53-0 | [KARI](https://ws.tsl.rocks/corp/4434276aa1aebbe4c0a69ac51dff9c243c5287d00096e12c87e8590318a2ab65/) |

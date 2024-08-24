@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Forces of Light
-description: W:9 L:4 D:1 Bonus ❌
-date: 1723743387
+description: W:10 L:4 D:1 Bonus ✅
+date: 1724511812
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1267 🔺  (181)|
-| ELO Competitive | 1276 🔺  (265)|
-| Total Matches | 14 |
-| Wins | 9 |
+| ELO Regular | 1274 🔺  (168)|
+| ELO Competitive | 1283 🔺  (246)|
+| Total Matches | 15 |
+| Wins | 10 |
 | Losses | 4 |
 | Draws | 1 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 4 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723311387,1722271629,1721344524,1720496700,1715064613,1713390461,1712737435,1711843083,1710166573,1709269352,1708306889,1707449714,1706477112,1705294588];
+        let timestamps = [1724079812,1723311387,1722271629,1721344524,1720496700,1715064613,1713390461,1712737435,1711843083,1710166573,1709269352,1708306889,1707449714,1706477112,1705294588];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched.
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/24 | 19-0 | [水晶星际集团](https://ws.tsl.rocks/corp/6390d7a4666ac4537ef5eacf76dd1c2f34548cc588aac8dad423c308ad1c0f3d/) |
 | ✅ | 2024/08/15 | 20-3 | [Jalisco México](https://ws.tsl.rocks/corp/495236ab2171ccbcdad0da5529f080405b1ddd081eda98c7255a8cffe5b114e4/) |
 | ✅ | 2024/08/03 | 6-3 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
 | ❌ | 2024/07/23 | 3-20 | [Últimafronteira](https://ws.tsl.rocks/corp/27e96f432a078f197bb5e4c34480ccabc05a9ee48e7bb04d95288fda15e94d3c/) |
