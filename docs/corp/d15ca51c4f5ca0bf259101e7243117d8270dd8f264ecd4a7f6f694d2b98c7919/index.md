@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​WSC(no DISCORD)
-description: W:23 L:18 D:4 Bonus ✅
+description: W:23 L:18 D:4 Bonus ❌
 date: 1724489272
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1256 🔻  (207)|
-| ELO Competitive | 1379 🔻  (115)|
+| ELO Competitive | 1379 🔻  (116)|
 | Total Matches | 45 |
 | Wins | 23 |
 | Losses | 18 |

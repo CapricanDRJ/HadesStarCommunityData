@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​OntarioDawn
-description: W:38 L:4 D:0 Bonus ✅
+description: W:38 L:4 D:0 Bonus ❌
 date: 1724516021
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
