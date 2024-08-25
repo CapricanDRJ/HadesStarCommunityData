@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​BlackStar Order
-description: W:49 L:34 D:0 Bonus ✅
+description: W:49 L:34 D:0 Bonus ❌
 date: 1724510910
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
