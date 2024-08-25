@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​GalaxyNova
-description: W:8 L:2 D:0 Bonus ✅
+description: W:8 L:2 D:0 Bonus ❌
 date: 1723925200
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
