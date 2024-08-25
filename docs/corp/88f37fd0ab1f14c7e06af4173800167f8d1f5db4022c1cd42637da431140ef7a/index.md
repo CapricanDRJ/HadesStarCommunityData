@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​TeddisaurusWrex
-description: W:37 L:8 D:0 Bonus ❌
-date: 1723949301
+description: W:38 L:8 D:0 Bonus ✅
+date: 1724579122
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1379 🔺  (51)|
-| ELO Competitive | 1435 🔺  (69)|
-| Total Matches | 45 |
-| Wins | 37 |
+| ELO Regular | 1389 🔺  (48)|
+| ELO Competitive | 1452 🔺  (51)|
+| Total Matches | 46 |
+| Wins | 38 |
 | Losses | 8 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 18 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723517301,1723021093,1722405650,1721542252,1720897630,1720025774,1719533540,1718590836,1717920521,1717340399,1716834007,1716253502,1715786299,1715113291,1714459686,1713669485,1713196564,1712444771,1712282511,1711908416,1711716400,1711177944,1711172235,1710569791,1710505789,1709990492,1709975166,1709437325,1709435824,1708905473,1708903370,1708321911,1708319507,1707695971,1707053490,1706428118,1705809364,1705258530,1704615723,1704042951,1703566320,1702962966,1702325221,1701746062,1700968856];
+        let timestamps = [1724147122,1723517301,1723021093,1722405650,1721542252,1720897630,1720025774,1719533540,1718590836,1717920521,1717340399,1716834007,1716253502,1715786299,1715113291,1714459686,1713669485,1713196564,1712444771,1712282511,1711908416,1711716400,1711177944,1711172235,1710569791,1710505789,1709990492,1709975166,1709437325,1709435824,1708905473,1708903370,1708321911,1708319507,1707695971,1707053490,1706428118,1705809364,1705258530,1704615723,1704042951,1703566320,1702962966,1702325221,1701746062,1700968856];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) | 2 | 0 | 0 | 2 |
 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) | 2 | 0 | 0 | 2 |
 | [德意志第三帝国阿尔法分部](https://ws.tsl.rocks/corp/83f745abaa8bed335f0cba2f66fdbafa4b226d40d8ad145db66795d7c051fb60/) | 2 | 0 | 0 | 2 |
 
@@ -125,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/25 | 12-1 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |
 | ✅ | 2024/08/18 | 23-0 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
 | ✅ | 2024/08/12 | 21-1 | [RedStar Raiding](https://ws.tsl.rocks/corp/83a1c4f1576eec7dce037eb5b64b2455ca3affb9d3072108c5d4d3eba88b4570/) |
 | ❌ | 2024/08/05 | 3-25 | [\*Alfa y Omega\*](https://ws.tsl.rocks/corp/b1da3a2265efd2266a8e4b5698a731ae179d00e431ee748d7bee62a1357a12ed/) |

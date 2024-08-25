@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​德意志联邦集团
-description: W:0 L:3 D:3 Bonus ❌
-date: 1720667844
+description: W:0 L:4 D:3 Bonus ❌
+date: 1724560193
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1154 🔻  (1002)|
-| ELO Competitive | 1159 🔻  (1056)|
-| Total Matches | 6 |
+| ELO Regular | 1141 🔻  (1049)|
+| ELO Competitive | 1145 🔻  (1110)|
+| Total Matches | 7 |
 | Wins | 0 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 3 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1720235844,1719745689,1719096881,1718460904,1707112686,1706522094];
+        let timestamps = [1724128193,1720235844,1719745689,1719096881,1718460904,1707112686,1706522094];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/25 | 0-13 | [WHITE NOVA](https://ws.tsl.rocks/corp/0a44ab86ca49a02fb932607f1095f0b5411c556bb9bb95aa1f20908be0b45d51/) |
 | ❌ | 2024/07/11 | 0-7 | [星光舰队](https://ws.tsl.rocks/corp/e48d364ccf6d36f1f00db66d6bbae7b5d5aee09d90aeee03264b3a6cede3252c/) |
 | ❌ | 2024/07/05 | 1-7 | [koalition](https://ws.tsl.rocks/corp/68d721684ab83df28cba0a58c608e5dd3c58df79369abffa67da4e8956ef2695/) |
 | ↔️ | 2024/06/27 | 0-0 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |

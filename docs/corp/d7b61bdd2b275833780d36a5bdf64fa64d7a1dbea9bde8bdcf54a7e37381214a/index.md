@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Cydonia
-description: W:0 L:0 D:1 Bonus ❌
-date: 1724386185
+description: W:0 L:1 D:1 Bonus ❌
+date: 1724605872
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1204 🔺  (425)|
-| ELO Competitive | 1206 🔺  (521)|
-| Total Matches | 1 |
+| ELO Regular | 1194 🔻  (498)|
+| ELO Competitive | 1206 🔺  (523)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 1 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723954185];
+        let timestamps = [1724173872,1723954185];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/25 | 0-15 | [lesescargots](https://ws.tsl.rocks/corp/718c873931e9097064fd6ef580fe9d8761be712e0783e0b97d28344abd910623/) |
 | ↔️ | 2024/08/23 | 4-4 | [\*Alfa y Omega\*](https://ws.tsl.rocks/corp/b1da3a2265efd2266a8e4b5698a731ae179d00e431ee748d7bee62a1357a12ed/) |
 
 Corporation ID: d7b61bdd2b275833780d36a5bdf64fa64d7a1dbea9bde8bdcf54a7e37381214a

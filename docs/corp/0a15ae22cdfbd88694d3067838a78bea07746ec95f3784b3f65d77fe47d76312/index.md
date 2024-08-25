@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​GhostNakcoorp
-description: W:24 L:19 D:0 Bonus ✅
-date: 1724326646
+description: W:24 L:20 D:0 Bonus ✅
+date: 1724604971
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1199 🔻  (476)|
-| ELO Competitive | 1240 🔺  (348)|
-| Total Matches | 43 |
+| ELO Regular | 1193 🔻  (501)|
+| ELO Competitive | 1236 🔻  (361)|
+| Total Matches | 44 |
 | Wins | 24 |
-| Losses | 19 |
+| Losses | 20 |
 | Draws | 0 |
 | Streak Record | 6 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723894646,1723614302,1723065273,1722376807,1721836160,1721313871,1720730825,1720148398,1719340314,1718660862,1718076198,1717449207,1716915753,1716296160,1715616848,1714393274,1713910145,1713320663,1712883163,1712400595,1711931855,1711101922,1710361277,1709859185,1708937318,1708498674,1708058073,1707611227,1707188231,1707178016,1706745771,1706027840,1705364608,1704682745,1704231974,1703640853,1702986440,1701634264,1700884096,1700448609,1700015756,1699489146,1699051037];
+        let timestamps = [1724172971,1723894646,1723614302,1723065273,1722376807,1721836160,1721313871,1720730825,1720148398,1719340314,1718660862,1718076198,1717449207,1716915753,1716296160,1715616848,1714393274,1713910145,1713320663,1712883163,1712400595,1711931855,1711101922,1710361277,1709859185,1708937318,1708498674,1708058073,1707611227,1707188231,1707178016,1706745771,1706027840,1705364608,1704682745,1704231974,1703640853,1702986440,1701634264,1700884096,1700448609,1700015756,1699489146,1699051037];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,12 +117,14 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) | 0 | 2 | 0 | 2 |
 | [太阳系联邦](https://ws.tsl.rocks/corp/1511bcf209c9d65c3db8fce158834ee0365899e8a765df9554b7606eb92b1df1/) | 2 | 0 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/25 | 11-20 | [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) |
 | ❌ | 2024/08/22 | 3-7 | [StellaMysterium](https://ws.tsl.rocks/corp/cfaaa81ed93cc9361ade470c3414c73ecf77068badd68d624c7b3f486d142b10/) |
 | ✅ | 2024/08/19 | 31-0 | [Free Thinkers 2](https://ws.tsl.rocks/corp/9fc879b45c4053ac93d6eebdb14d856a828df8fd85800df616cdd3332683a695/) |
 | ❌ | 2024/08/12 | 6-35 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) |

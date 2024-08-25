@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Shrimp City
-description: W:20 L:11 D:1 Bonus ❌
-date: 1724027973
+description: W:20 L:12 D:1 Bonus ❌
+date: 1724547574
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1293 🔻  (140)|
-| ELO Competitive | 1315 🔻  (194)|
-| Total Matches | 32 |
+| ELO Regular | 1274 🔻  (166)|
+| ELO Competitive | 1296 🔻  (222)|
+| Total Matches | 33 |
 | Wins | 20 |
-| Losses | 11 |
+| Losses | 12 |
 | Draws | 1 |
 | Streak Record | 11 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723595973,1723135586,1722493396,1722030589,1721575013,1721138876,1720639754,1720182052,1719740881,1719270672,1719214100,1718766336,1718309099,1717856809,1717411025,1716973746,1716528997,1716095762,1715651701,1715208230,1714763919,1714314555,1713850953,1713406301,1712961282,1712523503,1712087203,1711627753,1704976641,1704492516,1701486394,1701017248];
+        let timestamps = [1724115574,1723595973,1723135586,1722493396,1722030589,1721575013,1721138876,1720639754,1720182052,1719740881,1719270672,1719214100,1718766336,1718309099,1717856809,1717411025,1716973746,1716528997,1716095762,1715651701,1715208230,1714763919,1714314555,1713850953,1713406301,1712961282,1712523503,1712087203,1711627753,1704976641,1704492516,1701486394,1701017248];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/25 | 0-18 | [对，进就进人少的（分团）](https://ws.tsl.rocks/corp/69a860d3020745a9088fa70fa7ebc4caaa8a6181832961bcd607fbfa627203f3/) |
 | ❌ | 2024/08/19 | 6-23 | [Север РусКорп](https://ws.tsl.rocks/corp/39eeae12a2a5fead3330938b8f38c71aab465634b732303dad7b2a7d5f472004/) |
 | ✅ | 2024/08/13 | 14-10 | [●Black•Sails●](https://ws.tsl.rocks/corp/fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31/) |
 | ✅ | 2024/08/06 | 16-3 | [佛矿寺](https://ws.tsl.rocks/corp/64f8afd95b7004e9d5a442da55644ee3ce64a9a8e82345c458d757b527e40624/) |

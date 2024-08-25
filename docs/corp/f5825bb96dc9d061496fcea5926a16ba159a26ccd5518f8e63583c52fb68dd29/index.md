@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Red_Coat_Mafia
-description: W:13 L:22 D:1 Bonus ❌
-date: 1723589224
+description: W:14 L:22 D:1 Bonus ✅
+date: 1724604370
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔻  (987)|
-| ELO Competitive | 1289 🔻  (236)|
-| Total Matches | 36 |
-| Wins | 13 |
+| ELO Regular | 1176 🔺  (803)|
+| ELO Competitive | 1306 🔺  (207)|
+| Total Matches | 37 |
+| Wins | 14 |
 | Losses | 22 |
 | Draws | 1 |
 | Streak Record | 3 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723157224,1722640646,1722361779,1721769452,1721020857,1720586557,1720194978,1719794077,1719189466,1718947833,1718300983,1718121274,1717193120,1717003502,1716308482,1716237280,1715775480,1715717501,1715183291,1715096462,1714432648,1714410407,1713980748,1713971432,1713461585,1713415013,1712768085,1712765079,1712255168,1712253666,1711780105,1711645183,1711314377,1711069177,1710632600,1710620581];
+        let timestamps = [1724172370,1723157224,1722640646,1722361779,1721769452,1721020857,1720586557,1720194978,1719794077,1719189466,1718947833,1718300983,1718121274,1717193120,1717003502,1716308482,1716237280,1715775480,1715717501,1715183291,1715096462,1714432648,1714410407,1713980748,1713971432,1713461585,1713415013,1712768085,1712765079,1712255168,1712253666,1711780105,1711645183,1711314377,1711069177,1710632600,1710620581];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/25 | 18-3 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ❌ | 2024/08/13 | 2-27 | [元素联邦](https://ws.tsl.rocks/corp/e9d602d617d5c81270107c15a6d1f1717c5016abad802d3629f7f4301a58e95e/) |
 | ❌ | 2024/08/07 | 7-24 | [Bunker](https://ws.tsl.rocks/corp/583eeb4aaa577ce5d9806fc637f83d7c02b2a29fa2d47eb38fd658be8ef93588/) |
 | ❌ | 2024/08/04 | 2-21 | [Killers from Ua](https://ws.tsl.rocks/corp/d9422068c043dbd30acc89fc13d0ba7b276a3f27a85ec53595b93b9b561d7fd6/) |

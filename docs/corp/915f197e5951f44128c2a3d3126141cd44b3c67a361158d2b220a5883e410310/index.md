@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Торг. федерация
-description: W:6 L:12 D:0 Bonus ❌
-date: 1724094385
+description: W:6 L:13 D:0 Bonus ❌
+date: 1724542577
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1139 🔻  (1052)|
-| ELO Competitive | 1170 🔻  (997)|
-| Total Matches | 18 |
+| ELO Regular | 1136 🔻  (1071)|
+| ELO Competitive | 1167 🔻  (1014)|
+| Total Matches | 19 |
 | Wins | 6 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 0 |
 | Streak Record | 3 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723662385,1723226941,1722748526,1722289960,1721853594,1721419349,1714625242,1714163126,1713712751,1713277694,1712819160,1712358531,1702632672,1702295160,1702027966,1699943023,1699216905,1698687065];
+        let timestamps = [1724110577,1723662385,1723226941,1722748526,1722289960,1721853594,1721419349,1714625242,1714163126,1713712751,1713277694,1712819160,1712358531,1702632672,1702295160,1702027966,1699943023,1699216905,1698687065];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/24 | 6-21 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) |
 | ❌ | 2024/08/19 | 25-30 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) |
 | ❌ | 2024/08/14 | 23-25 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) |
 | ❌ | 2024/08/09 | 7-36 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |

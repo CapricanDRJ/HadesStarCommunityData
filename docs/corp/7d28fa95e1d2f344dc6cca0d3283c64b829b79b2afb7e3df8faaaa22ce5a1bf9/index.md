@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​Hand Of NOD! 
-description: W:34 L:5 D:0 Bonus ❌
-date: 1723960657
+description: W:35 L:5 D:0 Bonus ✅
+date: 1724565601
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1461 🔺  (17)|
-| ELO Competitive | 1508 🔺  (29)|
-| Total Matches | 39 |
-| Wins | 34 |
+| ELO Regular | 1467 🔺  (16)|
+| ELO Competitive | 1514 🔺  (24)|
+| Total Matches | 40 |
+| Wins | 35 |
 | Losses | 5 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 15 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723528657,1722935749,1722325114,1721770053,1721126050,1720512025,1720040505,1719292231,1718689403,1718085813,1717534862,1716875477,1716274831,1715675133,1715058905,1714461188,1713862669,1713255457,1712656609,1712034617,1711431253,1710838723,1710225163,1709635937,1709015746,1708428285,1707820976,1707211367,1706606628,1706005600,1705390146,1704782513,1704092226,1703580141,1702966872,1702363386,1701767395,1701150088,1700557099];
+        let timestamps = [1724133601,1723528657,1722935749,1722325114,1721770053,1721126050,1720512025,1720040505,1719292231,1718689403,1718085813,1717534862,1716875477,1716274831,1715675133,1715058905,1714461188,1713862669,1713255457,1712656609,1712034617,1711431253,1710838723,1710225163,1709635937,1709015746,1708428285,1707820976,1707211367,1706606628,1706005600,1705390146,1704782513,1704092226,1703580141,1702966872,1702363386,1701767395,1701150088,1700557099];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/25 | 41-11 | [The trade pub](https://ws.tsl.rocks/corp/43689e4266357d8b8d3d66d371109d9aed82ee6df47dc6fa0a7c5da735b9863b/) |
 | ✅ | 2024/08/18 | 45-26 | [Providence](https://ws.tsl.rocks/corp/f12fc39ca2326de7c5ce96c005b1953c86430443f1f8b98e7515d082b43b4d4b/) |
 | ❌ | 2024/08/11 | 9-27 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | ✅ | 2024/08/04 | 14-7 | [Crazy Elite](https://ws.tsl.rocks/corp/ef64e9014b773074470ead0907b9c122bf6bda753de1cddfa01e95a00e9d47dc/) |

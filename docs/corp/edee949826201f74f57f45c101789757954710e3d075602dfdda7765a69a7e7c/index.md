@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​P!RAT£ SHIP
-description: W:10 L:6 D:1 Bonus ✅
-date: 1724038489
+description: W:11 L:6 D:1 Bonus ✅
+date: 1724544269
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1260 🔺  (196)|
-| ELO Competitive | 1267 🔺  (287)|
-| Total Matches | 17 |
-| Wins | 10 |
+| ELO Regular | 1275 🔺  (165)|
+| ELO Competitive | 1283 🔺  (246)|
+| Total Matches | 18 |
+| Wins | 11 |
 | Losses | 6 |
 | Draws | 1 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 3 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723606489,1722361478,1721170838,1720359961,1719850268,1714335894,1713722968,1713045120,1710457723,1708084814,1705156347,1704313412,1702820511,1702315601,1701825409,1701790838,1700839611];
+        let timestamps = [1724112269,1723606489,1722361478,1721170838,1720359961,1719850268,1714335894,1713722968,1713045120,1710457723,1708084814,1705156347,1704313412,1702820511,1702315601,1701825409,1701790838,1700839611];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/25 | 14-8 | [koalition](https://ws.tsl.rocks/corp/68d721684ab83df28cba0a58c608e5dd3c58df79369abffa67da4e8956ef2695/) |
 | ✅ | 2024/08/19 | 21-11 | [华夏三体舰队](https://ws.tsl.rocks/corp/a457b1d7612cdff92b655d33cf4ffd72b38aa796525cf0432423cfd0d01c6cf9/) |
 | ✅ | 2024/08/04 | 8-6 | [  边界  ](https://ws.tsl.rocks/corp/86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a/) |
 | ❌ | 2024/07/21 | 0-21 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
