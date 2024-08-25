@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​MÉXICO INFINITO
-description: W:18 L:23 D:0 Bonus ✅
+description: W:18 L:23 D:0 Bonus ❌
 date: 1723943529
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
@@ -19,7 +19,7 @@ date: 1723943529
 
 # Whitestar Match Day
 
-This chart shows the frequency of days of the week when whitestars were matched.
+This chart shows the frequency of days of the week when whitestars were matched in your local timezone
 
 <!-- Load Chart.js from jsDelivr CDN -->
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.0.1"></script>

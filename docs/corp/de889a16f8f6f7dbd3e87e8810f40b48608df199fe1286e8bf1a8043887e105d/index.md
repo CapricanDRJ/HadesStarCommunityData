@@ -18,7 +18,7 @@ date: 1704617086
 
 # Whitestar Match Day
 
-This chart shows the frequency of days of the week when whitestars were matched.
+This chart shows the frequency of days of the week when whitestars were matched in your local timezone
 
 <!-- Load Chart.js from jsDelivr CDN -->
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.0.1"></script>
