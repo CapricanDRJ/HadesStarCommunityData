@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Galactic Empire
-description: W:21 L:13 D:0 Bonus ❌
-date: 1722996015
+description: W:21 L:14 D:0 Bonus ❌
+date: 1724615791
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1283 🔻  (155)|
-| ELO Competitive | 1354 🔻  (138)|
-| Total Matches | 34 |
+| ELO Regular | 1263 🔻  (188)|
+| ELO Competitive | 1340 🔻  (160)|
+| Total Matches | 35 |
 | Wins | 21 |
-| Losses | 13 |
+| Losses | 14 |
 | Draws | 0 |
 | Streak Record | 8 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722564015,1721150100,1720367477,1719215602,1717623221,1716892202,1716242388,1715460908,1714756047,1714116551,1713124755,1712302640,1711565563,1709542192,1708548487,1707694770,1707067917,1706446451,1705831901,1705186706,1704666821,1704553515,1703851814,1703098707,1702662127,1702415100,1701513248,1700598879,1700208464,1700013353,1699549838,1699432649,1698701803,1698696389];
+        let timestamps = [1724183791,1722564015,1721150100,1720367477,1719215602,1717623221,1716892202,1716242388,1715460908,1714756047,1714116551,1713124755,1712302640,1711565563,1709542192,1708548487,1707694770,1707067917,1706446451,1705831901,1705186706,1704666821,1704553515,1703851814,1703098707,1702662127,1702415100,1701513248,1700598879,1700208464,1700013353,1699549838,1699432649,1698701803,1698696389];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,14 +117,15 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 1 | 2 | 0 | 3 |
 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) | 0 | 2 | 0 | 2 |
-| [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) | 1 | 1 | 0 | 2 |
 | [Galactic Trade](https://ws.tsl.rocks/corp/11f216ded6a66748fec41f81ff0eae46ed3f149e39301e31c7977db9897e7d21/) | 2 | 0 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/25 | 1-29 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
 | ❌ | 2024/08/07 | 7-16 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) |
 | ✅ | 2024/07/21 | 11-5 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ❌ | 2024/07/12 | 0-34 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) |
