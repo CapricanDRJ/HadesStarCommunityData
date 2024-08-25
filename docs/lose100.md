@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Top Lose
+description: Hades' Star corporations ranked by historic total losses
 permalink: /lose100/
 ---
 

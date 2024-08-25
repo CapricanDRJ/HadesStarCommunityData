@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Comp ELO
+description: Hades' Star top competitive Elo ranks
 permalink: /comp100/
 ---
 

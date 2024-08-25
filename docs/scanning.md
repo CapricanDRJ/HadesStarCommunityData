@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Scanning Now Probability
+description: Probability a Hades' Star corporation is scanning now
 permalink: /scanning/
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Relics
+description: Hades' Star top corporations by relics collected since Dark Nebula's release
 permalink: /relics100/
 ---
 
