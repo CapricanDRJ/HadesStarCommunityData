@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Scanning Wed Probability
-permalink: /Wed/
+permalink: /wed/
 ---
 
 | Rank | Corporation Name | Percentage |

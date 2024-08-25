@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Scanning Sat Probability
-permalink: /Sat/
+permalink: /sat/
 ---
 
 | Rank | Corporation Name | Percentage |

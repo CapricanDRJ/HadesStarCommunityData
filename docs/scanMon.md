@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Scanning Mon Probability
-permalink: /Mon/
+permalink: /mon/
 ---
 
 | Rank | Corporation Name | Percentage |

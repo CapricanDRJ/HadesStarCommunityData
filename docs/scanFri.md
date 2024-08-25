@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Scanning Fri Probability
-permalink: /Fri/
+permalink: /fri/
 ---
 
 | Rank | Corporation Name | Percentage |

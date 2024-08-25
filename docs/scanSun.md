@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Scanning Sun Probability
-permalink: /Sun/
+permalink: /sun/
 ---
 
 | Rank | Corporation Name | Percentage |

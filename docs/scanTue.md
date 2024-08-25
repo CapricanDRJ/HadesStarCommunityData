@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Scanning Tue Probability
-permalink: /Tue/
+permalink: /tue/
 ---
 
 | Rank | Corporation Name | Percentage |

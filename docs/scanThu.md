@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Scanning Thu Probability
-permalink: /Thu/
+permalink: /thu/
 ---
 
 | Rank | Corporation Name | Percentage |
