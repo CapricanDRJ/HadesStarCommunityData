@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​hades star萌新指引站
-description: W:1 L:0 D:0 Bonus ✅
-date: 1724165000
+description: W:1 L:0 D:1 Bonus ✅
+date: 1724638625
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺  (349)|
-| ELO Competitive | 1217 🔺  (436)|
-| Total Matches | 1 |
+| ELO Regular | 1216 🔺  (343)|
+| ELO Competitive | 1219 🔺  (422)|
+| Total Matches | 2 |
 | Wins | 1 |
 | Losses | 0 |
-| Draws | 0 |
+| Draws | 1 |
 
 
 # Whitestar Match Day
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723733000];
+        let timestamps = [1724206625,1723733000];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/08/26 | 6-6 | [荣耀之星](https://ws.tsl.rocks/corp/4334fd4d4ffbc89487deaec7bb38025aba46209b810578436882be271fdbff23/) |
 | ✅ | 2024/08/20 | 13-0 | [游徒之家](https://ws.tsl.rocks/corp/7ab5f6970c8703095b0589da6e5d648dc64a94ca6d901ef09d4949409b2c44b9/) |
 
 Corporation ID: 06feef105195a4e2ec026c0e3e2c62fce31204dfe6be8e4b26863935efbf8a50

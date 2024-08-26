@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​Sich.ua
-description: W:21 L:16 D:2 Bonus ❌
-date: 1724104602
+description: W:22 L:16 D:3 Bonus ✅
+date: 1724638916
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1231 🔻  (279)|
-| ELO Competitive | 1386 🔻  (103)|
-| Total Matches | 39 |
-| Wins | 21 |
+| ELO Regular | 1244 🔻  (238)|
+| ELO Competitive | 1394 🔺  (96)|
+| Total Matches | 41 |
+| Wins | 22 |
 | Losses | 16 |
-| Draws | 2 |
+| Draws | 3 |
 | Streak Record | 5 |
 
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723672602,1723670080,1723188919,1723142198,1722194098,1721633312,1721073761,1720416855,1720408648,1719863794,1719862292,1719273432,1719270672,1718760673,1718748912,1718158428,1718140213,1717668291,1717630432,1717116746,1717107668,1716595994,1716578563,1716007646,1715990757,1715490666,1715468420,1714901469,1714366536,1713738293,1713229318,1712702888,1712119650,1711508474,1710987771,1710448108,1709971861,1706205741,1705727319];
+        let timestamps = [1724206916,1724202419,1723672602,1723670080,1723188919,1723142198,1722194098,1721633312,1721073761,1720416855,1720408648,1719863794,1719862292,1719273432,1719270672,1718760673,1718748912,1718158428,1718140213,1717668291,1717630432,1717116746,1717107668,1716595994,1716578563,1716007646,1715990757,1715490666,1715468420,1714901469,1714366536,1713738293,1713229318,1712702888,1712119650,1711508474,1710987771,1710448108,1709971861,1706205741,1705727319];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/08/26 | 0-0 | [荣耀之星](https://ws.tsl.rocks/corp/4334fd4d4ffbc89487deaec7bb38025aba46209b810578436882be271fdbff23/) |
+| ✅ | 2024/08/26 | 14-2 | [Kingdom Of Meow](https://ws.tsl.rocks/corp/bb7b30afd9a7e5c035d0ba19b9aa388cea55098d375174faf86523618929f856/) |
 | ↔️ | 2024/08/19 | 5-5 | [四季长春](https://ws.tsl.rocks/corp/cf0b11914dc18d8e669592ecfe191f115c4e5fdba09d130d260bb625b36a3179/) |
 | ❌ | 2024/08/19 | 0-6 | [蓝太阳](https://ws.tsl.rocks/corp/3d8bcfd3fe682016f1d82e28b9ad7ed8de9df1c1a81ceb6d63e35844660d2212/) |
 | ❌ | 2024/08/14 | 0-2 | [UFSG](https://ws.tsl.rocks/corp/9c9b98c2bfcf5411f6bc5502ed3163b92c8733b540071e4b70dc0bf8b0701a97/) |
