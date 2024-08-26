@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​GhostNakcoorp
-description: W:24 L:20 D:0 Bonus ✅
+description: W:24 L:20 D:0 Bonus ❌
 date: 1724604971
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

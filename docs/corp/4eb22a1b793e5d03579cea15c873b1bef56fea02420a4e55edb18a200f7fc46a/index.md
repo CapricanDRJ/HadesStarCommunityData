@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​империя тьмы
-description: W:17 L:24 D:2 Bonus ❌
-date: 1724029522
+description: W:17 L:25 D:2 Bonus ❌
+date: 1724659615
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1143 🔺  (1043)|
-| ELO Competitive | 1258 🔺  (309)|
-| Total Matches | 43 |
+| ELO Regular | 1126 🔻  (1094)|
+| ELO Competitive | 1237 🔻  (360)|
+| Total Matches | 44 |
 | Wins | 17 |
-| Losses | 24 |
+| Losses | 25 |
 | Draws | 2 |
-| Streak | 2 |
 | Streak Record | 2 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723597522,1723579448,1723070982,1723061366,1722512928,1722512928,1721994933,1721993923,1721484857,1721480949,1720622455,1720619913,1720082574,1720078067,1719602352,1719601751,1719138374,1719130853,1718642524,1717863724,1717368056,1716818074,1716156159,1715030366,1714176646,1713741297,1713125656,1713124941,1712637982,1712119650,1711644281,1711637369,1711107030,1711077589,1710588122,1710346551,1710142836,1709714677,1709661781,1709237204,1709161903,1708706543,1708273559];
+        let timestamps = [1724227615,1723597522,1723579448,1723070982,1723061366,1722512928,1722512928,1721994933,1721993923,1721484857,1721480949,1720622455,1720619913,1720082574,1720078067,1719602352,1719601751,1719138374,1719130853,1718642524,1717863724,1717368056,1716818074,1716156159,1715030366,1714176646,1713741297,1713125656,1713124941,1712637982,1712119650,1711644281,1711637369,1711107030,1711077589,1710588122,1710346551,1710142836,1709714677,1709661781,1709237204,1709161903,1708706543,1708273559];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -129,6 +128,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/26 | 0-1 | [₩\.BRASIL\.₩](https://ws.tsl.rocks/corp/ff7f01b2f1db7b9c75e49da4c7367325905c020eba282a97f69f33d8c19419aa/) |
 | ✅ | 2024/08/19 | 2-0 | [Nodens Provisio](https://ws.tsl.rocks/corp/fddc11923365fd1df7f756374f94f8fc2aa3fbcfaaaa82b00f5544e4b55a6c5e/) |
 | ✅ | 2024/08/18 | 9-0 | [RedStar Raiding](https://ws.tsl.rocks/corp/83a1c4f1576eec7dce037eb5b64b2455ca3affb9d3072108c5d4d3eba88b4570/) |
 | ❌ | 2024/08/12 | 3-16 | [Pixies](https://ws.tsl.rocks/corp/fe3875cc3bc7cd97ee3d418bb35d69d8ec90da355cbec2dfb7a364387e021240/) |
