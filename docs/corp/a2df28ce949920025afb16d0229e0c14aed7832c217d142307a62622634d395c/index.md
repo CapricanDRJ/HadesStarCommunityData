@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​The Elite
-description: W:12 L:13 D:0 Bonus ❌
-date: 1722347491
+description: W:12 L:14 D:0 Bonus ❌
+date: 1724677169
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (827)|
-| ELO Competitive | 1194 🔻  (607)|
-| Total Matches | 25 |
+| ELO Regular | 1161 🔻  (965)|
+| ELO Competitive | 1180 🔻  (884)|
+| Total Matches | 26 |
 | Wins | 12 |
-| Losses | 13 |
+| Losses | 14 |
 | Draws | 0 |
 | Streak Record | 4 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721915491,1719414836,1717595562,1716466506,1715941326,1715354844,1714040233,1713518369,1712855819,1712065263,1711216110,1710772507,1709918377,1709300301,1708626312,1707992863,1707503803,1706887608,1706359902,1705495323,1704970631,1704454045,1703801333,1703089388,1702123844];
+        let timestamps = [1724245169,1721915491,1719414836,1717595562,1716466506,1715941326,1715354844,1714040233,1713518369,1712855819,1712065263,1711216110,1710772507,1709918377,1709300301,1708626312,1707992863,1707503803,1706887608,1706359902,1705495323,1704970631,1704454045,1703801333,1703089388,1702123844];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/26 | 2-14 | [Pixies](https://ws.tsl.rocks/corp/fe3875cc3bc7cd97ee3d418bb35d69d8ec90da355cbec2dfb7a364387e021240/) |
 | ❌ | 2024/07/30 | 0-4 | [萌新港\(大佬港\)](https://ws.tsl.rocks/corp/e6d9b9da7a037e3572cb594dfeba7b282b66509228c9f4f1b2138f873caa3cf3/) |
 | ✅ | 2024/07/01 | 4-2 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) |
 | ❌ | 2024/06/10 | 1-29 | [Star Destroyers](https://ws.tsl.rocks/corp/32ba20918cd8720602fefb3bc676a6ba5195314479040f70eadc728fbbc2698d/) |

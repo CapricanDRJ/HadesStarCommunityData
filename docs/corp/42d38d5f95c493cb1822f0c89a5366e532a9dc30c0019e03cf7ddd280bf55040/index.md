@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​第四星际
-description: W:27 L:10 D:2 Bonus ❌
-date: 1723811599
+description: W:28 L:10 D:2 Bonus ✅
+date: 1724677087
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1318 🔺  (102)|
-| ELO Competitive | 1436 🔺  (68)|
-| Total Matches | 39 |
-| Wins | 27 |
+| ELO Regular | 1326 🔺  (91)|
+| ELO Competitive | 1443 🔺  (62)|
+| Total Matches | 40 |
+| Wins | 28 |
 | Losses | 10 |
 | Draws | 2 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 7 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723379599,1721896560,1721608673,1721382081,1721135069,1720852844,1720663796,1720250268,1720160117,1719588828,1719068646,1718635910,1718197603,1717713682,1717697450,1717262848,1717234288,1716822283,1716691857,1716290151,1716242688,1715210033,1715187498,1714599408,1714578373,1714127666,1713494334,1713345299,1712809313,1712337797,1711871752,1710077333,1709606496,1708689111,1708049961,1707412755,1706872281,1706120096,1705589382];
+        let timestamps = [1724245087,1723379599,1721896560,1721608673,1721382081,1721135069,1720852844,1720663796,1720250268,1720160117,1719588828,1719068646,1718635910,1718197603,1717713682,1717697450,1717262848,1717234288,1716822283,1716691857,1716290151,1716242688,1715210033,1715187498,1714599408,1714578373,1714127666,1713494334,1713345299,1712809313,1712337797,1711871752,1710077333,1709606496,1708689111,1708049961,1707412755,1706872281,1706120096,1705589382];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/26 | 17-1 | [империя тьмы](https://ws.tsl.rocks/corp/4eb22a1b793e5d03579cea15c873b1bef56fea02420a4e55edb18a200f7fc46a/) |
 | ✅ | 2024/08/16 | 10-4 | [Novana Gaming](https://ws.tsl.rocks/corp/073bc5604115e6eb4df318ba3c7a80d782d26f83d70723c5f15b6453ce690a08/) |
 | ✅ | 2024/07/30 | 5-4 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
 | ❌ | 2024/07/27 | 0-4 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
