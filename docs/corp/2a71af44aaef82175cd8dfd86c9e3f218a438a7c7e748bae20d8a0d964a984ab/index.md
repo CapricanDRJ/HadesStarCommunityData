@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​神圣罗马帝国
-description: W:23 L:46 D:1 Bonus ✅
+description: W:23 L:46 D:1 Bonus ❌
 date: 1724525939
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
