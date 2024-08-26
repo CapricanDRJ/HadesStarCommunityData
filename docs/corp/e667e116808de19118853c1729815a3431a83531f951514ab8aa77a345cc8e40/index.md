@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Highlife
-description: W:19 L:21 D:1 Bonus ❌
-date: 1724090778
+description: W:19 L:22 D:1 Bonus ❌
+date: 1724700532
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1150 🔻  (1017)|
-| ELO Competitive | 1185 🔻  (825)|
-| Total Matches | 41 |
+| ELO Regular | 1139 🔻  (1058)|
+| ELO Competitive | 1176 🔻  (913)|
+| Total Matches | 42 |
 | Wins | 19 |
-| Losses | 21 |
+| Losses | 22 |
 | Draws | 1 |
 | Streak Record | 6 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723658778,1723113947,1722488288,1721883939,1721252276,1720643061,1720047717,1719518816,1718828844,1718316913,1717703764,1717108680,1716585177,1715892661,1715368064,1714896662,1714240042,1713302939,1712699283,1712098021,1710978739,1710546356,1710536441,1709934906,1709338166,1708731486,1708211329,1706922169,1706360804,1705804255,1705287678,1704775302,1703895393,1703462946,1703030787,1702598418,1702163523,1701470768,1700868470,1700235814,1698969283];
+        let timestamps = [1724268532,1723658778,1723113947,1722488288,1721883939,1721252276,1720643061,1720047717,1719518816,1718828844,1718316913,1717703764,1717108680,1716585177,1715892661,1715368064,1714896662,1714240042,1713302939,1712699283,1712098021,1710978739,1710546356,1710536441,1709934906,1709338166,1708731486,1708211329,1706922169,1706360804,1705804255,1705287678,1704775302,1703895393,1703462946,1703030787,1702598418,1702163523,1701470768,1700868470,1700235814,1698969283];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/26 | 10-17 | [Space Marshalls](https://ws.tsl.rocks/corp/6a41cc36abf3a28a1c26bc22843f1892d6938e8eb1e8f8a10fd9e6e964e06c2c/) |
 | ❌ | 2024/08/19 | 16-31 | [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b/) |
 | ❌ | 2024/08/13 | 11-17 | [ProyectCorp](https://ws.tsl.rocks/corp/ac76fbb017abc5511e6d39625245f0cd8f145ef5ba96ae1760d7f2389b5e0fe1/) |
 | ✅ | 2024/08/06 | 27-12 | [Looping](https://ws.tsl.rocks/corp/08524086f45f2e6109e583baf940197663aa3e155c32fcdbb04f319343a5eb0c/) |
