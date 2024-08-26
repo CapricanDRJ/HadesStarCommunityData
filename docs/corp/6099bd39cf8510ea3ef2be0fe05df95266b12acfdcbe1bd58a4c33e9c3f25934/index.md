@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​无聊不过
-description: W:4 L:2 D:1 Bonus ✅
+description: W:4 L:2 D:1 Bonus ❌
 date: 1724027973
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

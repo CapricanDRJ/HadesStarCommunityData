@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​共产国际
-description: W:3 L:0 D:1 Bonus ✅
-date: 1724303533
+description: W:3 L:1 D:1 Bonus ✅
+date: 1724653949
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1244 🔺  (239)|
-| ELO Competitive | 1250 🔺  (324)|
-| Total Matches | 4 |
+| ELO Regular | 1232 🔻  (278)|
+| ELO Competitive | 1239 🔻  (354)|
+| Total Matches | 5 |
 | Wins | 3 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 1 |
-| Streak | 3 |
 | Streak Record | 3 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723871533,1723385612,1722757542,1722307686];
+        let timestamps = [1724221949,1723871533,1723385612,1722757542,1722307686];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/26 | 3-11 | [萌新的收留所](https://ws.tsl.rocks/corp/1dd3f70c959e32c27cb4c010162be3799b7c0732115d5c2b7ca5979f48b10f7f/) |
 | ✅ | 2024/08/22 | 10-1 | [舰队联邦\[FF\]](https://ws.tsl.rocks/corp/a416c5b53512093490461bf0dab583fbb401f5850470774f6de02dafe6ca3655/) |
 | ✅ | 2024/08/16 | 8-0 | [凛冬重工](https://ws.tsl.rocks/corp/513d81e0236600883fae60f5ad8bc4b54fe7b9787479dd96fb7e0b4dea3ca5eb/) |
 | ✅ | 2024/08/09 | 5-3 | [Nox Imperium](https://ws.tsl.rocks/corp/b60fb003fae650d1de18e7bca4fad04f9805501f4568d07ceb47bffdfeb613c1/) |
