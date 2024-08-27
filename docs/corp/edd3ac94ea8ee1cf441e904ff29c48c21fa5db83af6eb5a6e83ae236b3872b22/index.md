@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Osmium Star llc
-description: W:12 L:2 D:0 Bonus ✅
+description: W:12 L:2 D:0 Bonus ❌
 date: 1724141860
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1316 🔺  (105)|
-| ELO Competitive | 1325 🔺  (179)|
+| ELO Competitive | 1325 🔺  (178)|
 | Total Matches | 14 |
 | Wins | 12 |
 | Losses | 2 |
