@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​corporacion I.A
-description: W:0 L:1 D:0 Bonus ❌
-date: 1710647550
+description: W:0 L:2 D:0 Bonus ❌
+date: 1724715856
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻  (564)|
-| ELO Competitive | 1192 🔻  (616)|
-| Total Matches | 1 |
+| ELO Regular | 1180 🔻  (778)|
+| ELO Competitive | 1187 🔻  (707)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1710215550];
+        let timestamps = [1724283856,1710215550];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/26 | 2-14 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
 | ❌ | 2024/03/17 | 0-67 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) |
 
 Corporation ID: df86dad6380843bf4a9cf1a50952d4ff723b40e5e84626918e35b39ec35a9ccf

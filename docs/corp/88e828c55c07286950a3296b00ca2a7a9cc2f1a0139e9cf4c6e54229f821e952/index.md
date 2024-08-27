@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​使命白星
-description: W:8 L:7 D:1 Bonus ✅
-date: 1724361849
+description: W:9 L:7 D:1 Bonus ✅
+date: 1724711050
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1207 🔻  (412)|
-| ELO Competitive | 1279 🔺  (260)|
-| Total Matches | 16 |
-| Wins | 8 |
+| ELO Regular | 1217 🔺  (340)|
+| ELO Competitive | 1290 🔺  (235)|
+| Total Matches | 17 |
+| Wins | 9 |
 | Losses | 7 |
 | Draws | 1 |
 | Streak Record | 2 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723929849,1723819847,1723469754,1723384109,1723024999,1722951377,1722509622,1722041705,1721543454,1721096900,1720741343,1720660792,1720226530,1719706027,1718839661,1718404217];
+        let timestamps = [1724279050,1723929849,1723819847,1723469754,1723384109,1723024999,1722951377,1722509622,1722041705,1721543454,1721096900,1720741343,1720660792,1720226530,1719706027,1718839661,1718404217];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/26 | 14-1 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
 | ❌ | 2024/08/22 | 0-40 | [Lofty Mountain](https://ws.tsl.rocks/corp/1cfc6606e17d524ba0388b273ad6a9e86b23838eb529a2659f03a40702affbf7/) |
 | ✅ | 2024/08/21 | 10-0 | [海澜之家](https://ws.tsl.rocks/corp/36caebb92bc1cc49fc7be123dd38469d478c6ac42831a25a4a20ba590c73631d/) |
 | ❌ | 2024/08/17 | 0-9 | [青鸾殿](https://ws.tsl.rocks/corp/d92c939be23b35542ca2d0ae7cdc4b1288d5d5e78be2dfb74cb0360f5524d01c/) |

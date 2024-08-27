@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Fleet Corp Ares
-description: W:8 L:7 D:0 Bonus ❌
-date: 1723470824
+description: W:9 L:7 D:0 Bonus ✅
+date: 1724708947
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1229 🔻  (290)|
-| ELO Competitive | 1251 🔻  (320)|
-| Total Matches | 15 |
-| Wins | 8 |
+| ELO Regular | 1241 🔺  (249)|
+| ELO Competitive | 1263 🔺  (293)|
+| Total Matches | 16 |
+| Wins | 9 |
 | Losses | 7 |
 | Draws | 0 |
 | Streak Record | 6 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723038824,1721834356,1721187362,1720643061,1718675882,1718057572,1715628268,1713847949,1712032814,1710184904,1708434897,1707144844,1705912741,1704095231,1701662812];
+        let timestamps = [1724276947,1723038824,1721834356,1721187362,1720643061,1718675882,1718057572,1715628268,1713847949,1712032814,1710184904,1708434897,1707144844,1705912741,1704095231,1701662812];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/26 | 38-2 | [Moon Catchers](https://ws.tsl.rocks/corp/0625bb885137c3824ac346b97780181e23ee84562237eb345baa364f8d7d3c43/) |
 | ❌ | 2024/08/12 | 19-22 | [Crux Cadre](https://ws.tsl.rocks/corp/41cdba59897d5e01412601b648c1a692368d92c198123f9ab442f2a23464b375/) |
 | ❌ | 2024/07/29 | 24-25 | [The trade pub](https://ws.tsl.rocks/corp/43689e4266357d8b8d3d66d371109d9aed82ee6df47dc6fa0a7c5da735b9863b/) |
 | ✅ | 2024/07/22 | 14-7 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) |

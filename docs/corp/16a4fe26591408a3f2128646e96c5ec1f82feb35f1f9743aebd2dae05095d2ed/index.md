@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​揽月宫
-description: W:2 L:2 D:0 Bonus ✅
-date: 1724281241
+description: W:3 L:2 D:0 Bonus ✅
+date: 1724717959
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1215 🔺  (368)|
-| ELO Competitive | 1216 🔺  (454)|
-| Total Matches | 4 |
-| Wins | 2 |
+| ELO Regular | 1227 🔺  (299)|
+| ELO Competitive | 1231 🔺  (379)|
+| Total Matches | 5 |
+| Wins | 3 |
 | Losses | 2 |
 | Draws | 0 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723849241,1723389219,1722502411,1720823398];
+        let timestamps = [1724285959,1723849241,1723389219,1722502411,1720823398];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/27 | 15-3 | [羽共和体](https://ws.tsl.rocks/corp/61b6e0502a087307a2ecf50e5d84f6123ad19984dc5790c997f16a676213aa7e/) |
 | ✅ | 2024/08/21 | 19-1 | [UFSG](https://ws.tsl.rocks/corp/9c9b98c2bfcf5411f6bc5502ed3163b92c8733b540071e4b70dc0bf8b0701a97/) |
 | ✅ | 2024/08/16 | 15-0 | [Fairy tail ](https://ws.tsl.rocks/corp/44e6a82c06b84bc5579df0e42bc462f36313b0060861d25228856930f6c19eac/) |
 | ❌ | 2024/08/06 | 2-19 | [Osmium Star llc](https://ws.tsl.rocks/corp/edd3ac94ea8ee1cf441e904ff29c48c21fa5db83af6eb5a6e83ae236b3872b22/) |
