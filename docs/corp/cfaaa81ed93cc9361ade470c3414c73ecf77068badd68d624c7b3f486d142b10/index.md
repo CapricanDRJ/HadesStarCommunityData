@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​StellaMysterium
-description: W:20 L:23 D:0 Bonus ✅
-date: 1724326646
+description: W:21 L:23 D:0 Bonus ✅
+date: 1724790650
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1220 🔺  (323)|
-| ELO Competitive | 1273 🔺  (272)|
-| Total Matches | 43 |
-| Wins | 20 |
+| ELO Regular | 1229 🔺  (293)|
+| ELO Competitive | 1281 🔺  (260)|
+| Total Matches | 44 |
+| Wins | 21 |
 | Losses | 23 |
 | Draws | 0 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 4 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723894646,1723894375,1723101928,1723101628,1722621113,1722616304,1721948252,1721939538,1721403420,1721390495,1720895827,1720865767,1720425174,1720419164,1719975280,1719301545,1719296137,1718436367,1717932543,1717433572,1716860454,1716113188,1715450691,1714930015,1714094621,1713477512,1712934839,1712389177,1711787617,1710978739,1710425269,1709881717,1708846570,1708241675,1706924873,1706080427,1705043656,1704525266,1703716586,1703142279,1702700249,1702214613,1700599481];
+        let timestamps = [1724358650,1723894646,1723894375,1723101928,1723101628,1722621113,1722616304,1721948252,1721939538,1721403420,1721390495,1720895827,1720865767,1720425174,1720419164,1719975280,1719301545,1719296137,1718436367,1717932543,1717433572,1716860454,1716113188,1715450691,1714930015,1714094621,1713477512,1712934839,1712389177,1711787617,1710978739,1710425269,1709881717,1708846570,1708241675,1706924873,1706080427,1705043656,1704525266,1703716586,1703142279,1702700249,1702214613,1700599481];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/27 | 25-14 | [Nebula](https://ws.tsl.rocks/corp/38bd8c92bc5f2d4ff240d58da260855d87eb4c2c4a241735c5d72215d4a191fb/) |
 | ✅ | 2024/08/22 | 7-3 | [GhostNakcoorp](https://ws.tsl.rocks/corp/0a15ae22cdfbd88694d3067838a78bea07746ec95f3784b3f65d77fe47d76312/) |
 | ✅ | 2024/08/22 | 26-2 | [Shadow Lords](https://ws.tsl.rocks/corp/ffee04fd9f2b6c8606e9a756d2a3560c16122e98d73d98b7bec192383be2ab83/) |
 | ✅ | 2024/08/13 | 11-6 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |
