@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​舰队联邦[FF]
-description: W:0 L:3 D:1 Bonus ❌
-date: 1724567103
+description: W:0 L:3 D:2 Bonus ❌
+date: 1724736888
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1161 🔺  (962)|
-| ELO Competitive | 1174 🔻  (940)|
-| Total Matches | 4 |
+| ELO Regular | 1164 🔺  (945)|
+| ELO Competitive | 1177 🔺  (910)|
+| Total Matches | 5 |
 | Wins | 0 |
 | Losses | 3 |
-| Draws | 1 |
+| Draws | 2 |
 
 
 # Whitestar Match Day
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724135103,1723871533,1723436697,1722843792];
+        let timestamps = [1724304888,1724135103,1723871533,1723436697,1722843792];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/08/27 | 0-0 | [永恒之梦](https://ws.tsl.rocks/corp/51524c100011292acfff96dc47f5b506950922c6e467b1586d5c571cc281fd4d/) |
 | ↔️ | 2024/08/25 | 2-2 | [Failures](https://ws.tsl.rocks/corp/0fefd8c33dd941c6dbab4c3251c94de4fbbc67c33dd0a9b5c82b07982c437b3c/) |
 | ❌ | 2024/08/22 | 1-10 | [共产国际](https://ws.tsl.rocks/corp/375b1efc576c9d15f93249680dcd6dccaf2ad07cd520b85242d0b704d3a494c6/) |
 | ❌ | 2024/08/17 | 0-5 | [DeutschlandGmbH](https://ws.tsl.rocks/corp/7f4550924e4740a47b7d66c9ddf38d65c37590507caab29eecc74f81a4ae2895/) |
