@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​BrazilCorp.
-description: W:37 L:6 D:0 Bonus ✅
-date: 1724340507
+description: W:38 L:6 D:0 Bonus ✅
+date: 1724867911
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1471 🔺  (13)|
-| ELO Competitive | 1511 🔺  (29)|
-| Total Matches | 43 |
-| Wins | 37 |
+| ELO Regular | 1477 🔺  (12)|
+| ELO Competitive | 1518 🔺  (23)|
+| Total Matches | 44 |
+| Wins | 38 |
 | Losses | 6 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 10 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723908507,1723279228,1722107236,1721445187,1720866067,1720841726,1720259585,1719631498,1719040990,1719039788,1718470933,1718467025,1717823149,1717224671,1716641067,1716007428,1715395101,1714813436,1714178748,1713281901,1712698682,1712153001,1711711893,1711117848,1710155454,1709652465,1709126927,1708238670,1707611227,1706874083,1706873482,1706262835,1705745950,1704735032,1704295978,1703070151,1702551827,1701545901,1701085769,1700388194,1699942422,1699506570,1698856594];
+        let timestamps = [1724435911,1723908507,1723279228,1722107236,1721445187,1720866067,1720841726,1720259585,1719631498,1719040990,1719039788,1718470933,1718467025,1717823149,1717224671,1716641067,1716007428,1715395101,1714813436,1714178748,1713281901,1712698682,1712153001,1711711893,1711117848,1710155454,1709652465,1709126927,1708238670,1707611227,1706874083,1706873482,1706262835,1705745950,1704735032,1704295978,1703070151,1702551827,1701545901,1701085769,1700388194,1699942422,1699506570,1698856594];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/28 | 36-4 | [NERF TOY'S](https://ws.tsl.rocks/corp/34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0/) |
 | ✅ | 2024/08/22 | 39-0 | [Majapahit](https://ws.tsl.rocks/corp/6d6df740d7d7719ed95d71037f4266928dad222a578175c6836d7bf449f89e75/) |
 | ❌ | 2024/08/15 | 7-12 | [붉은늑대](https://ws.tsl.rocks/corp/43d32b05645aaa9415d1c04ecbcea520d2ed5b90304770cb0ab3813cb86e2f49/) |
 | ✅ | 2024/08/01 | 37-7 | [Lacuna Holdings](https://ws.tsl.rocks/corp/17f4ece94ed033805ed258868416020d302254e2e3becbd1e25381be7933be76/) |
