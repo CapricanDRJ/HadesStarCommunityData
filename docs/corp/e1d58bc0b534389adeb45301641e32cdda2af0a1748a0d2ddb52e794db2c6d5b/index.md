@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​EarthFederation
-description: W:1 L:0 D:0 Bonus ❌
-date: 1723840155
+description: W:1 L:1 D:0 Bonus ❌
+date: 1724871819
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔺  (370)|
-| ELO Competitive | 1215 🔺  (474)|
-| Total Matches | 1 |
+| ELO Regular | 1199 🔻  (477)|
+| ELO Competitive | 1199 🔻  (577)|
+| Total Matches | 2 |
 | Wins | 1 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723408155];
+        let timestamps = [1724439819,1723408155];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/28 | 3-14 | [Imperium](https://ws.tsl.rocks/corp/9e2ab6b52a6e6684059b31f08966101f380a17c9a782d2a39434093e835fb17d/) |
 | ✅ | 2024/08/16 | 7-0 | [<•\|•\>](https://ws.tsl.rocks/corp/a3864fad7e4ba08611eda264a7934afe237a2f313a23b12dcce9db0a96a09daf/) |
 
 Corporation ID: e1d58bc0b534389adeb45301641e32cdda2af0a1748a0d2ddb52e794db2c6d5b

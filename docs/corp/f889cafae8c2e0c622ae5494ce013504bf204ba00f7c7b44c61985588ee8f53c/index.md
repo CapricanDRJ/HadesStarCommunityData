@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Dark Training
-description: W:14 L:11 D:1 Bonus ❌
-date: 1723713332
+description: W:15 L:11 D:1 Bonus ✅
+date: 1724877530
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1273 🔺  (170)|
-| ELO Competitive | 1313 🔺  (200)|
-| Total Matches | 26 |
-| Wins | 14 |
+| ELO Regular | 1281 🔺  (156)|
+| ELO Competitive | 1322 🔺  (185)|
+| Total Matches | 27 |
+| Wins | 15 |
 | Losses | 11 |
 | Draws | 1 |
-| Streak | 3 |
-| Streak Record | 3 |
+| Streak | 4 |
+| Streak Record | 4 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723281332,1721964776,1720723611,1720038401,1719169029,1717945170,1716912746,1716448181,1715948537,1715187498,1714662500,1713978344,1713283103,1712140980,1711486242,1711029811,1709943619,1709468574,1709000724,1708448120,1708443913,1707455968,1707317442,1706135426,1705382634,1704110858];
+        let timestamps = [1724445530,1723281332,1721964776,1720723611,1720038401,1719169029,1717945170,1716912746,1716448181,1715948537,1715187498,1714662500,1713978344,1713283103,1712140980,1711486242,1711029811,1709943619,1709468574,1709000724,1708448120,1708443913,1707455968,1707317442,1706135426,1705382634,1704110858];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/28 | 27-0 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |
 | ✅ | 2024/08/15 | 27-0 | [Poggy Rockers](https://ws.tsl.rocks/corp/47aeb151232251d9e53310e21f1290b1240c63878169968847bd1e89efc909a7/) |
 | ✅ | 2024/07/31 | 19-4 | [Star Destroyers](https://ws.tsl.rocks/corp/32ba20918cd8720602fefb3bc676a6ba5195314479040f70eadc728fbbc2698d/) |
 | ✅ | 2024/07/16 | 9-1 | [Spaceballs](https://ws.tsl.rocks/corp/1e54a7ba8156a65b15f7f1358b682a10f856acb0f96d9e3b582c4ea175905839/) |
