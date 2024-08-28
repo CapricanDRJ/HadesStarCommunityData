@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Crimson Dawn
-description: W:10 L:10 D:0 Bonus ✅
+description: W:10 L:10 D:0 Bonus ❌
 date: 1724201964
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
