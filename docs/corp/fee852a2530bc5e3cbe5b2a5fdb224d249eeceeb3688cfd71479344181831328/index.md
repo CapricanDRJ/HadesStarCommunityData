@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Red Dawn
-description: W:29 L:19 D:1 Bonus ✅
+description: W:29 L:19 D:1 Bonus ❌
 date: 1724235916
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1285 🔺  (151)|
-| ELO Competitive | 1386 🔺  (105)|
+| ELO Competitive | 1386 🔺  (104)|
 | Total Matches | 49 |
 | Wins | 29 |
 | Losses | 19 |
