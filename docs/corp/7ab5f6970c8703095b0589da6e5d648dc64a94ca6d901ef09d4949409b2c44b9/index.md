@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​游徒之家
-description: W:8 L:6 D:0 Bonus ✅
-date: 1724630213
+description: W:9 L:6 D:0 Bonus ✅
+date: 1724833648
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1225 🔺  (309)|
-| ELO Competitive | 1278 🔺  (264)|
-| Total Matches | 14 |
-| Wins | 8 |
+| ELO Regular | 1239 🔺  (256)|
+| ELO Competitive | 1283 🔺  (252)|
+| Total Matches | 15 |
+| Wins | 9 |
 | Losses | 6 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 4 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724198213,1723750734,1723733000,1723287342,1722839585,1722406852,1722243677,1721678081,1721230334,1720757268,1720311580,1719878217,1706353290,1705898318];
+        let timestamps = [1724401648,1724198213,1723750734,1723733000,1723287342,1722839585,1722406852,1722243677,1721678081,1721230334,1720757268,1720311580,1719878217,1706353290,1705898318];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/28 | 3-2 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 | ✅ | 2024/08/25 | 15-1 | [RedStar Raiding](https://ws.tsl.rocks/corp/83a1c4f1576eec7dce037eb5b64b2455ca3affb9d3072108c5d4d3eba88b4570/) |
 | ✅ | 2024/08/20 | 30-1 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) |
 | ❌ | 2024/08/20 | 0-13 | [hades star萌新指引站](https://ws.tsl.rocks/corp/06feef105195a4e2ec026c0e3e2c62fce31204dfe6be8e4b26863935efbf8a50/) |

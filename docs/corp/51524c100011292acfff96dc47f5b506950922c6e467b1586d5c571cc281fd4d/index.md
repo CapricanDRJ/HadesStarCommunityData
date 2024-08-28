@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​永恒之梦
-description: W:5 L:3 D:2 Bonus ✅
+description: W:5 L:3 D:2 Bonus ❌
 date: 1724736888
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
