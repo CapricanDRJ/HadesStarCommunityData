@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Alterra Corp
-description: W:0 L:0 D:1 Bonus ❌
-date: 1721939098
+description: W:1 L:0 D:1 Bonus ✅
+date: 1724848673
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1195 🔻  (495)|
-| ELO Competitive | 1197 🔻  (588)|
-| Total Matches | 1 |
-| Wins | 0 |
+| ELO Regular | 1209 🔺  (410)|
+| ELO Competitive | 1212 🔺  (494)|
+| Total Matches | 2 |
+| Wins | 1 |
 | Losses | 0 |
 | Draws | 1 |
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721507098];
+        let timestamps = [1724416673,1721507098];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/28 | 9-0 | [AAAA](https://ws.tsl.rocks/corp/73b759d7c9218f2c1171f9ef691739331ca36ee045039f4f3f935a47b6622a27/) |
 | ↔️ | 2024/07/25 | 4-4 | [Jalisco México](https://ws.tsl.rocks/corp/495236ab2171ccbcdad0da5529f080405b1ddd081eda98c7255a8cffe5b114e4/) |
 
 Corporation ID: 2994ab783b4971d838bcc4741de8562ba674bf412d43f879bccadbc9f91eee2a

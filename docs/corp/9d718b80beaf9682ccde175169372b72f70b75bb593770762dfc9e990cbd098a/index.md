@@ -1,19 +1,21 @@
 ---
 layout: page
 title: ​蓝星集团
-description: W:1 L:0 D:0 Bonus ✅
-date: 1724344716
+description: W:2 L:0 D:0 Bonus ✅
+date: 1724839362
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1215 🔺  (357)|
-| ELO Competitive | 1217 🔺  (440)|
-| Total Matches | 1 |
-| Wins | 1 |
+| ELO Regular | 1233 🔺  (280)|
+| ELO Competitive | 1236 🔺  (363)|
+| Total Matches | 2 |
+| Wins | 2 |
 | Losses | 0 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 
 
 # Whitestar Match Day
@@ -30,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723912716];
+        let timestamps = [1724407362,1723912716];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/28 | 12-0 | [落雨观花](https://ws.tsl.rocks/corp/565a6d89fc5107e86669d7f8910a1c4ae1fbb156fa0b5e81dbc917c341cc9ff0/) |
 | ✅ | 2024/08/22 | 9-5 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 
 Corporation ID: 9d718b80beaf9682ccde175169372b72f70b75bb593770762dfc9e990cbd098a

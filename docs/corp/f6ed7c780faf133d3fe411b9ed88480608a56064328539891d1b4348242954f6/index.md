@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Dark Halo
-description: W:0 L:1 D:0 Bonus ❌
-date: 1724408765
+description: W:0 L:2 D:0 Bonus ❌
+date: 1724842963
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (595)|
-| ELO Competitive | 1186 🔻  (715)|
-| Total Matches | 1 |
+| ELO Regular | 1171 🔻  (891)|
+| ELO Competitive | 1171 🔻  (988)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723976765];
+        let timestamps = [1724410963,1723976765];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/28 | 4-9 | [海澜之家](https://ws.tsl.rocks/corp/36caebb92bc1cc49fc7be123dd38469d478c6ac42831a25a4a20ba590c73631d/) |
 | ❌ | 2024/08/23 | 3-11 | [银星S Stars‘](https://ws.tsl.rocks/corp/ae73bc387e166c41c7df8d5514866f190e7d81ec4286fdd54d78fe1f07ff71b4/) |
 
 Corporation ID: f6ed7c780faf133d3fe411b9ed88480608a56064328539891d1b4348242954f6
