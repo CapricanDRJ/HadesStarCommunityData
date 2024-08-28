@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​ 墨痕 
-description: W:8 L:11 D:0 Bonus ✅
-date: 1724642831
+description: W:9 L:11 D:0 Bonus ✅
+date: 1724808710
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 🔺  (938)|
-| ELO Competitive | 1224 🔺  (410)|
-| Total Matches | 19 |
-| Wins | 8 |
+| ELO Regular | 1181 🔺  (772)|
+| ELO Competitive | 1225 🔺  (405)|
+| Total Matches | 20 |
+| Wins | 9 |
 | Losses | 11 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 3 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724210831,1719577106,1705579464,1703515231,1703506816,1703073457,1703066244,1702568659,1702555133,1702099501,1702097396,1701593081,1701494206,1701093884,1700573027,1699963157,1699689930,1699529103,1698843669];
+        let timestamps = [1724376710,1724210831,1719577106,1705579464,1703515231,1703506816,1703073457,1703066244,1702568659,1702555133,1702099501,1702097396,1701593081,1701494206,1701093884,1700573027,1699963157,1699689930,1699529103,1698843669];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/28 | 10-4 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 | ✅ | 2024/08/26 | 11-3 | [羽共和体](https://ws.tsl.rocks/corp/61b6e0502a087307a2ecf50e5d84f6123ad19984dc5790c997f16a676213aa7e/) |
 | ✅ | 2024/07/03 | 16-0 | [六大天神\.轻歌之影](https://ws.tsl.rocks/corp/558304186ed78398ff16afe6f1f2909cee69fe56f1e3ee787d023cffa6999b3b/) |
 | ❌ | 2024/01/23 | 0-14 | [神圣罗马帝国](https://ws.tsl.rocks/corp/2a71af44aaef82175cd8dfd86c9e3f218a438a7c7e748bae20d8a0d964a984ab/) |

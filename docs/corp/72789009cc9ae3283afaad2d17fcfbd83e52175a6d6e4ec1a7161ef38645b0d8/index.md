@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Red Alliance
-description: W:9 L:8 D:0 Bonus ✅
-date: 1724613949
+description: W:9 L:9 D:0 Bonus ✅
+date: 1724808710
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1196 🔺  (488)|
-| ELO Competitive | 1260 🔺  (304)|
-| Total Matches | 17 |
+| ELO Regular | 1180 🔻  (781)|
+| ELO Competitive | 1243 🔻  (342)|
+| Total Matches | 18 |
 | Wins | 9 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 0 |
 | Streak Record | 4 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724181949,1723912716,1723399438,1723397033,1722357271,1722254194,1721580724,1720907551,1720254776,1719602352,1718912682,1718912081,1718388587,1717872440,1717331679,1716615524,1716104487];
+        let timestamps = [1724376710,1724181949,1723912716,1723399438,1723397033,1722357271,1722254194,1721580724,1720907551,1720254776,1719602352,1718912682,1718912081,1718388587,1717872440,1717331679,1716615524,1716104487];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/28 | 4-10 | [ 墨痕 ](https://ws.tsl.rocks/corp/1beef0498f07b07217c6e0727dffd066947edc54ee6d09dc63c031def52cdd60/) |
 | ✅ | 2024/08/25 | 1-0 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) |
 | ❌ | 2024/08/22 | 5-9 | [蓝星集团](https://ws.tsl.rocks/corp/9d718b80beaf9682ccde175169372b72f70b75bb593770762dfc9e990cbd098a/) |
 | ❌ | 2024/08/16 | 0-4 | [\*Alfa y Omega\*](https://ws.tsl.rocks/corp/b1da3a2265efd2266a8e4b5698a731ae179d00e431ee748d7bee62a1357a12ed/) |
