@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​МеГаКо
-description: W:15 L:14 D:0 Bonus ✅
+description: W:15 L:14 D:0 Bonus ❌
 date: 1724263868
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1218 🔺  (335)|
-| ELO Competitive | 1260 🔺  (305)|
+| ELO Competitive | 1260 🔺  (304)|
 | Total Matches | 29 |
 | Wins | 15 |
 | Losses | 14 |

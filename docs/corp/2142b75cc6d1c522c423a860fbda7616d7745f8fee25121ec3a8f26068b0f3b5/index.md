@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​星舰国际
-description: W:5 L:3 D:2 Bonus ✅
+description: W:5 L:3 D:2 Bonus ❌
 date: 1724273487
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
