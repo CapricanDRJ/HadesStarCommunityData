@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Anarchy Nation 
-description: W:7 L:2 D:1 Bonus ❌
-date: 1723973277
+description: W:7 L:3 D:1 Bonus ❌
+date: 1724934322
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1253 🔺  (215)|
-| ELO Competitive | 1261 🔺  (302)|
-| Total Matches | 10 |
+| ELO Regular | 1240 🔻  (251)|
+| ELO Competitive | 1249 🔻  (325)|
+| Total Matches | 11 |
 | Wins | 7 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 1 |
-| Streak | 2 |
 | Streak Record | 4 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723541277,1722384017,1718888936,1716160365,1715345830,1714314555,1713150592,1712200178,1711484138,1710954099];
+        let timestamps = [1724502322,1723541277,1722384017,1718888936,1716160365,1715345830,1714314555,1713150592,1712200178,1711484138,1710954099];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/29 | 3-4 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
 | ✅ | 2024/08/18 | 5-4 | [Final Space](https://ws.tsl.rocks/corp/762914fc1846e6b284609274f8f9515959110b5db098a53be8048ffd45d98fdd/) |
 | ✅ | 2024/08/05 | 10-0 | [德意志阿尔法帝国](https://ws.tsl.rocks/corp/b67013faae09f023e7b6100ac659b8f6d1793c27ff7e42a5dfc6494fd64bf2c4/) |
 | ❌ | 2024/06/25 | 3-5 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |

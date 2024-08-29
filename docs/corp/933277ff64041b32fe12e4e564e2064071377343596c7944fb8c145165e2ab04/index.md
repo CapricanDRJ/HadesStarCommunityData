@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​自由星际联盟
-description: W:6 L:34 D:0 Bonus ❌
-date: 1724502494
+description: W:6 L:35 D:0 Bonus ❌
+date: 1724934623
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1015 🔻  (1211)|
-| ELO Competitive | 1089 🔻  (1197)|
-| Total Matches | 40 |
+| ELO Regular | 1008 🔻  (1212)|
+| ELO Competitive | 1084 🔻  (1197)|
+| Total Matches | 41 |
 | Wins | 6 |
-| Losses | 34 |
+| Losses | 35 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724070494,1722223846,1721784663,1721310264,1717741626,1717741626,1716468008,1716436766,1714461789,1713676695,1710025051,1709991393,1709467673,1708611585,1708519034,1708000977,1707552177,1707109539,1706615663,1706583492,1706019124,1705582469,1704970488,1704457651,1703945577,1703505915,1703062448,1703046112,1702560844,1702099501,1702097396,1701607809,1701172024,1700907537,1700694151,1700133328,1700126416,1699692829,1699689930,1698748991];
+        let timestamps = [1724502623,1724070494,1722223846,1721784663,1721310264,1717741626,1717741626,1716468008,1716436766,1714461789,1713676695,1710025051,1709991393,1709467673,1708611585,1708519034,1708000977,1707552177,1707109539,1706615663,1706583492,1706019124,1705582469,1704970488,1704457651,1703945577,1703505915,1703062448,1703046112,1702560844,1702099501,1702097396,1701607809,1701172024,1700907537,1700694151,1700133328,1700126416,1699692829,1699689930,1698748991];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) | 0 | 2 | 0 | 2 |
 | [R\-6 satalite](https://ws.tsl.rocks/corp/ce3450a529768e932b3aeb4c6f39b9295e6e07d010b209d0120c0125799adc43/) | 0 | 2 | 0 | 2 |
 | [SternenStaub](https://ws.tsl.rocks/corp/11f1e8a4d522eaef8cb40c95d07b4533097aa6509ddafd1d7efc1449e8b10f38/) | 0 | 2 | 0 | 2 |
 | [萌新港\(大佬港\)](https://ws.tsl.rocks/corp/e6d9b9da7a037e3572cb594dfeba7b282b66509228c9f4f1b2138f873caa3cf3/) | 1 | 1 | 0 | 2 |
@@ -126,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/29 | 3-6 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ❌ | 2024/08/24 | 0-40 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | ❌ | 2024/08/03 | 1-18 | [落雨观花](https://ws.tsl.rocks/corp/565a6d89fc5107e86669d7f8910a1c4ae1fbb156fa0b5e81dbc917c341cc9ff0/) |
 | ❌ | 2024/07/29 | 1-21 | [R\-6 satalite](https://ws.tsl.rocks/corp/ce3450a529768e932b3aeb4c6f39b9295e6e07d010b209d0120c0125799adc43/) |

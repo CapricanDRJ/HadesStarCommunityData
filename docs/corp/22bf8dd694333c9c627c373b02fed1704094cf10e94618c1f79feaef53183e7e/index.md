@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​新?的星际集团?
-description: W:10 L:5 D:0 Bonus ✅
-date: 1724488371
+description: W:11 L:5 D:0 Bonus ✅
+date: 1724928011
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1257 🔺  (202)|
-| ELO Competitive | 1283 🔺  (254)|
-| Total Matches | 15 |
-| Wins | 10 |
+| ELO Regular | 1269 🔺  (178)|
+| ELO Competitive | 1296 🔺  (224)|
+| Total Matches | 16 |
+| Wins | 11 |
 | Losses | 5 |
 | Draws | 0 |
-| Streak | 4 |
-| Streak Record | 4 |
+| Streak | 5 |
+| Streak Record | 5 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724056371,1724044052,1723605588,1723547587,1723037622,1723029506,1722595265,1722593762,1722161630,1721657655,1721652544,1721219212,1721092693,1720591966,1719722998];
+        let timestamps = [1724496011,1724056371,1724044052,1723605588,1723547587,1723037622,1723029506,1722595265,1722593762,1722161630,1721657655,1721652544,1721219212,1721092693,1720591966,1719722998];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/29 | 21-4 | [The New Light](https://ws.tsl.rocks/corp/73c87b4394c7e44aa0fa6996ae32e7448f956391dac8b5d025da6019d3062cfc/) |
 | ✅ | 2024/08/24 | 20-3 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ✅ | 2024/08/24 | 4-3 | [星光万丈](https://ws.tsl.rocks/corp/92ad2a305a74e168b57771140461b4d226e1e8cac17b4f77027d5a67ead5fa1d/) |
 | ✅ | 2024/08/19 | 7-0 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) |
