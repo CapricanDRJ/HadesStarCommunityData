@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​украина№1
-description: W:28 L:21 D:0 Bonus ❌
-date: 1724290011
+description: W:28 L:22 D:0 Bonus ❌
+date: 1724936728
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1262 🔻  (192)|
-| ELO Competitive | 1351 🔻  (144)|
-| Total Matches | 49 |
+| ELO Regular | 1257 🔻  (204)|
+| ELO Competitive | 1345 🔻  (154)|
+| Total Matches | 50 |
 | Wins | 28 |
-| Losses | 21 |
+| Losses | 22 |
 | Draws | 0 |
 | Streak Record | 9 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723858011,1723724884,1723165635,1723126270,1722546288,1722506918,1721730979,1720855549,1719593937,1718892844,1718245388,1717646055,1717059090,1716361056,1715706382,1715268618,1714750837,1714105135,1713515664,1711885874,1711284319,1710530731,1709451446,1708677994,1708674389,1708000075,1707431688,1707426280,1706911953,1706911653,1706354191,1706335260,1705867970,1705867969,1705317723,1705317723,1704788523,1704784316,1704322729,1704317920,1703283532,1702673850,1702131660,1701535681,1701102301,1700514730,1699946328,1699361733,1698746887];
+        let timestamps = [1724504728,1723858011,1723724884,1723165635,1723126270,1722546288,1722506918,1721730979,1720855549,1719593937,1718892844,1718245388,1717646055,1717059090,1716361056,1715706382,1715268618,1714750837,1714105135,1713515664,1711885874,1711284319,1710530731,1709451446,1708677994,1708674389,1708000075,1707431688,1707426280,1706911953,1706911653,1706354191,1706335260,1705867970,1705867969,1705317723,1705317723,1704788523,1704784316,1704322729,1704317920,1703283532,1702673850,1702131660,1701535681,1701102301,1700514730,1699946328,1699361733,1698746887];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,8 +117,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 0 | 3 | 0 | 3 |
 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 2 | 1 | 0 | 3 |
-| [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 0 | 2 | 0 | 2 |
 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) | 1 | 1 | 0 | 2 |
 | [Imperium XIII](https://ws.tsl.rocks/corp/0d52edf77b0cdeaaea6ebc20a7f5b6a60372b535bf96f556b31e2243dc8ee75a/) | 1 | 1 | 0 | 2 |
 
@@ -126,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/29 | 16-27 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | ❌ | 2024/08/22 | 9-12 | [北冥星云](https://ws.tsl.rocks/corp/88cb246960e97ace5f27c024831a42d0f4ad4df3493d6496dd2735190c15e47e/) |
 | ❌ | 2024/08/20 | 3-26 | [Crazy Elite](https://ws.tsl.rocks/corp/ef64e9014b773074470ead0907b9c122bf6bda753de1cddfa01e95a00e9d47dc/) |
 | ✅ | 2024/08/14 | 29-2 | [Antioch](https://ws.tsl.rocks/corp/6cf52926568f845a630c3fba8370e8afa3a75d315af0f6d0bd891085e6e4425f/) |
