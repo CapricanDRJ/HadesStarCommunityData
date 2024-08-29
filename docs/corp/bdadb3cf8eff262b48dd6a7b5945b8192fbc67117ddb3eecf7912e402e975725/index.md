@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Eretria 
-description: W:28 L:24 D:0 Bonus ✅
-date: 1724528043
+description: W:28 L:25 D:0 Bonus ✅
+date: 1724967085
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1249 🔺  (221)|
-| ELO Competitive | 1279 🔺  (265)|
-| Total Matches | 52 |
+| ELO Regular | 1237 🔻  (264)|
+| ELO Competitive | 1266 🔻  (289)|
+| Total Matches | 53 |
 | Wins | 28 |
-| Losses | 24 |
+| Losses | 25 |
 | Draws | 0 |
 | Streak Record | 7 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724096043,1723610395,1722938454,1722483781,1722035996,1721550065,1721096299,1720539073,1720055828,1719601751,1719113423,1718558985,1717597968,1717133014,1716698167,1716263715,1715818149,1715320893,1714797511,1714269486,1713763224,1713283103,1712790621,1712346813,1711902706,1711868447,1711434257,1710948089,1710435185,1709863090,1709399166,1708408455,1707814667,1706744569,1706483723,1706168175,1705697277,1705142522,1704615723,1704115067,1703629134,1703174438,1702712014,1702235056,1701769499,1701269103,1700725401,1700212370,1700208464,1699710675,1699174232,1698718937];
+        let timestamps = [1724535085,1724096043,1723610395,1722938454,1722483781,1722035996,1721550065,1721096299,1720539073,1720055828,1719601751,1719113423,1718558985,1717597968,1717133014,1716698167,1716263715,1715818149,1715320893,1714797511,1714269486,1713763224,1713283103,1712790621,1712346813,1711902706,1711868447,1711434257,1710948089,1710435185,1709863090,1709399166,1708408455,1707814667,1706744569,1706483723,1706168175,1705697277,1705142522,1704615723,1704115067,1703629134,1703174438,1702712014,1702235056,1701769499,1701269103,1700725401,1700212370,1700208464,1699710675,1699174232,1698718937];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Osmium Star llc](https://ws.tsl.rocks/corp/edd3ac94ea8ee1cf441e904ff29c48c21fa5db83af6eb5a6e83ae236b3872b22/) | 0 | 2 | 0 | 2 |
 | [Axioma](https://ws.tsl.rocks/corp/2ec904c87d0183a49e22dc53508fa5c75d6e638e3a152a30336831697c60e91e/) | 1 | 1 | 0 | 2 |
 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) | 2 | 0 | 0 | 2 |
 
@@ -124,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/29 | 9-10 | [Osmium Star llc](https://ws.tsl.rocks/corp/edd3ac94ea8ee1cf441e904ff29c48c21fa5db83af6eb5a6e83ae236b3872b22/) |
 | ✅ | 2024/08/24 | 14-7 | [BRASIL ACADEMY](https://ws.tsl.rocks/corp/cabc8229ee9053cfa3496208bd29c60cd71cda89c5e723fc236fff61a95c2b83/) |
 | ❌ | 2024/08/19 | 3-10 | [Unión latina](https://ws.tsl.rocks/corp/9919a50d277644f496c19d5becdf40abb251d000345f049632329f0b35b7fbf1/) |
 | ✅ | 2024/08/11 | 13-3 | [Novana Gaming](https://ws.tsl.rocks/corp/073bc5604115e6eb4df318ba3c7a80d782d26f83d70723c5f15b6453ce690a08/) |
