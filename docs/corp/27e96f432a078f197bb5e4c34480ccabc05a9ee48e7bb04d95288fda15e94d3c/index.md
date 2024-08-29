@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Últimafronteira
-description: W:8 L:0 D:0 Bonus ❌
-date: 1724277994
+description: W:9 L:0 D:0 Bonus ✅
+date: 1724915991
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1309 🔺  (115)|
-| ELO Competitive | 1312 🔺  (201)|
-| Total Matches | 8 |
-| Wins | 8 |
+| ELO Regular | 1318 🔺  (101)|
+| ELO Competitive | 1321 🔺  (184)|
+| Total Matches | 9 |
+| Wins | 9 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 8 |
-| Streak Record | 8 |
+| Streak | 9 |
+| Streak Record | 9 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723845994,1721961171,1721344524,1718508192,1718062679,1718062379,1717610294,1716578864];
+        let timestamps = [1724483991,1723845994,1721961171,1721344524,1718508192,1718062679,1718062379,1717610294,1716578864];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/29 | 39-3 | [Quin Armarda 2](https://ws.tsl.rocks/corp/529de2f6f4f84d776caefa1e49ce587d581b86c0659533f7fab2eb642b04a928/) |
 | ✅ | 2024/08/21 | 17-3 | [碧霄殿](https://ws.tsl.rocks/corp/7e12fd0fd0a01af1c797f73316b305a21078e46bd75758850438f20357276ebf/) |
 | ✅ | 2024/07/31 | 26-6 | [星海扬帆](https://ws.tsl.rocks/corp/9cf2d9a2c07a0b8030f9a8275f9ebd3973759c2b60bed95ccb9a3f152aa0b1e4/) |
 | ✅ | 2024/07/23 | 20-3 | [Forces of Light](https://ws.tsl.rocks/corp/0363a536567ae69573a7b0aa4b2c4119c5c14999f5bb2c7a68219b22b78f7903/) |

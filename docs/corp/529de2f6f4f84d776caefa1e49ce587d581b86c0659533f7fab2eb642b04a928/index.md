@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Quin Armarda 2
-description: W:0 L:2 D:0 Bonus ❌
-date: 1720743580
+description: W:0 L:3 D:0 Bonus ❌
+date: 1724915991
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (915)|
-| ELO Competitive | 1176 🔻  (917)|
-| Total Matches | 2 |
+| ELO Regular | 1159 🔻  (972)|
+| ELO Competitive | 1167 🔻  (1016)|
+| Total Matches | 3 |
 | Wins | 0 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1720311580,1719846361];
+        let timestamps = [1724483991,1720311580,1719846361];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/29 | 3-39 | [Últimafronteira](https://ws.tsl.rocks/corp/27e96f432a078f197bb5e4c34480ccabc05a9ee48e7bb04d95288fda15e94d3c/) |
 | ❌ | 2024/07/12 | 0-17 | [游徒之家](https://ws.tsl.rocks/corp/7ab5f6970c8703095b0589da6e5d648dc64a94ca6d901ef09d4949409b2c44b9/) |
 | ❌ | 2024/07/06 | 0-22 | [Dumpster Fire 2](https://ws.tsl.rocks/corp/37d473dec00d4d68e29963e3b423670aac735e7c1f256276e6c2e7d62180b0f8/) |
 
