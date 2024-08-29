@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​北冥星云
-description: W:1 L:4 D:0 Bonus ✅
+description: W:1 L:4 D:0 Bonus ❌
 date: 1724290011
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

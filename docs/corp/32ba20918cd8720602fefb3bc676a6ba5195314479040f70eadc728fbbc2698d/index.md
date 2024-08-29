@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​Star Destroyers
-description: W:25 L:17 D:1 Bonus ✅
-date: 1724311348
+description: W:26 L:17 D:1 Bonus ✅
+date: 1724909080
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1324 🔺  (92)|
-| ELO Competitive | 1364 🔺  (133)|
-| Total Matches | 43 |
-| Wins | 25 |
+| ELO Regular | 1338 🔺  (82)|
+| ELO Competitive | 1377 🔺  (118)|
+| Total Matches | 44 |
+| Wins | 26 |
 | Losses | 17 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 10 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723879348,1723401841,1722958591,1722404748,1721964776,1721315073,1720766585,1720129770,1719546458,1718912081,1718822231,1718208425,1717595562,1717496982,1716884189,1716883288,1716444276,1715880940,1715320893,1714662500,1714041435,1713506050,1712960982,1712398792,1711724215,1711230535,1710690895,1710142836,1709440029,1708713456,1708141009,1707487874,1706737659,1706214759,1705632659,1705094144,1704486204,1703895393,1703117641,1703113435,1702226338,1701005524,1698948246];
+        let timestamps = [1724477080,1723879348,1723401841,1722958591,1722404748,1721964776,1721315073,1720766585,1720129770,1719546458,1718912081,1718822231,1718208425,1717595562,1717496982,1716884189,1716883288,1716444276,1715880940,1715320893,1714662500,1714041435,1713506050,1712960982,1712398792,1711724215,1711230535,1710690895,1710142836,1709440029,1708713456,1708141009,1707487874,1706737659,1706214759,1705632659,1705094144,1704486204,1703895393,1703117641,1703113435,1702226338,1701005524,1698948246];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/29 | 20-19 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) |
 | ✅ | 2024/08/22 | 20-4 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
 | ❌ | 2024/08/16 | 2-10 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
 | ❌ | 2024/08/11 | 20-26 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
