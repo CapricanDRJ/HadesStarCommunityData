@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Gastro
-description: W:3 L:3 D:0 Bonus ❌
-date: 1723339205
+description: W:3 L:4 D:0 Bonus ❌
+date: 1724991119
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 🔺  (439)|
-| ELO Competitive | 1209 🔺  (516)|
-| Total Matches | 6 |
+| ELO Regular | 1188 🔻  (568)|
+| ELO Competitive | 1195 🔻  (605)|
+| Total Matches | 7 |
 | Wins | 3 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
-| Streak | 3 |
 | Streak Record | 3 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722907205,1721092693,1719287071,1716941298,1715153245,1714459686];
+        let timestamps = [1724559119,1722907205,1721092693,1719287071,1716941298,1715153245,1714459686];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/30 | 3-8 | [无聊不过](https://ws.tsl.rocks/corp/6099bd39cf8510ea3ef2be0fe05df95266b12acfdcbe1bd58a4c33e9c3f25934/) |
 | ✅ | 2024/08/11 | 6-3 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
 | ✅ | 2024/07/21 | 6-0 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ✅ | 2024/06/30 | 4-0 | [11th Engineers](https://ws.tsl.rocks/corp/7341e9a33a1baf2162870c795632dcd551d3c624b06456dac041fa049ba67a9a/) |

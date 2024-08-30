@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​华夏三体舰队
-description: W:11 L:21 D:5 Bonus ✅
-date: 1724559291
+description: W:11 L:22 D:6 Bonus ✅
+date: 1724995326
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1134 🔺  (1077)|
+| ELO Regular | 1132 🔻  (1082)|
 | ELO Competitive | 1226 🔺  (404)|
-| Total Matches | 37 |
+| Total Matches | 39 |
 | Wins | 11 |
-| Losses | 21 |
-| Draws | 5 |
+| Losses | 22 |
+| Draws | 6 |
 | Streak Record | 3 |
 
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724127291,1723606489,1723175550,1723154519,1722604281,1722590156,1722145400,1722066350,1721657655,1721633312,1721170235,1721025966,1720643362,1720440799,1720005331,1719530692,1719383885,1718903664,1718794879,1718288057,1718273932,1717696248,1717678811,1717246011,1716980057,1716736938,1716528997,1716295259,1716088852,1715860507,1715600921,1715420940,1715124408,1714903873,1714639364,1714173341,1713727776];
+        let timestamps = [1724563326,1724562424,1724127291,1723606489,1723175550,1723154519,1722604281,1722590156,1722145400,1722066350,1721657655,1721633312,1721170235,1721025966,1720643362,1720440799,1720005331,1719530692,1719383885,1718903664,1718794879,1718288057,1718273932,1717696248,1717678811,1717246011,1716980057,1716736938,1716528997,1716295259,1716088852,1715860507,1715600921,1715420940,1715124408,1714903873,1714639364,1714173341,1713727776];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,13 +117,15 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
-| [Z\. O\. V\. ](https://ws.tsl.rocks/corp/4f56534357f2407b25faee160f9dca4ee83b8f9ca4425ba472a47298faf54096/) | 0 | 3 | 0 | 3 |
+| [Z\. O\. V\. ](https://ws.tsl.rocks/corp/4f56534357f2407b25faee160f9dca4ee83b8f9ca4425ba472a47298faf54096/) | 0 | 4 | 0 | 4 |
 | [RGW](https://ws.tsl.rocks/corp/48a0b2c0f203025d10d1217dbcc5e27f3e31f56f2c407d61219c24ec88446be7/) | 0 | 2 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/30 | 1-27 | [Z\. O\. V\. ](https://ws.tsl.rocks/corp/4f56534357f2407b25faee160f9dca4ee83b8f9ca4425ba472a47298faf54096/) |
+| ↔️ | 2024/08/30 | 2-2 | [星舰国际](https://ws.tsl.rocks/corp/2142b75cc6d1c522c423a860fbda7616d7745f8fee25121ec3a8f26068b0f3b5/) |
 | ✅ | 2024/08/25 | 12-0 | [Failures](https://ws.tsl.rocks/corp/0fefd8c33dd941c6dbab4c3251c94de4fbbc67c33dd0a9b5c82b07982c437b3c/) |
 | ❌ | 2024/08/19 | 11-21 | [P\!RAT£ SHIP](https://ws.tsl.rocks/corp/edee949826201f74f57f45c101789757954710e3d075602dfdda7765a69a7e7c/) |
 | ↔️ | 2024/08/14 | 0-0 | [Union premiun](https://ws.tsl.rocks/corp/378842e94d703234b3bbe2f660cbf69180d547b32d4453bc3ca14e7729b3485c/) |

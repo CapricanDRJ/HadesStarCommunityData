@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​无聊不过
-description: W:4 L:2 D:1 Bonus ❌
-date: 1724027973
+description: W:5 L:2 D:1 Bonus ✅
+date: 1724991119
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1227 🔺  (300)|
-| ELO Competitive | 1239 🔺  (356)|
-| Total Matches | 7 |
-| Wins | 4 |
+| ELO Regular | 1241 🔺  (247)|
+| ELO Competitive | 1252 🔺  (318)|
+| Total Matches | 8 |
+| Wins | 5 |
 | Losses | 2 |
 | Draws | 1 |
-| Streak | 3 |
-| Streak Record | 3 |
+| Streak | 4 |
+| Streak Record | 4 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723595973,1723037622,1722569123,1721993923,1721639021,1721533537,1721044899];
+        let timestamps = [1724559119,1723595973,1723037622,1722569123,1721993923,1721639021,1721533537,1721044899];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/30 | 8-3 | [Gastro](https://ws.tsl.rocks/corp/97fa80cbbd78ba0187b5fe3310f441eae5bae995b37c17cd740f62a630d8303e/) |
 | ✅ | 2024/08/19 | 5-4 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) |
 | ✅ | 2024/08/12 | 13-3 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ✅ | 2024/08/07 | 13-0 | [永恒之梦](https://ws.tsl.rocks/corp/51524c100011292acfff96dc47f5b506950922c6e467b1586d5c571cc281fd4d/) |

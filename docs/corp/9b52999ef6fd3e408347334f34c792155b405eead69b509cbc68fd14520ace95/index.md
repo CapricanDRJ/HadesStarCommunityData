@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​群星联盟
-description: W:0 L:1 D:0 Bonus ❌
-date: 1724379275
+description: W:0 L:2 D:0 Bonus ❌
+date: 1724994424
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (706)|
-| ELO Competitive | 1185 🔻  (832)|
-| Total Matches | 1 |
+| ELO Regular | 1172 🔻  (851)|
+| ELO Competitive | 1173 🔻  (954)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723947275];
+        let timestamps = [1724562424,1723947275];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/30 | 2-18 | [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) |
 | ❌ | 2024/08/23 | 3-19 | [Grater U](https://ws.tsl.rocks/corp/0e4162ae372602616761a4d3d17986722b9cc8c4371f9ddeadb3d0d37aace4fa/) |
 
 Corporation ID: 9b52999ef6fd3e408347334f34c792155b405eead69b509cbc68fd14520ace95
