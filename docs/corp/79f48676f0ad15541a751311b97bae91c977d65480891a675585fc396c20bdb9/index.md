@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​初始之音
-description: W:11 L:15 D:0 Bonus ❌
-date: 1725002238
+description: W:11 L:16 D:0 Bonus ❌
+date: 1725023276
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1152 🔻  (1013)|
+| ELO Regular | 1133 🔻  (1077)|
 | ELO Competitive | 1201 🔻  (547)|
-| Total Matches | 26 |
+| Total Matches | 27 |
 | Wins | 11 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 0 |
 | Streak Record | 4 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724570238,1721400113,1719023260,1719021098,1718450492,1718357791,1717998962,1717563325,1717111084,1716678638,1716237581,1716217447,1715772175,1715740933,1714049248,1713598576,1713590163,1713063146,1712654205,1712618756,1712181852,1712129263,1711725116,1711588400,1711156012,1710720948];
+        let timestamps = [1724591276,1724570238,1721400113,1719023260,1719021098,1718450492,1718357791,1717998962,1717563325,1717111084,1716678638,1716237581,1716217447,1715772175,1715740933,1714049248,1713598576,1713590163,1713063146,1712654205,1712618756,1712181852,1712129263,1711725116,1711588400,1711156012,1710720948];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/30 | 0-5 | [水晶星际集团](https://ws.tsl.rocks/corp/6390d7a4666ac4537ef5eacf76dd1c2f34548cc588aac8dad423c308ad1c0f3d/) |
 | ❌ | 2024/08/30 | 0-34 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |
 | ❌ | 2024/07/24 | 0-34 | [资助会](https://ws.tsl.rocks/corp/4d36e1b3853444f7789e6142230ba93f3968baffc18bfad598c3d450c6b247e2/) |
 | ❌ | 2024/06/27 | 0-39 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |

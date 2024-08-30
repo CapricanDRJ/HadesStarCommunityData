@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​ 边域
-description: W:5 L:2 D:0 Bonus ✅
+description: W:5 L:2 D:0 Bonus ❌
 date: 1724412671
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1248 🔺  (226)|
-| ELO Competitive | 1244 🔺  (342)|
+| ELO Competitive | 1244 🔺  (344)|
 | Total Matches | 7 |
 | Wins | 5 |
 | Losses | 2 |

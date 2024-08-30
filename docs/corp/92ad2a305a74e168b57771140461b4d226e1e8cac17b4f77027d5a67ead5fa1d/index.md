@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​星光万丈
-description: W:12 L:22 D:1 Bonus ❌
-date: 1724476052
+description: W:13 L:22 D:1 Bonus ✅
+date: 1725031993
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1147 🔻  (1031)|
-| ELO Competitive | 1232 🔻  (377)|
-| Total Matches | 35 |
-| Wins | 12 |
+| ELO Regular | 1161 🔺  (967)|
+| ELO Competitive | 1244 🔺  (343)|
+| Total Matches | 36 |
+| Wins | 13 |
 | Losses | 22 |
 | Draws | 1 |
 | Streak Record | 3 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724044052,1723952683,1723343238,1723302371,1722851304,1722774973,1722304382,1722282748,1721729476,1721729175,1721219212,1721193973,1720536368,1720530357,1719574401,1719440986,1718991431,1718443279,1717894377,1717166371,1713185743,1712301422,1712281008,1711844713,1711172976,1708438043,1707797041,1707132221,1706667938,1706164269,1705126295,1704540591,1699361733,1699131567,1698929312];
+        let timestamps = [1724599993,1724044052,1723952683,1723343238,1723302371,1722851304,1722774973,1722304382,1722282748,1721729476,1721729175,1721219212,1721193973,1720536368,1720530357,1719574401,1719440986,1718991431,1718443279,1717894377,1717166371,1713185743,1712301422,1712281008,1711844713,1711172976,1708438043,1707797041,1707132221,1706667938,1706164269,1705126295,1704540591,1699361733,1699131567,1698929312];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/30 | 20-7 | [普罗米修斯](https://ws.tsl.rocks/corp/f39d00b1bbbf87c158931fd887f37a588019d0b1fd4f2441fbc675674b71423a/) |
 | ❌ | 2024/08/24 | 3-4 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ❌ | 2024/08/23 | 0-27 | [Lacuna X](https://ws.tsl.rocks/corp/fb10f33f3db17b99b0d227f17e7fde76ef067dc4a4bb4ae05e46c76d2e5e8ea1/) |
 | ❌ | 2024/08/16 | 0-6 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |

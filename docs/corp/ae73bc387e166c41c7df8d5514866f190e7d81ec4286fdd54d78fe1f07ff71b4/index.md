@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​银星S Stars‘
-description: W:3 L:0 D:0 Bonus ✅
+description: W:3 L:0 D:0 Bonus ❌
 date: 1724408765
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1246 🔺  (232)|
-| ELO Competitive | 1246 🔺  (333)|
+| ELO Competitive | 1246 🔺  (334)|
 | Total Matches | 3 |
 | Wins | 3 |
 | Losses | 0 |

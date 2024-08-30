@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​闲散人员
-description: W:2 L:0 D:0 Bonus ✅
+description: W:2 L:0 D:0 Bonus ❌
 date: 1724405420
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1233 🔺  (282)|
-| ELO Competitive | 1234 🔺  (371)|
+| ELO Regular | 1233 🔺  (283)|
+| ELO Competitive | 1234 🔺  (372)|
 | Total Matches | 2 |
 | Wins | 2 |
 | Losses | 0 |

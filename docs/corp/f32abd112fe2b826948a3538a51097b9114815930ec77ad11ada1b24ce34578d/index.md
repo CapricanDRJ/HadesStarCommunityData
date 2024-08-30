@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​欢迎国人
-description: W:5 L:13 D:3 Bonus ❌
-date: 1724313808
+description: W:6 L:13 D:3 Bonus ✅
+date: 1725025680
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1103 🔺  (1147)|
-| ELO Competitive | 1122 🔺  (1167)|
-| Total Matches | 21 |
-| Wins | 5 |
+| ELO Regular | 1121 🔺  (1107)|
+| ELO Competitive | 1140 🔺  (1134)|
+| Total Matches | 22 |
+| Wins | 6 |
 | Losses | 13 |
 | Draws | 3 |
+| Streak | 2 |
 | Streak Record | 2 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723881808,1723384109,1722666184,1722210928,1721746308,1721279615,1720787623,1720261689,1718714042,1712659012,1712203411,1711739769,1711156695,1710689693,1708265417,1706870699,1706343673,1705888103,1705454336,1705010912,1704532177];
+        let timestamps = [1724593680,1723881808,1723384109,1722666184,1722210928,1721746308,1721279615,1720787623,1720261689,1718714042,1712659012,1712203411,1711739769,1711156695,1710689693,1708265417,1706870699,1706343673,1705888103,1705454336,1705010912,1704532177];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/30 | 2-0 | [中国星际联盟·第一自治州](https://ws.tsl.rocks/corp/545ee3872db51731b8d4a941a5c88e0b8f5dcc68b5a26e1a39133cc7dc0b6c18/) |
 | ✅ | 2024/08/22 | 3-0 | [以太超星团](https://ws.tsl.rocks/corp/327addf616128dc5b01013e29e850c76d22ae27af199bcc6bba3b92cee7818ae/) |
 | ❌ | 2024/08/16 | 2-10 | [使命白星](https://ws.tsl.rocks/corp/88e828c55c07286950a3296b00ca2a7a9cc2f1a0139e9cf4c6e54229f821e952/) |
 | ✅ | 2024/08/08 | 1-0 | [Poggy Rockers](https://ws.tsl.rocks/corp/47aeb151232251d9e53310e21f1290b1240c63878169968847bd1e89efc909a7/) |

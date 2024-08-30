@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Ironbear Legion
-description: W:15 L:28 D:0 Bonus ❌
-date: 1724434881
+description: W:15 L:29 D:0 Bonus ❌
+date: 1725031693
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1109 🔻  (1140)|
-| ELO Competitive | 1167 🔻  (1016)|
-| Total Matches | 43 |
+| ELO Regular | 1102 🔻  (1148)|
+| ELO Competitive | 1159 🔻  (1058)|
+| Total Matches | 44 |
 | Wins | 15 |
-| Losses | 28 |
+| Losses | 29 |
 | Draws | 0 |
 | Streak Record | 7 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724002881,1723403346,1722783090,1721648938,1720903643,1720289343,1719251667,1717942765,1717329875,1716725214,1716120399,1715535727,1714922202,1714312751,1713704336,1713022580,1712153001,1711399107,1710087852,1709487509,1708892553,1708875122,1708278041,1707759071,1707164493,1707057698,1706450960,1705863761,1705849934,1705257628,1705251916,1704669826,1704644878,1704056173,1703435900,1702828628,1702218822,1701612619,1701012438,1700404726,1699805667,1699287812,1698852086];
+        let timestamps = [1724599693,1724002881,1723403346,1722783090,1721648938,1720903643,1720289343,1719251667,1717942765,1717329875,1716725214,1716120399,1715535727,1714922202,1714312751,1713704336,1713022580,1712153001,1711399107,1710087852,1709487509,1708892553,1708875122,1708278041,1707759071,1707164493,1707057698,1706450960,1705863761,1705849934,1705257628,1705251916,1704669826,1704644878,1704056173,1703435900,1702828628,1702218822,1701612619,1701012438,1700404726,1699805667,1699287812,1698852086];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/30 | 7-30 | [Lights Off ](https://ws.tsl.rocks/corp/8a8b7e5b7a00ef709249daa4546d03bd85258cde01d35e1829a64ed95c3d6cca/) |
 | ❌ | 2024/08/23 | 2-32 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |
 | ✅ | 2024/08/16 | 30-4 | [The X \- Files](https://ws.tsl.rocks/corp/f13cb0ae2dbb0654a2067c8749f86bce49edc5b520bd391c7af11948f23a41fb/) |
 | ❌ | 2024/08/09 | 5-36 | [Ark Summit](https://ws.tsl.rocks/corp/5940b759f3f833f4c6b35733e1f642a64d5589c1c692e34d030383be08e95e02/) |
