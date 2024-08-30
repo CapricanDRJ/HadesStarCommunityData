@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Outland Ind.
-description: W:31 L:11 D:0 Bonus ❌
-date: 1723289315
+description: W:32 L:11 D:0 Bonus ✅
+date: 1725033497
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1402 🔺  (40)|
-| ELO Competitive | 1458 🔺  (50)|
-| Total Matches | 42 |
-| Wins | 31 |
+| ELO Regular | 1404 🔺  (37)|
+| ELO Competitive | 1460 🔺  (48)|
+| Total Matches | 43 |
+| Wins | 32 |
 | Losses | 11 |
 | Draws | 0 |
-| Streak | 5 |
-| Streak Record | 5 |
+| Streak | 6 |
+| Streak Record | 6 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722857315,1720970064,1720366274,1719819013,1719235736,1717333182,1716761887,1715604527,1714945039,1714312751,1713699228,1713090790,1712486532,1711895793,1711382277,1710866367,1710361277,1709867297,1709824930,1709309318,1709306312,1708810818,1708275938,1707747049,1707252542,1706718714,1706199429,1705671723,1705160857,1704642774,1704137309,1703608395,1703076463,1702555133,1702027966,1701361368,1700872076,1700557399,1700262267,1699740140,1699194366,1698687065];
+        let timestamps = [1724601497,1722857315,1720970064,1720366274,1719819013,1719235736,1717333182,1716761887,1715604527,1714945039,1714312751,1713699228,1713090790,1712486532,1711895793,1711382277,1710866367,1710361277,1709867297,1709824930,1709309318,1709306312,1708810818,1708275938,1707747049,1707252542,1706718714,1706199429,1705671723,1705160857,1704642774,1704137309,1703608395,1703076463,1702555133,1702027966,1701361368,1700872076,1700557399,1700262267,1699740140,1699194366,1698687065];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/30 | 34-0 | [Trade Station](https://ws.tsl.rocks/corp/7003e286fe1a04aaa63e3aa318c164856c07e251a94b0496757140f5eda72cd7/) |
 | ✅ | 2024/08/10 | 32-3 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | ✅ | 2024/07/19 | 21-13 | [Crazy Elite](https://ws.tsl.rocks/corp/ef64e9014b773074470ead0907b9c122bf6bda753de1cddfa01e95a00e9d47dc/) |
 | ✅ | 2024/07/12 | 30-10 | [The trade pub](https://ws.tsl.rocks/corp/43689e4266357d8b8d3d66d371109d9aed82ee6df47dc6fa0a7c5da735b9863b/) |
