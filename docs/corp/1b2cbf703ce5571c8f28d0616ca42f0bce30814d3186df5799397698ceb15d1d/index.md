@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​DadCorp
-description: W:5 L:2 D:0 Bonus ✅
+description: W:5 L:2 D:0 Bonus ❌
 date: 1724390393
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
