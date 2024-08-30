@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Looping
-description: W:24 L:14 D:0 Bonus ✅
-date: 1724486869
+description: W:24 L:15 D:0 Bonus ✅
+date: 1725013057
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1294 🔺  (139)|
-| ELO Competitive | 1347 🔺  (149)|
-| Total Matches | 38 |
+| ELO Regular | 1276 🔻  (168)|
+| ELO Competitive | 1334 🔻  (170)|
+| Total Matches | 39 |
 | Wins | 24 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 0 |
 | Streak Record | 9 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724054869,1723054753,1722488288,1721646533,1721119139,1719166925,1718644328,1717983037,1717056085,1716585177,1716142937,1715669752,1715182390,1714640565,1713888509,1713176428,1712581190,1711805947,1711372360,1711370256,1710756095,1710148544,1709548501,1708937318,1708202314,1707413656,1706786335,1706095751,1705567745,1704795434,1704105148,1703244158,1702677757,1702472182,1701692561,1700553193,1699952638,1698743281];
+        let timestamps = [1724581057,1724054869,1723054753,1722488288,1721646533,1721119139,1719166925,1718644328,1717983037,1717056085,1716585177,1716142937,1715669752,1715182390,1714640565,1713888509,1713176428,1712581190,1711805947,1711372360,1711370256,1710756095,1710148544,1709548501,1708937318,1708202314,1707413656,1706786335,1706095751,1705567745,1704795434,1704105148,1703244158,1702677757,1702472182,1701692561,1700553193,1699952638,1698743281];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/30 | 9-27 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |
 | ✅ | 2024/08/24 | 24-5 | [Sternenflotte](https://ws.tsl.rocks/corp/6273be8c33cae6938fe5608aa5cf5a78e740f71dd888477b437e47ec106c0a0d/) |
 | ❌ | 2024/08/12 | 8-28 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/0c33734edc95a1bac88a9df7e0853a3bd835ea682673f097db1c75d6bb14c8da/) |
 | ❌ | 2024/08/06 | 12-27 | [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) |

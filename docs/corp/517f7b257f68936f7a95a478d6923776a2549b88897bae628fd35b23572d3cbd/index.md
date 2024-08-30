@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Spacefleet
-description: W:34 L:29 D:0 Bonus ❌
-date: 1725001036
+description: W:34 L:30 D:0 Bonus ❌
+date: 1725014259
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (825)|
-| ELO Competitive | 1388 🔻  (101)|
-| Total Matches | 63 |
+| ELO Regular | 1162 🔻  (956)|
+| ELO Competitive | 1390 🔻  (99)|
+| Total Matches | 64 |
 | Wins | 34 |
-| Losses | 29 |
+| Losses | 30 |
 | Draws | 0 |
 | Streak Record | 8 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724569036,1724071696,1724034137,1723383808,1723260897,1722802027,1722457641,1722303179,1722014661,1721834657,1721572909,1721275408,1721040991,1720682729,1720523745,1720158915,1720052824,1719606259,1719593937,1719116729,1718668672,1718505789,1718071390,1717842381,1717329575,1716780511,1716115892,1715561269,1714857006,1714353018,1713759619,1713141580,1712551142,1711930954,1711327897,1710728459,1710117603,1709506443,1708917189,1708397339,1707699877,1707092861,1706496943,1705877287,1705275360,1704700539,1703631538,1702878516,1702876412,1702435820,1702382018,1701945019,1701538988,1701512838,1701042800,1700918057,1700568819,1700118001,1699663481,1699207288,1699194666,1698752598,1698698494];
+        let timestamps = [1724582259,1724569036,1724071696,1724034137,1723383808,1723260897,1722802027,1722457641,1722303179,1722014661,1721834657,1721572909,1721275408,1721040991,1720682729,1720523745,1720158915,1720052824,1719606259,1719593937,1719116729,1718668672,1718505789,1718071390,1717842381,1717329575,1716780511,1716115892,1715561269,1714857006,1714353018,1713759619,1713141580,1712551142,1711930954,1711327897,1710728459,1710117603,1709506443,1708917189,1708397339,1707699877,1707092861,1706496943,1705877287,1705275360,1704700539,1703631538,1702878516,1702876412,1702435820,1702382018,1701945019,1701538988,1701512838,1701042800,1700918057,1700568819,1700118001,1699663481,1699207288,1699194666,1698752598,1698698494];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 1 | 2 | 0 | 3 |
 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 0 | 2 | 0 | 2 |
 | [Auscorp ](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) | 0 | 2 | 0 | 2 |
 | [Sith Empire](https://ws.tsl.rocks/corp/7deb3943434ee3aa56bb4c29a0fb0831bcbc4b570a58a2809ea1a549b7df328e/) | 3 | 2 | 0 | 5 |
@@ -126,7 +127,6 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) | 2 | 0 | 0 | 2 |
 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) | 2 | 1 | 0 | 3 |
 | [EZCO](https://ws.tsl.rocks/corp/cfad990cabcdc1326c0aa3f93a57d1f0e6ec3cd2949e01e6b08443c3af8282f1/) | 1 | 1 | 0 | 2 |
-| [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 1 | 1 | 0 | 2 |
 | [Legion](https://ws.tsl.rocks/corp/313baaeac1c759ca26e0f4bd3140711cffdfa85c287d4c992dcfb809908cf491/) | 2 | 2 | 0 | 4 |
 | [StarControl](https://ws.tsl.rocks/corp/ec38e4998a2ba7ec763a41d4bd33a2d027e94d6a4b9eace9b11e7d89674cc90c/) | 1 | 2 | 0 | 3 |
 | [Trade Station](https://ws.tsl.rocks/corp/7003e286fe1a04aaa63e3aa318c164856c07e251a94b0496757140f5eda72cd7/) | 3 | 0 | 0 | 3 |
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/30 | 10-21 | [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) |
 | ❌ | 2024/08/30 | 6-66 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | ❌ | 2024/08/24 | 0-32 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) |
 | ❌ | 2024/08/24 | 9-19 | [Auscorp ](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) |
