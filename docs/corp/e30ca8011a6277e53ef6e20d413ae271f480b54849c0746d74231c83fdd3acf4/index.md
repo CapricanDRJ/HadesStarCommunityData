@@ -1,19 +1,21 @@
 ---
 layout: page
 title: ​ALPHA
-description: W:1 L:3 D:0 Bonus ✅
-date: 1724525939
+description: W:2 L:3 D:0 Bonus ✅
+date: 1724983308
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔺  (820)|
-| ELO Competitive | 1186 🔺  (744)|
-| Total Matches | 4 |
-| Wins | 1 |
+| ELO Regular | 1191 🔺  (521)|
+| ELO Competitive | 1202 🔺  (536)|
+| Total Matches | 5 |
+| Wins | 2 |
 | Losses | 3 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 
 
 # Whitestar Match Day
@@ -30,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724093939,1723595973,1723125969,1716139331];
+        let timestamps = [1724551308,1724093939,1723595973,1723125969,1716139331];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/30 | 7-4 | [梨山养老院](https://ws.tsl.rocks/corp/4b0da5a03088d82acb8566ed943c7737a389ee702df4473438eec3f77f2c20c1/) |
 | ✅ | 2024/08/24 | 4-0 | [神圣罗马帝国](https://ws.tsl.rocks/corp/2a71af44aaef82175cd8dfd86c9e3f218a438a7c7e748bae20d8a0d964a984ab/) |
 | ❌ | 2024/08/19 | 4-5 | [无聊不过](https://ws.tsl.rocks/corp/6099bd39cf8510ea3ef2be0fe05df95266b12acfdcbe1bd58a4c33e9c3f25934/) |
 | ❌ | 2024/08/13 | 3-17 | [星河绮梦](https://ws.tsl.rocks/corp/ec0d7f12f69610e8f68f4ea0af9698755a0a1435e0845c27c47fcbec0b1b672a/) |

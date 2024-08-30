@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​很多星球的社会主义团
-description: W:9 L:10 D:1 Bonus ❌
-date: 1723250853
+description: W:10 L:10 D:1 Bonus ✅
+date: 1724986613
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 🔻  (545)|
-| ELO Competitive | 1217 🔻  (448)|
-| Total Matches | 20 |
-| Wins | 9 |
+| ELO Regular | 1205 🔺  (426)|
+| ELO Competitive | 1231 🔺  (384)|
+| Total Matches | 21 |
+| Wins | 10 |
 | Losses | 10 |
 | Draws | 1 |
 | Streak Record | 4 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722818853,1722126770,1717814063,1714520683,1712140079,1707964620,1706794449,1706755686,1706236693,1705633260,1705197822,1704719403,1704283956,1703839266,1703327103,1702742973,1702292155,1701859873,1701259785,1700813162];
+        let timestamps = [1724554613,1722818853,1722126770,1717814063,1714520683,1712140079,1707964620,1706794449,1706755686,1706236693,1705633260,1705197822,1704719403,1704283956,1703839266,1703327103,1702742973,1702292155,1701859873,1701259785,1700813162];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/30 | 5-3 | [斯比纳兰](https://ws.tsl.rocks/corp/ce756ff97542e6fa8d518319e6575aae1d01eb23dd906fee3e3cbb98b442b68f/) |
 | ❌ | 2024/08/10 | 4-29 | [  边界  ](https://ws.tsl.rocks/corp/86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a/) |
 | ✅ | 2024/08/02 | 13-11 | [星河绮梦](https://ws.tsl.rocks/corp/ec0d7f12f69610e8f68f4ea0af9698755a0a1435e0845c27c47fcbec0b1b672a/) |
 | ❌ | 2024/06/13 | 3-20 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) |
