@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Emergence
-description: W:26 L:2 D:0 Bonus ❌
-date: 1722611066
+description: W:27 L:2 D:0 Bonus ✅
+date: 1725129964
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1447 🔺  (20)|
-| ELO Competitive | 1487 🔺  (35)|
-| Total Matches | 28 |
-| Wins | 26 |
+| ELO Regular | 1455 🔺  (18)|
+| ELO Competitive | 1497 🔺  (31)|
+| Total Matches | 29 |
+| Wins | 27 |
 | Losses | 2 |
 | Draws | 0 |
-| Streak | 9 |
+| Streak | 10 |
 | Streak Record | 17 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722179066,1721572909,1720978783,1720351845,1719837643,1719153095,1718625991,1717950281,1717329875,1715515290,1714906578,1714304036,1713698928,1713097101,1712504266,1711972115,1711284319,1710677069,1710074327,1709528673,1708934914,1708322512,1707713396,1707109686,1706505055,1702873107,1701759583,1701150088];
+        let timestamps = [1724697964,1722179066,1721572909,1720978783,1720351845,1719837643,1719153095,1718625991,1717950281,1717329875,1715515290,1714906578,1714304036,1713698928,1713097101,1712504266,1711972115,1711284319,1710677069,1710074327,1709528673,1708934914,1708322512,1707713396,1707109686,1706505055,1702873107,1701759583,1701150088];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -127,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/31 | 37-8 | [Дом Датэ](https://ws.tsl.rocks/corp/10cbcbd91c4084657bdab01ef573cc48170fbc4dd0ab533f96712f1cb6097ff2/) |
 | ✅ | 2024/08/02 | 30-6 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |
 | ✅ | 2024/07/26 | 42-13 | [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/) |
 | ✅ | 2024/07/19 | 43-3 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |

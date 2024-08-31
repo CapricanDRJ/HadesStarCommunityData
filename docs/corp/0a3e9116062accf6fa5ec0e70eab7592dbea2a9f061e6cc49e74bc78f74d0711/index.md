@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Justice Vengers
-description: W:14 L:2 D:1 Bonus ✅
+description: W:14 L:2 D:1 Bonus ❌
 date: 1724517523
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1350 🔺  (74)|
-| ELO Competitive | 1384 🔺  (105)|
+| ELO Competitive | 1384 🔺  (107)|
 | Total Matches | 17 |
 | Wins | 14 |
 | Losses | 2 |

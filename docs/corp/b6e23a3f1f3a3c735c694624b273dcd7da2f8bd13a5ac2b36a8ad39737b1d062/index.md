@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Omega Alpha
-description: W:29 L:4 D:0 Bonus ✅
+description: W:29 L:4 D:0 Bonus ❌
 date: 1724515720
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

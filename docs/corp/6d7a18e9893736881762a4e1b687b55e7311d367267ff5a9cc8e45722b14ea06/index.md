@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​U.S.A
-description: W:9 L:14 D:0 Bonus ❌
-date: 1723862087
+description: W:9 L:16 D:0 Bonus ❌
+date: 1725136276
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1162 🔺  (960)|
-| ELO Competitive | 1242 🔺  (349)|
-| Total Matches | 23 |
+| ELO Regular | 1142 🔻  (1050)|
+| ELO Competitive | 1233 🔻  (376)|
+| Total Matches | 25 |
 | Wins | 9 |
-| Losses | 14 |
+| Losses | 16 |
 | Draws | 0 |
 | Streak Record | 3 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723430087,1723422877,1720666501,1718646432,1718032023,1714970271,1711389189,1711381075,1710446605,1710346250,1709022057,1709000724,1707757869,1707756366,1706057593,1706042568,1704924060,1704916246,1704109957,1702675052,1701920980,1701894234,1701274513];
+        let timestamps = [1724704276,1724704276,1723430087,1723422877,1720666501,1718646432,1718032023,1714970271,1711389189,1711381075,1710446605,1710346250,1709022057,1709000724,1707757869,1707756366,1706057593,1706042568,1704924060,1704916246,1704109957,1702675052,1701920980,1701894234,1701274513];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/31 | 1-27 | [Kratos](https://ws.tsl.rocks/corp/1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b/) |
+| ❌ | 2024/08/31 | 3-15 | [Север РусКорп](https://ws.tsl.rocks/corp/39eeae12a2a5fead3330938b8f38c71aab465634b732303dad7b2a7d5f472004/) |
 | ✅ | 2024/08/17 | 7-3 | [佛矿寺](https://ws.tsl.rocks/corp/64f8afd95b7004e9d5a442da55644ee3ce64a9a8e82345c458d757b527e40624/) |
 | ❌ | 2024/08/17 | 0-20 | [NoweUkladyII](https://ws.tsl.rocks/corp/9d1a50e524f7abc0623ab7e010875dfcce9e5682a06ebc4aee47e972d258493c/) |
 | ❌ | 2024/07/16 | 2-18 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) |
