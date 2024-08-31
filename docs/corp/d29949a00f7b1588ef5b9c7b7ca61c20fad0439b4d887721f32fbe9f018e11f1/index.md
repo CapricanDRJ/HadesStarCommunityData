@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Elysium
-description: W:31 L:11 D:0 Bonus ✅
+description: W:31 L:11 D:0 Bonus ❌
 date: 1725071661
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
