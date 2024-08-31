@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Hun Generals
-description: W:9 L:38 D:0 Bonus ❌
-date: 1724494380
+description: W:9 L:39 D:0 Bonus ❌
+date: 1725076385
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 976 🔻  (1223)|
-| ELO Competitive | 1126 🔻  (1161)|
-| Total Matches | 47 |
+| ELO Regular | 973 🔻  (1223)|
+| ELO Competitive | 1123 🔻  (1167)|
+| Total Matches | 48 |
 | Wins | 9 |
-| Losses | 38 |
+| Losses | 39 |
 | Draws | 0 |
 | Streak Record | 3 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724062380,1724060878,1723461037,1723460737,1722857315,1722847998,1722408654,1722232860,1721661262,1721596054,1721017550,1720509685,1720419765,1719897145,1719643817,1719414836,1719203885,1718698055,1718647935,1718084310,1718034729,1717450108,1717438984,1716802145,1716300067,1715748142,1715285145,1714802318,1714356322,1713865973,1713384069,1712916809,1712484128,1712047835,1711061667,1710628995,1709955036,1709507945,1708895859,1708292769,1707685455,1707100372,1706476511,1705870375,1705260032,1704231673,1701033784];
+        let timestamps = [1724644385,1724062380,1724060878,1723461037,1723460737,1722857315,1722847998,1722408654,1722232860,1721661262,1721596054,1721017550,1720509685,1720419765,1719897145,1719643817,1719414836,1719203885,1718698055,1718647935,1718084310,1718034729,1717450108,1717438984,1716802145,1716300067,1715748142,1715285145,1714802318,1714356322,1713865973,1713384069,1712916809,1712484128,1712047835,1711061667,1710628995,1709955036,1709507945,1708895859,1708292769,1707685455,1707100372,1706476511,1705870375,1705260032,1704231673,1701033784];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 0 | 3 | 0 | 3 |
 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) | 0 | 2 | 0 | 2 |
 | [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/) | 1 | 1 | 0 | 2 |
 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) | 2 | 0 | 0 | 2 |
@@ -124,12 +125,12 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) | 1 | 1 | 0 | 2 |
 | [ANZAC Warriors](https://ws.tsl.rocks/corp/dbb190c3127dbab2a3d6d58f1f8f63425f1dbd1949f6442fb2d162e66246b484/) | 0 | 3 | 0 | 3 |
 | [Nine's Own Goal](https://ws.tsl.rocks/corp/fd47245550708347721e341d893b73e7c23e0f3624053c47ce666e55641c9e9e/) | 0 | 2 | 0 | 2 |
-| [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 0 | 2 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/31 | 5-34 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) |
 | ❌ | 2024/08/24 | 1-28 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |
 | ❌ | 2024/08/24 | 12-23 | [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/) |
 | ❌ | 2024/08/17 | 15-30 | [Soylent Corp\.](https://ws.tsl.rocks/corp/9f978f9cca690b76981d538d63260cd39d51427e5d69412113ccad02cc7cac2d/) |
