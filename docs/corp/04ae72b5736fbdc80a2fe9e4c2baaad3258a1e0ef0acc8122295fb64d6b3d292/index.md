@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​three kitties
-description: W:34 L:11 D:1 Bonus ✅
+description: W:34 L:11 D:1 Bonus ❌
 date: 1724487170
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1387 🔺  (48)|
-| ELO Competitive | 1431 🔺  (70)|
+| ELO Regular | 1387 🔺  (47)|
+| ELO Competitive | 1431 🔺  (71)|
 | Total Matches | 46 |
 | Wins | 34 |
 | Losses | 11 |
