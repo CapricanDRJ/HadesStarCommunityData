@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Cyber Star
-description: W:25 L:13 D:0 Bonus ❌
-date: 1724517523
+description: W:25 L:14 D:0 Bonus ❌
+date: 1725111630
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1319 🔻  (103)|
-| ELO Competitive | 1357 🔻  (143)|
-| Total Matches | 38 |
+| ELO Regular | 1307 🔻  (122)|
+| ELO Competitive | 1345 🔻  (152)|
+| Total Matches | 39 |
 | Wins | 25 |
-| Losses | 13 |
+| Losses | 14 |
 | Draws | 0 |
 | Streak Record | 7 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724085523,1723335127,1722718481,1722027283,1721525726,1720904545,1720306172,1719737876,1719090288,1718494373,1717885064,1717289899,1716672328,1716071429,1715460908,1714858809,1714290215,1713644853,1713062245,1712437860,1711834197,1711229333,1710633802,1710025051,1709415394,1708814424,1708214334,1707604317,1707003608,1706403180,1705564140,1704558325,1703939264,1703360168,1702785048,1702143083,1701061944,1700071056];
+        let timestamps = [1724679630,1724085523,1723335127,1722718481,1722027283,1721525726,1720904545,1720306172,1719737876,1719090288,1718494373,1717885064,1717289899,1716672328,1716071429,1715460908,1714858809,1714290215,1713644853,1713062245,1712437860,1711834197,1711229333,1710633802,1710025051,1709415394,1708814424,1708214334,1707604317,1707003608,1706403180,1705564140,1704558325,1703939264,1703360168,1702785048,1702143083,1701061944,1700071056];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/31 | 0-35 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ❌ | 2024/08/24 | 0-26 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) |
 | ❌ | 2024/08/16 | 0-22 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) |
 | ❌ | 2024/08/08 | 3-5 | [Created](https://ws.tsl.rocks/corp/04182a4606d981d1c410b0c058248e428765c672442d912ec47218ace9004e74/) |

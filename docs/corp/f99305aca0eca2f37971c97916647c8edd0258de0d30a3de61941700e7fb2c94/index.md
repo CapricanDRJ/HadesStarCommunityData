@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Corvus Ind.
-description: W:25 L:9 D:0 Bonus ✅
+description: W:25 L:9 D:0 Bonus ❌
 date: 1724498888
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1382 🔺  (51)|
-| ELO Competitive | 1428 🔺  (74)|
+| ELO Regular | 1382 🔺  (50)|
+| ELO Competitive | 1428 🔺  (73)|
 | Total Matches | 34 |
 | Wins | 25 |
 | Losses | 9 |
