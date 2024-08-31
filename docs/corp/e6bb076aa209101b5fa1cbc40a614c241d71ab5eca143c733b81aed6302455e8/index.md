@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​逐光起航
-description: W:5 L:27 D:5 Bonus ❌
-date: 1724926208
+description: W:5 L:28 D:5 Bonus ❌
+date: 1725066716
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1045 🔻  (1193)|
+| ELO Regular | 1035 🔻  (1198)|
 | ELO Competitive | 1082 🔻  (1201)|
-| Total Matches | 37 |
+| Total Matches | 38 |
 | Wins | 5 |
-| Losses | 27 |
+| Losses | 28 |
 | Draws | 5 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724494208,1724028127,1723361568,1723285839,1722840781,1722317602,1721359040,1720857653,1716897111,1716893204,1715859906,1715425447,1714903873,1714095522,1713507853,1713012632,1712301422,1711843083,1710881994,1710243490,1709726137,1708857088,1708373602,1707720907,1707283789,1706794449,1706285075,1705837610,1705395554,1704951101,1704348868,1703839266,1703254377,1702673364,1701754475,1701215011,1699956545];
+        let timestamps = [1724634716,1724494208,1724028127,1723361568,1723285839,1722840781,1722317602,1721359040,1720857653,1716897111,1716893204,1715859906,1715425447,1714903873,1714095522,1713507853,1713012632,1712301422,1711843083,1710881994,1710243490,1709726137,1708857088,1708373602,1707720907,1707283789,1706794449,1706285075,1705837610,1705395554,1704951101,1704348868,1703839266,1703254377,1702673364,1701754475,1701215011,1699956545];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/08/31 | 0-1 | [舰队联邦\[FF\]](https://ws.tsl.rocks/corp/a416c5b53512093490461bf0dab583fbb401f5850470774f6de02dafe6ca3655/) |
 | ❌ | 2024/08/29 | 2-5 | [共产国际](https://ws.tsl.rocks/corp/375b1efc576c9d15f93249680dcd6dccaf2ad07cd520b85242d0b704d3a494c6/) |
 | ↔️ | 2024/08/24 | 4-4 | [梨山养老院](https://ws.tsl.rocks/corp/4b0da5a03088d82acb8566ed943c7737a389ee702df4473438eec3f77f2c20c1/) |
 | ❌ | 2024/08/16 | 0-17 | [哈迪斯之星，启动！](https://ws.tsl.rocks/corp/bc58305a02f7392f340d26a3becd4784de7360dd5264df9e85d73116b93496d8/) |

@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​KLM
-description: W:8 L:25 D:0 Bonus ❌
-date: 1724216386
+description: W:9 L:25 D:0 Bonus ✅
+date: 1725065653
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1120 🔻  (1110)|
-| ELO Competitive | 1161 🔻  (1052)|
-| Total Matches | 33 |
-| Wins | 8 |
+| ELO Regular | 1145 🔺  (1038)|
+| ELO Competitive | 1188 🔺  (684)|
+| Total Matches | 34 |
+| Wins | 9 |
 | Losses | 25 |
 | Draws | 0 |
 | Streak Record | 4 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723784386,1723158426,1722702853,1721952458,1721429567,1720656284,1720052824,1719443089,1718847171,1718226159,1717639144,1716943402,1716338526,1715748142,1715212435,1714598206,1714119254,1713406602,1712694475,1712112140,1711516886,1707267866,1706686567,1706065405,1705451755,1704686650,1703993664,1702974985,1702257123,1701323201,1700441398,1699686624,1698967480];
+        let timestamps = [1724633653,1723784386,1723158426,1722702853,1721952458,1721429567,1720656284,1720052824,1719443089,1718847171,1718226159,1717639144,1716943402,1716338526,1715748142,1715212435,1714598206,1714119254,1713406602,1712694475,1712112140,1711516886,1707267866,1706686567,1706065405,1705451755,1704686650,1703993664,1702974985,1702257123,1701323201,1700441398,1699686624,1698967480];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -128,6 +128,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/08/31 | 24-23 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) |
 | ❌ | 2024/08/21 | 15-33 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ✅ | 2024/08/13 | 46-37 | [Croce del Sud](https://ws.tsl.rocks/corp/d0899d3aea0aaed6c7d87de378c6c82274ff8dcdabad391d44c2f08f98039af1/) |
 | ✅ | 2024/08/08 | 48-9 | [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) |
