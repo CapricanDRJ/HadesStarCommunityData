@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​揽月宫
-description: W:3 L:2 D:0 Bonus ✅
-date: 1724717959
+description: W:4 L:2 D:0 Bonus ✅
+date: 1725150397
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1227 🔺  (302)|
-| ELO Competitive | 1231 🔺  (382)|
-| Total Matches | 5 |
-| Wins | 3 |
+| ELO Regular | 1249 🔺  (226)|
+| ELO Competitive | 1254 🔺  (317)|
+| Total Matches | 6 |
+| Wins | 4 |
 | Losses | 2 |
 | Draws | 0 |
-| Streak | 3 |
-| Streak Record | 3 |
+| Streak | 4 |
+| Streak Record | 4 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724285959,1723849241,1723389219,1722502411,1720823398];
+        let timestamps = [1724718397,1724285959,1723849241,1723389219,1722502411,1720823398];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/01 | 15-2 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ✅ | 2024/08/27 | 15-3 | [羽共和体](https://ws.tsl.rocks/corp/61b6e0502a087307a2ecf50e5d84f6123ad19984dc5790c997f16a676213aa7e/) |
 | ✅ | 2024/08/21 | 19-1 | [UFSG](https://ws.tsl.rocks/corp/9c9b98c2bfcf5411f6bc5502ed3163b92c8733b540071e4b70dc0bf8b0701a97/) |
 | ✅ | 2024/08/16 | 15-0 | [Fairy tail ](https://ws.tsl.rocks/corp/44e6a82c06b84bc5579df0e42bc462f36313b0060861d25228856930f6c19eac/) |

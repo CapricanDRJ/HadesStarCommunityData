@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​Eretria 
-description: W:28 L:25 D:0 Bonus ✅
+description: W:28 L:25 D:0 Bonus ❌
 date: 1724967085
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1237 🔻  (265)|
+| ELO Regular | 1237 🔻  (266)|
 | ELO Competitive | 1266 🔻  (288)|
 | Total Matches | 53 |
 | Wins | 28 |

@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​YETI Collective
-description: W:20 L:34 D:0 Bonus ✅
+description: W:20 L:34 D:0 Bonus ❌
 date: 1725132670
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1088 🔻  (1163)|
-| ELO Competitive | 1187 🔻  (708)|
+| ELO Regular | 1088 🔻  (1165)|
+| ELO Competitive | 1187 🔻  (709)|
 | Total Matches | 54 |
 | Wins | 20 |
 | Losses | 34 |
