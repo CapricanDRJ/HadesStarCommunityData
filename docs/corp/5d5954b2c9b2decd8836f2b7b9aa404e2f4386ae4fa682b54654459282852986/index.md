@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​GermanIndustrie
-description: W:9 L:2 D:1 Bonus ✅
+description: W:9 L:2 D:1 Bonus ❌
 date: 1724591744
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
