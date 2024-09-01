@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​TeddisaurusWrex
-description: W:38 L:9 D:0 Bonus ✅
+description: W:38 L:9 D:0 Bonus ❌
 date: 1725105016
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
