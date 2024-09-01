@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​TheBasics
-description: W:33 L:46 D:1 Bonus ✅
+description: W:33 L:46 D:1 Bonus ❌
 date: 1725055137
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1095 🔻  (1157)|
+| ELO Regular | 1095 🔻  (1156)|
 | ELO Competitive | 1319 🔻  (191)|
 | Total Matches | 80 |
 | Wins | 33 |

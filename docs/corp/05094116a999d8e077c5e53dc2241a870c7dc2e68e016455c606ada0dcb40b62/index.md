@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​地球星际集团
-description: W:0 L:26 D:9 Bonus ❌
-date: 1719595618
+description: W:0 L:26 D:10 Bonus ❌
+date: 1725193704
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 977 🔻  (1224)|
-| ELO Competitive | 1075 🔻  (1209)|
-| Total Matches | 35 |
+| ELO Regular | 984 🔺  (1224)|
+| ELO Competitive | 1081 🔺  (1204)|
+| Total Matches | 36 |
 | Wins | 0 |
 | Losses | 26 |
-| Draws | 9 |
+| Draws | 10 |
 
 
 # Whitestar Match Day
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1719163618,1719152494,1718627640,1718531332,1718076198,1717845687,1716678046,1716650386,1715507204,1715487947,1712552566,1712528690,1711856429,1711853725,1710630785,1709730283,1709061728,1708791885,1708604673,1707975736,1707530245,1707087453,1706648282,1706637033,1706140533,1706017320,1705657599,1705179215,1705109469,1704690256,1704660810,1704152638,1704105448,1703644458,1703162715];
+        let timestamps = [1724761704,1719163618,1719152494,1718627640,1718531332,1718076198,1717845687,1716678046,1716650386,1715507204,1715487947,1712552566,1712528690,1711856429,1711853725,1710630785,1709730283,1709061728,1708791885,1708604673,1707975736,1707530245,1707087453,1706648282,1706637033,1706140533,1706017320,1705657599,1705179215,1705109469,1704690256,1704660810,1704152638,1704105448,1703644458,1703162715];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/09/01 | 0-0 | [超新星联盟](https://ws.tsl.rocks/corp/c3667794c88fd0a09f565dc3b4fed5325f131a616d01d0f6890755b44997d0a1/) |
 | ❌ | 2024/06/28 | 0-4 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
 | ❌ | 2024/06/28 | 0-4 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |
 | ❌ | 2024/06/22 | 0-2 | [Jalisco México](https://ws.tsl.rocks/corp/495236ab2171ccbcdad0da5529f080405b1ddd081eda98c7255a8cffe5b114e4/) |
