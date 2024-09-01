@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Galaktika corp
-description: W:16 L:9 D:2 Bonus ❌
-date: 1724751010
+description: W:16 L:10 D:2 Bonus ❌
+date: 1725217707
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1257 🔻  (205)|
-| ELO Competitive | 1303 🔻  (216)|
-| Total Matches | 27 |
+| ELO Regular | 1240 🔻  (254)|
+| ELO Competitive | 1284 🔻  (253)|
+| Total Matches | 28 |
 | Wins | 16 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 2 |
 | Streak Record | 5 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724319010,1723858612,1723412362,1722978728,1722303881,1721712918,1721219212,1720766585,1720149900,1719287424,1718823133,1718357791,1717572119,1717078926,1715793511,1715203724,1712776499,1711185455,1709052712,1707999474,1707077836,1706633978,1705162660,1703425079,1702311692,1701443114,1699964420];
+        let timestamps = [1724785707,1724319010,1723858612,1723412362,1722978728,1722303881,1721712918,1721219212,1720766585,1720149900,1719287424,1718823133,1718357791,1717572119,1717078926,1715793511,1715203724,1712776499,1711185455,1709052712,1707999474,1707077836,1706633978,1705162660,1703425079,1702311692,1701443114,1699964420];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/01 | 13-15 | [ЭКЛИПТИКА](https://ws.tsl.rocks/corp/74a43079a2f24e8cfe1820f6cd0b33254ea546e0a99b7873a0146a762bdbc432/) |
 | ❌ | 2024/08/27 | 8-13 | [Retarts](https://ws.tsl.rocks/corp/1556331f722d00268e3c524b12efedac51051cf48e46b2513675774b9315a155/) |
 | ❌ | 2024/08/22 | 11-17 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
 | ❌ | 2024/08/16 | 7-8 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |

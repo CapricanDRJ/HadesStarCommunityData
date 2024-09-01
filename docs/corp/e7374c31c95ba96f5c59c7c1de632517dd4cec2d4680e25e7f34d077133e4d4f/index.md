@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​九州分团
-description: W:36 L:44 D:2 Bonus ✅
+description: W:36 L:44 D:2 Bonus ❌
 date: 1725045520
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1211 🔻  (402)|
-| ELO Competitive | 1329 🔻  (176)|
+| ELO Regular | 1211 🔻  (403)|
+| ELO Competitive | 1329 🔻  (175)|
 | Total Matches | 82 |
 | Wins | 36 |
 | Losses | 44 |
