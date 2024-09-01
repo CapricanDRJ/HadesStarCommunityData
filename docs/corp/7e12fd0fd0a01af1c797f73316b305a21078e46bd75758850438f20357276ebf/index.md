@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​碧霄殿
-description: W:7 L:5 D:0 Bonus ✅
-date: 1724739592
+description: W:7 L:6 D:0 Bonus ✅
+date: 1725175032
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1234 🔺  (277)|
-| ELO Competitive | 1281 🔺  (259)|
-| Total Matches | 12 |
+| ELO Regular | 1228 🔻  (294)|
+| ELO Competitive | 1275 🔻  (272)|
+| Total Matches | 13 |
 | Wins | 7 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 0 |
 | Streak Record | 4 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724307592,1723845994,1723177954,1722744320,1722744020,1722220241,1721691617,1721257418,1720272810,1719835239,1718626893,1700542075];
+        let timestamps = [1724743032,1724307592,1723845994,1723177954,1722744320,1722744020,1722220241,1721691617,1721257418,1720272810,1719835239,1718626893,1700542075];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/01 | 1-32 | [Mercury Sunset](https://ws.tsl.rocks/corp/2771ec0a0e9523f8a7b62dd470c9ab87bf2bcf2b13fb47f6f97ea826337b2b20/) |
 | ✅ | 2024/08/27 | 7-1 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) |
 | ❌ | 2024/08/21 | 3-17 | [Últimafronteira](https://ws.tsl.rocks/corp/27e96f432a078f197bb5e4c34480ccabc05a9ee48e7bb04d95288fda15e94d3c/) |
 | ✅ | 2024/08/14 | 20-2 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |

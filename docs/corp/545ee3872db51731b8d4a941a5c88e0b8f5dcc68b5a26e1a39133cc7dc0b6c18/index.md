@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​中国星际联盟·第一自治州
-description: W:1 L:3 D:0 Bonus ✅
+description: W:1 L:3 D:0 Bonus ❌
 date: 1725025680
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

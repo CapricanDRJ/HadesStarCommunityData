@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​青丘湖
-description: W:3 L:2 D:0 Bonus ✅
+description: W:3 L:2 D:0 Bonus ❌
 date: 1724563197
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1215 🔺  (370)|
+| ELO Regular | 1215 🔺  (369)|
 | ELO Competitive | 1224 🔺  (411)|
 | Total Matches | 5 |
 | Wins | 3 |
