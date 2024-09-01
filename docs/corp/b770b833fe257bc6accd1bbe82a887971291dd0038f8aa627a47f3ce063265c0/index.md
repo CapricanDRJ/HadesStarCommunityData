@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​ЧВК "Котики"
-description: W:25 L:15 D:3 Bonus ✅
+description: W:25 L:15 D:3 Bonus ❌
 date: 1725057240
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
