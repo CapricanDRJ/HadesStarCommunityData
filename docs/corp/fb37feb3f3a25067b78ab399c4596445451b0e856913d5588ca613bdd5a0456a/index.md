@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Castellón 
-description: W:1 L:1 D:1 Bonus ❌
-date: 1717146883
+description: W:1 L:2 D:1 Bonus ❌
+date: 1725305154
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 🔻  (448)|
-| ELO Competitive | 1203 🔻  (533)|
-| Total Matches | 3 |
+| ELO Regular | 1185 🔻  (645)|
+| ELO Competitive | 1188 🔻  (685)|
+| Total Matches | 4 |
 | Wins | 1 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 1 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1716714883,1715546385,1714912586];
+        let timestamps = [1724873154,1716714883,1715546385,1714912586];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/02 | 0-3 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 | ↔️ | 2024/05/31 | 0-0 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) |
 | ❌ | 2024/05/17 | 0-8 | [ZION](https://ws.tsl.rocks/corp/99ac8e5c0f22878b9a4458953d0c712ada17ef36ae195ccf39c7921dc996adfe/) |
 | ✅ | 2024/05/10 | 1-0 | [探索舰队](https://ws.tsl.rocks/corp/8c465701390ed74d4d115e58d66289afb2eeef6247ca351a4cf88a0046e6fe55/) |
