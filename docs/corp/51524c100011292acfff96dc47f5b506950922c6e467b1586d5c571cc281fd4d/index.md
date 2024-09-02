@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​永恒之梦
-description: W:5 L:3 D:2 Bonus ❌
-date: 1724736888
+description: W:6 L:3 D:2 Bonus ✅
+date: 1725284714
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1219 🔻  (325)|
-| ELO Competitive | 1234 🔻  (370)|
-| Total Matches | 10 |
-| Wins | 5 |
+| ELO Regular | 1225 🔺  (309)|
+| ELO Competitive | 1243 🔺  (350)|
+| Total Matches | 11 |
+| Wins | 6 |
 | Losses | 3 |
 | Draws | 2 |
 | Streak Record | 3 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724304888,1723778928,1723755531,1723013581,1723004867,1722569423,1722569123,1722091905,1721635716,1721203587];
+        let timestamps = [1724852714,1724304888,1723778928,1723755531,1723013581,1723004867,1722569423,1722569123,1722091905,1721635716,1721203587];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/02 | 3-0 | [地球星际集团](https://ws.tsl.rocks/corp/05094116a999d8e077c5e53dc2241a870c7dc2e68e016455c606ada0dcb40b62/) |
 | ↔️ | 2024/08/27 | 0-0 | [舰队联邦\[FF\]](https://ws.tsl.rocks/corp/a416c5b53512093490461bf0dab583fbb401f5850470774f6de02dafe6ca3655/) |
 | ✅ | 2024/08/21 | 3-0 | [Weyland Yutani ](https://ws.tsl.rocks/corp/9799c33a0ecdcf321ad446a18f4e7f520610d26ec5f13e0c6b7a411dec2e2e46/) |
 | ✅ | 2024/08/20 | 3-0 | [₩\.BRASIL\.₩](https://ws.tsl.rocks/corp/ff7f01b2f1db7b9c75e49da4c7367325905c020eba282a97f69f33d8c19419aa/) |
