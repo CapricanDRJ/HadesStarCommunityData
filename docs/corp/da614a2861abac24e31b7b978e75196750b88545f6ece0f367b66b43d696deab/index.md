@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​联合宇宙
-description: W:4 L:14 D:0 Bonus ❌
-date: 1707551902
+description: W:4 L:15 D:0 Bonus ❌
+date: 1725261363
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1084 🔻  (1172)|
-| ELO Competitive | 1129 🔻  (1163)|
-| Total Matches | 18 |
+| ELO Regular | 1071 🔻  (1180)|
+| ELO Competitive | 1117 🔻  (1179)|
+| Total Matches | 19 |
 | Wins | 4 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1707119902,1706415799,1706403180,1704078708,1703634646,1703119385,1702539507,1702483605,1701964024,1701952232,1701438304,1701042800,1701004922,1700568218,1700566715,1699746152,1699525197,1698855091];
+        let timestamps = [1724829363,1707119902,1706415799,1706403180,1704078708,1703634646,1703119385,1702539507,1702483605,1701964024,1701952232,1701438304,1701042800,1701004922,1700568218,1700566715,1699746152,1699525197,1698855091];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/02 | 0-7 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
 | ❌ | 2024/02/10 | 0-4 | [公共星际集团](https://ws.tsl.rocks/corp/f57faccefed6ab561fa61ac8e6f60708928e3a8b5caa5172c97c2a29348aed37/) |
 | ❌ | 2024/02/02 | 0-12 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |
 | ❌ | 2024/02/02 | 0-12 | [Cyber Star](https://ws.tsl.rocks/corp/358bbbde0af23c5f41cdb4fde95bb713989c7812b5a0358f7c34ecceca19916c/) |

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Crazy Elite
-description: W:30 L:42 D:0 Bonus ✅
+description: W:30 L:42 D:0 Bonus ❌
 date: 1725091793
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
