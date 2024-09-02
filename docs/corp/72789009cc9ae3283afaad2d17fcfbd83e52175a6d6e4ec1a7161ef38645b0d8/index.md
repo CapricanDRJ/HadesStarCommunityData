@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Red Alliance
-description: W:9 L:9 D:0 Bonus ✅
+description: W:9 L:9 D:0 Bonus ❌
 date: 1724808710
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1180 🔻  (783)|
-| ELO Competitive | 1243 🔻  (346)|
+| ELO Competitive | 1243 🔻  (347)|
 | Total Matches | 18 |
 | Wins | 9 |
 | Losses | 9 |

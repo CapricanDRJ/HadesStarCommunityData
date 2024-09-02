@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Свободный флот
-description: W:31 L:34 D:1 Bonus ✅
+description: W:31 L:34 D:1 Bonus ❌
 date: 1725089991
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
