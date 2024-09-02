@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Рейнджеры
-description: W:6 L:15 D:0 Bonus ❌
-date: 1723732568
+description: W:6 L:16 D:0 Bonus ❌
+date: 1725244750
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1118 🔻  (1121)|
-| ELO Competitive | 1145 🔻  (1119)|
-| Total Matches | 21 |
+| ELO Regular | 1109 🔻  (1143)|
+| ELO Competitive | 1140 🔻  (1136)|
+| Total Matches | 22 |
 | Wins | 6 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723300568,1717401108,1716203923,1715497562,1714647175,1713724771,1712653304,1711804144,1710666852,1709056018,1708058073,1707281385,1706601821,1705838211,1704991670,1703605088,1702806084,1702195377,1701593081,1700377074,1699164017];
+        let timestamps = [1724812750,1723300568,1717401108,1716203923,1715497562,1714647175,1713724771,1712653304,1711804144,1710666852,1709056018,1708058073,1707281385,1706601821,1705838211,1704991670,1703605088,1702806084,1702195377,1701593081,1700377074,1699164017];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/02 | 0-17 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) |
 | ❌ | 2024/08/15 | 8-18 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ✅ | 2024/06/08 | 21-0 | [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) |
 | ❌ | 2024/05/25 | 15-26 | [Альянс](https://ws.tsl.rocks/corp/a7d0478626828d7428aeeb5115f68e790f7e4c8a7f917812ec2241178e1c3f50/) |

@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​星环建设集团
-description: W:6 L:6 D:2 Bonus ❌
-date: 1718100291
+description: W:7 L:6 D:2 Bonus ✅
+date: 1725243104
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻  (559)|
-| ELO Competitive | 1200 🔻  (567)|
-| Total Matches | 14 |
-| Wins | 6 |
+| ELO Regular | 1204 🔺  (432)|
+| ELO Competitive | 1215 🔺  (474)|
+| Total Matches | 15 |
+| Wins | 7 |
 | Losses | 6 |
 | Draws | 2 |
 | Streak Record | 2 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1717668291,1717181399,1716721608,1716219851,1715782091,1715271923,1714836273,1714366536,1713918255,1713453471,1713018673,1712563532,1712087203,1711610629];
+        let timestamps = [1724811104,1717668291,1717181399,1716721608,1716219851,1715782091,1715271923,1714836273,1714366536,1713918255,1713453471,1713018673,1712563532,1712087203,1711610629];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/02 | 5-0 | [Harpias](https://ws.tsl.rocks/corp/50c6c340f8c3233d778440793c211c5e07356b8a40a06d238163e76f9b4a24b9/) |
 | ❌ | 2024/06/11 | 2-10 | [Sich\.ua](https://ws.tsl.rocks/corp/9fcd6d7c4fe7f8e39acf48585dfe9c6d3d14edc7781fe8caf85618b3e98c685d/) |
 | ❌ | 2024/06/05 | 0-5 | [Star Fleet](https://ws.tsl.rocks/corp/b50e0529c2b2e86bae23d0fb4cbcdc4bff7615c45efb95150747a89dd3ea0231/) |
 | ✅ | 2024/05/31 | 3-0 | [Danish Oil](https://ws.tsl.rocks/corp/f836c8a9410599558f58138318bf3aa93a3eea49dd41e376d521ec13cc1ab967/) |

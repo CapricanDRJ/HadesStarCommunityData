@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Алый Феникс
-description: W:5 L:9 D:0 Bonus ✅
+description: W:5 L:9 D:0 Bonus ❌
 date: 1724621200
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

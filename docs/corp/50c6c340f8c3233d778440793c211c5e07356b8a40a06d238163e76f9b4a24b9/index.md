@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Harpias
-description: W:0 L:0 D:2 Bonus ❌
-date: 1717993903
+description: W:0 L:1 D:2 Bonus ❌
+date: 1725243104
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1200 🔻  (465)|
-| ELO Competitive | 1201 🔺  (550)|
-| Total Matches | 2 |
+| ELO Regular | 1184 🔻  (728)|
+| ELO Competitive | 1186 🔻  (766)|
+| Total Matches | 3 |
 | Wins | 0 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 2 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1717561903,1703861144];
+        let timestamps = [1724811104,1717561903,1703861144];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/02 | 0-5 | [星环建设集团](https://ws.tsl.rocks/corp/85422294545c4561b468821bbbbe277a0d7f09c6ab45fedb2a43cbaa36d32f63/) |
 | ↔️ | 2024/06/10 | 0-0 | [共和服务器](https://ws.tsl.rocks/corp/4e0ba02fcf6a27709a0ba2cb1966d1dd8f36c8b2f9c1e98ac4fe5670e8f4a8cf/) |
 | ↔️ | 2024/01/03 | 0-0 | [Noble](https://ws.tsl.rocks/corp/a743363bbba6a586851cfc2a6c1a567bb1b122f6516757c4f75ed5184a177caf/) |
 
