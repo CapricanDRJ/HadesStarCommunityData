@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​₩.BRASIL.₩
-description: W:1 L:10 D:4 Bonus ✅
+description: W:1 L:10 D:4 Bonus ❌
 date: 1725160311
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

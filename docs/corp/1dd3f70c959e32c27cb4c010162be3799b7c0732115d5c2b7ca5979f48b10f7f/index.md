@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​萌新的收留所
-description: W:17 L:5 D:1 Bonus ✅
+description: W:17 L:5 D:1 Bonus ❌
 date: 1724653949
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1333 🔺  (86)|
+| ELO Regular | 1333 🔺  (87)|
 | ELO Competitive | 1360 🔺  (139)|
 | Total Matches | 23 |
 | Wins | 17 |

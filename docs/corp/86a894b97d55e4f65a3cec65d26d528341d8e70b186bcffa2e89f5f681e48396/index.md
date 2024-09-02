@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Stella☆Glow
-description: W:29 L:13 D:1 Bonus ❌
-date: 1724638024
+description: W:30 L:13 D:1 Bonus ✅
+date: 1725275999
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1320 🔺  (101)|
-| ELO Competitive | 1363 🔺  (135)|
-| Total Matches | 43 |
-| Wins | 29 |
+| ELO Regular | 1329 🔺  (90)|
+| ELO Competitive | 1372 🔺  (125)|
+| Total Matches | 44 |
+| Wins | 30 |
 | Losses | 13 |
 | Draws | 1 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 9 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724206024,1723608292,1723030408,1722388523,1721825640,1721214705,1720585655,1719975280,1719437381,1718785865,1718212934,1717603981,1716992681,1716308482,1715795315,1715178183,1714574767,1713964670,1713359423,1712745245,1712152400,1711540319,1710942980,1710345649,1709731785,1709131735,1708530455,1707912030,1707304520,1706715717,1706097554,1705503438,1704900614,1704306498,1703692239,1703014557,1702483605,1701877700,1701300965,1700670403,1700061136,1699534211,1698871022];
+        let timestamps = [1724843999,1724206024,1723608292,1723030408,1722388523,1721825640,1721214705,1720585655,1719975280,1719437381,1718785865,1718212934,1717603981,1716992681,1716308482,1715795315,1715178183,1714574767,1713964670,1713359423,1712745245,1712152400,1711540319,1710942980,1710345649,1709731785,1709131735,1708530455,1707912030,1707304520,1706715717,1706097554,1705503438,1704900614,1704306498,1703692239,1703014557,1702483605,1701877700,1701300965,1700670403,1700061136,1699534211,1698871022];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -129,6 +129,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/02 | 21-19 | [Mass Effect](https://ws.tsl.rocks/corp/6f715653bec3925d9c3acd7c2388fe8e1c79332146894ed424f57bd2636de8c7/) |
 | ✅ | 2024/08/26 | 40-0 | [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046/) |
 | ✅ | 2024/08/19 | 33-11 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) |
 | ❌ | 2024/08/12 | 8-29 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) |

@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Regulus
-description: W:7 L:13 D:0 Bonus ❌
-date: 1723284807
+description: W:8 L:13 D:0 Bonus ✅
+date: 1725280807
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1130 🔻  (1094)|
-| ELO Competitive | 1204 🔻  (529)|
-| Total Matches | 20 |
-| Wins | 7 |
+| ELO Regular | 1145 🔺  (1040)|
+| ELO Competitive | 1220 🔺  (425)|
+| Total Matches | 21 |
+| Wins | 8 |
 | Losses | 13 |
 | Draws | 0 |
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722852807,1722767159,1718003470,1713600980,1711769890,1706320537,1705213746,1705205033,1704543896,1704523162,1703904107,1703892088,1703340930,1703319590,1702697289,1701459646,1700906034,1700230403,1699640034,1698990313];
+        let timestamps = [1724848807,1722852807,1722767159,1718003470,1713600980,1711769890,1706320537,1705213746,1705205033,1704543896,1704523162,1703904107,1703892088,1703340930,1703319590,1702697289,1701459646,1700906034,1700230403,1699640034,1698990313];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -122,6 +122,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/02 | 41-3 | [EZCO](https://ws.tsl.rocks/corp/cfad990cabcdc1326c0aa3f93a57d1f0e6ec3cd2949e01e6b08443c3af8282f1/) |
 | ❌ | 2024/08/10 | 3-18 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ❌ | 2024/08/09 | 40-50 | [Sith Empire](https://ws.tsl.rocks/corp/7deb3943434ee3aa56bb4c29a0fb0831bcbc4b570a58a2809ea1a549b7df328e/) |
 | ❌ | 2024/06/15 | 6-45 | [Crazy Elite](https://ws.tsl.rocks/corp/ef64e9014b773074470ead0907b9c122bf6bda753de1cddfa01e95a00e9d47dc/) |
