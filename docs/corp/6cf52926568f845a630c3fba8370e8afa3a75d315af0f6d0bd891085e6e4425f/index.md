@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Antioch
-description: W:10 L:15 D:0 Bonus ✅
+description: W:10 L:15 D:0 Bonus ❌
 date: 1724677388
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

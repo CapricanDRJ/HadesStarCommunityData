@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​C'est pas faux!
-description: W:0 L:4 D:0 Bonus ❌
-date: 1724482362
+description: W:0 L:5 D:0 Bonus ❌
+date: 1725293132
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1149 🔻  (1026)|
-| ELO Competitive | 1173 🔻  (954)|
-| Total Matches | 4 |
+| ELO Regular | 1143 🔻  (1049)|
+| ELO Competitive | 1171 🔻  (998)|
+| Total Matches | 5 |
 | Wins | 0 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724050362,1722868135,1722867834,1717419742];
+        let timestamps = [1724861132,1724050362,1722868135,1722867834,1717419742];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/02 | 0-23 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ❌ | 2024/08/24 | 6-10 | [Utd\. Human Fed\.](https://ws.tsl.rocks/corp/265fd73116c2ec237c7a966adb401d54219dee49882ee9024025c697165397d6/) |
 | ❌ | 2024/08/10 | 0-26 | [\*Alfa y Omega\*](https://ws.tsl.rocks/corp/b1da3a2265efd2266a8e4b5698a731ae179d00e431ee748d7bee62a1357a12ed/) |
 | ❌ | 2024/08/10 | 1-4 | [梨山养老院](https://ws.tsl.rocks/corp/4b0da5a03088d82acb8566ed943c7737a389ee702df4473438eec3f77f2c20c1/) |
