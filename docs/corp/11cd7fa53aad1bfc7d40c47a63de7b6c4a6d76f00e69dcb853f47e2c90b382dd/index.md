@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​МеГаКо
-description: W:15 L:14 D:0 Bonus ❌
-date: 1724263868
+description: W:16 L:14 D:0 Bonus ✅
+date: 1725382081
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1218 🔺  (334)|
-| ELO Competitive | 1260 🔺  (299)|
-| Total Matches | 29 |
-| Wins | 15 |
+| ELO Regular | 1225 🔺  (313)|
+| ELO Competitive | 1268 🔺  (285)|
+| Total Matches | 30 |
+| Wins | 16 |
 | Losses | 14 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 6 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723831868,1722234062,1721097200,1720181752,1719673571,1718599248,1717479553,1716416340,1715944631,1715882142,1715344928,1714681575,1714041435,1713404799,1712886167,1711564060,1711037624,1710567387,1709867296,1708932511,1707936072,1707367080,1706633978,1705925662,1705455960,1703109228,1702646197,1701707591,1700572726];
+        let timestamps = [1724950081,1723831868,1722234062,1721097200,1720181752,1719673571,1718599248,1717479553,1716416340,1715944631,1715882142,1715344928,1714681575,1714041435,1713404799,1712886167,1711564060,1711037624,1710567387,1709867296,1708932511,1707936072,1707367080,1706633978,1705925662,1705455960,1703109228,1702646197,1701707591,1700572726];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/03 | 23-0 | [自由星际联盟](https://ws.tsl.rocks/corp/933277ff64041b32fe12e4e564e2064071377343596c7944fb8c145165e2ab04/) |
 | ✅ | 2024/08/21 | 4-3 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |
 | ❌ | 2024/08/03 | 3-19 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
 | ✅ | 2024/07/21 | 14-0 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |

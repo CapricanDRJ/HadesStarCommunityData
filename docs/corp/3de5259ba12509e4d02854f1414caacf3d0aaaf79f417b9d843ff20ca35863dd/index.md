@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Atlas Star llc.
-description: W:33 L:8 D:0 Bonus ✅
-date: 1724797294
+description: W:34 L:8 D:0 Bonus ✅
+date: 1725384184
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1423 🔺  (31)|
-| ELO Competitive | 1456 🔺  (53)|
-| Total Matches | 41 |
-| Wins | 33 |
+| ELO Regular | 1429 🔺  (29)|
+| ELO Competitive | 1465 🔺  (45)|
+| Total Matches | 42 |
+| Wins | 34 |
 | Losses | 8 |
 | Draws | 0 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 10 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724365294,1723749832,1723168340,1722521644,1721915491,1721334909,1720720303,1720117144,1719473735,1718916289,1718352966,1717917816,1717467533,1716860454,1716218048,1715664318,1715124708,1714499951,1713912548,1713321864,1712710998,1712114243,1711574880,1711069177,1710546356,1709828837,1709255232,1708734190,1708243177,1707675837,1707106081,1705864062,1705343870,1704744952,1704135506,1703339727,1702318607,1701016646,1700059633,1699323574,1698706013];
+        let timestamps = [1724952184,1724365294,1723749832,1723168340,1722521644,1721915491,1721334909,1720720303,1720117144,1719473735,1718916289,1718352966,1717917816,1717467533,1716860454,1716218048,1715664318,1715124708,1714499951,1713912548,1713321864,1712710998,1712114243,1711574880,1711069177,1710546356,1709828837,1709255232,1708734190,1708243177,1707675837,1707106081,1705864062,1705343870,1704744952,1704135506,1703339727,1702318607,1701016646,1700059633,1699323574,1698706013];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) | 2 | 0 | 0 | 2 |
 | [Galaxians](https://ws.tsl.rocks/corp/94728c6eb201c1f15c6e2304b5920aa155ccc1a7aac83b574baae51c53a22c5d/) | 2 | 0 | 0 | 2 |
 | [Destroyers](https://ws.tsl.rocks/corp/3756333f55f58944372cf785b972da55796cc179c0ce5f10244e90e3c4355a23/) | 3 | 0 | 0 | 3 |
 
@@ -125,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/03 | 33-6 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) |
 | ✅ | 2024/08/27 | 39-0 | [\(\_\(\_Vossk\_\)\_\)](https://ws.tsl.rocks/corp/6db23201f00670abe532f02a8fc28e109f95d673ef31ca1df7362c0a6c45dd2f/) |
 | ✅ | 2024/08/20 | 20-7 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ✅ | 2024/08/14 | 30-9 | [Galaxians](https://ws.tsl.rocks/corp/94728c6eb201c1f15c6e2304b5920aa155ccc1a7aac83b574baae51c53a22c5d/) |
