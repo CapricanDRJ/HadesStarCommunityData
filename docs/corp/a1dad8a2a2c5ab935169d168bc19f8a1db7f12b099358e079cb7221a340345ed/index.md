@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​ДИᏰEPℂДℍTᏰℓ
-description: W:0 L:1 D:0 Bonus ❌
-date: 1724865207
+description: W:0 L:2 D:0 Bonus ❌
+date: 1725324384
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (702)|
-| ELO Competitive | 1185 🔻  (780)|
-| Total Matches | 1 |
+| ELO Regular | 1171 🔻  (882)|
+| ELO Competitive | 1172 🔻  (963)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724433207];
+        let timestamps = [1724892384,1724433207];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/03 | 2-20 | [德意志第三帝国奥米加分部](https://ws.tsl.rocks/corp/b5f35e30b2dea2621e854b5011a9f9d07ca3585cd26bd9ac92aa7b06c0a522b1/) |
 | ❌ | 2024/08/28 | 3-4 | [Cydonia](https://ws.tsl.rocks/corp/d7b61bdd2b275833780d36a5bdf64fa64d7a1dbea9bde8bdcf54a7e37381214a/) |
 
 Corporation ID: a1dad8a2a2c5ab935169d168bc19f8a1db7f12b099358e079cb7221a340345ed

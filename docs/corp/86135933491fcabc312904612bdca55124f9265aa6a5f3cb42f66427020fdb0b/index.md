@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Newbs
-description: W:28 L:14 D:1 Bonus ✅
+description: W:28 L:14 D:1 Bonus ❌
 date: 1724707144
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Fleet Corp Ares
-description: W:9 L:8 D:0 Bonus ✅
+description: W:9 L:8 D:0 Bonus ❌
 date: 1725276300
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

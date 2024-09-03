@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Sussy Coloner
-description: W:12 L:44 D:3 Bonus ✅
+description: W:12 L:44 D:3 Bonus ❌
 date: 1724711050
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1061 🔻  (1190)|
-| ELO Competitive | 1179 🔺  (899)|
+| ELO Competitive | 1179 🔺  (898)|
 | Total Matches | 59 |
 | Wins | 12 |
 | Losses | 44 |
