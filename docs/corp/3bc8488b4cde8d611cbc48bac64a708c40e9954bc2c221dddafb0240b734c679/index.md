@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Aggronauten
-description: W:0 L:1 D:0 Bonus ❌
-date: 1723889130
+description: W:0 L:2 D:0 Bonus ❌
+date: 1725364948
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (585)|
-| ELO Competitive | 1189 🔻  (665)|
-| Total Matches | 1 |
+| ELO Regular | 1180 🔻  (783)|
+| ELO Competitive | 1183 🔻  (873)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723457130];
+        let timestamps = [1724932948,1723457130];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/03 | 5-52 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) |
 | ❌ | 2024/08/17 | 6-24 | [Corp\. Estelar](https://ws.tsl.rocks/corp/aec01be59075af2b2995f74e3e14f47e2b3ce1bd3b74abc78200a1d6330b8a72/) |
 
 Corporation ID: 3bc8488b4cde8d611cbc48bac64a708c40e9954bc2c221dddafb0240b734c679
