@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Angel Dragon
-description: W:13 L:9 D:2 Bonus ❌
-date: 1724157314
+description: W:13 L:10 D:2 Bonus ❌
+date: 1725321680
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1273 🔻  (174)|
-| ELO Competitive | 1311 🔻  (204)|
-| Total Matches | 24 |
+| ELO Regular | 1254 🔻  (215)|
+| ELO Competitive | 1300 🔻  (222)|
+| Total Matches | 25 |
 | Wins | 13 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 2 |
 | Streak Record | 6 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723725314,1722895187,1721762539,1720129770,1718965260,1717873642,1717011618,1716105076,1714693150,1713804687,1713257560,1711987443,1708972478,1708316202,1707577421,1706966943,1705670521,1704824287,1704205523,1703377598,1702662127,1701349646,1700230704,1699581996];
+        let timestamps = [1724889680,1723725314,1722895187,1721762539,1720129770,1718965260,1717873642,1717011618,1716105076,1714693150,1713804687,1713257560,1711987443,1708972478,1708316202,1707577421,1706966943,1705670521,1704824287,1704205523,1703377598,1702662127,1701349646,1700230704,1699581996];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/03 | 1-6 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) |
 | ❌ | 2024/08/20 | 2-37 | [The Syndicate ](https://ws.tsl.rocks/corp/a7da1f6bd313248b8b6e68a1826bffb463c0e4977776708b28d97199f878b88c/) |
 | ↔️ | 2024/08/10 | 5-5 | [BoomTech](https://ws.tsl.rocks/corp/97c4db179d3ea995d3a56227f87c501f4baa4abbece2b25e09b636f0aa264bd7/) |
 | ✅ | 2024/07/28 | 14-0 | [Warriorlords](https://ws.tsl.rocks/corp/a78c29b9e1c9f793205ba10d796dcabc114ef43d86f0bd34a43a56dc6da768aa/) |
