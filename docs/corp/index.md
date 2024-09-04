@@ -1181,7 +1181,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [第六星际](https://ws.tsl.rocks/corp/b322db3cd473083ce32a0b274764dfecf2e77caa341610fc1e898563debc5087/) | 1219 | 1219 | 1 |
 | [第四天灾](https://ws.tsl.rocks/corp/4a95d21903a441f2a20c9e679a90b299942ceb1b304e21b11213de9bb14c17ce/) | 1211 | 1215 | 1 |
 | [第四星际](https://ws.tsl.rocks/corp/42d38d5f95c493cb1822f0c89a5366e532a9dc30c0019e03cf7ddd280bf55040/) | 1326 | 1443 | 40 |
-| [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) | 1350 | 1354 | 21 |
+| [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) | 1361 | 1358 | 22 |
 | [红星超新星爆炸](https://ws.tsl.rocks/corp/004f2173a6d8f08e3ecf198c1d824992198a159f615534a227ee11de18606403/) | 1187 | 1188 | 3 |
 | [纸鸢台](https://ws.tsl.rocks/corp/c4be34dcc0fcf9c2c0cef9c6f2ce31798d5435dadefaccbcb2502e65252ae677/) | 1233 | 1233 | 4 |
 | [绛紫星](https://ws.tsl.rocks/corp/8c2109279ceb01bcca0aa5e85c151d5877831ac54199285743750e2ed343b407/) | 1210 | 1372 | 50 |
@@ -1201,7 +1201,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [萌新港](https://ws.tsl.rocks/corp/7b4125f2900eb0184722a2a53528bb21dd165ea3612dfa8de6ca0ebf2aea0861/) | 1185 | 1185 | 2 |
 | [萌新港\(大佬港\)](https://ws.tsl.rocks/corp/e6d9b9da7a037e3572cb594dfeba7b282b66509228c9f4f1b2138f873caa3cf3/) | 1156 | 1248 | 48 |
 | [萌新的收留所](https://ws.tsl.rocks/corp/1dd3f70c959e32c27cb4c010162be3799b7c0732115d5c2b7ca5979f48b10f7f/) | 1333 | 1360 | 23 |
-| [落雨观花](https://ws.tsl.rocks/corp/565a6d89fc5107e86669d7f8910a1c4ae1fbb156fa0b5e81dbc917c341cc9ff0/) | 1237 | 1298 | 18 |
+| [落雨观花](https://ws.tsl.rocks/corp/565a6d89fc5107e86669d7f8910a1c4ae1fbb156fa0b5e81dbc917c341cc9ff0/) | 1227 | 1303 | 19 |
 | [蓝太阳](https://ws.tsl.rocks/corp/3d8bcfd3fe682016f1d82e28b9ad7ed8de9df1c1a81ceb6d63e35844660d2212/) | 1179 | 1185 | 4 |
 | [蓝星集团](https://ws.tsl.rocks/corp/9d718b80beaf9682ccde175169372b72f70b75bb593770762dfc9e990cbd098a/) | 1233 | 1236 | 2 |
 | [蓝色星系](https://ws.tsl.rocks/corp/4199afa719f068b1e3195bebef959b1a1c22d55d5cc0ca718de807ea5d1486f9/) | 1185 | 1185 | 1 |

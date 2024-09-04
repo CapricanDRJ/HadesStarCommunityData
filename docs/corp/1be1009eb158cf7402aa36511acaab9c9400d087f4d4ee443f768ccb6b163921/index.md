@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​红日初升，其道大光
-description: W:18 L:3 D:0 Bonus ✅
-date: 1725379676
+description: W:19 L:3 D:0 Bonus ✅
+date: 1725400075
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1350 🔺  (75)|
-| ELO Competitive | 1354 🔺  (145)|
-| Total Matches | 21 |
-| Wins | 18 |
+| ELO Regular | 1361 🔺  (69)|
+| ELO Competitive | 1358 🔺  (143)|
+| Total Matches | 22 |
+| Wins | 19 |
 | Losses | 3 |
 | Draws | 0 |
-| Streak | 7 |
-| Streak Record | 7 |
+| Streak | 8 |
+| Streak Record | 8 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724947676,1724507734,1724502322,1724072598,1724070194,1723630827,1723618809,1723186368,1723183663,1722749728,1722749728,1722317602,1722271629,1721865011,1721825940,1721401015,1721393200,1720950824,1720767186,1720492493,1720002326];
+        let timestamps = [1724968075,1724947676,1724507734,1724502322,1724072598,1724070194,1723630827,1723618809,1723186368,1723183663,1722749728,1722749728,1722317602,1722271629,1721865011,1721825940,1721401015,1721393200,1720950824,1720767186,1720492493,1720002326];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/03 | 8-0 | [落雨观花](https://ws.tsl.rocks/corp/565a6d89fc5107e86669d7f8910a1c4ae1fbb156fa0b5e81dbc917c341cc9ff0/) |
 | ✅ | 2024/09/03 | 13-2 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
 | ✅ | 2024/08/29 | 11-2 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ✅ | 2024/08/29 | 4-3 | [Anarchy Nation ](https://ws.tsl.rocks/corp/9c456dbf32e22070620021bf0bea4d2ab9deb0ac7ad4be06a4067a9ced5f2f5b/) |
