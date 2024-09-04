@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​Cydonia
-description: W:1 L:1 D:1 Bonus ✅
+description: W:1 L:1 D:1 Bonus ❌
 date: 1724865207
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1209 🔺  (418)|
+| ELO Regular | 1209 🔺  (417)|
 | ELO Competitive | 1221 🔺  (423)|
 | Total Matches | 3 |
 | Wins | 1 |

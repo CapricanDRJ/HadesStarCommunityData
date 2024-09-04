@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Stone Legion
-description: W:22 L:6 D:0 Bonus ❌
-date: 1724748906
+description: W:23 L:6 D:0 Bonus ✅
+date: 1725481853
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1360 🔻  (70)|
-| ELO Competitive | 1394 🔻  (98)|
-| Total Matches | 28 |
-| Wins | 22 |
+| ELO Regular | 1368 🔺  (60)|
+| ELO Competitive | 1406 🔺  (91)|
+| Total Matches | 29 |
+| Wins | 23 |
 | Losses | 6 |
 | Draws | 0 |
 | Streak Record | 9 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724316906,1723247677,1722431491,1721854796,1720991108,1719605958,1718056971,1717029046,1715996012,1714613227,1713305042,1712776198,1711675832,1710963114,1709233898,1708545181,1707937875,1707281385,1706583492,1706140533,1705092942,1703372790,1702495029,1701778214,1701518848,1700803546,1699879305,1698968982];
+        let timestamps = [1725049853,1724316906,1723247677,1722431491,1721854796,1720991108,1719605958,1718056971,1717029046,1715996012,1714613227,1713305042,1712776198,1711675832,1710963114,1709233898,1708545181,1707937875,1707281385,1706583492,1706140533,1705092942,1703372790,1702495029,1701778214,1701518848,1700803546,1699879305,1698968982];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -113,11 +113,17 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) | 2 | 0 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/04 | 42-3 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ❌ | 2024/08/27 | 17-34 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ✅ | 2024/08/14 | 34-4 | [EZCO](https://ws.tsl.rocks/corp/cfad990cabcdc1326c0aa3f93a57d1f0e6ec3cd2949e01e6b08443c3af8282f1/) |
 | ✅ | 2024/08/05 | 41-2 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
