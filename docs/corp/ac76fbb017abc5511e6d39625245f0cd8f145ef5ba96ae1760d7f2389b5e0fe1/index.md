@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​ProyectCorp
-description: W:19 L:23 D:0 Bonus ✅
+description: W:19 L:23 D:0 Bonus ❌
 date: 1725384184
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

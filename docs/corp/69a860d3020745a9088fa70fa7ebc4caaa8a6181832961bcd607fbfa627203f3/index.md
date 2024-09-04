@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​对，进就进人少的（分团）
-description: W:6 L:6 D:0 Bonus ❌
-date: 1725007347
+description: W:7 L:6 D:0 Bonus ✅
+date: 1725453598
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔻  (345)|
-| ELO Competitive | 1230 🔻  (387)|
-| Total Matches | 12 |
-| Wins | 6 |
+| ELO Regular | 1230 🔺  (285)|
+| ELO Competitive | 1245 🔺  (349)|
+| Total Matches | 13 |
+| Wins | 7 |
 | Losses | 6 |
 | Draws | 0 |
 | Streak Record | 3 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724575347,1724115574,1723663887,1723178855,1722738912,1720250268,1719797381,1719350535,1718759126,1717484962,1716615524,1714711174];
+        let timestamps = [1725021598,1724575347,1724115574,1723663887,1723178855,1722738912,1720250268,1719797381,1719350535,1718759126,1717484962,1716615524,1714711174];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/04 | 15-4 | [Darkest Hour](https://ws.tsl.rocks/corp/0e253fa2fd0fda884dc5576e478434ebac89a568cb59a79a3ce94fa4b067dfc9/) |
 | ❌ | 2024/08/30 | 3-13 | [  边界  ](https://ws.tsl.rocks/corp/86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a/) |
 | ✅ | 2024/08/25 | 18-0 | [Shrimp City](https://ws.tsl.rocks/corp/eae9b3a1f9dd6b4a1fb39d6aedfe84a80662abe6b181bedcfd7ec15d931b8e84/) |
 | ✅ | 2024/08/19 | 8-1 | [Вселенские 40%](https://ws.tsl.rocks/corp/963d73346ebb929607f54404f481ac2273b4f483915b93144d0757b066a1fd99/) |

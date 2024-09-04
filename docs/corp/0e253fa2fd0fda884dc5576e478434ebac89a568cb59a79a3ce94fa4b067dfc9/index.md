@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Darkest Hour
-description: W:1 L:1 D:0 Bonus ❌
-date: 1723244845
+description: W:1 L:2 D:0 Bonus ❌
+date: 1725453598
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1199 🔻  (478)|
-| ELO Competitive | 1212 🔻  (501)|
-| Total Matches | 2 |
+| ELO Regular | 1185 🔻  (700)|
+| ELO Competitive | 1198 🔻  (596)|
+| Total Matches | 3 |
 | Wins | 1 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722812845,1719795879];
+        let timestamps = [1725021598,1722812845,1719795879];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/04 | 4-15 | [对，进就进人少的（分团）](https://ws.tsl.rocks/corp/69a860d3020745a9088fa70fa7ebc4caaa8a6181832961bcd607fbfa627203f3/) |
 | ❌ | 2024/08/09 | 10-25 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
 | ✅ | 2024/07/06 | 8-7 | [Utd\. Human Fed\.](https://ws.tsl.rocks/corp/265fd73116c2ec237c7a966adb401d54219dee49882ee9024025c697165397d6/) |
 

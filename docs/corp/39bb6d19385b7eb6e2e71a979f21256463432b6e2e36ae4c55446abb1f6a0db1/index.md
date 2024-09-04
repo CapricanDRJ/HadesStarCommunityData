@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​First Squad
-description: W:1 L:7 D:0 Bonus ❌
-date: 1717959346
+description: W:2 L:7 D:0 Bonus ✅
+date: 1725445784
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1136 🔻  (1080)|
-| ELO Competitive | 1150 🔻  (1101)|
-| Total Matches | 8 |
-| Wins | 1 |
+| ELO Regular | 1148 🔺  (1030)|
+| ELO Competitive | 1167 🔺  (1018)|
+| Total Matches | 9 |
+| Wins | 2 |
 | Losses | 7 |
 | Draws | 0 |
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1717527346,1716602003,1714325677,1710971228,1707487273,1704271635,1701628552,1700869973];
+        let timestamps = [1725013784,1717527346,1716602003,1714325677,1710971228,1707487273,1704271635,1701628552,1700869973];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -122,6 +122,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/04 | 37-0 | [华夏舰队](https://ws.tsl.rocks/corp/abd6d05a100ffdde2d15abd725a209bfbbf069b60b10ddeac88e88da66191472/) |
 | ❌ | 2024/06/09 | 5-32 | [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b/) |
 | ❌ | 2024/05/30 | 11-49 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ❌ | 2024/05/03 | 3-33 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) |

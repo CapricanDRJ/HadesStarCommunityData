@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Galaxians
-description: W:14 L:16 D:0 Bonus ✅
-date: 1724838455
+description: W:15 L:16 D:0 Bonus ✅
+date: 1725447588
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1212 🔺  (400)|
-| ELO Competitive | 1247 🔺  (336)|
-| Total Matches | 30 |
-| Wins | 14 |
+| ELO Regular | 1220 🔺  (328)|
+| ELO Competitive | 1259 🔺  (301)|
+| Total Matches | 31 |
+| Wins | 15 |
 | Losses | 16 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 3 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724406455,1724361088,1723843590,1723168340,1722544485,1721938335,1721324090,1720720303,1720095197,1719260083,1718822231,1718318415,1717707071,1717071411,1716526593,1715880038,1715321795,1714679630,1714086510,1713465793,1712841393,1712244650,1711700475,1711061066,1710402736,1709795184,1703657377,1701532074,1699564265,1698912184];
+        let timestamps = [1725015588,1724406455,1724361088,1723843590,1723168340,1722544485,1721938335,1721324090,1720720303,1720095197,1719260083,1718822231,1718318415,1717707071,1717071411,1716526593,1715880038,1715321795,1714679630,1714086510,1713465793,1712841393,1712244650,1711700475,1711061066,1710402736,1709795184,1703657377,1701532074,1699564265,1698912184];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/04 | 21-0 | [华夏舰队](https://ws.tsl.rocks/corp/abd6d05a100ffdde2d15abd725a209bfbbf069b60b10ddeac88e88da66191472/) |
 | ✅ | 2024/08/28 | 21-0 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
 | ✅ | 2024/08/27 | 5-0 | [ItaFederalFleet](https://ws.tsl.rocks/corp/02f7ac2b406e46cbb3e1f7fa3a0fb0dc2c32f9bc8afc54c299cd54757463ddbe/) |
 | ❌ | 2024/08/21 | 3-21 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
