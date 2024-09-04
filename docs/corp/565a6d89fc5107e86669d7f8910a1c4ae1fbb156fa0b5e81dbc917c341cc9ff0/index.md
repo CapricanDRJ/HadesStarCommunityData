@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​落雨观花
-description: W:11 L:7 D:1 Bonus ✅
+description: W:11 L:7 D:1 Bonus ❌
 date: 1725400075
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

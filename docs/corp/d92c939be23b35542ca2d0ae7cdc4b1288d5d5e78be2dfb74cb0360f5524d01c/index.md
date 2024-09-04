@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​青鸾殿
-description: W:4 L:3 D:0 Bonus ✅
+description: W:4 L:3 D:0 Bonus ❌
 date: 1724823432
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1212 🔺  (397)|
+| ELO Regular | 1212 🔺  (399)|
 | ELO Competitive | 1227 🔺  (402)|
 | Total Matches | 7 |
 | Wins | 4 |
