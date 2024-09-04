@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​ 墨痕 
-description: W:9 L:11 D:0 Bonus ✅
+description: W:9 L:11 D:0 Bonus ❌
 date: 1724808710
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
