@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​WHITE NOVA
-description: W:1 L:0 D:0 Bonus ❌
-date: 1724560193
+description: W:1 L:1 D:0 Bonus ❌
+date: 1725415135
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1213 🔺  (390)|
-| ELO Competitive | 1213 🔺  (489)|
-| Total Matches | 1 |
+| ELO Regular | 1197 🔻  (489)|
+| ELO Competitive | 1198 🔻  (597)|
+| Total Matches | 2 |
 | Wins | 1 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724128193];
+        let timestamps = [1724983135,1724128193];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/04 | 0-7 | [太阳系集团](https://ws.tsl.rocks/corp/50f5e0a888ce2f21c0980be0cbb1e444e1d7eeb9dcb2095c3e428bd5bde7a9f6/) |
 | ✅ | 2024/08/25 | 13-0 | [德意志联邦集团](https://ws.tsl.rocks/corp/2ee580123f8c46103f61a4e5edc43e8c3379d17cc2280c935a0a62c6ee81e50c/) |
 
 Corporation ID: 0a44ab86ca49a02fb932607f1095f0b5411c556bb9bb95aa1f20908be0b45d51
