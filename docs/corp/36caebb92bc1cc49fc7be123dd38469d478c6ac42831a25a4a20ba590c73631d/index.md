@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​海澜之家
-description: W:1 L:3 D:0 Bonus ✅
+description: W:1 L:3 D:0 Bonus ❌
 date: 1725279605
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (804)|
-| ELO Competitive | 1182 🔻  (881)|
+| ELO Regular | 1176 🔻  (806)|
+| ELO Competitive | 1182 🔻  (883)|
 | Total Matches | 4 |
 | Wins | 1 |
 | Losses | 3 |

@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​蓝星集团
-description: W:2 L:0 D:0 Bonus ✅
+description: W:2 L:0 D:0 Bonus ❌
 date: 1724839362
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1233 🔺  (279)|
-| ELO Competitive | 1236 🔺  (371)|
+| ELO Regular | 1233 🔺  (277)|
+| ELO Competitive | 1236 🔺  (370)|
 | Total Matches | 2 |
 | Wins | 2 |
 | Losses | 0 |
