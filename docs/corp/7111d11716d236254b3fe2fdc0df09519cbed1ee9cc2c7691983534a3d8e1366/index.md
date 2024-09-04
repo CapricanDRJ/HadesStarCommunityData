@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Gummibärenbande
-description: W:3 L:18 D:0 Bonus ✅
+description: W:3 L:18 D:0 Bonus ❌
 date: 1724855888
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1094 🔺  (1164)|
-| ELO Competitive | 1125 🔺  (1171)|
+| ELO Regular | 1094 🔺  (1165)|
+| ELO Competitive | 1125 🔺  (1172)|
 | Total Matches | 21 |
 | Wins | 3 |
 | Losses | 18 |

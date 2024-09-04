@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Alterra Corp
-description: W:1 L:0 D:1 Bonus ✅
+description: W:1 L:0 D:1 Bonus ❌
 date: 1724848673
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1209 🔺  (419)|
-| ELO Competitive | 1212 🔺  (502)|
+| ELO Regular | 1209 🔺  (420)|
+| ELO Competitive | 1212 🔺  (503)|
 | Total Matches | 2 |
 | Wins | 1 |
 | Losses | 0 |
