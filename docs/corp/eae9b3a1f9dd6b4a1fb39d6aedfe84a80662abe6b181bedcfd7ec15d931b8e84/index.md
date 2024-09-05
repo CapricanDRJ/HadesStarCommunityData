@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Shrimp City
-description: W:21 L:12 D:1 Bonus ✅
-date: 1724985411
+description: W:21 L:13 D:1 Bonus ✅
+date: 1725504689
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1286 🔺  (151)|
-| ELO Competitive | 1315 🔺  (198)|
-| Total Matches | 34 |
+| ELO Regular | 1272 🔻  (175)|
+| ELO Competitive | 1303 🔻  (215)|
+| Total Matches | 35 |
 | Wins | 21 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 1 |
 | Streak Record | 11 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724553411,1724115574,1723595973,1723135586,1722493396,1722030589,1721575013,1721138876,1720639754,1720182052,1719740881,1719270672,1719214100,1718766336,1718309099,1717856809,1717411025,1716973746,1716528997,1716095762,1715651701,1715208230,1714763919,1714314555,1713850953,1713406301,1712961282,1712523503,1712087203,1711627753,1704976641,1704492516,1701486394,1701017248];
+        let timestamps = [1725072689,1724553411,1724115574,1723595973,1723135586,1722493396,1722030589,1721575013,1721138876,1720639754,1720182052,1719740881,1719270672,1719214100,1718766336,1718309099,1717856809,1717411025,1716973746,1716528997,1716095762,1715651701,1715208230,1714763919,1714314555,1713850953,1713406301,1712961282,1712523503,1712087203,1711627753,1704976641,1704492516,1701486394,1701017248];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,12 +117,14 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) | 1 | 1 | 0 | 2 |
 | [四季长春](https://ws.tsl.rocks/corp/cf0b11914dc18d8e669592ecfe191f115c4e5fdba09d130d260bb625b36a3179/) | 2 | 0 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/05 | 0-26 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
 | ✅ | 2024/08/30 | 16-3 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
 | ❌ | 2024/08/25 | 0-18 | [对，进就进人少的（分团）](https://ws.tsl.rocks/corp/69a860d3020745a9088fa70fa7ebc4caaa8a6181832961bcd607fbfa627203f3/) |
 | ❌ | 2024/08/19 | 6-23 | [Север РусКорп](https://ws.tsl.rocks/corp/39eeae12a2a5fead3330938b8f38c71aab465634b732303dad7b2a7d5f472004/) |
