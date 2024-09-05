@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​共产国际
-description: W:4 L:2 D:1 Bonus ✅
+description: W:4 L:2 D:1 Bonus ❌
 date: 1725454801
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
