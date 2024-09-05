@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Эдем
-description: W:6 L:6 D:0 Bonus ✅
+description: W:6 L:6 D:0 Bonus ❌
 date: 1724950255
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

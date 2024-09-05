@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Pixies
-description: W:5 L:3 D:0 Bonus ❌
-date: 1724677169
+description: W:6 L:3 D:0 Bonus ✅
+date: 1725564775
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1231 🔺  (281)|
-| ELO Competitive | 1245 🔺  (344)|
-| Total Matches | 8 |
-| Wins | 5 |
+| ELO Regular | 1240 🔺  (253)|
+| ELO Competitive | 1264 🔺  (297)|
+| Total Matches | 9 |
+| Wins | 6 |
 | Losses | 3 |
 | Draws | 0 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724245169,1723070982,1722380712,1721551868,1721012742,1719068646,1718006175,1714828760];
+        let timestamps = [1725132775,1724245169,1723070982,1722380712,1721551868,1721012742,1719068646,1718006175,1714828760];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/05 | 16-0 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |
 | ✅ | 2024/08/26 | 14-2 | [The Elite](https://ws.tsl.rocks/corp/a2df28ce949920025afb16d0229e0c14aed7832c217d142307a62622634d395c/) |
 | ✅ | 2024/08/12 | 16-3 | [империя тьмы](https://ws.tsl.rocks/corp/4eb22a1b793e5d03579cea15c873b1bef56fea02420a4e55edb18a200f7fc46a/) |
 | ❌ | 2024/08/04 | 9-23 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/54b8724d96e9c022ab2907e45bead9f5b45b02fca093dc0fe5827f14644b2663/) |

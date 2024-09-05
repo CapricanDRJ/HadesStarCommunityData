@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Черный Легион
-description: W:16 L:8 D:0 Bonus ❌
-date: 1721182657
+description: W:17 L:8 D:0 Bonus ✅
+date: 1725567498
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1285 🔻  (153)|
-| ELO Competitive | 1331 🔻  (175)|
-| Total Matches | 24 |
-| Wins | 16 |
+| ELO Regular | 1292 🔺  (141)|
+| ELO Competitive | 1344 🔺  (154)|
+| Total Matches | 25 |
+| Wins | 17 |
 | Losses | 8 |
 | Draws | 0 |
 | Streak Record | 11 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1720750657,1720238548,1719535042,1715891158,1714691648,1714682635,1714184756,1713581450,1712954672,1712095617,1712095317,1711663214,1711230535,1710786748,1710112843,1709652164,1709163590,1708722171,1707871467,1706891215,1706392363,1704403266,1703615390,1702717724];
+        let timestamps = [1725135498,1720750657,1720238548,1719535042,1715891158,1714691648,1714682635,1714184756,1713581450,1712954672,1712095617,1712095317,1711663214,1711230535,1710786748,1710112843,1709652164,1709163590,1708722171,1707871467,1706891215,1706392363,1704403266,1703615390,1702717724];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/05 | 14-0 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |
 | ❌ | 2024/07/17 | 0-28 | [Scar](https://ws.tsl.rocks/corp/1fd57b7d50b68cb3883fd58e596f496821ebcc82dee1915bb7f34a402b03c44a/) |
 | ❌ | 2024/07/11 | 0-30 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ✅ | 2024/07/03 | 26-2 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
