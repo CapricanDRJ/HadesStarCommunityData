@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Вселенские 40%
-description: W:18 L:23 D:0 Bonus ❌
-date: 1725057541
+description: W:18 L:24 D:0 Bonus ❌
+date: 1725551429
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1147 🔻  (1039)|
-| ELO Competitive | 1192 🔻  (632)|
-| Total Matches | 41 |
+| ELO Regular | 1136 🔻  (1085)|
+| ELO Competitive | 1180 🔻  (897)|
+| Total Matches | 42 |
 | Wins | 18 |
-| Losses | 23 |
+| Losses | 24 |
 | Draws | 0 |
 | Streak Record | 6 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724625541,1724189200,1723663887,1720490990,1719397705,1718024808,1716778108,1716223458,1715789304,1714139084,1713699229,1713240434,1712806542,1712205586,1711749158,1711176742,1710560778,1710097470,1709543694,1708978189,1708538269,1708533460,1708088721,1707968087,1707406142,1706963336,1706365913,1705758573,1705323432,1704726917,1704146026,1703419368,1702850572,1702240167,1701607809,1701080660,1700633437,1700120706,1699682115,1699158308,1698716532];
+        let timestamps = [1725119429,1724625541,1724189200,1723663887,1720490990,1719397705,1718024808,1716778108,1716223458,1715789304,1714139084,1713699229,1713240434,1712806542,1712205586,1711749158,1711176742,1710560778,1710097470,1709543694,1708978189,1708538269,1708533460,1708088721,1707968087,1707406142,1706963336,1706365913,1705758573,1705323432,1704726917,1704146026,1703419368,1702850572,1702240167,1701607809,1701080660,1700633437,1700120706,1699682115,1699158308,1698716532];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/05 | 0-12 | [ISERLOHN](https://ws.tsl.rocks/corp/6c287f852581788415a341fe40fa82f1f10d0da5752b2474833cb58351972699/) |
 | ❌ | 2024/08/30 | 0-10 | [lesescargots](https://ws.tsl.rocks/corp/718c873931e9097064fd6ef580fe9d8761be712e0783e0b97d28344abd910623/) |
 | ❌ | 2024/08/25 | 5-19 | [Алый Феникс](https://ws.tsl.rocks/corp/ef2a58ee1052c616143ee1bf5e380609a7c061c603d10775b81563869a44433f/) |
 | ❌ | 2024/08/19 | 1-8 | [对，进就进人少的（分团）](https://ws.tsl.rocks/corp/69a860d3020745a9088fa70fa7ebc4caaa8a6181832961bcd607fbfa627203f3/) |
