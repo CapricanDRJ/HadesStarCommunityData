@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Imperium
-description: W:1 L:0 D:0 Bonus ✅
+description: W:1 L:0 D:0 Bonus ❌
 date: 1724871819
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1216 🔺  (358)|
-| ELO Competitive | 1216 🔺  (467)|
+| ELO Competitive | 1216 🔺  (468)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |

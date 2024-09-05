@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​ЧВК "Котики"
-description: W:25 L:15 D:3 Bonus ❌
-date: 1725057240
+description: W:25 L:16 D:3 Bonus ❌
+date: 1725489967
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1332 🔻  (91)|
-| ELO Competitive | 1373 🔻  (124)|
-| Total Matches | 43 |
+| ELO Regular | 1313 🔻  (113)|
+| ELO Competitive | 1353 🔻  (148)|
+| Total Matches | 44 |
 | Wins | 25 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 3 |
 | Streak Record | 5 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724625240,1724104458,1723588462,1722992248,1722466055,1721949254,1721373067,1720904545,1720258382,1719823611,1719120334,1718565598,1718087315,1718082808,1717486464,1716868265,1716848736,1716281740,1716263715,1715689554,1715667923,1714995507,1714986494,1714376450,1714374047,1713772837,1713241133,1712557452,1711967006,1711347123,1710741976,1710064411,1709454151,1708905473,1708088721,1707462634,1706695581,1705822584,1704878676,1703737619,1702880018,1701721720,1700598278];
+        let timestamps = [1725057967,1724625240,1724104458,1723588462,1722992248,1722466055,1721949254,1721373067,1720904545,1720258382,1719823611,1719120334,1718565598,1718087315,1718082808,1717486464,1716868265,1716848736,1716281740,1716263715,1715689554,1715667923,1714995507,1714986494,1714376450,1714374047,1713772837,1713241133,1712557452,1711967006,1711347123,1710741976,1710064411,1709454151,1708905473,1708088721,1707462634,1706695581,1705822584,1704878676,1703737619,1702880018,1701721720,1700598278];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) | 0 | 2 | 0 | 2 |
 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) | 2 | 0 | 0 | 2 |
 | [Utd\. Human Fed\.](https://ws.tsl.rocks/corp/265fd73116c2ec237c7a966adb401d54219dee49882ee9024025c697165397d6/) | 1 | 0 | 1 | 2 |
 | [Decode](https://ws.tsl.rocks/corp/848408d1ee1a3c08302a936241ea5cbe170cb66dc343d3339ed3ae4baeb82e57/) | 1 | 1 | 0 | 2 |
@@ -125,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/04 | 17-20 | [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) |
 | ❌ | 2024/08/30 | 0-31 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/54b8724d96e9c022ab2907e45bead9f5b45b02fca093dc0fe5827f14644b2663/) |
 | ✅ | 2024/08/24 | 4-0 | [nuevo mundo](https://ws.tsl.rocks/corp/5675df73364d8b031e9541d8aa8d5a9e55649ef419ad87c0b21dec77a0ed6044/) |
 | ✅ | 2024/08/18 | 14-4 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |

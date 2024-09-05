@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​  边界  
-description: W:12 L:4 D:0 Bonus ✅
-date: 1725013959
+description: W:13 L:4 D:0 Bonus ✅
+date: 1725493572
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1295 🔻  (140)|
-| ELO Competitive | 1322 🔺  (187)|
-| Total Matches | 16 |
-| Wins | 12 |
+| ELO Regular | 1308 🔺  (120)|
+| ELO Competitive | 1334 🔺  (168)|
+| Total Matches | 17 |
+| Wins | 13 |
 | Losses | 4 |
 | Draws | 0 |
 | Streak Record | 6 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724581959,1724575347,1724132399,1724127291,1723693933,1723255188,1722818853,1722361478,1721642326,1721291333,1721203587,1720769290,1720232839,1719564786,1719130853,1717906095];
+        let timestamps = [1725061572,1724581959,1724575347,1724132399,1724127291,1723693933,1723255188,1722818853,1722361478,1721642326,1721291333,1721203587,1720769290,1720232839,1719564786,1719130853,1717906095];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/04 | 21-3 | [Out landers](https://ws.tsl.rocks/corp/4d949404db40dec4e95e786811959954fc9e2b1361f3bf0d33af2279ff86d23a/) |
 | ❌ | 2024/08/30 | 3-10 | [哈迪斯之星，启动！](https://ws.tsl.rocks/corp/bc58305a02f7392f340d26a3becd4784de7360dd5264df9e85d73116b93496d8/) |
 | ✅ | 2024/08/30 | 13-3 | [对，进就进人少的（分团）](https://ws.tsl.rocks/corp/69a860d3020745a9088fa70fa7ebc4caaa8a6181832961bcd607fbfa627203f3/) |
 | ✅ | 2024/08/25 | 12-0 | [蓝太阳](https://ws.tsl.rocks/corp/3d8bcfd3fe682016f1d82e28b9ad7ed8de9df1c1a81ceb6d63e35844660d2212/) |
