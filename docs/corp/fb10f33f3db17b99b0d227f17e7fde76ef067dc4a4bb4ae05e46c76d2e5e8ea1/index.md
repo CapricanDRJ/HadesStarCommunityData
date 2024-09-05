@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Lacuna X
-description: W:35 L:5 D:0 Bonus ✅
+description: W:35 L:5 D:0 Bonus ❌
 date: 1724897361
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
