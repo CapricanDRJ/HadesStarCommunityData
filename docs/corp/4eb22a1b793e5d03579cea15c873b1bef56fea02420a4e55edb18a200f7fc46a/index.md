@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​империя тьмы
-description: W:17 L:26 D:2 Bonus ❌
-date: 1724677087
+description: W:19 L:26 D:2 Bonus ✅
+date: 1725536033
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1119 🔻  (1127)|
-| ELO Competitive | 1250 🔻  (328)|
-| Total Matches | 45 |
-| Wins | 17 |
+| ELO Regular | 1154 🔺  (1011)|
+| ELO Competitive | 1266 🔺  (291)|
+| Total Matches | 47 |
+| Wins | 19 |
 | Losses | 26 |
 | Draws | 2 |
+| Streak | 2 |
 | Streak Record | 2 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724245087,1724227615,1723597522,1723579448,1723070982,1723061366,1722512928,1722512928,1721994933,1721993923,1721484857,1721480949,1720622455,1720619913,1720082574,1720078067,1719602352,1719601751,1719138374,1719130853,1718642524,1717863724,1717368056,1716818074,1716156159,1715030366,1714176646,1713741297,1713125656,1713124941,1712637982,1712119650,1711644281,1711637369,1711107030,1711077589,1710588122,1710346551,1710142836,1709714677,1709661781,1709237204,1709161903,1708706543,1708273559];
+        let timestamps = [1725104033,1725098035,1724245087,1724227615,1723597522,1723579448,1723070982,1723061366,1722512928,1722512928,1721994933,1721993923,1721484857,1721480949,1720622455,1720619913,1720082574,1720078067,1719602352,1719601751,1719138374,1719130853,1718642524,1717863724,1717368056,1716818074,1716156159,1715030366,1714176646,1713741297,1713125656,1713124941,1712637982,1712119650,1711644281,1711637369,1711107030,1711077589,1710588122,1710346551,1710142836,1709714677,1709661781,1709237204,1709161903,1708706543,1708273559];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -128,6 +129,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/05 | 4-0 | [蓝太阳](https://ws.tsl.rocks/corp/3d8bcfd3fe682016f1d82e28b9ad7ed8de9df1c1a81ceb6d63e35844660d2212/) |
+| ✅ | 2024/09/05 | 5-3 | [星光万丈](https://ws.tsl.rocks/corp/92ad2a305a74e168b57771140461b4d226e1e8cac17b4f77027d5a67ead5fa1d/) |
 | ❌ | 2024/08/26 | 1-17 | [第四星际](https://ws.tsl.rocks/corp/42d38d5f95c493cb1822f0c89a5366e532a9dc30c0019e03cf7ddd280bf55040/) |
 | ❌ | 2024/08/26 | 0-1 | [₩\.BRASIL\.₩](https://ws.tsl.rocks/corp/ff7f01b2f1db7b9c75e49da4c7367325905c020eba282a97f69f33d8c19419aa/) |
 | ✅ | 2024/08/19 | 2-0 | [Nodens Provisio](https://ws.tsl.rocks/corp/fddc11923365fd1df7f756374f94f8fc2aa3fbcfaaaa82b00f5544e4b55a6c5e/) |

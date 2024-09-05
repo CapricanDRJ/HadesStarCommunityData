@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​BrazilCorp.
-description: W:38 L:6 D:0 Bonus ❌
-date: 1724867911
+description: W:39 L:6 D:0 Bonus ✅
+date: 1725535339
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1477 🔺  (12)|
-| ELO Competitive | 1518 🔺  (28)|
-| Total Matches | 44 |
-| Wins | 38 |
+| ELO Regular | 1482 🔺  (12)|
+| ELO Competitive | 1523 🔺  (25)|
+| Total Matches | 45 |
+| Wins | 39 |
 | Losses | 6 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 10 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724435911,1723908507,1723279228,1722107236,1721445187,1720866067,1720841726,1720259585,1719631498,1719040990,1719039788,1718470933,1718467025,1717823149,1717224671,1716641067,1716007428,1715395101,1714813436,1714178748,1713281901,1712698682,1712153001,1711711893,1711117848,1710155454,1709652465,1709126927,1708238670,1707611227,1706874083,1706873482,1706262835,1705745950,1704735032,1704295978,1703070151,1702551827,1701545901,1701085769,1700388194,1699942422,1699506570,1698856594];
+        let timestamps = [1725103339,1724435911,1723908507,1723279228,1722107236,1721445187,1720866067,1720841726,1720259585,1719631498,1719040990,1719039788,1718470933,1718467025,1717823149,1717224671,1716641067,1716007428,1715395101,1714813436,1714178748,1713281901,1712698682,1712153001,1711711893,1711117848,1710155454,1709652465,1709126927,1708238670,1707611227,1706874083,1706873482,1706262835,1705745950,1704735032,1704295978,1703070151,1702551827,1701545901,1701085769,1700388194,1699942422,1699506570,1698856594];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -127,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/05 | 21-17 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) |
 | ✅ | 2024/08/28 | 36-4 | [NERF TOY'S](https://ws.tsl.rocks/corp/34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0/) |
 | ✅ | 2024/08/22 | 39-0 | [Majapahit](https://ws.tsl.rocks/corp/6d6df740d7d7719ed95d71037f4266928dad222a578175c6836d7bf449f89e75/) |
 | ❌ | 2024/08/15 | 7-12 | [붉은늑대](https://ws.tsl.rocks/corp/43d32b05645aaa9415d1c04ecbcea520d2ed5b90304770cb0ab3813cb86e2f49/) |

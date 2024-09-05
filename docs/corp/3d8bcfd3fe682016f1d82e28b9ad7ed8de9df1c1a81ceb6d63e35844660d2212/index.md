@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​蓝太阳
-description: W:1 L:3 D:0 Bonus ❌
-date: 1724564399
+description: W:1 L:4 D:0 Bonus ❌
+date: 1725536033
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1179 🔻  (794)|
-| ELO Competitive | 1185 🔻  (787)|
-| Total Matches | 4 |
+| ELO Regular | 1162 🔻  (963)|
+| ELO Competitive | 1174 🔻  (952)|
+| Total Matches | 5 |
 | Wins | 1 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724132399,1723670080,1723182762,1722749728];
+        let timestamps = [1725104033,1724132399,1723670080,1723182762,1722749728];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/05 | 0-4 | [империя тьмы](https://ws.tsl.rocks/corp/4eb22a1b793e5d03579cea15c873b1bef56fea02420a4e55edb18a200f7fc46a/) |
 | ❌ | 2024/08/25 | 0-12 | [  边界  ](https://ws.tsl.rocks/corp/86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a/) |
 | ✅ | 2024/08/19 | 6-0 | [Sich\.ua](https://ws.tsl.rocks/corp/9fcd6d7c4fe7f8e39acf48585dfe9c6d3d14edc7781fe8caf85618b3e98c685d/) |
 | ❌ | 2024/08/14 | 5-13 | [蓝色星系一号分盟](https://ws.tsl.rocks/corp/e0f054888d7f0127596210e18c6714dc3bd228748e8f6822d1a091514d6264b8/) |

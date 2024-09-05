@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​italian warrior
-description: W:12 L:19 D:1 Bonus ❌
-date: 1724665667
+description: W:12 L:20 D:1 Bonus ❌
+date: 1725535339
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1202 🔻  (441)|
-| ELO Competitive | 1261 🔻  (299)|
-| Total Matches | 32 |
+| ELO Regular | 1197 🔻  (494)|
+| ELO Competitive | 1256 🔻  (313)|
+| Total Matches | 33 |
 | Wins | 12 |
-| Losses | 19 |
+| Losses | 20 |
 | Draws | 1 |
 | Streak Record | 5 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724233667,1722754837,1721669077,1721194874,1720590764,1720003829,1719489360,1718982091,1718526824,1718081606,1717646956,1717190415,1715670927,1714850395,1710530731,1709015746,1708562610,1708037944,1707417563,1706153152,1705097149,1704332344,1703542884,1702944038,1702144285,1701507729,1701472271,1700995302,1700478358,1699372552,1698706614,1698703307];
+        let timestamps = [1725103339,1724233667,1722754837,1721669077,1721194874,1720590764,1720003829,1719489360,1718982091,1718526824,1718081606,1717646956,1717190415,1715670927,1714850395,1710530731,1709015746,1708562610,1708037944,1707417563,1706153152,1705097149,1704332344,1703542884,1702944038,1702144285,1701507729,1701472271,1700995302,1700478358,1699372552,1698706614,1698703307];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/05 | 17-21 | [BrazilCorp\.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) |
 | ❌ | 2024/08/26 | 18-32 | [Tuatha De Danan](https://ws.tsl.rocks/corp/7741dbd0c9e7ddbc162e374691cb3346e4bb6600840f7962ec4a4414d5d2f780/) |
 | ❌ | 2024/08/09 | 2-33 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | ❌ | 2024/07/27 | 16-38 | [Omega Alpha](https://ws.tsl.rocks/corp/b6e23a3f1f3a3c735c694624b273dcd7da2f8bd13a5ac2b36a8ad39737b1d062/) |
