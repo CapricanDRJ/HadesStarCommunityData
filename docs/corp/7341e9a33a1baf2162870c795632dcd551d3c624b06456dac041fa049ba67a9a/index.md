@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​11th Engineers
-description: W:4 L:20 D:0 Bonus ❌
-date: 1725085784
+description: W:4 L:22 D:0 Bonus ❌
+date: 1725519803
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1016 🔻  (1219)|
-| ELO Competitive | 1138 🔻  (1150)|
-| Total Matches | 24 |
+| ELO Regular | 996 🔻  (1231)|
+| ELO Competitive | 1129 🔻  (1168)|
+| Total Matches | 26 |
 | Wins | 4 |
-| Losses | 20 |
+| Losses | 22 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724653784,1724650780,1723787992,1723772968,1723299966,1723298371,1722859649,1722858817,1721984608,1721558204,1721551868,1721096299,1720663796,1720226530,1720200988,1719767432,1719287424,1719287071,1718839061,1718398807,1717954489,1717948477,1717493374,1717058790];
+        let timestamps = [1725087803,1725087739,1724653784,1724650780,1723787992,1723772968,1723299966,1723298371,1722859649,1722858817,1721984608,1721558204,1721551868,1721096299,1720663796,1720226530,1720200988,1719767432,1719287424,1719287071,1718839061,1718398807,1717954489,1717948477,1717493374,1717058790];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,7 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
-| [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) | 1 | 3 | 0 | 4 |
+| [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) | 1 | 4 | 0 | 5 |
 | [Axiom](https://ws.tsl.rocks/corp/4000a010c205d318c766ba14fe1836eaab6652f1738a88cce8a8c69d0283e1b0/) | 0 | 3 | 0 | 3 |
 | [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046/) | 2 | 0 | 0 | 2 |
 
@@ -125,6 +125,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/05 | 1-4 | [数字星际集团](https://ws.tsl.rocks/corp/ccbf6be33652cb1b91bc9047b966ffdd6b313cc569d1e0a9fb832e6e8dc1d361/) |
+| ❌ | 2024/09/05 | 0-4 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) |
 | ❌ | 2024/08/31 | 0-19 | [游徒之家](https://ws.tsl.rocks/corp/7ab5f6970c8703095b0589da6e5d648dc64a94ca6d901ef09d4949409b2c44b9/) |
 | ❌ | 2024/08/31 | 0-7 | [SEC](https://ws.tsl.rocks/corp/c36ee5a9ff1f148ada25e8402464cecd17ac847acf81dacd8ea25c29c8fd9bc1/) |
 | ❌ | 2024/08/21 | 0-13 | [萌新的收留所](https://ws.tsl.rocks/corp/1dd3f70c959e32c27cb4c010162be3799b7c0732115d5c2b7ca5979f48b10f7f/) |
