@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​共产国际
-description: W:4 L:2 D:1 Bonus ❌
-date: 1725454801
+description: W:4 L:2 D:2 Bonus ❌
+date: 1725588996
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1223 🔻  (314)|
-| ELO Competitive | 1241 🔻  (360)|
-| Total Matches | 7 |
+| ELO Regular | 1215 🔻  (362)|
+| ELO Competitive | 1253 🔻  (321)|
+| Total Matches | 8 |
 | Wins | 4 |
 | Losses | 2 |
-| Draws | 1 |
+| Draws | 2 |
 | Streak Record | 3 |
 
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725022801,1724494208,1724221949,1723871533,1723385612,1722757542,1722307686];
+        let timestamps = [1725156996,1725022801,1724494208,1724221949,1723871533,1723385612,1722757542,1722307686];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/09/06 | 0-0 | [以太超星团](https://ws.tsl.rocks/corp/327addf616128dc5b01013e29e850c76d22ae27af199bcc6bba3b92cee7818ae/) |
 | ❌ | 2024/09/04 | 2-4 | [CORP GHOST ](https://ws.tsl.rocks/corp/debe8e3a9e01d09c70ef6398b51fa3ee55ebe6506c71fed4987d7595d6265ec3/) |
 | ✅ | 2024/08/29 | 5-2 | [逐光起航](https://ws.tsl.rocks/corp/e6bb076aa209101b5fa1cbc40a614c241d71ab5eca143c733b81aed6302455e8/) |
 | ❌ | 2024/08/26 | 3-11 | [萌新的收留所](https://ws.tsl.rocks/corp/1dd3f70c959e32c27cb4c010162be3799b7c0732115d5c2b7ca5979f48b10f7f/) |

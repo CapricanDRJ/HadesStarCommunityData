@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​以太超星团
-description: W:3 L:24 D:4 Bonus ❌
-date: 1724313808
+description: W:3 L:24 D:5 Bonus ❌
+date: 1725588996
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1021 🔻  (1216)|
-| ELO Competitive | 1138 🔻  (1151)|
-| Total Matches | 31 |
+| ELO Regular | 1029 🔺  (1215)|
+| ELO Competitive | 1142 🔺  (1139)|
+| Total Matches | 32 |
 | Wins | 3 |
 | Losses | 24 |
-| Draws | 4 |
+| Draws | 5 |
 
 
 # Whitestar Match Day
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723881808,1723264400,1722769864,1721533537,1721524624,1720976118,1720956835,1720013954,1719975356,1719495972,1719493868,1718964659,1718952941,1718497978,1718460904,1718064605,1718008579,1717580232,1717458342,1717044968,1716874275,1716543132,1716281740,1716079840,1715834370,1715578691,1715255695,1715124408,1714783991,1714665506,1714212998];
+        let timestamps = [1725156996,1723881808,1723264400,1722769864,1721533537,1721524624,1720976118,1720956835,1720013954,1719975356,1719495972,1719493868,1718964659,1718952941,1718497978,1718460904,1718064605,1718008579,1717580232,1717458342,1717044968,1716874275,1716543132,1716281740,1716079840,1715834370,1715578691,1715255695,1715124408,1714783991,1714665506,1714212998];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/09/06 | 0-0 | [共产国际](https://ws.tsl.rocks/corp/375b1efc576c9d15f93249680dcd6dccaf2ad07cd520b85242d0b704d3a494c6/) |
 | ❌ | 2024/08/22 | 0-3 | [欢迎国人](https://ws.tsl.rocks/corp/f32abd112fe2b826948a3538a51097b9114815930ec77ad11ada1b24ce34578d/) |
 | ↔️ | 2024/08/15 | 0-0 | [Poggy Rockers](https://ws.tsl.rocks/corp/47aeb151232251d9e53310e21f1290b1240c63878169968847bd1e89efc909a7/) |
 | ❌ | 2024/08/09 | 0-14 | [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) |

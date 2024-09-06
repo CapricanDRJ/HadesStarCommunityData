@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Interstellar
-description: W:30 L:36 D:0 Bonus ✅
+description: W:30 L:36 D:0 Bonus ❌
 date: 1725505590
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1178 🔻  (798)|
-| ELO Competitive | 1385 🔻  (108)|
+| ELO Regular | 1178 🔻  (799)|
+| ELO Competitive | 1385 🔻  (109)|
 | Total Matches | 66 |
 | Wins | 30 |
 | Losses | 36 |

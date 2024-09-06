@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Scar
-description: W:30 L:19 D:1 Bonus ✅
+description: W:30 L:19 D:1 Bonus ❌
 date: 1725446987
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

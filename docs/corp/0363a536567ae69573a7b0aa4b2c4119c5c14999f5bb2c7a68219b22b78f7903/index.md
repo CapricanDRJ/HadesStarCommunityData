@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Forces of Light
-description: W:11 L:4 D:1 Bonus ✅
+description: W:11 L:4 D:1 Bonus ❌
 date: 1724970991
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
