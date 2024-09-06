@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​CTG
-description: W:11 L:18 D:0 Bonus ❌
-date: 1725063249
+description: W:11 L:19 D:0 Bonus ❌
+date: 1725614672
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1151 🔻  (1026)|
-| ELO Competitive | 1178 🔻  (910)|
-| Total Matches | 29 |
+| ELO Regular | 1141 🔻  (1065)|
+| ELO Competitive | 1173 🔻  (962)|
+| Total Matches | 30 |
 | Wins | 11 |
-| Losses | 18 |
+| Losses | 19 |
 | Draws | 0 |
 | Streak Record | 5 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724631249,1724033836,1723411160,1722818853,1722216937,1721602665,1721010639,1720378599,1719781157,1719169931,1718625991,1716858050,1715610838,1714945039,1714389068,1713726574,1711956490,1711351929,1709553309,1708322512,1707721508,1707093162,1706494239,1705867969,1705280467,1704726917,1704082613,1703628834,1700528554];
+        let timestamps = [1725182672,1724631249,1724033836,1723411160,1722818853,1722216937,1721602665,1721010639,1720378599,1719781157,1719169931,1718625991,1716858050,1715610838,1714945039,1714389068,1713726574,1711956490,1711351929,1709553309,1708322512,1707721508,1707093162,1706494239,1705867969,1705280467,1704726917,1704082613,1703628834,1700528554];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/06 | 6-29 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |
 | ❌ | 2024/08/31 | 3-38 | [Widow Makers](https://ws.tsl.rocks/corp/ac1ddcbbd45ccdfa74185d7f40b3a67b0b5b477f7b0bd6f3d7a5a7821ee55bdd/) |
 | ❌ | 2024/08/24 | 3-32 | [Argentina 1\.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449/) |
 | ❌ | 2024/08/16 | 3-36 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |

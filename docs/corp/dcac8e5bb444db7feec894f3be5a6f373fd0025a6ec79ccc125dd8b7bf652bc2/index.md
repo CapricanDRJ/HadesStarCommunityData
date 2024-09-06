@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​很多星球的社会主义团
-description: W:10 L:10 D:1 Bonus ✅
+description: W:10 L:10 D:1 Bonus ❌
 date: 1724986613
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

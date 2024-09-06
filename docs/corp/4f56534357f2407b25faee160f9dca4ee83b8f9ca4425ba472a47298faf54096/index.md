@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​Z. O. V. 
-description: W:23 L:4 D:1 Bonus ✅
+description: W:23 L:4 D:1 Bonus ❌
 date: 1724995326
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1402 🔺  (37)|
+| ELO Regular | 1402 🔺  (36)|
 | ELO Competitive | 1458 🔺  (52)|
 | Total Matches | 28 |
 | Wins | 23 |
