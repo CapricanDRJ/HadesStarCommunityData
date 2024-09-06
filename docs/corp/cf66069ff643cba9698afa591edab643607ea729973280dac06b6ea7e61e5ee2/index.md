@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Españoles
-description: W:14 L:49 D:0 Bonus ❌
-date: 1725202380
+description: W:14 L:50 D:0 Bonus ❌
+date: 1725645931
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1019 🔻  (1218)|
-| ELO Competitive | 1112 🔻  (1196)|
-| Total Matches | 63 |
+| ELO Regular | 1013 🔻  (1223)|
+| ELO Competitive | 1104 🔻  (1201)|
+| Total Matches | 64 |
 | Wins | 14 |
-| Losses | 49 |
+| Losses | 50 |
 | Draws | 0 |
 | Streak Record | 3 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724770380,1724318108,1723841787,1723226941,1722735306,1722258402,1721700630,1721689815,1721229131,1720791231,1720329606,1719281416,1718643727,1718174465,1717706470,1717250521,1716151352,1715586501,1714998812,1714508065,1713832629,1713276492,1712870846,1712610644,1712097119,1711798435,1711312574,1710837521,1710375099,1710206538,1709899143,1709410887,1709306913,1708892553,1707260054,1707010841,1706796854,1706307016,1705942193,1705825289,1705350183,1705071302,1704705879,1704629248,1704189293,1704026118,1703728305,1703157004,1702836743,1702672948,1702395544,1702210706,1701762888,1701349346,1701279623,1700801442,1700473850,1700348526,1699962556,1699826714,1699487944,1699394494,1698736667];
+        let timestamps = [1725213931,1724770380,1724318108,1723841787,1723226941,1722735306,1722258402,1721700630,1721689815,1721229131,1720791231,1720329606,1719281416,1718643727,1718174465,1717706470,1717250521,1716151352,1715586501,1714998812,1714508065,1713832629,1713276492,1712870846,1712610644,1712097119,1711798435,1711312574,1710837521,1710375099,1710206538,1709899143,1709410887,1709306913,1708892553,1707260054,1707010841,1706796854,1706307016,1705942193,1705825289,1705350183,1705071302,1704705879,1704629248,1704189293,1704026118,1703728305,1703157004,1702836743,1702672948,1702395544,1702210706,1701762888,1701349346,1701279623,1700801442,1700473850,1700348526,1699962556,1699826714,1699487944,1699394494,1698736667];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,12 +117,12 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [the heavy](https://ws.tsl.rocks/corp/fc91552441e9553b76df7ca1870d63c6fd9e50f9c98a3d2bb9f6979b47bd845f/) | 0 | 3 | 0 | 3 |
 | [VoidCorp](https://ws.tsl.rocks/corp/b866417e5607f8434347bb5f986e37c4fa7dda68b3882f0135d186043d3f68a3/) | 0 | 2 | 0 | 2 |
 | [ProyectCorp](https://ws.tsl.rocks/corp/ac76fbb017abc5511e6d39625245f0cd8f145ef5ba96ae1760d7f2389b5e0fe1/) | 1 | 1 | 0 | 2 |
 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 1 | 1 | 0 | 2 |
 | [Crazy Elite](https://ws.tsl.rocks/corp/ef64e9014b773074470ead0907b9c122bf6bda753de1cddfa01e95a00e9d47dc/) | 0 | 3 | 0 | 3 |
 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) | 0 | 2 | 0 | 2 |
-| [the heavy](https://ws.tsl.rocks/corp/fc91552441e9553b76df7ca1870d63c6fd9e50f9c98a3d2bb9f6979b47bd845f/) | 0 | 2 | 0 | 2 |
 | [붉은늑대](https://ws.tsl.rocks/corp/43d32b05645aaa9415d1c04ecbcea520d2ed5b90304770cb0ab3813cb86e2f49/) | 0 | 2 | 0 | 2 |
 | [The Watchers](https://ws.tsl.rocks/corp/62a08ec3521bd62e5c8fbfc03c7d99fbf3e30fd1df80716485c9b989b27771e6/) | 0 | 2 | 0 | 2 |
 
@@ -130,6 +130,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/06 | 8-58 | [the heavy](https://ws.tsl.rocks/corp/fc91552441e9553b76df7ca1870d63c6fd9e50f9c98a3d2bb9f6979b47bd845f/) |
 | ❌ | 2024/09/01 | 1-25 | [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) |
 | ❌ | 2024/08/27 | 4-26 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ✅ | 2024/08/21 | 38-0 | [华夏舰队](https://ws.tsl.rocks/corp/abd6d05a100ffdde2d15abd725a209bfbbf069b60b10ddeac88e88da66191472/) |

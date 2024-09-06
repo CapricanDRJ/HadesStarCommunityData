@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​水晶星际集团
-description: W:6 L:24 D:0 Bonus ✅
+description: W:6 L:24 D:0 Bonus ❌
 date: 1725023276
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
