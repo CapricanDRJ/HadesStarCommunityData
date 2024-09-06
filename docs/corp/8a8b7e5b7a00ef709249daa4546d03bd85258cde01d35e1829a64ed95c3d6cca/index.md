@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Lights Off 
-description: W:26 L:10 D:0 Bonus ✅
+description: W:26 L:10 D:0 Bonus ❌
 date: 1725031693
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Axioma
-description: W:10 L:26 D:2 Bonus ❌
-date: 1722446318
+description: W:10 L:27 D:2 Bonus ❌
+date: 1725657052
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1015 🔻  (1222)|
-| ELO Competitive | 1061 🔻  (1229)|
-| Total Matches | 38 |
+| ELO Regular | 1007 🔻  (1225)|
+| ELO Competitive | 1052 🔻  (1232)|
+| Total Matches | 39 |
 | Wins | 10 |
-| Losses | 26 |
+| Losses | 27 |
 | Draws | 2 |
 | Streak Record | 5 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722014318,1721567798,1721135670,1720619913,1720181752,1719671767,1719168127,1718657555,1718211732,1717756350,1717250822,1716811461,1716289851,1715807935,1715344928,1714743624,1714269486,1713802884,1713347702,1711041251,1710121208,1709472782,1709040691,1708358273,1707785522,1707305720,1706483723,1706103865,1705961732,1705370616,1704815269,1703389917,1702657919,1702657619,1702082672,1702078465,1701271808,1700496091];
+        let timestamps = [1725225052,1722014318,1721567798,1721135670,1720619913,1720181752,1719671767,1719168127,1718657555,1718211732,1717756350,1717250822,1716811461,1716289851,1715807935,1715344928,1714743624,1714269486,1713802884,1713347702,1711041251,1710121208,1709472782,1709040691,1708358273,1707785522,1707305720,1706483723,1706103865,1705961732,1705370616,1704815269,1703389917,1702657919,1702657619,1702082672,1702078465,1701271808,1700496091];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/06 | 0-15 | [DeutschlandGmbH](https://ws.tsl.rocks/corp/7f4550924e4740a47b7d66c9ddf38d65c37590507caab29eecc74f81a4ae2895/) |
 | ↔️ | 2024/07/31 | 3-3 | [佛矿寺](https://ws.tsl.rocks/corp/64f8afd95b7004e9d5a442da55644ee3ce64a9a8e82345c458d757b527e40624/) |
 | ❌ | 2024/07/26 | 1-5 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
 | ❌ | 2024/07/21 | 2-15 | [lost souls](https://ws.tsl.rocks/corp/64cf1f6ce9001bcd1d03fd1aaecafc1b7d88cd36316892a52a1b19d5e85bd793/) |

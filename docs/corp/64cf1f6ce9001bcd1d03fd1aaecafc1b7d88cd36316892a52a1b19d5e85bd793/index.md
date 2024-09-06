@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​lost souls
-description: W:28 L:28 D:1 Bonus ✅
+description: W:28 L:28 D:1 Bonus ❌
 date: 1725637514
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
