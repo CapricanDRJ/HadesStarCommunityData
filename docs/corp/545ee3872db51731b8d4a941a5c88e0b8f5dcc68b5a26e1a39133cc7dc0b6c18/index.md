@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​中国星际联盟·第一自治州
-description: W:1 L:3 D:0 Bonus ❌
-date: 1725025680
+description: W:1 L:3 D:1 Bonus ❌
+date: 1725618874
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 🔻  (940)|
-| ELO Competitive | 1170 🔻  (1010)|
-| Total Matches | 4 |
+| ELO Regular | 1170 🔺  (908)|
+| ELO Competitive | 1175 🔺  (934)|
+| Total Matches | 5 |
 | Wins | 1 |
 | Losses | 3 |
-| Draws | 0 |
+| Draws | 1 |
 
 
 # Whitestar Match Day
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724593680,1724131498,1714055860,1712357930];
+        let timestamps = [1725186874,1724593680,1724131498,1714055860,1712357930];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/09/06 | 0-0 | [PDC](https://ws.tsl.rocks/corp/3cfc5c94fb18b34d3a1018bfbf6d4211d3cfb18ebb02bf7784cebc1e3627de4a/) |
 | ❌ | 2024/08/30 | 0-2 | [欢迎国人](https://ws.tsl.rocks/corp/f32abd112fe2b826948a3538a51097b9114815930ec77ad11ada1b24ce34578d/) |
 | ✅ | 2024/08/25 | 1-0 | [超新星联盟](https://ws.tsl.rocks/corp/c3667794c88fd0a09f565dc3b4fed5325f131a616d01d0f6890755b44997d0a1/) |
 | ❌ | 2024/04/30 | 0-2 | [Venture](https://ws.tsl.rocks/corp/a48bd30701e4a563543ff54e7c8091cc6b5d0e972c70e4de279a93f4df2f24b0/) |
