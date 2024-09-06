@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​The Seperatists
-description: W:15 L:20 D:0 Bonus ❌
-date: 1725106820
+description: W:15 L:21 D:0 Bonus ❌
+date: 1725597843
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (782)|
-| ELO Competitive | 1260 🔻  (302)|
-| Total Matches | 35 |
+| ELO Regular | 1168 🔻  (922)|
+| ELO Competitive | 1251 🔻  (327)|
+| Total Matches | 36 |
 | Wins | 15 |
-| Losses | 20 |
+| Losses | 21 |
 | Draws | 0 |
 | Streak Record | 3 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724674820,1720838421,1718487160,1716641067,1714060969,1712557152,1711868147,1711263584,1711248014,1710467937,1710034665,1709441531,1708991711,1706887909,1706670642,1706153152,1706072916,1705635964,1705031338,1704790025,1704598596,1704355778,1703990359,1703880668,1703417795,1703387213,1702785950,1702782645,1701970567,1701671525,1700677918,1700174208,1699674301,1699164017,1698687967];
+        let timestamps = [1725165843,1724674820,1720838421,1718487160,1716641067,1714060969,1712557152,1711868147,1711263584,1711248014,1710467937,1710034665,1709441531,1708991711,1706887909,1706670642,1706153152,1706072916,1705635964,1705031338,1704790025,1704598596,1704355778,1703990359,1703880668,1703417795,1703387213,1702785950,1702782645,1701970567,1701671525,1700677918,1700174208,1699674301,1699164017,1698687967];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 1 | 1 | 0 | 2 |
 | [Soylent Corp\.](https://ws.tsl.rocks/corp/9f978f9cca690b76981d538d63260cd39d51427e5d69412113ccad02cc7cac2d/) | 0 | 2 | 0 | 2 |
 | [Lacuna Holdings](https://ws.tsl.rocks/corp/17f4ece94ed033805ed258868416020d302254e2e3becbd1e25381be7933be76/) | 0 | 2 | 0 | 2 |
 
@@ -124,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/06 | 9-32 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | ❌ | 2024/08/31 | 19-24 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) |
 | ❌ | 2024/07/18 | 6-35 | [VoidCorp](https://ws.tsl.rocks/corp/b866417e5607f8434347bb5f986e37c4fa7dda68b3882f0135d186043d3f68a3/) |
 | ❌ | 2024/06/20 | 13-27 | [Tacitus](https://ws.tsl.rocks/corp/257625cedb6403e6979963e22a6ab809b81b08f41e868fa3498440abaf1780e0/) |

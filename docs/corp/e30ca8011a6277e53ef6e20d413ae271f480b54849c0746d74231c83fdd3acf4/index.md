@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​ALPHA
-description: W:2 L:3 D:0 Bonus ✅
+description: W:2 L:3 D:0 Bonus ❌
 date: 1724983308
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1191 🔺  (527)|
-| ELO Competitive | 1202 🔺  (540)|
+| ELO Competitive | 1202 🔺  (541)|
 | Total Matches | 5 |
 | Wins | 2 |
 | Losses | 3 |

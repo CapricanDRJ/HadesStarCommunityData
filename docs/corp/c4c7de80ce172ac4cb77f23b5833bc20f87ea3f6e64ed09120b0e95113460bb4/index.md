@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​imperio estelar
-description: W:0 L:5 D:0 Bonus ❌
-date: 1721442639
+description: W:0 L:6 D:0 Bonus ❌
+date: 1725597843
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1136 🔻  (1084)|
-| ELO Competitive | 1142 🔻  (1141)|
-| Total Matches | 5 |
+| ELO Regular | 1129 🔻  (1104)|
+| ELO Competitive | 1136 🔻  (1157)|
+| Total Matches | 6 |
 | Wins | 0 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721010639,1720576341,1709123621,1702401857,1699251155];
+        let timestamps = [1725165843,1721010639,1720576341,1709123621,1702401857,1699251155];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/06 | 3-15 | [lesescargots](https://ws.tsl.rocks/corp/718c873931e9097064fd6ef580fe9d8761be712e0783e0b97d28344abd910623/) |
 | ❌ | 2024/07/20 | 11-19 | [CTG](https://ws.tsl.rocks/corp/9647a8507dfa5637a217d2d6a0ad47aefb6a4563f910ad46376c228450cff43c/) |
 | ❌ | 2024/07/15 | 4-16 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
 | ❌ | 2024/03/04 | 0-21 | [拆迁大队](https://ws.tsl.rocks/corp/d8de6fa1ed53aeb856209de01d8a990a562d7438e0abe2cfe50776bb11345f17/) |
