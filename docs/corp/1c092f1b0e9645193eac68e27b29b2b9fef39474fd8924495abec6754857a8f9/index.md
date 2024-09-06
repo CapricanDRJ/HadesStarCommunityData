@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​alienigenas
-description: W:6 L:4 D:0 Bonus ❌
-date: 1722007313
+description: W:6 L:5 D:0 Bonus ❌
+date: 1725629398
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1247 🔺  (232)|
-| ELO Competitive | 1258 🔺  (309)|
-| Total Matches | 10 |
+| ELO Regular | 1236 🔻  (264)|
+| ELO Competitive | 1253 🔻  (322)|
+| Total Matches | 11 |
 | Wins | 6 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
-| Streak | 3 |
 | Streak Record | 3 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721575313,1720368679,1719183457,1718537943,1716741146,1710068617,1705247107,1702219423,1701001615,1699813184];
+        let timestamps = [1725197398,1721575313,1720368679,1719183457,1718537943,1716741146,1710068617,1705247107,1702219423,1701001615,1699813184];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/06 | 14-26 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) |
 | ✅ | 2024/07/26 | 25-6 | [Альянс](https://ws.tsl.rocks/corp/a7d0478626828d7428aeeb5115f68e790f7e4c8a7f917812ec2241178e1c3f50/) |
 | ✅ | 2024/07/12 | 30-19 | [Midland Ind\.](https://ws.tsl.rocks/corp/da3a00a59e73cb89ddcf9ae42f31ecf0c9d9b5fe9a2dc5ddec6fc42922f86a23/) |
 | ✅ | 2024/06/28 | 36-4 | [Млечный путь](https://ws.tsl.rocks/corp/a9a3b102b3698bf7db8cd106adda02cee0033bfc03f681b667b2991e10049a25/) |
