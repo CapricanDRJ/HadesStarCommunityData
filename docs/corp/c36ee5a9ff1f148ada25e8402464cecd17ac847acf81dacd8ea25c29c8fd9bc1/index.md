@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​SEC
-description: W:7 L:0 D:0 Bonus ✅
+description: W:7 L:0 D:0 Bonus ❌
 date: 1725082780
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

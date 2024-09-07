@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​AntiCerberus
-description: W:0 L:1 D:0 Bonus ❌
-date: 1725201478
+description: W:0 L:1 D:1 Bonus ❌
+date: 1725693704
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (730)|
-| ELO Competitive | 1184 🔻  (851)|
-| Total Matches | 1 |
+| ELO Regular | 1185 🔺  (651)|
+| ELO Competitive | 1186 🔺  (747)|
+| Total Matches | 2 |
 | Wins | 0 |
 | Losses | 1 |
-| Draws | 0 |
+| Draws | 1 |
 
 
 # Whitestar Match Day
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724769478];
+        let timestamps = [1725261704,1724769478];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/09/07 | 3-3 | [Cydonia](https://ws.tsl.rocks/corp/d7b61bdd2b275833780d36a5bdf64fa64d7a1dbea9bde8bdcf54a7e37381214a/) |
 | ❌ | 2024/09/01 | 0-4 | [Fairy tail ](https://ws.tsl.rocks/corp/44e6a82c06b84bc5579df0e42bc462f36313b0060861d25228856930f6c19eac/) |
 
 Corporation ID: 05549095de4dbbeb78175abda32e043bd7c0afada2bba974c17c41674469da29
