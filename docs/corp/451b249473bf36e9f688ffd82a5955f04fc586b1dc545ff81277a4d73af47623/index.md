@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Lost Legion
-description: W:23 L:39 D:0 Bonus ❌
-date: 1725238140
+description: W:23 L:40 D:0 Bonus ❌
+date: 1725671772
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1124 🔻  (1110)|
-| ELO Competitive | 1206 🔻  (529)|
-| Total Matches | 62 |
+| ELO Regular | 1118 🔻  (1126)|
+| ELO Competitive | 1199 🔻  (584)|
+| Total Matches | 63 |
 | Wins | 23 |
-| Losses | 39 |
+| Losses | 40 |
 | Draws | 0 |
 | Streak Record | 4 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724806140,1724327724,1723855607,1723413864,1722967607,1722521644,1722079576,1721596054,1721163326,1720713689,1720276116,1719724654,1719243251,1718790671,1718333736,1717900987,1717451611,1717011317,1716576760,1716100569,1715661013,1715212435,1714779785,1714323067,1713862669,1713319761,1712870846,1712437560,1712000968,1711560454,1711107931,1710657019,1710181599,1709718564,1709253731,1708770547,1708284654,1707832397,1707382704,1706948611,1706514069,1706081028,1705648585,1705647383,1705213746,1705187607,1704749460,1704578764,1704143622,1704142720,1703697950,1703260389,1702827727,1702395544,1701957642,1701507428,1701019954,1700562508,1700121608,1699686624,1699252657,1698811816];
+        let timestamps = [1725239772,1724806140,1724327724,1723855607,1723413864,1722967607,1722521644,1722079576,1721596054,1721163326,1720713689,1720276116,1719724654,1719243251,1718790671,1718333736,1717900987,1717451611,1717011317,1716576760,1716100569,1715661013,1715212435,1714779785,1714323067,1713862669,1713319761,1712870846,1712437560,1712000968,1711560454,1711107931,1710657019,1710181599,1709718564,1709253731,1708770547,1708284654,1707832397,1707382704,1706948611,1706514069,1706081028,1705648585,1705647383,1705213746,1705187607,1704749460,1704578764,1704143622,1704142720,1703697950,1703260389,1702827727,1702395544,1701957642,1701507428,1701019954,1700562508,1700121608,1699686624,1699252657,1698811816];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Спутник](https://ws.tsl.rocks/corp/0ae15c4db6dc8c3f4bf3eb6aa93bffd4ea9281b06b721ab103c0078646bfe58c/) | 0 | 4 | 0 | 4 |
 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 0 | 2 | 0 | 2 |
 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 0 | 2 | 0 | 2 |
 | [Trade Station](https://ws.tsl.rocks/corp/7003e286fe1a04aaa63e3aa318c164856c07e251a94b0496757140f5eda72cd7/) | 1 | 1 | 0 | 2 |
@@ -127,13 +128,13 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [The Watchers](https://ws.tsl.rocks/corp/62a08ec3521bd62e5c8fbfc03c7d99fbf3e30fd1df80716485c9b989b27771e6/) | 0 | 2 | 0 | 2 |
 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) | 2 | 0 | 0 | 2 |
 | [Dauntless](https://ws.tsl.rocks/corp/8313138d370b0b0f15dea3af851c836f9a1e1e838bf26c652c9a9831fb6b739a/) | 2 | 0 | 0 | 2 |
-| [Спутник](https://ws.tsl.rocks/corp/0ae15c4db6dc8c3f4bf3eb6aa93bffd4ea9281b06b721ab103c0078646bfe58c/) | 0 | 3 | 0 | 3 |
 | [Enigma](https://ws.tsl.rocks/corp/d901fe833fb2f84db2321a90a63d0466d4288c8c727fb177afdc6bf2c7c56f25/) | 2 | 0 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/07 | 6-32 | [Спутник](https://ws.tsl.rocks/corp/0ae15c4db6dc8c3f4bf3eb6aa93bffd4ea9281b06b721ab103c0078646bfe58c/) |
 | ❌ | 2024/09/02 | 9-48 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) |
 | ❌ | 2024/08/27 | 8-57 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | ❌ | 2024/08/22 | 13-21 | [붉은늑대](https://ws.tsl.rocks/corp/43d32b05645aaa9415d1c04ecbcea520d2ed5b90304770cb0ab3813cb86e2f49/) |
