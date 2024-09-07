@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Imperium XIII
-description: W:29 L:21 D:0 Bonus ✅
+description: W:29 L:21 D:0 Bonus ❌
 date: 1725120648
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

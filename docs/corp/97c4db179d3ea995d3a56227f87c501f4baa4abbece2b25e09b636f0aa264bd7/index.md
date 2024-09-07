@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​BoomTech
-description: W:23 L:8 D:2 Bonus ✅
+description: W:23 L:8 D:2 Bonus ❌
 date: 1725721350
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
