@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​Север РусКорп
-description: W:21 L:11 D:0 Bonus ✅
-date: 1725136276
+description: W:22 L:11 D:0 Bonus ✅
+date: 1725710529
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1306 🔺  (118)|
-| ELO Competitive | 1393 🔺  (102)|
-| Total Matches | 32 |
-| Wins | 21 |
+| ELO Regular | 1318 🔺  (104)|
+| ELO Competitive | 1404 🔺  (99)|
+| Total Matches | 33 |
+| Wins | 22 |
 | Losses | 11 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 5 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724704276,1724693181,1724072942,1724062981,1723595973,1722780986,1722780385,1722252391,1721632710,1721596054,1721073761,1721071356,1720435690,1720404141,1719782660,1719776949,1719043095,1718404217,1716672328,1716084346,1715470523,1714885846,1714083206,1713558018,1712984116,1712337797,1711788819,1711313476,1710689693,1710191216,1709611546,1708931910];
+        let timestamps = [1725278529,1724704276,1724693181,1724072942,1724062981,1723595973,1722780986,1722780385,1722252391,1721632710,1721596054,1721073761,1721071356,1720435690,1720404141,1719782660,1719776949,1719043095,1718404217,1716672328,1716084346,1715470523,1714885846,1714083206,1713558018,1712984116,1712337797,1711788819,1711313476,1710689693,1710191216,1709611546,1708931910];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/07 | 24-2 | [Galaktika corp](https://ws.tsl.rocks/corp/c37872d1ea085402bf536c707a895610f72dafda4bede848405b7908b4523985/) |
 | ✅ | 2024/08/31 | 15-3 | [U\.S\.A](https://ws.tsl.rocks/corp/6d7a18e9893736881762a4e1b687b55e7311d367267ff5a9cc8e45722b14ea06/) |
 | ❌ | 2024/08/31 | 0-18 | [星河绮梦](https://ws.tsl.rocks/corp/ec0d7f12f69610e8f68f4ea0af9698755a0a1435e0845c27c47fcbec0b1b672a/) |
 | ✅ | 2024/08/24 | 22-5 | [Ophelia VII](https://ws.tsl.rocks/corp/dbfa2646c70833a8a7b5648a68c78e0b3fb08c613cee606e3f7f38a97993b042/) |

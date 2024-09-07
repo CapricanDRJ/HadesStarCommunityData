@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​ANDROMEDA INC. 
-description: W:21 L:1 D:1 Bonus ❌
-date: 1723897846
+description: W:22 L:1 D:1 Bonus ✅
+date: 1725712032
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1427 🔺  (30)|
-| ELO Competitive | 1446 🔺  (59)|
-| Total Matches | 23 |
-| Wins | 21 |
+| ELO Regular | 1429 🔺  (29)|
+| ELO Competitive | 1450 🔺  (56)|
+| Total Matches | 24 |
+| Wins | 22 |
 | Losses | 1 |
 | Draws | 1 |
-| Streak | 14 |
-| Streak Record | 14 |
+| Streak | 15 |
+| Streak Record | 15 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723465846,1719831031,1716804248,1715602123,1713772236,1712573076,1711364471,1710152149,1709553309,1708946932,1708354365,1707737432,1706526990,1705926563,1704714894,1704108454,1702899250,1702293056,1701696769,1701084567,1700492184,1699879305,1699269781];
+        let timestamps = [1725280032,1723465846,1719831031,1716804248,1715602123,1713772236,1712573076,1711364471,1710152149,1709553309,1708946932,1708354365,1707737432,1706526990,1705926563,1704714894,1704108454,1702899250,1702293056,1701696769,1701084567,1700492184,1699879305,1699269781];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/07 | 29-3 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
 | ✅ | 2024/08/17 | 30-6 | [Got Nothing](https://ws.tsl.rocks/corp/ea7879fd9cbed37b260ec2bf39339786942fb34216036a90e107ba525f5924e1/) |
 | ✅ | 2024/07/06 | 23-13 | [Imperium XIII](https://ws.tsl.rocks/corp/0d52edf77b0cdeaaea6ebc20a7f5b6a60372b535bf96f556b31e2243dc8ee75a/) |
 | ✅ | 2024/06/01 | 43-5 | [Space Marshalls](https://ws.tsl.rocks/corp/6a41cc36abf3a28a1c26bc22843f1892d6938e8eb1e8f8a10fd9e6e964e06c2c/) |

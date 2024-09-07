@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Utd. Human Fed.
-description: W:27 L:23 D:1 Bonus ✅
+description: W:27 L:23 D:1 Bonus ❌
 date: 1725697609
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
