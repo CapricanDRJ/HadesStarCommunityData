@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​BoomTech
-description: W:23 L:7 D:2 Bonus ✅
-date: 1725116439
+description: W:23 L:8 D:2 Bonus ✅
+date: 1725721350
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1342 🔺  (83)|
-| ELO Competitive | 1415 🔺  (88)|
-| Total Matches | 32 |
+| ELO Regular | 1329 🔻  (94)|
+| ELO Competitive | 1401 🔻  (99)|
+| Total Matches | 33 |
 | Wins | 23 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 2 |
-| Streak | 3 |
 | Streak Record | 5 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724684439,1724087026,1723473663,1723142198,1722895187,1722282748,1721937734,1721691617,1721166632,1721165128,1720542681,1720055828,1719350535,1718736288,1718106545,1717534261,1716898613,1716308181,1715689554,1715103975,1714476811,1713906540,1713322164,1712671934,1712083296,1711464303,1710855548,1710292471,1709693930,1709061728,1708433394,1707414558];
+        let timestamps = [1725289350,1724684439,1724087026,1723473663,1723142198,1722895187,1722282748,1721937734,1721691617,1721166632,1721165128,1720542681,1720055828,1719350535,1718736288,1718106545,1717534261,1716898613,1716308181,1715689554,1715103975,1714476811,1713906540,1713322164,1712671934,1712083296,1711464303,1710855548,1710292471,1709693930,1709061728,1708433394,1707414558];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/07 | 2-25 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ✅ | 2024/08/31 | 5-0 | [P\!RAT£ SHIP](https://ws.tsl.rocks/corp/edee949826201f74f57f45c101789757954710e3d075602dfdda7765a69a7e7c/) |
 | ✅ | 2024/08/24 | 21-0 | [Kötbrüder](https://ws.tsl.rocks/corp/3bc45b26e12a26f4a564473f04ec6d044b2fe0dd52486e45348dfd8a10340fe7/) |
 | ✅ | 2024/08/17 | 4-3 | [Grater U](https://ws.tsl.rocks/corp/0e4162ae372602616761a4d3d17986722b9cc8c4371f9ddeadb3d0d37aace4fa/) |
