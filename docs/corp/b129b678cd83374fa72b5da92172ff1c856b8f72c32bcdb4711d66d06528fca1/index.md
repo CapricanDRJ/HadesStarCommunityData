@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​1st/Ave/Junkie2
-description: W:17 L:23 D:1 Bonus ✅
+description: W:17 L:23 D:1 Bonus ❌
 date: 1725045520
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

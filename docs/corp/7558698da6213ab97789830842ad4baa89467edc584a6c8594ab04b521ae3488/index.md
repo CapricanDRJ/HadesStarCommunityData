@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Тёмный Феникс
-description: W:0 L:9 D:0 Bonus ❌
-date: 1725650139
+description: W:0 L:10 D:0 Bonus ❌
+date: 1725661259
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1098 🔻  (1161)|
-| ELO Competitive | 1100 🔻  (1205)|
-| Total Matches | 9 |
+| ELO Regular | 1090 🔻  (1172)|
+| ELO Competitive | 1103 🔻  (1202)|
+| Total Matches | 10 |
 | Wins | 0 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725218139,1724009195,1716833406,1712398792,1709356793,1708626312,1706380341,1705176787,1699595827];
+        let timestamps = [1725229259,1725218139,1724009195,1716833406,1712398792,1709356793,1708626312,1706380341,1705176787,1699595827];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/06 | 0-16 | [Sich\.ua](https://ws.tsl.rocks/corp/9fcd6d7c4fe7f8e39acf48585dfe9c6d3d14edc7781fe8caf85618b3e98c685d/) |
 | ❌ | 2024/09/06 | 0-39 | [Sprite](https://ws.tsl.rocks/corp/3bf5d300b42f0610355645e2ee9cf24e5517a2c5e12472f685781051619266ac/) |
 | ❌ | 2024/08/23 | 0-26 | [Albedo](https://ws.tsl.rocks/corp/8e9848f9867c594384d6a31618213447f358c7b308fee91d20991b80b513fdbb/) |
 | ❌ | 2024/06/01 | 0-45 | [Bl@ck/Galaxy ](https://ws.tsl.rocks/corp/76f8fe0dcd8b8c1cb8e0083f14c0b36c23bb9757a3af0f191b567774c02222a3/) |
