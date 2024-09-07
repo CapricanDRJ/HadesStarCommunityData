@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​舰队联邦[FF]
-description: W:1 L:4 D:2 Bonus ✅
+description: W:1 L:4 D:2 Bonus ❌
 date: 1725267416
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

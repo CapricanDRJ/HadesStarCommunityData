@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​[Blue＊Nation]
-description: W:36 L:6 D:0 Bonus ✅
+description: W:36 L:6 D:0 Bonus ❌
 date: 1725071661
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1504 🔺  (7)|
-| ELO Competitive | 1546 🔺  (16)|
+| ELO Competitive | 1546 🔺  (15)|
 | Total Matches | 42 |
 | Wins | 36 |
 | Losses | 6 |

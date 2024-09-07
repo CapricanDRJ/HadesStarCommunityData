@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Галактика Зла
-description: W:13 L:17 D:0 Bonus ❌
-date: 1724478756
+description: W:14 L:17 D:0 Bonus ✅
+date: 1725691300
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1220 🔻  (324)|
-| ELO Competitive | 1246 🔻  (343)|
-| Total Matches | 30 |
-| Wins | 13 |
+| ELO Regular | 1239 🔺  (256)|
+| ELO Competitive | 1272 🔺  (279)|
+| Total Matches | 31 |
+| Wins | 14 |
 | Losses | 17 |
 | Draws | 0 |
 | Streak Record | 4 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724046756,1722771381,1722230757,1721658256,1721005231,1720306172,1719779354,1719127247,1718565598,1717968015,1717313040,1716754674,1716164871,1715600321,1714937828,1713483907,1711314377,1710104383,1708880532,1707680346,1707076634,1706477713,1705263940,1704654797,1703446118,1702836142,1702237160,1701025666,1699818296,1699206687];
+        let timestamps = [1725259300,1724046756,1722771381,1722230757,1721658256,1721005231,1720306172,1719779354,1719127247,1718565598,1717968015,1717313040,1716754674,1716164871,1715600321,1714937828,1713483907,1711314377,1710104383,1708880532,1707680346,1707076634,1706477713,1705263940,1704654797,1703446118,1702836142,1702237160,1701025666,1699818296,1699206687];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/07 | 22-4 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ❌ | 2024/08/24 | 0-14 | [9\-Й СКОРПИОН](https://ws.tsl.rocks/corp/5ad79ec30d5d805635609e2b1e1cf5f399486c1d57f6101cb6015afbd50f5913/) |
 | ✅ | 2024/08/09 | 28-0 | [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) |
 | ❌ | 2024/08/03 | 0-31 | [\[Blue\*Nation\]](https://ws.tsl.rocks/corp/38cd283c7bb8ee0390f5624e49a3465b1d4a8c789cc2d501f38918a16f6140e2/) |

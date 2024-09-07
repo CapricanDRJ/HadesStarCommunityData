@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​ДИВЕРСАНТЫ
-description: W:50 L:8 D:1 Bonus ❌
-date: 1724936728
+description: W:51 L:8 D:1 Bonus ✅
+date: 1725686192
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1523 🔺  (4)|
-| ELO Competitive | 1593 🔺  (8)|
-| Total Matches | 59 |
-| Wins | 50 |
+| ELO Regular | 1531 🔺  (4)|
+| ELO Competitive | 1605 🔺  (5)|
+| Total Matches | 60 |
+| Wins | 51 |
 | Losses | 8 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 23 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724504728,1724059375,1723627221,1723187570,1722754837,1722228954,1721793788,1721304254,1720855549,1720423071,1719985198,1719550364,1719039788,1718604357,1718125182,1717678210,1717230081,1716793130,1716361056,1715926005,1715492754,1714805624,1714299529,1713865072,1713432137,1712995235,1712562860,1712488035,1712053243,1711618740,1711096514,1710662945,1710230271,1710225163,1709792179,1709359497,1708922596,1708419572,1707986854,1707546168,1707058900,1706624660,1706192516,1705756168,1705323432,1704889193,1704456449,1704022812,1703580141,1703142279,1702709009,1702200787,1701767395,1701332216,1700895815,1700452215,1699970972,1699522493,1699075073];
+        let timestamps = [1725254192,1724504728,1724059375,1723627221,1723187570,1722754837,1722228954,1721793788,1721304254,1720855549,1720423071,1719985198,1719550364,1719039788,1718604357,1718125182,1717678210,1717230081,1716793130,1716361056,1715926005,1715492754,1714805624,1714299529,1713865072,1713432137,1712995235,1712562860,1712488035,1712053243,1711618740,1711096514,1710662945,1710230271,1710225163,1709792179,1709359497,1708922596,1708419572,1707986854,1707546168,1707058900,1706624660,1706192516,1705756168,1705323432,1704889193,1704456449,1704022812,1703580141,1703142279,1702709009,1702200787,1701767395,1701332216,1700895815,1700452215,1699970972,1699522493,1699075073];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,10 +118,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 4 | 0 | 0 | 4 |
 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) | 3 | 0 | 0 | 3 |
 | [Zvezdec](https://ws.tsl.rocks/corp/7bce2af674b8fb313f43e497201ad86b230571cc3e200f44132be528eb4076d9/) | 1 | 1 | 0 | 2 |
 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 4 | 1 | 0 | 5 |
-| [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 3 | 0 | 0 | 3 |
 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) | 2 | 0 | 0 | 2 |
 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) | 2 | 0 | 0 | 2 |
 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) | 1 | 1 | 0 | 2 |
@@ -134,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/07 | 26-12 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | ✅ | 2024/08/29 | 27-16 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) |
 | ❌ | 2024/08/24 | 8-16 | [Zvezdec](https://ws.tsl.rocks/corp/7bce2af674b8fb313f43e497201ad86b230571cc3e200f44132be528eb4076d9/) |
 | ✅ | 2024/08/19 | 43-3 | [Moon Catchers](https://ws.tsl.rocks/corp/0625bb885137c3824ac346b97780181e23ee84562237eb345baa364f8d7d3c43/) |
