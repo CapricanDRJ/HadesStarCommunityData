@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Hand Of NOD! 
-description: W:36 L:5 D:0 Bonus ✅
+description: W:36 L:5 D:0 Bonus ❌
 date: 1725167570
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
