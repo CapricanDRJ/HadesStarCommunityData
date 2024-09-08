@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​НИФИГАСЕБЕ
-description: W:8 L:22 D:0 Bonus ❌
-date: 1714308789
+description: W:8 L:23 D:0 Bonus ❌
+date: 1725775714
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1093 🔻  (1167)|
-| ELO Competitive | 1113 🔻  (1195)|
-| Total Matches | 30 |
+| ELO Regular | 1091 🔻  (1169)|
+| ELO Competitive | 1112 🔻  (1195)|
+| Total Matches | 31 |
 | Wins | 8 |
-| Losses | 22 |
+| Losses | 23 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1713876789,1713325469,1712883163,1712440865,1711956490,1710365184,1710174086,1709909662,1709456554,1709007032,1708552094,1708009993,1707547971,1707106982,1706661628,1705943997,1705463472,1705028033,1704594389,1704112962,1703457838,1702962666,1702461062,1701999119,1701550410,1701053015,1700608198,1700111691,1699674301,1698693080];
+        let timestamps = [1725343714,1713876789,1713325469,1712883163,1712440865,1711956490,1710365184,1710174086,1709909662,1709456554,1709007032,1708552094,1708009993,1707547971,1707106982,1706661628,1705943997,1705463472,1705028033,1704594389,1704112962,1703457838,1702962666,1702461062,1701999119,1701550410,1701053015,1700608198,1700111691,1699674301,1698693080];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/08 | 0-28 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) |
 | ❌ | 2024/04/28 | 2-39 | [Tuatha De Danan](https://ws.tsl.rocks/corp/7741dbd0c9e7ddbc162e374691cb3346e4bb6600840f7962ec4a4414d5d2f780/) |
 | ✅ | 2024/04/22 | 9-0 | [小宇宙研究会](https://ws.tsl.rocks/corp/61992de1d0e2d076e6605b47342a479c71b61d3811df514bbd1d5c5128e17203/) |
 | ❌ | 2024/04/17 | 1-22 | [GhostNakcoorp](https://ws.tsl.rocks/corp/0a15ae22cdfbd88694d3067838a78bea07746ec95f3784b3f65d77fe47d76312/) |

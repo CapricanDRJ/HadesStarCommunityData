@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​揽月宫
-description: W:4 L:2 D:0 Bonus ✅
+description: W:4 L:2 D:0 Bonus ❌
 date: 1725150397
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
