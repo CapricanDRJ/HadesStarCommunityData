@@ -1,19 +1,21 @@
 ---
 layout: page
 title: ​The Witness
-description: W:2 L:2 D:0 Bonus ✅
-date: 1725305154
+description: W:3 L:2 D:0 Bonus ✅
+date: 1725793461
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 🔺  (452)|
-| ELO Competitive | 1205 🔺  (533)|
-| Total Matches | 4 |
-| Wins | 2 |
+| ELO Regular | 1216 🔺  (348)|
+| ELO Competitive | 1221 🔺  (425)|
+| Total Matches | 5 |
+| Wins | 3 |
 | Losses | 2 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 
 
 # Whitestar Match Day
@@ -30,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724873154,1724401648,1723902493,1723397033];
+        let timestamps = [1725361461,1724873154,1724401648,1723902493,1723397033];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/08 | 5-0 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |
 | ✅ | 2024/09/02 | 3-0 | [Castellón ](https://ws.tsl.rocks/corp/fb37feb3f3a25067b78ab399c4596445451b0e856913d5588ca613bdd5a0456a/) |
 | ❌ | 2024/08/28 | 2-3 | [游徒之家](https://ws.tsl.rocks/corp/7ab5f6970c8703095b0589da6e5d648dc64a94ca6d901ef09d4949409b2c44b9/) |
 | ✅ | 2024/08/22 | 1-0 | [The Belters](https://ws.tsl.rocks/corp/1cd5dde249c27c1353d5526f2b41bdaa54d289a3d5eeba035a7a49f382f10a7b/) |

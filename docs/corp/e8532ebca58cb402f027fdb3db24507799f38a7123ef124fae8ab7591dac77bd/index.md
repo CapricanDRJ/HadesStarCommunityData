@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​仙女座星雲
-description: W:56 L:41 D:3 Bonus ✅
+description: W:56 L:41 D:3 Bonus ❌
 date: 1725779341
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1281 🔻  (159)|
+| ELO Regular | 1281 🔻  (158)|
 | ELO Competitive | 1539 🔻  (19)|
 | Total Matches | 100 |
 | Wins | 56 |

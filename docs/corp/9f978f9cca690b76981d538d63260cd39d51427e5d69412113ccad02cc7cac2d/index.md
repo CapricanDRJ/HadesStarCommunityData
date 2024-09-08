@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Soylent Corp.
-description: W:25 L:14 D:0 Bonus ❌
-date: 1725236638
+description: W:25 L:15 D:0 Bonus ❌
+date: 1725789856
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1272 🔻  (179)|
-| ELO Competitive | 1329 🔻  (174)|
-| Total Matches | 39 |
+| ELO Regular | 1259 🔻  (206)|
+| ELO Competitive | 1315 🔻  (200)|
+| Total Matches | 40 |
 | Wins | 25 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 0 |
 | Streak Record | 7 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724804638,1724073500,1723461037,1722925834,1722378610,1721851190,1719226118,1718614872,1718021801,1716913648,1715719604,1715032469,1714474707,1713847949,1713309549,1712563762,1712042728,1711377469,1710942980,1710490767,1710034665,1709543093,1709069242,1708620301,1708162042,1707665618,1707220982,1706715717,1706072916,1705592387,1705112774,1705092340,1704621434,1704082613,1703619215,1703008245,1702487213,1702021054,1701445819];
+        let timestamps = [1725357856,1724804638,1724073500,1723461037,1722925834,1722378610,1721851190,1719226118,1718614872,1718021801,1716913648,1715719604,1715032469,1714474707,1713847949,1713309549,1712563762,1712042728,1711377469,1710942980,1710490767,1710034665,1709543093,1709069242,1708620301,1708162042,1707665618,1707220982,1706715717,1706072916,1705592387,1705112774,1705092340,1704621434,1704082613,1703619215,1703008245,1702487213,1702021054,1701445819];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -128,6 +128,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/08 | 0-21 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) |
 | ❌ | 2024/09/02 | 11-46 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | ❌ | 2024/08/24 | 4-27 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) |
 | ✅ | 2024/08/17 | 30-15 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) |
