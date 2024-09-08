@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​GDZ
-description: W:34 L:30 D:0 Bonus ✅
+description: W:34 L:30 D:0 Bonus ❌
 date: 1725132670
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

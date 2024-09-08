@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​Emergence
-description: W:27 L:3 D:0 Bonus ✅
+description: W:27 L:3 D:0 Bonus ❌
 date: 1725621885
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1438 🔻  (27)|
+| ELO Regular | 1438 🔻  (26)|
 | ELO Competitive | 1488 🔻  (37)|
 | Total Matches | 30 |
 | Wins | 27 |
