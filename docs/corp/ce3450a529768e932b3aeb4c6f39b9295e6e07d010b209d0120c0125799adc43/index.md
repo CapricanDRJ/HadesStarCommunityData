@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​R-6 satalite
-description: W:31 L:11 D:1 Bonus ❌
-date: 1725114636
+description: W:31 L:12 D:1 Bonus ❌
+date: 1725817805
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1368 🔺  (63)|
-| ELO Competitive | 1418 🔺  (82)|
-| Total Matches | 43 |
+| ELO Regular | 1349 🔻  (77)|
+| ELO Competitive | 1398 🔻  (100)|
+| Total Matches | 44 |
 | Wins | 31 |
-| Losses | 11 |
+| Losses | 12 |
 | Draws | 1 |
-| Streak | 8 |
 | Streak Record | 10 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724682636,1724090933,1723436096,1722505115,1721784663,1721135069,1720336819,1719639611,1719127247,1718528026,1717841780,1717238796,1716585845,1715988202,1715415531,1714783991,1714161323,1713528585,1712924322,1712337496,1711732629,1711104325,1710502785,1709991393,1709554511,1709087268,1708621803,1708187888,1707747650,1707264261,1706828713,1706359902,1705899520,1705467378,1705026831,1704593488,1704135506,1703634646,1703634543,1703178947,1702584291,1702140978,1701667319];
+        let timestamps = [1725385805,1724682636,1724090933,1723436096,1722505115,1721784663,1721135069,1720336819,1719639611,1719127247,1718528026,1717841780,1717238796,1716585845,1715988202,1715415531,1714783991,1714161323,1713528585,1712924322,1712337496,1711732629,1711104325,1710502785,1709991393,1709554511,1709087268,1708621803,1708187888,1707747650,1707264261,1706828713,1706359902,1705899520,1705467378,1705026831,1704593488,1704135506,1703634646,1703634543,1703178947,1702584291,1702140978,1701667319];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [lonewolf](https://ws.tsl.rocks/corp/216c1ab0bb2cbf918019c0a38a37820a9d5d78d7c5801983ed6e3b17bebdc5f3/) | 0 | 2 | 0 | 2 |
 | [自由星际联盟](https://ws.tsl.rocks/corp/933277ff64041b32fe12e4e564e2064071377343596c7944fb8c145165e2ab04/) | 2 | 0 | 0 | 2 |
 | [Warriorlords](https://ws.tsl.rocks/corp/a78c29b9e1c9f793205ba10d796dcabc114ef43d86f0bd34a43a56dc6da768aa/) | 1 | 1 | 0 | 2 |
 
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/08 | 5-18 | [lonewolf](https://ws.tsl.rocks/corp/216c1ab0bb2cbf918019c0a38a37820a9d5d78d7c5801983ed6e3b17bebdc5f3/) |
 | ✅ | 2024/08/31 | 33-3 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |
 | ✅ | 2024/08/24 | 28-5 | [Bacon Warriors](https://ws.tsl.rocks/corp/ec62b01fc96adc2a7b7ac4077438e5153eeefc94740fab8309dcb6613e3a7f48/) |
 | ✅ | 2024/08/17 | 19-0 | [云霄宫](https://ws.tsl.rocks/corp/c319ac731957c1d658994ab5727dec3d0ccfdcd31b00ee66efbf07be25bdc3e1/) |

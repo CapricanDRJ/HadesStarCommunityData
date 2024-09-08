@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Fairy tail 
-description: W:2 L:2 D:0 Bonus ✅
+description: W:2 L:2 D:0 Bonus ❌
 date: 1725201478
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
