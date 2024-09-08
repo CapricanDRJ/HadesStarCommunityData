@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​RedStar Raiding
-description: W:7 L:34 D:1 Bonus ❌
-date: 1725226423
+description: W:7 L:35 D:1 Bonus ❌
+date: 1725825019
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1019 🔻  (1219)|
-| ELO Competitive | 1062 🔻  (1229)|
-| Total Matches | 42 |
+| ELO Regular | 1014 🔻  (1221)|
+| ELO Competitive | 1057 🔻  (1231)|
+| Total Matches | 43 |
 | Wins | 7 |
-| Losses | 34 |
+| Losses | 35 |
 | Draws | 1 |
 | Streak Record | 3 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724794423,1724198213,1723579448,1723021093,1722385518,1721771256,1721165128,1720563159,1719956061,1719368261,1718776852,1718179873,1717572119,1716943402,1716344833,1715740933,1715070621,1714566653,1713936580,1713394286,1712741941,1712079689,1711486242,1710925254,1710357370,1709708050,1709147363,1708572507,1707898809,1707393821,1706745771,1706140533,1705531091,1704912638,1704423812,1703189166,1702615844,1702014744,1701510433,1700856146,1700209666,1699604245];
+        let timestamps = [1725393019,1724794423,1724198213,1723579448,1723021093,1722385518,1721771256,1721165128,1720563159,1719956061,1719368261,1718776852,1718179873,1717572119,1716943402,1716344833,1715740933,1715070621,1714566653,1713936580,1713394286,1712741941,1712079689,1711486242,1710925254,1710357370,1709708050,1709147363,1708572507,1707898809,1707393821,1706745771,1706140533,1705531091,1704912638,1704423812,1703189166,1702615844,1702014744,1701510433,1700856146,1700209666,1699604245];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/08 | 3-17 | [Sprite](https://ws.tsl.rocks/corp/3bf5d300b42f0610355645e2ee9cf24e5517a2c5e12472f685781051619266ac/) |
 | ❌ | 2024/09/01 | 1-14 | [Dumpster Fire 2](https://ws.tsl.rocks/corp/37d473dec00d4d68e29963e3b423670aac735e7c1f256276e6c2e7d62180b0f8/) |
 | ❌ | 2024/08/25 | 1-15 | [游徒之家](https://ws.tsl.rocks/corp/7ab5f6970c8703095b0589da6e5d648dc64a94ca6d901ef09d4949409b2c44b9/) |
 | ❌ | 2024/08/18 | 0-9 | [империя тьмы](https://ws.tsl.rocks/corp/4eb22a1b793e5d03579cea15c873b1bef56fea02420a4e55edb18a200f7fc46a/) |
