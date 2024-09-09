@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​星际集团
-description: W:9 L:8 D:2 Bonus ✅
+description: W:9 L:8 D:2 Bonus ❌
 date: 1725793461
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

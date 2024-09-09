@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Corp. Estelar
-description: W:14 L:11 D:0 Bonus ❌
-date: 1725683788
+description: W:15 L:11 D:0 Bonus ✅
+date: 1725852659
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1268 🔻  (189)|
-| ELO Competitive | 1320 🔻  (190)|
-| Total Matches | 25 |
-| Wins | 14 |
+| ELO Regular | 1281 🔺  (159)|
+| ELO Competitive | 1346 🔺  (153)|
+| Total Matches | 26 |
+| Wins | 15 |
 | Losses | 11 |
 | Draws | 0 |
 | Streak Record | 4 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725251788,1724623137,1724006790,1723457130,1722872043,1722267119,1721686210,1721065344,1720482277,1719893239,1719275708,1717991450,1717451310,1716346035,1713320663,1712575480,1711991351,1711395200,1710951394,1709616109,1709034980,1708298177,1707301215,1707273274,1698815422];
+        let timestamps = [1725420659,1725251788,1724623137,1724006790,1723457130,1722872043,1722267119,1721686210,1721065344,1720482277,1719893239,1719275708,1717991450,1717451310,1716346035,1713320663,1712575480,1711991351,1711395200,1710951394,1709616109,1709034980,1708298177,1707301215,1707273274,1698815422];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/09 | 15-3 | [Nine's Own Goal](https://ws.tsl.rocks/corp/fd47245550708347721e341d893b73e7c23e0f3624053c47ce666e55641c9e9e/) |
 | ❌ | 2024/09/07 | 6-32 | [Zvezdec](https://ws.tsl.rocks/corp/7bce2af674b8fb313f43e497201ad86b230571cc3e200f44132be528eb4076d9/) |
 | ✅ | 2024/08/30 | 18-8 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |
 | ✅ | 2024/08/23 | 21-6 | [Dumpster Fire](https://ws.tsl.rocks/corp/f191bf7efb93ca805453b3e11aef9278976a4c70fe9790e7813f28fcdf899121/) |
