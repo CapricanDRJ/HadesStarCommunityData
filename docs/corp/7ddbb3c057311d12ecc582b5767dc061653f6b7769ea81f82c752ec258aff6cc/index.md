@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Internationals
-description: W:19 L:10 D:0 Bonus ✅
-date: 1725300946
+description: W:20 L:10 D:0 Bonus ✅
+date: 1725888715
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1352 🔺  (75)|
-| ELO Competitive | 1380 🔺  (121)|
-| Total Matches | 29 |
-| Wins | 19 |
+| ELO Regular | 1360 🔺  (69)|
+| ELO Competitive | 1388 🔺  (110)|
+| Total Matches | 30 |
+| Wins | 20 |
 | Losses | 10 |
 | Draws | 0 |
-| Streak | 6 |
+| Streak | 7 |
 | Streak Record | 9 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724868946,1724844300,1724181987,1723662385,1722962498,1722440208,1721783573,1721151302,1720565225,1720026375,1719358648,1718785865,1717641848,1716943402,1716272729,1715722609,1715119301,1714520383,1713944090,1709130533,1708453531,1702238062,1701630957,1701103804,1700600683,1699970972,1699394494,1699366541,1698763422];
+        let timestamps = [1725456715,1724868946,1724844300,1724181987,1723662385,1722962498,1722440208,1721783573,1721151302,1720565225,1720026375,1719358648,1718785865,1717641848,1716943402,1716272729,1715722609,1715119301,1714520383,1713944090,1709130533,1708453531,1702238062,1701630957,1701103804,1700600683,1699970972,1699394494,1699366541,1698763422];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/09 | 24-10 | [Void](https://ws.tsl.rocks/corp/d647d722a09f020b716e059ac7758172a560c7190ac4d7d306c4ede8be6c5e77/) |
 | ✅ | 2024/09/02 | 33-14 | [NERF TOY'S](https://ws.tsl.rocks/corp/34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0/) |
 | ✅ | 2024/09/02 | 32-26 | [Fleet Corp Ares](https://ws.tsl.rocks/corp/8ceac360859239e9b9386b5e4a0c3d3c7e75941b010804ab8b405d9eb6f806f6/) |
 | ✅ | 2024/08/25 | 24-9 | [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) |

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​UFSG
-description: W:2 L:2 D:0 Bonus ✅
+description: W:2 L:2 D:0 Bonus ❌
 date: 1725267416
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
