@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​羽共和体
-description: W:14 L:22 D:5 Bonus ✅
-date: 1725301775
+description: W:14 L:22 D:6 Bonus ✅
+date: 1725860471
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1147 🔺  (1039)|
-| ELO Competitive | 1231 🔺  (390)|
-| Total Matches | 41 |
+| ELO Regular | 1148 🔺  (1035)|
+| ELO Competitive | 1229 🔻  (397)|
+| Total Matches | 42 |
 | Wins | 14 |
 | Losses | 22 |
-| Draws | 5 |
+| Draws | 6 |
 | Streak Record | 2 |
 
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724869775,1724285959,1724210831,1723637137,1723126871,1722691428,1722385518,1721913688,1721913387,1721480348,1721479747,1721020556,1720961345,1720536368,1719922686,1719890534,1719421450,1719412732,1716801844,1713560505,1713530087,1713012632,1713011760,1712075181,1711809554,1711546930,1711278309,1710855548,1710813789,1709698165,1708046957,1707362273,1706882198,1706270047,1705753163,1705320127,1704500929,1703344237,1702726440,1702177646,1701667319];
+        let timestamps = [1725428471,1724869775,1724285959,1724210831,1723637137,1723126871,1722691428,1722385518,1721913688,1721913387,1721480348,1721479747,1721020556,1720961345,1720536368,1719922686,1719890534,1719421450,1719412732,1716801844,1713560505,1713530087,1713012632,1713011760,1712075181,1711809554,1711546930,1711278309,1710855548,1710813789,1709698165,1708046957,1707362273,1706882198,1706270047,1705753163,1705320127,1704500929,1703344237,1702726440,1702177646,1701667319];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/09/09 | 11-11 | [AAAA](https://ws.tsl.rocks/corp/73b759d7c9218f2c1171f9ef691739331ca36ee045039f4f3f935a47b6622a27/) |
 | ✅ | 2024/09/02 | 8-5 | [Survivors](https://ws.tsl.rocks/corp/10eb3bf190162d1f8373394a774ca9fe65faf64b1e98400cceadb7f37028d7b0/) |
 | ❌ | 2024/08/27 | 3-15 | [揽月宫](https://ws.tsl.rocks/corp/16a4fe26591408a3f2128646e96c5ec1f82feb35f1f9743aebd2dae05095d2ed/) |
 | ❌ | 2024/08/26 | 3-11 | [ 墨痕 ](https://ws.tsl.rocks/corp/1beef0498f07b07217c6e0727dffd066947edc54ee6d09dc63c031def52cdd60/) |
