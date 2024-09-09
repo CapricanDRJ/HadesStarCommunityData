@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​八月政府
-description: W:2 L:22 D:1 Bonus ❌
-date: 1725343613
+description: W:2 L:23 D:1 Bonus ❌
+date: 1725869784
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1037 🔻  (1207)|
-| ELO Competitive | 1070 🔻  (1226)|
-| Total Matches | 25 |
+| ELO Regular | 1031 🔻  (1212)|
+| ELO Competitive | 1066 🔻  (1227)|
+| Total Matches | 26 |
 | Wins | 2 |
-| Losses | 22 |
+| Losses | 23 |
 | Draws | 1 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724911613,1723769964,1722992248,1722477171,1721903170,1721294638,1720697755,1719639611,1719204486,1718695712,1718255303,1717751242,1716869167,1716003522,1715427851,1714574466,1714128868,1713682404,1713014165,1712446573,1710377202,1709560821,1708241675,1707465939,1705576459];
+        let timestamps = [1725437784,1724911613,1723769964,1722992248,1722477171,1721903170,1721294638,1720697755,1719639611,1719204486,1718695712,1718255303,1717751242,1716869167,1716003522,1715427851,1714574466,1714128868,1713682404,1713014165,1712446573,1710377202,1709560821,1708241675,1707465939,1705576459];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/09 | 8-22 | [Kratos](https://ws.tsl.rocks/corp/1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b/) |
 | ❌ | 2024/09/03 | 6-35 | [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b/) |
 | ❌ | 2024/08/21 | 5-7 | [Crimson Dawn](https://ws.tsl.rocks/corp/d01a872035141501ad24bc84e5496d239d31d121774482b777bd8f2e03726d44/) |
 | ❌ | 2024/08/12 | 10-18 | [ЧВК "Котики"](https://ws.tsl.rocks/corp/b770b833fe257bc6accd1bbe82a887971291dd0038f8aa627a47f3ce063265c0/) |
