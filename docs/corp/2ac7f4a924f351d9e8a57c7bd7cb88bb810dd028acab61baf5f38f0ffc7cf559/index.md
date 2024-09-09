@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Regulus
-description: W:8 L:13 D:0 Bonus ✅
+description: W:8 L:13 D:0 Bonus ❌
 date: 1725280807
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
