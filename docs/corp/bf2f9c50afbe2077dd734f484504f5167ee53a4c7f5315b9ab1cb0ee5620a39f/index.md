@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​Nebulae Traders
-description: W:7 L:27 D:2 Bonus ❌
-date: 1725830730
+description: W:7 L:27 D:3 Bonus ❌
+date: 1725833792
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1041 🔻  (1206)|
-| ELO Competitive | 1143 🔻  (1138)|
-| Total Matches | 36 |
+| ELO Regular | 1047 🔺  (1205)|
+| ELO Competitive | 1156 🔺  (1086)|
+| Total Matches | 37 |
 | Wins | 7 |
 | Losses | 27 |
-| Draws | 2 |
+| Draws | 3 |
 | Streak Record | 2 |
 
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725398730,1724906805,1724883973,1724451240,1724445530,1723831868,1723826760,1723303219,1723294856,1722856529,1722851304,1722391227,1722390025,1721902869,1721897461,1721342121,1721197578,1720897630,1720387617,1719897145,1719433774,1718823133,1716078338,1715637282,1715113291,1713788760,1713203176,1712437860,1711409023,1710035723,1709402172,1707263531,1707260655,1706121534,1705966840,1698725548];
+        let timestamps = [1725401792,1725398730,1724906805,1724883973,1724451240,1724445530,1723831868,1723826760,1723303219,1723294856,1722856529,1722851304,1722391227,1722390025,1721902869,1721897461,1721342121,1721197578,1720897630,1720387617,1719897145,1719433774,1718823133,1716078338,1715637282,1715113291,1713788760,1713203176,1712437860,1711409023,1710035723,1709402172,1707263531,1707260655,1706121534,1705966840,1698725548];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/09/08 | 0-0 | [Сибиряки](https://ws.tsl.rocks/corp/8292ba421cc8d81ce0a483ceaedafeff0966e8afc1c1c689517971a223e2aaa8/) |
 | ❌ | 2024/09/08 | 0-19 | [U\.S\.A](https://ws.tsl.rocks/corp/6d7a18e9893736881762a4e1b687b55e7311d367267ff5a9cc8e45722b14ea06/) |
 | ❌ | 2024/09/03 | 0-12 | [AAAA](https://ws.tsl.rocks/corp/73b759d7c9218f2c1171f9ef691739331ca36ee045039f4f3f935a47b6622a27/) |
 | ❌ | 2024/09/02 | 0-45 | [Ninth Planet](https://ws.tsl.rocks/corp/53297ed66c8c326d4cb4eebdee55172d3d64f122addd5d916b314f4ab557e21a/) |
