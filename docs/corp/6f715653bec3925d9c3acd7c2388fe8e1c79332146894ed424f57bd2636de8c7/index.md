@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Mass Effect
-description: W:20 L:20 D:1 Bonus ❌
-date: 1725275999
+description: W:20 L:21 D:1 Bonus ❌
+date: 1725918168
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (813)|
-| ELO Competitive | 1225 🔻  (413)|
-| Total Matches | 41 |
+| ELO Regular | 1167 🔻  (928)|
+| ELO Competitive | 1220 🔻  (427)|
+| Total Matches | 42 |
 | Wins | 20 |
-| Losses | 20 |
+| Losses | 21 |
 | Draws | 1 |
 | Streak Record | 4 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724843999,1723717372,1723008773,1722183275,1721233640,1720720905,1720139986,1719662750,1719101106,1718589033,1718112857,1717345853,1716784417,1716210835,1715653504,1715116296,1714520383,1713835932,1713240434,1712620859,1711937563,1711326396,1710632600,1709970959,1709507044,1708933412,1708388026,1707871467,1707346952,1706563661,1706055490,1705454759,1704930971,1704459755,1703856322,1703199386,1702510059,1701887921,1700262267,1699663481,1698935023];
+        let timestamps = [1725486168,1724843999,1723717372,1723008773,1722183275,1721233640,1720720905,1720139986,1719662750,1719101106,1718589033,1718112857,1717345853,1716784417,1716210835,1715653504,1715116296,1714520383,1713835932,1713240434,1712620859,1711937563,1711326396,1710632600,1709970959,1709507044,1708933412,1708388026,1707871467,1707346952,1706563661,1706055490,1705454759,1704930971,1704459755,1703856322,1703199386,1702510059,1701887921,1700262267,1699663481,1698935023];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/09 | 7-16 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |
 | ❌ | 2024/09/02 | 19-21 | [Stella☆Glow](https://ws.tsl.rocks/corp/86a894b97d55e4f65a3cec65d26d528341d8e70b186bcffa2e89f5f681e48396/) |
 | ❌ | 2024/08/20 | 7-22 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
 | ❌ | 2024/08/12 | 13-42 | [Argentina 1\.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449/) |

@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​新?的星际集团?
-description: W:12 L:8 D:0 Bonus ✅
-date: 1725893825
+description: W:13 L:8 D:0 Bonus ✅
+date: 1725915411
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1230 🔻  (286)|
-| ELO Competitive | 1286 🔻  (248)|
-| Total Matches | 20 |
-| Wins | 12 |
+| ELO Regular | 1246 🔺  (234)|
+| ELO Competitive | 1317 🔺  (196)|
+| Total Matches | 21 |
+| Wins | 13 |
 | Losses | 8 |
 | Draws | 0 |
 | Streak Record | 5 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725461825,1725010052,1724982534,1724507734,1724496011,1724056371,1724044052,1723605588,1723547587,1723037622,1723029506,1722595265,1722593762,1722161630,1721657655,1721652544,1721219212,1721092693,1720591966,1719722998];
+        let timestamps = [1725483411,1725461825,1725010052,1724982534,1724507734,1724496011,1724056371,1724044052,1723605588,1723547587,1723037622,1723029506,1722595265,1722593762,1722161630,1721657655,1721652544,1721219212,1721092693,1720591966,1719722998];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/09 | 13-0 | [koalition](https://ws.tsl.rocks/corp/68d721684ab83df28cba0a58c608e5dd3c58df79369abffa67da4e8956ef2695/) |
 | ❌ | 2024/09/09 | 3-13 | [对，进就进人少的（分团）](https://ws.tsl.rocks/corp/69a860d3020745a9088fa70fa7ebc4caaa8a6181832961bcd607fbfa627203f3/) |
 | ❌ | 2024/09/04 | 0-11 | [Star Fleet](https://ws.tsl.rocks/corp/b50e0529c2b2e86bae23d0fb4cbcdc4bff7615c45efb95150747a89dd3ea0231/) |
 | ✅ | 2024/09/04 | 14-3 | [Star Blazers](https://ws.tsl.rocks/corp/f179acb7b919d9d3185f1fcd66bb17d5e257feab5039bcbf6efb5c8cd6f5c057/) |

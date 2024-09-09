@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​koalition
-description: W:10 L:6 D:1 Bonus ❌
-date: 1725107332
+description: W:10 L:7 D:1 Bonus ❌
+date: 1725915411
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1249 🔻  (224)|
-| ELO Competitive | 1264 🔻  (300)|
-| Total Matches | 17 |
+| ELO Regular | 1233 🔻  (274)|
+| ELO Competitive | 1250 🔻  (335)|
+| Total Matches | 18 |
 | Wins | 10 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 1 |
 | Streak Record | 8 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724675332,1724112269,1722703673,1722254194,1721717758,1721129957,1720560037,1719745689,1719087560,1718487336,1717929537,1717445900,1716925122,1716123104,1713447160,1706916461,1705854143];
+        let timestamps = [1725483411,1724675332,1724112269,1722703673,1722254194,1721717758,1721129957,1720560037,1719745689,1719087560,1718487336,1717929537,1717445900,1716925122,1716123104,1713447160,1706916461,1705854143];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/09 | 0-13 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ❌ | 2024/08/31 | 0-7 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
 | ❌ | 2024/08/25 | 8-14 | [P\!RAT£ SHIP](https://ws.tsl.rocks/corp/edee949826201f74f57f45c101789757954710e3d075602dfdda7765a69a7e7c/) |
 | ❌ | 2024/08/08 | 0-4 | [萌新的收留所](https://ws.tsl.rocks/corp/1dd3f70c959e32c27cb4c010162be3799b7c0732115d5c2b7ca5979f48b10f7f/) |
