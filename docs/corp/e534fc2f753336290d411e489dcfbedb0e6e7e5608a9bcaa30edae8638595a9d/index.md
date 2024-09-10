@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​阿尔特拉太空港
-description: W:7 L:5 D:1 Bonus ✅
-date: 1725517609
+description: W:8 L:5 D:1 Bonus ✅
+date: 1725996295
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1218 🔺  (337)|
-| ELO Competitive | 1238 🔺  (369)|
-| Total Matches | 13 |
-| Wins | 7 |
+| ELO Regular | 1231 🔺  (281)|
+| ELO Competitive | 1252 🔺  (331)|
+| Total Matches | 14 |
+| Wins | 8 |
 | Losses | 5 |
 | Draws | 1 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 5 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725085609,1724823179,1724336140,1724320812,1723630827,1723015985,1722509622,1722051622,1721616184,1721170235,1720710383,1720183555,1719644719];
+        let timestamps = [1725564295,1725085609,1724823179,1724336140,1724320812,1723630827,1723015985,1722509622,1722051622,1721616184,1721170235,1720710383,1720183555,1719644719];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/10 | 3-1 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 | ✅ | 2024/09/05 | 2-0 | [Poggy Rockers](https://ws.tsl.rocks/corp/47aeb151232251d9e53310e21f1290b1240c63878169968847bd1e89efc909a7/) |
 | ✅ | 2024/09/02 | 5-0 | [超新星联盟](https://ws.tsl.rocks/corp/c3667794c88fd0a09f565dc3b4fed5325f131a616d01d0f6890755b44997d0a1/) |
 | ❌ | 2024/08/27 | 0-4 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |
