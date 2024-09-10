@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​ЧВК "Котики"
-description: W:25 L:16 D:3 Bonus ❌
-date: 1725489967
+description: W:26 L:16 D:3 Bonus ✅
+date: 1725951516
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1313 🔻  (112)|
-| ELO Competitive | 1353 🔻  (146)|
-| Total Matches | 44 |
-| Wins | 25 |
+| ELO Regular | 1315 🔺  (109)|
+| ELO Competitive | 1359 🔺  (141)|
+| Total Matches | 45 |
+| Wins | 26 |
 | Losses | 16 |
 | Draws | 3 |
 | Streak Record | 5 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725057967,1724625240,1724104458,1723588462,1722992248,1722466055,1721949254,1721373067,1720904545,1720258382,1719823611,1719120334,1718565598,1718087315,1718082808,1717486464,1716868265,1716848736,1716281740,1716263715,1715689554,1715667923,1714995507,1714986494,1714376450,1714374047,1713772837,1713241133,1712557452,1711967006,1711347123,1710741976,1710064411,1709454151,1708905473,1708088721,1707462634,1706695581,1705822584,1704878676,1703737619,1702880018,1701721720,1700598278];
+        let timestamps = [1725519516,1725057967,1724625240,1724104458,1723588462,1722992248,1722466055,1721949254,1721373067,1720904545,1720258382,1719823611,1719120334,1718565598,1718087315,1718082808,1717486464,1716868265,1716848736,1716281740,1716263715,1715689554,1715667923,1714995507,1714986494,1714376450,1714374047,1713772837,1713241133,1712557452,1711967006,1711347123,1710741976,1710064411,1709454151,1708905473,1708088721,1707462634,1706695581,1705822584,1704878676,1703737619,1702880018,1701721720,1700598278];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/10 | 29-0 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) |
 | ❌ | 2024/09/04 | 17-20 | [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) |
 | ❌ | 2024/08/30 | 0-31 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/54b8724d96e9c022ab2907e45bead9f5b45b02fca093dc0fe5827f14644b2663/) |
 | ✅ | 2024/08/24 | 4-0 | [nuevo mundo](https://ws.tsl.rocks/corp/5675df73364d8b031e9541d8aa8d5a9e55649ef419ad87c0b21dec77a0ed6044/) |
