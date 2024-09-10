@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Highlife
-description: W:19 L:23 D:1 Bonus ❌
-date: 1725344514
+description: W:20 L:23 D:1 Bonus ✅
+date: 1725940098
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1135 🔻  (1090)|
-| ELO Competitive | 1173 🔻  (962)|
-| Total Matches | 43 |
-| Wins | 19 |
+| ELO Regular | 1155 🔺  (1013)|
+| ELO Competitive | 1195 🔺  (611)|
+| Total Matches | 44 |
+| Wins | 20 |
 | Losses | 23 |
 | Draws | 1 |
 | Streak Record | 6 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724912514,1724268532,1723658778,1723113947,1722488288,1721883939,1721252276,1720643061,1720047717,1719518816,1718828844,1718316913,1717703764,1717108680,1716585177,1715892661,1715368064,1714896662,1714240042,1713302939,1712699283,1712098021,1710978739,1710546356,1710536441,1709934906,1709338166,1708731486,1708211329,1706922169,1706360804,1705804255,1705287678,1704775302,1703895393,1703462946,1703030787,1702598418,1702163523,1701470768,1700868470,1700235814,1698969283];
+        let timestamps = [1725508098,1724912514,1724268532,1723658778,1723113947,1722488288,1721883939,1721252276,1720643061,1720047717,1719518816,1718828844,1718316913,1717703764,1717108680,1716585177,1715892661,1715368064,1714896662,1714240042,1713302939,1712699283,1712098021,1710978739,1710546356,1710536441,1709934906,1709338166,1708731486,1708211329,1706922169,1706360804,1705804255,1705287678,1704775302,1703895393,1703462946,1703030787,1702598418,1702163523,1701470768,1700868470,1700235814,1698969283];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/10 | 10-9 | [ZION](https://ws.tsl.rocks/corp/99ac8e5c0f22878b9a4458953d0c712ada17ef36ae195ccf39c7921dc996adfe/) |
 | ❌ | 2024/09/03 | 11-43 | [Famous Assasins](https://ws.tsl.rocks/corp/8a3aea3b3dacfd3dcdb402e896204557e250b07b8a5e04b5814600c66cc1a25b/) |
 | ❌ | 2024/08/26 | 10-17 | [Space Marshalls](https://ws.tsl.rocks/corp/6a41cc36abf3a28a1c26bc22843f1892d6938e8eb1e8f8a10fd9e6e964e06c2c/) |
 | ❌ | 2024/08/19 | 16-31 | [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b/) |

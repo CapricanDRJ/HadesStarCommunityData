@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​德意志第三帝国奥米加分部
-description: W:10 L:11 D:3 Bonus ✅
+description: W:10 L:11 D:3 Bonus ❌
 date: 1725324384
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1223 🔺  (318)|
-| ELO Competitive | 1248 🔺  (340)|
+| ELO Competitive | 1248 🔺  (339)|
 | Total Matches | 24 |
 | Wins | 10 |
 | Losses | 11 |
