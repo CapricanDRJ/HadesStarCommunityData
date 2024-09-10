@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​羽共和体
-description: W:14 L:22 D:7 Bonus ✅
+description: W:14 L:22 D:7 Bonus ❌
 date: 1725875811
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
