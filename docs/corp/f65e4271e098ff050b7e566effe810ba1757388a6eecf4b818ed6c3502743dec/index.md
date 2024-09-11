@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​宇宙联盟（中国）
-description: W:16 L:31 D:3 Bonus ❌
-date: 1725261363
+description: W:16 L:32 D:3 Bonus ❌
+date: 1726043334
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1131 🔺  (1102)|
-| ELO Competitive | 1222 🔺  (418)|
-| Total Matches | 50 |
+| ELO Regular | 1117 🔻  (1132)|
+| ELO Competitive | 1210 🔻  (518)|
+| Total Matches | 51 |
 | Wins | 16 |
-| Losses | 31 |
+| Losses | 32 |
 | Draws | 3 |
 | Streak Record | 3 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724829363,1724391432,1723884879,1723024999,1722569423,1722130976,1721616184,1721096900,1720622455,1720615107,1720169432,1720155610,1719722998,1719711134,1719236337,1719229123,1718714042,1718288057,1718277838,1717821128,1717650653,1717331679,1716898613,1716897111,1716413336,1716025876,1715945749,1715458903,1714997010,1714562446,1714296524,1714050750,1713621181,1713577245,1713111529,1713094396,1712637982,1712625064,1712149394,1712147291,1711691158,1711248863,1711092309,1710787950,1710332426,1709895290,1709332057,1708858891,1708406052,1707942986];
+        let timestamps = [1725611334,1724829363,1724391432,1723884879,1723024999,1722569423,1722130976,1721616184,1721096900,1720622455,1720615107,1720169432,1720155610,1719722998,1719711134,1719236337,1719229123,1718714042,1718288057,1718277838,1717821128,1717650653,1717331679,1716898613,1716897111,1716413336,1716025876,1715945749,1715458903,1714997010,1714562446,1714296524,1714050750,1713621181,1713577245,1713111529,1713094396,1712637982,1712625064,1712149394,1712147291,1711691158,1711248863,1711092309,1710787950,1710332426,1709895290,1709332057,1708858891,1708406052,1707942986];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,8 +117,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [империя тьмы](https://ws.tsl.rocks/corp/4eb22a1b793e5d03579cea15c873b1bef56fea02420a4e55edb18a200f7fc46a/) | 0 | 2 | 1 | 3 |
 | [使命白星](https://ws.tsl.rocks/corp/88e828c55c07286950a3296b00ca2a7a9cc2f1a0139e9cf4c6e54229f821e952/) | 1 | 1 | 0 | 2 |
-| [империя тьмы](https://ws.tsl.rocks/corp/4eb22a1b793e5d03579cea15c873b1bef56fea02420a4e55edb18a200f7fc46a/) | 0 | 1 | 1 | 2 |
 | [脉冲星际集团](https://ws.tsl.rocks/corp/a4c08cf63563563e9bfa1d35edb256e9bb8bcdca15103d646d2ff8ed9d17f480/) | 1 | 2 | 0 | 3 |
 | [四季长春](https://ws.tsl.rocks/corp/cf0b11914dc18d8e669592ecfe191f115c4e5fdba09d130d260bb625b36a3179/) | 2 | 2 | 0 | 4 |
 | [N\.P\.C](https://ws.tsl.rocks/corp/e937e643b7c3834e9f8cea1ddf38c5299596fa4b8820bc82f928e45575b6b84b/) | 0 | 1 | 1 | 2 |
@@ -128,6 +128,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/11 | 3-5 | [империя тьмы](https://ws.tsl.rocks/corp/4eb22a1b793e5d03579cea15c873b1bef56fea02420a4e55edb18a200f7fc46a/) |
 | ✅ | 2024/09/02 | 7-0 | [联合宇宙](https://ws.tsl.rocks/corp/da614a2861abac24e31b7b978e75196750b88545f6ece0f367b66b43d696deab/) |
 | ❌ | 2024/08/28 | 1-2 | [青鸾殿](https://ws.tsl.rocks/corp/d92c939be23b35542ca2d0ae7cdc4b1288d5d5e78be2dfb74cb0360f5524d01c/) |
 | ❌ | 2024/08/22 | 2-18 | [STRVS233～](https://ws.tsl.rocks/corp/727f6b88132c5850b1ef7ad02101bab3f97fc5dd191307dffca64181bf41e614/) |

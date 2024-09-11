@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​地球星际集团
-description: W:0 L:27 D:10 Bonus ❌
-date: 1725284714
+description: W:0 L:28 D:10 Bonus ❌
+date: 1726047670
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 978 🔻  (1237)|
-| ELO Competitive | 1081 🔺  (1216)|
-| Total Matches | 37 |
+| ELO Regular | 967 🔻  (1239)|
+| ELO Competitive | 1071 🔻  (1227)|
+| Total Matches | 38 |
 | Wins | 0 |
-| Losses | 27 |
+| Losses | 28 |
 | Draws | 10 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724852714,1724761704,1719163618,1719152494,1718627640,1718531332,1718076198,1717845687,1716678046,1716650386,1715507204,1715487947,1712552566,1712528690,1711856429,1711853725,1710630785,1709730283,1709061728,1708791885,1708604673,1707975736,1707530245,1707087453,1706648282,1706637033,1706140533,1706017320,1705657599,1705179215,1705109469,1704690256,1704660810,1704152638,1704105448,1703644458,1703162715];
+        let timestamps = [1725615670,1724852714,1724761704,1719163618,1719152494,1718627640,1718531332,1718076198,1717845687,1716678046,1716650386,1715507204,1715487947,1712552566,1712528690,1711856429,1711853725,1710630785,1709730283,1709061728,1708791885,1708604673,1707975736,1707530245,1707087453,1706648282,1706637033,1706140533,1706017320,1705657599,1705179215,1705109469,1704690256,1704660810,1704152638,1704105448,1703644458,1703162715];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/11 | 0-6 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
 | ❌ | 2024/09/02 | 0-3 | [永恒之梦](https://ws.tsl.rocks/corp/51524c100011292acfff96dc47f5b506950922c6e467b1586d5c571cc281fd4d/) |
 | ↔️ | 2024/09/01 | 0-0 | [超新星联盟](https://ws.tsl.rocks/corp/c3667794c88fd0a09f565dc3b4fed5325f131a616d01d0f6890755b44997d0a1/) |
 | ❌ | 2024/06/28 | 0-4 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
