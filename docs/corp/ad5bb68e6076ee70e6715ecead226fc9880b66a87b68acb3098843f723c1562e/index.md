@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Game of Stars
-description: W:9 L:20 D:0 Bonus ❌
-date: 1725430761
+description: W:9 L:21 D:0 Bonus ❌
+date: 1726074721
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1136 🔻  (1088)|
-| ELO Competitive | 1166 🔻  (1042)|
-| Total Matches | 29 |
+| ELO Regular | 1122 🔻  (1121)|
+| ELO Competitive | 1153 🔻  (1098)|
+| Total Matches | 30 |
 | Wins | 9 |
-| Losses | 20 |
+| Losses | 21 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724998761,1724059677,1722920425,1722364184,1721210197,1720732028,1720026375,1719214615,1718024808,1718012485,1717036256,1715678137,1714802318,1713179132,1712292726,1711478127,1710769918,1710017539,1709120616,1708360979,1707884086,1707332826,1706852148,1706251115,1705475190,1704646682,1704126188,1699989609,1698811816];
+        let timestamps = [1725642721,1724998761,1724059677,1722920425,1722364184,1721210197,1720732028,1720026375,1719214615,1718024808,1718012485,1717036256,1715678137,1714802318,1713179132,1712292726,1711478127,1710769918,1710017539,1709120616,1708360979,1707884086,1707332826,1706852148,1706251115,1705475190,1704646682,1704126188,1699989609,1698811816];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/11 | 5-31 | [Deadspace](https://ws.tsl.rocks/corp/45fc2bf2d1b40361071590e427fa47116d4e5e063064d17ed9933bbd61f04369/) |
 | ❌ | 2024/09/04 | 13-16 | [VoidCorp](https://ws.tsl.rocks/corp/b866417e5607f8434347bb5f986e37c4fa7dda68b3882f0135d186043d3f68a3/) |
 | ❌ | 2024/08/24 | 3-33 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) |
 | ✅ | 2024/08/11 | 31-17 | [West Worlders](https://ws.tsl.rocks/corp/aad051ec6b980cc52fb4777aef113d9e28a72aab40fda65aa9cdbf477b8e390a/) |

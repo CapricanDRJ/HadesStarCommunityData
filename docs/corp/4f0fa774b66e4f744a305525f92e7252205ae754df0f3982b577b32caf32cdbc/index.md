@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​闲散人员
-description: W:3 L:1 D:0 Bonus ✅
-date: 1725603553
+description: W:3 L:2 D:0 Bonus ✅
+date: 1726073218
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1231 🔺  (283)|
-| ELO Competitive | 1237 🔺  (372)|
-| Total Matches | 4 |
+| ELO Regular | 1218 🔻  (338)|
+| ELO Competitive | 1229 🔻  (400)|
+| Total Matches | 5 |
 | Wins | 3 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725171553,1724626142,1723973420,1723372086];
+        let timestamps = [1725641218,1725171553,1724626142,1723973420,1723372086];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/11 | 0-8 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ✅ | 2024/09/06 | 6-0 | [荣耀之星](https://ws.tsl.rocks/corp/4334fd4d4ffbc89487deaec7bb38025aba46209b810578436882be271fdbff23/) |
 | ❌ | 2024/08/30 | 5-7 | [星光万丈](https://ws.tsl.rocks/corp/92ad2a305a74e168b57771140461b4d226e1e8cac17b4f77027d5a67ead5fa1d/) |
 | ✅ | 2024/08/23 | 8-0 | [落雨观花](https://ws.tsl.rocks/corp/565a6d89fc5107e86669d7f8910a1c4ae1fbb156fa0b5e81dbc917c341cc9ff0/) |
