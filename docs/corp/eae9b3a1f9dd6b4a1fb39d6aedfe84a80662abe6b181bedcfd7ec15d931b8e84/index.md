@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Shrimp City
-description: W:21 L:13 D:1 Bonus ❌
-date: 1725504689
+description: W:21 L:14 D:1 Bonus ❌
+date: 1726080432
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1272 🔻  (179)|
-| ELO Competitive | 1303 🔻  (218)|
-| Total Matches | 35 |
+| ELO Regular | 1261 🔻  (203)|
+| ELO Competitive | 1293 🔻  (237)|
+| Total Matches | 36 |
 | Wins | 21 |
-| Losses | 13 |
+| Losses | 14 |
 | Draws | 1 |
 | Streak Record | 11 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725072689,1724553411,1724115574,1723595973,1723135586,1722493396,1722030589,1721575013,1721138876,1720639754,1720182052,1719740881,1719270672,1719214100,1718766336,1718309099,1717856809,1717411025,1716973746,1716528997,1716095762,1715651701,1715208230,1714763919,1714314555,1713850953,1713406301,1712961282,1712523503,1712087203,1711627753,1704976641,1704492516,1701486394,1701017248];
+        let timestamps = [1725648432,1725072689,1724553411,1724115574,1723595973,1723135586,1722493396,1722030589,1721575013,1721138876,1720639754,1720182052,1719740881,1719270672,1719214100,1718766336,1718309099,1717856809,1717411025,1716973746,1716528997,1716095762,1715651701,1715208230,1714763919,1714314555,1713850953,1713406301,1712961282,1712523503,1712087203,1711627753,1704976641,1704492516,1701486394,1701017248];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/11 | 0-11 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
 | ❌ | 2024/09/05 | 0-26 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
 | ✅ | 2024/08/30 | 16-3 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
 | ❌ | 2024/08/25 | 0-18 | [对，进就进人少的（分团）](https://ws.tsl.rocks/corp/69a860d3020745a9088fa70fa7ebc4caaa8a6181832961bcd607fbfa627203f3/) |

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Winged Pheonix
-description: W:7 L:12 D:0 Bonus ✅
+description: W:7 L:12 D:0 Bonus ❌
 date: 1726003508
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
