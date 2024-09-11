@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​Omega corp
-description: W:1 L:1 D:0 Bonus ✅
-date: 1725574409
+description: W:1 L:1 D:1 Bonus ✅
+date: 1726022434
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1202 🔺  (442)|
-| ELO Competitive | 1208 🔺  (522)|
-| Total Matches | 2 |
+| ELO Regular | 1201 🔻  (445)|
+| ELO Competitive | 1208 🔻  (524)|
+| Total Matches | 3 |
 | Wins | 1 |
 | Losses | 1 |
-| Draws | 0 |
+| Draws | 1 |
 
 
 # Whitestar Match Day
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725142409,1724709985];
+        let timestamps = [1725590434,1725142409,1724709985];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/09/11 | 3-3 | [Devourers](https://ws.tsl.rocks/corp/8b11fb529b6388e78677d5025d5973063a49ee25a297a52cda3859faa20ee5ca/) |
 | ✅ | 2024/09/05 | 3-2 | [Kelebra](https://ws.tsl.rocks/corp/0b1ce787fadd83433c02fb7f56a905ea64f918c1396ac37b8591891adf232eb6/) |
 | ❌ | 2024/08/31 | 1-10 | [Sich\.ua](https://ws.tsl.rocks/corp/9fcd6d7c4fe7f8e39acf48585dfe9c6d3d14edc7781fe8caf85618b3e98c685d/) |
 

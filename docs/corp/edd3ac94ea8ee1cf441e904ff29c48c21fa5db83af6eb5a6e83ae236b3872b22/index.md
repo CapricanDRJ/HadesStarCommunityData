@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Osmium Star llc
-description: W:14 L:2 D:0 Bonus ✅
-date: 1725445905
+description: W:15 L:2 D:0 Bonus ✅
+date: 1726020931
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1338 🔺  (88)|
-| ELO Competitive | 1354 🔺  (146)|
-| Total Matches | 16 |
-| Wins | 14 |
+| ELO Regular | 1343 🔺  (85)|
+| ELO Competitive | 1363 🔺  (137)|
+| Total Matches | 17 |
+| Wins | 15 |
 | Losses | 2 |
 | Draws | 0 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 9 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725013905,1724535085,1723709860,1723117553,1722502411,1721899865,1721327696,1720694148,1720028479,1719471631,1718877216,1718263116,1717597968,1716973746,1716448181,1715834370];
+        let timestamps = [1725588931,1725013905,1724535085,1723709860,1723117553,1722502411,1721899865,1721327696,1720694148,1720028479,1719471631,1718877216,1718263116,1717597968,1716973746,1716448181,1715834370];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/11 | 18-4 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
 | ✅ | 2024/09/04 | 24-0 | [Bunker](https://ws.tsl.rocks/corp/583eeb4aaa577ce5d9806fc637f83d7c02b2a29fa2d47eb38fd658be8ef93588/) |
 | ✅ | 2024/08/29 | 10-9 | [Eretria ](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |
 | ✅ | 2024/08/20 | 19-0 | [凛冬重工](https://ws.tsl.rocks/corp/513d81e0236600883fae60f5ad8bc4b54fe7b9787479dd96fb7e0b4dea3ca5eb/) |

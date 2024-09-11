@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​Devourers
-description: W:0 L:1 D:0 Bonus ❌
-date: 1725474039
+description: W:0 L:1 D:1 Bonus ❌
+date: 1726022434
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (709)|
-| ELO Competitive | 1187 🔻  (702)|
-| Total Matches | 1 |
+| ELO Regular | 1186 🔺  (650)|
+| ELO Competitive | 1188 🔺  (685)|
+| Total Matches | 2 |
 | Wins | 0 |
 | Losses | 1 |
-| Draws | 0 |
+| Draws | 1 |
 
 
 # Whitestar Match Day
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725042039];
+        let timestamps = [1725590434,1725042039];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/09/11 | 3-3 | [Omega corp](https://ws.tsl.rocks/corp/17140be6e5915edf2d09ebcf246a7c2650cf39def04823c9a04bdf81ff8fc38e/) |
 | ❌ | 2024/09/04 | 0-3 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 
 Corporation ID: 8b11fb529b6388e78677d5025d5973063a49ee25a297a52cda3859faa20ee5ca
