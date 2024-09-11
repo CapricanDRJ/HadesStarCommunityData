@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​ISERLOHN
-description: W:4 L:0 D:0 Bonus ✅
-date: 1725551429
+description: W:5 L:0 D:0 Bonus ✅
+date: 1726054882
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1259 🔺  (203)|
-| ELO Competitive | 1267 🔺  (294)|
-| Total Matches | 4 |
-| Wins | 4 |
+| ELO Regular | 1279 🔺  (166)|
+| ELO Competitive | 1289 🔺  (243)|
+| Total Matches | 5 |
+| Wins | 5 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 4 |
-| Streak Record | 4 |
+| Streak | 5 |
+| Streak Record | 5 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725119429,1724422084,1723962900,1723529859];
+        let timestamps = [1725622882,1725119429,1724422084,1723962900,1723529859];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/11 | 15-8 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
 | ✅ | 2024/09/05 | 12-0 | [Вселенские 40%](https://ws.tsl.rocks/corp/963d73346ebb929607f54404f481ac2273b4f483915b93144d0757b066a1fd99/) |
 | ✅ | 2024/08/28 | 14-0 | [M4\-Valhalla](https://ws.tsl.rocks/corp/40886172a1ee54e8b5cbd91b5bcf06cb4af03726ad8fe6aba585bde03d4b6bf1/) |
 | ✅ | 2024/08/23 | 20-7 | [Armored Union ](https://ws.tsl.rocks/corp/4dacc02ca314ab864578421db538b0eb10b0c8c81dc0edd91c5090717d087c7f/) |

@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​GalaxyNova
-description: W:8 L:2 D:0 Bonus ❌
-date: 1723925200
+description: W:8 L:3 D:0 Bonus ❌
+date: 1726055183
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1276 🔺  (171)|
-| ELO Competitive | 1293 🔺  (237)|
-| Total Matches | 10 |
+| ELO Regular | 1266 🔻  (191)|
+| ELO Competitive | 1290 🔻  (242)|
+| Total Matches | 11 |
 | Wins | 8 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 6 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723493200,1719758313,1718908474,1716784417,1715614143,1713524979,1711503968,1709572842,1707435594,1704838414];
+        let timestamps = [1725623183,1723493200,1719758313,1718908474,1716784417,1715614143,1713524979,1711503968,1709572842,1707435594,1704838414];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/11 | 15-37 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ✅ | 2024/08/17 | 27-6 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) |
 | ✅ | 2024/07/05 | 32-0 | [1st/Ave/Junkie2](https://ws.tsl.rocks/corp/b129b678cd83374fa72b5da92172ff1c856b8f72c32bcdb4711d66d06528fca1/) |
 | ❌ | 2024/06/25 | 17-35 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) |

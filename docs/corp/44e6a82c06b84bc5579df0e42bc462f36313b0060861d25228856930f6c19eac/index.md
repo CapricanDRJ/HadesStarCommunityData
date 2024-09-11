@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Fairy tail 
-description: W:2 L:2 D:0 Bonus ❌
-date: 1725201478
+description: W:3 L:2 D:0 Bonus ✅
+date: 1726054004
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1200 🔺  (472)|
-| ELO Competitive | 1201 🔺  (558)|
-| Total Matches | 4 |
-| Wins | 2 |
+| ELO Regular | 1206 🔺  (428)|
+| ELO Competitive | 1210 🔺  (517)|
+| Total Matches | 5 |
+| Wins | 3 |
 | Losses | 2 |
 | Draws | 0 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724769478,1723929849,1723389219,1722895788];
+        let timestamps = [1725622004,1724769478,1723929849,1723389219,1722895788];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/11 | 7-0 | [地球星际集团](https://ws.tsl.rocks/corp/05094116a999d8e077c5e53dc2241a870c7dc2e68e016455c606ada0dcb40b62/) |
 | ✅ | 2024/09/01 | 4-0 | [AntiCerberus](https://ws.tsl.rocks/corp/05549095de4dbbeb78175abda32e043bd7c0afada2bba974c17c41674469da29/) |
 | ✅ | 2024/08/22 | 5-2 | [tropa \(BR\)](https://ws.tsl.rocks/corp/c5b272089230f78a35d3bee9ed1eb0cc2b3a65703f2452b603286e889efa74c9/) |
 | ❌ | 2024/08/16 | 0-15 | [揽月宫](https://ws.tsl.rocks/corp/16a4fe26591408a3f2128646e96c5ec1f82feb35f1f9743aebd2dae05095d2ed/) |
