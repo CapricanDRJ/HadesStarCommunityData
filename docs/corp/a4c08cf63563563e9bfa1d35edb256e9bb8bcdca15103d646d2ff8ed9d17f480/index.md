@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​脉冲星际集团
-description: W:21 L:24 D:1 Bonus ❌
-date: 1724073646
+description: W:22 L:24 D:1 Bonus ✅
+date: 1726060894
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1115 🔻  (1139)|
-| ELO Competitive | 1269 🔻  (291)|
-| Total Matches | 46 |
-| Wins | 21 |
+| ELO Regular | 1134 🔺  (1093)|
+| ELO Competitive | 1291 🔺  (240)|
+| Total Matches | 47 |
+| Wins | 22 |
 | Losses | 24 |
 | Draws | 1 |
 | Streak Record | 6 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723641646,1722863626,1721442184,1720961345,1719660946,1719234233,1719214100,1718711638,1718277838,1718264017,1717755749,1717744330,1717250822,1717150141,1716818074,1716547321,1716375174,1715959356,1715938922,1715429053,1715429053,1714644970,1714566653,1714135178,1714134276,1713514763,1713507853,1713062245,1712928228,1712583294,1712190264,1712149394,1711717001,1710949591,1710948389,1710507292,1710496776,1710045108,1709895290,1709595380,1709290385,1709133839,1708679496,1708306889,1708246484,1707812864];
+        let timestamps = [1725628894,1723641646,1722863626,1721442184,1720961345,1719660946,1719234233,1719214100,1718711638,1718277838,1718264017,1717755749,1717744330,1717250822,1717150141,1716818074,1716547321,1716375174,1715959356,1715938922,1715429053,1715429053,1714644970,1714566653,1714135178,1714134276,1713514763,1713507853,1713062245,1712928228,1712583294,1712190264,1712149394,1711717001,1710949591,1710948389,1710507292,1710496776,1710045108,1709895290,1709595380,1709290385,1709133839,1708679496,1708306889,1708246484,1707812864];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) | 1 | 1 | 0 | 2 |
 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) | 1 | 1 | 0 | 2 |
 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) | 2 | 1 | 0 | 3 |
 | [Star Fleet](https://ws.tsl.rocks/corp/b50e0529c2b2e86bae23d0fb4cbcdc4bff7615c45efb95150747a89dd3ea0231/) | 1 | 1 | 0 | 2 |
@@ -127,6 +128,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/11 | 3-1 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |
 | ❌ | 2024/08/19 | 4-27 | [Nox Imperium](https://ws.tsl.rocks/corp/b60fb003fae650d1de18e7bca4fad04f9805501f4568d07ceb47bffdfeb613c1/) |
 | ✅ | 2024/08/10 | 2-0 | [Atlas corp](https://ws.tsl.rocks/corp/e729927db5a5672fcc94357f999bc3b66fa38a624f042543b847f82e7fa890a5/) |
 | ❌ | 2024/07/25 | 2-24 | [Z\. O\. V\. ](https://ws.tsl.rocks/corp/4f56534357f2407b25faee160f9dca4ee83b8f9ca4425ba472a47298faf54096/) |

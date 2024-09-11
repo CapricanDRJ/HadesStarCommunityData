@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Star Fleet
-description: W:11 L:19 D:0 Bonus ✅
+description: W:11 L:19 D:0 Bonus ❌
 date: 1726040459
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
