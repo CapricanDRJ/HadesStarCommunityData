@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​＊Alfa y Omega＊
-description: W:14 L:5 D:1 Bonus ✅
-date: 1725512801
+description: W:15 L:5 D:1 Bonus ✅
+date: 1726036854
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1328 🔺  (95)|
-| ELO Competitive | 1384 🔺  (116)|
-| Total Matches | 20 |
-| Wins | 14 |
+| ELO Regular | 1341 🔺  (86)|
+| ELO Competitive | 1395 🔺  (104)|
+| Total Matches | 21 |
+| Wins | 15 |
 | Losses | 5 |
 | Draws | 1 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 5 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725080801,1724600294,1723954185,1723401542,1723399438,1722868135,1722405650,1721957866,1721452100,1721437678,1721012742,1720907551,1720466951,1719967560,1719958154,1719440986,1718912682,1718309099,1716912746,1699916881];
+        let timestamps = [1725604854,1725080801,1724600294,1723954185,1723401542,1723399438,1722868135,1722405650,1721957866,1721452100,1721437678,1721012742,1720907551,1720466951,1719967560,1719958154,1719440986,1718912682,1718309099,1716912746,1699916881];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/11 | 13-3 | [Hungary First](https://ws.tsl.rocks/corp/d678326dd81ae0cf5b2bb37d15dcfe7fa1477dbb6e063fbd0d34c69b5942d31b/) |
 | ✅ | 2024/09/05 | 21-0 | [Axiom](https://ws.tsl.rocks/corp/4000a010c205d318c766ba14fe1836eaab6652f1738a88cce8a8c69d0283e1b0/) |
 | ✅ | 2024/08/30 | 26-5 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | ↔️ | 2024/08/23 | 4-4 | [Cydonia](https://ws.tsl.rocks/corp/d7b61bdd2b275833780d36a5bdf64fa64d7a1dbea9bde8bdcf54a7e37381214a/) |

@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​星を継ぐもの
-description: W:30 L:14 D:0 Bonus ✅
+description: W:30 L:14 D:0 Bonus ❌
 date: 1725412431
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1308 🔺  (117)|
+| ELO Regular | 1308 🔺  (118)|
 | ELO Competitive | 1343 🔺  (160)|
 | Total Matches | 44 |
 | Wins | 30 |
