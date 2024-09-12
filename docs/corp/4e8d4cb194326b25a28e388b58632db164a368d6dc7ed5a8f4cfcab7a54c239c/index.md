@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Тихий Омут
-description: W:19 L:50 D:3 Bonus ✅
+description: W:19 L:50 D:3 Bonus ❌
 date: 1725955722
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Moon Catchers
-description: W:13 L:19 D:1 Bonus ❌
-date: 1724708947
+description: W:13 L:20 D:1 Bonus ❌
+date: 1726142631
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1135 🔻  (1088)|
-| ELO Competitive | 1173 🔻  (961)|
-| Total Matches | 33 |
+| ELO Regular | 1115 🔻  (1139)|
+| ELO Competitive | 1155 🔻  (1094)|
+| Total Matches | 34 |
 | Wins | 13 |
-| Losses | 19 |
+| Losses | 20 |
 | Draws | 1 |
 | Streak Record | 5 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724276947,1723627221,1721853594,1720835416,1718788269,1717327170,1715881841,1714922202,1714424234,1713788159,1713350106,1712741640,1712146690,1711534310,1710932164,1710335432,1709735993,1709120616,1708528952,1707921346,1707308726,1706707301,1706101761,1705493821,1704883484,1704276142,1703596371,1702924501,1702276828,1700658379,1700046707,1699455786,1698948546];
+        let timestamps = [1725710631,1724276947,1723627221,1721853594,1720835416,1718788269,1717327170,1715881841,1714922202,1714424234,1713788159,1713350106,1712741640,1712146690,1711534310,1710932164,1710335432,1709735993,1709120616,1708528952,1707921346,1707308726,1706707301,1706101761,1705493821,1704883484,1704276142,1703596371,1702924501,1702276828,1700658379,1700046707,1699455786,1698948546];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/12 | 0-31 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) |
 | ❌ | 2024/08/26 | 2-38 | [Fleet Corp Ares](https://ws.tsl.rocks/corp/8ceac360859239e9b9386b5e4a0c3d3c7e75941b010804ab8b405d9eb6f806f6/) |
 | ❌ | 2024/08/19 | 3-43 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | ❌ | 2024/07/29 | 2-18 | [Торг\. федерация](https://ws.tsl.rocks/corp/915f197e5951f44128c2a3d3126141cd44b3c67a361158d2b220a5883e410310/) |
