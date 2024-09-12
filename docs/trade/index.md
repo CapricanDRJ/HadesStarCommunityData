@@ -1,15 +1,13 @@
 ---
 layout: page
-title: Artifact Trading
+title: Trading
 description: Overview of trading artifacts in Hades' Star, categorized by users and their respective guilds.
 permalink: /trade/
 ---
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Artifact Bank</title>
     <style>
         body { font-family: Arial, sans-serif; background-color: #1e1e1e; color: #c7c7c7; }
         .table-container { display: flex; flex-wrap: wrap; justify-content: space-around; }
