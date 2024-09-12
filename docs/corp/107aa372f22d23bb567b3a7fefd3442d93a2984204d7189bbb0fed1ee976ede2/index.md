@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​星を継ぐもの
-description: W:30 L:14 D:0 Bonus ❌
-date: 1725412431
+description: W:31 L:14 D:0 Bonus ✅
+date: 1726106573
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1308 🔺  (119)|
-| ELO Competitive | 1343 🔺  (160)|
-| Total Matches | 44 |
-| Wins | 30 |
+| ELO Regular | 1320 🔺  (102)|
+| ELO Competitive | 1356 🔺  (146)|
+| Total Matches | 45 |
+| Wins | 31 |
 | Losses | 14 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 8 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724980431,1724477080,1724029029,1723428585,1722817952,1722306484,1721613480,1721096299,1720490990,1719973477,1719364356,1718846871,1718068386,1717203035,1716688251,1715908882,1715308877,1715303470,1714705767,1714702162,1714179048,1714091617,1713498840,1713486824,1712979263,1712969394,1712366042,1712361535,1711768688,1711759975,1711243455,1710759701,1710301483,1709778060,1709251928,1708792486,1708781666,1708061078,1707308426,1707305720,1706667938,1706001092,1705395554,1704803547];
+        let timestamps = [1725674573,1724980431,1724477080,1724029029,1723428585,1722817952,1722306484,1721613480,1721096299,1720490990,1719973477,1719364356,1718846871,1718068386,1717203035,1716688251,1715908882,1715308877,1715303470,1714705767,1714702162,1714179048,1714091617,1713498840,1713486824,1712979263,1712969394,1712366042,1712361535,1711768688,1711759975,1711243455,1710759701,1710301483,1709778060,1709251928,1708792486,1708781666,1708061078,1707308426,1707305720,1706667938,1706001092,1705395554,1704803547];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/12 | 30-3 | [Eretria ](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |
 | ✅ | 2024/09/04 | 34-5 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ❌ | 2024/08/29 | 19-20 | [Star Destroyers](https://ws.tsl.rocks/corp/32ba20918cd8720602fefb3bc676a6ba5195314479040f70eadc728fbbc2698d/) |
 | ❌ | 2024/08/24 | 10-40 | [Widow Makers](https://ws.tsl.rocks/corp/ac1ddcbbd45ccdfa74185d7f40b3a67b0b5b477f7b0bd6f3d7a5a7821ee55bdd/) |
