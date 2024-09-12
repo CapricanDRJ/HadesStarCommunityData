@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Artifact Bank
+title: Trading
 description: Overview of trading artifacts in Hades' Star, categorized by users and their respective guilds.
-permalink: /artifact-bank/
+permalink: /trade/
 ---
 <html lang="en">
 <head>
@@ -13,29 +13,17 @@ permalink: /artifact-bank/
         .table-container { 
             display: flex; 
             flex-wrap: wrap; 
-            justify-content: flex-start; 
-            align-items: flex-start; 
+            justify-content: space-around; 
         }
         table { 
             width: 45%;  /* Allow tables to be side by side on larger screens */
             margin: 10px; 
             border-collapse: collapse; 
-            table-layout: auto; /* Allows the table to adjust its layout based on content */
-            vertical-align: top; /* Align tables independently */
         }
         th, td { padding: 8px; border: 1px solid #444; text-align: center; }
         th { background-color: #333; color: #fff; }
         h2 { margin-top: 40px; color: #fff; text-align: center; }
         .username-header { font-size: 1.5em; padding: 10px 0; }
-        .section-header { 
-            background-color: transparent; 
-            color: #fff; 
-            font-weight: normal; 
-            text-align: center;
-            padding-top: 10px;
-            padding-bottom: 10px;
-            colspan: 4;
-        }
         a { color: #9acd32; text-decoration: none; } /* Ensures link color is consistent */
         a:hover { text-decoration: underline; } /* Optional hover effect */
         img { height: 24px; width: 24px; vertical-align: middle; }
@@ -49,39 +37,7 @@ permalink: /artifact-bank/
     </style>
 </head>
 <body>
-    <h1>Artifact Bank</h1>
     <div class="table-container">
-        <table>
-            <tr>
-                <th>Amount</th>
-                <th>Artifact</th>
-                <th>RS Level</th>
-                <th>%</th>
-            </tr>
-            <tr>
-                <td colspan="4" class="section-header">Selling</td>
-            </tr>
-            <!-- Insert selling data rows here -->
-            <tr>
-                <td>10</td>
-                <td><img src="path_to_image.png" alt="artifact"></td>
-                <td>RS5</td>
-                <td>50%</td>
-            </tr>
-            <tr>
-                <td colspan="4" class="section-header">Buying</td>
-            </tr>
-            <!-- Insert buying data rows here -->
-            <tr>
-                <td>5</td>
-                <td><img src="path_to_image.png" alt="artifact"></td>
-                <td>RS3</td>
-                <td>30%</td>
-            </tr>
-        </table>
-    </div>
-</body>
-</html>
 
     <table>
         <tr>
