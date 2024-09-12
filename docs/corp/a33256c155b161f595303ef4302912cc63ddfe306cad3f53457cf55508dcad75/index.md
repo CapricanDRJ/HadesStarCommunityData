@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Auscorp 
-description: W:52 L:7 D:0 Bonus ✅
-date: 1725675377
+description: W:53 L:7 D:0 Bonus ✅
+date: 1726163372
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1543 🔺  (3)|
-| ELO Competitive | 1623 🔺  (4)|
-| Total Matches | 59 |
-| Wins | 52 |
+| ELO Regular | 1548 🔺  (3)|
+| ELO Competitive | 1636 🔺  (3)|
+| Total Matches | 60 |
+| Wins | 53 |
 | Losses | 7 |
 | Draws | 0 |
-| Streak | 9 |
+| Streak | 10 |
 | Streak Record | 12 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725243377,1725152924,1724611116,1724034137,1724033836,1723444210,1723337831,1722785796,1722234663,1721886043,1721752019,1721310564,1721275408,1720807467,1720310979,1719718344,1719220709,1718754320,1718178972,1717831563,1717744931,1717333182,1717170580,1716624539,1716072030,1715610237,1715128613,1714583482,1713971432,1713520079,1712937844,1712407807,1711971815,1711525898,1711083296,1710546056,1710071322,1709476088,1709041592,1708569820,1708024119,1707453620,1706996998,1706412642,1705929869,1705497728,1704964321,1704523162,1703970225,1703459040,1702881520,1702270217,1701826911,1701359565,1700927077,1700449811,1700016357,1699398400,1698814220];
+        let timestamps = [1725731372,1725243377,1725152924,1724611116,1724034137,1724033836,1723444210,1723337831,1722785796,1722234663,1721886043,1721752019,1721310564,1721275408,1720807467,1720310979,1719718344,1719220709,1718754320,1718178972,1717831563,1717744931,1717333182,1717170580,1716624539,1716072030,1715610237,1715128613,1714583482,1713971432,1713520079,1712937844,1712407807,1711971815,1711525898,1711083296,1710546056,1710071322,1709476088,1709041592,1708569820,1708024119,1707453620,1706996998,1706412642,1705929869,1705497728,1704964321,1704523162,1703970225,1703459040,1702881520,1702270217,1701826911,1701359565,1700927077,1700449811,1700016357,1699398400,1698814220];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) | 5 | 0 | 0 | 5 |
 | [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) | 4 | 0 | 0 | 4 |
 | [Sith Empire](https://ws.tsl.rocks/corp/7deb3943434ee3aa56bb4c29a0fb0831bcbc4b570a58a2809ea1a549b7df328e/) | 2 | 0 | 0 | 2 |
 | [Spacefleet](https://ws.tsl.rocks/corp/517f7b257f68936f7a95a478d6923776a2549b88897bae628fd35b23572d3cbd/) | 2 | 0 | 0 | 2 |
@@ -128,7 +129,6 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 1 | 1 | 0 | 2 |
 | [Grunthal Gang](https://ws.tsl.rocks/corp/0ab98cd1f1b195397b27360ea0dee2527f1504c9f5d4867e719d6f1f73efb01d/) | 5 | 2 | 0 | 7 |
 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 2 | 0 | 0 | 2 |
-| [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) | 4 | 0 | 0 | 4 |
 | [Trade Station](https://ws.tsl.rocks/corp/7003e286fe1a04aaa63e3aa318c164856c07e251a94b0496757140f5eda72cd7/) | 2 | 0 | 0 | 2 |
 | [Legion](https://ws.tsl.rocks/corp/313baaeac1c759ca26e0f4bd3140711cffdfa85c287d4c992dcfb809908cf491/) | 2 | 0 | 0 | 2 |
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/12 | 58-20 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) |
 | ✅ | 2024/09/07 | 33-19 | [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/) |
 | ✅ | 2024/09/06 | 73-0 | [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) |
 | ✅ | 2024/08/30 | 41-0 | [Sith Empire](https://ws.tsl.rocks/corp/7deb3943434ee3aa56bb4c29a0fb0831bcbc4b570a58a2809ea1a549b7df328e/) |
