@@ -16,7 +16,7 @@ permalink: /trade/
             justify-content: space-around; 
         }
         table { 
-            width: 45%;  /* Allow tables to be side by side on larger screens */
+            width: 45%;  /* Allow tables to be side by side on larger screens without stretching rows */
             margin: 10px; 
             border-collapse: collapse; 
         }
@@ -43,15 +43,15 @@ permalink: /trade/
         <tr>
             <th colspan="4" class="username-header">ausgeflippt</th>
         </tr>
-    
-        <tr>
-            <th colspan="4">🏷️ Selling</th>
-        </tr>
         <tr>
             <th>Amount</th>
             <th>Artifact</th>
             <th>RS Level</th>
             <th>%</th>
+        </tr>
+    
+        <tr>
+            <td colspan="4">🏷️ Selling</td>
         </tr>
         
                 <tr>
@@ -83,13 +83,7 @@ permalink: /trade/
                 </tr>
             
         <tr>
-            <th colspan="4">💰 Buying</th>
-        </tr>
-        <tr>
-            <th>Amount</th>
-            <th>Artifact</th>
-            <th>RS Level</th>
-            <th>%</th>
+            <td colspan="4">💰 Buying</td>
         </tr>
         
                 <tr>
@@ -107,15 +101,15 @@ permalink: /trade/
         <tr>
             <th colspan="4" class="username-header">benewe1337</th>
         </tr>
-    
-        <tr>
-            <th colspan="4">🏷️ Selling</th>
-        </tr>
         <tr>
             <th>Amount</th>
             <th>Artifact</th>
             <th>RS Level</th>
             <th>%</th>
+        </tr>
+    
+        <tr>
+            <td colspan="4">🏷️ Selling</td>
         </tr>
         
                 <tr>
@@ -126,13 +120,7 @@ permalink: /trade/
                 </tr>
             
         <tr>
-            <th colspan="4">💰 Buying</th>
-        </tr>
-        <tr>
-            <th>Amount</th>
-            <th>Artifact</th>
-            <th>RS Level</th>
-            <th>%</th>
+            <td colspan="4">💰 Buying</td>
         </tr>
         
                 <tr>
@@ -157,15 +145,15 @@ permalink: /trade/
         <tr>
             <th colspan="4" class="username-header">caprican</th>
         </tr>
-    
-        <tr>
-            <th colspan="4">🏷️ Selling</th>
-        </tr>
         <tr>
             <th>Amount</th>
             <th>Artifact</th>
             <th>RS Level</th>
             <th>%</th>
+        </tr>
+    
+        <tr>
+            <td colspan="4">🏷️ Selling</td>
         </tr>
         
                 <tr>
@@ -197,13 +185,7 @@ permalink: /trade/
                 </tr>
             
         <tr>
-            <th colspan="4">💰 Buying</th>
-        </tr>
-        <tr>
-            <th>Amount</th>
-            <th>Artifact</th>
-            <th>RS Level</th>
-            <th>%</th>
+            <td colspan="4">💰 Buying</td>
         </tr>
         
                 <tr>
@@ -228,15 +210,15 @@ permalink: /trade/
         <tr>
             <th colspan="4" class="username-header">cmaster.</th>
         </tr>
-    
-        <tr>
-            <th colspan="4">💰 Buying</th>
-        </tr>
         <tr>
             <th>Amount</th>
             <th>Artifact</th>
             <th>RS Level</th>
             <th>%</th>
+        </tr>
+    
+        <tr>
+            <td colspan="4">💰 Buying</td>
         </tr>
         
                 <tr>
@@ -254,15 +236,15 @@ permalink: /trade/
         <tr>
             <th colspan="4" class="username-header">drmineword</th>
         </tr>
-    
-        <tr>
-            <th colspan="4">🏷️ Selling</th>
-        </tr>
         <tr>
             <th>Amount</th>
             <th>Artifact</th>
             <th>RS Level</th>
             <th>%</th>
+        </tr>
+    
+        <tr>
+            <td colspan="4">🏷️ Selling</td>
         </tr>
         
                 <tr>
@@ -273,13 +255,7 @@ permalink: /trade/
                 </tr>
             
         <tr>
-            <th colspan="4">💰 Buying</th>
-        </tr>
-        <tr>
-            <th>Amount</th>
-            <th>Artifact</th>
-            <th>RS Level</th>
-            <th>%</th>
+            <td colspan="4">💰 Buying</td>
         </tr>
         
                 <tr>
@@ -304,15 +280,15 @@ permalink: /trade/
         <tr>
             <th colspan="4" class="username-header">dungeonmaster7755</th>
         </tr>
-    
-        <tr>
-            <th colspan="4">💰 Buying</th>
-        </tr>
         <tr>
             <th>Amount</th>
             <th>Artifact</th>
             <th>RS Level</th>
             <th>%</th>
+        </tr>
+    
+        <tr>
+            <td colspan="4">💰 Buying</td>
         </tr>
         
                 <tr>
@@ -330,15 +306,15 @@ permalink: /trade/
         <tr>
             <th colspan="4" class="username-header">huogewoci.</th>
         </tr>
-    
-        <tr>
-            <th colspan="4">🏷️ Selling</th>
-        </tr>
         <tr>
             <th>Amount</th>
             <th>Artifact</th>
             <th>RS Level</th>
             <th>%</th>
+        </tr>
+    
+        <tr>
+            <td colspan="4">🏷️ Selling</td>
         </tr>
         
                 <tr>
@@ -356,15 +332,15 @@ permalink: /trade/
         <tr>
             <th colspan="4" class="username-header">myrdnnwyltt</th>
         </tr>
-    
-        <tr>
-            <th colspan="4">🏷️ Selling</th>
-        </tr>
         <tr>
             <th>Amount</th>
             <th>Artifact</th>
             <th>RS Level</th>
             <th>%</th>
+        </tr>
+    
+        <tr>
+            <td colspan="4">🏷️ Selling</td>
         </tr>
         
                 <tr>
@@ -375,13 +351,7 @@ permalink: /trade/
                 </tr>
             
         <tr>
-            <th colspan="4">💰 Buying</th>
-        </tr>
-        <tr>
-            <th>Amount</th>
-            <th>Artifact</th>
-            <th>RS Level</th>
-            <th>%</th>
+            <td colspan="4">💰 Buying</td>
         </tr>
         
                 <tr>
@@ -399,15 +369,15 @@ permalink: /trade/
         <tr>
             <th colspan="4" class="username-header">pagy1234</th>
         </tr>
-    
-        <tr>
-            <th colspan="4">💰 Buying</th>
-        </tr>
         <tr>
             <th>Amount</th>
             <th>Artifact</th>
             <th>RS Level</th>
             <th>%</th>
+        </tr>
+    
+        <tr>
+            <td colspan="4">💰 Buying</td>
         </tr>
         
                 <tr>
@@ -432,15 +402,15 @@ permalink: /trade/
         <tr>
             <th colspan="4" class="username-header">toxic.masculinity</th>
         </tr>
-    
-        <tr>
-            <th colspan="4">💰 Buying</th>
-        </tr>
         <tr>
             <th>Amount</th>
             <th>Artifact</th>
             <th>RS Level</th>
             <th>%</th>
+        </tr>
+    
+        <tr>
+            <td colspan="4">💰 Buying</td>
         </tr>
         
                 <tr>
@@ -472,15 +442,15 @@ permalink: /trade/
         <tr>
             <th colspan="4" class="username-header">willie6999</th>
         </tr>
-    
-        <tr>
-            <th colspan="4">🏷️ Selling</th>
-        </tr>
         <tr>
             <th>Amount</th>
             <th>Artifact</th>
             <th>RS Level</th>
             <th>%</th>
+        </tr>
+    
+        <tr>
+            <td colspan="4">🏷️ Selling</td>
         </tr>
         
                 <tr>
@@ -512,13 +482,7 @@ permalink: /trade/
                 </tr>
             
         <tr>
-            <th colspan="4">💰 Buying</th>
-        </tr>
-        <tr>
-            <th>Amount</th>
-            <th>Artifact</th>
-            <th>RS Level</th>
-            <th>%</th>
+            <td colspan="4">💰 Buying</td>
         </tr>
         
                 <tr>
