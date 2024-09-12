@@ -4,7 +4,7 @@ title: Corporations
 description: Hades' Star Corporation Whitestar Records and Stats Directory
 ---
 
-<style type="text/css"> p { border: 1px solid black; } </style>| Corporation Name | ELO Regular | ELO Competitive | Total Matches |
+| Corporation Name | ELO Regular | ELO Competitive | Total Matches |
 | --- | --- | --- | --- |
 | [AAAA](https://ws.tsl.rocks/corp/73b759d7c9218f2c1171f9ef691739331ca36ee045039f4f3f935a47b6622a27/) | 1160 | 1191 | 14 |
 | [Aconitum](https://ws.tsl.rocks/corp/a78154f5b970193636f3d13d3f6d3dd98e975ba876810f1bfb84c90e778986db/) | 1213 | 1214 | 1 |
@@ -1255,3 +1255,4 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [혁명군](https://ws.tsl.rocks/corp/712800536cbb3ef3357a2480d86cf971596950ac499e699bb3d99f94d1c65f5f/) | 1115 | 1248 | 45 |
 | [𝖕𝖎𝖗𝖆𝖙𝖊𝖘](https://ws.tsl.rocks/corp/dfa303324f73956393169d9ab02646eb1f9492b8ec55b01c604befbd33461821/) | 1184 | 1184 | 4 |
 | [🌪TORNADO ](https://ws.tsl.rocks/corp/df15d02d32c67d60995e68d6c4197c23b340a0a985f04280563d8d07bd4536fa/) | 1183 | 1209 | 17 |
+<style type="text/css"> p { border: 1px solid black; } </style>
