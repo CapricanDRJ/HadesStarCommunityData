@@ -38,7 +38,6 @@ permalink: /trade/
     </style>
 </head>
 <body>
-    <h1>Artifact Bank</h1>
     <div class="table-container">
 
     <table>
