@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​星际集团
-description: W:9 L:8 D:2 Bonus ❌
-date: 1725793461
+description: W:10 L:8 D:2 Bonus ✅
+date: 1726148945
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔻  (768)|
-| ELO Competitive | 1232 🔻  (384)|
-| Total Matches | 19 |
-| Wins | 9 |
+| ELO Regular | 1196 🔺  (509)|
+| ELO Competitive | 1244 🔺  (356)|
+| Total Matches | 20 |
+| Wins | 10 |
 | Losses | 8 |
 | Draws | 2 |
 | Streak Record | 3 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725361461,1725284540,1724798029,1724336140,1723902192,1723462239,1722942961,1722474729,1722041705,1721524624,1721020556,1721014846,1720512325,1720512325,1720078067,1720005331,1719586724,1719152494,1718710135];
+        let timestamps = [1725716945,1725361461,1725284540,1724798029,1724336140,1723902192,1723462239,1722942961,1722474729,1722041705,1721524624,1721020556,1721014846,1720512325,1720512325,1720078067,1720005331,1719586724,1719152494,1718710135];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/12 | 9-0 | [蓝色星系一号分盟](https://ws.tsl.rocks/corp/e0f054888d7f0127596210e18c6714dc3bd228748e8f6822d1a091514d6264b8/) |
 | ❌ | 2024/09/08 | 0-5 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 | ❌ | 2024/09/07 | 3-13 | [STRVS233～](https://ws.tsl.rocks/corp/727f6b88132c5850b1ef7ad02101bab3f97fc5dd191307dffca64181bf41e614/) |
 | ✅ | 2024/09/01 | 9-0 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) |

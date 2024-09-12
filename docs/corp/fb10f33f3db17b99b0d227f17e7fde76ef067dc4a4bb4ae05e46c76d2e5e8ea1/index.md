@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Lacuna X
-description: W:36 L:5 D:0 Bonus ✅
-date: 1725601149
+description: W:36 L:6 D:0 Bonus ✅
+date: 1726154656
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1470 🔺  (16)|
-| ELO Competitive | 1503 🔺  (31)|
-| Total Matches | 41 |
+| ELO Regular | 1449 🔻  (18)|
+| ELO Competitive | 1480 🔻  (40)|
+| Total Matches | 42 |
 | Wins | 36 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 0 |
-| Streak | 4 |
 | Streak Record | 17 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725169149,1724465361,1723952683,1723317097,1721512808,1720970064,1720330207,1719673571,1718576417,1717905194,1717319955,1716688251,1716071729,1715470523,1714884344,1714258672,1713640645,1713043317,1712437560,1711723013,1711183653,1710658438,1709968255,1709394357,1708791885,1708131696,1707570207,1706889111,1706285075,1705657599,1705133507,1704578464,1703947381,1703241152,1702707429,1702160217,1701493906,1700824281,1700285105,1699670394,1698986407];
+        let timestamps = [1725722656,1725169149,1724465361,1723952683,1723317097,1721512808,1720970064,1720330207,1719673571,1718576417,1717905194,1717319955,1716688251,1716071729,1715470523,1714884344,1714258672,1713640645,1713043317,1712437560,1711723013,1711183653,1710658438,1709968255,1709394357,1708791885,1708131696,1707570207,1706889111,1706285075,1705657599,1705133507,1704578464,1703947381,1703241152,1702707429,1702160217,1701493906,1700824281,1700285105,1699670394,1698986407];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/12 | 5-22 | [Sprite](https://ws.tsl.rocks/corp/3bf5d300b42f0610355645e2ee9cf24e5517a2c5e12472f685781051619266ac/) |
 | ✅ | 2024/09/06 | 33-3 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
 | ✅ | 2024/08/29 | 19-2 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |
 | ✅ | 2024/08/23 | 27-0 | [星光万丈](https://ws.tsl.rocks/corp/92ad2a305a74e168b57771140461b4d226e1e8cac17b4f77027d5a67ead5fa1d/) |
