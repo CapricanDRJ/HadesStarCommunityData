@@ -10,8 +10,17 @@ permalink: /trade/
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         body { font-family: Arial, sans-serif; background-color: #1e1e1e; color: #c7c7c7; }
-        .table-container { display: flex; flex-wrap: wrap; justify-content: space-around; }
-        table { width: auto; border-collapse: collapse; margin: 20px; }
+        .table-container { 
+            display: flex; 
+            flex-wrap: wrap; 
+            justify-content: space-around; 
+        }
+        table { 
+            width: auto; 
+            border-collapse: collapse; 
+            margin: 20px; 
+            max-width: 45%; /* Allow tables to be side by side on larger screens */
+        }
         th, td { padding: 8px; border: 1px solid #444; text-align: center; }
         th { background-color: #333; color: #fff; }
         h2 { margin-top: 40px; color: #fff; text-align: center; }
@@ -19,6 +28,13 @@ permalink: /trade/
         a { color: #9acd32; text-decoration: none; } /* Change link color */
         a:hover { text-decoration: underline; } /* Optional hover effect */
         img { height: 24px; width: 24px; vertical-align: middle; }
+        
+        /* Responsive behavior for smaller screens */
+        @media screen and (max-width: 768px) {
+            table {
+                max-width: 100%; /* Stack tables vertically on smaller screens */
+            }
+        }
     </style>
 </head>
 <body>
