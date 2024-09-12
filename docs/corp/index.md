@@ -4,7 +4,7 @@ title: Corporations
 description: Hades' Star Corporation Whitestar Records and Stats Directory
 ---
 
-| Corporation Name | ELO Regular | ELO Competitive | Total Matches |
+<style type="text/css"> p { border: 1px solid black; } </style>| Corporation Name | ELO Regular | ELO Competitive | Total Matches |
 | --- | --- | --- | --- |
 | [AAAA](https://ws.tsl.rocks/corp/73b759d7c9218f2c1171f9ef691739331ca36ee045039f4f3f935a47b6622a27/) | 1160 | 1191 | 14 |
 | [Aconitum](https://ws.tsl.rocks/corp/a78154f5b970193636f3d13d3f6d3dd98e975ba876810f1bfb84c90e778986db/) | 1213 | 1214 | 1 |
