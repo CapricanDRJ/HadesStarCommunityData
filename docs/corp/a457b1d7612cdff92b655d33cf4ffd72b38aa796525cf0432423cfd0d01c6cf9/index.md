@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​华夏三体舰队
-description: W:11 L:24 D:6 Bonus ❌
-date: 1725936794
+description: W:12 L:24 D:6 Bonus ✅
+date: 1726133215
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1109 🔻  (1153)|
-| ELO Competitive | 1200 🔻  (561)|
-| Total Matches | 41 |
-| Wins | 11 |
+| ELO Regular | 1129 🔺  (1105)|
+| ELO Competitive | 1230 🔺  (397)|
+| Total Matches | 42 |
+| Wins | 12 |
 | Losses | 24 |
 | Draws | 6 |
 | Streak Record | 3 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725504794,1725078905,1724563326,1724562424,1724127291,1723606489,1723175550,1723154519,1722604281,1722590156,1722145400,1722066350,1721657655,1721633312,1721170235,1721025966,1720643362,1720440799,1720005331,1719530692,1719383885,1718903664,1718794879,1718288057,1718273932,1717696248,1717678811,1717246011,1716980057,1716736938,1716528997,1716295259,1716088852,1715860507,1715600921,1715420940,1715124408,1714903873,1714639364,1714173341,1713727776];
+        let timestamps = [1725701215,1725504794,1725078905,1724563326,1724562424,1724127291,1723606489,1723175550,1723154519,1722604281,1722590156,1722145400,1722066350,1721657655,1721633312,1721170235,1721025966,1720643362,1720440799,1720005331,1719530692,1719383885,1718903664,1718794879,1718288057,1718273932,1717696248,1717678811,1717246011,1716980057,1716736938,1716528997,1716295259,1716088852,1715860507,1715600921,1715420940,1715124408,1714903873,1714639364,1714173341,1713727776];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/12 | 3-1 | [游徒之家](https://ws.tsl.rocks/corp/7ab5f6970c8703095b0589da6e5d648dc64a94ca6d901ef09d4949409b2c44b9/) |
 | ❌ | 2024/09/10 | 1-15 | [Armored Union ](https://ws.tsl.rocks/corp/4dacc02ca314ab864578421db538b0eb10b0c8c81dc0edd91c5090717d087c7f/) |
 | ❌ | 2024/09/05 | 0-11 | [hades star萌新指引站](https://ws.tsl.rocks/corp/06feef105195a4e2ec026c0e3e2c62fce31204dfe6be8e4b26863935efbf8a50/) |
 | ❌ | 2024/08/30 | 1-27 | [Z\. O\. V\. ](https://ws.tsl.rocks/corp/4f56534357f2407b25faee160f9dca4ee83b8f9ca4425ba472a47298faf54096/) |

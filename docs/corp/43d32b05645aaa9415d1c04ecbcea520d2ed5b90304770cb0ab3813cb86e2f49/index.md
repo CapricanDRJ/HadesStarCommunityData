@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​붉은늑대
-description: W:37 L:48 D:0 Bonus ✅
+description: W:37 L:48 D:0 Bonus ❌
 date: 1726116789
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1117 🔻  (1132)|
+| ELO Regular | 1117 🔻  (1133)|
 | ELO Competitive | 1377 🔻  (123)|
 | Total Matches | 85 |
 | Wins | 37 |
