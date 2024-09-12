@@ -21,7 +21,7 @@ header_pages:
   - relics100.md
   - win100.md
   - lose100.md
-  - bank/index.html
+  - trade/index.md
 
 # Site properties
 language: english
