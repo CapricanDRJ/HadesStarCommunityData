@@ -2,7 +2,7 @@
 layout: page
 title: Artifact Trading
 description: Overview of trading artifacts in Hades' Star, categorized by users and their respective guilds.
-permalink: /t/
+permalink: /trade/
 ---
 <!DOCTYPE html>
 <html lang="en">
