@@ -13,10 +13,13 @@ permalink: /trade/
         .table-container { 
             display: flex; 
             flex-wrap: wrap; 
-            justify-content: space-around; 
+            justify-content: flex-start; /* Align based on content width */
         }
+
         table { 
-            width: 45%;  /* Allow tables to be side by side on larger screens without stretching rows */
+            table-layout: auto; /* Use content width */
+            width: auto;  /* Adjust width automatically */
+            min-width: 300px; /* Set a minimum width */
             margin: 10px; 
             border-collapse: collapse; 
         }
