@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​(_(_Vossk_)_)
-description: W:10 L:16 D:0 Bonus ❌
-date: 1725501996
+description: W:10 L:17 D:0 Bonus ❌
+date: 1726182906
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1147 🔻  (1046)|
-| ELO Competitive | 1184 🔻  (865)|
-| Total Matches | 26 |
+| ELO Regular | 1140 🔻  (1070)|
+| ELO Competitive | 1177 🔻  (924)|
+| Total Matches | 27 |
 | Wins | 10 |
-| Losses | 16 |
+| Losses | 17 |
 | Draws | 0 |
 | Streak Record | 3 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725069996,1724365294,1714759052,1713393985,1712313456,1711794828,1711062568,1710370894,1709420803,1708773552,1707980844,1706924873,1706104767,1705544010,1704867258,1704186588,1703335219,1702556936,1701832620,1701301266,1700807753,1700784316,1700298027,1699657470,1698832850,1698823835];
+        let timestamps = [1725750906,1725069996,1724365294,1714759052,1713393985,1712313456,1711794828,1711062568,1710370894,1709420803,1708773552,1707980844,1706924873,1706104767,1705544010,1704867258,1704186588,1703335219,1702556936,1701832620,1701301266,1700807753,1700784316,1700298027,1699657470,1698832850,1698823835];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/12 | 1-24 | [Star Destroyers](https://ws.tsl.rocks/corp/32ba20918cd8720602fefb3bc676a6ba5195314479040f70eadc728fbbc2698d/) |
 | ❌ | 2024/09/05 | 0-8 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) |
 | ❌ | 2024/08/27 | 0-39 | [Atlas Star llc\.](https://ws.tsl.rocks/corp/3de5259ba12509e4d02854f1414caacf3d0aaaf79f417b9d843ff20ca35863dd/) |
 | ❌ | 2024/05/08 | 0-27 | [Corporation](https://ws.tsl.rocks/corp/51bbfdd5693e8227e63dbd5161e8fb1a5fa3e93d1f67c7d565d82f080bbeb007/) |
