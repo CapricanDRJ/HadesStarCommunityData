@@ -16,28 +16,28 @@ permalink: /trade/
             justify-content: space-around; 
         }
         table { 
-            width: auto; 
+            width: 45%;  /* Allow tables to be side by side on larger screens */
+            margin: 10px; 
             border-collapse: collapse; 
-            margin: 20px; 
-            max-width: 45%; /* Allow tables to be side by side on larger screens */
         }
         th, td { padding: 8px; border: 1px solid #444; text-align: center; }
         th { background-color: #333; color: #fff; }
         h2 { margin-top: 40px; color: #fff; text-align: center; }
         .username-header { font-size: 1.5em; padding: 10px 0; }
-        a { color: #9acd32; text-decoration: none; } /* Change link color */
+        a { color: #9acd32; text-decoration: none; } /* Ensures link color is consistent */
         a:hover { text-decoration: underline; } /* Optional hover effect */
         img { height: 24px; width: 24px; vertical-align: middle; }
         
         /* Responsive behavior for smaller screens */
         @media screen and (max-width: 768px) {
             table {
-                max-width: 100%; /* Stack tables vertically on smaller screens */
+                width: 100%;  /* Stack tables vertically on smaller screens */
             }
         }
     </style>
 </head>
 <body>
+    <h1>Artifact Bank</h1>
     <div class="table-container">
 
     <table>
@@ -151,7 +151,7 @@ permalink: /trade/
                 </tr>
             
         <tr>
-            <td colspan="4">Guild: <a href="https://discord.com/channels/503756389705973760">\[c̲̲̅σ̲̲̅и̲̲̅т̲̲̅i̲̲̅и̲̲̅υ̲̅υм\]</a></td>
+            <td colspan="4">Guild: <a href="https://discord.com/channels/503756389705973760">[c̲̲̅σ̲̲̅и̲̲̅т̲̲̅i̲̲̅и̲̲̅υ̲̅υм]</a></td>
         </tr>
     </table>
     <table>
@@ -350,7 +350,7 @@ permalink: /trade/
                 </tr>
             
         <tr>
-            <td colspan="4">Guild: <a href="https://discord.com/channels/503756389705973760">\[c̲̲̅σ̲̲̅и̲̲̅т̲̲̅i̲̲̅и̲̲̅υ̲̅υм\]</a></td>
+            <td colspan="4">Guild: <a href="https://discord.com/channels/503756389705973760">[c̲̲̅σ̲̲̅и̲̲̅т̲̲̅i̲̲̅и̲̲̅υ̲̅υм]</a></td>
         </tr>
     </table>
     <table>
@@ -393,7 +393,7 @@ permalink: /trade/
                 </tr>
             
         <tr>
-            <td colspan="4">Guild: <a href="https://discord.com/channels/503756389705973760">\[c̲̲̅σ̲̲̅и̲̲̅т̲̲̅i̲̲̅и̲̲̅υ̲̅υм\]</a></td>
+            <td colspan="4">Guild: <a href="https://discord.com/channels/503756389705973760">[c̲̲̅σ̲̲̅и̲̲̅т̲̲̅i̲̲̅и̲̲̅υ̲̅υм]</a></td>
         </tr>
     </table>
     <table>
@@ -426,7 +426,7 @@ permalink: /trade/
                 </tr>
             
         <tr>
-            <td colspan="4">Guild: <a href="https://discord.com/channels/503756389705973760">\[c̲̲̅σ̲̲̅и̲̲̅т̲̲̅i̲̲̅и̲̲̅υ̲̅υм\]</a></td>
+            <td colspan="4">Guild: <a href="https://discord.com/channels/503756389705973760">[c̲̲̅σ̲̲̅и̲̲̅т̲̲̅i̲̲̅и̲̲̅υ̲̅υм]</a></td>
         </tr>
     </table>
     <table>
@@ -466,7 +466,7 @@ permalink: /trade/
                 </tr>
             
         <tr>
-            <td colspan="4">Guild: <a href="https://discord.com/channels/503756389705973760">\[c̲̲̅σ̲̲̅и̲̲̅т̲̲̅i̲̲̅и̲̲̅υ̲̅υм\]</a></td>
+            <td colspan="4">Guild: <a href="https://discord.com/channels/503756389705973760">[c̲̲̅σ̲̲̅и̲̲̅т̲̲̅i̲̲̅и̲̲̅υ̲̅υм]</a></td>
         </tr>
     </table>
     <table>
@@ -530,7 +530,7 @@ permalink: /trade/
                 </tr>
             
         <tr>
-            <td colspan="4">Guild: <a href="https://discord.com/channels/503756389705973760">\[c̲̲̅σ̲̲̅и̲̲̅т̲̲̅i̲̲̅и̲̲̅υ̲̅υм\]</a></td>
+            <td colspan="4">Guild: <a href="https://discord.com/channels/503756389705973760">[c̲̲̅σ̲̲̅и̲̲̅т̲̲̅i̲̲̅и̲̲̅υ̲̅υм]</a></td>
         </tr>
     </table>
     </div>
