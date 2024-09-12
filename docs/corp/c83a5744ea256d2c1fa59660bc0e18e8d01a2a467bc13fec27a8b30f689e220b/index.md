@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​SiriusStrawMoo
-description: W:10 L:4 D:0 Bonus ✅
-date: 1725632403
+description: W:11 L:4 D:0 Bonus ✅
+date: 1726099063
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1271 🔺  (181)|
-| ELO Competitive | 1287 🔺  (246)|
-| Total Matches | 14 |
-| Wins | 10 |
+| ELO Regular | 1289 🔺  (147)|
+| ELO Competitive | 1305 🔺  (215)|
+| Total Matches | 15 |
+| Wins | 11 |
 | Losses | 4 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 9 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725200403,1724758657,1724257412,1723765758,1723299064,1722857916,1722406251,1721950956,1721484857,1721051514,1720267098,1719395902,1718657254,1718194898];
+        let timestamps = [1725667063,1725200403,1724758657,1724257412,1723765758,1723299064,1722857916,1722406251,1721950956,1721484857,1721051514,1720267098,1719395902,1718657254,1718194898];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/11 | 6-0 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
 | ✅ | 2024/09/06 | 7-3 | [欢迎国人](https://ws.tsl.rocks/corp/f32abd112fe2b826948a3538a51097b9114815930ec77ad11ada1b24ce34578d/) |
 | ❌ | 2024/09/01 | 0-7 | [使命白星](https://ws.tsl.rocks/corp/88e828c55c07286950a3296b00ca2a7a9cc2f1a0139e9cf4c6e54229f821e952/) |
 | ✅ | 2024/08/26 | 17-5 | [Brasil](https://ws.tsl.rocks/corp/c1d98a4e0a9c522aff7cb4156b0dc139eb54566269c2203b2eae6fe1827fc6c3/) |
