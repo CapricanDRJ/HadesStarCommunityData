@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Hexacropians
-description: W:43 L:7 D:1 Bonus ✅
-date: 1725588529
+description: W:44 L:7 D:1 Bonus ✅
+date: 1726206641
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1449 🔺  (19)|
-| ELO Competitive | 1494 🔺  (33)|
-| Total Matches | 51 |
-| Wins | 43 |
+| ELO Regular | 1451 🔺  (18)|
+| ELO Competitive | 1497 🔺  (32)|
+| Total Matches | 52 |
+| Wins | 44 |
 | Losses | 7 |
 | Draws | 1 |
-| Streak | 7 |
+| Streak | 8 |
 | Streak Record | 13 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725156529,1724553411,1724027827,1723516036,1722925834,1722301977,1721700630,1721194874,1720661092,1720072356,1719462017,1718845369,1718329530,1717828858,1717308832,1716793130,1716352043,1715863511,1715321795,1714696754,1714193168,1713652665,1712973600,1712446573,1711872353,1711412027,1710903024,1710370894,1709855881,1709373620,1708857388,1708318306,1707718203,1707177115,1706700088,1706167874,1705565041,1705027131,1704447134,1703940167,1703378499,1702858385,1702356474,1701907459,1701430188,1700994401,1700558601,1700026875,1699583500,1699149295,1698716532];
+        let timestamps = [1725774641,1725156529,1724553411,1724027827,1723516036,1722925834,1722301977,1721700630,1721194874,1720661092,1720072356,1719462017,1718845369,1718329530,1717828858,1717308832,1716793130,1716352043,1715863511,1715321795,1714696754,1714193168,1713652665,1712973600,1712446573,1711872353,1711412027,1710903024,1710370894,1709855881,1709373620,1708857388,1708318306,1707718203,1707177115,1706700088,1706167874,1705565041,1705027131,1704447134,1703940167,1703378499,1702858385,1702356474,1701907459,1701430188,1700994401,1700558601,1700026875,1699583500,1699149295,1698716532];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) | 2 | 0 | 0 | 2 |
 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/0c33734edc95a1bac88a9df7e0853a3bd835ea682673f097db1c75d6bb14c8da/) | 2 | 0 | 0 | 2 |
 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) | 2 | 0 | 0 | 2 |
 | [Alpha ](https://ws.tsl.rocks/corp/accb87a59c1f019d1be37fa2b19ae2aeb35c4a995d1d621a8e987065cd1328fe/) | 2 | 0 | 0 | 2 |
@@ -126,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/13 | 46-0 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
 | ✅ | 2024/09/06 | 34-4 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/0c33734edc95a1bac88a9df7e0853a3bd835ea682673f097db1c75d6bb14c8da/) |
 | ✅ | 2024/08/30 | 50-0 | [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) |
 | ✅ | 2024/08/24 | 44-20 | [Sad Panda 2\.0](https://ws.tsl.rocks/corp/74aed8be82b78aae23f7cdb815f2124496aee03eb68115e20ce9073444d3430c/) |
