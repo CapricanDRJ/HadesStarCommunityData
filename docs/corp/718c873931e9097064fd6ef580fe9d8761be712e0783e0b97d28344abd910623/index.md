@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​lesescargots
-description: W:42 L:17 D:0 Bonus ✅
+description: W:42 L:17 D:0 Bonus ❌
 date: 1726046769
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
