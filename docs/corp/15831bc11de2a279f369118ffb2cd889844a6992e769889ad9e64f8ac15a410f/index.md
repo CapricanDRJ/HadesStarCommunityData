@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​No Orbit©
-description: W:12 L:6 D:0 Bonus ✅
-date: 1725647434
+description: W:13 L:6 D:0 Bonus ✅
+date: 1726237899
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1270 🔺  (183)|
-| ELO Competitive | 1290 🔺  (243)|
-| Total Matches | 18 |
-| Wins | 12 |
+| ELO Regular | 1284 🔺  (161)|
+| ELO Competitive | 1306 🔺  (211)|
+| Total Matches | 19 |
+| Wins | 13 |
 | Losses | 6 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 6 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725215434,1720368378,1719150991,1717945771,1716155859,1715551956,1713730180,1710691195,1710084847,1708877526,1707057698,1706456070,1705895915,1705245905,1704643375,1701620134,1700405928,1699209692];
+        let timestamps = [1725805899,1725215434,1720368378,1719150991,1717945771,1716155859,1715551956,1713730180,1710691195,1710084847,1708877526,1707057698,1706456070,1705895915,1705245905,1704643375,1701620134,1700405928,1699209692];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/13 | 28-27 | [Polish Pirates](https://ws.tsl.rocks/corp/e73d410a73bca6a1161056891e484b32cac940c0d94d20c92ed085683524652b/) |
 | ✅ | 2024/09/06 | 16-15 | [Legion](https://ws.tsl.rocks/corp/313baaeac1c759ca26e0f4bd3140711cffdfa85c287d4c992dcfb809908cf491/) |
 | ❌ | 2024/07/12 | 6-12 | [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) |
 | ❌ | 2024/06/28 | 10-21 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) |
