@@ -258,19 +258,8 @@ permalink: /trade/
         </tr>
         
                 <tr>
-                    <td>5</td>
+                    <td>0</td>
                     <td><img src="mining.png" alt="mining"></td>
-                    <td>RS9</td>
-                    <td>240%</td>
-                </tr>
-            
-        <tr>
-            <td colspan="4">💰 Buying</td>
-        </tr>
-        
-                <tr>
-                    <td>5</td>
-                    <td><img src="trade.png" alt="trade"></td>
                     <td>RS9</td>
                     <td>240%</td>
                 </tr>
