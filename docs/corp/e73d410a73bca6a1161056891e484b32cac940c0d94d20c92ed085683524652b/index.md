@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Polish Pirates
-description: W:16 L:12 D:0 Bonus ✅
+description: W:16 L:12 D:0 Bonus ❌
 date: 1725608361
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
