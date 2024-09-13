@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Дом Датэ
-description: W:27 L:24 D:0 Bonus ✅
+description: W:27 L:24 D:0 Bonus ❌
 date: 1725732172
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1280 🔻  (169)|
-| ELO Competitive | 1389 🔺  (112)|
+| ELO Competitive | 1389 🔺  (113)|
 | Total Matches | 51 |
 | Wins | 27 |
 | Losses | 24 |

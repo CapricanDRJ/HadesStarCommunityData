@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Legión
-description: W:0 L:3 D:0 Bonus ❌
-date: 1724944845
+description: W:1 L:3 D:0 Bonus ✅
+date: 1726256234
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1164 🔻  (952)|
-| ELO Competitive | 1168 🔻  (1024)|
-| Total Matches | 3 |
-| Wins | 0 |
+| ELO Regular | 1170 🔺  (900)|
+| ELO Competitive | 1175 🔺  (943)|
+| Total Matches | 4 |
+| Wins | 1 |
 | Losses | 3 |
 | Draws | 0 |
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724512845,1722817952,1699897040];
+        let timestamps = [1725824234,1724512845,1722817952,1699897040];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/13 | 32-7 | [The X \- Files](https://ws.tsl.rocks/corp/f13cb0ae2dbb0654a2067c8749f86bce49edc5b520bd391c7af11948f23a41fb/) |
 | ❌ | 2024/08/29 | 2-17 | [Unión latina](https://ws.tsl.rocks/corp/9919a50d277644f496c19d5becdf40abb251d000345f049632329f0b35b7fbf1/) |
 | ❌ | 2024/08/10 | 2-25 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) |
 | ❌ | 2023/11/18 | 2-12 | [Vega Conflict](https://ws.tsl.rocks/corp/396ceafad44127f2e9dfb94934dc27154c6f97f6bc60832af6cb17791fd7369b/) |
