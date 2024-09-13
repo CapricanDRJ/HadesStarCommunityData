@@ -167,7 +167,7 @@ permalink: /trade/
         </tr>
         
                 <tr>
-                    <td>0</td>
+                    <td>5</td>
                     <td><img src="trade.png" alt="trade"></td>
                     <td>RS11</td>
                     <td>224%</td>
