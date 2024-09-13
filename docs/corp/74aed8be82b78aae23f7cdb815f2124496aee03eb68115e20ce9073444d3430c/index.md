@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Sad Panda 2.0
-description: W:2 L:6 D:0 Bonus ❌
-date: 1724459827
+description: W:2 L:7 D:0 Bonus ❌
+date: 1726262846
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1161 🔻  (975)|
-| ELO Competitive | 1165 🔻  (1051)|
-| Total Matches | 8 |
+| ELO Regular | 1155 🔻  (1012)|
+| ELO Competitive | 1159 🔻  (1074)|
+| Total Matches | 9 |
 | Wins | 2 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724027827,1706676952,1703674806,1702610736,1701747564,1700983580,1699946328,1699221113];
+        let timestamps = [1725830846,1724027827,1706676952,1703674806,1702610736,1701747564,1700983580,1699946328,1699221113];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/13 | 0-30 | [Gemini Ind\.](https://ws.tsl.rocks/corp/c85dd45ed75136d750bdcc2d83740494dea9e0ba077eac1bbb2f1a442a92674c/) |
 | ❌ | 2024/08/24 | 20-44 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) |
 | ❌ | 2024/02/05 | 0-27 | [绛紫星](https://ws.tsl.rocks/corp/8c2109279ceb01bcca0aa5e85c151d5877831ac54199285743750e2ed343b407/) |
 | ❌ | 2024/01/01 | 0-24 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) |
