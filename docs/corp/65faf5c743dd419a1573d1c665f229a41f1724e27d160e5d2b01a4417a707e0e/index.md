@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​＊СССР＊
-description: W:21 L:20 D:1 Bonus ✅
-date: 1725655851
+description: W:22 L:20 D:1 Bonus ✅
+date: 1726256836
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1263 🔺  (195)|
-| ELO Competitive | 1307 🔺  (211)|
-| Total Matches | 42 |
-| Wins | 21 |
+| ELO Regular | 1278 🔺  (170)|
+| ELO Competitive | 1326 🔺  (185)|
+| Total Matches | 43 |
+| Wins | 22 |
 | Losses | 20 |
 | Draws | 1 |
-| Streak | 3 |
-| Streak Record | 3 |
+| Streak | 4 |
+| Streak Record | 4 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725223851,1724621335,1724004685,1722972717,1721587037,1720985097,1720368378,1719767932,1719135060,1718560187,1717950281,1717357235,1716744153,1716127311,1715559466,1714930916,1714329884,1713719062,1713113933,1712514185,1711909919,1711904810,1711278309,1710963114,1710701114,1710127861,1709522965,1708918391,1708326718,1707712194,1707710692,1707106982,1707106982,1706505055,1705895614,1705392850,1704824287,1703199386,1701660408,1701067439,1699818897,1699194366];
+        let timestamps = [1725824836,1725223851,1724621335,1724004685,1722972717,1721587037,1720985097,1720368378,1719767932,1719135060,1718560187,1717950281,1717357235,1716744153,1716127311,1715559466,1714930916,1714329884,1713719062,1713113933,1712514185,1711909919,1711904810,1711278309,1710963114,1710701114,1710127861,1709522965,1708918391,1708326718,1707712194,1707710692,1707106982,1707106982,1706505055,1705895614,1705392850,1704824287,1703199386,1701660408,1701067439,1699818897,1699194366];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -129,6 +129,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/13 | 15-7 | [Дом Датэ](https://ws.tsl.rocks/corp/10cbcbd91c4084657bdab01ef573cc48170fbc4dd0ab533f96712f1cb6097ff2/) |
 | ✅ | 2024/09/06 | 31-4 | [The X \- Files](https://ws.tsl.rocks/corp/f13cb0ae2dbb0654a2067c8749f86bce49edc5b520bd391c7af11948f23a41fb/) |
 | ✅ | 2024/08/30 | 25-7 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/0c33734edc95a1bac88a9df7e0853a3bd835ea682673f097db1c75d6bb14c8da/) |
 | ✅ | 2024/08/23 | 32-0 | [Veteran's Haven](https://ws.tsl.rocks/corp/254fdc629bae81f3b0ca69160e0b6e34bd81993e755e4fb5ddedd1533038a683/) |

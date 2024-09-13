@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Ironbear Legion
-description: W:15 L:30 D:0 Bonus ❌
-date: 1725702717
+description: W:15 L:31 D:0 Bonus ❌
+date: 1726258038
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1098 🔻  (1165)|
-| ELO Competitive | 1156 🔻  (1091)|
-| Total Matches | 45 |
+| ELO Regular | 1094 🔻  (1168)|
+| ELO Competitive | 1153 🔻  (1101)|
+| Total Matches | 46 |
 | Wins | 15 |
-| Losses | 30 |
+| Losses | 31 |
 | Draws | 0 |
 | Streak Record | 7 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725270717,1724599693,1724002881,1723403346,1722783090,1721648938,1720903643,1720289343,1719251667,1717942765,1717329875,1716725214,1716120399,1715535727,1714922202,1714312751,1713704336,1713022580,1712153001,1711399107,1710087852,1709487509,1708892553,1708875122,1708278041,1707759071,1707164493,1707057698,1706450960,1705863761,1705849934,1705257628,1705251916,1704669826,1704644878,1704056173,1703435900,1702828628,1702218822,1701612619,1701012438,1700404726,1699805667,1699287812,1698852086];
+        let timestamps = [1725826038,1725270717,1724599693,1724002881,1723403346,1722783090,1721648938,1720903643,1720289343,1719251667,1717942765,1717329875,1716725214,1716120399,1715535727,1714922202,1714312751,1713704336,1713022580,1712153001,1711399107,1710087852,1709487509,1708892553,1708875122,1708278041,1707759071,1707164493,1707057698,1706450960,1705863761,1705849934,1705257628,1705251916,1704669826,1704644878,1704056173,1703435900,1702828628,1702218822,1701612619,1701012438,1700404726,1699805667,1699287812,1698852086];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,15 +117,16 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 1 | 2 | 0 | 3 |
 | [Starsailors](https://ws.tsl.rocks/corp/1ffdd1012b5d4a4aca2e0e34e2653630706b779eead835c61c2c715e4df17a1f/) | 0 | 2 | 0 | 2 |
 | [111](https://ws.tsl.rocks/corp/8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350/) | 0 | 2 | 0 | 2 |
 | [Imperium XIII](https://ws.tsl.rocks/corp/0d52edf77b0cdeaaea6ebc20a7f5b6a60372b535bf96f556b31e2243dc8ee75a/) | 1 | 1 | 0 | 2 |
-| [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 1 | 1 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/13 | 0-46 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) |
 | ❌ | 2024/09/07 | 18-43 | [Ark](https://ws.tsl.rocks/corp/febd79d038ed9af667e201309060d9662ba825ba9be2b5b95418ac20a8e70c80/) |
 | ❌ | 2024/08/30 | 7-30 | [Lights Off ](https://ws.tsl.rocks/corp/8a8b7e5b7a00ef709249daa4546d03bd85258cde01d35e1829a64ed95c3d6cca/) |
 | ❌ | 2024/08/23 | 2-32 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |
