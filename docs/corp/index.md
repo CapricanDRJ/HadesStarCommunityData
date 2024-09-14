@@ -40,7 +40,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Archangels BR](https://ws.tsl.rocks/corp/9f0b92fa53a4e1b97659c0c2df1ee74fe5ffcca2d272419c4d585bb39a86338f/) | 1215 | 1215 | 1 |
 | [Argentina 1\.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449/) | 1349 | 1403 | 37 |
 | [Ark](https://ws.tsl.rocks/corp/febd79d038ed9af667e201309060d9662ba825ba9be2b5b95418ac20a8e70c80/) | 1449 | 1536 | 57 |
-| [Ark Summit](https://ws.tsl.rocks/corp/5940b759f3f833f4c6b35733e1f642a64d5589c1c692e34d030383be08e95e02/) | 1333 | 1340 | 11 |
+| [Ark Summit](https://ws.tsl.rocks/corp/5940b759f3f833f4c6b35733e1f642a64d5589c1c692e34d030383be08e95e02/) | 1344 | 1352 | 12 |
 | [Armored Union ](https://ws.tsl.rocks/corp/4dacc02ca314ab864578421db538b0eb10b0c8c81dc0edd91c5090717d087c7f/) | 1217 | 1304 | 40 |
 | [Ascalon](https://ws.tsl.rocks/corp/419d15ad4ef8d71b318a3969624acedc85fa9a6e07381e2c8f2fc9d7633a0e23/) | 1201 | 1201 | 3 |
 | [Assasins bees](https://ws.tsl.rocks/corp/e2f08fe4957c28c70293fad9da8a5b4710b329f9f833693b2cc3f86e15453b84/) | 1189 | 1191 | 1 |
@@ -318,7 +318,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Hail Hydra](https://ws.tsl.rocks/corp/32527ae821386573e64d75451a2fce9d6731e290d0cfab03e7d953356979baf8/) | 1112 | 1127 | 25 |
 | [HAL](https://ws.tsl.rocks/corp/249861ea16b488e34ea28566402ed775f6f27004aa9e6843b668f23cec4140c7/) | 1242 | 1242 | 4 |
 | [Halcon español](https://ws.tsl.rocks/corp/ab9c3038dcf2b019ba662007ab1e50b2d80e0eb8e7a65e57dd5260a6d2e80ff9/) | 1277 | 1318 | 35 |
-| [Hamburg AG 2](https://ws.tsl.rocks/corp/d4075195191cabef801494d3accc0e6cc8c09f534fd9203f6e43c9930acffa56/) | 1210 | 1244 | 20 |
+| [Hamburg AG 2](https://ws.tsl.rocks/corp/d4075195191cabef801494d3accc0e6cc8c09f534fd9203f6e43c9930acffa56/) | 1201 | 1236 | 21 |
 | [Hand of Legion ](https://ws.tsl.rocks/corp/7545cead0b3b8e060a0987cc20eed24610a7dfd11dfef11c73a495e39eb07d14/) | 1244 | 1247 | 5 |
 | [Hand Of NOD\! ](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) | 1480 | 1526 | 42 |
 | [Hands Of God](https://ws.tsl.rocks/corp/737612566d1b11dd779660de211c576dcb421c49df9eb55390e082f496924c9b/) | 1186 | 1186 | 1 |
@@ -855,7 +855,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [VALLKIRIA](https://ws.tsl.rocks/corp/e9708177659b3a2ed5a1def608b3b496a6de73e49b0ec3429f8688efcd9091f5/) | 1238 | 1240 | 3 |
 | [Vanu Centurions](https://ws.tsl.rocks/corp/b08f378a2a81a1dd4a0c895be97f35da671a6924fd6a945ec2d5f4c3070a857e/) | 1184 | 1184 | 1 |
 | [Variants](https://ws.tsl.rocks/corp/b9987cfcc4c93bf6a66879bc06278aa598ab2f4c9c407f977427fcfd2abf028b/) | 1184 | 1186 | 1 |
-| [Vega Conflict](https://ws.tsl.rocks/corp/396ceafad44127f2e9dfb94934dc27154c6f97f6bc60832af6cb17791fd7369b/) | 1235 | 1260 | 16 |
+| [Vega Conflict](https://ws.tsl.rocks/corp/396ceafad44127f2e9dfb94934dc27154c6f97f6bc60832af6cb17791fd7369b/) | 1224 | 1248 | 17 |
 | [Veil of Maya](https://ws.tsl.rocks/corp/5f994f185c0d8bc015c42fcbe8655c6cf2ff0c8d0a37c08f1ce54dbc97dd1ce3/) | 1224 | 1224 | 6 |
 | [VENTORMENTA](https://ws.tsl.rocks/corp/0b64072b403ef687c83d4c04a4f5a20f8dd89befdaaf6ced9af64cacc2f46536/) | 1227 | 1227 | 5 |
 | [Venture](https://ws.tsl.rocks/corp/a48bd30701e4a563543ff54e7c8091cc6b5d0e972c70e4de279a93f4df2f24b0/) | 1087 | 1136 | 34 |
@@ -1017,7 +1017,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [СлАвЯнСкИй СоЮз](https://ws.tsl.rocks/corp/74a0e9ceb3b48af60580382b0ee5e8712d9a468b4f947302b81b999cfde3f86a/) | 1228 | 1231 | 11 |
 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) | 1406 | 1648 | 93 |
 | [Созидание 2\.0](https://ws.tsl.rocks/corp/ae8b8d247dbd93bebc2b77d48c1db6783a17ff8b16438f010c804b7ccf05b76a/) | 1137 | 1148 | 25 |
-| [Спутник](https://ws.tsl.rocks/corp/0ae15c4db6dc8c3f4bf3eb6aa93bffd4ea9281b06b721ab103c0078646bfe58c/) | 1370 | 1417 | 43 |
+| [Спутник](https://ws.tsl.rocks/corp/0ae15c4db6dc8c3f4bf3eb6aa93bffd4ea9281b06b721ab103c0078646bfe58c/) | 1379 | 1425 | 44 |
 | [Стальная крыса](https://ws.tsl.rocks/corp/cc253c6c109e50b129297a1f56fa3c05a6e0f0b3f7673fcb619358625ab8bdf6/) | 1174 | 1174 | 2 |
 | [Страж Галактики](https://ws.tsl.rocks/corp/ab4f340d0afdb0896e9ea68431795c811edc1afc130d1e15d53b78abfaf1bace/) | 1213 | 1214 | 2 |
 | [ТРУЛЯЛЯ](https://ws.tsl.rocks/corp/92466bf92d54290daae355c6e026bcd6c405a675ee5ce6bc1d146f9ad74d2341/) | 1186 | 1186 | 1 |

@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Ark Summit
-description: W:11 L:0 D:0 Bonus ❌
-date: 1723215090
+description: W:12 L:0 D:0 Bonus ✅
+date: 1726301901
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1333 🔺  (89)|
-| ELO Competitive | 1340 🔺  (166)|
-| Total Matches | 11 |
-| Wins | 11 |
+| ELO Regular | 1344 🔺  (79)|
+| ELO Competitive | 1352 🔺  (151)|
+| Total Matches | 12 |
+| Wins | 12 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 11 |
-| Streak Record | 11 |
+| Streak | 12 |
+| Streak Record | 12 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722783090,1720949321,1710932164,1709243516,1707530846,1706191314,1704389439,1702640786,1701144078,1699962556,1698736968];
+        let timestamps = [1725869901,1722783090,1720949321,1710932164,1709243516,1707530846,1706191314,1704389439,1702640786,1701144078,1699962556,1698736968];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/14 | 44-6 | [Vega Conflict](https://ws.tsl.rocks/corp/396ceafad44127f2e9dfb94934dc27154c6f97f6bc60832af6cb17791fd7369b/) |
 | ✅ | 2024/08/09 | 36-5 | [Ironbear Legion](https://ws.tsl.rocks/corp/256873683be88bf78e3d4f1fda68e669c8be11e78a85f9add19e60facc9831b0/) |
 | ✅ | 2024/07/19 | 44-4 | [Polish Pirates](https://ws.tsl.rocks/corp/e73d410a73bca6a1161056891e484b32cac940c0d94d20c92ed085683524652b/) |
 | ✅ | 2024/03/25 | 30-14 | [Moon Catchers](https://ws.tsl.rocks/corp/0625bb885137c3824ac346b97780181e23ee84562237eb345baa364f8d7d3c43/) |

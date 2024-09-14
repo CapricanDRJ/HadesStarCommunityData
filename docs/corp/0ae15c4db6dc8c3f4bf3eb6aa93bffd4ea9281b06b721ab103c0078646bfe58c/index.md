@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Спутник
-description: W:34 L:9 D:0 Bonus ❌
-date: 1725671772
+description: W:35 L:9 D:0 Bonus ✅
+date: 1726302804
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1370 🔺  (64)|
-| ELO Competitive | 1417 🔺  (86)|
-| Total Matches | 43 |
-| Wins | 34 |
+| ELO Regular | 1379 🔺  (57)|
+| ELO Competitive | 1425 🔺  (81)|
+| Total Matches | 44 |
+| Wins | 35 |
 | Losses | 9 |
 | Draws | 0 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 17 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725239772,1724622236,1723497107,1723017487,1722290561,1720991709,1716155859,1714340402,1713378958,1711954687,1711332704,1710657019,1709893898,1709530776,1709289784,1708915987,1708247384,1708236566,1707714297,1707048080,1707037562,1706266441,1706089741,1705667816,1705174983,1705040652,1704578764,1704557424,1704123483,1703262794,1703260389,1702757402,1702737863,1702258720,1702134365,1701630957,1701628552,1701075251,1701066537,1699844143,1699283904,1698746887,1698685862];
+        let timestamps = [1725870804,1725239772,1724622236,1723497107,1723017487,1722290561,1720991709,1716155859,1714340402,1713378958,1711954687,1711332704,1710657019,1709893898,1709530776,1709289784,1708915987,1708247384,1708236566,1707714297,1707048080,1707037562,1706266441,1706089741,1705667816,1705174983,1705040652,1704578764,1704557424,1704123483,1703262794,1703260389,1702757402,1702737863,1702258720,1702134365,1701630957,1701628552,1701075251,1701066537,1699844143,1699283904,1698746887,1698685862];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -129,6 +129,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/14 | 22-10 | [Hamburg AG 2](https://ws.tsl.rocks/corp/d4075195191cabef801494d3accc0e6cc8c09f534fd9203f6e43c9930acffa56/) |
 | ✅ | 2024/09/07 | 32-6 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) |
 | ✅ | 2024/08/30 | 32-0 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) |
 | ✅ | 2024/08/17 | 22-2 | [YETI Collective](https://ws.tsl.rocks/corp/ff6a3c65d008d245f003a3009374e26cf38e7cda6ea4d601a9da9037296fda98/) |
