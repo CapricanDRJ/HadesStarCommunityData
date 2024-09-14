@@ -544,7 +544,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [phoenix clan](https://ws.tsl.rocks/corp/e25bc73528b7029e9b908d920effef5e183928ad3f7b151987a29252d9052c79/) | 1238 | 1239 | 5 |
 | [Phoenix corp](https://ws.tsl.rocks/corp/0022bfd3700d52174d2ccdb80e38d0b74573060a0ab486c755bfa636c839805b/) | 1192 | 1193 | 1 |
 | [Phoenix Squad](https://ws.tsl.rocks/corp/c4ee18d5ce1b3c9d858923fbefc866cbe2dd7898fe739abc8447e04688ce046f/) | 1169 | 1172 | 4 |
-| [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 1295 | 1472 | 75 |
+| [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 1300 | 1476 | 76 |
 | [Pixies](https://ws.tsl.rocks/corp/fe3875cc3bc7cd97ee3d418bb35d69d8ec90da355cbec2dfb7a364387e021240/) | 1240 | 1264 | 9 |
 | [Planet Express](https://ws.tsl.rocks/corp/5b1b4c436f97fa4921cfe2eec358f39bf2ff848eac678d0b8df77abea23339dd/) | 1158 | 1158 | 3 |
 | [Planet Express](https://ws.tsl.rocks/corp/be13b17a002cf203ab2a5a31d6c8024e7458b8eac569eb576be7f30844979c99/) | 1243 | 1253 | 12 |
@@ -783,7 +783,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [The trade pub](https://ws.tsl.rocks/corp/43689e4266357d8b8d3d66d371109d9aed82ee6df47dc6fa0a7c5da735b9863b/) | 1234 | 1275 | 41 |
 | [The Visionaries](https://ws.tsl.rocks/corp/fdf81736e2eabec3cd1e7412c8f9bd49a9e0f48418b7e8a8b6131a4538d62b93/) | 1196 | 1196 | 1 |
 | [The Watchers](https://ws.tsl.rocks/corp/62a08ec3521bd62e5c8fbfc03c7d99fbf3e30fd1df80716485c9b989b27771e6/) | 1164 | 1237 | 25 |
-| [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) | 1231 | 1240 | 6 |
+| [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) | 1243 | 1240 | 7 |
 | [The X \- Files](https://ws.tsl.rocks/corp/f13cb0ae2dbb0654a2067c8749f86bce49edc5b520bd391c7af11948f23a41fb/) | 930 | 961 | 46 |
 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) | 1082 | 1312 | 84 |
 | [TheSpacingGuild](https://ws.tsl.rocks/corp/81148f4d84461a0810381baa8a5c2d755c0aeb635fa98fdc3ca775fbcc255ea7/) | 1185 | 1187 | 1 |
@@ -806,7 +806,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Training Corp](https://ws.tsl.rocks/corp/4e9dede25c833a580f5457125ae0994132bda9e5949b39b84444c14851a2ab07/) | 1186 | 1186 | 1 |
 | [TRAPSTAR¹](https://ws.tsl.rocks/corp/41cff3569548da10a9cf4c36b91a525ec982349fa4a35a59b047ea22dcf0f48f/) | 1171 | 1171 | 3 |
 | [TROLL SQUAD](https://ws.tsl.rocks/corp/91daecf0251a6a1eee3d92820695d021c1f949e194cc5003d7cdebe59ef4502e/) | 1256 | 1261 | 16 |
-| [tropa \(BR\)](https://ws.tsl.rocks/corp/c5b272089230f78a35d3bee9ed1eb0cc2b3a65703f2452b603286e889efa74c9/) | 1151 | 1161 | 20 |
+| [tropa \(BR\)](https://ws.tsl.rocks/corp/c5b272089230f78a35d3bee9ed1eb0cc2b3a65703f2452b603286e889efa74c9/) | 1139 | 1149 | 21 |
 | [Troy](https://ws.tsl.rocks/corp/eab7cf569ca39b6889d9c7b558abe94f4f5861ad6cdfea0cf167f5769f45315c/) | 1186 | 1186 | 1 |
 | [Tuatha De Danan](https://ws.tsl.rocks/corp/7741dbd0c9e7ddbc162e374691cb3346e4bb6600840f7962ec4a4414d5d2f780/) | 1403 | 1478 | 62 |
 | [TUSFO星舰第二联邦](https://ws.tsl.rocks/corp/ce300265f7ff838a94e6b41da8dca8d346f0b2200c2ae84d309ef97d4af2777c/) | 1172 | 1180 | 2 |
@@ -976,7 +976,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Картофель 🇲🇬](https://ws.tsl.rocks/corp/5d4771f2f16010ac3d53e0bc6defa1e28a1fd05c83942048171d186c4af2da9d/) | 1209 | 1210 | 1 |
 | [Коллайдер](https://ws.tsl.rocks/corp/60b398d181ae0f2807c11d2c7cbff43c29592e2dc7106158ecda8d7222c6b5e0/) | 1188 | 1188 | 1 |
 | [Корпорация Миф](https://ws.tsl.rocks/corp/605aa7df348e96fcaa0cb9dc5c1f37a87fb8991ae0694b9ff21d1f4fee54aa88/) | 1303 | 1305 | 8 |
-| [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/) | 1008 | 1170 | 64 |
+| [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/) | 1003 | 1170 | 65 |
 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 1328 | 1418 | 59 |
 | [Любители Пива](https://ws.tsl.rocks/corp/3926c7dd9f82737737ee85bc4f013285cb75f1ef90f5bf4822bf624616570764/) | 1035 | 1073 | 21 |
 | [Лютые](https://ws.tsl.rocks/corp/c9ffc70c2dcbfe9eaa3387645d404d9227b173de066bf09e0493d83aa4c9f053/) | 1227 | 1294 | 21 |

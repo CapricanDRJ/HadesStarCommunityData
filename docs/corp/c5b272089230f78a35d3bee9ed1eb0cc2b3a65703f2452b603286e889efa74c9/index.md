@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​tropa (BR)
-description: W:7 L:11 D:2 Bonus ❌
-date: 1725494774
+description: W:7 L:12 D:2 Bonus ❌
+date: 1726296192
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1151 🔻  (1030)|
-| ELO Competitive | 1161 🔻  (1068)|
-| Total Matches | 20 |
+| ELO Regular | 1139 🔻  (1072)|
+| ELO Competitive | 1149 🔻  (1115)|
+| Total Matches | 21 |
 | Wins | 7 |
-| Losses | 11 |
+| Losses | 12 |
 | Draws | 2 |
 | Streak Record | 3 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725062774,1723929849,1718263116,1717044968,1716434363,1715255161,1714621820,1707025841,1706557349,1706022129,1705556329,1705119985,1704424000,1703649565,1703135969,1702660023,1702196279,1701663112,1701191564,1700714101];
+        let timestamps = [1725864192,1725062774,1723929849,1718263116,1717044968,1716434363,1715255161,1714621820,1707025841,1706557349,1706022129,1705556329,1705119985,1704424000,1703649565,1703135969,1702660023,1702196279,1701663112,1701191564,1700714101];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/14 | 1-4 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 | ❌ | 2024/09/05 | 0-11 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 | ❌ | 2024/08/22 | 2-5 | [Fairy tail ](https://ws.tsl.rocks/corp/44e6a82c06b84bc5579df0e42bc462f36313b0060861d25228856930f6c19eac/) |
 | ❌ | 2024/06/18 | 3-27 | [Osmium Star llc](https://ws.tsl.rocks/corp/edd3ac94ea8ee1cf441e904ff29c48c21fa5db83af6eb5a6e83ae236b3872b22/) |
