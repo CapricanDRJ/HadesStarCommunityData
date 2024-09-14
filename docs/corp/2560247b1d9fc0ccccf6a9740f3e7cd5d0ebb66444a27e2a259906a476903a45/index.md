@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Revólver
-description: W:8 L:12 D:1 Bonus ❌
-date: 1725725859
+description: W:8 L:13 D:1 Bonus ❌
+date: 1726332257
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔺  (829)|
-| ELO Competitive | 1194 🔺  (612)|
-| Total Matches | 21 |
+| ELO Regular | 1168 🔻  (924)|
+| ELO Competitive | 1189 🔻  (671)|
+| Total Matches | 22 |
 | Wins | 8 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 1 |
 | Streak Record | 3 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725293859,1709359497,1708368793,1707763581,1707158782,1706624660,1705959929,1705168371,1704730223,1704123483,1703613204,1702910072,1702310189,1701706388,1701102301,1700514430,1700503306,1699891330,1699888924,1699287812,1698699397];
+        let timestamps = [1725900257,1725293859,1709359497,1708368793,1707763581,1707158782,1706624660,1705959929,1705168371,1704730223,1704123483,1703613204,1702910072,1702310189,1701706388,1701102301,1700514430,1700503306,1699891330,1699888924,1699287812,1698699397];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/14 | 3-22 | [OntarioDawn](https://ws.tsl.rocks/corp/1a002c71f3aba5da5918941fa2ba4dbbfc183ad52d97d44a25718e07e6b08a03/) |
 | ↔️ | 2024/09/07 | 10-10 | [Industrial W\.O](https://ws.tsl.rocks/corp/99a4ba88f6a620cb9ea1da456127c978a858ffbda4e40b255fcf3365515da25d/) |
 | ❌ | 2024/03/07 | 7-23 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | ❌ | 2024/02/24 | 23-28 | [BRASIL STAR](https://ws.tsl.rocks/corp/94fc4639f17e4503a11d4ac3878f3203bca3f21baebf285433ff39ad37f0fff2/) |

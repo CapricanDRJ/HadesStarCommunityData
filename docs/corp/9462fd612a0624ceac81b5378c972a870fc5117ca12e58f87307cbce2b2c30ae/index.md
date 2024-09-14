@@ -1,19 +1,21 @@
 ---
 layout: page
 title: ​SkitleStarOrder
-description: W:1 L:0 D:0 Bonus ❌
-date: 1725459912
+description: W:2 L:0 D:0 Bonus ✅
+date: 1726329853
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺  (344)|
-| ELO Competitive | 1217 🔺  (447)|
-| Total Matches | 1 |
-| Wins | 1 |
+| ELO Regular | 1230 🔺  (287)|
+| ELO Competitive | 1231 🔺  (392)|
+| Total Matches | 2 |
+| Wins | 2 |
 | Losses | 0 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 
 
 # Whitestar Match Day
@@ -30,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725027912];
+        let timestamps = [1725897853,1725027912];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/14 | 14-0 | [Brasil](https://ws.tsl.rocks/corp/c1d98a4e0a9c522aff7cb4156b0dc139eb54566269c2203b2eae6fe1827fc6c3/) |
 | ✅ | 2024/09/04 | 8-1 | [Nox Imperium](https://ws.tsl.rocks/corp/b60fb003fae650d1de18e7bca4fad04f9805501f4568d07ceb47bffdfeb613c1/) |
 
 Corporation ID: 9462fd612a0624ceac81b5378c972a870fc5117ca12e58f87307cbce2b2c30ae
