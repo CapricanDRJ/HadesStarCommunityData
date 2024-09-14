@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​C'est pas faux!
-description: W:0 L:5 D:0 Bonus ❌
-date: 1725293132
+description: W:1 L:5 D:0 Bonus ✅
+date: 1726298897
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1143 🔻  (1060)|
-| ELO Competitive | 1171 🔻  (1005)|
-| Total Matches | 5 |
-| Wins | 0 |
+| ELO Regular | 1162 🔺  (969)|
+| ELO Competitive | 1190 🔺  (650)|
+| Total Matches | 6 |
+| Wins | 1 |
 | Losses | 5 |
 | Draws | 0 |
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724861132,1724050362,1722868135,1722867834,1717419742];
+        let timestamps = [1725866897,1724861132,1724050362,1722868135,1722867834,1717419742];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/14 | 22-6 | [Млечный путь](https://ws.tsl.rocks/corp/a9a3b102b3698bf7db8cd106adda02cee0033bfc03f681b667b2991e10049a25/) |
 | ❌ | 2024/09/02 | 0-23 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ❌ | 2024/08/24 | 6-10 | [Utd\. Human Fed\.](https://ws.tsl.rocks/corp/265fd73116c2ec237c7a966adb401d54219dee49882ee9024025c697165397d6/) |
 | ❌ | 2024/08/10 | 0-26 | [\*Alfa y Omega\*](https://ws.tsl.rocks/corp/b1da3a2265efd2266a8e4b5698a731ae179d00e431ee748d7bee62a1357a12ed/) |
