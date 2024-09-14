@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​Elysium
-description: W:32 L:11 D:0 Bonus ✅
-date: 1725684389
+description: W:33 L:11 D:0 Bonus ✅
+date: 1726279969
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1381 🔺  (54)|
-| ELO Competitive | 1436 🔺  (73)|
-| Total Matches | 43 |
-| Wins | 32 |
+| ELO Regular | 1388 🔺  (52)|
+| ELO Competitive | 1443 🔺  (65)|
+| Total Matches | 44 |
+| Wins | 33 |
 | Losses | 11 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 10 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725252389,1724639661,1724041047,1723428585,1722823960,1722218439,1721631209,1721044298,1720407446,1719195473,1717985441,1717380674,1716782313,1716175384,1715572082,1714969069,1714367137,1713751509,1713153596,1712549640,1711936061,1711347123,1710727859,1710142836,1710127216,1709134139,1708701734,1708257001,1707814367,1707375793,1706943502,1706504455,1705898318,1705287678,1704682745,1704085918,1703372790,1702889033,1702270217,1701580160,1700487074,1699854961,1698852386];
+        let timestamps = [1725847969,1725252389,1724639661,1724041047,1723428585,1722823960,1722218439,1721631209,1721044298,1720407446,1719195473,1717985441,1717380674,1716782313,1716175384,1715572082,1714969069,1714367137,1713751509,1713153596,1712549640,1711936061,1711347123,1710727859,1710142836,1710127216,1709134139,1708701734,1708257001,1707814367,1707375793,1706943502,1706504455,1705898318,1705287678,1704682745,1704085918,1703372790,1702889033,1702270217,1701580160,1700487074,1699854961,1698852386];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/14 | 36-0 | [U\.S\.A](https://ws.tsl.rocks/corp/6d7a18e9893736881762a4e1b687b55e7311d367267ff5a9cc8e45722b14ea06/) |
 | ✅ | 2024/09/07 | 6-5 | [Warriorlords](https://ws.tsl.rocks/corp/a78c29b9e1c9f793205ba10d796dcabc114ef43d86f0bd34a43a56dc6da768aa/) |
 | ❌ | 2024/08/31 | 3-17 | [\[Blue\*Nation\]](https://ws.tsl.rocks/corp/38cd283c7bb8ee0390f5624e49a3465b1d4a8c789cc2d501f38918a16f6140e2/) |
 | ✅ | 2024/08/24 | 32-0 | [绛紫星](https://ws.tsl.rocks/corp/8c2109279ceb01bcca0aa5e85c151d5877831ac54199285743750e2ed343b407/) |

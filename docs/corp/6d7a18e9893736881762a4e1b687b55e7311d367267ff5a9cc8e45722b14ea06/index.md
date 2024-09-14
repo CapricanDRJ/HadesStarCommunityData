@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​U.S.A
-description: W:11 L:17 D:0 Bonus ✅
-date: 1726271155
+description: W:11 L:18 D:0 Bonus ✅
+date: 1726279969
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1156 🔻  (1002)|
+| ELO Regular | 1150 🔻  (1034)|
 | ELO Competitive | 1238 🔻  (374)|
-| Total Matches | 28 |
+| Total Matches | 29 |
 | Wins | 11 |
-| Losses | 17 |
+| Losses | 18 |
 | Draws | 0 |
 | Streak Record | 3 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725839155,1725398730,1725390014,1724704276,1724704276,1723430087,1723422877,1720666501,1718646432,1718032023,1714970271,1711389189,1711381075,1710446605,1710346250,1709022057,1709000724,1707757869,1707756366,1706057593,1706042568,1704924060,1704916246,1704109957,1702675052,1701920980,1701894234,1701274513];
+        let timestamps = [1725847969,1725839155,1725398730,1725390014,1724704276,1724704276,1723430087,1723422877,1720666501,1718646432,1718032023,1714970271,1711389189,1711381075,1710446605,1710346250,1709022057,1709000724,1707757869,1707756366,1706057593,1706042568,1704924060,1704916246,1704109957,1702675052,1701920980,1701894234,1701274513];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/14 | 0-36 | [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1/) |
 | ❌ | 2024/09/13 | 1-29 | [Z\. O\. V\. ](https://ws.tsl.rocks/corp/4f56534357f2407b25faee160f9dca4ee83b8f9ca4425ba472a47298faf54096/) |
 | ✅ | 2024/09/08 | 19-0 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |
 | ✅ | 2024/09/08 | 5-3 | [佛矿寺](https://ws.tsl.rocks/corp/64f8afd95b7004e9d5a442da55644ee3ce64a9a8e82345c458d757b527e40624/) |
