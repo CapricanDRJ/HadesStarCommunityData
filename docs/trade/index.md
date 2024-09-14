@@ -167,17 +167,17 @@ permalink: /trade/
         </tr>
         
                 <tr>
-                    <td>5</td>
-                    <td><img src="trade.png" alt="trade"></td>
+                    <td>0</td>
+                    <td><img src="weapon.png" alt="weapon"></td>
                     <td>RS11</td>
                     <td>224%</td>
                 </tr>
             
                 <tr>
-                    <td>0</td>
+                    <td>3</td>
                     <td><img src="weapon.png" alt="weapon"></td>
                     <td>RS11</td>
-                    <td>224%</td>
+                    <td>220%</td>
                 </tr>
             
                 <tr>
@@ -188,10 +188,24 @@ permalink: /trade/
                 </tr>
             
                 <tr>
+                    <td>3</td>
+                    <td><img src="shield.png" alt="shield"></td>
+                    <td>RS11</td>
+                    <td>220%</td>
+                </tr>
+            
+                <tr>
                     <td>0</td>
                     <td><img src="drone.png" alt="drone"></td>
                     <td>RS11</td>
                     <td>224%</td>
+                </tr>
+            
+                <tr>
+                    <td>6</td>
+                    <td><img src="drone.png" alt="drone"></td>
+                    <td>RS11</td>
+                    <td>220%</td>
                 </tr>
             
         <tr>
@@ -203,13 +217,6 @@ permalink: /trade/
                     <td><img src="combat.png" alt="combat"></td>
                     <td>RS11</td>
                     <td>224%</td>
-                </tr>
-            
-                <tr>
-                    <td>0</td>
-                    <td><img src="drone.png" alt="drone"></td>
-                    <td>RS11</td>
-                    <td>100%</td>
                 </tr>
             
         <tr>
