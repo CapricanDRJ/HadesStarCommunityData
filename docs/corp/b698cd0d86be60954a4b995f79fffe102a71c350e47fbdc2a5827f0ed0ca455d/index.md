@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Stargate Corp
-description: W:44 L:19 D:0 Bonus ✅
-date: 1725824718
+description: W:44 L:20 D:0 Bonus ✅
+date: 1726337968
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1391 🔺  (49)|
-| ELO Competitive | 1535 🔺  (22)|
-| Total Matches | 63 |
+| ELO Regular | 1376 🔻  (59)|
+| ELO Competitive | 1517 🔻  (28)|
+| Total Matches | 64 |
 | Wins | 44 |
-| Losses | 19 |
+| Losses | 20 |
 | Draws | 0 |
-| Streak | 3 |
 | Streak Record | 12 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725392718,1725382199,1724696160,1724676623,1724125188,1724098447,1723504319,1723481778,1723017487,1722999759,1722421874,1721752019,1721730378,1721236044,1721163326,1720608494,1720464847,1719917276,1719869504,1719342118,1719325888,1718893144,1718847171,1718203014,1718202713,1717617509,1717591352,1716994484,1716981559,1716472514,1716029060,1715735826,1715185996,1715128613,1714479215,1714396580,1713916453,1713254856,1712720912,1712077285,1711492552,1710926155,1710370293,1709828536,1709263644,1708625711,1708048159,1707235341,1706615944,1706035955,1705497728,1704892198,1704310105,1703742126,1703181651,1702563850,1702009035,1701479483,1700973964,1700452816,1699948131,1699398400,1698880939];
+        let timestamps = [1725905968,1725392718,1725382199,1724696160,1724676623,1724125188,1724098447,1723504319,1723481778,1723017487,1722999759,1722421874,1721752019,1721730378,1721236044,1721163326,1720608494,1720464847,1719917276,1719869504,1719342118,1719325888,1718893144,1718847171,1718203014,1718202713,1717617509,1717591352,1716994484,1716981559,1716472514,1716029060,1715735826,1715185996,1715128613,1714479215,1714396580,1713916453,1713254856,1712720912,1712077285,1711492552,1710926155,1710370293,1709828536,1709263644,1708625711,1708048159,1707235341,1706615944,1706035955,1705497728,1704892198,1704310105,1703742126,1703181651,1702563850,1702009035,1701479483,1700973964,1700452816,1699948131,1699398400,1698880939];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,11 +117,11 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [StarControl](https://ws.tsl.rocks/corp/ec38e4998a2ba7ec763a41d4bd33a2d027e94d6a4b9eace9b11e7d89674cc90c/) | 0 | 4 | 0 | 4 |
 | [Trade Station](https://ws.tsl.rocks/corp/7003e286fe1a04aaa63e3aa318c164856c07e251a94b0496757140f5eda72cd7/) | 2 | 0 | 0 | 2 |
 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) | 4 | 3 | 0 | 7 |
 | [Legion](https://ws.tsl.rocks/corp/313baaeac1c759ca26e0f4bd3140711cffdfa85c287d4c992dcfb809908cf491/) | 3 | 0 | 0 | 3 |
 | [ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ](https://ws.tsl.rocks/corp/85a74d128f924274446b7fb754136e6ef7185c754df2fae3b10591d28536f17a/) | 2 | 0 | 0 | 2 |
-| [StarControl](https://ws.tsl.rocks/corp/ec38e4998a2ba7ec763a41d4bd33a2d027e94d6a4b9eace9b11e7d89674cc90c/) | 0 | 3 | 0 | 3 |
 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 2 | 3 | 0 | 5 |
 | [Auscorp ](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) | 0 | 4 | 0 | 4 |
 | [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) | 1 | 1 | 0 | 2 |
@@ -137,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/14 | 17-63 | [StarControl](https://ws.tsl.rocks/corp/ec38e4998a2ba7ec763a41d4bd33a2d027e94d6a4b9eace9b11e7d89674cc90c/) |
 | ✅ | 2024/09/08 | 70-7 | [SternenStaub](https://ws.tsl.rocks/corp/11f1e8a4d522eaef8cb40c95d07b4533097aa6509ddafd1d7efc1449e8b10f38/) |
 | ✅ | 2024/09/08 | 32-3 | [Trade Station](https://ws.tsl.rocks/corp/7003e286fe1a04aaa63e3aa318c164856c07e251a94b0496757140f5eda72cd7/) |
 | ✅ | 2024/08/31 | 51-36 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) |
