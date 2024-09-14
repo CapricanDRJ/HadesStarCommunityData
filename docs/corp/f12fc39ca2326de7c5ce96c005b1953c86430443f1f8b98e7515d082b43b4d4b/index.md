@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Providence
-description: W:29 L:15 D:0 Bonus ❌
-date: 1725427756
+description: W:30 L:15 D:0 Bonus ✅
+date: 1726311517
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1313 🔻  (117)|
-| ELO Competitive | 1376 🔻  (124)|
-| Total Matches | 44 |
-| Wins | 29 |
+| ELO Regular | 1323 🔺  (100)|
+| ELO Competitive | 1387 🔺  (115)|
+| Total Matches | 45 |
+| Wins | 30 |
 | Losses | 15 |
 | Draws | 0 |
 | Streak Record | 11 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724995756,1724423888,1723528657,1722855812,1722265015,1721633913,1720529756,1719831933,1718539446,1718022102,1717559799,1717011317,1716194009,1715610237,1715001817,1714985592,1714389669,1713797474,1713177630,1712575780,1711969711,1711375966,1710760001,1710160863,1709554210,1708957451,1708434296,1707909024,1707250738,1706615944,1705987572,1705448450,1704965222,1704356980,1703892088,1702631770,1702011139,1701445819,1700918057,1700225293,1699587108,1699582597,1698872304,1698856594];
+        let timestamps = [1725879517,1724995756,1724423888,1723528657,1722855812,1722265015,1721633913,1720529756,1719831933,1718539446,1718022102,1717559799,1717011317,1716194009,1715610237,1715001817,1714985592,1714389669,1713797474,1713177630,1712575780,1711969711,1711375966,1710760001,1710160863,1709554210,1708957451,1708434296,1707909024,1707250738,1706615944,1705987572,1705448450,1704965222,1704356980,1703892088,1702631770,1702011139,1701445819,1700918057,1700225293,1699587108,1699582597,1698872304,1698856594];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -129,6 +129,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/14 | 54-41 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) |
 | ❌ | 2024/09/04 | 14-19 | [МАРСЮКИ](https://ws.tsl.rocks/corp/c3fa1ee33163a1a29bc7c9c69a933fc3b4d29c0e0e7a720c80fb2f5381b275c8/) |
 | ❌ | 2024/08/28 | 20-26 | [Gummibärenbande](https://ws.tsl.rocks/corp/7111d11716d236254b3fe2fdc0df09519cbed1ee9cc2c7691983534a3d8e1366/) |
 | ❌ | 2024/08/18 | 26-45 | [Hand Of NOD\! ](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) |

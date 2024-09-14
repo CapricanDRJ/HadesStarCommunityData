@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​BoomTech
-description: W:23 L:8 D:2 Bonus ❌
-date: 1725721350
+description: W:23 L:9 D:2 Bonus ❌
+date: 1726314222
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1329 🔻  (92)|
-| ELO Competitive | 1401 🔻  (102)|
-| Total Matches | 33 |
+| ELO Regular | 1307 🔻  (121)|
+| ELO Competitive | 1380 🔻  (119)|
+| Total Matches | 34 |
 | Wins | 23 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 2 |
 | Streak Record | 5 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725289350,1724684439,1724087026,1723473663,1723142198,1722895187,1722282748,1721937734,1721691617,1721166632,1721165128,1720542681,1720055828,1719350535,1718736288,1718106545,1717534261,1716898613,1716308181,1715689554,1715103975,1714476811,1713906540,1713322164,1712671934,1712083296,1711464303,1710855548,1710292471,1709693930,1709061728,1708433394,1707414558];
+        let timestamps = [1725882222,1725289350,1724684439,1724087026,1723473663,1723142198,1722895187,1722282748,1721937734,1721691617,1721166632,1721165128,1720542681,1720055828,1719350535,1718736288,1718106545,1717534261,1716898613,1716308181,1715689554,1715103975,1714476811,1713906540,1713322164,1712671934,1712083296,1711464303,1710855548,1710292471,1709693930,1709061728,1708433394,1707414558];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/14 | 5-11 | [萌新港\(大佬港\)](https://ws.tsl.rocks/corp/e6d9b9da7a037e3572cb594dfeba7b282b66509228c9f4f1b2138f873caa3cf3/) |
 | ❌ | 2024/09/07 | 2-25 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ✅ | 2024/08/31 | 5-0 | [P\!RAT£ SHIP](https://ws.tsl.rocks/corp/edee949826201f74f57f45c101789757954710e3d075602dfdda7765a69a7e7c/) |
 | ✅ | 2024/08/24 | 21-0 | [Kötbrüder](https://ws.tsl.rocks/corp/3bc45b26e12a26f4a564473f04ec6d044b2fe0dd52486e45348dfd8a10340fe7/) |
