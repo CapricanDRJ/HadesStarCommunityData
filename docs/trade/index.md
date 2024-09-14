@@ -72,7 +72,7 @@ permalink: /trade/
                 </tr>
             
                 <tr>
-                    <td>3</td>
+                    <td>0</td>
                     <td><img src="weapon.png" alt="weapon"></td>
                     <td>RS11</td>
                     <td>220%</td>
@@ -100,7 +100,7 @@ permalink: /trade/
                 </tr>
             
                 <tr>
-                    <td>6</td>
+                    <td>0</td>
                     <td><img src="drone.png" alt="drone"></td>
                     <td>RS11</td>
                     <td>220%</td>
