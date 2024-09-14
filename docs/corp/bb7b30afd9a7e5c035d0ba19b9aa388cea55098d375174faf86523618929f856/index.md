@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Kingdom Of Meow
-description: W:0 L:1 D:0 Bonus ❌
-date: 1724634419
+description: W:0 L:2 D:0 Bonus ❌
+date: 1726289583
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (605)|
-| ELO Competitive | 1192 🔻  (628)|
-| Total Matches | 1 |
+| ELO Regular | 1176 🔻  (811)|
+| ELO Competitive | 1187 🔻  (718)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724202419];
+        let timestamps = [1725857583,1724202419];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/14 | 2-3 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
 | ❌ | 2024/08/26 | 2-14 | [Sich\.ua](https://ws.tsl.rocks/corp/9fcd6d7c4fe7f8e39acf48585dfe9c6d3d14edc7781fe8caf85618b3e98c685d/) |
 
 Corporation ID: bb7b30afd9a7e5c035d0ba19b9aa388cea55098d375174faf86523618929f856
