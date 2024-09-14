@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​[Blue＊Nation]
-description: W:37 L:6 D:0 Bonus ✅
+description: W:37 L:6 D:0 Bonus ❌
 date: 1725697609
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
