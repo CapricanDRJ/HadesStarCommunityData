@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Ƭιтαηѕ Ф тєʀʀσƦ
-description: W:25 L:14 D:1 Bonus ✅
+description: W:25 L:14 D:1 Bonus ❌
 date: 1725729467
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
