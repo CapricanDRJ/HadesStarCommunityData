@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​KINETIC
-description: W:9 L:0 D:0 Bonus ✅
+description: W:9 L:0 D:0 Bonus ❌
 date: 1725729467
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
