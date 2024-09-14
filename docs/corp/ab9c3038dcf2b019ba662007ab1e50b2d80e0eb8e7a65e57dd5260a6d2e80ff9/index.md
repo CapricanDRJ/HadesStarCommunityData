@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Halcon español
-description: W:23 L:13 D:0 Bonus ✅
+description: W:23 L:13 D:0 Bonus ❌
 date: 1726322338
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

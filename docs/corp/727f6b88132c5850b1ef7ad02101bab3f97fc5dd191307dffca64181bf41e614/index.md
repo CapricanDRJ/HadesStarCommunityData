@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​STRVS233～
-description: W:17 L:9 D:0 Bonus ✅
+description: W:17 L:9 D:0 Bonus ❌
 date: 1725716540
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

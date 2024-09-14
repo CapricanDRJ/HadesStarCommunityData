@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Equinox
-description: W:10 L:12 D:1 Bonus ❌
-date: 1720895344
+description: W:10 L:13 D:1 Bonus ❌
+date: 1726334963
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1199 🔺  (469)|
-| ELO Competitive | 1215 🔺  (468)|
-| Total Matches | 23 |
+| ELO Regular | 1192 🔻  (523)|
+| ELO Competitive | 1208 🔻  (526)|
+| Total Matches | 24 |
 | Wins | 10 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 1 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1720463344,1719158808,1713714855,1713103714,1712076383,1711396402,1710778633,1709662983,1709218270,1708626312,1707928558,1706642695,1706033250,1704910835,1704306498,1703526353,1702926905,1702409373,1701769198,1701159403,1700600383,1699981793,1699208490];
+        let timestamps = [1725902963,1720463344,1719158808,1713714855,1713103714,1712076383,1711396402,1710778633,1709662983,1709218270,1708626312,1707928558,1706642695,1706033250,1704910835,1704306498,1703526353,1702926905,1702409373,1701769198,1701159403,1700600383,1699981793,1699208490];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/14 | 0-32 | [Bl@ck/Galaxy ](https://ws.tsl.rocks/corp/76f8fe0dcd8b8c1cb8e0083f14c0b36c23bb9757a3af0f191b567774c02222a3/) |
 | ✅ | 2024/07/13 | 18-1 | [Space Pirate](https://ws.tsl.rocks/corp/c53a5b62ce014a3f8a43f939efe551e00570a16721213c1318ff4c9ea503cfec/) |
 | ❌ | 2024/06/28 | 5-24 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ❌ | 2024/04/26 | 4-27 | [Starsailors](https://ws.tsl.rocks/corp/1ffdd1012b5d4a4aca2e0e34e2653630706b779eead835c61c2c715e4df17a1f/) |
