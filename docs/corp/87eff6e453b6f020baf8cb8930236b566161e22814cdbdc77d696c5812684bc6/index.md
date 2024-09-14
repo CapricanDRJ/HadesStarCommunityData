@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Space Pirates
-description: W:6 L:35 D:0 Bonus ❌
-date: 1725697309
+description: W:6 L:36 D:0 Bonus ❌
+date: 1726308812
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 968 🔻  (1239)|
-| ELO Competitive | 1003 🔻  (1245)|
-| Total Matches | 41 |
+| ELO Regular | 965 🔻  (1239)|
+| ELO Competitive | 1001 🔻  (1245)|
+| Total Matches | 42 |
 | Wins | 6 |
-| Losses | 35 |
+| Losses | 36 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725265309,1724656488,1723480576,1722929139,1722257200,1721656753,1721030173,1720535898,1719850268,1719358948,1718695712,1718056971,1717449207,1716903423,1716285345,1715592509,1715079934,1714400488,1713792365,1713247945,1712698682,1712053243,1711437261,1710831513,1710305688,1709692128,1708999790,1708369695,1707731123,1706642695,1705979459,1705390146,1704795434,1702884525,1702364588,1701855458,1701207798,1700608198,1700017259,1699380067,1698809346];
+        let timestamps = [1725876812,1725265309,1724656488,1723480576,1722929139,1722257200,1721656753,1721030173,1720535898,1719850268,1719358948,1718695712,1718056971,1717449207,1716903423,1716285345,1715592509,1715079934,1714400488,1713792365,1713247945,1712698682,1712053243,1711437261,1710831513,1710305688,1709692128,1708999790,1708369695,1707731123,1706642695,1705979459,1705390146,1704795434,1702884525,1702364588,1701855458,1701207798,1700608198,1700017259,1699380067,1698809346];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Stone Legion](https://ws.tsl.rocks/corp/60cd15c27192f777f2e4abc413a83d4ab33bbccd7764a387afd2347dcd3d751a/) | 0 | 2 | 0 | 2 |
 | [Utd\. Human Fed\.](https://ws.tsl.rocks/corp/265fd73116c2ec237c7a966adb401d54219dee49882ee9024025c697165397d6/) | 0 | 2 | 0 | 2 |
 | [Free Thinkers 2](https://ws.tsl.rocks/corp/9fc879b45c4053ac93d6eebdb14d856a828df8fd85800df616cdd3332683a695/) | 1 | 1 | 0 | 2 |
 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) | 0 | 2 | 0 | 2 |
@@ -125,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/14 | 4-29 | [Stone Legion](https://ws.tsl.rocks/corp/60cd15c27192f777f2e4abc413a83d4ab33bbccd7764a387afd2347dcd3d751a/) |
 | ❌ | 2024/09/07 | 1-15 | [Duchy Arrakis](https://ws.tsl.rocks/corp/6c8c526b366a9e9eb3eba3d3107b628042c005db03530961b24a722cc58a339e/) |
 | ❌ | 2024/08/31 | 3-21 | [Utd\. Human Fed\.](https://ws.tsl.rocks/corp/265fd73116c2ec237c7a966adb401d54219dee49882ee9024025c697165397d6/) |
 | ✅ | 2024/08/17 | 7-1 | [Created](https://ws.tsl.rocks/corp/04182a4606d981d1c410b0c058248e428765c672442d912ec47218ace9004e74/) |
