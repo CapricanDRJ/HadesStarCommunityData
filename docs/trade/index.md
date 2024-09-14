@@ -51,6 +51,78 @@ permalink: /trade/
 
     <table>
         <tr>
+            <th colspan="4" class="username-header">Caprican 😈</th>
+        </tr>
+        <tr>
+            <th>Amount</th>
+            <th>Artifact</th>
+            <th>RS Level</th>
+            <th>%</th>
+        </tr>
+    
+        <tr>
+            <td colspan="4">🏷️ Selling</td>
+        </tr>
+        
+                <tr>
+                    <td>0</td>
+                    <td><img src="weapon.png" alt="weapon"></td>
+                    <td>RS11</td>
+                    <td>224%</td>
+                </tr>
+            
+                <tr>
+                    <td>3</td>
+                    <td><img src="weapon.png" alt="weapon"></td>
+                    <td>RS11</td>
+                    <td>220%</td>
+                </tr>
+            
+                <tr>
+                    <td>0</td>
+                    <td><img src="shield.png" alt="shield"></td>
+                    <td>RS11</td>
+                    <td>224%</td>
+                </tr>
+            
+                <tr>
+                    <td>0</td>
+                    <td><img src="shield.png" alt="shield"></td>
+                    <td>RS11</td>
+                    <td>220%</td>
+                </tr>
+            
+                <tr>
+                    <td>0</td>
+                    <td><img src="drone.png" alt="drone"></td>
+                    <td>RS11</td>
+                    <td>224%</td>
+                </tr>
+            
+                <tr>
+                    <td>6</td>
+                    <td><img src="drone.png" alt="drone"></td>
+                    <td>RS11</td>
+                    <td>220%</td>
+                </tr>
+            
+        <tr>
+            <td colspan="4">💰 Buying</td>
+        </tr>
+        
+                <tr>
+                    <td>0</td>
+                    <td><img src="combat.png" alt="combat"></td>
+                    <td>RS11</td>
+                    <td>224%</td>
+                </tr>
+            
+        <tr>
+            <td colspan="4">Guild: <a href="https://discord.com/channels/355101373483712513">The Star League</a></td>
+        </tr>
+    </table>
+    <table>
+        <tr>
             <th colspan="4" class="username-header">ausgeflippt</th>
         </tr>
         <tr>
@@ -149,78 +221,6 @@ permalink: /trade/
             
         <tr>
             <td colspan="4">Guild: <a href="https://discord.com/channels/503756389705973760">[c̲̲̅σ̲̲̅и̲̲̅т̲̲̅i̲̲̅и̲̲̅υ̲̅υм]</a></td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th colspan="4" class="username-header">caprican</th>
-        </tr>
-        <tr>
-            <th>Amount</th>
-            <th>Artifact</th>
-            <th>RS Level</th>
-            <th>%</th>
-        </tr>
-    
-        <tr>
-            <td colspan="4">🏷️ Selling</td>
-        </tr>
-        
-                <tr>
-                    <td>0</td>
-                    <td><img src="weapon.png" alt="weapon"></td>
-                    <td>RS11</td>
-                    <td>224%</td>
-                </tr>
-            
-                <tr>
-                    <td>3</td>
-                    <td><img src="weapon.png" alt="weapon"></td>
-                    <td>RS11</td>
-                    <td>220%</td>
-                </tr>
-            
-                <tr>
-                    <td>0</td>
-                    <td><img src="shield.png" alt="shield"></td>
-                    <td>RS11</td>
-                    <td>224%</td>
-                </tr>
-            
-                <tr>
-                    <td>0</td>
-                    <td><img src="shield.png" alt="shield"></td>
-                    <td>RS11</td>
-                    <td>220%</td>
-                </tr>
-            
-                <tr>
-                    <td>0</td>
-                    <td><img src="drone.png" alt="drone"></td>
-                    <td>RS11</td>
-                    <td>224%</td>
-                </tr>
-            
-                <tr>
-                    <td>6</td>
-                    <td><img src="drone.png" alt="drone"></td>
-                    <td>RS11</td>
-                    <td>220%</td>
-                </tr>
-            
-        <tr>
-            <td colspan="4">💰 Buying</td>
-        </tr>
-        
-                <tr>
-                    <td>0</td>
-                    <td><img src="combat.png" alt="combat"></td>
-                    <td>RS11</td>
-                    <td>224%</td>
-                </tr>
-            
-        <tr>
-            <td colspan="4">Guild: <a href="https://discord.com/channels/355101373483712513">The Star League</a></td>
         </tr>
     </table>
     <table>
