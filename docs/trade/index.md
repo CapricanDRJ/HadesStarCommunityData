@@ -65,14 +65,35 @@ permalink: /trade/
         </tr>
         
                 <tr>
-                    <td>0</td>
-                    <td><img src="drone.png" alt="drone"></td>
+                    <td>4</td>
+                    <td><img src="trade.png" alt="trade"></td>
                     <td>RS11</td>
                     <td>220%</td>
                 </tr>
             
                 <tr>
-                    <td>5</td>
+                    <td>2</td>
+                    <td><img src="weapon.png" alt="weapon"></td>
+                    <td>RS11</td>
+                    <td>220%</td>
+                </tr>
+            
+                <tr>
+                    <td>1</td>
+                    <td><img src="shield.png" alt="shield"></td>
+                    <td>RS11</td>
+                    <td>220%</td>
+                </tr>
+            
+                <tr>
+                    <td>4</td>
+                    <td><img src="combat.png" alt="combat"></td>
+                    <td>RS11</td>
+                    <td>220%</td>
+                </tr>
+            
+                <tr>
+                    <td>4</td>
                     <td><img src="drone.png" alt="drone"></td>
                     <td>RS11</td>
                     <td>220%</td>
@@ -83,14 +104,14 @@ permalink: /trade/
         </tr>
         
                 <tr>
-                    <td>1</td>
+                    <td>10</td>
                     <td><img src="mining.png" alt="mining"></td>
-                    <td>RS11</td>
+                    <td>RS9</td>
                     <td>220%</td>
                 </tr>
             
         <tr>
-            <td colspan="4">Guild: <a href="https://discord.com/channels/503756389705973760">[c̲̲̅σ̲̲̅и̲̲̅т̲̲̅i̲̲̅и̲̲̅υ̲̅υм]</a></td>
+            <td colspan="4">Guild: <a href="https://discord.com/channels/355101373483712513">The Star League</a></td>
         </tr>
     </table>
     <table>
