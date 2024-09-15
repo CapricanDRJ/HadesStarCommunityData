@@ -95,6 +95,32 @@ permalink: /trade/
     </table>
     <table>
         <tr>
+            <th colspan="4" class="username-header">Coolboyks</th>
+        </tr>
+        <tr>
+            <th>Amount</th>
+            <th>Artifact</th>
+            <th>RS Level</th>
+            <th>%</th>
+        </tr>
+    
+        <tr>
+            <td colspan="4">🏷️ Selling</td>
+        </tr>
+        
+                <tr>
+                    <td>0</td>
+                    <td><img src="mining.png" alt="mining"></td>
+                    <td>RS9</td>
+                    <td>240%</td>
+                </tr>
+            
+        <tr>
+            <td colspan="4">Guild: <a href="https://discord.com/channels/503756389705973760">[c̲̲̅σ̲̲̅и̲̲̅т̲̲̅i̲̲̅и̲̲̅υ̲̅υм]</a></td>
+        </tr>
+    </table>
+    <table>
+        <tr>
             <th colspan="4" class="username-header">Pagy</th>
         </tr>
         <tr>
@@ -252,32 +278,6 @@ permalink: /trade/
             
         <tr>
             <td colspan="4">Guild: <a href="https://discord.com/channels/355101373483712513">The Star League</a></td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <th colspan="4" class="username-header">coolboyks</th>
-        </tr>
-        <tr>
-            <th>Amount</th>
-            <th>Artifact</th>
-            <th>RS Level</th>
-            <th>%</th>
-        </tr>
-    
-        <tr>
-            <td colspan="4">🏷️ Selling</td>
-        </tr>
-        
-                <tr>
-                    <td>0</td>
-                    <td><img src="mining.png" alt="mining"></td>
-                    <td>RS9</td>
-                    <td>240%</td>
-                </tr>
-            
-        <tr>
-            <td colspan="4">Guild: <a href="https://discord.com/channels/503756389705973760">[c̲̲̅σ̲̲̅и̲̲̅т̲̲̅i̲̲̅и̲̲̅υ̲̅υм]</a></td>
         </tr>
     </table>
     <table>
