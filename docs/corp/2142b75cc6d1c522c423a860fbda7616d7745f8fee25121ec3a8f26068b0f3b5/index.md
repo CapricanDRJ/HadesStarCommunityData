@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​星舰国际
-description: W:6 L:4 D:3 Bonus ❌
-date: 1725941583
+description: W:6 L:5 D:3 Bonus ❌
+date: 1726388144
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1209 🔻  (414)|
-| ELO Competitive | 1239 🔻  (371)|
-| Total Matches | 13 |
+| ELO Regular | 1195 🔻  (509)|
+| ELO Competitive | 1224 🔻  (418)|
+| Total Matches | 14 |
 | Wins | 6 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 3 |
 | Streak Record | 4 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725509583,1725010179,1724562424,1723841487,1723004867,1722362681,1721913688,1721302451,1721257418,1720787623,1720192874,1719658075,1719071743];
+        let timestamps = [1725956144,1725509583,1725010179,1724562424,1723841487,1723004867,1722362681,1721913688,1721302451,1721257418,1720787623,1720192874,1719658075,1719071743];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/15 | 2-5 | [jatnniel 团队](https://ws.tsl.rocks/corp/fb2a90ff4c918e808029246b88573a0b283bd3b67f1831aaab89f03720e9ebb2/) |
 | ❌ | 2024/09/10 | 1-2 | [  边界  ](https://ws.tsl.rocks/corp/86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a/) |
 | ✅ | 2024/09/04 | 3-1 | [游徒之家](https://ws.tsl.rocks/corp/7ab5f6970c8703095b0589da6e5d648dc64a94ca6d901ef09d4949409b2c44b9/) |
 | ↔️ | 2024/08/30 | 2-2 | [华夏三体舰队](https://ws.tsl.rocks/corp/a457b1d7612cdff92b655d33cf4ffd72b38aa796525cf0432423cfd0d01c6cf9/) |
