@@ -90,7 +90,7 @@ permalink: /trade/
                 </tr>
             
         <tr>
-            <td colspan="4">Guild: <a href="https://discord.com/channels/355101373483712513">The Star League</a></td>
+            <td colspan="4">Guild: <a href="https://discord.com/channels/503756389705973760">[c̲̲̅σ̲̲̅и̲̲̅т̲̲̅i̲̲̅и̲̲̅υ̲̅υм]</a></td>
         </tr>
     </table>
     <table>
