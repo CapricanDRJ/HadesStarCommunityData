@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​ГОРИЗОНТ
-description: W:16 L:55 D:0 Bonus ✅
+description: W:16 L:55 D:0 Bonus ❌
 date: 1726364710
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
