@@ -51,6 +51,50 @@ permalink: /trade/
 
     <table>
         <tr>
+            <th colspan="4" class="username-header">Caprican 😈</th>
+        </tr>
+        <tr>
+            <th>Amount</th>
+            <th>Artifact</th>
+            <th>RS Level</th>
+            <th>%</th>
+        </tr>
+    
+        <tr>
+            <td colspan="4">🏷️ Selling</td>
+        </tr>
+        
+                <tr>
+                    <td>0</td>
+                    <td><img src="drone.png" alt="drone"></td>
+                    <td>RS11</td>
+                    <td>220%</td>
+                </tr>
+            
+                <tr>
+                    <td>5</td>
+                    <td><img src="drone.png" alt="drone"></td>
+                    <td>RS11</td>
+                    <td>220%</td>
+                </tr>
+            
+        <tr>
+            <td colspan="4">💰 Buying</td>
+        </tr>
+        
+                <tr>
+                    <td>1</td>
+                    <td><img src="mining.png" alt="mining"></td>
+                    <td>RS11</td>
+                    <td>220%</td>
+                </tr>
+            
+        <tr>
+            <td colspan="4">Guild: <a href="https://discord.com/channels/355101373483712513">The Star League</a></td>
+        </tr>
+    </table>
+    <table>
+        <tr>
             <th colspan="4" class="username-header">ausgeflippt</th>
         </tr>
         <tr>
