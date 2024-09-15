@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​Helion Prime
-description: W:7 L:5 D:0 Bonus ❌
-date: 1722738484
+description: W:8 L:5 D:0 Bonus ✅
+date: 1726359904
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1245 🔺  (232)|
-| ELO Competitive | 1267 🔺  (300)|
-| Total Matches | 12 |
-| Wins | 7 |
+| ELO Regular | 1263 🔺  (193)|
+| ELO Competitive | 1287 🔺  (247)|
+| Total Matches | 13 |
+| Wins | 8 |
 | Losses | 5 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 5 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722306484,1721049108,1719861390,1719253771,1718643727,1718034729,1717439285,1717434475,1716822283,1716179889,1700492484,1698929613];
+        let timestamps = [1725927904,1722306484,1721049108,1719861390,1719253771,1718643727,1718034729,1717439285,1717434475,1716822283,1716179889,1700492484,1698929613];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/15 | 15-4 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |
 | ✅ | 2024/08/04 | 22-10 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) |
 | ❌ | 2024/07/20 | 7-22 | [Bl@ck/Galaxy ](https://ws.tsl.rocks/corp/76f8fe0dcd8b8c1cb8e0083f14c0b36c23bb9757a3af0f191b567774c02222a3/) |
 | ✅ | 2024/07/06 | 15-9 | [Vega Conflict](https://ws.tsl.rocks/corp/396ceafad44127f2e9dfb94934dc27154c6f97f6bc60832af6cb17791fd7369b/) |
