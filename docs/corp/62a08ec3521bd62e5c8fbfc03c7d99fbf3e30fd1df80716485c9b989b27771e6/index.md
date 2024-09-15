@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​The Watchers
-description: W:11 L:14 D:0 Bonus ❌
-date: 1715490905
+description: W:12 L:14 D:0 Bonus ✅
+date: 1726407676
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1164 🔻  (954)|
-| ELO Competitive | 1237 🔻  (376)|
-| Total Matches | 25 |
-| Wins | 11 |
+| ELO Regular | 1177 🔺  (802)|
+| ELO Competitive | 1251 🔺  (340)|
+| Total Matches | 26 |
+| Wins | 12 |
 | Losses | 14 |
 | Draws | 0 |
 | Streak Record | 3 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1715058905,1714204586,1713319761,1712675841,1712078187,1711560454,1711061667,1710885299,1710092962,1710088453,1709621516,1709306913,1708625711,1708453531,1708024119,1707365879,1706282670,1705588480,1703978039,1702590904,1701878001,1701279623,1700493086,1699556450,1698761919];
+        let timestamps = [1725975676,1715058905,1714204586,1713319761,1712675841,1712078187,1711560454,1711061667,1710885299,1710092962,1710088453,1709621516,1709306913,1708625711,1708453531,1708024119,1707365879,1706282670,1705588480,1703978039,1702590904,1701878001,1701279623,1700493086,1699556450,1698761919];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/15 | 40-7 | [EZCO](https://ws.tsl.rocks/corp/cfad990cabcdc1326c0aa3f93a57d1f0e6ec3cd2949e01e6b08443c3af8282f1/) |
 | ❌ | 2024/05/12 | 7-45 | [Hand Of NOD\! ](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) |
 | ✅ | 2024/05/02 | 46-3 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) |
 | ✅ | 2024/04/22 | 23-16 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) |

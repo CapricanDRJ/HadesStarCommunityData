@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​Nox Imperium
-description: W:5 L:2 D:0 Bonus ✅
-date: 1725969544
+description: W:6 L:2 D:0 Bonus ✅
+date: 1726404971
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1230 🔺  (289)|
-| ELO Competitive | 1244 🔺  (358)|
-| Total Matches | 7 |
-| Wins | 5 |
+| ELO Regular | 1243 🔺  (245)|
+| ELO Competitive | 1256 🔺  (321)|
+| Total Matches | 8 |
+| Wins | 6 |
 | Losses | 2 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 4 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725537544,1725027912,1724591276,1724153132,1723641646,1723203498,1722757542];
+        let timestamps = [1725972971,1725537544,1725027912,1724591276,1724153132,1723641646,1723203498,1722757542];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/15 | 15-0 | [Dark Halo](https://ws.tsl.rocks/corp/f6ed7c780faf133d3fe411b9ed88480608a56064328539891d1b4348242954f6/) |
 | ✅ | 2024/09/10 | 12-1 | [<•\|•\>](https://ws.tsl.rocks/corp/a3864fad7e4ba08611eda264a7934afe237a2f313a23b12dcce9db0a96a09daf/) |
 | ❌ | 2024/09/04 | 1-8 | [SkitleStarOrder](https://ws.tsl.rocks/corp/9462fd612a0624ceac81b5378c972a870fc5117ca12e58f87307cbce2b2c30ae/) |
 | ✅ | 2024/08/30 | 13-0 | [水晶星际集团](https://ws.tsl.rocks/corp/6390d7a4666ac4537ef5eacf76dd1c2f34548cc588aac8dad423c308ad1c0f3d/) |

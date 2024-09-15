@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​EZCO
-description: W:13 L:21 D:1 Bonus ❌
-date: 1725280807
+description: W:13 L:22 D:1 Bonus ❌
+date: 1726407676
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1123 🔻  (1120)|
-| ELO Competitive | 1206 🔻  (534)|
-| Total Matches | 35 |
+| ELO Regular | 1110 🔻  (1150)|
+| ELO Competitive | 1192 🔻  (633)|
+| Total Matches | 36 |
 | Wins | 13 |
-| Losses | 21 |
+| Losses | 22 |
 | Draws | 1 |
 | Streak Record | 6 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724848807,1724196711,1724192805,1723247677,1722869037,1722249687,1721629406,1721040991,1720436592,1720436592,1719829529,1719231828,1718668672,1718022102,1717397202,1716796436,1716258609,1715607532,1714976580,1714372545,1713763224,1713253053,1712599523,1712047835,1711410525,1710854346,1710000710,1709472181,1706127911,1705350183,1704137911,1703168726,1702757402,1702323717,1701826911];
+        let timestamps = [1725975676,1724848807,1724196711,1724192805,1723247677,1722869037,1722249687,1721629406,1721040991,1720436592,1720436592,1719829529,1719231828,1718668672,1718022102,1717397202,1716796436,1716258609,1715607532,1714976580,1714372545,1713763224,1713253053,1712599523,1712047835,1711410525,1710854346,1710000710,1709472181,1706127911,1705350183,1704137911,1703168726,1702757402,1702323717,1701826911];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/15 | 7-40 | [The Watchers](https://ws.tsl.rocks/corp/62a08ec3521bd62e5c8fbfc03c7d99fbf3e30fd1df80716485c9b989b27771e6/) |
 | ❌ | 2024/09/02 | 3-41 | [Regulus](https://ws.tsl.rocks/corp/2ac7f4a924f351d9e8a57c7bd7cb88bb810dd028acab61baf5f38f0ffc7cf559/) |
 | ❌ | 2024/08/25 | 0-47 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) |
 | ❌ | 2024/08/25 | 10-68 | [Grunthal Gang](https://ws.tsl.rocks/corp/0ab98cd1f1b195397b27360ea0dee2527f1504c9f5d4867e719d6f1f73efb01d/) |
