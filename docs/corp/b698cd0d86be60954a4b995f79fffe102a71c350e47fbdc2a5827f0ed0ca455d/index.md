@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Stargate Corp
-description: W:44 L:20 D:0 Bonus ✅
+description: W:44 L:20 D:0 Bonus ❌
 date: 1726337968
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
