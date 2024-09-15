@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Killers from Ua
-description: W:5 L:3 D:0 Bonus ❌
-date: 1722793779
+description: W:6 L:3 D:0 Bonus ✅
+date: 1726429017
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1228 🔺  (300)|
-| ELO Competitive | 1240 🔺  (368)|
-| Total Matches | 8 |
-| Wins | 5 |
+| ELO Regular | 1247 🔺  (232)|
+| ELO Competitive | 1260 🔺  (314)|
+| Total Matches | 9 |
+| Wins | 6 |
 | Losses | 3 |
 | Draws | 0 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722361779,1716562346,1709829137,1706611136,1705869473,1705404568,1704483499,1701093884];
+        let timestamps = [1725997017,1722361779,1716562346,1709829137,1706611136,1705869473,1705404568,1704483499,1701093884];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/15 | 28-10 | [Albedo](https://ws.tsl.rocks/corp/8e9848f9867c594384d6a31618213447f358c7b308fee91d20991b80b513fdbb/) |
 | ✅ | 2024/08/04 | 21-2 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) |
 | ✅ | 2024/05/29 | 30-3 | [Veteran's Haven](https://ws.tsl.rocks/corp/254fdc629bae81f3b0ca69160e0b6e34bd81993e755e4fb5ddedd1533038a683/) |
 | ❌ | 2024/03/12 | 7-10 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |

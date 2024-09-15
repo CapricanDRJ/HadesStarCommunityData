@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Albedo
-description: W:25 L:7 D:0 Bonus ❌
-date: 1725043717
+description: W:25 L:8 D:0 Bonus ❌
+date: 1726429017
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1325 🔻  (97)|
-| ELO Competitive | 1367 🔻  (136)|
-| Total Matches | 32 |
+| ELO Regular | 1306 🔻  (122)|
+| ELO Competitive | 1347 🔻  (155)|
+| Total Matches | 33 |
 | Wins | 25 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
 | Streak Record | 10 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724611717,1724009195,1723538574,1718700519,1718101437,1717406517,1716831302,1716260711,1715702776,1715158052,1714506261,1713896022,1713359423,1712760271,1712145187,1711531305,1710846233,1710229970,1709584863,1709057821,1708567717,1708063932,1707597105,1706922169,1706291988,1705711394,1705103460,1704408075,1703694343,1703031989,1702427707,1701686249];
+        let timestamps = [1725997017,1724611717,1724009195,1723538574,1718700519,1718101437,1717406517,1716831302,1716260711,1715702776,1715158052,1714506261,1713896022,1713359423,1712760271,1712145187,1711531305,1710846233,1710229970,1709584863,1709057821,1708567717,1708063932,1707597105,1706922169,1706291988,1705711394,1705103460,1704408075,1703694343,1703031989,1702427707,1701686249];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/15 | 10-28 | [Killers from Ua](https://ws.tsl.rocks/corp/d9422068c043dbd30acc89fc13d0ba7b276a3f27a85ec53595b93b9b561d7fd6/) |
 | ❌ | 2024/08/30 | 2-23 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) |
 | ✅ | 2024/08/23 | 26-0 | [Тёмный Феникс](https://ws.tsl.rocks/corp/7558698da6213ab97789830842ad4baa89467edc584a6c8594ab04b521ae3488/) |
 | ✅ | 2024/08/18 | 26-0 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) |
