@@ -104,10 +104,17 @@ permalink: /trade/
         </tr>
         
                 <tr>
-                    <td>10</td>
+                    <td>0</td>
                     <td><img src="mining.png" alt="mining"></td>
                     <td>RS9</td>
                     <td>220%</td>
+                </tr>
+            
+                <tr>
+                    <td>20</td>
+                    <td><img src="mining.png" alt="mining"></td>
+                    <td>RS9</td>
+                    <td>200%</td>
                 </tr>
             
         <tr>
