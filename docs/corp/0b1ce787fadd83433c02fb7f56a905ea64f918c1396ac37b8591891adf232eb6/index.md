@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Kelebra
-description: W:7 L:9 D:1 Bonus ❌
-date: 1726048271
+description: W:8 L:9 D:1 Bonus ✅
+date: 1726490008
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1163 🔻  (954)|
-| ELO Competitive | 1186 🔻  (783)|
-| Total Matches | 17 |
-| Wins | 7 |
+| ELO Regular | 1180 🔺  (792)|
+| ELO Competitive | 1210 🔺  (517)|
+| Total Matches | 18 |
+| Wins | 8 |
 | Losses | 9 |
 | Draws | 1 |
 | Streak Record | 2 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725616271,1725142409,1723641345,1723158122,1722666184,1717017028,1714733708,1713572518,1712310373,1711802041,1711243455,1708540974,1707439199,1706902113,1706065982,1705179215,1703779691];
+        let timestamps = [1726058008,1725616271,1725142409,1723641345,1723158122,1722666184,1717017028,1714733708,1713572518,1712310373,1711802041,1711243455,1708540974,1707439199,1706902113,1706065982,1705179215,1703779691];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,12 +117,14 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) | 1 | 1 | 0 | 2 |
 | [神圣罗马帝国](https://ws.tsl.rocks/corp/2a71af44aaef82175cd8dfd86c9e3f218a438a7c7e748bae20d8a0d964a984ab/) | 2 | 0 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/16 | 14-0 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |
 | ❌ | 2024/09/11 | 5-7 | [星光万丈](https://ws.tsl.rocks/corp/92ad2a305a74e168b57771140461b4d226e1e8cac17b4f77027d5a67ead5fa1d/) |
 | ❌ | 2024/09/05 | 2-3 | [Omega corp](https://ws.tsl.rocks/corp/17140be6e5915edf2d09ebcf246a7c2650cf39def04823c9a04bdf81ff8fc38e/) |
 | ✅ | 2024/08/19 | 3-2 | [神圣罗马帝国](https://ws.tsl.rocks/corp/2a71af44aaef82175cd8dfd86c9e3f218a438a7c7e748bae20d8a0d964a984ab/) |

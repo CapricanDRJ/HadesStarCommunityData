@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​麻雀集团
-description: W:0 L:0 D:1 Bonus ❌
-date: 1725508595
+description: W:0 L:0 D:2 Bonus ❌
+date: 1726489106
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1204 🔺  (427)|
-| ELO Competitive | 1206 🔺  (531)|
-| Total Matches | 1 |
+| ELO Regular | 1202 🔻  (435)|
+| ELO Competitive | 1204 🔻  (537)|
+| Total Matches | 2 |
 | Wins | 0 |
 | Losses | 0 |
-| Draws | 1 |
+| Draws | 2 |
 
 
 # Whitestar Match Day
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725076595];
+        let timestamps = [1726057106,1725076595];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/09/16 | 3-3 | [斯比纳兰](https://ws.tsl.rocks/corp/ce756ff97542e6fa8d518319e6575aae1d01eb23dd906fee3e3cbb98b442b68f/) |
 | ↔️ | 2024/09/05 | 0-0 | [  边界  ](https://ws.tsl.rocks/corp/86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a/) |
 
 Corporation ID: bf5e5ea02e24918ed66d543902f4315f957c79c9bc1bd434c034158e9f648abe
