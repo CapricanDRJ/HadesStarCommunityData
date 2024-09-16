@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Corp. Estelar
-description: W:15 L:12 D:0 Bonus ✅
+description: W:15 L:12 D:0 Bonus ❌
 date: 1726319933
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
