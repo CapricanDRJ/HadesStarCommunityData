@@ -720,7 +720,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) | 1264 | 1442 | 71 |
 | [StellarCorpIT](https://ws.tsl.rocks/corp/7a04d23f7e63879df1e854aaa391473a3a177095a387f75fff1ba98d61d6091f/) | 1299 | 1316 | 9 |
 | [Stellaris](https://ws.tsl.rocks/corp/957f987a0920391d39769d5b2540f55eb7102778a12d395599ed7a4a7985e342/) | 1137 | 1156 | 9 |
-| [Stella☆Glow](https://ws.tsl.rocks/corp/86a894b97d55e4f65a3cec65d26d528341d8e70b186bcffa2e89f5f681e48396/) | 1344 | 1387 | 45 |
+| [Stella☆Glow](https://ws.tsl.rocks/corp/86a894b97d55e4f65a3cec65d26d528341d8e70b186bcffa2e89f5f681e48396/) | 1331 | 1382 | 46 |
 | [Sterling Gamers](https://ws.tsl.rocks/corp/1c9d0a5b4f5803e2e51f7ce4af435c7caa7e7da9e39c7f1ed26f7be70e4d6638/) | 1201 | 1201 | 2 |
 | [Sternenbund](https://ws.tsl.rocks/corp/bc271b888ea386af54e2fc911a98d01951a0c2bb776a079d2ae005c477072587/) | 1185 | 1185 | 1 |
 | [Sternenflotte](https://ws.tsl.rocks/corp/6273be8c33cae6938fe5608aa5cf5a78e740f71dd888477b437e47ec106c0a0d/) | 1127 | 1202 | 39 |
@@ -1016,7 +1016,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Сибиряки](https://ws.tsl.rocks/corp/8292ba421cc8d81ce0a483ceaedafeff0966e8afc1c1c689517971a223e2aaa8/) | 1178 | 1183 | 2 |
 | [Скричеры](https://ws.tsl.rocks/corp/4e6e4f14ef6899f0d26f90dea584fecdc2d230059402af1d309ce71d87762b5c/) | 1197 | 1200 | 4 |
 | [СлАвЯнСкИй СоЮз](https://ws.tsl.rocks/corp/74a0e9ceb3b48af60580382b0ee5e8712d9a468b4f947302b81b999cfde3f86a/) | 1228 | 1231 | 11 |
-| [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) | 1406 | 1648 | 93 |
+| [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) | 1419 | 1653 | 94 |
 | [Созидание 2\.0](https://ws.tsl.rocks/corp/ae8b8d247dbd93bebc2b77d48c1db6783a17ff8b16438f010c804b7ccf05b76a/) | 1137 | 1148 | 25 |
 | [Спутник](https://ws.tsl.rocks/corp/0ae15c4db6dc8c3f4bf3eb6aa93bffd4ea9281b06b721ab103c0078646bfe58c/) | 1379 | 1425 | 44 |
 | [Стальная крыса](https://ws.tsl.rocks/corp/cc253c6c109e50b129297a1f56fa3c05a6e0f0b3f7673fcb619358625ab8bdf6/) | 1174 | 1174 | 2 |
