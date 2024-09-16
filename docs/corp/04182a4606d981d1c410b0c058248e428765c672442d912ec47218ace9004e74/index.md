@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Created
-description: W:8 L:24 D:1 Bonus ❌
-date: 1725735478
+description: W:9 L:24 D:1 Bonus ✅
+date: 1726496019
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1106 🔻  (1159)|
-| ELO Competitive | 1132 🔻  (1170)|
-| Total Matches | 33 |
-| Wins | 8 |
+| ELO Regular | 1120 🔺  (1125)|
+| ELO Competitive | 1145 🔺  (1135)|
+| Total Matches | 34 |
+| Wins | 9 |
 | Losses | 24 |
 | Draws | 1 |
 | Streak Record | 2 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725303478,1724633653,1723992659,1723480576,1722718481,1722182373,1721098102,1720585655,1719918178,1719273605,1718488964,1717772584,1717019732,1715620754,1715614444,1714778584,1713922160,1713110627,1712329082,1711643680,1710429776,1709492017,1708558103,1707498994,1706392063,1705290382,1704538788,1703046112,1702217018,1701444015,1700925874,1700362649,1699849852];
+        let timestamps = [1726064019,1725303478,1724633653,1723992659,1723480576,1722718481,1722182373,1721098102,1720585655,1719918178,1719273605,1718488964,1717772584,1717019732,1715620754,1715614444,1714778584,1713922160,1713110627,1712329082,1711643680,1710429776,1709492017,1708558103,1707498994,1706392063,1705290382,1704538788,1703046112,1702217018,1701444015,1700925874,1700362649,1699849852];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/16 | 20-1 | [GermanSpaceUno\.](https://ws.tsl.rocks/corp/47482f042b35cecaaaf58ee05b6672bab3c49469b039f75f304535ffd2d02491/) |
 | ❌ | 2024/09/07 | 1-7 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ✅ | 2024/08/31 | 13-0 | [КМБ](https://ws.tsl.rocks/corp/9863510eb8d02a7be02ef6a2cf42499cbf1e7ec62df078fe82aaa791444445f4/) |
 | ↔️ | 2024/08/23 | 3-3 | [Out landers](https://ws.tsl.rocks/corp/4d949404db40dec4e95e786811959954fc9e2b1361f3bf0d33af2279ff86d23a/) |

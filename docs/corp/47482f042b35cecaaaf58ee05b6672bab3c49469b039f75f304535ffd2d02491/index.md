@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​GermanSpaceUno.
-description: W:5 L:19 D:0 Bonus ❌
-date: 1715328662
+description: W:5 L:20 D:0 Bonus ❌
+date: 1726496019
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1067 🔻  (1196)|
-| ELO Competitive | 1081 🔻  (1220)|
-| Total Matches | 24 |
+| ELO Regular | 1053 🔻  (1208)|
+| ELO Competitive | 1068 🔻  (1231)|
+| Total Matches | 25 |
 | Wins | 5 |
-| Losses | 19 |
+| Losses | 20 |
 | Draws | 0 |
 | Streak Record | 3 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1714896662,1714291717,1713691717,1713089588,1710074327,1709470678,1708860994,1708263914,1707656300,1707054392,1706454266,1705827693,1705232980,1704628046,1704025517,1703413357,1702805483,1702211006,1701599393,1700988690,1700394506,1699795144,1699182946,1698689170];
+        let timestamps = [1726064019,1714896662,1714291717,1713691717,1713089588,1710074327,1709470678,1708860994,1708263914,1707656300,1707054392,1706454266,1705827693,1705232980,1704628046,1704025517,1703413357,1702805483,1702211006,1701599393,1700988690,1700394506,1699795144,1699182946,1698689170];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/16 | 1-20 | [Created](https://ws.tsl.rocks/corp/04182a4606d981d1c410b0c058248e428765c672442d912ec47218ace9004e74/) |
 | ❌ | 2024/05/10 | 0-7 | [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) |
 | ❌ | 2024/05/03 | 4-35 | [Lacuna Holdings](https://ws.tsl.rocks/corp/17f4ece94ed033805ed258868416020d302254e2e3becbd1e25381be7933be76/) |
 | ❌ | 2024/04/26 | 13-27 | [Retarts](https://ws.tsl.rocks/corp/1556331f722d00268e3c524b12efedac51051cf48e46b2513675774b9315a155/) |
