@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​IMPERIAL ARMADA
-description: W:25 L:1 D:0 Bonus ✅
+description: W:25 L:1 D:0 Bonus ❌
 date: 1725900738
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
