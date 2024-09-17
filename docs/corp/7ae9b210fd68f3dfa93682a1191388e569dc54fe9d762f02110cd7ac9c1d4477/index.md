@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Rogue One
-description: W:32 L:25 D:1 Bonus ✅
+description: W:32 L:25 D:1 Bonus ❌
 date: 1725967741
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
