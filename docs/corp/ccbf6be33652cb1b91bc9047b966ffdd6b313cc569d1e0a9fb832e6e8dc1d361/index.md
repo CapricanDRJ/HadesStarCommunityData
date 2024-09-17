@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​数字星际集团
-description: W:8 L:8 D:1 Bonus ✅
+description: W:8 L:8 D:1 Bonus ❌
 date: 1726476786
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

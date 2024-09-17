@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Greek Warriors
-description: W:8 L:22 D:0 Bonus ✅
-date: 1726059391
+description: W:8 L:23 D:0 Bonus ✅
+date: 1726593754
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1148 🔺  (1043)|
-| ELO Competitive | 1176 🔺  (935)|
-| Total Matches | 30 |
+| ELO Regular | 1137 🔻  (1087)|
+| ELO Competitive | 1168 🔻  (1022)|
+| Total Matches | 31 |
 | Wins | 8 |
-| Losses | 22 |
+| Losses | 23 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725627391,1723038223,1721948252,1720720905,1719520319,1718828844,1718227061,1717603981,1716498958,1715274026,1714682635,1714061570,1713452570,1712260278,1711651193,1710436087,1709841158,1709237505,1708627514,1707933668,1706899330,1705939187,1702495029,1701886718,1701418468,1700849832,1700395708,1700394506,1699906059,1699841439];
+        let timestamps = [1726161754,1725627391,1723038223,1721948252,1720720905,1719520319,1718828844,1718227061,1717603981,1716498958,1715274026,1714682635,1714061570,1713452570,1712260278,1711651193,1710436087,1709841158,1709237505,1708627514,1707933668,1706899330,1705939187,1702495029,1701886718,1701418468,1700849832,1700395708,1700394506,1699906059,1699841439];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/17 | 3-33 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) |
 | ✅ | 2024/09/11 | 19-8 | [The Allegiant](https://ws.tsl.rocks/corp/1c4cfbcf7902769aff100297d9174153f4c0528ed07918ba494f763a1315ffc6/) |
 | ❌ | 2024/08/12 | 3-21 | [Scar](https://ws.tsl.rocks/corp/1fd57b7d50b68cb3883fd58e596f496821ebcc82dee1915bb7f34a402b03c44a/) |
 | ❌ | 2024/07/30 | 11-20 | [StellaMysterium](https://ws.tsl.rocks/corp/cfaaa81ed93cc9361ade470c3414c73ecf77068badd68d624c7b3f486d142b10/) |
