@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Galaxians
-description: W:16 L:16 D:0 Bonus ❌
-date: 1725967741
+description: W:16 L:17 D:0 Bonus ❌
+date: 1726601493
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1237 🔺  (276)|
-| ELO Competitive | 1279 🔺  (272)|
-| Total Matches | 32 |
+| ELO Regular | 1228 🔻  (303)|
+| ELO Competitive | 1270 🔻  (290)|
+| Total Matches | 33 |
 | Wins | 16 |
-| Losses | 16 |
+| Losses | 17 |
 | Draws | 0 |
-| Streak | 4 |
 | Streak Record | 4 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725535741,1725015588,1724406455,1724361088,1723843590,1723168340,1722544485,1721938335,1721324090,1720720303,1720095197,1719260083,1718822231,1718318415,1717707071,1717071411,1716526593,1715880038,1715321795,1714679630,1714086510,1713465793,1712841393,1712244650,1711700475,1711061066,1710402736,1709795184,1703657377,1701532074,1699564265,1698912184];
+        let timestamps = [1726169493,1725535741,1725015588,1724406455,1724361088,1723843590,1723168340,1722544485,1721938335,1721324090,1720720303,1720095197,1719260083,1718822231,1718318415,1717707071,1717071411,1716526593,1715880038,1715321795,1714679630,1714086510,1713465793,1712841393,1712244650,1711700475,1711061066,1710402736,1709795184,1703657377,1701532074,1699564265,1698912184];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/17 | 0-42 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) |
 | ✅ | 2024/09/10 | 18-0 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) |
 | ✅ | 2024/09/04 | 21-0 | [华夏舰队](https://ws.tsl.rocks/corp/abd6d05a100ffdde2d15abd725a209bfbbf069b60b10ddeac88e88da66191472/) |
 | ✅ | 2024/08/28 | 21-0 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
