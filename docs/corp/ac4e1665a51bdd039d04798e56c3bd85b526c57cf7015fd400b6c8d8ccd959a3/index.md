@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​63SALVADORES36
-description: W:0 L:1 D:1 Bonus ❌
-date: 1718508198
+description: W:1 L:1 D:1 Bonus ✅
+date: 1726532381
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (853)|
-| ELO Competitive | 1176 🔻  (934)|
-| Total Matches | 2 |
-| Wins | 0 |
+| ELO Regular | 1189 🔺  (556)|
+| ELO Competitive | 1192 🔺  (630)|
+| Total Matches | 3 |
+| Wins | 1 |
 | Losses | 1 |
 | Draws | 1 |
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1718076198,1715859906];
+        let timestamps = [1726100381,1718076198,1715859906];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/17 | 7-0 | [G\.D\.C\.](https://ws.tsl.rocks/corp/a432960462712000978e07d31983919f34392d4027087809eaf89a3f1d8b0733/) |
 | ↔️ | 2024/06/16 | 0-0 | [地球星际集团](https://ws.tsl.rocks/corp/05094116a999d8e077c5e53dc2241a870c7dc2e68e016455c606ada0dcb40b62/) |
 | ❌ | 2024/05/21 | 0-2 | [逐光起航](https://ws.tsl.rocks/corp/e6bb076aa209101b5fa1cbc40a614c241d71ab5eca143c733b81aed6302455e8/) |
 
