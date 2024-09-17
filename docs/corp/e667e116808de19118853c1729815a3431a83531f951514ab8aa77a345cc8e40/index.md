@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Highlife
-description: W:20 L:24 D:1 Bonus ✅
+description: W:20 L:24 D:1 Bonus ❌
 date: 1726529678
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

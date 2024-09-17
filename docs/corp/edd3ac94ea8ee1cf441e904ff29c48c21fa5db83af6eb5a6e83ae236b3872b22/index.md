@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Osmium Star llc
-description: W:15 L:2 D:0 Bonus ✅
-date: 1726020931
+description: W:16 L:2 D:0 Bonus ✅
+date: 1726557316
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1343 🔺  (79)|
-| ELO Competitive | 1363 🔺  (138)|
-| Total Matches | 17 |
-| Wins | 15 |
+| ELO Regular | 1352 🔺  (74)|
+| ELO Competitive | 1374 🔺  (126)|
+| Total Matches | 18 |
+| Wins | 16 |
 | Losses | 2 |
 | Draws | 0 |
-| Streak | 4 |
+| Streak | 5 |
 | Streak Record | 9 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725588931,1725013905,1724535085,1723709860,1723117553,1722502411,1721899865,1721327696,1720694148,1720028479,1719471631,1718877216,1718263116,1717597968,1716973746,1716448181,1715834370];
+        let timestamps = [1726125316,1725588931,1725013905,1724535085,1723709860,1723117553,1722502411,1721899865,1721327696,1720694148,1720028479,1719471631,1718877216,1718263116,1717597968,1716973746,1716448181,1715834370];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/17 | 16-1 | [●Black•Sails●](https://ws.tsl.rocks/corp/fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31/) |
 | ✅ | 2024/09/11 | 18-4 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
 | ✅ | 2024/09/04 | 24-0 | [Bunker](https://ws.tsl.rocks/corp/583eeb4aaa577ce5d9806fc637f83d7c02b2a29fa2d47eb38fd658be8ef93588/) |
 | ✅ | 2024/08/29 | 10-9 | [Eretria ](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |

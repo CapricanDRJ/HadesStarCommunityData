@@ -177,7 +177,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) | 1318 | 1455 | 77 |
 | [Das Imperium](https://ws.tsl.rocks/corp/bf80902e944e3605f5f2fe70f245c1442fa4094414322964da8200dc57c58ef0/) | 1116 | 1118 | 9 |
 | [Dauntless](https://ws.tsl.rocks/corp/8313138d370b0b0f15dea3af851c836f9a1e1e838bf26c652c9a9831fb6b739a/) | 1082 | 1101 | 23 |
-| [Deadspace](https://ws.tsl.rocks/corp/45fc2bf2d1b40361071590e427fa47116d4e5e063064d17ed9933bbd61f04369/) | 1174 | 1235 | 47 |
+| [Deadspace](https://ws.tsl.rocks/corp/45fc2bf2d1b40361071590e427fa47116d4e5e063064d17ed9933bbd61f04369/) | 1199 | 1262 | 48 |
 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) | 1006 | 1099 | 68 |
 | [Death Flight 1\.](https://ws.tsl.rocks/corp/9c3a6232c7aaa991745686dbc2efb82907b20bb2a5b5963ff2ae61a768c1405e/) | 1176 | 1177 | 2 |
 | [Death knight](https://ws.tsl.rocks/corp/a41e9fa95ab5c960a50e9dd45cdfd779f3426298744d157d9eada9fbcca16d72/) | 1171 | 1185 | 2 |
@@ -223,7 +223,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Embers Rising](https://ws.tsl.rocks/corp/30173fb6f0cf7a6d78f30c60350646ad6bc0d667a14854bdc9abbc19cd7d0327/) | 1389 | 1444 | 33 |
 | [Emergence](https://ws.tsl.rocks/corp/1a1250d276bf9541252070bbee9c6b216c91b12a837aaa8a8e8a90f490940538/) | 1443 | 1493 | 31 |
 | [Empire of Light](https://ws.tsl.rocks/corp/5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc/) | 1154 | 1192 | 19 |
-| [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) | 1453 | 1596 | 67 |
+| [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) | 1428 | 1596 | 68 |
 | [Enigma](https://ws.tsl.rocks/corp/d901fe833fb2f84db2321a90a63d0466d4288c8c727fb177afdc6bf2c7c56f25/) | 1124 | 1152 | 17 |
 | [Enigma](https://ws.tsl.rocks/corp/b090292814af4e2f0c44d130ddd9ef8f56c0f42990900a3bb4f8ae48970c907d/) | 1201 | 1201 | 2 |
 | [Equinox](https://ws.tsl.rocks/corp/666001c1d87fbfcf6a3d8614e2b5b9f0e4aa96fa4c098c004bea9fb92ed330c2/) | 1192 | 1208 | 24 |
@@ -527,7 +527,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Orion France](https://ws.tsl.rocks/corp/c2eb8d6062cc509695dd557961bcc9893a5bf7bc6312a0a954c13cfd00c0a6f2/) | 1187 | 1187 | 1 |
 | [Orione](https://ws.tsl.rocks/corp/c79f1effdbf0ce4d4929befd06dc74d1351e926a4fd50183415190c2d69dbba2/) | 1183 | 1189 | 2 |
 | [Orphans Of Kos](https://ws.tsl.rocks/corp/f4fc42714515d58b6fabb87fd87c01baadb59e219e725bfdc6cf70b21a292054/) | 1194 | 1197 | 11 |
-| [Osmium Star llc](https://ws.tsl.rocks/corp/edd3ac94ea8ee1cf441e904ff29c48c21fa5db83af6eb5a6e83ae236b3872b22/) | 1343 | 1363 | 17 |
+| [Osmium Star llc](https://ws.tsl.rocks/corp/edd3ac94ea8ee1cf441e904ff29c48c21fa5db83af6eb5a6e83ae236b3872b22/) | 1352 | 1374 | 18 |
 | [OTRSᗜωO](https://ws.tsl.rocks/corp/07ebeb2216e39f25d78a6634970c057fd0a406375ce0734173bceace5a7af1eb/) | 1185 | 1190 | 3 |
 | [Out landers](https://ws.tsl.rocks/corp/4d949404db40dec4e95e786811959954fc9e2b1361f3bf0d33af2279ff86d23a/) | 1224 | 1245 | 20 |
 | [Outland Ind\.](https://ws.tsl.rocks/corp/94cb8827caef9b4b1839113abd29145a128d0c1e108c3984bcf7620dd7fca464/) | 1412 | 1469 | 44 |
@@ -1047,7 +1047,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [༺༽ʚ天轮间ɞ༼༻](https://ws.tsl.rocks/corp/ae9308ab2dc25db5a2f984255ff593700ec70a7f87182d04a3e41c2eb5c2063c/) | 1173 | 1180 | 3 |
 | [Ẁhıťɛ Ṣօᴌᴧᴙɨṣ](https://ws.tsl.rocks/corp/4019e0b42b27f4016da780eed9d3c84aec7ad9d180e90febddb3a9a22dac131c/) | 1142 | 1160 | 4 |
 | [₩\.BRASIL\.₩](https://ws.tsl.rocks/corp/ff7f01b2f1db7b9c75e49da4c7367325905c020eba282a97f69f33d8c19419aa/) | 1082 | 1094 | 17 |
-| [●Black•Sails●](https://ws.tsl.rocks/corp/fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31/) | 1204 | 1255 | 30 |
+| [●Black•Sails●](https://ws.tsl.rocks/corp/fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31/) | 1195 | 1245 | 31 |
 | [⚜NOVA⚜](https://ws.tsl.rocks/corp/7b5024d2611b3988a770a86633a4d122a631176d333c0a15e054b18a646771c4/) | 1176 | 1175 | 2 |
 | [✡天启✡](https://ws.tsl.rocks/corp/f2d70a86d32ea3a8226afc6d465a6c6540acec572b1c7232994523cdfb299c53/) | 1399 | 1494 | 33 |
 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) | 1201 | 1204 | 2 |
