@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Armored Union 
-description: W:22 L:18 D:0 Bonus ✅
+description: W:22 L:18 D:0 Bonus ❌
 date: 1725936794
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
