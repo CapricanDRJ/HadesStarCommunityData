@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​●Black•Sails●
-description: W:16 L:15 D:0 Bonus ✅
+description: W:16 L:15 D:0 Bonus ❌
 date: 1726557316
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
