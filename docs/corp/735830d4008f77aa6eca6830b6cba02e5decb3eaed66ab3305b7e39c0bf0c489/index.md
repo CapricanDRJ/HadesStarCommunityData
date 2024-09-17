@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Slytherin
-description: W:0 L:1 D:0 Bonus ❌
-date: 1726153453
+description: W:0 L:2 D:0 Bonus ❌
+date: 1726595181
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (605)|
-| ELO Competitive | 1187 🔻  (705)|
-| Total Matches | 1 |
+| ELO Regular | 1170 🔻  (902)|
+| ELO Competitive | 1173 🔻  (962)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725721453];
+        let timestamps = [1726163181,1725721453];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/17 | 1-9 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 | ❌ | 2024/09/12 | 0-2 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) |
 
 Corporation ID: 735830d4008f77aa6eca6830b6cba02e5decb3eaed66ab3305b7e39c0bf0c489
