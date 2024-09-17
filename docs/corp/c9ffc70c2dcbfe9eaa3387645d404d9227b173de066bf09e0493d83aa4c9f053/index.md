@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Лютые
-description: W:10 L:10 D:1 Bonus ❌
-date: 1723521308
+description: W:11 L:10 D:1 Bonus ✅
+date: 1726540191
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1227 🔻  (309)|
-| ELO Competitive | 1294 🔻  (234)|
-| Total Matches | 21 |
-| Wins | 10 |
+| ELO Regular | 1244 🔺  (240)|
+| ELO Competitive | 1315 🔺  (198)|
+| Total Matches | 22 |
+| Wins | 11 |
 | Losses | 10 |
 | Draws | 1 |
 | Streak Record | 3 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723089308,1718909075,1718251096,1718173864,1717652666,1717053358,1717047072,1716444276,1716396808,1715836773,1715779687,1715237669,1715200720,1714724394,1714713578,1714258672,1711643680,1710435185,1708722472,1707662311,1704057375];
+        let timestamps = [1726108191,1723089308,1718909075,1718251096,1718173864,1717652666,1717053358,1717047072,1716444276,1716396808,1715836773,1715779687,1715237669,1715200720,1714724394,1714713578,1714258672,1711643680,1710435185,1708722472,1707662311,1704057375];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/17 | 23-10 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ❌ | 2024/08/13 | 5-15 | [Death Star llc\.](https://ws.tsl.rocks/corp/3dd4906939827fa7537a3e95f8d75948c06b75a98f3c4aab253ea79857d2ce81/) |
 | ❌ | 2024/06/25 | 8-12 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) |
 | ✅ | 2024/06/18 | 32-2 | [绛紫星](https://ws.tsl.rocks/corp/8c2109279ceb01bcca0aa5e85c151d5877831ac54199285743750e2ed343b407/) |
