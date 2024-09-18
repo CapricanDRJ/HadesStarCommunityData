@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​荣耀之星
-description: W:12 L:12 D:5 Bonus ✅
+description: W:12 L:12 D:5 Bonus ❌
 date: 1726501429
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
