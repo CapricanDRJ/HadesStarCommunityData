@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​MD EMPIRE
-description: W:1 L:1 D:0 Bonus ❌
-date: 1725897432
+description: W:2 L:1 D:0 Bonus ✅
+date: 1726645867
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1200 🔻  (469)|
-| ELO Competitive | 1208 🔻  (525)|
-| Total Matches | 2 |
-| Wins | 1 |
+| ELO Regular | 1214 🔺  (380)|
+| ELO Competitive | 1222 🔺  (427)|
+| Total Matches | 3 |
+| Wins | 2 |
 | Losses | 1 |
 | Draws | 0 |
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725465432,1724915571];
+        let timestamps = [1726213867,1725465432,1724915571];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/18 | 3-0 | [Latinos :\)](https://ws.tsl.rocks/corp/f4ce6442812aef55ce3fc3a333546bb9fe970b19da13112a80fe5b2753d1233e/) |
 | ❌ | 2024/09/09 | 0-3 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ✅ | 2024/09/03 | 4-0 | [BlakkFlot](https://ws.tsl.rocks/corp/55c9ba9c0d06d8c8f3684544bd7452f440470b687b9e5a2ae40e55044b61e711/) |
 

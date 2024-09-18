@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Latinos :)
-description: W:0 L:1 D:0 Bonus ❌
-date: 1715067285
+description: W:0 L:2 D:0 Bonus ❌
+date: 1726645867
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (761)|
-| ELO Competitive | 1186 🔻  (759)|
-| Total Matches | 1 |
+| ELO Regular | 1169 🔻  (925)|
+| ELO Competitive | 1172 🔻  (982)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1714635285];
+        let timestamps = [1726213867,1714635285];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/18 | 0-3 | [MD EMPIRE](https://ws.tsl.rocks/corp/69e8222c1c47637d7ed1a3c64683816837a73293a9164b2836022943206d21eb/) |
 | ❌ | 2024/05/07 | 0-3 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 
 Corporation ID: f4ce6442812aef55ce3fc3a333546bb9fe970b19da13112a80fe5b2753d1233e
