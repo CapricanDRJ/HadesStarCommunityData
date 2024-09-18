@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Atlas corp
-description: W:5 L:10 D:1 Bonus ❌
-date: 1723295626
+description: W:6 L:10 D:1 Bonus ✅
+date: 1726669395
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1139 🔻  (1077)|
-| ELO Competitive | 1150 🔻  (1113)|
-| Total Matches | 16 |
-| Wins | 5 |
+| ELO Regular | 1156 🔺  (1004)|
+| ELO Competitive | 1167 🔺  (1029)|
+| Total Matches | 17 |
+| Wins | 6 |
 | Losses | 10 |
 | Draws | 1 |
 | Streak Record | 2 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722863626,1719098028,1715264410,1711217011,1709930699,1709269352,1707454822,1706725035,1706075319,1705608921,1704609413,1704088021,1703433495,1702998126,1702508556,1702020454];
+        let timestamps = [1726237395,1722863626,1719098028,1715264410,1711217011,1709930699,1709269352,1707454822,1706725035,1706075319,1705608921,1704609413,1704088021,1703433495,1702998126,1702508556,1702020454];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/18 | 3-0 | [The Smeg Heads](https://ws.tsl.rocks/corp/4468352a700fed901168b249c273c37c4d32a032977d53e5261f9c596c1e5366/) |
 | ❌ | 2024/08/10 | 0-2 | [脉冲星际集团](https://ws.tsl.rocks/corp/a4c08cf63563563e9bfa1d35edb256e9bb8bcdca15103d646d2ff8ed9d17f480/) |
 | ✅ | 2024/06/27 | 3-0 | [j g f h me t y ](https://ws.tsl.rocks/corp/47918aa8890d89fb5fc148ee9fdd940dd60ae73de3f7d05ccc54fabed17e1b5f/) |
 | ❌ | 2024/05/14 | 2-3 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
