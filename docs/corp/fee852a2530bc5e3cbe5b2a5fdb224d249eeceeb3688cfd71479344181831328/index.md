@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Red Dawn
-description: W:31 L:20 D:1 Bonus ✅
+description: W:31 L:20 D:1 Bonus ❌
 date: 1726054281
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
