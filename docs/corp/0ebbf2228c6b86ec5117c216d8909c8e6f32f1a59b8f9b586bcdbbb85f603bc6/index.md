@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Greek Warriors
-description: W:8 L:23 D:0 Bonus ✅
+description: W:8 L:23 D:0 Bonus ❌
 date: 1726593754
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

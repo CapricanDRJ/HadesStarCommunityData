@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​AlSounT
-description: W:3 L:5 D:0 Bonus ❌
-date: 1703234778
+description: W:4 L:5 D:0 Bonus ✅
+date: 1726678114
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔻  (911)|
-| ELO Competitive | 1170 🔻  (1012)|
-| Total Matches | 8 |
-| Wins | 3 |
+| ELO Regular | 1185 🔺  (713)|
+| ELO Competitive | 1194 🔺  (615)|
+| Total Matches | 9 |
+| Wins | 4 |
 | Losses | 5 |
 | Draws | 0 |
 | Streak Record | 2 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1702802778,1702219423,1701334620,1700768686,1700326582,1699867283,1699378564,1698921199];
+        let timestamps = [1726246114,1702802778,1702219423,1701334620,1700768686,1700326582,1699867283,1699378564,1698921199];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/18 | 23-0 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
 | ❌ | 2023/12/22 | 0-19 | [Scar](https://ws.tsl.rocks/corp/1fd57b7d50b68cb3883fd58e596f496821ebcc82dee1915bb7f34a402b03c44a/) |
 | ❌ | 2023/12/15 | 0-26 | [alienigenas](https://ws.tsl.rocks/corp/1c092f1b0e9645193eac68e27b29b2b9fef39474fd8924495abec6754857a8f9/) |
 | ✅ | 2023/12/05 | 11-2 | [夢幻之星\*分盟\*](https://ws.tsl.rocks/corp/25ac58a842783eb85413a2cb4896100bd1bdad3b64dbbc3b2d2c9bdf3f878c96/) |
