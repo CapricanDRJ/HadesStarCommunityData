@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​云霄宫
-description: W:1 L:4 D:0 Bonus ❌
-date: 1723868096
+description: W:2 L:4 D:0 Bonus ✅
+date: 1726702454
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 🔻  (948)|
-| ELO Competitive | 1184 🔻  (854)|
-| Total Matches | 5 |
-| Wins | 1 |
+| ELO Regular | 1178 🔺  (801)|
+| ELO Competitive | 1197 🔺  (600)|
+| Total Matches | 6 |
+| Wins | 2 |
 | Losses | 4 |
 | Draws | 0 |
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723436096,1723433417,1722997956,1706709706,1698935023];
+        let timestamps = [1726270454,1723436096,1723433417,1722997956,1706709706,1698935023];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/18 | 21-3 | [imperio estelar](https://ws.tsl.rocks/corp/c4c7de80ce172ac4cb77f23b5833bc20f87ea3f6e64ed09120b0e95113460bb4/) |
 | ❌ | 2024/08/17 | 0-19 | [R\-6 satalite](https://ws.tsl.rocks/corp/ce3450a529768e932b3aeb4c6f39b9295e6e07d010b209d0120c0125799adc43/) |
 | ❌ | 2024/08/17 | 2-3 | [超新星联盟](https://ws.tsl.rocks/corp/c3667794c88fd0a09f565dc3b4fed5325f131a616d01d0f6890755b44997d0a1/) |
 | ✅ | 2024/08/12 | 31-4 | [Unión latina](https://ws.tsl.rocks/corp/9919a50d277644f496c19d5becdf40abb251d000345f049632329f0b35b7fbf1/) |
