@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​империя тьмы
-description: W:20 L:26 D:3 Bonus ✅
+description: W:20 L:26 D:3 Bonus ❌
 date: 1726043334
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
