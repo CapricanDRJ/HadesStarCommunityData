@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​纸鸢台
-description: W:4 L:1 D:0 Bonus ✅
+description: W:4 L:1 D:0 Bonus ❌
 date: 1726040459
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
