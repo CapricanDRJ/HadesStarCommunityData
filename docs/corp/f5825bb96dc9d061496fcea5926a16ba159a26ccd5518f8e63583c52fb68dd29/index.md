@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Red_Coat_Mafia
-description: W:16 L:24 D:1 Bonus ❌
-date: 1726529678
+description: W:17 L:24 D:1 Bonus ✅
+date: 1726638747
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (606)|
-| ELO Competitive | 1298 🔻  (227)|
-| Total Matches | 41 |
-| Wins | 16 |
+| ELO Regular | 1203 🔺  (434)|
+| ELO Competitive | 1324 🔺  (192)|
+| Total Matches | 42 |
+| Wins | 17 |
 | Losses | 24 |
 | Draws | 1 |
 | Streak Record | 3 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726097678,1725422762,1724952184,1724453644,1724172370,1723157224,1722640646,1722361779,1721769452,1721020857,1720586557,1720194978,1719794077,1719189466,1718947833,1718300983,1718121274,1717193120,1717003502,1716308482,1716237280,1715775480,1715717501,1715183291,1715096462,1714432648,1714410407,1713980748,1713971432,1713461585,1713415013,1712768085,1712765079,1712255168,1712253666,1711780105,1711645183,1711314377,1711069177,1710632600,1710620581];
+        let timestamps = [1726206747,1726097678,1725422762,1724952184,1724453644,1724172370,1723157224,1722640646,1722361779,1721769452,1721020857,1720586557,1720194978,1719794077,1719189466,1718947833,1718300983,1718121274,1717193120,1717003502,1716308482,1716237280,1715775480,1715717501,1715183291,1715096462,1714432648,1714410407,1713980748,1713971432,1713461585,1713415013,1712768085,1712765079,1712255168,1712253666,1711780105,1711645183,1711314377,1711069177,1710632600,1710620581];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/18 | 28-0 | [ZION](https://ws.tsl.rocks/corp/99ac8e5c0f22878b9a4458953d0c712ada17ef36ae195ccf39c7921dc996adfe/) |
 | ❌ | 2024/09/16 | 0-17 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) |
 | ✅ | 2024/09/09 | 26-7 | [Sternenflotte](https://ws.tsl.rocks/corp/6273be8c33cae6938fe5608aa5cf5a78e740f71dd888477b437e47ec106c0a0d/) |
 | ❌ | 2024/09/03 | 6-33 | [Atlas Star llc\.](https://ws.tsl.rocks/corp/3de5259ba12509e4d02854f1414caacf3d0aaaf79f417b9d843ff20ca35863dd/) |
