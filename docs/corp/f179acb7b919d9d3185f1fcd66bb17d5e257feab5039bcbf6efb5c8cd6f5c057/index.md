@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Star Blazers
-description: W:10 L:28 D:1 Bonus ❌
-date: 1726093354
+description: W:10 L:29 D:1 Bonus ❌
+date: 1726626429
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1059 🔺  (1205)|
-| ELO Competitive | 1103 🔺  (1206)|
-| Total Matches | 39 |
+| ELO Regular | 1051 🔻  (1209)|
+| ELO Competitive | 1095 🔻  (1213)|
+| Total Matches | 40 |
 | Wins | 10 |
-| Losses | 28 |
+| Losses | 29 |
 | Draws | 1 |
 | Streak Record | 3 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725661354,1724982534,1724221949,1722281246,1721585834,1720983418,1720407446,1718714643,1717313040,1715669752,1714161323,1713702834,1713216702,1712760271,1712282511,1711161720,1710340540,1708351960,1707627451,1706893018,1706425414,1705960530,1705508848,1705018118,1704520157,1704069694,1703566921,1703091793,1702938027,1702451145,1702048049,1701944718,1701262189,1701104706,1700793630,1700520741,1700066847,1699581996,1699131567];
+        let timestamps = [1726194429,1725661354,1724982534,1724221949,1722281246,1721585834,1720983418,1720407446,1718714643,1717313040,1715669752,1714161323,1713702834,1713216702,1712760271,1712282511,1711161720,1710340540,1708351960,1707627451,1706893018,1706425414,1705960530,1705508848,1705018118,1704520157,1704069694,1703566921,1703091793,1702938027,1702451145,1702048049,1701944718,1701262189,1701104706,1700793630,1700520741,1700066847,1699581996,1699131567];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/18 | 3-6 | [МеГаКо](https://ws.tsl.rocks/corp/11cd7fa53aad1bfc7d40c47a63de7b6c4a6d76f00e69dcb853f47e2c90b382dd/) |
 | ↔️ | 2024/09/11 | 0-0 | [imperio estelar](https://ws.tsl.rocks/corp/c4c7de80ce172ac4cb77f23b5833bc20f87ea3f6e64ed09120b0e95113460bb4/) |
 | ❌ | 2024/09/04 | 3-14 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ❌ | 2024/08/26 | 0-2 | [萌新的收留所](https://ws.tsl.rocks/corp/1dd3f70c959e32c27cb4c010162be3799b7c0732115d5c2b7ca5979f48b10f7f/) |

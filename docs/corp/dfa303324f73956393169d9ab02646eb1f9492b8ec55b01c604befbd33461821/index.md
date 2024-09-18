@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​𝖕𝖎𝖗𝖆𝖙𝖊𝖘
-description: W:1 L:2 D:1 Bonus ❌
-date: 1724412671
+description: W:1 L:3 D:1 Bonus ❌
+date: 1726627017
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (752)|
-| ELO Competitive | 1184 🔻  (855)|
-| Total Matches | 4 |
+| ELO Regular | 1169 🔻  (914)|
+| ELO Competitive | 1170 🔻  (1014)|
+| Total Matches | 5 |
 | Wins | 1 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 1 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723980671,1723517539,1706101461,1705366369];
+        let timestamps = [1726195017,1723980671,1723517539,1706101461,1705366369];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/18 | 0-1 | [Omega corp](https://ws.tsl.rocks/corp/17140be6e5915edf2d09ebcf246a7c2650cf39def04823c9a04bdf81ff8fc38e/) |
 | ❌ | 2024/08/23 | 0-7 | [ 边域](https://ws.tsl.rocks/corp/b982530486b86a4944af4474183f3fa6aca9db7a2a4195c018930f68d6ede865/) |
 | ↔️ | 2024/08/18 | 0-0 | [Cydonia Order](https://ws.tsl.rocks/corp/e55f58931b283e38b70e189f9bbc51563a76e2ae541f8b2b207444fb36d5ddf9/) |
 | ❌ | 2024/01/29 | 0-18 | [korea](https://ws.tsl.rocks/corp/2071b0b6ab886c36f36fb357ab33234b4d364e79aae36f5d3387e8ada44962ac/) |
