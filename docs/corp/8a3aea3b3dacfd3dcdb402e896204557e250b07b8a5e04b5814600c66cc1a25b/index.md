@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Famous Assasins
-description: W:53 L:8 D:0 Bonus ✅
+description: W:53 L:8 D:0 Bonus ❌
 date: 1726031446
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

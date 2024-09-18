@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​New Horizons
-description: W:6 L:6 D:0 Bonus ❌
-date: 1719654512
+description: W:6 L:7 D:0 Bonus ❌
+date: 1726651365
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1205 🔻  (426)|
-| ELO Competitive | 1238 🔻  (375)|
-| Total Matches | 12 |
+| ELO Regular | 1202 🔻  (440)|
+| ELO Competitive | 1235 🔻  (384)|
+| Total Matches | 13 |
 | Wins | 6 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1719222512,1716227363,1713183940,1713179132,1712575780,1711384080,1710176490,1707742240,1704716097,1701808278,1701097492,1699292019];
+        let timestamps = [1726219365,1719222512,1716227363,1713183940,1713179132,1712575780,1711384080,1710176490,1707742240,1704716097,1701808278,1701097492,1699292019];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/18 | 17-42 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | ❌ | 2024/06/29 | 17-27 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) |
 | ✅ | 2024/05/25 | 54-0 | [华夏舰队](https://ws.tsl.rocks/corp/abd6d05a100ffdde2d15abd725a209bfbbf069b60b10ddeac88e88da66191472/) |
 | ❌ | 2024/04/20 | 2-47 | [Offshore Trash](https://ws.tsl.rocks/corp/cf394608a27d311fa1a0132e455097b2ddfb434fc4acd6d102deef0a390eed8e/) |

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​italian warrior
-description: W:13 L:20 D:1 Bonus ✅
+description: W:13 L:20 D:1 Bonus ❌
 date: 1726032347
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
