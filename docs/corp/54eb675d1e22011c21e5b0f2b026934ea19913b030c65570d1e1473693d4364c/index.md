@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​墨痕空域
-description: W:36 L:29 D:1 Bonus ✅
+description: W:36 L:29 D:1 Bonus ❌
 date: 1726501429
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
