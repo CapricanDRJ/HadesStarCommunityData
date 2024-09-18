@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​MÉXICO INFINITO
-description: W:19 L:24 D:0 Bonus ✅
+description: W:19 L:24 D:0 Bonus ❌
 date: 1726080401
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

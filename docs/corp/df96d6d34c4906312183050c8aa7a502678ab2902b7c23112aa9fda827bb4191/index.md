@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​Spica​
-description: W:35 L:6 D:1 Bonus ❌
-date: 1721993786
+description: W:36 L:6 D:1 Bonus ✅
+date: 1726698549
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1381 🔺  (59)|
-| ELO Competitive | 1427 🔺  (80)|
-| Total Matches | 42 |
-| Wins | 35 |
+| ELO Regular | 1385 🔺  (53)|
+| ELO Competitive | 1435 🔺  (74)|
+| Total Matches | 43 |
+| Wins | 36 |
 | Losses | 6 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 23 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721561786,1721555475,1720616307,1720608192,1719746591,1719738177,1718533736,1717919620,1717327170,1716720406,1716701472,1716094860,1715520399,1714884344,1714784893,1714203384,1714193168,1713598576,1713595572,1712995534,1712979263,1712381966,1712374154,1711787393,1711768688,1711167128,1710585116,1709968255,1709965251,1709363704,1709296094,1708764838,1708757024,1708216738,1708214334,1707768091,1707763581,1707322551,1707322551,1706889111,1706873482,1706430523];
+        let timestamps = [1726266549,1721561786,1721555475,1720616307,1720608192,1719746591,1719738177,1718533736,1717919620,1717327170,1716720406,1716701472,1716094860,1715520399,1714884344,1714784893,1714203384,1714193168,1713598576,1713595572,1712995534,1712979263,1712381966,1712374154,1711787393,1711768688,1711167128,1710585116,1709968255,1709965251,1709363704,1709296094,1708764838,1708757024,1708216738,1708214334,1707768091,1707763581,1707322551,1707322551,1706889111,1706873482,1706430523];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/18 | 12-8 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) |
 | ✅ | 2024/07/26 | 13-10 | [INFINITY STAR](https://ws.tsl.rocks/corp/e36eb12fc6bc8e4b826e6bcb46020cad3eb616497c4c14075e8b657715898a9f/) |
 | ❌ | 2024/07/26 | 9-20 | [Дом Датэ](https://ws.tsl.rocks/corp/10cbcbd91c4084657bdab01ef573cc48170fbc4dd0ab533f96712f1cb6097ff2/) |
 | ✅ | 2024/07/15 | 23-14 | [Crux Cadre](https://ws.tsl.rocks/corp/41cdba59897d5e01412601b648c1a692368d92c198123f9ab442f2a23464b375/) |
