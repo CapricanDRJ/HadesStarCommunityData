@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Эдем
-description: W:7 L:6 D:0 Bonus ✅
+description: W:7 L:6 D:0 Bonus ❌
 date: 1726159165
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1225 🔺  (313)|
-| ELO Competitive | 1249 🔺  (349)|
+| ELO Competitive | 1249 🔺  (350)|
 | Total Matches | 13 |
 | Wins | 7 |
 | Losses | 6 |

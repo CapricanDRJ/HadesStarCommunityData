@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​星环建设集团
-description: W:8 L:6 D:2 Bonus ✅
+description: W:8 L:6 D:2 Bonus ❌
 date: 1726159838
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
