@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Spaceforce
-description: W:1 L:3 D:0 Bonus ❌
-date: 1725639619
+description: W:2 L:3 D:0 Bonus ✅
+date: 1726772074
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (596)|
-| ELO Competitive | 1193 🔻  (629)|
-| Total Matches | 4 |
-| Wins | 1 |
+| ELO Regular | 1203 🔺  (438)|
+| ELO Competitive | 1208 🔺  (527)|
+| Total Matches | 5 |
+| Wins | 2 |
 | Losses | 3 |
 | Draws | 0 |
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725207619,1723327917,1722076269,1710253707];
+        let timestamps = [1726340074,1725207619,1723327917,1722076269,1710253707];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/19 | 3-0 | [Intari](https://ws.tsl.rocks/corp/cd40328f5e2c9c9a9048ffbc090999675ccd6672e60c1ec9e8113daa822bf02f/) |
 | ❌ | 2024/09/06 | 2-9 | [使命白星](https://ws.tsl.rocks/corp/88e828c55c07286950a3296b00ca2a7a9cc2f1a0139e9cf4c6e54229f821e952/) |
 | ✅ | 2024/08/15 | 1-0 | [Red Sky](https://ws.tsl.rocks/corp/c5d615aa6be8025330917694307dea3f25210bff1c7ee2db6c0778a78e1a00d4/) |
 | ❌ | 2024/08/01 | 0-27 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |

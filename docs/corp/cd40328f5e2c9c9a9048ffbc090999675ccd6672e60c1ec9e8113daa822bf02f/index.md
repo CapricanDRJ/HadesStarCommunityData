@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Intari
-description: W:0 L:0 D:1 Bonus ❌
-date: 1704584638
+description: W:0 L:1 D:1 Bonus ❌
+date: 1726772074
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1199 🔻  (487)|
-| ELO Competitive | 1199 🔻  (591)|
-| Total Matches | 1 |
+| ELO Regular | 1183 🔻  (758)|
+| ELO Competitive | 1183 🔻  (871)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 1 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1704152638];
+        let timestamps = [1726340074,1704152638];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/19 | 0-3 | [Spaceforce](https://ws.tsl.rocks/corp/24c4541d371aa6efad58f5141355ec6ad643e45d05957800075cdefc583cb805/) |
 | ↔️ | 2024/01/06 | 0-0 | [地球星际集团](https://ws.tsl.rocks/corp/05094116a999d8e077c5e53dc2241a870c7dc2e68e016455c606ada0dcb40b62/) |
 
 Corporation ID: cd40328f5e2c9c9a9048ffbc090999675ccd6672e60c1ec9e8113daa822bf02f

@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​阿尔特拉集团
-description: W:31 L:26 D:2 Bonus ✅
+description: W:31 L:26 D:2 Bonus ❌
 date: 1726164574
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1298 🔻  (135)|
+| ELO Regular | 1298 🔻  (136)|
 | ELO Competitive | 1398 🔺  (108)|
 | Total Matches | 59 |
 | Wins | 31 |
