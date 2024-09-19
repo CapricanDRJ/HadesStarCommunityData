@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​P!RAT£ SHIP
-description: W:13 L:7 D:1 Bonus ✅
+description: W:13 L:7 D:1 Bonus ❌
 date: 1726169684
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
