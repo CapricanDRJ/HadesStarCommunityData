@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​UAGC
-description: W:26 L:22 D:0 Bonus ✅
+description: W:26 L:22 D:0 Bonus ❌
 date: 1726146840
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

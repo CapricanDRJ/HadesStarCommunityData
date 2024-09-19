@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​羽共和体
-description: W:15 L:22 D:7 Bonus ✅
-date: 1726315424
+description: W:15 L:23 D:7 Bonus ✅
+date: 1726764665
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔺  (932)|
-| ELO Competitive | 1245 🔺  (365)|
-| Total Matches | 44 |
+| ELO Regular | 1154 🔻  (1023)|
+| ELO Competitive | 1230 🔻  (405)|
+| Total Matches | 45 |
 | Wins | 15 |
-| Losses | 22 |
+| Losses | 23 |
 | Draws | 7 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725883424,1725443811,1725428471,1724869775,1724285959,1724210831,1723637137,1723126871,1722691428,1722385518,1721913688,1721913387,1721480348,1721479747,1721020556,1720961345,1720536368,1719922686,1719890534,1719421450,1719412732,1716801844,1713560505,1713530087,1713012632,1713011760,1712075181,1711809554,1711546930,1711278309,1710855548,1710813789,1709698165,1708046957,1707362273,1706882198,1706270047,1705753163,1705320127,1704500929,1703344237,1702726440,1702177646,1701667319];
+        let timestamps = [1726332665,1725883424,1725443811,1725428471,1724869775,1724285959,1724210831,1723637137,1723126871,1722691428,1722385518,1721913688,1721913387,1721480348,1721479747,1721020556,1720961345,1720536368,1719922686,1719890534,1719421450,1719412732,1716801844,1713560505,1713530087,1713012632,1713011760,1712075181,1711809554,1711546930,1711278309,1710855548,1710813789,1709698165,1708046957,1707362273,1706882198,1706270047,1705753163,1705320127,1704500929,1703344237,1702726440,1702177646,1701667319];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -113,11 +113,17 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) | 1 | 1 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/19 | 3-11 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |
 | ✅ | 2024/09/14 | 12-5 | [Kötbrüder](https://ws.tsl.rocks/corp/3bc45b26e12a26f4a564473f04ec6d044b2fe0dd52486e45348dfd8a10340fe7/) |
 | ↔️ | 2024/09/09 | 0-0 | [梨山养老院](https://ws.tsl.rocks/corp/4b0da5a03088d82acb8566ed943c7737a389ee702df4473438eec3f77f2c20c1/) |
 | ↔️ | 2024/09/09 | 11-11 | [AAAA](https://ws.tsl.rocks/corp/73b759d7c9218f2c1171f9ef691739331ca36ee045039f4f3f935a47b6622a27/) |
