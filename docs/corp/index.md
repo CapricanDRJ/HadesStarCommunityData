@@ -563,6 +563,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Proteus Tech](https://ws.tsl.rocks/corp/a9abf464e4301045ae4dbba7a5889a4e49d10e7e21f2e1011d9507cc5c45012b/) | 1263 | 1267 | 7 |
 | [Providence](https://ws.tsl.rocks/corp/f12fc39ca2326de7c5ce96c005b1953c86430443f1f8b98e7515d082b43b4d4b/) | 1323 | 1387 | 45 |
 | [ProyectCorp](https://ws.tsl.rocks/corp/ac76fbb017abc5511e6d39625245f0cd8f145ef5ba96ae1760d7f2389b5e0fe1/) | 1168 | 1222 | 44 |
+| [PSI Division](https://ws.tsl.rocks/corp/b6549a4c0bb6981743707147c9f2ff90fbe8fc246d19b363ed45489c8d71fc63/) | 1185 | 1185 | 1 |
 | [Pumpkin](https://ws.tsl.rocks/corp/efa17e148ea5fe049a047ba668074b663c53eb9f51a75a24c52fd03fde5e253a/) | 1185 | 1185 | 1 |
 | [Pyke Syndicate](https://ws.tsl.rocks/corp/1761635d6aaf9c2caf7abc37130e2d9aa48e7b4cc753ae4b701fde4b48abd3e1/) | 1029 | 1069 | 29 |
 | [Qonqr](https://ws.tsl.rocks/corp/8011516d431af62ef24f4ba8a7c660a0633950c298477032c97ab726991b65ad/) | 1186 | 1186 | 1 |
@@ -749,7 +750,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Team Rainbow](https://ws.tsl.rocks/corp/4dc7206b37101dba1bc2ec67ed48b3793706cddd737c19033c6498d485c6ab84/) | 1184 | 1190 | 4 |
 | [TearsWorld](https://ws.tsl.rocks/corp/f77df1f3b9d224e19c16927b6ba7ecc1d14ba903310aa1507608270184f68619/) | 1184 | 1184 | 1 |
 | [TECH CO](https://ws.tsl.rocks/corp/49f9afe365665b0d622f99306a23e7a2ebd9cf7022ee79c25e08917977ab9d7a/) | 1123 | 1187 | 26 |
-| [TeddisaurusWrex](https://ws.tsl.rocks/corp/88f37fd0ab1f14c7e06af4173800167f8d1f5db4022c1cd42637da431140ef7a/) | 1384 | 1458 | 49 |
+| [TeddisaurusWrex](https://ws.tsl.rocks/corp/88f37fd0ab1f14c7e06af4173800167f8d1f5db4022c1cd42637da431140ef7a/) | 1393 | 1469 | 50 |
 | [Ten Forward](https://ws.tsl.rocks/corp/1dd2ea0ec346eac318541b002d2de1be9cab962eb176f2bc45336222b96e847d/) | 1115 | 1118 | 8 |
 | [TERRA P](https://ws.tsl.rocks/corp/c0a40c1e10cfbdc8dee1385328a5ba59d70b98bdeb8eb44903d5da76f312a95b/) | 1182 | 1183 | 1 |
 | [Terranova](https://ws.tsl.rocks/corp/4eeaf112dd9983e997c8c9ec43e562763a8cd4a95f268b4bfeee5e39934f01de/) | 1063 | 1146 | 39 |
@@ -1095,7 +1096,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [华夏舰队](https://ws.tsl.rocks/corp/abd6d05a100ffdde2d15abd725a209bfbbf069b60b10ddeac88e88da66191472/) | 1021 | 1178 | 57 |
 | [华夏远征太空舰队](https://ws.tsl.rocks/corp/01e2a815aa9dd9c1db7cc861838ba180b5bf294273f9eaf4cdea5a256c9999a2/) | 1186 | 1186 | 1 |
 | [咕咕咕咕咕咕咕咕咕咕咕咕咕咕咕](https://ws.tsl.rocks/corp/038bc19b50c066831931ddd822ae2c29f8d40279e3ef920b8574839c6e3ab35d/) | 1159 | 1186 | 5 |
-| [哈迪斯之星，启动！](https://ws.tsl.rocks/corp/bc58305a02f7392f340d26a3becd4784de7360dd5264df9e85d73116b93496d8/) | 1189 | 1194 | 6 |
+| [哈迪斯之星，启动！](https://ws.tsl.rocks/corp/bc58305a02f7392f340d26a3becd4784de7360dd5264df9e85d73116b93496d8/) | 1205 | 1209 | 7 |
 | [喵喵喵喵喵喵喵](https://ws.tsl.rocks/corp/6f70ed81f6b0fd95da417ce3a268db3bbd0cd3b6e9e188a0e922db3d7f8ac968/) | 1095 | 1144 | 9 |
 | [喵喵喵喵喵喵喵](https://ws.tsl.rocks/corp/6b0f781319f88b96c64aa4c425eb3f834d80a1f0c3ee00918430fd71b2e5b913/) | 1147 | 1164 | 4 |
 | [嘤嘤嘤嘤嘤嘤嘤嘤](https://ws.tsl.rocks/corp/ad65ab5ca4b50864e2b171fc9018045cba5ae1bad1712a63a110a2c55c33f41b/) | 1119 | 1136 | 6 |
@@ -1149,7 +1150,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [星光舰队](https://ws.tsl.rocks/corp/e48d364ccf6d36f1f00db66d6bbae7b5d5aee09d90aeee03264b3a6cede3252c/) | 1204 | 1212 | 6 |
 | [星河绮梦](https://ws.tsl.rocks/corp/ec0d7f12f69610e8f68f4ea0af9698755a0a1435e0845c27c47fcbec0b1b672a/) | 1322 | 1367 | 20 |
 | [星海共同体](https://ws.tsl.rocks/corp/8716d843d76ec96cdd36cd0de81fbfca825b2ca4195be28dd27973962e1a0e7e/) | 1185 | 1185 | 1 |
-| [星海扬帆](https://ws.tsl.rocks/corp/9cf2d9a2c07a0b8030f9a8275f9ebd3973759c2b60bed95ccb9a3f152aa0b1e4/) | 1248 | 1376 | 38 |
+| [星海扬帆](https://ws.tsl.rocks/corp/9cf2d9a2c07a0b8030f9a8275f9ebd3973759c2b60bed95ccb9a3f152aa0b1e4/) | 1239 | 1365 | 39 |
 | [星环\-星际联盟](https://ws.tsl.rocks/corp/701b2b79715c2d2f9e2cc4c51d16c7e1b2aa2f549955e7191269f81327a78eeb/) | 1186 | 1187 | 1 |
 | [星环建设集团](https://ws.tsl.rocks/corp/85422294545c4561b468821bbbbe277a0d7f09c6ab45fedb2a43cbaa36d32f63/) | 1218 | 1229 | 16 |
 | [星舰国际](https://ws.tsl.rocks/corp/2142b75cc6d1c522c423a860fbda7616d7745f8fee25121ec3a8f26068b0f3b5/) | 1195 | 1224 | 14 |
