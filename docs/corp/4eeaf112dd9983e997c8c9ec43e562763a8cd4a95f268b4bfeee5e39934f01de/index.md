@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Terranova
-description: W:6 L:33 D:0 Bonus ❌
-date: 1726273060
+description: W:7 L:33 D:0 Bonus ✅
+date: 1726873471
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1063 🔻  (1207)|
-| ELO Competitive | 1146 🔻  (1137)|
-| Total Matches | 39 |
-| Wins | 6 |
+| ELO Regular | 1089 🔺  (1186)|
+| ELO Competitive | 1174 🔺  (964)|
+| Total Matches | 40 |
+| Wins | 7 |
 | Losses | 33 |
 | Draws | 0 |
 | Streak Record | 2 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725841060,1725265309,1725234365,1724629146,1724034437,1723444210,1722832073,1722249687,1721597557,1720991709,1720407446,1719807896,1719160612,1718569806,1717969518,1717369258,1716817172,1716207529,1715594612,1714992502,1714381257,1713773738,1713191454,1712561658,1712077285,1710756395,1710743177,1710148544,1709548802,1708932210,1708928905,1708336933,1708327920,1707666219,1707065212,1705870375,1705248911,1702818407,1699209091];
+        let timestamps = [1726441471,1725841060,1725265309,1725234365,1724629146,1724034437,1723444210,1722832073,1722249687,1721597557,1720991709,1720407446,1719807896,1719160612,1718569806,1717969518,1717369258,1716817172,1716207529,1715594612,1714992502,1714381257,1713773738,1713191454,1712561658,1712077285,1710756395,1710743177,1710148544,1709548802,1708932210,1708928905,1708336933,1708327920,1707666219,1707065212,1705870375,1705248911,1702818407,1699209091];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -131,6 +131,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/20 | 43-9 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) |
 | ❌ | 2024/09/14 | 27-44 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | ❌ | 2024/09/07 | 4-38 | [Space Penguins](https://ws.tsl.rocks/corp/6255ba7dab1bd2b150825874d1fea70b029dc79434f293d47518c27b0376e286/) |
 | ✅ | 2024/09/06 | 21-9 | [星舰月球](https://ws.tsl.rocks/corp/b9a3e1e7fd3a235db7f440974db9210dc9a3b85c39fd437099f32f53cfe1e21c/) |

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Legión
-description: W:1 L:3 D:0 Bonus ✅
+description: W:1 L:3 D:0 Bonus ❌
 date: 1726256234
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
