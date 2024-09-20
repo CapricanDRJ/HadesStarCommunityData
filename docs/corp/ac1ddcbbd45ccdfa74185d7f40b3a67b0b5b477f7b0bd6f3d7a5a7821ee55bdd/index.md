@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Widow Makers
-description: W:8 L:2 D:0 Bonus ✅
+description: W:8 L:2 D:0 Bonus ❌
 date: 1726243911
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
