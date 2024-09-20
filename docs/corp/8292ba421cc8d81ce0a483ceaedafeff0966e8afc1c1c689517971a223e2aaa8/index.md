@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Сибиряки
-description: W:0 L:1 D:1 Bonus ❌
-date: 1725833792
+description: W:0 L:2 D:1 Bonus ❌
+date: 1726836191
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1178 🔻  (801)|
-| ELO Competitive | 1183 🔻  (889)|
-| Total Matches | 2 |
+| ELO Regular | 1164 🔻  (959)|
+| ELO Competitive | 1168 🔻  (1029)|
+| Total Matches | 3 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 1 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725401792,1702938628];
+        let timestamps = [1726404191,1725401792,1702938628];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/20 | 0-12 | [Бакланы](https://ws.tsl.rocks/corp/185498d1915b9dae76f4b81423021419875e961b8cd4f1249364d5ada9845463/) |
 | ↔️ | 2024/09/08 | 0-0 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |
 | ❌ | 2023/12/23 | 0-3 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 

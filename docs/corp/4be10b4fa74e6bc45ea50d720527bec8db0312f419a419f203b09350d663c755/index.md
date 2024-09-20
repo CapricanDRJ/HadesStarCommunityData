@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​DTC
-description: W:16 L:48 D:0 Bonus ✅
+description: W:16 L:48 D:0 Bonus ❌
 date: 1726819058
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1047 🔻  (1217)|
-| ELO Competitive | 1191 🔻  (646)|
+| ELO Regular | 1047 🔻  (1218)|
+| ELO Competitive | 1191 🔻  (647)|
 | Total Matches | 64 |
 | Wins | 16 |
 | Losses | 48 |
