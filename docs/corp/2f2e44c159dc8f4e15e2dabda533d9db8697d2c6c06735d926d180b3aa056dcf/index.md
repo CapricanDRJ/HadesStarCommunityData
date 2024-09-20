@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Angel Dragon
-description: W:13 L:11 D:2 Bonus ❌
-date: 1726005311
+description: W:13 L:12 D:2 Bonus ❌
+date: 1726847617
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1242 🔻  (253)|
-| ELO Competitive | 1286 🔻  (257)|
-| Total Matches | 26 |
+| ELO Regular | 1233 🔻  (284)|
+| ELO Competitive | 1282 🔻  (265)|
+| Total Matches | 27 |
 | Wins | 13 |
-| Losses | 11 |
+| Losses | 12 |
 | Draws | 2 |
 | Streak Record | 6 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725573311,1724889680,1723725314,1722895187,1721762539,1720129770,1718965260,1717873642,1717011618,1716105076,1714693150,1713804687,1713257560,1711987443,1708972478,1708316202,1707577421,1706966943,1705670521,1704824287,1704205523,1703377598,1702662127,1701349646,1700230704,1699581996];
+        let timestamps = [1726415617,1725573311,1724889680,1723725314,1722895187,1721762539,1720129770,1718965260,1717873642,1717011618,1716105076,1714693150,1713804687,1713257560,1711987443,1708972478,1708316202,1707577421,1706966943,1705670521,1704824287,1704205523,1703377598,1702662127,1701349646,1700230704,1699581996];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/20 | 0-19 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ❌ | 2024/09/10 | 0-37 | [Últimafronteira](https://ws.tsl.rocks/corp/27e96f432a078f197bb5e4c34480ccabc05a9ee48e7bb04d95288fda15e94d3c/) |
 | ❌ | 2024/09/03 | 1-6 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) |
 | ❌ | 2024/08/20 | 2-37 | [The Syndicate ](https://ws.tsl.rocks/corp/a7da1f6bd313248b8b6e68a1826bffb463c0e4977776708b28d97199f878b88c/) |
