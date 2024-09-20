@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Looping
-description: W:25 L:15 D:0 Bonus ❌
-date: 1725699412
+description: W:25 L:16 D:0 Bonus ❌
+date: 1726820862
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1287 🔺  (157)|
-| ELO Competitive | 1344 🔺  (162)|
-| Total Matches | 40 |
+| ELO Regular | 1263 🔻  (196)|
+| ELO Competitive | 1322 🔻  (193)|
+| Total Matches | 41 |
 | Wins | 25 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 0 |
 | Streak Record | 9 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725267412,1724581057,1724054869,1723054753,1722488288,1721646533,1721119139,1719166925,1718644328,1717983037,1717056085,1716585177,1716142937,1715669752,1715182390,1714640565,1713888509,1713176428,1712581190,1711805947,1711372360,1711370256,1710756095,1710148544,1709548501,1708937318,1708202314,1707413656,1706786335,1706095751,1705567745,1704795434,1704105148,1703244158,1702677757,1702472182,1701692561,1700553193,1699952638,1698743281];
+        let timestamps = [1726388862,1725267412,1724581057,1724054869,1723054753,1722488288,1721646533,1721119139,1719166925,1718644328,1717983037,1717056085,1716585177,1716142937,1715669752,1715182390,1714640565,1713888509,1713176428,1712581190,1711805947,1711372360,1711370256,1710756095,1710148544,1709548501,1708937318,1708202314,1707413656,1706786335,1706095751,1705567745,1704795434,1704105148,1703244158,1702677757,1702472182,1701692561,1700553193,1699952638,1698743281];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Peace Keepers](https://ws.tsl.rocks/corp/7ac71c394c017639785b3ecaa8087bd3b9a9d134e05d22703a3e18217da3380d/) | 1 | 1 | 0 | 2 |
 | [GhostNakcoorp](https://ws.tsl.rocks/corp/0a15ae22cdfbd88694d3067838a78bea07746ec95f3784b3f65d77fe47d76312/) | 2 | 0 | 0 | 2 |
 | [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) | 1 | 1 | 0 | 2 |
 | [Corvus Ind\.](https://ws.tsl.rocks/corp/f99305aca0eca2f37971c97916647c8edd0258de0d30a3de61941700e7fb2c94/) | 0 | 2 | 0 | 2 |
@@ -126,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/20 | 22-24 | [Peace Keepers](https://ws.tsl.rocks/corp/7ac71c394c017639785b3ecaa8087bd3b9a9d134e05d22703a3e18217da3380d/) |
 | ✅ | 2024/09/07 | 14-13 | [GhostNakcoorp](https://ws.tsl.rocks/corp/0a15ae22cdfbd88694d3067838a78bea07746ec95f3784b3f65d77fe47d76312/) |
 | ❌ | 2024/08/30 | 9-27 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |
 | ✅ | 2024/08/24 | 24-5 | [Sternenflotte](https://ws.tsl.rocks/corp/6273be8c33cae6938fe5608aa5cf5a78e740f71dd888477b437e47ec106c0a0d/) |
