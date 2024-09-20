@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​⭐PRETORIANS.X⭐
-description: W:1 L:2 D:0 Bonus ✅
-date: 1726794718
+description: W:1 L:3 D:0 Bonus ✅
+date: 1726843408
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (616)|
-| ELO Competitive | 1188 🔻  (687)|
-| Total Matches | 3 |
+| ELO Regular | 1171 🔻  (875)|
+| ELO Competitive | 1192 🔻  (636)|
+| Total Matches | 4 |
 | Wins | 1 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726362718,1725900558,1725457917];
+        let timestamps = [1726411408,1726362718,1725900558,1725457917];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/20 | 2-6 | [落雨观花](https://ws.tsl.rocks/corp/565a6d89fc5107e86669d7f8910a1c4ae1fbb156fa0b5e81dbc917c341cc9ff0/) |
 | ❌ | 2024/09/20 | 0-7 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb/) |
 | ✅ | 2024/09/14 | 4-3 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |
 | ❌ | 2024/09/09 | 1-2 | [jatnniel 团队](https://ws.tsl.rocks/corp/fb2a90ff4c918e808029246b88573a0b283bd3b67f1831aaab89f03720e9ebb2/) |
