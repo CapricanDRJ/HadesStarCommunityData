@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​jatnniel 团队
-description: W:3 L:0 D:0 Bonus ✅
-date: 1726388144
+description: W:3 L:1 D:0 Bonus ✅
+date: 1726828977
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1243 🔺  (253)|
-| ELO Competitive | 1253 🔺  (331)|
-| Total Matches | 3 |
+| ELO Regular | 1228 🔻  (303)|
+| ELO Competitive | 1239 🔻  (375)|
+| Total Matches | 4 |
 | Wins | 3 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 0 |
-| Streak | 3 |
 | Streak Record | 3 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725956144,1725457917,1725000564];
+        let timestamps = [1726396977,1725956144,1725457917,1725000564];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/20 | 2-15 | [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) |
 | ✅ | 2024/09/15 | 5-2 | [星舰国际](https://ws.tsl.rocks/corp/2142b75cc6d1c522c423a860fbda7616d7745f8fee25121ec3a8f26068b0f3b5/) |
 | ✅ | 2024/09/09 | 2-1 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
 | ✅ | 2024/09/04 | 5-0 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) |

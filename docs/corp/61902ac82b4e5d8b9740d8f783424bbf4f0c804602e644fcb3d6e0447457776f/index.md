@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​ZORG IND
-description: W:8 L:3 D:0 Bonus ✅
-date: 1726224672
+description: W:9 L:3 D:0 Bonus ✅
+date: 1726828977
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1260 🔺  (203)|
-| ELO Competitive | 1275 🔺  (283)|
-| Total Matches | 11 |
-| Wins | 8 |
+| ELO Regular | 1274 🔺  (175)|
+| ELO Competitive | 1289 🔺  (250)|
+| Total Matches | 12 |
+| Wins | 9 |
 | Losses | 3 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 3 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725792672,1725172154,1724562424,1723962299,1723212815,1722769864,1722145400,1721543454,1720390976,1720357556,1719395902];
+        let timestamps = [1726396977,1725792672,1725172154,1724562424,1723962299,1723212815,1722769864,1722145400,1721543454,1720390976,1720357556,1719395902];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/20 | 15-2 | [jatnniel 团队](https://ws.tsl.rocks/corp/fb2a90ff4c918e808029246b88573a0b283bd3b67f1831aaab89f03720e9ebb2/) |
 | ✅ | 2024/09/13 | 16-0 | [ДИᏰEPℂДℍTᏰℓ](https://ws.tsl.rocks/corp/a1dad8a2a2c5ab935169d168bc19f8a1db7f12b099358e079cb7221a340345ed/) |
 | ❌ | 2024/09/06 | 7-13 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
 | ✅ | 2024/08/30 | 18-2 | [群星联盟](https://ws.tsl.rocks/corp/9b52999ef6fd3e408347334f34c792155b405eead69b509cbc68fd14520ace95/) |

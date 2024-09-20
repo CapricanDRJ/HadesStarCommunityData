@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​星舰月球
-description: W:30 L:14 D:0 Bonus ❌
-date: 1726250223
+description: W:30 L:15 D:0 Bonus ❌
+date: 1726828376
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1308 🔻  (118)|
-| ELO Competitive | 1413 🔻  (92)|
-| Total Matches | 44 |
+| ELO Regular | 1286 🔻  (158)|
+| ELO Competitive | 1393 🔻  (111)|
+| Total Matches | 45 |
 | Wins | 30 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 0 |
 | Streak Record | 19 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725818223,1725677878,1725234365,1724654085,1723406351,1722790906,1721673915,1719768233,1719203885,1718596544,1717348216,1716769096,1716135124,1715620154,1714927912,1714319967,1713728978,1713158103,1711903908,1711297546,1710720648,1710115226,1709482099,1708879630,1707066114,1706494239,1706466591,1705892309,1705858351,1705248911,1704787087,1704646682,1704244294,1704045356,1703476766,1703430489,1702859887,1702768222,1702225436,1701620134,1701019954,1700409537,1699811681,1699234632];
+        let timestamps = [1726396376,1725818223,1725677878,1725234365,1724654085,1723406351,1722790906,1721673915,1719768233,1719203885,1718596544,1717348216,1716769096,1716135124,1715620154,1714927912,1714319967,1713728978,1713158103,1711903908,1711297546,1710720648,1710115226,1709482099,1708879630,1707066114,1706494239,1706466591,1705892309,1705858351,1705248911,1704787087,1704646682,1704244294,1704045356,1703476766,1703430489,1702859887,1702768222,1702225436,1701620134,1701019954,1700409537,1699811681,1699234632];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/20 | 0-18 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ❌ | 2024/09/13 | 4-29 | [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) |
 | ❌ | 2024/09/12 | 0-38 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
 | ❌ | 2024/09/06 | 9-21 | [Terranova](https://ws.tsl.rocks/corp/4eeaf112dd9983e997c8c9ec43e562763a8cd4a95f268b4bfeee5e39934f01de/) |
