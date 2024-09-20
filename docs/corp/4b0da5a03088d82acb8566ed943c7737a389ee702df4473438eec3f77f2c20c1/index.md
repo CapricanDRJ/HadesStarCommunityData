@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​梨山养老院
-description: W:2 L:1 D:2 Bonus ❌
-date: 1725875811
+description: W:2 L:2 D:2 Bonus ❌
+date: 1726810042
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1199 🔻  (484)|
-| ELO Competitive | 1209 🔺  (522)|
-| Total Matches | 5 |
+| ELO Regular | 1180 🔻  (791)|
+| ELO Competitive | 1190 🔻  (650)|
+| Total Matches | 6 |
 | Wins | 2 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 2 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725443811,1724551308,1724028127,1722867834,1722332625];
+        let timestamps = [1726378042,1725443811,1724551308,1724028127,1722867834,1722332625];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/20 | 0-1 | [欢迎国人](https://ws.tsl.rocks/corp/f32abd112fe2b826948a3538a51097b9114815930ec77ad11ada1b24ce34578d/) |
 | ↔️ | 2024/09/09 | 0-0 | [羽共和体](https://ws.tsl.rocks/corp/61b6e0502a087307a2ecf50e5d84f6123ad19984dc5790c997f16a676213aa7e/) |
 | ❌ | 2024/08/30 | 4-7 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) |
 | ↔️ | 2024/08/24 | 4-4 | [逐光起航](https://ws.tsl.rocks/corp/e6bb076aa209101b5fa1cbc40a614c241d71ab5eca143c733b81aed6302455e8/) |

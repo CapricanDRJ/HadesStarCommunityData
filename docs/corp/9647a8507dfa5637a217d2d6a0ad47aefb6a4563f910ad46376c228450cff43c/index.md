@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​CTG
-description: W:12 L:19 D:0 Bonus ✅
+description: W:12 L:19 D:0 Bonus ❌
 date: 1726190417
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

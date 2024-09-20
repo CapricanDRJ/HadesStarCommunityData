@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​太阳系集团
-description: W:3 L:0 D:0 Bonus ✅
-date: 1726362607
+description: W:3 L:0 D:1 Bonus ✅
+date: 1726807938
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1250 🔺  (226)|
-| ELO Competitive | 1253 🔺  (335)|
-| Total Matches | 3 |
+| ELO Regular | 1245 🔻  (238)|
+| ELO Competitive | 1250 🔻  (346)|
+| Total Matches | 4 |
 | Wins | 3 |
 | Losses | 0 |
-| Draws | 0 |
-| Streak | 3 |
+| Draws | 1 |
 | Streak Record | 3 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725930607,1725451004,1724983135];
+        let timestamps = [1726375938,1725930607,1725451004,1724983135];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/09/20 | 3-3 | [AAAA](https://ws.tsl.rocks/corp/73b759d7c9218f2c1171f9ef691739331ca36ee045039f4f3f935a47b6622a27/) |
 | ✅ | 2024/09/15 | 7-3 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ✅ | 2024/09/09 | 6-1 | [QONQR ](https://ws.tsl.rocks/corp/5e23ade08a63b2c440a6a4c1a9ecfb6b1cfca34523c1a528d075bd06eaf5d019/) |
 | ✅ | 2024/09/04 | 7-0 | [WHITE NOVA](https://ws.tsl.rocks/corp/0a44ab86ca49a02fb932607f1095f0b5411c556bb9bb95aa1f20908be0b45d51/) |
