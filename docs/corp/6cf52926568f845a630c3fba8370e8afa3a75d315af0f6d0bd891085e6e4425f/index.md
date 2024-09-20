@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Antioch
-description: W:10 L:17 D:0 Bonus ❌
-date: 1726190417
+description: W:10 L:18 D:0 Bonus ❌
+date: 1726861449
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1148 🔻  (1048)|
-| ELO Competitive | 1183 🔻  (870)|
-| Total Matches | 27 |
+| ELO Regular | 1142 🔻  (1069)|
+| ELO Competitive | 1178 🔻  (921)|
+| Total Matches | 28 |
 | Wins | 10 |
-| Losses | 17 |
+| Losses | 18 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725758417,1724880067,1724245388,1723165635,1721287126,1720493094,1717224671,1715907080,1714990700,1714489433,1714040233,1712973600,1712019297,1711041231,1710435486,1708822535,1708297767,1707491180,1706926375,1706325344,1705632659,1705197822,1704744952,1704231974,1703765564,1703187637,1702689476];
+        let timestamps = [1726429449,1725758417,1724880067,1724245388,1723165635,1721287126,1720493094,1717224671,1715907080,1714990700,1714489433,1714040233,1712973600,1712019297,1711041231,1710435486,1708822535,1708297767,1707491180,1706926375,1706325344,1705632659,1705197822,1704744952,1704231974,1703765564,1703187637,1702689476];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/20 | 5-29 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) |
 | ❌ | 2024/09/13 | 7-26 | [CTG](https://ws.tsl.rocks/corp/9647a8507dfa5637a217d2d6a0ad47aefb6a4563f910ad46376c228450cff43c/) |
 | ❌ | 2024/09/02 | 3-29 | [Embers Rising](https://ws.tsl.rocks/corp/30173fb6f0cf7a6d78f30c60350646ad6bc0d667a14854bdc9abbc19cd7d0327/) |
 | ✅ | 2024/08/26 | 22-1 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |
