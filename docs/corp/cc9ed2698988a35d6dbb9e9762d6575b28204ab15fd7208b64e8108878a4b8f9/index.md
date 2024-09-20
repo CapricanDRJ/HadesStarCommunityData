@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Interestelar
-description: W:10 L:2 D:0 Bonus ✅
+description: W:10 L:2 D:0 Bonus ❌
 date: 1726236997
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
