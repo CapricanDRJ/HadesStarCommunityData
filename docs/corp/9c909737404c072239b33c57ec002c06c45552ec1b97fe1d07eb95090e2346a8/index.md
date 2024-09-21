@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Minutemen
-description: W:9 L:13 D:0 Bonus ✅
-date: 1726326246
+description: W:9 L:14 D:0 Bonus ✅
+date: 1726933268
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔺  (782)|
-| ELO Competitive | 1210 🔺  (520)|
-| Total Matches | 22 |
+| ELO Regular | 1176 🔻  (822)|
+| ELO Competitive | 1204 🔻  (538)|
+| Total Matches | 23 |
 | Wins | 9 |
-| Losses | 13 |
+| Losses | 14 |
 | Draws | 0 |
 | Streak Record | 3 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725894246,1725205815,1721403420,1721393200,1717958998,1717339196,1716773302,1716127612,1715537531,1714924606,1714319366,1713712751,1713128061,1712523203,1711915028,1711305962,1710707125,1710100475,1709510349,1708899765,1707677941,1707106081];
+        let timestamps = [1726501268,1725894246,1725205815,1721403420,1721393200,1717958998,1717339196,1716773302,1716127612,1715537531,1714924606,1714319366,1713712751,1713128061,1712523203,1711915028,1711305962,1710707125,1710100475,1709510349,1708899765,1707677941,1707106081];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/21 | 4-45 | [OntarioDawn](https://ws.tsl.rocks/corp/1a002c71f3aba5da5918941fa2ba4dbbfc183ad52d97d44a25718e07e6b08a03/) |
 | ✅ | 2024/09/14 | 23-15 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ❌ | 2024/09/06 | 12-21 | [INFINITY STAR](https://ws.tsl.rocks/corp/e36eb12fc6bc8e4b826e6bcb46020cad3eb616497c4c14075e8b657715898a9f/) |
 | ❌ | 2024/07/24 | 3-18 | [StellaMysterium](https://ws.tsl.rocks/corp/cfaaa81ed93cc9361ade470c3414c73ecf77068badd68d624c7b3f486d142b10/) |
