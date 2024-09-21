@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Bl@ck/Galaxy 
-description: W:23 L:13 D:1 Bonus ✅
-date: 1726334963
+description: W:24 L:13 D:1 Bonus ✅
+date: 1726937176
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1398 🔺  (47)|
-| ELO Competitive | 1437 🔺  (74)|
-| Total Matches | 37 |
-| Wins | 23 |
+| ELO Regular | 1409 🔺  (38)|
+| ELO Competitive | 1453 🔺  (59)|
+| Total Matches | 38 |
+| Wins | 24 |
 | Losses | 13 |
 | Draws | 1 |
-| Streak | 13 |
-| Streak Record | 13 |
+| Streak | 14 |
+| Streak Record | 14 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725902963,1725318803,1724690150,1724088829,1723489293,1722877453,1722268021,1721680500,1721049108,1720488887,1719849667,1719261136,1718657855,1718038637,1717428460,1716833406,1716222255,1715627967,1715013237,1714410407,1713804386,1713204679,1712591409,1711989246,1711480531,1710787048,1710181599,1709584863,1708993815,1708512123,1706563661,1705956021,1705364608,1704780410,1702944038,1702198382,1700640348];
+        let timestamps = [1726505176,1725902963,1725318803,1724690150,1724088829,1723489293,1722877453,1722268021,1721680500,1721049108,1720488887,1719849667,1719261136,1718657855,1718038637,1717428460,1716833406,1716222255,1715627967,1715013237,1714410407,1713804386,1713204679,1712591409,1711989246,1711480531,1710787048,1710181599,1709584863,1708993815,1708512123,1706563661,1705956021,1705364608,1704780410,1702944038,1702198382,1700640348];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,8 +118,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Warriorlords](https://ws.tsl.rocks/corp/a78c29b9e1c9f793205ba10d796dcabc114ef43d86f0bd34a43a56dc6da768aa/) | 3 | 0 | 0 | 3 |
 | [OntarioDawn](https://ws.tsl.rocks/corp/1a002c71f3aba5da5918941fa2ba4dbbfc183ad52d97d44a25718e07e6b08a03/) | 1 | 2 | 0 | 3 |
-| [Warriorlords](https://ws.tsl.rocks/corp/a78c29b9e1c9f793205ba10d796dcabc114ef43d86f0bd34a43a56dc6da768aa/) | 2 | 0 | 0 | 2 |
 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) | 2 | 0 | 0 | 2 |
 | [CDG](https://ws.tsl.rocks/corp/0372d45acdd50729ec92e18f0e973f382362ae554f8d15778250b493e887cce2/) | 0 | 2 | 0 | 2 |
 | [YETI Collective](https://ws.tsl.rocks/corp/ff6a3c65d008d245f003a3009374e26cf38e7cda6ea4d601a9da9037296fda98/) | 2 | 0 | 0 | 2 |
@@ -128,6 +128,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/21 | 26-5 | [Warriorlords](https://ws.tsl.rocks/corp/a78c29b9e1c9f793205ba10d796dcabc114ef43d86f0bd34a43a56dc6da768aa/) |
 | ✅ | 2024/09/14 | 32-0 | [Equinox](https://ws.tsl.rocks/corp/666001c1d87fbfcf6a3d8614e2b5b9f0e4aa96fa4c098c004bea9fb92ed330c2/) |
 | ✅ | 2024/09/07 | 38-1 | [Tormenta](https://ws.tsl.rocks/corp/537807f41149f54b040d4f2bc983c7f1fbfa2242ec5566371330e4996e33a195/) |
 | ✅ | 2024/08/31 | 30-29 | [OntarioDawn](https://ws.tsl.rocks/corp/1a002c71f3aba5da5918941fa2ba4dbbfc183ad52d97d44a25718e07e6b08a03/) |

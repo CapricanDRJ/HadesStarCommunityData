@@ -69,7 +69,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) | 1183 | 1186 | 1 |
 | [Best UA West](https://ws.tsl.rocks/corp/4d9a4fb86f55f49b64d6170705b42f7a2c988cc389331425c13603b0ebce6146/) | 1144 | 1144 | 4 |
 | [Betelgeuse](https://ws.tsl.rocks/corp/fdd9da8c45ea525e6dd825eede02253ebe322523e06a0e1c30ccb0401c60e081/) | 1186 | 1186 | 1 |
-| [Bl@ck/Galaxy ](https://ws.tsl.rocks/corp/76f8fe0dcd8b8c1cb8e0083f14c0b36c23bb9757a3af0f191b567774c02222a3/) | 1398 | 1437 | 37 |
+| [Bl@ck/Galaxy ](https://ws.tsl.rocks/corp/76f8fe0dcd8b8c1cb8e0083f14c0b36c23bb9757a3af0f191b567774c02222a3/) | 1409 | 1453 | 38 |
 | [Black Mirror Co](https://ws.tsl.rocks/corp/0f50fbb3940836c7065ddc39d09a4b6b286e8a3adb62ee5f46c3a4c9b74a759e/) | 1186 | 1186 | 1 |
 | [Black Nova](https://ws.tsl.rocks/corp/cb105440b3ec587284776e5d0b0f311a49a096ea3ce609d564228de80cb4e1c4/) | 1191 | 1192 | 1 |
 | [Black Star llc\.](https://ws.tsl.rocks/corp/f6cd5aed527efed3a402f931784d68b5b7201b317118a60bd3d81b551ee87330/) | 1312 | 1383 | 49 |
@@ -300,7 +300,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Goblin Squad](https://ws.tsl.rocks/corp/8157fdbc504136281be1becade034cac02082d8e81459a1ec1190bbe7a9f5331/) | 1165 | 1210 | 10 |
 | [Gold Star](https://ws.tsl.rocks/corp/4f4d16d4a152e144c7bddd46c7d63debbbd550fdae5fe720860a334546330de2/) | 1130 | 1135 | 13 |
 | [GoS Academy](https://ws.tsl.rocks/corp/23642612f29270c92ef558ea2fc95470c74d88c15c5a4c98fce8399d73c5ff6b/) | 1186 | 1186 | 1 |
-| [Got Nothing](https://ws.tsl.rocks/corp/ea7879fd9cbed37b260ec2bf39339786942fb34216036a90e107ba525f5924e1/) | 1227 | 1248 | 25 |
+| [Got Nothing](https://ws.tsl.rocks/corp/ea7879fd9cbed37b260ec2bf39339786942fb34216036a90e107ba525f5924e1/) | 1249 | 1272 | 26 |
 | [Grand Mechanism](https://ws.tsl.rocks/corp/cdae35a4dff3b9b84fa6e79966de8f58259e9ea95a366abeaa8a103815dfa7b3/) | 1168 | 1172 | 8 |
 | [Grater T](https://ws.tsl.rocks/corp/2044ad2bb7831118aae299744191230a33d196c7997f9516a20c3d0a321ba669/) | 1221 | 1295 | 22 |
 | [Grater U](https://ws.tsl.rocks/corp/0e4162ae372602616761a4d3d17986722b9cc8c4371f9ddeadb3d0d37aace4fa/) | 1205 | 1208 | 2 |
@@ -812,7 +812,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [TROLL SQUAD](https://ws.tsl.rocks/corp/91daecf0251a6a1eee3d92820695d021c1f949e194cc5003d7cdebe59ef4502e/) | 1256 | 1261 | 16 |
 | [tropa \(BR\)](https://ws.tsl.rocks/corp/c5b272089230f78a35d3bee9ed1eb0cc2b3a65703f2452b603286e889efa74c9/) | 1139 | 1149 | 21 |
 | [Troy](https://ws.tsl.rocks/corp/eab7cf569ca39b6889d9c7b558abe94f4f5861ad6cdfea0cf167f5769f45315c/) | 1186 | 1186 | 1 |
-| [Tuatha De Danan](https://ws.tsl.rocks/corp/7741dbd0c9e7ddbc162e374691cb3346e4bb6600840f7962ec4a4414d5d2f780/) | 1407 | 1483 | 63 |
+| [Tuatha De Danan](https://ws.tsl.rocks/corp/7741dbd0c9e7ddbc162e374691cb3346e4bb6600840f7962ec4a4414d5d2f780/) | 1385 | 1459 | 64 |
 | [TUSFO星舰第二联邦](https://ws.tsl.rocks/corp/ce300265f7ff838a94e6b41da8dca8d346f0b2200c2ae84d309ef97d4af2777c/) | 1172 | 1180 | 2 |
 | [Two kitties](https://ws.tsl.rocks/corp/415346ff6e66cb31073d6c917b311d221638ac2dcb73e3b21054880ba1fe6416/) | 1185 | 1185 | 1 |
 | [Tycho Corp](https://ws.tsl.rocks/corp/ac893a601cffbd395aa465681401698639a13e61457252dd65b091e650498426/) | 1176 | 1176 | 2 |
@@ -876,7 +876,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [W\.O\.A](https://ws.tsl.rocks/corp/370b192c19a9b80c310a56257171e1a57b25597300cb2daf6f45ee441239aef7/) | 1184 | 1187 | 1 |
 | [Wacky Wabbits](https://ws.tsl.rocks/corp/c0af31b9cd252e7a0621043e7e37f4cd497b96e0806f3310c8e1fd6757296c20/) | 1194 | 1200 | 4 |
 | [Warp Dominion](https://ws.tsl.rocks/corp/ccd60dbdf5091bcb2d6b0f011ba1a3645e89baed985e2e455b2e1de1412769c5/) | 1212 | 1217 | 5 |
-| [Warriorlords](https://ws.tsl.rocks/corp/a78c29b9e1c9f793205ba10d796dcabc114ef43d86f0bd34a43a56dc6da768aa/) | 1314 | 1442 | 35 |
+| [Warriorlords](https://ws.tsl.rocks/corp/a78c29b9e1c9f793205ba10d796dcabc114ef43d86f0bd34a43a56dc6da768aa/) | 1303 | 1427 | 36 |
 | [Warriors](https://ws.tsl.rocks/corp/5f7939d9e637fca46378b31a0bc98715e317da22c2a819707276e7d779044d83/) | 1228 | 1228 | 4 |
 | [Warriors union](https://ws.tsl.rocks/corp/414b486648e1871ce70a5ac9f1a65f02a15d6a38eebc99c23ab68016ba988ea8/) | 1162 | 1163 | 9 |
 | [We R Bad](https://ws.tsl.rocks/corp/f5cb2c2ba88483bac00f814e32a0d862e4f3a0a10cc614b33ecb9e846766aae0/) | 1132 | 1133 | 5 |
