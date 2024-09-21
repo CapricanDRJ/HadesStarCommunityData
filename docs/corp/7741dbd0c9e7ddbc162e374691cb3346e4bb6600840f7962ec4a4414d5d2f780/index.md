@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Tuatha De Danan
-description: W:49 L:15 D:0 Bonus ✅
+description: W:49 L:15 D:0 Bonus ❌
 date: 1726937476
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
