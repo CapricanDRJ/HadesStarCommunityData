@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​StarControl
-description: W:23 L:7 D:0 Bonus ✅
-date: 1726337968
+description: W:24 L:7 D:0 Bonus ✅
+date: 1726949801
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1407 🔺  (41)|
-| ELO Competitive | 1478 🔺  (44)|
-| Total Matches | 30 |
-| Wins | 23 |
+| ELO Regular | 1412 🔺  (33)|
+| ELO Competitive | 1483 🔺  (42)|
+| Total Matches | 31 |
+| Wins | 24 |
 | Losses | 7 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 7 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725905968,1724679630,1724078910,1723481778,1722785796,1722269825,1721043697,1720464847,1719260684,1718790671,1718178972,1717617509,1716211736,1715561269,1714939330,1714323273,1713759619,1713142782,1711958593,1710728459,1709515756,1705929869,1705258229,1704679741,1704243694,1702761910,1701693463,1701031980,1700418855,1699824910];
+        let timestamps = [1726517801,1725905968,1724679630,1724078910,1723481778,1722785796,1722269825,1721043697,1720464847,1719260684,1718790671,1718178972,1717617509,1716211736,1715561269,1714939330,1714323273,1713759619,1713142782,1711958593,1710728459,1709515756,1705929869,1705258229,1704679741,1704243694,1702761910,1701693463,1701031980,1700418855,1699824910];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -128,6 +129,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/21 | 41-19 | [The Star League](https://ws.tsl.rocks/corp/f8b4a4ab48d0f4dc8e2d35c049289e4cd31960c34c0d114426164f223cdb5140/) |
 | ✅ | 2024/09/14 | 63-17 | [Stargate Corp](https://ws.tsl.rocks/corp/b698cd0d86be60954a4b995f79fffe102a71c350e47fbdc2a5827f0ed0ca455d/) |
 | ❌ | 2024/08/31 | 37-53 | [Legion](https://ws.tsl.rocks/corp/313baaeac1c759ca26e0f4bd3140711cffdfa85c287d4c992dcfb809908cf491/) |
 | ✅ | 2024/08/24 | 52-24 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) |

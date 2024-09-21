@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​SkitleStarOrder
-description: W:2 L:0 D:0 Bonus ✅
+description: W:2 L:0 D:0 Bonus ❌
 date: 1726329853
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
