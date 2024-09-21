@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​第四星际
-description: W:28 L:12 D:3 Bonus ❌
-date: 1726389646
+description: W:28 L:13 D:3 Bonus ❌
+date: 1726928157
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1305 🔻  (126)|
-| ELO Competitive | 1419 🔻  (86)|
-| Total Matches | 43 |
+| ELO Regular | 1295 🔻  (138)|
+| ELO Competitive | 1406 🔻  (101)|
+| Total Matches | 44 |
 | Wins | 28 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 3 |
 | Streak Record | 7 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725957646,1725511403,1725008977,1724245087,1723379599,1721896560,1721608673,1721382081,1721135069,1720852844,1720663796,1720250268,1720160117,1719588828,1719068646,1718635910,1718197603,1717713682,1717697450,1717262848,1717234288,1716822283,1716691857,1716290151,1716242688,1715210033,1715187498,1714599408,1714578373,1714127666,1713494334,1713345299,1712809313,1712337797,1711871752,1710077333,1709606496,1708689111,1708049961,1707412755,1706872281,1706120096,1705589382];
+        let timestamps = [1726496157,1725957646,1725511403,1725008977,1724245087,1723379599,1721896560,1721608673,1721382081,1721135069,1720852844,1720663796,1720250268,1720160117,1719588828,1719068646,1718635910,1718197603,1717713682,1717697450,1717262848,1717234288,1716822283,1716691857,1716290151,1716242688,1715210033,1715187498,1714599408,1714578373,1714127666,1713494334,1713345299,1712809313,1712337797,1711871752,1710077333,1709606496,1708689111,1708049961,1707412755,1706872281,1706120096,1705589382];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,12 +117,14 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Z\. O\. V\. ](https://ws.tsl.rocks/corp/4f56534357f2407b25faee160f9dca4ee83b8f9ca4425ba472a47298faf54096/) | 1 | 1 | 0 | 2 |
 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) | 2 | 0 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/21 | 3-22 | [Z\. O\. V\. ](https://ws.tsl.rocks/corp/4f56534357f2407b25faee160f9dca4ee83b8f9ca4425ba472a47298faf54096/) |
 | ❌ | 2024/09/15 | 3-33 | [Mercury Sunset](https://ws.tsl.rocks/corp/2771ec0a0e9523f8a7b62dd470c9ab87bf2bcf2b13fb47f6f97ea826337b2b20/) |
 | ❌ | 2024/09/10 | 2-14 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ↔️ | 2024/09/04 | 15-15 | [CIS](https://ws.tsl.rocks/corp/3efaab24560531ff257e73bfb281a7e9c0a9d591ac5aff55d05d35f2fb5e1d73/) |

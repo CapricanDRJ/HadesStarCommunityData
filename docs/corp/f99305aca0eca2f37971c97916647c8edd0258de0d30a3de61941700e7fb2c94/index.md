@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Corvus Ind.
-description: W:25 L:9 D:0 Bonus ❌
-date: 1724498888
+description: W:26 L:9 D:0 Bonus ✅
+date: 1726927556
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1382 🔺  (57)|
-| ELO Competitive | 1428 🔺  (79)|
-| Total Matches | 34 |
-| Wins | 25 |
+| ELO Regular | 1401 🔺  (45)|
+| ELO Competitive | 1450 🔺  (62)|
+| Total Matches | 35 |
+| Wins | 26 |
 | Losses | 9 |
 | Draws | 0 |
-| Streak | 6 |
-| Streak Record | 6 |
+| Streak | 7 |
+| Streak Record | 7 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724066888,1721587037,1720983594,1719686494,1719166925,1718565598,1717960501,1716746557,1716174783,1715543241,1714963362,1714319967,1713732584,1712514185,1711915028,1710699911,1710098973,1709487509,1708880532,1708273834,1708111371,1707671629,1707665698,1707073628,1706443746,1705833403,1705228772,1704628046,1704375012,1701631257,1701049109,1701023561,1699820400,1698743281];
+        let timestamps = [1726495556,1724066888,1721587037,1720983594,1719686494,1719166925,1718565598,1717960501,1716746557,1716174783,1715543241,1714963362,1714319967,1713732584,1712514185,1711915028,1710699911,1710098973,1709487509,1708880532,1708273834,1708111371,1707671629,1707665698,1707073628,1706443746,1705833403,1705228772,1704628046,1704375012,1701631257,1701049109,1701023561,1699820400,1698743281];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) | 2 | 0 | 0 | 2 |
 | [Дом Датэ](https://ws.tsl.rocks/corp/10cbcbd91c4084657bdab01ef573cc48170fbc4dd0ab533f96712f1cb6097ff2/) | 2 | 0 | 0 | 2 |
 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 2 | 0 | 0 | 2 |
 | [Looping](https://ws.tsl.rocks/corp/08524086f45f2e6109e583baf940197663aa3e155c32fcdbb04f319343a5eb0c/) | 2 | 0 | 0 | 2 |
@@ -129,6 +130,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/21 | 25-9 | [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) |
 | ✅ | 2024/08/24 | 27-9 | [Дом Датэ](https://ws.tsl.rocks/corp/10cbcbd91c4084657bdab01ef573cc48170fbc4dd0ab533f96712f1cb6097ff2/) |
 | ✅ | 2024/07/26 | 20-7 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) |
 | ✅ | 2024/07/19 | 28-21 | [Lacuna Ind\.](https://ws.tsl.rocks/corp/09f1be75e07236be87e2fa3f6e2f82f396666cd220f25f1250ba8b9e71e1e1b7/) |
