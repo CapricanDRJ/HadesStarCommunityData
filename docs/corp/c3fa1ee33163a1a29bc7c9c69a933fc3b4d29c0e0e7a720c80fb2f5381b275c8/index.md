@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​МАРСЮКИ
-description: W:35 L:1 D:0 Bonus ✅
-date: 1726287479
+description: W:36 L:1 D:0 Bonus ✅
+date: 1726893600
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1501 🔺  (9)|
-| ELO Competitive | 1535 🔺  (24)|
-| Total Matches | 36 |
-| Wins | 35 |
+| ELO Regular | 1507 🔺  (8)|
+| ELO Competitive | 1544 🔺  (20)|
+| Total Matches | 37 |
+| Wins | 36 |
 | Losses | 1 |
 | Draws | 0 |
-| Streak | 4 |
+| Streak | 5 |
 | Streak Record | 31 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725855479,1724995756,1724051563,1722829970,1721533838,1720410751,1719201782,1718602253,1718071390,1717639144,1717118293,1716029060,1715248485,1714119254,1713518369,1712804439,1712200478,1711607324,1710496776,1709782265,1708656360,1707541060,1707016226,1706251115,1705648585,1705130502,1704406872,1703347844,1702859887,1702252791,1701712401,1700860354,1700417051,1700117701,1699343403,1698764926];
+        let timestamps = [1726461600,1725855479,1724995756,1724051563,1722829970,1721533838,1720410751,1719201782,1718602253,1718071390,1717639144,1717118293,1716029060,1715248485,1714119254,1713518369,1712804439,1712200478,1711607324,1710496776,1709782265,1708656360,1707541060,1707016226,1706251115,1705648585,1705130502,1704406872,1703347844,1702859887,1702252791,1701712401,1700860354,1700417051,1700117701,1699343403,1698764926];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [星舰月球](https://ws.tsl.rocks/corp/b9a3e1e7fd3a235db7f440974db9210dc9a3b85c39fd437099f32f53cfe1e21c/) | 2 | 0 | 0 | 2 |
 | [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) | 2 | 1 | 0 | 3 |
 | [111](https://ws.tsl.rocks/corp/8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350/) | 2 | 0 | 0 | 2 |
 | [KLM](https://ws.tsl.rocks/corp/963e490e64d4703042415d3fcd8267ff87fbfd3383b83d447d29d842f2a446a1/) | 2 | 0 | 0 | 2 |
@@ -126,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/21 | 19-15 | [星舰月球](https://ws.tsl.rocks/corp/b9a3e1e7fd3a235db7f440974db9210dc9a3b85c39fd437099f32f53cfe1e21c/) |
 | ✅ | 2024/09/14 | 21-2 | [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/) |
 | ✅ | 2024/09/04 | 19-14 | [Providence](https://ws.tsl.rocks/corp/f12fc39ca2326de7c5ce96c005b1953c86430443f1f8b98e7515d082b43b4d4b/) |
 | ✅ | 2024/08/24 | 22-3 | [Hamburg AG 2](https://ws.tsl.rocks/corp/d4075195191cabef801494d3accc0e6cc8c09f534fd9203f6e43c9930acffa56/) |

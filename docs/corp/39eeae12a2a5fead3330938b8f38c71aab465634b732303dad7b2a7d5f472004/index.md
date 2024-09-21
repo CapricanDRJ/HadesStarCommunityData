@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Север РусКорп
-description: W:23 L:11 D:0 Bonus ✅
-date: 1726289583
+description: W:24 L:11 D:0 Bonus ✅
+date: 1726892796
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1322 🔺  (102)|
-| ELO Competitive | 1407 🔺  (100)|
-| Total Matches | 34 |
-| Wins | 23 |
+| ELO Regular | 1335 🔺  (88)|
+| ELO Competitive | 1418 🔺  (87)|
+| Total Matches | 35 |
+| Wins | 24 |
 | Losses | 11 |
 | Draws | 0 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 5 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725857583,1725278529,1724704276,1724693181,1724072942,1724062981,1723595973,1722780986,1722780385,1722252391,1721632710,1721596054,1721073761,1721071356,1720435690,1720404141,1719782660,1719776949,1719043095,1718404217,1716672328,1716084346,1715470523,1714885846,1714083206,1713558018,1712984116,1712337797,1711788819,1711313476,1710689693,1710191216,1709611546,1708931910];
+        let timestamps = [1726460796,1725857583,1725278529,1724704276,1724693181,1724072942,1724062981,1723595973,1722780986,1722780385,1722252391,1721632710,1721596054,1721073761,1721071356,1720435690,1720404141,1719782660,1719776949,1719043095,1718404217,1716672328,1716084346,1715470523,1714885846,1714083206,1713558018,1712984116,1712337797,1711788819,1711313476,1710689693,1710191216,1709611546,1708931910];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/21 | 24-0 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ✅ | 2024/09/14 | 36-1 | [佛矿寺](https://ws.tsl.rocks/corp/64f8afd95b7004e9d5a442da55644ee3ce64a9a8e82345c458d757b527e40624/) |
 | ✅ | 2024/09/07 | 24-2 | [Galaktika corp](https://ws.tsl.rocks/corp/c37872d1ea085402bf536c707a895610f72dafda4bede848405b7908b4523985/) |
 | ✅ | 2024/08/31 | 15-3 | [U\.S\.A](https://ws.tsl.rocks/corp/6d7a18e9893736881762a4e1b687b55e7311d367267ff5a9cc8e45722b14ea06/) |
