@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Titan Corp.
-description: W:22 L:17 D:0 Bonus ❌
-date: 1721239467
+description: W:22 L:18 D:0 Bonus ❌
+date: 1726935372
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1233 🔻  (283)|
-| ELO Competitive | 1315 🔻  (201)|
-| Total Matches | 39 |
+| ELO Regular | 1219 🔻  (334)|
+| ELO Competitive | 1303 🔻  (220)|
+| Total Matches | 40 |
 | Wins | 22 |
-| Losses | 17 |
+| Losses | 18 |
 | Draws | 0 |
 | Streak Record | 4 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1720807467,1718541551,1717591352,1716388094,1715607532,1715001817,1714394476,1713533994,1712163519,1712078187,1711449879,1711384080,1710926155,1710854346,1710312598,1709739298,1709650662,1709130533,1708521739,1707943887,1707236611,1707218879,1706620753,1706089741,1705839714,1705248610,1705081821,1704617526,1704406872,1703778790,1703340930,1702859286,1702309588,1702250387,1701612920,1701608410,1700998308,1700399014,1699759074];
+        let timestamps = [1726503372,1720807467,1718541551,1717591352,1716388094,1715607532,1715001817,1714394476,1713533994,1712163519,1712078187,1711449879,1711384080,1710926155,1710854346,1710312598,1709739298,1709650662,1709130533,1708521739,1707943887,1707236611,1707218879,1706620753,1706089741,1705839714,1705248610,1705081821,1704617526,1704406872,1703778790,1703340930,1702859286,1702309588,1702250387,1701612920,1701608410,1700998308,1700399014,1699759074];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -128,6 +128,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/21 | 0-30 | [Legion](https://ws.tsl.rocks/corp/313baaeac1c759ca26e0f4bd3140711cffdfa85c287d4c992dcfb809908cf491/) |
 | ❌ | 2024/07/17 | 7-43 | [Auscorp ](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) |
 | ❌ | 2024/06/21 | 23-26 | [Gummibärenbande](https://ws.tsl.rocks/corp/7111d11716d236254b3fe2fdc0df09519cbed1ee9cc2c7691983534a3d8e1366/) |
 | ✅ | 2024/06/10 | 26-23 | [Stargate Corp](https://ws.tsl.rocks/corp/b698cd0d86be60954a4b995f79fffe102a71c350e47fbdc2a5827f0ed0ca455d/) |
