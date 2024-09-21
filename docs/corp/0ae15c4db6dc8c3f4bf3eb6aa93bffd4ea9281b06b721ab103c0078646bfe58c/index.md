@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Спутник
-description: W:35 L:9 D:0 Bonus ✅
+description: W:35 L:9 D:0 Bonus ❌
 date: 1726302804
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

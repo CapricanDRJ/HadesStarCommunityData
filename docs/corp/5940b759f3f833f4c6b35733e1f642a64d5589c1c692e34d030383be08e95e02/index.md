@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Ark Summit
-description: W:12 L:0 D:0 Bonus ✅
+description: W:12 L:0 D:0 Bonus ❌
 date: 1726301901
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
