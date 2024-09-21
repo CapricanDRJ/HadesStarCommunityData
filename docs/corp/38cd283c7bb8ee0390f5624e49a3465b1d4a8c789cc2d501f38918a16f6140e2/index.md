@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​[Blue＊Nation]
-description: W:37 L:6 D:0 Bonus ❌
-date: 1725697609
+description: W:38 L:6 D:0 Bonus ✅
+date: 1726923047
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1509 🔺  (7)|
-| ELO Competitive | 1554 🔺  (17)|
-| Total Matches | 43 |
-| Wins | 37 |
+| ELO Regular | 1513 🔺  (7)|
+| ELO Competitive | 1557 🔺  (15)|
+| Total Matches | 44 |
+| Wins | 38 |
 | Losses | 6 |
 | Draws | 0 |
-| Streak | 28 |
-| Streak Record | 28 |
+| Streak | 29 |
+| Streak Record | 29 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725265609,1724639661,1724048559,1723449018,1722839885,1722230757,1721621292,1720419164,1719803990,1719201482,1718594441,1717992953,1717391492,1716778108,1716174782,1715571782,1714964864,1714363532,1713751809,1713152328,1712549640,1711937563,1711336008,1710734466,1710127216,1709523566,1708919592,1708338736,1707750354,1707117798,1706498746,1705898919,1705299996,1704690857,1704078708,1703476766,1702938027,1702264208,1701702179,1701057823,1700460929,1699849852,1699244245];
+        let timestamps = [1726491047,1725265609,1724639661,1724048559,1723449018,1722839885,1722230757,1721621292,1720419164,1719803990,1719201482,1718594441,1717992953,1717391492,1716778108,1716174782,1715571782,1714964864,1714363532,1713751809,1713152328,1712549640,1711937563,1711336008,1710734466,1710127216,1709523566,1708919592,1708338736,1707750354,1707117798,1706498746,1705898919,1705299996,1704690857,1704078708,1703476766,1702938027,1702264208,1701702179,1701057823,1700460929,1699849852,1699244245];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -128,6 +128,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/21 | 27-9 | [Kelebra](https://ws.tsl.rocks/corp/0b1ce787fadd83433c02fb7f56a905ea64f918c1396ac37b8591891adf232eb6/) |
 | ✅ | 2024/09/07 | 32-9 | [Utd\. Human Fed\.](https://ws.tsl.rocks/corp/265fd73116c2ec237c7a966adb401d54219dee49882ee9024025c697165397d6/) |
 | ✅ | 2024/08/31 | 17-3 | [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1/) |
 | ✅ | 2024/08/24 | 25-3 | [AKA](https://ws.tsl.rocks/corp/5fde3f409facbda701cdf21de0895eb7c7e17e2d472ae52cc0aa178ce2db64d6/) |
