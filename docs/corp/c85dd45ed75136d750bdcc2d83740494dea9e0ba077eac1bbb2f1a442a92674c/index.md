@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Gemini Ind.
-description: W:33 L:6 D:0 Bonus ✅
+description: W:33 L:6 D:0 Bonus ❌
 date: 1726262846
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
