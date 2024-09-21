@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​CCCP
-description: W:1 L:6 D:3 Bonus ❌
-date: 1726897807
+description: W:1 L:7 D:3 Bonus ❌
+date: 1726918839
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1132 🔻  (1099)|
+| ELO Regular | 1123 🔻  (1127)|
 | ELO Competitive | 1140 🔺  (1162)|
-| Total Matches | 10 |
+| Total Matches | 11 |
 | Wins | 1 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 3 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726465807,1715567227,1710768115,1706164570,1706140533,1705532894,1702195076,1701530572,1701092381,1699999530];
+        let timestamps = [1726486839,1726465807,1715567227,1710768115,1706164570,1706140533,1705532894,1702195076,1701530572,1701092381,1699999530];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/21 | 0-7 | [hades star萌新指引站](https://ws.tsl.rocks/corp/06feef105195a4e2ec026c0e3e2c62fce31204dfe6be8e4b26863935efbf8a50/) |
 | ↔️ | 2024/09/21 | 0-0 | [超新星联盟](https://ws.tsl.rocks/corp/c3667794c88fd0a09f565dc3b4fed5325f131a616d01d0f6890755b44997d0a1/) |
 | ↔️ | 2024/05/18 | 0-0 | [Goa'uld](https://ws.tsl.rocks/corp/6cfbe34768af3759518bfef230548e375dff664510e0670ea856313b90faec80/) |
 | ❌ | 2024/03/23 | 0-4 | [第五星际](https://ws.tsl.rocks/corp/8f0d25fe4c802f32f4d3d4ad1a84583c5ae98e4a788a1fa260ef9bd70268818b/) |

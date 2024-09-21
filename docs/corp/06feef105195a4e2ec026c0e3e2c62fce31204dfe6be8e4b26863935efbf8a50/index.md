@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​hades star萌新指引站
-description: W:5 L:0 D:1 Bonus ✅
-date: 1726476786
+description: W:6 L:0 D:1 Bonus ✅
+date: 1726918839
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1265 🔺  (189)|
-| ELO Competitive | 1280 🔺  (273)|
-| Total Matches | 6 |
-| Wins | 5 |
+| ELO Regular | 1275 🔺  (174)|
+| ELO Competitive | 1289 🔺  (251)|
+| Total Matches | 7 |
+| Wins | 6 |
 | Losses | 0 |
 | Draws | 1 |
-| Streak | 4 |
-| Streak Record | 4 |
+| Streak | 5 |
+| Streak Record | 5 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726044786,1725544157,1725078905,1724639060,1724206625,1723733000];
+        let timestamps = [1726486839,1726044786,1725544157,1725078905,1724639060,1724206625,1723733000];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/21 | 7-0 | [CCCP](https://ws.tsl.rocks/corp/34cd422237fc59472ea900588e5416892c4cceeae033e28f8352b61524a92ac7/) |
 | ✅ | 2024/09/16 | 8-0 | [数字星际集团](https://ws.tsl.rocks/corp/ccbf6be33652cb1b91bc9047b966ffdd6b313cc569d1e0a9fb832e6e8dc1d361/) |
 | ✅ | 2024/09/10 | 7-3 | [斯比纳兰](https://ws.tsl.rocks/corp/ce756ff97542e6fa8d518319e6575aae1d01eb23dd906fee3e3cbb98b442b68f/) |
 | ✅ | 2024/09/05 | 11-0 | [华夏三体舰队](https://ws.tsl.rocks/corp/a457b1d7612cdff92b655d33cf4ffd72b38aa796525cf0432423cfd0d01c6cf9/) |

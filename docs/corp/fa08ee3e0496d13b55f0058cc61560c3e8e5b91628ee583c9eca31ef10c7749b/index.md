@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​C'est pas faux!
-description: W:1 L:5 D:0 Bonus ✅
+description: W:1 L:5 D:0 Bonus ❌
 date: 1726298897
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
