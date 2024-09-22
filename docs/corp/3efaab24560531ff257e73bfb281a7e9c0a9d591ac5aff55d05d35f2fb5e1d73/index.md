@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​CIS
-description: W:34 L:4 D:1 Bonus ✅
-date: 1726477987
+description: W:35 L:4 D:1 Bonus ✅
+date: 1727029222
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1449 🔺  (21)|
-| ELO Competitive | 1515 🔺  (30)|
-| Total Matches | 39 |
-| Wins | 34 |
+| ELO Regular | 1453 🔺  (21)|
+| ELO Competitive | 1518 🔺  (28)|
+| Total Matches | 40 |
+| Wins | 35 |
 | Losses | 4 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 9 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726045987,1725008977,1723804217,1723048442,1722341340,1721564491,1720928884,1720923175,1720390976,1720366274,1719766129,1719758915,1719202683,1719191869,1718599248,1717939157,1717331679,1716817774,1716136326,1715513788,1715072423,1714329884,1713196564,1712151498,1711282516,1710759701,1710158759,1709472782,1708080908,1707154874,1706606929,1705765487,1704316418,1703214409,1702662729,1702127751,1701319594,1700354536,1699640631];
+        let timestamps = [1726597222,1726045987,1725008977,1723804217,1723048442,1722341340,1721564491,1720928884,1720923175,1720390976,1720366274,1719766129,1719758915,1719202683,1719191869,1718599248,1717939157,1717331679,1716817774,1716136326,1715513788,1715072423,1714329884,1713196564,1712151498,1711282516,1710759701,1710158759,1709472782,1708080908,1707154874,1706606929,1705765487,1704316418,1703214409,1702662729,1702127751,1701319594,1700354536,1699640631];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -128,6 +129,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/22 | 25-7 | [Created](https://ws.tsl.rocks/corp/04182a4606d981d1c410b0c058248e428765c672442d912ec47218ace9004e74/) |
 | ✅ | 2024/09/16 | 23-5 | [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541/) |
 | ↔️ | 2024/09/04 | 15-15 | [第四星际](https://ws.tsl.rocks/corp/42d38d5f95c493cb1822f0c89a5366e532a9dc30c0019e03cf7ddd280bf55040/) |
 | ✅ | 2024/08/21 | 33-25 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |
