@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​逐光起航
-description: W:5 L:31 D:5 Bonus ❌
-date: 1726657374
+description: W:5 L:32 D:5 Bonus ❌
+date: 1727003581
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1013 🔻  (1238)|
-| ELO Competitive | 1058 🔻  (1245)|
-| Total Matches | 41 |
+| ELO Regular | 1004 🔻  (1241)|
+| ELO Competitive | 1047 🔻  (1249)|
+| Total Matches | 42 |
 | Wins | 5 |
-| Losses | 31 |
+| Losses | 32 |
 | Draws | 5 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726225374,1725792973,1725359058,1724634716,1724494208,1724028127,1723361568,1723285839,1722840781,1722317602,1721359040,1720857653,1716897111,1716893204,1715859906,1715425447,1714903873,1714095522,1713507853,1713012632,1712301422,1711843083,1710881994,1710243490,1709726137,1708857088,1708373602,1707720907,1707283789,1706794449,1706285075,1705837610,1705395554,1704951101,1704348868,1703839266,1703254377,1702673364,1701754475,1701215011,1699956545];
+        let timestamps = [1726571581,1726225374,1725792973,1725359058,1724634716,1724494208,1724028127,1723361568,1723285839,1722840781,1722317602,1721359040,1720857653,1716897111,1716893204,1715859906,1715425447,1714903873,1714095522,1713507853,1713012632,1712301422,1711843083,1710881994,1710243490,1709726137,1708857088,1708373602,1707720907,1707283789,1706794449,1706285075,1705837610,1705395554,1704951101,1704348868,1703839266,1703254377,1702673364,1701754475,1701215011,1699956545];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/22 | 0-4 | [斯比纳兰](https://ws.tsl.rocks/corp/ce756ff97542e6fa8d518319e6575aae1d01eb23dd906fee3e3cbb98b442b68f/) |
 | ❌ | 2024/09/18 | 1-4 | [Star Fleet](https://ws.tsl.rocks/corp/b50e0529c2b2e86bae23d0fb4cbcdc4bff7615c45efb95150747a89dd3ea0231/) |
 | ❌ | 2024/09/13 | 0-21 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
 | ❌ | 2024/09/08 | 1-6 | [Dark Halo](https://ws.tsl.rocks/corp/f6ed7c780faf133d3fe411b9ed88480608a56064328539891d1b4348242954f6/) |
