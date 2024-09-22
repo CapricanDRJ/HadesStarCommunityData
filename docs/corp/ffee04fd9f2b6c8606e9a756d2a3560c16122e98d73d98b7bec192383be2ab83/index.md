@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Shadow Lords
-description: W:0 L:1 D:0 Bonus ❌
-date: 1724326375
+description: W:0 L:2 D:0 Bonus ❌
+date: 1727018308
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (718)|
-| ELO Competitive | 1188 🔻  (705)|
-| Total Matches | 1 |
+| ELO Regular | 1170 🔻  (903)|
+| ELO Competitive | 1176 🔻  (938)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723894375];
+        let timestamps = [1726586308,1723894375];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/22 | 3-43 | [Nine's Own Goal](https://ws.tsl.rocks/corp/fd47245550708347721e341d893b73e7c23e0f3624053c47ce666e55641c9e9e/) |
 | ❌ | 2024/08/22 | 2-26 | [StellaMysterium](https://ws.tsl.rocks/corp/cfaaa81ed93cc9361ade470c3414c73ecf77068badd68d624c7b3f486d142b10/) |
 
 Corporation ID: ffee04fd9f2b6c8606e9a756d2a3560c16122e98d73d98b7bec192383be2ab83
