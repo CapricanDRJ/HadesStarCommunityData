@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​BRASIL STAR
-description: W:36 L:17 D:3 Bonus ✅
+description: W:36 L:17 D:3 Bonus ❌
 date: 1726946494
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
