@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Crux Cadre
-description: W:33 L:20 D:1 Bonus ✅
+description: W:33 L:20 D:1 Bonus ❌
 date: 1726364710
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
