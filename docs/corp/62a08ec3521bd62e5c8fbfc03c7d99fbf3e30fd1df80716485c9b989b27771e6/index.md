@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​The Watchers
-description: W:12 L:14 D:0 Bonus ✅
+description: W:12 L:14 D:0 Bonus ❌
 date: 1726407676
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
