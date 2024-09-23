@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​RGW
-description: W:16 L:6 D:0 Bonus ✅
+description: W:16 L:6 D:0 Bonus ❌
 date: 1726482794
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
