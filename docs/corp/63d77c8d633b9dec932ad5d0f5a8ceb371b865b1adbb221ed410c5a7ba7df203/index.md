@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​Cerulean Star
-description: W:21 L:17 D:0 Bonus ✅
+description: W:21 L:17 D:0 Bonus ❌
 date: 1726450949
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1244 🔺  (248)|
+| ELO Regular | 1244 🔺  (247)|
 | ELO Competitive | 1312 🔺  (210)|
 | Total Matches | 38 |
 | Wins | 21 |
