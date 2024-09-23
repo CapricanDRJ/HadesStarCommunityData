@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​M4-Valhalla
-description: W:0 L:7 D:0 Bonus ❌
-date: 1724854084
+description: W:0 L:8 D:0 Bonus ❌
+date: 1727088408
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1119 🔻  (1139)|
-| ELO Competitive | 1134 🔻  (1179)|
-| Total Matches | 7 |
+| ELO Regular | 1111 🔻  (1156)|
+| ELO Competitive | 1128 🔻  (1185)|
+| Total Matches | 8 |
 | Wins | 0 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724422084,1723968311,1723358261,1722483781,1721989114,1721463219,1711479028];
+        let timestamps = [1726656408,1724422084,1723968311,1723358261,1722483781,1721989114,1721463219,1711479028];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/23 | 0-16 | [  边界  ](https://ws.tsl.rocks/corp/86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a/) |
 | ❌ | 2024/08/28 | 0-14 | [ISERLOHN](https://ws.tsl.rocks/corp/6c287f852581788415a341fe40fa82f1f10d0da5752b2474833cb58351972699/) |
 | ❌ | 2024/08/23 | 0-3 | [Bunker](https://ws.tsl.rocks/corp/583eeb4aaa577ce5d9806fc637f83d7c02b2a29fa2d47eb38fd658be8ef93588/) |
 | ❌ | 2024/08/16 | 0-26 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
