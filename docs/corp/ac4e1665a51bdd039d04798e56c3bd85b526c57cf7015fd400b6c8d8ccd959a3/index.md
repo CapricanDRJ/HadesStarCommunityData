@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​63SALVADORES36
-description: W:1 L:4 D:1 Bonus ✅
+description: W:1 L:4 D:1 Bonus ❌
 date: 1726996970
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
