@@ -1,21 +1,20 @@
 ---
 layout: page
 title: ​First Squad
-description: W:4 L:7 D:0 Bonus ✅
-date: 1726606902
+description: W:5 L:8 D:0 Bonus ✅
+date: 1727212935
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔺  (783)|
-| ELO Competitive | 1186 🔺  (736)|
-| Total Matches | 11 |
-| Wins | 4 |
-| Losses | 7 |
+| ELO Regular | 1168 🔻  (938)|
+| ELO Competitive | 1199 🔺  (589)|
+| Total Matches | 13 |
+| Wins | 5 |
+| Losses | 8 |
 | Draws | 0 |
-| Streak | 3 |
-| Streak Record | 3 |
+| Streak Record | 4 |
 
 
 # Whitestar Match Day
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726174902,1726174302,1725013784,1717527346,1716602003,1714325677,1710971228,1707487273,1704271635,1701628552,1700869973];
+        let timestamps = [1726780935,1726780635,1726174902,1726174302,1725013784,1717527346,1716602003,1714325677,1710971228,1707487273,1704271635,1701628552,1700869973];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +123,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/24 | 3-17 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
+| ✅ | 2024/09/24 | 38-3 | [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) |
 | ✅ | 2024/09/17 | 8-6 | [Galaktika corp](https://ws.tsl.rocks/corp/c37872d1ea085402bf536c707a895610f72dafda4bede848405b7908b4523985/) |
 | ✅ | 2024/09/17 | 26-0 | [Aggronauten](https://ws.tsl.rocks/corp/3bc8488b4cde8d611cbc48bac64a708c40e9954bc2c221dddafb0240b734c679/) |
 | ✅ | 2024/09/04 | 37-0 | [华夏舰队](https://ws.tsl.rocks/corp/abd6d05a100ffdde2d15abd725a209bfbbf069b60b10ddeac88e88da66191472/) |
