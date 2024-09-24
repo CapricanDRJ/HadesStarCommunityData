@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Deadspace
-description: W:21 L:28 D:0 Bonus ✅
+description: W:21 L:28 D:0 Bonus ❌
 date: 1726992163
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
