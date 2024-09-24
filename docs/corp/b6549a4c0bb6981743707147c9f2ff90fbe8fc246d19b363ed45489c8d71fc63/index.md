@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​PSI Division
-description: W:0 L:1 D:0 Bonus ❌
-date: 1726760155
+description: W:0 L:1 D:1 Bonus ❌
+date: 1727192499
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (719)|
-| ELO Competitive | 1185 🔻  (847)|
-| Total Matches | 1 |
+| ELO Regular | 1185 🔺  (654)|
+| ELO Competitive | 1187 🔺  (715)|
+| Total Matches | 2 |
 | Wins | 0 |
 | Losses | 1 |
-| Draws | 0 |
+| Draws | 1 |
 
 
 # Whitestar Match Day
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726328155];
+        let timestamps = [1726760499,1726328155];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/09/24 | 0-0 | [闲散人员](https://ws.tsl.rocks/corp/4f0fa774b66e4f744a305525f92e7252205ae754df0f3982b577b32caf32cdbc/) |
 | ❌ | 2024/09/19 | 0-9 | [哈迪斯之星，启动！](https://ws.tsl.rocks/corp/bc58305a02f7392f340d26a3becd4784de7360dd5264df9e85d73116b93496d8/) |
 
 Corporation ID: b6549a4c0bb6981743707147c9f2ff90fbe8fc246d19b363ed45489c8d71fc63

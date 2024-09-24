@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Fang Empire
-description: W:0 L:1 D:0 Bonus ❌
-date: 1707633151
+description: W:0 L:2 D:0 Bonus ❌
+date: 1727187389
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (632)|
-| ELO Competitive | 1186 🔻  (766)|
-| Total Matches | 1 |
+| ELO Regular | 1166 🔻  (952)|
+| ELO Competitive | 1172 🔻  (1000)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1707201151];
+        let timestamps = [1726755389,1707201151];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/24 | 0-9 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
 | ❌ | 2024/02/11 | 0-2 | [萌新收留所](https://ws.tsl.rocks/corp/c71b7f7455104472969a9e2632e182bf01b3b7aa8b1fa75dcfc75cd2733a54a9/) |
 
 Corporation ID: 3d903fdc947fc738eddae3b29d9759a754c972382ca06dafc30596f20cac6be6
