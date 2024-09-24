@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​Лютые
-description: W:11 L:10 D:1 Bonus ❌
-date: 1726540191
+description: W:12 L:10 D:1 Bonus ✅
+date: 1727166785
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1244 🔺  (243)|
-| ELO Competitive | 1315 🔺  (202)|
-| Total Matches | 22 |
-| Wins | 11 |
+| ELO Regular | 1257 🔺  (210)|
+| ELO Competitive | 1327 🔺  (184)|
+| Total Matches | 23 |
+| Wins | 12 |
 | Losses | 10 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 3 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726108191,1723089308,1718909075,1718251096,1718173864,1717652666,1717053358,1717047072,1716444276,1716396808,1715836773,1715779687,1715237669,1715200720,1714724394,1714713578,1714258672,1711643680,1710435185,1708722472,1707662311,1704057375];
+        let timestamps = [1726734785,1726108191,1723089308,1718909075,1718251096,1718173864,1717652666,1717053358,1717047072,1716444276,1716396808,1715836773,1715779687,1715237669,1715200720,1714724394,1714713578,1714258672,1711643680,1710435185,1708722472,1707662311,1704057375];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,12 +118,14 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [●Black•Sails●](https://ws.tsl.rocks/corp/fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31/) | 2 | 0 | 0 | 2 |
 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) | 2 | 0 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/24 | 21-2 | [●Black•Sails●](https://ws.tsl.rocks/corp/fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31/) |
 | ✅ | 2024/09/17 | 23-10 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ❌ | 2024/08/13 | 5-15 | [Death Star llc\.](https://ws.tsl.rocks/corp/3dd4906939827fa7537a3e95f8d75948c06b75a98f3c4aab253ea79857d2ce81/) |
 | ❌ | 2024/06/25 | 8-12 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) |

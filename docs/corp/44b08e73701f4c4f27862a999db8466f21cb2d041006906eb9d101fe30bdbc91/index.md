@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​ua online
-description: W:0 L:2 D:0 Bonus ❌
-date: 1705775870
+description: W:0 L:2 D:1 Bonus ❌
+date: 1727170260
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (920)|
-| ELO Competitive | 1171 🔻  (1002)|
-| Total Matches | 2 |
+| ELO Regular | 1163 🔻  (971)|
+| ELO Competitive | 1166 🔻  (1051)|
+| Total Matches | 3 |
 | Wins | 0 |
 | Losses | 2 |
-| Draws | 0 |
+| Draws | 1 |
 
 
 # Whitestar Match Day
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1705343870,1704759077];
+        let timestamps = [1726738260,1705343870,1704759077];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/09/24 | 0-0 | [逐光起航](https://ws.tsl.rocks/corp/e6bb076aa209101b5fa1cbc40a614c241d71ab5eca143c733b81aed6302455e8/) |
 | ❌ | 2024/01/20 | 0-20 | [Atlas Star llc\.](https://ws.tsl.rocks/corp/3de5259ba12509e4d02854f1414caacf3d0aaaf79f417b9d843ff20ca35863dd/) |
 | ❌ | 2024/01/14 | 0-6 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 

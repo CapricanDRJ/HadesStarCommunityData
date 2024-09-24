@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​QONQR 
-description: W:0 L:1 D:0 Bonus ❌
-date: 1725883004
+description: W:0 L:2 D:0 Bonus ❌
+date: 1727167857
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (630)|
-| ELO Competitive | 1186 🔻  (763)|
-| Total Matches | 1 |
+| ELO Regular | 1177 🔻  (812)|
+| ELO Competitive | 1178 🔻  (924)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725451004];
+        let timestamps = [1726735857,1725451004];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/24 | 6-29 | [RGW](https://ws.tsl.rocks/corp/48a0b2c0f203025d10d1217dbcc5e27f3e31f56f2c407d61219c24ec88446be7/) |
 | ❌ | 2024/09/09 | 1-6 | [太阳系集团](https://ws.tsl.rocks/corp/50f5e0a888ce2f21c0980be0cbb1e444e1d7eeb9dcb2095c3e428bd5bde7a9f6/) |
 
 Corporation ID: 5e23ade08a63b2c440a6a4c1a9ecfb6b1cfca34523c1a528d075bd06eaf5d019
