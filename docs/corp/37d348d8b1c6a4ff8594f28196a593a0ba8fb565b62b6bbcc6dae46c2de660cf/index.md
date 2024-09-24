@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​物竞天择，适者生存
-description: W:1 L:1 D:0 Bonus ✅
+description: W:1 L:1 D:0 Bonus ❌
 date: 1726578048
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

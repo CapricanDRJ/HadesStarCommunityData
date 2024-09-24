@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​AFronteiraFinal
-description: W:22 L:7 D:1 Bonus ✅
+description: W:22 L:7 D:1 Bonus ❌
 date: 1726576846
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​星环建设集团
-description: W:8 L:6 D:2 Bonus ❌
-date: 1726159838
+description: W:9 L:6 D:2 Bonus ✅
+date: 1727197909
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1218 🔺  (335)|
-| ELO Competitive | 1229 🔺  (407)|
-| Total Matches | 16 |
-| Wins | 8 |
+| ELO Regular | 1231 🔺  (287)|
+| ELO Competitive | 1246 🔺  (359)|
+| Total Matches | 17 |
+| Wins | 9 |
 | Losses | 6 |
 | Draws | 2 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725727838,1724811104,1717668291,1717181399,1716721608,1716219851,1715782091,1715271923,1714836273,1714366536,1713918255,1713453471,1713018673,1712563532,1712087203,1711610629];
+        let timestamps = [1726765909,1725727838,1724811104,1717668291,1717181399,1716721608,1716219851,1715782091,1715271923,1714836273,1714366536,1713918255,1713453471,1713018673,1712563532,1712087203,1711610629];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/24 | 5-0 | [империя тьмы](https://ws.tsl.rocks/corp/4eb22a1b793e5d03579cea15c873b1bef56fea02420a4e55edb18a200f7fc46a/) |
 | ✅ | 2024/09/12 | 7-1 | [WHITE NOVA](https://ws.tsl.rocks/corp/0a44ab86ca49a02fb932607f1095f0b5411c556bb9bb95aa1f20908be0b45d51/) |
 | ✅ | 2024/09/02 | 5-0 | [Harpias](https://ws.tsl.rocks/corp/50c6c340f8c3233d778440793c211c5e07356b8a40a06d238163e76f9b4a24b9/) |
 | ❌ | 2024/06/11 | 2-10 | [Sich\.ua](https://ws.tsl.rocks/corp/9fcd6d7c4fe7f8e39acf48585dfe9c6d3d14edc7781fe8caf85618b3e98c685d/) |
