@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Atlas corp
-description: W:6 L:10 D:1 Bonus ✅
+description: W:6 L:10 D:1 Bonus ❌
 date: 1726669395
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
