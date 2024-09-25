@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Мертвый Космос
-description: W:0 L:1 D:0 Bonus ❌
-date: 1726728458
+description: W:0 L:2 D:0 Bonus ❌
+date: 1727297067
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1177 🔻  (807)|
-| ELO Competitive | 1179 🔻  (918)|
-| Total Matches | 1 |
+| ELO Regular | 1165 🔻  (955)|
+| ELO Competitive | 1173 🔻  (979)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726296458];
+        let timestamps = [1726865067,1726296458];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/25 | 0-8 | [Sich\.ua](https://ws.tsl.rocks/corp/9fcd6d7c4fe7f8e39acf48585dfe9c6d3d14edc7781fe8caf85618b3e98c685d/) |
 | ❌ | 2024/09/19 | 0-2 | [Axioma](https://ws.tsl.rocks/corp/2ec904c87d0183a49e22dc53508fa5c75d6e638e3a152a30336831697c60e91e/) |
 
 Corporation ID: 8bacd1eaca5711fdab180a944582a23351ca0b72caa5c2705b44a44b50f76b97

@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Hexwood
-description: W:8 L:4 D:0 Bonus ❌
-date: 1725226724
+description: W:9 L:4 D:0 Bonus ✅
+date: 1727295564
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1264 🔺  (195)|
-| ELO Competitive | 1278 🔺  (282)|
-| Total Matches | 12 |
-| Wins | 8 |
+| ELO Regular | 1273 🔺  (182)|
+| ELO Competitive | 1293 🔺  (241)|
+| Total Matches | 13 |
+| Wins | 9 |
 | Losses | 4 |
 | Draws | 0 |
-| Streak | 7 |
-| Streak Record | 7 |
+| Streak | 8 |
+| Streak Record | 8 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724794724,1720944211,1718913884,1717365052,1715610838,1713128061,1711499161,1708731486,1702808488,1702374203,1700914149,1699220512];
+        let timestamps = [1726863564,1724794724,1720944211,1718913884,1717365052,1715610838,1713128061,1711499161,1708731486,1702808488,1702374203,1700914149,1699220512];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/25 | 21-7 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) |
 | ✅ | 2024/09/01 | 12-7 | [Planet Express](https://ws.tsl.rocks/corp/be13b17a002cf203ab2a5a31d6c8024e7458b8eac569eb576be7f30844979c99/) |
 | ✅ | 2024/07/19 | 29-3 | [Oficina Tuga](https://ws.tsl.rocks/corp/2fff67029125a29f7fa3252e0f8387f3ae93c6c59bd05d358723e02f3199db72/) |
 | ✅ | 2024/06/25 | 13-3 | [Spaceballs](https://ws.tsl.rocks/corp/1e54a7ba8156a65b15f7f1358b682a10f856acb0f96d9e3b582c4ea175905839/) |
