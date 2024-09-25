@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​МеГаКо
-description: W:18 L:14 D:0 Bonus ✅
+description: W:18 L:14 D:0 Bonus ❌
 date: 1726626429
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
