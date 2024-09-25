@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Red_Coat_Mafia
-description: W:17 L:24 D:1 Bonus ✅
+description: W:17 L:24 D:1 Bonus ❌
 date: 1726638747
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
