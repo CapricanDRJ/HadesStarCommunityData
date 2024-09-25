@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Hungary First
-description: W:17 L:11 D:1 Bonus ✅
+description: W:17 L:11 D:1 Bonus ❌
 date: 1727266112
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

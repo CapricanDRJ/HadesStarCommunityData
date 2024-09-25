@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​КОРПОРАЦИЯ ЗЛА
-description: W:7 L:54 D:1 Bonus ❌
-date: 1726838296
+description: W:7 L:56 D:1 Bonus ❌
+date: 1727272122
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 853 🔻  (1265)|
-| ELO Competitive | 1063 🔻  (1248)|
-| Total Matches | 62 |
+| ELO Regular | 846 🔻  (1265)|
+| ELO Competitive | 1061 🔻  (1249)|
+| Total Matches | 64 |
 | Wins | 7 |
-| Losses | 54 |
+| Losses | 56 |
 | Draws | 1 |
 | Streak Record | 4 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726406296,1726401485,1725956444,1725956444,1725523722,1725100034,1725090417,1724647591,1724641464,1724207880,1724207827,1723770694,1723770264,1723303219,1723298162,1722857615,1722857315,1722422475,1722419808,1721985809,1721985809,1721549472,1721548863,1721109302,1721091491,1720654782,1720651477,1720199185,1720199185,1719764025,1719305451,1719281132,1718839061,1718836069,1718402714,1718399408,1717951947,1717943733,1717502901,1717496982,1717059166,1716614310,1716612831,1716176285,1716175384,1715739643,1715280000,1714844086,1713971432,1713969098,1712484128,1710792458,1710094765,1709069242,1708533460,1708529553,1706882799,1706080427,1704026118,1703530862,1700385790,1699127961];
+        let timestamps = [1726840122,1726839521,1726406296,1726401485,1725956444,1725956444,1725523722,1725100034,1725090417,1724647591,1724641464,1724207880,1724207827,1723770694,1723770264,1723303219,1723298162,1722857615,1722857315,1722422475,1722419808,1721985809,1721985809,1721549472,1721548863,1721109302,1721091491,1720654782,1720651477,1720199185,1720199185,1719764025,1719305451,1719281132,1718839061,1718836069,1718402714,1718399408,1717951947,1717943733,1717502901,1717496982,1717059166,1716614310,1716612831,1716176285,1716175384,1715739643,1715280000,1714844086,1713971432,1713969098,1712484128,1710792458,1710094765,1709069242,1708533460,1708529553,1706882799,1706080427,1704026118,1703530862,1700385790,1699127961];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,12 +117,12 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) | 0 | 9 | 0 | 9 |
+| [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 0 | 4 | 0 | 4 |
 | [Axiom](https://ws.tsl.rocks/corp/4000a010c205d318c766ba14fe1836eaab6652f1738a88cce8a8c69d0283e1b0/) | 0 | 14 | 0 | 14 |
 | [11th Engineers](https://ws.tsl.rocks/corp/7341e9a33a1baf2162870c795632dcd551d3c624b06456dac041fa049ba67a9a/) | 0 | 1 | 1 | 2 |
 | [StellaMysterium](https://ws.tsl.rocks/corp/cfaaa81ed93cc9361ade470c3414c73ecf77068badd68d624c7b3f486d142b10/) | 1 | 1 | 0 | 2 |
 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) | 0 | 2 | 0 | 2 |
-| [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 0 | 3 | 0 | 3 |
-| [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) | 0 | 8 | 0 | 8 |
 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) | 0 | 2 | 0 | 2 |
 | [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046/) | 0 | 2 | 0 | 2 |
 | [the heavy](https://ws.tsl.rocks/corp/fc91552441e9553b76df7ca1870d63c6fd9e50f9c98a3d2bb9f6979b47bd845f/) | 2 | 0 | 0 | 2 |
@@ -132,6 +132,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/25 | 0-7 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) |
+| ❌ | 2024/09/25 | 0-20 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | ❌ | 2024/09/20 | 0-7 | [对，进就进人少的（分团）](https://ws.tsl.rocks/corp/69a860d3020745a9088fa70fa7ebc4caaa8a6181832961bcd607fbfa627203f3/) |
 | ❌ | 2024/09/20 | 0-16 | [DeutschlandGmbH](https://ws.tsl.rocks/corp/7f4550924e4740a47b7d66c9ddf38d65c37590507caab29eecc74f81a4ae2895/) |
 | ❌ | 2024/09/15 | 0-3 | [Axiom](https://ws.tsl.rocks/corp/4000a010c205d318c766ba14fe1836eaab6652f1738a88cce8a8c69d0283e1b0/) |
