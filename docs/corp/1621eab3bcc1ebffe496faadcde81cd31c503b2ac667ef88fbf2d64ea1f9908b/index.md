@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​IX Легион
-description: W:53 L:34 D:0 Bonus ✅
+description: W:53 L:34 D:0 Bonus ❌
 date: 1727253191
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1361 🔻  (68)|
+| ELO Regular | 1361 🔻  (69)|
 | ELO Competitive | 1557 🔻  (17)|
 | Total Matches | 87 |
 | Wins | 53 |
