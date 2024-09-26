@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​游徒之家
-description: W:11 L:9 D:0 Bonus ✅
+description: W:11 L:9 D:0 Bonus ❌
 date: 1726742717
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
