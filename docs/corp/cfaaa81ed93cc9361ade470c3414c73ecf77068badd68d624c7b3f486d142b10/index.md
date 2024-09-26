@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​StellaMysterium
-description: W:24 L:28 D:1 Bonus ✅
+description: W:24 L:28 D:1 Bonus ❌
 date: 1727229758
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

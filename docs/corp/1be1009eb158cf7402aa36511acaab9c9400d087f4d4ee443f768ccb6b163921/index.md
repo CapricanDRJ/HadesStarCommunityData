@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​红日初升，其道大光
-description: W:19 L:6 D:0 Bonus ❌
-date: 1727268816
+description: W:20 L:6 D:0 Bonus ✅
+date: 1727340333
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1303 🔻  (128)|
-| ELO Competitive | 1324 🔻  (192)|
-| Total Matches | 25 |
-| Wins | 19 |
+| ELO Regular | 1322 🔺  (103)|
+| ELO Competitive | 1366 🔺  (138)|
+| Total Matches | 26 |
+| Wins | 20 |
 | Losses | 6 |
 | Draws | 0 |
 | Streak Record | 8 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726836816,1725667063,1725667063,1724968075,1724947676,1724507734,1724502322,1724072598,1724070194,1723630827,1723618809,1723186368,1723183663,1722749728,1722749728,1722317602,1722271629,1721865011,1721825940,1721401015,1721393200,1720950824,1720767186,1720492493,1720002326];
+        let timestamps = [1726908333,1726836816,1725667063,1725667063,1724968075,1724947676,1724507734,1724502322,1724072598,1724070194,1723630827,1723618809,1723186368,1723183663,1722749728,1722749728,1722317602,1722271629,1721865011,1721825940,1721401015,1721393200,1720950824,1720767186,1720492493,1720002326];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/26 | 5-4 | [TeddisaurusWrex](https://ws.tsl.rocks/corp/88f37fd0ab1f14c7e06af4173800167f8d1f5db4022c1cd42637da431140ef7a/) |
 | ❌ | 2024/09/25 | 1-9 | [AAAA](https://ws.tsl.rocks/corp/73b759d7c9218f2c1171f9ef691739331ca36ee045039f4f3f935a47b6622a27/) |
 | ❌ | 2024/09/11 | 0-6 | [SiriusStrawMoo](https://ws.tsl.rocks/corp/c83a5744ea256d2c1fa59660bc0e18e8d01a2a467bc13fec27a8b30f689e220b/) |
 | ❌ | 2024/09/11 | 0-23 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
