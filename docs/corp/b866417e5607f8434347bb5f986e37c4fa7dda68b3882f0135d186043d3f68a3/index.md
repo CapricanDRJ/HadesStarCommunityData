@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​VoidCorp
-description: W:25 L:24 D:1 Bonus ✅
+description: W:25 L:24 D:1 Bonus ❌
 date: 1727194903
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1259 🔻  (208)|
+| ELO Regular | 1259 🔻  (209)|
 | ELO Competitive | 1313 🔻  (208)|
 | Total Matches | 50 |
 | Wins | 25 |

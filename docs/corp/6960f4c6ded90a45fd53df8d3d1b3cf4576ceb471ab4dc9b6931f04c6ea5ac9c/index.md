@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​代代守护你的神明
-description: W:7 L:5 D:0 Bonus ❌
-date: 1704547668
+description: W:7 L:7 D:0 Bonus ❌
+date: 1727332821
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1225 🔺  (311)|
-| ELO Competitive | 1264 🔺  (308)|
-| Total Matches | 12 |
+| ELO Regular | 1204 🔻  (433)|
+| ELO Competitive | 1257 🔻  (326)|
+| Total Matches | 14 |
 | Wins | 7 |
-| Losses | 5 |
+| Losses | 7 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 2 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1704115668,1703654974,1703651669,1703091793,1703063540,1702289450,1701775209,1701439807,1701325004,1700793630,1700327785,1699721199];
+        let timestamps = [1726900821,1726897215,1704115668,1703654974,1703651669,1703091793,1703063540,1702289450,1701775209,1701439807,1701325004,1700793630,1700327785,1699721199];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +123,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/26 | 1-16 | [TeddisaurusWrex](https://ws.tsl.rocks/corp/88f37fd0ab1f14c7e06af4173800167f8d1f5db4022c1cd42637da431140ef7a/) |
+| ❌ | 2024/09/26 | 3-13 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 | ✅ | 2024/01/06 | 3-2 | [the Rubber Duck](https://ws.tsl.rocks/corp/bfd6a197d72d0b643c6693e66b9a10db61f75ae242a0bd7c09bdd553ae951ee6/) |
 | ✅ | 2024/01/01 | 12-4 | [Space Monkeys](https://ws.tsl.rocks/corp/bf0f92381dd40d43b1326fd6cb3455bfd466b0f876fec8c6d9fa885d25d757f9/) |
 | ❌ | 2024/01/01 | 1-10 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
