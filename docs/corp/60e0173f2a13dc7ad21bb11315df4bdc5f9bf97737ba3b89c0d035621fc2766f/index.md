@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​SILVER TERRA
-description: W:14 L:11 D:0 Bonus ✅
+description: W:14 L:11 D:0 Bonus ❌
 date: 1726692840
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

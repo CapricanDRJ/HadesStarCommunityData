@@ -101,6 +101,32 @@ permalink: /trade/
             <td colspan="4">Guild: Private</td>
         </tr>
     </table>
+    <table>
+        <tr>
+            <th colspan="4" class="username-header">Whatasave</th>
+        </tr>
+        <tr>
+            <th>Amount</th>
+            <th>Artifact</th>
+            <th>RS Level</th>
+            <th>%</th>
+        </tr>
+    
+        <tr>
+            <td colspan="4">🏷️ Offering</td>
+        </tr>
+        
+                <tr>
+                    <td>1</td>
+                    <td><img src="mining.png" alt="mining"></td>
+                    <td>RS1</td>
+                    <td>0%</td>
+                </tr>
+            
+        <tr>
+            <td colspan="4">Guild: Private</td>
+        </tr>
+    </table>
     </div>
 </body>
 </html>
