@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Axioma
-description: W:11 L:27 D:2 Bonus ✅
+description: W:11 L:27 D:2 Bonus ❌
 date: 1726728458
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
