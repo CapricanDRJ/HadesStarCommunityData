@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Germania
-description: W:17 L:23 D:2 Bonus ✅
+description: W:17 L:23 D:2 Bonus ❌
 date: 1726749932
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
