@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​ДИᏰEPℂДℍTᏰℓ
-description: W:2 L:5 D:0 Bonus ✅
+description: W:2 L:5 D:0 Bonus ❌
 date: 1727156140
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​SILVER TERRA
-description: W:14 L:11 D:0 Bonus ❌
-date: 1726692840
+description: W:15 L:11 D:0 Bonus ✅
+date: 1727314793
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1274 🔺  (178)|
-| ELO Competitive | 1316 🔺  (199)|
-| Total Matches | 25 |
-| Wins | 14 |
+| ELO Regular | 1278 🔺  (171)|
+| ELO Competitive | 1323 🔺  (195)|
+| Total Matches | 26 |
+| Wins | 15 |
 | Losses | 11 |
 | Draws | 0 |
-| Streak | 3 |
-| Streak Record | 3 |
+| Streak | 4 |
+| Streak Record | 4 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726260840,1725655645,1725057967,1724453043,1723929849,1723252184,1722632834,1722024578,1721442184,1720647870,1720213310,1719605958,1718396403,1717792498,1716678638,1716071429,1714986494,1714163126,1713558018,1712935740,1704855841,1703501707,1702391036,1701298561,1700793330];
+        let timestamps = [1726882793,1726260840,1725655645,1725057967,1724453043,1723929849,1723252184,1722632834,1722024578,1721442184,1720647870,1720213310,1719605958,1718396403,1717792498,1716678638,1716071429,1714986494,1714163126,1713558018,1712935740,1704855841,1703501707,1702391036,1701298561,1700793330];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -127,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/26 | 20-1 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
 | ✅ | 2024/09/18 | 16-3 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |
 | ✅ | 2024/09/11 | 25-2 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
 | ✅ | 2024/09/04 | 20-17 | [ЧВК "Котики"](https://ws.tsl.rocks/corp/b770b833fe257bc6accd1bbe82a887971291dd0038f8aa627a47f3ce063265c0/) |
