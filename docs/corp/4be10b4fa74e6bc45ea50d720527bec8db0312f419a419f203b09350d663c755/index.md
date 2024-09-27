@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​DTC
-description: W:16 L:48 D:0 Bonus ❌
-date: 1726819058
+description: W:16 L:49 D:0 Bonus ❌
+date: 1727434088
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1047 🔻  (1227)|
-| ELO Competitive | 1191 🔻  (656)|
-| Total Matches | 64 |
+| ELO Regular | 1040 🔻  (1230)|
+| ELO Competitive | 1180 🔻  (904)|
+| Total Matches | 65 |
 | Wins | 16 |
-| Losses | 48 |
+| Losses | 49 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726387058,1725782756,1725196196,1724579855,1724015207,1723372386,1722780084,1722158324,1721562387,1720944211,1720344933,1720341326,1719738177,1719736975,1719204786,1718523518,1717919920,1717332280,1716709888,1716072030,1715581695,1715569379,1714896362,1714291717,1713702834,1713685709,1713101610,1713083879,1712479621,1712477217,1711718204,1711717603,1711273201,1711270797,1710709229,1710675266,1710061707,1710060805,1709457155,1709456554,1708860093,1708851679,1708247384,1708247384,1707656300,1707651491,1707040266,1707037562,1706443145,1705835206,1705829496,1705232679,1704624138,1704015599,1703407947,1702834038,1702198984,1701599393,1700994100,1700987788,1700383085,1699779211,1699194967,1698685261];
+        let timestamps = [1727002088,1726387058,1725782756,1725196196,1724579855,1724015207,1723372386,1722780084,1722158324,1721562387,1720944211,1720344933,1720341326,1719738177,1719736975,1719204786,1718523518,1717919920,1717332280,1716709888,1716072030,1715581695,1715569379,1714896362,1714291717,1713702834,1713685709,1713101610,1713083879,1712479621,1712477217,1711718204,1711717603,1711273201,1711270797,1710709229,1710675266,1710061707,1710060805,1709457155,1709456554,1708860093,1708851679,1708247384,1708247384,1707656300,1707651491,1707040266,1707037562,1706443145,1705835206,1705829496,1705232679,1704624138,1704015599,1703407947,1702834038,1702198984,1701599393,1700994100,1700987788,1700383085,1699779211,1699194967,1698685261];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Polish Pirates](https://ws.tsl.rocks/corp/e73d410a73bca6a1161056891e484b32cac940c0d94d20c92ed085683524652b/) | 0 | 3 | 0 | 3 |
 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) | 1 | 2 | 0 | 3 |
 | [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) | 0 | 3 | 0 | 3 |
 | [111](https://ws.tsl.rocks/corp/8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350/) | 1 | 1 | 0 | 2 |
@@ -131,13 +132,13 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [Farland Ind\.](https://ws.tsl.rocks/corp/9e0cb5f9ee7451cf8b55ed7f18717a42c7b58995a2717b83f6f98b7872b38e3f/) | 2 | 2 | 0 | 4 |
 | [Space Marshalls](https://ws.tsl.rocks/corp/6a41cc36abf3a28a1c26bc22843f1892d6938e8eb1e8f8a10fd9e6e964e06c2c/) | 0 | 2 | 0 | 2 |
 | [Спутник](https://ws.tsl.rocks/corp/0ae15c4db6dc8c3f4bf3eb6aa93bffd4ea9281b06b721ab103c0078646bfe58c/) | 0 | 2 | 0 | 2 |
-| [Polish Pirates](https://ws.tsl.rocks/corp/e73d410a73bca6a1161056891e484b32cac940c0d94d20c92ed085683524652b/) | 0 | 2 | 0 | 2 |
 | [Black Sun](https://ws.tsl.rocks/corp/696ca774d5aafa8bb17ba1f82e16b8751b9775c85e733177827be58093cd7b9e/) | 2 | 0 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/27 | 4-27 | [Polish Pirates](https://ws.tsl.rocks/corp/e73d410a73bca6a1161056891e484b32cac940c0d94d20c92ed085683524652b/) |
 | ❌ | 2024/09/20 | 11-17 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | ✅ | 2024/09/13 | 26-7 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |
 | ❌ | 2024/09/06 | 1-27 | [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) |

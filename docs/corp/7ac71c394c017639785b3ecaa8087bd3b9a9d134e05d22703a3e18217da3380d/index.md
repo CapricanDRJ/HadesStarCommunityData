@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Peace Keepers
-description: W:12 L:33 D:0 Bonus ✅
+description: W:12 L:33 D:0 Bonus ❌
 date: 1726820862
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
