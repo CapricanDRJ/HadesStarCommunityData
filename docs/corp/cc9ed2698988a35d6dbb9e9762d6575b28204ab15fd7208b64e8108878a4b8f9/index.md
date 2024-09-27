@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​Interestelar
-description: W:10 L:2 D:0 Bonus ❌
-date: 1726236997
+description: W:11 L:2 D:0 Bonus ✅
+date: 1727453024
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1320 🔺  (103)|
-| ELO Competitive | 1336 🔺  (173)|
-| Total Matches | 12 |
-| Wins | 10 |
+| ELO Regular | 1331 🔺  (97)|
+| ELO Competitive | 1346 🔺  (160)|
+| Total Matches | 13 |
+| Wins | 11 |
 | Losses | 2 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 5 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725804997,1715538433,1714953150,1713719062,1713108223,1712494347,1711057761,1710092060,1709467673,1708860694,1707067917,1701635466];
+        let timestamps = [1727021024,1725804997,1715538433,1714953150,1713719062,1713108223,1712494347,1711057761,1710092060,1709467673,1708860694,1707067917,1701635466];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/27 | 39-6 | [UFO](https://ws.tsl.rocks/corp/920537bbdadc8e0f3ba0a5bf70b777bf8ca14cde8723f0364eb0a6c3a93eb685/) |
 | ✅ | 2024/09/13 | 33-5 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | ❌ | 2024/05/17 | 5-10 | [Медведи](https://ws.tsl.rocks/corp/b3b0cac2c48761153afa1dcad7a4048103ffc3ec2ca6d477a6bd744922fce075/) |
 | ✅ | 2024/05/10 | 32-4 | [Foreshadowing](https://ws.tsl.rocks/corp/109b8b1b0a582211a19360109ebb1dcba3cff07d735912db43ef6e8a7177d6e9/) |

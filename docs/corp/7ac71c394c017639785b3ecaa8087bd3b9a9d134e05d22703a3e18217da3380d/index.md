@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Peace Keepers
-description: W:12 L:33 D:0 Bonus ❌
-date: 1726820862
+description: W:13 L:33 D:0 Bonus ✅
+date: 1727454051
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1072 🔺  (1207)|
-| ELO Competitive | 1178 🔺  (921)|
-| Total Matches | 45 |
-| Wins | 12 |
+| ELO Regular | 1081 🔺  (1201)|
+| ELO Competitive | 1184 🔺  (853)|
+| Total Matches | 46 |
+| Wins | 13 |
 | Losses | 33 |
 | Draws | 0 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726388862,1725906569,1721082778,1720400836,1718638315,1717641848,1717177192,1716687951,1716687350,1716142937,1716131218,1715613843,1715610237,1714621638,1714613227,1714160722,1714156815,1713719963,1713147287,1712526508,1711346222,1710778633,1709315028,1708879630,1708877526,1708310495,1708309894,1707671929,1707671629,1707062206,1707061305,1706456671,1706454266,1705885399,1705885399,1705285274,1705280467,1704657804,1704198610,1702790759,1702272621,1701014842,1700340110,1699831823,1698707516];
+        let timestamps = [1727022051,1726388862,1725906569,1721082778,1720400836,1718638315,1717641848,1717177192,1716687951,1716687350,1716142937,1716131218,1715613843,1715610237,1714621638,1714613227,1714160722,1714156815,1713719963,1713147287,1712526508,1711346222,1710778633,1709315028,1708879630,1708877526,1708310495,1708309894,1707671929,1707671629,1707062206,1707061305,1706456671,1706454266,1705885399,1705885399,1705285274,1705280467,1704657804,1704198610,1702790759,1702272621,1701014842,1700340110,1699831823,1698707516];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -128,6 +128,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/27 | 28-3 | [Free Thinkers 2](https://ws.tsl.rocks/corp/9fc879b45c4053ac93d6eebdb14d856a828df8fd85800df616cdd3332683a695/) |
 | ✅ | 2024/09/20 | 24-22 | [Looping](https://ws.tsl.rocks/corp/08524086f45f2e6109e583baf940197663aa3e155c32fcdbb04f319343a5eb0c/) |
 | ✅ | 2024/09/14 | 19-14 | [West Worlders](https://ws.tsl.rocks/corp/aad051ec6b980cc52fb4777aef113d9e28a72aab40fda65aa9cdbf477b8e390a/) |
 | ❌ | 2024/07/20 | 4-29 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) |

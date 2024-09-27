@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​Бакланы
-description: W:1 L:0 D:0 Bonus ✅
+description: W:1 L:0 D:0 Bonus ❌
 date: 1726836191
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔺  (382)|
+| ELO Regular | 1214 🔺  (380)|
 | ELO Competitive | 1214 🔺  (491)|
 | Total Matches | 1 |
 | Wins | 1 |

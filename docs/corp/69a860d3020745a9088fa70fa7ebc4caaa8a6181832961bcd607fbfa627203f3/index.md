@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​对，进就进人少的（分团）
-description: W:10 L:7 D:0 Bonus ✅
+description: W:10 L:7 D:0 Bonus ❌
 date: 1727303377
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

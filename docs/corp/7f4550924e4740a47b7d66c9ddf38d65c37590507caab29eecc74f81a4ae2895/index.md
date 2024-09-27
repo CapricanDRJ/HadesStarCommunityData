@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​DeutschlandGmbH
-description: W:6 L:4 D:0 Bonus ✅
-date: 1726833485
+description: W:6 L:5 D:0 Bonus ❌
+date: 1727461441
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺  (351)|
-| ELO Competitive | 1244 🔺  (368)|
-| Total Matches | 10 |
+| ELO Regular | 1206 🔻  (431)|
+| ELO Competitive | 1234 🔻  (391)|
+| Total Matches | 11 |
 | Wins | 6 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
-| Streak | 4 |
 | Streak Record | 4 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726401485,1725866596,1725225052,1723436697,1723411761,1722200711,1709531978,1705352888,1702735458,1702140978];
+        let timestamps = [1727029441,1726401485,1725866596,1725225052,1723436697,1723411761,1722200711,1709531978,1705352888,1702735458,1702140978];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/27 | 0-24 | [Czech Legion](https://ws.tsl.rocks/corp/b4453b41cf7b1c019648ed14db493a47c8a64347e689013b2c969bf97e251ec8/) |
 | ✅ | 2024/09/20 | 16-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
 | ✅ | 2024/09/14 | 11-0 | [落雨观花](https://ws.tsl.rocks/corp/565a6d89fc5107e86669d7f8910a1c4ae1fbb156fa0b5e81dbc917c341cc9ff0/) |
 | ✅ | 2024/09/06 | 15-0 | [Axioma](https://ws.tsl.rocks/corp/2ec904c87d0183a49e22dc53508fa5c75d6e638e3a152a30336831697c60e91e/) |
