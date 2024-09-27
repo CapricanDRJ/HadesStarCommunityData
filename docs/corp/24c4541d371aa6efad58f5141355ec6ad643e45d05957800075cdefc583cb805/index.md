@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Spaceforce
-description: W:2 L:3 D:0 Bonus ✅
+description: W:2 L:3 D:0 Bonus ❌
 date: 1726772074
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

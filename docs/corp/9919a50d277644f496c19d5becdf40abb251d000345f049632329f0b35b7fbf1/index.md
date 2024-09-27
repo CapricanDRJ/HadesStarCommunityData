@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Unión latina
-description: W:32 L:23 D:0 Bonus ✅
+description: W:32 L:23 D:0 Bonus ❌
 date: 1727282942
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
