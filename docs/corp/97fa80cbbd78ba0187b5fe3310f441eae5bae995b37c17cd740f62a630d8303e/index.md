@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Gastro
-description: W:4 L:4 D:0 Bonus ✅
+description: W:4 L:4 D:0 Bonus ❌
 date: 1726801876
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

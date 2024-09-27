@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​欢迎国人
-description: W:7 L:14 D:3 Bonus ✅
+description: W:7 L:14 D:3 Bonus ❌
 date: 1726810042
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
