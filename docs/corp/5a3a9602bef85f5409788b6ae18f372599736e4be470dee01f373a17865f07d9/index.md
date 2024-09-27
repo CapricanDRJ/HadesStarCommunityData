@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​绛紫星云
-description: W:0 L:1 D:0 Bonus ❌
-date: 1726964451
+description: W:0 L:2 D:0 Bonus ❌
+date: 1727414690
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (662)|
-| ELO Competitive | 1189 🔻  (679)|
-| Total Matches | 1 |
+| ELO Regular | 1171 🔻  (888)|
+| ELO Competitive | 1175 🔻  (945)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726532451];
+        let timestamps = [1726982690,1726532451];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/27 | 1-7 | [哈迪斯之星，启动！](https://ws.tsl.rocks/corp/bc58305a02f7392f340d26a3becd4784de7360dd5264df9e85d73116b93496d8/) |
 | ❌ | 2024/09/22 | 1-13 | [荣耀之星](https://ws.tsl.rocks/corp/4334fd4d4ffbc89487deaec7bb38025aba46209b810578436882be271fdbff23/) |
 
 Corporation ID: 5a3a9602bef85f5409788b6ae18f372599736e4be470dee01f373a17865f07d9
