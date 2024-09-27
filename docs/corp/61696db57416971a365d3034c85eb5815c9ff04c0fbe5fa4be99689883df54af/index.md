@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Ƭιтαηѕ Ф тєʀʀσƦ
-description: W:27 L:15 D:2 Bonus ✅
-date: 1726942586
+description: W:28 L:16 D:2 Bonus ✅
+date: 1727468053
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1311 🔺  (115)|
-| ELO Competitive | 1419 🔺  (89)|
-| Total Matches | 44 |
-| Wins | 27 |
-| Losses | 15 |
+| ELO Regular | 1298 🔻  (134)|
+| ELO Competitive | 1429 🔺  (78)|
+| Total Matches | 46 |
+| Wins | 28 |
+| Losses | 16 |
 | Draws | 2 |
 | Streak Record | 5 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726510586,1726510586,1725927904,1725927603,1725297467,1725291455,1724714490,1724084021,1724062380,1723411761,1723411160,1722884066,1722877453,1722303881,1722281246,1721661262,1721098102,1721097200,1720506316,1720387016,1719817211,1719803990,1719252268,1718644328,1718091522,1717511411,1716816270,1716231570,1715637282,1715614143,1715025558,1714418220,1714418220,1713751809,1713748806,1713290015,1713290015,1712694174,1712689366,1712087203,1711473920,1710928258,1710913538,1710373898];
+        let timestamps = [1727036053,1727034250,1726510586,1726510586,1725927904,1725927603,1725297467,1725291455,1724714490,1724084021,1724062380,1723411761,1723411160,1722884066,1722877453,1722303881,1722281246,1721661262,1721098102,1721097200,1720506316,1720387016,1719817211,1719803990,1719252268,1718644328,1718091522,1717511411,1716816270,1716231570,1715637282,1715614143,1715025558,1714418220,1714418220,1713751809,1713748806,1713290015,1713290015,1712694174,1712689366,1712087203,1711473920,1710928258,1710913538,1710373898];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,15 +117,17 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) | 3 | 0 | 0 | 3 |
 | [BRASIL STAR](https://ws.tsl.rocks/corp/94fc4639f17e4503a11d4ac3878f3203bca3f21baebf285433ff39ad37f0fff2/) | 1 | 0 | 1 | 2 |
 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) | 2 | 0 | 0 | 2 |
 | [\[Blue\*Nation\]](https://ws.tsl.rocks/corp/38cd283c7bb8ee0390f5624e49a3465b1d4a8c789cc2d501f38918a16f6140e2/) | 0 | 2 | 0 | 2 |
-| [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) | 2 | 0 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/27 | 6-14 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |
+| ✅ | 2024/09/27 | 28-0 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |
 | ✅ | 2024/09/21 | 25-5 | [Embers Rising](https://ws.tsl.rocks/corp/30173fb6f0cf7a6d78f30c60350646ad6bc0d667a14854bdc9abbc19cd7d0327/) |
 | ↔️ | 2024/09/21 | 10-10 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ❌ | 2024/09/15 | 4-15 | [Helion Prime](https://ws.tsl.rocks/corp/1a09ce5efe86add0a6f0344bc2a12e27c898c0d21641a3f29a450c6d4c4db3f2/) |
