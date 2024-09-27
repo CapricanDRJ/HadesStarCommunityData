@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​遨游星空
-description: W:0 L:1 D:0 Bonus ❌
-date: 1703676158
+description: W:0 L:2 D:0 Bonus ❌
+date: 1727398932
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (620)|
-| ELO Competitive | 1187 🔻  (722)|
-| Total Matches | 1 |
+| ELO Regular | 1170 🔻  (918)|
+| ELO Competitive | 1171 🔻  (1020)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1703244158];
+        let timestamps = [1726966932,1703244158];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/27 | 0-6 | [Dark Halo](https://ws.tsl.rocks/corp/f6ed7c780faf133d3fe411b9ed88480608a56064328539891d1b4348242954f6/) |
 | ❌ | 2023/12/27 | 1-22 | [Looping](https://ws.tsl.rocks/corp/08524086f45f2e6109e583baf940197663aa3e155c32fcdbb04f319343a5eb0c/) |
 
 Corporation ID: 1640e1377ab38731d93bcaf98ac0048f43709e3e73dd4bc670af0b7179a0753a

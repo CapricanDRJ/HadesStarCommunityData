@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​Atlas corp
-description: W:6 L:10 D:1 Bonus ❌
-date: 1726669395
+description: W:7 L:10 D:1 Bonus ✅
+date: 1727403438
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1156 🔺  (1018)|
-| ELO Competitive | 1167 🔺  (1043)|
-| Total Matches | 17 |
-| Wins | 6 |
+| ELO Regular | 1177 🔺  (811)|
+| ELO Competitive | 1192 🔺  (644)|
+| Total Matches | 18 |
+| Wins | 7 |
 | Losses | 10 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 2 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726237395,1722863626,1719098028,1715264410,1711217011,1709930699,1709269352,1707454822,1706725035,1706075319,1705608921,1704609413,1704088021,1703433495,1702998126,1702508556,1702020454];
+        let timestamps = [1726971438,1726237395,1722863626,1719098028,1715264410,1711217011,1709930699,1709269352,1707454822,1706725035,1706075319,1705608921,1704609413,1704088021,1703433495,1702998126,1702508556,1702020454];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -113,11 +114,17 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) | 1 | 1 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/27 | 1-0 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ✅ | 2024/09/18 | 3-0 | [The Smeg Heads](https://ws.tsl.rocks/corp/4468352a700fed901168b249c273c37c4d32a032977d53e5261f9c596c1e5366/) |
 | ❌ | 2024/08/10 | 0-2 | [脉冲星际集团](https://ws.tsl.rocks/corp/a4c08cf63563563e9bfa1d35edb256e9bb8bcdca15103d646d2ff8ed9d17f480/) |
 | ✅ | 2024/06/27 | 3-0 | [j g f h me t y ](https://ws.tsl.rocks/corp/47918aa8890d89fb5fc148ee9fdd940dd60ae73de3f7d05ccc54fabed17e1b5f/) |

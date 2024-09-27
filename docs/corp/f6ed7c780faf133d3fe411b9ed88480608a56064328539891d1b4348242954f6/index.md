@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Dark Halo
-description: W:1 L:4 D:0 Bonus ❌
-date: 1726404971
+description: W:2 L:4 D:0 Bonus ✅
+date: 1727398932
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1154 🔻  (1032)|
-| ELO Competitive | 1159 🔻  (1093)|
-| Total Matches | 5 |
-| Wins | 1 |
+| ELO Regular | 1170 🔺  (912)|
+| ELO Competitive | 1175 🔺  (946)|
+| Total Matches | 6 |
+| Wins | 2 |
 | Losses | 4 |
 | Draws | 0 |
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725972971,1725359058,1724848206,1724410963,1723976765];
+        let timestamps = [1726966932,1725972971,1725359058,1724848206,1724410963,1723976765];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/27 | 6-0 | [遨游星空](https://ws.tsl.rocks/corp/1640e1377ab38731d93bcaf98ac0048f43709e3e73dd4bc670af0b7179a0753a/) |
 | ❌ | 2024/09/15 | 0-15 | [Nox Imperium](https://ws.tsl.rocks/corp/b60fb003fae650d1de18e7bca4fad04f9805501f4568d07ceb47bffdfeb613c1/) |
 | ✅ | 2024/09/08 | 6-1 | [逐光起航](https://ws.tsl.rocks/corp/e6bb076aa209101b5fa1cbc40a614c241d71ab5eca143c733b81aed6302455e8/) |
 | ❌ | 2024/09/02 | 2-5 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
