@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Вселенские 40%
-description: W:18 L:27 D:0 Bonus ❌
-date: 1726979624
+description: W:18 L:28 D:0 Bonus ❌
+date: 1727476767
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1110 🔻  (1163)|
-| ELO Competitive | 1152 🔻  (1125)|
-| Total Matches | 45 |
+| ELO Regular | 1105 🔻  (1174)|
+| ELO Competitive | 1147 🔻  (1144)|
+| Total Matches | 46 |
 | Wins | 18 |
-| Losses | 27 |
+| Losses | 28 |
 | Draws | 0 |
 | Streak Record | 6 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726547624,1726078446,1725608159,1725119429,1724625541,1724189200,1723663887,1720490990,1719397705,1718024808,1716778108,1716223458,1715789304,1714139084,1713699229,1713240434,1712806542,1712205586,1711749158,1711176742,1710560778,1710097470,1709543694,1708978189,1708538269,1708533460,1708088721,1707968087,1707406142,1706963336,1706365913,1705758573,1705323432,1704726917,1704146026,1703419368,1702850572,1702240167,1701607809,1701080660,1700633437,1700120706,1699682115,1699158308,1698716532];
+        let timestamps = [1727044767,1726547624,1726078446,1725608159,1725119429,1724625541,1724189200,1723663887,1720490990,1719397705,1718024808,1716778108,1716223458,1715789304,1714139084,1713699229,1713240434,1712806542,1712205586,1711749158,1711176742,1710560778,1710097470,1709543694,1708978189,1708538269,1708533460,1708088721,1707968087,1707406142,1706963336,1706365913,1705758573,1705323432,1704726917,1704146026,1703419368,1702850572,1702240167,1701607809,1701080660,1700633437,1700120706,1699682115,1699158308,1698716532];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -113,11 +113,17 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) | 0 | 2 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/27 | 0-35 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) |
 | ❌ | 2024/09/22 | 0-22 | [Star Destroyers](https://ws.tsl.rocks/corp/32ba20918cd8720602fefb3bc676a6ba5195314479040f70eadc728fbbc2698d/) |
 | ❌ | 2024/09/16 | 0-10 | [星河绮梦](https://ws.tsl.rocks/corp/ec0d7f12f69610e8f68f4ea0af9698755a0a1435e0845c27c47fcbec0b1b672a/) |
 | ❌ | 2024/09/11 | 12-28 | [" Возрождение "](https://ws.tsl.rocks/corp/4422f581b40217ac99ee97df59d8d887249c4cdc51d2d5fe901f438ab720d26d/) |
