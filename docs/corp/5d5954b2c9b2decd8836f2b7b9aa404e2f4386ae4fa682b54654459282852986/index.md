@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​GermanIndustrie
-description: W:9 L:2 D:1 Bonus ❌
-date: 1724591744
+description: W:10 L:2 D:1 Bonus ✅
+date: 1727516721
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1292 🔺  (144)|
-| ELO Competitive | 1315 🔺  (207)|
-| Total Matches | 12 |
-| Wins | 9 |
+| ELO Regular | 1302 🔺  (126)|
+| ELO Competitive | 1330 🔺  (183)|
+| Total Matches | 13 |
+| Wins | 10 |
 | Losses | 2 |
 | Draws | 1 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 4 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724159744,1720418863,1719209894,1714372545,1711525898,1707210766,1706164570,1705308409,1702974985,1702048405,1700030481,1698831647];
+        let timestamps = [1727084721,1724159744,1720418863,1719209894,1714372545,1711525898,1707210766,1706164570,1705308409,1702974985,1702048405,1700030481,1698831647];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/28 | 36-1 | [ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ](https://ws.tsl.rocks/corp/85a74d128f924274446b7fb754136e6ef7185c754df2fae3b10591d28536f17a/) |
 | ✅ | 2024/08/25 | 39-24 | [Deadspace](https://ws.tsl.rocks/corp/45fc2bf2d1b40361071590e427fa47116d4e5e063064d17ed9933bbd61f04369/) |
 | ✅ | 2024/07/13 | 48-35 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) |
 | ✅ | 2024/06/29 | 46-42 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) |

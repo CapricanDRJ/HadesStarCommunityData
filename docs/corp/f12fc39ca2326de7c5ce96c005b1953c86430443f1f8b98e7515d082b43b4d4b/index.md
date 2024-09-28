@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​Providence
-description: W:31 L:15 D:0 Bonus ✅
+description: W:31 L:15 D:0 Bonus ❌
 date: 1726908623
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1335 🔺  (91)|
+| ELO Regular | 1335 🔺  (92)|
 | ELO Competitive | 1405 🔺  (109)|
 | Total Matches | 46 |
 | Wins | 31 |

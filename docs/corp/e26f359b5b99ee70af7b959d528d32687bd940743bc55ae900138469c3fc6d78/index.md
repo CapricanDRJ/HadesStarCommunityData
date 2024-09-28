@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​UniversalCaos
-description: W:1 L:0 D:0 Bonus ❌
-date: 1717296960
+description: W:1 L:1 D:0 Bonus ❌
+date: 1727526037
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔺  (383)|
-| ELO Competitive | 1214 🔺  (494)|
-| Total Matches | 1 |
+| ELO Regular | 1203 🔻  (441)|
+| ELO Competitive | 1205 🔻  (543)|
+| Total Matches | 2 |
 | Wins | 1 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1716864960];
+        let timestamps = [1727094037,1716864960];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/28 | 19-24 | [Duchy Arrakis](https://ws.tsl.rocks/corp/6c8c526b366a9e9eb3eba3d3107b628042c005db03530961b24a722cc58a339e/) |
 | ✅ | 2024/06/02 | 32-6 | [Galactic Empire](https://ws.tsl.rocks/corp/72dcb83d090873cff1d27d191205e6a484c8c5b057f4b55f138e631f33037248/) |
 
 Corporation ID: e26f359b5b99ee70af7b959d528d32687bd940743bc55ae900138469c3fc6d78
