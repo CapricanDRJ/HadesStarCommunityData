@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​The Smeg Heads
-description: W:0 L:1 D:0 Bonus ❌
-date: 1726669395
+description: W:0 L:2 D:0 Bonus ❌
+date: 1727547679
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔻  (771)|
-| ELO Competitive | 1183 🔻  (888)|
-| Total Matches | 1 |
+| ELO Regular | 1170 🔻  (920)|
+| ELO Competitive | 1171 🔻  (1016)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726237395];
+        let timestamps = [1727115679,1726237395];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/28 | 0-12 | [无聊不过](https://ws.tsl.rocks/corp/6099bd39cf8510ea3ef2be0fe05df95266b12acfdcbe1bd58a4c33e9c3f25934/) |
 | ❌ | 2024/09/18 | 0-3 | [Atlas corp](https://ws.tsl.rocks/corp/e729927db5a5672fcc94357f999bc3b66fa38a624f042543b847f82e7fa890a5/) |
 
 Corporation ID: 4468352a700fed901168b249c273c37c4d32a032977d53e5261f9c596c1e5366
