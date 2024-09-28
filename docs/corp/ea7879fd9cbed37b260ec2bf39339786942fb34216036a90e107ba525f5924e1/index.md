@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Got Nothing
-description: W:15 L:11 D:0 Bonus ✅
+description: W:15 L:11 D:0 Bonus ❌
 date: 1726937476
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

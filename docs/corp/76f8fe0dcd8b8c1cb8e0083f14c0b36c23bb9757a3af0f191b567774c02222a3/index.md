@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Bl@ck/Galaxy 
-description: W:24 L:13 D:1 Bonus ✅
+description: W:24 L:13 D:1 Bonus ❌
 date: 1726937176
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

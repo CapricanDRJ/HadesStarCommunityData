@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Helion Prime
-description: W:9 L:5 D:0 Bonus ✅
-date: 1726963320
+description: W:9 L:6 D:0 Bonus ✅
+date: 1727549482
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1276 🔺  (174)|
-| ELO Competitive | 1310 🔺  (218)|
-| Total Matches | 14 |
+| ELO Regular | 1268 🔻  (192)|
+| ELO Competitive | 1301 🔻  (230)|
+| Total Matches | 15 |
 | Wins | 9 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 0 |
-| Streak | 3 |
 | Streak Record | 5 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726531320,1725927904,1722306484,1721049108,1719861390,1719253771,1718643727,1718034729,1717439285,1717434475,1716822283,1716179889,1700492484,1698929613];
+        let timestamps = [1727117482,1726531320,1725927904,1722306484,1721049108,1719861390,1719253771,1718643727,1718034729,1717439285,1717434475,1716822283,1716179889,1700492484,1698929613];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -114,11 +113,17 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [OntarioDawn](https://ws.tsl.rocks/corp/1a002c71f3aba5da5918941fa2ba4dbbfc183ad52d97d44a25718e07e6b08a03/) | 0 | 2 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/28 | 18-40 | [OntarioDawn](https://ws.tsl.rocks/corp/1a002c71f3aba5da5918941fa2ba4dbbfc183ad52d97d44a25718e07e6b08a03/) |
 | ✅ | 2024/09/22 | 27-3 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 | ✅ | 2024/09/15 | 15-4 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |
 | ✅ | 2024/08/04 | 22-10 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) |
