@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​hades star萌新指引站
-description: W:6 L:1 D:1 Bonus ✅
+description: W:6 L:1 D:1 Bonus ❌
 date: 1727442203
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
