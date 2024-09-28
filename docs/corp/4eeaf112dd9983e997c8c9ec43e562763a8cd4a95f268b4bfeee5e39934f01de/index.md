@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Terranova
-description: W:7 L:33 D:0 Bonus ✅
+description: W:7 L:33 D:0 Bonus ❌
 date: 1726873471
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1089 🔺  (1194)|
-| ELO Competitive | 1174 🔺  (970)|
+| ELO Competitive | 1174 🔺  (969)|
 | Total Matches | 40 |
 | Wins | 7 |
 | Losses | 33 |

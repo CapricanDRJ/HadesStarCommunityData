@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​63SALVADORES36
-description: W:1 L:4 D:1 Bonus ❌
-date: 1726996970
+description: W:1 L:5 D:1 Bonus ❌
+date: 1727488182
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1156 🔻  (1017)|
-| ELO Competitive | 1184 🔻  (865)|
-| Total Matches | 6 |
+| ELO Regular | 1145 🔻  (1065)|
+| ELO Competitive | 1173 🔻  (984)|
+| Total Matches | 7 |
 | Wins | 1 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 1 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726564970,1726560764,1726118619,1726100381,1718076198,1715859906];
+        let timestamps = [1727056182,1726564970,1726560764,1726118619,1726100381,1718076198,1715859906];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/28 | 2-12 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) |
 | ❌ | 2024/09/22 | 0-3 | [星舰国际](https://ws.tsl.rocks/corp/2142b75cc6d1c522c423a860fbda7616d7745f8fee25121ec3a8f26068b0f3b5/) |
 | ❌ | 2024/09/22 | 5-16 | [星河绮梦](https://ws.tsl.rocks/corp/ec0d7f12f69610e8f68f4ea0af9698755a0a1435e0845c27c47fcbec0b1b672a/) |
 | ❌ | 2024/09/17 | 0-3 | [  边界  ](https://ws.tsl.rocks/corp/86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a/) |

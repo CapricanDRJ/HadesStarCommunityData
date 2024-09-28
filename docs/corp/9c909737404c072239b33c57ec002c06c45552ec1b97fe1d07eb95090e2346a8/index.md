@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Minutemen
-description: W:9 L:14 D:0 Bonus ❌
-date: 1726933268
+description: W:9 L:15 D:0 Bonus ❌
+date: 1727491786
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (822)|
-| ELO Competitive | 1204 🔻  (543)|
-| Total Matches | 23 |
+| ELO Regular | 1169 🔻  (928)|
+| ELO Competitive | 1198 🔻  (597)|
+| Total Matches | 24 |
 | Wins | 9 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 0 |
 | Streak Record | 3 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726501268,1725894246,1725205815,1721403420,1721393200,1717958998,1717339196,1716773302,1716127612,1715537531,1714924606,1714319366,1713712751,1713128061,1712523203,1711915028,1711305962,1710707125,1710100475,1709510349,1708899765,1707677941,1707106081];
+        let timestamps = [1727059786,1726501268,1725894246,1725205815,1721403420,1721393200,1717958998,1717339196,1716773302,1716127612,1715537531,1714924606,1714319366,1713712751,1713128061,1712523203,1711915028,1711305962,1710707125,1710100475,1709510349,1708899765,1707677941,1707106081];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/28 | 0-27 | [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1/) |
 | ❌ | 2024/09/21 | 4-45 | [OntarioDawn](https://ws.tsl.rocks/corp/1a002c71f3aba5da5918941fa2ba4dbbfc183ad52d97d44a25718e07e6b08a03/) |
 | ✅ | 2024/09/14 | 23-15 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ❌ | 2024/09/06 | 12-21 | [INFINITY STAR](https://ws.tsl.rocks/corp/e36eb12fc6bc8e4b826e6bcb46020cad3eb616497c4c14075e8b657715898a9f/) |
