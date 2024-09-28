@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​Imperium XIII
-description: W:31 L:22 D:0 Bonus ✅
+description: W:31 L:22 D:0 Bonus ❌
 date: 1726896801
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1294 🔺  (142)|
+| ELO Regular | 1294 🔺  (143)|
 | ELO Competitive | 1345 🔺  (164)|
 | Total Matches | 53 |
 | Wins | 31 |

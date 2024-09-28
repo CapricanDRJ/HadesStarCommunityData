@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Hamburg AG 2
-description: W:8 L:13 D:0 Bonus ❌
-date: 1726302804
+description: W:8 L:14 D:0 Bonus ❌
+date: 1727507107
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 🔻  (452)|
-| ELO Competitive | 1236 🔻  (386)|
-| Total Matches | 21 |
+| ELO Regular | 1199 🔻  (490)|
+| ELO Competitive | 1234 🔻  (392)|
+| Total Matches | 22 |
 | Wins | 8 |
-| Losses | 13 |
+| Losses | 14 |
 | Draws | 0 |
 | Streak Record | 3 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725870804,1725263206,1724659793,1724051563,1723446915,1722838082,1722236767,1721632110,1721039188,1720436592,1719814207,1719297940,1718610365,1718004973,1706518276,1704782513,1702890235,1702282538,1701679337,1701080660,1700467539];
+        let timestamps = [1727075107,1725870804,1725263206,1724659793,1724051563,1723446915,1722838082,1722236767,1721632110,1721039188,1720436592,1719814207,1719297940,1718610365,1718004973,1706518276,1704782513,1702890235,1702282538,1701679337,1701080660,1700467539];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/28 | 3-53 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) |
 | ❌ | 2024/09/14 | 10-22 | [Спутник](https://ws.tsl.rocks/corp/0ae15c4db6dc8c3f4bf3eb6aa93bffd4ea9281b06b721ab103c0078646bfe58c/) |
 | ✅ | 2024/09/07 | 20-8 | [Lights Off ](https://ws.tsl.rocks/corp/8a8b7e5b7a00ef709249daa4546d03bd85258cde01d35e1829a64ed95c3d6cca/) |
 | ✅ | 2024/08/31 | 11-3 | [Crazy Elite](https://ws.tsl.rocks/corp/ef64e9014b773074470ead0907b9c122bf6bda753de1cddfa01e95a00e9d47dc/) |

@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​[Blue＊Nation]
-description: W:38 L:6 D:0 Bonus ✅
-date: 1726923047
+description: W:38 L:7 D:0 Bonus ✅
+date: 1727507408
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1513 🔺  (7)|
-| ELO Competitive | 1557 🔺  (17)|
-| Total Matches | 44 |
+| ELO Regular | 1486 🔻  (11)|
+| ELO Competitive | 1531 🔻  (24)|
+| Total Matches | 45 |
 | Wins | 38 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 0 |
-| Streak | 29 |
 | Streak Record | 29 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726491047,1725265609,1724639661,1724048559,1723449018,1722839885,1722230757,1721621292,1720419164,1719803990,1719201482,1718594441,1717992953,1717391492,1716778108,1716174782,1715571782,1714964864,1714363532,1713751809,1713152328,1712549640,1711937563,1711336008,1710734466,1710127216,1709523566,1708919592,1708338736,1707750354,1707117798,1706498746,1705898919,1705299996,1704690857,1704078708,1703476766,1702938027,1702264208,1701702179,1701057823,1700460929,1699849852,1699244245];
+        let timestamps = [1727075408,1726491047,1725265609,1724639661,1724048559,1723449018,1722839885,1722230757,1721621292,1720419164,1719803990,1719201482,1718594441,1717992953,1717391492,1716778108,1716174782,1715571782,1714964864,1714363532,1713751809,1713152328,1712549640,1711937563,1711336008,1710734466,1710127216,1709523566,1708919592,1708338736,1707750354,1707117798,1706498746,1705898919,1705299996,1704690857,1704078708,1703476766,1702938027,1702264208,1701702179,1701057823,1700460929,1699849852,1699244245];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -128,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/28 | 1-2 | [Rising star](https://ws.tsl.rocks/corp/b7037efd74e829aa4ac6e49960fa44cebe1477e23d25cf1640594d9168d630db/) |
 | ✅ | 2024/09/21 | 27-9 | [Kelebra](https://ws.tsl.rocks/corp/0b1ce787fadd83433c02fb7f56a905ea64f918c1396ac37b8591891adf232eb6/) |
 | ✅ | 2024/09/07 | 32-9 | [Utd\. Human Fed\.](https://ws.tsl.rocks/corp/265fd73116c2ec237c7a966adb401d54219dee49882ee9024025c697165397d6/) |
 | ✅ | 2024/08/31 | 17-3 | [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1/) |

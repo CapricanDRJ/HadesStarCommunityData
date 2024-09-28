@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Север РусКорп
-description: W:24 L:11 D:0 Bonus ✅
+description: W:24 L:11 D:0 Bonus ❌
 date: 1726892796
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1335 🔺  (93)|
-| ELO Competitive | 1418 🔺  (90)|
+| ELO Regular | 1335 🔺  (92)|
+| ELO Competitive | 1418 🔺  (91)|
 | Total Matches | 35 |
 | Wins | 24 |
 | Losses | 11 |

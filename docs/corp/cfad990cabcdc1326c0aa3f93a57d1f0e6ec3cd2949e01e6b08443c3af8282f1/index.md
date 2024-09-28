@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​EZCO
-description: W:13 L:22 D:1 Bonus ❌
-date: 1726407676
+description: W:14 L:22 D:1 Bonus ✅
+date: 1727506206
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1110 🔻  (1166)|
-| ELO Competitive | 1192 🔻  (642)|
-| Total Matches | 36 |
-| Wins | 13 |
+| ELO Regular | 1124 🔺  (1133)|
+| ELO Competitive | 1206 🔺  (539)|
+| Total Matches | 37 |
+| Wins | 14 |
 | Losses | 22 |
 | Draws | 1 |
 | Streak Record | 6 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725975676,1724848807,1724196711,1724192805,1723247677,1722869037,1722249687,1721629406,1721040991,1720436592,1720436592,1719829529,1719231828,1718668672,1718022102,1717397202,1716796436,1716258609,1715607532,1714976580,1714372545,1713763224,1713253053,1712599523,1712047835,1711410525,1710854346,1710000710,1709472181,1706127911,1705350183,1704137911,1703168726,1702757402,1702323717,1701826911];
+        let timestamps = [1727074206,1725975676,1724848807,1724196711,1724192805,1723247677,1722869037,1722249687,1721629406,1721040991,1720436592,1720436592,1719829529,1719231828,1718668672,1718022102,1717397202,1716796436,1716258609,1715607532,1714976580,1714372545,1713763224,1713253053,1712599523,1712047835,1711410525,1710854346,1710000710,1709472181,1706127911,1705350183,1704137911,1703168726,1702757402,1702323717,1701826911];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Terranova](https://ws.tsl.rocks/corp/4eeaf112dd9983e997c8c9ec43e562763a8cd4a95f268b4bfeee5e39934f01de/) | 1 | 1 | 0 | 2 |
 | [Spacefleet](https://ws.tsl.rocks/corp/517f7b257f68936f7a95a478d6923776a2549b88897bae628fd35b23572d3cbd/) | 1 | 1 | 0 | 2 |
 | [ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ](https://ws.tsl.rocks/corp/85a74d128f924274446b7fb754136e6ef7185c754df2fae3b10591d28536f17a/) | 0 | 2 | 0 | 2 |
 | [Titan Corp\.](https://ws.tsl.rocks/corp/c87b86a6baab08254d7226396a20c74fe0972f64fab6fee405914076e111193c/) | 2 | 0 | 0 | 2 |
@@ -126,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/28 | 52-11 | [Terranova](https://ws.tsl.rocks/corp/4eeaf112dd9983e997c8c9ec43e562763a8cd4a95f268b4bfeee5e39934f01de/) |
 | ❌ | 2024/09/15 | 7-40 | [The Watchers](https://ws.tsl.rocks/corp/62a08ec3521bd62e5c8fbfc03c7d99fbf3e30fd1df80716485c9b989b27771e6/) |
 | ❌ | 2024/09/02 | 3-41 | [Regulus](https://ws.tsl.rocks/corp/2ac7f4a924f351d9e8a57c7bd7cb88bb810dd028acab61baf5f38f0ffc7cf559/) |
 | ❌ | 2024/08/25 | 0-47 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) |
