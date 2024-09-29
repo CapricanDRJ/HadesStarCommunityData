@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Эдем
-description: W:7 L:6 D:0 Bonus ❌
-date: 1726159165
+description: W:8 L:6 D:0 Bonus ✅
+date: 1727584634
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1225 🔺  (312)|
-| ELO Competitive | 1249 🔺  (353)|
-| Total Matches | 13 |
-| Wins | 7 |
+| ELO Regular | 1244 🔺  (249)|
+| ELO Competitive | 1272 🔺  (295)|
+| Total Matches | 14 |
+| Wins | 8 |
 | Losses | 6 |
 | Draws | 0 |
-| Streak | 4 |
-| Streak Record | 4 |
+| Streak | 5 |
+| Streak Record | 5 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725727165,1724518255,1723443309,1722114450,1718699318,1716578864,1714995507,1714562446,1712083296,1710408143,1707936072,1703881870,1701349045];
+        let timestamps = [1727152634,1725727165,1724518255,1723443309,1722114450,1718699318,1716578864,1714995507,1714562446,1712083296,1710408143,1707936072,1703881870,1701349045];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/29 | 23-0 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ✅ | 2024/09/12 | 38-0 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |
 | ✅ | 2024/08/29 | 8-4 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ✅ | 2024/08/17 | 27-6 | [星际联盟（中国）](https://ws.tsl.rocks/corp/1deb8ab45257a86051f9c285bbbe06652a56d93118d8e442a0a30ddd179f4256/) |

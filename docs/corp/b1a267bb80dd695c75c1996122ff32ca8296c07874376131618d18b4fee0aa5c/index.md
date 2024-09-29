@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Bund von Lykon
-description: W:2 L:10 D:0 Bonus ❌
-date: 1723568789
+description: W:2 L:11 D:0 Bonus ❌
+date: 1727591544
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1118 🔻  (1148)|
-| ELO Competitive | 1155 🔻  (1112)|
-| Total Matches | 12 |
+| ELO Regular | 1108 🔻  (1171)|
+| ELO Competitive | 1147 🔻  (1145)|
+| Total Matches | 13 |
 | Wins | 2 |
-| Losses | 10 |
+| Losses | 11 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723136789,1720512325,1716915753,1712776198,1711278309,1709969156,1709965251,1708494696,1708485983,1706016719,1703181651,1702499566];
+        let timestamps = [1727159544,1723136789,1720512325,1716915753,1712776198,1711278309,1709969156,1709965251,1708494696,1708485983,1706016719,1703181651,1702499566];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -122,6 +122,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/29 | 5-39 | [Corp\. Estelar](https://ws.tsl.rocks/corp/aec01be59075af2b2995f74e3e14f47e2b3ce1bd3b74abc78200a1d6330b8a72/) |
 | ❌ | 2024/08/13 | 5-34 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |
 | ❌ | 2024/07/14 | 3-38 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |
 | ❌ | 2024/06/02 | 1-20 | [GhostNakcoorp](https://ws.tsl.rocks/corp/0a15ae22cdfbd88694d3067838a78bea07746ec95f3784b3f65d77fe47d76312/) |
