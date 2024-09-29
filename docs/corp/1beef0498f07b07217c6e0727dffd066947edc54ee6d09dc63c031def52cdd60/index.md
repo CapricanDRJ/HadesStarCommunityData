@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​ 墨痕 
-description: W:10 L:11 D:0 Bonus ✅
+description: W:10 L:11 D:0 Bonus ❌
 date: 1727004482
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1199 🔺  (490)|
-| ELO Competitive | 1245 🔺  (366)|
+| ELO Competitive | 1245 🔺  (367)|
 | Total Matches | 21 |
 | Wins | 10 |
 | Losses | 11 |
