@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​StarControl
-description: W:24 L:7 D:0 Bonus ✅
+description: W:24 L:7 D:0 Bonus ❌
 date: 1726949801
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1412 🔺  (33)|
+| ELO Regular | 1412 🔺  (34)|
 | ELO Competitive | 1483 🔺  (43)|
 | Total Matches | 31 |
 | Wins | 24 |
