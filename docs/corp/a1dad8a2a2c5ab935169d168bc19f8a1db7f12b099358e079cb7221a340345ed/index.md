@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​ДИᏰEPℂДℍTᏰℓ
-description: W:2 L:5 D:0 Bonus ❌
-date: 1727156140
+description: W:3 L:5 D:0 Bonus ✅
+date: 1727601758
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1167 🔻  (944)|
-| ELO Competitive | 1185 🔻  (803)|
-| Total Matches | 7 |
-| Wins | 2 |
+| ELO Regular | 1181 🔺  (785)|
+| ELO Competitive | 1198 🔺  (604)|
+| Total Matches | 8 |
+| Wins | 3 |
 | Losses | 5 |
 | Draws | 0 |
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726724140,1726271655,1725792672,1725774046,1725332921,1724892384,1724433207];
+        let timestamps = [1727169758,1726724140,1726271655,1725792672,1725774046,1725332921,1724892384,1724433207];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/29 | 10-1 | [The Base](https://ws.tsl.rocks/corp/c81c136682863e2c4470a00fb4b9839924b5986df008b0a8ac9a7f2756e2ed66/) |
 | ❌ | 2024/09/24 | 4-5 | [Anarchy Nation ](https://ws.tsl.rocks/corp/9c456dbf32e22070620021bf0bea4d2ab9deb0ac7ad4be06a4067a9ced5f2f5b/) |
 | ✅ | 2024/09/18 | 4-3 | [Alpha to Omega](https://ws.tsl.rocks/corp/2b3694014264240c8c0d1bb6a20e9d120dff2b6680c98b4e06e34bfd489f9da6/) |
 | ❌ | 2024/09/13 | 0-16 | [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) |

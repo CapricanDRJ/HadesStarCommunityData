@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Tormenta
-description: W:3 L:11 D:0 Bonus ❌
-date: 1726359603
+description: W:3 L:12 D:0 Bonus ❌
+date: 1727601157
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1139 🔻  (1087)|
-| ELO Competitive | 1163 🔻  (1079)|
-| Total Matches | 14 |
+| ELO Regular | 1137 🔻  (1097)|
+| ELO Competitive | 1161 🔻  (1086)|
+| Total Matches | 15 |
 | Wins | 3 |
-| Losses | 11 |
+| Losses | 12 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725927603,1725318803,1724706981,1724136606,1723516036,1722900895,1721672985,1721073460,1720467852,1719893239,1705403065,1704728720,1702912476,1701820301];
+        let timestamps = [1727169157,1725927603,1725318803,1724706981,1724136606,1723516036,1722900895,1721672985,1721073460,1720467852,1719893239,1705403065,1704728720,1702912476,1701820301];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/29 | 4-26 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) |
 | ❌ | 2024/09/15 | 8-27 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |
 | ❌ | 2024/09/07 | 1-38 | [Bl@ck/Galaxy ](https://ws.tsl.rocks/corp/76f8fe0dcd8b8c1cb8e0083f14c0b36c23bb9757a3af0f191b567774c02222a3/) |
 | ❌ | 2024/08/31 | 14-43 | [Got Nothing](https://ws.tsl.rocks/corp/ea7879fd9cbed37b260ec2bf39339786942fb34216036a90e107ba525f5924e1/) |

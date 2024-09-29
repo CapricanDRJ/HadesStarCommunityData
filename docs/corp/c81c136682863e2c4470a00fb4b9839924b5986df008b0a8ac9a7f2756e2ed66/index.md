@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​The Base
-description: W:0 L:5 D:0 Bonus ❌
-date: 1725804578
+description: W:0 L:6 D:0 Bonus ❌
+date: 1727601758
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1131 🔻  (1113)|
-| ELO Competitive | 1136 🔻  (1180)|
-| Total Matches | 5 |
+| ELO Regular | 1117 🔻  (1147)|
+| ELO Competitive | 1123 🔻  (1196)|
+| Total Matches | 6 |
 | Wins | 0 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725372578,1723242325,1722749728,1721506197,1715221801];
+        let timestamps = [1727169758,1725372578,1723242325,1722749728,1721506197,1715221801];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/29 | 1-10 | [ДИᏰEPℂДℍTᏰℓ](https://ws.tsl.rocks/corp/a1dad8a2a2c5ab935169d168bc19f8a1db7f12b099358e079cb7221a340345ed/) |
 | ❌ | 2024/09/08 | 3-7 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 | ❌ | 2024/08/14 | 2-9 | [荣耀之星](https://ws.tsl.rocks/corp/4334fd4d4ffbc89487deaec7bb38025aba46209b810578436882be271fdbff23/) |
 | ❌ | 2024/08/09 | 0-22 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
