@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​BRhue
-description: W:9 L:7 D:0 Bonus ✅
+description: W:9 L:7 D:0 Bonus ❌
 date: 1727556095
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
