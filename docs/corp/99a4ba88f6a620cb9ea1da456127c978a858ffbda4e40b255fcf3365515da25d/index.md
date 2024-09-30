@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Industrial W.O
-description: W:29 L:25 D:2 Bonus ✅
+description: W:29 L:25 D:2 Bonus ❌
 date: 1727566910
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1299 🔻  (135)|
-| ELO Competitive | 1353 🔻  (155)|
+| ELO Competitive | 1353 🔻  (156)|
 | Total Matches | 56 |
 | Wins | 29 |
 | Losses | 25 |

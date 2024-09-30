@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​使命白星
-description: W:13 L:8 D:2 Bonus ✅
+description: W:13 L:8 D:2 Bonus ❌
 date: 1727648220
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1245 🔻  (243)|
+| ELO Regular | 1245 🔻  (244)|
 | ELO Competitive | 1316 🔻  (208)|
 | Total Matches | 23 |
 | Wins | 13 |
