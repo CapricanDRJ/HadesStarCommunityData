@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Star Blazers
-description: W:11 L:29 D:1 Bonus ✅
+description: W:11 L:29 D:1 Bonus ❌
 date: 1727113776
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
