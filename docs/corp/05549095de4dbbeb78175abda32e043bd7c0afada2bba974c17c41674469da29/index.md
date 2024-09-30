@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​AntiCerberus
-description: W:1 L:2 D:1 Bonus ❌
-date: 1726801876
+description: W:1 L:3 D:1 Bonus ❌
+date: 1727687994
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (764)|
-| ELO Competitive | 1184 🔻  (864)|
-| Total Matches | 4 |
+| ELO Regular | 1170 🔻  (918)|
+| ELO Competitive | 1171 🔻  (1008)|
+| Total Matches | 5 |
 | Wins | 1 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 1 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726369876,1725753910,1725261704,1724769478];
+        let timestamps = [1727255994,1726369876,1725753910,1725261704,1724769478];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/09/30 | 2-9 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb/) |
 | ❌ | 2024/09/20 | 0-7 | [Gastro](https://ws.tsl.rocks/corp/97fa80cbbd78ba0187b5fe3310f441eae5bae995b37c17cd740f62a630d8303e/) |
 | ✅ | 2024/09/13 | 2-0 | [Cydonia Order](https://ws.tsl.rocks/corp/e55f58931b283e38b70e189f9bbc51563a76e2ae541f8b2b207444fb36d5ddf9/) |
 | ↔️ | 2024/09/07 | 3-3 | [Cydonia](https://ws.tsl.rocks/corp/d7b61bdd2b275833780d36a5bdf64fa64d7a1dbea9bde8bdcf54a7e37381214a/) |
