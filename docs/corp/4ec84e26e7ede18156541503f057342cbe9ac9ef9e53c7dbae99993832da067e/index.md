@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Legion Prime
-description: W:11 L:12 D:0 Bonus ❌
-date: 1721713118
+description: W:12 L:12 D:0 Bonus ✅
+date: 1727704223
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔻  (556)|
-| ELO Competitive | 1213 🔻  (501)|
-| Total Matches | 23 |
-| Wins | 11 |
+| ELO Regular | 1209 🔺  (417)|
+| ELO Competitive | 1239 🔺  (384)|
+| Total Matches | 24 |
+| Wins | 12 |
 | Losses | 12 |
 | Draws | 0 |
 | Streak Record | 3 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721281118,1719686494,1717657174,1717059090,1716051297,1715226553,1714244250,1713500042,1711939966,1711033718,1710424367,1709566531,1708489889,1707713396,1706601821,1705849934,1704749761,1703619215,1702737863,1702084475,1701550410,1700337103,1699382772];
+        let timestamps = [1727272223,1721281118,1719686494,1717657174,1717059090,1716051297,1715226553,1714244250,1713500042,1711939966,1711033718,1710424367,1709566531,1708489889,1707713396,1706601821,1705849934,1704749761,1703619215,1702737863,1702084475,1701550410,1700337103,1699382772];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/30 | 27-7 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ❌ | 2024/07/23 | 12-24 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ❌ | 2024/07/04 | 4-32 | [Corvus Ind\.](https://ws.tsl.rocks/corp/f99305aca0eca2f37971c97916647c8edd0258de0d30a3de61941700e7fb2c94/) |
 | ❌ | 2024/06/11 | 7-36 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) |

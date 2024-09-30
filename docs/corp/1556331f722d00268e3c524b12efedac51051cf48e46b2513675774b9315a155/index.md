@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Retarts
-description: W:24 L:19 D:2 Bonus ✅
+description: W:24 L:19 D:2 Bonus ❌
 date: 1727628807
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

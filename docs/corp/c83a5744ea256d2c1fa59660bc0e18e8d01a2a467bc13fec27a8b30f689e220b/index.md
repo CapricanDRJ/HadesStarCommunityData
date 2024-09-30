@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​SiriusStrawMoo
-description: W:12 L:5 D:1 Bonus ✅
+description: W:12 L:5 D:1 Bonus ❌
 date: 1727566610
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1278 🔻  (174)|
+| ELO Regular | 1278 🔻  (173)|
 | ELO Competitive | 1297 🔻  (238)|
 | Total Matches | 18 |
 | Wins | 12 |
