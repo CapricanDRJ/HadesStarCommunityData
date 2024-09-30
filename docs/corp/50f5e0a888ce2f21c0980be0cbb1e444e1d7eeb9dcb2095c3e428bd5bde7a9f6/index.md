@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​太阳系集团
-description: W:4 L:0 D:1 Bonus ✅
-date: 1727266112
+description: W:5 L:0 D:1 Bonus ✅
+date: 1727671771
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1262 🔺  (200)|
-| ELO Competitive | 1267 🔺  (308)|
-| Total Matches | 5 |
-| Wins | 4 |
+| ELO Regular | 1279 🔺  (172)|
+| ELO Competitive | 1286 🔺  (258)|
+| Total Matches | 6 |
+| Wins | 5 |
 | Losses | 0 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 3 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726834112,1726375938,1725930607,1725451004,1724983135];
+        let timestamps = [1727239771,1726834112,1726375938,1725930607,1725451004,1724983135];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/09/30 | 6-0 | [  边界  ](https://ws.tsl.rocks/corp/86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a/) |
 | ✅ | 2024/09/25 | 13-2 | [Hungary First](https://ws.tsl.rocks/corp/d678326dd81ae0cf5b2bb37d15dcfe7fa1477dbb6e063fbd0d34c69b5942d31b/) |
 | ↔️ | 2024/09/20 | 3-3 | [AAAA](https://ws.tsl.rocks/corp/73b759d7c9218f2c1171f9ef691739331ca36ee045039f4f3f935a47b6622a27/) |
 | ✅ | 2024/09/15 | 7-3 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |

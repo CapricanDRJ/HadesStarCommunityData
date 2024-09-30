@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Eastern Front
-description: W:41 L:44 D:1 Bonus ✅
+description: W:41 L:44 D:1 Bonus ❌
 date: 1727626102
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
