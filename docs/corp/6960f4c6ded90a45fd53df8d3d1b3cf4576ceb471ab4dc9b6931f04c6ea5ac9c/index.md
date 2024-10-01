@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​代代守护你的神明
-description: W:7 L:7 D:0 Bonus ❌
-date: 1727332821
+description: W:7 L:8 D:0 Bonus ❌
+date: 1727817043
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1204 🔻  (436)|
-| ELO Competitive | 1257 🔻  (328)|
-| Total Matches | 14 |
+| ELO Regular | 1191 🔻  (538)|
+| ELO Competitive | 1245 🔻  (366)|
+| Total Matches | 15 |
 | Wins | 7 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726900821,1726897215,1704115668,1703654974,1703651669,1703091793,1703063540,1702289450,1701775209,1701439807,1701325004,1700793630,1700327785,1699721199];
+        let timestamps = [1727385043,1726900821,1726897215,1704115668,1703654974,1703651669,1703091793,1703063540,1702289450,1701775209,1701439807,1701325004,1700793630,1700327785,1699721199];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/01 | 1-13 | [lesescargots](https://ws.tsl.rocks/corp/718c873931e9097064fd6ef580fe9d8761be712e0783e0b97d28344abd910623/) |
 | ❌ | 2024/09/26 | 1-16 | [TeddisaurusWrex](https://ws.tsl.rocks/corp/88f37fd0ab1f14c7e06af4173800167f8d1f5db4022c1cd42637da431140ef7a/) |
 | ❌ | 2024/09/26 | 3-13 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 | ✅ | 2024/01/06 | 3-2 | [the Rubber Duck](https://ws.tsl.rocks/corp/bfd6a197d72d0b643c6693e66b9a10db61f75ae242a0bd7c09bdd553ae951ee6/) |

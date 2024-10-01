@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​sk cz nebula
-description: W:14 L:6 D:0 Bonus ✅
-date: 1727354157
+description: W:14 L:7 D:0 Bonus ✅
+date: 1727812108
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1286 🔺  (161)|
-| ELO Competitive | 1340 🔺  (174)|
-| Total Matches | 20 |
+| ELO Regular | 1268 🔻  (189)|
+| ELO Competitive | 1321 🔻  (204)|
+| Total Matches | 21 |
 | Wins | 14 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 0 |
 | Streak Record | 6 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726922157,1724404590,1724364994,1723826159,1723194180,1722689925,1721325292,1720622919,1719533540,1719025364,1718397605,1717720893,1716056105,1714885846,1713644853,1713028591,1710664448,1708932511,1706980769,1705259732];
+        let timestamps = [1727380108,1726922157,1724404590,1724364994,1723826159,1723194180,1722689925,1721325292,1720622919,1719533540,1719025364,1718397605,1717720893,1716056105,1714885846,1713644853,1713028591,1710664448,1708932511,1706980769,1705259732];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/01 | 7-17 | [Galaxians](https://ws.tsl.rocks/corp/94728c6eb201c1f15c6e2304b5920aa155ccc1a7aac83b574baae51c53a22c5d/) |
 | ✅ | 2024/09/26 | 19-1 | [普罗米修斯](https://ws.tsl.rocks/corp/f39d00b1bbbf87c158931fd887f37a588019d0b1fd4f2441fbc675674b71423a/) |
 | ❌ | 2024/08/28 | 4-5 | [●Black•Sails●](https://ws.tsl.rocks/corp/fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31/) |
 | ❌ | 2024/08/27 | 2-5 | [StellaMysterium](https://ws.tsl.rocks/corp/cfaaa81ed93cc9361ade470c3414c73ecf77068badd68d624c7b3f486d142b10/) |

@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​星环建设集团
-description: W:9 L:6 D:2 Bonus ✅
+description: W:9 L:6 D:2 Bonus ❌
 date: 1727197909
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1231 🔺  (291)|
-| ELO Competitive | 1246 🔺  (361)|
+| ELO Regular | 1231 🔺  (292)|
+| ELO Competitive | 1246 🔺  (360)|
 | Total Matches | 17 |
 | Wins | 9 |
 | Losses | 6 |

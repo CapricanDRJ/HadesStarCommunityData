@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​ISERLOHN
-description: W:7 L:0 D:0 Bonus ✅
+description: W:7 L:0 D:0 Bonus ❌
 date: 1727192760
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
