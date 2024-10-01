@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Warriorlords
-description: W:23 L:14 D:0 Bonus ❌
-date: 1727144423
+description: W:24 L:14 D:0 Bonus ✅
+date: 1727800687
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1287 🔻  (157)|
-| ELO Competitive | 1427 🔻  (82)|
-| Total Matches | 37 |
-| Wins | 23 |
+| ELO Regular | 1309 🔺  (116)|
+| ELO Competitive | 1445 🔺  (69)|
+| Total Matches | 38 |
+| Wins | 24 |
 | Losses | 14 |
 | Draws | 0 |
 | Streak Record | 8 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726712423,1726505176,1725423063,1725252389,1724281754,1724088829,1722971214,1722813146,1721762539,1721585834,1720639754,1720466650,1719171133,1719013345,1718221952,1718059074,1717264050,1717091550,1716400113,1716237280,1715522202,1715375276,1714570560,1714391172,1713804386,1713802884,1712924322,1712841393,1712087203,1711380775,1710244993,1709554511,1708508517,1707222185,1706725035,1706264638,1705340564];
+        let timestamps = [1727368687,1726712423,1726505176,1725423063,1725252389,1724281754,1724088829,1722971214,1722813146,1721762539,1721585834,1720639754,1720466650,1719171133,1719013345,1718221952,1718059074,1717264050,1717091550,1716400113,1716237280,1715522202,1715375276,1714570560,1714391172,1713804386,1713802884,1712924322,1712841393,1712087203,1711380775,1710244993,1709554511,1708508517,1707222185,1706725035,1706264638,1705340564];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/01 | 25-2 | [Atlas Star llc\.](https://ws.tsl.rocks/corp/3de5259ba12509e4d02854f1414caacf3d0aaaf79f417b9d843ff20ca35863dd/) |
 | ❌ | 2024/09/24 | 11-12 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ❌ | 2024/09/21 | 5-26 | [Bl@ck/Galaxy ](https://ws.tsl.rocks/corp/76f8fe0dcd8b8c1cb8e0083f14c0b36c23bb9757a3af0f191b567774c02222a3/) |
 | ✅ | 2024/09/09 | 19-3 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |

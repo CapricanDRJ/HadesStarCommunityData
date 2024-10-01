@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Nox Imperium
-description: W:8 L:2 D:0 Bonus ✅
-date: 1727330116
+description: W:9 L:2 D:0 Bonus ✅
+date: 1727798582
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1261 🔺  (199)|
-| ELO Competitive | 1278 🔺  (284)|
-| Total Matches | 10 |
-| Wins | 8 |
+| ELO Regular | 1274 🔺  (178)|
+| ELO Competitive | 1290 🔺  (251)|
+| Total Matches | 11 |
+| Wins | 9 |
 | Losses | 2 |
 | Draws | 0 |
-| Streak | 4 |
-| Streak Record | 4 |
+| Streak | 5 |
+| Streak Record | 5 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726898116,1726457394,1725972971,1725537544,1725027912,1724591276,1724153132,1723641646,1723203498,1722757542];
+        let timestamps = [1727366582,1726898116,1726457394,1725972971,1725537544,1725027912,1724591276,1724153132,1723641646,1723203498,1722757542];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/01 | 13-5 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) |
 | ✅ | 2024/09/26 | 17-0 | [以太超星团](https://ws.tsl.rocks/corp/327addf616128dc5b01013e29e850c76d22ae27af199bcc6bba3b92cee7818ae/) |
 | ✅ | 2024/09/21 | 11-0 | [Mega Corp](https://ws.tsl.rocks/corp/a30e9d9c153508aae950f9a2502286ee3c0290c79ca4d9c93766e4978031302f/) |
 | ✅ | 2024/09/15 | 15-0 | [Dark Halo](https://ws.tsl.rocks/corp/f6ed7c780faf133d3fe411b9ed88480608a56064328539891d1b4348242954f6/) |
