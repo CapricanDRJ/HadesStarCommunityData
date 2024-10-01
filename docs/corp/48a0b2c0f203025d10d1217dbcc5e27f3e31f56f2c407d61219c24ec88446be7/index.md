@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​RGW
-description: W:17 L:6 D:0 Bonus ✅
-date: 1727167857
+description: W:18 L:6 D:0 Bonus ✅
+date: 1727770932
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1344 🔺  (82)|
-| ELO Competitive | 1377 🔺  (128)|
-| Total Matches | 23 |
-| Wins | 17 |
+| ELO Regular | 1367 🔺  (67)|
+| ELO Competitive | 1400 🔺  (109)|
+| Total Matches | 24 |
+| Wins | 18 |
 | Losses | 6 |
 | Draws | 0 |
-| Streak | 13 |
-| Streak Record | 13 |
+| Streak | 14 |
+| Streak Record | 14 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726735857,1726050794,1725523722,1723108839,1722499406,1721902869,1721327696,1720615107,1718273932,1717409823,1716379680,1715600921,1714644970,1713190252,1712410212,1711284019,1708321911,1706606929,1706122501,1704911135,1703654180,1702812697,1702312293];
+        let timestamps = [1727338932,1726735857,1726050794,1725523722,1723108839,1722499406,1721902869,1721327696,1720615107,1718273932,1717409823,1716379680,1715600921,1714644970,1713190252,1712410212,1711284019,1708321911,1706606929,1706122501,1704911135,1703654180,1702812697,1702312293];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/01 | 29-3 | [Ninth Planet](https://ws.tsl.rocks/corp/53297ed66c8c326d4cb4eebdee55172d3d64f122addd5d916b314f4ab557e21a/) |
 | ✅ | 2024/09/24 | 29-6 | [QONQR ](https://ws.tsl.rocks/corp/5e23ade08a63b2c440a6a4c1a9ecfb6b1cfca34523c1a528d075bd06eaf5d019/) |
 | ✅ | 2024/09/16 | 28-0 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ✅ | 2024/09/10 | 27-0 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) |

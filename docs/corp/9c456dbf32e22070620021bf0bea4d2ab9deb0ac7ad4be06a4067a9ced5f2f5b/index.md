@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Anarchy Nation 
-description: W:9 L:3 D:1 Bonus ✅
+description: W:9 L:3 D:1 Bonus ❌
 date: 1727156140
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Widow Makers
-description: W:9 L:2 D:0 Bonus ✅
-date: 1727202718
+description: W:10 L:2 D:0 Bonus ✅
+date: 1727775739
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1300 🔺  (132)|
-| ELO Competitive | 1331 🔺  (186)|
-| Total Matches | 11 |
-| Wins | 9 |
+| ELO Regular | 1309 🔺  (116)|
+| ELO Competitive | 1341 🔺  (171)|
+| Total Matches | 12 |
+| Wins | 10 |
 | Losses | 2 |
 | Draws | 0 |
-| Streak | 6 |
-| Streak Record | 6 |
+| Streak | 7 |
+| Streak Record | 7 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726770718,1725811911,1724631249,1724029029,1723490195,1722376807,1711117848,1709053914,1708620301,1708000075,1707401635];
+        let timestamps = [1727343739,1726770718,1725811911,1724631249,1724029029,1723490195,1722376807,1711117848,1709053914,1708620301,1708000075,1707401635];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/01 | 26-20 | [ProyectCorp](https://ws.tsl.rocks/corp/ac76fbb017abc5511e6d39625245f0cd8f145ef5ba96ae1760d7f2389b5e0fe1/) |
 | ✅ | 2024/09/24 | 27-6 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) |
 | ✅ | 2024/09/13 | 38-27 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) |
 | ✅ | 2024/08/31 | 38-3 | [CTG](https://ws.tsl.rocks/corp/9647a8507dfa5637a217d2d6a0ad47aefb6a4563f910ad46376c228450cff43c/) |
