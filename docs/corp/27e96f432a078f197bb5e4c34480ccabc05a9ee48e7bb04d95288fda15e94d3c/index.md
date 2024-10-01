@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Últimafronteira
-description: W:11 L:0 D:0 Bonus ✅
-date: 1727180176
+description: W:12 L:0 D:0 Bonus ✅
+date: 1727777843
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1338 🔺  (91)|
-| ELO Competitive | 1346 🔺  (166)|
-| Total Matches | 11 |
-| Wins | 11 |
+| ELO Regular | 1345 🔺  (82)|
+| ELO Competitive | 1354 🔺  (152)|
+| Total Matches | 12 |
+| Wins | 12 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 11 |
-| Streak Record | 11 |
+| Streak | 12 |
+| Streak Record | 12 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726748176,1725573311,1724483991,1723845994,1721961171,1721344524,1718508192,1718062679,1718062379,1717610294,1716578864];
+        let timestamps = [1727345843,1726748176,1725573311,1724483991,1723845994,1721961171,1721344524,1718508192,1718062679,1718062379,1717610294,1716578864];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/01 | 34-0 | [\(\_\(\_Vossk\_\)\_\)](https://ws.tsl.rocks/corp/6db23201f00670abe532f02a8fc28e109f95d673ef31ca1df7362c0a6c45dd2f/) |
 | ✅ | 2024/09/24 | 33-0 | [U\.S\.A](https://ws.tsl.rocks/corp/6d7a18e9893736881762a4e1b687b55e7311d367267ff5a9cc8e45722b14ea06/) |
 | ✅ | 2024/09/10 | 37-0 | [Angel Dragon](https://ws.tsl.rocks/corp/2f2e44c159dc8f4e15e2dabda533d9db8697d2c6c06735d926d180b3aa056dcf/) |
 | ✅ | 2024/08/29 | 39-3 | [Quin Armarda 2](https://ws.tsl.rocks/corp/529de2f6f4f84d776caefa1e49ce587d581b86c0659533f7fab2eb642b04a928/) |
