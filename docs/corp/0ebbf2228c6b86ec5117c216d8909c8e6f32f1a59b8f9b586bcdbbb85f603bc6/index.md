@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Greek Warriors
-description: W:8 L:23 D:0 Bonus ❌
-date: 1726593754
+description: W:8 L:24 D:0 Bonus ❌
+date: 1727791067
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1137 🔻  (1104)|
-| ELO Competitive | 1168 🔻  (1038)|
-| Total Matches | 31 |
+| ELO Regular | 1132 🔻  (1111)|
+| ELO Competitive | 1164 🔻  (1070)|
+| Total Matches | 32 |
 | Wins | 8 |
-| Losses | 23 |
+| Losses | 24 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726161754,1725627391,1723038223,1721948252,1720720905,1719520319,1718828844,1718227061,1717603981,1716498958,1715274026,1714682635,1714061570,1713452570,1712260278,1711651193,1710436087,1709841158,1709237505,1708627514,1707933668,1706899330,1705939187,1702495029,1701886718,1701418468,1700849832,1700395708,1700394506,1699906059,1699841439];
+        let timestamps = [1727359067,1726161754,1725627391,1723038223,1721948252,1720720905,1719520319,1718828844,1718227061,1717603981,1716498958,1715274026,1714682635,1714061570,1713452570,1712260278,1711651193,1710436087,1709841158,1709237505,1708627514,1707933668,1706899330,1705939187,1702495029,1701886718,1701418468,1700849832,1700395708,1700394506,1699906059,1699841439];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,7 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
-| [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) | 0 | 2 | 0 | 2 |
+| [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) | 0 | 3 | 0 | 3 |
 | [Valhalla Rising](https://ws.tsl.rocks/corp/8843a04f5528aa779a62f129af7ef619b90742807f0d436ae85a69870206b254/) | 0 | 3 | 0 | 3 |
 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) | 0 | 2 | 0 | 2 |
 
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/01 | 7-31 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) |
 | ❌ | 2024/09/17 | 3-33 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) |
 | ✅ | 2024/09/11 | 19-8 | [The Allegiant](https://ws.tsl.rocks/corp/1c4cfbcf7902769aff100297d9174153f4c0528ed07918ba494f763a1315ffc6/) |
 | ❌ | 2024/08/12 | 3-21 | [Scar](https://ws.tsl.rocks/corp/1fd57b7d50b68cb3883fd58e596f496821ebcc82dee1915bb7f34a402b03c44a/) |

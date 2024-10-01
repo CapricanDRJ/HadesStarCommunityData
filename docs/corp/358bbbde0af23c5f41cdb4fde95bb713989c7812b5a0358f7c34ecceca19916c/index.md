@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Cyber Star
-description: W:27 L:16 D:0 Bonus ✅
+description: W:27 L:16 D:0 Bonus ❌
 date: 1727178372
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
