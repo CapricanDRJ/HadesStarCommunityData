@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​First Squad
-description: W:5 L:8 D:0 Bonus ❌
-date: 1727212935
+description: W:5 L:8 D:1 Bonus ❌
+date: 1727851465
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔻  (943)|
-| ELO Competitive | 1199 🔺  (593)|
-| Total Matches | 13 |
+| ELO Regular | 1161 🔻  (992)|
+| ELO Competitive | 1193 🔻  (632)|
+| Total Matches | 14 |
 | Wins | 5 |
 | Losses | 8 |
-| Draws | 0 |
+| Draws | 1 |
 | Streak Record | 4 |
 
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726780935,1726780635,1726174902,1726174302,1725013784,1717527346,1716602003,1714325677,1710971228,1707487273,1704271635,1701628552,1700869973];
+        let timestamps = [1727419465,1726780935,1726780635,1726174902,1726174302,1725013784,1717527346,1716602003,1714325677,1710971228,1707487273,1704271635,1701628552,1700869973];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/10/02 | 3-3 | [Alpha ](https://ws.tsl.rocks/corp/accb87a59c1f019d1be37fa2b19ae2aeb35c4a995d1d621a8e987065cd1328fe/) |
 | ❌ | 2024/09/24 | 3-17 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
 | ✅ | 2024/09/24 | 38-3 | [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) |
 | ✅ | 2024/09/17 | 8-6 | [Galaktika corp](https://ws.tsl.rocks/corp/c37872d1ea085402bf536c707a895610f72dafda4bede848405b7908b4523985/) |
