@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Gastro
-description: W:4 L:4 D:0 Bonus ❌
-date: 1726801876
+description: W:4 L:5 D:0 Bonus ❌
+date: 1727860478
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1203 🔺  (441)|
-| ELO Competitive | 1210 🔺  (525)|
-| Total Matches | 8 |
+| ELO Regular | 1192 🔻  (533)|
+| ELO Competitive | 1199 🔻  (594)|
+| Total Matches | 9 |
 | Wins | 4 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
 | Streak Record | 3 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726369876,1724559119,1722907205,1721092693,1719287071,1716941298,1715153245,1714459686];
+        let timestamps = [1727428478,1726369876,1724559119,1722907205,1721092693,1719287071,1716941298,1715153245,1714459686];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/02 | 1-21 | [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) |
 | ✅ | 2024/09/20 | 7-0 | [AntiCerberus](https://ws.tsl.rocks/corp/05549095de4dbbeb78175abda32e043bd7c0afada2bba974c17c41674469da29/) |
 | ❌ | 2024/08/30 | 3-8 | [无聊不过](https://ws.tsl.rocks/corp/6099bd39cf8510ea3ef2be0fe05df95266b12acfdcbe1bd58a4c33e9c3f25934/) |
 | ✅ | 2024/08/11 | 6-3 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
