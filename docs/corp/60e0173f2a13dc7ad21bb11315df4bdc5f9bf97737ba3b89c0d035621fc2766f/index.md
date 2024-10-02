@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​SILVER TERRA
-description: W:15 L:11 D:0 Bonus ✅
-date: 1727314793
+description: W:15 L:12 D:0 Bonus ✅
+date: 1727903460
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1278 🔺  (172)|
-| ELO Competitive | 1323 🔺  (199)|
-| Total Matches | 26 |
+| ELO Regular | 1267 🔻  (191)|
+| ELO Competitive | 1313 🔻  (214)|
+| Total Matches | 27 |
 | Wins | 15 |
-| Losses | 11 |
+| Losses | 12 |
 | Draws | 0 |
-| Streak | 4 |
 | Streak Record | 4 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726882793,1726260840,1725655645,1725057967,1724453043,1723929849,1723252184,1722632834,1722024578,1721442184,1720647870,1720213310,1719605958,1718396403,1717792498,1716678638,1716071429,1714986494,1714163126,1713558018,1712935740,1704855841,1703501707,1702391036,1701298561,1700793330];
+        let timestamps = [1727471460,1726882793,1726260840,1725655645,1725057967,1724453043,1723929849,1723252184,1722632834,1722024578,1721442184,1720647870,1720213310,1719605958,1718396403,1717792498,1716678638,1716071429,1714986494,1714163126,1713558018,1712935740,1704855841,1703501707,1702391036,1701298561,1700793330];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -127,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/02 | 6-16 | [Spica​](https://ws.tsl.rocks/corp/df96d6d34c4906312183050c8aa7a502678ab2902b7c23112aa9fda827bb4191/) |
 | ✅ | 2024/09/26 | 20-1 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
 | ✅ | 2024/09/18 | 16-3 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |
 | ✅ | 2024/09/11 | 25-2 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |

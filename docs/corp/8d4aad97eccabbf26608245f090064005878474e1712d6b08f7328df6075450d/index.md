@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​Серебряная орда
-description: W:49 L:39 D:2 Bonus ✅
+description: W:49 L:39 D:2 Bonus ❌
 date: 1727877609
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1194 🔻  (515)|
+| ELO Regular | 1194 🔻  (514)|
 | ELO Competitive | 1401 🔻  (108)|
 | Total Matches | 90 |
 | Wins | 49 |
