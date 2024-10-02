@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​First Squad
-description: W:5 L:8 D:0 Bonus ✅
+description: W:5 L:8 D:0 Bonus ❌
 date: 1727212935
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔻  (944)|
+| ELO Regular | 1168 🔻  (943)|
 | ELO Competitive | 1199 🔺  (593)|
 | Total Matches | 13 |
 | Wins | 5 |
