@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​水晶星际集团
-description: W:6 L:24 D:0 Bonus ❌
-date: 1725023276
+description: W:6 L:25 D:0 Bonus ❌
+date: 1727926694
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1057 🔻  (1225)|
-| ELO Competitive | 1101 🔺  (1231)|
-| Total Matches | 30 |
+| ELO Regular | 1047 🔻  (1232)|
+| ELO Competitive | 1091 🔻  (1238)|
+| Total Matches | 31 |
 | Wins | 6 |
-| Losses | 24 |
+| Losses | 25 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724591276,1724591276,1724079812,1722761148,1721129957,1721129657,1719657040,1717020333,1716008930,1715224751,1714396881,1713018973,1712578785,1712140980,1711284019,1710411447,1709978472,1709486721,1709035281,1708572824,1708095935,1707654196,1707141838,1706623157,1706176888,1705701779,1704546602,1703809146,1703314182,1702041491];
+        let timestamps = [1727494694,1724591276,1724591276,1724079812,1722761148,1721129957,1721129657,1719657040,1717020333,1716008930,1715224751,1714396881,1713018973,1712578785,1712140980,1711284019,1710411447,1709978472,1709486721,1709035281,1708572824,1708095935,1707654196,1707141838,1706623157,1706176888,1705701779,1704546602,1703809146,1703314182,1702041491];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/03 | 0-11 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 | ❌ | 2024/08/30 | 0-13 | [Nox Imperium](https://ws.tsl.rocks/corp/b60fb003fae650d1de18e7bca4fad04f9805501f4568d07ceb47bffdfeb613c1/) |
 | ✅ | 2024/08/30 | 5-0 | [初始之音](https://ws.tsl.rocks/corp/79f48676f0ad15541a751311b97bae91c977d65480891a675585fc396c20bdb9/) |
 | ❌ | 2024/08/24 | 0-19 | [Forces of Light](https://ws.tsl.rocks/corp/0363a536567ae69573a7b0aa4b2c4119c5c14999f5bb2c7a68219b22b78f7903/) |
