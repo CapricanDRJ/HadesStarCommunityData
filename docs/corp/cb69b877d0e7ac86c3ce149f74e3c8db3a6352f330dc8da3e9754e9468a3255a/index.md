@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​⭐PRETORIANS.X⭐
-description: W:1 L:5 D:0 Bonus ❌
-date: 1727364677
+description: W:1 L:6 D:0 Bonus ❌
+date: 1727970855
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1147 🔻  (1060)|
-| ELO Competitive | 1181 🔻  (902)|
-| Total Matches | 6 |
+| ELO Regular | 1133 🔻  (1106)|
+| ELO Competitive | 1165 🔻  (1066)|
+| Total Matches | 7 |
 | Wins | 1 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726932677,1726916748,1726411408,1726362718,1725900558,1725457917];
+        let timestamps = [1727538855,1726932677,1726916748,1726411408,1726362718,1725900558,1725457917];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/03 | 0-5 | [情谊永存](https://ws.tsl.rocks/corp/a3fee40ae9e62b95f50c653b7acf4990fee7b21461807dc90da90d429063a98c/) |
 | ❌ | 2024/09/26 | 1-4 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) |
 | ❌ | 2024/09/26 | 0-8 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 | ❌ | 2024/09/20 | 2-6 | [落雨观花](https://ws.tsl.rocks/corp/565a6d89fc5107e86669d7f8910a1c4ae1fbb156fa0b5e81dbc917c341cc9ff0/) |

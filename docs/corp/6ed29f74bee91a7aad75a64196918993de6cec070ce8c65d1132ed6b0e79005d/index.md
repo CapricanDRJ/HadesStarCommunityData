@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​sk cz nebula
-description: W:14 L:7 D:0 Bonus ✅
+description: W:14 L:7 D:0 Bonus ❌
 date: 1727812108
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
