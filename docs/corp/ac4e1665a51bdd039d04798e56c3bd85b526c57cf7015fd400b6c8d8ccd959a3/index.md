@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​63SALVADORES36
-description: W:2 L:5 D:1 Bonus ✅
-date: 1727496592
+description: W:2 L:6 D:1 Bonus ✅
+date: 1727988803
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1162 🔺  (989)|
-| ELO Competitive | 1200 🔺  (583)|
-| Total Matches | 8 |
+| ELO Regular | 1148 🔻  (1059)|
+| ELO Competitive | 1186 🔻  (793)|
+| Total Matches | 9 |
 | Wins | 2 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 1 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727064592,1727056182,1726564970,1726560764,1726118619,1726100381,1718076198,1715859906];
+        let timestamps = [1727556803,1727064592,1727056182,1726564970,1726560764,1726118619,1726100381,1718076198,1715859906];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/03 | 3-7 | [CTG](https://ws.tsl.rocks/corp/9647a8507dfa5637a217d2d6a0ad47aefb6a4563f910ad46376c228450cff43c/) |
 | ✅ | 2024/09/28 | 3-1 | [麻雀集团](https://ws.tsl.rocks/corp/bf5e5ea02e24918ed66d543902f4315f957c79c9bc1bd434c034158e9f648abe/) |
 | ❌ | 2024/09/28 | 2-12 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) |
 | ❌ | 2024/09/22 | 0-3 | [星舰国际](https://ws.tsl.rocks/corp/2142b75cc6d1c522c423a860fbda7616d7745f8fee25121ec3a8f26068b0f3b5/) |

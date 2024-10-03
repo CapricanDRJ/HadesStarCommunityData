@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​AlSounT
-description: W:5 L:6 D:0 Bonus ✅
+description: W:5 L:6 D:0 Bonus ❌
 date: 1727860178
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (613)|
-| ELO Competitive | 1199 🔻  (596)|
+| ELO Regular | 1186 🔻  (615)|
+| ELO Competitive | 1199 🔻  (595)|
 | Total Matches | 11 |
 | Wins | 5 |
 | Losses | 6 |
