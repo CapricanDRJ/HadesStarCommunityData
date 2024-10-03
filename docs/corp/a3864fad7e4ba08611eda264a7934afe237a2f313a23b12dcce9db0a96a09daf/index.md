@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​<•|•>
-description: W:2 L:6 D:1 Bonus ❌
-date: 1725969544
+description: W:2 L:7 D:1 Bonus ❌
+date: 1727941017
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1143 🔻  (1077)|
-| ELO Competitive | 1153 🔻  (1122)|
-| Total Matches | 9 |
+| ELO Regular | 1130 🔻  (1120)|
+| ELO Competitive | 1140 🔻  (1174)|
+| Total Matches | 10 |
 | Wins | 2 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 1 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725537544,1723962299,1723408155,1722895788,1722340138,1721729175,1720857653,1720155610,1716780511];
+        let timestamps = [1727509017,1725537544,1723962299,1723408155,1722895788,1722340138,1721729175,1720857653,1720155610,1716780511];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/03 | 2-11 | [斯比纳兰](https://ws.tsl.rocks/corp/ce756ff97542e6fa8d518319e6575aae1d01eb23dd906fee3e3cbb98b442b68f/) |
 | ❌ | 2024/09/10 | 1-12 | [Nox Imperium](https://ws.tsl.rocks/corp/b60fb003fae650d1de18e7bca4fad04f9805501f4568d07ceb47bffdfeb613c1/) |
 | ❌ | 2024/08/23 | 2-14 | [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) |
 | ❌ | 2024/08/16 | 0-7 | [EarthFederation](https://ws.tsl.rocks/corp/e1d58bc0b534389adeb45301641e32cdda2af0a1748a0d2ddb52e794db2c6d5b/) |
