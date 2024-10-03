@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Vega Conflict
-description: W:9 L:8 D:0 Bonus ❌
-date: 1726301901
+description: W:9 L:9 D:0 Bonus ❌
+date: 1727958747
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1224 🔻  (318)|
-| ELO Competitive | 1248 🔻  (353)|
-| Total Matches | 17 |
+| ELO Regular | 1211 🔻  (408)|
+| ELO Competitive | 1236 🔻  (390)|
+| Total Matches | 18 |
 | Wins | 9 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 0 |
 | Streak Record | 3 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725869901,1724725607,1723946373,1722772869,1721565092,1720522241,1719861390,1719272704,1718560788,1715555561,1713763224,1712570071,1711325494,1710759701,1705248610,1702289450,1699897040];
+        let timestamps = [1727526747,1725869901,1724725607,1723946373,1722772869,1721565092,1720522241,1719861390,1719272704,1718560788,1715555561,1713763224,1712570071,1711325494,1710759701,1705248610,1702289450,1699897040];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/03 | 10-11 | [The Allegiant](https://ws.tsl.rocks/corp/1c4cfbcf7902769aff100297d9174153f4c0528ed07918ba494f763a1315ffc6/) |
 | ❌ | 2024/09/14 | 6-44 | [Ark Summit](https://ws.tsl.rocks/corp/5940b759f3f833f4c6b35733e1f642a64d5589c1c692e34d030383be08e95e02/) |
 | ❌ | 2024/09/01 | 7-32 | [Red Dawn](https://ws.tsl.rocks/corp/fee852a2530bc5e3cbe5b2a5fdb224d249eeceeb3688cfd71479344181831328/) |
 | ❌ | 2024/08/23 | 2-28 | [Scar](https://ws.tsl.rocks/corp/1fd57b7d50b68cb3883fd58e596f496821ebcc82dee1915bb7f34a402b03c44a/) |
