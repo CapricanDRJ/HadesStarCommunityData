@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​koalition
-description: W:10 L:7 D:1 Bonus ❌
-date: 1725915411
+description: W:11 L:7 D:1 Bonus ✅
+date: 1727906205
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1233 🔻  (290)|
-| ELO Competitive | 1250 🔻  (347)|
-| Total Matches | 18 |
-| Wins | 10 |
+| ELO Regular | 1246 🔺  (241)|
+| ELO Competitive | 1262 🔺  (316)|
+| Total Matches | 19 |
+| Wins | 11 |
 | Losses | 7 |
 | Draws | 1 |
 | Streak Record | 8 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725483411,1724675332,1724112269,1722703673,1722254194,1721717758,1721129957,1720560037,1719745689,1719087560,1718487336,1717929537,1717445900,1716925122,1716123104,1713447160,1706916461,1705854143];
+        let timestamps = [1727474205,1725483411,1724675332,1724112269,1722703673,1722254194,1721717758,1721129957,1720560037,1719745689,1719087560,1718487336,1717929537,1717445900,1716925122,1716123104,1713447160,1706916461,1705854143];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/02 | 10-0 | [Betelgeuse](https://ws.tsl.rocks/corp/fdd9da8c45ea525e6dd825eede02253ebe322523e06a0e1c30ccb0401c60e081/) |
 | ❌ | 2024/09/09 | 0-13 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ❌ | 2024/08/31 | 0-7 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
 | ❌ | 2024/08/25 | 8-14 | [P\!RAT£ SHIP](https://ws.tsl.rocks/corp/edee949826201f74f57f45c101789757954710e3d075602dfdda7765a69a7e7c/) |

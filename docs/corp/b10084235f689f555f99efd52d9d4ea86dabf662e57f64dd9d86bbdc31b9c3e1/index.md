@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Hexwood
-description: W:9 L:4 D:0 Bonus ✅
+description: W:9 L:4 D:0 Bonus ❌
 date: 1727295564
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

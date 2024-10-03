@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Betelgeuse
-description: W:0 L:1 D:0 Bonus ❌
-date: 1716136660
+description: W:0 L:2 D:0 Bonus ❌
+date: 1727906205
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (626)|
-| ELO Competitive | 1186 🔻  (759)|
-| Total Matches | 1 |
+| ELO Regular | 1173 🔻  (850)|
+| ELO Competitive | 1174 🔻  (964)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1715704660];
+        let timestamps = [1727474205,1715704660];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/02 | 0-10 | [koalition](https://ws.tsl.rocks/corp/68d721684ab83df28cba0a58c608e5dd3c58df79369abffa67da4e8956ef2695/) |
 | ❌ | 2024/05/19 | 0-14 | [Armored Union ](https://ws.tsl.rocks/corp/4dacc02ca314ab864578421db538b0eb10b0c8c81dc0edd91c5090717d087c7f/) |
 
 Corporation ID: fdd9da8c45ea525e6dd825eede02253ebe322523e06a0e1c30ccb0401c60e081
