@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​MÉXICO INFINITO
-description: W:19 L:25 D:0 Bonus ❌
-date: 1726945325
+description: W:19 L:26 D:0 Bonus ❌
+date: 1727929599
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (813)|
-| ELO Competitive | 1260 🔻  (322)|
-| Total Matches | 44 |
+| ELO Regular | 1162 🔻  (987)|
+| ELO Competitive | 1243 🔻  (377)|
+| Total Matches | 45 |
 | Wins | 19 |
-| Losses | 25 |
+| Losses | 26 |
 | Draws | 0 |
 | Streak Record | 4 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726513325,1725648401,1724538991,1723511529,1722744320,1722220241,1721779667,1721342121,1720301966,1719782660,1719690101,1717298613,1716834007,1716145943,1715302869,1715224751,1714639364,1712782209,1711729023,1710092060,1710092060,1709331642,1709331256,1708631421,1708626312,1707906402,1707178016,1706462082,1705820781,1705809364,1705217352,1705214648,1704765086,1704753969,1704122882,1703981344,1703647462,1703495997,1702797068,1702601723,1702094091,1702074859,1701385115,1700071056];
+        let timestamps = [1727497599,1726513325,1725648401,1724538991,1723511529,1722744320,1722220241,1721779667,1721342121,1720301966,1719782660,1719690101,1717298613,1716834007,1716145943,1715302869,1715224751,1714639364,1712782209,1711729023,1710092060,1710092060,1709331642,1709331256,1708631421,1708626312,1707906402,1707178016,1706462082,1705820781,1705809364,1705217352,1705214648,1704765086,1704753969,1704122882,1703981344,1703647462,1703495997,1702797068,1702601723,1702094091,1702074859,1701385115,1700071056];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/03 | 2-20 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/e01ddddb6641e517ed1a92f432da420ac4b876313397d3fe94cc8b1dbecf574d/) |
 | ❌ | 2024/09/21 | 1-25 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
 | ✅ | 2024/09/11 | 15-0 | [很多星球的社会主义团](https://ws.tsl.rocks/corp/dcac8e5bb444db7feec894f3be5a6f373fd0025a6ec79ccc125dd8b7bf652bc2/) |
 | ❌ | 2024/08/29 | 8-15 | [Forces of Light](https://ws.tsl.rocks/corp/0363a536567ae69573a7b0aa4b2c4119c5c14999f5bb2c7a68219b22b78f7903/) |
