@@ -1,19 +1,21 @@
 ---
 layout: page
 title: ​Imperium
-description: W:1 L:0 D:0 Bonus ❌
-date: 1724871819
+description: W:2 L:0 D:0 Bonus ✅
+date: 1727994813
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺  (362)|
-| ELO Competitive | 1216 🔺  (482)|
-| Total Matches | 1 |
-| Wins | 1 |
+| ELO Regular | 1231 🔺  (294)|
+| ELO Competitive | 1231 🔺  (404)|
+| Total Matches | 2 |
+| Wins | 2 |
 | Losses | 0 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 
 
 # Whitestar Match Day
@@ -30,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724439819];
+        let timestamps = [1727562813,1724439819];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/03 | 25-3 | [Omega corp](https://ws.tsl.rocks/corp/17140be6e5915edf2d09ebcf246a7c2650cf39def04823c9a04bdf81ff8fc38e/) |
 | ✅ | 2024/08/28 | 14-3 | [EarthFederation](https://ws.tsl.rocks/corp/e1d58bc0b534389adeb45301641e32cdda2af0a1748a0d2ddb52e794db2c6d5b/) |
 
 Corporation ID: 9e2ab6b52a6e6684059b31f08966101f380a17c9a782d2a39434093e835fb17d
