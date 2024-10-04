@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Lacuna X
-description: W:38 L:6 D:0 Bonus ✅
-date: 1727497794
+description: W:39 L:6 D:0 Bonus ✅
+date: 1728070239
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1463 🔺  (18)|
-| ELO Competitive | 1494 🔺  (38)|
-| Total Matches | 44 |
-| Wins | 38 |
+| ELO Regular | 1472 🔺  (16)|
+| ELO Competitive | 1503 🔺  (35)|
+| Total Matches | 45 |
+| Wins | 39 |
 | Losses | 6 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 17 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727065794,1726417121,1725722656,1725169149,1724465361,1723952683,1723317097,1721512808,1720970064,1720330207,1719673571,1718576417,1717905194,1717319955,1716688251,1716071729,1715470523,1714884344,1714258672,1713640645,1713043317,1712437560,1711723013,1711183653,1710658438,1709968255,1709394357,1708791885,1708131696,1707570207,1706889111,1706285075,1705657599,1705133507,1704578464,1703947381,1703241152,1702707429,1702160217,1701493906,1700824281,1700285105,1699670394,1698986407];
+        let timestamps = [1727638239,1727065794,1726417121,1725722656,1725169149,1724465361,1723952683,1723317097,1721512808,1720970064,1720330207,1719673571,1718576417,1717905194,1717319955,1716688251,1716071729,1715470523,1714884344,1714258672,1713640645,1713043317,1712437560,1711723013,1711183653,1710658438,1709968255,1709394357,1708791885,1708131696,1707570207,1706889111,1706285075,1705657599,1705133507,1704578464,1703947381,1703241152,1702707429,1702160217,1701493906,1700824281,1700285105,1699670394,1698986407];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/04 | 22-8 | [Czech Legion](https://ws.tsl.rocks/corp/b4453b41cf7b1c019648ed14db493a47c8a64347e689013b2c969bf97e251ec8/) |
 | ✅ | 2024/09/28 | 33-4 | [МеГаКо](https://ws.tsl.rocks/corp/11cd7fa53aad1bfc7d40c47a63de7b6c4a6d76f00e69dcb853f47e2c90b382dd/) |
 | ✅ | 2024/09/20 | 33-3 | [UFO](https://ws.tsl.rocks/corp/920537bbdadc8e0f3ba0a5bf70b777bf8ca14cde8723f0364eb0a6c3a93eb685/) |
 | ❌ | 2024/09/12 | 5-22 | [Sprite](https://ws.tsl.rocks/corp/3bf5d300b42f0610355645e2ee9cf24e5517a2c5e12472f685781051619266ac/) |

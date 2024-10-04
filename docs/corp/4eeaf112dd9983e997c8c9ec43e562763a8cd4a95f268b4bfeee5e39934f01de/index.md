@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Terranova
-description: W:7 L:35 D:0 Bonus ❌
-date: 1727506206
+description: W:8 L:35 D:0 Bonus ✅
+date: 1728077452
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1070 🔻  (1219)|
-| ELO Competitive | 1168 🔻  (1042)|
-| Total Matches | 42 |
-| Wins | 7 |
+| ELO Regular | 1090 🔺  (1197)|
+| ELO Competitive | 1193 🔺  (645)|
+| Total Matches | 43 |
+| Wins | 8 |
 | Losses | 35 |
 | Draws | 0 |
 | Streak Record | 2 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727074206,1727068198,1726441471,1725841060,1725265309,1725234365,1724629146,1724034437,1723444210,1722832073,1722249687,1721597557,1720991709,1720407446,1719807896,1719160612,1718569806,1717969518,1717369258,1716817172,1716207529,1715594612,1714992502,1714381257,1713773738,1713191454,1712561658,1712077285,1710756395,1710743177,1710148544,1709548802,1708932210,1708928905,1708336933,1708327920,1707666219,1707065212,1705870375,1705248911,1702818407,1699209091];
+        let timestamps = [1727645452,1727074206,1727068198,1726441471,1725841060,1725265309,1725234365,1724629146,1724034437,1723444210,1722832073,1722249687,1721597557,1720991709,1720407446,1719807896,1719160612,1718569806,1717969518,1717369258,1716817172,1716207529,1715594612,1714992502,1714381257,1713773738,1713191454,1712561658,1712077285,1710756395,1710743177,1710148544,1709548802,1708932210,1708928905,1708336933,1708327920,1707666219,1707065212,1705870375,1705248911,1702818407,1699209091];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/04 | 49-8 | [Spacefleet](https://ws.tsl.rocks/corp/517f7b257f68936f7a95a478d6923776a2549b88897bae628fd35b23572d3cbd/) |
 | ❌ | 2024/09/28 | 11-52 | [EZCO](https://ws.tsl.rocks/corp/cfad990cabcdc1326c0aa3f93a57d1f0e6ec3cd2949e01e6b08443c3af8282f1/) |
 | ❌ | 2024/09/28 | 4-31 | [Спутник](https://ws.tsl.rocks/corp/0ae15c4db6dc8c3f4bf3eb6aa93bffd4ea9281b06b721ab103c0078646bfe58c/) |
 | ✅ | 2024/09/20 | 43-9 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) |

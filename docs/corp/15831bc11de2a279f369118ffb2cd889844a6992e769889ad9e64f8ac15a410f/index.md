@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​No Orbit©
-description: W:15 L:6 D:0 Bonus ✅
+description: W:15 L:6 D:0 Bonus ❌
 date: 1727452423
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

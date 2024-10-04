@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​МеГаКо
-description: W:18 L:15 D:0 Bonus ❌
-date: 1727497794
+description: W:18 L:16 D:0 Bonus ❌
+date: 1728072343
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1239 🔻  (265)|
-| ELO Competitive | 1285 🔻  (267)|
-| Total Matches | 33 |
+| ELO Regular | 1229 🔻  (303)|
+| ELO Competitive | 1275 🔻  (289)|
+| Total Matches | 34 |
 | Wins | 18 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 0 |
 | Streak Record | 6 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727065794,1726194429,1725503607,1724950081,1723831868,1722234062,1721097200,1720181752,1719673571,1718599248,1717479553,1716416340,1715944631,1715882142,1715344928,1714681575,1714041435,1713404799,1712886167,1711564060,1711037624,1710567387,1709867296,1708932511,1707936072,1707367080,1706633978,1705925662,1705455960,1703109228,1702646197,1701707591,1700572726];
+        let timestamps = [1727640343,1727065794,1726194429,1725503607,1724950081,1723831868,1722234062,1721097200,1720181752,1719673571,1718599248,1717479553,1716416340,1715944631,1715882142,1715344928,1714681575,1714041435,1713404799,1712886167,1711564060,1711037624,1710567387,1709867296,1708932511,1707936072,1707367080,1706633978,1705925662,1705455960,1703109228,1702646197,1701707591,1700572726];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -127,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/04 | 2-26 | [R\-6 satalite](https://ws.tsl.rocks/corp/ce3450a529768e932b3aeb4c6f39b9295e6e07d010b209d0120c0125799adc43/) |
 | ❌ | 2024/09/28 | 4-33 | [Lacuna X](https://ws.tsl.rocks/corp/fb10f33f3db17b99b0d227f17e7fde76ef067dc4a4bb4ae05e46c76d2e5e8ea1/) |
 | ✅ | 2024/09/18 | 6-3 | [Star Blazers](https://ws.tsl.rocks/corp/f179acb7b919d9d3185f1fcd66bb17d5e257feab5039bcbf6efb5c8cd6f5c057/) |
 | ✅ | 2024/09/10 | 26-0 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |

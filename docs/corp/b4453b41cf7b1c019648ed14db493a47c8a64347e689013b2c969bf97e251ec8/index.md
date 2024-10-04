@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Czech Legion
-description: W:12 L:2 D:0 Bonus ✅
-date: 1727461441
+description: W:12 L:3 D:0 Bonus ✅
+date: 1728070239
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1329 🔺  (99)|
-| ELO Competitive | 1368 🔺  (139)|
-| Total Matches | 14 |
+| ELO Regular | 1320 🔻  (106)|
+| ELO Competitive | 1358 🔻  (148)|
+| Total Matches | 15 |
 | Wins | 12 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
-| Streak | 3 |
 | Streak Record | 9 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727029441,1726433057,1725821228,1725213330,1724622536,1724004985,1723401542,1722544485,1721894457,1720976118,1719862292,1718657254,1717434775,1716332308];
+        let timestamps = [1727638239,1727029441,1726433057,1725821228,1725213330,1724622536,1724004985,1723401542,1722544485,1721894457,1720976118,1719862292,1718657254,1717434775,1716332308];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/04 | 8-22 | [Lacuna X](https://ws.tsl.rocks/corp/fb10f33f3db17b99b0d227f17e7fde76ef067dc4a4bb4ae05e46c76d2e5e8ea1/) |
 | ✅ | 2024/09/27 | 24-0 | [DeutschlandGmbH](https://ws.tsl.rocks/corp/7f4550924e4740a47b7d66c9ddf38d65c37590507caab29eecc74f81a4ae2895/) |
 | ✅ | 2024/09/20 | 34-0 | [Decode](https://ws.tsl.rocks/corp/848408d1ee1a3c08302a936241ea5cbe170cb66dc343d3339ed3ae4baeb82e57/) |
 | ✅ | 2024/09/13 | 30-0 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |

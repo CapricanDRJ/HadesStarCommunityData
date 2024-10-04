@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Void
-description: W:9 L:14 D:0 Bonus ✅
+description: W:9 L:14 D:0 Bonus ❌
 date: 1727964759
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1132 🔻  (1110)|
-| ELO Competitive | 1177 🔻  (927)|
+| ELO Competitive | 1177 🔻  (928)|
 | Total Matches | 23 |
 | Wins | 9 |
 | Losses | 14 |
