@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Stellar Exports
-description: W:45 L:32 D:0 Bonus ✅
+description: W:45 L:32 D:0 Bonus ❌
 date: 1728033269
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
