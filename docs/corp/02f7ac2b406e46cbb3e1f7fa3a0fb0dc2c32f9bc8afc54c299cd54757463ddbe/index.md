@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​ItaFederalFleet
-description: W:15 L:7 D:1 Bonus ❌
-date: 1725556379
+description: W:16 L:7 D:1 Bonus ✅
+date: 1728129128
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1287 🔻  (158)|
-| ELO Competitive | 1312 🔻  (219)|
-| Total Matches | 23 |
-| Wins | 15 |
+| ELO Regular | 1300 🔺  (135)|
+| ELO Competitive | 1324 🔺  (199)|
+| Total Matches | 24 |
+| Wins | 16 |
 | Losses | 7 |
 | Draws | 1 |
 | Streak Record | 4 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725124379,1724361088,1721414839,1719644719,1718816520,1717917516,1716493249,1715602724,1714795956,1712520498,1711408122,1709881717,1709275362,1708419572,1707698675,1706944704,1706190112,1705548318,1704916245,1704092227,1703193074,1702760708,1702244075];
+        let timestamps = [1727697128,1725124379,1724361088,1721414839,1719644719,1718816520,1717917516,1716493249,1715602724,1714795956,1712520498,1711408122,1709881717,1709275362,1708419572,1707698675,1706944704,1706190112,1705548318,1704916245,1704092227,1703193074,1702760708,1702244075];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/05 | 23-0 | [星环建设集团](https://ws.tsl.rocks/corp/85422294545c4561b468821bbbbe277a0d7f09c6ab45fedb2a43cbaa36d32f63/) |
 | ❌ | 2024/09/05 | 3-23 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ❌ | 2024/08/27 | 0-5 | [Galaxians](https://ws.tsl.rocks/corp/94728c6eb201c1f15c6e2304b5920aa155ccc1a7aac83b574baae51c53a22c5d/) |
 | ✅ | 2024/07/24 | 8-2 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |

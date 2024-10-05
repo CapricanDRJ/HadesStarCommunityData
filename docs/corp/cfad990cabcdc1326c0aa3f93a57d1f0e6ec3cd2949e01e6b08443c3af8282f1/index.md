@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​EZCO
-description: W:14 L:22 D:1 Bonus ✅
+description: W:14 L:22 D:1 Bonus ❌
 date: 1727506206
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1124 🔺  (1138)|
-| ELO Competitive | 1206 🔺  (541)|
+| ELO Competitive | 1206 🔺  (540)|
 | Total Matches | 37 |
 | Wins | 14 |
 | Losses | 22 |

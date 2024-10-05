@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Ark
-description: W:51 L:10 D:1 Bonus ✅
+description: W:51 L:10 D:1 Bonus ❌
 date: 1728118309
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

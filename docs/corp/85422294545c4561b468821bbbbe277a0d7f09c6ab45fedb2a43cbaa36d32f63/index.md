@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​星环建设集团
-description: W:9 L:6 D:2 Bonus ❌
-date: 1727197909
+description: W:9 L:7 D:2 Bonus ❌
+date: 1728129128
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1231 🔺  (291)|
-| ELO Competitive | 1246 🔺  (357)|
-| Total Matches | 17 |
+| ELO Regular | 1219 🔻  (343)|
+| ELO Competitive | 1234 🔻  (398)|
+| Total Matches | 18 |
 | Wins | 9 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 2 |
-| Streak | 3 |
 | Streak Record | 3 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726765909,1725727838,1724811104,1717668291,1717181399,1716721608,1716219851,1715782091,1715271923,1714836273,1714366536,1713918255,1713453471,1713018673,1712563532,1712087203,1711610629];
+        let timestamps = [1727697128,1726765909,1725727838,1724811104,1717668291,1717181399,1716721608,1716219851,1715782091,1715271923,1714836273,1714366536,1713918255,1713453471,1713018673,1712563532,1712087203,1711610629];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/05 | 0-23 | [ItaFederalFleet](https://ws.tsl.rocks/corp/02f7ac2b406e46cbb3e1f7fa3a0fb0dc2c32f9bc8afc54c299cd54757463ddbe/) |
 | ✅ | 2024/09/24 | 5-0 | [империя тьмы](https://ws.tsl.rocks/corp/4eb22a1b793e5d03579cea15c873b1bef56fea02420a4e55edb18a200f7fc46a/) |
 | ✅ | 2024/09/12 | 7-1 | [WHITE NOVA](https://ws.tsl.rocks/corp/0a44ab86ca49a02fb932607f1095f0b5411c556bb9bb95aa1f20908be0b45d51/) |
 | ✅ | 2024/09/02 | 5-0 | [Harpias](https://ws.tsl.rocks/corp/50c6c340f8c3233d778440793c211c5e07356b8a40a06d238163e76f9b4a24b9/) |

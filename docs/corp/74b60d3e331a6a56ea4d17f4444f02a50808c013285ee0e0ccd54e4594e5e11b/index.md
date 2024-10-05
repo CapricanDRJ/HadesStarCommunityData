@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​русь 
-description: W:55 L:34 D:0 Bonus ✅
+description: W:55 L:34 D:0 Bonus ❌
 date: 1728020948
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Grater U
-description: W:1 L:1 D:0 Bonus ❌
-date: 1724379275
+description: W:1 L:2 D:0 Bonus ❌
+date: 1728124618
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1205 🔺  (436)|
-| ELO Competitive | 1208 🔺  (536)|
-| Total Matches | 2 |
+| ELO Regular | 1199 🔻  (495)|
+| ELO Competitive | 1202 🔻  (555)|
+| Total Matches | 3 |
 | Wins | 1 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723947275,1723473663];
+        let timestamps = [1727692618,1723947275,1723473663];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/05 | 0-41 | [ANDROMEDA INC\. ](https://ws.tsl.rocks/corp/9d122968f1050c65cf6c741d5f018d932b3fdff8fc0a48144a4376b9fa18677b/) |
 | ✅ | 2024/08/23 | 19-3 | [群星联盟](https://ws.tsl.rocks/corp/9b52999ef6fd3e408347334f34c792155b405eead69b509cbc68fd14520ace95/) |
 | ❌ | 2024/08/17 | 3-4 | [BoomTech](https://ws.tsl.rocks/corp/97c4db179d3ea995d3a56227f87c501f4baa4abbece2b25e09b636f0aa264bd7/) |
 
