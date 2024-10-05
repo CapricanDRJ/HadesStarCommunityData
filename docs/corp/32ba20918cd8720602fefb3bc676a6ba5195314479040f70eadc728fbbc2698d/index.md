@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Star Destroyers
-description: W:30 L:18 D:1 Bonus ✅
+description: W:30 L:18 D:1 Bonus ❌
 date: 1728057615
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1347 🔻  (81)|
-| ELO Competitive | 1387 🔻  (124)|
+| ELO Competitive | 1387 🔻  (123)|
 | Total Matches | 49 |
 | Wins | 30 |
 | Losses | 18 |

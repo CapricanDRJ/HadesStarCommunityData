@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​＊СССР＊
-description: W:23 L:21 D:1 Bonus ❌
-date: 1727507708
+description: W:24 L:21 D:1 Bonus ✅
+date: 1728115906
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1270 🔻  (183)|
-| ELO Competitive | 1321 🔻  (206)|
-| Total Matches | 45 |
-| Wins | 23 |
+| ELO Regular | 1282 🔺  (167)|
+| ELO Competitive | 1335 🔺  (179)|
+| Total Matches | 46 |
+| Wins | 24 |
 | Losses | 21 |
 | Draws | 1 |
 | Streak Record | 5 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727075708,1726457994,1725824836,1725223851,1724621335,1724004685,1722972717,1721587037,1720985097,1720368378,1719767932,1719135060,1718560187,1717950281,1717357235,1716744153,1716127311,1715559466,1714930916,1714329884,1713719062,1713113933,1712514185,1711909919,1711904810,1711278309,1710963114,1710701114,1710127861,1709522965,1708918391,1708326718,1707712194,1707710692,1707106982,1707106982,1706505055,1705895614,1705392850,1704824287,1703199386,1701660408,1701067439,1699818897,1699194366];
+        let timestamps = [1727683906,1727075708,1726457994,1725824836,1725223851,1724621335,1724004685,1722972717,1721587037,1720985097,1720368378,1719767932,1719135060,1718560187,1717950281,1717357235,1716744153,1716127311,1715559466,1714930916,1714329884,1713719062,1713113933,1712514185,1711909919,1711904810,1711278309,1710963114,1710701114,1710127861,1709522965,1708918391,1708326718,1707712194,1707710692,1707106982,1707106982,1706505055,1705895614,1705392850,1704824287,1703199386,1701660408,1701067439,1699818897,1699194366];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -129,6 +129,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/05 | 20-8 | [On en a Gros \! ](https://ws.tsl.rocks/corp/eee919ee67cd5b7eb62548219cd7981660ab85d08ab0fe23b83f1849ca6cf8c6/) |
 | ❌ | 2024/09/28 | 23-34 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) |
 | ✅ | 2024/09/21 | 19-12 | [Rising star](https://ws.tsl.rocks/corp/b7037efd74e829aa4ac6e49960fa44cebe1477e23d25cf1640594d9168d630db/) |
 | ✅ | 2024/09/13 | 15-7 | [Дом Датэ](https://ws.tsl.rocks/corp/10cbcbd91c4084657bdab01ef573cc48170fbc4dd0ab533f96712f1cb6097ff2/) |
