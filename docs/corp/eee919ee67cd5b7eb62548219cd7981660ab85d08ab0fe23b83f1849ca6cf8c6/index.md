@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​On en a Gros ! 
-description: W:24 L:28 D:0 Bonus ✅
+description: W:24 L:28 D:0 Bonus ❌
 date: 1728115906
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

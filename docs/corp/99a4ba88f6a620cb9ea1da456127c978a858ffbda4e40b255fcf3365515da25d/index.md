@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Industrial W.O
-description: W:29 L:25 D:2 Bonus ❌
-date: 1727566910
+description: W:29 L:27 D:2 Bonus ❌
+date: 1728139649
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1299 🔻  (139)|
-| ELO Competitive | 1353 🔻  (158)|
-| Total Matches | 56 |
+| ELO Regular | 1271 🔻  (181)|
+| ELO Competitive | 1340 🔻  (175)|
+| Total Matches | 58 |
 | Wins | 29 |
-| Losses | 25 |
+| Losses | 27 |
 | Draws | 2 |
 | Streak Record | 5 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727134910,1726670834,1726183014,1725734978,1725293859,1724837088,1724403451,1723935257,1723499460,1723065874,1722616304,1722113849,1721658256,1721137474,1720704068,1720200988,1719622484,1718982091,1718441777,1717966212,1717451611,1716585845,1715880940,1715263208,1714488832,1713888509,1713259663,1712670130,1712081492,1711480531,1711025904,1710525322,1709912667,1709401270,1708910580,1708375706,1707903316,1707393821,1706954021,1706477713,1706043771,1705597196,1705093543,1704632554,1704192298,1703716586,1703279926,1702834038,1702339948,1701877700,1701442813,1700995603,1700510220,1700044904,1699489146,1698691369];
+        let timestamps = [1727707649,1727706747,1727134910,1726670834,1726183014,1725734978,1725293859,1724837088,1724403451,1723935257,1723499460,1723065874,1722616304,1722113849,1721658256,1721137474,1720704068,1720200988,1719622484,1718982091,1718441777,1717966212,1717451611,1716585845,1715880940,1715263208,1714488832,1713888509,1713259663,1712670130,1712081492,1711480531,1711025904,1710525322,1709912667,1709401270,1708910580,1708375706,1707903316,1707393821,1706954021,1706477713,1706043771,1705597196,1705093543,1704632554,1704192298,1703716586,1703279926,1702834038,1702339948,1701877700,1701442813,1700995603,1700510220,1700044904,1699489146,1698691369];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) | 0 | 2 | 0 | 2 |
 | [Bl@ck/Galaxy ](https://ws.tsl.rocks/corp/76f8fe0dcd8b8c1cb8e0083f14c0b36c23bb9757a3af0f191b567774c02222a3/) | 0 | 1 | 1 | 2 |
 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) | 2 | 0 | 0 | 2 |
 | [StellaMysterium](https://ws.tsl.rocks/corp/cfaaa81ed93cc9361ade470c3414c73ecf77068badd68d624c7b3f486d142b10/) | 2 | 0 | 0 | 2 |
@@ -128,6 +129,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/05 | 0-16 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
+| ❌ | 2024/10/05 | 5-30 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | ❌ | 2024/09/28 | 14-36 | [Bl@ck/Galaxy ](https://ws.tsl.rocks/corp/76f8fe0dcd8b8c1cb8e0083f14c0b36c23bb9757a3af0f191b567774c02222a3/) |
 | ✅ | 2024/09/23 | 36-0 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) |
 | ✅ | 2024/09/17 | 25-3 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |

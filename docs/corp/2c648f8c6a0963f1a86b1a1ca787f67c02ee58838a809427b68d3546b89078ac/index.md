@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​华夏联盟
-description: W:1 L:0 D:0 Bonus ✅
-date: 1727626102
+description: W:1 L:1 D:0 Bonus ✅
+date: 1728136042
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1208 🔺  (425)|
-| ELO Competitive | 1209 🔺  (530)|
-| Total Matches | 1 |
+| ELO Regular | 1192 🔻  (535)|
+| ELO Competitive | 1198 🔻  (612)|
+| Total Matches | 2 |
 | Wins | 1 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727194102];
+        let timestamps = [1727704042,1727194102];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/05 | 0-4 | [落雨观花](https://ws.tsl.rocks/corp/565a6d89fc5107e86669d7f8910a1c4ae1fbb156fa0b5e81dbc917c341cc9ff0/) |
 | ✅ | 2024/09/29 | 4-0 | [逐光起航](https://ws.tsl.rocks/corp/e6bb076aa209101b5fa1cbc40a614c241d71ab5eca143c733b81aed6302455e8/) |
 
 Corporation ID: 2c648f8c6a0963f1a86b1a1ca787f67c02ee58838a809427b68d3546b89078ac
