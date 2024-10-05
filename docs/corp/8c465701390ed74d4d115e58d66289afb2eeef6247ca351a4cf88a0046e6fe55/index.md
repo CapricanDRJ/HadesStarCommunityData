@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​探索舰队
-description: W:16 L:14 D:1 Bonus ❌
-date: 1727336727
+description: W:16 L:15 D:1 Bonus ❌
+date: 1728081357
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1179 🔻  (799)|
-| ELO Competitive | 1270 🔻  (300)|
-| Total Matches | 31 |
+| ELO Regular | 1168 🔻  (940)|
+| ELO Competitive | 1258 🔻  (328)|
+| Total Matches | 32 |
 | Wins | 16 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 1 |
 | Streak Record | 8 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726904727,1720952326,1720950223,1720466951,1719916375,1719412732,1718959551,1718207523,1718195499,1717757853,1717753946,1717215355,1717200031,1716736938,1716728821,1716291353,1716290151,1715814845,1715381584,1714933020,1714912586,1714479215,1714043539,1713539404,1713094997,1712659012,1712155405,1711511116,1711028609,1710579607,1710055997];
+        let timestamps = [1727649357,1726904727,1720952326,1720950223,1720466951,1719916375,1719412732,1718959551,1718207523,1718195499,1717757853,1717753946,1717215355,1717200031,1716736938,1716728821,1716291353,1716290151,1715814845,1715381584,1714933020,1714912586,1714479215,1714043539,1713539404,1713094997,1712659012,1712155405,1711511116,1711028609,1710579607,1710055997];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/04 | 0-1 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ❌ | 2024/09/26 | 0-2 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ❌ | 2024/07/19 | 1-10 | [荣耀之星](https://ws.tsl.rocks/corp/4334fd4d4ffbc89487deaec7bb38025aba46209b810578436882be271fdbff23/) |
 | ✅ | 2024/07/19 | 3-0 | [Jalisco México](https://ws.tsl.rocks/corp/495236ab2171ccbcdad0da5529f080405b1ddd081eda98c7255a8cffe5b114e4/) |

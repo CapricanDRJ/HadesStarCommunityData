@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Czech Legion
-description: W:12 L:3 D:0 Bonus ✅
+description: W:12 L:3 D:0 Bonus ❌
 date: 1728070239
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

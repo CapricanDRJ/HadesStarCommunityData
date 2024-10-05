@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Ender
-description: W:54 L:20 D:0 Bonus ✅
+description: W:54 L:20 D:0 Bonus ❌
 date: 1728004125
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
