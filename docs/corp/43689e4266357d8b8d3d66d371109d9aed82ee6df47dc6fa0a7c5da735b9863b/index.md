@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​The trade pub
-description: W:23 L:22 D:0 Bonus ✅
+description: W:23 L:22 D:0 Bonus ❌
 date: 1728138447
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1278 🔻  (168)|
-| ELO Competitive | 1325 🔻  (198)|
+| ELO Competitive | 1325 🔻  (197)|
 | Total Matches | 45 |
 | Wins | 23 |
 | Losses | 22 |

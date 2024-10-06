@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​无聊不过
-description: W:7 L:3 D:1 Bonus ✅
+description: W:7 L:3 D:1 Bonus ❌
 date: 1727547679
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1250 🔺  (227)|
-| ELO Competitive | 1262 🔺  (318)|
+| ELO Regular | 1250 🔺  (229)|
+| ELO Competitive | 1262 🔺  (319)|
 | Total Matches | 11 |
 | Wins | 7 |
 | Losses | 3 |
