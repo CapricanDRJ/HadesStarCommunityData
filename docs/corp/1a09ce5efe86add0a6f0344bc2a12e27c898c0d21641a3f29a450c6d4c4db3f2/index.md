@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Helion Prime
-description: W:9 L:6 D:0 Bonus ❌
-date: 1727549482
+description: W:10 L:6 D:0 Bonus ✅
+date: 1728217496
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1268 🔻  (191)|
-| ELO Competitive | 1301 🔻  (237)|
-| Total Matches | 15 |
-| Wins | 9 |
+| ELO Regular | 1284 🔺  (164)|
+| ELO Competitive | 1321 🔺  (209)|
+| Total Matches | 16 |
+| Wins | 10 |
 | Losses | 6 |
 | Draws | 0 |
 | Streak Record | 5 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727117482,1726531320,1725927904,1722306484,1721049108,1719861390,1719253771,1718643727,1718034729,1717439285,1717434475,1716822283,1716179889,1700492484,1698929613];
+        let timestamps = [1727785496,1727117482,1726531320,1725927904,1722306484,1721049108,1719861390,1719253771,1718643727,1718034729,1717439285,1717434475,1716822283,1716179889,1700492484,1698929613];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/06 | 14-0 | [Kratos](https://ws.tsl.rocks/corp/1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b/) |
 | ❌ | 2024/09/28 | 18-40 | [OntarioDawn](https://ws.tsl.rocks/corp/1a002c71f3aba5da5918941fa2ba4dbbfc183ad52d97d44a25718e07e6b08a03/) |
 | ✅ | 2024/09/22 | 27-3 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 | ✅ | 2024/09/15 | 15-4 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |

@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​星际集团
-description: W:14 L:10 D:3 Bonus ✅
-date: 1727759215
+description: W:15 L:10 D:3 Bonus ✅
+date: 1728210566
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺  (359)|
-| ELO Competitive | 1293 🔺  (250)|
-| Total Matches | 27 |
-| Wins | 14 |
+| ELO Regular | 1233 🔺  (291)|
+| ELO Competitive | 1307 🔺  (231)|
+| Total Matches | 28 |
+| Wins | 15 |
 | Losses | 10 |
 | Draws | 3 |
+| Streak | 2 |
 | Streak Record | 3 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727327215,1727324511,1726856351,1726806270,1726374634,1726332665,1725900558,1725716945,1725361461,1725284540,1724798029,1724336140,1723902192,1723462239,1722942961,1722474729,1722041705,1721524624,1721020556,1721014846,1720512325,1720512325,1720078067,1720005331,1719586724,1719152494,1718710135];
+        let timestamps = [1727778566,1727327215,1727324511,1726856351,1726806270,1726374634,1726332665,1725900558,1725716945,1725361461,1725284540,1724798029,1724336140,1723902192,1723462239,1722942961,1722474729,1722041705,1721524624,1721020556,1721014846,1720512325,1720512325,1720078067,1720005331,1719586724,1719152494,1718710135];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) | 2 | 0 | 0 | 2 |
 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) | 1 | 0 | 1 | 2 |
 | [羽共和体](https://ws.tsl.rocks/corp/61b6e0502a087307a2ecf50e5d84f6123ad19984dc5790c997f16a676213aa7e/) | 1 | 1 | 0 | 2 |
 | [公共星际集团](https://ws.tsl.rocks/corp/f57faccefed6ab561fa61ac8e6f60708928e3a8b5caa5172c97c2a29348aed37/) | 1 | 0 | 1 | 2 |
@@ -125,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/06 | 4-3 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) |
 | ✅ | 2024/10/01 | 7-3 | [Bon Ariens](https://ws.tsl.rocks/corp/1d0aa6d0fbc5e35422544e47ebd18d2fe21749780594630982f96fa08a850574/) |
 | ❌ | 2024/10/01 | 3-4 | [闲散人员](https://ws.tsl.rocks/corp/4f0fa774b66e4f744a305525f92e7252205ae754df0f3982b577b32caf32cdbc/) |
 | ✅ | 2024/09/25 | 6-0 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |

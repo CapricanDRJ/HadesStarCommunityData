@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​PDC
-description: W:14 L:6 D:3 Bonus ❌
-date: 1725618874
+description: W:14 L:7 D:3 Bonus ❌
+date: 1728214134
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1266 🔻  (197)|
-| ELO Competitive | 1284 🔻  (269)|
-| Total Matches | 23 |
+| ELO Regular | 1249 🔻  (233)|
+| ELO Competitive | 1267 🔻  (308)|
+| Total Matches | 24 |
 | Wins | 14 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 3 |
 | Streak Record | 8 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725186874,1721573004,1720852844,1720416855,1717757853,1714826356,1714310647,1713822716,1713390461,1712957677,1712497353,1712031334,1711546930,1711107030,1710632300,1710195122,1709759747,1709296394,1708721269,1708265417,1707830593,1707379699,1706838327];
+        let timestamps = [1727782134,1725186874,1721573004,1720852844,1720416855,1717757853,1714826356,1714310647,1713822716,1713390461,1712957677,1712497353,1712031334,1711546930,1711107030,1710632300,1710195122,1709759747,1709296394,1708721269,1708265417,1707830593,1707379699,1706838327];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/06 | 0-5 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) |
 | ↔️ | 2024/09/06 | 0-0 | [中国星际联盟·第一自治州](https://ws.tsl.rocks/corp/545ee3872db51731b8d4a941a5c88e0b8f5dcc68b5a26e1a39133cc7dc0b6c18/) |
 | ✅ | 2024/07/26 | 3-0 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ↔️ | 2024/07/18 | 3-3 | [第四星际](https://ws.tsl.rocks/corp/42d38d5f95c493cb1822f0c89a5366e532a9dc30c0019e03cf7ddd280bf55040/) |
