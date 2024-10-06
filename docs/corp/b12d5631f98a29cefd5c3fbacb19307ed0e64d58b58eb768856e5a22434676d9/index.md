@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​BlackDawn
-description: W:1 L:20 D:10 Bonus ❌
-date: 1727735542
+description: W:1 L:21 D:10 Bonus ❌
+date: 1728234311
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1034 🔺  (1245)|
-| ELO Competitive | 1064 🔺  (1258)|
-| Total Matches | 31 |
+| ELO Regular | 1028 🔻  (1248)|
+| ELO Competitive | 1057 🔻  (1264)|
+| Total Matches | 32 |
 | Wins | 1 |
-| Losses | 20 |
+| Losses | 21 |
 | Draws | 10 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727303542,1726838319,1726374634,1725913783,1725249338,1724798029,1724181949,1723605588,1723061366,1722546889,1722007946,1721500787,1720723310,1720267098,1719658075,1719208091,1718759126,1718229165,1717696248,1717200031,1716714883,1716159173,1715660112,1715210033,1714540211,1714042337,1713414111,1712945957,1706074719,1705589382,1705113074];
+        let timestamps = [1727802311,1727303542,1726838319,1726374634,1725913783,1725249338,1724798029,1724181949,1723605588,1723061366,1722546889,1722007946,1721500787,1720723310,1720267098,1719658075,1719208091,1718759126,1718229165,1717696248,1717200031,1716714883,1716159173,1715660112,1715210033,1714540211,1714042337,1713414111,1712945957,1706074719,1705589382,1705113074];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -127,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/06 | 0-12 | [Nox Imperium](https://ws.tsl.rocks/corp/b60fb003fae650d1de18e7bca4fad04f9805501f4568d07ceb47bffdfeb613c1/) |
 | ↔️ | 2024/09/30 | 0-0 | [Galaxy knights](https://ws.tsl.rocks/corp/e2fdd92c8c65a1319fc38e36e02c598cfba35a84770417b582cf6d8f6353d431/) |
 | ↔️ | 2024/09/25 | 0-0 | [羽共和体](https://ws.tsl.rocks/corp/61b6e0502a087307a2ecf50e5d84f6123ad19984dc5790c997f16a676213aa7e/) |
 | ↔️ | 2024/09/20 | 0-0 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |
