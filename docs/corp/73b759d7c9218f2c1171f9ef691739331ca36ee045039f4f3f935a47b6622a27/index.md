@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​AAAA
-description: W:6 L:9 D:3 Bonus ✅
-date: 1727736984
+description: W:7 L:9 D:3 Bonus ✅
+date: 1728185979
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1194 🔺  (516)|
-| ELO Competitive | 1224 🔺  (432)|
-| Total Matches | 18 |
-| Wins | 6 |
+| ELO Regular | 1200 🔺  (474)|
+| ELO Competitive | 1233 🔺  (403)|
+| Total Matches | 19 |
+| Wins | 7 |
 | Losses | 9 |
 | Draws | 3 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727304984,1726836816,1726375938,1725942623,1725428471,1724906805,1724416673,1723698140,1723233853,1722627424,1721784774,1721230334,1720713845,1720059735,1719616476,1718317514,1717863724,1716056105];
+        let timestamps = [1727753979,1727304984,1726836816,1726375938,1725942623,1725428471,1724906805,1724416673,1723698140,1723233853,1722627424,1721784774,1721230334,1720713845,1720059735,1719616476,1718317514,1717863724,1716056105];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/06 | 10-0 | [11th Engineers](https://ws.tsl.rocks/corp/7341e9a33a1baf2162870c795632dcd551d3c624b06456dac041fa049ba67a9a/) |
 | ✅ | 2024/09/30 | 16-0 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) |
 | ✅ | 2024/09/25 | 9-1 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
 | ↔️ | 2024/09/20 | 3-3 | [太阳系集团](https://ws.tsl.rocks/corp/50f5e0a888ce2f21c0980be0cbb1e444e1d7eeb9dcb2095c3e428bd5bde7a9f6/) |

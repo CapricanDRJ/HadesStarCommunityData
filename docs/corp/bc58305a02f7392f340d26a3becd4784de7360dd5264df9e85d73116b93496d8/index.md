@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​哈迪斯之星，启动！
-description: W:4 L:4 D:0 Bonus ❌
-date: 1727414690
+description: W:5 L:4 D:0 Bonus ✅
+date: 1728176316
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1219 🔺  (340)|
-| ELO Competitive | 1224 🔺  (433)|
-| Total Matches | 8 |
-| Wins | 4 |
+| ELO Regular | 1236 🔺  (283)|
+| ELO Competitive | 1240 🔺  (377)|
+| Total Matches | 9 |
+| Wins | 5 |
 | Losses | 4 |
 | Draws | 0 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726982690,1726328155,1725474748,1724581959,1724072598,1723361568,1722857916,1722346450];
+        let timestamps = [1727744316,1726982690,1726328155,1725474748,1724581959,1724072598,1723361568,1722857916,1722346450];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/06 | 7-4 | [揽月宫](https://ws.tsl.rocks/corp/16a4fe26591408a3f2128646e96c5ec1f82feb35f1f9743aebd2dae05095d2ed/) |
 | ✅ | 2024/09/27 | 7-1 | [绛紫星云](https://ws.tsl.rocks/corp/5a3a9602bef85f5409788b6ae18f372599736e4be470dee01f373a17865f07d9/) |
 | ✅ | 2024/09/19 | 9-0 | [PSI Division](https://ws.tsl.rocks/corp/b6549a4c0bb6981743707147c9f2ff90fbe8fc246d19b363ed45489c8d71fc63/) |
 | ❌ | 2024/09/09 | 4-20 | [Bacon Warriors](https://ws.tsl.rocks/corp/ec62b01fc96adc2a7b7ac4077438e5153eeefc94740fab8309dcb6613e3a7f48/) |

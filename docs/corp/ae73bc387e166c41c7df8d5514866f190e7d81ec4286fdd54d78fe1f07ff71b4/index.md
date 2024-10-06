@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​银星S Stars‘
-description: W:3 L:0 D:0 Bonus ❌
-date: 1724408765
+description: W:3 L:1 D:0 Bonus ❌
+date: 1728186229
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1246 🔺  (241)|
-| ELO Competitive | 1246 🔺  (356)|
-| Total Matches | 3 |
+| ELO Regular | 1231 🔻  (294)|
+| ELO Competitive | 1236 🔻  (391)|
+| Total Matches | 4 |
 | Wins | 3 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 0 |
-| Streak | 3 |
 | Streak Record | 3 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723976765,1723247677,1722779182];
+        let timestamps = [1727754229,1723976765,1723247677,1722779182];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/06 | 2-19 | [星海扬帆](https://ws.tsl.rocks/corp/9cf2d9a2c07a0b8030f9a8275f9ebd3973759c2b60bed95ccb9a3f152aa0b1e4/) |
 | ✅ | 2024/08/23 | 11-3 | [Dark Halo](https://ws.tsl.rocks/corp/f6ed7c780faf133d3fe411b9ed88480608a56064328539891d1b4348242954f6/) |
 | ✅ | 2024/08/14 | 17-0 | [The Hexagonix](https://ws.tsl.rocks/corp/61bda63b50c29b34fb12f0bef2b4436cdd3b114bc9896e392d4d6286368fd6b5/) |
 | ✅ | 2024/08/09 | 17-1 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |

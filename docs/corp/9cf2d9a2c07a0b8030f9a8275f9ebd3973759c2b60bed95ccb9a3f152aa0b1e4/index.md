@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​星海扬帆
-description: W:21 L:18 D:0 Bonus ❌
-date: 1726759554
+description: W:22 L:18 D:0 Bonus ✅
+date: 1728186229
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1239 🔻  (266)|
-| ELO Competitive | 1365 🔻  (143)|
-| Total Matches | 39 |
-| Wins | 21 |
+| ELO Regular | 1254 🔺  (222)|
+| ELO Competitive | 1375 🔺  (136)|
+| Total Matches | 40 |
+| Wins | 22 |
 | Losses | 18 |
 | Draws | 0 |
 | Streak Record | 4 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726327554,1722996035,1722993450,1722419808,1722419771,1721961171,1721960870,1720691744,1719970454,1719938919,1718992600,1718973975,1718471534,1718366789,1717956893,1717680615,1717157654,1716623612,1716558439,1714479215,1708424680,1707987154,1707403438,1707002406,1706970850,1706550436,1706536307,1706103865,1705671723,1705088133,1705079417,1704461859,1704445631,1703866241,1703584048,1703347243,1703135969,1702646197,1702032474];
+        let timestamps = [1727754229,1726327554,1722996035,1722993450,1722419808,1722419771,1721961171,1721960870,1720691744,1719970454,1719938919,1718992600,1718973975,1718471534,1718366789,1717956893,1717680615,1717157654,1716623612,1716558439,1714479215,1708424680,1707987154,1707403438,1707002406,1706970850,1706550436,1706536307,1706103865,1705671723,1705088133,1705079417,1704461859,1704445631,1703866241,1703584048,1703347243,1703135969,1702646197,1702032474];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/06 | 19-2 | [银星S Stars‘](https://ws.tsl.rocks/corp/ae73bc387e166c41c7df8d5514866f190e7d81ec4286fdd54d78fe1f07ff71b4/) |
 | ❌ | 2024/09/19 | 1-6 | [TeddisaurusWrex](https://ws.tsl.rocks/corp/88f37fd0ab1f14c7e06af4173800167f8d1f5db4022c1cd42637da431140ef7a/) |
 | ❌ | 2024/08/12 | 0-10 | [Black Star llc\.](https://ws.tsl.rocks/corp/f6cd5aed527efed3a402f931784d68b5b7201b317118a60bd3d81b551ee87330/) |
 | ✅ | 2024/08/12 | 14-3 | [oen](https://ws.tsl.rocks/corp/33d062d54a7aaaa60ae11e07fba73e1b28f5c9f323ff4a98f5810933e7d2b41f/) |
