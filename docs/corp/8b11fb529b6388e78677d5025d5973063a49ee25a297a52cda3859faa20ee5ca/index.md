@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Devourers
-description: W:1 L:1 D:1 Bonus ❌
-date: 1726519764
+description: W:1 L:2 D:1 Bonus ❌
+date: 1728204858
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 🔺  (456)|
-| ELO Competitive | 1204 🔺  (545)|
-| Total Matches | 3 |
+| ELO Regular | 1188 🔻  (582)|
+| ELO Competitive | 1191 🔻  (671)|
+| Total Matches | 4 |
 | Wins | 1 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 1 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726087764,1725590434,1725042039];
+        let timestamps = [1727772858,1726087764,1725590434,1725042039];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/06 | 2-8 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb/) |
 | ✅ | 2024/09/16 | 3-0 | [情谊永存](https://ws.tsl.rocks/corp/a3fee40ae9e62b95f50c653b7acf4990fee7b21461807dc90da90d429063a98c/) |
 | ↔️ | 2024/09/11 | 3-3 | [Omega corp](https://ws.tsl.rocks/corp/17140be6e5915edf2d09ebcf246a7c2650cf39def04823c9a04bdf81ff8fc38e/) |
 | ❌ | 2024/09/04 | 0-3 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |

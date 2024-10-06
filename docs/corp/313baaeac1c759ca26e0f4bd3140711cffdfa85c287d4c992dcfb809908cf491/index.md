@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Legion
-description: W:28 L:29 D:0 Bonus ✅
+description: W:28 L:29 D:0 Bonus ❌
 date: 1728074146
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

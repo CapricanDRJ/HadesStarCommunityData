@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​八月政府
-description: W:2 L:24 D:1 Bonus ❌
-date: 1726715973
+description: W:2 L:25 D:1 Bonus ❌
+date: 1728200351
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1023 🔻  (1248)|
-| ELO Competitive | 1059 🔻  (1260)|
-| Total Matches | 27 |
+| ELO Regular | 1013 🔻  (1254)|
+| ELO Competitive | 1055 🔻  (1264)|
+| Total Matches | 28 |
 | Wins | 2 |
-| Losses | 24 |
+| Losses | 25 |
 | Draws | 1 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726283973,1725437784,1724911613,1723769964,1722992248,1722477171,1721903170,1721294638,1720697755,1719639611,1719204486,1718695712,1718255303,1717751242,1716869167,1716003522,1715427851,1714574466,1714128868,1713682404,1713014165,1712446573,1710377202,1709560821,1708241675,1707465939,1705576459];
+        let timestamps = [1727768351,1726283973,1725437784,1724911613,1723769964,1722992248,1722477171,1721903170,1721294638,1720697755,1719639611,1719204486,1718695712,1718255303,1717751242,1716869167,1716003522,1715427851,1714574466,1714128868,1713682404,1713014165,1712446573,1710377202,1709560821,1708241675,1707465939,1705576459];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -122,6 +122,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/06 | 3-25 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) |
 | ❌ | 2024/09/19 | 3-29 | [StellaMysterium](https://ws.tsl.rocks/corp/cfaaa81ed93cc9361ade470c3414c73ecf77068badd68d624c7b3f486d142b10/) |
 | ❌ | 2024/09/09 | 8-22 | [Kratos](https://ws.tsl.rocks/corp/1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b/) |
 | ❌ | 2024/09/03 | 6-35 | [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b/) |

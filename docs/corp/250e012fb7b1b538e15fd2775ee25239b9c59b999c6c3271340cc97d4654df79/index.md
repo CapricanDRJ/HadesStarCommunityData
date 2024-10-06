@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​italian warrior
-description: W:13 L:22 D:1 Bonus ❌
-date: 1727515820
+description: W:13 L:24 D:1 Bonus ❌
+date: 1728201853
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (787)|
-| ELO Competitive | 1245 🔻  (360)|
-| Total Matches | 36 |
+| ELO Regular | 1165 🔻  (966)|
+| ELO Competitive | 1241 🔻  (376)|
+| Total Matches | 38 |
 | Wins | 13 |
-| Losses | 22 |
+| Losses | 24 |
 | Draws | 1 |
 | Streak Record | 5 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727083820,1726599326,1725600347,1725103339,1724233667,1722754837,1721669077,1721194874,1720590764,1720003829,1719489360,1718982091,1718526824,1718081606,1717646956,1717190415,1715670927,1714850395,1710530731,1709015746,1708562610,1708037944,1707417563,1706153152,1705097149,1704332344,1703542884,1702944038,1702144285,1701507729,1701472271,1700995302,1700478358,1699372552,1698706614,1698703307];
+        let timestamps = [1727769853,1727768351,1727083820,1726599326,1725600347,1725103339,1724233667,1722754837,1721669077,1721194874,1720590764,1720003829,1719489360,1718982091,1718526824,1718081606,1717646956,1717190415,1715670927,1714850395,1710530731,1709015746,1708562610,1708037944,1707417563,1706153152,1705097149,1704332344,1703542884,1702944038,1702144285,1701507729,1701472271,1700995302,1700478358,1699372552,1698706614,1698703307];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/06 | 0-15 | [VoidCorp](https://ws.tsl.rocks/corp/b866417e5607f8434347bb5f986e37c4fa7dda68b3882f0135d186043d3f68a3/) |
+| ❌ | 2024/10/06 | 4-35 | [Mercury Sunset](https://ws.tsl.rocks/corp/2771ec0a0e9523f8a7b62dd470c9ab87bf2bcf2b13fb47f6f97ea826337b2b20/) |
 | ❌ | 2024/09/28 | 23-34 | [On en a Gros \! ](https://ws.tsl.rocks/corp/eee919ee67cd5b7eb62548219cd7981660ab85d08ab0fe23b83f1849ca6cf8c6/) |
 | ❌ | 2024/09/22 | 51-73 | [Legion](https://ws.tsl.rocks/corp/313baaeac1c759ca26e0f4bd3140711cffdfa85c287d4c992dcfb809908cf491/) |
 | ✅ | 2024/09/11 | 23-4 | [Regulus](https://ws.tsl.rocks/corp/2ac7f4a924f351d9e8a57c7bd7cb88bb810dd028acab61baf5f38f0ffc7cf559/) |
