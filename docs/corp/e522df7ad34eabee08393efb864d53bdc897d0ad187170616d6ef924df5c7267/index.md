@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​银河护卫队
-description: W:1 L:0 D:0 Bonus ❌
-date: 1727101030
+description: W:1 L:1 D:0 Bonus ❌
+date: 1728302219
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺  (361)|
-| ELO Competitive | 1216 🔺  (477)|
-| Total Matches | 1 |
+| ELO Regular | 1204 🔻  (436)|
+| ELO Competitive | 1205 🔻  (540)|
+| Total Matches | 2 |
 | Wins | 1 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726669030];
+        let timestamps = [1727870219,1726669030];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/07 | 0-19 | [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) |
 | ✅ | 2024/09/23 | 4-2 | [Omega corp](https://ws.tsl.rocks/corp/17140be6e5915edf2d09ebcf246a7c2650cf39def04823c9a04bdf81ff8fc38e/) |
 
 Corporation ID: e522df7ad34eabee08393efb864d53bdc897d0ad187170616d6ef924df5c7267
