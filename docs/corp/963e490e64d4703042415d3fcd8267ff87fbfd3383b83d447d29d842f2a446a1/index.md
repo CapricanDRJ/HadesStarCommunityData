@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​KLM
-description: W:9 L:29 D:0 Bonus ❌
-date: 1727818119
+description: W:10 L:29 D:0 Bonus ✅
+date: 1728334682
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1117 🔻  (1162)|
-| ELO Competitive | 1164 🔻  (1076)|
-| Total Matches | 38 |
-| Wins | 9 |
+| ELO Regular | 1132 🔺  (1115)|
+| ELO Competitive | 1182 🔺  (903)|
+| Total Matches | 39 |
+| Wins | 10 |
 | Losses | 29 |
 | Draws | 0 |
 | Streak Record | 4 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727386119,1726796856,1726094073,1725599446,1724633653,1723784386,1723158426,1722702853,1721952458,1721429567,1720656284,1720052824,1719443089,1718847171,1718226159,1717639144,1716943402,1716338526,1715748142,1715212435,1714598206,1714119254,1713406602,1712694475,1712112140,1711516886,1707267866,1706686567,1706065405,1705451755,1704686650,1703993664,1702974985,1702257123,1701323201,1700441398,1699686624,1698967480];
+        let timestamps = [1727902682,1727386119,1726796856,1726094073,1725599446,1724633653,1723784386,1723158426,1722702853,1721952458,1721429567,1720656284,1720052824,1719443089,1718847171,1718226159,1717639144,1716943402,1716338526,1715748142,1715212435,1714598206,1714119254,1713406602,1712694475,1712112140,1711516886,1707267866,1706686567,1706065405,1705451755,1704686650,1703993664,1702974985,1702257123,1701323201,1700441398,1699686624,1698967480];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) | 2 | 0 | 0 | 2 |
 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) | 0 | 2 | 0 | 2 |
 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) | 0 | 4 | 0 | 4 |
 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) | 0 | 3 | 0 | 3 |
@@ -129,6 +130,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/07 | 38-15 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) |
 | ❌ | 2024/10/01 | 11-48 | [111](https://ws.tsl.rocks/corp/8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350/) |
 | ❌ | 2024/09/25 | 11-34 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) |
 | ❌ | 2024/09/16 | 1-57 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) |

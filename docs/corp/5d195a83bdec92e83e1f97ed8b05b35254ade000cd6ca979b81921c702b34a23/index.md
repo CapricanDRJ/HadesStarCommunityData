@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​VoidRunners
-description: W:67 L:38 D:1 Bonus ✅
+description: W:67 L:38 D:1 Bonus ❌
 date: 1728184727
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

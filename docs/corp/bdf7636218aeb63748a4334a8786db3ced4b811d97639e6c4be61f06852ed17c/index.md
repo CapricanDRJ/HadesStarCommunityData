@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​灰蛊风暴
-description: W:1 L:0 D:0 Bonus ✅
+description: W:1 L:0 D:0 Bonus ❌
 date: 1727716461
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1203 🔺  (439)|
-| ELO Competitive | 1209 🔺  (531)|
+| ELO Competitive | 1209 🔺  (530)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |
