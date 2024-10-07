@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​小号营地
-description: W:0 L:1 D:0 Bonus ❌
-date: 1727865886
+description: W:0 L:2 D:0 Bonus ❌
+date: 1728310936
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (666)|
-| ELO Competitive | 1189 🔻  (699)|
-| Total Matches | 1 |
+| ELO Regular | 1175 🔻  (825)|
+| ELO Competitive | 1180 🔻  (913)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727433886];
+        let timestamps = [1727878936,1727433886];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/07 | 1-5 | [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) |
 | ❌ | 2024/10/02 | 1-18 | [荣耀之星](https://ws.tsl.rocks/corp/4334fd4d4ffbc89487deaec7bb38025aba46209b810578436882be271fdbff23/) |
 
 Corporation ID: e716da4b59355078ca6f014735de218d3fa5e832805efb942d1299b899f2d8b9
