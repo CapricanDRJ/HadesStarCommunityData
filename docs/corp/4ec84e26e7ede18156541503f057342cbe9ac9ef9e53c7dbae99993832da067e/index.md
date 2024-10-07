@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Legion Prime
-description: W:12 L:12 D:0 Bonus ✅
+description: W:12 L:12 D:0 Bonus ❌
 date: 1727704223
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
