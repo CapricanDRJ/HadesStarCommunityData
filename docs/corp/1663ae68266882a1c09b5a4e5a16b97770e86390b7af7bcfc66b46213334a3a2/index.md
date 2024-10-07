@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Hexacropians
-description: W:46 L:9 D:1 Bonus ✅
+description: W:46 L:9 D:1 Bonus ❌
 date: 1728170307
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​EZCO
-description: W:14 L:22 D:1 Bonus ❌
-date: 1727506206
+description: W:14 L:23 D:1 Bonus ❌
+date: 1728283290
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1124 🔺  (1140)|
-| ELO Competitive | 1206 🔺  (538)|
-| Total Matches | 37 |
+| ELO Regular | 1120 🔻  (1155)|
+| ELO Competitive | 1204 🔻  (546)|
+| Total Matches | 38 |
 | Wins | 14 |
-| Losses | 22 |
+| Losses | 23 |
 | Draws | 1 |
 | Streak Record | 6 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727074206,1725975676,1724848807,1724196711,1724192805,1723247677,1722869037,1722249687,1721629406,1721040991,1720436592,1720436592,1719829529,1719231828,1718668672,1718022102,1717397202,1716796436,1716258609,1715607532,1714976580,1714372545,1713763224,1713253053,1712599523,1712047835,1711410525,1710854346,1710000710,1709472181,1706127911,1705350183,1704137911,1703168726,1702757402,1702323717,1701826911];
+        let timestamps = [1727851290,1727074206,1725975676,1724848807,1724196711,1724192805,1723247677,1722869037,1722249687,1721629406,1721040991,1720436592,1720436592,1719829529,1719231828,1718668672,1718022102,1717397202,1716796436,1716258609,1715607532,1714976580,1714372545,1713763224,1713253053,1712599523,1712047835,1711410525,1710854346,1710000710,1709472181,1706127911,1705350183,1704137911,1703168726,1702757402,1702323717,1701826911];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -127,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/07 | 24-38 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | ✅ | 2024/09/28 | 52-11 | [Terranova](https://ws.tsl.rocks/corp/4eeaf112dd9983e997c8c9ec43e562763a8cd4a95f268b4bfeee5e39934f01de/) |
 | ❌ | 2024/09/15 | 7-40 | [The Watchers](https://ws.tsl.rocks/corp/62a08ec3521bd62e5c8fbfc03c7d99fbf3e30fd1df80716485c9b989b27771e6/) |
 | ❌ | 2024/09/02 | 3-41 | [Regulus](https://ws.tsl.rocks/corp/2ac7f4a924f351d9e8a57c7bd7cb88bb810dd028acab61baf5f38f0ffc7cf559/) |

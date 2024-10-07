@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Winged Pheonix
-description: W:8 L:14 D:0 Bonus ❌
-date: 1727741490
+description: W:8 L:15 D:0 Bonus ❌
+date: 1728276378
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔻  (910)|
-| ELO Competitive | 1227 🔻  (426)|
-| Total Matches | 22 |
+| ELO Regular | 1162 🔻  (988)|
+| ELO Competitive | 1221 🔻  (439)|
+| Total Matches | 23 |
 | Wins | 8 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 0 |
 | Streak Record | 3 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727309490,1726821191,1726041481,1725571508,1725039334,1724218644,1723534967,1723086604,1722397236,1721906475,1721445187,1720937900,1720040505,1719463519,1718596544,1718121274,1717392995,1716545518,1716007428,1715248485,1714705767,1713772837];
+        let timestamps = [1727844378,1727309490,1726821191,1726041481,1725571508,1725039334,1724218644,1723534967,1723086604,1722397236,1721906475,1721445187,1720937900,1720040505,1719463519,1718596544,1718121274,1717392995,1716545518,1716007428,1715248485,1714705767,1713772837];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/07 | 7-36 | [111](https://ws.tsl.rocks/corp/8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350/) |
 | ❌ | 2024/10/01 | 15-53 | [Stargate Corp](https://ws.tsl.rocks/corp/b698cd0d86be60954a4b995f79fffe102a71c350e47fbdc2a5827f0ed0ca455d/) |
 | ✅ | 2024/09/25 | 16-3 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ❌ | 2024/09/16 | 16-37 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
