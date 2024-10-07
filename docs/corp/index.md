@@ -380,7 +380,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [ItaFederalFleet](https://ws.tsl.rocks/corp/02f7ac2b406e46cbb3e1f7fa3a0fb0dc2c32f9bc8afc54c299cd54757463ddbe/) | 1300 | 1324 | 24 |
 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) | 1165 | 1241 | 38 |
 | [ItBurnsWhenIEMP](https://ws.tsl.rocks/corp/1549586a8e69d1a5b1245b5cf33b7beb241b2343c07d1d800e5a2c4026c06438/) | 1309 | 1338 | 30 |
-| [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 1395 | 1603 | 90 |
+| [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 1407 | 1610 | 91 |
 | [Jalisco México](https://ws.tsl.rocks/corp/495236ab2171ccbcdad0da5529f080405b1ddd081eda98c7255a8cffe5b114e4/) | 1060 | 1122 | 45 |
 | [jatnniel 团队](https://ws.tsl.rocks/corp/fb2a90ff4c918e808029246b88573a0b283bd3b67f1831aaab89f03720e9ebb2/) | 1228 | 1239 | 4 |
 | [Jesus Followers](https://ws.tsl.rocks/corp/a2f43b4cf6c5241a87f465e98dd7b6414941bc4870171798297f6c834f16df41/) | 1169 | 1172 | 5 |
@@ -486,7 +486,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [New Horizons](https://ws.tsl.rocks/corp/35fd5f8a42c94496c737f097b09c66f0bcbdd0fe32fdf71009568e283922d37c/) | 1202 | 1235 | 13 |
 | [New Orbit ©](https://ws.tsl.rocks/corp/158a33fb6417b876a2c91e1274223bf6e35548abc4a68e5adc81776c3ed7eafa/) | 1186 | 1186 | 1 |
 | [New Star](https://ws.tsl.rocks/corp/76701c008d6499f16ec942e61adc3d6d80e931ff9407f8281b492789f8fab908/) | 1206 | 1213 | 5 |
-| [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b/) | 1341 | 1397 | 48 |
+| [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b/) | 1328 | 1390 | 49 |
 | [Nexland Ind\.](https://ws.tsl.rocks/corp/d944d7c48fcdf12fbe80bbfaec82482895285c344a643e8e679fc22617a2c44a/) | 1214 | 1245 | 10 |
 | [Next Hyperion](https://ws.tsl.rocks/corp/a18302feedfddd2a6e918dd649a70ac1c2bd249622dbfc3a3c04c06ca8adaa22/) | 1168 | 1172 | 8 |
 | [Nightmares ](https://ws.tsl.rocks/corp/3f3ee2092ce10bb26d48aebec84860645a59d9e7f80c3ca4908edf6eed5c0d0d/) | 1171 | 1172 | 2 |
@@ -599,7 +599,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Red Suns](https://ws.tsl.rocks/corp/4723a7ddfdf84d63bb4a6e897d77183874e4abd0d5f04c8c6470cb3141dd8629/) | 1181 | 1219 | 33 |
 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) | 1226 | 1350 | 43 |
 | [Redd Armada](https://ws.tsl.rocks/corp/a4d427cc014d6a9fa6ea2b1411437bf933b471b6979d6f3f309e96fee2527b5c/) | 1272 | 1286 | 10 |
-| [RedStar Raiding](https://ws.tsl.rocks/corp/83a1c4f1576eec7dce037eb5b64b2455ca3affb9d3072108c5d4d3eba88b4570/) | 1036 | 1093 | 46 |
+| [RedStar Raiding](https://ws.tsl.rocks/corp/83a1c4f1576eec7dce037eb5b64b2455ca3affb9d3072108c5d4d3eba88b4570/) | 1031 | 1089 | 47 |
 | [REFOUNDATION ](https://ws.tsl.rocks/corp/eb4ad6c6bd23c3cccc0999765163a6be7fda7844ba4d6e02b7018f2d45c0c29e/) | 1171 | 1171 | 2 |
 | [Regulus](https://ws.tsl.rocks/corp/2ac7f4a924f351d9e8a57c7bd7cb88bb810dd028acab61baf5f38f0ffc7cf559/) | 1127 | 1213 | 23 |
 | [Relic Hunters](https://ws.tsl.rocks/corp/21c31c3660b0616ae93eeb504d17baa9e375085041cb6aa0d364269809c7c646/) | 1216 | 1216 | 1 |
@@ -1071,7 +1071,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [✡天启✡](https://ws.tsl.rocks/corp/f2d70a86d32ea3a8226afc6d465a6c6540acec572b1c7232994523cdfb299c53/) | 1399 | 1494 | 33 |
 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) | 1145 | 1191 | 8 |
 | [ギャラクシー富士山](https://ws.tsl.rocks/corp/2d5888d985fe8a11b0227ed1ac345ca5be43e105bee9c4694e43c695bfd33649/) | 1146 | 1151 | 8 |
-| [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) | 1342 | 1429 | 59 |
+| [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) | 1346 | 1453 | 60 |
 | [一切终将消逝](https://ws.tsl.rocks/corp/64730e13a12911f3b07d8d1362547011103ba27359d24c023fdd8442bc025f0d/) | 1184 | 1188 | 1 |
 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) | 1367 | 1417 | 24 |
 | [三体舰队](https://ws.tsl.rocks/corp/4f07d6381e25833973d274b90a76aa73a9cac9b3f93a5279e2b0375f1108eb3a/) | 1164 | 1176 | 19 |
