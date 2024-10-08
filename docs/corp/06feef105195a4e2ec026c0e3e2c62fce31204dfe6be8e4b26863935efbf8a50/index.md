@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​hades star萌新指引站
-description: W:6 L:2 D:1 Bonus ❌
-date: 1727877008
+description: W:7 L:2 D:1 Bonus ✅
+date: 1728392677
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1242 🔻  (257)|
-| ELO Competitive | 1255 🔻  (338)|
-| Total Matches | 9 |
-| Wins | 6 |
+| ELO Regular | 1254 🔺  (226)|
+| ELO Competitive | 1266 🔺  (312)|
+| Total Matches | 10 |
+| Wins | 7 |
 | Losses | 2 |
 | Draws | 1 |
 | Streak Record | 5 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727445008,1727010203,1726486839,1726044786,1725544157,1725078905,1724639060,1724206625,1723733000];
+        let timestamps = [1727960677,1727445008,1727010203,1726486839,1726044786,1725544157,1725078905,1724639060,1724206625,1723733000];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/08 | 6-1 | [麻雀集团](https://ws.tsl.rocks/corp/bf5e5ea02e24918ed66d543902f4315f957c79c9bc1bd434c034158e9f648abe/) |
 | ❌ | 2024/10/02 | 0-6 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 | ❌ | 2024/09/27 | 2-5 | [斯比纳兰](https://ws.tsl.rocks/corp/ce756ff97542e6fa8d518319e6575aae1d01eb23dd906fee3e3cbb98b442b68f/) |
 | ✅ | 2024/09/21 | 7-0 | [CCCP](https://ws.tsl.rocks/corp/34cd422237fc59472ea900588e5416892c4cceeae033e28f8352b61524a92ac7/) |
