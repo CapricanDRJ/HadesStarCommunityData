@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Созидание 2.0
-description: W:9 L:16 D:0 Bonus ❌
-date: 1716312038
+description: W:10 L:16 D:0 Bonus ✅
+date: 1728386063
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1137 🔺  (1108)|
-| ELO Competitive | 1148 🔺  (1152)|
-| Total Matches | 25 |
-| Wins | 9 |
+| ELO Regular | 1154 🔺  (1042)|
+| ELO Competitive | 1166 🔺  (1061)|
+| Total Matches | 26 |
+| Wins | 10 |
 | Losses | 16 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 5 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1715880038,1713462186,1712858825,1712248557,1711651193,1711039428,1710350458,1709224281,1708622104,1708011496,1707411552,1706805269,1706199429,1705607116,1704995277,1704403266,1703787807,1703179848,1702577076,1701982590,1701368281,1700765078,1700157074,1699548035,1698944639];
+        let timestamps = [1727954063,1715880038,1713462186,1712858825,1712248557,1711651193,1711039428,1710350458,1709224281,1708622104,1708011496,1707411552,1706805269,1706199429,1705607116,1704995277,1704403266,1703787807,1703179848,1702577076,1701982590,1701368281,1700765078,1700157074,1699548035,1698944639];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/08 | 30-9 | [Crimson Dawn](https://ws.tsl.rocks/corp/d01a872035141501ad24bc84e5496d239d31d121774482b777bd8f2e03726d44/) |
 | ✅ | 2024/05/21 | 9-7 | [Galaxians](https://ws.tsl.rocks/corp/94728c6eb201c1f15c6e2304b5920aa155ccc1a7aac83b574baae51c53a22c5d/) |
 | ✅ | 2024/04/23 | 16-3 | [SternenStaub](https://ws.tsl.rocks/corp/11f1e8a4d522eaef8cb40c95d07b4533097aa6509ddafd1d7efc1449e8b10f38/) |
 | ❌ | 2024/04/16 | 3-12 | [Valhalla Rising](https://ws.tsl.rocks/corp/8843a04f5528aa779a62f129af7ef619b90742807f0d436ae85a69870206b254/) |

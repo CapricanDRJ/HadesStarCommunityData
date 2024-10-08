@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​星河绮梦
-description: W:19 L:4 D:0 Bonus ✅
-date: 1727947929
+description: W:19 L:5 D:0 Bonus ✅
+date: 1728383659
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1350 🔺  (77)|
-| ELO Competitive | 1398 🔺  (108)|
-| Total Matches | 23 |
+| ELO Regular | 1336 🔻  (91)|
+| ELO Competitive | 1383 🔻  (128)|
+| Total Matches | 24 |
 | Wins | 19 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
-| Streak | 8 |
 | Streak Record | 8 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727515929,1727071502,1726560764,1726078446,1725626489,1725192589,1724693181,1724236672,1723791898,1723125969,1722575433,1722126770,1721678081,1720591966,1720150201,1719666356,1719229123,1718794879,1718710135,1718207523,1717713682,1716678338,1714826356];
+        let timestamps = [1727951659,1727515929,1727071502,1726560764,1726078446,1725626489,1725192589,1724693181,1724236672,1723791898,1723125969,1722575433,1722126770,1721678081,1720591966,1720150201,1719666356,1719229123,1718794879,1718710135,1718207523,1717713682,1716678338,1714826356];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/08 | 2-8 | [Osmium Star llc](https://ws.tsl.rocks/corp/edd3ac94ea8ee1cf441e904ff29c48c21fa5db83af6eb5a6e83ae236b3872b22/) |
 | ✅ | 2024/10/03 | 9-0 | [Sich\.ua](https://ws.tsl.rocks/corp/9fcd6d7c4fe7f8e39acf48585dfe9c6d3d14edc7781fe8caf85618b3e98c685d/) |
 | ✅ | 2024/09/28 | 19-1 | [СНГ — РОССИЯ](https://ws.tsl.rocks/corp/075394144fa4e771dc8358886dc461b0ed87d948b46e5d817d29296adf2f11f2/) |
 | ✅ | 2024/09/22 | 16-5 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
