@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Quilliance
-description: W:19 L:2 D:0 Bonus ✅
+description: W:19 L:2 D:0 Bonus ❌
 date: 1727786859
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

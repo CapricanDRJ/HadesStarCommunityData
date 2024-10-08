@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​OPA
-description: W:38 L:12 D:0 Bonus ✅
+description: W:38 L:12 D:0 Bonus ❌
 date: 1728400795
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
