@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Embers Rising
-description: W:27 L:8 D:0 Bonus ❌
-date: 1727762820
+description: W:28 L:8 D:0 Bonus ✅
+date: 1728367731
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1355 🔻  (73)|
-| ELO Competitive | 1419 🔻  (90)|
-| Total Matches | 35 |
-| Wins | 27 |
+| ELO Regular | 1364 🔺  (69)|
+| ELO Competitive | 1430 🔺  (82)|
+| Total Matches | 36 |
+| Wins | 28 |
 | Losses | 8 |
 | Draws | 0 |
 | Streak Record | 13 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727330820,1726510586,1725399030,1724880067,1724275144,1723780479,1723308983,1722451629,1721769452,1721249270,1720038401,1719074358,1718467025,1717421546,1716702674,1715369567,1714546822,1713302939,1712203483,1711550837,1711396402,1710657837,1709928294,1709366064,1708407854,1707802949,1707346952,1706862966,1705858351,1705176787,1704090124,1703051220,1702011740,1700768686,1699250554];
+        let timestamps = [1727935731,1727330820,1726510586,1725399030,1724880067,1724275144,1723780479,1723308983,1722451629,1721769452,1721249270,1720038401,1719074358,1718467025,1717421546,1716702674,1715369567,1714546822,1713302939,1712203483,1711550837,1711396402,1710657837,1709928294,1709366064,1708407854,1707802949,1707346952,1706862966,1705858351,1705176787,1704090124,1703051220,1702011740,1700768686,1699250554];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/08 | 22-1 | [StellaMysterium](https://ws.tsl.rocks/corp/cfaaa81ed93cc9361ade470c3414c73ecf77068badd68d624c7b3f486d142b10/) |
 | ❌ | 2024/10/01 | 9-32 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ❌ | 2024/09/21 | 5-25 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |
 | ✅ | 2024/09/08 | 18-6 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) |
