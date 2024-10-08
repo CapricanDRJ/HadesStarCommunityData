@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​欢迎国人
-description: W:7 L:14 D:3 Bonus ❌
-date: 1726810042
+description: W:7 L:15 D:3 Bonus ❌
+date: 1728356013
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1131 🔺  (1122)|
-| ELO Competitive | 1149 🔺  (1147)|
-| Total Matches | 24 |
+| ELO Regular | 1120 🔻  (1153)|
+| ELO Competitive | 1139 🔻  (1184)|
+| Total Matches | 25 |
 | Wins | 7 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 3 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726378042,1725200403,1724593680,1723881808,1723384109,1722666184,1722210928,1721746308,1721279615,1720787623,1720261689,1718714042,1712659012,1712203411,1711739769,1711156695,1710689693,1708265417,1706870699,1706343673,1705888103,1705454336,1705010912,1704532177];
+        let timestamps = [1727924013,1726378042,1725200403,1724593680,1723881808,1723384109,1722666184,1722210928,1721746308,1721279615,1720787623,1720261689,1718714042,1712659012,1712203411,1711739769,1711156695,1710689693,1708265417,1706870699,1706343673,1705888103,1705454336,1705010912,1704532177];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/08 | 0-14 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) |
 | ✅ | 2024/09/20 | 1-0 | [梨山养老院](https://ws.tsl.rocks/corp/4b0da5a03088d82acb8566ed943c7737a389ee702df4473438eec3f77f2c20c1/) |
 | ❌ | 2024/09/06 | 3-7 | [SiriusStrawMoo](https://ws.tsl.rocks/corp/c83a5744ea256d2c1fa59660bc0e18e8d01a2a467bc13fec27a8b30f689e220b/) |
 | ✅ | 2024/08/30 | 2-0 | [中国星际联盟·第一自治州](https://ws.tsl.rocks/corp/545ee3872db51731b8d4a941a5c88e0b8f5dcc68b5a26e1a39133cc7dc0b6c18/) |

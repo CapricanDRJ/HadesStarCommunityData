@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​First Legion
-description: W:42 L:43 D:1 Bonus ✅
+description: W:42 L:43 D:1 Bonus ❌
 date: 1728344596
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
