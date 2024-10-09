@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Sentencia
-description: W:16 L:4 D:0 Bonus ✅
+description: W:16 L:4 D:0 Bonus ❌
 date: 1727861379
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
