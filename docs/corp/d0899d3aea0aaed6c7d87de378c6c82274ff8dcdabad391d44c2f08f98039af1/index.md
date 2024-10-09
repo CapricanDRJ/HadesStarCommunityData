@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​Croce del Sud
-description: W:9 L:9 D:0 Bonus ❌
-date: 1727214137
+description: W:10 L:9 D:0 Bonus ✅
+date: 1728442869
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1203 🔺  (444)|
-| ELO Competitive | 1228 🔺  (417)|
-| Total Matches | 18 |
-| Wins | 9 |
+| ELO Regular | 1216 🔺  (362)|
+| ELO Competitive | 1241 🔺  (376)|
+| Total Matches | 19 |
+| Wins | 10 |
 | Losses | 9 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 3 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726782137,1725589532,1723158426,1721346627,1720158915,1718333736,1714699158,1713565529,1712267490,1710720648,1708762734,1707431688,1706226479,1705019621,1702247382,1701127252,1700637944,1698886949];
+        let timestamps = [1728010869,1726782137,1725589532,1723158426,1721346627,1720158915,1718333736,1714699158,1713565529,1712267490,1710720648,1708762734,1707431688,1706226479,1705019621,1702247382,1701127252,1700637944,1698886949];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/09 | 45-4 | [First Squad](https://ws.tsl.rocks/corp/39bb6d19385b7eb6e2e71a979f21256463432b6e2e36ae4c55446abb1f6a0db1/) |
 | ✅ | 2024/09/24 | 54-17 | [Trade Station](https://ws.tsl.rocks/corp/7003e286fe1a04aaa63e3aa318c164856c07e251a94b0496757140f5eda72cd7/) |
 | ❌ | 2024/09/11 | 35-38 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ❌ | 2024/08/13 | 37-46 | [KLM](https://ws.tsl.rocks/corp/963e490e64d4703042415d3fcd8267ff87fbfd3383b83d447d29d842f2a446a1/) |
