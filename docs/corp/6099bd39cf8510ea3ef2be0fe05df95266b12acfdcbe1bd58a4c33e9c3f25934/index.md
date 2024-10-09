@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​无聊不过
-description: W:8 L:3 D:1 Bonus ✅
-date: 1728218981
+description: W:8 L:4 D:1 Bonus ✅
+date: 1728451284
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1262 🔺  (200)|
-| ELO Competitive | 1277 🔺  (290)|
-| Total Matches | 12 |
+| ELO Regular | 1244 🔻  (252)|
+| ELO Competitive | 1277 🔺  (289)|
+| Total Matches | 13 |
 | Wins | 8 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 1 |
-| Streak | 2 |
 | Streak Record | 5 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727786981,1727115679,1726317030,1724998160,1724559119,1723595973,1723037622,1722569123,1721993923,1721639021,1721533537,1721044899];
+        let timestamps = [1728019284,1727786981,1727115679,1726317030,1724998160,1724559119,1723595973,1723037622,1722569123,1721993923,1721639021,1721533537,1721044899];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/09 | 2-16 | [ITALIA](https://ws.tsl.rocks/corp/50983e789fe433b3974f5e28fe71a160d7d15afecfc7f2b89595a1a52391fda2/) |
 | ✅ | 2024/10/06 | 16-4 | [羽共和体](https://ws.tsl.rocks/corp/61b6e0502a087307a2ecf50e5d84f6123ad19984dc5790c997f16a676213aa7e/) |
 | ✅ | 2024/09/28 | 12-0 | [The Smeg Heads](https://ws.tsl.rocks/corp/4468352a700fed901168b249c273c37c4d32a032977d53e5261f9c596c1e5366/) |
 | ❌ | 2024/09/19 | 0-4 | [碧霄殿](https://ws.tsl.rocks/corp/7e12fd0fd0a01af1c797f73316b305a21078e46bd75758850438f20357276ebf/) |

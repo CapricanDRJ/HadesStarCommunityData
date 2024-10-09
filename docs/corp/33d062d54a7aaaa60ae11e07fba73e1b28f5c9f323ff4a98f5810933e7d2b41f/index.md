@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​oen
-description: W:4 L:1 D:0 Bonus ❌
-date: 1727369376
+description: W:4 L:1 D:1 Bonus ❌
+date: 1728453688
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1240 🔺  (262)|
-| ELO Competitive | 1254 🔺  (340)|
-| Total Matches | 5 |
+| ELO Regular | 1238 🔻  (272)|
+| ELO Competitive | 1251 🔻  (347)|
+| Total Matches | 6 |
 | Wins | 4 |
 | Losses | 1 |
-| Draws | 0 |
+| Draws | 1 |
 | Streak Record | 3 |
 
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726937376,1722993450,1722474729,1721188564,1720665900];
+        let timestamps = [1728021688,1726937376,1722993450,1722474729,1721188564,1720665900];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/10/09 | 3-3 | [Omega corp](https://ws.tsl.rocks/corp/17140be6e5915edf2d09ebcf246a7c2650cf39def04823c9a04bdf81ff8fc38e/) |
 | ✅ | 2024/09/26 | 3-0 | [Sich\.ua](https://ws.tsl.rocks/corp/9fcd6d7c4fe7f8e39acf48585dfe9c6d3d14edc7781fe8caf85618b3e98c685d/) |
 | ❌ | 2024/08/12 | 3-14 | [星海扬帆](https://ws.tsl.rocks/corp/9cf2d9a2c07a0b8030f9a8275f9ebd3973759c2b60bed95ccb9a3f152aa0b1e4/) |
 | ✅ | 2024/08/06 | 3-0 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |
