@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Valhalla Rising
-description: W:22 L:2 D:0 Bonus ❌
-date: 1720898650
+description: W:22 L:3 D:0 Bonus ❌
+date: 1728493664
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1416 🔺  (36)|
-| ELO Competitive | 1441 🔺  (77)|
-| Total Matches | 24 |
+| ELO Regular | 1388 🔻  (54)|
+| ELO Competitive | 1415 🔻  (95)|
+| Total Matches | 25 |
 | Wins | 22 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 | Streak Record | 15 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1720466650,1719812404,1718594441,1717932843,1714844386,1713555013,1712858825,1711655401,1711057761,1710436087,1709842360,1709233898,1708627514,1708020512,1707413656,1706954021,1705043656,1703835286,1702715320,1702106712,1700849832,1700152566,1699617776,1699133971];
+        let timestamps = [1728061664,1720466650,1719812404,1718594441,1717932843,1714844386,1713555013,1712858825,1711655401,1711057761,1710436087,1709842360,1709233898,1708627514,1708020512,1707413656,1706954021,1705043656,1703835286,1702715320,1702106712,1700849832,1700152566,1699617776,1699133971];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/09 | 18-20 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
 | ✅ | 2024/07/13 | 20-12 | [Warriorlords](https://ws.tsl.rocks/corp/a78c29b9e1c9f793205ba10d796dcabc114ef43d86f0bd34a43a56dc6da768aa/) |
 | ❌ | 2024/07/06 | 29-30 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | ✅ | 2024/06/22 | 52-2 | [ZION](https://ws.tsl.rocks/corp/99ac8e5c0f22878b9a4458953d0c712ada17ef36ae195ccf39c7921dc996adfe/) |

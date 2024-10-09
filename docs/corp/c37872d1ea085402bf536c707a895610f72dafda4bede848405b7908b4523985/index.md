@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Galaktika corp
-description: W:16 L:16 D:2 Bonus ❌
-date: 1728025155
+description: W:16 L:17 D:2 Bonus ❌
+date: 1728493664
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1159 🔻  (1008)|
-| ELO Competitive | 1211 🔻  (524)|
-| Total Matches | 34 |
+| ELO Regular | 1145 🔻  (1084)|
+| ELO Competitive | 1194 🔻  (634)|
+| Total Matches | 35 |
 | Wins | 16 |
-| Losses | 16 |
+| Losses | 17 |
 | Draws | 2 |
 | Streak Record | 5 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727593155,1727149029,1726681776,1726174902,1725723558,1725278529,1724785707,1724319010,1723858612,1723412362,1722978728,1722303881,1721712918,1721219212,1720766585,1720149900,1719287424,1718823133,1718357791,1717572119,1717078926,1715793511,1715203724,1712776499,1711185455,1709052712,1707999474,1707077836,1706633978,1705162660,1703425079,1702311692,1701443114,1699964420];
+        let timestamps = [1728061664,1727593155,1727149029,1726681776,1726174902,1725723558,1725278529,1724785707,1724319010,1723858612,1723412362,1722978728,1722303881,1721712918,1721219212,1720766585,1720149900,1719287424,1718823133,1718357791,1717572119,1717078926,1715793511,1715203724,1712776499,1711185455,1709052712,1707999474,1707077836,1706633978,1705162660,1703425079,1702311692,1701443114,1699964420];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/09 | 0-1 | [GALACTIC EMPIRE](https://ws.tsl.rocks/corp/87d0b2136e9240d3a86447408e870b898e7a25372186971fba925464ba4530ab/) |
 | ❌ | 2024/10/04 | 4-15 | [Warriorlords](https://ws.tsl.rocks/corp/a78c29b9e1c9f793205ba10d796dcabc114ef43d86f0bd34a43a56dc6da768aa/) |
 | ❌ | 2024/09/29 | 8-11 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ❌ | 2024/09/23 | 0-6 | [Star Blazers](https://ws.tsl.rocks/corp/f179acb7b919d9d3185f1fcd66bb17d5e257feab5039bcbf6efb5c8cd6f5c057/) |

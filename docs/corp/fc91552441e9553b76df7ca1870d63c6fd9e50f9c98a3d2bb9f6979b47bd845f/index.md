@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​the heavy
-description: W:17 L:10 D:0 Bonus ✅
+description: W:17 L:10 D:0 Bonus ❌
 date: 1727873400
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Void
-description: W:9 L:14 D:0 Bonus ❌
-date: 1727964759
+description: W:9 L:15 D:0 Bonus ❌
+date: 1728496070
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1132 🔻  (1122)|
-| ELO Competitive | 1177 🔻  (940)|
-| Total Matches | 23 |
+| ELO Regular | 1126 🔻  (1142)|
+| ELO Competitive | 1175 🔻  (967)|
+| Total Matches | 24 |
 | Wins | 9 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727532759,1727027637,1726498261,1726062817,1725456715,1724952184,1723833372,1723126270,1722521644,1721933826,1721494777,1720105419,1719518816,1719011543,1718102037,1717250521,1716600802,1710583013,1709802994,1706784532,1706223775,1705592387,1705073105];
+        let timestamps = [1728064070,1727532759,1727027637,1726498261,1726062817,1725456715,1724952184,1723833372,1723126270,1722521644,1721933826,1721494777,1720105419,1719518816,1719011543,1718102037,1717250521,1716600802,1710583013,1709802994,1706784532,1706223775,1705592387,1705073105];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/09 | 12-62 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) |
 | ❌ | 2024/10/03 | 22-24 | [붉은늑대](https://ws.tsl.rocks/corp/43d32b05645aaa9415d1c04ecbcea520d2ed5b90304770cb0ab3813cb86e2f49/) |
 | ✅ | 2024/09/27 | 34-23 | [Lacuna Ind\.](https://ws.tsl.rocks/corp/09f1be75e07236be87e2fa3f6e2f82f396666cd220f25f1250ba8b9e71e1e1b7/) |
 | ❌ | 2024/09/21 | 24-27 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) |
