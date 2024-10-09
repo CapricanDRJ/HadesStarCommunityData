@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​U.S.A
-description: W:15 L:23 D:0 Bonus ✅
-date: 1728498776
+description: W:16 L:23 D:0 Bonus ✅
+date: 1728500279
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔺  (892)|
-| ELO Competitive | 1283 🔺  (270)|
-| Total Matches | 38 |
-| Wins | 15 |
+| ELO Regular | 1187 🔺  (606)|
+| ELO Competitive | 1284 🔺  (270)|
+| Total Matches | 39 |
+| Wins | 16 |
 | Losses | 23 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 3 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728066776,1727633730,1727620204,1727186587,1727186587,1726748176,1726746372,1726306849,1726290883,1725847969,1725839155,1725398730,1725390014,1724704276,1724704276,1723430087,1723422877,1720666501,1718646432,1718032023,1714970271,1711389189,1711381075,1710446605,1710346250,1709022057,1709000724,1707757869,1707756366,1706057593,1706042568,1704924060,1704916246,1704109957,1702675052,1701920980,1701894234,1701274513];
+        let timestamps = [1728068279,1728066776,1727633730,1727620204,1727186587,1727186587,1726748176,1726746372,1726306849,1726290883,1725847969,1725839155,1725398730,1725390014,1724704276,1724704276,1723430087,1723422877,1720666501,1718646432,1718032023,1714970271,1711389189,1711381075,1710446605,1710346250,1709022057,1709000724,1707757869,1707756366,1706057593,1706042568,1704924060,1704916246,1704109957,1702675052,1701920980,1701894234,1701274513];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -127,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/09 | 17-0 | [Т Е Н Ь](https://ws.tsl.rocks/corp/5f4b3004ce7e14488b409e8036d0f0b04b41aa63e245cb8e9f238b53780c5741/) |
 | ✅ | 2024/10/09 | 17-3 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) |
 | ✅ | 2024/10/04 | 9-0 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ❌ | 2024/10/04 | 2-4 | [SiriusStrawMoo](https://ws.tsl.rocks/corp/c83a5744ea256d2c1fa59660bc0e18e8d01a2a467bc13fec27a8b30f689e220b/) |
