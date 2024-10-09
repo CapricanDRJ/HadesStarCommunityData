@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Nebulae Traders
-description: W:7 L:32 D:4 Bonus ❌
-date: 1728196746
+description: W:7 L:33 D:4 Bonus ❌
+date: 1728433255
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1010 🔻  (1261)|
-| ELO Competitive | 1127 🔻  (1208)|
-| Total Matches | 43 |
+| ELO Regular | 1001 🔻  (1262)|
+| ELO Competitive | 1133 🔻  (1200)|
+| Total Matches | 44 |
 | Wins | 7 |
-| Losses | 32 |
+| Losses | 33 |
 | Draws | 4 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727764746,1727303782,1727283645,1726691394,1726227778,1726226876,1725401792,1725398730,1724906805,1724883973,1724451240,1724445530,1723831868,1723826760,1723303219,1723294856,1722856529,1722851304,1722391227,1722390025,1721902869,1721897461,1721342121,1721197578,1720897630,1720387617,1719897145,1719433774,1718823133,1716078338,1715637282,1715113291,1713788760,1713203176,1712437860,1711409023,1710035723,1709402172,1707263531,1707260655,1706121534,1705966840,1698725548];
+        let timestamps = [1728001255,1727764746,1727303782,1727283645,1726691394,1726227778,1726226876,1725401792,1725398730,1724906805,1724883973,1724451240,1724445530,1723831868,1723826760,1723303219,1723294856,1722856529,1722851304,1722391227,1722390025,1721902869,1721897461,1721342121,1721197578,1720897630,1720387617,1719897145,1719433774,1718823133,1716078338,1715637282,1715113291,1713788760,1713203176,1712437860,1711409023,1710035723,1709402172,1707263531,1707260655,1706121534,1705966840,1698725548];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/09 | 0-3 | [脉冲星际集团](https://ws.tsl.rocks/corp/a4c08cf63563563e9bfa1d35edb256e9bb8bcdca15103d646d2ff8ed9d17f480/) |
 | ❌ | 2024/10/06 | 8-21 | [第三舰队](https://ws.tsl.rocks/corp/5c221ea6be2f8e437f63c736ee45290cb3304543c57a4a1ea677e5e24e121f89/) |
 | ❌ | 2024/09/30 | 0-19 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) |
 | ↔️ | 2024/09/30 | 3-3 | [imperio estelar](https://ws.tsl.rocks/corp/c4c7de80ce172ac4cb77f23b5833bc20f87ea3f6e64ed09120b0e95113460bb4/) |

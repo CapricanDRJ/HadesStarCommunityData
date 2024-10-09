@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Empire of Light
-description: W:7 L:13 D:0 Bonus ❌
-date: 1727685591
+description: W:7 L:14 D:0 Bonus ❌
+date: 1728433556
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1146 🔻  (1073)|
-| ELO Competitive | 1186 🔻  (772)|
-| Total Matches | 20 |
+| ELO Regular | 1142 🔻  (1090)|
+| ELO Competitive | 1181 🔻  (906)|
+| Total Matches | 21 |
 | Wins | 7 |
-| Losses | 13 |
+| Losses | 14 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727253591,1725935113,1713480517,1712192968,1711339312,1711267190,1710860957,1710083945,1709348981,1708505813,1707575617,1706839529,1704722107,1702985503,1701777312,1701216213,1700711879,1700183824,1699585003,1698969283];
+        let timestamps = [1728001556,1727253591,1725935113,1713480517,1712192968,1711339312,1711267190,1710860957,1710083945,1709348981,1708505813,1707575617,1706839529,1704722107,1702985503,1701777312,1701216213,1700711879,1700183824,1699585003,1698969283];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/09 | 0-34 | [Atlas Star llc\.](https://ws.tsl.rocks/corp/3de5259ba12509e4d02854f1414caacf3d0aaaf79f417b9d843ff20ca35863dd/) |
 | ❌ | 2024/09/30 | 0-12 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
 | ❌ | 2024/09/15 | 1-31 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |
 | ❌ | 2024/04/23 | 4-19 | [元素联邦](https://ws.tsl.rocks/corp/e9d602d617d5c81270107c15a6d1f1717c5016abad802d3629f7f4301a58e95e/) |
