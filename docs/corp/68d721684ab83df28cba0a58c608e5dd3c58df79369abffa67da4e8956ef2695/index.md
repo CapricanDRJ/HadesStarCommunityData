@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​koalition
-description: W:11 L:7 D:1 Bonus ✅
+description: W:11 L:7 D:1 Bonus ❌
 date: 1727906205
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
