@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​StellarCorpIT
-description: W:8 L:1 D:0 Bonus ❌
-date: 1721957726
+description: W:8 L:2 D:0 Bonus ❌
+date: 1728586532
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1299 🔺  (141)|
-| ELO Competitive | 1316 🔺  (217)|
-| Total Matches | 9 |
+| ELO Regular | 1283 🔻  (165)|
+| ELO Competitive | 1302 🔻  (239)|
+| Total Matches | 10 |
 | Wins | 8 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
-| Streak | 3 |
 | Streak Record | 5 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721525726,1720255678,1716619731,1714298327,1711201082,1708853181,1706425414,1705643777,1702870403];
+        let timestamps = [1728154532,1721525726,1720255678,1716619731,1714298327,1711201082,1708853181,1706425414,1705643777,1702870403];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/10 | 18-26 | [Industrial W\.O](https://ws.tsl.rocks/corp/99a4ba88f6a620cb9ea1da456127c978a858ffbda4e40b255fcf3365515da25d/) |
 | ✅ | 2024/07/26 | 17-8 | [Cyber Star](https://ws.tsl.rocks/corp/358bbbde0af23c5f41cdb4fde95bb713989c7812b5a0358f7c34ecceca19916c/) |
 | ✅ | 2024/07/11 | 9-5 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ✅ | 2024/05/30 | 19-0 | [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046/) |

@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​情谊永存
-description: W:2 L:5 D:0 Bonus ✅
+description: W:2 L:5 D:0 Bonus ❌
 date: 1728466121
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1161 🔻  (997)|
-| ELO Competitive | 1185 🔻  (860)|
+| ELO Regular | 1161 🔻  (998)|
+| ELO Competitive | 1185 🔻  (861)|
 | Total Matches | 7 |
 | Wins | 2 |
 | Losses | 5 |
