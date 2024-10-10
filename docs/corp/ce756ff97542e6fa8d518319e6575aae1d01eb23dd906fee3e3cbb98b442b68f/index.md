@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​斯比纳兰
-description: W:3 L:5 D:1 Bonus ✅
+description: W:3 L:5 D:1 Bonus ❌
 date: 1728381554
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1167 🔻  (949)|
+| ELO Regular | 1167 🔻  (950)|
 | ELO Competitive | 1194 🔻  (633)|
 | Total Matches | 9 |
 | Wins | 3 |

@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​华夏三体舰队
-description: W:14 L:25 D:7 Bonus ✅
+description: W:14 L:25 D:7 Bonus ❌
 date: 1728038677
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1156 🔻  (1027)|
-| ELO Competitive | 1262 🔺  (319)|
+| ELO Regular | 1156 🔻  (1028)|
+| ELO Competitive | 1262 🔺  (320)|
 | Total Matches | 46 |
 | Wins | 14 |
 | Losses | 25 |
