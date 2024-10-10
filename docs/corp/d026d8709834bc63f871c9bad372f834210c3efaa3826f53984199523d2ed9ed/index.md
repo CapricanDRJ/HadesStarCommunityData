@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​万星联盟
-description: W:21 L:3 D:0 Bonus ✅
+description: W:21 L:3 D:0 Bonus ❌
 date: 1728221085
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​ZION
-description: W:28 L:21 D:0 Bonus ✅
+description: W:28 L:21 D:0 Bonus ❌
 date: 1727920313
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
