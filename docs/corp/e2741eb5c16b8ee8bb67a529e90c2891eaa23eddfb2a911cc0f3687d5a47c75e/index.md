@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Blood Hounds
-description: W:65 L:16 D:1 Bonus ✅
+description: W:65 L:16 D:1 Bonus ❌
 date: 1728525223
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
