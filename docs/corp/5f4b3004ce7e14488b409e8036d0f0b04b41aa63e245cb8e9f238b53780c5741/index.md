@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Т Е Н Ь
-description: W:0 L:1 D:0 Bonus ❌
-date: 1728500279
+description: W:1 L:1 D:0 Bonus ✅
+date: 1728517712
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (756)|
-| ELO Competitive | 1189 🔻  (708)|
-| Total Matches | 1 |
-| Wins | 0 |
+| ELO Regular | 1200 🔺  (477)|
+| ELO Competitive | 1223 🔺  (433)|
+| Total Matches | 2 |
+| Wins | 1 |
 | Losses | 1 |
 | Draws | 0 |
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728068279];
+        let timestamps = [1728085712,1728068279];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/09 | 12-0 | [Sich\.ua](https://ws.tsl.rocks/corp/9fcd6d7c4fe7f8e39acf48585dfe9c6d3d14edc7781fe8caf85618b3e98c685d/) |
 | ❌ | 2024/10/09 | 0-17 | [U\.S\.A](https://ws.tsl.rocks/corp/6d7a18e9893736881762a4e1b687b55e7311d367267ff5a9cc8e45722b14ea06/) |
 
 Corporation ID: 5f4b3004ce7e14488b409e8036d0f0b04b41aa63e245cb8e9f238b53780c5741
