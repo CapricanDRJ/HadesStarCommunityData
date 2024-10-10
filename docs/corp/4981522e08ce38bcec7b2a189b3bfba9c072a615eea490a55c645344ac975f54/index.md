@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​exirium
-description: W:1 L:1 D:0 Bonus ❌
-date: 1703037328
+description: W:1 L:1 D:1 Bonus ❌
+date: 1728581122
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1200 🔺  (479)|
-| ELO Competitive | 1200 🔺  (588)|
-| Total Matches | 2 |
+| ELO Regular | 1204 🔺  (440)|
+| ELO Competitive | 1208 🔺  (537)|
+| Total Matches | 3 |
 | Wins | 1 |
 | Losses | 1 |
-| Draws | 0 |
+| Draws | 1 |
 
 
 # Whitestar Match Day
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1702605328,1698888451];
+        let timestamps = [1728149122,1702605328,1698888451];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/10/10 | 5-5 | [  边界  ](https://ws.tsl.rocks/corp/86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a/) |
 | ✅ | 2023/12/20 | 9-5 | [1st/Ave/Junkie2](https://ws.tsl.rocks/corp/b129b678cd83374fa72b5da92172ff1c856b8f72c32bcdb4711d66d06528fca1/) |
 | ❌ | 2023/11/07 | 3-7 | [United Stars ](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) |
 

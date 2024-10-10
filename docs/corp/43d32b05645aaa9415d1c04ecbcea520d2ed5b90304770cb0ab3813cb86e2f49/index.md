@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​붉은늑대
-description: W:38 L:54 D:0 Bonus ✅
+description: W:38 L:54 D:0 Bonus ❌
 date: 1728568196
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

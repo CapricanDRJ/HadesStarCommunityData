@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​  边界  
-description: W:19 L:7 D:2 Bonus ✅
-date: 1728121314
+description: W:19 L:7 D:3 Bonus ✅
+date: 1728581122
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1304 🔺  (129)|
-| ELO Competitive | 1394 🔺  (115)|
-| Total Matches | 28 |
+| ELO Regular | 1300 🔻  (140)|
+| ELO Competitive | 1386 🔻  (123)|
+| Total Matches | 29 |
 | Wins | 19 |
 | Losses | 7 |
-| Draws | 2 |
+| Draws | 3 |
 | Streak Record | 6 |
 
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727689314,1727688413,1727245453,1727239771,1726662014,1726656408,1726135831,1726118619,1725520417,1725509583,1725076595,1725061572,1724581959,1724575347,1724132399,1724127291,1723693933,1723255188,1722818853,1722361478,1721642326,1721291333,1721203587,1720769290,1720232839,1719564786,1719130853,1717906095];
+        let timestamps = [1728149122,1727689314,1727688413,1727245453,1727239771,1726662014,1726656408,1726135831,1726118619,1725520417,1725509583,1725076595,1725061572,1724581959,1724575347,1724132399,1724127291,1723693933,1723255188,1722818853,1722361478,1721642326,1721291333,1721203587,1720769290,1720232839,1719564786,1719130853,1717906095];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/10/10 | 5-5 | [exirium](https://ws.tsl.rocks/corp/4981522e08ce38bcec7b2a189b3bfba9c072a615eea490a55c645344ac975f54/) |
 | ✅ | 2024/10/05 | 17-3 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ❌ | 2024/10/05 | 0-30 | [Lofty Mountain](https://ws.tsl.rocks/corp/1cfc6606e17d524ba0388b273ad6a9e86b23838eb529a2659f03a40702affbf7/) |
 | ✅ | 2024/09/30 | 8-0 | [Spaceforce](https://ws.tsl.rocks/corp/24c4541d371aa6efad58f5141355ec6ad643e45d05957800075cdefc583cb805/) |

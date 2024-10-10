@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​ RELAX CZ/SK
-description: W:65 L:28 D:0 Bonus ✅
+description: W:65 L:28 D:0 Bonus ❌
 date: 1728068435
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
