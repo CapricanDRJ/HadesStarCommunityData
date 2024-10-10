@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Shrimp City
-description: W:21 L:15 D:1 Bonus ❌
-date: 1727065276
+description: W:21 L:16 D:1 Bonus ❌
+date: 1728565791
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1237 🔻  (277)|
-| ELO Competitive | 1270 🔻  (303)|
-| Total Matches | 37 |
+| ELO Regular | 1221 🔻  (327)|
+| ELO Competitive | 1253 🔻  (339)|
+| Total Matches | 38 |
 | Wins | 21 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 1 |
 | Streak Record | 11 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726633276,1725648432,1725072689,1724553411,1724115574,1723595973,1723135586,1722493396,1722030589,1721575013,1721138876,1720639754,1720182052,1719740881,1719270672,1719214100,1718766336,1718309099,1717856809,1717411025,1716973746,1716528997,1716095762,1715651701,1715208230,1714763919,1714314555,1713850953,1713406301,1712961282,1712523503,1712087203,1711627753,1704976641,1704492516,1701486394,1701017248];
+        let timestamps = [1728133791,1726633276,1725648432,1725072689,1724553411,1724115574,1723595973,1723135586,1722493396,1722030589,1721575013,1721138876,1720639754,1720182052,1719740881,1719270672,1719214100,1718766336,1718309099,1717856809,1717411025,1716973746,1716528997,1716095762,1715651701,1715208230,1714763919,1714314555,1713850953,1713406301,1712961282,1712523503,1712087203,1711627753,1704976641,1704492516,1701486394,1701017248];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/10 | 0-22 | [青丘湖](https://ws.tsl.rocks/corp/c2d4ace95bc720bbe241ecac77e9a33d3961c881d62fa45e81690b9836a65658/) |
 | ❌ | 2024/09/23 | 5-10 | [RedStar Raiding](https://ws.tsl.rocks/corp/83a1c4f1576eec7dce037eb5b64b2455ca3affb9d3072108c5d4d3eba88b4570/) |
 | ❌ | 2024/09/11 | 0-11 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
 | ❌ | 2024/09/05 | 0-26 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |

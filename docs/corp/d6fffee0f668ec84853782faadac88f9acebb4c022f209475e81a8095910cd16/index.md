@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Welcome 欢迎
-description: W:0 L:2 D:0 Bonus ❌
-date: 1721620564
+description: W:0 L:3 D:0 Bonus ❌
+date: 1728573607
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (860)|
-| ELO Competitive | 1186 🔻  (753)|
-| Total Matches | 2 |
+| ELO Regular | 1158 🔻  (1019)|
+| ELO Competitive | 1172 🔻  (1006)|
+| Total Matches | 3 |
 | Wins | 0 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721188564,1720950824];
+        let timestamps = [1728141607,1721188564,1720950824];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/10 | 0-3 | [斯比纳兰](https://ws.tsl.rocks/corp/ce756ff97542e6fa8d518319e6575aae1d01eb23dd906fee3e3cbb98b442b68f/) |
 | ❌ | 2024/07/22 | 1-4 | [oen](https://ws.tsl.rocks/corp/33d062d54a7aaaa60ae11e07fba73e1b28f5c9f323ff4a98f5810933e7d2b41f/) |
 | ❌ | 2024/07/19 | 0-14 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
 

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​星河绮梦
-description: W:19 L:5 D:0 Bonus ✅
+description: W:19 L:5 D:0 Bonus ❌
 date: 1728383659
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

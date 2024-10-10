@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​雪月永恒
-description: W:7 L:2 D:0 Bonus ❌
-date: 1726211035
+description: W:7 L:3 D:0 Bonus ❌
+date: 1728568496
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1252 🔺  (227)|
-| ELO Competitive | 1267 🔺  (308)|
-| Total Matches | 9 |
+| ELO Regular | 1234 🔻  (290)|
+| ELO Competitive | 1251 🔻  (349)|
+| Total Matches | 10 |
 | Wins | 7 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 | Streak Record | 5 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725779035,1723705352,1719677178,1716989374,1716468008,1716020566,1715434462,1714548948,1713544812];
+        let timestamps = [1728136496,1725779035,1723705352,1719677178,1716989374,1716468008,1716020566,1715434462,1714548948,1713544812];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/10 | 0-12 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 | ✅ | 2024/09/13 | 1-0 | [Sich\.ua](https://ws.tsl.rocks/corp/9fcd6d7c4fe7f8e39acf48585dfe9c6d3d14edc7781fe8caf85618b3e98c685d/) |
 | ❌ | 2024/08/20 | 0-5 | [荣耀之星](https://ws.tsl.rocks/corp/4334fd4d4ffbc89487deaec7bb38025aba46209b810578436882be271fdbff23/) |
 | ✅ | 2024/07/04 | 10-0 | [REY DE REYES](https://ws.tsl.rocks/corp/3400c8c832317ae214792a1e1ce914867af247bc0b4f021bd71a18e977cb60cb/) |
