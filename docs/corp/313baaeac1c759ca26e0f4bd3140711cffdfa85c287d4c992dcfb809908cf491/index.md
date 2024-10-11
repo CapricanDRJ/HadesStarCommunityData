@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​Legion
-description: W:29 L:29 D:0 Bonus ✅
-date: 1728621385
+description: W:30 L:29 D:0 Bonus ✅
+date: 1728631903
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1286 🔺  (162)|
-| ELO Competitive | 1412 🔺  (99)|
-| Total Matches | 58 |
-| Wins | 29 |
+| ELO Regular | 1311 🔺  (121)|
+| ELO Competitive | 1417 🔺  (95)|
+| Total Matches | 59 |
+| Wins | 30 |
 | Losses | 29 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 5 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728189385,1727642146,1727149329,1726599326,1726503372,1725826338,1725288448,1725215434,1724679630,1724125188,1723546085,1722269825,1721730378,1721707240,1721121242,1720386114,1719795278,1719342118,1718560187,1717998362,1717490070,1717391793,1716780511,1716211736,1715627066,1715577189,1714938729,1714903573,1714323273,1713214898,1712588403,1711916531,1710805980,1710117603,1709562023,1709041592,1708397339,1707700778,1707267866,1706437736,1705936783,1705880893,1705426509,1705382634,1704654497,1703459040,1702761910,1702315300,1702235357,1701576554,1701512838,1701005523,1700508116,1700506312,1699974579,1699891930,1699218708,1699209091];
+        let timestamps = [1728199903,1728189385,1727642146,1727149329,1726599326,1726503372,1725826338,1725288448,1725215434,1724679630,1724125188,1723546085,1722269825,1721730378,1721707240,1721121242,1720386114,1719795278,1719342118,1718560187,1717998362,1717490070,1717391793,1716780511,1716211736,1715627066,1715577189,1714938729,1714903573,1714323273,1713214898,1712588403,1711916531,1710805980,1710117603,1709562023,1709041592,1708397339,1707700778,1707267866,1706437736,1705936783,1705880893,1705426509,1705382634,1704654497,1703459040,1702761910,1702315300,1702235357,1701576554,1701512838,1701005523,1700508116,1700506312,1699974579,1699891930,1699218708,1699209091];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Auscorp ](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) | 1 | 2 | 0 | 3 |
 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) | 7 | 9 | 0 | 16 |
 | [Spacefleet](https://ws.tsl.rocks/corp/517f7b257f68936f7a95a478d6923776a2549b88897bae628fd35b23572d3cbd/) | 3 | 2 | 0 | 5 |
 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) | 5 | 2 | 0 | 7 |
@@ -125,12 +127,12 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) | 0 | 2 | 0 | 2 |
 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) | 1 | 1 | 0 | 2 |
 | [Sith Empire](https://ws.tsl.rocks/corp/7deb3943434ee3aa56bb4c29a0fb0831bcbc4b570a58a2809ea1a549b7df328e/) | 1 | 2 | 0 | 3 |
-| [Auscorp ](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) | 0 | 2 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/11 | 65-45 | [Auscorp ](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) |
 | ✅ | 2024/10/11 | 26-13 | [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) |
 | ❌ | 2024/10/04 | 18-33 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) |
 | ✅ | 2024/09/29 | 59-6 | [Spacefleet](https://ws.tsl.rocks/corp/517f7b257f68936f7a95a478d6923776a2549b88897bae628fd35b23572d3cbd/) |
