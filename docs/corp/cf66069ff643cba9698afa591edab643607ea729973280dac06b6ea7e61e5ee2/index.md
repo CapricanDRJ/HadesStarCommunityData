@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​Españoles
-description: W:18 L:52 D:0 Bonus ✅
+description: W:18 L:52 D:0 Bonus ❌
 date: 1728508096
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1075 🔻  (1225)|
+| ELO Regular | 1075 🔻  (1226)|
 | ELO Competitive | 1165 🔻  (1078)|
 | Total Matches | 70 |
 | Wins | 18 |

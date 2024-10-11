@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Ƭιтαηѕ Ф тєʀʀσƦ
-description: W:30 L:16 D:2 Bonus ✅
-date: 1728083460
+description: W:32 L:16 D:2 Bonus ✅
+date: 1728664664
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1314 🔺  (116)|
-| ELO Competitive | 1444 🔺  (75)|
-| Total Matches | 48 |
-| Wins | 30 |
+| ELO Regular | 1336 🔺  (91)|
+| ELO Competitive | 1453 🔺  (66)|
+| Total Matches | 50 |
+| Wins | 32 |
 | Losses | 16 |
 | Draws | 2 |
-| Streak | 2 |
+| Streak | 4 |
 | Streak Record | 5 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727651460,1727650258,1727036053,1727034250,1726510586,1726510586,1725927904,1725927603,1725297467,1725291455,1724714490,1724084021,1724062380,1723411761,1723411160,1722884066,1722877453,1722303881,1722281246,1721661262,1721098102,1721097200,1720506316,1720387016,1719817211,1719803990,1719252268,1718644328,1718091522,1717511411,1716816270,1716231570,1715637282,1715614143,1715025558,1714418220,1714418220,1713751809,1713748806,1713290015,1713290015,1712694174,1712689366,1712087203,1711473920,1710928258,1710913538,1710373898];
+        let timestamps = [1728232664,1728230861,1727651460,1727650258,1727036053,1727034250,1726510586,1726510586,1725927904,1725927603,1725297467,1725291455,1724714490,1724084021,1724062380,1723411761,1723411160,1722884066,1722877453,1722303881,1722281246,1721661262,1721098102,1721097200,1720506316,1720387016,1719817211,1719803990,1719252268,1718644328,1718091522,1717511411,1716816270,1716231570,1715637282,1715614143,1715025558,1714418220,1714418220,1713751809,1713748806,1713290015,1713290015,1712694174,1712689366,1712087203,1711473920,1710928258,1710913538,1710373898];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [МеГаКо](https://ws.tsl.rocks/corp/11cd7fa53aad1bfc7d40c47a63de7b6c4a6d76f00e69dcb853f47e2c90b382dd/) | 1 | 1 | 0 | 2 |
+| [CTG](https://ws.tsl.rocks/corp/9647a8507dfa5637a217d2d6a0ad47aefb6a4563f910ad46376c228450cff43c/) | 2 | 0 | 0 | 2 |
 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) | 2 | 0 | 0 | 2 |
 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) | 3 | 0 | 0 | 3 |
 | [BRASIL STAR](https://ws.tsl.rocks/corp/94fc4639f17e4503a11d4ac3878f3203bca3f21baebf285433ff39ad37f0fff2/) | 1 | 0 | 1 | 2 |
@@ -128,6 +130,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/11 | 25-0 | [МеГаКо](https://ws.tsl.rocks/corp/11cd7fa53aad1bfc7d40c47a63de7b6c4a6d76f00e69dcb853f47e2c90b382dd/) |
+| ✅ | 2024/10/11 | 32-1 | [CTG](https://ws.tsl.rocks/corp/9647a8507dfa5637a217d2d6a0ad47aefb6a4563f910ad46376c228450cff43c/) |
 | ✅ | 2024/10/04 | 17-5 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ✅ | 2024/10/04 | 34-0 | [The X \- Files](https://ws.tsl.rocks/corp/f13cb0ae2dbb0654a2067c8749f86bce49edc5b520bd391c7af11948f23a41fb/) |
 | ❌ | 2024/09/27 | 6-14 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |

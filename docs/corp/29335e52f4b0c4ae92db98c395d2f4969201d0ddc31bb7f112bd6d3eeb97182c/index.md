@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Zeta Division 
-description: W:1 L:0 D:0 Bonus ❌
-date: 1728038677
+description: W:1 L:1 D:0 Bonus ❌
+date: 1728666768
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔺  (392)|
-| ELO Competitive | 1218 🔺  (461)|
-| Total Matches | 1 |
+| ELO Regular | 1202 🔻  (459)|
+| ELO Competitive | 1206 🔻  (544)|
+| Total Matches | 2 |
 | Wins | 1 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727606677];
+        let timestamps = [1728234768,1727606677];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/11 | 0-8 | [Nox Imperium](https://ws.tsl.rocks/corp/b60fb003fae650d1de18e7bca4fad04f9805501f4568d07ceb47bffdfeb613c1/) |
 | ✅ | 2024/10/04 | 14-0 | [华夏三体舰队](https://ws.tsl.rocks/corp/a457b1d7612cdff92b655d33cf4ffd72b38aa796525cf0432423cfd0d01c6cf9/) |
 
 Corporation ID: 29335e52f4b0c4ae92db98c395d2f4969201d0ddc31bb7f112bd6d3eeb97182c

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Kelebra
-description: W:9 L:13 D:1 Bonus ❌
-date: 1728658991
+description: W:9 L:14 D:1 Bonus ❌
+date: 1728661659
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔻  (945)|
-| ELO Competitive | 1202 🔻  (558)|
-| Total Matches | 23 |
+| ELO Regular | 1167 🔻  (953)|
+| ELO Competitive | 1214 🔻  (499)|
+| Total Matches | 24 |
 | Wins | 9 |
-| Losses | 13 |
+| Losses | 14 |
 | Draws | 1 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728226991,1727793594,1727358466,1726925764,1726491047,1726058008,1725616271,1725142409,1723641345,1723158122,1722666184,1717017028,1714733708,1713572518,1712310373,1711802041,1711243455,1708540974,1707439199,1706902113,1706065982,1705179215,1703779691];
+        let timestamps = [1728229659,1728226991,1727793594,1727358466,1726925764,1726491047,1726058008,1725616271,1725142409,1723641345,1723158122,1722666184,1717017028,1714733708,1713572518,1712310373,1711802041,1711243455,1708540974,1707439199,1706902113,1706065982,1705179215,1703779691];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/11 | 1-16 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) |
 | ❌ | 2024/10/11 | 0-12 | [AAAA](https://ws.tsl.rocks/corp/73b759d7c9218f2c1171f9ef691739331ca36ee045039f4f3f935a47b6622a27/) |
 | ❌ | 2024/10/06 | 0-31 | [BRASIL STAR](https://ws.tsl.rocks/corp/94fc4639f17e4503a11d4ac3878f3203bca3f21baebf285433ff39ad37f0fff2/) |
 | ✅ | 2024/10/01 | 20-0 | [Death Star llc\.](https://ws.tsl.rocks/corp/3dd4906939827fa7537a3e95f8d75948c06b75a98f3c4aab253ea79857d2ce81/) |

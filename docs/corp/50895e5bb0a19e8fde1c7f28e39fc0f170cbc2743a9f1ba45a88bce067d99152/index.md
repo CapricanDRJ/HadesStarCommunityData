@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Space Donuts
-description: W:2 L:4 D:0 Bonus ❌
-date: 1702839870
+description: W:3 L:4 D:0 Bonus ✅
+date: 1728661959
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (827)|
-| ELO Competitive | 1177 🔻  (946)|
-| Total Matches | 6 |
-| Wins | 2 |
+| ELO Regular | 1187 🔺  (629)|
+| ELO Competitive | 1189 🔺  (700)|
+| Total Matches | 7 |
+| Wins | 3 |
 | Losses | 4 |
 | Draws | 0 |
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1702407870,1701120940,1700511724,1699999830,1699429645,1698968982];
+        let timestamps = [1728229959,1702407870,1701120940,1700511724,1699999830,1699429645,1698968982];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/11 | 31-10 | [Gummibärenbande](https://ws.tsl.rocks/corp/7111d11716d236254b3fe2fdc0df09519cbed1ee9cc2c7691983534a3d8e1366/) |
 | ❌ | 2023/12/17 | 25-35 | [LossFarm No\.648](https://ws.tsl.rocks/corp/24a90af39014df515d72c65fe52b1b3669bad36e2abbc4d6c04a9eb2466ec4f2/) |
 | ✅ | 2023/12/02 | 25-3 | [Dark Skai](https://ws.tsl.rocks/corp/97561ceb92954fb6430110c35337554b8a89fa52a7054f402b7e562a99ef48fd/) |
 | ❌ | 2023/11/25 | 7-28 | [YETI Collective](https://ws.tsl.rocks/corp/ff6a3c65d008d245f003a3009374e26cf38e7cda6ea4d601a9da9037296fda98/) |
