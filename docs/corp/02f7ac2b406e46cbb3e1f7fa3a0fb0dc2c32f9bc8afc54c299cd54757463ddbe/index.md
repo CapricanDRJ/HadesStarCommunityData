@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​ItaFederalFleet
-description: W:16 L:7 D:1 Bonus ✅
-date: 1728129128
+description: W:17 L:7 D:1 Bonus ✅
+date: 1728613874
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1300 🔺  (139)|
-| ELO Competitive | 1324 🔺  (201)|
-| Total Matches | 24 |
-| Wins | 16 |
+| ELO Regular | 1312 🔺  (119)|
+| ELO Competitive | 1339 🔺  (179)|
+| Total Matches | 25 |
+| Wins | 17 |
 | Losses | 7 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 4 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727697128,1725124379,1724361088,1721414839,1719644719,1718816520,1717917516,1716493249,1715602724,1714795956,1712520498,1711408122,1709881717,1709275362,1708419572,1707698675,1706944704,1706190112,1705548318,1704916245,1704092227,1703193074,1702760708,1702244075];
+        let timestamps = [1728181874,1727697128,1725124379,1724361088,1721414839,1719644719,1718816520,1717917516,1716493249,1715602724,1714795956,1712520498,1711408122,1709881717,1709275362,1708419572,1707698675,1706944704,1706190112,1705548318,1704916245,1704092227,1703193074,1702760708,1702244075];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/11 | 12-8 | [Armored Union ](https://ws.tsl.rocks/corp/4dacc02ca314ab864578421db538b0eb10b0c8c81dc0edd91c5090717d087c7f/) |
 | ✅ | 2024/10/05 | 23-0 | [星环建设集团](https://ws.tsl.rocks/corp/85422294545c4561b468821bbbbe277a0d7f09c6ab45fedb2a43cbaa36d32f63/) |
 | ❌ | 2024/09/05 | 3-23 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ❌ | 2024/08/27 | 0-5 | [Galaxians](https://ws.tsl.rocks/corp/94728c6eb201c1f15c6e2304b5920aa155ccc1a7aac83b574baae51c53a22c5d/) |

@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Armored Union 
-description: W:24 L:18 D:0 Bonus ❌
-date: 1727867990
+description: W:24 L:19 D:1 Bonus ❌
+date: 1728614775
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1236 🔺  (282)|
-| ELO Competitive | 1320 🔺  (210)|
-| Total Matches | 42 |
+| ELO Regular | 1222 🔻  (324)|
+| ELO Competitive | 1322 🔺  (205)|
+| Total Matches | 44 |
 | Wins | 24 |
-| Losses | 18 |
-| Draws | 0 |
-| Streak | 3 |
+| Losses | 19 |
+| Draws | 1 |
 | Streak Record | 3 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727435990,1726364521,1725504794,1724414569,1723962900,1723461338,1722961597,1722647255,1722477171,1722007946,1721994933,1721359845,1720790329,1720767186,1720163122,1720160117,1719711134,1719660946,1719191869,1719179250,1718748912,1718728473,1718229165,1718211732,1717534261,1717002300,1716955418,1716536807,1716240886,1715726515,1715704660,1715072423,1715064613,1714439558,1714428140,1713804687,1713255157,1712694174,1711922842,1711361242,1710721843,1709826432];
+        let timestamps = [1728182775,1728181874,1727435990,1726364521,1725504794,1724414569,1723962900,1723461338,1722961597,1722647255,1722477171,1722007946,1721994933,1721359845,1720790329,1720767186,1720163122,1720160117,1719711134,1719660946,1719191869,1719179250,1718748912,1718728473,1718229165,1718211732,1717534261,1717002300,1716955418,1716536807,1716240886,1715726515,1715704660,1715072423,1715064613,1714439558,1714428140,1713804687,1713255157,1712694174,1711922842,1711361242,1710721843,1709826432];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -128,6 +127,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/10/11 | 3-3 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
+| ❌ | 2024/10/11 | 8-12 | [ItaFederalFleet](https://ws.tsl.rocks/corp/02f7ac2b406e46cbb3e1f7fa3a0fb0dc2c32f9bc8afc54c299cd54757463ddbe/) |
 | ✅ | 2024/10/02 | 15-3 | [佛矿寺](https://ws.tsl.rocks/corp/64f8afd95b7004e9d5a442da55644ee3ce64a9a8e82345c458d757b527e40624/) |
 | ✅ | 2024/09/20 | 14-0 | [很多星球的社会主义团](https://ws.tsl.rocks/corp/dcac8e5bb444db7feec894f3be5a6f373fd0025a6ec79ccc125dd8b7bf652bc2/) |
 | ✅ | 2024/09/10 | 15-1 | [华夏三体舰队](https://ws.tsl.rocks/corp/a457b1d7612cdff92b655d33cf4ffd72b38aa796525cf0432423cfd0d01c6cf9/) |
