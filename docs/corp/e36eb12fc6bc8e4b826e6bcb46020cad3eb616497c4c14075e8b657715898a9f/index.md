@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​INFINITY STAR
-description: W:11 L:9 D:0 Bonus ✅
+description: W:11 L:9 D:0 Bonus ❌
 date: 1728650235
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1241 🔻  (260)|
-| ELO Competitive | 1287 🔻  (262)|
+| ELO Regular | 1241 🔻  (258)|
+| ELO Competitive | 1287 🔻  (263)|
 | Total Matches | 20 |
 | Wins | 11 |
 | Losses | 9 |

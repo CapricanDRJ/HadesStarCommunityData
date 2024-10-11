@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Lights Off 
-description: W:26 L:12 D:0 Bonus ❌
-date: 1726384839
+description: W:26 L:13 D:0 Bonus ❌
+date: 1728655345
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1287 🔻  (161)|
-| ELO Competitive | 1326 🔻  (197)|
-| Total Matches | 38 |
+| ELO Regular | 1270 🔻  (190)|
+| ELO Competitive | 1309 🔻  (227)|
+| Total Matches | 39 |
 | Wins | 26 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 0 |
 | Streak Record | 10 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725952839,1725263206,1724599693,1723440604,1722791507,1722201012,1721641425,1720482277,1719920883,1719253771,1718625089,1717991450,1716829799,1716204825,1715619252,1715105478,1713799878,1713172222,1712571573,1711991351,1711354032,1710759701,1710184904,1709589972,1708962259,1708292769,1706638787,1706117090,1705603509,1705168371,1704692659,1704242492,1703734614,1702558439,1702084475,1701260085,1700658980,1700204557];
+        let timestamps = [1728223345,1725952839,1725263206,1724599693,1723440604,1722791507,1722201012,1721641425,1720482277,1719920883,1719253771,1718625089,1717991450,1716829799,1716204825,1715619252,1715105478,1713799878,1713172222,1712571573,1711991351,1711354032,1710759701,1710184904,1709589972,1708962259,1708292769,1706638787,1706117090,1705603509,1705168371,1704692659,1704242492,1703734614,1702558439,1702084475,1701260085,1700658980,1700204557];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/11 | 24-39 | [Hermitage](https://ws.tsl.rocks/corp/b8b6a62ede93951a04bdabd85b532c38d42d8c8b95165f8d4b14e0fd48a021ee/) |
 | ❌ | 2024/09/15 | 16-40 | [Hand Of NOD\! ](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) |
 | ❌ | 2024/09/07 | 8-20 | [Hamburg AG 2](https://ws.tsl.rocks/corp/d4075195191cabef801494d3accc0e6cc8c09f534fd9203f6e43c9930acffa56/) |
 | ✅ | 2024/08/30 | 30-7 | [Ironbear Legion](https://ws.tsl.rocks/corp/256873683be88bf78e3d4f1fda68e669c8be11e78a85f9add19e60facc9831b0/) |

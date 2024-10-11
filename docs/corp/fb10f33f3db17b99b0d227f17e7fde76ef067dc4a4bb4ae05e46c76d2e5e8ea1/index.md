@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Lacuna X
-description: W:39 L:6 D:0 Bonus ✅
-date: 1728070239
+description: W:40 L:6 D:0 Bonus ✅
+date: 1728660155
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1472 🔺  (17)|
-| ELO Competitive | 1503 🔺  (34)|
-| Total Matches | 45 |
-| Wins | 39 |
+| ELO Regular | 1482 🔺  (15)|
+| ELO Competitive | 1515 🔺  (33)|
+| Total Matches | 46 |
+| Wins | 40 |
 | Losses | 6 |
 | Draws | 0 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 17 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727638239,1727065794,1726417121,1725722656,1725169149,1724465361,1723952683,1723317097,1721512808,1720970064,1720330207,1719673571,1718576417,1717905194,1717319955,1716688251,1716071729,1715470523,1714884344,1714258672,1713640645,1713043317,1712437560,1711723013,1711183653,1710658438,1709968255,1709394357,1708791885,1708131696,1707570207,1706889111,1706285075,1705657599,1705133507,1704578464,1703947381,1703241152,1702707429,1702160217,1701493906,1700824281,1700285105,1699670394,1698986407];
+        let timestamps = [1728228155,1727638239,1727065794,1726417121,1725722656,1725169149,1724465361,1723952683,1723317097,1721512808,1720970064,1720330207,1719673571,1718576417,1717905194,1717319955,1716688251,1716071729,1715470523,1714884344,1714258672,1713640645,1713043317,1712437560,1711723013,1711183653,1710658438,1709968255,1709394357,1708791885,1708131696,1707570207,1706889111,1706285075,1705657599,1705133507,1704578464,1703947381,1703241152,1702707429,1702160217,1701493906,1700824281,1700285105,1699670394,1698986407];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/11 | 26-0 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | ✅ | 2024/10/04 | 22-8 | [Czech Legion](https://ws.tsl.rocks/corp/b4453b41cf7b1c019648ed14db493a47c8a64347e689013b2c969bf97e251ec8/) |
 | ✅ | 2024/09/28 | 33-4 | [МеГаКо](https://ws.tsl.rocks/corp/11cd7fa53aad1bfc7d40c47a63de7b6c4a6d76f00e69dcb853f47e2c90b382dd/) |
 | ✅ | 2024/09/20 | 33-3 | [UFO](https://ws.tsl.rocks/corp/920537bbdadc8e0f3ba0a5bf70b777bf8ca14cde8723f0364eb0a6c3a93eb685/) |

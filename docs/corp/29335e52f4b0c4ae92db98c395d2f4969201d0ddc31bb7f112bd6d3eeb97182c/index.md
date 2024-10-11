@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​Zeta Division 
-description: W:1 L:0 D:0 Bonus ✅
+description: W:1 L:0 D:0 Bonus ❌
 date: 1728038677
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔺  (391)|
+| ELO Regular | 1214 🔺  (392)|
 | ELO Competitive | 1218 🔺  (461)|
 | Total Matches | 1 |
 | Wins | 1 |
