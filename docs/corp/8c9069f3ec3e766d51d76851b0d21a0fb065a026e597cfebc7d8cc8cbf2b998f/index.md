@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​TheBasics
-description: W:35 L:55 D:2 Bonus ✅
+description: W:35 L:55 D:2 Bonus ❌
 date: 1728464205
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

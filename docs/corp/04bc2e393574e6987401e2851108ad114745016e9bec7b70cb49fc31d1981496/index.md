@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Октябристы
-description: W:49 L:57 D:2 Bonus ✅
+description: W:49 L:57 D:2 Bonus ❌
 date: 1728475325
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
