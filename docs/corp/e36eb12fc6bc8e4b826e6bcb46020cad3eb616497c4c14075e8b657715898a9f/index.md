@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​INFINITY STAR
-description: W:11 L:8 D:0 Bonus ✅
-date: 1728041983
+description: W:11 L:9 D:0 Bonus ✅
+date: 1728650235
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1253 🔺  (226)|
-| ELO Competitive | 1300 🔺  (241)|
-| Total Matches | 19 |
+| ELO Regular | 1241 🔻  (260)|
+| ELO Competitive | 1287 🔻  (262)|
+| Total Matches | 20 |
 | Wins | 11 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 0 |
-| Streak | 5 |
 | Streak Record | 5 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727609983,1726917048,1726397879,1725795077,1725205815,1723985143,1723393727,1722781888,1722176359,1721561786,1720351244,1719663050,1719141672,1718546961,1717942765,1716728521,1711894891,1710086049,1705845726];
+        let timestamps = [1728218235,1727609983,1726917048,1726397879,1725795077,1725205815,1723985143,1723393727,1722781888,1722176359,1721561786,1720351244,1719663050,1719141672,1718546961,1717942765,1716728521,1711894891,1710086049,1705845726];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/11 | 9-41 | [Interestelar](https://ws.tsl.rocks/corp/cc9ed2698988a35d6dbb9e9762d6575b28204ab15fd7208b64e8108878a4b8f9/) |
 | ✅ | 2024/10/04 | 23-5 | [萌新港\(大佬港\)](https://ws.tsl.rocks/corp/e6d9b9da7a037e3572cb594dfeba7b282b66509228c9f4f1b2138f873caa3cf3/) |
 | ✅ | 2024/09/26 | 35-10 | [Curiosity \+ Cat](https://ws.tsl.rocks/corp/c2982821577254a4ce2d996f53a2391f6f059ff79bbb14c29f9463269b4beebf/) |
 | ✅ | 2024/09/20 | 31-3 | [Axiom](https://ws.tsl.rocks/corp/4000a010c205d318c766ba14fe1836eaab6652f1738a88cce8a8c69d0283e1b0/) |

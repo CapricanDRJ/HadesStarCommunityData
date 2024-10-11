@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Polish Pirates
-description: W:17 L:13 D:0 Bonus ❌
-date: 1727434088
+description: W:17 L:14 D:0 Bonus ❌
+date: 1728648431
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1259 🔺  (207)|
-| ELO Competitive | 1302 🔺  (238)|
-| Total Matches | 30 |
+| ELO Regular | 1255 🔻  (215)|
+| ELO Competitive | 1299 🔻  (244)|
+| Total Matches | 31 |
 | Wins | 17 |
-| Losses | 13 |
+| Losses | 14 |
 | Draws | 0 |
 | Streak Record | 5 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727002088,1725805899,1725176361,1724074401,1720949321,1719217104,1717934046,1717347315,1716733030,1715524607,1714134877,1713165613,1712510578,1712051741,1711295743,1710148544,1709520862,1708277742,1707651491,1707510414,1707124709,1705267247,1702878516,1702206498,1702198984,1701165713,1700639146,1700083143,1699496055,1698831647];
+        let timestamps = [1728216431,1727002088,1725805899,1725176361,1724074401,1720949321,1719217104,1717934046,1717347315,1716733030,1715524607,1714134877,1713165613,1712510578,1712051741,1711295743,1710148544,1709520862,1708277742,1707651491,1707510414,1707124709,1705267247,1702878516,1702206498,1702198984,1701165713,1700639146,1700083143,1699496055,1698831647];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/11 | 9-32 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) |
 | ✅ | 2024/09/27 | 27-4 | [DTC](https://ws.tsl.rocks/corp/4be10b4fa74e6bc45ea50d720527bec8db0312f419a419f203b09350d663c755/) |
 | ❌ | 2024/09/13 | 27-28 | [No Orbit©](https://ws.tsl.rocks/corp/15831bc11de2a279f369118ffb2cd889844a6992e769889ad9e64f8ac15a410f/) |
 | ✅ | 2024/09/06 | 25-10 | [Crazy Elite](https://ws.tsl.rocks/corp/ef64e9014b773074470ead0907b9c122bf6bda753de1cddfa01e95a00e9d47dc/) |
