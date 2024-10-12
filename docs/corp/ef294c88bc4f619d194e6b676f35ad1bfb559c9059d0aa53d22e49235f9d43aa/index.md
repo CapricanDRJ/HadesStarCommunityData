@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​You win
-description: W:0 L:1 D:0 Bonus ❌
-date: 1728292003
+description: W:0 L:2 D:0 Bonus ❌
+date: 1728725362
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1196 🔻  (519)|
-| ELO Competitive | 1197 🔻  (621)|
-| Total Matches | 1 |
+| ELO Regular | 1179 🔻  (807)|
+| ELO Competitive | 1184 🔻  (880)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727860003];
+        let timestamps = [1728293362,1727860003];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/12 | 0-8 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) |
 | ❌ | 2024/10/07 | 0-49 | [Ninth Planet](https://ws.tsl.rocks/corp/53297ed66c8c326d4cb4eebdee55172d3d64f122addd5d916b314f4ab557e21a/) |
 
 Corporation ID: ef294c88bc4f619d194e6b676f35ad1bfb559c9059d0aa53d22e49235f9d43aa
