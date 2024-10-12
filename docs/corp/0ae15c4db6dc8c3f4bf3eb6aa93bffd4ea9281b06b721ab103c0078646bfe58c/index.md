@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Спутник
-description: W:36 L:9 D:0 Bonus ❌
-date: 1727500198
+description: W:36 L:10 D:0 Bonus ❌
+date: 1728729569
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1384 🔺  (55)|
-| ELO Competitive | 1431 🔺  (85)|
-| Total Matches | 45 |
+| ELO Regular | 1369 🔻  (65)|
+| ELO Competitive | 1418 🔻  (94)|
+| Total Matches | 46 |
 | Wins | 36 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 0 |
-| Streak | 5 |
 | Streak Record | 17 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727068198,1725870804,1725239772,1724622236,1723497107,1723017487,1722290561,1720991709,1716155859,1714340402,1713378958,1711954687,1711332704,1710657019,1709893898,1709530776,1709289784,1708915987,1708247384,1708236566,1707714297,1707048080,1707037562,1706266441,1706089741,1705667816,1705174983,1705040652,1704578764,1704557424,1704123483,1703262794,1703260389,1702757402,1702737863,1702258720,1702134365,1701630957,1701628552,1701075251,1701066537,1699844143,1699283904,1698746887,1698685862];
+        let timestamps = [1728297569,1727068198,1725870804,1725239772,1724622236,1723497107,1723017487,1722290561,1720991709,1716155859,1714340402,1713378958,1711954687,1711332704,1710657019,1709893898,1709530776,1709289784,1708915987,1708247384,1708236566,1707714297,1707048080,1707037562,1706266441,1706089741,1705667816,1705174983,1705040652,1704578764,1704557424,1704123483,1703262794,1703260389,1702757402,1702737863,1702258720,1702134365,1701630957,1701628552,1701075251,1701066537,1699844143,1699283904,1698746887,1698685862];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Space Penguins](https://ws.tsl.rocks/corp/6255ba7dab1bd2b150825874d1fea70b029dc79434f293d47518c27b0376e286/) | 1 | 1 | 0 | 2 |
 | [Terranova](https://ws.tsl.rocks/corp/4eeaf112dd9983e997c8c9ec43e562763a8cd4a95f268b4bfeee5e39934f01de/) | 2 | 0 | 0 | 2 |
 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) | 4 | 0 | 0 | 4 |
 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) | 3 | 1 | 0 | 4 |
@@ -130,6 +130,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/12 | 15-45 | [Space Penguins](https://ws.tsl.rocks/corp/6255ba7dab1bd2b150825874d1fea70b029dc79434f293d47518c27b0376e286/) |
 | ✅ | 2024/09/28 | 31-4 | [Terranova](https://ws.tsl.rocks/corp/4eeaf112dd9983e997c8c9ec43e562763a8cd4a95f268b4bfeee5e39934f01de/) |
 | ✅ | 2024/09/14 | 22-10 | [Hamburg AG 2](https://ws.tsl.rocks/corp/d4075195191cabef801494d3accc0e6cc8c09f534fd9203f6e43c9930acffa56/) |
 | ✅ | 2024/09/07 | 32-6 | [Lost Legion](https://ws.tsl.rocks/corp/451b249473bf36e9f688ffd82a5955f04fc586b1dc545ff81277a4d73af47623/) |
