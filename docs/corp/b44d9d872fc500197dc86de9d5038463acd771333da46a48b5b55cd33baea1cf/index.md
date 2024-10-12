@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​阿尔特拉集团
-description: W:34 L:26 D:3 Bonus ✅
+description: W:34 L:26 D:3 Bonus ❌
 date: 1728139649
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

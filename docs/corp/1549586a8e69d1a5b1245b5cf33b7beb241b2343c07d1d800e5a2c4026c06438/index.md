@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​ItBurnsWhenIEMP
-description: W:22 L:8 D:0 Bonus ❌
-date: 1717274726
+description: W:23 L:8 D:0 Bonus ✅
+date: 1728755717
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1309 🔺  (126)|
-| ELO Competitive | 1338 🔺  (184)|
-| Total Matches | 30 |
-| Wins | 22 |
+| ELO Regular | 1315 🔺  (116)|
+| ELO Competitive | 1344 🔺  (174)|
+| Total Matches | 31 |
+| Wins | 23 |
 | Losses | 8 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 10 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1716842726,1716211436,1715611439,1715023755,1714405900,1713797474,1713202274,1712585097,1711982935,1711375966,1710787950,1710166272,1709562924,1708964363,1708358273,1707750655,1707148150,1706539614,1705941892,1705350183,1704703776,1704126188,1703520642,1702912476,1702309588,1701541393,1701006425,1700496693,1699900046,1699281500];
+        let timestamps = [1728323717,1716842726,1716211436,1715611439,1715023755,1714405900,1713797474,1713202274,1712585097,1711982935,1711375966,1710787950,1710166272,1709562924,1708964363,1708358273,1707750655,1707148150,1706539614,1705941892,1705350183,1704703776,1704126188,1703520642,1702912476,1702309588,1701541393,1701006425,1700496693,1699900046,1699281500];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/12 | 36-25 | [Lacuna Ind\.](https://ws.tsl.rocks/corp/09f1be75e07236be87e2fa3f6e2f82f396666cd220f25f1250ba8b9e71e1e1b7/) |
 | ✅ | 2024/06/01 | 7-4 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) |
 | ❌ | 2024/05/25 | 18-25 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) |
 | ✅ | 2024/05/18 | 68-0 | [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/) |

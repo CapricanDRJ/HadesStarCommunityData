@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​落雨观花
-description: W:13 L:11 D:1 Bonus ✅
+description: W:13 L:11 D:1 Bonus ❌
 date: 1728136042
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1204 🔺  (450)|
+| ELO Regular | 1204 🔺  (449)|
 | ELO Competitive | 1307 🔺  (233)|
 | Total Matches | 25 |
 | Wins | 13 |

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​德意志第三帝国奥米加分部
-description: W:11 L:12 D:3 Bonus ✅
+description: W:11 L:12 D:3 Bonus ❌
 date: 1728738585
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

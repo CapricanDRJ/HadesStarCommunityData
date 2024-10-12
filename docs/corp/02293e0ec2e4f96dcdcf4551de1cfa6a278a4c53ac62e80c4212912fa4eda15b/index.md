@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​White Dwarf
-description: W:38 L:13 D:0 Bonus ✅
+description: W:38 L:13 D:0 Bonus ❌
 date: 1728136343
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
