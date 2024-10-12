@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​CIS
-description: W:37 L:5 D:1 Bonus ✅
-date: 1728728667
+description: W:37 L:6 D:1 Bonus ✅
+date: 1728742793
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1442 🔻  (25)|
-| ELO Competitive | 1510 🔻  (35)|
-| Total Matches | 43 |
+| ELO Regular | 1423 🔻  (31)|
+| ELO Competitive | 1516 🔻  (33)|
+| Total Matches | 44 |
 | Wins | 37 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 1 |
 | Streak Record | 9 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728296667,1727711859,1727194102,1726597222,1726045987,1725008977,1723804217,1723048442,1722341340,1721564491,1720928884,1720923175,1720390976,1720366274,1719766129,1719758915,1719202683,1719191869,1718599248,1717939157,1717331679,1716817774,1716136326,1715513788,1715072423,1714329884,1713196564,1712151498,1711282516,1710759701,1710158759,1709472782,1708080908,1707154874,1706606929,1705765487,1704316418,1703214409,1702662729,1702127751,1701319594,1700354536,1699640631];
+        let timestamps = [1728310793,1728296667,1727711859,1727194102,1726597222,1726045987,1725008977,1723804217,1723048442,1722341340,1721564491,1720928884,1720923175,1720390976,1720366274,1719766129,1719758915,1719202683,1719191869,1718599248,1717939157,1717331679,1716817774,1716136326,1715513788,1715072423,1714329884,1713196564,1712151498,1711282516,1710759701,1710158759,1709472782,1708080908,1707154874,1706606929,1705765487,1704316418,1703214409,1702662729,1702127751,1701319594,1700354536,1699640631];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -128,6 +128,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/12 | 11-24 | [\*Alfa y Omega\*](https://ws.tsl.rocks/corp/b1da3a2265efd2266a8e4b5698a731ae179d00e431ee748d7bee62a1357a12ed/) |
 | ❌ | 2024/10/12 | 3-10 | [Raptor Armada](https://ws.tsl.rocks/corp/5964326e22b48ad60773cb2b0c3bc3650edca9d8e23962ec4ac9981c052d2b7b/) |
 | ✅ | 2024/10/05 | 26-6 | [星光万丈](https://ws.tsl.rocks/corp/92ad2a305a74e168b57771140461b4d226e1e8cac17b4f77027d5a67ead5fa1d/) |
 | ✅ | 2024/09/29 | 20-7 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |

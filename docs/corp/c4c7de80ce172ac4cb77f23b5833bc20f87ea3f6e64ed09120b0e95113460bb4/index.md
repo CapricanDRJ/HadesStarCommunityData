@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​imperio estelar
-description: W:0 L:9 D:2 Bonus ❌
-date: 1728308231
+description: W:0 L:9 D:3 Bonus ❌
+date: 1728747903
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1090 🔻  (1213)|
-| ELO Competitive | 1104 🔻  (1240)|
-| Total Matches | 11 |
+| ELO Regular | 1097 🔺  (1204)|
+| ELO Competitive | 1112 🔺  (1235)|
+| Total Matches | 12 |
 | Wins | 0 |
 | Losses | 9 |
-| Draws | 2 |
+| Draws | 3 |
 
 
 # Whitestar Match Day
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727876231,1727283645,1726828101,1726270454,1725661354,1725165843,1721010639,1720576341,1709123621,1702401857,1699251155];
+        let timestamps = [1728315903,1727876231,1727283645,1726828101,1726270454,1725661354,1725165843,1721010639,1720576341,1709123621,1702401857,1699251155];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/10/12 | 3-3 | [Halcon español](https://ws.tsl.rocks/corp/ab9c3038dcf2b019ba662007ab1e50b2d80e0eb8e7a65e57dd5260a6d2e80ff9/) |
 | ❌ | 2024/10/07 | 12-16 | [RUFORS](https://ws.tsl.rocks/corp/f1e7f82e284c8233985039ea19544dbfa937f38f2315e9ad6a1d037423071b6d/) |
 | ↔️ | 2024/09/30 | 3-3 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |
 | ❌ | 2024/09/25 | 4-10 | [Pixies](https://ws.tsl.rocks/corp/fe3875cc3bc7cd97ee3d418bb35d69d8ec90da355cbec2dfb7a364387e021240/) |

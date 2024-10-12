@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​德意志第三帝国奥米加分部
-description: W:11 L:11 D:3 Bonus ✅
-date: 1728136643
+description: W:11 L:12 D:3 Bonus ✅
+date: 1728738585
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1237 🔺  (278)|
-| ELO Competitive | 1261 🔺  (322)|
-| Total Matches | 25 |
+| ELO Regular | 1225 🔻  (317)|
+| ELO Competitive | 1248 🔻  (357)|
+| Total Matches | 26 |
 | Wins | 11 |
-| Losses | 11 |
+| Losses | 12 |
 | Draws | 3 |
-| Streak | 8 |
 | Streak Record | 8 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727704643,1724892384,1724320812,1723689126,1723212815,1722755138,1721791040,1721279615,1719850268,1718987802,1717588347,1716980057,1716675491,1716499699,1715945749,1715493656,1714917094,1713850953,1713373849,1712872511,1712563532,1712324574,1711911121,1707679745,1706928178];
+        let timestamps = [1728306585,1727704643,1724892384,1724320812,1723689126,1723212815,1722755138,1721791040,1721279615,1719850268,1718987802,1717588347,1716980057,1716675491,1716499699,1715945749,1715493656,1714917094,1713850953,1713373849,1712872511,1712563532,1712324574,1711911121,1707679745,1706928178];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,12 +117,14 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) | 1 | 1 | 0 | 2 |
 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) | 1 | 1 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/12 | 3-5 | [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) |
 | ✅ | 2024/10/05 | 25-0 | [아베노노](https://ws.tsl.rocks/corp/b6a4ffffbabc8bf90d3ae19467aa6ce98c4a3ceb136af04fd24a43406f8f830f/) |
 | ✅ | 2024/09/03 | 20-2 | [ДИᏰEPℂДℍTᏰℓ](https://ws.tsl.rocks/corp/a1dad8a2a2c5ab935169d168bc19f8a1db7f12b099358e079cb7221a340345ed/) |
 | ✅ | 2024/08/27 | 26-0 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) |

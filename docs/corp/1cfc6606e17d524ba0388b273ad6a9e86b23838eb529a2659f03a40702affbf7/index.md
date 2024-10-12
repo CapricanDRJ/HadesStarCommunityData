@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Lofty Mountain
-description: W:5 L:0 D:0 Bonus ✅
+description: W:5 L:0 D:0 Bonus ❌
 date: 1728120413
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
