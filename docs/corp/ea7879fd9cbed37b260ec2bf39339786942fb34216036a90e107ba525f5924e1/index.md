@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Got Nothing
-description: W:15 L:11 D:0 Bonus ❌
-date: 1726937476
+description: W:15 L:12 D:0 Bonus ❌
+date: 1728765036
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1249 🔺  (233)|
-| ELO Competitive | 1272 🔺  (297)|
-| Total Matches | 26 |
+| ELO Regular | 1238 🔻  (277)|
+| ELO Competitive | 1264 🔻  (311)|
+| Total Matches | 27 |
 | Wins | 15 |
-| Losses | 11 |
+| Losses | 12 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 4 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726505476,1724706981,1723465846,1722886133,1722271929,1721663966,1719861089,1718539446,1716831302,1716346035,1715627967,1713821514,1712592611,1712019897,1711398506,1710193019,1709612504,1707805052,1707160585,1705988773,1705334252,1704763583,1703526353,1702921795,1701102602,1699901550];
+        let timestamps = [1728333036,1726505476,1724706981,1723465846,1722886133,1722271929,1721663966,1719861089,1718539446,1716831302,1716346035,1715627967,1713821514,1712592611,1712019897,1711398506,1710193019,1709612504,1707805052,1707160585,1705988773,1705334252,1704763583,1703526353,1702921795,1701102602,1699901550];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/12 | 3-37 | [111](https://ws.tsl.rocks/corp/8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350/) |
 | ✅ | 2024/09/21 | 43-35 | [Tuatha De Danan](https://ws.tsl.rocks/corp/7741dbd0c9e7ddbc162e374691cb3346e4bb6600840f7962ec4a4414d5d2f780/) |
 | ✅ | 2024/08/31 | 43-14 | [Tormenta](https://ws.tsl.rocks/corp/537807f41149f54b040d4f2bc983c7f1fbfa2242ec5566371330e4996e33a195/) |
 | ❌ | 2024/08/17 | 6-30 | [ANDROMEDA INC\. ](https://ws.tsl.rocks/corp/9d122968f1050c65cf6c741d5f018d932b3fdff8fc0a48144a4376b9fa18677b/) |

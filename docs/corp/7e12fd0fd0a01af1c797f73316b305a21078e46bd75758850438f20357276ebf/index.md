@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​碧霄殿
-description: W:9 L:6 D:0 Bonus ✅
+description: W:9 L:6 D:0 Bonus ❌
 date: 1728141152
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
