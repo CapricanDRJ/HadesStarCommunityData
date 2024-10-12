@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Terranova
-description: W:8 L:36 D:0 Bonus ✅
+description: W:8 L:36 D:0 Bonus ❌
 date: 1728685103
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
