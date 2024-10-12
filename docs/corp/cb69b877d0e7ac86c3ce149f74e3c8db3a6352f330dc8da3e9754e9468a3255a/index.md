@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​⭐PRETORIANS.X⭐
-description: W:2 L:7 D:0 Bonus ✅
+description: W:2 L:7 D:0 Bonus ❌
 date: 1728636711
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

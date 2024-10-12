@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Auscorp 
-description: W:59 L:8 D:0 Bonus ✅
+description: W:59 L:8 D:0 Bonus ❌
 date: 1728631903
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
