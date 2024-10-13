@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Brasil
-description: W:2 L:4 D:0 Bonus ❌
-date: 1726329853
+description: W:3 L:4 D:0 Bonus ✅
+date: 1728854888
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1178 🔻  (817)|
-| ELO Competitive | 1184 🔻  (868)|
-| Total Matches | 6 |
-| Wins | 2 |
+| ELO Regular | 1193 🔺  (538)|
+| ELO Competitive | 1199 🔺  (602)|
+| Total Matches | 7 |
+| Wins | 3 |
 | Losses | 4 |
 | Draws | 0 |
 | Streak Record | 2 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725897853,1724257412,1723081497,1722291162,1721446090,1720655683];
+        let timestamps = [1728422888,1725897853,1724257412,1723081497,1722291162,1721446090,1720655683];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/13 | 11-3 | [imperio galacti](https://ws.tsl.rocks/corp/53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2/) |
 | ❌ | 2024/09/14 | 0-14 | [SkitleStarOrder](https://ws.tsl.rocks/corp/9462fd612a0624ceac81b5378c972a870fc5117ca12e58f87307cbce2b2c30ae/) |
 | ❌ | 2024/08/26 | 5-17 | [SiriusStrawMoo](https://ws.tsl.rocks/corp/c83a5744ea256d2c1fa59660bc0e18e8d01a2a467bc13fec27a8b30f689e220b/) |
 | ✅ | 2024/08/13 | 4-0 | [ 边域](https://ws.tsl.rocks/corp/b982530486b86a4944af4474183f3fa6aca9db7a2a4195c018930f68d6ede865/) |

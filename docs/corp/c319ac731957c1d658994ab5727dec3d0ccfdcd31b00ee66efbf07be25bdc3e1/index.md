@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​云霄宫
-description: W:3 L:6 D:0 Bonus ✅
+description: W:3 L:6 D:0 Bonus ❌
 date: 1728276979
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1167 🔻  (949)|
+| ELO Regular | 1167 🔻  (948)|
 | ELO Competitive | 1212 🔺  (518)|
 | Total Matches | 9 |
 | Wins | 3 |
