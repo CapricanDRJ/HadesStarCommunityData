@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Stone Legion
-description: W:25 L:6 D:1 Bonus ✅
-date: 1728205459
+description: W:25 L:7 D:1 Bonus ✅
+date: 1728782160
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1373 🔺  (61)|
-| ELO Competitive | 1418 🔺  (92)|
-| Total Matches | 32 |
+| ELO Regular | 1357 🔻  (77)|
+| ELO Competitive | 1402 🔻  (106)|
+| Total Matches | 33 |
 | Wins | 25 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 1 |
 | Streak Record | 9 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727773459,1726687486,1725876812,1725049853,1724316906,1723247677,1722431491,1721854796,1720991108,1719605958,1718056971,1717029046,1715996012,1714613227,1713305042,1712776198,1711675832,1710963114,1709233898,1708545181,1707937875,1707281385,1706583492,1706140533,1705092942,1703372790,1702495029,1701778214,1701518848,1700803546,1699879305,1698968982];
+        let timestamps = [1728350160,1727773459,1726687486,1725876812,1725049853,1724316906,1723247677,1722431491,1721854796,1720991108,1719605958,1718056971,1717029046,1715996012,1714613227,1713305042,1712776198,1711675832,1710963114,1709233898,1708545181,1707937875,1707281385,1706583492,1706140533,1705092942,1703372790,1702495029,1701778214,1701518848,1700803546,1699879305,1698968982];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/13 | 11-21 | [Sentencia](https://ws.tsl.rocks/corp/288393568f19d6bd87e5e3e20f7fd1d458526d8beb052622b4f5572d7959cf7b/) |
 | ✅ | 2024/10/06 | 43-16 | [Curiosity \+ Cat](https://ws.tsl.rocks/corp/c2982821577254a4ce2d996f53a2391f6f059ff79bbb14c29f9463269b4beebf/) |
 | ↔️ | 2024/09/23 | 32-32 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ✅ | 2024/09/14 | 29-4 | [Space Pirates](https://ws.tsl.rocks/corp/87eff6e453b6f020baf8cb8930236b566161e22814cdbdc77d696c5812684bc6/) |
