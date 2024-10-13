@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​中国星际联盟
-description: W:37 L:39 D:3 Bonus ✅
+description: W:37 L:39 D:3 Bonus ❌
 date: 1728235513
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
