@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Antioch
-description: W:10 L:19 D:0 Bonus ❌
-date: 1728020047
+description: W:10 L:20 D:0 Bonus ❌
+date: 1728825126
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1120 🔻  (1161)|
-| ELO Competitive | 1160 🔻  (1111)|
-| Total Matches | 29 |
+| ELO Regular | 1110 🔻  (1186)|
+| ELO Competitive | 1154 🔻  (1139)|
+| Total Matches | 30 |
 | Wins | 10 |
-| Losses | 19 |
+| Losses | 20 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727588047,1726429449,1725758417,1724880067,1724245388,1723165635,1721287126,1720493094,1717224671,1715907080,1714990700,1714489433,1714040233,1712973600,1712019297,1711041231,1710435486,1708822535,1708297767,1707491180,1706926375,1706325344,1705632659,1705197822,1704744952,1704231974,1703765564,1703187637,1702689476];
+        let timestamps = [1728393126,1727588047,1726429449,1725758417,1724880067,1724245388,1723165635,1721287126,1720493094,1717224671,1715907080,1714990700,1714489433,1714040233,1712973600,1712019297,1711041231,1710435486,1708822535,1708297767,1707491180,1706926375,1706325344,1705632659,1705197822,1704744952,1704231974,1703765564,1703187637,1702689476];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -113,11 +113,17 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) | 1 | 1 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/13 | 10-16 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) |
 | ❌ | 2024/10/04 | 11-22 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
 | ❌ | 2024/09/20 | 5-29 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) |
 | ❌ | 2024/09/13 | 7-26 | [CTG](https://ws.tsl.rocks/corp/9647a8507dfa5637a217d2d6a0ad47aefb6a4563f910ad46376c228450cff43c/) |

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​阿尔特拉太空港
-description: W:12 L:7 D:1 Bonus ✅
+description: W:12 L:7 D:1 Bonus ❌
 date: 1728214134
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
