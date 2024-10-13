@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Повстанцы Хаоса
-description: W:34 L:5 D:0 Bonus ✅
-date: 1728192239
+description: W:35 L:5 D:0 Bonus ✅
+date: 1728794477
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1479 🔺  (16)|
-| ELO Competitive | 1520 🔺  (32)|
-| Total Matches | 39 |
-| Wins | 34 |
+| ELO Regular | 1482 🔺  (15)|
+| ELO Competitive | 1523 🔺  (32)|
+| Total Matches | 40 |
+| Wins | 35 |
 | Losses | 5 |
 | Draws | 0 |
-| Streak | 13 |
-| Streak Record | 13 |
+| Streak | 14 |
+| Streak Record | 14 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727760239,1727760239,1727186587,1726397578,1725816420,1725782155,1725174858,1724573845,1723985143,1723378096,1723353153,1722757241,1722242475,1721794991,1721196977,1720596172,1719978586,1719378387,1718698055,1718082808,1717467533,1716906731,1714985893,1714186259,1713506050,1712908998,1712904492,1711948379,1711339312,1710474545,1709885021,1709358595,1708745006,1708163544,1707636465,1707023738,1706415799,1705824087,1705332749];
+        let timestamps = [1728362477,1727760239,1727760239,1727186587,1726397578,1725816420,1725782155,1725174858,1724573845,1723985143,1723378096,1723353153,1722757241,1722242475,1721794991,1721196977,1720596172,1719978586,1719378387,1718698055,1718082808,1717467533,1716906731,1714985893,1714186259,1713506050,1712908998,1712904492,1711948379,1711339312,1710474545,1709885021,1709358595,1708745006,1708163544,1707636465,1707023738,1706415799,1705824087,1705332749];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/13 | 32-3 | [Stardust](https://ws.tsl.rocks/corp/304ad360ced8ec5a0e12a9955f3dd8f8ac2476f48d98a379beda41221e5a1c1c/) |
 | ✅ | 2024/10/06 | 28-0 | [第四星际](https://ws.tsl.rocks/corp/42d38d5f95c493cb1822f0c89a5366e532a9dc30c0019e03cf7ddd280bf55040/) |
 | ✅ | 2024/10/06 | 18-0 | [Spaceforce](https://ws.tsl.rocks/corp/24c4541d371aa6efad58f5141355ec6ad643e45d05957800075cdefc583cb805/) |
 | ✅ | 2024/09/29 | 26-0 | [U\.S\.A](https://ws.tsl.rocks/corp/6d7a18e9893736881762a4e1b687b55e7311d367267ff5a9cc8e45722b14ea06/) |

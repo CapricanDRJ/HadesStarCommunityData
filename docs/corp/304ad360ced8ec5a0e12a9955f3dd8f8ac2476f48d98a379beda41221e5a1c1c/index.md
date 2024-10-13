@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Stardust
-description: W:2 L:16 D:0 Bonus ❌
-date: 1721097900
+description: W:2 L:17 D:0 Bonus ❌
+date: 1728794477
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1086 🔻  (1216)|
-| ELO Competitive | 1131 🔻  (1212)|
-| Total Matches | 18 |
+| ELO Regular | 1084 🔻  (1217)|
+| ELO Competitive | 1128 🔻  (1213)|
+| Total Matches | 19 |
 | Wins | 2 |
-| Losses | 16 |
+| Losses | 17 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1720665900,1720497902,1719766129,1719758915,1718424046,1715898970,1714926409,1714474707,1712389778,1712310373,1711879865,1710757897,1710244993,1709778060,1709220374,1707050785,1706524586,1700722697];
+        let timestamps = [1728362477,1720665900,1720497902,1719766129,1719758915,1718424046,1715898970,1714926409,1714474707,1712389778,1712310373,1711879865,1710757897,1710244993,1709778060,1709220374,1707050785,1706524586,1700722697];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/13 | 3-32 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |
 | ❌ | 2024/07/16 | 0-3 | [oen](https://ws.tsl.rocks/corp/33d062d54a7aaaa60ae11e07fba73e1b28f5c9f323ff4a98f5810933e7d2b41f/) |
 | ❌ | 2024/07/14 | 0-24 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |
 | ❌ | 2024/07/05 | 0-9 | [CIS](https://ws.tsl.rocks/corp/3efaab24560531ff257e73bfb281a7e9c0a9d591ac5aff55d05d35f2fb5e1d73/) |
