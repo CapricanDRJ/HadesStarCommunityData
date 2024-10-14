@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Destroyers
-description: W:16 L:16 D:0 Bonus ❌
-date: 1721766909
+description: W:16 L:17 D:0 Bonus ❌
+date: 1728885234
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1220 🔻  (333)|
-| ELO Competitive | 1239 🔻  (387)|
-| Total Matches | 32 |
+| ELO Regular | 1214 🔻  (397)|
+| ELO Competitive | 1237 🔻  (394)|
+| Total Matches | 33 |
 | Wins | 16 |
-| Losses | 16 |
+| Losses | 17 |
 | Draws | 0 |
 | Streak Record | 6 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721334909,1720715794,1720110230,1718396403,1717428460,1716728521,1715779687,1714921601,1714234033,1713475109,1712710998,1712098021,1711490749,1710978739,1709922885,1709255232,1708745607,1708305687,1707803850,1707252842,1706737358,1706122501,1705564140,1705121487,1704609413,1704130397,1703443714,1702834639,1702231449,1701691960,1701194269,1700673409];
+        let timestamps = [1728453234,1721334909,1720715794,1720110230,1718396403,1717428460,1716728521,1715779687,1714921601,1714234033,1713475109,1712710998,1712098021,1711490749,1710978739,1709922885,1709255232,1708745607,1708305687,1707803850,1707252842,1706737358,1706122501,1705564140,1705121487,1704609413,1704130397,1703443714,1702834639,1702231449,1701691960,1701194269,1700673409];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/14 | 5-24 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ❌ | 2024/07/23 | 9-30 | [Atlas Star llc\.](https://ws.tsl.rocks/corp/3de5259ba12509e4d02854f1414caacf3d0aaaf79f417b9d843ff20ca35863dd/) |
 | ❌ | 2024/07/16 | 3-17 | [The Allegiant](https://ws.tsl.rocks/corp/1c4cfbcf7902769aff100297d9174153f4c0528ed07918ba494f763a1315ffc6/) |
 | ✅ | 2024/07/09 | 23-2 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) |

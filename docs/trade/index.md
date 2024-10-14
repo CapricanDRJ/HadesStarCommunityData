@@ -49,6 +49,32 @@ permalink: /trade/
 <body>
     <div class="table-container">
 
+    <table>
+        <tr>
+            <th colspan="4" class="username-header">Devine.</th>
+        </tr>
+        <tr>
+            <th>Amount</th>
+            <th>Artifact</th>
+            <th>RS Level</th>
+            <th>%</th>
+        </tr>
+    
+        <tr>
+            <td colspan="4">🏷️ Offering</td>
+        </tr>
+        
+                <tr>
+                    <td>2</td>
+                    <td><img src="combat.png" alt="combat"></td>
+                    <td>RS1</td>
+                    <td>0%</td>
+                </tr>
+            
+        <tr>
+            <td colspan="4">Guild: Private</td>
+        </tr>
+    </table>
     </div>
 </body>
 </html>
