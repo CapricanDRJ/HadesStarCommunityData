@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​普罗米修斯
-description: W:4 L:14 D:1 Bonus ✅
+description: W:4 L:14 D:1 Bonus ❌
 date: 1728716648
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

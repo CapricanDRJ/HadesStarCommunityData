@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Omega corp
-description: W:3 L:3 D:2 Bonus ❌
-date: 1728453688
+description: W:3 L:4 D:2 Bonus ❌
+date: 1728905966
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 🔺  (470)|
-| ELO Competitive | 1207 🔺  (545)|
-| Total Matches | 8 |
+| ELO Regular | 1184 🔻  (759)|
+| ELO Competitive | 1194 🔻  (636)|
+| Total Matches | 9 |
 | Wins | 3 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 2 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728021688,1727562813,1727125898,1726669030,1726195017,1725590434,1725142409,1724709985];
+        let timestamps = [1728473966,1728021688,1727562813,1727125898,1726669030,1726195017,1725590434,1725142409,1724709985];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/14 | 2-11 | [华夏三体舰队](https://ws.tsl.rocks/corp/a457b1d7612cdff92b655d33cf4ffd72b38aa796525cf0432423cfd0d01c6cf9/) |
 | ↔️ | 2024/10/09 | 3-3 | [oen](https://ws.tsl.rocks/corp/33d062d54a7aaaa60ae11e07fba73e1b28f5c9f323ff4a98f5810933e7d2b41f/) |
 | ❌ | 2024/10/03 | 3-25 | [Imperium](https://ws.tsl.rocks/corp/9e2ab6b52a6e6684059b31f08966101f380a17c9a782d2a39434093e835fb17d/) |
 | ✅ | 2024/09/28 | 1-0 | [Ukraine](https://ws.tsl.rocks/corp/b5cbc09cd1dc9356c73eaab3b70c1e8a08578a09dd0b80c557f77798c94c8fc3/) |

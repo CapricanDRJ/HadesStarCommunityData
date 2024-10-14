@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​WhiteSTarfighte
-description: W:2 L:3 D:0 Bonus ✅
+description: W:2 L:3 D:0 Bonus ❌
 date: 1728736481
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔻  (569)|
-| ELO Competitive | 1201 🔻  (565)|
+| ELO Regular | 1190 🔻  (568)|
+| ELO Competitive | 1201 🔻  (564)|
 | Total Matches | 5 |
 | Wins | 2 |
 | Losses | 3 |

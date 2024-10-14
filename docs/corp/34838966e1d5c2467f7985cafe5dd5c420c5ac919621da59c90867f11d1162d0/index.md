@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​NERF TOY'S
-description: W:22 L:34 D:2 Bonus ✅
+description: W:22 L:34 D:2 Bonus ❌
 date: 1728283290
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 🔺  (471)|
+| ELO Regular | 1201 🔺  (470)|
 | ELO Competitive | 1287 🔺  (263)|
 | Total Matches | 58 |
 | Wins | 22 |
