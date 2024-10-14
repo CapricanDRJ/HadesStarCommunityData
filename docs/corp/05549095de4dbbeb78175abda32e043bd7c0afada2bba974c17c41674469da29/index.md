@@ -1,19 +1,21 @@
 ---
 layout: page
 title: ​AntiCerberus
-description: W:2 L:3 D:1 Bonus ✅
-date: 1728369534
+description: W:3 L:3 D:1 Bonus ✅
+date: 1728910238
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 🔺  (583)|
-| ELO Competitive | 1190 🔺  (677)|
-| Total Matches | 6 |
-| Wins | 2 |
+| ELO Regular | 1204 🔺  (452)|
+| ELO Competitive | 1205 🔺  (548)|
+| Total Matches | 7 |
+| Wins | 3 |
 | Losses | 3 |
 | Draws | 1 |
+| Streak | 2 |
+| Streak Record | 2 |
 
 
 # Whitestar Match Day
@@ -30,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727937534,1727255994,1726369876,1725753910,1725261704,1724769478];
+        let timestamps = [1728478238,1727937534,1727255994,1726369876,1725753910,1725261704,1724769478];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/14 | 3-1 | [Nebula alliance](https://ws.tsl.rocks/corp/b60eb81ac1cb1dfb18ded4818ad07820957f77770dace6149956fffa60a17e84/) |
 | ✅ | 2024/10/08 | 1-0 | [银星舰队SSF](https://ws.tsl.rocks/corp/c02d97cc37c082739a7828b6669ee67e2108bbf3d9f33628c650ced9fe04dd06/) |
 | ❌ | 2024/09/30 | 2-9 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb/) |
 | ❌ | 2024/09/20 | 0-7 | [Gastro](https://ws.tsl.rocks/corp/97fa80cbbd78ba0187b5fe3310f441eae5bae995b37c17cd740f62a630d8303e/) |

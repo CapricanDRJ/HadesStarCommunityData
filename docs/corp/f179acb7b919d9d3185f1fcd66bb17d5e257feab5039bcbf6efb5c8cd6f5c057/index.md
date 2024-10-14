@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Star Blazers
-description: W:12 L:29 D:1 Bonus ✅
-date: 1728447678
+description: W:12 L:30 D:1 Bonus ✅
+date: 1728918293
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1083 🔺  (1219)|
-| ELO Competitive | 1126 🔺  (1217)|
-| Total Matches | 42 |
+| ELO Regular | 1078 🔻  (1222)|
+| ELO Competitive | 1123 🔻  (1220)|
+| Total Matches | 43 |
 | Wins | 12 |
-| Losses | 29 |
+| Losses | 30 |
 | Draws | 1 |
-| Streak | 2 |
 | Streak Record | 3 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728015678,1726681776,1726194429,1725661354,1724982534,1724221949,1722281246,1721585834,1720983418,1720407446,1718714643,1717313040,1715669752,1714161323,1713702834,1713216702,1712760271,1712282511,1711161720,1710340540,1708351960,1707627451,1706893018,1706425414,1705960530,1705508848,1705018118,1704520157,1704069694,1703566921,1703091793,1702938027,1702451145,1702048049,1701944718,1701262189,1701104706,1700793630,1700520741,1700066847,1699581996,1699131567];
+        let timestamps = [1728486293,1728015678,1726681776,1726194429,1725661354,1724982534,1724221949,1722281246,1721585834,1720983418,1720407446,1718714643,1717313040,1715669752,1714161323,1713702834,1713216702,1712760271,1712282511,1711161720,1710340540,1708351960,1707627451,1706893018,1706425414,1705960530,1705508848,1705018118,1704520157,1704069694,1703566921,1703091793,1702938027,1702451145,1702048049,1701944718,1701262189,1701104706,1700793630,1700520741,1700066847,1699581996,1699131567];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/14 | 3-16 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ✅ | 2024/10/09 | 14-1 | [佛矿寺](https://ws.tsl.rocks/corp/64f8afd95b7004e9d5a442da55644ee3ce64a9a8e82345c458d757b527e40624/) |
 | ✅ | 2024/09/23 | 6-0 | [Galaktika corp](https://ws.tsl.rocks/corp/c37872d1ea085402bf536c707a895610f72dafda4bede848405b7908b4523985/) |
 | ❌ | 2024/09/18 | 3-6 | [МеГаКо](https://ws.tsl.rocks/corp/11cd7fa53aad1bfc7d40c47a63de7b6c4a6d76f00e69dcb853f47e2c90b382dd/) |

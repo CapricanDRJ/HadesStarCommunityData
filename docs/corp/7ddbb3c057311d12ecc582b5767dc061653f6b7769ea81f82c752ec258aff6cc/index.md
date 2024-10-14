@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Internationals
-description: W:25 L:10 D:0 Bonus ✅
-date: 1728341893
+description: W:26 L:10 D:0 Bonus ✅
+date: 1728910175
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1403 🔺  (46)|
-| ELO Competitive | 1433 🔺  (84)|
-| Total Matches | 35 |
-| Wins | 25 |
+| ELO Regular | 1417 🔺  (33)|
+| ELO Competitive | 1455 🔺  (66)|
+| Total Matches | 36 |
+| Wins | 26 |
 | Losses | 10 |
 | Draws | 0 |
-| Streak | 12 |
-| Streak Record | 12 |
+| Streak | 13 |
+| Streak Record | 13 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727909893,1727197108,1726666025,1726137333,1725466634,1725456715,1724868946,1724844300,1724181987,1723662385,1722962498,1722440208,1721783573,1721151302,1720565225,1720026375,1719358648,1718785865,1717641848,1716943402,1716272729,1715722609,1715119301,1714520383,1713944090,1709130533,1708453531,1702238062,1701630957,1701103804,1700600683,1699970972,1699394494,1699366541,1698763422];
+        let timestamps = [1728478175,1727909893,1727197108,1726666025,1726137333,1725466634,1725456715,1724868946,1724844300,1724181987,1723662385,1722962498,1722440208,1721783573,1721151302,1720565225,1720026375,1719358648,1718785865,1717641848,1716943402,1716272729,1715722609,1715119301,1714520383,1713944090,1709130533,1708453531,1702238062,1701630957,1701103804,1700600683,1699970972,1699394494,1699366541,1698763422];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/14 | 37-0 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) |
 | ✅ | 2024/10/07 | 38-5 | [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) |
 | ✅ | 2024/09/29 | 19-6 | [VoidCorp](https://ws.tsl.rocks/corp/b866417e5607f8434347bb5f986e37c4fa7dda68b3882f0135d186043d3f68a3/) |
 | ✅ | 2024/09/23 | 40-0 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |

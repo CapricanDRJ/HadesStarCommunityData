@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​The Watchers
-description: W:13 L:14 D:0 Bonus ✅
+description: W:13 L:14 D:0 Bonus ❌
 date: 1728293505
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1199 🔺  (498)|
-| ELO Competitive | 1272 🔺  (296)|
+| ELO Regular | 1199 🔺  (499)|
+| ELO Competitive | 1272 🔺  (295)|
 | Total Matches | 27 |
 | Wins | 13 |
 | Losses | 14 |

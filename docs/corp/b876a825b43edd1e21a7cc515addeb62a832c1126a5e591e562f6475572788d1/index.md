@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​AlSounT
-description: W:6 L:6 D:0 Bonus ✅
-date: 1728377348
+description: W:7 L:6 D:0 Bonus ✅
+date: 1728916189
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1202 🔺  (458)|
-| ELO Competitive | 1219 🔺  (453)|
-| Total Matches | 12 |
-| Wins | 6 |
+| ELO Regular | 1219 🔺  (336)|
+| ELO Competitive | 1237 🔺  (393)|
+| Total Matches | 13 |
+| Wins | 7 |
 | Losses | 6 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 2 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727945348,1727428178,1726938688,1726246114,1702802778,1702219423,1701334620,1700768686,1700326582,1699867283,1699378564,1698921199];
+        let timestamps = [1728484189,1727945348,1727428178,1726938688,1726246114,1702802778,1702219423,1701334620,1700768686,1700326582,1699867283,1699378564,1698921199];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/14 | 19-5 | [Galaxians](https://ws.tsl.rocks/corp/94728c6eb201c1f15c6e2304b5920aa155ccc1a7aac83b574baae51c53a22c5d/) |
 | ✅ | 2024/10/08 | 21-3 | [StellaMysterium](https://ws.tsl.rocks/corp/cfaaa81ed93cc9361ade470c3414c73ecf77068badd68d624c7b3f486d142b10/) |
 | ❌ | 2024/10/02 | 2-27 | [Дом Датэ](https://ws.tsl.rocks/corp/10cbcbd91c4084657bdab01ef573cc48170fbc4dd0ab533f96712f1cb6097ff2/) |
 | ✅ | 2024/09/26 | 30-0 | [ギャラクシー富士山](https://ws.tsl.rocks/corp/2d5888d985fe8a11b0227ed1ac345ca5be43e105bee9c4694e43c695bfd33649/) |
