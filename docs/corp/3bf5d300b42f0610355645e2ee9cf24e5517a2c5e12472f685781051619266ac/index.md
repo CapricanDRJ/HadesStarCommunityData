@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Sprite
-description: W:17 L:4 D:0 Bonus ✅
+description: W:17 L:4 D:0 Bonus ❌
 date: 1728324462
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
