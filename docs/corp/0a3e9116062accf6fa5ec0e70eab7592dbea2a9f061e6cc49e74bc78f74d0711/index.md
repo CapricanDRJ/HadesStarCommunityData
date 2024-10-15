@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Justice Vengers
-description: W:22 L:3 D:1 Bonus ✅
+description: W:22 L:3 D:1 Bonus ❌
 date: 1728809799
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

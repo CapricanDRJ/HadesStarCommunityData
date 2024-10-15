@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Quilliance
-description: W:19 L:2 D:0 Bonus ❌
-date: 1727786859
+description: W:20 L:2 D:0 Bonus ✅
+date: 1728990118
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1389 🔺  (53)|
-| ELO Competitive | 1419 🔺  (91)|
-| Total Matches | 21 |
-| Wins | 19 |
+| ELO Regular | 1401 🔺  (47)|
+| ELO Competitive | 1432 🔺  (85)|
+| Total Matches | 22 |
+| Wins | 20 |
 | Losses | 2 |
 | Draws | 0 |
-| Streak | 8 |
+| Streak | 9 |
 | Streak Record | 9 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727354859,1726144846,1724935052,1723739613,1722524650,1721313871,1720697755,1719494469,1718276035,1717098463,1715863511,1714659195,1712232628,1711022298,1709815614,1708595658,1707383004,1706173583,1704970331,1702549122,1701338827];
+        let timestamps = [1728558118,1727354859,1726144846,1724935052,1723739613,1722524650,1721313871,1720697755,1719494469,1718276035,1717098463,1715863511,1714659195,1712232628,1711022298,1709815614,1708595658,1707383004,1706173583,1704970331,1702549122,1701338827];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/15 | 24-2 | [Albedo](https://ws.tsl.rocks/corp/8e9848f9867c594384d6a31618213447f358c7b308fee91d20991b80b513fdbb/) |
 | ✅ | 2024/10/01 | 28-8 | [NERF TOY'S](https://ws.tsl.rocks/corp/34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0/) |
 | ✅ | 2024/09/17 | 24-3 | [Rogue Corp](https://ws.tsl.rocks/corp/6ad28ede21f9fa3aa044f0af41c7ed474fc432adf4ca1923fa02f6f9ded0028f/) |
 | ✅ | 2024/09/03 | 21-3 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |

@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​世外桃源
-description: W:15 L:97 D:0 Bonus ✅
+description: W:15 L:97 D:0 Bonus ❌
 date: 1728483141
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 903 🔻  (1286)|
-| ELO Competitive | 1124 🔺  (1218)|
+| ELO Regular | 903 🔻  (1287)|
+| ELO Competitive | 1124 🔺  (1219)|
 | Total Matches | 112 |
 | Wins | 15 |
 | Losses | 97 |
