@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​星光禁卫
-description: W:2 L:8 D:1 Bonus ✅
+description: W:2 L:8 D:1 Bonus ❌
 date: 1728381554
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

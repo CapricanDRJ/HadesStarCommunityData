@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​蓝星集团
-description: W:4 L:1 D:0 Bonus ✅
+description: W:4 L:1 D:0 Bonus ❌
 date: 1728378249
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
