@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Death Star llc.
-description: W:51 L:10 D:1 Bonus ✅
+description: W:51 L:10 D:1 Bonus ❌
 date: 1728969686
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

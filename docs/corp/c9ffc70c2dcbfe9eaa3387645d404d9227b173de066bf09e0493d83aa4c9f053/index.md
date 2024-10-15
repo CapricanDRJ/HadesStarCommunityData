@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Лютые
-description: W:13 L:10 D:1 Bonus ✅
+description: W:13 L:10 D:1 Bonus ❌
 date: 1728356937
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

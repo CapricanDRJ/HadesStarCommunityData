@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Stellaris
-description: W:3 L:9 D:0 Bonus ✅
+description: W:3 L:9 D:0 Bonus ❌
 date: 1728357815
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
