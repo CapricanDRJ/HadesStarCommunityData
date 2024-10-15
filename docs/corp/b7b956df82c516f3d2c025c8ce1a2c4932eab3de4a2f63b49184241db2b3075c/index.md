@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​The Witness
-description: W:13 L:2 D:0 Bonus ✅
+description: W:13 L:2 D:0 Bonus ❌
 date: 1728399893
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

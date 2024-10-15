@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​украина№1
-description: W:31 L:27 D:0 Bonus ✅
+description: W:31 L:27 D:0 Bonus ❌
 date: 1728400494
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,19 +1,21 @@
 ---
 layout: page
 title: ​EMPIRE 
-description: W:1 L:0 D:0 Bonus ✅
-date: 1728556774
+description: W:2 L:0 D:0 Bonus ✅
+date: 1729027696
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺  (358)|
-| ELO Competitive | 1219 🔺  (449)|
-| Total Matches | 1 |
-| Wins | 1 |
+| ELO Regular | 1231 🔺  (293)|
+| ELO Competitive | 1236 🔺  (400)|
+| Total Matches | 2 |
+| Wins | 2 |
 | Losses | 0 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 
 
 # Whitestar Match Day
@@ -30,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728124774];
+        let timestamps = [1728595696,1728124774];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/15 | 12-2 | [CTG](https://ws.tsl.rocks/corp/9647a8507dfa5637a217d2d6a0ad47aefb6a4563f910ad46376c228450cff43c/) |
 | ✅ | 2024/10/10 | 12-3 | [游徒之家](https://ws.tsl.rocks/corp/7ab5f6970c8703095b0589da6e5d648dc64a94ca6d901ef09d4949409b2c44b9/) |
 
 Corporation ID: 6ab64c49cd01e1f93deaf6424de653c91473fc84fa372cb0fe683f9e86dceaa2

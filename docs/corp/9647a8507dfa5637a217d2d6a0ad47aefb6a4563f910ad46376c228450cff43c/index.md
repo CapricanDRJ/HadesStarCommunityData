@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​CTG
-description: W:17 L:21 D:0 Bonus ✅
-date: 1728662861
+description: W:17 L:22 D:0 Bonus ✅
+date: 1729027696
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔻  (362)|
-| ELO Competitive | 1260 🔺  (325)|
-| Total Matches | 38 |
+| ELO Regular | 1201 🔻  (469)|
+| ELO Competitive | 1243 🔻  (378)|
+| Total Matches | 39 |
 | Wins | 17 |
-| Losses | 21 |
+| Losses | 22 |
 | Draws | 0 |
 | Streak Record | 5 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728230861,1728160843,1727601269,1727556803,1727011406,1727008700,1726455591,1725758417,1725182672,1724631249,1724033836,1723411160,1722818853,1722216937,1721602665,1721010639,1720378599,1719781157,1719169931,1718625991,1716858050,1715610838,1714945039,1714389068,1713726574,1711956490,1711351929,1709553309,1708322512,1707721508,1707093162,1706494239,1705867969,1705280467,1704726917,1704082613,1703628834,1700528554];
+        let timestamps = [1728595696,1728230861,1728160843,1727601269,1727556803,1727011406,1727008700,1726455591,1725758417,1725182672,1724631249,1724033836,1723411160,1722818853,1722216937,1721602665,1721010639,1720378599,1719781157,1719169931,1718625991,1716858050,1715610838,1714945039,1714389068,1713726574,1711956490,1711351929,1709553309,1708322512,1707721508,1707093162,1706494239,1705867969,1705280467,1704726917,1704082613,1703628834,1700528554];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/15 | 2-12 | [EMPIRE ](https://ws.tsl.rocks/corp/6ab64c49cd01e1f93deaf6424de653c91473fc84fa372cb0fe683f9e86dceaa2/) |
 | ❌ | 2024/10/11 | 1-32 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |
 | ✅ | 2024/10/10 | 14-1 | [empire](https://ws.tsl.rocks/corp/c59bf8dfb57f9bfc0a87735b00299b45d32d3607628d7879e2bd9711fec3e90f/) |
 | ✅ | 2024/10/04 | 19-16 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |
