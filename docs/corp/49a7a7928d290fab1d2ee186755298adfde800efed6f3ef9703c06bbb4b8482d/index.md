@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Диванные Стражи
-description: W:0 L:2 D:0 Bonus ❌
-date: 1713557656
+description: W:1 L:2 D:0 Bonus ✅
+date: 1729041292
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (848)|
-| ELO Competitive | 1179 🔻  (931)|
-| Total Matches | 2 |
-| Wins | 0 |
+| ELO Regular | 1180 🔺  (811)|
+| ELO Competitive | 1191 🔺  (681)|
+| Total Matches | 3 |
+| Wins | 1 |
 | Losses | 2 |
 | Draws | 0 |
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1713125656,1712409310];
+        let timestamps = [1728609292,1713125656,1712409310];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/16 | 3-0 | [11th Engineers](https://ws.tsl.rocks/corp/7341e9a33a1baf2162870c795632dcd551d3c624b06456dac041fa049ba67a9a/) |
 | ❌ | 2024/04/19 | 0-6 | [империя тьмы](https://ws.tsl.rocks/corp/4eb22a1b793e5d03579cea15c873b1bef56fea02420a4e55edb18a200f7fc46a/) |
 | ❌ | 2024/04/11 | 5-21 | [Kratos](https://ws.tsl.rocks/corp/1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b/) |
 
