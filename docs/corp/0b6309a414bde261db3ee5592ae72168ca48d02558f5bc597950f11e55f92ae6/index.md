@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Quantum Cats
-description: W:5 L:4 D:0 Bonus ❌
-date: 1727750502
+description: W:5 L:5 D:0 Bonus ❌
+date: 1729052632
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1219 🔺  (338)|
-| ELO Competitive | 1244 🔺  (371)|
-| Total Matches | 9 |
+| ELO Regular | 1203 🔻  (455)|
+| ELO Competitive | 1234 🔻  (405)|
+| Total Matches | 10 |
 | Wins | 5 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 2 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727318502,1725957346,1717733812,1716871871,1715226553,1712504266,1707426280,1702600821,1700423064];
+        let timestamps = [1728620632,1727318502,1725957346,1717733812,1716871871,1715226553,1712504266,1707426280,1702600821,1700423064];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/16 | 5-24 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ✅ | 2024/10/01 | 16-13 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ✅ | 2024/09/15 | 28-0 | [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046/) |
 | ❌ | 2024/06/12 | 7-41 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/0c33734edc95a1bac88a9df7e0853a3bd835ea682673f097db1c75d6bb14c8da/) |

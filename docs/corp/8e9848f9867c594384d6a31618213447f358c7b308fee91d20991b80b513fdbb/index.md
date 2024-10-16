@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Albedo
-description: W:27 L:10 D:0 Bonus ✅
+description: W:27 L:10 D:0 Bonus ❌
 date: 1728990118
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
