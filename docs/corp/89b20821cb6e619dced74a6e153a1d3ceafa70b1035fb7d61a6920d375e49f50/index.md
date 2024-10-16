@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Winter Star llc
-description: W:1 L:0 D:0 Bonus ✅
+description: W:1 L:0 D:0 Bonus ❌
 date: 1728472018
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1208 🔺  (439)|
-| ELO Competitive | 1212 🔺  (522)|
+| ELO Regular | 1208 🔺  (440)|
+| ELO Competitive | 1212 🔺  (523)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |
