@@ -251,7 +251,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Final](https://ws.tsl.rocks/corp/77270275648d2f188dea5d234a7428073a451ef4bc3cbd1b274a1d65e5f67c68/) | 1122 | 1166 | 12 |
 | [Final Space](https://ws.tsl.rocks/corp/762914fc1846e6b284609274f8f9515959110b5db098a53be8048ffd45d98fdd/) | 1167 | 1169 | 3 |
 | [Firestarters](https://ws.tsl.rocks/corp/975a058b74909c99c34a22d266817bfb7b3f49c34e599099c96f3867b4b77443/) | 1173 | 1173 | 2 |
-| [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) | 1207 | 1396 | 86 |
+| [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) | 1195 | 1379 | 87 |
 | [First Squad](https://ws.tsl.rocks/corp/39bb6d19385b7eb6e2e71a979f21256463432b6e2e36ae4c55446abb1f6a0db1/) | 1100 | 1169 | 19 |
 | [FirstAllegiance](https://ws.tsl.rocks/corp/4bdc1a5a316da054182d474333d14b9ded14438e1dcd17eefeff189a180edbbf/) | 1186 | 1186 | 1 |
 | [fishwax](https://ws.tsl.rocks/corp/da598952db4b9797b5cdc41e8347477fdf8c2a14f9d96bb975c363cfc9fafeac/) | 1183 | 1183 | 1 |
@@ -860,7 +860,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [united unicorn](https://ws.tsl.rocks/corp/c4293f281cc7b1b07b39d9f146cf1dc843b7e22cdb34d9ab8762b07f5db3e276/) | 1219 | 1219 | 1 |
 | [UniversalCaos](https://ws.tsl.rocks/corp/e26f359b5b99ee70af7b959d528d32687bd940743bc55ae900138469c3fc6d78/) | 1203 | 1205 | 2 |
 | [universe leader](https://ws.tsl.rocks/corp/8d7722faac1d00f0aaa58497484f9b84b89bdf263ab2dc48b2ae14dedf6388f0/) | 1131 | 1148 | 11 |
-| [Unión latina](https://ws.tsl.rocks/corp/9919a50d277644f496c19d5becdf40abb251d000345f049632329f0b35b7fbf1/) | 1273 | 1345 | 56 |
+| [Unión latina](https://ws.tsl.rocks/corp/9919a50d277644f496c19d5becdf40abb251d000345f049632329f0b35b7fbf1/) | 1286 | 1363 | 57 |
 | [UNNP](https://ws.tsl.rocks/corp/c194ffe18357f9b24cb8d28b9ba0996dfafac36b31f7bfc69295f5bfd402cb41/) | 1169 | 1170 | 3 |
 | [UNSC](https://ws.tsl.rocks/corp/8744030b57ee77af0999b0e5f4ad2253e2486a5fcd922cf6c5c75d1798b89ba8/) | 1215 | 1219 | 6 |
 | [Urban Legends](https://ws.tsl.rocks/corp/03bfbe3df58b13546a651bc45ed306b09b2875f4813f6d5954a8868a23138fd9/) | 1173 | 1178 | 4 |

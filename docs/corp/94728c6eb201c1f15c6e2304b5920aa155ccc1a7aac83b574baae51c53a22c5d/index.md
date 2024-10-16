@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Galaxians
-description: W:18 L:19 D:0 Bonus ✅
+description: W:18 L:19 D:0 Bonus ❌
 date: 1728916189
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
