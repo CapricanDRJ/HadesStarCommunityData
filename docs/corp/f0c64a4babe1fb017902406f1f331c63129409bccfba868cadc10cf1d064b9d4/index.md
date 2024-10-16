@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​AFronteiraFinal
-description: W:22 L:7 D:1 Bonus ❌
-date: 1726576846
+description: W:23 L:7 D:1 Bonus ✅
+date: 1729082684
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1377 🔺  (57)|
-| ELO Competitive | 1408 🔺  (103)|
-| Total Matches | 30 |
-| Wins | 22 |
+| ELO Regular | 1387 🔺  (54)|
+| ELO Competitive | 1419 🔺  (93)|
+| Total Matches | 31 |
+| Wins | 23 |
 | Losses | 7 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 7 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726144846,1723489293,1722505115,1721349931,1720842327,1720232839,1719630296,1719195473,1717091550,1716462901,1715742134,1715051694,1714514375,1714509567,1714070887,1713202274,1713199269,1712407807,1711648789,1710603450,1710597739,1709345676,1708723974,1708095935,1706550436,1705962032,1705153342,1704238886,1701072246,1700072921];
+        let timestamps = [1728650684,1726144846,1723489293,1722505115,1721349931,1720842327,1720232839,1719630296,1719195473,1717091550,1716462901,1715742134,1715051694,1714514375,1714509567,1714070887,1713202274,1713199269,1712407807,1711648789,1710603450,1710597739,1709345676,1708723974,1708095935,1706550436,1705962032,1705153342,1704238886,1701072246,1700072921];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/16 | 37-5 | [Looping](https://ws.tsl.rocks/corp/08524086f45f2e6109e583baf940197663aa3e155c32fcdbb04f319343a5eb0c/) |
 | ✅ | 2024/09/17 | 30-5 | [Pyke Syndicate](https://ws.tsl.rocks/corp/1761635d6aaf9c2caf7abc37130e2d9aa48e7b4cc753ae4b701fde4b48abd3e1/) |
 | ❌ | 2024/08/17 | 6-26 | [Bl@ck/Galaxy ](https://ws.tsl.rocks/corp/76f8fe0dcd8b8c1cb8e0083f14c0b36c23bb9757a3af0f191b567774c02222a3/) |
 | ✅ | 2024/08/06 | 32-1 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |

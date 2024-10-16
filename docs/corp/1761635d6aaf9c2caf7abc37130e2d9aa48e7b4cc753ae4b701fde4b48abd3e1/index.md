@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Pyke Syndicate
-description: W:4 L:27 D:1 Bonus ✅
+description: W:4 L:27 D:1 Bonus ❌
 date: 1728453388
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1037 🔺  (1255)|
-| ELO Competitive | 1078 🔺  (1265)|
+| ELO Regular | 1037 🔺  (1256)|
+| ELO Competitive | 1078 🔺  (1266)|
 | Total Matches | 32 |
 | Wins | 4 |
 | Losses | 27 |

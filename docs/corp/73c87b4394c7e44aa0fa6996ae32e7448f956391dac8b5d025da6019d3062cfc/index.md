@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​The New Light
-description: W:18 L:20 D:1 Bonus ✅
+description: W:18 L:20 D:1 Bonus ❌
 date: 1728453388
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔺  (560)|
+| ELO Regular | 1190 🔺  (561)|
 | ELO Competitive | 1236 🔺  (403)|
 | Total Matches | 39 |
 | Wins | 18 |
