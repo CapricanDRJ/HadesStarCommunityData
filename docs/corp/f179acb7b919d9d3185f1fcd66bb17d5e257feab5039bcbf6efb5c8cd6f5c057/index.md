@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Star Blazers
-description: W:12 L:30 D:1 Bonus ✅
+description: W:12 L:30 D:1 Bonus ❌
 date: 1728918293
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1078 🔻  (1225)|
-| ELO Competitive | 1123 🔻  (1222)|
+| ELO Competitive | 1123 🔻  (1221)|
 | Total Matches | 43 |
 | Wins | 12 |
 | Losses | 30 |

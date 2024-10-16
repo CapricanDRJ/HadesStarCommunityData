@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Croce del Sud
-description: W:10 L:9 D:0 Bonus ✅
+description: W:10 L:9 D:0 Bonus ❌
 date: 1728442869
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
