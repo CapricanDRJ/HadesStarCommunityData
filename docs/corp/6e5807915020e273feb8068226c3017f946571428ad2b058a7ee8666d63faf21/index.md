@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Sussy Coloner
-description: W:19 L:49 D:3 Bonus ✅
+description: W:19 L:49 D:3 Bonus ❌
 date: 1728485247
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
