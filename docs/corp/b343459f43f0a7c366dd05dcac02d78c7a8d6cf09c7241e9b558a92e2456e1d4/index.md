@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Death Flight
-description: W:19 L:60 D:1 Bonus ✅
+description: W:19 L:60 D:1 Bonus ❌
 date: 1728953461
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
