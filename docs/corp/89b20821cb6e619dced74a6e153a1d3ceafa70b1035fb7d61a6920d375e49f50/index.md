@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Winter Star llc
-description: W:1 L:0 D:0 Bonus ❌
-date: 1728472018
+description: W:1 L:1 D:0 Bonus ❌
+date: 1729158422
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1208 🔺  (439)|
-| ELO Competitive | 1212 🔺  (523)|
-| Total Matches | 1 |
+| ELO Regular | 1192 🔻  (547)|
+| ELO Competitive | 1196 🔻  (630)|
+| Total Matches | 2 |
 | Wins | 1 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728040018];
+        let timestamps = [1728726422,1728040018];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/17 | 1-4 | [华夏联盟](https://ws.tsl.rocks/corp/2c648f8c6a0963f1a86b1a1ca787f67c02ee58838a809427b68d3546b89078ac/) |
 | ✅ | 2024/10/09 | 3-0 | [以太超星团](https://ws.tsl.rocks/corp/327addf616128dc5b01013e29e850c76d22ae27af199bcc6bba3b92cee7818ae/) |
 
 Corporation ID: 89b20821cb6e619dced74a6e153a1d3ceafa70b1035fb7d61a6920d375e49f50
