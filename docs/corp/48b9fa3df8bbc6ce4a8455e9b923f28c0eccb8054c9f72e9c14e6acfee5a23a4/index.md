@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Glashan
-description: W:6 L:34 D:0 Bonus ✅
-date: 1728636411
+description: W:7 L:34 D:0 Bonus ✅
+date: 1729130517
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1060 🔺  (1246)|
-| ELO Competitive | 1091 🔺  (1256)|
-| Total Matches | 40 |
-| Wins | 6 |
+| ELO Regular | 1078 🔺  (1228)|
+| ELO Competitive | 1112 🔺  (1241)|
+| Total Matches | 41 |
+| Wins | 7 |
 | Losses | 34 |
 | Draws | 0 |
-| Streak | 3 |
-| Streak Record | 3 |
+| Streak | 4 |
+| Streak Record | 4 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728204411,1727601870,1727004492,1726398780,1725787864,1725181470,1724582560,1722801727,1722252391,1721635415,1720908452,1720350642,1719737876,1718540949,1717319053,1716398911,1715929910,1715415531,1714116551,1713290015,1712204084,1711716400,1711273501,1710059603,1709452047,1708850777,1708250390,1707636465,1707047780,1706575379,1705838211,1705241095,1704637964,1704106951,1702829830,1702195377,1701692561,1701235917,1699938214,1698975892];
+        let timestamps = [1728698517,1728204411,1727601870,1727004492,1726398780,1725787864,1725181470,1724582560,1722801727,1722252391,1721635415,1720908452,1720350642,1719737876,1718540949,1717319053,1716398911,1715929910,1715415531,1714116551,1713290015,1712204084,1711716400,1711273501,1710059603,1709452047,1708850777,1708250390,1707636465,1707047780,1706575379,1705838211,1705241095,1704637964,1704106951,1702829830,1702195377,1701692561,1701235917,1699938214,1698975892];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/17 | 7-0 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
 | ✅ | 2024/10/11 | 6-0 | [Bon Ariens](https://ws.tsl.rocks/corp/1d0aa6d0fbc5e35422544e47ebd18d2fe21749780594630982f96fa08a850574/) |
 | ✅ | 2024/10/04 | 12-3 | [The Smeg Heads](https://ws.tsl.rocks/corp/4468352a700fed901168b249c273c37c4d32a032977d53e5261f9c596c1e5366/) |
 | ✅ | 2024/09/27 | 4-0 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |

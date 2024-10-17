@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Dark Halo
-description: W:3 L:4 D:0 Bonus ❌
-date: 1728400193
+description: W:4 L:4 D:0 Bonus ✅
+date: 1729130473
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔺  (636)|
-| ELO Competitive | 1191 🔺  (681)|
-| Total Matches | 7 |
-| Wins | 3 |
+| ELO Regular | 1208 🔺  (440)|
+| ELO Competitive | 1211 🔺  (532)|
+| Total Matches | 8 |
+| Wins | 4 |
 | Losses | 4 |
 | Draws | 0 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727968193,1726966932,1725972971,1725359058,1724848206,1724410963,1723976765];
+        let timestamps = [1728698473,1727968193,1726966932,1725972971,1725359058,1724848206,1724410963,1723976765];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/17 | 12-5 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 | ✅ | 2024/10/08 | 7-0 | [The Foundation ](https://ws.tsl.rocks/corp/dc528cdac6ee1f7bf4a20eeb16e7eea80e03a004a5fea4cd97727f6d57c0e9fe/) |
 | ✅ | 2024/09/27 | 6-0 | [遨游星空](https://ws.tsl.rocks/corp/1640e1377ab38731d93bcaf98ac0048f43709e3e73dd4bc670af0b7179a0753a/) |
 | ❌ | 2024/09/15 | 0-15 | [Nox Imperium](https://ws.tsl.rocks/corp/b60fb003fae650d1de18e7bca4fad04f9805501f4568d07ceb47bffdfeb613c1/) |
