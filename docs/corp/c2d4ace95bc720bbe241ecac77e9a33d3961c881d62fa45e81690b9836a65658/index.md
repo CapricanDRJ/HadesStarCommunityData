@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​青丘湖
-description: W:5 L:3 D:0 Bonus ✅
+description: W:5 L:3 D:0 Bonus ❌
 date: 1728565791
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

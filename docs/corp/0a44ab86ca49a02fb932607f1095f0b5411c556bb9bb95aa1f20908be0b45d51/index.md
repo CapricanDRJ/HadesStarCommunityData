@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​WHITE NOVA
-description: W:2 L:3 D:0 Bonus ✅
+description: W:2 L:3 D:0 Bonus ❌
 date: 1729102826
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
