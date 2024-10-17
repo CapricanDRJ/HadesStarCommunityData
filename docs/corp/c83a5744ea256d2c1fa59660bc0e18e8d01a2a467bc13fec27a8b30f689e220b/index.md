@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​SiriusStrawMoo
-description: W:14 L:5 D:1 Bonus ✅
+description: W:14 L:5 D:1 Bonus ❌
 date: 1728554671
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
