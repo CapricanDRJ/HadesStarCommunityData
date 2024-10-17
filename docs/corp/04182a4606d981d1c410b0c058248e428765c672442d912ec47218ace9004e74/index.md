@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Created
-description: W:11 L:25 D:1 Bonus ✅
-date: 1728591340
+description: W:12 L:25 D:1 Bonus ✅
+date: 1729124464
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1137 🔺  (1123)|
-| ELO Competitive | 1179 🔺  (936)|
-| Total Matches | 37 |
-| Wins | 11 |
+| ELO Regular | 1152 🔺  (1062)|
+| ELO Competitive | 1197 🔺  (627)|
+| Total Matches | 38 |
+| Wins | 12 |
 | Losses | 25 |
 | Draws | 1 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728159340,1727455530,1726597222,1726064019,1725303478,1724633653,1723992659,1723480576,1722718481,1722182373,1721098102,1720585655,1719918178,1719273605,1718488964,1717772584,1717019732,1715620754,1715614444,1714778584,1713922160,1713110627,1712329082,1711643680,1710429776,1709492017,1708558103,1707498994,1706392063,1705290382,1704538788,1703046112,1702217018,1701444015,1700925874,1700362649,1699849852];
+        let timestamps = [1728692464,1728159340,1727455530,1726597222,1726064019,1725303478,1724633653,1723992659,1723480576,1722718481,1722182373,1721098102,1720585655,1719918178,1719273605,1718488964,1717772584,1717019732,1715620754,1715614444,1714778584,1713922160,1713110627,1712329082,1711643680,1710429776,1709492017,1708558103,1707498994,1706392063,1705290382,1704538788,1703046112,1702217018,1701444015,1700925874,1700362649,1699849852];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/17 | 24-3 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
 | ✅ | 2024/10/10 | 15-8 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) |
 | ✅ | 2024/10/02 | 22-0 | [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) |
 | ❌ | 2024/09/22 | 7-25 | [CIS](https://ws.tsl.rocks/corp/3efaab24560531ff257e73bfb281a7e9c0a9d591ac5aff55d05d35f2fb5e1d73/) |

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​U.S.A
-description: W:16 L:25 D:0 Bonus ✅
+description: W:16 L:25 D:0 Bonus ❌
 date: 1728941142
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
