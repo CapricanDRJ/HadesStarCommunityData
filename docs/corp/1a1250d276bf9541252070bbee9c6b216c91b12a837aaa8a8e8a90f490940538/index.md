@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Emergence
-description: W:32 L:3 D:0 Bonus ✅
+description: W:32 L:3 D:0 Bonus ❌
 date: 1728573306
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
