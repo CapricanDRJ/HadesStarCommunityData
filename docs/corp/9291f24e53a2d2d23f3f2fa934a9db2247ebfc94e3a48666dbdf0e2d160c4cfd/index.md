@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​СССР
-description: W:38 L:32 D:2 Bonus ✅
+description: W:38 L:32 D:2 Bonus ❌
 date: 1728676688
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
