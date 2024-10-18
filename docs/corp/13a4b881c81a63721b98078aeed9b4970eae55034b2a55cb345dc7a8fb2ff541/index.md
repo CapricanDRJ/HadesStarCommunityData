@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Бороская Имерия
-description: W:3 L:4 D:0 Bonus ❌
-date: 1727551286
+description: W:4 L:4 D:0 Bonus ✅
+date: 1729244704
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1203 🔻  (454)|
-| ELO Competitive | 1209 🔻  (540)|
-| Total Matches | 7 |
-| Wins | 3 |
+| ELO Regular | 1216 🔺  (359)|
+| ELO Competitive | 1223 🔺  (439)|
+| Total Matches | 8 |
+| Wins | 4 |
 | Losses | 4 |
 | Draws | 0 |
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727119286,1726493368,1726045987,1702214613,1701215312,1699612062,1699010444];
+        let timestamps = [1728812704,1727119286,1726493368,1726045987,1702214613,1701215312,1699612062,1699010444];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/18 | 20-8 | [Stellaris](https://ws.tsl.rocks/corp/957f987a0920391d39769d5b2540f55eb7102778a12d395599ed7a4a7985e342/) |
 | ❌ | 2024/09/28 | 6-28 | [Z\. O\. V\. ](https://ws.tsl.rocks/corp/4f56534357f2407b25faee160f9dca4ee83b8f9ca4425ba472a47298faf54096/) |
 | ✅ | 2024/09/21 | 17-0 | [lesescargots](https://ws.tsl.rocks/corp/718c873931e9097064fd6ef580fe9d8761be712e0783e0b97d28344abd910623/) |
 | ❌ | 2024/09/16 | 5-23 | [CIS](https://ws.tsl.rocks/corp/3efaab24560531ff257e73bfb281a7e9c0a9d591ac5aff55d05d35f2fb5e1d73/) |
