@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​ItaFederalFleet
-description: W:17 L:7 D:1 Bonus ✅
+description: W:17 L:7 D:1 Bonus ❌
 date: 1728613874
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

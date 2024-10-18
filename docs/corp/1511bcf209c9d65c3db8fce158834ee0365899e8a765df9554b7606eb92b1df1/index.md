@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​太阳系联邦
-description: W:0 L:17 D:0 Bonus ❌
-date: 1728554671
+description: W:0 L:18 D:0 Bonus ❌
+date: 1729231178
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1020 🔻  (1268)|
-| ELO Competitive | 1088 🔻  (1261)|
-| Total Matches | 17 |
+| ELO Regular | 1015 🔻  (1271)|
+| ELO Competitive | 1085 🔻  (1262)|
+| Total Matches | 18 |
 | Wins | 0 |
-| Losses | 17 |
+| Losses | 18 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728122671,1722839585,1718722159,1718714643,1712976604,1711176742,1711167128,1708498674,1708492593,1703678413,1703678112,1703163917,1702986440,1700056326,1699604245,1699583500,1698714729];
+        let timestamps = [1728799178,1728122671,1722839585,1718722159,1718714643,1712976604,1711176742,1711167128,1708498674,1708492593,1703678413,1703678112,1703163917,1702986440,1700056326,1699604245,1699583500,1698714729];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/18 | 0-7 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ❌ | 2024/10/10 | 0-10 | [SiriusStrawMoo](https://ws.tsl.rocks/corp/c83a5744ea256d2c1fa59660bc0e18e8d01a2a467bc13fec27a8b30f689e220b/) |
 | ❌ | 2024/08/10 | 0-24 | [游徒之家](https://ws.tsl.rocks/corp/7ab5f6970c8703095b0589da6e5d648dc64a94ca6d901ef09d4949409b2c44b9/) |
 | ❌ | 2024/06/23 | 0-8 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
