@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​太阳系集团
-description: W:8 L:1 D:1 Bonus ❌
-date: 1728801988
+description: W:9 L:1 D:1 Bonus ✅
+date: 1729255828
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1307 🔻  (127)|
-| ELO Competitive | 1301 🔻  (242)|
-| Total Matches | 10 |
-| Wins | 8 |
+| ELO Regular | 1320 🔺  (112)|
+| ELO Competitive | 1314 🔺  (220)|
+| Total Matches | 11 |
+| Wins | 9 |
 | Losses | 1 |
 | Draws | 1 |
 | Streak Record | 5 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728369988,1727891861,1727883446,1727441099,1727239771,1726834112,1726375938,1725930607,1725451004,1724983135];
+        let timestamps = [1728823828,1728369988,1727891861,1727883446,1727441099,1727239771,1726834112,1726375938,1725930607,1725451004,1724983135];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/18 | 18-3 | [蓝星集团](https://ws.tsl.rocks/corp/9d718b80beaf9682ccde175169372b72f70b75bb593770762dfc9e990cbd098a/) |
 | ❌ | 2024/10/13 | 0-40 | [Mercury Sunset](https://ws.tsl.rocks/corp/2771ec0a0e9523f8a7b62dd470c9ab87bf2bcf2b13fb47f6f97ea826337b2b20/) |
 | ✅ | 2024/10/07 | 5-0 | [舰队联邦\[FF\]](https://ws.tsl.rocks/corp/a416c5b53512093490461bf0dab583fbb401f5850470774f6de02dafe6ca3655/) |
 | ✅ | 2024/10/07 | 22-0 | [Red Dawn](https://ws.tsl.rocks/corp/fee852a2530bc5e3cbe5b2a5fdb224d249eeceeb3688cfd71479344181831328/) |
