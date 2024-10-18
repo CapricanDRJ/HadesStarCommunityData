@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Stella☆Glow
-description: W:33 L:16 D:1 Bonus ✅
+description: W:33 L:16 D:1 Bonus ❌
 date: 1728597350
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
