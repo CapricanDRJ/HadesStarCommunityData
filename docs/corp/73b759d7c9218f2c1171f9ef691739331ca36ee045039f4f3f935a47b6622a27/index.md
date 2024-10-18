@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​AAAA
-description: W:8 L:10 D:3 Bonus ✅
+description: W:8 L:10 D:3 Bonus ❌
 date: 1729119958
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
