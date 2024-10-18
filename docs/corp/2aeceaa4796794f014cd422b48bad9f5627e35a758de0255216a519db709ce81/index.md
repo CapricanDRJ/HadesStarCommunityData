@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Order of Hades
-description: W:64 L:23 D:1 Bonus ✅
+description: W:64 L:23 D:1 Bonus ❌
 date: 1728650836
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Likapa
-description: W:79 L:8 D:0 Bonus ✅
+description: W:79 L:8 D:0 Bonus ❌
 date: 1728826930
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

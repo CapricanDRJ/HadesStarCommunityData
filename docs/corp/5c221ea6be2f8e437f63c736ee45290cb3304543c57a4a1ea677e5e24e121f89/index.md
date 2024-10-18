@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​第三舰队
-description: W:2 L:1 D:0 Bonus ✅
+description: W:2 L:1 D:0 Bonus ❌
 date: 1728650536
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
