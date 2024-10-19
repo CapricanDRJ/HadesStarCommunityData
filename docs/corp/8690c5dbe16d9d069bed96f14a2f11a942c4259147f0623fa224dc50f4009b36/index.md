@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Кулак
-description: W:15 L:60 D:0 Bonus ✅
+description: W:15 L:60 D:0 Bonus ❌
 date: 1729312640
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1054 🔻  (1252)|
-| ELO Competitive | 1241 🔻  (381)|
+| ELO Competitive | 1241 🔻  (382)|
 | Total Matches | 75 |
 | Wins | 15 |
 | Losses | 60 |
