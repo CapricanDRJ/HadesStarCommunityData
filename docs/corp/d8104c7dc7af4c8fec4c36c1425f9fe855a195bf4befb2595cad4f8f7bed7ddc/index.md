@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Nearland Ind
-description: W:53 L:21 D:0 Bonus ✅
+description: W:53 L:21 D:0 Bonus ❌
 date: 1728685103
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

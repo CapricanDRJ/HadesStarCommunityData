@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​闲散人员
-description: W:8 L:6 D:1 Bonus ✅
-date: 1728725662
+description: W:9 L:6 D:1 Bonus ✅
+date: 1729305730
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1217 🔺  (353)|
-| ELO Competitive | 1300 🔺  (243)|
-| Total Matches | 15 |
-| Wins | 8 |
+| ELO Regular | 1229 🔺  (305)|
+| ELO Competitive | 1310 🔺  (228)|
+| Total Matches | 16 |
+| Wins | 9 |
 | Losses | 6 |
 | Draws | 1 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728293662,1727785779,1727784876,1727324511,1727318502,1726760499,1726748476,1726234751,1726146048,1725739186,1725641218,1725171553,1724626142,1723973420,1723372086];
+        let timestamps = [1728873730,1728293662,1727785779,1727784876,1727324511,1727318502,1726760499,1726748476,1726234751,1726146048,1725739186,1725641218,1725171553,1724626142,1723973420,1723372086];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/19 | 8-4 | [imperio galacti](https://ws.tsl.rocks/corp/53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2/) |
 | ✅ | 2024/10/12 | 5-3 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ✅ | 2024/10/06 | 13-0 | [Slytherin](https://ws.tsl.rocks/corp/735830d4008f77aa6eca6830b6cba02e5decb3eaed66ab3305b7e39c0bf0c489/) |
 | ❌ | 2024/10/06 | 1-3 | [逐光起航](https://ws.tsl.rocks/corp/e6bb076aa209101b5fa1cbc40a614c241d71ab5eca143c733b81aed6302455e8/) |
