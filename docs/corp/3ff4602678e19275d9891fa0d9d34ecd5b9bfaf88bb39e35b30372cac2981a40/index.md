@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​pirates spatial
-description: W:48 L:36 D:0 Bonus ✅
+description: W:48 L:36 D:0 Bonus ❌
 date: 1729336379
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
