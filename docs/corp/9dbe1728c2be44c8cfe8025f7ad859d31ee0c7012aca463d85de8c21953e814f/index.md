@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​星域 
-description: W:1 L:0 D:0 Bonus ✅
+description: W:1 L:0 D:0 Bonus ❌
 date: 1728719053
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1217 🔺  (357)|
+| ELO Regular | 1217 🔺  (356)|
 | ELO Competitive | 1222 🔺  (446)|
 | Total Matches | 1 |
 | Wins | 1 |

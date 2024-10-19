@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​ANDROMEDA INC. 
-description: W:23 L:1 D:1 Bonus ❌
-date: 1728124618
+description: W:24 L:1 D:1 Bonus ✅
+date: 1729334576
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1436 🔺  (26)|
-| ELO Competitive | 1456 🔺  (68)|
-| Total Matches | 25 |
-| Wins | 23 |
+| ELO Regular | 1450 🔺  (23)|
+| ELO Competitive | 1471 🔺  (53)|
+| Total Matches | 26 |
+| Wins | 24 |
 | Losses | 1 |
 | Draws | 1 |
-| Streak | 16 |
-| Streak Record | 16 |
+| Streak | 17 |
+| Streak Record | 17 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727692618,1725280032,1723465846,1719831031,1716804248,1715602123,1713772236,1712573076,1711364471,1710152149,1709553309,1708946932,1708354365,1707737432,1706526990,1705926563,1704714894,1704108454,1702899250,1702293056,1701696769,1701084567,1700492184,1699879305,1699269781];
+        let timestamps = [1728902576,1727692618,1725280032,1723465846,1719831031,1716804248,1715602123,1713772236,1712573076,1711364471,1710152149,1709553309,1708946932,1708354365,1707737432,1706526990,1705926563,1704714894,1704108454,1702899250,1702293056,1701696769,1701084567,1700492184,1699879305,1699269781];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/19 | 36-20 | [Gemini Ind\.](https://ws.tsl.rocks/corp/c85dd45ed75136d750bdcc2d83740494dea9e0ba077eac1bbb2f1a442a92674c/) |
 | ✅ | 2024/10/05 | 41-0 | [Grater U](https://ws.tsl.rocks/corp/0e4162ae372602616761a4d3d17986722b9cc8c4371f9ddeadb3d0d37aace4fa/) |
 | ✅ | 2024/09/07 | 29-3 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
 | ✅ | 2024/08/17 | 30-6 | [Got Nothing](https://ws.tsl.rocks/corp/ea7879fd9cbed37b260ec2bf39339786942fb34216036a90e107ba525f5924e1/) |

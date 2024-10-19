@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Outland Ind.
-description: W:34 L:11 D:0 Bonus ✅
-date: 1728732574
+description: W:35 L:11 D:0 Bonus ✅
+date: 1729340888
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1418 🔺  (33)|
-| ELO Competitive | 1476 🔺  (49)|
-| Total Matches | 45 |
-| Wins | 34 |
+| ELO Regular | 1427 🔺  (31)|
+| ELO Competitive | 1485 🔺  (42)|
+| Total Matches | 46 |
+| Wins | 35 |
 | Losses | 11 |
 | Draws | 0 |
-| Streak | 8 |
-| Streak Record | 8 |
+| Streak | 9 |
+| Streak Record | 9 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728300574,1725219041,1724601497,1722857315,1720970064,1720366274,1719819013,1719235736,1717333182,1716761887,1715604527,1714945039,1714312751,1713699228,1713090790,1712486532,1711895793,1711382277,1710866367,1710361277,1709867297,1709824930,1709309318,1709306312,1708810818,1708275938,1707747049,1707252542,1706718714,1706199429,1705671723,1705160857,1704642774,1704137309,1703608395,1703076463,1702555133,1702027966,1701361368,1700872076,1700557399,1700262267,1699740140,1699194366,1698687065];
+        let timestamps = [1728908888,1728300574,1725219041,1724601497,1722857315,1720970064,1720366274,1719819013,1719235736,1717333182,1716761887,1715604527,1714945039,1714312751,1713699228,1713090790,1712486532,1711895793,1711382277,1710866367,1710361277,1709867297,1709824930,1709309318,1709306312,1708810818,1708275938,1707747049,1707252542,1706718714,1706199429,1705671723,1705160857,1704642774,1704137309,1703608395,1703076463,1702555133,1702027966,1701361368,1700872076,1700557399,1700262267,1699740140,1699194366,1698687065];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -127,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/19 | 45-5 | [Lights Off ](https://ws.tsl.rocks/corp/8a8b7e5b7a00ef709249daa4546d03bd85258cde01d35e1829a64ed95c3d6cca/) |
 | ✅ | 2024/10/12 | 24-11 | [On en a Gros \! ](https://ws.tsl.rocks/corp/eee919ee67cd5b7eb62548219cd7981660ab85d08ab0fe23b83f1849ca6cf8c6/) |
 | ✅ | 2024/09/06 | 22-5 | [United Stars ](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) |
 | ✅ | 2024/08/30 | 34-0 | [Trade Station](https://ws.tsl.rocks/corp/7003e286fe1a04aaa63e3aa318c164856c07e251a94b0496757140f5eda72cd7/) |
