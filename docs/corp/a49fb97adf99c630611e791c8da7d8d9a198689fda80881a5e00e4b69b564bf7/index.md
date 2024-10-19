@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Hinterm Mars
-description: W:31 L:32 D:0 Bonus ✅
+description: W:31 L:32 D:0 Bonus ❌
 date: 1728675185
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
