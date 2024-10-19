@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Sprite
-description: W:17 L:4 D:0 Bonus ❌
-date: 1728324462
+description: W:18 L:4 D:0 Bonus ✅
+date: 1729347201
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1375 🔺  (60)|
-| ELO Competitive | 1403 🔺  (107)|
-| Total Matches | 21 |
-| Wins | 17 |
+| ELO Regular | 1385 🔺  (57)|
+| ELO Competitive | 1419 🔺  (95)|
+| Total Matches | 22 |
+| Wins | 18 |
 | Losses | 4 |
 | Draws | 0 |
-| Streak | 14 |
-| Streak Record | 14 |
+| Streak | 15 |
+| Streak Record | 15 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727892462,1727445609,1726925163,1726461901,1725722656,1725393019,1725218139,1724660996,1724414569,1723906703,1723434894,1722986540,1722267119,1721602665,1720923175,1720298961,1719841551,1719105011,1715619252,1707759071,1700514430];
+        let timestamps = [1728915201,1727892462,1727445609,1726925163,1726461901,1725722656,1725393019,1725218139,1724660996,1724414569,1723906703,1723434894,1722986540,1722267119,1721602665,1720923175,1720298961,1719841551,1719105011,1715619252,1707759071,1700514430];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -114,11 +114,17 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) | 2 | 0 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/19 | 40-3 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
 | ✅ | 2024/10/07 | 30-0 | [Unión latina](https://ws.tsl.rocks/corp/9919a50d277644f496c19d5becdf40abb251d000345f049632329f0b35b7fbf1/) |
 | ✅ | 2024/10/02 | 32-0 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |
 | ✅ | 2024/09/26 | 30-1 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) |

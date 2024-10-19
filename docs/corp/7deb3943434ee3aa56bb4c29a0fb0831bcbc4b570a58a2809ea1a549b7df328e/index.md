@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Sith Empire
-description: W:24 L:35 D:1 Bonus ❌
-date: 1726902915
+description: W:24 L:36 D:1 Bonus ❌
+date: 1729344494
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1219 🔻  (343)|
-| ELO Competitive | 1397 🔻  (114)|
-| Total Matches | 60 |
+| ELO Regular | 1203 🔻  (460)|
+| ELO Competitive | 1385 🔻  (126)|
+| Total Matches | 61 |
 | Wins | 24 |
-| Losses | 35 |
+| Losses | 36 |
 | Draws | 1 |
 | Streak Record | 4 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726470915,1726385856,1725823934,1725759318,1725207318,1725161036,1724611116,1724001979,1723383808,1722767159,1722252992,1721644730,1720972169,1720461241,1719876414,1719243251,1718028716,1717329575,1716820479,1716207529,1715077230,1713214898,1711400009,1709535282,1709506443,1708847171,1708806611,1708327920,1708311396,1707699877,1707697774,1707260054,1707248333,1706542019,1706514971,1705960229,1705936783,1705290382,1705258229,1704758175,1703970225,1703960005,1703496297,1703483676,1702916384,1702910973,1702390434,1702323717,1701781520,1701756578,1701193668,1701144979,1700518337,1700452816,1699891930,1699856463,1699292920,1699234332,1698698494,1698693080];
+        let timestamps = [1728912494,1726470915,1726385856,1725823934,1725759318,1725207318,1725161036,1724611116,1724001979,1723383808,1722767159,1722252992,1721644730,1720972169,1720461241,1719876414,1719243251,1718028716,1717329575,1716820479,1716207529,1715077230,1713214898,1711400009,1709535282,1709506443,1708847171,1708806611,1708327920,1708311396,1707699877,1707697774,1707260054,1707248333,1706542019,1706514971,1705960229,1705936783,1705290382,1705258229,1704758175,1703970225,1703960005,1703496297,1703483676,1702916384,1702910973,1702390434,1702323717,1701781520,1701756578,1701193668,1701144979,1700518337,1700452816,1699891930,1699856463,1699292920,1699234332,1698698494,1698693080];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,11 +117,11 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Spacefleet](https://ws.tsl.rocks/corp/517f7b257f68936f7a95a478d6923776a2549b88897bae628fd35b23572d3cbd/) | 2 | 5 | 0 | 7 |
 | [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 2 | 1 | 0 | 3 |
 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) | 2 | 5 | 0 | 7 |
 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) | 0 | 4 | 0 | 4 |
 | [The Star League](https://ws.tsl.rocks/corp/f8b4a4ab48d0f4dc8e2d35c049289e4cd31960c34c0d114426164f223cdb5140/) | 2 | 0 | 0 | 2 |
-| [Spacefleet](https://ws.tsl.rocks/corp/517f7b257f68936f7a95a478d6923776a2549b88897bae628fd35b23572d3cbd/) | 2 | 4 | 0 | 6 |
 | [Auscorp ](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) | 0 | 2 | 0 | 2 |
 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) | 2 | 0 | 1 | 3 |
 | [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) | 1 | 1 | 0 | 2 |
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/19 | 31-41 | [Spacefleet](https://ws.tsl.rocks/corp/517f7b257f68936f7a95a478d6923776a2549b88897bae628fd35b23572d3cbd/) |
 | ❌ | 2024/09/21 | 3-30 | [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) |
 | ❌ | 2024/09/20 | 0-60 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | ✅ | 2024/09/13 | 70-41 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) |

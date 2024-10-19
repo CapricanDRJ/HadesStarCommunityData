@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Space Penguins
-description: W:44 L:15 D:0 Bonus ✅
+description: W:44 L:15 D:0 Bonus ❌
 date: 1729329768
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1386 🔻  (55)|
-| ELO Competitive | 1467 🔻  (57)|
+| ELO Competitive | 1467 🔻  (58)|
 | Total Matches | 59 |
 | Wins | 44 |
 | Losses | 15 |

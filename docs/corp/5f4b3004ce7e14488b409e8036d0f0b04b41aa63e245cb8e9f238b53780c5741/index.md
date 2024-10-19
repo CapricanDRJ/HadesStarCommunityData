@@ -1,19 +1,21 @@
 ---
 layout: page
 title: ​Т Е Н Ь
-description: W:1 L:1 D:0 Bonus ❌
-date: 1728517712
+description: W:2 L:1 D:0 Bonus ✅
+date: 1729342992
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1200 🔺  (488)|
-| ELO Competitive | 1223 🔺  (441)|
-| Total Matches | 2 |
-| Wins | 1 |
+| ELO Regular | 1223 🔺  (326)|
+| ELO Competitive | 1248 🔺  (357)|
+| Total Matches | 3 |
+| Wins | 2 |
 | Losses | 1 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 
 
 # Whitestar Match Day
@@ -30,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728085712,1728068279];
+        let timestamps = [1728910992,1728085712,1728068279];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/19 | 12-5 | [CIS](https://ws.tsl.rocks/corp/3efaab24560531ff257e73bfb281a7e9c0a9d591ac5aff55d05d35f2fb5e1d73/) |
 | ✅ | 2024/10/09 | 12-0 | [Sich\.ua](https://ws.tsl.rocks/corp/9fcd6d7c4fe7f8e39acf48585dfe9c6d3d14edc7781fe8caf85618b3e98c685d/) |
 | ❌ | 2024/10/09 | 0-17 | [U\.S\.A](https://ws.tsl.rocks/corp/6d7a18e9893736881762a4e1b687b55e7311d367267ff5a9cc8e45722b14ea06/) |
 
