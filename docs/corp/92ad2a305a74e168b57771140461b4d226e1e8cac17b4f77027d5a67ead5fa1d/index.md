@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​星光万丈
-description: W:20 L:27 D:1 Bonus ✅
+description: W:20 L:27 D:1 Bonus ❌
 date: 1728819715
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1218 🔻  (346)|
+| ELO Regular | 1218 🔻  (347)|
 | ELO Competitive | 1333 🔺  (193)|
 | Total Matches | 48 |
 | Wins | 20 |
