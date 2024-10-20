@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Pixies
-description: W:8 L:3 D:0 Bonus ✅
+description: W:8 L:3 D:0 Bonus ❌
 date: 1728839858
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

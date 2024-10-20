@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​lonewolf
-description: W:18 L:11 D:1 Bonus ❌
-date: 1728753012
+description: W:19 L:11 D:1 Bonus ✅
+date: 1729452391
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1345 🔺  (84)|
-| ELO Competitive | 1391 🔺  (120)|
-| Total Matches | 30 |
-| Wins | 18 |
+| ELO Regular | 1363 🔺  (71)|
+| ELO Competitive | 1417 🔺  (101)|
+| Total Matches | 31 |
+| Wins | 19 |
 | Losses | 11 |
 | Draws | 1 |
-| Streak | 9 |
-| Streak Record | 9 |
+| Streak | 10 |
+| Streak Record | 10 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728321012,1727721780,1727196807,1726634778,1726042082,1725385805,1724741230,1723962600,1723233553,1722404748,1721574411,1720841726,1719736374,1718492570,1717841780,1717278480,1716305777,1715670927,1714924606,1714282403,1713595572,1712988323,1712416222,1711251867,1710655734,1709991995,1709373620,1708763035,1708076101,1707547971];
+        let timestamps = [1729020391,1728321012,1727721780,1727196807,1726634778,1726042082,1725385805,1724741230,1723962600,1723233553,1722404748,1721574411,1720841726,1719736374,1718492570,1717841780,1717278480,1716305777,1715670927,1714924606,1714282403,1713595572,1712988323,1712416222,1711251867,1710655734,1709991995,1709373620,1708763035,1708076101,1707547971];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/20 | 40-3 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ✅ | 2024/10/12 | 18-1 | [Corp\. Estelar](https://ws.tsl.rocks/corp/aec01be59075af2b2995f74e3e14f47e2b3ce1bd3b74abc78200a1d6330b8a72/) |
 | ✅ | 2024/10/05 | 24-3 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ✅ | 2024/09/29 | 31-0 | [Retarts](https://ws.tsl.rocks/corp/1556331f722d00268e3c524b12efedac51051cf48e46b2513675774b9315a155/) |
