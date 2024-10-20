@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​夢幻之星＊分盟＊
-description: W:2 L:9 D:2 Bonus ❌
-date: 1714209943
+description: W:2 L:10 D:2 Bonus ❌
+date: 1729423231
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1124 🔻  (1155)|
-| ELO Competitive | 1140 🔻  (1199)|
-| Total Matches | 13 |
+| ELO Regular | 1114 🔻  (1181)|
+| ELO Competitive | 1131 🔻  (1219)|
+| Total Matches | 14 |
 | Wins | 2 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 2 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1713777943,1713290015,1709092976,1708621803,1705863899,1705501334,1704384329,1704039645,1703528757,1701343936,1701334620,1698761017,1698760716];
+        let timestamps = [1728991231,1713777943,1713290015,1709092976,1708621803,1705863899,1705501334,1704384329,1704039645,1703528757,1701343936,1701334620,1698761017,1698760716];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -122,6 +122,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/20 | 0-28 | [INFINITY STAR](https://ws.tsl.rocks/corp/e36eb12fc6bc8e4b826e6bcb46020cad3eb616497c4c14075e8b657715898a9f/) |
 | ❌ | 2024/04/27 | 3-19 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | ❌ | 2024/04/21 | 0-35 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |
 | ❌ | 2024/03/04 | 5-18 | [Scar](https://ws.tsl.rocks/corp/1fd57b7d50b68cb3883fd58e596f496821ebcc82dee1915bb7f34a402b03c44a/) |
