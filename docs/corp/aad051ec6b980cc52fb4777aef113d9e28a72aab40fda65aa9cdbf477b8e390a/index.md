@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​West Worlders
-description: W:6 L:20 D:0 Bonus ✅
+description: W:6 L:20 D:0 Bonus ❌
 date: 1729313241
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

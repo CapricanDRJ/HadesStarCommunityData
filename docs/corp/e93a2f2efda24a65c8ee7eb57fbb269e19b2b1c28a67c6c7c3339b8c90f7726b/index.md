@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Alpaca Haven
-description: W:18 L:12 D:0 Bonus ❌
-date: 1722169290
+description: W:18 L:13 D:0 Bonus ❌
+date: 1729379667
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1255 🔻  (225)|
-| ELO Competitive | 1280 🔻  (282)|
-| Total Matches | 30 |
+| ELO Regular | 1239 🔻  (268)|
+| ELO Competitive | 1270 🔻  (303)|
+| Total Matches | 31 |
 | Wins | 18 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 0 |
 | Streak Record | 5 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721737290,1720732028,1719938317,1718629297,1718136004,1717599772,1716775104,1716120399,1715610237,1715000615,1714040233,1711718204,1710262122,1709659076,1708972478,1708440607,1707884086,1707343948,1706772512,1706303710,1705855946,1705285875,1704820078,1704260218,1703542884,1702966872,1702405465,1701271508,1699759074,1698872304];
+        let timestamps = [1728947667,1721737290,1720732028,1719938317,1718629297,1718136004,1717599772,1716775104,1716120399,1715610237,1715000615,1714040233,1711718204,1710262122,1709659076,1708972478,1708440607,1707884086,1707343948,1706772512,1706303710,1705855946,1705285875,1704820078,1704260218,1703542884,1702966872,1702405465,1701271508,1699759074,1698872304];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,12 +117,14 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) | 0 | 2 | 0 | 2 |
 | [Game of Stars](https://ws.tsl.rocks/corp/ad5bb68e6076ee70e6715ecead226fc9880b66a87b68acb3098843f723c1562e/) | 1 | 1 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/19 | 3-42 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) |
 | ❌ | 2024/07/28 | 8-32 | [Ark](https://ws.tsl.rocks/corp/febd79d038ed9af667e201309060d9662ba825ba9be2b5b95418ac20a8e70c80/) |
 | ❌ | 2024/07/16 | 14-19 | [Game of Stars](https://ws.tsl.rocks/corp/ad5bb68e6076ee70e6715ecead226fc9880b66a87b68acb3098843f723c1562e/) |
 | ✅ | 2024/07/07 | 35-10 | [VoidCorp](https://ws.tsl.rocks/corp/b866417e5607f8434347bb5f986e37c4fa7dda68b3882f0135d186043d3f68a3/) |
