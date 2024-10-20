@@ -1,19 +1,21 @@
 ---
 layout: page
 title: ​Ещё один Миф
-description: W:1 L:5 D:0 Bonus ✅
-date: 1728851882
+description: W:2 L:5 D:0 Bonus ✅
+date: 1729448183
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 🔺  (966)|
-| ELO Competitive | 1168 🔺  (1059)|
-| Total Matches | 6 |
-| Wins | 1 |
+| ELO Regular | 1185 🔺  (740)|
+| ELO Competitive | 1191 🔺  (687)|
+| Total Matches | 7 |
+| Wins | 2 |
 | Losses | 5 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 
 
 # Whitestar Match Day
@@ -30,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728419882,1717029046,1714072389,1701679337,1701069242,1700088855];
+        let timestamps = [1729016183,1728419882,1717029046,1714072389,1701679337,1701069242,1700088855];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/20 | 21-3 | [Corp\. Estelar](https://ws.tsl.rocks/corp/aec01be59075af2b2995f74e3e14f47e2b3ce1bd3b74abc78200a1d6330b8a72/) |
 | ✅ | 2024/10/13 | 29-23 | [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) |
 | ❌ | 2024/06/04 | 4-10 | [Stone Legion](https://ws.tsl.rocks/corp/60cd15c27192f777f2e4abc413a83d4ab33bbccd7764a387afd2347dcd3d751a/) |
 | ❌ | 2024/04/30 | 2-32 | [Planet Express](https://ws.tsl.rocks/corp/be13b17a002cf203ab2a5a31d6c8024e7458b8eac569eb576be7f30844979c99/) |
