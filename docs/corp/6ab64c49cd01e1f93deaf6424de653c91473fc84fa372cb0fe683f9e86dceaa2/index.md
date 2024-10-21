@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​EMPIRE 
-description: W:2 L:0 D:0 Bonus ✅
-date: 1729027696
+description: W:3 L:0 D:0 Bonus ✅
+date: 1729536238
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1231 🔺  (297)|
-| ELO Competitive | 1236 🔺  (398)|
-| Total Matches | 2 |
-| Wins | 2 |
+| ELO Regular | 1238 🔺  (273)|
+| ELO Competitive | 1243 🔺  (377)|
+| Total Matches | 3 |
+| Wins | 3 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728595696,1728124774];
+        let timestamps = [1729104238,1728595696,1728124774];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/21 | 20-2 | [₩\.BRASIL\.₩](https://ws.tsl.rocks/corp/ff7f01b2f1db7b9c75e49da4c7367325905c020eba282a97f69f33d8c19419aa/) |
 | ✅ | 2024/10/15 | 12-2 | [CTG](https://ws.tsl.rocks/corp/9647a8507dfa5637a217d2d6a0ad47aefb6a4563f910ad46376c228450cff43c/) |
 | ✅ | 2024/10/10 | 12-3 | [游徒之家](https://ws.tsl.rocks/corp/7ab5f6970c8703095b0589da6e5d648dc64a94ca6d901ef09d4949409b2c44b9/) |
 

@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​северный шторм
-description: W:0 L:4 D:0 Bonus ❌
-date: 1728498776
+description: W:1 L:4 D:0 Bonus ✅
+date: 1729533531
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1151 🔻  (1059)|
-| ELO Competitive | 1166 🔻  (1074)|
-| Total Matches | 4 |
-| Wins | 0 |
+| ELO Regular | 1169 🔺  (939)|
+| ELO Competitive | 1188 🔺  (725)|
+| Total Matches | 5 |
+| Wins | 1 |
 | Losses | 4 |
 | Draws | 0 |
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728066776,1716316294,1716308181,1701709695];
+        let timestamps = [1729101531,1728066776,1716316294,1716308181,1701709695];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/21 | 3-2 | [Decode](https://ws.tsl.rocks/corp/848408d1ee1a3c08302a936241ea5cbe170cb66dc343d3339ed3ae4baeb82e57/) |
 | ❌ | 2024/10/09 | 3-17 | [U\.S\.A](https://ws.tsl.rocks/corp/6d7a18e9893736881762a4e1b687b55e7311d367267ff5a9cc8e45722b14ea06/) |
 | ❌ | 2024/05/26 | 0-22 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
 | ❌ | 2024/05/26 | 0-11 | [BoomTech](https://ws.tsl.rocks/corp/97c4db179d3ea995d3a56227f87c501f4baa4abbece2b25e09b636f0aa264bd7/) |

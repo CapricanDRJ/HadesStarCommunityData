@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​AntiCerberus
-description: W:3 L:4 D:1 Bonus ✅
+description: W:3 L:4 D:1 Bonus ❌
 date: 1729481929
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔻  (572)|
+| ELO Regular | 1190 🔻  (573)|
 | ELO Competitive | 1192 🔻  (666)|
 | Total Matches | 8 |
 | Wins | 3 |
