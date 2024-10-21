@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Red Alliance
-description: W:13 L:13 D:1 Bonus ❌
-date: 1728532135
+description: W:13 L:15 D:1 Bonus ❌
+date: 1729540447
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔺  (881)|
-| ELO Competitive | 1252 🔺  (348)|
-| Total Matches | 27 |
+| ELO Regular | 1148 🔻  (1070)|
+| ELO Competitive | 1238 🔻  (391)|
+| Total Matches | 29 |
 | Wins | 13 |
-| Losses | 13 |
+| Losses | 15 |
 | Draws | 1 |
 | Streak Record | 4 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728100135,1727635533,1726879489,1726856351,1726083255,1725913783,1725372578,1725042039,1724848206,1724376710,1724181949,1723912716,1723399438,1723397033,1722357271,1722254194,1721580724,1720907551,1720254776,1719602352,1718912682,1718912081,1718388587,1717872440,1717331679,1716615524,1716104487];
+        let timestamps = [1729108447,1729108146,1728100135,1727635533,1726879489,1726856351,1726083255,1725913783,1725372578,1725042039,1724848206,1724376710,1724181949,1723912716,1723399438,1723397033,1722357271,1722254194,1721580724,1720907551,1720254776,1719602352,1718912682,1718912081,1718388587,1717872440,1717331679,1716615524,1716104487];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/21 | 0-7 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb/) |
+| ❌ | 2024/10/21 | 4-6 | [Dirty Minds Inc](https://ws.tsl.rocks/corp/c8436a708008779e050bd40e98b52fc38b3782b31d5fdd99c74918af8005d778/) |
 | ✅ | 2024/10/10 | 9-0 | [探索舰队](https://ws.tsl.rocks/corp/8c465701390ed74d4d115e58d66289afb2eeef6247ca351a4cf88a0046e6fe55/) |
 | ❌ | 2024/10/04 | 3-4 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ❌ | 2024/09/26 | 2-12 | [Cydonia Order](https://ws.tsl.rocks/corp/e55f58931b283e38b70e189f9bbc51563a76e2ae541f8b2b207444fb36d5ddf9/) |

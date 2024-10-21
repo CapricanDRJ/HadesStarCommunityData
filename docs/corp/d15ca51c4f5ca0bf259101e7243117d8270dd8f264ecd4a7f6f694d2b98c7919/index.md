@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​WSC(no DISCORD)
-description: W:38 L:23 D:4 Bonus ✅
+description: W:38 L:23 D:4 Bonus ❌
 date: 1729428040
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

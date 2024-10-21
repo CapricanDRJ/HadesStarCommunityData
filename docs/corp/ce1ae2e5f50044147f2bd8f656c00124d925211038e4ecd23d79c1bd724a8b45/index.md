@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​SNSS
-description: W:0 L:3 D:0 Bonus ❌
-date: 1724969188
+description: W:0 L:4 D:0 Bonus ❌
+date: 1729539244
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1163 🔻  (983)|
-| ELO Competitive | 1165 🔻  (1085)|
-| Total Matches | 3 |
+| ELO Regular | 1156 🔻  (1032)|
+| ELO Competitive | 1163 🔻  (1098)|
+| Total Matches | 4 |
 | Wins | 0 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724537188,1708964363,1698695487];
+        let timestamps = [1729107244,1724537188,1708964363,1698695487];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/21 | 17-27 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) |
 | ❌ | 2024/08/29 | 6-28 | [VoidCorp](https://ws.tsl.rocks/corp/b866417e5607f8434347bb5f986e37c4fa7dda68b3882f0135d186043d3f68a3/) |
 | ❌ | 2024/03/02 | 3-26 | [ItBurnsWhenIEMP](https://ws.tsl.rocks/corp/1549586a8e69d1a5b1245b5cf33b7beb241b2343c07d1d800e5a2c4026c06438/) |
 | ❌ | 2023/11/04 | 4-21 | [ANZAC Warriors](https://ws.tsl.rocks/corp/dbb190c3127dbab2a3d6d58f1f8f63425f1dbd1949f6442fb2d162e66246b484/) |

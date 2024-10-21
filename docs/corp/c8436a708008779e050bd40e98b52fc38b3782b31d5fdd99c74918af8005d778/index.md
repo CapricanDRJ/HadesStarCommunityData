@@ -1,19 +1,21 @@
 ---
 layout: page
 title: ​Dirty Minds Inc
-description: W:1 L:0 D:0 Bonus ✅
-date: 1729089899
+description: W:2 L:0 D:0 Bonus ✅
+date: 1729540146
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1213 🔺  (413)|
-| ELO Competitive | 1214 🔺  (509)|
-| Total Matches | 1 |
-| Wins | 1 |
+| ELO Regular | 1226 🔺  (323)|
+| ELO Competitive | 1231 🔺  (414)|
+| Total Matches | 2 |
+| Wins | 2 |
 | Losses | 0 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 
 
 # Whitestar Match Day
@@ -30,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728657899];
+        let timestamps = [1729108146,1728657899];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/21 | 6-4 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 | ✅ | 2024/10/16 | 7-0 | [Empire of Light](https://ws.tsl.rocks/corp/5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc/) |
 
 Corporation ID: c8436a708008779e050bd40e98b52fc38b3782b31d5fdd99c74918af8005d778

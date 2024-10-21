@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Nebula
-description: W:4 L:17 D:0 Bonus ❌
-date: 1726243310
+description: W:4 L:18 D:0 Bonus ❌
+date: 1729543151
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1060 🔻  (1249)|
-| ELO Competitive | 1080 🔻  (1266)|
-| Total Matches | 21 |
+| ELO Regular | 1052 🔻  (1255)|
+| ELO Competitive | 1075 🔻  (1269)|
+| Total Matches | 22 |
 | Wins | 4 |
-| Losses | 17 |
+| Losses | 18 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725811310,1724358650,1721581326,1720995316,1719797081,1716773302,1715636381,1714339500,1713762924,1712539426,1710723953,1709786171,1708980292,1708119377,1706020025,1705277463,1704168862,1703477367,1702849670,1701647188,1700418254];
+        let timestamps = [1729111151,1725811310,1724358650,1721581326,1720995316,1719797081,1716773302,1715636381,1714339500,1713762924,1712539426,1710723953,1709786171,1708980292,1708119377,1706020025,1705277463,1704168862,1703477367,1702849670,1701647188,1700418254];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/21 | 3-43 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) |
 | ❌ | 2024/09/13 | 5-24 | [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) |
 | ❌ | 2024/08/27 | 14-25 | [StellaMysterium](https://ws.tsl.rocks/corp/cfaaa81ed93cc9361ade470c3414c73ecf77068badd68d624c7b3f486d142b10/) |
 | ❌ | 2024/07/26 | 0-9 | [SternenStaub](https://ws.tsl.rocks/corp/11f1e8a4d522eaef8cb40c95d07b4533097aa6509ddafd1d7efc1449e8b10f38/) |

@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​viCIOus
-description: W:6 L:1 D:0 Bonus ✅
-date: 1729204928
+description: W:7 L:1 D:0 Bonus ✅
+date: 1729540447
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1259 🔻  (211)|
-| ELO Competitive | 1277 🔺  (288)|
-| Total Matches | 7 |
-| Wins | 6 |
+| ELO Regular | 1270 🔺  (190)|
+| ELO Competitive | 1290 🔺  (263)|
+| Total Matches | 8 |
+| Wins | 7 |
 | Losses | 1 |
 | Draws | 0 |
 | Streak Record | 6 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728772928,1728661206,1728222142,1727772858,1727255994,1726803718,1726362718];
+        let timestamps = [1729108447,1728772928,1728661206,1728222142,1727772858,1727255994,1726803718,1726362718];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/21 | 7-0 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 | ❌ | 2024/10/17 | 1-17 | [hades star萌新指引站](https://ws.tsl.rocks/corp/06feef105195a4e2ec026c0e3e2c62fce31204dfe6be8e4b26863935efbf8a50/) |
 | ✅ | 2024/10/16 | 10-0 | [Диванные Стражи](https://ws.tsl.rocks/corp/49a7a7928d290fab1d2ee186755298adfde800efed6f3ef9703c06bbb4b8482d/) |
 | ✅ | 2024/10/11 | 4-0 | [逐光起航](https://ws.tsl.rocks/corp/e6bb076aa209101b5fa1cbc40a614c241d71ab5eca143c733b81aed6302455e8/) |

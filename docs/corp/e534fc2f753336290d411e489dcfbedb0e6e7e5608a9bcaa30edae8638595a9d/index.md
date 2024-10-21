@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​阿尔特拉太空港
-description: W:13 L:7 D:1 Bonus ✅
-date: 1729006652
+description: W:13 L:8 D:1 Bonus ✅
+date: 1729545556
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1264 🔺  (200)|
-| ELO Competitive | 1292 🔺  (262)|
-| Total Matches | 21 |
+| ELO Regular | 1258 🔻  (211)|
+| ELO Competitive | 1287 🔻  (269)|
+| Total Matches | 22 |
 | Wins | 13 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 1 |
-| Streak | 2 |
 | Streak Record | 6 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728574652,1727782134,1727778566,1727304984,1726742166,1726146649,1725721453,1725564295,1725085609,1724823179,1724336140,1724320812,1723630827,1723015985,1722509622,1722051622,1721616184,1721170235,1720710383,1720183555,1719644719];
+        let timestamps = [1729113556,1728574652,1727782134,1727778566,1727304984,1726742166,1726146649,1725721453,1725564295,1725085609,1724823179,1724336140,1724320812,1723630827,1723015985,1722509622,1722051622,1721616184,1721170235,1720710383,1720183555,1719644719];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/21 | 0-13 | [Ninth Planet](https://ws.tsl.rocks/corp/53297ed66c8c326d4cb4eebdee55172d3d64f122addd5d916b314f4ab557e21a/) |
 | ✅ | 2024/10/15 | 8-0 | [华夏三体舰队](https://ws.tsl.rocks/corp/a457b1d7612cdff92b655d33cf4ffd72b38aa796525cf0432423cfd0d01c6cf9/) |
 | ✅ | 2024/10/06 | 5-0 | [PDC](https://ws.tsl.rocks/corp/3cfc5c94fb18b34d3a1018bfbf6d4211d3cfb18ebb02bf7784cebc1e3627de4a/) |
 | ❌ | 2024/10/06 | 3-4 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |
