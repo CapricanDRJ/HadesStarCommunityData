@@ -1,19 +1,21 @@
 ---
 layout: page
 title: ​GALACTIC EMPIRE
-description: W:1 L:2 D:0 Bonus ❌
-date: 1728493664
+description: W:2 L:2 D:0 Bonus ✅
+date: 1729497162
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔺  (783)|
-| ELO Competitive | 1190 🔺  (695)|
-| Total Matches | 3 |
-| Wins | 1 |
+| ELO Regular | 1197 🔺  (516)|
+| ELO Competitive | 1210 🔺  (541)|
+| Total Matches | 4 |
+| Wins | 2 |
 | Losses | 2 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 
 
 # Whitestar Match Day
@@ -30,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728061664,1717209945,1707193940];
+        let timestamps = [1729065162,1728061664,1717209945,1707193940];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/21 | 9-4 | [StellaMysterium](https://ws.tsl.rocks/corp/cfaaa81ed93cc9361ade470c3414c73ecf77068badd68d624c7b3f486d142b10/) |
 | ✅ | 2024/10/09 | 1-0 | [Galaktika corp](https://ws.tsl.rocks/corp/c37872d1ea085402bf536c707a895610f72dafda4bede848405b7908b4523985/) |
 | ❌ | 2024/06/06 | 3-14 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
 | ❌ | 2024/02/11 | 3-23 | [元素联邦](https://ws.tsl.rocks/corp/e9d602d617d5c81270107c15a6d1f1717c5016abad802d3629f7f4301a58e95e/) |

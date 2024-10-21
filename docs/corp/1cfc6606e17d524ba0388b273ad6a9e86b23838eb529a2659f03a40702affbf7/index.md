@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Lofty Mountain
-description: W:5 L:0 D:0 Bonus ❌
-date: 1728120413
+description: W:6 L:0 D:0 Bonus ✅
+date: 1729497976
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1276 🔺  (175)|
-| ELO Competitive | 1284 🔺  (272)|
-| Total Matches | 5 |
-| Wins | 5 |
+| ELO Regular | 1288 🔺  (153)|
+| ELO Competitive | 1304 🔺  (235)|
+| Total Matches | 6 |
+| Wins | 6 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 5 |
-| Streak Record | 5 |
+| Streak | 6 |
+| Streak Record | 6 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727688413,1727134610,1723929849,1722161630,1720494897];
+        let timestamps = [1729065976,1727688413,1727134610,1723929849,1722161630,1720494897];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/21 | 40-0 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ✅ | 2024/10/05 | 30-0 | [  边界  ](https://ws.tsl.rocks/corp/86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a/) |
 | ✅ | 2024/09/28 | 36-0 | [SiriusStrawMoo](https://ws.tsl.rocks/corp/c83a5744ea256d2c1fa59660bc0e18e8d01a2a467bc13fec27a8b30f689e220b/) |
 | ✅ | 2024/08/22 | 40-0 | [使命白星](https://ws.tsl.rocks/corp/88e828c55c07286950a3296b00ca2a7a9cc2f1a0139e9cf4c6e54229f821e952/) |
