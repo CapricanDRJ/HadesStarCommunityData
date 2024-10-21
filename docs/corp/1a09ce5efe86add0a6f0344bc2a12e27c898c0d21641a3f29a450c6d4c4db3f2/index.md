@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Helion Prime
-description: W:11 L:6 D:0 Bonus ✅
+description: W:11 L:6 D:0 Bonus ❌
 date: 1728870811
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
