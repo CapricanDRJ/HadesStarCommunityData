@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​云浪山庄↕
-description: W:22 L:81 D:1 Bonus ✅
+description: W:22 L:81 D:1 Bonus ❌
 date: 1729389579
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
