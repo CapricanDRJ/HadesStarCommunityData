@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Дом Датэ
-description: W:29 L:25 D:0 Bonus ✅
+description: W:29 L:25 D:0 Bonus ❌
 date: 1728969686
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

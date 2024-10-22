@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​AAAA
-description: W:8 L:10 D:3 Bonus ❌
-date: 1729119958
+description: W:8 L:11 D:3 Bonus ❌
+date: 1729579807
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1200 🔻  (489)|
-| ELO Competitive | 1232 🔻  (408)|
-| Total Matches | 21 |
+| ELO Regular | 1192 🔻  (547)|
+| ELO Competitive | 1225 🔻  (435)|
+| Total Matches | 22 |
 | Wins | 8 |
-| Losses | 10 |
+| Losses | 11 |
 | Draws | 3 |
 | Streak Record | 4 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728687958,1728226991,1727753979,1727304984,1726836816,1726375938,1725942623,1725428471,1724906805,1724416673,1723698140,1723233853,1722627424,1721784774,1721230334,1720713845,1720059735,1719616476,1718317514,1717863724,1716056105];
+        let timestamps = [1729147807,1728687958,1728226991,1727753979,1727304984,1726836816,1726375938,1725942623,1725428471,1724906805,1724416673,1723698140,1723233853,1722627424,1721784774,1721230334,1720713845,1720059735,1719616476,1718317514,1717863724,1716056105];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/22 | 4-5 | [Osmium Star llc](https://ws.tsl.rocks/corp/edd3ac94ea8ee1cf441e904ff29c48c21fa5db83af6eb5a6e83ae236b3872b22/) |
 | ❌ | 2024/10/16 | 4-7 | [哈迪斯之星，启动！](https://ws.tsl.rocks/corp/bc58305a02f7392f340d26a3becd4784de7360dd5264df9e85d73116b93496d8/) |
 | ✅ | 2024/10/11 | 12-0 | [Kelebra](https://ws.tsl.rocks/corp/0b1ce787fadd83433c02fb7f56a905ea64f918c1396ac37b8591891adf232eb6/) |
 | ✅ | 2024/10/06 | 10-0 | [11th Engineers](https://ws.tsl.rocks/corp/7341e9a33a1baf2162870c795632dcd551d3c624b06456dac041fa049ba67a9a/) |
