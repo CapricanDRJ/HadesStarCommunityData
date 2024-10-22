@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Españoles
-description: W:19 L:53 D:0 Bonus ✅
+description: W:19 L:53 D:0 Bonus ❌
 date: 1729492655
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

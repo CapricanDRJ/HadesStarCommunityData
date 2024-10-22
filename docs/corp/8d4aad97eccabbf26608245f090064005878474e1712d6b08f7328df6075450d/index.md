@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Серебряная орда
-description: W:52 L:40 D:2 Bonus ✅
+description: W:52 L:40 D:2 Bonus ❌
 date: 1729586818
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
