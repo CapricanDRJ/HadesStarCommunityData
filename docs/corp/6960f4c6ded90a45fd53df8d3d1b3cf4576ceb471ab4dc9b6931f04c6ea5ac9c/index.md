@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​代代守护你的神明
-description: W:7 L:11 D:0 Bonus ❌
-date: 1728289614
+description: W:8 L:12 D:0 Bonus ✅
+date: 1729602647
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1140 🔻  (1103)|
-| ELO Competitive | 1228 🔻  (427)|
-| Total Matches | 18 |
-| Wins | 7 |
-| Losses | 11 |
+| ELO Regular | 1142 🔻  (1099)|
+| ELO Competitive | 1241 🔺  (385)|
+| Total Matches | 20 |
+| Wins | 8 |
+| Losses | 12 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727857614,1727851590,1727393328,1727385043,1726900821,1726897215,1704115668,1703654974,1703651669,1703091793,1703063540,1702289450,1701775209,1701439807,1701325004,1700793630,1700327785,1699721199];
+        let timestamps = [1729170647,1729170346,1727857614,1727851590,1727393328,1727385043,1726900821,1726897215,1704115668,1703654974,1703651669,1703091793,1703063540,1702289450,1701775209,1701439807,1701325004,1700793630,1700327785,1699721199];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/22 | 0-18 | [Empire of Light](https://ws.tsl.rocks/corp/5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc/) |
+| ✅ | 2024/10/22 | 3-0 | [Winter Star llc](https://ws.tsl.rocks/corp/89b20821cb6e619dced74a6e153a1d3ceafa70b1035fb7d61a6920d375e49f50/) |
 | ❌ | 2024/10/07 | 0-8 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) |
 | ❌ | 2024/10/07 | 3-21 | [普罗米修斯](https://ws.tsl.rocks/corp/f39d00b1bbbf87c158931fd887f37a588019d0b1fd4f2441fbc675674b71423a/) |
 | ❌ | 2024/10/01 | 3-7 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
