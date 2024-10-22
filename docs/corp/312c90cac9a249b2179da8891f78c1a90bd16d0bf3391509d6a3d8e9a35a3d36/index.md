@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​United Stars 
-description: W:25 L:21 D:3 Bonus ✅
+description: W:25 L:21 D:3 Bonus ❌
 date: 1728949555
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1226 🔺  (321)|
+| ELO Regular | 1226 🔺  (320)|
 | ELO Competitive | 1295 🔺  (256)|
 | Total Matches | 49 |
 | Wins | 25 |
