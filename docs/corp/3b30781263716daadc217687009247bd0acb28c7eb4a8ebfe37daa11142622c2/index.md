@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​雪月永恒
-description: W:7 L:3 D:0 Bonus ❌
-date: 1728568496
+description: W:7 L:4 D:0 Bonus ❌
+date: 1729618280
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1234 🔻  (292)|
-| ELO Competitive | 1251 🔻  (354)|
-| Total Matches | 10 |
+| ELO Regular | 1218 🔻  (353)|
+| ELO Competitive | 1234 🔻  (403)|
+| Total Matches | 11 |
 | Wins | 7 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
 | Streak Record | 5 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728136496,1725779035,1723705352,1719677178,1716989374,1716468008,1716020566,1715434462,1714548948,1713544812];
+        let timestamps = [1729186280,1728136496,1725779035,1723705352,1719677178,1716989374,1716468008,1716020566,1715434462,1714548948,1713544812];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/22 | 1-12 | [Zeta Division ](https://ws.tsl.rocks/corp/29335e52f4b0c4ae92db98c395d2f4969201d0ddc31bb7f112bd6d3eeb97182c/) |
 | ❌ | 2024/10/10 | 0-12 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 | ✅ | 2024/09/13 | 1-0 | [Sich\.ua](https://ws.tsl.rocks/corp/9fcd6d7c4fe7f8e39acf48585dfe9c6d3d14edc7781fe8caf85618b3e98c685d/) |
 | ❌ | 2024/08/20 | 0-5 | [荣耀之星](https://ws.tsl.rocks/corp/4334fd4d4ffbc89487deaec7bb38025aba46209b810578436882be271fdbff23/) |

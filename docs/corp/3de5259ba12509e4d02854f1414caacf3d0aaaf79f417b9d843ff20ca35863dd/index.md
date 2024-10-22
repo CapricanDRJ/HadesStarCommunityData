@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Atlas Star llc.
-description: W:39 L:9 D:0 Bonus ✅
+description: W:39 L:9 D:0 Bonus ❌
 date: 1728993425
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

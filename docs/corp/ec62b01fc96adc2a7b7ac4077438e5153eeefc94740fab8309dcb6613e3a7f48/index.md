@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Bacon Warriors
-description: W:18 L:16 D:0 Bonus ✅
+description: W:18 L:16 D:0 Bonus ❌
 date: 1728999436
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
