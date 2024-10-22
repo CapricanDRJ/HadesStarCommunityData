@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Polaris
-description: W:0 L:1 D:0 Bonus ❌
-date: 1729027395
+description: W:0 L:2 D:0 Bonus ❌
+date: 1729626698
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1192 🔻  (555)|
-| ELO Competitive | 1197 🔻  (629)|
-| Total Matches | 1 |
+| ELO Regular | 1185 🔻  (685)|
+| ELO Competitive | 1192 🔻  (678)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728595395];
+        let timestamps = [1729194698,1728595395];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/22 | 9-38 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) |
 | ❌ | 2024/10/15 | 5-57 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) |
 
 Corporation ID: 4802fe8a63e61d18eb0407dc5121d8e0e6a81117a7f47998566752e0f8d846f3
