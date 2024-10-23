@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​QONQR 
-description: W:2 L:4 D:0 Bonus ✅
+description: W:2 L:4 D:0 Bonus ❌
 date: 1729586116
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
