@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​银河护卫队
-description: W:2 L:1 D:0 Bonus ❌
-date: 1728754514
+description: W:2 L:2 D:0 Bonus ❌
+date: 1729703326
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1212 🔺  (417)|
-| ELO Competitive | 1214 🔺  (510)|
-| Total Matches | 3 |
+| ELO Regular | 1194 🔻  (533)|
+| ELO Competitive | 1196 🔻  (630)|
+| Total Matches | 4 |
 | Wins | 2 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728322514,1727870219,1726669030];
+        let timestamps = [1729271326,1728322514,1727870219,1726669030];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/23 | 0-2 | [麻雀集团](https://ws.tsl.rocks/corp/bf5e5ea02e24918ed66d543902f4315f957c79c9bc1bd434c034158e9f648abe/) |
 | ✅ | 2024/10/12 | 4-0 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) |
 | ❌ | 2024/10/07 | 0-19 | [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) |
 | ✅ | 2024/09/23 | 4-2 | [Omega corp](https://ws.tsl.rocks/corp/17140be6e5915edf2d09ebcf246a7c2650cf39def04823c9a04bdf81ff8fc38e/) |

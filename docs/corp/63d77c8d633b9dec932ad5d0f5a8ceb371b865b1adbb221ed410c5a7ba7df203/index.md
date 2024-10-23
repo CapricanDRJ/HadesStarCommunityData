@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Cerulean Star
-description: W:24 L:17 D:0 Bonus ✅
-date: 1729172556
+description: W:25 L:17 D:0 Bonus ✅
+date: 1729703026
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1280 🔺  (171)|
-| ELO Competitive | 1354 🔺  (168)|
-| Total Matches | 41 |
-| Wins | 24 |
+| ELO Regular | 1289 🔺  (151)|
+| ELO Competitive | 1364 🔺  (156)|
+| Total Matches | 42 |
+| Wins | 25 |
 | Losses | 17 |
 | Draws | 0 |
-| Streak | 4 |
-| Streak Record | 4 |
+| Streak | 5 |
+| Streak Record | 5 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728740556,1728273231,1727534562,1726018949,1717983037,1716812964,1715658310,1715148138,1714349113,1713515664,1712644011,1712030712,1711336008,1710827307,1710174086,1709571640,1708946031,1708433695,1707886490,1707153372,1706539313,1706086436,1705988773,1705332749,1704738640,1704690256,1704078708,1703361670,1702785349,1702163523,1702148794,1701707290,1701076153,1700995603,1700564011,1700395708,1699976082,1699946629,1699377061,1699347911,1698832850];
+        let timestamps = [1729271026,1728740556,1728273231,1727534562,1726018949,1717983037,1716812964,1715658310,1715148138,1714349113,1713515664,1712644011,1712030712,1711336008,1710827307,1710174086,1709571640,1708946031,1708433695,1707886490,1707153372,1706539313,1706086436,1705988773,1705332749,1704738640,1704690256,1704078708,1703361670,1702785349,1702163523,1702148794,1701707290,1701076153,1700995603,1700564011,1700395708,1699976082,1699946629,1699377061,1699347911,1698832850];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) | 1 | 1 | 0 | 2 |
 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) | 2 | 0 | 0 | 2 |
 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) | 0 | 2 | 0 | 2 |
 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) | 2 | 0 | 0 | 2 |
@@ -129,6 +130,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/23 | 18-15 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
 | ✅ | 2024/10/17 | 12-5 | [SUN OF 3LANDS](https://ws.tsl.rocks/corp/874f472303f6616789f5df41609dba8d64b95e8b9291aaf23a05e4c397a2f44a/) |
 | ✅ | 2024/10/12 | 24-6 | [Dumpster Fire](https://ws.tsl.rocks/corp/f191bf7efb93ca805453b3e11aef9278976a4c70fe9790e7813f28fcdf899121/) |
 | ✅ | 2024/10/03 | 20-10 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
