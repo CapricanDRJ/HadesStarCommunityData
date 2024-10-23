@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Созидание 2.0
-description: W:11 L:16 D:0 Bonus ✅
+description: W:11 L:16 D:0 Bonus ❌
 date: 1729018377
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
