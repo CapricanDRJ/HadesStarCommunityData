@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Spica​
-description: W:37 L:6 D:1 Bonus ❌
-date: 1727903460
+description: W:37 L:7 D:1 Bonus ❌
+date: 1729661551
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1396 🔺  (49)|
-| ELO Competitive | 1446 🔺  (77)|
-| Total Matches | 44 |
+| ELO Regular | 1380 🔻  (61)|
+| ELO Competitive | 1432 🔻  (89)|
+| Total Matches | 45 |
 | Wins | 37 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 1 |
-| Streak | 3 |
 | Streak Record | 23 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727471460,1726266549,1721561786,1721555475,1720616307,1720608192,1719746591,1719738177,1718533736,1717919620,1717327170,1716720406,1716701472,1716094860,1715520399,1714884344,1714784893,1714203384,1714193168,1713598576,1713595572,1712995534,1712979263,1712381966,1712374154,1711787393,1711768688,1711167128,1710585116,1709968255,1709965251,1709363704,1709296094,1708764838,1708757024,1708216738,1708214334,1707768091,1707763581,1707322551,1707322551,1706889111,1706873482,1706430523];
+        let timestamps = [1729229551,1727471460,1726266549,1721561786,1721555475,1720616307,1720608192,1719746591,1719738177,1718533736,1717919620,1717327170,1716720406,1716701472,1716094860,1715520399,1714884344,1714784893,1714203384,1714193168,1713598576,1713595572,1712995534,1712979263,1712381966,1712374154,1711787393,1711768688,1711167128,1710585116,1709968255,1709965251,1709363704,1709296094,1708764838,1708757024,1708216738,1708214334,1707768091,1707763581,1707322551,1707322551,1706889111,1706873482,1706430523];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -127,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/23 | 5-17 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
 | ✅ | 2024/10/02 | 16-6 | [SILVER TERRA](https://ws.tsl.rocks/corp/60e0173f2a13dc7ad21bb11315df4bdc5f9bf97737ba3b89c0d035621fc2766f/) |
 | ✅ | 2024/09/18 | 12-8 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) |
 | ✅ | 2024/07/26 | 13-10 | [INFINITY STAR](https://ws.tsl.rocks/corp/e36eb12fc6bc8e4b826e6bcb46020cad3eb616497c4c14075e8b657715898a9f/) |
