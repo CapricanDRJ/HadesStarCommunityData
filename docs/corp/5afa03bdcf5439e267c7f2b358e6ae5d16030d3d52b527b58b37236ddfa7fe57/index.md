@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​行星联合军
-description: W:7 L:9 D:0 Bonus ❌
-date: 1721973350
+description: W:7 L:10 D:0 Bonus ❌
+date: 1729688296
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔺  (942)|
-| ELO Competitive | 1187 🔺  (760)|
-| Total Matches | 16 |
+| ELO Regular | 1151 🔻  (1059)|
+| ELO Competitive | 1173 🔻  (989)|
+| Total Matches | 17 |
 | Wins | 7 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721541350,1706496342,1705030136,1704570949,1704125888,1703685626,1703174438,1702735758,1702298467,1701865375,1701490000,1701432593,1700998308,1700478057,1699971272,1699525197];
+        let timestamps = [1729256296,1721541350,1706496342,1705030136,1704570949,1704125888,1703685626,1703174438,1702735758,1702298467,1701865375,1701490000,1701432593,1700998308,1700478057,1699971272,1699525197];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/23 | 0-6 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
 | ✅ | 2024/07/26 | 7-0 | [公共星际集团](https://ws.tsl.rocks/corp/f57faccefed6ab561fa61ac8e6f60708928e3a8b5caa5172c97c2a29348aed37/) |
 | ❌ | 2024/02/03 | 0-12 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
 | ❌ | 2024/01/17 | 1-2 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) |
