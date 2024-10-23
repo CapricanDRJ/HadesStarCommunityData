@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Decode
-description: W:37 L:22 D:1 Bonus ✅
+description: W:37 L:22 D:1 Bonus ❌
 date: 1729533531
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1197 🔻  (518)|
-| ELO Competitive | 1325 🔻  (207)|
+| ELO Competitive | 1325 🔻  (206)|
 | Total Matches | 60 |
 | Wins | 37 |
 | Losses | 22 |
