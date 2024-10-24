@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​华夏联盟
-description: W:2 L:3 D:1 Bonus ✅
+description: W:2 L:3 D:1 Bonus ❌
 date: 1729743499
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (770)|
-| ELO Competitive | 1202 🔻  (566)|
+| ELO Regular | 1184 🔻  (771)|
+| ELO Competitive | 1202 🔻  (568)|
 | Total Matches | 6 |
 | Wins | 2 |
 | Losses | 3 |
