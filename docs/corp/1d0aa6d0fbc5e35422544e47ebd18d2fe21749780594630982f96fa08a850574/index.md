@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Bon Ariens
-description: W:0 L:3 D:0 Bonus ❌
-date: 1728636411
+description: W:1 L:3 D:0 Bonus ✅
+date: 1729790180
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1147 🔻  (1081)|
-| ELO Competitive | 1154 🔻  (1143)|
-| Total Matches | 3 |
-| Wins | 0 |
+| ELO Regular | 1162 🔺  (993)|
+| ELO Competitive | 1170 🔺  (1054)|
+| Total Matches | 4 |
+| Wins | 1 |
 | Losses | 3 |
 | Draws | 0 |
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728204411,1727327215,1726822483];
+        let timestamps = [1729358180,1728204411,1727327215,1726822483];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/24 | 3-0 | [舰队联邦\[FF\]](https://ws.tsl.rocks/corp/a416c5b53512093490461bf0dab583fbb401f5850470774f6de02dafe6ca3655/) |
 | ❌ | 2024/10/11 | 0-6 | [Glashan](https://ws.tsl.rocks/corp/48b9fa3df8bbc6ce4a8455e9b923f28c0eccb8054c9f72e9c14e6acfee5a23a4/) |
 | ❌ | 2024/10/01 | 3-7 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |
 | ❌ | 2024/09/25 | 0-3 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |

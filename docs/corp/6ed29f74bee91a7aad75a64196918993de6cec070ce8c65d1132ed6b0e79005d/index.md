@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​sk cz nebula
-description: W:14 L:8 D:0 Bonus ❌
-date: 1729105230
+description: W:15 L:8 D:0 Bonus ✅
+date: 1729793787
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1255 🔻  (222)|
-| ELO Competitive | 1312 🔻  (227)|
-| Total Matches | 22 |
-| Wins | 14 |
+| ELO Regular | 1265 🔺  (202)|
+| ELO Competitive | 1325 🔺  (207)|
+| Total Matches | 23 |
+| Wins | 15 |
 | Losses | 8 |
 | Draws | 0 |
 | Streak Record | 6 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728673230,1727380108,1726922157,1724404590,1724364994,1723826159,1723194180,1722689925,1721325292,1720622919,1719533540,1719025364,1718397605,1717720893,1716056105,1714885846,1713644853,1713028591,1710664448,1708932511,1706980769,1705259732];
+        let timestamps = [1729361787,1728673230,1727380108,1726922157,1724404590,1724364994,1723826159,1723194180,1722689925,1721325292,1720622919,1719533540,1719025364,1718397605,1717720893,1716056105,1714885846,1713644853,1713028591,1710664448,1708932511,1706980769,1705259732];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/24 | 22-1 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |
 | ❌ | 2024/10/16 | 11-14 | [Warriorlords](https://ws.tsl.rocks/corp/a78c29b9e1c9f793205ba10d796dcabc114ef43d86f0bd34a43a56dc6da768aa/) |
 | ❌ | 2024/10/01 | 7-17 | [Galaxians](https://ws.tsl.rocks/corp/94728c6eb201c1f15c6e2304b5920aa155ccc1a7aac83b574baae51c53a22c5d/) |
 | ✅ | 2024/09/26 | 19-1 | [普罗米修斯](https://ws.tsl.rocks/corp/f39d00b1bbbf87c158931fd887f37a588019d0b1fd4f2441fbc675674b71423a/) |
