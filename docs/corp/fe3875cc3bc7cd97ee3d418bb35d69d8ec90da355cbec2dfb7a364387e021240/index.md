@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Pixies
-description: W:8 L:3 D:0 Bonus ❌
-date: 1728839858
+description: W:9 L:3 D:0 Bonus ✅
+date: 1729773045
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1256 🔺  (215)|
-| ELO Competitive | 1280 🔺  (283)|
-| Total Matches | 11 |
-| Wins | 8 |
+| ELO Regular | 1267 🔺  (198)|
+| ELO Competitive | 1292 🔺  (263)|
+| Total Matches | 12 |
+| Wins | 9 |
 | Losses | 3 |
 | Draws | 0 |
-| Streak | 5 |
-| Streak Record | 5 |
+| Streak | 6 |
+| Streak Record | 6 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728407858,1726828101,1725132775,1724245169,1723070982,1722380712,1721551868,1721012742,1719068646,1718006175,1714828760];
+        let timestamps = [1729341045,1728407858,1726828101,1725132775,1724245169,1723070982,1722380712,1721551868,1721012742,1719068646,1718006175,1714828760];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/24 | 22-0 | [Galaktika corp](https://ws.tsl.rocks/corp/c37872d1ea085402bf536c707a895610f72dafda4bede848405b7908b4523985/) |
 | ✅ | 2024/10/13 | 19-3 | [RedStar Raiding](https://ws.tsl.rocks/corp/83a1c4f1576eec7dce037eb5b64b2455ca3affb9d3072108c5d4d3eba88b4570/) |
 | ✅ | 2024/09/25 | 10-4 | [imperio estelar](https://ws.tsl.rocks/corp/c4c7de80ce172ac4cb77f23b5833bc20f87ea3f6e64ed09120b0e95113460bb4/) |
 | ✅ | 2024/09/05 | 16-0 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |

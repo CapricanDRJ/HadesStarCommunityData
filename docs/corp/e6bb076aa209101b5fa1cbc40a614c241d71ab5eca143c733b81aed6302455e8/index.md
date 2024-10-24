@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​逐光起航
-description: W:7 L:34 D:6 Bonus ✅
-date: 1729257934
+description: W:7 L:35 D:6 Bonus ✅
+date: 1729766734
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1040 🔺  (1262)|
-| ELO Competitive | 1089 🔺  (1264)|
-| Total Matches | 47 |
+| ELO Regular | 1033 🔻  (1265)|
+| ELO Competitive | 1082 🔻  (1267)|
+| Total Matches | 48 |
 | Wins | 7 |
-| Losses | 34 |
+| Losses | 35 |
 | Draws | 6 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728825934,1728222142,1727784876,1727194102,1726738260,1726571581,1726225374,1725792973,1725359058,1724634716,1724494208,1724028127,1723361568,1723285839,1722840781,1722317602,1721359040,1720857653,1716897111,1716893204,1715859906,1715425447,1714903873,1714095522,1713507853,1713012632,1712301422,1711843083,1710881994,1710243490,1709726137,1708857088,1708373602,1707720907,1707283789,1706794449,1706285075,1705837610,1705395554,1704951101,1704348868,1703839266,1703254377,1702673364,1701754475,1701215011,1699956545];
+        let timestamps = [1729334734,1728825934,1728222142,1727784876,1727194102,1726738260,1726571581,1726225374,1725792973,1725359058,1724634716,1724494208,1724028127,1723361568,1723285839,1722840781,1722317602,1721359040,1720857653,1716897111,1716893204,1715859906,1715425447,1714903873,1714095522,1713507853,1713012632,1712301422,1711843083,1710881994,1710243490,1709726137,1708857088,1708373602,1707720907,1707283789,1706794449,1706285075,1705837610,1705395554,1704951101,1704348868,1703839266,1703254377,1702673364,1701754475,1701215011,1699956545];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -116,6 +116,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [闲散人员](https://ws.tsl.rocks/corp/4f0fa774b66e4f744a305525f92e7252205ae754df0f3982b577b32caf32cdbc/) | 1 | 1 | 0 | 2 |
 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) | 0 | 2 | 0 | 2 |
 | [很多星球的社会主义团](https://ws.tsl.rocks/corp/dcac8e5bb444db7feec894f3be5a6f373fd0025a6ec79ccc125dd8b7bf652bc2/) | 0 | 1 | 1 | 2 |
 
@@ -123,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/24 | 3-5 | [闲散人员](https://ws.tsl.rocks/corp/4f0fa774b66e4f744a305525f92e7252205ae754df0f3982b577b32caf32cdbc/) |
 | ✅ | 2024/10/18 | 9-0 | [情谊永存](https://ws.tsl.rocks/corp/a3fee40ae9e62b95f50c653b7acf4990fee7b21461807dc90da90d429063a98c/) |
 | ❌ | 2024/10/11 | 0-4 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb/) |
 | ✅ | 2024/10/06 | 3-1 | [闲散人员](https://ws.tsl.rocks/corp/4f0fa774b66e4f744a305525f92e7252205ae754df0f3982b577b32caf32cdbc/) |

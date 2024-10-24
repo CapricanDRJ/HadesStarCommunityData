@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​RUFORS
-description: W:9 L:6 D:0 Bonus ✅
+description: W:9 L:6 D:0 Bonus ❌
 date: 1729144896
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
