@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Warriorlords
-description: W:27 L:14 D:0 Bonus ✅
+description: W:27 L:14 D:0 Bonus ❌
 date: 1729105230
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

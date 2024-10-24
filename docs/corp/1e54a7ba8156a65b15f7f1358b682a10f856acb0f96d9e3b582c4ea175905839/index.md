@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Spaceballs
-description: W:12 L:16 D:0 Bonus ❌
-date: 1721155611
+description: W:13 L:16 D:0 Bonus ✅
+date: 1729721361
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1197 🔻  (515)|
-| ELO Competitive | 1225 🔻  (438)|
-| Total Matches | 28 |
-| Wins | 12 |
+| ELO Regular | 1214 🔺  (399)|
+| ELO Competitive | 1242 🔺  (387)|
+| Total Matches | 29 |
+| Wins | 13 |
 | Losses | 16 |
 | Draws | 0 |
 | Streak Record | 2 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1720723611,1720117144,1719520319,1718913884,1718303087,1717720893,1717098463,1716483333,1715891158,1715268918,1714673019,1714060368,1713459481,1712855819,1712250059,1711645183,1711031915,1710433082,1709829738,1709229690,1708630820,1708039446,1707406142,1706805269,1706203637,1705598098,1699969769,1699506570];
+        let timestamps = [1729289361,1720723611,1720117144,1719520319,1718913884,1718303087,1717720893,1717098463,1716483333,1715891158,1715268918,1714673019,1714060368,1713459481,1712855819,1712250059,1711645183,1711031915,1710433082,1709829738,1709229690,1708630820,1708039446,1707406142,1706805269,1706203637,1705598098,1699969769,1699506570];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/23 | 16-11 | [Эдем](https://ws.tsl.rocks/corp/a61dc2c639a91f5b725d43d306ba2eebe1770c92499d7d92086b7a097f939c0d/) |
 | ❌ | 2024/07/16 | 1-9 | [Dark Training](https://ws.tsl.rocks/corp/f889cafae8c2e0c622ae5494ce013504bf204ba00f7c7b44c61985588ee8f53c/) |
 | ❌ | 2024/07/09 | 3-21 | [Atlas Star llc\.](https://ws.tsl.rocks/corp/3de5259ba12509e4d02854f1414caacf3d0aaaf79f417b9d843ff20ca35863dd/) |
 | ✅ | 2024/07/02 | 26-0 | [Unión latina](https://ws.tsl.rocks/corp/9919a50d277644f496c19d5becdf40abb251d000345f049632329f0b35b7fbf1/) |
