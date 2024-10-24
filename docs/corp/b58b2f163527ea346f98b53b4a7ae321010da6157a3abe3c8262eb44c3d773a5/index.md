@@ -1,19 +1,21 @@
 ---
 layout: page
 title: ​Sons of Liberty
-description: W:1 L:0 D:0 Bonus ❌
-date: 1729075771
+description: W:2 L:0 D:0 Bonus ✅
+date: 1729751107
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1219 🔺  (345)|
-| ELO Competitive | 1226 🔺  (435)|
-| Total Matches | 1 |
-| Wins | 1 |
+| ELO Regular | 1241 🔺  (262)|
+| ELO Competitive | 1250 🔺  (355)|
+| Total Matches | 2 |
+| Wins | 2 |
 | Losses | 0 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 
 
 # Whitestar Match Day
@@ -30,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728643771];
+        let timestamps = [1729319107,1728643771];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/24 | 33-3 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) |
 | ✅ | 2024/10/16 | 13-3 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |
 
 Corporation ID: b58b2f163527ea346f98b53b4a7ae321010da6157a3abe3c8262eb44c3d773a5

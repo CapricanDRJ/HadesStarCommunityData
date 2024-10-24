@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Glashan
-description: W:7 L:34 D:0 Bonus ✅
+description: W:7 L:34 D:0 Bonus ❌
 date: 1729130517
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1078 🔺  (1231)|
-| ELO Competitive | 1112 🔺  (1244)|
+| ELO Regular | 1078 🔺  (1232)|
+| ELO Competitive | 1112 🔺  (1245)|
 | Total Matches | 41 |
 | Wins | 7 |
 | Losses | 34 |

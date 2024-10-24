@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​揽月宫
-description: W:7 L:4 D:0 Bonus ✅
-date: 1729236889
+description: W:8 L:4 D:0 Bonus ✅
+date: 1729744631
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1265 🔻  (200)|
-| ELO Competitive | 1297 🔺  (250)|
-| Total Matches | 11 |
-| Wins | 7 |
+| ELO Regular | 1276 🔺  (178)|
+| ELO Competitive | 1316 🔺  (218)|
+| Total Matches | 12 |
+| Wins | 8 |
 | Losses | 4 |
 | Draws | 0 |
 | Streak Record | 5 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728804889,1728785353,1728289121,1727744316,1727741912,1724718397,1724285959,1723849241,1723389219,1722502411,1720823398];
+        let timestamps = [1729312631,1728804889,1728785353,1728289121,1727744316,1727741912,1724718397,1724285959,1723849241,1723389219,1722502411,1720823398];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/24 | 12-0 | [Sich\.ua](https://ws.tsl.rocks/corp/9fcd6d7c4fe7f8e39acf48585dfe9c6d3d14edc7781fe8caf85618b3e98c685d/) |
 | ❌ | 2024/10/18 | 1-21 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) |
 | ✅ | 2024/10/18 | 17-1 | [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) |
 | ✅ | 2024/10/12 | 12-2 | [物竞天择，适者生存](https://ws.tsl.rocks/corp/37d348d8b1c6a4ff8594f28196a593a0ba8fb565b62b6bbcc6dae46c2de660cf/) |

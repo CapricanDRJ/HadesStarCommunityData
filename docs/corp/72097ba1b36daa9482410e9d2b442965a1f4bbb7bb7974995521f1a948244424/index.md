@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​八月政府
-description: W:2 L:25 D:1 Bonus ❌
-date: 1728200351
+description: W:2 L:26 D:1 Bonus ❌
+date: 1729745998
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1013 🔻  (1276)|
-| ELO Competitive | 1055 🔻  (1282)|
-| Total Matches | 28 |
+| ELO Regular | 1008 🔻  (1277)|
+| ELO Competitive | 1049 🔻  (1285)|
+| Total Matches | 29 |
 | Wins | 2 |
-| Losses | 25 |
+| Losses | 26 |
 | Draws | 1 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727768351,1726283973,1725437784,1724911613,1723769964,1722992248,1722477171,1721903170,1721294638,1720697755,1719639611,1719204486,1718695712,1718255303,1717751242,1716869167,1716003522,1715427851,1714574466,1714128868,1713682404,1713014165,1712446573,1710377202,1709560821,1708241675,1707465939,1705576459];
+        let timestamps = [1729313998,1727768351,1726283973,1725437784,1724911613,1723769964,1722992248,1722477171,1721903170,1721294638,1720697755,1719639611,1719204486,1718695712,1718255303,1717751242,1716869167,1716003522,1715427851,1714574466,1714128868,1713682404,1713014165,1712446573,1710377202,1709560821,1708241675,1707465939,1705576459];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -122,6 +122,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/24 | 4-21 | [The Allegiant](https://ws.tsl.rocks/corp/1c4cfbcf7902769aff100297d9174153f4c0528ed07918ba494f763a1315ffc6/) |
 | ❌ | 2024/10/06 | 3-25 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) |
 | ❌ | 2024/09/19 | 3-29 | [StellaMysterium](https://ws.tsl.rocks/corp/cfaaa81ed93cc9361ade470c3414c73ecf77068badd68d624c7b3f486d142b10/) |
 | ❌ | 2024/09/09 | 8-22 | [Kratos](https://ws.tsl.rocks/corp/1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b/) |
