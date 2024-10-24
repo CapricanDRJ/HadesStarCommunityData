@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​哈迪斯之星，启动！
-description: W:6 L:5 D:0 Bonus ✅
+description: W:6 L:5 D:0 Bonus ❌
 date: 1729566586
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1224 🔻  (328)|
+| ELO Regular | 1224 🔻  (329)|
 | ELO Competitive | 1237 🔻  (400)|
 | Total Matches | 11 |
 | Wins | 6 |

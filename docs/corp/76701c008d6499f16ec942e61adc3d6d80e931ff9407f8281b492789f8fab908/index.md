@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​New Star
-description: W:2 L:3 D:0 Bonus ❌
-date: 1728004125
+description: W:2 L:4 D:0 Bonus ❌
+date: 1729736683
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1206 🔺  (442)|
-| ELO Competitive | 1213 🔺  (519)|
-| Total Matches | 5 |
+| ELO Regular | 1196 🔻  (522)|
+| ELO Competitive | 1206 🔻  (551)|
+| Total Matches | 6 |
 | Wins | 2 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727572125,1721851190,1714178748,1712961583,1701681441];
+        let timestamps = [1729304683,1727572125,1721851190,1714178748,1712961583,1701681441];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/24 | 20-27 | [Red Dawn](https://ws.tsl.rocks/corp/fee852a2530bc5e3cbe5b2a5fdb224d249eeceeb3688cfd71479344181831328/) |
 | ✅ | 2024/10/04 | 10-9 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) |
 | ❌ | 2024/07/29 | 17-32 | [Soylent Corp\.](https://ws.tsl.rocks/corp/9f978f9cca690b76981d538d63260cd39d51427e5d69412113ccad02cc7cac2d/) |
 | ❌ | 2024/05/02 | 10-23 | [BrazilCorp\.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) |

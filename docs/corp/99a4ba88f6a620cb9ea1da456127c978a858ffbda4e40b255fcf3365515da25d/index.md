@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Industrial W.O
-description: W:31 L:27 D:2 Bonus ✅
+description: W:31 L:27 D:2 Bonus ❌
 date: 1729117554
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
