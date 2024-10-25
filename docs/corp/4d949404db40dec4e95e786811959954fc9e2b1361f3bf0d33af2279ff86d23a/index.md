@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Out landers
-description: W:10 L:9 D:1 Bonus ❌
-date: 1725493572
+description: W:10 L:10 D:1 Bonus ❌
+date: 1729851481
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1224 🔻  (329)|
-| ELO Competitive | 1245 🔻  (370)|
-| Total Matches | 20 |
+| ELO Regular | 1215 🔻  (378)|
+| ELO Competitive | 1239 🔻  (394)|
+| Total Matches | 21 |
 | Wins | 10 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 1 |
 | Streak Record | 4 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725061572,1723992659,1723178855,1722341340,1721235143,1720239149,1719578609,1718286254,1717331679,1716209332,1715648097,1714224116,1712908998,1711893989,1711104025,1709810205,1706265840,1705495323,1701728033,1700310049];
+        let timestamps = [1729419481,1725061572,1723992659,1723178855,1722341340,1721235143,1720239149,1719578609,1718286254,1717331679,1716209332,1715648097,1714224116,1712908998,1711893989,1711104025,1709810205,1706265840,1705495323,1701728033,1700310049];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/25 | 3-26 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |
 | ❌ | 2024/09/04 | 3-21 | [  边界  ](https://ws.tsl.rocks/corp/86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a/) |
 | ↔️ | 2024/08/23 | 3-3 | [Created](https://ws.tsl.rocks/corp/04182a4606d981d1c410b0c058248e428765c672442d912ec47218ace9004e74/) |
 | ❌ | 2024/08/14 | 5-10 | [对，进就进人少的（分团）](https://ws.tsl.rocks/corp/69a860d3020745a9088fa70fa7ebc4caaa8a6181832961bcd607fbfa627203f3/) |

@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​星河绮梦
-description: W:21 L:5 D:0 Bonus ✅
-date: 1729369148
+description: W:22 L:5 D:0 Bonus ✅
+date: 1729853283
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1354 🔺  (83)|
-| ELO Competitive | 1403 🔺  (112)|
-| Total Matches | 26 |
-| Wins | 21 |
+| ELO Regular | 1358 🔺  (77)|
+| ELO Competitive | 1413 🔺  (108)|
+| Total Matches | 27 |
+| Wins | 22 |
 | Losses | 5 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 8 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728937148,1728387715,1727951659,1727515929,1727071502,1726560764,1726078446,1725626489,1725192589,1724693181,1724236672,1723791898,1723125969,1722575433,1722126770,1721678081,1720591966,1720150201,1719666356,1719229123,1718794879,1718710135,1718207523,1717713682,1716678338,1714826356];
+        let timestamps = [1729421283,1728937148,1728387715,1727951659,1727515929,1727071502,1726560764,1726078446,1725626489,1725192589,1724693181,1724236672,1723791898,1723125969,1722575433,1722126770,1721678081,1720591966,1720150201,1719666356,1719229123,1718794879,1718710135,1718207523,1717713682,1716678338,1714826356];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/25 | 25-0 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |
 | ✅ | 2024/10/19 | 7-5 | [FURIA 2\.0](https://ws.tsl.rocks/corp/9c52bc79384398f4052be65dc0f7ee091ac2d3cf14488efd1f4e3310b1f12574/) |
 | ✅ | 2024/10/13 | 9-0 | [星光万丈](https://ws.tsl.rocks/corp/92ad2a305a74e168b57771140461b4d226e1e8cac17b4f77027d5a67ead5fa1d/) |
 | ❌ | 2024/10/08 | 2-8 | [Osmium Star llc](https://ws.tsl.rocks/corp/edd3ac94ea8ee1cf441e904ff29c48c21fa5db83af6eb5a6e83ae236b3872b22/) |
