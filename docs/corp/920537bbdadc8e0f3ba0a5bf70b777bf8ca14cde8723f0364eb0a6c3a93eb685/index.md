@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​UFO
-description: W:5 L:6 D:0 Bonus ❌
-date: 1729270263
+description: W:6 L:6 D:0 Bonus ✅
+date: 1729872822
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1220 🔻  (343)|
-| ELO Competitive | 1232 🔻  (416)|
-| Total Matches | 11 |
-| Wins | 5 |
+| ELO Regular | 1240 🔺  (266)|
+| ELO Competitive | 1255 🔺  (339)|
+| Total Matches | 12 |
+| Wins | 6 |
 | Losses | 6 |
 | Draws | 0 |
 | Streak Record | 2 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728838263,1727625615,1727021024,1726417121,1708882635,1708285856,1707672831,1707077836,1706468695,1705864062,1704216945];
+        let timestamps = [1729440822,1728838263,1727625615,1727021024,1726417121,1708882635,1708285856,1707672831,1707077836,1706468695,1705864062,1704216945];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/25 | 20-9 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ❌ | 2024/10/18 | 6-31 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |
 | ✅ | 2024/10/04 | 9-6 | [Star Destroyers](https://ws.tsl.rocks/corp/32ba20918cd8720602fefb3bc676a6ba5195314479040f70eadc728fbbc2698d/) |
 | ❌ | 2024/09/27 | 6-39 | [Interestelar](https://ws.tsl.rocks/corp/cc9ed2698988a35d6dbb9e9762d6575b28204ab15fd7208b64e8108878a4b8f9/) |

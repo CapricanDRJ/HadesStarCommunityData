@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​The Witness
-description: W:14 L:3 D:0 Bonus ❌
-date: 1729144896
+description: W:14 L:4 D:0 Bonus ❌
+date: 1729876430
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1328 🔺  (110)|
-| ELO Competitive | 1328 🔺  (204)|
-| Total Matches | 17 |
+| ELO Regular | 1307 🔻  (132)|
+| ELO Competitive | 1308 🔻  (230)|
+| Total Matches | 18 |
 | Wins | 14 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
 | Streak Record | 12 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728712896,1728698473,1727967893,1727959474,1727509618,1727445008,1726916748,1726897215,1726361281,1726346492,1725864192,1725859385,1725361461,1724873154,1724401648,1723902493,1723397033];
+        let timestamps = [1729444430,1728712896,1728698473,1727967893,1727959474,1727509618,1727445008,1726916748,1726897215,1726361281,1726346492,1725864192,1725859385,1725361461,1724873154,1724401648,1723902493,1723397033];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/25 | 5-10 | [Corp\. Luminá](https://ws.tsl.rocks/corp/a90638cb4761b5ed889376762f6612c65407072ac9befa4530989c338be72862/) |
 | ✅ | 2024/10/17 | 11-0 | [Sich\.ua](https://ws.tsl.rocks/corp/9fcd6d7c4fe7f8e39acf48585dfe9c6d3d14edc7781fe8caf85618b3e98c685d/) |
 | ❌ | 2024/10/17 | 5-12 | [Dark Halo](https://ws.tsl.rocks/corp/f6ed7c780faf133d3fe411b9ed88480608a56064328539891d1b4348242954f6/) |
 | ✅ | 2024/10/08 | 5-1 | [星舰国际](https://ws.tsl.rocks/corp/2142b75cc6d1c522c423a860fbda7616d7745f8fee25121ec3a8f26068b0f3b5/) |

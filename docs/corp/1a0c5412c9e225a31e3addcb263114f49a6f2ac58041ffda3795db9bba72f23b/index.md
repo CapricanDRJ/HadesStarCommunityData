@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Kratos
-description: W:44 L:24 D:0 Bonus ✅
+description: W:44 L:24 D:0 Bonus ❌
 date: 1729259437
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

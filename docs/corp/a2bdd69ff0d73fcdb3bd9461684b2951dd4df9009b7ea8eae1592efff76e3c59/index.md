@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Curcubeu
-description: W:17 L:11 D:0 Bonus ❌
-date: 1729844869
+description: W:17 L:12 D:0 Bonus ❌
+date: 1729878534
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 🔻  (473)|
-| ELO Competitive | 1291 🔻  (261)|
-| Total Matches | 28 |
+| ELO Regular | 1190 🔻  (578)|
+| ELO Competitive | 1303 🔻  (239)|
+| Total Matches | 29 |
 | Wins | 17 |
-| Losses | 11 |
+| Losses | 12 |
 | Draws | 0 |
 | Streak Record | 8 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729412869,1714896362,1711964603,1711003672,1710484759,1710017539,1709432183,1707210766,1706989785,1706707301,1706545325,1706258027,1706096652,1705810331,1705658500,1705232679,1705187607,1704799340,1704323478,1702724036,1702221529,1701762888,1701323201,1700867568,1700406531,1699970972,1699528201,1699010444];
+        let timestamps = [1729446534,1729412869,1714896362,1711964603,1711003672,1710484759,1710017539,1709432183,1707210766,1706989785,1706707301,1706545325,1706258027,1706096652,1705810331,1705658500,1705232679,1705187607,1704799340,1704323478,1702724036,1702221529,1701762888,1701323201,1700867568,1700406531,1699970972,1699528201,1699010444];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/25 | 0-41 | [Дом Датэ](https://ws.tsl.rocks/corp/10cbcbd91c4084657bdab01ef573cc48170fbc4dd0ab533f96712f1cb6097ff2/) |
 | ❌ | 2024/10/25 | 6-58 | [Gummibärenbande](https://ws.tsl.rocks/corp/7111d11716d236254b3fe2fdc0df09519cbed1ee9cc2c7691983534a3d8e1366/) |
 | ❌ | 2024/05/10 | 0-39 | [DTC](https://ws.tsl.rocks/corp/4be10b4fa74e6bc45ea50d720527bec8db0312f419a419f203b09350d663c755/) |
 | ❌ | 2024/04/06 | 21-29 | [On en a Gros \! ](https://ws.tsl.rocks/corp/eee919ee67cd5b7eb62548219cd7981660ab85d08ab0fe23b83f1849ca6cf8c6/) |
