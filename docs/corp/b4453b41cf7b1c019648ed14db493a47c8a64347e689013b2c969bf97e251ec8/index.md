@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Czech Legion
-description: W:14 L:3 D:0 Bonus ✅
-date: 1729281992
+description: W:15 L:3 D:0 Bonus ✅
+date: 1729884847
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1348 🔺  (85)|
-| ELO Competitive | 1386 🔺  (127)|
-| Total Matches | 17 |
-| Wins | 14 |
+| ELO Regular | 1364 🔺  (71)|
+| ELO Competitive | 1412 🔺  (109)|
+| Total Matches | 18 |
+| Wins | 15 |
 | Losses | 3 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 9 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728849992,1728238977,1727638239,1727029441,1726433057,1725821228,1725213330,1724622536,1724004985,1723401542,1722544485,1721894457,1720976118,1719862292,1718657254,1717434775,1716332308];
+        let timestamps = [1729452847,1728849992,1728238977,1727638239,1727029441,1726433057,1725821228,1725213330,1724622536,1724004985,1723401542,1722544485,1721894457,1720976118,1719862292,1718657254,1717434775,1716332308];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/25 | 17-3 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ✅ | 2024/10/18 | 24-3 | [Cyber Star](https://ws.tsl.rocks/corp/358bbbde0af23c5f41cdb4fde95bb713989c7812b5a0358f7c34ecceca19916c/) |
 | ✅ | 2024/10/11 | 28-14 | [Star Destroyers](https://ws.tsl.rocks/corp/32ba20918cd8720602fefb3bc676a6ba5195314479040f70eadc728fbbc2698d/) |
 | ❌ | 2024/10/04 | 8-22 | [Lacuna X](https://ws.tsl.rocks/corp/fb10f33f3db17b99b0d227f17e7fde76ef067dc4a4bb4ae05e46c76d2e5e8ea1/) |
