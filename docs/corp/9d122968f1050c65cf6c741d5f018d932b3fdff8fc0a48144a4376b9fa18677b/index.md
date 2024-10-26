@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​ANDROMEDA INC. 
-description: W:24 L:1 D:1 Bonus ✅
+description: W:24 L:1 D:1 Bonus ❌
 date: 1729334576
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

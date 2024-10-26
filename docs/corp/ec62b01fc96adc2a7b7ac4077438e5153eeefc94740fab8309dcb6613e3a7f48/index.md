@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Bacon Warriors
-description: W:18 L:16 D:0 Bonus ❌
-date: 1728999436
+description: W:18 L:17 D:0 Bonus ❌
+date: 1729952151
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1271 🔺  (188)|
-| ELO Competitive | 1333 🔺  (199)|
-| Total Matches | 34 |
+| ELO Regular | 1255 🔻  (222)|
+| ELO Competitive | 1319 🔻  (218)|
+| Total Matches | 35 |
 | Wins | 18 |
-| Losses | 16 |
+| Losses | 17 |
 | Draws | 0 |
 | Streak Record | 5 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728567436,1727959474,1727093736,1726342584,1725816420,1725474748,1724090933,1722884066,1722432994,1722106935,1721062037,1720631036,1720192874,1719757712,1718978785,1718638015,1717939157,1717855907,1717166371,1717157654,1716663010,1715522202,1714828760,1714313469,1713644853,1713031808,1712381966,1711508775,1710465534,1709853177,1709399166,1708792486,1701403443,1700658298];
+        let timestamps = [1729520151,1728567436,1727959474,1727093736,1726342584,1725816420,1725474748,1724090933,1722884066,1722432994,1722106935,1721062037,1720631036,1720192874,1719757712,1718978785,1718638015,1717939157,1717855907,1717166371,1717157654,1716663010,1715522202,1714828760,1714313469,1713644853,1713031808,1712381966,1711508775,1710465534,1709853177,1709399166,1708792486,1701403443,1700658298];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/26 | 4-39 | [Corp\. Estelar](https://ws.tsl.rocks/corp/aec01be59075af2b2995f74e3e14f47e2b3ce1bd3b74abc78200a1d6330b8a72/) |
 | ✅ | 2024/10/15 | 30-8 | [StellaMysterium](https://ws.tsl.rocks/corp/cfaaa81ed93cc9361ade470c3414c73ecf77068badd68d624c7b3f486d142b10/) |
 | ❌ | 2024/10/08 | 0-47 | [Últimafronteira](https://ws.tsl.rocks/corp/27e96f432a078f197bb5e4c34480ccabc05a9ee48e7bb04d95288fda15e94d3c/) |
 | ✅ | 2024/09/28 | 24-18 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
