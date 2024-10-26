@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​Halcon español
-description: W:26 L:15 D:1 Bonus ✅
+description: W:26 L:15 D:1 Bonus ❌
 date: 1729943211
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1257 🔻  (214)|
+| ELO Regular | 1257 🔻  (215)|
 | ELO Competitive | 1305 🔻  (234)|
 | Total Matches | 42 |
 | Wins | 26 |
