@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Hellfire Club
-description: W:36 L:32 D:0 Bonus ✅
-date: 1729321956
+description: W:36 L:33 D:0 Bonus ❌
+date: 1729941030
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1254 🔺  (224)|
-| ELO Competitive | 1373 🔺  (140)|
-| Total Matches | 68 |
+| ELO Regular | 1244 🔻  (247)|
+| ELO Competitive | 1362 🔻  (161)|
+| Total Matches | 69 |
 | Wins | 36 |
-| Losses | 32 |
+| Losses | 33 |
 | Draws | 0 |
 | Streak Record | 5 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728889956,1728305682,1728290057,1727775862,1727670386,1727075708,1726484735,1725879517,1725867498,1725272820,1724660996,1724059677,1723450220,1722843191,1722241874,1721657354,1721034980,1720423071,1719823219,1719307855,1718604957,1718004973,1718003470,1717439285,1716829799,1716802145,1716200619,1715590707,1714998812,1714390871,1713772837,1713172222,1712565564,1712562860,1712032814,1711962499,1711446574,1711399107,1710796365,1710759701,1710158459,1709558417,1708953543,1708946932,1708340540,1708336633,1707734728,1707731123,1707125611,1707125310,1706526990,1706525187,1705939187,1705912741,1705328241,1705317723,1704716097,1704706480,1704108454,1703505915,1702889934,1702280133,1701535681,1701069242,1700469943,1699862774,1699257764,1698695788];
+        let timestamps = [1729509030,1728889956,1728305682,1728290057,1727775862,1727670386,1727075708,1726484735,1725879517,1725867498,1725272820,1724660996,1724059677,1723450220,1722843191,1722241874,1721657354,1721034980,1720423071,1719823219,1719307855,1718604957,1718004973,1718003470,1717439285,1716829799,1716802145,1716200619,1715590707,1714998812,1714390871,1713772837,1713172222,1712565564,1712562860,1712032814,1711962499,1711446574,1711399107,1710796365,1710759701,1710158459,1709558417,1708953543,1708946932,1708340540,1708336633,1707734728,1707731123,1707125611,1707125310,1706526990,1706525187,1705939187,1705912741,1705328241,1705317723,1704716097,1704706480,1704108454,1703505915,1702889934,1702280133,1701535681,1701069242,1700469943,1699862774,1699257764,1698695788];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Space Penguins](https://ws.tsl.rocks/corp/6255ba7dab1bd2b150825874d1fea70b029dc79434f293d47518c27b0376e286/) | 0 | 3 | 0 | 3 |
 | [Hamburg AG 2](https://ws.tsl.rocks/corp/d4075195191cabef801494d3accc0e6cc8c09f534fd9203f6e43c9930acffa56/) | 0 | 2 | 0 | 2 |
 | [Rising star](https://ws.tsl.rocks/corp/b7037efd74e829aa4ac6e49960fa44cebe1477e23d25cf1640594d9168d630db/) | 2 | 0 | 0 | 2 |
 | [Ark](https://ws.tsl.rocks/corp/febd79d038ed9af667e201309060d9662ba825ba9be2b5b95418ac20a8e70c80/) | 0 | 3 | 0 | 3 |
@@ -127,7 +128,6 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [Lights Off ](https://ws.tsl.rocks/corp/8a8b7e5b7a00ef709249daa4546d03bd85258cde01d35e1829a64ed95c3d6cca/) | 1 | 2 | 0 | 3 |
 | [Fleet Corp Ares](https://ws.tsl.rocks/corp/8ceac360859239e9b9386b5e4a0c3d3c7e75941b010804ab8b405d9eb6f806f6/) | 2 | 0 | 0 | 2 |
 | [ANDROMEDA INC\. ](https://ws.tsl.rocks/corp/9d122968f1050c65cf6c741d5f018d932b3fdff8fc0a48144a4376b9fa18677b/) | 0 | 3 | 0 | 3 |
-| [Space Penguins](https://ws.tsl.rocks/corp/6255ba7dab1bd2b150825874d1fea70b029dc79434f293d47518c27b0376e286/) | 0 | 2 | 0 | 2 |
 | [Space Oddity](https://ws.tsl.rocks/corp/a6d7cf2a6e8e92b03bf941f153a423ecc9483e3acb878d8658a1ca7f33abad81/) | 3 | 1 | 0 | 4 |
 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) | 1 | 1 | 0 | 2 |
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/26 | 10-28 | [Space Penguins](https://ws.tsl.rocks/corp/6255ba7dab1bd2b150825874d1fea70b029dc79434f293d47518c27b0376e286/) |
 | ✅ | 2024/10/19 | 34-19 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) |
 | ❌ | 2024/10/12 | 6-15 | [Hamburg AG 2](https://ws.tsl.rocks/corp/d4075195191cabef801494d3accc0e6cc8c09f534fd9203f6e43c9930acffa56/) |
 | ✅ | 2024/10/12 | 41-14 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
