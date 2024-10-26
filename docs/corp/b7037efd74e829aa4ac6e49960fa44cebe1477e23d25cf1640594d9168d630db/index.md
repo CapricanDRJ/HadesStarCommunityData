@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Rising star
-description: W:24 L:34 D:0 Bonus ✅
+description: W:24 L:34 D:0 Bonus ❌
 date: 1729903174
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

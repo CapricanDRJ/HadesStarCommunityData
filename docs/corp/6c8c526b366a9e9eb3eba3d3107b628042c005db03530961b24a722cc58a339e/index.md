@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Duchy Arrakis
-description: W:26 L:11 D:0 Bonus ✅
-date: 1729356221
+description: W:27 L:11 D:0 Bonus ✅
+date: 1729928710
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1355 🔺  (80)|
-| ELO Competitive | 1411 🔺  (110)|
-| Total Matches | 37 |
-| Wins | 26 |
+| ELO Regular | 1365 🔺  (70)|
+| ELO Competitive | 1420 🔺  (100)|
+| Total Matches | 38 |
+| Wins | 27 |
 | Losses | 11 |
 | Draws | 0 |
-| Streak | 6 |
-| Streak Record | 6 |
+| Streak | 7 |
+| Streak Record | 7 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728924221,1728380503,1727688112,1727094037,1726476022,1725265309,1724661897,1723400640,1722843792,1722235565,1721574411,1721047605,1719814207,1719214615,1718607061,1718003470,1717397202,1716790126,1716185597,1715586501,1714193469,1713761121,1713267776,1712819160,1712311954,1711377469,1710859455,1710254909,1708953543,1707053490,1706312726,1705238089,1704639467,1703076463,1701623140,1700396010,1699436555];
+        let timestamps = [1729496710,1728924221,1728380503,1727688112,1727094037,1726476022,1725265309,1724661897,1723400640,1722843792,1722235565,1721574411,1721047605,1719814207,1719214615,1718607061,1718003470,1717397202,1716790126,1716185597,1715586501,1714193469,1713761121,1713267776,1712819160,1712311954,1711377469,1710859455,1710254909,1708953543,1707053490,1706312726,1705238089,1704639467,1703076463,1701623140,1700396010,1699436555];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -128,6 +128,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/26 | 24-14 | [CTG](https://ws.tsl.rocks/corp/9647a8507dfa5637a217d2d6a0ad47aefb6a4563f910ad46376c228450cff43c/) |
 | ✅ | 2024/10/19 | 29-11 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |
 | ✅ | 2024/10/13 | 28-6 | [Ark](https://ws.tsl.rocks/corp/febd79d038ed9af667e201309060d9662ba825ba9be2b5b95418ac20a8e70c80/) |
 | ✅ | 2024/10/05 | 19-13 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) |
