@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Oficina Tuga
-description: W:9 L:25 D:0 Bonus ❌
-date: 1721376211
+description: W:9 L:26 D:0 Bonus ❌
+date: 1729966582
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1070 🔻  (1248)|
-| ELO Competitive | 1114 🔻  (1249)|
-| Total Matches | 34 |
+| ELO Regular | 1062 🔻  (1254)|
+| ELO Competitive | 1111 🔻  (1250)|
+| Total Matches | 35 |
 | Wins | 9 |
-| Losses | 25 |
+| Losses | 26 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1720944211,1719663050,1717052480,1716303674,1715124707,1714454278,1713518369,1712478118,1711956791,1711307765,1710846233,1710391020,1709812309,1709291587,1708799999,1708351960,1707914734,1707906921,1707459328,1706795651,1706253820,1705758573,1705263039,1704811362,1704282153,1703703962,1703174438,1702657619,1702064038,1701399237,1700839699,1700298027,1699561560,1699053742];
+        let timestamps = [1729534582,1720944211,1719663050,1717052480,1716303674,1715124707,1714454278,1713518369,1712478118,1711956791,1711307765,1710846233,1710391020,1709812309,1709291587,1708799999,1708351960,1707914734,1707906921,1707459328,1706795651,1706253820,1705758573,1705263039,1704811362,1704282153,1703703962,1703174438,1702657619,1702064038,1701399237,1700839699,1700298027,1699561560,1699053742];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/26 | 0-28 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |
 | ❌ | 2024/07/19 | 3-29 | [Hexwood](https://ws.tsl.rocks/corp/b10084235f689f555f99efd52d9d4ea86dabf662e57f64dd9d86bbdc31b9c3e1/) |
 | ❌ | 2024/07/04 | 3-26 | [INFINITY STAR](https://ws.tsl.rocks/corp/e36eb12fc6bc8e4b826e6bcb46020cad3eb616497c4c14075e8b657715898a9f/) |
 | ❌ | 2024/06/04 | 0-30 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Revólver
-description: W:9 L:17 D:1 Bonus ✅
+description: W:9 L:17 D:1 Bonus ❌
 date: 1729950047
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

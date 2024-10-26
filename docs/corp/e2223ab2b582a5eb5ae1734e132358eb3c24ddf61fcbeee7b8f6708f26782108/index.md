@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Galactic Empire
-description: W:21 L:16 D:0 Bonus ❌
-date: 1727135711
+description: W:21 L:17 D:0 Bonus ❌
+date: 1729965981
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔻  (278)|
-| ELO Competitive | 1313 🔻  (225)|
-| Total Matches | 37 |
+| ELO Regular | 1221 🔻  (339)|
+| ELO Competitive | 1295 🔻  (255)|
+| Total Matches | 38 |
 | Wins | 21 |
-| Losses | 16 |
+| Losses | 17 |
 | Draws | 0 |
 | Streak Record | 8 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726703711,1724786910,1724183791,1722564015,1721150100,1720367477,1719215602,1717623221,1716892202,1716242388,1715460908,1714756047,1714116551,1713124755,1712302640,1711565563,1709542192,1708548487,1707694770,1707067917,1706446451,1705831901,1705186706,1704666821,1704553515,1703851814,1703098707,1702662127,1702415100,1701513248,1700598879,1700208464,1700013353,1699549838,1699432649,1698701803,1698696389];
+        let timestamps = [1729533981,1726703711,1724786910,1724183791,1722564015,1721150100,1720367477,1719215602,1717623221,1716892202,1716242388,1715460908,1714756047,1714116551,1713124755,1712302640,1711565563,1709542192,1708548487,1707694770,1707067917,1706446451,1705831901,1705186706,1704666821,1704553515,1703851814,1703098707,1702662127,1702415100,1701513248,1700598879,1700208464,1700013353,1699549838,1699432649,1698701803,1698696389];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/26 | 0-24 | [Kelebra](https://ws.tsl.rocks/corp/0b1ce787fadd83433c02fb7f56a905ea64f918c1396ac37b8591891adf232eb6/) |
 | ❌ | 2024/09/23 | 0-37 | [Ninth Planet](https://ws.tsl.rocks/corp/53297ed66c8c326d4cb4eebdee55172d3d64f122addd5d916b314f4ab557e21a/) |
 | ❌ | 2024/09/01 | 3-10 | [SternenStaub](https://ws.tsl.rocks/corp/11f1e8a4d522eaef8cb40c95d07b4533097aa6509ddafd1d7efc1449e8b10f38/) |
 | ❌ | 2024/08/25 | 1-29 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |

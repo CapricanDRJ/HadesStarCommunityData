@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Lofty Mountain
-description: W:6 L:0 D:0 Bonus ✅
-date: 1729497976
+description: W:7 L:0 D:0 Bonus ✅
+date: 1729967784
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1288 🔺  (154)|
-| ELO Competitive | 1304 🔺  (236)|
-| Total Matches | 6 |
-| Wins | 6 |
+| ELO Regular | 1301 🔺  (142)|
+| ELO Competitive | 1317 🔺  (219)|
+| Total Matches | 7 |
+| Wins | 7 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 6 |
-| Streak Record | 6 |
+| Streak | 7 |
+| Streak Record | 7 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729065976,1727688413,1727134610,1723929849,1722161630,1720494897];
+        let timestamps = [1729535784,1729065976,1727688413,1727134610,1723929849,1722161630,1720494897];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/26 | 35-2 | [КРЫЛЯ ФЕНИКСА](https://ws.tsl.rocks/corp/a7852d9224a29d8a8b12b07f0985cf455ee57c9a7b5fed73f08ab733e8de733b/) |
 | ✅ | 2024/10/21 | 40-0 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ✅ | 2024/10/05 | 30-0 | [  边界  ](https://ws.tsl.rocks/corp/86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a/) |
 | ✅ | 2024/09/28 | 36-0 | [SiriusStrawMoo](https://ws.tsl.rocks/corp/c83a5744ea256d2c1fa59660bc0e18e8d01a2a467bc13fec27a8b30f689e220b/) |

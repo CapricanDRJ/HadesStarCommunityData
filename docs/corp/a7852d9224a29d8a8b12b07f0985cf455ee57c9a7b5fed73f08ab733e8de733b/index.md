@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​КРЫЛЯ ФЕНИКСА
-description: W:6 L:5 D:0 Bonus ❌
-date: 1725729767
+description: W:6 L:6 D:0 Bonus ❌
+date: 1729967784
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1235 🔻  (288)|
-| ELO Competitive | 1255 🔻  (339)|
-| Total Matches | 11 |
+| ELO Regular | 1223 🔻  (333)|
+| ELO Competitive | 1243 🔻  (388)|
+| Total Matches | 12 |
 | Wins | 6 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 0 |
 | Streak Record | 3 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725297767,1723046338,1722194098,1713241133,1711887077,1711380775,1710145841,1709486908,1708884439,1708265116,1707039365];
+        let timestamps = [1729535784,1725297767,1723046338,1722194098,1713241133,1711887077,1711380775,1710145841,1709486908,1708884439,1708265116,1707039365];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/26 | 2-35 | [Lofty Mountain](https://ws.tsl.rocks/corp/1cfc6606e17d524ba0388b273ad6a9e86b23838eb529a2659f03a40702affbf7/) |
 | ❌ | 2024/09/07 | 2-18 | [Anarchy Nation ](https://ws.tsl.rocks/corp/9c456dbf32e22070620021bf0bea4d2ab9deb0ac7ad4be06a4067a9ced5f2f5b/) |
 | ✅ | 2024/08/12 | 8-3 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) |
 | ✅ | 2024/08/02 | 10-1 | [Sich\.ua](https://ws.tsl.rocks/corp/9fcd6d7c4fe7f8e39acf48585dfe9c6d3d14edc7781fe8caf85618b3e98c685d/) |
