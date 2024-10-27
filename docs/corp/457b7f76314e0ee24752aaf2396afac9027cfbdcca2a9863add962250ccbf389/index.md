@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Лунный Феникс
-description: W:39 L:24 D:2 Bonus ✅
+description: W:39 L:24 D:2 Bonus ❌
 date: 1729967784
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

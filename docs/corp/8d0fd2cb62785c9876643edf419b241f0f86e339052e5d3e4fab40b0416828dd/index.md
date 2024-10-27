@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Splendid
-description: W:2 L:4 D:0 Bonus ❌
-date: 1724663864
+description: W:3 L:4 D:0 Bonus ✅
+date: 1730019172
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (849)|
-| ELO Competitive | 1179 🔻  (941)|
-| Total Matches | 6 |
-| Wins | 2 |
+| ELO Regular | 1195 🔺  (531)|
+| ELO Competitive | 1199 🔺  (618)|
+| Total Matches | 7 |
+| Wins | 3 |
 | Losses | 4 |
 | Draws | 0 |
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724231864,1723351651,1722091905,1721500787,1720804461,1720290846];
+        let timestamps = [1729587172,1724231864,1723351651,1722091905,1721500787,1720804461,1720290846];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/27 | 5-0 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb/) |
 | ❌ | 2024/08/26 | 0-10 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
 | ✅ | 2024/08/16 | 3-0 | [AlyTec Sys\.](https://ws.tsl.rocks/corp/4f98eeb43077d5c00a32f9810352931d8778fb5b24d8b49c318953d489f07df0/) |
 | ❌ | 2024/08/01 | 0-2 | [永恒之梦](https://ws.tsl.rocks/corp/51524c100011292acfff96dc47f5b506950922c6e467b1586d5c571cc281fd4d/) |
