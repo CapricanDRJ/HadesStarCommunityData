@@ -1,19 +1,21 @@
 ---
 layout: page
 title: ​WhiteSTarfighte
-description: W:3 L:4 D:0 Bonus ✅
-date: 1729616477
+description: W:4 L:4 D:0 Bonus ✅
+date: 1730053421
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔺  (577)|
-| ELO Competitive | 1201 🔺  (577)|
-| Total Matches | 7 |
-| Wins | 3 |
+| ELO Regular | 1205 🔺  (450)|
+| ELO Competitive | 1216 🔺  (482)|
+| Total Matches | 8 |
+| Wins | 4 |
 | Losses | 4 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 
 
 # Whitestar Match Day
@@ -30,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729184477,1728740556,1728304481,1727857614,1727366582,1726932677,1726471215];
+        let timestamps = [1729621421,1729184477,1728740556,1728304481,1727857614,1727366582,1726932677,1726471215];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/27 | 2-0 | [华夏联盟](https://ws.tsl.rocks/corp/2c648f8c6a0963f1a86b1a1ca787f67c02ee58838a809427b68d3546b89078ac/) |
 | ✅ | 2024/10/22 | 5-2 | [Winter Star llc](https://ws.tsl.rocks/corp/89b20821cb6e619dced74a6e153a1d3ceafa70b1035fb7d61a6920d375e49f50/) |
 | ❌ | 2024/10/17 | 1-2 | [Zeta Division ](https://ws.tsl.rocks/corp/29335e52f4b0c4ae92db98c395d2f4969201d0ddc31bb7f112bd6d3eeb97182c/) |
 | ❌ | 2024/10/12 | 3-15 | [星光万丈](https://ws.tsl.rocks/corp/92ad2a305a74e168b57771140461b4d226e1e8cac17b4f77027d5a67ead5fa1d/) |

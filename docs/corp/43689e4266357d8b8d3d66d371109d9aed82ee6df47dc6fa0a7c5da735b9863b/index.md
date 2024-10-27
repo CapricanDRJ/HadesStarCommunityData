@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​The trade pub
-description: W:24 L:24 D:0 Bonus ✅
+description: W:24 L:24 D:0 Bonus ❌
 date: 1730025168
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
