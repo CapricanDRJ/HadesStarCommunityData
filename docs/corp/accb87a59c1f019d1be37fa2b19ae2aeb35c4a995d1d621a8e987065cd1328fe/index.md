@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Alpha 
-description: W:7 L:33 D:1 Bonus ❌
-date: 1728453388
+description: W:7 L:34 D:1 Bonus ❌
+date: 1730032681
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 997 🔻  (1283)|
-| ELO Competitive | 1045 🔻  (1292)|
-| Total Matches | 41 |
+| ELO Regular | 988 🔻  (1287)|
+| ELO Competitive | 1039 🔻  (1292)|
+| Total Matches | 42 |
 | Wins | 7 |
-| Losses | 33 |
+| Losses | 34 |
 | Draws | 1 |
 | Streak Record | 3 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728021388,1727419465,1726931175,1726221168,1724592778,1723935257,1721980401,1721461115,1720485281,1719681085,1719234534,1718762431,1718290462,1717342504,1715284243,1714743925,1714127967,1713581450,1713038810,1712275084,1711741344,1710999722,1710416554,1709953834,1709518545,1708978189,1708000977,1707464437,1706755086,1706167874,1705232980,1704092828,1703435599,1702837044,1702320711,1701873492,1701430188,1700827587,1700362649,1699889225,1699402306];
+        let timestamps = [1729600681,1728021388,1727419465,1726931175,1726221168,1724592778,1723935257,1721980401,1721461115,1720485281,1719681085,1719234534,1718762431,1718290462,1717342504,1715284243,1714743925,1714127967,1713581450,1713038810,1712275084,1711741344,1710999722,1710416554,1709953834,1709518545,1708978189,1708000977,1707464437,1706755086,1706167874,1705232980,1704092828,1703435599,1702837044,1702320711,1701873492,1701430188,1700827587,1700362649,1699889225,1699402306];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/27 | 3-23 | [StellaMysterium](https://ws.tsl.rocks/corp/cfaaa81ed93cc9361ade470c3414c73ecf77068badd68d624c7b3f486d142b10/) |
 | ❌ | 2024/10/09 | 1-20 | [Pyke Syndicate](https://ws.tsl.rocks/corp/1761635d6aaf9c2caf7abc37130e2d9aa48e7b4cc753ae4b701fde4b48abd3e1/) |
 | ↔️ | 2024/10/02 | 3-3 | [First Squad](https://ws.tsl.rocks/corp/39bb6d19385b7eb6e2e71a979f21256463432b6e2e36ae4c55446abb1f6a0db1/) |
 | ❌ | 2024/09/26 | 3-30 | [ЧВК "Котики"](https://ws.tsl.rocks/corp/b770b833fe257bc6accd1bbe82a887971291dd0038f8aa627a47f3ce063265c0/) |

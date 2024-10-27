@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Zvezdec
-description: W:36 L:18 D:0 Bonus ✅
+description: W:36 L:18 D:0 Bonus ❌
 date: 1729930814
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

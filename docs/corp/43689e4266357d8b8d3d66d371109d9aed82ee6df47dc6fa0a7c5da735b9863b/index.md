@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​The trade pub
-description: W:24 L:23 D:0 Bonus ✅
-date: 1729431949
+description: W:24 L:24 D:0 Bonus ✅
+date: 1730025168
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1284 🔺  (165)|
-| ELO Competitive | 1337 🔺  (192)|
-| Total Matches | 47 |
+| ELO Regular | 1278 🔻  (174)|
+| ELO Competitive | 1330 🔻  (200)|
+| Total Matches | 48 |
 | Wins | 24 |
-| Losses | 23 |
+| Losses | 24 |
 | Draws | 0 |
 | Streak Record | 5 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728999949,1728466753,1727706447,1727122292,1726576089,1725984694,1725379193,1724677525,1724133601,1723475766,1722915618,1722364184,1721834356,1721229131,1720366274,1719240846,1718470933,1717769578,1717243906,1716135124,1715160756,1714548817,1713789361,1713209187,1712599523,1711957692,1711207093,1710628995,1710001912,1709373019,1708797595,1708019010,1707250738,1706620753,1706026638,1705475190,1704976641,1704444129,1703795622,1703215611,1702541009,1702027966,1701595486,1700994100,1700460929,1699682716,1699060653];
+        let timestamps = [1729593168,1728999949,1728466753,1727706447,1727122292,1726576089,1725984694,1725379193,1724677525,1724133601,1723475766,1722915618,1722364184,1721834356,1721229131,1720366274,1719240846,1718470933,1717769578,1717243906,1716135124,1715160756,1714548817,1713789361,1713209187,1712599523,1711957692,1711207093,1710628995,1710001912,1709373019,1708797595,1708019010,1707250738,1706620753,1706026638,1705475190,1704976641,1704444129,1703795622,1703215611,1702541009,1702027966,1701595486,1700994100,1700460929,1699682716,1699060653];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Hand Of NOD\! ](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) | 0 | 2 | 0 | 2 |
 | [Omega Alpha](https://ws.tsl.rocks/corp/b6e23a3f1f3a3c735c694624b273dcd7da2f8bd13a5ac2b36a8ad39737b1d062/) | 0 | 2 | 0 | 2 |
 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) | 1 | 1 | 0 | 2 |
 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) | 0 | 2 | 0 | 2 |
@@ -130,6 +131,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/27 | 5-42 | [Hand Of NOD\! ](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) |
 | ✅ | 2024/10/20 | 26-6 | [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) |
 | ❌ | 2024/10/14 | 3-37 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | ❌ | 2024/10/05 | 13-19 | [Omega Alpha](https://ws.tsl.rocks/corp/b6e23a3f1f3a3c735c694624b273dcd7da2f8bd13a5ac2b36a8ad39737b1d062/) |

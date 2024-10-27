@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​红日初升，其道大光
-description: W:23 L:8 D:0 Bonus ✅
+description: W:23 L:8 D:0 Bonus ❌
 date: 1729411213
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
