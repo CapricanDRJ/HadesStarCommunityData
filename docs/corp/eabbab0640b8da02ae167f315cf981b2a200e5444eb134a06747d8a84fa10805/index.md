@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​SQPT
-description: W:44 L:45 D:0 Bonus ✅
+description: W:44 L:45 D:0 Bonus ❌
 date: 1729946138
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1217 🔻  (362)|
-| ELO Competitive | 1388 🔻  (125)|
+| ELO Regular | 1217 🔻  (361)|
+| ELO Competitive | 1388 🔻  (126)|
 | Total Matches | 89 |
 | Wins | 44 |
 | Losses | 45 |

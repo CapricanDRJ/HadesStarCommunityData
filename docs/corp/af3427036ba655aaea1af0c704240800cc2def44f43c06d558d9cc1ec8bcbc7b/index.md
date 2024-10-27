@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Черный Легион
-description: W:19 L:10 D:0 Bonus ✅
+description: W:19 L:10 D:0 Bonus ❌
 date: 1729379366
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
