@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Interstellar
-description: W:36 L:42 D:1 Bonus ✅
+description: W:36 L:42 D:1 Bonus ❌
 date: 1729902874
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
