@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​SiriusStrawMoo
-description: W:15 L:5 D:1 Bonus ❌
-date: 1729447883
+description: W:16 L:5 D:1 Bonus ✅
+date: 1730107804
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1308 🔺  (131)|
-| ELO Competitive | 1334 🔺  (196)|
-| Total Matches | 21 |
-| Wins | 15 |
+| ELO Regular | 1318 🔺  (117)|
+| ELO Competitive | 1343 🔺  (188)|
+| Total Matches | 22 |
+| Wins | 16 |
 | Losses | 5 |
 | Draws | 1 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 9 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729015883,1728122671,1727620204,1727134610,1726654004,1726184216,1725667063,1725200403,1724758657,1724257412,1723765758,1723299064,1722857916,1722406251,1721950956,1721484857,1721051514,1720267098,1719395902,1718657254,1718194898];
+        let timestamps = [1729675804,1729015883,1728122671,1727620204,1727134610,1726654004,1726184216,1725667063,1725200403,1724758657,1724257412,1723765758,1723299064,1722857916,1722406251,1721950956,1721484857,1721051514,1720267098,1719395902,1718657254,1718194898];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/28 | 11-0 | [Im Paradies](https://ws.tsl.rocks/corp/d910227e7170072856b8187084cb87eb8b27af18e554fa951e914f952ec5128b/) |
 | ✅ | 2024/10/20 | 5-3 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ✅ | 2024/10/10 | 10-0 | [太阳系联邦](https://ws.tsl.rocks/corp/1511bcf209c9d65c3db8fce158834ee0365899e8a765df9554b7606eb92b1df1/) |
 | ✅ | 2024/10/04 | 4-2 | [U\.S\.A](https://ws.tsl.rocks/corp/6d7a18e9893736881762a4e1b687b55e7311d367267ff5a9cc8e45722b14ea06/) |
