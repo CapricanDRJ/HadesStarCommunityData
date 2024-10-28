@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​Ещё один Миф
-description: W:2 L:6 D:0 Bonus ✅
+description: W:2 L:6 D:0 Bonus ❌
 date: 1729890557
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1180 🔻  (815)|
+| ELO Regular | 1180 🔻  (814)|
 | ELO Competitive | 1188 🔻  (737)|
 | Total Matches | 8 |
 | Wins | 2 |
