@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​QONQR 
-description: W:2 L:4 D:0 Bonus ❌
-date: 1729586116
+description: W:2 L:5 D:0 Bonus ❌
+date: 1730090077
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1196 🔻  (522)|
-| ELO Competitive | 1209 🔻  (549)|
-| Total Matches | 6 |
+| ELO Regular | 1186 🔻  (664)|
+| ELO Competitive | 1201 🔻  (587)|
+| Total Matches | 7 |
 | Wins | 2 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729154116,1728620632,1728129282,1727579126,1726735857,1725451004];
+        let timestamps = [1729658077,1729154116,1728620632,1728129282,1727579126,1726735857,1725451004];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -122,6 +122,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/28 | 6-16 | [Black Star llc\.](https://ws.tsl.rocks/corp/f6cd5aed527efed3a402f931784d68b5b7201b317118a60bd3d81b551ee87330/) |
 | ❌ | 2024/10/22 | 1-5 | [RGW](https://ws.tsl.rocks/corp/48a0b2c0f203025d10d1217dbcc5e27f3e31f56f2c407d61219c24ec88446be7/) |
 | ✅ | 2024/10/16 | 16-0 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ❌ | 2024/10/10 | 8-16 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
