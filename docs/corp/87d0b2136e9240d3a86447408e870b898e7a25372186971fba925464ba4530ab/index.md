@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​GALACTIC EMPIRE
-description: W:2 L:2 D:0 Bonus ✅
+description: W:2 L:2 D:0 Bonus ❌
 date: 1729497162
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
