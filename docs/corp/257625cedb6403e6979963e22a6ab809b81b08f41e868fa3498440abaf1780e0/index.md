@@ -1,19 +1,21 @@
 ---
 layout: page
 title: ​Tacitus
-description: W:1 L:0 D:0 Bonus ❌
-date: 1718919160
+description: W:2 L:0 D:0 Bonus ✅
+date: 1730131847
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺  (376)|
-| ELO Competitive | 1219 🔺  (463)|
-| Total Matches | 1 |
-| Wins | 1 |
+| ELO Regular | 1224 🔺  (331)|
+| ELO Competitive | 1229 🔺  (429)|
+| Total Matches | 2 |
+| Wins | 2 |
 | Losses | 0 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 
 
 # Whitestar Match Day
@@ -30,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1718487160];
+        let timestamps = [1729699847,1718487160];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/28 | 41-15 | [West Worlders](https://ws.tsl.rocks/corp/aad051ec6b980cc52fb4777aef113d9e28a72aab40fda65aa9cdbf477b8e390a/) |
 | ✅ | 2024/06/20 | 27-13 | [The Seperatists](https://ws.tsl.rocks/corp/f7afefdba007366512764be38eb9c404704e5d4de919e7df2b17560324bbb56f/) |
 
 Corporation ID: 257625cedb6403e6979963e22a6ab809b81b08f41e868fa3498440abaf1780e0

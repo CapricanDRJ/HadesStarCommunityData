@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​₩.BRASIL.₩
-description: W:1 L:19 D:4 Bonus ❌
-date: 1729536238
+description: W:1 L:20 D:4 Bonus ❌
+date: 1730134552
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1014 🔻  (1280)|
-| ELO Competitive | 1031 🔻  (1297)|
-| Total Matches | 24 |
+| ELO Regular | 1003 🔻  (1283)|
+| ELO Competitive | 1022 🔻  (1298)|
+| Total Matches | 25 |
 | Wins | 1 |
-| Losses | 19 |
+| Losses | 20 |
 | Draws | 4 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729104238,1728664213,1728130753,1727658369,1727157441,1726692295,1726238898,1725739186,1725231962,1724728311,1724227615,1723755531,1710035945,1709531978,1708667177,1708059876,1707530245,1706870699,1706396870,1705776308,1704850733,1704389858,1703801333,1700785218];
+        let timestamps = [1729702552,1729104238,1728664213,1728130753,1727658369,1727157441,1726692295,1726238898,1725739186,1725231962,1724728311,1724227615,1723755531,1710035945,1709531978,1708667177,1708059876,1707530245,1706870699,1706396870,1705776308,1704850733,1704389858,1703801333,1700785218];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -112,11 +112,17 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) | 0 | 2 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/28 | 1-4 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
 | ❌ | 2024/10/21 | 2-20 | [EMPIRE ](https://ws.tsl.rocks/corp/6ab64c49cd01e1f93deaf6424de653c91473fc84fa372cb0fe683f9e86dceaa2/) |
 | ❌ | 2024/10/16 | 0-3 | [empire](https://ws.tsl.rocks/corp/c59bf8dfb57f9bfc0a87735b00299b45d32d3607628d7879e2bd9711fec3e90f/) |
 | ❌ | 2024/10/10 | 0-5 | [WHITE NOVA](https://ws.tsl.rocks/corp/0a44ab86ca49a02fb932607f1095f0b5411c556bb9bb95aa1f20908be0b45d51/) |

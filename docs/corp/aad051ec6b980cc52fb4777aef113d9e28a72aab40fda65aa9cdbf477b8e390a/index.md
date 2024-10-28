@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​West Worlders
-description: W:6 L:20 D:0 Bonus ❌
-date: 1729313241
+description: W:6 L:21 D:0 Bonus ❌
+date: 1730131847
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1052 🔻  (1262)|
-| ELO Competitive | 1098 🔻  (1261)|
-| Total Matches | 26 |
+| ELO Regular | 1044 🔻  (1266)|
+| ELO Competitive | 1088 🔻  (1269)|
+| Total Matches | 27 |
 | Wins | 6 |
-| Losses | 20 |
+| Losses | 21 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728881241,1728331533,1727712761,1727257797,1726632675,1725906569,1725451305,1724944971,1724383019,1723930750,1723432791,1722920425,1722440208,1721978298,1721458711,1720937900,1720306473,1719377875,1718684596,1717739522,1715793511,1705826190,1704668023,1701507428,1699487944,1698948546];
+        let timestamps = [1729699847,1728881241,1728331533,1727712761,1727257797,1726632675,1725906569,1725451305,1724944971,1724383019,1723930750,1723432791,1722920425,1722440208,1721978298,1721458711,1720937900,1720306473,1719377875,1718684596,1717739522,1715793511,1705826190,1704668023,1701507428,1699487944,1698948546];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/28 | 15-41 | [Tacitus](https://ws.tsl.rocks/corp/257625cedb6403e6979963e22a6ab809b81b08f41e868fa3498440abaf1780e0/) |
 | ❌ | 2024/10/19 | 17-21 | [Rising star](https://ws.tsl.rocks/corp/b7037efd74e829aa4ac6e49960fa44cebe1477e23d25cf1640594d9168d630db/) |
 | ✅ | 2024/10/12 | 20-17 | [SternenStaub](https://ws.tsl.rocks/corp/11f1e8a4d522eaef8cb40c95d07b4533097aa6509ddafd1d7efc1449e8b10f38/) |
 | ❌ | 2024/10/05 | 6-22 | [GhostNakcoorp](https://ws.tsl.rocks/corp/0a15ae22cdfbd88694d3067838a78bea07746ec95f3784b3f65d77fe47d76312/) |
