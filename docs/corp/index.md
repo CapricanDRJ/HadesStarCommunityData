@@ -18,7 +18,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Alfa Reach](https://ws.tsl.rocks/corp/d4d337cbb89db11c39886b5ee2b7da0f57e9ac3f8a8555c1f2e6190c1024e2d3/) | 1188 | 1188 | 1 |
 | [alienigenas](https://ws.tsl.rocks/corp/1c092f1b0e9645193eac68e27b29b2b9fef39474fd8924495abec6754857a8f9/) | 1244 | 1269 | 12 |
 | [Alpaca Haven](https://ws.tsl.rocks/corp/e93a2f2efda24a65c8ee7eb57fbb269e19b2b1c28a67c6c7c3339b8c90f7726b/) | 1239 | 1270 | 31 |
-| [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) | 1282 | 1316 | 16 |
+| [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) | 1297 | 1330 | 17 |
 | [Alpha ](https://ws.tsl.rocks/corp/accb87a59c1f019d1be37fa2b19ae2aeb35c4a995d1d621a8e987065cd1328fe/) | 988 | 1039 | 42 |
 | [Alpha Galaxy](https://ws.tsl.rocks/corp/9abcb558e094026cc6bd9a73f98a9d957a5fa21d3c43ea80848419c844a83775/) | 1199 | 1199 | 1 |
 | [Alpha to Omega](https://ws.tsl.rocks/corp/2b3694014264240c8c0d1bb6a20e9d120dff2b6680c98b4e06e34bfd489f9da6/) | 1164 | 1172 | 5 |
@@ -324,7 +324,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Gwiezdna Horda](https://ws.tsl.rocks/corp/f718a308568b300ddb5e1fb10f817f112942f9449ec311aff136da5a3149cb18/) | 1255 | 1255 | 4 |
 | [Hades Academy](https://ws.tsl.rocks/corp/b40bd030900afebcbf4508c3b1174e2e80edcc628e6b72357b1571568d0872e3/) | 1206 | 1212 | 10 |
 | [Hades Seminary ](https://ws.tsl.rocks/corp/a43c0e4701495c28fde3f8c614baa6d54af86ed15d13ff8da3a6266039c5e2a7/) | 1215 | 1218 | 3 |
-| [hades star萌新指引站](https://ws.tsl.rocks/corp/06feef105195a4e2ec026c0e3e2c62fce31204dfe6be8e4b26863935efbf8a50/) | 1280 | 1293 | 12 |
+| [hades star萌新指引站](https://ws.tsl.rocks/corp/06feef105195a4e2ec026c0e3e2c62fce31204dfe6be8e4b26863935efbf8a50/) | 1265 | 1279 | 13 |
 | [Hades' 420](https://ws.tsl.rocks/corp/e83b8d576f0efe37e0cdc115b709de051fc57c51a2183f4cb399421766660a73/) | 1113 | 1137 | 11 |
 | [hades' star](https://ws.tsl.rocks/corp/558a37615dc05f1d8c0df91277bc7aaa6546d1849a5e0fb69e27c0f1053efff8/) | 1185 | 1186 | 2 |
 | [Hail Hydra](https://ws.tsl.rocks/corp/32527ae821386573e64d75451a2fce9d6731e290d0cfab03e7d953356979baf8/) | 1112 | 1127 | 25 |

@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​hades star萌新指引站
-description: W:9 L:2 D:1 Bonus ✅
-date: 1729637216
+description: W:9 L:3 D:1 Bonus ✅
+date: 1730163699
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1280 🔺  (173)|
-| ELO Competitive | 1293 🔺  (260)|
-| Total Matches | 12 |
+| ELO Regular | 1265 🔻  (198)|
+| ELO Competitive | 1279 🔻  (287)|
+| Total Matches | 13 |
 | Wins | 9 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 1 |
-| Streak | 3 |
 | Streak Record | 5 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729205216,1728772928,1727960677,1727445008,1727010203,1726486839,1726044786,1725544157,1725078905,1724639060,1724206625,1723733000];
+        let timestamps = [1729731699,1729205216,1728772928,1727960677,1727445008,1727010203,1726486839,1726044786,1725544157,1725078905,1724639060,1724206625,1723733000];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/29 | 5-6 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) |
 | ✅ | 2024/10/22 | 6-2 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ✅ | 2024/10/17 | 17-1 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb/) |
 | ✅ | 2024/10/08 | 6-1 | [麻雀集团](https://ws.tsl.rocks/corp/bf5e5ea02e24918ed66d543902f4315f957c79c9bc1bd434c034158e9f648abe/) |
