@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​绛紫星云
-description: W:0 L:3 D:0 Bonus ❌
-date: 1729645328
+description: W:0 L:4 D:0 Bonus ❌
+date: 1730213576
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔻  (1031)|
-| ELO Competitive | 1161 🔻  (1120)|
-| Total Matches | 3 |
+| ELO Regular | 1134 🔻  (1134)|
+| ELO Competitive | 1147 🔻  (1179)|
+| Total Matches | 4 |
 | Wins | 0 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729213328,1726982690,1726532451];
+        let timestamps = [1729781576,1729213328,1726982690,1726532451];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/29 | 4-14 | [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) |
 | ❌ | 2024/10/23 | 6-8 | [exirium](https://ws.tsl.rocks/corp/4981522e08ce38bcec7b2a189b3bfba9c072a615eea490a55c645344ac975f54/) |
 | ❌ | 2024/09/27 | 1-7 | [哈迪斯之星，启动！](https://ws.tsl.rocks/corp/bc58305a02f7392f340d26a3becd4784de7360dd5264df9e85d73116b93496d8/) |
 | ❌ | 2024/09/22 | 1-13 | [荣耀之星](https://ws.tsl.rocks/corp/4334fd4d4ffbc89487deaec7bb38025aba46209b810578436882be271fdbff23/) |

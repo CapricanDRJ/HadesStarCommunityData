@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​МАРСЮКИ
-description: W:39 L:1 D:0 Bonus ❌
-date: 1728707935
+description: W:39 L:2 D:0 Bonus ❌
+date: 1730211773
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1514 🔺  (8)|
-| ELO Competitive | 1558 🔺  (21)|
-| Total Matches | 40 |
+| ELO Regular | 1492 🔻  (12)|
+| ELO Competitive | 1539 🔻  (29)|
+| Total Matches | 41 |
 | Wins | 39 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
-| Streak | 8 |
 | Streak Record | 31 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728275935,1727669184,1727063691,1726461600,1725855479,1724995756,1724051563,1722829970,1721533838,1720410751,1719201782,1718602253,1718071390,1717639144,1717118293,1716029060,1715248485,1714119254,1713518369,1712804439,1712200478,1711607324,1710496776,1709782265,1708656360,1707541060,1707016226,1706251115,1705648585,1705130502,1704406872,1703347844,1702859887,1702252791,1701712401,1700860354,1700417051,1700117701,1699343403,1698764926];
+        let timestamps = [1729779773,1728275935,1727669184,1727063691,1726461600,1725855479,1724995756,1724051563,1722829970,1721533838,1720410751,1719201782,1718602253,1718071390,1717639144,1717118293,1716029060,1715248485,1714119254,1713518369,1712804439,1712200478,1711607324,1710496776,1709782265,1708656360,1707541060,1707016226,1706251115,1705648585,1705130502,1704406872,1703347844,1702859887,1702252791,1701712401,1700860354,1700417051,1700117701,1699343403,1698764926];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,16 +117,17 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [111](https://ws.tsl.rocks/corp/8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350/) | 2 | 1 | 0 | 3 |
 | [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/) | 2 | 0 | 0 | 2 |
 | [星舰月球](https://ws.tsl.rocks/corp/b9a3e1e7fd3a235db7f440974db9210dc9a3b85c39fd437099f32f53cfe1e21c/) | 2 | 0 | 0 | 2 |
 | [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) | 2 | 1 | 0 | 3 |
-| [111](https://ws.tsl.rocks/corp/8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350/) | 2 | 0 | 0 | 2 |
 | [KLM](https://ws.tsl.rocks/corp/963e490e64d4703042415d3fcd8267ff87fbfd3383b83d447d29d842f2a446a1/) | 2 | 0 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/29 | 12-15 | [111](https://ws.tsl.rocks/corp/8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350/) |
 | ✅ | 2024/10/12 | 36-3 | [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/) |
 | ✅ | 2024/10/05 | 26-1 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) |
 | ✅ | 2024/09/28 | 25-0 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) |

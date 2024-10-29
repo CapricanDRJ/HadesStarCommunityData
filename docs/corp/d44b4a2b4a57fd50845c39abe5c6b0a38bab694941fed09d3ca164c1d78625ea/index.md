@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Bounty Hunters
-description: W:7 L:5 D:0 Bonus ❌
-date: 1721911166
+description: W:7 L:6 D:0 Bonus ❌
+date: 1730214778
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1235 🔻  (287)|
-| ELO Competitive | 1258 🔻  (329)|
-| Total Matches | 12 |
+| ELO Regular | 1219 🔻  (352)|
+| ELO Competitive | 1252 🔻  (349)|
+| Total Matches | 13 |
 | Wins | 7 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 0 |
 | Streak Record | 3 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721479166,1720349741,1718629297,1716184095,1713704336,1712047535,1709504640,1708253094,1706520679,1705847229,1704704978,1704201014];
+        let timestamps = [1729782778,1721479166,1720349741,1718629297,1716184095,1713704336,1712047535,1709504640,1708253094,1706520679,1705847229,1704704978,1704201014];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/29 | 4-23 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 | ❌ | 2024/07/25 | 3-14 | [lesescargots](https://ws.tsl.rocks/corp/718c873931e9097064fd6ef580fe9d8761be712e0783e0b97d28344abd910623/) |
 | ✅ | 2024/07/12 | 39-33 | [Hermitage](https://ws.tsl.rocks/corp/b8b6a62ede93951a04bdabd85b532c38d42d8c8b95165f8d4b14e0fd48a021ee/) |
 | ✅ | 2024/06/22 | 35-16 | [Alpaca Haven](https://ws.tsl.rocks/corp/e93a2f2efda24a65c8ee7eb57fbb269e19b2b1c28a67c6c7c3339b8c90f7726b/) |
