@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​代代守护你的神明
-description: W:8 L:12 D:0 Bonus ✅
+description: W:8 L:12 D:0 Bonus ❌
 date: 1729602647
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

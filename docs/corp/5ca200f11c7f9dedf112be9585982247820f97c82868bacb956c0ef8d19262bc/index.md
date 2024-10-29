@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Empire of Light
-description: W:9 L:17 D:0 Bonus ✅
+description: W:9 L:17 D:0 Bonus ❌
 date: 1730159194
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
