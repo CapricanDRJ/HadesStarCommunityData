@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​ITALIA
-description: W:2 L:0 D:0 Bonus ❌
-date: 1729102826
+description: W:3 L:0 D:0 Bonus ✅
+date: 1730180823
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1232 🔺  (298)|
-| ELO Competitive | 1232 🔺  (417)|
-| Total Matches | 2 |
-| Wins | 2 |
+| ELO Regular | 1247 🔺  (237)|
+| ELO Competitive | 1252 🔺  (351)|
+| Total Matches | 3 |
+| Wins | 3 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728670826,1728019284];
+        let timestamps = [1729748823,1728670826,1728019284];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/29 | 22-0 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |
 | ✅ | 2024/10/16 | 17-3 | [WHITE NOVA](https://ws.tsl.rocks/corp/0a44ab86ca49a02fb932607f1095f0b5411c556bb9bb95aa1f20908be0b45d51/) |
 | ✅ | 2024/10/09 | 16-2 | [无聊不过](https://ws.tsl.rocks/corp/6099bd39cf8510ea3ef2be0fe05df95266b12acfdcbe1bd58a4c33e9c3f25934/) |
 

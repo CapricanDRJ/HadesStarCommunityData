@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​●Black•Sails●
-description: W:18 L:18 D:0 Bonus ✅
-date: 1729579206
+description: W:18 L:19 D:0 Bonus ✅
+date: 1730183827
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1192 🔺  (557)|
-| ELO Competitive | 1247 🔺  (366)|
-| Total Matches | 36 |
+| ELO Regular | 1177 🔻  (832)|
+| ELO Competitive | 1232 🔻  (417)|
+| Total Matches | 37 |
 | Wins | 18 |
-| Losses | 18 |
+| Losses | 19 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 4 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729147206,1728546098,1727937534,1727334125,1726734785,1726125316,1725520417,1724928440,1724404590,1723708657,1723135586,1722512928,1721913387,1721293136,1720680625,1720082574,1719476739,1718894948,1718264017,1717679112,1717052179,1716446679,1715842181,1715237669,1714631853,1714033324,1713425528,1712822464,1711696869,1711031915,1708681900,1704916245,1704223858,1703719591,1702939230,1702327626];
+        let timestamps = [1729751827,1729147206,1728546098,1727937534,1727334125,1726734785,1726125316,1725520417,1724928440,1724404590,1723708657,1723135586,1722512928,1721913387,1721293136,1720680625,1720082574,1719476739,1718894948,1718264017,1717679112,1717052179,1716446679,1715842181,1715237669,1714631853,1714033324,1713425528,1712822464,1711696869,1711031915,1708681900,1704916245,1704223858,1703719591,1702939230,1702327626];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -128,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/29 | 0-21 | [Quantum Cats](https://ws.tsl.rocks/corp/0b6309a414bde261db3ee5592ae72168ca48d02558f5bc597950f11e55f92ae6/) |
 | ✅ | 2024/10/22 | 12-0 | [华夏舰队](https://ws.tsl.rocks/corp/abd6d05a100ffdde2d15abd725a209bfbbf069b60b10ddeac88e88da66191472/) |
 | ✅ | 2024/10/15 | 7-4 | [First Squad](https://ws.tsl.rocks/corp/39bb6d19385b7eb6e2e71a979f21256463432b6e2e36ae4c55446abb1f6a0db1/) |
 | ❌ | 2024/10/08 | 3-20 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) |

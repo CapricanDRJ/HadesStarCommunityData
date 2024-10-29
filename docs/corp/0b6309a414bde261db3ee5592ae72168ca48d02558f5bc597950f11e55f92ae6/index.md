@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Quantum Cats
-description: W:5 L:5 D:0 Bonus ❌
-date: 1729052632
+description: W:6 L:5 D:0 Bonus ✅
+date: 1730183827
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1203 🔻  (458)|
-| ELO Competitive | 1234 🔻  (412)|
-| Total Matches | 10 |
-| Wins | 5 |
+| ELO Regular | 1217 🔺  (361)|
+| ELO Competitive | 1250 🔺  (360)|
+| Total Matches | 11 |
+| Wins | 6 |
 | Losses | 5 |
 | Draws | 0 |
 | Streak Record | 2 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728620632,1727318502,1725957346,1717733812,1716871871,1715226553,1712504266,1707426280,1702600821,1700423064];
+        let timestamps = [1729751827,1728620632,1727318502,1725957346,1717733812,1716871871,1715226553,1712504266,1707426280,1702600821,1700423064];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/29 | 21-0 | [●Black•Sails●](https://ws.tsl.rocks/corp/fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31/) |
 | ❌ | 2024/10/16 | 5-24 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ✅ | 2024/10/01 | 16-13 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ✅ | 2024/09/15 | 28-0 | [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046/) |
