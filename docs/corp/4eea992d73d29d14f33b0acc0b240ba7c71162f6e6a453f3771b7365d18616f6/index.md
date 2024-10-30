@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​柯伊伯带伊甸园
-description: W:11 L:2 D:0 Bonus ✅
+description: W:11 L:2 D:0 Bonus ❌
 date: 1730242127
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
