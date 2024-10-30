@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​U.S.A
-description: W:17 L:27 D:1 Bonus ✅
-date: 1729841263
+description: W:17 L:28 D:1 Bonus ✅
+date: 1730290799
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1156 🔺  (1045)|
-| ELO Competitive | 1274 🔺  (297)|
-| Total Matches | 45 |
+| ELO Regular | 1149 🔻  (1075)|
+| ELO Competitive | 1265 🔻  (313)|
+| Total Matches | 46 |
 | Wins | 17 |
-| Losses | 27 |
+| Losses | 28 |
 | Draws | 1 |
 | Streak Record | 3 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729409263,1729396943,1728962386,1728954575,1728509142,1728501627,1728068279,1728066776,1727633730,1727620204,1727186587,1727186587,1726748176,1726746372,1726306849,1726290883,1725847969,1725839155,1725398730,1725390014,1724704276,1724704276,1723430087,1723422877,1720666501,1718646432,1718032023,1714970271,1711389189,1711381075,1710446605,1710346250,1709022057,1709000724,1707757869,1707756366,1706057593,1706042568,1704924060,1704916246,1704109957,1702675052,1701920980,1701894234,1701274513];
+        let timestamps = [1729858799,1729409263,1729396943,1728962386,1728954575,1728509142,1728501627,1728068279,1728066776,1727633730,1727620204,1727186587,1727186587,1726748176,1726746372,1726306849,1726290883,1725847969,1725839155,1725398730,1725390014,1724704276,1724704276,1723430087,1723422877,1720666501,1718646432,1718032023,1714970271,1711389189,1711381075,1710446605,1710346250,1709022057,1709000724,1707757869,1707756366,1706057593,1706042568,1704924060,1704916246,1704109957,1702675052,1701920980,1701894234,1701274513];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [2ND\-R8 Corp\.](https://ws.tsl.rocks/corp/e97866623598a98454b3a4724b472dc171f5e1aff84b076c43d021f0fabdc702/) | 0 | 2 | 0 | 2 |
 | [Germania](https://ws.tsl.rocks/corp/e088c9a1e761ef8c1f07a1d374886006b0ecace15d07b9549e3655729b630897/) | 2 | 1 | 0 | 3 |
 | [佛矿寺](https://ws.tsl.rocks/corp/64f8afd95b7004e9d5a442da55644ee3ce64a9a8e82345c458d757b527e40624/) | 2 | 0 | 0 | 2 |
 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) | 1 | 1 | 0 | 2 |
@@ -126,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/30 | 0-19 | [2ND\-R8 Corp\.](https://ws.tsl.rocks/corp/e97866623598a98454b3a4724b472dc171f5e1aff84b076c43d021f0fabdc702/) |
 | ✅ | 2024/10/25 | 12-8 | [Germania](https://ws.tsl.rocks/corp/e088c9a1e761ef8c1f07a1d374886006b0ecace15d07b9549e3655729b630897/) |
 | ↔️ | 2024/10/25 | 3-3 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ❌ | 2024/10/20 | 0-14 | [绛紫星](https://ws.tsl.rocks/corp/8c2109279ceb01bcca0aa5e85c151d5877831ac54199285743750e2ed343b407/) |

@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Justice Vengers
-description: W:22 L:3 D:1 Bonus ❌
-date: 1728809799
+description: W:23 L:3 D:1 Bonus ✅
+date: 1730283586
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1404 🔻  (46)|
-| ELO Competitive | 1446 🔻  (77)|
-| Total Matches | 26 |
-| Wins | 22 |
+| ELO Regular | 1408 🔺  (44)|
+| ELO Competitive | 1449 🔺  (75)|
+| Total Matches | 27 |
+| Wins | 23 |
 | Losses | 3 |
 | Draws | 1 |
 | Streak Record | 9 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728377799,1727937534,1727937534,1727492491,1727044767,1726610746,1726139435,1725686291,1725173957,1724085523,1722561010,1722024578,1721563289,1721115532,1720666501,1720213310,1719779354,1719345124,1718894948,1717683922,1716419344,1715789304,1714991902,1714411309,1714404998,1700126416];
+        let timestamps = [1729851586,1728377799,1727937534,1727937534,1727492491,1727044767,1726610746,1726139435,1725686291,1725173957,1724085523,1722561010,1722024578,1721563289,1721115532,1720666501,1720213310,1719779354,1719345124,1718894948,1717683922,1716419344,1715789304,1714991902,1714411309,1714404998,1700126416];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/30 | 32-0 | [НИФИГАСЕБЕ](https://ws.tsl.rocks/corp/a18fab78c26d983ee99c4cd3c7aaddcfac61283abb2122e9a8ccc44feb2b3196/) |
 | ❌ | 2024/10/13 | 4-32 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |
 | ✅ | 2024/10/08 | 31-0 | [华夏舰队](https://ws.tsl.rocks/corp/abd6d05a100ffdde2d15abd725a209bfbbf069b60b10ddeac88e88da66191472/) |
 | ✅ | 2024/10/08 | 20-3 | [●Black•Sails●](https://ws.tsl.rocks/corp/fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31/) |

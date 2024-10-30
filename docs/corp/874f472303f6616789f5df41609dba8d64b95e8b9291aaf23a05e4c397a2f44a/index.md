@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​SUN OF 3LANDS
-description: W:9 L:4 D:1 Bonus ❌
-date: 1729644426
+description: W:10 L:4 D:1 Bonus ✅
+date: 1730285389
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1259 🔺  (213)|
-| ELO Competitive | 1281 🔺  (282)|
-| Total Matches | 14 |
-| Wins | 9 |
+| ELO Regular | 1276 🔺  (176)|
+| ELO Competitive | 1301 🔺  (246)|
+| Total Matches | 15 |
+| Wins | 10 |
 | Losses | 4 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 3 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729212426,1728740556,1722378764,1721558204,1720440799,1719113423,1718471233,1717547182,1716632352,1716199117,1706673647,1705635664,1705063187,1704105448];
+        let timestamps = [1729853389,1729212426,1728740556,1722378764,1721558204,1720440799,1719113423,1718471233,1717547182,1716632352,1716199117,1706673647,1705635664,1705063187,1704105448];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/30 | 16-5 | [Industrial W\.O](https://ws.tsl.rocks/corp/99a4ba88f6a620cb9ea1da456127c978a858ffbda4e40b255fcf3365515da25d/) |
 | ✅ | 2024/10/23 | 4-3 | [Dumpster Fire 2](https://ws.tsl.rocks/corp/37d473dec00d4d68e29963e3b423670aac735e7c1f256276e6c2e7d62180b0f8/) |
 | ❌ | 2024/10/17 | 5-12 | [Cerulean Star](https://ws.tsl.rocks/corp/63d77c8d633b9dec932ad5d0f5a8ceb371b865b1adbb221ed410c5a7ba7df203/) |
 | ❌ | 2024/08/04 | 4-14 | [lesescargots](https://ws.tsl.rocks/corp/718c873931e9097064fd6ef580fe9d8761be712e0783e0b97d28344abd910623/) |
