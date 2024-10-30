@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​斯比纳兰
-description: W:4 L:8 D:1 Bonus ❌
-date: 1729778456
+description: W:5 L:8 D:1 Bonus ✅
+date: 1730279666
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1140 🔻  (1107)|
-| ELO Competitive | 1184 🔻  (903)|
-| Total Matches | 13 |
-| Wins | 4 |
+| ELO Regular | 1161 🔺  (1009)|
+| ELO Competitive | 1203 🔺  (566)|
+| Total Matches | 14 |
+| Wins | 5 |
 | Losses | 8 |
 | Draws | 1 |
 | Streak Record | 3 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729346456,1728901073,1728393426,1728141607,1727949554,1727700134,1727509017,1727010203,1726571581,1726057106,1725544157,1724989428,1724554613];
+        let timestamps = [1729847666,1729346456,1728901073,1728393426,1728141607,1727949554,1727700134,1727509017,1727010203,1726571581,1726057106,1725544157,1724989428,1724554613];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/30 | 6-0 | [SEC](https://ws.tsl.rocks/corp/c36ee5a9ff1f148ada25e8402464cecd17ac847acf81dacd8ea25c29c8fd9bc1/) |
 | ❌ | 2024/10/24 | 1-4 | [华夏三体舰队](https://ws.tsl.rocks/corp/a457b1d7612cdff92b655d33cf4ffd72b38aa796525cf0432423cfd0d01c6cf9/) |
 | ❌ | 2024/10/19 | 0-2 | [EarthFederation](https://ws.tsl.rocks/corp/e1d58bc0b534389adeb45301641e32cdda2af0a1748a0d2ddb52e794db2c6d5b/) |
 | ❌ | 2024/10/13 | 0-13 | [Dark Unit](https://ws.tsl.rocks/corp/9f0f70994182aca13b85f14553c52c7d2bedd5633ec743ba711e5ef83d775f91/) |
