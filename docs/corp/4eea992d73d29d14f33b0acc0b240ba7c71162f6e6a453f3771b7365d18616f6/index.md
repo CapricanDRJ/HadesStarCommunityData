@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​柯伊伯带伊甸园
-description: W:11 L:1 D:0 Bonus ✅
-date: 1729637791
+description: W:11 L:2 D:0 Bonus ✅
+date: 1730242127
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1328 🔺  (106)|
-| ELO Competitive | 1345 🔺  (183)|
-| Total Matches | 12 |
+| ELO Regular | 1308 🔻  (132)|
+| ELO Competitive | 1326 🔻  (206)|
+| Total Matches | 13 |
 | Wins | 11 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Streak Record | 10 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729205791,1720232839,1719544655,1718665668,1718076198,1717319053,1716243572,1715393599,1714342505,1713615703,1713168917,1712510878];
+        let timestamps = [1729810127,1729205791,1720232839,1719544655,1718665668,1718076198,1717319053,1716243572,1715393599,1714342505,1713615703,1713168917,1712510878];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/29 | 8-14 | [Spaceballs](https://ws.tsl.rocks/corp/1e54a7ba8156a65b15f7f1358b682a10f856acb0f96d9e3b582c4ea175905839/) |
 | ✅ | 2024/10/22 | 28-7 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
 | ❌ | 2024/07/11 | 3-23 | [AFronteiraFinal](https://ws.tsl.rocks/corp/f0c64a4babe1fb017902406f1f331c63129409bccfba868cadc10cf1d064b9d4/) |
 | ✅ | 2024/07/03 | 10-1 | [Poggy Rockers](https://ws.tsl.rocks/corp/47aeb151232251d9e53310e21f1290b1240c63878169968847bd1e89efc909a7/) |

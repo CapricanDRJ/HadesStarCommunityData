@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​First Squad
-description: W:5 L:14 D:1 Bonus ❌
-date: 1729462009
+description: W:5 L:15 D:1 Bonus ❌
+date: 1730241827
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1094 🔻  (1220)|
-| ELO Competitive | 1164 🔻  (1103)|
-| Total Matches | 20 |
+| ELO Regular | 1087 🔻  (1229)|
+| ELO Competitive | 1157 🔻  (1142)|
+| Total Matches | 21 |
 | Wins | 5 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 1 |
 | Streak Record | 4 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729030009,1728550004,1728546098,1728010869,1727988335,1727429379,1727419465,1726780935,1726780635,1726174902,1726174302,1725013784,1717527346,1716602003,1714325677,1710971228,1707487273,1704271635,1701628552,1700869973];
+        let timestamps = [1729809827,1729030009,1728550004,1728546098,1728010869,1727988335,1727429379,1727419465,1726780935,1726780635,1726174902,1726174302,1725013784,1717527346,1716602003,1714325677,1710971228,1707487273,1704271635,1701628552,1700869973];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,12 +117,14 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b/) | 0 | 2 | 0 | 2 |
 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 0 | 2 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/29 | 3-19 | [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b/) |
 | ❌ | 2024/10/20 | 8-16 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
 | ❌ | 2024/10/15 | 19-27 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) |
 | ❌ | 2024/10/15 | 4-7 | [●Black•Sails●](https://ws.tsl.rocks/corp/fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31/) |
