@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​麻雀集团
-description: W:1 L:5 D:2 Bonus ✅
+description: W:1 L:5 D:2 Bonus ❌
 date: 1729703326
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1155 🔺  (1047)|
-| ELO Competitive | 1167 🔺  (1074)|
+| ELO Competitive | 1167 🔺  (1075)|
 | Total Matches | 8 |
 | Wins | 1 |
 | Losses | 5 |
