@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​SUN OF 3LANDS
-description: W:9 L:4 D:1 Bonus ✅
+description: W:9 L:4 D:1 Bonus ❌
 date: 1729644426
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

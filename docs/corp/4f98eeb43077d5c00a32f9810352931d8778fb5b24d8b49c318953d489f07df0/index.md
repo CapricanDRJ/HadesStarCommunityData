@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​AlyTec Sys.
-description: W:1 L:4 D:1 Bonus ❌
-date: 1729819027
+description: W:1 L:5 D:1 Bonus ❌
+date: 1730266760
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1149 🔻  (1075)|
-| ELO Competitive | 1154 🔻  (1151)|
-| Total Matches | 6 |
+| ELO Regular | 1136 🔻  (1128)|
+| ELO Competitive | 1141 🔻  (1204)|
+| Total Matches | 7 |
 | Wins | 1 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 1 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729387027,1728938351,1728505836,1728055952,1723351651,1722852510];
+        let timestamps = [1729834760,1729387027,1728938351,1728505836,1728055952,1723351651,1722852510];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/30 | 0-8 | [Omega corp](https://ws.tsl.rocks/corp/17140be6e5915edf2d09ebcf246a7c2650cf39def04823c9a04bdf81ff8fc38e/) |
 | ❌ | 2024/10/25 | 2-5 | [imperio galacti](https://ws.tsl.rocks/corp/53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2/) |
 | ↔️ | 2024/10/19 | 3-3 | [🌪TORNADO ](https://ws.tsl.rocks/corp/df15d02d32c67d60995e68d6c4197c23b340a0a985f04280563d8d07bd4536fa/) |
 | ❌ | 2024/10/14 | 1-2 | [Devourers](https://ws.tsl.rocks/corp/8b11fb529b6388e78677d5025d5973063a49ee25a297a52cda3859faa20ee5ca/) |
