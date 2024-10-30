@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Dominadores
-description: W:1 L:0 D:0 Bonus ❌
-date: 1729684138
+description: W:1 L:1 D:0 Bonus ❌
+date: 1730313040
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1208 🔺  (444)|
-| ELO Competitive | 1210 🔺  (545)|
-| Total Matches | 1 |
+| ELO Regular | 1195 🔻  (534)|
+| ELO Competitive | 1196 🔻  (636)|
+| Total Matches | 2 |
 | Wins | 1 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729252138];
+        let timestamps = [1729881040,1729252138];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/30 | 0-31 | [Sons of Liberty](https://ws.tsl.rocks/corp/b58b2f163527ea346f98b53b4a7ae321010da6157a3abe3c8262eb44c3d773a5/) |
 | ✅ | 2024/10/23 | 22-1 | [Pyke Syndicate](https://ws.tsl.rocks/corp/1761635d6aaf9c2caf7abc37130e2d9aa48e7b4cc753ae4b701fde4b48abd3e1/) |
 
 Corporation ID: 2c3d0185f0e77bc1159afedc714f4971e3ecb2373ae811a554f8034b5cc0dd15
