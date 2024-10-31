@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Lacuna Ind.
-description: W:7 L:25 D:1 Bonus ❌
-date: 1729774548
+description: W:7 L:26 D:1 Bonus ❌
+date: 1730379453
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1067 🔻  (1251)|
-| ELO Competitive | 1092 🔻  (1266)|
-| Total Matches | 33 |
+| ELO Regular | 1064 🔻  (1255)|
+| ELO Competitive | 1089 🔻  (1269)|
+| Total Matches | 34 |
 | Wins | 7 |
-| Losses | 25 |
+| Losses | 26 |
 | Draws | 1 |
 | Streak Record | 3 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729342548,1728896265,1728323717,1727682403,1727027637,1726314024,1725822731,1723996568,1723289445,1720983594,1715551956,1714304036,1713628926,1712457988,1711740441,1711130168,1710677069,1709955036,1709346277,1708783469,1708094432,1707510414,1707016226,1706301005,1705694566,1703990359,1703231236,1702763413,1702117532,1701388120,1700908739,1700236716,1699704962];
+        let timestamps = [1729947453,1729342548,1728896265,1728323717,1727682403,1727027637,1726314024,1725822731,1723996568,1723289445,1720983594,1715551956,1714304036,1713628926,1712457988,1711740441,1711130168,1710677069,1709955036,1709346277,1708783469,1708094432,1707510414,1707016226,1706301005,1705694566,1703990359,1703231236,1702763413,1702117532,1701388120,1700908739,1700236716,1699704962];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/31 | 9-48 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) |
 | ❌ | 2024/10/24 | 0-38 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) |
 | ❌ | 2024/10/19 | 0-32 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) |
 | ❌ | 2024/10/12 | 25-36 | [ItBurnsWhenIEMP](https://ws.tsl.rocks/corp/1549586a8e69d1a5b1245b5cf33b7beb241b2343c07d1d800e5a2c4026c06438/) |
