@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​国际联盟
-description: W:1 L:0 D:0 Bonus ✅
+description: W:1 L:0 D:0 Bonus ❌
 date: 1729749604
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1208 🔺  (444)|
+| ELO Regular | 1208 🔺  (443)|
 | ELO Competitive | 1209 🔺  (547)|
 | Total Matches | 1 |
 | Wins | 1 |

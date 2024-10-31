@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Вселенские 40%
-description: W:20 L:30 D:0 Bonus ✅
-date: 1730036288
+description: W:21 L:30 D:0 Bonus ✅
+date: 1730369836
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1106 🔻  (1210)|
-| ELO Competitive | 1167 🔺  (1081)|
-| Total Matches | 50 |
-| Wins | 20 |
+| ELO Regular | 1122 🔺  (1169)|
+| ELO Competitive | 1187 🔺  (768)|
+| Total Matches | 51 |
+| Wins | 21 |
 | Losses | 30 |
 | Draws | 0 |
 | Streak Record | 6 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729604288,1729503320,1727983225,1727513224,1727044767,1726547624,1726078446,1725608159,1725119429,1724625541,1724189200,1723663887,1720490990,1719397705,1718024808,1716778108,1716223458,1715789304,1714139084,1713699229,1713240434,1712806542,1712205586,1711749158,1711176742,1710560778,1710097470,1709543694,1708978189,1708538269,1708533460,1708088721,1707968087,1707406142,1706963336,1706365913,1705758573,1705323432,1704726917,1704146026,1703419368,1702850572,1702240167,1701607809,1701080660,1700633437,1700120706,1699682115,1699158308,1698716532];
+        let timestamps = [1729937836,1729604288,1729503320,1727983225,1727513224,1727044767,1726547624,1726078446,1725608159,1725119429,1724625541,1724189200,1723663887,1720490990,1719397705,1718024808,1716778108,1716223458,1715789304,1714139084,1713699229,1713240434,1712806542,1712205586,1711749158,1711176742,1710560778,1710097470,1709543694,1708978189,1708538269,1708533460,1708088721,1707968087,1707406142,1706963336,1706365913,1705758573,1705323432,1704726917,1704146026,1703419368,1702850572,1702240167,1701607809,1701080660,1700633437,1700120706,1699682115,1699158308,1698716532];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,12 +117,14 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) | 2 | 0 | 0 | 2 |
 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) | 0 | 2 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/31 | 22-3 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |
 | ❌ | 2024/10/27 | 0-20 | [TeddisaurusWrex](https://ws.tsl.rocks/corp/88f37fd0ab1f14c7e06af4173800167f8d1f5db4022c1cd42637da431140ef7a/) |
 | ✅ | 2024/10/26 | 21-0 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) |
 | ❌ | 2024/10/08 | 3-27 | [Dark Training](https://ws.tsl.rocks/corp/f889cafae8c2e0c622ae5494ce013504bf204ba00f7c7b44c61985588ee8f53c/) |
