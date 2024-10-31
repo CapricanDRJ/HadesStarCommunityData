@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​蓝色星系二号分盟
-description: W:1 L:0 D:0 Bonus ✅
+description: W:1 L:0 D:0 Bonus ❌
 date: 1729774849
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1215 🔺  (391)|
+| ELO Regular | 1215 🔺  (392)|
 | ELO Competitive | 1217 🔺  (473)|
 | Total Matches | 1 |
 | Wins | 1 |
