@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​Sich.ua
-description: W:29 L:28 D:4 Bonus ✅
+description: W:29 L:28 D:4 Bonus ❌
 date: 1730343979
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1151 🔻  (1064)|
+| ELO Regular | 1151 🔻  (1063)|
 | ELO Competitive | 1369 🔻  (152)|
 | Total Matches | 61 |
 | Wins | 29 |

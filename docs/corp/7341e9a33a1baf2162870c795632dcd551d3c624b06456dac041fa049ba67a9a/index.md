@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​11th Engineers
-description: W:4 L:35 D:1 Bonus ❌
-date: 1729909758
+description: W:4 L:37 D:1 Bonus ❌
+date: 1730361121
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 904 🔻  (1302)|
-| ELO Competitive | 1081 🔻  (1276)|
-| Total Matches | 40 |
+| ELO Regular | 893 🔻  (1302)|
+| ELO Competitive | 1078 🔻  (1278)|
+| Total Matches | 42 |
 | Wins | 4 |
-| Losses | 35 |
+| Losses | 37 |
 | Draws | 1 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729477758,1729044129,1728614623,1728609292,1728156936,1727753979,1727724485,1727275229,1726871642,1726421931,1726398321,1725964310,1725959149,1725523722,1725087803,1725087739,1724653784,1724650780,1723787992,1723772968,1723299966,1723298371,1722859649,1722858817,1721984608,1721558204,1721551868,1721096299,1720663796,1720226530,1720200988,1719767432,1719287424,1719287071,1718839061,1718398807,1717954489,1717948477,1717493374,1717058790];
+        let timestamps = [1729929121,1729928355,1729477758,1729044129,1728614623,1728609292,1728156936,1727753979,1727724485,1727275229,1726871642,1726421931,1726398321,1725964310,1725959149,1725523722,1725087803,1725087739,1724653784,1724650780,1723787992,1723772968,1723299966,1723298371,1722859649,1722858817,1721984608,1721558204,1721551868,1721096299,1720663796,1720226530,1720200988,1719767432,1719287424,1719287071,1718839061,1718398807,1717954489,1717948477,1717493374,1717058790];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -128,6 +128,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/10/31 | 0-10 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
+| ❌ | 2024/10/31 | 0-8 | [普罗米修斯](https://ws.tsl.rocks/corp/f39d00b1bbbf87c158931fd887f37a588019d0b1fd4f2441fbc675674b71423a/) |
 | ❌ | 2024/10/26 | 0-3 | [Axiom](https://ws.tsl.rocks/corp/4000a010c205d318c766ba14fe1836eaab6652f1738a88cce8a8c69d0283e1b0/) |
 | ❌ | 2024/10/21 | 0-5 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) |
 | ❌ | 2024/10/16 | 0-4 | [脉冲星际集团](https://ws.tsl.rocks/corp/a4c08cf63563563e9bfa1d35edb256e9bb8bcdca15103d646d2ff8ed9d17f480/) |

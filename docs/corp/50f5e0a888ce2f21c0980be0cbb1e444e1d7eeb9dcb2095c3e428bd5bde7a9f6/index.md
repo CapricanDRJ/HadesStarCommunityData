@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​太阳系集团
-description: W:10 L:3 D:1 Bonus ✅
+description: W:10 L:3 D:1 Bonus ❌
 date: 1730276074
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

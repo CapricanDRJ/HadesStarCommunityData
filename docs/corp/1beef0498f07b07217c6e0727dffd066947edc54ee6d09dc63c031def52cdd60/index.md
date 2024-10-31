@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​ 墨痕 
-description: W:10 L:11 D:0 Bonus ❌
-date: 1727004482
+description: W:11 L:11 D:0 Bonus ✅
+date: 1730361121
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1199 🔺  (500)|
-| ELO Competitive | 1245 🔺  (378)|
-| Total Matches | 21 |
-| Wins | 10 |
+| ELO Regular | 1202 🔺  (461)|
+| ELO Competitive | 1253 🔺  (350)|
+| Total Matches | 22 |
+| Wins | 11 |
 | Losses | 11 |
 | Draws | 0 |
-| Streak | 4 |
-| Streak Record | 4 |
+| Streak | 5 |
+| Streak Record | 5 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1726572482,1724376710,1724210831,1719577106,1705579464,1703515231,1703506816,1703073457,1703066244,1702568659,1702555133,1702099501,1702097396,1701593081,1701494206,1701093884,1700573027,1699963157,1699689930,1699529103,1698843669];
+        let timestamps = [1729929121,1726572482,1724376710,1724210831,1719577106,1705579464,1703515231,1703506816,1703073457,1703066244,1702568659,1702555133,1702099501,1702097396,1701593081,1701494206,1701093884,1700573027,1699963157,1699689930,1699529103,1698843669];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/31 | 3-0 | [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046/) |
 | ✅ | 2024/09/22 | 14-7 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) |
 | ✅ | 2024/08/28 | 10-4 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 | ✅ | 2024/08/26 | 11-3 | [羽共和体](https://ws.tsl.rocks/corp/61b6e0502a087307a2ecf50e5d84f6123ad19984dc5790c997f16a676213aa7e/) |
