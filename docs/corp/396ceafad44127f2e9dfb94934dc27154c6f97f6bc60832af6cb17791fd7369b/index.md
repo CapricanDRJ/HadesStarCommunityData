@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Vega Conflict
-description: W:10 L:10 D:0 Bonus ✅
+description: W:10 L:10 D:0 Bonus ❌
 date: 1729865306
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
