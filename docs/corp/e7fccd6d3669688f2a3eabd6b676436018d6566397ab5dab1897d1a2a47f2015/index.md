@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​UKR Spase
-description: W:22 L:10 D:0 Bonus ✅
+description: W:22 L:10 D:0 Bonus ❌
 date: 1729846973
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

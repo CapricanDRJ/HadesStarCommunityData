@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​Ƭιтαηѕ Ф тєʀʀσƦ
-description: W:36 L:16 D:2 Bonus ✅
+description: W:36 L:16 D:2 Bonus ❌
 date: 1729851481
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1381 🔺  (61)|
+| ELO Regular | 1381 🔺  (60)|
 | ELO Competitive | 1479 🔺  (57)|
 | Total Matches | 54 |
 | Wins | 36 |
