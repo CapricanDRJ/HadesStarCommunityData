@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​银河护卫队
-description: W:2 L:3 D:0 Bonus ❌
-date: 1730335578
+description: W:2 L:4 D:0 Bonus ❌
+date: 1730427836
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1178 🔻  (829)|
-| ELO Competitive | 1180 🔻  (938)|
-| Total Matches | 5 |
+| ELO Regular | 1165 🔻  (972)|
+| ELO Competitive | 1187 🔻  (752)|
+| Total Matches | 6 |
 | Wins | 2 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729903578,1729271326,1728322514,1727870219,1726669030];
+        let timestamps = [1729995836,1729903578,1729271326,1728322514,1727870219,1726669030];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/01 | 1-15 | [星光万丈](https://ws.tsl.rocks/corp/92ad2a305a74e168b57771140461b4d226e1e8cac17b4f77027d5a67ead5fa1d/) |
 | ❌ | 2024/10/31 | 1-2 | [Alpha to Omega](https://ws.tsl.rocks/corp/2b3694014264240c8c0d1bb6a20e9d120dff2b6680c98b4e06e34bfd489f9da6/) |
 | ❌ | 2024/10/23 | 0-2 | [麻雀集团](https://ws.tsl.rocks/corp/bf5e5ea02e24918ed66d543902f4315f957c79c9bc1bd434c034158e9f648abe/) |
 | ✅ | 2024/10/12 | 4-0 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) |
