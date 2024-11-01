@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​UFO
-description: W:6 L:6 D:0 Bonus ✅
-date: 1729872822
+description: W:6 L:7 D:0 Bonus ✅
+date: 1730455483
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1240 🔺  (273)|
-| ELO Competitive | 1255 🔺  (342)|
-| Total Matches | 12 |
+| ELO Regular | 1228 🔻  (315)|
+| ELO Competitive | 1245 🔻  (379)|
+| Total Matches | 13 |
 | Wins | 6 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729440822,1728838263,1727625615,1727021024,1726417121,1708882635,1708285856,1707672831,1707077836,1706468695,1705864062,1704216945];
+        let timestamps = [1730023483,1729440822,1728838263,1727625615,1727021024,1726417121,1708882635,1708285856,1707672831,1707077836,1706468695,1705864062,1704216945];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -113,11 +113,17 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [Star Destroyers](https://ws.tsl.rocks/corp/32ba20918cd8720602fefb3bc676a6ba5195314479040f70eadc728fbbc2698d/) | 1 | 1 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/01 | 6-10 | [Star Destroyers](https://ws.tsl.rocks/corp/32ba20918cd8720602fefb3bc676a6ba5195314479040f70eadc728fbbc2698d/) |
 | ✅ | 2024/10/25 | 20-9 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ❌ | 2024/10/18 | 6-31 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |
 | ✅ | 2024/10/04 | 9-6 | [Star Destroyers](https://ws.tsl.rocks/corp/32ba20918cd8720602fefb3bc676a6ba5195314479040f70eadc728fbbc2698d/) |

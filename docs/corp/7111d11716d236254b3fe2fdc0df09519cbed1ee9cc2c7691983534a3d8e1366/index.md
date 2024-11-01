@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Gummibärenbande
-description: W:4 L:22 D:0 Bonus ✅
+description: W:4 L:22 D:0 Bonus ❌
 date: 1729844869
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
