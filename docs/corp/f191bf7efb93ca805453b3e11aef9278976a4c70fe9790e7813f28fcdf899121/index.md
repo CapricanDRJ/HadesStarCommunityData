@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​Dumpster Fire
-description: W:19 L:41 D:0 Bonus ✅
+description: W:19 L:41 D:0 Bonus ❌
 date: 1729877031
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1086 🔺  (1232)|
+| ELO Regular | 1086 🔺  (1233)|
 | ELO Competitive | 1174 🔺  (996)|
 | Total Matches | 60 |
 | Wins | 19 |
