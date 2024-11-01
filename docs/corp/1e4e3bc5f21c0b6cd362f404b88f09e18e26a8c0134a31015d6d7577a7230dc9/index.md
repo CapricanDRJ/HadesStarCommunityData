@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​АНДРОМЕДА 
-description: W:31 L:46 D:1 Bonus ✅
+description: W:31 L:46 D:1 Bonus ❌
 date: 1730369836
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

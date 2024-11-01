@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Черный Легион
-description: W:19 L:10 D:0 Bonus ❌
-date: 1729379366
+description: W:19 L:11 D:0 Bonus ❌
+date: 1730432944
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1285 🔺  (162)|
-| ELO Competitive | 1344 🔺  (181)|
-| Total Matches | 29 |
+| ELO Regular | 1268 🔻  (191)|
+| ELO Competitive | 1335 🔻  (189)|
+| Total Matches | 30 |
 | Wins | 19 |
-| Losses | 10 |
+| Losses | 11 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 11 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728947366,1727907790,1727374998,1726851844,1725135498,1720750657,1720238548,1719535042,1715891158,1714691648,1714682635,1714184756,1713581450,1712954672,1712095617,1712095317,1711663214,1711230535,1710786748,1710112843,1709652164,1709163590,1708722171,1707871467,1706891215,1706392363,1704403266,1703615390,1702717724];
+        let timestamps = [1730000944,1728947366,1727907790,1727374998,1726851844,1725135498,1720750657,1720238548,1719535042,1715891158,1714691648,1714682635,1714184756,1713581450,1712954672,1712095617,1712095317,1711663214,1711230535,1710786748,1710112843,1709652164,1709163590,1708722171,1707871467,1706891215,1706392363,1704403266,1703615390,1702717724];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/01 | 10-24 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | ✅ | 2024/10/19 | 10-3 | [Галактика Зла](https://ws.tsl.rocks/corp/1495d852070d8182229d3cb26e828265d4525a9ef97a9b377415b803b01d6101/) |
 | ✅ | 2024/10/07 | 25-0 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
 | ❌ | 2024/10/01 | 3-6 | [ЧВК "Котики"](https://ws.tsl.rocks/corp/b770b833fe257bc6accd1bbe82a887971291dd0038f8aa627a47f3ce063265c0/) |
