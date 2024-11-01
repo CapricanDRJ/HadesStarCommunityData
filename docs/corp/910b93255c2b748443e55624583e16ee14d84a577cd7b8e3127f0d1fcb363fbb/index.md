@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​viCIOus
-description: W:8 L:2 D:0 Bonus ✅
-date: 1730019172
+description: W:9 L:2 D:0 Bonus ✅
+date: 1730417622
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1261 🔻  (206)|
-| ELO Competitive | 1301 🔺  (246)|
-| Total Matches | 10 |
-| Wins | 8 |
+| ELO Regular | 1277 🔺  (173)|
+| ELO Competitive | 1316 🔺  (223)|
+| Total Matches | 11 |
+| Wins | 9 |
 | Losses | 2 |
 | Draws | 0 |
 | Streak Record | 6 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729587172,1729543598,1729108447,1728772928,1728661206,1728222142,1727772858,1727255994,1726803718,1726362718];
+        let timestamps = [1729985622,1729587172,1729543598,1729108447,1728772928,1728661206,1728222142,1727772858,1727255994,1726803718,1726362718];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/10/31 | 7-0 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 | ❌ | 2024/10/27 | 0-5 | [Splendid](https://ws.tsl.rocks/corp/8d0fd2cb62785c9876643edf419b241f0f86e339052e5d3e4fab40b0416828dd/) |
 | ✅ | 2024/10/26 | 9-0 | [WHITE NOVA](https://ws.tsl.rocks/corp/0a44ab86ca49a02fb932607f1095f0b5411c556bb9bb95aa1f20908be0b45d51/) |
 | ✅ | 2024/10/21 | 7-0 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
