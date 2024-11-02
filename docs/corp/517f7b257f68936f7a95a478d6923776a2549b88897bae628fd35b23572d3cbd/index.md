@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​Spacefleet
-description: W:42 L:39 D:0 Bonus ✅
+description: W:42 L:39 D:0 Bonus ❌
 date: 1730152284
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1220 🔻  (349)|
+| ELO Regular | 1220 🔻  (351)|
 | ELO Competitive | 1490 🔺  (47)|
 | Total Matches | 81 |
 | Wins | 42 |

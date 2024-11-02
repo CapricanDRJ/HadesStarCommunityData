@@ -1,19 +1,21 @@
 ---
 layout: page
 title: ​新星汇聚
-description: W:1 L:0 D:0 Bonus ❌
-date: 1728276979
+description: W:2 L:0 D:0 Bonus ✅
+date: 1730566676
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔺  (400)|
-| ELO Competitive | 1216 🔺  (495)|
-| Total Matches | 1 |
-| Wins | 1 |
+| ELO Regular | 1224 🔺  (336)|
+| ELO Competitive | 1226 🔺  (441)|
+| Total Matches | 2 |
+| Wins | 2 |
 | Losses | 0 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 
 
 # Whitestar Match Day
@@ -30,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727844979];
+        let timestamps = [1730134676,1727844979];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/02 | 3-1 | [Survivors](https://ws.tsl.rocks/corp/10eb3bf190162d1f8373394a774ca9fe65faf64b1e98400cceadb7f37028d7b0/) |
 | ✅ | 2024/10/07 | 22-0 | [云霄宫](https://ws.tsl.rocks/corp/c319ac731957c1d658994ab5727dec3d0ccfdcd31b00ee66efbf07be25bdc3e1/) |
 
 Corporation ID: 7e61cd500818e2d3a3714d8a775a407e2ce8d9bf1ece36171778536aa8ca7078
