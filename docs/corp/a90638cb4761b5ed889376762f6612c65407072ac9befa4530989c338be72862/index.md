@@ -1,19 +1,21 @@
 ---
 layout: page
 title: ​Corp. Luminá
-description: W:1 L:0 D:0 Bonus ❌
-date: 1729876430
+description: W:2 L:0 D:0 Bonus ✅
+date: 1730558260
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1220 🔺  (348)|
-| ELO Competitive | 1220 🔺  (458)|
-| Total Matches | 1 |
-| Wins | 1 |
+| ELO Regular | 1234 🔺  (297)|
+| ELO Competitive | 1234 🔺  (417)|
+| Total Matches | 2 |
+| Wins | 2 |
 | Losses | 0 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 
 
 # Whitestar Match Day
@@ -30,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729444430];
+        let timestamps = [1730126260,1729444430];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/02 | 24-0 | [华夏三体\-基沃托斯集团](https://ws.tsl.rocks/corp/2a0e5e40c4264cc5c8543ba1f6f41772d2059010c0a58381251017412b294ef7/) |
 | ✅ | 2024/10/25 | 10-5 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 
 Corporation ID: a90638cb4761b5ed889376762f6612c65407072ac9befa4530989c338be72862

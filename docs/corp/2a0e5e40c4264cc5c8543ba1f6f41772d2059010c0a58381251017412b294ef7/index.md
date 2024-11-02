@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​华夏三体-基沃托斯集团
-description: W:0 L:1 D:0 Bonus ❌
-date: 1730034484
+description: W:0 L:2 D:0 Bonus ❌
+date: 1730558260
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (653)|
-| ELO Competitive | 1186 🔻  (778)|
-| Total Matches | 1 |
+| ELO Regular | 1173 🔻  (879)|
+| ELO Competitive | 1173 🔻  (1007)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729602484];
+        let timestamps = [1730126260,1729602484];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/02 | 0-24 | [Corp\. Luminá](https://ws.tsl.rocks/corp/a90638cb4761b5ed889376762f6612c65407072ac9befa4530989c338be72862/) |
 | ❌ | 2024/10/27 | 3-5 | [Dirty Minds Inc](https://ws.tsl.rocks/corp/c8436a708008779e050bd40e98b52fc38b3782b31d5fdd99c74918af8005d778/) |
 
 Corporation ID: 2a0e5e40c4264cc5c8543ba1f6f41772d2059010c0a58381251017412b294ef7
