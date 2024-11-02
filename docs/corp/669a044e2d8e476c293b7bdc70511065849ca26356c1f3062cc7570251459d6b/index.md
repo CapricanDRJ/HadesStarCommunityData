@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Rzeczypospolita
-description: W:0 L:0 D:1 Bonus ❌
-date: 1700222876
+description: W:0 L:1 D:1 Bonus ❌
+date: 1730511060
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1200 ▫️  (481)|
-| ELO Competitive | 1200 ▫️  (597)|
-| Total Matches | 1 |
+| ELO Regular | 1185 🔻  (691)|
+| ELO Competitive | 1186 🔻  (802)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 1 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1699790876];
+        let timestamps = [1730079060,1699790876];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/02 | 0-10 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) |
 | ↔️ | 2023/11/17 | 0-0 | [Blackwater co\.](https://ws.tsl.rocks/corp/794eaa5b6c65cddf466d163571a24c2d603a005b4fad405a1237c19ed68edd7d/) |
 
 Corporation ID: 669a044e2d8e476c293b7bdc70511065849ca26356c1f3062cc7570251459d6b

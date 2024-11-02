@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Укр інтроверти
-description: W:1 L:7 D:0 Bonus ❌
-date: 1729993322
+description: W:1 L:8 D:0 Bonus ❌
+date: 1730512585
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1127 🔻  (1158)|
-| ELO Competitive | 1133 🔻  (1223)|
-| Total Matches | 8 |
+| ELO Regular | 1119 🔻  (1177)|
+| ELO Competitive | 1127 🔻  (1234)|
+| Total Matches | 9 |
 | Wins | 1 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729561322,1729007765,1728512320,1711979328,1711398506,1710915040,1710482356,1709912667];
+        let timestamps = [1730080585,1729561322,1729007765,1728512320,1711979328,1711398506,1710915040,1710482356,1709912667];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/02 | 3-33 | [Scar](https://ws.tsl.rocks/corp/1fd57b7d50b68cb3883fd58e596f496821ebcc82dee1915bb7f34a402b03c44a/) |
 | ❌ | 2024/10/27 | 0-40 | [Галактика Зла](https://ws.tsl.rocks/corp/1495d852070d8182229d3cb26e828265d4525a9ef97a9b377415b803b01d6101/) |
 | ❌ | 2024/10/20 | 7-28 | [ItaFederalFleet](https://ws.tsl.rocks/corp/02f7ac2b406e46cbb3e1f7fa3a0fb0dc2c32f9bc8afc54c299cd54757463ddbe/) |
 | ❌ | 2024/10/14 | 0-21 | [1st/Ave/Junkie2](https://ws.tsl.rocks/corp/b129b678cd83374fa72b5da92172ff1c856b8f72c32bcdb4711d66d06528fca1/) |
