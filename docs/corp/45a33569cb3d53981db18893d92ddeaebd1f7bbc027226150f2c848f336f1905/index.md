@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Bloodtide
-description: W:40 L:45 D:0 Bonus ✅
+description: W:40 L:45 D:0 Bonus ❌
 date: 1729956059
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
