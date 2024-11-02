@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Z. O. V. 
-description: W:31 L:4 D:1 Bonus ✅
-date: 1729938926
+description: W:31 L:5 D:1 Bonus ✅
+date: 1730536019
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1456 🔺  (21)|
-| ELO Competitive | 1517 🔺  (35)|
-| Total Matches | 36 |
+| ELO Regular | 1438 🔻  (26)|
+| ELO Competitive | 1501 🔻  (37)|
+| Total Matches | 37 |
 | Wins | 31 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 1 |
-| Streak | 24 |
 | Streak Record | 24 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729506926,1728890857,1728298470,1727697429,1727119286,1726496157,1725839155,1725213330,1724563326,1723930149,1723282233,1722666184,1722066350,1721442184,1720829708,1720187162,1719555472,1718953241,1718317514,1717678811,1717235791,1716780511,1716295259,1715836773,1715432659,1715392698,1714954051,1714327780,1713913750,1713883400,1713406301,1713345299,1712739237,1712291223,1712259978,1711797233];
+        let timestamps = [1730104019,1729506926,1728890857,1728298470,1727697429,1727119286,1726496157,1725839155,1725213330,1724563326,1723930149,1723282233,1722666184,1722066350,1721442184,1720829708,1720187162,1719555472,1718953241,1718317514,1717678811,1717235791,1716780511,1716295259,1715836773,1715432659,1715392698,1714954051,1714327780,1713913750,1713883400,1713406301,1713345299,1712739237,1712291223,1712259978,1711797233];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/02 | 5-12 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
 | ✅ | 2024/10/26 | 30-0 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
 | ✅ | 2024/10/19 | 30-3 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) |
 | ✅ | 2024/10/12 | 24-3 | [Север РусКорп](https://ws.tsl.rocks/corp/39eeae12a2a5fead3330938b8f38c71aab465634b732303dad7b2a7d5f472004/) |
