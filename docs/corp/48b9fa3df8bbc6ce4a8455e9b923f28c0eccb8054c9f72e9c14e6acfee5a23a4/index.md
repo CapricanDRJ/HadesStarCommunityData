@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Glashan
-description: W:8 L:35 D:0 Bonus ✅
+description: W:8 L:35 D:0 Bonus ❌
 date: 1730453379
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
