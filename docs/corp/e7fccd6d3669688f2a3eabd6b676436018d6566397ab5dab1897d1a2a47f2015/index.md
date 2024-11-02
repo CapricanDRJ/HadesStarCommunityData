@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​UKR Spase
-description: W:22 L:10 D:0 Bonus ❌
-date: 1729846973
+description: W:23 L:10 D:0 Bonus ✅
+date: 1730548339
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1364 🔺  (74)|
-| ELO Competitive | 1402 🔺  (120)|
-| Total Matches | 32 |
-| Wins | 22 |
+| ELO Regular | 1369 🔺  (71)|
+| ELO Competitive | 1412 🔺  (113)|
+| Total Matches | 33 |
+| Wins | 23 |
 | Losses | 10 |
 | Draws | 0 |
-| Streak | 5 |
+| Streak | 6 |
 | Streak Record | 7 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729414973,1728896265,1728377799,1727779768,1727257797,1726564670,1726045386,1725357856,1723791898,1723186969,1722505415,1720259585,1719559979,1718625089,1717919620,1717317550,1716623938,1714547423,1713599778,1712917110,1712127761,1711351929,1710497076,1709635937,1709111604,1708075199,1707470446,1706774616,1706173583,1704838715,1700917756,1699210594];
+        let timestamps = [1730116339,1729414973,1728896265,1728377799,1727779768,1727257797,1726564670,1726045386,1725357856,1723791898,1723186969,1722505415,1720259585,1719559979,1718625089,1717919620,1717317550,1716623938,1714547423,1713599778,1712917110,1712127761,1711351929,1710497076,1709635937,1709111604,1708075199,1707470446,1706774616,1706173583,1704838715,1700917756,1699210594];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) | 2 | 0 | 0 | 2 |
 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) | 0 | 2 | 0 | 2 |
 | [Ark](https://ws.tsl.rocks/corp/febd79d038ed9af667e201309060d9662ba825ba9be2b5b95418ac20a8e70c80/) | 1 | 1 | 0 | 2 |
 
@@ -125,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/02 | 29-2 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) |
 | ✅ | 2024/10/25 | 26-23 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | ✅ | 2024/10/19 | 32-0 | [Lacuna Ind\.](https://ws.tsl.rocks/corp/09f1be75e07236be87e2fa3f6e2f82f396666cd220f25f1250ba8b9e71e1e1b7/) |
 | ✅ | 2024/10/13 | 35-3 | [WinterComes](https://ws.tsl.rocks/corp/a8f3bbc084fca4434869893ccbfca6c52960e64ee5db87ef257d706194a2f596/) |

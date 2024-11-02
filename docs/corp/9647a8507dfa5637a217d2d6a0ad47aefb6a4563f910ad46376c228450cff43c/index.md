@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​CTG
-description: W:20 L:25 D:0 Bonus ✅
+description: W:20 L:25 D:0 Bonus ❌
 date: 1730538123
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔻  (411)|
+| ELO Regular | 1214 🔻  (410)|
 | ELO Competitive | 1281 🔻  (286)|
 | Total Matches | 45 |
 | Wins | 20 |
