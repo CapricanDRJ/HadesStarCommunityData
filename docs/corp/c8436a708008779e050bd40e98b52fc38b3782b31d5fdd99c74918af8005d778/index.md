@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​Dirty Minds Inc
-description: W:3 L:0 D:0 Bonus ✅
+description: W:3 L:0 D:0 Bonus ❌
 date: 1730034484
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1240 🔺  (273)|
+| ELO Regular | 1240 🔺  (272)|
 | ELO Competitive | 1244 🔺  (384)|
 | Total Matches | 3 |
 | Wins | 3 |

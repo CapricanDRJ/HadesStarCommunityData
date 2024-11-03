@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​DeutschlandGmbH
-description: W:6 L:6 D:0 Bonus ❌
-date: 1728352584
+description: W:6 L:7 D:0 Bonus ❌
+date: 1730653819
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1191 🔻  (562)|
-| ELO Competitive | 1222 🔻  (455)|
-| Total Matches | 12 |
+| ELO Regular | 1169 🔻  (945)|
+| ELO Competitive | 1200 🔻  (597)|
+| Total Matches | 13 |
 | Wins | 6 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 0 |
 | Streak Record | 4 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727920584,1727029441,1726401485,1725866596,1725225052,1723436697,1723411761,1722200711,1709531978,1705352888,1702735458,1702140978];
+        let timestamps = [1730221819,1727920584,1727029441,1726401485,1725866596,1725225052,1723436697,1723411761,1722200711,1709531978,1705352888,1702735458,1702140978];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/03 | 3-8 | [RedStar Raiding](https://ws.tsl.rocks/corp/83a1c4f1576eec7dce037eb5b64b2455ca3affb9d3072108c5d4d3eba88b4570/) |
 | ❌ | 2024/10/08 | 1-19 | [荣耀之星](https://ws.tsl.rocks/corp/4334fd4d4ffbc89487deaec7bb38025aba46209b810578436882be271fdbff23/) |
 | ❌ | 2024/09/27 | 0-24 | [Czech Legion](https://ws.tsl.rocks/corp/b4453b41cf7b1c019648ed14db493a47c8a64347e689013b2c969bf97e251ec8/) |
 | ✅ | 2024/09/20 | 16-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
