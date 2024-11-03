@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​9-Й СКОРПИОН
-description: W:29 L:6 D:0 Bonus ❌
-date: 1729702124
+description: W:30 L:6 D:0 Bonus ✅
+date: 1730663136
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1438 🔺  (28)|
-| ELO Competitive | 1480 🔺  (55)|
-| Total Matches | 35 |
-| Wins | 29 |
+| ELO Regular | 1447 🔺  (23)|
+| ELO Competitive | 1490 🔺  (48)|
+| Total Matches | 36 |
+| Wins | 30 |
 | Losses | 6 |
 | Draws | 0 |
-| Streak | 6 |
+| Streak | 7 |
 | Streak Record | 14 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729270124,1724046756,1723461338,1722693233,1721596054,1720645466,1720171836,1719490862,1718815017,1718227362,1717790394,1717338294,1716841824,1716406725,1715664318,1715200720,1714735210,1714298327,1713862068,1713429433,1712995534,1712543932,1712110037,1711662312,1711221519,1710789453,1710357370,1709922885,1709489913,1709057821,1708621503,1708115169,1706984676,1706456070,1703779391];
+        let timestamps = [1730231136,1729270124,1724046756,1723461338,1722693233,1721596054,1720645466,1720171836,1719490862,1718815017,1718227362,1717790394,1717338294,1716841824,1716406725,1715664318,1715200720,1714735210,1714298327,1713862068,1713429433,1712995534,1712543932,1712110037,1711662312,1711221519,1710789453,1710357370,1709922885,1709489913,1709057821,1708621503,1708115169,1706984676,1706456070,1703779391];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/03 | 11-2 | [Unión latina](https://ws.tsl.rocks/corp/9919a50d277644f496c19d5becdf40abb251d000345f049632329f0b35b7fbf1/) |
 | ✅ | 2024/10/23 | 7-1 | [太阳系集团](https://ws.tsl.rocks/corp/50f5e0a888ce2f21c0980be0cbb1e444e1d7eeb9dcb2095c3e428bd5bde7a9f6/) |
 | ✅ | 2024/08/24 | 14-0 | [Галактика Зла](https://ws.tsl.rocks/corp/1495d852070d8182229d3cb26e828265d4525a9ef97a9b377415b803b01d6101/) |
 | ✅ | 2024/08/17 | 3-2 | [Armored Union ](https://ws.tsl.rocks/corp/4dacc02ca314ab864578421db538b0eb10b0c8c81dc0edd91c5090717d087c7f/) |
