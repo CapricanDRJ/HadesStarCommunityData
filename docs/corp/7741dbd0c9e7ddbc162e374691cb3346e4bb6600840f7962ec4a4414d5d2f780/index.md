@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​Tuatha De Danan
-description: W:51 L:16 D:0 Bonus ✅
+description: W:51 L:16 D:0 Bonus ❌
 date: 1729969286
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1390 🔺  (54)|
+| ELO Regular | 1390 🔺  (53)|
 | ELO Competitive | 1464 🔺  (65)|
 | Total Matches | 67 |
 | Wins | 51 |
