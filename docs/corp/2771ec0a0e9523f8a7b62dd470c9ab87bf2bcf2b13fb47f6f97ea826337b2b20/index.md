@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Mercury Sunset
-description: W:35 L:0 D:0 Bonus ✅
+description: W:35 L:0 D:0 Bonus ❌
 date: 1730017108
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

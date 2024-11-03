@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Splendid
-description: W:3 L:4 D:0 Bonus ✅
+description: W:3 L:4 D:0 Bonus ❌
 date: 1730019172
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

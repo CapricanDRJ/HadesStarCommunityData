@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​  边界  
-description: W:24 L:9 D:3 Bonus ✅
-date: 1730206663
+description: W:25 L:9 D:3 Bonus ✅
+date: 1730629172
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1317 🔺  (119)|
-| ELO Competitive | 1408 🔺  (115)|
-| Total Matches | 36 |
-| Wins | 24 |
+| ELO Regular | 1327 🔺  (105)|
+| ELO Competitive | 1414 🔺  (111)|
+| Total Matches | 37 |
+| Wins | 25 |
 | Losses | 9 |
 | Draws | 3 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 6 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729774663,1729749424,1729258823,1729246709,1728737549,1728733638,1728265119,1728149122,1727689314,1727688413,1727245453,1727239771,1726662014,1726656408,1726135831,1726118619,1725520417,1725509583,1725076595,1725061572,1724581959,1724575347,1724132399,1724127291,1723693933,1723255188,1722818853,1722361478,1721642326,1721291333,1721203587,1720769290,1720232839,1719564786,1719130853,1717906095];
+        let timestamps = [1730197172,1729774663,1729749424,1729258823,1729246709,1728737549,1728733638,1728265119,1728149122,1727689314,1727688413,1727245453,1727239771,1726662014,1726656408,1726135831,1726118619,1725520417,1725509583,1725076595,1725061572,1724581959,1724575347,1724132399,1724127291,1723693933,1723255188,1722818853,1722361478,1721642326,1721291333,1721203587,1720769290,1720232839,1719564786,1719130853,1717906095];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/03 | 12-11 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ✅ | 2024/10/29 | 8-0 | [拆迁大队](https://ws.tsl.rocks/corp/d8de6fa1ed53aeb856209de01d8a990a562d7438e0abe2cfe50776bb11345f17/) |
 | ✅ | 2024/10/29 | 23-5 | [Stellaris](https://ws.tsl.rocks/corp/957f987a0920391d39769d5b2540f55eb7102778a12d395599ed7a4a7985e342/) |
 | ✅ | 2024/10/23 | 7-0 | [empire](https://ws.tsl.rocks/corp/c59bf8dfb57f9bfc0a87735b00299b45d32d3607628d7879e2bd9711fec3e90f/) |
