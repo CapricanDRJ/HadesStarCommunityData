@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​🌪TORNADO 
-description: W:6 L:9 D:4 Bonus ❌
-date: 1730074155
+description: W:6 L:10 D:4 Bonus ❌
+date: 1730722024
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (875)|
-| ELO Competitive | 1197 🔻  (637)|
-| Total Matches | 19 |
+| ELO Regular | 1161 🔻  (1005)|
+| ELO Competitive | 1188 🔻  (754)|
+| Total Matches | 20 |
 | Wins | 6 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 4 |
 | Streak Record | 3 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729642155,1728938351,1716219851,1714422731,1713609693,1712203411,1711379934,1710750763,1709606496,1709001324,1708481777,1707618438,1706953720,1706438637,1703162715,1703161547,1701403443,1701349045,1700673409];
+        let timestamps = [1730290024,1729642155,1728938351,1716219851,1714422731,1713609693,1712203411,1711379934,1710750763,1709606496,1709001324,1708481777,1707618438,1706953720,1706438637,1703162715,1703161547,1701403443,1701349045,1700673409];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/04 | 0-5 | [闲散人员](https://ws.tsl.rocks/corp/4f0fa774b66e4f744a305525f92e7252205ae754df0f3982b577b32caf32cdbc/) |
 | ❌ | 2024/10/28 | 0-26 | [Nox Imperium](https://ws.tsl.rocks/corp/b60fb003fae650d1de18e7bca4fad04f9805501f4568d07ceb47bffdfeb613c1/) |
 | ↔️ | 2024/10/19 | 3-3 | [AlyTec Sys\.](https://ws.tsl.rocks/corp/4f98eeb43077d5c00a32f9810352931d8778fb5b24d8b49c318953d489f07df0/) |
 | ✅ | 2024/05/25 | 5-4 | [星环建设集团](https://ws.tsl.rocks/corp/85422294545c4561b468821bbbbe277a0d7f09c6ab45fedb2a43cbaa36d32f63/) |

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Stone Legion
-description: W:26 L:7 D:1 Bonus ✅
+description: W:26 L:7 D:1 Bonus ❌
 date: 1730102696
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
