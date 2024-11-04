@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​柯伊伯带
-description: W:74 L:6 D:0 Bonus ✅
+description: W:74 L:6 D:0 Bonus ❌
 date: 1730565172
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
