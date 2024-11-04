@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Red Alliance
-description: W:14 L:15 D:1 Bonus ✅
+description: W:14 L:15 D:1 Bonus ❌
 date: 1730056727
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

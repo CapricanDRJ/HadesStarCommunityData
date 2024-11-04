@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Internationals
-description: W:28 L:10 D:0 Bonus ✅
+description: W:28 L:10 D:0 Bonus ❌
 date: 1730061837
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1423 🔺  (35)|
-| ELO Competitive | 1468 🔺  (63)|
+| ELO Competitive | 1468 🔺  (64)|
 | Total Matches | 38 |
 | Wins | 28 |
 | Losses | 10 |
