@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Stellaris
-description: W:3 L:11 D:1 Bonus ❌
-date: 1730181424
+description: W:3 L:12 D:1 Bonus ❌
+date: 1730712478
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1139 🔻  (1110)|
-| ELO Competitive | 1168 🔻  (1074)|
-| Total Matches | 15 |
+| ELO Regular | 1126 🔻  (1159)|
+| ELO Competitive | 1155 🔻  (1153)|
+| Total Matches | 16 |
 | Wins | 3 |
-| Losses | 11 |
+| Losses | 12 |
 | Draws | 1 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729749424,1729261106,1728812704,1727925815,1726944400,1726371131,1725345238,1723569529,1722781888,1721565092,1720537270,1718568603,1717059992,1714808328,1707318043];
+        let timestamps = [1730280478,1729749424,1729261106,1728812704,1727925815,1726944400,1726371131,1725345238,1723569529,1722781888,1721565092,1720537270,1718568603,1717059992,1714808328,1707318043];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/04 | 3-29 | [FURIA 2\.0](https://ws.tsl.rocks/corp/9c52bc79384398f4052be65dc0f7ee091ac2d3cf14488efd1f4e3310b1f12574/) |
 | ❌ | 2024/10/29 | 5-23 | [  边界  ](https://ws.tsl.rocks/corp/86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a/) |
 | ↔️ | 2024/10/23 | 9-9 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ❌ | 2024/10/18 | 8-20 | [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541/) |

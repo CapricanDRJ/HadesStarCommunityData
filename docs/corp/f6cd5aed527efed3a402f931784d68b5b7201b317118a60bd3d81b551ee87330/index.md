@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Black Star llc.
-description: W:33 L:17 D:0 Bonus ✅
+description: W:33 L:17 D:0 Bonus ❌
 date: 1730090077
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
