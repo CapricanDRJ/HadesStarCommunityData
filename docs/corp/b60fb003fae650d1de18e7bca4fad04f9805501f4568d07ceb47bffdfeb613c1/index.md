@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Nox Imperium
-description: W:14 L:2 D:0 Bonus ✅
+description: W:14 L:2 D:0 Bonus ❌
 date: 1730074155
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
