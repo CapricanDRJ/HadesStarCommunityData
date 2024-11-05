@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Omega corp
-description: W:5 L:4 D:2 Bonus ✅
-date: 1730266760
+description: W:5 L:5 D:2 Bonus ✅
+date: 1730805372
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1213 🔺  (420)|
-| ELO Competitive | 1222 🔺  (452)|
-| Total Matches | 11 |
+| ELO Regular | 1199 🔻  (499)|
+| ELO Competitive | 1209 🔻  (552)|
+| Total Matches | 12 |
 | Wins | 5 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 2 |
-| Streak | 2 |
 | Streak Record | 2 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729834760,1729374110,1728473966,1728021688,1727562813,1727125898,1726669030,1726195017,1725590434,1725142409,1724709985];
+        let timestamps = [1730373372,1729834760,1729374110,1728473966,1728021688,1727562813,1727125898,1726669030,1726195017,1725590434,1725142409,1724709985];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/05 | 5-11 | [ДИᏰEPℂДℍTᏰℓ](https://ws.tsl.rocks/corp/a1dad8a2a2c5ab935169d168bc19f8a1db7f12b099358e079cb7221a340345ed/) |
 | ✅ | 2024/10/30 | 8-0 | [AlyTec Sys\.](https://ws.tsl.rocks/corp/4f98eeb43077d5c00a32f9810352931d8778fb5b24d8b49c318953d489f07df0/) |
 | ✅ | 2024/10/24 | 3-2 | [Syndicated Fed](https://ws.tsl.rocks/corp/efe1846930b773373c965333fbca9f8b9f5fbfde31b52ef8dd2724833046b2cb/) |
 | ❌ | 2024/10/14 | 2-11 | [华夏三体舰队](https://ws.tsl.rocks/corp/a457b1d7612cdff92b655d33cf4ffd72b38aa796525cf0432423cfd0d01c6cf9/) |
