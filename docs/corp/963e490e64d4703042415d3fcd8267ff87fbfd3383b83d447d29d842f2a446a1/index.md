@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​KLM
-description: W:11 L:32 D:0 Bonus ✅
+description: W:11 L:32 D:0 Bonus ❌
 date: 1730760794
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
