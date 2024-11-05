@@ -151,7 +151,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Croce del Sud](https://ws.tsl.rocks/corp/d0899d3aea0aaed6c7d87de378c6c82274ff8dcdabad391d44c2f08f98039af1/) | 1231 | 1259 | 21 |
 | [Cronos World](https://ws.tsl.rocks/corp/7f880fc0563988a97be90bd48b099c7ca69294c9f0122eca543984c8022f8b3e/) | 1171 | 1171 | 2 |
 | [Crucible ](https://ws.tsl.rocks/corp/778178a7255ba7f4c8e2fdeb41fb777fb90ecf6e84a3ba79431f055f869521c6/) | 1201 | 1201 | 2 |
-| [Crux Cadre](https://ws.tsl.rocks/corp/41cdba59897d5e01412601b648c1a692368d92c198123f9ab442f2a23464b375/) | 1184 | 1316 | 62 |
+| [Crux Cadre](https://ws.tsl.rocks/corp/41cdba59897d5e01412601b648c1a692368d92c198123f9ab442f2a23464b375/) | 1171 | 1302 | 63 |
 | [CSI](https://ws.tsl.rocks/corp/8943af3db9ef34a38f004d6f574b33784a179f4ee83d9a1f71e85b1d8700d315/) | 1154 | 1154 | 6 |
 | [CTG](https://ws.tsl.rocks/corp/9647a8507dfa5637a217d2d6a0ad47aefb6a4563f910ad46376c228450cff43c/) | 1214 | 1281 | 45 |
 | [Curcubeu](https://ws.tsl.rocks/corp/a2bdd69ff0d73fcdb3bd9461684b2951dd4df9009b7ea8eae1592efff76e3c59/) | 1170 | 1281 | 30 |
@@ -297,7 +297,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Game of Stars](https://ws.tsl.rocks/corp/ad5bb68e6076ee70e6715ecead226fc9880b66a87b68acb3098843f723c1562e/) | 1137 | 1175 | 32 |
 | [Gardiens détoil](https://ws.tsl.rocks/corp/ffcc6297c99dffbf6c4a07d6920a50ad77eae7a0212a566237385ee1451beb8d/) | 1165 | 1173 | 2 |
 | [Gastro](https://ws.tsl.rocks/corp/97fa80cbbd78ba0187b5fe3310f441eae5bae995b37c17cd740f62a630d8303e/) | 1192 | 1199 | 9 |
-| [GDZ](https://ws.tsl.rocks/corp/a04890160268d05cf11f997b0a1c724fbbcfa66b2ea4cb1c4b56ca18d0425d62/) | 1229 | 1334 | 75 |
+| [GDZ](https://ws.tsl.rocks/corp/a04890160268d05cf11f997b0a1c724fbbcfa66b2ea4cb1c4b56ca18d0425d62/) | 1242 | 1348 | 76 |
 | [Gemini Ind\.](https://ws.tsl.rocks/corp/c85dd45ed75136d750bdcc2d83740494dea9e0ba077eac1bbb2f1a442a92674c/) | 1395 | 1427 | 40 |
 | [Gemini↕     ☁](https://ws.tsl.rocks/corp/e4ad99f1420e8e1fca3363f6a3fae37de7f090a51076858f5be146343099c088/) | 1145 | 1155 | 13 |
 | [Genesis Corp](https://ws.tsl.rocks/corp/609581ba45fce87d439df8d86174971b756fee551b56364876115f3299171df3/) | 1169 | 1171 | 2 |
@@ -1122,7 +1122,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [元素联邦](https://ws.tsl.rocks/corp/e9d602d617d5c81270107c15a6d1f1717c5016abad802d3629f7f4301a58e95e/) | 1416 | 1464 | 42 |
 | [八月政府](https://ws.tsl.rocks/corp/72097ba1b36daa9482410e9d2b442965a1f4bbb7bb7974995521f1a948244424/) | 1008 | 1049 | 29 |
 | [公共星际集团](https://ws.tsl.rocks/corp/f57faccefed6ab561fa61ac8e6f60708928e3a8b5caa5172c97c2a29348aed37/) | 1066 | 1166 | 30 |
-| [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) | 1449 | 1646 | 138 |
+| [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) | 1469 | 1682 | 139 |
 | [六大天神\.轻歌之影](https://ws.tsl.rocks/corp/558304186ed78398ff16afe6f1f2909cee69fe56f1e3ee787d023cffa6999b3b/) | 1155 | 1230 | 49 |
 | [共产主义舰队](https://ws.tsl.rocks/corp/120341cde0726631443dbaa98c1192b6703daad0119e6c18061f443d2897831e/) | 1277 | 1278 | 8 |
 | [共产国际](https://ws.tsl.rocks/corp/375b1efc576c9d15f93249680dcd6dccaf2ad07cd520b85242d0b704d3a494c6/) | 1215 | 1271 | 14 |
@@ -1212,7 +1212,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [春城阳关](https://ws.tsl.rocks/corp/bc27282881e1fe0acdf914d7d700f6722d74c173fd16d0bb446d345e7daa9ede/) | 1187 | 1187 | 1 |
 | [普罗米修斯](https://ws.tsl.rocks/corp/f39d00b1bbbf87c158931fd887f37a588019d0b1fd4f2441fbc675674b71423a/) | 1110 | 1166 | 22 |
 | [暮光之城](https://ws.tsl.rocks/corp/be2dfac4257d290ffabebcc20a392f92a3f426be3cde09b2c78fd85691499ba9/) | 1177 | 1183 | 4 |
-| [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) | 1551 | 1620 | 80 |
+| [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) | 1531 | 1632 | 81 |
 | [柯伊伯带伊甸园](https://ws.tsl.rocks/corp/4eea992d73d29d14f33b0acc0b240ba7c71162f6e6a453f3771b7365d18616f6/) | 1308 | 1326 | 13 |
 | [梨山养老院](https://ws.tsl.rocks/corp/4b0da5a03088d82acb8566ed943c7737a389ee702df4473438eec3f77f2c20c1/) | 1180 | 1190 | 6 |
 | [欢迎国人](https://ws.tsl.rocks/corp/f32abd112fe2b826948a3538a51097b9114815930ec77ad11ada1b24ce34578d/) | 1120 | 1139 | 25 |
