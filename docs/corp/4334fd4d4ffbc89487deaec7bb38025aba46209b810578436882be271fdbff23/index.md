@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​荣耀之星
-description: W:17 L:14 D:5 Bonus ✅
-date: 1730217784
+description: W:18 L:14 D:5 Bonus ✅
+date: 1730784527
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1250 🔺  (229)|
-| ELO Competitive | 1328 🔺  (205)|
-| Total Matches | 36 |
-| Wins | 17 |
+| ELO Regular | 1268 🔺  (195)|
+| ELO Competitive | 1343 🔺  (184)|
+| Total Matches | 37 |
+| Wins | 18 |
 | Losses | 14 |
 | Draws | 5 |
+| Streak | 2 |
 | Streak Record | 4 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729785784,1728864718,1728396433,1727920584,1727433886,1726988869,1726532451,1726069429,1725684789,1725625888,1725192589,1725171553,1724682335,1724682035,1724206916,1724206625,1723705352,1723679812,1723242325,1722595265,1722130976,1721446090,1720952326,1720946916,1720041406,1720013954,1719486355,1719479744,1718973975,1718964659,1715335013,1714576269,1709946624,1708563853,1708080307,1707284089];
+        let timestamps = [1730352527,1729785784,1728864718,1728396433,1727920584,1727433886,1726988869,1726532451,1726069429,1725684789,1725625888,1725192589,1725171553,1724682335,1724682035,1724206916,1724206625,1723705352,1723679812,1723242325,1722595265,1722130976,1721446090,1720952326,1720946916,1720041406,1720013954,1719486355,1719479744,1718973975,1718964659,1715335013,1714576269,1709946624,1708563853,1708080307,1707284089];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/05 | 5-2 | [揽月宫](https://ws.tsl.rocks/corp/16a4fe26591408a3f2128646e96c5ec1f82feb35f1f9743aebd2dae05095d2ed/) |
 | ✅ | 2024/10/29 | 5-3 | [Galaxians](https://ws.tsl.rocks/corp/94728c6eb201c1f15c6e2304b5920aa155ccc1a7aac83b574baae51c53a22c5d/) |
 | ❌ | 2024/10/19 | 0-18 | [\*Alfa y Omega\*](https://ws.tsl.rocks/corp/b1da3a2265efd2266a8e4b5698a731ae179d00e431ee748d7bee62a1357a12ed/) |
 | ✅ | 2024/10/13 | 13-0 | [麻雀集团](https://ws.tsl.rocks/corp/bf5e5ea02e24918ed66d543902f4315f957c79c9bc1bd434c034158e9f648abe/) |
