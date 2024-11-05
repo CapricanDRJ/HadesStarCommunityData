@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Argentina 1.0
-description: W:28 L:14 D:0 Bonus ❌
-date: 1729313842
+description: W:29 L:14 D:0 Bonus ✅
+date: 1730766202
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1382 🔺  (60)|
-| ELO Competitive | 1452 🔺  (74)|
-| Total Matches | 42 |
-| Wins | 28 |
+| ELO Regular | 1394 🔺  (53)|
+| ELO Competitive | 1463 🔺  (69)|
+| Total Matches | 43 |
+| Wins | 29 |
 | Losses | 14 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 9 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728881842,1728270527,1727450721,1726979551,1726466408,1725850973,1725176962,1724640863,1724033836,1723501014,1723008773,1722265015,1721793788,1721252276,1720565225,1720039603,1719451201,1719011543,1718503686,1717810227,1717124903,1716429256,1715973479,1715181789,1714163126,1713496437,1712961583,1711196573,1709522965,1709518545,1708820132,1707178917,1706459978,1706020326,1705544010,1705028033,1703892689,1701179238,1700658980,1700191035,1699464803,1698725548];
+        let timestamps = [1730334202,1728881842,1728270527,1727450721,1726979551,1726466408,1725850973,1725176962,1724640863,1724033836,1723501014,1723008773,1722265015,1721793788,1721252276,1720565225,1720039603,1719451201,1719011543,1718503686,1717810227,1717124903,1716429256,1715973479,1715181789,1714163126,1713496437,1712961583,1711196573,1709522965,1709518545,1708820132,1707178917,1706459978,1706020326,1705544010,1705028033,1703892689,1701179238,1700658980,1700191035,1699464803,1698725548];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/05 | 29-3 | [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b/) |
 | ✅ | 2024/10/19 | 34-24 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |
 | ✅ | 2024/10/12 | 34-29 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) |
 | ❌ | 2024/10/02 | 27-40 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
