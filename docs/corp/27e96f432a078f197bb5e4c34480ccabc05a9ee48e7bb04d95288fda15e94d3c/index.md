@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Últimafronteira
-description: W:14 L:0 D:0 Bonus ✅
+description: W:14 L:0 D:0 Bonus ❌
 date: 1730202155
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

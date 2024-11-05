@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Atlas corp
-description: W:8 L:11 D:1 Bonus ❌
-date: 1729706633
+description: W:8 L:12 D:1 Bonus ❌
+date: 1730813975
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔺  (858)|
-| ELO Competitive | 1194 🔺  (656)|
-| Total Matches | 20 |
+| ELO Regular | 1165 🔻  (970)|
+| ELO Competitive | 1188 🔻  (739)|
+| Total Matches | 21 |
 | Wins | 8 |
-| Losses | 11 |
+| Losses | 12 |
 | Draws | 1 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729274633,1728053247,1726971438,1726237395,1722863626,1719098028,1715264410,1711217011,1709930699,1709269352,1707454822,1706725035,1706075319,1705608921,1704609413,1704088021,1703433495,1702998126,1702508556,1702020454];
+        let timestamps = [1730381975,1729274633,1728053247,1726971438,1726237395,1722863626,1719098028,1715264410,1711217011,1709930699,1709269352,1707454822,1706725035,1706075319,1705608921,1704609413,1704088021,1703433495,1702998126,1702508556,1702020454];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/05 | 3-7 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
 | ✅ | 2024/10/23 | 3-2 | [Cydonia Order](https://ws.tsl.rocks/corp/e55f58931b283e38b70e189f9bbc51563a76e2ae541f8b2b207444fb36d5ddf9/) |
 | ❌ | 2024/10/09 | 0-2 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
 | ✅ | 2024/09/27 | 1-0 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
