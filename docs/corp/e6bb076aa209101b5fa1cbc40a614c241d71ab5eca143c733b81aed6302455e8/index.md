@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​逐光起航
-description: W:8 L:36 D:6 Bonus ✅
+description: W:8 L:36 D:6 Bonus ❌
 date: 1730771050
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
