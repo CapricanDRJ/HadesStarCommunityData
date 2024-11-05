@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​德意志第三帝国奥米加分部
-description: W:11 L:12 D:3 Bonus ❌
-date: 1728738585
+description: W:12 L:12 D:3 Bonus ✅
+date: 1730792639
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1225 🔻  (333)|
-| ELO Competitive | 1248 🔻  (371)|
-| Total Matches | 26 |
-| Wins | 11 |
+| ELO Regular | 1238 🔺  (286)|
+| ELO Competitive | 1263 🔺  (326)|
+| Total Matches | 27 |
+| Wins | 12 |
 | Losses | 12 |
 | Draws | 3 |
 | Streak Record | 8 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728306585,1727704643,1724892384,1724320812,1723689126,1723212815,1722755138,1721791040,1721279615,1719850268,1718987802,1717588347,1716980057,1716675491,1716499699,1715945749,1715493656,1714917094,1713850953,1713373849,1712872511,1712563532,1712324574,1711911121,1707679745,1706928178];
+        let timestamps = [1730360639,1728306585,1727704643,1724892384,1724320812,1723689126,1723212815,1722755138,1721791040,1721279615,1719850268,1718987802,1717588347,1716980057,1716675491,1716499699,1715945749,1715493656,1714917094,1713850953,1713373849,1712872511,1712563532,1712324574,1711911121,1707679745,1706928178];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/05 | 16-0 | [●Black•Sails●](https://ws.tsl.rocks/corp/fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31/) |
 | ❌ | 2024/10/12 | 3-5 | [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) |
 | ✅ | 2024/10/05 | 25-0 | [아베노노](https://ws.tsl.rocks/corp/b6a4ffffbabc8bf90d3ae19467aa6ce98c4a3ceb136af04fd24a43406f8f830f/) |
 | ✅ | 2024/09/03 | 20-2 | [ДИᏰEPℂДℍTᏰℓ](https://ws.tsl.rocks/corp/a1dad8a2a2c5ab935169d168bc19f8a1db7f12b099358e079cb7221a340345ed/) |
