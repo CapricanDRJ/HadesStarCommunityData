@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Cerulean Star
-description: W:26 L:17 D:0 Bonus ✅
+description: W:26 L:17 D:0 Bonus ❌
 date: 1730295907
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

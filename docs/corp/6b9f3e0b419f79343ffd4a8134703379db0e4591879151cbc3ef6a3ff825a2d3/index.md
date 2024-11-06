@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​Winged Pheonix
-description: W:11 L:15 D:0 Bonus ✅
+description: W:11 L:15 D:0 Bonus ❌
 date: 1730293804
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔺  (583)|
+| ELO Regular | 1190 🔺  (584)|
 | ELO Competitive | 1256 🔺  (350)|
 | Total Matches | 26 |
 | Wins | 11 |
