@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​斯比纳兰
-description: W:5 L:9 D:1 Bonus ✅
+description: W:5 L:9 D:1 Bonus ❌
 date: 1730817883
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
