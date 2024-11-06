@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Pyke Syndicate
-description: W:5 L:29 D:1 Bonus ✅
-date: 1730297711
+description: W:5 L:30 D:1 Bonus ✅
+date: 1730897510
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1039 🔺  (1273)|
-| ELO Competitive | 1084 🔺  (1279)|
-| Total Matches | 35 |
+| ELO Regular | 1033 🔻  (1276)|
+| ELO Competitive | 1078 🔻  (1284)|
+| Total Matches | 36 |
 | Wins | 5 |
-| Losses | 29 |
+| Losses | 30 |
 | Draws | 1 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729865711,1729252138,1728663010,1728021388,1727426075,1726761701,1726144846,1725621680,1725022500,1724403451,1723790396,1722594663,1721997229,1721378776,1720785820,1720189568,1719242650,1718293167,1716992681,1716113188,1715531820,1714915892,1714161323,1713528585,1712907496,1712145187,1711214607,1710340540,1709713758,1708950538,1706891215,1704361788,1704346765,1700495190,1699351516];
+        let timestamps = [1730465510,1729865711,1729252138,1728663010,1728021388,1727426075,1726761701,1726144846,1725621680,1725022500,1724403451,1723790396,1722594663,1721997229,1721378776,1720785820,1720189568,1719242650,1718293167,1716992681,1716113188,1715531820,1714915892,1714161323,1713528585,1712907496,1712145187,1711214607,1710340540,1709713758,1708950538,1706891215,1704361788,1704346765,1700495190,1699351516];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/06 | 5-16 | [SUN OF 3LANDS](https://ws.tsl.rocks/corp/874f472303f6616789f5df41609dba8d64b95e8b9291aaf23a05e4c397a2f44a/) |
 | ✅ | 2024/10/30 | 29-0 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) |
 | ❌ | 2024/10/23 | 1-22 | [Dominadores](https://ws.tsl.rocks/corp/2c3d0185f0e77bc1159afedc714f4971e3ecb2373ae811a554f8034b5cc0dd15/) |
 | ❌ | 2024/10/16 | 4-16 | [Kelebra](https://ws.tsl.rocks/corp/0b1ce787fadd83433c02fb7f56a905ea64f918c1396ac37b8591891adf232eb6/) |

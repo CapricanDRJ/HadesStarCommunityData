@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Lofty Mountain
-description: W:8 L:0 D:0 Bonus ✅
-date: 1730402898
+description: W:9 L:0 D:0 Bonus ✅
+date: 1730905927
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1309 🔺  (131)|
-| ELO Competitive | 1330 🔺  (205)|
-| Total Matches | 8 |
-| Wins | 8 |
+| ELO Regular | 1323 🔺  (116)|
+| ELO Competitive | 1349 🔺  (177)|
+| Total Matches | 9 |
+| Wins | 9 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 8 |
-| Streak Record | 8 |
+| Streak | 9 |
+| Streak Record | 9 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729970898,1729535784,1729065976,1727688413,1727134610,1723929849,1722161630,1720494897];
+        let timestamps = [1730473927,1729970898,1729535784,1729065976,1727688413,1727134610,1723929849,1722161630,1720494897];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/06 | 32-2 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ✅ | 2024/10/31 | 32-0 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
 | ✅ | 2024/10/26 | 35-2 | [КРЫЛЯ ФЕНИКСА](https://ws.tsl.rocks/corp/a7852d9224a29d8a8b12b07f0985cf455ee57c9a7b5fed73f08ab733e8de733b/) |
 | ✅ | 2024/10/21 | 40-0 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |

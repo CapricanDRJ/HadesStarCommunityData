@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​万星联盟
-description: W:23 L:4 D:0 Bonus ✅
+description: W:23 L:4 D:0 Bonus ❌
 date: 1730446767
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1357 🔻  (82)|
-| ELO Competitive | 1438 🔺  (88)|
+| ELO Competitive | 1438 🔺  (86)|
 | Total Matches | 27 |
 | Wins | 23 |
 | Losses | 4 |

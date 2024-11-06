@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Повстанцы Хаоса
-description: W:39 L:5 D:0 Bonus ✅
+description: W:39 L:5 D:0 Bonus ❌
 date: 1730276074
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
