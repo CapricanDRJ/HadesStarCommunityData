@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​小号营地
-description: W:0 L:4 D:1 Bonus ❌
-date: 1730288695
+description: W:0 L:5 D:1 Bonus ❌
+date: 1730882484
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1149 🔻  (1073)|
-| ELO Competitive | 1155 🔻  (1156)|
-| Total Matches | 5 |
+| ELO Regular | 1139 🔻  (1111)|
+| ELO Competitive | 1146 🔻  (1185)|
+| Total Matches | 6 |
 | Wins | 0 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 1 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729856695,1728955477,1728389218,1727878936,1727433886];
+        let timestamps = [1730450484,1729856695,1728955477,1728389218,1727878936,1727433886];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/06 | 0-9 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb/) |
 | ❌ | 2024/10/30 | 0-4 | [Winter Star llc](https://ws.tsl.rocks/corp/89b20821cb6e619dced74a6e153a1d3ceafa70b1035fb7d61a6920d375e49f50/) |
 | ↔️ | 2024/10/20 | 2-2 | [Nebula alliance](https://ws.tsl.rocks/corp/b60eb81ac1cb1dfb18ded4818ad07820957f77770dace6149956fffa60a17e84/) |
 | ❌ | 2024/10/13 | 2-11 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) |
