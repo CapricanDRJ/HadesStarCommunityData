@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Dark Training
-description: W:19 L:11 D:1 Bonus ❌
-date: 1729634812
+description: W:20 L:11 D:1 Bonus ✅
+date: 1730887893
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1317 🔺  (121)|
-| ELO Competitive | 1368 🔺  (153)|
-| Total Matches | 31 |
-| Wins | 19 |
+| ELO Regular | 1327 🔺  (108)|
+| ELO Competitive | 1387 🔺  (134)|
+| Total Matches | 32 |
+| Wins | 20 |
 | Losses | 11 |
 | Draws | 1 |
-| Streak | 8 |
-| Streak Record | 8 |
+| Streak | 9 |
+| Streak Record | 9 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729202812,1727983225,1726756892,1725551071,1724445530,1723281332,1721964776,1720723611,1720038401,1719169029,1717945170,1716912746,1716448181,1715948537,1715187498,1714662500,1713978344,1713283103,1712140980,1711486242,1711029811,1709943619,1709468574,1709000724,1708448120,1708443913,1707455968,1707317442,1706135426,1705382634,1704110858];
+        let timestamps = [1730455893,1729202812,1727983225,1726756892,1725551071,1724445530,1723281332,1721964776,1720723611,1720038401,1719169029,1717945170,1716912746,1716448181,1715948537,1715187498,1714662500,1713978344,1713283103,1712140980,1711486242,1711029811,1709943619,1709468574,1709000724,1708448120,1708443913,1707455968,1707317442,1706135426,1705382634,1704110858];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/06 | 25-0 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
 | ✅ | 2024/10/22 | 32-0 | [Galaxians](https://ws.tsl.rocks/corp/94728c6eb201c1f15c6e2304b5920aa155ccc1a7aac83b574baae51c53a22c5d/) |
 | ✅ | 2024/10/08 | 27-3 | [Вселенские 40%](https://ws.tsl.rocks/corp/963d73346ebb929607f54404f481ac2273b4f483915b93144d0757b066a1fd99/) |
 | ✅ | 2024/09/24 | 30-3 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |

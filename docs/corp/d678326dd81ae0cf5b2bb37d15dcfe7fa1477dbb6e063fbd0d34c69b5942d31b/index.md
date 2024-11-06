@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Hungary First
-description: W:17 L:13 D:1 Bonus ❌
-date: 1729678979
+description: W:18 L:13 D:1 Bonus ✅
+date: 1730893324
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1225 🔻  (334)|
-| ELO Competitive | 1251 🔻  (365)|
-| Total Matches | 31 |
-| Wins | 17 |
+| ELO Regular | 1233 🔺  (305)|
+| ELO Competitive | 1268 🔺  (312)|
+| Total Matches | 32 |
+| Wins | 18 |
 | Losses | 13 |
 | Draws | 1 |
 | Streak Record | 7 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729246979,1728021388,1726834112,1726224172,1725604854,1725027912,1724407357,1723186368,1721985809,1720768088,1719571384,1718345154,1717140526,1715932313,1714980185,1711696869,1710658438,1709800591,1708950538,1707338537,1706623157,1706001092,1705309310,1704811362,1704111760,1703102013,1702455653,1701955538,1701369183,1700848930,1699867883];
+        let timestamps = [1730461324,1729246979,1728021388,1726834112,1726224172,1725604854,1725027912,1724407357,1723186368,1721985809,1720768088,1719571384,1718345154,1717140526,1715932313,1714980185,1711696869,1710658438,1709800591,1708950538,1707338537,1706623157,1706001092,1705309310,1704811362,1704111760,1703102013,1702455653,1701955538,1701369183,1700848930,1699867883];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/06 | 5-0 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |
 | ❌ | 2024/10/23 | 0-5 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |
 | ❌ | 2024/10/09 | 3-9 | [The New Light](https://ws.tsl.rocks/corp/73c87b4394c7e44aa0fa6996ae32e7448f956391dac8b5d025da6019d3062cfc/) |
 | ❌ | 2024/09/25 | 2-13 | [太阳系集团](https://ws.tsl.rocks/corp/50f5e0a888ce2f21c0980be0cbb1e444e1d7eeb9dcb2095c3e428bd5bde7a9f6/) |

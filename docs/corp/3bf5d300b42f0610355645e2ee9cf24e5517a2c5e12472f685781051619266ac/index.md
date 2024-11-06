@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Sprite
-description: W:20 L:4 D:0 Bonus ✅
-date: 1730303722
+description: W:21 L:4 D:0 Bonus ✅
+date: 1730889997
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1398 🔺  (49)|
-| ELO Competitive | 1433 🔺  (90)|
-| Total Matches | 24 |
-| Wins | 20 |
+| ELO Regular | 1401 🔺  (47)|
+| ELO Competitive | 1442 🔺  (84)|
+| Total Matches | 25 |
+| Wins | 21 |
 | Losses | 4 |
 | Draws | 0 |
-| Streak | 17 |
-| Streak Record | 17 |
+| Streak | 18 |
+| Streak Record | 18 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729871722,1729351868,1728915201,1727892462,1727445609,1726925163,1726461901,1725722656,1725393019,1725218139,1724660996,1724414569,1723906703,1723434894,1722986540,1722267119,1721602665,1720923175,1720298961,1719841551,1719105011,1715619252,1707759071,1700514430];
+        let timestamps = [1730457997,1729871722,1729351868,1728915201,1727892462,1727445609,1726925163,1726461901,1725722656,1725393019,1725218139,1724660996,1724414569,1723906703,1723434894,1722986540,1722267119,1721602665,1720923175,1720298961,1719841551,1719105011,1715619252,1707759071,1700514430];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/06 | 30-6 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |
 | ✅ | 2024/10/30 | 31-2 | [Aggronauten](https://ws.tsl.rocks/corp/3bc8488b4cde8d611cbc48bac64a708c40e9954bc2c221dddafb0240b734c679/) |
 | ✅ | 2024/10/24 | 37-3 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) |
 | ✅ | 2024/10/19 | 40-3 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
