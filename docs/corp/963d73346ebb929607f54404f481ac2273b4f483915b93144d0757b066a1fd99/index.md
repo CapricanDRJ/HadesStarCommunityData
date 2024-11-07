@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Вселенские 40%
-description: W:21 L:33 D:0 Bonus ✅
+description: W:21 L:33 D:0 Bonus ❌
 date: 1730944695
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
