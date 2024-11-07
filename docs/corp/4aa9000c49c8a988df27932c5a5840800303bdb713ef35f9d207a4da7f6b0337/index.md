@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​The Gladiators
-description: W:1 L:2 D:0 Bonus ❌
-date: 1710258432
+description: W:1 L:3 D:0 Bonus ❌
+date: 1730938986
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (798)|
-| ELO Competitive | 1183 🔻  (930)|
-| Total Matches | 3 |
+| ELO Regular | 1169 🔻  (941)|
+| ELO Competitive | 1170 🔻  (1061)|
+| Total Matches | 4 |
 | Wins | 1 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1709826432,1707569106,1707064428];
+        let timestamps = [1730506986,1709826432,1707569106,1707064428];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/07 | 0-12 | [哈迪斯之星，启动！](https://ws.tsl.rocks/corp/bc58305a02f7392f340d26a3becd4784de7360dd5264df9e85d73116b93496d8/) |
 | ❌ | 2024/03/12 | 0-3 | [Armored Union ](https://ws.tsl.rocks/corp/4dacc02ca314ab864578421db538b0eb10b0c8c81dc0edd91c5090717d087c7f/) |
 | ❌ | 2024/02/15 | 2-3 | [Consortium](https://ws.tsl.rocks/corp/2d28d460f549084fa8f440de8a4da35728d64c0bb2f1a8ac30e07282c5210d89/) |
 | ✅ | 2024/02/09 | 2-0 | [Village of Evil](https://ws.tsl.rocks/corp/9c5d7dfe1198273dd21163553e3154778f448ae7355825ae1db7ceba7236744f/) |
