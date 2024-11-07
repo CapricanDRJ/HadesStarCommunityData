@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​揽月宫
-description: W:11 L:5 D:0 Bonus ✅
+description: W:11 L:5 D:0 Bonus ❌
 date: 1730784527
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1294 🔻  (148)|
+| ELO Regular | 1294 🔻  (147)|
 | ELO Competitive | 1313 🔻  (227)|
 | Total Matches | 16 |
 | Wins | 11 |
