@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​White Dwarf
-description: W:42 L:13 D:0 Bonus ✅
-date: 1730379453
+description: W:43 L:13 D:0 Bonus ✅
+date: 1731005998
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1435 🔺  (30)|
-| ELO Competitive | 1484 🔺  (52)|
-| Total Matches | 55 |
-| Wins | 42 |
+| ELO Regular | 1437 🔺  (28)|
+| ELO Competitive | 1489 🔺  (49)|
+| Total Matches | 56 |
+| Wins | 43 |
 | Losses | 13 |
 | Draws | 0 |
-| Streak | 8 |
-| Streak Record | 8 |
+| Streak | 9 |
+| Streak Record | 9 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729947453,1729465467,1728974706,1728504633,1727704343,1727130705,1726429449,1725622582,1725176962,1724486696,1723761552,1722981433,1722388523,1721492673,1720985097,1720378599,1719910966,1719437381,1718983894,1718539446,1717703764,1717230081,1716744153,1716285345,1715805531,1715351238,1714894258,1714325677,1713209187,1712604633,1712092312,1711507573,1711041532,1710452315,1709811708,1709237505,1708727580,1708273834,1707777710,1707252542,1706772512,1706335260,1706126108,1705687052,1705247107,1704790025,1704201014,1703674806,1702594811,1701974474,1701492704,1700917756,1700312754,1699867283,1699550439];
+        let timestamps = [1730573998,1729947453,1729465467,1728974706,1728504633,1727704343,1727130705,1726429449,1725622582,1725176962,1724486696,1723761552,1722981433,1722388523,1721492673,1720985097,1720378599,1719910966,1719437381,1718983894,1718539446,1717703764,1717230081,1716744153,1716285345,1715805531,1715351238,1714894258,1714325677,1713209187,1712604633,1712092312,1711507573,1711041532,1710452315,1709811708,1709237505,1708727580,1708273834,1707777710,1707252542,1706772512,1706335260,1706126108,1705687052,1705247107,1704790025,1704201014,1703674806,1702594811,1701974474,1701492704,1700917756,1700312754,1699867283,1699550439];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,17 +118,18 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) | 3 | 0 | 0 | 3 |
 | [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) | 2 | 0 | 0 | 2 |
 | [Stella☆Glow](https://ws.tsl.rocks/corp/86a894b97d55e4f65a3cec65d26d528341d8e70b186bcffa2e89f5f681e48396/) | 3 | 0 | 0 | 3 |
 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) | 2 | 0 | 0 | 2 |
 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 1 | 1 | 0 | 2 |
-| [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) | 2 | 0 | 0 | 2 |
 | [Corporation](https://ws.tsl.rocks/corp/51bbfdd5693e8227e63dbd5161e8fb1a5fa3e93d1f67c7d565d82f080bbeb007/) | 0 | 2 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/07 | 36-2 | [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) |
 | ✅ | 2024/10/31 | 48-9 | [Lacuna Ind\.](https://ws.tsl.rocks/corp/09f1be75e07236be87e2fa3f6e2f82f396666cd220f25f1250ba8b9e71e1e1b7/) |
 | ✅ | 2024/10/25 | 37-11 | [Embers Rising](https://ws.tsl.rocks/corp/30173fb6f0cf7a6d78f30c60350646ad6bc0d667a14854bdc9abbc19cd7d0327/) |
 | ✅ | 2024/10/20 | 26-20 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) |

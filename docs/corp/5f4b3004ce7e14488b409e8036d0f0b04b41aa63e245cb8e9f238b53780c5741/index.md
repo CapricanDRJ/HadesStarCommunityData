@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Т Е Н Ь
-description: W:4 L:1 D:0 Bonus ✅
+description: W:4 L:1 D:0 Bonus ❌
 date: 1730382459
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

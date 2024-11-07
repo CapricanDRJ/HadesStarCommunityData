@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​아베노노
-description: W:3 L:3 D:1 Bonus ✅
+description: W:3 L:3 D:1 Bonus ❌
 date: 1730381858
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
