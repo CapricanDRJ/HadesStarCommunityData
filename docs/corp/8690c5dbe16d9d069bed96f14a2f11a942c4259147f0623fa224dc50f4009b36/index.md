@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Кулак
-description: W:17 L:62 D:0 Bonus ✅
+description: W:17 L:62 D:0 Bonus ❌
 date: 1730364727
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
