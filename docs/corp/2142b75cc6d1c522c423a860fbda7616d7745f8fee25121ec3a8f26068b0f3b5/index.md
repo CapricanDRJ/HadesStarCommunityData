@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​星舰国际
-description: W:7 L:7 D:3 Bonus ❌
-date: 1728399893
+description: W:7 L:8 D:3 Bonus ❌
+date: 1730956412
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻  (606)|
-| ELO Competitive | 1215 🔻  (496)|
-| Total Matches | 17 |
+| ELO Regular | 1173 🔻  (868)|
+| ELO Competitive | 1199 🔻  (617)|
+| Total Matches | 18 |
 | Wins | 7 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 3 |
 | Streak Record | 4 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727967893,1727349149,1726564970,1725956144,1725509583,1725010179,1724562424,1723841487,1723004867,1722362681,1721913688,1721302451,1721257418,1720787623,1720192874,1719658075,1719071743];
+        let timestamps = [1730524412,1727967893,1727349149,1726564970,1725956144,1725509583,1725010179,1724562424,1723841487,1723004867,1722362681,1721913688,1721302451,1721257418,1720787623,1720192874,1719658075,1719071743];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/07 | 0-2 | [AntiCerberus](https://ws.tsl.rocks/corp/05549095de4dbbeb78175abda32e043bd7c0afada2bba974c17c41674469da29/) |
 | ❌ | 2024/10/08 | 1-5 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 | ❌ | 2024/10/01 | 0-4 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
 | ✅ | 2024/09/22 | 3-0 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
