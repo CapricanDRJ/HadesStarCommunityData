@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Alpha to Omega
-description: W:2 L:3 D:1 Bonus ✅
+description: W:2 L:3 D:1 Bonus ❌
 date: 1730335578
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
