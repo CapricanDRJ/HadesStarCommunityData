@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Sons of Liberty
-description: W:3 L:0 D:0 Bonus ✅
+description: W:3 L:0 D:0 Bonus ❌
 date: 1730313040
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

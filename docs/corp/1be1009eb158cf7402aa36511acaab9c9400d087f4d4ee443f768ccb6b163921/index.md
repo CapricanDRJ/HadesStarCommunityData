@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​红日初升，其道大光
-description: W:24 L:8 D:0 Bonus ✅
+description: W:24 L:8 D:0 Bonus ❌
 date: 1730313040
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1328 🔺  (105)|
+| ELO Regular | 1328 🔺  (106)|
 | ELO Competitive | 1415 🔺  (111)|
 | Total Matches | 32 |
 | Wins | 24 |

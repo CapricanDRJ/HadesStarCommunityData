@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​普罗米修斯
-description: W:6 L:15 D:1 Bonus ✅
-date: 1730360355
+description: W:6 L:16 D:1 Bonus ✅
+date: 1730940789
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1110 🔺  (1205)|
-| ELO Competitive | 1166 🔺  (1093)|
-| Total Matches | 22 |
+| ELO Regular | 1104 🔻  (1214)|
+| ELO Competitive | 1161 🔻  (1124)|
+| Total Matches | 23 |
 | Wins | 6 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 1 |
-| Streak | 2 |
 | Streak Record | 2 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729928355,1729479181,1728923620,1728284648,1727851590,1726922157,1726489845,1724599993,1724153132,1724136606,1723297561,1722862424,1721897461,1721464721,1706176888,1705721310,1705148833,1704538788,1703704816,1703251672,1702472182,1699104820];
+        let timestamps = [1730508789,1729928355,1729479181,1728923620,1728284648,1727851590,1726922157,1726489845,1724599993,1724153132,1724136606,1723297561,1722862424,1721897461,1721464721,1706176888,1705721310,1705148833,1704538788,1703704816,1703251672,1702472182,1699104820];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/07 | 2-18 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
 | ✅ | 2024/10/31 | 8-0 | [11th Engineers](https://ws.tsl.rocks/corp/7341e9a33a1baf2162870c795632dcd551d3c624b06456dac041fa049ba67a9a/) |
 | ✅ | 2024/10/26 | 7-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
 | ❌ | 2024/10/19 | 8-13 | [Halcon español](https://ws.tsl.rocks/corp/ab9c3038dcf2b019ba662007ab1e50b2d80e0eb8e7a65e57dd5260a6d2e80ff9/) |
