@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​MD EMPIRE
-description: W:3 L:3 D:0 Bonus ✅
+description: W:3 L:3 D:0 Bonus ❌
 date: 1730409510
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

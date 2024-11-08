@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​Russian Style
-description: W:3 L:6 D:0 Bonus ❌
-date: 1710778551
+description: W:3 L:6 D:1 Bonus ❌
+date: 1731046862
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1160 🔻  (1013)|
-| ELO Competitive | 1163 🔻  (1109)|
-| Total Matches | 9 |
+| ELO Regular | 1161 🔺  (1009)|
+| ELO Competitive | 1164 🔺  (1101)|
+| Total Matches | 10 |
 | Wins | 3 |
 | Losses | 6 |
-| Draws | 0 |
+| Draws | 1 |
 | Streak Record | 2 |
 
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1710346551,1708061078,1705820781,1704736148,1702900152,1701848214,1700794832,1699838434,1698696389];
+        let timestamps = [1730614862,1710346551,1708061078,1705820781,1704736148,1702900152,1701848214,1700794832,1699838434,1698696389];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/11/08 | 0-0 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ❌ | 2024/03/18 | 0-6 | [한국인](https://ws.tsl.rocks/corp/f2b2c144f02ec69dfe3bd7fb8d4d1db10d7e3954a2f45937f16daafb0266490e/) |
 | ❌ | 2024/02/21 | 0-18 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) |
 | ❌ | 2024/01/26 | 3-10 | [MÉXICO INFINITO](https://ws.tsl.rocks/corp/a9fbdd48477b87a054dbd804eef12ae08bc6e02798cd8990b08c4a9803d8f9d8/) |

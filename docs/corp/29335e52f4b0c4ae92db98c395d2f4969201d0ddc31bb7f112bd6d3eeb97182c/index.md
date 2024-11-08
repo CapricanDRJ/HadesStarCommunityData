@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Zeta Division 
-description: W:4 L:1 D:0 Bonus ❌
-date: 1730343979
+description: W:5 L:1 D:0 Bonus ✅
+date: 1731041755
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1244 🔺  (255)|
-| ELO Competitive | 1258 🔺  (345)|
-| Total Matches | 5 |
-| Wins | 4 |
+| ELO Regular | 1259 🔺  (211)|
+| ELO Competitive | 1272 🔺  (306)|
+| Total Matches | 6 |
+| Wins | 5 |
 | Losses | 1 |
 | Draws | 0 |
-| Streak | 3 |
-| Streak Record | 3 |
+| Streak | 4 |
+| Streak Record | 4 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729911979,1729186280,1728740556,1728234768,1727606677];
+        let timestamps = [1730609755,1729911979,1729186280,1728740556,1728234768,1727606677];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/08 | 15-1 | [Fairy tail ](https://ws.tsl.rocks/corp/44e6a82c06b84bc5579df0e42bc462f36313b0060861d25228856930f6c19eac/) |
 | ✅ | 2024/10/31 | 10-0 | [Sich\.ua](https://ws.tsl.rocks/corp/9fcd6d7c4fe7f8e39acf48585dfe9c6d3d14edc7781fe8caf85618b3e98c685d/) |
 | ✅ | 2024/10/22 | 12-1 | [雪月永恒](https://ws.tsl.rocks/corp/3b30781263716daadc217687009247bd0acb28c7eb4a8ebfe37daa11142622c2/) |
 | ✅ | 2024/10/17 | 2-1 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) |
