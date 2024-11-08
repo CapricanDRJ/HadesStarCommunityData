@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​国际联盟
-description: W:2 L:0 D:0 Bonus ✅
-date: 1730446767
+description: W:2 L:1 D:0 Bonus ❌
+date: 1731070000
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1230 🔺  (322)|
-| ELO Competitive | 1233 🔺  (419)|
-| Total Matches | 2 |
+| ELO Regular | 1218 🔻  (361)|
+| ELO Competitive | 1222 🔻  (451)|
+| Total Matches | 3 |
 | Wins | 2 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 2 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730014767,1729317604];
+        let timestamps = [1730638000,1730014767,1729317604];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/08 | 2-5 | [太阳系集团](https://ws.tsl.rocks/corp/50f5e0a888ce2f21c0980be0cbb1e444e1d7eeb9dcb2095c3e428bd5bde7a9f6/) |
 | ✅ | 2024/11/01 | 5-2 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
 | ✅ | 2024/10/24 | 5-0 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) |
 

@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​太阳系集团
-description: W:11 L:4 D:1 Bonus ✅
-date: 1730964524
+description: W:12 L:4 D:1 Bonus ✅
+date: 1731070000
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1301 🔺  (138)|
+| ELO Regular | 1313 🔺  (125)|
 | ELO Competitive | 1333 🔺  (204)|
-| Total Matches | 16 |
-| Wins | 11 |
+| Total Matches | 17 |
+| Wins | 12 |
 | Losses | 4 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 5 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730532524,1729937836,1729844074,1729311499,1729270124,1728823828,1728369988,1727891861,1727883446,1727441099,1727239771,1726834112,1726375938,1725930607,1725451004,1724983135];
+        let timestamps = [1730638000,1730532524,1729937836,1729844074,1729311499,1729270124,1728823828,1728369988,1727891861,1727883446,1727441099,1727239771,1726834112,1726375938,1725930607,1725451004,1724983135];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/08 | 5-2 | [国际联盟](https://ws.tsl.rocks/corp/4b25f449617273077d1898d67e79bfe22c803412bb840eb68412fe0ee7224a95/) |
 | ✅ | 2024/11/07 | 16-0 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) |
 | ❌ | 2024/10/31 | 0-7 | [ДИᏰEPℂДℍTᏰℓ](https://ws.tsl.rocks/corp/a1dad8a2a2c5ab935169d168bc19f8a1db7f12b099358e079cb7221a340345ed/) |
 | ❌ | 2024/10/30 | 1-24 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |

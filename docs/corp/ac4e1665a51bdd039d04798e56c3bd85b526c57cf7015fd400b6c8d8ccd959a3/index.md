@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​63SALVADORES36
-description: W:5 L:8 D:1 Bonus ✅
-date: 1730617155
+description: W:5 L:9 D:1 Bonus ✅
+date: 1731078117
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1178 🔺  (823)|
-| ELO Competitive | 1211 🔺  (543)|
-| Total Matches | 14 |
+| ELO Regular | 1164 🔻  (983)|
+| ELO Competitive | 1195 🔻  (649)|
+| Total Matches | 15 |
 | Wins | 5 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 1 |
-| Streak | 2 |
 | Streak Record | 2 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730185155,1729727794,1729205216,1728550304,1728030470,1727556803,1727064592,1727056182,1726564970,1726560764,1726118619,1726100381,1718076198,1715859906];
+        let timestamps = [1730646117,1730185155,1729727794,1729205216,1728550304,1728030470,1727556803,1727064592,1727056182,1726564970,1726560764,1726118619,1726100381,1718076198,1715859906];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/08 | 4-5 | [Equinox](https://ws.tsl.rocks/corp/d6f4702c0a85549d019474868a68ecc1a6c546d73fa31f9336ee639a906ff0fe/) |
 | ✅ | 2024/11/03 | 9-0 | [StargateCommand](https://ws.tsl.rocks/corp/b378193d0b158ce0513a666f0c19da1599421d036e3fd12c0f287d02cac78ccb/) |
 | ✅ | 2024/10/28 | 13-1 | [empire](https://ws.tsl.rocks/corp/c59bf8dfb57f9bfc0a87735b00299b45d32d3607628d7879e2bd9711fec3e90f/) |
 | ❌ | 2024/10/22 | 2-6 | [hades star萌新指引站](https://ws.tsl.rocks/corp/06feef105195a4e2ec026c0e3e2c62fce31204dfe6be8e4b26863935efbf8a50/) |
