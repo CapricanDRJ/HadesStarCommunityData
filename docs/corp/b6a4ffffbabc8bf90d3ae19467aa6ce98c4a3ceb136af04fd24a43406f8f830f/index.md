@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​아베노노
-description: W:3 L:3 D:1 Bonus ❌
-date: 1730381858
+description: W:4 L:3 D:1 Bonus ✅
+date: 1731028163
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1196 🔺  (527)|
-| ELO Competitive | 1201 🔺  (582)|
-| Total Matches | 7 |
-| Wins | 3 |
+| ELO Regular | 1208 🔺  (445)|
+| ELO Competitive | 1219 🔺  (469)|
+| Total Matches | 8 |
+| Wins | 4 |
 | Losses | 3 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 2 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729949858,1727704643,1704799641,1703579240,1702977389,1702388931,1701954936];
+        let timestamps = [1730596163,1729949858,1727704643,1704799641,1703579240,1702977389,1702388931,1701954936];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/08 | 4-2 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
 | ✅ | 2024/10/31 | 7-3 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ❌ | 2024/10/05 | 0-25 | [德意志第三帝国奥米加分部](https://ws.tsl.rocks/corp/b5f35e30b2dea2621e854b5011a9f9d07ca3585cd26bd9ac92aa7b06c0a522b1/) |
 | ❌ | 2024/01/14 | 3-6 | [V0RTEX](https://ws.tsl.rocks/corp/22a12c757b3e065e8ec7a839b80e33339317bb277aeee145f6cde6f473e06f8f/) |

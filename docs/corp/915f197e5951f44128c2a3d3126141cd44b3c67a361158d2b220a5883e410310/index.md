@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Торг. федерация
-description: W:9 L:15 D:0 Bonus ✅
+description: W:9 L:15 D:0 Bonus ❌
 date: 1730404100
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

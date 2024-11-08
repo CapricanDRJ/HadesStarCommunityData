@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Kelebra
-description: W:13 L:15 D:1 Bonus ✅
+description: W:13 L:15 D:1 Bonus ❌
 date: 1730833512
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1208 🔻  (446)|
-| ELO Competitive | 1262 🔻  (334)|
+| ELO Regular | 1208 🔻  (447)|
+| ELO Competitive | 1262 🔻  (333)|
 | Total Matches | 29 |
 | Wins | 13 |
 | Losses | 15 |
