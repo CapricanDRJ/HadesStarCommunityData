@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​the heavy
-description: W:19 L:10 D:0 Bonus ✅
+description: W:19 L:10 D:0 Bonus ❌
 date: 1730460292
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1323 🔺  (116)|
-| ELO Competitive | 1378 🔺  (144)|
+| ELO Competitive | 1378 🔺  (145)|
 | Total Matches | 29 |
 | Wins | 19 |
 | Losses | 10 |

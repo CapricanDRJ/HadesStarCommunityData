@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Nebula alliance
-description: W:2 L:2 D:1 Bonus ✅
+description: W:2 L:2 D:1 Bonus ❌
 date: 1730452430
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
