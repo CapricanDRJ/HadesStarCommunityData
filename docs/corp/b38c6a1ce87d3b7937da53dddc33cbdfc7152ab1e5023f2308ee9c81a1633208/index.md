@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Dacia Chill
-description: W:18 L:3 D:0 Bonus ❌
-date: 1726248720
+description: W:19 L:3 D:0 Bonus ✅
+date: 1731095851
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1373 🔺  (73)|
-| ELO Competitive | 1395 🔺  (126)|
-| Total Matches | 21 |
-| Wins | 18 |
+| ELO Regular | 1375 🔺  (71)|
+| ELO Competitive | 1397 🔺  (124)|
+| Total Matches | 22 |
+| Wins | 19 |
 | Losses | 3 |
 | Draws | 0 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 7 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1725816720,1720956234,1719251667,1717922024,1717177192,1714299529,1713708544,1713090790,1712503665,1712495850,1711878362,1711285222,1710723953,1708324615,1707039665,1705835206,1705236286,1704637964,1702714117,1701004922,1699826714];
+        let timestamps = [1730663851,1725816720,1720956234,1719251667,1717922024,1717177192,1714299529,1713708544,1713090790,1712503665,1712495850,1711878362,1711285222,1710723953,1708324615,1707039665,1705835206,1705236286,1704637964,1702714117,1701004922,1699826714];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/08 | 41-10 | [The X \- Files](https://ws.tsl.rocks/corp/f13cb0ae2dbb0654a2067c8749f86bce49edc5b520bd391c7af11948f23a41fb/) |
 | ✅ | 2024/09/13 | 40-17 | [GDZ](https://ws.tsl.rocks/corp/a04890160268d05cf11f997b0a1c724fbbcfa66b2ea4cb1c4b56ca18d0425d62/) |
 | ✅ | 2024/07/19 | 43-29 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |
 | ✅ | 2024/06/29 | 35-21 | [Ironbear Legion](https://ws.tsl.rocks/corp/256873683be88bf78e3d4f1fda68e669c8be11e78a85f9add19e60facc9831b0/) |
