@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​云深不知处
-description: W:0 L:1 D:0 Bonus ❌
-date: 1730552246
+description: W:0 L:2 D:0 Bonus ❌
+date: 1731062186
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (656)|
-| ELO Competitive | 1188 🔻  (746)|
-| Total Matches | 1 |
+| ELO Regular | 1173 🔻  (868)|
+| ELO Competitive | 1175 🔻  (978)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730120246];
+        let timestamps = [1730630186,1730120246];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/08 | 7-32 | [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541/) |
 | ❌ | 2024/11/02 | 10-11 | [RUFORS](https://ws.tsl.rocks/corp/f1e7f82e284c8233985039ea19544dbfa937f38f2315e9ad6a1d037423071b6d/) |
 
 Corporation ID: 640f652e13ee5dfca289fcf00ddb7ac25abf9ff9c565bda6561c55ff62cae685
