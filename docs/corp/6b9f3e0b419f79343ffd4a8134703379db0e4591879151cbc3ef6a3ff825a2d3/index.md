@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Winged Pheonix
-description: W:11 L:15 D:0 Bonus ❌
-date: 1730293804
+description: W:11 L:16 D:0 Bonus ❌
+date: 1731051068
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔺  (583)|
-| ELO Competitive | 1256 🔺  (351)|
-| Total Matches | 26 |
+| ELO Regular | 1177 🔻  (829)|
+| ELO Competitive | 1249 🔻  (371)|
+| Total Matches | 27 |
 | Wins | 11 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 0 |
-| Streak | 3 |
 | Streak Record | 3 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729861804,1729249383,1728629347,1727844378,1727309490,1726821191,1726041481,1725571508,1725039334,1724218644,1723534967,1723086604,1722397236,1721906475,1721445187,1720937900,1720040505,1719463519,1718596544,1718121274,1717392995,1716545518,1716007428,1715248485,1714705767,1713772837];
+        let timestamps = [1730619068,1729861804,1729249383,1728629347,1727844378,1727309490,1726821191,1726041481,1725571508,1725039334,1724218644,1723534967,1723086604,1722397236,1721906475,1721445187,1720937900,1720040505,1719463519,1718596544,1718121274,1717392995,1716545518,1716007428,1715248485,1714705767,1713772837];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) | 0 | 2 | 0 | 2 |
 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) | 3 | 0 | 0 | 3 |
 | [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) | 2 | 0 | 0 | 2 |
 | [BrazilCorp\.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) | 0 | 2 | 0 | 2 |
@@ -126,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/08 | 3-20 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | ✅ | 2024/10/30 | 33-20 | [Trade Station](https://ws.tsl.rocks/corp/7003e286fe1a04aaa63e3aa318c164856c07e251a94b0496757140f5eda72cd7/) |
 | ✅ | 2024/10/23 | 26-21 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) |
 | ✅ | 2024/10/16 | 26-5 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) |

@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​以太超星团
-description: W:3 L:26 D:5 Bonus ❌
-date: 1728472018
+description: W:3 L:26 D:6 Bonus ❌
+date: 1731054674
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1014 🔻  (1287)|
-| ELO Competitive | 1120 🔻  (1243)|
-| Total Matches | 34 |
+| ELO Regular | 1020 🔺  (1284)|
+| ELO Competitive | 1123 🔺  (1243)|
+| Total Matches | 35 |
 | Wins | 3 |
 | Losses | 26 |
-| Draws | 5 |
+| Draws | 6 |
 
 
 # Whitestar Match Day
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728040018,1726898116,1725156996,1723881808,1723264400,1722769864,1721533537,1721524624,1720976118,1720956835,1720013954,1719975356,1719495972,1719493868,1718964659,1718952941,1718497978,1718460904,1718064605,1718008579,1717580232,1717458342,1717044968,1716874275,1716543132,1716281740,1716079840,1715834370,1715578691,1715255695,1715124408,1714783991,1714665506,1714212998];
+        let timestamps = [1730622674,1728040018,1726898116,1725156996,1723881808,1723264400,1722769864,1721533537,1721524624,1720976118,1720956835,1720013954,1719975356,1719495972,1719493868,1718964659,1718952941,1718497978,1718460904,1718064605,1718008579,1717580232,1717458342,1717044968,1716874275,1716543132,1716281740,1716079840,1715834370,1715578691,1715255695,1715124408,1714783991,1714665506,1714212998];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/11/08 | 0-0 | [银河护卫队](https://ws.tsl.rocks/corp/e522df7ad34eabee08393efb864d53bdc897d0ad187170616d6ef924df5c7267/) |
 | ❌ | 2024/10/09 | 0-3 | [Winter Star llc](https://ws.tsl.rocks/corp/89b20821cb6e619dced74a6e153a1d3ceafa70b1035fb7d61a6920d375e49f50/) |
 | ❌ | 2024/09/26 | 0-17 | [Nox Imperium](https://ws.tsl.rocks/corp/b60fb003fae650d1de18e7bca4fad04f9805501f4568d07ceb47bffdfeb613c1/) |
 | ↔️ | 2024/09/06 | 0-0 | [共产国际](https://ws.tsl.rocks/corp/375b1efc576c9d15f93249680dcd6dccaf2ad07cd520b85242d0b704d3a494c6/) |

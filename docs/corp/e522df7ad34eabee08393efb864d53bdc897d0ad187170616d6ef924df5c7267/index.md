@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​银河护卫队
-description: W:2 L:4 D:0 Bonus ❌
-date: 1730427836
+description: W:2 L:5 D:1 Bonus ❌
+date: 1731054674
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 🔻  (972)|
-| ELO Competitive | 1187 🔻  (755)|
-| Total Matches | 6 |
+| ELO Regular | 1145 🔻  (1090)|
+| ELO Competitive | 1185 🔻  (889)|
+| Total Matches | 8 |
 | Wins | 2 |
-| Losses | 4 |
-| Draws | 0 |
+| Losses | 5 |
+| Draws | 1 |
 
 
 # Whitestar Match Day
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729995836,1729903578,1729271326,1728322514,1727870219,1726669030];
+        let timestamps = [1730622674,1730621472,1729995836,1729903578,1729271326,1728322514,1727870219,1726669030];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/11/08 | 0-0 | [以太超星团](https://ws.tsl.rocks/corp/327addf616128dc5b01013e29e850c76d22ae27af199bcc6bba3b92cee7818ae/) |
+| ❌ | 2024/11/08 | 4-5 | [Winter Star llc](https://ws.tsl.rocks/corp/89b20821cb6e619dced74a6e153a1d3ceafa70b1035fb7d61a6920d375e49f50/) |
 | ❌ | 2024/11/01 | 1-15 | [星光万丈](https://ws.tsl.rocks/corp/92ad2a305a74e168b57771140461b4d226e1e8cac17b4f77027d5a67ead5fa1d/) |
 | ❌ | 2024/10/31 | 1-2 | [Alpha to Omega](https://ws.tsl.rocks/corp/2b3694014264240c8c0d1bb6a20e9d120dff2b6680c98b4e06e34bfd489f9da6/) |
 | ❌ | 2024/10/23 | 0-2 | [麻雀集团](https://ws.tsl.rocks/corp/bf5e5ea02e24918ed66d543902f4315f957c79c9bc1bd434c034158e9f648abe/) |

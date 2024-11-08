@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​星光万丈
-description: W:22 L:27 D:1 Bonus ✅
+description: W:22 L:27 D:1 Bonus ❌
 date: 1730427836
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
