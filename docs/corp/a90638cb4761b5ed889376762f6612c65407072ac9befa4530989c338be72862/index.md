@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Corp. Luminá
-description: W:2 L:0 D:0 Bonus ✅
+description: W:2 L:0 D:0 Bonus ❌
 date: 1730558260
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1234 🔺  (304)|
-| ELO Competitive | 1234 🔺  (416)|
+| ELO Competitive | 1234 🔺  (415)|
 | Total Matches | 2 |
 | Wins | 2 |
 | Losses | 0 |
