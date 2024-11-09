@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​华夏联盟
-description: W:2 L:6 D:1 Bonus ❌
-date: 1730658928
+description: W:2 L:7 D:1 Bonus ❌
+date: 1731157745
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1145 🔻  (1094)|
-| ELO Competitive | 1178 🔻  (958)|
-| Total Matches | 9 |
+| ELO Regular | 1130 🔻  (1149)|
+| ELO Competitive | 1165 🔻  (1103)|
+| Total Matches | 10 |
 | Wins | 2 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 1 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730226928,1730121750,1729621421,1729311499,1729158623,1728726422,1728292707,1727704042,1727194102];
+        let timestamps = [1730725745,1730226928,1730121750,1729621421,1729311499,1729158623,1728726422,1728292707,1727704042,1727194102];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -112,11 +112,17 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) | 0 | 1 | 1 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/09 | 0-3 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
 | ❌ | 2024/11/03 | 1-12 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) |
 | ❌ | 2024/11/02 | 0-11 | [物竞天择，适者生存](https://ws.tsl.rocks/corp/37d348d8b1c6a4ff8594f28196a593a0ba8fb565b62b6bbcc6dae46c2de660cf/) |
 | ❌ | 2024/10/27 | 0-2 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) |

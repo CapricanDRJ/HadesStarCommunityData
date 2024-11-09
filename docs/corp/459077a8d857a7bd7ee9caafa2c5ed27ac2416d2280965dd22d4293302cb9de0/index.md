@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​一根飞机
-description: W:1 L:0 D:0 Bonus ✅
-date: 1730817883
+description: W:1 L:0 D:1 Bonus ✅
+date: 1731156843
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1213 🔺  (408)|
+| ELO Regular | 1215 🔺  (394)|
 | ELO Competitive | 1215 🔺  (500)|
-| Total Matches | 1 |
+| Total Matches | 2 |
 | Wins | 1 |
 | Losses | 0 |
-| Draws | 0 |
+| Draws | 1 |
 
 
 # Whitestar Match Day
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730385883];
+        let timestamps = [1730724843,1730385883];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/11/09 | 0-0 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |
 | ✅ | 2024/11/05 | 9-6 | [斯比纳兰](https://ws.tsl.rocks/corp/ce756ff97542e6fa8d518319e6575aae1d01eb23dd906fee3e3cbb98b442b68f/) |
 
 Corporation ID: 459077a8d857a7bd7ee9caafa2c5ed27ac2416d2280965dd22d4293302cb9de0

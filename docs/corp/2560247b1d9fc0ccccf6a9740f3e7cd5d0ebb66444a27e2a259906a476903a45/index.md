@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Revólver
-description: W:9 L:18 D:1 Bonus ❌
-date: 1730552547
+description: W:10 L:18 D:1 Bonus ✅
+date: 1731165561
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1144 🔻  (1099)|
-| ELO Competitive | 1171 🔻  (1038)|
-| Total Matches | 28 |
-| Wins | 9 |
+| ELO Regular | 1167 🔺  (961)|
+| ELO Competitive | 1197 🔺  (640)|
+| Total Matches | 29 |
+| Wins | 10 |
 | Losses | 18 |
 | Draws | 1 |
 | Streak Record | 3 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730120547,1729518047,1728917607,1728339045,1727717571,1727103054,1725900257,1725293859,1709359497,1708368793,1707763581,1707158782,1706624660,1705959929,1705168371,1704730223,1704123483,1703613204,1702910072,1702310189,1701706388,1701102301,1700514430,1700503306,1699891330,1699888924,1699287812,1698699397];
+        let timestamps = [1730733561,1730120547,1729518047,1728917607,1728339045,1727717571,1727103054,1725900257,1725293859,1709359497,1708368793,1707763581,1707158782,1706624660,1705959929,1705168371,1704730223,1704123483,1703613204,1702910072,1702310189,1701706388,1701102301,1700514430,1700503306,1699891330,1699888924,1699287812,1698699397];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/09 | 19-18 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |
 | ❌ | 2024/11/02 | 10-24 | [Omega Alpha](https://ws.tsl.rocks/corp/b6e23a3f1f3a3c735c694624b273dcd7da2f8bd13a5ac2b36a8ad39737b1d062/) |
 | ❌ | 2024/10/26 | 2-21 | [nuevo mundo](https://ws.tsl.rocks/corp/5675df73364d8b031e9541d8aa8d5a9e55649ef419ad87c0b21dec77a0ed6044/) |
 | ✅ | 2024/10/19 | 31-12 | [Peace Keepers](https://ws.tsl.rocks/corp/7ac71c394c017639785b3ecaa8087bd3b9a9d134e05d22703a3e18217da3380d/) |
