@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​WhiteSTarfighte
-description: W:5 L:5 D:0 Bonus ✅
+description: W:5 L:5 D:0 Bonus ❌
 date: 1730949201
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

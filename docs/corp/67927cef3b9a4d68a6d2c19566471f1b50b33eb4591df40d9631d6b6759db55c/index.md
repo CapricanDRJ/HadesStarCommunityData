@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​星际集团
-description: W:21 L:15 D:3 Bonus ✅
-date: 1730655322
+description: W:22 L:15 D:3 Bonus ✅
+date: 1731138813
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1235 🔻  (302)|
-| ELO Competitive | 1367 🔺  (155)|
-| Total Matches | 39 |
-| Wins | 21 |
+| ELO Regular | 1245 🔺  (251)|
+| ELO Competitive | 1376 🔺  (147)|
+| Total Matches | 40 |
+| Wins | 22 |
 | Losses | 15 |
 | Draws | 3 |
 | Streak Record | 3 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730223322,1730208894,1729771658,1729748823,1729304383,1729246979,1728720411,1728706887,1728272930,1728220339,1727789085,1727778566,1727327215,1727324511,1726856351,1726806270,1726374634,1726332665,1725900558,1725716945,1725361461,1725284540,1724798029,1724336140,1723902192,1723462239,1722942961,1722474729,1722041705,1721524624,1721020556,1721014846,1720512325,1720512325,1720078067,1720005331,1719586724,1719152494,1718710135];
+        let timestamps = [1730706813,1730223322,1730208894,1729771658,1729748823,1729304383,1729246979,1728720411,1728706887,1728272930,1728220339,1727789085,1727778566,1727327215,1727324511,1726856351,1726806270,1726374634,1726332665,1725900558,1725716945,1725361461,1725284540,1724798029,1724336140,1723902192,1723462239,1722942961,1722474729,1722041705,1721524624,1721020556,1721014846,1720512325,1720512325,1720078067,1720005331,1719586724,1719152494,1718710135];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -128,6 +128,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/09 | 4-3 | [Empire of Light](https://ws.tsl.rocks/corp/5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc/) |
 | ❌ | 2024/11/03 | 0-3 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
 | ✅ | 2024/11/03 | 8-2 | [hades star萌新指引站](https://ws.tsl.rocks/corp/06feef105195a4e2ec026c0e3e2c62fce31204dfe6be8e4b26863935efbf8a50/) |
 | ✅ | 2024/10/29 | 10-0 | [империя тьмы](https://ws.tsl.rocks/corp/4eb22a1b793e5d03579cea15c873b1bef56fea02420a4e55edb18a200f7fc46a/) |
