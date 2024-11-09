@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Ironbear Legion
-description: W:16 L:34 D:0 Bonus ✅
+description: W:16 L:34 D:0 Bonus ❌
 date: 1731096753
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
