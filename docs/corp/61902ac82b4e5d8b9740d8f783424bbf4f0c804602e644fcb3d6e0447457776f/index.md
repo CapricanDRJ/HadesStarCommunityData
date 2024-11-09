@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​ZORG IND
-description: W:19 L:7 D:1 Bonus ✅
+description: W:19 L:7 D:1 Bonus ❌
 date: 1731021926
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
