@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​Megacorp
-description: W:1 L:0 D:0 Bonus ❌
-date: 1699287091
+description: W:1 L:0 D:1 Bonus ❌
+date: 1731125874
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1215 🔺  (386)|
-| ELO Competitive | 1215 🔺  (502)|
-| Total Matches | 1 |
+| ELO Regular | 1212 🔻  (427)|
+| ELO Competitive | 1212 🔻  (533)|
+| Total Matches | 2 |
 | Wins | 1 |
 | Losses | 0 |
-| Draws | 0 |
+| Draws | 1 |
 
 
 # Whitestar Match Day
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1698855091];
+        let timestamps = [1730693874,1698855091];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/11/09 | 0-0 | [舰队联邦\[FF\]](https://ws.tsl.rocks/corp/a416c5b53512093490461bf0dab583fbb401f5850470774f6de02dafe6ca3655/) |
 | ✅ | 2023/11/06 | 5-0 | [联合宇宙](https://ws.tsl.rocks/corp/da614a2861abac24e31b7b978e75196750b88545f6ece0f367b66b43d696deab/) |
 
 Corporation ID: 421939d01386458d9ba38a664b76164d3f6d4df88002f3f6b405fad73e43b92a

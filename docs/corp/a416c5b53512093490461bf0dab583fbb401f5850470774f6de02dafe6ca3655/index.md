@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​舰队联邦[FF]
-description: W:1 L:6 D:2 Bonus ❌
-date: 1729790180
+description: W:1 L:6 D:3 Bonus ❌
+date: 1731125874
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1135 🔻  (1130)|
-| ELO Competitive | 1146 🔻  (1189)|
-| Total Matches | 9 |
+| ELO Regular | 1139 🔺  (1116)|
+| ELO Competitive | 1149 🔺  (1177)|
+| Total Matches | 10 |
 | Wins | 1 |
 | Losses | 6 |
-| Draws | 2 |
+| Draws | 3 |
 
 
 # Whitestar Match Day
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729358180,1727891861,1724835416,1724634716,1724304888,1724135103,1723871533,1723436697,1722843792];
+        let timestamps = [1730693874,1729358180,1727891861,1724835416,1724634716,1724304888,1724135103,1723871533,1723436697,1722843792];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/11/09 | 0-0 | [Megacorp](https://ws.tsl.rocks/corp/421939d01386458d9ba38a664b76164d3f6d4df88002f3f6b405fad73e43b92a/) |
 | ❌ | 2024/10/24 | 0-3 | [Bon Ariens](https://ws.tsl.rocks/corp/1d0aa6d0fbc5e35422544e47ebd18d2fe21749780594630982f96fa08a850574/) |
 | ❌ | 2024/10/07 | 0-5 | [太阳系集团](https://ws.tsl.rocks/corp/50f5e0a888ce2f21c0980be0cbb1e444e1d7eeb9dcb2095c3e428bd5bde7a9f6/) |
 | ❌ | 2024/09/02 | 0-4 | [UFSG](https://ws.tsl.rocks/corp/9c9b98c2bfcf5411f6bc5502ed3163b92c8733b540071e4b70dc0bf8b0701a97/) |
