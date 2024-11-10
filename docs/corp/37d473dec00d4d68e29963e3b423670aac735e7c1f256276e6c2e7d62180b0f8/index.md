@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Dumpster Fire 2
-description: W:40 L:53 D:2 Bonus ✅
+description: W:40 L:53 D:2 Bonus ❌
 date: 1731179387
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

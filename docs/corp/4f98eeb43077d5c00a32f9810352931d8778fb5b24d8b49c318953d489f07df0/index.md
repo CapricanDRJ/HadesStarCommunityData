@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​AlyTec Sys.
-description: W:1 L:6 D:1 Bonus ❌
-date: 1730740959
+description: W:1 L:7 D:1 Bonus ❌
+date: 1731192857
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1125 🔻  (1164)|
-| ELO Competitive | 1131 🔻  (1236)|
-| Total Matches | 8 |
+| ELO Regular | 1115 🔻  (1190)|
+| ELO Competitive | 1121 🔻  (1247)|
+| Total Matches | 9 |
 | Wins | 1 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 1 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730308959,1729834760,1729387027,1728938351,1728505836,1728055952,1723351651,1722852510];
+        let timestamps = [1730760857,1730308959,1729834760,1729387027,1728938351,1728505836,1728055952,1723351651,1722852510];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/09 | 2-7 | [蓝星集团](https://ws.tsl.rocks/corp/9d718b80beaf9682ccde175169372b72f70b75bb593770762dfc9e990cbd098a/) |
 | ❌ | 2024/11/04 | 0-6 | [Dirty Minds Inc](https://ws.tsl.rocks/corp/c8436a708008779e050bd40e98b52fc38b3782b31d5fdd99c74918af8005d778/) |
 | ❌ | 2024/10/30 | 0-8 | [Omega corp](https://ws.tsl.rocks/corp/17140be6e5915edf2d09ebcf246a7c2650cf39def04823c9a04bdf81ff8fc38e/) |
 | ❌ | 2024/10/25 | 2-5 | [imperio galacti](https://ws.tsl.rocks/corp/53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2/) |

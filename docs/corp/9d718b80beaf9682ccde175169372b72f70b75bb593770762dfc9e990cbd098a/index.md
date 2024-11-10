@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​蓝星集团
-description: W:6 L:3 D:0 Bonus ✅
-date: 1730717216
+description: W:7 L:3 D:0 Bonus ✅
+date: 1731192857
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1248 🔺  (243)|
-| ELO Competitive | 1260 🔺  (338)|
-| Total Matches | 9 |
-| Wins | 6 |
+| ELO Regular | 1258 🔺  (216)|
+| ELO Competitive | 1270 🔺  (312)|
+| Total Matches | 10 |
+| Wins | 7 |
 | Losses | 3 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 2 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730285216,1729781576,1729342548,1728823828,1727946249,1727505111,1726803718,1724407362,1723912716];
+        let timestamps = [1730760857,1730285216,1729781576,1729342548,1728823828,1727946249,1727505111,1726803718,1724407362,1723912716];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/09 | 7-2 | [AlyTec Sys\.](https://ws.tsl.rocks/corp/4f98eeb43077d5c00a32f9810352931d8778fb5b24d8b49c318953d489f07df0/) |
 | ✅ | 2024/11/04 | 7-2 | [SEC](https://ws.tsl.rocks/corp/c36ee5a9ff1f148ada25e8402464cecd17ac847acf81dacd8ea25c29c8fd9bc1/) |
 | ❌ | 2024/10/29 | 8-9 | [闲散人员](https://ws.tsl.rocks/corp/4f0fa774b66e4f744a305525f92e7252205ae754df0f3982b577b32caf32cdbc/) |
 | ✅ | 2024/10/24 | 9-0 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​新星汇聚
-description: W:2 L:0 D:0 Bonus ✅
+description: W:2 L:0 D:0 Bonus ❌
 date: 1730566676
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
