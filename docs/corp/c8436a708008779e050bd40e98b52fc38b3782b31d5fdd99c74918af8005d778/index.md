@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Dirty Minds Inc
-description: W:4 L:0 D:0 Bonus ✅
-date: 1730740959
+description: W:4 L:1 D:0 Bonus ✅
+date: 1731241884
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1250 🔺  (238)|
-| ELO Competitive | 1255 🔺  (353)|
-| Total Matches | 4 |
+| ELO Regular | 1235 🔻  (298)|
+| ELO Competitive | 1240 🔻  (397)|
+| Total Matches | 5 |
 | Wins | 4 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 0 |
-| Streak | 4 |
 | Streak Record | 4 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730308959,1729602484,1729108146,1728657899];
+        let timestamps = [1730809884,1730308959,1729602484,1729108146,1728657899];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/10 | 0-16 | [ITALIA](https://ws.tsl.rocks/corp/50983e789fe433b3974f5e28fe71a160d7d15afecfc7f2b89595a1a52391fda2/) |
 | ✅ | 2024/11/04 | 6-0 | [AlyTec Sys\.](https://ws.tsl.rocks/corp/4f98eeb43077d5c00a32f9810352931d8778fb5b24d8b49c318953d489f07df0/) |
 | ✅ | 2024/10/27 | 5-3 | [华夏三体\-基沃托斯集团](https://ws.tsl.rocks/corp/2a0e5e40c4264cc5c8543ba1f6f41772d2059010c0a58381251017412b294ef7/) |
 | ✅ | 2024/10/21 | 6-4 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
