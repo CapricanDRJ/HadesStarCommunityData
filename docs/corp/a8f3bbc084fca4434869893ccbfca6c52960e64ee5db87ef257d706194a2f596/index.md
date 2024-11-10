@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​WinterComes
-description: W:1 L:5 D:0 Bonus ✅
+description: W:1 L:5 D:0 Bonus ❌
 date: 1731179387
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
