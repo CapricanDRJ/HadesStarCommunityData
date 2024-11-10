@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​The Smeg Heads
-description: W:0 L:5 D:0 Bonus ❌
-date: 1729839159
+description: W:1 L:5 D:0 Bonus ✅
+date: 1731222354
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1139 🔻  (1120)|
-| ELO Competitive | 1143 🔻  (1207)|
-| Total Matches | 5 |
-| Wins | 0 |
+| ELO Regular | 1153 🔺  (1061)|
+| ELO Competitive | 1158 🔺  (1144)|
+| Total Matches | 6 |
+| Wins | 1 |
 | Losses | 5 |
 | Draws | 0 |
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729407159,1728519658,1727601870,1727115679,1726237395];
+        let timestamps = [1730790354,1729407159,1728519658,1727601870,1727115679,1726237395];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/10 | 3-0 | [欢迎国人](https://ws.tsl.rocks/corp/f32abd112fe2b826948a3538a51097b9114815930ec77ad11ada1b24ce34578d/) |
 | ❌ | 2024/10/25 | 0-19 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
 | ❌ | 2024/10/15 | 2-23 | [Ninth Planet](https://ws.tsl.rocks/corp/53297ed66c8c326d4cb4eebdee55172d3d64f122addd5d916b314f4ab557e21a/) |
 | ❌ | 2024/10/04 | 3-12 | [Glashan](https://ws.tsl.rocks/corp/48b9fa3df8bbc6ce4a8455e9b923f28c0eccb8054c9f72e9c14e6acfee5a23a4/) |

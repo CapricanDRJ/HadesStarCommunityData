@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​EarthFederation
-description: W:3 L:2 D:0 Bonus ✅
+description: W:3 L:2 D:0 Bonus ❌
 date: 1730600932
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
