@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​111
-description: W:54 L:20 D:0 Bonus ✅
+description: W:54 L:20 D:0 Bonus ❌
 date: 1731140015
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
