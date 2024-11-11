@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​FURIA 2.0
-description: W:8 L:12 D:0 Bonus ✅
+description: W:8 L:12 D:0 Bonus ❌
 date: 1731153236
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (795)|
-| ELO Competitive | 1209 🔻  (554)|
+| ELO Regular | 1183 🔻  (794)|
+| ELO Competitive | 1209 🔻  (555)|
 | Total Matches | 20 |
 | Wins | 8 |
 | Losses | 12 |

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​SQPT
-description: W:46 L:48 D:0 Bonus ✅
+description: W:46 L:48 D:0 Bonus ❌
 date: 1731308293
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
