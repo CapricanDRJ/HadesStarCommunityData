@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​한국우주연합
-description: W:7 L:12 D:0 Bonus ❌
-date: 1717387418
+description: W:7 L:13 D:0 Bonus ❌
+date: 1731316706
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1131 🔻  (1145)|
-| ELO Competitive | 1149 🔻  (1178)|
-| Total Matches | 19 |
+| ELO Regular | 1116 🔻  (1189)|
+| ELO Competitive | 1135 🔻  (1227)|
+| Total Matches | 20 |
 | Wins | 7 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 0 |
 | Streak Record | 4 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1716955418,1711857631,1710761203,1710239885,1709052712,1708515729,1708049360,1707604317,1707122306,1706658323,1706075920,1705236586,1704151736,1703514931,1703487883,1702998126,1702309287,1701864173,1701165413];
+        let timestamps = [1730884706,1716955418,1711857631,1710761203,1710239885,1709052712,1708515729,1708049360,1707604317,1707122306,1706658323,1706075920,1705236586,1704151736,1703514931,1703487883,1702998126,1702309287,1701864173,1701165413];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/11 | 1-3 | [СНГ — РОССИЯ](https://ws.tsl.rocks/corp/075394144fa4e771dc8358886dc461b0ed87d948b46e5d817d29296adf2f11f2/) |
 | ❌ | 2024/06/03 | 1-5 | [Armored Union ](https://ws.tsl.rocks/corp/4dacc02ca314ab864578421db538b0eb10b0c8c81dc0edd91c5090717d087c7f/) |
 | ❌ | 2024/04/05 | 0-4 | [Los Unidos ](https://ws.tsl.rocks/corp/963d98b9a64c86c9edc86daabe201f5d7e1f42bbeb0f45671b44a87e0b288e91/) |
 | ❌ | 2024/03/23 | 0-6 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) |
