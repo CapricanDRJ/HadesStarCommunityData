@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​RedStar Raiding
-description: W:10 L:41 D:1 Bonus ✅
+description: W:10 L:41 D:1 Bonus ❌
 date: 1731270698
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
