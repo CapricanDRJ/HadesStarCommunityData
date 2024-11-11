@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​северный шторм
-description: W:2 L:4 D:0 Bonus ✅
+description: W:2 L:4 D:0 Bonus ❌
 date: 1730701292
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔺  (783)|
-| ELO Competitive | 1206 🔺  (564)|
+| ELO Regular | 1184 🔺  (784)|
+| ELO Competitive | 1206 🔺  (565)|
 | Total Matches | 6 |
 | Wins | 2 |
 | Losses | 4 |
