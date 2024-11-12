@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​P!RAT£ SHIP
-description: W:20 L:7 D:1 Bonus ✅
-date: 1730905997
+description: W:21 L:7 D:1 Bonus ✅
+date: 1731443818
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1352 🔺  (84)|
-| ELO Competitive | 1390 🔺  (133)|
-| Total Matches | 28 |
-| Wins | 20 |
+| ELO Regular | 1360 🔺  (79)|
+| ELO Competitive | 1400 🔺  (123)|
+| Total Matches | 29 |
+| Wins | 21 |
 | Losses | 7 |
 | Draws | 1 |
-| Streak | 9 |
-| Streak Record | 9 |
+| Streak | 10 |
+| Streak Record | 10 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730473997,1729905080,1729361186,1728828039,1728303880,1727719828,1727217543,1725737684,1725235867,1724684439,1724112269,1723606489,1722361478,1721170838,1720359961,1719850268,1714335894,1713722968,1713045120,1710457723,1708084814,1705156347,1704313412,1702820511,1702315601,1701825409,1701790838,1700839611];
+        let timestamps = [1731011818,1730473997,1729905080,1729361186,1728828039,1728303880,1727719828,1727217543,1725737684,1725235867,1724684439,1724112269,1723606489,1722361478,1721170838,1720359961,1719850268,1714335894,1713722968,1713045120,1710457723,1708084814,1705156347,1704313412,1702820511,1702315601,1701825409,1701790838,1700839611];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/12 | 18-2 | [Galaxians](https://ws.tsl.rocks/corp/94728c6eb201c1f15c6e2304b5920aa155ccc1a7aac83b574baae51c53a22c5d/) |
 | ✅ | 2024/11/06 | 32-0 | [ 墨痕 ](https://ws.tsl.rocks/corp/1beef0498f07b07217c6e0727dffd066947edc54ee6d09dc63c031def52cdd60/) |
 | ✅ | 2024/10/31 | 25-3 | [Sich\.ua](https://ws.tsl.rocks/corp/9fcd6d7c4fe7f8e39acf48585dfe9c6d3d14edc7781fe8caf85618b3e98c685d/) |
 | ✅ | 2024/10/24 | 30-6 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |

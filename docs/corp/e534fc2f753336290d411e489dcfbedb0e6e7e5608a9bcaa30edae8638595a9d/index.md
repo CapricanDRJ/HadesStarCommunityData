@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​阿尔特拉太空港
-description: W:15 L:10 D:1 Bonus ✅
+description: W:15 L:10 D:1 Bonus ❌
 date: 1731414062
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1259 🔻  (215)|
+| ELO Regular | 1259 🔻  (216)|
 | ELO Competitive | 1307 🔻  (235)|
 | Total Matches | 26 |
 | Wins | 15 |
