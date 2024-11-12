@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Z. O. V. 
-description: W:31 L:6 D:1 Bonus ❌
-date: 1730970834
+description: W:31 L:7 D:1 Bonus ❌
+date: 1731404446
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1417 🔻  (37)|
-| ELO Competitive | 1481 🔻  (57)|
-| Total Matches | 38 |
+| ELO Regular | 1397 🔻  (51)|
+| ELO Competitive | 1460 🔻  (72)|
+| Total Matches | 39 |
 | Wins | 31 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 1 |
 | Streak Record | 24 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730538834,1730104019,1729506926,1728890857,1728298470,1727697429,1727119286,1726496157,1725839155,1725213330,1724563326,1723930149,1723282233,1722666184,1722066350,1721442184,1720829708,1720187162,1719555472,1718953241,1718317514,1717678811,1717235791,1716780511,1716295259,1715836773,1715432659,1715392698,1714954051,1714327780,1713913750,1713883400,1713406301,1713345299,1712739237,1712291223,1712259978,1711797233];
+        let timestamps = [1730972446,1730538834,1730104019,1729506926,1728890857,1728298470,1727697429,1727119286,1726496157,1725839155,1725213330,1724563326,1723930149,1723282233,1722666184,1722066350,1721442184,1720829708,1720187162,1719555472,1718953241,1718317514,1717678811,1717235791,1716780511,1716295259,1715836773,1715432659,1715392698,1714954051,1714327780,1713913750,1713883400,1713406301,1713345299,1712739237,1712291223,1712259978,1711797233];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/12 | 9-26 | [Лютые](https://ws.tsl.rocks/corp/c9ffc70c2dcbfe9eaa3387645d404d9227b173de066bf09e0493d83aa4c9f053/) |
 | ❌ | 2024/11/07 | 8-20 | [Scar](https://ws.tsl.rocks/corp/1fd57b7d50b68cb3883fd58e596f496821ebcc82dee1915bb7f34a402b03c44a/) |
 | ❌ | 2024/11/02 | 5-12 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
 | ✅ | 2024/10/26 | 30-0 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |

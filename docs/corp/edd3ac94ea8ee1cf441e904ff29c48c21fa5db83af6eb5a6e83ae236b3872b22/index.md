@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Osmium Star llc
-description: W:23 L:2 D:0 Bonus ✅
-date: 1730807062
+description: W:24 L:2 D:0 Bonus ✅
+date: 1731404145
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1426 🔺  (35)|
-| ELO Competitive | 1455 🔺  (73)|
-| Total Matches | 25 |
-| Wins | 23 |
+| ELO Regular | 1431 🔺  (33)|
+| ELO Competitive | 1462 🔺  (71)|
+| Total Matches | 26 |
+| Wins | 24 |
 | Losses | 2 |
 | Draws | 0 |
-| Streak | 12 |
-| Streak Record | 12 |
+| Streak | 13 |
+| Streak Record | 13 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730375062,1729769855,1729147807,1728550304,1727951659,1727343739,1726746974,1726125316,1725588931,1725013905,1724535085,1723709860,1723117553,1722502411,1721899865,1721327696,1720694148,1720028479,1719471631,1718877216,1718263116,1717597968,1716973746,1716448181,1715834370];
+        let timestamps = [1730972145,1730375062,1729769855,1729147807,1728550304,1727951659,1727343739,1726746974,1726125316,1725588931,1725013905,1724535085,1723709860,1723117553,1722502411,1721899865,1721327696,1720694148,1720028479,1719471631,1718877216,1718263116,1717597968,1716973746,1716448181,1715834370];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/12 | 21-9 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 | ✅ | 2024/11/05 | 21-2 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ✅ | 2024/10/29 | 19-11 | [The Syndicate ](https://ws.tsl.rocks/corp/a7da1f6bd313248b8b6e68a1826bffb463c0e4977776708b28d97199f878b88c/) |
 | ✅ | 2024/10/22 | 5-4 | [AAAA](https://ws.tsl.rocks/corp/73b759d7c9218f2c1171f9ef691739331ca36ee045039f4f3f935a47b6622a27/) |
