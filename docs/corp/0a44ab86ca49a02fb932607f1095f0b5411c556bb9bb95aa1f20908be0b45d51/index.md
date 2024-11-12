@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​WHITE NOVA
-description: W:2 L:4 D:0 Bonus ❌
-date: 1729975598
+description: W:2 L:5 D:0 Bonus ❌
+date: 1731379810
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1167 🔻  (963)|
-| ELO Competitive | 1169 🔻  (1070)|
-| Total Matches | 6 |
+| ELO Regular | 1154 🔻  (1056)|
+| ELO Competitive | 1156 🔻  (1157)|
+| Total Matches | 7 |
 | Wins | 2 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729543598,1728670826,1728130753,1725727838,1724983135,1724128193];
+        let timestamps = [1730947810,1729543598,1728670826,1728130753,1725727838,1724983135,1724128193];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/12 | 0-7 | [Planet Express](https://ws.tsl.rocks/corp/6076486f3dce07118a180607ff9893eb5686dc57f65f7ed66d5e473007bd838c/) |
 | ❌ | 2024/10/26 | 0-9 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb/) |
 | ❌ | 2024/10/16 | 3-17 | [ITALIA](https://ws.tsl.rocks/corp/50983e789fe433b3974f5e28fe71a160d7d15afecfc7f2b89595a1a52391fda2/) |
 | ✅ | 2024/10/10 | 5-0 | [₩\.BRASIL\.₩](https://ws.tsl.rocks/corp/ff7f01b2f1db7b9c75e49da4c7367325905c020eba282a97f69f33d8c19419aa/) |

@@ -1,19 +1,21 @@
 ---
 layout: page
 title: ​Planet Express
-description: W:1 L:0 D:0 Bonus ✅
-date: 1730843731
+description: W:2 L:0 D:0 Bonus ✅
+date: 1731379810
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1207 🔺  (448)|
-| ELO Competitive | 1208 🔺  (559)|
-| Total Matches | 1 |
-| Wins | 1 |
+| ELO Regular | 1221 🔺  (348)|
+| ELO Competitive | 1222 🔺  (459)|
+| Total Matches | 2 |
+| Wins | 2 |
 | Losses | 0 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 
 
 # Whitestar Match Day
@@ -30,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730411731];
+        let timestamps = [1730947810,1730411731];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/12 | 7-0 | [WHITE NOVA](https://ws.tsl.rocks/corp/0a44ab86ca49a02fb932607f1095f0b5411c556bb9bb95aa1f20908be0b45d51/) |
 | ✅ | 2024/11/05 | 3-0 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) |
 
 Corporation ID: 6076486f3dce07118a180607ff9893eb5686dc57f65f7ed66d5e473007bd838c
