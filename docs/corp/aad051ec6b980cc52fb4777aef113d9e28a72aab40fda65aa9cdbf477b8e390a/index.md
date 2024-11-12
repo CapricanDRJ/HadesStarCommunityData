@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​West Worlders
-description: W:6 L:22 D:0 Bonus ❌
-date: 1730764099
+description: W:6 L:23 D:0 Bonus ❌
+date: 1731408051
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1035 🔻  (1281)|
-| ELO Competitive | 1080 🔻  (1286)|
-| Total Matches | 28 |
+| ELO Regular | 1021 🔻  (1287)|
+| ELO Competitive | 1068 🔻  (1296)|
+| Total Matches | 29 |
 | Wins | 6 |
-| Losses | 22 |
+| Losses | 23 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730332099,1729699847,1728881241,1728331533,1727712761,1727257797,1726632675,1725906569,1725451305,1724944971,1724383019,1723930750,1723432791,1722920425,1722440208,1721978298,1721458711,1720937900,1720306473,1719377875,1718684596,1717739522,1715793511,1705826190,1704668023,1701507428,1699487944,1698948546];
+        let timestamps = [1730976051,1730332099,1729699847,1728881241,1728331533,1727712761,1727257797,1726632675,1725906569,1725451305,1724944971,1724383019,1723930750,1723432791,1722920425,1722440208,1721978298,1721458711,1720937900,1720306473,1719377875,1718684596,1717739522,1715793511,1705826190,1704668023,1701507428,1699487944,1698948546];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) | 0 | 2 | 0 | 2 |
 | [Nine's Own Goal](https://ws.tsl.rocks/corp/fd47245550708347721e341d893b73e7c23e0f3624053c47ce666e55641c9e9e/) | 0 | 3 | 0 | 3 |
 | [Rising star](https://ws.tsl.rocks/corp/b7037efd74e829aa4ac6e49960fa44cebe1477e23d25cf1640594d9168d630db/) | 0 | 2 | 0 | 2 |
 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) | 2 | 0 | 0 | 2 |
@@ -125,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/12 | 5-19 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) |
 | ❌ | 2024/11/04 | 15-18 | [Nine's Own Goal](https://ws.tsl.rocks/corp/fd47245550708347721e341d893b73e7c23e0f3624053c47ce666e55641c9e9e/) |
 | ❌ | 2024/10/28 | 15-41 | [Tacitus](https://ws.tsl.rocks/corp/257625cedb6403e6979963e22a6ab809b81b08f41e868fa3498440abaf1780e0/) |
 | ❌ | 2024/10/19 | 17-21 | [Rising star](https://ws.tsl.rocks/corp/b7037efd74e829aa4ac6e49960fa44cebe1477e23d25cf1640594d9168d630db/) |
