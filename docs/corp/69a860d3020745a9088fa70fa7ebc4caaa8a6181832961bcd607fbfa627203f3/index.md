@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​对，进就进人少的（分团）
-description: W:11 L:9 D:1 Bonus ✅
+description: W:11 L:9 D:1 Bonus ❌
 date: 1730805560
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1231 🔺  (308)|
+| ELO Regular | 1231 🔺  (309)|
 | ELO Competitive | 1264 🔺  (327)|
 | Total Matches | 21 |
 | Wins | 11 |

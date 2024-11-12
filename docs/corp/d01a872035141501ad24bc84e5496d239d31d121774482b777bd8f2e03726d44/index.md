@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Crimson Dawn
-description: W:11 L:15 D:0 Bonus ❌
-date: 1730175114
+description: W:11 L:16 D:0 Bonus ❌
+date: 1731427287
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1137 🔻  (1132)|
-| ELO Competitive | 1183 🔻  (928)|
-| Total Matches | 26 |
+| ELO Regular | 1126 🔻  (1162)|
+| ELO Competitive | 1175 🔻  (986)|
+| Total Matches | 27 |
 | Wins | 11 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 0 |
 | Streak Record | 3 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729743114,1728644072,1727954063,1727394830,1726146277,1724859328,1723769964,1723129576,1721916693,1720749455,1720047116,1719494469,1718892844,1718290462,1717675505,1715863511,1715351238,1714667910,1714061570,1712951968,1712369046,1711027407,1705598098,1704424600,1702556936,1700183824];
+        let timestamps = [1730995287,1729743114,1728644072,1727954063,1727394830,1726146277,1724859328,1723769964,1723129576,1721916693,1720749455,1720047116,1719494469,1718892844,1718290462,1717675505,1715863511,1715351238,1714667910,1714061570,1712951968,1712369046,1711027407,1705598098,1704424600,1702556936,1700183824];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/12 | 15-30 | [Red\_Coat\_Mafia](https://ws.tsl.rocks/corp/f5825bb96dc9d061496fcea5926a16ba159a26ccd5518f8e63583c52fb68dd29/) |
 | ❌ | 2024/10/29 | 3-36 | [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) |
 | ❌ | 2024/10/16 | 0-38 | [Red Dawn](https://ws.tsl.rocks/corp/fee852a2530bc5e3cbe5b2a5fdb224d249eeceeb3688cfd71479344181831328/) |
 | ❌ | 2024/10/08 | 9-30 | [Созидание 2\.0](https://ws.tsl.rocks/corp/ae8b8d247dbd93bebc2b77d48c1db6783a17ff8b16438f010c804b7ccf05b76a/) |
