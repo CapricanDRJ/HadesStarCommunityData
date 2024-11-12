@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Snack Empire
-description: W:0 L:2 D:0 Bonus ❌
-date: 1731344953
+description: W:0 L:3 D:0 Bonus ❌
+date: 1731372035
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (887)|
-| ELO Competitive | 1172 🔻  (1021)|
-| Total Matches | 2 |
+| ELO Regular | 1161 🔻  (1012)|
+| ELO Competitive | 1176 🔻  (973)|
+| Total Matches | 3 |
 | Wins | 0 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730912953,1700022968];
+        let timestamps = [1730940035,1730912953,1700022968];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/12 | 0-15 | [荣耀之星](https://ws.tsl.rocks/corp/4334fd4d4ffbc89487deaec7bb38025aba46209b810578436882be271fdbff23/) |
 | ❌ | 2024/11/11 | 2-14 | [Corp\. Luminá](https://ws.tsl.rocks/corp/a90638cb4761b5ed889376762f6612c65407072ac9befa4530989c338be72862/) |
 | ❌ | 2023/11/20 | 0-4 | [Ul'Adri](https://ws.tsl.rocks/corp/d44796a95a2cc6f93a92af4d701a9c6325eff22633f874f43945a1b1d77b5fe7/) |
 
