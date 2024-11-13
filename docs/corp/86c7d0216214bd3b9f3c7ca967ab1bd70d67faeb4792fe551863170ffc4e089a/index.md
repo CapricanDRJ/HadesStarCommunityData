@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​  边界  
-description: W:26 L:9 D:3 Bonus ❌
-date: 1730678911
+description: W:27 L:10 D:3 Bonus ✅
+date: 1731489485
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1335 🔺  (100)|
-| ELO Competitive | 1414 🔺  (112)|
-| Total Matches | 38 |
-| Wins | 26 |
-| Losses | 9 |
+| ELO Regular | 1324 🔻  (116)|
+| ELO Competitive | 1420 🔺  (106)|
+| Total Matches | 40 |
+| Wins | 27 |
+| Losses | 10 |
 | Draws | 3 |
-| Streak | 5 |
 | Streak Record | 6 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730246911,1730197172,1729774663,1729749424,1729258823,1729246709,1728737549,1728733638,1728265119,1728149122,1727689314,1727688413,1727245453,1727239771,1726662014,1726656408,1726135831,1726118619,1725520417,1725509583,1725076595,1725061572,1724581959,1724575347,1724132399,1724127291,1723693933,1723255188,1722818853,1722361478,1721642326,1721291333,1721203587,1720769290,1720232839,1719564786,1719130853,1717906095];
+        let timestamps = [1731057485,1731055682,1730246911,1730197172,1729774663,1729749424,1729258823,1729246709,1728737549,1728733638,1728265119,1728149122,1727689314,1727688413,1727245453,1727239771,1726662014,1726656408,1726135831,1726118619,1725520417,1725509583,1725076595,1725061572,1724581959,1724575347,1724132399,1724127291,1723693933,1723255188,1722818853,1722361478,1721642326,1721291333,1721203587,1720769290,1720232839,1719564786,1719130853,1717906095];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +118,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/13 | 2-10 | [AAAA](https://ws.tsl.rocks/corp/73b759d7c9218f2c1171f9ef691739331ca36ee045039f4f3f935a47b6622a27/) |
+| ✅ | 2024/11/13 | 5-3 | [FoxTale](https://ws.tsl.rocks/corp/5c64a00667d690f695d9dd90c073b5113f126e33cbdaa03a3c3e62ceca843b2c/) |
 | ✅ | 2024/11/04 | 16-0 | [tropa \(BR\)](https://ws.tsl.rocks/corp/c5b272089230f78a35d3bee9ed1eb0cc2b3a65703f2452b603286e889efa74c9/) |
 | ✅ | 2024/11/03 | 12-11 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ✅ | 2024/10/29 | 8-0 | [拆迁大队](https://ws.tsl.rocks/corp/d8de6fa1ed53aeb856209de01d8a990a562d7438e0abe2cfe50776bb11345f17/) |

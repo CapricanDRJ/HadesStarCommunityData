@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​United Stars 
-description: W:27 L:21 D:3 Bonus ✅
+description: W:27 L:21 D:3 Bonus ❌
 date: 1730858451
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
