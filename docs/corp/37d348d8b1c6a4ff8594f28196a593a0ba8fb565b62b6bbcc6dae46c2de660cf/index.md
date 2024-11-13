@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​物竞天择，适者生存
-description: W:2 L:5 D:0 Bonus ❌
-date: 1731029436
+description: W:3 L:5 D:0 Bonus ✅
+date: 1731470256
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1164 🔻  (992)|
-| ELO Competitive | 1173 🔻  (1017)|
-| Total Matches | 7 |
-| Wins | 2 |
+| ELO Regular | 1179 🔺  (818)|
+| ELO Competitive | 1188 🔺  (741)|
+| Total Matches | 8 |
+| Wins | 3 |
 | Losses | 5 |
 | Draws | 0 |
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730597436,1730121750,1729612335,1728289121,1727782173,1726146048,1724518255];
+        let timestamps = [1731038256,1730597436,1730121750,1729612335,1728289121,1727782173,1726146048,1724518255];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/13 | 18-0 | [Alpha to Omega](https://ws.tsl.rocks/corp/2b3694014264240c8c0d1bb6a20e9d120dff2b6680c98b4e06e34bfd489f9da6/) |
 | ❌ | 2024/11/08 | 2-4 | [Dark Halo](https://ws.tsl.rocks/corp/f6ed7c780faf133d3fe411b9ed88480608a56064328539891d1b4348242954f6/) |
 | ✅ | 2024/11/02 | 11-0 | [华夏联盟](https://ws.tsl.rocks/corp/2c648f8c6a0963f1a86b1a1ca787f67c02ee58838a809427b68d3546b89078ac/) |
 | ❌ | 2024/10/27 | 2-21 | [AAAA](https://ws.tsl.rocks/corp/73b759d7c9218f2c1171f9ef691739331ca36ee045039f4f3f935a47b6622a27/) |

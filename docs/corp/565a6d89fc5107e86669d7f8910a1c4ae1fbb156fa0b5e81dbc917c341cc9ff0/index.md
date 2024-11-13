@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​落雨观花
-description: W:15 L:11 D:1 Bonus ❌
-date: 1730277877
+description: W:15 L:12 D:1 Bonus ❌
+date: 1731474463
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1233 🔺  (305)|
-| ELO Competitive | 1335 🔺  (201)|
-| Total Matches | 27 |
+| ELO Regular | 1217 🔻  (372)|
+| ELO Competitive | 1315 🔻  (221)|
+| Total Matches | 28 |
 | Wins | 15 |
-| Losses | 11 |
+| Losses | 12 |
 | Draws | 1 |
-| Streak | 3 |
 | Streak Record | 5 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729845877,1729240092,1727704042,1727697429,1726413813,1726411408,1725866596,1725859385,1724968075,1724928440,1724407362,1724388427,1723973420,1723899787,1723302371,1723301169,1722818121,1722774372,1722340138,1722223846,1721894457,1721786877,1721449095,1721325292,1720851041,1720261689,1719666657];
+        let timestamps = [1731042463,1729845877,1729240092,1727704042,1727697429,1726413813,1726411408,1725866596,1725859385,1724968075,1724928440,1724407362,1724388427,1723973420,1723899787,1723302371,1723301169,1722818121,1722774372,1722340138,1722223846,1721894457,1721786877,1721449095,1721325292,1720851041,1720261689,1719666657];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/13 | 1-9 | [EarthFederation](https://ws.tsl.rocks/corp/e1d58bc0b534389adeb45301641e32cdda2af0a1748a0d2ddb52e794db2c6d5b/) |
 | ✅ | 2024/10/30 | 19-3 | [脉冲星际集团](https://ws.tsl.rocks/corp/a4c08cf63563563e9bfa1d35edb256e9bb8bcdca15103d646d2ff8ed9d17f480/) |
 | ✅ | 2024/10/23 | 6-2 | [对，进就进人少的（分团）](https://ws.tsl.rocks/corp/69a860d3020745a9088fa70fa7ebc4caaa8a6181832961bcd607fbfa627203f3/) |
 | ✅ | 2024/10/05 | 4-0 | [华夏联盟](https://ws.tsl.rocks/corp/2c648f8c6a0963f1a86b1a1ca787f67c02ee58838a809427b68d3546b89078ac/) |

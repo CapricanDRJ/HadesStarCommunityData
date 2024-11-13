@@ -1,19 +1,21 @@
 ---
 layout: page
 title: ​EarthFederation
-description: W:3 L:2 D:0 Bonus ❌
-date: 1730600932
+description: W:4 L:2 D:0 Bonus ✅
+date: 1731474463
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1207 🔺  (447)|
-| ELO Competitive | 1212 🔺  (542)|
-| Total Matches | 5 |
-| Wins | 3 |
+| ELO Regular | 1223 🔺  (342)|
+| ELO Competitive | 1232 🔺  (423)|
+| Total Matches | 6 |
+| Wins | 4 |
 | Losses | 2 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 
 
 # Whitestar Match Day
@@ -30,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730168932,1729345554,1728901073,1724439819,1723408155];
+        let timestamps = [1731042463,1730168932,1729345554,1728901073,1724439819,1723408155];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/13 | 9-1 | [落雨观花](https://ws.tsl.rocks/corp/565a6d89fc5107e86669d7f8910a1c4ae1fbb156fa0b5e81dbc917c341cc9ff0/) |
 | ✅ | 2024/11/03 | 10-3 | [₩\.BRASIL\.₩](https://ws.tsl.rocks/corp/ff7f01b2f1db7b9c75e49da4c7367325905c020eba282a97f69f33d8c19419aa/) |
 | ❌ | 2024/10/24 | 4-6 | [揽月宫](https://ws.tsl.rocks/corp/16a4fe26591408a3f2128646e96c5ec1f82feb35f1f9743aebd2dae05095d2ed/) |
 | ✅ | 2024/10/19 | 2-0 | [斯比纳兰](https://ws.tsl.rocks/corp/ce756ff97542e6fa8d518319e6575aae1d01eb23dd906fee3e3cbb98b442b68f/) |

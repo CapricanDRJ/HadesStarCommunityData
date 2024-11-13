@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Game of Stars
-description: W:11 L:22 D:0 Bonus ✅
+description: W:11 L:22 D:0 Bonus ❌
 date: 1730840425
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
