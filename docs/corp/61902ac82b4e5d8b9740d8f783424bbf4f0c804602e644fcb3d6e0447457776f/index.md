@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​ZORG IND
-description: W:19 L:8 D:1 Bonus ❌
-date: 1731419172
+description: W:20 L:8 D:1 Bonus ✅
+date: 1731462746
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1291 🔻  (152)|
-| ELO Competitive | 1372 🔻  (152)|
-| Total Matches | 28 |
-| Wins | 19 |
+| ELO Regular | 1302 🔺  (138)|
+| ELO Competitive | 1393 🔺  (131)|
+| Total Matches | 29 |
+| Wins | 20 |
 | Losses | 8 |
 | Draws | 1 |
 | Streak Record | 7 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730987172,1730589926,1730555063,1730106123,1730096508,1729654773,1729654472,1729221438,1728785353,1728749279,1728349860,1728306585,1727878936,1727870219,1727428478,1726988869,1726396977,1725792672,1725172154,1724562424,1723962299,1723212815,1722769864,1722145400,1721543454,1720390976,1720357556,1719395902];
+        let timestamps = [1731030746,1730987172,1730589926,1730555063,1730106123,1730096508,1729654773,1729654472,1729221438,1728785353,1728749279,1728349860,1728306585,1727878936,1727870219,1727428478,1726988869,1726396977,1725792672,1725172154,1724562424,1723962299,1723212815,1722769864,1722145400,1721543454,1720390976,1720357556,1719395902];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/13 | 3-0 | [S\.U\.N](https://ws.tsl.rocks/corp/916e7c076587bd3c3d88cd287f6003d619035871ba0f4291f341da901f0ef3f2/) |
 | ❌ | 2024/11/12 | 8-17 | [RGW](https://ws.tsl.rocks/corp/48a0b2c0f203025d10d1217dbcc5e27f3e31f56f2c407d61219c24ec88446be7/) |
 | ❌ | 2024/11/07 | 0-18 | [AAAA](https://ws.tsl.rocks/corp/73b759d7c9218f2c1171f9ef691739331ca36ee045039f4f3f935a47b6622a27/) |
 | ❌ | 2024/11/07 | 6-17 | [绛紫星](https://ws.tsl.rocks/corp/8c2109279ceb01bcca0aa5e85c151d5877831ac54199285743750e2ed343b407/) |
