@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​情谊永存
-description: W:2 L:7 D:1 Bonus ❌
-date: 1730973539
+description: W:2 L:8 D:1 Bonus ❌
+date: 1731517434
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1128 🔻  (1157)|
-| ELO Competitive | 1153 🔻  (1169)|
-| Total Matches | 10 |
+| ELO Regular | 1114 🔻  (1200)|
+| ELO Competitive | 1139 🔻  (1219)|
+| Total Matches | 11 |
 | Wins | 2 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 1 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730541539,1729432423,1728825934,1728034121,1728030470,1727538855,1726581499,1726087764,1725628293,1721104413];
+        let timestamps = [1731085434,1730541539,1729432423,1728825934,1728034121,1728030470,1727538855,1726581499,1726087764,1725628293,1721104413];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -122,6 +122,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/13 | 1-7 | [银河护卫队](https://ws.tsl.rocks/corp/e522df7ad34eabee08393efb864d53bdc897d0ad187170616d6ef924df5c7267/) |
 | ❌ | 2024/11/07 | 2-6 | [绛紫星云](https://ws.tsl.rocks/corp/5a3a9602bef85f5409788b6ae18f372599736e4be470dee01f373a17865f07d9/) |
 | ↔️ | 2024/10/25 | 0-0 | [共产国际](https://ws.tsl.rocks/corp/375b1efc576c9d15f93249680dcd6dccaf2ad07cd520b85242d0b704d3a494c6/) |
 | ❌ | 2024/10/18 | 0-9 | [逐光起航](https://ws.tsl.rocks/corp/e6bb076aa209101b5fa1cbc40a614c241d71ab5eca143c733b81aed6302455e8/) |

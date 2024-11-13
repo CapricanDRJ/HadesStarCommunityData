@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​Алый Феникс
-description: W:5 L:9 D:0 Bonus ❌
-date: 1724621200
+description: W:6 L:9 D:0 Bonus ✅
+date: 1731515631
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1151 🔺  (1076)|
-| ELO Competitive | 1161 🔺  (1133)|
-| Total Matches | 14 |
-| Wins | 5 |
+| ELO Regular | 1166 🔺  (964)|
+| ELO Competitive | 1178 🔺  (962)|
+| Total Matches | 15 |
+| Wins | 6 |
 | Losses | 9 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 2 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1724189200,1712478118,1710134425,1709480897,1708963461,1707317141,1706677553,1706068760,1704252520,1702210105,1701373091,1700768386,1699914777,1699053742];
+        let timestamps = [1731083631,1724189200,1712478118,1710134425,1709480897,1708963461,1707317141,1706677553,1706068760,1704252520,1702210105,1701373091,1700768386,1699914777,1699053742];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/13 | 4-0 | [Eretria ](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |
 | ✅ | 2024/08/25 | 19-5 | [Вселенские 40%](https://ws.tsl.rocks/corp/963d73346ebb929607f54404f481ac2273b4f483915b93144d0757b066a1fd99/) |
 | ❌ | 2024/04/12 | 0-12 | [Oficina Tuga](https://ws.tsl.rocks/corp/2fff67029125a29f7fa3252e0f8387f3ae93c6c59bd05d358723e02f3199db72/) |
 | ❌ | 2024/03/16 | 2-25 | [Sternenflotte](https://ws.tsl.rocks/corp/6273be8c33cae6938fe5608aa5cf5a78e740f71dd888477b437e47ec106c0a0d/) |
