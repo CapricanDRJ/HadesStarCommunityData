@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​nova corp
-description: W:0 L:0 D:1 Bonus ❌
-date: 1730638489
+description: W:0 L:1 D:1 Bonus ❌
+date: 1731507515
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1197 🔻  (515)|
-| ELO Competitive | 1201 🔺  (598)|
-| Total Matches | 1 |
+| ELO Regular | 1187 🔻  (627)|
+| ELO Competitive | 1191 🔻  (697)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 1 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730206489];
+        let timestamps = [1731075515,1730206489];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/13 | 0-7 | [太阳系集团](https://ws.tsl.rocks/corp/50f5e0a888ce2f21c0980be0cbb1e444e1d7eeb9dcb2095c3e428bd5bde7a9f6/) |
 | ↔️ | 2024/11/03 | 0-0 | [Empire of Light](https://ws.tsl.rocks/corp/5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc/) |
 
 Corporation ID: 21e7d4237b3ea80988ea245d9686fc65c308f92202e0f580704fed673f372695

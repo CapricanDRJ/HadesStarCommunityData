@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​viCIOus
-description: W:10 L:2 D:0 Bonus ✅
+description: W:10 L:2 D:0 Bonus ❌
 date: 1730882484
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
