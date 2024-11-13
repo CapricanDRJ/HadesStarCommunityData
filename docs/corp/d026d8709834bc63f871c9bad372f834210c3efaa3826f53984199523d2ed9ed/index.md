@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​万星联盟
-description: W:26 L:4 D:0 Bonus ✅
-date: 1731423379
+description: W:27 L:4 D:0 Bonus ✅
+date: 1731452634
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1384 🔺  (62)|
+| ELO Regular | 1389 🔺  (60)|
 | ELO Competitive | 1454 🔺  (76)|
-| Total Matches | 30 |
-| Wins | 26 |
+| Total Matches | 31 |
+| Wins | 27 |
 | Losses | 4 |
 | Draws | 0 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 10 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730991379,1730517201,1730508789,1730014767,1729839567,1729407159,1727789085,1727489487,1726882793,1726358212,1725792973,1725172154,1724682335,1724231864,1723789194,1723278627,1722843792,1722779182,1722357271,1721896560,1720956835,1719478542,1719126913,1718888936,1717458342,1716989374,1716542814,1715944631,1715479536,1714143292];
+        let timestamps = [1731020634,1730991379,1730517201,1730508789,1730014767,1729839567,1729407159,1727789085,1727489487,1726882793,1726358212,1725792973,1725172154,1724682335,1724231864,1723789194,1723278627,1722843792,1722779182,1722357271,1721896560,1720956835,1719478542,1719126913,1718888936,1717458342,1716989374,1716542814,1715944631,1715479536,1714143292];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/12 | 15-0 | [超新星联盟](https://ws.tsl.rocks/corp/c3667794c88fd0a09f565dc3b4fed5325f131a616d01d0f6890755b44997d0a1/) |
 | ✅ | 2024/11/12 | 14-0 | [揽月宫](https://ws.tsl.rocks/corp/16a4fe26591408a3f2128646e96c5ec1f82feb35f1f9743aebd2dae05095d2ed/) |
 | ✅ | 2024/11/07 | 10-3 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) |
 | ✅ | 2024/11/07 | 18-2 | [普罗米修斯](https://ws.tsl.rocks/corp/f39d00b1bbbf87c158931fd887f37a588019d0b1fd4f2441fbc675674b71423a/) |
