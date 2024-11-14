@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​绛紫星
-description: W:31 L:26 D:2 Bonus ✅
+description: W:31 L:26 D:2 Bonus ❌
 date: 1730987063
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1231 🔺  (307)|
+| ELO Regular | 1231 🔺  (306)|
 | ELO Competitive | 1398 🔺  (126)|
 | Total Matches | 59 |
 | Wins | 31 |

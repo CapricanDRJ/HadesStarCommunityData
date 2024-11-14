@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Created
-description: W:14 L:25 D:1 Bonus ❌
-date: 1730923359
+description: W:14 L:26 D:1 Bonus ❌
+date: 1731617216
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1196 🔺  (526)|
-| ELO Competitive | 1248 🔺  (377)|
-| Total Matches | 40 |
+| ELO Regular | 1180 🔻  (817)|
+| ELO Competitive | 1231 🔻  (425)|
+| Total Matches | 41 |
 | Wins | 14 |
-| Losses | 25 |
+| Losses | 26 |
 | Draws | 1 |
-| Streak | 5 |
 | Streak Record | 5 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730491359,1729346757,1728692464,1728159340,1727455530,1726597222,1726064019,1725303478,1724633653,1723992659,1723480576,1722718481,1722182373,1721098102,1720585655,1719918178,1719273605,1718488964,1717772584,1717019732,1715620754,1715614444,1714778584,1713922160,1713110627,1712329082,1711643680,1710429776,1709492017,1708558103,1707498994,1706392063,1705290382,1704538788,1703046112,1702217018,1701444015,1700925874,1700362649,1699849852];
+        let timestamps = [1731185216,1730491359,1729346757,1728692464,1728159340,1727455530,1726597222,1726064019,1725303478,1724633653,1723992659,1723480576,1722718481,1722182373,1721098102,1720585655,1719918178,1719273605,1718488964,1717772584,1717019732,1715620754,1715614444,1714778584,1713922160,1713110627,1712329082,1711643680,1710429776,1709492017,1708558103,1707498994,1706392063,1705290382,1704538788,1703046112,1702217018,1701444015,1700925874,1700362649,1699849852];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/14 | 2-10 | [FURIA 2\.0](https://ws.tsl.rocks/corp/9c52bc79384398f4052be65dc0f7ee091ac2d3cf14488efd1f4e3310b1f12574/) |
 | ✅ | 2024/11/06 | 12-6 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ✅ | 2024/10/24 | 13-11 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ✅ | 2024/10/17 | 24-3 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
