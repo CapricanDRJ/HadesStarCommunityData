@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​AlSounT
-description: W:10 L:8 D:0 Bonus ✅
+description: W:10 L:8 D:0 Bonus ❌
 date: 1731395732
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
