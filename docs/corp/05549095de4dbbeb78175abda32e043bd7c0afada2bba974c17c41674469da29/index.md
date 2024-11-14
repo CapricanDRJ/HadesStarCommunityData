@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​AntiCerberus
-description: W:4 L:4 D:1 Bonus ✅
+description: W:4 L:4 D:1 Bonus ❌
 date: 1730956412
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
