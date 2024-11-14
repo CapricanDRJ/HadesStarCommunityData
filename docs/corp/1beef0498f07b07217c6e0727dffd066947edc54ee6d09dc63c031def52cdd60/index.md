@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​ 墨痕 
-description: W:11 L:12 D:0 Bonus ❌
-date: 1730905997
+description: W:11 L:13 D:0 Bonus ❌
+date: 1731570623
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1193 🔻  (548)|
-| ELO Competitive | 1243 🔻  (393)|
-| Total Matches | 23 |
+| ELO Regular | 1177 🔻  (833)|
+| ELO Competitive | 1225 🔻  (446)|
+| Total Matches | 24 |
 | Wins | 11 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 0 |
 | Streak Record | 5 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730473997,1729929121,1726572482,1724376710,1724210831,1719577106,1705579464,1703515231,1703506816,1703073457,1703066244,1702568659,1702555133,1702099501,1702097396,1701593081,1701494206,1701093884,1700573027,1699963157,1699689930,1699529103,1698843669];
+        let timestamps = [1731138623,1730473997,1729929121,1726572482,1724376710,1724210831,1719577106,1705579464,1703515231,1703506816,1703073457,1703066244,1702568659,1702555133,1702099501,1702097396,1701593081,1701494206,1701093884,1700573027,1699963157,1699689930,1699529103,1698843669];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/14 | 0-24 | [云深不知处](https://ws.tsl.rocks/corp/640f652e13ee5dfca289fcf00ddb7ac25abf9ff9c565bda6561c55ff62cae685/) |
 | ❌ | 2024/11/06 | 0-32 | [P\!RAT£ SHIP](https://ws.tsl.rocks/corp/edee949826201f74f57f45c101789757954710e3d075602dfdda7765a69a7e7c/) |
 | ✅ | 2024/10/31 | 3-0 | [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046/) |
 | ✅ | 2024/09/22 | 14-7 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) |

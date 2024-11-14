@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​SILVER TERRA
-description: W:17 L:16 D:0 Bonus ✅
+description: W:17 L:16 D:0 Bonus ❌
 date: 1731528253
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1247 🔻  (253)|
+| ELO Regular | 1247 🔻  (254)|
 | ELO Competitive | 1302 🔻  (245)|
 | Total Matches | 33 |
 | Wins | 17 |

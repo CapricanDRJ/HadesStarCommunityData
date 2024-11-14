@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​星际集团
-description: W:22 L:15 D:4 Bonus ✅
-date: 1731156843
+description: W:23 L:15 D:4 Bonus ✅
+date: 1731574831
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1244 🔻  (261)|
-| ELO Competitive | 1376 🔺  (150)|
-| Total Matches | 41 |
-| Wins | 22 |
+| ELO Regular | 1256 🔺  (228)|
+| ELO Competitive | 1383 🔺  (142)|
+| Total Matches | 42 |
+| Wins | 23 |
 | Losses | 15 |
 | Draws | 4 |
 | Streak Record | 3 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730724843,1730706813,1730223322,1730208894,1729771658,1729748823,1729304383,1729246979,1728720411,1728706887,1728272930,1728220339,1727789085,1727778566,1727327215,1727324511,1726856351,1726806270,1726374634,1726332665,1725900558,1725716945,1725361461,1725284540,1724798029,1724336140,1723902192,1723462239,1722942961,1722474729,1722041705,1721524624,1721020556,1721014846,1720512325,1720512325,1720078067,1720005331,1719586724,1719152494,1718710135];
+        let timestamps = [1731142831,1730724843,1730706813,1730223322,1730208894,1729771658,1729748823,1729304383,1729246979,1728720411,1728706887,1728272930,1728220339,1727789085,1727778566,1727327215,1727324511,1726856351,1726806270,1726374634,1726332665,1725900558,1725716945,1725361461,1725284540,1724798029,1724336140,1723902192,1723462239,1722942961,1722474729,1722041705,1721524624,1721020556,1721014846,1720512325,1720512325,1720078067,1720005331,1719586724,1719152494,1718710135];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Bon Ariens](https://ws.tsl.rocks/corp/1d0aa6d0fbc5e35422544e47ebd18d2fe21749780594630982f96fa08a850574/) | 2 | 0 | 0 | 2 |
 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) | 0 | 2 | 0 | 2 |
 | [империя тьмы](https://ws.tsl.rocks/corp/4eb22a1b793e5d03579cea15c873b1bef56fea02420a4e55edb18a200f7fc46a/) | 2 | 0 | 0 | 2 |
 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) | 2 | 0 | 0 | 2 |
@@ -128,6 +129,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/14 | 11-0 | [Bon Ariens](https://ws.tsl.rocks/corp/1d0aa6d0fbc5e35422544e47ebd18d2fe21749780594630982f96fa08a850574/) |
 | ↔️ | 2024/11/09 | 0-0 | [一根飞机](https://ws.tsl.rocks/corp/459077a8d857a7bd7ee9caafa2c5ed27ac2416d2280965dd22d4293302cb9de0/) |
 | ✅ | 2024/11/09 | 4-3 | [Empire of Light](https://ws.tsl.rocks/corp/5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc/) |
 | ❌ | 2024/11/03 | 0-3 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​哈迪斯之星，启动！
-description: W:7 L:5 D:0 Bonus ✅
+description: W:7 L:5 D:0 Bonus ❌
 date: 1730938986
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
