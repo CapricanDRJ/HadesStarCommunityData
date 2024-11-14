@@ -1,19 +1,21 @@
 ---
 layout: page
 title: ​Equinox
-description: W:1 L:0 D:0 Bonus ✅
-date: 1731078117
+description: W:2 L:0 D:0 Bonus ✅
+date: 1731562809
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔺  (406)|
-| ELO Competitive | 1215 🔺  (506)|
-| Total Matches | 1 |
-| Wins | 1 |
+| ELO Regular | 1223 🔺  (343)|
+| ELO Competitive | 1226 🔺  (446)|
+| Total Matches | 2 |
+| Wins | 2 |
 | Losses | 0 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 
 
 # Whitestar Match Day
@@ -30,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730646117];
+        let timestamps = [1731130809,1730646117];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/14 | 18-0 | [逐光起航](https://ws.tsl.rocks/corp/e6bb076aa209101b5fa1cbc40a614c241d71ab5eca143c733b81aed6302455e8/) |
 | ✅ | 2024/11/08 | 5-4 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 
 Corporation ID: d6f4702c0a85549d019474868a68ecc1a6c546d73fa31f9336ee639a906ff0fe
