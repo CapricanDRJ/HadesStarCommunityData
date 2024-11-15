@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​VoidCorp
-description: W:30 L:26 D:1 Bonus ✅
+description: W:30 L:26 D:1 Bonus ❌
 date: 1731044759
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​RUFORS
-description: W:11 L:7 D:0 Bonus ✅
-date: 1731147226
+description: W:11 L:8 D:0 Bonus ✅
+date: 1731665898
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1251 🔺  (243)|
-| ELO Competitive | 1290 🔺  (266)|
-| Total Matches | 18 |
+| ELO Regular | 1239 🔻  (278)|
+| ELO Competitive | 1280 🔻  (290)|
+| Total Matches | 19 |
 | Wins | 11 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 3 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730715226,1730120246,1729426393,1728712896,1727876231,1726298695,1724276947,1723366677,1722176660,1721042795,1719493267,1712995534,1711104325,1706962435,1706100860,1702198382,1701465358,1700598879];
+        let timestamps = [1731233898,1730715226,1730120246,1729426393,1728712896,1727876231,1726298695,1724276947,1723366677,1722176660,1721042795,1719493267,1712995534,1711104325,1706962435,1706100860,1702198382,1701465358,1700598879];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/15 | 11-14 | [\*Alfa y Omega\*](https://ws.tsl.rocks/corp/b1da3a2265efd2266a8e4b5698a731ae179d00e431ee748d7bee62a1357a12ed/) |
 | ✅ | 2024/11/09 | 23-8 | [Empire of Light](https://ws.tsl.rocks/corp/5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc/) |
 | ✅ | 2024/11/02 | 11-10 | [云深不知处](https://ws.tsl.rocks/corp/640f652e13ee5dfca289fcf00ddb7ac25abf9ff9c565bda6561c55ff62cae685/) |
 | ❌ | 2024/10/25 | 6-10 | [星光万丈](https://ws.tsl.rocks/corp/92ad2a305a74e168b57771140461b4d226e1e8cac17b4f77027d5a67ead5fa1d/) |
