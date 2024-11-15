@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Alpaca Haven
-description: W:18 L:15 D:0 Bonus ❌
-date: 1731154138
+description: W:18 L:16 D:0 Bonus ❌
+date: 1731652373
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1218 🔻  (365)|
-| ELO Competitive | 1256 🔻  (352)|
-| Total Matches | 33 |
+| ELO Regular | 1207 🔻  (446)|
+| ELO Competitive | 1246 🔻  (380)|
+| Total Matches | 34 |
 | Wins | 18 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 0 |
 | Streak Record | 5 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730722138,1730181249,1728947667,1721737290,1720732028,1719938317,1718629297,1718136004,1717599772,1716775104,1716120399,1715610237,1715000615,1714040233,1711718204,1710262122,1709659076,1708972478,1708440607,1707884086,1707343948,1706772512,1706303710,1705855946,1705285875,1704820078,1704260218,1703542884,1702966872,1702405465,1701271508,1699759074,1698872304];
+        let timestamps = [1731220373,1730722138,1730181249,1728947667,1721737290,1720732028,1719938317,1718629297,1718136004,1717599772,1716775104,1716120399,1715610237,1715000615,1714040233,1711718204,1710262122,1709659076,1708972478,1708440607,1707884086,1707343948,1706772512,1706303710,1705855946,1705285875,1704820078,1704260218,1703542884,1702966872,1702405465,1701271508,1699759074,1698872304];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/15 | 0-44 | [the heavy](https://ws.tsl.rocks/corp/fc91552441e9553b76df7ca1870d63c6fd9e50f9c98a3d2bb9f6979b47bd845f/) |
 | ❌ | 2024/11/09 | 1-52 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) |
 | ❌ | 2024/11/03 | 0-43 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ❌ | 2024/10/19 | 3-42 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) |

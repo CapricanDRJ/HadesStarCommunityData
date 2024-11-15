@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​the heavy
-description: W:19 L:10 D:0 Bonus ❌
-date: 1730460292
+description: W:20 L:10 D:0 Bonus ✅
+date: 1731652373
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1323 🔺  (119)|
-| ELO Competitive | 1378 🔺  (146)|
-| Total Matches | 29 |
-| Wins | 19 |
+| ELO Regular | 1334 🔺  (105)|
+| ELO Competitive | 1388 🔺  (137)|
+| Total Matches | 30 |
+| Wins | 20 |
 | Losses | 10 |
 | Draws | 0 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 6 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730028292,1728849992,1727441400,1726984959,1726426743,1725830245,1725213931,1724579855,1723355256,1722201012,1719733669,1719190667,1717923226,1716730324,1715520399,1714331387,1713676996,1711927950,1711312574,1710707726,1710094765,1709493520,1708854984,1708265717,1705245905,1703435900,1702210706,1700385790,1699168823];
+        let timestamps = [1731220373,1730028292,1728849992,1727441400,1726984959,1726426743,1725830245,1725213931,1724579855,1723355256,1722201012,1719733669,1719190667,1717923226,1716730324,1715520399,1714331387,1713676996,1711927950,1711312574,1710707726,1710094765,1709493520,1708854984,1708265717,1705245905,1703435900,1702210706,1700385790,1699168823];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -130,6 +130,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/15 | 44-0 | [Alpaca Haven](https://ws.tsl.rocks/corp/e93a2f2efda24a65c8ee7eb57fbb269e19b2b1c28a67c6c7c3339b8c90f7726b/) |
 | ✅ | 2024/11/01 | 19-12 | [DTC](https://ws.tsl.rocks/corp/4be10b4fa74e6bc45ea50d720527bec8db0312f419a419f203b09350d663c755/) |
 | ✅ | 2024/10/18 | 45-21 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) |
 | ✅ | 2024/10/02 | 55-5 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) |

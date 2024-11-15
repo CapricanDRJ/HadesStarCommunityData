@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​阿尔特拉太空港
-description: W:15 L:10 D:1 Bonus ❌
-date: 1731414062
+description: W:16 L:10 D:1 Bonus ✅
+date: 1731646362
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1259 🔻  (219)|
-| ELO Competitive | 1307 🔻  (234)|
-| Total Matches | 26 |
-| Wins | 15 |
+| ELO Regular | 1271 🔺  (191)|
+| ELO Competitive | 1329 🔺  (207)|
+| Total Matches | 27 |
+| Wins | 16 |
 | Losses | 10 |
 | Draws | 1 |
 | Streak Record | 6 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730982062,1730379571,1730373560,1729721265,1729113556,1728574652,1727782134,1727778566,1727304984,1726742166,1726146649,1725721453,1725564295,1725085609,1724823179,1724336140,1724320812,1723630827,1723015985,1722509622,1722051622,1721616184,1721170235,1720710383,1720183555,1719644719];
+        let timestamps = [1731214362,1730982062,1730379571,1730373560,1729721265,1729113556,1728574652,1727782134,1727778566,1727304984,1726742166,1726146649,1725721453,1725564295,1725085609,1724823179,1724336140,1724320812,1723630827,1723015985,1722509622,1722051622,1721616184,1721170235,1720710383,1720183555,1719644719];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/15 | 5-0 | [自由free](https://ws.tsl.rocks/corp/f3c8f1a4ff4df82dcb8cacc2471573cc3b267e63353ad34bec874e00d5288fd0/) |
 | ❌ | 2024/11/12 | 0-39 | [Últimafronteira](https://ws.tsl.rocks/corp/27e96f432a078f197bb5e4c34480ccabc05a9ee48e7bb04d95288fda15e94d3c/) |
 | ✅ | 2024/11/05 | 2-0 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ❌ | 2024/11/05 | 0-11 | [对，进就进人少的（分团）](https://ws.tsl.rocks/corp/69a860d3020745a9088fa70fa7ebc4caaa8a6181832961bcd607fbfa627203f3/) |

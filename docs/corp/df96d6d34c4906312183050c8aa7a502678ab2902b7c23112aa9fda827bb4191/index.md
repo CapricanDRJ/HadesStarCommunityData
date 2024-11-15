@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Spica​
-description: W:38 L:7 D:1 Bonus ✅
+description: W:38 L:7 D:1 Bonus ❌
 date: 1731018320
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
