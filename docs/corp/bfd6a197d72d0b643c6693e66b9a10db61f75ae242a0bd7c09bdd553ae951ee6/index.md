@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​the Rubber Duck
-description: W:5 L:10 D:0 Bonus ❌
-date: 1713438652
+description: W:6 L:10 D:0 Bonus ✅
+date: 1731687844
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1129 🔻  (1157)|
-| ELO Competitive | 1144 🔻  (1206)|
-| Total Matches | 15 |
-| Wins | 5 |
+| ELO Regular | 1145 🔺  (1102)|
+| ELO Competitive | 1159 🔺  (1143)|
+| Total Matches | 16 |
+| Wins | 6 |
 | Losses | 10 |
 | Draws | 0 |
 | Streak Record | 3 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1713006652,1711711893,1709916273,1708090524,1706786335,1705927766,1704115668,1702917587,1702298467,1701694665,1701101099,1700487074,1699889225,1699298931,1698762520];
+        let timestamps = [1731255844,1713006652,1711711893,1709916273,1708090524,1706786335,1705927766,1704115668,1702917587,1702298467,1701694665,1701101099,1700487074,1699889225,1699298931,1698762520];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/15 | 3-0 | [舰队联邦\[FF\]](https://ws.tsl.rocks/corp/a416c5b53512093490461bf0dab583fbb401f5850470774f6de02dafe6ca3655/) |
 | ❌ | 2024/04/18 | 0-14 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
 | ❌ | 2024/04/03 | 1-28 | [BrazilCorp\.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) |
 | ❌ | 2024/03/13 | 0-24 | [CDG](https://ws.tsl.rocks/corp/0372d45acdd50729ec92e18f0e973f382362ae554f8d15778250b493e887cce2/) |
