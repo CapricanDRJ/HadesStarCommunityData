@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Dark Halo
-description: W:7 L:4 D:0 Bonus ✅
+description: W:7 L:4 D:0 Bonus ❌
 date: 1731029436
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
