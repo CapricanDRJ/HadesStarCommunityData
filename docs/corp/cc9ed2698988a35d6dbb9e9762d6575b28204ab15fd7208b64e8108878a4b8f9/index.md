@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​Interestelar
-description: W:14 L:2 D:0 Bonus ✅
+description: W:14 L:2 D:0 Bonus ❌
 date: 1731068197
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1361 🔺  (78)|
+| ELO Regular | 1361 🔺  (77)|
 | ELO Competitive | 1377 🔺  (148)|
 | Total Matches | 16 |
 | Wins | 14 |

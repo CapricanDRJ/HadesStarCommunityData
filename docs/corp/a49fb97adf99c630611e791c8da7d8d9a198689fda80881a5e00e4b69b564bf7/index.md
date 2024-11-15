@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Hinterm Mars
-description: W:34 L:36 D:0 Bonus ✅
+description: W:34 L:36 D:0 Bonus ❌
 date: 1731070000
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1252 🔺  (240)|
-| ELO Competitive | 1447 🔺  (83)|
+| ELO Competitive | 1447 🔺  (84)|
 | Total Matches | 70 |
 | Wins | 34 |
 | Losses | 36 |
