@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​🌪TORNADO 
-description: W:6 L:10 D:4 Bonus ❌
-date: 1730722024
+description: W:6 L:11 D:4 Bonus ❌
+date: 1731641284
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1161 🔻  (1010)|
-| ELO Competitive | 1188 🔻  (765)|
-| Total Matches | 20 |
+| ELO Regular | 1150 🔻  (1077)|
+| ELO Competitive | 1176 🔻  (979)|
+| Total Matches | 21 |
 | Wins | 6 |
-| Losses | 10 |
+| Losses | 11 |
 | Draws | 4 |
 | Streak Record | 3 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730290024,1729642155,1728938351,1716219851,1714422731,1713609693,1712203411,1711379934,1710750763,1709606496,1709001324,1708481777,1707618438,1706953720,1706438637,1703162715,1703161547,1701403443,1701349045,1700673409];
+        let timestamps = [1731209284,1730290024,1729642155,1728938351,1716219851,1714422731,1713609693,1712203411,1711379934,1710750763,1709606496,1709001324,1708481777,1707618438,1706953720,1706438637,1703162715,1703161547,1701403443,1701349045,1700673409];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/15 | 0-11 | [蓝星集团](https://ws.tsl.rocks/corp/9d718b80beaf9682ccde175169372b72f70b75bb593770762dfc9e990cbd098a/) |
 | ❌ | 2024/11/04 | 0-5 | [闲散人员](https://ws.tsl.rocks/corp/4f0fa774b66e4f744a305525f92e7252205ae754df0f3982b577b32caf32cdbc/) |
 | ❌ | 2024/10/28 | 0-26 | [Nox Imperium](https://ws.tsl.rocks/corp/b60fb003fae650d1de18e7bca4fad04f9805501f4568d07ceb47bffdfeb613c1/) |
 | ↔️ | 2024/10/19 | 3-3 | [AlyTec Sys\.](https://ws.tsl.rocks/corp/4f98eeb43077d5c00a32f9810352931d8778fb5b24d8b49c318953d489f07df0/) |
