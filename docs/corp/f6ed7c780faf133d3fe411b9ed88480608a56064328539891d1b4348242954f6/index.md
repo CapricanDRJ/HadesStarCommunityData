@@ -1,21 +1,20 @@
 ---
 layout: page
 title: ​Dark Halo
-description: W:7 L:4 D:0 Bonus ❌
-date: 1731029436
+description: W:8 L:5 D:0 Bonus ✅
+date: 1731677021
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1252 🔺  (239)|
-| ELO Competitive | 1259 🔺  (342)|
-| Total Matches | 11 |
-| Wins | 7 |
-| Losses | 4 |
+| ELO Regular | 1252 🔻  (239)|
+| ELO Competitive | 1273 🔺  (302)|
+| Total Matches | 13 |
+| Wins | 8 |
+| Losses | 5 |
 | Draws | 0 |
-| Streak | 6 |
-| Streak Record | 6 |
+| Streak Record | 7 |
 
 
 # Whitestar Match Day
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730597436,1729949858,1729304383,1728698473,1727968193,1726966932,1725972971,1725359058,1724848206,1724410963,1723976765];
+        let timestamps = [1731245021,1731244720,1730597436,1729949858,1729304383,1728698473,1727968193,1726966932,1725972971,1725359058,1724848206,1724410963,1723976765];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +118,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/15 | 1-14 | [ДИᏰEPℂДℍTᏰℓ](https://ws.tsl.rocks/corp/a1dad8a2a2c5ab935169d168bc19f8a1db7f12b099358e079cb7221a340345ed/) |
+| ✅ | 2024/11/15 | 7-3 | [Dirty Minds Inc](https://ws.tsl.rocks/corp/c8436a708008779e050bd40e98b52fc38b3782b31d5fdd99c74918af8005d778/) |
 | ✅ | 2024/11/08 | 4-2 | [物竞天择，适者生存](https://ws.tsl.rocks/corp/37d348d8b1c6a4ff8594f28196a593a0ba8fb565b62b6bbcc6dae46c2de660cf/) |
 | ✅ | 2024/10/31 | 14-0 | [雪月永恒](https://ws.tsl.rocks/corp/3b30781263716daadc217687009247bd0acb28c7eb4a8ebfe37daa11142622c2/) |
 | ✅ | 2024/10/24 | 6-0 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |

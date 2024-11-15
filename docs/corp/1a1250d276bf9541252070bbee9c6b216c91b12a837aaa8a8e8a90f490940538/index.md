@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Emergence
-description: W:36 L:3 D:0 Bonus ✅
-date: 1731069399
+description: W:37 L:3 D:0 Bonus ✅
+date: 1731679125
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1490 🔺  (13)|
-| ELO Competitive | 1546 🔺  (30)|
-| Total Matches | 39 |
-| Wins | 36 |
+| ELO Regular | 1497 🔺  (11)|
+| ELO Competitive | 1559 🔺  (23)|
+| Total Matches | 40 |
+| Wins | 37 |
 | Losses | 3 |
 | Draws | 0 |
-| Streak | 9 |
+| Streak | 10 |
 | Streak Record | 17 |
 
 
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730637399,1730034904,1729430902,1728906183,1728141306,1727534562,1726915846,1726314024,1725708227,1725189885,1724697964,1722179066,1721572909,1720978783,1720351845,1719837643,1719153095,1718625991,1717950281,1717329875,1715515290,1714906578,1714304036,1713698928,1713097101,1712504266,1711972115,1711284319,1710677069,1710074327,1709528673,1708934914,1708322512,1707713396,1707109686,1706505055,1702873107,1701759583,1701150088];
+        let timestamps = [1731247125,1730637399,1730034904,1729430902,1728906183,1728141306,1727534562,1726915846,1726314024,1725708227,1725189885,1724697964,1722179066,1721572909,1720978783,1720351845,1719837643,1719153095,1718625991,1717950281,1717329875,1715515290,1714906578,1714304036,1713698928,1713097101,1712504266,1711972115,1711284319,1710677069,1710074327,1709528673,1708934914,1708322512,1707713396,1707109686,1706505055,1702873107,1701759583,1701150088];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -128,6 +128,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/15 | 34-20 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |
 | ✅ | 2024/11/08 | 36-11 | [DTC](https://ws.tsl.rocks/corp/4be10b4fa74e6bc45ea50d720527bec8db0312f419a419f203b09350d663c755/) |
 | ✅ | 2024/11/01 | 32-8 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) |
 | ✅ | 2024/10/25 | 42-10 | [Ironbear Legion](https://ws.tsl.rocks/corp/256873683be88bf78e3d4f1fda68e669c8be11e78a85f9add19e60facc9831b0/) |

@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Peace Keepers
-description: W:15 L:37 D:0 Bonus ✅
+description: W:15 L:37 D:0 Bonus ❌
 date: 1731051669
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1080 🔺  (1251)|
-| ELO Competitive | 1183 🔺  (926)|
+| ELO Competitive | 1183 🔺  (927)|
 | Total Matches | 52 |
 | Wins | 15 |
 | Losses | 37 |

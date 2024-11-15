@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Winter Star llc
-description: W:3 L:3 D:0 Bonus ✅
+description: W:3 L:3 D:0 Bonus ❌
 date: 1731053472
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
