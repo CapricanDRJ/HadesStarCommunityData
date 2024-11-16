@@ -77,6 +77,58 @@ permalink: /trade/
     </table>
     <table>
         <tr>
+            <th colspan="4" class="username-header">Hamzawi</th>
+        </tr>
+        <tr>
+            <th>Amount</th>
+            <th>Artifact</th>
+            <th>RS Level</th>
+            <th>%</th>
+        </tr>
+    
+        <tr>
+            <td colspan="4">💰 Wanting</td>
+        </tr>
+        
+                <tr>
+                    <td>7</td>
+                    <td><img src="trade.png" alt="trade"></td>
+                    <td>RS10</td>
+                    <td>220%</td>
+                </tr>
+            
+        <tr>
+            <td colspan="4">Guild: <a href="https://discord.com/channels/355101373483712513">The Star League</a></td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <th colspan="4" class="username-header">LeDaiZi</th>
+        </tr>
+        <tr>
+            <th>Amount</th>
+            <th>Artifact</th>
+            <th>RS Level</th>
+            <th>%</th>
+        </tr>
+    
+        <tr>
+            <td colspan="4">💰 Wanting</td>
+        </tr>
+        
+                <tr>
+                    <td>1</td>
+                    <td><img src="shield.png" alt="shield"></td>
+                    <td>RS10</td>
+                    <td>270%</td>
+                </tr>
+            
+        <tr>
+            <td colspan="4">Guild: Private</td>
+        </tr>
+    </table>
+    <table>
+        <tr>
             <th colspan="4" class="username-header">Raptor | CuriousKitty</th>
         </tr>
         <tr>
