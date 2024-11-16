@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Hamburg AG 2
-description: W:10 L:15 D:0 Bonus ❌
-date: 1729931414
+description: W:11 L:15 D:0 Bonus ✅
+date: 1731745538
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1227 🔻  (325)|
-| ELO Competitive | 1274 🔻  (301)|
-| Total Matches | 25 |
-| Wins | 10 |
+| ELO Regular | 1247 🔺  (251)|
+| ELO Competitive | 1299 🔺  (254)|
+| Total Matches | 26 |
+| Wins | 11 |
 | Losses | 15 |
 | Draws | 0 |
 | Streak Record | 3 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729499414,1728897467,1728305682,1727075107,1725870804,1725263206,1724659793,1724051563,1723446915,1722838082,1722236767,1721632110,1721039188,1720436592,1719814207,1719297940,1718610365,1718004973,1706518276,1704782513,1702890235,1702282538,1701679337,1701080660,1700467539];
+        let timestamps = [1731313538,1729499414,1728897467,1728305682,1727075107,1725870804,1725263206,1724659793,1724051563,1723446915,1722838082,1722236767,1721632110,1721039188,1720436592,1719814207,1719297940,1718610365,1718004973,1706518276,1704782513,1702890235,1702282538,1701679337,1701080660,1700467539];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,8 +117,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 1 | 2 | 0 | 3 |
 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) | 2 | 0 | 0 | 2 |
-| [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 0 | 2 | 0 | 2 |
 | [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/) | 2 | 0 | 0 | 2 |
 | [Zvezdec](https://ws.tsl.rocks/corp/7bce2af674b8fb313f43e497201ad86b230571cc3e200f44132be528eb4076d9/) | 0 | 2 | 0 | 2 |
 
@@ -126,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/16 | 31-28 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) |
 | ❌ | 2024/10/26 | 18-43 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) |
 | ✅ | 2024/10/19 | 23-20 | [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) |
 | ✅ | 2024/10/12 | 15-6 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) |

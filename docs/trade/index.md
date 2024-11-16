@@ -101,6 +101,50 @@ permalink: /trade/
             <td colspan="4">Guild: <a href="https://discord.com/channels/1215955043170258954">Ƭitans Ф ᴛɛʀʀօƦ</a></td>
         </tr>
     </table>
+    <table>
+        <tr>
+            <th colspan="4" class="username-header">Ƭʀιƈӄʏ</th>
+        </tr>
+        <tr>
+            <th>Amount</th>
+            <th>Artifact</th>
+            <th>RS Level</th>
+            <th>%</th>
+        </tr>
+    
+        <tr>
+            <td colspan="4">🏷️ Offering</td>
+        </tr>
+        
+                <tr>
+                    <td>1</td>
+                    <td><img src="trade.png" alt="trade"></td>
+                    <td>RS9</td>
+                    <td>163%</td>
+                </tr>
+            
+        <tr>
+            <td colspan="4">💰 Wanting</td>
+        </tr>
+        
+                <tr>
+                    <td>1</td>
+                    <td><img src="weapon.png" alt="weapon"></td>
+                    <td>RS9</td>
+                    <td>195%</td>
+                </tr>
+            
+                <tr>
+                    <td>1</td>
+                    <td><img src="weapon.png" alt="weapon"></td>
+                    <td>RS9</td>
+                    <td>195%</td>
+                </tr>
+            
+        <tr>
+            <td colspan="4">Guild: <a href="https://discord.com/channels/1215955043170258954">Ƭitans Ф ᴛɛʀʀօƦ</a></td>
+        </tr>
+    </table>
     </div>
 </body>
 </html>
