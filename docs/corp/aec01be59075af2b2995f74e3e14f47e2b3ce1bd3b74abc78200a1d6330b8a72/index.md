@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Corp. Estelar
-description: W:22 L:18 D:0 Bonus ✅
-date: 1731775292
+description: W:22 L:19 D:0 Bonus ✅
+date: 1731785511
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1294 🔺  (152)|
+| ELO Regular | 1283 🔻  (169)|
 | ELO Competitive | 1430 🔺  (100)|
-| Total Matches | 40 |
+| Total Matches | 41 |
 | Wins | 22 |
-| Losses | 18 |
+| Losses | 19 |
 | Draws | 0 |
 | Streak Record | 4 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731343292,1730783143,1730741676,1730152408,1730135577,1729520151,1729016183,1729008366,1728321012,1727738307,1727159544,1726688088,1726549647,1725887933,1725420659,1725251788,1724623137,1724006790,1723457130,1722872043,1722267119,1721686210,1721065344,1720482277,1719893239,1719275708,1717991450,1717451310,1716346035,1713320663,1712575480,1711991351,1711395200,1710951394,1709616109,1709034980,1708298177,1707301215,1707273274,1698815422];
+        let timestamps = [1731353511,1731343292,1730783143,1730741676,1730152408,1730135577,1729520151,1729016183,1729008366,1728321012,1727738307,1727159544,1726688088,1726549647,1725887933,1725420659,1725251788,1724623137,1724006790,1723457130,1722872043,1722267119,1721686210,1721065344,1720482277,1719893239,1719275708,1717991450,1717451310,1716346035,1713320663,1712575480,1711991351,1711395200,1710951394,1709616109,1709034980,1708298177,1707301215,1707273274,1698815422];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Tuatha De Danan](https://ws.tsl.rocks/corp/7741dbd0c9e7ddbc162e374691cb3346e4bb6600840f7962ec4a4414d5d2f780/) | 0 | 2 | 0 | 2 |
 | [Zvezdec](https://ws.tsl.rocks/corp/7bce2af674b8fb313f43e497201ad86b230571cc3e200f44132be528eb4076d9/) | 0 | 2 | 0 | 2 |
 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) | 2 | 1 | 0 | 3 |
 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) | 0 | 2 | 0 | 2 |
@@ -127,6 +128,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/16 | 0-50 | [Tuatha De Danan](https://ws.tsl.rocks/corp/7741dbd0c9e7ddbc162e374691cb3346e4bb6600840f7962ec4a4414d5d2f780/) |
 | ✅ | 2024/11/16 | 34-9 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) |
 | ❌ | 2024/11/10 | 0-34 | [Zvezdec](https://ws.tsl.rocks/corp/7bce2af674b8fb313f43e497201ad86b230571cc3e200f44132be528eb4076d9/) |
 | ✅ | 2024/11/09 | 39-26 | [OntarioDawn](https://ws.tsl.rocks/corp/1a002c71f3aba5da5918941fa2ba4dbbfc183ad52d97d44a25718e07e6b08a03/) |

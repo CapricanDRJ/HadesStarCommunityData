@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Spacefleet
-description: W:43 L:42 D:0 Bonus ✅
+description: W:43 L:42 D:0 Bonus ❌
 date: 1731762968
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
