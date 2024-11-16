@@ -97,6 +97,13 @@ permalink: /trade/
                     <td>220%</td>
                 </tr>
             
+                <tr>
+                    <td>5</td>
+                    <td><img src="mining.png" alt="mining"></td>
+                    <td>RS10</td>
+                    <td>220%</td>
+                </tr>
+            
         <tr>
             <td colspan="4">Guild: <a href="https://discord.com/channels/355101373483712513">The Star League</a></td>
         </tr>

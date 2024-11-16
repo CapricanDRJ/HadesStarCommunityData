@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​星舰月球
-description: W:32 L:20 D:0 Bonus ✅
+description: W:32 L:20 D:0 Bonus ❌
 date: 1731735325
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1274 🔻  (187)|
-| ELO Competitive | 1406 🔻  (116)|
+| ELO Competitive | 1406 🔻  (117)|
 | Total Matches | 52 |
 | Wins | 32 |
 | Losses | 20 |
