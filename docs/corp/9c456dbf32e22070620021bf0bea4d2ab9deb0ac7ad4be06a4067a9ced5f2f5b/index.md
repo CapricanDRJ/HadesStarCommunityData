@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Anarchy Nation 
-description: W:10 L:4 D:1 Bonus ❌
-date: 1730451899
+description: W:11 L:4 D:1 Bonus ✅
+date: 1731716101
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1260 🔻  (215)|
-| ELO Competitive | 1277 🔻  (297)|
-| Total Matches | 15 |
-| Wins | 10 |
+| ELO Regular | 1269 🔺  (197)|
+| ELO Competitive | 1287 🔺  (271)|
+| Total Matches | 16 |
+| Wins | 11 |
 | Losses | 4 |
 | Draws | 1 |
 | Streak Record | 4 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730019899,1727803513,1726724140,1725297767,1724502322,1723541277,1722384017,1718888936,1716160365,1715345830,1714314555,1713150592,1712200178,1711484138,1710954099];
+        let timestamps = [1731284101,1730019899,1727803513,1726724140,1725297767,1724502322,1723541277,1722384017,1718888936,1716160365,1715345830,1714314555,1713150592,1712200178,1711484138,1710954099];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/16 | 8-2 | [普罗米修斯](https://ws.tsl.rocks/corp/f39d00b1bbbf87c158931fd887f37a588019d0b1fd4f2441fbc675674b71423a/) |
 | ❌ | 2024/11/01 | 5-18 | [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541/) |
 | ✅ | 2024/10/06 | 10-0 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) |
 | ✅ | 2024/09/24 | 5-4 | [ДИᏰEPℂДℍTᏰℓ](https://ws.tsl.rocks/corp/a1dad8a2a2c5ab935169d168bc19f8a1db7f12b099358e079cb7221a340345ed/) |
