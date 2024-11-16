@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​ RELAX CZ/SK
-description: W:70 L:34 D:0 Bonus ✅
+description: W:70 L:34 D:0 Bonus ❌
 date: 1731707084
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1281 🔻  (173)|
+| ELO Regular | 1281 🔻  (174)|
 | ELO Competitive | 1539 🔻  (31)|
 | Total Matches | 104 |
 | Wins | 70 |

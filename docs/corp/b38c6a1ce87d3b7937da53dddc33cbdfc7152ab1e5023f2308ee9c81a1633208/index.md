@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Dacia Chill
-description: W:19 L:3 D:0 Bonus ✅
+description: W:19 L:3 D:0 Bonus ❌
 date: 1731095851
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
