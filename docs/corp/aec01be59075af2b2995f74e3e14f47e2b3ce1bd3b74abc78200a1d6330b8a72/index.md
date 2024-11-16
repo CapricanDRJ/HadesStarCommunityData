@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Corp. Estelar
-description: W:21 L:18 D:0 Bonus ✅
-date: 1731215143
+description: W:22 L:18 D:0 Bonus ✅
+date: 1731775292
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1279 🔻  (178)|
-| ELO Competitive | 1417 🔺  (108)|
-| Total Matches | 39 |
-| Wins | 21 |
+| ELO Regular | 1294 🔺  (152)|
+| ELO Competitive | 1430 🔺  (100)|
+| Total Matches | 40 |
+| Wins | 22 |
 | Losses | 18 |
 | Draws | 0 |
 | Streak Record | 4 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730783143,1730741676,1730152408,1730135577,1729520151,1729016183,1729008366,1728321012,1727738307,1727159544,1726688088,1726549647,1725887933,1725420659,1725251788,1724623137,1724006790,1723457130,1722872043,1722267119,1721686210,1721065344,1720482277,1719893239,1719275708,1717991450,1717451310,1716346035,1713320663,1712575480,1711991351,1711395200,1710951394,1709616109,1709034980,1708298177,1707301215,1707273274,1698815422];
+        let timestamps = [1731343292,1730783143,1730741676,1730152408,1730135577,1729520151,1729016183,1729008366,1728321012,1727738307,1727159544,1726688088,1726549647,1725887933,1725420659,1725251788,1724623137,1724006790,1723457130,1722872043,1722267119,1721686210,1721065344,1720482277,1719893239,1719275708,1717991450,1717451310,1716346035,1713320663,1712575480,1711991351,1711395200,1710951394,1709616109,1709034980,1708298177,1707301215,1707273274,1698815422];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -127,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/16 | 34-9 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) |
 | ❌ | 2024/11/10 | 0-34 | [Zvezdec](https://ws.tsl.rocks/corp/7bce2af674b8fb313f43e497201ad86b230571cc3e200f44132be528eb4076d9/) |
 | ✅ | 2024/11/09 | 39-26 | [OntarioDawn](https://ws.tsl.rocks/corp/1a002c71f3aba5da5918941fa2ba4dbbfc183ad52d97d44a25718e07e6b08a03/) |
 | ❌ | 2024/11/02 | 0-23 | [WinterComes](https://ws.tsl.rocks/corp/a8f3bbc084fca4434869893ccbfca6c52960e64ee5db87ef257d706194a2f596/) |

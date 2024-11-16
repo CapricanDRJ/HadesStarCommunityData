@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​Торг. федерация
-description: W:9 L:15 D:0 Bonus ❌
-date: 1730404100
+description: W:10 L:15 D:0 Bonus ✅
+date: 1731774090
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1179 🔺  (831)|
-| ELO Competitive | 1221 🔺  (466)|
-| Total Matches | 24 |
-| Wins | 9 |
+| ELO Regular | 1195 🔺  (535)|
+| ELO Competitive | 1244 🔺  (385)|
+| Total Matches | 25 |
+| Wins | 10 |
 | Losses | 15 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 3 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729972100,1729519550,1727387921,1726951612,1726062817,1724110577,1723662385,1723226941,1722748526,1722289960,1721853594,1721419349,1714625242,1714163126,1713712751,1713277694,1712819160,1712358531,1702632672,1702295160,1702027966,1699943023,1699216905,1698687065];
+        let timestamps = [1731342090,1729972100,1729519550,1727387921,1726951612,1726062817,1724110577,1723662385,1723226941,1722748526,1722289960,1721853594,1721419349,1714625242,1714163126,1713712751,1713277694,1712819160,1712358531,1702632672,1702295160,1702027966,1699943023,1699216905,1698687065];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,12 +118,14 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) | 1 | 1 | 0 | 2 |
 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) | 1 | 1 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/16 | 34-22 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) |
 | ✅ | 2024/10/31 | 24-10 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) |
 | ❌ | 2024/10/26 | 22-41 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) |
 | ✅ | 2024/10/01 | 44-7 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) |

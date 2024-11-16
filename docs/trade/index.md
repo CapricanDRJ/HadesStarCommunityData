@@ -110,6 +110,78 @@ permalink: /trade/
     </table>
     <table>
         <tr>
+            <th colspan="4" class="username-header">Kaila</th>
+        </tr>
+        <tr>
+            <th>Amount</th>
+            <th>Artifact</th>
+            <th>RS Level</th>
+            <th>%</th>
+        </tr>
+    
+        <tr>
+            <td colspan="4">🏷️ Offering</td>
+        </tr>
+        
+                <tr>
+                    <td>2</td>
+                    <td><img src="shield.png" alt="shield"></td>
+                    <td>RS8</td>
+                    <td>192%</td>
+                </tr>
+            
+                <tr>
+                    <td>1</td>
+                    <td><img src="shield.png" alt="shield"></td>
+                    <td>RS8</td>
+                    <td>190%</td>
+                </tr>
+            
+                <tr>
+                    <td>6</td>
+                    <td><img src="shield.png" alt="shield"></td>
+                    <td>RS7</td>
+                    <td>188%</td>
+                </tr>
+            
+        <tr>
+            <td colspan="4">💰 Wanting</td>
+        </tr>
+        
+                <tr>
+                    <td>3</td>
+                    <td><img src="weapon.png" alt="weapon"></td>
+                    <td>RS8</td>
+                    <td>150%</td>
+                </tr>
+            
+                <tr>
+                    <td>6</td>
+                    <td><img src="weapon.png" alt="weapon"></td>
+                    <td>RS7</td>
+                    <td>150%</td>
+                </tr>
+            
+                <tr>
+                    <td>3</td>
+                    <td><img src="combat.png" alt="combat"></td>
+                    <td>RS8</td>
+                    <td>150%</td>
+                </tr>
+            
+                <tr>
+                    <td>6</td>
+                    <td><img src="combat.png" alt="combat"></td>
+                    <td>RS7</td>
+                    <td>150%</td>
+                </tr>
+            
+        <tr>
+            <td colspan="4">Guild: <a href="https://discord.com/channels/1093559047137013800">𝕮𝖊𝖗𝖚𝖑𝖊𝖆𝖓𝖘</a></td>
+        </tr>
+    </table>
+    <table>
+        <tr>
             <th colspan="4" class="username-header">LeDaiZi</th>
         </tr>
         <tr>

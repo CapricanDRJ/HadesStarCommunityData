@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​Outland Ind.
-description: W:37 L:11 D:0 Bonus ✅
+description: W:37 L:11 D:0 Bonus ❌
 date: 1731144822
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1441 🔺  (27)|
+| ELO Regular | 1441 🔺  (28)|
 | ELO Competitive | 1500 🔺  (45)|
 | Total Matches | 48 |
 | Wins | 37 |
