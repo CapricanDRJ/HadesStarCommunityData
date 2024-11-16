@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Лунный Феникс
-description: W:41 L:24 D:2 Bonus ✅
+description: W:41 L:24 D:2 Bonus ❌
 date: 1731106670
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1339 🔺  (99)|
-| ELO Competitive | 1432 🔺  (96)|
+| ELO Competitive | 1432 🔺  (97)|
 | Total Matches | 67 |
 | Wins | 41 |
 | Losses | 24 |
