@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​северный шторм
-description: W:2 L:4 D:0 Bonus ❌
-date: 1730701292
+description: W:2 L:5 D:0 Bonus ❌
+date: 1731826371
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔺  (789)|
-| ELO Competitive | 1206 🔺  (569)|
-| Total Matches | 6 |
+| ELO Regular | 1168 🔻  (966)|
+| ELO Competitive | 1190 🔻  (714)|
+| Total Matches | 7 |
 | Wins | 2 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 2 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730269292,1729101531,1728066776,1716316294,1716308181,1701709695];
+        let timestamps = [1731394371,1730269292,1729101531,1728066776,1716316294,1716308181,1701709695];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/17 | 3-7 | [Cydonia Order](https://ws.tsl.rocks/corp/e55f58931b283e38b70e189f9bbc51563a76e2ae541f8b2b207444fb36d5ddf9/) |
 | ✅ | 2024/11/04 | 6-3 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 | ✅ | 2024/10/21 | 3-2 | [Decode](https://ws.tsl.rocks/corp/848408d1ee1a3c08302a936241ea5cbe170cb66dc343d3339ed3ae4baeb82e57/) |
 | ❌ | 2024/10/09 | 3-17 | [U\.S\.A](https://ws.tsl.rocks/corp/6d7a18e9893736881762a4e1b687b55e7311d367267ff5a9cc8e45722b14ea06/) |

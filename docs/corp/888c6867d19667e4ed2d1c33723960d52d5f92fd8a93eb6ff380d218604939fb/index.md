@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​ДИВЕРСАНТЫ
-description: W:61 L:10 D:1 Bonus ✅
-date: 1731390024
+description: W:61 L:11 D:1 Bonus ✅
+date: 1731828474
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1537 🔺  (4)|
-| ELO Competitive | 1626 🔺  (9)|
-| Total Matches | 72 |
+| ELO Regular | 1522 🔻  (6)|
+| ELO Competitive | 1610 🔻  (9)|
+| Total Matches | 73 |
 | Wins | 61 |
-| Losses | 10 |
+| Losses | 11 |
 | Draws | 1 |
-| Streak | 3 |
 | Streak Record | 23 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730958024,1730373560,1729867514,1729414973,1728899570,1728466753,1728031905,1727599466,1727087125,1726652201,1726219365,1725784859,1725254192,1724504728,1724059375,1723627221,1723187570,1722754837,1722228954,1721793788,1721304254,1720855549,1720423071,1719985198,1719550364,1719039788,1718604357,1718125182,1717678210,1717230081,1716793130,1716361056,1715926005,1715492754,1714805624,1714299529,1713865072,1713432137,1712995235,1712562860,1712488035,1712053243,1711618740,1711096514,1710662945,1710230271,1710225163,1709792179,1709359497,1708922596,1708419572,1707986854,1707546168,1707058900,1706624660,1706192516,1705756168,1705323432,1704889193,1704456449,1704022812,1703580141,1703142279,1702709009,1702200787,1701767395,1701332216,1700895815,1700452215,1699970972,1699522493,1699075073];
+        let timestamps = [1731396474,1730958024,1730373560,1729867514,1729414973,1728899570,1728466753,1728031905,1727599466,1727087125,1726652201,1726219365,1725784859,1725254192,1724504728,1724059375,1723627221,1723187570,1722754837,1722228954,1721793788,1721304254,1720855549,1720423071,1719985198,1719550364,1719039788,1718604357,1718125182,1717678210,1717230081,1716793130,1716361056,1715926005,1715492754,1714805624,1714299529,1713865072,1713432137,1712995235,1712562860,1712488035,1712053243,1711618740,1711096514,1710662945,1710230271,1710225163,1709792179,1709359497,1708922596,1708419572,1707986854,1707546168,1707058900,1706624660,1706192516,1705756168,1705323432,1704889193,1704456449,1704022812,1703580141,1703142279,1702709009,1702200787,1701767395,1701332216,1700895815,1700452215,1699970972,1699522493,1699075073];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Hand Of NOD\! ](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) | 0 | 4 | 0 | 4 |
 | [GDZ](https://ws.tsl.rocks/corp/a04890160268d05cf11f997b0a1c724fbbcfa66b2ea4cb1c4b56ca18d0425d62/) | 2 | 0 | 0 | 2 |
 | [Ark](https://ws.tsl.rocks/corp/febd79d038ed9af667e201309060d9662ba825ba9be2b5b95418ac20a8e70c80/) | 2 | 0 | 0 | 2 |
 | [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) | 2 | 0 | 0 | 2 |
@@ -129,7 +129,6 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) | 2 | 0 | 0 | 2 |
 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) | 2 | 0 | 0 | 2 |
 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) | 1 | 1 | 0 | 2 |
-| [Hand Of NOD\! ](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) | 0 | 3 | 0 | 3 |
 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) | 2 | 0 | 0 | 2 |
 | [Revólver](https://ws.tsl.rocks/corp/2560247b1d9fc0ccccf6a9740f3e7cd5d0ebb66444a27e2a259906a476903a45/) | 2 | 0 | 0 | 2 |
 | [海賊ギルド](https://ws.tsl.rocks/corp/5a1a2bfa07b5ad3ca9bc90a4a86ce8e83d0e61393771fa0ff4c71733bc8879f3/) | 3 | 0 | 0 | 3 |
@@ -139,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/17 | 21-35 | [Hand Of NOD\! ](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) |
 | ✅ | 2024/11/12 | 43-0 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) |
 | ✅ | 2024/11/05 | 46-2 | [ProyectCorp](https://ws.tsl.rocks/corp/ac76fbb017abc5511e6d39625245f0cd8f145ef5ba96ae1760d7f2389b5e0fe1/) |
 | ✅ | 2024/10/30 | 27-22 | [GDZ](https://ws.tsl.rocks/corp/a04890160268d05cf11f997b0a1c724fbbcfa66b2ea4cb1c4b56ca18d0425d62/) |

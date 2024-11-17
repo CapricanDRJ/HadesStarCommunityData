@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Mercury Sunset
-description: W:37 L:0 D:0 Bonus ✅
-date: 1731234916
+description: W:38 L:0 D:0 Bonus ✅
+date: 1731831276
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1539 🔺  (3)|
-| ELO Competitive | 1598 🔺  (12)|
-| Total Matches | 37 |
-| Wins | 37 |
+| ELO Regular | 1543 🔺  (3)|
+| ELO Competitive | 1605 🔺  (11)|
+| Total Matches | 38 |
+| Wins | 38 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 37 |
-| Streak Record | 37 |
+| Streak | 38 |
+| Streak Record | 38 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730802916,1730206489,1729585108,1728996040,1728369988,1727768351,1727191998,1726554154,1725957646,1725350946,1724743032,1724150728,1723545484,1722834176,1722231958,1721642326,1721044899,1720381906,1719777636,1719168127,1718556881,1717988445,1717364450,1716787121,1716145943,1715542941,1714948658,1714374047,1713822716,1713363931,1712904192,1712471796,1710588122,1709978472,1709394357,1708959855,1708476370];
+        let timestamps = [1731399276,1730802916,1730206489,1729585108,1728996040,1728369988,1727768351,1727191998,1726554154,1725957646,1725350946,1724743032,1724150728,1723545484,1722834176,1722231958,1721642326,1721044899,1720381906,1719777636,1719168127,1718556881,1717988445,1717364450,1716787121,1716145943,1715542941,1714948658,1714374047,1713822716,1713363931,1712904192,1712471796,1710588122,1709978472,1709394357,1708959855,1708476370];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/17 | 41-9 | [绛紫星](https://ws.tsl.rocks/corp/8c2109279ceb01bcca0aa5e85c151d5877831ac54199285743750e2ed343b407/) |
 | ✅ | 2024/11/10 | 39-2 | [CIS](https://ws.tsl.rocks/corp/3efaab24560531ff257e73bfb281a7e9c0a9d591ac5aff55d05d35f2fb5e1d73/) |
 | ✅ | 2024/11/03 | 33-0 | [Empire of Light](https://ws.tsl.rocks/corp/5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc/) |
 | ✅ | 2024/10/27 | 32-0 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |
