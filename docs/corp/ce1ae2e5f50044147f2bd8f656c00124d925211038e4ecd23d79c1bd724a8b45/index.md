@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​SNSS
-description: W:2 L:6 D:0 Bonus ✅
+description: W:2 L:6 D:0 Bonus ❌
 date: 1731192612
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1154 🔺  (1056)|
-| ELO Competitive | 1197 🔺  (642)|
+| ELO Regular | 1154 🔺  (1057)|
+| ELO Competitive | 1197 🔺  (643)|
 | Total Matches | 8 |
 | Wins | 2 |
 | Losses | 6 |
