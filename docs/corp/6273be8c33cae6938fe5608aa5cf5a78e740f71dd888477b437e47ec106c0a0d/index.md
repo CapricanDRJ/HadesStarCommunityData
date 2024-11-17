@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Sternenflotte
-description: W:19 L:21 D:0 Bonus ✅
+description: W:19 L:21 D:0 Bonus ❌
 date: 1731219950
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

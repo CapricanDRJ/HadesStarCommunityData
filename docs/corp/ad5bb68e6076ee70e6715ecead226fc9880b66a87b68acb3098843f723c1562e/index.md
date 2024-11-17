@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​Game of Stars
-description: W:11 L:22 D:0 Bonus ❌
-date: 1730840425
+description: W:12 L:22 D:0 Bonus ✅
+date: 1731853114
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1152 🔺  (1075)|
-| ELO Competitive | 1190 🔺  (722)|
-| Total Matches | 33 |
-| Wins | 11 |
+| ELO Regular | 1169 🔺  (957)|
+| ELO Competitive | 1208 🔺  (564)|
+| Total Matches | 34 |
+| Wins | 12 |
 | Losses | 22 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 2 |
 
 
@@ -31,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730408425,1727853093,1727200114,1725642721,1724998761,1724059677,1722920425,1722364184,1721210197,1720732028,1720026375,1719214615,1718024808,1718012485,1717036256,1715678137,1714802318,1713179132,1712292726,1711478127,1710769918,1710017539,1709120616,1708360979,1707884086,1707332826,1706852148,1706251115,1705475190,1704646682,1704126188,1699989609,1698811816];
+        let timestamps = [1731421114,1730408425,1727853093,1727200114,1725642721,1724998761,1724059677,1722920425,1722364184,1721210197,1720732028,1720026375,1719214615,1718024808,1718012485,1717036256,1715678137,1714802318,1713179132,1712292726,1711478127,1710769918,1710017539,1709120616,1708360979,1707884086,1707332826,1706852148,1706251115,1705475190,1704646682,1704126188,1699989609,1698811816];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/17 | 47-5 | [Nine's Own Goal](https://ws.tsl.rocks/corp/fd47245550708347721e341d893b73e7c23e0f3624053c47ce666e55641c9e9e/) |
 | ✅ | 2024/11/05 | 37-28 | [Void](https://ws.tsl.rocks/corp/d647d722a09f020b716e059ac7758172a560c7190ac4d7d306c4ede8be6c5e77/) |
 | ❌ | 2024/10/07 | 5-44 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 | ✅ | 2024/09/29 | 35-4 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) |

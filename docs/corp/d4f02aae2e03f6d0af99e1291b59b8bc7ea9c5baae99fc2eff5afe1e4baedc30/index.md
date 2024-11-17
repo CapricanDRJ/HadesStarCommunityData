@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​日月星辰
-description: W:3 L:2 D:0 Bonus ✅
+description: W:3 L:2 D:0 Bonus ❌
 date: 1731732021
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

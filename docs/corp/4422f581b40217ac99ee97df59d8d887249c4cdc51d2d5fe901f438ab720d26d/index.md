@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​" Возрождение "
-description: W:4 L:0 D:0 Bonus ✅
+description: W:4 L:0 D:0 Bonus ❌
 date: 1731225659
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
