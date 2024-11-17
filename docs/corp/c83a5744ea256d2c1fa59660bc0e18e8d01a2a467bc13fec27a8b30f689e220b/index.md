@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​SiriusStrawMoo
-description: W:17 L:5 D:1 Bonus ❌
-date: 1730730139
+description: W:17 L:6 D:1 Bonus ❌
+date: 1731867241
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1327 🔺  (115)|
-| ELO Competitive | 1352 🔺  (183)|
-| Total Matches | 23 |
+| ELO Regular | 1313 🔻  (130)|
+| ELO Competitive | 1340 🔻  (198)|
+| Total Matches | 24 |
 | Wins | 17 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 1 |
-| Streak | 5 |
 | Streak Record | 9 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730298139,1729675804,1729015883,1728122671,1727620204,1727134610,1726654004,1726184216,1725667063,1725200403,1724758657,1724257412,1723765758,1723299064,1722857916,1722406251,1721950956,1721484857,1721051514,1720267098,1719395902,1718657254,1718194898];
+        let timestamps = [1731435241,1730298139,1729675804,1729015883,1728122671,1727620204,1727134610,1726654004,1726184216,1725667063,1725200403,1724758657,1724257412,1723765758,1723299064,1722857916,1722406251,1721950956,1721484857,1721051514,1720267098,1719395902,1718657254,1718194898];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/17 | 3-29 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | ✅ | 2024/11/04 | 11-2 | [imperio galacti](https://ws.tsl.rocks/corp/53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2/) |
 | ✅ | 2024/10/28 | 11-0 | [Im Paradies](https://ws.tsl.rocks/corp/d910227e7170072856b8187084cb87eb8b27af18e554fa951e914f952ec5128b/) |
 | ✅ | 2024/10/20 | 5-3 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |

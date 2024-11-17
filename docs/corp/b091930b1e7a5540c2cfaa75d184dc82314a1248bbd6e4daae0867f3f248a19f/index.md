@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Ещё один Миф
-description: W:5 L:7 D:0 Bonus ✅
+description: W:5 L:7 D:0 Bonus ❌
 date: 1731744338
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

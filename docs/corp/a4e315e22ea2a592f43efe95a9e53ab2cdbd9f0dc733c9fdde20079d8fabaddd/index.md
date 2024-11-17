@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Battle Academy
-description: W:4 L:1 D:0 Bonus ❌
-date: 1730291099
+description: W:5 L:1 D:0 Bonus ✅
+date: 1731859426
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1241 🔻  (276)|
-| ELO Competitive | 1247 🔻  (375)|
-| Total Matches | 5 |
-| Wins | 4 |
+| ELO Regular | 1253 🔺  (238)|
+| ELO Competitive | 1260 🔺  (340)|
+| Total Matches | 6 |
+| Wins | 5 |
 | Losses | 1 |
 | Draws | 0 |
 | Streak Record | 4 |
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729859099,1716623612,1714279399,1713065249,1711434257];
+        let timestamps = [1731427426,1729859099,1716623612,1714279399,1713065249,1711434257];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/17 | 25-1 | [DeutschlandGmbH](https://ws.tsl.rocks/corp/7f4550924e4740a47b7d66c9ddf38d65c37590507caab29eecc74f81a4ae2895/) |
 | ❌ | 2024/10/30 | 8-15 | [揽月宫](https://ws.tsl.rocks/corp/16a4fe26591408a3f2128646e96c5ec1f82feb35f1f9743aebd2dae05095d2ed/) |
 | ✅ | 2024/05/30 | 27-0 | [星海扬帆](https://ws.tsl.rocks/corp/9cf2d9a2c07a0b8030f9a8275f9ebd3973759c2b60bed95ccb9a3f152aa0b1e4/) |
 | ✅ | 2024/05/03 | 28-0 | [СНГ — РОССИЯ](https://ws.tsl.rocks/corp/075394144fa4e771dc8358886dc461b0ed87d948b46e5d817d29296adf2f11f2/) |
