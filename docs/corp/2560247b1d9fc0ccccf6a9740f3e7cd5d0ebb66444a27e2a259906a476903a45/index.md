@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​Revólver
-description: W:10 L:19 D:1 Bonus ✅
+description: W:10 L:19 D:1 Bonus ❌
 date: 1731771685
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1162 🔻  (1006)|
+| ELO Regular | 1162 🔻  (1007)|
 | ELO Competitive | 1196 🔻  (653)|
 | Total Matches | 30 |
 | Wins | 10 |
