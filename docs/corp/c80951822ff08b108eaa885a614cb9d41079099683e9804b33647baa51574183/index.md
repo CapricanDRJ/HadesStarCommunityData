@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​超越声速
-description: W:1 L:0 D:0 Bonus ✅
+description: W:1 L:0 D:0 Bonus ❌
 date: 1731336538
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

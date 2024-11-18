@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Croce del Sud
-description: W:12 L:9 D:0 Bonus ❌
-date: 1730762296
+description: W:13 L:9 D:0 Bonus ✅
+date: 1731966402
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1231 🔺  (303)|
-| ELO Competitive | 1259 🔺  (344)|
-| Total Matches | 21 |
-| Wins | 12 |
+| ELO Regular | 1242 🔺  (272)|
+| ELO Competitive | 1270 🔺  (310)|
+| Total Matches | 22 |
+| Wins | 13 |
 | Losses | 9 |
 | Draws | 0 |
-| Streak | 4 |
-| Streak Record | 4 |
+| Streak | 5 |
+| Streak Record | 5 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730330296,1729116261,1728010869,1726782137,1725589532,1723158426,1721346627,1720158915,1718333736,1714699158,1713565529,1712267490,1710720648,1708762734,1707431688,1706226479,1705019621,1702247382,1701127252,1700637944,1698886949];
+        let timestamps = [1731534402,1730330296,1729116261,1728010869,1726782137,1725589532,1723158426,1721346627,1720158915,1718333736,1714699158,1713565529,1712267490,1710720648,1708762734,1707431688,1706226479,1705019621,1702247382,1701127252,1700637944,1698886949];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/18 | 42-4 | [SNSS](https://ws.tsl.rocks/corp/ce1ae2e5f50044147f2bd8f656c00124d925211038e4ecd23d79c1bd724a8b45/) |
 | ✅ | 2024/11/04 | 51-11 | [Trade Station](https://ws.tsl.rocks/corp/7003e286fe1a04aaa63e3aa318c164856c07e251a94b0496757140f5eda72cd7/) |
 | ✅ | 2024/10/21 | 25-20 | [KLM](https://ws.tsl.rocks/corp/963e490e64d4703042415d3fcd8267ff87fbfd3383b83d447d29d842f2a446a1/) |
 | ✅ | 2024/10/09 | 45-4 | [First Squad](https://ws.tsl.rocks/corp/39bb6d19385b7eb6e2e71a979f21256463432b6e2e36ae4c55446abb1f6a0db1/) |

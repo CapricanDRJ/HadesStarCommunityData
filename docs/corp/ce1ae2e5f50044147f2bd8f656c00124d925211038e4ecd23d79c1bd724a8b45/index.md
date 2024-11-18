@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​SNSS
-description: W:2 L:7 D:0 Bonus ❌
-date: 1731951376
+description: W:2 L:8 D:0 Bonus ❌
+date: 1731966402
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1135 🔻  (1143)|
-| ELO Competitive | 1181 🔻  (954)|
-| Total Matches | 9 |
+| ELO Regular | 1124 🔻  (1173)|
+| ELO Competitive | 1185 🔻  (900)|
+| Total Matches | 10 |
 | Wins | 2 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731519376,1730760612,1730750093,1729932727,1729931225,1729107244,1724537188,1708964363,1698695487];
+        let timestamps = [1731534402,1731519376,1730760612,1730750093,1729932727,1729931225,1729107244,1724537188,1708964363,1698695487];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -122,6 +122,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/18 | 4-42 | [Croce del Sud](https://ws.tsl.rocks/corp/d0899d3aea0aaed6c7d87de378c6c82274ff8dcdabad391d44c2f08f98039af1/) |
 | ❌ | 2024/11/18 | 9-43 | [E\.T\.A](https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082/) |
 | ✅ | 2024/11/09 | 40-13 | [YETI Collective](https://ws.tsl.rocks/corp/ff6a3c65d008d245f003a3009374e26cf38e7cda6ea4d601a9da9037296fda98/) |
 | ❌ | 2024/11/09 | 0-55 | [Providence](https://ws.tsl.rocks/corp/f12fc39ca2326de7c5ce96c005b1953c86430443f1f8b98e7515d082b43b4d4b/) |
