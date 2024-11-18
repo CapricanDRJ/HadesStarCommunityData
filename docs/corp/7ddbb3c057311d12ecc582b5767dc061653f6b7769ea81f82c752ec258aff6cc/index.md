@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Internationals
-description: W:30 L:10 D:0 Bonus ✅
-date: 1731331729
+description: W:31 L:10 D:0 Bonus ✅
+date: 1731919520
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1434 🔺  (33)|
-| ELO Competitive | 1481 🔺  (61)|
-| Total Matches | 40 |
-| Wins | 30 |
+| ELO Regular | 1440 🔺  (30)|
+| ELO Competitive | 1488 🔺  (56)|
+| Total Matches | 41 |
+| Wins | 31 |
 | Losses | 10 |
 | Draws | 0 |
-| Streak | 17 |
-| Streak Record | 17 |
+| Streak | 18 |
+| Streak Record | 18 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730899729,1730287019,1729629837,1729071773,1728478175,1727909893,1727197108,1726666025,1726137333,1725466634,1725456715,1724868946,1724844300,1724181987,1723662385,1722962498,1722440208,1721783573,1721151302,1720565225,1720026375,1719358648,1718785865,1717641848,1716943402,1716272729,1715722609,1715119301,1714520383,1713944090,1709130533,1708453531,1702238062,1701630957,1701103804,1700600683,1699970972,1699394494,1699366541,1698763422];
+        let timestamps = [1731487520,1730899729,1730287019,1729629837,1729071773,1728478175,1727909893,1727197108,1726666025,1726137333,1725466634,1725456715,1724868946,1724844300,1724181987,1723662385,1722962498,1722440208,1721783573,1721151302,1720565225,1720026375,1719358648,1718785865,1717641848,1716943402,1716272729,1715722609,1715119301,1714520383,1713944090,1709130533,1708453531,1702238062,1701630957,1701103804,1700600683,1699970972,1699394494,1699366541,1698763422];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,12 +118,14 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Fleet Corp Ares](https://ws.tsl.rocks/corp/8ceac360859239e9b9386b5e4a0c3d3c7e75941b010804ab8b405d9eb6f806f6/) | 2 | 0 | 0 | 2 |
 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) | 2 | 0 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/18 | 22-11 | [Fleet Corp Ares](https://ws.tsl.rocks/corp/8ceac360859239e9b9386b5e4a0c3d3c7e75941b010804ab8b405d9eb6f806f6/) |
 | ✅ | 2024/11/11 | 35-1 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
 | ✅ | 2024/11/04 | 28-23 | [Deadspace](https://ws.tsl.rocks/corp/45fc2bf2d1b40361071590e427fa47116d4e5e063064d17ed9933bbd61f04369/) |
 | ✅ | 2024/10/27 | 47-0 | [ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ](https://ws.tsl.rocks/corp/85a74d128f924274446b7fb754136e6ef7185c754df2fae3b10591d28536f17a/) |

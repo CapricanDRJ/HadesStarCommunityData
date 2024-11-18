@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​Тихий Омут
-description: W:32 L:62 D:3 Bonus ✅
+description: W:32 L:62 D:3 Bonus ❌
 date: 1731734724
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1095 🔻  (1239)|
-| ELO Competitive | 1346 🔻  (186)|
+| ELO Competitive | 1346 🔻  (187)|
 | Total Matches | 97 |
 | Wins | 32 |
 | Losses | 62 |
