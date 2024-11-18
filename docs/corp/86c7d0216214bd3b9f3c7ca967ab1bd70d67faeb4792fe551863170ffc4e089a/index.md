@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​  边界  
-description: W:27 L:10 D:3 Bonus ✅
-date: 1731489485
+description: W:28 L:11 D:3 Bonus ✅
+date: 1731938451
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1324 🔻  (119)|
-| ELO Competitive | 1420 🔺  (107)|
-| Total Matches | 40 |
-| Wins | 27 |
-| Losses | 10 |
+| ELO Regular | 1311 🔺  (129)|
+| ELO Competitive | 1429 🔺  (101)|
+| Total Matches | 42 |
+| Wins | 28 |
+| Losses | 11 |
 | Draws | 3 |
 | Streak Record | 6 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731057485,1731055682,1730246911,1730197172,1729774663,1729749424,1729258823,1729246709,1728737549,1728733638,1728265119,1728149122,1727689314,1727688413,1727245453,1727239771,1726662014,1726656408,1726135831,1726118619,1725520417,1725509583,1725076595,1725061572,1724581959,1724575347,1724132399,1724127291,1723693933,1723255188,1722818853,1722361478,1721642326,1721291333,1721203587,1720769290,1720232839,1719564786,1719130853,1717906095];
+        let timestamps = [1731506451,1731505850,1731057485,1731055682,1730246911,1730197172,1729774663,1729749424,1729258823,1729246709,1728737549,1728733638,1728265119,1728149122,1727689314,1727688413,1727245453,1727239771,1726662014,1726656408,1726135831,1726118619,1725520417,1725509583,1725076595,1725061572,1724581959,1724575347,1724132399,1724127291,1723693933,1723255188,1722818853,1722361478,1721642326,1721291333,1721203587,1720769290,1720232839,1719564786,1719130853,1717906095];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/18 | 12-0 | [U\.S\.A](https://ws.tsl.rocks/corp/6d7a18e9893736881762a4e1b687b55e7311d367267ff5a9cc8e45722b14ea06/) |
+| ❌ | 2024/11/18 | 3-18 | [物竞天择，适者生存](https://ws.tsl.rocks/corp/37d348d8b1c6a4ff8594f28196a593a0ba8fb565b62b6bbcc6dae46c2de660cf/) |
 | ❌ | 2024/11/13 | 2-10 | [AAAA](https://ws.tsl.rocks/corp/73b759d7c9218f2c1171f9ef691739331ca36ee045039f4f3f935a47b6622a27/) |
 | ✅ | 2024/11/13 | 5-3 | [FoxTale](https://ws.tsl.rocks/corp/5c64a00667d690f695d9dd90c073b5113f126e33cbdaa03a3c3e62ceca843b2c/) |
 | ✅ | 2024/11/04 | 16-0 | [tropa \(BR\)](https://ws.tsl.rocks/corp/c5b272089230f78a35d3bee9ed1eb0cc2b3a65703f2452b603286e889efa74c9/) |

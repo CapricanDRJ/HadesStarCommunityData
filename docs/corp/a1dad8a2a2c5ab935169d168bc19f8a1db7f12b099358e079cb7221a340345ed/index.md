@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​ДИᏰEPℂДℍTᏰℓ
-description: W:11 L:6 D:0 Bonus ✅
-date: 1731677021
+description: W:11 L:7 D:0 Bonus ✅
+date: 1731937249
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1295 🔺  (151)|
+| ELO Regular | 1272 🔻  (189)|
 | ELO Competitive | 1314 🔺  (227)|
-| Total Matches | 17 |
+| Total Matches | 18 |
 | Wins | 11 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 0 |
-| Streak | 4 |
 | Streak Record | 5 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731245021,1730811688,1730373372,1729937836,1729484993,1729049929,1728495012,1728055952,1727619302,1727169758,1726724140,1726271655,1725792672,1725774046,1725332921,1724892384,1724433207];
+        let timestamps = [1731505249,1731245021,1730811688,1730373372,1729937836,1729484993,1729049929,1728495012,1728055952,1727619302,1727169758,1726724140,1726271655,1725792672,1725774046,1725332921,1724892384,1724433207];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/18 | 0-2 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
 | ✅ | 2024/11/15 | 14-1 | [Dark Halo](https://ws.tsl.rocks/corp/f6ed7c780faf133d3fe411b9ed88480608a56064328539891d1b4348242954f6/) |
 | ✅ | 2024/11/10 | 13-0 | [hades star萌新指引站](https://ws.tsl.rocks/corp/06feef105195a4e2ec026c0e3e2c62fce31204dfe6be8e4b26863935efbf8a50/) |
 | ✅ | 2024/11/05 | 11-5 | [Omega corp](https://ws.tsl.rocks/corp/17140be6e5915edf2d09ebcf246a7c2650cf39def04823c9a04bdf81ff8fc38e/) |
