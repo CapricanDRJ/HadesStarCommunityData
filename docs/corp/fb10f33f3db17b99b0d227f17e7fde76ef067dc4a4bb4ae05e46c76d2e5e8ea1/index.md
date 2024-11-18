@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Lacuna X
-description: W:54 L:6 D:0 Bonus ✅
+description: W:45 L:6 D:0 Bonus ✅
 date: 1731754513
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1525 🔺  (11)|
-| ELO Competitive | 1577 🔺  (30)|
+| ELO Regular | 1500 🔺  (10)|
+| ELO Competitive | 1540 🔺  (31)|
 | Total Matches | 51 |
-| Wins | 54 |
+| Wins | 45 |
 | Losses | 6 |
 | Draws | 0 |
 | Streak | 9 |
-| Streak Record | 20 |
+| Streak Record | 17 |
 
 
 # Whitestar Match Day

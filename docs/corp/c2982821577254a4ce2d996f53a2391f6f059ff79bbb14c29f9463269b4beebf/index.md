@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Curiosity + Cat
-description: W:2 L:15 D:0 Bonus ❌
+description: W:2 L:12 D:0 Bonus ❌
 date: 1729214047
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1050 🔻  (1274)|
-| ELO Competitive | 1092 🔻  (1287)|
+| ELO Regular | 1079 🔻  (1258)|
+| ELO Competitive | 1098 🔻  (1283)|
 | Total Matches | 14 |
 | Wins | 2 |
-| Losses | 15 |
+| Losses | 12 |
 | Draws | 0 |
 | Streak Record | 2 |
 

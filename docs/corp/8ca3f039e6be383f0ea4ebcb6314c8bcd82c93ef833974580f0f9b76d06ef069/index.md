@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​KINETIC
-description: W:11 L:0 D:0 Bonus ✅
+description: W:10 L:0 D:0 Bonus ✅
 date: 1731783708
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1358 🔺  (92)|
-| ELO Competitive | 1374 🔺  (185)|
+| ELO Regular | 1344 🔺  (96)|
+| ELO Competitive | 1359 🔺  (172)|
 | Total Matches | 10 |
-| Wins | 11 |
+| Wins | 10 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 11 |
-| Streak Record | 11 |
+| Streak | 10 |
+| Streak Record | 10 |
 
 
 # Whitestar Match Day

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Ukraine
-description: W:0 L:3 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌
 date: 1727557898
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1156 🔻  (1029)|
-| ELO Competitive | 1172 🔻  (1070)|
+| ELO Regular | 1170 🔻  (941)|
+| ELO Competitive | 1170 🔻  (1073)|
 | Total Matches | 2 |
 | Wins | 0 |
-| Losses | 3 |
+| Losses | 2 |
 | Draws | 0 |
 
 

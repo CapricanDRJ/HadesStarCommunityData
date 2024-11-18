@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Vega Conflict
-description: W:13 L:12 D:0 Bonus ❌
+description: W:11 L:10 D:0 Bonus ❌
 date: 1731060683
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1234 🔺  (311)|
-| ELO Competitive | 1292 🔺  (300)|
+| ELO Regular | 1235 🔺  (296)|
+| ELO Competitive | 1268 🔺  (318)|
 | Total Matches | 21 |
-| Wins | 13 |
-| Losses | 12 |
+| Wins | 11 |
+| Losses | 10 |
 | Draws | 0 |
 | Streak | 2 |
 | Streak Record | 3 |

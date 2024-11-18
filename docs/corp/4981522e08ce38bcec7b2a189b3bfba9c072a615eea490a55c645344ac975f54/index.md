@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​exirium
-description: W:3 L:5 D:2 Bonus ❌
+description: W:2 L:3 D:1 Bonus ❌
 date: 1731535766
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻  (589)|
-| ELO Competitive | 1215 🔻  (547)|
+| ELO Regular | 1196 🔻  (523)|
+| ELO Competitive | 1206 🔻  (571)|
 | Total Matches | 6 |
-| Wins | 3 |
-| Losses | 5 |
-| Draws | 2 |
+| Wins | 2 |
+| Losses | 3 |
+| Draws | 1 |
 
 
 # Whitestar Match Day

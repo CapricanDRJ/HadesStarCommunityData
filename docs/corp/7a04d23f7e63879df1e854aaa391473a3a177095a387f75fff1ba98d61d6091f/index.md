@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​StellarCorpIT
-description: W:8 L:3 D:0 Bonus ❌
+description: W:8 L:2 D:0 Bonus ❌
 date: 1728586532
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1266 🔻  (224)|
-| ELO Competitive | 1302 🔻  (280)|
+| ELO Regular | 1283 🔻  (169)|
+| ELO Competitive | 1302 🔻  (248)|
 | Total Matches | 10 |
 | Wins | 8 |
-| Losses | 3 |
+| Losses | 2 |
 | Draws | 0 |
-| Streak Record | 3 |
+| Streak Record | 5 |
 
 
 # Whitestar Match Day

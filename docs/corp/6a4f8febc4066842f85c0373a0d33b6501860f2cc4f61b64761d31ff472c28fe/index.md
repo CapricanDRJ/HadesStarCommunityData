@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Quilliance
-description: W:27 L:2 D:0 Bonus ❌
+description: W:22 L:2 D:0 Bonus ❌
 date: 1730816080
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1440 🔺  (38)|
-| ELO Competitive | 1464 🔺  (95)|
+| ELO Regular | 1410 🔺  (39)|
+| ELO Competitive | 1443 🔺  (88)|
 | Total Matches | 24 |
-| Wins | 27 |
+| Wins | 22 |
 | Losses | 2 |
 | Draws | 0 |
 | Streak | 11 |
-| Streak Record | 14 |
+| Streak Record | 11 |
 
 
 # Whitestar Match Day

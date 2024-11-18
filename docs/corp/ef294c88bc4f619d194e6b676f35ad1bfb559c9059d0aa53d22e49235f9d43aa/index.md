@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​You win
-description: W:0 L:10 D:0 Bonus ❌
+description: W:0 L:5 D:0 Bonus ❌
 date: 1730710906
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1090 🔻  (1237)|
-| ELO Competitive | 1119 🔻  (1261)|
+| ELO Regular | 1143 🔻  (1116)|
+| ELO Competitive | 1156 🔻  (1165)|
 | Total Matches | 5 |
 | Wins | 0 |
-| Losses | 10 |
+| Losses | 5 |
 | Draws | 0 |
 
 

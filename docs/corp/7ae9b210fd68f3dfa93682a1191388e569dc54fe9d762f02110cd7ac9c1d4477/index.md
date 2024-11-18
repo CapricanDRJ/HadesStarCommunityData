@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Rogue One
-description: W:44 L:35 D:1 Bonus ❌
+description: W:38 L:30 D:1 Bonus ❌
 date: 1731775292
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1263 🔻  (229)|
-| ELO Competitive | 1399 🔻  (153)|
+| ELO Regular | 1260 🔻  (220)|
+| ELO Competitive | 1381 🔻  (147)|
 | Total Matches | 69 |
-| Wins | 44 |
-| Losses | 35 |
+| Wins | 38 |
+| Losses | 30 |
 | Draws | 1 |
 | Streak Record | 5 |
 

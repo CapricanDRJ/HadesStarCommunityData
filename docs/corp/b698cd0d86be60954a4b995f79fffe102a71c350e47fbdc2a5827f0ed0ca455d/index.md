@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Stargate Corp
-description: W:62 L:36 D:0 Bonus ✅
+description: W:53 L:28 D:0 Bonus ✅
 date: 1731852513
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1379 🔺  (79)|
-| ELO Competitive | 1635 🔺  (13)|
+| ELO Regular | 1367 🔺  (76)|
+| ELO Competitive | 1580 🔺  (18)|
 | Total Matches | 81 |
-| Wins | 62 |
-| Losses | 36 |
+| Wins | 53 |
+| Losses | 28 |
 | Draws | 0 |
-| Streak Record | 10 |
+| Streak Record | 12 |
 
 
 # Whitestar Match Day

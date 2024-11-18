@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Likapa
-description: W:106 L:9 D:0 Bonus ✅
+description: W:89 L:8 D:0 Bonus ✅
 date: 1731860327
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1662 🔺  (1)|
-| ELO Competitive | 1739 🔺  (3)|
+| ELO Regular | 1635 🔺  (1)|
+| ELO Competitive | 1685 🔺  (4)|
 | Total Matches | 97 |
-| Wins | 106 |
-| Losses | 9 |
+| Wins | 89 |
+| Losses | 8 |
 | Draws | 0 |
 | Streak | 10 |
-| Streak Record | 48 |
+| Streak Record | 42 |
 
 
 # Whitestar Match Day

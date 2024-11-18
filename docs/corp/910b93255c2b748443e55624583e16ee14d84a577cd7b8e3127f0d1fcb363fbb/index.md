@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​viCIOus
-description: W:20 L:4 D:2 Bonus ❌
+description: W:10 L:2 D:1 Bonus ❌
 date: 1731710090
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1329 🔻  (124)|
-| ELO Competitive | 1402 🔻  (152)|
+| ELO Regular | 1283 🔻  (170)|
+| ELO Competitive | 1320 🔻  (220)|
 | Total Matches | 13 |
-| Wins | 20 |
-| Losses | 4 |
-| Draws | 2 |
+| Wins | 10 |
+| Losses | 2 |
+| Draws | 1 |
 | Streak Record | 6 |
 
 

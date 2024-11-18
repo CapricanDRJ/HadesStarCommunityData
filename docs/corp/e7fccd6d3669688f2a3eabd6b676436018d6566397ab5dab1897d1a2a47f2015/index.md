@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​UKR Spase
-description: W:33 L:13 D:0 Bonus ✅
+description: W:25 L:11 D:0 Bonus ✅
 date: 1731586325
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1406 🔺  (58)|
-| ELO Competitive | 1486 🔺  (80)|
+| ELO Regular | 1382 🔺  (65)|
+| ELO Competitive | 1443 🔺  (89)|
 | Total Matches | 36 |
-| Wins | 33 |
-| Losses | 13 |
+| Wins | 25 |
+| Losses | 11 |
 | Draws | 0 |
-| Streak Record | 13 |
+| Streak Record | 7 |
 
 
 # Whitestar Match Day

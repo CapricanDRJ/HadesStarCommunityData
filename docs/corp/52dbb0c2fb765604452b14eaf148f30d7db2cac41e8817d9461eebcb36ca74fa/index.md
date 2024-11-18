@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​QSO
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌
 date: 1727002679
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (839)|
-| ELO Competitive | 1192 🔻  (725)|
+| ELO Regular | 1190 🔻  (575)|
+| ELO Competitive | 1192 🔻  (684)|
 | Total Matches | 1 |
 | Wins | 0 |
-| Losses | 2 |
+| Losses | 1 |
 | Draws | 0 |
 
 

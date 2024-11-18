@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Tacitus
-description: W:3 L:0 D:0 Bonus ❌
+description: W:2 L:0 D:0 Bonus ❌
 date: 1730131847
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1234 🔺  (313)|
-| ELO Competitive | 1230 🔺  (463)|
+| ELO Regular | 1224 🔺  (330)|
+| ELO Competitive | 1229 🔺  (432)|
 | Total Matches | 2 |
-| Wins | 3 |
+| Wins | 2 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 3 |
-| Streak Record | 3 |
+| Streak | 2 |
+| Streak Record | 2 |
 
 
 # Whitestar Match Day

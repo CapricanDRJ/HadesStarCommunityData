@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​ItBurnsWhenIEMP
-description: W:24 L:8 D:0 Bonus ❌
+description: W:23 L:8 D:0 Bonus ❌
 date: 1728755717
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1321 🔺  (131)|
-| ELO Competitive | 1361 🔺  (199)|
+| ELO Regular | 1315 🔺  (128)|
+| ELO Competitive | 1344 🔺  (187)|
 | Total Matches | 31 |
-| Wins | 24 |
+| Wins | 23 |
 | Losses | 8 |
 | Draws | 0 |
 | Streak | 2 |
-| Streak Record | 11 |
+| Streak Record | 10 |
 
 
 # Whitestar Match Day

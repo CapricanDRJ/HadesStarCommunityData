@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​ZION
-description: W:29 L:26 D:0 Bonus ❌
+description: W:28 L:23 D:0 Bonus ❌
 date: 1731559503
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1197 🔻  (514)|
-| ELO Competitive | 1312 🔻  (264)|
+| ELO Regular | 1203 🔻  (461)|
+| ELO Competitive | 1290 🔻  (269)|
 | Total Matches | 51 |
-| Wins | 29 |
-| Losses | 26 |
+| Wins | 28 |
+| Losses | 23 |
 | Draws | 0 |
-| Streak Record | 4 |
+| Streak Record | 9 |
 
 
 # Whitestar Match Day

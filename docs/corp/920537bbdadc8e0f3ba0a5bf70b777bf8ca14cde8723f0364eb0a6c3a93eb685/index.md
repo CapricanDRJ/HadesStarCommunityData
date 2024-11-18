@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​UFO
-description: W:8 L:13 D:2 Bonus ❌
+description: W:6 L:8 D:1 Bonus ❌
 date: 1731672511
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻  (599)|
-| ELO Competitive | 1233 🔺  (452)|
+| ELO Regular | 1214 🔻  (401)|
+| ELO Competitive | 1236 🔺  (405)|
 | Total Matches | 15 |
-| Wins | 8 |
-| Losses | 13 |
-| Draws | 2 |
+| Wins | 6 |
+| Losses | 8 |
+| Draws | 1 |
 | Streak Record | 2 |
 
 

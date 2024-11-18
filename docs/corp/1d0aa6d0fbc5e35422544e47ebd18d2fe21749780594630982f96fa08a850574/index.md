@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Bon Ariens
-description: W:2 L:8 D:0 Bonus ❌
+description: W:1 L:4 D:0 Bonus ❌
 date: 1731574831
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1118 🔻  (1161)|
-| ELO Competitive | 1149 🔻  (1191)|
+| ELO Regular | 1150 🔻  (1081)|
+| ELO Competitive | 1163 🔻  (1131)|
 | Total Matches | 5 |
-| Wins | 2 |
-| Losses | 8 |
+| Wins | 1 |
+| Losses | 4 |
 | Draws | 0 |
 
 

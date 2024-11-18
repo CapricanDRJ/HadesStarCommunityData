@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Spica​
-description: W:41 L:8 D:1 Bonus ❌
+description: W:38 L:7 D:1 Bonus ❌
 date: 1731018320
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1396 🔺  (65)|
-| ELO Competitive | 1472 🔺  (88)|
+| ELO Regular | 1382 🔺  (64)|
+| ELO Competitive | 1438 🔺  (94)|
 | Total Matches | 46 |
-| Wins | 41 |
-| Losses | 8 |
+| Wins | 38 |
+| Losses | 7 |
 | Draws | 1 |
-| Streak Record | 24 |
+| Streak Record | 23 |
 
 
 # Whitestar Match Day

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Fishy Business 
-description: W:1 L:3 D:0 Bonus ❌
+description: W:1 L:2 D:0 Bonus ❌
 date: 1731245191
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (852)|
-| ELO Competitive | 1194 🔻  (698)|
+| ELO Regular | 1190 🔻  (583)|
+| ELO Competitive | 1193 🔻  (675)|
 | Total Matches | 3 |
 | Wins | 1 |
-| Losses | 3 |
+| Losses | 2 |
 | Draws | 0 |
 
 

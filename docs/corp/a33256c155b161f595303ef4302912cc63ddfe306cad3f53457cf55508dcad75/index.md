@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Auscorp 
-description: W:76 L:9 D:0 Bonus ✅
+description: W:65 L:8 D:0 Bonus ✅
 date: 1731568820
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1619 🔺  (2)|
-| ELO Competitive | 1754 🔺  (2)|
+| ELO Regular | 1592 🔺  (2)|
+| ELO Competitive | 1701 🔺  (2)|
 | Total Matches | 73 |
-| Wins | 76 |
-| Losses | 9 |
+| Wins | 65 |
+| Losses | 8 |
 | Draws | 0 |
 | Streak | 6 |
-| Streak Record | 17 |
+| Streak Record | 16 |
 
 
 # Whitestar Match Day

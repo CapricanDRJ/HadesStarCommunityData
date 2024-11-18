@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​EMPIRE 
-description: W:6 L:0 D:0 Bonus ❌
+description: W:3 L:0 D:0 Bonus ❌
 date: 1729536238
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1272 🔺  (211)|
-| ELO Competitive | 1275 🔺  (335)|
+| ELO Regular | 1238 🔺  (285)|
+| ELO Competitive | 1243 🔺  (387)|
 | Total Matches | 3 |
-| Wins | 6 |
+| Wins | 3 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 6 |
-| Streak Record | 6 |
+| Streak | 3 |
+| Streak Record | 3 |
 
 
 # Whitestar Match Day

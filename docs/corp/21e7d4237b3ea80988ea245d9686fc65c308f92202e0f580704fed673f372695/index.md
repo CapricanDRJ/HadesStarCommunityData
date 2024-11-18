@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​nova corp
-description: W:0 L:2 D:2 Bonus ❌
+description: W:0 L:1 D:1 Bonus ❌
 date: 1731507515
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (840)|
-| ELO Competitive | 1194 🔻  (701)|
+| ELO Regular | 1187 🔻  (631)|
+| ELO Competitive | 1191 🔻  (705)|
 | Total Matches | 2 |
 | Wins | 0 |
-| Losses | 2 |
-| Draws | 2 |
+| Losses | 1 |
+| Draws | 1 |
 
 
 # Whitestar Match Day

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Atlas corp
-description: W:11 L:14 D:1 Bonus ❌
+description: W:8 L:12 D:1 Bonus ❌
 date: 1730813975
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1163 🔻  (971)|
-| ELO Competitive | 1218 🔻  (509)|
+| ELO Regular | 1165 🔻  (979)|
+| ELO Competitive | 1188 🔻  (757)|
 | Total Matches | 21 |
-| Wins | 11 |
-| Losses | 14 |
+| Wins | 8 |
+| Losses | 12 |
 | Draws | 1 |
 | Streak Record | 2 |
 

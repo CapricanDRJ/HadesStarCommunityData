@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​Decode
-description: W:38 L:29 D:2 Bonus ❌
+description: W:37 L:24 D:1 Bonus ❌
 date: 1731782806
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔻  (1015)|
-| ELO Competitive | 1305 🔻  (276)|
+| ELO Regular | 1172 🔻  (898)|
+| ELO Competitive | 1304 🔻  (240)|
 | Total Matches | 62 |
-| Wins | 38 |
-| Losses | 29 |
-| Draws | 2 |
+| Wins | 37 |
+| Losses | 24 |
+| Draws | 1 |
 | Streak Record | 6 |
 
 

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​jatnniel 团队
-description: W:3 L:2 D:0 Bonus ❌
+description: W:3 L:1 D:0 Bonus ❌
 date: 1726828977
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1215 🔻  (392)|
-| ELO Competitive | 1245 🔻  (413)|
+| ELO Regular | 1228 🔻  (315)|
+| ELO Competitive | 1239 🔻  (399)|
 | Total Matches | 4 |
 | Wins | 3 |
-| Losses | 2 |
+| Losses | 1 |
 | Draws | 0 |
 | Streak Record | 3 |
 

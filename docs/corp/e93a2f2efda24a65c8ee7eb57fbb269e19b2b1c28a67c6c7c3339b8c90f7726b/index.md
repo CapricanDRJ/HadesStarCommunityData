@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Alpaca Haven
-description: W:18 L:20 D:0 Bonus ❌
+description: W:18 L:16 D:0 Bonus ❌
 date: 1731652373
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻  (593)|
-| ELO Competitive | 1256 🔻  (382)|
+| ELO Regular | 1207 🔻  (444)|
+| ELO Competitive | 1246 🔻  (377)|
 | Total Matches | 34 |
 | Wins | 18 |
-| Losses | 20 |
+| Losses | 16 |
 | Draws | 0 |
 | Streak Record | 5 |
 

@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​AAAA
-description: W:20 L:13 D:4 Bonus ✅
+description: W:12 L:11 D:3 Bonus ✅
 date: 1731489485
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1298 🔺  (158)|
-| ELO Competitive | 1357 🔺  (202)|
+| ELO Regular | 1266 🔺  (209)|
+| ELO Competitive | 1301 🔺  (250)|
 | Total Matches | 26 |
-| Wins | 20 |
-| Losses | 13 |
-| Draws | 4 |
+| Wins | 12 |
+| Losses | 11 |
+| Draws | 3 |
 | Streak | 4 |
 | Streak Record | 4 |
 

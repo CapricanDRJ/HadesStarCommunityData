@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Ender
-description: W:78 L:36 D:0 Bonus ✅
+description: W:64 L:26 D:0 Bonus ✅
 date: 1731827573
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1374 🔺  (82)|
-| ELO Competitive | 1684 🔺  (8)|
+| ELO Regular | 1366 🔺  (78)|
+| ELO Competitive | 1636 🔺  (8)|
 | Total Matches | 90 |
-| Wins | 78 |
-| Losses | 36 |
+| Wins | 64 |
+| Losses | 26 |
 | Draws | 0 |
 | Streak | 3 |
 | Streak Record | 22 |

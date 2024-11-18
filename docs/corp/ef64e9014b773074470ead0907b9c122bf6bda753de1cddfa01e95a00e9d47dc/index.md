@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Crazy Elite
-description: W:38 L:56 D:0 Bonus ✅
+description: W:34 L:50 D:0 Bonus ✅
 date: 1731846502
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔺  (838)|
-| ELO Competitive | 1336 🔺  (233)|
+| ELO Regular | 1171 🔺  (924)|
+| ELO Competitive | 1304 🔺  (241)|
 | Total Matches | 84 |
-| Wins | 38 |
-| Losses | 56 |
+| Wins | 34 |
+| Losses | 50 |
 | Draws | 0 |
 | Streak Record | 4 |
 

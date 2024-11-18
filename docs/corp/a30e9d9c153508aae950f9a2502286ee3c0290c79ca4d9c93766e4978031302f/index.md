@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Mega Corp
-description: W:0 L:4 D:0 Bonus ❌
+description: W:0 L:3 D:0 Bonus ❌
 date: 1726889394
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1149 🔻  (1062)|
-| ELO Competitive | 1171 🔻  (1077)|
+| ELO Regular | 1159 🔻  (1024)|
+| ELO Competitive | 1166 🔻  (1107)|
 | Total Matches | 3 |
 | Wins | 0 |
-| Losses | 4 |
+| Losses | 3 |
 | Draws | 0 |
 
 

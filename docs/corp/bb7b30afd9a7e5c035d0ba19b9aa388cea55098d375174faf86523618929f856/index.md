@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Kingdom Of Meow
-description: W:0 L:6 D:0 Bonus ❌
+description: W:0 L:4 D:0 Bonus ❌
 date: 1729729016
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1130 🔻  (1131)|
-| ELO Competitive | 1152 🔻  (1181)|
+| ELO Regular | 1151 🔻  (1080)|
+| ELO Competitive | 1164 🔻  (1119)|
 | Total Matches | 4 |
 | Wins | 0 |
-| Losses | 6 |
+| Losses | 4 |
 | Draws | 0 |
 
 

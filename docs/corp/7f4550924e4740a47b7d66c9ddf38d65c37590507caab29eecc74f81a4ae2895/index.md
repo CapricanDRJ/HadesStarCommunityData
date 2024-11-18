@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​DeutschlandGmbH
-description: W:7 L:12 D:0 Bonus ❌
+description: W:6 L:8 D:0 Bonus ❌
 date: 1731859426
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1127 🔻  (1141)|
-| ELO Competitive | 1187 🔻  (812)|
+| ELO Regular | 1157 🔻  (1042)|
+| ELO Competitive | 1187 🔻  (772)|
 | Total Matches | 14 |
-| Wins | 7 |
-| Losses | 12 |
+| Wins | 6 |
+| Losses | 8 |
 | Draws | 0 |
 | Streak Record | 4 |
 

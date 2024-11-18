@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​No Orbit©
-description: W:17 L:10 D:0 Bonus ❌
+description: W:15 L:8 D:0 Bonus ❌
 date: 1730472014
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1262 🔻  (232)|
-| ELO Competitive | 1297 🔻  (292)|
+| ELO Regular | 1267 🔻  (203)|
+| ELO Competitive | 1296 🔻  (261)|
 | Total Matches | 23 |
-| Wins | 17 |
-| Losses | 10 |
+| Wins | 15 |
+| Losses | 8 |
 | Draws | 0 |
-| Streak Record | 4 |
+| Streak Record | 6 |
 
 
 # Whitestar Match Day

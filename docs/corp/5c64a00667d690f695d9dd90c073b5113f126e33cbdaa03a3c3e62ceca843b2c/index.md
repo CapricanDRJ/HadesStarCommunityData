@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​FoxTale
-description: W:0 L:4 D:0 Bonus ❌
+description: W:0 L:3 D:0 Bonus ❌
 date: 1731487682
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1152 🔻  (1047)|
-| ELO Competitive | 1167 🔻  (1115)|
+| ELO Regular | 1162 🔻  (1009)|
+| ELO Competitive | 1165 🔻  (1114)|
 | Total Matches | 3 |
 | Wins | 0 |
-| Losses | 4 |
+| Losses | 3 |
 | Draws | 0 |
 
 

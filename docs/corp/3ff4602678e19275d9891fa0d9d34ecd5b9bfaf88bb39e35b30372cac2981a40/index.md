@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​pirates spatial
-description: W:60 L:46 D:0 Bonus ✅
+description: W:52 L:39 D:0 Bonus ✅
 date: 1731779200
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1290 🔻  (172)|
-| ELO Competitive | 1538 🔺  (45)|
+| ELO Regular | 1287 🔻  (164)|
+| ELO Competitive | 1509 🔺  (41)|
 | Total Matches | 91 |
-| Wins | 60 |
-| Losses | 46 |
+| Wins | 52 |
+| Losses | 39 |
 | Draws | 0 |
 | Streak Record | 9 |
 

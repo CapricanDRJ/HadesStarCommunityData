@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​BAB
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌
 date: 1731253005
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (872)|
-| ELO Competitive | 1187 🔻  (803)|
+| ELO Regular | 1186 🔻  (680)|
+| ELO Competitive | 1186 🔻  (825)|
 | Total Matches | 1 |
 | Wins | 0 |
-| Losses | 2 |
+| Losses | 1 |
 | Draws | 0 |
 
 

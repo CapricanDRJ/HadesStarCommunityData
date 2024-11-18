@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Hun Generals
-description: W:12 L:75 D:0 Bonus ❌
+description: W:11 L:59 D:0 Bonus ❌
 date: 1731747642
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 893 🔻  (1316)|
-| ELO Competitive | 1122 🔻  (1256)|
+| ELO Regular | 919 🔻  (1316)|
+| ELO Competitive | 1120 🔻  (1256)|
 | Total Matches | 70 |
-| Wins | 12 |
-| Losses | 75 |
+| Wins | 11 |
+| Losses | 59 |
 | Draws | 0 |
 | Streak Record | 3 |
 

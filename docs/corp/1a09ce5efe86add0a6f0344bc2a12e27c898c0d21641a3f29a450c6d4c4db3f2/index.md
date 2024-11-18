@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Helion Prime
-description: W:14 L:7 D:0 Bonus ❌
+description: W:11 L:6 D:0 Bonus ❌
 date: 1728870811
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1323 🔺  (129)|
-| ELO Competitive | 1395 🔺  (158)|
+| ELO Regular | 1300 🔺  (142)|
+| ELO Competitive | 1341 🔺  (196)|
 | Total Matches | 17 |
-| Wins | 14 |
-| Losses | 7 |
+| Wins | 11 |
+| Losses | 6 |
 | Draws | 0 |
 | Streak | 2 |
 | Streak Record | 5 |

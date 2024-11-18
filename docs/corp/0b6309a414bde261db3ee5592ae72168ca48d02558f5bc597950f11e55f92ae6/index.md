@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Quantum Cats
-description: W:8 L:8 D:0 Bonus ❌
+description: W:6 L:6 D:0 Bonus ❌
 date: 1731396634
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔻  (375)|
-| ELO Competitive | 1276 🔻  (332)|
+| ELO Regular | 1213 🔻  (417)|
+| ELO Competitive | 1246 🔻  (376)|
 | Total Matches | 12 |
-| Wins | 8 |
-| Losses | 8 |
+| Wins | 6 |
+| Losses | 6 |
 | Draws | 0 |
 | Streak Record | 2 |
 

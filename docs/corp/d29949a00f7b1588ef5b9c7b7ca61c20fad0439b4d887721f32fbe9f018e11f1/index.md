@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Elysium
-description: W:49 L:13 D:0 Bonus ✅
+description: W:41 L:12 D:0 Bonus ✅
 date: 1731729617
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1454 🔺  (30)|
-| ELO Competitive | 1546 🔺  (39)|
+| ELO Regular | 1438 🔺  (31)|
+| ELO Competitive | 1511 🔺  (40)|
 | Total Matches | 53 |
-| Wins | 49 |
-| Losses | 13 |
+| Wins | 41 |
+| Losses | 12 |
 | Draws | 0 |
 | Streak | 6 |
-| Streak Record | 15 |
+| Streak Record | 10 |
 
 
 # Whitestar Match Day

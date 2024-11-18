@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​101
-description: W:51 L:79 D:5 Bonus ❌
+description: W:46 L:66 D:5 Bonus ❌
 date: 1731472660
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1101 🔻  (1219)|
-| ELO Competitive | 1456 🔻  (105)|
+| ELO Regular | 1104 🔻  (1227)|
+| ELO Competitive | 1438 🔻  (95)|
 | Total Matches | 117 |
-| Wins | 51 |
-| Losses | 79 |
+| Wins | 46 |
+| Losses | 66 |
 | Draws | 5 |
-| Streak Record | 8 |
+| Streak Record | 10 |
 
 
 # Whitestar Match Day

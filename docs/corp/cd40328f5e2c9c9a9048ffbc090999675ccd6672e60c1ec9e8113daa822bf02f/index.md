@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Intari
-description: W:0 L:2 D:1 Bonus ❌
+description: W:0 L:1 D:1 Bonus ❌
 date: 1726772074
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔻  (948)|
-| ELO Competitive | 1183 🔻  (962)|
+| ELO Regular | 1183 🔻  (793)|
+| ELO Competitive | 1183 🔻  (933)|
 | Total Matches | 2 |
 | Wins | 0 |
-| Losses | 2 |
+| Losses | 1 |
 | Draws | 1 |
 
 

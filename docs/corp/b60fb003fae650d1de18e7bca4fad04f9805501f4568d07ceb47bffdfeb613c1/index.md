@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Nox Imperium
-description: W:26 L:2 D:0 Bonus ✅
+description: W:16 L:2 D:0 Bonus ✅
 date: 1731778899
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1411 🔺  (53)|
-| ELO Competitive | 1456 🔺  (107)|
+| ELO Regular | 1346 🔺  (91)|
+| ELO Competitive | 1370 🔺  (158)|
 | Total Matches | 18 |
-| Wins | 26 |
+| Wins | 16 |
 | Losses | 2 |
 | Draws | 0 |
 | Streak | 12 |

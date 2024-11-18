@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​The New Light
-description: W:19 L:22 D:1 Bonus ❌
+description: W:18 L:21 D:1 Bonus ❌
 date: 1729138887
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1179 🔻  (797)|
-| ELO Competitive | 1235 🔻  (443)|
+| ELO Regular | 1178 🔻  (838)|
+| ELO Competitive | 1224 🔻  (452)|
 | Total Matches | 40 |
-| Wins | 19 |
-| Losses | 22 |
+| Wins | 18 |
+| Losses | 21 |
 | Draws | 1 |
-| Streak Record | 5 |
+| Streak Record | 4 |
 
 
 # Whitestar Match Day

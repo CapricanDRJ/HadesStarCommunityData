@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​ua online
-description: W:0 L:2 D:2 Bonus ❌
+description: W:0 L:2 D:1 Bonus ❌
 date: 1727170260
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1163 🔻  (981)|
-| ELO Competitive | 1182 🔻  (965)|
+| ELO Regular | 1163 🔻  (1000)|
+| ELO Competitive | 1166 🔻  (1101)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 2 |
-| Draws | 2 |
+| Draws | 1 |
 
 
 # Whitestar Match Day

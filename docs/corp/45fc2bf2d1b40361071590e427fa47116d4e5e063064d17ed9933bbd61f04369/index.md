@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Deadspace
-description: W:30 L:37 D:0 Bonus ❌
+description: W:25 L:32 D:0 Bonus ❌
 date: 1731220551
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1232 🔻  (316)|
-| ELO Competitive | 1350 🔻  (210)|
+| ELO Regular | 1228 🔻  (316)|
+| ELO Competitive | 1311 🔻  (229)|
 | Total Matches | 57 |
-| Wins | 30 |
-| Losses | 37 |
+| Wins | 25 |
+| Losses | 32 |
 | Draws | 0 |
-| Streak Record | 6 |
+| Streak Record | 4 |
 
 
 # Whitestar Match Day

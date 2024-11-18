@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​First Squad
-description: W:8 L:23 D:2 Bonus ❌
+description: W:5 L:15 D:1 Bonus ❌
 date: 1730241827
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1048 🔻  (1275)|
-| ELO Competitive | 1154 🔻  (1168)|
+| ELO Regular | 1087 🔻  (1252)|
+| ELO Competitive | 1157 🔻  (1160)|
 | Total Matches | 21 |
-| Wins | 8 |
-| Losses | 23 |
-| Draws | 2 |
+| Wins | 5 |
+| Losses | 15 |
+| Draws | 1 |
 | Streak Record | 4 |
 
 

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Syndicated Fed
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌
 date: 1729806110
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔻  (924)|
-| ELO Competitive | 1186 🔻  (856)|
+| ELO Regular | 1184 🔻  (766)|
+| ELO Competitive | 1185 🔻  (903)|
 | Total Matches | 1 |
 | Wins | 0 |
-| Losses | 2 |
+| Losses | 1 |
 | Draws | 0 |
 
 

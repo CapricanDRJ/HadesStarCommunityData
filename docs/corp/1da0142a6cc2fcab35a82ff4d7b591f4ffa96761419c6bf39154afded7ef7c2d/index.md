@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​Orden Estelar 
-description: W:7 L:9 D:3 Bonus ❌
+description: W:7 L:8 D:2 Bonus ❌
 date: 1731321511
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1192 🔻  (551)|
-| ELO Competitive | 1215 🔺  (550)|
+| ELO Regular | 1197 🔻  (522)|
+| ELO Competitive | 1216 🔺  (498)|
 | Total Matches | 17 |
 | Wins | 7 |
-| Losses | 9 |
-| Draws | 3 |
+| Losses | 8 |
+| Draws | 2 |
 | Streak Record | 4 |
 
 

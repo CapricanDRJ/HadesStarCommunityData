@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Lights Off 
-description: W:26 L:18 D:0 Bonus ❌
+description: W:26 L:15 D:0 Bonus ❌
 date: 1730582606
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1235 🔻  (308)|
-| ELO Competitive | 1307 🔻  (272)|
+| ELO Regular | 1243 🔻  (267)|
+| ELO Competitive | 1283 🔻  (284)|
 | Total Matches | 41 |
 | Wins | 26 |
-| Losses | 18 |
+| Losses | 15 |
 | Draws | 0 |
 | Streak Record | 10 |
 

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Blood Hounds
-description: W:84 L:26 D:1 Bonus ✅
+description: W:73 L:19 D:1 Bonus ✅
 date: 1731486781
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1429 🔻  (41)|
-| ELO Competitive | 1632 🔺  (14)|
+| ELO Regular | 1425 🔻  (36)|
+| ELO Competitive | 1600 🔺  (13)|
 | Total Matches | 93 |
-| Wins | 84 |
-| Losses | 26 |
+| Wins | 73 |
+| Losses | 19 |
 | Draws | 1 |
 | Streak Record | 15 |
 

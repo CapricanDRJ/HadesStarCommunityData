@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​RedStar Raiding
-description: W:12 L:49 D:1 Bonus ❌
+description: W:10 L:42 D:1 Bonus ❌
 date: 1731885272
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1008 🔻  (1299)|
-| ELO Competitive | 1088 🔻  (1289)|
+| ELO Regular | 1020 🔻  (1297)|
+| ELO Competitive | 1077 🔻  (1297)|
 | Total Matches | 53 |
-| Wins | 12 |
-| Losses | 49 |
+| Wins | 10 |
+| Losses | 42 |
 | Draws | 1 |
 | Streak Record | 3 |
 

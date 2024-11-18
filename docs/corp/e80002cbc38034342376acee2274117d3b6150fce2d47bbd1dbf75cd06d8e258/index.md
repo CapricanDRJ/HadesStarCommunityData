@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​OPA
-description: W:49 L:17 D:0 Bonus ❌
+description: W:41 L:14 D:0 Bonus ❌
 date: 1731458540
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1410 🔻  (55)|
-| ELO Competitive | 1486 🔻  (79)|
+| ELO Regular | 1403 🔻  (47)|
+| ELO Competitive | 1462 🔻  (73)|
 | Total Matches | 55 |
-| Wins | 49 |
-| Losses | 17 |
+| Wins | 41 |
+| Losses | 14 |
 | Draws | 0 |
-| Streak Record | 12 |
+| Streak Record | 9 |
 
 
 # Whitestar Match Day

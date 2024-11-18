@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Legion
-description: W:43 L:34 D:0 Bonus ✅
+description: W:34 L:31 D:0 Bonus ✅
 date: 1731881366
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1352 🔺  (96)|
-| ELO Competitive | 1515 🔺  (59)|
+| ELO Regular | 1334 🔺  (108)|
+| ELO Competitive | 1458 🔺  (75)|
 | Total Matches | 65 |
-| Wins | 43 |
-| Losses | 34 |
+| Wins | 34 |
+| Losses | 31 |
 | Draws | 0 |
 | Streak | 2 |
 | Streak Record | 5 |

@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Warriorlords
-description: W:33 L:20 D:0 Bonus ✅
+description: W:28 L:16 D:0 Bonus ✅
 date: 1731341347
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1319 🔺  (134)|
-| ELO Competitive | 1458 🔺  (104)|
+| ELO Regular | 1315 🔺  (126)|
+| ELO Competitive | 1444 🔺  (86)|
 | Total Matches | 44 |
-| Wins | 33 |
-| Losses | 20 |
+| Wins | 28 |
+| Losses | 16 |
 | Draws | 0 |
-| Streak Record | 7 |
+| Streak Record | 8 |
 
 
 # Whitestar Match Day

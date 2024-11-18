@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​Germania
-description: W:18 L:35 D:4 Bonus ❌
+description: W:17 L:29 D:3 Bonus ❌
 date: 1731451030
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1034 🔻  (1286)|
-| ELO Competitive | 1127 🔻  (1250)|
+| ELO Regular | 1057 🔻  (1272)|
+| ELO Competitive | 1125 🔻  (1249)|
 | Total Matches | 49 |
-| Wins | 18 |
-| Losses | 35 |
-| Draws | 4 |
+| Wins | 17 |
+| Losses | 29 |
+| Draws | 3 |
 | Streak Record | 4 |
 
 

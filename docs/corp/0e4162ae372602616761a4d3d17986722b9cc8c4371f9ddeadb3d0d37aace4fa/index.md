@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Grater U
-description: W:1 L:3 D:0 Bonus ❌
+description: W:1 L:2 D:0 Bonus ❌
 date: 1728124618
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻  (592)|
-| ELO Competitive | 1202 🔻  (618)|
+| ELO Regular | 1199 🔻  (509)|
+| ELO Competitive | 1202 🔻  (584)|
 | Total Matches | 3 |
 | Wins | 1 |
-| Losses | 3 |
+| Losses | 2 |
 | Draws | 0 |
 
 

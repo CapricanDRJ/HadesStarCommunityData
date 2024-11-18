@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Death Flight
-description: W:26 L:89 D:1 Bonus ❌
+description: W:21 L:70 D:1 Bonus ❌
 date: 1731799935
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 986 🔻  (1303)|
-| ELO Competitive | 1175 🔻  (1029)|
+| ELO Regular | 993 🔻  (1304)|
+| ELO Competitive | 1153 🔻  (1173)|
 | Total Matches | 92 |
-| Wins | 26 |
-| Losses | 89 |
+| Wins | 21 |
+| Losses | 70 |
 | Draws | 1 |
 | Streak Record | 3 |
 

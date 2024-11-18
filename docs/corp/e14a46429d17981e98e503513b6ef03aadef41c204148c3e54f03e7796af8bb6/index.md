@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Proxima
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌
 date: 1731754513
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻  (597)|
-| ELO Competitive | 1197 🔻  (670)|
+| ELO Regular | 1195 🔻  (530)|
+| ELO Competitive | 1196 🔻  (650)|
 | Total Matches | 1 |
 | Wins | 0 |
-| Losses | 2 |
+| Losses | 1 |
 | Draws | 0 |
 
 

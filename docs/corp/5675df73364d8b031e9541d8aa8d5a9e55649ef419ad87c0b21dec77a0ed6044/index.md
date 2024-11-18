@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​nuevo mundo
-description: W:11 L:9 D:0 Bonus ✅
+description: W:9 L:9 D:0 Bonus ✅
 date: 1731784609
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1246 🔺  (270)|
-| ELO Competitive | 1291 🔺  (305)|
+| ELO Regular | 1234 🔺  (299)|
+| ELO Competitive | 1256 🔺  (351)|
 | Total Matches | 18 |
-| Wins | 11 |
+| Wins | 9 |
 | Losses | 9 |
 | Draws | 0 |
 | Streak | 2 |

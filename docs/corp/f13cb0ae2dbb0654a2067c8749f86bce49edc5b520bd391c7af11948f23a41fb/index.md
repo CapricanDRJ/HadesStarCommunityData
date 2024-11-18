@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​The X - Files
-description: W:3 L:61 D:0 Bonus ❌
+description: W:3 L:52 D:0 Bonus ❌
 date: 1731700470
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 875 🔻  (1318)|
-| ELO Competitive | 939 🔻  (1324)|
+| ELO Regular | 902 🔻  (1319)|
+| ELO Competitive | 938 🔻  (1323)|
 | Total Matches | 55 |
 | Wins | 3 |
-| Losses | 61 |
+| Losses | 52 |
 | Draws | 0 |
 
 

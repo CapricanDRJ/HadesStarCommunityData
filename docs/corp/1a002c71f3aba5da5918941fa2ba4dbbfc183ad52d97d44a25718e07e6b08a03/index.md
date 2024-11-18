@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​OntarioDawn
-description: W:53 L:10 D:0 Bonus ✅
+description: W:46 L:8 D:0 Bonus ✅
 date: 1731780402
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1449 🔺  (33)|
-| ELO Competitive | 1504 🔺  (68)|
+| ELO Regular | 1443 🔺  (28)|
+| ELO Competitive | 1488 🔺  (55)|
 | Total Matches | 54 |
-| Wins | 53 |
-| Losses | 10 |
+| Wins | 46 |
+| Losses | 8 |
 | Draws | 0 |
-| Streak Record | 12 |
+| Streak Record | 23 |
 
 
 # Whitestar Match Day

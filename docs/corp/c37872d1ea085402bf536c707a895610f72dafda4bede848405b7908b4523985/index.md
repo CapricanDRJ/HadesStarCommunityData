@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Galaktika corp
-description: W:16 L:24 D:2 Bonus ❌
+description: W:16 L:18 D:2 Bonus ❌
 date: 1729773045
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1108 🔻  (1203)|
-| ELO Competitive | 1181 🔻  (972)|
+| ELO Regular | 1134 🔻  (1146)|
+| ELO Competitive | 1183 🔻  (943)|
 | Total Matches | 36 |
 | Wins | 16 |
-| Losses | 24 |
+| Losses | 18 |
 | Draws | 2 |
 | Streak Record | 5 |
 

@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Españoles
-description: W:27 L:62 D:0 Bonus ✅
+description: W:21 L:56 D:0 Bonus ✅
 date: 1731878060
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1108 🔺  (1204)|
-| ELO Competitive | 1231 🔺  (458)|
+| ELO Regular | 1105 🔺  (1226)|
+| ELO Competitive | 1198 🔺  (629)|
 | Total Matches | 77 |
-| Wins | 27 |
-| Losses | 62 |
+| Wins | 21 |
+| Losses | 56 |
 | Draws | 0 |
 | Streak | 2 |
-| Streak Record | 4 |
+| Streak Record | 3 |
 
 
 # Whitestar Match Day

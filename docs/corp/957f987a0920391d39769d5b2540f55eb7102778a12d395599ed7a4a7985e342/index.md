@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​Stellaris
-description: W:5 L:16 D:2 Bonus ❌
+description: W:3 L:12 D:1 Bonus ❌
 date: 1730712478
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1113 🔻  (1184)|
-| ELO Competitive | 1168 🔻  (1110)|
+| ELO Regular | 1126 🔻  (1167)|
+| ELO Competitive | 1155 🔻  (1170)|
 | Total Matches | 16 |
-| Wins | 5 |
-| Losses | 16 |
-| Draws | 2 |
+| Wins | 3 |
+| Losses | 12 |
+| Draws | 1 |
 | Streak Record | 2 |
 
 

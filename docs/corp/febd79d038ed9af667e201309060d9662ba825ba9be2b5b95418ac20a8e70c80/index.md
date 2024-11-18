@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Ark
-description: W:62 L:21 D:1 Bonus ❌
+description: W:55 L:15 D:1 Bonus ❌
 date: 1731832680
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1396 🔻  (64)|
-| ELO Competitive | 1558 🔻  (36)|
+| ELO Regular | 1399 🔻  (52)|
+| ELO Competitive | 1530 🔻  (35)|
 | Total Matches | 71 |
-| Wins | 62 |
-| Losses | 21 |
+| Wins | 55 |
+| Losses | 15 |
 | Draws | 1 |
-| Streak Record | 17 |
+| Streak Record | 24 |
 
 
 # Whitestar Match Day

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Pixies
-description: W:14 L:5 D:0 Bonus ✅
+description: W:10 L:4 D:0 Bonus ✅
 date: 1731361483
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1286 🔺  (181)|
-| ELO Competitive | 1329 🔺  (245)|
+| ELO Regular | 1269 🔺  (196)|
+| ELO Competitive | 1309 🔺  (233)|
 | Total Matches | 14 |
-| Wins | 14 |
-| Losses | 5 |
+| Wins | 10 |
+| Losses | 4 |
 | Draws | 0 |
 | Streak Record | 6 |
 

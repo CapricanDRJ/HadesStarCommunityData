@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Bund von Lykon
-description: W:2 L:14 D:0 Bonus ❌
+description: W:2 L:12 D:0 Bonus ❌
 date: 1731506313
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1081 🔻  (1248)|
-| ELO Competitive | 1141 🔻  (1220)|
+| ELO Regular | 1100 🔻  (1233)|
+| ELO Competitive | 1142 🔻  (1218)|
 | Total Matches | 14 |
 | Wins | 2 |
-| Losses | 14 |
+| Losses | 12 |
 | Draws | 0 |
 
 

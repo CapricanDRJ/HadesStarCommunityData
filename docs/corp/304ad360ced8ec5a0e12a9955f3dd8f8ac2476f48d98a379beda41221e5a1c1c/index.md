@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Stardust
-description: W:2 L:20 D:0 Bonus ❌
+description: W:2 L:18 D:0 Bonus ❌
 date: 1731169168
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1061 🔻  (1261)|
-| ELO Competitive | 1128 🔻  (1249)|
+| ELO Regular | 1078 🔻  (1259)|
+| ELO Competitive | 1123 🔻  (1252)|
 | Total Matches | 20 |
 | Wins | 2 |
-| Losses | 20 |
+| Losses | 18 |
 | Draws | 0 |
 
 

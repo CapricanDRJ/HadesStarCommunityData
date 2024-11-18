@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Brasil
-description: W:6 L:4 D:0 Bonus ✅
+description: W:4 L:4 D:0 Bonus ✅
 date: 1731508718
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1226 🔺  (342)|
-| ELO Competitive | 1244 🔺  (415)|
+| ELO Regular | 1206 🔺  (452)|
+| ELO Competitive | 1214 🔺  (531)|
 | Total Matches | 8 |
-| Wins | 6 |
+| Wins | 4 |
 | Losses | 4 |
 | Draws | 0 |
 | Streak | 2 |

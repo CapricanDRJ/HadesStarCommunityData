@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Fang Empire
-description: W:0 L:3 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌
 date: 1727187389
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1151 🔻  (1054)|
-| ELO Competitive | 1172 🔻  (1059)|
+| ELO Regular | 1166 🔻  (974)|
+| ELO Competitive | 1172 🔻  (1048)|
 | Total Matches | 2 |
 | Wins | 0 |
-| Losses | 3 |
+| Losses | 2 |
 | Draws | 0 |
 
 

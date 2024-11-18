@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Survivors
-description: W:4 L:16 D:1 Bonus ❌
+description: W:4 L:14 D:1 Bonus ❌
 date: 1730566676
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1072 🔻  (1252)|
-| ELO Competitive | 1113 🔻  (1271)|
+| ELO Regular | 1089 🔻  (1249)|
+| ELO Competitive | 1108 🔻  (1275)|
 | Total Matches | 19 |
 | Wins | 4 |
-| Losses | 16 |
+| Losses | 14 |
 | Draws | 1 |
 
 

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Tormenta
-description: W:3 L:13 D:0 Bonus ❌
+description: W:3 L:12 D:0 Bonus ❌
 date: 1727601157
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1133 🔻  (1122)|
-| ELO Competitive | 1169 🔻  (1105)|
+| ELO Regular | 1137 🔻  (1140)|
+| ELO Competitive | 1161 🔻  (1137)|
 | Total Matches | 15 |
 | Wins | 3 |
-| Losses | 13 |
+| Losses | 12 |
 | Draws | 0 |
 | Streak Record | 2 |
 

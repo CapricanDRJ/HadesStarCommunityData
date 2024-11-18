@@ -1,21 +1,19 @@
 ---
 layout: page
 title: ​Star tap
-description: W:2 L:0 D:0 Bonus ❌
+description: W:1 L:0 D:0 Bonus ❌
 date: 1727124295
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1222 🔺  (354)|
-| ELO Competitive | 1214 🔺  (551)|
+| ELO Regular | 1210 🔺  (436)|
+| ELO Competitive | 1210 🔺  (556)|
 | Total Matches | 1 |
-| Wins | 2 |
+| Wins | 1 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 2 |
-| Streak Record | 2 |
 
 
 # Whitestar Match Day

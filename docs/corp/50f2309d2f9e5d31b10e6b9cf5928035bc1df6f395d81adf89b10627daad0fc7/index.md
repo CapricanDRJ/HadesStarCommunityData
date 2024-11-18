@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Legión
-description: W:1 L:5 D:0 Bonus ❌
+description: W:1 L:4 D:0 Bonus ❌
 date: 1728743695
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1144 🔻  (1083)|
-| ELO Competitive | 1171 🔻  (1081)|
+| ELO Regular | 1157 🔻  (1043)|
+| ELO Competitive | 1168 🔻  (1088)|
 | Total Matches | 5 |
 | Wins | 1 |
-| Losses | 5 |
+| Losses | 4 |
 | Draws | 0 |
 
 

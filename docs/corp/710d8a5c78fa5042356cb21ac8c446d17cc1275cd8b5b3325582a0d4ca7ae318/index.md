@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​SONS OF SUNS
-description: W:0 L:5 D:0 Bonus ❌
+description: W:0 L:4 D:0 Bonus ❌
 date: 1730452430
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1128 🔻  (1138)|
-| ELO Competitive | 1143 🔻  (1211)|
+| ELO Regular | 1144 🔻  (1113)|
+| ELO Competitive | 1144 🔻  (1208)|
 | Total Matches | 4 |
 | Wins | 0 |
-| Losses | 5 |
+| Losses | 4 |
 | Draws | 0 |
 
 

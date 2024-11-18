@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​ITALIA
-description: W:10 L:0 D:0 Bonus ✅
+description: W:5 L:0 D:0 Bonus ✅
 date: 1731884971
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1337 🔺  (114)|
-| ELO Competitive | 1337 🔺  (230)|
+| ELO Regular | 1276 🔺  (181)|
+| ELO Competitive | 1281 🔺  (293)|
 | Total Matches | 5 |
-| Wins | 10 |
+| Wins | 5 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 10 |
-| Streak Record | 10 |
+| Streak | 5 |
+| Streak Record | 5 |
 
 
 # Whitestar Match Day

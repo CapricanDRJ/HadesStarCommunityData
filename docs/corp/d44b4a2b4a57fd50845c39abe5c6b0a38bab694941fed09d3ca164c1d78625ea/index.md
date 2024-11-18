@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Bounty Hunters
-description: W:7 L:7 D:0 Bonus ❌
+description: W:7 L:6 D:0 Bonus ❌
 date: 1730214778
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1209 🔻  (442)|
-| ELO Competitive | 1260 🔻  (372)|
+| ELO Regular | 1219 🔻  (355)|
+| ELO Competitive | 1252 🔻  (361)|
 | Total Matches | 13 |
 | Wins | 7 |
-| Losses | 7 |
+| Losses | 6 |
 | Draws | 0 |
 | Streak Record | 3 |
 

@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Hermitage
-description: W:15 L:9 D:0 Bonus ❌
+description: W:13 L:8 D:0 Bonus ❌
 date: 1729244103
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1266 🔻  (225)|
-| ELO Competitive | 1323 🔻  (253)|
+| ELO Regular | 1256 🔻  (233)|
+| ELO Competitive | 1292 🔻  (267)|
 | Total Matches | 21 |
-| Wins | 15 |
-| Losses | 9 |
+| Wins | 13 |
+| Losses | 8 |
 | Draws | 0 |
-| Streak Record | 4 |
+| Streak Record | 5 |
 
 
 # Whitestar Match Day

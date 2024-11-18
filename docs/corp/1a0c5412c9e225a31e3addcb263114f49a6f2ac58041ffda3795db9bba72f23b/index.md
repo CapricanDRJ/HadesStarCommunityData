@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Kratos
-description: W:50 L:29 D:0 Bonus ❌
+description: W:46 L:26 D:0 Bonus ❌
 date: 1731629838
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1287 🔻  (180)|
-| ELO Competitive | 1418 🔻  (134)|
+| ELO Regular | 1289 🔻  (156)|
+| ELO Competitive | 1405 🔻  (119)|
 | Total Matches | 72 |
-| Wins | 50 |
-| Losses | 29 |
+| Wins | 46 |
+| Losses | 26 |
 | Draws | 0 |
-| Streak Record | 7 |
+| Streak Record | 6 |
 
 
 # Whitestar Match Day

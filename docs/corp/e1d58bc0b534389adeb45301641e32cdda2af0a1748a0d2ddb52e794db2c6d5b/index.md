@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​EarthFederation
-description: W:7 L:3 D:0 Bonus ✅
+description: W:4 L:2 D:0 Bonus ✅
 date: 1731474463
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1245 🔺  (275)|
-| ELO Competitive | 1250 🔺  (402)|
+| ELO Regular | 1223 🔺  (332)|
+| ELO Competitive | 1232 🔺  (419)|
 | Total Matches | 6 |
-| Wins | 7 |
-| Losses | 3 |
+| Wins | 4 |
+| Losses | 2 |
 | Draws | 0 |
 | Streak | 2 |
-| Streak Record | 3 |
+| Streak Record | 2 |
 
 
 # Whitestar Match Day

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​The Base
-description: W:0 L:7 D:0 Bonus ❌
+description: W:0 L:6 D:0 Bonus ❌
 date: 1727601758
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1110 🔻  (1198)|
-| ELO Competitive | 1132 🔻  (1243)|
+| ELO Regular | 1117 🔻  (1189)|
+| ELO Competitive | 1123 🔻  (1253)|
 | Total Matches | 6 |
 | Wins | 0 |
-| Losses | 7 |
+| Losses | 6 |
 | Draws | 0 |
 
 

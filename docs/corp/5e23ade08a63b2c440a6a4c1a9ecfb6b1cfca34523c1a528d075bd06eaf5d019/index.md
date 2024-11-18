@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​QONQR 
-description: W:10 L:9 D:0 Bonus ✅
+description: W:5 L:5 D:0 Bonus ✅
 date: 1731502105
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1240 🔺  (294)|
-| ELO Competitive | 1265 🔺  (356)|
+| ELO Regular | 1223 🔺  (333)|
+| ELO Competitive | 1235 🔺  (409)|
 | Total Matches | 10 |
-| Wins | 10 |
-| Losses | 9 |
+| Wins | 5 |
+| Losses | 5 |
 | Draws | 0 |
 | Streak | 3 |
 | Streak Record | 3 |

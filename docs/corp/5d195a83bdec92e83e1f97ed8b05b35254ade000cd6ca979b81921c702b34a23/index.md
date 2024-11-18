@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​VoidRunners
-description: W:86 L:59 D:1 Bonus ✅
+description: W:74 L:47 D:1 Bonus ✅
 date: 1731762066
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1245 🔻  (274)|
-| ELO Competitive | 1559 🔺  (35)|
+| ELO Regular | 1244 🔻  (263)|
+| ELO Competitive | 1537 🔺  (33)|
 | Total Matches | 122 |
-| Wins | 86 |
-| Losses | 59 |
+| Wins | 74 |
+| Losses | 47 |
 | Draws | 1 |
 | Streak Record | 7 |
 

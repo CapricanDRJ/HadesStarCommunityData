@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​Megacorp
-description: W:1 L:0 D:2 Bonus ❌
+description: W:1 L:0 D:1 Bonus ❌
 date: 1731125874
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1209 🔻  (448)|
-| ELO Competitive | 1213 🔻  (569)|
+| ELO Regular | 1212 🔻  (425)|
+| ELO Competitive | 1212 🔻  (542)|
 | Total Matches | 2 |
 | Wins | 1 |
 | Losses | 0 |
-| Draws | 2 |
+| Draws | 1 |
 
 
 # Whitestar Match Day

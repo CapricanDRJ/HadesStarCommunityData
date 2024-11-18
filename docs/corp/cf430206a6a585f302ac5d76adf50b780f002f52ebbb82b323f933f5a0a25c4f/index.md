@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​Stargroup
-description: W:0 L:0 D:2 Bonus ❌
+description: W:0 L:0 D:1 Bonus ❌
 date: 1728199900
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1197 🔻  (517)|
-| ELO Competitive | 1201 🔺  (627)|
+| ELO Regular | 1197 🔻  (518)|
+| ELO Competitive | 1201 🔺  (597)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 0 |
-| Draws | 2 |
+| Draws | 1 |
 
 
 # Whitestar Match Day

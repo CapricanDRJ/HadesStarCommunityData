@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Snowflake Union
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:1 D:0 Bonus ❌
 date: 1727174166
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (842)|
-| ELO Competitive | 1190 🔻  (757)|
+| ELO Regular | 1188 🔻  (615)|
+| ELO Competitive | 1188 🔻  (761)|
 | Total Matches | 1 |
 | Wins | 0 |
-| Losses | 2 |
+| Losses | 1 |
 | Draws | 0 |
 
 

@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Embers Rising
-description: W:29 L:14 D:0 Bonus ❌
+description: W:28 L:10 D:0 Bonus ❌
 date: 1729897467
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1322 🔻  (130)|
-| ELO Competitive | 1413 🔻  (141)|
+| ELO Regular | 1334 🔻  (104)|
+| ELO Competitive | 1399 🔻  (124)|
 | Total Matches | 38 |
-| Wins | 29 |
-| Losses | 14 |
+| Wins | 28 |
+| Losses | 10 |
 | Draws | 0 |
-| Streak Record | 6 |
+| Streak Record | 13 |
 
 
 # Whitestar Match Day

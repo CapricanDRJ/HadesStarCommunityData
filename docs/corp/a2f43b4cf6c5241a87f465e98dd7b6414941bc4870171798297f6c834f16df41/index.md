@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Jesus Followers
-description: W:1 L:6 D:0 Bonus ❌
+description: W:1 L:5 D:0 Bonus ❌
 date: 1731752750
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1155 🔻  (1038)|
-| ELO Competitive | 1174 🔻  (1039)|
+| ELO Regular | 1158 🔻  (1033)|
+| ELO Competitive | 1167 🔻  (1095)|
 | Total Matches | 6 |
 | Wins | 1 |
-| Losses | 6 |
+| Losses | 5 |
 | Draws | 0 |
 
 

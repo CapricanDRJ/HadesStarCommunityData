@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Fleet Corp Ares
-description: W:11 L:14 D:0 Bonus ✅
+description: W:10 L:11 D:0 Bonus ✅
 date: 1731308293
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1209 🔺  (449)|
-| ELO Competitive | 1284 🔺  (316)|
+| ELO Regular | 1217 🔺  (370)|
+| ELO Competitive | 1260 🔺  (337)|
 | Total Matches | 21 |
-| Wins | 11 |
-| Losses | 14 |
+| Wins | 10 |
+| Losses | 11 |
 | Draws | 0 |
 | Streak Record | 6 |
 

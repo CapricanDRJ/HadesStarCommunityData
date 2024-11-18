@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Lofty Mountain
-description: W:17 L:0 D:0 Bonus ✅
+description: W:10 L:0 D:0 Bonus ✅
 date: 1731560705
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1394 🔺  (67)|
-| ELO Competitive | 1430 🔺  (126)|
+| ELO Regular | 1334 🔺  (106)|
+| ELO Competitive | 1361 🔺  (169)|
 | Total Matches | 10 |
-| Wins | 17 |
+| Wins | 10 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 17 |
-| Streak Record | 17 |
+| Streak | 10 |
+| Streak Record | 10 |
 
 
 # Whitestar Match Day

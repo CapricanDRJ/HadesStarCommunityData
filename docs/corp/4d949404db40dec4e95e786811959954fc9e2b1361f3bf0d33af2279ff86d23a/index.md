@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Out landers
-description: W:10 L:11 D:1 Bonus ❌
+description: W:10 L:10 D:1 Bonus ❌
 date: 1729851481
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1209 🔻  (445)|
-| ELO Competitive | 1247 🔻  (408)|
+| ELO Regular | 1215 🔻  (384)|
+| ELO Competitive | 1239 🔻  (401)|
 | Total Matches | 21 |
 | Wins | 10 |
-| Losses | 11 |
+| Losses | 10 |
 | Draws | 1 |
-| Streak Record | 2 |
+| Streak Record | 4 |
 
 
 # Whitestar Match Day

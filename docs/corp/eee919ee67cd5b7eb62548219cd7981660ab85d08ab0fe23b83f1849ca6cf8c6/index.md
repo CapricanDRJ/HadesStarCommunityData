@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​On en a Gros ! 
-description: W:31 L:40 D:0 Bonus ✅
+description: W:27 L:33 D:0 Bonus ✅
 date: 1731760563
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔺  (716)|
-| ELO Competitive | 1339 🔺  (227)|
+| ELO Regular | 1189 🔺  (595)|
+| ELO Competitive | 1319 🔺  (221)|
 | Total Matches | 60 |
-| Wins | 31 |
-| Losses | 40 |
+| Wins | 27 |
+| Losses | 33 |
 | Draws | 0 |
-| Streak Record | 3 |
+| Streak Record | 4 |
 
 
 # Whitestar Match Day

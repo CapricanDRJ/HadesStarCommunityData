@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Stella☆Glow
-description: W:37 L:20 D:1 Bonus ❌
+description: W:34 L:17 D:1 Bonus ❌
 date: 1730116217
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1328 🔻  (126)|
-| ELO Competitive | 1420 🔻  (130)|
+| ELO Regular | 1325 🔻  (117)|
+| ELO Competitive | 1391 🔻  (134)|
 | Total Matches | 52 |
-| Wins | 37 |
-| Losses | 20 |
+| Wins | 34 |
+| Losses | 17 |
 | Draws | 1 |
-| Streak Record | 5 |
+| Streak Record | 9 |
 
 
 # Whitestar Match Day

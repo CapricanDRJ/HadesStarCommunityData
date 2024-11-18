@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​UFSG
-description: W:2 L:4 D:0 Bonus ❌
+description: W:2 L:3 D:0 Bonus ❌
 date: 1726793281
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1179 🔻  (795)|
-| ELO Competitive | 1200 🔻  (644)|
+| ELO Regular | 1192 🔻  (553)|
+| ELO Competitive | 1197 🔻  (643)|
 | Total Matches | 5 |
 | Wins | 2 |
-| Losses | 4 |
+| Losses | 3 |
 | Draws | 0 |
 
 

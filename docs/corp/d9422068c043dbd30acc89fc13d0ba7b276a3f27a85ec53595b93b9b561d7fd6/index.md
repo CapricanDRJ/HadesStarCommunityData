@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Killers from Ua
-description: W:6 L:5 D:0 Bonus ❌
+description: W:6 L:4 D:0 Bonus ❌
 date: 1730115015
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1242 🔻  (287)|
-| ELO Competitive | 1264 🔻  (362)|
+| ELO Regular | 1244 🔻  (265)|
+| ELO Competitive | 1257 🔻  (347)|
 | Total Matches | 10 |
 | Wins | 6 |
-| Losses | 5 |
+| Losses | 4 |
 | Draws | 0 |
 | Streak Record | 3 |
 

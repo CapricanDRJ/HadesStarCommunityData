@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​UniversalCaos
-description: W:1 L:2 D:0 Bonus ❌
+description: W:1 L:1 D:0 Bonus ❌
 date: 1727526037
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1191 🔻  (560)|
-| ELO Competitive | 1206 🔻  (594)|
+| ELO Regular | 1203 🔻  (462)|
+| ELO Competitive | 1205 🔻  (574)|
 | Total Matches | 2 |
 | Wins | 1 |
-| Losses | 2 |
+| Losses | 1 |
 | Draws | 0 |
 
 

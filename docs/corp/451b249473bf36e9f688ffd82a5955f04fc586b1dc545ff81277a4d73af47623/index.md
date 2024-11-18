@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Lost Legion
-description: W:26 L:64 D:0 Bonus ❌
+description: W:25 L:52 D:0 Bonus ❌
 date: 1731881366
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1036 🔻  (1284)|
-| ELO Competitive | 1178 🔻  (995)|
+| ELO Regular | 1050 🔻  (1282)|
+| ELO Competitive | 1163 🔻  (1128)|
 | Total Matches | 77 |
-| Wins | 26 |
-| Losses | 64 |
+| Wins | 25 |
+| Losses | 52 |
 | Draws | 0 |
 | Streak Record | 4 |
 

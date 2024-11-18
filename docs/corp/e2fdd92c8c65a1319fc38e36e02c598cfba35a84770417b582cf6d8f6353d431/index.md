@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​Galaxy knights
-description: W:0 L:2 D:2 Bonus ❌
+description: W:0 L:2 D:1 Bonus ❌
 date: 1727735542
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 🔻  (962)|
-| ELO Competitive | 1173 🔺  (1057)|
+| ELO Regular | 1165 🔻  (988)|
+| ELO Competitive | 1166 🔻  (1108)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 2 |
-| Draws | 2 |
+| Draws | 1 |
 
 
 # Whitestar Match Day

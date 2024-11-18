@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​BlackStar Order
-description: W:84 L:46 D:0 Bonus ✅
+description: W:68 L:42 D:0 Bonus ✅
 date: 1731852513
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1415 🔻  (50)|
-| ELO Competitive | 1704 🔺  (6)|
+| ELO Regular | 1402 🔻  (49)|
+| ELO Competitive | 1649 🔺  (6)|
 | Total Matches | 110 |
-| Wins | 84 |
-| Losses | 46 |
+| Wins | 68 |
+| Losses | 42 |
 | Draws | 0 |
 | Streak Record | 6 |
 

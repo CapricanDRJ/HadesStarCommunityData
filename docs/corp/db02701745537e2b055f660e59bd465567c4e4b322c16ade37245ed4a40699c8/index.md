@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​Russian Style
-description: W:3 L:6 D:2 Bonus ❌
+description: W:3 L:6 D:1 Bonus ❌
 date: 1731046862
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1159 🔻  (995)|
-| ELO Competitive | 1173 🔻  (1050)|
+| ELO Regular | 1161 🔺  (1018)|
+| ELO Competitive | 1164 🔺  (1118)|
 | Total Matches | 10 |
 | Wins | 3 |
 | Losses | 6 |
-| Draws | 2 |
+| Draws | 1 |
 | Streak Record | 2 |
 
 

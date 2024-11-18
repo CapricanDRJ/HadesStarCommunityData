@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Created
-description: W:19 L:28 D:1 Bonus ❌
+description: W:14 L:26 D:1 Bonus ❌
 date: 1731617216
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1198 🔻  (510)|
-| ELO Competitive | 1275 🔻  (336)|
+| ELO Regular | 1180 🔻  (822)|
+| ELO Competitive | 1231 🔻  (422)|
 | Total Matches | 41 |
-| Wins | 19 |
-| Losses | 28 |
+| Wins | 14 |
+| Losses | 26 |
 | Draws | 1 |
 | Streak Record | 5 |
 

@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Ironbear Legion
-description: W:17 L:37 D:0 Bonus ❌
+description: W:16 L:34 D:0 Bonus ❌
 date: 1731096753
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1096 🔻  (1227)|
-| ELO Competitive | 1180 🔻  (984)|
+| ELO Regular | 1101 🔻  (1231)|
+| ELO Competitive | 1169 🔻  (1082)|
 | Total Matches | 50 |
-| Wins | 17 |
-| Losses | 37 |
+| Wins | 16 |
+| Losses | 34 |
 | Draws | 0 |
-| Streak Record | 4 |
+| Streak Record | 7 |
 
 
 # Whitestar Match Day

@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​CIS
-description: W:42 L:14 D:1 Bonus ❌
+description: W:38 L:9 D:1 Bonus ❌
 date: 1731234916
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1371 🔻  (83)|
-| ELO Competitive | 1472 🔻  (86)|
+| ELO Regular | 1377 🔻  (70)|
+| ELO Competitive | 1467 🔻  (68)|
 | Total Matches | 48 |
-| Wins | 42 |
-| Losses | 14 |
+| Wins | 38 |
+| Losses | 9 |
 | Draws | 1 |
-| Streak Record | 11 |
+| Streak Record | 9 |
 
 
 # Whitestar Match Day

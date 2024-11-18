@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​koalition
-description: W:12 L:7 D:1 Bonus ❌
+description: W:11 L:7 D:1 Bonus ❌
 date: 1727906205
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1254 🔺  (251)|
-| ELO Competitive | 1270 🔺  (347)|
+| ELO Regular | 1246 🔺  (256)|
+| ELO Competitive | 1262 🔺  (332)|
 | Total Matches | 19 |
-| Wins | 12 |
+| Wins | 11 |
 | Losses | 7 |
 | Draws | 1 |
 | Streak Record | 8 |

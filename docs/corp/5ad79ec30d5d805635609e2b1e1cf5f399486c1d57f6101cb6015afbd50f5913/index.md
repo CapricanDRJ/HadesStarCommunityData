@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​9-Й СКОРПИОН
-description: W:32 L:6 D:0 Bonus ❌
+description: W:30 L:6 D:0 Bonus ❌
 date: 1730663136
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1459 🔺  (28)|
-| ELO Competitive | 1504 🔺  (69)|
+| ELO Regular | 1447 🔺  (25)|
+| ELO Competitive | 1490 🔺  (54)|
 | Total Matches | 36 |
-| Wins | 32 |
+| Wins | 30 |
 | Losses | 6 |
 | Draws | 0 |
 | Streak | 7 |

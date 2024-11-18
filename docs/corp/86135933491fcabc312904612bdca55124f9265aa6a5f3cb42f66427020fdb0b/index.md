@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Newbs
-description: W:36 L:25 D:1 Bonus ❌
+description: W:33 L:20 D:1 Bonus ❌
 date: 1731361483
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1279 🔻  (200)|
-| ELO Competitive | 1363 🔻  (197)|
+| ELO Regular | 1288 🔻  (158)|
+| ELO Competitive | 1353 🔻  (180)|
 | Total Matches | 54 |
-| Wins | 36 |
-| Losses | 25 |
+| Wins | 33 |
+| Losses | 20 |
 | Draws | 1 |
 | Streak Record | 12 |
 

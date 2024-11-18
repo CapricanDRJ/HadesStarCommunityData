@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​King's Guard
-description: W:25 L:75 D:5 Bonus ❌
+description: W:25 L:67 D:5 Bonus ❌
 date: 1731867241
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 923 🔻  (1315)|
-| ELO Competitive | 1087 🔻  (1290)|
+| ELO Regular | 930 🔻  (1315)|
+| ELO Competitive | 1080 🔻  (1293)|
 | Total Matches | 97 |
 | Wins | 25 |
-| Losses | 75 |
+| Losses | 67 |
 | Draws | 5 |
-| Streak Record | 3 |
+| Streak Record | 4 |
 
 
 # Whitestar Match Day

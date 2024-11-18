@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​lesescargots
-description: W:58 L:22 D:0 Bonus ✅
+description: W:50 L:20 D:0 Bonus ✅
 date: 1731332630
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1387 🔺  (72)|
-| ELO Competitive | 1478 🔺  (82)|
+| ELO Regular | 1378 🔺  (69)|
+| ELO Competitive | 1447 🔺  (84)|
 | Total Matches | 70 |
-| Wins | 58 |
-| Losses | 22 |
+| Wins | 50 |
+| Losses | 20 |
 | Draws | 0 |
 | Streak | 8 |
-| Streak Record | 22 |
+| Streak Record | 14 |
 
 
 # Whitestar Match Day

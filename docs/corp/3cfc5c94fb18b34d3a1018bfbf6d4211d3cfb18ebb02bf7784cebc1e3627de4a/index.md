@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​PDC
-description: W:14 L:8 D:3 Bonus ❌
+description: W:14 L:7 D:3 Bonus ❌
 date: 1728214134
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1246 🔻  (271)|
-| ELO Competitive | 1278 🔻  (330)|
+| ELO Regular | 1249 🔻  (245)|
+| ELO Competitive | 1267 🔻  (322)|
 | Total Matches | 24 |
 | Wins | 14 |
-| Losses | 8 |
+| Losses | 7 |
 | Draws | 3 |
 | Streak Record | 8 |
 

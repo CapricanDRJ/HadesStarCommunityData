@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​ProyectCorp
-description: W:21 L:34 D:0 Bonus ❌
+description: W:20 L:29 D:0 Bonus ❌
 date: 1730805560
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1124 🔻  (1145)|
-| ELO Competitive | 1212 🔻  (577)|
+| ELO Regular | 1131 🔻  (1154)|
+| ELO Competitive | 1191 🔻  (709)|
 | Total Matches | 49 |
-| Wins | 21 |
-| Losses | 34 |
+| Wins | 20 |
+| Losses | 29 |
 | Draws | 0 |
 | Streak Record | 4 |
 

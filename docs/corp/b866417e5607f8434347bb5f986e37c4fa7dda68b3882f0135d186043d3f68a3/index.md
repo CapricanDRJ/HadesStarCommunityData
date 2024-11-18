@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​VoidCorp
-description: W:36 L:31 D:1 Bonus ❌
+description: W:30 L:27 D:1 Bonus ❌
 date: 1731777096
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1280 🔻  (199)|
-| ELO Competitive | 1382 🔻  (173)|
+| ELO Regular | 1271 🔻  (191)|
+| ELO Competitive | 1341 🔻  (195)|
 | Total Matches | 58 |
-| Wins | 36 |
-| Losses | 31 |
+| Wins | 30 |
+| Losses | 27 |
 | Draws | 1 |
 | Streak Record | 5 |
 

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Dark Halo
-description: W:15 L:6 D:0 Bonus ✅
+description: W:8 L:5 D:0 Bonus ✅
 date: 1731677021
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1303 🔻  (150)|
-| ELO Competitive | 1340 🔺  (226)|
+| ELO Regular | 1252 🔻  (241)|
+| ELO Competitive | 1273 🔺  (304)|
 | Total Matches | 13 |
-| Wins | 15 |
-| Losses | 6 |
+| Wins | 8 |
+| Losses | 5 |
 | Draws | 0 |
 | Streak Record | 7 |
 

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Void
-description: W:12 L:20 D:0 Bonus ✅
+description: W:10 L:16 D:0 Bonus ✅
 date: 1731512024
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1104 🔺  (1212)|
-| ELO Competitive | 1183 🔺  (964)|
+| ELO Regular | 1118 🔺  (1187)|
+| ELO Competitive | 1166 🔺  (1106)|
 | Total Matches | 26 |
-| Wins | 12 |
-| Losses | 20 |
+| Wins | 10 |
+| Losses | 16 |
 | Draws | 0 |
 | Streak Record | 2 |
 

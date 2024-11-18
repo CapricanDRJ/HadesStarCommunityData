@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​tropa (BR)
-description: W:7 L:14 D:2 Bonus ❌
+description: W:7 L:13 D:2 Bonus ❌
 date: 1730678911
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1126 🔻  (1142)|
-| ELO Competitive | 1153 🔻  (1180)|
+| ELO Regular | 1132 🔻  (1153)|
+| ELO Competitive | 1144 🔻  (1211)|
 | Total Matches | 22 |
 | Wins | 7 |
-| Losses | 14 |
+| Losses | 13 |
 | Draws | 2 |
 | Streak Record | 3 |
 

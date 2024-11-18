@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Avantgarde
-description: W:3 L:90 D:2 Bonus ❌
+description: W:3 L:69 D:2 Bonus ❌
 date: 1731733222
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 770 🔻  (1323)|
-| ELO Competitive | 1030 🔻  (1315)|
+| ELO Regular | 823 🔻  (1322)|
+| ELO Competitive | 1056 🔻  (1309)|
 | Total Matches | 74 |
 | Wins | 3 |
-| Losses | 90 |
+| Losses | 69 |
 | Draws | 2 |
 
 

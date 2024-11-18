@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Free Thinkers 2
-description: W:3 L:56 D:1 Bonus ❌
+description: W:3 L:51 D:1 Bonus ❌
 date: 1731512024
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 875 🔻  (1319)|
-| ELO Competitive | 940 🔻  (1323)|
+| ELO Regular | 893 🔻  (1320)|
+| ELO Competitive | 927 🔻  (1324)|
 | Total Matches | 55 |
 | Wins | 3 |
-| Losses | 56 |
+| Losses | 51 |
 | Draws | 1 |
 
 

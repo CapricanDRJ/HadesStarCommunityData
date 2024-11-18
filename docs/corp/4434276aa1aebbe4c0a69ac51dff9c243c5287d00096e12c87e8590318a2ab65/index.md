@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​KARI
-description: W:2 L:67 D:0 Bonus ❌
+description: W:2 L:66 D:0 Bonus ❌
 date: 1730868965
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 811 🔻  (1322)|
-| ELO Competitive | 1004 🔻  (1321)|
+| ELO Regular | 815 🔻  (1323)|
+| ELO Competitive | 994 🔻  (1321)|
 | Total Matches | 68 |
 | Wins | 2 |
-| Losses | 67 |
+| Losses | 66 |
 | Draws | 0 |
 
 

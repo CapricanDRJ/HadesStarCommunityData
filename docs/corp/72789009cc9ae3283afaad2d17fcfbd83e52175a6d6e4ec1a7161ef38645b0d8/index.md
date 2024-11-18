@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​Red Alliance
-description: W:16 L:25 D:3 Bonus ❌
+description: W:14 L:17 D:2 Bonus ❌
 date: 1731278101
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1133 🔻  (1118)|
-| ELO Competitive | 1240 🔺  (429)|
+| ELO Regular | 1145 🔻  (1107)|
+| ELO Competitive | 1240 🔺  (396)|
 | Total Matches | 33 |
-| Wins | 16 |
-| Losses | 25 |
-| Draws | 3 |
+| Wins | 14 |
+| Losses | 17 |
+| Draws | 2 |
 | Streak Record | 4 |
 
 

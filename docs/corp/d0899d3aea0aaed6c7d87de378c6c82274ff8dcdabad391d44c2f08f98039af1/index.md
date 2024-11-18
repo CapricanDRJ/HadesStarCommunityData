@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Croce del Sud
-description: W:16 L:9 D:0 Bonus ❌
+description: W:12 L:9 D:0 Bonus ❌
 date: 1730762296
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1251 🔺  (256)|
-| ELO Competitive | 1299 🔺  (287)|
+| ELO Regular | 1231 🔺  (303)|
+| ELO Competitive | 1259 🔺  (344)|
 | Total Matches | 21 |
-| Wins | 16 |
+| Wins | 12 |
 | Losses | 9 |
 | Draws | 0 |
 | Streak | 4 |

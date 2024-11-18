@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​The Allegiant
-description: W:33 L:17 D:0 Bonus ✅
+description: W:27 L:14 D:0 Bonus ✅
 date: 1731693255
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1313 🔺  (141)|
-| ELO Competitive | 1390 🔺  (163)|
+| ELO Regular | 1304 🔺  (135)|
+| ELO Competitive | 1364 🔺  (167)|
 | Total Matches | 41 |
-| Wins | 33 |
-| Losses | 17 |
+| Wins | 27 |
+| Losses | 14 |
 | Draws | 0 |
 | Streak | 2 |
-| Streak Record | 9 |
+| Streak Record | 7 |
 
 
 # Whitestar Match Day

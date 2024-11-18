@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​SternenStaub
-description: W:26 L:40 D:0 Bonus ✅
+description: W:24 L:33 D:0 Bonus ✅
 date: 1731623827
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1101 🔺  (1220)|
-| ELO Competitive | 1192 🔺  (723)|
+| ELO Regular | 1117 🔺  (1191)|
+| ELO Competitive | 1190 🔺  (726)|
 | Total Matches | 57 |
-| Wins | 26 |
-| Losses | 40 |
+| Wins | 24 |
+| Losses | 33 |
 | Draws | 0 |
-| Streak Record | 3 |
+| Streak Record | 4 |
 
 
 # Whitestar Match Day

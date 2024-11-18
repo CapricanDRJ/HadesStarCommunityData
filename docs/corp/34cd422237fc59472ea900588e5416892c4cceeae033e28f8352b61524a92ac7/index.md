@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​CCCP
-description: W:1 L:8 D:4 Bonus ❌
+description: W:1 L:7 D:3 Bonus ❌
 date: 1726918839
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1112 🔻  (1185)|
-| ELO Competitive | 1141 🔺  (1221)|
+| ELO Regular | 1123 🔻  (1178)|
+| ELO Competitive | 1140 🔺  (1223)|
 | Total Matches | 11 |
 | Wins | 1 |
-| Losses | 8 |
-| Draws | 4 |
+| Losses | 7 |
+| Draws | 3 |
 
 
 # Whitestar Match Day
