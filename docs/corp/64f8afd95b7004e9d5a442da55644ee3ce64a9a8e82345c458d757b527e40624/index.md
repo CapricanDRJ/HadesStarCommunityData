@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​佛矿寺
-description: W:11 L:49 D:1 Bonus ✅
+description: W:11 L:49 D:1 Bonus ❌
 date: 1731326900
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
