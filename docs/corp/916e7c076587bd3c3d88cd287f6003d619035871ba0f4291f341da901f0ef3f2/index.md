@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​S.U.N
-description: W:0 L:1 D:0 Bonus ❌
-date: 1731462746
+description: W:1 L:1 D:0 Bonus ✅
+date: 1731906902
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 🔻  (598)|
-| ELO Competitive | 1192 🔻  (692)|
-| Total Matches | 1 |
-| Wins | 0 |
+| ELO Regular | 1205 🔺  (452)|
+| ELO Competitive | 1208 🔺  (564)|
+| Total Matches | 2 |
+| Wins | 1 |
 | Losses | 1 |
 | Draws | 0 |
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731030746];
+        let timestamps = [1731474902,1731030746];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/18 | 5-4 | [Planet Express](https://ws.tsl.rocks/corp/6076486f3dce07118a180607ff9893eb5686dc57f65f7ed66d5e473007bd838c/) |
 | ❌ | 2024/11/13 | 0-3 | [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) |
 
 Corporation ID: 916e7c076587bd3c3d88cd287f6003d619035871ba0f4291f341da901f0ef3f2
