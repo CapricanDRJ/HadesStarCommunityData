@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Greek Warriors
-description: W:8 L:25 D:0 Bonus ❌
+description: W:8 L:28 D:0 Bonus ❌
 date: 1730902319
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1125 🔻  (1170)|
-| ELO Competitive | 1159 🔻  (1146)|
+| ELO Regular | 1114 🔻  (1177)|
+| ELO Competitive | 1167 🔻  (1116)|
 | Total Matches | 33 |
 | Wins | 8 |
-| Losses | 25 |
+| Losses | 28 |
 | Draws | 0 |
 | Streak Record | 2 |
 

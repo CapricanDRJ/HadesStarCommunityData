@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Mass Effect
-description: W:25 L:24 D:1 Bonus ❌
+description: W:30 L:27 D:1 Bonus ❌
 date: 1731204028
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1231 🔻  (307)|
-| ELO Competitive | 1299 🔻  (254)|
+| ELO Regular | 1242 🔻  (285)|
+| ELO Competitive | 1332 🔻  (241)|
 | Total Matches | 50 |
-| Wins | 25 |
-| Losses | 24 |
+| Wins | 30 |
+| Losses | 27 |
 | Draws | 1 |
 | Streak Record | 4 |
 

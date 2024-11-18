@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​DL Academy
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌
 date: 1729878534
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1195 🔻  (534)|
-| ELO Competitive | 1196 🔻  (652)|
+| ELO Regular | 1188 🔻  (584)|
+| ELO Competitive | 1197 🔻  (673)|
 | Total Matches | 1 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 

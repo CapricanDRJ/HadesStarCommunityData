@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Anarchy Nation 
-description: W:11 L:4 D:1 Bonus ✅
+description: W:14 L:5 D:1 Bonus ✅
 date: 1731716101
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1269 🔺  (197)|
-| ELO Competitive | 1287 🔺  (274)|
+| ELO Regular | 1288 🔺  (178)|
+| ELO Competitive | 1307 🔺  (270)|
 | Total Matches | 16 |
-| Wins | 11 |
-| Losses | 4 |
+| Wins | 14 |
+| Losses | 5 |
 | Draws | 1 |
-| Streak Record | 4 |
+| Streak Record | 5 |
 
 
 # Whitestar Match Day

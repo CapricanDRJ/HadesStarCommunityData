@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Aggronauten
-description: W:0 L:4 D:0 Bonus ❌
+description: W:0 L:6 D:0 Bonus ❌
 date: 1730303722
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔻  (1041)|
-| ELO Competitive | 1162 🔻  (1134)|
+| ELO Regular | 1134 🔻  (1115)|
+| ELO Competitive | 1152 🔻  (1183)|
 | Total Matches | 4 |
 | Wins | 0 |
-| Losses | 4 |
+| Losses | 6 |
 | Draws | 0 |
 
 

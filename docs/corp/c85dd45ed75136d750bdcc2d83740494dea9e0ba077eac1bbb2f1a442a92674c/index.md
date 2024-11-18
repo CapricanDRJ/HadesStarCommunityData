@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Gemini Ind.
-description: W:34 L:7 D:0 Bonus ✅
+description: W:35 L:8 D:0 Bonus ✅
 date: 1731747642
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1409 🔺  (42)|
-| ELO Competitive | 1441 🔺  (91)|
+| ELO Regular | 1409 🔺  (56)|
+| ELO Competitive | 1455 🔺  (108)|
 | Total Matches | 41 |
-| Wins | 34 |
-| Losses | 7 |
+| Wins | 35 |
+| Losses | 8 |
 | Draws | 0 |
-| Streak Record | 16 |
+| Streak Record | 14 |
 
 
 # Whitestar Match Day

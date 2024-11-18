@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​ISERLOHN
-description: W:7 L:0 D:0 Bonus ❌
+description: W:9 L:0 D:0 Bonus ❌
 date: 1727192760
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1307 🔺  (133)|
-| ELO Competitive | 1321 🔺  (219)|
+| ELO Regular | 1330 🔺  (123)|
+| ELO Competitive | 1337 🔺  (231)|
 | Total Matches | 7 |
-| Wins | 7 |
+| Wins | 9 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 7 |
-| Streak Record | 7 |
+| Streak | 9 |
+| Streak Record | 9 |
 
 
 # Whitestar Match Day

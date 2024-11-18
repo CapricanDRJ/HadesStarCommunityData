@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Alpha to Omega
-description: W:2 L:4 D:1 Bonus ❌
+description: W:3 L:6 D:1 Bonus ❌
 date: 1731470256
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1164 🔻  (992)|
-| ELO Competitive | 1172 🔻  (1032)|
+| ELO Regular | 1155 🔻  (1039)|
+| ELO Competitive | 1181 🔻  (977)|
 | Total Matches | 7 |
-| Wins | 2 |
-| Losses | 4 |
+| Wins | 3 |
+| Losses | 6 |
 | Draws | 1 |
 
 

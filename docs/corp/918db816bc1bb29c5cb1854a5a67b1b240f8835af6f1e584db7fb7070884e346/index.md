@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Polaris Corpo
-description: W:7 L:4 D:0 Bonus ❌
+description: W:7 L:5 D:0 Bonus ❌
 date: 1731754853
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1218 🔻  (360)|
-| ELO Competitive | 1236 🔻  (409)|
+| ELO Regular | 1201 🔻  (476)|
+| ELO Competitive | 1238 🔻  (436)|
 | Total Matches | 11 |
 | Wins | 7 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
-| Streak Record | 5 |
+| Streak Record | 4 |
 
 
 # Whitestar Match Day

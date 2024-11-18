@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Omega Alpha
-description: W:39 L:4 D:0 Bonus ✅
+description: W:47 L:4 D:0 Bonus ✅
 date: 1731772587
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1522 🔺  (7)|
-| ELO Competitive | 1568 🔺  (23)|
+| ELO Regular | 1552 🔺  (5)|
+| ELO Competitive | 1611 🔺  (20)|
 | Total Matches | 43 |
-| Wins | 39 |
+| Wins | 47 |
 | Losses | 4 |
 | Draws | 0 |
 | Streak | 15 |
-| Streak Record | 15 |
+| Streak Record | 21 |
 
 
 # Whitestar Match Day

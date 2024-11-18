@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Shrimp City
-description: W:21 L:16 D:1 Bonus ❌
+description: W:21 L:18 D:1 Bonus ❌
 date: 1728565791
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1221 🔻  (337)|
-| ELO Competitive | 1253 🔻  (355)|
+| ELO Regular | 1218 🔻  (368)|
+| ELO Competitive | 1269 🔻  (351)|
 | Total Matches | 38 |
 | Wins | 21 |
-| Losses | 16 |
+| Losses | 18 |
 | Draws | 1 |
 | Streak Record | 11 |
 

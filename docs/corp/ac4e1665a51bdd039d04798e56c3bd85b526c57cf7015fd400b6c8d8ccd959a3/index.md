@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​63SALVADORES36
-description: W:6 L:9 D:1 Bonus ✅
+description: W:12 L:17 D:1 Bonus ✅
 date: 1731823667
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔺  (818)|
-| ELO Competitive | 1211 🔺  (553)|
+| ELO Regular | 1169 🔺  (933)|
+| ELO Competitive | 1231 🔺  (459)|
 | Total Matches | 16 |
-| Wins | 6 |
-| Losses | 9 |
+| Wins | 12 |
+| Losses | 17 |
 | Draws | 1 |
 | Streak Record | 2 |
 

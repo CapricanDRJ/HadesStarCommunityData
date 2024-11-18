@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​New Star
-description: W:2 L:5 D:0 Bonus ❌
+description: W:3 L:7 D:0 Bonus ❌
 date: 1730453379
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔻  (581)|
-| ELO Competitive | 1204 🔻  (577)|
+| ELO Regular | 1189 🔻  (573)|
+| ELO Competitive | 1217 🔻  (521)|
 | Total Matches | 7 |
-| Wins | 2 |
-| Losses | 5 |
+| Wins | 3 |
+| Losses | 7 |
 | Draws | 0 |
 
 

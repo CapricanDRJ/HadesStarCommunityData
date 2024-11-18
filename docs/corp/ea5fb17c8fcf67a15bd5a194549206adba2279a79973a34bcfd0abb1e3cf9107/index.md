@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Continuum
-description: W:80 L:36 D:1 Bonus ✅
+description: W:96 L:40 D:1 Bonus ✅
 date: 1731542676
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1437 🔺  (32)|
-| ELO Competitive | 1668 🔺  (5)|
+| ELO Regular | 1446 🔺  (35)|
+| ELO Competitive | 1722 🔺  (5)|
 | Total Matches | 117 |
-| Wins | 80 |
-| Losses | 36 |
+| Wins | 96 |
+| Losses | 40 |
 | Draws | 1 |
 | Streak | 2 |
 | Streak Record | 13 |

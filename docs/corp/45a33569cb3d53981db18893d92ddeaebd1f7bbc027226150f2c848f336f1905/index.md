@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Bloodtide
-description: W:40 L:48 D:0 Bonus ❌
+description: W:43 L:54 D:0 Bonus ❌
 date: 1731796630
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1122 🔻  (1181)|
-| ELO Competitive | 1309 🔻  (232)|
+| ELO Regular | 1114 🔻  (1175)|
+| ELO Competitive | 1319 🔻  (259)|
 | Total Matches | 88 |
-| Wins | 40 |
-| Losses | 48 |
+| Wins | 43 |
+| Losses | 54 |
 | Draws | 0 |
-| Streak Record | 7 |
+| Streak Record | 5 |
 
 
 # Whitestar Match Day

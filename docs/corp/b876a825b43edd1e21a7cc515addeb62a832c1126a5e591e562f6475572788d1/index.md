@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​AlSounT
-description: W:11 L:8 D:0 Bonus ✅
+description: W:19 L:11 D:0 Bonus ✅
 date: 1731848606
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1244 🔺  (259)|
-| ELO Competitive | 1293 🔺  (266)|
+| ELO Regular | 1282 🔺  (193)|
+| ELO Competitive | 1341 🔺  (224)|
 | Total Matches | 19 |
-| Wins | 11 |
-| Losses | 8 |
+| Wins | 19 |
+| Losses | 11 |
 | Draws | 0 |
 | Streak Record | 4 |
 

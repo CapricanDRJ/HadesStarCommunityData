@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Death Star llc.
-description: W:53 L:12 D:1 Bonus ✅
+description: W:59 L:16 D:1 Bonus ✅
 date: 1731368995
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1454 🔺  (23)|
-| ELO Competitive | 1532 🔺  (34)|
+| ELO Regular | 1452 🔺  (31)|
+| ELO Competitive | 1547 🔺  (38)|
 | Total Matches | 66 |
-| Wins | 53 |
-| Losses | 12 |
+| Wins | 59 |
+| Losses | 16 |
 | Draws | 1 |
 | Streak Record | 20 |
 

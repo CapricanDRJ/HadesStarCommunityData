@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Star Fleet
-description: W:12 L:19 D:0 Bonus ❌
+description: W:13 L:19 D:0 Bonus ❌
 date: 1726657374
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1194 🔺  (543)|
-| ELO Competitive | 1244 🔺  (386)|
+| ELO Regular | 1200 🔺  (482)|
+| ELO Competitive | 1253 🔺  (390)|
 | Total Matches | 31 |
-| Wins | 12 |
+| Wins | 13 |
 | Losses | 19 |
 | Draws | 0 |
 | Streak Record | 6 |

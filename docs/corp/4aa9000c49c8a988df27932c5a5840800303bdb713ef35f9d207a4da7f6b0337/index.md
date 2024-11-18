@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​The Gladiators
-description: W:1 L:3 D:0 Bonus ❌
+description: W:1 L:4 D:0 Bonus ❌
 date: 1730938986
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (950)|
-| ELO Competitive | 1170 🔻  (1077)|
+| ELO Regular | 1159 🔻  (1000)|
+| ELO Competitive | 1174 🔻  (1042)|
 | Total Matches | 4 |
 | Wins | 1 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
 
 

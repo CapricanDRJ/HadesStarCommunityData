@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Splendid
-description: W:3 L:4 D:0 Bonus ❌
+description: W:4 L:4 D:0 Bonus ❌
 date: 1730019172
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1195 🔺  (538)|
-| ELO Competitive | 1199 🔺  (624)|
+| ELO Regular | 1207 🔺  (455)|
+| ELO Competitive | 1227 🔺  (471)|
 | Total Matches | 7 |
-| Wins | 3 |
+| Wins | 4 |
 | Losses | 4 |
 | Draws | 0 |
 

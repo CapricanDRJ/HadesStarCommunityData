@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Valhalla Rising
-description: W:22 L:3 D:0 Bonus ❌
+description: W:22 L:4 D:0 Bonus ❌
 date: 1728493664
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1388 🔻  (61)|
-| ELO Competitive | 1415 🔻  (114)|
+| ELO Regular | 1374 🔻  (81)|
+| ELO Competitive | 1425 🔻  (127)|
 | Total Matches | 25 |
 | Wins | 22 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
-| Streak Record | 15 |
+| Streak Record | 14 |
 
 
 # Whitestar Match Day

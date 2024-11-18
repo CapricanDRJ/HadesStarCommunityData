@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Shadow Lords
-description: W:0 L:3 D:0 Bonus ❌
+description: W:0 L:5 D:0 Bonus ❌
 date: 1730254143
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 🔻  (982)|
-| ELO Competitive | 1173 🔻  (1021)|
+| ELO Regular | 1141 🔻  (1095)|
+| ELO Competitive | 1163 🔻  (1132)|
 | Total Matches | 3 |
 | Wins | 0 |
-| Losses | 3 |
+| Losses | 5 |
 | Draws | 0 |
 
 

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Argentina 1.0
-description: W:30 L:14 D:0 Bonus ✅
+description: W:36 L:15 D:0 Bonus ✅
 date: 1731412559
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1401 🔺  (49)|
-| ELO Competitive | 1471 🔺  (64)|
+| ELO Regular | 1421 🔺  (46)|
+| ELO Competitive | 1522 🔺  (53)|
 | Total Matches | 44 |
-| Wins | 30 |
-| Losses | 14 |
+| Wins | 36 |
+| Losses | 15 |
 | Draws | 0 |
 | Streak | 4 |
 | Streak Record | 9 |

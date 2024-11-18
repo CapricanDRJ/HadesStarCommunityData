@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Soylent Corp.
-description: W:26 L:15 D:0 Bonus ❌
+description: W:27 L:15 D:0 Bonus ❌
 date: 1727889033
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1261 🔺  (217)|
-| ELO Competitive | 1322 🔺  (218)|
+| ELO Regular | 1269 🔺  (216)|
+| ELO Competitive | 1341 🔺  (223)|
 | Total Matches | 41 |
-| Wins | 26 |
+| Wins | 27 |
 | Losses | 15 |
 | Draws | 0 |
-| Streak Record | 7 |
+| Streak Record | 8 |
 
 
 # Whitestar Match Day

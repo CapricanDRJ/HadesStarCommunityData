@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​sk cz nebula
-description: W:15 L:8 D:0 Bonus ❌
+description: W:17 L:10 D:0 Bonus ❌
 date: 1729793787
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1265 🔺  (209)|
-| ELO Competitive | 1325 🔺  (214)|
+| ELO Regular | 1260 🔺  (235)|
+| ELO Competitive | 1334 🔺  (237)|
 | Total Matches | 23 |
-| Wins | 15 |
-| Losses | 8 |
+| Wins | 17 |
+| Losses | 10 |
 | Draws | 0 |
 | Streak Record | 6 |
 

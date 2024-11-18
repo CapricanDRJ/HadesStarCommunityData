@@ -1,19 +1,21 @@
 ---
 layout: page
 title: ​Dark Unit
-description: W:1 L:0 D:0 Bonus ❌
+description: W:2 L:0 D:0 Bonus ❌
 date: 1728825426
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔺  (399)|
-| ELO Competitive | 1216 🔺  (504)|
+| ELO Regular | 1228 🔺  (333)|
+| ELO Competitive | 1217 🔺  (520)|
 | Total Matches | 1 |
-| Wins | 1 |
+| Wins | 2 |
 | Losses | 0 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 
 
 # Whitestar Match Day

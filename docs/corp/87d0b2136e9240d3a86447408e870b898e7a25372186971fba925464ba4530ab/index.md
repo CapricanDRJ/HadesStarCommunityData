@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​GALACTIC EMPIRE
-description: W:3 L:2 D:0 Bonus ❌
+description: W:6 L:2 D:0 Bonus ❌
 date: 1730952806
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1207 🔺  (447)|
-| ELO Competitive | 1221 🔺  (470)|
+| ELO Regular | 1236 🔺  (302)|
+| ELO Competitive | 1283 🔺  (321)|
 | Total Matches | 5 |
-| Wins | 3 |
+| Wins | 6 |
 | Losses | 2 |
 | Draws | 0 |
 | Streak | 3 |

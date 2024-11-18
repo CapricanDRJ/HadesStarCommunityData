@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​S.U.N
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌
 date: 1731462746
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 🔻  (598)|
-| ELO Competitive | 1192 🔻  (691)|
+| ELO Regular | 1178 🔻  (811)|
+| ELO Competitive | 1194 🔻  (697)|
 | Total Matches | 1 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 

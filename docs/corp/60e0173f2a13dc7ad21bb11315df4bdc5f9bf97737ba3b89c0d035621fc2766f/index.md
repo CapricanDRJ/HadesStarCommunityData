@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​SILVER TERRA
-description: W:17 L:16 D:0 Bonus ❌
+description: W:21 L:21 D:0 Bonus ❌
 date: 1731528253
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1247 🔻  (254)|
-| ELO Competitive | 1302 🔻  (248)|
+| ELO Regular | 1243 🔻  (284)|
+| ELO Competitive | 1325 🔻  (250)|
 | Total Matches | 33 |
-| Wins | 17 |
-| Losses | 16 |
+| Wins | 21 |
+| Losses | 21 |
 | Draws | 0 |
 | Streak Record | 4 |
 

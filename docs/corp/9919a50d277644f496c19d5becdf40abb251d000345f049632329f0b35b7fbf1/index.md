@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Unión latina
-description: W:36 L:26 D:0 Bonus ✅
+description: W:41 L:30 D:0 Bonus ✅
 date: 1731722709
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1296 🔺  (149)|
-| ELO Competitive | 1373 🔺  (154)|
+| ELO Regular | 1300 🔺  (156)|
+| ELO Competitive | 1392 🔺  (161)|
 | Total Matches | 62 |
-| Wins | 36 |
-| Losses | 26 |
+| Wins | 41 |
+| Losses | 30 |
 | Draws | 0 |
 | Streak | 2 |
 | Streak Record | 6 |

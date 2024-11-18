@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Im Paradies
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌
 date: 1730107804
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔻  (584)|
-| ELO Competitive | 1191 🔻  (710)|
+| ELO Regular | 1178 🔻  (809)|
+| ELO Competitive | 1192 🔻  (729)|
 | Total Matches | 1 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Brodudes Inc.
-description: W:71 L:19 D:1 Bonus ✅
+description: W:75 L:21 D:1 Bonus ✅
 date: 1731875055
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1463 🔺  (19)|
-| ELO Competitive | 1591 🔺  (14)|
+| ELO Regular | 1471 🔺  (21)|
+| ELO Competitive | 1617 🔺  (19)|
 | Total Matches | 91 |
-| Wins | 71 |
-| Losses | 19 |
+| Wins | 75 |
+| Losses | 21 |
 | Draws | 1 |
 | Streak | 3 |
 | Streak Record | 9 |

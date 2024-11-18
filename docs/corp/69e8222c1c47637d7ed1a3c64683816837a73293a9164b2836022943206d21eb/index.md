@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​MD EMPIRE
-description: W:3 L:3 D:0 Bonus ❌
+description: W:5 L:5 D:0 Bonus ❌
 date: 1730409510
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1200 🔺  (492)|
-| ELO Competitive | 1211 🔺  (552)|
+| ELO Regular | 1198 🔺  (508)|
+| ELO Competitive | 1203 🔺  (611)|
 | Total Matches | 6 |
-| Wins | 3 |
-| Losses | 3 |
+| Wins | 5 |
+| Losses | 5 |
 | Draws | 0 |
+| Streak Record | 2 |
 
 
 # Whitestar Match Day

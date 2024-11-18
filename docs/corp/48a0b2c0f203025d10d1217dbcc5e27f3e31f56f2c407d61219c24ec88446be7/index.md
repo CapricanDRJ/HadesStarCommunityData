@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​RGW
-description: W:23 L:6 D:0 Bonus ✅
+description: W:30 L:6 D:0 Bonus ✅
 date: 1731419172
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1405 🔺  (45)|
-| ELO Competitive | 1441 🔺  (92)|
+| ELO Regular | 1448 🔺  (34)|
+| ELO Competitive | 1517 🔺  (58)|
 | Total Matches | 29 |
-| Wins | 23 |
+| Wins | 30 |
 | Losses | 6 |
 | Draws | 0 |
 | Streak | 19 |

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Space Penguins
-description: W:47 L:16 D:0 Bonus ✅
+description: W:52 L:20 D:0 Bonus ✅
 date: 1731796630
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1389 🔺  (60)|
-| ELO Competitive | 1479 🔺  (61)|
+| ELO Regular | 1391 🔺  (70)|
+| ELO Competitive | 1511 🔺  (63)|
 | Total Matches | 63 |
-| Wins | 47 |
-| Losses | 16 |
+| Wins | 52 |
+| Losses | 20 |
 | Draws | 0 |
 | Streak | 2 |
 | Streak Record | 12 |

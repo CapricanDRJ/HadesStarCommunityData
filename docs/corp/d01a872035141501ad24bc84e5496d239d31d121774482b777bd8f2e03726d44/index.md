@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Crimson Dawn
-description: W:11 L:16 D:0 Bonus ❌
+description: W:12 L:21 D:0 Bonus ❌
 date: 1731427287
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1126 🔻  (1169)|
-| ELO Competitive | 1175 🔻  (999)|
+| ELO Regular | 1105 🔻  (1210)|
+| ELO Competitive | 1179 🔻  (991)|
 | Total Matches | 27 |
-| Wins | 11 |
-| Losses | 16 |
+| Wins | 12 |
+| Losses | 21 |
 | Draws | 0 |
 | Streak Record | 3 |
 

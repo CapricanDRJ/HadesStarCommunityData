@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Snack Empire
-description: W:0 L:3 D:0 Bonus ❌
+description: W:0 L:5 D:0 Bonus ❌
 date: 1731372035
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1161 🔻  (1017)|
-| ELO Competitive | 1176 🔻  (986)|
+| ELO Regular | 1141 🔻  (1094)|
+| ELO Competitive | 1166 🔻  (1119)|
 | Total Matches | 3 |
 | Wins | 0 |
-| Losses | 3 |
+| Losses | 5 |
 | Draws | 0 |
 
 

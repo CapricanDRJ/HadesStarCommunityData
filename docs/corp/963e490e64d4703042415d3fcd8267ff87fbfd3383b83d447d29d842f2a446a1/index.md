@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​KLM
-description: W:11 L:33 D:0 Bonus ❌
+description: W:13 L:40 D:0 Bonus ❌
 date: 1731542676
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1124 🔻  (1175)|
-| ELO Competitive | 1185 🔻  (903)|
+| ELO Regular | 1122 🔻  (1151)|
+| ELO Competitive | 1217 🔻  (524)|
 | Total Matches | 44 |
-| Wins | 11 |
-| Losses | 33 |
+| Wins | 13 |
+| Losses | 40 |
 | Draws | 0 |
 | Streak Record | 4 |
 

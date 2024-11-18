@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Retarts
-description: W:24 L:27 D:2 Bonus ❌
+description: W:26 L:36 D:2 Bonus ❌
 date: 1731738930
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1217 🔻  (369)|
-| ELO Competitive | 1342 🔻  (194)|
+| ELO Regular | 1209 🔻  (447)|
+| ELO Competitive | 1349 🔻  (212)|
 | Total Matches | 53 |
-| Wins | 24 |
-| Losses | 27 |
+| Wins | 26 |
+| Losses | 36 |
 | Draws | 2 |
 | Streak Record | 7 |
 

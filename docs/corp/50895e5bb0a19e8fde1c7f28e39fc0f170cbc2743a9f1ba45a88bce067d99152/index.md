@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Space Donuts
-description: W:4 L:4 D:0 Bonus ❌
+description: W:6 L:4 D:0 Bonus ❌
 date: 1729304228
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1192 🔺  (558)|
-| ELO Competitive | 1195 🔺  (659)|
+| ELO Regular | 1210 🔺  (437)|
+| ELO Competitive | 1209 🔺  (586)|
 | Total Matches | 8 |
-| Wins | 4 |
+| Wins | 6 |
 | Losses | 4 |
 | Draws | 0 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 4 |
+| Streak Record | 4 |
 
 
 # Whitestar Match Day

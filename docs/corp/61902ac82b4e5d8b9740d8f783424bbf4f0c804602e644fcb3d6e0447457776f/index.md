@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​ZORG IND
-description: W:20 L:8 D:1 Bonus ✅
+description: W:32 L:13 D:2 Bonus ✅
 date: 1731462746
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1302 🔺  (140)|
-| ELO Competitive | 1393 🔺  (131)|
+| ELO Regular | 1327 🔺  (127)|
+| ELO Competitive | 1461 🔺  (100)|
 | Total Matches | 29 |
-| Wins | 20 |
-| Losses | 8 |
-| Draws | 1 |
+| Wins | 32 |
+| Losses | 13 |
+| Draws | 2 |
 | Streak Record | 7 |
 
 

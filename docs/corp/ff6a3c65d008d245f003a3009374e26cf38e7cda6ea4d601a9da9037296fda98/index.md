@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​YETI Collective
-description: W:21 L:44 D:0 Bonus ❌
+description: W:22 L:52 D:0 Bonus ❌
 date: 1731823066
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1042 🔻  (1287)|
-| ELO Competitive | 1146 🔻  (1198)|
+| ELO Regular | 1024 🔻  (1290)|
+| ELO Competitive | 1155 🔻  (1165)|
 | Total Matches | 65 |
-| Wins | 21 |
-| Losses | 44 |
+| Wins | 22 |
+| Losses | 52 |
 | Draws | 0 |
-| Streak Record | 7 |
+| Streak Record | 6 |
 
 
 # Whitestar Match Day

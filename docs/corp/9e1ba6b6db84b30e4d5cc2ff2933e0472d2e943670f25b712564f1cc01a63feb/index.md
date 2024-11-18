@@ -1,19 +1,20 @@
 ---
 layout: page
 title: ​AwA
-description: W:3 L:3 D:0 Bonus ❌
+description: W:4 L:3 D:0 Bonus ❌
 date: 1728132134
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1200 🔺  (493)|
-| ELO Competitive | 1201 🔺  (590)|
+| ELO Regular | 1214 🔺  (410)|
+| ELO Competitive | 1202 🔺  (616)|
 | Total Matches | 6 |
-| Wins | 3 |
+| Wins | 4 |
 | Losses | 3 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 2 |
 
 

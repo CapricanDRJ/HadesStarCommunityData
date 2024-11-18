@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Legion Prime
-description: W:12 L:14 D:0 Bonus ❌
+description: W:13 L:16 D:0 Bonus ❌
 date: 1731586325
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1191 🔻  (566)|
-| ELO Competitive | 1225 🔻  (450)|
+| ELO Regular | 1192 🔻  (550)|
+| ELO Competitive | 1254 🔻  (386)|
 | Total Matches | 26 |
-| Wins | 12 |
-| Losses | 14 |
+| Wins | 13 |
+| Losses | 16 |
 | Draws | 0 |
 | Streak Record | 3 |
 

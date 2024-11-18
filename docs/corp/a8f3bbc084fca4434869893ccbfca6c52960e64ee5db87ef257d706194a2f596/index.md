@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​WinterComes
-description: W:1 L:5 D:0 Bonus ❌
+description: W:2 L:9 D:0 Bonus ❌
 date: 1731179387
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔻  (968)|
-| ELO Competitive | 1182 🔻  (944)|
+| ELO Regular | 1150 🔻  (1059)|
+| ELO Competitive | 1185 🔻  (926)|
 | Total Matches | 6 |
-| Wins | 1 |
-| Losses | 5 |
+| Wins | 2 |
+| Losses | 9 |
 | Draws | 0 |
 
 

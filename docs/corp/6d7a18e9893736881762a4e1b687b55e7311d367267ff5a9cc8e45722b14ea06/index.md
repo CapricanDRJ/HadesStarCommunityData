@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​U.S.A
-description: W:18 L:32 D:1 Bonus ❌
+description: W:25 L:46 D:2 Bonus ❌
 date: 1731820663
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1132 🔻  (1151)|
-| ELO Competitive | 1262 🔻  (333)|
+| ELO Regular | 1121 🔻  (1153)|
+| ELO Competitive | 1277 🔻  (331)|
 | Total Matches | 51 |
-| Wins | 18 |
-| Losses | 32 |
-| Draws | 1 |
+| Wins | 25 |
+| Losses | 46 |
+| Draws | 2 |
 | Streak Record | 3 |
 
 

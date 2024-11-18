@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​SkitleStarOrder
-description: W:3 L:0 D:0 Bonus ❌
+description: W:4 L:0 D:0 Bonus ❌
 date: 1728148067
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1244 🔺  (261)|
-| ELO Competitive | 1245 🔺  (380)|
+| ELO Regular | 1262 🔺  (230)|
+| ELO Competitive | 1251 🔺  (399)|
 | Total Matches | 3 |
-| Wins | 3 |
+| Wins | 4 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 3 |
-| Streak Record | 3 |
+| Streak | 4 |
+| Streak Record | 4 |
 
 
 # Whitestar Match Day

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Spaceforce
-description: W:2 L:6 D:0 Bonus ❌
+description: W:3 L:9 D:0 Bonus ❌
 date: 1729538944
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (908)|
-| ELO Competitive | 1180 🔻  (954)|
+| ELO Regular | 1153 🔻  (1046)|
+| ELO Competitive | 1175 🔻  (1023)|
 | Total Matches | 8 |
-| Wins | 2 |
-| Losses | 6 |
+| Wins | 3 |
+| Losses | 9 |
 | Draws | 0 |
 
 

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Trade Station
-description: W:4 L:45 D:0 Bonus ❌
+description: W:4 L:53 D:0 Bonus ❌
 date: 1731799034
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 905 🔻  (1318)|
-| ELO Competitive | 964 🔻  (1322)|
+| ELO Regular | 878 🔻  (1317)|
+| ELO Competitive | 970 🔻  (1322)|
 | Total Matches | 49 |
 | Wins | 4 |
-| Losses | 45 |
+| Losses | 53 |
 | Draws | 0 |
 | Streak Record | 2 |
 

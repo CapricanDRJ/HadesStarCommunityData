@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​SEC
-description: W:7 L:2 D:0 Bonus ❌
+description: W:7 L:4 D:0 Bonus ❌
 date: 1730717216
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1250 🔻  (244)|
-| ELO Competitive | 1263 🔻  (331)|
+| ELO Regular | 1225 🔻  (345)|
+| ELO Competitive | 1251 🔻  (398)|
 | Total Matches | 9 |
 | Wins | 7 |
-| Losses | 2 |
+| Losses | 4 |
 | Draws | 0 |
 | Streak Record | 7 |
 

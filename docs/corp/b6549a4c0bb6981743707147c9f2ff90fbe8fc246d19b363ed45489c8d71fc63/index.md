@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​PSI Division
-description: W:0 L:1 D:1 Bonus ❌
+description: W:0 L:2 D:2 Bonus ❌
 date: 1727192499
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔺  (694)|
-| ELO Competitive | 1187 🔺  (775)|
+| ELO Regular | 1175 🔺  (841)|
+| ELO Competitive | 1191 🔺  (752)|
 | Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
-| Draws | 1 |
+| Losses | 2 |
+| Draws | 2 |
 
 
 # Whitestar Match Day

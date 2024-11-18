@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​RUS
-description: W:16 L:18 D:0 Bonus ❌
+description: W:20 L:22 D:0 Bonus ❌
 date: 1731827573
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1198 🔻  (513)|
-| ELO Competitive | 1282 🔻  (286)|
+| ELO Regular | 1206 🔻  (456)|
+| ELO Competitive | 1328 🔻  (247)|
 | Total Matches | 34 |
-| Wins | 16 |
-| Losses | 18 |
+| Wins | 20 |
+| Losses | 22 |
 | Draws | 0 |
 | Streak Record | 3 |
 

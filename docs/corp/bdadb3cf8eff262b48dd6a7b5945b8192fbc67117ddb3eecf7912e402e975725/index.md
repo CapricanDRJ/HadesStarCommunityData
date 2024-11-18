@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Eretria 
-description: W:30 L:34 D:0 Bonus ❌
+description: W:31 L:42 D:0 Bonus ❌
 date: 1731515631
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1152 🔻  (1076)|
-| ELO Competitive | 1197 🔻  (643)|
+| ELO Regular | 1143 🔻  (1086)|
+| ELO Competitive | 1212 🔻  (573)|
 | Total Matches | 64 |
-| Wins | 30 |
-| Losses | 34 |
+| Wins | 31 |
+| Losses | 42 |
 | Draws | 0 |
 | Streak Record | 7 |
 

@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Destroyers
-description: W:16 L:18 D:0 Bonus ❌
+description: W:16 L:20 D:0 Bonus ❌
 date: 1729463812
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1197 🔻  (516)|
-| ELO Competitive | 1229 🔻  (435)|
+| ELO Regular | 1193 🔻  (535)|
+| ELO Competitive | 1241 🔻  (427)|
 | Total Matches | 34 |
 | Wins | 16 |
-| Losses | 18 |
+| Losses | 20 |
 | Draws | 0 |
-| Streak Record | 6 |
+| Streak Record | 4 |
 
 
 # Whitestar Match Day

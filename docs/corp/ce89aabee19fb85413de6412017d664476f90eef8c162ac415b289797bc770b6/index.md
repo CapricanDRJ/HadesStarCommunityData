@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Blood Brigade
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌
 date: 1731554996
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1195 🔻  (531)|
-| ELO Competitive | 1196 🔻  (647)|
+| ELO Regular | 1187 🔻  (622)|
+| ELO Competitive | 1197 🔻  (668)|
 | Total Matches | 1 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 

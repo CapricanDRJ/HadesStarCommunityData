@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Scar
-description: W:36 L:23 D:1 Bonus ✅
+description: W:41 L:27 D:1 Bonus ✅
 date: 1731528253
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1342 🔺  (98)|
-| ELO Competitive | 1396 🔺  (128)|
+| ELO Regular | 1346 🔺  (104)|
+| ELO Competitive | 1419 🔺  (131)|
 | Total Matches | 60 |
-| Wins | 36 |
-| Losses | 23 |
+| Wins | 41 |
+| Losses | 27 |
 | Draws | 1 |
 | Streak | 4 |
 | Streak Record | 6 |

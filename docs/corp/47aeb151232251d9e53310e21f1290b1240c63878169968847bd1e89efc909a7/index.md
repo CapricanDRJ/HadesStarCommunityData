@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Poggy Rockers
-description: W:31 L:17 D:3 Bonus ✅
+description: W:34 L:18 D:3 Bonus ✅
 date: 1731354871
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1253 🔺  (239)|
-| ELO Competitive | 1378 🔺  (150)|
+| ELO Regular | 1259 🔺  (236)|
+| ELO Competitive | 1395 🔺  (156)|
 | Total Matches | 51 |
-| Wins | 31 |
-| Losses | 17 |
+| Wins | 34 |
+| Losses | 18 |
 | Draws | 3 |
 | Streak | 2 |
 | Streak Record | 15 |

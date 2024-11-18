@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Polaris
-description: W:0 L:4 D:0 Bonus ❌
+description: W:0 L:8 D:0 Bonus ❌
 date: 1731031239
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1150 🔻  (1084)|
-| ELO Competitive | 1163 🔻  (1123)|
+| ELO Regular | 1103 🔻  (1214)|
+| ELO Competitive | 1134 🔻  (1237)|
 | Total Matches | 4 |
 | Wins | 0 |
-| Losses | 4 |
+| Losses | 8 |
 | Draws | 0 |
 
 

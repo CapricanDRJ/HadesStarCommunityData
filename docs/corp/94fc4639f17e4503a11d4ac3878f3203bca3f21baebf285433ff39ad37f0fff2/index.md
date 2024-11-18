@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​BRASIL STAR
-description: W:42 L:17 D:3 Bonus ✅
+description: W:48 L:17 D:4 Bonus ✅
 date: 1731273744
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1401 🔺  (50)|
-| ELO Competitive | 1502 🔺  (44)|
+| ELO Regular | 1415 🔺  (51)|
+| ELO Competitive | 1541 🔺  (43)|
 | Total Matches | 62 |
-| Wins | 42 |
+| Wins | 48 |
 | Losses | 17 |
-| Draws | 3 |
+| Draws | 4 |
 | Streak | 6 |
-| Streak Record | 6 |
+| Streak Record | 11 |
 
 
 # Whitestar Match Day

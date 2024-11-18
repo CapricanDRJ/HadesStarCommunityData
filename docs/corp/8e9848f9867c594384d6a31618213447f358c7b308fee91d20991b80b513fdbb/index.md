@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Albedo
-description: W:31 L:10 D:0 Bonus ✅
+description: W:37 L:12 D:0 Bonus ✅
 date: 1731557701
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1346 🔺  (90)|
-| ELO Competitive | 1403 🔺  (120)|
+| ELO Regular | 1362 🔺  (89)|
+| ELO Competitive | 1431 🔺  (125)|
 | Total Matches | 41 |
-| Wins | 31 |
-| Losses | 10 |
+| Wins | 37 |
+| Losses | 12 |
 | Draws | 0 |
 | Streak | 4 |
-| Streak Record | 10 |
+| Streak Record | 12 |
 
 
 # Whitestar Match Day

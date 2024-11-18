@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Team Rainbow
-description: W:3 L:3 D:0 Bonus ✅
+description: W:5 L:3 D:0 Bonus ✅
 date: 1731534564
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 🔺  (476)|
-| ELO Competitive | 1222 🔺  (460)|
+| ELO Regular | 1220 🔺  (362)|
+| ELO Competitive | 1236 🔺  (439)|
 | Total Matches | 6 |
-| Wins | 3 |
+| Wins | 5 |
 | Losses | 3 |
 | Draws | 0 |
 | Streak | 2 |
-| Streak Record | 2 |
+| Streak Record | 3 |
 
 
 # Whitestar Match Day

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Gastro
-description: W:4 L:5 D:0 Bonus ❌
+description: W:5 L:6 D:0 Bonus ❌
 date: 1727860478
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1192 🔻  (559)|
-| ELO Competitive | 1199 🔻  (622)|
+| ELO Regular | 1189 🔻  (578)|
+| ELO Competitive | 1214 🔻  (557)|
 | Total Matches | 9 |
-| Wins | 4 |
-| Losses | 5 |
+| Wins | 5 |
+| Losses | 6 |
 | Draws | 0 |
 | Streak Record | 3 |
 

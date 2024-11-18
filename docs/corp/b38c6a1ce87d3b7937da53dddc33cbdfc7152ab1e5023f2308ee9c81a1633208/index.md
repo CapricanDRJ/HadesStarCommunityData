@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Dacia Chill
-description: W:19 L:3 D:0 Bonus ❌
+description: W:20 L:3 D:0 Bonus ❌
 date: 1731095851
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1375 🔺  (71)|
-| ELO Competitive | 1397 🔺  (127)|
+| ELO Regular | 1379 🔺  (78)|
+| ELO Competitive | 1421 🔺  (128)|
 | Total Matches | 22 |
-| Wins | 19 |
+| Wins | 20 |
 | Losses | 3 |
 | Draws | 0 |
 | Streak | 4 |
-| Streak Record | 7 |
+| Streak Record | 8 |
 
 
 # Whitestar Match Day

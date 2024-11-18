@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Galaxians
-description: W:19 L:25 D:0 Bonus ❌
+description: W:22 L:34 D:0 Bonus ❌
 date: 1731443818
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1178 🔻  (835)|
-| ELO Competitive | 1264 🔻  (325)|
+| ELO Regular | 1166 🔻  (955)|
+| ELO Competitive | 1271 🔻  (346)|
 | Total Matches | 44 |
-| Wins | 19 |
-| Losses | 25 |
+| Wins | 22 |
+| Losses | 34 |
 | Draws | 0 |
 | Streak Record | 4 |
 

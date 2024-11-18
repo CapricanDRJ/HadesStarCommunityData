@@ -1,19 +1,21 @@
 ---
 layout: page
 title: ​Raptor Armada
-description: W:1 L:0 D:0 Bonus ❌
+description: W:2 L:0 D:0 Bonus ❌
 date: 1728728667
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1225 🔺  (327)|
-| ELO Competitive | 1226 🔺  (443)|
+| ELO Regular | 1245 🔺  (277)|
+| ELO Competitive | 1226 🔺  (476)|
 | Total Matches | 1 |
-| Wins | 1 |
+| Wins | 2 |
 | Losses | 0 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 
 
 # Whitestar Match Day

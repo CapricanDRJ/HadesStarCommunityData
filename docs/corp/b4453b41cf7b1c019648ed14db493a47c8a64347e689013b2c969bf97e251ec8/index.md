@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Czech Legion
-description: W:16 L:3 D:0 Bonus ❌
+description: W:22 L:4 D:0 Bonus ❌
 date: 1730550200
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1373 🔺  (72)|
-| ELO Competitive | 1423 🔺  (105)|
+| ELO Regular | 1407 🔺  (57)|
+| ELO Competitive | 1475 🔺  (85)|
 | Total Matches | 19 |
-| Wins | 16 |
-| Losses | 3 |
+| Wins | 22 |
+| Losses | 4 |
 | Draws | 0 |
 | Streak | 4 |
 | Streak Record | 9 |

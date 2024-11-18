@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​M4-Valhalla
-description: W:0 L:8 D:0 Bonus ❌
+description: W:0 L:9 D:0 Bonus ❌
 date: 1727088408
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1111 🔻  (1213)|
-| ELO Competitive | 1128 🔻  (1246)|
+| ELO Regular | 1102 🔻  (1217)|
+| ELO Competitive | 1133 🔻  (1242)|
 | Total Matches | 8 |
 | Wins | 0 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 0 |
 
 

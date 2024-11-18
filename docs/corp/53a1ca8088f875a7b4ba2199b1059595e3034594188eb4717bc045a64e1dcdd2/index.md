@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​imperio galacti
-description: W:4 L:5 D:0 Bonus ✅
+description: W:8 L:10 D:0 Bonus ✅
 date: 1731614810
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 🔺  (475)|
-| ELO Competitive | 1213 🔺  (532)|
+| ELO Regular | 1201 🔺  (478)|
+| ELO Competitive | 1226 🔺  (479)|
 | Total Matches | 9 |
-| Wins | 4 |
-| Losses | 5 |
+| Wins | 8 |
+| Losses | 10 |
 | Draws | 0 |
 | Streak | 2 |
 | Streak Record | 2 |

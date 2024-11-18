@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Dominadores
-description: W:1 L:2 D:0 Bonus ❌
+description: W:2 L:4 D:0 Bonus ❌
 date: 1731010507
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (803)|
-| ELO Competitive | 1187 🔻  (780)|
+| ELO Regular | 1170 🔻  (931)|
+| ELO Competitive | 1190 🔻  (760)|
 | Total Matches | 3 |
-| Wins | 1 |
-| Losses | 2 |
+| Wins | 2 |
+| Losses | 4 |
 | Draws | 0 |
 
 

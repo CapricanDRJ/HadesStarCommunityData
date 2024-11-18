@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Latinos :)
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:3 D:0 Bonus ❌
 date: 1726645867
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (959)|
-| ELO Competitive | 1172 🔻  (1046)|
+| ELO Regular | 1156 🔻  (1030)|
+| ELO Competitive | 1174 🔻  (1046)|
 | Total Matches | 2 |
 | Wins | 0 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 
 

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​The Syndicate 
-description: W:21 L:4 D:0 Bonus ❌
+description: W:23 L:7 D:0 Bonus ❌
 date: 1730201855
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1367 🔻  (77)|
-| ELO Competitive | 1392 🔻  (132)|
+| ELO Regular | 1369 🔻  (86)|
+| ELO Competitive | 1410 🔻  (144)|
 | Total Matches | 25 |
-| Wins | 21 |
-| Losses | 4 |
+| Wins | 23 |
+| Losses | 7 |
 | Draws | 0 |
 | Streak Record | 20 |
 

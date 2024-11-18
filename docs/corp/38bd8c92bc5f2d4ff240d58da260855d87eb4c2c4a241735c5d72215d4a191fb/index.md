@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Nebula
-description: W:4 L:18 D:0 Bonus ❌
+description: W:4 L:19 D:0 Bonus ❌
 date: 1729543151
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1052 🔻  (1282)|
-| ELO Competitive | 1075 🔻  (1298)|
+| ELO Regular | 1043 🔻  (1277)|
+| ELO Competitive | 1080 🔻  (1296)|
 | Total Matches | 22 |
 | Wins | 4 |
-| Losses | 18 |
+| Losses | 19 |
 | Draws | 0 |
 | Streak Record | 2 |
 

@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​UAGC
-description: W:33 L:26 D:0 Bonus ✅
+description: W:40 L:30 D:0 Bonus ✅
 date: 1731707084
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1280 🔺  (175)|
-| ELO Competitive | 1449 🔺  (81)|
+| ELO Regular | 1292 🔺  (168)|
+| ELO Competitive | 1501 🔺  (71)|
 | Total Matches | 59 |
-| Wins | 33 |
-| Losses | 26 |
+| Wins | 40 |
+| Losses | 30 |
 | Draws | 0 |
 | Streak | 4 |
-| Streak Record | 5 |
+| Streak Record | 7 |
 
 
 # Whitestar Match Day

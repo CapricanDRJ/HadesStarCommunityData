@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​New Horizons
-description: W:6 L:7 D:0 Bonus ❌
+description: W:6 L:8 D:0 Bonus ❌
 date: 1726651365
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1202 🔻  (468)|
-| ELO Competitive | 1235 🔻  (412)|
+| ELO Regular | 1192 🔻  (548)|
+| ELO Competitive | 1242 🔻  (424)|
 | Total Matches | 13 |
 | Wins | 6 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
 | Streak Record | 2 |
 

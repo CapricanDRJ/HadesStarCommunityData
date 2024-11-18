@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Oficina Tuga
-description: W:9 L:27 D:0 Bonus ❌
+description: W:9 L:29 D:0 Bonus ❌
 date: 1731686641
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1053 🔻  (1281)|
-| ELO Competitive | 1103 🔻  (1278)|
+| ELO Regular | 1042 🔻  (1278)|
+| ELO Competitive | 1111 🔻  (1275)|
 | Total Matches | 36 |
 | Wins | 9 |
-| Losses | 27 |
+| Losses | 29 |
 | Draws | 0 |
 | Streak Record | 2 |
 

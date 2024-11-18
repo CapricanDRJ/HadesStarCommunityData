@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​Nebula alliance
-description: W:2 L:2 D:1 Bonus ❌
+description: W:4 L:4 D:2 Bonus ❌
 date: 1730452430
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1206 🔺  (450)|
-| ELO Competitive | 1206 🔺  (569)|
+| ELO Regular | 1207 🔺  (452)|
+| ELO Competitive | 1220 🔺  (500)|
 | Total Matches | 5 |
-| Wins | 2 |
-| Losses | 2 |
-| Draws | 1 |
+| Wins | 4 |
+| Losses | 4 |
+| Draws | 2 |
 | Streak | 2 |
 | Streak Record | 2 |
 

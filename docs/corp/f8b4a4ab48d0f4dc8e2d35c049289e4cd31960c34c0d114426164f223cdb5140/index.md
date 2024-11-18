@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​The Star League
-description: W:6 L:15 D:0 Bonus ❌
+description: W:6 L:16 D:0 Bonus ❌
 date: 1726949801
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1125 🔻  (1172)|
-| ELO Competitive | 1173 🔻  (1024)|
+| ELO Regular | 1120 🔻  (1156)|
+| ELO Competitive | 1185 🔻  (922)|
 | Total Matches | 21 |
 | Wins | 6 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 0 |
 | Streak Record | 3 |
 

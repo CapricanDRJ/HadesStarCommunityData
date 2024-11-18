@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Got Nothing
-description: W:15 L:13 D:0 Bonus ❌
+description: W:16 L:15 D:0 Bonus ❌
 date: 1731760563
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1220 🔻  (350)|
-| ELO Competitive | 1251 🔻  (366)|
+| ELO Regular | 1216 🔻  (379)|
+| ELO Competitive | 1264 🔻  (360)|
 | Total Matches | 28 |
-| Wins | 15 |
-| Losses | 13 |
+| Wins | 16 |
+| Losses | 15 |
 | Draws | 0 |
-| Streak Record | 4 |
+| Streak Record | 5 |
 
 
 # Whitestar Match Day

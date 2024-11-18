@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Hexacropians
-description: W:49 L:12 D:1 Bonus ✅
+description: W:54 L:17 D:1 Bonus ✅
 date: 1731361483
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1395 🔺  (57)|
-| ELO Competitive | 1470 🔺  (65)|
+| ELO Regular | 1391 🔺  (71)|
+| ELO Competitive | 1489 🔺  (76)|
 | Total Matches | 62 |
-| Wins | 49 |
-| Losses | 12 |
+| Wins | 54 |
+| Losses | 17 |
 | Draws | 1 |
-| Streak Record | 13 |
+| Streak Record | 12 |
 
 
 # Whitestar Match Day

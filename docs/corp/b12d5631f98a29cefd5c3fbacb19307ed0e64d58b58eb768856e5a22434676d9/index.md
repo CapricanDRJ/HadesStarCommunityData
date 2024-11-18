@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​BlackDawn
-description: W:1 L:26 D:11 Bonus ❌
+description: W:1 L:32 D:15 Bonus ❌
 date: 1731343546
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 988 🔻  (1306)|
-| ELO Competitive | 1016 🔻  (1319)|
+| ELO Regular | 964 🔻  (1307)|
+| ELO Competitive | 1011 🔻  (1320)|
 | Total Matches | 38 |
 | Wins | 1 |
-| Losses | 26 |
-| Draws | 11 |
+| Losses | 32 |
+| Draws | 15 |
 
 
 # Whitestar Match Day

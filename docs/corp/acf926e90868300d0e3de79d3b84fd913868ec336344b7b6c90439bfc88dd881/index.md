@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Astrium Reborn
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌
 date: 1728233709
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (789)|
-| ELO Competitive | 1185 🔻  (899)|
+| ELO Regular | 1168 🔻  (944)|
+| ELO Competitive | 1186 🔻  (849)|
 | Total Matches | 1 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 

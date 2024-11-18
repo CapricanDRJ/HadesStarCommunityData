@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​G.O.T GALAXY
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌
 date: 1729726168
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1188 🔻  (610)|
-| ELO Competitive | 1194 🔻  (667)|
+| ELO Regular | 1173 🔻  (874)|
+| ELO Competitive | 1195 🔻  (689)|
 | Total Matches | 1 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 

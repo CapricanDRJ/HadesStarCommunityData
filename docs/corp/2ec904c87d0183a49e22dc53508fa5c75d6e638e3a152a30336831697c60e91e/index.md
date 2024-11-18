@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Axioma
-description: W:11 L:27 D:2 Bonus ❌
+description: W:12 L:27 D:2 Bonus ❌
 date: 1726728458
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1029 🔺  (1293)|
-| ELO Competitive | 1073 🔺  (1302)|
+| ELO Regular | 1028 🔺  (1289)|
+| ELO Competitive | 1079 🔺  (1298)|
 | Total Matches | 40 |
-| Wins | 11 |
+| Wins | 12 |
 | Losses | 27 |
 | Draws | 2 |
 | Streak Record | 5 |

@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​ANDROMEDA INC. 
-description: W:25 L:1 D:1 Bonus ❌
+description: W:28 L:1 D:1 Bonus ❌
 date: 1731149329
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1460 🔺  (20)|
-| ELO Competitive | 1484 🔺  (56)|
+| ELO Regular | 1488 🔺  (15)|
+| ELO Competitive | 1500 🔺  (73)|
 | Total Matches | 27 |
-| Wins | 25 |
+| Wins | 28 |
 | Losses | 1 |
 | Draws | 1 |
-| Streak | 18 |
-| Streak Record | 18 |
+| Streak | 21 |
+| Streak Record | 21 |
 
 
 # Whitestar Match Day

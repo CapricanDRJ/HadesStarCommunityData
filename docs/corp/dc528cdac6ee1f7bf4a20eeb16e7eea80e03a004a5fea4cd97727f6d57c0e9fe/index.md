@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​The Foundation 
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌
 date: 1728400193
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (785)|
-| ELO Competitive | 1184 🔻  (919)|
+| ELO Regular | 1173 🔻  (871)|
+| ELO Competitive | 1187 🔻  (796)|
 | Total Matches | 1 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 

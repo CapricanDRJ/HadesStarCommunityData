@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​E.T.A
-description: W:7 L:25 D:0 Bonus ❌
+description: W:7 L:29 D:0 Bonus ❌
 date: 1731237677
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1041 🔻  (1288)|
-| ELO Competitive | 1166 🔻  (1101)|
+| ELO Regular | 1016 🔻  (1295)|
+| ELO Competitive | 1143 🔻  (1212)|
 | Total Matches | 32 |
 | Wins | 7 |
-| Losses | 25 |
+| Losses | 29 |
 | Draws | 0 |
 
 

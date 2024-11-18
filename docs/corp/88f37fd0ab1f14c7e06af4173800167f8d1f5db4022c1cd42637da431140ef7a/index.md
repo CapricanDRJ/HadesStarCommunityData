@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​TeddisaurusWrex
-description: W:44 L:14 D:0 Bonus ❌
+description: W:48 L:19 D:0 Bonus ❌
 date: 1730960017
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1322 🔺  (120)|
-| ELO Competitive | 1434 🔺  (98)|
+| ELO Regular | 1317 🔺  (136)|
+| ELO Competitive | 1448 🔺  (115)|
 | Total Matches | 58 |
-| Wins | 44 |
-| Losses | 14 |
+| Wins | 48 |
+| Losses | 19 |
 | Draws | 0 |
 | Streak | 2 |
-| Streak Record | 18 |
+| Streak Record | 11 |
 
 
 # Whitestar Match Day

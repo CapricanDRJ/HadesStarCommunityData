@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​AlyTec Sys.
-description: W:1 L:8 D:1 Bonus ❌
+description: W:1 L:15 D:2 Bonus ❌
 date: 1731646963
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1101 🔻  (1230)|
-| ELO Competitive | 1108 🔻  (1274)|
+| ELO Regular | 1040 🔻  (1281)|
+| ELO Competitive | 1062 🔻  (1306)|
 | Total Matches | 10 |
 | Wins | 1 |
-| Losses | 8 |
-| Draws | 1 |
+| Losses | 15 |
+| Draws | 2 |
 
 
 # Whitestar Match Day

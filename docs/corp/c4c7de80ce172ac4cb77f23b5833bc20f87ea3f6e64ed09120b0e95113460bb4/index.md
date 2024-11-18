@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​imperio estelar
-description: W:3 L:11 D:3 Bonus ❌
+description: W:6 L:16 D:5 Bonus ❌
 date: 1731689948
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1137 🔻  (1138)|
-| ELO Competitive | 1173 🔻  (1029)|
+| ELO Regular | 1133 🔻  (1117)|
+| ELO Competitive | 1196 🔻  (681)|
 | Total Matches | 17 |
-| Wins | 3 |
-| Losses | 11 |
-| Draws | 3 |
+| Wins | 6 |
+| Losses | 16 |
+| Draws | 5 |
 | Streak Record | 3 |
 
 

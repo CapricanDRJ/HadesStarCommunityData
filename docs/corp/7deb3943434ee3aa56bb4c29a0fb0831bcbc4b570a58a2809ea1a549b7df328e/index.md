@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Sith Empire
-description: W:27 L:38 D:1 Bonus ✅
+description: W:30 L:43 D:1 Bonus ✅
 date: 1731739831
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1210 🔺  (435)|
-| ELO Competitive | 1386 🔺  (140)|
+| ELO Regular | 1216 🔺  (387)|
+| ELO Competitive | 1415 🔺  (138)|
 | Total Matches | 66 |
-| Wins | 27 |
-| Losses | 38 |
+| Wins | 30 |
+| Losses | 43 |
 | Draws | 1 |
 | Streak Record | 4 |
 

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Borg Unimatrix
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌
 date: 1727178974
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1191 🔻  (563)|
-| ELO Competitive | 1192 🔻  (689)|
+| ELO Regular | 1179 🔻  (794)|
+| ELO Competitive | 1194 🔻  (699)|
 | Total Matches | 1 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 

@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​2ND-R8 Corp.
-description: W:33 L:16 D:1 Bonus ✅
+description: W:39 L:18 D:2 Bonus ✅
 date: 1731501503
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1379 🔺  (68)|
-| ELO Competitive | 1457 🔺  (76)|
+| ELO Regular | 1383 🔺  (74)|
+| ELO Competitive | 1484 🔺  (81)|
 | Total Matches | 50 |
-| Wins | 33 |
-| Losses | 16 |
-| Draws | 1 |
+| Wins | 39 |
+| Losses | 18 |
+| Draws | 2 |
 | Streak | 4 |
 | Streak Record | 14 |
 

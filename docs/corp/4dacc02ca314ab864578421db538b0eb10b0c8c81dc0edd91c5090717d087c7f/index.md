@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Armored Union 
-description: W:26 L:23 D:1 Bonus ✅
+description: W:30 L:28 D:2 Bonus ✅
 date: 1731270698
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔺  (395)|
-| ELO Competitive | 1332 🔺  (204)|
+| ELO Regular | 1215 🔺  (402)|
+| ELO Competitive | 1350 🔺  (209)|
 | Total Matches | 50 |
-| Wins | 26 |
-| Losses | 23 |
-| Draws | 1 |
-| Streak Record | 3 |
+| Wins | 30 |
+| Losses | 28 |
+| Draws | 2 |
+| Streak Record | 4 |
 
 
 # Whitestar Match Day

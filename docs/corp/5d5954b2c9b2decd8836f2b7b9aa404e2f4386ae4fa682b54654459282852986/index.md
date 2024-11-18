@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​GermanIndustrie
-description: W:10 L:2 D:1 Bonus ❌
+description: W:11 L:2 D:1 Bonus ❌
 date: 1727516721
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1302 🔺  (139)|
-| ELO Competitive | 1330 🔺  (207)|
+| ELO Regular | 1310 🔺  (144)|
+| ELO Competitive | 1335 🔺  (236)|
 | Total Matches | 13 |
-| Wins | 10 |
+| Wins | 11 |
 | Losses | 2 |
 | Draws | 1 |
 | Streak | 4 |
-| Streak Record | 4 |
+| Streak Record | 5 |
 
 
 # Whitestar Match Day

@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Empire of Light
-description: W:10 L:20 D:1 Bonus ✅
+description: W:13 L:28 D:2 Bonus ✅
 date: 1731687543
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1132 🔺  (1152)|
-| ELO Competitive | 1221 🔺  (468)|
+| ELO Regular | 1113 🔺  (1178)|
+| ELO Competitive | 1235 🔺  (441)|
 | Total Matches | 31 |
-| Wins | 10 |
-| Losses | 20 |
-| Draws | 1 |
-| Streak Record | 2 |
+| Wins | 13 |
+| Losses | 28 |
+| Draws | 2 |
+| Streak Record | 3 |
 
 
 # Whitestar Match Day

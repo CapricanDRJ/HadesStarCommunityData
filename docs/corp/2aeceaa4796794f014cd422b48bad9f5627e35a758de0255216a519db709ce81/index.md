@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Order of Hades
-description: W:68 L:25 D:1 Bonus ❌
+description: W:77 L:28 D:1 Bonus ❌
 date: 1731121089
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1396 🔺  (55)|
-| ELO Competitive | 1577 🔺  (20)|
+| ELO Regular | 1402 🔺  (61)|
+| ELO Competitive | 1608 🔺  (22)|
 | Total Matches | 94 |
-| Wins | 68 |
-| Losses | 25 |
+| Wins | 77 |
+| Losses | 28 |
 | Draws | 1 |
-| Streak Record | 18 |
+| Streak Record | 23 |
 
 
 # Whitestar Match Day

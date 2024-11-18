@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Final Space
-description: W:1 L:3 D:0 Bonus ❌
+description: W:2 L:3 D:0 Bonus ❌
 date: 1730853645
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔺  (811)|
-| ELO Competitive | 1184 🔺  (913)|
+| ELO Regular | 1192 🔺  (546)|
+| ELO Competitive | 1209 🔺  (589)|
 | Total Matches | 4 |
-| Wins | 1 |
+| Wins | 2 |
 | Losses | 3 |
 | Draws | 0 |
 

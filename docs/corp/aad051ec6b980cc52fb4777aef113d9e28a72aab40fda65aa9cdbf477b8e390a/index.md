@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​West Worlders
-description: W:6 L:23 D:0 Bonus ❌
+description: W:7 L:30 D:0 Bonus ❌
 date: 1731408051
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1021 🔻  (1295)|
-| ELO Competitive | 1068 🔻  (1305)|
+| ELO Regular | 998 🔻  (1301)|
+| ELO Competitive | 1078 🔻  (1299)|
 | Total Matches | 29 |
-| Wins | 6 |
-| Losses | 23 |
+| Wins | 7 |
+| Losses | 30 |
 | Draws | 0 |
 | Streak Record | 2 |
 

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Betelgeuse
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:3 D:0 Bonus ❌
 date: 1727906205
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (883)|
-| ELO Competitive | 1174 🔻  (1011)|
+| ELO Regular | 1159 🔻  (998)|
+| ELO Competitive | 1175 🔻  (1028)|
 | Total Matches | 2 |
 | Wins | 0 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 
 

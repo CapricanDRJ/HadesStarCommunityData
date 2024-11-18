@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Space Pirates
-description: W:7 L:44 D:0 Bonus ❌
+description: W:8 L:52 D:0 Bonus ❌
 date: 1731747642
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 948 🔻  (1313)|
-| ELO Competitive | 999 🔻  (1320)|
+| ELO Regular | 933 🔻  (1314)|
+| ELO Competitive | 1012 🔻  (1319)|
 | Total Matches | 51 |
-| Wins | 7 |
-| Losses | 44 |
+| Wins | 8 |
+| Losses | 52 |
 | Draws | 0 |
 | Streak Record | 2 |
 

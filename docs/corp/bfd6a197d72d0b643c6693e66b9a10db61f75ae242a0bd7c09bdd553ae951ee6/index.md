@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​the Rubber Duck
-description: W:6 L:10 D:0 Bonus ✅
+description: W:7 L:10 D:0 Bonus ✅
 date: 1731687844
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1145 🔺  (1104)|
-| ELO Competitive | 1159 🔺  (1145)|
+| ELO Regular | 1150 🔺  (1060)|
+| ELO Competitive | 1182 🔺  (971)|
 | Total Matches | 16 |
-| Wins | 6 |
+| Wins | 7 |
 | Losses | 10 |
 | Draws | 0 |
 | Streak Record | 3 |

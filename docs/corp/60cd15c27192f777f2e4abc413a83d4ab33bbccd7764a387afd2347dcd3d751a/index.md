@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​Stone Legion
-description: W:26 L:8 D:1 Bonus ❌
+description: W:28 L:10 D:2 Bonus ❌
 date: 1731320009
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1350 🔻  (87)|
-| ELO Competitive | 1403 🔻  (121)|
+| ELO Regular | 1350 🔻  (100)|
+| ELO Competitive | 1415 🔻  (136)|
 | Total Matches | 35 |
-| Wins | 26 |
-| Losses | 8 |
-| Draws | 1 |
+| Wins | 28 |
+| Losses | 10 |
+| Draws | 2 |
 | Streak Record | 9 |
 
 

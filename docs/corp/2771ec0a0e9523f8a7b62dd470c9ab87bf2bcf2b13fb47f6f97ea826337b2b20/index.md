@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Mercury Sunset
-description: W:38 L:0 D:0 Bonus ✅
+description: W:47 L:0 D:0 Bonus ✅
 date: 1731831276
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1543 🔺  (3)|
-| ELO Competitive | 1605 🔺  (11)|
+| ELO Regular | 1581 🔺  (3)|
+| ELO Competitive | 1650 🔺  (10)|
 | Total Matches | 38 |
-| Wins | 38 |
+| Wins | 47 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 38 |
-| Streak Record | 38 |
+| Streak | 47 |
+| Streak Record | 47 |
 
 
 # Whitestar Match Day

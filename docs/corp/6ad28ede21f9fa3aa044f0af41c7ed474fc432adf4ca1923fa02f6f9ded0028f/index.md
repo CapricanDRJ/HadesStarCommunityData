@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Rogue Corp
-description: W:1 L:19 D:0 Bonus ❌
+description: W:1 L:20 D:0 Bonus ❌
 date: 1726576846
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1048 🔻  (1284)|
-| ELO Competitive | 1059 🔻  (1308)|
+| ELO Regular | 1040 🔻  (1280)|
+| ELO Competitive | 1067 🔻  (1305)|
 | Total Matches | 20 |
 | Wins | 1 |
-| Losses | 19 |
+| Losses | 20 |
 | Draws | 0 |
 
 

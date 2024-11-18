@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​mexico unido
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌
 date: 1731823667
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (790)|
-| ELO Competitive | 1185 🔻  (900)|
+| ELO Regular | 1167 🔻  (950)|
+| ELO Competitive | 1186 🔻  (855)|
 | Total Matches | 1 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 

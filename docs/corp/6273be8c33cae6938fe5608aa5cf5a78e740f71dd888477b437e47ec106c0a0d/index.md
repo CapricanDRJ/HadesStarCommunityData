@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​Sternenflotte
-description: W:19 L:21 D:0 Bonus ❌
+description: W:20 L:21 D:0 Bonus ❌
 date: 1731219950
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1147 🔺  (1093)|
-| ELO Competitive | 1223 🔺  (458)|
+| ELO Regular | 1154 🔺  (1041)|
+| ELO Competitive | 1240 🔺  (430)|
 | Total Matches | 40 |
-| Wins | 19 |
+| Wins | 20 |
 | Losses | 21 |
 | Draws | 0 |
-| Streak Record | 5 |
+| Streak Record | 6 |
 
 
 # Whitestar Match Day

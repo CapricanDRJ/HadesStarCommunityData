@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​alienigenas
-description: W:7 L:5 D:0 Bonus ❌
+description: W:8 L:5 D:0 Bonus ❌
 date: 1729863503
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1244 🔺  (266)|
-| ELO Competitive | 1269 🔺  (312)|
+| ELO Regular | 1255 🔺  (248)|
+| ELO Competitive | 1275 🔺  (334)|
 | Total Matches | 12 |
-| Wins | 7 |
+| Wins | 8 |
 | Losses | 5 |
 | Draws | 0 |
 | Streak Record | 3 |

@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​BrazilCorp.
-description: W:44 L:7 D:0 Bonus ✅
+description: W:48 L:8 D:0 Bonus ✅
 date: 1731554996
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1500 🔺  (11)|
-| ELO Competitive | 1553 🔺  (26)|
+| ELO Regular | 1516 🔺  (12)|
+| ELO Competitive | 1585 🔺  (27)|
 | Total Matches | 51 |
-| Wins | 44 |
-| Losses | 7 |
+| Wins | 48 |
+| Losses | 8 |
 | Draws | 0 |
 | Streak | 3 |
-| Streak Record | 10 |
+| Streak Record | 11 |
 
 
 # Whitestar Match Day

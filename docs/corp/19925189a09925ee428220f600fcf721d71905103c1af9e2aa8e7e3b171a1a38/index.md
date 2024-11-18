@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​First Legion
-description: W:42 L:47 D:1 Bonus ❌
+description: W:44 L:53 D:1 Bonus ❌
 date: 1731370798
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 🔻  (983)|
-| ELO Competitive | 1340 🔻  (199)|
+| ELO Regular | 1158 🔻  (1005)|
+| ELO Competitive | 1348 🔻  (213)|
 | Total Matches | 90 |
-| Wins | 42 |
-| Losses | 47 |
+| Wins | 44 |
+| Losses | 53 |
 | Draws | 1 |
-| Streak Record | 5 |
+| Streak Record | 6 |
 
 
 # Whitestar Match Day

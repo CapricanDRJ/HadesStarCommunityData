@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​REY DE REYES
-description: W:1 L:12 D:0 Bonus ❌
+description: W:1 L:13 D:0 Bonus ❌
 date: 1728409213
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1077 🔻  (1260)|
-| ELO Competitive | 1090 🔻  (1288)|
+| ELO Regular | 1065 🔻  (1257)|
+| ELO Competitive | 1095 🔻  (1285)|
 | Total Matches | 13 |
 | Wins | 1 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 0 |
 
 

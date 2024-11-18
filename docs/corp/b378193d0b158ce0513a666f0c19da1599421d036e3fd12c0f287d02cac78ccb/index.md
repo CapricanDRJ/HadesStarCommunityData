@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​StargateCommand
-description: W:0 L:7 D:1 Bonus ❌
+description: W:0 L:12 D:1 Bonus ❌
 date: 1731759962
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1105 🔻  (1224)|
-| ELO Competitive | 1115 🔻  (1266)|
+| ELO Regular | 1055 🔻  (1270)|
+| ELO Competitive | 1092 🔻  (1286)|
 | Total Matches | 8 |
 | Wins | 0 |
-| Losses | 7 |
+| Losses | 12 |
 | Draws | 1 |
 
 

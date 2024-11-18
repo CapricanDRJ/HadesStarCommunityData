@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Famous Assasins
-description: W:60 L:11 D:0 Bonus ❌
+description: W:67 L:14 D:0 Bonus ❌
 date: 1731082927
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1458 🔻  (22)|
-| ELO Competitive | 1542 🔻  (30)|
+| ELO Regular | 1459 🔻  (27)|
+| ELO Competitive | 1579 🔻  (29)|
 | Total Matches | 71 |
-| Wins | 60 |
-| Losses | 11 |
+| Wins | 67 |
+| Losses | 14 |
 | Draws | 0 |
 | Streak Record | 12 |
 

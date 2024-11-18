@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Rzeczypospolita
-description: W:0 L:1 D:1 Bonus ❌
+description: W:0 L:2 D:1 Bonus ❌
 date: 1730511060
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (697)|
-| ELO Competitive | 1186 🔻  (819)|
+| ELO Regular | 1171 🔻  (901)|
+| ELO Competitive | 1187 🔻  (819)|
 | Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 1 |
 
 

@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​Bl@ck/Galaxy 
-description: W:28 L:16 D:2 Bonus ❌
+description: W:33 L:19 D:3 Bonus ❌
 date: 1731780402
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1391 🔻  (58)|
-| ELO Competitive | 1443 🔻  (87)|
+| ELO Regular | 1400 🔻  (62)|
+| ELO Competitive | 1472 🔻  (87)|
 | Total Matches | 46 |
-| Wins | 28 |
-| Losses | 16 |
-| Draws | 2 |
+| Wins | 33 |
+| Losses | 19 |
+| Draws | 3 |
 | Streak Record | 17 |
 
 

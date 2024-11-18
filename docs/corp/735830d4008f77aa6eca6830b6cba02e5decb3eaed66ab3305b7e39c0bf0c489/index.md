@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Slytherin
-description: W:0 L:3 D:0 Bonus ❌
+description: W:0 L:5 D:0 Bonus ❌
 date: 1728217779
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1156 🔻  (1049)|
-| ELO Competitive | 1161 🔻  (1135)|
+| ELO Regular | 1130 🔻  (1130)|
+| ELO Competitive | 1154 🔻  (1174)|
 | Total Matches | 3 |
 | Wins | 0 |
-| Losses | 3 |
+| Losses | 5 |
 | Draws | 0 |
 
 

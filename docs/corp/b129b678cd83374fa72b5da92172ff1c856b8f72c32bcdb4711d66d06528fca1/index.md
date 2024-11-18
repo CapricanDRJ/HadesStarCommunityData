@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​1st/Ave/Junkie2
-description: W:21 L:26 D:1 Bonus ❌
+description: W:25 L:28 D:1 Bonus ❌
 date: 1731238579
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1196 🔻  (525)|
-| ELO Competitive | 1234 🔻  (417)|
+| ELO Regular | 1204 🔻  (460)|
+| ELO Competitive | 1259 🔻  (374)|
 | Total Matches | 48 |
-| Wins | 21 |
-| Losses | 26 |
+| Wins | 25 |
+| Losses | 28 |
 | Draws | 1 |
 | Streak Record | 4 |
 

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​hades star萌新指引站
-description: W:9 L:7 D:1 Bonus ❌
+description: W:13 L:14 D:1 Bonus ❌
 date: 1731847404
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1207 🔻  (445)|
-| ELO Competitive | 1239 🔻  (402)|
+| ELO Regular | 1199 🔻  (498)|
+| ELO Competitive | 1248 🔻  (404)|
 | Total Matches | 17 |
-| Wins | 9 |
-| Losses | 7 |
+| Wins | 13 |
+| Losses | 14 |
 | Draws | 1 |
 | Streak Record | 5 |
 

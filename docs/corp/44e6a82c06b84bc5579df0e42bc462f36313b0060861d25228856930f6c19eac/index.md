@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Fairy tail 
-description: W:6 L:3 D:0 Bonus ❌
+description: W:9 L:4 D:0 Bonus ❌
 date: 1731041755
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1226 🔻  (323)|
-| ELO Competitive | 1235 🔻  (413)|
+| ELO Regular | 1245 🔻  (276)|
+| ELO Competitive | 1274 🔻  (340)|
 | Total Matches | 9 |
-| Wins | 6 |
-| Losses | 3 |
+| Wins | 9 |
+| Losses | 4 |
 | Draws | 0 |
 | Streak Record | 6 |
 

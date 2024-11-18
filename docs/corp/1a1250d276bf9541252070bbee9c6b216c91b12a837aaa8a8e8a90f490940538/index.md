@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Emergence
-description: W:37 L:3 D:0 Bonus ✅
+description: W:46 L:3 D:0 Bonus ✅
 date: 1731679125
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1497 🔺  (12)|
-| ELO Competitive | 1559 🔺  (25)|
+| ELO Regular | 1536 🔺  (10)|
+| ELO Competitive | 1610 🔺  (21)|
 | Total Matches | 40 |
-| Wins | 37 |
+| Wins | 46 |
 | Losses | 3 |
 | Draws | 0 |
 | Streak | 10 |
-| Streak Record | 17 |
+| Streak Record | 24 |
 
 
 # Whitestar Match Day

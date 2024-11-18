@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Ninth Planet
-description: W:56 L:6 D:1 Bonus ✅
+description: W:68 L:8 D:1 Bonus ✅
 date: 1731401141
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1532 🔺  (5)|
-| ELO Competitive | 1608 🔺  (10)|
+| ELO Regular | 1546 🔺  (6)|
+| ELO Competitive | 1636 🔺  (12)|
 | Total Matches | 63 |
-| Wins | 56 |
-| Losses | 6 |
+| Wins | 68 |
+| Losses | 8 |
 | Draws | 1 |
 | Streak | 4 |
-| Streak Record | 24 |
+| Streak Record | 18 |
 
 
 # Whitestar Match Day

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​G.D.C.
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌
 date: 1726532381
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (778)|
-| ELO Competitive | 1184 🔻  (918)|
+| ELO Regular | 1169 🔻  (940)|
+| ELO Competitive | 1185 🔻  (879)|
 | Total Matches | 1 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 

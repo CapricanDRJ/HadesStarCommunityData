@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Titan Corp.
-description: W:22 L:18 D:0 Bonus ❌
+description: W:22 L:19 D:0 Bonus ❌
 date: 1726935372
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1219 🔻  (354)|
-| ELO Competitive | 1303 🔻  (247)|
+| ELO Regular | 1223 🔻  (351)|
+| ELO Competitive | 1330 🔻  (244)|
 | Total Matches | 40 |
 | Wins | 22 |
-| Losses | 18 |
+| Losses | 19 |
 | Draws | 0 |
 | Streak Record | 4 |
 

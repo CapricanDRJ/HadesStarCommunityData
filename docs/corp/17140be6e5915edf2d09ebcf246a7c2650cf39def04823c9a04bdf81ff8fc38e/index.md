@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​Omega corp
-description: W:6 L:5 D:3 Bonus ✅
+description: W:11 L:9 D:5 Bonus ✅
 date: 1731861530
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1208 🔺  (442)|
-| ELO Competitive | 1221 🔺  (467)|
+| ELO Regular | 1214 🔺  (409)|
+| ELO Competitive | 1241 🔺  (425)|
 | Total Matches | 14 |
-| Wins | 6 |
-| Losses | 5 |
-| Draws | 3 |
+| Wins | 11 |
+| Losses | 9 |
+| Draws | 5 |
 | Streak Record | 2 |
 
 

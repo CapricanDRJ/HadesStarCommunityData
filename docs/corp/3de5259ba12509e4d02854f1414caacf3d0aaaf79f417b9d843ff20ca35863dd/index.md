@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Atlas Star llc.
-description: W:42 L:10 D:0 Bonus ✅
+description: W:49 L:12 D:0 Bonus ✅
 date: 1731486781
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1464 🔺  (18)|
-| ELO Competitive | 1526 🔺  (36)|
+| ELO Regular | 1470 🔺  (22)|
+| ELO Competitive | 1544 🔺  (41)|
 | Total Matches | 52 |
-| Wins | 42 |
-| Losses | 10 |
+| Wins | 49 |
+| Losses | 12 |
 | Draws | 0 |
 | Streak | 3 |
 | Streak Record | 10 |

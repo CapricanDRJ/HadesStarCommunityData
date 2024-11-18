@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​DarkSide
-description: W:42 L:52 D:1 Bonus ✅
+description: W:46 L:66 D:1 Bonus ✅
 date: 1731776194
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1180 🔻  (827)|
-| ELO Competitive | 1423 🔺  (106)|
+| ELO Regular | 1186 🔻  (645)|
+| ELO Competitive | 1440 🔺  (120)|
 | Total Matches | 95 |
-| Wins | 42 |
-| Losses | 52 |
+| Wins | 46 |
+| Losses | 66 |
 | Draws | 1 |
 | Streak Record | 9 |
 

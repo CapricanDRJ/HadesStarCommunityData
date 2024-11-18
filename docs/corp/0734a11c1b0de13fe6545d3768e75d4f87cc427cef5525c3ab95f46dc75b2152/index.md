@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​System Shock
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌
 date: 1727657953
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1195 🔻  (536)|
-| ELO Competitive | 1196 🔻  (654)|
+| ELO Regular | 1185 🔻  (679)|
+| ELO Competitive | 1197 🔻  (672)|
 | Total Matches | 1 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 

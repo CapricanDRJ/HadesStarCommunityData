@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​empire
-description: W:1 L:4 D:0 Bonus ❌
+description: W:2 L:8 D:0 Bonus ❌
 date: 1730853645
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1152 🔻  (1075)|
-| ELO Competitive | 1158 🔻  (1150)|
+| ELO Regular | 1113 🔻  (1180)|
+| ELO Competitive | 1138 🔻  (1227)|
 | Total Matches | 5 |
-| Wins | 1 |
-| Losses | 4 |
+| Wins | 2 |
+| Losses | 8 |
 | Draws | 0 |
 
 

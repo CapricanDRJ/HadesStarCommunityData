@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​Antioch
-description: W:10 L:23 D:0 Bonus ❌
+description: W:10 L:29 D:0 Bonus ❌
 date: 1731170069
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1089 🔻  (1247)|
-| ELO Competitive | 1136 🔻  (1232)|
+| ELO Regular | 1060 🔻  (1263)|
+| ELO Competitive | 1138 🔻  (1229)|
 | Total Matches | 33 |
 | Wins | 10 |
-| Losses | 23 |
+| Losses | 29 |
 | Draws | 0 |
-| Streak Record | 2 |
 
 
 # Whitestar Match Day

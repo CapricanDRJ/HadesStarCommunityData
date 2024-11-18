@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​BRhue
-description: W:10 L:12 D:0 Bonus ❌
+description: W:12 L:18 D:0 Bonus ❌
 date: 1731259618
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1206 🔻  (448)|
-| ELO Competitive | 1259 🔻  (343)|
+| ELO Regular | 1196 🔻  (521)|
+| ELO Competitive | 1271 🔻  (345)|
 | Total Matches | 22 |
-| Wins | 10 |
-| Losses | 12 |
+| Wins | 12 |
+| Losses | 18 |
 | Draws | 0 |
 | Streak Record | 4 |
 
