@@ -1,15 +1,15 @@
 ---
 layout: page
 title: ​СНГ — РОССИЯ
-description: W:5 L:9 D:3 Bonus ✅
+description: W:5 L:9 D:3 Bonus ❌
 date: 1731316706
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1147 🔺  (1095)|
-| ELO Competitive | 1189 🔺  (749)|
+| ELO Regular | 1147 🔺  (1094)|
+| ELO Competitive | 1189 🔺  (748)|
 | Total Matches | 17 |
 | Wins | 5 |
 | Losses | 9 |
