@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​StellaMysterium
-description: W:27 L:41 D:1 Bonus ✅
+description: W:27 L:41 D:1 Bonus ❌
 date: 1731893083
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1116 🔻  (1195)|
+| ELO Regular | 1116 🔻  (1194)|
 | ELO Competitive | 1297 🔻  (259)|
 | Total Matches | 69 |
 | Wins | 27 |

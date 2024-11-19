@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​银河护卫队
-description: W:4 L:6 D:1 Bonus ✅
-date: 1731991638
+description: W:4 L:7 D:1 Bonus ✅
+date: 1732015372
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1164 🔺  (996)|
+| ELO Regular | 1147 🔻  (1091)|
 | ELO Competitive | 1213 🔺  (531)|
-| Total Matches | 11 |
+| Total Matches | 12 |
 | Wins | 4 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 1 |
-| Streak | 2 |
 | Streak Record | 2 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731559638,1731085434,1731076718,1730622674,1730621472,1729995836,1729903578,1729271326,1728322514,1727870219,1726669030];
+        let timestamps = [1731583372,1731559638,1731085434,1731076718,1730622674,1730621472,1729995836,1729903578,1729271326,1728322514,1727870219,1726669030];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/19 | 0-7 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 | ✅ | 2024/11/19 | 9-0 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
 | ✅ | 2024/11/13 | 7-1 | [情谊永存](https://ws.tsl.rocks/corp/a3fee40ae9e62b95f50c653b7acf4990fee7b21461807dc90da90d429063a98c/) |
 | ❌ | 2024/11/13 | 0-6 | [Brasil](https://ws.tsl.rocks/corp/c1d98a4e0a9c522aff7cb4156b0dc139eb54566269c2203b2eae6fe1827fc6c3/) |

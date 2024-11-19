@@ -1,20 +1,19 @@
 ---
 layout: page
 title: ​RGW
-description: W:23 L:6 D:0 Bonus ✅
-date: 1731419172
+description: W:23 L:7 D:0 Bonus ✅
+date: 1732014693
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1405 🔺  (46)|
-| ELO Competitive | 1441 🔺  (93)|
-| Total Matches | 29 |
+| ELO Regular | 1387 🔻  (64)|
+| ELO Competitive | 1426 🔻  (104)|
+| Total Matches | 30 |
 | Wins | 23 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 0 |
-| Streak | 19 |
 | Streak Record | 19 |
 
 
@@ -32,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730987172,1730370254,1729762042,1729154116,1728563228,1727338932,1726735857,1726050794,1725523722,1723108839,1722499406,1721902869,1721327696,1720615107,1718273932,1717409823,1716379680,1715600921,1714644970,1713190252,1712410212,1711284019,1708321911,1706606929,1706122501,1704911135,1703654180,1702812697,1702312293];
+        let timestamps = [1731582693,1730987172,1730370254,1729762042,1729154116,1728563228,1727338932,1726735857,1726050794,1725523722,1723108839,1722499406,1721902869,1721327696,1720615107,1718273932,1717409823,1716379680,1715600921,1714644970,1713190252,1712410212,1711284019,1708321911,1706606929,1706122501,1704911135,1703654180,1702812697,1702312293];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/19 | 2-17 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
 | ✅ | 2024/11/12 | 17-8 | [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) |
 | ✅ | 2024/11/05 | 33-0 | [Вселенские 40%](https://ws.tsl.rocks/corp/963d73346ebb929607f54404f481ac2273b4f483915b93144d0757b066a1fd99/) |
 | ✅ | 2024/10/29 | 33-0 | [Eretria ](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |

@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Últimafronteira
-description: W:16 L:0 D:0 Bonus ✅
-date: 1731414062
+description: W:17 L:0 D:0 Bonus ✅
+date: 1732013570
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1379 🔺  (67)|
-| ELO Competitive | 1402 🔺  (122)|
-| Total Matches | 16 |
-| Wins | 16 |
+| ELO Regular | 1390 🔺  (59)|
+| ELO Competitive | 1418 🔺  (110)|
+| Total Matches | 17 |
+| Wins | 17 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 16 |
-| Streak Record | 16 |
+| Streak | 17 |
+| Streak Record | 17 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730982062,1730418641,1729770155,1727959474,1727345843,1726748176,1725573311,1724483991,1723845994,1721961171,1721344524,1718508192,1718062679,1718062379,1717610294,1716578864];
+        let timestamps = [1731581570,1730982062,1730418641,1729770155,1727959474,1727345843,1726748176,1725573311,1724483991,1723845994,1721961171,1721344524,1718508192,1718062679,1718062379,1717610294,1716578864];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -119,6 +119,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/19 | 43-0 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |
 | ✅ | 2024/11/12 | 39-0 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) |
 | ✅ | 2024/11/05 | 31-2 | [Sich\.ua](https://ws.tsl.rocks/corp/9fcd6d7c4fe7f8e39acf48585dfe9c6d3d14edc7781fe8caf85618b3e98c685d/) |
 | ✅ | 2024/10/29 | 53-0 | [拆迁大队](https://ws.tsl.rocks/corp/d8de6fa1ed53aeb856209de01d8a990a562d7438e0abe2cfe50776bb11345f17/) |

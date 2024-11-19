@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Quilliance
-description: W:22 L:2 D:0 Bonus ❌
-date: 1730816080
+description: W:23 L:2 D:0 Bonus ✅
+date: 1732014896
 ---
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1410 🔺  (39)|
-| ELO Competitive | 1443 🔺  (90)|
-| Total Matches | 24 |
-| Wins | 22 |
+| ELO Regular | 1415 🔺  (39)|
+| ELO Competitive | 1449 🔺  (82)|
+| Total Matches | 25 |
+| Wins | 23 |
 | Losses | 2 |
 | Draws | 0 |
-| Streak | 11 |
-| Streak Record | 11 |
+| Streak | 12 |
+| Streak Record | 12 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730384080,1729771357,1728558118,1727354859,1726144846,1724935052,1723739613,1722524650,1721313871,1720697755,1719494469,1718276035,1717098463,1715863511,1714659195,1712232628,1711022298,1709815614,1708595658,1707383004,1706173583,1704970331,1702549122,1701338827];
+        let timestamps = [1731582896,1730384080,1729771357,1728558118,1727354859,1726144846,1724935052,1723739613,1722524650,1721313871,1720697755,1719494469,1718276035,1717098463,1715863511,1714659195,1712232628,1711022298,1709815614,1708595658,1707383004,1706173583,1704970331,1702549122,1701338827];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/19 | 23-0 | [Вселенские 40%](https://ws.tsl.rocks/corp/963d73346ebb929607f54404f481ac2273b4f483915b93144d0757b066a1fd99/) |
 | ✅ | 2024/11/05 | 49-0 | [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046/) |
 | ✅ | 2024/10/29 | 21-7 | [Galaxians](https://ws.tsl.rocks/corp/94728c6eb201c1f15c6e2304b5920aa155ccc1a7aac83b574baae51c53a22c5d/) |
 | ✅ | 2024/10/15 | 24-2 | [Albedo](https://ws.tsl.rocks/corp/8e9848f9867c594384d6a31618213447f358c7b308fee91d20991b80b513fdbb/) |
