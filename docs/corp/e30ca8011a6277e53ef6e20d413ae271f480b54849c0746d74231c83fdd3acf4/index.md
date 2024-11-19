@@ -4,11 +4,15 @@ title: ​ALPHA
 description: W:15 L:6 D:0 Bonus ✅
 date: 1731995544
 ---
-### Whitestar Bonus ✅
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1313 🔻  (126)|
+| ELO Regular | 1313 🔻  (125)|
 | ELO Competitive | 1343 🔻  (191)|
 | Total Matches | 21 |
 | Wins | 15 |

@@ -4,12 +4,16 @@ title: ​永恒之梦
 description: W:6 L:3 D:2 Bonus ❌
 date: 1725284714
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1225 🔺  (327)|
-| ELO Competitive | 1243 🔺  (394)|
+| ELO Competitive | 1243 🔺  (395)|
 | Total Matches | 11 |
 | Wins | 6 |
 | Losses | 3 |

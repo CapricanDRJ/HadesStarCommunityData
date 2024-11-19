@@ -4,7 +4,11 @@ title: ​德意志第三帝国BATA分部
 description: W:1 L:0 D:0 Bonus ❌
 date: 1708953767
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

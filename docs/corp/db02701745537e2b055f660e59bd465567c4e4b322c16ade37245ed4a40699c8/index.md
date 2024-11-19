@@ -4,11 +4,15 @@ title: ​Russian Style
 description: W:3 L:6 D:1 Bonus ❌
 date: 1731046862
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1161 🔺  (1017)|
+| ELO Regular | 1161 🔺  (1018)|
 | ELO Competitive | 1164 🔺  (1118)|
 | Total Matches | 10 |
 | Wins | 3 |

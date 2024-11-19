@@ -4,11 +4,15 @@ title: ​KhaOSs
 description: W:0 L:2 D:0 Bonus ❌
 date: 1712955503
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔻  (965)|
+| ELO Regular | 1168 🔻  (966)|
 | ELO Competitive | 1168 🔻  (1084)|
 | Total Matches | 2 |
 | Wins | 0 |

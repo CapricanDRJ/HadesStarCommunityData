@@ -4,12 +4,16 @@ title: ​CIS
 description: W:38 L:10 D:1 Bonus ❌
 date: 1731915915
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1355 🔻  (80)|
-| ELO Competitive | 1447 🔻  (88)|
+| ELO Competitive | 1447 🔻  (89)|
 | Total Matches | 49 |
 | Wins | 38 |
 | Losses | 10 |

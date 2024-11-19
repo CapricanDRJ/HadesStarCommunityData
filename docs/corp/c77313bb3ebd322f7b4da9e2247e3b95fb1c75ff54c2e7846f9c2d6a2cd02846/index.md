@@ -4,11 +4,15 @@ title: ​Zeon
 description: W:0 L:4 D:0 Bonus ❌
 date: 1710232783
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1152 🔻  (1074)|
+| ELO Regular | 1152 🔻  (1075)|
 | ELO Competitive | 1152 🔻  (1178)|
 | Total Matches | 4 |
 | Wins | 0 |

@@ -4,12 +4,16 @@ title: ​墨痕空域
 description: W:39 L:37 D:1 Bonus ❌
 date: 1731930937
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1127 🔻  (1162)|
-| ELO Competitive | 1378 🔻  (150)|
+| ELO Competitive | 1378 🔻  (149)|
 | Total Matches | 77 |
 | Wins | 39 |
 | Losses | 37 |

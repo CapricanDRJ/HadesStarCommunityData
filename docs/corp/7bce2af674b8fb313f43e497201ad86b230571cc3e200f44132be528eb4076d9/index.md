@@ -4,12 +4,16 @@ title: ​Zvezdec
 description: W:38 L:18 D:0 Bonus ✅
 date: 1731832680
 ---
-### Whitestar Bonus ✅
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1369 🔺  (73)|
-| ELO Competitive | 1454 🔺  (78)|
+| ELO Competitive | 1454 🔺  (79)|
 | Total Matches | 56 |
 | Wins | 38 |
 | Losses | 18 |

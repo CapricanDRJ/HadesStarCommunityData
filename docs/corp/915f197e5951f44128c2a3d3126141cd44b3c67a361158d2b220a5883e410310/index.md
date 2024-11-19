@@ -4,12 +4,16 @@ title: ​Торг. федерация
 description: W:10 L:15 D:0 Bonus ✅
 date: 1731774090
 ---
-### Whitestar Bonus ✅
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1195 🔺  (536)|
-| ELO Competitive | 1244 🔺  (389)|
+| ELO Competitive | 1244 🔺  (390)|
 | Total Matches | 25 |
 | Wins | 10 |
 | Losses | 15 |

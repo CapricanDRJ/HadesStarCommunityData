@@ -4,11 +4,15 @@ title: ​Br Stark Corps
 description: W:3 L:6 D:0 Bonus ❌
 date: 1703708620
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1163 🔻  (1000)|
+| ELO Regular | 1163 🔻  (1001)|
 | ELO Competitive | 1165 🔻  (1115)|
 | Total Matches | 9 |
 | Wins | 3 |

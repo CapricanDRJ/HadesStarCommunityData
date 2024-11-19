@@ -4,11 +4,15 @@ title: ​Венерский Союз
 description: W:5 L:10 D:0 Bonus ❌
 date: 1716019102
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1166 🔻  (978)|
+| ELO Regular | 1166 🔻  (979)|
 | ELO Competitive | 1171 🔻  (1060)|
 | Total Matches | 15 |
 | Wins | 5 |

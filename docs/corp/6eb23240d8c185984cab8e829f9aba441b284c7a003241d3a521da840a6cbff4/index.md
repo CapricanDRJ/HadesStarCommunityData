@@ -4,11 +4,15 @@ title: ​猎户座星云
 description: W:3 L:6 D:0 Bonus ❌
 date: 1716034724
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (962)|
+| ELO Regular | 1169 🔻  (963)|
 | ELO Competitive | 1171 🔻  (1056)|
 | Total Matches | 9 |
 | Wins | 3 |

@@ -4,12 +4,16 @@ title: ​BoomTech
 description: W:23 L:9 D:2 Bonus ❌
 date: 1726314222
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1307 🔻  (133)|
-| ELO Competitive | 1380 🔻  (148)|
+| ELO Competitive | 1380 🔻  (147)|
 | Total Matches | 34 |
 | Wins | 23 |
 | Losses | 9 |

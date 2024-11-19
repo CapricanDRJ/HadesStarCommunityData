@@ -4,12 +4,16 @@ title: ​lesescargots
 description: W:51 L:20 D:0 Bonus ✅
 date: 1731901910
 ---
-### Whitestar Bonus ✅
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1387 🔺  (63)|
-| ELO Competitive | 1454 🔺  (79)|
+| ELO Competitive | 1454 🔺  (80)|
 | Total Matches | 71 |
 | Wins | 51 |
 | Losses | 20 |

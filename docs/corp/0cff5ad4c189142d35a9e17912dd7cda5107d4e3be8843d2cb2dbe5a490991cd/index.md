@@ -4,12 +4,16 @@ title: ​心之所向
 description: W:4 L:1 D:0 Bonus ❌
 date: 1711149196
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1238 🔻  (292)|
-| ELO Competitive | 1238 🔻  (407)|
+| ELO Competitive | 1238 🔻  (408)|
 | Total Matches | 5 |
 | Wins | 4 |
 | Losses | 1 |

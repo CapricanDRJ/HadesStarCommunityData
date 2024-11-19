@@ -4,7 +4,11 @@ title: ​Corp. Estelar
 description: W:22 L:19 D:0 Bonus ✅
 date: 1731785511
 ---
-### Whitestar Bonus ✅
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

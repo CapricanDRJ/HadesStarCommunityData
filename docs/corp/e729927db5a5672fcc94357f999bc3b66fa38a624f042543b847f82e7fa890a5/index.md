@@ -4,11 +4,15 @@ title: ​Atlas corp
 description: W:8 L:13 D:1 Bonus ❌
 date: 1732033406
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1154 🔻  (1060)|
+| ELO Regular | 1154 🔻  (1061)|
 | ELO Competitive | 1181 🔻  (956)|
 | Total Matches | 22 |
 | Wins | 8 |

@@ -4,11 +4,15 @@ title: ​empire
 description: W:1 L:4 D:0 Bonus ❌
 date: 1730853645
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1152 🔻  (1076)|
+| ELO Regular | 1152 🔻  (1077)|
 | ELO Competitive | 1158 🔻  (1149)|
 | Total Matches | 5 |
 | Wins | 1 |

@@ -4,11 +4,15 @@ title: ​OntarioDynasty
 description: W:1 L:4 D:0 Bonus ❌
 date: 1714167890
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1159 🔻  (1023)|
+| ELO Regular | 1159 🔻  (1024)|
 | ELO Competitive | 1165 🔻  (1116)|
 | Total Matches | 5 |
 | Wins | 1 |

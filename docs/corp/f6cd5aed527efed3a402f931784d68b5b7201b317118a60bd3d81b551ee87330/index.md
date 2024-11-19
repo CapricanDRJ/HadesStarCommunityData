@@ -4,12 +4,16 @@ title: ​Black Star llc.
 description: W:33 L:18 D:0 Bonus ❌
 date: 1731401141
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1315 🔻  (124)|
-| ELO Competitive | 1384 🔻  (142)|
+| ELO Regular | 1315 🔻  (123)|
+| ELO Competitive | 1384 🔻  (141)|
 | Total Matches | 51 |
 | Wins | 33 |
 | Losses | 18 |

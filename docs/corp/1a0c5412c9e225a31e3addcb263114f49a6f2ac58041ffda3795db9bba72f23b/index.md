@@ -4,7 +4,11 @@ title: ​Kratos
 description: W:46 L:26 D:0 Bonus ❌
 date: 1731629838
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

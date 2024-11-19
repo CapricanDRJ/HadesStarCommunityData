@@ -4,12 +4,16 @@ title: ​Rising star
 description: W:26 L:35 D:0 Bonus ✅
 date: 1731732021
 ---
-### Whitestar Bonus ✅
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1175 🔺  (864)|
-| ELO Competitive | 1247 🔺  (375)|
+| ELO Competitive | 1247 🔺  (376)|
 | Total Matches | 61 |
 | Wins | 26 |
 | Losses | 35 |

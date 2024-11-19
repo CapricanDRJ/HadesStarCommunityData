@@ -4,12 +4,16 @@ title: ​1st/Ave/Junkie2
 description: W:21 L:26 D:1 Bonus ❌
 date: 1731238579
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1196 🔻  (528)|
-| ELO Competitive | 1234 🔻  (419)|
+| ELO Competitive | 1234 🔻  (420)|
 | Total Matches | 48 |
 | Wins | 21 |
 | Losses | 26 |

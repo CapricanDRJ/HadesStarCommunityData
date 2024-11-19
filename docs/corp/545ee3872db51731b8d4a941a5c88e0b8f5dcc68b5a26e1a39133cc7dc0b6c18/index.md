@@ -4,11 +4,15 @@ title: ​中国星际联盟·第一自治州
 description: W:1 L:3 D:1 Bonus ❌
 date: 1725618874
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔺  (949)|
+| ELO Regular | 1170 🔺  (950)|
 | ELO Competitive | 1175 🔺  (1000)|
 | Total Matches | 5 |
 | Wins | 1 |

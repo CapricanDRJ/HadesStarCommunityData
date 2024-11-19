@@ -4,11 +4,15 @@ title: ​Frontier X
 description: W:9 L:4 D:0 Bonus ❌
 date: 1708872607
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1262 🔻  (216)|
+| ELO Regular | 1262 🔻  (215)|
 | ELO Competitive | 1263 🔻  (330)|
 | Total Matches | 13 |
 | Wins | 9 |

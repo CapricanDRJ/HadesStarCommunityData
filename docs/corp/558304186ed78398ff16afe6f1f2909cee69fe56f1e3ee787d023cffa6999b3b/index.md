@@ -4,11 +4,15 @@ title: ​六大天神.轻歌之影
 description: W:22 L:27 D:0 Bonus ❌
 date: 1725715639
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1155 🔻  (1058)|
+| ELO Regular | 1155 🔻  (1059)|
 | ELO Competitive | 1230 🔻  (433)|
 | Total Matches | 49 |
 | Wins | 22 |

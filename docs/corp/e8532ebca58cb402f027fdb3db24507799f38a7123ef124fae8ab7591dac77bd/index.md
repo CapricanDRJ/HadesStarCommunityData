@@ -4,11 +4,15 @@ title: ​仙女座星雲
 description: W:65 L:50 D:4 Bonus ✅
 date: 1731846502
 ---
-### Whitestar Bonus ✅
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1256 🔻  (233)|
+| ELO Regular | 1256 🔻  (232)|
 | ELO Competitive | 1572 🔺  (21)|
 | Total Matches | 119 |
 | Wins | 65 |

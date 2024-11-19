@@ -4,11 +4,15 @@ title: ​Nooooobs
 description: W:2 L:5 D:0 Bonus ❌
 date: 1705181761
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1161 🔻  (1015)|
+| ELO Regular | 1161 🔻  (1016)|
 | ELO Competitive | 1160 🔻  (1138)|
 | Total Matches | 7 |
 | Wins | 2 |

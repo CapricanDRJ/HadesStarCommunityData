@@ -4,7 +4,11 @@ title: ​ZORG IND
 description: W:21 L:9 D:1 Bonus ✅
 date: 1731957387
 ---
-### Whitestar Bonus ✅
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

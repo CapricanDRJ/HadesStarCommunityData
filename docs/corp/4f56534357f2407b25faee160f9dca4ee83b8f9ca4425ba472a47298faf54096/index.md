@@ -4,12 +4,16 @@ title: ​Z. O. V.
 description: W:31 L:8 D:1 Bonus ❌
 date: 1731846202
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1383 🔻  (66)|
-| ELO Competitive | 1448 🔻  (85)|
+| ELO Competitive | 1448 🔻  (86)|
 | Total Matches | 40 |
 | Wins | 31 |
 | Losses | 8 |

@@ -4,12 +4,16 @@ title: ​Девчата
 description: W:3 L:0 D:0 Bonus ❌
 date: 1724069137
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1242 🔺  (274)|
-| ELO Competitive | 1250 🔺  (370)|
+| ELO Competitive | 1250 🔺  (371)|
 | Total Matches | 3 |
 | Wins | 3 |
 | Losses | 0 |

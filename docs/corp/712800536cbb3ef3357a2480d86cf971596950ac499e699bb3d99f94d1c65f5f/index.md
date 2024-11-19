@@ -4,12 +4,16 @@ title: ​혁명군
 description: W:13 L:32 D:0 Bonus ❌
 date: 1715096003
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1115 🔻  (1204)|
-| ELO Competitive | 1248 🔺  (374)|
+| ELO Competitive | 1248 🔺  (375)|
 | Total Matches | 45 |
 | Wins | 13 |
 | Losses | 32 |

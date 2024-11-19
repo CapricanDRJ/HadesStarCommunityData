@@ -4,12 +4,16 @@ title: ​Got Nothing
 description: W:15 L:13 D:0 Bonus ❌
 date: 1731760563
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1220 🔻  (349)|
-| ELO Competitive | 1251 🔻  (368)|
+| ELO Competitive | 1251 🔻  (369)|
 | Total Matches | 28 |
 | Wins | 15 |
 | Losses | 13 |

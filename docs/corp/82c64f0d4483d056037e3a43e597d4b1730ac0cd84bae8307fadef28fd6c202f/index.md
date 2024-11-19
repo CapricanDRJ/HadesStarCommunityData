@@ -4,11 +4,15 @@ title: ​Чистое Небо
 description: W:0 L:3 D:0 Bonus ❌
 date: 1720780411
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1155 🔻  (1059)|
+| ELO Regular | 1155 🔻  (1060)|
 | ELO Competitive | 1156 🔻  (1163)|
 | Total Matches | 3 |
 | Wins | 0 |

@@ -4,7 +4,11 @@ title: ​King's Guard
 description: W:25 L:67 D:5 Bonus ❌
 date: 1731867241
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

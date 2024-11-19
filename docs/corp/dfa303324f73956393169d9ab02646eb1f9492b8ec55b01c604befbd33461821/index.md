@@ -4,11 +4,15 @@ title: ​𝖕𝖎𝖗𝖆𝖙𝖊𝖘
 description: W:1 L:3 D:1 Bonus ❌
 date: 1726627017
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (950)|
+| ELO Regular | 1169 🔻  (951)|
 | ELO Competitive | 1170 🔻  (1075)|
 | Total Matches | 5 |
 | Wins | 1 |

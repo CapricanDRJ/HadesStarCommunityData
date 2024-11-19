@@ -4,11 +4,15 @@ title: ​Мертвый Космос
 description: W:0 L:2 D:0 Bonus ❌
 date: 1727297067
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 🔻  (980)|
+| ELO Regular | 1165 🔻  (981)|
 | ELO Competitive | 1173 🔻  (1028)|
 | Total Matches | 2 |
 | Wins | 0 |

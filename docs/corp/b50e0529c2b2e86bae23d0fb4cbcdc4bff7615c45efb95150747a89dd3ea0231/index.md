@@ -4,12 +4,16 @@ title: ​Star Fleet
 description: W:12 L:19 D:0 Bonus ❌
 date: 1726657374
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1194 🔺  (545)|
-| ELO Competitive | 1244 🔺  (390)|
+| ELO Competitive | 1244 🔺  (391)|
 | Total Matches | 31 |
 | Wins | 12 |
 | Losses | 19 |

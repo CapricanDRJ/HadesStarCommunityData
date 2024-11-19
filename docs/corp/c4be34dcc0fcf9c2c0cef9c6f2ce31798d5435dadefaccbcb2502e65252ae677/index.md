@@ -4,12 +4,16 @@ title: ​纸鸢台
 description: W:4 L:1 D:0 Bonus ❌
 date: 1726040459
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1247 🔺  (252)|
-| ELO Competitive | 1249 🔺  (373)|
+| ELO Competitive | 1249 🔺  (374)|
 | Total Matches | 5 |
 | Wins | 4 |
 | Losses | 1 |

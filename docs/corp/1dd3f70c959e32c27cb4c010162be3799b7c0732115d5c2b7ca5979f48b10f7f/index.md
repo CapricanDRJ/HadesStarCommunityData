@@ -4,7 +4,11 @@ title: ​萌新的收留所
 description: W:17 L:5 D:1 Bonus ❌
 date: 1724653949
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

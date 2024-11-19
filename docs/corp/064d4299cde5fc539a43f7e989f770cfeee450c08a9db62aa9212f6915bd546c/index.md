@@ -4,7 +4,11 @@ title: ​레드썬
 description: W:0 L:1 D:0 Bonus ❌
 date: 1729169549
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

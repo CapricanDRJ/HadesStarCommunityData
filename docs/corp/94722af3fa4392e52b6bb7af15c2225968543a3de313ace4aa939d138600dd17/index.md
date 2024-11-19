@@ -4,12 +4,16 @@ title: ​Madison Holding
 description: W:7 L:4 D:0 Bonus ❌
 date: 1704925417
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1239 🔻  (280)|
-| ELO Competitive | 1243 🔻  (393)|
+| ELO Competitive | 1243 🔻  (394)|
 | Total Matches | 11 |
 | Wins | 7 |
 | Losses | 4 |

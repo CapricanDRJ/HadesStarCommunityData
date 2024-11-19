@@ -4,11 +4,15 @@ title: ​盾牌座UY分团
 description: W:0 L:3 D:0 Bonus ❌
 date: 1709204477
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1156 🔻  (1047)|
+| ELO Regular | 1156 🔻  (1048)|
 | ELO Competitive | 1158 🔻  (1154)|
 | Total Matches | 3 |
 | Wins | 0 |

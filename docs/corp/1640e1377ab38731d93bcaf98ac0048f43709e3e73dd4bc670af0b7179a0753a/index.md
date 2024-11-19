@@ -4,11 +4,15 @@ title: ​遨游星空
 description: W:0 L:2 D:0 Bonus ❌
 date: 1727398932
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔻  (947)|
+| ELO Regular | 1170 🔻  (948)|
 | ELO Competitive | 1171 🔻  (1067)|
 | Total Matches | 2 |
 | Wins | 0 |

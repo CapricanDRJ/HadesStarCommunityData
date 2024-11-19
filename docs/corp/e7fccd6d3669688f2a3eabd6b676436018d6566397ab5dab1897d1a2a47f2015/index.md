@@ -4,12 +4,16 @@ title: ​UKR Spase
 description: W:26 L:11 D:0 Bonus ✅
 date: 1731930937
 ---
-### Whitestar Bonus ✅
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1388 🔺  (62)|
-| ELO Competitive | 1449 🔺  (83)|
+| ELO Competitive | 1449 🔺  (84)|
 | Total Matches | 37 |
 | Wins | 26 |
 | Losses | 11 |

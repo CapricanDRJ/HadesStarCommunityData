@@ -4,11 +4,15 @@ title: ​Т Е Н Ь
 description: W:6 L:1 D:0 Bonus ✅
 date: 1731747642
 ---
-### Whitestar Bonus ✅
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1263 🔺  (212)|
+| ELO Regular | 1263 🔺  (211)|
 | ELO Competitive | 1307 🔺  (240)|
 | Total Matches | 7 |
 | Wins | 6 |

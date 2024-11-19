@@ -4,11 +4,15 @@ title: ​WHITE NOVA
 description: W:2 L:5 D:0 Bonus ❌
 date: 1731379810
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1154 🔻  (1065)|
+| ELO Regular | 1154 🔻  (1066)|
 | ELO Competitive | 1156 🔻  (1166)|
 | Total Matches | 7 |
 | Wins | 2 |

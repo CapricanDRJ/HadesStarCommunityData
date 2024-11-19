@@ -4,11 +4,15 @@ title: ​СОЮЗ
 description: W:7 L:4 D:0 Bonus ❌
 date: 1722044879
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1259 🔺  (222)|
+| ELO Regular | 1259 🔺  (221)|
 | ELO Competitive | 1276 🔺  (303)|
 | Total Matches | 11 |
 | Wins | 7 |

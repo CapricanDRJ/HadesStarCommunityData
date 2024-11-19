@@ -4,7 +4,11 @@ title: ​Слава Украине!
 description: W:79 L:37 D:1 Bonus ✅
 date: 1731771685
 ---
-### Whitestar Bonus ✅
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |

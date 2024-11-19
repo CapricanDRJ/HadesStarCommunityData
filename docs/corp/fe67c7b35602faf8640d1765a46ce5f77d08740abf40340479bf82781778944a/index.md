@@ -4,7 +4,11 @@ title: ​水星联合组织
 description: W:3 L:3 D:0 Bonus ❌
 date: 1702443740
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

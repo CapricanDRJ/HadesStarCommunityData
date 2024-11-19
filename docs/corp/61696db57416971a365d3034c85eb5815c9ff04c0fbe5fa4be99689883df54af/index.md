@@ -4,12 +4,16 @@ title: ​Ƭιтαηѕ Ф тєʀʀσƦ
 description: W:37 L:20 D:2 Bonus ❌
 date: 1731897890
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1309 🔻  (130)|
-| ELO Competitive | 1447 🔻  (86)|
+| ELO Competitive | 1447 🔻  (87)|
 | Total Matches | 59 |
 | Wins | 37 |
 | Losses | 20 |

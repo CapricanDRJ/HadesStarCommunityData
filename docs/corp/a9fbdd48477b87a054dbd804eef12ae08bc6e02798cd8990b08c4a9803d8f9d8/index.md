@@ -4,12 +4,16 @@ title: ​MÉXICO INFINITO
 description: W:19 L:26 D:0 Bonus ❌
 date: 1727929599
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1162 🔻  (1004)|
-| ELO Competitive | 1243 🔻  (395)|
+| ELO Regular | 1162 🔻  (1005)|
+| ELO Competitive | 1243 🔻  (396)|
 | Total Matches | 45 |
 | Wins | 19 |
 | Losses | 26 |

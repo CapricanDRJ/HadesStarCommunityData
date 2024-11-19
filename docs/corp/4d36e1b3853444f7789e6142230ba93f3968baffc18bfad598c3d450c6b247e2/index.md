@@ -4,11 +4,15 @@ title: ​资助会
 description: W:9 L:4 D:0 Bonus ❌
 date: 1728149871
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1248 🔻  (247)|
+| ELO Regular | 1248 🔻  (246)|
 | ELO Competitive | 1260 🔻  (342)|
 | Total Matches | 13 |
 | Wins | 9 |

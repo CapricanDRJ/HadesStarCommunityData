@@ -4,11 +4,15 @@ title: ​遨游星空  kdy分盟
 description: W:13 L:18 D:1 Bonus ❌
 date: 1721625973
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1163 🔻  (997)|
+| ELO Regular | 1163 🔻  (998)|
 | ELO Competitive | 1229 🔻  (437)|
 | Total Matches | 32 |
 | Wins | 13 |

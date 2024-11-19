@@ -4,11 +4,15 @@ title: ​CSI
 description: W:1 L:5 D:0 Bonus ❌
 date: 1706545194
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1154 🔻  (1064)|
+| ELO Regular | 1154 🔻  (1065)|
 | ELO Competitive | 1154 🔻  (1171)|
 | Total Matches | 6 |
 | Wins | 1 |

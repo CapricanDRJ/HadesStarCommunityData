@@ -4,11 +4,15 @@ title: ​JPR. Pretorians
 description: W:6 L:9 D:0 Bonus ❌
 date: 1710787868
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1155 🔻  (1053)|
+| ELO Regular | 1155 🔻  (1054)|
 | ELO Competitive | 1218 🔻  (480)|
 | Total Matches | 15 |
 | Wins | 6 |

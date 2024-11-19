@@ -4,11 +4,15 @@ title: ​无聊不过
 description: W:9 L:4 D:1 Bonus ❌
 date: 1729580107
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1256 🔺  (232)|
+| ELO Regular | 1256 🔺  (231)|
 | ELO Competitive | 1287 🔺  (276)|
 | Total Matches | 14 |
 | Wins | 9 |

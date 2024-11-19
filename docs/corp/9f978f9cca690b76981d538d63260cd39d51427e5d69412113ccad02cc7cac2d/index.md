@@ -4,11 +4,15 @@ title: ​Soylent Corp.
 description: W:26 L:15 D:0 Bonus ❌
 date: 1727889033
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1261 🔺  (217)|
+| ELO Regular | 1261 🔺  (216)|
 | ELO Competitive | 1322 🔺  (219)|
 | Total Matches | 41 |
 | Wins | 26 |

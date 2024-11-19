@@ -4,11 +4,15 @@ title: ​Бороская Имерия
 description: W:7 L:4 D:0 Bonus ✅
 date: 1731535766
 ---
-### Whitestar Bonus ✅
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1260 🔺  (220)|
+| ELO Regular | 1260 🔺  (219)|
 | ELO Competitive | 1267 🔺  (323)|
 | Total Matches | 11 |
 | Wins | 7 |

@@ -4,11 +4,15 @@ title: ​神仙'
 description: W:8 L:11 D:3 Bonus ❌
 date: 1710327537
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1153 🔻  (1069)|
+| ELO Regular | 1153 🔻  (1070)|
 | ELO Competitive | 1198 🔻  (642)|
 | Total Matches | 22 |
 | Wins | 8 |

@@ -4,12 +4,16 @@ title: ​империя тьмы
 description: W:20 L:31 D:3 Bonus ❌
 date: 1730203658
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1109 🔻  (1219)|
-| ELO Competitive | 1251 🔻  (369)|
+| ELO Competitive | 1251 🔻  (370)|
 | Total Matches | 54 |
 | Wins | 20 |
 | Losses | 31 |

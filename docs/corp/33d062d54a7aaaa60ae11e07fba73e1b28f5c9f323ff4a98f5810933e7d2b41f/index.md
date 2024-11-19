@@ -4,12 +4,16 @@ title: ​oen
 description: W:4 L:1 D:1 Bonus ❌
 date: 1728453688
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1238 🔻  (289)|
-| ELO Competitive | 1251 🔻  (366)|
+| ELO Competitive | 1251 🔻  (367)|
 | Total Matches | 6 |
 | Wins | 4 |
 | Losses | 1 |

@@ -4,11 +4,15 @@ title: ​Cowboys
 description: W:6 L:9 D:3 Bonus ❌
 date: 1714959908
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1163 🔻  (1003)|
+| ELO Regular | 1163 🔻  (1004)|
 | ELO Competitive | 1166 🔺  (1103)|
 | Total Matches | 18 |
 | Wins | 6 |

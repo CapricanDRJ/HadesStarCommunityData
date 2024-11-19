@@ -4,11 +4,15 @@ title: ​SALTARDIS
 description: W:2 L:6 D:0 Bonus ❌
 date: 1706068866
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1154 🔻  (1061)|
+| ELO Regular | 1154 🔻  (1062)|
 | ELO Competitive | 1169 🔻  (1081)|
 | Total Matches | 8 |
 | Wins | 2 |

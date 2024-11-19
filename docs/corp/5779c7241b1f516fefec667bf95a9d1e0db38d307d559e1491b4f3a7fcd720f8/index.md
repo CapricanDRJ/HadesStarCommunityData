@@ -4,11 +4,15 @@ title: ​Zeta LLC
 description: W:7 L:2 D:0 Bonus ❌
 date: 1718398212
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1266 🔻  (209)|
+| ELO Regular | 1266 🔻  (208)|
 | ELO Competitive | 1270 🔻  (313)|
 | Total Matches | 9 |
 | Wins | 7 |

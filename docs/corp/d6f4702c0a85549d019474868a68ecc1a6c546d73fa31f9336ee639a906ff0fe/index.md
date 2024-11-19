@@ -4,12 +4,16 @@ title: ​Equinox
 description: W:3 L:0 D:0 Bonus ✅
 date: 1731995544
 ---
-### Whitestar Bonus ✅
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1243 🔺  (272)|
-| ELO Competitive | 1247 🔺  (377)|
+| ELO Competitive | 1247 🔺  (378)|
 | Total Matches | 3 |
 | Wins | 3 |
 | Losses | 0 |

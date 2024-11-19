@@ -4,11 +4,15 @@ title: ​Red Alliance
 description: W:15 L:17 D:2 Bonus ✅
 date: 1731957086
 ---
-### Whitestar Bonus ✅
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1166 🔺  (973)|
+| ELO Regular | 1166 🔺  (974)|
 | ELO Competitive | 1262 🔺  (338)|
 | Total Matches | 34 |
 | Wins | 15 |

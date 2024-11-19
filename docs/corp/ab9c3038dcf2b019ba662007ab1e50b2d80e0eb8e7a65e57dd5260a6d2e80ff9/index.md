@@ -4,11 +4,15 @@ title: ​Halcon español
 description: W:26 L:15 D:1 Bonus ❌
 date: 1729943211
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1257 🔻  (226)|
+| ELO Regular | 1257 🔻  (225)|
 | ELO Competitive | 1305 🔻  (242)|
 | Total Matches | 42 |
 | Wins | 26 |

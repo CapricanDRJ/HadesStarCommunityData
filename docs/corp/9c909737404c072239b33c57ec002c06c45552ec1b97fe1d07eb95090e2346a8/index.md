@@ -4,11 +4,15 @@ title: ​Minutemen
 description: W:9 L:15 D:0 Bonus ❌
 date: 1727491786
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (958)|
+| ELO Regular | 1169 🔻  (959)|
 | ELO Competitive | 1198 🔻  (632)|
 | Total Matches | 24 |
 | Wins | 9 |

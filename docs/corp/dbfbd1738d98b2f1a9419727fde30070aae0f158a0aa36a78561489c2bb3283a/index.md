@@ -4,11 +4,15 @@ title: ​Green Dwarf
 description: W:4 L:1 D:0 Bonus ❌
 date: 1718536141
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1247 🔺  (249)|
+| ELO Regular | 1247 🔺  (248)|
 | ELO Competitive | 1262 🔺  (337)|
 | Total Matches | 5 |
 | Wins | 4 |

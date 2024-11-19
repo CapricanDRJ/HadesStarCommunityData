@@ -4,11 +4,15 @@ title: ​行星联合军
 description: W:7 L:10 D:0 Bonus ❌
 date: 1729688296
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1151 🔻  (1078)|
+| ELO Regular | 1151 🔻  (1079)|
 | ELO Competitive | 1173 🔻  (1020)|
 | Total Matches | 17 |
 | Wins | 7 |

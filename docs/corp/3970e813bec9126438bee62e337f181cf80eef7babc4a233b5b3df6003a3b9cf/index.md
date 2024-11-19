@@ -4,11 +4,15 @@ title: ​Free Star
 description: W:5 L:8 D:0 Bonus ❌
 date: 1704630910
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1156 🔻  (1050)|
+| ELO Regular | 1156 🔻  (1051)|
 | ELO Competitive | 1202 🔻  (584)|
 | Total Matches | 13 |
 | Wins | 5 |

@@ -4,11 +4,15 @@ title: ​Eastern Front
 description: W:49 L:49 D:2 Bonus ✅
 date: 1731464849
 ---
-### Whitestar Bonus ✅
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1264 🔺  (211)|
+| ELO Regular | 1264 🔺  (210)|
 | ELO Competitive | 1502 🔺  (42)|
 | Total Matches | 100 |
 | Wins | 49 |

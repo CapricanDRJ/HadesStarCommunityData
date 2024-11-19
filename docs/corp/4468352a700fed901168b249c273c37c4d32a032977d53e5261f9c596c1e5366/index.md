@@ -4,11 +4,15 @@ title: ​The Smeg Heads
 description: W:1 L:5 D:0 Bonus ❌
 date: 1731222354
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1153 🔺  (1070)|
+| ELO Regular | 1153 🔺  (1071)|
 | ELO Competitive | 1158 🔺  (1153)|
 | Total Matches | 6 |
 | Wins | 1 |

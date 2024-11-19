@@ -4,12 +4,16 @@ title: ​羽共和体
 description: W:17 L:25 D:8 Bonus ❌
 date: 1728735880
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔻  (1039)|
-| ELO Competitive | 1235 🔻  (412)|
+| ELO Regular | 1157 🔻  (1040)|
+| ELO Competitive | 1235 🔻  (413)|
 | Total Matches | 50 |
 | Wins | 17 |
 | Losses | 25 |

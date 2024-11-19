@@ -4,11 +4,15 @@ title: ​星际集团
 description: W:2 L:4 D:2 Bonus ❌
 date: 1718796685
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1160 🔻  (1020)|
+| ELO Regular | 1160 🔻  (1021)|
 | ELO Competitive | 1163 🔻  (1126)|
 | Total Matches | 8 |
 | Wins | 2 |

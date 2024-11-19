@@ -4,12 +4,16 @@ title: ​TeddisaurusWrex
 description: W:45 L:14 D:0 Bonus ✅
 date: 1731920722
 ---
-### Whitestar Bonus ✅
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1332 🔺  (111)|
-| ELO Competitive | 1451 🔺  (80)|
+| ELO Competitive | 1451 🔺  (81)|
 | Total Matches | 59 |
 | Wins | 45 |
 | Losses | 14 |

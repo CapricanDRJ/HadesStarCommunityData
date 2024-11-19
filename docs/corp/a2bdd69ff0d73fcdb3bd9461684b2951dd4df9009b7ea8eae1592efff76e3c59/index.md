@@ -4,11 +4,15 @@ title: ​Curcubeu
 description: W:17 L:14 D:0 Bonus ❌
 date: 1731619319
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔻  (1037)|
+| ELO Regular | 1157 🔻  (1038)|
 | ELO Competitive | 1269 🔻  (317)|
 | Total Matches | 31 |
 | Wins | 17 |

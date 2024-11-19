@@ -4,12 +4,16 @@ title: ​Star Wars
 description: W:10 L:8 D:0 Bonus ❌
 date: 1722148180
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1225 🔺  (328)|
-| ELO Competitive | 1246 🔺  (381)|
+| ELO Competitive | 1246 🔺  (382)|
 | Total Matches | 18 |
 | Wins | 10 |
 | Losses | 8 |

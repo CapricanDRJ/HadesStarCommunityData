@@ -4,11 +4,15 @@ title: ​Hexwood
 description: W:9 L:5 D:0 Bonus ❌
 date: 1731153837
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1266 🔻  (207)|
+| ELO Regular | 1266 🔻  (206)|
 | ELO Competitive | 1287 🔻  (277)|
 | Total Matches | 14 |
 | Wins | 9 |

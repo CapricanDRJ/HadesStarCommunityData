@@ -4,11 +4,15 @@ title: ​Эдельвейс
 description: W:0 L:3 D:1 Bonus ❌
 date: 1701058584
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1156 🔻  (1048)|
+| ELO Regular | 1156 🔻  (1049)|
 | ELO Competitive | 1185 🔻  (858)|
 | Total Matches | 4 |
 | Wins | 0 |

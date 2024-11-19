@@ -4,11 +4,15 @@ title: ​游徒训练营
 description: W:2 L:5 D:1 Bonus ❌
 date: 1719768708
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1164 🔻  (993)|
+| ELO Regular | 1164 🔻  (994)|
 | ELO Competitive | 1182 🔻  (949)|
 | Total Matches | 8 |
 | Wins | 2 |

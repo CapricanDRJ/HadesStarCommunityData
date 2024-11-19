@@ -4,11 +4,15 @@ title: ​咕咕咕咕咕咕咕咕咕咕咕咕咕咕咕
 description: W:0 L:3 D:2 Bonus ❌
 date: 1714959908
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1159 🔺  (1025)|
+| ELO Regular | 1159 🔺  (1026)|
 | ELO Competitive | 1186 🔻  (798)|
 | Total Matches | 5 |
 | Wins | 0 |

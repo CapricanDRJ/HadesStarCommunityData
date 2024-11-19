@@ -4,12 +4,16 @@ title: ​星海扬帆
 description: W:23 L:18 D:0 Bonus ❌
 date: 1728214173
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1267 🔺  (205)|
-| ELO Competitive | 1375 🔺  (152)|
+| ELO Competitive | 1375 🔺  (151)|
 | Total Matches | 41 |
 | Wins | 23 |
 | Losses | 18 |

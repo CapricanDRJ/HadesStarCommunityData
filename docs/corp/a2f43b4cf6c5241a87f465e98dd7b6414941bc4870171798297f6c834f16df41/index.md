@@ -4,11 +4,15 @@ title: ​Jesus Followers
 description: W:1 L:5 D:0 Bonus ❌
 date: 1731752750
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1158 🔻  (1033)|
+| ELO Regular | 1158 🔻  (1034)|
 | ELO Competitive | 1167 🔻  (1095)|
 | Total Matches | 6 |
 | Wins | 1 |

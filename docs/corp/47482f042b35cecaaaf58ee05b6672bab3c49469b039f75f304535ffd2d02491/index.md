@@ -4,7 +4,11 @@ title: ​GermanSpaceUno.
 description: W:5 L:20 D:0 Bonus ❌
 date: 1726496019
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

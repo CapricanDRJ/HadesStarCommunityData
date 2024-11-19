@@ -4,11 +4,15 @@ title: ​Quin Armarda
 description: W:0 L:2 D:0 Bonus ❌
 date: 1720733966
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1167 🔻  (971)|
+| ELO Regular | 1167 🔻  (972)|
 | ELO Competitive | 1172 🔻  (1042)|
 | Total Matches | 2 |
 | Wins | 0 |

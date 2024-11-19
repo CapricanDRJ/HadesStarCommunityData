@@ -4,11 +4,15 @@ title: ​Elite2.0
 description: W:1 L:3 D:1 Bonus ❌
 date: 1703905762
 ---
-### Whitestar Bonus ❌
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔻  (967)|
+| ELO Regular | 1168 🔻  (968)|
 | ELO Competitive | 1183 🔻  (930)|
 | Total Matches | 5 |
 | Wins | 1 |

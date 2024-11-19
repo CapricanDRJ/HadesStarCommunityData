@@ -4,11 +4,15 @@ title: ​Серебряная орда
 description: W:56 L:42 D:2 Bonus ✅
 date: 1732013570
 ---
-### Whitestar Bonus ✅
+
+<div style="position: relative;">
+  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+</div>
+    ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1256 🔻  (227)|
+| ELO Regular | 1256 🔻  (226)|
 | ELO Competitive | 1437 🔺  (96)|
 | Total Matches | 100 |
 | Wins | 56 |
