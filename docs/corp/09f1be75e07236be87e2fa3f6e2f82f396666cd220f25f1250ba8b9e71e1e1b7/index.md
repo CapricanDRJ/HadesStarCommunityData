@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Lacuna Ind.
-description: W:7 L:28 D:1 Bonus ❌
+description: W:7 L:27 D:1 Bonus ❌
 date: 1730976844
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1049 🔻  (1284)|
+| ELO Regular | 1053 🔻  (1279)|
 | ELO Competitive | 1082 🔻  (1292)|
 | Total Matches | 35 |
 | Wins | 7 |
-| Losses | 28 |
+| Losses | 27 |
 | Draws | 1 |
 | Streak Record | 3 |
 

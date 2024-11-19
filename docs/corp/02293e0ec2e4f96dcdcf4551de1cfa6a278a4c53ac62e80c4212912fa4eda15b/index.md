@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​White Dwarf
-description: W:45 L:14 D:0 Bonus ✅
+description: W:44 L:14 D:0 Bonus ✅
 date: 1732048434
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1431 🔻  (35)|
-| ELO Competitive | 1484 🔻  (57)|
+| ELO Regular | 1429 🔻  (35)|
+| ELO Competitive | 1482 🔻  (59)|
 | Total Matches | 58 |
-| Wins | 45 |
+| Wins | 44 |
 | Losses | 14 |
 | Draws | 0 |
 | Streak Record | 10 |
