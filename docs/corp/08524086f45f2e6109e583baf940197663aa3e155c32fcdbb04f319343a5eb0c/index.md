@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Looping
-description: W:26 L:22 D:0 Bonus ✅
+description: W:26 L:23 D:0 Bonus ✅
 date: 1731686641
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1200 🔺  (484)|
-| ELO Competitive | 1284 🔺  (283)|
+| ELO Regular | 1198 🔺  (516)|
+| ELO Competitive | 1284 🔺  (285)|
 | Total Matches | 48 |
 | Wins | 26 |
-| Losses | 22 |
+| Losses | 23 |
 | Draws | 0 |
 | Streak Record | 9 |
 
