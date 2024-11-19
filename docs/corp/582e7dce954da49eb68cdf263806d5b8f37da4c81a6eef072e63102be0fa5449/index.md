@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Argentina 1.0
-description: W:30 L:14 D:1 Bonus ✅
+description: W:30 L:14 D:1 Bonus ❌
 date: 1732026493
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

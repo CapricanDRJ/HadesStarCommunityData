@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Spaceballs
-description: W:16 L:16 D:0 Bonus ✅
-date: 1731438106
+description: W:17 L:16 D:0 Bonus ✅
+date: 1732043024
 ---
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1267 🔺  (203)|
-| ELO Competitive | 1299 🔺  (256)|
-| Total Matches | 32 |
-| Wins | 16 |
+| ELO Regular | 1290 🔺  (155)|
+| ELO Competitive | 1326 🔺  (213)|
+| Total Matches | 33 |
+| Wins | 17 |
 | Losses | 16 |
 | Draws | 0 |
-| Streak | 4 |
-| Streak Record | 4 |
+| Streak | 5 |
+| Streak Record | 5 |
 
 
 # Whitestar Match Day
@@ -32,7 +32,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731006106,1730401512,1729810127,1729289361,1720723611,1720117144,1719520319,1718913884,1718303087,1717720893,1717098463,1716483333,1715891158,1715268918,1714673019,1714060368,1713459481,1712855819,1712250059,1711645183,1711031915,1710433082,1709829738,1709229690,1708630820,1708039446,1707406142,1706805269,1706203637,1705598098,1699969769,1699506570];
+        let timestamps = [1731611024,1731006106,1730401512,1729810127,1729289361,1720723611,1720117144,1719520319,1718913884,1718303087,1717720893,1717098463,1716483333,1715891158,1715268918,1714673019,1714060368,1713459481,1712855819,1712250059,1711645183,1711031915,1710433082,1709829738,1709229690,1708630820,1708039446,1707406142,1706805269,1706203637,1705598098,1699969769,1699506570];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,13 +118,14 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) | 1 | 2 | 0 | 3 |
 | [Unión latina](https://ws.tsl.rocks/corp/9919a50d277644f496c19d5becdf40abb251d000345f049632329f0b35b7fbf1/) | 1 | 1 | 0 | 2 |
-| [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) | 0 | 2 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/19 | 24-0 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ✅ | 2024/11/12 | 16-4 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |
 | ✅ | 2024/11/05 | 9-5 | [Kelebra](https://ws.tsl.rocks/corp/0b1ce787fadd83433c02fb7f56a905ea64f918c1396ac37b8591891adf232eb6/) |
 | ✅ | 2024/10/29 | 14-8 | [柯伊伯带伊甸园](https://ws.tsl.rocks/corp/4eea992d73d29d14f33b0acc0b240ba7c71162f6e6a453f3771b7365d18616f6/) |
