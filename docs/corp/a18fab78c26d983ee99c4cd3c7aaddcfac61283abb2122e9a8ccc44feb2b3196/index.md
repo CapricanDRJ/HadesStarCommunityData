@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​НИФИГАСЕБЕ
-description: W:8 L:24 D:0 Bonus ❌
-date: 1730283586
+description: W:8 L:25 D:0 Bonus ❌
+date: 1732031941
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1087 🔻  (1253)|
-| ELO Competitive | 1108 🔻  (1274)|
-| Total Matches | 32 |
+| ELO Regular | 1084 🔻  (1256)|
+| ELO Competitive | 1105 🔻  (1276)|
+| Total Matches | 33 |
 | Wins | 8 |
-| Losses | 24 |
+| Losses | 25 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -31,7 +31,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729851586,1725343714,1713876789,1713325469,1712883163,1712440865,1711956490,1710365184,1710174086,1709909662,1709456554,1709007032,1708552094,1708009993,1707547971,1707106982,1706661628,1705943997,1705463472,1705028033,1704594389,1704112962,1703457838,1702962666,1702461062,1701999119,1701550410,1701053015,1700608198,1700111691,1699674301,1698693080];
+        let timestamps = [1731599941,1729851586,1725343714,1713876789,1713325469,1712883163,1712440865,1711956490,1710365184,1710174086,1709909662,1709456554,1709007032,1708552094,1708009993,1707547971,1707106982,1706661628,1705943997,1705463472,1705028033,1704594389,1704112962,1703457838,1702962666,1702461062,1701999119,1701550410,1701053015,1700608198,1700111691,1699674301,1698693080];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,6 +118,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/19 | 0-35 | [Atlas Star llc\.](https://ws.tsl.rocks/corp/3de5259ba12509e4d02854f1414caacf3d0aaaf79f417b9d843ff20ca35863dd/) |
 | ❌ | 2024/10/30 | 0-32 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) |
 | ❌ | 2024/09/08 | 0-28 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) |
 | ❌ | 2024/04/28 | 2-39 | [Tuatha De Danan](https://ws.tsl.rocks/corp/7741dbd0c9e7ddbc162e374691cb3346e4bb6600840f7962ec4a4414d5d2f780/) |
