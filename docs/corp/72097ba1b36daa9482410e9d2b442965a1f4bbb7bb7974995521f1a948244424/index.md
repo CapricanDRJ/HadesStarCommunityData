@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​八月政府
-description: W:4 L:27 D:1 Bonus ✅
+description: W:4 L:27 D:1 Bonus ❌
 date: 1731986831
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

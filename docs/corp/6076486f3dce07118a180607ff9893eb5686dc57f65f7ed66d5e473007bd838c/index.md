@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Planet Express
-description: W:2 L:1 D:0 Bonus ✅
+description: W:2 L:1 D:0 Bonus ❌
 date: 1731906902
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
