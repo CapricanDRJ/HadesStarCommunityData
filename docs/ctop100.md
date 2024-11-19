@@ -2,7 +2,7 @@
 layout: page
 title: Custom ELO Weighting
 description: Hades' Star top 100 trial ranks inclusive of all whitestar matches.
-permalink: /gtop100/
+permalink: /ctop100/
 ---
 
 | Rank | Corporation Name | weighted ELO |
