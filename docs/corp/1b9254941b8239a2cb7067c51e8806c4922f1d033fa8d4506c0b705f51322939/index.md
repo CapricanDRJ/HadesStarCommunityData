@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Slovensko-Activ
-description: W:0 L:14 D:0 Bonus ❌
-date: 1723500278
+description: W:0 L:15 D:0 Bonus ❌
+date: 1731971511
 ---
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1055 🔻  (1276)|
-| ELO Competitive | 1075 🔻  (1299)|
-| Total Matches | 14 |
+| ELO Regular | 1045 🔻  (1286)|
+| ELO Competitive | 1069 🔻  (1303)|
+| Total Matches | 15 |
 | Wins | 0 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 0 |
 
 
@@ -30,7 +30,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1723068278,1719686894,1718846871,1716844830,1716071729,1714666107,1713551407,1712345009,1709909662,1709420803,1706392063,1705956021,1705948506,1702433416];
+        let timestamps = [1731539511,1723068278,1719686894,1718846871,1716844830,1716071729,1714666107,1713551407,1712345009,1709909662,1709420803,1706392063,1705956021,1705948506,1702433416];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -117,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/18 | 7-15 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) |
 | ❌ | 2024/08/12 | 3-11 | [КМБ](https://ws.tsl.rocks/corp/9863510eb8d02a7be02ef6a2cf42499cbf1e7ec62df078fe82aaa791444445f4/) |
 | ❌ | 2024/07/04 | 3-22 | [The Allegiant](https://ws.tsl.rocks/corp/1c4cfbcf7902769aff100297d9174153f4c0528ed07918ba494f763a1315ffc6/) |
 | ❌ | 2024/06/25 | 3-28 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) |

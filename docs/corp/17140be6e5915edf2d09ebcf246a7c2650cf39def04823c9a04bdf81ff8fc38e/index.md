@@ -1,10 +1,10 @@
 ---
 layout: page
 title: ​Omega corp
-description: W:6 L:5 D:3 Bonus ✅
+description: W:6 L:5 D:3 Bonus ❌
 date: 1731861530
 ---
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
