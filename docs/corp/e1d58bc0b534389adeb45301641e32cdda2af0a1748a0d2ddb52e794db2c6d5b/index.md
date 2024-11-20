@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​EarthFederation
-description: W:4 L:2 D:0 Bonus ✅
+description: W:4 L:2 D:0 Bonus ❌
 date: 1731474463
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
 </div>
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1223 🔺  (334)|
+| ELO Regular | 1223 🔺  (335)|
 | ELO Competitive | 1232 🔺  (424)|
 | Total Matches | 6 |
 | Wins | 4 |

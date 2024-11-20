@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ​星际公约组织
-description: W:0 L:5 D:1 Bonus ❌
-date: 1731959190
+description: W:0 L:6 D:1 Bonus ❌
+date: 1732102213
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
@@ -12,11 +12,11 @@ date: 1731959190
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1132 🔻  (1149)|
-| ELO Competitive | 1157 🔻  (1160)|
-| Total Matches | 6 |
+| ELO Regular | 1115 🔻  (1205)|
+| ELO Competitive | 1157 🔻  (1162)|
+| Total Matches | 7 |
 | Wins | 0 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 1 |
 
 
@@ -34,7 +34,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731527190,1731217368,1731074012,1730614862,1730197172,1729721265];
+        let timestamps = [1731670213,1731527190,1731217368,1731074012,1730614862,1730197172,1729721265];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -121,6 +121,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/20 | 1-5 | [普罗米修斯](https://ws.tsl.rocks/corp/f39d00b1bbbf87c158931fd887f37a588019d0b1fd4f2441fbc675674b71423a/) |
 | ❌ | 2024/11/18 | 1-5 | [Splendid](https://ws.tsl.rocks/corp/8d0fd2cb62785c9876643edf419b241f0f86e339052e5d3e4fab40b0416828dd/) |
 | ❌ | 2024/11/15 | 1-16 | [CTG](https://ws.tsl.rocks/corp/9647a8507dfa5637a217d2d6a0ad47aefb6a4563f910ad46376c228450cff43c/) |
 | ❌ | 2024/11/13 | 1-2 | [逐光起航](https://ws.tsl.rocks/corp/e6bb076aa209101b5fa1cbc40a614c241d71ab5eca143c733b81aed6302455e8/) |
