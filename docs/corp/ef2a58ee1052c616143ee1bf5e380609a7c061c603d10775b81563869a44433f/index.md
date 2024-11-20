@@ -4,8 +4,8 @@ title: ​Алый Феникс
 description: W:7 L:9 D:0 Bonus ✅
 date: 1731988934
 ---
-<div style="float: right; margin: 0 0 1em 1em;">
-  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
 </div>
 
 ### Whitestar Bonus ✅

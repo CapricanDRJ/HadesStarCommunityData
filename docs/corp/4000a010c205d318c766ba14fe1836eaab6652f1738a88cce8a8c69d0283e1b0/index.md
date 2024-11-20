@@ -4,8 +4,8 @@ title: ​Axiom
 description: W:75 L:38 D:0 Bonus ✅
 date: 1731732957
 ---
-<div style="float: right; margin: 0 0 1em 1em;">
-  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
 </div>
 
 ### Whitestar Bonus ✅

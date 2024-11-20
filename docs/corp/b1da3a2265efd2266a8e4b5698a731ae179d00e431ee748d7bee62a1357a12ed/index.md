@@ -4,8 +4,8 @@ title: ​＊Alfa y Omega＊
 description: W:22 L:8 D:1 Bonus ✅
 date: 1731665898
 ---
-<div style="float: right; margin: 0 0 1em 1em;">
-  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
 </div>
 
 ### Whitestar Bonus ✅

@@ -4,8 +4,8 @@ title: ​元素联邦
 description: W:29 L:13 D:0 Bonus ❌
 date: 1728312440
 ---
-<div style="float: right; margin: 0 0 1em 1em;">
-  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
 </div>
 
 ### Whitestar Bonus ❌

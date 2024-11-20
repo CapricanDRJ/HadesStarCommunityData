@@ -4,8 +4,8 @@ title: ​101
 description: W:46 L:66 D:5 Bonus ❌
 date: 1731472660
 ---
-<div style="float: right; margin: 0 0 1em 1em;">
-  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
 </div>
 
 ### Whitestar Bonus ❌

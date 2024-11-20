@@ -4,8 +4,8 @@ title: ​Türk Yıldızları
 description: W:16 L:11 D:0 Bonus ❌
 date: 1717106731
 ---
-<div style="float: right; margin: 0 0 1em 1em;">
-  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
 </div>
 
 ### Whitestar Bonus ❌
