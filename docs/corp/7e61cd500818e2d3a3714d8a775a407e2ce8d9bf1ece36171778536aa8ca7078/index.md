@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ​新星汇聚
-description: W:2 L:0 D:0 Bonus ❌
-date: 1730566676
+description: W:2 L:1 D:0 Bonus ❌
+date: 1732114235
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
@@ -12,13 +12,12 @@ date: 1730566676
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1224 🔺  (331)|
-| ELO Competitive | 1226 🔺  (445)|
-| Total Matches | 2 |
+| ELO Regular | 1210 🔻  (428)|
+| ELO Competitive | 1212 🔻  (538)|
+| Total Matches | 3 |
 | Wins | 2 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 2 |
 
 
@@ -36,7 +35,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730134676,1727844979];
+        let timestamps = [1731682235,1730134676,1727844979];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +122,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/20 | 0-17 | [Corp\. Luminá](https://ws.tsl.rocks/corp/a90638cb4761b5ed889376762f6612c65407072ac9befa4530989c338be72862/) |
 | ✅ | 2024/11/02 | 3-1 | [Survivors](https://ws.tsl.rocks/corp/10eb3bf190162d1f8373394a774ca9fe65faf64b1e98400cceadb7f37028d7b0/) |
 | ✅ | 2024/10/07 | 22-0 | [云霄宫](https://ws.tsl.rocks/corp/c319ac731957c1d658994ab5727dec3d0ccfdcd31b00ee66efbf07be25bdc3e1/) |
 

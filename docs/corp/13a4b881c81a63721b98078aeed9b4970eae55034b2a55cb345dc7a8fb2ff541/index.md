@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ​Бороская Имерия
-description: W:7 L:4 D:0 Bonus ✅
-date: 1731535766
+description: W:8 L:4 D:0 Bonus ✅
+date: 1732113333
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
@@ -12,14 +12,14 @@ date: 1731535766
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1260 🔺  (217)|
-| ELO Competitive | 1267 🔺  (322)|
-| Total Matches | 11 |
-| Wins | 7 |
+| ELO Regular | 1270 🔺  (199)|
+| ELO Competitive | 1287 🔺  (278)|
+| Total Matches | 12 |
+| Wins | 8 |
 | Losses | 4 |
 | Draws | 0 |
-| Streak | 4 |
-| Streak Record | 4 |
+| Streak | 5 |
+| Streak Record | 5 |
 
 
 # Whitestar Match Day
@@ -36,7 +36,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731103766,1730630186,1730019899,1728812704,1727119286,1726493368,1726045987,1702214613,1701215312,1699612062,1699010444];
+        let timestamps = [1731681333,1731103766,1730630186,1730019899,1728812704,1727119286,1726493368,1726045987,1702214613,1701215312,1699612062,1699010444];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/20 | 19-0 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |
 | ✅ | 2024/11/13 | 24-3 | [exirium](https://ws.tsl.rocks/corp/4981522e08ce38bcec7b2a189b3bfba9c072a615eea490a55c645344ac975f54/) |
 | ✅ | 2024/11/08 | 32-7 | [云深不知处](https://ws.tsl.rocks/corp/640f652e13ee5dfca289fcf00ddb7ac25abf9ff9c565bda6561c55ff62cae685/) |
 | ✅ | 2024/11/01 | 18-5 | [Anarchy Nation ](https://ws.tsl.rocks/corp/9c456dbf32e22070620021bf0bea4d2ab9deb0ac7ad4be06a4067a9ced5f2f5b/) |

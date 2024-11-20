@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ​星落苑
-description: W:1 L:0 D:0 Bonus ✅
-date: 1731493390
+description: W:2 L:0 D:0 Bonus ✅
+date: 1732109125
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
@@ -12,12 +12,14 @@ date: 1731493390
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1213 🔺  (415)|
-| ELO Competitive | 1214 🔺  (518)|
-| Total Matches | 1 |
-| Wins | 1 |
+| ELO Regular | 1219 🔺  (349)|
+| ELO Competitive | 1222 🔺  (460)|
+| Total Matches | 2 |
+| Wins | 2 |
 | Losses | 0 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 
 
 # Whitestar Match Day
@@ -34,7 +36,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731061390];
+        let timestamps = [1731677125,1731061390];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -121,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/20 | 23-0 | [佛矿寺](https://ws.tsl.rocks/corp/64f8afd95b7004e9d5a442da55644ee3ce64a9a8e82345c458d757b527e40624/) |
 | ✅ | 2024/11/13 | 19-0 | [斯比纳兰](https://ws.tsl.rocks/corp/ce756ff97542e6fa8d518319e6575aae1d01eb23dd906fee3e3cbb98b442b68f/) |
 
 Corporation ID: 6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c

@@ -1,25 +1,25 @@
 ---
 layout: page
 title: ​Corp. Luminá
-description: W:3 L:0 D:0 Bonus ❌
-date: 1731344953
+description: W:4 L:0 D:0 Bonus ✅
+date: 1732114235
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
 </div>
 
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1247 🔺  (253)|
-| ELO Competitive | 1247 🔺  (380)|
-| Total Matches | 3 |
-| Wins | 3 |
+| ELO Regular | 1261 🔺  (218)|
+| ELO Competitive | 1261 🔺  (342)|
+| Total Matches | 4 |
+| Wins | 4 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 3 |
-| Streak Record | 3 |
+| Streak | 4 |
+| Streak Record | 4 |
 
 
 # Whitestar Match Day
@@ -36,7 +36,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730912953,1730126260,1729444430];
+        let timestamps = [1731682235,1730912953,1730126260,1729444430];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/20 | 17-0 | [新星汇聚](https://ws.tsl.rocks/corp/7e61cd500818e2d3a3714d8a775a407e2ce8d9bf1ece36171778536aa8ca7078/) |
 | ✅ | 2024/11/11 | 14-2 | [Snack Empire](https://ws.tsl.rocks/corp/e7b912cdbd535c7bae1a2176819caef605c402607aa368b529db6b36d746036b/) |
 | ✅ | 2024/11/02 | 24-0 | [华夏三体\-基沃托斯集团](https://ws.tsl.rocks/corp/2a0e5e40c4264cc5c8543ba1f6f41772d2059010c0a58381251017412b294ef7/) |
 | ✅ | 2024/10/25 | 10-5 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |

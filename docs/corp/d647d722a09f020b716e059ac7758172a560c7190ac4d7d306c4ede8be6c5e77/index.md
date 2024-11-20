@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ​Void
-description: W:10 L:16 D:0 Bonus ✅
-date: 1731512024
+description: W:10 L:17 D:0 Bonus ✅
+date: 1732113934
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
@@ -12,11 +12,11 @@ date: 1731512024
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1118 🔺  (1192)|
-| ELO Competitive | 1166 🔺  (1109)|
-| Total Matches | 26 |
+| ELO Regular | 1111 🔻  (1220)|
+| ELO Competitive | 1161 🔻  (1140)|
+| Total Matches | 27 |
 | Wins | 10 |
-| Losses | 16 |
+| Losses | 17 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -35,7 +35,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731080024,1730408425,1728064070,1727532759,1727027637,1726498261,1726062817,1725456715,1724952184,1723833372,1723126270,1722521644,1721933826,1721494777,1720105419,1719518816,1719011543,1718102037,1717250521,1716600802,1710583013,1709802994,1706784532,1706223775,1705592387,1705073105];
+        let timestamps = [1731681934,1731080024,1730408425,1728064070,1727532759,1727027637,1726498261,1726062817,1725456715,1724952184,1723833372,1723126270,1722521644,1721933826,1721494777,1720105419,1719518816,1719011543,1718102037,1717250521,1716600802,1710583013,1709802994,1706784532,1706223775,1705592387,1705073105];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -127,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/20 | 16-32 | [Red Dawn](https://ws.tsl.rocks/corp/fee852a2530bc5e3cbe5b2a5fdb224d249eeceeb3688cfd71479344181831328/) |
 | ✅ | 2024/11/13 | 47-0 | [Free Thinkers 2](https://ws.tsl.rocks/corp/9fc879b45c4053ac93d6eebdb14d856a828df8fd85800df616cdd3332683a695/) |
 | ❌ | 2024/11/05 | 28-37 | [Game of Stars](https://ws.tsl.rocks/corp/ad5bb68e6076ee70e6715ecead226fc9880b66a87b68acb3098843f723c1562e/) |
 | ❌ | 2024/10/09 | 12-62 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) |
