@@ -4,12 +4,11 @@ title: ​水晶星际集团
 description: W:6 L:25 D:0 Bonus ❌
 date: 1727926694
 ---
+### Whitestar Bonus ❌
 
-<div style="position: relative;">
-  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+<div style="position: relative; text-align: right; margin-bottom: 1em;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
 </div>
-    ### Whitestar Bonus ❌
-
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1047 🔻  (1286)|

@@ -4,12 +4,11 @@ title: ​德意志第三帝国阿尔法分部
 description: W:3 L:26 D:1 Bonus ❌
 date: 1713436849
 ---
+### Whitestar Bonus ❌
 
-<div style="position: relative;">
-  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+<div style="position: relative; text-align: right; margin-bottom: 1em;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
 </div>
-    ### Whitestar Bonus ❌
-
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1021 🔻  (1297)|

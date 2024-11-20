@@ -4,12 +4,11 @@ title: ​지고받자
 description: W:0 L:9 D:0 Bonus ❌
 date: 1703129890
 ---
+### Whitestar Bonus ❌
 
-<div style="position: relative;">
-  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+<div style="position: relative; text-align: right; margin-bottom: 1em;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
 </div>
-    ### Whitestar Bonus ❌
-
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1090 🔻  (1247)|

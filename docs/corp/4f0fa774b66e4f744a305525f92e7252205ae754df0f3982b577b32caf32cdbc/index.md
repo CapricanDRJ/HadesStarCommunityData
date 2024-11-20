@@ -4,12 +4,11 @@ title: ​闲散人员
 description: W:12 L:7 D:2 Bonus ❌
 date: 1731861530
 ---
+### Whitestar Bonus ❌
 
-<div style="position: relative;">
-  <img src="./qr.png" alt="QR Code" style="position: absolute; top: 0; right: 0; width: 100px; height: auto;">
+<div style="position: relative; text-align: right; margin-bottom: 1em;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
 </div>
-    ### Whitestar Bonus ❌
-
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1246 🔻  (255)|
