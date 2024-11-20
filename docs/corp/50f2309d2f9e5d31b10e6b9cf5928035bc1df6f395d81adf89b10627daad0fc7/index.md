@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ​Legión
-description: W:1 L:4 D:0 Bonus ❌
-date: 1728743695
+description: W:1 L:5 D:0 Bonus ❌
+date: 1732134673
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
@@ -12,11 +12,11 @@ date: 1728743695
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔻  (1047)|
-| ELO Competitive | 1168 🔻  (1089)|
-| Total Matches | 5 |
+| ELO Regular | 1148 🔻  (1092)|
+| ELO Competitive | 1160 🔻  (1144)|
+| Total Matches | 6 |
 | Wins | 1 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
 
 
@@ -34,7 +34,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728311695,1725824234,1724512845,1722817952,1699897040];
+        let timestamps = [1731702673,1728311695,1725824234,1724512845,1722817952,1699897040];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -121,6 +121,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/20 | 1-19 | [柯伊伯带伊甸园](https://ws.tsl.rocks/corp/4eea992d73d29d14f33b0acc0b240ba7c71162f6e6a453f3771b7365d18616f6/) |
 | ❌ | 2024/10/12 | 13-31 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) |
 | ✅ | 2024/09/13 | 32-7 | [The X \- Files](https://ws.tsl.rocks/corp/f13cb0ae2dbb0654a2067c8749f86bce49edc5b520bd391c7af11948f23a41fb/) |
 | ❌ | 2024/08/29 | 2-17 | [Unión latina](https://ws.tsl.rocks/corp/9919a50d277644f496c19d5becdf40abb251d000345f049632329f0b35b7fbf1/) |

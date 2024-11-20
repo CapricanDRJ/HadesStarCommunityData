@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ​Team Rainbow
-description: W:3 L:3 D:0 Bonus ✅
-date: 1731534564
+description: W:4 L:3 D:0 Bonus ✅
+date: 1732134974
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
@@ -12,14 +12,14 @@ date: 1731534564
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 🔺  (478)|
-| ELO Competitive | 1222 🔺  (461)|
-| Total Matches | 6 |
-| Wins | 3 |
+| ELO Regular | 1216 🔺  (377)|
+| ELO Competitive | 1247 🔺  (380)|
+| Total Matches | 7 |
+| Wins | 4 |
 | Losses | 3 |
 | Draws | 0 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 
 
 # Whitestar Match Day
@@ -36,7 +36,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731102564,1730421345,1722524650,1720730825,1710579407,1709226385];
+        let timestamps = [1731702974,1731102564,1730421345,1722524650,1720730825,1710579407,1709226385];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/20 | 23-19 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 | ✅ | 2024/11/13 | 24-6 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |
 | ✅ | 2024/11/06 | 26-0 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
 | ❌ | 2024/08/06 | 8-13 | [Quilliance](https://ws.tsl.rocks/corp/6a4f8febc4066842f85c0373a0d33b6501860f2cc4f61b64761d31ff472c28fe/) |

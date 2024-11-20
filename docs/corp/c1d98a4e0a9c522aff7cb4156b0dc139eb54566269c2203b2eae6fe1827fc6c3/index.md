@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Brasil
-description: W:4 L:4 D:0 Bonus ✅
+description: W:4 L:4 D:0 Bonus ❌
 date: 1731508718
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
 </div>
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1206 🔺  (453)|
+| ELO Regular | 1206 🔺  (454)|
 | ELO Competitive | 1214 🔺  (527)|
 | Total Matches | 8 |
 | Wins | 4 |
