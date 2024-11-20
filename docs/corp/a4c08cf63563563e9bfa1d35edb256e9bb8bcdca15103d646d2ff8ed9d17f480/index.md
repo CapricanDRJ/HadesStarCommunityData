@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​脉冲星际集团
-description: W:28 L:27 D:2 Bonus ✅
+description: W:28 L:27 D:2 Bonus ❌
 date: 1732061655
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
 </div>
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔻  (967)|
+| ELO Regular | 1168 🔻  (969)|
 | ELO Competitive | 1319 🔻  (222)|
 | Total Matches | 57 |
 | Wins | 28 |

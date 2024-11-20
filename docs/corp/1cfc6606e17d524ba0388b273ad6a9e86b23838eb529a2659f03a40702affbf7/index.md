@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ​Lofty Mountain
-description: W:10 L:0 D:0 Bonus ✅
-date: 1731560705
+description: W:11 L:0 D:0 Bonus ✅
+date: 1732091325
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
@@ -12,14 +12,14 @@ date: 1731560705
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1334 🔺  (106)|
-| ELO Competitive | 1361 🔺  (169)|
-| Total Matches | 10 |
-| Wins | 10 |
+| ELO Regular | 1344 🔺  (95)|
+| ELO Competitive | 1370 🔺  (161)|
+| Total Matches | 11 |
+| Wins | 11 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 10 |
-| Streak Record | 10 |
+| Streak | 11 |
+| Streak Record | 11 |
 
 
 # Whitestar Match Day
@@ -36,7 +36,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731128705,1730473927,1729970898,1729535784,1729065976,1727688413,1727134610,1723929849,1722161630,1720494897];
+        let timestamps = [1731659325,1731128705,1730473927,1729970898,1729535784,1729065976,1727688413,1727134610,1723929849,1722161630,1720494897];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/20 | 33-2 | [超越声速](https://ws.tsl.rocks/corp/c80951822ff08b108eaa885a614cb9d41079099683e9804b33647baa51574183/) |
 | ✅ | 2024/11/14 | 33-3 | [对，进就进人少的（分团）](https://ws.tsl.rocks/corp/69a860d3020745a9088fa70fa7ebc4caaa8a6181832961bcd607fbfa627203f3/) |
 | ✅ | 2024/11/06 | 32-2 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ✅ | 2024/10/31 | 32-0 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |

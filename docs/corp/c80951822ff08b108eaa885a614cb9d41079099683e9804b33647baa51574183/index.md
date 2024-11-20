@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ​超越声速
-description: W:1 L:0 D:0 Bonus ❌
-date: 1731336538
+description: W:1 L:1 D:0 Bonus ❌
+date: 1732091325
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
@@ -12,11 +12,11 @@ date: 1731336538
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1213 🔺  (411)|
-| ELO Competitive | 1218 🔺  (483)|
-| Total Matches | 1 |
+| ELO Regular | 1203 🔻  (463)|
+| ELO Competitive | 1208 🔻  (562)|
+| Total Matches | 2 |
 | Wins | 1 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 0 |
 
 
@@ -34,7 +34,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730904538];
+        let timestamps = [1731659325,1730904538];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -121,6 +121,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/20 | 2-33 | [Lofty Mountain](https://ws.tsl.rocks/corp/1cfc6606e17d524ba0388b273ad6a9e86b23838eb529a2659f03a40702affbf7/) |
 | ✅ | 2024/11/11 | 8-0 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 
 Corporation ID: c80951822ff08b108eaa885a614cb9d41079099683e9804b33647baa51574183

@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​柯伊伯带伊甸园
-description: W:13 L:2 D:0 Bonus ✅
+description: W:13 L:2 D:0 Bonus ❌
 date: 1731461244
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
 </div>
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1330 🔺  (114)|
-| ELO Competitive | 1364 🔺  (165)|
+| ELO Competitive | 1364 🔺  (166)|
 | Total Matches | 15 |
 | Wins | 13 |
 | Losses | 2 |
