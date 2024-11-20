@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​(_(_Vossk_)_)
-description: W:11 L:19 D:0 Bonus ✅
+description: W:11 L:19 D:0 Bonus ❌
 date: 1731451030
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
 </div>
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
