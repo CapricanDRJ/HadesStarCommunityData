@@ -1,23 +1,25 @@
 ---
 layout: page
 title: ​Southall 1
-description: W:1 L:1 D:1 Bonus ❌
-date: 1704458916
+description: W:2 L:1 D:1 Bonus ✅
+date: 1732124154
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
 </div>
 
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1199 🔺  (499)|
-| ELO Competitive | 1199 🔺  (623)|
-| Total Matches | 3 |
-| Wins | 1 |
+| ELO Regular | 1207 🔺  (446)|
+| ELO Competitive | 1208 🔺  (567)|
+| Total Matches | 4 |
+| Wins | 2 |
 | Losses | 1 |
 | Draws | 1 |
+| Streak | 2 |
+| Streak Record | 2 |
 
 
 # Whitestar Match Day
@@ -34,7 +36,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1704026916,1703330109,1702839749];
+        let timestamps = [1731692154,1704026916,1703330109,1702839749];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -121,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/20 | 2-1 | [₩\.BRASIL\.₩](https://ws.tsl.rocks/corp/ff7f01b2f1db7b9c75e49da4c7367325905c020eba282a97f69f33d8c19419aa/) |
 | ✅ | 2024/01/05 | 3-0 | [001\-23](https://ws.tsl.rocks/corp/790662c2084ccccfc01b7d1639992198be537b4040c21dae0a20e650e0667ffc/) |
 | ↔️ | 2023/12/28 | 3-3 | [Nueva Hyperion](https://ws.tsl.rocks/corp/f24b80c3fe753053bd3914fb8921f08ca134d9deba33bf17c73726fe3829ea75/) |
 | ❌ | 2023/12/22 | 3-15 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
