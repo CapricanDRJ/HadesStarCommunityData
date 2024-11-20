@@ -4,14 +4,15 @@ title: ​Spaceforce
 description: W:2 L:6 D:0 Bonus ❌
 date: 1729538944
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (911)|
+| ELO Regular | 1171 🔻  (910)|
 | ELO Competitive | 1180 🔻  (958)|
 | Total Matches | 8 |
 | Wins | 2 |

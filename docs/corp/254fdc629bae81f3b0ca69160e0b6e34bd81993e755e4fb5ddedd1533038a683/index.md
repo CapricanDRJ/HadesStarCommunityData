@@ -4,14 +4,15 @@ title: ​Veteran's Haven
 description: W:5 L:13 D:0 Bonus ❌
 date: 1725670874
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1111 🔻  (1215)|
+| ELO Regular | 1111 🔻  (1216)|
 | ELO Competitive | 1133 🔻  (1241)|
 | Total Matches | 18 |
 | Wins | 5 |

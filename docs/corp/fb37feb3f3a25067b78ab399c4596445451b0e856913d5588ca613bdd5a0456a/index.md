@@ -4,14 +4,15 @@ title: ​Castellón
 description: W:1 L:2 D:1 Bonus ❌
 date: 1725305154
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (693)|
+| ELO Regular | 1185 🔻  (692)|
 | ELO Competitive | 1188 🔻  (762)|
 | Total Matches | 4 |
 | Wins | 1 |

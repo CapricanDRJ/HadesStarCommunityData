@@ -4,14 +4,15 @@ title: ​Созидание 2.0
 description: W:11 L:16 D:0 Bonus ❌
 date: 1729018377
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1178 🔺  (840)|
+| ELO Regular | 1178 🔺  (839)|
 | ELO Competitive | 1195 🔺  (663)|
 | Total Matches | 27 |
 | Wins | 11 |

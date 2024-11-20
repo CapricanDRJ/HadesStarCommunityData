@@ -4,14 +4,15 @@ title: ​SternenStaub
 description: W:24 L:33 D:0 Bonus ✅
 date: 1731623827
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ✅
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1117 🔺  (1192)|
+| ELO Regular | 1117 🔺  (1193)|
 | ELO Competitive | 1190 🔺  (728)|
 | Total Matches | 57 |
 | Wins | 24 |

@@ -4,11 +4,12 @@ title: ​代代守护你的神明
 description: W:8 L:12 D:0 Bonus ❌
 date: 1729602647
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1142 🔻  (1120)|

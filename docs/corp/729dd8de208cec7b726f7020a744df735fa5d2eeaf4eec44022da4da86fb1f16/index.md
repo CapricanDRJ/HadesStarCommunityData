@@ -4,14 +4,15 @@ title: ​Serenity
 description: W:0 L:2 D:0 Bonus ❌
 date: 1702422706
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (919)|
+| ELO Regular | 1171 🔻  (918)|
 | ELO Competitive | 1171 🔻  (1058)|
 | Total Matches | 2 |
 | Wins | 0 |

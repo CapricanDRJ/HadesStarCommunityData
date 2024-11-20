@@ -4,11 +4,12 @@ title: ​Anarchy G13
 description: W:0 L:3 D:0 Bonus ❌
 date: 1707434106
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1158 🔻  (1032)|

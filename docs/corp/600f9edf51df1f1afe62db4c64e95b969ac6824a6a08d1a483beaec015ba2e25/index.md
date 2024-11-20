@@ -4,15 +4,16 @@ title: ​地球联合
 description: W:12 L:4 D:0 Bonus ❌
 date: 1723897846
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1303 🔻  (138)|
-| ELO Competitive | 1324 🔻  (216)|
+| ELO Competitive | 1324 🔻  (215)|
 | Total Matches | 16 |
 | Wins | 12 |
 | Losses | 4 |

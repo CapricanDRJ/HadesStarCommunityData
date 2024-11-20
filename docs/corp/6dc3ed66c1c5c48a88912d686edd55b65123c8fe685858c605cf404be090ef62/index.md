@@ -4,11 +4,12 @@ title: ​Corp. Estelar 2
 description: W:12 L:4 D:0 Bonus ❌
 date: 1718937188
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1288 🔻  (159)|

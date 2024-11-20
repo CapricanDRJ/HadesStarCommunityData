@@ -4,14 +4,15 @@ title: ​Dirty Laundry
 description: W:0 L:2 D:0 Bonus ❌
 date: 1711126201
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (901)|
+| ELO Regular | 1172 🔻  (900)|
 | ELO Competitive | 1175 🔻  (1005)|
 | Total Matches | 2 |
 | Wins | 0 |

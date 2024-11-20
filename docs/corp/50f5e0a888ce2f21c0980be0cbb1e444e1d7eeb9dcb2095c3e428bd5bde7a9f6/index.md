@@ -4,15 +4,16 @@ title: ​太阳系集团
 description: W:13 L:6 D:2 Bonus ✅
 date: 1732027995
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ✅
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1279 🔻  (177)|
-| ELO Competitive | 1325 🔻  (215)|
+| ELO Competitive | 1325 🔻  (214)|
 | Total Matches | 21 |
 | Wins | 13 |
 | Losses | 6 |

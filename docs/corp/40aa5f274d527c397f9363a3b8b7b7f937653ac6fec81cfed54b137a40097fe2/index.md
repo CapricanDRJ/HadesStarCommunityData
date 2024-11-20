@@ -4,14 +4,15 @@ title: ​Die pösn Purchn
 description: W:0 L:2 D:0 Bonus ❌
 date: 1716150402
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (849)|
+| ELO Regular | 1176 🔻  (848)|
 | ELO Competitive | 1180 🔻  (963)|
 | Total Matches | 2 |
 | Wins | 0 |

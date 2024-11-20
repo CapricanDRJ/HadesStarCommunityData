@@ -4,15 +4,16 @@ title: ​SUN OF 3LANDS
 description: W:11 L:4 D:1 Bonus ❌
 date: 1730897510
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1282 🔺  (171)|
-| ELO Competitive | 1307 🔺  (238)|
+| ELO Competitive | 1307 🔺  (239)|
 | Total Matches | 16 |
 | Wins | 11 |
 | Losses | 4 |

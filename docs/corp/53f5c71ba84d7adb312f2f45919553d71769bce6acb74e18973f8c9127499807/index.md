@@ -4,14 +4,15 @@ title: ​企鹅帝国
 description: W:2 L:4 D:0 Bonus ❌
 date: 1728114704
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔺  (892)|
+| ELO Regular | 1173 🔺  (891)|
 | ELO Competitive | 1178 🔺  (975)|
 | Total Matches | 6 |
 | Wins | 2 |

@@ -4,14 +4,15 @@ title: ​101
 description: W:46 L:66 D:5 Bonus ❌
 date: 1731472660
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1104 🔻  (1228)|
+| ELO Regular | 1104 🔻  (1229)|
 | ELO Competitive | 1438 🔻  (95)|
 | Total Matches | 117 |
 | Wins | 46 |

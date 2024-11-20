@@ -4,14 +4,15 @@ title: ​Russia
 description: W:1 L:8 D:0 Bonus ❌
 date: 1712589809
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1113 🔻  (1210)|
+| ELO Regular | 1113 🔻  (1211)|
 | ELO Competitive | 1116 🔻  (1265)|
 | Total Matches | 9 |
 | Wins | 1 |

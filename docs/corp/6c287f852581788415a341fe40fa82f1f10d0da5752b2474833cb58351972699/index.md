@@ -4,15 +4,16 @@ title: ​ISERLOHN
 description: W:7 L:0 D:0 Bonus ❌
 date: 1727192760
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1307 🔺  (134)|
-| ELO Competitive | 1321 🔺  (220)|
+| ELO Competitive | 1321 🔺  (219)|
 | Total Matches | 7 |
 | Wins | 7 |
 | Losses | 0 |

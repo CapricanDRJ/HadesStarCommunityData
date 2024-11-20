@@ -4,14 +4,15 @@ title: ​АНДРОМЕДА
 description: W:32 L:49 D:1 Bonus ❌
 date: 1731725412
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1107 🔻  (1223)|
+| ELO Regular | 1107 🔻  (1224)|
 | ELO Competitive | 1279 🔻  (297)|
 | Total Matches | 82 |
 | Wins | 32 |

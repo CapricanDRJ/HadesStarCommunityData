@@ -4,15 +4,16 @@ title: ​ГОРИЗОНТ
 description: W:22 L:66 D:0 Bonus ✅
 date: 1731799034
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ✅
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1135 🔺  (1143)|
-| ELO Competitive | 1332 🔺  (205)|
+| ELO Competitive | 1332 🔺  (204)|
 | Total Matches | 88 |
 | Wins | 22 |
 | Losses | 66 |

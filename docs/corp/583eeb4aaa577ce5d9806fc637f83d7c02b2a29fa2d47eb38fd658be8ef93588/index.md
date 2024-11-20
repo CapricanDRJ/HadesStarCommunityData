@@ -4,14 +4,15 @@ title: ​Bunker
 description: W:30 L:29 D:1 Bonus ❌
 date: 1725445905
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (758)|
+| ELO Regular | 1184 🔻  (757)|
 | ELO Competitive | 1379 🔻  (148)|
 | Total Matches | 60 |
 | Wins | 30 |

@@ -4,15 +4,16 @@ title: ​Deadspace
 description: W:25 L:33 D:0 Bonus ❌
 date: 1732012067
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1221 🔻  (342)|
-| ELO Competitive | 1308 🔻  (236)|
+| ELO Competitive | 1308 🔻  (237)|
 | Total Matches | 58 |
 | Wins | 25 |
 | Losses | 33 |

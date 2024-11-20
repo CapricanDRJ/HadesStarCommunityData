@@ -4,14 +4,15 @@ title: ​萌新港(大佬港)
 description: W:21 L:32 D:0 Bonus ❌
 date: 1731565814
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (897)|
+| ELO Regular | 1172 🔻  (896)|
 | ELO Competitive | 1263 🔻  (333)|
 | Total Matches | 53 |
 | Wins | 21 |

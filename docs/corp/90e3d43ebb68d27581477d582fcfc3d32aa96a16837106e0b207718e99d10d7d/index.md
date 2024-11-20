@@ -4,14 +4,15 @@ title: ​Draconis
 description: W:0 L:1 D:0 Bonus ❌
 date: 1701076397
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (745)|
+| ELO Regular | 1185 🔻  (744)|
 | ELO Competitive | 1185 🔻  (856)|
 | Total Matches | 1 |
 | Wins | 0 |

@@ -4,15 +4,16 @@ title: ​四季长春
 description: W:17 L:24 D:6 Bonus ❌
 date: 1724883240
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1179 🔺  (834)|
-| ELO Competitive | 1332 🔺  (204)|
+| ELO Regular | 1179 🔺  (833)|
+| ELO Competitive | 1332 🔺  (203)|
 | Total Matches | 47 |
 | Wins | 17 |
 | Losses | 24 |

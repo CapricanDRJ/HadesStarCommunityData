@@ -4,15 +4,16 @@ title: ​使命白星
 description: W:13 L:8 D:2 Bonus ❌
 date: 1727648220
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1245 🔻  (258)|
-| ELO Competitive | 1316 🔻  (226)|
+| ELO Competitive | 1316 🔻  (227)|
 | Total Matches | 23 |
 | Wins | 13 |
 | Losses | 8 |

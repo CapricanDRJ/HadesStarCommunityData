@@ -4,14 +4,15 @@ title: ​STAR TERROR CZ
 description: W:1 L:4 D:0 Bonus ✅
 date: 1731702875
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ✅
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔺  (874)|
+| ELO Regular | 1174 🔺  (873)|
 | ELO Competitive | 1185 🔺  (851)|
 | Total Matches | 5 |
 | Wins | 1 |

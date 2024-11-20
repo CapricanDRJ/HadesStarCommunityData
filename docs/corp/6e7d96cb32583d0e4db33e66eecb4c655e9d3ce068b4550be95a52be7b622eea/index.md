@@ -4,14 +4,15 @@ title: ​Sternenwanderer
 description: W:1 L:2 D:0 Bonus ❌
 date: 1707271529
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (754)|
+| ELO Regular | 1185 🔻  (753)|
 | ELO Competitive | 1185 🔻  (906)|
 | Total Matches | 3 |
 | Wins | 1 |

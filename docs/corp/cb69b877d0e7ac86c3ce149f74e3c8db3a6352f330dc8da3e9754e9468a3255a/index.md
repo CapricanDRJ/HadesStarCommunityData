@@ -4,14 +4,15 @@ title: ​⭐PRETORIANS.X⭐
 description: W:8 L:12 D:2 Bonus ✅
 date: 1732053705
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ✅
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔺  (926)|
+| ELO Regular | 1171 🔺  (925)|
 | ELO Competitive | 1255 🔺  (357)|
 | Total Matches | 22 |
 | Wins | 8 |

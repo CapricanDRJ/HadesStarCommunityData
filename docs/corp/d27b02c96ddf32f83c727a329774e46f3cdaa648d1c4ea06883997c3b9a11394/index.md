@@ -4,14 +4,15 @@ title: ​КВАЗАР
 description: W:1 L:3 D:0 Bonus ❌
 date: 1703858281
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1178 🔺  (836)|
+| ELO Regular | 1178 🔺  (835)|
 | ELO Competitive | 1179 🔺  (969)|
 | Total Matches | 4 |
 | Wins | 1 |

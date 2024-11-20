@@ -4,15 +4,16 @@ title: ​Spaceballs
 description: W:17 L:16 D:0 Bonus ✅
 date: 1732043024
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ✅
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1290 🔺  (156)|
-| ELO Competitive | 1326 🔺  (213)|
+| ELO Competitive | 1326 🔺  (212)|
 | Total Matches | 33 |
 | Wins | 17 |
 | Losses | 16 |

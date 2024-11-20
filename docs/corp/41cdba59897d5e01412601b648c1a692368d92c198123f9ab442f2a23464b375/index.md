@@ -4,15 +4,16 @@ title: ​Crux Cadre
 description: W:34 L:29 D:1 Bonus ✅
 date: 1731531258
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ✅
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1197 🔺  (520)|
-| ELO Competitive | 1328 🔺  (209)|
+| ELO Competitive | 1328 🔺  (208)|
 | Total Matches | 64 |
 | Wins | 34 |
 | Losses | 29 |

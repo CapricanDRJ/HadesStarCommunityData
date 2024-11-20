@@ -4,14 +4,15 @@ title: ​Ws Polaris
 description: W:4 L:14 D:2 Bonus ❌
 date: 1723212986
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1110 🔺  (1217)|
+| ELO Regular | 1110 🔺  (1218)|
 | ELO Competitive | 1119 🔺  (1258)|
 | Total Matches | 20 |
 | Wins | 4 |

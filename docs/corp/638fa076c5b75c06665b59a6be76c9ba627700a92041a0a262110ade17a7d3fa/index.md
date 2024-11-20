@@ -4,14 +4,15 @@ title: ​CDS
 description: W:0 L:1 D:0 Bonus ❌
 date: 1709942349
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (752)|
+| ELO Regular | 1185 🔻  (751)|
 | ELO Competitive | 1185 🔻  (907)|
 | Total Matches | 1 |
 | Wins | 0 |

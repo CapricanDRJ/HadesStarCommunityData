@@ -4,14 +4,15 @@ title: ​Avalanche 2.0
 description: W:2 L:4 D:0 Bonus ❌
 date: 1711139125
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (870)|
+| ELO Regular | 1174 🔻  (869)|
 | ELO Competitive | 1177 🔻  (985)|
 | Total Matches | 6 |
 | Wins | 2 |

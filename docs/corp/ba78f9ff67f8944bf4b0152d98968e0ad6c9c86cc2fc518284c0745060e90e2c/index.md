@@ -4,14 +4,15 @@ title: ​Highland Ind.
 description: W:10 L:10 D:1 Bonus ❌
 date: 1714044555
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔻  (805)|
+| ELO Regular | 1182 🔻  (804)|
 | ELO Competitive | 1234 🔻  (418)|
 | Total Matches | 21 |
 | Wins | 10 |

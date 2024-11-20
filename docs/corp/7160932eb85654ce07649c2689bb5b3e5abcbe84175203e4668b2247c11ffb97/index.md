@@ -4,15 +4,16 @@ title: ​Star Field
 description: W:7 L:1 D:0 Bonus ❌
 date: 1721414692
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1306 🔺  (135)|
-| ELO Competitive | 1329 🔺  (208)|
+| ELO Competitive | 1329 🔺  (207)|
 | Total Matches | 8 |
 | Wins | 7 |
 | Losses | 1 |

@@ -4,14 +4,15 @@ title: ​Dadsw/Daughterz
 description: W:1 L:3 D:0 Bonus ❌
 date: 1714595126
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (850)|
+| ELO Regular | 1176 🔻  (849)|
 | ELO Competitive | 1179 🔻  (972)|
 | Total Matches | 4 |
 | Wins | 1 |

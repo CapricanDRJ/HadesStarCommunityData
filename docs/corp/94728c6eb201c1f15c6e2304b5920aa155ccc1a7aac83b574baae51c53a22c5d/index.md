@@ -4,14 +4,15 @@ title: ​Galaxians
 description: W:20 L:26 D:0 Bonus ✅
 date: 1732030100
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ✅
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1177 🔻  (846)|
+| ELO Regular | 1177 🔻  (845)|
 | ELO Competitive | 1282 🔺  (286)|
 | Total Matches | 46 |
 | Wins | 20 |

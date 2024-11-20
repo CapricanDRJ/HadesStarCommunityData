@@ -4,14 +4,15 @@ title: ​ༀᅗBAR ESTELARᅗༀ
 description: W:1 L:11 D:0 Bonus ❌
 date: 1721628977
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1118 🔻  (1189)|
+| ELO Regular | 1118 🔻  (1190)|
 | ELO Competitive | 1141 🔻  (1221)|
 | Total Matches | 12 |
 | Wins | 1 |

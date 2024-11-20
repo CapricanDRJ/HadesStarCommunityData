@@ -4,14 +4,15 @@ title: ​Orione
 description: W:0 L:1 D:1 Bonus ❌
 date: 1720098657
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (804)|
+| ELO Regular | 1183 🔻  (803)|
 | ELO Competitive | 1189 🔻  (734)|
 | Total Matches | 2 |
 | Wins | 0 |

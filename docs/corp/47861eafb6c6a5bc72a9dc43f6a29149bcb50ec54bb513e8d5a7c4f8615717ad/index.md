@@ -4,14 +4,15 @@ title: ​Red Star Banker
 description: W:0 L:2 D:0 Bonus ❌
 date: 1705138180
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔻  (947)|
+| ELO Regular | 1170 🔻  (946)|
 | ELO Competitive | 1170 🔻  (1077)|
 | Total Matches | 2 |
 | Wins | 0 |

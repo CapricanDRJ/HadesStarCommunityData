@@ -4,14 +4,15 @@ title: ​Red Star
 description: W:0 L:1 D:0 Bonus ❌
 date: 1731991638
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (800)|
+| ELO Regular | 1183 🔻  (799)|
 | ELO Competitive | 1185 🔻  (897)|
 | Total Matches | 1 |
 | Wins | 0 |

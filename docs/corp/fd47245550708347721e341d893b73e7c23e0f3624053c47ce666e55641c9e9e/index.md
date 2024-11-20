@@ -4,14 +4,15 @@ title: ​Nine's Own Goal
 description: W:32 L:26 D:2 Bonus ❌
 date: 1731853114
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (797)|
+| ELO Regular | 1183 🔻  (796)|
 | ELO Competitive | 1246 🔻  (383)|
 | Total Matches | 60 |
 | Wins | 32 |

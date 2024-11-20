@@ -4,14 +4,15 @@ title: ​夢幻之星＊分盟＊
 description: W:2 L:10 D:2 Bonus ❌
 date: 1729423231
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1114 🔻  (1207)|
+| ELO Regular | 1114 🔻  (1208)|
 | ELO Competitive | 1131 🔻  (1246)|
 | Total Matches | 14 |
 | Wins | 2 |

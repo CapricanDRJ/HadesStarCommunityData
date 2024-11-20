@@ -4,14 +4,15 @@ title: ​Sektion 32
 description: W:4 L:7 D:1 Bonus ❌
 date: 1721643099
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (906)|
+| ELO Regular | 1172 🔻  (905)|
 | ELO Competitive | 1180 🔻  (959)|
 | Total Matches | 12 |
 | Wins | 4 |

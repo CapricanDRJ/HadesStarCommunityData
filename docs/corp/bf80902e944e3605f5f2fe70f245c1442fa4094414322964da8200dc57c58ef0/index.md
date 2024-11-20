@@ -4,14 +4,15 @@ title: ​Das Imperium
 description: W:1 L:8 D:0 Bonus ❌
 date: 1706218527
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1116 🔻  (1198)|
+| ELO Regular | 1116 🔻  (1199)|
 | ELO Competitive | 1118 🔻  (1262)|
 | Total Matches | 9 |
 | Wins | 1 |

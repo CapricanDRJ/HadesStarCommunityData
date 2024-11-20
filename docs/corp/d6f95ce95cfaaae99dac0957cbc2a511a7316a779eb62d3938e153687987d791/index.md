@@ -4,14 +4,15 @@ title: ​Cygnus X-1
 description: W:0 L:2 D:0 Bonus ❌
 date: 1705551985
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (924)|
+| ELO Regular | 1171 🔻  (923)|
 | ELO Competitive | 1171 🔻  (1061)|
 | Total Matches | 2 |
 | Wins | 0 |

@@ -4,14 +4,15 @@ title: ​DarkSide
 description: W:42 L:52 D:1 Bonus ✅
 date: 1731776194
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ✅
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1180 🔻  (829)|
+| ELO Regular | 1180 🔻  (828)|
 | ELO Competitive | 1423 🔺  (106)|
 | Total Matches | 95 |
 | Wins | 42 |

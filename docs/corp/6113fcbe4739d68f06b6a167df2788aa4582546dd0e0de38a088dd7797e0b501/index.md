@@ -4,14 +4,15 @@ title: ​深空补给港
 description: W:2 L:12 D:0 Bonus ❌
 date: 1715412185
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1107 🔻  (1222)|
+| ELO Regular | 1107 🔻  (1223)|
 | ELO Competitive | 1150 🔻  (1186)|
 | Total Matches | 14 |
 | Wins | 2 |

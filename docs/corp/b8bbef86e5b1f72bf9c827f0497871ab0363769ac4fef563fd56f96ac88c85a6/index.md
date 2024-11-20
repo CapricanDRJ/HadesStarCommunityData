@@ -4,14 +4,15 @@ title: ​Prometheus
 description: W:9 L:11 D:0 Bonus ❌
 date: 1718761230
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔺  (861)|
+| ELO Regular | 1175 🔺  (860)|
 | ELO Competitive | 1202 🔺  (585)|
 | Total Matches | 20 |
 | Wins | 9 |

@@ -4,15 +4,16 @@ title: ​Polish Pirates
 description: W:19 L:14 D:0 Bonus ❌
 date: 1731065492
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1276 🔺  (180)|
-| ELO Competitive | 1328 🔺  (210)|
+| ELO Competitive | 1328 🔺  (209)|
 | Total Matches | 33 |
 | Wins | 19 |
 | Losses | 14 |

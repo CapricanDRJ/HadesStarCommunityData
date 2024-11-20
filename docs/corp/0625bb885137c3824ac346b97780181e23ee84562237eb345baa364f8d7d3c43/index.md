@@ -4,14 +4,15 @@ title: ​Moon Catchers
 description: W:13 L:20 D:1 Bonus ❌
 date: 1726142631
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1115 🔻  (1202)|
+| ELO Regular | 1115 🔻  (1203)|
 | ELO Competitive | 1155 🔻  (1169)|
 | Total Matches | 34 |
 | Wins | 13 |

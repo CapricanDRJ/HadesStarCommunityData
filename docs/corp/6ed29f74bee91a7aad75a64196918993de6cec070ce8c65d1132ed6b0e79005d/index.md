@@ -4,15 +4,16 @@ title: ​sk cz nebula
 description: W:15 L:8 D:0 Bonus ❌
 date: 1729793787
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1265 🔺  (209)|
-| ELO Competitive | 1325 🔺  (214)|
+| ELO Competitive | 1325 🔺  (213)|
 | Total Matches | 23 |
 | Wins | 15 |
 | Losses | 8 |

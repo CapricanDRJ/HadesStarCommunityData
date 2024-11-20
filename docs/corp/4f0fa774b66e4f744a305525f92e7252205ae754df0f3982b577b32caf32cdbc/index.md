@@ -4,15 +4,16 @@ title: ​闲散人员
 description: W:12 L:7 D:2 Bonus ❌
 date: 1731861530
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1246 🔻  (255)|
-| ELO Competitive | 1315 🔻  (227)|
+| ELO Competitive | 1315 🔻  (228)|
 | Total Matches | 21 |
 | Wins | 12 |
 | Losses | 7 |

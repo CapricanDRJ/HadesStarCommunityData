@@ -4,15 +4,16 @@ title: ​STRVS233～
 description: W:17 L:10 D:0 Bonus ❌
 date: 1726656172
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1276 🔻  (182)|
-| ELO Competitive | 1310 🔻  (233)|
+| ELO Competitive | 1310 🔻  (234)|
 | Total Matches | 27 |
 | Wins | 17 |
 | Losses | 10 |

@@ -4,15 +4,16 @@ title: ​하데스 스타 코리아
 description: W:9 L:7 D:0 Bonus ❌
 date: 1711680863
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1239 🔺  (284)|
-| ELO Competitive | 1307 🔺  (239)|
+| ELO Competitive | 1307 🔺  (240)|
 | Total Matches | 16 |
 | Wins | 9 |
 | Losses | 7 |

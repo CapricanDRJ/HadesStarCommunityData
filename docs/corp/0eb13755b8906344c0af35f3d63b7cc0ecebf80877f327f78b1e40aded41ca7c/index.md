@@ -4,14 +4,15 @@ title: ​Ukr alliance
 description: W:1 L:3 D:1 Bonus ❌
 date: 1708262593
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (858)|
+| ELO Regular | 1175 🔻  (857)|
 | ELO Competitive | 1175 🔻  (1001)|
 | Total Matches | 5 |
 | Wins | 1 |

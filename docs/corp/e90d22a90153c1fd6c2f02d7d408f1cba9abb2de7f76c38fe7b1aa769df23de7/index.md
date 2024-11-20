@@ -4,14 +4,15 @@ title: ​Killer Shadow
 description: W:2 L:10 D:0 Bonus ❌
 date: 1708469944
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1109 🔻  (1221)|
+| ELO Regular | 1109 🔻  (1222)|
 | ELO Competitive | 1114 🔻  (1269)|
 | Total Matches | 12 |
 | Wins | 2 |

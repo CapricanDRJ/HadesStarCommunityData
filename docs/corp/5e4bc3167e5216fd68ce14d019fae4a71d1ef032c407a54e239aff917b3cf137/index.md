@@ -4,14 +4,15 @@ title: ​The Borg
 description: W:0 L:1 D:0 Bonus ❌
 date: 1705007195
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (690)|
+| ELO Regular | 1186 🔻  (689)|
 | ELO Competitive | 1186 🔻  (843)|
 | Total Matches | 1 |
 | Wins | 0 |

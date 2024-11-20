@@ -4,14 +4,15 @@ title: ​From the Fire
 description: W:2 L:4 D:0 Bonus ❌
 date: 1705705257
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (852)|
+| ELO Regular | 1176 🔻  (851)|
 | ELO Competitive | 1176 🔻  (994)|
 | Total Matches | 6 |
 | Wins | 2 |

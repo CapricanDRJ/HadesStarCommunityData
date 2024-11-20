@@ -4,15 +4,16 @@ title: ​On en a Gros !
 description: W:27 L:33 D:0 Bonus ✅
 date: 1731760563
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ✅
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1189 🔺  (597)|
-| ELO Competitive | 1319 🔺  (223)|
+| ELO Competitive | 1319 🔺  (224)|
 | Total Matches | 60 |
 | Wins | 27 |
 | Losses | 33 |

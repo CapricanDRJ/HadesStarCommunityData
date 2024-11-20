@@ -4,15 +4,16 @@ title: ​Türk Yıldızları
 description: W:16 L:11 D:0 Bonus ❌
 date: 1717106731
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1273 🔻  (185)|
-| ELO Competitive | 1305 🔻  (243)|
+| ELO Competitive | 1305 🔻  (244)|
 | Total Matches | 27 |
 | Wins | 16 |
 | Losses | 11 |

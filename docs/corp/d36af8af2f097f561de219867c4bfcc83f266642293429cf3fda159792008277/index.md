@@ -4,14 +4,15 @@ title: ​新纪元舰队
 description: W:4 L:12 D:2 Bonus ❌
 date: 1716450547
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1117 🔻  (1191)|
+| ELO Regular | 1117 🔻  (1192)|
 | ELO Competitive | 1153 🔻  (1174)|
 | Total Matches | 18 |
 | Wins | 4 |

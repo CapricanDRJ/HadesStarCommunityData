@@ -4,14 +4,15 @@ title: ​Hail Hydra
 description: W:6 L:18 D:1 Bonus ❌
 date: 1723153186
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1112 🔺  (1213)|
+| ELO Regular | 1112 🔺  (1214)|
 | ELO Competitive | 1127 🔺  (1248)|
 | Total Matches | 25 |
 | Wins | 6 |

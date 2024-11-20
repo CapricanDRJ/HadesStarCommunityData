@@ -4,14 +4,15 @@ title: ​Darkest Hour
 description: W:1 L:2 D:0 Bonus ❌
 date: 1725453598
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (746)|
+| ELO Regular | 1185 🔻  (745)|
 | ELO Competitive | 1198 🔻  (644)|
 | Total Matches | 3 |
 | Wins | 1 |

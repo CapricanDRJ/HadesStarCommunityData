@@ -4,14 +4,15 @@ title: ​RUSSIAN TEAM
 description: W:0 L:9 D:0 Bonus ❌
 date: 1715154591
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1109 🔻  (1220)|
+| ELO Regular | 1109 🔻  (1221)|
 | ELO Competitive | 1109 🔻  (1272)|
 | Total Matches | 9 |
 | Wins | 0 |

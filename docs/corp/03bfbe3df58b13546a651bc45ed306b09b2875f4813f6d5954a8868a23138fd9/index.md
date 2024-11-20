@@ -4,14 +4,15 @@ title: ​Urban Legends
 description: W:1 L:3 D:0 Bonus ❌
 date: 1705760541
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (891)|
+| ELO Regular | 1173 🔻  (890)|
 | ELO Competitive | 1178 🔻  (974)|
 | Total Matches | 4 |
 | Wins | 1 |

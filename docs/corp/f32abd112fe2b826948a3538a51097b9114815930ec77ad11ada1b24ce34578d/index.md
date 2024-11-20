@@ -4,14 +4,15 @@ title: ​欢迎国人
 description: W:7 L:16 D:3 Bonus ❌
 date: 1731222354
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1106 🔻  (1224)|
+| ELO Regular | 1106 🔻  (1225)|
 | ELO Competitive | 1124 🔻  (1251)|
 | Total Matches | 26 |
 | Wins | 7 |

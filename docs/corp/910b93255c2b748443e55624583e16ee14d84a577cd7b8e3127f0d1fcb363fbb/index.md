@@ -4,15 +4,16 @@ title: ​viCIOus
 description: W:10 L:2 D:1 Bonus ❌
 date: 1731710090
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1283 🔻  (170)|
-| ELO Competitive | 1320 🔻  (222)|
+| ELO Competitive | 1320 🔻  (221)|
 | Total Matches | 13 |
 | Wins | 10 |
 | Losses | 2 |

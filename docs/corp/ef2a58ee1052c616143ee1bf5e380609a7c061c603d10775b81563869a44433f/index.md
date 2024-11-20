@@ -4,14 +4,15 @@ title: ​Алый Феникс
 description: W:7 L:9 D:0 Bonus ✅
 date: 1731988934
 ---
+<div style="float: right; margin: 0 0 1em 1em;">
+  <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ✅
 
-<div style="position: relative; text-align: right; margin-bottom: 1em;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔺  (819)|
+| ELO Regular | 1181 🔺  (818)|
 | ELO Competitive | 1192 🔺  (687)|
 | Total Matches | 16 |
 | Wins | 7 |
