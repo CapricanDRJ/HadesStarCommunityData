@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ​华夏三体-基沃托斯集团
-description: W:0 L:3 D:1 Bonus ❌
-date: 1731540574
+description: W:0 L:5 D:1 Bonus ❌
+date: 1732159915
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
@@ -12,11 +12,11 @@ date: 1731540574
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔺  (943)|
-| ELO Competitive | 1172 🔺  (1049)|
-| Total Matches | 4 |
+| ELO Regular | 1146 🔻  (1103)|
+| ELO Competitive | 1160 🔻  (1144)|
+| Total Matches | 6 |
 | Wins | 0 |
-| Losses | 3 |
+| Losses | 5 |
 | Draws | 1 |
 
 
@@ -34,7 +34,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731108574,1730590226,1730126260,1729602484];
+        let timestamps = [1731727915,1731727915,1731108574,1730590226,1730126260,1729602484];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -116,11 +116,18 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [EarthFederation](https://ws.tsl.rocks/corp/e1d58bc0b534389adeb45301641e32cdda2af0a1748a0d2ddb52e794db2c6d5b/) | 0 | 2 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/21 | 0-20 | [EarthFederation](https://ws.tsl.rocks/corp/e1d58bc0b534389adeb45301641e32cdda2af0a1748a0d2ddb52e794db2c6d5b/) |
+| ❌ | 2024/11/21 | 0-2 | [EarthFederation](https://ws.tsl.rocks/corp/e1d58bc0b534389adeb45301641e32cdda2af0a1748a0d2ddb52e794db2c6d5b/) |
 | ↔️ | 2024/11/13 | 2-2 | [太阳系集团](https://ws.tsl.rocks/corp/50f5e0a888ce2f21c0980be0cbb1e444e1d7eeb9dcb2095c3e428bd5bde7a9f6/) |
 | ❌ | 2024/11/07 | 0-17 | [Nox Imperium](https://ws.tsl.rocks/corp/b60fb003fae650d1de18e7bca4fad04f9805501f4568d07ceb47bffdfeb613c1/) |
 | ❌ | 2024/11/02 | 0-24 | [Corp\. Luminá](https://ws.tsl.rocks/corp/a90638cb4761b5ed889376762f6612c65407072ac9befa4530989c338be72862/) |
