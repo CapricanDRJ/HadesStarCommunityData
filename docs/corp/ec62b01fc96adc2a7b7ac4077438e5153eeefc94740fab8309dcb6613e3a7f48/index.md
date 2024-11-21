@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​Bacon Warriors
-description: W:19 L:18 D:0 Bonus ✅
+description: W:19 L:18 D:0 Bonus ❌
 date: 1731514429
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
 </div>
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1251 🔺  (242)|
-| ELO Competitive | 1323 🔺  (217)|
+| ELO Regular | 1251 🔺  (243)|
+| ELO Competitive | 1323 🔺  (218)|
 | Total Matches | 37 |
 | Wins | 19 |
 | Losses | 18 |
