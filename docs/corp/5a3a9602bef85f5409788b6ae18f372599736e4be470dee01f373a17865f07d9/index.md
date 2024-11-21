@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ​绛紫星云
-description: W:1 L:5 D:0 Bonus ❌
-date: 1731729617
+description: W:1 L:5 D:1 Bonus ❌
+date: 1732179746
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
@@ -12,12 +12,12 @@ date: 1731729617
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1145 🔻  (1110)|
-| ELO Competitive | 1160 🔻  (1146)|
-| Total Matches | 6 |
+| ELO Regular | 1141 🔻  (1124)|
+| ELO Competitive | 1158 🔻  (1153)|
+| Total Matches | 7 |
 | Wins | 1 |
 | Losses | 5 |
-| Draws | 0 |
+| Draws | 1 |
 
 
 # Whitestar Match Day
@@ -34,7 +34,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731297617,1730541539,1729781576,1729213328,1726982690,1726532451];
+        let timestamps = [1731747746,1731297617,1730541539,1729781576,1729213328,1726982690,1726532451];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -121,6 +121,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/11/21 | 4-4 | [Germania](https://ws.tsl.rocks/corp/e088c9a1e761ef8c1f07a1d374886006b0ecace15d07b9549e3655729b630897/) |
 | ❌ | 2024/11/16 | 3-34 | [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1/) |
 | ✅ | 2024/11/07 | 6-2 | [情谊永存](https://ws.tsl.rocks/corp/a3fee40ae9e62b95f50c653b7acf4990fee7b21461807dc90da90d429063a98c/) |
 | ❌ | 2024/10/29 | 4-14 | [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) |

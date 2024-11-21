@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ​The Allegiant
-description: W:27 L:14 D:0 Bonus ✅
-date: 1731693255
+description: W:28 L:14 D:0 Bonus ✅
+date: 1732177643
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
@@ -12,13 +12,13 @@ date: 1731693255
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1304 🔺  (136)|
-| ELO Competitive | 1364 🔺  (168)|
-| Total Matches | 41 |
-| Wins | 27 |
+| ELO Regular | 1314 🔺  (126)|
+| ELO Competitive | 1373 🔺  (156)|
+| Total Matches | 42 |
+| Wins | 28 |
 | Losses | 14 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 7 |
 
 
@@ -36,7 +36,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731261255,1730512695,1729971199,1729313998,1728761909,1728164449,1727526747,1726925764,1726189924,1725627391,1725075693,1724453043,1723833372,1723233553,1722652963,1722035996,1721410487,1720715794,1719686894,1719158808,1717790394,1717257437,1716663010,1715956351,1715374014,1714765363,1714254165,1713644853,1712976004,1710620581,1710010026,1709402172,1708799999,1708794590,1708193599,1707586585,1706919465,1706378839,1705770597,1705165966,1704647583];
+        let timestamps = [1731745643,1731261255,1730512695,1729971199,1729313998,1728761909,1728164449,1727526747,1726925764,1726189924,1725627391,1725075693,1724453043,1723833372,1723233553,1722652963,1722035996,1721410487,1720715794,1719686894,1719158808,1717790394,1717257437,1716663010,1715956351,1715374014,1714765363,1714254165,1713644853,1712976004,1710620581,1710010026,1709402172,1708799999,1708794590,1708193599,1707586585,1706919465,1706378839,1705770597,1705165966,1704647583];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -130,6 +130,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/21 | 31-0 | [ 墨痕 ](https://ws.tsl.rocks/corp/1beef0498f07b07217c6e0727dffd066947edc54ee6d09dc63c031def52cdd60/) |
 | ✅ | 2024/11/15 | 31-2 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 | ✅ | 2024/11/07 | 28-10 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/0c33734edc95a1bac88a9df7e0853a3bd835ea682673f097db1c75d6bb14c8da/) |
 | ❌ | 2024/10/31 | 5-11 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |
