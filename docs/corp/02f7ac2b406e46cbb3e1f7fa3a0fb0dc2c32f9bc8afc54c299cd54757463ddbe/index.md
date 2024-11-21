@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​ItaFederalFleet
-description: W:19 L:8 D:1 Bonus ✅
+description: W:19 L:8 D:1 Bonus ❌
 date: 1731559503
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
 </div>
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1321 🔺  (119)|
-| ELO Competitive | 1354 🔺  (177)|
+| ELO Competitive | 1354 🔺  (178)|
 | Total Matches | 28 |
 | Wins | 19 |
 | Losses | 8 |

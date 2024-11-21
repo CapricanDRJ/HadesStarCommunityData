@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ​tropa (BR)
-description: W:7 L:13 D:2 Bonus ❌
-date: 1730678911
+description: W:7 L:13 D:3 Bonus ❌
+date: 1732190565
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
@@ -12,12 +12,12 @@ date: 1730678911
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1132 🔻  (1152)|
-| ELO Competitive | 1144 🔻  (1215)|
-| Total Matches | 22 |
+| ELO Regular | 1133 🔺  (1149)|
+| ELO Competitive | 1145 🔺  (1210)|
+| Total Matches | 23 |
 | Wins | 7 |
 | Losses | 13 |
-| Draws | 2 |
+| Draws | 3 |
 | Streak Record | 3 |
 
 
@@ -35,7 +35,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730246911,1725864192,1725062774,1723929849,1718263116,1717044968,1716434363,1715255161,1714621820,1707025841,1706557349,1706022129,1705556329,1705119985,1704424000,1703649565,1703135969,1702660023,1702196279,1701663112,1701191564,1700714101];
+        let timestamps = [1731758565,1730246911,1725864192,1725062774,1723929849,1718263116,1717044968,1716434363,1715255161,1714621820,1707025841,1706557349,1706022129,1705556329,1705119985,1704424000,1703649565,1703135969,1702660023,1702196279,1701663112,1701191564,1700714101];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -127,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/11/21 | 0-0 | [Betelgeuse](https://ws.tsl.rocks/corp/fdd9da8c45ea525e6dd825eede02253ebe322523e06a0e1c30ccb0401c60e081/) |
 | ❌ | 2024/11/04 | 0-16 | [  边界  ](https://ws.tsl.rocks/corp/86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a/) |
 | ❌ | 2024/09/14 | 1-4 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 | ❌ | 2024/09/05 | 0-11 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |

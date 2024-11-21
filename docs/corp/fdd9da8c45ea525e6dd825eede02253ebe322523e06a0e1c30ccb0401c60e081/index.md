@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ​Betelgeuse
-description: W:0 L:2 D:0 Bonus ❌
-date: 1727906205
+description: W:0 L:2 D:1 Bonus ❌
+date: 1732190565
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
@@ -12,12 +12,12 @@ date: 1727906205
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (888)|
-| ELO Competitive | 1174 🔻  (1017)|
-| Total Matches | 2 |
+| ELO Regular | 1171 🔻  (921)|
+| ELO Competitive | 1173 🔻  (1034)|
+| Total Matches | 3 |
 | Wins | 0 |
 | Losses | 2 |
-| Draws | 0 |
+| Draws | 1 |
 
 
 # Whitestar Match Day
@@ -34,7 +34,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727474205,1715704660];
+        let timestamps = [1731758565,1727474205,1715704660];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -121,6 +121,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/11/21 | 0-0 | [tropa \(BR\)](https://ws.tsl.rocks/corp/c5b272089230f78a35d3bee9ed1eb0cc2b3a65703f2452b603286e889efa74c9/) |
 | ❌ | 2024/10/02 | 0-10 | [koalition](https://ws.tsl.rocks/corp/68d721684ab83df28cba0a58c608e5dd3c58df79369abffa67da4e8956ef2695/) |
 | ❌ | 2024/05/19 | 0-14 | [Armored Union ](https://ws.tsl.rocks/corp/4dacc02ca314ab864578421db538b0eb10b0c8c81dc0edd91c5090717d087c7f/) |
 
