@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ​Final Space
-description: W:1 L:3 D:0 Bonus ❌
-date: 1730853645
+description: W:1 L:4 D:0 Bonus ❌
+date: 1732201086
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
@@ -12,11 +12,11 @@ date: 1730853645
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔺  (813)|
-| ELO Competitive | 1184 🔺  (917)|
-| Total Matches | 4 |
+| ELO Regular | 1169 🔻  (958)|
+| ELO Competitive | 1172 🔻  (1038)|
+| Total Matches | 5 |
 | Wins | 1 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
 
 
@@ -34,7 +34,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730421645,1725422890,1723541277,1722951377];
+        let timestamps = [1731769086,1730421645,1725422890,1723541277,1722951377];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -121,6 +121,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/21 | 3-8 | [一根飞机](https://ws.tsl.rocks/corp/459077a8d857a7bd7ee9caafa2c5ed27ac2416d2280965dd22d4293302cb9de0/) |
 | ✅ | 2024/11/06 | 2-0 | [empire](https://ws.tsl.rocks/corp/c59bf8dfb57f9bfc0a87735b00299b45d32d3607628d7879e2bd9711fec3e90f/) |
 | ❌ | 2024/09/09 | 1-5 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
 | ❌ | 2024/08/18 | 4-5 | [Anarchy Nation ](https://ws.tsl.rocks/corp/9c456dbf32e22070620021bf0bea4d2ab9deb0ac7ad4be06a4067a9ced5f2f5b/) |

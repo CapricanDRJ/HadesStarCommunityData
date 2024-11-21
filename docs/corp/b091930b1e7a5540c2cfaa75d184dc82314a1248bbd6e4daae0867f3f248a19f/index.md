@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Ещё один Миф
-description: W:5 L:8 D:0 Bonus ❌
-date: 1731969708
+description: W:6 L:8 D:0 Bonus ✅
+date: 1732199583
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
 </div>
 
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1209 🔻  (438)|
-| ELO Competitive | 1232 🔻  (426)|
-| Total Matches | 13 |
-| Wins | 5 |
+| ELO Regular | 1224 🔺  (334)|
+| ELO Competitive | 1252 🔺  (365)|
+| Total Matches | 14 |
+| Wins | 6 |
 | Losses | 8 |
 | Draws | 0 |
 | Streak Record | 3 |
@@ -35,7 +35,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731537708,1731312338,1730805677,1730362742,1729919505,1729458557,1729016183,1728419882,1717029046,1714072389,1701679337,1701069242,1700088855];
+        let timestamps = [1731767583,1731537708,1731312338,1730805677,1730362742,1729919505,1729458557,1729016183,1728419882,1717029046,1714072389,1701679337,1701069242,1700088855];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -122,6 +122,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/21 | 30-0 | [Retarts](https://ws.tsl.rocks/corp/1556331f722d00268e3c524b12efedac51051cf48e46b2513675774b9315a155/) |
 | ❌ | 2024/11/18 | 0-20 | [Ninth Planet](https://ws.tsl.rocks/corp/53297ed66c8c326d4cb4eebdee55172d3d64f122addd5d916b314f4ab557e21a/) |
 | ❌ | 2024/11/16 | 7-55 | [Sentencia](https://ws.tsl.rocks/corp/288393568f19d6bd87e5e3e20f7fd1d458526d8beb052622b4f5572d7959cf7b/) |
 | ✅ | 2024/11/10 | 27-0 | [E\.T\.A](https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082/) |

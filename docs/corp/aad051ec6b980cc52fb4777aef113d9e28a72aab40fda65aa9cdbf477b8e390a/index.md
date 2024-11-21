@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​West Worlders
-description: W:6 L:23 D:0 Bonus ❌
-date: 1731408051
+description: W:7 L:23 D:0 Bonus ✅
+date: 1732203191
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
 </div>
 
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1021 🔻  (1298)|
-| ELO Competitive | 1068 🔻  (1308)|
-| Total Matches | 29 |
-| Wins | 6 |
+| ELO Regular | 1038 🔺  (1293)|
+| ELO Competitive | 1088 🔺  (1293)|
+| Total Matches | 30 |
+| Wins | 7 |
 | Losses | 23 |
 | Draws | 0 |
 | Streak Record | 2 |
@@ -35,7 +35,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730976051,1730332099,1729699847,1728881241,1728331533,1727712761,1727257797,1726632675,1725906569,1725451305,1724944971,1724383019,1723930750,1723432791,1722920425,1722440208,1721978298,1721458711,1720937900,1720306473,1719377875,1718684596,1717739522,1715793511,1705826190,1704668023,1701507428,1699487944,1698948546];
+        let timestamps = [1731771191,1730976051,1730332099,1729699847,1728881241,1728331533,1727712761,1727257797,1726632675,1725906569,1725451305,1724944971,1724383019,1723930750,1723432791,1722920425,1722440208,1721978298,1721458711,1720937900,1720306473,1719377875,1718684596,1717739522,1715793511,1705826190,1704668023,1701507428,1699487944,1698948546];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -130,6 +130,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/21 | 40-3 | [E\.T\.A](https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082/) |
 | ❌ | 2024/11/12 | 5-19 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) |
 | ❌ | 2024/11/04 | 15-18 | [Nine's Own Goal](https://ws.tsl.rocks/corp/fd47245550708347721e341d893b73e7c23e0f3624053c47ce666e55641c9e9e/) |
 | ❌ | 2024/10/28 | 15-41 | [Tacitus](https://ws.tsl.rocks/corp/257625cedb6403e6979963e22a6ab809b81b08f41e868fa3498440abaf1780e0/) |

@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​云深不知处
-description: W:1 L:3 D:0 Bonus ✅
+description: W:1 L:3 D:0 Bonus ❌
 date: 1732027094
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
 </div>
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1178 🔻  (839)|
+| ELO Regular | 1178 🔻  (838)|
 | ELO Competitive | 1185 🔻  (905)|
 | Total Matches | 4 |
 | Wins | 1 |

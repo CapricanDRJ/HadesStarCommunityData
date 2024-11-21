@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ​11th Engineers
-description: W:4 L:41 D:2 Bonus ❌
-date: 1732186057
+description: W:4 L:42 D:2 Bonus ❌
+date: 1732196577
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
@@ -12,11 +12,11 @@ date: 1732186057
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 875 🔻  (1325)|
-| ELO Competitive | 1074 🔻  (1302)|
-| Total Matches | 47 |
+| ELO Regular | 873 🔻  (1325)|
+| ELO Competitive | 1076 🔻  (1302)|
+| Total Matches | 48 |
 | Wins | 4 |
-| Losses | 41 |
+| Losses | 42 |
 | Draws | 2 |
 | Streak Record | 2 |
 
@@ -35,7 +35,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731754057,1731298994,1730852347,1730435718,1730386184,1729929121,1729928355,1729477758,1729044129,1728614623,1728609292,1728156936,1727753979,1727724485,1727275229,1726871642,1726421931,1726398321,1725964310,1725959149,1725523722,1725087803,1725087739,1724653784,1724650780,1723787992,1723772968,1723299966,1723298371,1722859649,1722858817,1721984608,1721558204,1721551868,1721096299,1720663796,1720226530,1720200988,1719767432,1719287424,1719287071,1718839061,1718398807,1717954489,1717948477,1717493374,1717058790];
+        let timestamps = [1731764577,1731754057,1731298994,1730852347,1730435718,1730386184,1729929121,1729928355,1729477758,1729044129,1728614623,1728609292,1728156936,1727753979,1727724485,1727275229,1726871642,1726421931,1726398321,1725964310,1725959149,1725523722,1725087803,1725087739,1724653784,1724650780,1723787992,1723772968,1723299966,1723298371,1722859649,1722858817,1721984608,1721558204,1721551868,1721096299,1720663796,1720226530,1720200988,1719767432,1719287424,1719287071,1718839061,1718398807,1717954489,1717948477,1717493374,1717058790];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/21 | 0-9 | [Kratos](https://ws.tsl.rocks/corp/1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b/) |
 | ❌ | 2024/11/21 | 0-10 | [CTG](https://ws.tsl.rocks/corp/9647a8507dfa5637a217d2d6a0ad47aefb6a4563f910ad46376c228450cff43c/) |
 | ❌ | 2024/11/16 | 0-3 | [Axiom](https://ws.tsl.rocks/corp/4000a010c205d318c766ba14fe1836eaab6652f1738a88cce8a8c69d0283e1b0/) |
 | ❌ | 2024/11/11 | 0-3 | [Тихий Омут](https://ws.tsl.rocks/corp/4e8d4cb194326b25a28e388b58632db164a368d6dc7ed5a8f4cfcab7a54c239c/) |
