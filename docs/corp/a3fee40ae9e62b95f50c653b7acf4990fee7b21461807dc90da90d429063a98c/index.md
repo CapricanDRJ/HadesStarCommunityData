@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ​情谊永存
-description: W:2 L:8 D:1 Bonus ❌
-date: 1731517434
+description: W:2 L:8 D:2 Bonus ❌
+date: 1732270377
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
@@ -12,12 +12,12 @@ date: 1731517434
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1114 🔻  (1214)|
-| ELO Competitive | 1139 🔻  (1229)|
-| Total Matches | 11 |
+| ELO Regular | 1117 🔺  (1199)|
+| ELO Competitive | 1141 🔺  (1224)|
+| Total Matches | 12 |
 | Wins | 2 |
 | Losses | 8 |
-| Draws | 1 |
+| Draws | 2 |
 
 
 # Whitestar Match Day
@@ -34,7 +34,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731085434,1730541539,1729432423,1728825934,1728034121,1728030470,1727538855,1726581499,1726087764,1725628293,1721104413];
+        let timestamps = [1731838377,1731085434,1730541539,1729432423,1728825934,1728034121,1728030470,1727538855,1726581499,1726087764,1725628293,1721104413];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/11/22 | 0-0 | [Hornet](https://ws.tsl.rocks/corp/2a0587feec8e7e7e4b9f69dea0b76b53f03b5def56851d4128b07bd8e880f9e4/) |
 | ❌ | 2024/11/13 | 1-7 | [银河护卫队](https://ws.tsl.rocks/corp/e522df7ad34eabee08393efb864d53bdc897d0ad187170616d6ef924df5c7267/) |
 | ❌ | 2024/11/07 | 2-6 | [绛紫星云](https://ws.tsl.rocks/corp/5a3a9602bef85f5409788b6ae18f372599736e4be470dee01f373a17865f07d9/) |
 | ↔️ | 2024/10/25 | 0-0 | [共产国际](https://ws.tsl.rocks/corp/375b1efc576c9d15f93249680dcd6dccaf2ad07cd520b85242d0b704d3a494c6/) |
