@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ​共产国际
-description: W:6 L:4 D:4 Bonus ❌
-date: 1729868313
+description: W:6 L:5 D:5 Bonus ❌
+date: 1732288535
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
@@ -12,12 +12,12 @@ date: 1729868313
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1215 🔺  (378)|
-| ELO Competitive | 1271 🔺  (313)|
-| Total Matches | 14 |
+| ELO Regular | 1201 🔻  (479)|
+| ELO Competitive | 1266 🔻  (325)|
+| Total Matches | 16 |
 | Wins | 6 |
-| Losses | 4 |
-| Draws | 4 |
+| Losses | 5 |
+| Draws | 5 |
 | Streak Record | 3 |
 
 
@@ -35,7 +35,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729436313,1729432423,1727619302,1726083255,1725628293,1725625888,1725156996,1725022801,1724494208,1724221949,1723871533,1723385612,1722757542,1722307686];
+        let timestamps = [1731856535,1731855246,1729436313,1729432423,1727619302,1726083255,1725628293,1725625888,1725156996,1725022801,1724494208,1724221949,1723871533,1723385612,1722757542,1722307686];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -127,6 +127,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/22 | 0-14 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb/) |
+| ↔️ | 2024/11/22 | 0-0 | [empire](https://ws.tsl.rocks/corp/c59bf8dfb57f9bfc0a87735b00299b45d32d3607628d7879e2bd9711fec3e90f/) |
 | ↔️ | 2024/10/25 | 0-0 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ↔️ | 2024/10/25 | 0-0 | [情谊永存](https://ws.tsl.rocks/corp/a3fee40ae9e62b95f50c653b7acf4990fee7b21461807dc90da90d429063a98c/) |
 | ❌ | 2024/10/04 | 2-7 | [ДИᏰEPℂДℍTᏰℓ](https://ws.tsl.rocks/corp/a1dad8a2a2c5ab935169d168bc19f8a1db7f12b099358e079cb7221a340345ed/) |

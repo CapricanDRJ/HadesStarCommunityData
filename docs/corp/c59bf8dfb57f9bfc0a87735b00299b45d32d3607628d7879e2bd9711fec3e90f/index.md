@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ​empire
-description: W:1 L:4 D:0 Bonus ❌
-date: 1730853645
+description: W:1 L:4 D:1 Bonus ❌
+date: 1732287246
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
@@ -12,12 +12,12 @@ date: 1730853645
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1152 🔻  (1079)|
-| ELO Competitive | 1158 🔻  (1155)|
-| Total Matches | 5 |
+| ELO Regular | 1155 🔺  (1060)|
+| ELO Competitive | 1163 🔺  (1129)|
+| Total Matches | 6 |
 | Wins | 1 |
 | Losses | 4 |
-| Draws | 0 |
+| Draws | 1 |
 
 
 # Whitestar Match Day
@@ -34,7 +34,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730421645,1729727794,1729258823,1728664213,1728160843];
+        let timestamps = [1731855246,1730421645,1729727794,1729258823,1728664213,1728160843];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -121,6 +121,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/11/22 | 0-0 | [共产国际](https://ws.tsl.rocks/corp/375b1efc576c9d15f93249680dcd6dccaf2ad07cd520b85242d0b704d3a494c6/) |
 | ❌ | 2024/11/06 | 0-2 | [Final Space](https://ws.tsl.rocks/corp/762914fc1846e6b284609274f8f9515959110b5db098a53be8048ffd45d98fdd/) |
 | ❌ | 2024/10/28 | 1-13 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ❌ | 2024/10/23 | 0-7 | [  边界  ](https://ws.tsl.rocks/corp/86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a/) |

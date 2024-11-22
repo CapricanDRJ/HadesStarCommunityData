@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​viCIOus
-description: W:10 L:2 D:1 Bonus ❌
-date: 1731710090
+description: W:11 L:2 D:1 Bonus ✅
+date: 1732288535
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
 </div>
 
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1283 🔻  (174)|
-| ELO Competitive | 1320 🔻  (224)|
-| Total Matches | 13 |
-| Wins | 10 |
+| ELO Regular | 1295 🔺  (152)|
+| ELO Competitive | 1332 🔺  (201)|
+| Total Matches | 14 |
+| Wins | 11 |
 | Losses | 2 |
 | Draws | 1 |
 | Streak Record | 6 |
@@ -35,7 +35,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731278090,1730450484,1729985622,1729587172,1729543598,1729108447,1728772928,1728661206,1728222142,1727772858,1727255994,1726803718,1726362718];
+        let timestamps = [1731856535,1731278090,1730450484,1729985622,1729587172,1729543598,1729108447,1728772928,1728661206,1728222142,1727772858,1727255994,1726803718,1726362718];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -122,6 +122,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/22 | 14-0 | [共产国际](https://ws.tsl.rocks/corp/375b1efc576c9d15f93249680dcd6dccaf2ad07cd520b85242d0b704d3a494c6/) |
 | ↔️ | 2024/11/15 | 4-4 | [Winter Star llc](https://ws.tsl.rocks/corp/89b20821cb6e619dced74a6e153a1d3ceafa70b1035fb7d61a6920d375e49f50/) |
 | ✅ | 2024/11/06 | 9-0 | [小号营地](https://ws.tsl.rocks/corp/e716da4b59355078ca6f014735de218d3fa5e832805efb942d1299b899f2d8b9/) |
 | ✅ | 2024/10/31 | 7-0 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
