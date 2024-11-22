@@ -77,7 +77,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Black Nova](https://ws.tsl.rocks/corp/cb105440b3ec587284776e5d0b0f311a49a096ea3ce609d564228de80cb4e1c4/) | 1191 | 1192 | 1 |
 | [Black Star llc\.](https://ws.tsl.rocks/corp/f6cd5aed527efed3a402f931784d68b5b7201b317118a60bd3d81b551ee87330/) | 1315 | 1384 | 51 |
 | [Black Sun](https://ws.tsl.rocks/corp/696ca774d5aafa8bb17ba1f82e16b8751b9775c85e733177827be58093cd7b9e/) | 1119 | 1149 | 20 |
-| [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) | 988 | 1016 | 38 |
+| [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) | 998 | 1028 | 39 |
 | [BlackOrca](https://ws.tsl.rocks/corp/b347ab5ef3e7adebf30c571089fbba3e2e586c8012477f52477de359826fdfb5/) | 1185 | 1185 | 1 |
 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) | 1402 | 1649 | 110 |
 | [Blackwater co\.](https://ws.tsl.rocks/corp/794eaa5b6c65cddf466d163571a24c2d603a005b4fad405a1237c19ed68edd7d/) | 1185 | 1185 | 2 |
@@ -186,7 +186,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Das Imperium](https://ws.tsl.rocks/corp/bf80902e944e3605f5f2fe70f245c1442fa4094414322964da8200dc57c58ef0/) | 1116 | 1118 | 9 |
 | [Dauntless](https://ws.tsl.rocks/corp/8313138d370b0b0f15dea3af851c836f9a1e1e838bf26c652c9a9831fb6b739a/) | 1082 | 1101 | 23 |
 | [Deadspace](https://ws.tsl.rocks/corp/45fc2bf2d1b40361071590e427fa47116d4e5e063064d17ed9933bbd61f04369/) | 1221 | 1308 | 58 |
-| [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) | 990 | 1148 | 93 |
+| [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) | 985 | 1148 | 94 |
 | [Death Flight 1\.](https://ws.tsl.rocks/corp/9c3a6232c7aaa991745686dbc2efb82907b20bb2a5b5963ff2ae61a768c1405e/) | 1176 | 1177 | 2 |
 | [Death knight](https://ws.tsl.rocks/corp/a41e9fa95ab5c960a50e9dd45cdfd779f3426298744d157d9eada9fbcca16d72/) | 1171 | 1185 | 2 |
 | [death squadron ](https://ws.tsl.rocks/corp/7177b5a598ff387d35b2348e1ec750a9f237fbf70d8016207ea3da1619c44e5b/) | 1166 | 1245 | 40 |
@@ -382,7 +382,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Intercepter Inc](https://ws.tsl.rocks/corp/77a77d3506a7caa4235a9cd6e9789f562649180fe9404bab2bb70d4433a2f520/) | 1184 | 1184 | 1 |
 | [Interestelar](https://ws.tsl.rocks/corp/cc9ed2698988a35d6dbb9e9762d6575b28204ab15fd7208b64e8108878a4b8f9/) | 1361 | 1377 | 16 |
 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) | 1440 | 1488 | 41 |
-| [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) | 1166 | 1360 | 83 |
+| [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) | 1171 | 1360 | 84 |
 | [Interstellar](https://ws.tsl.rocks/corp/4e7e0c5594c3dd4b977908b1b7fb27f64573bc6157bff2e898d08b502b7e3b4b/) | 1187 | 1187 | 1 |
 | [Intertwine ](https://ws.tsl.rocks/corp/bdbcd28dadb65d4f49f3e56bf50f516066bc3b72a265b4e3f59e66161c9a35ef/) | 1212 | 1216 | 3 |
 | [Irish Pride ](https://ws.tsl.rocks/corp/a3c944ea9abef71001c52b6127e716ac11dfbf2b33d21d6f9312cfa0361f1eb8/) | 1199 | 1201 | 2 |
@@ -628,7 +628,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Relic Hunters](https://ws.tsl.rocks/corp/21c31c3660b0616ae93eeb504d17baa9e375085041cb6aa0d364269809c7c646/) | 1216 | 1216 | 1 |
 | [Reservoid  Dogs](https://ws.tsl.rocks/corp/ab507a39b6b2630af05360730c87dcd32ffdf2861f05184425726938d0705621/) | 1184 | 1184 | 1 |
 | [Resurrección EB](https://ws.tsl.rocks/corp/10033870060d84e230130374a498485e4507c4e094d079c3ffd51699787562e9/) | 1185 | 1185 | 1 |
-| [Retarts](https://ws.tsl.rocks/corp/1556331f722d00268e3c524b12efedac51051cf48e46b2513675774b9315a155/) | 1201 | 1322 | 54 |
+| [Retarts](https://ws.tsl.rocks/corp/1556331f722d00268e3c524b12efedac51051cf48e46b2513675774b9315a155/) | 1188 | 1330 | 55 |
 | [Revelation](https://ws.tsl.rocks/corp/e9b22a24d853613b0ebd6fb2e70994410d4ff4323a002da5f0bece764e81374a/) | 1189 | 1188 | 7 |
 | [Revólver](https://ws.tsl.rocks/corp/2560247b1d9fc0ccccf6a9740f3e7cd5d0ebb66444a27e2a259906a476903a45/) | 1162 | 1196 | 30 |
 | [REY DE REYES](https://ws.tsl.rocks/corp/3400c8c832317ae214792a1e1ce914867af247bc0b4f021bd71a18e977cb60cb/) | 1077 | 1090 | 13 |
@@ -680,7 +680,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [SiriusStrawMoo](https://ws.tsl.rocks/corp/c83a5744ea256d2c1fa59660bc0e18e8d01a2a467bc13fec27a8b30f689e220b/) | 1313 | 1340 | 24 |
 | [Sistemaimperial](https://ws.tsl.rocks/corp/c5d74741e67bccbb74d8e7772ef2f8cf79edb6ece339b45bb2683cb9e019c94c/) | 1199 | 1199 | 2 |
 | [Sith Academy](https://ws.tsl.rocks/corp/f86fffa8331b20fe8a7b0be53155867ba544d96475839b5f679db26df9d5b1c6/) | 1173 | 1180 | 2 |
-| [Sith Empire](https://ws.tsl.rocks/corp/7deb3943434ee3aa56bb4c29a0fb0831bcbc4b570a58a2809ea1a549b7df328e/) | 1210 | 1386 | 66 |
+| [Sith Empire](https://ws.tsl.rocks/corp/7deb3943434ee3aa56bb4c29a0fb0831bcbc4b570a58a2809ea1a549b7df328e/) | 1193 | 1373 | 67 |
 | [Sith order](https://ws.tsl.rocks/corp/be201ed23ef70cb3557658ffdd92e6ff4fe2af815f0861c1d3fce7ff006cc735/) | 1201 | 1201 | 2 |
 | [sk cz nebula](https://ws.tsl.rocks/corp/6ed29f74bee91a7aad75a64196918993de6cec070ce8c65d1132ed6b0e79005d/) | 1265 | 1325 | 23 |
 | [SkitleStarOrder](https://ws.tsl.rocks/corp/9462fd612a0624ceac81b5378c972a870fc5117ca12e58f87307cbce2b2c30ae/) | 1244 | 1245 | 3 |
@@ -876,11 +876,11 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Uniones](https://ws.tsl.rocks/corp/9e4f39f6ed94be4c0af3fd6132fb2b757679ee938f7d6faa2ca50fea9f90f443/) | 1139 | 1146 | 6 |
 | [United Artists](https://ws.tsl.rocks/corp/93a82bb8d95632fd7f9abd3f024e8e9ff678aa31dec4c91872c8a4464b660686/) | 1173 | 1174 | 2 |
 | [United Gardiens](https://ws.tsl.rocks/corp/5226662f5e132d8b0663c3c04bcc7db077393a4f17214e2e0560e827fb1cd4f5/) | 1181 | 1181 | 1 |
-| [United Stars ](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) | 1290 | 1364 | 52 |
+| [United Stars ](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) | 1295 | 1371 | 53 |
 | [united unicorn](https://ws.tsl.rocks/corp/c4293f281cc7b1b07b39d9f146cf1dc843b7e22cdb34d9ab8762b07f5db3e276/) | 1219 | 1219 | 1 |
 | [UniversalCaos](https://ws.tsl.rocks/corp/e26f359b5b99ee70af7b959d528d32687bd940743bc55ae900138469c3fc6d78/) | 1203 | 1205 | 2 |
 | [universe leader](https://ws.tsl.rocks/corp/8d7722faac1d00f0aaa58497484f9b84b89bdf263ab2dc48b2ae14dedf6388f0/) | 1131 | 1148 | 11 |
-| [Unión latina](https://ws.tsl.rocks/corp/9919a50d277644f496c19d5becdf40abb251d000345f049632329f0b35b7fbf1/) | 1296 | 1373 | 62 |
+| [Unión latina](https://ws.tsl.rocks/corp/9919a50d277644f496c19d5becdf40abb251d000345f049632329f0b35b7fbf1/) | 1290 | 1373 | 63 |
 | [UNNP](https://ws.tsl.rocks/corp/c194ffe18357f9b24cb8d28b9ba0996dfafac36b31f7bfc69295f5bfd402cb41/) | 1169 | 1170 | 3 |
 | [UNSC](https://ws.tsl.rocks/corp/8744030b57ee77af0999b0e5f4ad2253e2486a5fcd922cf6c5c75d1798b89ba8/) | 1215 | 1219 | 6 |
 | [Urban Legends](https://ws.tsl.rocks/corp/03bfbe3df58b13546a651bc45ed306b09b2875f4813f6d5954a8868a23138fd9/) | 1173 | 1178 | 4 |
@@ -935,7 +935,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Wispered Storm](https://ws.tsl.rocks/corp/5d58fbfcde201245ea367778f646cf1fd772b1d0ef2fbde2892fec45c5c79dfc/) | 1171 | 1173 | 2 |
 | [Wompwompway ](https://ws.tsl.rocks/corp/f7c3d7f512c4de3883e63b1a5771ab3ef3938054f98711e933bc7dd064fb8363/) | 1357 | 1420 | 44 |
 | [Ws Polaris](https://ws.tsl.rocks/corp/aed0edd750f895de01d5a257db42bba7b2098421901f1cf0352b992242d967d9/) | 1110 | 1119 | 20 |
-| [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) | 1243 | 1420 | 75 |
+| [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) | 1247 | 1431 | 77 |
 | [WTF](https://ws.tsl.rocks/corp/35f1814a8380a593517aab76a67efb80a07276f45c465a256d083fafd61b3565/) | 1197 | 1196 | 3 |
 | [wyvern](https://ws.tsl.rocks/corp/4b6ee78ad82bb990b44db034329f02860799149e5d94defcbf61748878181c8a/) | 1195 | 1198 | 5 |
 | [X\-wing](https://ws.tsl.rocks/corp/42a205452c135464b28fd44870db40961e8d86d3a4bb0b84a2ed465c02f4d828/) | 1177 | 1177 | 1 |
@@ -1258,7 +1258,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [神圣罗马帝国](https://ws.tsl.rocks/corp/2a71af44aaef82175cd8dfd86c9e3f218a438a7c7e748bae20d8a0d964a984ab/) | 1099 | 1269 | 70 |
 | [神貓聯盟](https://ws.tsl.rocks/corp/b0060a680643209d5d36af067edd941d1c2208dec911b04a998d4c8c482427a5/) | 1171 | 1171 | 2 |
 | [第一基地·端点星](https://ws.tsl.rocks/corp/8ca1d48f76f54d7c1ccc21058960d5ebdebf2794ceebd71d701d4d3eca557489/) | 1185 | 1185 | 1 |
-| [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) | 1174 | 1433 | 83 |
+| [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) | 1191 | 1446 | 84 |
 | [第三共产星际世界](https://ws.tsl.rocks/corp/2945f8f36a07056c2d9f1a03534b942587153110fb949efe56ae633c457c77fc/) | 1178 | 1192 | 2 |
 | [第三舰队](https://ws.tsl.rocks/corp/5c221ea6be2f8e437f63c736ee45290cb3304543c57a4a1ea677e5e24e121f89/) | 1205 | 1212 | 4 |
 | [第五星际](https://ws.tsl.rocks/corp/8f0d25fe4c802f32f4d3d4ad1a84583c5ae98e4a788a1fa260ef9bd70268818b/) | 1216 | 1217 | 5 |

@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ​BlackDawn
-description: W:1 L:26 D:11 Bonus ❌
-date: 1731343546
+description: W:1 L:26 D:12 Bonus ❌
+date: 1732243538
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
@@ -12,12 +12,12 @@ date: 1731343546
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 988 🔻  (1310)|
-| ELO Competitive | 1016 🔻  (1323)|
-| Total Matches | 38 |
+| ELO Regular | 998 🔺  (1308)|
+| ELO Competitive | 1028 🔺  (1319)|
+| Total Matches | 39 |
 | Wins | 1 |
 | Losses | 26 |
-| Draws | 11 |
+| Draws | 12 |
 
 
 # Whitestar Match Day
@@ -34,7 +34,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730911546,1730411731,1729781785,1729317604,1728791063,1728322514,1727802311,1727303542,1726838319,1726374634,1725913783,1725249338,1724798029,1724181949,1723605588,1723061366,1722546889,1722007946,1721500787,1720723310,1720267098,1719658075,1719208091,1718759126,1718229165,1717696248,1717200031,1716714883,1716159173,1715660112,1715210033,1714540211,1714042337,1713414111,1712945957,1706074719,1705589382,1705113074];
+        let timestamps = [1731811538,1730911546,1730411731,1729781785,1729317604,1728791063,1728322514,1727802311,1727303542,1726838319,1726374634,1725913783,1725249338,1724798029,1724181949,1723605588,1723061366,1722546889,1722007946,1721500787,1720723310,1720267098,1719658075,1719208091,1718759126,1718229165,1717696248,1717200031,1716714883,1716159173,1715660112,1715210033,1714540211,1714042337,1713414111,1712945957,1706074719,1705589382,1705113074];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -120,6 +120,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) | 0 | 1 | 1 | 2 |
 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) | 0 | 1 | 1 | 2 |
 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) | 0 | 1 | 1 | 2 |
 | [Armored Union ](https://ws.tsl.rocks/corp/4dacc02ca314ab864578421db538b0eb10b0c8c81dc0edd91c5090717d087c7f/) | 0 | 2 | 0 | 2 |
@@ -131,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/11/22 | 0-0 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ❌ | 2024/11/11 | 0-11 | [Omega corp](https://ws.tsl.rocks/corp/17140be6e5915edf2d09ebcf246a7c2650cf39def04823c9a04bdf81ff8fc38e/) |
 | ❌ | 2024/11/05 | 0-3 | [Planet Express](https://ws.tsl.rocks/corp/6076486f3dce07118a180607ff9893eb5686dc57f65f7ed66d5e473007bd838c/) |
 | ❌ | 2024/10/29 | 0-4 | [逐光起航](https://ws.tsl.rocks/corp/e6bb076aa209101b5fa1cbc40a614c241d71ab5eca143c733b81aed6302455e8/) |
