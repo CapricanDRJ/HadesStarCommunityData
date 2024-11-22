@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ​Ironbear Legion
-description: W:16 L:34 D:0 Bonus ❌
-date: 1731096753
+description: W:16 L:35 D:0 Bonus ❌
+date: 1732311078
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
@@ -12,11 +12,11 @@ date: 1731096753
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1101 🔻  (1238)|
-| ELO Competitive | 1169 🔻  (1085)|
-| Total Matches | 50 |
+| ELO Regular | 1093 🔻  (1244)|
+| ELO Competitive | 1165 🔻  (1114)|
+| Total Matches | 51 |
 | Wins | 16 |
-| Losses | 34 |
+| Losses | 35 |
 | Draws | 0 |
 | Streak Record | 7 |
 
@@ -35,7 +35,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730664753,1730045425,1729430902,1727627418,1725826038,1725270717,1724599693,1724002881,1723403346,1722783090,1721648938,1720903643,1720289343,1719251667,1717942765,1717329875,1716725214,1716120399,1715535727,1714922202,1714312751,1713704336,1713022580,1712153001,1711399107,1710087852,1709487509,1708892553,1708875122,1708278041,1707759071,1707164493,1707057698,1706450960,1705863761,1705849934,1705257628,1705251916,1704669826,1704644878,1704056173,1703435900,1702828628,1702218822,1701612619,1701012438,1700404726,1699805667,1699287812,1698852086];
+        let timestamps = [1731879078,1730664753,1730045425,1729430902,1727627418,1725826038,1725270717,1724599693,1724002881,1723403346,1722783090,1721648938,1720903643,1720289343,1719251667,1717942765,1717329875,1716725214,1716120399,1715535727,1714922202,1714312751,1713704336,1713022580,1712153001,1711399107,1710087852,1709487509,1708892553,1708875122,1708278041,1707759071,1707164493,1707057698,1706450960,1705863761,1705849934,1705257628,1705251916,1704669826,1704644878,1704056173,1703435900,1702828628,1702218822,1701612619,1701012438,1700404726,1699805667,1699287812,1698852086];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -121,6 +121,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 0 | 2 | 0 | 2 |
 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 1 | 3 | 0 | 4 |
 | [Emergence](https://ws.tsl.rocks/corp/1a1250d276bf9541252070bbee9c6b216c91b12a837aaa8a8e8a90f490940538/) | 0 | 2 | 0 | 2 |
 | [Starsailors](https://ws.tsl.rocks/corp/1ffdd1012b5d4a4aca2e0e34e2653630706b779eead835c61c2c715e4df17a1f/) | 0 | 2 | 0 | 2 |
@@ -131,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/22 | 3-9 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) |
 | ❌ | 2024/11/08 | 4-22 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) |
 | ✅ | 2024/11/01 | 13-7 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |
 | ❌ | 2024/10/25 | 10-42 | [Emergence](https://ws.tsl.rocks/corp/1a1250d276bf9541252070bbee9c6b216c91b12a837aaa8a8e8a90f490940538/) |

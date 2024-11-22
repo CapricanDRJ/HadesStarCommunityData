@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ​STAR TERROR CZ
-description: W:1 L:4 D:0 Bonus ✅
-date: 1731702875
+description: W:2 L:4 D:0 Bonus ✅
+date: 1732305668
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
@@ -12,12 +12,14 @@ date: 1731702875
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔺  (875)|
-| ELO Competitive | 1185 🔺  (856)|
-| Total Matches | 5 |
-| Wins | 1 |
+| ELO Regular | 1189 🔺  (590)|
+| ELO Competitive | 1204 🔺  (584)|
+| Total Matches | 6 |
+| Wins | 2 |
 | Losses | 4 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 
 
 # Whitestar Match Day
@@ -34,7 +36,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731270875,1730664452,1730059252,1706223775,1699343403];
+        let timestamps = [1731873668,1731270875,1730664452,1730059252,1706223775,1699343403];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -121,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/22 | 15-8 | [Kelebra](https://ws.tsl.rocks/corp/0b1ce787fadd83433c02fb7f56a905ea64f918c1396ac37b8591891adf232eb6/) |
 | ✅ | 2024/11/15 | 38-3 | [R\-6 satalite](https://ws.tsl.rocks/corp/ce3450a529768e932b3aeb4c6f39b9295e6e07d010b209d0120c0125799adc43/) |
 | ❌ | 2024/11/08 | 14-18 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 | ❌ | 2024/11/01 | 6-31 | [Interestelar](https://ws.tsl.rocks/corp/cc9ed2698988a35d6dbb9e9762d6575b28204ab15fd7208b64e8108878a4b8f9/) |

@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ​Alpha 
-description: W:7 L:36 D:1 Bonus ❌
-date: 1731784609
+description: W:7 L:37 D:1 Bonus ❌
+date: 1732310779
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
@@ -12,11 +12,11 @@ date: 1731784609
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 972 🔻  (1315)|
-| ELO Competitive | 1026 🔻  (1322)|
-| Total Matches | 44 |
+| ELO Regular | 967 🔻  (1316)|
+| ELO Competitive | 1020 🔻  (1323)|
+| Total Matches | 45 |
 | Wins | 7 |
-| Losses | 36 |
+| Losses | 37 |
 | Draws | 1 |
 | Streak Record | 3 |
 
@@ -35,7 +35,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731352609,1730370254,1729600681,1728021388,1727419465,1726931175,1726221168,1724592778,1723935257,1721980401,1721461115,1720485281,1719681085,1719234534,1718762431,1718290462,1717342504,1715284243,1714743925,1714127967,1713581450,1713038810,1712275084,1711741344,1710999722,1710416554,1709953834,1709518545,1708978189,1708000977,1707464437,1706755086,1706167874,1705232980,1704092828,1703435599,1702837044,1702320711,1701873492,1701430188,1700827587,1700362649,1699889225,1699402306];
+        let timestamps = [1731878779,1731352609,1730370254,1729600681,1728021388,1727419465,1726931175,1726221168,1724592778,1723935257,1721980401,1721461115,1720485281,1719681085,1719234534,1718762431,1718290462,1717342504,1715284243,1714743925,1714127967,1713581450,1713038810,1712275084,1711741344,1710999722,1710416554,1709953834,1709518545,1708978189,1708000977,1707464437,1706755086,1706167874,1705232980,1704092828,1703435599,1702837044,1702320711,1701873492,1701430188,1700827587,1700362649,1699889225,1699402306];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -130,6 +130,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/22 | 0-35 | [Sons of Liberty](https://ws.tsl.rocks/corp/b58b2f163527ea346f98b53b4a7ae321010da6157a3abe3c8262eb44c3d773a5/) |
 | ❌ | 2024/11/16 | 4-31 | [nuevo mundo](https://ws.tsl.rocks/corp/5675df73364d8b031e9541d8aa8d5a9e55649ef419ad87c0b21dec77a0ed6044/) |
 | ❌ | 2024/11/05 | 3-22 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |
 | ❌ | 2024/10/27 | 3-23 | [StellaMysterium](https://ws.tsl.rocks/corp/cfaaa81ed93cc9361ade470c3414c73ecf77068badd68d624c7b3f486d142b10/) |
