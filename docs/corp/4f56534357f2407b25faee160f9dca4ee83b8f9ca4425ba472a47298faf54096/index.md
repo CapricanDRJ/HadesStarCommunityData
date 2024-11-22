@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Z. O. V. 
-description: W:31 L:8 D:1 Bonus ❌
-date: 1731846202
+description: W:32 L:8 D:1 Bonus ✅
+date: 1732293946
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
 </div>
 
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1383 🔻  (67)|
-| ELO Competitive | 1448 🔻  (87)|
-| Total Matches | 40 |
-| Wins | 31 |
+| ELO Regular | 1395 🔺  (56)|
+| ELO Competitive | 1459 🔺  (75)|
+| Total Matches | 41 |
+| Wins | 32 |
 | Losses | 8 |
 | Draws | 1 |
 | Streak Record | 24 |
@@ -35,7 +35,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731414202,1730972446,1730538834,1730104019,1729506926,1728890857,1728298470,1727697429,1727119286,1726496157,1725839155,1725213330,1724563326,1723930149,1723282233,1722666184,1722066350,1721442184,1720829708,1720187162,1719555472,1718953241,1718317514,1717678811,1717235791,1716780511,1716295259,1715836773,1715432659,1715392698,1714954051,1714327780,1713913750,1713883400,1713406301,1713345299,1712739237,1712291223,1712259978,1711797233];
+        let timestamps = [1731861946,1731414202,1730972446,1730538834,1730104019,1729506926,1728890857,1728298470,1727697429,1727119286,1726496157,1725839155,1725213330,1724563326,1723930149,1723282233,1722666184,1722066350,1721442184,1720829708,1720187162,1719555472,1718953241,1718317514,1717678811,1717235791,1716780511,1716295259,1715836773,1715432659,1715392698,1714954051,1714327780,1713913750,1713883400,1713406301,1713345299,1712739237,1712291223,1712259978,1711797233];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -129,6 +129,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/22 | 30-7 | [ItaFederalFleet](https://ws.tsl.rocks/corp/02f7ac2b406e46cbb3e1f7fa3a0fb0dc2c32f9bc8afc54c299cd54757463ddbe/) |
 | ❌ | 2024/11/17 | 7-25 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
 | ❌ | 2024/11/12 | 9-26 | [Лютые](https://ws.tsl.rocks/corp/c9ffc70c2dcbfe9eaa3387645d404d9227b173de066bf09e0493d83aa4c9f053/) |
 | ❌ | 2024/11/07 | 8-20 | [Scar](https://ws.tsl.rocks/corp/1fd57b7d50b68cb3883fd58e596f496821ebcc82dee1915bb7f34a402b03c44a/) |

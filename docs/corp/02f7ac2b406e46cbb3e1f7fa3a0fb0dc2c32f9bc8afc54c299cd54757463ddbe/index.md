@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ​ItaFederalFleet
-description: W:19 L:8 D:1 Bonus ❌
-date: 1731559503
+description: W:19 L:9 D:1 Bonus ❌
+date: 1732293946
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
@@ -12,11 +12,11 @@ date: 1731559503
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1321 🔺  (119)|
-| ELO Competitive | 1354 🔺  (179)|
-| Total Matches | 28 |
+| ELO Regular | 1309 🔻  (134)|
+| ELO Competitive | 1343 🔻  (191)|
+| Total Matches | 29 |
 | Wins | 19 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 1 |
 | Streak Record | 4 |
 
@@ -35,7 +35,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731127503,1729829953,1729007765,1728181874,1727697128,1725124379,1724361088,1721414839,1719644719,1718816520,1717917516,1716493249,1715602724,1714795956,1712520498,1711408122,1709881717,1709275362,1708419572,1707698675,1706944704,1706190112,1705548318,1704916245,1704092227,1703193074,1702760708,1702244075];
+        let timestamps = [1731861946,1731127503,1729829953,1729007765,1728181874,1727697128,1725124379,1724361088,1721414839,1719644719,1718816520,1717917516,1716493249,1715602724,1714795956,1712520498,1711408122,1709881717,1709275362,1708419572,1707698675,1706944704,1706190112,1705548318,1704916245,1704092227,1703193074,1702760708,1702244075];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -129,6 +129,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/22 | 7-30 | [Z\. O\. V\. ](https://ws.tsl.rocks/corp/4f56534357f2407b25faee160f9dca4ee83b8f9ca4425ba472a47298faf54096/) |
 | ✅ | 2024/11/14 | 26-7 | [ZION](https://ws.tsl.rocks/corp/99ac8e5c0f22878b9a4458953d0c712ada17ef36ae195ccf39c7921dc996adfe/) |
 | ❌ | 2024/10/30 | 22-33 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |
 | ✅ | 2024/10/20 | 28-7 | [Укр інтроверти](https://ws.tsl.rocks/corp/d572c676473ca035b64333d3b419fb4da007677b96f6a401710c4b9249a193d5/) |
