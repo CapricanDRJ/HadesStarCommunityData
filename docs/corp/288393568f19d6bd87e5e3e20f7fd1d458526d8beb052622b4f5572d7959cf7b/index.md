@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​Sentencia
-description: W:19 L:4 D:0 Bonus ✅
+description: W:19 L:4 D:0 Bonus ❌
 date: 1731744338
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
 </div>
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1384 🔺  (65)|
-| ELO Competitive | 1425 🔺  (106)|
+| ELO Competitive | 1425 🔺  (107)|
 | Total Matches | 23 |
 | Wins | 19 |
 | Losses | 4 |

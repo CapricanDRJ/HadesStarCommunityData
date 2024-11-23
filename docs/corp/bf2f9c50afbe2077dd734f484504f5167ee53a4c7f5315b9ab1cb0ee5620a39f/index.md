@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​Nebulae Traders
-description: W:8 L:39 D:4 Bonus ✅
+description: W:8 L:39 D:4 Bonus ❌
 date: 1731749445
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
 </div>
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
