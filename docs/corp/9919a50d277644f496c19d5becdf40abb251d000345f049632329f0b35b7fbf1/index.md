@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Unión latina
-description: W:36 L:26 D:1 Bonus ✅
+description: W:36 L:26 D:1 Bonus ❌
 date: 1732246764
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
 </div>
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1290 🔻  (160)|
+| ELO Regular | 1290 🔻  (159)|
 | ELO Competitive | 1373 🔻  (156)|
 | Total Matches | 63 |
 | Wins | 36 |
