@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ​On en a Gros ! 
-description: W:27 L:33 D:0 Bonus ✅
-date: 1731760563
+description: W:28 L:33 D:0 Bonus ✅
+date: 1732358247
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
@@ -12,12 +12,13 @@ date: 1731760563
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 🔺  (594)|
-| ELO Competitive | 1319 🔺  (227)|
-| Total Matches | 60 |
-| Wins | 27 |
+| ELO Regular | 1200 🔺  (484)|
+| ELO Competitive | 1329 🔺  (207)|
+| Total Matches | 61 |
+| Wins | 28 |
 | Losses | 33 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 4 |
 
 
@@ -35,7 +36,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731328563,1730712822,1730205287,1730190863,1729537286,1729514138,1728889956,1728300574,1727683906,1727083820,1726476022,1724410963,1722763553,1716913648,1716204825,1715612942,1715604527,1714995507,1714992502,1714390871,1713865973,1713432137,1713177630,1712570372,1712047535,1711964603,1711473619,1711360341,1710770519,1710760001,1710176490,1710152149,1709652465,1709650662,1709040090,1708603471,1708432192,1707929160,1707909024,1707382704,1707381803,1706791444,1706284474,1706266441,1705694566,1705236286,1705157850,1704636161,1704189293,1703452429,1703008245,1703003235,1702571064,1702028568,1701342133,1700827287,1700322073,1699882311,1699436555,1698929613];
+        let timestamps = [1731926247,1731328563,1730712822,1730205287,1730190863,1729537286,1729514138,1728889956,1728300574,1727683906,1727083820,1726476022,1724410963,1722763553,1716913648,1716204825,1715612942,1715604527,1714995507,1714992502,1714390871,1713865973,1713432137,1713177630,1712570372,1712047535,1711964603,1711473619,1711360341,1710770519,1710760001,1710176490,1710152149,1709652465,1709650662,1709040090,1708603471,1708432192,1707929160,1707909024,1707382704,1707381803,1706791444,1706284474,1706266441,1705694566,1705236286,1705157850,1704636161,1704189293,1703452429,1703008245,1703003235,1702571064,1702028568,1701342133,1700827287,1700322073,1699882311,1699436555,1698929613];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -121,6 +122,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) | 2 | 0 | 0 | 2 |
 | [Outland Ind\.](https://ws.tsl.rocks/corp/94cb8827caef9b4b1839113abd29145a128d0c1e108c3984bcf7620dd7fca464/) | 0 | 3 | 0 | 3 |
 | [Ark](https://ws.tsl.rocks/corp/febd79d038ed9af667e201309060d9662ba825ba9be2b5b95418ac20a8e70c80/) | 0 | 3 | 0 | 3 |
 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) | 1 | 1 | 0 | 2 |
@@ -133,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/23 | 16-11 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) |
 | ✅ | 2024/11/16 | 37-5 | [Got Nothing](https://ws.tsl.rocks/corp/ea7879fd9cbed37b260ec2bf39339786942fb34216036a90e107ba525f5924e1/) |
 | ❌ | 2024/11/09 | 21-30 | [Outland Ind\.](https://ws.tsl.rocks/corp/94cb8827caef9b4b1839113abd29145a128d0c1e108c3984bcf7620dd7fca464/) |
 | ❌ | 2024/11/03 | 4-38 | [The trade pub](https://ws.tsl.rocks/corp/43689e4266357d8b8d3d66d371109d9aed82ee6df47dc6fa0a7c5da735b9863b/) |
