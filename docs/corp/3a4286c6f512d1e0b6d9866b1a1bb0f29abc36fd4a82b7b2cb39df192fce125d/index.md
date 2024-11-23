@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​Hinterm Mond
-description: W:60 L:40 D:0 Bonus ✅
+description: W:60 L:40 D:0 Bonus ❌
 date: 1732340521
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
 </div>
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1294 🔻  (154)|
+| ELO Regular | 1294 🔻  (155)|
 | ELO Competitive | 1563 🔻  (24)|
 | Total Matches | 100 |
 | Wins | 60 |
