@@ -1,19 +1,19 @@
 ---
 layout: page
 title: ​the Rubber Duck
-description: W:6 L:10 D:0 Bonus ✅
+description: W:6 L:10 D:0 Bonus ❌
 date: 1731687844
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
 </div>
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1145 🔺  (1109)|
-| ELO Competitive | 1159 🔺  (1150)|
+| ELO Regular | 1145 🔺  (1110)|
+| ELO Competitive | 1159 🔺  (1151)|
 | Total Matches | 16 |
 | Wins | 6 |
 | Losses | 10 |

@@ -1,24 +1,24 @@
 ---
 layout: page
 title: ​The Watchers
-description: W:13 L:14 D:0 Bonus ❌
-date: 1728293505
+description: W:14 L:14 D:0 Bonus ✅
+date: 1732313482
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
 </div>
 
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1199 🔺  (505)|
-| ELO Competitive | 1272 🔺  (308)|
-| Total Matches | 27 |
-| Wins | 13 |
+| ELO Regular | 1219 🔺  (346)|
+| ELO Competitive | 1298 🔺  (260)|
+| Total Matches | 28 |
+| Wins | 14 |
 | Losses | 14 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 3 |
 
 
@@ -36,7 +36,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727861505,1725975676,1715058905,1714204586,1713319761,1712675841,1712078187,1711560454,1711061667,1710885299,1710092962,1710088453,1709621516,1709306913,1708625711,1708453531,1708024119,1707365879,1706282670,1705588480,1703978039,1702590904,1701878001,1701279623,1700493086,1699556450,1698761919];
+        let timestamps = [1731881482,1727861505,1725975676,1715058905,1714204586,1713319761,1712675841,1712078187,1711560454,1711061667,1710885299,1710092962,1710088453,1709621516,1709306913,1708625711,1708453531,1708024119,1707365879,1706282670,1705588480,1703978039,1702590904,1701878001,1701279623,1700493086,1699556450,1698761919];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -130,6 +130,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/22 | 27-10 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) |
 | ✅ | 2024/10/07 | 50-27 | [Providence](https://ws.tsl.rocks/corp/f12fc39ca2326de7c5ce96c005b1953c86430443f1f8b98e7515d082b43b4d4b/) |
 | ✅ | 2024/09/15 | 40-7 | [EZCO](https://ws.tsl.rocks/corp/cfad990cabcdc1326c0aa3f93a57d1f0e6ec3cd2949e01e6b08443c3af8282f1/) |
 | ❌ | 2024/05/12 | 7-45 | [Hand Of NOD\! ](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) |
