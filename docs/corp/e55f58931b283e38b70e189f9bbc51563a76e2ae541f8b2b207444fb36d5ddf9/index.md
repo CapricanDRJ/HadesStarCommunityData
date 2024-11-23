@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ​Cydonia Order
-description: W:9 L:13 D:1 Bonus ✅
-date: 1731826371
+description: W:10 L:13 D:1 Bonus ✅
+date: 1732395217
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
@@ -12,14 +12,14 @@ date: 1731826371
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1179 🔺  (830)|
-| ELO Competitive | 1206 🔺  (574)|
-| Total Matches | 23 |
-| Wins | 9 |
+| ELO Regular | 1194 🔺  (545)|
+| ELO Competitive | 1223 🔺  (458)|
+| Total Matches | 24 |
+| Wins | 10 |
 | Losses | 13 |
 | Draws | 1 |
-| Streak | 3 |
-| Streak Record | 3 |
+| Streak | 4 |
+| Streak Record | 4 |
 
 
 # Whitestar Match Day
@@ -36,7 +36,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731394371,1730666556,1729989527,1729274633,1728563228,1727977213,1726879489,1725753910,1725738886,1723798809,1723517539,1719105011,1717580232,1711957692,1711172235,1709704144,1709189726,1708492593,1703325601,1702073657,1701215312,1700102076,1699282702];
+        let timestamps = [1731963217,1731394371,1730666556,1729989527,1729274633,1728563228,1727977213,1726879489,1725753910,1725738886,1723798809,1723517539,1719105011,1717580232,1711957692,1711172235,1709704144,1709189726,1708492593,1703325601,1702073657,1701215312,1700102076,1699282702];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -118,11 +118,17 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) | 2 | 0 | 0 | 2 |
 
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/23 | 10-3 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 | ✅ | 2024/11/17 | 7-3 | [северный шторм](https://ws.tsl.rocks/corp/6f96aa1102eb9f74854d6fec810da14ef1d04b0c3ce3e61044affea7ecb920dc/) |
 | ✅ | 2024/11/08 | 8-0 | [₩\.BRASIL\.₩](https://ws.tsl.rocks/corp/ff7f01b2f1db7b9c75e49da4c7367325905c020eba282a97f69f33d8c19419aa/) |
 | ✅ | 2024/11/01 | 11-3 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |

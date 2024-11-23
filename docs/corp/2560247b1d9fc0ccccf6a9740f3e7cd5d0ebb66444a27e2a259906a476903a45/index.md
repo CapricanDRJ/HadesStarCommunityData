@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Revólver
-description: W:10 L:19 D:1 Bonus ❌
-date: 1731771685
+description: W:11 L:19 D:1 Bonus ✅
+date: 1732389205
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
 </div>
 
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1162 🔻  (1011)|
-| ELO Competitive | 1196 🔻  (660)|
-| Total Matches | 30 |
-| Wins | 10 |
+| ELO Regular | 1178 🔺  (841)|
+| ELO Competitive | 1211 🔺  (554)|
+| Total Matches | 31 |
+| Wins | 11 |
 | Losses | 19 |
 | Draws | 1 |
 | Streak Record | 3 |
@@ -35,7 +35,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731339685,1730733561,1730120547,1729518047,1728917607,1728339045,1727717571,1727103054,1725900257,1725293859,1709359497,1708368793,1707763581,1707158782,1706624660,1705959929,1705168371,1704730223,1704123483,1703613204,1702910072,1702310189,1701706388,1701102301,1700514430,1700503306,1699891330,1699888924,1699287812,1698699397];
+        let timestamps = [1731957205,1731339685,1730733561,1730120547,1729518047,1728917607,1728339045,1727717571,1727103054,1725900257,1725293859,1709359497,1708368793,1707763581,1707158782,1706624660,1705959929,1705168371,1704730223,1704123483,1703613204,1702910072,1702310189,1701706388,1701102301,1700514430,1700503306,1699891330,1699888924,1699287812,1698699397];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -128,6 +128,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/23 | 29-18 | [WinterComes](https://ws.tsl.rocks/corp/a8f3bbc084fca4434869893ccbfca6c52960e64ee5db87ef257d706194a2f596/) |
 | ❌ | 2024/11/16 | 20-32 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ✅ | 2024/11/09 | 19-18 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |
 | ❌ | 2024/11/02 | 10-24 | [Omega Alpha](https://ws.tsl.rocks/corp/b6e23a3f1f3a3c735c694624b273dcd7da2f8bd13a5ac2b36a8ad39737b1d062/) |

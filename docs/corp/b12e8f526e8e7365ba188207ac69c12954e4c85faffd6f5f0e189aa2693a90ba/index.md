@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ​Last Chance
-description: W:2 L:2 D:1 Bonus ❌
-date: 1715432615
+description: W:2 L:3 D:1 Bonus ❌
+date: 1732395217
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
@@ -12,11 +12,11 @@ date: 1715432615
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1202 🔻  (469)|
-| ELO Competitive | 1207 🔻  (569)|
-| Total Matches | 5 |
+| ELO Regular | 1194 🔻  (539)|
+| ELO Competitive | 1204 🔻  (582)|
+| Total Matches | 6 |
 | Wins | 2 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 1 |
 | Streak Record | 2 |
 
@@ -35,7 +35,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1715000615,1713807091,1711215208,1701111621,1700444103];
+        let timestamps = [1731963217,1715000615,1713807091,1711215208,1701111621,1700444103];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -122,6 +122,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/23 | 0-31 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) |
 | ❌ | 2024/05/11 | 21-39 | [Alpaca Haven](https://ws.tsl.rocks/corp/e93a2f2efda24a65c8ee7eb57fbb269e19b2b1c28a67c6c7c3339b8c90f7726b/) |
 | ❌ | 2024/04/27 | 0-40 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) |
 | ↔️ | 2024/03/28 | 4-4 | [The Goonies](https://ws.tsl.rocks/corp/12ebe9e9a1c71d9a15f622670c299d2b2193e3e7a9ef18b1773c8b5965cb68ab/) |

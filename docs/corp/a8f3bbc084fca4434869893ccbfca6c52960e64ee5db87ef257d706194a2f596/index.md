@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ​WinterComes
-description: W:2 L:5 D:0 Bonus ✅
-date: 1731893083
+description: W:2 L:6 D:0 Bonus ✅
+date: 1732389205
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
@@ -12,11 +12,11 @@ date: 1731893083
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔺  (819)|
-| ELO Competitive | 1202 🔺  (588)|
-| Total Matches | 7 |
+| ELO Regular | 1165 🔻  (985)|
+| ELO Competitive | 1187 🔻  (788)|
+| Total Matches | 8 |
 | Wins | 2 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 0 |
 
 
@@ -34,7 +34,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731461083,1730747387,1730235645,1730152408,1728377799,1727755131,1704165857];
+        let timestamps = [1731957205,1731461083,1730747387,1730235645,1730152408,1728377799,1727755131,1704165857];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -121,6 +121,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/23 | 18-29 | [Revólver](https://ws.tsl.rocks/corp/2560247b1d9fc0ccccf6a9740f3e7cd5d0ebb66444a27e2a259906a476903a45/) |
 | ✅ | 2024/11/18 | 17-10 | [StellaMysterium](https://ws.tsl.rocks/corp/cfaaa81ed93cc9361ade470c3414c73ecf77068badd68d624c7b3f486d142b10/) |
 | ❌ | 2024/11/09 | 13-36 | [Imperium XIII](https://ws.tsl.rocks/corp/0d52edf77b0cdeaaea6ebc20a7f5b6a60372b535bf96f556b31e2243dc8ee75a/) |
 | ❌ | 2024/11/03 | 0-35 | [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) |
