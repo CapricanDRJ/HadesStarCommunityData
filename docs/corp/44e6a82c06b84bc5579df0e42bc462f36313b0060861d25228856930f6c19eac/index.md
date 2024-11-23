@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Fairy tail 
-description: W:6 L:3 D:0 Bonus ❌
-date: 1731041755
+description: W:7 L:3 D:0 Bonus ✅
+date: 1732322796
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
 </div>
 
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1226 🔻  (326)|
-| ELO Competitive | 1235 🔻  (421)|
-| Total Matches | 9 |
-| Wins | 6 |
+| ELO Regular | 1243 🔺  (275)|
+| ELO Competitive | 1252 🔺  (363)|
+| Total Matches | 10 |
+| Wins | 7 |
 | Losses | 3 |
 | Draws | 0 |
 | Streak Record | 6 |
@@ -35,7 +35,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730609755,1729236463,1727318502,1726238898,1725622004,1724769478,1723929849,1723389219,1722895788];
+        let timestamps = [1731890796,1730609755,1729236463,1727318502,1726238898,1725622004,1724769478,1723929849,1723389219,1722895788];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -122,6 +122,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/23 | 8-0 | [Dark Halo](https://ws.tsl.rocks/corp/f6ed7c780faf133d3fe411b9ed88480608a56064328539891d1b4348242954f6/) |
 | ❌ | 2024/11/08 | 1-15 | [Zeta Division ](https://ws.tsl.rocks/corp/29335e52f4b0c4ae92db98c395d2f4969201d0ddc31bb7f112bd6d3eeb97182c/) |
 | ✅ | 2024/10/23 | 3-0 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
 | ✅ | 2024/10/01 | 3-0 | [闲散人员](https://ws.tsl.rocks/corp/4f0fa774b66e4f744a305525f92e7252205ae754df0f3982b577b32caf32cdbc/) |
