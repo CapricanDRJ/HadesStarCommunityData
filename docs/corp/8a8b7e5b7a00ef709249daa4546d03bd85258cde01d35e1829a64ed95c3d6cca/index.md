@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ​Lights Off 
-description: W:26 L:15 D:0 Bonus ❌
-date: 1730582606
+description: W:26 L:16 D:0 Bonus ❌
+date: 1732448393
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
@@ -12,11 +12,11 @@ date: 1730582606
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1243 🔻  (271)|
-| ELO Competitive | 1283 🔻  (290)|
-| Total Matches | 41 |
+| ELO Regular | 1230 🔻  (310)|
+| ELO Competitive | 1269 🔻  (315)|
+| Total Matches | 42 |
 | Wins | 26 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 0 |
 | Streak Record | 10 |
 
@@ -35,7 +35,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730150606,1728908888,1728223345,1725952839,1725263206,1724599693,1723440604,1722791507,1722201012,1721641425,1720482277,1719920883,1719253771,1718625089,1717991450,1716829799,1716204825,1715619252,1715105478,1713799878,1713172222,1712571573,1711991351,1711354032,1710759701,1710184904,1709589972,1708962259,1708292769,1706638787,1706117090,1705603509,1705168371,1704692659,1704242492,1703734614,1702558439,1702084475,1701260085,1700658980,1700204557];
+        let timestamps = [1732016393,1730150606,1728908888,1728223345,1725952839,1725263206,1724599693,1723440604,1722791507,1722201012,1721641425,1720482277,1719920883,1719253771,1718625089,1717991450,1716829799,1716204825,1715619252,1715105478,1713799878,1713172222,1712571573,1711991351,1711354032,1710759701,1710184904,1709589972,1708962259,1708292769,1706638787,1706117090,1705603509,1705168371,1704692659,1704242492,1703734614,1702558439,1702084475,1701260085,1700658980,1700204557];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -128,6 +128,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/24 | 8-15 | [Planet Express](https://ws.tsl.rocks/corp/be13b17a002cf203ab2a5a31d6c8024e7458b8eac569eb576be7f30844979c99/) |
 | ❌ | 2024/11/02 | 7-33 | [BRhue](https://ws.tsl.rocks/corp/cf382c812409b617906f693517aebeee55e827f37c20a515ff23810e49d6310d/) |
 | ❌ | 2024/10/19 | 5-45 | [Outland Ind\.](https://ws.tsl.rocks/corp/94cb8827caef9b4b1839113abd29145a128d0c1e108c3984bcf7620dd7fca464/) |
 | ❌ | 2024/10/11 | 24-39 | [Hermitage](https://ws.tsl.rocks/corp/b8b6a62ede93951a04bdabd85b532c38d42d8c8b95165f8d4b14e0fd48a021ee/) |

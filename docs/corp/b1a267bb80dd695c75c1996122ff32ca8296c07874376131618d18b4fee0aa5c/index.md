@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ​Bund von Lykon
-description: W:2 L:12 D:0 Bonus ❌
-date: 1731506313
+description: W:2 L:13 D:0 Bonus ❌
+date: 1732444787
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
@@ -12,11 +12,11 @@ date: 1731506313
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1100 🔻  (1236)|
-| ELO Competitive | 1142 🔻  (1222)|
-| Total Matches | 14 |
+| ELO Regular | 1090 🔻  (1249)|
+| ELO Competitive | 1133 🔻  (1247)|
+| Total Matches | 15 |
 | Wins | 2 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 0 |
 
 
@@ -34,7 +34,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731074313,1727159544,1723136789,1720512325,1716915753,1712776198,1711278309,1709969156,1709965251,1708494696,1708485983,1706016719,1703181651,1702499566];
+        let timestamps = [1732012787,1731074313,1727159544,1723136789,1720512325,1716915753,1712776198,1711278309,1709969156,1709965251,1708494696,1708485983,1706016719,1703181651,1702499566];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/24 | 4-32 | [Mass Effect](https://ws.tsl.rocks/corp/6f715653bec3925d9c3acd7c2388fe8e1c79332146894ed424f57bd2636de8c7/) |
 | ❌ | 2024/11/13 | 3-29 | [Red Dawn](https://ws.tsl.rocks/corp/fee852a2530bc5e3cbe5b2a5fdb224d249eeceeb3688cfd71479344181831328/) |
 | ❌ | 2024/09/29 | 5-39 | [Corp\. Estelar](https://ws.tsl.rocks/corp/aec01be59075af2b2995f74e3e14f47e2b3ce1bd3b74abc78200a1d6330b8a72/) |
 | ❌ | 2024/08/13 | 5-34 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |

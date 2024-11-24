@@ -1,24 +1,24 @@
 ---
 layout: page
 title: ​Planet Express
-description: W:9 L:4 D:1 Bonus ❌
-date: 1730041397
+description: W:10 L:4 D:1 Bonus ✅
+date: 1732448393
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
 </div>
 
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1281 🔺  (178)|
-| ELO Competitive | 1304 🔺  (251)|
-| Total Matches | 14 |
-| Wins | 9 |
+| ELO Regular | 1295 🔺  (155)|
+| ELO Competitive | 1318 🔺  (229)|
+| Total Matches | 15 |
+| Wins | 10 |
 | Losses | 4 |
 | Draws | 1 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 6 |
 
 
@@ -36,7 +36,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729609397,1728131987,1724794724,1722301977,1719767932,1717622319,1716687350,1714506261,1714072389,1713639744,1712416222,1709576749,1705273257,1701644483];
+        let timestamps = [1732016393,1729609397,1728131987,1724794724,1722301977,1719767932,1717622319,1716687350,1714506261,1714072389,1713639744,1712416222,1709576749,1705273257,1701644483];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/24 | 15-8 | [Lights Off ](https://ws.tsl.rocks/corp/8a8b7e5b7a00ef709249daa4546d03bd85258cde01d35e1829a64ed95c3d6cca/) |
 | ✅ | 2024/10/27 | 41-2 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ✅ | 2024/10/10 | 19-10 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |
 | ❌ | 2024/09/01 | 7-12 | [Hexwood](https://ws.tsl.rocks/corp/b10084235f689f555f99efd52d9d4ea86dabf662e57f64dd9d86bbdc31b9c3e1/) |
