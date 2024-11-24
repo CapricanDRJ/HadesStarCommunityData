@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​Stellaris
-description: W:3 L:12 D:1 Bonus ❌
-date: 1730712478
+description: W:4 L:12 D:1 Bonus ✅
+date: 1732467328
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
 </div>
 
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1126 🔻  (1170)|
-| ELO Competitive | 1155 🔻  (1175)|
-| Total Matches | 16 |
-| Wins | 3 |
+| ELO Regular | 1142 🔺  (1123)|
+| ELO Competitive | 1172 🔺  (1050)|
+| Total Matches | 17 |
+| Wins | 4 |
 | Losses | 12 |
 | Draws | 1 |
 | Streak Record | 2 |
@@ -35,7 +35,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730280478,1729749424,1729261106,1728812704,1727925815,1726944400,1726371131,1725345238,1723569529,1722781888,1721565092,1720537270,1718568603,1717059992,1714808328,1707318043];
+        let timestamps = [1732035328,1730280478,1729749424,1729261106,1728812704,1727925815,1726944400,1726371131,1725345238,1723569529,1722781888,1721565092,1720537270,1718568603,1717059992,1714808328,1707318043];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -122,6 +122,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/24 | 15-3 | [Eretria ](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |
 | ❌ | 2024/11/04 | 3-29 | [FURIA 2\.0](https://ws.tsl.rocks/corp/9c52bc79384398f4052be65dc0f7ee091ac2d3cf14488efd1f4e3310b1f12574/) |
 | ❌ | 2024/10/29 | 5-23 | [  边界  ](https://ws.tsl.rocks/corp/86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a/) |
 | ↔️ | 2024/10/23 | 9-9 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
