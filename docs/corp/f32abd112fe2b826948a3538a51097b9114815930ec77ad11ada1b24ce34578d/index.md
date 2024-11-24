@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ​欢迎国人
-description: W:7 L:16 D:3 Bonus ❌
-date: 1731222354
+description: W:7 L:17 D:3 Bonus ❌
+date: 1732438778
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
@@ -12,11 +12,11 @@ date: 1731222354
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1106 🔻  (1231)|
-| ELO Competitive | 1124 🔻  (1258)|
-| Total Matches | 26 |
+| ELO Regular | 1097 🔻  (1241)|
+| ELO Competitive | 1114 🔻  (1274)|
+| Total Matches | 27 |
 | Wins | 7 |
-| Losses | 16 |
+| Losses | 17 |
 | Draws | 3 |
 | Streak Record | 2 |
 
@@ -35,7 +35,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730790354,1727924013,1726378042,1725200403,1724593680,1723881808,1723384109,1722666184,1722210928,1721746308,1721279615,1720787623,1720261689,1718714042,1712659012,1712203411,1711739769,1711156695,1710689693,1708265417,1706870699,1706343673,1705888103,1705454336,1705010912,1704532177];
+        let timestamps = [1732006778,1730790354,1727924013,1726378042,1725200403,1724593680,1723881808,1723384109,1722666184,1722210928,1721746308,1721279615,1720787623,1720261689,1718714042,1712659012,1712203411,1711739769,1711156695,1710689693,1708265417,1706870699,1706343673,1705888103,1705454336,1705010912,1704532177];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -127,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/24 | 0-15 | [Equinox](https://ws.tsl.rocks/corp/d6f4702c0a85549d019474868a68ecc1a6c546d73fa31f9336ee639a906ff0fe/) |
 | ❌ | 2024/11/10 | 0-3 | [The Smeg Heads](https://ws.tsl.rocks/corp/4468352a700fed901168b249c273c37c4d32a032977d53e5261f9c596c1e5366/) |
 | ❌ | 2024/10/08 | 0-14 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) |
 | ✅ | 2024/09/20 | 1-0 | [梨山养老院](https://ws.tsl.rocks/corp/4b0da5a03088d82acb8566ed943c7737a389ee702df4473438eec3f77f2c20c1/) |
