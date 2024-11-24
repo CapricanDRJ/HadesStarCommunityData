@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ​Sektion 32
-description: W:4 L:7 D:1 Bonus ❌
-date: 1721643099
+description: W:4 L:8 D:1 Bonus ❌
+date: 1732482656
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
@@ -12,11 +12,11 @@ date: 1721643099
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (902)|
-| ELO Competitive | 1180 🔻  (963)|
-| Total Matches | 12 |
+| ELO Regular | 1158 🔻  (1031)|
+| ELO Competitive | 1168 🔻  (1089)|
+| Total Matches | 13 |
 | Wins | 4 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 1 |
 | Streak Record | 2 |
 
@@ -35,7 +35,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721211099,1716217447,1712302640,1709988989,1708924099,1708064383,1707230900,1706353290,1705729122,1705007901,1704494920,1700599481];
+        let timestamps = [1732050656,1721211099,1716217447,1712302640,1709988989,1708924099,1708064383,1707230900,1706353290,1705729122,1705007901,1704494920,1700599481];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -122,6 +122,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/24 | 0-22 | [FURIA 2\.0](https://ws.tsl.rocks/corp/9c52bc79384398f4052be65dc0f7ee091ac2d3cf14488efd1f4e3310b1f12574/) |
 | ❌ | 2024/07/22 | 0-28 | [Scar](https://ws.tsl.rocks/corp/1fd57b7d50b68cb3883fd58e596f496821ebcc82dee1915bb7f34a402b03c44a/) |
 | ❌ | 2024/05/25 | 4-17 | [共产星际](https://ws.tsl.rocks/corp/5cb42bdae108ad850e61479922e7d8cb4d5b7be7b8ac2f64fc828d3b88046737/) |
 | ❌ | 2024/04/10 | 1-6 | [Galactic Empire](https://ws.tsl.rocks/corp/e2223ab2b582a5eb5ae1734e132358eb3c24ddf61fcbeee7b8f6708f26782108/) |

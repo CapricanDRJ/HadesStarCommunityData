@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​Crazy Elite
-description: W:34 L:51 D:0 Bonus ✅
+description: W:34 L:51 D:0 Bonus ❌
 date: 1732347732
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
 </div>
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
