@@ -6,7 +6,12 @@ date: 1732152705
 ---
 ### Whitestar Bonus ✅
 
-| Statistic | Value |
+
+    <div style="position: relative; text-align: right;">
+        <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div>
+
+        | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1219 🔺  (353)|
 | ELO Competitive | 1221 🔺  (472)|
@@ -129,10 +134,6 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: b60eb81ac1cb1dfb18ded4818ad07820957f77770dace6149956fffa60a17e84
 
 [Hades' Star](https://www.hadesstar.com)
-
-<p align="right">
-<img src="./qr.png" alt="QR Code" width="100">
-</p>
 <script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
