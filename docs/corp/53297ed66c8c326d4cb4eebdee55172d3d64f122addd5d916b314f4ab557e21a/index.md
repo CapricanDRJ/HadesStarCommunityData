@@ -1,22 +1,21 @@
 ---
 layout: page
 title: ​Ninth Planet
-description: W:58 L:6 D:1 Bonus ✅
-date: 1731977819
+description: W:59 L:6 D:1 Bonus ✅
+date: 1732577909
 ---
 ### Whitestar Bonus ✅
 
-<div style="position: fixed; top: 1em; right: 1em; z-index: 1000;"><img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;"></div>
-
+<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1541 🔺  (5)|
-| ELO Competitive | 1614 🔺  (10)|
-| Total Matches | 65 |
-| Wins | 58 |
+| ELO Regular | 1545 🔺  (5)|
+| ELO Competitive | 1619 🔺  (9)|
+| Total Matches | 66 |
+| Wins | 59 |
 | Losses | 6 |
 | Draws | 1 |
-| Streak | 6 |
+| Streak | 7 |
 | Streak Record | 24 |
 
 
@@ -34,7 +33,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731545819,1731537708,1730969141,1730964634,1730339050,1730333301,1729758250,1729726893,1729113556,1729113256,1728521461,1728519658,1727860003,1727338932,1727317301,1726703711,1725486469,1724883973,1724276045,1723647657,1723065874,1722346450,1721879732,1721251374,1720644564,1720067357,1720047116,1719451802,1718835456,1718255303,1717546280,1717542675,1716944303,1716331317,1716328613,1715663116,1715587102,1715129256,1714601211,1713994872,1713436343,1713416214,1712799933,1712791522,1712235333,1712190264,1711508474,1710996863,1710379305,1709786407,1709161903,1708563853,1707990025,1707325256,1706750127,1706180194,1705635975,1704317620,1703155298,1702510660,1701964024,1701315087,1700119805,1699489746,1698781641];
+        let timestamps = [1732145909,1731545819,1731537708,1730969141,1730964634,1730339050,1730333301,1729758250,1729726893,1729113556,1729113256,1728521461,1728519658,1727860003,1727338932,1727317301,1726703711,1725486469,1724883973,1724276045,1723647657,1723065874,1722346450,1721879732,1721251374,1720644564,1720067357,1720047116,1719451802,1718835456,1718255303,1717546280,1717542675,1716944303,1716331317,1716328613,1715663116,1715587102,1715129256,1714601211,1713994872,1713436343,1713416214,1712799933,1712791522,1712235333,1712190264,1711508474,1710996863,1710379305,1709786407,1709161903,1708563853,1707990025,1707325256,1706750127,1706180194,1705635975,1704317620,1703155298,1702510660,1701964024,1701315087,1700119805,1699489746,1698781641];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -120,8 +119,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) | 5 | 0 | 0 | 5 |
 | [荣耀之星](https://ws.tsl.rocks/corp/4334fd4d4ffbc89487deaec7bb38025aba46209b810578436882be271fdbff23/) | 2 | 0 | 0 | 2 |
-| [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) | 4 | 0 | 0 | 4 |
 | [Death Star llc\.](https://ws.tsl.rocks/corp/3dd4906939827fa7537a3e95f8d75948c06b75a98f3c4aab253ea79857d2ce81/) | 2 | 0 | 0 | 2 |
 | [Unión latina](https://ws.tsl.rocks/corp/9919a50d277644f496c19d5becdf40abb251d000345f049632329f0b35b7fbf1/) | 2 | 0 | 0 | 2 |
 | [한국인](https://ws.tsl.rocks/corp/f2b2c144f02ec69dfe3bd7fb8d4d1db10d7e3954a2f45937f16daafb0266490e/) | 2 | 0 | 0 | 2 |
@@ -130,6 +129,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/25 | 29-4 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) |
 | ✅ | 2024/11/19 | 5-3 | [荣耀之星](https://ws.tsl.rocks/corp/4334fd4d4ffbc89487deaec7bb38025aba46209b810578436882be271fdbff23/) |
 | ✅ | 2024/11/18 | 20-0 | [Ещё один Миф](https://ws.tsl.rocks/corp/b091930b1e7a5540c2cfaa75d184dc82314a1248bbd6e4daae0867f3f248a19f/) |
 | ✅ | 2024/11/12 | 16-5 | [Black Star llc\.](https://ws.tsl.rocks/corp/f6cd5aed527efed3a402f931784d68b5b7201b317118a60bd3d81b551ee87330/) |

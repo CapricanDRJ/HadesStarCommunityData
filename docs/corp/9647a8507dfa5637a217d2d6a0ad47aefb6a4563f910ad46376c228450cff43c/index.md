@@ -6,8 +6,7 @@ date: 1732257279
 ---
 ### Whitestar Bonus ✅
 
-<div style="position: fixed; top: 1em; right: 1em; z-index: 1000;"><img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;"></div>
-
+<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1249 🔻  (252)|
