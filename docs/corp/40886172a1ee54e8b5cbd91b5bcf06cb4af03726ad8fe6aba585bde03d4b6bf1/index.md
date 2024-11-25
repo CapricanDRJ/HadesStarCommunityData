@@ -4,10 +4,6 @@ title: ​M4-Valhalla
 description: W:0 L:8 D:0 Bonus ❌
 date: 1727088408
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -133,7 +129,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: 40886172a1ee54e8b5cbd91b5bcf06cb4af03726ad8fe6aba585bde03d4b6bf1
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

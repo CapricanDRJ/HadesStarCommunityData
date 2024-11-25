@@ -4,10 +4,6 @@ title: ​ 星空漫游者-GR
 description: W:3 L:1 D:0 Bonus ❌
 date: 1709177006
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -130,7 +126,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: 4c0218d564bcccb3d451212b7c22ebb3c4bead385379deb4aae2d816d2521a0e
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

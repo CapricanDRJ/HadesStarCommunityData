@@ -4,10 +4,6 @@ title: ​Austria
 description: W:2 L:2 D:0 Bonus ❌
 date: 1701466685
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -130,7 +126,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: 96c96cc4b7bf2a41675990223afab3b7be9450dccd7d3cf7572a3991caa73a5f
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

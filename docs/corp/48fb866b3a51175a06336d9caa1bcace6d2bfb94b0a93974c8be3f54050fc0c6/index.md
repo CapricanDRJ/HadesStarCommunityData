@@ -4,10 +4,6 @@ title: ​Свободный флот
 description: W:47 L:47 D:1 Bonus ✅
 date: 1732432469
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
@@ -239,7 +235,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: 48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

@@ -4,10 +4,6 @@ title: ​Frontier X
 description: W:9 L:4 D:0 Bonus ❌
 date: 1708872607
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -139,7 +135,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: ebedc8d55c207f7d93561245eeca1470119a91f985f216d40f681c9c040b9c4e
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

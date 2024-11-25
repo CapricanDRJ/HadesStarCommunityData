@@ -4,10 +4,6 @@ title: ​U.S.A
 description: W:18 L:34 D:1 Bonus ❌
 date: 1732380489
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -190,7 +186,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: 6d7a18e9893736881762a4e1b687b55e7311d367267ff5a9cc8e45722b14ea06
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

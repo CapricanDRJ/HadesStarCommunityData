@@ -4,10 +4,6 @@ title: ​AlSounT
 description: W:12 L:8 D:0 Bonus ✅
 date: 1732377484
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
@@ -152,7 +148,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: b876a825b43edd1e21a7cc515addeb62a832c1126a5e591e562f6475572788d1
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

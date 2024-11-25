@@ -4,10 +4,6 @@ title: ​TheSpacingGuild
 description: W:0 L:1 D:0 Bonus ❌
 date: 1705092810
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -126,7 +122,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: 81148f4d84461a0810381baa8a5c2d755c0aeb635fa98fdc3ca775fbcc255ea7
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

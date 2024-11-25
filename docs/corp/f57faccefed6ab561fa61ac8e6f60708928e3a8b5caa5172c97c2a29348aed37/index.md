@@ -4,10 +4,6 @@ title: ​公共星际集团
 description: W:7 L:21 D:2 Bonus ❌
 date: 1723284510
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -160,7 +156,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: f57faccefed6ab561fa61ac8e6f60708928e3a8b5caa5172c97c2a29348aed37
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

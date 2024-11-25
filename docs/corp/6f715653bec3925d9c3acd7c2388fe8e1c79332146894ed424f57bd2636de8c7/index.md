@@ -4,10 +4,6 @@ title: ​Mass Effect
 description: W:26 L:25 D:1 Bonus ✅
 date: 1732444787
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
@@ -186,7 +182,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: 6f715653bec3925d9c3acd7c2388fe8e1c79332146894ed424f57bd2636de8c7
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

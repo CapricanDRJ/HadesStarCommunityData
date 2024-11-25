@@ -4,10 +4,6 @@ title: ​L’Amalgame
 description: W:0 L:1 D:1 Bonus ❌
 date: 1718673783
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -127,7 +123,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: df81071f9e7c53a02b3ea304186da07ff697dbcea3c0ee7a820e6ec44f31156c
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

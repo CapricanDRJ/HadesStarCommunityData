@@ -4,10 +4,6 @@ title: ​德意志第三帝国BATA分部
 description: W:1 L:0 D:0 Bonus ❌
 date: 1708953767
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -126,7 +122,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: 3bd6b2c1691e410f94a5040b7303128f1a56eb5a26308033de3c4e279d748208
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

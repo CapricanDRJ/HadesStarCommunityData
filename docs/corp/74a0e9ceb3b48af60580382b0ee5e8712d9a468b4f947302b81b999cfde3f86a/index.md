@@ -4,10 +4,6 @@ title: ​СлАвЯнСкИй СоЮз
 description: W:7 L:4 D:0 Bonus ❌
 date: 1707222843
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -137,7 +133,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: 74a0e9ceb3b48af60580382b0ee5e8712d9a468b4f947302b81b999cfde3f86a
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

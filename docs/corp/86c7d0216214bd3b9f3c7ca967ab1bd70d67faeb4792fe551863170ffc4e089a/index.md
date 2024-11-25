@@ -4,10 +4,6 @@ title: ​  边界
 description: W:28 L:11 D:4 Bonus ❌
 date: 1732389807
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -169,7 +165,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: 86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

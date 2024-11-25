@@ -4,10 +4,6 @@ title: ​(_(_Vossk_)_)
 description: W:11 L:19 D:0 Bonus ❌
 date: 1731451030
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -163,7 +159,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: 6db23201f00670abe532f02a8fc28e109f95d673ef31ca1df7362c0a6c45dd2f
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

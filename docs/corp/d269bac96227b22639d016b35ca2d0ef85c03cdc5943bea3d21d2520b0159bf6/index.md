@@ -4,10 +4,6 @@ title: ​Back of the bus
 description: W:1 L:0 D:0 Bonus ❌
 date: 1699895601
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -126,7 +122,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: d269bac96227b22639d016b35ca2d0ef85c03cdc5943bea3d21d2520b0159bf6
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

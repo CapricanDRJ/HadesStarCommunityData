@@ -4,10 +4,6 @@ title: ​Ul'Adri
 description: W:10 L:10 D:0 Bonus ❌
 date: 1713796231
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -146,7 +142,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: d44796a95a2cc6f93a92af4d701a9c6325eff22633f874f43945a1b1d77b5fe7
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

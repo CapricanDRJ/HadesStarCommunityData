@@ -4,10 +4,6 @@ title: ​云浪度假村↕
 description: W:2 L:6 D:1 Bonus ❌
 date: 1711163867
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -140,7 +136,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: 971e3a487a950dbde1067e4f0940bb1a0833adf91cdf11c73cef69b362b45c4a
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

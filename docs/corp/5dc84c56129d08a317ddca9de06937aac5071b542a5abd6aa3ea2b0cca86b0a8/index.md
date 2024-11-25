@@ -4,10 +4,6 @@ title: ​VALHALLA
 description: W:0 L:1 D:0 Bonus ❌
 date: 1699450257
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -126,7 +122,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: 5dc84c56129d08a317ddca9de06937aac5071b542a5abd6aa3ea2b0cca86b0a8
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

@@ -4,10 +4,6 @@ title: ​佛矿寺
 description: W:11 L:51 D:1 Bonus ❌
 date: 1732544249
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -200,7 +196,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: 64f8afd95b7004e9d5a442da55644ee3ce64a9a8e82345c458d757b527e40624
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

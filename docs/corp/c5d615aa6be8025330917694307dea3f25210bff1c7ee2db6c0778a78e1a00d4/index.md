@@ -4,10 +4,6 @@ title: ​Red Sky
 description: W:0 L:1 D:1 Bonus ❌
 date: 1723759917
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -127,7 +123,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: c5d615aa6be8025330917694307dea3f25210bff1c7ee2db6c0778a78e1a00d4
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

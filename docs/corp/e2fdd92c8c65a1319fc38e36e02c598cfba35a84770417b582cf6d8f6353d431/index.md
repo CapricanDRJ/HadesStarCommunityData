@@ -4,10 +4,6 @@ title: ​Galaxy knights
 description: W:0 L:2 D:1 Bonus ❌
 date: 1727735542
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -128,7 +124,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: e2fdd92c8c65a1319fc38e36e02c598cfba35a84770417b582cf6d8f6353d431
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

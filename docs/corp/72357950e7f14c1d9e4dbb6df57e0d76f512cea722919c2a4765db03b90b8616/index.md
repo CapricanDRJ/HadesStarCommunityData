@@ -4,10 +4,6 @@ title: ​cyber_dream
 description: W:4 L:10 D:0 Bonus ❌
 date: 1725900738
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -140,7 +136,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: 72357950e7f14c1d9e4dbb6df57e0d76f512cea722919c2a4765db03b90b8616
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

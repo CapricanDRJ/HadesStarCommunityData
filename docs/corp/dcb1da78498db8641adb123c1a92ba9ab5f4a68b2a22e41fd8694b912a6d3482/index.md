@@ -4,10 +4,6 @@ title: ​电磁脉冲集团
 description: W:2 L:1 D:0 Bonus ❌
 date: 1723979587
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -129,7 +125,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: dcb1da78498db8641adb123c1a92ba9ab5f4a68b2a22e41fd8694b912a6d3482
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

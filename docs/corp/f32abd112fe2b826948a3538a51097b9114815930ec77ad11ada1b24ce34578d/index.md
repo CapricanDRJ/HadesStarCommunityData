@@ -4,10 +4,6 @@ title: ​欢迎国人
 description: W:7 L:17 D:3 Bonus ❌
 date: 1732438778
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -158,7 +154,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: f32abd112fe2b826948a3538a51097b9114815930ec77ad11ada1b24ce34578d
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

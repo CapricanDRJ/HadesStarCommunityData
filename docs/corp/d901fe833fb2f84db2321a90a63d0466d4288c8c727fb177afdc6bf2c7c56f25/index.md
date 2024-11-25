@@ -4,10 +4,6 @@ title: ​Enigma
 description: W:5 L:12 D:0 Bonus ❌
 date: 1712508383
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -149,7 +145,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: d901fe833fb2f84db2321a90a63d0466d4288c8c727fb177afdc6bf2c7c56f25
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

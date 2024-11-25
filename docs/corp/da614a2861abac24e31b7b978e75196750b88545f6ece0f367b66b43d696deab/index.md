@@ -4,10 +4,6 @@ title: ​联合宇宙
 description: W:4 L:15 D:0 Bonus ❌
 date: 1725261363
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -151,7 +147,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: da614a2861abac24e31b7b978e75196750b88545f6ece0f367b66b43d696deab
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

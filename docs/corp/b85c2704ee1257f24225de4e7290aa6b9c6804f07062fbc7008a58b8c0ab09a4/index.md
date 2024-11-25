@@ -4,10 +4,6 @@ title: ​Eastern Front
 description: W:50 L:50 D:2 Bonus ✅
 date: 1732090796
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
@@ -246,7 +242,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

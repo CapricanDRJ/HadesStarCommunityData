@@ -4,10 +4,6 @@ title: ​Rogue Dudes
 description: W:2 L:0 D:0 Bonus ❌
 date: 1721016974
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -129,7 +125,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: e3af01b69e8035dbe5c48ad403a16f2c1ec8d4d273916750975ea86f317f7582
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

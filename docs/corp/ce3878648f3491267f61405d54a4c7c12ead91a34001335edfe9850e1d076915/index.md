@@ -4,10 +4,6 @@ title: ​DESERT DEMONS
 description: W:0 L:2 D:0 Bonus ❌
 date: 1703188801
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -127,7 +123,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: ce3878648f3491267f61405d54a4c7c12ead91a34001335edfe9850e1d076915
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

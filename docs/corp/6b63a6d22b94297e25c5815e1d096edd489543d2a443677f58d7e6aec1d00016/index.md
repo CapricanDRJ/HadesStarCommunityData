@@ -4,10 +4,6 @@ title: ​NASA Air base
 description: W:0 L:8 D:2 Bonus ❌
 date: 1707937906
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -135,7 +131,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: 6b63a6d22b94297e25c5815e1d096edd489543d2a443677f58d7e6aec1d00016
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

@@ -4,10 +4,6 @@ title: ​Wacky Wabbits
 description: W:2 L:2 D:0 Bonus ❌
 date: 1709650270
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -130,7 +126,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: c0af31b9cd252e7a0621043e7e37f4cd497b96e0806f3310c8e1fd6757296c20
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

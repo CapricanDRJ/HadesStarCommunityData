@@ -4,10 +4,6 @@ title: ​Ironbear Legion
 description: W:16 L:35 D:0 Bonus ❌
 date: 1732311078
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -187,7 +183,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: 256873683be88bf78e3d4f1fda68e669c8be11e78a85f9add19e60facc9831b0
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

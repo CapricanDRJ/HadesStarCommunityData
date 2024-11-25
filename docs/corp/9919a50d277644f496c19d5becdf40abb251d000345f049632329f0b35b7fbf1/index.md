@@ -4,10 +4,6 @@ title: ​Unión latina
 description: W:36 L:26 D:1 Bonus ❌
 date: 1732246764
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -205,7 +201,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: 9919a50d277644f496c19d5becdf40abb251d000345f049632329f0b35b7fbf1
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

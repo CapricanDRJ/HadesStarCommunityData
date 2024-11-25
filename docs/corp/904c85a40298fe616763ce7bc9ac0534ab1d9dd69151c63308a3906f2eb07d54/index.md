@@ -4,10 +4,6 @@ title: ​Thunderbears
 description: W:3 L:5 D:1 Bonus ❌
 date: 1716342684
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -134,7 +130,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: 904c85a40298fe616763ce7bc9ac0534ab1d9dd69151c63308a3906f2eb07d54
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

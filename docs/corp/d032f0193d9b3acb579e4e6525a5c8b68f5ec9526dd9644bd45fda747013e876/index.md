@@ -4,10 +4,6 @@ title: ​BSO Academy
 description: W:14 L:1 D:0 Bonus ❌
 date: 1712594618
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -147,7 +143,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: d032f0193d9b3acb579e4e6525a5c8b68f5ec9526dd9644bd45fda747013e876
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

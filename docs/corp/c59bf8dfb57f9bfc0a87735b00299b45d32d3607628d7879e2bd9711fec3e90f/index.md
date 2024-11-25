@@ -4,10 +4,6 @@ title: ​empire
 description: W:1 L:4 D:1 Bonus ❌
 date: 1732287246
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -131,7 +127,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: c59bf8dfb57f9bfc0a87735b00299b45d32d3607628d7879e2bd9711fec3e90f
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

@@ -4,10 +4,6 @@ title: ​Tuatha De Danan
 description: W:53 L:16 D:0 Bonus ❌
 date: 1731785511
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -210,7 +206,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: 7741dbd0c9e7ddbc162e374691cb3346e4bb6600840f7962ec4a4414d5d2f780
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

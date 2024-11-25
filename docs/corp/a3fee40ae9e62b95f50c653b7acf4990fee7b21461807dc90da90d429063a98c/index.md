@@ -4,10 +4,6 @@ title: ​情谊永存
 description: W:2 L:8 D:2 Bonus ❌
 date: 1732270377
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -142,7 +138,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: a3fee40ae9e62b95f50c653b7acf4990fee7b21461807dc90da90d429063a98c
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

@@ -4,10 +4,6 @@ title: ​ANDROMEDA INC.
 description: W:25 L:1 D:1 Bonus ❌
 date: 1731149329
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -161,7 +157,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: 9d122968f1050c65cf6c741d5f018d932b3fdff8fc0a48144a4376b9fa18677b
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

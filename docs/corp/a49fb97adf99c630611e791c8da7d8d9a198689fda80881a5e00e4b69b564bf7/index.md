@@ -4,10 +4,6 @@ title: ​Hinterm Mars
 description: W:36 L:38 D:0 Bonus ✅
 date: 1732305367
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
@@ -213,7 +209,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

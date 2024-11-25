@@ -4,10 +4,6 @@ title: ​第一序列
 description: W:39 L:46 D:0 Bonus ✅
 date: 1732271102
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
@@ -239,7 +235,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: 8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

@@ -4,10 +4,6 @@ title: ​Alpha to Omega
 description: W:2 L:5 D:1 Bonus ❌
 date: 1732115437
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -133,7 +129,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: 2b3694014264240c8c0d1bb6a20e9d120dff2b6680c98b4e06e34bfd489f9da6
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

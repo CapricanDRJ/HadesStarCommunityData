@@ -4,10 +4,6 @@ title: ​边缘世界
 description: W:3 L:2 D:2 Bonus ❌
 date: 1706876347
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -133,7 +129,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: 6a0c2b263b0bfabc564979bce02c28c80aae497654fc10637ceb36d5447f6365
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>

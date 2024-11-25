@@ -4,10 +4,6 @@ title: ​King's Guard
 description: W:25 L:68 D:5 Bonus ❌
 date: 1732328804
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
@@ -238,7 +234,10 @@ This chart shows the frequency of days of the week when whitestars were matched 
 Corporation ID: 39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75
 
 [Hades' Star](https://www.hadesstar.com)
-<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+
+    <div style="position: absolute; top: 1em; right: 1em;">
+      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>
