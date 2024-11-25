@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ​一根飞机
-description: W:5 L:1 D:1 Bonus ✅
-date: 1732201086
+description: W:5 L:2 D:1 Bonus ✅
+date: 1732554168
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
@@ -12,13 +12,12 @@ date: 1732201086
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1246 🔺  (262)|
-| ELO Competitive | 1253 🔺  (359)|
-| Total Matches | 7 |
+| ELO Regular | 1232 🔻  (306)|
+| ELO Competitive | 1238 🔻  (413)|
+| Total Matches | 8 |
 | Wins | 5 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 1 |
-| Streak | 3 |
 | Streak Record | 3 |
 
 
@@ -36,7 +35,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731769086,1731683437,1731327962,1731158760,1730821005,1730724843,1730385883];
+        let timestamps = [1732122168,1731769086,1731683437,1731327962,1731158760,1730821005,1730724843,1730385883];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,6 +122,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/25 | 0-10 | [QONQR ](https://ws.tsl.rocks/corp/5e23ade08a63b2c440a6a4c1a9ecfb6b1cfca34523c1a528d075bd06eaf5d019/) |
 | ✅ | 2024/11/21 | 8-3 | [Final Space](https://ws.tsl.rocks/corp/762914fc1846e6b284609274f8f9515959110b5db098a53be8048ffd45d98fdd/) |
 | ✅ | 2024/11/20 | 2-1 | [Alpha to Omega](https://ws.tsl.rocks/corp/2b3694014264240c8c0d1bb6a20e9d120dff2b6680c98b4e06e34bfd489f9da6/) |
 | ✅ | 2024/11/16 | 7-0 | [StargateCommand](https://ws.tsl.rocks/corp/b378193d0b158ce0513a666f0c19da1599421d036e3fd12c0f287d02cac78ccb/) |

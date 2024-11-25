@@ -1,18 +1,18 @@
 ---
 layout: page
 title: ​AAAA
-description: W:13 L:12 D:3 Bonus ✅
+description: W:13 L:12 D:3 Bonus ❌
 date: 1732379588
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
 </div>
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1269 🔻  (204)|
+| ELO Regular | 1269 🔻  (206)|
 | ELO Competitive | 1306 🔻  (249)|
 | Total Matches | 28 |
 | Wins | 13 |

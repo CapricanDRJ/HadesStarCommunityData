@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ​分子集团
-description: W:0 L:1 D:0 Bonus ❌
-date: 1732104016
+description: W:0 L:2 D:0 Bonus ❌
+date: 1732551764
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
@@ -12,11 +12,11 @@ date: 1732104016
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (682)|
-| ELO Competitive | 1186 🔻  (821)|
-| Total Matches | 1 |
+| ELO Regular | 1174 🔻  (870)|
+| ELO Competitive | 1176 🔻  (989)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 
@@ -34,7 +34,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731672016];
+        let timestamps = [1732119764,1731672016];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -121,6 +121,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/25 | 1-14 | [ДИᏰEPℂДℍTᏰℓ](https://ws.tsl.rocks/corp/a1dad8a2a2c5ab935169d168bc19f8a1db7f12b099358e079cb7221a340345ed/) |
 | ❌ | 2024/11/20 | 4-19 | [蓝色星系二号分盟](https://ws.tsl.rocks/corp/40ffb900f40aefc1fa4fddd4d036e0466577312c7fb8e16ae315cd8868015297/) |
 
 Corporation ID: 5b9f14a83989065d411d1e21d908ce3fc4939d48e815ffc39b1b18b6752c827b
