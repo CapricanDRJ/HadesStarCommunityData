@@ -4,11 +4,9 @@ title: ​华夏航队
 description: W:2 L:7 D:0 Bonus ❌
 date: 1704688043
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
-
 ### Whitestar Bonus ❌
+
+<div style="position: fixed; top: 1em; right: 1em; z-index: 1000;"><img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;"></div>
 
 | Statistic | Value |
 | --- | --- |
