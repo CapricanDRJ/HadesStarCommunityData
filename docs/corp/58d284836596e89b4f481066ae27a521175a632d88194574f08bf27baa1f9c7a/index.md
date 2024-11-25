@@ -4,14 +4,13 @@ title: ​Celtic Imperium
 description: W:1 L:6 D:1 Bonus ❌
 date: 1705578729
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-
-    <div style="position: relative; text-align: right;">
-        <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-    </div>
-
-        | Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1137 🔻  (1141)|
 | ELO Competitive | 1140 🔻  (1228)|

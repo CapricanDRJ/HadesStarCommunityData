@@ -4,14 +4,13 @@ title: ​-=Содружество=-
 description: W:19 L:8 D:0 Bonus ❌
 date: 1715160901
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-
-    <div style="position: relative; text-align: right;">
-        <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-    </div>
-
-        | Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1291 🔻  (159)|
 | ELO Competitive | 1310 🔻  (242)|

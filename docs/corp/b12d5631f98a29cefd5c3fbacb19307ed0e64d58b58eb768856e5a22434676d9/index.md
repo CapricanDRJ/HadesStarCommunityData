@@ -4,14 +4,13 @@ title: ​BlackDawn
 description: W:1 L:26 D:12 Bonus ❌
 date: 1732243538
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-
-    <div style="position: relative; text-align: right;">
-        <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-    </div>
-
-        | Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 998 🔺  (1311)|
 | ELO Competitive | 1028 🔺  (1322)|

@@ -4,14 +4,13 @@ title: ​Los Unidos
 description: W:7 L:8 D:1 Bonus ❌
 date: 1714444916
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-
-    <div style="position: relative; text-align: right;">
-        <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-    </div>
-
-        | Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔺  (641)|
 | ELO Competitive | 1217 🔺  (498)|

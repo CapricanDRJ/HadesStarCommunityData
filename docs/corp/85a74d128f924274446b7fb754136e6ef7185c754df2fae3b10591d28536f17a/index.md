@@ -4,14 +4,13 @@ title: ​ʙᴌᴧᴐᴋ Ṣօᴌᴧᴙɨṣ
 description: W:24 L:44 D:0 Bonus ✅
 date: 1732409638
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ✅
 
-
-    <div style="position: relative; text-align: right;">
-        <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-    </div>
-
-        | Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1126 🔺  (1171)|
 | ELO Competitive | 1311 🔺  (241)|

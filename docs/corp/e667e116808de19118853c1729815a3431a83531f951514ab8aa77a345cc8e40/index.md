@@ -4,14 +4,13 @@ title: ​Highlife
 description: W:23 L:29 D:1 Bonus ❌
 date: 1732221525
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-
-    <div style="position: relative; text-align: right;">
-        <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-    </div>
-
-        | Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1123 🔻  (1186)|
 | ELO Competitive | 1179 🔻  (976)|

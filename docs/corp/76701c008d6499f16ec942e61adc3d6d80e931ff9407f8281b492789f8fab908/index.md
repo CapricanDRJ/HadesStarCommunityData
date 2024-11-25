@@ -4,14 +4,13 @@ title: ​New Star
 description: W:2 L:6 D:0 Bonus ❌
 date: 1732327002
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-
-    <div style="position: relative; text-align: right;">
-        <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-    </div>
-
-        | Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1183 🔻  (800)|
 | ELO Competitive | 1199 🔻  (637)|

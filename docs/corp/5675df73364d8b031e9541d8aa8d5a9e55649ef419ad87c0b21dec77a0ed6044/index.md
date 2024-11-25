@@ -4,14 +4,13 @@ title: ​nuevo mundo
 description: W:10 L:9 D:0 Bonus ✅
 date: 1732466727
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ✅
 
-
-    <div style="position: relative; text-align: right;">
-        <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-    </div>
-
-        | Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1243 🔺  (272)|
 | ELO Competitive | 1268 🔺  (321)|

@@ -4,14 +4,13 @@ title: ​Zeta Division
 description: W:6 L:1 D:0 Bonus ❌
 date: 1731664695
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-
-    <div style="position: relative; text-align: right;">
-        <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-    </div>
-
-        | Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1273 🔺  (193)|
 | ELO Competitive | 1286 🔺  (284)|

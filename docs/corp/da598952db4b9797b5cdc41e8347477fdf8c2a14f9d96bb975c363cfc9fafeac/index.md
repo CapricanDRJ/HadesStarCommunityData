@@ -4,14 +4,13 @@ title: ​fishwax
 description: W:0 L:1 D:0 Bonus ❌
 date: 1709098064
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-
-    <div style="position: relative; text-align: right;">
-        <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-    </div>
-
-        | Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1183 🔻  (794)|
 | ELO Competitive | 1183 🔻  (941)|

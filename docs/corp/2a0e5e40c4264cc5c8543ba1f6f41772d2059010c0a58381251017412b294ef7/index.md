@@ -4,14 +4,13 @@ title: ​华夏三体-基沃托斯集团
 description: W:0 L:5 D:1 Bonus ❌
 date: 1732159915
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-
-    <div style="position: relative; text-align: right;">
-        <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-    </div>
-
-        | Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1146 🔻  (1105)|
 | ELO Competitive | 1160 🔻  (1146)|

@@ -4,14 +4,13 @@ title: ​水星联合组织
 description: W:3 L:3 D:0 Bonus ❌
 date: 1702443740
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-
-    <div style="position: relative; text-align: right;">
-        <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-    </div>
-
-        | Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1199 🔻  (503)|
 | ELO Competitive | 1213 🔻  (542)|

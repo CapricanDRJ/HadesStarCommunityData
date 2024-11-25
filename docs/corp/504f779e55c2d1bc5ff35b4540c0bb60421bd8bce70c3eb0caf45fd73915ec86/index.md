@@ -4,14 +4,13 @@ title: ​U.Y.E.U.
 description: W:4 L:11 D:3 Bonus ❌
 date: 1715301624
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-
-    <div style="position: relative; text-align: right;">
-        <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-    </div>
-
-        | Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1121 🔻  (1193)|
 | ELO Competitive | 1165 🔻  (1114)|

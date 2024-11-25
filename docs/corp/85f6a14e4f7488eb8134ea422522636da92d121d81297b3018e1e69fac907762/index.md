@@ -4,14 +4,13 @@ title: ​OrderofTheGeon
 description: W:31 L:35 D:4 Bonus ✅
 date: 1732543948
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ✅
 
-
-    <div style="position: relative; text-align: right;">
-        <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-    </div>
-
-        | Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1153 🔺  (1068)|
 | ELO Competitive | 1286 🔺  (287)|

@@ -4,14 +4,13 @@ title: ​OKC THUNDER
 description: W:2 L:5 D:0 Bonus ❌
 date: 1723474731
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-
-    <div style="position: relative; text-align: right;">
-        <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-    </div>
-
-        | Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔻  (625)|
 | ELO Competitive | 1196 🔻  (662)|

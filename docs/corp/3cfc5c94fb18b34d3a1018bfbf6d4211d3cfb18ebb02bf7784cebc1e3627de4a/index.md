@@ -4,14 +4,13 @@ title: ​PDC
 description: W:14 L:7 D:3 Bonus ❌
 date: 1728214134
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-
-    <div style="position: relative; text-align: right;">
-        <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-    </div>
-
-        | Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1249 🔻  (251)|
 | ELO Competitive | 1267 🔻  (324)|

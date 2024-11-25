@@ -4,14 +4,13 @@ title: ​羽共和体
 description: W:17 L:25 D:8 Bonus ❌
 date: 1728735880
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-
-    <div style="position: relative; text-align: right;">
-        <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-    </div>
-
-        | Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1157 🔻  (1039)|
 | ELO Competitive | 1235 🔻  (420)|

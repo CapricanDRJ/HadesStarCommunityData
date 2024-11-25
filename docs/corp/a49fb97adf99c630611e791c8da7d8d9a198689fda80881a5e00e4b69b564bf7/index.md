@@ -4,14 +4,13 @@ title: ​Hinterm Mars
 description: W:36 L:38 D:0 Bonus ✅
 date: 1732305367
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ✅
 
-
-    <div style="position: relative; text-align: right;">
-        <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-    </div>
-
-        | Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1273 🔻  (194)|
 | ELO Competitive | 1482 🔺  (60)|

@@ -4,14 +4,13 @@ title: ​Black Star llc.
 description: W:33 L:18 D:0 Bonus ❌
 date: 1731401141
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-
-    <div style="position: relative; text-align: right;">
-        <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-    </div>
-
-        | Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1315 🔻  (123)|
 | ELO Competitive | 1384 🔻  (138)|

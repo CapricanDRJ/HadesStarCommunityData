@@ -4,14 +4,13 @@ title: ​Sith Empire
 description: W:27 L:40 D:1 Bonus ❌
 date: 1732298153
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-
-    <div style="position: relative; text-align: right;">
-        <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-    </div>
-
-        | Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (696)|
 | ELO Competitive | 1380 🔻  (143)|

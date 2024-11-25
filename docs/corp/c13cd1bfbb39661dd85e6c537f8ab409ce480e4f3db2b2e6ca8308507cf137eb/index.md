@@ -4,14 +4,13 @@ title: ​Heavenly Star
 description: W:0 L:2 D:0 Bonus ❌
 date: 1714751366
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-
-    <div style="position: relative; text-align: right;">
-        <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-    </div>
-
-        | Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1171 🔻  (924)|
 | ELO Competitive | 1171 🔻  (1065)|

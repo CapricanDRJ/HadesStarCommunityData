@@ -4,14 +4,13 @@ title: ​QONQR
 description: W:8 L:6 D:0 Bonus ✅
 date: 1732564087
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ✅
 
-
-    <div style="position: relative; text-align: right;">
-        <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-    </div>
-
-        | Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1257 🔻  (229)|
 | ELO Competitive | 1274 🔺  (309)|

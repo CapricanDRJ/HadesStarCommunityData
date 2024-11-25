@@ -4,14 +4,13 @@ title: ​S.U.N
 description: W:2 L:1 D:0 Bonus ✅
 date: 1732538839
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ✅
 
-
-    <div style="position: relative; text-align: right;">
-        <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-    </div>
-
-        | Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1219 🔺  (357)|
 | ELO Competitive | 1223 🔺  (460)|

@@ -4,14 +4,13 @@ title: ​ギャラクシー富士山
 description: W:2 L:5 D:1 Bonus ❌
 date: 1727370688
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-
-    <div style="position: relative; text-align: right;">
-        <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-    </div>
-
-        | Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1146 🔻  (1104)|
 | ELO Competitive | 1151 🔻  (1189)|

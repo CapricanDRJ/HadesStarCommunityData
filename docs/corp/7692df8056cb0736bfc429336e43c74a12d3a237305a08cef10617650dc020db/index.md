@@ -4,14 +4,13 @@ title: ​世外桃源
 description: W:19 L:107 D:0 Bonus ❌
 date: 1732424959
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-
-    <div style="position: relative; text-align: right;">
-        <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-    </div>
-
-        | Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 941 🔻  (1320)|
 | ELO Competitive | 1164 🔻  (1124)|

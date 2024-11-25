@@ -4,14 +4,13 @@ title: ​E.T.A 二营
 description: W:0 L:9 D:2 Bonus ❌
 date: 1707695531
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-
-    <div style="position: relative; text-align: right;">
-        <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-    </div>
-
-        | Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1092 🔺  (1245)|
 | ELO Competitive | 1115 🔺  (1272)|

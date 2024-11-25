@@ -4,14 +4,13 @@ title: ​Legión
 description: W:1 L:5 D:0 Bonus ❌
 date: 1732134673
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-
-    <div style="position: relative; text-align: right;">
-        <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-    </div>
-
-        | Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1148 🔻  (1092)|
 | ELO Competitive | 1160 🔻  (1145)|

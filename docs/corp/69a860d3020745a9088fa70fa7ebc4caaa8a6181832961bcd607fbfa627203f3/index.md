@@ -4,14 +4,13 @@ title: ​对，进就进人少的（分团）
 description: W:12 L:11 D:1 Bonus ✅
 date: 1732452299
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ✅
 
-
-    <div style="position: relative; text-align: right;">
-        <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-    </div>
-
-        | Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1216 🔻  (373)|
 | ELO Competitive | 1254 🔻  (354)|

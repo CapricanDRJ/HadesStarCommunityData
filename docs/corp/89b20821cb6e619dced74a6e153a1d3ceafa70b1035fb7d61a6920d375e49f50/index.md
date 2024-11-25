@@ -4,14 +4,13 @@ title: ​Winter Star llc
 description: W:4 L:3 D:1 Bonus ✅
 date: 1732192068
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ✅
 
-
-    <div style="position: relative; text-align: right;">
-        <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-    </div>
-
-        | Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1203 🔺  (467)|
 | ELO Competitive | 1227 🔺  (449)|

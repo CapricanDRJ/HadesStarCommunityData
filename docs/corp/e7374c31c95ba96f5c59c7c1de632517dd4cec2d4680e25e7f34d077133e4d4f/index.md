@@ -4,14 +4,13 @@ title: ​九州分团
 description: W:49 L:61 D:4 Bonus ✅
 date: 1732179746
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ✅
 
-
-    <div style="position: relative; text-align: right;">
-        <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-    </div>
-
-        | Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1229 🔺  (317)|
 | ELO Competitive | 1438 🔺  (96)|

@@ -4,14 +4,13 @@ title: ​✡天启✡
 description: W:25 L:8 D:0 Bonus ❌
 date: 1723740983
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-
-    <div style="position: relative; text-align: right;">
-        <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-    </div>
-
-        | Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1399 🔺  (53)|
 | ELO Competitive | 1494 🔺  (50)|

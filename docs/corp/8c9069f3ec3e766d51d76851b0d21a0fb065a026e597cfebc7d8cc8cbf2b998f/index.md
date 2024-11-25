@@ -4,14 +4,13 @@ title: ​TheBasics
 description: W:38 L:68 D:2 Bonus ✅
 date: 1732540041
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ✅
 
-
-    <div style="position: relative; text-align: right;">
-        <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-    </div>
-
-        | Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1044 🔻  (1292)|
 | ELO Competitive | 1322 🔺  (225)|

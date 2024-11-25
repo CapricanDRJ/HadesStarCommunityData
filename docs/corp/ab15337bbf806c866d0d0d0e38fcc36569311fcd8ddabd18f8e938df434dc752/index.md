@@ -4,14 +4,13 @@ title: ​Mecha Armada
 description: W:2 L:1 D:0 Bonus ❌
 date: 1705425169
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-
-    <div style="position: relative; text-align: right;">
-        <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-    </div>
-
-        | Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1216 🔺  (376)|
 | ELO Competitive | 1216 🔺  (503)|

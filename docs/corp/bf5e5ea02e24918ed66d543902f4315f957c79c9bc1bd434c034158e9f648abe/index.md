@@ -4,14 +4,13 @@ title: ​麻雀集团
 description: W:1 L:5 D:2 Bonus ❌
 date: 1729703326
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-
-    <div style="position: relative; text-align: right;">
-        <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-    </div>
-
-        | Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1155 🔺  (1053)|
 | ELO Competitive | 1167 🔺  (1094)|

@@ -4,14 +4,13 @@ title: ​荣耀之星
 description: W:19 L:15 D:5 Bonus ❌
 date: 1731977819
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-
-    <div style="position: relative; text-align: right;">
-        <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-    </div>
-
-        | Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1273 🔻  (191)|
 | ELO Competitive | 1345 🔻  (187)|

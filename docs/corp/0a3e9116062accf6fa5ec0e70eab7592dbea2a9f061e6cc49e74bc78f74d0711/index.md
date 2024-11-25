@@ -4,14 +4,13 @@ title: ​Justice Vengers
 description: W:27 L:4 D:1 Bonus ✅
 date: 1732562884
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ✅
 
-
-    <div style="position: relative; text-align: right;">
-        <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-    </div>
-
-        | Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1419 🔺  (38)|
 | ELO Competitive | 1469 🔺  (72)|

@@ -4,14 +4,13 @@ title: ​Casual Joe
 description: W:0 L:2 D:0 Bonus ❌
 date: 1720819016
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-
-    <div style="position: relative; text-align: right;">
-        <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-    </div>
-
-        | Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1171 🔻  (915)|
 | ELO Competitive | 1173 🔻  (1029)|

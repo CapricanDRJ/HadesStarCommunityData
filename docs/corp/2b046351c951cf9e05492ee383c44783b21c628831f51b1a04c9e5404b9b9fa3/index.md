@@ -4,14 +4,13 @@ title: ​Paramedic ICU
 description: W:9 L:8 D:2 Bonus ❌
 date: 1711617455
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-
-    <div style="position: relative; text-align: right;">
-        <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-    </div>
-
-        | Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1233 🔻  (305)|
 | ELO Competitive | 1252 🔻  (359)|

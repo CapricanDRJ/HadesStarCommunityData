@@ -4,14 +4,13 @@ title: ​Дом Датэ
 description: W:32 L:26 D:0 Bonus ❌
 date: 1731940255
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
-
-    <div style="position: relative; text-align: right;">
-        <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-    </div>
-
-        | Statistic | Value |
+| Statistic | Value |
 | --- | --- |
 | ELO Regular | 1324 🔺  (117)|
 | ELO Competitive | 1423 🔺  (108)|
