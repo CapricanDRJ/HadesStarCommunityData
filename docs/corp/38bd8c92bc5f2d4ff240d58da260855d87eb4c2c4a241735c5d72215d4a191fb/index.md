@@ -150,9 +150,9 @@ Corporation ID: 38bd8c92bc5f2d4ff240d58da260855d87eb4c2c4a241735c5d72215d4a191fb
 
 [Hades' Star](https://www.hadesstar.com)
 
-    <div style="position: absolute; top: 1em; right: 1em;">
-      <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-    </div>
+<p align="right">
+<img src="./qr.png" alt="QR Code" width="100">
+</p>
 <script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
