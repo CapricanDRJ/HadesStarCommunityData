@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​  边界  
-description: W:28 L:11 D:4 Bonus ✅
+description: W:28 L:11 D:4 Bonus ❌
 date: 1732389807
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
 </div>
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

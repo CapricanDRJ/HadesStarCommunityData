@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ​Slovensko-Activ
-description: W:0 L:15 D:0 Bonus ❌
-date: 1731971511
+description: W:0 L:16 D:0 Bonus ❌
+date: 1732562884
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
@@ -12,11 +12,11 @@ date: 1731971511
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1045 🔻  (1291)|
-| ELO Competitive | 1069 🔻  (1310)|
-| Total Matches | 15 |
+| ELO Regular | 1042 🔻  (1294)|
+| ELO Competitive | 1067 🔻  (1312)|
+| Total Matches | 16 |
 | Wins | 0 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 0 |
 
 
@@ -34,7 +34,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731539511,1723068278,1719686894,1718846871,1716844830,1716071729,1714666107,1713551407,1712345009,1709909662,1709420803,1706392063,1705956021,1705948506,1702433416];
+        let timestamps = [1732130884,1731539511,1723068278,1719686894,1718846871,1716844830,1716071729,1714666107,1713551407,1712345009,1709909662,1709420803,1706392063,1705956021,1705948506,1702433416];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -121,6 +121,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/25 | 4-33 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) |
 | ❌ | 2024/11/18 | 7-15 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) |
 | ❌ | 2024/08/12 | 3-11 | [КМБ](https://ws.tsl.rocks/corp/9863510eb8d02a7be02ef6a2cf42499cbf1e7ec62df078fe82aaa791444445f4/) |
 | ❌ | 2024/07/04 | 3-22 | [The Allegiant](https://ws.tsl.rocks/corp/1c4cfbcf7902769aff100297d9174153f4c0528ed07918ba494f763a1315ffc6/) |
