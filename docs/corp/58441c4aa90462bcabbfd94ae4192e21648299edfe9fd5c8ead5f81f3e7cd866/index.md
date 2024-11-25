@@ -125,7 +125,8 @@ Corporation ID: 58441c4aa90462bcabbfd94ae4192e21648299edfe9fd5c8ead5f81f3e7cd866
 
     <div style="position: absolute; top: 1em; right: 1em;">
       <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-    </div><script src="{{ '/assets/localtime.js' | relative_url }}"></script>
+    </div>
+<script src="{{ '/assets/localtime.js' | relative_url }}"></script>
 <div>
   Last updated: <span class="last-updated-date" data-unix-time="{{ page.date }}"></span>
 </div>
