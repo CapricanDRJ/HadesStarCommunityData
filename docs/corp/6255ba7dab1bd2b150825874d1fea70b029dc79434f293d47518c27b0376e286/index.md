@@ -4,9 +4,10 @@ title: ​Space Penguins
 description: W:48 L:16 D:0 Bonus ✅
 date: 1732381992
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ✅
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1402 🔺  (50)|

@@ -4,9 +4,10 @@ title: ​V0RTEX
 description: W:10 L:9 D:1 Bonus ❌
 date: 1712597022
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1220 🔻  (344)|

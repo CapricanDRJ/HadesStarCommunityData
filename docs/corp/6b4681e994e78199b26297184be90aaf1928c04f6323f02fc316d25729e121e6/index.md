@@ -4,9 +4,10 @@ title: ​101
 description: W:46 L:68 D:5 Bonus ❌
 date: 1732107622
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1087 🔻  (1255)|

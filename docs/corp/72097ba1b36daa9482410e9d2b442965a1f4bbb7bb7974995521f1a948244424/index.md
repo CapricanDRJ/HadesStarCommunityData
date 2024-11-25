@@ -4,9 +4,10 @@ title: ​八月政府
 description: W:4 L:27 D:1 Bonus ❌
 date: 1731986831
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1051 🔻  (1286)|

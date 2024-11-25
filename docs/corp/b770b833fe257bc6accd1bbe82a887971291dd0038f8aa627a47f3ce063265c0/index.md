@@ -4,9 +4,10 @@ title: ​ЧВК "Котики"
 description: W:30 L:21 D:4 Bonus ❌
 date: 1731875055
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1281 🔻  (178)|

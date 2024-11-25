@@ -4,9 +4,10 @@ title: ​夢幻之星＊分盟＊
 description: W:2 L:10 D:2 Bonus ❌
 date: 1729423231
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1114 🔻  (1214)|

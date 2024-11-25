@@ -4,9 +4,10 @@ title: ​华夏三体舰队
 description: W:16 L:27 D:7 Bonus ❌
 date: 1731053472
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1163 🔻  (997)|

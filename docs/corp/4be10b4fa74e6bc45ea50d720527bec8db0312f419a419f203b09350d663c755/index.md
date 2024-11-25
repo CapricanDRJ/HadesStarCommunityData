@@ -4,9 +4,10 @@ title: ​DTC
 description: W:18 L:55 D:0 Bonus ❌
 date: 1732274407
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1056 🔻  (1280)|

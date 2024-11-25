@@ -4,9 +4,10 @@ title: ​Greek Warriors
 description: W:8 L:25 D:0 Bonus ❌
 date: 1730902319
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1125 🔻  (1174)|

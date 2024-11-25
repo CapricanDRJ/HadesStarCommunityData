@@ -4,9 +4,10 @@ title: ​Curcubeu
 description: W:17 L:15 D:0 Bonus ❌
 date: 1732191351
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1152 🔻  (1074)|

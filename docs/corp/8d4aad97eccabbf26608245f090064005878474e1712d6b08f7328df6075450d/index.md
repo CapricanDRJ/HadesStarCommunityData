@@ -4,9 +4,10 @@ title: ​Серебряная орда
 description: W:56 L:43 D:2 Bonus ❌
 date: 1732460414
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1248 🔻  (257)|

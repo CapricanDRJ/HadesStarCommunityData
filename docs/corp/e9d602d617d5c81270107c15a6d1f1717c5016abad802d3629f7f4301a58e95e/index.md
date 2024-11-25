@@ -4,9 +4,10 @@ title: ​元素联邦
 description: W:29 L:13 D:0 Bonus ❌
 date: 1728312440
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1416 🔺  (40)|

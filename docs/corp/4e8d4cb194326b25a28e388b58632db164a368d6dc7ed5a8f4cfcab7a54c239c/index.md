@@ -4,9 +4,10 @@ title: ​Тихий Омут
 description: W:32 L:64 D:3 Bonus ❌
 date: 1732196276
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1073 🔻  (1273)|

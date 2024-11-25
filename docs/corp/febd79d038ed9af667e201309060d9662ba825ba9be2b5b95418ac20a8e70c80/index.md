@@ -4,9 +4,10 @@ title: ​Ark
 description: W:56 L:15 D:1 Bonus ✅
 date: 1732445087
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ✅
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1409 🔺  (45)|

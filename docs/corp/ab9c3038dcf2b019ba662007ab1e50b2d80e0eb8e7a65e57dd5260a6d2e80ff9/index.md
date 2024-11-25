@@ -4,9 +4,10 @@ title: ​Halcon español
 description: W:27 L:15 D:1 Bonus ✅
 date: 1732354942
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ✅
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1261 🔺  (219)|

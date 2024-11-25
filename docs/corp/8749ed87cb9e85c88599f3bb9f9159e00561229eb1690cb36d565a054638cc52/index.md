@@ -4,9 +4,10 @@ title: ​Seila
 description: W:4 L:6 D:1 Bonus ❌
 date: 1721976355
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1172 🔻  (897)|

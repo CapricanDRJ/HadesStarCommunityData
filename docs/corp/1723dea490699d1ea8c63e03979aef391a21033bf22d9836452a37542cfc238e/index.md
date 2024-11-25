@@ -4,9 +4,10 @@ title: ​Soul System
 description: W:0 L:9 D:0 Bonus ❌
 date: 1720075517
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1110 🔻  (1223)|

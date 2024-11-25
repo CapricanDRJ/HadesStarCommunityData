@@ -4,9 +4,10 @@ title: ​Nebulae Traders
 description: W:8 L:39 D:4 Bonus ❌
 date: 1731749445
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 990 🔻  (1312)|

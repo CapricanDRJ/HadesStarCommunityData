@@ -4,9 +4,10 @@ title: ​对，进就进人少的
 description: W:45 L:48 D:3 Bonus ❌
 date: 1732510596
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1151 🔻  (1084)|

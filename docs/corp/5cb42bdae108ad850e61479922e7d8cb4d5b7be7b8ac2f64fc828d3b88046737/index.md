@@ -4,9 +4,10 @@ title: ​共产星际
 description: W:31 L:6 D:0 Bonus ❌
 date: 1723051911
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1405 🔻  (47)|

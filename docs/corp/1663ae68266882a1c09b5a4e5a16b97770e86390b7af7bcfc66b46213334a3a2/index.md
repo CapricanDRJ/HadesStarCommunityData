@@ -4,9 +4,10 @@ title: ​Hexacropians
 description: W:51 L:12 D:1 Bonus ✅
 date: 1732492872
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ✅
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1425 🔺  (36)|

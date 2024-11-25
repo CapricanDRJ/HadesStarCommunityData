@@ -4,9 +4,10 @@ title: ​tropa (BR)
 description: W:7 L:13 D:3 Bonus ❌
 date: 1732190565
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1133 🔺  (1154)|

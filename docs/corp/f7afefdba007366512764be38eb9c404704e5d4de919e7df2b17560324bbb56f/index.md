@@ -4,9 +4,10 @@ title: ​The Seperatists
 description: W:15 L:21 D:0 Bonus ❌
 date: 1725597843
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1168 🔻  (961)|

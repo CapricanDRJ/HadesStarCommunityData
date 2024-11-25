@@ -4,9 +4,10 @@ title: ​地球星际集团
 description: W:0 L:30 D:11 Bonus ❌
 date: 1727101030
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 968 🔻  (1318)|

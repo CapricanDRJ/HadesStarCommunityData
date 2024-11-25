@@ -4,9 +4,10 @@ title: ​The Fracture
 description: W:0 L:4 D:0 Bonus ❌
 date: 1710899937
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1148 🔻  (1093)|

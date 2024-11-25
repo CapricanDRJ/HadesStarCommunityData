@@ -4,9 +4,10 @@ title: ​Nox Imperium
 description: W:17 L:2 D:0 Bonus ✅
 date: 1732314684
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ✅
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1355 🔺  (83)|

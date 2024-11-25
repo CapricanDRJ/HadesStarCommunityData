@@ -4,9 +4,10 @@ title: ​Stargate Corp
 description: W:54 L:28 D:0 Bonus ✅
 date: 1732294848
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ✅
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1383 🔺  (67)|

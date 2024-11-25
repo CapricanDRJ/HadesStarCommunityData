@@ -4,9 +4,10 @@ title: ​The Red Dwarves
 description: W:3 L:4 D:1 Bonus ❌
 date: 1715213588
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1190 🔻  (582)|

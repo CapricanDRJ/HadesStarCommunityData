@@ -4,9 +4,10 @@ title: ​No Orbit©
 description: W:15 L:8 D:0 Bonus ❌
 date: 1730472014
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1267 🔻  (209)|

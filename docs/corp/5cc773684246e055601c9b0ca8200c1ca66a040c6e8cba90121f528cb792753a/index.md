@@ -4,9 +4,10 @@ title: ​中国星系舰队
 description: W:2 L:4 D:1 Bonus ❌
 date: 1704183140
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1174 🔻  (867)|

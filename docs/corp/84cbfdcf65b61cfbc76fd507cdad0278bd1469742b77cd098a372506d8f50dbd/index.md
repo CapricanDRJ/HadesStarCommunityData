@@ -4,9 +4,10 @@ title: ​Uchiha
 description: W:3 L:12 D:1 Bonus ❌
 date: 1716917436
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1103 🔻  (1232)|

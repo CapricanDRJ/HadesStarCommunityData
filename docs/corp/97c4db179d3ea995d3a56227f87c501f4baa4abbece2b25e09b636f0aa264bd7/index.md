@@ -4,9 +4,10 @@ title: ​BoomTech
 description: W:23 L:9 D:2 Bonus ❌
 date: 1726314222
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1307 🔻  (133)|

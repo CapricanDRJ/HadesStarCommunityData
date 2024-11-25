@@ -4,9 +4,10 @@ title: ​Continuum
 description: W:82 L:37 D:2 Bonus ✅
 date: 1732507591
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ✅
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1447 🔻  (25)|

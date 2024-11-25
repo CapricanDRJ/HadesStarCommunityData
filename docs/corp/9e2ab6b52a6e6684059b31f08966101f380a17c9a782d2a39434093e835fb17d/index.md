@@ -4,9 +4,10 @@ title: ​Imperium
 description: W:6 L:0 D:0 Bonus ✅
 date: 1732354922
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ✅
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1282 🔺  (176)|

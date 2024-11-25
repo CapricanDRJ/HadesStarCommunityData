@@ -4,9 +4,10 @@ title: ​wyvern
 description: W:2 L:3 D:0 Bonus ❌
 date: 1717154509
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1195 🔺  (538)|

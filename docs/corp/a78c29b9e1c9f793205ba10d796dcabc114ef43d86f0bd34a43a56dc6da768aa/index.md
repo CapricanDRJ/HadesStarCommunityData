@@ -4,9 +4,10 @@ title: ​Warriorlords
 description: W:30 L:16 D:0 Bonus ✅
 date: 1732320093
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ✅
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1341 🔺  (100)|

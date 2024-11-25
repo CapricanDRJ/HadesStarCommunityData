@@ -4,9 +4,10 @@ title: ​White Dwarf
 description: W:44 L:14 D:0 Bonus ❌
 date: 1732048434
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1429 🔻  (32)|

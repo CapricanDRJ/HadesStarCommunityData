@@ -4,9 +4,10 @@ title: ​＊СССР＊
 description: W:31 L:23 D:1 Bonus ✅
 date: 1732305367
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ✅
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1334 🔺  (106)|

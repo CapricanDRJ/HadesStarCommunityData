@@ -4,9 +4,10 @@ title: ​두빛나래
 description: W:11 L:19 D:0 Bonus ❌
 date: 1723938121
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1127 🔻  (1168)|

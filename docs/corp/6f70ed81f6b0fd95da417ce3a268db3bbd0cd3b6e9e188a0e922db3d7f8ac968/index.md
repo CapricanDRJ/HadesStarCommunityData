@@ -4,9 +4,10 @@ title: ​喵喵喵喵喵喵喵
 description: W:0 L:7 D:2 Bonus ❌
 date: 1713636340
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1095 🔻  (1240)|

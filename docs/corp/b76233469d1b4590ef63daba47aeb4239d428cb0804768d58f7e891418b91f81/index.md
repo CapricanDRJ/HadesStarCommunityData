@@ -4,9 +4,10 @@ title: ​Cerulean Nebula
 description: W:14 L:10 D:0 Bonus ❌
 date: 1716738979
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1247 🔺  (258)|

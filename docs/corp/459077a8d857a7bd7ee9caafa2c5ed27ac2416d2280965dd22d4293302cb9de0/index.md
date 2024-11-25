@@ -4,9 +4,10 @@ title: ​一根飞机
 description: W:5 L:2 D:1 Bonus ✅
 date: 1732554168
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ✅
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1232 🔻  (306)|

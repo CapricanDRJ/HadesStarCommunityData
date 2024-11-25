@@ -4,9 +4,10 @@ title: ​Harpias
 description: W:0 L:1 D:2 Bonus ❌
 date: 1725243104
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔻  (772)|

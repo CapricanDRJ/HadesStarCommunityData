@@ -4,9 +4,10 @@ title: ​EZCO
 description: W:14 L:24 D:1 Bonus ❌
 date: 1730551044
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1112 🔻  (1218)|

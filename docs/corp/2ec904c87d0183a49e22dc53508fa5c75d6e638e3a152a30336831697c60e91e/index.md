@@ -4,9 +4,10 @@ title: ​Axioma
 description: W:11 L:27 D:2 Bonus ❌
 date: 1726728458
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1029 🔺  (1301)|

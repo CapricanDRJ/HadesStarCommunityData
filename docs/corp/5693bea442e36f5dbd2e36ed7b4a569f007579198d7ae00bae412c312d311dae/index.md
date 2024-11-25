@@ -4,9 +4,10 @@ title: ​WhiteSTarfighte
 description: W:6 L:7 D:0 Bonus ❌
 date: 1732321294
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1198 🔻  (517)|

@@ -4,9 +4,10 @@ title: ​우주미아
 description: W:0 L:6 D:0 Bonus ❌
 date: 1726474082
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1130 🔻  (1164)|

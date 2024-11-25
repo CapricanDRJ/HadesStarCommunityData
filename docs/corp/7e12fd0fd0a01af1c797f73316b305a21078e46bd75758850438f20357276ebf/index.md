@@ -4,9 +4,10 @@ title: ​碧霄殿
 description: W:9 L:6 D:0 Bonus ❌
 date: 1728141152
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1255 🔺  (239)|

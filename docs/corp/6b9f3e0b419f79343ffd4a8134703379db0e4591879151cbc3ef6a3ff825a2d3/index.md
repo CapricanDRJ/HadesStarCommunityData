@@ -4,9 +4,10 @@ title: ​Winged Pheonix
 description: W:12 L:17 D:0 Bonus ✅
 date: 1732347431
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ✅
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1163 🔺  (1001)|

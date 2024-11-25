@@ -4,9 +4,10 @@ title: ​＊Alfa y Omega＊
 description: W:23 L:8 D:1 Bonus ✅
 date: 1732232643
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ✅
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1355 🔺  (85)|

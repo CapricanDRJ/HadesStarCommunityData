@@ -4,9 +4,10 @@ title: ​Rogue One
 description: W:39 L:30 D:1 Bonus ✅
 date: 1732347431
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ✅
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1272 🔺  (195)|

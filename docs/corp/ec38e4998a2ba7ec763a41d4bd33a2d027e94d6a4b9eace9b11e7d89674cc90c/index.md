@@ -4,9 +4,10 @@ title: ​StarControl
 description: W:29 L:11 D:0 Bonus ❌
 date: 1732366963
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1391 🔻  (58)|

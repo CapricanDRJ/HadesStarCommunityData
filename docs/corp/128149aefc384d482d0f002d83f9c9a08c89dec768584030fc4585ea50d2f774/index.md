@@ -4,9 +4,10 @@ title: ​リリース
 description: W:52 L:22 D:0 Bonus ✅
 date: 1732493472
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ✅
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1328 🔻  (113)|

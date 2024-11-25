@@ -4,9 +4,10 @@ title: ​Corp. Luminá
 description: W:4 L:0 D:0 Bonus ✅
 date: 1732114235
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ✅
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1261 🔺  (218)|

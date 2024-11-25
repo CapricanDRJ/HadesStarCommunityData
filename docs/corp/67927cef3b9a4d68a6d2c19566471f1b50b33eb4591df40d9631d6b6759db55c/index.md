@@ -4,9 +4,10 @@ title: ​星际集团
 description: W:25 L:16 D:4 Bonus ✅
 date: 1732494674
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ✅
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1259 🔺  (225)|

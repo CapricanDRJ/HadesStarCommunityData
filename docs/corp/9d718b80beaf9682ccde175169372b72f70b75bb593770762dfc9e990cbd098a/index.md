@@ -4,9 +4,10 @@ title: ​蓝星集团
 description: W:10 L:3 D:0 Bonus ✅
 date: 1732539440
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ✅
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1290 🔺  (163)|

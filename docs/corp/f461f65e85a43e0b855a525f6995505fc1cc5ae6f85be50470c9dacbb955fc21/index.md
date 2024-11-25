@@ -4,9 +4,10 @@ title: ​Cowboys
 description: W:6 L:9 D:3 Bonus ❌
 date: 1714959908
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1163 🔻  (1003)|

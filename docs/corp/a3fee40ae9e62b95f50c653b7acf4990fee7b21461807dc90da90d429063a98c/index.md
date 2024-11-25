@@ -4,9 +4,10 @@ title: ​情谊永存
 description: W:2 L:8 D:2 Bonus ❌
 date: 1732270377
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1117 🔺  (1201)|

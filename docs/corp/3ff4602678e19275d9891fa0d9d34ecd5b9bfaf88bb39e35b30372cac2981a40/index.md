@@ -4,9 +4,10 @@ title: ​pirates spatial
 description: W:53 L:40 D:0 Bonus ✅
 date: 1732348933
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ✅
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1278 🔻  (182)|

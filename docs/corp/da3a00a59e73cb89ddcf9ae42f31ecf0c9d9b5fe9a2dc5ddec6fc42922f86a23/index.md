@@ -4,9 +4,10 @@ title: ​Midland Ind.
 description: W:10 L:11 D:0 Bonus ❌
 date: 1722779350
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1191 🔻  (565)|

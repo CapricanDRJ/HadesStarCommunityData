@@ -4,9 +4,10 @@ title: ​第一基地·端点星
 description: W:0 L:1 D:0 Bonus ❌
 date: 1702827360
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (712)|

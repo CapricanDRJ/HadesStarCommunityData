@@ -4,9 +4,10 @@ title: ​JPR. Pretorians
 description: W:6 L:9 D:0 Bonus ❌
 date: 1710787868
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1155 🔻  (1050)|

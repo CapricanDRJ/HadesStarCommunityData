@@ -4,9 +4,10 @@ title: ​Dumpster Fire
 description: W:20 L:43 D:0 Bonus ✅
 date: 1732466727
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ✅
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1083 🔻  (1260)|

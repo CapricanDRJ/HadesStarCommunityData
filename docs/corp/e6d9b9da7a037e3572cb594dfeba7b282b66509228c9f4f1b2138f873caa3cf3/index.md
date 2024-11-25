@@ -4,9 +4,10 @@ title: ​萌新港(大佬港)
 description: W:21 L:33 D:0 Bonus ❌
 date: 1732184554
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1163 🔻  (1004)|

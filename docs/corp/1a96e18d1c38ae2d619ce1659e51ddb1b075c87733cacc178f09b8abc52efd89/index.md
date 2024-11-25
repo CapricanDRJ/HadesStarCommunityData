@@ -4,9 +4,10 @@ title: ​Vermilion
 description: W:1 L:5 D:1 Bonus ❌
 date: 1709878939
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1152 🔻  (1076)|

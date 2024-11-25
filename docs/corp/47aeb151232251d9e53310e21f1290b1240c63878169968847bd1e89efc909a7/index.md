@@ -4,9 +4,10 @@ title: ​Poggy Rockers
 description: W:32 L:18 D:3 Bonus ✅
 date: 1732510596
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ✅
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1251 🔺  (247)|

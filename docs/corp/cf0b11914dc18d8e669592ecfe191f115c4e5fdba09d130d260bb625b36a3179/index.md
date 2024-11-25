@@ -4,9 +4,10 @@ title: ​四季长春
 description: W:17 L:24 D:6 Bonus ❌
 date: 1724883240
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1179 🔺  (834)|

@@ -4,9 +4,10 @@ title: ​001-23
 description: W:0 L:11 D:0 Bonus ❌
 date: 1717509740
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1066 🔻  (1276)|

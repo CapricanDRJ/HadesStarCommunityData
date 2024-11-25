@@ -4,9 +4,10 @@ title: ​Alpha Galaxy
 description: W:0 L:0 D:1 Bonus ❌
 date: 1713714237
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1199 🔻  (506)|

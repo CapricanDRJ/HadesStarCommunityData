@@ -4,9 +4,10 @@ title: ​혁명군
 description: W:13 L:32 D:0 Bonus ❌
 date: 1715096003
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1115 🔻  (1213)|

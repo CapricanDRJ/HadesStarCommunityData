@@ -4,9 +4,10 @@ title: ​ГОРИЗОНТ
 description: W:23 L:67 D:0 Bonus ✅
 date: 1732336916
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ✅
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1144 🔻  (1113)|

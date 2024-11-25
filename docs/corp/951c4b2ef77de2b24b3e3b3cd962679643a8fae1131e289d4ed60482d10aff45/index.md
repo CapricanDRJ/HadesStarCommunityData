@@ -4,9 +4,10 @@ title: ​Simply Uranus
 description: W:0 L:2 D:0 Bonus ❌
 date: 1720730961
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1174 🔻  (874)|

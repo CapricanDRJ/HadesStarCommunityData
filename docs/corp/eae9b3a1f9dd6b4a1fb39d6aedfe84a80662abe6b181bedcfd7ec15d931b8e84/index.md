@@ -4,9 +4,10 @@ title: ​Shrimp City
 description: W:21 L:16 D:1 Bonus ❌
 date: 1728565791
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1221 🔻  (340)|

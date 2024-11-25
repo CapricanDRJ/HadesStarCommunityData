@@ -4,9 +4,10 @@ title: ​Kötbrüder
 description: W:3 L:2 D:0 Bonus ❌
 date: 1726315424
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1200 🔻  (487)|

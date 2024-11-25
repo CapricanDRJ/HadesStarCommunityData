@@ -4,9 +4,10 @@ title: ​8 русский рейх
 description: W:1 L:0 D:0 Bonus ❌
 date: 1710967539
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1222 🔺  (339)|

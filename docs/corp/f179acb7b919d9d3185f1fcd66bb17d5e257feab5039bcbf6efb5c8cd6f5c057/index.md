@@ -4,9 +4,10 @@ title: ​Star Blazers
 description: W:12 L:33 D:1 Bonus ❌
 date: 1731552593
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1053 🔻  (1282)|

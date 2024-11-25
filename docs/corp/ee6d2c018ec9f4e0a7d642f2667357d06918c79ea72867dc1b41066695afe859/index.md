@@ -4,9 +4,10 @@ title: ​Макароны V1.0
 description: W:0 L:1 D:0 Bonus ❌
 date: 1705425169
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (707)|

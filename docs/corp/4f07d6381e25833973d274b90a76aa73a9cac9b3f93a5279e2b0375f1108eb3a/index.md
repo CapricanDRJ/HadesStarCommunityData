@@ -4,9 +4,10 @@ title: ​三体舰队
 description: W:8 L:11 D:0 Bonus ❌
 date: 1720619162
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1164 🔻  (993)|

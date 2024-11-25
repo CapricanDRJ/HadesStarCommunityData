@@ -4,9 +4,10 @@ title: ​Созидание 2.0
 description: W:11 L:16 D:0 Bonus ❌
 date: 1729018377
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1178 🔺  (839)|

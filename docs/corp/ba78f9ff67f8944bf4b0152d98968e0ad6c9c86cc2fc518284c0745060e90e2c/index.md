@@ -4,9 +4,10 @@ title: ​Highland Ind.
 description: W:10 L:10 D:1 Bonus ❌
 date: 1714044555
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1182 🔻  (806)|

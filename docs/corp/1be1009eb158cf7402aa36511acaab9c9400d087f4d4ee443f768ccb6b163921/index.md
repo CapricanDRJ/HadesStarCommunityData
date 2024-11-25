@@ -4,9 +4,10 @@ title: ​红日初升，其道大光
 description: W:24 L:8 D:0 Bonus ❌
 date: 1730313040
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1328 🔺  (112)|

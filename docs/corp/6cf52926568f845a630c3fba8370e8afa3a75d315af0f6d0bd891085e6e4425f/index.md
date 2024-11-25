@@ -4,9 +4,10 @@ title: ​Antioch
 description: W:10 L:24 D:0 Bonus ❌
 date: 1732558676
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1083 🔻  (1261)|

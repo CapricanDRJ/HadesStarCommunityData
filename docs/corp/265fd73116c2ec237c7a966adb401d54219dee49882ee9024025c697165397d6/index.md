@@ -4,9 +4,10 @@ title: ​Utd. Human Fed.
 description: W:34 L:27 D:1 Bonus ❌
 date: 1732377484
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1241 🔻  (279)|

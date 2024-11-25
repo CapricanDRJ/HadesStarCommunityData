@@ -4,9 +4,10 @@ title: ​Battle Academy
 description: W:5 L:1 D:0 Bonus ❌
 date: 1731859426
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1253 🔺  (241)|

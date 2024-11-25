@@ -4,9 +4,10 @@ title: ​Embers Rising
 description: W:28 L:10 D:0 Bonus ❌
 date: 1729897467
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1334 🔻  (104)|

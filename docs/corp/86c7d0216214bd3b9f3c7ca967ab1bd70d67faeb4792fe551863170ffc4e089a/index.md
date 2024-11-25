@@ -4,9 +4,10 @@ title: ​  边界
 description: W:28 L:11 D:4 Bonus ❌
 date: 1732389807
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1307 🔻  (135)|

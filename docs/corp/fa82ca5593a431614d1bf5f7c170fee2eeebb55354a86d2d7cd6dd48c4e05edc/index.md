@@ -4,9 +4,10 @@ title: ​Battlestar Fr
 description: W:4 L:4 D:0 Bonus ❌
 date: 1716997651
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1196 🔻  (528)|

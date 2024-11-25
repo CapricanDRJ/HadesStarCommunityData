@@ -4,9 +4,10 @@ title: ​GDZ
 description: W:42 L:37 D:0 Bonus ❌
 date: 1732219121
 ---
+<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+
 ### Whitestar Bonus ❌
 
-<img align="right" src="./qr.png">
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1253 🔻  (242)|
