@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ​hades star萌新指引站
-description: W:9 L:7 D:1 Bonus ❌
-date: 1731847404
+description: W:9 L:8 D:1 Bonus ❌
+date: 1732489764
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
@@ -12,11 +12,11 @@ date: 1731847404
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1207 🔻  (446)|
-| ELO Competitive | 1239 🔻  (414)|
-| Total Matches | 17 |
+| ELO Regular | 1194 🔻  (545)|
+| ELO Competitive | 1227 🔻  (447)|
+| Total Matches | 18 |
 | Wins | 9 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 1 |
 | Streak Record | 5 |
 
@@ -35,7 +35,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731415404,1731232695,1730811688,1730208894,1729731699,1729205216,1728772928,1727960677,1727445008,1727010203,1726486839,1726044786,1725544157,1725078905,1724639060,1724206625,1723733000];
+        let timestamps = [1732057764,1731415404,1731232695,1730811688,1730208894,1729731699,1729205216,1728772928,1727960677,1727445008,1727010203,1726486839,1726044786,1725544157,1725078905,1724639060,1724206625,1723733000];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -127,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/24 | 9-12 | [闲散人员](https://ws.tsl.rocks/corp/4f0fa774b66e4f744a305525f92e7252205ae754df0f3982b577b32caf32cdbc/) |
 | ❌ | 2024/11/17 | 3-22 | [Imperium](https://ws.tsl.rocks/corp/9e2ab6b52a6e6684059b31f08966101f380a17c9a782d2a39434093e835fb17d/) |
 | ❌ | 2024/11/15 | 0-13 | [Zeta Division ](https://ws.tsl.rocks/corp/29335e52f4b0c4ae92db98c395d2f4969201d0ddc31bb7f112bd6d3eeb97182c/) |
 | ❌ | 2024/11/10 | 0-13 | [ДИᏰEPℂДℍTᏰℓ](https://ws.tsl.rocks/corp/a1dad8a2a2c5ab935169d168bc19f8a1db7f12b099358e079cb7221a340345ed/) |

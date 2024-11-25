@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​闲散人员
-description: W:12 L:7 D:2 Bonus ❌
-date: 1731861530
+description: W:13 L:7 D:2 Bonus ✅
+date: 1732489764
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
 </div>
 
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1246 🔻  (262)|
-| ELO Competitive | 1315 🔻  (232)|
-| Total Matches | 21 |
-| Wins | 12 |
+| ELO Regular | 1260 🔺  (223)|
+| ELO Competitive | 1327 🔺  (210)|
+| Total Matches | 22 |
+| Wins | 13 |
 | Losses | 7 |
 | Draws | 2 |
 | Streak Record | 6 |
@@ -35,7 +35,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731429530,1730890713,1730290024,1729781576,1729334734,1728873730,1728293662,1727785779,1727784876,1727324511,1727318502,1726760499,1726748476,1726234751,1726146048,1725739186,1725641218,1725171553,1724626142,1723973420,1723372086];
+        let timestamps = [1732057764,1731429530,1730890713,1730290024,1729781576,1729334734,1728873730,1728293662,1727785779,1727784876,1727324511,1727318502,1726760499,1726748476,1726234751,1726146048,1725739186,1725641218,1725171553,1724626142,1723973420,1723372086];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -127,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/24 | 12-9 | [hades star萌新指引站](https://ws.tsl.rocks/corp/06feef105195a4e2ec026c0e3e2c62fce31204dfe6be8e4b26863935efbf8a50/) |
 | ↔️ | 2024/11/17 | 4-4 | [Omega corp](https://ws.tsl.rocks/corp/17140be6e5915edf2d09ebcf246a7c2650cf39def04823c9a04bdf81ff8fc38e/) |
 | ❌ | 2024/11/11 | 0-23 | [Imperium](https://ws.tsl.rocks/corp/9e2ab6b52a6e6684059b31f08966101f380a17c9a782d2a39434093e835fb17d/) |
 | ✅ | 2024/11/04 | 5-0 | [🌪TORNADO ](https://ws.tsl.rocks/corp/df15d02d32c67d60995e68d6c4197c23b340a0a985f04280563d8d07bd4536fa/) |
