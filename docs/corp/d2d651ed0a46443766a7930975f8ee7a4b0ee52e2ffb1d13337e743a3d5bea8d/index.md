@@ -1,21 +1,21 @@
 ---
 layout: page
 title: ​RUS
-description: W:16 L:18 D:0 Bonus ❌
-date: 1731827573
+description: W:17 L:18 D:0 Bonus ✅
+date: 1732523514
 ---
 <div style="float: right; margin: 0 0 1em 1em; clear: right;">
 <img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
 </div>
 
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1198 🔻  (513)|
-| ELO Competitive | 1282 🔻  (291)|
-| Total Matches | 34 |
-| Wins | 16 |
+| ELO Regular | 1214 🔺  (400)|
+| ELO Competitive | 1299 🔺  (259)|
+| Total Matches | 35 |
+| Wins | 17 |
 | Losses | 18 |
 | Draws | 0 |
 | Streak Record | 3 |
@@ -35,7 +35,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731395573,1730815896,1730372658,1728981015,1728216732,1727690817,1727245479,1726796856,1720407446,1716213239,1715760760,1712417124,1711958593,1710071322,1709303908,1707306924,1706615944,1705595091,1705088132,1704382826,1703849710,1702916384,1702179449,1702048405,1701607809,1701471369,1701010333,1700992898,1700441398,1700428175,1699888623,1699824910,1699310955,1698740575];
+        let timestamps = [1732091514,1731395573,1730815896,1730372658,1728981015,1728216732,1727690817,1727245479,1726796856,1720407446,1716213239,1715760760,1712417124,1711958593,1710071322,1709303908,1707306924,1706615944,1705595091,1705088132,1704382826,1703849710,1702916384,1702179449,1702048405,1701607809,1701471369,1701010333,1700992898,1700441398,1700428175,1699888623,1699824910,1699310955,1698740575];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/25 | 42-26 | [Deadspace](https://ws.tsl.rocks/corp/45fc2bf2d1b40361071590e427fa47116d4e5e063064d17ed9933bbd61f04369/) |
 | ❌ | 2024/11/17 | 18-49 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) |
 | ✅ | 2024/11/10 | 36-23 | [Trade Station](https://ws.tsl.rocks/corp/7003e286fe1a04aaa63e3aa318c164856c07e251a94b0496757140f5eda72cd7/) |
 | ✅ | 2024/11/05 | 40-0 | [Spacefleet](https://ws.tsl.rocks/corp/517f7b257f68936f7a95a478d6923776a2549b88897bae628fd35b23572d3cbd/) |
