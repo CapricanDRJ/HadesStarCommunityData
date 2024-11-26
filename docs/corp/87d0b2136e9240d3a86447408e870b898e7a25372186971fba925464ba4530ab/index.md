@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​GALACTIC EMPIRE
-description: W:3 L:2 D:0 Bonus ❌
+description: W:3 L:3 D:0 Bonus ❌
 image: ./favicon.png
-date: 1730952806
+date: 1732603746
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
@@ -11,13 +11,12 @@ date: 1730952806
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1207 🔺  (450)|
-| ELO Competitive | 1221 🔺  (475)|
-| Total Matches | 5 |
+| ELO Regular | 1192 🔻  (558)|
+| ELO Competitive | 1206 🔻  (578)|
+| Total Matches | 6 |
 | Wins | 3 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
-| Streak | 3 |
 | Streak Record | 3 |
 
 ---
@@ -36,7 +35,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730520806,1729065162,1728061664,1717209945,1707193940];
+        let timestamps = [1732171746,1730520806,1729065162,1728061664,1717209945,1707193940];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/26 | 3-4 | [The Foundation](https://ws.tsl.rocks/corp/279f86b28e83ff2e41b798bf93f59b0803e62aecd6e7f0caa5c8be3efecf8728/) |
 | ✅ | 2024/11/07 | 13-4 | [Star Blazers](https://ws.tsl.rocks/corp/f179acb7b919d9d3185f1fcd66bb17d5e257feab5039bcbf6efb5c8cd6f5c057/) |
 | ✅ | 2024/10/21 | 9-4 | [StellaMysterium](https://ws.tsl.rocks/corp/cfaaa81ed93cc9361ade470c3414c73ecf77068badd68d624c7b3f486d142b10/) |
 | ✅ | 2024/10/09 | 1-0 | [Galaktika corp](https://ws.tsl.rocks/corp/c37872d1ea085402bf536c707a895610f72dafda4bede848405b7908b4523985/) |

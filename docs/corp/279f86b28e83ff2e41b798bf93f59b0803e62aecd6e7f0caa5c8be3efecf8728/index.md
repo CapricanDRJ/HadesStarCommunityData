@@ -1,20 +1,20 @@
 ---
 layout: page
 title: ​The Foundation
-description: W:3 L:2 D:1 Bonus ❌
+description: W:4 L:2 D:1 Bonus ✅
 image: ./favicon.png
-date: 1731901910
+date: 1732603746
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1222 🔻  (336)|
-| ELO Competitive | 1226 🔻  (450)|
-| Total Matches | 6 |
-| Wins | 3 |
+| ELO Regular | 1236 🔺  (299)|
+| ELO Competitive | 1241 🔺  (406)|
+| Total Matches | 7 |
+| Wins | 4 |
 | Losses | 2 |
 | Draws | 1 |
 | Streak Record | 3 |
@@ -35,7 +35,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731469910,1707478558,1705565041,1701778214,1700304038,1699175133];
+        let timestamps = [1732171746,1731469910,1707478558,1705565041,1701778214,1700304038,1699175133];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/26 | 4-3 | [GALACTIC EMPIRE](https://ws.tsl.rocks/corp/87d0b2136e9240d3a86447408e870b898e7a25372186971fba925464ba4530ab/) |
 | ❌ | 2024/11/18 | 9-17 | [lesescargots](https://ws.tsl.rocks/corp/718c873931e9097064fd6ef580fe9d8761be712e0783e0b97d28344abd910623/) |
 | ↔️ | 2024/02/14 | 8-8 | [火洋之心](https://ws.tsl.rocks/corp/99cb105316e2715545c205443c4e331cd11832753eac1c21e11ae3d532e36bcb/) |
 | ❌ | 2024/01/23 | 3-28 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) |
