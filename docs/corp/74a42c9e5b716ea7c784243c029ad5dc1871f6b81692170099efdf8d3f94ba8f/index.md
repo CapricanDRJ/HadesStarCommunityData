@@ -4,8 +4,6 @@ title: ​遨游星空  kdy分盟
 description: W:13 L:18 D:1 Bonus ❌
 date: 1721625973
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

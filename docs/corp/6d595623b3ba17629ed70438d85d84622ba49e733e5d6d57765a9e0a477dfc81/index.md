@@ -4,8 +4,6 @@ title: ​中国星际联盟
 description: W:39 L:43 D:3 Bonus ✅
 date: 1732541243
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

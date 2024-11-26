@@ -4,8 +4,6 @@ title: ​Cerulean Star
 description: W:27 L:18 D:0 Bonus ✅
 date: 1732027094
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

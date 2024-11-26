@@ -4,8 +4,6 @@ title: ​星舰月球
 description: W:33 L:20 D:0 Bonus ✅
 date: 1732348933
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

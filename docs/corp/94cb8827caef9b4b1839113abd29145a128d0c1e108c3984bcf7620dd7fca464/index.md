@@ -4,8 +4,6 @@ title: ​Outland Ind.
 description: W:37 L:11 D:0 Bonus ❌
 date: 1731144822
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

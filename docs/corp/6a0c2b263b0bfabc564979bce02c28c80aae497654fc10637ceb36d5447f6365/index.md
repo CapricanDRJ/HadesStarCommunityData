@@ -4,8 +4,6 @@ title: ​边缘世界
 description: W:3 L:2 D:2 Bonus ❌
 date: 1706876347
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -4,8 +4,6 @@ title: ​Hun Avengers
 description: W:12 L:13 D:0 Bonus ❌
 date: 1709658385
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

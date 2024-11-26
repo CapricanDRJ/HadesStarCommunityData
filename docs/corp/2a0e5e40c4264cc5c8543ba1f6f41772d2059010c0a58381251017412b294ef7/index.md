@@ -4,8 +4,6 @@ title: ​华夏三体-基沃托斯集团
 description: W:0 L:5 D:1 Bonus ❌
 date: 1732159915
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -4,8 +4,6 @@ title: ​The Picard
 description: W:0 L:17 D:0 Bonus ❌
 date: 1716358005
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

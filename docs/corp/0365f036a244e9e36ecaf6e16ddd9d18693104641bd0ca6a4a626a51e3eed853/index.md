@@ -4,8 +4,6 @@ title: ​UsualSuspects
 description: W:0 L:4 D:0 Bonus ❌
 date: 1701567965
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

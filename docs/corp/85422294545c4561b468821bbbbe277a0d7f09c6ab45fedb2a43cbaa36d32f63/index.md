@@ -4,8 +4,6 @@ title: ​星环建设集团
 description: W:9 L:7 D:2 Bonus ❌
 date: 1728129128
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

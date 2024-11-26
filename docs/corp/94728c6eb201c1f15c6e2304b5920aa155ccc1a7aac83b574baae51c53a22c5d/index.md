@@ -4,8 +4,6 @@ title: ​Galaxians
 description: W:20 L:26 D:0 Bonus ✅
 date: 1732030100
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

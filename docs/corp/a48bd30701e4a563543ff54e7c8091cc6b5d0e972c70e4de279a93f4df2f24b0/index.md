@@ -4,8 +4,6 @@ title: ​Venture
 description: W:8 L:22 D:4 Bonus ❌
 date: 1720229381
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

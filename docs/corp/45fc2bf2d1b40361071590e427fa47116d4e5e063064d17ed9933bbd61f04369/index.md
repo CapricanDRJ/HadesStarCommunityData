@@ -4,8 +4,6 @@ title: ​Deadspace
 description: W:25 L:34 D:0 Bonus ❌
 date: 1732523514
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

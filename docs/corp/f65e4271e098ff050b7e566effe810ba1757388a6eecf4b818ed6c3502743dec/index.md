@@ -4,8 +4,6 @@ title: ​宇宙联盟（中国）
 description: W:18 L:35 D:5 Bonus ❌
 date: 1731937249
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

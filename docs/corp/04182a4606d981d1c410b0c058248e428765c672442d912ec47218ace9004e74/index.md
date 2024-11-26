@@ -4,8 +4,6 @@ title: ​Created
 description: W:15 L:26 D:1 Bonus ✅
 date: 1732085388
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

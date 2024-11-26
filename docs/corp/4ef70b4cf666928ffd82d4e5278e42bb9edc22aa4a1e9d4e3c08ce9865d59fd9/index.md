@@ -4,8 +4,6 @@ title: ​Elite
 description: W:1 L:4 D:0 Bonus ❌
 date: 1701360580
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -4,8 +4,6 @@ title: ​地球联合
 description: W:12 L:4 D:0 Bonus ❌
 date: 1723897846
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

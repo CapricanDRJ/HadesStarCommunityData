@@ -4,8 +4,6 @@ title: ​русь
 description: W:65 L:38 D:0 Bonus ✅
 date: 1732381992
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

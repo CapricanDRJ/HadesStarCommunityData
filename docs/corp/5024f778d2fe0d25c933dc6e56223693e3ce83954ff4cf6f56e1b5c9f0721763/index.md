@@ -4,8 +4,6 @@ title: ​中国航天科技集团（CASC）
 description: W:0 L:2 D:0 Bonus ❌
 date: 1707904850
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

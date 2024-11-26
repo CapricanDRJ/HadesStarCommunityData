@@ -4,8 +4,6 @@ title: ​the heavy
 description: W:20 L:10 D:0 Bonus ❌
 date: 1731652373
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

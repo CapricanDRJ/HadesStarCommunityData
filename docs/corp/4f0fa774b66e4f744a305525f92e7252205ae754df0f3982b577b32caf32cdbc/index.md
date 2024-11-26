@@ -4,8 +4,6 @@ title: ​闲散人员
 description: W:13 L:7 D:2 Bonus ✅
 date: 1732489764
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

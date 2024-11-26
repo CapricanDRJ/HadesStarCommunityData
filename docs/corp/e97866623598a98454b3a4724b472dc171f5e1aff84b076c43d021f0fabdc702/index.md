@@ -4,8 +4,6 @@ title: ​2ND-R8 Corp.
 description: W:34 L:16 D:1 Bonus ✅
 date: 1732107622
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

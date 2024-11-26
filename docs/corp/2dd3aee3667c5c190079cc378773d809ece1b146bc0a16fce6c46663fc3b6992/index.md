@@ -4,8 +4,6 @@ title: ​Star Wars
 description: W:10 L:8 D:0 Bonus ❌
 date: 1722148180
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

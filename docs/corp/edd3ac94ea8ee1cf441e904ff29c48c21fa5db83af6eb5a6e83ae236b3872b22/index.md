@@ -4,8 +4,6 @@ title: ​Osmium Star llc
 description: W:25 L:2 D:0 Bonus ✅
 date: 1732002753
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

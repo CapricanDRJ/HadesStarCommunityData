@@ -4,8 +4,6 @@ title: ​mijael siuuuuuu
 description: W:0 L:13 D:1 Bonus ❌
 date: 1722229384
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

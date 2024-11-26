@@ -4,8 +4,6 @@ title: ​Omega Alpha
 description: W:40 L:4 D:0 Bonus ✅
 date: 1732372073
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

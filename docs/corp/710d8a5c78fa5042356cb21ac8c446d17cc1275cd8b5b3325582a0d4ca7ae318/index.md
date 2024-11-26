@@ -4,8 +4,6 @@ title: ​SONS OF SUNS
 description: W:0 L:4 D:0 Bonus ❌
 date: 1730452430
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

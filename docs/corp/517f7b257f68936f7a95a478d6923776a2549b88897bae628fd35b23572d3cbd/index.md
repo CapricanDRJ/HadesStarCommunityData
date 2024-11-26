@@ -4,8 +4,6 @@ title: ​Spacefleet
 description: W:44 L:42 D:0 Bonus ✅
 date: 1732364858
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

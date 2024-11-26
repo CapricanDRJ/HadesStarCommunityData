@@ -4,8 +4,6 @@ title: ​UAGC
 description: W:34 L:26 D:0 Bonus ✅
 date: 1732301160
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

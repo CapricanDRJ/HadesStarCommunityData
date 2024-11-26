@@ -4,8 +4,6 @@ title: ​United Stars
 description: W:29 L:21 D:3 Bonus ✅
 date: 1732241957
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

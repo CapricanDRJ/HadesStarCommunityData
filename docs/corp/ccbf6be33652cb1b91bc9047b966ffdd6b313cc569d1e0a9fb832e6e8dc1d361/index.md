@@ -4,8 +4,6 @@ title: ​数字星际集团
 description: W:8 L:11 D:1 Bonus ❌
 date: 1730056727
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

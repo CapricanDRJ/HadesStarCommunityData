@@ -4,8 +4,6 @@ title: ​R-6 satalite
 description: W:38 L:14 D:1 Bonus ❌
 date: 1731702875
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

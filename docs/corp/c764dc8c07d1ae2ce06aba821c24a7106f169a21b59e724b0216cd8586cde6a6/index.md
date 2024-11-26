@@ -4,8 +4,6 @@ title: ​украина№1
 description: W:36 L:30 D:0 Bonus ✅
 date: 1732471235
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

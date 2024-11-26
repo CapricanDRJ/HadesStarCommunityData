@@ -4,8 +4,6 @@ title: ​ДИᏰEPℂДℍTᏰℓ
 description: W:13 L:8 D:0 Bonus ✅
 date: 1732551764
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

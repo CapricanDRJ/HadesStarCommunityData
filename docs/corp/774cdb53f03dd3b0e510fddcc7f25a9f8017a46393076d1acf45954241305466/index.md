@@ -4,8 +4,6 @@ title: ​Brodudes Inc.
 description: W:71 L:20 D:1 Bonus ❌
 date: 1732464623
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

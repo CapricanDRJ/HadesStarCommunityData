@@ -4,8 +4,6 @@ title: ​Sich.ua
 description: W:29 L:29 D:5 Bonus ❌
 date: 1730867718
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

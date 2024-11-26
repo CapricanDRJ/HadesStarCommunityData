@@ -4,8 +4,6 @@ title: ​Dauntless
 description: W:6 L:17 D:0 Bonus ❌
 date: 1717539178
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

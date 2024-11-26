@@ -4,8 +4,6 @@ title: ​SkitleStarOrder
 description: W:3 L:0 D:0 Bonus ❌
 date: 1728148067
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

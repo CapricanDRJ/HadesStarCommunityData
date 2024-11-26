@@ -4,8 +4,6 @@ title: ​Sector7
 description: W:0 L:4 D:1 Bonus ❌
 date: 1708953767
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

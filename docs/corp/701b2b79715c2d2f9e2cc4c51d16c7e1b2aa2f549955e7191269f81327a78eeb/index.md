@@ -4,8 +4,6 @@ title: ​星环-星际联盟
 description: W:0 L:1 D:0 Bonus ❌
 date: 1701407467
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

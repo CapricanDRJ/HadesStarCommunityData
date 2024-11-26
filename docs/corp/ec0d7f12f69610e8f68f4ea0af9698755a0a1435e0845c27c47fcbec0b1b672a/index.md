@@ -4,8 +4,6 @@ title: ​星河绮梦
 description: W:27 L:5 D:0 Bonus ✅
 date: 1732250669
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

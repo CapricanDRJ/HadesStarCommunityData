@@ -4,8 +4,6 @@ title: ​行星联合军
 description: W:7 L:10 D:0 Bonus ❌
 date: 1729688296
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -4,8 +4,6 @@ title: ​UKR Spase
 description: W:28 L:11 D:0 Bonus ✅
 date: 1732447491
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

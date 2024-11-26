@@ -4,8 +4,6 @@ title: ​哈迪斯之星，启动！
 description: W:7 L:5 D:0 Bonus ❌
 date: 1730938986
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

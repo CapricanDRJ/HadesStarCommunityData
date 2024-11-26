@@ -4,8 +4,6 @@ title: ​Star Destroyers
 description: W:33 L:21 D:2 Bonus ✅
 date: 1732184554
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

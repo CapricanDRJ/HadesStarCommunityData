@@ -4,8 +4,6 @@ title: ​Space Pirates
 description: W:8 L:44 D:0 Bonus ✅
 date: 1732380489
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

@@ -4,8 +4,6 @@ title: ​海賊ギルド
 description: W:5 L:17 D:0 Bonus ❌
 date: 1712643896
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

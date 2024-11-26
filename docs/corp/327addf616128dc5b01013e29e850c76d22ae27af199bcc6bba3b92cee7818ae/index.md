@@ -4,8 +4,6 @@ title: ​以太超星团
 description: W:3 L:26 D:6 Bonus ❌
 date: 1731054674
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

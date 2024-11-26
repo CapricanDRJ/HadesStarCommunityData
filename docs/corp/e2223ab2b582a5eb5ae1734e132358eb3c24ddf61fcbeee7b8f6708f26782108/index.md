@@ -4,8 +4,6 @@ title: ​Galactic Empire
 description: W:22 L:18 D:0 Bonus ✅
 date: 1731988333
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

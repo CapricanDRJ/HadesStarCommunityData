@@ -4,8 +4,6 @@ title: ​Alpaca Haven
 description: W:18 L:17 D:0 Bonus ❌
 date: 1732093800
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

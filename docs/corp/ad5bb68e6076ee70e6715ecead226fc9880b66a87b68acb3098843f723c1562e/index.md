@@ -4,8 +4,6 @@ title: ​Game of Stars
 description: W:12 L:22 D:0 Bonus ❌
 date: 1731853114
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

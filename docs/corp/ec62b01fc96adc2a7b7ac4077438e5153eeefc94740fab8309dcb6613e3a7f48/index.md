@@ -4,8 +4,6 @@ title: ​Bacon Warriors
 description: W:19 L:18 D:0 Bonus ❌
 date: 1731514429
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

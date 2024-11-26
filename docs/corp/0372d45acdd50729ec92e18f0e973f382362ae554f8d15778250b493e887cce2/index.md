@@ -4,8 +4,6 @@ title: ​CDG
 description: W:24 L:27 D:5 Bonus ❌
 date: 1720925094
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

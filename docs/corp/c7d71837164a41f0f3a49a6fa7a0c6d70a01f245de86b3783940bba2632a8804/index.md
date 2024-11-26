@@ -4,8 +4,6 @@ title: ​新手联邦（新经济开发区）
 description: W:27 L:0 D:0 Bonus ❌
 date: 1713013190
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

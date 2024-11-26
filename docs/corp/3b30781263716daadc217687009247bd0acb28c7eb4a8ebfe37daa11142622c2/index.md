@@ -4,8 +4,6 @@ title: ​雪月永恒
 description: W:7 L:5 D:0 Bonus ❌
 date: 1730381858
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

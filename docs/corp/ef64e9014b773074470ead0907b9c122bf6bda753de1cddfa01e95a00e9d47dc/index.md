@@ -4,8 +4,6 @@ title: ​Crazy Elite
 description: W:34 L:51 D:0 Bonus ❌
 date: 1732347732
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

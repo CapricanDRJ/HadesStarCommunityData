@@ -4,8 +4,6 @@ title: ​OrderofTheGeon
 description: W:31 L:35 D:4 Bonus ✅
 date: 1732543948
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

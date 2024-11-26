@@ -4,8 +4,6 @@ title: ​Odessa
 description: W:5 L:12 D:0 Bonus ❌
 date: 1714120413
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

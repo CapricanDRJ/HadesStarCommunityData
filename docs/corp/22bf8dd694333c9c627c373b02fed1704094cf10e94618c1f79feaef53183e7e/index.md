@@ -4,8 +4,6 @@ title: ​新?的星际集团?
 description: W:20 L:15 D:1 Bonus ❌
 date: 1732165924
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

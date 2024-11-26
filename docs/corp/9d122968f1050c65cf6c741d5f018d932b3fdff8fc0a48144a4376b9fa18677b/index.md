@@ -4,8 +4,6 @@ title: ​ANDROMEDA INC.
 description: W:25 L:1 D:1 Bonus ❌
 date: 1731149329
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

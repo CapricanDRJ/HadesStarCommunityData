@@ -4,8 +4,6 @@ title: ​红星超新星爆炸
 description: W:1 L:2 D:0 Bonus ❌
 date: 1707881714
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

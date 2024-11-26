@@ -4,8 +4,6 @@ title: ​Corvus Ind.
 description: W:28 L:9 D:0 Bonus ✅
 date: 1732327002
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

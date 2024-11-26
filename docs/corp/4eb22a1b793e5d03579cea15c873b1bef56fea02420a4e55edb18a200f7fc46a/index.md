@@ -4,8 +4,6 @@ title: ​империя тьмы
 description: W:20 L:31 D:3 Bonus ❌
 date: 1730203658
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

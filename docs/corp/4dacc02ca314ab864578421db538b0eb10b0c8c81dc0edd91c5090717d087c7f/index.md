@@ -4,8 +4,6 @@ title: ​Armored Union
 description: W:27 L:23 D:1 Bonus ❌
 date: 1731915915
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

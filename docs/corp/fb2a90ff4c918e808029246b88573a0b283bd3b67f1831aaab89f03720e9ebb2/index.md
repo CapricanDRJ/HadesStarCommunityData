@@ -4,8 +4,6 @@ title: ​jatnniel 团队
 description: W:3 L:1 D:0 Bonus ❌
 date: 1726828977
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

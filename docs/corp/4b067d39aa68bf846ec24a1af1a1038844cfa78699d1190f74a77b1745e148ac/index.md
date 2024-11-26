@@ -4,8 +4,6 @@ title: ​苏维埃联邦
 description: W:0 L:15 D:3 Bonus ❌
 date: 1723877412
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

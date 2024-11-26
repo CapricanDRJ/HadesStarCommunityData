@@ -4,8 +4,6 @@ title: ​<a>超越®</a>光速℡
 description: W:15 L:6 D:0 Bonus ❌
 date: 1719277369
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

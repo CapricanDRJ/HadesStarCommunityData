@@ -4,8 +4,6 @@ title: ​Октябристы
 description: W:53 L:64 D:2 Bonus ❌
 date: 1732134974
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

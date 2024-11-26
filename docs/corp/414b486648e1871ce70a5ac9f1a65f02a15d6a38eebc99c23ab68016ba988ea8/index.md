@@ -4,8 +4,6 @@ title: ​Warriors union
 description: W:3 L:5 D:1 Bonus ❌
 date: 1711636388
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

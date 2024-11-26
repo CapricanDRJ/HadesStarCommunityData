@@ -4,8 +4,6 @@ title: ​CCCP
 description: W:1 L:7 D:3 Bonus ❌
 date: 1726918839
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

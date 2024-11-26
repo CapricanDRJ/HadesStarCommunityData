@@ -4,8 +4,6 @@ title: ​Galaktika corp
 description: W:16 L:18 D:2 Bonus ❌
 date: 1729773045
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

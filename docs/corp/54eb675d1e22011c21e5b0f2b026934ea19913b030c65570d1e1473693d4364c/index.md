@@ -4,8 +4,6 @@ title: ​墨痕空域
 description: W:39 L:38 D:1 Bonus ❌
 date: 1732113333
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

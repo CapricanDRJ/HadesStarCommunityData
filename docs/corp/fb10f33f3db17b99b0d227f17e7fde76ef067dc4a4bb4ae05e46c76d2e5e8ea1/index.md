@@ -4,8 +4,6 @@ title: ​Lacuna X
 description: W:46 L:6 D:0 Bonus ✅
 date: 1732218520
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

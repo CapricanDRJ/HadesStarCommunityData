@@ -4,8 +4,6 @@ title: ​IX Легион
 description: W:69 L:37 D:0 Bonus ✅
 date: 1732191351
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

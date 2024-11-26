@@ -4,8 +4,6 @@ title: ​Scar
 description: W:37 L:23 D:1 Bonus ✅
 date: 1732168027
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

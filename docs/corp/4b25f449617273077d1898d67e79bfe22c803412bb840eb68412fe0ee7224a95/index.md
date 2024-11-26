@@ -4,8 +4,6 @@ title: ​国际联盟
 description: W:4 L:1 D:0 Bonus ✅
 date: 1732460414
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

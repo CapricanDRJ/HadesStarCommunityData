@@ -4,8 +4,6 @@ title: ​对，进就进人少的（分团）
 description: W:12 L:11 D:1 Bonus ✅
 date: 1732452299
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

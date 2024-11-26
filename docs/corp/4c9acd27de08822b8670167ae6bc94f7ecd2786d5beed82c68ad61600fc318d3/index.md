@@ -4,8 +4,6 @@ title: ​THE BENDERA
 description: W:15 L:6 D:0 Bonus ❌
 date: 1715830706
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

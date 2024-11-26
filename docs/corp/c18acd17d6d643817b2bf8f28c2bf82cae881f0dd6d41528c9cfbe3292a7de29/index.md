@@ -4,8 +4,6 @@ title: ​探索舰队
 description: W:3 L:10 D:1 Bonus ❌
 date: 1710249718
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

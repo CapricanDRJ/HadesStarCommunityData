@@ -4,8 +4,6 @@ title: ​Бороская Имерия
 description: W:8 L:4 D:0 Bonus ✅
 date: 1732113333
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

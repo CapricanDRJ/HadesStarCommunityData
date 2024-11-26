@@ -4,8 +4,6 @@ title: ​Oficina Tuga
 description: W:9 L:27 D:0 Bonus ❌
 date: 1731686641
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

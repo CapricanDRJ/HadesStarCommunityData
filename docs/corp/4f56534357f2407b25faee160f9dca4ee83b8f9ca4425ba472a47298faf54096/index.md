@@ -4,8 +4,6 @@ title: ​Z. O. V.
 description: W:32 L:8 D:1 Bonus ✅
 date: 1732293946
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

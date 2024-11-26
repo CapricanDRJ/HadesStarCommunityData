@@ -4,8 +4,6 @@ title: ​Stella☆Glow
 description: W:34 L:18 D:1 Bonus ❌
 date: 1732524115
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

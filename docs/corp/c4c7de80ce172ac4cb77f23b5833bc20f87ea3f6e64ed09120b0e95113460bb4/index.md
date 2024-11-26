@@ -4,8 +4,6 @@ title: ​imperio estelar
 description: W:3 L:12 D:3 Bonus ❌
 date: 1732425560
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

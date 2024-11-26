@@ -4,8 +4,6 @@ title: ​Destroyers
 description: W:16 L:18 D:0 Bonus ❌
 date: 1729463812
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

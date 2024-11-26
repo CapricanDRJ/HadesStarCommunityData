@@ -4,8 +4,6 @@ title: ​Nine's Own Goal
 description: W:32 L:26 D:2 Bonus ❌
 date: 1731853114
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

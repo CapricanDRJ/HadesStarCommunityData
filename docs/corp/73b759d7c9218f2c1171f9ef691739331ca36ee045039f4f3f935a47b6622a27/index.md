@@ -4,8 +4,6 @@ title: ​AAAA
 description: W:13 L:12 D:3 Bonus ❌
 date: 1732379588
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -4,8 +4,6 @@ title: ​德意志阿尔法帝国
 description: W:1 L:2 D:0 Bonus ❌
 date: 1722816017
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

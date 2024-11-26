@@ -4,8 +4,6 @@ title: ​联合宇宙
 description: W:4 L:15 D:0 Bonus ❌
 date: 1725261363
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

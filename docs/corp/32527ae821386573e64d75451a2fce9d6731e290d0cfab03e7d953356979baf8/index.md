@@ -4,8 +4,6 @@ title: ​Hail Hydra
 description: W:6 L:18 D:1 Bonus ❌
 date: 1723153186
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

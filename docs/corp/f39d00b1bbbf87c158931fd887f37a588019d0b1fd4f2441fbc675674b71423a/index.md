@@ -4,8 +4,6 @@ title: ​普罗米修斯
 description: W:7 L:18 D:1 Bonus ✅
 date: 1732102213
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

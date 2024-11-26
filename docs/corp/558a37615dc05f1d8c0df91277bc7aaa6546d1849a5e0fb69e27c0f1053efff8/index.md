@@ -4,8 +4,6 @@ title: ​hades' star
 description: W:0 L:1 D:1 Bonus ❌
 date: 1709683723
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

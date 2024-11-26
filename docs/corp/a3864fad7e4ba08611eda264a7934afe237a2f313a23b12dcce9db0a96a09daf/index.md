@@ -4,8 +4,6 @@ title: ​<•|•>
 description: W:3 L:7 D:1 Bonus ❌
 date: 1728454039
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

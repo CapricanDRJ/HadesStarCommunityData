@@ -4,8 +4,6 @@ title: ​云浪山庄↕
 description: W:24 L:89 D:1 Bonus ❌
 date: 1732289738
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

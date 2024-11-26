@@ -4,8 +4,6 @@ title: ​Los Unidos
 description: W:7 L:8 D:1 Bonus ❌
 date: 1714444916
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

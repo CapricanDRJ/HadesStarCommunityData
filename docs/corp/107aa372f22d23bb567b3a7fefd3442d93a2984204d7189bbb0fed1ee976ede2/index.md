@@ -4,8 +4,6 @@ title: ​星を継ぐもの
 description: W:44 L:19 D:1 Bonus ✅
 date: 1732162018
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

@@ -4,8 +4,6 @@ title: ​自由星际联盟
 description: W:6 L:39 D:0 Bonus ❌
 date: 1732250669
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

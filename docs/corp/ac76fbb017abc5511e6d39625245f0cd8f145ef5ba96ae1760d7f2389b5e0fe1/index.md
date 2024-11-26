@@ -4,8 +4,6 @@ title: ​ProyectCorp
 description: W:20 L:29 D:0 Bonus ❌
 date: 1730805560
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

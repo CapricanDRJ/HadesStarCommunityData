@@ -4,8 +4,6 @@ title: ​PDC
 description: W:14 L:7 D:3 Bonus ❌
 date: 1728214134
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

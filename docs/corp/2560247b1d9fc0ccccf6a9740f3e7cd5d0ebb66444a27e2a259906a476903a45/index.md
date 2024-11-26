@@ -4,8 +4,6 @@ title: ​Revólver
 description: W:11 L:19 D:1 Bonus ✅
 date: 1732389205
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

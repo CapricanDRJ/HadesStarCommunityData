@@ -4,8 +4,6 @@ title: ​Int. Trading Co
 description: W:16 L:9 D:1 Bonus ❌
 date: 1721018557
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

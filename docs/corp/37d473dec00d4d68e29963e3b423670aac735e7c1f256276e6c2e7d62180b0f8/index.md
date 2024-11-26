@@ -4,8 +4,6 @@ title: ​Dumpster Fire 2
 description: W:41 L:53 D:2 Bonus ✅
 date: 1732108224
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

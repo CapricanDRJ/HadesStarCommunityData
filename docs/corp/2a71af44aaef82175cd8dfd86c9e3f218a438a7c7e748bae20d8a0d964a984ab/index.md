@@ -4,8 +4,6 @@ title: ​神圣罗马帝国
 description: W:23 L:46 D:1 Bonus ❌
 date: 1724525939
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

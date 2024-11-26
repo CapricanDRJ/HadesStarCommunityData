@@ -4,8 +4,6 @@ title: ​Soylent Corp.
 description: W:26 L:15 D:0 Bonus ❌
 date: 1727889033
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

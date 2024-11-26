@@ -4,8 +4,6 @@ title: ​Atlas Star llc.
 description: W:43 L:10 D:0 Bonus ✅
 date: 1732031941
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

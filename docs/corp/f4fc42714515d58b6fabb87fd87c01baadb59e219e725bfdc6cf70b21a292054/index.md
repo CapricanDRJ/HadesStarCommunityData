@@ -4,8 +4,6 @@ title: ​Orphans Of Kos
 description: W:5 L:6 D:0 Bonus ❌
 date: 1707429599
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

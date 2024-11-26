@@ -4,8 +4,6 @@ title: ​Gemini↕     ☁
 description: W:3 L:9 D:1 Bonus ❌
 date: 1720686776
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

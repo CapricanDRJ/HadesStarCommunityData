@@ -4,8 +4,6 @@ title: ​Omega corp
 description: W:6 L:5 D:3 Bonus ❌
 date: 1731861530
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

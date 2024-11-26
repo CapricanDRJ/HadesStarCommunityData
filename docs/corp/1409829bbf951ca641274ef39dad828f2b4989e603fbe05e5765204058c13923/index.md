@@ -4,8 +4,6 @@ title: ​龙门训练营
 description: W:9 L:18 D:0 Bonus ❌
 date: 1706690027
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

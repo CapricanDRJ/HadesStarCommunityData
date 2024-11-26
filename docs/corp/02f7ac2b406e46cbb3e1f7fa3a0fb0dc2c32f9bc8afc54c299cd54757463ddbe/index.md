@@ -4,8 +4,6 @@ title: ​ItaFederalFleet
 description: W:19 L:9 D:1 Bonus ❌
 date: 1732293946
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

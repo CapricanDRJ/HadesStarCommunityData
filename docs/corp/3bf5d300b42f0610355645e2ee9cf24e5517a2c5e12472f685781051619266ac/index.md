@@ -4,8 +4,6 @@ title: ​Sprite
 description: W:23 L:4 D:0 Bonus ✅
 date: 1732092899
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

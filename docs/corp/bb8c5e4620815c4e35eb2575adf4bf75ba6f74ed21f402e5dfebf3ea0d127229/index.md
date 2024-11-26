@@ -4,8 +4,6 @@ title: ​Dadsw/Daughterz
 description: W:1 L:3 D:0 Bonus ❌
 date: 1714595126
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

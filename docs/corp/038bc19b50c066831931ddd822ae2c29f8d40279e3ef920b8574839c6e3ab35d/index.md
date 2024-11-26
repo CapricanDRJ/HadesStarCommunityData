@@ -4,8 +4,6 @@ title: ​咕咕咕咕咕咕咕咕咕咕咕咕咕咕咕
 description: W:0 L:3 D:2 Bonus ❌
 date: 1714959908
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

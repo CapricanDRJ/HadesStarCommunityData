@@ -4,8 +4,6 @@ title: ​BlackStar Order
 description: W:69 L:43 D:0 Bonus ✅
 date: 1732340521
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

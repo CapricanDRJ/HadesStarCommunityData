@@ -4,8 +4,6 @@ title: ​RUSSIAN TEAM
 description: W:0 L:9 D:0 Bonus ❌
 date: 1715154591
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

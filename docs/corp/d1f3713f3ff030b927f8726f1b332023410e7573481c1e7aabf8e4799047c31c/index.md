@@ -4,8 +4,6 @@ title: ​USSR
 description: W:2 L:1 D:0 Bonus ❌
 date: 1713332587
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

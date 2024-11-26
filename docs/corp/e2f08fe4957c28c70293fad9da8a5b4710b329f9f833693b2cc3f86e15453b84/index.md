@@ -4,8 +4,6 @@ title: ​Assasins bees
 description: W:0 L:1 D:0 Bonus ❌
 date: 1714611048
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

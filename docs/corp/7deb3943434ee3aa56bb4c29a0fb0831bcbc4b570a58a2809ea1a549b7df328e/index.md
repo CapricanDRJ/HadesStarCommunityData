@@ -4,8 +4,6 @@ title: ​Sith Empire
 description: W:27 L:40 D:1 Bonus ❌
 date: 1732298153
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -4,8 +4,6 @@ title: ​Team Rainbow
 description: W:4 L:3 D:0 Bonus ✅
 date: 1732134974
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

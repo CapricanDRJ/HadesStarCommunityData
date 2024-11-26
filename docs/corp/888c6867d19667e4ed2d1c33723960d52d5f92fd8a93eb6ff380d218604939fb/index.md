@@ -4,8 +4,6 @@ title: ​ДИВЕРСАНТЫ
 description: W:61 L:12 D:1 Bonus ❌
 date: 1732266294
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

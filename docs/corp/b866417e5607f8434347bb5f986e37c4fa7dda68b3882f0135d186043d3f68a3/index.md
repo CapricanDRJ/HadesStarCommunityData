@@ -4,8 +4,6 @@ title: ​VoidCorp
 description: W:31 L:27 D:1 Bonus ✅
 date: 1732229639
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

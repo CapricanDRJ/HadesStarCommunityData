@@ -4,8 +4,6 @@ title: ​FURIA 2.0
 description: W:11 L:12 D:0 Bonus ✅
 date: 1732482656
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

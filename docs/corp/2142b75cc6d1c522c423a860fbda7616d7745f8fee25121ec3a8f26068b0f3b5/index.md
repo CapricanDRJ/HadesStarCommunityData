@@ -4,8 +4,6 @@ title: ​星舰国际
 description: W:7 L:8 D:3 Bonus ❌
 date: 1730956412
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

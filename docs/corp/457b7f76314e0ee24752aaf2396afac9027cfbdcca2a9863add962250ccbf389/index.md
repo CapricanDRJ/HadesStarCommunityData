@@ -4,8 +4,6 @@ title: ​Лунный Феникс
 description: W:43 L:24 D:2 Bonus ✅
 date: 1732328804
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

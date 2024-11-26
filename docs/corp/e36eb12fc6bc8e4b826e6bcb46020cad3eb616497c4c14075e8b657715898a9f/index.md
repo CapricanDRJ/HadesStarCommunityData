@@ -4,8 +4,6 @@ title: ​INFINITY STAR
 description: W:13 L:13 D:0 Bonus ❌
 date: 1732285830
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

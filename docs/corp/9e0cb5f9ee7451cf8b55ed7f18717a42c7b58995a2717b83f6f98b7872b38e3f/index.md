@@ -4,8 +4,6 @@ title: ​Farland Ind.
 description: W:7 L:19 D:1 Bonus ❌
 date: 1721257201
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

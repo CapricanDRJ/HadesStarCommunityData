@@ -4,8 +4,6 @@ title: ​꿀벌왕국
 description: W:7 L:12 D:0 Bonus ❌
 date: 1709955566
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -4,8 +4,6 @@ title: ​Polish Pirates
 description: W:19 L:14 D:0 Bonus ❌
 date: 1731065492
 ---
-<img align="right" src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
