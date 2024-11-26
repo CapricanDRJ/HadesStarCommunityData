@@ -5,7 +5,9 @@ description: W:30 L:29 D:1 Bonus ❌
 image: ./favicon.png
 date: 1725445905
 ---
-<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
+<head>
+<link rel="icon" type="image/x-icon" href="./favicon.ico">
+</head><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
