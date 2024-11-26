@@ -4,9 +4,7 @@ title: ​lost souls
 description: W:28 L:28 D:1 Bonus ❌
 date: 1725637514
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1725637514
 | Draws | 1 |
 | Streak Record | 4 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,6 +116,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
@@ -128,6 +128,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) | 2 | 0 | 0 | 2 |
 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) | 2 | 0 | 0 | 2 |
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -190,6 +191,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2023/12/14 | 19-2 | [Red Dawn](https://ws.tsl.rocks/corp/fee852a2530bc5e3cbe5b2a5fdb224d249eeceeb3688cfd71479344181831328/) |
 | ✅ | 2023/12/07 | 18-0 | [TITANS](https://ws.tsl.rocks/corp/99cb7335e71fb4b435cc1929b77308ae522773aee201cf5fdfc4b8e6edf54f36/) |
 
+---
 Corporation ID: 64cf1f6ce9001bcd1d03fd1aaecafc1b7d88cd36316892a52a1b19d5e85bd793
 
 [Hades' Star](https://www.hadesstar.com)

@@ -4,9 +4,7 @@ title: ​RACNAROK
 description: W:7 L:2 D:2 Bonus ❌
 date: 1711587110
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1711587110
 | Draws | 2 |
 | Streak Record | 7 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,7 +116,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -134,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2024/01/03 | 12-0 | [Эдем](https://ws.tsl.rocks/corp/a61dc2c639a91f5b725d43d306ba2eebe1770c92499d7d92086b7a097f939c0d/) |
 | ✅ | 2023/12/26 | 10-2 | [Union premiun](https://ws.tsl.rocks/corp/378842e94d703234b3bbe2f660cbf69180d547b32d4453bc3ca14e7729b3485c/) |
 
+---
 Corporation ID: 925ee28e565a662efccf71b5762e6a40b9eacdff2237454dc0e5aa1dcbd44294
 
 [Hades' Star](https://www.hadesstar.com)

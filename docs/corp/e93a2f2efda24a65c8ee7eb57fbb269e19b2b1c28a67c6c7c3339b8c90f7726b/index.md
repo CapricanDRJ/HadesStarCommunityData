@@ -4,9 +4,7 @@ title: ​Alpaca Haven
 description: W:18 L:17 D:0 Bonus ❌
 date: 1732093800
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1732093800
 | Draws | 0 |
 | Streak Record | 5 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,6 +116,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) | 0 | 2 | 0 | 2 |
 | [Game of Stars](https://ws.tsl.rocks/corp/ad5bb68e6076ee70e6715ecead226fc9880b66a87b68acb3098843f723c1562e/) | 1 | 1 | 0 | 2 |
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -164,6 +165,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2023/11/17 | 0-36 | [Titan Corp\.](https://ws.tsl.rocks/corp/c87b86a6baab08254d7226396a20c74fe0972f64fab6fee405914076e111193c/) |
 | ❌ | 2023/11/06 | 8-22 | [Providence](https://ws.tsl.rocks/corp/f12fc39ca2326de7c5ce96c005b1953c86430443f1f8b98e7515d082b43b4d4b/) |
 
+---
 Corporation ID: e93a2f2efda24a65c8ee7eb57fbb269e19b2b1c28a67c6c7c3339b8c90f7726b
 
 [Hades' Star](https://www.hadesstar.com)

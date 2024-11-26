@@ -4,9 +4,7 @@ title: ​SONS OF SUNS
 description: W:0 L:4 D:0 Bonus ❌
 date: 1730452430
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1730452430
 | Losses | 4 |
 | Draws | 0 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,7 +115,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -126,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2024/02/02 | 1-5 | [titan tv](https://ws.tsl.rocks/corp/30ba418a884a4c2f888c814c6adfd9f30d995c155ccdc8aafa74ae4dc30f1c39/) |
 | ❌ | 2024/01/27 | 1-3 | [j g f h me t y ](https://ws.tsl.rocks/corp/47918aa8890d89fb5fc148ee9fdd940dd60ae73de3f7d05ccc54fabed17e1b5f/) |
 
+---
 Corporation ID: 710d8a5c78fa5042356cb21ac8c446d17cc1275cd8b5b3325582a0d4ca7ae318
 
 [Hades' Star](https://www.hadesstar.com)

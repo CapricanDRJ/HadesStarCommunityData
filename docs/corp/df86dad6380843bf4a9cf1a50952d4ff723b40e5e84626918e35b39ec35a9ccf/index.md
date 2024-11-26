@@ -4,9 +4,7 @@ title: ​corporacion I.A
 description: W:0 L:3 D:0 Bonus ❌
 date: 1732354922
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1732354922
 | Losses | 3 |
 | Draws | 0 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,7 +115,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -125,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2024/08/26 | 2-14 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
 | ❌ | 2024/03/17 | 0-67 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) |
 
+---
 Corporation ID: df86dad6380843bf4a9cf1a50952d4ff723b40e5e84626918e35b39ec35a9ccf
 
 [Hades' Star](https://www.hadesstar.com)

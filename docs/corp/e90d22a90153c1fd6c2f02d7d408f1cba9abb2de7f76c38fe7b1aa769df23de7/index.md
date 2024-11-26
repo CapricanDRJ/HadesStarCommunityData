@@ -4,9 +4,7 @@ title: ​Killer Shadow
 description: W:2 L:10 D:0 Bonus ❌
 date: 1708469944
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1708469944
 | Draws | 0 |
 | Streak Record | 2 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,7 +116,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -135,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2023/11/23 | 3-34 | [Lacuna Holdings](https://ws.tsl.rocks/corp/17f4ece94ed033805ed258868416020d302254e2e3becbd1e25381be7933be76/) |
 | ❌ | 2023/11/07 | 3-18 | [Russia](https://ws.tsl.rocks/corp/8a6254c757d7124a5a23df1b60ae058486cc79ca0c2c006241d319b8d5d815db/) |
 
+---
 Corporation ID: e90d22a90153c1fd6c2f02d7d408f1cba9abb2de7f76c38fe7b1aa769df23de7
 
 [Hades' Star](https://www.hadesstar.com)

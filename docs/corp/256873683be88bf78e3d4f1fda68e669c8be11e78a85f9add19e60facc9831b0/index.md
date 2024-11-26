@@ -4,9 +4,7 @@ title: ​Ironbear Legion
 description: W:16 L:35 D:0 Bonus ❌
 date: 1732311078
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1732311078
 | Draws | 0 |
 | Streak Record | 7 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,6 +116,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
@@ -128,6 +128,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [111](https://ws.tsl.rocks/corp/8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350/) | 0 | 2 | 0 | 2 |
 | [Imperium XIII](https://ws.tsl.rocks/corp/0d52edf77b0cdeaaea6ebc20a7f5b6a60372b535bf96f556b31e2243dc8ee75a/) | 1 | 1 | 0 | 2 |
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -184,6 +185,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2023/11/11 | 4-6 | [Revólver](https://ws.tsl.rocks/corp/2560247b1d9fc0ccccf6a9740f3e7cd5d0ebb66444a27e2a259906a476903a45/) |
 | ✅ | 2023/11/06 | 22-3 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) |
 
+---
 Corporation ID: 256873683be88bf78e3d4f1fda68e669c8be11e78a85f9add19e60facc9831b0
 
 [Hades' Star](https://www.hadesstar.com)

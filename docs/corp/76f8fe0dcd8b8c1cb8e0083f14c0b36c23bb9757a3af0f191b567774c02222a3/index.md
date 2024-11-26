@@ -4,9 +4,7 @@ title: ​Bl@ck/Galaxy
 description: W:28 L:17 D:2 Bonus ❌
 date: 1732410239
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1732410239
 | Draws | 2 |
 | Streak Record | 17 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,6 +116,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
@@ -129,6 +129,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [CDG](https://ws.tsl.rocks/corp/0372d45acdd50729ec92e18f0e973f382362ae554f8d15778250b493e887cce2/) | 0 | 2 | 0 | 2 |
 | [YETI Collective](https://ws.tsl.rocks/corp/ff6a3c65d008d245f003a3009374e26cf38e7cda6ea4d601a9da9037296fda98/) | 2 | 0 | 0 | 2 |
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -181,6 +182,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2023/12/15 | 3-13 | [RUFORS](https://ws.tsl.rocks/corp/f1e7f82e284c8233985039ea19544dbfa937f38f2315e9ad6a1d037423071b6d/) |
 | ❌ | 2023/11/27 | 0-3 | [佛矿寺](https://ws.tsl.rocks/corp/64f8afd95b7004e9d5a442da55644ee3ce64a9a8e82345c458d757b527e40624/) |
 
+---
 Corporation ID: 76f8fe0dcd8b8c1cb8e0083f14c0b36c23bb9757a3af0f191b567774c02222a3
 
 [Hades' Star](https://www.hadesstar.com)

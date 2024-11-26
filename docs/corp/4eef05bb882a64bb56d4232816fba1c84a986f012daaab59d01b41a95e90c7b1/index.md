@@ -4,9 +4,7 @@ title: ​Shadow Council
 description: W:0 L:3 D:0 Bonus ❌
 date: 1717815379
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1717815379
 | Losses | 3 |
 | Draws | 0 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,7 +115,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -125,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2024/06/01 | 1-5 | [ЧВК "Котики"](https://ws.tsl.rocks/corp/b770b833fe257bc6accd1bbe82a887971291dd0038f8aa627a47f3ce063265c0/) |
 | ❌ | 2024/05/27 | 0-7 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
 
+---
 Corporation ID: 4eef05bb882a64bb56d4232816fba1c84a986f012daaab59d01b41a95e90c7b1
 
 [Hades' Star](https://www.hadesstar.com)

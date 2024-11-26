@@ -4,9 +4,7 @@ title: ​Galactic Empire
 description: W:22 L:18 D:0 Bonus ✅
 date: 1731988333
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ✅
 
@@ -20,6 +18,7 @@ date: 1731988333
 | Draws | 0 |
 | Streak Record | 8 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,6 +116,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) | 0 | 2 | 0 | 2 |
 | [Galactic Trade](https://ws.tsl.rocks/corp/11f216ded6a66748fec41f81ff0eae46ed3f149e39301e31c7977db9897e7d21/) | 2 | 0 | 0 | 2 |
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -170,6 +171,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2023/11/04 | 8-3 | [神圣罗马帝国](https://ws.tsl.rocks/corp/2a71af44aaef82175cd8dfd86c9e3f218a438a7c7e748bae20d8a0d964a984ab/) |
 | ❌ | 2023/11/04 | 3-6 | [Russian Style](https://ws.tsl.rocks/corp/db02701745537e2b055f660e59bd465567c4e4b322c16ade37245ed4a40699c8/) |
 
+---
 Corporation ID: e2223ab2b582a5eb5ae1734e132358eb3c24ddf61fcbeee7b8f6708f26782108
 
 [Hades' Star](https://www.hadesstar.com)

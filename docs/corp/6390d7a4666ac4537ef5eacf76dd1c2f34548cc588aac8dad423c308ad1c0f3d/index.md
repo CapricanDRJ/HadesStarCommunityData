@@ -4,9 +4,7 @@ title: ​水晶星际集团
 description: W:6 L:25 D:0 Bonus ❌
 date: 1727926694
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1727926694
 | Draws | 0 |
 | Streak Record | 2 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,7 +116,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -154,6 +155,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2023/12/28 | 5-10 | [TECH CO](https://ws.tsl.rocks/corp/49f9afe365665b0d622f99306a23e7a2ebd9cf7022ee79c25e08917977ab9d7a/) |
 | ✅ | 2023/12/13 | 10-0 | [Cowboys](https://ws.tsl.rocks/corp/f461f65e85a43e0b855a525f6995505fc1cc5ae6f85be50470c9dacbb955fc21/) |
 
+---
 Corporation ID: 6390d7a4666ac4537ef5eacf76dd1c2f34548cc588aac8dad423c308ad1c0f3d
 
 [Hades' Star](https://www.hadesstar.com)

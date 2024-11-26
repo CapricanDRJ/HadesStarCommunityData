@@ -4,9 +4,7 @@ title: ​Zeon
 description: W:0 L:4 D:0 Bonus ❌
 date: 1710232783
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1710232783
 | Losses | 4 |
 | Draws | 0 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,7 +115,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -126,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2023/11/26 | 0-6 | [VENTORMENTA](https://ws.tsl.rocks/corp/0b64072b403ef687c83d4c04a4f5a20f8dd89befdaaf6ced9af64cacc2f46536/) |
 | ❌ | 2023/11/10 | 0-10 | [神圣罗马帝国](https://ws.tsl.rocks/corp/2a71af44aaef82175cd8dfd86c9e3f218a438a7c7e748bae20d8a0d964a984ab/) |
 
+---
 Corporation ID: c77313bb3ebd322f7b4da9e2247e3b95fb1c75ff54c2e7846f9c2d6a2cd02846
 
 [Hades' Star](https://www.hadesstar.com)

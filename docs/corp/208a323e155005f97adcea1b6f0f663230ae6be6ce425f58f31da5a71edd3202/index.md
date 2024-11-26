@@ -4,9 +4,7 @@ title: ​УпсПриехали
 description: W:0 L:1 D:0 Bonus ❌
 date: 1705149299
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1705149299
 | Losses | 1 |
 | Draws | 0 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,13 +115,16 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
 | ❌ | 2024/01/13 | 4-15 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
 
+---
 Corporation ID: 208a323e155005f97adcea1b6f0f663230ae6be6ce425f58f31da5a71edd3202
 
 [Hades' Star](https://www.hadesstar.com)

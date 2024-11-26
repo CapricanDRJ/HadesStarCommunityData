@@ -4,9 +4,7 @@ title: ​2ND-R8 Corp.
 description: W:34 L:16 D:1 Bonus ✅
 date: 1732107622
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ✅
 
@@ -21,6 +19,7 @@ date: 1732107622
 | Streak | 5 |
 | Streak Record | 14 |
 
+---
 
 # Whitestar Match Day
 
@@ -118,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
@@ -128,6 +128,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [星海扬帆](https://ws.tsl.rocks/corp/9cf2d9a2c07a0b8030f9a8275f9ebd3973759c2b60bed95ccb9a3f152aa0b1e4/) | 1 | 1 | 0 | 2 |
 | [元素联邦](https://ws.tsl.rocks/corp/e9d602d617d5c81270107c15a6d1f1717c5016abad802d3629f7f4301a58e95e/) | 0 | 2 | 0 | 2 |
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -184,6 +185,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2023/12/05 | 3-4 | [challenger corp](https://ws.tsl.rocks/corp/7c39adae75191c15a3bab070d08a4cf21efb3b5ec37d69363b7c1060f272d80d/) |
 | ✅ | 2023/11/25 | 3-0 | [Marvel](https://ws.tsl.rocks/corp/e5461f99ba9cca1fb4fe6f543dcfd1a7a7d5a147019c91b1af3cd5b57e69676c/) |
 
+---
 Corporation ID: e97866623598a98454b3a4724b472dc171f5e1aff84b076c43d021f0fabdc702
 
 [Hades' Star](https://www.hadesstar.com)

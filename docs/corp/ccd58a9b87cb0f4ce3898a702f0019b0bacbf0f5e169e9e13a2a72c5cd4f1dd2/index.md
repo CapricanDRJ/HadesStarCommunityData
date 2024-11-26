@@ -4,9 +4,7 @@ title: ​SPACECOWBOYS
 description: W:0 L:1 D:0 Bonus ❌
 date: 1709290891
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1709290891
 | Losses | 1 |
 | Draws | 0 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,13 +115,16 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
 | ❌ | 2024/03/01 | 0-2 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
 
+---
 Corporation ID: ccd58a9b87cb0f4ce3898a702f0019b0bacbf0f5e169e9e13a2a72c5cd4f1dd2
 
 [Hades' Star](https://www.hadesstar.com)

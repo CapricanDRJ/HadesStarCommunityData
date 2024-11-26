@@ -4,9 +4,7 @@ title: ​StellarCorpIT
 description: W:8 L:2 D:0 Bonus ❌
 date: 1728586532
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1728586532
 | Draws | 0 |
 | Streak Record | 5 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,7 +116,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -133,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2024/01/24 | 19-2 | [Гарри Поттер](https://ws.tsl.rocks/corp/f6776b51b0578a0ec96f8674d12c88c324a9e087c9053c0d42153a1a5090a665/) |
 | ✅ | 2023/12/23 | 21-0 | [Cowboys](https://ws.tsl.rocks/corp/f461f65e85a43e0b855a525f6995505fc1cc5ae6f85be50470c9dacbb955fc21/) |
 
+---
 Corporation ID: 7a04d23f7e63879df1e854aaa391473a3a177095a387f75fff1ba98d61d6091f
 
 [Hades' Star](https://www.hadesstar.com)

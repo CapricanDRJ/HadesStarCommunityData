@@ -4,9 +4,7 @@ title: ​Panda clan
 description: W:2 L:3 D:0 Bonus ❌
 date: 1717075472
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -21,6 +19,7 @@ date: 1717075472
 | Streak | 2 |
 | Streak Record | 2 |
 
+---
 
 # Whitestar Match Day
 
@@ -118,7 +117,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -129,6 +130,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2024/02/02 | 5-28 | [Starsailors](https://ws.tsl.rocks/corp/1ffdd1012b5d4a4aca2e0e34e2653630706b779eead835c61c2c715e4df17a1f/) |
 | ❌ | 2024/01/12 | 14-26 | [✡天启✡](https://ws.tsl.rocks/corp/f2d70a86d32ea3a8226afc6d465a6c6540acec572b1c7232994523cdfb299c53/) |
 
+---
 Corporation ID: 7ed113dd0f507f55dbf4d75c26fff0611395492a423c7e9201e7165278d2fd23
 
 [Hades' Star](https://www.hadesstar.com)

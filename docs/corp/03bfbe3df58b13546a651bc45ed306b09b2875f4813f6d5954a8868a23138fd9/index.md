@@ -4,9 +4,7 @@ title: ​Urban Legends
 description: W:1 L:3 D:0 Bonus ❌
 date: 1705760541
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1705760541
 | Losses | 3 |
 | Draws | 0 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,7 +115,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -126,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2023/12/09 | 3-33 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) |
 | ❌ | 2023/11/21 | 17-45 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
 
+---
 Corporation ID: 03bfbe3df58b13546a651bc45ed306b09b2875f4813f6d5954a8868a23138fd9
 
 [Hades' Star](https://www.hadesstar.com)

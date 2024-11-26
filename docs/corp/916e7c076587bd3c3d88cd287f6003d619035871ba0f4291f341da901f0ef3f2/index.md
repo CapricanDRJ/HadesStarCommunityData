@@ -4,9 +4,7 @@ title: ​S.U.N
 description: W:2 L:1 D:0 Bonus ✅
 date: 1732538839
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ✅
 
@@ -21,6 +19,7 @@ date: 1732538839
 | Streak | 2 |
 | Streak Record | 2 |
 
+---
 
 # Whitestar Match Day
 
@@ -118,7 +117,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -127,6 +128,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2024/11/18 | 5-4 | [Planet Express](https://ws.tsl.rocks/corp/6076486f3dce07118a180607ff9893eb5686dc57f65f7ed66d5e473007bd838c/) |
 | ❌ | 2024/11/13 | 0-3 | [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) |
 
+---
 Corporation ID: 916e7c076587bd3c3d88cd287f6003d619035871ba0f4291f341da901f0ef3f2
 
 [Hades' Star](https://www.hadesstar.com)

@@ -4,9 +4,7 @@ title: ​The trade pub
 description: W:25 L:26 D:0 Bonus ❌
 date: 1732445087
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1732445087
 | Draws | 0 |
 | Streak Record | 5 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,6 +116,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
@@ -131,6 +131,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [VoidCorp](https://ws.tsl.rocks/corp/b866417e5607f8434347bb5f986e37c4fa7dda68b3882f0135d186043d3f68a3/) | 1 | 1 | 0 | 2 |
 | [Crux Cadre](https://ws.tsl.rocks/corp/41cdba59897d5e01412601b648c1a692368d92c198123f9ab442f2a23464b375/) | 1 | 1 | 0 | 2 |
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -187,6 +188,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2023/11/16 | 34-3 | [Free Thinkers 2](https://ws.tsl.rocks/corp/9fc879b45c4053ac93d6eebdb14d856a828df8fd85800df616cdd3332683a695/) |
 | ✅ | 2023/11/09 | 27-14 | [Serenity](https://ws.tsl.rocks/corp/729dd8de208cec7b726f7020a744df735fa5d2eeaf4eec44022da4da86fb1f16/) |
 
+---
 Corporation ID: 43689e4266357d8b8d3d66d371109d9aed82ee6df47dc6fa0a7c5da735b9863b
 
 [Hades' Star](https://www.hadesstar.com)

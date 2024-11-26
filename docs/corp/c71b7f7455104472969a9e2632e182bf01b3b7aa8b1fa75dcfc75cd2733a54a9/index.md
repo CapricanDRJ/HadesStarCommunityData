@@ -4,9 +4,7 @@ title: ​萌新收留所
 description: W:2 L:2 D:2 Bonus ❌
 date: 1708678484
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1708678484
 | Losses | 2 |
 | Draws | 2 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,12 +115,14 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) | 0 | 1 | 1 | 2 |
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -133,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2024/01/27 | 2-0 | [Noble](https://ws.tsl.rocks/corp/a743363bbba6a586851cfc2a6c1a567bb1b122f6516757c4f75ed5184a177caf/) |
 | ↔️ | 2024/01/20 | 2-2 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 
+---
 Corporation ID: c71b7f7455104472969a9e2632e182bf01b3b7aa8b1fa75dcfc75cd2733a54a9
 
 [Hades' Star](https://www.hadesstar.com)

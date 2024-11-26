@@ -4,9 +4,7 @@ title: ​遨游星空  kdy分盟
 description: W:13 L:18 D:1 Bonus ❌
 date: 1721625973
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1721625973
 | Draws | 1 |
 | Streak Record | 6 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,6 +116,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [喵喵喵喵喵喵喵](https://ws.tsl.rocks/corp/6f70ed81f6b0fd95da417ce3a268db3bbd0cd3b6e9e188a0e922db3d7f8ac968/) | 3 | 0 | 0 | 3 |
 | [империя тьмы](https://ws.tsl.rocks/corp/4eb22a1b793e5d03579cea15c873b1bef56fea02420a4e55edb18a200f7fc46a/) | 1 | 1 | 0 | 2 |
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -162,6 +163,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2023/11/22 | 0-11 | [边缘世界](https://ws.tsl.rocks/corp/6a0c2b263b0bfabc564979bce02c28c80aae497654fc10637ceb36d5447f6365/) |
 | ✅ | 2023/11/08 | 7-0 | [VALHALLA](https://ws.tsl.rocks/corp/5dc84c56129d08a317ddca9de06937aac5071b542a5abd6aa3ea2b0cca86b0a8/) |
 
+---
 Corporation ID: 74a42c9e5b716ea7c784243c029ad5dc1871f6b81692170099efdf8d3f94ba8f
 
 [Hades' Star](https://www.hadesstar.com)

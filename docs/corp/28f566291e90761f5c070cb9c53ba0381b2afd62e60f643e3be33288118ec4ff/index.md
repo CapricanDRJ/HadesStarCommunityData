@@ -4,9 +4,7 @@ title: ​Astra Ultima
 description: W:0 L:3 D:0 Bonus ❌
 date: 1700916068
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1700916068
 | Losses | 3 |
 | Draws | 0 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,7 +115,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -125,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2023/11/19 | 7-13 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | ❌ | 2023/11/09 | 3-15 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/0c33734edc95a1bac88a9df7e0853a3bd835ea682673f097db1c75d6bb14c8da/) |
 
+---
 Corporation ID: 28f566291e90761f5c070cb9c53ba0381b2afd62e60f643e3be33288118ec4ff
 
 [Hades' Star](https://www.hadesstar.com)

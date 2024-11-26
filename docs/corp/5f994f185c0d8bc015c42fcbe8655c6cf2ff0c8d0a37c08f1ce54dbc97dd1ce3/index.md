@@ -4,9 +4,7 @@ title: ​Veil of Maya
 description: W:4 L:2 D:0 Bonus ❌
 date: 1719574274
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1719574274
 | Draws | 0 |
 | Streak Record | 4 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,7 +116,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -129,6 +130,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2023/11/17 | 9-4 | [Феникс ](https://ws.tsl.rocks/corp/9d72ce9d08fb348fee814de50704adf887fe8aa81f0aaebf12fcc522c9030f63/) |
 | ✅ | 2023/11/11 | 5-1 | [CDG](https://ws.tsl.rocks/corp/0372d45acdd50729ec92e18f0e973f382362ae554f8d15778250b493e887cce2/) |
 
+---
 Corporation ID: 5f994f185c0d8bc015c42fcbe8655c6cf2ff0c8d0a37c08f1ce54dbc97dd1ce3
 
 [Hades' Star](https://www.hadesstar.com)

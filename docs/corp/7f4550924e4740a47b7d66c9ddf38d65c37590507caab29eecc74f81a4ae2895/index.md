@@ -4,9 +4,7 @@ title: ​DeutschlandGmbH
 description: W:6 L:8 D:0 Bonus ❌
 date: 1731859426
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1731859426
 | Draws | 0 |
 | Streak Record | 4 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,7 +116,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -137,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2023/12/21 | 2-6 | [DYLAN](https://ws.tsl.rocks/corp/4c92ec3582be074db571dc198baad7b31951427215e09c4b95a597895406c6a3/) |
 | ❌ | 2023/12/14 | 1-7 | [R\-6 satalite](https://ws.tsl.rocks/corp/ce3450a529768e932b3aeb4c6f39b9295e6e07d010b209d0120c0125799adc43/) |
 
+---
 Corporation ID: 7f4550924e4740a47b7d66c9ddf38d65c37590507caab29eecc74f81a4ae2895
 
 [Hades' Star](https://www.hadesstar.com)

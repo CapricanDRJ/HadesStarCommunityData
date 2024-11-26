@@ -4,9 +4,7 @@ title: ​Sith order
 description: W:1 L:1 D:0 Bonus ❌
 date: 1713871347
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1713871347
 | Losses | 1 |
 | Draws | 0 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,7 +115,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -124,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2024/04/23 | 4-1 | [避难所](https://ws.tsl.rocks/corp/e2cec33caaaef7f020ed5fb31cb29a2804d8b5ab3a781ab69b08fadac88f7102/) |
 | ❌ | 2024/04/09 | 2-6 | [Z\. O\. V\. ](https://ws.tsl.rocks/corp/4f56534357f2407b25faee160f9dca4ee83b8f9ca4425ba472a47298faf54096/) |
 
+---
 Corporation ID: be201ed23ef70cb3557658ffdd92e6ff4fe2af815f0861c1d3fce7ff006cc735
 
 [Hades' Star](https://www.hadesstar.com)

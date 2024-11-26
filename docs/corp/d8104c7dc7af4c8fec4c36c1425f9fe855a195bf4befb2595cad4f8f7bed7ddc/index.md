@@ -4,9 +4,7 @@ title: ​Nearland Ind
 description: W:61 L:22 D:0 Bonus ✅
 date: 1732274407
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ✅
 
@@ -21,6 +19,7 @@ date: 1732274407
 | Streak | 6 |
 | Streak Record | 8 |
 
+---
 
 # Whitestar Match Day
 
@@ -118,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 1 | 1 | 0 | 2 |
 | [Axiom](https://ws.tsl.rocks/corp/4000a010c205d318c766ba14fe1836eaab6652f1738a88cce8a8c69d0283e1b0/) | 2 | 0 | 0 | 2 |
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -226,6 +227,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2023/11/10 | 36-3 | [Spacefleet](https://ws.tsl.rocks/corp/517f7b257f68936f7a95a478d6923776a2549b88897bae628fd35b23572d3cbd/) |
 | ✅ | 2023/11/04 | 35-0 | [Sith Empire](https://ws.tsl.rocks/corp/7deb3943434ee3aa56bb4c29a0fb0831bcbc4b570a58a2809ea1a549b7df328e/) |
 
+---
 Corporation ID: d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc
 
 [Hades' Star](https://www.hadesstar.com)

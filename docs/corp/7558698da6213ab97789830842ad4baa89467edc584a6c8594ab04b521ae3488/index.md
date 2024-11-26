@@ -4,9 +4,7 @@ title: ​Тёмный Феникс
 description: W:0 L:10 D:0 Bonus ❌
 date: 1725661259
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1725661259
 | Losses | 10 |
 | Draws | 0 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,7 +115,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -132,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2024/01/18 | 5-32 | [Embers Rising](https://ws.tsl.rocks/corp/30173fb6f0cf7a6d78f30c60350646ad6bc0d667a14854bdc9abbc19cd7d0327/) |
 | ❌ | 2023/11/15 | 0-3 | [Dumpster Fire](https://ws.tsl.rocks/corp/f191bf7efb93ca805453b3e11aef9278976a4c70fe9790e7813f28fcdf899121/) |
 
+---
 Corporation ID: 7558698da6213ab97789830842ad4baa89467edc584a6c8594ab04b521ae3488
 
 [Hades' Star](https://www.hadesstar.com)

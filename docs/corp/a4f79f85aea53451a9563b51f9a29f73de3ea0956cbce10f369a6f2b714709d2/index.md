@@ -4,9 +4,7 @@ title: ​0v0
 description: W:0 L:1 D:0 Bonus ❌
 date: 1725764921
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1725764921
 | Losses | 1 |
 | Draws | 0 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,13 +115,16 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
 | ❌ | 2024/09/08 | 0-8 | [ДИᏰEPℂДℍTᏰℓ](https://ws.tsl.rocks/corp/a1dad8a2a2c5ab935169d168bc19f8a1db7f12b099358e079cb7221a340345ed/) |
 
+---
 Corporation ID: a4f79f85aea53451a9563b51f9a29f73de3ea0956cbce10f369a6f2b714709d2
 
 [Hades' Star](https://www.hadesstar.com)

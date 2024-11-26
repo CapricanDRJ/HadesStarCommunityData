@@ -4,9 +4,7 @@ title: ​Raptor Armada
 description: W:1 L:0 D:0 Bonus ❌
 date: 1728728667
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1728728667
 | Losses | 0 |
 | Draws | 0 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,13 +115,16 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
 | ✅ | 2024/10/12 | 10-3 | [CIS](https://ws.tsl.rocks/corp/3efaab24560531ff257e73bfb281a7e9c0a9d591ac5aff55d05d35f2fb5e1d73/) |
 
+---
 Corporation ID: 5964326e22b48ad60773cb2b0c3bc3650edca9d8e23962ec4ac9981c052d2b7b
 
 [Hades' Star](https://www.hadesstar.com)

@@ -4,9 +4,7 @@ title: ​Rogue Hero's
 description: W:1 L:0 D:0 Bonus ❌
 date: 1706926239
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1706926239
 | Losses | 0 |
 | Draws | 0 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,13 +115,16 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
 | ✅ | 2024/02/03 | 31-1 | [Gallaecia](https://ws.tsl.rocks/corp/4ab98cfc4948a6b1706e3527686ce3fd29eead3cdf4cf00ee2dfde925ba55515/) |
 
+---
 Corporation ID: a1c2437de3e0bbe4c42481ff156cf7b2b96231991aa3d337180fbe30d254857b
 
 [Hades' Star](https://www.hadesstar.com)

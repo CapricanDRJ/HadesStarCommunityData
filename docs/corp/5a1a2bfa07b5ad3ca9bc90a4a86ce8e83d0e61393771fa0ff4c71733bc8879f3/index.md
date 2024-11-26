@@ -4,9 +4,7 @@ title: ​海賊ギルド
 description: W:5 L:17 D:0 Bonus ❌
 date: 1712643896
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1712643896
 | Draws | 0 |
 | Streak Record | 2 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,12 +116,14 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) | 0 | 3 | 0 | 3 |
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -150,6 +151,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2023/11/14 | 0-15 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | ✅ | 2023/11/06 | 26-18 | [RUSSIAN TEAM](https://ws.tsl.rocks/corp/ddbe305c7b079ebdf054b4483e2d445276c9a95fb7beea61ba9e35cabdef0162/) |
 
+---
 Corporation ID: 5a1a2bfa07b5ad3ca9bc90a4a86ce8e83d0e61393771fa0ff4c71733bc8879f3
 
 [Hades' Star](https://www.hadesstar.com)

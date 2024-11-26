@@ -4,9 +4,7 @@ title: ​Bounty Hunters
 description: W:7 L:6 D:0 Bonus ❌
 date: 1730214778
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1730214778
 | Draws | 0 |
 | Streak Record | 3 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,7 +116,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -136,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2024/01/13 | 39-14 | [ITA](https://ws.tsl.rocks/corp/4b7ed90565c5e7d463f7a7dcecab17ae3f6c93cd6b75b77bece4bfad9cfe9626/) |
 | ❌ | 2024/01/07 | 5-13 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) |
 
+---
 Corporation ID: d44b4a2b4a57fd50845c39abe5c6b0a38bab694941fed09d3ca164c1d78625ea
 
 [Hades' Star](https://www.hadesstar.com)

@@ -4,9 +4,7 @@ title: ​德意志第三帝国BATA分部
 description: W:1 L:0 D:0 Bonus ❌
 date: 1708953767
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1708953767
 | Losses | 0 |
 | Draws | 0 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,13 +115,16 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
 | ✅ | 2024/02/26 | 16-0 | [Sector7](https://ws.tsl.rocks/corp/2608118ec348769a1cdc34c18b3198903677007199f1d6feec34de0d74d2944f/) |
 
+---
 Corporation ID: 3bd6b2c1691e410f94a5040b7303128f1a56eb5a26308033de3c4e279d748208
 
 [Hades' Star](https://www.hadesstar.com)

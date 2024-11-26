@@ -4,9 +4,7 @@ title: ​KhaOSs
 description: W:0 L:2 D:0 Bonus ❌
 date: 1712955503
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1712955503
 | Losses | 2 |
 | Draws | 0 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,7 +115,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -124,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2024/04/12 | 0-11 | [Shrimp City](https://ws.tsl.rocks/corp/eae9b3a1f9dd6b4a1fb39d6aedfe84a80662abe6b181bedcfd7ec15d931b8e84/) |
 | ❌ | 2024/03/25 | 1-5 | [Anarchy Nation ](https://ws.tsl.rocks/corp/9c456dbf32e22070620021bf0bea4d2ab9deb0ac7ad4be06a4067a9ced5f2f5b/) |
 
+---
 Corporation ID: 95c40ecac6f4ca7ecd66a5c1e79c568a9486ba450cf71becee48329599573c88
 
 [Hades' Star](https://www.hadesstar.com)

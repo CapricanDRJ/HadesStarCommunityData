@@ -4,9 +4,7 @@ title: ​Revelation
 description: W:3 L:4 D:0 Bonus ❌
 date: 1707180175
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1707180175
 | Draws | 0 |
 | Streak Record | 2 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,7 +116,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -130,6 +131,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2023/11/20 | 20-3 | [Death Flight 1\.](https://ws.tsl.rocks/corp/9c3a6232c7aaa991745686dbc2efb82907b20bb2a5b5963ff2ae61a768c1405e/) |
 | ✅ | 2023/11/13 | 14-3 | [Alpha ](https://ws.tsl.rocks/corp/accb87a59c1f019d1be37fa2b19ae2aeb35c4a995d1d621a8e987065cd1328fe/) |
 
+---
 Corporation ID: e9b22a24d853613b0ebd6fb2e70994410d4ff4323a002da5f0bece764e81374a
 
 [Hades' Star](https://www.hadesstar.com)

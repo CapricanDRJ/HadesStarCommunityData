@@ -4,9 +4,7 @@ title: ​Aconitum
 description: W:1 L:0 D:0 Bonus ❌
 date: 1699715904
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1699715904
 | Losses | 0 |
 | Draws | 0 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,13 +115,16 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
 | ✅ | 2023/11/11 | 24-0 | [The Picard](https://ws.tsl.rocks/corp/e9a6cae99e308f9c70625e04162b887239bea0d52463d7a3ed53464fdd906d0b/) |
 
+---
 Corporation ID: a78154f5b970193636f3d13d3f6d3dd98e975ba876810f1bfb84c90e778986db
 
 [Hades' Star](https://www.hadesstar.com)

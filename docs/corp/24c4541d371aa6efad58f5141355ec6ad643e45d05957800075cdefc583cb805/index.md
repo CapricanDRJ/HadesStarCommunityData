@@ -4,9 +4,7 @@ title: ​Spaceforce
 description: W:2 L:6 D:0 Bonus ❌
 date: 1729538944
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1729538944
 | Losses | 6 |
 | Draws | 0 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,7 +115,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -130,6 +131,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2024/08/01 | 0-27 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |
 | ❌ | 2024/03/17 | 0-42 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 
+---
 Corporation ID: 24c4541d371aa6efad58f5141355ec6ad643e45d05957800075cdefc583cb805
 
 [Hades' Star](https://www.hadesstar.com)

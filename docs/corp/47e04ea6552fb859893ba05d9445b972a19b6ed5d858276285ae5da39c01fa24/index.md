@@ -4,9 +4,7 @@ title: ​The Order
 description: W:1 L:3 D:0 Bonus ❌
 date: 1732105819
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1732105819
 | Losses | 3 |
 | Draws | 0 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,7 +115,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -126,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2023/12/08 | 0-3 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ✅ | 2023/11/28 | 1-0 | [Lost City Corp\.](https://ws.tsl.rocks/corp/ae474b6537b8452d7c362f9284154d65eb629f909ca66d5b564417fab7df42ec/) |
 
+---
 Corporation ID: 47e04ea6552fb859893ba05d9445b972a19b6ed5d858276285ae5da39c01fa24
 
 [Hades' Star](https://www.hadesstar.com)

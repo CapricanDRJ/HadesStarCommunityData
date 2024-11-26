@@ -4,9 +4,7 @@ title: ​You win
 description: W:0 L:5 D:0 Bonus ❌
 date: 1730710906
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1730710906
 | Losses | 5 |
 | Draws | 0 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,7 +115,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -127,6 +128,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2024/10/12 | 0-8 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) |
 | ❌ | 2024/10/07 | 0-49 | [Ninth Planet](https://ws.tsl.rocks/corp/53297ed66c8c326d4cb4eebdee55172d3d64f122addd5d916b314f4ab557e21a/) |
 
+---
 Corporation ID: ef294c88bc4f619d194e6b676f35ad1bfb559c9059d0aa53d22e49235f9d43aa
 
 [Hades' Star](https://www.hadesstar.com)

@@ -4,9 +4,7 @@ title: ​Lacuna Academy
 description: W:15 L:2 D:0 Bonus ❌
 date: 1718228706
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -21,6 +19,7 @@ date: 1718228706
 | Streak | 5 |
 | Streak Record | 7 |
 
+---
 
 # Whitestar Match Day
 
@@ -118,7 +117,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -141,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2024/01/24 | 14-0 | [Venture](https://ws.tsl.rocks/corp/a48bd30701e4a563543ff54e7c8091cc6b5d0e972c70e4de279a93f4df2f24b0/) |
 | ✅ | 2024/01/10 | 19-0 | [Shrimp City](https://ws.tsl.rocks/corp/eae9b3a1f9dd6b4a1fb39d6aedfe84a80662abe6b181bedcfd7ec15d931b8e84/) |
 
+---
 Corporation ID: ed67ca44432a8fad3aec6fab3e7f305d394d2b41844391fd29e1ce2b316b336b
 
 [Hades' Star](https://www.hadesstar.com)

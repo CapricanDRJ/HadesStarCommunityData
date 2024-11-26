@@ -4,9 +4,7 @@ title: ​星际联盟（中国）
 description: W:8 L:13 D:2 Bonus ❌
 date: 1725005845
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1725005845
 | Draws | 2 |
 | Streak Record | 2 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,12 +116,14 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
 | [lesescargots](https://ws.tsl.rocks/corp/718c873931e9097064fd6ef580fe9d8761be712e0783e0b97d28344abd910623/) | 1 | 1 | 0 | 2 |
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -151,6 +152,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2024/02/01 | 16-0 | [Lolis Corp](https://ws.tsl.rocks/corp/d6663acac05de61dd9abca4431836324a8d8d898ad6c475836a0b0459da97c30/) |
 | ✅ | 2024/01/03 | 15-1 | [Türk Yıldızları](https://ws.tsl.rocks/corp/901147b3fe4ec963eae03573b8213b490796bf22e3d9ba20d61af7c444690cac/) |
 
+---
 Corporation ID: 1deb8ab45257a86051f9c285bbbe06652a56d93118d8e442a0a30ddd179f4256
 
 [Hades' Star](https://www.hadesstar.com)

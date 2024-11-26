@@ -4,9 +4,7 @@ title: ​지고받자
 description: W:0 L:9 D:0 Bonus ❌
 date: 1703129890
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1703129890
 | Losses | 9 |
 | Draws | 0 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,7 +115,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -131,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2023/11/08 | 6-20 | [Regulus](https://ws.tsl.rocks/corp/2ac7f4a924f351d9e8a57c7bd7cb88bb810dd028acab61baf5f38f0ffc7cf559/) |
 | ❌ | 2023/11/08 | 0-14 | [Yellow Dwarf ](https://ws.tsl.rocks/corp/fe10da4425591ab699e78f02fbfbf1ffa3b132bce029a23d9df715b2d854a0da/) |
 
+---
 Corporation ID: 7172d4e10205869e535b82bbdfc5fea3978414c420bade9a1f96cf10c8e4855d
 
 [Hades' Star](https://www.hadesstar.com)

@@ -4,9 +4,7 @@ title: ​PERSEUS INC.
 description: W:1 L:0 D:0 Bonus ❌
 date: 1718516310
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1718516310
 | Losses | 0 |
 | Draws | 0 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,13 +115,16 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
 | ✅ | 2024/06/16 | 12-0 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) |
 
+---
 Corporation ID: 74254b87278cb09756c2ca0ae79b56f2fd796046409426ab84139a64cb32c87a
 
 [Hades' Star](https://www.hadesstar.com)

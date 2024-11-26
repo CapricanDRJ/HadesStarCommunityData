@@ -4,9 +4,7 @@ title: ​Bunker
 description: W:30 L:29 D:1 Bonus ❌
 date: 1725445905
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1725445905
 | Draws | 1 |
 | Streak Record | 6 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,6 +116,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
@@ -127,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [绛紫星](https://ws.tsl.rocks/corp/8c2109279ceb01bcca0aa5e85c151d5877831ac54199285743750e2ed343b407/) | 1 | 1 | 0 | 2 |
 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) | 1 | 0 | 1 | 2 |
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -192,6 +193,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2023/12/09 | 0-14 | [绛紫星](https://ws.tsl.rocks/corp/8c2109279ceb01bcca0aa5e85c151d5877831ac54199285743750e2ed343b407/) |
 | ❌ | 2023/11/24 | 3-14 | [Galaxian](https://ws.tsl.rocks/corp/5dcf6b30fe7412dfe10c7f88aacc5e5ec1d63a2ea3df0084c393b9e20c34ee97/) |
 
+---
 Corporation ID: 583eeb4aaa577ce5d9806fc637f83d7c02b2a29fa2d47eb38fd658be8ef93588
 
 [Hades' Star](https://www.hadesstar.com)

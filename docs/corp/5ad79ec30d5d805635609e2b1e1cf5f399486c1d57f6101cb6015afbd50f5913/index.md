@@ -4,9 +4,7 @@ title: ​9-Й СКОРПИОН
 description: W:30 L:7 D:0 Bonus ❌
 date: 1732266294
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1732266294
 | Draws | 0 |
 | Streak Record | 14 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,6 +116,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) | 1 | 1 | 0 | 2 |
 | [Kratos](https://ws.tsl.rocks/corp/1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b/) | 2 | 0 | 0 | 2 |
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -167,6 +168,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2024/02/02 | 19-0 | [Thunderbears](https://ws.tsl.rocks/corp/904c85a40298fe616763ce7bc9ac0534ab1d9dd69151c63308a3906f2eb07d54/) |
 | ❌ | 2024/01/02 | 2-25 | [墨痕白星分部](https://ws.tsl.rocks/corp/b427cd42ba647399d1a25712254def04083c0a9c2d7faa5c77138050f414c0da/) |
 
+---
 Corporation ID: 5ad79ec30d5d805635609e2b1e1cf5f399486c1d57f6101cb6015afbd50f5913
 
 [Hades' Star](https://www.hadesstar.com)

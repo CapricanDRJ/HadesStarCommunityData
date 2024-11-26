@@ -4,9 +4,7 @@ title: ​星约组织：基地分团
 description: W:0 L:1 D:0 Bonus ❌
 date: 1732094100
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1732094100
 | Losses | 1 |
 | Draws | 0 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,13 +115,16 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
 | ❌ | 2024/11/20 | 3-6 | [蓝星集团](https://ws.tsl.rocks/corp/9d718b80beaf9682ccde175169372b72f70b75bb593770762dfc9e990cbd098a/) |
 
+---
 Corporation ID: 65d5754facd0f6a7ee7bd84567ea263d8002e24a754d36c982598d5552b1830b
 
 [Hades' Star](https://www.hadesstar.com)

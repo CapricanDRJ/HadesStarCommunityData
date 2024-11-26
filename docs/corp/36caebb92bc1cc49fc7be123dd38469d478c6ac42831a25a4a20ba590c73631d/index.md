@@ -4,9 +4,7 @@ title: ​海澜之家
 description: W:2 L:3 D:0 Bonus ❌
 date: 1725749001
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1725749001
 | Losses | 3 |
 | Draws | 0 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,7 +115,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -127,6 +128,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2024/08/21 | 0-10 | [使命白星](https://ws.tsl.rocks/corp/88e828c55c07286950a3296b00ca2a7a9cc2f1a0139e9cf4c6e54229f821e952/) |
 | ❌ | 2024/06/19 | 3-7 | [Star Fleet](https://ws.tsl.rocks/corp/b50e0529c2b2e86bae23d0fb4cbcdc4bff7615c45efb95150747a89dd3ea0231/) |
 
+---
 Corporation ID: 36caebb92bc1cc49fc7be123dd38469d478c6ac42831a25a4a20ba590c73631d
 
 [Hades' Star](https://www.hadesstar.com)

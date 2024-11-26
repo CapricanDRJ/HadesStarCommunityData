@@ -4,9 +4,7 @@ title: ​КРЫЛЯ ФЕНИКСА
 description: W:6 L:7 D:0 Bonus ❌
 date: 1731180289
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1731180289
 | Draws | 0 |
 | Streak Record | 3 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,7 +116,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -136,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2024/02/23 | 4-10 | [Kratos](https://ws.tsl.rocks/corp/1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b/) |
 | ✅ | 2024/02/09 | 11-1 | [Венерский Союз](https://ws.tsl.rocks/corp/6d869628a64fc11a17264dacfd741e7d603069d526d32a166c48ff7fd9499bf6/) |
 
+---
 Corporation ID: a7852d9224a29d8a8b12b07f0985cf455ee57c9a7b5fed73f08ab733e8de733b
 
 [Hades' Star](https://www.hadesstar.com)

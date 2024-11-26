@@ -4,9 +4,7 @@ title: ​PSI Division
 description: W:0 L:1 D:1 Bonus ❌
 date: 1727192499
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1727192499
 | Losses | 1 |
 | Draws | 1 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,7 +115,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -124,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ↔️ | 2024/09/24 | 0-0 | [闲散人员](https://ws.tsl.rocks/corp/4f0fa774b66e4f744a305525f92e7252205ae754df0f3982b577b32caf32cdbc/) |
 | ❌ | 2024/09/19 | 0-9 | [哈迪斯之星，启动！](https://ws.tsl.rocks/corp/bc58305a02f7392f340d26a3becd4784de7360dd5264df9e85d73116b93496d8/) |
 
+---
 Corporation ID: b6549a4c0bb6981743707147c9f2ff90fbe8fc246d19b363ed45489c8d71fc63
 
 [Hades' Star](https://www.hadesstar.com)

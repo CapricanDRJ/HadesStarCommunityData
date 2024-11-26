@@ -4,9 +4,7 @@ title: ​银河护卫队
 description: W:4 L:7 D:1 Bonus ✅
 date: 1732015372
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ✅
 
@@ -20,6 +18,7 @@ date: 1732015372
 | Draws | 1 |
 | Streak Record | 2 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,7 +116,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -135,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2024/10/07 | 0-19 | [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) |
 | ✅ | 2024/09/23 | 4-2 | [Omega corp](https://ws.tsl.rocks/corp/17140be6e5915edf2d09ebcf246a7c2650cf39def04823c9a04bdf81ff8fc38e/) |
 
+---
 Corporation ID: e522df7ad34eabee08393efb864d53bdc897d0ad187170616d6ef924df5c7267
 
 [Hades' Star](https://www.hadesstar.com)

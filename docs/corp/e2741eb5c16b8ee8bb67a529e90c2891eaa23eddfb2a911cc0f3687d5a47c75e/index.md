@@ -4,9 +4,7 @@ title: ​Blood Hounds
 description: W:75 L:19 D:1 Bonus ✅
 date: 1732094100
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ✅
 
@@ -21,6 +19,7 @@ date: 1732094100
 | Streak | 2 |
 | Streak Record | 15 |
 
+---
 
 # Whitestar Match Day
 
@@ -118,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) | 0 | 2 | 0 | 2 |
 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) | 0 | 2 | 0 | 2 |
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -235,6 +236,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2023/12/15 | 17-0 | [Continuance](https://ws.tsl.rocks/corp/2c3f87013563292fdca83c5200da0bb1668b92a27af7ff4fa19968b5e4d54de0/) |
 | ✅ | 2023/12/08 | 17-4 | [Best UA West](https://ws.tsl.rocks/corp/4d9a4fb86f55f49b64d6170705b42f7a2c988cc389331425c13603b0ebce6146/) |
 
+---
 Corporation ID: e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e
 
 [Hades' Star](https://www.hadesstar.com)

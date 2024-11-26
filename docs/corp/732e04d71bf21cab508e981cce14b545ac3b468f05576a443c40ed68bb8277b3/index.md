@@ -4,9 +4,7 @@ title: ​白星成就团
 description: W:0 L:2 D:0 Bonus ❌
 date: 1732197779
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1732197779
 | Losses | 2 |
 | Draws | 0 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,7 +115,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -124,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2024/11/21 | 0-37 | [lonewolf](https://ws.tsl.rocks/corp/216c1ab0bb2cbf918019c0a38a37820a9d5d78d7c5801983ed6e3b17bebdc5f3/) |
 | ❌ | 2024/11/16 | 0-10 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) |
 
+---
 Corporation ID: 732e04d71bf21cab508e981cce14b545ac3b468f05576a443c40ed68bb8277b3
 
 [Hades' Star](https://www.hadesstar.com)

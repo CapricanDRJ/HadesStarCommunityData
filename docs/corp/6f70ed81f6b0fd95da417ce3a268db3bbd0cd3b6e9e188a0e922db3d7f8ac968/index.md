@@ -4,9 +4,7 @@ title: ​喵喵喵喵喵喵喵
 description: W:0 L:7 D:2 Bonus ❌
 date: 1713636340
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1713636340
 | Losses | 7 |
 | Draws | 2 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,12 +115,14 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
 | [遨游星空  kdy分盟](https://ws.tsl.rocks/corp/74a42c9e5b716ea7c784243c029ad5dc1871f6b81692170099efdf8d3f94ba8f/) | 0 | 3 | 0 | 3 |
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -136,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2024/03/23 | 0-4 | [Saiyan Empire](https://ws.tsl.rocks/corp/6ce5e1ac078a6c9bcc97cd02556b9015bc614c88ed6a48e3681697c0beb4c164/) |
 | ❌ | 2024/03/23 | 0-24 | [初始之音](https://ws.tsl.rocks/corp/79f48676f0ad15541a751311b97bae91c977d65480891a675585fc396c20bdb9/) |
 
+---
 Corporation ID: 6f70ed81f6b0fd95da417ce3a268db3bbd0cd3b6e9e188a0e922db3d7f8ac968
 
 [Hades' Star](https://www.hadesstar.com)

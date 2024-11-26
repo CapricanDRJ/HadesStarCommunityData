@@ -4,9 +4,7 @@ title: ​아베노노
 description: W:4 L:3 D:1 Bonus ❌
 date: 1731028163
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -21,6 +19,7 @@ date: 1731028163
 | Streak | 2 |
 | Streak Record | 2 |
 
+---
 
 # Whitestar Match Day
 
@@ -118,7 +117,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -132,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2023/12/17 | 5-0 | [mijael siuuuuuu](https://ws.tsl.rocks/corp/45ca23a78c96de3dd53a33f7c9f029b7dc5edf0fb7f15e5d46f1893c68d28334/) |
 | ↔️ | 2023/12/12 | 0-0 | [Paramedic ICU](https://ws.tsl.rocks/corp/2b046351c951cf9e05492ee383c44783b21c628831f51b1a04c9e5404b9b9fa3/) |
 
+---
 Corporation ID: b6a4ffffbabc8bf90d3ae19467aa6ce98c4a3ceb136af04fd24a43406f8f830f
 
 [Hades' Star](https://www.hadesstar.com)

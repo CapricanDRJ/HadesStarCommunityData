@@ -4,9 +4,7 @@ title: ​REY DE REYES
 description: W:1 L:12 D:0 Bonus ❌
 date: 1728409213
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1728409213
 | Losses | 12 |
 | Draws | 0 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,7 +115,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -135,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2024/02/23 | 2-0 | [Ukraine](https://ws.tsl.rocks/corp/b5cbc09cd1dc9356c73eaab3b70c1e8a08578a09dd0b80c557f77798c94c8fc3/) |
 | ❌ | 2023/11/22 | 0-11 | [神仙'](https://ws.tsl.rocks/corp/2a865ec8658a1843c5442405aa7be1fd9e44cf058568802ca1de6610499fa973/) |
 
+---
 Corporation ID: 3400c8c832317ae214792a1e1ce914867af247bc0b4f021bd71a18e977cb60cb
 
 [Hades' Star](https://www.hadesstar.com)

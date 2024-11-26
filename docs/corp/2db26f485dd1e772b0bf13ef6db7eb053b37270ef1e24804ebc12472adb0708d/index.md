@@ -4,9 +4,7 @@ title: ​ZN•H2B
 description: W:4 L:9 D:0 Bonus ❌
 date: 1720840648
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1720840648
 | Draws | 0 |
 | Streak Record | 2 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,7 +116,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -136,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2024/01/07 | 5-0 | [СОЮЗ\-2](https://ws.tsl.rocks/corp/7e076cd14646574c68e4d0e7c102c73ebd4e5517c2e3860bdda55e5d9c0f9ac1/) |
 | ❌ | 2024/01/02 | 0-7 | [DYLAN](https://ws.tsl.rocks/corp/4c92ec3582be074db571dc198baad7b31951427215e09c4b95a597895406c6a3/) |
 
+---
 Corporation ID: 2db26f485dd1e772b0bf13ef6db7eb053b37270ef1e24804ebc12472adb0708d
 
 [Hades' Star](https://www.hadesstar.com)

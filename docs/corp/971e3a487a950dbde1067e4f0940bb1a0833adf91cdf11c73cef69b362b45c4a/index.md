@@ -4,9 +4,7 @@ title: ​云浪度假村↕
 description: W:2 L:6 D:1 Bonus ❌
 date: 1711163867
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1711163867
 | Draws | 1 |
 | Streak Record | 2 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,12 +116,14 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
 | [Gemini↕     ☁](https://ws.tsl.rocks/corp/e4ad99f1420e8e1fca3363f6a3fae37de7f090a51076858f5be146343099c088/) | 0 | 1 | 1 | 2 |
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -137,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2023/12/03 | 9-3 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
 | ✅ | 2023/11/22 | 7-3 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
 
+---
 Corporation ID: 971e3a487a950dbde1067e4f0940bb1a0833adf91cdf11c73cef69b362b45c4a
 
 [Hades' Star](https://www.hadesstar.com)

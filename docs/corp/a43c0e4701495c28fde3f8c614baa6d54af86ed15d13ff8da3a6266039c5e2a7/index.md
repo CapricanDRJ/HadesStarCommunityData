@@ -4,9 +4,7 @@ title: ​Hades Seminary
 description: W:2 L:1 D:0 Bonus ❌
 date: 1707434406
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1707434406
 | Losses | 1 |
 | Draws | 0 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,7 +115,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -125,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2024/01/16 | 7-11 | [ZION](https://ws.tsl.rocks/corp/99ac8e5c0f22878b9a4458953d0c712ada17ef36ae195ccf39c7921dc996adfe/) |
 | ✅ | 2024/01/07 | 3-2 | [Sector7](https://ws.tsl.rocks/corp/2608118ec348769a1cdc34c18b3198903677007199f1d6feec34de0d74d2944f/) |
 
+---
 Corporation ID: a43c0e4701495c28fde3f8c614baa6d54af86ed15d13ff8da3a6266039c5e2a7
 
 [Hades' Star](https://www.hadesstar.com)

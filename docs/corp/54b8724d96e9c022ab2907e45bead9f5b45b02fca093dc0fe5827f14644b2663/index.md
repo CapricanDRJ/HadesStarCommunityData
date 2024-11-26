@@ -4,9 +4,7 @@ title: ​IMPERIAL ARMADA
 description: W:26 L:1 D:0 Bonus ✅
 date: 1731976017
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ✅
 
@@ -21,6 +19,7 @@ date: 1731976017
 | Streak | 5 |
 | Streak Record | 21 |
 
+---
 
 # Whitestar Match Day
 
@@ -118,7 +117,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -151,6 +152,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2023/12/14 | 12-7 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
 | ✅ | 2023/12/01 | 4-2 | [From the Fire](https://ws.tsl.rocks/corp/df5d313a4fe6681f19a6d47d364e4611a1e9c840abf8f6978cfa2418cb0e37cf/) |
 
+---
 Corporation ID: 54b8724d96e9c022ab2907e45bead9f5b45b02fca093dc0fe5827f14644b2663
 
 [Hades' Star](https://www.hadesstar.com)

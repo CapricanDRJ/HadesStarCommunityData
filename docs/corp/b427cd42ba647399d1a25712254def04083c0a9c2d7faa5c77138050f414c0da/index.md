@@ -4,9 +4,7 @@ title: ​墨痕白星分部
 description: W:9 L:7 D:0 Bonus ❌
 date: 1709307723
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1709307723
 | Draws | 0 |
 | Streak Record | 5 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,7 +116,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -139,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2024/01/08 | 8-3 | [V0RTEX](https://ws.tsl.rocks/corp/22a12c757b3e065e8ec7a839b80e33339317bb277aeee145f6cde6f473e06f8f/) |
 | ✅ | 2024/01/02 | 25-2 | [9\-Й СКОРПИОН](https://ws.tsl.rocks/corp/5ad79ec30d5d805635609e2b1e1cf5f399486c1d57f6101cb6015afbd50f5913/) |
 
+---
 Corporation ID: b427cd42ba647399d1a25712254def04083c0a9c2d7faa5c77138050f414c0da
 
 [Hades' Star](https://www.hadesstar.com)

@@ -4,9 +4,7 @@ title: ​alienigenas
 description: W:7 L:5 D:0 Bonus ❌
 date: 1729863503
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1729863503
 | Draws | 0 |
 | Streak Record | 3 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,7 +116,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -135,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2023/12/01 | 14-20 | [Battlestar Fr](https://ws.tsl.rocks/corp/fa82ca5593a431614d1bf5f7c170fee2eeebb55354a86d2d7cd6dd48c4e05edc/) |
 | ❌ | 2023/11/17 | 5-17 | [Gemini Ind\.](https://ws.tsl.rocks/corp/c85dd45ed75136d750bdcc2d83740494dea9e0ba077eac1bbb2f1a442a92674c/) |
 
+---
 Corporation ID: 1c092f1b0e9645193eac68e27b29b2b9fef39474fd8924495abec6754857a8f9
 
 [Hades' Star](https://www.hadesstar.com)

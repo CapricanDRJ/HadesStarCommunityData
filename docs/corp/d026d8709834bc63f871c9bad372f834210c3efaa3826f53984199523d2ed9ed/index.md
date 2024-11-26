@@ -4,9 +4,7 @@ title: ​万星联盟
 description: W:31 L:4 D:0 Bonus ✅
 date: 1732460414
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ✅
 
@@ -21,6 +19,7 @@ date: 1732460414
 | Streak | 8 |
 | Streak Record | 10 |
 
+---
 
 # Whitestar Match Day
 
@@ -118,12 +117,14 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
 | [以太超星团](https://ws.tsl.rocks/corp/327addf616128dc5b01013e29e850c76d22ae27af199bcc6bba3b92cee7818ae/) | 2 | 0 | 0 | 2 |
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -164,6 +165,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2024/05/17 | 4-0 | [Venture](https://ws.tsl.rocks/corp/a48bd30701e4a563543ff54e7c8091cc6b5d0e972c70e4de279a93f4df2f24b0/) |
 | ✅ | 2024/05/01 | 14-0 | [STRVS233～](https://ws.tsl.rocks/corp/727f6b88132c5850b1ef7ad02101bab3f97fc5dd191307dffca64181bf41e614/) |
 
+---
 Corporation ID: d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed
 
 [Hades' Star](https://www.hadesstar.com)

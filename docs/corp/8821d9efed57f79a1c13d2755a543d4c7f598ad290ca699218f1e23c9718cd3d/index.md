@@ -4,9 +4,7 @@ title: ​小红色太阳
 description: W:0 L:2 D:0 Bonus ❌
 date: 1723272781
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1723272781
 | Losses | 2 |
 | Draws | 0 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,7 +115,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -124,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2024/08/10 | 0-3 | [逐光起航](https://ws.tsl.rocks/corp/e6bb076aa209101b5fa1cbc40a614c241d71ab5eca143c733b81aed6302455e8/) |
 | ❌ | 2024/01/08 | 0-10 | [korea](https://ws.tsl.rocks/corp/2071b0b6ab886c36f36fb357ab33234b4d364e79aae36f5d3387e8ada44962ac/) |
 
+---
 Corporation ID: 8821d9efed57f79a1c13d2755a543d4c7f598ad290ca699218f1e23c9718cd3d
 
 [Hades' Star](https://www.hadesstar.com)

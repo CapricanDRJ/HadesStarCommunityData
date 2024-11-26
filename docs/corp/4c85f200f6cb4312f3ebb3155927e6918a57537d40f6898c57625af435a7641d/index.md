@@ -4,9 +4,7 @@ title: ​LOST PIRATES
 description: W:0 L:5 D:0 Bonus ❌
 date: 1702944764
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1702944764
 | Losses | 5 |
 | Draws | 0 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,7 +115,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -127,6 +128,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2023/12/01 | 3-42 | [Sad Panda 2\.0](https://ws.tsl.rocks/corp/74aed8be82b78aae23f7cdb815f2124496aee03eb68115e20ce9073444d3430c/) |
 | ❌ | 2023/11/17 | 0-7 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
 
+---
 Corporation ID: 4c85f200f6cb4312f3ebb3155927e6918a57537d40f6898c57625af435a7641d
 
 [Hades' Star](https://www.hadesstar.com)

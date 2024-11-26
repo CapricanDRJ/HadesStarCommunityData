@@ -4,9 +4,7 @@ title: ​Space Donuts
 description: W:4 L:4 D:0 Bonus ❌
 date: 1729304228
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -21,6 +19,7 @@ date: 1729304228
 | Streak | 2 |
 | Streak Record | 2 |
 
+---
 
 # Whitestar Match Day
 
@@ -118,7 +117,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -132,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2023/11/13 | 6-19 | [Elite](https://ws.tsl.rocks/corp/4ef70b4cf666928ffd82d4e5278e42bb9edc22aa4a1e9d4e3c08ce9865d59fd9/) |
 | ❌ | 2023/11/07 | 4-22 | [Stone Legion](https://ws.tsl.rocks/corp/60cd15c27192f777f2e4abc413a83d4ab33bbccd7764a387afd2347dcd3d751a/) |
 
+---
 Corporation ID: 50895e5bb0a19e8fde1c7f28e39fc0f170cbc2743a9f1ba45a88bce067d99152
 
 [Hades' Star](https://www.hadesstar.com)

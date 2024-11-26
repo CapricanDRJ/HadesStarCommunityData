@@ -4,9 +4,7 @@ title: ​萌新港
 description: W:0 L:1 D:1 Bonus ❌
 date: 1699709894
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1699709894
 | Losses | 1 |
 | Draws | 1 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,7 +115,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -124,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2023/11/11 | 4-16 | [Nova Time](https://ws.tsl.rocks/corp/0f1c182652387799cfc3a59082f52a2b01201b13336d84760eab107fb1934ce0/) |
 | ↔️ | 2023/11/05 | 11-11 | [边缘世界](https://ws.tsl.rocks/corp/6a0c2b263b0bfabc564979bce02c28c80aae497654fc10637ceb36d5447f6365/) |
 
+---
 Corporation ID: 7b4125f2900eb0184722a2a53528bb21dd165ea3612dfa8de6ca0ebf2aea0861
 
 [Hades' Star](https://www.hadesstar.com)

@@ -4,9 +4,7 @@ title: ​Czech Legion
 description: W:16 L:4 D:0 Bonus ❌
 date: 1731921923
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1731921923
 | Draws | 0 |
 | Streak Record | 9 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,7 +116,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -143,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2024/06/08 | 8-3 | [宇宙银河帝国](https://ws.tsl.rocks/corp/afb9817e45c3c79048d2be30be3b635704485d260ae7b474b579a019d56d3c2d/) |
 | ❌ | 2024/05/26 | 3-9 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) |
 
+---
 Corporation ID: b4453b41cf7b1c019648ed14db493a47c8a64347e689013b2c969bf97e251ec8
 
 [Hades' Star](https://www.hadesstar.com)

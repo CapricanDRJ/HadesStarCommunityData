@@ -4,9 +4,7 @@ title: ​Hand of Legion
 description: W:4 L:1 D:0 Bonus ❌
 date: 1710084164
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1710084164
 | Draws | 0 |
 | Streak Record | 4 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,7 +116,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -128,6 +129,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2024/01/27 | 23-0 | [欢迎国人](https://ws.tsl.rocks/corp/f32abd112fe2b826948a3538a51097b9114815930ec77ad11ada1b24ce34578d/) |
 | ✅ | 2024/01/16 | 10-1 | [Goblin Squad](https://ws.tsl.rocks/corp/8157fdbc504136281be1becade034cac02082d8e81459a1ec1190bbe7a9f5331/) |
 
+---
 Corporation ID: 7545cead0b3b8e060a0987cc20eed24610a7dfd11dfef11c73a495e39eb07d14
 
 [Hades' Star](https://www.hadesstar.com)

@@ -4,9 +4,7 @@ title: ​Goa'uld
 description: W:0 L:1 D:2 Bonus ❌
 date: 1715999227
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1715999227
 | Losses | 1 |
 | Draws | 2 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,7 +115,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -125,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ↔️ | 2024/01/09 | 2-2 | [Jalisco México](https://ws.tsl.rocks/corp/495236ab2171ccbcdad0da5529f080405b1ddd081eda98c7255a8cffe5b114e4/) |
 | ❌ | 2023/12/18 | 0-3 | [Atlas corp](https://ws.tsl.rocks/corp/e729927db5a5672fcc94357f999bc3b66fa38a624f042543b847f82e7fa890a5/) |
 
+---
 Corporation ID: 6cfbe34768af3759518bfef230548e375dff664510e0670ea856313b90faec80
 
 [Hades' Star](https://www.hadesstar.com)

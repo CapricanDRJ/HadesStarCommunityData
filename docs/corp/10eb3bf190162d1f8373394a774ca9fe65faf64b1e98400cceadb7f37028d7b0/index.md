@@ -4,9 +4,7 @@ title: ​Survivors
 description: W:4 L:14 D:1 Bonus ❌
 date: 1730566676
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1730566676
 | Losses | 14 |
 | Draws | 1 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,12 +115,14 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) | 0 | 2 | 0 | 2 |
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -146,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2023/11/17 | 2-7 | [Sterling Gamers](https://ws.tsl.rocks/corp/1c9d0a5b4f5803e2e51f7ce4af435c7caa7e7da9e39c7f1ed26f7be70e4d6638/) |
 | ✅ | 2023/11/11 | 3-1 | [Pumpkin](https://ws.tsl.rocks/corp/efa17e148ea5fe049a047ba668074b663c53eb9f51a75a24c52fd03fde5e253a/) |
 
+---
 Corporation ID: 10eb3bf190162d1f8373394a774ca9fe65faf64b1e98400cceadb7f37028d7b0
 
 [Hades' Star](https://www.hadesstar.com)

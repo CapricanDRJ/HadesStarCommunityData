@@ -4,9 +4,7 @@ title: ​Seila
 description: W:4 L:6 D:1 Bonus ❌
 date: 1721976355
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1721976355
 | Draws | 1 |
 | Streak Record | 2 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,7 +116,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -134,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2023/11/20 | 2-13 | [Space Pirates](https://ws.tsl.rocks/corp/87eff6e453b6f020baf8cb8930236b566161e22814cdbdc77d696c5812684bc6/) |
 | ✅ | 2023/11/10 | 9-0 | [111](https://ws.tsl.rocks/corp/8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350/) |
 
+---
 Corporation ID: 8749ed87cb9e85c88599f3bb9f9159e00561229eb1690cb36d565a054638cc52
 
 [Hades' Star](https://www.hadesstar.com)

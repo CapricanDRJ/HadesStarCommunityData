@@ -4,9 +4,7 @@ title: ​MD EMPIRE
 description: W:3 L:3 D:0 Bonus ❌
 date: 1730409510
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1730409510
 | Losses | 3 |
 | Draws | 0 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,7 +115,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -128,6 +129,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2024/09/09 | 0-3 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ✅ | 2024/09/03 | 4-0 | [BlakkFlot](https://ws.tsl.rocks/corp/55c9ba9c0d06d8c8f3684544bd7452f440470b687b9e5a2ae40e55044b61e711/) |
 
+---
 Corporation ID: 69e8222c1c47637d7ed1a3c64683816837a73293a9164b2836022943206d21eb
 
 [Hades' Star](https://www.hadesstar.com)

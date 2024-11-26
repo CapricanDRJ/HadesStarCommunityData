@@ -4,9 +4,7 @@ title: ​SkitleStarOrder
 description: W:3 L:0 D:0 Bonus ❌
 date: 1728148067
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -21,6 +19,7 @@ date: 1728148067
 | Streak | 3 |
 | Streak Record | 3 |
 
+---
 
 # Whitestar Match Day
 
@@ -118,7 +117,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -127,6 +128,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2024/09/14 | 14-0 | [Brasil](https://ws.tsl.rocks/corp/c1d98a4e0a9c522aff7cb4156b0dc139eb54566269c2203b2eae6fe1827fc6c3/) |
 | ✅ | 2024/09/04 | 8-1 | [Nox Imperium](https://ws.tsl.rocks/corp/b60fb003fae650d1de18e7bca4fad04f9805501f4568d07ceb47bffdfeb613c1/) |
 
+---
 Corporation ID: 9462fd612a0624ceac81b5378c972a870fc5117ca12e58f87307cbce2b2c30ae
 
 [Hades' Star](https://www.hadesstar.com)

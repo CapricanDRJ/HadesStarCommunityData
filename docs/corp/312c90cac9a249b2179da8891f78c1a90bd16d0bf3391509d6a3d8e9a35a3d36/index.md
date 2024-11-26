@@ -4,9 +4,7 @@ title: ​United Stars
 description: W:29 L:21 D:3 Bonus ✅
 date: 1732241957
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ✅
 
@@ -21,6 +19,7 @@ date: 1732241957
 | Streak | 5 |
 | Streak Record | 5 |
 
+---
 
 # Whitestar Match Day
 
@@ -118,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
@@ -126,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) | 0 | 2 | 0 | 2 |
 | [NERF TOY'S](https://ws.tsl.rocks/corp/34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0/) | 1 | 0 | 1 | 2 |
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -184,6 +185,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2023/11/13 | 17-16 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) |
 | ✅ | 2023/11/07 | 7-3 | [exirium](https://ws.tsl.rocks/corp/4981522e08ce38bcec7b2a189b3bfba9c072a615eea490a55c645344ac975f54/) |
 
+---
 Corporation ID: 312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36
 
 [Hades' Star](https://www.hadesstar.com)

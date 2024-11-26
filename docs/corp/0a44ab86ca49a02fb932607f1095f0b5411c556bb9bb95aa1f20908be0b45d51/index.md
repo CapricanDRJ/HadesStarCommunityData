@@ -4,9 +4,7 @@ title: ​WHITE NOVA
 description: W:2 L:5 D:0 Bonus ❌
 date: 1731379810
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1731379810
 | Losses | 5 |
 | Draws | 0 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,7 +115,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -129,6 +130,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2024/09/04 | 0-7 | [太阳系集团](https://ws.tsl.rocks/corp/50f5e0a888ce2f21c0980be0cbb1e444e1d7eeb9dcb2095c3e428bd5bde7a9f6/) |
 | ✅ | 2024/08/25 | 13-0 | [德意志联邦集团](https://ws.tsl.rocks/corp/2ee580123f8c46103f61a4e5edc43e8c3379d17cc2280c935a0a62c6ee81e50c/) |
 
+---
 Corporation ID: 0a44ab86ca49a02fb932607f1095f0b5411c556bb9bb95aa1f20908be0b45d51
 
 [Hades' Star](https://www.hadesstar.com)

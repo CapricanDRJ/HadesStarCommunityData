@@ -4,9 +4,7 @@ title: ​Hades Academy
 description: W:5 L:5 D:0 Bonus ❌
 date: 1721778627
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1721778627
 | Draws | 0 |
 | Streak Record | 3 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,7 +116,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -133,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2023/11/18 | 15-29 | [ItBurnsWhenIEMP](https://ws.tsl.rocks/corp/1549586a8e69d1a5b1245b5cf33b7beb241b2343c07d1d800e5a2c4026c06438/) |
 | ✅ | 2023/11/10 | 39-0 | [Ten Forward](https://ws.tsl.rocks/corp/1dd2ea0ec346eac318541b002d2de1be9cab962eb176f2bc45336222b96e847d/) |
 
+---
 Corporation ID: b40bd030900afebcbf4508c3b1174e2e80edcc628e6b72357b1571568d0872e3
 
 [Hades' Star](https://www.hadesstar.com)

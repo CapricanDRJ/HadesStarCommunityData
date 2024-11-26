@@ -4,9 +4,7 @@ title: ​42 Nova Corps.
 description: W:2 L:1 D:0 Bonus ❌
 date: 1706899492
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -21,6 +19,7 @@ date: 1706899492
 | Streak | 2 |
 | Streak Record | 2 |
 
+---
 
 # Whitestar Match Day
 
@@ -118,7 +117,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -127,6 +128,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2024/01/15 | 17-4 | [Solysis](https://ws.tsl.rocks/corp/1dd3b30d4fba97df035310d43fa05c50aa4f77867aa67090be08e245b840b1cf/) |
 | ❌ | 2024/01/02 | 14-18 | [OntarioDestiny](https://ws.tsl.rocks/corp/806a86639b93c3a025e026bcedab96052be0e32b712c96217b3d5b330b3f5a6d/) |
 
+---
 Corporation ID: f23f0f9a670677d71fc1cccd95cfd1aeb1d42fe727ee0443726c38449283347e
 
 [Hades' Star](https://www.hadesstar.com)

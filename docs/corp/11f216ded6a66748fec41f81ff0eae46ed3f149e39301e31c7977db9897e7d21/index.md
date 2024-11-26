@@ -4,9 +4,7 @@ title: ​Galactic Trade
 description: W:2 L:6 D:0 Bonus ❌
 date: 1703011782
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1703011782
 | Losses | 6 |
 | Draws | 0 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,12 +115,14 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
 | [Galactic Empire](https://ws.tsl.rocks/corp/e2223ab2b582a5eb5ae1734e132358eb3c24ddf61fcbeee7b8f6708f26782108/) | 0 | 2 | 0 | 2 |
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -135,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2023/11/14 | 3-4 | [Galactic Empire](https://ws.tsl.rocks/corp/e2223ab2b582a5eb5ae1734e132358eb3c24ddf61fcbeee7b8f6708f26782108/) |
 | ✅ | 2023/11/09 | 2-0 | [萌新收留所（目标门集团）](https://ws.tsl.rocks/corp/2da742f44420592cb720952b293609aded2a2858e7458e692ec54fc989c017a8/) |
 
+---
 Corporation ID: 11f216ded6a66748fec41f81ff0eae46ed3f149e39301e31c7977db9897e7d21
 
 [Hades' Star](https://www.hadesstar.com)

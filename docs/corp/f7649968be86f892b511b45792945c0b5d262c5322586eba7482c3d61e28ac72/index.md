@@ -4,9 +4,7 @@ title: ​STARBLAZER
 description: W:2 L:4 D:0 Bonus ❌
 date: 1707871199
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1707871199
 | Losses | 4 |
 | Draws | 0 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,7 +115,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -128,6 +129,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2023/11/26 | 5-7 | [Orphans Of Kos](https://ws.tsl.rocks/corp/f4fc42714515d58b6fabb87fd87c01baadb59e219e725bfdc6cf70b21a292054/) |
 | ✅ | 2023/11/09 | 4-1 | [星光禁卫](https://ws.tsl.rocks/corp/8a3e5d55227ad679805b549aca87a2bc5acb1215ccd2af913592418385eccd25/) |
 
+---
 Corporation ID: f7649968be86f892b511b45792945c0b5d262c5322586eba7482c3d61e28ac72
 
 [Hades' Star](https://www.hadesstar.com)

@@ -4,9 +4,7 @@ title: ​仙女座星雲
 description: W:67 L:50 D:4 Bonus ✅
 date: 1732302788
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ✅
 
@@ -21,6 +19,7 @@ date: 1732302788
 | Streak | 2 |
 | Streak Record | 6 |
 
+---
 
 # Whitestar Match Day
 
@@ -118,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [Proteus Tech](https://ws.tsl.rocks/corp/a9abf464e4301045ae4dbba7a5889a4e49d10e7e21f2e1011d9507cc5c45012b/) | 1 | 1 | 0 | 2 |
 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) | 2 | 1 | 0 | 3 |
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -266,6 +267,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2023/11/07 | 3-5 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) |
 | ✅ | 2023/11/06 | 23-4 | [\(\_\(\_Vossk\_\)\_\)](https://ws.tsl.rocks/corp/6db23201f00670abe532f02a8fc28e109f95d673ef31ca1df7362c0a6c45dd2f/) |
 
+---
 Corporation ID: e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd
 
 [Hades' Star](https://www.hadesstar.com)

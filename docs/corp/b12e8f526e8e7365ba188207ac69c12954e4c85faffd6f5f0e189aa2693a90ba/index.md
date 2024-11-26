@@ -4,9 +4,7 @@ title: ​Last Chance
 description: W:2 L:3 D:1 Bonus ❌
 date: 1732395217
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1732395217
 | Draws | 1 |
 | Streak Record | 2 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,7 +116,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -129,6 +130,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2023/12/02 | 22-0 | [Spectre](https://ws.tsl.rocks/corp/ef39728c197d3efa64f411ff4f1133ef77ad52a020c826a179d65631df05d442/) |
 | ✅ | 2023/11/25 | 30-7 | [We R Bad](https://ws.tsl.rocks/corp/f5cb2c2ba88483bac00f814e32a0d862e4f3a0a10cc614b33ecb9e846766aae0/) |
 
+---
 Corporation ID: b12e8f526e8e7365ba188207ac69c12954e4c85faffd6f5f0e189aa2693a90ba
 
 [Hades' Star](https://www.hadesstar.com)

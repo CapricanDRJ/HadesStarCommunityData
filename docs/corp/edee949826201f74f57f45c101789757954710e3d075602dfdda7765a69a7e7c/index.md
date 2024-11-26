@@ -4,9 +4,7 @@ title: ​P!RAT£ SHIP
 description: W:21 L:8 D:1 Bonus ❌
 date: 1731957387
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1731957387
 | Draws | 1 |
 | Streak Record | 10 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,12 +116,14 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) | 1 | 1 | 0 | 2 |
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -158,6 +159,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2023/12/10 | 4-1 | [Prospectors](https://ws.tsl.rocks/corp/7919c3c38ee794a50b54a2d7a4d0aa78e36cf5a6e35d3e3d6a0c68db2841c167/) |
 | ❌ | 2023/11/29 | 3-6 | [Пабеда](https://ws.tsl.rocks/corp/5f29a5087f1cb6c175a54d845b2f3fd65828af71346fc945c5f69520410a6494/) |
 
+---
 Corporation ID: edee949826201f74f57f45c101789757954710e3d075602dfdda7765a69a7e7c
 
 [Hades' Star](https://www.hadesstar.com)

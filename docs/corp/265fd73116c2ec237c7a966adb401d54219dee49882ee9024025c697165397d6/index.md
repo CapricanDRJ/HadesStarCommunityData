@@ -4,9 +4,7 @@ title: ​Utd. Human Fed.
 description: W:34 L:27 D:1 Bonus ❌
 date: 1732377484
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1732377484
 | Draws | 1 |
 | Streak Record | 5 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,6 +116,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
@@ -127,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [CIS](https://ws.tsl.rocks/corp/3efaab24560531ff257e73bfb281a7e9c0a9d591ac5aff55d05d35f2fb5e1d73/) | 0 | 2 | 0 | 2 |
 | [ЧВК "Котики"](https://ws.tsl.rocks/corp/b770b833fe257bc6accd1bbe82a887971291dd0038f8aa627a47f3ce063265c0/) | 0 | 1 | 1 | 2 |
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -194,6 +195,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2023/12/16 | 6-5 | [Prometheus](https://ws.tsl.rocks/corp/b8bbef86e5b1f72bf9c827f0497871ab0363769ac4fef563fd56f96ac88c85a6/) |
 | ✅ | 2023/12/09 | 6-2 | [神貓聯盟](https://ws.tsl.rocks/corp/b0060a680643209d5d36af067edd941d1c2208dec911b04a998d4c8c482427a5/) |
 
+---
 Corporation ID: 265fd73116c2ec237c7a966adb401d54219dee49882ee9024025c697165397d6
 
 [Hades' Star](https://www.hadesstar.com)

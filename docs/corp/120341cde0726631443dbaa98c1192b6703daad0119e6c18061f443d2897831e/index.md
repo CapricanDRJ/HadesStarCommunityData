@@ -4,9 +4,7 @@ title: ​共产主义舰队
 description: W:7 L:1 D:0 Bonus ❌
 date: 1708830541
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -21,6 +19,7 @@ date: 1708830541
 | Streak | 3 |
 | Streak Record | 4 |
 
+---
 
 # Whitestar Match Day
 
@@ -118,7 +117,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -132,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2024/01/01 | 18-0 | [STRVS233～](https://ws.tsl.rocks/corp/727f6b88132c5850b1ef7ad02101bab3f97fc5dd191307dffca64181bf41e614/) |
 | ✅ | 2023/12/25 | 18-0 | [NASA Air base](https://ws.tsl.rocks/corp/6b63a6d22b94297e25c5815e1d096edd489543d2a443677f58d7e6aec1d00016/) |
 
+---
 Corporation ID: 120341cde0726631443dbaa98c1192b6703daad0119e6c18061f443d2897831e
 
 [Hades' Star](https://www.hadesstar.com)

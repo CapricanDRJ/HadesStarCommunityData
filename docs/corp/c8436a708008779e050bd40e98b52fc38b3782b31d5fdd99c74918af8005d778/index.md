@@ -4,9 +4,7 @@ title: ​Dirty Minds Inc
 description: W:4 L:3 D:0 Bonus ❌
 date: 1732119044
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1732119044
 | Draws | 0 |
 | Streak Record | 4 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,7 +116,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -130,6 +131,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2024/10/21 | 6-4 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 | ✅ | 2024/10/16 | 7-0 | [Empire of Light](https://ws.tsl.rocks/corp/5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc/) |
 
+---
 Corporation ID: c8436a708008779e050bd40e98b52fc38b3782b31d5fdd99c74918af8005d778
 
 [Hades' Star](https://www.hadesstar.com)

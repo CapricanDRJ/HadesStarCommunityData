@@ -4,9 +4,7 @@ title: ​舰队联邦[FF]
 description: W:1 L:7 D:3 Bonus ❌
 date: 1731687844
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1731687844
 | Losses | 7 |
 | Draws | 3 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,7 +115,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -133,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2024/08/17 | 0-5 | [DeutschlandGmbH](https://ws.tsl.rocks/corp/7f4550924e4740a47b7d66c9ddf38d65c37590507caab29eecc74f81a4ae2895/) |
 | ❌ | 2024/08/10 | 0-5 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
 
+---
 Corporation ID: a416c5b53512093490461bf0dab583fbb401f5850470774f6de02dafe6ca3655
 
 [Hades' Star](https://www.hadesstar.com)

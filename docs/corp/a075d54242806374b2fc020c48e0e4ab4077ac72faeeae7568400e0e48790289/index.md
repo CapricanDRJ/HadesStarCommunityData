@@ -4,9 +4,7 @@ title: ​Неизбежный Рок
 description: W:79 L:33 D:1 Bonus ✅
 date: 1732342324
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ✅
 
@@ -21,6 +19,7 @@ date: 1732342324
 | Streak | 2 |
 | Streak Record | 7 |
 
+---
 
 # Whitestar Match Day
 
@@ -118,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [Axiom](https://ws.tsl.rocks/corp/4000a010c205d318c766ba14fe1836eaab6652f1738a88cce8a8c69d0283e1b0/) | 3 | 0 | 0 | 3 |
 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) | 1 | 1 | 0 | 2 |
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -258,6 +259,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2023/11/05 | 4-11 | [水星联合组织](https://ws.tsl.rocks/corp/fe67c7b35602faf8640d1765a46ce5f77d08740abf40340479bf82781778944a/) |
 | ✅ | 2023/11/05 | 26-3 | [太阳系联邦](https://ws.tsl.rocks/corp/1511bcf209c9d65c3db8fce158834ee0365899e8a765df9554b7606eb92b1df1/) |
 
+---
 Corporation ID: a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289
 
 [Hades' Star](https://www.hadesstar.com)

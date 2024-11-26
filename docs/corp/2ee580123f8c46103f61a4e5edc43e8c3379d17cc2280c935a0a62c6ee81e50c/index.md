@@ -4,9 +4,7 @@ title: ​德意志联邦集团
 description: W:0 L:4 D:3 Bonus ❌
 date: 1724560193
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1724560193
 | Losses | 4 |
 | Draws | 3 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,7 +115,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -129,6 +130,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2024/02/10 | 0-2 | [Cowboys](https://ws.tsl.rocks/corp/f461f65e85a43e0b855a525f6995505fc1cc5ae6f85be50470c9dacbb955fc21/) |
 | ↔️ | 2024/02/03 | 0-0 | [遨游星空  kdy分盟](https://ws.tsl.rocks/corp/74a42c9e5b716ea7c784243c029ad5dc1871f6b81692170099efdf8d3f94ba8f/) |
 
+---
 Corporation ID: 2ee580123f8c46103f61a4e5edc43e8c3379d17cc2280c935a0a62c6ee81e50c
 
 [Hades' Star](https://www.hadesstar.com)

@@ -4,9 +4,7 @@ title: ​LANCE
 description: W:3 L:8 D:2 Bonus ❌
 date: 1705463338
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1705463338
 | Losses | 8 |
 | Draws | 2 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,7 +115,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -135,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ↔️ | 2023/11/11 | 11-11 | [ANDROMEDA INC\. ](https://ws.tsl.rocks/corp/9d122968f1050c65cf6c741d5f018d932b3fdff8fc0a48144a4376b9fa18677b/) |
 | ↔️ | 2023/11/05 | 3-3 | [BRASIL STAR](https://ws.tsl.rocks/corp/94fc4639f17e4503a11d4ac3878f3203bca3f21baebf285433ff39ad37f0fff2/) |
 
+---
 Corporation ID: f9d489fbbe222ff361139bfe234f235c1dfd82f2ccf38f7ecd929e6377408883
 
 [Hades' Star](https://www.hadesstar.com)

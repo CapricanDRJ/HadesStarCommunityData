@@ -4,9 +4,7 @@ title: ​Nexland Ind.
 description: W:5 L:4 D:1 Bonus ❌
 date: 1719570374
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1719570374
 | Draws | 1 |
 | Streak Record | 5 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,7 +116,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -133,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2024/02/22 | 1-9 | [Lacuna Academy](https://ws.tsl.rocks/corp/ed67ca44432a8fad3aec6fab3e7f305d394d2b41844391fd29e1ce2b316b336b/) |
 | ❌ | 2024/02/21 | 1-2 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 
+---
 Corporation ID: d944d7c48fcdf12fbe80bbfaec82482895285c344a643e8e679fc22617a2c44a
 
 [Hades' Star](https://www.hadesstar.com)

@@ -4,9 +4,7 @@ title: ​华夏航队
 description: W:2 L:7 D:0 Bonus ❌
 date: 1704688043
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1704688043
 | Losses | 7 |
 | Draws | 0 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,7 +115,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -131,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2023/12/17 | 0-3 | [Toxic](https://ws.tsl.rocks/corp/6fd41dbfe23fef41eedbc7b3cd8651f24735f62594a817d28e88676f68ce3198/) |
 | ❌ | 2023/12/12 | 0-29 | [海賊ギルド](https://ws.tsl.rocks/corp/5a1a2bfa07b5ad3ca9bc90a4a86ce8e83d0e61393771fa0ff4c71733bc8879f3/) |
 
+---
 Corporation ID: c63fe9c181dbac2833d2a4dbf3b050625128057c318b3b5a05bb54bd864f531c
 
 [Hades' Star](https://www.hadesstar.com)

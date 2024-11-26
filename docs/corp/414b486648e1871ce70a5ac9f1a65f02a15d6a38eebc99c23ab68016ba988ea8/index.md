@@ -4,9 +4,7 @@ title: ​Warriors union
 description: W:3 L:5 D:1 Bonus ❌
 date: 1711636388
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1711636388
 | Draws | 1 |
 | Streak Record | 3 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,7 +116,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -132,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2023/12/19 | 11-0 | [NEW HOLLAND](https://ws.tsl.rocks/corp/b080750b30e8c3b7a4c8bd483921bb8082a83d48c662683a07beba245f70c2a2/) |
 | ✅ | 2023/12/13 | 7-1 | [Atlas corp](https://ws.tsl.rocks/corp/e729927db5a5672fcc94357f999bc3b66fa38a624f042543b847f82e7fa890a5/) |
 
+---
 Corporation ID: 414b486648e1871ce70a5ac9f1a65f02a15d6a38eebc99c23ab68016ba988ea8
 
 [Hades' Star](https://www.hadesstar.com)

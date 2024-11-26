@@ -4,9 +4,7 @@ title: ​Любители Пива
 description: W:2 L:19 D:0 Bonus ❌
 date: 1709926722
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1709926722
 | Losses | 19 |
 | Draws | 0 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,6 +115,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [星舰月球](https://ws.tsl.rocks/corp/b9a3e1e7fd3a235db7f440974db9210dc9a3b85c39fd437099f32f53cfe1e21c/) | 0 | 3 | 0 | 3 |
 | [No Orbit©](https://ws.tsl.rocks/corp/15831bc11de2a279f369118ffb2cd889844a6992e769889ad9e64f8ac15a410f/) | 0 | 2 | 0 | 2 |
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -151,6 +152,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2023/11/11 | 6-25 | [СОЮЗ](https://ws.tsl.rocks/corp/068cec010bfee0723895562d4bf580b93628758a762b6918d384fef632d281ab/) |
 | ❌ | 2023/11/04 | 5-12 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) |
 
+---
 Corporation ID: 3926c7dd9f82737737ee85bc4f013285cb75f1ef90f5bf4822bf624616570764
 
 [Hades' Star](https://www.hadesstar.com)

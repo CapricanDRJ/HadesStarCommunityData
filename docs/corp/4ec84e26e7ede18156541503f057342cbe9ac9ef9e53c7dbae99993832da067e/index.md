@@ -4,9 +4,7 @@ title: ​Legion Prime
 description: W:12 L:14 D:0 Bonus ❌
 date: 1731586325
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1731586325
 | Draws | 0 |
 | Streak Record | 3 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,7 +116,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -149,6 +150,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2023/11/23 | 32-1 | [Odessa](https://ws.tsl.rocks/corp/f509f71fafc573fb7aad51ddd9d82668162fe80073506ca5dc2e68cb795cffea/) |
 | ✅ | 2023/11/12 | 14-6 | [Дом Датэ](https://ws.tsl.rocks/corp/10cbcbd91c4084657bdab01ef573cc48170fbc4dd0ab533f96712f1cb6097ff2/) |
 
+---
 Corporation ID: 4ec84e26e7ede18156541503f057342cbe9ac9ef9e53c7dbae99993832da067e
 
 [Hades' Star](https://www.hadesstar.com)

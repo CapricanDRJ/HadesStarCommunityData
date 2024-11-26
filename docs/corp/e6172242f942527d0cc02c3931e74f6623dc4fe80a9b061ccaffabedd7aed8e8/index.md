@@ -4,9 +4,7 @@ title: ​F.E.I.
 description: W:0 L:1 D:2 Bonus ❌
 date: 1708050438
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1708050438
 | Losses | 1 |
 | Draws | 2 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,7 +115,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -125,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ↔️ | 2024/02/06 | 0-0 | [HAL](https://ws.tsl.rocks/corp/249861ea16b488e34ea28566402ed775f6f27004aa9e6843b668f23cec4140c7/) |
 | ↔️ | 2024/02/01 | 0-0 | [Noble](https://ws.tsl.rocks/corp/a743363bbba6a586851cfc2a6c1a567bb1b122f6516757c4f75ed5184a177caf/) |
 
+---
 Corporation ID: e6172242f942527d0cc02c3931e74f6623dc4fe80a9b061ccaffabedd7aed8e8
 
 [Hades' Star](https://www.hadesstar.com)

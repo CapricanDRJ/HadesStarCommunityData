@@ -4,9 +4,7 @@ title: ​三体舰队
 description: W:8 L:11 D:0 Bonus ❌
 date: 1720619162
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1720619162
 | Draws | 0 |
 | Streak Record | 7 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,12 +116,14 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
 | [地球星际集团](https://ws.tsl.rocks/corp/05094116a999d8e077c5e53dc2241a870c7dc2e68e016455c606ada0dcb40b62/) | 2 | 0 | 0 | 2 |
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -147,6 +148,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2023/11/18 | 3-6 | [Imperium](https://ws.tsl.rocks/corp/bd50f5c2e729855731a8cd72c1ed6e10b6130da7eb57a3d511497e4afdf0133c/) |
 | ❌ | 2023/11/12 | 3-9 | [Альянс](https://ws.tsl.rocks/corp/a7d0478626828d7428aeeb5115f68e790f7e4c8a7f917812ec2241178e1c3f50/) |
 
+---
 Corporation ID: 4f07d6381e25833973d274b90a76aa73a9cac9b3f93a5279e2b0375f1108eb3a
 
 [Hades' Star](https://www.hadesstar.com)

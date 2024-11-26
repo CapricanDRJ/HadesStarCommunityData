@@ -4,9 +4,7 @@ title: ​Pixies
 description: W:11 L:4 D:0 Bonus ✅
 date: 1732289738
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ✅
 
@@ -21,6 +19,7 @@ date: 1732289738
 | Streak | 2 |
 | Streak Record | 6 |
 
+---
 
 # Whitestar Match Day
 
@@ -118,7 +117,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -139,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2024/06/15 | 1-0 | [华夏舰队](https://ws.tsl.rocks/corp/abd6d05a100ffdde2d15abd725a209bfbbf069b60b10ddeac88e88da66191472/) |
 | ✅ | 2024/05/09 | 9-7 | [Bacon Warriors](https://ws.tsl.rocks/corp/ec62b01fc96adc2a7b7ac4077438e5153eeefc94740fab8309dcb6613e3a7f48/) |
 
+---
 Corporation ID: fe3875cc3bc7cd97ee3d418bb35d69d8ec90da355cbec2dfb7a364387e021240
 
 [Hades' Star](https://www.hadesstar.com)

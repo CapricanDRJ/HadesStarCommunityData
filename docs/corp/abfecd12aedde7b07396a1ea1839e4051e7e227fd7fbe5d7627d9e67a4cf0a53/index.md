@@ -4,9 +4,7 @@ title: ​C.C Legion
 description: W:5 L:1 D:0 Bonus ❌
 date: 1706036411
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -21,6 +19,7 @@ date: 1706036411
 | Streak | 2 |
 | Streak Record | 3 |
 
+---
 
 # Whitestar Match Day
 
@@ -118,7 +117,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -130,6 +131,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2023/12/13 | 9-0 | [Disintegrators](https://ws.tsl.rocks/corp/cbdef8da60308e24e459a21944778e7c06fa40927f67ecbbf136e3c899f717ae/) |
 | ✅ | 2023/12/02 | 6-3 | [U\.I\.H](https://ws.tsl.rocks/corp/78c1e8450633b71e1dc3de24e211c79adb14f4eb544e904b6caab0dd9fe8e0c6/) |
 
+---
 Corporation ID: abfecd12aedde7b07396a1ea1839e4051e7e227fd7fbe5d7627d9e67a4cf0a53
 
 [Hades' Star](https://www.hadesstar.com)

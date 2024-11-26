@@ -4,9 +4,7 @@ title: ​The Red Dwarves
 description: W:3 L:4 D:1 Bonus ❌
 date: 1715213588
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1715213588
 | Draws | 1 |
 | Streak Record | 2 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,7 +116,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -131,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ↔️ | 2024/02/05 | 0-0 | [СНГ — РОССИЯ](https://ws.tsl.rocks/corp/075394144fa4e771dc8358886dc461b0ed87d948b46e5d817d29296adf2f11f2/) |
 | ✅ | 2024/02/02 | 1-0 | ["ПОБЕДА"](https://ws.tsl.rocks/corp/6e278fab01265655262e413d267a6cf9ac06840a6e4ee0a61cd5662657f2bab0/) |
 
+---
 Corporation ID: 4cecdcd329a545deb9c2a292081f9220114f37e845dbea6dd1ec326390e296dd
 
 [Hades' Star](https://www.hadesstar.com)

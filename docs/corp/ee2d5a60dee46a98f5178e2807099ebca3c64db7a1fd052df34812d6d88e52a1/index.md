@@ -4,9 +4,7 @@ title: ​Anla'Shok
 description: W:2 L:11 D:0 Bonus ❌
 date: 1720811802
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1720811802
 | Losses | 11 |
 | Draws | 0 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,12 +115,14 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) | 0 | 2 | 0 | 2 |
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -140,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2023/11/22 | 15-4 | [Gulinga](https://ws.tsl.rocks/corp/63ab273ab0cfc2919038a10f1641498d1beb4496658f7c5a0fee55c2518815fe/) |
 | ❌ | 2023/11/11 | 3-11 | [USSR](https://ws.tsl.rocks/corp/775ec12999c2bb5396801268de447d30104b470d9f093ec4afea9c9db71d7690/) |
 
+---
 Corporation ID: ee2d5a60dee46a98f5178e2807099ebca3c64db7a1fd052df34812d6d88e52a1
 
 [Hades' Star](https://www.hadesstar.com)

@@ -4,9 +4,7 @@ title: ​Starlancer
 description: W:0 L:18 D:0 Bonus ❌
 date: 1715051835
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1715051835
 | Losses | 18 |
 | Draws | 0 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,7 +115,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -140,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2023/11/17 | 3-31 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |
 | ❌ | 2023/11/11 | 3-5 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) |
 
+---
 Corporation ID: ef3681f4433ada2b05c563519c377662b1755fed13e8c6cbae8f4af3249d5bda
 
 [Hades' Star](https://www.hadesstar.com)

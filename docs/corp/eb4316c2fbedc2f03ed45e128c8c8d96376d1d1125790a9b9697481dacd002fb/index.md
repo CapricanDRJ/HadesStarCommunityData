@@ -4,9 +4,7 @@ title: ​湖心亭看雪
 description: W:2 L:19 D:2 Bonus ❌
 date: 1719390049
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1719390049
 | Draws | 2 |
 | Streak Record | 2 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,6 +116,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
@@ -124,6 +124,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [Alpha ](https://ws.tsl.rocks/corp/accb87a59c1f019d1be37fa2b19ae2aeb35c4a995d1d621a8e987065cd1328fe/) | 1 | 1 | 0 | 2 |
 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) | 0 | 0 | 2 | 2 |
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -152,6 +153,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2023/11/29 | 10-0 | [Alpha ](https://ws.tsl.rocks/corp/accb87a59c1f019d1be37fa2b19ae2aeb35c4a995d1d621a8e987065cd1328fe/) |
 | ✅ | 2023/11/22 | 5-4 | [RedStar Raiding](https://ws.tsl.rocks/corp/83a1c4f1576eec7dce037eb5b64b2455ca3affb9d3072108c5d4d3eba88b4570/) |
 
+---
 Corporation ID: eb4316c2fbedc2f03ed45e128c8c8d96376d1d1125790a9b9697481dacd002fb
 
 [Hades' Star](https://www.hadesstar.com)

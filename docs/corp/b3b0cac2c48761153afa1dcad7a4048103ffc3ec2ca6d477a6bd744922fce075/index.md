@@ -4,9 +4,7 @@ title: ​Медведи
 description: W:36 L:4 D:0 Bonus ❌
 date: 1716552700
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -21,6 +19,7 @@ date: 1716552700
 | Streak | 13 |
 | Streak Record | 13 |
 
+---
 
 # Whitestar Match Day
 
@@ -118,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [Glashan](https://ws.tsl.rocks/corp/48b9fa3df8bbc6ce4a8455e9b923f28c0eccb8054c9f72e9c14e6acfee5a23a4/) | 2 | 0 | 0 | 2 |
 | [\-=Содружество=\-](https://ws.tsl.rocks/corp/a9493d38afc250d1f8288ca320eb0e5fb1263b1854737d813cdbf575c0e0e2d3/) | 2 | 1 | 0 | 3 |
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -170,6 +171,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2023/12/16 | 42-0 | [Union premiun](https://ws.tsl.rocks/corp/378842e94d703234b3bbe2f660cbf69180d547b32d4453bc3ca14e7729b3485c/) |
 | ✅ | 2023/12/16 | 24-0 | [하데스 스타 코리아](https://ws.tsl.rocks/corp/36ae3ca01b555bd695500062530b53a2b19cc9d4bab087051ea8775124723e94/) |
 
+---
 Corporation ID: b3b0cac2c48761153afa1dcad7a4048103ffc3ec2ca6d477a6bd744922fce075
 
 [Hades' Star](https://www.hadesstar.com)

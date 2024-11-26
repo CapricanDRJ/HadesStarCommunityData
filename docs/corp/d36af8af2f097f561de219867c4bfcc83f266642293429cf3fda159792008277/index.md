@@ -4,9 +4,7 @@ title: ​新纪元舰队
 description: W:4 L:12 D:2 Bonus ❌
 date: 1716450547
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1716450547
 | Draws | 2 |
 | Streak Record | 3 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,7 +116,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -141,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2023/11/15 | 9-1 | [The Galxey █](https://ws.tsl.rocks/corp/d52cda2701dd013db91403bab0ff5972e0d9f3a13f842daf8d633025835a6b19/) |
 | ❌ | 2023/11/08 | 1-3 | [Ws Polaris](https://ws.tsl.rocks/corp/aed0edd750f895de01d5a257db42bba7b2098421901f1cf0352b992242d967d9/) |
 
+---
 Corporation ID: d36af8af2f097f561de219867c4bfcc83f266642293429cf3fda159792008277
 
 [Hades' Star](https://www.hadesstar.com)

@@ -4,9 +4,7 @@ title: ​萌新的收留所
 description: W:17 L:5 D:1 Bonus ❌
 date: 1724653949
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -21,6 +19,7 @@ date: 1724653949
 | Streak | 4 |
 | Streak Record | 8 |
 
+---
 
 # Whitestar Match Day
 
@@ -118,12 +117,14 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) | 0 | 2 | 0 | 2 |
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -152,6 +153,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2024/06/05 | 10-0 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) |
 | ❌ | 2024/05/23 | 2-23 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 
+---
 Corporation ID: 1dd3f70c959e32c27cb4c010162be3799b7c0732115d5c2b7ca5979f48b10f7f
 
 [Hades' Star](https://www.hadesstar.com)

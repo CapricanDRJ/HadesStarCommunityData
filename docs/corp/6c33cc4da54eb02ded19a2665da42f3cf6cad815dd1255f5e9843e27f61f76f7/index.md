@@ -4,9 +4,7 @@ title: ​The Titans Pro
 description: W:1 L:0 D:0 Bonus ❌
 date: 1716684601
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1716684601
 | Losses | 0 |
 | Draws | 0 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,13 +115,16 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
 | ✅ | 2024/05/26 | 18-6 | [CDG](https://ws.tsl.rocks/corp/0372d45acdd50729ec92e18f0e973f382362ae554f8d15778250b493e887cce2/) |
 
+---
 Corporation ID: 6c33cc4da54eb02ded19a2665da42f3cf6cad815dd1255f5e9843e27f61f76f7
 
 [Hades' Star](https://www.hadesstar.com)

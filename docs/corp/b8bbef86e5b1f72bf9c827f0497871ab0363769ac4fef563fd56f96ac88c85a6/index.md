@@ -4,9 +4,7 @@ title: ​Prometheus
 description: W:9 L:11 D:0 Bonus ❌
 date: 1718761230
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1718761230
 | Draws | 0 |
 | Streak Record | 2 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,7 +116,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -143,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2023/12/16 | 5-6 | [Utd\. Human Fed\.](https://ws.tsl.rocks/corp/265fd73116c2ec237c7a966adb401d54219dee49882ee9024025c697165397d6/) |
 | ✅ | 2023/12/08 | 4-2 | [NEW HOLLAND](https://ws.tsl.rocks/corp/b080750b30e8c3b7a4c8bd483921bb8082a83d48c662683a07beba245f70c2a2/) |
 
+---
 Corporation ID: b8bbef86e5b1f72bf9c827f0497871ab0363769ac4fef563fd56f96ac88c85a6
 
 [Hades' Star](https://www.hadesstar.com)

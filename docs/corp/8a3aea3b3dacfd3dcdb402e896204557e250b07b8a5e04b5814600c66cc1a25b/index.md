@@ -4,9 +4,7 @@ title: ​Famous Assasins
 description: W:61 L:11 D:0 Bonus ✅
 date: 1731994401
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ✅
 
@@ -20,6 +18,7 @@ date: 1731994401
 | Draws | 0 |
 | Streak Record | 12 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,6 +116,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
@@ -130,6 +130,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [Game of Stars](https://ws.tsl.rocks/corp/ad5bb68e6076ee70e6715ecead226fc9880b66a87b68acb3098843f723c1562e/) | 2 | 0 | 0 | 2 |
 | [Star Wars](https://ws.tsl.rocks/corp/2dd3aee3667c5c190079cc378773d809ece1b146bc0a16fce6c46663fc3b6992/) | 1 | 1 | 0 | 2 |
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -207,6 +208,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2023/11/19 | 47-10 | [Game of Stars](https://ws.tsl.rocks/corp/ad5bb68e6076ee70e6715ecead226fc9880b66a87b68acb3098843f723c1562e/) |
 | ✅ | 2023/11/13 | 22-0 | [Crazy Elite](https://ws.tsl.rocks/corp/ef64e9014b773074470ead0907b9c122bf6bda753de1cddfa01e95a00e9d47dc/) |
 
+---
 Corporation ID: 8a3aea3b3dacfd3dcdb402e896204557e250b07b8a5e04b5814600c66cc1a25b
 
 [Hades' Star](https://www.hadesstar.com)

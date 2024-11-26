@@ -4,9 +4,7 @@ title: ​RDR2
 description: W:0 L:0 D:1 Bonus ❌
 date: 1704211691
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1704211691
 | Losses | 0 |
 | Draws | 1 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,13 +115,16 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
 | ↔️ | 2024/01/02 | 3-3 | [Kelebra](https://ws.tsl.rocks/corp/0b1ce787fadd83433c02fb7f56a905ea64f918c1396ac37b8591891adf232eb6/) |
 
+---
 Corporation ID: 5deea0e4b08770c5b17ceff812d58a60a03c2734dc65de38966b4801fa8a14dd
 
 [Hades' Star](https://www.hadesstar.com)

@@ -4,9 +4,7 @@ title: ​Peak Extraction
 description: W:1 L:13 D:1 Bonus ❌
 date: 1715188047
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1715188047
 | Losses | 13 |
 | Draws | 1 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,12 +115,14 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
 | [Imperium XIII](https://ws.tsl.rocks/corp/0d52edf77b0cdeaaea6ebc20a7f5b6a60372b535bf96f556b31e2243dc8ee75a/) | 0 | 2 | 0 | 2 |
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -142,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2023/11/18 | 2-17 | [Gwiezdna Horda](https://ws.tsl.rocks/corp/f718a308568b300ddb5e1fb10f817f112942f9449ec311aff136da5a3149cb18/) |
 | ❌ | 2023/11/11 | 2-14 | [Rising star](https://ws.tsl.rocks/corp/b7037efd74e829aa4ac6e49960fa44cebe1477e23d25cf1640594d9168d630db/) |
 
+---
 Corporation ID: b656a84b60d6de62745eb9059a703b44cca76b6247beeceef5f856f89e4c2d0d
 
 [Hades' Star](https://www.hadesstar.com)

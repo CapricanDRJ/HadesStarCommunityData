@@ -4,9 +4,7 @@ title: ​ДИᏰEPℂДℍTᏰℓ
 description: W:13 L:8 D:0 Bonus ✅
 date: 1732551764
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ✅
 
@@ -20,6 +18,7 @@ date: 1732551764
 | Draws | 0 |
 | Streak Record | 5 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,7 +116,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -144,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2024/09/03 | 2-20 | [德意志第三帝国奥米加分部](https://ws.tsl.rocks/corp/b5f35e30b2dea2621e854b5011a9f9d07ca3585cd26bd9ac92aa7b06c0a522b1/) |
 | ❌ | 2024/08/28 | 3-4 | [Cydonia](https://ws.tsl.rocks/corp/d7b61bdd2b275833780d36a5bdf64fa64d7a1dbea9bde8bdcf54a7e37381214a/) |
 
+---
 Corporation ID: a1dad8a2a2c5ab935169d168bc19f8a1db7f12b099358e079cb7221a340345ed
 
 [Hades' Star](https://www.hadesstar.com)

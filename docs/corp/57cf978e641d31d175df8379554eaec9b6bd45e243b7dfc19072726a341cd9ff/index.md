@@ -4,9 +4,7 @@ title: ​StargateCommand
 description: W:0 L:0 D:1 Bonus ❌
 date: 1702798749
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1702798749
 | Losses | 0 |
 | Draws | 1 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,13 +115,16 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
 | ↔️ | 2023/12/17 | 0-0 | [Titan Inc\.](https://ws.tsl.rocks/corp/5fc46a89d3f7f2abe181b290c12646e53184776ae6cd655cf1c03cc2bf1b57e0/) |
 
+---
 Corporation ID: 57cf978e641d31d175df8379554eaec9b6bd45e243b7dfc19072726a341cd9ff
 
 [Hades' Star](https://www.hadesstar.com)

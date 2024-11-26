@@ -4,9 +4,7 @@ title: ​GermanIndustrie
 description: W:10 L:2 D:1 Bonus ❌
 date: 1727516721
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -21,6 +19,7 @@ date: 1727516721
 | Streak | 4 |
 | Streak Record | 4 |
 
+---
 
 # Whitestar Match Day
 
@@ -118,7 +117,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -137,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2023/11/20 | 37-17 | [TROLL SQUAD](https://ws.tsl.rocks/corp/91daecf0251a6a1eee3d92820695d021c1f949e194cc5003d7cdebe59ef4502e/) |
 | ✅ | 2023/11/06 | 29-2 | [Polish Pirates](https://ws.tsl.rocks/corp/e73d410a73bca6a1161056891e484b32cac940c0d94d20c92ed085683524652b/) |
 
+---
 Corporation ID: 5d5954b2c9b2decd8836f2b7b9aa404e2f4386ae4fa682b54654459282852986
 
 [Hades' Star](https://www.hadesstar.com)

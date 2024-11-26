@@ -4,9 +4,7 @@ title: ​SiriusStrawMoo
 description: W:17 L:6 D:1 Bonus ❌
 date: 1731867241
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1731867241
 | Draws | 1 |
 | Streak Record | 9 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,7 +116,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -147,6 +148,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2024/06/22 | 2-10 | [Czech Legion](https://ws.tsl.rocks/corp/b4453b41cf7b1c019648ed14db493a47c8a64347e689013b2c969bf97e251ec8/) |
 | ❌ | 2024/06/17 | 2-7 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 
+---
 Corporation ID: c83a5744ea256d2c1fa59660bc0e18e8d01a2a467bc13fec27a8b30f689e220b
 
 [Hades' Star](https://www.hadesstar.com)

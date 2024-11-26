@@ -4,9 +4,7 @@ title: ​Planet Express
 description: W:10 L:4 D:1 Bonus ✅
 date: 1732448393
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ✅
 
@@ -21,6 +19,7 @@ date: 1732448393
 | Streak | 3 |
 | Streak Record | 6 |
 
+---
 
 # Whitestar Match Day
 
@@ -118,7 +117,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -139,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2024/01/19 | 22-0 | [From the Fire](https://ws.tsl.rocks/corp/df5d313a4fe6681f19a6d47d364e4611a1e9c840abf8f6978cfa2418cb0e37cf/) |
 | ❌ | 2023/12/08 | 5-16 | [Rising star](https://ws.tsl.rocks/corp/b7037efd74e829aa4ac6e49960fa44cebe1477e23d25cf1640594d9168d630db/) |
 
+---
 Corporation ID: be13b17a002cf203ab2a5a31d6c8024e7458b8eac569eb576be7f30844979c99
 
 [Hades' Star](https://www.hadesstar.com)

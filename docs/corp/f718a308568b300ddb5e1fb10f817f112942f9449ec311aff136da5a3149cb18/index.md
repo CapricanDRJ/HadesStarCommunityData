@@ -4,9 +4,7 @@ title: ​Gwiezdna Horda
 description: W:4 L:0 D:0 Bonus ❌
 date: 1702798992
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -21,6 +19,7 @@ date: 1702798992
 | Streak | 4 |
 | Streak Record | 4 |
 
+---
 
 # Whitestar Match Day
 
@@ -118,7 +117,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -128,6 +129,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2023/11/25 | 13-4 | [Astra Ultima](https://ws.tsl.rocks/corp/28f566291e90761f5c070cb9c53ba0381b2afd62e60f643e3be33288118ec4ff/) |
 | ✅ | 2023/11/18 | 17-2 | [Peak Extraction](https://ws.tsl.rocks/corp/b656a84b60d6de62745eb9059a703b44cca76b6247beeceef5f856f89e4c2d0d/) |
 
+---
 Corporation ID: f718a308568b300ddb5e1fb10f817f112942f9449ec311aff136da5a3149cb18
 
 [Hades' Star](https://www.hadesstar.com)

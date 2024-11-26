@@ -4,9 +4,7 @@ title: ​Red Star Corp.
 description: W:6 L:15 D:0 Bonus ❌
 date: 1722615275
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1722615275
 | Draws | 0 |
 | Streak Record | 3 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,7 +116,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -144,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2023/11/15 | 9-1 | [新纪元舰队](https://ws.tsl.rocks/corp/d36af8af2f097f561de219867c4bfcc83f266642293429cf3fda159792008277/) |
 | ❌ | 2023/11/07 | 4-6 | [拆迁大队](https://ws.tsl.rocks/corp/d8de6fa1ed53aeb856209de01d8a990a562d7438e0abe2cfe50776bb11345f17/) |
 
+---
 Corporation ID: 7ac87486823e26635a2f3887927b19b3a14a7875d38042200045204c418d9ac1
 
 [Hades' Star](https://www.hadesstar.com)

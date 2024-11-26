@@ -4,9 +4,7 @@ title: ​AAAA
 description: W:13 L:12 D:3 Bonus ❌
 date: 1732379588
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1732379588
 | Draws | 3 |
 | Streak Record | 5 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,7 +116,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -151,6 +152,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2024/06/13 | 3-5 | [империя тьмы](https://ws.tsl.rocks/corp/4eb22a1b793e5d03579cea15c873b1bef56fea02420a4e55edb18a200f7fc46a/) |
 | ❌ | 2024/05/23 | 0-28 | [sk cz nebula](https://ws.tsl.rocks/corp/6ed29f74bee91a7aad75a64196918993de6cec070ce8c65d1132ed6b0e79005d/) |
 
+---
 Corporation ID: 73b759d7c9218f2c1171f9ef691739331ca36ee045039f4f3f935a47b6622a27
 
 [Hades' Star](https://www.hadesstar.com)

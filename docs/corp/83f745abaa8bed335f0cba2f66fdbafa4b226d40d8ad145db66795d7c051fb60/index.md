@@ -4,9 +4,7 @@ title: ​德意志第三帝国阿尔法分部
 description: W:3 L:26 D:1 Bonus ❌
 date: 1713436849
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1713436849
 | Losses | 26 |
 | Draws | 1 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,6 +115,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
@@ -123,6 +123,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [TeddisaurusWrex](https://ws.tsl.rocks/corp/88f37fd0ab1f14c7e06af4173800167f8d1f5db4022c1cd42637da431140ef7a/) | 0 | 2 | 0 | 2 |
 | [ES Gaming ](https://ws.tsl.rocks/corp/1bbc4390e9fa60fe312b23c8fa8d8f9eb499307607a4c3304e33bd05bd58f981/) | 1 | 1 | 0 | 2 |
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -158,6 +159,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2023/12/10 | 0-1 | [КМБ](https://ws.tsl.rocks/corp/9863510eb8d02a7be02ef6a2cf42499cbf1e7ec62df078fe82aaa791444445f4/) |
 | ❌ | 2023/12/04 | 0-2 | [Eretria ](https://ws.tsl.rocks/corp/bdadb3cf8eff262b48dd6a7b5945b8192fbc67117ddb3eecf7912e402e975725/) |
 
+---
 Corporation ID: 83f745abaa8bed335f0cba2f66fdbafa4b226d40d8ad145db66795d7c051fb60
 
 [Hades' Star](https://www.hadesstar.com)

@@ -4,9 +4,7 @@ title: ​Likapa
 description: W:91 L:8 D:0 Bonus ✅
 date: 1732471235
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ✅
 
@@ -21,6 +19,7 @@ date: 1732471235
 | Streak | 12 |
 | Streak Record | 42 |
 
+---
 
 # Whitestar Match Day
 
@@ -118,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [혁명군](https://ws.tsl.rocks/corp/712800536cbb3ef3357a2480d86cf971596950ac499e699bb3d99f94d1c65f5f/) | 2 | 0 | 0 | 2 |
 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) | 2 | 0 | 0 | 2 |
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -245,6 +246,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2023/11/13 | 28-15 | [Nine's Own Goal](https://ws.tsl.rocks/corp/fd47245550708347721e341d893b73e7c23e0f3624053c47ce666e55641c9e9e/) |
 | ✅ | 2023/11/06 | 20-1 | [The Picard](https://ws.tsl.rocks/corp/e9a6cae99e308f9c70625e04162b887239bea0d52463d7a3ed53464fdd906d0b/) |
 
+---
 Corporation ID: 430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4
 
 [Hades' Star](https://www.hadesstar.com)

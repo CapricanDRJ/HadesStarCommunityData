@@ -4,9 +4,7 @@ title: ​Tormenta
 description: W:3 L:12 D:0 Bonus ❌
 date: 1727601157
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1727601157
 | Draws | 0 |
 | Streak Record | 2 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,7 +116,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -138,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2023/12/23 | 6-31 | [ItBurnsWhenIEMP](https://ws.tsl.rocks/corp/1549586a8e69d1a5b1245b5cf33b7beb241b2343c07d1d800e5a2c4026c06438/) |
 | ❌ | 2023/12/10 | 4-36 | [TROLL SQUAD](https://ws.tsl.rocks/corp/91daecf0251a6a1eee3d92820695d021c1f949e194cc5003d7cdebe59ef4502e/) |
 
+---
 Corporation ID: 537807f41149f54b040d4f2bc983c7f1fbfa2242ec5566371330e4996e33a195
 
 [Hades' Star](https://www.hadesstar.com)

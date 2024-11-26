@@ -4,9 +4,7 @@ title: ​Axiom
 description: W:77 L:38 D:0 Bonus ✅
 date: 1732179145
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ✅
 
@@ -21,6 +19,7 @@ date: 1732179145
 | Streak | 2 |
 | Streak Record | 8 |
 
+---
 
 # Whitestar Match Day
 
@@ -118,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) | 0 | 2 | 0 | 2 |
 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 0 | 3 | 0 | 3 |
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -252,6 +253,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2023/11/16 | 17-9 | [LANCE](https://ws.tsl.rocks/corp/f9d489fbbe222ff361139bfe234f235c1dfd82f2ccf38f7ecd929e6377408883/) |
 | ✅ | 2023/11/08 | 13-10 | [OntarioDestiny](https://ws.tsl.rocks/corp/806a86639b93c3a025e026bcedab96052be0e32b712c96217b3d5b330b3f5a6d/) |
 
+---
 Corporation ID: 4000a010c205d318c766ba14fe1836eaab6652f1738a88cce8a8c69d0283e1b0
 
 [Hades' Star](https://www.hadesstar.com)

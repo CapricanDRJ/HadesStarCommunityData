@@ -4,9 +4,7 @@ title: ​Призрачный Путь
 description: W:13 L:6 D:0 Bonus ❌
 date: 1724436985
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1724436985
 | Draws | 0 |
 | Streak Record | 10 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,7 +116,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -142,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2023/11/16 | 8-0 | [Dritte Macht](https://ws.tsl.rocks/corp/c5d6d4bd092c0fc6dc65e1f04794d067ea6ce8291eac210548726301bc0614ac/) |
 | ✅ | 2023/11/07 | 9-0 | [Darknova](https://ws.tsl.rocks/corp/2badefc535747c4b2d431ed2e3d48983575a349ac4d5c361576a24521b0accf7/) |
 
+---
 Corporation ID: c4cb268c3665e9b1d2250f72fb83c73e293536df6581cc087f195a049ca15528
 
 [Hades' Star](https://www.hadesstar.com)

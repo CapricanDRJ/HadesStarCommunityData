@@ -4,9 +4,7 @@ title: ​THE BENDERA
 description: W:15 L:6 D:0 Bonus ❌
 date: 1715830706
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -21,6 +19,7 @@ date: 1715830706
 | Streak | 7 |
 | Streak Record | 7 |
 
+---
 
 # Whitestar Match Day
 
@@ -118,7 +117,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -145,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2023/12/01 | 15-9 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ✅ | 2023/11/24 | 10-2 | [Free Star](https://ws.tsl.rocks/corp/3970e813bec9126438bee62e337f181cf80eef7babc4a233b5b3df6003a3b9cf/) |
 
+---
 Corporation ID: 4c9acd27de08822b8670167ae6bc94f7ecd2786d5beed82c68ad61600fc318d3
 
 [Hades' Star](https://www.hadesstar.com)

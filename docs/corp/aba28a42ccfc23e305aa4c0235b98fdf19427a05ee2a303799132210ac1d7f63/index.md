@@ -4,9 +4,7 @@ title: ​Die Mafia
 description: W:0 L:0 D:1 Bonus ❌
 date: 1708916623
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1708916623
 | Losses | 0 |
 | Draws | 1 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,13 +115,16 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
 | ↔️ | 2024/02/26 | 0-0 | [Cowboys](https://ws.tsl.rocks/corp/f461f65e85a43e0b855a525f6995505fc1cc5ae6f85be50470c9dacbb955fc21/) |
 
+---
 Corporation ID: aba28a42ccfc23e305aa4c0235b98fdf19427a05ee2a303799132210ac1d7f63
 
 [Hades' Star](https://www.hadesstar.com)

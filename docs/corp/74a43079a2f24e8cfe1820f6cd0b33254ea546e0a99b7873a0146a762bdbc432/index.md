@@ -4,9 +4,7 @@ title: ​ЭКЛИПТИКА
 description: W:1 L:0 D:0 Bonus ❌
 date: 1725217707
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1725217707
 | Losses | 0 |
 | Draws | 0 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,13 +115,16 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
 | ✅ | 2024/09/01 | 15-13 | [Galaktika corp](https://ws.tsl.rocks/corp/c37872d1ea085402bf536c707a895610f72dafda4bede848405b7908b4523985/) |
 
+---
 Corporation ID: 74a43079a2f24e8cfe1820f6cd0b33254ea546e0a99b7873a0146a762bdbc432
 
 [Hades' Star](https://www.hadesstar.com)

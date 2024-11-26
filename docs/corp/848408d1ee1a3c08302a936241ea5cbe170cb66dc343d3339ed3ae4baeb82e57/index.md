@@ -4,9 +4,7 @@ title: ​Decode
 description: W:37 L:25 D:1 Bonus ❌
 date: 1732276811
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1732276811
 | Draws | 1 |
 | Streak Record | 6 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,6 +116,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
@@ -127,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [Space Rangers](https://ws.tsl.rocks/corp/da0952db0de44e4eee72d9ffa2394d5818565c5c16d89a1313c6df07417f9fb3/) | 2 | 0 | 0 | 2 |
 | [MÉXICO INFINITO](https://ws.tsl.rocks/corp/a9fbdd48477b87a054dbd804eef12ae08bc6e02798cd8990b08c4a9803d8f9d8/) | 3 | 1 | 0 | 4 |
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -195,6 +196,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2023/11/29 | 0-7 | [Krasse Bros](https://ws.tsl.rocks/corp/ec8df719929b564225592da878034621da81f0c95a84a1afdee1b2c8389374fb/) |
 | ✅ | 2023/11/23 | 6-1 | [Space Rangers](https://ws.tsl.rocks/corp/da0952db0de44e4eee72d9ffa2394d5818565c5c16d89a1313c6df07417f9fb3/) |
 
+---
 Corporation ID: 848408d1ee1a3c08302a936241ea5cbe170cb66dc343d3339ed3ae4baeb82e57
 
 [Hades' Star](https://www.hadesstar.com)

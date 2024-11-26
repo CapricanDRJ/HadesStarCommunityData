@@ -4,9 +4,7 @@ title: ​VoidRunners
 description: W:76 L:47 D:1 Bonus ✅
 date: 1732196276
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ✅
 
@@ -21,6 +19,7 @@ date: 1732196276
 | Streak | 2 |
 | Streak Record | 7 |
 
+---
 
 # Whitestar Match Day
 
@@ -118,6 +117,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [Lacuna X](https://ws.tsl.rocks/corp/fb10f33f3db17b99b0d227f17e7fde76ef067dc4a4bb4ae05e46c76d2e5e8ea1/) | 0 | 2 | 0 | 2 |
 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) | 3 | 1 | 0 | 4 |
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -266,6 +267,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ✅ | 2024/01/05 | 7-0 | [Intercepter Inc](https://ws.tsl.rocks/corp/77a77d3506a7caa4235a9cd6e9789f562649180fe9404bab2bb70d4433a2f520/) |
 | ❌ | 2023/12/31 | 3-7 | [phoenix clan](https://ws.tsl.rocks/corp/e25bc73528b7029e9b908d920effef5e183928ad3f7b151987a29252d9052c79/) |
 
+---
 Corporation ID: 5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23
 
 [Hades' Star](https://www.hadesstar.com)

@@ -4,9 +4,7 @@ title: ​九州分团
 description: W:49 L:61 D:4 Bonus ✅
 date: 1732179746
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ✅
 
@@ -20,6 +18,7 @@ date: 1732179746
 | Draws | 4 |
 | Streak Record | 7 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,6 +116,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 ### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [Black Star llc\.](https://ws.tsl.rocks/corp/f6cd5aed527efed3a402f931784d68b5b7201b317118a60bd3d81b551ee87330/) | 1 | 1 | 0 | 2 |
 | [湖心亭看雪](https://ws.tsl.rocks/corp/eb4316c2fbedc2f03ed45e128c8c8d96376d1d1125790a9b9697481dacd002fb/) | 0 | 0 | 2 | 2 |
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -256,6 +257,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2023/11/04 | 0-24 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | ❌ | 2023/11/04 | 0-23 | [Gemini Ind\.](https://ws.tsl.rocks/corp/c85dd45ed75136d750bdcc2d83740494dea9e0ba077eac1bbb2f1a442a92674c/) |
 
+---
 Corporation ID: e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f
 
 [Hades' Star](https://www.hadesstar.com)

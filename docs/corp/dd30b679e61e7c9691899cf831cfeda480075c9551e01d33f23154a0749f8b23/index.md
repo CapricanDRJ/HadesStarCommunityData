@@ -4,9 +4,7 @@ title: ​La resistencia
 description: W:0 L:0 D:1 Bonus ❌
 date: 1705295296
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -19,6 +17,7 @@ date: 1705295296
 | Losses | 0 |
 | Draws | 1 |
 
+---
 
 # Whitestar Match Day
 
@@ -116,13 +115,16 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
 | ↔️ | 2024/01/15 | 0-0 | [NameLess Hades](https://ws.tsl.rocks/corp/65d7ee16522a7a070c89169892d23d47d4dabc408e729b114382d9f75230a6b0/) |
 
+---
 Corporation ID: dd30b679e61e7c9691899cf831cfeda480075c9551e01d33f23154a0749f8b23
 
 [Hades' Star](https://www.hadesstar.com)

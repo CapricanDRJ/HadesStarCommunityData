@@ -4,9 +4,7 @@ title: ​RUFORS
 description: W:11 L:8 D:0 Bonus ❌
 date: 1731665898
 ---
-<div style="float: right; margin: 0 0 1em 1em; clear: right;">
-<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
-</div>
+<img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 ### Whitestar Bonus ❌
 
@@ -20,6 +18,7 @@ date: 1731665898
 | Draws | 0 |
 | Streak Record | 3 |
 
+---
 
 # Whitestar Match Day
 
@@ -117,7 +116,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
+---
 
+---
 ### Match History
 
 |  | Date | Score | Opponent |
@@ -142,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | ❌ | 2023/12/06 | 1-21 | [Galaxian](https://ws.tsl.rocks/corp/5dcf6b30fe7412dfe10c7f88aacc5e5ec1d63a2ea3df0084c393b9e20c34ee97/) |
 | ✅ | 2023/11/26 | 7-3 | [Galactic Empire](https://ws.tsl.rocks/corp/e2223ab2b582a5eb5ae1734e132358eb3c24ddf61fcbeee7b8f6708f26782108/) |
 
+---
 Corporation ID: f1e7f82e284c8233985039ea19544dbfa937f38f2315e9ad6a1d037423071b6d
 
 [Hades' Star](https://www.hadesstar.com)
