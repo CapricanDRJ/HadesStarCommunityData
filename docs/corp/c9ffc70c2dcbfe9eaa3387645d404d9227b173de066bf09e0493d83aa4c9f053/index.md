@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Лютые
-description: W:15 L:10 D:1 Bonus ✅
+description: W:15 L:10 D:1 Bonus ❌
 image: ./favicon.png
 date: 1731983527
 ---
@@ -9,7 +9,7 @@ date: 1731983527
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head><img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
