@@ -23,8 +23,6 @@ date: 1731054674
 | Losses | 26 |
 | Draws | 6 |
 
----
-
 ### Whitestar Match Day
 
 This chart shows the frequency of days of the week when whitestars were matched in your local timezone

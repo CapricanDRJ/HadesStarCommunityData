@@ -25,8 +25,6 @@ date: 1732434873
 | Streak | 39 |
 | Streak Record | 39 |
 
----
-
 ### Whitestar Match Day
 
 This chart shows the frequency of days of the week when whitestars were matched in your local timezone

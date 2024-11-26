@@ -16,14 +16,12 @@ date: 1725693704
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1196 🔻  (531)|
+| ELO Regular | 1196 🔻  (530)|
 | ELO Competitive | 1219 🔻  (479)|
 | Total Matches | 5 |
 | Wins | 1 |
 | Losses | 2 |
 | Draws | 2 |
-
----
 
 ### Whitestar Match Day
 
