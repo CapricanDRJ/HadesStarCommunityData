@@ -11,7 +11,9 @@ date: 1718673783
 
 
 
+
 ### Whitestar Bonus ❌
+
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1184 🔻  (794)|
