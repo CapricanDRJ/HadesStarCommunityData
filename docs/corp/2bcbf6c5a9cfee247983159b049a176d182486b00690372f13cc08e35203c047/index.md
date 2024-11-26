@@ -21,7 +21,7 @@ date: 1704688043
 
 ---
 
-## Whitestar Match Day
+### Whitestar Match Day
 
 This chart shows the frequency of days of the week when whitestars were matched in your local timezone
 
