@@ -4,6 +4,10 @@ title: ​物竞天择，适者生存
 description: W:5 L:5 D:1 Bonus ✅
 date: 1732373877
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

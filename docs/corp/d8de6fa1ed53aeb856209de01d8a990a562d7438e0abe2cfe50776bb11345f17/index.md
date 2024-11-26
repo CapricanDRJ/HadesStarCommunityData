@@ -4,6 +4,10 @@ title: ​拆迁大队
 description: W:15 L:35 D:3 Bonus ❌
 date: 1731146324
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

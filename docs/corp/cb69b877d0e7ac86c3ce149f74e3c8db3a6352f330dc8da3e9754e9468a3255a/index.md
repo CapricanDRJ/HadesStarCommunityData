@@ -4,6 +4,10 @@ title: ​⭐PRETORIANS.X⭐
 description: W:9 L:13 D:2 Bonus ✅
 date: 1732526218
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

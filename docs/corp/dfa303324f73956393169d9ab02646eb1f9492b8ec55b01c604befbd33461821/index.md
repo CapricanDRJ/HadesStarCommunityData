@@ -4,6 +4,10 @@ title: ​𝖕𝖎𝖗𝖆𝖙𝖊𝖘
 description: W:1 L:3 D:1 Bonus ❌
 date: 1726627017
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

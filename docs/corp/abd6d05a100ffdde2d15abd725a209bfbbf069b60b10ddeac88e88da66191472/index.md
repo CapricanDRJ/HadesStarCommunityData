@@ -4,6 +4,10 @@ title: ​华夏舰队
 description: W:20 L:53 D:0 Bonus ❌
 date: 1732192368
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

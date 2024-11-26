@@ -4,6 +4,10 @@ title: ​StellarCorpIT
 description: W:8 L:2 D:0 Bonus ❌
 date: 1728586532
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

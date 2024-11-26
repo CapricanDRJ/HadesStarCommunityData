@@ -4,6 +4,10 @@ title: ​新纪元舰队
 description: W:4 L:12 D:2 Bonus ❌
 date: 1716450547
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

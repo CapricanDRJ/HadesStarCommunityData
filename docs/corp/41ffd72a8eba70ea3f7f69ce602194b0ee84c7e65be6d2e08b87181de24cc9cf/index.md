@@ -4,6 +4,10 @@ title: ​Dark Sun
 description: W:6 L:11 D:2 Bonus ❌
 date: 1705458831
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

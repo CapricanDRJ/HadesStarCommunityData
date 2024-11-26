@@ -4,6 +4,10 @@ title: ​中国星际联盟·第一自治州
 description: W:1 L:3 D:1 Bonus ❌
 date: 1725618874
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

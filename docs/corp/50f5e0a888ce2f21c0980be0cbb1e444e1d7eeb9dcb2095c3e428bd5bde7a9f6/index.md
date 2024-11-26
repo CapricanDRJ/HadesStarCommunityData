@@ -4,6 +4,10 @@ title: ​太阳系集团
 description: W:14 L:7 D:2 Bonus ✅
 date: 1732544249
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

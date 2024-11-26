@@ -4,6 +4,10 @@ title: ​White Star Inc.
 description: W:3 L:6 D:0 Bonus ❌
 date: 1731940255
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

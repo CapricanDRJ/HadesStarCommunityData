@@ -4,6 +4,10 @@ title: ​pirates spatial
 description: W:53 L:40 D:0 Bonus ✅
 date: 1732348933
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

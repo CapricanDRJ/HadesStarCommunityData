@@ -4,6 +4,10 @@ title: ​德意志第三帝国奥米加分部
 description: W:12 L:12 D:3 Bonus ❌
 date: 1730792639
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

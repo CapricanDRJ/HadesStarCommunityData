@@ -4,6 +4,10 @@ title: ​使命白星
 description: W:13 L:8 D:2 Bonus ❌
 date: 1727648220
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

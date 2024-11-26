@@ -4,6 +4,10 @@ title: ​逐光起航
 description: W:9 L:39 D:6 Bonus ❌
 date: 1732192068
 ---
+<div style="float: right; margin: 0 0 1em 1em; clear: right;">
+<img src="./qr.png" alt="QR Code" style="width: 100px; height: auto;">
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
