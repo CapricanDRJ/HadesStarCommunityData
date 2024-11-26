@@ -1,12 +1,12 @@
 ---
 layout: page
 title: ​Dumpster Fire
-description: W:20 L:43 D:0 Bonus ✅
+description: W:20 L:43 D:0 Bonus ❌
 date: 1732466727
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

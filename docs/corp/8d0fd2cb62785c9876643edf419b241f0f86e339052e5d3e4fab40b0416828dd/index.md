@@ -1,17 +1,17 @@
 ---
 layout: page
 title: ​Splendid
-description: W:4 L:4 D:0 Bonus ✅
+description: W:4 L:4 D:0 Bonus ❌
 date: 1731959190
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1207 🔺  (448)|
-| ELO Competitive | 1213 🔺  (540)|
+| ELO Regular | 1207 🔺  (449)|
+| ELO Competitive | 1213 🔺  (541)|
 | Total Matches | 8 |
 | Wins | 4 |
 | Losses | 4 |

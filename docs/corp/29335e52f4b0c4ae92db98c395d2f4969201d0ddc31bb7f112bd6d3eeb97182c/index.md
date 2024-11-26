@@ -1,22 +1,21 @@
 ---
 layout: page
 title: ​Zeta Division 
-description: W:6 L:1 D:0 Bonus ❌
-date: 1731664695
+description: W:7 L:2 D:0 Bonus ✅
+date: 1732586321
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1273 🔺  (193)|
-| ELO Competitive | 1286 🔺  (284)|
-| Total Matches | 7 |
-| Wins | 6 |
-| Losses | 1 |
+| ELO Regular | 1266 🔺  (212)|
+| ELO Competitive | 1299 🔺  (259)|
+| Total Matches | 9 |
+| Wins | 7 |
+| Losses | 2 |
 | Draws | 0 |
-| Streak | 5 |
 | Streak Record | 5 |
 
 ---
@@ -35,7 +34,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731232695,1730609755,1729911979,1729186280,1728740556,1728234768,1727606677];
+        let timestamps = [1732154321,1732154321,1731232695,1730609755,1729911979,1729186280,1728740556,1728234768,1727606677];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,6 +123,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/26 | 8-3 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
+| ❌ | 2024/11/26 | 0-4 | [exirium](https://ws.tsl.rocks/corp/4981522e08ce38bcec7b2a189b3bfba9c072a615eea490a55c645344ac975f54/) |
 | ✅ | 2024/11/15 | 13-0 | [hades star萌新指引站](https://ws.tsl.rocks/corp/06feef105195a4e2ec026c0e3e2c62fce31204dfe6be8e4b26863935efbf8a50/) |
 | ✅ | 2024/11/08 | 15-1 | [Fairy tail ](https://ws.tsl.rocks/corp/44e6a82c06b84bc5579df0e42bc462f36313b0060861d25228856930f6c19eac/) |
 | ✅ | 2024/10/31 | 10-0 | [Sich\.ua](https://ws.tsl.rocks/corp/9fcd6d7c4fe7f8e39acf48585dfe9c6d3d14edc7781fe8caf85618b3e98c685d/) |
