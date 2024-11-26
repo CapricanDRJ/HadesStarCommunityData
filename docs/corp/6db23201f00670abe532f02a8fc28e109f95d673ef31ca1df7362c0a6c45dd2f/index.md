@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​(_(_Vossk_)_)
-description: W:11 L:19 D:0 Bonus ❌
+description: W:11 L:20 D:0 Bonus ❌
 image: ./favicon.png
-date: 1731451030
+date: 1732620870
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -13,11 +13,11 @@ date: 1731451030
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1142 🔺  (1125)|
-| ELO Competitive | 1180 🔺  (969)|
-| Total Matches | 30 |
+| ELO Regular | 1130 🔻  (1165)|
+| ELO Competitive | 1166 🔻  (1115)|
+| Total Matches | 31 |
 | Wins | 11 |
-| Losses | 19 |
+| Losses | 20 |
 | Draws | 0 |
 | Streak Record | 3 |
 
@@ -37,7 +37,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731019030,1727345843,1726738938,1725750906,1725069996,1724365294,1714759052,1713393985,1712313456,1711794828,1711062568,1710370894,1709420803,1708773552,1707980844,1706924873,1706104767,1705544010,1704867258,1704186588,1703335219,1702556936,1701832620,1701301266,1700807753,1700784316,1700298027,1699657470,1698832850,1698823835];
+        let timestamps = [1732188870,1731019030,1727345843,1726738938,1725750906,1725069996,1724365294,1714759052,1713393985,1712313456,1711794828,1711062568,1710370894,1709420803,1708773552,1707980844,1706924873,1706104767,1705544010,1704867258,1704186588,1703335219,1702556936,1701832620,1701301266,1700807753,1700784316,1700298027,1699657470,1698832850,1698823835];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/26 | 0-37 | [HADE'S BR](https://ws.tsl.rocks/corp/c45eed113ca441bc97ea13701b324eef2a880f75a5de80044e11389b8cc67ae0/) |
 | ✅ | 2024/11/12 | 7-3 | [Germania](https://ws.tsl.rocks/corp/e088c9a1e761ef8c1f07a1d374886006b0ecace15d07b9549e3655729b630897/) |
 | ❌ | 2024/10/01 | 0-34 | [Últimafronteira](https://ws.tsl.rocks/corp/27e96f432a078f197bb5e4c34480ccabc05a9ee48e7bb04d95288fda15e94d3c/) |
 | ❌ | 2024/09/24 | 0-29 | [Death Star llc\.](https://ws.tsl.rocks/corp/3dd4906939827fa7537a3e95f8d75948c06b75a98f3c4aab253ea79857d2ce81/) |

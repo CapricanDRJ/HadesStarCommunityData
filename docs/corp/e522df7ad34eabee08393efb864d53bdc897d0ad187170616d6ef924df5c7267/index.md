@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​银河护卫队
-description: W:4 L:7 D:1 Bonus ✅
+description: W:4 L:7 D:1 Bonus ❌
 image: ./favicon.png
 date: 1732015372
 ---
@@ -9,12 +9,12 @@ date: 1732015372
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head><img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1147 🔻  (1096)|
-| ELO Competitive | 1213 🔺  (533)|
+| ELO Regular | 1147 🔻  (1097)|
+| ELO Competitive | 1213 🔺  (534)|
 | Total Matches | 12 |
 | Wins | 4 |
 | Losses | 7 |
