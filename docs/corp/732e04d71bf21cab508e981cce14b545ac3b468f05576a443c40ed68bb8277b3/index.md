@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​白星成就团
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:3 D:0 Bonus ❌
 image: ./favicon.png
-date: 1732197779
+date: 1732630187
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -13,11 +13,11 @@ date: 1732197779
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1179 🔻  (830)|
-| ELO Competitive | 1186 🔻  (819)|
-| Total Matches | 2 |
+| ELO Regular | 1175 🔻  (865)|
+| ELO Competitive | 1182 🔻  (951)|
+| Total Matches | 3 |
 | Wins | 0 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 
 ---
@@ -36,7 +36,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731765779,1731324657];
+        let timestamps = [1732198187,1731765779,1731324657];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,6 +125,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/26 | 0-51 | [Atlas Star llc\.](https://ws.tsl.rocks/corp/3de5259ba12509e4d02854f1414caacf3d0aaaf79f417b9d843ff20ca35863dd/) |
 | ❌ | 2024/11/21 | 0-37 | [lonewolf](https://ws.tsl.rocks/corp/216c1ab0bb2cbf918019c0a38a37820a9d5d78d7c5801983ed6e3b17bebdc5f3/) |
 | ❌ | 2024/11/16 | 0-10 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) |
 
