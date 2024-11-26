@@ -2,6 +2,7 @@
 layout: page
 title: ​First Squad
 description: W:5 L:15 D:1 Bonus ❌
+image: ./favicon.png
 date: 1730241827
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

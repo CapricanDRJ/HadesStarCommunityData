@@ -2,6 +2,7 @@
 layout: page
 title: ​Warp Dominion
 description: W:3 L:2 D:0 Bonus ❌
+image: ./favicon.png
 date: 1708320893
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
@@ -10,7 +11,7 @@ date: 1708320893
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1212 🔻  (423)|
+| ELO Regular | 1212 🔻  (422)|
 | ELO Competitive | 1217 🔻  (497)|
 | Total Matches | 5 |
 | Wins | 3 |

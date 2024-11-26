@@ -2,6 +2,7 @@
 layout: page
 title: ​WHITE NOVA
 description: W:2 L:5 D:0 Bonus ❌
+image: ./favicon.png
 date: 1731379810
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

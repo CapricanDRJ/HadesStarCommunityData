@@ -2,6 +2,7 @@
 layout: page
 title: ​Axioma
 description: W:11 L:27 D:2 Bonus ❌
+image: ./favicon.png
 date: 1726728458
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

@@ -2,6 +2,7 @@
 layout: page
 title: ​Fleet Corp Ares
 description: W:11 L:12 D:0 Bonus ✅
+image: ./favicon.png
 date: 1732524115
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

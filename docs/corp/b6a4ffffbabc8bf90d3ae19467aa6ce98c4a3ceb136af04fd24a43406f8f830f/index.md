@@ -2,6 +2,7 @@
 layout: page
 title: ​아베노노
 description: W:4 L:3 D:1 Bonus ❌
+image: ./favicon.png
 date: 1731028163
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
@@ -10,7 +11,7 @@ date: 1731028163
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1208 🔺  (443)|
+| ELO Regular | 1208 🔺  (442)|
 | ELO Competitive | 1219 🔺  (484)|
 | Total Matches | 8 |
 | Wins | 4 |

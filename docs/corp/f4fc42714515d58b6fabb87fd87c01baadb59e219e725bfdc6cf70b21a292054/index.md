@@ -2,6 +2,7 @@
 layout: page
 title: ​Orphans Of Kos
 description: W:5 L:6 D:0 Bonus ❌
+image: ./favicon.png
 date: 1707429599
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

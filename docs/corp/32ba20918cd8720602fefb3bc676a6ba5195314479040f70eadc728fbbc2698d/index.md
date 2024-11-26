@@ -2,6 +2,7 @@
 layout: page
 title: ​Star Destroyers
 description: W:33 L:21 D:2 Bonus ✅
+image: ./favicon.png
 date: 1732184554
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

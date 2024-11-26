@@ -2,6 +2,7 @@
 layout: page
 title: ​UFO
 description: W:6 L:9 D:1 Bonus ❌
+image: ./favicon.png
 date: 1732340821
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
@@ -10,7 +11,7 @@ date: 1732340821
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1208 🔻  (447)|
+| ELO Regular | 1208 🔻  (446)|
 | ELO Competitive | 1231 🔻  (431)|
 | Total Matches | 16 |
 | Wins | 6 |

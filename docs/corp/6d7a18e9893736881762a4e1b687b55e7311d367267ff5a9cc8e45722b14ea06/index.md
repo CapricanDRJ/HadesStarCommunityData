@@ -2,6 +2,7 @@
 layout: page
 title: ​U.S.A
 description: W:18 L:34 D:1 Bonus ❌
+image: ./favicon.png
 date: 1732380489
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

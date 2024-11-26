@@ -2,6 +2,7 @@
 layout: page
 title: ​Гарри Поттер
 description: W:7 L:2 D:1 Bonus ❌
+image: ./favicon.png
 date: 1712226828
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

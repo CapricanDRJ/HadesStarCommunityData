@@ -2,6 +2,7 @@
 layout: page
 title: ​闲散人员
 description: W:13 L:7 D:2 Bonus ✅
+image: ./favicon.png
 date: 1732489764
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

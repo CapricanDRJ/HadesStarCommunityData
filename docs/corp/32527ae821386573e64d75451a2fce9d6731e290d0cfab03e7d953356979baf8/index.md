@@ -2,6 +2,7 @@
 layout: page
 title: ​Hail Hydra
 description: W:6 L:18 D:1 Bonus ❌
+image: ./favicon.png
 date: 1723153186
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

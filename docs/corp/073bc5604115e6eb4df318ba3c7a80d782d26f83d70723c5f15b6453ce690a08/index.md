@@ -2,6 +2,7 @@
 layout: page
 title: ​Novana Gaming
 description: W:4 L:5 D:0 Bonus ❌
+image: ./favicon.png
 date: 1724582728
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

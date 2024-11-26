@@ -2,6 +2,7 @@
 layout: page
 title: ​Кулак
 description: W:20 L:65 D:0 Bonus ✅
+image: ./favicon.png
 date: 1732347732
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

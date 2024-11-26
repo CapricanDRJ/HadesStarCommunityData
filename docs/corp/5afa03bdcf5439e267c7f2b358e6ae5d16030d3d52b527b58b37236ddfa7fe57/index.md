@@ -2,6 +2,7 @@
 layout: page
 title: ​行星联合军
 description: W:7 L:10 D:0 Bonus ❌
+image: ./favicon.png
 date: 1729688296
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

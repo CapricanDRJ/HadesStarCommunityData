@@ -2,6 +2,7 @@
 layout: page
 title: ​墨痕白星分部
 description: W:9 L:7 D:0 Bonus ❌
+image: ./favicon.png
 date: 1709307723
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

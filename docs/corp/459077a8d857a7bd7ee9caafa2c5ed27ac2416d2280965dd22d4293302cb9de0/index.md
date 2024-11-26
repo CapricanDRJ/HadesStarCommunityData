@@ -2,6 +2,7 @@
 layout: page
 title: ​一根飞机
 description: W:5 L:2 D:1 Bonus ✅
+image: ./favicon.png
 date: 1732554168
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

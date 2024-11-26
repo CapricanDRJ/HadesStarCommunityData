@@ -2,6 +2,7 @@
 layout: page
 title: ​Картофель 🇲🇬
 description: W:1 L:0 D:0 Bonus ❌
+image: ./favicon.png
 date: 1722229384
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
@@ -10,7 +11,7 @@ date: 1722229384
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1209 🔺  (439)|
+| ELO Regular | 1209 🔺  (438)|
 | ELO Competitive | 1210 🔺  (565)|
 | Total Matches | 1 |
 | Wins | 1 |

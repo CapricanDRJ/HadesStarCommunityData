@@ -2,6 +2,7 @@
 layout: page
 title: ​Todesschwadron
 description: W:2 L:3 D:0 Bonus ❌
+image: ./favicon.png
 date: 1704688043
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

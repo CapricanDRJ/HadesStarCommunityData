@@ -2,6 +2,7 @@
 layout: page
 title: ​Ten Forward
 description: W:1 L:7 D:0 Bonus ❌
+image: ./favicon.png
 date: 1707770237
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

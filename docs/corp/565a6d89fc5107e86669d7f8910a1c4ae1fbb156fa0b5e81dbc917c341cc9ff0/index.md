@@ -2,6 +2,7 @@
 layout: page
 title: ​落雨观花
 description: W:16 L:12 D:1 Bonus ✅
+image: ./favicon.png
 date: 1732168929
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

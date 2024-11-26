@@ -2,6 +2,7 @@
 layout: page
 title: ​Vertin's box
 description: W:1 L:0 D:0 Bonus ❌
+image: ./favicon.png
 date: 1717941473
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
@@ -10,7 +11,7 @@ date: 1717941473
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1208 🔺  (445)|
+| ELO Regular | 1208 🔺  (444)|
 | ELO Competitive | 1213 🔺  (538)|
 | Total Matches | 1 |
 | Wins | 1 |

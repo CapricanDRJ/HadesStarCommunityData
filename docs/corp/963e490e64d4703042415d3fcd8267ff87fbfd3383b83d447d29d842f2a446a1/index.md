@@ -2,6 +2,7 @@
 layout: page
 title: ​KLM
 description: W:11 L:34 D:0 Bonus ❌
+image: ./favicon.png
 date: 1732065260
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

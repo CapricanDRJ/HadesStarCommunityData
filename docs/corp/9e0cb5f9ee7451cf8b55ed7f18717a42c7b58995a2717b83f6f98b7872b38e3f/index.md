@@ -2,6 +2,7 @@
 layout: page
 title: ​Farland Ind.
 description: W:7 L:19 D:1 Bonus ❌
+image: ./favicon.png
 date: 1721257201
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

@@ -2,6 +2,7 @@
 layout: page
 title: ​REY DE REYES
 description: W:1 L:12 D:0 Bonus ❌
+image: ./favicon.png
 date: 1728409213
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

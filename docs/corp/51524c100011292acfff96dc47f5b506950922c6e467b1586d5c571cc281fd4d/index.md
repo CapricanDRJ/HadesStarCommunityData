@@ -2,6 +2,7 @@
 layout: page
 title: ​永恒之梦
 description: W:6 L:3 D:2 Bonus ❌
+image: ./favicon.png
 date: 1725284714
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

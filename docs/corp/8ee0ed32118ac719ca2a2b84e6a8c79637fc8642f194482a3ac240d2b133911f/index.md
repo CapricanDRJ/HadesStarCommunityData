@@ -2,6 +2,7 @@
 layout: page
 title: ​Interstellar
 description: W:37 L:44 D:3 Bonus ❌
+image: ./favicon.png
 date: 1732246764
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

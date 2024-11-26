@@ -2,6 +2,7 @@
 layout: page
 title: ​Tacitus
 description: W:2 L:0 D:0 Bonus ❌
+image: ./favicon.png
 date: 1730131847
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

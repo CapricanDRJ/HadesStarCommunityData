@@ -2,6 +2,7 @@
 layout: page
 title: ​Bounty Hunters
 description: W:7 L:6 D:0 Bonus ❌
+image: ./favicon.png
 date: 1730214778
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

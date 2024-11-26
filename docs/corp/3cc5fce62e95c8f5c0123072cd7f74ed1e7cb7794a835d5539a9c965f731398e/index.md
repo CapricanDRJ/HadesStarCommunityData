@@ -2,6 +2,7 @@
 layout: page
 title: ​FAIR
 description: W:0 L:2 D:1 Bonus ❌
+image: ./favicon.png
 date: 1722286796
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

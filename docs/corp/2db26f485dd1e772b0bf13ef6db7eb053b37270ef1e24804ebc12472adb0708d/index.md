@@ -2,6 +2,7 @@
 layout: page
 title: ​ZN•H2B
 description: W:4 L:9 D:0 Bonus ❌
+image: ./favicon.png
 date: 1720840648
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

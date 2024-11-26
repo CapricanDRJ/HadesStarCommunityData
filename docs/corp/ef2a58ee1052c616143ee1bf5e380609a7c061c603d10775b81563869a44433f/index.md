@@ -2,6 +2,7 @@
 layout: page
 title: ​Алый Феникс
 description: W:7 L:9 D:0 Bonus ✅
+image: ./favicon.png
 date: 1731988934
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

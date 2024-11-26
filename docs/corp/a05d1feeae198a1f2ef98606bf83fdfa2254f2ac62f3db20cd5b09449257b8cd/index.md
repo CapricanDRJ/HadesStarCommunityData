@@ -2,6 +2,7 @@
 layout: page
 title: ​DarkSide
 description: W:43 L:53 D:1 Bonus ✅
+image: ./favicon.png
 date: 1732383495
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

@@ -2,6 +2,7 @@
 layout: page
 title: ​Star Wars
 description: W:10 L:8 D:0 Bonus ❌
+image: ./favicon.png
 date: 1722148180
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
@@ -11,7 +12,7 @@ date: 1722148180
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1225 🔺  (329)|
-| ELO Competitive | 1246 🔺  (383)|
+| ELO Competitive | 1246 🔺  (382)|
 | Total Matches | 18 |
 | Wins | 10 |
 | Losses | 8 |

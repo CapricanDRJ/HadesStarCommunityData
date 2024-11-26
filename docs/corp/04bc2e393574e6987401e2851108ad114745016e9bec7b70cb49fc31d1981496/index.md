@@ -2,6 +2,7 @@
 layout: page
 title: ​Октябристы
 description: W:55 L:64 D:2 Bonus ✅
+image: ./favicon.png
 date: 1732595334
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

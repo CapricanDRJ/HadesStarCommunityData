@@ -2,6 +2,7 @@
 layout: page
 title: ​Эдельвейс
 description: W:0 L:3 D:1 Bonus ❌
+image: ./favicon.png
 date: 1701058584
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

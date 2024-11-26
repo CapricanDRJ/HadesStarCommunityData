@@ -2,6 +2,7 @@
 layout: page
 title: ​Dark Sun
 description: W:6 L:11 D:2 Bonus ❌
+image: ./favicon.png
 date: 1705458831
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

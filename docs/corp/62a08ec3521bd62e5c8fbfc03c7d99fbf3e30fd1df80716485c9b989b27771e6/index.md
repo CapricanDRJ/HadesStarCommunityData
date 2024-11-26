@@ -2,6 +2,7 @@
 layout: page
 title: ​The Watchers
 description: W:14 L:14 D:0 Bonus ✅
+image: ./favicon.png
 date: 1732313482
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

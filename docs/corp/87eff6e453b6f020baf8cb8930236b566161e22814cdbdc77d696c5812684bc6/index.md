@@ -2,6 +2,7 @@
 layout: page
 title: ​Space Pirates
 description: W:8 L:44 D:0 Bonus ✅
+image: ./favicon.png
 date: 1732380489
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

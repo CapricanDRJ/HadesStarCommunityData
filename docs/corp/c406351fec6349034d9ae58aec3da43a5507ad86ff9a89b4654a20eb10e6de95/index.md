@@ -2,6 +2,7 @@
 layout: page
 title: ​Альянс звезд
 description: W:3 L:1 D:0 Bonus ❌
+image: ./favicon.png
 date: 1702812215
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

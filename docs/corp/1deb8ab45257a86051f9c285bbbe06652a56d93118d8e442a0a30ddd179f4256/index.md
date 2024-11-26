@@ -2,6 +2,7 @@
 layout: page
 title: ​星际联盟（中国）
 description: W:8 L:13 D:2 Bonus ❌
+image: ./favicon.png
 date: 1725005845
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

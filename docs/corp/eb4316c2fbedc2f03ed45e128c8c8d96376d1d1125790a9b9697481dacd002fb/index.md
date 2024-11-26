@@ -2,6 +2,7 @@
 layout: page
 title: ​湖心亭看雪
 description: W:2 L:19 D:2 Bonus ❌
+image: ./favicon.png
 date: 1719390049
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

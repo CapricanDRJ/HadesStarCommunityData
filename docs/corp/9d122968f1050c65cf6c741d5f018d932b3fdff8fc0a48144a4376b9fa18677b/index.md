@@ -2,6 +2,7 @@
 layout: page
 title: ​ANDROMEDA INC. 
 description: W:25 L:1 D:1 Bonus ❌
+image: ./favicon.png
 date: 1731149329
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

@@ -2,6 +2,7 @@
 layout: page
 title: ​阿尔特拉太空港
 description: W:16 L:11 D:1 Bonus ❌
+image: ./favicon.png
 date: 1732101011
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

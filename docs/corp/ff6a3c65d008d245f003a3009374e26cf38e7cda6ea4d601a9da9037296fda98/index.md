@@ -2,6 +2,7 @@
 layout: page
 title: ​YETI Collective
 description: W:21 L:45 D:0 Bonus ❌
+image: ./favicon.png
 date: 1732409638
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

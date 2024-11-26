@@ -2,6 +2,7 @@
 layout: page
 title: ​두빛나래
 description: W:11 L:19 D:0 Bonus ❌
+image: ./favicon.png
 date: 1723938121
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

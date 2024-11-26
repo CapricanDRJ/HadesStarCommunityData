@@ -2,6 +2,7 @@
 layout: page
 title: ​Nexland Ind.
 description: W:5 L:4 D:1 Bonus ❌
+image: ./favicon.png
 date: 1719570374
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
@@ -11,7 +12,7 @@ date: 1719570374
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1214 🔻  (406)|
-| ELO Competitive | 1245 🔻  (387)|
+| ELO Competitive | 1245 🔻  (386)|
 | Total Matches | 10 |
 | Wins | 5 |
 | Losses | 4 |

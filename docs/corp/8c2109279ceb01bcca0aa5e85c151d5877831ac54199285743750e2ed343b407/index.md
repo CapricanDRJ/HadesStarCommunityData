@@ -2,6 +2,7 @@
 layout: page
 title: ​绛紫星
 description: W:32 L:28 D:2 Bonus ✅
+image: ./favicon.png
 date: 1732276811
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

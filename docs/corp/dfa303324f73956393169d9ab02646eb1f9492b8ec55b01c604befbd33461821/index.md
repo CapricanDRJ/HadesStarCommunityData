@@ -2,6 +2,7 @@
 layout: page
 title: ​𝖕𝖎𝖗𝖆𝖙𝖊𝖘
 description: W:1 L:3 D:1 Bonus ❌
+image: ./favicon.png
 date: 1726627017
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

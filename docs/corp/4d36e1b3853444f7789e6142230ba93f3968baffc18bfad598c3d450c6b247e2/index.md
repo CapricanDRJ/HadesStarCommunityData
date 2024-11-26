@@ -2,6 +2,7 @@
 layout: page
 title: ​资助会
 description: W:9 L:4 D:0 Bonus ❌
+image: ./favicon.png
 date: 1728149871
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

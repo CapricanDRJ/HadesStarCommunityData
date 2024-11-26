@@ -2,6 +2,7 @@
 layout: page
 title: ​Ascalon
 description: W:1 L:1 D:1 Bonus ❌
+image: ./favicon.png
 date: 1702446143
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

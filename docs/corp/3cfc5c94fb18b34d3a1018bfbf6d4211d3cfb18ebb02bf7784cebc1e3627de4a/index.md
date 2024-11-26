@@ -2,6 +2,7 @@
 layout: page
 title: ​PDC
 description: W:14 L:7 D:3 Bonus ❌
+image: ./favicon.png
 date: 1728214134
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

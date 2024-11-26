@@ -2,6 +2,7 @@
 layout: page
 title: ​SternenStaub
 description: W:25 L:33 D:0 Bonus ✅
+image: ./favicon.png
 date: 1732455605
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

@@ -2,6 +2,7 @@
 layout: page
 title: ​BlackDawn
 description: W:1 L:26 D:12 Bonus ❌
+image: ./favicon.png
 date: 1732243538
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

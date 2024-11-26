@@ -2,6 +2,7 @@
 layout: page
 title: ​舰队联邦[FF]
 description: W:1 L:7 D:3 Bonus ❌
+image: ./favicon.png
 date: 1731687844
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

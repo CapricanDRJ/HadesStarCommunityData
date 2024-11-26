@@ -2,6 +2,7 @@
 layout: page
 title: ​代代守护你的神明
 description: W:8 L:12 D:0 Bonus ❌
+image: ./favicon.png
 date: 1729602647
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

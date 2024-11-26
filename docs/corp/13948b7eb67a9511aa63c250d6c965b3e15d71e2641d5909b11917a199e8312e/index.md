@@ -2,6 +2,7 @@
 layout: page
 title: ​ Eligius 
 description: W:1 L:2 D:0 Bonus ❌
+image: ./favicon.png
 date: 1710590459
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

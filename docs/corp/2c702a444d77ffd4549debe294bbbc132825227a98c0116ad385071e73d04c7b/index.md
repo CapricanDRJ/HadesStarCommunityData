@@ -2,6 +2,7 @@
 layout: page
 title: ​仙剑3
 description: W:1 L:0 D:0 Bonus ❌
+image: ./favicon.png
 date: 1711149196
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

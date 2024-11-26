@@ -2,6 +2,7 @@
 layout: page
 title: ​Albedo
 description: W:32 L:10 D:0 Bonus ✅
+image: ./favicon.png
 date: 1732159615
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

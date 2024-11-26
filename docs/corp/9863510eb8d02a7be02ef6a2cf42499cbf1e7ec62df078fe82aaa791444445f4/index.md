@@ -2,6 +2,7 @@
 layout: page
 title: ​КМБ
 description: W:6 L:7 D:0 Bonus ❌
+image: ./favicon.png
 date: 1725065653
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

@@ -2,6 +2,7 @@
 layout: page
 title: ​BrinySeal
 description: W:55 L:23 D:3 Bonus ❌
+image: ./favicon.png
 date: 1732283725
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

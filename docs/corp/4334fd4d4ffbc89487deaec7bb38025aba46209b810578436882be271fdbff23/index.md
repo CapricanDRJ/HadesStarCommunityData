@@ -2,6 +2,7 @@
 layout: page
 title: ​荣耀之星
 description: W:19 L:16 D:5 Bonus ❌
+image: ./favicon.png
 date: 1732597436
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

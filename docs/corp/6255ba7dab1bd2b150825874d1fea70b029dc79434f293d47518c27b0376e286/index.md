@@ -2,6 +2,7 @@
 layout: page
 title: ​Space Penguins
 description: W:48 L:16 D:0 Bonus ✅
+image: ./favicon.png
 date: 1732381992
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

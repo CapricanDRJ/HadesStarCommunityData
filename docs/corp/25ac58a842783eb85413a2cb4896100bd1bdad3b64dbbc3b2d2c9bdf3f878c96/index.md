@@ -2,6 +2,7 @@
 layout: page
 title: ​夢幻之星＊分盟＊
 description: W:2 L:10 D:2 Bonus ❌
+image: ./favicon.png
 date: 1729423231
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

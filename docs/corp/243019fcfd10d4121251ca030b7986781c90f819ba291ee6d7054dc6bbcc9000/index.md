@@ -2,6 +2,7 @@
 layout: page
 title: ​Españoles
 description: W:3 L:4 D:2 Bonus ❌
+image: ./favicon.png
 date: 1704366457
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

@@ -2,6 +2,7 @@
 layout: page
 title: ​星舰月球
 description: W:33 L:20 D:0 Bonus ✅
+image: ./favicon.png
 date: 1732348933
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

@@ -2,6 +2,7 @@
 layout: page
 title: ​Ещё один Миф
 description: W:6 L:8 D:0 Bonus ✅
+image: ./favicon.png
 date: 1732199583
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

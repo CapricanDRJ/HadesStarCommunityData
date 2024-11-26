@@ -2,6 +2,7 @@
 layout: page
 title: ​lost souls
 description: W:28 L:28 D:1 Bonus ❌
+image: ./favicon.png
 date: 1725637514
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
@@ -10,7 +11,7 @@ date: 1725637514
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1209 🔻  (440)|
+| ELO Regular | 1209 🔻  (439)|
 | ELO Competitive | 1326 🔻  (217)|
 | Total Matches | 57 |
 | Wins | 28 |

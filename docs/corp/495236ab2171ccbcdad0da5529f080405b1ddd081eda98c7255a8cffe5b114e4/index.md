@@ -2,6 +2,7 @@
 layout: page
 title: ​Jalisco México
 description: W:11 L:29 D:5 Bonus ❌
+image: ./favicon.png
 date: 1723743387
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

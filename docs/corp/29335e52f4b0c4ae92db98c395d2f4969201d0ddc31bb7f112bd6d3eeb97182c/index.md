@@ -2,6 +2,7 @@
 layout: page
 title: ​Zeta Division 
 description: W:7 L:2 D:0 Bonus ✅
+image: ./favicon.png
 date: 1732586321
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

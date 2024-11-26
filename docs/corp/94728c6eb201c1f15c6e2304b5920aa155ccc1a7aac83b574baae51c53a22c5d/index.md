@@ -2,6 +2,7 @@
 layout: page
 title: ​Galaxians
 description: W:20 L:26 D:0 Bonus ✅
+image: ./favicon.png
 date: 1732030100
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

@@ -2,6 +2,7 @@
 layout: page
 title: ​СССР 2.0
 description: W:2 L:6 D:0 Bonus ❌
+image: ./favicon.png
 date: 1703584196
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

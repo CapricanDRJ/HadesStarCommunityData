@@ -2,6 +2,7 @@
 layout: page
 title: ​Prometheus ESP
 description: W:11 L:9 D:0 Bonus ❌
+image: ./favicon.png
 date: 1719704704
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
@@ -10,7 +11,7 @@ date: 1719704704
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1212 🔻  (425)|
+| ELO Regular | 1212 🔻  (424)|
 | ELO Competitive | 1276 🔻  (307)|
 | Total Matches | 20 |
 | Wins | 11 |

@@ -2,6 +2,7 @@
 layout: page
 title: ​宇宙联盟（中国）
 description: W:18 L:35 D:5 Bonus ❌
+image: ./favicon.png
 date: 1731937249
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

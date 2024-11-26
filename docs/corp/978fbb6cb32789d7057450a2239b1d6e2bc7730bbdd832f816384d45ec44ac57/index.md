@@ -2,6 +2,7 @@
 layout: page
 title: ​Зелёная корпа
 description: W:4 L:4 D:0 Bonus ❌
+image: ./favicon.png
 date: 1710012656
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

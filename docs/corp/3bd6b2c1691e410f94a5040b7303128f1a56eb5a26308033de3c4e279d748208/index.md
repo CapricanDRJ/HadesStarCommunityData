@@ -2,6 +2,7 @@
 layout: page
 title: ​德意志第三帝国BATA分部
 description: W:1 L:0 D:0 Bonus ❌
+image: ./favicon.png
 date: 1708953767
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

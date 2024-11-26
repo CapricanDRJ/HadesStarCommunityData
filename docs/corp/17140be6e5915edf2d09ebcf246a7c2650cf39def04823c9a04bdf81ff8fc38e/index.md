@@ -2,6 +2,7 @@
 layout: page
 title: ​Omega corp
 description: W:6 L:5 D:3 Bonus ❌
+image: ./favicon.png
 date: 1731861530
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
@@ -10,7 +11,7 @@ date: 1731861530
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1208 🔺  (444)|
+| ELO Regular | 1208 🔺  (443)|
 | ELO Competitive | 1221 🔺  (472)|
 | Total Matches | 14 |
 | Wins | 6 |

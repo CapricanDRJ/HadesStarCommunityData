@@ -2,6 +2,7 @@
 layout: page
 title: ​电磁脉冲集团
 description: W:2 L:1 D:0 Bonus ❌
+image: ./favicon.png
 date: 1723979587
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
@@ -10,7 +11,7 @@ date: 1723979587
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1211 🔻  (432)|
+| ELO Regular | 1211 🔻  (431)|
 | ELO Competitive | 1230 🔺  (436)|
 | Total Matches | 3 |
 | Wins | 2 |

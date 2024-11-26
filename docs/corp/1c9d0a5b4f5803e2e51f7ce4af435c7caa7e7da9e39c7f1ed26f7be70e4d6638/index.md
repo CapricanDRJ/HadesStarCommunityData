@@ -2,6 +2,7 @@
 layout: page
 title: ​Sterling Gamers
 description: W:1 L:1 D:0 Bonus ❌
+image: ./favicon.png
 date: 1700841235
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

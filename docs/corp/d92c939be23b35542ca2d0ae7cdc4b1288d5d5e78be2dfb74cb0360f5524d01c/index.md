@@ -2,6 +2,7 @@
 layout: page
 title: ​青鸾殿
 description: W:4 L:3 D:0 Bonus ❌
+image: ./favicon.png
 date: 1724823432
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
@@ -10,7 +11,7 @@ date: 1724823432
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1212 🔺  (427)|
+| ELO Regular | 1212 🔺  (426)|
 | ELO Competitive | 1227 🔺  (447)|
 | Total Matches | 7 |
 | Wins | 4 |

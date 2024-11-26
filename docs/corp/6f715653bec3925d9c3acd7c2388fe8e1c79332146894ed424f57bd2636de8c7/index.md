@@ -2,6 +2,7 @@
 layout: page
 title: ​Mass Effect
 description: W:26 L:25 D:1 Bonus ✅
+image: ./favicon.png
 date: 1732444787
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

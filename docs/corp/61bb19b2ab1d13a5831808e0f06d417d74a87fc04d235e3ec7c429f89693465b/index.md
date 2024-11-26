@@ -2,6 +2,7 @@
 layout: page
 title: ​Team Elite
 description: W:1 L:2 D:1 Bonus ❌
+image: ./favicon.png
 date: 1710273158
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

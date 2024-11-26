@@ -2,6 +2,7 @@
 layout: page
 title: ​N.P.C
 description: W:5 L:3 D:3 Bonus ❌
+image: ./favicon.png
 date: 1722331865
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
@@ -10,7 +11,7 @@ date: 1722331865
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1209 🔻  (441)|
+| ELO Regular | 1209 🔻  (440)|
 | ELO Competitive | 1215 🔻  (520)|
 | Total Matches | 11 |
 | Wins | 5 |

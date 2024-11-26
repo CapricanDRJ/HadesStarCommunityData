@@ -2,6 +2,7 @@
 layout: page
 title: ​Highland Ind. 
 description: W:10 L:10 D:1 Bonus ❌
+image: ./favicon.png
 date: 1714044555
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

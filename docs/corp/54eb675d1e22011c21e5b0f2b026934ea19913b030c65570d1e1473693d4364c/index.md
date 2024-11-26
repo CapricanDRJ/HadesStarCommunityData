@@ -2,6 +2,7 @@
 layout: page
 title: ​墨痕空域
 description: W:39 L:38 D:1 Bonus ❌
+image: ./favicon.png
 date: 1732113333
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

@@ -2,6 +2,7 @@
 layout: page
 title: ​Core Systems
 description: W:3 L:2 D:2 Bonus ❌
+image: ./favicon.png
 date: 1719192673
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
@@ -10,7 +11,7 @@ date: 1719192673
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1207 🔻  (449)|
+| ELO Regular | 1207 🔻  (448)|
 | ELO Competitive | 1211 🔻  (557)|
 | Total Matches | 7 |
 | Wins | 3 |

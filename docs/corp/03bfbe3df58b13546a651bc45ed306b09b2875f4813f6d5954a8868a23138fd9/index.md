@@ -2,6 +2,7 @@
 layout: page
 title: ​Urban Legends
 description: W:1 L:3 D:0 Bonus ❌
+image: ./favicon.png
 date: 1705760541
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

@@ -2,6 +2,7 @@
 layout: page
 title: ​The Foundation
 description: W:3 L:2 D:1 Bonus ❌
+image: ./favicon.png
 date: 1731901910
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

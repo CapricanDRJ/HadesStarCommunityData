@@ -2,6 +2,7 @@
 layout: page
 title: ​Space Monkeys
 description: W:8 L:17 D:1 Bonus ❌
+image: ./favicon.png
 date: 1714980024
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

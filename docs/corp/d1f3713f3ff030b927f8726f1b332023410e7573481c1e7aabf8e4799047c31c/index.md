@@ -2,6 +2,7 @@
 layout: page
 title: ​USSR
 description: W:2 L:1 D:0 Bonus ❌
+image: ./favicon.png
 date: 1713332587
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

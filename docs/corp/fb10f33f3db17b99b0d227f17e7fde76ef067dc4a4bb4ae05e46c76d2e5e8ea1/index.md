@@ -2,6 +2,7 @@
 layout: page
 title: ​Lacuna X
 description: W:46 L:6 D:0 Bonus ✅
+image: ./favicon.png
 date: 1732218520
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

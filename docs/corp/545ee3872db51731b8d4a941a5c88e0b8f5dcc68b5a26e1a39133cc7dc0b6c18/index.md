@@ -2,6 +2,7 @@
 layout: page
 title: ​中国星际联盟·第一自治州
 description: W:1 L:3 D:1 Bonus ❌
+image: ./favicon.png
 date: 1725618874
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

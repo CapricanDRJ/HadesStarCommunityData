@@ -2,6 +2,7 @@
 layout: page
 title: ​Got Nothing
 description: W:15 L:13 D:0 Bonus ❌
+image: ./favicon.png
 date: 1731760563
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

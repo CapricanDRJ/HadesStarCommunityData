@@ -2,6 +2,7 @@
 layout: page
 title: ​Hun Generals
 description: W:11 L:61 D:0 Bonus ❌
+image: ./favicon.png
 date: 1732354942
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

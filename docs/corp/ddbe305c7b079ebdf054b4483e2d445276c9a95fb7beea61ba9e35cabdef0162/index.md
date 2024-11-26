@@ -2,6 +2,7 @@
 layout: page
 title: ​RUSSIAN TEAM
 description: W:0 L:9 D:0 Bonus ❌
+image: ./favicon.png
 date: 1715154591
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

@@ -2,6 +2,7 @@
 layout: page
 title: ​新兴帝国
 description: W:3 L:4 D:0 Bonus ❌
+image: ./favicon.png
 date: 1711051078
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

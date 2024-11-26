@@ -2,6 +2,7 @@
 layout: page
 title: ​Bl@ck/Galaxy 
 description: W:28 L:17 D:2 Bonus ❌
+image: ./favicon.png
 date: 1732410239
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

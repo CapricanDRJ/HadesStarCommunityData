@@ -2,6 +2,7 @@
 layout: page
 title: ​hades star萌新指引站
 description: W:9 L:8 D:1 Bonus ❌
+image: ./favicon.png
 date: 1732489764
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

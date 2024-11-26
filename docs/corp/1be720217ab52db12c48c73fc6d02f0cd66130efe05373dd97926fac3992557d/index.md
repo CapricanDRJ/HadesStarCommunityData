@@ -2,6 +2,7 @@
 layout: page
 title: ​UAGC
 description: W:34 L:26 D:0 Bonus ✅
+image: ./favicon.png
 date: 1732301160
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

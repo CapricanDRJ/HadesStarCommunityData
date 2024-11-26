@@ -2,6 +2,7 @@
 layout: page
 title: ​对，进就进人少的
 description: W:45 L:48 D:3 Bonus ❌
+image: ./favicon.png
 date: 1732510596
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

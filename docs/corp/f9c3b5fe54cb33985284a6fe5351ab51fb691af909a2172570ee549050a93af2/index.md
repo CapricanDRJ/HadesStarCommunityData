@@ -2,6 +2,7 @@
 layout: page
 title: ​STAR TERROR CZ
 description: W:2 L:4 D:0 Bonus ✅
+image: ./favicon.png
 date: 1732305668
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

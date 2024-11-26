@@ -2,6 +2,7 @@
 layout: page
 title: ​星舰国际
 description: W:7 L:8 D:3 Bonus ❌
+image: ./favicon.png
 date: 1730956412
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

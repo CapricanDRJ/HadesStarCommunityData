@@ -2,6 +2,7 @@
 layout: page
 title: ​中国航天科技集团（CASC）
 description: W:0 L:2 D:0 Bonus ❌
+image: ./favicon.png
 date: 1707904850
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

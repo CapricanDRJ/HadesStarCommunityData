@@ -2,6 +2,7 @@
 layout: page
 title: ​Brasil
 description: W:4 L:4 D:1 Bonus ❌
+image: ./favicon.png
 date: 1732389807
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
@@ -10,7 +11,7 @@ date: 1732389807
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1210 🔺  (437)|
+| ELO Regular | 1210 🔺  (436)|
 | ELO Competitive | 1222 🔺  (469)|
 | Total Matches | 9 |
 | Wins | 4 |

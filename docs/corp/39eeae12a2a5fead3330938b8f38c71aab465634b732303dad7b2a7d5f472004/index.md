@@ -2,6 +2,7 @@
 layout: page
 title: ​Север РусКорп
 description: W:27 L:16 D:0 Bonus ❌
+image: ./favicon.png
 date: 1731245191
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

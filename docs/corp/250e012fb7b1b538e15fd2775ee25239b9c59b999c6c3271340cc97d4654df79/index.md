@@ -2,6 +2,7 @@
 layout: page
 title: ​italian warrior
 description: W:22 L:30 D:1 Bonus ✅
+image: ./favicon.png
 date: 1732596535
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

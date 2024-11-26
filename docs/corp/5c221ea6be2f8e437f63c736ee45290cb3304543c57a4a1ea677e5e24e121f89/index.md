@@ -2,6 +2,7 @@
 layout: page
 title: ​第三舰队
 description: W:2 L:2 D:0 Bonus ❌
+image: ./favicon.png
 date: 1729596634
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

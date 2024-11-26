@@ -2,6 +2,7 @@
 layout: page
 title: ​StargateCommand
 description: W:0 L:8 D:1 Bonus ❌
+image: ./favicon.png
 date: 1732505188
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

@@ -2,6 +2,7 @@
 layout: page
 title: ​新?的星际集团?
 description: W:20 L:15 D:1 Bonus ❌
+image: ./favicon.png
 date: 1732165924
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
@@ -10,7 +11,7 @@ date: 1732165924
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1212 🔻  (426)|
+| ELO Regular | 1212 🔻  (425)|
 | ELO Competitive | 1321 🔻  (229)|
 | Total Matches | 36 |
 | Wins | 20 |

@@ -2,6 +2,7 @@
 layout: page
 title: ​BlackStar Order
 description: W:69 L:43 D:0 Bonus ✅
+image: ./favicon.png
 date: 1732340521
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

@@ -2,6 +2,7 @@
 layout: page
 title: ​Quantum Jumpers
 description: W:4 L:5 D:1 Bonus ❌
+image: ./favicon.png
 date: 1719449551
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

@@ -2,6 +2,7 @@
 layout: page
 title: ​CommCody & LPA
 description: W:13 L:9 D:0 Bonus ❌
+image: ./favicon.png
 date: 1712466617
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

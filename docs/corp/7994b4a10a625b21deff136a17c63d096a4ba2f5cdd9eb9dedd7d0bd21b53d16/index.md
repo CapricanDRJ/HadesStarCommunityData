@@ -2,6 +2,7 @@
 layout: page
 title: ​РусКорп
 description: W:11 L:9 D:0 Bonus ❌
+image: ./favicon.png
 date: 1708836120
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

@@ -2,6 +2,7 @@
 layout: page
 title: ​NERF TOY'S
 description: W:22 L:35 D:2 Bonus ❌
+image: ./favicon.png
 date: 1731223255
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

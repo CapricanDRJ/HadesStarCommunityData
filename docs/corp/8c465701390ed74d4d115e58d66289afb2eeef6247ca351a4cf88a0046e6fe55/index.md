@@ -2,6 +2,7 @@
 layout: page
 title: ​探索舰队
 description: W:16 L:16 D:1 Bonus ❌
+image: ./favicon.png
 date: 1728532135
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

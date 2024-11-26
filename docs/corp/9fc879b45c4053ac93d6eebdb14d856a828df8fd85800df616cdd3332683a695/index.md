@@ -2,6 +2,7 @@
 layout: page
 title: ​Free Thinkers 2
 description: W:3 L:51 D:1 Bonus ❌
+image: ./favicon.png
 date: 1731512024
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

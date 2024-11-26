@@ -2,6 +2,7 @@
 layout: page
 title: ​情谊永存
 description: W:2 L:8 D:2 Bonus ❌
+image: ./favicon.png
 date: 1732270377
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

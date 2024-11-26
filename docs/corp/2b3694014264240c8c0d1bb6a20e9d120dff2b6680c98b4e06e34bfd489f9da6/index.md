@@ -2,6 +2,7 @@
 layout: page
 title: ​Alpha to Omega
 description: W:2 L:5 D:1 Bonus ❌
+image: ./favicon.png
 date: 1732115437
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

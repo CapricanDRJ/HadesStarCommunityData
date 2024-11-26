@@ -2,6 +2,7 @@
 layout: page
 title: ​ЧВК "Котики"
 description: W:30 L:21 D:4 Bonus ❌
+image: ./favicon.png
 date: 1731875055
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

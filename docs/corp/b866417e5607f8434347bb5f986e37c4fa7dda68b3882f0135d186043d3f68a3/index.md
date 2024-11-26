@@ -2,6 +2,7 @@
 layout: page
 title: ​VoidCorp
 description: W:31 L:27 D:1 Bonus ✅
+image: ./favicon.png
 date: 1732229639
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

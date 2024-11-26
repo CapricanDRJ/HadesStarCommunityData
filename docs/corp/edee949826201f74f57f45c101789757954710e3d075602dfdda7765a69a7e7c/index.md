@@ -2,6 +2,7 @@
 layout: page
 title: ​P!RAT£ SHIP
 description: W:21 L:8 D:1 Bonus ❌
+image: ./favicon.png
 date: 1731957387
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

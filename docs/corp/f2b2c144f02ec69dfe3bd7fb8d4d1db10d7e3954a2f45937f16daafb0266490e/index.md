@@ -2,6 +2,7 @@
 layout: page
 title: ​한국인
 description: W:31 L:14 D:3 Bonus ❌
+image: ./favicon.png
 date: 1718926373
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

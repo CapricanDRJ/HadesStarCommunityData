@@ -2,6 +2,7 @@
 layout: page
 title: ​(_(_Vossk_)_)
 description: W:11 L:19 D:0 Bonus ❌
+image: ./favicon.png
 date: 1731451030
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

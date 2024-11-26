@@ -2,6 +2,7 @@
 layout: page
 title: ​黑色长城
 description: W:2 L:8 D:1 Bonus ❌
+image: ./favicon.png
 date: 1708606362
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

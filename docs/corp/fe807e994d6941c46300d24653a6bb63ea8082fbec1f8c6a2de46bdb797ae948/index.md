@@ -2,6 +2,7 @@
 layout: page
 title: ​L.P.A.
 description: W:2 L:1 D:0 Bonus ❌
+image: ./favicon.png
 date: 1719335664
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
@@ -10,7 +11,7 @@ date: 1719335664
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1212 🔻  (424)|
+| ELO Regular | 1212 🔻  (423)|
 | ELO Competitive | 1219 🔻  (482)|
 | Total Matches | 3 |
 | Wins | 2 |

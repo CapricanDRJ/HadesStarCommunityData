@@ -2,6 +2,7 @@
 layout: page
 title: ​共产星际
 description: W:31 L:6 D:0 Bonus ❌
+image: ./favicon.png
 date: 1723051911
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

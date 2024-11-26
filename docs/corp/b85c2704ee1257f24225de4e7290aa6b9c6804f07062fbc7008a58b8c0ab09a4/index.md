@@ -2,6 +2,7 @@
 layout: page
 title: ​Eastern Front
 description: W:50 L:50 D:2 Bonus ✅
+image: ./favicon.png
 date: 1732090796
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

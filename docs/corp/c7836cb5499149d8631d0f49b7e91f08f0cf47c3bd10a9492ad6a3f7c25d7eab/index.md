@@ -2,6 +2,7 @@
 layout: page
 title: ​Hellfire Club
 description: W:42 L:35 D:0 Bonus ✅
+image: ./favicon.png
 date: 1732367264
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

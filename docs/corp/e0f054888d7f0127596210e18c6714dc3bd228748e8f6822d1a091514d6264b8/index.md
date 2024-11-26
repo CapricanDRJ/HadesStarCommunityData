@@ -2,6 +2,7 @@
 layout: page
 title: ​蓝色星系一号分盟
 description: W:1 L:7 D:1 Bonus ❌
+image: ./favicon.png
 date: 1726148945
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

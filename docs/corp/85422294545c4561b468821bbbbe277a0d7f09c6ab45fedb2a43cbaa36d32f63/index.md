@@ -2,6 +2,7 @@
 layout: page
 title: ​星环建设集团
 description: W:9 L:7 D:2 Bonus ❌
+image: ./favicon.png
 date: 1728129128
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

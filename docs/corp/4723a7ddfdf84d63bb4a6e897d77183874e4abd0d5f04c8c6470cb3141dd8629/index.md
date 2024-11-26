@@ -2,6 +2,7 @@
 layout: page
 title: ​Red Suns
 description: W:15 L:18 D:0 Bonus ❌
+image: ./favicon.png
 date: 1722619785
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

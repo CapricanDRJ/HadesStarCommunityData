@@ -2,6 +2,7 @@
 layout: page
 title: ​物竞天择，适者生存
 description: W:5 L:5 D:1 Bonus ✅
+image: ./favicon.png
 date: 1732373877
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

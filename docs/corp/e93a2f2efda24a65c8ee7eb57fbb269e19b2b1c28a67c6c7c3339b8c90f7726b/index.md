@@ -2,6 +2,7 @@
 layout: page
 title: ​Alpaca Haven
 description: W:18 L:17 D:0 Bonus ❌
+image: ./favicon.png
 date: 1732093800
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

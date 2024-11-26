@@ -2,6 +2,7 @@
 layout: page
 title: ​Glashan
 description: W:10 L:36 D:0 Bonus ✅
+image: ./favicon.png
 date: 1732129564
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

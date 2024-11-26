@@ -2,6 +2,7 @@
 layout: page
 title: ​CDG
 description: W:24 L:27 D:5 Bonus ❌
+image: ./favicon.png
 date: 1720925094
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

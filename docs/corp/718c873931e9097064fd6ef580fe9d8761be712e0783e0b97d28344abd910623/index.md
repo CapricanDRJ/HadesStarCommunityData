@@ -2,6 +2,7 @@
 layout: page
 title: ​lesescargots
 description: W:52 L:20 D:0 Bonus ✅
+image: ./favicon.png
 date: 1732425560
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

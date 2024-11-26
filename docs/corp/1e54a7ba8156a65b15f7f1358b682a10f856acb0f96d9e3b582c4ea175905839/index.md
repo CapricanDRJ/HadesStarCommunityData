@@ -2,6 +2,7 @@
 layout: page
 title: ​Spaceballs
 description: W:17 L:16 D:0 Bonus ✅
+image: ./favicon.png
 date: 1732043024
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

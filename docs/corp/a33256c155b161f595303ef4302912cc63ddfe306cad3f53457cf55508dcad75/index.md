@@ -2,6 +2,7 @@
 layout: page
 title: ​Auscorp 
 description: W:67 L:8 D:0 Bonus ✅
+image: ./favicon.png
 date: 1732507591
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

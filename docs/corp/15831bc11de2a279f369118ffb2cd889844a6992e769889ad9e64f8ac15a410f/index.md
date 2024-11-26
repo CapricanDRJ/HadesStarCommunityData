@@ -2,6 +2,7 @@
 layout: page
 title: ​No Orbit©
 description: W:15 L:8 D:0 Bonus ❌
+image: ./favicon.png
 date: 1730472014
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

@@ -2,6 +2,7 @@
 layout: page
 title: ​太阳系联邦
 description: W:0 L:18 D:0 Bonus ❌
+image: ./favicon.png
 date: 1729231178
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

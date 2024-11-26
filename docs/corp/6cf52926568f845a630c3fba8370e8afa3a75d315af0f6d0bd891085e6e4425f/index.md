@@ -2,6 +2,7 @@
 layout: page
 title: ​Antioch
 description: W:10 L:24 D:0 Bonus ❌
+image: ./favicon.png
 date: 1732558676
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

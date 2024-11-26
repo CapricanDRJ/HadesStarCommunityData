@@ -2,6 +2,7 @@
 layout: page
 title: ​阿尔特拉集团
 description: W:37 L:28 D:3 Bonus ✅
+image: ./favicon.png
 date: 1732021684
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

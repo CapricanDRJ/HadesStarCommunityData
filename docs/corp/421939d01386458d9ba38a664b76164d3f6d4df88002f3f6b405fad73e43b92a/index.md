@@ -2,6 +2,7 @@
 layout: page
 title: ​Megacorp
 description: W:1 L:0 D:1 Bonus ❌
+image: ./favicon.png
 date: 1731125874
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
@@ -10,7 +11,7 @@ date: 1731125874
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1212 🔻  (428)|
+| ELO Regular | 1212 🔻  (427)|
 | ELO Competitive | 1212 🔻  (546)|
 | Total Matches | 2 |
 | Wins | 1 |

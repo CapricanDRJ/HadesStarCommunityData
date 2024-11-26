@@ -2,6 +2,7 @@
 layout: page
 title: ​TheBasics
 description: W:38 L:68 D:2 Bonus ✅
+image: ./favicon.png
 date: 1732540041
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

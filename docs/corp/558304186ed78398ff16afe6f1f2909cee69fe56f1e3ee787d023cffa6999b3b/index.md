@@ -2,6 +2,7 @@
 layout: page
 title: ​六大天神.轻歌之影
 description: W:22 L:27 D:0 Bonus ❌
+image: ./favicon.png
 date: 1725715639
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

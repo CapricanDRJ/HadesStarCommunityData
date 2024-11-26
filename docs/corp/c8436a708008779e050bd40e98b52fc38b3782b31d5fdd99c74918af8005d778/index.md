@@ -2,6 +2,7 @@
 layout: page
 title: ​Dirty Minds Inc
 description: W:4 L:3 D:0 Bonus ❌
+image: ./favicon.png
 date: 1732119044
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
@@ -10,7 +11,7 @@ date: 1732119044
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1208 🔻  (446)|
+| ELO Regular | 1208 🔻  (445)|
 | ELO Competitive | 1215 🔻  (523)|
 | Total Matches | 7 |
 | Wins | 4 |

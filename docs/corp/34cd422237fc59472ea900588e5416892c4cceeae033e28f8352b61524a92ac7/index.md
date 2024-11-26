@@ -2,6 +2,7 @@
 layout: page
 title: ​CCCP
 description: W:1 L:7 D:3 Bonus ❌
+image: ./favicon.png
 date: 1726918839
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

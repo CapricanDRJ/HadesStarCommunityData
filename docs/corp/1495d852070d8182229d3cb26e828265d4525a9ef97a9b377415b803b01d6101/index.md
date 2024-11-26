@@ -2,6 +2,7 @@
 layout: page
 title: ​Галактика Зла
 description: W:18 L:18 D:0 Bonus ❌
+image: ./favicon.png
 date: 1729993322
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

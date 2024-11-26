@@ -2,6 +2,7 @@
 layout: page
 title: ​Лютые
 description: W:15 L:10 D:1 Bonus ✅
+image: ./favicon.png
 date: 1731983527
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

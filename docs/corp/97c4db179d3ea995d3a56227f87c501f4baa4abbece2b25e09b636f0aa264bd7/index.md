@@ -2,6 +2,7 @@
 layout: page
 title: ​BoomTech
 description: W:23 L:9 D:2 Bonus ❌
+image: ./favicon.png
 date: 1726314222
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

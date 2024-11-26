@@ -2,6 +2,7 @@
 layout: page
 title: ​Spacefleet
 description: W:44 L:42 D:0 Bonus ✅
+image: ./favicon.png
 date: 1732364858
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

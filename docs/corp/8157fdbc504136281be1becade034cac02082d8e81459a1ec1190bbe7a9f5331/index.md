@@ -2,6 +2,7 @@
 layout: page
 title: ​Goblin Squad
 description: W:4 L:6 D:0 Bonus ❌
+image: ./favicon.png
 date: 1724334192
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

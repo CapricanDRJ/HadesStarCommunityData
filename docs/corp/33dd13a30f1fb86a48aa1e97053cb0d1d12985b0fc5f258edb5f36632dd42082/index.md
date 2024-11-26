@@ -2,6 +2,7 @@
 layout: page
 title: ​E.T.A
 description: W:8 L:26 D:0 Bonus ❌
+image: ./favicon.png
 date: 1732203191
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

@@ -2,6 +2,7 @@
 layout: page
 title: ​华夏联盟
 description: W:4 L:8 D:1 Bonus ✅
+image: ./favicon.png
 date: 1732152705
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

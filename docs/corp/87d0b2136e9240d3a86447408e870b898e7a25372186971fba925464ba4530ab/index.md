@@ -2,6 +2,7 @@
 layout: page
 title: ​GALACTIC EMPIRE
 description: W:3 L:2 D:0 Bonus ❌
+image: ./favicon.png
 date: 1730952806
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
@@ -10,7 +11,7 @@ date: 1730952806
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1207 🔺  (451)|
+| ELO Regular | 1207 🔺  (450)|
 | ELO Competitive | 1221 🔺  (475)|
 | Total Matches | 5 |
 | Wins | 3 |

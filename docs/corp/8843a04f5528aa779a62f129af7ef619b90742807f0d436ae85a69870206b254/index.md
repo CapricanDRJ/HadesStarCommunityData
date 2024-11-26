@@ -2,6 +2,7 @@
 layout: page
 title: ​Valhalla Rising
 description: W:22 L:3 D:0 Bonus ❌
+image: ./favicon.png
 date: 1728493664
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

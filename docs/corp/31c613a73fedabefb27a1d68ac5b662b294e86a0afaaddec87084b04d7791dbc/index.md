@@ -2,6 +2,7 @@
 layout: page
 title: ​大舰队がな
 description: W:0 L:9 D:1 Bonus ❌
+image: ./favicon.png
 date: 1727920313
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

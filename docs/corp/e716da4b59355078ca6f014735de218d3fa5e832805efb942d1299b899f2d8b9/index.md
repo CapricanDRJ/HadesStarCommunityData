@@ -2,6 +2,7 @@
 layout: page
 title: ​小号营地
 description: W:0 L:7 D:1 Bonus ❌
+image: ./favicon.png
 date: 1731938451
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

@@ -2,6 +2,7 @@
 layout: page
 title: ​Red Alliance
 description: W:15 L:18 D:2 Bonus ❌
+image: ./favicon.png
 date: 1732395217
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

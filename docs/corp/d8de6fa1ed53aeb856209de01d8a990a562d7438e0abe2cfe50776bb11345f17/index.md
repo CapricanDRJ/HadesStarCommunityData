@@ -2,6 +2,7 @@
 layout: page
 title: ​拆迁大队
 description: W:15 L:35 D:3 Bonus ❌
+image: ./favicon.png
 date: 1731146324
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

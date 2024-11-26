@@ -2,6 +2,7 @@
 layout: page
 title: ​Void Nebula
 description: W:0 L:3 D:0 Bonus ❌
+image: ./favicon.png
 date: 1701972491
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

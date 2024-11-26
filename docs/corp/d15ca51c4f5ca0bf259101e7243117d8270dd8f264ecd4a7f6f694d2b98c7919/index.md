@@ -2,6 +2,7 @@
 layout: page
 title: ​WSC(no DISCORD)
 description: W:40 L:30 D:7 Bonus ✅
+image: ./favicon.png
 date: 1732243538
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

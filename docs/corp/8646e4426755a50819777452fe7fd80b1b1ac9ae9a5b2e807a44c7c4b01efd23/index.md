@@ -2,6 +2,7 @@
 layout: page
 title: ​第一序列
 description: W:39 L:46 D:0 Bonus ✅
+image: ./favicon.png
 date: 1732271102
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

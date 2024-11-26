@@ -2,6 +2,7 @@
 layout: page
 title: ​Rising star
 description: W:26 L:36 D:0 Bonus ❌
+image: ./favicon.png
 date: 1732342324
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

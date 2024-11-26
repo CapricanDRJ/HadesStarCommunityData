@@ -2,6 +2,7 @@
 layout: page
 title: ​Red_Coat_Mafia
 description: W:22 L:28 D:1 Bonus ❌
+image: ./favicon.png
 date: 1732372073
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

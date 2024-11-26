@@ -2,6 +2,7 @@
 layout: page
 title: ​Эдем
 description: W:8 L:8 D:0 Bonus ❌
+image: ./favicon.png
 date: 1732320093
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

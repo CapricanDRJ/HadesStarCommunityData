@@ -2,6 +2,7 @@
 layout: page
 title: ​揽月宫
 description: W:13 L:7 D:0 Bonus ✅
+image: ./favicon.png
 date: 1732597436
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

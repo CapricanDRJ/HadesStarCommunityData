@@ -2,6 +2,7 @@
 layout: page
 title: ​Bon Ariens
 description: W:1 L:4 D:0 Bonus ❌
+image: ./favicon.png
 date: 1731574831
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

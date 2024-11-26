@@ -2,6 +2,7 @@
 layout: page
 title: ​新纪元舰队
 description: W:4 L:12 D:2 Bonus ❌
+image: ./favicon.png
 date: 1716450547
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

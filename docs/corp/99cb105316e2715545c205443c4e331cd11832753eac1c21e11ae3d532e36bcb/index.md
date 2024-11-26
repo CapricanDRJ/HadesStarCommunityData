@@ -2,6 +2,7 @@
 layout: page
 title: ​火洋之心
 description: W:4 L:3 D:2 Bonus ❌
+image: ./favicon.png
 date: 1722838251
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
@@ -10,7 +11,7 @@ date: 1722838251
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1206 🔻  (452)|
+| ELO Regular | 1206 🔻  (451)|
 | ELO Competitive | 1210 🔻  (562)|
 | Total Matches | 9 |
 | Wins | 4 |

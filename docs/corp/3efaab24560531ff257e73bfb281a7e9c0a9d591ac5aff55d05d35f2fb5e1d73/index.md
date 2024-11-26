@@ -2,6 +2,7 @@
 layout: page
 title: ​CIS
 description: W:39 L:10 D:1 Bonus ✅
+image: ./favicon.png
 date: 1732434572
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

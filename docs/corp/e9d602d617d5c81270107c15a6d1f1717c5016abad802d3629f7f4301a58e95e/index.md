@@ -2,6 +2,7 @@
 layout: page
 title: ​元素联邦
 description: W:29 L:13 D:0 Bonus ❌
+image: ./favicon.png
 date: 1728312440
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

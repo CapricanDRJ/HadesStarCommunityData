@@ -2,6 +2,7 @@
 layout: page
 title: ​DYLAN
 description: W:8 L:1 D:0 Bonus ❌
+image: ./favicon.png
 date: 1705768055
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

@@ -2,6 +2,7 @@
 layout: page
 title: ​Cydonia
 description: W:1 L:2 D:2 Bonus ❌
+image: ./favicon.png
 date: 1725693704
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

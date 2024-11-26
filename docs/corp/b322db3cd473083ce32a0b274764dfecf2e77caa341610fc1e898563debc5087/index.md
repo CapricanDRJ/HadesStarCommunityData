@@ -2,6 +2,7 @@
 layout: page
 title: ​第六星际
 description: W:1 L:0 D:0 Bonus ❌
+image: ./favicon.png
 date: 1711636989
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

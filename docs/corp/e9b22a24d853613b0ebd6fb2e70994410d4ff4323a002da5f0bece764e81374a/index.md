@@ -2,6 +2,7 @@
 layout: page
 title: ​Revelation
 description: W:3 L:4 D:0 Bonus ❌
+image: ./favicon.png
 date: 1707180175
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

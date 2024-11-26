@@ -2,6 +2,7 @@
 layout: page
 title: ​第一基地·端点星
 description: W:0 L:1 D:0 Bonus ❌
+image: ./favicon.png
 date: 1702827360
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

@@ -2,6 +2,7 @@
 layout: page
 title: ​宇宙银河帝国
 description: W:23 L:13 D:3 Bonus ❌
+image: ./favicon.png
 date: 1723819115
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

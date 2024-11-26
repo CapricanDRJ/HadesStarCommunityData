@@ -2,6 +2,7 @@
 layout: page
 title: ​羽共和体
 description: W:17 L:25 D:8 Bonus ❌
+image: ./favicon.png
 date: 1728735880
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

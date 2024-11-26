@@ -2,6 +2,7 @@
 layout: page
 title: ​ZORG IND
 description: W:22 L:9 D:1 Bonus ✅
+image: ./favicon.png
 date: 1732451097
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

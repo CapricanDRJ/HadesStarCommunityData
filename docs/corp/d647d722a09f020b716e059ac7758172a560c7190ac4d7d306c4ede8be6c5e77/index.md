@@ -2,6 +2,7 @@
 layout: page
 title: ​Void
 description: W:10 L:17 D:0 Bonus ❌
+image: ./favicon.png
 date: 1732113934
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

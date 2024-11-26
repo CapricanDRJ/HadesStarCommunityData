@@ -2,6 +2,7 @@
 layout: page
 title: ​Yellow Dwarf 
 description: W:1 L:0 D:0 Bonus ❌
+image: ./favicon.png
 date: 1699414502
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

@@ -2,6 +2,7 @@
 layout: page
 title: ​tropa (BR)
 description: W:7 L:13 D:3 Bonus ❌
+image: ./favicon.png
 date: 1732190565
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

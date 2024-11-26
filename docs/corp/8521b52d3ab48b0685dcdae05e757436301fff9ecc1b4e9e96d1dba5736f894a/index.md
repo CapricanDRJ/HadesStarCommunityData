@@ -2,6 +2,7 @@
 layout: page
 title: ​中国星系集团
 description: W:7 L:1 D:0 Bonus ❌
+image: ./favicon.png
 date: 1714123800
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

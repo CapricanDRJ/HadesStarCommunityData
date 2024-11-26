@@ -2,6 +2,7 @@
 layout: page
 title: ​Sussy Coloner
 description: W:21 L:58 D:4 Bonus ❌
+image: ./favicon.png
 date: 1732451097
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

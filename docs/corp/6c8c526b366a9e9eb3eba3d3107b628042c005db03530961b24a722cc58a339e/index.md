@@ -2,6 +2,7 @@
 layout: page
 title: ​Duchy Arrakis
 description: W:28 L:14 D:0 Bonus ❌
+image: ./favicon.png
 date: 1732362755
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

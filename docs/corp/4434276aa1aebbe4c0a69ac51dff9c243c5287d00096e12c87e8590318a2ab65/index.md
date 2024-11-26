@@ -2,6 +2,7 @@
 layout: page
 title: ​KARI
 description: W:2 L:66 D:0 Bonus ❌
+image: ./favicon.png
 date: 1730868965
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

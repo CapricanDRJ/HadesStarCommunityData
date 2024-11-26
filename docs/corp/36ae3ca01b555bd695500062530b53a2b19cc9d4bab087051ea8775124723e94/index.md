@@ -2,6 +2,7 @@
 layout: page
 title: ​하데스 스타 코리아
 description: W:9 L:7 D:0 Bonus ❌
+image: ./favicon.png
 date: 1711680863
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

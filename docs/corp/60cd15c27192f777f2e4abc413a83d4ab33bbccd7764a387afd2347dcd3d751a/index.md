@@ -2,6 +2,7 @@
 layout: page
 title: ​Stone Legion
 description: W:26 L:8 D:1 Bonus ❌
+image: ./favicon.png
 date: 1731320009
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

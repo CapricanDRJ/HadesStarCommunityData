@@ -2,6 +2,7 @@
 layout: page
 title: ​Soul System
 description: W:0 L:9 D:0 Bonus ❌
+image: ./favicon.png
 date: 1720075517
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

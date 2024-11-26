@@ -2,6 +2,7 @@
 layout: page
 title: ​SUN OF 3LANDS
 description: W:11 L:4 D:1 Bonus ❌
+image: ./favicon.png
 date: 1730897510
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

@@ -2,6 +2,7 @@
 layout: page
 title: ​企鹅帝国
 description: W:2 L:4 D:0 Bonus ❌
+image: ./favicon.png
 date: 1728114704
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

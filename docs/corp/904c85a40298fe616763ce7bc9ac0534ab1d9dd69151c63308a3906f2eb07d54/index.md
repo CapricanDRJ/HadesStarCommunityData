@@ -2,6 +2,7 @@
 layout: page
 title: ​Thunderbears
 description: W:3 L:5 D:1 Bonus ❌
+image: ./favicon.png
 date: 1716342684
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

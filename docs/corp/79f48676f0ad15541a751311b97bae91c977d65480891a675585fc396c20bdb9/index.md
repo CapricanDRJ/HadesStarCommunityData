@@ -2,6 +2,7 @@
 layout: page
 title: ​初始之音
 description: W:11 L:16 D:0 Bonus ❌
+image: ./favicon.png
 date: 1725023276
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

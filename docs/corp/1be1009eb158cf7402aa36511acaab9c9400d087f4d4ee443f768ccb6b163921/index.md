@@ -2,6 +2,7 @@
 layout: page
 title: ​红日初升，其道大光
 description: W:24 L:8 D:0 Bonus ❌
+image: ./favicon.png
 date: 1730313040
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

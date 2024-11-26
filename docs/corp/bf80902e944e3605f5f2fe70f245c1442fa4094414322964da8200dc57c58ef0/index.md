@@ -2,6 +2,7 @@
 layout: page
 title: ​Das Imperium
 description: W:1 L:8 D:0 Bonus ❌
+image: ./favicon.png
 date: 1706218527
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

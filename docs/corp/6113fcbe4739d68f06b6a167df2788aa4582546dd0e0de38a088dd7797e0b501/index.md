@@ -2,6 +2,7 @@
 layout: page
 title: ​深空补给港
 description: W:2 L:12 D:0 Bonus ❌
+image: ./favicon.png
 date: 1715412185
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

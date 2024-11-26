@@ -2,6 +2,7 @@
 layout: page
 title: ​TeddisaurusWrex
 description: W:45 L:14 D:0 Bonus ❌
+image: ./favicon.png
 date: 1731920722
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

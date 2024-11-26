@@ -2,6 +2,7 @@
 layout: page
 title: ​Hexacropians
 description: W:51 L:12 D:1 Bonus ✅
+image: ./favicon.png
 date: 1732492872
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

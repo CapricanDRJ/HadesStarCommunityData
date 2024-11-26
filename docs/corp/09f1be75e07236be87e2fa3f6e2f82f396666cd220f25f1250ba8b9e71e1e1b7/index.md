@@ -2,6 +2,7 @@
 layout: page
 title: ​Lacuna Ind.
 description: W:7 L:27 D:1 Bonus ❌
+image: ./favicon.png
 date: 1730976844
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

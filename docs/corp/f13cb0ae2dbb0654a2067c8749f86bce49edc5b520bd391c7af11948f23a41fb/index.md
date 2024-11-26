@@ -2,6 +2,7 @@
 layout: page
 title: ​The X - Files
 description: W:3 L:53 D:0 Bonus ❌
+image: ./favicon.png
 date: 1732302788
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

@@ -2,6 +2,7 @@
 layout: page
 title: ​The Smeg Heads
 description: W:1 L:5 D:0 Bonus ❌
+image: ./favicon.png
 date: 1731222354
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

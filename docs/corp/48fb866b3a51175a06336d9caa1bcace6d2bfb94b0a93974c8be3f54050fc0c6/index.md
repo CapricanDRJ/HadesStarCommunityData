@@ -2,6 +2,7 @@
 layout: page
 title: ​Свободный флот
 description: W:47 L:47 D:1 Bonus ✅
+image: ./favicon.png
 date: 1732432469
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

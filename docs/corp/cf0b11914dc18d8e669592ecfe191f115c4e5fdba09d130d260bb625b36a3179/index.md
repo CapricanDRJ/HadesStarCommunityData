@@ -2,6 +2,7 @@
 layout: page
 title: ​四季长春
 description: W:17 L:24 D:6 Bonus ❌
+image: ./favicon.png
 date: 1724883240
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

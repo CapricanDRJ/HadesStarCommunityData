@@ -2,6 +2,7 @@
 layout: page
 title: ​Space Rangers
 description: W:17 L:9 D:0 Bonus ❌
+image: ./favicon.png
 date: 1711927857
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

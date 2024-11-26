@@ -2,6 +2,7 @@
 layout: page
 title: ​春城阳关
 description: W:0 L:1 D:0 Bonus ❌
+image: ./favicon.png
 date: 1708001005
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

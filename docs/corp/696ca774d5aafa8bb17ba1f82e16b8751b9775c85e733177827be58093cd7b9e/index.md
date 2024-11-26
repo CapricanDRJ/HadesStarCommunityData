@@ -2,6 +2,7 @@
 layout: page
 title: ​Black Sun
 description: W:6 L:13 D:1 Bonus ❌
+image: ./favicon.png
 date: 1713190768
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

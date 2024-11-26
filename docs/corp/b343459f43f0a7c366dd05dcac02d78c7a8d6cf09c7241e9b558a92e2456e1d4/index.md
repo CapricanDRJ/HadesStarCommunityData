@@ -2,6 +2,7 @@
 layout: page
 title: ​Death Flight
 description: W:21 L:72 D:1 Bonus ❌
+image: ./favicon.png
 date: 1732241957
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

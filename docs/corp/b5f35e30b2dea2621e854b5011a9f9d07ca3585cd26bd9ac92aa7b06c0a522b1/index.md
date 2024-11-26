@@ -2,6 +2,7 @@
 layout: page
 title: ​德意志第三帝国奥米加分部
 description: W:12 L:12 D:3 Bonus ❌
+image: ./favicon.png
 date: 1730792639
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

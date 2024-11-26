@@ -2,6 +2,7 @@
 layout: page
 title: ​Nine's Own Goal
 description: W:32 L:26 D:2 Bonus ❌
+image: ./favicon.png
 date: 1731853114
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
@@ -11,7 +12,7 @@ date: 1731853114
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1183 🔻  (801)|
-| ELO Competitive | 1246 🔻  (384)|
+| ELO Competitive | 1246 🔻  (383)|
 | Total Matches | 60 |
 | Wins | 32 |
 | Losses | 26 |

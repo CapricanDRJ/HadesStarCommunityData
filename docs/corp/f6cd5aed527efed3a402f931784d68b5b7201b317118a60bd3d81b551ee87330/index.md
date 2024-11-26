@@ -2,6 +2,7 @@
 layout: page
 title: ​Black Star llc.
 description: W:33 L:18 D:0 Bonus ❌
+image: ./favicon.png
 date: 1731401141
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

@@ -2,6 +2,7 @@
 layout: page
 title: ​V0RTEX
 description: W:10 L:9 D:1 Bonus ❌
+image: ./favicon.png
 date: 1712597022
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

@@ -2,6 +2,7 @@
 layout: page
 title: ​SkitleStarOrder
 description: W:3 L:0 D:0 Bonus ❌
+image: ./favicon.png
 date: 1728148067
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
@@ -11,7 +12,7 @@ date: 1728148067
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1244 🔺  (266)|
-| ELO Competitive | 1245 🔺  (386)|
+| ELO Competitive | 1245 🔺  (385)|
 | Total Matches | 3 |
 | Wins | 3 |
 | Losses | 0 |

@@ -2,6 +2,7 @@
 layout: page
 title: ​使命白星
 description: W:13 L:8 D:2 Bonus ❌
+image: ./favicon.png
 date: 1727648220
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

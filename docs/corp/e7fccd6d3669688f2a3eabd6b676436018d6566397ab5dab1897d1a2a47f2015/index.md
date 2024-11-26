@@ -2,6 +2,7 @@
 layout: page
 title: ​UKR Spase
 description: W:28 L:11 D:0 Bonus ✅
+image: ./favicon.png
 date: 1732447491
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

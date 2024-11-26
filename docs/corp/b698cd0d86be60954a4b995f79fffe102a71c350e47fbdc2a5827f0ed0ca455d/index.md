@@ -2,6 +2,7 @@
 layout: page
 title: ​Stargate Corp
 description: W:54 L:28 D:0 Bonus ✅
+image: ./favicon.png
 date: 1732294848
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

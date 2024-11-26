@@ -2,6 +2,7 @@
 layout: page
 title: ​Atlas corp
 description: W:8 L:13 D:1 Bonus ❌
+image: ./favicon.png
 date: 1732033406
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

@@ -2,6 +2,7 @@
 layout: page
 title: ​White Dwarf
 description: W:44 L:14 D:0 Bonus ❌
+image: ./favicon.png
 date: 1732048434
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
@@ -10,7 +11,7 @@ date: 1732048434
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1429 🔻  (32)|
+| ELO Regular | 1429 🔻  (33)|
 | ELO Competitive | 1482 🔻  (59)|
 | Total Matches | 58 |
 | Wins | 44 |

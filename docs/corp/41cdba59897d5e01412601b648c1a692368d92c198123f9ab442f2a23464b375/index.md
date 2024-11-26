@@ -2,6 +2,7 @@
 layout: page
 title: ​Crux Cadre
 description: W:34 L:30 D:1 Bonus ❌
+image: ./favicon.png
 date: 1732229639
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

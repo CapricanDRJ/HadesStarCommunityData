@@ -2,6 +2,7 @@
 layout: page
 title: ​혁명군
 description: W:13 L:32 D:0 Bonus ❌
+image: ./favicon.png
 date: 1715096003
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

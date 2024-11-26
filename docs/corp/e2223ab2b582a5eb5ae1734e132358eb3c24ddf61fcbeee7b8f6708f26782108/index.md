@@ -2,6 +2,7 @@
 layout: page
 title: ​Galactic Empire
 description: W:22 L:18 D:0 Bonus ✅
+image: ./favicon.png
 date: 1731988333
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

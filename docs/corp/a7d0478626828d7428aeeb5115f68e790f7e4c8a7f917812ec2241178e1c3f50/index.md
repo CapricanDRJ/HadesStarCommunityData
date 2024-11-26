@@ -2,6 +2,7 @@
 layout: page
 title: ​Альянс
 description: W:26 L:10 D:0 Bonus ❌
+image: ./favicon.png
 date: 1724593548
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

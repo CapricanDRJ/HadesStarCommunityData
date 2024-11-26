@@ -2,6 +2,7 @@
 layout: page
 title: ​Winter Star llc
 description: W:4 L:3 D:1 Bonus ✅
+image: ./favicon.png
 date: 1732192068
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

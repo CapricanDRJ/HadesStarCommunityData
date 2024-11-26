@@ -2,6 +2,7 @@
 layout: page
 title: ​the heavy
 description: W:20 L:10 D:0 Bonus ❌
+image: ./favicon.png
 date: 1731652373
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

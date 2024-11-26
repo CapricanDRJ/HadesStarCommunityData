@@ -2,6 +2,7 @@
 layout: page
 title: ​Gemini↕     ☁
 description: W:3 L:9 D:1 Bonus ❌
+image: ./favicon.png
 date: 1720686776
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

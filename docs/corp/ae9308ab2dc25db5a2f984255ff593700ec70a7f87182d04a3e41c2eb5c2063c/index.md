@@ -2,6 +2,7 @@
 layout: page
 title: ​༺༽ʚ天轮间ɞ༼༻
 description: W:1 L:2 D:0 Bonus ❌
+image: ./favicon.png
 date: 1720002495
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

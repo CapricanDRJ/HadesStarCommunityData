@@ -2,6 +2,7 @@
 layout: page
 title: ​逐光起航
 description: W:9 L:39 D:6 Bonus ❌
+image: ./favicon.png
 date: 1732192068
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

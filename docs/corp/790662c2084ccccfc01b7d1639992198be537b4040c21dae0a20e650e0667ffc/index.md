@@ -2,6 +2,7 @@
 layout: page
 title: ​001-23
 description: W:0 L:11 D:0 Bonus ❌
+image: ./favicon.png
 date: 1717509740
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

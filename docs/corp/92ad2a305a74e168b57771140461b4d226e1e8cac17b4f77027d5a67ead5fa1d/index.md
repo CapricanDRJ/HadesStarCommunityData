@@ -2,6 +2,7 @@
 layout: page
 title: ​星光万丈
 description: W:23 L:28 D:1 Bonus ✅
+image: ./favicon.png
 date: 1732543948
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">

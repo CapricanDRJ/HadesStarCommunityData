@@ -2,6 +2,7 @@
 layout: page
 title: ​✡天启✡
 description: W:25 L:8 D:0 Bonus ❌
+image: ./favicon.png
 date: 1723740983
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
