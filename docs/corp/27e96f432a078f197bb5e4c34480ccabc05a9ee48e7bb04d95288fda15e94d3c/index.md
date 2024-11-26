@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Últimafronteira
-description: W:17 L:0 D:0 Bonus ✅
+description: W:17 L:0 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732013570
 ---
@@ -12,7 +12,7 @@ date: 1732013570
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

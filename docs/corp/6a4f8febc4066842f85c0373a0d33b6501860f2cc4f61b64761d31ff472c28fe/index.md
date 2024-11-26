@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Quilliance
-description: W:23 L:2 D:0 Bonus ✅
+description: W:23 L:2 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732014896
 ---
@@ -12,7 +12,7 @@ date: 1732014896
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

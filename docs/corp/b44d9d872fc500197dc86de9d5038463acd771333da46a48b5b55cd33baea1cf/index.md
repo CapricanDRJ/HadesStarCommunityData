@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​阿尔特拉集团
-description: W:37 L:28 D:3 Bonus ✅
+description: W:37 L:28 D:3 Bonus ❌
 image: ./favicon.png
 date: 1732021684
 ---
@@ -12,7 +12,7 @@ date: 1732021684
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

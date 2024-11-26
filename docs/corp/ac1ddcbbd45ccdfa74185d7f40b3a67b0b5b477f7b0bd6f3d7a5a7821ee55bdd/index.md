@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Widow Makers
-description: W:12 L:3 D:0 Bonus ❌
+description: W:13 L:3 D:0 Bonus ✅
 image: ./favicon.png
-date: 1731144822
+date: 1732643110
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -12,16 +12,17 @@ date: 1731144822
 
 
 
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1341 🔺  (100)|
-| ELO Competitive | 1375 🔺  (153)|
-| Total Matches | 15 |
-| Wins | 12 |
+| ELO Regular | 1353 🔺  (89)|
+| ELO Competitive | 1396 🔺  (130)|
+| Total Matches | 16 |
+| Wins | 13 |
 | Losses | 3 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 8 |
 
 ---
@@ -40,7 +41,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730712822,1729199808,1727968795,1727343739,1726770718,1725811911,1724631249,1724029029,1723490195,1722376807,1711117848,1709053914,1708620301,1708000075,1707401635];
+        let timestamps = [1732211110,1730712822,1729199808,1727968795,1727343739,1726770718,1725811911,1724631249,1724029029,1723490195,1722376807,1711117848,1709053914,1708620301,1708000075,1707401635];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -127,6 +128,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/26 | 38-3 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |
 | ✅ | 2024/11/09 | 32-31 | [Duchy Arrakis](https://ws.tsl.rocks/corp/6c8c526b366a9e9eb3eba3d3107b628042c005db03530961b24a722cc58a339e/) |
 | ❌ | 2024/10/22 | 4-22 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) |
 | ✅ | 2024/10/08 | 31-7 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) |
