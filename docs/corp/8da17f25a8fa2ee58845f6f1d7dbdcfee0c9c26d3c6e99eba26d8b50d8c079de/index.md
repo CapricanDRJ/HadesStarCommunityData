@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ​无人之境
-description: W:0 L:1 D:0 Bonus ❌
-date: 1731150832
+description: W:0 L:2 D:0 Bonus ❌
+date: 1732595334
 ---
 <img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
@@ -10,11 +10,11 @@ date: 1731150832
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (860)|
-| ELO Competitive | 1177 🔻  (988)|
-| Total Matches | 1 |
+| ELO Regular | 1158 🔻  (1035)|
+| ELO Competitive | 1166 🔻  (1103)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 ---
@@ -33,7 +33,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730718832];
+        let timestamps = [1732163334,1730718832];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -122,6 +122,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/26 | 0-6 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |
 | ❌ | 2024/11/09 | 0-19 | [Space Pirates](https://ws.tsl.rocks/corp/87eff6e453b6f020baf8cb8930236b566161e22814cdbdc77d696c5812684bc6/) |
 
 ---
