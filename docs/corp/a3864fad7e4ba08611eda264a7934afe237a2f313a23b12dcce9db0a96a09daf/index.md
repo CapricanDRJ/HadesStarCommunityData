@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ​<•|•>
-description: W:3 L:7 D:1 Bonus ❌
+description: W:3 L:8 D:1 Bonus ❌
 image: ./favicon.png
-date: 1728454039
+date: 1732641718
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
-</head><img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
+</head>
+<img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 
 
@@ -16,12 +16,14 @@ date: 1728454039
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1148 🔺  (1095)|
-| ELO Competitive | 1158 🔺  (1161)|
-| Total Matches | 11 |
+| ELO Regular | 1135 🔻  (1148)|
+| ELO Competitive | 1145 🔻  (1211)|
+| Total Matches | 12 |
 | Wins | 3 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 1 |
+
+---
 
 ### Whitestar Match Day
 
@@ -37,7 +39,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728022039,1727509017,1725537544,1723962299,1723408155,1722895788,1722340138,1721729175,1720857653,1720155610,1716780511];
+        let timestamps = [1732209718,1728022039,1727509017,1725537544,1723962299,1723408155,1722895788,1722340138,1721729175,1720857653,1720155610,1716780511];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -120,12 +122,11 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
-
----
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/26 | 2-3 | [Dirty Minds Inc](https://ws.tsl.rocks/corp/c8436a708008779e050bd40e98b52fc38b3782b31d5fdd99c74918af8005d778/) |
 | ✅ | 2024/10/09 | 4-2 | [数字星际集团](https://ws.tsl.rocks/corp/ccbf6be33652cb1b91bc9047b966ffdd6b313cc569d1e0a9fb832e6e8dc1d361/) |
 | ❌ | 2024/10/03 | 2-11 | [斯比纳兰](https://ws.tsl.rocks/corp/ce756ff97542e6fa8d518319e6575aae1d01eb23dd906fee3e3cbb98b442b68f/) |
 | ❌ | 2024/09/10 | 1-12 | [Nox Imperium](https://ws.tsl.rocks/corp/b60fb003fae650d1de18e7bca4fad04f9805501f4568d07ceb47bffdfeb613c1/) |

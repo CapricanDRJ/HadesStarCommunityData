@@ -1,28 +1,30 @@
 ---
 layout: page
 title: ​Dirty Minds Inc
-description: W:4 L:3 D:0 Bonus ❌
+description: W:5 L:3 D:0 Bonus ✅
 image: ./favicon.png
-date: 1732119044
+date: 1732641718
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
-</head><img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
+</head>
+<img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 
 
-
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1208 🔻  (446)|
-| ELO Competitive | 1215 🔻  (522)|
-| Total Matches | 7 |
-| Wins | 4 |
+| ELO Regular | 1221 🔺  (343)|
+| ELO Competitive | 1227 🔺  (450)|
+| Total Matches | 8 |
+| Wins | 5 |
 | Losses | 3 |
 | Draws | 0 |
 | Streak Record | 4 |
+
+---
 
 ### Whitestar Match Day
 
@@ -38,7 +40,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731687044,1731244720,1730809884,1730308959,1729602484,1729108146,1728657899];
+        let timestamps = [1732209718,1731687044,1731244720,1730809884,1730308959,1729602484,1729108146,1728657899];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -121,12 +123,11 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
-
----
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/26 | 3-2 | [<•\|•\>](https://ws.tsl.rocks/corp/a3864fad7e4ba08611eda264a7934afe237a2f313a23b12dcce9db0a96a09daf/) |
 | ❌ | 2024/11/20 | 2-8 | [ДИᏰEPℂДℍTᏰℓ](https://ws.tsl.rocks/corp/a1dad8a2a2c5ab935169d168bc19f8a1db7f12b099358e079cb7221a340345ed/) |
 | ❌ | 2024/11/15 | 3-7 | [Dark Halo](https://ws.tsl.rocks/corp/f6ed7c780faf133d3fe411b9ed88480608a56064328539891d1b4348242954f6/) |
 | ❌ | 2024/11/10 | 0-16 | [ITALIA](https://ws.tsl.rocks/corp/50983e789fe433b3974f5e28fe71a160d7d15afecfc7f2b89595a1a52391fda2/) |

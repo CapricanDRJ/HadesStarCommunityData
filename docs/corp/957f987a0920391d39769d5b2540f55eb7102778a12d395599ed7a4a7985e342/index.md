@@ -7,8 +7,8 @@ date: 1732467328
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
-</head><img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
-
+</head>
+<img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
 
 
@@ -16,13 +16,15 @@ date: 1732467328
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1142 🔺  (1125)|
+| ELO Regular | 1142 🔺  (1124)|
 | ELO Competitive | 1172 🔺  (1050)|
 | Total Matches | 17 |
 | Wins | 4 |
 | Losses | 12 |
 | Draws | 1 |
 | Streak Record | 2 |
+
+---
 
 ### Whitestar Match Day
 
@@ -120,8 +122,6 @@ This chart shows the frequency of days of the week when whitestars were matched 
     });
 </script>
     
----
-
 ---
 ### Match History
 
