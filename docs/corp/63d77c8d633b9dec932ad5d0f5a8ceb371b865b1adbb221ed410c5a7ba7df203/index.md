@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Cerulean Star
-description: W:27 L:18 D:0 Bonus ✅
+description: W:27 L:18 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732027094
 ---
@@ -12,7 +12,7 @@ date: 1732027094
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
