@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​对，进就进人少的（分团）
-description: W:12 L:11 D:1 Bonus ✅
+description: W:12 L:11 D:1 Bonus ❌
 image: ./favicon.png
 date: 1732452299
 ---
@@ -9,8 +9,9 @@ date: 1732452299
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head><img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-### Whitestar Bonus ✅
 
+
+### Whitestar Bonus ❌
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1216 🔻  (371)|

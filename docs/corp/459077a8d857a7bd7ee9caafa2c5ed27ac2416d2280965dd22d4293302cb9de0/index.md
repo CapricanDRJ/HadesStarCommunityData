@@ -1,23 +1,24 @@
 ---
 layout: page
 title: ​一根飞机
-description: W:5 L:2 D:1 Bonus ✅
+description: W:5 L:3 D:1 Bonus ✅
 image: ./favicon.png
-date: 1732554168
+date: 1732637099
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head><img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-### Whitestar Bonus ✅
 
+
+### Whitestar Bonus ✅
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1232 🔻  (308)|
-| ELO Competitive | 1238 🔻  (415)|
-| Total Matches | 8 |
+| ELO Regular | 1216 🔻  (376)|
+| ELO Competitive | 1238 🔻  (416)|
+| Total Matches | 9 |
 | Wins | 5 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 1 |
 | Streak Record | 3 |
 
@@ -37,7 +38,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732122168,1731769086,1731683437,1731327962,1731158760,1730821005,1730724843,1730385883];
+        let timestamps = [1732205099,1732122168,1731769086,1731683437,1731327962,1731158760,1730821005,1730724843,1730385883];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/26 | 3-10 | [星落苑](https://ws.tsl.rocks/corp/6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c/) |
 | ❌ | 2024/11/25 | 0-10 | [QONQR ](https://ws.tsl.rocks/corp/5e23ade08a63b2c440a6a4c1a9ecfb6b1cfca34523c1a528d075bd06eaf5d019/) |
 | ✅ | 2024/11/21 | 8-3 | [Final Space](https://ws.tsl.rocks/corp/762914fc1846e6b284609274f8f9515959110b5db098a53be8048ffd45d98fdd/) |
 | ✅ | 2024/11/20 | 2-1 | [Alpha to Omega](https://ws.tsl.rocks/corp/2b3694014264240c8c0d1bb6a20e9d120dff2b6680c98b4e06e34bfd489f9da6/) |

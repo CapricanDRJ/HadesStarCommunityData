@@ -1,22 +1,23 @@
 ---
 layout: page
 title: ​星落苑
-description: W:2 L:1 D:0 Bonus ✅
+description: W:3 L:1 D:0 Bonus ✅
 image: ./favicon.png
-date: 1732630186
+date: 1732637099
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head><img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-### Whitestar Bonus ✅
 
+
+### Whitestar Bonus ✅
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1212 🔻  (422)|
-| ELO Competitive | 1216 🔻  (498)|
-| Total Matches | 3 |
-| Wins | 2 |
+| ELO Regular | 1228 🔺  (320)|
+| ELO Competitive | 1238 🔺  (415)|
+| Total Matches | 4 |
+| Wins | 3 |
 | Losses | 1 |
 | Draws | 0 |
 | Streak Record | 2 |
@@ -37,7 +38,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732198186,1731677125,1731061390];
+        let timestamps = [1732205099,1732198186,1731677125,1731061390];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/26 | 10-3 | [一根飞机](https://ws.tsl.rocks/corp/459077a8d857a7bd7ee9caafa2c5ed27ac2416d2280965dd22d4293302cb9de0/) |
 | ❌ | 2024/11/26 | 17-18 | [Osmium Star llc](https://ws.tsl.rocks/corp/edd3ac94ea8ee1cf441e904ff29c48c21fa5db83af6eb5a6e83ae236b3872b22/) |
 | ✅ | 2024/11/20 | 23-0 | [佛矿寺](https://ws.tsl.rocks/corp/64f8afd95b7004e9d5a442da55644ee3ce64a9a8e82345c458d757b527e40624/) |
 | ✅ | 2024/11/13 | 19-0 | [斯比纳兰](https://ws.tsl.rocks/corp/ce756ff97542e6fa8d518319e6575aae1d01eb23dd906fee3e3cbb98b442b68f/) |

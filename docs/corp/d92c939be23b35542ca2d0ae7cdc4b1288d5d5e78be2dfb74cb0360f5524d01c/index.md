@@ -9,12 +9,13 @@ date: 1724823432
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
 </head><img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-### Whitestar Bonus ❌
 
+
+### Whitestar Bonus ❌
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1212 🔺  (427)|
-| ELO Competitive | 1227 🔺  (448)|
+| ELO Competitive | 1227 🔺  (449)|
 | Total Matches | 7 |
 | Wins | 4 |
 | Losses | 3 |
