@@ -122,6 +122,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+
+---
 ### Match History
 
 |  | Date | Score | Opponent |

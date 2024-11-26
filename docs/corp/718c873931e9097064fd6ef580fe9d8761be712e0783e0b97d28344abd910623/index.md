@@ -122,7 +122,9 @@ This chart shows the frequency of days of the week when whitestars were matched 
         const myChart = new Chart(ctx, config);
     });
 </script>
-    ### Recurring Opponents
+    
+---
+### Recurring Opponents
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
