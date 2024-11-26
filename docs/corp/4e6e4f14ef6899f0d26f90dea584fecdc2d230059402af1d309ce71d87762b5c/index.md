@@ -11,7 +11,7 @@ date: 1705243362
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1197 🔺  (523)|
-| ELO Competitive | 1200 🔺  (623)|
+| ELO Competitive | 1200 🔺  (624)|
 | Total Matches | 4 |
 | Wins | 2 |
 | Losses | 2 |
@@ -19,7 +19,7 @@ date: 1705243362
 
 ---
 
-# Whitestar Match Day
+## Whitestar Match Day
 
 This chart shows the frequency of days of the week when whitestars were matched in your local timezone
 
