@@ -320,7 +320,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Grand Mechanism](https://ws.tsl.rocks/corp/cdae35a4dff3b9b84fa6e79966de8f58259e9ea95a366abeaa8a103815dfa7b3/) | 1168 | 1172 | 8 |
 | [Grater T](https://ws.tsl.rocks/corp/2044ad2bb7831118aae299744191230a33d196c7997f9516a20c3d0a321ba669/) | 1221 | 1295 | 22 |
 | [Grater U](https://ws.tsl.rocks/corp/0e4162ae372602616761a4d3d17986722b9cc8c4371f9ddeadb3d0d37aace4fa/) | 1199 | 1202 | 3 |
-| [Greek Warriors](https://ws.tsl.rocks/corp/0ebbf2228c6b86ec5117c216d8909c8e6f32f1a59b8f9b586bcdbbb85f603bc6/) | 1125 | 1159 | 33 |
+| [Greek Warriors](https://ws.tsl.rocks/corp/0ebbf2228c6b86ec5117c216d8909c8e6f32f1a59b8f9b586bcdbbb85f603bc6/) | 1150 | 1184 | 34 |
 | [Green Dwarf](https://ws.tsl.rocks/corp/dbfbd1738d98b2f1a9419727fde30070aae0f158a0aa36a78561489c2bb3283a/) | 1247 | 1262 | 5 |
 | [Gregycool](https://ws.tsl.rocks/corp/f3d8710927bd368f1c3120cd4d2f0b3130f4ba478e4bdee0555ced460ba56b1a/) | 1186 | 1186 | 1 |
 | [Grunthal Gang](https://ws.tsl.rocks/corp/0ab98cd1f1b195397b27360ea0dee2527f1504c9f5d4867e719d6f1f73efb01d/) | 1357 | 1488 | 70 |
@@ -722,7 +722,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [SpaceX](https://ws.tsl.rocks/corp/36173473678c2fd1749557e23a0c55ce3f2c90d6e22ed7c45752e05364d86776/) | 1165 | 1169 | 2 |
 | [Spacey Bois](https://ws.tsl.rocks/corp/101cbb78dd4a183b76f993a196783666ce03ef19f7b15add41f4608c5082ade5/) | 1185 | 1186 | 5 |
 | [Spectre](https://ws.tsl.rocks/corp/ef39728c197d3efa64f411ff4f1133ef77ad52a020c826a179d65631df05d442/) | 1156 | 1157 | 3 |
-| [Spica​](https://ws.tsl.rocks/corp/df96d6d34c4906312183050c8aa7a502678ab2902b7c23112aa9fda827bb4191/) | 1382 | 1438 | 46 |
+| [Spica​](https://ws.tsl.rocks/corp/df96d6d34c4906312183050c8aa7a502678ab2902b7c23112aa9fda827bb4191/) | 1358 | 1413 | 47 |
 | [Spiritic Beacon](https://ws.tsl.rocks/corp/5167772c02384f567373d65a76da8399c74f305fcc5f228903614e8069445d2a/) | 1203 | 1209 | 9 |
 | [Splendid](https://ws.tsl.rocks/corp/8d0fd2cb62785c9876643edf419b241f0f86e339052e5d3e4fab40b0416828dd/) | 1207 | 1213 | 8 |
 | [Sprite](https://ws.tsl.rocks/corp/3bf5d300b42f0610355645e2ee9cf24e5517a2c5e12472f685781051619266ac/) | 1394 | 1439 | 28 |

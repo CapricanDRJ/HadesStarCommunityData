@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Greek Warriors
-description: W:8 L:25 D:0 Bonus ❌
+description: W:9 L:25 D:0 Bonus ✅
 image: ./favicon.png
-date: 1730902319
+date: 1732735957
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -12,14 +12,14 @@ date: 1730902319
 
 
 
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1125 🔻  (1176)|
-| ELO Competitive | 1159 🔻  (1153)|
-| Total Matches | 33 |
-| Wins | 8 |
+| ELO Regular | 1150 🔺  (1093)|
+| ELO Competitive | 1184 🔺  (926)|
+| Total Matches | 34 |
+| Wins | 9 |
 | Losses | 25 |
 | Draws | 0 |
 | Streak Record | 2 |
@@ -40,7 +40,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730470319,1727359067,1726161754,1725627391,1723038223,1721948252,1720720905,1719520319,1718828844,1718227061,1717603981,1716498958,1715274026,1714682635,1714061570,1713452570,1712260278,1711651193,1710436087,1709841158,1709237505,1708627514,1707933668,1706899330,1705939187,1702495029,1701886718,1701418468,1700849832,1700395708,1700394506,1699906059,1699841439];
+        let timestamps = [1732303957,1730470319,1727359067,1726161754,1725627391,1723038223,1721948252,1720720905,1719520319,1718828844,1718227061,1717603981,1716498958,1715274026,1714682635,1714061570,1713452570,1712260278,1711651193,1710436087,1709841158,1709237505,1708627514,1707933668,1706899330,1705939187,1702495029,1701886718,1701418468,1700849832,1700395708,1700394506,1699906059,1699841439];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/27 | 20-11 | [Spica​](https://ws.tsl.rocks/corp/df96d6d34c4906312183050c8aa7a502678ab2902b7c23112aa9fda827bb4191/) |
 | ❌ | 2024/11/06 | 9-14 | [2ND\-R8 Corp\.](https://ws.tsl.rocks/corp/e97866623598a98454b3a4724b472dc171f5e1aff84b076c43d021f0fabdc702/) |
 | ❌ | 2024/10/01 | 7-31 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) |
 | ❌ | 2024/09/17 | 3-33 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) |
