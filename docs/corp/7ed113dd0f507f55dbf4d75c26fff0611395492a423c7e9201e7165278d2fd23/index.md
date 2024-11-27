@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Panda clan 
-description: W:2 L:3 D:0 Bonus ❌
+description: W:3 L:3 D:0 Bonus ✅
 image: ./favicon.png
-date: 1717075472
+date: 1732666549
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -12,18 +12,18 @@ date: 1717075472
 
 
 
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1199 🔺  (511)|
-| ELO Competitive | 1202 🔺  (595)|
-| Total Matches | 5 |
-| Wins | 2 |
+| ELO Regular | 1214 🔺  (410)|
+| ELO Competitive | 1219 🔺  (485)|
+| Total Matches | 6 |
+| Wins | 3 |
 | Losses | 3 |
 | Draws | 0 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 
 ---
 
@@ -41,7 +41,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1716643472,1712531315,1708916588,1706480719,1704603403];
+        let timestamps = [1732234549,1716643472,1712531315,1708916588,1706480719,1704603403];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -130,6 +130,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/27 | 36-1 | [Alpaca Haven](https://ws.tsl.rocks/corp/e93a2f2efda24a65c8ee7eb57fbb269e19b2b1c28a67c6c7c3339b8c90f7726b/) |
 | ✅ | 2024/05/30 | 35-5 | [Scar](https://ws.tsl.rocks/corp/1fd57b7d50b68cb3883fd58e596f496821ebcc82dee1915bb7f34a402b03c44a/) |
 | ✅ | 2024/04/12 | 19-0 | [BRASIL STAR](https://ws.tsl.rocks/corp/94fc4639f17e4503a11d4ac3878f3203bca3f21baebf285433ff39ad37f0fff2/) |
 | ❌ | 2024/03/02 | 5-17 | [Млечный путь](https://ws.tsl.rocks/corp/a9a3b102b3698bf7db8cd106adda02cee0033bfc03f681b667b2991e10049a25/) |
