@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Empire of Light
-description: W:11 L:20 D:1 Bonus ✅
+description: W:12 L:20 D:1 Bonus ✅
 image: ./favicon.png
-date: 1732165924
+date: 1732685174
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,14 +16,14 @@ date: 1732165924
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1151 🔺  (1084)|
-| ELO Competitive | 1241 🔺  (405)|
-| Total Matches | 32 |
-| Wins | 11 |
+| ELO Regular | 1163 🔺  (999)|
+| ELO Competitive | 1263 🔺  (331)|
+| Total Matches | 33 |
+| Wins | 12 |
 | Losses | 20 |
 | Draws | 1 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 
 ---
 
@@ -41,7 +41,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731733924,1731255543,1730715226,1730706813,1730206489,1730206489,1729727194,1729170647,1729170647,1728664213,1728657899,1728001556,1727253591,1725935113,1713480517,1712192968,1711339312,1711267190,1710860957,1710083945,1709348981,1708505813,1707575617,1706839529,1704722107,1702985503,1701777312,1701216213,1700711879,1700183824,1699585003,1698969283];
+        let timestamps = [1732253174,1731733924,1731255543,1730715226,1730706813,1730206489,1730206489,1729727194,1729170647,1729170647,1728664213,1728657899,1728001556,1727253591,1725935113,1713480517,1712192968,1711339312,1711267190,1710860957,1710083945,1709348981,1708505813,1707575617,1706839529,1704722107,1702985503,1701777312,1701216213,1700711879,1700183824,1699585003,1698969283];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,12 +124,18 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) | 2 | 0 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/27 | 10-0 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) |
 | ✅ | 2024/11/21 | 8-1 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ✅ | 2024/11/15 | 10-3 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
 | ❌ | 2024/11/09 | 8-23 | [RUFORS](https://ws.tsl.rocks/corp/f1e7f82e284c8233985039ea19544dbfa937f38f2315e9ad6a1d037423071b6d/) |
