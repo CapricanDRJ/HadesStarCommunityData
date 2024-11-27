@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​蓝色星系二号分盟
-description: W:2 L:0 D:0 Bonus ✅
+description: W:2 L:0 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732104016
 ---
@@ -12,7 +12,7 @@ date: 1732104016
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
