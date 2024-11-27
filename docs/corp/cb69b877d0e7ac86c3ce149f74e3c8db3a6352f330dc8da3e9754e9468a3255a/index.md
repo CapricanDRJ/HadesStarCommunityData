@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​⭐PRETORIANS.X⭐
-description: W:9 L:14 D:2 Bonus ✅
+description: W:9 L:14 D:2 Bonus ❌
 image: ./favicon.png
 date: 1732586321
 ---
@@ -12,7 +12,7 @@ date: 1732586321
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
