@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​普罗米修斯
-description: W:7 L:18 D:1 Bonus ✅
+description: W:7 L:18 D:1 Bonus ❌
 image: ./favicon.png
 date: 1732102213
 ---
@@ -12,7 +12,7 @@ date: 1732102213
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
