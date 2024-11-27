@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​SNSS
-description: W:2 L:8 D:1 Bonus ❌
+description: W:2 L:9 D:1 Bonus ❌
 image: ./favicon.png
-date: 1732717324
+date: 1732728744
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,11 +16,11 @@ date: 1732717324
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1122 🔻  (1193)|
+| ELO Regular | 1105 🔻  (1234)|
 | ELO Competitive | 1191 🔺  (708)|
-| Total Matches | 11 |
+| Total Matches | 12 |
 | Wins | 2 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 1 |
 
 ---
@@ -39,7 +39,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732285324,1731534402,1731519376,1730760612,1730750093,1729932727,1729931225,1729107244,1724537188,1708964363,1698695487];
+        let timestamps = [1732296744,1732285324,1731534402,1731519376,1730760612,1730750093,1729932727,1729931225,1729107244,1724537188,1708964363,1698695487];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -126,6 +126,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [붉은늑대](https://ws.tsl.rocks/corp/43d32b05645aaa9415d1c04ecbcea520d2ed5b90304770cb0ab3813cb86e2f49/) | 0 | 1 | 1 | 2 |
 | [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/) | 1 | 1 | 0 | 2 |
 
 ---
@@ -133,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/27 | 3-24 | [붉은늑대](https://ws.tsl.rocks/corp/43d32b05645aaa9415d1c04ecbcea520d2ed5b90304770cb0ab3813cb86e2f49/) |
 | ↔️ | 2024/11/27 | 23-23 | [붉은늑대](https://ws.tsl.rocks/corp/43d32b05645aaa9415d1c04ecbcea520d2ed5b90304770cb0ab3813cb86e2f49/) |
 | ❌ | 2024/11/18 | 4-42 | [Croce del Sud](https://ws.tsl.rocks/corp/d0899d3aea0aaed6c7d87de378c6c82274ff8dcdabad391d44c2f08f98039af1/) |
 | ❌ | 2024/11/18 | 9-43 | [E\.T\.A](https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082/) |

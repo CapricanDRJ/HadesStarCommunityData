@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Omega corp
-description: W:6 L:5 D:3 Bonus ❌
+description: W:7 L:5 D:3 Bonus ✅
 image: ./favicon.png
-date: 1731861530
+date: 1732728143
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -12,14 +12,14 @@ date: 1731861530
 
 
 
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1208 🔺  (447)|
-| ELO Competitive | 1221 🔺  (474)|
-| Total Matches | 14 |
-| Wins | 6 |
+| ELO Regular | 1221 🔺  (340)|
+| ELO Competitive | 1236 🔺  (421)|
+| Total Matches | 15 |
+| Wins | 7 |
 | Losses | 5 |
 | Draws | 3 |
 | Streak Record | 2 |
@@ -40,7 +40,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731429530,1730911546,1730373372,1729834760,1729374110,1728473966,1728021688,1727562813,1727125898,1726669030,1726195017,1725590434,1725142409,1724709985];
+        let timestamps = [1732296143,1731429530,1730911546,1730373372,1729834760,1729374110,1728473966,1728021688,1727562813,1727125898,1726669030,1726195017,1725590434,1725142409,1724709985];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -123,12 +123,18 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [银河护卫队](https://ws.tsl.rocks/corp/e522df7ad34eabee08393efb864d53bdc897d0ad187170616d6ef924df5c7267/) | 1 | 1 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/27 | 7-0 | [银河护卫队](https://ws.tsl.rocks/corp/e522df7ad34eabee08393efb864d53bdc897d0ad187170616d6ef924df5c7267/) |
 | ↔️ | 2024/11/17 | 4-4 | [闲散人员](https://ws.tsl.rocks/corp/4f0fa774b66e4f744a305525f92e7252205ae754df0f3982b577b32caf32cdbc/) |
 | ✅ | 2024/11/11 | 11-0 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) |
 | ❌ | 2024/11/05 | 5-11 | [ДИᏰEPℂДℍTᏰℓ](https://ws.tsl.rocks/corp/a1dad8a2a2c5ab935169d168bc19f8a1db7f12b099358e079cb7221a340345ed/) |
