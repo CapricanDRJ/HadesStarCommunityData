@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​2ND-R8 Corp.
-description: W:34 L:17 D:1 Bonus ✅
+description: W:34 L:17 D:1 Bonus ❌
 image: ./favicon.png
 date: 1732718526
 ---
@@ -12,7 +12,7 @@ date: 1732718526
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
