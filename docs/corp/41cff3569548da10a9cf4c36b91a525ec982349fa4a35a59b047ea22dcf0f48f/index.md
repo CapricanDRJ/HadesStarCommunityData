@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​TRAPSTAR¹
-description: W:0 L:2 D:1 Bonus ❌
+description: W:0 L:3 D:1 Bonus ❌
 image: ./favicon.png
-date: 1710306206
+date: 1732704702
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,11 +16,11 @@ date: 1710306206
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (927)|
-| ELO Competitive | 1171 🔻  (1071)|
-| Total Matches | 3 |
+| ELO Regular | 1157 🔻  (1049)|
+| ELO Competitive | 1157 🔻  (1167)|
+| Total Matches | 4 |
 | Wins | 0 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 1 |
 
 ---
@@ -39,7 +39,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1709874206,1703231537,1701897843];
+        let timestamps = [1732272702,1709874206,1703231537,1701897843];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -128,6 +128,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/27 | 0-7 | [清霄阁（防御协会）](https://ws.tsl.rocks/corp/a263c037c5b59f1816ad75738a21141c689baee193b386b2ddbbcf79e959612d/) |
 | ❌ | 2024/03/13 | 0-5 | [四季长春](https://ws.tsl.rocks/corp/cf0b11914dc18d8e669592ecfe191f115c4e5fdba09d130d260bb625b36a3179/) |
 | ❌ | 2023/12/27 | 0-3 | [Halcon español](https://ws.tsl.rocks/corp/ab9c3038dcf2b019ba662007ab1e50b2d80e0eb8e7a65e57dd5260a6d2e80ff9/) |
 | ↔️ | 2023/12/11 | 1-1 | [NEW HOLLAND](https://ws.tsl.rocks/corp/b080750b30e8c3b7a4c8bd483921bb8082a83d48c662683a07beba245f70c2a2/) |
