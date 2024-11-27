@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​日月星辰
-description: W:3 L:4 D:0 Bonus ❌
+description: W:3 L:5 D:0 Bonus ❌
 image: ./favicon.png
-date: 1732168027
+date: 1732677063
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,11 +16,11 @@ date: 1732168027
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1196 🔻  (525)|
-| ELO Competitive | 1218 🔻  (488)|
-| Total Matches | 7 |
+| ELO Regular | 1173 🔻  (884)|
+| ELO Competitive | 1200 🔻  (615)|
+| Total Matches | 8 |
 | Wins | 3 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -40,7 +40,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731736027,1731736027,1731300021,1730791255,1709126927,1708610383,1699348812];
+        let timestamps = [1732245063,1731736027,1731736027,1731300021,1730791255,1709126927,1708610383,1699348812];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/27 | 1-35 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
 | ❌ | 2024/11/21 | 7-34 | [BrazilCorp\.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) |
 | ❌ | 2024/11/21 | 0-25 | [Scar](https://ws.tsl.rocks/corp/1fd57b7d50b68cb3883fd58e596f496821ebcc82dee1915bb7f34a402b03c44a/) |
 | ❌ | 2024/11/16 | 0-37 | [Rising star](https://ws.tsl.rocks/corp/b7037efd74e829aa4ac6e49960fa44cebe1477e23d25cf1640594d9168d630db/) |

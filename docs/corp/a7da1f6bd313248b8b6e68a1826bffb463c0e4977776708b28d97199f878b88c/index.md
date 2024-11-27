@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​The Syndicate 
-description: W:22 L:4 D:0 Bonus ✅
+description: W:23 L:4 D:0 Bonus ✅
 image: ./favicon.png
-date: 1732047833
+date: 1732668652
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,12 +16,13 @@ date: 1732047833
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1373 🔺  (72)|
-| ELO Competitive | 1399 🔺  (126)|
-| Total Matches | 26 |
-| Wins | 22 |
+| ELO Regular | 1384 🔺  (65)|
+| ELO Competitive | 1418 🔺  (114)|
+| Total Matches | 27 |
+| Wins | 23 |
 | Losses | 4 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 20 |
 
 ---
@@ -40,7 +41,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731615833,1729769855,1729246709,1728218536,1726760760,1726149655,1725558143,1724347562,1723725314,1723117553,1721842473,1721236345,1720634643,1720022767,1719421450,1718827943,1718212633,1717612098,1717017028,1716413336,1715814845,1715198616,1714599408,1713978344,1713373849,1712654205];
+        let timestamps = [1732236652,1731615833,1729769855,1729246709,1728218536,1726760760,1726149655,1725558143,1724347562,1723725314,1723117553,1721842473,1721236345,1720634643,1720022767,1719421450,1718827943,1718212633,1717612098,1717017028,1716413336,1715814845,1715198616,1714599408,1713978344,1713373849,1712654205];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/27 | 4-3 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ✅ | 2024/11/19 | 10-3 | [斯比纳兰](https://ws.tsl.rocks/corp/ce756ff97542e6fa8d518319e6575aae1d01eb23dd906fee3e3cbb98b442b68f/) |
 | ❌ | 2024/10/29 | 11-19 | [Osmium Star llc](https://ws.tsl.rocks/corp/edd3ac94ea8ee1cf441e904ff29c48c21fa5db83af6eb5a6e83ae236b3872b22/) |
 | ✅ | 2024/10/23 | 25-3 | [  边界  ](https://ws.tsl.rocks/corp/86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a/) |
