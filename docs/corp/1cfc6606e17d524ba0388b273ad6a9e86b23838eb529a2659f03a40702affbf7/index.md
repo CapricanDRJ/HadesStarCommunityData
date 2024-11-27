@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Lofty Mountain
-description: W:11 L:0 D:0 Bonus ✅
+description: W:11 L:0 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732091325
 ---
@@ -12,7 +12,7 @@ date: 1732091325
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
