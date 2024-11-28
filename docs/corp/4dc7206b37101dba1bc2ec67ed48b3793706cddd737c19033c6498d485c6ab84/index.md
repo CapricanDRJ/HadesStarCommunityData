@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Team Rainbow
-description: W:4 L:3 D:0 Bonus ✅
+description: W:4 L:3 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732134974
 ---
@@ -12,7 +12,7 @@ date: 1732134974
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

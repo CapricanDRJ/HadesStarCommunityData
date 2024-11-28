@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​共产国际
-description: W:6 L:5 D:5 Bonus ❌
+description: W:6 L:6 D:5 Bonus ❌
 image: ./favicon.png
-date: 1732288535
+date: 1732758496
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,11 +16,11 @@ date: 1732288535
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 🔻  (484)|
-| ELO Competitive | 1266 🔻  (329)|
-| Total Matches | 16 |
+| ELO Regular | 1185 🔻  (698)|
+| ELO Competitive | 1248 🔻  (378)|
+| Total Matches | 17 |
 | Wins | 6 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 5 |
 | Streak Record | 3 |
 
@@ -40,7 +40,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731856535,1731855246,1729436313,1729432423,1727619302,1726083255,1725628293,1725625888,1725156996,1725022801,1724494208,1724221949,1723871533,1723385612,1722757542,1722307686];
+        let timestamps = [1732326496,1731856535,1731855246,1729436313,1729432423,1727619302,1726083255,1725628293,1725625888,1725156996,1725022801,1724494208,1724221949,1723871533,1723385612,1722757542,1722307686];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/28 | 0-3 | [环星集团](https://ws.tsl.rocks/corp/8a1148b4fbc41d0b26a8a865ec524c7ab8965e7df2c1002344b8cbd075a12fdd/) |
 | ❌ | 2024/11/22 | 0-14 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb/) |
 | ↔️ | 2024/11/22 | 0-0 | [empire](https://ws.tsl.rocks/corp/c59bf8dfb57f9bfc0a87735b00299b45d32d3607628d7879e2bd9711fec3e90f/) |
 | ↔️ | 2024/10/25 | 0-0 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
