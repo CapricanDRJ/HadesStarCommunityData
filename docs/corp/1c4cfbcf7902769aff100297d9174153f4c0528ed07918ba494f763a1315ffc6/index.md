@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The Allegiant
-description: W:28 L:14 D:0 Bonus ✅
+description: W:28 L:14 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732177643
 ---
@@ -12,7 +12,7 @@ date: 1732177643
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
