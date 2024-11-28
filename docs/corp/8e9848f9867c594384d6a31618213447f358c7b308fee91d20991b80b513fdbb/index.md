@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Albedo
-description: W:32 L:11 D:0 Bonus ✅
+description: W:32 L:11 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732772617
 ---
@@ -12,7 +12,7 @@ date: 1732772617
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

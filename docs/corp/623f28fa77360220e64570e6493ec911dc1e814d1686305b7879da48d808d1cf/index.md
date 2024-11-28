@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​BrazilCorp.
-description: W:45 L:7 D:0 Bonus ✅
+description: W:45 L:7 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732168027
 ---
@@ -12,7 +12,7 @@ date: 1732168027
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​EarthFederation
-description: W:6 L:2 D:0 Bonus ✅
+description: W:6 L:2 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732159915
 ---
@@ -12,7 +12,7 @@ date: 1732159915
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

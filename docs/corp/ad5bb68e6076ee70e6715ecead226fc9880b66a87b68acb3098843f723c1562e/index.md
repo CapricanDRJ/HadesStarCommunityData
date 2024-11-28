@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Game of Stars
-description: W:12 L:22 D:0 Bonus ❌
+description: W:13 L:22 D:0 Bonus ✅
 image: ./favicon.png
-date: 1731853114
+date: 1732789143
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -12,18 +12,18 @@ date: 1731853114
 
 
 
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔺  (961)|
-| ELO Competitive | 1208 🔺  (574)|
-| Total Matches | 34 |
-| Wins | 12 |
+| ELO Regular | 1189 🔺  (605)|
+| ELO Competitive | 1235 🔺  (424)|
+| Total Matches | 35 |
+| Wins | 13 |
 | Losses | 22 |
 | Draws | 0 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 
 ---
 
@@ -41,7 +41,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731421114,1730408425,1727853093,1727200114,1725642721,1724998761,1724059677,1722920425,1722364184,1721210197,1720732028,1720026375,1719214615,1718024808,1718012485,1717036256,1715678137,1714802318,1713179132,1712292726,1711478127,1710769918,1710017539,1709120616,1708360979,1707884086,1707332826,1706852148,1706251115,1705475190,1704646682,1704126188,1699989609,1698811816];
+        let timestamps = [1732357143,1731421114,1730408425,1727853093,1727200114,1725642721,1724998761,1724059677,1722920425,1722364184,1721210197,1720732028,1720026375,1719214615,1718024808,1718012485,1717036256,1715678137,1714802318,1713179132,1712292726,1711478127,1710769918,1710017539,1709120616,1708360979,1707884086,1707332826,1706852148,1706251115,1705475190,1704646682,1704126188,1699989609,1698811816];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/28 | 43-2 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ✅ | 2024/11/17 | 47-5 | [Nine's Own Goal](https://ws.tsl.rocks/corp/fd47245550708347721e341d893b73e7c23e0f3624053c47ce666e55641c9e9e/) |
 | ✅ | 2024/11/05 | 37-28 | [Void](https://ws.tsl.rocks/corp/d647d722a09f020b716e059ac7758172a560c7190ac4d7d306c4ede8be6c5e77/) |
 | ❌ | 2024/10/07 | 5-44 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |
