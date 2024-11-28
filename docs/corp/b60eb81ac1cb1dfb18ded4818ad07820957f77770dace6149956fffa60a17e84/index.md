@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Nebula alliance
-description: W:3 L:2 D:1 Bonus ✅
+description: W:3 L:2 D:1 Bonus ❌
 image: ./favicon.png
 date: 1732152705
 ---
@@ -12,7 +12,7 @@ date: 1732152705
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

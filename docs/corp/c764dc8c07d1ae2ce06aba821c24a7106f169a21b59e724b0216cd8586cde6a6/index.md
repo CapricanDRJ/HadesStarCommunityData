@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​украина№1
-description: W:36 L:30 D:0 Bonus ✅
+description: W:36 L:30 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732471235
 ---
@@ -12,7 +12,7 @@ date: 1732471235
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
