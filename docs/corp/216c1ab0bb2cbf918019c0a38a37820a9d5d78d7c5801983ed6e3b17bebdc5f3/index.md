@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​lonewolf
-description: W:23 L:11 D:1 Bonus ✅
+description: W:23 L:11 D:1 Bonus ❌
 image: ./favicon.png
 date: 1732197779
 ---
@@ -12,7 +12,7 @@ date: 1732197779
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

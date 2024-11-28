@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Вселенские 40%
-description: W:23 L:35 D:0 Bonus ✅
+description: W:23 L:35 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732592930
 ---
@@ -12,11 +12,11 @@ date: 1732592930
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1117 🔻  (1204)|
+| ELO Regular | 1117 🔻  (1203)|
 | ELO Competitive | 1214 🔻  (532)|
 | Total Matches | 58 |
 | Wins | 23 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Kratos
-description: W:47 L:29 D:0 Bonus ✅
+description: W:47 L:29 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732778369
 ---
@@ -12,7 +12,7 @@ date: 1732778369
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

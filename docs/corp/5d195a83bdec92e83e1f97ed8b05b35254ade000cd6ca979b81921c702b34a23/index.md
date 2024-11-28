@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​VoidRunners
-description: W:76 L:49 D:1 Bonus ✅
+description: W:76 L:49 D:1 Bonus ❌
 image: ./favicon.png
 date: 1732647918
 ---
@@ -12,7 +12,7 @@ date: 1732647918
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

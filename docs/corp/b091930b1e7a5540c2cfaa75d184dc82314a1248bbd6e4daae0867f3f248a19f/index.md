@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Ещё один Миф
-description: W:6 L:9 D:0 Bonus ✅
+description: W:6 L:9 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732677664
 ---
@@ -12,7 +12,7 @@ date: 1732677664
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
