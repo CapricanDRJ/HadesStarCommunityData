@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​CTG
-description: W:25 L:28 D:0 Bonus ✅
+description: W:25 L:28 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732697191
 ---
@@ -12,7 +12,7 @@ date: 1732697191
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

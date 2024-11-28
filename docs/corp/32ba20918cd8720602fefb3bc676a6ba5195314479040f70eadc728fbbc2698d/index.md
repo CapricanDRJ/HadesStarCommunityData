@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Star Destroyers
-description: W:33 L:22 D:2 Bonus ✅
+description: W:33 L:22 D:2 Bonus ❌
 image: ./favicon.png
 date: 1732698392
 ---
@@ -12,7 +12,7 @@ date: 1732698392
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
