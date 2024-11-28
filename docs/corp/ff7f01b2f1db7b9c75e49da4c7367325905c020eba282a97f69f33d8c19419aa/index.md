@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​₩.BRASIL.₩
-description: W:2 L:23 D:4 Bonus ❌
+description: W:2 L:24 D:4 Bonus ❌
 image: ./favicon.png
-date: 1732124154
+date: 1732770299
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,11 +16,11 @@ date: 1732124154
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1001 🔻  (1314)|
-| ELO Competitive | 1021 🔻  (1329)|
-| Total Matches | 29 |
+| ELO Regular | 997 🔻  (1317)|
+| ELO Competitive | 1017 🔻  (1332)|
+| Total Matches | 30 |
 | Wins | 2 |
-| Losses | 23 |
+| Losses | 24 |
 | Draws | 4 |
 
 ---
@@ -39,7 +39,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731692154,1731128752,1730666556,1730168932,1729702552,1729104238,1728664213,1728130753,1727658369,1727157441,1726692295,1726238898,1725739186,1725231962,1724728311,1724227615,1723755531,1710035945,1709531978,1708667177,1708059876,1707530245,1706870699,1706396870,1705776308,1704850733,1704389858,1703801333,1700785218];
+        let timestamps = [1732338299,1731692154,1731128752,1730666556,1730168932,1729702552,1729104238,1728664213,1728130753,1727658369,1727157441,1726692295,1726238898,1725739186,1725231962,1724728311,1724227615,1723755531,1710035945,1709531978,1708667177,1708059876,1707530245,1706870699,1706396870,1705776308,1704850733,1704389858,1703801333,1700785218];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/28 | 0-11 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb/) |
 | ❌ | 2024/11/20 | 1-2 | [Southall 1](https://ws.tsl.rocks/corp/b615ea00c3e44a9d96f23866b145a9523aa4915b68b2d8852edc202d67dea0da/) |
 | ✅ | 2024/11/14 | 3-0 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
 | ❌ | 2024/11/08 | 0-8 | [Cydonia Order](https://ws.tsl.rocks/corp/e55f58931b283e38b70e189f9bbc51563a76e2ae541f8b2b207444fb36d5ddf9/) |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​viCIOus
-description: W:11 L:2 D:1 Bonus ✅
+description: W:12 L:2 D:1 Bonus ✅
 image: ./favicon.png
-date: 1732288535
+date: 1732770299
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,12 +16,13 @@ date: 1732288535
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1295 🔺  (155)|
-| ELO Competitive | 1332 🔺  (201)|
-| Total Matches | 14 |
-| Wins | 11 |
+| ELO Regular | 1300 🔺  (149)|
+| ELO Competitive | 1337 🔺  (198)|
+| Total Matches | 15 |
+| Wins | 12 |
 | Losses | 2 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 6 |
 
 ---
@@ -40,7 +41,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731856535,1731278090,1730450484,1729985622,1729587172,1729543598,1729108447,1728772928,1728661206,1728222142,1727772858,1727255994,1726803718,1726362718];
+        let timestamps = [1732338299,1731856535,1731278090,1730450484,1729985622,1729587172,1729543598,1729108447,1728772928,1728661206,1728222142,1727772858,1727255994,1726803718,1726362718];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -129,6 +130,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/28 | 11-0 | [₩\.BRASIL\.₩](https://ws.tsl.rocks/corp/ff7f01b2f1db7b9c75e49da4c7367325905c020eba282a97f69f33d8c19419aa/) |
 | ✅ | 2024/11/22 | 14-0 | [共产国际](https://ws.tsl.rocks/corp/375b1efc576c9d15f93249680dcd6dccaf2ad07cd520b85242d0b704d3a494c6/) |
 | ↔️ | 2024/11/15 | 4-4 | [Winter Star llc](https://ws.tsl.rocks/corp/89b20821cb6e619dced74a6e153a1d3ceafa70b1035fb7d61a6920d375e49f50/) |
 | ✅ | 2024/11/06 | 9-0 | [小号营地](https://ws.tsl.rocks/corp/e716da4b59355078ca6f014735de218d3fa5e832805efb942d1299b899f2d8b9/) |
