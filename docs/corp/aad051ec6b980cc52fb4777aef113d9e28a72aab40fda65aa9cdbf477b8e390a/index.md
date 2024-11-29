@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​West Worlders
-description: W:7 L:24 D:0 Bonus ✅
+description: W:7 L:24 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732739865
 ---
@@ -12,7 +12,7 @@ date: 1732739865
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

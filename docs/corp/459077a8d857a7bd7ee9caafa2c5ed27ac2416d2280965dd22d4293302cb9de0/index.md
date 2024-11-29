@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​一根飞机
-description: W:5 L:3 D:1 Bonus ✅
+description: W:5 L:3 D:1 Bonus ❌
 image: ./favicon.png
 date: 1732637099
 ---
@@ -12,12 +12,12 @@ date: 1732637099
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1216 🔻  (379)|
-| ELO Competitive | 1238 🔻  (415)|
+| ELO Competitive | 1238 🔻  (416)|
 | Total Matches | 9 |
 | Wins | 5 |
 | Losses | 3 |
