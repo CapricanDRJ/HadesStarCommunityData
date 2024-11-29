@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​第一序列
-description: W:39 L:47 D:0 Bonus ✅
+description: W:39 L:47 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732840236
 ---
@@ -12,7 +12,7 @@ date: 1732840236
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​mexico unido
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌
 image: ./favicon.png
-date: 1731823667
+date: 1732870893
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,11 +16,11 @@ date: 1731823667
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (798)|
-| ELO Competitive | 1185 🔻  (909)|
-| Total Matches | 1 |
+| ELO Regular | 1172 🔻  (909)|
+| ELO Competitive | 1178 🔻  (983)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 
 ---
@@ -39,7 +39,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731391667];
+        let timestamps = [1732438893,1731391667];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -128,6 +128,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/29 | 1-3 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |
 | ❌ | 2024/11/17 | 0-5 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 
 ---
