@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​DTC
-description: W:18 L:55 D:0 Bonus ❌
+description: W:19 L:55 D:0 Bonus ✅
 image: ./favicon.png
-date: 1732274407
+date: 1732879899
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -12,14 +12,14 @@ date: 1732274407
 
 
 
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1056 🔻  (1286)|
-| ELO Competitive | 1187 🔻  (776)|
-| Total Matches | 73 |
-| Wins | 18 |
+| ELO Regular | 1072 🔺  (1278)|
+| ELO Competitive | 1200 🔺  (617)|
+| Total Matches | 74 |
+| Wins | 19 |
 | Losses | 55 |
 | Draws | 0 |
 | Streak Record | 2 |
@@ -40,7 +40,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731842407,1731245622,1730637399,1730028292,1729425491,1728834354,1728202607,1727597362,1727002088,1726387058,1725782756,1725196196,1724579855,1724015207,1723372386,1722780084,1722158324,1721562387,1720944211,1720344933,1720341326,1719738177,1719736975,1719204786,1718523518,1717919920,1717332280,1716709888,1716072030,1715581695,1715569379,1714896362,1714291717,1713702834,1713685709,1713101610,1713083879,1712479621,1712477217,1711718204,1711717603,1711273201,1711270797,1710709229,1710675266,1710061707,1710060805,1709457155,1709456554,1708860093,1708851679,1708247384,1708247384,1707656300,1707651491,1707040266,1707037562,1706443145,1705835206,1705829496,1705232679,1704624138,1704015599,1703407947,1702834038,1702198984,1701599393,1700994100,1700987788,1700383085,1699779211,1699194967,1698685261];
+        let timestamps = [1732447899,1731842407,1731245622,1730637399,1730028292,1729425491,1728834354,1728202607,1727597362,1727002088,1726387058,1725782756,1725196196,1724579855,1724015207,1723372386,1722780084,1722158324,1721562387,1720944211,1720344933,1720341326,1719738177,1719736975,1719204786,1718523518,1717919920,1717332280,1716709888,1716072030,1715581695,1715569379,1714896362,1714291717,1713702834,1713685709,1713101610,1713083879,1712479621,1712477217,1711718204,1711717603,1711273201,1711270797,1710709229,1710675266,1710061707,1710060805,1709457155,1709456554,1708860093,1708851679,1708247384,1708247384,1707656300,1707651491,1707040266,1707037562,1706443145,1705835206,1705829496,1705232679,1704624138,1704015599,1703407947,1702834038,1702198984,1701599393,1700994100,1700987788,1700383085,1699779211,1699194967,1698685261];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -127,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Gummibärenbande](https://ws.tsl.rocks/corp/7111d11716d236254b3fe2fdc0df09519cbed1ee9cc2c7691983534a3d8e1366/) | 3 | 0 | 0 | 3 |
 | [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) | 0 | 4 | 0 | 4 |
 | [the heavy](https://ws.tsl.rocks/corp/fc91552441e9553b76df7ca1870d63c6fd9e50f9c98a3d2bb9f6979b47bd845f/) | 0 | 2 | 0 | 2 |
 | [Crazy Elite](https://ws.tsl.rocks/corp/ef64e9014b773074470ead0907b9c122bf6bda753de1cddfa01e95a00e9d47dc/) | 0 | 2 | 0 | 2 |
@@ -140,7 +141,6 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) | 3 | 1 | 0 | 4 |
 | [Curcubeu](https://ws.tsl.rocks/corp/a2bdd69ff0d73fcdb3bd9461684b2951dd4df9009b7ea8eae1592efff76e3c59/) | 1 | 1 | 0 | 2 |
 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) | 0 | 2 | 0 | 2 |
-| [Gummibärenbande](https://ws.tsl.rocks/corp/7111d11716d236254b3fe2fdc0df09519cbed1ee9cc2c7691983534a3d8e1366/) | 2 | 0 | 0 | 2 |
 | [Farland Ind\.](https://ws.tsl.rocks/corp/9e0cb5f9ee7451cf8b55ed7f18717a42c7b58995a2717b83f6f98b7872b38e3f/) | 2 | 2 | 0 | 4 |
 | [Space Marshalls](https://ws.tsl.rocks/corp/6a41cc36abf3a28a1c26bc22843f1892d6938e8eb1e8f8a10fd9e6e964e06c2c/) | 0 | 2 | 0 | 2 |
 | [Спутник](https://ws.tsl.rocks/corp/0ae15c4db6dc8c3f4bf3eb6aa93bffd4ea9281b06b721ab103c0078646bfe58c/) | 0 | 2 | 0 | 2 |
@@ -151,6 +151,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/29 | 40-11 | [Gummibärenbande](https://ws.tsl.rocks/corp/7111d11716d236254b3fe2fdc0df09519cbed1ee9cc2c7691983534a3d8e1366/) |
 | ❌ | 2024/11/22 | 9-20 | [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) |
 | ✅ | 2024/11/15 | 15-4 | [Winged Pheonix](https://ws.tsl.rocks/corp/6b9f3e0b419f79343ffd4a8134703379db0e4591879151cbc3ef6a3ff825a2d3/) |
 | ❌ | 2024/11/08 | 11-36 | [Emergence](https://ws.tsl.rocks/corp/1a1250d276bf9541252070bbee9c6b216c91b12a837aaa8a8e8a90f490940538/) |
