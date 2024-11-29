@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Gummibärenbande
-description: W:5 L:25 D:0 Bonus ✅
+description: W:5 L:25 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732879899
 ---
@@ -12,7 +12,7 @@ date: 1732879899
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
