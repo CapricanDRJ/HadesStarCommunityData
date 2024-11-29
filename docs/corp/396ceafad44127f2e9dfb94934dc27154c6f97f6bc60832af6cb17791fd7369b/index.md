@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Vega Conflict
-description: W:12 L:10 D:0 Bonus ✅
+description: W:12 L:10 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732257279
 ---
@@ -12,7 +12,7 @@ date: 1732257279
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​小号营地
-description: W:0 L:7 D:1 Bonus ❌
+description: W:0 L:7 D:2 Bonus ❌
 image: ./favicon.png
-date: 1731938451
+date: 1732891650
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,12 +16,12 @@ date: 1731938451
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1122 🔻  (1191)|
-| ELO Competitive | 1142 🔻  (1229)|
-| Total Matches | 8 |
+| ELO Regular | 1125 🔺  (1182)|
+| ELO Competitive | 1144 🔺  (1224)|
+| Total Matches | 9 |
 | Wins | 0 |
 | Losses | 7 |
-| Draws | 1 |
+| Draws | 2 |
 
 ---
 
@@ -39,7 +39,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731506451,1731497134,1730450484,1729856695,1728955477,1728389218,1727878936,1727433886];
+        let timestamps = [1732459650,1731506451,1731497134,1730450484,1729856695,1728955477,1728389218,1727878936,1727433886];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -128,6 +128,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/11/29 | 0-0 | [BAB](https://ws.tsl.rocks/corp/d17895c8b0b7003682ed6441ed0a2040355c3b53e6e4609302acccab6a0deaea/) |
 | ❌ | 2024/11/18 | 0-3 | [国际联盟](https://ws.tsl.rocks/corp/4b25f449617273077d1898d67e79bfe22c803412bb840eb68412fe0ee7224a95/) |
 | ❌ | 2024/11/18 | 0-10 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
 | ❌ | 2024/11/06 | 0-9 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb/) |

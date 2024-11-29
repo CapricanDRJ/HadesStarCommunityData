@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​BAB
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:1 D:1 Bonus ❌
 image: ./favicon.png
-date: 1731253005
+date: 1732891650
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,12 +16,12 @@ date: 1731253005
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (683)|
-| ELO Competitive | 1186 🔻  (830)|
-| Total Matches | 1 |
+| ELO Regular | 1183 🔻  (804)|
+| ELO Competitive | 1184 🔻  (930)|
+| Total Matches | 2 |
 | Wins | 0 |
 | Losses | 1 |
-| Draws | 0 |
+| Draws | 1 |
 
 ---
 
@@ -39,7 +39,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730821005];
+        let timestamps = [1732459650,1730821005];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -128,6 +128,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/11/29 | 0-0 | [小号营地](https://ws.tsl.rocks/corp/e716da4b59355078ca6f014735de218d3fa5e832805efb942d1299b899f2d8b9/) |
 | ❌ | 2024/11/10 | 0-10 | [一根飞机](https://ws.tsl.rocks/corp/459077a8d857a7bd7ee9caafa2c5ed27ac2416d2280965dd22d4293302cb9de0/) |
 
 ---
