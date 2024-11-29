@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Lacuna X
-description: W:46 L:6 D:0 Bonus ✅
+description: W:46 L:6 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732218520
 ---
@@ -12,7 +12,7 @@ date: 1732218520
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

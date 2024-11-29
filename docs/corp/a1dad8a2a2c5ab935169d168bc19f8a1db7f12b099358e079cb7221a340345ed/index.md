@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​ДИᏰEPℂДℍTᏰℓ
-description: W:13 L:8 D:0 Bonus ✅
+description: W:13 L:9 D:0 Bonus ✅
 image: ./favicon.png
-date: 1732551764
+date: 1732847239
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,11 +16,11 @@ date: 1732551764
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1278 🔺  (185)|
+| ELO Regular | 1259 🔻  (227)|
 | ELO Competitive | 1335 🔺  (201)|
-| Total Matches | 21 |
+| Total Matches | 22 |
 | Wins | 13 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 0 |
 | Streak Record | 5 |
 
@@ -40,7 +40,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732119764,1731941877,1731687044,1731505249,1731245021,1730811688,1730373372,1729937836,1729484993,1729049929,1728495012,1728055952,1727619302,1727169758,1726724140,1726271655,1725792672,1725774046,1725332921,1724892384,1724433207];
+        let timestamps = [1732415239,1732119764,1731941877,1731687044,1731505249,1731245021,1730811688,1730373372,1729937836,1729484993,1729049929,1728495012,1728055952,1727619302,1727169758,1726724140,1726271655,1725792672,1725774046,1725332921,1724892384,1724433207];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -129,6 +129,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/11/29 | 2-17 | [星际联盟（中国）](https://ws.tsl.rocks/corp/1deb8ab45257a86051f9c285bbbe06652a56d93118d8e442a0a30ddd179f4256/) |
 | ✅ | 2024/11/25 | 14-1 | [分子集团](https://ws.tsl.rocks/corp/5b9f14a83989065d411d1e21d908ce3fc4939d48e815ffc39b1b18b6752c827b/) |
 | ❌ | 2024/11/23 | 0-17 | [物竞天择，适者生存](https://ws.tsl.rocks/corp/37d348d8b1c6a4ff8594f28196a593a0ba8fb565b62b6bbcc6dae46c2de660cf/) |
 | ✅ | 2024/11/20 | 8-2 | [Dirty Minds Inc](https://ws.tsl.rocks/corp/c8436a708008779e050bd40e98b52fc38b3782b31d5fdd99c74918af8005d778/) |
