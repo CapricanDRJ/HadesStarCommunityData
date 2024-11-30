@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​星舰月球
-description: W:33 L:21 D:0 Bonus ✅
+description: W:33 L:21 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732941505
 ---
@@ -12,7 +12,7 @@ date: 1732941505
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

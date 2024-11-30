@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Winged Pheonix
-description: W:12 L:18 D:0 Bonus ✅
+description: W:12 L:18 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732911160
 ---
@@ -12,7 +12,7 @@ date: 1732911160
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
