@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Emergence
-description: W:38 L:3 D:0 Bonus ✅
+description: W:38 L:3 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732291241
 ---
@@ -12,7 +12,7 @@ date: 1732291241
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

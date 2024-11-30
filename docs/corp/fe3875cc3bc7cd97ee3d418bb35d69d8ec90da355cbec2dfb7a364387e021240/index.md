@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Pixies
-description: W:11 L:4 D:0 Bonus ✅
+description: W:11 L:4 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732289738
 ---
@@ -12,12 +12,12 @@ date: 1732289738
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1273 🔺  (192)|
-| ELO Competitive | 1318 🔺  (232)|
+| ELO Regular | 1273 🔺  (191)|
+| ELO Competitive | 1318 🔺  (233)|
 | Total Matches | 15 |
 | Wins | 11 |
 | Losses | 4 |
