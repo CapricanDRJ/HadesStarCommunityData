@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Elysium
-description: W:42 L:12 D:0 Bonus ✅
+description: W:42 L:12 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732340821
 ---
@@ -12,11 +12,11 @@ date: 1732340821
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1444 🔺  (27)|
+| ELO Regular | 1444 🔺  (26)|
 | ELO Competitive | 1516 🔺  (41)|
 | Total Matches | 54 |
 | Wins | 42 |

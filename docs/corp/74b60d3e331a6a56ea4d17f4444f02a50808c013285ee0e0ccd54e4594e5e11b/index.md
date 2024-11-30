@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​русь 
-description: W:65 L:39 D:0 Bonus ✅
+description: W:65 L:39 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732913263
 ---
@@ -12,11 +12,11 @@ date: 1732913263
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1317 🔻  (120)|
+| ELO Regular | 1317 🔻  (121)|
 | ELO Competitive | 1574 🔻  (20)|
 | Total Matches | 104 |
 | Wins | 65 |
