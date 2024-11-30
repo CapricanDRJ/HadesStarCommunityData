@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Warriorlords
-description: W:30 L:16 D:0 Bonus ✅
+description: W:30 L:16 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732320093
 ---
@@ -12,7 +12,7 @@ date: 1732320093
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

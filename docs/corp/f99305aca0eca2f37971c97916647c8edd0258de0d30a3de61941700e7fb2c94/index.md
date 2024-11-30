@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Corvus Ind.
-description: W:28 L:9 D:0 Bonus ✅
+description: W:28 L:9 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732327002
 ---
@@ -12,7 +12,7 @@ date: 1732327002
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

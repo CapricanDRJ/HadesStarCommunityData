@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Fairy tail 
-description: W:7 L:3 D:0 Bonus ✅
+description: W:7 L:3 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732322796
 ---
@@ -12,12 +12,12 @@ date: 1732322796
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1243 🔺  (273)|
-| ELO Competitive | 1252 🔺  (359)|
+| ELO Regular | 1243 🔺  (271)|
+| ELO Competitive | 1252 🔺  (360)|
 | Total Matches | 10 |
 | Wins | 7 |
 | Losses | 3 |
