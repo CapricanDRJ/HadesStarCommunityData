@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​On en a Gros ! 
-description: W:28 L:34 D:0 Bonus ✅
+description: W:28 L:34 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732969147
 ---
@@ -12,11 +12,11 @@ date: 1732969147
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (821)|
+| ELO Regular | 1181 🔻  (822)|
 | ELO Competitive | 1308 🔻  (248)|
 | Total Matches | 62 |
 | Wins | 28 |

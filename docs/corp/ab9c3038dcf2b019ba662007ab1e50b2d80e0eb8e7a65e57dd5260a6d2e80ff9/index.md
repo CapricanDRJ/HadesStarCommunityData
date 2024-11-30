@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Halcon español
-description: W:27 L:15 D:1 Bonus ✅
+description: W:27 L:15 D:1 Bonus ❌
 image: ./favicon.png
 date: 1732354942
 ---
@@ -12,7 +12,7 @@ date: 1732354942
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

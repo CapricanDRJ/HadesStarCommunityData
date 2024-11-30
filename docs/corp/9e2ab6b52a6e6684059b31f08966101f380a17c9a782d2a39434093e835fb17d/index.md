@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Imperium
-description: W:6 L:0 D:0 Bonus ✅
+description: W:7 L:0 D:0 Bonus ✅
 image: ./favicon.png
-date: 1732354922
+date: 1732986880
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,14 +16,14 @@ date: 1732354922
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1282 🔺  (181)|
-| ELO Competitive | 1288 🔺  (281)|
-| Total Matches | 6 |
-| Wins | 6 |
+| ELO Regular | 1296 🔺  (157)|
+| ELO Competitive | 1305 🔺  (252)|
+| Total Matches | 7 |
+| Wins | 7 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 6 |
-| Streak Record | 6 |
+| Streak | 7 |
+| Streak Record | 7 |
 
 ---
 
@@ -41,7 +41,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731922922,1731415404,1730890713,1728204711,1727562813,1724439819];
+        let timestamps = [1732554880,1731922922,1731415404,1730890713,1728204711,1727562813,1724439819];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -130,6 +130,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/30 | 23-0 | [ДИᏰEPℂДℍTᏰℓ](https://ws.tsl.rocks/corp/a1dad8a2a2c5ab935169d168bc19f8a1db7f12b099358e079cb7221a340345ed/) |
 | ✅ | 2024/11/23 | 23-0 | [corporacion I\.A](https://ws.tsl.rocks/corp/df86dad6380843bf4a9cf1a50952d4ff723b40e5e84626918e35b39ec35a9ccf/) |
 | ✅ | 2024/11/17 | 22-3 | [hades star萌新指引站](https://ws.tsl.rocks/corp/06feef105195a4e2ec026c0e3e2c62fce31204dfe6be8e4b26863935efbf8a50/) |
 | ✅ | 2024/11/11 | 23-0 | [闲散人员](https://ws.tsl.rocks/corp/4f0fa774b66e4f744a305525f92e7252205ae754df0f3982b577b32caf32cdbc/) |

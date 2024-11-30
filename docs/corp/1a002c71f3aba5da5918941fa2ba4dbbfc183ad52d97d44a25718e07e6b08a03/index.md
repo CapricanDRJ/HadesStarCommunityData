@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​OntarioDawn
-description: W:47 L:8 D:0 Bonus ✅
+description: W:47 L:8 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732362755
 ---
@@ -12,7 +12,7 @@ date: 1732362755
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
