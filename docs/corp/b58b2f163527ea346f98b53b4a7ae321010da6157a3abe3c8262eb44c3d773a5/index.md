@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Sons of Liberty
-description: W:4 L:0 D:0 Bonus ✅
+description: W:4 L:0 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732310779
 ---
@@ -12,12 +12,12 @@ date: 1732310779
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1259 🔺  (225)|
-| ELO Competitive | 1269 🔺  (320)|
+| ELO Competitive | 1269 🔺  (321)|
 | Total Matches | 4 |
 | Wins | 4 |
 | Losses | 0 |

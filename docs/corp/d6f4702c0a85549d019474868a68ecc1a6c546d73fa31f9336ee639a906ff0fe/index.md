@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Equinox
-description: W:4 L:0 D:0 Bonus ✅
+description: W:5 L:0 D:0 Bonus ✅
 image: ./favicon.png
-date: 1732438778
+date: 1732944209
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,14 +16,14 @@ date: 1732438778
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1252 🔺  (245)|
-| ELO Competitive | 1257 🔺  (349)|
-| Total Matches | 4 |
-| Wins | 4 |
+| ELO Regular | 1268 🔺  (206)|
+| ELO Competitive | 1275 🔺  (309)|
+| Total Matches | 5 |
+| Wins | 5 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 4 |
-| Streak Record | 4 |
+| Streak | 5 |
+| Streak Record | 5 |
 
 ---
 
@@ -41,7 +41,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732006778,1731563544,1731130809,1730646117];
+        let timestamps = [1732512209,1732006778,1731563544,1731130809,1730646117];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -130,6 +130,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/11/30 | 18-3 | [闲散人员](https://ws.tsl.rocks/corp/4f0fa774b66e4f744a305525f92e7252205ae754df0f3982b577b32caf32cdbc/) |
 | ✅ | 2024/11/24 | 15-0 | [欢迎国人](https://ws.tsl.rocks/corp/f32abd112fe2b826948a3538a51097b9114815930ec77ad11ada1b24ce34578d/) |
 | ✅ | 2024/11/19 | 11-0 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) |
 | ✅ | 2024/11/14 | 18-0 | [逐光起航](https://ws.tsl.rocks/corp/e6bb076aa209101b5fa1cbc40a614c241d71ab5eca143c733b81aed6302455e8/) |

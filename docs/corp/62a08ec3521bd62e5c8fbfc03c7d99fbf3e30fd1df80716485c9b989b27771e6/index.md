@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The Watchers
-description: W:14 L:14 D:0 Bonus ✅
+description: W:14 L:14 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732313482
 ---
@@ -12,7 +12,7 @@ date: 1732313482
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
