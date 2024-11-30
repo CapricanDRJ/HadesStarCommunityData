@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​STAR TERROR CZ
-description: W:2 L:5 D:0 Bonus ✅
+description: W:2 L:5 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732909657
 ---
@@ -12,7 +12,7 @@ date: 1732909657
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
