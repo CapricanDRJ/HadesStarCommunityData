@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Omega Alpha
-description: W:40 L:4 D:0 Bonus ✅
+description: W:40 L:4 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732372073
 ---
@@ -12,7 +12,7 @@ date: 1732372073
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

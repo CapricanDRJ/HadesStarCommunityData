@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Spacefleet
-description: W:44 L:44 D:0 Bonus ✅
+description: W:44 L:44 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732969147
 ---
@@ -12,7 +12,7 @@ date: 1732969147
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
