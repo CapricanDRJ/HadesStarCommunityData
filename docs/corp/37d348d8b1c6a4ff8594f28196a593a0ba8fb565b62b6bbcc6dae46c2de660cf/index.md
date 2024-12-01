@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​物竞天择，适者生存
-description: W:5 L:5 D:1 Bonus ✅
+description: W:5 L:5 D:1 Bonus ❌
 image: ./favicon.png
 date: 1732373877
 ---
@@ -12,7 +12,7 @@ date: 1732373877
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

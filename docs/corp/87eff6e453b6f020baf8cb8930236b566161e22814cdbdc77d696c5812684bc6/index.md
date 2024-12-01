@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Space Pirates
-description: W:8 L:45 D:0 Bonus ✅
+description: W:8 L:45 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732947814
 ---
@@ -12,7 +12,7 @@ date: 1732947814
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

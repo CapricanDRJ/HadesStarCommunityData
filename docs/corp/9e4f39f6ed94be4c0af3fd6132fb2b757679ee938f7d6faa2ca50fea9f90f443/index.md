@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Uniones
-description: W:0 L:4 D:2 Bonus ❌
+description: W:0 L:5 D:2 Bonus ❌
 image: ./favicon.png
-date: 1718984071
+date: 1733011558
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,11 +16,11 @@ date: 1718984071
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1139 🔻  (1136)|
-| ELO Competitive | 1146 🔻  (1211)|
-| Total Matches | 6 |
+| ELO Regular | 1125 🔻  (1181)|
+| ELO Competitive | 1132 🔻  (1253)|
+| Total Matches | 7 |
 | Wins | 0 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 2 |
 
 ---
@@ -39,7 +39,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1718552071,1716675491,1713681803,1712181852,1711360691,1707428684];
+        let timestamps = [1732579558,1718552071,1716675491,1713681803,1712181852,1711360691,1707428684];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -128,6 +128,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/01 | 0-3 | [corporacion I\.A](https://ws.tsl.rocks/corp/df86dad6380843bf4a9cf1a50952d4ff723b40e5e84626918e35b39ec35a9ccf/) |
 | ❌ | 2024/06/21 | 0-4 | [titan tv](https://ws.tsl.rocks/corp/30ba418a884a4c2f888c814c6adfd9f30d995c155ccdc8aafa74ae4dc30f1c39/) |
 | ↔️ | 2024/05/30 | 0-0 | [德意志第三帝国奥米加分部](https://ws.tsl.rocks/corp/b5f35e30b2dea2621e854b5011a9f9d07ca3585cd26bd9ac92aa7b06c0a522b1/) |
 | ❌ | 2024/04/26 | 0-14 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |

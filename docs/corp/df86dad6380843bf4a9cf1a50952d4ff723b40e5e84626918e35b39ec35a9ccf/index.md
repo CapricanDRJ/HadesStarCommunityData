@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​corporacion I.A
-description: W:0 L:3 D:0 Bonus ❌
+description: W:1 L:3 D:0 Bonus ✅
 image: ./favicon.png
-date: 1732354922
+date: 1733011558
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -12,14 +12,14 @@ date: 1732354922
 
 
 
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (955)|
-| ELO Competitive | 1175 🔻  (1005)|
-| Total Matches | 3 |
-| Wins | 0 |
+| ELO Regular | 1183 🔺  (802)|
+| ELO Competitive | 1189 🔺  (746)|
+| Total Matches | 4 |
+| Wins | 1 |
 | Losses | 3 |
 | Draws | 0 |
 
@@ -39,7 +39,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731922922,1724283856,1710215550];
+        let timestamps = [1732579558,1731922922,1724283856,1710215550];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -128,6 +128,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/01 | 3-0 | [Uniones](https://ws.tsl.rocks/corp/9e4f39f6ed94be4c0af3fd6132fb2b757679ee938f7d6faa2ca50fea9f90f443/) |
 | ❌ | 2024/11/23 | 0-23 | [Imperium](https://ws.tsl.rocks/corp/9e2ab6b52a6e6684059b31f08966101f380a17c9a782d2a39434093e835fb17d/) |
 | ❌ | 2024/08/26 | 2-14 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
 | ❌ | 2024/03/17 | 0-67 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) |
