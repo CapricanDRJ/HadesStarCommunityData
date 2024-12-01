@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Providence
-description: W:35 L:17 D:0 Bonus ❌
+description: W:35 L:18 D:0 Bonus ❌
 image: ./favicon.png
-date: 1732317088
+date: 1733033752
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,11 +16,11 @@ date: 1732317088
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1329 🔻  (108)|
-| ELO Competitive | 1418 🔻  (115)|
-| Total Matches | 52 |
+| ELO Regular | 1323 🔻  (116)|
+| ELO Competitive | 1410 🔻  (123)|
+| Total Matches | 53 |
 | Wins | 35 |
-| Losses | 17 |
+| Losses | 18 |
 | Draws | 0 |
 | Streak Record | 11 |
 
@@ -40,7 +40,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731885088,1730750093,1729492204,1728904379,1727861505,1727100048,1726476623,1725879517,1724995756,1724423888,1723528657,1722855812,1722265015,1721633913,1720529756,1719831933,1718539446,1718022102,1717559799,1717011317,1716194009,1715610237,1715001817,1714985592,1714389669,1713797474,1713177630,1712575780,1711969711,1711375966,1710760001,1710160863,1709554210,1708957451,1708434296,1707909024,1707250738,1706615944,1705987572,1705448450,1704965222,1704356980,1703892088,1702631770,1702011139,1701445819,1700918057,1700225293,1699587108,1699582597,1698872304,1698856594];
+        let timestamps = [1732601752,1731885088,1730750093,1729492204,1728904379,1727861505,1727100048,1726476623,1725879517,1724995756,1724423888,1723528657,1722855812,1722265015,1721633913,1720529756,1719831933,1718539446,1718022102,1717559799,1717011317,1716194009,1715610237,1715001817,1714985592,1714389669,1713797474,1713177630,1712575780,1711969711,1711375966,1710760001,1710160863,1709554210,1708957451,1708434296,1707909024,1707250738,1706615944,1705987572,1705448450,1704965222,1704356980,1703892088,1702631770,1702011139,1701445819,1700918057,1700225293,1699587108,1699582597,1698872304,1698856594];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -127,6 +127,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Hand Of NOD\! ](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) | 0 | 2 | 0 | 2 |
 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 2 | 0 | 0 | 2 |
 | [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) | 1 | 1 | 0 | 2 |
 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) | 1 | 2 | 0 | 3 |
@@ -141,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/01 | 7-42 | [Hand Of NOD\! ](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) |
 | ❌ | 2024/11/22 | 22-37 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) |
 | ✅ | 2024/11/09 | 55-0 | [SNSS](https://ws.tsl.rocks/corp/ce1ae2e5f50044147f2bd8f656c00124d925211038e4ecd23d79c1bd724a8b45/) |
 | ✅ | 2024/10/26 | 42-0 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) |

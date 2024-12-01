@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Bounty Hunters
-description: W:7 L:6 D:0 Bonus ❌
+description: W:7 L:7 D:0 Bonus ❌
 image: ./favicon.png
-date: 1730214778
+date: 1733034654
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,11 +16,11 @@ date: 1730214778
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1219 🔻  (357)|
-| ELO Competitive | 1252 🔻  (362)|
-| Total Matches | 13 |
+| ELO Regular | 1212 🔻  (429)|
+| ELO Competitive | 1249 🔻  (373)|
+| Total Matches | 14 |
 | Wins | 7 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 0 |
 | Streak Record | 3 |
 
@@ -40,7 +40,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729782778,1721479166,1720349741,1718629297,1716184095,1713704336,1712047535,1709504640,1708253094,1706520679,1705847229,1704704978,1704201014];
+        let timestamps = [1732602654,1729782778,1721479166,1720349741,1718629297,1716184095,1713704336,1712047535,1709504640,1708253094,1706520679,1705847229,1704704978,1704201014];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -129,6 +129,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/01 | 0-34 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ❌ | 2024/10/29 | 4-23 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 | ❌ | 2024/07/25 | 3-14 | [lesescargots](https://ws.tsl.rocks/corp/718c873931e9097064fd6ef580fe9d8761be712e0783e0b97d28344abd910623/) |
 | ✅ | 2024/07/12 | 39-33 | [Hermitage](https://ws.tsl.rocks/corp/b8b6a62ede93951a04bdabd85b532c38d42d8c8b95165f8d4b14e0fd48a021ee/) |
