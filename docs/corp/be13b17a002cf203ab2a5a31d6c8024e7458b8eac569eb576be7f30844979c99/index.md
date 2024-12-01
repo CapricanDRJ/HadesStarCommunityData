@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Planet Express
-description: W:10 L:4 D:1 Bonus ✅
+description: W:10 L:4 D:1 Bonus ❌
 image: ./favicon.png
 date: 1732448393
 ---
@@ -12,11 +12,11 @@ date: 1732448393
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1295 🔺  (164)|
+| ELO Regular | 1295 🔺  (165)|
 | ELO Competitive | 1318 🔺  (232)|
 | Total Matches | 15 |
 | Wins | 10 |

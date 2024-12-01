@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Ark
-description: W:56 L:16 D:1 Bonus ✅
+description: W:56 L:16 D:1 Bonus ❌
 image: ./favicon.png
 date: 1733042164
 ---
@@ -12,7 +12,7 @@ date: 1733042164
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
