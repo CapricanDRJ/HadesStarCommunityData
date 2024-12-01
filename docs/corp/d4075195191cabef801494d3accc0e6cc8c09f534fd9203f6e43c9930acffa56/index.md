@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Hamburg AG 2
-description: W:12 L:15 D:0 Bonus ✅
+description: W:12 L:15 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732422556
 ---
@@ -12,7 +12,7 @@ date: 1732422556
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

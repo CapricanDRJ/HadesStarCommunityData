@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Nebula alliance
-description: W:3 L:2 D:1 Bonus ❌
+description: W:4 L:2 D:1 Bonus ✅
 image: ./favicon.png
-date: 1732152705
+date: 1733052071
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -12,18 +12,18 @@ date: 1732152705
 
 
 
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1219 🔺  (356)|
-| ELO Competitive | 1221 🔺  (477)|
-| Total Matches | 6 |
-| Wins | 3 |
+| ELO Regular | 1232 🔺  (306)|
+| ELO Competitive | 1235 🔺  (424)|
+| Total Matches | 7 |
+| Wins | 4 |
 | Losses | 2 |
 | Draws | 1 |
-| Streak | 3 |
-| Streak Record | 3 |
+| Streak | 4 |
+| Streak Record | 4 |
 
 ---
 
@@ -41,7 +41,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731720705,1730020430,1729481988,1728955477,1728478238,1727741912];
+        let timestamps = [1732620071,1731720705,1730020430,1729481988,1728955477,1728478238,1727741912];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -130,6 +130,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/01 | 13-0 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ✅ | 2024/11/21 | 10-0 | [华夏联盟](https://ws.tsl.rocks/corp/2c648f8c6a0963f1a86b1a1ca787f67c02ee58838a809427b68d3546b89078ac/) |
 | ✅ | 2024/11/01 | 8-0 | [SONS OF SUNS](https://ws.tsl.rocks/corp/710d8a5c78fa5042356cb21ac8c446d17cc1275cd8b5b3325582a0d4ca7ae318/) |
 | ✅ | 2024/10/26 | 8-1 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |

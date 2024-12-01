@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Space Pirate
-description: W:1 L:2 D:0 Bonus ✅
+description: W:1 L:2 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732424959
 ---
@@ -12,12 +12,12 @@ date: 1732424959
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1178 🔺  (847)|
-| ELO Competitive | 1187 🔺  (792)|
+| ELO Regular | 1178 🔺  (848)|
+| ELO Competitive | 1187 🔺  (793)|
 | Total Matches | 3 |
 | Wins | 1 |
 | Losses | 2 |
