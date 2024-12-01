@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Cyber Star
-description: W:27 L:20 D:0 Bonus ❌
+description: W:27 L:21 D:0 Bonus ❌
 image: ./favicon.png
-date: 1732359559
+date: 1733084238
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,11 +16,11 @@ date: 1732359559
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1224 🔻  (336)|
-| ELO Competitive | 1279 🔻  (302)|
-| Total Matches | 47 |
+| ELO Regular | 1209 🔻  (447)|
+| ELO Competitive | 1273 🔻  (315)|
+| Total Matches | 48 |
 | Wins | 27 |
-| Losses | 20 |
+| Losses | 21 |
 | Draws | 0 |
 | Streak Record | 7 |
 
@@ -40,7 +40,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731927559,1728849992,1728164449,1727439296,1726746372,1726226876,1725734978,1725191387,1724679630,1724085523,1723335127,1722718481,1722027283,1721525726,1720904545,1720306172,1719737876,1719090288,1718494373,1717885064,1717289899,1716672328,1716071429,1715460908,1714858809,1714290215,1713644853,1713062245,1712437860,1711834197,1711229333,1710633802,1710025051,1709415394,1708814424,1708214334,1707604317,1707003608,1706403180,1705564140,1704558325,1703939264,1703360168,1702785048,1702143083,1701061944,1700071056];
+        let timestamps = [1732652238,1731927559,1728849992,1728164449,1727439296,1726746372,1726226876,1725734978,1725191387,1724679630,1724085523,1723335127,1722718481,1722027283,1721525726,1720904545,1720306172,1719737876,1719090288,1718494373,1717885064,1717289899,1716672328,1716071429,1715460908,1714858809,1714290215,1713644853,1713062245,1712437860,1711834197,1711229333,1710633802,1710025051,1709415394,1708814424,1708214334,1707604317,1707003608,1706403180,1705564140,1704558325,1703939264,1703360168,1702785048,1702143083,1701061944,1700071056];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -127,16 +127,17 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) | 1 | 2 | 0 | 3 |
 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) | 1 | 1 | 0 | 2 |
 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) | 0 | 2 | 0 | 2 |
 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) | 2 | 0 | 0 | 2 |
-| [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) | 1 | 1 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/01 | 0-19 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |
 | ❌ | 2024/11/23 | 0-23 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
 | ❌ | 2024/10/18 | 3-24 | [Czech Legion](https://ws.tsl.rocks/corp/b4453b41cf7b1c019648ed14db493a47c8a64347e689013b2c969bf97e251ec8/) |
 | ❌ | 2024/10/10 | 3-27 | [The Allegiant](https://ws.tsl.rocks/corp/1c4cfbcf7902769aff100297d9174153f4c0528ed07918ba494f763a1315ffc6/) |

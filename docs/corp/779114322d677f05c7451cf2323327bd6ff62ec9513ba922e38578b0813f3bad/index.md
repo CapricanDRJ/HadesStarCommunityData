@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Red Star
-description: W:1 L:2 D:0 Bonus ✅
+description: W:1 L:2 D:0 Bonus ❌
 image: ./favicon.png
 date: 1733001006
 ---
@@ -12,7 +12,7 @@ date: 1733001006
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
