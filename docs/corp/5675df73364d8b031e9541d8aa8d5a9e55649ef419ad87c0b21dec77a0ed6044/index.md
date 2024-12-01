@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​nuevo mundo
-description: W:10 L:9 D:0 Bonus ✅
+description: W:10 L:9 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732466727
 ---
@@ -12,7 +12,7 @@ date: 1732466727
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
