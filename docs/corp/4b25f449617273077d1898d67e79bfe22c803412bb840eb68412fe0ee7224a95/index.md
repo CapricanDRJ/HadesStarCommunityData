@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​国际联盟
-description: W:4 L:3 D:0 Bonus ✅
+description: W:4 L:3 D:0 Bonus ❌
 image: ./favicon.png
 date: 1733059291
 ---
@@ -12,7 +12,7 @@ date: 1733059291
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
@@ -23,6 +23,7 @@ date: 1733059291
 | Losses | 3 |
 | Draws | 0 |
 | Streak Record | 2 |
+| Flagship | 1 |
 
 ---
 

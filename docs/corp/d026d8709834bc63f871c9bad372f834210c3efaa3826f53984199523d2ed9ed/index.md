@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​万星联盟
-description: W:31 L:4 D:0 Bonus ✅
+description: W:31 L:4 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732460414
 ---
@@ -12,7 +12,7 @@ date: 1732460414
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
@@ -24,6 +24,7 @@ date: 1732460414
 | Draws | 0 |
 | Streak | 8 |
 | Streak Record | 10 |
+| Flagship | 2 |
 
 ---
 

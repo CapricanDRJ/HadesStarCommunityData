@@ -17,13 +17,14 @@ date: 1732950217
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1293 🔺  (169)|
-| ELO Competitive | 1340 🔺  (197)|
+| ELO Competitive | 1340 🔺  (198)|
 | Total Matches | 9 |
 | Wins | 8 |
 | Losses | 1 |
 | Draws | 0 |
 | Streak | 8 |
 | Streak Record | 8 |
+| Flagship | 5 |
 
 ---
 

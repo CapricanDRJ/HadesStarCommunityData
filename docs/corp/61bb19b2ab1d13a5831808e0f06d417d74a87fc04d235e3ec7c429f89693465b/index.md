@@ -22,6 +22,7 @@ date: 1710273158
 | Wins | 1 |
 | Losses | 2 |
 | Draws | 1 |
+| Flagship | 9 |
 
 ---
 
