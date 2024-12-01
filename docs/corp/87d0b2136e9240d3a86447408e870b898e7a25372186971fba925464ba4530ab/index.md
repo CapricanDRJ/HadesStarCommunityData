@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​GALACTIC EMPIRE
-description: W:3 L:3 D:0 Bonus ❌
+description: W:3 L:4 D:0 Bonus ❌
 image: ./favicon.png
-date: 1732603746
+date: 1733035855
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,11 +16,11 @@ date: 1732603746
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1192 🔻  (559)|
-| ELO Competitive | 1206 🔻  (579)|
-| Total Matches | 6 |
+| ELO Regular | 1189 🔻  (599)|
+| ELO Competitive | 1203 🔻  (588)|
+| Total Matches | 7 |
 | Wins | 3 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
 | Streak Record | 3 |
 
@@ -40,7 +40,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732171746,1730520806,1729065162,1728061664,1717209945,1707193940];
+        let timestamps = [1732603855,1732171746,1730520806,1729065162,1728061664,1717209945,1707193940];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -129,6 +129,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/01 | 2-34 | [Mercury Sunset](https://ws.tsl.rocks/corp/2771ec0a0e9523f8a7b62dd470c9ab87bf2bcf2b13fb47f6f97ea826337b2b20/) |
 | ❌ | 2024/11/26 | 3-4 | [The Foundation](https://ws.tsl.rocks/corp/279f86b28e83ff2e41b798bf93f59b0803e62aecd6e7f0caa5c8be3efecf8728/) |
 | ✅ | 2024/11/07 | 13-4 | [Star Blazers](https://ws.tsl.rocks/corp/f179acb7b919d9d3185f1fcd66bb17d5e257feab5039bcbf6efb5c8cd6f5c057/) |
 | ✅ | 2024/10/21 | 9-4 | [StellaMysterium](https://ws.tsl.rocks/corp/cfaaa81ed93cc9361ade470c3414c73ecf77068badd68d624c7b3f486d142b10/) |

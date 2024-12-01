@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Ƭιтαηѕ Ф тєʀʀσƦ
-description: W:38 L:20 D:2 Bonus ✅
+description: W:38 L:20 D:2 Bonus ❌
 image: ./favicon.png
 date: 1732410239
 ---
@@ -12,7 +12,7 @@ date: 1732410239
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

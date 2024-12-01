@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​蓝星集团
-description: W:10 L:3 D:0 Bonus ✅
+description: W:11 L:3 D:0 Bonus ✅
 image: ./favicon.png
-date: 1732539440
+date: 1733042765
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,14 +16,14 @@ date: 1732539440
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1290 🔺  (169)|
-| ELO Competitive | 1302 🔺  (257)|
-| Total Matches | 13 |
-| Wins | 10 |
+| ELO Regular | 1299 🔺  (156)|
+| ELO Competitive | 1315 🔺  (236)|
+| Total Matches | 14 |
+| Wins | 11 |
 | Losses | 3 |
 | Draws | 0 |
-| Streak | 5 |
-| Streak Record | 5 |
+| Streak | 6 |
+| Streak Record | 6 |
 
 ---
 
@@ -41,7 +41,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732107440,1731662100,1731209284,1730760857,1730285216,1729781576,1729342548,1728823828,1727946249,1727505111,1726803718,1724407362,1723912716];
+        let timestamps = [1732610765,1732107440,1731662100,1731209284,1730760857,1730285216,1729781576,1729342548,1728823828,1727946249,1727505111,1726803718,1724407362,1723912716];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -124,12 +124,18 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) | 2 | 0 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/01 | 7-0 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
 | ✅ | 2024/11/25 | 13-0 | [斯比纳兰](https://ws.tsl.rocks/corp/ce756ff97542e6fa8d518319e6575aae1d01eb23dd906fee3e3cbb98b442b68f/) |
 | ✅ | 2024/11/20 | 6-3 | [星约组织：基地分团](https://ws.tsl.rocks/corp/65d5754facd0f6a7ee7bd84567ea263d8002e24a754d36c982598d5552b1830b/) |
 | ✅ | 2024/11/15 | 11-0 | [🌪TORNADO ](https://ws.tsl.rocks/corp/df15d02d32c67d60995e68d6c4197c23b340a0a985f04280563d8d07bd4536fa/) |

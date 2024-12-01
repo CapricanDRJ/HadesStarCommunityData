@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Orden Estelar 
-description: W:8 L:8 D:2 Bonus ✅
+description: W:9 L:8 D:2 Bonus ✅
 image: ./favicon.png
-date: 1732564087
+date: 1733036935
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,12 +16,13 @@ date: 1732564087
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1215 🔺  (389)|
-| ELO Competitive | 1234 🔺  (428)|
-| Total Matches | 18 |
-| Wins | 8 |
+| ELO Regular | 1226 🔺  (327)|
+| ELO Competitive | 1252 🔺  (363)|
+| Total Matches | 19 |
+| Wins | 9 |
 | Losses | 8 |
 | Draws | 2 |
+| Streak | 2 |
 | Streak Record | 4 |
 
 ---
@@ -40,7 +41,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732132087,1730889511,1730049633,1716227062,1715472326,1714349113,1709552708,1708958352,1706365913,1705345373,1704664254,1704135506,1703517335,1702917587,1701049109,1700538770,1699919585,1698691276];
+        let timestamps = [1732604935,1732132087,1730889511,1730049633,1716227062,1715472326,1714349113,1709552708,1708958352,1706365913,1705345373,1704664254,1704135506,1703517335,1702917587,1701049109,1700538770,1699919585,1698691276];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/01 | 25-1 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |
 | ✅ | 2024/11/25 | 21-6 | [QONQR ](https://ws.tsl.rocks/corp/5e23ade08a63b2c440a6a4c1a9ecfb6b1cfca34523c1a528d075bd06eaf5d019/) |
 | ↔️ | 2024/11/11 | 9-9 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
 | ❌ | 2024/11/01 | 11-23 | [Ƭιтαηѕ Ф тєʀʀσƦ](https://ws.tsl.rocks/corp/61696db57416971a365d3034c85eb5815c9ff04c0fbe5fa4be99689883df54af/) |
