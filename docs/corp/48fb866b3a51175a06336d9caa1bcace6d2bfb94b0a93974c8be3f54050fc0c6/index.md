@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Свободный флот
-description: W:47 L:48 D:1 Bonus ✅
+description: W:47 L:48 D:1 Bonus ❌
 image: ./favicon.png
 date: 1732896432
 ---
@@ -12,11 +12,11 @@ date: 1732896432
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (809)|
+| ELO Regular | 1183 🔻  (810)|
 | ELO Competitive | 1475 🔻  (68)|
 | Total Matches | 96 |
 | Wins | 47 |

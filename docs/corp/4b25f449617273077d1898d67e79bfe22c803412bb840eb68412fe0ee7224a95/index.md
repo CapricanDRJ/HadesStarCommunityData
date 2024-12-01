@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​国际联盟
-description: W:4 L:2 D:0 Bonus ✅
+description: W:4 L:3 D:0 Bonus ✅
 image: ./favicon.png
-date: 1732983274
+date: 1733059291
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,11 +16,11 @@ date: 1732983274
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1224 🔻  (339)|
-| ELO Competitive | 1228 🔻  (448)|
-| Total Matches | 6 |
+| ELO Regular | 1206 🔻  (462)|
+| ELO Competitive | 1232 🔻  (429)|
+| Total Matches | 7 |
 | Wins | 4 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 | Streak Record | 2 |
 
@@ -40,7 +40,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732551274,1732028414,1731506451,1730638000,1730014767,1729317604];
+        let timestamps = [1732627291,1732551274,1732028414,1731506451,1730638000,1730014767,1729317604];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -129,6 +129,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/01 | 1-8 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 | ❌ | 2024/11/30 | 1-5 | [United Gardiens](https://ws.tsl.rocks/corp/5226662f5e132d8b0663c3c04bcc7db077393a4f17214e2e0560e827fb1cd4f5/) |
 | ✅ | 2024/11/24 | 3-0 | [Slytherin](https://ws.tsl.rocks/corp/735830d4008f77aa6eca6830b6cba02e5decb3eaed66ab3305b7e39c0bf0c489/) |
 | ✅ | 2024/11/18 | 3-0 | [小号营地](https://ws.tsl.rocks/corp/e716da4b59355078ca6f014735de218d3fa5e832805efb942d1299b899f2d8b9/) |
