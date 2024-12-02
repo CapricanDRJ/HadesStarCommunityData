@@ -10,13 +10,7 @@ date: 1732104016
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- 隶属于蓝色星系的蓝色星系第二分盟，欢迎各位萌新大佬加入，Q群446097226，每周送r7，r6神器qwq，偶尔有r8，主席TAT，副主席莱茵太空，需要神器就找副主席，不是本团的萌新需要帮助请直接联系副主席
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>隶属于蓝色星系的蓝色星系第二分盟，欢迎各位萌新大佬加入，Q群446097226，每周送r7，r6神器qwq，偶尔有r8，主席TAT，副主席莱茵太空，需要神器就找副主席，不是本团的萌新需要帮助请直接联系副主席</body></html>"></iframe>
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>隶属于蓝色星系的蓝色星系第二分盟，欢迎各位萌新大佬加入，Q群446097226，每周送r7，r6神器qwq，偶尔有r8，主席TAT，副主席莱茵太空，需要神器就找副主席，不是本团的萌新需要帮助请直接联系副主席</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

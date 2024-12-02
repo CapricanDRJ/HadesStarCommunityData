@@ -10,19 +10,7 @@ date: 1732624476
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- <color=#66ccff><size=50>航迹跨越星海，存在步入永恒，掌控不朽者即掌控一切，欢迎各位萌新来到阿尔特拉太空港！
-集团代理人： 2号、水滴、蜜芒
-盟团：红日初升
-PS：本团隶属于阿尔特拉集团                       阿尔特拉QQ群号：719776587
-不要给旗舰捐钱
-DON'T DONATE CREDITS TO THE FLAGSHIP!
-勿谈和白
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><span style=&quot;color:#66ccff;&quot;>&lt;size=50&gt;航迹跨越星海，存在步入永恒，掌控不朽者即掌控一切，欢迎各位萌新来到阿尔特拉太空港！
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body><span style=&quot;color:#66ccff;&quot;>&lt;size=50&gt;航迹跨越星海，存在步入永恒，掌控不朽者即掌控一切，欢迎各位萌新来到阿尔特拉太空港！
 集团代理人： 2号、水滴、蜜芒
 盟团：红日初升
 PS：本团隶属于阿尔特拉集团                       阿尔特拉QQ群号：719776587

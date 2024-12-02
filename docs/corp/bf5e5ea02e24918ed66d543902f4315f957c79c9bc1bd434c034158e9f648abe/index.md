@@ -10,13 +10,7 @@ date: 1729703326
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- 欢迎大家的加入，常驻请加QQ：459938786 本团为使命白星第四分团。送R1-R5神器，         创始人:麻雀帝国，白星指挥官:王一宁。毛塞，外交官：暮晓云风。请在白星结束后讲和， 星球等级是10级没白扫就踢，黑名单：［R16459BGM ］（乱改集团信息） 上学日不打白，扫白者踢。只招国人。成立于：2024．8．25上学日封团。
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>欢迎大家的加入，常驻请加QQ：459938786 本团为使命白星第四分团。送R1-R5神器，         创始人:麻雀帝国，白星指挥官:王一宁。毛塞，外交官：暮晓云风。请在白星结束后讲和， 星球等级是10级没白扫就踢，黑名单：［R16459BGM ］（乱改集团信息） 上学日不打白，扫白者踢。只招国人。成立于：2024．8．25上学日封团。</body></html>"></iframe>
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>欢迎大家的加入，常驻请加QQ：459938786 本团为使命白星第四分团。送R1-R5神器，         创始人:麻雀帝国，白星指挥官:王一宁。毛塞，外交官：暮晓云风。请在白星结束后讲和， 星球等级是10级没白扫就踢，黑名单：［R16459BGM ］（乱改集团信息） 上学日不打白，扫白者踢。只招国人。成立于：2024．8．25上学日封团。</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/bous．com)
 ### Whitestar Bonus ❌

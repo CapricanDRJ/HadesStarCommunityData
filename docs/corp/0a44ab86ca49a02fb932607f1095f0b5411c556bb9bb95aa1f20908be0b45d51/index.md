@@ -10,13 +10,7 @@ date: 1731379810
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- BIENVENIDOS a esta corporación de habla hispana. Ayudaremos a los nuevos miembros con artefactos y en ER de ER-2 a ER-7. ALIADOS DE ESTA CORPORACIÓN   • MÉXICO INFINITO 
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>BIENVENIDOS a esta corporación de habla hispana. Ayudaremos a los nuevos miembros con artefactos y en ER de ER-2 a ER-7. ALIADOS DE ESTA CORPORACIÓN   • MÉXICO INFINITO </body></html>"></iframe>
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>BIENVENIDOS a esta corporación de habla hispana. Ayudaremos a los nuevos miembros con artefactos y en ER de ER-2 a ER-7. ALIADOS DE ESTA CORPORACIÓN   • MÉXICO INFINITO </body></html>"></iframe>
 
 ### [Discord](https://discord.gg/invite/qEx3pN9A)
 ### Whitestar Bonus ❌

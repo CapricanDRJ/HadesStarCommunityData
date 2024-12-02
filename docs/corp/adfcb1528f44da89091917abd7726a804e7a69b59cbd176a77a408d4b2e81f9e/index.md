@@ -10,18 +10,7 @@ date: 1703552345
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- <b><color=#4595A4><size=70>꧁FEÐERAŦI0N༒VERSAILES꧂</size></color>
-<color=# F9FAEC>Corporation to have fun and enjoy
-   -hosted by ShadowSun
-
-Language: English-Spanish
-Discord: pxSK3vbe</color></b>
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><strong><span style=&quot;color:#4595A4;&quot;>&lt;size=70&gt;꧁FEÐERAŦI0N༒VERSAILES꧂&lt;/size&gt;</span>
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body><strong><span style=&quot;color:#4595A4;&quot;>&lt;size=70&gt;꧁FEÐERAŦI0N༒VERSAILES꧂&lt;/size&gt;</span>
 <span style=&quot;color:# F9FAEC;&quot;>Corporation to have fun and enjoy
    -hosted by ShadowSun
 

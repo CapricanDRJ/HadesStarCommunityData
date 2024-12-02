@@ -10,18 +10,7 @@ date: 1699464101
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- Welcome Space Trucker!
-Explore anomalies of space with us!
-White stars, red stars, and great Corp Chat.
-Let us know if you'll be inactive, we keep this Corp alive!
-
-Discord: https://discord.gg/vndpWu5
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>Welcome Space Trucker!
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>Welcome Space Trucker!
 Explore anomalies of space with us!
 White stars, red stars, and great Corp Chat.
 Let us know if you'll be inactive, we keep this Corp alive!

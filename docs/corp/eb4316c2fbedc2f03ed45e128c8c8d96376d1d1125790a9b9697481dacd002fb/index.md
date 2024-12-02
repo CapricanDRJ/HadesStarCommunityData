@@ -10,13 +10,7 @@ date: 1719390049
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- 明记五年十二月，余往西湖，大雪三日，湖中人鸟声俱绝。是日更定矣，余拏一小舟，拥毳衣炉火，独往湖心亭看雪，见湖中亭一点，余友人同赏霜叶                 群qq1067984316                白星，尽量好好打，有啥出啥             warframe代肝  星际战甲国际服     玄骸  开图  声望 系列任务等。具体需要可以私聊QQ：1802125881
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>明记五年十二月，余往西湖，大雪三日，湖中人鸟声俱绝。是日更定矣，余拏一小舟，拥毳衣炉火，独往湖心亭看雪，见湖中亭一点，余友人同赏霜叶                 群qq1067984316                白星，尽量好好打，有啥出啥             warframe代肝  星际战甲国际服     玄骸  开图  声望 系列任务等。具体需要可以私聊QQ：1802125881</body></html>"></iframe>
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>明记五年十二月，余往西湖，大雪三日，湖中人鸟声俱绝。是日更定矣，余拏一小舟，拥毳衣炉火，独往湖心亭看雪，见湖中亭一点，余友人同赏霜叶                 群qq1067984316                白星，尽量好好打，有啥出啥             warframe代肝  星际战甲国际服     玄骸  开图  声望 系列任务等。具体需要可以私聊QQ：1802125881</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/https://discord.gg/yf6cZcBq)
 ### Whitestar Bonus ❌

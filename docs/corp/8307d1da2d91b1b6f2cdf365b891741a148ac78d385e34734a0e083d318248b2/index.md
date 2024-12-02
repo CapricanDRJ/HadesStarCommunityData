@@ -10,13 +10,7 @@ date: 1715630616
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- <b><color=red><size=240>Fė <b><color=orange><size=240>ni <b><color=yellow><size=240>X• <b><color=green><size=40> bienvenido sean a todos...         
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><strong><span style=&quot;color:red;&quot;>&lt;size=240&gt;Fė <strong><span style=&quot;color:orange;&quot;>&lt;size=240&gt;ni <strong><span style=&quot;color:yellow;&quot;>&lt;size=240&gt;X• <strong><span style=&quot;color:green;&quot;>&lt;size=40&gt; bienvenido sean a todos...         </body></html>"></iframe>
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body><strong><span style=&quot;color:red;&quot;>&lt;size=240&gt;Fė <strong><span style=&quot;color:orange;&quot;>&lt;size=240&gt;ni <strong><span style=&quot;color:yellow;&quot;>&lt;size=240&gt;X• <strong><span style=&quot;color:green;&quot;>&lt;size=40&gt; bienvenido sean a todos...         </body></html>"></iframe>
 
 ### [Discord](https://discord.gg/<b><color=black><size=33> discord no disponible )
 ### Whitestar Bonus ❌

@@ -10,13 +10,7 @@ date: 1732811600
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- <color=red>We are 帝国军事学院.   帝国军事学院-主营地。</color><color=orange>这里是一处环境幽静，生活安逸的地方。咸鱼玩家/种田党的聚集地。欲买桂花同载酒，终不似，少年游!</color>                        QQ群:479054325（欢迎加入，加盟先加群！）
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><span style=&quot;color:red;&quot;>We are 帝国军事学院.   帝国军事学院-主营地。</span><span style=&quot;color:orange;&quot;>这里是一处环境幽静，生活安逸的地方。咸鱼玩家/种田党的聚集地。欲买桂花同载酒，终不似，少年游!</span>                        QQ群:479054325（欢迎加入，加盟先加群！）</body></html>"></iframe>
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body><span style=&quot;color:red;&quot;>We are 帝国军事学院.   帝国军事学院-主营地。</span><span style=&quot;color:orange;&quot;>这里是一处环境幽静，生活安逸的地方。咸鱼玩家/种田党的聚集地。欲买桂花同载酒，终不似，少年游!</span>                        QQ群:479054325（欢迎加入，加盟先加群！）</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/ndQgHcT)
 ### Whitestar Bonus ✅

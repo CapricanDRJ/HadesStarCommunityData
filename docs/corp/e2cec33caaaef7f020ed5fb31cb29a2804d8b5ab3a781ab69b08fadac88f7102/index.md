@@ -10,13 +10,7 @@ date: 1722404657
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
-  <color=#fb9><size=50>欢迎大家加入避难所！常驻请加企鹅群596512697，每周开白（目前招人） 立功给干事 ，（不打白就不要开白扫），常驻提供r7神器。盟团：群星璀璨，很多星球的社会主义团；首席：水边散步，欢迎大佬和萌新加入，先捐款旗舰二，不是死团
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body> <span style=&quot;color:#fb9;&quot;>&lt;size=50&gt;欢迎大家加入避难所！常驻请加企鹅群596512697，每周开白（目前招人） 立功给干事 ，（不打白就不要开白扫），常驻提供r7神器。盟团：群星璀璨，很多星球的社会主义团；首席：水边散步，欢迎大佬和萌新加入，先捐款旗舰二，不是死团</body></html>"></iframe>
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body> <span style=&quot;color:#fb9;&quot;>&lt;size=50&gt;欢迎大家加入避难所！常驻请加企鹅群596512697，每周开白（目前招人） 立功给干事 ，（不打白就不要开白扫），常驻提供r7神器。盟团：群星璀璨，很多星球的社会主义团；首席：水边散步，欢迎大佬和萌新加入，先捐款旗舰二，不是死团</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

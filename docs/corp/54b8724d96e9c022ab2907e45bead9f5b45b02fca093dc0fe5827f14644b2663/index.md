@@ -10,24 +10,7 @@ date: 1731976017
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- <b>IA2</b>
-
-Second Fleet of the
-<size=60>IMPERIAL ARMADA</size>
-
-Discord mandatory.
-24 hours to join.
-<color=orange>discord.gg/bAAYCqG2cE</color>
-
-Max period of inactivity: 3 days.
-
-English only.
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><strong>IA2</strong>
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body><strong>IA2</strong>
 
 Second Fleet of the
 &lt;size=60&gt;IMPERIAL ARMADA&lt;/size&gt;

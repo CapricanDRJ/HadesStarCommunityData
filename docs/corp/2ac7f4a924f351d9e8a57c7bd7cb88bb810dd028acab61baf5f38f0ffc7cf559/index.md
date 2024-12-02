@@ -10,13 +10,7 @@ date: 1726054582
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- <size=96><color=#fff>代表者が愛の国へ旅立ちましたので活動停止とします⛪5年間ありがとう！以下を検索！</color></size><color=#fff><br>推薦コーポ<br>🟡Spica(No Discord＆SNS) <br>🟢星を継ぐもの<br>●リリース<br>🟣CdS天文台<br>Regulus活動期間2019.08〜2024.09
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>&lt;size=96&gt;<span style=&quot;color:#fff;&quot;>代表者が愛の国へ旅立ちましたので活動停止とします⛪5年間ありがとう！以下を検索！</span>&lt;/size&gt;<span style=&quot;color:#fff;&quot;>&lt;br&gt;推薦コーポ&lt;br&gt;🟡Spica(No Discord＆SNS) &lt;br&gt;🟢星を継ぐもの&lt;br&gt;●リリース&lt;br&gt;🟣CdS天文台&lt;br&gt;Regulus活動期間2019.08〜2024.09</body></html>"></iframe>
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>&lt;size=96&gt;<span style=&quot;color:#fff;&quot;>代表者が愛の国へ旅立ちましたので活動停止とします⛪5年間ありがとう！以下を検索！</span>&lt;/size&gt;<span style=&quot;color:#fff;&quot;>&lt;br&gt;推薦コーポ&lt;br&gt;🟡Spica(No Discord＆SNS) &lt;br&gt;🟢星を継ぐもの&lt;br&gt;●リリース&lt;br&gt;🟣CdS天文台&lt;br&gt;Regulus活動期間2019.08〜2024.09</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/3WAXnPcaNe)
 ### Whitestar Bonus ❌

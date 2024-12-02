@@ -10,17 +10,7 @@ date: 1729596634
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- <color=#0080FF>第三舰队【The Third Fleet】于2022-6-18宣布建立</color>
-<size=50><color=#FF0000>基本要求:听从指挥，拒绝辱骂他人、恶意毁坏他人财物；保持民主化体制，禁止滥用权力；成员晋升条件由自我优秀作风或白星表现决定
-</color></size>
-盟团:太阳系联邦
-企鹅（Q）群:<a>865904780</a>
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><span style=&quot;color:#0080FF;&quot;>第三舰队【The Third Fleet】于2022-6-18宣布建立</span>
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body><span style=&quot;color:#0080FF;&quot;>第三舰队【The Third Fleet】于2022-6-18宣布建立</span>
 &lt;size=50&gt;<span style=&quot;color:#FF0000;&quot;>基本要求:听从指挥，拒绝辱骂他人、恶意毁坏他人财物；保持民主化体制，禁止滥用权力；成员晋升条件由自我优秀作风或白星表现决定
 </span>&lt;/size&gt;
 盟团:太阳系联邦

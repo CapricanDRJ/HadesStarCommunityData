@@ -10,17 +10,7 @@ date: 1731554996
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- <b><size=99><color=#990000>Blood Brigade</color></size></b>
-is a friendly corp with a relaxed atmosphere.
-Weekly white star.
-Discord Mandatory.
-<color=#FF0000>discord.gg/JsmNexdvXv</color>
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><strong>&lt;size=99&gt;<span style=&quot;color:#990000;&quot;>Blood Brigade</span>&lt;/size&gt;</strong>
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body><strong>&lt;size=99&gt;<span style=&quot;color:#990000;&quot;>Blood Brigade</span>&lt;/size&gt;</strong>
 is a friendly corp with a relaxed atmosphere.
 Weekly white star.
 Discord Mandatory.

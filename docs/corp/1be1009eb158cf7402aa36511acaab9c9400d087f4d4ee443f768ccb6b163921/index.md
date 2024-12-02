@@ -10,13 +10,7 @@ date: 1730313040
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- 参与白星扫描的可升高级成员，白星表现好或等级较高可升干事。<color=yellow>禁止乱用权力！</color>盟团：水晶星际集团、Grater T、阿尔特拉太空港。 <color=red>分团：物竞天择，适者生存</color>。<color=orange>南极星联盟成员</color>踢红点，由bria成立于2024.7.1
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>参与白星扫描的可升高级成员，白星表现好或等级较高可升干事。<span style=&quot;color:yellow;&quot;>禁止乱用权力！</span>盟团：水晶星际集团、Grater T、阿尔特拉太空港。 <span style=&quot;color:red;&quot;>分团：物竞天择，适者生存</span>。<span style=&quot;color:orange;&quot;>南极星联盟成员</span>踢红点，由bria成立于2024.7.1</body></html>"></iframe>
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>参与白星扫描的可升高级成员，白星表现好或等级较高可升干事。<span style=&quot;color:yellow;&quot;>禁止乱用权力！</span>盟团：水晶星际集团、Grater T、阿尔特拉太空港。 <span style=&quot;color:red;&quot;>分团：物竞天择，适者生存</span>。<span style=&quot;color:orange;&quot;>南极星联盟成员</span>踢红点，由bria成立于2024.7.1</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

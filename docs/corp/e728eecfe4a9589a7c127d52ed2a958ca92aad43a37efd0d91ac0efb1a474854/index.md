@@ -10,15 +10,7 @@ date: 1709658385
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- <color=#ffffee><size=75>Várunk sok szerettel minden Újoncot tapasztalat szerzésre, Tapasztaltakat WS-re!</size>
-Ugyanitt bojler eladó
-Discord:</color> <color=#a4fc4c>9SyrBAt</color>
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><span style=&quot;color:#ffffee;&quot;>&lt;size=75&gt;Várunk sok szerettel minden Újoncot tapasztalat szerzésre, Tapasztaltakat WS-re!&lt;/size&gt;
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body><span style=&quot;color:#ffffee;&quot;>&lt;size=75&gt;Várunk sok szerettel minden Újoncot tapasztalat szerzésre, Tapasztaltakat WS-re!&lt;/size&gt;
 Ugyanitt bojler eladó
 Discord:</span> <span style=&quot;color:#a4fc4c;&quot;>9SyrBAt</span></body></html>"></iframe>
 

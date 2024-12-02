@@ -10,19 +10,7 @@ date: 1708606362
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- <color=cyan><size=99>E.T.A溫泉開放</size></color>
-群聊可有可無:<color=green>587560494</color>
-<b>黑色長城</b><size=20>萌新加這個</size>:<color=green>456873704</color>
-攻略放在群裡，萌新不懂可以問
-村規:
-<a>○私人不拉截擊
-○公共 公屏 外群隨便鬧我們都不管。</a>
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><span style=&quot;color:cyan;&quot;>&lt;size=99&gt;E.T.A溫泉開放&lt;/size&gt;</span>
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body><span style=&quot;color:cyan;&quot;>&lt;size=99&gt;E.T.A溫泉開放&lt;/size&gt;</span>
 群聊可有可無:<span style=&quot;color:green;&quot;>587560494</span>
 <strong>黑色長城</strong>&lt;size=20&gt;萌新加這個&lt;/size&gt;:<span style=&quot;color:green;&quot;>456873704</span>
 攻略放在群裡，萌新不懂可以問

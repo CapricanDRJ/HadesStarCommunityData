@@ -10,19 +10,7 @@ date: 1720956947
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- 远离世上乱纷纷，清静凡心不染尘。
-闲看山前腾紫气，静观天外涌祥云。
-花间酌酒邀明月，柳下吟诗论古今。
-坐卧随心天地近，悠然细品玉堂春。
-
-佛系集团，集团内交流会很少，如果需要前期资助以及集团交流的玩家请选择加入国人大团。
-不定期清理红点，如需长期留驻请集团内留言获取高级成员。
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>远离世上乱纷纷，清静凡心不染尘。
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>远离世上乱纷纷，清静凡心不染尘。
 闲看山前腾紫气，静观天外涌祥云。
 花间酌酒邀明月，柳下吟诗论古今。
 坐卧随心天地近，悠然细品玉堂春。

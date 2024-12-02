@@ -10,21 +10,7 @@ date: 1723897846
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- <color=white>我们是<size=67><b>地球联合</b></size>集团的主盟
-新人可以前往水星联合和火星联合发展~</color>
-
-<color=orange>⚛︎萌新运输舰达到8t可领取15r6神器
-⚛︎集团有免费矿场随时供应
-⚛︎还有交易折扣等福利</color>
-
-QQ群号：742063070
-<color=yellow>*群内有教程，加入享有更多福利</color>
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><span style=&quot;color:white;&quot;>我们是&lt;size=67&gt;<strong>地球联合</strong>&lt;/size&gt;集团的主盟
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body><span style=&quot;color:white;&quot;>我们是&lt;size=67&gt;<strong>地球联合</strong>&lt;/size&gt;集团的主盟
 新人可以前往水星联合和火星联合发展~</span>
 
 <span style=&quot;color:orange;&quot;>⚛︎萌新运输舰达到8t可领取15r6神器

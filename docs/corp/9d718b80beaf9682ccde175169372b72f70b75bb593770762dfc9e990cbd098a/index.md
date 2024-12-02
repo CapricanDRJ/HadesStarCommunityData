@@ -10,13 +10,7 @@ date: 1733042765
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- <color=green>创始人&首席干事:五叶树（以下条件已经五叶树同意）<br><color=red>肃反委员:姆<br>黑名单:一切和🍉老板有好友关系的人<br><color=yellow>创始人>首席>干事>高级成员>成员<br>一旦有明显损害集团利益的行为，肇事者直接肃清<br>分团：白星、电磁脉冲<br><color=red>捐钱给旗舰1<br>QQ:993683689
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><span style=&quot;color:green;&quot;>创始人&首席干事:五叶树（以下条件已经五叶树同意）&lt;br&gt;<span style=&quot;color:red;&quot;>肃反委员:姆&lt;br&gt;黑名单:一切和🍉老板有好友关系的人&lt;br&gt;<span style=&quot;color:yellow;&quot;>创始人&gt;首席&gt;干事&gt;高级成员&gt;成员&lt;br&gt;一旦有明显损害集团利益的行为，肇事者直接肃清&lt;br&gt;分团：白星、电磁脉冲&lt;br&gt;<span style=&quot;color:red;&quot;>捐钱给旗舰1&lt;br&gt;QQ:993683689</body></html>"></iframe>
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body><span style=&quot;color:green;&quot;>创始人&首席干事:五叶树（以下条件已经五叶树同意）&lt;br&gt;<span style=&quot;color:red;&quot;>肃反委员:姆&lt;br&gt;黑名单:一切和🍉老板有好友关系的人&lt;br&gt;<span style=&quot;color:yellow;&quot;>创始人&gt;首席&gt;干事&gt;高级成员&gt;成员&lt;br&gt;一旦有明显损害集团利益的行为，肇事者直接肃清&lt;br&gt;分团：白星、电磁脉冲&lt;br&gt;<span style=&quot;color:red;&quot;>捐钱给旗舰1&lt;br&gt;QQ:993683689</body></html>"></iframe>
 
 ### Whitestar Bonus ✅
 

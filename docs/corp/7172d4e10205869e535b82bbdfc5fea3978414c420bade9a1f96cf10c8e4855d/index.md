@@ -10,13 +10,7 @@ date: 1703129890
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
-   Korean Corporation 백성규칙 - 백1팀 참여자가 검색시작, 이후 백2팀에서 나머지 인원으로 검색
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>  Korean Corporation 백성규칙 - 백1팀 참여자가 검색시작, 이후 백2팀에서 나머지 인원으로 검색</body></html>"></iframe>
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>  Korean Corporation 백성규칙 - 백1팀 참여자가 검색시작, 이후 백2팀에서 나머지 인원으로 검색</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

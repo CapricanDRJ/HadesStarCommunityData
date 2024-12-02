@@ -10,13 +10,7 @@ date: 1722962060
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- 本集团为共产星际第三分部，这是一个致力于把红旗插满银河角落的集团。 <size=50>主盟：共产星际。 <color=red>集团交流QQ群：1034496041我们欢迎所有热爱这个游戏的朋友加入我们，一起来玩hades'star！新来的萌新可以进群聊天吹水和领取福利<color=white>白星群：229395278想要加入集团先加集团QQ群
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>本集团为共产星际第三分部，这是一个致力于把红旗插满银河角落的集团。 &lt;size=50&gt;主盟：共产星际。 <span style=&quot;color:red;&quot;>集团交流QQ群：1034496041我们欢迎所有热爱这个游戏的朋友加入我们，一起来玩hades'star！新来的萌新可以进群聊天吹水和领取福利<span style=&quot;color:white;&quot;>白星群：229395278想要加入集团先加集团QQ群</body></html>"></iframe>
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>本集团为共产星际第三分部，这是一个致力于把红旗插满银河角落的集团。 &lt;size=50&gt;主盟：共产星际。 <span style=&quot;color:red;&quot;>集团交流QQ群：1034496041我们欢迎所有热爱这个游戏的朋友加入我们，一起来玩hades'star！新来的萌新可以进群聊天吹水和领取福利<span style=&quot;color:white;&quot;>白星群：229395278想要加入集团先加集团QQ群</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

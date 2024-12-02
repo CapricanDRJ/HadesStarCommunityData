@@ -10,13 +10,7 @@ date: 1732895530
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- <color=#7FFFD4";><b>We are THE COLLECTIVE</b><br>Lower your shields and surrender all relics<br>Resistance is futile<br><br><b>Corps</b><br>• Legion<br>• Unimatrix Zero<br><br><b>RS7+ | DRS/WS | $➡FS2
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><span style=&quot;color:#7FFFD4";;&quot;><strong>We are THE COLLECTIVE</strong>&lt;br&gt;Lower your shields and surrender all relics&lt;br&gt;Resistance is futile&lt;br&gt;&lt;br&gt;<strong>Corps</strong>&lt;br&gt;• Legion&lt;br&gt;• Unimatrix Zero&lt;br&gt;&lt;br&gt;<strong>RS7+ | DRS/WS | $➡FS2</body></html>"></iframe>
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body><span style=&quot;color:#7FFFD4";;&quot;><strong>We are THE COLLECTIVE</strong>&lt;br&gt;Lower your shields and surrender all relics&lt;br&gt;Resistance is futile&lt;br&gt;&lt;br&gt;<strong>Corps</strong>&lt;br&gt;• Legion&lt;br&gt;• Unimatrix Zero&lt;br&gt;&lt;br&gt;<strong>RS7+ | DRS/WS | $➡FS2</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/mA6tbqzS55)
 ### Whitestar Bonus ✅

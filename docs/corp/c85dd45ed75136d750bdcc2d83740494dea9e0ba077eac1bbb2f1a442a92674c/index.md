@@ -10,21 +10,7 @@ date: 1731747642
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- <color=yellow>U.I.H. Corp.</color>
-Corvus Ind 🤍 
-
-New players welcomed!
-
-Join via Discord: <color=yellow> https://discord.gg/vPsNNxs </color>
-
-Discord MANDATORY.
-We have awesome queue for rs runs!
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><span style=&quot;color:yellow;&quot;>U.I.H. Corp.</span>
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body><span style=&quot;color:yellow;&quot;>U.I.H. Corp.</span>
 Corvus Ind 🤍 
 
 New players welcomed!

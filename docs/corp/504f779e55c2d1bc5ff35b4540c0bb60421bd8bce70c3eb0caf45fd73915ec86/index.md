@@ -10,13 +10,7 @@ date: 1715301624
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- United Yellow-star-system Empires of Universe宇宙联合黄星系帝国【仅首席干事（79）拥有的权限（除非首席干事授权）1、编辑集团设置2、晋升降职。如有违反者，轻则降职，重则被移出。】（Languege:中文，English, Русский，Español）
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>United Yellow-star-system Empires of Universe宇宙联合黄星系帝国【仅首席干事（79）拥有的权限（除非首席干事授权）1、编辑集团设置2、晋升降职。如有违反者，轻则降职，重则被移出。】（Languege:中文，English, Русский，Español）</body></html>"></iframe>
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>United Yellow-star-system Empires of Universe宇宙联合黄星系帝国【仅首席干事（79）拥有的权限（除非首席干事授权）1、编辑集团设置2、晋升降职。如有违反者，轻则降职，重则被移出。】（Languege:中文，English, Русский，Español）</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

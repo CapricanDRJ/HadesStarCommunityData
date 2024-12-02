@@ -10,13 +10,7 @@ date: 1732539440
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- 欢迎你们加入 🎉('ω')🎉进来直接升高员任何人都可以打白 白星交流Q 群:577029427  集团Q 群:9937377990 盟团:企鹅帝国 白星必胜团 很多星球的社会主义团不能篡改集团信息萌新福利:R7 六个或R6 八个或R5 十个 联盟:中国星际联盟 黑名单:海棠花之约(干事高员踢了有奖 千万不能晋升)本团白星策略:先一起上采矿舰采完回去之后一起换运输旗下分团:斯比纳兰分团 一起同行
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>欢迎你们加入 🎉('ω')🎉进来直接升高员任何人都可以打白 白星交流Q 群:577029427  集团Q 群:9937377990 盟团:企鹅帝国 白星必胜团 很多星球的社会主义团不能篡改集团信息萌新福利:R7 六个或R6 八个或R5 十个 联盟:中国星际联盟 黑名单:海棠花之约(干事高员踢了有奖 千万不能晋升)本团白星策略:先一起上采矿舰采完回去之后一起换运输旗下分团:斯比纳兰分团 一起同行</body></html>"></iframe>
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>欢迎你们加入 🎉('ω')🎉进来直接升高员任何人都可以打白 白星交流Q 群:577029427  集团Q 群:9937377990 盟团:企鹅帝国 白星必胜团 很多星球的社会主义团不能篡改集团信息萌新福利:R7 六个或R6 八个或R5 十个 联盟:中国星际联盟 黑名单:海棠花之约(干事高员踢了有奖 千万不能晋升)本团白星策略:先一起上采矿舰采完回去之后一起换运输旗下分团:斯比纳兰分团 一起同行</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/sghx)
 ### Whitestar Bonus ❌

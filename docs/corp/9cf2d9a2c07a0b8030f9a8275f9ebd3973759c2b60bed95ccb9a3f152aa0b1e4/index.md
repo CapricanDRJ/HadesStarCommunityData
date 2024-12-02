@@ -10,13 +10,7 @@ date: 1728214173
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- <b><color=#CAFF70>※这里是，星海扬帆                   </a></b>         </a></b>                     <b><color=#87CEFF>♥!首席：OwO!♥</a>QQ 720502114  </a></b>红活已经结束，欢迎回来
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><strong><span style=&quot;color:#CAFF70;&quot;>※这里是，星海扬帆                   &lt;/a&gt;</strong>         &lt;/a&gt;</strong>                     <strong><span style=&quot;color:#87CEFF;&quot;>♥!首席：OwO!♥&lt;/a&gt;QQ 720502114  &lt;/a&gt;</strong>红活已经结束，欢迎回来</body></html>"></iframe>
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body><strong><span style=&quot;color:#CAFF70;&quot;>※这里是，星海扬帆                   &lt;/a&gt;</strong>         &lt;/a&gt;</strong>                     <strong><span style=&quot;color:#87CEFF;&quot;>♥!首席：OwO!♥&lt;/a&gt;QQ 720502114  &lt;/a&gt;</strong>红活已经结束，欢迎回来</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/<color=#FF0><b><i><size=30>简阶编辑:OwO</size></i>)
 ### Whitestar Bonus ❌

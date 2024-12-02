@@ -10,16 +10,7 @@ date: 1732608552
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- <b><size=92><color=#9fe5ff>💫 STONE LEGION 💫</b>
-<color=#fff>The Legion wants you!
-<size=48><color=#76aabf>Cᴏɴsᴏʀᴛɪᴜᴍ ᴏғ Mɪɴᴇʀs ᴀɴᴅ Sᴄɪᴇɴᴛɪsᴛs
-<size=73><color=#666>RESISTENTIA IMPLACABILIS
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><strong>&lt;size=92&gt;<span style=&quot;color:#9fe5ff;&quot;>💫 STONE LEGION 💫</strong>
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body><strong>&lt;size=92&gt;<span style=&quot;color:#9fe5ff;&quot;>💫 STONE LEGION 💫</strong>
 <span style=&quot;color:#fff;&quot;>The Legion wants you!
 &lt;size=48&gt;<span style=&quot;color:#76aabf;&quot;>Cᴏɴsᴏʀᴛɪᴜᴍ ᴏғ Mɪɴᴇʀs ᴀɴᴅ Sᴄɪᴇɴᴛɪsᴛs
 &lt;size=73&gt;<span style=&quot;color:#666;&quot;>RESISTENTIA IMPLACABILIS</body></html>"></iframe>

@@ -10,13 +10,7 @@ date: 1733024440
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- <color=yellow>欢迎加入我集团<br>南极星联盟成员<br>首席、中国外交：瓜老板?世<br>白星指挥:鑫森淼焱垚、cyka<br>Diplomacy：Phanatikk<br>神圣罗马帝国分团<br>We welcome everyone<br>QQ群:639697949 <br><br>最高福利：r9
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><span style=&quot;color:yellow;&quot;>欢迎加入我集团&lt;br&gt;南极星联盟成员&lt;br&gt;首席、中国外交：瓜老板?世&lt;br&gt;白星指挥:鑫森淼焱垚、cyka&lt;br&gt;Diplomacy：Phanatikk&lt;br&gt;神圣罗马帝国分团&lt;br&gt;We welcome everyone&lt;br&gt;QQ群:639697949 &lt;br&gt;&lt;br&gt;最高福利：r9</body></html>"></iframe>
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body><span style=&quot;color:yellow;&quot;>欢迎加入我集团&lt;br&gt;南极星联盟成员&lt;br&gt;首席、中国外交：瓜老板?世&lt;br&gt;白星指挥:鑫森淼焱垚、cyka&lt;br&gt;Diplomacy：Phanatikk&lt;br&gt;神圣罗马帝国分团&lt;br&gt;We welcome everyone&lt;br&gt;QQ群:639697949 &lt;br&gt;&lt;br&gt;最高福利：r9</body></html>"></iframe>
 
 ### Whitestar Bonus ✅
 

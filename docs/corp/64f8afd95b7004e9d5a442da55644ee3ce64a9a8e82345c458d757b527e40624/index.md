@@ -10,18 +10,7 @@ date: 1733025040
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- 开区，种矿，养矿仍是佛门日常操作，只有持之以恒行善积德方可圆寂升天功德圆满，欢迎各位施主皈依我佛(老衲一般早上在线，若有急事可群里call我)
-本集团主张和平白星支持各集团进行外交沟通
-peaceful ws recommended. send diplo to 梦心话 to negotiate
-集团群：647659828
-国人交流大群：597444221
-神器交易群：915130142
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>开区，种矿，养矿仍是佛门日常操作，只有持之以恒行善积德方可圆寂升天功德圆满，欢迎各位施主皈依我佛(老衲一般早上在线，若有急事可群里call我)
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>开区，种矿，养矿仍是佛门日常操作，只有持之以恒行善积德方可圆寂升天功德圆满，欢迎各位施主皈依我佛(老衲一般早上在线，若有急事可群里call我)
 本集团主张和平白星支持各集团进行外交沟通
 peaceful ws recommended. send diplo to 梦心话 to negotiate
 集团群：647659828

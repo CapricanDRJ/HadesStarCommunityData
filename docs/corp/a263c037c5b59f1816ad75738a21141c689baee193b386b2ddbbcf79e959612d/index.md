@@ -10,13 +10,7 @@ date: 1733153946
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- 我们不属于任何集团的分团，<#DCF>我们的总执行官：Cyka <#ACF>欢迎你的加入～～～ <#FFF>来到这里大于6t且在团一个月并可以打白星了，我们会给你80%左右的R7 ！来者请捐点旗舰，我们非常感谢！我们在努力的招人！！！建立于2024.9.7 Q群号：993964380 大群Q号：597444221
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>我们不属于任何集团的分团，&lt;#DCF&gt;我们的总执行官：Cyka &lt;#ACF&gt;欢迎你的加入～～～ &lt;#FFF&gt;来到这里大于6t且在团一个月并可以打白星了，我们会给你80%左右的R7 ！来者请捐点旗舰，我们非常感谢！我们在努力的招人！！！建立于2024.9.7 Q群号：993964380 大群Q号：597444221</body></html>"></iframe>
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>我们不属于任何集团的分团，&lt;#DCF&gt;我们的总执行官：Cyka &lt;#ACF&gt;欢迎你的加入～～～ &lt;#FFF&gt;来到这里大于6t且在团一个月并可以打白星了，我们会给你80%左右的R7 ！来者请捐点旗舰，我们非常感谢！我们在努力的招人！！！建立于2024.9.7 Q群号：993964380 大群Q号：597444221</body></html>"></iframe>
 
 ### Whitestar Bonus ✅
 

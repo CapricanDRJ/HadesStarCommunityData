@@ -10,18 +10,7 @@ date: 1709412292
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- <color=#823dcf><size=100></size></color>The "Used-to-be-Active" White Star Clan...
-
-<color=#d6b800><size=60>⚠DISCORD⚠️</size></color>
-<color=#ffffff><size=60>https://discord.gg/SWAeyd</size></color>
-
-
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><span style=&quot;color:#823dcf;&quot;>&lt;size=100&gt;&lt;/size&gt;</span>The "Used-to-be-Active" White Star Clan...
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body><span style=&quot;color:#823dcf;&quot;>&lt;size=100&gt;&lt;/size&gt;</span>The "Used-to-be-Active" White Star Clan...
 
 <span style=&quot;color:#d6b800;&quot;>&lt;size=60&gt;⚠DISCORD⚠️&lt;/size&gt;</span>
 <span style=&quot;color:#ffffff;&quot;>&lt;size=60&gt;https://discord.gg/SWAeyd&lt;/size&gt;</span>

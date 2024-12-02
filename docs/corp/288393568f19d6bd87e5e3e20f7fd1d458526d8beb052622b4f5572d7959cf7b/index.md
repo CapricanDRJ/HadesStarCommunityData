@@ -10,13 +10,7 @@ date: 1731744338
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- <size=90><b><color=white>Estrellas Blancas</color></b></size><br><size=50><b>Enterrados <color=red><b>200.000 $ </color></b>en Sad Hill.<br><b>En La tumba sin nombre junto a la de Arch Stanton.
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>&lt;size=90&gt;<strong><span style=&quot;color:white;&quot;>Estrellas Blancas</span></strong>&lt;/size&gt;&lt;br&gt;&lt;size=50&gt;<strong>Enterrados <span style=&quot;color:red;&quot;><strong>200.000 $ </span></strong>en Sad Hill.&lt;br&gt;<strong>En La tumba sin nombre junto a la de Arch Stanton.</body></html>"></iframe>
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>&lt;size=90&gt;<strong><span style=&quot;color:white;&quot;>Estrellas Blancas</span></strong>&lt;/size&gt;&lt;br&gt;&lt;size=50&gt;<strong>Enterrados <span style=&quot;color:red;&quot;><strong>200.000 $ </span></strong>en Sad Hill.&lt;br&gt;<strong>En La tumba sin nombre junto a la de Arch Stanton.</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

@@ -10,13 +10,7 @@ date: 1728735880
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- 集团公告：1.本集团各代团长均为中国人，团员大部分为中国人，请尽量使用中文交流。2.大号、小号等欢迎加入本集团，但僵尸号请自行离开。3.本集团会经常激活白星，请各位团员积极参加白星任务，不接受和谈。最后，祝您在本集团生活、社交等方面相处快乐。[第1代团长（白羽之下）纪念日：公历2023年12月4日    盟团：四季长春 黑名单：星际集团（入团一月以上找灰尘领取福利：6个r6（自定义））
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>集团公告：1.本集团各代团长均为中国人，团员大部分为中国人，请尽量使用中文交流。2.大号、小号等欢迎加入本集团，但僵尸号请自行离开。3.本集团会经常激活白星，请各位团员积极参加白星任务，不接受和谈。最后，祝您在本集团生活、社交等方面相处快乐。[第1代团长（白羽之下）纪念日：公历2023年12月4日    盟团：四季长春 黑名单：星际集团（入团一月以上找灰尘领取福利：6个r6（自定义））</body></html>"></iframe>
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>集团公告：1.本集团各代团长均为中国人，团员大部分为中国人，请尽量使用中文交流。2.大号、小号等欢迎加入本集团，但僵尸号请自行离开。3.本集团会经常激活白星，请各位团员积极参加白星任务，不接受和谈。最后，祝您在本集团生活、社交等方面相处快乐。[第1代团长（白羽之下）纪念日：公历2023年12月4日    盟团：四季长春 黑名单：星际集团（入团一月以上找灰尘领取福利：6个r6（自定义））</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

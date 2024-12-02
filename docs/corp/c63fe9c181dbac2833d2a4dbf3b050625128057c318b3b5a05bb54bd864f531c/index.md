@@ -10,15 +10,7 @@ date: 1704688043
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- 我们是华夏舰队的分部。和本队紧密联系，本队的新手保护和炸船补偿都有效。欢迎各位萌新加入我们，本队将会提供福利。
-企鹅号169409626
-新加的玩家可转主盟:华夏舰队
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>我们是华夏舰队的分部。和本队紧密联系，本队的新手保护和炸船补偿都有效。欢迎各位萌新加入我们，本队将会提供福利。
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>我们是华夏舰队的分部。和本队紧密联系，本队的新手保护和炸船补偿都有效。欢迎各位萌新加入我们，本队将会提供福利。
 企鹅号169409626
 新加的玩家可转主盟:华夏舰队</body></html>"></iframe>
 

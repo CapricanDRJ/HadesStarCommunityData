@@ -10,13 +10,7 @@ date: 1726918839
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- 集团由苏联星系建立，十分欢迎各位玩家加入，正首:苏联星系。副首:四次元。上学日不开白:。不能骂人,偷神器。打白胜送神器。不能谋权篡位。新手福利送1~6级神器，未经允许不得更改。
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>集团由苏联星系建立，十分欢迎各位玩家加入，正首:苏联星系。副首:四次元。上学日不开白:。不能骂人,偷神器。打白胜送神器。不能谋权篡位。新手福利送1~6级神器，未经允许不得更改。</body></html>"></iframe>
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>集团由苏联星系建立，十分欢迎各位玩家加入，正首:苏联星系。副首:四次元。上学日不开白:。不能骂人,偷神器。打白胜送神器。不能谋权篡位。新手福利送1~6级神器，未经允许不得更改。</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

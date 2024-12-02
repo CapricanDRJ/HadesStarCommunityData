@@ -10,13 +10,7 @@ date: 1729018377
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- После великой депресии в Созидании, идёт только вперёд ⭐ <b>Созидание 2.0</b> ⭐<br><br>Дружественные корпы:<br>Спутник, СОЮЗ, RUS, The Seperatists<br><br><color=red>ДС обязателен
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>После великой депресии в Созидании, идёт только вперёд ⭐ <strong>Созидание 2.0</strong> ⭐&lt;br&gt;&lt;br&gt;Дружественные корпы:&lt;br&gt;Спутник, СОЮЗ, RUS, The Seperatists&lt;br&gt;&lt;br&gt;<span style=&quot;color:red;&quot;>ДС обязателен</body></html>"></iframe>
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>После великой депресии в Созидании, идёт только вперёд ⭐ <strong>Созидание 2.0</strong> ⭐&lt;br&gt;&lt;br&gt;Дружественные корпы:&lt;br&gt;Спутник, СОЮЗ, RUS, The Seperatists&lt;br&gt;&lt;br&gt;<span style=&quot;color:red;&quot;>ДС обязателен</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/eukzrdT88y)
 ### Whitestar Bonus ❌

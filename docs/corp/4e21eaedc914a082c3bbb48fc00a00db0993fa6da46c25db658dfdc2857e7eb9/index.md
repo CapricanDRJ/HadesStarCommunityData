@@ -10,21 +10,7 @@ date: 1702847100
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- <b>创始人：金gold</b>
-主团：元素联邦
-分团：元素联邦，元素学院，边际的文明，边缘世界
-本团为太阳系联邦分团，欢迎大家加入
-本团禁止恶意行为
-权限分级：25级以上升为高级成员，对集团有较大贡献升干事，不管等级
-三天清一次小红点，为白星有更多人参加，可请假，但关白扫，回来时开白扫
-请假人：孙笑川，小草，Eli Clark，浮云猫猫，北冥雪
-黑名单：太空玩家，家园星系（不要脸的天天来）
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><strong>创始人：金gold</strong>
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body><strong>创始人：金gold</strong>
 主团：元素联邦
 分团：元素联邦，元素学院，边际的文明，边缘世界
 本团为太阳系联邦分团，欢迎大家加入

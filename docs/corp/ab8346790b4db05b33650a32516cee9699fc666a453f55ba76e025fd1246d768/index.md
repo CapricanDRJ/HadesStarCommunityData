@@ -10,17 +10,7 @@ date: 1701425499
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- QQ群：671572183进群请填写游戏名称。群里有福利，领取四级神器，先进群再进团
-简介:本团的创建初衷是找志同道合的朋友们一起交流和玩游戏，团内禁止骂人，文明用语，违者踢。
-黑名单:无
-旗舰捐献名单（自愿捐献不强求，就算离开团名字也不删除）
-虎式3万愿君5万何梦琪70万一个过分1万 yebaha1万北冥5万 时光梦意1万Bailey27万0 28万player2万Enoch1万
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>QQ群：671572183进群请填写游戏名称。群里有福利，领取四级神器，先进群再进团
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>QQ群：671572183进群请填写游戏名称。群里有福利，领取四级神器，先进群再进团
 简介:本团的创建初衷是找志同道合的朋友们一起交流和玩游戏，团内禁止骂人，文明用语，违者踢。
 黑名单:无
 旗舰捐献名单（自愿捐献不强求，就算离开团名字也不删除）

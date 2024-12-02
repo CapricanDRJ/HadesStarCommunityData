@@ -10,13 +10,7 @@ date: 1733136513
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- <b><size=205><color=#a3e3fb>  LI•KA•PA</color></size></b> <b><size=42><color=#cca721>  Regular WhiteStar • English/Discord Mandatory </color></size></b>
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><strong>&lt;size=205&gt;<span style=&quot;color:#a3e3fb;&quot;>  LI•KA•PA</span>&lt;/size&gt;</strong> <strong>&lt;size=42&gt;<span style=&quot;color:#cca721;&quot;>  Regular WhiteStar • English/Discord Mandatory </span>&lt;/size&gt;</strong></body></html>"></iframe>
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body><strong>&lt;size=205&gt;<span style=&quot;color:#a3e3fb;&quot;>  LI•KA•PA</span>&lt;/size&gt;</strong> <strong>&lt;size=42&gt;<span style=&quot;color:#cca721;&quot;>  Regular WhiteStar • English/Discord Mandatory </span>&lt;/size&gt;</strong></body></html>"></iframe>
 
 ### [Discord](https://discord.gg/3CE2zAs)
 ### Whitestar Bonus ✅

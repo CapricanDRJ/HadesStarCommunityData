@@ -10,18 +10,7 @@ date: 1721625973
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- 本集团为遨游星空第二营地 <alpha=#44>现在是第一营地了<alpha=#FF>
-任何<u>常驻萌新</u>均可以领取高级神器福利，保证每一位萌新均能快速发展，度过前朝
-<s>不</s>接受死鱼，集团满了就<rotate=45>踢</rotate>
-集团qq群号：1092744803
-<alpha=#22><pos=40%>May The Lilies Bloom For You
-
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>本集团为遨游星空第二营地 &lt;alpha=#44&gt;现在是第一营地了&lt;alpha=#FF&gt;
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>本集团为遨游星空第二营地 &lt;alpha=#44&gt;现在是第一营地了&lt;alpha=#FF&gt;
 任何&lt;u&gt;常驻萌新&lt;/u&gt;均可以领取高级神器福利，保证每一位萌新均能快速发展，度过前朝
 &lt;s&gt;不&lt;/s&gt;接受死鱼，集团满了就&lt;rotate=45&gt;踢&lt;/rotate&gt;
 集团qq群号：1092744803

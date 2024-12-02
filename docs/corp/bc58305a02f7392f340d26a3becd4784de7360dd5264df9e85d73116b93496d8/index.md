@@ -10,13 +10,7 @@ date: 1730938986
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- 欢迎各位加入，为萌新提供各种不定期神器福利，<br>急需打白成员，白星出双船可找首席领神器提科技<br>旗舰捐款较多且常驻给高员，捐给旗舰1（30级以下先发展，不要透支自己）<br>白星出船q群找首席报名<br>活跃或白星立下战功晋升；刷屏、辱骂的立刻踢！<br>要提科技找首席，r4以下萌新凭红星截图到q群1004728724。黑名单:哈迪斯帝国
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>欢迎各位加入，为萌新提供各种不定期神器福利，&lt;br&gt;急需打白成员，白星出双船可找首席领神器提科技&lt;br&gt;旗舰捐款较多且常驻给高员，捐给旗舰1（30级以下先发展，不要透支自己）&lt;br&gt;白星出船q群找首席报名&lt;br&gt;活跃或白星立下战功晋升；刷屏、辱骂的立刻踢！&lt;br&gt;要提科技找首席，r4以下萌新凭红星截图到q群1004728724。黑名单:哈迪斯帝国</body></html>"></iframe>
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>欢迎各位加入，为萌新提供各种不定期神器福利，&lt;br&gt;急需打白成员，白星出双船可找首席领神器提科技&lt;br&gt;旗舰捐款较多且常驻给高员，捐给旗舰1（30级以下先发展，不要透支自己）&lt;br&gt;白星出船q群找首席报名&lt;br&gt;活跃或白星立下战功晋升；刷屏、辱骂的立刻踢！&lt;br&gt;要提科技找首席，r4以下萌新凭红星截图到q群1004728724。黑名单:哈迪斯帝国</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

@@ -10,16 +10,7 @@ date: 1725661259
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- Приветствуем всех новопришедших игроков, здесь вас ждут частые бз и помощь новичкам
-
-<color=red>Наш телеграм</color> 
-https://t.me/+k9Bv8nU9QW80NmFi
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>Приветствуем всех новопришедших игроков, здесь вас ждут частые бз и помощь новичкам
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>Приветствуем всех новопришедших игроков, здесь вас ждут частые бз и помощь новичкам
 
 <span style=&quot;color:red;&quot;>Наш телеграм</span> 
 https://t.me/+k9Bv8nU9QW80NmFi</body></html>"></iframe>

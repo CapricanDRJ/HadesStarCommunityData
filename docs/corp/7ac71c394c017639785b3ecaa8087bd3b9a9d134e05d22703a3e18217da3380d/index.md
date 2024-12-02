@@ -10,13 +10,7 @@ date: 1732290073
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- <b><size=60><color=#228b22>Welcome to Peace Keepers </color></size></b>  Peacefully collecting relics since 2018.                   😎 
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><strong>&lt;size=60&gt;<span style=&quot;color:#228b22;&quot;>Welcome to Peace Keepers </span>&lt;/size&gt;</strong>  Peacefully collecting relics since 2018.                   😎 </body></html>"></iframe>
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body><strong>&lt;size=60&gt;<span style=&quot;color:#228b22;&quot;>Welcome to Peace Keepers </span>&lt;/size&gt;</strong>  Peacefully collecting relics since 2018.                   😎 </body></html>"></iframe>
 
 ### [Discord](https://discord.gg/https://discord.gg/DCWPFARw)
 ### Whitestar Bonus ❌

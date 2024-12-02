@@ -10,13 +10,7 @@ date: 1727648220
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-
-
-```
- 欢迎大家的加入，入团考虑升干事。QQ： 985034854语言文明，不骂人，违者踢！严重者直接上黑名单。白星要求:经常上线，听从指挥。黑名单：［土土 ］不活跃踢，有事请假。欢迎捐旗舰。<size=700><color=red>集团睡觉了
-```
-
-<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>欢迎大家的加入，入团考虑升干事。QQ： 985034854语言文明，不骂人，违者踢！严重者直接上黑名单。白星要求:经常上线，听从指挥。黑名单：［土土 ］不活跃踢，有事请假。欢迎捐旗舰。&lt;size=700&gt;<span style=&quot;color:red;&quot;>集团睡觉了</body></html>"></iframe>
+<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>欢迎大家的加入，入团考虑升干事。QQ： 985034854语言文明，不骂人，违者踢！严重者直接上黑名单。白星要求:经常上线，听从指挥。黑名单：［土土 ］不活跃踢，有事请假。欢迎捐旗舰。&lt;size=700&gt;<span style=&quot;color:red;&quot;>集团睡觉了</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 
