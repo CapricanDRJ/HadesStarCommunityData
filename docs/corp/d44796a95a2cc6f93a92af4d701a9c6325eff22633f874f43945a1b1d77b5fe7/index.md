@@ -16,9 +16,12 @@ date: 1713796231
  We are one and never broken.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-We are one and never broken.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    We are one and never broken.
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

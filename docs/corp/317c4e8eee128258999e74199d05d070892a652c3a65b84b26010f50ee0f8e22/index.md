@@ -16,9 +16,12 @@ date: 1712942878
  War is hell.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-War is hell.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    War is hell.
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

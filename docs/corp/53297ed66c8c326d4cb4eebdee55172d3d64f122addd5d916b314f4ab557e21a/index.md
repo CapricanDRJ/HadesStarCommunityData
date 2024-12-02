@@ -16,9 +16,12 @@ date: 1732577909
  지금껏 경험하지 못한 짜릿한 모험! 9번째 행성에서 즐거움이 가득한 여행을 떠나보세요. Communication-koreakitty
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-지금껏 경험하지 못한 짜릿한 모험! 9번째 행성에서 즐거움이 가득한 여행을 떠나보세요. Communication-koreakitty
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    지금껏 경험하지 못한 짜릿한 모험! 9번째 행성에서 즐거움이 가득한 여행을 떠나보세요. Communication-koreakitty
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/ )
 ### Whitestar Bonus ✅

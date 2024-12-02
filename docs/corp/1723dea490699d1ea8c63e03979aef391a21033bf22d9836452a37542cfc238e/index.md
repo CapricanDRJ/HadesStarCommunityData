@@ -16,9 +16,12 @@ date: 1720075517
  <b><size=90><color=white>Soul System</color></size></b><br>Beneath the stars our souls take flight. In the cosmic night. For in the star dust we are born our souls woven from light. RS and WS focused.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;b&gt;&lt;size=90&gt;<span style="color:white;">Soul System</span>&lt;/size&gt;&lt;/b&gt;&lt;br&gt;Beneath the stars our souls take flight. In the cosmic night. For in the star dust we are born our souls woven from light. RS and WS focused.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <b><size=90><span style="color:white;">Soul System</span></size></b><br>Beneath the stars our souls take flight. In the cosmic night. For in the star dust we are born our souls woven from light. RS and WS focused.
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/KJX7wvq9AC)
 ### Whitestar Bonus ❌

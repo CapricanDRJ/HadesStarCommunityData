@@ -16,9 +16,12 @@ date: 1709068832
  After Dark Nebula, we're trying to figure it out and rebuilding.  Join the gang, looking for active players. https://discord.com/invite/NFyP4WnNqW
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-After Dark Nebula, we're trying to figure it out and rebuilding.  Join the gang, looking for active players. https://discord.com/invite/NFyP4WnNqW
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    After Dark Nebula, we're trying to figure it out and rebuilding.  Join the gang, looking for active players. https://discord.com/invite/NFyP4WnNqW
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

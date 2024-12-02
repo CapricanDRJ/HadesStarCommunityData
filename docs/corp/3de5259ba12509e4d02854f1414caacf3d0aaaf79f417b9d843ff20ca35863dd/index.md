@@ -16,9 +16,12 @@ date: 1732630187
  Discord and at least monthly WS participation required. Part of the multi-corp group, Astral Alliance https://discord.gg/gdwqCqc2VN
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Discord and at least monthly WS participation required. Part of the multi-corp group, Astral Alliance https://discord.gg/gdwqCqc2VN
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Discord and at least monthly WS participation required. Part of the multi-corp group, Astral Alliance https://discord.gg/gdwqCqc2VN
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/gdwqCqc2VN)
 ### Whitestar Bonus ✅

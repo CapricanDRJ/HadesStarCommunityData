@@ -16,9 +16,12 @@ date: 1733035855
  The sunset of the dying star was covered in drops of mercury.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-The sunset of the dying star was covered in drops of mercury.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    The sunset of the dying star was covered in drops of mercury.
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/hnywHXhtg5)
 ### Whitestar Bonus ✅

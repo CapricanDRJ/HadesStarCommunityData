@@ -16,9 +16,12 @@ date: 1701407467
  <b><color=yellow>主盟：<i>星环-星际联盟</i>
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;b&gt;<span style="color:yellow;">主盟：&lt;i&gt;星环-星际联盟&lt;/i&gt;
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <b><span style="color:yellow;">主盟：<i>星环-星际联盟</i>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

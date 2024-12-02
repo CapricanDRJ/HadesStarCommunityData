@@ -16,9 +16,12 @@ date: 1730956412
  Welcome my corporation the task its a simple a destory cerberus ship and destory cerberus base have fun yeah :) we didnt have discord. <#FF0000> we are in weak corporation and needs fixed
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Welcome my corporation the task its a simple a destory cerberus ship and destory cerberus base have fun yeah :) we didnt have discord. &lt;#FF0000&gt; we are in weak corporation and needs fixed
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Welcome my corporation the task its a simple a destory cerberus ship and destory cerberus base have fun yeah :) we didnt have discord. <#FF0000> we are in weak corporation and needs fixed
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/Discord)
 ### Whitestar Bonus ❌

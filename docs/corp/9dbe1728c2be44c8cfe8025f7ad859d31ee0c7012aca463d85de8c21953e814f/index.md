@@ -16,9 +16,12 @@ date: 1728719053
  Arrogant people are not allowed to enter.傲慢者禁止入内 （2024.10.1）
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Arrogant people are not allowed to enter.傲慢者禁止入内 （2024.10.1）
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Arrogant people are not allowed to enter.傲慢者禁止入内 （2024.10.1）
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

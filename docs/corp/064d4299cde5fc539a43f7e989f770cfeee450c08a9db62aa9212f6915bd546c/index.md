@@ -17,10 +17,13 @@ date: 1729169549
 자유롭게 놉시다
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-직딩 환영
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    직딩 환영
 자유롭게 놉시다
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

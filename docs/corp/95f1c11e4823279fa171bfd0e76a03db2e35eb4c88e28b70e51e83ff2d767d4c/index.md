@@ -16,9 +16,12 @@ date: 1700708523
  Buenos gente, estas corporación esta demasiada inactiva vamos intentar estar mas activos poreso esque aveses perdemos en las EB mas activos ay que hacer una comunidad activa gente; nuestra alianza F.V
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Buenos gente, estas corporación esta demasiada inactiva vamos intentar estar mas activos poreso esque aveses perdemos en las EB mas activos ay que hacer una comunidad activa gente; nuestra alianza F.V
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Buenos gente, estas corporación esta demasiada inactiva vamos intentar estar mas activos poreso esque aveses perdemos en las EB mas activos ay que hacer una comunidad activa gente; nuestra alianza F.V
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

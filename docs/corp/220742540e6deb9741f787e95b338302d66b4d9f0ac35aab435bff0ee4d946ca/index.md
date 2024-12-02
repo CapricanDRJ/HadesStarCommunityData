@@ -16,9 +16,12 @@ date: 1718361537
  a corporation
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-a corporation
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    a corporation
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

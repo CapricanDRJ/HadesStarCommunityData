@@ -16,9 +16,12 @@ date: 1732995596
  Subsidiary of the Titans Ф Terror   •Active Players welcome• Find more Infos on Discord or at: hadestitans.com 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Subsidiary of the Titans Ф Terror   •Active Players welcome• Find more Infos on Discord or at: hadestitans.com 
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Subsidiary of the Titans Ф Terror   •Active Players welcome• Find more Infos on Discord or at: hadestitans.com 
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/YPC7XenfdY)
 ### Whitestar Bonus ✅

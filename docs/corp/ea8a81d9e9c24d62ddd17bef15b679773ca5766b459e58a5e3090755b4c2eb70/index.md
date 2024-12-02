@@ -20,13 +20,16 @@ rejoignez nous sur discord: https://discord.gg/SBBXmQ9
 "Vers l'infini et l'otter space !"
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Ouvert dans l'entraide et la bonne humeur à tous les joueurs occasionnels comme pour les plus actifs.
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Ouvert dans l'entraide et la bonne humeur à tous les joueurs occasionnels comme pour les plus actifs.
 
 rejoignez nous sur discord: https://discord.gg/SBBXmQ9
 
 "Vers l'infini et l'otter space !"
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

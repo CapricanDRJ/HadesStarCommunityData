@@ -16,9 +16,12 @@ date: 1721723333
  Dissolution or overhauling soon.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Dissolution or overhauling soon.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Dissolution or overhauling soon.
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

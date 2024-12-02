@@ -23,8 +23,9 @@ date: 1700458875
 открыт набор новых игроков
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-От игроков:
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    От игроков:
 активная игра и взаимопомощь в боях на КЗ!
 Состоять в ТГ(обращаться @DeStroyerOfGalaxy)
 при участии на БЗ высокий онлайн
@@ -32,7 +33,9 @@ date: 1700458875
 частные КЗ 7-9
 и БЗ 
 открыт набор новых игроков
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

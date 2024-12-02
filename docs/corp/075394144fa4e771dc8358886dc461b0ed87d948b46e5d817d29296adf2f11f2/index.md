@@ -16,9 +16,12 @@ date: 1731316706
  БУДУ РАД ВСЕМ.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-БУДУ РАД ВСЕМ.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    БУДУ РАД ВСЕМ.
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

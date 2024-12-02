@@ -16,9 +16,12 @@ date: 1711051078
  帝国的强盛由成员们缔造The strength of the empire is created by its members！招人打白，帝国分部帝森舰队已建立，帝国满员后可以去往分部
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-帝国的强盛由成员们缔造The strength of the empire is created by its members！招人打白，帝国分部帝森舰队已建立，帝国满员后可以去往分部
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    帝国的强盛由成员们缔造The strength of the empire is created by its members！招人打白，帝国分部帝森舰队已建立，帝国满员后可以去往分部
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

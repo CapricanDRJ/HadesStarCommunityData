@@ -21,14 +21,17 @@ date: 1700725519
 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-<span style="color:red;">░▄▄▄▄░
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <span style="color:red;">░▄▄▄▄░
 ▀▀▄██►
 ▀▀███►
 ░▀███►░█►
 ▒▄████▀▀</span>
 
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

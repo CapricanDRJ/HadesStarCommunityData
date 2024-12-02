@@ -22,15 +22,18 @@ https://discord.gg/Xt8tjjGdRD
 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-We are a supportive and interactive Corporation.
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    We are a supportive and interactive Corporation.
 
 We are also helpful and very active doing Red Stars and White Stars frequently. 
 
 Please join our Discord Server 
 https://discord.gg/Xt8tjjGdRD
 
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/Xt8tjjGdRD)
 ### Whitestar Bonus ❌

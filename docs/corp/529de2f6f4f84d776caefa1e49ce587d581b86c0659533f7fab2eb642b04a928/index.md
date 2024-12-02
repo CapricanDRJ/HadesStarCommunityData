@@ -16,9 +16,12 @@ date: 1732788242
  Notfallstandort der Quin Armarda
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Notfallstandort der Quin Armarda
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Notfallstandort der Quin Armarda
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

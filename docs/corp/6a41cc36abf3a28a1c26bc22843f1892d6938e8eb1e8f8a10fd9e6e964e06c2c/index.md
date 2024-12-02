@@ -16,9 +16,12 @@ date: 1725512501
  Station für einsame Piloten, lasst uns gemeinsam stillschweigend chillen.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Station für einsame Piloten, lasst uns gemeinsam stillschweigend chillen.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Station für einsame Piloten, lasst uns gemeinsam stillschweigend chillen.
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/tJfbtQjcxg)
 ### Whitestar Bonus ❌

@@ -16,9 +16,12 @@ date: 1732995897
  <b><color="yellow"><size=80>Corp. Estelar | Axolotls</size></color></b><b><br>Únanse al grupo de Whatsapp +569 8804 5954</b>
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;b&gt;<span style="color:"yellow";">&lt;size=80&gt;Corp. Estelar | Axolotls&lt;/size&gt;</span>&lt;/b&gt;&lt;b&gt;&lt;br&gt;Únanse al grupo de Whatsapp +569 8804 5954&lt;/b&gt;
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <b><span style="color:"yellow";"><size=80>Corp. Estelar | Axolotls</size></span></b><b><br>Únanse al grupo de Whatsapp +569 8804 5954</b>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ✅
 

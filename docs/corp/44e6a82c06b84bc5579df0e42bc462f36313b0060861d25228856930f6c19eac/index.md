@@ -16,9 +16,12 @@ date: 1733114281
  Todoas las personas que puedan hablar español esta permitido aqui nos cuidamos como familia,  si no se conecta en 30 dias seran expulsados
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Todoas las personas que puedan hablar español esta permitido aqui nos cuidamos como familia,  si no se conecta en 30 dias seran expulsados
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Todoas las personas que puedan hablar español esta permitido aqui nos cuidamos como familia,  si no se conecta en 30 dias seran expulsados
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

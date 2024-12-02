@@ -18,11 +18,14 @@ date: 1733138918
 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-<span style="color:#6495ED;">Telegram</span> t.me/hs_111_reunion
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <span style="color:#6495ED;">Telegram</span> t.me/hs_111_reunion
 Ники пустые или без кирилических, латинских символов недопускаются
 
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ✅
 

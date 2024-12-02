@@ -16,9 +16,12 @@ date: 1711536025
  Corp tranquila de habla hispana. NO hacemos envíos a otros jugadores. Interesados en las estrellas blancas. Echamos a las personas sin actividad, dependiendo del nivel. Disfrutenla discord.gg/WfG8AGP
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Corp tranquila de habla hispana. NO hacemos envíos a otros jugadores. Interesados en las estrellas blancas. Echamos a las personas sin actividad, dependiendo del nivel. Disfrutenla discord.gg/WfG8AGP
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Corp tranquila de habla hispana. NO hacemos envíos a otros jugadores. Interesados en las estrellas blancas. Echamos a las personas sin actividad, dependiendo del nivel. Disfrutenla discord.gg/WfG8AGP
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

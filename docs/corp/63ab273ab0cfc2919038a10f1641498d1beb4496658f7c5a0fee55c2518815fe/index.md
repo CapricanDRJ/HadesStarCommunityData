@@ -21,14 +21,17 @@ date: 1700612819
 Discord required for WS: pQVwk7J
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-The Crazy Chickens
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    The Crazy Chickens
 
 * We do Red Stars 8-10
 * WS runs weekly 
 * We help new players with tips, tricks and arts if needed
 Discord required for WS: pQVwk7J
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

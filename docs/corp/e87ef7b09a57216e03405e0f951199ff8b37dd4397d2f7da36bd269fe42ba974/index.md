@@ -19,12 +19,15 @@ Lien de notre Discord : https://discord.gg/vs3fGvzkap
 Merci Halkyr
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Corporation pour tous les francophones.
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Corporation pour tous les francophones.
 Aide pour les nouveaux joueurs, déconne et apéro sur une étoile rouge.
 Lien de notre Discord : https://discord.gg/vs3fGvzkap
 Merci Halkyr
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

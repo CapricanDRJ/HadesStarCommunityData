@@ -20,13 +20,16 @@ And a bit of 100% offensive ships
 Discord: <color=orange>YFwYKNHhCr</color>
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-With a bit of kidnapping
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    With a bit of kidnapping
 And a bit of dd bombing
 And a bit of 100% offensive ships
 
 Discord: <span style="color:orange;">YFwYKNHhCr</span>
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/YFwYKNHhCr)
 ### Whitestar Bonus ❌

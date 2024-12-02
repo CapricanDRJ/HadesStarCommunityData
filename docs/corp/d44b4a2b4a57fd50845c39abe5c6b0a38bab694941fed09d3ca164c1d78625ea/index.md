@@ -16,9 +16,12 @@ date: 1733034654
  Korporacja otwarta na współpracę i miłą zabawę. Szczególne nastawienie na WS.  RS 4-10  »Regularne WS«  PL&EN ... Chcesz dołączyć? Rekrutacja odbywa się poprzez nasz kanał Discord.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Korporacja otwarta na współpracę i miłą zabawę. Szczególne nastawienie na WS.  RS 4-10  »Regularne WS«  PL&EN ... Chcesz dołączyć? Rekrutacja odbywa się poprzez nasz kanał Discord.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Korporacja otwarta na współpracę i miłą zabawę. Szczególne nastawienie na WS.  RS 4-10  »Regularne WS«  PL&EN ... Chcesz dołączyć? Rekrutacja odbywa się poprzez nasz kanał Discord.
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/aWeFFra2B7)
 ### Whitestar Bonus ❌

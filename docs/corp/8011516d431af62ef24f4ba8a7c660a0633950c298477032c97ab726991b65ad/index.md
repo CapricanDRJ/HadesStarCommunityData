@@ -16,9 +16,12 @@ date: 1722430732
  due to lack of contact with 1st officer, we recommend leaving this corp. You are most welcome to join the new corp: QONQR (all letters upper case). Thank you :)
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-due to lack of contact with 1st officer, we recommend leaving this corp. You are most welcome to join the new corp: QONQR (all letters upper case). Thank you :)
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    due to lack of contact with 1st officer, we recommend leaving this corp. You are most welcome to join the new corp: QONQR (all letters upper case). Thank you :)
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

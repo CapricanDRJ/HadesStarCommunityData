@@ -16,9 +16,12 @@ date: 1732467328
  N'hésitez pas à venir discuter ou poser vos questions 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-N'hésitez pas à venir discuter ou poser vos questions 
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    N'hésitez pas à venir discuter ou poser vos questions 
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

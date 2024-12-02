@@ -16,9 +16,12 @@ date: 1714044555
  <b>Proud member of the UIH!</b>                                              Discord is mandatory!                                           Visit on Discord to join: discord.gg/vPsNNxs
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;b&gt;Proud member of the UIH!&lt;/b&gt;                                              Discord is mandatory!                                           Visit on Discord to join: discord.gg/vPsNNxs
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <b>Proud member of the UIH!</b>                                              Discord is mandatory!                                           Visit on Discord to join: discord.gg/vPsNNxs
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/vPsNNxs)
 ### Whitestar Bonus ❌

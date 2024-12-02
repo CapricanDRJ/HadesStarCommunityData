@@ -19,12 +19,15 @@ date: 1725661259
 https://t.me/+k9Bv8nU9QW80NmFi
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Приветствуем всех новопришедших игроков, здесь вас ждут частые бз и помощь новичкам
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Приветствуем всех новопришедших игроков, здесь вас ждут частые бз и помощь новичкам
 
 <span style="color:red;">Наш телеграм</span> 
 https://t.me/+k9Bv8nU9QW80NmFi
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

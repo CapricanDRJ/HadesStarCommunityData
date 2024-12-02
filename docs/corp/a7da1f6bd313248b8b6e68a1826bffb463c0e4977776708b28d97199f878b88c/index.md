@@ -18,11 +18,14 @@ date: 1732668652
 White star participation is only for those in the discord. No exceptions.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Welcome to the Syndicate! After conquering the economy in SimCompanies, its time to corporatize the galaxy!
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Welcome to the Syndicate! After conquering the economy in SimCompanies, its time to corporatize the galaxy!
 
 White star participation is only for those in the discord. No exceptions.
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/B3N5by8zUb)
 ### Whitestar Bonus ✅

@@ -16,9 +16,12 @@ date: 1699715904
  inaktiv <3
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-inaktiv &lt;3
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    inaktiv <3
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

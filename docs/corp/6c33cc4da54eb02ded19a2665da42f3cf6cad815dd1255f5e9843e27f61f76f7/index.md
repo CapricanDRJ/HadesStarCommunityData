@@ -16,9 +16,12 @@ date: 1716684601
  <color=red><size=60>Los Titanes resurgen de las tinieblas para conquistar el universo de Hades, junto a axolotls. <color=white><size=50>unete a nuestra corp y se uno más de lo conquistadores estelares
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-<span style="color:red;">&lt;size=60&gt;Los Titanes resurgen de las tinieblas para conquistar el universo de Hades, junto a axolotls. <span style="color:white;">&lt;size=50&gt;unete a nuestra corp y se uno más de lo conquistadores estelares
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <span style="color:red;"><size=60>Los Titanes resurgen de las tinieblas para conquistar el universo de Hades, junto a axolotls. <span style="color:white;"><size=50>unete a nuestra corp y se uno más de lo conquistadores estelares
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/https://discord.com/invite/5NHd4pYU)
 ### Whitestar Bonus ❌

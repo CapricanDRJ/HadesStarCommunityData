@@ -16,9 +16,12 @@ date: 1700513339
   I'm really sorry for you guys being forced out of the company you strengthened. I will keep it instead of deleting it. Maybe I will come back. Then I will open the company again. Thank you.bay
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
- I'm really sorry for you guys being forced out of the company you strengthened. I will keep it instead of deleting it. Maybe I will come back. Then I will open the company again. Thank you.bay
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+     I'm really sorry for you guys being forced out of the company you strengthened. I will keep it instead of deleting it. Maybe I will come back. Then I will open the company again. Thank you.bay
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

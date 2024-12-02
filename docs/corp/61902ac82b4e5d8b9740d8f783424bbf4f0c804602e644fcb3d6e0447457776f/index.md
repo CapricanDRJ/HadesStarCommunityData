@@ -16,9 +16,12 @@ date: 1732905148
  Have 401 K, dental, 0 days off, plenty of overtime, child labor recommended, & remember you are expendable, we love you
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Have 401 K, dental, 0 days off, plenty of overtime, child labor recommended, & remember you are expendable, we love you
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Have 401 K, dental, 0 days off, plenty of overtime, child labor recommended, & remember you are expendable, we love you
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ✅
 

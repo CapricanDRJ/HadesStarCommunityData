@@ -16,9 +16,12 @@ date: 1729726168
  Looking for active playerz to compete in white stars 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Looking for active playerz to compete in white stars 
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Looking for active playerz to compete in white stars 
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

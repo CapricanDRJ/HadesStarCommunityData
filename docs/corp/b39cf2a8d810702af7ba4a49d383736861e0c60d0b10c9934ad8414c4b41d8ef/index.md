@@ -16,9 +16,12 @@ date: 1727022215
  Корпорация твинов
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Корпорация твинов
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Корпорация твинов
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

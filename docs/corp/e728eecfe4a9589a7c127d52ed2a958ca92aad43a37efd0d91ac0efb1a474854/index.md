@@ -18,11 +18,14 @@ Ugyanitt bojler eladó
 Discord:</color> <color=#a4fc4c>9SyrBAt</color>
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-<span style="color:#ffffee;">&lt;size=75&gt;Várunk sok szerettel minden Újoncot tapasztalat szerzésre, Tapasztaltakat WS-re!&lt;/size&gt;
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <span style="color:#ffffee;"><size=75>Várunk sok szerettel minden Újoncot tapasztalat szerzésre, Tapasztaltakat WS-re!</size>
 Ugyanitt bojler eladó
 Discord:</span> <span style="color:#a4fc4c;">9SyrBAt</span>
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/9SyrBAt)
 ### Whitestar Bonus ❌

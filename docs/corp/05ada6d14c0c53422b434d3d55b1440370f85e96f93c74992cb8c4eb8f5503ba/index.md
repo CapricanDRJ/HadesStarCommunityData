@@ -16,9 +16,12 @@ date: 1733154848
  Level 8, 9, and 10 artifacts available to all who join!  White Star participation appreciated.                            No experience required. We can help speed your progress :)
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Level 8, 9, and 10 artifacts available to all who join!  White Star participation appreciated.                            No experience required. We can help speed your progress :)
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Level 8, 9, and 10 artifacts available to all who join!  White Star participation appreciated.                            No experience required. We can help speed your progress :)
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/https://discord.gg/7cD2V9vm)
 ### Whitestar Bonus ✅

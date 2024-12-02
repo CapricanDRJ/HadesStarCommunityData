@@ -24,17 +24,20 @@ date: 1733123896
 Discord mandatory.  <b>EEpZuWf</b>
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-<span style="color:#11806a;">Competitive member corp of the&lt;b&gt; Spacefleet Alliance&lt;/b&gt;</span>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <span style="color:#11806a;">Competitive member corp of the<b> Spacefleet Alliance</b></span>
 
 
-•Coordinated &lt;b&gt;RS 8-10&lt;/b&gt;
+•Coordinated <b>RS 8-10</b>
 •Weekly WS
 •Active community
 
 
-Discord mandatory.  &lt;b&gt;EEpZuWf&lt;/b&gt;
-</div>
+Discord mandatory.  <b>EEpZuWf</b>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/EEpZuWf)
 ### Whitestar Bonus ❌

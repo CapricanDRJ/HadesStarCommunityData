@@ -16,9 +16,12 @@ date: 1722149758
  Мы едины
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Мы едины
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Мы едины
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

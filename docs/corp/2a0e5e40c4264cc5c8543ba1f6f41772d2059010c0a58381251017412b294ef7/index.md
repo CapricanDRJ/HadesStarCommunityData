@@ -16,9 +16,12 @@ date: 1733065905
  华夏三体舰队分团，也是红活专用团。欢迎加入。本团为北极星联盟成员团，常驻送神器。首席tianyayx/北星。加首席微信进群，QQ981445723 黑名单：black star。Chinese Trimaran Fleet Division, welcome to join，Resident gift artifact
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-华夏三体舰队分团，也是红活专用团。欢迎加入。本团为北极星联盟成员团，常驻送神器。首席tianyayx/北星。加首席微信进群，QQ981445723 黑名单：black star。Chinese Trimaran Fleet Division, welcome to join，Resident gift artifact
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    华夏三体舰队分团，也是红活专用团。欢迎加入。本团为北极星联盟成员团，常驻送神器。首席tianyayx/北星。加首席微信进群，QQ981445723 黑名单：black star。Chinese Trimaran Fleet Division, welcome to join，Resident gift artifact
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ✅
 

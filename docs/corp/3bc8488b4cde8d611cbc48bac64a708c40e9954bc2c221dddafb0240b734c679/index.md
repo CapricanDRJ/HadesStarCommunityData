@@ -21,14 +21,17 @@ Kommunikation über <b>Discord</b>:
 <color=#3ffecb>Code: SUVSGGYGz2</color>
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;b&gt;&lt;size=80&gt;<span style="color:#3ffecb;">Tartaros Armada</span>&lt;/size&gt;&lt;/b&gt;
-- Täglich &lt;b&gt;bis RR10&lt;/b&gt;
-- Regelmäßig &lt;b&gt;WZ 10vs10&lt;/b&gt;
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <b><size=80><span style="color:#3ffecb;">Tartaros Armada</span></size></b>
+- Täglich <b>bis RR10</b>
+- Regelmäßig <b>WZ 10vs10</b>
 
-Kommunikation über &lt;b&gt;Discord&lt;/b&gt;:
+Kommunikation über <b>Discord</b>:
 <span style="color:#3ffecb;">Code: SUVSGGYGz2</span>
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

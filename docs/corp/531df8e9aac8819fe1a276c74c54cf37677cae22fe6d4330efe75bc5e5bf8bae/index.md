@@ -20,13 +20,16 @@ Unimatrix 1 of the Borg collective
 BorgHadesStar.reddit.com
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-We are the Borg, You will be assimilated, Resistance is futile.
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    We are the Borg, You will be assimilated, Resistance is futile.
 
 Unimatrix 1 of the Borg collective 
 
 BorgHadesStar.reddit.com
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

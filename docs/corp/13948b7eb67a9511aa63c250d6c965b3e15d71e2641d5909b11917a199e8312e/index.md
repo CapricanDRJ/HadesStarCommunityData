@@ -21,14 +21,17 @@ Alianza de Corporaciones
 AXOLOTLS
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Escriban a cualquiera de los dos número para entrar al grupo de whatsapp. Es de carácter obligatorio...
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Escriban a cualquiera de los dos número para entrar al grupo de whatsapp. Es de carácter obligatorio...
 +573107233868 (1)
 +584247543714 [2]
 
 Alianza de Corporaciones
 AXOLOTLS
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/https://discord.com/invite/PsVdr8kd)
 ### Whitestar Bonus ❌

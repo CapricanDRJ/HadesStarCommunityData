@@ -16,9 +16,12 @@ date: 1701146101
  Sistema imperial é uma corp recem criada que pretende ser uma das melhores
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Sistema imperial é uma corp recem criada que pretende ser uma das melhores
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Sistema imperial é uma corp recem criada que pretende ser uma das melhores
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

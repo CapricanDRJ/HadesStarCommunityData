@@ -27,8 +27,9 @@ ser ativo
 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Nova corporação!!! nós pensamos nas melhores formas de desenvolver nossa corporação.
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Nova corporação!!! nós pensamos nas melhores formas de desenvolver nossa corporação.
 
 Ws toda semana
 
@@ -40,7 +41,9 @@ ser ativo
 
 
 
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

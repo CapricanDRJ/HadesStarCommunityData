@@ -16,9 +16,12 @@ date: 1732969147
  • Join an <b>ACTIVE and FUN</b> Community. DISCORD REQUIRED
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-• Join an &lt;b&gt;ACTIVE and FUN&lt;/b&gt; Community. DISCORD REQUIRED
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    • Join an <b>ACTIVE and FUN</b> Community. DISCORD REQUIRED
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/EnduRy84t7)
 ### Whitestar Bonus ✅

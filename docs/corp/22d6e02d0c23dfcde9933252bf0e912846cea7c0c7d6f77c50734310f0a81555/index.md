@@ -18,11 +18,14 @@ All I require is you be active and positive
 No bullying 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Welcome 
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Welcome 
 All I require is you be active and positive 
 No bullying 
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

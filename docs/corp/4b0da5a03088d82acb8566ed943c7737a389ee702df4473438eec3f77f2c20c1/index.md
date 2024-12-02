@@ -16,9 +16,12 @@ date: 1726810042
  <b><color=#00FF9F>Λ<color=yellow>V</color></color><color=white>梨山养老院</color></b>欢迎各位大佬及萌新加入养老,神器福利全送出!r4r5神器颜色任选！<size=100><color=yellow>允许捐旗舰!</color></size>              创立于8月1日
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;b&gt;<span style="color:#00FF9F;">Λ<span style="color:yellow;">V</span></span><span style="color:white;">梨山养老院</span>&lt;/b&gt;欢迎各位大佬及萌新加入养老,神器福利全送出!r4r5神器颜色任选！&lt;size=100&gt;<span style="color:yellow;">允许捐旗舰!</span>&lt;/size&gt;              创立于8月1日
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <b><span style="color:#00FF9F;">Λ<span style="color:yellow;">V</span></span><span style="color:white;">梨山养老院</span></b>欢迎各位大佬及萌新加入养老,神器福利全送出!r4r5神器颜色任选！<size=100><span style="color:yellow;">允许捐旗舰!</span></size>              创立于8月1日
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/lsyly)
 ### Whitestar Bonus ❌

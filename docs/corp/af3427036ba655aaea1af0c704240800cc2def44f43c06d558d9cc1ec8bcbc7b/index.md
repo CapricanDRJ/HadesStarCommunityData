@@ -16,9 +16,12 @@ date: 1732698392
  <b><color="red">The Dark Legion is an international corporation of mercenaries available for hire on white stars |Черный Легион- международная корпорация наемников, доступная для найма на белые звезды
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;b&gt;<span style="color:"red";">The Dark Legion is an international corporation of mercenaries available for hire on white stars |Черный Легион- международная корпорация наемников, доступная для найма на белые звезды
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <b><span style="color:"red";">The Dark Legion is an international corporation of mercenaries available for hire on white stars |Черный Легион- международная корпорация наемников, доступная для найма на белые звезды
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/https://discord.com/invite/72dm5dqT)
 ### Whitestar Bonus ✅

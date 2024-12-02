@@ -16,9 +16,12 @@ date: 1728233709
  We are Astrium Reborn! Looking for casual players who want to run semi-regular WS and RS! 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-We are Astrium Reborn! Looking for casual players who want to run semi-regular WS and RS! 
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    We are Astrium Reborn! Looking for casual players who want to run semi-regular WS and RS! 
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/2tvBA63)
 ### Whitestar Bonus ❌

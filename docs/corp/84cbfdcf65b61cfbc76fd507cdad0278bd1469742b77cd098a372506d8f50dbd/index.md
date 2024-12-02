@@ -16,9 +16,12 @@ date: 1716917436
  New and old welcome have fun discord is.     http://discord.com/invite/38UnuWwp
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-New and old welcome have fun discord is.     http://discord.com/invite/38UnuWwp
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    New and old welcome have fun discord is.     http://discord.com/invite/38UnuWwp
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

@@ -16,9 +16,12 @@ date: 1733140420
  Just log in and play once per day.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Just log in and play once per day.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Just log in and play once per day.
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/pTS382n7ZR)
 ### Whitestar Bonus ✅

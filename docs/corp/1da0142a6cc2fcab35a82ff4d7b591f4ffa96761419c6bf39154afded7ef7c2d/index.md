@@ -18,11 +18,14 @@ date: 1733036935
 Ni retirada ni rendicion 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Alianza: axolotls 
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Alianza: axolotls 
 
 Ni retirada ni rendicion 
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ✅
 

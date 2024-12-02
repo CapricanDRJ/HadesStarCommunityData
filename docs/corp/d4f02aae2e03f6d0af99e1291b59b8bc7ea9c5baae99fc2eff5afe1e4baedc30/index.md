@@ -16,9 +16,12 @@ date: 1732677063
  欢迎加入 【日月星辰】:定期开 白星，不定期送神器9、10、11。                                                             <#00FF00>QQ群：910734770                                                         <#00RFFF>尽量进群，方便沟通
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-欢迎加入 【日月星辰】:定期开 白星，不定期送神器9、10、11。                                                             &lt;#00FF00&gt;QQ群：910734770                                                         &lt;#00RFFF&gt;尽量进群，方便沟通
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    欢迎加入 【日月星辰】:定期开 白星，不定期送神器9、10、11。                                                             <#00FF00>QQ群：910734770                                                         <#00RFFF>尽量进群，方便沟通
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

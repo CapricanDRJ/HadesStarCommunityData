@@ -16,9 +16,12 @@ date: 1714980024
  Eating bananas, tossing feces, and howling at passers-by. Like normal monkeys, but in space.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Eating bananas, tossing feces, and howling at passers-by. Like normal monkeys, but in space.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Eating bananas, tossing feces, and howling at passers-by. Like normal monkeys, but in space.
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

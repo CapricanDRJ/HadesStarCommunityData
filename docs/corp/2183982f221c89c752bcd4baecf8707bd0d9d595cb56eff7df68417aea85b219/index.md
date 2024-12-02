@@ -18,11 +18,14 @@ date: 1700537357
 White Star scanner owner is promoted to seniour member.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-ホワイトスターを持つ方をシニアに、一部をオフィサーに昇格させます。オフィサーはホワイトスタースキャンを起動できます。
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    ホワイトスターを持つ方をシニアに、一部をオフィサーに昇格させます。オフィサーはホワイトスタースキャンを起動できます。
 20日以上のログイン無しでキックします。リクエストで再入会可能です。
 White Star scanner owner is promoted to seniour member.
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

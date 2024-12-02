@@ -19,12 +19,15 @@ date: 1733135011
 Спілкуємося в ТГ, пишіть @AleshaSun, щоб додав до групи
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Вiдкрита всiм!)
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Вiдкрита всiм!)
 Допомога новачкам смачними артами, порадами, допомога в чз/тчз
 Регулярні бз в активному і веселому колективі
 Спілкуємося в ТГ, пишіть @AleshaSun, щоб додав до групи
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/dppJFm6)
 ### Whitestar Bonus ✅

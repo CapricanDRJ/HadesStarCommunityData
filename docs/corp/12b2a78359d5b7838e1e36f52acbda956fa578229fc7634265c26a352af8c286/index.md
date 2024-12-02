@@ -16,9 +16,12 @@ date: 1703593547
  Welcome to the Stargate Command. Now that we have defeated the Goa'uld, Replicators, and Wraith; let us explore the galaxy!
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Welcome to the Stargate Command. Now that we have defeated the Goa'uld, Replicators, and Wraith; let us explore the galaxy!
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Welcome to the Stargate Command. Now that we have defeated the Goa'uld, Replicators, and Wraith; let us explore the galaxy!
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

@@ -16,9 +16,12 @@ date: 1732190565
  Seja bem vindo, sinta-se em casa! Buscamos ajudar iniciantes e cuidar um do outro. Não há proibições, nem requisitos de idade, apenas que seja {Brasileiro} e online!
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Seja bem vindo, sinta-se em casa! Buscamos ajudar iniciantes e cuidar um do outro. Não há proibições, nem requisitos de idade, apenas que seja {Brasileiro} e online!
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Seja bem vindo, sinta-se em casa! Buscamos ajudar iniciantes e cuidar um do outro. Não há proibições, nem requisitos de idade, apenas que seja {Brasileiro} e online!
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

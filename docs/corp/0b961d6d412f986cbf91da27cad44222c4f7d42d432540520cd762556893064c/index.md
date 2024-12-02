@@ -21,14 +21,17 @@ date: 1699135307
    Main corp of the SPACE LEGENDS federation</color></size>
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;size=70&gt;&lt;b&gt;  
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <size=70><b>  
              SAILING FAST
       WHERE NO ONE DARES
 
-&lt;/b&gt;&lt;/size&gt;&lt;size=48&gt;
-   Main corp of the SPACE LEGENDS federation</span>&lt;/size&gt;
-</div>
+</b></size><size=48>
+   Main corp of the SPACE LEGENDS federation</span></size>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/63DZYSc)
 ### Whitestar Bonus ❌

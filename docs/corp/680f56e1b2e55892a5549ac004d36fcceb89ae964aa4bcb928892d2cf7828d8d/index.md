@@ -16,9 +16,12 @@ date: 1711309787
  A conclusion is simply where you stopped thinking. 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-A conclusion is simply where you stopped thinking. 
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    A conclusion is simply where you stopped thinking. 
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/https://discord.gg/t43HQep)
 ### Whitestar Bonus ❌

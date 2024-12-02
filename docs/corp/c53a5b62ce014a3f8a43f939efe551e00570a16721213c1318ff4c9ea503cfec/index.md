@@ -16,9 +16,12 @@ date: 1732424959
  Welcome to the clan, Steal what you can. Please join our Discord... No Discord No Entry
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Welcome to the clan, Steal what you can. Please join our Discord... No Discord No Entry
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Welcome to the clan, Steal what you can. Please join our Discord... No Discord No Entry
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/https://discord.gg/YyTC3Krh)
 ### Whitestar Bonus ❌

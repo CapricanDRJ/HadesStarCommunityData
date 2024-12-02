@@ -16,9 +16,12 @@ date: 1710487997
  esperanza
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-esperanza
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    esperanza
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

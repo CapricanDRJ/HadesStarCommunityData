@@ -18,11 +18,14 @@ date: 1723558871
 https://t.me/klrlo
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Ведем набор игроков.
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Ведем набор игроков.
 Помощь новичкам артефактами, кз.
 https://t.me/klrlo
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

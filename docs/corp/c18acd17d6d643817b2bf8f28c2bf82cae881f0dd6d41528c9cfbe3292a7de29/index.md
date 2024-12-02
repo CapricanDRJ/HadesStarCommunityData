@@ -16,9 +16,12 @@ date: 1710249718
  请移到另一个探索舰队谢谢
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-请移到另一个探索舰队谢谢
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    请移到另一个探索舰队谢谢
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

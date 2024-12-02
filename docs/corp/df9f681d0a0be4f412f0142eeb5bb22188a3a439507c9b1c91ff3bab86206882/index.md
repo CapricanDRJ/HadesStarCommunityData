@@ -30,8 +30,9 @@ date: 1709204477
 团主：姚银晓
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-欢迎来到盾牌座UY分团
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    欢迎来到盾牌座UY分团
 这里将是你在宇宙中最温暖的家
 主团盾牌座UY 萌新可以去主团
 分团主打白星，培育新人
@@ -46,7 +47,9 @@ date: 1709204477
 出售6级神器直接外交王子
 有事找:老六
 团主：姚银晓
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

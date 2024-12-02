@@ -16,9 +16,12 @@ date: 1732950217
  Активность!                                          Еженедельные БЗ (2 дня выходных).         Командные КЗ/МКЗ. Помощь как советами/гайдами, так и артефактами.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Активность!                                          Еженедельные БЗ (2 дня выходных).         Командные КЗ/МКЗ. Помощь как советами/гайдами, так и артефактами.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Активность!                                          Еженедельные БЗ (2 дня выходных).         Командные КЗ/МКЗ. Помощь как советами/гайдами, так и артефактами.
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/BzbFDrhy3x)
 ### Whitestar Bonus ✅

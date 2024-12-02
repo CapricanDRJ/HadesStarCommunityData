@@ -16,9 +16,12 @@ date: 1732820403
  Soldiers that never give up on the battlefield despite the odds. Great team atmosphere, regular white/red stars. Active  members join us https://discord.com/invite/rmzHUdXef7
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Soldiers that never give up on the battlefield despite the odds. Great team atmosphere, regular white/red stars. Active  members join us https://discord.com/invite/rmzHUdXef7
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Soldiers that never give up on the battlefield despite the odds. Great team atmosphere, regular white/red stars. Active  members join us https://discord.com/invite/rmzHUdXef7
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ✅
 

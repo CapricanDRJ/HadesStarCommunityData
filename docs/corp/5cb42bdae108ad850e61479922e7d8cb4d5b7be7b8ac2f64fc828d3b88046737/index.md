@@ -16,9 +16,12 @@ date: 1723051911
  旧群炸了，新群566708662
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-旧群炸了，新群566708662
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    旧群炸了，新群566708662
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

@@ -16,9 +16,12 @@ date: 1731223255
  <color=green>WELCOME TO NERF TOY'S </color> always looking for active players. <color=red>discord required https://discord.gg/C5HUwQdS <color=yellow>weekly WS's and daily Corp runs
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-<span style="color:green;">WELCOME TO NERF TOY'S </span> always looking for active players. <span style="color:red;">discord required https://discord.gg/C5HUwQdS <span style="color:yellow;">weekly WS's and daily Corp runs
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <span style="color:green;">WELCOME TO NERF TOY'S </span> always looking for active players. <span style="color:red;">discord required https://discord.gg/C5HUwQdS <span style="color:yellow;">weekly WS's and daily Corp runs
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/https://discord.gg/C5HUwQdS)
 ### Whitestar Bonus ❌

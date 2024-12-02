@@ -19,12 +19,15 @@ Join us.
 Discord: jQSj4w8CnP
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Welcome Arcadia Commander, come be part of a team.
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Welcome Arcadia Commander, come be part of a team.
 We will help you grow.
 Join us.
 Discord: jQSj4w8CnP
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

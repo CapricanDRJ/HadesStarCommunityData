@@ -16,9 +16,12 @@ date: 1708836120
  работа на кз. и кач кораблей по возможности делимся артами.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-работа на кз. и кач кораблей по возможности делимся артами.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    работа на кз. и кач кораблей по возможности делимся артами.
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/8YnzVpct)
 ### Whitestar Bonus ❌

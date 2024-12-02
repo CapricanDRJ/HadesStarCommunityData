@@ -18,11 +18,14 @@ date: 1730959416
 3. keine fusion oder änlinches!!!
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-1. Jeder spielt wann er will.
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    1. Jeder spielt wann er will.
 2. Am Monatsende wird ein Aktivitätscheck durchgeführt!
 3. keine fusion oder änlinches!!!
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

@@ -16,9 +16,12 @@ date: 1699198575
  Андреас, ты чего набалансил
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Андреас, ты чего набалансил
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Андреас, ты чего набалансил
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/U7aUhD3SRw)
 ### Whitestar Bonus ❌

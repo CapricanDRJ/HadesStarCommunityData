@@ -16,9 +16,12 @@ date: 1728453688
  Bienvenido/a a la     organización espacial multiestelar, tenemos discord 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Bienvenido/a a la     organización espacial multiestelar, tenemos discord 
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Bienvenido/a a la     organización espacial multiestelar, tenemos discord 
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/https://discord.com/invite/bRJjJ7Xr6p)
 ### Whitestar Bonus ❌

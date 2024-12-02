@@ -16,9 +16,12 @@ date: 1732674359
  que onda prrotes, yo soy Joryaguer97 y bienvenidos a la Corporación UNSC
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-que onda prrotes, yo soy Joryaguer97 y bienvenidos a la Corporación UNSC
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    que onda prrotes, yo soy Joryaguer97 y bienvenidos a la Corporación UNSC
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

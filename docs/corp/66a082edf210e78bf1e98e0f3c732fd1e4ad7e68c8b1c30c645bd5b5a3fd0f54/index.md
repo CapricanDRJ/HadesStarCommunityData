@@ -18,11 +18,14 @@ date: 1703791867
 https://discord.gg/7KGYvMbPgK
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-An &lt;size=100&gt;English&lt;/size&gt; speaking, independent, &lt;size=200&gt;<span style="color:white;">&lt;b&gt;White-Star&lt;/b&gt;</span>&lt;/size&gt; corp with very &lt;size=100&gt;&lt;i&gt;weird standards&lt;/i&gt;&lt;/size&gt;.
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    An <size=100>English</size> speaking, independent, <size=200><span style="color:white;"><b>White-Star</b></span></size> corp with very <size=100><i>weird standards</i></size>.
 
 https://discord.gg/7KGYvMbPgK
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

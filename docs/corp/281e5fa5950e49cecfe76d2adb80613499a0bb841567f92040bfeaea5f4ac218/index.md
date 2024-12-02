@@ -16,9 +16,12 @@ date: 1720733966
  Hauptstreitmacht der Quin Armarda
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Hauptstreitmacht der Quin Armarda
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Hauptstreitmacht der Quin Armarda
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

@@ -20,13 +20,16 @@ discord.gg/cc22fFn
 discord.gg/PyVCs
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Наш сервер в Discord’e, где вы сможете найти 
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Наш сервер в Discord’e, где вы сможете найти 
 много информации, задать вопросы или поделится с другими игроками о происходящем в мире Hades! 
 discord.gg/cc22fFn
  канал союз-2
 discord.gg/PyVCs
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

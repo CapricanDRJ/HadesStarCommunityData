@@ -16,9 +16,12 @@ date: 1733061095
  Neulinge und Aktive willkommen. Bei uns steht der gemeinsame Spaß im Vordergrund.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Neulinge und Aktive willkommen. Bei uns steht der gemeinsame Spaß im Vordergrund.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Neulinge und Aktive willkommen. Bei uns steht der gemeinsame Spaß im Vordergrund.
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/UXNc44dxk6)
 ### Whitestar Bonus ✅

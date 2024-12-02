@@ -16,9 +16,12 @@ date: 1731125874
  Mostly PvE red star 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Mostly PvE red star 
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Mostly PvE red star 
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

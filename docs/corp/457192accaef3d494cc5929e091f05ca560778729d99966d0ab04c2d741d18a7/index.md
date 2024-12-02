@@ -19,12 +19,15 @@ date: 1701058584
 если ты безработный и не знаешь чем заняться, то мы всегда рады таким активным игрокам, как ты)
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-обновляем коллектив. 
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    обновляем коллектив. 
 нужну новые люди с желанием ходить на БЗ.
 наличие ватсапа приветствуется 
 если ты безработный и не знаешь чем заняться, то мы всегда рады таким активным игрокам, как ты)
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

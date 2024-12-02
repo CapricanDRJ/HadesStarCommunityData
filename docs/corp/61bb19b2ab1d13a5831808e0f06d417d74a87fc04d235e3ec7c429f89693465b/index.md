@@ -16,9 +16,12 @@ date: 1710273158
  Help each other out. Don't be a dick. Chill out, have fun. Must be active, no stress on speed. WS players wanted. Discord: https://discord.com/invite/2anpCUHkET
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Help each other out. Don't be a dick. Chill out, have fun. Must be active, no stress on speed. WS players wanted. Discord: https://discord.com/invite/2anpCUHkET
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Help each other out. Don't be a dick. Chill out, have fun. Must be active, no stress on speed. WS players wanted. Discord: https://discord.com/invite/2anpCUHkET
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/https://discord.com/invite/2anpCUHkET)
 ### Whitestar Bonus ❌

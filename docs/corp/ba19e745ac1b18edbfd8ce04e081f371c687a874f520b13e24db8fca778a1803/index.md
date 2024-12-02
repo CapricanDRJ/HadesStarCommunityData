@@ -16,9 +16,12 @@ date: 1702667056
  Sejam todos bem-vindos. Contas novas ingressar na "MicroNova Beta", whatsapp:83-99339-5118.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Sejam todos bem-vindos. Contas novas ingressar na "MicroNova Beta", whatsapp:83-99339-5118.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Sejam todos bem-vindos. Contas novas ingressar na "MicroNova Beta", whatsapp:83-99339-5118.
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

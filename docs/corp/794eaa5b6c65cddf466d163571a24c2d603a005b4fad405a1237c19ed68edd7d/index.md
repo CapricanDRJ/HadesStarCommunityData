@@ -18,11 +18,14 @@ date: 1718581733
 miglior piazzamento in classifica: 69esimi
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-confederazione rivolta a player attivi disposti a collaborare. I player inattivi verranno espulsi.
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    confederazione rivolta a player attivi disposti a collaborare. I player inattivi verranno espulsi.
 3g+ inattività o nessuna stella rossa svolta=kick
 miglior piazzamento in classifica: 69esimi
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

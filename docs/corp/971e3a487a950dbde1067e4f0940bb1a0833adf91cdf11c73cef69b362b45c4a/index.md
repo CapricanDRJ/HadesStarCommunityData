@@ -22,15 +22,18 @@ date: 1711163867
 加不了qq群可以加微信 进微信集团群
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-萌新度假岛☁
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    萌新度假岛☁
 主团 《云浪山庄↕》
 分团 《云浪度假村↕》
 分团《Gemini↕ ☁》
 企鹅群：614592574
 首席微信号：18970688854 
 加不了qq群可以加微信 进微信集团群
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

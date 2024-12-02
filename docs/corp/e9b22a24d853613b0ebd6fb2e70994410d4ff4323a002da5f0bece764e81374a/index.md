@@ -22,15 +22,18 @@ advice, beer and kisses.
 https://discord.gg/GdYCEhTeq
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Seriously Casual WS Corp
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Seriously Casual WS Corp
 RS 9 to RS 6
 
 Join us on discord for chat,
 advice, beer and kisses.
 
 https://discord.gg/GdYCEhTeq
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/GdYCEhTeq)
 ### Whitestar Bonus ❌

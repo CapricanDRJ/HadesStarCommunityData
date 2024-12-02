@@ -16,9 +16,12 @@ date: 1702672167
  We are the glorious Death Starz.  Don't get in our way, better join us!!! https://chat.whatsapp.com/F94Hkk98xnn8JsuwNHB3lG
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-We are the glorious Death Starz.  Don't get in our way, better join us!!! https://chat.whatsapp.com/F94Hkk98xnn8JsuwNHB3lG
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    We are the glorious Death Starz.  Don't get in our way, better join us!!! https://chat.whatsapp.com/F94Hkk98xnn8JsuwNHB3lG
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

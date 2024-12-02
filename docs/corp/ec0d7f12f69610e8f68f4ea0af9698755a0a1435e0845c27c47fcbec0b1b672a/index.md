@@ -27,8 +27,9 @@ QQ群：131920392
 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-此联盟为中国星际联盟第一分团
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    此联盟为中国星际联盟第一分团
 
 本分团于2024年5月2号 13:36:51创立
                        
@@ -40,7 +41,9 @@ QQ群：131920392
 团长微信：15316650176，拉你入群！
 QQ群：131920392
 
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ✅
 

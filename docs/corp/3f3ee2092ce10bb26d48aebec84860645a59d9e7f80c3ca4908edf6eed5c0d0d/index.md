@@ -18,11 +18,14 @@ date: 1716459858
 ER3-7, CORP cooperativas ANADIR y 42 Nova Corp
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Habla hispana ... Activos con ganas de crecer en equipo y respeto.
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Habla hispana ... Activos con ganas de crecer en equipo y respeto.
 7 dias de inactividad sin aviso, expulsión.
 ER3-7, CORP cooperativas ANADIR y 42 Nova Corp
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

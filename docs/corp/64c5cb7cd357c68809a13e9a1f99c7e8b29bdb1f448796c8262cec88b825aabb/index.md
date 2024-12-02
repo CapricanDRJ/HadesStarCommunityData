@@ -16,9 +16,12 @@ date: 1715614390
  нормальных приветствуем)👍 .. бз, чкз есть.. иногда 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-нормальных приветствуем)👍 .. бз, чкз есть.. иногда 
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    нормальных приветствуем)👍 .. бз, чкз есть.. иногда 
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

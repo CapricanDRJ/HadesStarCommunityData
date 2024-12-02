@@ -22,15 +22,18 @@ Discord mandatory. <b>EEpZuWf
 Winter Comes to Hades</b>
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-<span style="color:#23dbe7;">Casual WS corporation of the &lt;b&gt;Spacefleet Alliance&lt;/b&gt;</span>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <span style="color:#23dbe7;">Casual WS corporation of the <b>Spacefleet Alliance</b></span>
 
-•Coordinated &lt;b&gt;RS 9-11&lt;/b&gt;
+•Coordinated <b>RS 9-11</b>
 •Friendly Community
 
-Discord mandatory. &lt;b&gt;EEpZuWf
-Winter Comes to Hades&lt;/b&gt;
-</div>
+Discord mandatory. <b>EEpZuWf
+Winter Comes to Hades</b>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/EEpZuWf)
 ### Whitestar Bonus ❌

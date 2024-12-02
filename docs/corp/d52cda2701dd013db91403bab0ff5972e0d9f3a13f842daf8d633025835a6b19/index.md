@@ -16,9 +16,12 @@ date: 1713636340
  Bye Bye - ryan
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Bye Bye - ryan
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Bye Bye - ryan
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/Galaxy █哦郭聪明莫)
 ### Whitestar Bonus ❌

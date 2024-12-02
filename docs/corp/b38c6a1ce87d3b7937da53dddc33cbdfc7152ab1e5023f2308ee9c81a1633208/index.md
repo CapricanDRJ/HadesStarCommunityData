@@ -18,11 +18,14 @@ date: 1733048773
 WDL 88/2/4
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Formerly the Dacia casual WS team... now rebooted as our primary WS corp.
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Formerly the Dacia casual WS team... now rebooted as our primary WS corp.
 DN WS:WDL 17/0/3Pre DN WS (All Dacia Corps):
 WDL 88/2/4
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/6RhqZ7dxmf)
 ### Whitestar Bonus ✅

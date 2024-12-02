@@ -16,9 +16,12 @@ date: 1710899937
  Relaxed and friendly. We encourage growth, enjoyment and teamwork. Reach out if you need assistance. Malice not tolerated.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Relaxed and friendly. We encourage growth, enjoyment and teamwork. Reach out if you need assistance. Malice not tolerated.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Relaxed and friendly. We encourage growth, enjoyment and teamwork. Reach out if you need assistance. Malice not tolerated.
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/P9ruZgaZBJ)
 ### Whitestar Bonus ❌

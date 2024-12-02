@@ -16,9 +16,12 @@ date: 1733009420
  Welcome to KINETIC! A corporation almost as old as the Hades universe itself! Currently open to anyone looking to learn and grow together. 100+ White Star wins and powerful allies!
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Welcome to KINETIC! A corporation almost as old as the Hades universe itself! Currently open to anyone looking to learn and grow together. 100+ White Star wins and powerful allies!
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Welcome to KINETIC! A corporation almost as old as the Hades universe itself! Currently open to anyone looking to learn and grow together. 100+ White Star wins and powerful allies!
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/j8wnKvB)
 ### Whitestar Bonus ✅

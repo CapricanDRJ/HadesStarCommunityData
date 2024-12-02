@@ -16,9 +16,12 @@ date: 1731744338
  <size=90><b><color=white>Estrellas Blancas</color></b></size><br><size=50><b>Enterrados <color=red><b>200.000 $ </color></b>en Sad Hill.<br><b>En La tumba sin nombre junto a la de Arch Stanton.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;size=90&gt;&lt;b&gt;<span style="color:white;">Estrellas Blancas</span>&lt;/b&gt;&lt;/size&gt;&lt;br&gt;&lt;size=50&gt;&lt;b&gt;Enterrados <span style="color:red;">&lt;b&gt;200.000 $ </span>&lt;/b&gt;en Sad Hill.&lt;br&gt;&lt;b&gt;En La tumba sin nombre junto a la de Arch Stanton.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <size=90><b><span style="color:white;">Estrellas Blancas</span></b></size><br><size=50><b>Enterrados <span style="color:red;"><b>200.000 $ </span></b>en Sad Hill.<br><b>En La tumba sin nombre junto a la de Arch Stanton.
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

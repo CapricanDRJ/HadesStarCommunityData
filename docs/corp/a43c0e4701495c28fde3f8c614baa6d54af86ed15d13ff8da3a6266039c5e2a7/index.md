@@ -16,9 +16,12 @@ date: 1707434406
  Welcome to Hades Seminary, the second corp for Hades Academy. We are very laied back but competitive corp. Please join our Discord and accept our rules to get your member role!
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Welcome to Hades Seminary, the second corp for Hades Academy. We are very laied back but competitive corp. Please join our Discord and accept our rules to get your member role!
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Welcome to Hades Seminary, the second corp for Hades Academy. We are very laied back but competitive corp. Please join our Discord and accept our rules to get your member role!
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/kUcE6EP)
 ### Whitestar Bonus ❌

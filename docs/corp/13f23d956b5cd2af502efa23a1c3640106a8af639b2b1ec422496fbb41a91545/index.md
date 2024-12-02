@@ -16,9 +16,12 @@ date: 1723687188
  Просто помощь в развитии своих друзей.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Просто помощь в развитии своих друзей.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Просто помощь в развитии своих друзей.
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

@@ -16,9 +16,12 @@ date: 1732770299
  BENVINDOS AO ₩.BRASIL.₩ NADA DE JULGAMENTOS OU OUTRAS  FORMAS DE MAU GOSTO  PARA OS JOGADORES DENTRO  DA CORPORAÇÃO 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-BENVINDOS AO ₩.BRASIL.₩ NADA DE JULGAMENTOS OU OUTRAS  FORMAS DE MAU GOSTO  PARA OS JOGADORES DENTRO  DA CORPORAÇÃO 
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    BENVINDOS AO ₩.BRASIL.₩ NADA DE JULGAMENTOS OU OUTRAS  FORMAS DE MAU GOSTO  PARA OS JOGADORES DENTRO  DA CORPORAÇÃO 
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

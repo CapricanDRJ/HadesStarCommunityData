@@ -16,9 +16,12 @@ date: 1731507515
  sworn to protect the innocent and destroy the evil we are nova Corp
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-sworn to protect the innocent and destroy the evil we are nova Corp
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    sworn to protect the innocent and destroy the evil we are nova Corp
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

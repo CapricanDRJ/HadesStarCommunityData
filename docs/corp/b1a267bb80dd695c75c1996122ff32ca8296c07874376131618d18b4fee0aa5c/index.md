@@ -16,9 +16,12 @@ date: 1732444787
  Willkommen im chilligsten Verein der Galaxie. Nix muss, vieles kann. Wöchentliches Treffen in der Mos Eisley Cantina ist erwünscht. Alle zwei bis drei Wochen gibt's einen WZ Raubzug. Komm zu uns.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Willkommen im chilligsten Verein der Galaxie. Nix muss, vieles kann. Wöchentliches Treffen in der Mos Eisley Cantina ist erwünscht. Alle zwei bis drei Wochen gibt's einen WZ Raubzug. Komm zu uns.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Willkommen im chilligsten Verein der Galaxie. Nix muss, vieles kann. Wöchentliches Treffen in der Mos Eisley Cantina ist erwünscht. Alle zwei bis drei Wochen gibt's einen WZ Raubzug. Komm zu uns.
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

@@ -16,9 +16,12 @@ date: 1706608888
  <b> <color=#FFC0CB>Добро Пожаловать в Северный Флот!</b>       <color=#8bbe1b>Discord Канал:<b>#👀сбор-на-кз</b> </color>(читай Справку)
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;b&gt; <span style="color:#FFC0CB;">Добро Пожаловать в Северный Флот!&lt;/b&gt;       <span style="color:#8bbe1b;">Discord Канал:&lt;b&gt;#👀сбор-на-кз&lt;/b&gt; </span>(читай Справку)
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <b> <span style="color:#FFC0CB;">Добро Пожаловать в Северный Флот!</b>       <span style="color:#8bbe1b;">Discord Канал:<b>#👀сбор-на-кз</b> </span>(читай Справку)
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/xxJxnp5m7f)
 ### Whitestar Bonus ❌

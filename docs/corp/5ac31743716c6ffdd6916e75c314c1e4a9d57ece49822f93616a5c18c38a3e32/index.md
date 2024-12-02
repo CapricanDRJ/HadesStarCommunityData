@@ -16,9 +16,12 @@ date: 1700504921
  Founded by a few friends whose corp died. Frequent RS and an active community. Join today :D
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Founded by a few friends whose corp died. Frequent RS and an active community. Join today :D
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Founded by a few friends whose corp died. Frequent RS and an active community. Join today :D
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/uGvHyGs3RZ)
 ### Whitestar Bonus ❌

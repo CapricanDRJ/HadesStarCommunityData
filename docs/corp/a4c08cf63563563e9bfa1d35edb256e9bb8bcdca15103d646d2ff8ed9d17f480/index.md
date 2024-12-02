@@ -16,9 +16,12 @@ date: 1732674359
  <size=70><color=green>欢迎加入全新的<color=red>脉冲星际集团</size></color></color>请捐旗舰
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;size=70&gt;<span style="color:green;">欢迎加入全新的<span style="color:red;">脉冲星际集团&lt;/size&gt;</span></span>请捐旗舰
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <size=70><span style="color:green;">欢迎加入全新的<span style="color:red;">脉冲星际集团</size></span></span>请捐旗舰
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/maib)
 ### Whitestar Bonus ✅

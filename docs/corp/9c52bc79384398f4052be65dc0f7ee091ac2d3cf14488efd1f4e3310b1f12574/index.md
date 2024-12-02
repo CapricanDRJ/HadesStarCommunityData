@@ -16,9 +16,12 @@ date: 1732918372
  corpo  tranquille  pour se développer a son rythme et nous assurons 1 étoile  blanche par semaine 👽👽👍
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-corpo  tranquille  pour se développer a son rythme et nous assurons 1 étoile  blanche par semaine 👽👽👍
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    corpo  tranquille  pour se développer a son rythme et nous assurons 1 étoile  blanche par semaine 👽👽👍
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

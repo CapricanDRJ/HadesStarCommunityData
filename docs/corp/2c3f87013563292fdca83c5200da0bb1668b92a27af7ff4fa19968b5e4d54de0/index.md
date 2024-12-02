@@ -16,9 +16,12 @@ date: 1704793788
  Sister corp of Continuum. 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Sister corp of Continuum. 
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Sister corp of Continuum. 
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/BaF8Wk9mFp)
 ### Whitestar Bonus ❌

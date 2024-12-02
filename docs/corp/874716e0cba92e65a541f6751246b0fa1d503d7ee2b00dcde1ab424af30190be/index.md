@@ -18,11 +18,14 @@ Aperturado el día (21/09/22)
 Disfruta Nuestro De Humilde Bar  😎🤙🍻🍻
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Un grupo de locos amigos internacionales que comparten el gusto a la bebida y a la cháchara XD 
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Un grupo de locos amigos internacionales que comparten el gusto a la bebida y a la cháchara XD 
 Aperturado el día (21/09/22)
 Disfruta Nuestro De Humilde Bar  😎🤙🍻🍻
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

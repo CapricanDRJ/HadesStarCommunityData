@@ -17,10 +17,13 @@ date: 1710112112
 https://discord.gg/aeZrWpH9YW
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    
 https://discord.gg/aeZrWpH9YW
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

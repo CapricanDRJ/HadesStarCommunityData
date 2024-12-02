@@ -16,9 +16,12 @@ date: 1731940255
  We're an enduring community, looking for new and active players. We offer experienced mentors on hand to help with regular WS and RS runs. Use of Discord is highly recommend https://discord.gg/n4nHC3N
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-We're an enduring community, looking for new and active players. We offer experienced mentors on hand to help with regular WS and RS runs. Use of Discord is highly recommend https://discord.gg/n4nHC3N
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    We're an enduring community, looking for new and active players. We offer experienced mentors on hand to help with regular WS and RS runs. Use of Discord is highly recommend https://discord.gg/n4nHC3N
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/https://discord.com/invite/qbKYCBzmxk)
 ### Whitestar Bonus ❌

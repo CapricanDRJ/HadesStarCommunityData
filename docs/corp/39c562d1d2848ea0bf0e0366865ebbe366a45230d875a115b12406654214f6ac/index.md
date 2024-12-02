@@ -16,9 +16,12 @@ date: 1719768708
  求有所真，务有所实；涯有所勒，日无虚渡。
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-求有所真，务有所实；涯有所勒，日无虚渡。
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    求有所真，务有所实；涯有所勒，日无虚渡。
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/量大管饱)
 ### Whitestar Bonus ❌

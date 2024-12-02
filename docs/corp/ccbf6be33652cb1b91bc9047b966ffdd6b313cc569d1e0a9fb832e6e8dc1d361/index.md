@@ -16,9 +16,12 @@ date: 1730056727
  <color=yellow><i><size=115>首席干事：郑少逸</i>   <color=green><size=95>代理首席：cIz    等级到40为高级成员，等级到70为干事   友团：深空猫星人   黑名单：冰仙子<color=purple>  <size=700>本团QQ福利群<b>763886797</b><color=red><size=920>不要捐旗舰
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-<span style="color:yellow;">&lt;i&gt;&lt;size=115&gt;首席干事：郑少逸&lt;/i&gt;   <span style="color:green;">&lt;size=95&gt;代理首席：cIz    等级到40为高级成员，等级到70为干事   友团：深空猫星人   黑名单：冰仙子<span style="color:purple;">  &lt;size=700&gt;本团QQ福利群&lt;b&gt;763886797&lt;/b&gt;<span style="color:red;">&lt;size=920&gt;不要捐旗舰
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <span style="color:yellow;"><i><size=115>首席干事：郑少逸</i>   <span style="color:green;"><size=95>代理首席：cIz    等级到40为高级成员，等级到70为干事   友团：深空猫星人   黑名单：冰仙子<span style="color:purple;">  <size=700>本团QQ福利群<b>763886797</b><span style="color:red;"><size=920>不要捐旗舰
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/数)
 ### Whitestar Bonus ❌

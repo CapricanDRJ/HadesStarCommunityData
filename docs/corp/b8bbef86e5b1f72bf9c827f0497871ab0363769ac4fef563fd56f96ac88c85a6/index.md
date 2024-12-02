@@ -16,9 +16,12 @@ date: 1718761230
  Bem vindo à ★Prometheus★                    Iniciantes são bem-vindos!                                         Solicite sua participação no nosso grupo no Wpp pelo chat!
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Bem vindo à ★Prometheus★                    Iniciantes são bem-vindos!                                         Solicite sua participação no nosso grupo no Wpp pelo chat!
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Bem vindo à ★Prometheus★                    Iniciantes são bem-vindos!                                         Solicite sua participação no nosso grupo no Wpp pelo chat!
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/8baNJ6h2nH)
 ### Whitestar Bonus ❌

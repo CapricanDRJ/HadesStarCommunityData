@@ -16,9 +16,12 @@ date: 1725900738
  <color=#a604ce><size=103>MAƎЯᗡ ƎHT ЯƎTͶƎ™</size></color> discord.com/invite/HSsebQuveJ
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-<span style="color:#a604ce;">&lt;size=103&gt;MAƎЯᗡ ƎHT ЯƎTͶƎ™&lt;/size&gt;</span> discord.com/invite/HSsebQuveJ
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <span style="color:#a604ce;"><size=103>MAƎЯᗡ ƎHT ЯƎTͶƎ™</size></span> discord.com/invite/HSsebQuveJ
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/https://discord.com/invite/HSsebQuveJ)
 ### Whitestar Bonus ❌

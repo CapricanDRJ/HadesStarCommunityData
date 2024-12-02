@@ -16,9 +16,12 @@ date: 1732933693
  Corporation of Independent Systems.  Discord is Mandatory. Join today and fight against the tyranny of the Cerberus!
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Corporation of Independent Systems.  Discord is Mandatory. Join today and fight against the tyranny of the Cerberus!
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Corporation of Independent Systems.  Discord is Mandatory. Join today and fight against the tyranny of the Cerberus!
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/eVBvw68KEU)
 ### Whitestar Bonus ❌

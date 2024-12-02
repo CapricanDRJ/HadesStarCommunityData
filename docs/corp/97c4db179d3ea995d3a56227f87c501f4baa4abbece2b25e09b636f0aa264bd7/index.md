@@ -16,9 +16,12 @@ date: 1726314222
  We are a corporation where we help each other to do more together. New white star search every Monday. Discord optional
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-We are a corporation where we help each other to do more together. New white star search every Monday. Discord optional
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    We are a corporation where we help each other to do more together. New white star search every Monday. Discord optional
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/tF9fNMwh2E)
 ### Whitestar Bonus ❌

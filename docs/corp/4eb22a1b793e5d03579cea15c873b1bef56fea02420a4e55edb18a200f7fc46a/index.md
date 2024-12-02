@@ -16,9 +16,12 @@ date: 1730203658
  я не знаю что сюда написать, просто клан для того чтобы копить монеты, не знаю ¯⁠\⁠_⁠(⁠ツ⁠)⁠_⁠/⁠¯ ищем активных людей
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-я не знаю что сюда написать, просто клан для того чтобы копить монеты, не знаю ¯⁠\⁠_⁠(⁠ツ⁠)⁠_⁠/⁠¯ ищем активных людей
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    я не знаю что сюда написать, просто клан для того чтобы копить монеты, не знаю ¯⁠\⁠_⁠(⁠ツ⁠)⁠_⁠/⁠¯ ищем активных людей
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

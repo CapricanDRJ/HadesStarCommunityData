@@ -16,9 +16,12 @@ date: 1707770237
  A very casual group. Not currently playing WS. Just a place to chill, relax and enjoy.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-A very casual group. Not currently playing WS. Just a place to chill, relax and enjoy.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    A very casual group. Not currently playing WS. Just a place to chill, relax and enjoy.
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

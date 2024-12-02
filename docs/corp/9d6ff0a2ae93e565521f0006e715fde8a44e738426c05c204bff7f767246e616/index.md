@@ -18,11 +18,14 @@ date: 1712320278
 Discord Recruiting Channel: https://discord.gg/zBsPybt
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-To explore and to assist all we can. 
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    To explore and to assist all we can. 
 
 Discord Recruiting Channel: https://discord.gg/zBsPybt
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

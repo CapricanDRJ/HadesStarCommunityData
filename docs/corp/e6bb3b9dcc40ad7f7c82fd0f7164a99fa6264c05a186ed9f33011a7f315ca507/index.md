@@ -16,9 +16,12 @@ date: 1709316439
  This corp has moved to Mandaloians (corp), join us there. Discord link below.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-This corp has moved to Mandaloians (corp), join us there. Discord link below.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    This corp has moved to Mandaloians (corp), join us there. Discord link below.
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/https://discord.com/invite/JCufnsN57Y)
 ### Whitestar Bonus ❌

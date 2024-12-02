@@ -19,12 +19,15 @@ Discord: https://discord.gg/szv4DVuHA5
 Para pertenecer a la corporacion hay que participar y colaborar en alguna actividad con los demas compañeros 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    
 Idioma español
 Discord: https://discord.gg/szv4DVuHA5
 Para pertenecer a la corporacion hay que participar y colaborar en alguna actividad con los demas compañeros 
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/szv4DVuHA5)
 ### Whitestar Bonus ❌

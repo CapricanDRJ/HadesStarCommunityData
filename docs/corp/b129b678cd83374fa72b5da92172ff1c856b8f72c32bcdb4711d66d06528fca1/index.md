@@ -16,9 +16,12 @@ date: 1731238579
  Welcome! We are looking for new and experienced players interested in Red Star/White Star, and we have decent Blue Star tips! Please stay active! We are actively looking for White Star Players
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Welcome! We are looking for new and experienced players interested in Red Star/White Star, and we have decent Blue Star tips! Please stay active! We are actively looking for White Star Players
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Welcome! We are looking for new and experienced players interested in Red Star/White Star, and we have decent Blue Star tips! Please stay active! We are actively looking for White Star Players
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/m9xzuMbpqS)
 ### Whitestar Bonus ❌

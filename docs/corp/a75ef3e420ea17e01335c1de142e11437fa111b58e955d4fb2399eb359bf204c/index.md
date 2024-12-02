@@ -16,9 +16,12 @@ date: 1701427603
  Welcome to callisto corporation wanna relax or be competitive we've got both (white stars on Saturday USA time) 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Welcome to callisto corporation wanna relax or be competitive we've got both (white stars on Saturday USA time) 
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Welcome to callisto corporation wanna relax or be competitive we've got both (white stars on Saturday USA time) 
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

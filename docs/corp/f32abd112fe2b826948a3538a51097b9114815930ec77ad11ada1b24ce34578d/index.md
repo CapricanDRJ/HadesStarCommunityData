@@ -17,10 +17,13 @@ date: 1732438778
 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-只收中国人。每年必须要圣物。禁止骂人。活跃成员可赠送r7神器。
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    只收中国人。每年必须要圣物。禁止骂人。活跃成员可赠送r7神器。
 
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/1538)
 ### Whitestar Bonus ❌

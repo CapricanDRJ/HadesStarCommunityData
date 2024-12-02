@@ -19,12 +19,15 @@ no matter how strong the enemy is
 mastery wins</color></size></b>
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;b&gt;&lt;size=80&gt;<span style="color:#8000FF;">No mercy to our enemies
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <b><size=80><span style="color:#8000FF;">No mercy to our enemies
 I fight for honor and glory
 no matter how strong the enemy is
-mastery wins</span>&lt;/size&gt;&lt;/b&gt;
-</div>
+mastery wins</span></size></b>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

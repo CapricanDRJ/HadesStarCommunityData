@@ -16,9 +16,12 @@ date: 1732033406
  We are active with white stars.We are a corporation with the goal of helping new players and creating a community where everyone can thrive together.Be active in chat and white stars for promotion
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-We are active with white stars.We are a corporation with the goal of helping new players and creating a community where everyone can thrive together.Be active in chat and white stars for promotion
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    We are active with white stars.We are a corporation with the goal of helping new players and creating a community where everyone can thrive together.Be active in chat and white stars for promotion
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/https://discord.com/invite/yeVYzgVS)
 ### Whitestar Bonus ❌

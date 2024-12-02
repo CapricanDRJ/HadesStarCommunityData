@@ -16,9 +16,12 @@ date: 1720030745
  
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

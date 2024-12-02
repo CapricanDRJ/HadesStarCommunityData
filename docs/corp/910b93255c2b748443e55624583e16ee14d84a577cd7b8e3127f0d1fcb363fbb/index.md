@@ -16,9 +16,12 @@ date: 1732770299
  New!!! Join to expand!
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-New!!! Join to expand!
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    New!!! Join to expand!
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ✅
 

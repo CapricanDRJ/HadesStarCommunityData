@@ -16,9 +16,12 @@ date: 1732985077
  <size=50><b><color=white>Navegar es necesario. <size=50><b><color=red>Vivir no lo es
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;size=50&gt;&lt;b&gt;<span style="color:white;">Navegar es necesario. &lt;size=50&gt;&lt;b&gt;<span style="color:red;">Vivir no lo es
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <size=50><b><span style="color:white;">Navegar es necesario. <size=50><b><span style="color:red;">Vivir no lo es
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

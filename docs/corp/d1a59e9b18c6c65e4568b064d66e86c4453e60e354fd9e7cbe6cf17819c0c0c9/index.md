@@ -20,13 +20,16 @@ All Corp Plyrs May Join!!
 Discord: 3gRh7ae
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-""To Take Her a Prize"" est 2016
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    ""To Take Her a Prize"" est 2016
 Our goal is simple; Work together to create a strong relationship in building our star systems and corporation. GL
 
 All Corp Plyrs May Join!! 
 Discord: 3gRh7ae
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

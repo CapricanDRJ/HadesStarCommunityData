@@ -16,9 +16,12 @@ date: 1722520898
  <color=#9932CC><b><size=80>Welcome to the end of time.</size></b>
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-<span style="color:#9932CC;">&lt;b&gt;&lt;size=80&gt;Welcome to the end of time.&lt;/size&gt;&lt;/b&gt;
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <span style="color:#9932CC;"><b><size=80>Welcome to the end of time.</size></b>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

@@ -16,9 +16,12 @@ date: 1701319101
  <color="green">Member Corp Of U.I.H</color>
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-<span style="color:"green";">Member Corp Of U.I.H</span>
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <span style="color:"green";">Member Corp Of U.I.H</span>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/https://discord.com/invite/fqPrfnrcfz)
 ### Whitestar Bonus ❌

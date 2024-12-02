@@ -16,9 +16,12 @@ date: 1732685174
  The Empire of Light led by Lord Spirallis to be one of light rays in space of this game. WS every week. Join us into the Light!
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-The Empire of Light led by Lord Spirallis to be one of light rays in space of this game. WS every week. Join us into the Light!
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    The Empire of Light led by Lord Spirallis to be one of light rays in space of this game. WS every week. Join us into the Light!
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/pfsfZwqh)
 ### Whitestar Bonus ✅

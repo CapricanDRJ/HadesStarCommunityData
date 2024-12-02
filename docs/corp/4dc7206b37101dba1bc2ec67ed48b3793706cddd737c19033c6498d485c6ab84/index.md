@@ -16,9 +16,12 @@ date: 1732134974
  Welcome to the Rainbow Corp.    **Welcome to all our new gigachads. Hopefully you'll be gyatt Ohio skibidi here. Remember, discord is no cap fyah, so get cooked.**
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Welcome to the Rainbow Corp.    **Welcome to all our new gigachads. Hopefully you'll be gyatt Ohio skibidi here. Remember, discord is no cap fyah, so get cooked.**
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Welcome to the Rainbow Corp.    **Welcome to all our new gigachads. Hopefully you'll be gyatt Ohio skibidi here. Remember, discord is no cap fyah, so get cooked.**
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/eghZesnPZn)
 ### Whitestar Bonus ❌

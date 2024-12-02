@@ -16,9 +16,12 @@ date: 1732002753
  Together We Can Achieve More.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Together We Can Achieve More.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Together We Can Achieve More.
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/https://discord.com/invite/hayZVDBK)
 ### Whitestar Bonus ❌

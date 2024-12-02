@@ -16,9 +16,12 @@ date: 1733142524
  我们是星约组织第二分团！目前正处于建设中，在这里，请互帮互助，各自发展，如果你在30级以上请去总团星际公约组织！        星海灿烂，星约永恒                欢迎你的加入！QQ群：993612413
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-我们是星约组织第二分团！目前正处于建设中，在这里，请互帮互助，各自发展，如果你在30级以上请去总团星际公约组织！        星海灿烂，星约永恒                欢迎你的加入！QQ群：993612413
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    我们是星约组织第二分团！目前正处于建设中，在这里，请互帮互助，各自发展，如果你在30级以上请去总团星际公约组织！        星海灿烂，星约永恒                欢迎你的加入！QQ群：993612413
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

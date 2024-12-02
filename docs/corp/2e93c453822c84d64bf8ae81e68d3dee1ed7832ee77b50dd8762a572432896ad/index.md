@@ -16,9 +16,12 @@ date: 1720863784
  Bye
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Bye
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Bye
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/没有)
 ### Whitestar Bonus ❌

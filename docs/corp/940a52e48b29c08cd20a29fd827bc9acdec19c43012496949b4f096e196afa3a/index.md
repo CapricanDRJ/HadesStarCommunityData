@@ -16,9 +16,12 @@ date: 1719370177
  Mighty Morphin' Power Rangers
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Mighty Morphin' Power Rangers
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Mighty Morphin' Power Rangers
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

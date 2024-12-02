@@ -16,9 +16,12 @@ date: 1732879899
  Depuis le 10/2018       Ouverte à toutes et tous                  Rs9 à rs11 journalière           WS toutes les semaines                  french language mainly           on est là pour s amuser 🍻🍻
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Depuis le 10/2018       Ouverte à toutes et tous                  Rs9 à rs11 journalière           WS toutes les semaines                  french language mainly           on est là pour s amuser 🍻🍻
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Depuis le 10/2018       Ouverte à toutes et tous                  Rs9 à rs11 journalière           WS toutes les semaines                  french language mainly           on est là pour s amuser 🍻🍻
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/5FcqEU96nM)
 ### Whitestar Bonus ✅

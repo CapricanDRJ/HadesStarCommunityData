@@ -17,10 +17,13 @@ date: 1709926722
 https://discord.gg/C3nffwQkCc
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Всем любителям пива, сюда. Да прибудет с вами пенное...
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Всем любителям пива, сюда. Да прибудет с вами пенное...
 https://discord.gg/C3nffwQkCc
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

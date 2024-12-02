@@ -19,12 +19,15 @@ date: 1730792639
 新成员由入群干事晋升,违者降职,未进群者一律不晋升!进群的成员离开集团超过7天将被移出群聊,放弃原有职位.请假超三个月视为退游移出本集团
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-欢迎加入奥米加！禁止随意给旗舰捐钱！                                         常驻打白送8  
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    欢迎加入奥米加！禁止随意给旗舰捐钱！                                         常驻打白送8  
 帮扶打红
 常驻进q群:952685934
 新成员由入群干事晋升,违者降职,未进群者一律不晋升!进群的成员离开集团超过7天将被移出群聊,放弃原有职位.请假超三个月视为退游移出本集团
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/3sg9ppw33F)
 ### Whitestar Bonus ❌

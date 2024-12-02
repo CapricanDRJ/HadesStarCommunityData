@@ -23,8 +23,9 @@ Demotion/Removal:-
 Corp Discord Channel https://discord.gg/bPeyG7RQ5t
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-From this Star, 2 the last Star.
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    From this Star, 2 the last Star.
 
 [Must communicate in English.]
 Demotion/Removal:-
@@ -32,7 +33,9 @@ Demotion/Removal:-
 •No show in WS after having scanner on
 
 Corp Discord Channel https://discord.gg/bPeyG7RQ5t
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/bPeyG7RQ5t)
 ### Whitestar Bonus ✅

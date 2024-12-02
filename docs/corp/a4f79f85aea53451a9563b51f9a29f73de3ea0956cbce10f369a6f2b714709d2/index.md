@@ -17,10 +17,13 @@ date: 1725764921
 群号763870092
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-G.O.D公会0v0的小号盟,可搜G.0.D去大盟
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    G.O.D公会0v0的小号盟,可搜G.0.D去大盟
 群号763870092
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

@@ -16,9 +16,12 @@ date: 1730241827
  well... just join and give it a try. casual and idle is tolerated, activity and participation very welcome
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-well... just join and give it a try. casual and idle is tolerated, activity and participation very welcome
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    well... just join and give it a try. casual and idle is tolerated, activity and participation very welcome
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/Dtk4Pcg)
 ### Whitestar Bonus ❌

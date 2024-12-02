@@ -21,14 +21,17 @@ date: 1704925417
 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;b&gt;&lt;size=90&gt;<span style="color:#9d80b3;"></span>&lt;/size&gt;&lt;/b&gt;
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <b><size=90><span style="color:#9d80b3;"></span></size></b>
   ○  Weekly WS with strong coordination
   ○  Recruiting disciplined players
   ○  Discord required
 <span style="color:#dadde7;">
 
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

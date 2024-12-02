@@ -16,9 +16,12 @@ date: 1716552700
  Добро пожаловать!Ведётся набор активных игроков будем рады и новичкам, и бывалым игрокам.Делимся и обмениваемся артефактами. БЗ еженедельно. Коммуникация в ТГ https://t.me/Date_Samurai_HS
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Добро пожаловать!Ведётся набор активных игроков будем рады и новичкам, и бывалым игрокам.Делимся и обмениваемся артефактами. БЗ еженедельно. Коммуникация в ТГ https://t.me/Date_Samurai_HS
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Добро пожаловать!Ведётся набор активных игроков будем рады и новичкам, и бывалым игрокам.Делимся и обмениваемся артефактами. БЗ еженедельно. Коммуникация в ТГ https://t.me/Date_Samurai_HS
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

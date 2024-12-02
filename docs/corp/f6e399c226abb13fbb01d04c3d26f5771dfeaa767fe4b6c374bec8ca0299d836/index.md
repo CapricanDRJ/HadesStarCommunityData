@@ -16,9 +16,12 @@ date: 1724050809
  Greetings, Starfighter! You have been recruited by the star league to defend the Empire against Xur and the Ko-Dan Armada.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Greetings, Starfighter! You have been recruited by the star league to defend the Empire against Xur and the Ko-Dan Armada.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Greetings, Starfighter! You have been recruited by the star league to defend the Empire against Xur and the Ko-Dan Armada.
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

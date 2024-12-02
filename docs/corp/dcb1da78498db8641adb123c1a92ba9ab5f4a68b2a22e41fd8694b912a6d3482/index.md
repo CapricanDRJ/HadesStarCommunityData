@@ -16,9 +16,12 @@ date: 1723979587
  如有回归请找干事或者首席加好友邀请回归<br>整顿期
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-如有回归请找干事或者首席加好友邀请回归&lt;br&gt;整顿期
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    如有回归请找干事或者首席加好友邀请回归<br>整顿期
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

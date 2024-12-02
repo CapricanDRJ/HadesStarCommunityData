@@ -17,10 +17,13 @@ date: 1700154703
 Telegram: https://goo.gl/7TGspS
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Добро пожаловать в ОРИОН
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Добро пожаловать в ОРИОН
 Telegram: https://goo.gl/7TGspS
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

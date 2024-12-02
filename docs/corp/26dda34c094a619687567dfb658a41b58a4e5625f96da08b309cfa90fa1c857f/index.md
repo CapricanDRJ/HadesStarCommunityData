@@ -22,15 +22,18 @@ Join Discord here: <b> https://discord.gg/8aARTQU </b>
 SFA : EEpZuWf
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-<span style="color:#FFFFFF;">Come hang out!</span>
-•Coordinated &lt;b&gt;RS 2-8&lt;/b&gt;
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <span style="color:#FFFFFF;">Come hang out!</span>
+•Coordinated <b>RS 2-8</b>
 •looking for  WS players. first time welcome
 •Active community
 
-Join Discord here: &lt;b&gt; https://discord.gg/8aARTQU &lt;/b&gt;
+Join Discord here: <b> https://discord.gg/8aARTQU </b>
 SFA : EEpZuWf
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

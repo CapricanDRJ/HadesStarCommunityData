@@ -17,10 +17,13 @@ date: 1704688043
 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Das Todesschwadron war eine spezielle Einheit der imperialen Flotte unter dem persönlichen Kommando von Darth Vader und aufgrund ihrer militärischen Stärke in der Galaxis gefürchtet.
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Das Todesschwadron war eine spezielle Einheit der imperialen Flotte unter dem persönlichen Kommando von Darth Vader und aufgrund ihrer militärischen Stärke in der Galaxis gefürchtet.
 
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/https://discord.com/invite/fPPpCktmhu)
 ### Whitestar Bonus ❌

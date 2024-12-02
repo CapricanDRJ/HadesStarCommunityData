@@ -16,9 +16,12 @@ date: 1722331865
  本团为萌新团，大家共同努力携手共进，共同创造。请大家加一下QQ群:792608740
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-本团为萌新团，大家共同努力携手共进，共同创造。请大家加一下QQ群:792608740
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    本团为萌新团，大家共同努力携手共进，共同创造。请大家加一下QQ群:792608740
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

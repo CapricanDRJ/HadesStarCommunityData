@@ -29,8 +29,9 @@ Discord required for WS.
 148
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-        ☆☆Support New Players☆☆
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+            ☆☆Support New Players☆☆
 
 Recruiting
 Weekly White Stars.
@@ -44,7 +45,9 @@ Discord required for WS.
 
 
 148
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/uhka53GbmX)
 ### Whitestar Bonus ❌

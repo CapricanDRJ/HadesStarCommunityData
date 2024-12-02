@@ -17,10 +17,13 @@ date: 1702547267
 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Телеграм: @prorabMax 
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Телеграм: @prorabMax 
 
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

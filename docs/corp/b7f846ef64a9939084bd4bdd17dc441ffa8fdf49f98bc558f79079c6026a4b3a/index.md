@@ -20,13 +20,16 @@ Join our server for questions. But this is a mostly dead corp, honest. Join serv
 discord code:  5xKBwEFxeD
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Go away or don’t your choice. 
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Go away or don’t your choice. 
 
 Join our server for questions. But this is a mostly dead corp, honest. Join server for shenanigans! 
 
 discord code:  5xKBwEFxeD
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

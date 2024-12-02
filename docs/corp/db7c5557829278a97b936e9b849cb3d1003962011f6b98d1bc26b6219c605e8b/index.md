@@ -16,9 +16,12 @@ date: 1700059097
  жызнь головареза коротка но насыщена
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-жызнь головареза коротка но насыщена
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    жызнь головареза коротка но насыщена
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

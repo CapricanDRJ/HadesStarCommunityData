@@ -16,9 +16,12 @@ date: 1700841235
  Just a group of friends enjoying the game
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Just a group of friends enjoying the game
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Just a group of friends enjoying the game
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/cRXreAcJZw)
 ### Whitestar Bonus ❌

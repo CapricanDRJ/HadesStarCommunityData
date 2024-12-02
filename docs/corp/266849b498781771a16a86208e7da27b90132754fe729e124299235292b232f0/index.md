@@ -16,9 +16,12 @@ date: 1705402631
  欢迎来到集团。希望你们来加入！
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-欢迎来到集团。希望你们来加入！
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    欢迎来到集团。希望你们来加入！
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

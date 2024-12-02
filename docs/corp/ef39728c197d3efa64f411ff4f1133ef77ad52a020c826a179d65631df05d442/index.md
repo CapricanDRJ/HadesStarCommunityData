@@ -21,14 +21,17 @@ date: 1709412292
 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-<span style="color:#823dcf;">&lt;size=100&gt;&lt;/size&gt;</span>The "Used-to-be-Active" White Star Clan...
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <span style="color:#823dcf;"><size=100></size></span>The "Used-to-be-Active" White Star Clan...
 
-<span style="color:#d6b800;">&lt;size=60&gt;⚠DISCORD⚠️&lt;/size&gt;</span>
-<span style="color:#ffffff;">&lt;size=60&gt;https://discord.gg/SWAeyd&lt;/size&gt;</span>
+<span style="color:#d6b800;"><size=60>⚠DISCORD⚠️</size></span>
+<span style="color:#ffffff;"><size=60>https://discord.gg/SWAeyd</size></span>
 
 
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/https://discord.gg/SWAeydhRy2)
 ### Whitestar Bonus ❌

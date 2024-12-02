@@ -16,9 +16,12 @@ date: 1701817115
  The combined forces of the Imperial ruled planets. Commanded by the Imperial High Council
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-The combined forces of the Imperial ruled planets. Commanded by the Imperial High Council
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    The combined forces of the Imperial ruled planets. Commanded by the Imperial High Council
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/https://discord.com/invite/PasdADNm)
 ### Whitestar Bonus ❌

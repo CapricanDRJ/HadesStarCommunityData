@@ -16,9 +16,12 @@ date: 1722303620
  Need active players for White Star Missions!
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Need active players for White Star Missions!
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Need active players for White Star Missions!
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

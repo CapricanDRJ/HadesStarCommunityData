@@ -16,9 +16,12 @@ date: 1704473749
  A corp focused on trying to reach the top players in the game, active players only please, and social players, we about sharing and growing
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-A corp focused on trying to reach the top players in the game, active players only please, and social players, we about sharing and growing
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    A corp focused on trying to reach the top players in the game, active players only please, and social players, we about sharing and growing
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

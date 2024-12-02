@@ -21,14 +21,17 @@ date: 1733042164
 Discord ist erwünscht, aber keine Pflicht.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Wir sind die Ark. Ob Pro oder Noob bei uns ist jeder willkommen.
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Wir sind die Ark. Ob Pro oder Noob bei uns ist jeder willkommen.
  
 -regelmäßige wz
 -tägliche drr und rr
 
 Discord ist erwünscht, aber keine Pflicht.
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/kPuseCu4RE)
 ### Whitestar Bonus ❌

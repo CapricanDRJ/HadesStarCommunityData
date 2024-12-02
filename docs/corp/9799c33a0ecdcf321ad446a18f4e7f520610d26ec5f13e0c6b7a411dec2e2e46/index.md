@@ -16,9 +16,12 @@ date: 1724210928
  enter if you have ws scanner
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-enter if you have ws scanner
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    enter if you have ws scanner
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

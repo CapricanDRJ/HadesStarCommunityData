@@ -16,9 +16,12 @@ date: 1723626180
  играем свободно, не превращаем игру в работу. Состоим в союзе с "Содружеством", ссылка на дискорд ведет к ним.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-играем свободно, не превращаем игру в работу. Состоим в союзе с "Содружеством", ссылка на дискорд ведет к ним.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    играем свободно, не превращаем игру в работу. Состоим в союзе с "Содружеством", ссылка на дискорд ведет к ним.
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/Vaf5WV2QQs)
 ### Whitestar Bonus ❌

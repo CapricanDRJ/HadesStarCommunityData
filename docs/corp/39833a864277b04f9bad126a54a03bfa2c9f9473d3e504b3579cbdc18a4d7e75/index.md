@@ -16,9 +16,12 @@ date: 1732328804
  Corp. designed primarily for WS players of any level advanced to just starting. 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Corp. designed primarily for WS players of any level advanced to just starting. 
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Corp. designed primarily for WS players of any level advanced to just starting. 
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/XQ4BnnSKvC)
 ### Whitestar Bonus ❌

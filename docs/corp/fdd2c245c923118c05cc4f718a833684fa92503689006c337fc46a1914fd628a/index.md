@@ -16,9 +16,12 @@ date: 1700510332
  Русский Добровольческий Корпус. 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Русский Добровольческий Корпус. 
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Русский Добровольческий Корпус. 
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

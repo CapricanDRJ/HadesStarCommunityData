@@ -19,12 +19,15 @@ Destroy or be destroyed. This is a place where only the strong survive
 White star every 2 weeks
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Discord: cRMhmXfctC
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Discord: cRMhmXfctC
 https://discord.gg/cRMhmXfctC
 Destroy or be destroyed. This is a place where only the strong survive
 White star every 2 weeks
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

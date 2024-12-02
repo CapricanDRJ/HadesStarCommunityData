@@ -16,9 +16,12 @@ date: 1727860478
  Bacon goes great with......EVERYTHING!
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Bacon goes great with......EVERYTHING!
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Bacon goes great with......EVERYTHING!
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

@@ -17,10 +17,13 @@ date: 1699450257
 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-welcome VALHALLA
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    welcome VALHALLA
 
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

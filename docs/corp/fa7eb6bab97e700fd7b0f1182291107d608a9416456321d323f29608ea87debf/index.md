@@ -16,9 +16,12 @@ date: 1701972491
  Anyone is Welcome to the Void Nebula 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Anyone is Welcome to the Void Nebula 
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Anyone is Welcome to the Void Nebula 
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

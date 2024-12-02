@@ -29,8 +29,9 @@ date: 1715217779
 </color>
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-ALIANÇA: LUSO (BR/PT) 🚀
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    ALIANÇA: LUSO (BR/PT) 🚀
 
 33° Evento de RS - 2022.
 
@@ -44,7 +45,9 @@ ALIANÇA: LUSO (BR/PT) 🚀
 - Br Project
 - Projeto NU
 </span>
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

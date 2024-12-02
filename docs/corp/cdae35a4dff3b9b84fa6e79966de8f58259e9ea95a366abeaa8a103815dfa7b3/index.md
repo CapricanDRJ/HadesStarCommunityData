@@ -20,13 +20,16 @@ Part of <b><color=#fce205>A.R.M.O.R</color></b>
 Discord:DUbkgw9uMT
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;size=70&gt;&lt;b&gt;&lt;i&gt;Welcome to&lt;/i&gt;&lt;/b&gt;</span>&lt;/size&gt;&lt;b&gt;<span style="color:#fce205;">
-&lt;size=100&gt;GRAND MECHANISM&lt;/size&gt;</span>&lt;/b&gt;
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <size=70><b><i>Welcome to</i></b></span></size><b><span style="color:#fce205;">
+<size=100>GRAND MECHANISM</size></span></b>
 
-Part of &lt;b&gt;<span style="color:#fce205;">A.R.M.O.R</span>&lt;/b&gt;
+Part of <b><span style="color:#fce205;">A.R.M.O.R</span></b>
 Discord:DUbkgw9uMT
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/DUbkgw9uMT)
 ### Whitestar Bonus ❌

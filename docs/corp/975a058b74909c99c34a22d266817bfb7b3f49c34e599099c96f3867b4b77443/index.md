@@ -17,10 +17,13 @@ date: 1712762885
 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-A friendly group dedicated to working together to advance in this game. 
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    A friendly group dedicated to working together to advance in this game. 
 
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

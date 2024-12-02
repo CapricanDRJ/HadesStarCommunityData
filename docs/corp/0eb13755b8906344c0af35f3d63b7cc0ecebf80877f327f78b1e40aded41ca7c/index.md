@@ -16,9 +16,12 @@ date: 1708262593
  hello everyone
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-hello everyone
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    hello everyone
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

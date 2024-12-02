@@ -16,9 +16,12 @@ date: 1707514645
  We do White stars every 5 to 8 days
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-We do White stars every 5 to 8 days
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    We do White stars every 5 to 8 days
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

@@ -18,11 +18,14 @@ date: 1731848606
 Find us on discord: https://discord.gg/u2VGhGRrFq
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-We're here to help one and all. So join our corp, and move up together.
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    We're here to help one and all. So join our corp, and move up together.
 
 Find us on discord: https://discord.gg/u2VGhGRrFq
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

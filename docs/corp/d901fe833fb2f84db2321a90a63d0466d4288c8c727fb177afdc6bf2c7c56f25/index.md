@@ -16,9 +16,12 @@ date: 1712508383
  <i>„Alles was ich kenne ist Logik." ~ Mr. Spock</i> Aufbau- und Zweit-Konzern von Terranova
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;i&gt;„Alles was ich kenne ist Logik." ~ Mr. Spock&lt;/i&gt; Aufbau- und Zweit-Konzern von Terranova
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <i>„Alles was ich kenne ist Logik." ~ Mr. Spock</i> Aufbau- und Zweit-Konzern von Terranova
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/8UCeWAHxKA)
 ### Whitestar Bonus ❌

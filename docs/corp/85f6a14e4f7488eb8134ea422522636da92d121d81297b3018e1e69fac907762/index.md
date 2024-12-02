@@ -16,9 +16,12 @@ date: 1733059892
  Looking for active player to do Casual whitestar every week. No discord.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Looking for active player to do Casual whitestar every week. No discord.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Looking for active player to do Casual whitestar every week. No discord.
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ✅
 

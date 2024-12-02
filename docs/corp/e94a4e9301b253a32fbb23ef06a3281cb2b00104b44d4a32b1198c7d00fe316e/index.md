@@ -16,9 +16,12 @@ date: 1716990439
  ゆっくりとやりたい方向けのコーポレーションです。現在、試験的にホワイトスターを行っています。
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-ゆっくりとやりたい方向けのコーポレーションです。現在、試験的にホワイトスターを行っています。
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    ゆっくりとやりたい方向けのコーポレーションです。現在、試験的にホワイトスターを行っています。
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

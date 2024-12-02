@@ -16,9 +16,12 @@ date: 1700328138
  An active cooperation with an emphasis on teamwork! With sharing experience, artifacts and red/white star joint efforts! Join us in the pursuit of power!
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-An active cooperation with an emphasis on teamwork! With sharing experience, artifacts and red/white star joint efforts! Join us in the pursuit of power!
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    An active cooperation with an emphasis on teamwork! With sharing experience, artifacts and red/white star joint efforts! Join us in the pursuit of power!
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/hpNKcXkf)
 ### Whitestar Bonus ❌

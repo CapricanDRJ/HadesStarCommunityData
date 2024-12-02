@@ -16,9 +16,12 @@ date: 1727889033
  We are BSO, the oldest and largest conglomerate in HS!   BlackStar Order, Final, TS, UG, AN, Dau, Proph, Soy, BSO Acad & Obs.  Working together to excel!
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-We are BSO, the oldest and largest conglomerate in HS!   BlackStar Order, Final, TS, UG, AN, Dau, Proph, Soy, BSO Acad & Obs.  Working together to excel!
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    We are BSO, the oldest and largest conglomerate in HS!   BlackStar Order, Final, TS, UG, AN, Dau, Proph, Soy, BSO Acad & Obs.  Working together to excel!
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/YTaYrhy)
 ### Whitestar Bonus ❌

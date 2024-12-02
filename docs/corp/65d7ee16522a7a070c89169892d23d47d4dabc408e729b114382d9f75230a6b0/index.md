@@ -19,12 +19,15 @@ date: 1705295296
 4.Corporation ARTIFACT GIVE AWAY fri, sun day.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-1.There are no RULES here
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    1.There are no RULES here
 2.We DO NOT force to play
 3.Our goal is to LEVEL UP FASTER 
 4.Corporation ARTIFACT GIVE AWAY fri, sun day.
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

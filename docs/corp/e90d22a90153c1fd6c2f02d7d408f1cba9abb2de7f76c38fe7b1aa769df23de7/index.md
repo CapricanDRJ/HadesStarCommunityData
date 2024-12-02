@@ -20,13 +20,16 @@ Gpp: Whats✔
 Ws: a Cada 4 dias
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-"Vagando a Espreita das Sombras, Sempre Evoluindo a Cada Vitória. Portanto Cuidado, Pois a Sua Derrota é a Nossa Glória!"
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    "Vagando a Espreita das Sombras, Sempre Evoluindo a Cada Vitória. Portanto Cuidado, Pois a Sua Derrota é a Nossa Glória!"
 
 *Respeite a todos, seja Generoso.
 Gpp: Whats✔
 Ws: a Cada 4 dias
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

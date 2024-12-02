@@ -21,14 +21,17 @@ Are you RS6+ & want to join?
 <color=blue>Discord: (YTaYrhy)</color>
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-We are BSO! The oldest thriving conglomerate.
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    We are BSO! The oldest thriving conglomerate.
 
 BlackStar Order, Final, TS, UG, Path of Hades, and Dauntless as one corporation.
 
 Are you RS6+ & want to join?
 <span style="color:blue;">Discord: (YTaYrhy)</span>
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

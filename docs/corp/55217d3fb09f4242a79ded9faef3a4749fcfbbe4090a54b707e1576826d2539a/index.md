@@ -16,9 +16,12 @@ date: 1715002560
  <a>进团常驻之人可互相建立外交关系            <b>本团招新，欢迎各位
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;a&gt;进团常驻之人可互相建立外交关系            &lt;b&gt;本团招新，欢迎各位
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <a>进团常驻之人可互相建立外交关系            <b>本团招新，欢迎各位
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

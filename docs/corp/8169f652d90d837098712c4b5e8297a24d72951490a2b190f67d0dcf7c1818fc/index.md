@@ -21,14 +21,17 @@ Founded 29-11-2020
  Discord:  https://discord.gg/cWymECU
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Nederlandse Corp open voor alle levels, onderdeel van KLM.
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Nederlandse Corp open voor alle levels, onderdeel van KLM.
 
 We richten ons op interne Red star runs en spelen op recreatieve basis White star.
 
 Founded 29-11-2020
  Discord:  https://discord.gg/cWymECU
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/cWymECU)
 ### Whitestar Bonus ❌

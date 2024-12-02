@@ -16,9 +16,12 @@ date: 1711927857
  For the friends and normies
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-For the friends and normies
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    For the friends and normies
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/GYem3jEagg)
 ### Whitestar Bonus ❌

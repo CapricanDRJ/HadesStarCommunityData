@@ -16,9 +16,12 @@ date: 1732877795
  <color=red>QQ群号：205791816</color>  寒暑假活跃
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-<span style="color:red;">QQ群号：205791816</span>  寒暑假活跃
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <span style="color:red;">QQ群号：205791816</span>  寒暑假活跃
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

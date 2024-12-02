@@ -16,9 +16,12 @@ date: 1723710627
  Join if you have a white star scanner and can help in white stars
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Join if you have a white star scanner and can help in white stars
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Join if you have a white star scanner and can help in white stars
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

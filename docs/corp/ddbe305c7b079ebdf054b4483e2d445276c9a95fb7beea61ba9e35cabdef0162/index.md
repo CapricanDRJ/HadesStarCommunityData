@@ -16,9 +16,12 @@ date: 1715154591
  Ждем всех желающих активно играть и общаться!
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Ждем всех желающих активно играть и общаться!
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Ждем всех желающих активно играть и общаться!
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

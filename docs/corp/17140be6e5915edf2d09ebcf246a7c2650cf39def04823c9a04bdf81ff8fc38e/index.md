@@ -16,9 +16,12 @@ date: 1732728143
  welcome to my corporation.  Language: English and Español. Discord NOT available. Top 5players become senior, top 2become official. red stars2-7. white stars every week
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-welcome to my corporation.  Language: English and Español. Discord NOT available. Top 5players become senior, top 2become official. red stars2-7. white stars every week
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    welcome to my corporation.  Language: English and Español. Discord NOT available. Top 5players become senior, top 2become official. red stars2-7. white stars every week
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ✅
 

@@ -16,9 +16,12 @@ date: 1702538712
  бездельники. 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-бездельники. 
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    бездельники. 
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

@@ -16,9 +16,12 @@ date: 1732894327
  欢迎大佬和萌新加入，创始人：［太阳系统帅］，移出成员只能由首席执行，大家要常住呀！不是死团，我们超活跃的哟！黑名单：[土土]                                                                            <size=100><color=red>两个旗舰都捐！进集团加微信18898500351，拉你入群
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-欢迎大佬和萌新加入，创始人：［太阳系统帅］，移出成员只能由首席执行，大家要常住呀！不是死团，我们超活跃的哟！黑名单：[土土]                                                                            &lt;size=100&gt;<span style="color:red;">两个旗舰都捐！进集团加微信18898500351，拉你入群
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    欢迎大佬和萌新加入，创始人：［太阳系统帅］，移出成员只能由首席执行，大家要常住呀！不是死团，我们超活跃的哟！黑名单：[土土]                                                                            <size=100><span style="color:red;">两个旗舰都捐！进集团加微信18898500351，拉你入群
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ✅
 

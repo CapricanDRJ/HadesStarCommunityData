@@ -16,9 +16,12 @@ date: 1726828977
  一起来吧！召集白星队员，缘分使我们相遇。爱护新手，请教高手。不管等级，最先进团5人为干事，再15人为高级成员
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-一起来吧！召集白星队员，缘分使我们相遇。爱护新手，请教高手。不管等级，最先进团5人为干事，再15人为高级成员
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    一起来吧！召集白星队员，缘分使我们相遇。爱护新手，请教高手。不管等级，最先进团5人为干事，再15人为高级成员
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

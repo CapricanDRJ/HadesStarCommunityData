@@ -16,9 +16,12 @@ date: 1731574831
  Envie de tout.. mais bon Arien..Issue d'une caste 'historique'... on se distingue dans la compétence 🤔. Si toi aussi tu te demandes comment font les autres 😅
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Envie de tout.. mais bon Arien..Issue d'une caste 'historique'... on se distingue dans la compétence 🤔. Si toi aussi tu te demandes comment font les autres 😅
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Envie de tout.. mais bon Arien..Issue d'une caste 'historique'... on se distingue dans la compétence 🤔. Si toi aussi tu te demandes comment font les autres 😅
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

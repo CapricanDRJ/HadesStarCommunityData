@@ -25,18 +25,21 @@ https://dicord.gg/gBFFE5x
 od-family.com
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-The Imperium of man.
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    The Imperium of man.
 No xenos' allowed
 
 New player development member
-&lt;b&gt;OntarioDynasty&lt;/b&gt; Family of Corps.
+<b>OntarioDynasty</b> Family of Corps.
 
 Join our discord comunity:
 https://dicord.gg/gBFFE5x
 
 od-family.com
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

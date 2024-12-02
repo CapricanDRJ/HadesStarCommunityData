@@ -16,9 +16,12 @@ date: 1715248140
  <b>N7<color=red>/<color=white>ALLIANCE</b><br><br><color=#ffa630>RS1 - RS12<br><color=red>Discord Required
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;b&gt;N7<span style="color:red;">/<span style="color:white;">ALLIANCE&lt;/b&gt;&lt;br&gt;&lt;br&gt;<span style="color:#ffa630;">RS1 - RS12&lt;br&gt;<span style="color:red;">Discord Required
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <b>N7<span style="color:red;">/<span style="color:white;">ALLIANCE</b><br><br><span style="color:#ffa630;">RS1 - RS12<br><span style="color:red;">Discord Required
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/zgRuk78)
 ### Whitestar Bonus ❌

@@ -16,9 +16,12 @@ date: 1727124295
  Newbie and veterans welcome! Just a chill guild looking to have fun :)
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Newbie and veterans welcome! Just a chill guild looking to have fun :)
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Newbie and veterans welcome! Just a chill guild looking to have fun :)
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

@@ -16,9 +16,12 @@ date: 1732944209
  Totally new corporation. Your experience or level is unimportant.  It's your commitment to grow and become stronger that is paramount. No deadline though. We all do what we do when we do it...
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Totally new corporation. Your experience or level is unimportant.  It's your commitment to grow and become stronger that is paramount. No deadline though. We all do what we do when we do it...
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Totally new corporation. Your experience or level is unimportant.  It's your commitment to grow and become stronger that is paramount. No deadline though. We all do what we do when we do it...
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ✅
 

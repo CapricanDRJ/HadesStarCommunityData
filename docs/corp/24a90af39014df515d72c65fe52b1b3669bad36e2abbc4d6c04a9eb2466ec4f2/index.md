@@ -20,13 +20,16 @@ Original bottom tier Alpha Corp from serveral years ago, but no one here would g
 New Discord: nxEZwvgcg3
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-All for farm, farm for all. We farm from other's losses now.
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    All for farm, farm for all. We farm from other's losses now.
 
 Original bottom tier Alpha Corp from serveral years ago, but no one here would give a shit.
 
 New Discord: nxEZwvgcg3
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

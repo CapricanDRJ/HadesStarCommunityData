@@ -16,9 +16,12 @@ date: 1726656172
  <color=red><u><b><size=150>勿谈和白，不可以骂人</b> </u></size></color><br><color=#ffff55>STRVS233~</color><br>KOOK:https://kook.top/BKE0Pe<br>Discord:https://discord.gg/qWJGwgf4<br>微信:R1d_ryh<br>招人<br>南极星联盟成员
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-<span style="color:red;">&lt;u&gt;&lt;b&gt;&lt;size=150&gt;勿谈和白，不可以骂人&lt;/b&gt; &lt;/u&gt;&lt;/size&gt;</span>&lt;br&gt;<span style="color:#ffff55;">STRVS233~</span>&lt;br&gt;KOOK:https://kook.top/BKE0Pe&lt;br&gt;Discord:https://discord.gg/qWJGwgf4&lt;br&gt;微信:R1d_ryh&lt;br&gt;招人&lt;br&gt;南极星联盟成员
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <span style="color:red;"><u><b><size=150>勿谈和白，不可以骂人</b> </u></size></span><br><span style="color:#ffff55;">STRVS233~</span><br>KOOK:https://kook.top/BKE0Pe<br>Discord:https://discord.gg/qWJGwgf4<br>微信:R1d_ryh<br>招人<br>南极星联盟成员
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/qWJGwgf4)
 ### Whitestar Bonus ❌

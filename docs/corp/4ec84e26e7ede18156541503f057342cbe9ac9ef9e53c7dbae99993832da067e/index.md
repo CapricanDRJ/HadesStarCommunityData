@@ -16,9 +16,12 @@ date: 1732830320
  3 Year Celebration of the Legion Prime!  We are an international group of players that play hard and enjoy the game!  Join us for RS and WS!                         
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-3 Year Celebration of the Legion Prime!  We are an international group of players that play hard and enjoy the game!  Join us for RS and WS!                         
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    3 Year Celebration of the Legion Prime!  We are an international group of players that play hard and enjoy the game!  Join us for RS and WS!                         
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

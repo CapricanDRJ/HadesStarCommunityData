@@ -19,12 +19,15 @@ NO KIDDING : GAMING ONLY!
 Just come and play to the rules!
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-- no fussing, no trolling, no discord -
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    - no fussing, no trolling, no discord -
 NO KIDDING : GAMING ONLY!
 
 Just come and play to the rules!
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

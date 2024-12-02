@@ -16,9 +16,12 @@ date: 1733062898
  Have fun and love bacon. Everyone is welcome. Weekly white stars if we lose amd every two weeks if we win. No discord required.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Have fun and love bacon. Everyone is welcome. Weekly white stars if we lose amd every two weeks if we win. No discord required.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Have fun and love bacon. Everyone is welcome. Weekly white stars if we lose amd every two weeks if we win. No discord required.
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ✅
 

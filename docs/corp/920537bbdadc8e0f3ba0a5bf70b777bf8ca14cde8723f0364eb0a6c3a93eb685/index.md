@@ -17,10 +17,13 @@ date: 1732880199
 https://discord.gg/NuvtUTUxQj 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-United Fleet Operations:
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    United Fleet Operations:
 https://discord.gg/NuvtUTUxQj 
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ✅
 

@@ -16,9 +16,12 @@ date: 1711907723
  L'empire d'<color=red>Orion</color> recherche des joueurs fr, pour s'amuser entre fous ! Si tu viens chez Orion, tu joues comme Orion. Nous sommes une team avant tout.Recrutement actif + Formation WS
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-L'empire d'<span style="color:red;">Orion</span> recherche des joueurs fr, pour s'amuser entre fous ! Si tu viens chez Orion, tu joues comme Orion. Nous sommes une team avant tout.Recrutement actif + Formation WS
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    L'empire d'<span style="color:red;">Orion</span> recherche des joueurs fr, pour s'amuser entre fous ! Si tu viens chez Orion, tu joues comme Orion. Nous sommes une team avant tout.Recrutement actif + Formation WS
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/YtyNGek)
 ### Whitestar Bonus ❌

@@ -16,9 +16,12 @@ date: 1732840236
  Winter Star llc, a Beginner Corporation to help you out on your missions! //You must Join our Discord within 7 days 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Winter Star llc, a Beginner Corporation to help you out on your missions! //You must Join our Discord within 7 days 
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Winter Star llc, a Beginner Corporation to help you out on your missions! //You must Join our Discord within 7 days 
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/SpNnydQdNf)
 ### Whitestar Bonus ✅

@@ -29,8 +29,9 @@ date: 1712810060
 軍团作战參谋长：
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-本团招收每日冒泡发展的活跃玩家
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    本团招收每日冒泡发展的活跃玩家
 咸魚玩家，优先定期清除
 
 <span style="color:red;">     
@@ -44,7 +45,9 @@ date: 1712810060
 请假不打白的，請关了白星扫描
 軍团軍委書記长：
 軍团作战參谋长：
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

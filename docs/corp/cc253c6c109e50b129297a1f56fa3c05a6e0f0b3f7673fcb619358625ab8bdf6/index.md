@@ -20,13 +20,16 @@ date: 1720434326
 Общение ведётся в телеграм-чате (обратитесь к @neit_wel или @eidzist)
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Мы являемся представительством Украинской Империи
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Мы являемся представительством Украинской Империи
 
 У нас не приветствуется рос. пропаганда, но нет запрета на полит. темы
 
 Общение ведётся в телеграм-чате (обратитесь к @neit_wel или @eidzist)
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

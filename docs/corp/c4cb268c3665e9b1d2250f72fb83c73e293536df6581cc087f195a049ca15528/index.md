@@ -16,9 +16,12 @@ date: 1724436985
  Для Всех желающих. Без политики и оскорбления, помощь новичкам, артефакты с 1-по-6 в помощь,походы в БЗ
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Для Всех желающих. Без политики и оскорбления, помощь новичкам, артефакты с 1-по-6 в помощь,походы в БЗ
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Для Всех желающих. Без политики и оскорбления, помощь новичкам, артефакты с 1-по-6 в помощь,походы в БЗ
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

@@ -16,9 +16,12 @@ date: 1714108695
  играем для себя, без фанатизма, общение в чате по желанию, всем удачной игры😉
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-играем для себя, без фанатизма, общение в чате по желанию, всем удачной игры😉
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    играем для себя, без фанатизма, общение в чате по желанию, всем удачной игры😉
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

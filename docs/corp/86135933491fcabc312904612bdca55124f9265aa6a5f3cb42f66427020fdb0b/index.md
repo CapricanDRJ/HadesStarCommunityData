@@ -16,9 +16,12 @@ date: 1733083336
  Join our discord for help with building your system to be awesome. Join our White Star battles as soon as you build a scanner to gain experience and have some fun!
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Join our discord for help with building your system to be awesome. Join our White Star battles as soon as you build a scanner to gain experience and have some fun!
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Join our discord for help with building your system to be awesome. Join our White Star battles as soon as you build a scanner to gain experience and have some fun!
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/WKKwkbPsya)
 ### Whitestar Bonus ✅

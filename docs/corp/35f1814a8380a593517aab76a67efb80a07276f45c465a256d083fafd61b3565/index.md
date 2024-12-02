@@ -16,9 +16,12 @@ date: 1712188114
  https://discord.gg/DGmS9c2b
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-https://discord.gg/DGmS9c2b
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    https://discord.gg/DGmS9c2b
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

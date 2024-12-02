@@ -19,12 +19,15 @@ https://discord.gg/F8c4yKxNnb
 n always friendly
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-join the discord server
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    join the discord server
 https://discord.gg/F8c4yKxNnb
 
 n always friendly
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

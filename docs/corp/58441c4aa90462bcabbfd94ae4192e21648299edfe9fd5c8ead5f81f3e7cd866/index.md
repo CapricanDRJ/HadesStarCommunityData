@@ -16,9 +16,12 @@ date: 1721694490
  Being active in Discovery is a requirement
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Being active in Discovery is a requirement
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Being active in Discovery is a requirement
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

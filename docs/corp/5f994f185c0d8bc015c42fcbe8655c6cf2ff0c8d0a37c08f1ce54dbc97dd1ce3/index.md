@@ -18,11 +18,14 @@ Hacemos EB semanal y hay muy buen rollo. Si quieres entrar haz solicitud por Dis
 https://discord.gg/nB2Nsukt7X
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Bienvenido a Veil of Maya
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Bienvenido a Veil of Maya
 Hacemos EB semanal y hay muy buen rollo. Si quieres entrar haz solicitud por Discord y te aceptaremos encantados!
 https://discord.gg/nB2Nsukt7X
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/https://discord.gg/nB2Nsukt7X)
 ### Whitestar Bonus ❌

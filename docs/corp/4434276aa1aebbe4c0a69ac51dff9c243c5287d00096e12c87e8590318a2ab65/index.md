@@ -16,9 +16,12 @@ date: 1730868965
  Korea Aerospace Research Institute
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Korea Aerospace Research Institute
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Korea Aerospace Research Institute
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/https://discord.gg/rxhQwwna)
 ### Whitestar Bonus ❌

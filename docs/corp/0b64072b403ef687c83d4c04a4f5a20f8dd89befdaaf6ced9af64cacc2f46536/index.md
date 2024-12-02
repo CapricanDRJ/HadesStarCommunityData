@@ -16,9 +16,12 @@ date: 1706143394
  WhatSapp nunero +50768683442 para las EB. Alianza:Axolotls. Fecha de inicio de corp : 1/7/2023. Ayuda en ER1/ER7. Estrellas Blancas Diarias 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-WhatSapp nunero +50768683442 para las EB. Alianza:Axolotls. Fecha de inicio de corp : 1/7/2023. Ayuda en ER1/ER7. Estrellas Blancas Diarias 
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    WhatSapp nunero +50768683442 para las EB. Alianza:Axolotls. Fecha de inicio de corp : 1/7/2023. Ayuda en ER1/ER7. Estrellas Blancas Diarias 
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/discod:https://discord.gg/aHg6eV7v)
 ### Whitestar Bonus ❌

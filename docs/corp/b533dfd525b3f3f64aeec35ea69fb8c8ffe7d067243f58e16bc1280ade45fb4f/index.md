@@ -23,8 +23,9 @@ Beginners welcome, we support you to grow.
 https://discord.gg/WKdC8XW
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Welcome to Star Dust.
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Welcome to Star Dust.
 
 We are an active group and play RS daily and WS weekly.
 No entries during WS. Plz apply later again.
@@ -32,7 +33,9 @@ No entries during WS. Plz apply later again.
 Beginners welcome, we support you to grow.
 
 https://discord.gg/WKdC8XW
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

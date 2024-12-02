@@ -16,9 +16,12 @@ date: 1719704704
  Corporación que admite a jugadores activos sin importar su nivel o poder imperial. El discord está en la descripción. 30 dias máximos de inactividad 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Corporación que admite a jugadores activos sin importar su nivel o poder imperial. El discord está en la descripción. 30 dias máximos de inactividad 
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Corporación que admite a jugadores activos sin importar su nivel o poder imperial. El discord está en la descripción. 30 dias máximos de inactividad 
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/rvVvpBuEb6)
 ### Whitestar Bonus ❌

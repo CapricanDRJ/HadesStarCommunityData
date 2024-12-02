@@ -16,9 +16,12 @@ date: 1726918839
  集团由苏联星系建立，十分欢迎各位玩家加入，正首:苏联星系。副首:四次元。上学日不开白:。不能骂人,偷神器。打白胜送神器。不能谋权篡位。新手福利送1~6级神器，未经允许不得更改。
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-集团由苏联星系建立，十分欢迎各位玩家加入，正首:苏联星系。副首:四次元。上学日不开白:。不能骂人,偷神器。打白胜送神器。不能谋权篡位。新手福利送1~6级神器，未经允许不得更改。
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    集团由苏联星系建立，十分欢迎各位玩家加入，正首:苏联星系。副首:四次元。上学日不开白:。不能骂人,偷神器。打白胜送神器。不能谋权篡位。新手福利送1~6级神器，未经允许不得更改。
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

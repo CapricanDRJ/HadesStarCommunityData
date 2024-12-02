@@ -21,14 +21,17 @@ date: 1704522124
 https://discord.gg/dZYNzuwr
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-От игроков требуется:
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    От игроков требуется:
 Помощь другим игрокам корпорации!
 Планируем совместный поход на БЗ. 
 Так же запрещается мат, особенно оскорбление участников корпы. 
  Дискорд :
 https://discord.gg/dZYNzuwr
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

@@ -16,9 +16,12 @@ date: 1732667751
  “Gloria Dominatio Zelus” Under a black flag we sail.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-“Gloria Dominatio Zelus” Under a black flag we sail.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    “Gloria Dominatio Zelus” Under a black flag we sail.
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/3Kn48fX)
 ### Whitestar Bonus ✅

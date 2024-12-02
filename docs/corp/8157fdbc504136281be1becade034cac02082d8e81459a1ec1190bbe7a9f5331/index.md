@@ -16,9 +16,12 @@ date: 1724334192
  Friend Group for beginners
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Friend Group for beginners
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Friend Group for beginners
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

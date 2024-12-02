@@ -23,16 +23,19 @@ White Star focused.
 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;b&gt;<span style="color:#FF1111;">Lacuna Group's&lt;/b&gt; advancement corp.
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <b><span style="color:#FF1111;">Lacuna Group's</b> advancement corp.
 
 Welcoming new players! Joining our discord is a hard requirement for joining the corp.
 
 White Star focused.
 
-&lt;b&gt;Discord:&lt;/b&gt; discord.gg/BFfSkvu
+<b>Discord:</b> discord.gg/BFfSkvu
 
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/BFfSkvu)
 ### Whitestar Bonus ✅

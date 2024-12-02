@@ -16,9 +16,12 @@ date: 1709290891
  no discord chat | active players | frequent white star scans
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-no discord chat | active players | frequent white star scans
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    no discord chat | active players | frequent white star scans
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

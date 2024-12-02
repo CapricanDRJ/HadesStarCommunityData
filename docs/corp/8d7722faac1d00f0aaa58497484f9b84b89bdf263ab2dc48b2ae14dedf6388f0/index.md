@@ -16,9 +16,12 @@ date: 1710829328
  una corporación unida ayudarse unos a otros y hacer fuertes a los débiles y olvidados y hacer crecer juntos esta corporación "OBLIGATORIO DISCORD PARA PARTICIPAR EN EB"
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-una corporación unida ayudarse unos a otros y hacer fuertes a los débiles y olvidados y hacer crecer juntos esta corporación "OBLIGATORIO DISCORD PARA PARTICIPAR EN EB"
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    una corporación unida ayudarse unos a otros y hacer fuertes a los débiles y olvidados y hacer crecer juntos esta corporación "OBLIGATORIO DISCORD PARA PARTICIPAR EN EB"
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/KzmnSRBBs2)
 ### Whitestar Bonus ❌

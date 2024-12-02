@@ -16,9 +16,12 @@ date: 1713190768
  Welcome to hang out. Very little going on around here. 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Welcome to hang out. Very little going on around here. 
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Welcome to hang out. Very little going on around here. 
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/kpnq4jZc56)
 ### Whitestar Bonus ❌

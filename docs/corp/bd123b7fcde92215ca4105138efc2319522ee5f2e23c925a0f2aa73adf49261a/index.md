@@ -20,13 +20,16 @@ date: 1703944226
 <color=#1DA1F2>TELEGRAM</color>: Best_Corp
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;b&gt;-Еженедельные походы на БЗ
--Регулярные частные КЗ&lt;/b&gt;
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <b>-Еженедельные походы на БЗ
+-Регулярные частные КЗ</b>
 
 <span style="color:#6666FF;">DISCORD</span>: pdsQpqw3Wy
 <span style="color:#1DA1F2;">TELEGRAM</span>: Best_Corp
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

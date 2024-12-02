@@ -20,13 +20,16 @@ date: 1733048773
 Telegram обязателен для вступления: https://t.me/DogDogDog10
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Рим анархиста.
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Рим анархиста.
 ▼ Посильная благотворительность
 ▼ Красные звёзды 2-9
 ▼ Белые звёзды - без ограничений
 Telegram обязателен для вступления: https://t.me/DogDogDog10
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/HmcXJFdWGC)
 ### Whitestar Bonus ✅

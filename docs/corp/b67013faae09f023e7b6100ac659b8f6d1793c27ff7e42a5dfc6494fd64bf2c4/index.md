@@ -16,9 +16,12 @@ date: 1722816017
  <color=#97F3DA><b>欢迎加入！让我们共同建设这片星河吧！</b>集团送7级神器！ 分团:德意志奥米加帝国、阿尔法帝国 只有三位首席可操作旗舰，违反者降职 首席:mars 童年 代理首席:不威水 过90级升干事 不可随意踢人 友盟：春城阳关、STRVS223～、边界 <color=red><b>黑名单:家园星系(来了就踢)</b></color>
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-<span style="color:#97F3DA;">&lt;b&gt;欢迎加入！让我们共同建设这片星河吧！&lt;/b&gt;集团送7级神器！ 分团:德意志奥米加帝国、阿尔法帝国 只有三位首席可操作旗舰，违反者降职 首席:mars 童年 代理首席:不威水 过90级升干事 不可随意踢人 友盟：春城阳关、STRVS223～、边界 <span style="color:red;">&lt;b&gt;黑名单:家园星系(来了就踢)&lt;/b&gt;</span>
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <span style="color:#97F3DA;"><b>欢迎加入！让我们共同建设这片星河吧！</b>集团送7级神器！ 分团:德意志奥米加帝国、阿尔法帝国 只有三位首席可操作旗舰，违反者降职 首席:mars 童年 代理首席:不威水 过90级升干事 不可随意踢人 友盟：春城阳关、STRVS223～、边界 <span style="color:red;"><b>黑名单:家园星系(来了就踢)</b></span>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

@@ -16,9 +16,12 @@ date: 1722403646
  666
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-666
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    666
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

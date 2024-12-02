@@ -18,11 +18,14 @@ date: 1732190565
 https://discord.gg/p5GSVDDrSc
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Anyone active welcome to join.
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Anyone active welcome to join.
 
 https://discord.gg/p5GSVDDrSc
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

@@ -16,9 +16,12 @@ date: 1728124618
  This is part of Grater T.Welcome the ones who are inactive and kicked by a bad guy called wx. Hope you guys a nice day
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-This is part of Grater T.Welcome the ones who are inactive and kicked by a bad guy called wx. Hope you guys a nice day
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    This is part of Grater T.Welcome the ones who are inactive and kicked by a bad guy called wx. Hope you guys a nice day
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

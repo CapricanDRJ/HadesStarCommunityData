@@ -18,11 +18,14 @@ date: 1709835656
 485343146
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-欢迎新人加入
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    欢迎新人加入
 好联系一点：qq群
 485343146
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/qSVJ3kUs)
 ### Whitestar Bonus ❌

@@ -16,9 +16,12 @@ date: 1715213588
  Any New players join here, we can do quite a bit in large numbers! Newbs, Assemble! Pls build a white star scanner if you can (only if u can) If u are not going to participate in white stars, tell me
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Any New players join here, we can do quite a bit in large numbers! Newbs, Assemble! Pls build a white star scanner if you can (only if u can) If u are not going to participate in white stars, tell me
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Any New players join here, we can do quite a bit in large numbers! Newbs, Assemble! Pls build a white star scanner if you can (only if u can) If u are not going to participate in white stars, tell me
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

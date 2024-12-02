@@ -16,9 +16,12 @@ date: 1712466617
  <size=60>Commander Cody and the Lost Planet Airmen</size> ... a roving band of misfits pilaging Hades Star's booty.<color="blue"></color> Interested in our alliance RSR?  Discord   Link below
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;size=60&gt;Commander Cody and the Lost Planet Airmen&lt;/size&gt; ... a roving band of misfits pilaging Hades Star's booty.<span style="color:"blue";"></span> Interested in our alliance RSR?  Discord   Link below
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <size=60>Commander Cody and the Lost Planet Airmen</size> ... a roving band of misfits pilaging Hades Star's booty.<span style="color:"blue";"></span> Interested in our alliance RSR?  Discord   Link below
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/r66hPREZUW)
 ### Whitestar Bonus ❌

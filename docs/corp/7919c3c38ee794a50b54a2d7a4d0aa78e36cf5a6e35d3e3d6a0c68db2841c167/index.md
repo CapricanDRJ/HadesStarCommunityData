@@ -16,9 +16,12 @@ date: 1712005979
  WE WANT YOUR ARTS, & RELICS! RS, & WS, casual. Discord: Obsolete. FS donations, unnecessary. Live Long, & Prosper!🖖 (English speaking) HELP GUIDE @ https://userxinos.github.io/HadesSpace/
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-WE WANT YOUR ARTS, & RELICS! RS, & WS, casual. Discord: Obsolete. FS donations, unnecessary. Live Long, & Prosper!🖖 (English speaking) HELP GUIDE @ https://userxinos.github.io/HadesSpace/
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    WE WANT YOUR ARTS, & RELICS! RS, & WS, casual. Discord: Obsolete. FS donations, unnecessary. Live Long, & Prosper!🖖 (English speaking) HELP GUIDE @ https://userxinos.github.io/HadesSpace/
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

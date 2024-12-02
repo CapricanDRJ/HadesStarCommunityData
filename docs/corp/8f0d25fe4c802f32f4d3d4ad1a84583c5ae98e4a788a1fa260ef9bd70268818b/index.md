@@ -22,15 +22,18 @@ date: 1711200115
 本团属于九团公约成员
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-本团秉承共产主义原则，互帮互助，欢迎各位加入。
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    本团秉承共产主义原则，互帮互助，欢迎各位加入。
 <span style="color:red;">本团为共产星际分团
 常驻可以加群免费领神器
 请不要捐旗舰！
 本团为次活跃分团，活跃玩家请移步第四星际不常活跃玩家请移步第六，第七星际
 <span style="color:yellow;">QQ群：946597244
 本团属于九团公约成员
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

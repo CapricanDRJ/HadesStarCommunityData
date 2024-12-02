@@ -16,9 +16,12 @@ date: 1702319921
  Red Star Farmers           Currently in Chapter 11 reorganization.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Red Star Farmers           Currently in Chapter 11 reorganization.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Red Star Farmers           Currently in Chapter 11 reorganization.
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

@@ -16,9 +16,12 @@ date: 1731935746
  Ruling the universe is our simple goal.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Ruling the universe is our simple goal.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Ruling the universe is our simple goal.
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

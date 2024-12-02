@@ -16,9 +16,12 @@ date: 1732718826
  Bɪᴇɴᴠᴇɴɪᴅᴏs 👾ᴄᴏʀᴘᴏʀᴀᴄɪᴏɴ ᴇɴ Cʀᴇᴄɪᴍɪᴇɴᴛᴏ ᴇɴ ᴄᴏɴᴊᴜᴛᴏ ᴄᴏɴ Sᴘʀɪᴛᴇ!    •Dᴀᴍᴏs ᴀʀᴛᴇғᴀᴄᴛᴏs     •Aʏᴜᴅᴀᴍᴏs ᴇɴ Eʀ ʏ Eʀᴏs   •EB sᴇᴍᴀɴᴀʟ        •Gʀᴜᴘᴏ ᴅᴇ WʜᴀᴛsAᴘᴘ          •Eᴠᴇɴᴛᴏs Axᴏʟᴏᴛʟ Bᴜsᴄᴀᴍᴏs Cʀᴇᴄᴇʀ✨
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Bɪᴇɴᴠᴇɴɪᴅᴏs 👾ᴄᴏʀᴘᴏʀᴀᴄɪᴏɴ ᴇɴ Cʀᴇᴄɪᴍɪᴇɴᴛᴏ ᴇɴ ᴄᴏɴᴊᴜᴛᴏ ᴄᴏɴ Sᴘʀɪᴛᴇ!    •Dᴀᴍᴏs ᴀʀᴛᴇғᴀᴄᴛᴏs     •Aʏᴜᴅᴀᴍᴏs ᴇɴ Eʀ ʏ Eʀᴏs   •EB sᴇᴍᴀɴᴀʟ        •Gʀᴜᴘᴏ ᴅᴇ WʜᴀᴛsAᴘᴘ          •Eᴠᴇɴᴛᴏs Axᴏʟᴏᴛʟ Bᴜsᴄᴀᴍᴏs Cʀᴇᴄᴇʀ✨
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Bɪᴇɴᴠᴇɴɪᴅᴏs 👾ᴄᴏʀᴘᴏʀᴀᴄɪᴏɴ ᴇɴ Cʀᴇᴄɪᴍɪᴇɴᴛᴏ ᴇɴ ᴄᴏɴᴊᴜᴛᴏ ᴄᴏɴ Sᴘʀɪᴛᴇ!    •Dᴀᴍᴏs ᴀʀᴛᴇғᴀᴄᴛᴏs     •Aʏᴜᴅᴀᴍᴏs ᴇɴ Eʀ ʏ Eʀᴏs   •EB sᴇᴍᴀɴᴀʟ        •Gʀᴜᴘᴏ ᴅᴇ WʜᴀᴛsAᴘᴘ          •Eᴠᴇɴᴛᴏs Axᴏʟᴏᴛʟ Bᴜsᴄᴀᴍᴏs Cʀᴇᴄᴇʀ✨
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ✅
 

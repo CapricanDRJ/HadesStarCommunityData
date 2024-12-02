@@ -18,11 +18,14 @@ date: 1732659339
 Note- Discord link is updated. Will expire in 7 DAYS
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Friendly and helpful. Open to all. Discord is required. 
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Friendly and helpful. Open to all. Discord is required. 
 
 Note- Discord link is updated. Will expire in 7 DAYS
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/CzUVew5w)
 ### Whitestar Bonus ❌

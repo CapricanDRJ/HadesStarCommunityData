@@ -16,9 +16,12 @@ date: 1720495291
  Bienvenidos a la Corp Copelius. Apoyándonos para crecer unidos.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Bienvenidos a la Corp Copelius. Apoyándonos para crecer unidos.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Bienvenidos a la Corp Copelius. Apoyándonos para crecer unidos.
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

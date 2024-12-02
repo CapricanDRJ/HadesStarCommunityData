@@ -27,11 +27,12 @@ Max period of inactivity: 3 days.
 English only.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;b&gt;IA2&lt;/b&gt;
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <b>IA2</b>
 
 Second Fleet of the
-&lt;size=60&gt;IMPERIAL ARMADA&lt;/size&gt;
+<size=60>IMPERIAL ARMADA</size>
 
 Discord mandatory.
 24 hours to join.
@@ -40,7 +41,9 @@ Discord mandatory.
 Max period of inactivity: 3 days.
 
 English only.
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/https://discord.gg/bAAYCqG2cE)
 ### Whitestar Bonus ❌

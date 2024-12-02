@@ -16,9 +16,12 @@ date: 1708621391
  2022.1.15      xiao
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-2022.1.15      xiao
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    2022.1.15      xiao
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

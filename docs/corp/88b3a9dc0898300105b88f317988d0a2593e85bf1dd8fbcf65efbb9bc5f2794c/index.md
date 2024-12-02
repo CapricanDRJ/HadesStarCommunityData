@@ -16,9 +16,12 @@ date: 1715813584
  5/10/24 - Join us! We need help with white stars and leveling up our flagship and corp bonuses!
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-5/10/24 - Join us! We need help with white stars and leveling up our flagship and corp bonuses!
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    5/10/24 - Join us! We need help with white stars and leveling up our flagship and corp bonuses!
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

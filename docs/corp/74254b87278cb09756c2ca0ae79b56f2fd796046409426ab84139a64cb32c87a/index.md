@@ -16,9 +16,12 @@ date: 1718516310
  We are the sister Corp of ANDROMEDA INC. We’re the super relaxed, slightly lazy Corp in the Guild. And, we’re international and very friendly. We may run a casual White Star if we feel like it.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-We are the sister Corp of ANDROMEDA INC. We’re the super relaxed, slightly lazy Corp in the Guild. And, we’re international and very friendly. We may run a casual White Star if we feel like it.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    We are the sister Corp of ANDROMEDA INC. We’re the super relaxed, slightly lazy Corp in the Guild. And, we’re international and very friendly. We may run a casual White Star if we feel like it.
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

@@ -21,14 +21,17 @@ You are RS5+ & want to join?</color>
 Discord: (YTaYrhy)
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-<span style="color:white;">We are BSO! The oldest conglomerate in HS
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <span style="color:white;">We are BSO! The oldest conglomerate in HS
 
 BlackStar Order, Final, TS, UG, AN, Dau, Pro, Soy, & Obn working together to excel
 
 You are RS5+ & want to join?</span>
 Discord: (YTaYrhy)
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/YTaYrhy)
 ### Whitestar Bonus ✅

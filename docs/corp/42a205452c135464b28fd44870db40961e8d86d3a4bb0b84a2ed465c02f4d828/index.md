@@ -17,10 +17,13 @@ date: 1709557424
 we came to relaxed ws
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;size=70&gt;<span style="color:#48a9a9;">www.DISCORD.gg/cr67TAf</span>&lt;/size&gt; We are not active lately. the best times for us passed by.
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <size=70><span style="color:#48a9a9;">www.DISCORD.gg/cr67TAf</span></size> We are not active lately. the best times for us passed by.
 we came to relaxed ws
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

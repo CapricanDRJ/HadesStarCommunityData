@@ -16,9 +16,12 @@ date: 1732597436
  欢迎大家加入我们团队。我们每周四上午开白周末参加即可。请勿长时间不上号。添加QQ 3465737977 /游戏内 fqy 好友以方便交流。招募成员！
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-欢迎大家加入我们团队。我们每周四上午开白周末参加即可。请勿长时间不上号。添加QQ 3465737977 /游戏内 fqy 好友以方便交流。招募成员！
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    欢迎大家加入我们团队。我们每周四上午开白周末参加即可。请勿长时间不上号。添加QQ 3465737977 /游戏内 fqy 好友以方便交流。招募成员！
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

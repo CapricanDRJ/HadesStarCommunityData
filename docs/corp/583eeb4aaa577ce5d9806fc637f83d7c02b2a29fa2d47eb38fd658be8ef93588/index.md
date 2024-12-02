@@ -16,9 +16,12 @@ date: 1725445905
  //THE CORP IS DEAD//THE CORP IS DEAD//THE CORP IS DEAD//THE  CORP IS DEAD//THE CORP IS DEAD//THE CORP IS DEAD//THE CORP IS DEAD//THE CORP IS DEAD//THE CORP IS DEAD//THE CORP IS DEAD//THE CORP IS DEAD|
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-//THE CORP IS DEAD//THE CORP IS DEAD//THE CORP IS DEAD//THE  CORP IS DEAD//THE CORP IS DEAD//THE CORP IS DEAD//THE CORP IS DEAD//THE CORP IS DEAD//THE CORP IS DEAD//THE CORP IS DEAD//THE CORP IS DEAD|
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    //THE CORP IS DEAD//THE CORP IS DEAD//THE CORP IS DEAD//THE  CORP IS DEAD//THE CORP IS DEAD//THE CORP IS DEAD//THE CORP IS DEAD//THE CORP IS DEAD//THE CORP IS DEAD//THE CORP IS DEAD//THE CORP IS DEAD|
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/TZRY8esKFz)
 ### Whitestar Bonus ❌

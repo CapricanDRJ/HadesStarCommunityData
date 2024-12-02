@@ -17,10 +17,13 @@ date: 1727170260
 <color=yellow>t.me/UAonline1xx</color>
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-<span style="color:red;">discord.gg/KvDRRrvv</span>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <span style="color:red;">discord.gg/KvDRRrvv</span>
 <span style="color:yellow;">t.me/UAonline1xx</span>
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

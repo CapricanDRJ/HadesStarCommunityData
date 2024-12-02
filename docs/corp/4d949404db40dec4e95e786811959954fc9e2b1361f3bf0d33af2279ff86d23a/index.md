@@ -16,9 +16,12 @@ date: 1729851481
  Chill Corporation. English. White stars not required but encouraged if possible. Come here to develop, help with red stars. Please stay relatively active. Discord not required but recommended.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Chill Corporation. English. White stars not required but encouraged if possible. Come here to develop, help with red stars. Please stay relatively active. Discord not required but recommended.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Chill Corporation. English. White stars not required but encouraged if possible. Come here to develop, help with red stars. Please stay relatively active. Discord not required but recommended.
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/https://discord.gg/kcjNMkkH)
 ### Whitestar Bonus ❌

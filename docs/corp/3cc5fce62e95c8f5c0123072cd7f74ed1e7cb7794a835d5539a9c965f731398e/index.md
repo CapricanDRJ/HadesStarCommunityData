@@ -16,9 +16,12 @@ date: 1722286796
  FAIR - Farm All In Range.  We are primarily a White Star corp. all corp mambers are expected to do at least one white star a month.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-FAIR - Farm All In Range.  We are primarily a White Star corp. all corp mambers are expected to do at least one white star a month.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    FAIR - Farm All In Range.  We are primarily a White Star corp. all corp mambers are expected to do at least one white star a month.
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

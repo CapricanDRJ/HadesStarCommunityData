@@ -16,9 +16,12 @@ date: 1732950217
   <color=yellow>Public UIH RS Corp for 48% runs. Join us on discord! discord is mandatory for membership.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
- <span style="color:yellow;">Public UIH RS Corp for 48% runs. Join us on discord! discord is mandatory for membership.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+     <span style="color:yellow;">Public UIH RS Corp for 48% runs. Join us on discord! discord is mandatory for membership.
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/vPsNNxs)
 ### Whitestar Bonus ✅

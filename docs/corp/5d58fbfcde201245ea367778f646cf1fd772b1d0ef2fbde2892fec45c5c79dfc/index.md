@@ -20,13 +20,16 @@ date: 1702833557
 Hop in Discord - 9aD8bFDvY4
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;size=50&gt;<span style="color:#F55D06;">~Welcome to Wispered Storm~</span>&lt;/size&gt;
-&lt;size=50&gt;<span style="color:#13FF00;">~Join up and Ride the Storm~</span>&lt;/size&gt;
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <size=50><span style="color:#F55D06;">~Welcome to Wispered Storm~</span></size>
+<size=50><span style="color:#13FF00;">~Join up and Ride the Storm~</span></size>
 *Weekly WS
 *RS 6-10
 Hop in Discord - 9aD8bFDvY4
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/9aD8bFDvY4)
 ### Whitestar Bonus ❌

@@ -16,9 +16,12 @@ date: 1708401727
  Weekly 10v10 white stars.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Weekly 10v10 white stars.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Weekly 10v10 white stars.
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/c6sjypySxH)
 ### Whitestar Bonus ❌

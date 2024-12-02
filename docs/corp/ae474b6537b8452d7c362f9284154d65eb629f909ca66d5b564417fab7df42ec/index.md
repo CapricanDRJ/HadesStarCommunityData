@@ -16,9 +16,12 @@ date: 1706097412
  To defeat the Wraith. 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-To defeat the Wraith. 
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    To defeat the Wraith. 
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

@@ -19,12 +19,15 @@ Necessary training and advise provided.
 Discord server :
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Recruitment and Training wing for Game of Stars Corp.
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Recruitment and Training wing for Game of Stars Corp.
 All levels welcome
 Necessary training and advise provided.
 Discord server :
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

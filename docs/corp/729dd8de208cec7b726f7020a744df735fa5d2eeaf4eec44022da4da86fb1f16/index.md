@@ -16,9 +16,12 @@ date: 1702422706
  Serenity merged with lacuna. This leftover corp is not active. New players can use it as a quiet place to start.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Serenity merged with lacuna. This leftover corp is not active. New players can use it as a quiet place to start.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Serenity merged with lacuna. This leftover corp is not active. New players can use it as a quiet place to start.
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/PSryd83)
 ### Whitestar Bonus ❌

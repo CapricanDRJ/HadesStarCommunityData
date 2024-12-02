@@ -23,8 +23,9 @@ Chat us up
 https://discord.gg/gBFFE5x
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-We are &lt;b&gt;OntarioDynasty!&lt;/b&gt;
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    We are <b>OntarioDynasty!</b>
 
 12 corps across all RS levels ...
 
@@ -32,7 +33,9 @@ New players are welcome to grow your Dynasty in OntarioDiligent, space bar or Me
 
 Chat us up
 https://discord.gg/gBFFE5x
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/xbJA3n56)
 ### Whitestar Bonus ❌

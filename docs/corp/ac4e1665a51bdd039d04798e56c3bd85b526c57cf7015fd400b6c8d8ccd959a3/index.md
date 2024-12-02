@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​63SALVADORES36
-description: W:7 L:12 D:1 Bonus ✅
+description: W:7 L:12 D:1 Bonus ❌
 image: ./favicon.png
 date: 1733052071
 ---
@@ -26,8 +26,9 @@ Discord: https://discord.gg/wnw8sSwy
 "Federación Versalles"
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-CORP DE TRADEOS
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    CORP DE TRADEOS
 EBD diarias.
 Corporaciones aliadas:
 -Imperio tortuga
@@ -38,9 +39,11 @@ Corporaciones aliadas:
 -Свободный флот
 Discord: https://discord.gg/wnw8sSwy
 "Federación Versalles"
-</div>
+    </div>
+    {:/}
+    
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

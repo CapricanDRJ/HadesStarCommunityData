@@ -21,14 +21,17 @@ The thrust to your ship.
 A Space Family :)
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Keeping it in the family since 2017! 
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Keeping it in the family since 2017! 
 
 We’re the black hole to your probe. 
 The thrust to your ship. 
 
 A Space Family :)
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

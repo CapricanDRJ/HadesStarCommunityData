@@ -16,9 +16,12 @@ date: 1725693704
  THE CYDONIAN EMPIRE™ 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-THE CYDONIAN EMPIRE™ 
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    THE CYDONIAN EMPIRE™ 
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/QMdDHJjzwS)
 ### Whitestar Bonus ❌

@@ -16,9 +16,12 @@ date: 1723284510
  欢迎各位萌新、大佬来本星际集团，进了必升到干事。如有不满，敬请投诉。12.2 至少需要3级红巨星扫描仪、所有船舰至少升至2级，并且最多30天离线。1.30
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-欢迎各位萌新、大佬来本星际集团，进了必升到干事。如有不满，敬请投诉。12.2 至少需要3级红巨星扫描仪、所有船舰至少升至2级，并且最多30天离线。1.30
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    欢迎各位萌新、大佬来本星际集团，进了必升到干事。如有不满，敬请投诉。12.2 至少需要3级红巨星扫描仪、所有船舰至少升至2级，并且最多30天离线。1.30
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

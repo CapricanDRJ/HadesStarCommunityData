@@ -18,11 +18,14 @@ date: 1701973393
 <color=purple>• Чат в TG</color>
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-<span style="color:red;">• Ежедневные походы на КЗ 9-11</span>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <span style="color:red;">• Ежедневные походы на КЗ 9-11</span>
 <span style="color:white;">• Еженедельные походы на БЗ</span>
 <span style="color:purple;">• Чат в TG</span>
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/tFTT3b8H)
 ### Whitestar Bonus ❌

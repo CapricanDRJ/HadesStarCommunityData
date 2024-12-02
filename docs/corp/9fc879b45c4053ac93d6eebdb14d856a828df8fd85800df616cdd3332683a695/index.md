@@ -16,9 +16,12 @@ date: 1731512024
  Multi national Corp across all time zones. Friendly, relaxed, supportive. Lets GO!
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Multi national Corp across all time zones. Friendly, relaxed, supportive. Lets GO!
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Multi national Corp across all time zones. Friendly, relaxed, supportive. Lets GO!
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

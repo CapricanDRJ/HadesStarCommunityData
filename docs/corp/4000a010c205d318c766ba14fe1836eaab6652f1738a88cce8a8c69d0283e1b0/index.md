@@ -19,12 +19,15 @@ date: 1733094804
 https://discord.gg/CY4M2awSgS
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;b&gt;Добро пожаловать в Axiom! &lt;/b&gt; 
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <b>Добро пожаловать в Axiom! </b> 
  Ведётся набор! Помощь новичкам и лоулвл.  
 Основана 01.09.2019
 https://discord.gg/CY4M2awSgS
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/CY4M2awSgS)
 ### Whitestar Bonus ✅

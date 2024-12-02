@@ -17,10 +17,13 @@ date: 1703132249
 Discord: https://discord.gg/
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Have fun. Help your fellow player. White Stars. Private Red Stars. Be active.
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Have fun. Help your fellow player. White Stars. Private Red Stars. Be active.
 Discord: https://discord.gg/
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

@@ -17,10 +17,13 @@ date: 1726772074
 трупы убиты и похоронены)
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-в удовольствие!
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    в удовольствие!
 трупы убиты и похоронены)
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

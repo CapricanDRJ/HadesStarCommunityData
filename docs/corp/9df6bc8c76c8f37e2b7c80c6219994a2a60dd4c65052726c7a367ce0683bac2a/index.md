@@ -16,9 +16,12 @@ date: 1722381254
  All are welcome to join! Ask for help if needed on redstar runs. Chat through LINE app. Group name “HADES’ STAR”. Send pm to id: stevekuling
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-All are welcome to join! Ask for help if needed on redstar runs. Chat through LINE app. Group name “HADES’ STAR”. Send pm to id: stevekuling
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    All are welcome to join! Ask for help if needed on redstar runs. Chat through LINE app. Group name “HADES’ STAR”. Send pm to id: stevekuling
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

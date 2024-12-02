@@ -17,10 +17,13 @@ date: 1709592586
 Discord participation is mandatory. Join here: https://discord.gg/upznTnWWUf
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Will help new players. Laid back, no drama.
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Will help new players. Laid back, no drama.
 Discord participation is mandatory. Join here: https://discord.gg/upznTnWWUf
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

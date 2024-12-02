@@ -22,15 +22,18 @@ Jr Corp-Time Lords Jr
 Alt Corp - Time Lords Alts
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Have Fun, Be Active in Corp Chat, Be Respectful to Corp Mates. Allies of Paradiso to excel together!
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Have Fun, Be Active in Corp Chat, Be Respectful to Corp Mates. Allies of Paradiso to excel together!
 
 Time Lord Code-VyUtJZG
 Ally Code-CkQfp5t
 
 Jr Corp-Time Lords Jr
 Alt Corp - Time Lords Alts
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

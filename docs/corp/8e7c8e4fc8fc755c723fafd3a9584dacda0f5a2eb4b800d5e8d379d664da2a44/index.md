@@ -16,9 +16,12 @@ date: 1710967539
  русские идут
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-русские идут
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    русские идут
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

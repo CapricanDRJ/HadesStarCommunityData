@@ -16,9 +16,12 @@ date: 1705149299
  lol xdxd корпа сдохла
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-lol xdxd корпа сдохла
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    lol xdxd корпа сдохла
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

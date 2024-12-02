@@ -16,9 +16,12 @@ date: 1706218527
  Auf zur Macht...möge die Macht mit euch sein... habt Spaß und seid nett zueinander... im Moment wöchentliche WZ und täglich RR bis (7). Aktiv erwünscht
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Auf zur Macht...möge die Macht mit euch sein... habt Spaß und seid nett zueinander... im Moment wöchentliche WZ und täglich RR bis (7). Aktiv erwünscht
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Auf zur Macht...möge die Macht mit euch sein... habt Spaß und seid nett zueinander... im Moment wöchentliche WZ und täglich RR bis (7). Aktiv erwünscht
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

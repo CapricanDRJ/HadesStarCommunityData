@@ -18,11 +18,14 @@ date: 1732482656
 Immer schön freundlich sein ^^
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Alles kann, nix muss. 
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Alles kann, nix muss. 
 
 Immer schön freundlich sein ^^
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

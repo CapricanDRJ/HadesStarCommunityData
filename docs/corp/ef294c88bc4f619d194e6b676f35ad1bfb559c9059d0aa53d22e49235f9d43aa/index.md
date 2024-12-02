@@ -16,9 +16,12 @@ date: 1730710906
  You are lucky to meet me in White Star! Congratulations!
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-You are lucky to meet me in White Star! Congratulations!
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    You are lucky to meet me in White Star! Congratulations!
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

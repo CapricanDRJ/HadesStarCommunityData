@@ -20,13 +20,16 @@ https://discord.gg/thfx8WYSru
 є Telegram 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-корпа для активних гравців
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    корпа для активних гравців
 кз 1-9, також регулярні бз.
 Посилання на Discord:
 https://discord.gg/thfx8WYSru
 є Telegram 
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

@@ -16,9 +16,12 @@ date: 1723153186
  LEAVE!!!
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-LEAVE!!!
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    LEAVE!!!
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/I like Chelsea’s feet)
 ### Whitestar Bonus ❌

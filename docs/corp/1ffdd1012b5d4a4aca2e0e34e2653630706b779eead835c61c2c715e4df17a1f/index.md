@@ -19,12 +19,15 @@ Sailors are back! We have joined UIH and now are 11 corps.  Please contact us on
 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-United Industry of Hades
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    United Industry of Hades
 Sailors are back! We have joined UIH and now are 11 corps.  Please contact us on Discord prior to joining.
 
 
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/jrqyXc8)
 ### Whitestar Bonus ❌

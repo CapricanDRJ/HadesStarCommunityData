@@ -24,17 +24,20 @@ date: 1702529096
 不要外交黑名单
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-<span style="color:red;">欢迎来到这里，我会帮助任何来这里的萌新，请加入的团员多多说话，不要咸鱼，不许不文明</span>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <span style="color:red;">欢迎来到这里，我会帮助任何来这里的萌新，请加入的团员多多说话，不要咸鱼，不许不文明</span>
 联盟共立的集团：CMPN共和共产联盟
-&lt;size=100&gt;集团首席新地球&lt;/size&gt;
+<size=100>集团首席新地球</size>
 老成员回来后，请帮忙晋升回去
 分团:传说之下、三体第三舰队
-&lt;size=120&gt;集团诚邀打白的人&lt;/size&gt;
+<size=120>集团诚邀打白的人</size>
 黑：American
 频道QQ群695410371
 不要外交黑名单
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/SK48856)
 ### Whitestar Bonus ❌

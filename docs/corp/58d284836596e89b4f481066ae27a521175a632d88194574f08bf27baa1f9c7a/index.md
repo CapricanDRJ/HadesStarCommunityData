@@ -18,11 +18,14 @@ date: 1705578729
 Help each other and have fun.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-“He who stands with me shall be my brother.”
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    “He who stands with me shall be my brother.”
 
 Help each other and have fun.
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

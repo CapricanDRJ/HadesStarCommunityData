@@ -16,9 +16,12 @@ date: 1702541717
  Konzern im Ruhemodus (Offen für alle aktiven Spieler. Teamplay bei RR und WZ sind Voraussetzung.)
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Konzern im Ruhemodus (Offen für alle aktiven Spieler. Teamplay bei RR und WZ sind Voraussetzung.)
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Konzern im Ruhemodus (Offen für alle aktiven Spieler. Teamplay bei RR und WZ sind Voraussetzung.)
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/hj3teyk3bu)
 ### Whitestar Bonus ❌

@@ -22,15 +22,18 @@ Recruiting rs9-rs11
 Discord: asheRjW
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-<span style="color:white;">What could be better than wobbling around star systems! 
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <span style="color:white;">What could be better than wobbling around star systems! 
 
 We are Penguin Horde , Come join us today! Here to bring joy to all penguins.</span> 
 
 
 Recruiting rs9-rs11
 Discord: asheRjW
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/asheRjW)
 ### Whitestar Bonus ✅

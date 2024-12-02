@@ -21,14 +21,17 @@ date: 1733042164
 Discord: https://discord.gg/A26JEJgPwh
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;b&gt;&lt;size=80&gt;<span style="color:blue;">Corp. per tutti</span>&lt;/size&gt;&lt;/b&gt; (grandi e piccoli)
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <b><size=80><span style="color:blue;">Corp. per tutti</span></size></b> (grandi e piccoli)
 
-&lt;b&gt;&lt;size=40&gt;<span style="color:red;">WS sempre</span>&lt;/size&gt;&lt;/b&gt;
+<b><size=40><span style="color:red;">WS sempre</span></size></b>
 
 
 Discord: https://discord.gg/A26JEJgPwh
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/https://discord.com/invite/xGMUwWdzab)
 ### Whitestar Bonus ✅

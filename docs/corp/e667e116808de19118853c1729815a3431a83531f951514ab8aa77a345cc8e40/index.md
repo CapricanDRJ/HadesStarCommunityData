@@ -17,10 +17,13 @@ date: 1732221525
 Gegenseitiger Respekt und Hilfe untereinander sind selbstverständlich.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Wir sind ein Deutschsprachiger Konzern der spaß am spiel hat!
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Wir sind ein Deutschsprachiger Konzern der spaß am spiel hat!
 Gegenseitiger Respekt und Hilfe untereinander sind selbstverständlich.
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/Y34KuSs7CE)
 ### Whitestar Bonus ❌

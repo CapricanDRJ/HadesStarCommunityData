@@ -16,9 +16,12 @@ date: 1732808486
  KillFrist
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-KillFrist
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    KillFrist
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

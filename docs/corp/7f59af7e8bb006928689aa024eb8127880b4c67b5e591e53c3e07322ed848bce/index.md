@@ -16,9 +16,12 @@ date: 1705332614
  Just a small colonial empire seeking to control the galaxy.  We play WS occasionally but we are very laid back when it comes to PVP.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Just a small colonial empire seeking to control the galaxy.  We play WS occasionally but we are very laid back when it comes to PVP.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Just a small colonial empire seeking to control the galaxy.  We play WS occasionally but we are very laid back when it comes to PVP.
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/2vv3BUxj)
 ### Whitestar Bonus ❌

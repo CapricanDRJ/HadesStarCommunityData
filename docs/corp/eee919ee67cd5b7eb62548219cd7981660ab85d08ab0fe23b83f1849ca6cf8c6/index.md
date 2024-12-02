@@ -21,14 +21,17 @@ Corpo école : Polaris Corpo
 Corpo des alts : On en a petit !
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Organisation, entraide et bonne humeur !
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Organisation, entraide et bonne humeur !
 RS 6 à 10
 Guerres WS chaque semaine.Events classés !
 Corpo mère : On en a Gros !
 Corpo école : Polaris Corpo
 Corpo des alts : On en a petit !
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/EXj5vtr)
 ### Whitestar Bonus ❌

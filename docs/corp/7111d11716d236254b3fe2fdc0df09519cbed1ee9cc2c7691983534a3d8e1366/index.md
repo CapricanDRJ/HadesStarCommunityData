@@ -25,8 +25,9 @@ https://discord.gg/M35HmhvmC2
 Mitglied der Tartaros Armada 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Hilfe und Rat
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Hilfe und Rat
 Spaß im Vordergrund
 Entspanntes Miteinander
 Keine Ich AG
@@ -36,7 +37,9 @@ Discord nur für WZ Pflicht
 https://discord.gg/M35HmhvmC2
 
 Mitglied der Tartaros Armada 
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

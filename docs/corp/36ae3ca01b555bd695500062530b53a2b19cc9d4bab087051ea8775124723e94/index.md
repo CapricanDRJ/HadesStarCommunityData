@@ -16,9 +16,12 @@ date: 1711680863
  노장은 사실 죽어요
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-노장은 사실 죽어요
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    노장은 사실 죽어요
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

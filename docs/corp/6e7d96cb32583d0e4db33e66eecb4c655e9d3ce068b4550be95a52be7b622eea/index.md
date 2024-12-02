@@ -22,15 +22,18 @@ Für Planung und Kommunikation außerhalb des Spiels
 https://discord.gg/CFhYyYave
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Entspannter Konzern, um zusammen Spass zu haben und einander zu helfen.
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Entspannter Konzern, um zusammen Spass zu haben und einander zu helfen.
 
 Chatsprache vorzugsweise Deutsch.
 
 Für Planung und Kommunikation außerhalb des Spiels
 
 https://discord.gg/CFhYyYave
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/https://discord.gg/nzkvKWGYft)
 ### Whitestar Bonus ❌

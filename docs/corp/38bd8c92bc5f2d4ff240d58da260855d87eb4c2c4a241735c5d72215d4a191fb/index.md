@@ -18,11 +18,14 @@ date: 1729543151
 •Hit up the chat system so we can hear whats on ur mind
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-•This Corp is open to everybody 
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    •This Corp is open to everybody 
 •Get diplomatic station so u can get help from one of our members
 •Hit up the chat system so we can hear whats on ur mind
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

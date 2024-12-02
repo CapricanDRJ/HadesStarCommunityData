@@ -20,13 +20,16 @@ https://discord.gg/7J9fa2egCU
 Join for Senior M.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Galactic Defence Council
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Galactic Defence Council
 "Hope in the darkness" 
 Please be Active in chat and try to participate during WS, RS, and random stuff. Be kind in chat!!!!! 
 https://discord.gg/7J9fa2egCU
 Join for Senior M.
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

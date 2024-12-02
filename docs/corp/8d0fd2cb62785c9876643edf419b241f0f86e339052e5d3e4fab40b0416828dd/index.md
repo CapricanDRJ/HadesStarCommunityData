@@ -16,9 +16,12 @@ date: 1731959190
  We are frequent in white stars, helping beginners, and pretty calm corporation.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-We are frequent in white stars, helping beginners, and pretty calm corporation.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    We are frequent in white stars, helping beginners, and pretty calm corporation.
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

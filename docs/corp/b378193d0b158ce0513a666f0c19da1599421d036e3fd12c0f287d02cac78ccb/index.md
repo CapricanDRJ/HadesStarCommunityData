@@ -16,9 +16,12 @@ date: 1732505188
  Welcome to the SGC.  White Star scanners turned on at WS search requires active participation or you will be kicked from the corp.  Turn OFF WS scanner if unable to participate.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Welcome to the SGC.  White Star scanners turned on at WS search requires active participation or you will be kicked from the corp.  Turn OFF WS scanner if unable to participate.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Welcome to the SGC.  White Star scanners turned on at WS search requires active participation or you will be kicked from the corp.  Turn OFF WS scanner if unable to participate.
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

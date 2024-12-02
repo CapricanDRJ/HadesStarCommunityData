@@ -16,9 +16,12 @@ date: 1728755717
  <size=50><color=purple>Cry havoc and let slip the dogs of war!</color></size>            <color=lightblue>Discord required:</color> <color=orange>GAGZQ3U</color>
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;size=50&gt;<span style="color:purple;">Cry havoc and let slip the dogs of war!</span>&lt;/size&gt;            <span style="color:lightblue;">Discord required:</span> <span style="color:orange;">GAGZQ3U</span>
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <size=50><span style="color:purple;">Cry havoc and let slip the dogs of war!</span></size>            <span style="color:lightblue;">Discord required:</span> <span style="color:orange;">GAGZQ3U</span>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/GAGZQ3U)
 ### Whitestar Bonus ❌

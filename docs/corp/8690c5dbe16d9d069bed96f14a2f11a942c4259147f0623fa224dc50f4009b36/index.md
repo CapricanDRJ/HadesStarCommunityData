@@ -16,9 +16,12 @@ date: 1732923180
  <size="55"><color="white"><b> "Люди будут летать в космос по профсоюзным путевкам". С.П.Королев. Добро пожаловать в Профсоюз! Играем "ленивые" бз! </b></color></size>. https://t.me/corpkulak
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;size="55"&gt;<span style="color:"white";">&lt;b&gt; "Люди будут летать в космос по профсоюзным путевкам". С.П.Королев. Добро пожаловать в Профсоюз! Играем "ленивые" бз! &lt;/b&gt;</span>&lt;/size&gt;. https://t.me/corpkulak
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <size="55"><span style="color:"white";"><b> "Люди будут летать в космос по профсоюзным путевкам". С.П.Королев. Добро пожаловать в Профсоюз! Играем "ленивые" бз! </b></span></size>. https://t.me/corpkulak
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ✅
 

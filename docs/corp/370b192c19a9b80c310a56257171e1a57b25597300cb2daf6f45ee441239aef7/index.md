@@ -18,11 +18,14 @@ discord or kick
 https://discord.gg/eMsE7sU
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Warlord retirement village.  Stay off my lawn!
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Warlord retirement village.  Stay off my lawn!
 discord or kick
 https://discord.gg/eMsE7sU
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

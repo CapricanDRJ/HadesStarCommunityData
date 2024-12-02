@@ -16,9 +16,12 @@ date: 1724489272
  <#f00>盟主大号丢了，<#ff0>偶尔奋发，日常瘫痪，白会打 <#0ff>QQ群：964400509<#ff1>（不强制）<#ffe>（有能力的投旗舰1）<#f00>（首席近期要开学了...对...开学，上线时间会比较少，大概周末还会上线）
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;#f00&gt;盟主大号丢了，&lt;#ff0&gt;偶尔奋发，日常瘫痪，白会打 &lt;#0ff&gt;QQ群：964400509&lt;#ff1&gt;（不强制）&lt;#ffe&gt;（有能力的投旗舰1）&lt;#f00&gt;（首席近期要开学了...对...开学，上线时间会比较少，大概周末还会上线）
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <#f00>盟主大号丢了，<#ff0>偶尔奋发，日常瘫痪，白会打 <#0ff>QQ群：964400509<#ff1>（不强制）<#ffe>（有能力的投旗舰1）<#f00>（首席近期要开学了...对...开学，上线时间会比较少，大概周末还会上线）
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

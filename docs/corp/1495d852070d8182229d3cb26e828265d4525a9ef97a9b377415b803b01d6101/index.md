@@ -16,9 +16,12 @@ date: 1732917771
  Ведётся набор. БЗ-ориентированная корпорация. Помогаем с артефактами. Помогаем на КЗ. От Вас требуется актив. Наш дискорд канал: https://discord.com/invite/y2m2V3WYtr
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Ведётся набор. БЗ-ориентированная корпорация. Помогаем с артефактами. Помогаем на КЗ. От Вас требуется актив. Наш дискорд канал: https://discord.com/invite/y2m2V3WYtr
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Ведётся набор. БЗ-ориентированная корпорация. Помогаем с артефактами. Помогаем на КЗ. От Вас требуется актив. Наш дискорд канал: https://discord.com/invite/y2m2V3WYtr
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/https://discord.com/invite/y2m2V3WYtr)
 ### Whitestar Bonus ❌

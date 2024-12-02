@@ -18,11 +18,14 @@ date: 1710338957
 https://discord.gg/geRShvzM89
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-New Corp looking for some regular playing members. 
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    New Corp looking for some regular playing members. 
 
 https://discord.gg/geRShvzM89
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

@@ -16,9 +16,12 @@ date: 1703949335
  Отважные первопроходцы, покинувшие родную Землю много веков назад.Постигнув древнюю технологию Старших рас, пришли вернуть былое могущество расы Людей. https://t.me/new_edem_star
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Отважные первопроходцы, покинувшие родную Землю много веков назад.Постигнув древнюю технологию Старших рас, пришли вернуть былое могущество расы Людей. https://t.me/new_edem_star
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Отважные первопроходцы, покинувшие родную Землю много веков назад.Постигнув древнюю технологию Старших рас, пришли вернуть былое могущество расы Людей. https://t.me/new_edem_star
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

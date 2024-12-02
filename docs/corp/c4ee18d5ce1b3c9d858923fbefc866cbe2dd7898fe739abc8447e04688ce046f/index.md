@@ -20,13 +20,16 @@ Discord Optional:
 https://discord.gg/SCWbttfZbU
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Just a friendly group of peeps
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Just a friendly group of peeps
 White Star mondays 
 
 Discord Optional:
 https://discord.gg/SCWbttfZbU
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

@@ -26,8 +26,9 @@ Discord is mandatory:
 https://discord.gg/sYAuq5vAD4
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Fun Enthusiastic Team
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Fun Enthusiastic Team
 RS4-11
 Corp Rate Art Trading
 Support from HS Game Vets
@@ -38,7 +39,9 @@ Weekly WS
 
 Discord is mandatory:
 https://discord.gg/sYAuq5vAD4
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

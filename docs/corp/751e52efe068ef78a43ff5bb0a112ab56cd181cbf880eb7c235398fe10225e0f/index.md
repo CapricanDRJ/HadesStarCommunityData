@@ -16,9 +16,12 @@ date: 1701667744
  За сталкер, за Монолит!
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-За сталкер, за Монолит!
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    За сталкер, за Монолит!
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/invite/EsqXdmCJ)
 ### Whitestar Bonus ❌

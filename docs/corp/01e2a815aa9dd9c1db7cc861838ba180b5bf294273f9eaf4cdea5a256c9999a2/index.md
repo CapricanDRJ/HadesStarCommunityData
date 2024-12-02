@@ -28,8 +28,9 @@ Q群：838214551
 黑名单：元宇宙
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;size=90&gt;欢迎各位萌新与大佬的进入！&lt;/size&gt;
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <size=90>欢迎各位萌新与大佬的进入！</size>
 Q群：838214551
 <span style="color:Lime;">舰长：风影  ，德四，兽人
 副舰长: 老文，w</span>
@@ -42,7 +43,9 @@ Q群：838214551
 所有人必须参白！红点送机票
 所有人不准踢人，哪怕是首席。
 黑名单：元宇宙
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

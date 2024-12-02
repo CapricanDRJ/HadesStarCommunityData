@@ -16,9 +16,12 @@ date: 1732990788
  Looking for members. Come grow with us!
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Looking for members. Come grow with us!
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Looking for members. Come grow with us!
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/https://discord.gg/asMVRfT5)
 ### Whitestar Bonus ❌

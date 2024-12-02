@@ -16,9 +16,12 @@ date: 1732257279
  A home for any new or veteran player who wants to grow their corporation. Team focused; total support. Growing fast!
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-A home for any new or veteran player who wants to grow their corporation. Team focused; total support. Growing fast!
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    A home for any new or veteran player who wants to grow their corporation. Team focused; total support. Growing fast!
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

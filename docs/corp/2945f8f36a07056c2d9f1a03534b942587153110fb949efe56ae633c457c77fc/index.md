@@ -16,9 +16,12 @@ date: 1722962060
  本集团为共产星际第三分部，这是一个致力于把红旗插满银河角落的集团。 <size=50>主盟：共产星际。 <color=red>集团交流QQ群：1034496041我们欢迎所有热爱这个游戏的朋友加入我们，一起来玩hades'star！新来的萌新可以进群聊天吹水和领取福利<color=white>白星群：229395278想要加入集团先加集团QQ群
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-本集团为共产星际第三分部，这是一个致力于把红旗插满银河角落的集团。 &lt;size=50&gt;主盟：共产星际。 <span style="color:red;">集团交流QQ群：1034496041我们欢迎所有热爱这个游戏的朋友加入我们，一起来玩hades'star！新来的萌新可以进群聊天吹水和领取福利<span style="color:white;">白星群：229395278想要加入集团先加集团QQ群
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    本集团为共产星际第三分部，这是一个致力于把红旗插满银河角落的集团。 <size=50>主盟：共产星际。 <span style="color:red;">集团交流QQ群：1034496041我们欢迎所有热爱这个游戏的朋友加入我们，一起来玩hades'star！新来的萌新可以进群聊天吹水和领取福利<span style="color:white;">白星群：229395278想要加入集团先加集团QQ群
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

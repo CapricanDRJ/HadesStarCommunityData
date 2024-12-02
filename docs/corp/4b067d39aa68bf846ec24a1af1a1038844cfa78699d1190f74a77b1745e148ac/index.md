@@ -16,9 +16,12 @@ date: 1723877412
  要求：1．和平2．建国．2023年11·13早上·34．（2024年，5月太阳帝国.取代苏联
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-要求：1．和平2．建国．2023年11·13早上·34．（2024年，5月太阳帝国.取代苏联
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    要求：1．和平2．建国．2023年11·13早上·34．（2024年，5月太阳帝国.取代苏联
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/11)
 ### Whitestar Bonus ❌

@@ -20,13 +20,16 @@ date: 1729596634
 企鹅（Q）群:<a>865904780</a>
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-<span style="color:#0080FF;">第三舰队【The Third Fleet】于2022-6-18宣布建立</span>
-&lt;size=50&gt;<span style="color:#FF0000;">基本要求:听从指挥，拒绝辱骂他人、恶意毁坏他人财物；保持民主化体制，禁止滥用权力；成员晋升条件由自我优秀作风或白星表现决定
-</span>&lt;/size&gt;
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <span style="color:#0080FF;">第三舰队【The Third Fleet】于2022-6-18宣布建立</span>
+<size=50><span style="color:#FF0000;">基本要求:听从指挥，拒绝辱骂他人、恶意毁坏他人财物；保持民主化体制，禁止滥用权力；成员晋升条件由自我优秀作风或白星表现决定
+</span></size>
 盟团:太阳系联邦
-企鹅（Q）群:&lt;a&gt;865904780&lt;/a&gt;
-</div>
+企鹅（Q）群:<a>865904780</a>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/？)
 ### Whitestar Bonus ❌

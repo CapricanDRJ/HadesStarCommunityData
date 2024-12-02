@@ -16,9 +16,12 @@ date: 1733083637
  Раді всім, новачкам допомагаємо артефактами, ходимо в білі та червоні зірки
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Раді всім, новачкам допомагаємо артефактами, ходимо в білі та червоні зірки
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Раді всім, новачкам допомагаємо артефактами, ходимо в білі та червоні зірки
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ✅
 

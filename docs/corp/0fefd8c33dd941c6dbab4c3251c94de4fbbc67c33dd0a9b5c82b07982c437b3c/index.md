@@ -16,9 +16,12 @@ date: 1724567103
  Lesbians and Gaytelmen, Welcome to the FAILURES!!!
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Lesbians and Gaytelmen, Welcome to the FAILURES!!!
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Lesbians and Gaytelmen, Welcome to the FAILURES!!!
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/FAILURES)
 ### Whitestar Bonus ❌

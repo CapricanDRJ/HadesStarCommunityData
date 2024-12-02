@@ -19,12 +19,15 @@ date: 1722615275
 - Sei Freundlich & Fair
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Deutscher Konzern für Fortgeschrittene
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Deutscher Konzern für Fortgeschrittene
 
 - Chataktivität gern gesehen
 - Sei Freundlich & Fair
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

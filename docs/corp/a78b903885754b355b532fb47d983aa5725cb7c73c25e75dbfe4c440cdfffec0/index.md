@@ -22,15 +22,18 @@ Discord: WARZG9k
 Members are expected to join our Discord where all communication happens
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Be Excellent.
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Be Excellent.
 RS Level 1-10. 
 Inactive tolerance 3-4 days.
 WS are appreciated yet optional.
 Discord: WARZG9k
 
 Members are expected to join our Discord where all communication happens
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

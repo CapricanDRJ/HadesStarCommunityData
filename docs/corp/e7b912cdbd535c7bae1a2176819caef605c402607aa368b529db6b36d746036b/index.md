@@ -16,9 +16,12 @@ date: 1731372035
  Welcome to the land of the delicious! Please be active and grow :)
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Welcome to the land of the delicious! Please be active and grow :)
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Welcome to the land of the delicious! Please be active and grow :)
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

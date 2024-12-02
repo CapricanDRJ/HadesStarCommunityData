@@ -19,12 +19,15 @@ date: 1700156206
 ▪Si buscas pelea, esta es tu corp
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Que el mundo sepa que somos peligrosos. Somos leones, y los leones no pactan con los hombres. 
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Que el mundo sepa que somos peligrosos. Somos leones, y los leones no pactan con los hombres. 
 ▪︎7 días inactivo sin aviso: expulsión. 
 ▪︎WhatsApp obligatorio para EB
 ▪Si buscas pelea, esta es tu corp
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

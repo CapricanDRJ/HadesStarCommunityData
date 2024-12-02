@@ -16,9 +16,12 @@ date: 1712311014
  Dead
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Dead
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Dead
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

@@ -16,9 +16,12 @@ date: 1699354701
  Jack-b is holding me hostage send help! 0_0
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Jack-b is holding me hostage send help! 0_0
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Jack-b is holding me hostage send help! 0_0
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/https://discord.gg/CRmgtgcxWv)
 ### Whitestar Bonus ❌

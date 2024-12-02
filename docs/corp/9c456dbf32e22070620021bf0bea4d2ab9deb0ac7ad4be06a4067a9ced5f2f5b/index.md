@@ -16,9 +16,12 @@ date: 1731716101
  Active members looking to expand together and conquer white stars 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Active members looking to expand together and conquer white stars 
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Active members looking to expand together and conquer white stars 
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

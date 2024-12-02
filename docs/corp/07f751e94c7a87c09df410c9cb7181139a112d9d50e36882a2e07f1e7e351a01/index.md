@@ -17,10 +17,13 @@ date: 1708191071
 ⁍ Discord mandatory: </color><color=#bf4342>discord.com/invite/bmWhhphKUH</color>
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-A branch of &lt;size=346&gt;<span style="color:#5F634F;">U.I.H.</span>&lt;/size&gt;<span style="color:#edb88b;">
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    A branch of <size=346><span style="color:#5F634F;">U.I.H.</span></size><span style="color:#edb88b;">
 ⁍ Discord mandatory: </span><span style="color:#bf4342;">discord.com/invite/bmWhhphKUH</span>
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

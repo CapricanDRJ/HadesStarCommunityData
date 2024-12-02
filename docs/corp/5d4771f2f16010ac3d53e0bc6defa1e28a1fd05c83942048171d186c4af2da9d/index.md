@@ -16,9 +16,12 @@ date: 1722229384
  ☬\{^0^}/☬
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-☬\{^0^}/☬
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    ☬\{^0^}/☬
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

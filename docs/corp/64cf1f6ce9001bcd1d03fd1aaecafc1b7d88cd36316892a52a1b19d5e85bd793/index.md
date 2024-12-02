@@ -16,9 +16,12 @@ date: 1725637514
  <b>UPDATE AUG 24:</b> <color=#dhtrse>RECRUITING NEW SOULS!</color>  Hard core WS focused players wanted. Discord comms essential. We are keen to improve WS results. Let's kick ass together!
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;b&gt;UPDATE AUG 24:&lt;/b&gt; <span style="color:#dhtrse;">RECRUITING NEW SOULS!</span>  Hard core WS focused players wanted. Discord comms essential. We are keen to improve WS results. Let's kick ass together!
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <b>UPDATE AUG 24:</b> <span style="color:#dhtrse;">RECRUITING NEW SOULS!</span>  Hard core WS focused players wanted. Discord comms essential. We are keen to improve WS results. Let's kick ass together!
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/https://discord.com/invite/cevpqFrB7J)
 ### Whitestar Bonus ❌

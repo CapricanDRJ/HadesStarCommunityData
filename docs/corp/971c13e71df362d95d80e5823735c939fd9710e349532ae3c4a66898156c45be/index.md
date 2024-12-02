@@ -16,9 +16,12 @@ date: 1701200386
  You keep what you kill…Naw. One for all and all for one! 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-You keep what you kill…Naw. One for all and all for one! 
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    You keep what you kill…Naw. One for all and all for one! 
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

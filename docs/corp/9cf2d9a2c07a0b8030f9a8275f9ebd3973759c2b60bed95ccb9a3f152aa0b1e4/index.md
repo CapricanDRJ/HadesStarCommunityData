@@ -16,9 +16,12 @@ date: 1728214173
  <b><color=#CAFF70>※这里是，星海扬帆                   </a></b>         </a></b>                     <b><color=#87CEFF>♥!首席：OwO!♥</a>QQ 720502114  </a></b>红活已经结束，欢迎回来
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;b&gt;<span style="color:#CAFF70;">※这里是，星海扬帆                   &lt;/a&gt;&lt;/b&gt;         &lt;/a&gt;&lt;/b&gt;                     &lt;b&gt;<span style="color:#87CEFF;">♥!首席：OwO!♥&lt;/a&gt;QQ 720502114  &lt;/a&gt;&lt;/b&gt;红活已经结束，欢迎回来
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <b><span style="color:#CAFF70;">※这里是，星海扬帆                   </a></b>         </a></b>                     <b><span style="color:#87CEFF;">♥!首席：OwO!♥</a>QQ 720502114  </a></b>红活已经结束，欢迎回来
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/<color=#FF0><b><i><size=30>简阶编辑:OwO</size></i>)
 ### Whitestar Bonus ❌

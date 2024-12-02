@@ -16,9 +16,12 @@ date: 1732313482
  <color=yellow>One of the oldest corps in Hades. Some of the greatest WS pilots in the game owe their pedigree to Watchers-I and now we are back under the auspices of Stargate Command. 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-<span style="color:yellow;">One of the oldest corps in Hades. Some of the greatest WS pilots in the game owe their pedigree to Watchers-I and now we are back under the auspices of Stargate Command. 
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <span style="color:yellow;">One of the oldest corps in Hades. Some of the greatest WS pilots in the game owe their pedigree to Watchers-I and now we are back under the auspices of Stargate Command. 
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/wNhSPbUyNT)
 ### Whitestar Bonus ❌

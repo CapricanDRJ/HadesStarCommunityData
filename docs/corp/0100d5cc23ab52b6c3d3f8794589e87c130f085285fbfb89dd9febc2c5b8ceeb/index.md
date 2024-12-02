@@ -16,9 +16,12 @@ date: 1706588757
  Have fun :D
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Have fun :D
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Have fun :D
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

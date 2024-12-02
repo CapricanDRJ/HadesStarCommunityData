@@ -20,13 +20,16 @@ Für WZ möchten wir die Teilnahme im Discord!
 https://discord.gg/pUXrxxt
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-aktiver Nachwuchskonzern im Aufbau
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    aktiver Nachwuchskonzern im Aufbau
 Teamplay ist Vorraussetzung!
 z. B. RR Hilfe etc.! 
 Für WZ möchten wir die Teilnahme im Discord!
 https://discord.gg/pUXrxxt
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

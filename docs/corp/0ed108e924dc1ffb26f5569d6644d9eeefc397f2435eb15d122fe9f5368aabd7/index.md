@@ -18,11 +18,14 @@ date: 1699435232
 Discord: bMXfmD9sKE   Телега: @whiskas_tyan
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;size=45&gt;&lt;b&gt;&lt;i&gt;В спячке&lt;/b&gt;</span>&lt;/b&gt;</span></span>&lt;/b&gt;&lt;/i&gt;</span>&lt;/size&gt;
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <size=45><b><i>В спячке</b></span></b></span></span></b></i></span></size>
 
 Discord: bMXfmD9sKE   Телега: @whiskas_tyan
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

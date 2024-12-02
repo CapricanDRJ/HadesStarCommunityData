@@ -20,13 +20,16 @@ WS HL hebdo
 https://discord.gg/wZcGGNZ
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-L'appel du sang, du butin, d'une taverne ou d'un bordel est plus fort que tout pour toi?
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    L'appel du sang, du butin, d'une taverne ou d'un bordel est plus fort que tout pour toi?
 Sois le bienvenu chez les Pirates!!!!
 RS7 à RS11 full coop
 WS HL hebdo
 https://discord.gg/wZcGGNZ
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/wZcGGNZ)
 ### Whitestar Bonus ❌

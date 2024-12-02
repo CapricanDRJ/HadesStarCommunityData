@@ -16,9 +16,12 @@ date: 1709467281
  RS4 to 7
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-RS4 to 7
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    RS4 to 7
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/kmedjBRNBJ)
 ### Whitestar Bonus ❌

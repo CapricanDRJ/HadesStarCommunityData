@@ -24,8 +24,9 @@ Please say hello on discord if you are interested in joining us.
 http://discord.gg/7fT6uru
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-We are Aeternae! 
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    We are Aeternae! 
 
 Actives welcome
 We're mostly RS6-10, but welcome everyone 
@@ -34,7 +35,9 @@ Weekly White stars
 Please say hello on discord if you are interested in joining us.
 
 http://discord.gg/7fT6uru
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

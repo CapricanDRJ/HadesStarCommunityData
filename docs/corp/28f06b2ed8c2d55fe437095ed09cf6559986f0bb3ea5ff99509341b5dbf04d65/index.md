@@ -24,8 +24,9 @@ date: 1733034654
 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-欢迎大佬和萌新，这里是温暖的家，幸福的港湾，有一群可爱的伙伴们。自由，团结，快乐，总有你喜欢的那一份。
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    欢迎大佬和萌新，这里是温暖的家，幸福的港湾，有一群可爱的伙伴们。自由，团结，快乐，总有你喜欢的那一份。
 白星常开，欢乐自在和咸鱼同在。
 常驻集团QQ群：592237015
 外交QQ群：933074464
@@ -34,7 +35,9 @@ date: 1733034654
 某干事：喵~
 某某干事：没了
 
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ✅
 

@@ -16,9 +16,12 @@ date: 1729688296
  觉悟者，恒幸福           Do you believe in gravity? Humans always go to heaven。盟团：SRTRVS233～黑名单：家园星系（因篡夺首席霍乱朝纲）
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-觉悟者，恒幸福           Do you believe in gravity? Humans always go to heaven。盟团：SRTRVS233～黑名单：家园星系（因篡夺首席霍乱朝纲）
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    觉悟者，恒幸福           Do you believe in gravity? Humans always go to heaven。盟团：SRTRVS233～黑名单：家园星系（因篡夺首席霍乱朝纲）
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

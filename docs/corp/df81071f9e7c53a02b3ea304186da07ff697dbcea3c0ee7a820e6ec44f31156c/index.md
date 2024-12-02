@@ -18,11 +18,14 @@ Corpo sans prise de tête pour joueurs occasionnel/débutants
 Ws régulière( 0 obligation)pour joueurs aguerris ou voulant découvrir 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Bienvenue à tous
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Bienvenue à tous
 Corpo sans prise de tête pour joueurs occasionnel/débutants
 Ws régulière( 0 obligation)pour joueurs aguerris ou voulant découvrir 
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/https://discord.gg/V8HYqRZH)
 ### Whitestar Bonus ❌

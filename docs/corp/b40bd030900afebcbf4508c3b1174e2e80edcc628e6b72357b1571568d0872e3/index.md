@@ -19,12 +19,15 @@ date: 1721778627
 • Casual WS Corp
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Laid back corp with occasional WS. Most importantly, we have fun! &lt;b&gt;Discord is mandatory!&lt;/b&gt;
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Laid back corp with occasional WS. Most importantly, we have fun! <b>Discord is mandatory!</b>
 
 • Seeking all new members
 • Casual WS Corp
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/kUcE6EP)
 ### Whitestar Bonus ❌

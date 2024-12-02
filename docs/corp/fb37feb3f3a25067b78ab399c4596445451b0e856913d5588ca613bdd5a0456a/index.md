@@ -16,9 +16,12 @@ date: 1725305154
  Clan de hablá Hispana(Castellano/Español)
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Clan de hablá Hispana(Castellano/Español)
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Clan de hablá Hispana(Castellano/Español)
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

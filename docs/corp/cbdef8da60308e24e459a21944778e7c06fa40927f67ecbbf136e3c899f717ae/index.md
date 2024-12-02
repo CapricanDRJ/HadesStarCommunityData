@@ -16,9 +16,12 @@ date: 1702431720
  Welcome! If you're active, you'll be promoted fast. Also join our discord))
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Welcome! If you're active, you'll be promoted fast. Also join our discord))
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Welcome! If you're active, you'll be promoted fast. Also join our discord))
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

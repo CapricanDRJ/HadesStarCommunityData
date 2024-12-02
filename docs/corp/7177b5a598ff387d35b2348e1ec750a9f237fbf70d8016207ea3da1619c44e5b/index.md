@@ -16,9 +16,12 @@ date: 1719396058
  <color=green>Welcome to the Death Squadron! The empire's most Elite squadron<br>weekly white stars<br>private red stars 3 to 8
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-<span style="color:green;">Welcome to the Death Squadron! The empire's most Elite squadron&lt;br&gt;weekly white stars&lt;br&gt;private red stars 3 to 8
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <span style="color:green;">Welcome to the Death Squadron! The empire's most Elite squadron<br>weekly white stars<br>private red stars 3 to 8
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/HhVjWquh4J)
 ### Whitestar Bonus ❌

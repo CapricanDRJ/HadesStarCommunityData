@@ -19,12 +19,15 @@ We are a friendly corporation commited to helping.
 Disc AvYQJJh9
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-<span style="color:"green";">"We Are Lost Legion For We Are Many And We Act As One"</span> 
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <span style="color:"green";">"We Are Lost Legion For We Are Many And We Act As One"</span> 
 <span style="color:"blue";">"WS active & RS 4-10 active team."</span>
 We are a friendly corporation commited to helping.
 Disc AvYQJJh9
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/najb7MJf)
 ### Whitestar Bonus ✅

@@ -20,13 +20,16 @@ date: 1724582728
 - No toxicity<color="yellow">
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-<span style="color:blue;">&lt;size=100&gt; Welcome to &lt;/size&gt;</span>
-<span style="color:red;">&lt;size=100&gt; Novana Gaming &lt;/size&gt;</span>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <span style="color:blue;"><size=100> Welcome to </size></span>
+<span style="color:red;"><size=100> Novana Gaming </size></span>
 - English
 - At least 1x White Star every week
 - No toxicity<span style="color:"yellow";">
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/TcQcQt9)
 ### Whitestar Bonus ❌

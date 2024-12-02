@@ -18,11 +18,14 @@ Offen für alle, die Spaß am gemeinsamen Spiel haben und das ganze nicht so ern
 -Beleidigung, Rassismus ect, 14 Tage Inaktivität ohne Abmeldung führt zum Bann 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Aktive Allianz
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Aktive Allianz
 Offen für alle, die Spaß am gemeinsamen Spiel haben und das ganze nicht so ernst nehmen.
 -Beleidigung, Rassismus ect, 14 Tage Inaktivität ohne Abmeldung führt zum Bann 
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

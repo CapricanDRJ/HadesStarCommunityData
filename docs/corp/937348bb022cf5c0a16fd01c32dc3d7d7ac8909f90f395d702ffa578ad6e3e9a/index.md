@@ -23,8 +23,9 @@ chapter 4÷20
 For WS+ join Discord- 8dJDbbm
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-*RS &lt;10
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    *RS <10
 **Weekly WS
 ***Was Ready to help new players progress   quickly to RS6. 
 ****now they are rs10 -.-
@@ -32,7 +33,9 @@ For WS+ join Discord- 8dJDbbm
 chapter 4÷20
 
 For WS+ join Discord- 8dJDbbm
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

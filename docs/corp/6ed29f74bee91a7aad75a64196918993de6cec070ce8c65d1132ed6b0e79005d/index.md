@@ -16,9 +16,12 @@ date: 1729793787
  ceskoslovensky corp     RS od 11.00 hod do 14.00         18.00 do 22.00 alebo po 22.00                               WS aktivny
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-ceskoslovensky corp     RS od 11.00 hod do 14.00         18.00 do 22.00 alebo po 22.00                               WS aktivny
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    ceskoslovensky corp     RS od 11.00 hod do 14.00         18.00 do 22.00 alebo po 22.00                               WS aktivny
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/U2hhtGszGK)
 ### Whitestar Bonus ❌

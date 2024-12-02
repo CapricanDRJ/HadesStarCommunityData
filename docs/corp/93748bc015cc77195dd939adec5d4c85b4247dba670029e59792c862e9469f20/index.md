@@ -16,9 +16,12 @@ date: 1701216316
  <color=#FFFF00>Походы на красные и белые звёзды, помощь игрокам и просто общениe</color><color=#FFA500></color>
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-<span style="color:#FFFF00;">Походы на красные и белые звёзды, помощь игрокам и просто общениe</span><span style="color:#FFA500;"></span>
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <span style="color:#FFFF00;">Походы на красные и белые звёзды, помощь игрокам и просто общениe</span><span style="color:#FFA500;"></span>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/GtUycuvQVG)
 ### Whitestar Bonus ❌

@@ -17,10 +17,13 @@ date: 1732310779
 Discord mandatory - join at the link below ↓
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Welcome To Sons of Liberty, Academy corp of the Greatest WS corp in the Game, Likapa. 
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Welcome To Sons of Liberty, Academy corp of the Greatest WS corp in the Game, Likapa. 
 Discord mandatory - join at the link below ↓
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/qfRt7h4Gcb)
 ### Whitestar Bonus ❌

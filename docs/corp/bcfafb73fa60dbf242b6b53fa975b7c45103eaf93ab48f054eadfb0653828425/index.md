@@ -21,14 +21,17 @@ established '18
 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-~ casual corp ~
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    ~ casual corp ~
 we do WS seriously, but not exactly hardcore
 discord isn't mandatory, but highly encouraged
 WS player: <span style="color:"#ffea4a";">discord required</span>
 established '18
 
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

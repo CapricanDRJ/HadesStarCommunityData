@@ -20,13 +20,16 @@ Corpo École faisant partie des  🏴‍☠️ Pirates spatial  🏴‍☠️
 Discord : wZcGGNZ
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-"L'ivresse du vide et l'exaltation de la victoire sont un trésor qu'aucune cale ne saurait contenir avec suffisance!"
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    "L'ivresse du vide et l'exaltation de la victoire sont un trésor qu'aucune cale ne saurait contenir avec suffisance!"
 
 Corpo École faisant partie des  🏴‍☠️ Pirates spatial  🏴‍☠️
 
 Discord : wZcGGNZ
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/wZcGGNZ )
 ### Whitestar Bonus ❌

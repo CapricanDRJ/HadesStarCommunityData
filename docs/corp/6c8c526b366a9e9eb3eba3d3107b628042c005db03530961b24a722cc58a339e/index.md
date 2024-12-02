@@ -16,9 +16,12 @@ date: 1732982071
  Witamy w naszych skromnych progach. Usiądź i rozgość się a zapoznamy cię z naszym otoczeniem. Przyjazna atmosfera i pomoc. https://discord.com/invite/v9vXJHAaKm
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Witamy w naszych skromnych progach. Usiądź i rozgość się a zapoznamy cię z naszym otoczeniem. Przyjazna atmosfera i pomoc. https://discord.com/invite/v9vXJHAaKm
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Witamy w naszych skromnych progach. Usiądź i rozgość się a zapoznamy cię z naszym otoczeniem. Przyjazna atmosfera i pomoc. https://discord.com/invite/v9vXJHAaKm
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ✅
 

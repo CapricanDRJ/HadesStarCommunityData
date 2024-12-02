@@ -20,13 +20,16 @@ Se pretende ser um jogador ativo e quer crescer junto com todos, junte-se a nós
 Juntos somos mais fortes.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Venham participar juntos nas RS e WS nossas e da comunidade PT/BR.
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Venham participar juntos nas RS e WS nossas e da comunidade PT/BR.
 
 Se pretende ser um jogador ativo e quer crescer junto com todos, junte-se a nós.
 
 Juntos somos mais fortes.
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ✅
 

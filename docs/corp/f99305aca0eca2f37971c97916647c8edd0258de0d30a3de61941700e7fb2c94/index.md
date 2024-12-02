@@ -21,14 +21,17 @@ Visit us on discord  to join:
 https://discord.gg/ysGrswJTUp
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-[United Industries of Hades]
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    [United Industries of Hades]
 
 Discord is mandatory! 
 
 Visit us on discord  to join:
 https://discord.gg/ysGrswJTUp
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/vPsNNxs)
 ### Whitestar Bonus ❌

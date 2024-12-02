@@ -16,9 +16,12 @@ date: 1703312018
  Relaxed Corp. Join here.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Relaxed Corp. Join here.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Relaxed Corp. Join here.
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

@@ -16,9 +16,12 @@ date: 1732290073
  <b><size=60><color=#228b22>Welcome to Peace Keepers </color></size></b>  Peacefully collecting relics since 2018.                   😎 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;b&gt;&lt;size=60&gt;<span style="color:#228b22;">Welcome to Peace Keepers </span>&lt;/size&gt;&lt;/b&gt;  Peacefully collecting relics since 2018.                   😎 
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <b><size=60><span style="color:#228b22;">Welcome to Peace Keepers </span></size></b>  Peacefully collecting relics since 2018.                   😎 
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/https://discord.gg/DCWPFARw)
 ### Whitestar Bonus ❌

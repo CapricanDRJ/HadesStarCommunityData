@@ -16,9 +16,12 @@ date: 1717154509
  Bonjour et Bienvenue chez la WYVERN-Frenche speaking-SCANNER D'ETOILE BLANCHE OBLIGATOIRE-DISCORD OBLIGATOIRE.Des rires, de l'entraide, des WS
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Bonjour et Bienvenue chez la WYVERN-Frenche speaking-SCANNER D'ETOILE BLANCHE OBLIGATOIRE-DISCORD OBLIGATOIRE.Des rires, de l'entraide, des WS
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Bonjour et Bienvenue chez la WYVERN-Frenche speaking-SCANNER D'ETOILE BLANCHE OBLIGATOIRE-DISCORD OBLIGATOIRE.Des rires, de l'entraide, des WS
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/https://discord.com/invite/AXfZ6BVzjx)
 ### Whitestar Bonus ❌

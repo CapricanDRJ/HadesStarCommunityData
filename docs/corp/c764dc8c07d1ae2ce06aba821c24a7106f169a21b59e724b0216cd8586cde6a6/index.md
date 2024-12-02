@@ -16,9 +16,12 @@ date: 1732950217
  Вітаю Козаче!! В Українській корпорації, тут знайдеш для себе друзів, розваги, відкриєш для себі іншу сторону гри, на багато годин. https://t.me/ukraine1win. Гарної всім гри.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Вітаю Козаче!! В Українській корпорації, тут знайдеш для себе друзів, розваги, відкриєш для себі іншу сторону гри, на багато годин. https://t.me/ukraine1win. Гарної всім гри.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Вітаю Козаче!! В Українській корпорації, тут знайдеш для себе друзів, розваги, відкриєш для себі іншу сторону гри, на багато годин. https://t.me/ukraine1win. Гарної всім гри.
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/nVBRYrQRT6)
 ### Whitestar Bonus ❌

@@ -17,10 +17,13 @@ date: 1707182127
 Chorus Of Hammers Tong! Take the Sirens bloody Relics! Spoils; Her crushing Novae Song</I>
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;I&gt;Smiths of Creation! Forging steel nerves, as the ringing Star Anvil sings... 
-Chorus Of Hammers Tong! Take the Sirens bloody Relics! Spoils; Her crushing Novae Song&lt;/I&gt;
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <I>Smiths of Creation! Forging steel nerves, as the ringing Star Anvil sings... 
+Chorus Of Hammers Tong! Take the Sirens bloody Relics! Spoils; Her crushing Novae Song</I>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

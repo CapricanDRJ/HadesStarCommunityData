@@ -17,10 +17,13 @@ date: 1717877900
 Discord-https://discord.gg/6f8xNGS
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Whats up! Focus on red stars and getting offenses up to white star level. 
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Whats up! Focus on red stars and getting offenses up to white star level. 
 Discord-https://discord.gg/6f8xNGS
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

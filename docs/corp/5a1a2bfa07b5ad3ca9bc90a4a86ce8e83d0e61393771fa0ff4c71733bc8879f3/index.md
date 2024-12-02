@@ -16,9 +16,12 @@ date: 1712643896
  ギルド大元帥サラマンダーのもとへ集い、シドの女神像を打ち上げるべし。今は眠りについています…
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-ギルド大元帥サラマンダーのもとへ集い、シドの女神像を打ち上げるべし。今は眠りについています…
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    ギルド大元帥サラマンダーのもとへ集い、シドの女神像を打ち上げるべし。今は眠りについています…
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/https://discord.gg/e23hyUpZy2)
 ### Whitestar Bonus ❌

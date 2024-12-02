@@ -16,9 +16,12 @@ date: 1707483687
  карпа для активных игр аков 40 ранк мак.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-карпа для активных игр аков 40 ранк мак.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    карпа для активных игр аков 40 ранк мак.
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

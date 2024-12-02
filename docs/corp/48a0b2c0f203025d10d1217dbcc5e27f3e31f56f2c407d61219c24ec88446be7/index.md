@@ -16,9 +16,12 @@ date: 1732640405
  Herzlich willkommen. Aktive Teilnahme in WZ erwünscht.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Herzlich willkommen. Aktive Teilnahme in WZ erwünscht.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Herzlich willkommen. Aktive Teilnahme in WZ erwünscht.
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ✅
 

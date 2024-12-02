@@ -16,9 +16,12 @@ date: 1716738979
  Binded to the bigger and older cerulean star corp. All welcome to join , we run rs, ws and we are democratic. Join our discord - most of our organization is there, use the link below                  
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Binded to the bigger and older cerulean star corp. All welcome to join , we run rs, ws and we are democratic. Join our discord - most of our organization is there, use the link below                  
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Binded to the bigger and older cerulean star corp. All welcome to join , we run rs, ws and we are democratic. Join our discord - most of our organization is there, use the link below                  
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/tXs82nVf99)
 ### Whitestar Bonus ❌

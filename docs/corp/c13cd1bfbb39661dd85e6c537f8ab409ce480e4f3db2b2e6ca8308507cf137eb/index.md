@@ -16,9 +16,12 @@ date: 1714751366
  Aqui llacen las cuentas de los que un dia fueron jugadores apasionados al juego.    12/18/22 -> Actualidad 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Aqui llacen las cuentas de los que un dia fueron jugadores apasionados al juego.    12/18/22 -&gt; Actualidad 
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Aqui llacen las cuentas de los que un dia fueron jugadores apasionados al juego.    12/18/22 -> Actualidad 
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

@@ -16,9 +16,12 @@ date: 1732489764
  欢迎萌新和大佬们的加入Q群852308177
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-欢迎萌新和大佬们的加入Q群852308177
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    欢迎萌新和大佬们的加入Q群852308177
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

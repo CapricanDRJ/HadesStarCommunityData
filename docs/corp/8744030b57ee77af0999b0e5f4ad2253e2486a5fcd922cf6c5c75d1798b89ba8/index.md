@@ -16,9 +16,12 @@ date: 1720103767
  United Nations Space Command.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-United Nations Space Command.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    United Nations Space Command.
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/https://discord.gg/rbQwDdUp8A)
 ### Whitestar Bonus ❌

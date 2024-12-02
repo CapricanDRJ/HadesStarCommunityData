@@ -16,9 +16,12 @@ date: 1731222354
  Heads full of SMEG
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Heads full of SMEG
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Heads full of SMEG
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

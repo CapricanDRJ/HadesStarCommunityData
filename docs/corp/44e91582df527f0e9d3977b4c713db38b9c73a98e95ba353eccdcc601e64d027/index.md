@@ -25,8 +25,9 @@ Trolls and inactives get kicked
 Discord preferred nBrqgsV 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-JOIN NOW - ALL WELCOME
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    JOIN NOW - ALL WELCOME
 
 B2B Chill WS
 When in doubt, kill stuff and have fun!
@@ -36,7 +37,9 @@ A lively, friendly & supportive corp chat
 Trolls and inactives get kicked
  
 Discord preferred nBrqgsV 
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/nBrqgsV)
 ### Whitestar Bonus ✅

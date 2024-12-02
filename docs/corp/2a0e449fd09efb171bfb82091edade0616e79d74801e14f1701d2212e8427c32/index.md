@@ -21,14 +21,17 @@ Wir freuen uns auf dich!
 https://discord.gg/UPTTtGQpTj
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Bist du neu oder voll der Pro?! Flieg mit uns...bei RZwoDZwo!!!
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Bist du neu oder voll der Pro?! Flieg mit uns...bei RZwoDZwo!!!
 
 Wir freuen uns auf dich!
 
 \o/
 https://discord.gg/UPTTtGQpTj
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/UPTTtGQpTj)
 ### Whitestar Bonus ❌

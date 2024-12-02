@@ -16,9 +16,12 @@ date: 1724504942
  New begginging?
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-New begginging?
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    New begginging?
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

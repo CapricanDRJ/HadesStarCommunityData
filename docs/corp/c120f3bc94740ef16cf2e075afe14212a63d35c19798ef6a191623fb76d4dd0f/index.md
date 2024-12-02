@@ -19,12 +19,15 @@ Nous sommes ouvert à tout français ou étrangers actifs et motivés.
 Discord : https://discord.gg/9PEjNfq
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-L'union Des Sucreries !
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    L'union Des Sucreries !
 Le plan ? Entraide et baston dans la bonne ambiance !
 Nous sommes ouvert à tout français ou étrangers actifs et motivés.
 Discord : https://discord.gg/9PEjNfq
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

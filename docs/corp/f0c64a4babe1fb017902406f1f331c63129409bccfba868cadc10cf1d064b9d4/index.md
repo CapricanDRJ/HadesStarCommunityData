@@ -16,9 +16,12 @@ date: 1729596634
  VIRTUS UNITA FORTIOR. Seja bem vindo! Participe dos eventos nas Estrelas vermelhas e brancas; mantenha as atividades e melhorias do sistema em dia. Temos grupo de Discord.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-VIRTUS UNITA FORTIOR. Seja bem vindo! Participe dos eventos nas Estrelas vermelhas e brancas; mantenha as atividades e melhorias do sistema em dia. Temos grupo de Discord.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    VIRTUS UNITA FORTIOR. Seja bem vindo! Participe dos eventos nas Estrelas vermelhas e brancas; mantenha as atividades e melhorias do sistema em dia. Temos grupo de Discord.
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/zM5ABcAR6s)
 ### Whitestar Bonus ❌

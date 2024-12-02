@@ -16,9 +16,12 @@ date: 1709372322
  Benvenuti in ITA! Main coorp RS7+                                                  ~WS settimanali                                                  ~Discord obbligatorio!                         
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Benvenuti in ITA! Main coorp RS7+                                                  ~WS settimanali                                                  ~Discord obbligatorio!                         
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Benvenuti in ITA! Main coorp RS7+                                                  ~WS settimanali                                                  ~Discord obbligatorio!                         
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/TRXN76sqYC)
 ### Whitestar Bonus ❌

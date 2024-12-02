@@ -21,14 +21,17 @@ QQ群：362076387，申请前请加入QQ群
 开心玩嗷，各位！
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-听指挥 打胜仗 共富裕 
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    听指挥 打胜仗 共富裕 
 创始人 ：YuKing  水煮牛排
 来了就是一家人ԅ(¯ㅂ¯ԅ)
 QQ群：362076387，申请前请加入QQ群
 禁止黑名单进入。          黑名单：MPW-1594
 开心玩嗷，各位！
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

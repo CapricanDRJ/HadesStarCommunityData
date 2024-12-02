@@ -16,9 +16,12 @@ date: 1718536141
  Welcome to Green Dwarf (GD); a part of the Dwarf family. Dwarf discord recommended for RS, weekly WS, advice and community. Currently 4 corps in the Dwarf community. 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Welcome to Green Dwarf (GD); a part of the Dwarf family. Dwarf discord recommended for RS, weekly WS, advice and community. Currently 4 corps in the Dwarf community. 
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Welcome to Green Dwarf (GD); a part of the Dwarf family. Dwarf discord recommended for RS, weekly WS, advice and community. Currently 4 corps in the Dwarf community. 
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/aBcFBnzKBR)
 ### Whitestar Bonus ❌

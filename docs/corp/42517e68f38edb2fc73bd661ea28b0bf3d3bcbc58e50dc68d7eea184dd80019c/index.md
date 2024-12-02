@@ -18,11 +18,14 @@ date: 1708890039
 discord.gg/Rup2ee8DxR
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;b&gt;Star Raiders&lt;/b&gt; is a Corporation helping players develop and enjoy the game. Casual players are welcome. We are running weekly White Stars. 
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <b>Star Raiders</b> is a Corporation helping players develop and enjoy the game. Casual players are welcome. We are running weekly White Stars. 
 
 discord.gg/Rup2ee8DxR
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

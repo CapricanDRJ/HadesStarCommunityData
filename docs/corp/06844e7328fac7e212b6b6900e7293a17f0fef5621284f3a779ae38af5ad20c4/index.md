@@ -17,10 +17,13 @@ date: 1710800150
 WechatID Librianets 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-t.me/Librianets
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    t.me/Librianets
 WechatID Librianets 
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

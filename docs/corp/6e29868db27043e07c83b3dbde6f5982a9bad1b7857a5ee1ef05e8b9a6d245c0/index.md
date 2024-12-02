@@ -16,9 +16,12 @@ date: 1733061997
  本团为环星集团分团qq和主团一样 有5 6级神器给萌新招活跃人士小红点踢出并发送邀请 尽快建白扫 e创始人>首席>干事>高员成员 创始人不知道 首席中国，，没人 白星指挥 scp
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-本团为环星集团分团qq和主团一样 有5 6级神器给萌新招活跃人士小红点踢出并发送邀请 尽快建白扫 e创始人&gt;首席&gt;干事&gt;高员成员 创始人不知道 首席中国，，没人 白星指挥 scp
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    本团为环星集团分团qq和主团一样 有5 6级神器给萌新招活跃人士小红点踢出并发送邀请 尽快建白扫 e创始人>首席>干事>高员成员 创始人不知道 首席中国，，没人 白星指挥 scp
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ✅
 

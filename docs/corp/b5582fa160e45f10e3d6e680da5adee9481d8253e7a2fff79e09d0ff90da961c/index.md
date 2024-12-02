@@ -16,9 +16,12 @@ date: 1705726588
  organizaçoes dos estados brasileiros / presidente : O.E.B.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-organizaçoes dos estados brasileiros / presidente : O.E.B.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    organizaçoes dos estados brasileiros / presidente : O.E.B.
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

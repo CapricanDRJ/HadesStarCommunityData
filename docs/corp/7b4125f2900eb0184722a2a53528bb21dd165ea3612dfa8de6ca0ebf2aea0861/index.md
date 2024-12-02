@@ -16,9 +16,12 @@ date: 1699709894
  此团是萌新港（大佬港）分团。可存放小号或不常上线的号。
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-此团是萌新港（大佬港）分团。可存放小号或不常上线的号。
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    此团是萌新港（大佬港）分团。可存放小号或不常上线的号。
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

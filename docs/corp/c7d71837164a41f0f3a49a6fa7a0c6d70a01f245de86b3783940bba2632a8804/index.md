@@ -16,9 +16,12 @@ date: 1713013190
  雕栏玉砌应犹在，只是朱颜改
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-雕栏玉砌应犹在，只是朱颜改
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    雕栏玉砌应犹在，只是朱颜改
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/pAqrzF5xc7)
 ### Whitestar Bonus ❌

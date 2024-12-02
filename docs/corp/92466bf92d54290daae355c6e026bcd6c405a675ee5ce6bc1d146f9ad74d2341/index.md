@@ -18,11 +18,14 @@ date: 1701861287
 Discord.gg/<b>WAXSmUb</b></color>
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-<span style="color:#00FF33;">
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <span style="color:#00FF33;">
 <span style="color:red;">...</span>
-Discord.gg/&lt;b&gt;WAXSmUb&lt;/b&gt;</span>
-</div>
+Discord.gg/<b>WAXSmUb</b></span>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

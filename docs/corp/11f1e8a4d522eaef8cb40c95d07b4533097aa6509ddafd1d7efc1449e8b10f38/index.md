@@ -16,9 +16,12 @@ date: 1732455605
  Wir haben Spaß zusammen.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Wir haben Spaß zusammen.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Wir haben Spaß zusammen.
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

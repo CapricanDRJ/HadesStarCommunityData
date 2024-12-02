@@ -16,9 +16,12 @@ date: 1732935796
  Welcome to <color=yellow><b>The Star League</b></color>: active <color=red>Red Star 9-12</color> and competitive <color=white>White Star</color> focus.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Welcome to <span style="color:yellow;">&lt;b&gt;The Star League&lt;/b&gt;</span>: active <span style="color:red;">Red Star 9-12</span> and competitive <span style="color:white;">White Star</span> focus.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Welcome to <span style="color:yellow;"><b>The Star League</b></span>: active <span style="color:red;">Red Star 9-12</span> and competitive <span style="color:white;">White Star</span> focus.
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/2cEAstZ)
 ### Whitestar Bonus ✅

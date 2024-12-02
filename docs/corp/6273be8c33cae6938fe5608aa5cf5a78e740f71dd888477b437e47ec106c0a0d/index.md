@@ -16,9 +16,12 @@ date: 1733034053
  Starte als Kadett der Sternenflotte und erkunde gemeinsame neue Planeten, Sternensysteme und Technologien. Lass Deine Reise zu den Sternen beginnen!
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Starte als Kadett der Sternenflotte und erkunde gemeinsame neue Planeten, Sternensysteme und Technologien. Lass Deine Reise zu den Sternen beginnen!
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Starte als Kadett der Sternenflotte und erkunde gemeinsame neue Planeten, Sternensysteme und Technologien. Lass Deine Reise zu den Sternen beginnen!
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/MNs4VdSb)
 ### Whitestar Bonus ✅

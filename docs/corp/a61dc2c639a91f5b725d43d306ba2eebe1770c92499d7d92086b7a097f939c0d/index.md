@@ -16,9 +16,12 @@ date: 1732320093
  Свободная игра - свободный полёт. БЗ 1-2 раза в месяц, взаимопомощь на кз 2-8. Чат в телеге...
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Свободная игра - свободный полёт. БЗ 1-2 раза в месяц, взаимопомощь на кз 2-8. Чат в телеге...
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Свободная игра - свободный полёт. БЗ 1-2 раза в месяц, взаимопомощь на кз 2-8. Чат в телеге...
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/Дискорда нет)
 ### Whitestar Bonus ❌

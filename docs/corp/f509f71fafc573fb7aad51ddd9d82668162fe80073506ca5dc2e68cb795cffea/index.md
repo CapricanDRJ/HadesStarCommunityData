@@ -20,13 +20,16 @@ date: 1714120413
 https://t.me/+LzDMmSOsCmpjZDhi 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Набираємо охочих на БЗ
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Набираємо охочих на БЗ
 Червоні Зірки за запитом у телеграмі.  
 Якщо є охочі керувати групою - пишіть
 
 https://t.me/+LzDMmSOsCmpjZDhi 
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

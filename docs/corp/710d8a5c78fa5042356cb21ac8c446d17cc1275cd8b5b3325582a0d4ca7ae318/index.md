@@ -16,9 +16,12 @@ date: 1730452430
  Casual, carefree, we'll get there when we get there just be active  (we are actively recruiting, if you dont play- you dont stay) 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Casual, carefree, we'll get there when we get there just be active  (we are actively recruiting, if you dont play- you dont stay) 
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Casual, carefree, we'll get there when we get there just be active  (we are actively recruiting, if you dont play- you dont stay) 
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

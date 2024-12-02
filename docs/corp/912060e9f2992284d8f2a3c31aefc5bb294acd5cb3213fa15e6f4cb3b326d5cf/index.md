@@ -23,16 +23,19 @@ https://discord.gg/gBFFE5x
 od-family.com
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-WS Intro corp for the
-&lt;b&gt;OntarioDynasty&lt;/b&gt; family of corps.
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    WS Intro corp for the
+<b>OntarioDynasty</b> family of corps.
 
 Join discord for chat, advice and laughter:
 
 https://discord.gg/gBFFE5x
 
 od-family.com
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

@@ -17,10 +17,13 @@ date: 1702742189
 Supportive community. Regular WS and RS. If u join us for WS, discord is required.  https://discord.gg/wVGNEvv
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;size=85&gt;<span style="color:#ff8833;">Free Space</span> <span style="color:#48ff33;">&lt;b&gt;Alliance&lt;/b&gt;</span>&lt;/size&gt;
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <size=85><span style="color:#ff8833;">Free Space</span> <span style="color:#48ff33;"><b>Alliance</b></span></size>
 Supportive community. Regular WS and RS. If u join us for WS, discord is required.  https://discord.gg/wVGNEvv
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/wVGNEvv)
 ### Whitestar Bonus ❌

@@ -21,14 +21,17 @@ No recibimos personas inactivas
 Fundation: 8/12/19
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Que el universo sepa que seremos nosotros quien haga crecer a todas las personas del universo, la resistencia no negocia con otras corporaciones..
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Que el universo sepa que seremos nosotros quien haga crecer a todas las personas del universo, la resistencia no negocia con otras corporaciones..
 
 
 No recibimos personas inactivas
 
 Fundation: 8/12/19
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

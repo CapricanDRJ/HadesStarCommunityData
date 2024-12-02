@@ -24,17 +24,20 @@ date: 1731559503
 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;b&gt;ZION&lt;/b&gt; ZION II ZION III MSR VEGA ASTRA
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <b>ZION</b> ZION II ZION III MSR VEGA ASTRA
 
 한국인 최대보유 시온연합
-&lt;b&gt;Discord&lt;/b&gt; (PC, Mobile) : &lt;b&gt;37KaujZtkU&lt;/b&gt;
+<b>Discord</b> (PC, Mobile) : <b>37KaujZtkU</b>
 
 ・ 존중, 배려, 소통
-・ &lt;b&gt;Discord에서&lt;/b&gt; 정보공유, 파티원모집, 뉴비지원
+・ <b>Discord에서</b> 정보공유, 파티원모집, 뉴비지원
 ・ 비매너, 장기미접속은 추방</span> 
 
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/37KaujZtkU)
 ### Whitestar Bonus ❌

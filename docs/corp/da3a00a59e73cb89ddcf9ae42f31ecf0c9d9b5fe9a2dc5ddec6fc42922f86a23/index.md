@@ -20,13 +20,16 @@ Join our public RS queue on Discord.
 Discord is mandatory:<b>https://dsc.gg/uih<b><b><b>
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;b&gt;<span style="color:yellow;">United Industries of Hades</span>&lt;/b&gt;
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <b><span style="color:yellow;">United Industries of Hades</span></b>
 
 Join our public RS queue on Discord.
 </span>
-Discord is mandatory:&lt;b&gt;https://dsc.gg/uih&lt;b&gt;&lt;b&gt;&lt;b&gt;
-</div>
+Discord is mandatory:<b>https://dsc.gg/uih<b><b><b>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/vPsNNxs)
 ### Whitestar Bonus ❌

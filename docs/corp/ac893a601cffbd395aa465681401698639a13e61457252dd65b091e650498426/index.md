@@ -16,9 +16,12 @@ date: 1713475317
  Welcome to Tycho. Have fun, be a decent person. Communicate as best you can. 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Welcome to Tycho. Have fun, be a decent person. Communicate as best you can. 
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Welcome to Tycho. Have fun, be a decent person. Communicate as best you can. 
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

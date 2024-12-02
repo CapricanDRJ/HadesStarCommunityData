@@ -22,15 +22,18 @@ Esperamos su llegada!
 <b>[No aceptamos gente en EB].</b> Se requiere wassat
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;b&gt;Nuevo Mundo | Axolotls&lt;/b&gt;
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <b>Nuevo Mundo | Axolotls</b>
 Un Mundo Nuevo
 Esta corp es descendiente
 Ambo de *corp no encontrado* y latinos :)
 ER de 1-9
 Esperamos su llegada!
-&lt;b&gt;[No aceptamos gente en EB].&lt;/b&gt; Se requiere wassat
-</div>
+<b>[No aceptamos gente en EB].</b> Se requiere wassat
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

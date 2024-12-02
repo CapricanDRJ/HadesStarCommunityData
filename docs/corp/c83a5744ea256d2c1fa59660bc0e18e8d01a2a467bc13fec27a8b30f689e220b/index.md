@@ -16,9 +16,12 @@ date: 1732824010
  The best corporation for white star enthusiasts. On the way to greatness. White star participation required
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-The best corporation for white star enthusiasts. On the way to greatness. White star participation required
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    The best corporation for white star enthusiasts. On the way to greatness. White star participation required
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

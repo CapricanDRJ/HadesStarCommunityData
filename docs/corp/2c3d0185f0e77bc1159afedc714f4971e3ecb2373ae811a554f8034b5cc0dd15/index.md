@@ -16,9 +16,12 @@ date: 1731010507
  <color=red>Somos Una Corporacion Con Penes Gigantes Sandro El Mas Pitudo
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-<span style="color:red;">Somos Una Corporacion Con Penes Gigantes Sandro El Mas Pitudo
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <span style="color:red;">Somos Una Corporacion Con Penes Gigantes Sandro El Mas Pitudo
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

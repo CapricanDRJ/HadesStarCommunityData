@@ -19,12 +19,15 @@ date: 1727370688
 無言ok
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-日本人の方推奨
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    日本人の方推奨
 気軽にどうぞ！
 あまり参加しないと思いますが、まったりどうぞ！
 無言ok
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

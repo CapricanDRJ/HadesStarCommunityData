@@ -16,9 +16,12 @@ date: 1715922666
  Explore the galaxy, crush the rebellion, and bring order to the galaxy.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Explore the galaxy, crush the rebellion, and bring order to the galaxy.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Explore the galaxy, crush the rebellion, and bring order to the galaxy.
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

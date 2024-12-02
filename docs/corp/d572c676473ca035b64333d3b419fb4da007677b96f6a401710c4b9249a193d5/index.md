@@ -16,9 +16,12 @@ date: 1730512585
  лише інтроверти і лише живі, серед українських- найдоступніший для тебе, якщо ти адекват (прийом в п'ятницю)
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-лише інтроверти і лише живі, серед українських- найдоступніший для тебе, якщо ти адекват (прийом в п'ятницю)
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    лише інтроверти і лише живі, серед українських- найдоступніший для тебе, якщо ти адекват (прийом в п'ятницю)
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

@@ -16,9 +16,12 @@ date: 1702812215
  Активная корпорация, ищем желающих на БЗ, так как активно участвуем в сражениях БЗ. Помогаем всем, а также новичкам. Рады всем!
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Активная корпорация, ищем желающих на БЗ, так как активно участвуем в сражениях БЗ. Помогаем всем, а также новичкам. Рады всем!
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Активная корпорация, ищем желающих на БЗ, так как активно участвуем в сражениях БЗ. Помогаем всем, а также новичкам. Рады всем!
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/z7bNfXvC)
 ### Whitestar Bonus ❌

@@ -16,9 +16,12 @@ date: 1732586321
  Training corp for ws and rs . We  like to help new people  , but  also hapy to see experienced players. Main corp ( Industrial W.O) . Also join Discord!
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Training corp for ws and rs . We  like to help new people  , but  also hapy to see experienced players. Main corp ( Industrial W.O) . Also join Discord!
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Training corp for ws and rs . We  like to help new people  , but  also hapy to see experienced players. Main corp ( Industrial W.O) . Also join Discord!
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/QJASDtk4j7)
 ### Whitestar Bonus ✅

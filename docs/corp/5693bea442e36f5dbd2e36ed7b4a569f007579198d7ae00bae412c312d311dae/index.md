@@ -16,9 +16,12 @@ date: 1732766810
  Lets WiN all white Stars
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Lets WiN all white Stars
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Lets WiN all white Stars
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/Nope)
 ### Whitestar Bonus ✅

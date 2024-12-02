@@ -20,13 +20,16 @@ date: 1713332587
  
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-<span style="color:#F00;">Русские идут!</span><span style="color:#0F0;"> Рептилий и тихушников отстреливаем!</span> 
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <span style="color:#F00;">Русские идут!</span><span style="color:#0F0;"> Рептилий и тихушников отстреливаем!</span> 
 
 
 
  
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

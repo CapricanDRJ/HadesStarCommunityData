@@ -25,18 +25,21 @@ date: 1699370027
  Discord:pxSK3vbe</color></b>
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;b&gt;<span style="color:#FFDD88;">&lt;size=90&gt; Versailles Federation&lt;/size&gt;</span>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <b><span style="color:#FFDD88;"><size=90> Versailles Federation</size></span>
 
-<span style="color:#FFE9B7;">&lt;size=75&gt; Burn it to the ashes&lt;/size&gt;
+<span style="color:#FFE9B7;"><size=75> Burn it to the ashes</size>
     -hosted by ShadowSun
 
  RS: 1-6
 
  WS: Thursdays
 
- Discord:pxSK3vbe</span>&lt;/b&gt;
-</div>
+ Discord:pxSK3vbe</span></b>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

@@ -16,9 +16,12 @@ date: 1732913263
  <size=50>Без политоты!Discord или Телеграм https://t.me/pycb_rs_hs обязателен для вступления.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;size=50&gt;Без политоты!Discord или Телеграм https://t.me/pycb_rs_hs обязателен для вступления.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <size=50>Без политоты!Discord или Телеграм https://t.me/pycb_rs_hs обязателен для вступления.
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/bjmmfFx)
 ### Whitestar Bonus ❌

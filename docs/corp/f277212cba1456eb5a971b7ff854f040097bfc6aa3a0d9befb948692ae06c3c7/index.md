@@ -20,13 +20,16 @@ Rejoignez-nous !!!
 Join us !!!
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Corporation française/english ouverte à tous ! 
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Corporation française/english ouverte à tous ! 
 Nouvelle corporation, motivée pour des étoiles blanches. Motivate to white stars
 Discord : https://discord.gg/VevrVjTpPG
 Rejoignez-nous !!!
 Join us !!!
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

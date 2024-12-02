@@ -16,9 +16,12 @@ date: 1732640405
  What a year….
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-What a year….
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    What a year….
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

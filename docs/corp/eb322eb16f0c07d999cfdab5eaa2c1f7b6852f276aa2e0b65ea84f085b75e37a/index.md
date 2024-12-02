@@ -16,9 +16,12 @@ date: 1719971489
  SanctuaryGaming.org for Discord & links.  Please be active and grow your. account.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-SanctuaryGaming.org for Discord & links.  Please be active and grow your. account.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    SanctuaryGaming.org for Discord & links.  Please be active and grow your. account.
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

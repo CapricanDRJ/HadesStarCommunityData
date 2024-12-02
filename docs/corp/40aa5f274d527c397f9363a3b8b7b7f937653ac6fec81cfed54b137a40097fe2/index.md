@@ -18,11 +18,14 @@ Simply the best.
 Enthält Spuren von Starhalla.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Tu pist ein Tevitist!
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Tu pist ein Tevitist!
 Simply the best.
 Enthält Spuren von Starhalla.
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

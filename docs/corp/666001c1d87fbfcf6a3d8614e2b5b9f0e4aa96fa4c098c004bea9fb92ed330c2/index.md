@@ -17,10 +17,13 @@ date: 1732297253
 Discord obligatoire
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-La corpo hard de <span style="color:#FFA040;">Seasons Corp</span>, une alliance où l'entraide et le jeu passent avant tout !
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    La corpo hard de <span style="color:#FFA040;">Seasons Corp</span>, une alliance où l'entraide et le jeu passent avant tout !
 Discord obligatoire
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/DcuxrTA)
 ### Whitestar Bonus ❌

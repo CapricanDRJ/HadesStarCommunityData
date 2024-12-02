@@ -16,9 +16,12 @@ date: 1725454801
  SEJAM TODOS BEM VINDOS PARÁ INICIAR WS DE SEGUNDA A SEXTA> E AJUDAR NOVATOS E TAMBÉM ENSINAR > EXPULSÃO PARA VAGAS DE QUEM TIVER INATIVO POR 7 DIAS, TAMBÉM NO GRUPO DO WHATSAPP. 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-SEJAM TODOS BEM VINDOS PARÁ INICIAR WS DE SEGUNDA A SEXTA&gt; E AJUDAR NOVATOS E TAMBÉM ENSINAR &gt; EXPULSÃO PARA VAGAS DE QUEM TIVER INATIVO POR 7 DIAS, TAMBÉM NO GRUPO DO WHATSAPP. 
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    SEJAM TODOS BEM VINDOS PARÁ INICIAR WS DE SEGUNDA A SEXTA> E AJUDAR NOVATOS E TAMBÉM ENSINAR > EXPULSÃO PARA VAGAS DE QUEM TIVER INATIVO POR 7 DIAS, TAMBÉM NO GRUPO DO WHATSAPP. 
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

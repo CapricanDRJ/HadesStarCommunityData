@@ -16,9 +16,12 @@ date: 1712768054
  We'll bang, ok?
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-We'll bang, ok?
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    We'll bang, ok?
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

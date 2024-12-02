@@ -16,9 +16,12 @@ date: 1732900339
  trại trú ẩn đồng hương thất lạc
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-trại trú ẩn đồng hương thất lạc
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    trại trú ẩn đồng hương thất lạc
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/Bj7asyRu67)
 ### Whitestar Bonus ❌

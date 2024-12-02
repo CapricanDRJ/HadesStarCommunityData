@@ -16,9 +16,12 @@ date: 1724593548
  Мы рады любому, кто готов развиваться в дружной компании и помогать ей. Регулярное участие в операциях у БЗ гарантировано.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Мы рады любому, кто готов развиваться в дружной компании и помогать ей. Регулярное участие в операциях у БЗ гарантировано.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Мы рады любому, кто готов развиваться в дружной компании и помогать ей. Регулярное участие в операциях у БЗ гарантировано.
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/CKF2yqFhFu)
 ### Whitestar Bonus ❌

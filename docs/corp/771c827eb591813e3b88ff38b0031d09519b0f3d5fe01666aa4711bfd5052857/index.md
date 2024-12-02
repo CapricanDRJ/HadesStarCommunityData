@@ -16,9 +16,12 @@ date: 1719277369
  不如黑神话悟空
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-不如黑神话悟空
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    不如黑神话悟空
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

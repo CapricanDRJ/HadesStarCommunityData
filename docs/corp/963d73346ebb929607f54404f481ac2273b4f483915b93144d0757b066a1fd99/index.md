@@ -16,9 +16,12 @@ date: 1732877795
  Академия IX Легиона.Дискорд в информации.Телеграм Вселенских: 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Академия IX Легиона.Дискорд в информации.Телеграм Вселенских: 
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Академия IX Легиона.Дискорд в информации.Телеграм Вселенских: 
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/fc2eg8hNJm)
 ### Whitestar Bonus ✅

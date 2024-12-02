@@ -16,9 +16,12 @@ date: 1707681836
  Nueva Hyperion revive. Únete para comenzar a crecer tu imperio con las ventajas de una corporación ya empezada. Jugamos de manera relajada. Pregunta por el Discord en el chat.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Nueva Hyperion revive. Únete para comenzar a crecer tu imperio con las ventajas de una corporación ya empezada. Jugamos de manera relajada. Pregunta por el Discord en el chat.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Nueva Hyperion revive. Únete para comenzar a crecer tu imperio con las ventajas de una corporación ya empezada. Jugamos de manera relajada. Pregunta por el Discord en el chat.
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

@@ -22,15 +22,18 @@ RS9-11
 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Weekly competitive WS crew.
-Proud member of the &lt;b&gt;OntarioDynasty&lt;/b&gt; Family of Corps. 
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Weekly competitive WS crew.
+Proud member of the <b>OntarioDynasty</b> Family of Corps. 
 
 All welcome to join
 Discord required to stay
 RS9-11
 
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/gBFFE5x)
 ### Whitestar Bonus ❌

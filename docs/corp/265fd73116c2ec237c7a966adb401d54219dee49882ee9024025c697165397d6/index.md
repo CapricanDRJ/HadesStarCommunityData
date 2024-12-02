@@ -16,9 +16,12 @@ date: 1732964639
  Jeden Abend RR gemeinsam, jede Woche WZ! Und Verstärkung ist dringend gesucht. Also hereinspaziert, wir freuen uns! 20:00 Uhr RR :) Aber natürlich auch wann anders....
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Jeden Abend RR gemeinsam, jede Woche WZ! Und Verstärkung ist dringend gesucht. Also hereinspaziert, wir freuen uns! 20:00 Uhr RR :) Aber natürlich auch wann anders....
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Jeden Abend RR gemeinsam, jede Woche WZ! Und Verstärkung ist dringend gesucht. Also hereinspaziert, wir freuen uns! 20:00 Uhr RR :) Aber natürlich auch wann anders....
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ✅
 

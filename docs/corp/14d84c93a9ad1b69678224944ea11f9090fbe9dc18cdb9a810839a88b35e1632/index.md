@@ -19,12 +19,15 @@ date: 1712178754
 •Discord [PgyhFfhnT3] 
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;size=100&gt;&lt;b&gt;<span style="color:Red;">Orden Real </span>&lt;/b&gt;&lt;/size&gt;
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <size=100><b><span style="color:Red;">Orden Real </span></b></size>
 •Estrellas Rojas ✓
 •Estrellas Blancas ✓
 •Discord [PgyhFfhnT3] 
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

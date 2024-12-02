@@ -19,12 +19,15 @@ date: 1732924682
 память ★VeprKoloyar★
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-<span style="color:red;">★★★</span>.<span style="color:white;">Добро пожаловать★КЗ3-9!!!</span>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <span style="color:red;">★★★</span>.<span style="color:white;">Добро пожаловать★КЗ3-9!!!</span>
 <span style="color:red;">★★★</span><span style="color:white;">Еженедельные походы наБЗ★</span>
 <span style="color:#1E90FF;">БЗ Telegram☎</span>
 память ★VeprKoloyar★
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ✅
 

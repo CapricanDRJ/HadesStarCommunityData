@@ -16,9 +16,12 @@ date: 1703188801
  Be nice and be active, we will support you on your way up :) https://discord.com/invite/3z6EWUq5
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Be nice and be active, we will support you on your way up :) https://discord.com/invite/3z6EWUq5
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Be nice and be active, we will support you on your way up :) https://discord.com/invite/3z6EWUq5
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

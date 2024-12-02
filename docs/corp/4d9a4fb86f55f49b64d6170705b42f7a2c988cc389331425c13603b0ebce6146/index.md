@@ -16,9 +16,12 @@ date: 1702043417
  Discord https://discord.gg/mXaAX7Caga
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Discord https://discord.gg/mXaAX7Caga
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Discord https://discord.gg/mXaAX7Caga
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

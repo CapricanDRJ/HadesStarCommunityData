@@ -16,9 +16,12 @@ date: 1708982290
  Head over to WompWompWay
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Head over to WompWompWay
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Head over to WompWompWay
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/5KCND3wuds)
 ### Whitestar Bonus ❌

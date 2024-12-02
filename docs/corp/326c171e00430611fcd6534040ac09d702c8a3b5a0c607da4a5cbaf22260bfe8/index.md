@@ -16,9 +16,12 @@ date: 1714047703
  Welcome to the Mini Elite!Owned by The ElitePart of The Elite Federation.May the Low Red Stars of Hades unite into TEF
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Welcome to the Mini Elite!Owned by The ElitePart of The Elite Federation.May the Low Red Stars of Hades unite into TEF
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Welcome to the Mini Elite!Owned by The ElitePart of The Elite Federation.May the Low Red Stars of Hades unite into TEF
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/https://discord.gg/Y26M3hNF)
 ### Whitestar Bonus ❌

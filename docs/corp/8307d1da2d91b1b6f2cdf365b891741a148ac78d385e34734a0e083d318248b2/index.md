@@ -16,9 +16,12 @@ date: 1715630616
  <b><color=red><size=240>Fė <b><color=orange><size=240>ni <b><color=yellow><size=240>X• <b><color=green><size=40> bienvenido sean a todos...         
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;b&gt;<span style="color:red;">&lt;size=240&gt;Fė &lt;b&gt;<span style="color:orange;">&lt;size=240&gt;ni &lt;b&gt;<span style="color:yellow;">&lt;size=240&gt;X• &lt;b&gt;<span style="color:green;">&lt;size=40&gt; bienvenido sean a todos...         
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <b><span style="color:red;"><size=240>Fė <b><span style="color:orange;"><size=240>ni <b><span style="color:yellow;"><size=240>X• <b><span style="color:green;"><size=40> bienvenido sean a todos...         
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/<b><color=black><size=33> discord no disponible )
 ### Whitestar Bonus ❌

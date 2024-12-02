@@ -16,9 +16,12 @@ date: 1733050275
  У <color="yellow">монголов золотая🌕<color="lightblue">, а у <color="white">нас серебряная🏐 🔘Регулярно БЗ. Ждём активных игроков😀 <color="green">Русский, English
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-У <span style="color:"yellow";">монголов золотая🌕<span style="color:"lightblue";">, а у <span style="color:"white";">нас серебряная🏐 🔘Регулярно БЗ. Ждём активных игроков😀 <span style="color:"green";">Русский, English
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    У <span style="color:"yellow";">монголов золотая🌕<span style="color:"lightblue";">, а у <span style="color:"white";">нас серебряная🏐 🔘Регулярно БЗ. Ждём активных игроков😀 <span style="color:"green";">Русский, English
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/p6rrFevJbJ)
 ### Whitestar Bonus ❌

@@ -23,8 +23,9 @@ date: 1733084238
 *Donations Appreciated*
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-**NewCorp**
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    **NewCorp**
 *RetiringTheVoidOneHexagonAtaTime*
 **NonStopWhiteStars**
 *White Star Focused Corp* 
@@ -32,7 +33,9 @@ date: 1733084238
 *ArtifactSharing*
 **English**
 *Donations Appreciated*
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/vmbXh7r7yt)
 ### Whitestar Bonus ✅

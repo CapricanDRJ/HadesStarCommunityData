@@ -22,15 +22,18 @@ Are you RS6+ and want to join?
 Find us on Discord: YTaYrhy
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-We are BSO, the oldest Alliance in HS.
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    We are BSO, the oldest Alliance in HS.
 
 Black Star Order, Final, Trade Station, UG, PoH and Dauntless working together to excel.
 
 Are you RS6+ and want to join?
 
 Find us on Discord: YTaYrhy
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/YTaYrhy)
 ### Whitestar Bonus ❌

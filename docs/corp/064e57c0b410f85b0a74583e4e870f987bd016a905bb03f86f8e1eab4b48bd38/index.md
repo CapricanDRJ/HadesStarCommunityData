@@ -17,10 +17,13 @@ date: 1700618828
 Glory to Ukraine!
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Copyright (c) 2017. All rights reversed.
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Copyright (c) 2017. All rights reversed.
 Glory to Ukraine!
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

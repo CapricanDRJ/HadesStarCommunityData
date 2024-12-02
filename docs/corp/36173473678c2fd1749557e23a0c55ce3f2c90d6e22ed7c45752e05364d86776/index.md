@@ -17,10 +17,13 @@ date: 1708788469
 join our Discord - https://discord.gg/P3ZAdzA
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Innovative corp looking for active players, we love to help each other and clearout whole red stars :)
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Innovative corp looking for active players, we love to help each other and clearout whole red stars :)
 join our Discord - https://discord.gg/P3ZAdzA
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

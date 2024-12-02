@@ -29,8 +29,9 @@ B站d音搜：仙女座星雲土豆
 成立时间：2022.2.10
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-<span style="color:yellow;">&lt;size=70&gt;高效简洁的排队BOT，已经上线加入总群，验车后可以加入赶快来体验吧&lt;/size&gt;</span>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <span style="color:yellow;"><size=70>高效简洁的排队BOT，已经上线加入总群，验车后可以加入赶快来体验吧</size></span>
 
 集团总群：372337244
 
@@ -44,7 +45,9 @@ B站d音搜：仙女座星雲土豆
 有宣传视频和游戏全套攻略
 
 成立时间：2022.2.10
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/snwFMgDPms)
 ### Whitestar Bonus ✅

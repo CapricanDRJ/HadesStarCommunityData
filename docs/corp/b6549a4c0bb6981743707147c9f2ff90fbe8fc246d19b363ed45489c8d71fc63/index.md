@@ -18,11 +18,14 @@ date: 1727192499
 https://discord.gg/EdNWKeN
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Science Division.. we are here to help.
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Science Division.. we are here to help.
 
 https://discord.gg/EdNWKeN
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

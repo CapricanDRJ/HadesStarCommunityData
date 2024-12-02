@@ -16,9 +16,12 @@ date: 1719192673
  For passive players who don't play that often.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-For passive players who don't play that often.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    For passive players who don't play that often.
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

@@ -16,9 +16,12 @@ date: 1732586321
  <b><size=116>IMPERIO EXIRIUM </size></b> Bienvenidos todos a esta gran corporación hacemos ER 2 - ER 9. Ayudamos a varios miembros a crecer.                                         WhatsApp incluido.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;b&gt;&lt;size=116&gt;IMPERIO EXIRIUM &lt;/size&gt;&lt;/b&gt; Bienvenidos todos a esta gran corporación hacemos ER 2 - ER 9. Ayudamos a varios miembros a crecer.                                         WhatsApp incluido.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <b><size=116>IMPERIO EXIRIUM </size></b> Bienvenidos todos a esta gran corporación hacemos ER 2 - ER 9. Ayudamos a varios miembros a crecer.                                         WhatsApp incluido.
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/https://discord.gg/Jp8NZb5X)
 ### Whitestar Bonus ✅

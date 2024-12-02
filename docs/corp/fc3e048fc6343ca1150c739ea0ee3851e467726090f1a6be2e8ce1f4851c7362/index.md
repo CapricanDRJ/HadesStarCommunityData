@@ -16,9 +16,12 @@ date: 1732952621
  <size=80><color=#9efee4>Принимаем новых игроков .Russia/Рады всем (без политы)</color></size> https://t.me/+3Wo6TqB6SStmZDBi
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;size=80&gt;<span style="color:#9efee4;">Принимаем новых игроков .Russia/Рады всем (без политы)</span>&lt;/size&gt; https://t.me/+3Wo6TqB6SStmZDBi
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <size=80><span style="color:#9efee4;">Принимаем новых игроков .Russia/Рады всем (без политы)</span></size> https://t.me/+3Wo6TqB6SStmZDBi
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/hn2S7qy58g)
 ### Whitestar Bonus ❌

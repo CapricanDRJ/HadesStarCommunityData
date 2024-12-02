@@ -23,8 +23,9 @@ discord：https://discord.gg/eDKGV87N
 集团分盟：蓝色星系一号分盟
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-志同道合的兄弟可以一起来奋斗。相信自己，有志者事竟成。同时欢迎各位咸鱼种田者到来。
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    志同道合的兄弟可以一起来奋斗。相信自己，有志者事竟成。同时欢迎各位咸鱼种田者到来。
 长期招收活跃玩家，有意培养萌新，不间断白星欢迎各位前来参与
 
 
@@ -32,7 +33,9 @@ discord：https://discord.gg/eDKGV87N
 白星作战群（打白星必加）：<span style="color:'#FF0000';">832811269</span>
 discord：https://discord.gg/eDKGV87N
 集团分盟：蓝色星系一号分盟
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

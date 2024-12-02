@@ -18,11 +18,14 @@ date: 1732735957
 https://discord.gg/DDhaupc
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-ΜΟΛΩΝ ΛΑΒΕ!
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    ΜΟΛΩΝ ΛΑΒΕ!
 
 https://discord.gg/DDhaupc
-</div>
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/DDhaupc)
 ### Whitestar Bonus ✅

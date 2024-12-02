@@ -16,9 +16,12 @@ date: 1702798749
  Recruiting X-304 pilots to defeat the Goa'uld!
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Recruiting X-304 pilots to defeat the Goa'uld!
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Recruiting X-304 pilots to defeat the Goa'uld!
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

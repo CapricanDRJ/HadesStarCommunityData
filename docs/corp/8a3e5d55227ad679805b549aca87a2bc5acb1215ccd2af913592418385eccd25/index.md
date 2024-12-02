@@ -16,9 +16,12 @@ date: 1728381554
  星光万丈红活专用
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-星光万丈红活专用
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    星光万丈红活专用
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

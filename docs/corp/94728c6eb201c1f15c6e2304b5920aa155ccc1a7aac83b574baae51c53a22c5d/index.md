@@ -16,9 +16,12 @@ date: 1732635897
  Small but perfectly formed English speaking Corp seeks experienced active players wanting to grow.White Star⚪ on Thursdays.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Small but perfectly formed English speaking Corp seeks experienced active players wanting to grow.White Star⚪ on Thursdays.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Small but perfectly formed English speaking Corp seeks experienced active players wanting to grow.White Star⚪ on Thursdays.
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/Hc9hVMCcMT)
 ### Whitestar Bonus ✅

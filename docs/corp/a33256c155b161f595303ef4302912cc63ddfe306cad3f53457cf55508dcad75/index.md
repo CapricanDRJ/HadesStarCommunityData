@@ -22,15 +22,18 @@ All FS Donations welcome.
 <b><color=red>Must join Discord to remain here.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-&lt;b&gt;<span style="color:white;">The Premier White Star Capital of Hades Star.</span>&lt;/b&gt;
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <b><span style="color:white;">The Premier White Star Capital of Hades Star.</span></b>
 
 <span style="color:green;">Competitive WS.</span> 
 
 All FS Donations welcome.
 
-&lt;b&gt;<span style="color:red;">Must join Discord to remain here.
-</div>
+<b><span style="color:red;">Must join Discord to remain here.
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/skvJzZH)
 ### Whitestar Bonus ✅

@@ -16,9 +16,12 @@ date: 1725618874
  本团为中国星际联盟自治分团，欢迎加入！
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-本团为中国星际联盟自治分团，欢迎加入！
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    本团为中国星际联盟自治分团，欢迎加入！
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

@@ -18,11 +18,14 @@ Jeder ist willkommen, permanent WZ, RR's und Support.
 Traut euch... bewirb dich noch heute 🖖🏻
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-"Werde Teil einer außergewöhnlichen Mannschaft"
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    "Werde Teil einer außergewöhnlichen Mannschaft"
 Jeder ist willkommen, permanent WZ, RR's und Support.
 Traut euch... bewirb dich noch heute 🖖🏻
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

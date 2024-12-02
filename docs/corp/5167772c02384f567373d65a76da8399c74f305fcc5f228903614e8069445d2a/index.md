@@ -16,9 +16,12 @@ date: 1707775947
  It's official branch of PAndORe Corp., more information in discord. Since 20 lvl - old membership, since 35 lvl - officer's membership (except 1st twenty members)
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-It's official branch of PAndORe Corp., more information in discord. Since 20 lvl - old membership, since 35 lvl - officer's membership (except 1st twenty members)
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    It's official branch of PAndORe Corp., more information in discord. Since 20 lvl - old membership, since 35 lvl - officer's membership (except 1st twenty members)
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/https://discord.com/invite/sdxrxgrEqQ)
 ### Whitestar Bonus ❌

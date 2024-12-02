@@ -16,9 +16,12 @@ date: 1730566676
  Kill or be Killed. We as Survivors  have banded together to take on all enemy forces! We are a small, recently created group of determined people doing WS & having fun.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Kill or be Killed. We as Survivors  have banded together to take on all enemy forces! We are a small, recently created group of determined people doing WS & having fun.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Kill or be Killed. We as Survivors  have banded together to take on all enemy forces! We are a small, recently created group of determined people doing WS & having fun.
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/https://discord.gg/JsfWnkf7)
 ### Whitestar Bonus ❌

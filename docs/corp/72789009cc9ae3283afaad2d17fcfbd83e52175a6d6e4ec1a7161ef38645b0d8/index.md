@@ -16,9 +16,12 @@ date: 1732904547
  English speaking – would you want to communicate
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-English speaking – would you want to communicate
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    English speaking – would you want to communicate
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

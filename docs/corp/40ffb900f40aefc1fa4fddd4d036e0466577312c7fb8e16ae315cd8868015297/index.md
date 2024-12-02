@@ -16,9 +16,12 @@ date: 1732104016
  隶属于蓝色星系的蓝色星系第二分盟，欢迎各位萌新大佬加入，Q群446097226，每周送r7，r6神器qwq，偶尔有r8，主席TAT，副主席莱茵太空，需要神器就找副主席，不是本团的萌新需要帮助请直接联系副主席
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-隶属于蓝色星系的蓝色星系第二分盟，欢迎各位萌新大佬加入，Q群446097226，每周送r7，r6神器qwq，偶尔有r8，主席TAT，副主席莱茵太空，需要神器就找副主席，不是本团的萌新需要帮助请直接联系副主席
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    隶属于蓝色星系的蓝色星系第二分盟，欢迎各位萌新大佬加入，Q群446097226，每周送r7，r6神器qwq，偶尔有r8，主席TAT，副主席莱茵太空，需要神器就找副主席，不是本团的萌新需要帮助请直接联系副主席
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

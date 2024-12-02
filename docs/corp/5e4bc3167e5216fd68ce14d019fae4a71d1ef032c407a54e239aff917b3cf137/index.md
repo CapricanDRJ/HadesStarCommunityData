@@ -16,9 +16,12 @@ date: 1705007195
  We are the Borg. We will add your biological and technological distinctiveness to our own. Your culture will adapt to service us. Resistance is futile. No politics and no racism.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-We are the Borg. We will add your biological and technological distinctiveness to our own. Your culture will adapt to service us. Resistance is futile. No politics and no racism.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    We are the Borg. We will add your biological and technological distinctiveness to our own. Your culture will adapt to service us. Resistance is futile. No politics and no racism.
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

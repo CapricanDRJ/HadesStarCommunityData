@@ -20,13 +20,16 @@ date: 1701425499
 虎式3万愿君5万何梦琪70万一个过分1万 yebaha1万北冥5万 时光梦意1万Bailey27万0 28万player2万Enoch1万
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-QQ群：671572183进群请填写游戏名称。群里有福利，领取四级神器，先进群再进团
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    QQ群：671572183进群请填写游戏名称。群里有福利，领取四级神器，先进群再进团
 简介:本团的创建初衷是找志同道合的朋友们一起交流和玩游戏，团内禁止骂人，文明用语，违者踢。
 黑名单:无
 旗舰捐献名单（自愿捐献不强求，就算离开团名字也不删除）
 虎式3万愿君5万何梦琪70万一个过分1万 yebaha1万北冥5万 时光梦意1万Bailey27万0 28万player2万Enoch1万
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

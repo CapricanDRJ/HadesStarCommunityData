@@ -16,9 +16,12 @@ date: 1714979423
  rookie or veteran we are all learning this new update together. we are open to any New Comers. Now's the Time to join and feel close to equal. most importantly we're here to have some fun.
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-rookie or veteran we are all learning this new update together. we are open to any New Comers. Now's the Time to join and feel close to equal. most importantly we're here to have some fun.
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    rookie or veteran we are all learning this new update together. we are open to any New Comers. Now's the Time to join and feel close to equal. most importantly we're here to have some fun.
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

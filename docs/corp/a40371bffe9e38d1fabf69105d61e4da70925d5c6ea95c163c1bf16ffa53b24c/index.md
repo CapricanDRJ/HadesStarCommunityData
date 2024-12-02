@@ -18,11 +18,14 @@ discord:
 https://discord.gg/3PDKPau
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Que la fuerza te acompañe
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Que la fuerza te acompañe
 discord:
 https://discord.gg/3PDKPau
-</div>
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 

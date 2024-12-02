@@ -16,9 +16,12 @@ date: 1733136513
  <color=red>Must be English speaking.<color=white> Adults only. CTG = Corporation Trade Guild. Discord=WS.ㅤ ㅤㅤ ㅤ<color=yellow>We welcome any newbie and big guy to join us! If you're interested, say hi!
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-<span style="color:red;">Must be English speaking.<span style="color:white;"> Adults only. CTG = Corporation Trade Guild. Discord=WS.ㅤ ㅤㅤ ㅤ<span style="color:yellow;">We welcome any newbie and big guy to join us! If you're interested, say hi!
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    <span style="color:red;">Must be English speaking.<span style="color:white;"> Adults only. CTG = Corporation Trade Guild. Discord=WS.ㅤ ㅤㅤ ㅤ<span style="color:yellow;">We welcome any newbie and big guy to join us! If you're interested, say hi!
+    </div>
+    {:/}
+    
 
 ### [Discord](https://discord.gg/https://discord.com/invite/xG26mebaUv)
 ### Whitestar Bonus ❌

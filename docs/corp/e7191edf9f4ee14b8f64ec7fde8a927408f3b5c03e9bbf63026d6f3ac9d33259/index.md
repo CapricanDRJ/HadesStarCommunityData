@@ -16,9 +16,12 @@ date: 1702238474
  Viendez tous, on est ici pour s'amuser, ET PAS SE PRENDRE LA TETE
 ```
 
-<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-Viendez tous, on est ici pour s'amuser, ET PAS SE PRENDRE LA TETE
-</div>
+    {::nomarkdown}
+    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+    Viendez tous, on est ici pour s'amuser, ET PAS SE PRENDRE LA TETE
+    </div>
+    {:/}
+    
 
 ### Whitestar Bonus ❌
 
