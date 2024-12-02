@@ -19,7 +19,7 @@ date: 1732720029
 <color=#fb3>Bring your crew and join us for 
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>&lt;size=120&gt;<span style=&quot;color:#813;&quot;><strong>RΣD <span style=&quot;color:#ddd;&quot;>DΛWN
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>&lt;size=120&gt;<span style=&quot;color:#813;&quot;><strong>RΣD <span style=&quot;color:#ddd;&quot;>DΛWN
 &lt;size=60&gt;<span style=&quot;color:#c23;&quot;>Red Star Event Rank #58
 <span style=&quot;color:#e50;&quot;>Get <span style=&quot;color:#9ec;&quot;>500 Crystals</span> every month!
 <span style=&quot;color:#fb3;&quot;>Bring your crew and join us for </body></html>"></iframe>

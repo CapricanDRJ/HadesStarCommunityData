@@ -16,7 +16,7 @@ date: 1732952621
  <size=80><color=#9efee4>Принимаем новых игроков .Russia/Рады всем (без политы)</color></size> https://t.me/+3Wo6TqB6SStmZDBi
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>&lt;size=80&gt;<span style=&quot;color:#9efee4;&quot;>Принимаем новых игроков .Russia/Рады всем (без политы)</span>&lt;/size&gt; https://t.me/+3Wo6TqB6SStmZDBi</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>&lt;size=80&gt;<span style=&quot;color:#9efee4;&quot;>Принимаем новых игроков .Russia/Рады всем (без политы)</span>&lt;/size&gt; https://t.me/+3Wo6TqB6SStmZDBi</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/hn2S7qy58g)
 ### Whitestar Bonus ❌

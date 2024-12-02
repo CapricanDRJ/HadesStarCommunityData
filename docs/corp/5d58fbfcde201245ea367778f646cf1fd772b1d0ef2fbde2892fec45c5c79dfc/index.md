@@ -20,7 +20,7 @@ date: 1702833557
 Hop in Discord - 9aD8bFDvY4
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>&lt;size=50&gt;<span style=&quot;color:#F55D06;&quot;>~Welcome to Wispered Storm~</span>&lt;/size&gt;
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>&lt;size=50&gt;<span style=&quot;color:#F55D06;&quot;>~Welcome to Wispered Storm~</span>&lt;/size&gt;
 &lt;size=50&gt;<span style=&quot;color:#13FF00;&quot;>~Join up and Ride the Storm~</span>&lt;/size&gt;
 *Weekly WS
 *RS 6-10

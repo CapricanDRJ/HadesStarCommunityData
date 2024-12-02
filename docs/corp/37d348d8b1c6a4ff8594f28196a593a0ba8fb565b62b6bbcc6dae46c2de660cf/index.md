@@ -16,7 +16,7 @@ date: 1732373877
  本星际集团是<color=red><size=50>红日初升,其道大光</size></color>第一分团。<color=yellow>只有超过70级或r7才会被晋升为干事！</color>盟团：揽月宫 禁入：Artem 2018（乱移人）、♛海棠.花之约♞（辱骂他人）<color=orange>南极星联盟成员</color>
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>本星际集团是<span style=&quot;color:red;&quot;>&lt;size=50&gt;红日初升,其道大光&lt;/size&gt;</span>第一分团。<span style=&quot;color:yellow;&quot;>只有超过70级或r7才会被晋升为干事！</span>盟团：揽月宫 禁入：Artem 2018（乱移人）、♛海棠.花之约♞（辱骂他人）<span style=&quot;color:orange;&quot;>南极星联盟成员</span></body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>本星际集团是<span style=&quot;color:red;&quot;>&lt;size=50&gt;红日初升,其道大光&lt;/size&gt;</span>第一分团。<span style=&quot;color:yellow;&quot;>只有超过70级或r7才会被晋升为干事！</span>盟团：揽月宫 禁入：Artem 2018（乱移人）、♛海棠.花之约♞（辱骂他人）<span style=&quot;color:orange;&quot;>南极星联盟成员</span></body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

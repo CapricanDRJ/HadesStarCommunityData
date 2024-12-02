@@ -16,7 +16,7 @@ date: 1710327537
  欢迎各位萌新加入此集团！可长时间留在这发展，没有要求，进集团给干事，可自行开白，可不打白，可长时间不上号，QQ群:637628041，不要给旗舰捐钱。
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>欢迎各位萌新加入此集团！可长时间留在这发展，没有要求，进集团给干事，可自行开白，可不打白，可长时间不上号，QQ群:637628041，不要给旗舰捐钱。</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>欢迎各位萌新加入此集团！可长时间留在这发展，没有要求，进集团给干事，可自行开白，可不打白，可长时间不上号，QQ群:637628041，不要给旗舰捐钱。</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

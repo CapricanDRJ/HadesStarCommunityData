@@ -16,7 +16,7 @@ date: 1732452299
  此团直接隶属总团，和总团制度无区别，直接管辖，并不是自治，我们沿用总团制度，自由民主，集团聊天内字体设置不准超过100大小，活人升高级    /当前目标：到达100级集团，白星节假日开，正在招人中，欢迎萌新前来（ 3天以上不上踢 ）/首席：yori /黑名单：探秘天梯 vaho华浩 QQ767311697
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>此团直接隶属总团，和总团制度无区别，直接管辖，并不是自治，我们沿用总团制度，自由民主，集团聊天内字体设置不准超过100大小，活人升高级    /当前目标：到达100级集团，白星节假日开，正在招人中，欢迎萌新前来（ 3天以上不上踢 ）/首席：yori /黑名单：探秘天梯 vaho华浩 QQ767311697</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>此团直接隶属总团，和总团制度无区别，直接管辖，并不是自治，我们沿用总团制度，自由民主，集团聊天内字体设置不准超过100大小，活人升高级    /当前目标：到达100级集团，白星节假日开，正在招人中，欢迎萌新前来（ 3天以上不上踢 ）/首席：yori /黑名单：探秘天梯 vaho华浩 QQ767311697</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

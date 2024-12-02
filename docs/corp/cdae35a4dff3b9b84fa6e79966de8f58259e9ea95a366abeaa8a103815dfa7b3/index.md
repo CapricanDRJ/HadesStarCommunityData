@@ -20,7 +20,7 @@ Part of <b><color=#fce205>A.R.M.O.R</color></b>
 Discord:DUbkgw9uMT
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>&lt;size=70&gt;<strong><em>Welcome to</em></strong></span>&lt;/size&gt;<strong><span style=&quot;color:#fce205;&quot;>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>&lt;size=70&gt;<strong><em>Welcome to</em></strong></span>&lt;/size&gt;<strong><span style=&quot;color:#fce205;&quot;>
 &lt;size=100&gt;GRAND MECHANISM&lt;/size&gt;</span></strong>
 
 Part of <strong><span style=&quot;color:#fce205;&quot;>A.R.M.O.R</span></strong>

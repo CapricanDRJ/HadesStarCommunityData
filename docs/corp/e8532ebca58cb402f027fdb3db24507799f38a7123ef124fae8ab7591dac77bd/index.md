@@ -29,7 +29,7 @@ B站d音搜：仙女座星雲土豆
 成立时间：2022.2.10
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:yellow;&quot;>&lt;size=70&gt;高效简洁的排队BOT，已经上线加入总群，验车后可以加入赶快来体验吧&lt;/size&gt;</span>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><span style=&quot;color:yellow;&quot;>&lt;size=70&gt;高效简洁的排队BOT，已经上线加入总群，验车后可以加入赶快来体验吧&lt;/size&gt;</span>
 
 集团总群：372337244
 

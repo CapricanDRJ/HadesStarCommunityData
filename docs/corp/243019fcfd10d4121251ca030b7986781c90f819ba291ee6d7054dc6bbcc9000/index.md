@@ -16,7 +16,7 @@ date: 1704366457
  Españoles. Veteranos y novatos.                   Discord obligatorio. Miembros activos.        Estrellas blancas: sábados -> jueves.          Estrellas rojas: sábados. Donación: 100k-sábados. Premios
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Españoles. Veteranos y novatos.                   Discord obligatorio. Miembros activos.        Estrellas blancas: sábados -&gt; jueves.          Estrellas rojas: sábados. Donación: 100k-sábados. Premios</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>Españoles. Veteranos y novatos.                   Discord obligatorio. Miembros activos.        Estrellas blancas: sábados -&gt; jueves.          Estrellas rojas: sábados. Donación: 100k-sábados. Premios</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/JAaHNV9AjU)
 ### Whitestar Bonus ❌

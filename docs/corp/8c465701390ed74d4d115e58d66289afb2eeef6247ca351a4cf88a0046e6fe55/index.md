@@ -23,7 +23,7 @@ date: 1733153946
 <#EE4B2B>不欢迎全服公敌瓜老板</color>
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>本集团为&lt;size=150&gt;新星团&lt;/size&gt;第一分团
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>本集团为&lt;size=150&gt;新星团&lt;/size&gt;第一分团
 旗下分团：
 &lt;#FAD201&gt;·新?的星际集团?
 ·探索舰队

@@ -20,7 +20,7 @@ Discord Mandatory.
 <color=#FF0000>discord.gg/JsmNexdvXv</color>
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><strong>&lt;size=99&gt;<span style=&quot;color:#990000;&quot;>Blood Brigade</span>&lt;/size&gt;</strong>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><strong>&lt;size=99&gt;<span style=&quot;color:#990000;&quot;>Blood Brigade</span>&lt;/size&gt;</strong>
 is a friendly corp with a relaxed atmosphere.
 Weekly white star.
 Discord Mandatory.

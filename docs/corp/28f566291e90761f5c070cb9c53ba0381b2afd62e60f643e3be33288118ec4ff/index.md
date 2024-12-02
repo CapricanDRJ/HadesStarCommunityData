@@ -20,7 +20,7 @@ date: 1700916068
 Discord necessary:hqgVvzTUw3
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><strong>&lt;size=80&gt;<span style=&quot;color:#EC13AD;&quot;>Better Slogan Needed Lol</span>&lt;/size&gt;</strong> 
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><strong>&lt;size=80&gt;<span style=&quot;color:#EC13AD;&quot;>Better Slogan Needed Lol</span>&lt;/size&gt;</strong> 
 
 -Recruiting active, social and mature players
 <span style=&quot;color:white;&quot;>-Irregular <em>loss farm</em> ws.</span>

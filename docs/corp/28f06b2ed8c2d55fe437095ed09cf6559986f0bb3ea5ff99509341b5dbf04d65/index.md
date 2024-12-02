@@ -24,7 +24,7 @@ date: 1733034654
 
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>欢迎大佬和萌新，这里是温暖的家，幸福的港湾，有一群可爱的伙伴们。自由，团结，快乐，总有你喜欢的那一份。
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>欢迎大佬和萌新，这里是温暖的家，幸福的港湾，有一群可爱的伙伴们。自由，团结，快乐，总有你喜欢的那一份。
 白星常开，欢乐自在和咸鱼同在。
 常驻集团QQ群：592237015
 外交QQ群：933074464

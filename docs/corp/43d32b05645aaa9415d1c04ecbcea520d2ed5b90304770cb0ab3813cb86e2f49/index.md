@@ -16,7 +16,7 @@ date: 1732728744
  ◇7~10 어둠적성 매일 팀플레이 실행 중.<br>◇매주 백성 1,2부 두팀 운영 중.<br>◇초보자 유물지원 빵빵하게 해드림.<br>◇절찬 성업중인 유일 한국콥으로 초대합니다.<br>◇카톡방에서 붉은늑대 다크 네뷸라를 찾으세요!<br>◇단톡방 참여 필수! 항성로그 3일 미접속 방출!
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>◇7~10 어둠적성 매일 팀플레이 실행 중.&lt;br&gt;◇매주 백성 1,2부 두팀 운영 중.&lt;br&gt;◇초보자 유물지원 빵빵하게 해드림.&lt;br&gt;◇절찬 성업중인 유일 한국콥으로 초대합니다.&lt;br&gt;◇카톡방에서 붉은늑대 다크 네뷸라를 찾으세요!&lt;br&gt;◇단톡방 참여 필수! 항성로그 3일 미접속 방출!</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>◇7~10 어둠적성 매일 팀플레이 실행 중.&lt;br&gt;◇매주 백성 1,2부 두팀 운영 중.&lt;br&gt;◇초보자 유물지원 빵빵하게 해드림.&lt;br&gt;◇절찬 성업중인 유일 한국콥으로 초대합니다.&lt;br&gt;◇카톡방에서 붉은늑대 다크 네뷸라를 찾으세요!&lt;br&gt;◇단톡방 참여 필수! 항성로그 3일 미접속 방출!</body></html>"></iframe>
 
 ### Whitestar Bonus ✅
 

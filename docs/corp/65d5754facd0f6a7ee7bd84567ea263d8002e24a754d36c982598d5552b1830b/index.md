@@ -16,7 +16,7 @@ date: 1733143125
  星际公约组织分团，大佬都请到星际公约组织，新建分团，请多多支持。QQ群993612413，有时间就加进来！这里将是太空中最温暖的家，集团福利高，请互帮互助。            星海灿烂，星约永恒     欢迎你的加入             集团黑名单：铁锈反叛战争公司，所有干事看见立刻清除
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>星际公约组织分团，大佬都请到星际公约组织，新建分团，请多多支持。QQ群993612413，有时间就加进来！这里将是太空中最温暖的家，集团福利高，请互帮互助。            星海灿烂，星约永恒     欢迎你的加入             集团黑名单：铁锈反叛战争公司，所有干事看见立刻清除</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>星际公约组织分团，大佬都请到星际公约组织，新建分团，请多多支持。QQ群993612413，有时间就加进来！这里将是太空中最温暖的家，集团福利高，请互帮互助。            星海灿烂，星约永恒     欢迎你的加入             集团黑名单：铁锈反叛战争公司，所有干事看见立刻清除</body></html>"></iframe>
 
 ### Whitestar Bonus ✅
 

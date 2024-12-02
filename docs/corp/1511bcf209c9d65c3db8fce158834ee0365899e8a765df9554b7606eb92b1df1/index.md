@@ -16,7 +16,7 @@ date: 1729231178
  欢迎大家加入，进团升干事！加入送三个神器，最高九级。旗舰有理由即可动用，白星由参与人员提出方案后择优执行。每周清理小红点
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>欢迎大家加入，进团升干事！加入送三个神器，最高九级。旗舰有理由即可动用，白星由参与人员提出方案后择优执行。每周清理小红点</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>欢迎大家加入，进团升干事！加入送三个神器，最高九级。旗舰有理由即可动用，白星由参与人员提出方案后择优执行。每周清理小红点</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

@@ -21,7 +21,7 @@ Q群:669494799
 部分人员即将转移至其他集团，详情请见Q群</size></b></color>
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:#F44;&quot;><strong>&lt;size=75px&gt;全称：星海命运共同体联盟
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><span style=&quot;color:#F44;&quot;><strong>&lt;size=75px&gt;全称：星海命运共同体联盟
 伟大的共产主义万岁！&lt;/size&gt;
 &lt;size=40px&gt;Full name: Xinghai Destiny Community Alliance
 Long live the great communism! 

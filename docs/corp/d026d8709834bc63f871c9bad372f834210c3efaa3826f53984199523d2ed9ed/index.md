@@ -16,7 +16,7 @@ date: 1733128703
  <color=yellow>本团为星光万丈星际集团第一分团<br>欢迎大家加入<br>集团定期清人，被踢随时欢迎回家<br><color=red>Q群852308177<br><color=yellow>福利不会自动发放，有需要请找团内或其他分团大佬<br>参白进群后找管理员报备<br><size=200>不要捐旗舰！qwq<color=yellow>
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:yellow;&quot;>本团为星光万丈星际集团第一分团&lt;br&gt;欢迎大家加入&lt;br&gt;集团定期清人，被踢随时欢迎回家&lt;br&gt;<span style=&quot;color:red;&quot;>Q群852308177&lt;br&gt;<span style=&quot;color:yellow;&quot;>福利不会自动发放，有需要请找团内或其他分团大佬&lt;br&gt;参白进群后找管理员报备&lt;br&gt;&lt;size=200&gt;不要捐旗舰！qwq<span style=&quot;color:yellow;&quot;></body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><span style=&quot;color:yellow;&quot;>本团为星光万丈星际集团第一分团&lt;br&gt;欢迎大家加入&lt;br&gt;集团定期清人，被踢随时欢迎回家&lt;br&gt;<span style=&quot;color:red;&quot;>Q群852308177&lt;br&gt;<span style=&quot;color:yellow;&quot;>福利不会自动发放，有需要请找团内或其他分团大佬&lt;br&gt;参白进群后找管理员报备&lt;br&gt;&lt;size=200&gt;不要捐旗舰！qwq<span style=&quot;color:yellow;&quot;></body></html>"></iframe>
 
 ### Whitestar Bonus ✅
 

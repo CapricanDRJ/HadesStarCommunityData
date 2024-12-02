@@ -20,7 +20,7 @@ This is the Round Table. We Help each other and have fun. Most of all be Respect
 Discord - https://discord.gg/b8VCJrC
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>**Corp is basically dead now. Thanks for the memories lads.**
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>**Corp is basically dead now. Thanks for the memories lads.**
 
 This is the Round Table. We Help each other and have fun. Most of all be Respectful and Honest.
 

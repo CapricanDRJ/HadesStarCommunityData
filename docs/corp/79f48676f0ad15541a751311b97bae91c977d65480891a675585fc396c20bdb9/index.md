@@ -16,7 +16,7 @@ date: 1725023276
  稳定发放D7-9，<size=50>别捐旗舰</size>   QQ群638804576
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>稳定发放D7-9，&lt;size=50&gt;别捐旗舰&lt;/size&gt;   QQ群638804576</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>稳定发放D7-9，&lt;size=50&gt;别捐旗舰&lt;/size&gt;   QQ群638804576</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

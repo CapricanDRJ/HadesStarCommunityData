@@ -16,7 +16,7 @@ date: 1732586321
  Training corp for ws and rs . We  like to help new people  , but  also hapy to see experienced players. Main corp ( Industrial W.O) . Also join Discord!
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Training corp for ws and rs . We  like to help new people  , but  also hapy to see experienced players. Main corp ( Industrial W.O) . Also join Discord!</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>Training corp for ws and rs . We  like to help new people  , but  also hapy to see experienced players. Main corp ( Industrial W.O) . Also join Discord!</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/QJASDtk4j7)
 ### Whitestar Bonus ✅

@@ -16,7 +16,7 @@ date: 1702672167
  We are the glorious Death Starz.  Don't get in our way, better join us!!! https://chat.whatsapp.com/F94Hkk98xnn8JsuwNHB3lG
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>We are the glorious Death Starz.  Don't get in our way, better join us!!! https://chat.whatsapp.com/F94Hkk98xnn8JsuwNHB3lG</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>We are the glorious Death Starz.  Don't get in our way, better join us!!! https://chat.whatsapp.com/F94Hkk98xnn8JsuwNHB3lG</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

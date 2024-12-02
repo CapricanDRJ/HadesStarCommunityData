@@ -16,7 +16,7 @@ date: 1732505188
  Welcome to the SGC.  White Star scanners turned on at WS search requires active participation or you will be kicked from the corp.  Turn OFF WS scanner if unable to participate.
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Welcome to the SGC.  White Star scanners turned on at WS search requires active participation or you will be kicked from the corp.  Turn OFF WS scanner if unable to participate.</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>Welcome to the SGC.  White Star scanners turned on at WS search requires active participation or you will be kicked from the corp.  Turn OFF WS scanner if unable to participate.</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

@@ -17,7 +17,7 @@ date: 1709557424
 we came to relaxed ws
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>&lt;size=70&gt;<span style=&quot;color:#48a9a9;&quot;>www.DISCORD.gg/cr67TAf</span>&lt;/size&gt; We are not active lately. the best times for us passed by.
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>&lt;size=70&gt;<span style=&quot;color:#48a9a9;&quot;>www.DISCORD.gg/cr67TAf</span>&lt;/size&gt; We are not active lately. the best times for us passed by.
 we came to relaxed ws</body></html>"></iframe>
 
 ### Whitestar Bonus ❌

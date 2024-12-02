@@ -16,7 +16,7 @@ date: 1709650270
  <size=50><color=#8f00ff>Jump into the wabbit hole ●</color></size> <color=#f0f30b>Wacky Warriors</color>
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>&lt;size=50&gt;<span style=&quot;color:#8f00ff;&quot;>Jump into the wabbit hole ●</span>&lt;/size&gt; <span style=&quot;color:#f0f30b;&quot;>Wacky Warriors</span></body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>&lt;size=50&gt;<span style=&quot;color:#8f00ff;&quot;>Jump into the wabbit hole ●</span>&lt;/size&gt; <span style=&quot;color:#f0f30b;&quot;>Wacky Warriors</span></body></html>"></iframe>
 
 ### [Discord](https://discord.gg/https://discord.gg/knZXJWX)
 ### Whitestar Bonus ❌

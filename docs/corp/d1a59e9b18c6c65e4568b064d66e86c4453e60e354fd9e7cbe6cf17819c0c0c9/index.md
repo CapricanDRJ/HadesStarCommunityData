@@ -20,7 +20,7 @@ All Corp Plyrs May Join!!
 Discord: 3gRh7ae
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>""To Take Her a Prize"" est 2016
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>""To Take Her a Prize"" est 2016
 Our goal is simple; Work together to create a strong relationship in building our star systems and corporation. GL
 
 All Corp Plyrs May Join!! 

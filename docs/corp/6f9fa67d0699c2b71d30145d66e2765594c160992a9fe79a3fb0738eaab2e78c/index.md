@@ -16,7 +16,7 @@ date: 1732637099
  <size=50>2024.10.29<color=purple>     星星栖息的故乡<size=60><color=white>                      欢迎加入，本团为北极星联盟成员团  不定期送神器</color>  盟团：墨痕 <color=red>        勿捐旗舰         <color=white>    QQ: 914778570
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>&lt;size=50&gt;2024.10.29<span style=&quot;color:purple;&quot;>     星星栖息的故乡&lt;size=60&gt;<span style=&quot;color:white;&quot;>                      欢迎加入，本团为北极星联盟成员团  不定期送神器</span>  盟团：墨痕 <span style=&quot;color:red;&quot;>        勿捐旗舰         <span style=&quot;color:white;&quot;>    QQ: 914778570</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>&lt;size=50&gt;2024.10.29<span style=&quot;color:purple;&quot;>     星星栖息的故乡&lt;size=60&gt;<span style=&quot;color:white;&quot;>                      欢迎加入，本团为北极星联盟成员团  不定期送神器</span>  盟团：墨痕 <span style=&quot;color:red;&quot;>        勿捐旗舰         <span style=&quot;color:white;&quot;>    QQ: 914778570</body></html>"></iframe>
 
 ### Whitestar Bonus ✅
 

@@ -16,7 +16,7 @@ date: 1699895601
  Inactive after DN and relocated to: Tuatha De Danan. BOTB will reopen when we find more members. Go to discord (discord.gg/ExdxEKXv5x) or send friend request to Lucky/ImLucky2 to contact us
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Inactive after DN and relocated to: Tuatha De Danan. BOTB will reopen when we find more members. Go to discord (discord.gg/ExdxEKXv5x) or send friend request to Lucky/ImLucky2 to contact us</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>Inactive after DN and relocated to: Tuatha De Danan. BOTB will reopen when we find more members. Go to discord (discord.gg/ExdxEKXv5x) or send friend request to Lucky/ImLucky2 to contact us</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/ExdxEKXv5x)
 ### Whitestar Bonus ❌

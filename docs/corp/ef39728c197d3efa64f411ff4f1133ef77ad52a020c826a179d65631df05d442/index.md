@@ -21,7 +21,7 @@ date: 1709412292
 
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:#823dcf;&quot;>&lt;size=100&gt;&lt;/size&gt;</span>The "Used-to-be-Active" White Star Clan...
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><span style=&quot;color:#823dcf;&quot;>&lt;size=100&gt;&lt;/size&gt;</span>The "Used-to-be-Active" White Star Clan...
 
 <span style=&quot;color:#d6b800;&quot;>&lt;size=60&gt;⚠DISCORD⚠️&lt;/size&gt;</span>
 <span style=&quot;color:#ffffff;&quot;>&lt;size=60&gt;https://discord.gg/SWAeyd&lt;/size&gt;</span>

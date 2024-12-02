@@ -16,7 +16,7 @@ date: 1731507515
  sworn to protect the innocent and destroy the evil we are nova Corp
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>sworn to protect the innocent and destroy the evil we are nova Corp</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>sworn to protect the innocent and destroy the evil we are nova Corp</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

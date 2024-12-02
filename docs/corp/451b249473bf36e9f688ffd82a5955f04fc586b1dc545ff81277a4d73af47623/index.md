@@ -19,7 +19,7 @@ We are a friendly corporation commited to helping.
 Disc AvYQJJh9
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:"green";&quot;>"We Are Lost Legion For We Are Many And We Act As One"</span> 
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><span style=&quot;color:"green";&quot;>"We Are Lost Legion For We Are Many And We Act As One"</span> 
 <span style=&quot;color:"blue";&quot;>"WS active & RS 4-10 active team."</span>
 We are a friendly corporation commited to helping.
 Disc AvYQJJh9</body></html>"></iframe>

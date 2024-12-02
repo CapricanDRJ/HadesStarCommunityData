@@ -16,7 +16,7 @@ date: 1733019933
  <size=90><b><color=red>Aquí hay dragones</color></b></size>  Estrellas blancas semanales. Indispensable participar y aportar. Si no es así, te buscas otra. O vuelves con mas tiempo y ganas. 
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>&lt;size=90&gt;<strong><span style=&quot;color:red;&quot;>Aquí hay dragones</span></strong>&lt;/size&gt;  Estrellas blancas semanales. Indispensable participar y aportar. Si no es así, te buscas otra. O vuelves con mas tiempo y ganas. </body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>&lt;size=90&gt;<strong><span style=&quot;color:red;&quot;>Aquí hay dragones</span></strong>&lt;/size&gt;  Estrellas blancas semanales. Indispensable participar y aportar. Si no es así, te buscas otra. O vuelves con mas tiempo y ganas. </body></html>"></iframe>
 
 ### Whitestar Bonus ✅
 

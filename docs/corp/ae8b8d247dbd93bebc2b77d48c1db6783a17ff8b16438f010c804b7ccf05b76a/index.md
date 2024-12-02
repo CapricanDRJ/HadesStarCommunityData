@@ -16,7 +16,7 @@ date: 1729018377
  После великой депресии в Созидании, идёт только вперёд ⭐ <b>Созидание 2.0</b> ⭐<br><br>Дружественные корпы:<br>Спутник, СОЮЗ, RUS, The Seperatists<br><br><color=red>ДС обязателен
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>После великой депресии в Созидании, идёт только вперёд ⭐ <strong>Созидание 2.0</strong> ⭐&lt;br&gt;&lt;br&gt;Дружественные корпы:&lt;br&gt;Спутник, СОЮЗ, RUS, The Seperatists&lt;br&gt;&lt;br&gt;<span style=&quot;color:red;&quot;>ДС обязателен</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>После великой депресии в Созидании, идёт только вперёд ⭐ <strong>Созидание 2.0</strong> ⭐&lt;br&gt;&lt;br&gt;Дружественные корпы:&lt;br&gt;Спутник, СОЮЗ, RUS, The Seperatists&lt;br&gt;&lt;br&gt;<span style=&quot;color:red;&quot;>ДС обязателен</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/eukzrdT88y)
 ### Whitestar Bonus ❌

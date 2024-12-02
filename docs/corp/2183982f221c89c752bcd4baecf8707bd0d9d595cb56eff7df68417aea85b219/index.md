@@ -18,7 +18,7 @@ date: 1700537357
 White Star scanner owner is promoted to seniour member.
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>ホワイトスターを持つ方をシニアに、一部をオフィサーに昇格させます。オフィサーはホワイトスタースキャンを起動できます。
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>ホワイトスターを持つ方をシニアに、一部をオフィサーに昇格させます。オフィサーはホワイトスタースキャンを起動できます。
 20日以上のログイン無しでキックします。リクエストで再入会可能です。
 White Star scanner owner is promoted to seniour member.</body></html>"></iframe>
 

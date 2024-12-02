@@ -20,7 +20,7 @@ Corpo École faisant partie des  🏴‍☠️ Pirates spatial  🏴‍☠️
 Discord : wZcGGNZ
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>"L'ivresse du vide et l'exaltation de la victoire sont un trésor qu'aucune cale ne saurait contenir avec suffisance!"
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>"L'ivresse du vide et l'exaltation de la victoire sont un trésor qu'aucune cale ne saurait contenir avec suffisance!"
 
 Corpo École faisant partie des  🏴‍☠️ Pirates spatial  🏴‍☠️
 

@@ -16,7 +16,7 @@ date: 1725637514
  <b>UPDATE AUG 24:</b> <color=#dhtrse>RECRUITING NEW SOULS!</color>  Hard core WS focused players wanted. Discord comms essential. We are keen to improve WS results. Let's kick ass together!
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><strong>UPDATE AUG 24:</strong> <span style=&quot;color:#dhtrse;&quot;>RECRUITING NEW SOULS!</span>  Hard core WS focused players wanted. Discord comms essential. We are keen to improve WS results. Let's kick ass together!</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><strong>UPDATE AUG 24:</strong> <span style=&quot;color:#dhtrse;&quot;>RECRUITING NEW SOULS!</span>  Hard core WS focused players wanted. Discord comms essential. We are keen to improve WS results. Let's kick ass together!</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/cevpqFrB7J)
 ### Whitestar Bonus ❌

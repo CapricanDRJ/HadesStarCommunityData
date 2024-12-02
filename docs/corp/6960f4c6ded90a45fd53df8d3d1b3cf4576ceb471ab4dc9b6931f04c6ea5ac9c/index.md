@@ -20,7 +20,7 @@ date: 1729602647
 q群：741078259
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:white;&quot;>我们是&lt;size=67&gt;<strong>白月光</strong>&lt;/size&gt;集团旗下的第二分盟</span>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><span style=&quot;color:white;&quot;>我们是&lt;size=67&gt;<strong>白月光</strong>&lt;/size&gt;集团旗下的第二分盟</span>
 <span style=&quot;color:orange;&quot;><em>“Where do we come from and where do we go from?”</em></span>
 
 

@@ -24,7 +24,7 @@ date: 1702529096
 不要外交黑名单
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:red;&quot;>欢迎来到这里，我会帮助任何来这里的萌新，请加入的团员多多说话，不要咸鱼，不许不文明</span>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><span style=&quot;color:red;&quot;>欢迎来到这里，我会帮助任何来这里的萌新，请加入的团员多多说话，不要咸鱼，不许不文明</span>
 联盟共立的集团：CMPN共和共产联盟
 &lt;size=100&gt;集团首席新地球&lt;/size&gt;
 老成员回来后，请帮忙晋升回去

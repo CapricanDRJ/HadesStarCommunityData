@@ -16,7 +16,7 @@ date: 1730897510
  <color=#FFFFFF>WELCOME TO <color=#FFD700>SUN OF <color=#FFFF00>3<color=#FFD700>LANDS <color=#FFFFFF>We Warmly welcome Newcomer here. Sa mga gustong sumali sa WsRaid DM nyo lang Ako at my GC kami sa MS
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:#FFFFFF;&quot;>WELCOME TO <span style=&quot;color:#FFD700;&quot;>SUN OF <span style=&quot;color:#FFFF00;&quot;>3<span style=&quot;color:#FFD700;&quot;>LANDS <span style=&quot;color:#FFFFFF;&quot;>We Warmly welcome Newcomer here. Sa mga gustong sumali sa WsRaid DM nyo lang Ako at my GC kami sa MS</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><span style=&quot;color:#FFFFFF;&quot;>WELCOME TO <span style=&quot;color:#FFD700;&quot;>SUN OF <span style=&quot;color:#FFFF00;&quot;>3<span style=&quot;color:#FFD700;&quot;>LANDS <span style=&quot;color:#FFFFFF;&quot;>We Warmly welcome Newcomer here. Sa mga gustong sumali sa WsRaid DM nyo lang Ako at my GC kami sa MS</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

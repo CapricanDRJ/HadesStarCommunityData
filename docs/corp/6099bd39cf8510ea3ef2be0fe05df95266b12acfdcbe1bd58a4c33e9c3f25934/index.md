@@ -16,7 +16,7 @@ date: 1729580107
  北极星联盟成员，对萌新绝对友好，拉一个人，一个R五神器      集团QQ群：753537028。     首席微g549447加一下。       北极星联盟q群971945105     分团：无聊不过（分团） 盟团：很多星球的社会主义团        前十为干事，除极光以外干事不得私自更改集团的任何信息！欢迎各位萌新大佬加入
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>北极星联盟成员，对萌新绝对友好，拉一个人，一个R五神器      集团QQ群：753537028。     首席微g549447加一下。       北极星联盟q群971945105     分团：无聊不过（分团） 盟团：很多星球的社会主义团        前十为干事，除极光以外干事不得私自更改集团的任何信息！欢迎各位萌新大佬加入</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>北极星联盟成员，对萌新绝对友好，拉一个人，一个R五神器      集团QQ群：753537028。     首席微g549447加一下。       北极星联盟q群971945105     分团：无聊不过（分团） 盟团：很多星球的社会主义团        前十为干事，除极光以外干事不得私自更改集团的任何信息！欢迎各位萌新大佬加入</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

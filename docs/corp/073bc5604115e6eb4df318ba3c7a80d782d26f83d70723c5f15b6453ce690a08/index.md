@@ -20,7 +20,7 @@ date: 1724582728
 - No toxicity<color="yellow">
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:blue;&quot;>&lt;size=100&gt; Welcome to &lt;/size&gt;</span>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><span style=&quot;color:blue;&quot;>&lt;size=100&gt; Welcome to &lt;/size&gt;</span>
 <span style=&quot;color:red;&quot;>&lt;size=100&gt; Novana Gaming &lt;/size&gt;</span>
 - English
 - At least 1x White Star every week

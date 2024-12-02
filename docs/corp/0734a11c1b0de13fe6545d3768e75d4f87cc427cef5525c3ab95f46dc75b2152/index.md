@@ -16,7 +16,7 @@ date: 1727657953
  The home of small-team Competitive & Hardcore WS. Quality RS9+ queue open via discord to visitors. We are a tight-knit and supportive crew. Visit our Discord at mmUnEav.
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>The home of small-team Competitive & Hardcore WS. Quality RS9+ queue open via discord to visitors. We are a tight-knit and supportive crew. Visit our Discord at mmUnEav.</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>The home of small-team Competitive & Hardcore WS. Quality RS9+ queue open via discord to visitors. We are a tight-knit and supportive crew. Visit our Discord at mmUnEav.</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

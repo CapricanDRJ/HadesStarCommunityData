@@ -16,7 +16,7 @@ date: 1723271885
  run by a few active friends, a corp for both new players but also for experienced ones, we welcome anyone and we will be happy to see you join. 🔰欢迎全球各地的人加入，新手送r8大礼，氛围轻松，适合养老🔰Friend corps: CIS, 红日初升
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>run by a few active friends, a corp for both new players but also for experienced ones, we welcome anyone and we will be happy to see you join. 🔰欢迎全球各地的人加入，新手送r8大礼，氛围轻松，适合养老🔰Friend corps: CIS, 红日初升</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>run by a few active friends, a corp for both new players but also for experienced ones, we welcome anyone and we will be happy to see you join. 🔰欢迎全球各地的人加入，新手送r8大礼，氛围轻松，适合养老🔰Friend corps: CIS, 红日初升</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

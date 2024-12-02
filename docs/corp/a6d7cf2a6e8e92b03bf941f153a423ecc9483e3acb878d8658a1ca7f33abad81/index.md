@@ -16,7 +16,7 @@ date: 1714825274
  <color=#FFD700>Nata il 04/09/2020 <br><br><b>OFFRIAMO: divertimento, relax e supporto PRETENDIAMO: educazione e cooperazione</b><br>RS 1-11<br><br>Strade? Dove andiamo noi non servono strade</color>
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:#FFD700;&quot;>Nata il 04/09/2020 &lt;br&gt;&lt;br&gt;<strong>OFFRIAMO: divertimento, relax e supporto PRETENDIAMO: educazione e cooperazione</strong>&lt;br&gt;RS 1-11&lt;br&gt;&lt;br&gt;Strade? Dove andiamo noi non servono strade</span></body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><span style=&quot;color:#FFD700;&quot;>Nata il 04/09/2020 &lt;br&gt;&lt;br&gt;<strong>OFFRIAMO: divertimento, relax e supporto PRETENDIAMO: educazione e cooperazione</strong>&lt;br&gt;RS 1-11&lt;br&gt;&lt;br&gt;Strade? Dove andiamo noi non servono strade</span></body></html>"></iframe>
 
 ### [Discord](https://discord.gg/B5y6qXw)
 ### Whitestar Bonus ❌

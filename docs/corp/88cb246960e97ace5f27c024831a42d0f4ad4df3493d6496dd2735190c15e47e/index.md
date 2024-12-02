@@ -25,7 +25,7 @@ date: 1732973956
 ღ愿世界平和，愿人们的温柔永存
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>☆欢迎友善伙伴入住，严禁败坏集团风气，提供微薄福利优惠，愉快交流游戏经验
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>☆欢迎友善伙伴入住，严禁败坏集团风气，提供微薄福利优惠，愉快交流游戏经验
 ☆入住伙伴玄冥Q群尽量加入
 ☆七天未上线将酌情移出集团，被移出者会在邮件收到邀请，欢迎回归集团
 ★二团：南玄星云

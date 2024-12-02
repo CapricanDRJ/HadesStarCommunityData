@@ -16,7 +16,7 @@ date: 1708678484
  大家共同努力，争取早日打白，虽然没有神器加成，但我相信会有人加入的。                     规定：1.首席战斗舰升至3级才能打白   2.不能骂人说脏话‘否则踢出。注：以上规则可由首席’一只王小花‘、有人建外交吗修改。有人建外交吗供应1到5级神器。残月已请假，大家尽快建白扫          欢迎各位加入我们，这里将是您在太空中最温暖的家！大家有星币的就捐吧‘🙏🙏🙏
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>大家共同努力，争取早日打白，虽然没有神器加成，但我相信会有人加入的。                     规定：1.首席战斗舰升至3级才能打白   2.不能骂人说脏话‘否则踢出。注：以上规则可由首席’一只王小花‘、有人建外交吗修改。有人建外交吗供应1到5级神器。残月已请假，大家尽快建白扫          欢迎各位加入我们，这里将是您在太空中最温暖的家！大家有星币的就捐吧‘🙏🙏🙏</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>大家共同努力，争取早日打白，虽然没有神器加成，但我相信会有人加入的。                     规定：1.首席战斗舰升至3级才能打白   2.不能骂人说脏话‘否则踢出。注：以上规则可由首席’一只王小花‘、有人建外交吗修改。有人建外交吗供应1到5级神器。残月已请假，大家尽快建白扫          欢迎各位加入我们，这里将是您在太空中最温暖的家！大家有星币的就捐吧‘🙏🙏🙏</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

@@ -21,7 +21,7 @@ date: 1721625973
 
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>本集团为遨游星空第二营地 &lt;alpha=#44&gt;现在是第一营地了&lt;alpha=#FF&gt;
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>本集团为遨游星空第二营地 &lt;alpha=#44&gt;现在是第一营地了&lt;alpha=#FF&gt;
 任何&lt;u&gt;常驻萌新&lt;/u&gt;均可以领取高级神器福利，保证每一位萌新均能快速发展，度过前朝
 &lt;s&gt;不&lt;/s&gt;接受死鱼，集团满了就&lt;rotate=45&gt;踢&lt;/rotate&gt;
 集团qq群号：1092744803

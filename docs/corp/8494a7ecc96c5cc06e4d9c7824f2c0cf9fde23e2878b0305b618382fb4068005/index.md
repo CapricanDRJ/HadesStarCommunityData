@@ -22,7 +22,7 @@ date: 1708606362
 ○公共 公屏 外群隨便鬧我們都不管。</a>
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:cyan;&quot;>&lt;size=99&gt;E.T.A溫泉開放&lt;/size&gt;</span>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><span style=&quot;color:cyan;&quot;>&lt;size=99&gt;E.T.A溫泉開放&lt;/size&gt;</span>
 群聊可有可無:<span style=&quot;color:green;&quot;>587560494</span>
 <strong>黑色長城</strong>&lt;size=20&gt;萌新加這個&lt;/size&gt;:<span style=&quot;color:green;&quot;>456873704</span>
 攻略放在群裡，萌新不懂可以問

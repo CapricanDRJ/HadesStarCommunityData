@@ -16,7 +16,7 @@ date: 1732184554
  欢迎各位大佬萌新的加入(„ಡωಡ„)。｜160级以上经过考虑之后升干事，老成员不降。｜微信:l18897038285加拉入。QQ裙：985704013｜语言文明，不要骂脏话，违者直接踢出集团。｜不经常上线者或小号也可以先去分团。｜勿私开白！
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>欢迎各位大佬萌新的加入(„ಡωಡ„)。｜160级以上经过考虑之后升干事，老成员不降。｜微信:l18897038285加拉入。QQ裙：985704013｜语言文明，不要骂脏话，违者直接踢出集团。｜不经常上线者或小号也可以先去分团。｜勿私开白！</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>欢迎各位大佬萌新的加入(„ಡωಡ„)。｜160级以上经过考虑之后升干事，老成员不降。｜微信:l18897038285加拉入。QQ裙：985704013｜语言文明，不要骂脏话，违者直接踢出集团。｜不经常上线者或小号也可以先去分团。｜勿私开白！</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

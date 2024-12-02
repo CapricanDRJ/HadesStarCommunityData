@@ -16,7 +16,7 @@ date: 1724525939
  <i>欢迎加入我们的集团</i><br><br>加群微信号:lwh201305<br>QQ群:632990396<br>南极星联盟成员<br><br>原团:德意志联邦集团<br><br>黑名单:傲世饕餮  瑞瑞<br>分团 ：星际集团    银星舰队SSF   永恒之梦   蓝太阳   电池脉冲集团<br><br>理事长：Angel 白星总参：隔壁老王<br>福利:r8及以下 目前暂由hss小号占
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><em>欢迎加入我们的集团</em>&lt;br&gt;&lt;br&gt;加群微信号:lwh201305&lt;br&gt;QQ群:632990396&lt;br&gt;南极星联盟成员&lt;br&gt;&lt;br&gt;原团:德意志联邦集团&lt;br&gt;&lt;br&gt;黑名单:傲世饕餮  瑞瑞&lt;br&gt;分团 ：星际集团    银星舰队SSF   永恒之梦   蓝太阳   电池脉冲集团&lt;br&gt;&lt;br&gt;理事长：Angel 白星总参：隔壁老王&lt;br&gt;福利:r8及以下 目前暂由hss小号占</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><em>欢迎加入我们的集团</em>&lt;br&gt;&lt;br&gt;加群微信号:lwh201305&lt;br&gt;QQ群:632990396&lt;br&gt;南极星联盟成员&lt;br&gt;&lt;br&gt;原团:德意志联邦集团&lt;br&gt;&lt;br&gt;黑名单:傲世饕餮  瑞瑞&lt;br&gt;分团 ：星际集团    银星舰队SSF   永恒之梦   蓝太阳   电池脉冲集团&lt;br&gt;&lt;br&gt;理事长：Angel 白星总参：隔壁老王&lt;br&gt;福利:r8及以下 目前暂由hss小号占</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

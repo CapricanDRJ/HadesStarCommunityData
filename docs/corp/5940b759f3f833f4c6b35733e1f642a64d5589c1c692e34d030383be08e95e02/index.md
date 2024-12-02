@@ -16,7 +16,7 @@ date: 1726301901
  <b>ARk Ecosystem</b><br><br>Welcome to the ARk, Commander. Please conduct yourself appropriately, for we are a highly experienced WS Group.<br><br>(D)RS7-10<br>Bi-Weekly WS<br>Discord Mandatory
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><strong>ARk Ecosystem</strong>&lt;br&gt;&lt;br&gt;Welcome to the ARk, Commander. Please conduct yourself appropriately, for we are a highly experienced WS Group.&lt;br&gt;&lt;br&gt;(D)RS7-10&lt;br&gt;Bi-Weekly WS&lt;br&gt;Discord Mandatory</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><strong>ARk Ecosystem</strong>&lt;br&gt;&lt;br&gt;Welcome to the ARk, Commander. Please conduct yourself appropriately, for we are a highly experienced WS Group.&lt;br&gt;&lt;br&gt;(D)RS7-10&lt;br&gt;Bi-Weekly WS&lt;br&gt;Discord Mandatory</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/teAN7k5Mc7)
 ### Whitestar Bonus ❌

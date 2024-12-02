@@ -16,7 +16,7 @@ date: 1731401141
  Black Star llc corp a friendly place to hangout and grow. Join Discord & Contribute to Weekly WS. Team corps: Atlas Star llc, Death Star llc, Osmium star llc. Contribute to corp flag ship for WS.
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Black Star llc corp a friendly place to hangout and grow. Join Discord & Contribute to Weekly WS. Team corps: Atlas Star llc, Death Star llc, Osmium star llc. Contribute to corp flag ship for WS.</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>Black Star llc corp a friendly place to hangout and grow. Join Discord & Contribute to Weekly WS. Team corps: Atlas Star llc, Death Star llc, Osmium star llc. Contribute to corp flag ship for WS.</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/https://discord.gg/TM3FHDqx)
 ### Whitestar Bonus ❌

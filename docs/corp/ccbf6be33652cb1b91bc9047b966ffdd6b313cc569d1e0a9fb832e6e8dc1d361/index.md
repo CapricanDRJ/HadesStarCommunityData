@@ -16,7 +16,7 @@ date: 1730056727
  <color=yellow><i><size=115>首席干事：郑少逸</i>   <color=green><size=95>代理首席：cIz    等级到40为高级成员，等级到70为干事   友团：深空猫星人   黑名单：冰仙子<color=purple>  <size=700>本团QQ福利群<b>763886797</b><color=red><size=920>不要捐旗舰
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:yellow;&quot;><em>&lt;size=115&gt;首席干事：郑少逸</em>   <span style=&quot;color:green;&quot;>&lt;size=95&gt;代理首席：cIz    等级到40为高级成员，等级到70为干事   友团：深空猫星人   黑名单：冰仙子<span style=&quot;color:purple;&quot;>  &lt;size=700&gt;本团QQ福利群<strong>763886797</strong><span style=&quot;color:red;&quot;>&lt;size=920&gt;不要捐旗舰</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><span style=&quot;color:yellow;&quot;><em>&lt;size=115&gt;首席干事：郑少逸</em>   <span style=&quot;color:green;&quot;>&lt;size=95&gt;代理首席：cIz    等级到40为高级成员，等级到70为干事   友团：深空猫星人   黑名单：冰仙子<span style=&quot;color:purple;&quot;>  &lt;size=700&gt;本团QQ福利群<strong>763886797</strong><span style=&quot;color:red;&quot;>&lt;size=920&gt;不要捐旗舰</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/数)
 ### Whitestar Bonus ❌

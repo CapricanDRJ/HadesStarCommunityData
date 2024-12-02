@@ -16,7 +16,7 @@ date: 1732192068
  <#FF0><size=100>欢迎加入逐光起航    <#ff00cc><i></size>本团为<#CC99FF>北极星联盟</color>成员，长期开白，培养活跃玩家，萌新可领神器，欢迎活跃玩家加入</color></i>               欢迎合作白星，捐旗舰1   每2周清一次小红点
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>&lt;#FF0&gt;&lt;size=100&gt;欢迎加入逐光起航    &lt;#ff00cc&gt;<em>&lt;/size&gt;本团为&lt;#CC99FF&gt;北极星联盟</span>成员，长期开白，培养活跃玩家，萌新可领神器，欢迎活跃玩家加入</span></em>               欢迎合作白星，捐旗舰1   每2周清一次小红点</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>&lt;#FF0&gt;&lt;size=100&gt;欢迎加入逐光起航    &lt;#ff00cc&gt;<em>&lt;/size&gt;本团为&lt;#CC99FF&gt;北极星联盟</span>成员，长期开白，培养活跃玩家，萌新可领神器，欢迎活跃玩家加入</span></em>               欢迎合作白星，捐旗舰1   每2周清一次小红点</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

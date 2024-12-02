@@ -16,7 +16,7 @@ date: 1707314198
  <size=65><color=yellow>A União dos Impérios de Hades</color></size> é uma aliança militar e econômica com o objetivo de unir impérios contra as forças <color=red>Cerberus</color>. Aceitamos todos.
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>&lt;size=65&gt;<span style=&quot;color:yellow;&quot;>A União dos Impérios de Hades</span>&lt;/size&gt; é uma aliança militar e econômica com o objetivo de unir impérios contra as forças <span style=&quot;color:red;&quot;>Cerberus</span>. Aceitamos todos.</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>&lt;size=65&gt;<span style=&quot;color:yellow;&quot;>A União dos Impérios de Hades</span>&lt;/size&gt; é uma aliança militar e econômica com o objetivo de unir impérios contra as forças <span style=&quot;color:red;&quot;>Cerberus</span>. Aceitamos todos.</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/UFK4q6nABF)
 ### Whitestar Bonus ❌

@@ -16,7 +16,7 @@ date: 1731054674
  <#ffa>100级以上或30级以下加入，萌新港（大佬港）分团。团主大号不能用，就建了一个分号
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>&lt;#ffa&gt;100级以上或30级以下加入，萌新港（大佬港）分团。团主大号不能用，就建了一个分号</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>&lt;#ffa&gt;100级以上或30级以下加入，萌新港（大佬港）分团。团主大号不能用，就建了一个分号</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/yyZqNDKx6T)
 ### Whitestar Bonus ❌

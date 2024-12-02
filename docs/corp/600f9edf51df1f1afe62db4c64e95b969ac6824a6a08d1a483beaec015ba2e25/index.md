@@ -24,7 +24,7 @@ QQ群号：742063070
 <color=yellow>*群内有教程，加入享有更多福利</color>
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:white;&quot;>我们是&lt;size=67&gt;<strong>地球联合</strong>&lt;/size&gt;集团的主盟
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><span style=&quot;color:white;&quot;>我们是&lt;size=67&gt;<strong>地球联合</strong>&lt;/size&gt;集团的主盟
 新人可以前往水星联合和火星联合发展~</span>
 
 <span style=&quot;color:orange;&quot;>⚛︎萌新运输舰达到8t可领取15r6神器

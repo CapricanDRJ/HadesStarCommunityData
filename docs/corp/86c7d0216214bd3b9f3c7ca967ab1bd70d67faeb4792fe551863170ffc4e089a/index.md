@@ -21,7 +21,7 @@ date: 1732389807
 <#BDB76B>[QQ:733613340]
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><strong>心向星海，无惧边界       </strong>                                   <span style=&quot;color:green;&quot;>本团为北极星联盟成员
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><strong>心向星海，无惧边界       </strong>                                   <span style=&quot;color:green;&quot;>本团为北极星联盟成员
 &lt;#fa2401&gt;欢迎萌新大佬
 &lt;#DAA520&gt;Everyone is welcome!
 &lt;#fafafa&gt;常驻可领最高r9神器

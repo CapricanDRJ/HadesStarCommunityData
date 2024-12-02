@@ -16,7 +16,7 @@ date: 1730717216
  星舰地球组织，一个科幻迷集团，充满三体色彩。本团秉持星际共产主义原则，想来就来，想走就走。但是本团成员不能发表污言秽语，且要听指挥（有特殊情况除外），尊重他人，尊重一切。欢迎各位大佬，玩家，组织成员加入，Q群788052376，随时摇人做任务。成立时间：2024.5.24
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>星舰地球组织，一个科幻迷集团，充满三体色彩。本团秉持星际共产主义原则，想来就来，想走就走。但是本团成员不能发表污言秽语，且要听指挥（有特殊情况除外），尊重他人，尊重一切。欢迎各位大佬，玩家，组织成员加入，Q群788052376，随时摇人做任务。成立时间：2024.5.24</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>星舰地球组织，一个科幻迷集团，充满三体色彩。本团秉持星际共产主义原则，想来就来，想走就走。但是本团成员不能发表污言秽语，且要听指挥（有特殊情况除外），尊重他人，尊重一切。欢迎各位大佬，玩家，组织成员加入，Q群788052376，随时摇人做任务。成立时间：2024.5.24</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

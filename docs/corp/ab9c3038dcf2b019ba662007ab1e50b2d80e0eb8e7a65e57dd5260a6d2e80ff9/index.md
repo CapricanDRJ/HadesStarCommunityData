@@ -16,7 +16,7 @@ date: 1732994995
  Estr. blanca lunes a las 14:00h. Si no participas desactivate. Si participas la asistencia es obligada, no participar = expulsión. Rojas de L a V a las 22:00. Discord recomendado, tenemos comunidad.
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Estr. blanca lunes a las 14:00h. Si no participas desactivate. Si participas la asistencia es obligada, no participar = expulsión. Rojas de L a V a las 22:00. Discord recomendado, tenemos comunidad.</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>Estr. blanca lunes a las 14:00h. Si no participas desactivate. Si participas la asistencia es obligada, no participar = expulsión. Rojas de L a V a las 22:00. Discord recomendado, tenemos comunidad.</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/https://discord.gg/MZDNrGyav9)
 ### Whitestar Bonus ❌

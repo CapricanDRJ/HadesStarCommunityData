@@ -24,7 +24,7 @@ date: 1727002679
 <color=red>3日未上线踢出（请假除外）</color>
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>&lt;size=60&gt;<span style=&quot;color:white;&quot;>我们是
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>&lt;size=60&gt;<span style=&quot;color:white;&quot;>我们是
 极端剧烈活动的河外星系核心QSO</span>&lt;/size&gt;
 <span style=&quot;color:yellow;&quot;>长期招收活跃白星玩家
 每周定期白星

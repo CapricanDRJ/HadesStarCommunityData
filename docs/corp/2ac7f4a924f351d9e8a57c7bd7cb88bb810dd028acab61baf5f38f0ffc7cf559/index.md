@@ -16,7 +16,7 @@ date: 1726054582
  <size=96><color=#fff>代表者が愛の国へ旅立ちましたので活動停止とします⛪5年間ありがとう！以下を検索！</color></size><color=#fff><br>推薦コーポ<br>🟡Spica(No Discord＆SNS) <br>🟢星を継ぐもの<br>●リリース<br>🟣CdS天文台<br>Regulus活動期間2019.08〜2024.09
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>&lt;size=96&gt;<span style=&quot;color:#fff;&quot;>代表者が愛の国へ旅立ちましたので活動停止とします⛪5年間ありがとう！以下を検索！</span>&lt;/size&gt;<span style=&quot;color:#fff;&quot;>&lt;br&gt;推薦コーポ&lt;br&gt;🟡Spica(No Discord＆SNS) &lt;br&gt;🟢星を継ぐもの&lt;br&gt;●リリース&lt;br&gt;🟣CdS天文台&lt;br&gt;Regulus活動期間2019.08〜2024.09</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>&lt;size=96&gt;<span style=&quot;color:#fff;&quot;>代表者が愛の国へ旅立ちましたので活動停止とします⛪5年間ありがとう！以下を検索！</span>&lt;/size&gt;<span style=&quot;color:#fff;&quot;>&lt;br&gt;推薦コーポ&lt;br&gt;🟡Spica(No Discord＆SNS) &lt;br&gt;🟢星を継ぐもの&lt;br&gt;●リリース&lt;br&gt;🟣CdS天文台&lt;br&gt;Regulus活動期間2019.08〜2024.09</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/3WAXnPcaNe)
 ### Whitestar Bonus ❌

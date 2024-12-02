@@ -16,7 +16,7 @@ date: 1707455738
  (Dormant Corp, Head Over to The Red_Coat_Mafia) , rs1 upwards. All we ask is that you must be active and Let our name be known amongst all! 14 day inactive kick enforced. JnrwdDKynd (discord)
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>(Dormant Corp, Head Over to The Red_Coat_Mafia) , rs1 upwards. All we ask is that you must be active and Let our name be known amongst all! 14 day inactive kick enforced. JnrwdDKynd (discord)</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>(Dormant Corp, Head Over to The Red_Coat_Mafia) , rs1 upwards. All we ask is that you must be active and Let our name be known amongst all! 14 day inactive kick enforced. JnrwdDKynd (discord)</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/JnrwdDKynd)
 ### Whitestar Bonus ❌

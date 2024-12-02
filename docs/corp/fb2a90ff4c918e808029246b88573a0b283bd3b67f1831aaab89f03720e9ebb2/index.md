@@ -16,7 +16,7 @@ date: 1726828977
  一起来吧！召集白星队员，缘分使我们相遇。爱护新手，请教高手。不管等级，最先进团5人为干事，再15人为高级成员
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>一起来吧！召集白星队员，缘分使我们相遇。爱护新手，请教高手。不管等级，最先进团5人为干事，再15人为高级成员</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>一起来吧！召集白星队员，缘分使我们相遇。爱护新手，请教高手。不管等级，最先进团5人为干事，再15人为高级成员</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

@@ -16,7 +16,7 @@ date: 1730566676
  Kill or be Killed. We as Survivors  have banded together to take on all enemy forces! We are a small, recently created group of determined people doing WS & having fun.
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Kill or be Killed. We as Survivors  have banded together to take on all enemy forces! We are a small, recently created group of determined people doing WS & having fun.</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>Kill or be Killed. We as Survivors  have banded together to take on all enemy forces! We are a small, recently created group of determined people doing WS & having fun.</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/https://discord.gg/JsfWnkf7)
 ### Whitestar Bonus ❌

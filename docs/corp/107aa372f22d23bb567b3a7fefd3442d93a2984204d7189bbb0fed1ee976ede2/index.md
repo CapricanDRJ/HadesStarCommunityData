@@ -16,7 +16,7 @@ date: 1732741969
  歓待艦対艦体感艦隊。日本人歓迎。出入り、無言参加ご自由に。WS不参加の場合はスキャナーのオフをお願いします。Discordはなるべく可能な限り参加をお願いします(情報共有のため)
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>歓待艦対艦体感艦隊。日本人歓迎。出入り、無言参加ご自由に。WS不参加の場合はスキャナーのオフをお願いします。Discordはなるべく可能な限り参加をお願いします(情報共有のため)</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>歓待艦対艦体感艦隊。日本人歓迎。出入り、無言参加ご自由に。WS不参加の場合はスキャナーのオフをお願いします。Discordはなるべく可能な限り参加をお願いします(情報共有のため)</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/ukC9fmCx)
 ### Whitestar Bonus ✅

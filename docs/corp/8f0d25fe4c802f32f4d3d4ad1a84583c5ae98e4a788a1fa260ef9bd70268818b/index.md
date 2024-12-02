@@ -22,7 +22,7 @@ date: 1711200115
 本团属于九团公约成员
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>本团秉承共产主义原则，互帮互助，欢迎各位加入。
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>本团秉承共产主义原则，互帮互助，欢迎各位加入。
 <span style=&quot;color:red;&quot;>本团为共产星际分团
 常驻可以加群免费领神器
 请不要捐旗舰！

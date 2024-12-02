@@ -16,7 +16,7 @@ date: 1716450547
  这里是新纪元中央舰队，各路英雄雄集之地。被踼者可去隶属集团：「新纪元2号舰队」；欢迎大佬和萌新加入，有小红点会被踼哟；規則：不定期开白，只能开白1，派2号旗舰，不能胡亂改通告；升降级：不守規則降1级；创始人：可怜的小A；黑名單：；招募人才打白中
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>这里是新纪元中央舰队，各路英雄雄集之地。被踼者可去隶属集团：「新纪元2号舰队」；欢迎大佬和萌新加入，有小红点会被踼哟；規則：不定期开白，只能开白1，派2号旗舰，不能胡亂改通告；升降级：不守規則降1级；创始人：可怜的小A；黑名單：；招募人才打白中</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>这里是新纪元中央舰队，各路英雄雄集之地。被踼者可去隶属集团：「新纪元2号舰队」；欢迎大佬和萌新加入，有小红点会被踼哟；規則：不定期开白，只能开白1，派2号旗舰，不能胡亂改通告；升降级：不守規則降1级；创始人：可怜的小A；黑名單：；招募人才打白中</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

@@ -18,7 +18,7 @@ date: 1703938816
 Join us on Discord: https://discord.gg/RvMW8DejVJ
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Open to all. Take what you need. Leave some for others. Help when you can.  We are interested in peaceful white stars when possible.
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>Open to all. Take what you need. Leave some for others. Help when you can.  We are interested in peaceful white stars when possible.
 
 Join us on Discord: https://discord.gg/RvMW8DejVJ</body></html>"></iframe>
 

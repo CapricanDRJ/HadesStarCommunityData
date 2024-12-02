@@ -16,7 +16,7 @@ date: 1729837957
  我们的集团创立自2021年，几经风雨变幻，是一个成功跨越岁月的团队。<color=green>现在，我们正在开展神器支援计划，以提高萌新们的科技水平，向每位萌新提供高级180%+神器，不来找干事可不主动给哦</color>   集团qq:149662951          <size=150>           捐旗舰二       注意用语文明
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>我们的集团创立自2021年，几经风雨变幻，是一个成功跨越岁月的团队。<span style=&quot;color:green;&quot;>现在，我们正在开展神器支援计划，以提高萌新们的科技水平，向每位萌新提供高级180%+神器，不来找干事可不主动给哦</span>   集团qq:149662951          &lt;size=150&gt;           捐旗舰二       注意用语文明</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>我们的集团创立自2021年，几经风雨变幻，是一个成功跨越岁月的团队。<span style=&quot;color:green;&quot;>现在，我们正在开展神器支援计划，以提高萌新们的科技水平，向每位萌新提供高级180%+神器，不来找干事可不主动给哦</span>   集团qq:149662951          &lt;size=150&gt;           捐旗舰二       注意用语文明</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/gagagaaaa)
 ### Whitestar Bonus ❌

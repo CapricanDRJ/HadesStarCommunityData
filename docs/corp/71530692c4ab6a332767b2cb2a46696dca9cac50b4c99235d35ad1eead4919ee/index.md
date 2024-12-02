@@ -18,7 +18,7 @@ date: 1706193880
 Prioritizing White Stars. Discord: https://discord.gg/wZeNus6JEf
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Taking active players of all levels. We prioritize team work and help players advance quickly. Three day inactivity tolerance
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>Taking active players of all levels. We prioritize team work and help players advance quickly. Three day inactivity tolerance
 
 Prioritizing White Stars. Discord: https://discord.gg/wZeNus6JEf</body></html>"></iframe>
 

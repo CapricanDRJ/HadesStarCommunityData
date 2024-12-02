@@ -16,7 +16,7 @@ date: 1732891650
  本星际集团从不踢人，最多就只有6个干事，不收僵尸号，萌新和大佬都可以加入，新人福利10个r6，代理首席干事ｘ-357。干事不能私自篡改东西，除代理首席干事以外。
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>本星际集团从不踢人，最多就只有6个干事，不收僵尸号，萌新和大佬都可以加入，新人福利10个r6，代理首席干事ｘ-357。干事不能私自篡改东西，除代理首席干事以外。</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>本星际集团从不踢人，最多就只有6个干事，不收僵尸号，萌新和大佬都可以加入，新人福利10个r6，代理首席干事ｘ-357。干事不能私自篡改东西，除代理首席干事以外。</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

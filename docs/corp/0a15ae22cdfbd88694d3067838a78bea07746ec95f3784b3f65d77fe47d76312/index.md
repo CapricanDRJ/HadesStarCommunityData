@@ -16,7 +16,7 @@ date: 1732589325
  <size=90><b><color=red>"Fight or be Forgotten"</color></b></size>   <color=green>White Star Élite </color> <size=60><color=orange>☆NakSarugg☆</color></b>   Recruiting "StarMasters" for WS
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>&lt;size=90&gt;<strong><span style=&quot;color:red;&quot;>"Fight or be Forgotten"</span></strong>&lt;/size&gt;   <span style=&quot;color:green;&quot;>White Star Élite </span> &lt;size=60&gt;<span style=&quot;color:orange;&quot;>☆NakSarugg☆</span></strong>   Recruiting "StarMasters" for WS</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>&lt;size=90&gt;<strong><span style=&quot;color:red;&quot;>"Fight or be Forgotten"</span></strong>&lt;/size&gt;   <span style=&quot;color:green;&quot;>White Star Élite </span> &lt;size=60&gt;<span style=&quot;color:orange;&quot;>☆NakSarugg☆</span></strong>   Recruiting "StarMasters" for WS</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/jQHaBGnQDa)
 ### Whitestar Bonus ❌

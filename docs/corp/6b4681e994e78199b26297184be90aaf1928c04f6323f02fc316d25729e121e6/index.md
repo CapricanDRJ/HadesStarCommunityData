@@ -16,7 +16,7 @@ date: 1732689981
  <b>欢迎加入我们集团🎉期待与您创造更多的可能！也感谢您加入我们集团，让我们共同建设这片星河吧！打白请加101QQ群:515686743，谢谢！ 有移出的可以重新加入。
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><strong>欢迎加入我们集团🎉期待与您创造更多的可能！也感谢您加入我们集团，让我们共同建设这片星河吧！打白请加101QQ群:515686743，谢谢！ 有移出的可以重新加入。</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><strong>欢迎加入我们集团🎉期待与您创造更多的可能！也感谢您加入我们集团，让我们共同建设这片星河吧！打白请加101QQ群:515686743，谢谢！ 有移出的可以重新加入。</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/Sh82822)
 ### Whitestar Bonus ✅

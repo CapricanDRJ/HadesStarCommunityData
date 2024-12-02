@@ -24,7 +24,7 @@ date: 1702847100
 黑名单：太空玩家，家园星系（不要脸的天天来）
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><strong>创始人：金gold</strong>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><strong>创始人：金gold</strong>
 主团：元素联邦
 分团：元素联邦，元素学院，边际的文明，边缘世界
 本团为太阳系联邦分团，欢迎大家加入

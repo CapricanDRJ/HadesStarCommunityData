@@ -19,7 +19,7 @@ date: 1725453598
 • Kicks are likely after a week of inactivity, w/out prior notice
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>• New/Unexperienced players welcome.
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>• New/Unexperienced players welcome.
 • Active players, only please.
 • “Line” app for chat is helpful to better communicate w/ leaders
 • Kicks are likely after a week of inactivity, w/out prior notice</body></html>"></iframe>

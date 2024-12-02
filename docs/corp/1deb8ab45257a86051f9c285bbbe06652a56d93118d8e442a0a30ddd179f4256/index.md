@@ -25,7 +25,7 @@ date: 1732847239
 https://discord.gg/fAejNbTH
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>欢迎萌新或大佬来到，这里没有欺骗，没有狡诈，只有诚信，只是帮助
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>欢迎萌新或大佬来到，这里没有欺骗，没有狡诈，只有诚信，只是帮助
 本盟会帮助萌新打红，目前集中打白星
 注：因不活跃被踢出的玩家会收到邀请
 首位提出建立本集团的是：离歌浅唱洛神殇

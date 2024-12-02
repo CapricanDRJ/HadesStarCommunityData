@@ -16,7 +16,7 @@ date: 1720971073
  欢迎各位大佬新手们加入本团<br>集团成立于2024.6.29<br><br>与“中国星际联盟”合作<br>常驻请加群QQ群号709972464<br>首席:超级爱天文的<br><br>福利：每周五、六、日和节假日可找首席要神器（最高r8）<br><br>规则:<br>严禁说不良语言<br>7天闲置容忍，见红点必踢<br> <br>本集团急需招人，有意者加入，萌新最好找首席领神器，可快速发展
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>欢迎各位大佬新手们加入本团&lt;br&gt;集团成立于2024.6.29&lt;br&gt;&lt;br&gt;与“中国星际联盟”合作&lt;br&gt;常驻请加群QQ群号709972464&lt;br&gt;首席:超级爱天文的&lt;br&gt;&lt;br&gt;福利：每周五、六、日和节假日可找首席要神器（最高r8）&lt;br&gt;&lt;br&gt;规则:&lt;br&gt;严禁说不良语言&lt;br&gt;7天闲置容忍，见红点必踢&lt;br&gt; &lt;br&gt;本集团急需招人，有意者加入，萌新最好找首席领神器，可快速发展</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>欢迎各位大佬新手们加入本团&lt;br&gt;集团成立于2024.6.29&lt;br&gt;&lt;br&gt;与“中国星际联盟”合作&lt;br&gt;常驻请加群QQ群号709972464&lt;br&gt;首席:超级爱天文的&lt;br&gt;&lt;br&gt;福利：每周五、六、日和节假日可找首席要神器（最高r8）&lt;br&gt;&lt;br&gt;规则:&lt;br&gt;严禁说不良语言&lt;br&gt;7天闲置容忍，见红点必踢&lt;br&gt; &lt;br&gt;本集团急需招人，有意者加入，萌新最好找首席领神器，可快速发展</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

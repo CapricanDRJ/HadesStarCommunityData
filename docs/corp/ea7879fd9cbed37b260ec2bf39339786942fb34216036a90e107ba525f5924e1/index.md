@@ -16,7 +16,7 @@ date: 1731760563
  Here to have fun! Daily Private RS. Bi-weekly WS. Looking for <b>active</b> players to participate in corp red/white stars. Join our discord for easier coordination and fun!
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Here to have fun! Daily Private RS. Bi-weekly WS. Looking for <strong>active</strong> players to participate in corp red/white stars. Join our discord for easier coordination and fun!</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>Here to have fun! Daily Private RS. Bi-weekly WS. Looking for <strong>active</strong> players to participate in corp red/white stars. Join our discord for easier coordination and fun!</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/3CBQRhpWmV)
 ### Whitestar Bonus ❌

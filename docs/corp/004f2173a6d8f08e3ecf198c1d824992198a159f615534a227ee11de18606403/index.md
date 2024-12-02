@@ -25,7 +25,7 @@ date: 1707881714
 经常上线的有打白资格</b></color>
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:#E57590;&quot;><strong>欢迎大佬萌新加入，祝大家早日R11
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><span style=&quot;color:#E57590;&quot;><strong>欢迎大佬萌新加入，祝大家早日R11
 现任首席：zhora
 已死首席：游风追雪
 白星指挥：3Q

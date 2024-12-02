@@ -16,7 +16,7 @@ date: 1732705303
  ..::: Focus on upgrading those Planets,   Join in on the white star events (when possible), Also make use of the timemachine capability if AFK or not on much during the white star event :::..  😊👍
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>..::: Focus on upgrading those Planets,   Join in on the white star events (when possible), Also make use of the timemachine capability if AFK or not on much during the white star event :::..  😊👍</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>..::: Focus on upgrading those Planets,   Join in on the white star events (when possible), Also make use of the timemachine capability if AFK or not on much during the white star event :::..  😊👍</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/https://discord.gg/VVYfTrJG)
 ### Whitestar Bonus ✅

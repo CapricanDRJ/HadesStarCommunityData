@@ -19,7 +19,7 @@ Nous sommes ouvert à tout français ou étrangers actifs et motivés.
 Discord : https://discord.gg/9PEjNfq
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>L'union Des Sucreries !
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>L'union Des Sucreries !
 Le plan ? Entraide et baston dans la bonne ambiance !
 Nous sommes ouvert à tout français ou étrangers actifs et motivés.
 Discord : https://discord.gg/9PEjNfq</body></html>"></iframe>

@@ -16,7 +16,7 @@ date: 1732964639
  Jeden Abend RR gemeinsam, jede Woche WZ! Und Verstärkung ist dringend gesucht. Also hereinspaziert, wir freuen uns! 20:00 Uhr RR :) Aber natürlich auch wann anders....
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Jeden Abend RR gemeinsam, jede Woche WZ! Und Verstärkung ist dringend gesucht. Also hereinspaziert, wir freuen uns! 20:00 Uhr RR :) Aber natürlich auch wann anders....</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>Jeden Abend RR gemeinsam, jede Woche WZ! Und Verstärkung ist dringend gesucht. Also hereinspaziert, wir freuen uns! 20:00 Uhr RR :) Aber natürlich auch wann anders....</body></html>"></iframe>
 
 ### Whitestar Bonus ✅
 

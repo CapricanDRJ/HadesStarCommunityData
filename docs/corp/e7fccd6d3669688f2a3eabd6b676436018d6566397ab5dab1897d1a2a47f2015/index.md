@@ -19,7 +19,7 @@ date: 1733135011
 Спілкуємося в ТГ, пишіть @AleshaSun, щоб додав до групи
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Вiдкрита всiм!)
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>Вiдкрита всiм!)
 Допомога новачкам смачними артами, порадами, допомога в чз/тчз
 Регулярні бз в активному і веселому колективі
 Спілкуємося в ТГ, пишіть @AleshaSun, щоб додав до групи</body></html>"></iframe>

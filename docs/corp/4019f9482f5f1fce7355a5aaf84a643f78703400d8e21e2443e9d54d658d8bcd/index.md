@@ -18,7 +18,7 @@ date: 1713171237
 <color=yellow>У нас тут дружній колектив \(※↭※)/ </color><color=red>Наш ТГ канал:https://t.me/+vzm06AL8ZX</color>
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Привіт |(⊙▽⊙)-✋!</span>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>Привіт |(⊙▽⊙)-✋!</span>
 <span style=&quot;color:orange;&quot;> Це корпорація Star Conflict ☜(◐﹏◑)| </span>
 <span style=&quot;color:yellow;&quot;>У нас тут дружній колектив \(※↭※)/ </span><span style=&quot;color:red;&quot;>Наш ТГ канал:https://t.me/+vzm06AL8ZX</span></body></html>"></iframe>
 

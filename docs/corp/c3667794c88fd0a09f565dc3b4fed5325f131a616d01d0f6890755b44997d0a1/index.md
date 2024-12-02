@@ -17,7 +17,7 @@ date: 1731452634
 
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body> 首席 中华   本团禁止骂人 ，一旦发现 ，直接提出。本团不能谈论其他游戏的内容一般不打白。长假必打白，人不到不打白。 30级以下成员 30～50高员50+干事。欢迎外国人（foriengers are welcom）（不准擦）。14天清人 
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body> 首席 中华   本团禁止骂人 ，一旦发现 ，直接提出。本团不能谈论其他游戏的内容一般不打白。长假必打白，人不到不打白。 30级以下成员 30～50高员50+干事。欢迎外国人（foriengers are welcom）（不准擦）。14天清人 
 </body></html>"></iframe>
 
 ### Whitestar Bonus ❌

@@ -22,7 +22,7 @@ date: 1732192368
 <color=blue>Dis: https:// discord.gg/v2xC6g9Shy</color>
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>欢迎国人朋友加入 互相帮助共同进步
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>欢迎国人朋友加入 互相帮助共同进步
 常驻加QQ群
 一盟必加企鹅群：<span style=&quot;color:red;&quot;>169409626</span>
 二盟华夏航队

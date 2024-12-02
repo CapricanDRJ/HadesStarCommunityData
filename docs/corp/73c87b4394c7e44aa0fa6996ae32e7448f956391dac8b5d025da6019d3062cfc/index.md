@@ -16,7 +16,7 @@ date: 1729138887
  Welcome to <b><color=#f68>The New Light</color></b>! We are scouting for active players to take on <b>white star</b> missions. White star frequency: Once a week, starting on Thursdays.
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Welcome to <strong><span style=&quot;color:#f68;&quot;>The New Light</span></strong>! We are scouting for active players to take on <strong>white star</strong> missions. White star frequency: Once a week, starting on Thursdays.</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>Welcome to <strong><span style=&quot;color:#f68;&quot;>The New Light</span></strong>! We are scouting for active players to take on <strong>white star</strong> missions. White star frequency: Once a week, starting on Thursdays.</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/z4C9PUKgKD)
 ### Whitestar Bonus ❌

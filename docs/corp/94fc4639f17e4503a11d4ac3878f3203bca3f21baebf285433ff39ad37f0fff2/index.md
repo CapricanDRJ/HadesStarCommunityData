@@ -16,7 +16,7 @@ date: 1732994995
  Bem vindo à BRASIL STAR <br><br>Estrelas Vermelhas (RS) e Estrelas Brancas (WS) coordenadas pelo WhatsApp, peça para te adicionarem no grupo no chat da corporação :D
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Bem vindo à BRASIL STAR &lt;br&gt;&lt;br&gt;Estrelas Vermelhas (RS) e Estrelas Brancas (WS) coordenadas pelo WhatsApp, peça para te adicionarem no grupo no chat da corporação :D</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>Bem vindo à BRASIL STAR &lt;br&gt;&lt;br&gt;Estrelas Vermelhas (RS) e Estrelas Brancas (WS) coordenadas pelo WhatsApp, peça para te adicionarem no grupo no chat da corporação :D</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/MV5xAcu9Vz)
 ### Whitestar Bonus ✅

@@ -18,7 +18,7 @@ date: 1718337194
 集团QQ群：1011697232在群里修改成游戏马甲!～(￣▽￣～)
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>咸鱼团，没有在线要求。欢迎常玩的萌新跟大佬。
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>咸鱼团，没有在线要求。欢迎常玩的萌新跟大佬。
 
 集团QQ群：1011697232在群里修改成游戏马甲!～(￣▽￣～)</body></html>"></iframe>
 

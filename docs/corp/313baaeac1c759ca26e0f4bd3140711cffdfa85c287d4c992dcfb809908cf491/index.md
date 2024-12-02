@@ -16,7 +16,7 @@ date: 1732895530
  <color=#7FFFD4";><b>We are THE COLLECTIVE</b><br>Lower your shields and surrender all relics<br>Resistance is futile<br><br><b>Corps</b><br>• Legion<br>• Unimatrix Zero<br><br><b>RS7+ | DRS/WS | $➡FS2
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:#7FFFD4";;&quot;><strong>We are THE COLLECTIVE</strong>&lt;br&gt;Lower your shields and surrender all relics&lt;br&gt;Resistance is futile&lt;br&gt;&lt;br&gt;<strong>Corps</strong>&lt;br&gt;• Legion&lt;br&gt;• Unimatrix Zero&lt;br&gt;&lt;br&gt;<strong>RS7+ | DRS/WS | $➡FS2</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><span style=&quot;color:#7FFFD4";;&quot;><strong>We are THE COLLECTIVE</strong>&lt;br&gt;Lower your shields and surrender all relics&lt;br&gt;Resistance is futile&lt;br&gt;&lt;br&gt;<strong>Corps</strong>&lt;br&gt;• Legion&lt;br&gt;• Unimatrix Zero&lt;br&gt;&lt;br&gt;<strong>RS7+ | DRS/WS | $➡FS2</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/mA6tbqzS55)
 ### Whitestar Bonus ✅

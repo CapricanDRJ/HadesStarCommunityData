@@ -16,7 +16,7 @@ date: 1702033497
  Szukamy graczy aktywnych na WS! Przed dołączeniem wejdź na nasz discord.
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Szukamy graczy aktywnych na WS! Przed dołączeniem wejdź na nasz discord.</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>Szukamy graczy aktywnych na WS! Przed dołączeniem wejdź na nasz discord.</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/9EdXH7jF)
 ### Whitestar Bonus ❌

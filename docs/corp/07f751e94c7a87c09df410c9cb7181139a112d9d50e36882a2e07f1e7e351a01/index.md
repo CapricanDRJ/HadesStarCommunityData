@@ -17,7 +17,7 @@ date: 1708191071
 ⁍ Discord mandatory: </color><color=#bf4342>discord.com/invite/bmWhhphKUH</color>
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>A branch of &lt;size=346&gt;<span style=&quot;color:#5F634F;&quot;>U.I.H.</span>&lt;/size&gt;<span style=&quot;color:#edb88b;&quot;>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>A branch of &lt;size=346&gt;<span style=&quot;color:#5F634F;&quot;>U.I.H.</span>&lt;/size&gt;<span style=&quot;color:#edb88b;&quot;>
 ⁍ Discord mandatory: </span><span style=&quot;color:#bf4342;&quot;>discord.com/invite/bmWhhphKUH</span></body></html>"></iframe>
 
 ### Whitestar Bonus ❌

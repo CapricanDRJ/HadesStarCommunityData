@@ -16,7 +16,7 @@ date: 1732425560
  <b><color=green><size=70>~Imperio Estelar~</size></color></b><b><color=purple><size=50>                       🪐🌌..."El qué Persevera Alcanza"...🌌🪐<b><color=red><size=95>    La Unión nos Fortalece
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><strong><span style=&quot;color:green;&quot;>&lt;size=70&gt;~Imperio Estelar~&lt;/size&gt;</span></strong><strong><span style=&quot;color:purple;&quot;>&lt;size=50&gt;                       🪐🌌..."El qué Persevera Alcanza"...🌌🪐<strong><span style=&quot;color:red;&quot;>&lt;size=95&gt;    La Unión nos Fortalece</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><strong><span style=&quot;color:green;&quot;>&lt;size=70&gt;~Imperio Estelar~&lt;/size&gt;</span></strong><strong><span style=&quot;color:purple;&quot;>&lt;size=50&gt;                       🪐🌌..."El qué Persevera Alcanza"...🌌🪐<strong><span style=&quot;color:red;&quot;>&lt;size=95&gt;    La Unión nos Fortalece</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

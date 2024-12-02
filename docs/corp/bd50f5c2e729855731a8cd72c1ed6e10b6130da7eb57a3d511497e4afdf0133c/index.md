@@ -16,7 +16,7 @@ date: 1700328138
  An active cooperation with an emphasis on teamwork! With sharing experience, artifacts and red/white star joint efforts! Join us in the pursuit of power!
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>An active cooperation with an emphasis on teamwork! With sharing experience, artifacts and red/white star joint efforts! Join us in the pursuit of power!</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>An active cooperation with an emphasis on teamwork! With sharing experience, artifacts and red/white star joint efforts! Join us in the pursuit of power!</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/hpNKcXkf)
 ### Whitestar Bonus ❌

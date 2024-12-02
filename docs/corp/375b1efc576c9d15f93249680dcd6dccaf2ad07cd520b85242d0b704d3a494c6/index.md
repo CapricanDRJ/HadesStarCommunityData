@@ -16,7 +16,7 @@ date: 1732758496
  我们坚持共产主义思想。集团欢迎学生加入，也欢迎大佬来参加。因为大多数人为学生，所以上线时间有较大波动。放假时开白，在没有经过首席或其他干事同意下不准私自开白，打白时和信仰共产主义的同志尽力不起冲突，集团之中不许吵架！      集团白星槽位1主要为中国人。由于开学，所以集团成员上线时间比较短，假期时比较活跃。不是死团！！！          黑名单：逐光起航
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>我们坚持共产主义思想。集团欢迎学生加入，也欢迎大佬来参加。因为大多数人为学生，所以上线时间有较大波动。放假时开白，在没有经过首席或其他干事同意下不准私自开白，打白时和信仰共产主义的同志尽力不起冲突，集团之中不许吵架！      集团白星槽位1主要为中国人。由于开学，所以集团成员上线时间比较短，假期时比较活跃。不是死团！！！          黑名单：逐光起航</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>我们坚持共产主义思想。集团欢迎学生加入，也欢迎大佬来参加。因为大多数人为学生，所以上线时间有较大波动。放假时开白，在没有经过首席或其他干事同意下不准私自开白，打白时和信仰共产主义的同志尽力不起冲突，集团之中不许吵架！      集团白星槽位1主要为中国人。由于开学，所以集团成员上线时间比较短，假期时比较活跃。不是死团！！！          黑名单：逐光起航</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

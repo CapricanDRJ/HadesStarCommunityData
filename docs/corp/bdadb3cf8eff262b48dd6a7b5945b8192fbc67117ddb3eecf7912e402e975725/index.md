@@ -16,7 +16,7 @@ date: 1732467328
  The Eretrian Empire of Cydonia Welcomes ALL from the Newest to the most seasoned Veterans. This corp is made for and of its members! It would be an Honor that you would join us! >=)
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>The Eretrian Empire of Cydonia Welcomes ALL from the Newest to the most seasoned Veterans. This corp is made for and of its members! It would be an Honor that you would join us! &gt;=)</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>The Eretrian Empire of Cydonia Welcomes ALL from the Newest to the most seasoned Veterans. This corp is made for and of its members! It would be an Honor that you would join us! &gt;=)</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/https://discord.gg/qYEDG3Nt)
 ### Whitestar Bonus ❌

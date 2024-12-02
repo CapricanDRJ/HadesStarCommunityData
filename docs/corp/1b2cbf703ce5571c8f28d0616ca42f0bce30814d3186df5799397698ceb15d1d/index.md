@@ -20,7 +20,7 @@ We're looking for WS active dads, RS9-11. Please come and talk to us on Discord 
 Discord: z38XKuM
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>A corporation for dads everywhere!
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>A corporation for dads everywhere!
 
 We're looking for WS active dads, RS9-11. Please come and talk to us on Discord before sending us an in game request.
 

@@ -18,7 +18,7 @@ date: 1732485961
 A social, easygoing Corp with allies to join together with for Red or White Stars. No pressure, play at your own pace.
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Allied with GalaxyNova (led by Aires) and Planet Express (Lazarus_929)
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>Allied with GalaxyNova (led by Aires) and Planet Express (Lazarus_929)
 
 A social, easygoing Corp with allies to join together with for Red or White Stars. No pressure, play at your own pace.</body></html>"></iframe>
 

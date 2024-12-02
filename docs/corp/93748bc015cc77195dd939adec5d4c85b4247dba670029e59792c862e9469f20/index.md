@@ -16,7 +16,7 @@ date: 1701216316
  <color=#FFFF00>Походы на красные и белые звёзды, помощь игрокам и просто общениe</color><color=#FFA500></color>
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:#FFFF00;&quot;>Походы на красные и белые звёзды, помощь игрокам и просто общениe</span><span style=&quot;color:#FFA500;&quot;></span></body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><span style=&quot;color:#FFFF00;&quot;>Походы на красные и белые звёзды, помощь игрокам и просто общениe</span><span style=&quot;color:#FFA500;&quot;></span></body></html>"></iframe>
 
 ### [Discord](https://discord.gg/GtUycuvQVG)
 ### Whitestar Bonus ❌

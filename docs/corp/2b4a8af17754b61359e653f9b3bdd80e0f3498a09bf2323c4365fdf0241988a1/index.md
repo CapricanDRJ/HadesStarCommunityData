@@ -16,7 +16,7 @@ date: 1733050275
  征求富团强军之策，尽管游戏环境不太好，这边氛围很不错，我们欢迎各国玩家，international集团。在这边等级不是问题，J103、heltas一白指挥官，二白指挥YONG（后改名为湘），44Q群管理员，新闻播报，我们集团承诺不抛弃每个团员。  前提：1不要小号2开扫强征3只要常驻4三天上线           黑名单集团：云梦鱼，九州分团，逐光起航 q群：767311697
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>征求富团强军之策，尽管游戏环境不太好，这边氛围很不错，我们欢迎各国玩家，international集团。在这边等级不是问题，J103、heltas一白指挥官，二白指挥YONG（后改名为湘），44Q群管理员，新闻播报，我们集团承诺不抛弃每个团员。  前提：1不要小号2开扫强征3只要常驻4三天上线           黑名单集团：云梦鱼，九州分团，逐光起航 q群：767311697</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>征求富团强军之策，尽管游戏环境不太好，这边氛围很不错，我们欢迎各国玩家，international集团。在这边等级不是问题，J103、heltas一白指挥官，二白指挥YONG（后改名为湘），44Q群管理员，新闻播报，我们集团承诺不抛弃每个团员。  前提：1不要小号2开扫强征3只要常驻4三天上线           黑名单集团：云梦鱼，九州分团，逐光起航 q群：767311697</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/dqW4bytGPe)
 ### Whitestar Bonus ✅

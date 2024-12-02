@@ -16,7 +16,7 @@ date: 1733097760
  <color=#88F>Welcome to Blue Dwarf!</color> Part of the Dwarf family, join us for group Red Star runs, hints and tips, free artifacts, and weekly White Stars - enable scanner to opt-in! Discord advised
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:#88F;&quot;>Welcome to Blue Dwarf!</span> Part of the Dwarf family, join us for group Red Star runs, hints and tips, free artifacts, and weekly White Stars - enable scanner to opt-in! Discord advised</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><span style=&quot;color:#88F;&quot;>Welcome to Blue Dwarf!</span> Part of the Dwarf family, join us for group Red Star runs, hints and tips, free artifacts, and weekly White Stars - enable scanner to opt-in! Discord advised</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/mbBssbBRQ8)
 ### Whitestar Bonus ✅

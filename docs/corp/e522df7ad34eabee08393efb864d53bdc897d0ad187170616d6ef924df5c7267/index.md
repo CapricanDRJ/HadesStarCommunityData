@@ -16,7 +16,7 @@ date: 1732747701
  盟团：斯比纳兰、万星联盟、黑域，中国一建（首席朋友，大哥骏子，他希望有更多人能加入他的群，希望大家帮帮他）。本团每周五晚上10点扫白，8月26日成立，欢迎各位大佬和新手加入星际集团。长住、活跃晋升。萌新福利：30级以下4个r6或8个r 5，50级以下两个r 6或4个r 5。集团不招外国人。请捐旗舰一。黑名单：undercover、一切与瓜老板有关系的人，让我们共同努力，成为这个游戏里最强的集
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>盟团：斯比纳兰、万星联盟、黑域，中国一建（首席朋友，大哥骏子，他希望有更多人能加入他的群，希望大家帮帮他）。本团每周五晚上10点扫白，8月26日成立，欢迎各位大佬和新手加入星际集团。长住、活跃晋升。萌新福利：30级以下4个r6或8个r 5，50级以下两个r 6或4个r 5。集团不招外国人。请捐旗舰一。黑名单：undercover、一切与瓜老板有关系的人，让我们共同努力，成为这个游戏里最强的集</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>盟团：斯比纳兰、万星联盟、黑域，中国一建（首席朋友，大哥骏子，他希望有更多人能加入他的群，希望大家帮帮他）。本团每周五晚上10点扫白，8月26日成立，欢迎各位大佬和新手加入星际集团。长住、活跃晋升。萌新福利：30级以下4个r6或8个r 5，50级以下两个r 6或4个r 5。集团不招外国人。请捐旗舰一。黑名单：undercover、一切与瓜老板有关系的人，让我们共同努力，成为这个游戏里最强的集</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

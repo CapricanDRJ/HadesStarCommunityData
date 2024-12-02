@@ -20,7 +20,7 @@ date: 1732941505
 
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>这里是星舰地球直辖分盟，培养r7-r10的玩家，在这里大家可以探讨黄星商业运营，磨练红星作战技巧，试水白星团队协作。
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>这里是星舰地球直辖分盟，培养r7-r10的玩家，在这里大家可以探讨黄星商业运营，磨练红星作战技巧，试水白星团队协作。
 
 星舰地球Q群:858649848 
 月球白星群  :916418678（常驻在这报道，每周一次白在这报名）

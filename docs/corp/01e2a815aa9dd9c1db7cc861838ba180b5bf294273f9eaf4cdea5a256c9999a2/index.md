@@ -28,7 +28,7 @@ Q群：838214551
 黑名单：元宇宙
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>&lt;size=90&gt;欢迎各位萌新与大佬的进入！&lt;/size&gt;
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>&lt;size=90&gt;欢迎各位萌新与大佬的进入！&lt;/size&gt;
 Q群：838214551
 <span style=&quot;color:Lime;&quot;>舰长：风影  ，德四，兽人
 副舰长: 老文，w</span>

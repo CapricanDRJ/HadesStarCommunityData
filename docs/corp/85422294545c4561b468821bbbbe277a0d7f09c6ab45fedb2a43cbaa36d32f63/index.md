@@ -16,7 +16,7 @@ date: 1728129128
  <COLOR=RED>别捐旗舰</COLOR>本团属于九团公约成员国                                                                    欢迎加入，需要神器找杨星开放外交站                                qq群: 637144087
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>&lt;COLOR=RED&gt;别捐旗舰&lt;/COLOR&gt;本团属于九团公约成员国                                                                    欢迎加入，需要神器找杨星开放外交站                                qq群: 637144087</body></html>"></iframe>
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body>&lt;COLOR=RED&gt;别捐旗舰&lt;/COLOR&gt;本团属于九团公约成员国                                                                    欢迎加入，需要神器找杨星开放外交站                                qq群: 637144087</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

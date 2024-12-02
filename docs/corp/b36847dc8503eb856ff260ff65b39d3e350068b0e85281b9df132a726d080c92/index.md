@@ -23,7 +23,7 @@ date: 1710343465
 全员传移新团！快
 ```
 
-    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:#E57590;&quot;>&lt;size=60&gt;本集团由中国人建立，欢迎大佬和活跃的萌新加入！ 
+<iframe style="display:block;border:none;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:transparent;color:inherit;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:inherit;background-color:transparent;}</style></head><body><span style=&quot;color:#E57590;&quot;>&lt;size=60&gt;本集团由中国人建立，欢迎大佬和活跃的萌新加入！ 
 总司令：风影帝国
 副司令：鸡太美，老文&lt;/size&gt;</span>
 本集团虽然是新团但我希望各位大佬萌新能来到此地！
