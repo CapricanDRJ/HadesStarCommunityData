@@ -17,6 +17,13 @@ date: 1722148180
 
  <color=red>Top 1 BR </color> está recrutando guerreiros dedicados em RS e WS. interessado chamar no whatsapp.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+WhatsApp: <span style="color:#00FFFF;">034 99879-2012</span>
+
+ <span style="color:red;">Top 1 BR </span> está recrutando guerreiros dedicados em RS e WS. interessado chamar no whatsapp.
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

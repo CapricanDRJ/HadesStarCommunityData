@@ -21,6 +21,17 @@ La naissance d'un empire ! ❦︎
 
 https://discord.gg/AA2vSmDw ☠︎
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Vous êtes là pour grandir. ✯
+
+dialogue, écoute et persévérance sont là clé. シ︎
+
+La naissance d'un empire ! ❦︎
+
+https://discord.gg/AA2vSmDw ☠︎
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

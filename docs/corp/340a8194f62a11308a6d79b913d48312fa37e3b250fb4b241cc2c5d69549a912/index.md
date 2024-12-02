@@ -15,6 +15,11 @@ date: 1701301973
 ```
  <color=#00bfff>Tᴇʟᴇɢʀᴀᴍ:</color>   
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:#00bfff;">Tᴇʟᴇɢʀᴀᴍ:</span>   
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

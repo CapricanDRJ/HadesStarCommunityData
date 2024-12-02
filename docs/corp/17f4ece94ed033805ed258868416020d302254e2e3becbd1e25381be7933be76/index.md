@@ -21,6 +21,17 @@ RS 1-4 see Lacuna Academy
 RS 5-6 see Lacuna X
 RS 8-11 see Lacuna Ind.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+&lt;b&gt;Lacuna Group's&lt;/b&gt; home for RS 7+ and free-for-all WS
+Req- 1WS monthly
+
+&lt;b&gt;Discord required:&lt;/b&gt; discord.gg/BFfSkvu
+RS 1-4 see Lacuna Academy
+RS 5-6 see Lacuna X
+RS 8-11 see Lacuna Ind.
+</div>
+
 ### [Discord](https://discord.gg/avjXNcv4pj)
 ### Whitestar Bonus ❌
 

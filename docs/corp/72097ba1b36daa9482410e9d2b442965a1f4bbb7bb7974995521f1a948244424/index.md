@@ -15,6 +15,11 @@ date: 1731986831
 ```
  求む魔導師　至難の戦場　わずかな報酬　剣林弾雨の暗い日々　耐え難い危険　生還の保証なし　生還の暁には名誉と賞賛を得ると
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+求む魔導師　至難の戦場　わずかな報酬　剣林弾雨の暗い日々　耐え難い危険　生還の保証なし　生還の暁には名誉と賞賛を得ると
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -19,6 +19,15 @@ https://discord.gg/E67DY45fPC
 Кз 4-10.
 Дискорд обязателен.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:"green";">Набор через дискорд </span>
+https://discord.gg/E67DY45fPC
+Еженедельное участие в БЗ
+Кз 4-10.
+Дискорд обязателен.
+</div>
+
 ### [Discord](https://discord.gg/https://discord.com/invite/vmPbPHsU)
 ### Whitestar Bonus ✅
 

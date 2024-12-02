@@ -26,6 +26,22 @@ date: 1732765105
 QQ群：131920392
 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+此联盟为中国星际联盟第一分团
+
+本分团于2024年5月2号 13:36:51创立
+                       
+ 联盟招人，有意者加入！
+
+星河绮梦就像璀璨星空下的宁静乐土，新手发展地，为每个新手Hades' star大佬梦开始的地方。
+
+团长：从小就爱语数英
+团长微信：15316650176，拉你入群！
+QQ群：131920392
+
+</div>
+
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

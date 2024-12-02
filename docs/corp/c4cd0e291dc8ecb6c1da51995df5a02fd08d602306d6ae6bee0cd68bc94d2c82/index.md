@@ -15,6 +15,11 @@ date: 1711033947
 ```
  All welcome. be active, helpful, and courteous to all. White stars every weekend. We are a group of casual players who play at individual paces. Discord optional
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+All welcome. be active, helpful, and courteous to all. White stars every weekend. We are a group of casual players who play at individual paces. Discord optional
+</div>
+
 ### [Discord](https://discord.gg/qvXDRKy)
 ### Whitestar Bonus ❌
 

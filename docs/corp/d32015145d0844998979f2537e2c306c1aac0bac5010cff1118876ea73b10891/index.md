@@ -21,6 +21,17 @@ Discord  is mandatory (s22bSE6EyU)
 Max 7 days of inactivity.
 HS Compendium required to join WS's
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Active Players Only. Don't join if your not going to play. 
+
+REQUIREMENTS:
+English
+Discord  is mandatory (s22bSE6EyU)
+Max 7 days of inactivity.
+HS Compendium required to join WS's
+</div>
+
 ### [Discord](https://discord.gg/s22bSE6EyU)
 ### Whitestar Bonus ❌
 

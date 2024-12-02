@@ -15,6 +15,11 @@ date: 1727101030
 ```
  和中国星际集团差不多，我喜欢中国🇨🇳
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+和中国星际集团差不多，我喜欢中国🇨🇳
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

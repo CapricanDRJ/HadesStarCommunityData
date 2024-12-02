@@ -15,6 +15,11 @@ date: 1710456150
 ```
  Добро пожаловать в мой мир
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Добро пожаловать в мой мир
+</div>
+
 ### [Discord](https://discord.gg/https://discord.com/invite/WRdbp8Xg)
 ### Whitestar Bonus ❌
 

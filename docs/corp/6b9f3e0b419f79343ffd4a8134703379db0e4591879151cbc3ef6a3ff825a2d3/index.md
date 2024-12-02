@@ -19,6 +19,15 @@ Bi-Weekly WS
 Beware of Viking
 Discord: sqaDS62zfW
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+It's all about having fun. Experienced players at all levels helping and supporting each other to grow. 
+Multiple daily RS
+Bi-Weekly WS 
+Beware of Viking
+Discord: sqaDS62zfW
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

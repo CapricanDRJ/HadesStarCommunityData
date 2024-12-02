@@ -15,6 +15,11 @@ date: 1707562719
 ```
  Awaiting the next update
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Awaiting the next update
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

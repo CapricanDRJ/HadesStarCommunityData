@@ -15,6 +15,11 @@ date: 1708872607
 ```
  we focus on white stars, app discord is very necessary. Discord: macro7233
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+we focus on white stars, app discord is very necessary. Discord: macro7233
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

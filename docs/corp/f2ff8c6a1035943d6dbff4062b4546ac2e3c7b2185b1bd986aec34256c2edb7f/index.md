@@ -17,6 +17,13 @@ date: 1723938121
 
 딱히 열심히 활동안해도 되고, 천천히 게임할려는 사람에게 맞는 코퍼레이션
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+
+
+딱히 열심히 활동안해도 되고, 천천히 게임할려는 사람에게 맞는 코퍼레이션
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

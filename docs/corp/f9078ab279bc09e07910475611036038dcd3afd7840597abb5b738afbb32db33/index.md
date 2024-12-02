@@ -15,6 +15,11 @@ date: 1708563696
 ```
  the official USAR (usar is a micronation) corporation.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+the official USAR (usar is a micronation) corporation.
+</div>
+
 ### [Discord](https://discord.gg/https://discord.com/invite/G3xv4sqYvq)
 ### Whitestar Bonus ❌
 

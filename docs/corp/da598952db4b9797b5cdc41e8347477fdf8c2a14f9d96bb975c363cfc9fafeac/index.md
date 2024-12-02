@@ -16,6 +16,12 @@ date: 1709098064
  Join us as we dominate the fake universe!
 And check out our YouTube channel if you get a chance.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Join us as we dominate the fake universe!
+And check out our YouTube channel if you get a chance.
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -15,6 +15,11 @@ date: 1712768023
 ```
  Just a feeder corp for alts :D enjoy corp bonus on arts if you'd like otherwise a fairly inactive crew
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Just a feeder corp for alts :D enjoy corp bonus on arts if you'd like otherwise a fairly inactive crew
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

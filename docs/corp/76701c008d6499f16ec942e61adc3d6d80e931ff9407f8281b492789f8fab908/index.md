@@ -17,6 +17,13 @@ date: 1732327002
 Anfängerfreundlicher Stern sucht höfliche und redselige Piloten zum davonfliegen.
 We are friendly international corp. English and/or German prefered, but other languages tolerated. 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+♡Welcome all♡
+Anfängerfreundlicher Stern sucht höfliche und redselige Piloten zum davonfliegen.
+We are friendly international corp. English and/or German prefered, but other languages tolerated. 
+</div>
+
 ### [Discord](https://discord.gg/https://discord.com/invite/38aedttX)
 ### Whitestar Bonus ❌
 

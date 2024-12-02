@@ -15,6 +15,11 @@ date: 1723607550
 ```
  Bienvenidos a la corporacion mas poderosa de todas hacemos eb diarias ea y er espero que se diviertan todos los nuevos bienvenidos al equipo,todos los nuevos seran acendidos inmediatamente 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Bienvenidos a la corporacion mas poderosa de todas hacemos eb diarias ea y er espero que se diviertan todos los nuevos bienvenidos al equipo,todos los nuevos seran acendidos inmediatamente 
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

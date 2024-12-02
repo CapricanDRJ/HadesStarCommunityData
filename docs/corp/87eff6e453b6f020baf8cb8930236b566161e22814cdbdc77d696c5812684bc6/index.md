@@ -17,6 +17,13 @@ date: 1732947814
 Discord invite code is https://discord.gg/44nD9yX
 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+we like our coffee dirty
+Discord invite code is https://discord.gg/44nD9yX
+
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -15,6 +15,11 @@ date: 1720819016
 ```
  Corp made for storage of players who don't come back
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Corp made for storage of players who don't come back
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

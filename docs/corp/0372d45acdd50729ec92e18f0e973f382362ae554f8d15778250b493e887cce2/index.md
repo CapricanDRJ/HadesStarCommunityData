@@ -15,6 +15,11 @@ date: 1720925094
 ```
  <color="lightblue"><b><size="100">Colonial Defence Grid           </size><size="50"> So Say We All</size></b></color>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:"lightblue";">&lt;b&gt;&lt;size="100"&gt;Colonial Defence Grid           &lt;/size&gt;&lt;size="50"&gt; So Say We All&lt;/size&gt;&lt;/b&gt;</span>
+</div>
+
 ### [Discord](https://discord.gg/Gv2tjDgdSa)
 ### Whitestar Bonus ❌
 

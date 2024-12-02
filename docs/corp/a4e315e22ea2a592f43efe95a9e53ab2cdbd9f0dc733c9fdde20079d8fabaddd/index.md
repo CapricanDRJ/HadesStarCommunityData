@@ -22,6 +22,18 @@ Code 3A9WHQV
 
 Part of the group known as <color=#c4ff00>SPACE PALS<color=#111100><color=#111100><b></b></color>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Become an elite White Star warrior
+
+Age 16+
+
+Discord &lt;b&gt;mandatory&lt;/b&gt;
+Code 3A9WHQV
+
+Part of the group known as <span style="color:#c4ff00;">SPACE PALS<span style="color:#111100;"><span style="color:#111100;">&lt;b&gt;&lt;/b&gt;</span>
+</div>
+
 ### [Discord](https://discord.gg/3A9WHQV)
 ### Whitestar Bonus ❌
 

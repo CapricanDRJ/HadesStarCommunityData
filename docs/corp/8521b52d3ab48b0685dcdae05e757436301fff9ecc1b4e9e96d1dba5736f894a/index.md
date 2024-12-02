@@ -15,6 +15,11 @@ date: 1714123800
 ```
  <a>本集团为<size=77>中国星系集团新主团</size></a >
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+&lt;a&gt;本集团为&lt;size=77&gt;中国星系集团新主团&lt;/size&gt;&lt;/a &gt;
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

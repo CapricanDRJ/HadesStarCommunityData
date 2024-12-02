@@ -15,6 +15,11 @@ date: 1719634683
 ```
  All for one and one for all
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+All for one and one for all
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

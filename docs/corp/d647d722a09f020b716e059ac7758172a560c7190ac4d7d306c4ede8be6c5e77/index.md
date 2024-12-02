@@ -21,6 +21,17 @@ https://discord.gg/jPftecDuNp
 
 Primarily English
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Chill corp for active RS and WS pilots! All experience levels welcome!
+
+Discord is mandatory for ws
+
+https://discord.gg/jPftecDuNp
+
+Primarily English
+</div>
+
 ### [Discord](https://discord.gg/jPftecDuNp)
 ### Whitestar Bonus ❌
 

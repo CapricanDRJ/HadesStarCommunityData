@@ -19,6 +19,15 @@ We're looking for WS active dads, RS9-11. Please come and talk to us on Discord 
 
 Discord: z38XKuM
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+A corporation for dads everywhere!
+
+We're looking for WS active dads, RS9-11. Please come and talk to us on Discord before sending us an in game request.
+
+Discord: z38XKuM
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

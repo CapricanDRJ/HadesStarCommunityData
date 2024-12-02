@@ -15,6 +15,11 @@ date: 1732909657
 ```
  <b><size=100><color=#27AE60> Join The Wolfpack </color></size></b> The Wolfpack is on the lookout for dominant Alphas to join us in our ranks
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+&lt;b&gt;&lt;size=100&gt;<span style="color:#27AE60;"> Join The Wolfpack </span>&lt;/size&gt;&lt;/b&gt; The Wolfpack is on the lookout for dominant Alphas to join us in our ranks
+</div>
+
 ### [Discord](https://discord.gg/bCDnyHe57T)
 ### Whitestar Bonus ✅
 

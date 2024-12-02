@@ -17,6 +17,13 @@ date: 1733138918
 Ники пустые или без кирилических, латинских символов недопускаются
 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:#6495ED;">Telegram</span> t.me/hs_111_reunion
+Ники пустые или без кирилических, латинских символов недопускаются
+
+</div>
+
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

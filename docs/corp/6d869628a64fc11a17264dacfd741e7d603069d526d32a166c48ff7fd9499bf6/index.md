@@ -15,6 +15,11 @@ date: 1716019102
 ```
  <color=green>Иногда идём на БЗ, практически всегда готовы помоч вам в развитии вашей империи!</color>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:green;">Иногда идём на БЗ, практически всегда готовы помоч вам в развитии вашей империи!</span>
+</div>
+
 ### [Discord](https://discord.gg/VTbEpQAEXc)
 ### Whitestar Bonus ❌
 

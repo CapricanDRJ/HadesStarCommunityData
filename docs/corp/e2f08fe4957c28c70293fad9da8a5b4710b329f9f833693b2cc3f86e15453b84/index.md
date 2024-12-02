@@ -16,6 +16,12 @@ date: 1714611048
  Único requisito: Hablar español
 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Único requisito: Hablar español
+
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

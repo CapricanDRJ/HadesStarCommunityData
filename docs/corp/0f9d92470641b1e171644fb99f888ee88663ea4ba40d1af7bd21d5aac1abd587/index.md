@@ -15,6 +15,11 @@ date: 1719962692
 ```
  Bienvenue de l'Empire de Sylli. venez avec nous conquérir l'espace. 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Bienvenue de l'Empire de Sylli. venez avec nous conquérir l'espace. 
+</div>
+
 ### [Discord](https://discord.gg/7MEkhpJ47M)
 ### Whitestar Bonus ❌
 

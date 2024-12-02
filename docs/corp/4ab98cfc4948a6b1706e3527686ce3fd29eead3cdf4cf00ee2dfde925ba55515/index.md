@@ -17,6 +17,13 @@ date: 1711749983
 Únete al Imperio Gallego y juntos dominaremos la galaxia desde Cedeira hasta Verín.
 Discord: VjEnT6S
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Buscamos gente con actitud positiva para Estrellas Blancas.
+Únete al Imperio Gallego y juntos dominaremos la galaxia desde Cedeira hasta Verín.
+Discord: VjEnT6S
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

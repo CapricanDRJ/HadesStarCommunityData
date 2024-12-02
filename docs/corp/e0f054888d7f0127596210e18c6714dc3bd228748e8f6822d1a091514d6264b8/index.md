@@ -15,6 +15,11 @@ date: 1726148945
 ```
  蓝色星系第一分盟  意在培养R6以下萌新  预备白星人员   欢迎各位萌新大佬前来   喜欢活跃的人员可前往主盟和二分盟，不要捐旗舰，q群446097226
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+蓝色星系第一分盟  意在培养R6以下萌新  预备白星人员   欢迎各位萌新大佬前来   喜欢活跃的人员可前往主盟和二分盟，不要捐旗舰，q群446097226
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

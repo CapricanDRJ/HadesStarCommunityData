@@ -15,6 +15,11 @@ date: 1705181761
 ```
  <color=#3c78d8><size=90>Join us now!</size></color>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:#3c78d8;">&lt;size=90&gt;Join us now!&lt;/size&gt;</span>
+</div>
+
 ### [Discord](https://discord.gg/pECD6CY)
 ### Whitestar Bonus ❌
 

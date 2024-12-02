@@ -20,6 +20,16 @@ date: 1702351177
 Project for Permanent Peace
 <color="red">                                    * 7일 미접 강퇴  </color>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+동맹 : 혁명군
+&lt;size=100px&gt;&lt;b&gt;<span style="color:"#90E5CF";">*Core Inf .</span>&lt;/b&gt;&lt;/size&gt;
+- 뉴비, 고인물 환영합니다
+- 매너, 즐겜, 겸손
+Project for Permanent Peace
+<span style="color:"red";">                                    * 7일 미접 강퇴  </span>
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

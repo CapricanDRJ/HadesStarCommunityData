@@ -16,6 +16,12 @@ date: 1729423231
  嗨！！這是個新的開始~期待與你(妳)交個新朋友  ^_^  新來的成員希望能在上線時候打聲招呼  謝謝
 <size=74><color=red>PS 本集团禁止刷屏</color></size>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+嗨！！這是個新的開始~期待與你(妳)交個新朋友  ^_^  新來的成員希望能在上線時候打聲招呼  謝謝
+&lt;size=74&gt;<span style="color:red;">PS 本集团禁止刷屏</span>&lt;/size&gt;
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

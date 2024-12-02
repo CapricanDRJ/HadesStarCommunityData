@@ -18,6 +18,14 @@ To participate in white star missions we ask that you download discord and join 
 
 https://discord.gg/gXvbHJm
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Just for fun.
+To participate in white star missions we ask that you download discord and join our server:
+
+https://discord.gg/gXvbHJm
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

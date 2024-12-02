@@ -15,6 +15,11 @@ date: 1725116439
 ```
  <color=#BDC100><b><size=130>OMEGA <color=#FDFF92>Ω</color> NATION</size></b></color>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:#BDC100;">&lt;b&gt;&lt;size=130&gt;OMEGA <span style="color:#FDFF92;">Ω</span> NATION&lt;/size&gt;&lt;/b&gt;</span>
+</div>
+
 ### [Discord](https://discord.gg/dnjPZnSfEP)
 ### Whitestar Bonus ❌
 

@@ -15,6 +15,11 @@ date: 1732739865
 ```
  Friendly casual corp. Our discord: discord.gg/nCabaKz
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Friendly casual corp. Our discord: discord.gg/nCabaKz
+</div>
+
 ### [Discord](https://discord.gg/nCabaKz)
 ### Whitestar Bonus ❌
 

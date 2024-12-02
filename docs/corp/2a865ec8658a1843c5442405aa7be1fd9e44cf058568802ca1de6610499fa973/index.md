@@ -15,6 +15,11 @@ date: 1710327537
 ```
  欢迎各位萌新加入此集团！可长时间留在这发展，没有要求，进集团给干事，可自行开白，可不打白，可长时间不上号，QQ群:637628041，不要给旗舰捐钱。
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+欢迎各位萌新加入此集团！可长时间留在这发展，没有要求，进集团给干事，可自行开白，可不打白，可长时间不上号，QQ群:637628041，不要给旗舰捐钱。
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

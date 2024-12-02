@@ -15,6 +15,11 @@ date: 1708438086
 ```
  join to chill, get help with red stars, or help us run white stars. discord required.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+join to chill, get help with red stars, or help us run white stars. discord required.
+</div>
+
 ### [Discord](https://discord.gg/https://discord.com/invite/zZf6cHbv)
 ### Whitestar Bonus ❌
 

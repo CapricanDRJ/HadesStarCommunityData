@@ -18,6 +18,14 @@ date: 1732720029
 <color=#e50>Get <color=#9ec>500 Crystals</color> every month!
 <color=#fb3>Bring your crew and join us for 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+&lt;size=120&gt;<span style="color:#813;">&lt;b&gt;RΣD <span style="color:#ddd;">DΛWN
+&lt;size=60&gt;<span style="color:#c23;">Red Star Event Rank #58
+<span style="color:#e50;">Get <span style="color:#9ec;">500 Crystals</span> every month!
+<span style="color:#fb3;">Bring your crew and join us for 
+</div>
+
 ### [Discord](https://discord.gg/HAUXPBta)
 ### Whitestar Bonus ✅
 

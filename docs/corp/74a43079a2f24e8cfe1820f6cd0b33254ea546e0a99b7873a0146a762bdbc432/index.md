@@ -15,6 +15,11 @@ date: 1725217707
 ```
  16.08.2024
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+16.08.2024
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

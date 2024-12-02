@@ -15,6 +15,11 @@ date: 1701248167
 ```
  trabajamos en las sombras para servir a la luz
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+trabajamos en las sombras para servir a la luz
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

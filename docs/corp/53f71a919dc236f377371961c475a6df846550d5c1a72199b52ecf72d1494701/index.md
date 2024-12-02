@@ -15,6 +15,11 @@ date: 1713714237
 ```
  Welcome all to the SOUTHERN ALLIANCE CORPORATION.... A handful of active players that communicate in English and looking to expand our Corporation. 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Welcome all to the SOUTHERN ALLIANCE CORPORATION.... A handful of active players that communicate in English and looking to expand our Corporation. 
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

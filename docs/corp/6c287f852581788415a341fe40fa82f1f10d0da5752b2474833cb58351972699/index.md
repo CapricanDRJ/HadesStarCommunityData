@@ -17,6 +17,13 @@ date: 1727192760
 出入り自由にしますのでRS、DRSに使ってくださいFlagship 1 Closed
 WS参加者募集中
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+現在ボーナス30％発動中（20240925まで）
+出入り自由にしますのでRS、DRSに使ってくださいFlagship 1 Closed
+WS参加者募集中
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

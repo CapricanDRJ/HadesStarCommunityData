@@ -17,6 +17,13 @@ date: 1709890357
 
 vk.com/kedr_sh
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Бурятия
+
+vk.com/kedr_sh
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -21,6 +21,17 @@ t.me/CorpSputnik
 Сюда заходить на кз для помощи.
 Телеграмм: t.me/soyuz_academy
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Корпорация СПУТНИК КЗ 7-11, БЗ
+Телеграмм обязательно, 
+t.me/CorpSputnik
+
+Для тех у кого кз ниже 7, прошу быть в корпорации СОЮЗ-Академия.
+Сюда заходить на кз для помощи.
+Телеграмм: t.me/soyuz_academy
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

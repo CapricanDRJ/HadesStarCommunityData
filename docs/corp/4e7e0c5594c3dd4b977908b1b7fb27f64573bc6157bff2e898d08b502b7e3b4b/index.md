@@ -15,6 +15,11 @@ date: 1710365404
 ```
  Nova Aliança PT
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Nova Aliança PT
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

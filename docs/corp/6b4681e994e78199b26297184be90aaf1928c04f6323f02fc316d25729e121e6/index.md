@@ -15,6 +15,11 @@ date: 1732689981
 ```
  <b>欢迎加入我们集团🎉期待与您创造更多的可能！也感谢您加入我们集团，让我们共同建设这片星河吧！打白请加101QQ群:515686743，谢谢！ 有移出的可以重新加入。
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+&lt;b&gt;欢迎加入我们集团🎉期待与您创造更多的可能！也感谢您加入我们集团，让我们共同建设这片星河吧！打白请加101QQ群:515686743，谢谢！ 有移出的可以重新加入。
+</div>
+
 ### [Discord](https://discord.gg/Sh82822)
 ### Whitestar Bonus ✅
 

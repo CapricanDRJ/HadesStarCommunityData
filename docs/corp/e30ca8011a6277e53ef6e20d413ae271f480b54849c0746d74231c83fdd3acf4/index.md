@@ -15,6 +15,11 @@ date: 1732915067
 ```
  Crecer principal objetivo        Leko:Join us we need active member                    
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Crecer principal objetivo        Leko:Join us we need active member                    
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

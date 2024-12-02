@@ -15,6 +15,11 @@ date: 1733044267
 ```
  🏦 PRETORIANS X. command.🌐*★°★*gral   Com.flexx/ ∆\ Maj L.(jraan)/∆\maj L(TT-2).(golden).∆ maj(wutta)/*/(//*//CapM (barro).(jhonny).2lt (sporg). 3lt bpdp)(demin).(flech).
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+🏦 PRETORIANS X. command.🌐*★°★*gral   Com.flexx/ ∆\ Maj L.(jraan)/∆\maj L(TT-2).(golden).∆ maj(wutta)/*/(//*//CapM (barro).(jhonny).2lt (sporg). 3lt bpdp)(demin).(flech).
+</div>
+
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

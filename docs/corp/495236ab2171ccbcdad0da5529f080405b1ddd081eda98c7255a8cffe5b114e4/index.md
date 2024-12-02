@@ -15,6 +15,11 @@ date: 1723743387
 ```
  Bienvenidos a Hades Star esperencias recomendaciones ayuda y mas 0 inactividad 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Bienvenidos a Hades Star esperencias recomendaciones ayuda y mas 0 inactividad 
+</div>
+
 ### [Discord](https://discord.gg/https://discord.gg/SpFjAqBR)
 ### Whitestar Bonus ❌
 

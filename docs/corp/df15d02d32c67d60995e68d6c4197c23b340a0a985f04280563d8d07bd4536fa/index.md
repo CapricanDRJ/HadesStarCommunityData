@@ -15,6 +15,11 @@ date: 1732840236
 ```
  14 дней неактив в игре — кик. 300+ мощь империи.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+14 дней неактив в игре — кик. 300+ мощь империи.
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

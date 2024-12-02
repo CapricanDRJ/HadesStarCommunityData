@@ -15,6 +15,11 @@ date: 1727526037
 ```
  Bienvenidos, somos una comunidad dedicada al crecimiento en conjunto y el apoyo. Ayudamos ER 1-8, comercio y próximamente EB.           Contacto: +57 3223620356          Alianza "AXOLOTLS"
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Bienvenidos, somos una comunidad dedicada al crecimiento en conjunto y el apoyo. Ayudamos ER 1-8, comercio y próximamente EB.           Contacto: +57 3223620356          Alianza "AXOLOTLS"
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

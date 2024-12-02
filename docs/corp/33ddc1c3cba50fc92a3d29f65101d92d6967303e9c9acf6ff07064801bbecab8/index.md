@@ -22,6 +22,18 @@ Peace is boring
 Teamwork makes the dream work,
 Discord Required - R8nzDPk
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+We are the Dragons of Destiny 
+
+A corporation that works together for the benefit of all its members
+
+Peace is boring
+
+Teamwork makes the dream work,
+Discord Required - R8nzDPk
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

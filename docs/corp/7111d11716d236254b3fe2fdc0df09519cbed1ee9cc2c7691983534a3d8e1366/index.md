@@ -24,6 +24,20 @@ https://discord.gg/M35HmhvmC2
 
 Mitglied der Tartaros Armada 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Hilfe und Rat
+Spaß im Vordergrund
+Entspanntes Miteinander
+Keine Ich AG
+Familientauglich
+Aktive WZler Willkommen
+Discord nur für WZ Pflicht
+https://discord.gg/M35HmhvmC2
+
+Mitglied der Tartaros Armada 
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

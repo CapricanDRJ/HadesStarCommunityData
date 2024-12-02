@@ -18,6 +18,14 @@ date: 1732608552
 <size=48><color=#76aabf>Cᴏɴsᴏʀᴛɪᴜᴍ ᴏғ Mɪɴᴇʀs ᴀɴᴅ Sᴄɪᴇɴᴛɪsᴛs
 <size=73><color=#666>RESISTENTIA IMPLACABILIS
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+&lt;b&gt;&lt;size=92&gt;<span style="color:#9fe5ff;">💫 STONE LEGION 💫&lt;/b&gt;
+<span style="color:#fff;">The Legion wants you!
+&lt;size=48&gt;<span style="color:#76aabf;">Cᴏɴsᴏʀᴛɪᴜᴍ ᴏғ Mɪɴᴇʀs ᴀɴᴅ Sᴄɪᴇɴᴛɪsᴛs
+&lt;size=73&gt;<span style="color:#666;">RESISTENTIA IMPLACABILIS
+</div>
+
 ### [Discord](https://discord.gg/SZYbjxJSf3)
 ### Whitestar Bonus ✅
 

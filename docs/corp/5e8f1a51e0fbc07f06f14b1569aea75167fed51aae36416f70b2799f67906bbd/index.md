@@ -15,6 +15,11 @@ date: 1731245191
 ```
  Must participate in corporation. Must join EITHER private rs OR ws.  discord link below 👇
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Must participate in corporation. Must join EITHER private rs OR ws.  discord link below 👇
+</div>
+
 ### [Discord](https://discord.gg/m9zTTQnGQX)
 ### Whitestar Bonus ❌
 

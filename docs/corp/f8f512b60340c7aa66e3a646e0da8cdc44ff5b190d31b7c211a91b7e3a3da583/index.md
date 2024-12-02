@@ -15,6 +15,11 @@ date: 1726442538
 ```
  Confédération francophone, Notre équipe conviviale a pour but de progresser ensemble et de s'entraider, pour le reste... Pirates! Forum: pirates-hades.xoo.it
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Confédération francophone, Notre équipe conviviale a pour but de progresser ensemble et de s'entraider, pour le reste... Pirates! Forum: pirates-hades.xoo.it
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -21,6 +21,17 @@ date: 1702928532
 
 Join Discord here: <b>EEpZuWf</b>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:#40FECB;">Member corporation of the &lt;b&gt;Spacefleet Alliance&lt;/b&gt;</span>
+
+• Coordinated &lt;b&gt;RS 1-5&lt;/b&gt;
+• First time WS players welcome
+• Activity is required
+
+Join Discord here: &lt;b&gt;EEpZuWf&lt;/b&gt;
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

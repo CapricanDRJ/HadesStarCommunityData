@@ -23,6 +23,19 @@ date: 1723897846
 QQ群号：742063070
 <color=yellow>*群内有教程，加入享有更多福利</color>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:white;">我们是&lt;size=67&gt;&lt;b&gt;地球联合&lt;/b&gt;&lt;/size&gt;集团的主盟
+新人可以前往水星联合和火星联合发展~</span>
+
+<span style="color:orange;">⚛︎萌新运输舰达到8t可领取15r6神器
+⚛︎集团有免费矿场随时供应
+⚛︎还有交易折扣等福利</span>
+
+QQ群号：742063070
+<span style="color:yellow;">*群内有教程，加入享有更多福利</span>
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -17,6 +17,13 @@ date: 1731994401
 
 --------- We are Active in Dark Nebula ---------
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Renowned Interstellar Killers... We Are Life-Takers & Heartbreakers... We’ll Shoot You Full Of Holes & Fill You Full Of Lead... &lt;b&gt;FOR SPARTA...&lt;/b&gt; 
+
+--------- We are Active in Dark Nebula ---------
+</div>
+
 ### [Discord](https://discord.gg/YHtMuQK)
 ### Whitestar Bonus ❌
 

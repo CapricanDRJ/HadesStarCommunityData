@@ -15,6 +15,11 @@ date: 1713545933
 ```
  https://t.me/+DHUj70egD4s0MGUy
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+https://t.me/+DHUj70egD4s0MGUy
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

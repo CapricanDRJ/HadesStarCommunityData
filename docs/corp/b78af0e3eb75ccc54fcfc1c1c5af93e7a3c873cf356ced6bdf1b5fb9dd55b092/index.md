@@ -15,6 +15,11 @@ date: 1728573306
 ```
  Приветствуем активных игроков! Принцип взаимоуважения, помощь в развитии, телеграмм Belizarr
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Приветствуем активных игроков! Принцип взаимоуважения, помощь в развитии, телеграмм Belizarr
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

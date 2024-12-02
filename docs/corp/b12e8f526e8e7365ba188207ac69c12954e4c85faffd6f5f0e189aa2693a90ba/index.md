@@ -21,6 +21,17 @@ Se amable con los demás y diviértete
 
 Alianza Axolotls
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Bienvenido a Last Chance, una gran familia que cada vez crece más ¡Anímate a unirte!
+
+Tenemos Grupo de WhatsApp, si necesitas ayuda manda mj
+
+Se amable con los demás y diviértete
+
+Alianza Axolotls
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

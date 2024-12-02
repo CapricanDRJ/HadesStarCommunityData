@@ -15,6 +15,11 @@ date: 1701516567
 ```
  Looking for active players with personality. We have a Discord server with no mandatory participation.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Looking for active players with personality. We have a Discord server with no mandatory participation.
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

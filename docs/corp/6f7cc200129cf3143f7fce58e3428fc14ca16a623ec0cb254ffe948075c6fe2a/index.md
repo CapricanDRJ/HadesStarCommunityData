@@ -15,6 +15,11 @@ date: 1703087815
 ```
  International corporation with some story behind, learning "Dark Nebula", while trying to stay alive.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+International corporation with some story behind, learning "Dark Nebula", while trying to stay alive.
+</div>
+
 ### [Discord](https://discord.gg/vgrCTD337x)
 ### Whitestar Bonus ❌
 

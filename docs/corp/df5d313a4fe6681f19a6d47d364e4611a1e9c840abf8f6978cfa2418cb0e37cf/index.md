@@ -15,6 +15,11 @@ date: 1705705257
 ```
  The lowest inactive member will be kicked out of corporation when a new member is joined.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+The lowest inactive member will be kicked out of corporation when a new member is joined.
+</div>
+
 ### [Discord](https://discord.gg/WpMYj74cJp)
 ### Whitestar Bonus ❌
 

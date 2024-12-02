@@ -19,6 +19,15 @@ English speaking
 We do private rs
 Inactive players will be kicked out
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+REQUIREMENTS:
+Active white star players
+English speaking
+We do private rs
+Inactive players will be kicked out
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

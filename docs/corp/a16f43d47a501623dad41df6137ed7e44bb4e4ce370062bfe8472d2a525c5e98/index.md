@@ -15,6 +15,11 @@ date: 1708244864
 ```
  Вітаю. Слааа Україні! Героям Слава! Окупантам тут не місце..
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Вітаю. Слааа Україні! Героям Слава! Окупантам тут не місце..
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

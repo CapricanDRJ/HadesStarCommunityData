@@ -21,6 +21,17 @@ We welcome all players no matter what level!
 
 Discord:<color=#3c78d8>pECD6CY</color>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:red;">&lt;size=90&gt;Join us now!&lt;/size&gt;</span>
+We welcome all players no matter what level!
+
+☞ corp for beginners 
+☞ WS takes place in the Nooooobs corp 
+
+Discord:<span style="color:#3c78d8;">pECD6CY</span>
+</div>
+
 ### [Discord](https://discord.gg/pECD6CY)
 ### Whitestar Bonus ❌
 

@@ -17,6 +17,13 @@ date: 1703316525
 Jeder ist willkommen, permanent WZ, RR's und Support.
 Traut euch... bewirb dich noch heute 🖖🏻
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+"Werde Teil einer außergewöhnlichen Mannschaft"
+Jeder ist willkommen, permanent WZ, RR's und Support.
+Traut euch... bewirb dich noch heute 🖖🏻
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

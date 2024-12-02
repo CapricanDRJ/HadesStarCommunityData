@@ -15,6 +15,11 @@ date: 1732674960
 ```
  DRS 8 Daily by @Tensible. Any levels are welcome and we actively do White Stars. We will also entertain any questions about the game, share strategies, and give out advice.        -  Tensible
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+DRS 8 Daily by @Tensible. Any levels are welcome and we actively do White Stars. We will also entertain any questions about the game, share strategies, and give out advice.        -  Tensible
+</div>
+
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

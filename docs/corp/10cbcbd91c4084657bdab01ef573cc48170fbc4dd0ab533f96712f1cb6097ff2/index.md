@@ -15,6 +15,11 @@ date: 1732884106
 ```
   Добро пожаловать! Открыты всем. Дата основания 09.06.22. Ссылка на гостевой чат в ТГ https://t.me/Date_Samurai_HS
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+ Добро пожаловать! Открыты всем. Дата основания 09.06.22. Ссылка на гостевой чат в ТГ https://t.me/Date_Samurai_HS
+</div>
+
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

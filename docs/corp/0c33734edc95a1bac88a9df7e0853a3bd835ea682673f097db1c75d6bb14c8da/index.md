@@ -20,6 +20,16 @@ A highly cooperative and competitive organization, bent on building the most eli
 discord obligatory
 https://discord.gg/bAAYCqG2cE
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+IA1
+
+A highly cooperative and competitive organization, bent on building the most elite force and the conquest of the known and unknown galaxy
+
+discord obligatory
+https://discord.gg/bAAYCqG2cE
+</div>
+
 ### [Discord](https://discord.gg/bAAYCqG2cE)
 ### Whitestar Bonus ❌
 

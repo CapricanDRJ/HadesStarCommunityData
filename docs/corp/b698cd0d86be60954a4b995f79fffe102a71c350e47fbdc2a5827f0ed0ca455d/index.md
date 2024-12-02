@@ -15,6 +15,11 @@ date: 1732969147
 ```
  Allies of Omega Alpha & The Watchers<br><br>・Open for RS: 52% (closed during WS scans)<br>・Donations open for FS1<br>・Please leave corp after guesting RS runs<br><br>Discord mandatory to join!
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Allies of Omega Alpha & The Watchers&lt;br&gt;&lt;br&gt;・Open for RS: 52% (closed during WS scans)&lt;br&gt;・Donations open for FS1&lt;br&gt;・Please leave corp after guesting RS runs&lt;br&gt;&lt;br&gt;Discord mandatory to join!
+</div>
+
 ### [Discord](https://discord.gg/sXxSq4KUmm)
 ### Whitestar Bonus ✅
 

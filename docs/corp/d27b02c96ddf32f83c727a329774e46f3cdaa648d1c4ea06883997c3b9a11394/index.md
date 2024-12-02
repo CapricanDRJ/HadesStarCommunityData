@@ -15,6 +15,11 @@ date: 1703858281
 ```
  Добро пожаловать в <color=white>КВАЗАР</color>! корпорация,затмевающая своим светом все грани тёмной материи || белые звёзда по пятницам
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Добро пожаловать в <span style="color:white;">КВАЗАР</span>! корпорация,затмевающая своим светом все грани тёмной материи || белые звёзда по пятницам
+</div>
+
 ### [Discord](https://discord.gg/https://discord.com/invite/cQeTUP2e4b)
 ### Whitestar Bonus ❌
 

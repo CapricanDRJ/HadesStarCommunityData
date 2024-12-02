@@ -15,6 +15,11 @@ date: 1732637099
 ```
  <size=50>2024.10.29<color=purple>     星星栖息的故乡<size=60><color=white>                      欢迎加入，本团为北极星联盟成员团  不定期送神器</color>  盟团：墨痕 <color=red>        勿捐旗舰         <color=white>    QQ: 914778570
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+&lt;size=50&gt;2024.10.29<span style="color:purple;">     星星栖息的故乡&lt;size=60&gt;<span style="color:white;">                      欢迎加入，本团为北极星联盟成员团  不定期送神器</span>  盟团：墨痕 <span style="color:red;">        勿捐旗舰         <span style="color:white;">    QQ: 914778570
+</div>
+
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

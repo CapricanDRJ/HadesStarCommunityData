@@ -20,6 +20,16 @@ White stars occasionally too.
 Our more active members can be found in this discord
 Discord: <B>EEpZuWf</B>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+A holding corp for alts and travelers
+
+White stars occasionally too.
+
+Our more active members can be found in this discord
+Discord: &lt;B&gt;EEpZuWf&lt;/B&gt;
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

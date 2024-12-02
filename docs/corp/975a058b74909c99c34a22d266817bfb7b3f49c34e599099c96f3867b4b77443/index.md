@@ -16,6 +16,12 @@ date: 1712762885
  A friendly group dedicated to working together to advance in this game. 
 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+A friendly group dedicated to working together to advance in this game. 
+
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

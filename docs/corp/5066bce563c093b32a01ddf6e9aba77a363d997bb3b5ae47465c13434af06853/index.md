@@ -18,6 +18,14 @@ Conglomérat:G&B
 Corp:Bien Suprême/Guilde Richnou
 discord: 4BhWJjk
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Chevalier de l'espace,rejoins nous dans la conquête de la galaxie d'Hadès. Entraide,tuto et bonne humeur. Ws régulière.Rs6-&gt;Rs10
+Conglomérat:G&B
+Corp:Bien Suprême/Guilde Richnou
+discord: 4BhWJjk
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

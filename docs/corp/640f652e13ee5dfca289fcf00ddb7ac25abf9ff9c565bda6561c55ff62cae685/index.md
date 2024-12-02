@@ -15,6 +15,11 @@ date: 1732027094
 ```
  只是一个人的团      QQ群号:763374930 这个团是我一个人的团，或许曾经有一群人不过现在退游了两
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+只是一个人的团      QQ群号:763374930 这个团是我一个人的团，或许曾经有一群人不过现在退游了两
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

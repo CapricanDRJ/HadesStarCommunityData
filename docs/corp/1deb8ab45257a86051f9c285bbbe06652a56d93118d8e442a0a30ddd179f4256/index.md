@@ -24,6 +24,20 @@ date: 1732847239
 集团水群1023756986(qq)
 https://discord.gg/fAejNbTH
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+欢迎萌新或大佬来到，这里没有欺骗，没有狡诈，只有诚信，只是帮助
+本盟会帮助萌新打红，目前集中打白星
+注：因不活跃被踢出的玩家会收到邀请
+首位提出建立本集团的是：离歌浅唱洛神殇
+首位进入本集团的是：Thane
+第二名进入本集团的是：风待葬
+第三名进入本集团的是：快手植治
+第一分团：星际联盟-额外统治区
+集团水群1023756986(qq)
+https://discord.gg/fAejNbTH
+</div>
+
 ### [Discord](https://discord.gg/AKnA5maMnG)
 ### Whitestar Bonus ✅
 

@@ -15,6 +15,11 @@ date: 1714273340
 ```
  The Academy to Sith Empire | Join us on Discord | Recruiting Active Players For White Star | All Red Star Levels Welcome Here | € -> FS1
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+The Academy to Sith Empire | Join us on Discord | Recruiting Active Players For White Star | All Red Star Levels Welcome Here | € -&gt; FS1
+</div>
+
 ### [Discord](https://discord.gg/R6sJCw2)
 ### Whitestar Bonus ❌
 

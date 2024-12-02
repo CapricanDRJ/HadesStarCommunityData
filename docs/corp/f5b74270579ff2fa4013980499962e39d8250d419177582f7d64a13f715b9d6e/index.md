@@ -15,6 +15,11 @@ date: 1718682796
 ```
  新手联邦旗下分团  用于红活  QQ号同初始之音，新手联邦经济开发区。
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+新手联邦旗下分团  用于红活  QQ号同初始之音，新手联邦经济开发区。
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

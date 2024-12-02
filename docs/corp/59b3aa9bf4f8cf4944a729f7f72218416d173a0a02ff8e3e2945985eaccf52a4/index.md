@@ -15,6 +15,11 @@ date: 1707434106
 ```
  we strive to be the best  follow us on www.facebook.com/AnarchyG13. whitestar or kick
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+we strive to be the best  follow us on www.facebook.com/AnarchyG13. whitestar or kick
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

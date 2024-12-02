@@ -15,6 +15,11 @@ date: 1722619785
 ```
  Home to all as long as you are willing to contribute to our growth 🤝
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Home to all as long as you are willing to contribute to our growth 🤝
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

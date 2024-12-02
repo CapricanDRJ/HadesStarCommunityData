@@ -15,6 +15,11 @@ date: 1707429599
 ```
  spreading bloodborne's positive vibes
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+spreading bloodborne's positive vibes
+</div>
+
 ### [Discord](https://discord.gg/XZ9FWsd)
 ### Whitestar Bonus ❌
 

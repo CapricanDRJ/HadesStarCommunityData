@@ -15,6 +15,11 @@ date: 1716847439
 ```
  All are welcome.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+All are welcome.
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

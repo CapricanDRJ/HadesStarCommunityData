@@ -15,6 +15,11 @@ date: 1732831222
 ```
  Язык общения в корпорации - русский. Есть свой чат в тг. частые походы в бз,помощь с кз и артефактами
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Язык общения в корпорации - русский. Есть свой чат в тг. частые походы в бз,помощь с кз и артефактами
+</div>
+
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

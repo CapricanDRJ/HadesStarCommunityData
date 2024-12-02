@@ -20,6 +20,16 @@ Part of Red Star Raiders alliance
 
 https://discord.gg/nUgqhbn
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Friendly, laid back, English speaking corp.
+Regular white stars.
+
+Part of Red Star Raiders alliance
+
+https://discord.gg/nUgqhbn
+</div>
+
 ### [Discord](https://discord.gg/nUgqhbn)
 ### Whitestar Bonus ❌
 

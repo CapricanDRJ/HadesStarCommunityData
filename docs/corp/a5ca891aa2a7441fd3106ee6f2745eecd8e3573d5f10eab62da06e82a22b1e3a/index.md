@@ -16,6 +16,12 @@ date: 1709604001
   我们都要成为生活的高手
 欢迎新朋友过来玩
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+ 我们都要成为生活的高手
+欢迎新朋友过来玩
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

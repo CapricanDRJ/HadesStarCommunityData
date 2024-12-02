@@ -15,6 +15,11 @@ date: 1718909844
 ```
  fuck you spy
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+fuck you spy
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

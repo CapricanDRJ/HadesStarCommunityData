@@ -15,6 +15,11 @@ date: 1732619367
 ```
  Daily red star runs, weekly white star runs, and occasional corporation events. No alts.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Daily red star runs, weekly white star runs, and occasional corporation events. No alts.
+</div>
+
 ### [Discord](https://discord.gg/zVyGtnjRyy)
 ### Whitestar Bonus ❌
 

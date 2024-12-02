@@ -15,6 +15,11 @@ date: 1703271448
 ```
  Laid back corp for people with day jobs. Resistence is futile.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Laid back corp for people with day jobs. Resistence is futile.
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

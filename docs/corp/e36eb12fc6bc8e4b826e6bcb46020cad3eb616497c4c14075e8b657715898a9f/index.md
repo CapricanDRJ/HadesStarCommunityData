@@ -15,6 +15,11 @@ date: 1732884106
 ```
  Lost in Space...? Dann komm zu uns! 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Lost in Space...? Dann komm zu uns! 
+</div>
+
 ### [Discord](https://discord.gg/qZFjFeg5wP)
 ### Whitestar Bonus ❌
 

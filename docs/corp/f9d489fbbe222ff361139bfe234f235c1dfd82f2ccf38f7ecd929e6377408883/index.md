@@ -15,6 +15,11 @@ date: 1705463338
 ```
  Политические темы офф. 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Политические темы офф. 
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

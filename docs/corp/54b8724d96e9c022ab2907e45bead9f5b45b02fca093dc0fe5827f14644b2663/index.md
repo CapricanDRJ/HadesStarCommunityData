@@ -26,6 +26,22 @@ Max period of inactivity: 3 days.
 
 English only.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+&lt;b&gt;IA2&lt;/b&gt;
+
+Second Fleet of the
+&lt;size=60&gt;IMPERIAL ARMADA&lt;/size&gt;
+
+Discord mandatory.
+24 hours to join.
+<span style="color:orange;">discord.gg/bAAYCqG2cE</span>
+
+Max period of inactivity: 3 days.
+
+English only.
+</div>
+
 ### [Discord](https://discord.gg/https://discord.gg/bAAYCqG2cE)
 ### Whitestar Bonus ❌
 

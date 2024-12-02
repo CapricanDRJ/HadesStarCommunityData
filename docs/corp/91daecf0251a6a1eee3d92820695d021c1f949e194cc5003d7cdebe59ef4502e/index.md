@@ -18,6 +18,14 @@ But there is not more of it in DN now...
 
 https://discord.gg/fCsvae5yXv
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+ForWSyielders: Looking for best yield in credit/ws point.
+But there is not more of it in DN now...
+
+https://discord.gg/fCsvae5yXv
+</div>
+
 ### [Discord](https://discord.gg/fCsvae5yXv)
 ### Whitestar Bonus ❌
 

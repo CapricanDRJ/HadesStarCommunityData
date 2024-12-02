@@ -21,6 +21,17 @@ date: 1708606362
 <a>○私人不拉截擊
 ○公共 公屏 外群隨便鬧我們都不管。</a>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:cyan;">&lt;size=99&gt;E.T.A溫泉開放&lt;/size&gt;</span>
+群聊可有可無:<span style="color:green;">587560494</span>
+&lt;b&gt;黑色長城&lt;/b&gt;&lt;size=20&gt;萌新加這個&lt;/size&gt;:<span style="color:green;">456873704</span>
+攻略放在群裡，萌新不懂可以問
+村規:
+&lt;a&gt;○私人不拉截擊
+○公共 公屏 外群隨便鬧我們都不管。&lt;/a&gt;
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -15,6 +15,11 @@ date: 1700408082
 ```
  Easy going fun. Must be active, respectful and enjoy a laugh. Over 20 years old only. 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Easy going fun. Must be active, respectful and enjoy a laugh. Over 20 years old only. 
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

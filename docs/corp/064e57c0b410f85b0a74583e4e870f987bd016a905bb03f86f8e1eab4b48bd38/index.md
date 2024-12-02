@@ -16,6 +16,12 @@ date: 1700618828
  Copyright (c) 2017. All rights reversed.
 Glory to Ukraine!
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Copyright (c) 2017. All rights reversed.
+Glory to Ukraine!
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

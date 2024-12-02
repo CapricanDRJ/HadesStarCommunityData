@@ -20,6 +20,16 @@ Una EB tras otra</size>
 RS: WhatsApp
 Alianza Axolotls</i></color></b>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+&lt;b&gt;<span style="color:white;">&lt;size=90&gt;<span style="color:yellow;">Séptimo Círculo™</span>&lt;/size&gt;
+&lt;i&gt;&lt;size=70&gt;<span style="color:red;">ER1 - ER9</span>
+Una EB tras otra&lt;/size&gt;
+
+RS: WhatsApp
+Alianza Axolotls&lt;/i&gt;</span>&lt;/b&gt;
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

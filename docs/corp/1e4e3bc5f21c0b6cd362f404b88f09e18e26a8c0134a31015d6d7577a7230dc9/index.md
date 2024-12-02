@@ -15,6 +15,11 @@ date: 1733036935
 ```
  Ищем активных игроков на БЗ. Артами не кормим, учим добывать. Играем КЗ, МКЗ. Заходим здароваемся😉.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Ищем активных игроков на БЗ. Артами не кормим, учим добывать. Играем КЗ, МКЗ. Заходим здароваемся😉.
+</div>
+
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

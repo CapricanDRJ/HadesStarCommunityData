@@ -22,6 +22,18 @@ date: 1732941505
 - Помощь артефактами
 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+ОБЯЗАТЕЛЬНЫЕ условия:
+- Наличие дискорда https://discord.gg/s7nmhGXugM
+- КЗ 6 и выше
+- Участие в походах на БЗ 
+- Общительность 
+- Совместные КЗ 
+- Помощь артефактами
+
+</div>
+
 ### [Discord](https://discord.gg/s7nmhGXugM)
 ### Whitestar Bonus ✅
 

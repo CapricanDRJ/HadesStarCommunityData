@@ -15,6 +15,11 @@ date: 1708707938
 ```
  Lasst euch vom Nordstern leiten!  
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Lasst euch vom Nordstern leiten!  
+</div>
+
 ### [Discord](https://discord.gg/26zvmzND8z)
 ### Whitestar Bonus ❌
 

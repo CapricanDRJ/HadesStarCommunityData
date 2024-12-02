@@ -15,6 +15,11 @@ date: 1731180289
 ```
  Окупаційна Адміністрація Імперії Борос
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Окупаційна Адміністрація Імперії Борос
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

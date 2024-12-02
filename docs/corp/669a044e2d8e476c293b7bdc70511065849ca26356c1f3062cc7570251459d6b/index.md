@@ -16,6 +16,12 @@ date: 1730511060
  Zapraszamy aktywnych graczy. Razem zdobędziemy cały kosmos! ;)
 Używamy discord do komunikacji: https://discord.gg/qgHRcwP
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Zapraszamy aktywnych graczy. Razem zdobędziemy cały kosmos! ;)
+Używamy discord do komunikacji: https://discord.gg/qgHRcwP
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

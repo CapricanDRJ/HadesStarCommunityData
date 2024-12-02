@@ -15,6 +15,11 @@ date: 1732320093
 ```
  A place for people to enjoy the game, to just play. Live to fight for one purpose, for tomorrow, together, how it should be. In alliance with the Titans of Terror. 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+A place for people to enjoy the game, to just play. Live to fight for one purpose, for tomorrow, together, how it should be. In alliance with the Titans of Terror. 
+</div>
+
 ### [Discord](https://discord.gg/2HZBvzmbtx)
 ### Whitestar Bonus ❌
 

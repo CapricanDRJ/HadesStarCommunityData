@@ -19,6 +19,15 @@ Jeder Spieler ist willkommen:)
 Auf geht's!!
 (Line ID: Baraethelion)
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Der Sternenbund sucht neue Verbündete! Tretet bei und baut zusammen eine neue Community auf!
+Jeder Spieler ist willkommen:)
+
+Auf geht's!!
+(Line ID: Baraethelion)
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

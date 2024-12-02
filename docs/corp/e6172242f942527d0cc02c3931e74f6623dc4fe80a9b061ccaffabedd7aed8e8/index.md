@@ -17,6 +17,13 @@ date: 1708050438
 Estamos recrutando membros ativos.
 Inatividade é punível com expulsão.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Uma corporação focada no crescimento dos iniciantes
+Estamos recrutando membros ativos.
+Inatividade é punível com expulsão.
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

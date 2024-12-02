@@ -15,6 +15,11 @@ date: 1722382956
 ```
  本团已废弃...剩余人员请转移至<color=yellow>梨山养老院</color>,谢谢
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+本团已废弃...剩余人员请转移至<span style="color:yellow;">梨山养老院</span>,谢谢
+</div>
+
 ### [Discord](https://discord.gg/没有)
 ### Whitestar Bonus ❌
 

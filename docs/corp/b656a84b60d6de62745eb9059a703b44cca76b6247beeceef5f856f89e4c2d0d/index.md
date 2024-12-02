@@ -17,6 +17,13 @@ date: 1715188047
 
 Discord - https://discord.gg/ZUeGK83 (optional, not required)
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Following  the learning curve. Active participation is expected. Please turn off your White Star scanner if not participating
+
+Discord - https://discord.gg/ZUeGK83 (optional, not required)
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

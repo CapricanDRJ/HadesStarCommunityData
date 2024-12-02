@@ -15,6 +15,11 @@ date: 1702678179
 ```
  Svensk Corp. Väldigt aktiv med trevlig stämning. Söker medlemmar som vill hjälpa till att vinna white stars!
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Svensk Corp. Väldigt aktiv med trevlig stämning. Söker medlemmar som vill hjälpa till att vinna white stars!
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

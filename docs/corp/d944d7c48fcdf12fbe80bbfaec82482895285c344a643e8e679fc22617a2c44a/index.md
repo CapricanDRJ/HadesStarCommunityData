@@ -15,6 +15,11 @@ date: 1719570374
 ```
  Buka's secret hideout
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Buka's secret hideout
+</div>
+
 ### [Discord](https://discord.gg/united-industries-of-hades-407365945376374795)
 ### Whitestar Bonus ❌
 

@@ -18,6 +18,14 @@ date: 1725453598
 • “Line” app for chat is helpful to better communicate w/ leaders
 • Kicks are likely after a week of inactivity, w/out prior notice
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+• New/Unexperienced players welcome.
+• Active players, only please.
+• “Line” app for chat is helpful to better communicate w/ leaders
+• Kicks are likely after a week of inactivity, w/out prior notice
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -15,6 +15,11 @@ date: 1723740983
 ```
  <color=red>欢迎炸钱的大哥来集团捐钱</color>一槽白星席位稳定Make Apocalypse Great Again!!!
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:red;">欢迎炸钱的大哥来集团捐钱</span>一槽白星席位稳定Make Apocalypse Great Again!!!
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

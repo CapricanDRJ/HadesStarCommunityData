@@ -23,6 +23,19 @@ WS leaders: jwoods90 / ScTruF
 
 W/D/L - 60/1/2 </color>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:yellow;">We are the Dacia Mafia
+
+Chill corp for active players wishing to develop in the game and have fun
+
+Discord: 6P5MxXBNFW
+
+WS leaders: jwoods90 / ScTruF
+
+W/D/L - 60/1/2 </span>
+</div>
+
 ### [Discord](https://discord.gg/6P5MxXBNFW)
 ### Whitestar Bonus ❌
 

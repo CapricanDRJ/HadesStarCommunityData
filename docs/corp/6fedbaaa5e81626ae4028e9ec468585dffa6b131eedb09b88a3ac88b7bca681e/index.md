@@ -15,6 +15,11 @@ date: 1718363340
 ```
  48% bonus drop a tip on our flagship. Much appreciated. We are active and social WS corp, join only if you are interested in WS. Discord is required within 24 hours of joining.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+48% bonus drop a tip on our flagship. Much appreciated. We are active and social WS corp, join only if you are interested in WS. Discord is required within 24 hours of joining.
+</div>
+
 ### [Discord](https://discord.gg/bZRPCqGtvq)
 ### Whitestar Bonus ❌
 

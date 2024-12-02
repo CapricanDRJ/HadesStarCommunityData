@@ -15,6 +15,11 @@ date: 1728148067
 ```
  A friendly corp recommended for lower levels. we help eachother out and do white stars
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+A friendly corp recommended for lower levels. we help eachother out and do white stars
+</div>
+
 ### [Discord](https://discord.gg/GeUuDDSH)
 ### Whitestar Bonus ❌
 

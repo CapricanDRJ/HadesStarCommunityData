@@ -19,6 +19,15 @@ date: 1732941505
 月球白星群  :916418678（常驻在这报道，每周一次白在这报名）
 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+这里是星舰地球直辖分盟，培养r7-r10的玩家，在这里大家可以探讨黄星商业运营，磨练红星作战技巧，试水白星团队协作。
+
+星舰地球Q群:858649848 
+月球白星群  :916418678（常驻在这报道，每周一次白在这报名）
+
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

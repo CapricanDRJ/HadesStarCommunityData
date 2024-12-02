@@ -17,6 +17,13 @@ date: 1718644633
 discord:
 https://discord.gg/3PDKPau
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Que la fuerza te acompañe
+discord:
+https://discord.gg/3PDKPau
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

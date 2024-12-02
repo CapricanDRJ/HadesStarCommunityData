@@ -19,6 +19,15 @@ Bercerai ya kawin lagi.
 Discord :
 <color=orange>https://discord.gg/MCDb2Mt</color>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Bersatu kita teguh,
+Bercerai ya kawin lagi.
+
+Discord :
+<span style="color:orange;">https://discord.gg/MCDb2Mt</span>
+</div>
+
 ### [Discord](https://discord.gg/https://discord.gg/2yTUSx2x)
 ### Whitestar Bonus ❌
 

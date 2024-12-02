@@ -17,6 +17,13 @@ date: 1732523514
 На базе корпорации RUS проводится ивент сборной командой с участием игроков ру-сегмента. Присоединяйся 👉
 https://t.me/RSeventHS
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:#72bf47;">&lt;b&gt;RS EVENT RANK 2&lt;/b&gt;</span>
+На базе корпорации RUS проводится ивент сборной командой с участием игроков ру-сегмента. Присоединяйся 👉
+https://t.me/RSeventHS
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

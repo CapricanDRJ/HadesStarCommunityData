@@ -17,6 +17,13 @@ date: 1703938816
 
 Join us on Discord: https://discord.gg/RvMW8DejVJ
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Open to all. Take what you need. Leave some for others. Help when you can.  We are interested in peaceful white stars when possible.
+
+Join us on Discord: https://discord.gg/RvMW8DejVJ
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -17,6 +17,13 @@ date: 1732935796
 <color=red>◆祝各位早日R12!!!</color></size>
 <color=yellow>◆</color>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+&lt;size=50&gt;◆◆◆◆◆◆◆◆</span>
+<span style="color:red;">◆祝各位早日R12!!!</span>&lt;/size&gt;
+<span style="color:yellow;">◆</span>
+</div>
+
 ### [Discord](https://discord.gg/U7S2BaueGU)
 ### Whitestar Bonus ❌
 

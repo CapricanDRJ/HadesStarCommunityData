@@ -18,6 +18,14 @@ date: 1702798749
 Discord:
 https://discord.gg/Mvy7Myx
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Titan Inc. ist Teil der Titan Corporation. Der Fokus liegt hier auf Anfängerfreundlichkeit und der Etablierung einer familiären Spielergemeinschaft.
+
+Discord:
+https://discord.gg/Mvy7Myx
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

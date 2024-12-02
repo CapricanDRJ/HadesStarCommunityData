@@ -15,6 +15,11 @@ date: 1732961033
 ```
  Welcome to the R1 IMPERIUM,hq of the Empire and sister corp of ROGUE ONE, Join the Imperial Armada and we shall Burn our Enemies in glorious and Righteous Fury! ws every week,
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Welcome to the R1 IMPERIUM,hq of the Empire and sister corp of ROGUE ONE, Join the Imperial Armada and we shall Burn our Enemies in glorious and Righteous Fury! ws every week,
+</div>
+
 ### [Discord](https://discord.gg/PY7xzmc7nm)
 ### Whitestar Bonus ✅
 

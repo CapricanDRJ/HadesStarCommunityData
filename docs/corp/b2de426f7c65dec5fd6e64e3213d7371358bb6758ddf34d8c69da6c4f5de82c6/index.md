@@ -15,6 +15,11 @@ date: 1733062898
 ```
  Magyarok ide. A szabályok egyszerűek: napi aktivitás, segítsd a társaidat. WS-ezés feltétele a discord.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Magyarok ide. A szabályok egyszerűek: napi aktivitás, segítsd a társaidat. WS-ezés feltétele a discord.
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

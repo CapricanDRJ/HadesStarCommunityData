@@ -22,6 +22,18 @@ date: 1711701595
 
 no i fajnie no i cześć  ^^ witamy!
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Bób, humus, włoszczyzna... BLOK EKIPA
+
+-Zabawy na ws
+-Pomagamy sobie wzajemnie
+-Brak spin , nie spamimy
+-Pomoc początkującym
+
+no i fajnie no i cześć  ^^ witamy!
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

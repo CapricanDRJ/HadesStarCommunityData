@@ -24,6 +24,20 @@ date: 1733142524
 欢迎你的加入！
 Q群：993612413
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+欢迎萌新大佬，不定时发福利，不定时开白（分团：星约组织基地分团）
+团长：星约联盟(周五及周末在线)
+请各自发展，要神器请找星约联盟！
+本团为普罗旗下编制
+星际公约：
+互帮互助，和谐共处。
+活跃打白，帮助国人。
+星海灿烂，星约永恒
+欢迎你的加入！
+Q群：993612413
+</div>
+
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

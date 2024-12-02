@@ -15,6 +15,11 @@ date: 1701262893
 ```
  NOTE: the primary active members of this corporation have relocated to Proyectcorp. If you are looking to learn the game please join that corporation. 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+NOTE: the primary active members of this corporation have relocated to Proyectcorp. If you are looking to learn the game please join that corporation. 
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

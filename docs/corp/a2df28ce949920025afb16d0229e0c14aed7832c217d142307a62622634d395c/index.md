@@ -15,6 +15,11 @@ date: 1724677169
 ```
  Welcome to the Elite!we do Red Star 3 and above, and White Stars when we have enough participants DISCORD MANDATORY!!!!
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Welcome to the Elite!we do Red Star 3 and above, and White Stars when we have enough participants DISCORD MANDATORY!!!!
+</div>
+
 ### [Discord](https://discord.gg/https://discord.gg/w47dbC4qZM)
 ### Whitestar Bonus ❌
 

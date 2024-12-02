@@ -15,6 +15,11 @@ date: 1705194382
 ```
  All who join are looking to become legend.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+All who join are looking to become legend.
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -19,6 +19,15 @@ Weekly white star.
 Discord Mandatory.
 <color=#FF0000>discord.gg/JsmNexdvXv</color>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+&lt;b&gt;&lt;size=99&gt;<span style="color:#990000;">Blood Brigade</span>&lt;/size&gt;&lt;/b&gt;
+is a friendly corp with a relaxed atmosphere.
+Weekly white star.
+Discord Mandatory.
+<span style="color:#FF0000;">discord.gg/JsmNexdvXv</span>
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

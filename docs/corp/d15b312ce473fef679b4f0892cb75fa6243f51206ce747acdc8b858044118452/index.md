@@ -22,6 +22,18 @@ CONDICIONES:
 -No es necesario tener tanta influencia para entrar.
 -Ayudar con el reclutamiento diario
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:"Red;">EB SEMANAL
+
+EN MEMORIA DE SAVAAL </span>
+
+CONDICIONES:
+-Ser bueno con los integrantes.
+-No es necesario tener tanta influencia para entrar.
+-Ayudar con el reclutamiento diario
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

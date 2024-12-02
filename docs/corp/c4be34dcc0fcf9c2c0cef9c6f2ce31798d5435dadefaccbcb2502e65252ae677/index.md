@@ -24,6 +24,20 @@ date: 1726040459
 这里是国服区对萌新最友好的集团
 期待你
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+本集团为&lt;size=120&gt;仙女座星雲&lt;/size&gt;第六分团
+集团总群<span style="color:yellow;">372337244</span> 
+这里有神器福利等你领取
+这里有专业的排队&lt;size=100&gt;<span style="color:red;">BOT</span> 
+&lt;/size&gt;
+这里有D7-D11大佬亲自指导
+这里有全方位的培养体系
+无论红星，暗星，白星，蓝星
+这里是国服区对萌新最友好的集团
+期待你
+</div>
+
 ### [Discord](https://discord.gg/snwFMgDPms)
 ### Whitestar Bonus ❌
 

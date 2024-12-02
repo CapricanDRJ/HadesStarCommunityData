@@ -28,6 +28,24 @@ Discord required for WS.
 
 148
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+        ☆☆Support New Players☆☆
+
+Recruiting
+Weekly White Stars.
+9% Bonus on Corp RS.
+Chill Corp 
+Active helpful members
+
+Discord required for WS. 
+
+
+
+
+148
+</div>
+
 ### [Discord](https://discord.gg/uhka53GbmX)
 ### Whitestar Bonus ❌
 

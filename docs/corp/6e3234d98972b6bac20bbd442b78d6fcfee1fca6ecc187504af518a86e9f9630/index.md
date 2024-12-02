@@ -18,6 +18,14 @@ I believe in U
 We can build a great alliance of Hades Star
 No discord. Be friendly :)
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+BELIEVE in YOURSELF 
+I believe in U 
+We can build a great alliance of Hades Star
+No discord. Be friendly :)
+</div>
+
 ### [Discord](https://discord.gg/https://discord.com/invite/WWu5AWvU)
 ### Whitestar Bonus ❌
 

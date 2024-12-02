@@ -15,6 +15,11 @@ date: 1732287246
 ```
  dont give in we help each other in start a White star ever 2 day
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+dont give in we help each other in start a White star ever 2 day
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

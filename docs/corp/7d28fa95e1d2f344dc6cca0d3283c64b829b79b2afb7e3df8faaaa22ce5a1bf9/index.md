@@ -15,6 +15,11 @@ date: 1733033752
 ```
  PEACE THROUGH POWER!
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+PEACE THROUGH POWER!
+</div>
+
 ### [Discord](https://discord.gg/HfGM4PkP8d)
 ### Whitestar Bonus ✅
 

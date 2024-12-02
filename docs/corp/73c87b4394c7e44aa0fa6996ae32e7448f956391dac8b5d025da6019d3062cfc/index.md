@@ -15,6 +15,11 @@ date: 1729138887
 ```
  Welcome to <b><color=#f68>The New Light</color></b>! We are scouting for active players to take on <b>white star</b> missions. White star frequency: Once a week, starting on Thursdays.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Welcome to &lt;b&gt;<span style="color:#f68;">The New Light</span>&lt;/b&gt;! We are scouting for active players to take on &lt;b&gt;white star&lt;/b&gt; missions. White star frequency: Once a week, starting on Thursdays.
+</div>
+
 ### [Discord](https://discord.gg/z4C9PUKgKD)
 ### Whitestar Bonus ❌
 

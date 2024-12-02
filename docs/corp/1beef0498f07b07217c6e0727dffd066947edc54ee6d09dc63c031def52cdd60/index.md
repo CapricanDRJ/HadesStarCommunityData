@@ -15,6 +15,11 @@ date: 1733142825
 ```
  <#f99><size=51>墨痕集团主团,欢迎R1-11玩家加入，活跃玩家可前往<#ccff00>盟团：星落苑</color>，长期开白，欢迎前来参与，常驻福利多多😍</size></color>本团为北极星联盟成员
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+&lt;#f99&gt;&lt;size=51&gt;墨痕集团主团,欢迎R1-11玩家加入，活跃玩家可前往&lt;#ccff00&gt;盟团：星落苑</span>，长期开白，欢迎前来参与，常驻福利多多😍&lt;/size&gt;</span>本团为北极星联盟成员
+</div>
+
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

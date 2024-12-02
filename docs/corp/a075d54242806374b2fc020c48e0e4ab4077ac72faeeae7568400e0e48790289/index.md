@@ -20,6 +20,16 @@ date: 1733094756
 https://t.me/+rYmH3oRRd5FiMDVi</color>
 Вклад только во Флагман 1
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Добро пожаловать в &lt;b&gt;Неизбежный Рок&lt;/b&gt;!
+<span style="color:red;">• Регулярные КЗ9/10</span>
+<span style="color:white;">• Еженедельные БЗ1
+• Ленивые БЗ2
+https://t.me/+rYmH3oRRd5FiMDVi</span>
+Вклад только во Флагман 1
+</div>
+
 ### [Discord](https://discord.gg/QrVCb9V2hX)
 ### Whitestar Bonus ✅
 

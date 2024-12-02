@@ -15,6 +15,11 @@ date: 1725749001
 ```
  该星际集团还没有任何描述。
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+该星际集团还没有任何描述。
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

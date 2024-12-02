@@ -17,6 +17,13 @@ date: 1732577609
 
 Discord required | Part of Astral Alliance
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Join and be a winner!! All skill levels welcome. We run WS weekly. Make friends, have fun, and enjoy the game!
+
+Discord required | Part of Astral Alliance
+</div>
+
 ### [Discord](https://discord.gg/https://discord.gg/naqEGjHA3B)
 ### Whitestar Bonus ✅
 

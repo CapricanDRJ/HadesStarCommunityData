@@ -15,6 +15,11 @@ date: 1731906902
 ```
  We’ll get there… most of the time
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+We’ll get there… most of the time
+</div>
+
 ### [Discord](https://discord.gg/JnxXSHyWsC)
 ### Whitestar Bonus ❌
 

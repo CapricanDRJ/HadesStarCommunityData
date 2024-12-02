@@ -15,6 +15,11 @@ date: 1707869096
 ```
  we are all here to have fun, let's have some😃
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+we are all here to have fun, let's have some😃
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

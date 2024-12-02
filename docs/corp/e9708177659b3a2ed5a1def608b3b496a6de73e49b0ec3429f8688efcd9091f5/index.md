@@ -15,6 +15,11 @@ date: 1709703756
 ```
  донат флагмана запрещен!
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+донат флагмана запрещен!
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

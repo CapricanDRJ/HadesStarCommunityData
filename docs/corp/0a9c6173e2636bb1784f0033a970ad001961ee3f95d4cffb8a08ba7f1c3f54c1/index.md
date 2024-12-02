@@ -15,6 +15,11 @@ date: 1708721463
 ```
  Strong but charm
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Strong but charm
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

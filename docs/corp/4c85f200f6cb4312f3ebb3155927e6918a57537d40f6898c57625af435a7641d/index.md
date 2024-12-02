@@ -15,6 +15,11 @@ date: 1702944764
 ```
  <size=73><color=green>LOST PIRATES BREAKS UP</color></size>       Dark Nebula does not reflect what Hades Star was.  In contrast to the new game policy we have decided to abandon the game.  12/20/2023
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+&lt;size=73&gt;<span style="color:green;">LOST PIRATES BREAKS UP</span>&lt;/size&gt;       Dark Nebula does not reflect what Hades Star was.  In contrast to the new game policy we have decided to abandon the game.  12/20/2023
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

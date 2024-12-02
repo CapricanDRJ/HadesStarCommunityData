@@ -22,6 +22,18 @@ date: 1700447756
 ・ <b>Discord에서</b> 정보공유, 파티원모집, 뉴비지원
 ・ 비매너, 장기미접속은 추방</color>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:#ffffff;">ZION ZION II ZION III &lt;b&gt;MSR&lt;/b&gt; VEGA ASTRA
+
+한국인 최대보유 시온연합
+&lt;b&gt;Discord&lt;/b&gt; (PC, Mobile) : &lt;b&gt;37KaujZtkU&lt;/b&gt;
+
+・ 존중, 배려, 소통
+・ &lt;b&gt;Discord에서&lt;/b&gt; 정보공유, 파티원모집, 뉴비지원
+・ 비매너, 장기미접속은 추방</span>
+</div>
+
 ### [Discord](https://discord.gg/https://discord.com/invite/rTYsNzFmxx)
 ### Whitestar Bonus ❌
 

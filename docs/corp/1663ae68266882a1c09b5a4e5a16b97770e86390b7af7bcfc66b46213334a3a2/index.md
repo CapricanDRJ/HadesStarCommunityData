@@ -17,6 +17,13 @@ date: 1733022937
 Casual/Competitive WS
 Ngā mihi nui, from NZ (and Aus!)
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+RS 1-9
+Casual/Competitive WS
+Ngā mihi nui, from NZ (and Aus!)
+</div>
+
 ### [Discord](https://discord.gg/Y7EZe2eQk9)
 ### Whitestar Bonus ❌
 

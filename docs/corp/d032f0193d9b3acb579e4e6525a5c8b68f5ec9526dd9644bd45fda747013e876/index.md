@@ -21,6 +21,17 @@ We are actively helping you succeed!
 Our HQ lives on Discord. Enlist today!
 discord.gg/YTaYrhy
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Training Academy for Black Star Order, the #1 Corp in all of Hades' Star.
+All Cadets Welcome!
+
+We are actively helping you succeed!
+
+Our HQ lives on Discord. Enlist today!
+discord.gg/YTaYrhy
+</div>
+
 ### [Discord](https://discord.gg/YTaYrhy)
 ### Whitestar Bonus ❌
 

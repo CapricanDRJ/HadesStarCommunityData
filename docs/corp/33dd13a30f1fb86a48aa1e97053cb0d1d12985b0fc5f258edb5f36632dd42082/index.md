@@ -15,6 +15,11 @@ date: 1732714018
 ```
  别捐旗舰，其它随意
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+别捐旗舰，其它随意
+</div>
+
 ### [Discord](https://discord.gg/agqGsygv)
 ### Whitestar Bonus ❌
 

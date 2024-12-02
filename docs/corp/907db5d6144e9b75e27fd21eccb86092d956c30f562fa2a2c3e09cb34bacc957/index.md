@@ -15,6 +15,11 @@ date: 1709390352
 ```
  Join our Discord https://discord.gg/UdS5DmQJRh
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Join our Discord https://discord.gg/UdS5DmQJRh
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

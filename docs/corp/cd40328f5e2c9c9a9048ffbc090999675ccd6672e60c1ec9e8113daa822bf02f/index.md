@@ -16,6 +16,12 @@ date: 1726772074
  в удовольствие!
 трупы убиты и похоронены)
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+в удовольствие!
+трупы убиты и похоронены)
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

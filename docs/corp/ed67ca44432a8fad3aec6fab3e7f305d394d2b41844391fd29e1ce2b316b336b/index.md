@@ -20,6 +20,16 @@ RS 5-6 see Lacuna X
 RS 7+ see Lacuna Holdings
 RS 8-11 see Lacuna Ind.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+&lt;b&gt;Lacuna Group's&lt;/b&gt; entry corp.
+-Geared for new players RS 1-4
+&lt;b&gt;Discord:&lt;/b&gt; discord.gg/BFfSkvu
+RS 5-6 see Lacuna X
+RS 7+ see Lacuna Holdings
+RS 8-11 see Lacuna Ind.
+</div>
+
 ### [Discord](https://discord.gg/BFfSkvu)
 ### Whitestar Bonus ❌
 

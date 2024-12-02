@@ -15,6 +15,11 @@ date: 1719260117
 ```
  wir sind eine deutschsprachige schweizer allianz und stehen für aktiven spiel und spass
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+wir sind eine deutschsprachige schweizer allianz und stehen für aktiven spiel und spass
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

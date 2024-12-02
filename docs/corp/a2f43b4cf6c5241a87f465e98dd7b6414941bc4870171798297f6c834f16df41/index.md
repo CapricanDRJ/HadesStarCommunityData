@@ -15,6 +15,11 @@ date: 1731752750
 ```
  Therefore do not be ashamed of the testimony about our Lord, nor of me his prisoner, but share in suffering for the gospel by the power of God, 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Therefore do not be ashamed of the testimony about our Lord, nor of me his prisoner, but share in suffering for the gospel by the power of God, 
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

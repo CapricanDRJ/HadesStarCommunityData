@@ -15,6 +15,11 @@ date: 1717815379
 ```
  Its continuing mission, to explore strange new worlds. To seek out new life and new civilizations. To boldly go where no one has gone before.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Its continuing mission, to explore strange new worlds. To seek out new life and new civilizations. To boldly go where no one has gone before.
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

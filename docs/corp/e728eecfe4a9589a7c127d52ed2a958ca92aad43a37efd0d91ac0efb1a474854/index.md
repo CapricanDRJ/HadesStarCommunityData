@@ -17,6 +17,13 @@ date: 1709658385
 Ugyanitt bojler eladó
 Discord:</color> <color=#a4fc4c>9SyrBAt</color>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:#ffffee;">&lt;size=75&gt;Várunk sok szerettel minden Újoncot tapasztalat szerzésre, Tapasztaltakat WS-re!&lt;/size&gt;
+Ugyanitt bojler eladó
+Discord:</span> <span style="color:#a4fc4c;">9SyrBAt</span>
+</div>
+
 ### [Discord](https://discord.gg/9SyrBAt)
 ### Whitestar Bonus ❌
 

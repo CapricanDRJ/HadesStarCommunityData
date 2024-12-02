@@ -20,6 +20,16 @@ date: 1712226828
 
 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Ласкаво просимо всіх!
+Комунікація через Телеграм.
+Велике прохання не кидати гроші на Флагман.
+Магія поза Хогвартсом!
+
+
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

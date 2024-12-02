@@ -15,6 +15,11 @@ date: 1703961058
 ```
  Friendly low stress corp doing a restart in the new expansion. No requirements besides playing the game though we appreciate it if you help us win White Stars. So join and be welcome.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Friendly low stress corp doing a restart in the new expansion. No requirements besides playing the game though we appreciate it if you help us win White Stars. So join and be welcome.
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

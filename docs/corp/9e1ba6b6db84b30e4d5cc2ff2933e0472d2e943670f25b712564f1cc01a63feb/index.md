@@ -18,6 +18,14 @@ date: 1728132134
 其他为普通成员
 黑名单：三体第一舰队
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+试行:
+*已知*的成员为高级成员
+其他为普通成员
+黑名单：三体第一舰队
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

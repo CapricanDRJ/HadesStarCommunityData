@@ -15,6 +15,11 @@ date: 1724758221
 ```
  Welcome to MiddleofNowhere, we are part of the RSR Alliance, access to the Alliance is gained though our red star "tunnel" .. ask about it.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Welcome to MiddleofNowhere, we are part of the RSR Alliance, access to the Alliance is gained though our red star "tunnel" .. ask about it.
+</div>
+
 ### [Discord](https://discord.gg/cKe7eNwCNZ)
 ### Whitestar Bonus ❌
 

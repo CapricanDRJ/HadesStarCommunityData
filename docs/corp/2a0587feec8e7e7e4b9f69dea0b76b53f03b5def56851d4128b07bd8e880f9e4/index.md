@@ -15,6 +15,11 @@ date: 1732270377
 ```
  Part of the Confederation H
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Part of the Confederation H
+</div>
+
 ### [Discord](https://discord.gg/https://discord.com/invite/PvpVqPbY)
 ### Whitestar Bonus ❌
 

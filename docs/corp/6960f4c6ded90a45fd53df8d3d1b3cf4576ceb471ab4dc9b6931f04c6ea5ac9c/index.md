@@ -19,6 +19,15 @@ date: 1729602647
 
 q群：741078259
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:white;">我们是&lt;size=67&gt;&lt;b&gt;白月光&lt;/b&gt;&lt;/size&gt;集团旗下的第二分盟</span>
+<span style="color:orange;">&lt;i&gt;“Where do we come from and where do we go from?”&lt;/i&gt;</span>
+
+
+q群：741078259
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

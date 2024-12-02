@@ -16,6 +16,12 @@ date: 1712643896
  群聊：929368469
 算了-_-||便宜你们了
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+群聊：929368469
+算了-_-||便宜你们了
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -15,6 +15,11 @@ date: 1724480559
 ```
  不做思想的巨人，要做行动的矮子！                                                                                    不管是谁都给我加群聊：308604873                         随时欢迎～祝各位早日成为“大佬”早日上R12！                          
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+不做思想的巨人，要做行动的矮子！                                                                                    不管是谁都给我加群聊：308604873                         随时欢迎～祝各位早日成为“大佬”早日上R12！                          
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

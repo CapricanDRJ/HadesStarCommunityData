@@ -18,6 +18,14 @@ date: 1733025040
 WS only: Opt in to scan, only if you are willing to sacrifice 1 battleship and 1 support ship for 5 days.
 The Corporation's Discord = https://discord.gg/w2HZf2cwc2
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+This is (not) Cinderblock.
+
+WS only: Opt in to scan, only if you are willing to sacrifice 1 battleship and 1 support ship for 5 days.
+The Corporation's Discord = https://discord.gg/w2HZf2cwc2
+</div>
+
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

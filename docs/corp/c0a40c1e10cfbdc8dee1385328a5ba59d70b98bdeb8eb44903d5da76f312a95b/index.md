@@ -17,6 +17,13 @@ date: 1718659061
 Вступайте в наши ряды!</color></b>
 (для бз нужен тг и активность)
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+&lt;b&gt;<span style="color:red;">★Корпорация TERRA P — место, где пролетарии всех стран могут объединиться для совместного труда и побед★</span>
+Вступайте в наши ряды!</span>&lt;/b&gt;
+(для бз нужен тг и активность)
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

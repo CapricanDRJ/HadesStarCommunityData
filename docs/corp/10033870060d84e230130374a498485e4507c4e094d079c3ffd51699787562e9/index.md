@@ -15,6 +15,11 @@ date: 1699726723
 ```
  <size="62"><b>RESURGIMOS DE NUESTRAS CENIZAS </b></size>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+&lt;size="62"&gt;&lt;b&gt;RESURGIMOS DE NUESTRAS CENIZAS &lt;/b&gt;&lt;/size&gt;
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

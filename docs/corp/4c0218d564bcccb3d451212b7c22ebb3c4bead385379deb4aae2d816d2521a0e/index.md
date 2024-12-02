@@ -22,6 +22,18 @@ QQ群:663677762
 定期清理红点
 拒绝黑名单玩家
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+星空漫游者交流群
+QQ群:663677762
+频道:https://kaihei.co/DaW35K
+加集团请同时加群
+白日放歌须纵酒,青春作伴好还乡
+萌新免费领神器福利～
+定期清理红点
+拒绝黑名单玩家
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

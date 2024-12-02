@@ -15,6 +15,11 @@ date: 1711126201
 ```
  a Corp for the Casual gamer. some White stars. Our active players have merged with 2ND-R8.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+a Corp for the Casual gamer. some White stars. Our active players have merged with 2ND-R8.
+</div>
+
 ### [Discord](https://discord.gg/nYPxsBANC3)
 ### Whitestar Bonus ❌
 

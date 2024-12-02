@@ -15,6 +15,11 @@ date: 1732589325
 ```
  <size=90><b><color=red>"Fight or be Forgotten"</color></b></size>   <color=green>White Star Élite </color> <size=60><color=orange>☆NakSarugg☆</color></b>   Recruiting "StarMasters" for WS
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+&lt;size=90&gt;&lt;b&gt;<span style="color:red;">"Fight or be Forgotten"</span>&lt;/b&gt;&lt;/size&gt;   <span style="color:green;">White Star Élite </span> &lt;size=60&gt;<span style="color:orange;">☆NakSarugg☆</span>&lt;/b&gt;   Recruiting "StarMasters" for WS
+</div>
+
 ### [Discord](https://discord.gg/https://discord.com/invite/jQHaBGnQDa)
 ### Whitestar Bonus ❌
 

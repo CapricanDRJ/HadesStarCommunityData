@@ -15,6 +15,11 @@ date: 1732675561
 ```
  Start here. Figure things out. Have fun.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Start here. Figure things out. Have fun.
+</div>
+
 ### [Discord](https://discord.gg/https://discord.gg/H46ekS4u)
 ### Whitestar Bonus ❌
 

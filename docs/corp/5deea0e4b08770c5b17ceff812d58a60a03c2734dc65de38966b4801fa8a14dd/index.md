@@ -15,6 +15,11 @@ date: 1704211691
 ```
  Have some God Damn Faith, we just need more MONEY! Active 12/31/23
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Have some God Damn Faith, we just need more MONEY! Active 12/31/23
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

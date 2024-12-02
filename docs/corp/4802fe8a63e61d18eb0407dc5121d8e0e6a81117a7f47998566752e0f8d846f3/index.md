@@ -16,6 +16,12 @@ date: 1732422556
  Casual group of mostly Canadians, all are welcome. White stars every week, red stars whenever we can.
 Discord: https://discord.gg/S6fvaKp
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Casual group of mostly Canadians, all are welcome. White stars every week, red stars whenever we can.
+Discord: https://discord.gg/S6fvaKp
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

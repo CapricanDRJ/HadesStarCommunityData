@@ -28,6 +28,24 @@ date: 1715217779
 - Projeto NU
 </color>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+ALIANÇA: LUSO (BR/PT) 🚀
+
+33° Evento de RS - 2022.
+
+<span style="color:red;">
+- Tormenta
+- BrHue
+- Hipernova
+- Brasil Star
+- Los Lord's
+- Helion Prime
+- Br Project
+- Projeto NU
+</span>
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

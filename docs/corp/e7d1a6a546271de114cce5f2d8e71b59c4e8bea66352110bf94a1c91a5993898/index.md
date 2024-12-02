@@ -15,6 +15,11 @@ date: 1706068866
 ```
  This corporation is no longer active.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+This corporation is no longer active.
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

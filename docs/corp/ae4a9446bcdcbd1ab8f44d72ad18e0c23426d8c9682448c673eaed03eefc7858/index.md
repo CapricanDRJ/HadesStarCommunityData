@@ -15,6 +15,11 @@ date: 1705511417
 ```
  初心者歓迎　　　　　入退はお気軽に　　　　質問だけでもOK
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+初心者歓迎　　　　　入退はお気軽に　　　　質問だけでもOK
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

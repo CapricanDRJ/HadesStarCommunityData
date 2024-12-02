@@ -15,6 +15,11 @@ date: 1733084238
 ```
  Corporation tranquille on s'entraide pour tous se développer. Une etoile blanche par semaine. Si vous êtes actif et que vous voulez progresser dans une corporation tranquille on est fait pour vous !
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Corporation tranquille on s'entraide pour tous se développer. Une etoile blanche par semaine. Si vous êtes actif et que vous voulez progresser dans une corporation tranquille on est fait pour vous !
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

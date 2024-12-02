@@ -15,6 +15,11 @@ date: 1733094804
 ```
  elegram @actung_bunker
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+elegram @actung_bunker
+</div>
+
 ### [Discord](https://discord.gg/7qRTk7bX3P)
 ### Whitestar Bonus ❌
 

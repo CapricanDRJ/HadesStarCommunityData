@@ -15,6 +15,11 @@ date: 1727735542
 ```
  Taking over hades galaxy 1 white star at a time
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Taking over hades galaxy 1 white star at a time
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

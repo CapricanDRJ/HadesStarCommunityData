@@ -15,6 +15,11 @@ date: 1723854877
 ```
  Zapraszamy wszystkich aktywnych graczy, zarówno rozpoczynających przygodę, jak również chętnych na regularne zabawy na WS.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Zapraszamy wszystkich aktywnych graczy, zarówno rozpoczynających przygodę, jak również chętnych na regularne zabawy na WS.
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

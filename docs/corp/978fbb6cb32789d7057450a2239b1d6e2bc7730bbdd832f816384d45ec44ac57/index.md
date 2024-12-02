@@ -15,6 +15,11 @@ date: 1710012656
 ```
  Приходишь, вытирай ноги у входа и здоровайся)
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Приходишь, вытирай ноги у входа и здоровайся)
+</div>
+
 ### [Discord](https://discord.gg/fsD7Nfv)
 ### Whitestar Bonus ❌
 

@@ -26,6 +26,22 @@ ser ativo
 
 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Nova corporação!!! nós pensamos nas melhores formas de desenvolver nossa corporação.
+
+Ws toda semana
+
+Regras:
+fale muito
+ter ao menos 14
+ser ativo
+1 semana inativo é banido
+
+
+
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

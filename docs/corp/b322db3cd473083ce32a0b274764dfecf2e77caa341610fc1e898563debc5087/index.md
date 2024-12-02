@@ -19,6 +19,15 @@ date: 1711636989
 请不要捐旗舰！本分团为小分团，不活跃，活跃的玩家请移步第四星际，加群有福利
 <color=yellow>QQ群：946597244
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+本团秉承共产主义原则，互帮互助，欢迎各位加入。
+本团属于九团公约成员国
+<span style="color:red;">本团为共产星际分团
+请不要捐旗舰！本分团为小分团，不活跃，活跃的玩家请移步第四星际，加群有福利
+<span style="color:yellow;">QQ群：946597244
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

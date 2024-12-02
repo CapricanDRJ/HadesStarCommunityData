@@ -15,6 +15,11 @@ date: 1732728744
 ```
  <color="white">Still Not So Serious</color> - A corp for the relaxed yet active player (but who are we kidding) no Discord or WS requirements, Dark RS focussed corp, with optional WS runs.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:"white";">Still Not So Serious</span> - A corp for the relaxed yet active player (but who are we kidding) no Discord or WS requirements, Dark RS focussed corp, with optional WS runs.
+</div>
+
 ### [Discord](https://discord.gg/2Dh98GHnug)
 ### Whitestar Bonus ❌
 

@@ -15,6 +15,11 @@ date: 1701864292
 ```
  Corpo FR active et vivante ! Recherche nouveaux membres actifs et intérésés pour continuer le jeu avec nous. 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Corpo FR active et vivante ! Recherche nouveaux membres actifs et intérésés pour continuer le jeu avec nous. 
+</div>
+
 ### [Discord](https://discord.gg/RKV9fSX3)
 ### Whitestar Bonus ❌
 

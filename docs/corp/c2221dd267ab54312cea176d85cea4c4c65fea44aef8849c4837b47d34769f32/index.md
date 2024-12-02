@@ -15,6 +15,11 @@ date: 1703105850
 ```
  Nieaktywna korporacja
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Nieaktywna korporacja
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

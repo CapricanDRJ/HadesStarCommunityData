@@ -22,6 +22,18 @@ chapter 4÷20
 
 For WS+ join Discord- 8dJDbbm
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+*RS &lt;10
+**Weekly WS
+***Was Ready to help new players progress   quickly to RS6. 
+****now they are rs10 -.-
+*****We demand Blood for the @ncient £ibrarian =[
+chapter 4÷20
+
+For WS+ join Discord- 8dJDbbm
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

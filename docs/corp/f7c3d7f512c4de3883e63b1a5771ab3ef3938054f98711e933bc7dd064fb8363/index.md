@@ -15,6 +15,11 @@ date: 1732831823
 ```
  Welcome! Ask for the discord to best facilitate our leadership to help anyone who desires the aid.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Welcome! Ask for the discord to best facilitate our leadership to help anyone who desires the aid.
+</div>
+
 ### [Discord](https://discord.gg/https://discord.gg/Y3NrTFZHC7)
 ### Whitestar Bonus ✅
 

@@ -25,6 +25,21 @@ discord.gg/qz8kpgtj
 
 3 day inactivity kick
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Sucka free space initiative
+
+Camaraderie is tops 
+
+Rs7-10, white star non-stop
+
+Proud Member of the Watchers Syndicate
+
+discord.gg/qz8kpgtj
+
+3 day inactivity kick
+</div>
+
 ### [Discord](https://discord.gg/discord.gg/wd2GdBVAaa)
 ### Whitestar Bonus ❌
 

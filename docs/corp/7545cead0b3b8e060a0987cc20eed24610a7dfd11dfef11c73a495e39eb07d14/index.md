@@ -15,6 +15,11 @@ date: 1710084164
 ```
  🔥Welcome to the Dark Legion training base. We welcome players of all nationalities and from all countries. 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+🔥Welcome to the Dark Legion training base. We welcome players of all nationalities and from all countries. 
+</div>
+
 ### [Discord](https://discord.gg/https://discord.gg/MY29hgT5ZE)
 ### Whitestar Bonus ❌
 

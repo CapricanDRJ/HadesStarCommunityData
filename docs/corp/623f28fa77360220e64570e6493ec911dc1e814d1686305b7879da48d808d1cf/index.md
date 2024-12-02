@@ -19,6 +19,15 @@ date: 1732800866
 🎖WS todas as sextas
 🔰Ajudamos com orientação e evolução.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Prepare-se para uma jornada épica entre Estrelas Vermelhas e Guerras intensas nas Estrelas Brancas. 
+
+🔰DRS e RS diárias
+🎖WS todas as sextas
+🔰Ajudamos com orientação e evolução.
+</div>
+
 ### [Discord](https://discord.gg/sVVAvk9RqC)
 ### Whitestar Bonus ❌
 

@@ -15,6 +15,11 @@ date: 1715128283
 ```
  Mercury Retrograde
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Mercury Retrograde
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

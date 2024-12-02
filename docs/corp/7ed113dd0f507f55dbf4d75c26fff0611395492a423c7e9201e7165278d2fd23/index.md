@@ -18,6 +18,14 @@ date: 1732666549
 <color=yellow>English Speakers, Friendly and Chill.</color>
 OA's Discord: https://discord.gg/2wyNuxb
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+&lt;b&gt;The Corp Alliance of Oceania Alliance&lt;/b&gt;
+<span style="color:green;">Open to All Levels.</span>
+<span style="color:yellow;">English Speakers, Friendly and Chill.</span>
+OA's Discord: https://discord.gg/2wyNuxb
+</div>
+
 ### [Discord](https://discord.gg/ZhF2Npys6N)
 ### Whitestar Bonus ✅
 

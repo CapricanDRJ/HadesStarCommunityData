@@ -15,6 +15,11 @@ date: 1731957387
 ```
  Welcome to P!RAT£ SHIP all are welcome. Come help us grow😁, we do steady white star Matches😎. For new players who wanna grow faster can also come aboard🙏. Thank you as you join us😘
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Welcome to P!RAT£ SHIP all are welcome. Come help us grow😁, we do steady white star Matches😎. For new players who wanna grow faster can also come aboard🙏. Thank you as you join us😘
+</div>
+
 ### [Discord](https://discord.gg/T3BNxjbCU2)
 ### Whitestar Bonus ❌
 

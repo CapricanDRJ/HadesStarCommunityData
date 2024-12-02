@@ -20,6 +20,16 @@ Long live the great communism!
 Q群:669494799
 部分人员即将转移至其他集团，详情请见Q群</size></b></color>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:#F44;">&lt;b&gt;&lt;size=75px&gt;全称：星海命运共同体联盟
+伟大的共产主义万岁！&lt;/size&gt;
+&lt;size=40px&gt;Full name: Xinghai Destiny Community Alliance
+Long live the great communism! 
+Q群:669494799
+部分人员即将转移至其他集团，详情请见Q群&lt;/size&gt;&lt;/b&gt;</span>
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

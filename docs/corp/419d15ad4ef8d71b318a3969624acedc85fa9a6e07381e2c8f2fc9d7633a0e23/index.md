@@ -15,6 +15,11 @@ date: 1702446143
 ```
  Casual players welcome 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Casual players welcome 
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

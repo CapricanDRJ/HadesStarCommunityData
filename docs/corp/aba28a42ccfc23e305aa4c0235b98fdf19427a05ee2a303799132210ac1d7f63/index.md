@@ -16,6 +16,12 @@ date: 1708916623
  Dies ist ein deutscher Konzern, wir spielen kooperativ und es geht um den Spaß am Spiel.
 WZs laufen regelmäßig, dabei ist eine aktive Teilnahme absolut notwendig.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Dies ist ein deutscher Konzern, wir spielen kooperativ und es geht um den Spaß am Spiel.
+WZs laufen regelmäßig, dabei ist eine aktive Teilnahme absolut notwendig.
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

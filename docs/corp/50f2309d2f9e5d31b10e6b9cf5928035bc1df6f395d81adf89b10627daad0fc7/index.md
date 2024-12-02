@@ -15,6 +15,11 @@ date: 1732134673
 ```
  <b><color=#E12E2D>Alianza AXOLOTLS<br></b>Somos muchos, somos Legión.<br><br>• Damos artefactos por donar a la NI<br>• Discord/WhatsApp disponible✓<br>• EB Casual/Seria semanal<br><br><b>ER5+ | ERO/EB
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+&lt;b&gt;<span style="color:#E12E2D;">Alianza AXOLOTLS&lt;br&gt;&lt;/b&gt;Somos muchos, somos Legión.&lt;br&gt;&lt;br&gt;• Damos artefactos por donar a la NI&lt;br&gt;• Discord/WhatsApp disponible✓&lt;br&gt;• EB Casual/Seria semanal&lt;br&gt;&lt;br&gt;&lt;b&gt;ER5+ | ERO/EB
+</div>
+
 ### [Discord](https://discord.gg/Bt9wnjv2Kh)
 ### Whitestar Bonus ❌
 

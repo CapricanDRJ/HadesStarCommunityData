@@ -15,6 +15,11 @@ date: 1732448393
 ```
  Welcome to Lights Off! Friendly Corp using the English language. Daily RS and weekly WS. Discord link below 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Welcome to Lights Off! Friendly Corp using the English language. Daily RS and weekly WS. Discord link below 
+</div>
+
 ### [Discord](https://discord.gg/eYh6VmKZeU)
 ### Whitestar Bonus ❌
 

@@ -15,6 +15,11 @@ date: 1712072325
 ```
  vamos ser bom
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+vamos ser bom
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

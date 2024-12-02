@@ -15,6 +15,11 @@ date: 1733095514
 ```
  Only for Russian speakers 🇷🇺
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Only for Russian speakers 🇷🇺
+</div>
+
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

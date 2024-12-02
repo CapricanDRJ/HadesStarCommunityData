@@ -15,6 +15,11 @@ date: 1700160115
 ```
  Junger Konzern für freie Mitarbeiter. Wir erobern das Universum!
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Junger Konzern für freie Mitarbeiter. Wir erobern das Universum!
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

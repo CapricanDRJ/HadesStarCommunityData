@@ -15,6 +15,11 @@ date: 1721021240
 ```
  One Galaxy under god, ruled by an iron fist to comply and listen or shall be struck down with utter destruction.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+One Galaxy under god, ruled by an iron fist to comply and listen or shall be struck down with utter destruction.
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

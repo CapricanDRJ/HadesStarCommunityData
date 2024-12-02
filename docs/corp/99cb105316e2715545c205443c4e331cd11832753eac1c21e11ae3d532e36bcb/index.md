@@ -15,6 +15,11 @@ date: 1722838251
 ```
  欢迎大家的加入♡
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+欢迎大家的加入♡
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

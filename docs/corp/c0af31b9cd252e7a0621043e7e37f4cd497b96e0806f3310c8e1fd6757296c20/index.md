@@ -15,6 +15,11 @@ date: 1709650270
 ```
  <size=50><color=#8f00ff>Jump into the wabbit hole ●</color></size> <color=#f0f30b>Wacky Warriors</color>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+&lt;size=50&gt;<span style="color:#8f00ff;">Jump into the wabbit hole ●</span>&lt;/size&gt; <span style="color:#f0f30b;">Wacky Warriors</span>
+</div>
+
 ### [Discord](https://discord.gg/https://discord.gg/knZXJWX)
 ### Whitestar Bonus ❌
 

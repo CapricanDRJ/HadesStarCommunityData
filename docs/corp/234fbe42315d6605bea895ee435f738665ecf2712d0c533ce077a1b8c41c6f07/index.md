@@ -25,6 +25,21 @@ HVgvAaF
 
 (PLEASE NOTE THIS IS CASE SENSITIVE)
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Friendly, independent Corp
+
+Running weekly White Stars, 
+
+RS9-10 mainly but every level is welcome jump aboard.
+
+Discord for WS /RS
+
+HVgvAaF
+
+(PLEASE NOTE THIS IS CASE SENSITIVE)
+</div>
+
 ### [Discord](https://discord.gg/HVgvAaF)
 ### Whitestar Bonus ❌
 

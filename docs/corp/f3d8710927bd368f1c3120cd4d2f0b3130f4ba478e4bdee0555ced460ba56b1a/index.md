@@ -15,6 +15,11 @@ date: 1702887653
 ```
  Friendly corp. English chat. Discord is optional.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Friendly corp. English chat. Discord is optional.
+</div>
+
 ### [Discord](https://discord.gg/Sy2sRYyZPZ)
 ### Whitestar Bonus ❌
 

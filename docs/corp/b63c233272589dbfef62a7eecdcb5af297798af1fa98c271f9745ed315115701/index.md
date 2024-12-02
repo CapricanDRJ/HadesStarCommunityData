@@ -15,6 +15,11 @@ date: 1703217349
 ```
  Inactive
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Inactive
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -15,6 +15,11 @@ date: 1732986880
 ```
  32%This is a group dedicated to planting red flags in every corner of the galaxy. We welcome every newbie and big guy to join us. We provide early learning guidance for newbies joining the group.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+32%This is a group dedicated to planting red flags in every corner of the galaxy. We welcome every newbie and big guy to join us. We provide early learning guidance for newbies joining the group.
+</div>
+
 ### [Discord](https://discord.gg/JTC-6519)
 ### Whitestar Bonus ✅
 

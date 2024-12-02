@@ -15,6 +15,11 @@ date: 1726728458
 ```
  just relax, bro.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+just relax, bro.
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

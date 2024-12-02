@@ -15,6 +15,11 @@ date: 1703905762
 ```
  Please only English speaking.We play red stars and white stars.Inactivity leads to being kicked out.We play without discord.Have fun!
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Please only English speaking.We play red stars and white stars.Inactivity leads to being kicked out.We play without discord.Have fun!
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

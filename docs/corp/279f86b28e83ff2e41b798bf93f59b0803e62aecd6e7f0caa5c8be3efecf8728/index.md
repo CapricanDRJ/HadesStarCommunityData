@@ -15,6 +15,11 @@ date: 1732603746
 ```
  A friendly corporation with a variety of skills and experience. Dedicated to helping new players grow. Discord recommended for White Stars.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+A friendly corporation with a variety of skills and experience. Dedicated to helping new players grow. Discord recommended for White Stars.
+</div>
+
 ### [Discord](https://discord.gg/Y5SBYmr)
 ### Whitestar Bonus ✅
 

@@ -20,6 +20,16 @@ date: 1700725519
 ▒▄████▀▀</color>
 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:red;">░▄▄▄▄░
+▀▀▄██►
+▀▀███►
+░▀███►░█►
+▒▄████▀▀</span>
+
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

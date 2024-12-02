@@ -25,6 +25,21 @@ Corporaciones aliadas:
 Discord: https://discord.gg/wnw8sSwy
 "Federación Versalles"
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+CORP DE TRADEOS
+EBD diarias.
+Corporaciones aliadas:
+-Imperio tortuga
+-Wyvern
+-Imperio Galacti
+-Darknova
+-Unión latina
+-Свободный флот
+Discord: https://discord.gg/wnw8sSwy
+"Federación Versalles"
+</div>
+
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

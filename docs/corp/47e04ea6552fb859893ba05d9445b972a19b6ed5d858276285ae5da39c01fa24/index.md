@@ -15,6 +15,11 @@ date: 1732105819
 ```
  Surrender to The Order, belive to The Order, take part in The Order.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Surrender to The Order, belive to The Order, take part in The Order.
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

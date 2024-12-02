@@ -17,6 +17,13 @@ date: 1726889394
 Be active
 Have fun
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Be courteous
+Be active
+Have fun
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

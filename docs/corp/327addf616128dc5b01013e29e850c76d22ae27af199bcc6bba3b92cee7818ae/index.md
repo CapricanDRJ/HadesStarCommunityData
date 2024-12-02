@@ -15,6 +15,11 @@ date: 1731054674
 ```
  <#ffa>100级以上或30级以下加入，萌新港（大佬港）分团。团主大号不能用，就建了一个分号
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+&lt;#ffa&gt;100级以上或30级以下加入，萌新港（大佬港）分团。团主大号不能用，就建了一个分号
+</div>
+
 ### [Discord](https://discord.gg/yyZqNDKx6T)
 ### Whitestar Bonus ❌
 

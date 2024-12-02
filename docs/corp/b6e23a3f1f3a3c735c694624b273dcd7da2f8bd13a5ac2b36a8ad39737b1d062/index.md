@@ -20,6 +20,16 @@ date: 1733009420
 🔹 Allies of Stargate. 
 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+🔹 Discord mandatory.
+🔹 New Player friendly.
+🔹 English speaking.
+🔹 Weekly white stars.
+🔹 Allies of Stargate. 
+
+</div>
+
 ### [Discord](https://discord.gg/qx6HrYM223)
 ### Whitestar Bonus ❌
 

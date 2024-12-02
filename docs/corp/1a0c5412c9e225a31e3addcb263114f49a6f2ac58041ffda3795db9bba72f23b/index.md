@@ -15,6 +15,11 @@ date: 1732778369
 ```
  Bienvenidos 😁
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Bienvenidos 😁
+</div>
+
 ### [Discord](https://discord.gg/RgusRrPMKT)
 ### Whitestar Bonus ❌
 

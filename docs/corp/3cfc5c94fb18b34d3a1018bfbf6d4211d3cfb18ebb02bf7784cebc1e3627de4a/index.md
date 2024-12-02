@@ -15,6 +15,11 @@ date: 1728214134
 ```
  本集团全名PDC联合集团，团员务必遵守集团规定。主团：元素联邦                 有困难互帮互助，白星尽力参加，(只带活人)25级高级成员，视情况干事
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+本集团全名PDC联合集团，团员务必遵守集团规定。主团：元素联邦                 有困难互帮互助，白星尽力参加，(只带活人)25级高级成员，视情况干事
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

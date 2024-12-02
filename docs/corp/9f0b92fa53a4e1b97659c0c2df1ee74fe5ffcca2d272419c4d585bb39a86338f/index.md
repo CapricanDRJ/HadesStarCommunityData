@@ -19,6 +19,15 @@ Mensagem: Mantenha-se ativo ou terá que dar vaga na corporação para outro ent
 
 Em breve faremos estrelas brancas.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Juntos somos invencíveis.
+
+Mensagem: Mantenha-se ativo ou terá que dar vaga na corporação para outro entrar.
+
+Em breve faremos estrelas brancas.
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

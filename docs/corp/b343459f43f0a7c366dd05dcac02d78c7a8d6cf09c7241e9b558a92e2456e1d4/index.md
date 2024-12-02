@@ -24,6 +24,20 @@ Trust * Loyalty
 
 “Busting Ours to kick Yours!”
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Our mission :
+To be the best WhiteStar battle team !
+Do nothing, you will get nothing.
+You control your destiny.
+
+Join us, be part of the Super Team !!
+
+Trust * Loyalty 
+
+“Busting Ours to kick Yours!”
+</div>
+
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

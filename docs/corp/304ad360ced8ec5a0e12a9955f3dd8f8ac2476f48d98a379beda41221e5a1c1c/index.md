@@ -15,6 +15,11 @@ date: 1731169168
 ```
  We run monthly or couple of weeks White Stars and private Red Stars on request. New players welcome, we are happy to help you learn the game.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+We run monthly or couple of weeks White Stars and private Red Stars on request. New players welcome, we are happy to help you learn the game.
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

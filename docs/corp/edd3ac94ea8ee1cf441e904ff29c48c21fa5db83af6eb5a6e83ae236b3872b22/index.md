@@ -15,6 +15,11 @@ date: 1732630186
 ```
  Join us and make history! Part of the Astral Alliance, Joining the discord server is required. If you have problems joining dc server contact officers or senior members, Discord invite code:zQGwx3ZtDp
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Join us and make history! Part of the Astral Alliance, Joining the discord server is required. If you have problems joining dc server contact officers or senior members, Discord invite code:zQGwx3ZtDp
+</div>
+
 ### [Discord](https://discord.gg/zQGwx3ZtDp)
 ### Whitestar Bonus ✅
 

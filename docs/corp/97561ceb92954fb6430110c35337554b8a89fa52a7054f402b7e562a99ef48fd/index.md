@@ -15,6 +15,11 @@ date: 1705160720
 ```
  Arbiters of Darkness
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Arbiters of Darkness
+</div>
+
 ### [Discord](https://discord.gg/MJSKU8T9T7)
 ### Whitestar Bonus ❌
 

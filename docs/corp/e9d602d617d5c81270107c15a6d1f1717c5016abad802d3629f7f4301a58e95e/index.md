@@ -15,6 +15,11 @@ date: 1728312440
 ```
  红星建议大火单枪，电磁，暗红时缓;蓝星主打配合如A盾复仇，无人机信仰，捆绑传送。升级模组尽量集中不要分散。           有能力者请投喂旗舰1        白星Q群：<u>250502867                微信群加yusanban好友
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+红星建议大火单枪，电磁，暗红时缓;蓝星主打配合如A盾复仇，无人机信仰，捆绑传送。升级模组尽量集中不要分散。           有能力者请投喂旗舰1        白星Q群：&lt;u&gt;250502867                微信群加yusanban好友
+</div>
+
 ### [Discord](https://discord.gg/Q群250502867)
 ### Whitestar Bonus ❌
 

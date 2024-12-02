@@ -15,6 +15,11 @@ date: 1732641718
 ```
  Casual Clan looking for active players. Join our clan and grow with us.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Casual Clan looking for active players. Join our clan and grow with us.
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -15,6 +15,11 @@ date: 1731046862
 ```
  Желание участвовать на БЗ приветствуются)). За участие БЗ повышаю в звании
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Желание участвовать на БЗ приветствуются)). За участие БЗ повышаю в звании
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

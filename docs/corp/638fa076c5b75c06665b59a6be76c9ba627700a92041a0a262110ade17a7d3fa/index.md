@@ -15,6 +15,11 @@ date: 1709942349
 ```
  Francophone International. Recherche joueurs pour étoiles sombres niveau 7
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Francophone International. Recherche joueurs pour étoiles sombres niveau 7
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

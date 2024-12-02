@@ -15,6 +15,11 @@ date: 1707272130
 ```
  Looking for those who are interested in White Star missions
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Looking for those who are interested in White Star missions
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

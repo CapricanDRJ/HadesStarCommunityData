@@ -15,6 +15,11 @@ date: 1710483791
 ```
  <b> BRASIL TITANS vem jogar!damos orientação ,respeitem o tempo de inatividade e quando tiver 10 membros na disposição bora pra ws
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+&lt;b&gt; BRASIL TITANS vem jogar!damos orientação ,respeitem o tempo de inatividade e quando tiver 10 membros na disposição bora pra ws
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

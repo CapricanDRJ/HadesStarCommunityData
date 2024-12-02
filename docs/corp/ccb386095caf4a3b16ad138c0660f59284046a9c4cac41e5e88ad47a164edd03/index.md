@@ -15,6 +15,11 @@ date: 1704229726
 ```
  Dahoam in AT zieht um und findet ein neues Dahoam bei INFINITY STAR. Wer uns nachfolgen will, meldet euch dort! Im Konzern verbleiben unsere ausgeschiedenen Pensionisten!      https://discord.gg/V5SHx
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Dahoam in AT zieht um und findet ein neues Dahoam bei INFINITY STAR. Wer uns nachfolgen will, meldet euch dort! Im Konzern verbleiben unsere ausgeschiedenen Pensionisten!      https://discord.gg/V5SHx
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

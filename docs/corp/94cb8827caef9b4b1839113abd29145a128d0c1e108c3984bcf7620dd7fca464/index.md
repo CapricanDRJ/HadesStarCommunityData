@@ -21,6 +21,17 @@ Outland welcomes our newest recruits!
 Discord is mandatory:
 <color=yellow>discord.gg/vPsNNxs</color>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:yellow;">Proud member of United Industries of Hades (UIH)
+</span>spanning multiple corps
+
+Outland welcomes our newest recruits!
+
+Discord is mandatory:
+<span style="color:yellow;">discord.gg/vPsNNxs</span>
+</div>
+
 ### [Discord](https://discord.gg/vPsNNxs)
 ### Whitestar Bonus ❌
 

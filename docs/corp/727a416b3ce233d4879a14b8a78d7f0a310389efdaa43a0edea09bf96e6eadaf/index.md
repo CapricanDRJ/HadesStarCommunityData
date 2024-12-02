@@ -24,6 +24,20 @@ Questions: Message a Babies officer on discord
 
 Come join the Flight-Team!
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Discord Required: Ff6qceW
+
+Partners with Rocket-by Baby corp!
+
+Daily Private! RS 5-11
+Weekly WS! (10v10)
+
+Questions: Message a Babies officer on discord 
+
+Come join the Flight-Team!
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -15,6 +15,11 @@ date: 1729878534
 ```
  "Dark Legion Academy is the starting point for transitioning to the main roster after gaining battle experience on the White Stars. Ready to rise and conquer!"
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+"Dark Legion Academy is the starting point for transitioning to the main roster after gaining battle experience on the White Stars. Ready to rise and conquer!"
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

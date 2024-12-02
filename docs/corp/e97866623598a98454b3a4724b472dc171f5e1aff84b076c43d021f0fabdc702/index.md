@@ -15,6 +15,11 @@ date: 1732718526
 ```
  Welcome, be active and have fun.  Daily RS7+. Rs9 @ 2045 EST. opt in /out of weekly white stars.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Welcome, be active and have fun.  Daily RS7+. Rs9 @ 2045 EST. opt in /out of weekly white stars.
+</div>
+
 ### [Discord](https://discord.gg/pVhwrfFjx3)
 ### Whitestar Bonus ❌
 

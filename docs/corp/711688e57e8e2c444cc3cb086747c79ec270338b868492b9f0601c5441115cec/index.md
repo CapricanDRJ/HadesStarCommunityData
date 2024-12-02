@@ -19,6 +19,15 @@ Discord:5tuPR4v
 Traits:Independent
 Language:English
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:"lime";">&lt;b&gt;Humankind Empire Abh&lt;/b&gt;</span>
+
+Discord:5tuPR4v
+Traits:Independent
+Language:English
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

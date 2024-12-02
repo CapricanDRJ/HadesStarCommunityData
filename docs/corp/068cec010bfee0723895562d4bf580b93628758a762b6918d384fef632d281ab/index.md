@@ -15,6 +15,11 @@ date: 1722044879
 ```
  На базе Корпорации СОЮЗ проходит сборный ивент КЗ. Есть желание присоединиться - @RSeventHS ( Телега )
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+На базе Корпорации СОЮЗ проходит сборный ивент КЗ. Есть желание присоединиться - @RSeventHS ( Телега )
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

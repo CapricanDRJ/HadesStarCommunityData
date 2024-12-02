@@ -15,6 +15,11 @@ date: 1719220262
 ```
  嘟嘟嘟嘟嘟嘟嘟嘟       我等着你们回家啊
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+嘟嘟嘟嘟嘟嘟嘟嘟       我等着你们回家啊
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

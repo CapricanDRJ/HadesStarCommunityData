@@ -18,6 +18,14 @@ date: 1714209343
 Ingin menjadi anggota?
 Join Discord kita dulu: https://discord.gg/MCDb2Mt
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Casual Corp. Terbuka untuk semua active player. Bagian dari Nusantara Empire (Majapahit, Sriwijaya, Cikopo & the COLLECTOR)
+
+Ingin menjadi anggota?
+Join Discord kita dulu: https://discord.gg/MCDb2Mt
+</div>
+
 ### [Discord](https://discord.gg/https://discord.gg/MCDb2Mt)
 ### Whitestar Bonus ❌
 

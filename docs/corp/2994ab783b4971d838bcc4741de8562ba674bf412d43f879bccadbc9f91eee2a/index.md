@@ -15,6 +15,11 @@ date: 1727896547
 ```
  we would like players who enjoy ws battles. we have 5, could use 5 more. 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+we would like players who enjoy ws battles. we have 5, could use 5 more. 
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

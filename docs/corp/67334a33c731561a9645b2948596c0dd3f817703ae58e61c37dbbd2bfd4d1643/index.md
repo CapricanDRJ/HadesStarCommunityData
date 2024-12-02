@@ -23,6 +23,19 @@ Proud member of The Dark Matter Syndicate
 Discord:
 https://discord.gg/kTmpmWx
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Warriors From Outer Space !
+
+RS 5-9 daily
+Weekly WS 
+RIP Barriotuba 
+Join our development wing: Lemonparty
+Proud member of The Dark Matter Syndicate 
+Discord:
+https://discord.gg/kTmpmWx
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

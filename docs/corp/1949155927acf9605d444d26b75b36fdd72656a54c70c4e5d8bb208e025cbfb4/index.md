@@ -15,6 +15,11 @@ date: 1700952741
 ```
  Multi corporation for all members of corps who are allied( daily players only) rest in main corps to build
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Multi corporation for all members of corps who are allied( daily players only) rest in main corps to build
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

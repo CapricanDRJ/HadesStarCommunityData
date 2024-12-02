@@ -17,6 +17,13 @@ date: 1728664664
  Помощь в зачистке красных звёзд 1-6 уровней.
  Всё ради прогресса!
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+ МежГалактическая Корпорация к вашим услугам.
+ Помощь в зачистке красных звёзд 1-6 уровней.
+ Всё ради прогресса!
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

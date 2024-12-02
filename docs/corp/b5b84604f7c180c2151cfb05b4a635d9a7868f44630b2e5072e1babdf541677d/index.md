@@ -25,6 +25,21 @@ https://discord.gg/gBFFE5x
 
 od-family.com
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:#3bfdc8;">Trade Systems</span>
+RS-focused (7,8,9)
+member of 
+OntarioDynasty Family of Corps
+
+Multiple corps to support
+all RS levels & play styles. 
+
+https://discord.gg/gBFFE5x
+
+od-family.com
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

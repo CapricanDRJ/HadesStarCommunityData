@@ -15,6 +15,11 @@ date: 1730409510
 ```
  Consider joining the discord server. Participation in white star is strongly recomended ;)
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Consider joining the discord server. Participation in white star is strongly recomended ;)
+</div>
+
 ### [Discord](https://discord.gg/https://discord.com/invite/ET3rEFXb)
 ### Whitestar Bonus ❌
 

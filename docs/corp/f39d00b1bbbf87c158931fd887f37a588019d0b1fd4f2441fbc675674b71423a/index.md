@@ -18,6 +18,14 @@ date: 1732102213
 友好关系：绛紫星
 Q：650722059
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+欢迎萌新大佬加入，从此不做流浪汉
+别捐旗舰！别捐旗舰！
+友好关系：绛紫星
+Q：650722059
+</div>
+
 ### [Discord](https://discord.gg/akTfXJGv)
 ### Whitestar Bonus ❌
 

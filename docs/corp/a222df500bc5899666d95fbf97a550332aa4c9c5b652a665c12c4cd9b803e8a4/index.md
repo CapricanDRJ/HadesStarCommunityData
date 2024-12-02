@@ -15,6 +15,11 @@ date: 1711403290
 ```
  I am the commander and i shall not let you down because we have alot of advantare to work of
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+I am the commander and i shall not let you down because we have alot of advantare to work of
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

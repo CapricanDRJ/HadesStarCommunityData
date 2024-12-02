@@ -15,6 +15,11 @@ date: 1711149196
 ```
  萌新
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+萌新
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -15,6 +15,11 @@ date: 1731966402
 ```
  <size=150><#60f>CdS</color></size><br><#c6c>✝南十字星<br>✝クローチェ・デル・スッド<br><#fff>プライベートRS、BLS、時々WS…情報交換しながら、各自のペースで進めるコーポレーションです。イベントやWSはみんなで楽しく！アクティブな新人さんのご参加お待ちしています<br>Family: 蝸牛の集い<br>nata il19/09/2022
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+&lt;size=150&gt;&lt;#60f&gt;CdS</span>&lt;/size&gt;&lt;br&gt;&lt;#c6c&gt;✝南十字星&lt;br&gt;✝クローチェ・デル・スッド&lt;br&gt;&lt;#fff&gt;プライベートRS、BLS、時々WS…情報交換しながら、各自のペースで進めるコーポレーションです。イベントやWSはみんなで楽しく！アクティブな新人さんのご参加お待ちしています&lt;br&gt;Family: 蝸牛の集い&lt;br&gt;nata il19/09/2022
+</div>
+
 ### [Discord](https://discord.gg/jPZ6zuXRmv)
 ### Whitestar Bonus ❌
 

@@ -16,6 +16,12 @@ date: 1705425169
  Be friendly and respectful to one another.
 Requirement: Active and have fun.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Be friendly and respectful to one another.
+Requirement: Active and have fun.
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

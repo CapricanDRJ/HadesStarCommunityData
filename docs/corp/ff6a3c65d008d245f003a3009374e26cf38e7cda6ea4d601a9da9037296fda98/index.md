@@ -19,6 +19,15 @@ Discord recommended
 DC : tqSz2DCJZ8
 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+A friendly group of players that are here to have fun and help. Come join us for and learn DN's WS, RS, BS together as a team.
+
+Discord recommended
+DC : tqSz2DCJZ8
+
+</div>
+
 ### [Discord](https://discord.gg/tqSz2DCJZ8)
 ### Whitestar Bonus ❌
 

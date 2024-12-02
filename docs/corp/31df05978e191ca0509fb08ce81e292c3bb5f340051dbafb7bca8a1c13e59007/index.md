@@ -16,6 +16,12 @@ date: 1711631579
  Was once a top 100 Corp
 But now is a retirement home for solo rs. all are free to join
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Was once a top 100 Corp
+But now is a retirement home for solo rs. all are free to join
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

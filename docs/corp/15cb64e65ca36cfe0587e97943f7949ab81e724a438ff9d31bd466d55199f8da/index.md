@@ -15,6 +15,11 @@ date: 1711916138
 ```
  La corporation des Français !
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+La corporation des Français !
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

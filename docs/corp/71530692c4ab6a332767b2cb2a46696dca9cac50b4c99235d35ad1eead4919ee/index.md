@@ -17,6 +17,13 @@ date: 1706193880
 
 Prioritizing White Stars. Discord: https://discord.gg/wZeNus6JEf
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Taking active players of all levels. We prioritize team work and help players advance quickly. Three day inactivity tolerance
+
+Prioritizing White Stars. Discord: https://discord.gg/wZeNus6JEf
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -15,6 +15,11 @@ date: 1732661442
 ```
  <color=#80a4ea><size=100>不要捐旗舰<br><size=55>本团为柯伊伯带分团，带打不了暗红的萌新<br>Q群938915853<br>萌新群<br>寻求帮助没人回复请加群，游戏聊天系统没有消息通知！<br>名额有限，小号、僵尸号请离开<br>研究站停止的或红点会被移除，同时会收到邀请，回游后点右下角的社交按钮邀请加入</size></color>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:#80a4ea;">&lt;size=100&gt;不要捐旗舰&lt;br&gt;&lt;size=55&gt;本团为柯伊伯带分团，带打不了暗红的萌新&lt;br&gt;Q群938915853&lt;br&gt;萌新群&lt;br&gt;寻求帮助没人回复请加群，游戏聊天系统没有消息通知！&lt;br&gt;名额有限，小号、僵尸号请离开&lt;br&gt;研究站停止的或红点会被移除，同时会收到邀请，回游后点右下角的社交按钮邀请加入&lt;/size&gt;</span>
+</div>
+
 ### [Discord](https://discord.gg/xa5t5sD3Hx)
 ### Whitestar Bonus ✅
 

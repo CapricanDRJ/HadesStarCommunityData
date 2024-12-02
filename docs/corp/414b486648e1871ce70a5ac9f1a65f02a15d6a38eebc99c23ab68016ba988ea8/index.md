@@ -15,6 +15,11 @@ date: 1711636388
 ```
  hail the second union.     need active members for white stars
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+hail the second union.     need active members for white stars
+</div>
+
 ### [Discord](https://discord.gg/x6785TFrf2)
 ### Whitestar Bonus ❌
 

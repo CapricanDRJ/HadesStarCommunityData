@@ -15,6 +15,11 @@ date: 1709148762
 ```
  Кукумбер, груша, два кота
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Кукумбер, груша, два кота
+</div>
+
 ### [Discord](https://discord.gg/https://discord.com/invite/MhDzaS2P)
 ### Whitestar Bonus ❌
 

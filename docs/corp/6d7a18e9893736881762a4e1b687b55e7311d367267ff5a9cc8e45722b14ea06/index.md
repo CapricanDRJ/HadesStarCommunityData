@@ -15,6 +15,11 @@ date: 1732831823
 ```
  USA or the United Stars Alliance stands for the good for all of the members Star Nations that are apart of it against the chaos outside of it. Casual group with a couple hardcore players! 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+USA or the United Stars Alliance stands for the good for all of the members Star Nations that are apart of it against the chaos outside of it. Casual group with a couple hardcore players! 
+</div>
+
 ### [Discord](https://discord.gg/https://discord.gg/PvyhHgSDHY)
 ### Whitestar Bonus ❌
 

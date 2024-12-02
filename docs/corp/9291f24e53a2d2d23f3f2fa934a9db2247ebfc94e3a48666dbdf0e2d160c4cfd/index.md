@@ -20,6 +20,16 @@ Discord: discord.gg/aWj7XRq
 Во время БЗ приём ограничен
 Мы в ТГ https://t.me/HS_CCCP
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+&lt;b&gt;<span style="color:"red";">СОЮЗ НЕРУШИМЫЙ
+</span>&lt;/b&gt;Активное участие на БЗ и КЗ 3-10.
+Discord: discord.gg/aWj7XRq
+КРЕПИСЬ И ПРЕВОЗМОГАЙ. 
+Во время БЗ приём ограничен
+Мы в ТГ https://t.me/HS_CCCP
+</div>
+
 ### [Discord](https://discord.gg/aWj7XRq)
 ### Whitestar Bonus ✅
 

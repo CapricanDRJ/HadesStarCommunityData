@@ -15,6 +15,11 @@ date: 1705147495
 ```
  Everyone is welcome to our corporation. Be active and enjoy.😀
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Everyone is welcome to our corporation. Be active and enjoy.😀
+</div>
+
 ### [Discord](https://discord.gg/https://discord.gg/YXXUMaKBFV)
 ### Whitestar Bonus ❌
 

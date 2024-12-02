@@ -16,6 +16,12 @@ date: 1726645867
  Hola esta corporacion es para nuevos 
 que quieran aprender a jugar rodeados de amigo intergalácticos :) UNANSE
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Hola esta corporacion es para nuevos 
+que quieran aprender a jugar rodeados de amigo intergalácticos :) UNANSE
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

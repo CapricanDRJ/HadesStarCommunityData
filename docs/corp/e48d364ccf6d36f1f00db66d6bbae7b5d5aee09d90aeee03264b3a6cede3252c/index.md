@@ -15,6 +15,11 @@ date: 1723022156
 ```
  主团：星光万丈                    集团QQ852308177      暂时封闭
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+主团：星光万丈                    集团QQ852308177      暂时封闭
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

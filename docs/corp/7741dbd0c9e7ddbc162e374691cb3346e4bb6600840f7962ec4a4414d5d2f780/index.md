@@ -15,6 +15,11 @@ date: 1733022937
 ```
  New players welcome, we help players get ready for White Stars and Dark Red Stars. (First Language: English)
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+New players welcome, we help players get ready for White Stars and Dark Red Stars. (First Language: English)
+</div>
+
 ### [Discord](https://discord.gg/zeDuYzkCzk)
 ### Whitestar Bonus ✅
 

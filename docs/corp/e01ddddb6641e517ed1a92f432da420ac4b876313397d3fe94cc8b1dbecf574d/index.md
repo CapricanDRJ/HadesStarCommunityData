@@ -15,6 +15,11 @@ date: 1727929599
 ```
  Welcome to the 3rd IA Corporation! Join our Discord within 24 hours to connect with our community and get gameplay support. We're excited to have you on board!
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Welcome to the 3rd IA Corporation! Join our Discord within 24 hours to connect with our community and get gameplay support. We're excited to have you on board!
+</div>
+
 ### [Discord](https://discord.gg/bAAYCqG2cE)
 ### Whitestar Bonus ❌
 

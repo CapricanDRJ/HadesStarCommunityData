@@ -15,6 +15,11 @@ date: 1723474731
 ```
   Request ONLY if you want to play WHITE STAR CAMPAIGNS. NBA fans welcome also:)
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+ Request ONLY if you want to play WHITE STAR CAMPAIGNS. NBA fans welcome also:)
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

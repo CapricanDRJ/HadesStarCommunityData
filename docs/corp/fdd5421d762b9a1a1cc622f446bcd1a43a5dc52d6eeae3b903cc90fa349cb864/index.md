@@ -20,6 +20,16 @@ Discord link below for game advice, private RS coordination, trading, White Star
 
 https://discord.gg/HV5zgTg3SQ
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Competitive White Stars
+
+
+Discord link below for game advice, private RS coordination, trading, White Star war room and general chitchat. 
+
+https://discord.gg/HV5zgTg3SQ
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

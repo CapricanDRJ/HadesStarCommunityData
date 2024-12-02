@@ -18,6 +18,14 @@ date: 1724653949
 集团QQ群：979969673
 分支         ：萌新的收留所2                        
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+这是个不怎么活跃的集团
+但是这是个摸鱼集团，只要友好相处
+集团QQ群：979969673
+分支         ：萌新的收留所2                        
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

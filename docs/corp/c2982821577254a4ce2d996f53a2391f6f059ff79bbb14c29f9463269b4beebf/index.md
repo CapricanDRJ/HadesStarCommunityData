@@ -21,6 +21,17 @@ White Stars often, numbers permitting.
 
 No Discord!
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Join us and Chill, Chat or run Red Stars together.
+ 
+Daily Dark Red Stars!
+
+White Stars often, numbers permitting.
+
+No Discord!
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

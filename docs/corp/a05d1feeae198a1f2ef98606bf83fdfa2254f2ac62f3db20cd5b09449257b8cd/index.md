@@ -17,6 +17,13 @@ date: 1732905148
 Ignoring the White Stars is a kick from the corporation.
 https://t.me/DS_DarkSide
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+You were supposed to fight evil, not join it.
+Ignoring the White Stars is a kick from the corporation.
+https://t.me/DS_DarkSide
+</div>
+
 ### [Discord](https://discord.gg/https://discord.com/invite/https://discord.com/invite/UMSR6Uyej5)
 ### Whitestar Bonus ✅
 

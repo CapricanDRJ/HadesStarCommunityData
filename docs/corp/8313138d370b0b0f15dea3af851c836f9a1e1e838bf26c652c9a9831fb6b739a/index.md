@@ -19,6 +19,15 @@ date: 1717539178
 
 RS6 and Discord needed. (YTaYrhy)
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:orange;">We are BSO! The Oldest Thriving Alliance in H'S.</span>
+
+&lt;b&gt;BlackStar Order, Final, Path of Hades, UG, TS and Dauntless working together to excel.&lt;/b&gt;
+
+RS6 and Discord needed. (YTaYrhy)
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

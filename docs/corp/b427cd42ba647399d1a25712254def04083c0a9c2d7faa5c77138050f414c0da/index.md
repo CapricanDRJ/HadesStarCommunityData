@@ -17,6 +17,13 @@ date: 1709307723
 墨痕Q群：796512160
 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+红活专用团
+墨痕Q群：796512160
+
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

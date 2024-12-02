@@ -15,6 +15,11 @@ date: 1705458831
 ```
  need active players. If you want to participate in WS you have to join the discord. Trading and co-op RS also available.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+need active players. If you want to participate in WS you have to join the discord. Trading and co-op RS also available.
+</div>
+
 ### [Discord](https://discord.gg/https://discord.gg/DpavCfx8XJ)
 ### Whitestar Bonus ❌
 

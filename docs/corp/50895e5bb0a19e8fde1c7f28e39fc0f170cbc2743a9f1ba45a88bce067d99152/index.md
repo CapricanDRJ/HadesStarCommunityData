@@ -20,6 +20,16 @@ date: 1729304228
 
 <color=red>Joining Discord is required for membership</color>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:yellow;">Middle of the Road corp of Oceania Alliance</span>
+
+☼ Weekly Competitive/casual WS
+☼ RS5-8
+
+<span style="color:red;">Joining Discord is required for membership</span>
+</div>
+
 ### [Discord](https://discord.gg/https://discord.com/invite/bpZe9bqY)
 ### Whitestar Bonus ❌
 

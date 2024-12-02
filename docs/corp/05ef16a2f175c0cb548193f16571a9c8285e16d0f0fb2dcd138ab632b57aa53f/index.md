@@ -15,6 +15,11 @@ date: 1731052270
 ```
  $TAR$ - Twinkkonzern
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+$TAR$ - Twinkkonzern
+</div>
+
 ### [Discord](https://discord.gg/SK46885)
 ### Whitestar Bonus ❌
 

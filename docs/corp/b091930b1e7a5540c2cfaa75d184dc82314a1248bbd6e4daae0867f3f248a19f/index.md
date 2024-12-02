@@ -20,6 +20,16 @@ date: 1733111578
 В наличии также Discord и Telegram
 </i></color>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:white;">&lt;i&gt;✴ КЗ 7-10 
+✴ Еженедельное БЗ 
+✴ Слаженный коллектив
+
+В наличии также Discord и Telegram
+&lt;/i&gt;</span>
+</div>
+
 ### [Discord](https://discord.gg/YVP3QdjE3d)
 ### Whitestar Bonus ❌
 

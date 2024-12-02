@@ -15,6 +15,11 @@ date: 1700546696
 ```
  Charter and Comander
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Charter and Comander
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

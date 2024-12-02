@@ -15,6 +15,11 @@ date: 1709878939
 ```
  <color=#a30606><size=115>₣ØⱤ₲ɆĐ ฿Ɏ ₣łⱤɆ™</size></color>  www.guilded.gg/i/27LVznwk 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:#a30606;">&lt;size=115&gt;₣ØⱤ₲ɆĐ ฿Ɏ ₣łⱤɆ™&lt;/size&gt;</span>  www.guilded.gg/i/27LVznwk 
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

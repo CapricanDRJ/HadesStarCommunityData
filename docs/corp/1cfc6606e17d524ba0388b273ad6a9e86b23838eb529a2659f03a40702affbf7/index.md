@@ -15,6 +15,11 @@ date: 1732091325
 ```
  Part of ARk Ecosystem. We do WS every month. Don't forget to join our Discord
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Part of ARk Ecosystem. We do WS every month. Don't forget to join our Discord
+</div>
+
 ### [Discord](https://discord.gg/bkjju25TCs)
 ### Whitestar Bonus ❌
 

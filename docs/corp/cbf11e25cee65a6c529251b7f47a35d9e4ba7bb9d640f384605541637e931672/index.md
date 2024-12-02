@@ -15,6 +15,11 @@ date: 1732697191
 ```
  ссылка  на группу  в телеграм :  https://t.me/+df2dk6xC7QM4ZWZi
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+ссылка  на группу  в телеграм :  https://t.me/+df2dk6xC7QM4ZWZi
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

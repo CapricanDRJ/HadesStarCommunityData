@@ -23,6 +23,19 @@ Join via Discord: <color=yellow> https://discord.gg/vPsNNxs </color>
 Discord MANDATORY.
 We have awesome queue for rs runs!
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:yellow;">U.I.H. Corp.</span>
+Corvus Ind 🤍 
+
+New players welcomed!
+
+Join via Discord: <span style="color:yellow;"> https://discord.gg/vPsNNxs </span>
+
+Discord MANDATORY.
+We have awesome queue for rs runs!
+</div>
+
 ### [Discord](https://discord.gg/vPsNNxs)
 ### Whitestar Bonus ❌
 

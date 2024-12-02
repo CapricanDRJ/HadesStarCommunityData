@@ -15,6 +15,11 @@ date: 1732994995
 ```
  Estr. blanca lunes a las 14:00h. Si no participas desactivate. Si participas la asistencia es obligada, no participar = expulsión. Rojas de L a V a las 22:00. Discord recomendado, tenemos comunidad.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Estr. blanca lunes a las 14:00h. Si no participas desactivate. Si participas la asistencia es obligada, no participar = expulsión. Rojas de L a V a las 22:00. Discord recomendado, tenemos comunidad.
+</div>
+
 ### [Discord](https://discord.gg/https://discord.gg/MZDNrGyav9)
 ### Whitestar Bonus ❌
 

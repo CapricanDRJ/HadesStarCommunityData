@@ -21,6 +21,17 @@ date: 1725715639
 外交部：933074464
 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+集团为六大天神旗下分盟，欢迎大佬和萌新的到来
+不定期帮助成员打红星和暗红，以获取更快的发展
+白星常开，招募各白星活跃人员与打手，白星结束后会不定期为贡献较多与突出贡献的成员发放r7-r9不同加成的神器以示鼓励
+红点可以有，但不能常有，定期清理红点。
+常驻加集团群：592237015
+外交部：933074464
+
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

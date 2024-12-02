@@ -15,6 +15,11 @@ date: 1732635897
 ```
  We are open to people who want to participate in white stars.  nice people with respect and open minded communication. come in and find out. :-)
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+We are open to people who want to participate in white stars.  nice people with respect and open minded communication. come in and find out. :-)
+</div>
+
 ### [Discord](https://discord.gg/srVXzBFEMH)
 ### Whitestar Bonus ❌
 

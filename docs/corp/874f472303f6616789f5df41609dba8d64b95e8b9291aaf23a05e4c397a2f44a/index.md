@@ -15,6 +15,11 @@ date: 1730897510
 ```
  <color=#FFFFFF>WELCOME TO <color=#FFD700>SUN OF <color=#FFFF00>3<color=#FFD700>LANDS <color=#FFFFFF>We Warmly welcome Newcomer here. Sa mga gustong sumali sa WsRaid DM nyo lang Ako at my GC kami sa MS
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:#FFFFFF;">WELCOME TO <span style="color:#FFD700;">SUN OF <span style="color:#FFFF00;">3<span style="color:#FFD700;">LANDS <span style="color:#FFFFFF;">We Warmly welcome Newcomer here. Sa mga gustong sumali sa WsRaid DM nyo lang Ako at my GC kami sa MS
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

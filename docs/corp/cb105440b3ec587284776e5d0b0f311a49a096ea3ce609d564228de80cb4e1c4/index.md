@@ -17,6 +17,13 @@ date: 1717392827
 
 https://discord.gg/EKJFqvs7XA
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Anfänger willkommen. Erfahrene Spieler helfen und geben Tips.
+
+https://discord.gg/EKJFqvs7XA
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

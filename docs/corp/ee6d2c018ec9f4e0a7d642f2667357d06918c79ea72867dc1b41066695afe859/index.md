@@ -15,6 +15,11 @@ date: 1705425169
 ```
  Корпорация создана в июне 2020г.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Корпорация создана в июне 2020г.
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

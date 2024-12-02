@@ -15,6 +15,11 @@ date: 1714444916
 ```
  Русская корпорация ищет активных участников для развития и процветания.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Русская корпорация ищет активных участников для развития и процветания.
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

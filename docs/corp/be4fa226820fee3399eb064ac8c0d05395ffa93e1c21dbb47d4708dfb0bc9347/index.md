@@ -15,6 +15,11 @@ date: 1725244750
 ```
  Мы бороздим космос.Исследуем его,защищаем слабых,сохраняем мир и порядок. Ищем активных игроков на бз. Мы в телеграмм https://t.me/rayndjery
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Мы бороздим космос.Исследуем его,защищаем слабых,сохраняем мир и порядок. Ищем активных игроков на бз. Мы в телеграмм https://t.me/rayndjery
+</div>
+
 ### [Discord](https://discord.gg/nPSe9UY)
 ### Whitestar Bonus ❌
 

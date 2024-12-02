@@ -15,6 +15,11 @@ date: 1726474082
 ```
  Looking for active player. Have fun with RS, WS, BS in any playstyle you want.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Looking for active player. Have fun with RS, WS, BS in any playstyle you want.
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

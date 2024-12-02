@@ -15,6 +15,11 @@ date: 1733111578
 ```
  ＴＩＴΛＮＳ  ᴴᵉʳᵉ ᶠᵒʳ ᵛⁱᶜᵗᵒʳⁱᵉˢ ᵃⁿᵈ ᶠᵘⁿ• ᴳʳᵉᵃᵗ ᵖᵉᵒᵖˡᵉ ᶠʳᵒᵐ ᵃᶜʳᵒˢˢ ᵗʰᵉ ʷᵒʳˡᵈ ᶠᵒʳ ᵃ ᶜᵒᵐᵐᵒⁿ ᵍᵒᵃˡ• ᵀᵒ ᵏⁱˡˡ ᶜᵉʳᵇˢ ᵃⁿᵈ ʷⁱⁿ😁😄•visit hadestitans.com. We are in an alliance with Spaceballs & the Warriorlords.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+ＴＩＴΛＮＳ  ᴴᵉʳᵉ ᶠᵒʳ ᵛⁱᶜᵗᵒʳⁱᵉˢ ᵃⁿᵈ ᶠᵘⁿ• ᴳʳᵉᵃᵗ ᵖᵉᵒᵖˡᵉ ᶠʳᵒᵐ ᵃᶜʳᵒˢˢ ᵗʰᵉ ʷᵒʳˡᵈ ᶠᵒʳ ᵃ ᶜᵒᵐᵐᵒⁿ ᵍᵒᵃˡ• ᵀᵒ ᵏⁱˡˡ ᶜᵉʳᵇˢ ᵃⁿᵈ ʷⁱⁿ😁😄•visit hadestitans.com. We are in an alliance with Spaceballs & the Warriorlords.
+</div>
+
 ### [Discord](https://discord.gg/N9PNB6NVCZ)
 ### Whitestar Bonus ✅
 

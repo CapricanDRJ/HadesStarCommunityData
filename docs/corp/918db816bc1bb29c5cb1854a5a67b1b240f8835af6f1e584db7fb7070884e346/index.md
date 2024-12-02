@@ -21,6 +21,17 @@ date: 1732880199
 
 Évolution chez "On en a Gros" pour RS8+
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+"Victoriae mundis et mundis lacrima" 
+
+✓RS 1&gt;7, WS 10 tous les 5 jours (discord requis)
+✓Entraide et bonne ambiance
+✓https://discord.gg/EXj5vtr
+
+Évolution chez "On en a Gros" pour RS8+
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

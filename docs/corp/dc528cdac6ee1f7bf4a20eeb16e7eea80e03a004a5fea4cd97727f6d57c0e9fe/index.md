@@ -15,6 +15,11 @@ date: 1728400193
 ```
  Foundation of the pixelated expanse. Friendly, open to all, starting anew with the old Tiesa crew!
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Foundation of the pixelated expanse. Friendly, open to all, starting anew with the old Tiesa crew!
+</div>
+
 ### [Discord](https://discord.gg/wuKuPvr)
 ### Whitestar Bonus ❌
 

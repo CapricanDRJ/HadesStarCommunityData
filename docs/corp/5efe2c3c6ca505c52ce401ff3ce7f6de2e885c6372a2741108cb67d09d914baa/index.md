@@ -15,6 +15,11 @@ date: 1712266197
 ```
  Silence is a virtue.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Silence is a virtue.
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

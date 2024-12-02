@@ -23,6 +23,19 @@ https://discord.gg/gBFFE5x
 
 od-family.com
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+We are &lt;b&gt;OntarioDestiny&lt;/b&gt;
+Top 200 RS and WS intro corp for the 
+OntarioDynasty family of corps.
+
+Learn from experienced players
+Apply via Discord
+https://discord.gg/gBFFE5x
+
+od-family.com
+</div>
+
 ### [Discord](https://discord.gg/gBFFE5x)
 ### Whitestar Bonus ❌
 

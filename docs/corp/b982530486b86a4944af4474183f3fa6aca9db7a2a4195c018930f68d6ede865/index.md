@@ -15,6 +15,11 @@ date: 1724412671
 ```
  欢迎各位萌新加入。
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+欢迎各位萌新加入。
+</div>
+
 ### [Discord](https://discord.gg/JXaTpU9Q)
 ### Whitestar Bonus ❌
 

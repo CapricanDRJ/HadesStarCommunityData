@@ -15,6 +15,11 @@ date: 1715051835
 ```
  Deutschsprachiger Konzern sucht aktive Spieler mit Interesse an RR und WZ. Spaß am Spiel steht bei uns im Vordergrund, Hilfe bei Rrs immer gegeben, Wz meist wöchentlich 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Deutschsprachiger Konzern sucht aktive Spieler mit Interesse an RR und WZ. Spaß am Spiel steht bei uns im Vordergrund, Hilfe bei Rrs immer gegeben, Wz meist wöchentlich 
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

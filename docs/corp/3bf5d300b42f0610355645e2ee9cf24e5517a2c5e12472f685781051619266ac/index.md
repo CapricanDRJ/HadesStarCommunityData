@@ -15,6 +15,11 @@ date: 1732701698
 ```
  Bienvenidos a Sprite alianza AXOLOTS:  conquistandonel cosmos, un día a la vez. Estrellas Blancas exigentes, trabajo en equipo y estrategia. Nuestra filosofía: unidos somos invencibles.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Bienvenidos a Sprite alianza AXOLOTS:  conquistandonel cosmos, un día a la vez. Estrellas Blancas exigentes, trabajo en equipo y estrategia. Nuestra filosofía: unidos somos invencibles.
+</div>
+
 ### [Discord](https://discord.gg/https://discord.gg/8CwHU4SE)
 ### Whitestar Bonus ❌
 

@@ -18,6 +18,14 @@ We run a weekly WS scanning on Saturday.
 Discord:
 https://discord.gg/wvk5YXqa4y
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Chill laid back corp looking for new and experienced players. Looking for active players.
+We run a weekly WS scanning on Saturday.
+Discord:
+https://discord.gg/wvk5YXqa4y
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

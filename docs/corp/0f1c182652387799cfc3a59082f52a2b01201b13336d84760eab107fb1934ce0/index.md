@@ -15,6 +15,11 @@ date: 1712499667
 ```
  There is only one clock that matters.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+There is only one clock that matters.
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

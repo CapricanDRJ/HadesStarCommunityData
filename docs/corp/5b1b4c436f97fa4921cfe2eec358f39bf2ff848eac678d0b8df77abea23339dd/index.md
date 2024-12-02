@@ -15,6 +15,11 @@ date: 1705985522
 ```
  dead corp 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+dead corp 
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

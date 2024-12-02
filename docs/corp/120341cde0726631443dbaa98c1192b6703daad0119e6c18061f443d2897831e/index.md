@@ -15,6 +15,11 @@ date: 1708830541
 ```
  <color=red>抵抗压迫者，联盟共产星际集团                                                <color=white>本集团追求平等自由  承诺人人权力平等！ 本集团由大量学生组成  在校期间学业繁忙          故上线人数少  如有活跃者 想谋求长远发展者    请移步共产星际  及其附属集团  寻求更合适的环境
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:red;">抵抗压迫者，联盟共产星际集团                                                <span style="color:white;">本集团追求平等自由  承诺人人权力平等！ 本集团由大量学生组成  在校期间学业繁忙          故上线人数少  如有活跃者 想谋求长远发展者    请移步共产星际  及其附属集团  寻求更合适的环境
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

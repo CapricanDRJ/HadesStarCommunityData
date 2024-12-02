@@ -15,6 +15,11 @@ date: 1704392606
 ```
  The reemergence of Space Gamers with Super Stars!
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+The reemergence of Space Gamers with Super Stars!
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

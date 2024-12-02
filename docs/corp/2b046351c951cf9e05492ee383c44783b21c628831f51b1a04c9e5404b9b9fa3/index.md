@@ -15,6 +15,11 @@ date: 1711617455
 ```
  Welcome to Paramedic ICU. This is a clan/corporation based on respecting the higher-ups, being friendly, and helping your comrads out.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Welcome to Paramedic ICU. This is a clan/corporation based on respecting the higher-ups, being friendly, and helping your comrads out.
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

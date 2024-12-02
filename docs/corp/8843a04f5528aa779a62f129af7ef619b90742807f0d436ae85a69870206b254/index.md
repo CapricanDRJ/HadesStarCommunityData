@@ -15,6 +15,11 @@ date: 1728493664
 ```
  Join the discord! No flagship donations.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Join the discord! No flagship donations.
+</div>
+
 ### [Discord](https://discord.gg/XPrcvp9hKs)
 ### Whitestar Bonus ❌
 

@@ -18,6 +18,14 @@ date: 1712178754
 •Estrellas Blancas ✓
 •Discord [PgyhFfhnT3] 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+&lt;size=100&gt;&lt;b&gt;<span style="color:Red;">Orden Real </span>&lt;/b&gt;&lt;/size&gt;
+•Estrellas Rojas ✓
+•Estrellas Blancas ✓
+•Discord [PgyhFfhnT3] 
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

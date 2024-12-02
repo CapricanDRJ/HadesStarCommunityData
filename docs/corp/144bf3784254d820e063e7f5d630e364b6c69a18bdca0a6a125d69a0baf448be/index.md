@@ -15,6 +15,11 @@ date: 1721093092
 ```
  Dedicated to helping new and lower level players learn all aspects the game and grow. Discord server linked below!
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Dedicated to helping new and lower level players learn all aspects the game and grow. Discord server linked below!
+</div>
+
 ### [Discord](https://discord.gg/https://discord.com/invite/NZqXs3FcKU)
 ### Whitestar Bonus ❌
 

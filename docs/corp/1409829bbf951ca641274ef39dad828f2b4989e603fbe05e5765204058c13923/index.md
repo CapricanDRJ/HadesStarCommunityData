@@ -17,6 +17,13 @@ date: 1706690027
 ※Q群:936222291
 ※DIS: dAxzXqc</color> </size></b>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+&lt;b&gt;&lt;size=50&gt;※休息中</span> <span style="color:orange;">
+※Q群:936222291
+※DIS: dAxzXqc</span> &lt;/size&gt;&lt;/b&gt;
+</div>
+
 ### [Discord](https://discord.gg/dAxzXqc)
 ### Whitestar Bonus ❌
 

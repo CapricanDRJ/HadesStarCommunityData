@@ -16,6 +16,12 @@ date: 1703247402
  Bienvenue à tous les aventuriers galactique !
 https://discord.gg/M8HFPDG
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Bienvenue à tous les aventuriers galactique !
+https://discord.gg/M8HFPDG
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

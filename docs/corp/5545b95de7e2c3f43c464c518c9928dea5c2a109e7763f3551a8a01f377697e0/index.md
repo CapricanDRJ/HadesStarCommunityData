@@ -15,6 +15,11 @@ date: 1732870893
 ```
  para todos los patriotas
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+para todos los patriotas
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

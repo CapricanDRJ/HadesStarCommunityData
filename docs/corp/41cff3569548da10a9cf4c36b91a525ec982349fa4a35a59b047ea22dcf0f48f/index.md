@@ -17,6 +17,13 @@ date: 1732704702
 TRAPSTAR½
 ¹½
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+ENTRE E VEM JOGAR CONOSCO.
+TRAPSTAR½
+¹½
+</div>
+
 ### [Discord](https://discord.gg/IPTV.IT)
 ### Whitestar Bonus ❌
 

@@ -15,6 +15,11 @@ date: 1731983527
 ```
  Добро пожаловать, мы в ТГ https://t.me/Lyutyee
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Добро пожаловать, мы в ТГ https://t.me/Lyutyee
+</div>
+
 ### [Discord](https://discord.gg/https://t.me/Lyutyee)
 ### Whitestar Bonus ❌
 

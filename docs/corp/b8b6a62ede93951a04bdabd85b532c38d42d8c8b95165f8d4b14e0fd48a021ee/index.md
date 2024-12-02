@@ -17,6 +17,13 @@ date: 1729244103
  Discord obligatoire pour les WS. Merci :) 
 Lien: https://discord.gg/gaBKUb5t
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Corporation active et joueuse.WS régulièrement prévues. 
+ Discord obligatoire pour les WS. Merci :) 
+Lien: https://discord.gg/gaBKUb5t
+</div>
+
 ### [Discord](https://discord.gg/https://discord.gg/fMRUUb7X)
 ### Whitestar Bonus ❌
 

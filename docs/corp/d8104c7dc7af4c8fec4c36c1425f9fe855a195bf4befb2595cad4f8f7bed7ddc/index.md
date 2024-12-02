@@ -21,6 +21,17 @@ Join our public RS queue on discord!
 <color=white>FS1 - Open
 FS2 - Closed
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:yellow;">U.I.H. Corp
+<span style="color:white;">16-52% RS artifact bonuses
+Join our public RS queue on discord!
+
+<span style="color:yellow;">Flagship Donations:
+<span style="color:white;">FS1 - Open
+FS2 - Closed
+</div>
+
 ### [Discord](https://discord.gg/vPsNNxs)
 ### Whitestar Bonus ✅
 

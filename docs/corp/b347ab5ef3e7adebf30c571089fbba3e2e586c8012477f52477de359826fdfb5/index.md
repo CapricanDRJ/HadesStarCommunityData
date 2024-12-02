@@ -15,6 +15,11 @@ date: 1707427495
 ```
  BlackOrca Corp.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+BlackOrca Corp.
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

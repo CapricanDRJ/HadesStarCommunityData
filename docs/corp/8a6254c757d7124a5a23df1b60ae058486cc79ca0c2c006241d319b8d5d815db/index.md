@@ -15,6 +15,11 @@ date: 1712589809
 ```
  Набор активистоV для участия в батилиях на бз. БЗ с пн-пт, сб-вс выходной
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Набор активистоV для участия в батилиях на бз. БЗ с пн-пт, сб-вс выходной
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

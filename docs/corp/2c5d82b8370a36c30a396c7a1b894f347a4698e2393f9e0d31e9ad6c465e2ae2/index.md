@@ -15,6 +15,11 @@ date: 1719449551
 ```
  Anyone who wants can join.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Anyone who wants can join.
+</div>
+
 ### [Discord](https://discord.gg/https://discord.gg/hfh5fpT7)
 ### Whitestar Bonus ❌
 

@@ -16,6 +16,12 @@ date: 1729169549
  직딩 환영
 자유롭게 놉시다
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+직딩 환영
+자유롭게 놉시다
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

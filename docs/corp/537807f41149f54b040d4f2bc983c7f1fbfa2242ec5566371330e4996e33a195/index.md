@@ -23,6 +23,19 @@ MarceloPC#2109
 
 JUNTOS SOMOS MAIS FORTES
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Estamos a procura de guerreiros para Estrelas Brancas!
+
+Entre em contato com o Camereth 
++351 960 460 999
+
+Nosso diplomata no Discord
+MarceloPC#2109
+
+JUNTOS SOMOS MAIS FORTES
+</div>
+
 ### [Discord](https://discord.gg/fmyTs3k)
 ### Whitestar Bonus ❌
 

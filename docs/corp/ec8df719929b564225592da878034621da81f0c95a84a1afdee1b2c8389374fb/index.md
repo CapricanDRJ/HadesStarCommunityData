@@ -15,6 +15,11 @@ date: 1702976615
 ```
  Für Langweiler
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Für Langweiler
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

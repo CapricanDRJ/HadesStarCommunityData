@@ -15,6 +15,11 @@ date: 1726054582
 ```
  <size=96><color=#fff>代表者が愛の国へ旅立ちましたので活動停止とします⛪5年間ありがとう！以下を検索！</color></size><color=#fff><br>推薦コーポ<br>🟡Spica(No Discord＆SNS) <br>🟢星を継ぐもの<br>●リリース<br>🟣CdS天文台<br>Regulus活動期間2019.08〜2024.09
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+&lt;size=96&gt;<span style="color:#fff;">代表者が愛の国へ旅立ちましたので活動停止とします⛪5年間ありがとう！以下を検索！</span>&lt;/size&gt;<span style="color:#fff;">&lt;br&gt;推薦コーポ&lt;br&gt;🟡Spica(No Discord＆SNS) &lt;br&gt;🟢星を継ぐもの&lt;br&gt;●リリース&lt;br&gt;🟣CdS天文台&lt;br&gt;Regulus活動期間2019.08〜2024.09
+</div>
+
 ### [Discord](https://discord.gg/3WAXnPcaNe)
 ### Whitestar Bonus ❌
 

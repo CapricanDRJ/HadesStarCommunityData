@@ -16,6 +16,12 @@ date: 1702547267
  Телеграм: @prorabMax 
 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Телеграм: @prorabMax 
+
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

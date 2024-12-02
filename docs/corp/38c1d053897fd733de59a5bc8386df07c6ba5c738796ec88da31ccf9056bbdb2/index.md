@@ -15,6 +15,11 @@ date: 1712311014
 ```
  cooperate with each other and crush the competition, be helpful and simply put don't be a dick >.>(rs3+ required)
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+cooperate with each other and crush the competition, be helpful and simply put don't be a dick &gt;.&gt;(rs3+ required)
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

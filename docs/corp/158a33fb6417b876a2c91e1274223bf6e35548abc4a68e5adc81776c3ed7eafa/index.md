@@ -21,6 +21,17 @@ All levels are welcome!
 Discord is mandatory for WS participation!
 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Welcome!  SisterCorp to No Orbit©. 
+Here to have fun and WS. 
+Stay active and no disrespectful players. 
+All levels are welcome!
+
+Discord is mandatory for WS participation!
+
+</div>
+
 ### [Discord](https://discord.gg/CNh7tUG)
 ### Whitestar Bonus ❌
 

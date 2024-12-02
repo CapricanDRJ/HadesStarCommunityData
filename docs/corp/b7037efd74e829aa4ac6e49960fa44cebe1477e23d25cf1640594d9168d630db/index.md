@@ -21,6 +21,17 @@ Join our discord: T7DV2nx
 If kicked for inactivity, please join back when ready.  
 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Competitive White Stars every week
+
+Part of the Space Ghost Alliance (SGA).
+Join our discord: T7DV2nx
+
+If kicked for inactivity, please join back when ready.  
+
+</div>
+
 ### [Discord](https://discord.gg/fYBf2GNU7y)
 ### Whitestar Bonus ✅
 

@@ -17,6 +17,13 @@ date: 1713171237
 <color=orange> Це корпорація Star Conflict ☜(◐﹏◑)| </color>
 <color=yellow>У нас тут дружній колектив \(※↭※)/ </color><color=red>Наш ТГ канал:https://t.me/+vzm06AL8ZX</color>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Привіт |(⊙▽⊙)-✋!</span>
+<span style="color:orange;"> Це корпорація Star Conflict ☜(◐﹏◑)| </span>
+<span style="color:yellow;">У нас тут дружній колектив \(※↭※)/ </span><span style="color:red;">Наш ТГ канал:https://t.me/+vzm06AL8ZX</span>
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -17,6 +17,13 @@ date: 1701861287
 <color=red>...</color>
 Discord.gg/<b>WAXSmUb</b></color>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:#00FF33;">
+<span style="color:red;">...</span>
+Discord.gg/&lt;b&gt;WAXSmUb&lt;/b&gt;</span>
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

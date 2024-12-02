@@ -15,6 +15,11 @@ date: 1732944209
 ```
  <#FFDBAF>种田 Q群254025666                                                <#FF1620>萌新常驻可提供r5，6，<#AAC6FF>欢迎前来打白，捐旗舰1！
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+&lt;#FFDBAF&gt;种田 Q群254025666                                                &lt;#FF1620&gt;萌新常驻可提供r5，6，&lt;#AAC6FF&gt;欢迎前来打白，捐旗舰1！
+</div>
+
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

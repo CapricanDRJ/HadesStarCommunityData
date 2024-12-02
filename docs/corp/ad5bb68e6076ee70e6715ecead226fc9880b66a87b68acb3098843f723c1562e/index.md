@@ -15,6 +15,11 @@ date: 1732789143
 ```
  Fun, easy going yet hardass corp for all. Discord account required for White Star runs.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Fun, easy going yet hardass corp for all. Discord account required for White Star runs.
+</div>
+
 ### [Discord](https://discord.gg/https://discord.gg/X8mRJ994nY)
 ### Whitestar Bonus ✅
 

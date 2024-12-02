@@ -15,6 +15,11 @@ date: 1733011558
 ```
  Aquí, todos los miembros se forjan un nombre en este hostil sistema. Unete a nosotros en esta larga travesía.             -Capital del Imperio Pendejico- Discord: https://discord.com/invite/fRfYczjyuD
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Aquí, todos los miembros se forjan un nombre en este hostil sistema. Unete a nosotros en esta larga travesía.             -Capital del Imperio Pendejico- Discord: https://discord.com/invite/fRfYczjyuD
+</div>
+
 ### [Discord](https://discord.gg/fRfYczjyuD)
 ### Whitestar Bonus ✅
 

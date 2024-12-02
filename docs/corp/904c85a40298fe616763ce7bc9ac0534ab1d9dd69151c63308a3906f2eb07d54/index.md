@@ -15,6 +15,11 @@ date: 1716342684
 ```
  Welcome to the Thunderbears!  New and Active, learning the game together. Discord is a requirement. 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Welcome to the Thunderbears!  New and Active, learning the game together. Discord is a requirement. 
+</div>
+
 ### [Discord](https://discord.gg/ZnXzQ8uS)
 ### Whitestar Bonus ❌
 

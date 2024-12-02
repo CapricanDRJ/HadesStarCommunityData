@@ -15,6 +15,11 @@ date: 1732994995
 ```
  Bem vindo à BRASIL STAR <br><br>Estrelas Vermelhas (RS) e Estrelas Brancas (WS) coordenadas pelo WhatsApp, peça para te adicionarem no grupo no chat da corporação :D
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Bem vindo à BRASIL STAR &lt;br&gt;&lt;br&gt;Estrelas Vermelhas (RS) e Estrelas Brancas (WS) coordenadas pelo WhatsApp, peça para te adicionarem no grupo no chat da corporação :D
+</div>
+
 ### [Discord](https://discord.gg/MV5xAcu9Vz)
 ### Whitestar Bonus ✅
 

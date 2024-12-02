@@ -15,6 +15,11 @@ date: 1714825274
 ```
  <color=#FFD700>Nata il 04/09/2020 <br><br><b>OFFRIAMO: divertimento, relax e supporto PRETENDIAMO: educazione e cooperazione</b><br>RS 1-11<br><br>Strade? Dove andiamo noi non servono strade</color>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:#FFD700;">Nata il 04/09/2020 &lt;br&gt;&lt;br&gt;&lt;b&gt;OFFRIAMO: divertimento, relax e supporto PRETENDIAMO: educazione e cooperazione&lt;/b&gt;&lt;br&gt;RS 1-11&lt;br&gt;&lt;br&gt;Strade? Dove andiamo noi non servono strade</span>
+</div>
+
 ### [Discord](https://discord.gg/B5y6qXw)
 ### Whitestar Bonus ❌
 

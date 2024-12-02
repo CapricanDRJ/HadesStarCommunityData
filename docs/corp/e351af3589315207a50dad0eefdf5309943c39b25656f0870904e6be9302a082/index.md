@@ -16,6 +16,12 @@ date: 1701915990
  <size=90>欢迎加入</size><color=yellow><b>宇宙警察局</b></color>(~0~)来了就当一个<color=green>合格的</color><color=red><i>警</i></color><a><i>察</I></a>吧！
 <b>警局QQ931045807</b>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+&lt;size=90&gt;欢迎加入&lt;/size&gt;<span style="color:yellow;">&lt;b&gt;宇宙警察局&lt;/b&gt;</span>(~0~)来了就当一个<span style="color:green;">合格的</span><span style="color:red;">&lt;i&gt;警&lt;/i&gt;</span>&lt;a&gt;&lt;i&gt;察&lt;/I&gt;&lt;/a&gt;吧！
+&lt;b&gt;警局QQ931045807&lt;/b&gt;
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

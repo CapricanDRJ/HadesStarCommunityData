@@ -15,6 +15,11 @@ date: 1725589130
 ```
  Open to all, come join and learn or just enjoy playing, no discord necessary
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Open to all, come join and learn or just enjoy playing, no discord necessary
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

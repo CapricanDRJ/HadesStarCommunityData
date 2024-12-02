@@ -15,6 +15,11 @@ date: 1731687844
 ```
  Those who move cargo.     English will be the primary language for communication.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Those who move cargo.     English will be the primary language for communication.
+</div>
+
 ### [Discord](https://discord.gg/AbsBfzPn)
 ### Whitestar Bonus ❌
 

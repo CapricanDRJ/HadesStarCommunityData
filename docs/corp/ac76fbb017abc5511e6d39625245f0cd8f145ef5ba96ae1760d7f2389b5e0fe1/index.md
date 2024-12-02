@@ -15,6 +15,11 @@ date: 1730805560
 ```
  Our leader is writing a good description, please join the corp, enjoy the company.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Our leader is writing a good description, please join the corp, enjoy the company.
+</div>
+
 ### [Discord](https://discord.gg/yddJSxbE72)
 ### Whitestar Bonus ❌
 

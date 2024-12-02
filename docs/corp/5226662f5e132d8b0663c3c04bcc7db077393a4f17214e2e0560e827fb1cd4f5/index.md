@@ -15,6 +15,11 @@ date: 1732983274
 ```
  Guardians united under one.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Guardians united under one.
+</div>
+
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

@@ -20,6 +20,16 @@ date: 1715830706
 -NEW PLAYERS ARE WELCOME HERE
 -THE KICK DAY WILL BE ON SUNDAY IF THE ROSTER IS FULL
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:red;">&lt;size=70&gt;WELCOME TO THE BENDERA&lt;/size&gt;</span> 
+
+-DON'T BE TOXIC 
+-PLEASE BE ACTIVE 
+-NEW PLAYERS ARE WELCOME HERE
+-THE KICK DAY WILL BE ON SUNDAY IF THE ROSTER IS FULL
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

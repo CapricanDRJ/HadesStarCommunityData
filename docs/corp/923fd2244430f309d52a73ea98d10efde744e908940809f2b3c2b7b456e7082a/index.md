@@ -19,6 +19,15 @@ watsapp/ telegram
 помощь новичкам 
 корпус  "ALPHA TECH"
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+простые люди, простые решения. 
+Бз(ws) / КЗ(rs) 
+watsapp/ telegram
+помощь новичкам 
+корпус  "ALPHA TECH"
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

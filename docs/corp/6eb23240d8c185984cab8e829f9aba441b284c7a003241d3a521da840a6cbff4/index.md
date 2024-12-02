@@ -22,6 +22,18 @@ date: 1716034724
 旗舰不要捐钱！(敌人强大）
 卖七级神器可以找独狼编号：VXD-6761
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+这里是企鹅帝国第一分团 加入本团后禁止不留言就离开 上学日不打白 欢迎大家加入                           
+首席干事：帝企鹅（小号）（企鹅帝国）
+副首席：JUG-6353（未在线）
+公会QQ群：680235823
+首席的B站号：Penguin帝企鹅
+黑名单：家园星系（偷神器）
+旗舰不要捐钱！(敌人强大）
+卖七级神器可以找独狼编号：VXD-6761
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -19,6 +19,15 @@ Friendly and helpful community.
 Please be active!
 Discord: https://discord.gg/BpszvZBQ
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Subsidiary of Winged Pheonix Corporation. 
+All are welcome! 
+Friendly and helpful community. 
+Please be active!
+Discord: https://discord.gg/BpszvZBQ
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

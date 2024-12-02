@@ -15,6 +15,11 @@ date: 1715160901
 ```
  Основана 28.08.22. Играем свободно, без напряга, без обязаловки.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Основана 28.08.22. Играем свободно, без напряга, без обязаловки.
+</div>
+
 ### [Discord](https://discord.gg/JdCZm4V45k)
 ### Whitestar Bonus ❌
 

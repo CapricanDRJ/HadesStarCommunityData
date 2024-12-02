@@ -15,6 +15,11 @@ date: 1708320893
 ```
  <color=#aa00ff><i>Everything</i> within warp range belongs to us.</color>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:#aa00ff;">&lt;i&gt;Everything&lt;/i&gt; within warp range belongs to us.</span>
+</div>
+
 ### [Discord](https://discord.gg/vVPYEVWtV7)
 ### Whitestar Bonus ❌
 

@@ -15,6 +15,11 @@ date: 1732680367
 ```
  No camping. Discord mandatory for ws
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+No camping. Discord mandatory for ws
+</div>
+
 ### [Discord](https://discord.gg/https://discord.com/invite/jMqZD8XskE)
 ### Whitestar Bonus ✅
 

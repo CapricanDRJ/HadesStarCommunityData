@@ -15,6 +15,11 @@ date: 1701076397
 ```
  Welcome to Draconis. Anyone is free to join from newbys to experts. Just play relatively regularly and have fun.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Welcome to Draconis. Anyone is free to join from newbys to experts. Just play relatively regularly and have fun.
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

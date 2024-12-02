@@ -17,6 +17,13 @@ date: 1718337194
 
 集团QQ群：1011697232在群里修改成游戏马甲!～(￣▽￣～)
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+咸鱼团，没有在线要求。欢迎常玩的萌新跟大佬。
+
+集团QQ群：1011697232在群里修改成游戏马甲!～(￣▽￣～)
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

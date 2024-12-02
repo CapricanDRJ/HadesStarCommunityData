@@ -20,6 +20,16 @@ CLM
 SpN
 EUR
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+KHØS
+PrG
+QnK
+CLM
+SpN
+EUR
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -15,6 +15,11 @@ date: 1708953767
 ```
  Req: English Speaking, Login Daily & Have Fun.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Req: English Speaking, Login Daily & Have Fun.
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

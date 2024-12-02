@@ -22,6 +22,18 @@ RR0--6.
 Jetzt auch mit discord! 
 https://discord.gg/K3TTj9ED
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Herzlich Willkommen,
+hier herrscht ein lockeres und entspanntes Miteinander.
+
+Wir Fliegen von klein bis größer
+RR0--6.
+
+Jetzt auch mit discord! 
+https://discord.gg/K3TTj9ED
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

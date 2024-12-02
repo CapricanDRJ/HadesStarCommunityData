@@ -15,6 +15,11 @@ date: 1724560193
 ```
  欢迎任何人<br>首席：陆陆陆<br>黑名单：三体(AEN-3092)<br>神圣罗马帝国主团<br>南级星联盟成员<br>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+欢迎任何人&lt;br&gt;首席：陆陆陆&lt;br&gt;黑名单：三体(AEN-3092)&lt;br&gt;神圣罗马帝国主团&lt;br&gt;南级星联盟成员&lt;br&gt;
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

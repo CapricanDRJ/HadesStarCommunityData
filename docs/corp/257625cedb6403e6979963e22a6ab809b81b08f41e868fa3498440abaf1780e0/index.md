@@ -15,6 +15,11 @@ date: 1730131847
 ```
  Part of Oceania Alliance.     New players welcome
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Part of Oceania Alliance.     New players welcome
+</div>
+
 ### [Discord](https://discord.gg/skvJzZH)
 ### Whitestar Bonus ❌
 

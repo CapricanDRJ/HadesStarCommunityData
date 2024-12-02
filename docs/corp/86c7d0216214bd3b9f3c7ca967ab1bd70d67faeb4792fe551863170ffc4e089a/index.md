@@ -20,6 +20,16 @@ date: 1732389807
 ☞分团：边域(开拓ing，影响力不够可来)
 <#BDB76B>[QQ:733613340]
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+&lt;b&gt;心向星海，无惧边界       &lt;/b&gt;                                   <span style="color:green;">本团为北极星联盟成员
+&lt;#fa2401&gt;欢迎萌新大佬
+&lt;#DAA520&gt;Everyone is welcome!
+&lt;#fafafa&gt;常驻可领最高r9神器
+☞分团：边域(开拓ing，影响力不够可来)
+&lt;#BDB76B&gt;[QQ:733613340]
+</div>
+
 ### [Discord](https://discord.gg/8uQgZfVQ)
 ### Whitestar Bonus ❌
 

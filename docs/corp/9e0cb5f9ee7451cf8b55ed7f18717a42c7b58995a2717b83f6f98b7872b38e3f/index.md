@@ -20,6 +20,16 @@ Weekly comp & casual WS.
 
 Join via Discord: N3uPEvsFY9</color>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:white;"><span style="color:yellow;">Proud member of the UIH Family.</span>
+
+Friendly & active rs9 - 11.
+Weekly comp & casual WS.
+
+Join via Discord: N3uPEvsFY9</span>
+</div>
+
 ### [Discord](https://discord.gg/vPsNNxs)
 ### Whitestar Bonus ❌
 

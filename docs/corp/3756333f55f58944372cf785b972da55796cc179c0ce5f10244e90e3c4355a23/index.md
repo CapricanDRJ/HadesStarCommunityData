@@ -15,6 +15,11 @@ date: 1729463812
 ```
  We are here to play white stars. No bs afk players needed!!!
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+We are here to play white stars. No bs afk players needed!!!
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -15,6 +15,11 @@ date: 1712788428
 ```
  Afk
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Afk
+</div>
+
 ### [Discord](https://discord.gg/2zKhKvHw)
 ### Whitestar Bonus ❌
 

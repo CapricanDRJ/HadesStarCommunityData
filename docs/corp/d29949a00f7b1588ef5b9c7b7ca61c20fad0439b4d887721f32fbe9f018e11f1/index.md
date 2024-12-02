@@ -16,6 +16,12 @@ date: 1732340821
  We are Elysium.
 Weekly WS, 38% art bonus, Regularly top 10 on WS leaderboards. We train and play. Join today!
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+We are Elysium.
+Weekly WS, 38% art bonus, Regularly top 10 on WS leaderboards. We train and play. Join today!
+</div>
+
 ### [Discord](https://discord.gg/cxxcsKHz4N)
 ### Whitestar Bonus ❌
 

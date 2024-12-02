@@ -15,6 +15,11 @@ date: 1707314198
 ```
  <size=65><color=yellow>A União dos Impérios de Hades</color></size> é uma aliança militar e econômica com o objetivo de unir impérios contra as forças <color=red>Cerberus</color>. Aceitamos todos.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+&lt;size=65&gt;<span style="color:yellow;">A União dos Impérios de Hades</span>&lt;/size&gt; é uma aliança militar e econômica com o objetivo de unir impérios contra as forças <span style="color:red;">Cerberus</span>. Aceitamos todos.
+</div>
+
 ### [Discord](https://discord.gg/UFK4q6nABF)
 ### Whitestar Bonus ❌
 

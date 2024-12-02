@@ -18,6 +18,14 @@ date: 1706328517
 Rocket-by Baby, in a White Star
 When your ships blow, our relics will soar..
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Hello! We're a friendly, helpful bunch with active WS and RS! Please join Discord before applying!
+<span style="color:red;"></span>
+Rocket-by Baby, in a White Star
+When your ships blow, our relics will soar..
+</div>
+
 ### [Discord](https://discord.gg/5VHFHkC)
 ### Whitestar Bonus ❌
 

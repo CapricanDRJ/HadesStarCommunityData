@@ -15,6 +15,11 @@ date: 1713941389
 ```
  (◉▼◉ ﾐﾐ )Э
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+(◉▼◉ ﾐﾐ )Э
+</div>
+
 ### [Discord](https://discord.gg/(◉▼◉ ﾐﾐ )Э)
 ### Whitestar Bonus ❌
 

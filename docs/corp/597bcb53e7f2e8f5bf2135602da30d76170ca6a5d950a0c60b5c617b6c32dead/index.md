@@ -21,6 +21,17 @@ date: 1732836340
 没qq的可以加微信进集团群
 ✡分团《云浪度假村↕》《想想的后勤部》《Gemini》
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+✡摆烂度假天堂☁
+<span style="color:red;">开白后禁刷屏！</span>
+✡🈲捐旗舰
+✡qq企鹅群：<span style="color:red;">614592574</span>
+首席微信号:<span style="color:blue;">18970688854</span>
+没qq的可以加微信进集团群
+✡分团《云浪度假村↕》《想想的后勤部》《Gemini》
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -15,6 +15,11 @@ date: 1712989452
 ```
  corpo Fr ouverte à tous pour se developper tranquille sans pression ^_^ https://discord.com/invite/pWWdSs4xHs
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+corpo Fr ouverte à tous pour se developper tranquille sans pression ^_^ https://discord.com/invite/pWWdSs4xHs
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -15,6 +15,11 @@ date: 1713540223
 ```
  We are a paused corp, join or stay at your own risk, but check us out again in the future
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+We are a paused corp, join or stay at your own risk, but check us out again in the future
+</div>
+
 ### [Discord](https://discord.gg/3yhvuzqeax)
 ### Whitestar Bonus ❌
 

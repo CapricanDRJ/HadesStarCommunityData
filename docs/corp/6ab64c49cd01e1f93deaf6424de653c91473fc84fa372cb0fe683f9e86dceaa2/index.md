@@ -15,6 +15,11 @@ date: 1729536238
 ```
  WEEKLY WS & JOIN DISCORD 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+WEEKLY WS & JOIN DISCORD 
+</div>
+
 ### [Discord](https://discord.gg/https://discord.gg/vB32Cbey)
 ### Whitestar Bonus ❌
 

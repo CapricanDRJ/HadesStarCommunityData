@@ -15,6 +15,11 @@ date: 1702701316
 ```
  Her taler vi dansk (Danish only)  
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Her taler vi dansk (Danish only)  
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

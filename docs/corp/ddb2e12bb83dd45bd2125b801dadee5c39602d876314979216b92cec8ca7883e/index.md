@@ -15,6 +15,11 @@ date: 1700618828
 ```
  chill group of dudes, trying to revive after the disastrous game update. training and advice for new players, WS once we have numbers for experiemced players.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+chill group of dudes, trying to revive after the disastrous game update. training and advice for new players, WS once we have numbers for experiemced players.
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

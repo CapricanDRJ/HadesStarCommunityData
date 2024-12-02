@@ -15,6 +15,11 @@ date: 1732629585
 ```
  Fun relaxed group made up of newbies and the experienced. Weekly white stars. Joining discord is required for all activities and White Star involvement. Link is 👇
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Fun relaxed group made up of newbies and the experienced. Weekly white stars. Joining discord is required for all activities and White Star involvement. Link is 👇
+</div>
+
 ### [Discord](https://discord.gg/J5kNRjVJM4)
 ### Whitestar Bonus ✅
 

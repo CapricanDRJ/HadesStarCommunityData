@@ -21,6 +21,17 @@ Wir sind Teil der Tartaros Armada.
 Discordpflicht!
 UmWZYtn9Hh
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Wir sind Austria!
+Wir haben die schönsten Waldstädte, die explosivsten Bäume und die bärigsten Typen. 
+
+Wir sind Teil der Tartaros Armada. 
+
+Discordpflicht!
+UmWZYtn9Hh
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

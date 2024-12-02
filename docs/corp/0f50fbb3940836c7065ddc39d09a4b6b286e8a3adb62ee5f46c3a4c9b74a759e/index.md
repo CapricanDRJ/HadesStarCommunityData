@@ -17,6 +17,13 @@ date: 1702214121
 
 Find us on Discord:<b>EEpZuWf</b>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:#d7342a;">Retired corporation of the&lt;b&gt; Spacefleet Alliance&lt;/b&gt;</span>
+
+Find us on Discord:&lt;b&gt;EEpZuWf&lt;/b&gt;
+</div>
+
 ### [Discord](https://discord.gg/EEpZuWf)
 ### Whitestar Bonus ❌
 

@@ -22,6 +22,18 @@ date: 1720686776
 没qq可以加微信进微信群
 这里是分团 活跃的人不多
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+主团 《云浪山庄↕》
+分团 《云浪度假村↕》
+分团《想想的后勤部》
+主团比较活跃，分团都是用来开凑分白星的。
+企鹅群：614592574
+首席微信号：18970688854
+没qq可以加微信进微信群
+这里是分团 活跃的人不多
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

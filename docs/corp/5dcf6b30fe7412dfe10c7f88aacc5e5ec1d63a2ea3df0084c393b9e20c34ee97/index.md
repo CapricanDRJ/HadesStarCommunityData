@@ -23,6 +23,19 @@ French Language
 Battlesquadron : RS 7+
 Galaxian : RS1-6
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Nous sommes Battlesquadron ! 
+Entraide, bonne humeur et ws régulières, telles sont nos valeurs 
+Bon séjour parmi nous ! 
+Discord : hb9JBGP
+
+French Language
+
+Battlesquadron : RS 7+
+Galaxian : RS1-6
+</div>
+
 ### [Discord](https://discord.gg/hb9JBGP)
 ### Whitestar Bonus ❌
 

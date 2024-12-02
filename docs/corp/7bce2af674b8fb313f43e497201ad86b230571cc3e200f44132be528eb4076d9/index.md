@@ -15,6 +15,11 @@ date: 1733123896
 ```
  Мы не проигрываем на бз. Почти. Зайди, проверь. We don't  lose a game. Телеграмм      https://t.me/Nebula_Zvezdec            Участие в бз обязательно.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Мы не проигрываем на бз. Почти. Зайди, проверь. We don't  lose a game. Телеграмм      https://t.me/Nebula_Zvezdec            Участие в бз обязательно.
+</div>
+
 ### [Discord](https://discord.gg/tbGjUb7xSQ)
 ### Whitestar Bonus ✅
 

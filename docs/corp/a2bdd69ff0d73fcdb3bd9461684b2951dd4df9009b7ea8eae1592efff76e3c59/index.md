@@ -15,6 +15,11 @@ date: 1732876292
 ```
  Redstar privat în fiecare seară.                        Whitestar saptamanal. Vrei să crești alături de noi? Te așteptăm! Acces discord via browser: https://dsc.gg/sah
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Redstar privat în fiecare seară.                        Whitestar saptamanal. Vrei să crești alături de noi? Te așteptăm! Acces discord via browser: https://dsc.gg/sah
+</div>
+
 ### [Discord](https://discord.gg/23cA4bB7X8)
 ### Whitestar Bonus ❌
 

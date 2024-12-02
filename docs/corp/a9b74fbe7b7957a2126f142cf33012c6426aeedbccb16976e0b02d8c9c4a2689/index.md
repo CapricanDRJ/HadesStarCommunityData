@@ -18,6 +18,14 @@ Welcome, my enemies...
 Welcome, everyone... ;))
 https://discord.gg/TJuKzyR
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Welcome, my friends...
+Welcome, my enemies...
+Welcome, everyone... ;))
+https://discord.gg/TJuKzyR
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

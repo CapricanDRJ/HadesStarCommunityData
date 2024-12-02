@@ -15,6 +15,11 @@ date: 1726576846
 ```
  <color=orange>Rogue Corp</color> We are serious but fun..., Join us for weekly <color=white>WS</color> and private <color=red>RS</color> 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:orange;">Rogue Corp</span> We are serious but fun..., Join us for weekly <span style="color:white;">WS</span> and private <span style="color:red;">RS</span> 
+</div>
+
 ### [Discord](https://discord.gg/MztVs42x)
 ### Whitestar Bonus ❌
 

@@ -15,6 +15,11 @@ date: 1733042765
 ```
  <color=green>创始人&首席干事:五叶树（以下条件已经五叶树同意）<br><color=red>肃反委员:姆<br>黑名单:一切和🍉老板有好友关系的人<br><color=yellow>创始人>首席>干事>高级成员>成员<br>一旦有明显损害集团利益的行为，肇事者直接肃清<br>分团：白星、电磁脉冲<br><color=red>捐钱给旗舰1<br>QQ:993683689
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:green;">创始人&首席干事:五叶树（以下条件已经五叶树同意）&lt;br&gt;<span style="color:red;">肃反委员:姆&lt;br&gt;黑名单:一切和🍉老板有好友关系的人&lt;br&gt;<span style="color:yellow;">创始人&gt;首席&gt;干事&gt;高级成员&gt;成员&lt;br&gt;一旦有明显损害集团利益的行为，肇事者直接肃清&lt;br&gt;分团：白星、电磁脉冲&lt;br&gt;<span style="color:red;">捐钱给旗舰1&lt;br&gt;QQ:993683689
+</div>
+
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

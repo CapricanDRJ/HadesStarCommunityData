@@ -20,6 +20,16 @@ date: 1730303722
 Kommunikation über <b>Discord</b>:
 <color=#3ffecb>Code: SUVSGGYGz2</color>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+&lt;b&gt;&lt;size=80&gt;<span style="color:#3ffecb;">Tartaros Armada</span>&lt;/size&gt;&lt;/b&gt;
+- Täglich &lt;b&gt;bis RR10&lt;/b&gt;
+- Regelmäßig &lt;b&gt;WZ 10vs10&lt;/b&gt;
+
+Kommunikation über &lt;b&gt;Discord&lt;/b&gt;:
+<span style="color:#3ffecb;">Code: SUVSGGYGz2</span>
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

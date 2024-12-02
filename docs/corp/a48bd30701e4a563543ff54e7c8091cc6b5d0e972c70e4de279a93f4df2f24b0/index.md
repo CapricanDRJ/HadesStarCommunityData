@@ -15,6 +15,11 @@ date: 1720229381
 ```
  wt'star players
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+wt'star players
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -15,6 +15,11 @@ date: 1701280029
 ```
  Willkommen bei der Monster AG
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Willkommen bei der Monster AG
+</div>
+
 ### [Discord](https://discord.gg/https://discord.gg/bJH5xq64Kt)
 ### Whitestar Bonus ❌
 

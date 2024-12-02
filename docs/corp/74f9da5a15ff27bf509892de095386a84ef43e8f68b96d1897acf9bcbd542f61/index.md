@@ -19,6 +19,15 @@ date: 1712942578
 hs国人大群:597444221
 神器交易群:915130142
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+本盟为星舰地球主营地,主招活跃r11玩家、妉娠槑沝，萌新可去星舰月球、星舰太空港
+
+星舰地球群:858649848
+hs国人大群:597444221
+神器交易群:915130142
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

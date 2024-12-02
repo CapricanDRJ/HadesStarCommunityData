@@ -15,6 +15,11 @@ date: 1728114704
 ```
  корпорация для активных игроков базирующихся на территории Сибири, если вы такой, тогда, Welcome!!!
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+корпорация для активных игроков базирующихся на территории Сибири, если вы такой, тогда, Welcome!!!
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

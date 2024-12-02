@@ -15,6 +15,11 @@ date: 1716171643
 ```
  1. If you leave the game or stop playing for 14 days please advise by general chat. 2. Verbal abuse is not allowed. 3. I will be connected every day making adjustments to the clan.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+1. If you leave the game or stop playing for 14 days please advise by general chat. 2. Verbal abuse is not allowed. 3. I will be connected every day making adjustments to the clan.
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

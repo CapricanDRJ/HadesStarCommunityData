@@ -15,6 +15,11 @@ date: 1732641718
 ```
  Keep them thoughts clean 😉 and eyes on the screen as Lady WhiteStar requires your full attention 🍆as she can be lot to handle and more 🤣. So come join the team and have some fun along the way. 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Keep them thoughts clean 😉 and eyes on the screen as Lady WhiteStar requires your full attention 🍆as she can be lot to handle and more 🤣. So come join the team and have some fun along the way. 
+</div>
+
 ### [Discord](https://discord.gg/dYPKQpGa7s)
 ### Whitestar Bonus ✅
 

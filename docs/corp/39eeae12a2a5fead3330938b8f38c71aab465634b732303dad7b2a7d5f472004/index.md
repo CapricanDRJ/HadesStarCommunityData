@@ -15,6 +15,11 @@ date: 1732788242
 ```
  телеграм-канал clck.ru/3DwDwC                         Играем в свое удовольствие                 Участвуем в бз и кз                                   Помогаем в развитии новичкам 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+телеграм-канал clck.ru/3DwDwC                         Играем в свое удовольствие                 Участвуем в бз и кз                                   Помогаем в развитии новичкам 
+</div>
+
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

@@ -15,6 +15,11 @@ date: 1707871199
 ```
  For all fans of the STARBLAZER yamato series
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+For all fans of the STARBLAZER yamato series
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

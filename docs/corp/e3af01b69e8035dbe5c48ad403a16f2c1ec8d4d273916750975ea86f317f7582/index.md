@@ -22,6 +22,18 @@ Discord:https://discord:gg/HA83rt6E
 MAIN=SENIOR MEMBER
 ALT=NO PROMOTION
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Welcome to Rogue dudes
+We like active players
+we will help you in need any time ask help of needed
+any level is ok
+Discord:https://discord:gg/HA83rt6E
+
+MAIN=SENIOR MEMBER
+ALT=NO PROMOTION
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

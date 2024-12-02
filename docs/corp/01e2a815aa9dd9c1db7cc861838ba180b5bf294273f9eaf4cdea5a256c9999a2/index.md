@@ -27,6 +27,23 @@ Q群：838214551
 所有人不准踢人，哪怕是首席。
 黑名单：元宇宙
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+&lt;size=90&gt;欢迎各位萌新与大佬的进入！&lt;/size&gt;
+Q群：838214551
+<span style="color:Lime;">舰长：风影  ，德四，兽人
+副舰长: 老文，w</span>
+本舰队规则：
+1.不准说脏话、随便踢人
+2.尊敬正副舰长
+3.不准白嫖、勒索
+4.不准刷屏
+<span style="color:blue;">优秀成员：兽人</span> 
+所有人必须参白！红点送机票
+所有人不准踢人，哪怕是首席。
+黑名单：元宇宙
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

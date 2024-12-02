@@ -15,6 +15,11 @@ date: 1704630910
 ```
  🔰<color=yellow>Free Star Corporation</color>, once strong, now weak. We must create a new empire🔰
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+🔰<span style="color:yellow;">Free Star Corporation</span>, once strong, now weak. We must create a new empire🔰
+</div>
+
 ### [Discord](https://discord.gg/ZZb34hh2dk)
 ### Whitestar Bonus ❌
 

@@ -15,6 +15,11 @@ date: 1732270377
 ```
  中国星际联盟附属小盟。欢迎加入，创立于2024.6.19 21点17分35秒。
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+中国星际联盟附属小盟。欢迎加入，创立于2024.6.19 21点17分35秒。
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

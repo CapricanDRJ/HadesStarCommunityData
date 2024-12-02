@@ -15,6 +15,11 @@ date: 1733001006
 ```
  Corporation dedicated to develop advanced systems and explore the universe. The most advanced tactics for war and exploration of Red Dwarfs. Discord Chat: https://discord.com/invite/8w72hqsAAb
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Corporation dedicated to develop advanced systems and explore the universe. The most advanced tactics for war and exploration of Red Dwarfs. Discord Chat: https://discord.com/invite/8w72hqsAAb
+</div>
+
 ### [Discord](https://discord.gg/https://discord.com/invite/8w72hqsAAb)
 ### Whitestar Bonus ✅
 

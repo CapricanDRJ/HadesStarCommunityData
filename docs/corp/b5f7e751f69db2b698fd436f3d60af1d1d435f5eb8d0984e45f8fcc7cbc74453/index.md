@@ -15,6 +15,11 @@ date: 1699861645
 ```
  此集团为边界  分团 。活跃者请前往边界QQ：733613340
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+此集团为边界  分团 。活跃者请前往边界QQ：733613340
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -15,6 +15,11 @@ date: 1702964295
 ```
  Worship of a boi named Vanu
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Worship of a boi named Vanu
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

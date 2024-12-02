@@ -15,6 +15,11 @@ date: 1732739865
 ```
  Elite Warriors of VoidCorp/SoS            Part of the Oceanic Alliance. 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Elite Warriors of VoidCorp/SoS            Part of the Oceanic Alliance. 
+</div>
+
 ### [Discord](https://discord.gg/9vG4zU3)
 ### Whitestar Bonus ✅
 

@@ -15,6 +15,11 @@ date: 1728186229
 ```
  <size=60><color=blue><b>欢迎来到银星</b>，招活跃，打白的，<b>别捐旗舰</b>，银星Q群593825620  免费r7，帮打红星（r6及以下）
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+&lt;size=60&gt;<span style="color:blue;">&lt;b&gt;欢迎来到银星&lt;/b&gt;，招活跃，打白的，&lt;b&gt;别捐旗舰&lt;/b&gt;，银星Q群593825620  免费r7，帮打红星（r6及以下）
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

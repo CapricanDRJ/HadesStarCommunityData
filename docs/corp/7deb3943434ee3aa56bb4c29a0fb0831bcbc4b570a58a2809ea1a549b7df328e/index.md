@@ -21,6 +21,17 @@ Join us on Discord
 
 Public Queue 14%-48%
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+For The Empire!
+
+Recruiting RS5+ for:
+Competitive White Star & Red Star Events
+Join us on Discord
+
+Public Queue 14%-48%
+</div>
+
 ### [Discord](https://discord.gg/R6sJCw2)
 ### Whitestar Bonus ✅
 

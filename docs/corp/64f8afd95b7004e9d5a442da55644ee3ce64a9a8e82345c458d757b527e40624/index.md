@@ -20,6 +20,16 @@ peaceful ws recommended. send diplo to 梦心话 to negotiate
 国人交流大群：597444221
 神器交易群：915130142
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+开区，种矿，养矿仍是佛门日常操作，只有持之以恒行善积德方可圆寂升天功德圆满，欢迎各位施主皈依我佛(老衲一般早上在线，若有急事可群里call我)
+本集团主张和平白星支持各集团进行外交沟通
+peaceful ws recommended. send diplo to 梦心话 to negotiate
+集团群：647659828
+国人交流大群：597444221
+神器交易群：915130142
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

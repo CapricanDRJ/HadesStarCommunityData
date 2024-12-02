@@ -20,6 +20,16 @@ Allianz mit Sternenflotte, Diss Liga & Stern Wächter!
 
 Zum Server->95WWyXqrhQ</color>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Willkommen bei <span style="color:red;">ʙṢ</span>!
+Allianz mit Sternenflotte, Diss Liga & Stern Wächter!
+
+<span style="color:#0E967F;">"Die einzige Konstante im Universum ist die Veränderung." 
+
+Zum Server-&gt;95WWyXqrhQ</span>
+</div>
+
 ### [Discord](https://discord.gg/95WWyXqrhQ)
 ### Whitestar Bonus ❌
 

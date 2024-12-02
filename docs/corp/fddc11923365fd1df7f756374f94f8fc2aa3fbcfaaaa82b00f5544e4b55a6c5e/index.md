@@ -15,6 +15,11 @@ date: 1724029522
 ```
  Because you can't solo White Stars. https://discord.gg/GWA38Gx
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Because you can't solo White Stars. https://discord.gg/GWA38Gx
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

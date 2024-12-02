@@ -15,6 +15,11 @@ date: 1732959531
 ```
  <b>Terranova</b>, Gründungsmitglied der <b>Tartaros Armada</b>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+&lt;b&gt;Terranova&lt;/b&gt;, Gründungsmitglied der &lt;b&gt;Tartaros Armada&lt;/b&gt;
+</div>
+
 ### [Discord](https://discord.gg/SUVSGGYGz2)
 ### Whitestar Bonus ❌
 

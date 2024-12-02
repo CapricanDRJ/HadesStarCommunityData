@@ -19,6 +19,15 @@ Weekly competitive WS; casual WS if numbers allow.
 
 Discord is required.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+We are an English-speaking community founded on the ideals of democracy and camaraderie. 
+
+Weekly competitive WS; casual WS if numbers allow. 
+
+Discord is required.
+</div>
+
 ### [Discord](https://discord.gg/c9wtCDusgE)
 ### Whitestar Bonus ❌
 

@@ -15,6 +15,11 @@ date: 1702033497
 ```
  Szukamy graczy aktywnych na WS! Przed dołączeniem wejdź na nasz discord.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Szukamy graczy aktywnych na WS! Przed dołączeniem wejdź na nasz discord.
+</div>
+
 ### [Discord](https://discord.gg/9EdXH7jF)
 ### Whitestar Bonus ❌
 

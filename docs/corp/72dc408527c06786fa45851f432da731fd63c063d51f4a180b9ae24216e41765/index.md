@@ -18,6 +18,14 @@ Help each other in Red Stars.
  Always ask for promotions, they will be reflected in performance.
 
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Please be active in chat.
+Help each other in Red Stars.
+ Always ask for promotions, they will be reflected in performance.
+
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

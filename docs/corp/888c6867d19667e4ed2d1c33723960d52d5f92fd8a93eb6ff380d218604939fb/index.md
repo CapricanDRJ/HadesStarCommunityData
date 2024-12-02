@@ -20,6 +20,16 @@ date: 1732802068
 <color=red>Telegram(<color=red>ОБЯЗАТЕЛЬНО или КИК</color>)
 +79105072411 @lavrusha23</color>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:red;">БЗ без выходных, арты, прокачка.</span>
+
+<span style="color:yellow;">Основана в марте 2021г.</span>
+
+<span style="color:red;">Telegram(<span style="color:red;">ОБЯЗАТЕЛЬНО или КИК</span>)
++79105072411 @lavrusha23</span>
+</div>
+
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

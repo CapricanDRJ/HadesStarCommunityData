@@ -25,6 +25,21 @@ gaylor
 vayanse a la
 Discord: bS2yShvzDz
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Todos en otras corps:
+Hay que jugar en equipo y dar ordenes
+NE:
+Andamos insano papi
+
+Religión: 
+Bresexo amen
+milicu 
+gaylor
+vayanse a la
+Discord: bS2yShvzDz
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -19,6 +19,15 @@ date: 1715096003
 
 Discord opened
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+한국인 전용&lt;size="80"&gt;&lt;/size&gt;
+백색참여하셔야 합니다.
+<span style="color:"red";"></span>&lt;b&gt;&lt;/b&gt;
+
+Discord opened
+</div>
+
 ### [Discord](https://discord.gg/https://discord.com/invite/7BfdmAAXQ7)
 ### Whitestar Bonus ❌
 

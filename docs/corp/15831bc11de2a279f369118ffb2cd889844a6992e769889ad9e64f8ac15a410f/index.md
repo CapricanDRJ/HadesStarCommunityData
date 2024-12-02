@@ -15,6 +15,11 @@ date: 1730472014
 ```
  Welcome to No Orbit, we are a friendly WS oriented Corp. If you are not prepared to use Discord you will not be joining No Orbit as we now only accept people who have applied via Discord
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Welcome to No Orbit, we are a friendly WS oriented Corp. If you are not prepared to use Discord you will not be joining No Orbit as we now only accept people who have applied via Discord
+</div>
+
 ### [Discord](https://discord.gg/CNh7tUG)
 ### Whitestar Bonus ❌
 

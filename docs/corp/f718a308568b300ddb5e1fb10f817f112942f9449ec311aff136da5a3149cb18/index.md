@@ -20,6 +20,16 @@ Jeśli chcesz do nas dołączyć najpierw skontaktuj sie z nami na discordzie.
 Discord obowiązkowy:
 https://discord.gg/qWTndzwmtX
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Jeśli lubisz grać zespołowo zapraszamy, początkującym służymy pomocą.
+
+Jeśli chcesz do nas dołączyć najpierw skontaktuj sie z nami na discordzie.
+
+Discord obowiązkowy:
+https://discord.gg/qWTndzwmtX
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -15,6 +15,11 @@ date: 1718444485
 ```
  자랑스러운 대한민국 모두 대 환영합니다  오픈 방은:어둠의 성운:korea
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+자랑스러운 대한민국 모두 대 환영합니다  오픈 방은:어둠의 성운:korea
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

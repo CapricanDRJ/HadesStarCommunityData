@@ -21,6 +21,17 @@ date: 1732192368
 <color=green>本集团为国人满加成集团，欢迎朋友们来打私人红星，让我们一起快速发展</color>
 <color=blue>Dis: https:// discord.gg/v2xC6g9Shy</color>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+欢迎国人朋友加入 互相帮助共同进步
+常驻加QQ群
+一盟必加企鹅群：<span style="color:red;">169409626</span>
+二盟华夏航队
+三盟为华夏新航线
+<span style="color:green;">本集团为国人满加成集团，欢迎朋友们来打私人红星，让我们一起快速发展</span>
+<span style="color:blue;">Dis: https:// discord.gg/v2xC6g9Shy</span>
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

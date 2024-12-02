@@ -15,6 +15,11 @@ date: 1726666751
 ```
  欢迎来到群星联盟
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+欢迎来到群星联盟
+</div>
+
 ### [Discord](https://discord.gg/…)
 ### Whitestar Bonus ❌
 

@@ -17,6 +17,13 @@ date: 1702618360
 Обязательное условие: уважение к союзникам.
 Неактив - кик. БЗ по воскресеньям. <b>Telegram @hs_NOVA.</b> Наличие телеграма обязательно
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Приглашаем активных и адекватных игроков.
+Обязательное условие: уважение к союзникам.
+Неактив - кик. БЗ по воскресеньям. &lt;b&gt;Telegram @hs_NOVA.&lt;/b&gt; Наличие телеграма обязательно
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

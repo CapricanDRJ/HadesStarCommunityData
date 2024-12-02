@@ -15,6 +15,11 @@ date: 1732986880
 ```
  From the very beginning, Imperium corporation has charted a course for growth and success. And to grow even bigger we are looking for all type of stars veterans and beginners. International.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+From the very beginning, Imperium corporation has charted a course for growth and success. And to grow even bigger we are looking for all type of stars veterans and beginners. International.
+</div>
+
 ### [Discord](https://discord.gg/YNfwuam6Wh)
 ### Whitestar Bonus ✅
 

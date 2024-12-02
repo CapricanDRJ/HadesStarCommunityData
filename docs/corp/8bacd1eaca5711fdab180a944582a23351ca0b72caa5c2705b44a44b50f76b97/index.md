@@ -16,6 +16,12 @@ date: 1727297067
  Ведётся набор в клан. Требуются активные игроки до 6го уровня КЗ для совместных походов на БЗ. 
 Наш телеграмм https://t.me/hades_star
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Ведётся набор в клан. Требуются активные игроки до 6го уровня КЗ для совместных походов на БЗ. 
+Наш телеграмм https://t.me/hades_star
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

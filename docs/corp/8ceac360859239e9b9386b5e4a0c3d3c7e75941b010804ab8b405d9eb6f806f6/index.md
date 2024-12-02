@@ -15,6 +15,11 @@ date: 1732524115
 ```
  We don't care. You should try it.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+We don't care. You should try it.
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

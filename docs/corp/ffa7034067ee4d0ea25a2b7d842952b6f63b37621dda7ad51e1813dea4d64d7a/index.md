@@ -22,6 +22,18 @@ https://discord.gg/ftuA2DGDR4
 
 03/2023
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Man muß in den Dreck hineingeschlagen haben,
+um zu wissen, wie weit er spritzt ~W.R.~
+Chatbeteiligung erwünscht!
+Tägl. RRs bis 10 ab 20:30
+
+https://discord.gg/ftuA2DGDR4
+
+03/2023
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -19,6 +19,15 @@ date: 1705013769
 Part of <b><color=#fce205>A.R.M.O.R</color></b>
 Discord:DUbkgw9uMT
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+&lt;size=70&gt;&lt;b&gt;&lt;i&gt;Welcome to&lt;/i&gt;&lt;/b&gt;</span>&lt;/size&gt;&lt;b&gt;<span style="color:#fce205;">
+&lt;size=100&gt;GRAND MECHANISM&lt;/size&gt;</span>&lt;/b&gt;
+
+Part of &lt;b&gt;<span style="color:#fce205;">A.R.M.O.R</span>&lt;/b&gt;
+Discord:DUbkgw9uMT
+</div>
+
 ### [Discord](https://discord.gg/DUbkgw9uMT)
 ### Whitestar Bonus ❌
 

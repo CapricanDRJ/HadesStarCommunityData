@@ -15,6 +15,11 @@ date: 1724004235
 ```
  Casual and easygoing corpo! Just chillin, growing and having fun!
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Casual and easygoing corpo! Just chillin, growing and having fun!
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

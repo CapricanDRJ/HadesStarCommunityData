@@ -15,6 +15,11 @@ date: 1732674960
 ```
  Boldly we venture into the black of space, conquering White Stars as an Armored Union of warriors! Share Artifacts and build strong allies in pursuit of adventure! keep up, keep fighting! :)
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Boldly we venture into the black of space, conquering White Stars as an Armored Union of warriors! Share Artifacts and build strong allies in pursuit of adventure! keep up, keep fighting! :)
+</div>
+
 ### [Discord](https://discord.gg/v454nxdC)
 ### Whitestar Bonus ❌
 

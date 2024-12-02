@@ -15,6 +15,11 @@ date: 1731452532
 ```
  Corporation driven to fight well, be successful and do missions!! No discord required
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Corporation driven to fight well, be successful and do missions!! No discord required
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

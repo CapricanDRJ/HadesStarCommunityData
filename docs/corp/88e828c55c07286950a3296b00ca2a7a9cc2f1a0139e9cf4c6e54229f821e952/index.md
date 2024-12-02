@@ -15,6 +15,11 @@ date: 1727648220
 ```
  欢迎大家的加入，入团考虑升干事。QQ： 985034854语言文明，不骂人，违者踢！严重者直接上黑名单。白星要求:经常上线，听从指挥。黑名单：［土土 ］不活跃踢，有事请假。欢迎捐旗舰。<size=700><color=red>集团睡觉了
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+欢迎大家的加入，入团考虑升干事。QQ： 985034854语言文明，不骂人，违者踢！严重者直接上黑名单。白星要求:经常上线，听从指挥。黑名单：［土土 ］不活跃踢，有事请假。欢迎捐旗舰。&lt;size=700&gt;<span style="color:red;">集团睡觉了
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -18,6 +18,14 @@ date: 1713871648
 7天不上線者  將被勸退  敬請留意！
 QQ : 763870092
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+本盟氣氛輕鬆  守望相助  佛道肝皆可  盟主神器(r2~r8)天天送  歡迎有興趣的玩家加入 ^~^
+另外招有指揮公會戰經驗/興趣的玩家
+7天不上線者  將被勸退  敬請留意！
+QQ : 763870092
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

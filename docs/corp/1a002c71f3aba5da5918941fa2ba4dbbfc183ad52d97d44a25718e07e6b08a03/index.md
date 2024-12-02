@@ -19,6 +19,15 @@ Join over 500 players across a family of 9 corps on discord for chat, advice, an
 
 RS1+
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+It's a new Dawn for OntarioDynasty!
+
+Join over 500 players across a family of 9 corps on discord for chat, advice, and laughter.
+
+RS1+
+</div>
+
 ### [Discord](https://discord.gg/gBFFE5x)
 ### Whitestar Bonus ✅
 

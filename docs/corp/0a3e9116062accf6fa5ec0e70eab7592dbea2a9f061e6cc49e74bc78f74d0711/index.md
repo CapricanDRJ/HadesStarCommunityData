@@ -15,6 +15,11 @@ date: 1732995596
 ```
  <b><size=50>Everyone Is Welcome Here All Welcome!<color=#FF00FF> ~~~~~~  WS Player's Wanted!  ~~~~~~  </color><color=yellow>              ~~~~~~  Join Discord For WS! ~~~~~~</color>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+&lt;b&gt;&lt;size=50&gt;Everyone Is Welcome Here All Welcome!<span style="color:#FF00FF;"> ~~~~~~  WS Player's Wanted!  ~~~~~~  </span><span style="color:yellow;">              ~~~~~~  Join Discord For WS! ~~~~~~</span>
+</div>
+
 ### [Discord](https://discord.gg/evPmv96K)
 ### Whitestar Bonus ✅
 

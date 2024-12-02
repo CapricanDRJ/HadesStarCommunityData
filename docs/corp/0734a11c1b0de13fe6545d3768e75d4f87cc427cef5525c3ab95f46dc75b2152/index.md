@@ -15,6 +15,11 @@ date: 1727657953
 ```
  The home of small-team Competitive & Hardcore WS. Quality RS9+ queue open via discord to visitors. We are a tight-knit and supportive crew. Visit our Discord at mmUnEav.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+The home of small-team Competitive & Hardcore WS. Quality RS9+ queue open via discord to visitors. We are a tight-knit and supportive crew. Visit our Discord at mmUnEav.
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

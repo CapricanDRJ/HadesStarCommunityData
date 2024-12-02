@@ -15,6 +15,11 @@ date: 1725670874
 ```
  All Welcome. Friendly Only. Come and Chill. Old or New. No Requirements!
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+All Welcome. Friendly Only. Come and Chill. Old or New. No Requirements!
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

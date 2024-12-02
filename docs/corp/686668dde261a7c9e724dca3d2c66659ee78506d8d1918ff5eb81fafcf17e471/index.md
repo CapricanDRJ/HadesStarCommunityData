@@ -15,6 +15,11 @@ date: 1699888688
 ```
  Smurfing, just let us know when you are online, so that the game to be more fun...
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Smurfing, just let us know when you are online, so that the game to be more fun...
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

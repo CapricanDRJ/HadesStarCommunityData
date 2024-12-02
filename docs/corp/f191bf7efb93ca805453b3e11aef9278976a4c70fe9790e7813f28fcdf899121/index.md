@@ -21,6 +21,17 @@ date: 1732995897
 Weekly Casual
 Discord-Free White Star
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+(\^/)/)^/)(\/)/)/)    
+|\_____________\
+|\|Dumpster Fire|
+ \[|    0    ω     0    |]
+ \|______________|™
+Weekly Casual
+Discord-Free White Star
+</div>
+
 ### [Discord](https://discord.gg/FCWdtswtP5)
 ### Whitestar Bonus ❌
 

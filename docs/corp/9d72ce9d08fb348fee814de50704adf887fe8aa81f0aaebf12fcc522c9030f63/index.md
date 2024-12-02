@@ -19,6 +19,15 @@ Discord: https://discord.gg/Hb4ncRxnAx
 Корпорация создана в 2020 году.
 Во время бз прием строго ограничен!
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Девиз: Честь и слава ни шагу назад
+Discord: https://discord.gg/Hb4ncRxnAx
+Телега: @Fenix_HS 
+Корпорация создана в 2020 году.
+Во время бз прием строго ограничен!
+</div>
+
 ### [Discord](https://discord.gg/Hb4ncRxnAx)
 ### Whitestar Bonus ❌
 

@@ -17,6 +17,13 @@ date: 1707867594
 If you're interested in joining our discord: discord.gg/4TMBCed
 We’re a BIG family! ~ V
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Our learning Corp for New players!
+If you're interested in joining our discord: discord.gg/4TMBCed
+We’re a BIG family! ~ V
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

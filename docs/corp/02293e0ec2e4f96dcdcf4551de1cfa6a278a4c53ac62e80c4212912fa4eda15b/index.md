@@ -15,6 +15,11 @@ date: 1732800866
 ```
  WS & RS home of the Dwarf Corps. Please move to Yellow Dwarf (YD), Green Dwarf (GD), or Red Dwarf (RD) after WS or RS.
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+WS & RS home of the Dwarf Corps. Please move to Yellow Dwarf (YD), Green Dwarf (GD), or Red Dwarf (RD) after WS or RS.
+</div>
+
 ### [Discord](https://discord.gg//invite/FtPf2FRUmU)
 ### Whitestar Bonus ✅
 

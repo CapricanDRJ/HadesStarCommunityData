@@ -15,6 +15,11 @@ date: 1708816660
 ```
  De l'entraide, de la bonne humeur, un minimum de présence et beaucoup de communications pour les étoiles blanche ;-)
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+De l'entraide, de la bonne humeur, un minimum de présence et beaucoup de communications pour les étoiles blanche ;-)
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

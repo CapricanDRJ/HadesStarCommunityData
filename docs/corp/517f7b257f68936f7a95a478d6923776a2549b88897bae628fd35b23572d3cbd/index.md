@@ -21,6 +21,17 @@ date: 1732969147
 
 Discord mandatory. <b>EEpZuWf</b>
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:#49D4C9;">Flagship corporation of the&lt;b&gt; Spacefleet Alliance&lt;/b&gt;</span>
+
+•Coordinated &lt;b&gt;RS 7-10&lt;/b&gt;
+•Weekly competitive/casual WS
+•Active community
+
+Discord mandatory. &lt;b&gt;EEpZuWf&lt;/b&gt;
+</div>
+
 ### [Discord](https://discord.gg/EEpZuWf)
 ### Whitestar Bonus ❌
 

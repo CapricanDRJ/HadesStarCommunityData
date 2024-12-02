@@ -15,6 +15,11 @@ date: 1729837957
 ```
  我们的集团创立自2021年，几经风雨变幻，是一个成功跨越岁月的团队。<color=green>现在，我们正在开展神器支援计划，以提高萌新们的科技水平，向每位萌新提供高级180%+神器，不来找干事可不主动给哦</color>   集团qq:149662951          <size=150>           捐旗舰二       注意用语文明
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+我们的集团创立自2021年，几经风雨变幻，是一个成功跨越岁月的团队。<span style="color:green;">现在，我们正在开展神器支援计划，以提高萌新们的科技水平，向每位萌新提供高级180%+神器，不来找干事可不主动给哦</span>   集团qq:149662951          &lt;size=150&gt;           捐旗舰二       注意用语文明
+</div>
+
 ### [Discord](https://discord.gg/gagagaaaa)
 ### Whitestar Bonus ❌
 

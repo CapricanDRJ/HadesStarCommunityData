@@ -15,6 +15,11 @@ date: 1733059291
 ```
  欢迎我们的萌新 创造者仙女座 2024年8月9日 分团星系联盟 建设于2024年11月1日<br>分团 银河系星系 成立于2024年11月11日    <br>南极星联盟成员             请大家常驻！！！
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+欢迎我们的萌新 创造者仙女座 2024年8月9日 分团星系联盟 建设于2024年11月1日&lt;br&gt;分团 银河系星系 成立于2024年11月11日    &lt;br&gt;南极星联盟成员             请大家常驻！！！
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

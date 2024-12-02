@@ -15,6 +15,11 @@ date: 1706577340
 ```
  Активные игроки начиная с 300 кто не будет играть исключаем
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Активные игроки начиная с 300 кто не будет играть исключаем
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

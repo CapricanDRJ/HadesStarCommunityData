@@ -16,6 +16,12 @@ date: 1731427287
  Welcome to Crimson Dawn. Be active & have fun.
 Ask an officer about discord or join the conversation at https://discord.gg/j5GeqTEx6E
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Welcome to Crimson Dawn. Be active & have fun.
+Ask an officer about discord or join the conversation at https://discord.gg/j5GeqTEx6E
+</div>
+
 ### [Discord](https://discord.gg/j5GeqTEx6E)
 ### Whitestar Bonus ❌
 

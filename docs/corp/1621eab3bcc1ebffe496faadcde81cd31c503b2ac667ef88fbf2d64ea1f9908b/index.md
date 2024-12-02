@@ -18,6 +18,14 @@ date: 1732697191
 </color><color="red">Групповые ТКЗ 7-10</color>.
 Для вступления пройдите по ссылке ниже!Телегам: t.me/+NK7g4Pc--pUzNzgy
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+<span style="color:"white";">Donate to FL1!Бонус артов +52%.
+Регулярные БЗ.
+</span><span style="color:"red";">Групповые ТКЗ 7-10</span>.
+Для вступления пройдите по ссылке ниже!Телегам: t.me/+NK7g4Pc--pUzNzgy
+</div>
+
 ### [Discord](https://discord.gg/fc2eg8hNJm)
 ### Whitestar Bonus ✅
 

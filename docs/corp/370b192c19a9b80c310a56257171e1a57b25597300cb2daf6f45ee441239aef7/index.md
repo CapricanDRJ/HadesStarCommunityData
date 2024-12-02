@@ -17,6 +17,13 @@ date: 1707724502
 discord or kick
 https://discord.gg/eMsE7sU
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+Warlord retirement village.  Stay off my lawn!
+discord or kick
+https://discord.gg/eMsE7sU
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

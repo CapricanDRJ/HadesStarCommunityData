@@ -28,6 +28,24 @@ date: 1712810060
 軍团軍委書記长：
 軍团作战參谋长：
 ```
+
+<div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
+本团招收每日冒泡发展的活跃玩家
+咸魚玩家，优先定期清除
+
+<span style="color:red;">     
+
+萌新玩家优先（有銭有图纸）发展下列模組
+战䚀：圣所/脉沖/傳送/奥盾
+矿船：釆矿增速/远程釆矿/協力採矿
+貨船：貨仓拓展
+</span>
+要打白的，戰艦再弱也要出戰
+请假不打白的，請关了白星扫描
+軍团軍委書記长：
+軍团作战參谋长：
+</div>
+
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
