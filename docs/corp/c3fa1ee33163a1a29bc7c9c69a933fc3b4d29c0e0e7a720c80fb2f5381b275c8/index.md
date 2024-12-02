@@ -12,6 +12,16 @@ date: 1732941505
 
 
 
+```
+ ОБЯЗАТЕЛЬНЫЕ условия:
+- Наличие дискорда https://discord.gg/s7nmhGXugM
+- КЗ 6 и выше
+- Участие в походах на БЗ 
+- Общительность 
+- Совместные КЗ 
+- Помощь артефактами
+ ```
+### [Discord](https://discord.gg/s7nmhGXugM))
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

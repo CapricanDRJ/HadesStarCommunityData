@@ -12,6 +12,10 @@ date: 1732190565
 
 
 
+```
+ Anyone active welcome to join.
+
+https://discord.gg/p5GSVDDrSc ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

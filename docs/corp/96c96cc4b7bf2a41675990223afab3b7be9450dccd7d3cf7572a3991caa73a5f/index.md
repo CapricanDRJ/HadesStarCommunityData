@@ -12,6 +12,14 @@ date: 1701466685
 
 
 
+```
+ Wir sind Austria!
+Wir haben die schönsten Waldstädte, die explosivsten Bäume und die bärigsten Typen. 
+
+Wir sind Teil der Tartaros Armada. 
+
+Discordpflicht!
+UmWZYtn9Hh ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

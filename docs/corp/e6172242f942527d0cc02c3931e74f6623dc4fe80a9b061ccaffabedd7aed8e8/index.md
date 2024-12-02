@@ -12,6 +12,10 @@ date: 1708050438
 
 
 
+```
+ Uma corporação focada no crescimento dos iniciantes
+Estamos recrutando membros ativos.
+Inatividade é punível com expulsão. ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

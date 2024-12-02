@@ -12,6 +12,13 @@ date: 1715830706
 
 
 
+```
+ <color=red><size=70>WELCOME TO THE BENDERA</size></color> 
+
+-DON'T BE TOXIC 
+-PLEASE BE ACTIVE 
+-NEW PLAYERS ARE WELCOME HERE
+-THE KICK DAY WILL BE ON SUNDAY IF THE ROSTER IS FULL ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -12,6 +12,9 @@ date: 1727491786
 
 
 
+```
+ Relaxed corp. White star with us for fun. ```
+### [Discord](https://discord.gg/dgpJDdf5EX))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

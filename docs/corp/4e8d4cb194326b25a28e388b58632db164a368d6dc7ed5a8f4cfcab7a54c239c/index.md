@@ -12,6 +12,8 @@ date: 1733095514
 
 
 
+```
+ Only for Russian speakers 🇷🇺 ```
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

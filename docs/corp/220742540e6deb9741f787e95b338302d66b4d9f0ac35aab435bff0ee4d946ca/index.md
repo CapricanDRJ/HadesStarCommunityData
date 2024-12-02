@@ -12,6 +12,8 @@ date: 1718361537
 
 
 
+```
+ a corporation ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

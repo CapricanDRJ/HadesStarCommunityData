@@ -12,6 +12,15 @@ date: 1733153946
 
 
 
+```
+ 本集团为<size=150>新星团</size>第一分团
+旗下分团：
+<#FAD201>·新?的星际集团?
+·探索舰队
+·特拉斯丁第二共和国</color>
+<#86cecb>常驻可加集团QQ群815066596</color>
+<#FAD201>欢迎各路大佬与萌新加入，定期打白</color>
+<#EE4B2B>不欢迎全服公敌瓜老板</color> ```
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

@@ -12,6 +12,8 @@ date: 1716917436
 
 
 
+```
+ New and old welcome have fun discord is.     http://discord.com/invite/38UnuWwp ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

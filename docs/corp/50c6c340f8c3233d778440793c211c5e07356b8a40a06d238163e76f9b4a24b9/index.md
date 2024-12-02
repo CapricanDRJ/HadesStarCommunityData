@@ -12,6 +12,19 @@ date: 1725243104
 
 
 
+```
+ Nova corporação!!! nós pensamos nas melhores formas de desenvolver nossa corporação.
+
+Ws toda semana
+
+Regras:
+fale muito
+ter ao menos 14
+ser ativo
+1 semana inativo é banido
+
+
+ ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

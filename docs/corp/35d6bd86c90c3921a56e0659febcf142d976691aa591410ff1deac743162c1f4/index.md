@@ -12,6 +12,18 @@ date: 1702699513
 
 
 
+```
+ Todos en otras corps:
+Hay que jugar en equipo y dar ordenes
+NE:
+Andamos insano papi
+
+Religión: 
+Bresexo amen
+milicu 
+gaylor
+vayanse a la
+Discord: bS2yShvzDz ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

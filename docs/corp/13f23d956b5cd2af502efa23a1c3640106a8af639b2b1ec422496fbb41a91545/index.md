@@ -12,6 +12,8 @@ date: 1723687188
 
 
 
+```
+ Просто помощь в развитии своих друзей. ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -12,6 +12,12 @@ date: 1721868476
 
 
 
+```
+ REQUIREMENTS:
+Active white star players
+English speaking
+We do private rs
+Inactive players will be kicked out ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

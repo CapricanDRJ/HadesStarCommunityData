@@ -12,6 +12,10 @@ date: 1707724502
 
 
 
+```
+ Warlord retirement village.  Stay off my lawn!
+discord or kick
+https://discord.gg/eMsE7sU ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

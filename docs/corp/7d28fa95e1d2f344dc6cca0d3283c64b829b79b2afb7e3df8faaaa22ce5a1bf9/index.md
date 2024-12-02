@@ -12,6 +12,9 @@ date: 1733033752
 
 
 
+```
+ PEACE THROUGH POWER! ```
+### [Discord](https://discord.gg/HfGM4PkP8d))
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

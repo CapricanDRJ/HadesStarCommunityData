@@ -12,6 +12,8 @@ date: 1700059097
 
 
 
+```
+ жызнь головареза коротка но насыщена ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

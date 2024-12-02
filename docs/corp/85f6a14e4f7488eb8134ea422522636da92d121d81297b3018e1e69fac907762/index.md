@@ -12,6 +12,8 @@ date: 1733059892
 
 
 
+```
+ Looking for active player to do Casual whitestar every week. No discord. ```
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

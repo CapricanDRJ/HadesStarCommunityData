@@ -12,6 +12,9 @@ date: 1705147495
 
 
 
+```
+ Everyone is welcome to our corporation. Be active and enjoy.😀 ```
+### [Discord](https://discord.gg/https://discord.gg/YXXUMaKBFV))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -12,6 +12,12 @@ date: 1732803270
 
 
 
+```
+ Subsidiary of Winged Pheonix Corporation. 
+All are welcome! 
+Friendly and helpful community. 
+Please be active!
+Discord: https://discord.gg/BpszvZBQ ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -12,6 +12,8 @@ date: 1732915067
 
 
 
+```
+ Crecer principal objetivo        Leko:Join us we need active member                     ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

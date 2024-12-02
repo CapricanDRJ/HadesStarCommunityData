@@ -12,6 +12,16 @@ date: 1723897846
 
 
 
+```
+ <color=white>我们是<size=67><b>地球联合</b></size>集团的主盟
+新人可以前往水星联合和火星联合发展~</color>
+
+<color=orange>⚛︎萌新运输舰达到8t可领取15r6神器
+⚛︎集团有免费矿场随时供应
+⚛︎还有交易折扣等福利</color>
+
+QQ群号：742063070
+<color=yellow>*群内有教程，加入享有更多福利</color> ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

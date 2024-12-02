@@ -12,6 +12,9 @@ date: 1732620870
 
 
 
+```
+ VIRTUS UNITA FORTIOR. Seja bem vindo a corporação da Aliança Fronteira participe de RS e WS, mantenha as atividades e melhorias do sistema em dia. Temos grupo de Discord ```
+### [Discord](https://discord.gg/zM5ABcAR6s))
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

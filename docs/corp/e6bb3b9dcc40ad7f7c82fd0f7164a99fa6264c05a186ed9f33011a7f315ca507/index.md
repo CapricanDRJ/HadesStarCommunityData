@@ -12,6 +12,9 @@ date: 1709316439
 
 
 
+```
+ This corp has moved to Mandaloians (corp), join us there. Discord link below. ```
+### [Discord](https://discord.gg/https://discord.com/invite/JCufnsN57Y))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -12,6 +12,15 @@ date: 1707024506
 
 
 
+```
+ Herzlich Willkommen,
+hier herrscht ein lockeres und entspanntes Miteinander.
+
+Wir Fliegen von klein bis größer
+RR0--6.
+
+Jetzt auch mit discord! 
+https://discord.gg/K3TTj9ED ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

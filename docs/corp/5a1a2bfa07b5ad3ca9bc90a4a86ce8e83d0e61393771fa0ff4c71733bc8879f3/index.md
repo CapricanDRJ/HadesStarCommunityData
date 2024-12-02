@@ -12,6 +12,9 @@ date: 1712643896
 
 
 
+```
+ ギルド大元帥サラマンダーのもとへ集い、シドの女神像を打ち上げるべし。今は眠りについています… ```
+### [Discord](https://discord.gg/https://discord.gg/e23hyUpZy2))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

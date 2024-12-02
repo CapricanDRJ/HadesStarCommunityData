@@ -12,6 +12,8 @@ date: 1715128283
 
 
 
+```
+ Mercury Retrograde ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

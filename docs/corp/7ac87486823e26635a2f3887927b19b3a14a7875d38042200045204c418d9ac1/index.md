@@ -12,6 +12,11 @@ date: 1722615275
 
 
 
+```
+ Deutscher Konzern für Fortgeschrittene
+
+- Chataktivität gern gesehen
+- Sei Freundlich & Fair ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

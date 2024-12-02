@@ -12,6 +12,15 @@ date: 1721016974
 
 
 
+```
+ Welcome to Rogue dudes
+We like active players
+we will help you in need any time ask help of needed
+any level is ok
+Discord:https://discord:gg/HA83rt6E
+
+MAIN=SENIOR MEMBER
+ALT=NO PROMOTION ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

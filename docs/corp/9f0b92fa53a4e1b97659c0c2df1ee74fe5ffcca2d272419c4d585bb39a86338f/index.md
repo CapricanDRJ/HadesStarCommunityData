@@ -12,6 +12,12 @@ date: 1707427495
 
 
 
+```
+ Juntos somos invencíveis.
+
+Mensagem: Mantenha-se ativo ou terá que dar vaga na corporação para outro entrar.
+
+Em breve faremos estrelas brancas. ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

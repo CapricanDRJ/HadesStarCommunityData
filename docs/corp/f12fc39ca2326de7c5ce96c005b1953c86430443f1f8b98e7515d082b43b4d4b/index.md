@@ -12,6 +12,14 @@ date: 1733033752
 
 
 
+```
+ Friendly, laid back, English speaking corp.
+Regular white stars.
+
+Part of Red Star Raiders alliance
+
+https://discord.gg/nUgqhbn ```
+### [Discord](https://discord.gg/nUgqhbn))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

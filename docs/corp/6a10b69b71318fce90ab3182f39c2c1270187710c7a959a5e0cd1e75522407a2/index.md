@@ -12,6 +12,17 @@ date: 1706527816
 
 
 
+```
+ The Imperium of man.
+No xenos' allowed
+
+New player development member
+<b>OntarioDynasty</b> Family of Corps.
+
+Join our discord comunity:
+https://dicord.gg/gBFFE5x
+
+od-family.com ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

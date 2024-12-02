@@ -12,6 +12,9 @@ date: 1732896432
 
 
 
+```
+ Добро пожаловать! Активно развиваемся и помогаем с кз и советами,регулярно играем бз,общаемся. Присоединяйтесь к нашей большой семье 😄. Телеграм: https://t.me/FreeFleetHadesStar ```
+### [Discord](https://discord.gg/6zQ97TaFpS))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

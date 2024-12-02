@@ -12,6 +12,8 @@ date: 1705402631
 
 
 
+```
+ 欢迎来到集团。希望你们来加入！ ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

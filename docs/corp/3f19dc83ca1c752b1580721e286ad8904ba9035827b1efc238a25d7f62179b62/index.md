@@ -12,6 +12,13 @@ date: 1702351177
 
 
 
+```
+ 동맹 : 혁명군
+<size=100px><b><color="#90E5CF">*Core Inf .</color></b></size>
+- 뉴비, 고인물 환영합니다
+- 매너, 즐겜, 겸손
+Project for Permanent Peace
+<color="red">                                    * 7일 미접 강퇴  </color> ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -12,6 +12,8 @@ date: 1724004235
 
 
 
+```
+ Casual and easygoing corpo! Just chillin, growing and having fun! ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

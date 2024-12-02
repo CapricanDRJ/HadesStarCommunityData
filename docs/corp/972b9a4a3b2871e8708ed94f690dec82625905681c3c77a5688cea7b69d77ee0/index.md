@@ -12,12 +12,17 @@ date: 1707832132
 
 
 
+```
+ 本集团在发展过程中，欢迎萌新 大佬加入我们。         集团中不可吵架不要乱退集团（备注）成员多为学生。没人为正常情况）会周末不时发放神器奖励，r3 r4
+祝各位玩的开心，踊跃参白喔！
+
+黑名单：家园星系。  盟友：边界-萌新剧乐部 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1243 🔺  (267)|
-| ELO Competitive | 1244 🔺  (392)|
+| ELO Competitive | 1244 🔺  (391)|
 | Total Matches | 3 |
 | Wins | 3 |
 | Losses | 0 |

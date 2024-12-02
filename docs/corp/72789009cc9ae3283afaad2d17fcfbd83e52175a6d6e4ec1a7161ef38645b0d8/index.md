@@ -12,6 +12,8 @@ date: 1732904547
 
 
 
+```
+ English speaking – would you want to communicate ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

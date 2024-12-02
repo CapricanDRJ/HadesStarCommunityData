@@ -12,6 +12,11 @@ date: 1709835656
 
 
 
+```
+ 欢迎新人加入
+好联系一点：qq群
+485343146 ```
+### [Discord](https://discord.gg/qSVJ3kUs))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

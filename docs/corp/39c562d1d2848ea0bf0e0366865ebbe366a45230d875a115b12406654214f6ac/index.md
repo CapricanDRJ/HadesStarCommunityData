@@ -12,6 +12,9 @@ date: 1719768708
 
 
 
+```
+ 求有所真，务有所实；涯有所勒，日无虚渡。 ```
+### [Discord](https://discord.gg/量大管饱))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

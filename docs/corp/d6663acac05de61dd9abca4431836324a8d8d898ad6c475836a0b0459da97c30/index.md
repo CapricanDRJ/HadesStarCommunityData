@@ -12,6 +12,11 @@ date: 1706764255
 
 
 
+```
+ <b><size=80><color=#8000FF>No mercy to our enemies
+I fight for honor and glory
+no matter how strong the enemy is
+mastery wins</color></size></b> ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

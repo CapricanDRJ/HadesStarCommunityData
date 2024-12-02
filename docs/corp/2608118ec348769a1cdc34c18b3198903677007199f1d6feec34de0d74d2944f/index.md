@@ -12,6 +12,8 @@ date: 1708953767
 
 
 
+```
+ Req: English Speaking, Login Daily & Have Fun. ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

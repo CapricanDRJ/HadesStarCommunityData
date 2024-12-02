@@ -12,6 +12,15 @@ date: 1732969147
 
 
 
+```
+ <color=#49D4C9>Flagship corporation of the<b> Spacefleet Alliance</b></color>
+
+•Coordinated <b>RS 7-10</b>
+•Weekly competitive/casual WS
+•Active community
+
+Discord mandatory. <b>EEpZuWf</b> ```
+### [Discord](https://discord.gg/EEpZuWf))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

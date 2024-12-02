@@ -12,6 +12,8 @@ date: 1715002560
 
 
 
+```
+ <a>进团常驻之人可互相建立外交关系            <b>本团招新，欢迎各位 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

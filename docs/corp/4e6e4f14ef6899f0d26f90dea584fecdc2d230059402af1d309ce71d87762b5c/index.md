@@ -12,6 +12,8 @@ date: 1705243362
 
 
 
+```
+ Корпорация ЗАКРЫТА ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

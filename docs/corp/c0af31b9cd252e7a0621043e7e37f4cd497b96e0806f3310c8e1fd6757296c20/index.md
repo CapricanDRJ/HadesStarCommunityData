@@ -12,6 +12,9 @@ date: 1709650270
 
 
 
+```
+ <size=50><color=#8f00ff>Jump into the wabbit hole ●</color></size> <color=#f0f30b>Wacky Warriors</color> ```
+### [Discord](https://discord.gg/https://discord.gg/knZXJWX))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

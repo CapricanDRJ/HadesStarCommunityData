@@ -12,6 +12,12 @@ date: 1704707842
 
 
 
+```
+ простые люди, простые решения. 
+Бз(ws) / КЗ(rs) 
+watsapp/ telegram
+помощь новичкам 
+корпус  "ALPHA TECH" ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

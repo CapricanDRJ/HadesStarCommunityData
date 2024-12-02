@@ -12,6 +12,14 @@ date: 1728993425
 
 
 
+```
+ Be Excellent.
+RS Level 1-10. 
+Inactive tolerance 3-4 days.
+WS are appreciated yet optional.
+Discord: WARZG9k
+
+Members are expected to join our Discord where all communication happens ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

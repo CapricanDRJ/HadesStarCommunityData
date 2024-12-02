@@ -12,6 +12,9 @@ date: 1712788428
 
 
 
+```
+ Afk ```
+### [Discord](https://discord.gg/2zKhKvHw))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

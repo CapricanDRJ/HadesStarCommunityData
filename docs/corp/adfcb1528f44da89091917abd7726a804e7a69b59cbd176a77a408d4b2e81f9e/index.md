@@ -12,6 +12,14 @@ date: 1703552345
 
 
 
+```
+ <b><color=#4595A4><size=70>꧁FEÐERAŦI0N༒VERSAILES꧂</size></color>
+<color=# F9FAEC>Corporation to have fun and enjoy
+   -hosted by ShadowSun
+
+Language: English-Spanish
+Discord: pxSK3vbe</color></b> ```
+### [Discord](https://discord.gg/discord.gg/pxSK3vbe))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

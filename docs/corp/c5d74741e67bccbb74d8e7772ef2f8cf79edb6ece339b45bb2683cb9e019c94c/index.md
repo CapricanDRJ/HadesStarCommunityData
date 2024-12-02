@@ -12,6 +12,8 @@ date: 1701146101
 
 
 
+```
+ Sistema imperial é uma corp recem criada que pretende ser uma das melhores ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -12,6 +12,8 @@ date: 1706097412
 
 
 
+```
+ To defeat the Wraith.  ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

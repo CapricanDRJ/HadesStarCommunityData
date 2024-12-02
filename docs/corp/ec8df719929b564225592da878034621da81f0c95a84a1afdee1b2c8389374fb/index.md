@@ -12,6 +12,8 @@ date: 1702976615
 
 
 
+```
+ Für Langweiler ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -12,6 +12,9 @@ date: 1731906902
 
 
 
+```
+ We’ll get there… most of the time ```
+### [Discord](https://discord.gg/JnxXSHyWsC))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

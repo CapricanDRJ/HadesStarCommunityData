@@ -12,6 +12,8 @@ date: 1712311014
 
 
 
+```
+ Dead ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

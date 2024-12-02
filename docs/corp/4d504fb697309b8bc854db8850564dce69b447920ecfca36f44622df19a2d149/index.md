@@ -12,6 +12,8 @@ date: 1704392606
 
 
 
+```
+ The reemergence of Space Gamers with Super Stars! ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

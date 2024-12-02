@@ -12,6 +12,8 @@ date: 1714979423
 
 
 
+```
+ rookie or veteran we are all learning this new update together. we are open to any New Comers. Now's the Time to join and feel close to equal. most importantly we're here to have some fun. ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

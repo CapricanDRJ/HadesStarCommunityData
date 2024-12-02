@@ -12,6 +12,14 @@ date: 1703805424
 
 
 
+```
+ Have Fun, Be Active in Corp Chat, Be Respectful to Corp Mates. Allies of Paradiso to excel together!
+
+Time Lord Code-VyUtJZG
+Ally Code-CkQfp5t
+
+Jr Corp-Time Lords Jr
+Alt Corp - Time Lords Alts ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

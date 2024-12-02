@@ -12,6 +12,12 @@ date: 1728409213
 
 
 
+```
+ Hola soy ARRIBA LOS PITOS el líder y te invito a unirte mi Corporación te damos todo lo que necesites
+
+LIDER ARRIBA LOS PITOS
+
+CORPORACION HISPANA NIVEL 2 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -12,6 +12,8 @@ date: 1731686641
 
 
 
+```
+ Chat Português  ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -12,6 +12,8 @@ date: 1707770237
 
 
 
+```
+ A very casual group. Not currently playing WS. Just a place to chill, relax and enjoy. ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

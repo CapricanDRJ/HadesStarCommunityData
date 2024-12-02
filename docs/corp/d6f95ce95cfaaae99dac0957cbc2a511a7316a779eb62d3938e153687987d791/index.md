@@ -12,6 +12,8 @@ date: 1705551985
 
 
 
+```
+ ⚠️integrantes en descogelacion⚠️ ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

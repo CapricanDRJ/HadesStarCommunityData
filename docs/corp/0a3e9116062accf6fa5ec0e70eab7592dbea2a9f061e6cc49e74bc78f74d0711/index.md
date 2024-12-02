@@ -12,6 +12,9 @@ date: 1732995596
 
 
 
+```
+ <b><size=50>Everyone Is Welcome Here All Welcome!<color=#FF00FF> ~~~~~~  WS Player's Wanted!  ~~~~~~  </color><color=yellow>              ~~~~~~  Join Discord For WS! ~~~~~~</color> ```
+### [Discord](https://discord.gg/evPmv96K))
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

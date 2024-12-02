@@ -12,6 +12,10 @@ date: 1707867594
 
 
 
+```
+ Our learning Corp for New players!
+If you're interested in joining our discord: discord.gg/4TMBCed
+We’re a BIG family! ~ V ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

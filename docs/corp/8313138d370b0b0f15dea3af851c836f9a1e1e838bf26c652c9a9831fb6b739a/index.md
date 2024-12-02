@@ -12,6 +12,12 @@ date: 1717539178
 
 
 
+```
+ <color=orange>We are BSO! The Oldest Thriving Alliance in H'S.</color>
+
+<b>BlackStar Order, Final, Path of Hades, UG, TS and Dauntless working together to excel.</b>
+
+RS6 and Discord needed. (YTaYrhy) ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

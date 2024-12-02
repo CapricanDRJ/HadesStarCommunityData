@@ -12,12 +12,15 @@ date: 1732347431
 
 
 
+```
+ Добро пожаловать друг!Если ты новичок в игре,у нас ты найдешь помощь опытных игроков.Если ты старичок,ты не найдешь гонок за реликвиями и местами в топ. ```
+### [Discord](https://discord.gg/d4xpzqrZ2f))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1182 🔻  (814)|
-| ELO Competitive | 1248 🔻  (379)|
+| ELO Competitive | 1248 🔻  (378)|
 | Total Matches | 28 |
 | Wins | 12 |
 | Losses | 16 |

@@ -12,6 +12,8 @@ date: 1712942878
 
 
 
+```
+ War is hell. ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

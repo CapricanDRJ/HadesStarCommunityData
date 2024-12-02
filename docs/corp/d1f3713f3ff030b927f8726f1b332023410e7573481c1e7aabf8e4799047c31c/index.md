@@ -12,6 +12,12 @@ date: 1713332587
 
 
 
+```
+ <color=#F00>Русские идут!</color><color=#0F0> Рептилий и тихушников отстреливаем!</color> 
+
+
+
+  ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

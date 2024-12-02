@@ -12,6 +12,8 @@ date: 1733052071
 
 
 
+```
+ In this corporation, we help eachother in red stars and will do white stars to grow the corp! Be nice to everyone and lets grow our star systems! ```
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

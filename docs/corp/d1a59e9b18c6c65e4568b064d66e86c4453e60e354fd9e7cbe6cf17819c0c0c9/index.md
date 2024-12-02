@@ -12,6 +12,12 @@ date: 1699235103
 
 
 
+```
+ ""To Take Her a Prize"" est 2016
+Our goal is simple; Work together to create a strong relationship in building our star systems and corporation. GL
+
+All Corp Plyrs May Join!! 
+Discord: 3gRh7ae ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

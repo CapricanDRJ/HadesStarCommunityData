@@ -12,6 +12,8 @@ date: 1700618828
 
 
 
+```
+ chill group of dudes, trying to revive after the disastrous game update. training and advice for new players, WS once we have numbers for experiemced players. ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

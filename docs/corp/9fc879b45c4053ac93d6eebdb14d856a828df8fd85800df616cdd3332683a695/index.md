@@ -12,6 +12,8 @@ date: 1731512024
 
 
 
+```
+ Multi national Corp across all time zones. Friendly, relaxed, supportive. Lets GO! ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -12,6 +12,9 @@ date: 1730551044
 
 
 
+```
+ <color=#FFFF00>EasyCorp / North Star</color> Täglich RR8 - RR11, DRR bis 11 genauso. ganz entspannt. WZ wöchentlich 😀 ```
+### [Discord](https://discord.gg/FPjtJsvScr))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

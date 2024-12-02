@@ -12,6 +12,19 @@ date: 1705760541
 
 
 
+```
+ Sucka free space initiative
+
+Camaraderie is tops 
+
+Rs7-10, white star non-stop
+
+Proud Member of the Watchers Syndicate
+
+discord.gg/qz8kpgtj
+
+3 day inactivity kick ```
+### [Discord](https://discord.gg/discord.gg/wd2GdBVAaa))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

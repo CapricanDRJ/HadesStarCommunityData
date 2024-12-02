@@ -12,6 +12,8 @@ date: 1712005979
 
 
 
+```
+ WE WANT YOUR ARTS, & RELICS! RS, & WS, casual. Discord: Obsolete. FS donations, unnecessary. Live Long, & Prosper!🖖 (English speaking) HELP GUIDE @ https://userxinos.github.io/HadesSpace/ ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

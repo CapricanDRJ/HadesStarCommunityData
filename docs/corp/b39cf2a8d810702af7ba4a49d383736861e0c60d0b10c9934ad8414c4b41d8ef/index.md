@@ -12,6 +12,8 @@ date: 1727022215
 
 
 
+```
+ Корпорация твинов ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

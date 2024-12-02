@@ -12,6 +12,12 @@ date: 1732666549
 
 
 
+```
+ <b>The Corp Alliance of Oceania Alliance</b>
+<color=green>Open to All Levels.</color>
+<color=yellow>English Speakers, Friendly and Chill.</color>
+OA's Discord: https://discord.gg/2wyNuxb ```
+### [Discord](https://discord.gg/ZhF2Npys6N))
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

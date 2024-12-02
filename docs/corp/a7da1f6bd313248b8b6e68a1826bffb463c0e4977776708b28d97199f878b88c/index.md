@@ -12,6 +12,11 @@ date: 1732668652
 
 
 
+```
+ Welcome to the Syndicate! After conquering the economy in SimCompanies, its time to corporatize the galaxy!
+
+White star participation is only for those in the discord. No exceptions. ```
+### [Discord](https://discord.gg/B3N5by8zUb))
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

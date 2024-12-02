@@ -12,6 +12,9 @@ date: 1731379810
 
 
 
+```
+ BIENVENIDOS a esta corporación de habla hispana. Ayudaremos a los nuevos miembros con artefactos y en ER de ER-2 a ER-7. ALIADOS DE ESTA CORPORACIÓN   • MÉXICO INFINITO  ```
+### [Discord](https://discord.gg/invite/qEx3pN9A))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

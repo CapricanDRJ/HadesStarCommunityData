@@ -12,6 +12,15 @@ date: 1733138918
 
 
 
+```
+ We are BSO, the oldest Alliance in HS.
+
+Black Star Order, Final, Trade Station, UG, PoH and Dauntless working together to excel.
+
+Are you RS6+ and want to join?
+
+Find us on Discord: YTaYrhy ```
+### [Discord](https://discord.gg/YTaYrhy))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

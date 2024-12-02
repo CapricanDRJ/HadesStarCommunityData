@@ -12,6 +12,8 @@ date: 1708097017
 
 
 
+```
+ 本团由Mingchen Yu建设 欢迎大家加入。           影响力前8且信任者干事   影响力前18且信任者高级。                                                                     首席：Mingchen Yu 副首席：我是神、神域联邦、唐家三少 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

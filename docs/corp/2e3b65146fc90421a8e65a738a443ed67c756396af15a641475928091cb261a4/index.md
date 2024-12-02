@@ -12,6 +12,10 @@ date: 1731848606
 
 
 
+```
+ We're here to help one and all. So join our corp, and move up together.
+
+Find us on discord: https://discord.gg/u2VGhGRrFq ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

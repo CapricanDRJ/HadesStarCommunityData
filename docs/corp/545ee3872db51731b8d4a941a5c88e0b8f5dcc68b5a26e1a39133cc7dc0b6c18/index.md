@@ -12,6 +12,8 @@ date: 1725618874
 
 
 
+```
+ 本团为中国星际联盟自治分团，欢迎加入！ ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

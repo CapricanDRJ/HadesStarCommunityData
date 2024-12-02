@@ -12,6 +12,9 @@ date: 1719962692
 
 
 
+```
+ Bienvenue de l'Empire de Sylli. venez avec nous conquérir l'espace.  ```
+### [Discord](https://discord.gg/7MEkhpJ47M))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

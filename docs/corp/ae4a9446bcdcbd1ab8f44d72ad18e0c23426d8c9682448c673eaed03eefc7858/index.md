@@ -12,6 +12,8 @@ date: 1705511417
 
 
 
+```
+ 初心者歓迎　　　　　入退はお気軽に　　　　質問だけでもOK ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

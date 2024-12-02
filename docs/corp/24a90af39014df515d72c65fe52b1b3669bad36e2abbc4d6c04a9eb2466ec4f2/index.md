@@ -12,6 +12,12 @@ date: 1712510788
 
 
 
+```
+ All for farm, farm for all. We farm from other's losses now.
+
+Original bottom tier Alpha Corp from serveral years ago, but no one here would give a shit.
+
+New Discord: nxEZwvgcg3 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

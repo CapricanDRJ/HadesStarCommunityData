@@ -12,6 +12,22 @@ date: 1732789143
 
 
 
+```
+ <color=yellow><size=70>高效简洁的排队BOT，已经上线加入总群，验车后可以加入赶快来体验吧</size></color>
+
+集团总群：372337244
+
+常驻需加群
+
+旗下分团
+云霄宫 碧霄殿 琼霄阁
+青丘湖 洛神峰 纸鸢台
+
+B站d音搜：仙女座星雲土豆
+有宣传视频和游戏全套攻略
+
+成立时间：2022.2.10 ```
+### [Discord](https://discord.gg/snwFMgDPms))
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

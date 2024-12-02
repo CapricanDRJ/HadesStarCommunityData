@@ -12,6 +12,15 @@ date: 1732913263
 
 
 
+```
+ For The Empire!
+
+Recruiting RS5+ for:
+Competitive White Star & Red Star Events
+Join us on Discord
+
+Public Queue 14%-48% ```
+### [Discord](https://discord.gg/R6sJCw2))
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

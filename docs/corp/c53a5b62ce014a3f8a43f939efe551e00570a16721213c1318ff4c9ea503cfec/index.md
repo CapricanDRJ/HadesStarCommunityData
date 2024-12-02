@@ -12,6 +12,9 @@ date: 1732424959
 
 
 
+```
+ Welcome to the clan, Steal what you can. Please join our Discord... No Discord No Entry ```
+### [Discord](https://discord.gg/https://discord.gg/YyTC3Krh))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

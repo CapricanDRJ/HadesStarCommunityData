@@ -12,6 +12,9 @@ date: 1732320093
 
 
 
+```
+ A place for people to enjoy the game, to just play. Live to fight for one purpose, for tomorrow, together, how it should be. In alliance with the Titans of Terror.  ```
+### [Discord](https://discord.gg/2HZBvzmbtx))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

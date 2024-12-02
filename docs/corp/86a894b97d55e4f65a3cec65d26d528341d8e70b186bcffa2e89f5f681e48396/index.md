@@ -12,6 +12,22 @@ date: 1732524115
 
 
 
+```
+         ☆☆Support New Players☆☆
+
+Recruiting
+Weekly White Stars.
+9% Bonus on Corp RS.
+Chill Corp 
+Active helpful members
+
+Discord required for WS. 
+
+
+
+
+148 ```
+### [Discord](https://discord.gg/uhka53GbmX))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

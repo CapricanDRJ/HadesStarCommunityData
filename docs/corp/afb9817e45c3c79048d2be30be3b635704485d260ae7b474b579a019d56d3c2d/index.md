@@ -12,6 +12,8 @@ date: 1723819115
 
 
 
+```
+ <color=red>宇宙银河帝国欢迎您！本团为北极星联盟集团，本团对所有人友好，每周一白，<color=orange>可供R1～R9，尽量每天上线；较活跃可升高成，7天不上线起飞，等级超过85级升干事 大小号同级。<color=red>大家请文明用语。<color=green>加入本团的人请加企鹅群834525007<color=yellow>不活跃不参与白星<size=500>捐旗舰二 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

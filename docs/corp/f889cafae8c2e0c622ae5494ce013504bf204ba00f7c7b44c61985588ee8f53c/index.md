@@ -12,6 +12,17 @@ date: 1732059252
 
 
 
+```
+ Training corp.
+For new players. 
+Discord.gg/gJVbNTWUYM
+Please be active
+inactivity in 14 days will be removed
+
+Alliance:
+1. Dark Terra
+2. United Industries of Hades (UIH) ```
+### [Discord](https://discord.gg/gJVbNTWUYM))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

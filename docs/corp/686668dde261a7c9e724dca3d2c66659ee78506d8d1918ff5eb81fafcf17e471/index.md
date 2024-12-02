@@ -12,6 +12,8 @@ date: 1699888688
 
 
 
+```
+ Smurfing, just let us know when you are online, so that the game to be more fun... ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

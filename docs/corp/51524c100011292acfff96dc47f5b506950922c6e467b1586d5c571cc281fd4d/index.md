@@ -12,6 +12,8 @@ date: 1725284714
 
 
 
+```
+ 欢迎任何一位加入集团的成员<br><br>QQ群: 916442658<br><br>福利:r3-8、D7<br><br>主团:神圣罗马帝国<br>南极星联盟成员<br><br>直辖管制 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

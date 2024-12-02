@@ -12,6 +12,16 @@ date: 1700447756
 
 
 
+```
+ <color=#ffffff>ZION ZION II ZION III <b>MSR</b> VEGA ASTRA
+
+한국인 최대보유 시온연합
+<b>Discord</b> (PC, Mobile) : <b>37KaujZtkU</b>
+
+・ 존중, 배려, 소통
+・ <b>Discord에서</b> 정보공유, 파티원모집, 뉴비지원
+・ 비매너, 장기미접속은 추방</color> ```
+### [Discord](https://discord.gg/https://discord.com/invite/rTYsNzFmxx))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -12,6 +12,8 @@ date: 1714123800
 
 
 
+```
+ <a>本集团为<size=77>中国星系集团新主团</size></a > ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -12,6 +12,9 @@ date: 1718536141
 
 
 
+```
+ Welcome to Green Dwarf (GD); a part of the Dwarf family. Dwarf discord recommended for RS, weekly WS, advice and community. Currently 4 corps in the Dwarf community.  ```
+### [Discord](https://discord.gg/aBcFBnzKBR))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -12,6 +12,12 @@ date: 1708469944
 
 
 
+```
+ "Vagando a Espreita das Sombras, Sempre Evoluindo a Cada Vitória. Portanto Cuidado, Pois a Sua Derrota é a Nossa Glória!"
+
+*Respeite a todos, seja Generoso.
+Gpp: Whats✔
+Ws: a Cada 4 dias ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

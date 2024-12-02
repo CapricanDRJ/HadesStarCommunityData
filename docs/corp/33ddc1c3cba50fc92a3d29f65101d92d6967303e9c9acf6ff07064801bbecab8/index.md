@@ -12,6 +12,15 @@ date: 1701071146
 
 
 
+```
+ We are the Dragons of Destiny 
+
+A corporation that works together for the benefit of all its members
+
+Peace is boring
+
+Teamwork makes the dream work,
+Discord Required - R8nzDPk ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -12,6 +12,10 @@ date: 1729543151
 
 
 
+```
+ •This Corp is open to everybody 
+•Get diplomatic station so u can get help from one of our members
+•Hit up the chat system so we can hear whats on ur mind ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

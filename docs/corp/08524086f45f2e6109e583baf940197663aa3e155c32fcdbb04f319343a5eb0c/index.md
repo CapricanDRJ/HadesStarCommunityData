@@ -12,6 +12,9 @@ date: 1732876292
 
 
 
+```
+ Toi aussi viens evènementialiser un bénéfice collaboratif dans notre kick-off d'idéation de projet consultative du phallus de Fred ```
+### [Discord](https://discord.gg/tdyuYBQ5xs))
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

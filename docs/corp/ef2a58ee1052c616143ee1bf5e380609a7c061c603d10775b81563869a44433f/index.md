@@ -12,6 +12,13 @@ date: 1731988934
 
 
 
+```
+ <size=100>Наш дискорд:</size>
+<color="yellow">https://discord.gg/EVvjFZfGEY</color>
+или ЛС <color="yellow">OptiMysticOne#8930</color>
+02.11.2022
+Пытаемся почаще ходить к Белым Звёздам. Всем рады! ```
+### [Discord](https://discord.gg/EVvjFZfGEY))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

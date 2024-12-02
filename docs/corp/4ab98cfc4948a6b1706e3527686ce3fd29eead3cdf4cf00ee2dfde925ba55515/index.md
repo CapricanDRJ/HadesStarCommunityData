@@ -12,6 +12,10 @@ date: 1711749983
 
 
 
+```
+ Buscamos gente con actitud positiva para Estrellas Blancas.
+Únete al Imperio Gallego y juntos dominaremos la galaxia desde Cedeira hasta Verín.
+Discord: VjEnT6S ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

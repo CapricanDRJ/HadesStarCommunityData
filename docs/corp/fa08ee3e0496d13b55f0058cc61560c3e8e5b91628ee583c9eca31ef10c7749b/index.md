@@ -12,6 +12,13 @@ date: 1726298897
 
 
 
+```
+ "L'ivresse du vide et l'exaltation de la victoire sont un trésor qu'aucune cale ne saurait contenir avec suffisance!"
+
+Corpo École faisant partie des  🏴‍☠️ Pirates spatial  🏴‍☠️
+
+Discord : wZcGGNZ ```
+### [Discord](https://discord.gg/wZcGGNZ ))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

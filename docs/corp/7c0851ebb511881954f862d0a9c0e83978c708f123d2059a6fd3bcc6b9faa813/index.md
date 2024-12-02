@@ -12,6 +12,8 @@ date: 1722149758
 
 
 
+```
+ Мы едины ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

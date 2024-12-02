@@ -12,6 +12,9 @@ date: 1716342684
 
 
 
+```
+ Welcome to the Thunderbears!  New and Active, learning the game together. Discord is a requirement.  ```
+### [Discord](https://discord.gg/ZnXzQ8uS))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

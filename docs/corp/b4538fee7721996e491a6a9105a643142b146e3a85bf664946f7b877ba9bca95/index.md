@@ -12,6 +12,11 @@ date: 1705597966
 
 
 
+```
+ Welcome Arcadia Commander, come be part of a team.
+We will help you grow.
+Join us.
+Discord: jQSj4w8CnP ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

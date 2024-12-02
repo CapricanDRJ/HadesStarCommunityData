@@ -12,6 +12,8 @@ date: 1707681836
 
 
 
+```
+ Nueva Hyperion revive. Únete para comenzar a crecer tu imperio con las ventajas de una corporación ya empezada. Jugamos de manera relajada. Pregunta por el Discord en el chat. ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

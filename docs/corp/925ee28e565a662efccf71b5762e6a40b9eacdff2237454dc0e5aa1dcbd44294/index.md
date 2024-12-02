@@ -12,6 +12,8 @@ date: 1711587110
 
 
 
+```
+ SOLO GENTE ACTIVA  ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

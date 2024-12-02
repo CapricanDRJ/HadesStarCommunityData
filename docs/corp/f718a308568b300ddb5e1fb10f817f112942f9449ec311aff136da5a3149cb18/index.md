@@ -12,6 +12,13 @@ date: 1702798992
 
 
 
+```
+ Jeśli lubisz grać zespołowo zapraszamy, początkującym służymy pomocą.
+
+Jeśli chcesz do nas dołączyć najpierw skontaktuj sie z nami na discordzie.
+
+Discord obowiązkowy:
+https://discord.gg/qWTndzwmtX ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

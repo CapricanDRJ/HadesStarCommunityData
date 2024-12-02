@@ -12,6 +12,8 @@ date: 1727101030
 
 
 
+```
+ 和中国星际集团差不多，我喜欢中国🇨🇳 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

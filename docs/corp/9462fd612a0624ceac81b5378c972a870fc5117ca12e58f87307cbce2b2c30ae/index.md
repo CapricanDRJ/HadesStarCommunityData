@@ -12,12 +12,15 @@ date: 1728148067
 
 
 
+```
+ A friendly corp recommended for lower levels. we help eachother out and do white stars ```
+### [Discord](https://discord.gg/GeUuDDSH))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1244 🔺  (262)|
-| ELO Competitive | 1245 🔺  (388)|
+| ELO Competitive | 1245 🔺  (387)|
 | Total Matches | 3 |
 | Wins | 3 |
 | Losses | 0 |

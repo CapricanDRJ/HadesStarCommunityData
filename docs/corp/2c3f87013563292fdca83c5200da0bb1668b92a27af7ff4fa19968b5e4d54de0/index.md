@@ -12,6 +12,9 @@ date: 1704793788
 
 
 
+```
+ Sister corp of Continuum.  ```
+### [Discord](https://discord.gg/BaF8Wk9mFp))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -12,6 +12,9 @@ date: 1721479605
 
 
 
+```
+ <color="red">Goonies Never Say Die</color> We're active (give or take a few members), organised (just check our WS wins yo!) & friendly (y’all come back)Alliance with: 7SinS, Galaxia. Discord Require ```
+### [Discord](https://discord.gg/U8yKTks))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

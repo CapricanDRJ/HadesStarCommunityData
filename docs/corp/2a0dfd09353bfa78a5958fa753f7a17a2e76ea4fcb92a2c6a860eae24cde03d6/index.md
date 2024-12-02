@@ -12,6 +12,9 @@ date: 1708982290
 
 
 
+```
+ Head over to WompWompWay ```
+### [Discord](https://discord.gg/5KCND3wuds))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

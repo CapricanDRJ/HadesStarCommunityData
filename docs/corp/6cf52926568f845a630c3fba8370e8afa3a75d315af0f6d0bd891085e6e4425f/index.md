@@ -12,6 +12,9 @@ date: 1732558676
 
 
 
+```
+ THE CYDONIAN EMPIRE™       Seeking 3 WS pilots, RS7,8,9 arts to new active pilots.  ```
+### [Discord](https://discord.gg/xtHV8rkkAT))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

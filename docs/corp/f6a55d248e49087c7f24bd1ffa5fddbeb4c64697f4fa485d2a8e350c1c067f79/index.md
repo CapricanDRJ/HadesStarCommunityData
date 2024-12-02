@@ -12,6 +12,13 @@ date: 1700725519
 
 
 
+```
+ <color=red>░▄▄▄▄░
+▀▀▄██►
+▀▀███►
+░▀███►░█►
+▒▄████▀▀</color>
+ ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

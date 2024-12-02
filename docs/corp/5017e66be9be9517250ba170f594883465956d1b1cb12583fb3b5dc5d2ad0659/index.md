@@ -12,6 +12,8 @@ date: 1705194382
 
 
 
+```
+ All who join are looking to become legend. ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

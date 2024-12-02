@@ -12,6 +12,16 @@ date: 1714167890
 
 
 
+```
+ We are <b>OntarioDynasty!</b>
+
+12 corps across all RS levels ...
+
+New players are welcome to grow your Dynasty in OntarioDiligent, space bar or Meadow.
+
+Chat us up
+https://discord.gg/gBFFE5x ```
+### [Discord](https://discord.gg/xbJA3n56))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

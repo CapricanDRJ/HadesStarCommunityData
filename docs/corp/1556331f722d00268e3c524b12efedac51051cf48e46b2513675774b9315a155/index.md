@@ -12,6 +12,9 @@ date: 1732900339
 
 
 
+```
+ trại trú ẩn đồng hương thất lạc ```
+### [Discord](https://discord.gg/Bj7asyRu67))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

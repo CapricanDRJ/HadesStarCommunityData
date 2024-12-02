@@ -12,12 +12,19 @@ date: 1732800866
 
 
 
+```
+ Prepare-se para uma jornada épica entre Estrelas Vermelhas e Guerras intensas nas Estrelas Brancas. 
+
+🔰DRS e RS diárias
+🎖WS todas as sextas
+🔰Ajudamos com orientação e evolução. ```
+### [Discord](https://discord.gg/sVVAvk9RqC))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1486 🔻  (13)|
-| ELO Competitive | 1539 🔻  (32)|
+| ELO Competitive | 1539 🔻  (33)|
 | Total Matches | 53 |
 | Wins | 45 |
 | Losses | 8 |

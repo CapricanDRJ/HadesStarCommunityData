@@ -12,12 +12,16 @@ date: 1722148180
 
 
 
+```
+ WhatsApp: <color=#00FFFF>034 99879-2012</color>
+
+ <color=red>Top 1 BR </color> está recrutando guerreiros dedicados em RS e WS. interessado chamar no whatsapp. ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1225 🔺  (332)|
-| ELO Competitive | 1246 🔺  (387)|
+| ELO Competitive | 1246 🔺  (386)|
 | Total Matches | 18 |
 | Wins | 10 |
 | Losses | 8 |

@@ -12,6 +12,14 @@ date: 1721625973
 
 
 
+```
+ 本集团为遨游星空第二营地 <alpha=#44>现在是第一营地了<alpha=#FF>
+任何<u>常驻萌新</u>均可以领取高级神器福利，保证每一位萌新均能快速发展，度过前朝
+<s>不</s>接受死鱼，集团满了就<rotate=45>踢</rotate>
+集团qq群号：1092744803
+<alpha=#22><pos=40%>May The Lilies Bloom For You
+ ```
+### [Discord](https://discord.gg/BQkbAHaGj4))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

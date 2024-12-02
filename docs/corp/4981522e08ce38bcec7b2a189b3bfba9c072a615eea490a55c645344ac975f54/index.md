@@ -12,6 +12,9 @@ date: 1732586321
 
 
 
+```
+ <b><size=116>IMPERIO EXIRIUM </size></b> Bienvenidos todos a esta gran corporación hacemos ER 2 - ER 9. Ayudamos a varios miembros a crecer.                                         WhatsApp incluido. ```
+### [Discord](https://discord.gg/https://discord.gg/Jp8NZb5X))
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

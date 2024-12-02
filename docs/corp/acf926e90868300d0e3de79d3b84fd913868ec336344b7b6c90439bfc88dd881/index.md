@@ -12,6 +12,9 @@ date: 1728233709
 
 
 
+```
+ We are Astrium Reborn! Looking for casual players who want to run semi-regular WS and RS!  ```
+### [Discord](https://discord.gg/2tvBA63))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

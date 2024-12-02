@@ -12,6 +12,16 @@ date: 1727002679
 
 
 
+```
+ <size=60><color=white>我们是
+极端剧烈活动的河外星系核心QSO</color></size>
+<color=yellow>长期招收活跃白星玩家
+每周定期白星
+无论你是刚入坑萌新，
+还是顶级大佬，
+我们都欢迎你的加入！
+集团QQ群（打白星必需）：</color>1093246955
+<color=red>3日未上线踢出（请假除外）</color> ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

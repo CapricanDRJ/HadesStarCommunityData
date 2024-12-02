@@ -12,6 +12,9 @@ date: 1733035855
 
 
 
+```
+ The sunset of the dying star was covered in drops of mercury. ```
+### [Discord](https://discord.gg/hnywHXhtg5))
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

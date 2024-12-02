@@ -12,6 +12,15 @@ date: 1701009836
 
 
 
+```
+ OntarioDistrict is the Black sheep of <b>OntarioDynasty</b> family of corps. We run WS weekly.
+Pants not required 
+
+
+contact us via Discord to join:
+https://discord.gg/gBFFE5x
+
+od-family.com ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

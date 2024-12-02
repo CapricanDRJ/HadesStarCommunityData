@@ -12,6 +12,20 @@ date: 1731976017
 
 
 
+```
+ <b>IA2</b>
+
+Second Fleet of the
+<size=60>IMPERIAL ARMADA</size>
+
+Discord mandatory.
+24 hours to join.
+<color=orange>discord.gg/bAAYCqG2cE</color>
+
+Max period of inactivity: 3 days.
+
+English only. ```
+### [Discord](https://discord.gg/https://discord.gg/bAAYCqG2cE))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

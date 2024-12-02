@@ -12,6 +12,9 @@ date: 1732884106
 
 
 
+```
+ Lost in Space...? Dann komm zu uns!  ```
+### [Discord](https://discord.gg/qZFjFeg5wP))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

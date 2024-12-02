@@ -12,6 +12,8 @@ date: 1732904547
 
 
 
+```
+ Cz/Sk korpa pro nováčky, kde si osvojíte základy hry a připraví vás na budoucí cestu vesmírem Hádesu. https://userxinos.github.io/HadesSpace/ ```
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

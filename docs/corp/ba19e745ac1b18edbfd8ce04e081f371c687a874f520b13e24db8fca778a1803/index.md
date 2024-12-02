@@ -12,6 +12,8 @@ date: 1702667056
 
 
 
+```
+ Sejam todos bem-vindos. Contas novas ingressar na "MicroNova Beta", whatsapp:83-99339-5118. ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

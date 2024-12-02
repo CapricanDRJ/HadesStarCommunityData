@@ -12,6 +12,15 @@ date: 1706202597
 
 
 
+```
+ Welcome!  SisterCorp to No Orbit©. 
+Here to have fun and WS. 
+Stay active and no disrespectful players. 
+All levels are welcome!
+
+Discord is mandatory for WS participation!
+ ```
+### [Discord](https://discord.gg/CNh7tUG))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -12,6 +12,8 @@ date: 1732201086
 
 
 
+```
+ Chookity pop! ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

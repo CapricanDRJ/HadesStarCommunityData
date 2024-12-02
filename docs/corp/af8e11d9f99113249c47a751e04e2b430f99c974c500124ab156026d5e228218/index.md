@@ -12,6 +12,8 @@ date: 1725589130
 
 
 
+```
+ Open to all, come join and learn or just enjoy playing, no discord necessary ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

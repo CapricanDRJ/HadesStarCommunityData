@@ -12,6 +12,9 @@ date: 1731966402
 
 
 
+```
+ <size=150><#60f>CdS</color></size><br><#c6c>✝南十字星<br>✝クローチェ・デル・スッド<br><#fff>プライベートRS、BLS、時々WS…情報交換しながら、各自のペースで進めるコーポレーションです。イベントやWSはみんなで楽しく！アクティブな新人さんのご参加お待ちしています<br>Family: 蝸牛の集い<br>nata il19/09/2022 ```
+### [Discord](https://discord.gg/jPZ6zuXRmv))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

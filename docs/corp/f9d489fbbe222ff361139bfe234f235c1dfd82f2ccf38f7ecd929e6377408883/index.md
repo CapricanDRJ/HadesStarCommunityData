@@ -12,6 +12,8 @@ date: 1705463338
 
 
 
+```
+ Политические темы офф.  ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

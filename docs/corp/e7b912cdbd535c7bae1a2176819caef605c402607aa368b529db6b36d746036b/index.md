@@ -12,6 +12,8 @@ date: 1731372035
 
 
 
+```
+ Welcome to the land of the delicious! Please be active and grow :) ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -12,6 +12,9 @@ date: 1713190768
 
 
 
+```
+ Welcome to hang out. Very little going on around here.  ```
+### [Discord](https://discord.gg/kpnq4jZc56))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -12,6 +12,8 @@ date: 1703129890
 
 
 
+```
+   Korean Corporation 백성규칙 - 백1팀 참여자가 검색시작, 이후 백2팀에서 나머지 인원으로 검색 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

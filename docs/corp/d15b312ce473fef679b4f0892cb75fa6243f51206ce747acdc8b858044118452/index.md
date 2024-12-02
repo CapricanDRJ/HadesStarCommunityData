@@ -12,6 +12,15 @@ date: 1719009919
 
 
 
+```
+ <color="Red>EB SEMANAL
+
+EN MEMORIA DE SAVAAL </color>
+
+CONDICIONES:
+-Ser bueno con los integrantes.
+-No es necesario tener tanta influencia para entrar.
+-Ayudar con el reclutamiento diario ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

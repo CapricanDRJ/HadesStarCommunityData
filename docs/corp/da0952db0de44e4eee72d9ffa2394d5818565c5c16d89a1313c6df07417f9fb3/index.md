@@ -12,6 +12,9 @@ date: 1711927857
 
 
 
+```
+ For the friends and normies ```
+### [Discord](https://discord.gg/GYem3jEagg))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

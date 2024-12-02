@@ -12,6 +12,9 @@ date: 1701319101
 
 
 
+```
+ <color="green">Member Corp Of U.I.H</color> ```
+### [Discord](https://discord.gg/https://discord.com/invite/fqPrfnrcfz))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

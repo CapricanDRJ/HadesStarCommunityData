@@ -12,6 +12,14 @@ date: 1733042164
 
 
 
+```
+ Wir sind die Ark. Ob Pro oder Noob bei uns ist jeder willkommen.
+ 
+-regelmäßige wz
+-tägliche drr und rr
+
+Discord ist erwünscht, aber keine Pflicht. ```
+### [Discord](https://discord.gg/kPuseCu4RE))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

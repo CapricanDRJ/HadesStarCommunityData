@@ -12,6 +12,8 @@ date: 1711916138
 
 
 
+```
+ La corporation des Français ! ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

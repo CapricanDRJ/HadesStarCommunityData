@@ -12,6 +12,9 @@ date: 1710012656
 
 
 
+```
+ Приходишь, вытирай ноги у входа и здоровайся) ```
+### [Discord](https://discord.gg/fsD7Nfv))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -12,6 +12,16 @@ date: 1718489572
 
 
 
+```
+ Warriors From Outer Space !
+
+RS 5-9 daily
+Weekly WS 
+RIP Barriotuba 
+Join our development wing: Lemonparty
+Proud member of The Dark Matter Syndicate 
+Discord:
+https://discord.gg/kTmpmWx ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -12,6 +12,8 @@ date: 1732728143
 
 
 
+```
+ welcome to my corporation.  Language: English and Español. Discord NOT available. Top 5players become senior, top 2become official. red stars2-7. white stars every week ```
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

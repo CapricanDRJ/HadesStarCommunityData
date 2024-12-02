@@ -12,12 +12,15 @@ date: 1719396058
 
 
 
+```
+ <color=green>Welcome to the Death Squadron! The empire's most Elite squadron<br>weekly white stars<br>private red stars 3 to 8 ```
+### [Discord](https://discord.gg/HhVjWquh4J))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1166 🔻  (981)|
-| ELO Competitive | 1245 🔻  (390)|
+| ELO Competitive | 1245 🔻  (389)|
 | Total Matches | 40 |
 | Wins | 18 |
 | Losses | 22 |

@@ -12,6 +12,10 @@ date: 1732438778
 
 
 
+```
+ 只收中国人。每年必须要圣物。禁止骂人。活跃成员可赠送r7神器。
+ ```
+### [Discord](https://discord.gg/1538))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

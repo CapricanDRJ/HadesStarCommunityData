@@ -12,6 +12,8 @@ date: 1707434106
 
 
 
+```
+ we strive to be the best  follow us on www.facebook.com/AnarchyG13. whitestar or kick ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

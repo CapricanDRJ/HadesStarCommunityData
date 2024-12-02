@@ -12,6 +12,8 @@ date: 1706828870
 
 
 
+```
+ Burn responsibly ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

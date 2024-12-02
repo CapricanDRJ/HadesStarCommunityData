@@ -12,6 +12,8 @@ date: 1713475317
 
 
 
+```
+ Welcome to Tycho. Have fun, be a decent person. Communicate as best you can.  ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

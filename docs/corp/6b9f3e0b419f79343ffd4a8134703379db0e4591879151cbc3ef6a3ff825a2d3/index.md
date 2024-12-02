@@ -12,6 +12,12 @@ date: 1732911160
 
 
 
+```
+ It's all about having fun. Experienced players at all levels helping and supporting each other to grow. 
+Multiple daily RS
+Bi-Weekly WS 
+Beware of Viking
+Discord: sqaDS62zfW ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

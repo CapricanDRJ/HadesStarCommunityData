@@ -12,6 +12,9 @@ date: 1700504921
 
 
 
+```
+ Founded by a few friends whose corp died. Frequent RS and an active community. Join today :D ```
+### [Discord](https://discord.gg/uGvHyGs3RZ))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

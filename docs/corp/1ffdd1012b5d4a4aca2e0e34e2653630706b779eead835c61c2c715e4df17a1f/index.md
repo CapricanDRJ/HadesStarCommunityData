@@ -12,6 +12,12 @@ date: 1718995794
 
 
 
+```
+ United Industry of Hades
+Sailors are back! We have joined UIH and now are 11 corps.  Please contact us on Discord prior to joining.
+
+ ```
+### [Discord](https://discord.gg/jrqyXc8))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

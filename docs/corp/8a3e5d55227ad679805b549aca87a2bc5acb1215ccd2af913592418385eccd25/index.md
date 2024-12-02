@@ -12,6 +12,8 @@ date: 1728381554
 
 
 
+```
+ 星光万丈红活专用 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

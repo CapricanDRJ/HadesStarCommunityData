@@ -12,6 +12,9 @@ date: 1732675561
 
 
 
+```
+ Start here. Figure things out. Have fun. ```
+### [Discord](https://discord.gg/https://discord.gg/H46ekS4u))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

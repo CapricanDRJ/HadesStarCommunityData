@@ -12,12 +12,19 @@ date: 1715096003
 
 
 
+```
+ 한국인 전용<size="80"></size>
+백색참여하셔야 합니다.
+<color="red"></color><b></b>
+
+Discord opened ```
+### [Discord](https://discord.gg/https://discord.com/invite/7BfdmAAXQ7))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1115 🔻  (1219)|
-| ELO Competitive | 1248 🔺  (380)|
+| ELO Competitive | 1248 🔺  (379)|
 | Total Matches | 45 |
 | Wins | 13 |
 | Losses | 32 |

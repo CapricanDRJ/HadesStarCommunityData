@@ -12,6 +12,9 @@ date: 1699895601
 
 
 
+```
+ Inactive after DN and relocated to: Tuatha De Danan. BOTB will reopen when we find more members. Go to discord (discord.gg/ExdxEKXv5x) or send friend request to Lucky/ImLucky2 to contact us ```
+### [Discord](https://discord.gg/ExdxEKXv5x))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

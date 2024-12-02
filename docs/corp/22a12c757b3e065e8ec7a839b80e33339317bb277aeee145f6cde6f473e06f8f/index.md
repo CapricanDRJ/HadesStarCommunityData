@@ -12,6 +12,9 @@ date: 1712597022
 
 
 
+```
+ Be active in WS. Grow 500 power each week. Donate 10k daily to Flagship. Join Discord for communication purposes. Zero tolerance policy for zero communication. ```
+### [Discord](https://discord.gg/https://discord.gg/waZppQMM))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

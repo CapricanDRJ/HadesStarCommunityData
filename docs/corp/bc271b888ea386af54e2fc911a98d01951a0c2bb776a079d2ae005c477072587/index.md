@@ -12,6 +12,12 @@ date: 1699571671
 
 
 
+```
+ Der Sternenbund sucht neue Verbündete! Tretet bei und baut zusammen eine neue Community auf!
+Jeder Spieler ist willkommen:)
+
+Auf geht's!!
+(Line ID: Baraethelion) ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -12,6 +12,9 @@ date: 1726262846
 
 
 
+```
+ Primary language is English. Enjoy! Help the corporation to become a senior member. Fail to log, I will demote to member. 14 days no log in and I will kick members.  ```
+### [Discord](https://discord.gg/yEGmdxCSd9))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

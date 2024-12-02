@@ -12,6 +12,8 @@ date: 1718909844
 
 
 
+```
+ fuck you spy ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

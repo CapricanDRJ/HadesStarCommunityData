@@ -12,6 +12,8 @@ date: 1732923180
 
 
 
+```
+ <size="55"><color="white"><b> "Люди будут летать в космос по профсоюзным путевкам". С.П.Королев. Добро пожаловать в Профсоюз! Играем "ленивые" бз! </b></color></size>. https://t.me/corpkulak ```
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

@@ -12,6 +12,8 @@ date: 1732031941
 
 
 
+```
+ <color="blue">СИНЬКА ЗЛО!</color>  <color="green">ПЕЙ БОРЖОМИ!</color>  <color="red">ГАЛАКТИКА БУДЕТ НАША!✊✊</color> t.me/NifigasebeHS ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

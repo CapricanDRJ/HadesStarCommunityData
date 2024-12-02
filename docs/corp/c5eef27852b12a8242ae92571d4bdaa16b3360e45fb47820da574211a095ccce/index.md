@@ -12,6 +12,8 @@ date: 1731316706
 
 
 
+```
+ kor.cop 많이 들어와주세요 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -12,6 +12,17 @@ date: 1700374422
 
 
 
+```
+ Discord Required: Ff6qceW
+
+Partners with Rocket-by Baby corp!
+
+Daily Private! RS 5-11
+Weekly WS! (10v10)
+
+Questions: Message a Babies officer on discord 
+
+Come join the Flight-Team! ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

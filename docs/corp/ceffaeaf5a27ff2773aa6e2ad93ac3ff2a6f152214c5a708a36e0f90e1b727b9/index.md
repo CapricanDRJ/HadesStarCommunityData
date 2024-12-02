@@ -12,6 +12,13 @@ date: 1724069137
 
 
 
+```
+ ♡ Йога. Аромаванна. Смузи. Пауло Коэльо. 
+Отдыхаем от реальности. Без стресса и суеты ♡
+
+❀ Russian speaking Corporation targeted at 
+gals ❀ ```
+### [Discord](https://discord.gg/UD9E7M59W7))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

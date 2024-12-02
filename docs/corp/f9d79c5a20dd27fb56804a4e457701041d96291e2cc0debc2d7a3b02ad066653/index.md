@@ -12,6 +12,9 @@ date: 1701280029
 
 
 
+```
+ Willkommen bei der Monster AG ```
+### [Discord](https://discord.gg/https://discord.gg/bJH5xq64Kt))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

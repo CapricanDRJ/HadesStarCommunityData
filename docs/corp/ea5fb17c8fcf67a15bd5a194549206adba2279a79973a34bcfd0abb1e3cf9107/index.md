@@ -12,6 +12,11 @@ date: 1732961033
 
 
 
+```
+ Open RS, 56% bonus, leave corp, FS donations appreciated! 
+开红星，奖金56%，离职后，旗舰1捐款感激不尽!
+A corporation of like-minded players 6 years strong. Recruiting for WS. 18+, English. Discord - apply + RS queue. ```
+### [Discord](https://discord.gg/BaF8Wk9mFp))
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

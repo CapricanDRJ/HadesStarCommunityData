@@ -12,6 +12,8 @@ date: 1710365404
 
 
 
+```
+ Nova Aliança PT ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

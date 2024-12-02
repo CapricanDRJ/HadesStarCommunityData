@@ -12,6 +12,9 @@ date: 1732915067
 
 
 
+```
+ "NEVER LEAVE HOPE UNTIL YOU DIE" -- NOX IMPERIUM,A friendly corp with weekly ws   and in a search of active players,no discord required  ```
+### [Discord](https://discord.gg/https://discord.gg/wPXqY2hT))
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

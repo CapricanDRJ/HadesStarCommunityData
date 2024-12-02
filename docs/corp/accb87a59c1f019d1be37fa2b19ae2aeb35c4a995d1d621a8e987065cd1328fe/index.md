@@ -12,6 +12,9 @@ date: 1732821304
 
 
 
+```
+ As long as you’re active you can stay. ```
+### [Discord](https://discord.gg/5Ty2Uqmu))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

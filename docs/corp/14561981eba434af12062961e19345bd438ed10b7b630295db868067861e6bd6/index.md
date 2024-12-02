@@ -12,6 +12,15 @@ date: 1711683867
 
 
 
+```
+ <color=yellow><i><size=65><b>Открыт набор</b></size></i></color>
+
+Помощь новичкам
+Совместные полёты на КЗ
+<color=#00FFFF><size=65>Обмен артами ( ≤10 лвл )</size></color>
+
+https://discord.gg/H3ZnrmAYw5 ```
+### [Discord](https://discord.gg/https://discord.com/invite/PuhySY4))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

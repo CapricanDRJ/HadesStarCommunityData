@@ -12,6 +12,18 @@ date: 1701385831
 
 
 
+```
+ Fun Enthusiastic Team
+RS4-11
+Corp Rate Art Trading
+Support from HS Game Vets
+
+Weekly WS
+2021 WS Stats: 96.2% Win Rate
+2022 WS Stats: 91.6% Win Rate
+
+Discord is mandatory:
+https://discord.gg/sYAuq5vAD4 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

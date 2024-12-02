@@ -12,6 +12,8 @@ date: 1705425169
 
 
 
+```
+ Корпорация создана в июне 2020г. ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

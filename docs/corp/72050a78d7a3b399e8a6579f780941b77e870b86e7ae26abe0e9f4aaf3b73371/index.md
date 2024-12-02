@@ -12,6 +12,8 @@ date: 1702672167
 
 
 
+```
+ We are the glorious Death Starz.  Don't get in our way, better join us!!! https://chat.whatsapp.com/F94Hkk98xnn8JsuwNHB3lG ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -12,6 +12,8 @@ date: 1722286796
 
 
 
+```
+ FAIR - Farm All In Range.  We are primarily a White Star corp. all corp mambers are expected to do at least one white star a month. ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

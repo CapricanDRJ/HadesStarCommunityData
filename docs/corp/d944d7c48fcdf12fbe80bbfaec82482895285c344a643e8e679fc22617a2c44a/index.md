@@ -12,12 +12,15 @@ date: 1719570374
 
 
 
+```
+ Buka's secret hideout ```
+### [Discord](https://discord.gg/united-industries-of-hades-407365945376374795))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1214 🔻  (407)|
-| ELO Competitive | 1245 🔻  (389)|
+| ELO Competitive | 1245 🔻  (388)|
 | Total Matches | 10 |
 | Wins | 5 |
 | Losses | 4 |

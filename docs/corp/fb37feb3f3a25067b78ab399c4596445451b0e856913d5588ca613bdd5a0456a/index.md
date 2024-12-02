@@ -12,6 +12,8 @@ date: 1725305154
 
 
 
+```
+ Clan de hablá Hispana(Castellano/Español) ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

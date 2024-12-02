@@ -12,6 +12,8 @@ date: 1731452532
 
 
 
+```
+ Corporation driven to fight well, be successful and do missions!! No discord required ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

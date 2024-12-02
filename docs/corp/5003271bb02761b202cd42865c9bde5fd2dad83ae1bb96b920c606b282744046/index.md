@@ -12,6 +12,8 @@ date: 1733095514
 
 
 
+```
+ Мы, Avantgarde, пришли в Hades' Star, чтобы сеять хаос радости и веселья во имя фана и хорошего настроения! Хаос нельзя остановить! В хаос можно только влиться! https://discord.gg/wAHQ5BX ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

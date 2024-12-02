@@ -12,6 +12,12 @@ date: 1732720029
 
 
 
+```
+ <size=120><color=#813><b>RΣD <color=#ddd>DΛWN
+<size=60><color=#c23>Red Star Event Rank #58
+<color=#e50>Get <color=#9ec>500 Crystals</color> every month!
+<color=#fb3>Bring your crew and join us for  ```
+### [Discord](https://discord.gg/HAUXPBta))
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

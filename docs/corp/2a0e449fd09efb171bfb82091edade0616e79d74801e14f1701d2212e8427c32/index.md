@@ -12,6 +12,14 @@ date: 1703244396
 
 
 
+```
+ Bist du neu oder voll der Pro?! Flieg mit uns...bei RZwoDZwo!!!
+
+Wir freuen uns auf dich!
+
+\o/
+https://discord.gg/UPTTtGQpTj ```
+### [Discord](https://discord.gg/UPTTtGQpTj))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

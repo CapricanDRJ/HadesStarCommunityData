@@ -12,6 +12,14 @@ date: 1732395217
 
 
 
+```
+ Bienvenido a Last Chance, una gran familia que cada vez crece más ¡Anímate a unirte!
+
+Tenemos Grupo de WhatsApp, si necesitas ayuda manda mj
+
+Se amable con los demás y diviértete
+
+Alianza Axolotls ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

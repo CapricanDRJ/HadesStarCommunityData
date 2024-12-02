@@ -12,6 +12,13 @@ date: 1729596634
 
 
 
+```
+ <color=#0080FF>第三舰队【The Third Fleet】于2022-6-18宣布建立</color>
+<size=50><color=#FF0000>基本要求:听从指挥，拒绝辱骂他人、恶意毁坏他人财物；保持民主化体制，禁止滥用权力；成员晋升条件由自我优秀作风或白星表现决定
+</color></size>
+盟团:太阳系联邦
+企鹅（Q）群:<a>865904780</a> ```
+### [Discord](https://discord.gg/？))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

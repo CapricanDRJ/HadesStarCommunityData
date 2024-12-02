@@ -12,6 +12,8 @@ date: 1714595126
 
 
 
+```
+ This is a team building exercise ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

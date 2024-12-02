@@ -12,6 +12,9 @@ date: 1732667751
 
 
 
+```
+ Dutch speakers only! Discord verplicht ping MrSenf, Yah Boo ```
+### [Discord](https://discord.gg/cWymECU))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -12,6 +12,8 @@ date: 1727735542
 
 
 
+```
+ Taking over hades galaxy 1 white star at a time ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

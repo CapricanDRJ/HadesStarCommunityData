@@ -12,6 +12,14 @@ date: 1732021684
 
 
 
+```
+ 航迹跨越星海，存在步入永恒，掌控不朽者既掌控一切，欢迎来到阿尔特拉集团！
+阿尔特拉QQ群:719776587
+不要给旗舰捐钱
+DON'T DONATE CREDITS TO THE FLAGSHIP!
+人员分配：干事8人
+特别鸣谢：残月，可靠的同志
+>勿谈和白< ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -12,6 +12,13 @@ date: 1724582728
 
 
 
+```
+ <color=blue><size=100> Welcome to </size></color>
+<color=red><size=100> Novana Gaming </size></color>
+- English
+- At least 1x White Star every week
+- No toxicity<color="yellow"> ```
+### [Discord](https://discord.gg/TcQcQt9))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

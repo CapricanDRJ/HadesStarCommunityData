@@ -12,6 +12,18 @@ date: 1733052071
 
 
 
+```
+ CORP DE TRADEOS
+EBD diarias.
+Corporaciones aliadas:
+-Imperio tortuga
+-Wyvern
+-Imperio Galacti
+-Darknova
+-Unión latina
+-Свободный флот
+Discord: https://discord.gg/wnw8sSwy
+"Federación Versalles" ```
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

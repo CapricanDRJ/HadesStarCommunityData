@@ -12,6 +12,8 @@ date: 1699709894
 
 
 
+```
+ 此团是萌新港（大佬港）分团。可存放小号或不常上线的号。 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

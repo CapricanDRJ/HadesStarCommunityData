@@ -12,6 +12,9 @@ date: 1711033947
 
 
 
+```
+ All welcome. be active, helpful, and courteous to all. White stars every weekend. We are a group of casual players who play at individual paces. Discord optional ```
+### [Discord](https://discord.gg/qvXDRKy))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

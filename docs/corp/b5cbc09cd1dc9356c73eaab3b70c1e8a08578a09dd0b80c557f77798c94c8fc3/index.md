@@ -12,6 +12,8 @@ date: 1727557898
 
 
 
+```
+ Українці тут. ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

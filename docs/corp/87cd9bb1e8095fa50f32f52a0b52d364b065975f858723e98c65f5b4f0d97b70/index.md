@@ -12,6 +12,8 @@ date: 1707869096
 
 
 
+```
+ we are all here to have fun, let's have some😃 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

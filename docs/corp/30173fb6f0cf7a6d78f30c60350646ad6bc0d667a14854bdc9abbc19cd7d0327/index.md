@@ -12,6 +12,13 @@ date: 1732714018
 
 
 
+```
+ <b><size=90><color=red>Welcome to Embers Rising</color></size></b>
+A collaborative team focused on competitive WS
+Always Recruiting! RS: 4-10
+Member of The Rising Imperium
+Mandatory Discord: p3dTaE9 ```
+### [Discord](https://discord.gg/p3dTaE9))
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

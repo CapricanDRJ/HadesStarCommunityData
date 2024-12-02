@@ -12,6 +12,16 @@ date: 1714856234
 
 
 
+```
+ We are Aeternae! 
+
+Actives welcome
+We're mostly RS6-10, but welcome everyone 
+Weekly White stars
+
+Please say hello on discord if you are interested in joining us.
+
+http://discord.gg/7fT6uru ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -12,6 +12,8 @@ date: 1732870893
 
 
 
+```
+ para todos los patriotas ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

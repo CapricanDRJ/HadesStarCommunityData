@@ -12,6 +12,14 @@ date: 1729214047
 
 
 
+```
+ Join us and Chill, Chat or run Red Stars together.
+ 
+Daily Dark Red Stars!
+
+White Stars often, numbers permitting.
+
+No Discord! ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

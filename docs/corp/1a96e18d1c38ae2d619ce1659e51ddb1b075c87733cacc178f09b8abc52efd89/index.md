@@ -12,6 +12,8 @@ date: 1709878939
 
 
 
+```
+ <color=#a30606><size=115>₣ØⱤ₲ɆĐ ฿Ɏ ₣łⱤɆ™</size></color>  www.guilded.gg/i/27LVznwk  ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

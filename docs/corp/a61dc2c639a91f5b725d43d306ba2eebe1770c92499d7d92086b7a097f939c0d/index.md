@@ -12,12 +12,15 @@ date: 1732320093
 
 
 
+```
+ Свободная игра - свободный полёт. БЗ 1-2 раза в месяц, взаимопомощь на кз 2-8. Чат в телеге... ```
+### [Discord](https://discord.gg/Дискорда нет))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1216 🔻  (371)|
-| ELO Competitive | 1248 🔻  (383)|
+| ELO Competitive | 1248 🔻  (382)|
 | Total Matches | 16 |
 | Wins | 8 |
 | Losses | 8 |

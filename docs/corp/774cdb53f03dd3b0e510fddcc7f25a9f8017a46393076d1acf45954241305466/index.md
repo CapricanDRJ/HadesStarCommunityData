@@ -12,6 +12,9 @@ date: 1732982071
 
 
 
+```
+ 🎶I'm a Dude/he's a Dude/she's a Dude/we're all Dudes, hey!🎶<br><br>Chill group running weekly ws focused on teamwork, strategy, and communication. <B>Discord required!</B> Newbies welcome! ```
+### [Discord](https://discord.gg/xhXh3DkNBW))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

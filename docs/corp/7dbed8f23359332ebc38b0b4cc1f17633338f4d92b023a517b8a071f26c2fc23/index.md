@@ -12,6 +12,8 @@ date: 1709068832
 
 
 
+```
+ After Dark Nebula, we're trying to figure it out and rebuilding.  Join the gang, looking for active players. https://discord.com/invite/NFyP4WnNqW ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -12,6 +12,9 @@ date: 1729169549
 
 
 
+```
+ 직딩 환영
+자유롭게 놉시다 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

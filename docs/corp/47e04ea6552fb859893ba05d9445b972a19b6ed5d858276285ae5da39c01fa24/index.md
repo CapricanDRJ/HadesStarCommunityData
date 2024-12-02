@@ -12,6 +12,8 @@ date: 1732105819
 
 
 
+```
+ Surrender to The Order, belive to The Order, take part in The Order. ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

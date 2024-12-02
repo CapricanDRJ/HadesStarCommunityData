@@ -12,6 +12,8 @@ date: 1732640405
 
 
 
+```
+ Herzlich willkommen. Aktive Teilnahme in WZ erwünscht. ```
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

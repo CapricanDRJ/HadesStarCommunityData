@@ -12,6 +12,12 @@ date: 1716685502
 
 
 
+```
+ Just a friendly group of peeps
+White Star mondays 
+
+Discord Optional:
+https://discord.gg/SCWbttfZbU ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

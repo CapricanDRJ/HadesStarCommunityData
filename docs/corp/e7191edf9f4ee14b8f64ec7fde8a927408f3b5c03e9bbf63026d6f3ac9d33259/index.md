@@ -12,6 +12,8 @@ date: 1702238474
 
 
 
+```
+ Viendez tous, on est ici pour s'amuser, ET PAS SE PRENDRE LA TETE ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

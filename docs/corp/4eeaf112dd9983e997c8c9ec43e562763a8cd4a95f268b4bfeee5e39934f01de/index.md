@@ -12,6 +12,9 @@ date: 1732959531
 
 
 
+```
+ <b>Terranova</b>, Gründungsmitglied der <b>Tartaros Armada</b> ```
+### [Discord](https://discord.gg/SUVSGGYGz2))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

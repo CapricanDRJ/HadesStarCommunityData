@@ -12,6 +12,8 @@ date: 1712072325
 
 
 
+```
+ vamos ser bom ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

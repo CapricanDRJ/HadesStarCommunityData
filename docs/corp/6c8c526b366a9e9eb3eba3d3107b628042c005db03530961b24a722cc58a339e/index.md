@@ -12,6 +12,8 @@ date: 1732982071
 
 
 
+```
+ Witamy w naszych skromnych progach. Usiądź i rozgość się a zapoznamy cię z naszym otoczeniem. Przyjazna atmosfera i pomoc. https://discord.com/invite/v9vXJHAaKm ```
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

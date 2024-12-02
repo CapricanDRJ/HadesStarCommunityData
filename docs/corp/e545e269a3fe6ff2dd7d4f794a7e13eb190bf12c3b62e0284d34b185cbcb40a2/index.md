@@ -12,6 +12,9 @@ date: 1709148762
 
 
 
+```
+ Кукумбер, груша, два кота ```
+### [Discord](https://discord.gg/https://discord.com/invite/MhDzaS2P))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

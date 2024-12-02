@@ -12,6 +12,9 @@ date: 1733140420
 
 
 
+```
+ Just log in and play once per day. ```
+### [Discord](https://discord.gg/pTS382n7ZR))
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

@@ -12,6 +12,8 @@ date: 1723271885
 
 
 
+```
+ run by a few active friends, a corp for both new players but also for experienced ones, we welcome anyone and we will be happy to see you join. 🔰欢迎全球各地的人加入，新手送r8大礼，氛围轻松，适合养老🔰Friend corps: CIS, 红日初升 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

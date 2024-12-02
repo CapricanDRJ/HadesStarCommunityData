@@ -12,6 +12,12 @@ date: 1732806878
 
 
 
+```
+ <size=60><b><color=yellow>ALIANZA HISPÁNICA</color></b></size>
+<color=red>Estrell.Rojas 9-11</color>
+<color=white>Estrell.Blancas semanales</color>
+Discord obligatorio: KAguMmM ```
+### [Discord](https://discord.gg/KAguMmM))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

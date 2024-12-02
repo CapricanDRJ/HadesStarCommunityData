@@ -12,6 +12,11 @@ date: 1709658385
 
 
 
+```
+ <color=#ffffee><size=75>Várunk sok szerettel minden Újoncot tapasztalat szerzésre, Tapasztaltakat WS-re!</size>
+Ugyanitt bojler eladó
+Discord:</color> <color=#a4fc4c>9SyrBAt</color> ```
+### [Discord](https://discord.gg/9SyrBAt))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

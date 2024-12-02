@@ -12,6 +12,9 @@ date: 1716108934
 
 
 
+```
+ If you’re looking for the best, you’ve come to the WRONG place. This eccentric group of comrades runs on dro, whisky, and a blatant disregard for safety. ```
+### [Discord](https://discord.gg/bUTEsDp))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

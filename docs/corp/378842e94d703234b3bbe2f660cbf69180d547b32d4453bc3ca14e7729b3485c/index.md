@@ -12,6 +12,8 @@ date: 1723607550
 
 
 
+```
+ Bienvenidos a la corporacion mas poderosa de todas hacemos eb diarias ea y er espero que se diviertan todos los nuevos bienvenidos al equipo,todos los nuevos seran acendidos inmediatamente  ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -12,6 +12,15 @@ date: 1732889216
 
 
 
+```
+ <color=yellow>U.I.H. Corp
+<color=white>16-52% RS artifact bonuses
+Join our public RS queue on discord!
+
+<color=yellow>Flagship Donations:
+<color=white>FS1 - Open
+FS2 - Closed ```
+### [Discord](https://discord.gg/vPsNNxs))
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

@@ -12,6 +12,16 @@ date: 1732995596
 
 
 
+```
+ <b><color=#FF1111>Lacuna Group's</b> advancement corp.
+
+Welcoming new players! Joining our discord is a hard requirement for joining the corp.
+
+White Star focused.
+
+<b>Discord:</b> discord.gg/BFfSkvu
+ ```
+### [Discord](https://discord.gg/BFfSkvu))
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

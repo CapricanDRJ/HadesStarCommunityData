@@ -12,6 +12,9 @@ date: 1701915990
 
 
 
+```
+ <size=90>欢迎加入</size><color=yellow><b>宇宙警察局</b></color>(~0~)来了就当一个<color=green>合格的</color><color=red><i>警</i></color><a><i>察</I></a>吧！
+<b>警局QQ931045807</b> ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

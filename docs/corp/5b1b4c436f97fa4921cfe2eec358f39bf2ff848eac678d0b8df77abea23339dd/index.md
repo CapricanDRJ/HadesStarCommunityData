@@ -12,6 +12,8 @@ date: 1705985522
 
 
 
+```
+ dead corp  ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

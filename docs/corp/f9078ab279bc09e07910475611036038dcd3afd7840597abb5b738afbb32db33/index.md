@@ -12,6 +12,9 @@ date: 1708563696
 
 
 
+```
+ the official USAR (usar is a micronation) corporation. ```
+### [Discord](https://discord.gg/https://discord.com/invite/G3xv4sqYvq))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

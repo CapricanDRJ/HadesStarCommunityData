@@ -12,6 +12,8 @@ date: 1732824010
 
 
 
+```
+ The best corporation for white star enthusiasts. On the way to greatness. White star participation required ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

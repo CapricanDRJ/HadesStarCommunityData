@@ -12,6 +12,8 @@ date: 1703593547
 
 
 
+```
+ Welcome to the Stargate Command. Now that we have defeated the Goa'uld, Replicators, and Wraith; let us explore the galaxy! ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

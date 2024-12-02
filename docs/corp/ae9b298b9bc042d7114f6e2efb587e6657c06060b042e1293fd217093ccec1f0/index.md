@@ -12,6 +12,10 @@ date: 1709890357
 
 
 
+```
+ Бурятия
+
+vk.com/kedr_sh ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

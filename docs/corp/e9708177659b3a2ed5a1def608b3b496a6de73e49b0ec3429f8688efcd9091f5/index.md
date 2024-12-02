@@ -12,6 +12,8 @@ date: 1709703756
 
 
 
+```
+ донат флагмана запрещен! ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

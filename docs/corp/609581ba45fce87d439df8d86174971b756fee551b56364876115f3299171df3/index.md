@@ -12,6 +12,9 @@ date: 1703247402
 
 
 
+```
+ Bienvenue à tous les aventuriers galactique !
+https://discord.gg/M8HFPDG ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

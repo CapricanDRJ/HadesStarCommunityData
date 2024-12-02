@@ -12,6 +12,15 @@ date: 1732634996
 
 
 
+```
+ Chill corp for active RS and WS pilots! All experience levels welcome!
+
+Discord is mandatory for ws
+
+https://discord.gg/jPftecDuNp
+
+Primarily English ```
+### [Discord](https://discord.gg/jPftecDuNp))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

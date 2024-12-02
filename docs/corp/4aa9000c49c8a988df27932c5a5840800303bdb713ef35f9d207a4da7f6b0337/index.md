@@ -12,6 +12,11 @@ date: 1730938986
 
 
 
+```
+ Discord: cRMhmXfctC
+https://discord.gg/cRMhmXfctC
+Destroy or be destroyed. This is a place where only the strong survive
+White star every 2 weeks ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

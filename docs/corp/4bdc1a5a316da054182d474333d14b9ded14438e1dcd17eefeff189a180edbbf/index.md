@@ -12,6 +12,9 @@ date: 1707455738
 
 
 
+```
+ (Dormant Corp, Head Over to The Red_Coat_Mafia) , rs1 upwards. All we ask is that you must be active and Let our name be known amongst all! 14 day inactive kick enforced. JnrwdDKynd (discord) ```
+### [Discord](https://discord.gg/JnrwdDKynd))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

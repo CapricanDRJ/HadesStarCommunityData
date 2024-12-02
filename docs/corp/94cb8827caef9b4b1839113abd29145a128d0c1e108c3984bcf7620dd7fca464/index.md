@@ -12,11 +12,20 @@ date: 1731144822
 
 
 
+```
+ <color=yellow>Proud member of United Industries of Hades (UIH)
+</color>spanning multiple corps
+
+Outland welcomes our newest recruits!
+
+Discord is mandatory:
+<color=yellow>discord.gg/vPsNNxs</color> ```
+### [Discord](https://discord.gg/vPsNNxs))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1441 🔺  (28)|
+| ELO Regular | 1441 🔺  (29)|
 | ELO Competitive | 1500 🔺  (48)|
 | Total Matches | 48 |
 | Wins | 37 |

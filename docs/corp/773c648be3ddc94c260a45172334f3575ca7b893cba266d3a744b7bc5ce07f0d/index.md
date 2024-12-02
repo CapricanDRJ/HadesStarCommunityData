@@ -12,6 +12,8 @@ date: 1701248167
 
 
 
+```
+ trabajamos en las sombras para servir a la luz ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

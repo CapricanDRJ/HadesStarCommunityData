@@ -12,6 +12,8 @@ date: 1711536025
 
 
 
+```
+ Corp tranquila de habla hispana. NO hacemos envíos a otros jugadores. Interesados en las estrellas blancas. Echamos a las personas sin actividad, dependiendo del nivel. Disfrutenla discord.gg/WfG8AGP ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

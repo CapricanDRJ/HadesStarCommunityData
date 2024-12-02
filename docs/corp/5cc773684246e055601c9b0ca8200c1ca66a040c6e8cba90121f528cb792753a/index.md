@@ -12,6 +12,8 @@ date: 1704183140
 
 
 
+```
+ CORP COLONIZADA ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

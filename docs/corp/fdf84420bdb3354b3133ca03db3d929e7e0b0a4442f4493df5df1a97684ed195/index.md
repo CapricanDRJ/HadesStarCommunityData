@@ -12,6 +12,9 @@ date: 1706608888
 
 
 
+```
+ <b> <color=#FFC0CB>Добро Пожаловать в Северный Флот!</b>       <color=#8bbe1b>Discord Канал:<b>#👀сбор-на-кз</b> </color>(читай Справку) ```
+### [Discord](https://discord.gg/xxJxnp5m7f))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

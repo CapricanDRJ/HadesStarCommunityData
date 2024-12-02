@@ -12,6 +12,9 @@ date: 1702887653
 
 
 
+```
+ Friendly corp. English chat. Discord is optional. ```
+### [Discord](https://discord.gg/Sy2sRYyZPZ))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

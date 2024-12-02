@@ -12,6 +12,8 @@ date: 1713796231
 
 
 
+```
+ We are one and never broken. ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

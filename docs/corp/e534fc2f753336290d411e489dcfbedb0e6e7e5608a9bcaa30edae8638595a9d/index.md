@@ -12,6 +12,14 @@ date: 1732624476
 
 
 
+```
+ <color=#66ccff><size=50>航迹跨越星海，存在步入永恒，掌控不朽者即掌控一切，欢迎各位萌新来到阿尔特拉太空港！
+集团代理人： 2号、水滴、蜜芒
+盟团：红日初升
+PS：本团隶属于阿尔特拉集团                       阿尔特拉QQ群号：719776587
+不要给旗舰捐钱
+DON'T DONATE CREDITS TO THE FLAGSHIP!
+勿谈和白 ```
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

@@ -12,6 +12,17 @@ date: 1702529096
 
 
 
+```
+ <color=red>欢迎来到这里，我会帮助任何来这里的萌新，请加入的团员多多说话，不要咸鱼，不许不文明</color>
+联盟共立的集团：CMPN共和共产联盟
+<size=100>集团首席新地球</size>
+老成员回来后，请帮忙晋升回去
+分团:传说之下、三体第三舰队
+<size=120>集团诚邀打白的人</size>
+黑：American
+频道QQ群695410371
+不要外交黑名单 ```
+### [Discord](https://discord.gg/SK48856))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

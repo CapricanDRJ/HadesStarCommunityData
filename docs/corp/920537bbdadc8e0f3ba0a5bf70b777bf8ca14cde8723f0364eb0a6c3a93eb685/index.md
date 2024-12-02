@@ -12,12 +12,15 @@ date: 1732880199
 
 
 
+```
+ United Fleet Operations:
+https://discord.gg/NuvtUTUxQj  ```
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1223 🔺  (338)|
-| ELO Competitive | 1246 🔺  (386)|
+| ELO Competitive | 1246 🔺  (385)|
 | Total Matches | 17 |
 | Wins | 7 |
 | Losses | 9 |

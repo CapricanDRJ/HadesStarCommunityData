@@ -12,6 +12,8 @@ date: 1733024440
 
 
 
+```
+ <color=yellow>欢迎加入我集团<br>南极星联盟成员<br>首席、中国外交：瓜老板?世<br>白星指挥:鑫森淼焱垚、cyka<br>Diplomacy：Phanatikk<br>神圣罗马帝国分团<br>We welcome everyone<br>QQ群:639697949 <br><br>最高福利：r9 ```
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

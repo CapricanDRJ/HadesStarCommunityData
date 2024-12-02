@@ -12,6 +12,8 @@ date: 1705138180
 
 
 
+```
+ UK group, active through the day. New players welcome. ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

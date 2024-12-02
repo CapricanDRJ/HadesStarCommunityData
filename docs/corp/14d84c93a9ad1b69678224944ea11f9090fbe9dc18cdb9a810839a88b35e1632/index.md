@@ -12,6 +12,11 @@ date: 1712178754
 
 
 
+```
+ <size=100><b><color=Red>Orden Real </color></b></size>
+•Estrellas Rojas ✓
+•Estrellas Blancas ✓
+•Discord [PgyhFfhnT3]  ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

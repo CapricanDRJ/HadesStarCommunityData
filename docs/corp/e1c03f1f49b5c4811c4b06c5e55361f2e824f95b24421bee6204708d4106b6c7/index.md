@@ -12,6 +12,8 @@ date: 1720819016
 
 
 
+```
+ Corp made for storage of players who don't come back ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -12,6 +12,9 @@ date: 1732933693
 
 
 
+```
+ Corporation of Independent Systems.  Discord is Mandatory. Join today and fight against the tyranny of the Cerberus! ```
+### [Discord](https://discord.gg/eVBvw68KEU))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -12,6 +12,14 @@ date: 1702928532
 
 
 
+```
+ <color=#40FECB>Member corporation of the <b>Spacefleet Alliance</b></color>
+
+• Coordinated <b>RS 1-5</b>
+• First time WS players welcome
+• Activity is required
+
+Join Discord here: <b>EEpZuWf</b> ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

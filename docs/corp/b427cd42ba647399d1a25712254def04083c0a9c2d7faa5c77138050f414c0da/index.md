@@ -12,6 +12,10 @@ date: 1709307723
 
 
 
+```
+ 红活专用团
+墨痕Q群：796512160
+ ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

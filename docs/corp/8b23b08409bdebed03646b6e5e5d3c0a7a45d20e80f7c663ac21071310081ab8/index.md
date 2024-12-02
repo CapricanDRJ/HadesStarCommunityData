@@ -12,6 +12,21 @@ date: 1715217779
 
 
 
+```
+ ALIANÇA: LUSO (BR/PT) 🚀
+
+33° Evento de RS - 2022.
+
+<color=red>
+- Tormenta
+- BrHue
+- Hipernova
+- Brasil Star
+- Los Lord's
+- Helion Prime
+- Br Project
+- Projeto NU
+</color> ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

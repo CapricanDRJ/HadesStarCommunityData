@@ -12,6 +12,13 @@ date: 1722779350
 
 
 
+```
+ <b><color=yellow>United Industries of Hades</color></b>
+
+Join our public RS queue on Discord.
+</color>
+Discord is mandatory:<b>https://dsc.gg/uih<b><b><b> ```
+### [Discord](https://discord.gg/vPsNNxs))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -12,6 +12,8 @@ date: 1702678179
 
 
 
+```
+ Svensk Corp. Väldigt aktiv med trevlig stämning. Söker medlemmar som vill hjälpa till att vinna white stars! ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -12,6 +12,9 @@ date: 1725347571
 
 
 
+```
+  ```
+### [Discord](https://discord.gg/https://discord.com/invite/eTQEZfYv))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

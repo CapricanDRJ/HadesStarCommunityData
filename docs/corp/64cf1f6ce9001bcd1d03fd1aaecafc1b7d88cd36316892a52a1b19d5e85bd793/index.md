@@ -12,6 +12,9 @@ date: 1725637514
 
 
 
+```
+ <b>UPDATE AUG 24:</b> <color=#dhtrse>RECRUITING NEW SOULS!</color>  Hard core WS focused players wanted. Discord comms essential. We are keen to improve WS results. Let's kick ass together! ```
+### [Discord](https://discord.gg/https://discord.com/invite/cevpqFrB7J))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

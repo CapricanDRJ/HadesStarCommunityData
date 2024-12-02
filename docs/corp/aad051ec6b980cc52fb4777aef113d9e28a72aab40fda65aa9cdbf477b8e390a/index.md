@@ -12,6 +12,9 @@ date: 1732739865
 
 
 
+```
+ Friendly casual corp. Our discord: discord.gg/nCabaKz ```
+### [Discord](https://discord.gg/nCabaKz))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

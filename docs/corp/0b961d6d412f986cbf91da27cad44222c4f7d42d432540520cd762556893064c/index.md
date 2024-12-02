@@ -12,6 +12,14 @@ date: 1699135307
 
 
 
+```
+ <size=70><b>  
+             SAILING FAST
+      WHERE NO ONE DARES
+
+</b></size><size=48>
+   Main corp of the SPACE LEGENDS federation</color></size> ```
+### [Discord](https://discord.gg/63DZYSc))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

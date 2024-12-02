@@ -12,6 +12,14 @@ date: 1721257201
 
 
 
+```
+ <color=white><color=yellow>Proud member of the UIH Family.</color>
+
+Friendly & active rs9 - 11.
+Weekly comp & casual WS.
+
+Join via Discord: N3uPEvsFY9</color> ```
+### [Discord](https://discord.gg/vPsNNxs))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

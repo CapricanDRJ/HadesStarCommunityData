@@ -12,6 +12,9 @@ date: 1732917771
 
 
 
+```
+ вкладывать в флагман 2 ```
+### [Discord](https://discord.gg/https://discord.com/invite/4QSGgfYy))
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

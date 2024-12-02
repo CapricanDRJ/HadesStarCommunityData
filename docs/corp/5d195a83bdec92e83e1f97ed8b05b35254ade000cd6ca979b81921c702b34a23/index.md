@@ -12,6 +12,16 @@ date: 1733084238
 
 
 
+```
+ **NewCorp**
+*RetiringTheVoidOneHexagonAtaTime*
+**NonStopWhiteStars**
+*White Star Focused Corp* 
+**ReadTheChatsForNews,Info**
+*ArtifactSharing*
+**English**
+*Donations Appreciated* ```
+### [Discord](https://discord.gg/vmbXh7r7yt))
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

@@ -12,6 +12,12 @@ date: 1727178974
 
 
 
+```
+ We are the Borg, You will be assimilated, Resistance is futile.
+
+Unimatrix 1 of the Borg collective 
+
+BorgHadesStar.reddit.com ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

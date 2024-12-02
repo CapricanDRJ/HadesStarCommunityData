@@ -12,6 +12,8 @@ date: 1723710627
 
 
 
+```
+ Join if you have a white star scanner and can help in white stars ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

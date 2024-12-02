@@ -12,6 +12,14 @@ date: 1733009420
 
 
 
+```
+ 🔹 Discord mandatory.
+🔹 New Player friendly.
+🔹 English speaking.
+🔹 Weekly white stars.
+🔹 Allies of Stargate. 
+ ```
+### [Discord](https://discord.gg/qx6HrYM223))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

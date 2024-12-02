@@ -12,6 +12,8 @@ date: 1707483687
 
 
 
+```
+ карпа для активных игр аков 40 ранк мак. ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

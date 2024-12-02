@@ -12,6 +12,8 @@ date: 1732770299
 
 
 
+```
+ New!!! Join to expand! ```
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

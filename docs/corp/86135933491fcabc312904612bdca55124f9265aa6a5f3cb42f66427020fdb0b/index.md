@@ -12,6 +12,9 @@ date: 1733083336
 
 
 
+```
+ Join our discord for help with building your system to be awesome. Join our White Star battles as soon as you build a scanner to gain experience and have some fun! ```
+### [Discord](https://discord.gg/WKKwkbPsya))
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

@@ -12,6 +12,15 @@ date: 1732389205
 
 
 
+```
+ <color=#23dbe7>Casual WS corporation of the <b>Spacefleet Alliance</b></color>
+
+•Coordinated <b>RS 9-11</b>
+•Friendly Community
+
+Discord mandatory. <b>EEpZuWf
+Winter Comes to Hades</b> ```
+### [Discord](https://discord.gg/EEpZuWf))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

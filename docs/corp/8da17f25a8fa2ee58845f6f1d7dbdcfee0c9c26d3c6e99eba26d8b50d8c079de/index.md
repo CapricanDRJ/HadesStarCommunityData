@@ -12,6 +12,8 @@ date: 1733028345
 
 
 
+```
+ You are lucky to meet me in White Star! Congratulations! ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

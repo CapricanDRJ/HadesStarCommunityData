@@ -12,6 +12,8 @@ date: 1732831222
 
 
 
+```
+ THE CYDONIAN EMPIRE™ ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

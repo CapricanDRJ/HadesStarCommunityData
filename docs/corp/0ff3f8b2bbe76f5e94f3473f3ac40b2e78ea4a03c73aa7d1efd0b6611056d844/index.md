@@ -12,6 +12,9 @@ date: 1699198575
 
 
 
+```
+ Андреас, ты чего набалансил ```
+### [Discord](https://discord.gg/U7aUhD3SRw))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

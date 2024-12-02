@@ -12,6 +12,15 @@ date: 1732952621
 
 
 
+```
+ <color=white>What could be better than wobbling around star systems! 
+
+We are Penguin Horde , Come join us today! Here to bring joy to all penguins.</color> 
+
+
+Recruiting rs9-rs11
+Discord: asheRjW ```
+### [Discord](https://discord.gg/asheRjW))
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

@@ -12,6 +12,9 @@ date: 1709372322
 
 
 
+```
+ Benvenuti in ITA! Main coorp RS7+                                                  ~WS settimanali                                                  ~Discord obbligatorio!                          ```
+### [Discord](https://discord.gg/TRXN76sqYC))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -12,6 +12,14 @@ date: 1733111578
 
 
 
+```
+ <color=white><i>✴ КЗ 7-10 
+✴ Еженедельное БЗ 
+✴ Слаженный коллектив
+
+В наличии также Discord и Telegram
+</i></color> ```
+### [Discord](https://discord.gg/YVP3QdjE3d))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -12,6 +12,9 @@ date: 1732950217
 
 
 
+```
+  <color=yellow>Public UIH RS Corp for 48% runs. Join us on discord! discord is mandatory for membership. ```
+### [Discord](https://discord.gg/vPsNNxs))
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

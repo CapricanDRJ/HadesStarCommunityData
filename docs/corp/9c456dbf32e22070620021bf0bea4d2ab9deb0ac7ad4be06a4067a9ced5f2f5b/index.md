@@ -12,6 +12,8 @@ date: 1731716101
 
 
 
+```
+ Active members looking to expand together and conquer white stars  ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

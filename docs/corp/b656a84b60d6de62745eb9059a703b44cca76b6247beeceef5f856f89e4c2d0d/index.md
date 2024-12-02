@@ -12,6 +12,10 @@ date: 1715188047
 
 
 
+```
+ Following  the learning curve. Active participation is expected. Please turn off your White Star scanner if not participating
+
+Discord - https://discord.gg/ZUeGK83 (optional, not required) ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

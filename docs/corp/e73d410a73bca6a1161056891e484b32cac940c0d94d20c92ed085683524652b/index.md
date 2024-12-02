@@ -12,6 +12,14 @@ date: 1732875391
 
 
 
+```
+ Zapraszamy aktywnych graczy, chętnych do wspólnych bitew na WS oraz RS. Służymy pomocą merytoryczną.
+
+Rekrutację prowadzimy także na naszym discordzie.
+
+DISCORD
+vGfaYFN ```
+### [Discord](https://discord.gg/vGfaYFN))
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

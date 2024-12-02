@@ -12,6 +12,8 @@ date: 1719260117
 
 
 
+```
+ wir sind eine deutschsprachige schweizer allianz und stehen für aktiven spiel und spass ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -12,6 +12,8 @@ date: 1732641718
 
 
 
+```
+ Casual Clan looking for active players. Join our clan and grow with us. ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

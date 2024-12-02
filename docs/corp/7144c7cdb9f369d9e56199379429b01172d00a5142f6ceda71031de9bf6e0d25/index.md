@@ -12,6 +12,8 @@ date: 1710787868
 
 
 
+```
+ ⚔️ Pretorian Jpr. ally sekolygen. unidos Siempre highest corp decorations.🌟🌟level3. *(A)* lunar.(A) Ragnarok.Admiral S. AS lexxf. anawk.gateway ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

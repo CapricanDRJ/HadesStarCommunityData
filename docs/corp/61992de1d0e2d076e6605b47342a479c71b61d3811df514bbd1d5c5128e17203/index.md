@@ -12,6 +12,12 @@ date: 1714870056
 
 
 
+```
+ どなたでも歓迎致します。
+のんびりプレイが好きな人向き。
+新人さんでもご参加いただけます。
+
+https://discord.gg/95F5HQa ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

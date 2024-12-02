@@ -12,6 +12,9 @@ date: 1720925094
 
 
 
+```
+ <color="lightblue"><b><size="100">Colonial Defence Grid           </size><size="50"> So Say We All</size></b></color> ```
+### [Discord](https://discord.gg/Gv2tjDgdSa))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

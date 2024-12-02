@@ -12,6 +12,9 @@ date: 1732995596
 
 
 
+```
+ Subsidiary of the Titans Ф Terror   •Active Players welcome• Find more Infos on Discord or at: hadestitans.com  ```
+### [Discord](https://discord.gg/YPC7XenfdY))
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

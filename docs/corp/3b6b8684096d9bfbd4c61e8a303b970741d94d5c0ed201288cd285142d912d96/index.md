@@ -12,6 +12,12 @@ date: 1706539713
 
 
 
+```
+ aktiver Nachwuchskonzern im Aufbau
+Teamplay ist Vorraussetzung!
+z. B. RR Hilfe etc.! 
+Für WZ möchten wir die Teilnahme im Discord!
+https://discord.gg/pUXrxxt ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

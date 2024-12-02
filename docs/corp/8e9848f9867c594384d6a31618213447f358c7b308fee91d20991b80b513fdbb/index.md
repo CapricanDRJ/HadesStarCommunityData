@@ -12,6 +12,9 @@ date: 1732772617
 
 
 
+```
+ Vulnera Virtutem Vivificant ```
+### [Discord](https://discord.gg/aeWKd23QQ5))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

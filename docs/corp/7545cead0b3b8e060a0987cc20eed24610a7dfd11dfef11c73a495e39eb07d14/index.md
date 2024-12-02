@@ -12,12 +12,15 @@ date: 1710084164
 
 
 
+```
+ 🔥Welcome to the Dark Legion training base. We welcome players of all nationalities and from all countries.  ```
+### [Discord](https://discord.gg/https://discord.gg/MY29hgT5ZE))
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1244 🔻  (263)|
-| ELO Competitive | 1247 🔻  (385)|
+| ELO Competitive | 1247 🔻  (384)|
 | Total Matches | 5 |
 | Wins | 4 |
 | Losses | 1 |

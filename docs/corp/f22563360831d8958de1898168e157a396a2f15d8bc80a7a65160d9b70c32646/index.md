@@ -12,6 +12,8 @@ date: 1701516567
 
 
 
+```
+ Looking for active players with personality. We have a Discord server with no mandatory participation. ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

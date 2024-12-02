@@ -12,6 +12,8 @@ date: 1733081233
 
 
 
+```
+ "imperio  galactico" en el imperio galactico habra estrellas blancas diarias y te apoyaremos en cualquier cosa Lista de aliados:Imperio estelar, Alfa Omega GuistonRA ```
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

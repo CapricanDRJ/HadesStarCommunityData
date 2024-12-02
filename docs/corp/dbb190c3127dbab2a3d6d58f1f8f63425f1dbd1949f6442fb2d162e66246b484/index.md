@@ -12,6 +12,8 @@ date: 1732820403
 
 
 
+```
+ Soldiers that never give up on the battlefield despite the odds. Great team atmosphere, regular white/red stars. Active  members join us https://discord.com/invite/rmzHUdXef7 ```
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

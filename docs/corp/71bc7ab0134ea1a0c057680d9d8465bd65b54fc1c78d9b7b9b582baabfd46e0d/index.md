@@ -12,6 +12,20 @@ date: 1732770213
 
 
 
+```
+ <color=#8c65fe>Member corporation of the<b> Spacefleet Alliance</b></color>
+
+
+•Coordinated <b>RS 9-11</b>
+
+•Weekly competitive WS
+
+•Active community
+Win,lose,fight.
+
+
+Discord mandatory. <b>EEpZuWf</b> ```
+### [Discord](https://discord.gg/EEpZuWf))
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
