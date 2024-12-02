@@ -13,7 +13,9 @@ date: 1727516721
 
 
 ```
- Ausbildungskonzern des Hellfire Clubs. Du bist neu und suchst einen Konzern um gemeinsame rr/drr und/oder WZ zu fliegen? Dann bist du hier richtig! Komm rein oder erkundige dich auf unserem D-server. 
+Ausbildungskonzern des Hellfire Clubs. Du bist neu und suchst einen K
+onzern um gemeinsame rr/drr und/oder WZ zu fliegen? Dann bist du hier
+ richtig! Komm rein oder erkundige dich auf unserem D-server. }
 ```
 ### [Discord](https://discord.gg/cMHeknWazZ)
 ### Whitestar Bonus ❌

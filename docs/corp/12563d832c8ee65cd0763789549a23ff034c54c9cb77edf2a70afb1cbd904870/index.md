@@ -13,14 +13,14 @@ date: 1709467281
 
 
 ```
- RS4 to 7
+RS4 to 7}
 ```
 ### [Discord](https://discord.gg/kmedjBRNBJ)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔺  (808)|
+| ELO Regular | 1183 🔺  (809)|
 | ELO Competitive | 1184 🔺  (940)|
 | Total Matches | 5 |
 | Wins | 2 |

@@ -13,13 +13,13 @@ date: 1722619785
 
 
 ```
- Home to all as long as you are willing to contribute to our growth 🤝
+Home to all as long as you are willing to contribute to our growth 🤝}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (828)|
+| ELO Regular | 1181 🔻  (829)|
 | ELO Competitive | 1219 🔻  (486)|
 | Total Matches | 33 |
 | Wins | 15 |

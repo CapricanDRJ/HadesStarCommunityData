@@ -13,17 +13,18 @@ date: 1704086180
 
 
 ```
- **Corp is basically dead now. Thanks for the memories lads.**
+**Corp is basically dead now. Thanks for the memories lads.**
 
-This is the Round Table. We Help each other and have fun. Most of all be Respectful and Honest.
+This is the Round Table. We Help each other and have fun. Most of all
+ be Respectful and Honest.
 
-Discord - https://discord.gg/b8VCJrC
+Discord - https://discord.gg/b8VCJrC}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (787)|
+| ELO Regular | 1184 🔻  (788)|
 | ELO Competitive | 1184 🔻  (938)|
 | Total Matches | 1 |
 | Wins | 0 |

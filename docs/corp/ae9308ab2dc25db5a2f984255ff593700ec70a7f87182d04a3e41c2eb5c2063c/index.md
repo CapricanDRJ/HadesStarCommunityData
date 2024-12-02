@@ -13,13 +13,14 @@ date: 1720002495
 
 
 ```
- (广告招租位)                                                                      阿弥陀佛，老天保佑!坠机啦
+(广告招租位)                                                              
+        阿弥陀佛，老天保佑!坠机啦}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (893)|
+| ELO Regular | 1173 🔻  (894)|
 | ELO Competitive | 1180 🔻  (972)|
 | Total Matches | 3 |
 | Wins | 1 |

@@ -13,15 +13,17 @@ date: 1703791867
 
 
 ```
- An <size=100>English</size> speaking, independent, <size=200><color=white><b>White-Star</b></color></size> corp with very <size=100><i>weird standards</i></size>.
+An <size=100>English</size> speaking, independent, <size=200><color=w
+hite><b>White-Star</b></color></size> corp with very <size=100><i>wei
+rd standards</i></size>.
 
-https://discord.gg/7KGYvMbPgK
+https://discord.gg/7KGYvMbPgK}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (784)|
+| ELO Regular | 1184 🔻  (785)|
 | ELO Competitive | 1184 🔻  (935)|
 | Total Matches | 1 |
 | Wins | 0 |

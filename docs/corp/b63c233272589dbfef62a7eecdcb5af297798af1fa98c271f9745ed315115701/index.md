@@ -13,7 +13,7 @@ date: 1703217349
 
 
 ```
- Inactive
+Inactive}
 ```
 ### Whitestar Bonus ❌
 

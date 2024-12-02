@@ -13,9 +13,10 @@ date: 1718581733
 
 
 ```
- confederazione rivolta a player attivi disposti a collaborare. I player inattivi verranno espulsi.
+confederazione rivolta a player attivi disposti a collaborare. I play
+er inattivi verranno espulsi.
 3g+ inattività o nessuna stella rossa svolta=kick
-miglior piazzamento in classifica: 69esimi
+miglior piazzamento in classifica: 69esimi}
 ```
 ### Whitestar Bonus ❌
 

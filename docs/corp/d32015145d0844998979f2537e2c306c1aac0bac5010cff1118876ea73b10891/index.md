@@ -13,13 +13,13 @@ date: 1721863369
 
 
 ```
- Active Players Only. Don't join if your not going to play. 
+Active Players Only. Don't join if your not going to play. 
 
 REQUIREMENTS:
 English
 Discord  is mandatory (s22bSE6EyU)
 Max 7 days of inactivity.
-HS Compendium required to join WS's
+HS Compendium required to join WS's}
 ```
 ### [Discord](https://discord.gg/s22bSE6EyU)
 ### Whitestar Bonus ❌
@@ -27,7 +27,7 @@ HS Compendium required to join WS's
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1226 🔺  (329)|
-| ELO Competitive | 1231 🔺  (435)|
+| ELO Competitive | 1231 🔺  (436)|
 | Total Matches | 2 |
 | Wins | 2 |
 | Losses | 0 |

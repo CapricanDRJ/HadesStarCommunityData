@@ -13,15 +13,15 @@ date: 1708050438
 
 
 ```
- Uma corporação focada no crescimento dos iniciantes
+Uma corporação focada no crescimento dos iniciantes
 Estamos recrutando membros ativos.
-Inatividade é punível com expulsão.
+Inatividade é punível com expulsão.}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔻  (819)|
+| ELO Regular | 1182 🔻  (820)|
 | ELO Competitive | 1183 🔻  (955)|
 | Total Matches | 3 |
 | Wins | 0 |

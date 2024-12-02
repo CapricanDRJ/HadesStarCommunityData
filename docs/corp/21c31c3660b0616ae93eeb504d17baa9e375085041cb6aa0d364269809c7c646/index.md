@@ -13,7 +13,7 @@ date: 1701385831
 
 
 ```
- Fun Enthusiastic Team
+Fun Enthusiastic Team
 RS4-11
 Corp Rate Art Trading
 Support from HS Game Vets
@@ -23,13 +23,13 @@ Weekly WS
 2022 WS Stats: 91.6% Win Rate
 
 Discord is mandatory:
-https://discord.gg/sYAuq5vAD4
+https://discord.gg/sYAuq5vAD4}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺  (385)|
+| ELO Regular | 1216 🔺  (384)|
 | ELO Competitive | 1216 🔺  (517)|
 | Total Matches | 1 |
 | Wins | 1 |

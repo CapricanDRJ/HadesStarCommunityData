@@ -13,8 +13,9 @@ date: 1703132249
 
 
 ```
- Have fun. Help your fellow player. White Stars. Private Red Stars. Be active.
-Discord: https://discord.gg/
+Have fun. Help your fellow player. White Stars. Private Red Stars. Be
+ active.
+Discord: https://discord.gg/}
 ```
 ### Whitestar Bonus ❌
 

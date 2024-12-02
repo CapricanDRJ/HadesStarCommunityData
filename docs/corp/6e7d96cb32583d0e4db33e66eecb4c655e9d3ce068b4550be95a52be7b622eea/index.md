@@ -13,13 +13,14 @@ date: 1707271529
 
 
 ```
- Entspannter Konzern, um zusammen Spass zu haben und einander zu helfen.
+Entspannter Konzern, um zusammen Spass zu haben und einander zu helfe
+n.
 
 Chatsprache vorzugsweise Deutsch.
 
 Für Planung und Kommunikation außerhalb des Spiels
 
-https://discord.gg/CFhYyYave
+https://discord.gg/CFhYyYave}
 ```
 ### [Discord](https://discord.gg/https://discord.gg/nzkvKWGYft)
 ### Whitestar Bonus ❌

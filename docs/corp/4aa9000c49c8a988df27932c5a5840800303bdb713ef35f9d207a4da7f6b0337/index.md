@@ -13,16 +13,17 @@ date: 1730938986
 
 
 ```
- Discord: cRMhmXfctC
+Discord: cRMhmXfctC
 https://discord.gg/cRMhmXfctC
-Destroy or be destroyed. This is a place where only the strong survive
-White star every 2 weeks
+Destroy or be destroyed. This is a place where only the strong surviv
+e
+White star every 2 weeks}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (959)|
+| ELO Regular | 1169 🔻  (960)|
 | ELO Competitive | 1170 🔻  (1092)|
 | Total Matches | 4 |
 | Wins | 1 |

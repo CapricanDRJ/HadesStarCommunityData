@@ -13,14 +13,15 @@ date: 1728400193
 
 
 ```
- Foundation of the pixelated expanse. Friendly, open to all, starting anew with the old Tiesa crew!
+Foundation of the pixelated expanse. Friendly, open to all, starting 
+anew with the old Tiesa crew!}
 ```
 ### [Discord](https://discord.gg/wuKuPvr)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (790)|
+| ELO Regular | 1184 🔻  (791)|
 | ELO Competitive | 1184 🔻  (932)|
 | Total Matches | 1 |
 | Wins | 0 |

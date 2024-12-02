@@ -13,7 +13,8 @@ date: 1726474082
 
 
 ```
- Looking for active player. Have fun with RS, WS, BS in any playstyle you want.
+Looking for active player. Have fun with RS, WS, BS in any playstyle 
+you want.}
 ```
 ### Whitestar Bonus ❌
 

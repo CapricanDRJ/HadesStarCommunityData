@@ -13,7 +13,9 @@ date: 1732947514
 
 
 ```
- <size=100><color=#F35></color></size><size=60><color=#fff>欢迎来到柯伊伯带<br>打完红记得退，超时会被移除<br>QQ频道内有攻略和组队bot<br>国人红星活动队列<br>进团先加群<br>QQ群：755711910</color>
+<size=100><color=#F35></color></size><size=60><color=#fff>欢迎来到柯伊伯带<br
+>打完红记得退，超时会被移除<br>QQ频道内有攻略和组队bot<br>国人红星活动队列<br>进团先加群<br>QQ群：75571191
+0</color>}
 ```
 ### [Discord](https://discord.gg/xa5t5sD3Hx)
 ### Whitestar Bonus ❌

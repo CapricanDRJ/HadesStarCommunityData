@@ -13,14 +13,15 @@ date: 1703087815
 
 
 ```
- International corporation with some story behind, learning "Dark Nebula", while trying to stay alive.
+International corporation with some story behind, learning "Dark Nebu
+la", while trying to stay alive.}
 ```
 ### [Discord](https://discord.gg/vgrCTD337x)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (912)|
+| ELO Regular | 1172 🔻  (913)|
 | ELO Competitive | 1175 🔻  (1023)|
 | Total Matches | 4 |
 | Wins | 1 |

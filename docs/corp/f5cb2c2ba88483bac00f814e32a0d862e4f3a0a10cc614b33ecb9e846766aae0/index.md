@@ -13,7 +13,7 @@ date: 1703271448
 
 
 ```
- Laid back corp for people with day jobs. Resistence is futile.
+Laid back corp for people with day jobs. Resistence is futile.}
 ```
 ### Whitestar Bonus ❌
 

@@ -13,7 +13,9 @@ date: 1716108934
 
 
 ```
- If you’re looking for the best, you’ve come to the WRONG place. This eccentric group of comrades runs on dro, whisky, and a blatant disregard for safety.
+If you’re looking for the best, you’ve come to the WRONG place. This 
+eccentric group of comrades runs on dro, whisky, and a blatant disreg
+ard for safety.}
 ```
 ### [Discord](https://discord.gg/bUTEsDp)
 ### Whitestar Bonus ❌
@@ -21,7 +23,7 @@ date: 1716108934
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1219 🔻  (354)|
-| ELO Competitive | 1225 🔻  (461)|
+| ELO Competitive | 1225 🔻  (462)|
 | Total Matches | 4 |
 | Wins | 2 |
 | Losses | 2 |

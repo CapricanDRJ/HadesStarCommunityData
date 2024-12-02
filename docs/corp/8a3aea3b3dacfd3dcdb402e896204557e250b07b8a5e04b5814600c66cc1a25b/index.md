@@ -13,9 +13,11 @@ date: 1731994401
 
 
 ```
- Renowned Interstellar Killers... We Are Life-Takers & Heartbreakers... We’ll Shoot You Full Of Holes & Fill You Full Of Lead... <b>FOR SPARTA...</b> 
+Renowned Interstellar Killers... We Are Life-Takers & Heartbreakers..
+. We’ll Shoot You Full Of Holes & Fill You Full Of Lead... <b>FOR SPA
+RTA...</b> 
 
---------- We are Active in Dark Nebula ---------
+--------- We are Active in Dark Nebula ---------}
 ```
 ### [Discord](https://discord.gg/YHtMuQK)
 ### Whitestar Bonus ❌

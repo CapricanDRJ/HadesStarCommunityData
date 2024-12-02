@@ -13,15 +13,17 @@ date: 1704366457
 
 
 ```
- Españoles. Veteranos y novatos.                   Discord obligatorio. Miembros activos.        Estrellas blancas: sábados -> jueves.          Estrellas rojas: sábados. Donación: 100k-sábados. Premios
+Españoles. Veteranos y novatos.                   Discord obligatorio
+. Miembros activos.        Estrellas blancas: sábados -> jueves.     
+     Estrellas rojas: sábados. Donación: 100k-sábados. Premios}
 ```
 ### [Discord](https://discord.gg/JAaHNV9AjU)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔺  (775)|
-| ELO Competitive | 1232 🔺  (434)|
+| ELO Regular | 1184 🔺  (776)|
+| ELO Competitive | 1232 🔺  (435)|
 | Total Matches | 9 |
 | Wins | 3 |
 | Losses | 4 |

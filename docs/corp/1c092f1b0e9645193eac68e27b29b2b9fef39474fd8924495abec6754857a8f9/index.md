@@ -13,10 +13,11 @@ date: 1729863503
 
 
 ```
- 
+
 Idioma español
 Discord: https://discord.gg/szv4DVuHA5
-Para pertenecer a la corporacion hay que participar y colaborar en alguna actividad con los demas compañeros 
+Para pertenecer a la corporacion hay que participar y colaborar en al
+guna actividad con los demas compañeros }
 ```
 ### [Discord](https://discord.gg/szv4DVuHA5)
 ### Whitestar Bonus ❌

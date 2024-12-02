@@ -13,7 +13,7 @@ date: 1732524115
 
 
 ```
-         ☆☆Support New Players☆☆
+        ☆☆Support New Players☆☆
 
 Recruiting
 Weekly White Stars.
@@ -26,7 +26,7 @@ Discord required for WS.
 
 
 
-148
+148}
 ```
 ### [Discord](https://discord.gg/uhka53GbmX)
 ### Whitestar Bonus ❌

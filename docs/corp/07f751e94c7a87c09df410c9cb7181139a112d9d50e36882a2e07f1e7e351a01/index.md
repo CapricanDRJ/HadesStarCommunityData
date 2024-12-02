@@ -13,14 +13,16 @@ date: 1708191071
 
 
 ```
- A branch of <size=346><color=#5F634F>U.I.H.</color></size><color=#edb88b>
-⁍ Discord mandatory: </color><color=#bf4342>discord.com/invite/bmWhhphKUH</color>
+A branch of <size=346><color=#5F634F>U.I.H.</color></size><color=#edb
+88b>
+⁍ Discord mandatory: </color><color=#bf4342>discord.com/invite/bmWhhp
+hKUH</color>}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺  (381)|
+| ELO Regular | 1216 🔺  (380)|
 | ELO Competitive | 1216 🔺  (514)|
 | Total Matches | 1 |
 | Wins | 1 |

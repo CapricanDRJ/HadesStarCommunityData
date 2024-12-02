@@ -13,13 +13,13 @@ date: 1732831222
 
 
 ```
- THE CYDONIAN EMPIRE™
+THE CYDONIAN EMPIRE™}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (829)|
+| ELO Regular | 1181 🔻  (830)|
 | ELO Competitive | 1211 🔻  (565)|
 | Total Matches | 25 |
 | Wins | 10 |

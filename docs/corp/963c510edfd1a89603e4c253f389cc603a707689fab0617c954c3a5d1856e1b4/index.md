@@ -13,15 +13,15 @@ date: 1723558871
 
 
 ```
- Ведем набор игроков.
+Ведем набор игроков.
 Помощь новичкам артефактами, кз.
-https://t.me/klrlo
+https://t.me/klrlo}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (957)|
+| ELO Regular | 1169 🔻  (958)|
 | ELO Competitive | 1190 🔻  (735)|
 | Total Matches | 3 |
 | Wins | 0 |

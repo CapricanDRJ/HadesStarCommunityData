@@ -13,12 +13,12 @@ date: 1700112312
 
 
 ```
- <color=#F44><b><size=75px>全称：星海命运共同体联盟
+<color=#F44><b><size=75px>全称：星海命运共同体联盟
 伟大的共产主义万岁！</size>
 <size=40px>Full name: Xinghai Destiny Community Alliance
 Long live the great communism! 
 Q群:669494799
-部分人员即将转移至其他集团，详情请见Q群</size></b></color>
+部分人员即将转移至其他集团，详情请见Q群</size></b></color>}
 ```
 ### Whitestar Bonus ❌
 

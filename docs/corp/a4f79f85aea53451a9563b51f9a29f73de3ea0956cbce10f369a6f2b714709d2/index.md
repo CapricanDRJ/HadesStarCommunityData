@@ -13,14 +13,14 @@ date: 1725764921
 
 
 ```
- G.O.D公会0v0的小号盟,可搜G.0.D去大盟
-群号763870092
+G.O.D公会0v0的小号盟,可搜G.0.D去大盟
+群号763870092}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (786)|
+| ELO Regular | 1184 🔻  (787)|
 | ELO Competitive | 1184 🔻  (936)|
 | Total Matches | 1 |
 | Wins | 0 |

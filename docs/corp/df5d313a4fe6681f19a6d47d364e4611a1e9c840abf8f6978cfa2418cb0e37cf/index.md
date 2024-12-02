@@ -13,14 +13,15 @@ date: 1705705257
 
 
 ```
- The lowest inactive member will be kicked out of corporation when a new member is joined.
+The lowest inactive member will be kicked out of corporation when a n
+ew member is joined.}
 ```
 ### [Discord](https://discord.gg/WpMYj74cJp)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (859)|
+| ELO Regular | 1176 🔻  (860)|
 | ELO Competitive | 1176 🔻  (1007)|
 | Total Matches | 6 |
 | Wins | 2 |

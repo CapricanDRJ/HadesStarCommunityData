@@ -13,13 +13,13 @@ date: 1728114704
 
 
 ```
- 企鹅帝国欢迎您的到来！首席：Emperorpenguin     盟团：斯比纳兰
+企鹅帝国欢迎您的到来！首席：Emperorpenguin     盟团：斯比纳兰}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔺  (896)|
+| ELO Regular | 1173 🔺  (897)|
 | ELO Competitive | 1178 🔺  (988)|
 | Total Matches | 6 |
 | Wins | 2 |

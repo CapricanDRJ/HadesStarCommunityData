@@ -13,11 +13,11 @@ date: 1732806878
 
 
 ```
- <color="green">Набор через дискорд </color>
+<color="green">Набор через дискорд </color>
 https://discord.gg/E67DY45fPC
 Еженедельное участие в БЗ
 Кз 4-10.
-Дискорд обязателен.
+Дискорд обязателен.}
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/vmPbPHsU)
 ### Whitestar Bonus ✅

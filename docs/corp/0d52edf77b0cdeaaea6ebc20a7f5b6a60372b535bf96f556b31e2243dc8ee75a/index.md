@@ -13,11 +13,12 @@ date: 1732291241
 
 
 ```
- We are an English-speaking community founded on the ideals of democracy and camaraderie. 
+We are an English-speaking community founded on the ideals of democra
+cy and camaraderie. 
 
 Weekly competitive WS; casual WS if numbers allow. 
 
-Discord is required.
+Discord is required.}
 ```
 ### [Discord](https://discord.gg/c9wtCDusgE)
 ### Whitestar Bonus ❌

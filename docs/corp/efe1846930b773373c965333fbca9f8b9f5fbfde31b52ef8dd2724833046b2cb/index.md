@@ -13,13 +13,15 @@ date: 1729806110
 
 
 ```
- se reclutan eb casi diaria requisitos pertenecer a los aliados   hablar español,ingles y portugues Allies: alfa y omega ghostnakcoorp imperio galacti imp estelar 
+se reclutan eb casi diaria requisitos pertenecer a los aliados   habl
+ar español,ingles y portugues Allies: alfa y omega ghostnakcoorp impe
+rio galacti imp estelar }
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (773)|
+| ELO Regular | 1184 🔻  (774)|
 | ELO Competitive | 1185 🔻  (916)|
 | Total Matches | 1 |
 | Wins | 0 |

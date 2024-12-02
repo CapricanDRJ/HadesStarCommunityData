@@ -13,16 +13,17 @@ date: 1700545194
 
 
 ```
- Just for fun.
-To participate in white star missions we ask that you download discord and join our server:
+Just for fun.
+To participate in white star missions we ask that you download discor
+d and join our server:
 
-https://discord.gg/gXvbHJm
+https://discord.gg/gXvbHJm}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (774)|
+| ELO Regular | 1184 🔻  (775)|
 | ELO Competitive | 1186 🔻  (821)|
 | Total Matches | 1 |
 | Wins | 0 |

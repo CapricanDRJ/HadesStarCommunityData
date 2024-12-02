@@ -13,19 +13,19 @@ date: 1732969147
 
 
 ```
- Organisation, entraide et bonne humeur !
+Organisation, entraide et bonne humeur !
 RS 6 à 10
 Guerres WS chaque semaine.Events classés !
 Corpo mère : On en a Gros !
 Corpo école : Polaris Corpo
-Corpo des alts : On en a petit !
+Corpo des alts : On en a petit !}
 ```
 ### [Discord](https://discord.gg/EXj5vtr)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (827)|
+| ELO Regular | 1181 🔻  (828)|
 | ELO Competitive | 1308 🔻  (247)|
 | Total Matches | 62 |
 | Wins | 28 |

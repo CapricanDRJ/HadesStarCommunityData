@@ -13,9 +13,10 @@ date: 1699435232
 
 
 ```
- <size=45><b><i>В спячке</b></color></b></color></color></b></i></color></size>
+<size=45><b><i>В спячке</b></color></b></color></color></b></i></colo
+r></size>
 
-Discord: bMXfmD9sKE   Телега: @whiskas_tyan
+Discord: bMXfmD9sKE   Телега: @whiskas_tyan}
 ```
 ### Whitestar Bonus ❌
 

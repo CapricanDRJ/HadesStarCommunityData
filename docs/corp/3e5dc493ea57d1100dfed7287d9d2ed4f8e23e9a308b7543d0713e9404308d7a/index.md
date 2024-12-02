@@ -13,12 +13,12 @@ date: 1703095931
 
 
 ```
- A holding corp for alts and travelers
+A holding corp for alts and travelers
 
 White stars occasionally too.
 
 Our more active members can be found in this discord
-Discord: <B>EEpZuWf</B>
+Discord: <B>EEpZuWf</B>}
 ```
 ### Whitestar Bonus ❌
 

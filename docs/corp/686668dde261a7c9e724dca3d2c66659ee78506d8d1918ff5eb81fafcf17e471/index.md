@@ -13,13 +13,14 @@ date: 1699888688
 
 
 ```
- Smurfing, just let us know when you are online, so that the game to be more fun...
+Smurfing, just let us know when you are online, so that the game to b
+e more fun...}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (921)|
+| ELO Regular | 1171 🔻  (922)|
 | ELO Competitive | 1171 🔻  (1071)|
 | Total Matches | 2 |
 | Wins | 0 |

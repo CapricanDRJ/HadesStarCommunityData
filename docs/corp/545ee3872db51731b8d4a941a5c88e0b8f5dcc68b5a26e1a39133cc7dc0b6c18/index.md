@@ -13,13 +13,13 @@ date: 1725618874
 
 
 ```
- 本团为中国星际联盟自治分团，欢迎加入！
+本团为中国星际联盟自治分团，欢迎加入！}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔺  (954)|
+| ELO Regular | 1170 🔺  (955)|
 | ELO Competitive | 1175 🔺  (1014)|
 | Total Matches | 5 |
 | Wins | 1 |

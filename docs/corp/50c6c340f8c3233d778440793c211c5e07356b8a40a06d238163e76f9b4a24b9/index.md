@@ -13,7 +13,8 @@ date: 1725243104
 
 
 ```
- Nova corporação!!! nós pensamos nas melhores formas de desenvolver nossa corporação.
+Nova corporação!!! nós pensamos nas melhores formas de desenvolver no
+ssa corporação.
 
 Ws toda semana
 
@@ -24,13 +25,13 @@ ser ativo
 1 semana inativo é banido
 
 
-
+}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (776)|
+| ELO Regular | 1184 🔻  (777)|
 | ELO Competitive | 1186 🔻  (849)|
 | Total Matches | 3 |
 | Wins | 0 |

@@ -13,17 +13,18 @@ date: 1700417643
 
 
 ```
- Corporation française/english ouverte à tous ! 
-Nouvelle corporation, motivée pour des étoiles blanches. Motivate to white stars
+Corporation française/english ouverte à tous ! 
+Nouvelle corporation, motivée pour des étoiles blanches. Motivate to 
+white stars
 Discord : https://discord.gg/VevrVjTpPG
 Rejoignez-nous !!!
-Join us !!!
+Join us !!!}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (935)|
+| ELO Regular | 1171 🔻  (936)|
 | ELO Competitive | 1171 🔻  (1081)|
 | Total Matches | 2 |
 | Wins | 0 |

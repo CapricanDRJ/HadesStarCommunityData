@@ -13,9 +13,9 @@ date: 1701861287
 
 
 ```
- <color=#00FF33>
+<color=#00FF33>
 <color=red>...</color>
-Discord.gg/<b>WAXSmUb</b></color>
+Discord.gg/<b>WAXSmUb</b></color>}
 ```
 ### Whitestar Bonus ❌
 

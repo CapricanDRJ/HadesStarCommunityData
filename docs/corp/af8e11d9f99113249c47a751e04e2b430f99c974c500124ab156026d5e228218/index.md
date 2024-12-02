@@ -13,13 +13,14 @@ date: 1725589130
 
 
 ```
- Open to all, come join and learn or just enjoy playing, no discord necessary
+Open to all, come join and learn or just enjoy playing, no discord ne
+cessary}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (780)|
+| ELO Regular | 1184 🔻  (781)|
 | ELO Competitive | 1193 🔻  (689)|
 | Total Matches | 1 |
 | Wins | 0 |

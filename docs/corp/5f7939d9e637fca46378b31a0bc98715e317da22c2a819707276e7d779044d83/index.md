@@ -13,14 +13,16 @@ date: 1707860684
 
 
 ```
- <color=#00a6ca><size=120>WARRIORS</size><br><color=#01a6ca>Open to everyone<br>Get a deplomacy station to get help<br><color=#00a6ca><size=100>Come one come all</size>
+<color=#00a6ca><size=120>WARRIORS</size><br><color=#01a6ca>Open to ev
+eryone<br>Get a deplomacy station to get help<br><color=#00a6ca><size
+=100>Come one come all</size>}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1228 🔺  (322)|
-| ELO Competitive | 1228 🔺  (451)|
+| ELO Competitive | 1228 🔺  (452)|
 | Total Matches | 4 |
 | Wins | 3 |
 | Losses | 1 |

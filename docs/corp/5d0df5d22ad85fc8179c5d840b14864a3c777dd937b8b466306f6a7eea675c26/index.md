@@ -13,7 +13,7 @@ date: 1719634683
 
 
 ```
- All for one and one for all
+All for one and one for all}
 ```
 ### Whitestar Bonus ❌
 

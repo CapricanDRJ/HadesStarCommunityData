@@ -13,13 +13,13 @@ date: 1727557898
 
 
 ```
- Українці тут.
+Українці тут.}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔻  (946)|
+| ELO Regular | 1170 🔻  (947)|
 | ELO Competitive | 1170 🔻  (1087)|
 | Total Matches | 2 |
 | Wins | 0 |

@@ -13,7 +13,7 @@ date: 1699370027
 
 
 ```
- <b><color=#FFDD88><size=90> Versailles Federation</size></color>
+<b><color=#FFDD88><size=90> Versailles Federation</size></color>
 
 <color=#FFE9B7><size=75> Burn it to the ashes</size>
     -hosted by ShadowSun
@@ -22,7 +22,7 @@ date: 1699370027
 
  WS: Thursdays
 
- Discord:pxSK3vbe</color></b>
+ Discord:pxSK3vbe</color></b>}
 ```
 ### Whitestar Bonus ❌
 

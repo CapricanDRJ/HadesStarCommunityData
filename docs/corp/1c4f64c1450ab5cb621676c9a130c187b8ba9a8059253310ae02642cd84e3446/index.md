@@ -13,7 +13,7 @@ date: 1707514645
 
 
 ```
- We do White stars every 5 to 8 days
+We do White stars every 5 to 8 days}
 ```
 ### Whitestar Bonus ❌
 

@@ -13,14 +13,15 @@ date: 1721995289
 
 
 ```
- Kolejna korporacja Duchów Arrakis. zapraszamy również do naszej społeczności na Discord
+Kolejna korporacja Duchów Arrakis. zapraszamy również do naszej społe
+czności na Discord}
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/WwfpRzZ6)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1203 🔻  (477)|
+| ELO Regular | 1203 🔻  (476)|
 | ELO Competitive | 1204 🔻  (587)|
 | Total Matches | 2 |
 | Wins | 1 |

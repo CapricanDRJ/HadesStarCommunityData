@@ -13,7 +13,9 @@ date: 1733134410
 
 
 ```
- Todos são bem-vindos!! Livres para iniciar Estrelas Brancas. Maior participação dentro da corporação é primordial para promoções! Ajude-nos a crescer!!! 14 dias de inatividade, expulsão para vagas.
+Todos são bem-vindos!! Livres para iniciar Estrelas Brancas. Maior pa
+rticipação dentro da corporação é primordial para promoções! Ajude-no
+s a crescer!!! 14 dias de inatividade, expulsão para vagas.}
 ```
 ### Whitestar Bonus ✅
 

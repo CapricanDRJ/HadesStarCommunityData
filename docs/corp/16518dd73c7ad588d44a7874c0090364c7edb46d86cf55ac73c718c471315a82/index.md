@@ -13,14 +13,14 @@ date: 1711139125
 
 
 ```
- Wir suchen nach aktiven Spielern für tolle RS- und WZ-Runden.
+Wir suchen nach aktiven Spielern für tolle RS- und WZ-Runden.}
 ```
 ### [Discord](https://discord.gg/SrcGUY7)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (875)|
+| ELO Regular | 1174 🔻  (876)|
 | ELO Competitive | 1177 🔻  (996)|
 | Total Matches | 6 |
 | Wins | 2 |

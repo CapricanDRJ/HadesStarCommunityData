@@ -13,18 +13,18 @@ date: 1712955503
 
 
 ```
- KHØS
+KHØS
 PrG
 QnK
 CLM
 SpN
-EUR
+EUR}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔻  (970)|
+| ELO Regular | 1168 🔻  (971)|
 | ELO Competitive | 1168 🔻  (1098)|
 | Total Matches | 2 |
 | Wins | 0 |

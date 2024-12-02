@@ -13,11 +13,12 @@ date: 1729602647
 
 
 ```
- <color=white>我们是<size=67><b>白月光</b></size>集团旗下的第二分盟</color>
-<color=orange><i>“Where do we come from and where do we go from?”</i></color>
+<color=white>我们是<size=67><b>白月光</b></size>集团旗下的第二分盟</color>
+<color=orange><i>“Where do we come from and where do we go from?”</i>
+</color>
 
 
-q群：741078259
+q群：741078259}
 ```
 ### Whitestar Bonus ❌
 

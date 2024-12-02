@@ -13,14 +13,14 @@ date: 1726772074
 
 
 ```
- в удовольствие!
-трупы убиты и похоронены)
+в удовольствие!
+трупы убиты и похоронены)}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (798)|
+| ELO Regular | 1183 🔻  (799)|
 | ELO Competitive | 1183 🔻  (947)|
 | Total Matches | 2 |
 | Wins | 0 |

@@ -13,13 +13,14 @@ date: 1722286796
 
 
 ```
- FAIR - Farm All In Range.  We are primarily a White Star corp. all corp mambers are expected to do at least one white star a month.
+FAIR - Farm All In Range.  We are primarily a White Star corp. all co
+rp mambers are expected to do at least one white star a month.}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1179 🔻  (840)|
+| ELO Regular | 1179 🔻  (841)|
 | ELO Competitive | 1184 🔻  (942)|
 | Total Matches | 3 |
 | Wins | 0 |

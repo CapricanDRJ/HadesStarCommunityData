@@ -13,12 +13,12 @@ date: 1730303722
 
 
 ```
- <b><size=80><color=#3ffecb>Tartaros Armada</color></size></b>
+<b><size=80><color=#3ffecb>Tartaros Armada</color></size></b>
 - Täglich <b>bis RR10</b>
 - Regelmäßig <b>WZ 10vs10</b>
 
 Kommunikation über <b>Discord</b>:
-<color=#3ffecb>Code: SUVSGGYGz2</color>
+<color=#3ffecb>Code: SUVSGGYGz2</color>}
 ```
 ### Whitestar Bonus ❌
 

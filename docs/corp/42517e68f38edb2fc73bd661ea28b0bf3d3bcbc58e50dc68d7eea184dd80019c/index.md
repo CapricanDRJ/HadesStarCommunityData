@@ -13,15 +13,17 @@ date: 1708890039
 
 
 ```
- <b>Star Raiders</b> is a Corporation helping players develop and enjoy the game. Casual players are welcome. We are running weekly White Stars. 
+<b>Star Raiders</b> is a Corporation helping players develop and enjo
+y the game. Casual players are welcome. We are running weekly White S
+tars. 
 
-discord.gg/Rup2ee8DxR
+discord.gg/Rup2ee8DxR}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1179 🔻  (839)|
+| ELO Regular | 1179 🔻  (840)|
 | ELO Competitive | 1179 🔻  (981)|
 | Total Matches | 2 |
 | Wins | 0 |

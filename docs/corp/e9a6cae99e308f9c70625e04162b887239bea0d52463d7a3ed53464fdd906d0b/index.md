@@ -13,7 +13,8 @@ date: 1716358005
 
 
 ```
- Competitive white star corp, back to back WS, daily RS, artifact exchange, <color=red>WS no peace only war :) </color>Recruiting now
+Competitive white star corp, back to back WS, daily RS, artifact exch
+ange, <color=red>WS no peace only war :) </color>Recruiting now}
 ```
 ### [Discord](https://discord.gg/6m7h2rY)
 ### Whitestar Bonus ❌

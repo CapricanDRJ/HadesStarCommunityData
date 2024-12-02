@@ -13,7 +13,9 @@ date: 1727929599
 
 
 ```
- BIENVENIDOS a esta humilde corporación, ayudaremos en lo que neseciten a nuevos miembros de er2-er7 estrella roja=ER estrella azul=EA estrella blanca=EB EB cuando se nos salga de los huevos 
+BIENVENIDOS a esta humilde corporación, ayudaremos en lo que nesecite
+n a nuevos miembros de er2-er7 estrella roja=ER estrella azul=EA estr
+ella blanca=EB EB cuando se nos salga de los huevos }
 ```
 ### [Discord](https://discord.gg/invite/MwEdMAZu)
 ### Whitestar Bonus ❌

@@ -13,12 +13,13 @@ date: 1710590459
 
 
 ```
- Escriban a cualquiera de los dos número para entrar al grupo de whatsapp. Es de carácter obligatorio...
+Escriban a cualquiera de los dos número para entrar al grupo de whats
+app. Es de carácter obligatorio...
 +573107233868 (1)
 +584247543714 [2]
 
 Alianza de Corporaciones
-AXOLOTLS
+AXOLOTLS}
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/PsVdr8kd)
 ### Whitestar Bonus ❌

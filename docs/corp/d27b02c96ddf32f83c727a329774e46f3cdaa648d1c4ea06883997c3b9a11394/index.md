@@ -13,14 +13,15 @@ date: 1703858281
 
 
 ```
- Добро пожаловать в <color=white>КВАЗАР</color>! корпорация,затмевающая своим светом все грани тёмной материи || белые звёзда по пятницам
+Добро пожаловать в <color=white>КВАЗАР</color>! корпорация,затмевающа
+я своим светом все грани тёмной материи || белые звёзда по пятницам}
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/cQeTUP2e4b)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1178 🔺  (843)|
+| ELO Regular | 1178 🔺  (844)|
 | ELO Competitive | 1179 🔺  (980)|
 | Total Matches | 4 |
 | Wins | 1 |

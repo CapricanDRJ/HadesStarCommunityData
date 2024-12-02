@@ -13,7 +13,7 @@ date: 1718984071
 
 
 ```
- guarida del titan tv 
+guarida del titan tv }
 ```
 ### Whitestar Bonus ❌
 

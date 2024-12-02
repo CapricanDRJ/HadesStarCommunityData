@@ -13,7 +13,7 @@ date: 1723740983
 
 
 ```
- <color=red>欢迎炸钱的大哥来集团捐钱</color>一槽白星席位稳定Make Apocalypse Great Again!!!
+<color=red>欢迎炸钱的大哥来集团捐钱</color>一槽白星席位稳定Make Apocalypse Great Again!!!}
 ```
 ### Whitestar Bonus ❌
 

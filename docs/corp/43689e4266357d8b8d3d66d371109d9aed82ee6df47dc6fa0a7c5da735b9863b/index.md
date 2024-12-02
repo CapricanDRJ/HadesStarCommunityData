@@ -13,7 +13,7 @@ date: 1732445087
 
 
 ```
- Casual and at times Serious WS Corp 
+Casual and at times Serious WS Corp 
 Member of the
 <b>OntarioDynasty</b> Family.
 RS 11 to RS 8
@@ -23,7 +23,7 @@ Join our discord <b>first</b> if you want to join our corp.
 
 https://discord.gg/gBFFE5x
 
-od-family.com
+od-family.com}
 ```
 ### [Discord](https://discord.gg/gBFFE5x)
 ### Whitestar Bonus ❌

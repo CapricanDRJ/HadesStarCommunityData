@@ -13,13 +13,14 @@ date: 1733019633
 
 
 ```
- <b><color=white>The Premier White Star Capital of Hades Star.</color></b>
+<b><color=white>The Premier White Star Capital of Hades Star.</color>
+</b>
 
 <color=green>Competitive WS.</color> 
 
 All FS Donations welcome.
 
-<b><color=red>Must join Discord to remain here.
+<b><color=red>Must join Discord to remain here.}
 ```
 ### [Discord](https://discord.gg/skvJzZH)
 ### Whitestar Bonus ✅

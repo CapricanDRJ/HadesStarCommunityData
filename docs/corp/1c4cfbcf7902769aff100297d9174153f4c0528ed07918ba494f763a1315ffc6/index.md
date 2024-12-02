@@ -13,9 +13,10 @@ date: 1732856159
 
 
 ```
- <color="yellow">Looking for NO DISCORD WS leader.  <color="white">No discord required in this corp.  
+<color="yellow">Looking for NO DISCORD WS leader.  <color="white">No 
+discord required in this corp.  
 Discord users join:
-Red_Coat_Mafia 
+Red_Coat_Mafia }
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/MgcvvsKa8q)
 ### Whitestar Bonus ❌

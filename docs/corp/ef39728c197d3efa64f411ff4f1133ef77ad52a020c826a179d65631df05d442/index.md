@@ -13,12 +13,13 @@ date: 1709412292
 
 
 ```
- <color=#823dcf><size=100></size></color>The "Used-to-be-Active" White Star Clan...
+<color=#823dcf><size=100></size></color>The "Used-to-be-Active" White
+ Star Clan...
 
 <color=#d6b800><size=60>⚠DISCORD⚠️</size></color>
 <color=#ffffff><size=60>https://discord.gg/SWAeyd</size></color>
 
-
+}
 ```
 ### [Discord](https://discord.gg/https://discord.gg/SWAeydhRy2)
 ### Whitestar Bonus ❌

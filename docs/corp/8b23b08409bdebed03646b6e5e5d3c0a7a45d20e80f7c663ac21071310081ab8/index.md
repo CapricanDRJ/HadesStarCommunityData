@@ -13,7 +13,7 @@ date: 1715217779
 
 
 ```
- ALIANÇA: LUSO (BR/PT) 🚀
+ALIANÇA: LUSO (BR/PT) 🚀
 
 33° Evento de RS - 2022.
 
@@ -26,13 +26,13 @@ date: 1715217779
 - Helion Prime
 - Br Project
 - Projeto NU
-</color>
+</color>}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (831)|
+| ELO Regular | 1181 🔻  (832)|
 | ELO Competitive | 1193 🔻  (691)|
 | Total Matches | 2 |
 | Wins | 0 |

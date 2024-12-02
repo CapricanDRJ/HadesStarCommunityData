@@ -13,13 +13,13 @@ date: 1705726588
 
 
 ```
- organizaçoes dos estados brasileiros / presidente : O.E.B.
+organizaçoes dos estados brasileiros / presidente : O.E.B.}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (910)|
+| ELO Regular | 1172 🔻  (911)|
 | ELO Competitive | 1172 🔻  (1059)|
 | Total Matches | 2 |
 | Wins | 0 |

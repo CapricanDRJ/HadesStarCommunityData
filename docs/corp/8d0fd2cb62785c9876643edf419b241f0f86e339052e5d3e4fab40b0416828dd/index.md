@@ -13,13 +13,14 @@ date: 1731959190
 
 
 ```
- We are frequent in white stars, helping beginners, and pretty calm corporation.
+We are frequent in white stars, helping beginners, and pretty calm co
+rporation.}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1207 🔺  (453)|
+| ELO Regular | 1207 🔺  (452)|
 | ELO Competitive | 1213 🔺  (549)|
 | Total Matches | 8 |
 | Wins | 4 |

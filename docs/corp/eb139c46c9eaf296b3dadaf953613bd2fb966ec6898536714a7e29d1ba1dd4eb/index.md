@@ -13,8 +13,8 @@ date: 1702547267
 
 
 ```
- Телеграм: @prorabMax 
-
+Телеграм: @prorabMax 
+}
 ```
 ### Whitestar Bonus ❌
 

@@ -13,7 +13,7 @@ date: 1731935746
 
 
 ```
- Ruling the universe is our simple goal.
+Ruling the universe is our simple goal.}
 ```
 ### Whitestar Bonus ❌
 

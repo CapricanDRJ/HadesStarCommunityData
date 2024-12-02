@@ -13,9 +13,9 @@ date: 1727192499
 
 
 ```
- Science Division.. we are here to help.
+Science Division.. we are here to help.
 
-https://discord.gg/EdNWKeN
+https://discord.gg/EdNWKeN}
 ```
 ### Whitestar Bonus ❌
 

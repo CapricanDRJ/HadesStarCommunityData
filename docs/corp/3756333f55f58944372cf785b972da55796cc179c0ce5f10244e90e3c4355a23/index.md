@@ -13,14 +13,14 @@ date: 1729463812
 
 
 ```
- We are here to play white stars. No bs afk players needed!!!
+We are here to play white stars. No bs afk players needed!!!}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1197 🔻  (522)|
-| ELO Competitive | 1229 🔻  (447)|
+| ELO Competitive | 1229 🔻  (448)|
 | Total Matches | 34 |
 | Wins | 16 |
 | Losses | 18 |

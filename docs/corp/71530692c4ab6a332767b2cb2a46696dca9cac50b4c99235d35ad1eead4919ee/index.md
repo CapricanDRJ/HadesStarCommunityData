@@ -13,15 +13,16 @@ date: 1706193880
 
 
 ```
- Taking active players of all levels. We prioritize team work and help players advance quickly. Three day inactivity tolerance
+Taking active players of all levels. We prioritize team work and help
+ players advance quickly. Three day inactivity tolerance
 
-Prioritizing White Stars. Discord: https://discord.gg/wZeNus6JEf
+Prioritizing White Stars. Discord: https://discord.gg/wZeNus6JEf}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (962)|
+| ELO Regular | 1169 🔻  (963)|
 | ELO Competitive | 1175 🔻  (1022)|
 | Total Matches | 2 |
 | Wins | 0 |

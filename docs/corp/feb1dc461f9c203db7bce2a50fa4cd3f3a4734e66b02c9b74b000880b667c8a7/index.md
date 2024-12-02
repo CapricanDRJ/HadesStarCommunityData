@@ -13,7 +13,9 @@ date: 1699229398
 
 
 ```
- Welcome to Poison Nebula, we are looking for active players. Low stress,14 day grace. We want to be more active again and have a good time.  
+Welcome to Poison Nebula, we are looking for active players. Low stre
+ss,14 day grace. We want to be more active again and have a good time
+.  }
 ```
 ### Whitestar Bonus ❌
 

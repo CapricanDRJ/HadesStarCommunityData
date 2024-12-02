@@ -13,7 +13,8 @@ date: 1723679677
 
 
 ```
- Your typical corp - retired leader (Francus) (Discord - franhug): new leader (Delacrowa)
+Your typical corp - retired leader (Francus) (Discord - franhug): new
+ leader (Delacrowa)}
 ```
 ### Whitestar Bonus ❌
 

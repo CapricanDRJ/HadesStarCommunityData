@@ -13,14 +13,15 @@ date: 1714273340
 
 
 ```
- The Academy to Sith Empire | Join us on Discord | Recruiting Active Players For White Star | All Red Star Levels Welcome Here | € -> FS1
+The Academy to Sith Empire | Join us on Discord | Recruiting Active P
+layers For White Star | All Red Star Levels Welcome Here | € -> FS1}
 ```
 ### [Discord](https://discord.gg/R6sJCw2)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (888)|
+| ELO Regular | 1173 🔻  (889)|
 | ELO Competitive | 1180 🔻  (976)|
 | Total Matches | 2 |
 | Wins | 0 |

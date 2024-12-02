@@ -13,13 +13,14 @@ date: 1703905762
 
 
 ```
- Please only English speaking.We play red stars and white stars.Inactivity leads to being kicked out.We play without discord.Have fun!
+Please only English speaking.We play red stars and white stars.Inacti
+vity leads to being kicked out.We play without discord.Have fun!}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔻  (972)|
+| ELO Regular | 1168 🔻  (973)|
 | ELO Competitive | 1183 🔻  (943)|
 | Total Matches | 5 |
 | Wins | 1 |

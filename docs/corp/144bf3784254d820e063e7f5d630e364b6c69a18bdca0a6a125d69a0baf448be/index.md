@@ -13,14 +13,15 @@ date: 1721093092
 
 
 ```
- Dedicated to helping new and lower level players learn all aspects the game and grow. Discord server linked below!
+Dedicated to helping new and lower level players learn all aspects th
+e game and grow. Discord server linked below!}
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/NZqXs3FcKU)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (767)|
+| ELO Regular | 1184 🔻  (768)|
 | ELO Competitive | 1187 🔻  (803)|
 | Total Matches | 2 |
 | Wins | 0 |

@@ -13,11 +13,12 @@ date: 1732800866
 
 
 ```
- Prepare-se para uma jornada épica entre Estrelas Vermelhas e Guerras intensas nas Estrelas Brancas. 
+Prepare-se para uma jornada épica entre Estrelas Vermelhas e Guerras 
+intensas nas Estrelas Brancas. 
 
 🔰DRS e RS diárias
 🎖WS todas as sextas
-🔰Ajudamos com orientação e evolução.
+🔰Ajudamos com orientação e evolução.}
 ```
 ### [Discord](https://discord.gg/sVVAvk9RqC)
 ### Whitestar Bonus ❌

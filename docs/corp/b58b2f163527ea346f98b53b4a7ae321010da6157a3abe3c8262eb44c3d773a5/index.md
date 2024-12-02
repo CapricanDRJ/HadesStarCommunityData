@@ -13,8 +13,9 @@ date: 1732310779
 
 
 ```
- Welcome To Sons of Liberty, Academy corp of the Greatest WS corp in the Game, Likapa. 
-Discord mandatory - join at the link below ↓
+Welcome To Sons of Liberty, Academy corp of the Greatest WS corp in t
+he Game, Likapa. 
+Discord mandatory - join at the link below ↓}
 ```
 ### [Discord](https://discord.gg/qfRt7h4Gcb)
 ### Whitestar Bonus ❌

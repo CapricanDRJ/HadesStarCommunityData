@@ -13,12 +13,13 @@ date: 1702798992
 
 
 ```
- Jeśli lubisz grać zespołowo zapraszamy, początkującym służymy pomocą.
+Jeśli lubisz grać zespołowo zapraszamy, początkującym służymy pomocą.
 
-Jeśli chcesz do nas dołączyć najpierw skontaktuj sie z nami na discordzie.
+Jeśli chcesz do nas dołączyć najpierw skontaktuj sie z nami na discor
+dzie.
 
 Discord obowiązkowy:
-https://discord.gg/qWTndzwmtX
+https://discord.gg/qWTndzwmtX}
 ```
 ### Whitestar Bonus ❌
 

@@ -13,9 +13,11 @@ date: 1732485961
 
 
 ```
- Allied with GalaxyNova (led by Aires) and Planet Express (Lazarus_929)
+Allied with GalaxyNova (led by Aires) and Planet Express (Lazarus_929
+)
 
-A social, easygoing Corp with allies to join together with for Red or White Stars. No pressure, play at your own pace.
+A social, easygoing Corp with allies to join together with for Red or
+ White Stars. No pressure, play at your own pace.}
 ```
 ### [Discord](https://discord.gg/https://discord.gg/2WbUUG3Z)
 ### Whitestar Bonus ❌

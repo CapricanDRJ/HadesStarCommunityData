@@ -13,10 +13,10 @@ date: 1700027526
 
 
 ```
- L'union Des Sucreries !
+L'union Des Sucreries !
 Le plan ? Entraide et baston dans la bonne ambiance !
 Nous sommes ouvert à tout français ou étrangers actifs et motivés.
-Discord : https://discord.gg/9PEjNfq
+Discord : https://discord.gg/9PEjNfq}
 ```
 ### Whitestar Bonus ❌
 

@@ -13,9 +13,10 @@ date: 1713171237
 
 
 ```
- Привіт |(⊙▽⊙)-✋!</color>
+Привіт |(⊙▽⊙)-✋!</color>
 <color=orange> Це корпорація Star Conflict ☜(◐﹏◑)| </color>
-<color=yellow>У нас тут дружній колектив \(※↭※)/ </color><color=red>Наш ТГ канал:https://t.me/+vzm06AL8ZX</color>
+<color=yellow>У нас тут дружній колектив \(※↭※)/ </color><color=red>
+Наш ТГ канал:https://t.me/+vzm06AL8ZX</color>}
 ```
 ### Whitestar Bonus ❌
 

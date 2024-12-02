@@ -13,13 +13,13 @@ date: 1719220262
 
 
 ```
- 嘟嘟嘟嘟嘟嘟嘟嘟       我等着你们回家啊
+嘟嘟嘟嘟嘟嘟嘟嘟       我等着你们回家啊}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1177 🔻  (849)|
+| ELO Regular | 1177 🔻  (850)|
 | ELO Competitive | 1183 🔻  (954)|
 | Total Matches | 4 |
 | Wins | 1 |

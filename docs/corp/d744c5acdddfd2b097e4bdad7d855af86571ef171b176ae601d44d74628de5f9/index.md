@@ -13,9 +13,9 @@ date: 1730959416
 
 
 ```
- 1. Jeder spielt wann er will.
+1. Jeder spielt wann er will.
 2. Am Monatsende wird ein Aktivitätscheck durchgeführt!
-3. keine fusion oder änlinches!!!
+3. keine fusion oder änlinches!!!}
 ```
 ### Whitestar Bonus ❌
 

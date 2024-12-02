@@ -13,9 +13,9 @@ date: 1712320278
 
 
 ```
- To explore and to assist all we can. 
+To explore and to assist all we can. 
 
-Discord Recruiting Channel: https://discord.gg/zBsPybt
+Discord Recruiting Channel: https://discord.gg/zBsPybt}
 ```
 ### Whitestar Bonus ❌
 

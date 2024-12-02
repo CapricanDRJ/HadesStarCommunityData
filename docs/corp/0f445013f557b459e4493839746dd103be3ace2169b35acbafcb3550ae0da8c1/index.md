@@ -13,14 +13,15 @@ date: 1701817115
 
 
 ```
- The combined forces of the Imperial ruled planets. Commanded by the Imperial High Council
+The combined forces of the Imperial ruled planets. Commanded by the I
+mperial High Council}
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/PasdADNm)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔻  (949)|
+| ELO Regular | 1170 🔻  (950)|
 | ELO Competitive | 1170 🔻  (1090)|
 | Total Matches | 2 |
 | Wins | 0 |

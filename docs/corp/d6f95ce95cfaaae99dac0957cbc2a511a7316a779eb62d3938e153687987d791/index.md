@@ -13,13 +13,13 @@ date: 1705551985
 
 
 ```
- ⚠️integrantes en descogelacion⚠️
+⚠️integrantes en descogelacion⚠️}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (929)|
+| ELO Regular | 1171 🔻  (930)|
 | ELO Competitive | 1171 🔻  (1075)|
 | Total Matches | 2 |
 | Wins | 0 |

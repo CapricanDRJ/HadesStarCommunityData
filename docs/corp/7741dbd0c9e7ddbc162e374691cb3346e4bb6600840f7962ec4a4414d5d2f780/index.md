@@ -13,7 +13,8 @@ date: 1733022937
 
 
 ```
- New players welcome, we help players get ready for White Stars and Dark Red Stars. (First Language: English)
+New players welcome, we help players get ready for White Stars and Da
+rk Red Stars. (First Language: English)}
 ```
 ### [Discord](https://discord.gg/zeDuYzkCzk)
 ### Whitestar Bonus ✅

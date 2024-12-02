@@ -13,7 +13,7 @@ date: 1732896432
 
 
 ```
- JOIN NOW - ALL WELCOME
+JOIN NOW - ALL WELCOME
 
 B2B Chill WS
 When in doubt, kill stuff and have fun!
@@ -22,7 +22,7 @@ A lively, friendly & supportive corp chat
 
 Trolls and inactives get kicked
  
-Discord preferred nBrqgsV 
+Discord preferred nBrqgsV }
 ```
 ### [Discord](https://discord.gg/nBrqgsV)
 ### Whitestar Bonus ✅

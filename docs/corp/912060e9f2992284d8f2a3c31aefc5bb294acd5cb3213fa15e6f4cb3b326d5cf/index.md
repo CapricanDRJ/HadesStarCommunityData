@@ -13,14 +13,14 @@ date: 1707781355
 
 
 ```
- WS Intro corp for the
+WS Intro corp for the
 <b>OntarioDynasty</b> family of corps.
 
 Join discord for chat, advice and laughter:
 
 https://discord.gg/gBFFE5x
 
-od-family.com
+od-family.com}
 ```
 ### Whitestar Bonus ❌
 

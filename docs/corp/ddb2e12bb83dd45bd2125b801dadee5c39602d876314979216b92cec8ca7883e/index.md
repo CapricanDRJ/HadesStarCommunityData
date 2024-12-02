@@ -13,14 +13,16 @@ date: 1700618828
 
 
 ```
- chill group of dudes, trying to revive after the disastrous game update. training and advice for new players, WS once we have numbers for experiemced players.
+chill group of dudes, trying to revive after the disastrous game upda
+te. training and advice for new players, WS once we have numbers for 
+experiemced players.}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1229 🔺  (313)|
-| ELO Competitive | 1229 🔺  (443)|
+| ELO Competitive | 1229 🔺  (444)|
 | Total Matches | 2 |
 | Wins | 2 |
 | Losses | 0 |

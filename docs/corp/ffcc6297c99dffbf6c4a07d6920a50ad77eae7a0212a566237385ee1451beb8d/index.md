@@ -13,7 +13,8 @@ date: 1712989452
 
 
 ```
- corpo Fr ouverte à tous pour se developper tranquille sans pression ^_^ https://discord.com/invite/pWWdSs4xHs
+corpo Fr ouverte à tous pour se developper tranquille sans pression ^
+_^ https://discord.com/invite/pWWdSs4xHs}
 ```
 ### Whitestar Bonus ❌
 

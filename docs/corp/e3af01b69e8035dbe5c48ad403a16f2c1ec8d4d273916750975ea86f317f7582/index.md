@@ -13,21 +13,21 @@ date: 1721016974
 
 
 ```
- Welcome to Rogue dudes
+Welcome to Rogue dudes
 We like active players
 we will help you in need any time ask help of needed
 any level is ok
 Discord:https://discord:gg/HA83rt6E
 
 MAIN=SENIOR MEMBER
-ALT=NO PROMOTION
+ALT=NO PROMOTION}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1230 🔺  (310)|
-| ELO Competitive | 1230 🔺  (438)|
+| ELO Competitive | 1230 🔺  (439)|
 | Total Matches | 2 |
 | Wins | 2 |
 | Losses | 0 |

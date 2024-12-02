@@ -13,13 +13,15 @@ date: 1704473749
 
 
 ```
- A corp focused on trying to reach the top players in the game, active players only please, and social players, we about sharing and growing
+A corp focused on trying to reach the top players in the game, active
+ players only please, and social players, we about sharing and growin
+g}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (770)|
+| ELO Regular | 1184 🔻  (771)|
 | ELO Competitive | 1184 🔻  (925)|
 | Total Matches | 1 |
 | Wins | 0 |

@@ -13,14 +13,16 @@ date: 1732728143
 
 
 ```
- welcome to my corporation.  Language: English and Español. Discord NOT available. Top 5players become senior, top 2become official. red stars2-7. white stars every week
+welcome to my corporation.  Language: English and Español. Discord NO
+T available. Top 5players become senior, top 2become official. red st
+ars2-7. white stars every week}
 ```
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1221 🔺  (346)|
-| ELO Competitive | 1236 🔺  (419)|
+| ELO Competitive | 1236 🔺  (420)|
 | Total Matches | 15 |
 | Wins | 7 |
 | Losses | 5 |

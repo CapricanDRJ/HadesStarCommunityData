@@ -13,14 +13,15 @@ date: 1732909657
 
 
 ```
- CZ/SK korporace            Odkaz na stažení HadesSpace https://userxinos.github.io/HadesSpace/
+CZ/SK korporace            Odkaz na stažení HadesSpace https://userxi
+nos.github.io/HadesSpace/}
 ```
 ### [Discord](https://discord.gg/syV6uUt9dM)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔻  (812)|
+| ELO Regular | 1182 🔻  (813)|
 | ELO Competitive | 1198 🔻  (645)|
 | Total Matches | 7 |
 | Wins | 2 |

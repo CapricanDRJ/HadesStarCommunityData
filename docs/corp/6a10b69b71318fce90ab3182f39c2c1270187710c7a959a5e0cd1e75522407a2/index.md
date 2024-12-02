@@ -13,7 +13,7 @@ date: 1706527816
 
 
 ```
- The Imperium of man.
+The Imperium of man.
 No xenos' allowed
 
 New player development member
@@ -22,7 +22,7 @@ New player development member
 Join our discord comunity:
 https://dicord.gg/gBFFE5x
 
-od-family.com
+od-family.com}
 ```
 ### Whitestar Bonus ❌
 

@@ -13,11 +13,12 @@ date: 1733006415
 
 
 ```
- A friendly group of players that are here to have fun and help. Come join us for and learn DN's WS, RS, BS together as a team.
+A friendly group of players that are here to have fun and help. Come 
+join us for and learn DN's WS, RS, BS together as a team.
 
 Discord recommended
 DC : tqSz2DCJZ8
-
+}
 ```
 ### [Discord](https://discord.gg/tqSz2DCJZ8)
 ### Whitestar Bonus ❌

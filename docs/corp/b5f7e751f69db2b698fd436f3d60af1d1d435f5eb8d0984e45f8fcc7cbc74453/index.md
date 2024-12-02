@@ -13,14 +13,14 @@ date: 1699861645
 
 
 ```
- 此集团为边界  分团 。活跃者请前往边界QQ：733613340
+此集团为边界  分团 。活跃者请前往边界QQ：733613340}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1229 🔺  (313)|
-| ELO Competitive | 1229 🔺  (443)|
+| ELO Competitive | 1229 🔺  (444)|
 | Total Matches | 2 |
 | Wins | 2 |
 | Losses | 0 |

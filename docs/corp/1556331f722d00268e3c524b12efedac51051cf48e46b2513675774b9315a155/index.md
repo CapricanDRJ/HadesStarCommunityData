@@ -13,14 +13,14 @@ date: 1732900339
 
 
 ```
- trại trú ẩn đồng hương thất lạc
+trại trú ẩn đồng hương thất lạc}
 ```
 ### [Discord](https://discord.gg/Bj7asyRu67)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (955)|
+| ELO Regular | 1169 🔻  (956)|
 | ELO Competitive | 1322 🔻  (228)|
 | Total Matches | 57 |
 | Wins | 24 |

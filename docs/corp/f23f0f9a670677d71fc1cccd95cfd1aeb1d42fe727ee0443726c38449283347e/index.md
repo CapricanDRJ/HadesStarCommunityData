@@ -13,17 +13,17 @@ date: 1706899492
 
 
 ```
- <size=60><b><color=yellow>ALIANZA HISPÁNICA</color></b></size>
+<size=60><b><color=yellow>ALIANZA HISPÁNICA</color></b></size>
 <color=red>Estrell.Rojas ER5-8</color>
 <color=white>Estrellas Blancas semanales</color>
-Discord obligatorio: KAguMmM</color>
+Discord obligatorio: KAguMmM</color>}
 ```
 ### [Discord](https://discord.gg/KAguMmM)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1210 🔺  (439)|
+| ELO Regular | 1210 🔺  (438)|
 | ELO Competitive | 1211 🔺  (561)|
 | Total Matches | 3 |
 | Wins | 2 |

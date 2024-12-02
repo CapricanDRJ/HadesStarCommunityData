@@ -13,15 +13,17 @@ date: 1726651365
 
 
 ```
- Neu vereint - das Beste aus Sol und Kobol, Cooler Konzern und im Kopf nicht hohl. RR, WZs, Spanferkelweitwurf und wilde Reime, Komm zu uns und spiel nichtmehr alleine!
+Neu vereint - das Beste aus Sol und Kobol, Cooler Konzern und im Kopf
+ nicht hohl. RR, WZs, Spanferkelweitwurf und wilde Reime, Komm zu uns
+ und spiel nichtmehr alleine!}
 ```
 ### [Discord](https://discord.gg/DYXwRY8AhC)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1202 🔻  (481)|
-| ELO Competitive | 1235 🔻  (422)|
+| ELO Regular | 1202 🔻  (480)|
+| ELO Competitive | 1235 🔻  (423)|
 | Total Matches | 13 |
 | Wins | 6 |
 | Losses | 7 |

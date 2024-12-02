@@ -13,15 +13,15 @@ date: 1709307723
 
 
 ```
- 红活专用团
+红活专用团
 墨痕Q群：796512160
-
+}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1213 🔻  (422)|
+| ELO Regular | 1213 🔻  (421)|
 | ELO Competitive | 1281 🔻  (297)|
 | Total Matches | 16 |
 | Wins | 9 |

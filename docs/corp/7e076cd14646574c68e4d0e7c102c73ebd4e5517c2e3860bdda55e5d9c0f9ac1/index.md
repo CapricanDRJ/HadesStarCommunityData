@@ -13,17 +13,18 @@ date: 1704655853
 
 
 ```
- Наш сервер в Discord’e, где вы сможете найти 
-много информации, задать вопросы или поделится с другими игроками о происходящем в мире Hades! 
+Наш сервер в Discord’e, где вы сможете найти 
+много информации, задать вопросы или поделится с другими игроками о п
+роисходящем в мире Hades! 
 discord.gg/cc22fFn
  канал союз-2
-discord.gg/PyVCs
+discord.gg/PyVCs}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (762)|
+| ELO Regular | 1184 🔻  (763)|
 | ELO Competitive | 1184 🔻  (919)|
 | Total Matches | 1 |
 | Wins | 0 |

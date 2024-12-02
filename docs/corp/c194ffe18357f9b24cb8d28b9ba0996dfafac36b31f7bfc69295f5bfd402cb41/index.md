@@ -13,13 +13,14 @@ date: 1721021240
 
 
 ```
- One Galaxy under god, ruled by an iron fist to comply and listen or shall be struck down with utter destruction.
+One Galaxy under god, ruled by an iron fist to comply and listen or s
+hall be struck down with utter destruction.}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (961)|
+| ELO Regular | 1169 🔻  (962)|
 | ELO Competitive | 1170 🔻  (1093)|
 | Total Matches | 3 |
 | Wins | 0 |

@@ -13,14 +13,15 @@ date: 1726645867
 
 
 ```
- Hola esta corporacion es para nuevos 
-que quieran aprender a jugar rodeados de amigo intergalácticos :) UNANSE
+Hola esta corporacion es para nuevos 
+que quieran aprender a jugar rodeados de amigo intergalácticos :) UNA
+NSE}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (968)|
+| ELO Regular | 1169 🔻  (969)|
 | ELO Competitive | 1172 🔻  (1062)|
 | Total Matches | 2 |
 | Wins | 0 |

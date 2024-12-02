@@ -13,13 +13,13 @@ date: 1725217707
 
 
 ```
- 16.08.2024
+16.08.2024}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1217 🔺  (364)|
+| ELO Regular | 1217 🔺  (363)|
 | ELO Competitive | 1219 🔺  (483)|
 | Total Matches | 1 |
 | Wins | 1 |

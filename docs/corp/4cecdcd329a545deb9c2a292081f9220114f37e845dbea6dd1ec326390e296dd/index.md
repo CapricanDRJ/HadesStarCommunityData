@@ -13,7 +13,9 @@ date: 1715213588
 
 
 ```
- Any New players join here, we can do quite a bit in large numbers! Newbs, Assemble! Pls build a white star scanner if you can (only if u can) If u are not going to participate in white stars, tell me
+Any New players join here, we can do quite a bit in large numbers! Ne
+wbs, Assemble! Pls build a white star scanner if you can (only if u c
+an) If u are not going to participate in white stars, tell me}
 ```
 ### Whitestar Bonus ❌
 

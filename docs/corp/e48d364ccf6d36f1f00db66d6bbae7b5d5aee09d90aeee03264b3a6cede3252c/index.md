@@ -13,13 +13,13 @@ date: 1723022156
 
 
 ```
- 主团：星光万丈                    集团QQ852308177      暂时封闭
+主团：星光万丈                    集团QQ852308177      暂时封闭}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1204 🔻  (470)|
+| ELO Regular | 1204 🔻  (469)|
 | ELO Competitive | 1212 🔻  (557)|
 | Total Matches | 6 |
 | Wins | 3 |

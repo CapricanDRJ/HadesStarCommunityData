@@ -13,13 +13,15 @@ date: 1728825426
 
 
 ```
- ! Corporación Nueva.! Sean bienvenidos. Ayudamos En ER, Reclutando y Preparando a Jugadores para EB, Ayudo con artefactos. "Tácticas Oscuras, Victorias Brillantes." (Grupo de WhatsApp.)
+! Corporación Nueva.! Sean bienvenidos. Ayudamos En ER, Reclutando y 
+Preparando a Jugadores para EB, Ayudo con artefactos. "Tácticas Oscur
+as, Victorias Brillantes." (Grupo de WhatsApp.)}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔺  (403)|
+| ELO Regular | 1214 🔺  (402)|
 | ELO Competitive | 1216 🔺  (512)|
 | Total Matches | 1 |
 | Wins | 1 |

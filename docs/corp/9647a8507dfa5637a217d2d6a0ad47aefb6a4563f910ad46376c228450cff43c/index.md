@@ -13,14 +13,16 @@ date: 1733136513
 
 
 ```
- <color=red>Must be English speaking.<color=white> Adults only. CTG = Corporation Trade Guild. Discord=WS.ㅤ ㅤㅤ ㅤ<color=yellow>We welcome any newbie and big guy to join us! If you're interested, say hi!
+<color=red>Must be English speaking.<color=white> Adults only. CTG = 
+Corporation Trade Guild. Discord=WS.ㅤ ㅤㅤ ㅤ<color=yellow>We welcome an
+y newbie and big guy to join us! If you're interested, say hi!}
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/xG26mebaUv)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1211 🔻  (437)|
+| ELO Regular | 1211 🔻  (436)|
 | ELO Competitive | 1309 🔻  (242)|
 | Total Matches | 54 |
 | Wins | 25 |

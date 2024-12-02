@@ -13,11 +13,11 @@ date: 1731142719
 
 
 ```
- <color="lime"><b>Humankind Empire Abh</b></color>
+<color="lime"><b>Humankind Empire Abh</b></color>
 
 Discord:5tuPR4v
 Traits:Independent
-Language:English
+Language:English}
 ```
 ### Whitestar Bonus ❌
 

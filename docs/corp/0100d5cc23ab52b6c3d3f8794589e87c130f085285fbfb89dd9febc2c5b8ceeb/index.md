@@ -13,7 +13,7 @@ date: 1706588757
 
 
 ```
- Have fun :D
+Have fun :D}
 ```
 ### Whitestar Bonus ❌
 

@@ -13,14 +13,16 @@ date: 1699895601
 
 
 ```
- Inactive after DN and relocated to: Tuatha De Danan. BOTB will reopen when we find more members. Go to discord (discord.gg/ExdxEKXv5x) or send friend request to Lucky/ImLucky2 to contact us
+Inactive after DN and relocated to: Tuatha De Danan. BOTB will reopen
+ when we find more members. Go to discord (discord.gg/ExdxEKXv5x) or 
+send friend request to Lucky/ImLucky2 to contact us}
 ```
 ### [Discord](https://discord.gg/ExdxEKXv5x)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺  (382)|
+| ELO Regular | 1216 🔺  (381)|
 | ELO Competitive | 1216 🔺  (516)|
 | Total Matches | 1 |
 | Wins | 1 |

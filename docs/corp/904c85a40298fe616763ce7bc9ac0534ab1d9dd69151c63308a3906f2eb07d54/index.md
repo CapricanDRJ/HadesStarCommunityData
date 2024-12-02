@@ -13,14 +13,15 @@ date: 1716342684
 
 
 ```
- Welcome to the Thunderbears!  New and Active, learning the game together. Discord is a requirement. 
+Welcome to the Thunderbears!  New and Active, learning the game toget
+her. Discord is a requirement. }
 ```
 ### [Discord](https://discord.gg/ZnXzQ8uS)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (891)|
+| ELO Regular | 1173 🔻  (892)|
 | ELO Competitive | 1178 🔻  (985)|
 | Total Matches | 9 |
 | Wins | 3 |

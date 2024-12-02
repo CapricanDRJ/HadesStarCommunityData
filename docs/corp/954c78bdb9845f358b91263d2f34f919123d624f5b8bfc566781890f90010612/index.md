@@ -13,13 +13,14 @@ date: 1719260117
 
 
 ```
- wir sind eine deutschsprachige schweizer allianz und stehen für aktiven spiel und spass
+wir sind eine deutschsprachige schweizer allianz und stehen für aktiv
+en spiel und spass}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1217 🔺  (366)|
+| ELO Regular | 1217 🔺  (365)|
 | ELO Competitive | 1222 🔺  (475)|
 | Total Matches | 3 |
 | Wins | 2 |

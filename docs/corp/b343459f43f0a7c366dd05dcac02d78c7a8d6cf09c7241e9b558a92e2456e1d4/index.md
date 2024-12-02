@@ -13,7 +13,7 @@ date: 1733125699
 
 
 ```
- Our mission :
+Our mission :
 To be the best WhiteStar battle team !
 Do nothing, you will get nothing.
 You control your destiny.
@@ -22,7 +22,7 @@ Join us, be part of the Super Team !!
 
 Trust * Loyalty 
 
-“Busting Ours to kick Yours!”
+“Busting Ours to kick Yours!”}
 ```
 ### Whitestar Bonus ✅
 

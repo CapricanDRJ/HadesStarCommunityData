@@ -13,15 +13,16 @@ date: 1732297253
 
 
 ```
- La corpo hard de <color=#FFA040>Seasons Corp</color>, une alliance où l'entraide et le jeu passent avant tout !
-Discord obligatoire
+La corpo hard de <color=#FFA040>Seasons Corp</color>, une alliance où
+ l'entraide et le jeu passent avant tout !
+Discord obligatoire}
 ```
 ### [Discord](https://discord.gg/DcuxrTA)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1180 🔻  (838)|
+| ELO Regular | 1180 🔻  (839)|
 | ELO Competitive | 1205 🔻  (584)|
 | Total Matches | 25 |
 | Wins | 10 |

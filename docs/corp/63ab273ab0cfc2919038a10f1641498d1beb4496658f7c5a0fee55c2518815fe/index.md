@@ -13,18 +13,18 @@ date: 1700612819
 
 
 ```
- The Crazy Chickens
+The Crazy Chickens
 
 * We do Red Stars 8-10
 * WS runs weekly 
 * We help new players with tips, tricks and arts if needed
-Discord required for WS: pQVwk7J
+Discord required for WS: pQVwk7J}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (940)|
+| ELO Regular | 1171 🔻  (941)|
 | ELO Competitive | 1171 🔻  (1085)|
 | Total Matches | 2 |
 | Wins | 0 |

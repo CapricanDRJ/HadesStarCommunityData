@@ -13,7 +13,8 @@ date: 1710899937
 
 
 ```
- Relaxed and friendly. We encourage growth, enjoyment and teamwork. Reach out if you need assistance. Malice not tolerated.
+Relaxed and friendly. We encourage growth, enjoyment and teamwork. Re
+ach out if you need assistance. Malice not tolerated.}
 ```
 ### [Discord](https://discord.gg/P9ruZgaZBJ)
 ### Whitestar Bonus ❌

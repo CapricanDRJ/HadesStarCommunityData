@@ -13,12 +13,13 @@ date: 1733042164
 
 
 ```
- <b><size=80><color=blue>Corp. per tutti</color></size></b> (grandi e piccoli)
+<b><size=80><color=blue>Corp. per tutti</color></size></b> (grandi e 
+piccoli)
 
 <b><size=40><color=red>WS sempre</color></size></b>
 
 
-Discord: https://discord.gg/A26JEJgPwh
+Discord: https://discord.gg/A26JEJgPwh}
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/xGMUwWdzab)
 ### Whitestar Bonus ✅

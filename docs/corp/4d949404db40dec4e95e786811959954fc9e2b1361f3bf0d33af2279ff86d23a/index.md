@@ -13,15 +13,17 @@ date: 1729851481
 
 
 ```
- Chill Corporation. English. White stars not required but encouraged if possible. Come here to develop, help with red stars. Please stay relatively active. Discord not required but recommended.
+Chill Corporation. English. White stars not required but encouraged i
+f possible. Come here to develop, help with red stars. Please stay re
+latively active. Discord not required but recommended.}
 ```
 ### [Discord](https://discord.gg/https://discord.gg/kcjNMkkH)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1215 🔻  (390)|
-| ELO Competitive | 1239 🔻  (411)|
+| ELO Regular | 1215 🔻  (389)|
+| ELO Competitive | 1239 🔻  (412)|
 | Total Matches | 21 |
 | Wins | 10 |
 | Losses | 10 |

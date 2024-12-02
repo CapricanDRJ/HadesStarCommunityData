@@ -13,17 +13,17 @@ date: 1721868476
 
 
 ```
- REQUIREMENTS:
+REQUIREMENTS:
 Active white star players
 English speaking
 We do private rs
-Inactive players will be kicked out
+Inactive players will be kicked out}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺  (378)|
+| ELO Regular | 1216 🔺  (377)|
 | ELO Competitive | 1216 🔺  (510)|
 | Total Matches | 1 |
 | Wins | 1 |

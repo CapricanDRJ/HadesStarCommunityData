@@ -13,11 +13,11 @@ date: 1731554996
 
 
 ```
- <b><size=99><color=#990000>Blood Brigade</color></size></b>
+<b><size=99><color=#990000>Blood Brigade</color></size></b>
 is a friendly corp with a relaxed atmosphere.
 Weekly white star.
 Discord Mandatory.
-<color=#FF0000>discord.gg/JsmNexdvXv</color>
+<color=#FF0000>discord.gg/JsmNexdvXv</color>}
 ```
 ### Whitestar Bonus ❌
 

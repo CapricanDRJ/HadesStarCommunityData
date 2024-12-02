@@ -13,7 +13,8 @@ date: 1733011558
 
 
 ```
- Hola bienvenidos a la corporacion uniones hacemos eb diarias er 4 y espero que se diviertan fundador son of celestial
+Hola bienvenidos a la corporacion uniones hacemos eb diarias er 4 y e
+spero que se diviertan fundador son of celestial}
 ```
 ### Whitestar Bonus ❌
 

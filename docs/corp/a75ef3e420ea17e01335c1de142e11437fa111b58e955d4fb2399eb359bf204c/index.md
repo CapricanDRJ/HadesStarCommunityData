@@ -13,13 +13,14 @@ date: 1701427603
 
 
 ```
- Welcome to callisto corporation wanna relax or be competitive we've got both (white stars on Saturday USA time) 
+Welcome to callisto corporation wanna relax or be competitive we've g
+ot both (white stars on Saturday USA time) }
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (937)|
+| ELO Regular | 1171 🔻  (938)|
 | ELO Competitive | 1171 🔻  (1083)|
 | Total Matches | 2 |
 | Wins | 0 |

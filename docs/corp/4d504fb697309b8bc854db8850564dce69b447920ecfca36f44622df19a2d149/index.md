@@ -13,13 +13,13 @@ date: 1704392606
 
 
 ```
- The reemergence of Space Gamers with Super Stars!
+The reemergence of Space Gamers with Super Stars!}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔺  (401)|
+| ELO Regular | 1214 🔺  (400)|
 | ELO Competitive | 1214 🔺  (531)|
 | Total Matches | 1 |
 | Wins | 1 |

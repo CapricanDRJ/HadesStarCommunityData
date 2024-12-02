@@ -13,14 +13,15 @@ date: 1702422706
 
 
 ```
- Serenity merged with lacuna. This leftover corp is not active. New players can use it as a quiet place to start.
+Serenity merged with lacuna. This leftover corp is not active. New pl
+ayers can use it as a quiet place to start.}
 ```
 ### [Discord](https://discord.gg/PSryd83)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (923)|
+| ELO Regular | 1171 🔻  (924)|
 | ELO Competitive | 1171 🔻  (1072)|
 | Total Matches | 2 |
 | Wins | 0 |

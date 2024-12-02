@@ -13,14 +13,15 @@ date: 1718784966
 
 
 ```
- Welcome to Intertwine! Part of the Elite Federation, discord not mandatory but greatly appreciated!
+Welcome to Intertwine! Part of the Elite Federation, discord not mand
+atory but greatly appreciated!}
 ```
 ### [Discord](https://discord.gg/https://discord.gg/8VRp3sYPbg)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1212 🔻  (426)|
+| ELO Regular | 1212 🔻  (425)|
 | ELO Competitive | 1216 🔻  (506)|
 | Total Matches | 3 |
 | Wins | 2 |

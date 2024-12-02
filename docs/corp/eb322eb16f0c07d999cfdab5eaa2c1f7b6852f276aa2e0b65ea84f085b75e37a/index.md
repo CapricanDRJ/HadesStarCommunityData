@@ -13,13 +13,14 @@ date: 1719971489
 
 
 ```
- SanctuaryGaming.org for Discord & links.  Please be active and grow your. account.
+SanctuaryGaming.org for Discord & links.  Please be active and grow y
+our. account.}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (824)|
+| ELO Regular | 1181 🔻  (825)|
 | ELO Competitive | 1186 🔻  (829)|
 | Total Matches | 1 |
 | Wins | 0 |

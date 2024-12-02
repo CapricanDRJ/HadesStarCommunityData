@@ -13,7 +13,7 @@ date: 1703021702
 
 
 ```
- <color=#3bfdc8>Trade Systems</color>
+<color=#3bfdc8>Trade Systems</color>
 RS-focused (7,8,9)
 member of 
 OntarioDynasty Family of Corps
@@ -23,7 +23,7 @@ all RS levels & play styles.
 
 https://discord.gg/gBFFE5x
 
-od-family.com
+od-family.com}
 ```
 ### Whitestar Bonus ❌
 

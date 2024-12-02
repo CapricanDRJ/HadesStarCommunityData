@@ -13,13 +13,15 @@ date: 1712707084
 
 
 ```
- very layed back have fun is pretty much the only rule. please be able to speak English that's all I know lol. if I get enough members I will do back to back whites stars.
+very layed back have fun is pretty much the only rule. please be able
+ to speak English that's all I know lol. if I get enough members I wi
+ll do back to back whites stars.}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (832)|
+| ELO Regular | 1181 🔻  (833)|
 | ELO Competitive | 1181 🔻  (965)|
 | Total Matches | 1 |
 | Wins | 0 |

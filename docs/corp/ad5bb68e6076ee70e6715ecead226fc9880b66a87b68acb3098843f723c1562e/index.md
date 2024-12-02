@@ -13,7 +13,8 @@ date: 1732789143
 
 
 ```
- Fun, easy going yet hardass corp for all. Discord account required for White Star runs.
+Fun, easy going yet hardass corp for all. Discord account required fo
+r White Star runs.}
 ```
 ### [Discord](https://discord.gg/https://discord.gg/X8mRJ994nY)
 ### Whitestar Bonus ✅
@@ -21,7 +22,7 @@ date: 1732789143
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1189 🔺  (603)|
-| ELO Competitive | 1235 🔺  (424)|
+| ELO Competitive | 1235 🔺  (425)|
 | Total Matches | 35 |
 | Wins | 13 |
 | Losses | 22 |

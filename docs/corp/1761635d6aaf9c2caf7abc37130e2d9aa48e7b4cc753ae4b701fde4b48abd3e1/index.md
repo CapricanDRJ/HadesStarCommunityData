@@ -13,7 +13,8 @@ date: 1732705303
 
 
 ```
- Wir sind ein aktiver Club. Aktive WZ-Spieler sind jederzeit willkommen.      Wir handeln Gewürze .Ohne Stress 
+Wir sind ein aktiver Club. Aktive WZ-Spieler sind jederzeit willkomme
+n.      Wir handeln Gewürze .Ohne Stress }
 ```
 ### Whitestar Bonus ❌
 

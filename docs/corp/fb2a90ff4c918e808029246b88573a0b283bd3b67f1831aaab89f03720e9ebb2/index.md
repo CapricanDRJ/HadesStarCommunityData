@@ -13,14 +13,14 @@ date: 1726828977
 
 
 ```
- 一起来吧！召集白星队员，缘分使我们相遇。爱护新手，请教高手。不管等级，最先进团5人为干事，再15人为高级成员
+一起来吧！召集白星队员，缘分使我们相遇。爱护新手，请教高手。不管等级，最先进团5人为干事，再15人为高级成员}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1228 🔻  (318)|
-| ELO Competitive | 1239 🔻  (409)|
+| ELO Competitive | 1239 🔻  (410)|
 | Total Matches | 4 |
 | Wins | 3 |
 | Losses | 1 |

@@ -13,14 +13,15 @@ date: 1719335664
 
 
 ```
- Second wing of Commander Cody and the Lost Planet Airmen Join our Discord server T9D3BdHY
+Second wing of Commander Cody and the Lost Planet Airmen Join our Dis
+cord server T9D3BdHY}
 ```
 ### [Discord](https://discord.gg/r66hPREZUW)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1212 🔻  (428)|
+| ELO Regular | 1212 🔻  (427)|
 | ELO Competitive | 1219 🔻  (487)|
 | Total Matches | 3 |
 | Wins | 2 |

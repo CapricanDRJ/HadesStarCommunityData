@@ -13,13 +13,13 @@ date: 1731125874
 
 
 ```
- Mostly PvE red star 
+Mostly PvE red star }
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1212 🔻  (432)|
+| ELO Regular | 1212 🔻  (431)|
 | ELO Competitive | 1212 🔻  (553)|
 | Total Matches | 2 |
 | Wins | 1 |

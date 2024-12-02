@@ -13,10 +13,10 @@ date: 1713318167
 
 
 ```
- BELIEVE in YOURSELF 
+BELIEVE in YOURSELF 
 I believe in U 
 We can build a great alliance of Hades Star
-No discord. Be friendly :)
+No discord. Be friendly :)}
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/WWu5AWvU)
 ### Whitestar Bonus ❌

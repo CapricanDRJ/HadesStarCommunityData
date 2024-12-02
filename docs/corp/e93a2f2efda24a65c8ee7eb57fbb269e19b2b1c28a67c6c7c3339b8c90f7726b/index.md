@@ -13,14 +13,14 @@ date: 1732666549
 
 
 ```
- Alpacas unite! Have fun and prosper. We do relaxed WS.
+Alpacas unite! Have fun and prosper. We do relaxed WS.}
 ```
 ### [Discord](https://discord.gg/xaRgKha)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (761)|
+| ELO Regular | 1184 🔻  (762)|
 | ELO Competitive | 1222 🔻  (474)|
 | Total Matches | 36 |
 | Wins | 18 |

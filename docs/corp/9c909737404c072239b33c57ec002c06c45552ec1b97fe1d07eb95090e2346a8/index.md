@@ -13,14 +13,14 @@ date: 1727491786
 
 
 ```
- Relaxed corp. White star with us for fun.
+Relaxed corp. White star with us for fun.}
 ```
 ### [Discord](https://discord.gg/dgpJDdf5EX)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (964)|
+| ELO Regular | 1169 🔻  (965)|
 | ELO Competitive | 1198 🔻  (641)|
 | Total Matches | 24 |
 | Wins | 9 |

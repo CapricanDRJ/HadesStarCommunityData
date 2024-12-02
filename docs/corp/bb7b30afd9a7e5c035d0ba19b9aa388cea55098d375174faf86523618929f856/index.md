@@ -13,8 +13,8 @@ date: 1731988934
 
 
 ```
- Meow meow meow meow, meow Meow! Rated G. Join if you like cats.
-Discord: https://discord.gg/Fyag9U7KFh
+Meow meow meow meow, meow Meow! Rated G. Join if you like cats.
+Discord: https://discord.gg/Fyag9U7KFh}
 ```
 ### Whitestar Bonus ❌
 

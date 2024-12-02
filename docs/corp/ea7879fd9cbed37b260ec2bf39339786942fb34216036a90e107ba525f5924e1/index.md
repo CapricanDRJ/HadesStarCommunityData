@@ -13,7 +13,9 @@ date: 1731760563
 
 
 ```
- Here to have fun! Daily Private RS. Bi-weekly WS. Looking for <b>active</b> players to participate in corp red/white stars. Join our discord for easier coordination and fun!
+Here to have fun! Daily Private RS. Bi-weekly WS. Looking for <b>acti
+ve</b> players to participate in corp red/white stars. Join our disco
+rd for easier coordination and fun!}
 ```
 ### [Discord](https://discord.gg/3CBQRhpWmV)
 ### Whitestar Bonus ❌

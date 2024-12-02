@@ -13,14 +13,14 @@ date: 1731906902
 
 
 ```
- We’ll get there… most of the time
+We’ll get there… most of the time}
 ```
 ### [Discord](https://discord.gg/JnxXSHyWsC)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1204 🔻  (469)|
+| ELO Regular | 1204 🔻  (468)|
 | ELO Competitive | 1205 🔻  (582)|
 | Total Matches | 3 |
 | Wins | 2 |

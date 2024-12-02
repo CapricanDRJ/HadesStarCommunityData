@@ -13,13 +13,14 @@ date: 1733059892
 
 
 ```
- Looking for active player to do Casual whitestar every week. No discord.
+Looking for active player to do Casual whitestar every week. No disco
+rd.}
 ```
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔺  (930)|
+| ELO Regular | 1171 🔺  (931)|
 | ELO Competitive | 1298 🔺  (264)|
 | Total Matches | 72 |
 | Wins | 32 |

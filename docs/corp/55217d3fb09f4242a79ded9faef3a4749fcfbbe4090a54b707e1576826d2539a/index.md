@@ -13,13 +13,13 @@ date: 1715002560
 
 
 ```
- <a>进团常驻之人可互相建立外交关系            <b>本团招新，欢迎各位
+<a>进团常驻之人可互相建立外交关系            <b>本团招新，欢迎各位}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (870)|
+| ELO Regular | 1175 🔻  (871)|
 | ELO Competitive | 1176 🔻  (1003)|
 | Total Matches | 2 |
 | Wins | 0 |

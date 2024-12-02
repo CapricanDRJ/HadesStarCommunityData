@@ -13,7 +13,8 @@ date: 1701216316
 
 
 ```
- <color=#FFFF00>Походы на красные и белые звёзды, помощь игрокам и просто общениe</color><color=#FFA500></color>
+<color=#FFFF00>Походы на красные и белые звёзды, помощь игрокам и про
+сто общениe</color><color=#FFA500></color>}
 ```
 ### [Discord](https://discord.gg/GtUycuvQVG)
 ### Whitestar Bonus ❌

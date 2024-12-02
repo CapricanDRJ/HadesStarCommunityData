@@ -13,13 +13,13 @@ date: 1722331865
 
 
 ```
- 本团为萌新团，大家共同努力携手共进，共同创造。请大家加一下QQ群:792608740
+本团为萌新团，大家共同努力携手共进，共同创造。请大家加一下QQ群:792608740}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1209 🔻  (445)|
+| ELO Regular | 1209 🔻  (444)|
 | ELO Competitive | 1215 🔻  (527)|
 | Total Matches | 11 |
 | Wins | 5 |

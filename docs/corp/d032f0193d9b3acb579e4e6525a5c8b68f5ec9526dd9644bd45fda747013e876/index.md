@@ -13,13 +13,14 @@ date: 1712594618
 
 
 ```
- Training Academy for Black Star Order, the #1 Corp in all of Hades' Star.
+Training Academy for Black Star Order, the #1 Corp in all of Hades' S
+tar.
 All Cadets Welcome!
 
 We are actively helping you succeed!
 
 Our HQ lives on Discord. Enlist today!
-discord.gg/YTaYrhy
+discord.gg/YTaYrhy}
 ```
 ### [Discord](https://discord.gg/YTaYrhy)
 ### Whitestar Bonus ❌

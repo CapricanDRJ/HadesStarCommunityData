@@ -13,7 +13,9 @@ date: 1716212889
 
 
 ```
- The interdimensional military force named after the founding commander, John Redd. We do not serve under a flag but only through one ideal, protection of the multiverse. Integrity, Loyalty, Respect
+The interdimensional military force named after the founding commande
+r, John Redd. We do not serve under a flag but only through one ideal
+, protection of the multiverse. Integrity, Loyalty, Respect}
 ```
 ### Whitestar Bonus ❌
 

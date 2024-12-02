@@ -13,13 +13,13 @@ date: 1732630187
 
 
 ```
- 致力于帮助牧云完成白星成就，本团将于牧云完成成就后解散，忠诚！！！
+致力于帮助牧云完成白星成就，本团将于牧云完成成就后解散，忠诚！！！}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (871)|
+| ELO Regular | 1175 🔻  (872)|
 | ELO Competitive | 1182 🔻  (959)|
 | Total Matches | 3 |
 | Wins | 0 |

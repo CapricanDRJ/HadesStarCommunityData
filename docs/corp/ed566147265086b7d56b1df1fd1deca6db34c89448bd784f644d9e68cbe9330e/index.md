@@ -13,14 +13,14 @@ date: 1701319101
 
 
 ```
- <color="green">Member Corp Of U.I.H</color>
+<color="green">Member Corp Of U.I.H</color>}
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/fqPrfnrcfz)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (939)|
+| ELO Regular | 1171 🔻  (940)|
 | ELO Competitive | 1171 🔻  (1084)|
 | Total Matches | 2 |
 | Wins | 0 |

@@ -13,7 +13,7 @@ date: 1704211691
 
 
 ```
- Have some God Damn Faith, we just need more MONEY! Active 12/31/23
+Have some God Damn Faith, we just need more MONEY! Active 12/31/23}
 ```
 ### Whitestar Bonus ❌
 

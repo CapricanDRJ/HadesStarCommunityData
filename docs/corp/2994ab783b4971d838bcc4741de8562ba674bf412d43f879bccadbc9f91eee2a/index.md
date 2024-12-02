@@ -13,7 +13,8 @@ date: 1727896547
 
 
 ```
- we would like players who enjoy ws battles. we have 5, could use 5 more. 
+we would like players who enjoy ws battles. we have 5, could use 5 mo
+re. }
 ```
 ### Whitestar Bonus ❌
 

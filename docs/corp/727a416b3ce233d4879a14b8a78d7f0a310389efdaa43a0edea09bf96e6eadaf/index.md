@@ -13,7 +13,7 @@ date: 1700374422
 
 
 ```
- Discord Required: Ff6qceW
+Discord Required: Ff6qceW
 
 Partners with Rocket-by Baby corp!
 
@@ -22,13 +22,13 @@ Weekly WS! (10v10)
 
 Questions: Message a Babies officer on discord 
 
-Come join the Flight-Team!
+Come join the Flight-Team!}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (906)|
+| ELO Regular | 1172 🔻  (907)|
 | ELO Competitive | 1173 🔻  (1047)|
 | Total Matches | 2 |
 | Wins | 0 |

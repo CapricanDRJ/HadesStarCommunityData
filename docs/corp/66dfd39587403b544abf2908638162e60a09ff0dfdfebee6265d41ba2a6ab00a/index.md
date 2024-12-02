@@ -13,13 +13,13 @@ date: 1719192673
 
 
 ```
- For passive players who don't play that often.
+For passive players who don't play that often.}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1207 🔻  (455)|
+| ELO Regular | 1207 🔻  (454)|
 | ELO Competitive | 1211 🔻  (563)|
 | Total Matches | 7 |
 | Wins | 3 |

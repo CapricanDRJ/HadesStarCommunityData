@@ -13,13 +13,13 @@ date: 1727716461
 
 
 ```
- 万众一心，一心一体  （咸鱼养老种田）
+万众一心，一心一体  （咸鱼养老种田）}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1203 🔺  (471)|
+| ELO Regular | 1203 🔺  (470)|
 | ELO Competitive | 1209 🔺  (573)|
 | Total Matches | 1 |
 | Wins | 1 |

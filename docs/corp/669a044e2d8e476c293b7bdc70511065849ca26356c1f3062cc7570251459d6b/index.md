@@ -13,8 +13,8 @@ date: 1730511060
 
 
 ```
- Zapraszamy aktywnych graczy. Razem zdobędziemy cały kosmos! ;)
-Używamy discord do komunikacji: https://discord.gg/qgHRcwP
+Zapraszamy aktywnych graczy. Razem zdobędziemy cały kosmos! ;)
+Używamy discord do komunikacji: https://discord.gg/qgHRcwP}
 ```
 ### Whitestar Bonus ❌
 

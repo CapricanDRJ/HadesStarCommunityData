@@ -13,11 +13,11 @@ date: 1730976844
 
 
 ```
- <b>Lacuna Group's</b> home for RS 9-12
+<b>Lacuna Group's</b> home for RS 9-12
 <b>Discord required:</b> discord.gg/BFfSkvu
 RS 1-4 see Lacuna Academy
 RS 5-6 see Lacuna X
-RS 7+ see Lacuna Holdings
+RS 7+ see Lacuna Holdings}
 ```
 ### [Discord](https://discord.gg/discord.gg/BFfSkvu)
 ### Whitestar Bonus ❌

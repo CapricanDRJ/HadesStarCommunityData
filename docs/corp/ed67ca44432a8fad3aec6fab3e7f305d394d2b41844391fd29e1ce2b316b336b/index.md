@@ -13,12 +13,12 @@ date: 1718228706
 
 
 ```
- <b>Lacuna Group's</b> entry corp.
+<b>Lacuna Group's</b> entry corp.
 -Geared for new players RS 1-4
 <b>Discord:</b> discord.gg/BFfSkvu
 RS 5-6 see Lacuna X
 RS 7+ see Lacuna Holdings
-RS 8-11 see Lacuna Ind.
+RS 8-11 see Lacuna Ind.}
 ```
 ### [Discord](https://discord.gg/BFfSkvu)
 ### Whitestar Bonus ❌

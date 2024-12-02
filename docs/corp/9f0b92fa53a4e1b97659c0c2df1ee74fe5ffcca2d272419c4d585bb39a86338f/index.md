@@ -13,17 +13,18 @@ date: 1707427495
 
 
 ```
- Juntos somos invencíveis.
+Juntos somos invencíveis.
 
-Mensagem: Mantenha-se ativo ou terá que dar vaga na corporação para outro entrar.
+Mensagem: Mantenha-se ativo ou terá que dar vaga na corporação para o
+utro entrar.
 
-Em breve faremos estrelas brancas.
+Em breve faremos estrelas brancas.}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1215 🔺  (391)|
+| ELO Regular | 1215 🔺  (390)|
 | ELO Competitive | 1215 🔺  (519)|
 | Total Matches | 1 |
 | Wins | 1 |

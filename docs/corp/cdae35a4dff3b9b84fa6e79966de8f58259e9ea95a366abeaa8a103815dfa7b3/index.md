@@ -13,18 +13,18 @@ date: 1705013769
 
 
 ```
- <size=70><b><i>Welcome to</i></b></color></size><b><color=#fce205>
+<size=70><b><i>Welcome to</i></b></color></size><b><color=#fce205>
 <size=100>GRAND MECHANISM</size></color></b>
 
 Part of <b><color=#fce205>A.R.M.O.R</color></b>
-Discord:DUbkgw9uMT
+Discord:DUbkgw9uMT}
 ```
 ### [Discord](https://discord.gg/DUbkgw9uMT)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔻  (974)|
+| ELO Regular | 1168 🔻  (975)|
 | ELO Competitive | 1172 🔻  (1060)|
 | Total Matches | 8 |
 | Wins | 2 |

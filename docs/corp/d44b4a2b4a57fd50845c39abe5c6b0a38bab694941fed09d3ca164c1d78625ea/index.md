@@ -13,14 +13,16 @@ date: 1733034654
 
 
 ```
- Korporacja otwarta na współpracę i miłą zabawę. Szczególne nastawienie na WS.  RS 4-10  »Regularne WS«  PL&EN ... Chcesz dołączyć? Rekrutacja odbywa się poprzez nasz kanał Discord.
+Korporacja otwarta na współpracę i miłą zabawę. Szczególne nastawieni
+e na WS.  RS 4-10  »Regularne WS«  PL&EN ... Chcesz dołączyć? Rekruta
+cja odbywa się poprzez nasz kanał Discord.}
 ```
 ### [Discord](https://discord.gg/aWeFFra2B7)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1212 🔻  (429)|
+| ELO Regular | 1212 🔻  (428)|
 | ELO Competitive | 1249 🔻  (376)|
 | Total Matches | 14 |
 | Wins | 7 |

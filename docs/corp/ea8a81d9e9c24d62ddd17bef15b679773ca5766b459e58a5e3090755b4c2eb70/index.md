@@ -13,17 +13,18 @@ date: 1699193919
 
 
 ```
- Ouvert dans l'entraide et la bonne humeur à tous les joueurs occasionnels comme pour les plus actifs.
+Ouvert dans l'entraide et la bonne humeur à tous les joueurs occasion
+nels comme pour les plus actifs.
 
 rejoignez nous sur discord: https://discord.gg/SBBXmQ9
 
-"Vers l'infini et l'otter space !"
+"Vers l'infini et l'otter space !"}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1215 🔺  (391)|
+| ELO Regular | 1215 🔺  (390)|
 | ELO Competitive | 1215 🔺  (519)|
 | Total Matches | 1 |
 | Wins | 1 |

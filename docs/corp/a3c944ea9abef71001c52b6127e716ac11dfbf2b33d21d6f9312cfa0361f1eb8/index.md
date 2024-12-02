@@ -13,9 +13,10 @@ date: 1703938816
 
 
 ```
- Open to all. Take what you need. Leave some for others. Help when you can.  We are interested in peaceful white stars when possible.
+Open to all. Take what you need. Leave some for others. Help when you
+ can.  We are interested in peaceful white stars when possible.
 
-Join us on Discord: https://discord.gg/RvMW8DejVJ
+Join us on Discord: https://discord.gg/RvMW8DejVJ}
 ```
 ### Whitestar Bonus ❌
 

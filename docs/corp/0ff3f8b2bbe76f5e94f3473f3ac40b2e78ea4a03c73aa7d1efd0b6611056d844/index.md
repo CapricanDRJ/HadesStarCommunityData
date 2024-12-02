@@ -13,14 +13,14 @@ date: 1699198575
 
 
 ```
- Андреас, ты чего набалансил
+Андреас, ты чего набалансил}
 ```
 ### [Discord](https://discord.gg/U7aUhD3SRw)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1215 🔺  (391)|
+| ELO Regular | 1215 🔺  (390)|
 | ELO Competitive | 1215 🔺  (519)|
 | Total Matches | 1 |
 | Wins | 1 |

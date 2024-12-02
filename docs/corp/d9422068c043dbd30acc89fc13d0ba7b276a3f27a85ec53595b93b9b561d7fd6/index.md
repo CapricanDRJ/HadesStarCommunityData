@@ -13,11 +13,11 @@ date: 1730115015
 
 
 ```
- корпа для активних гравців
+корпа для активних гравців
 кз 1-9, також регулярні бз.
 Посилання на Discord:
 https://discord.gg/thfx8WYSru
-є Telegram 
+є Telegram }
 ```
 ### Whitestar Bonus ❌
 

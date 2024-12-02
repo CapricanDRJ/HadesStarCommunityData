@@ -13,7 +13,8 @@ date: 1720172881
 
 
 ```
- ws focused on learning, still a lot to learn so we don't worry Farm our opponent we just want to play a little
+ws focused on learning, still a lot to learn so we don't worry Farm o
+ur opponent we just want to play a little}
 ```
 ### Whitestar Bonus ❌
 

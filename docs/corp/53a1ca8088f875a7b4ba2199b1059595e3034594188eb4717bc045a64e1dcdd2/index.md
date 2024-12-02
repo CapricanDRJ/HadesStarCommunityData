@@ -13,13 +13,15 @@ date: 1733081233
 
 
 ```
- "imperio  galactico" en el imperio galactico habra estrellas blancas diarias y te apoyaremos en cualquier cosa Lista de aliados:Imperio estelar, Alfa Omega GuistonRA
+"imperio  galactico" en el imperio galactico habra estrellas blancas 
+diarias y te apoyaremos en cualquier cosa Lista de aliados:Imperio es
+telar, Alfa Omega GuistonRA}
 ```
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1210 🔺  (441)|
+| ELO Regular | 1210 🔺  (440)|
 | ELO Competitive | 1225 🔺  (464)|
 | Total Matches | 12 |
 | Wins | 6 |

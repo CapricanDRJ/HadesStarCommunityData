@@ -13,10 +13,10 @@ date: 1705295296
 
 
 ```
- 1.There are no RULES here
+1.There are no RULES here
 2.We DO NOT force to play
 3.Our goal is to LEVEL UP FASTER 
-4.Corporation ARTIFACT GIVE AWAY fri, sun day.
+4.Corporation ARTIFACT GIVE AWAY fri, sun day.}
 ```
 ### Whitestar Bonus ❌
 

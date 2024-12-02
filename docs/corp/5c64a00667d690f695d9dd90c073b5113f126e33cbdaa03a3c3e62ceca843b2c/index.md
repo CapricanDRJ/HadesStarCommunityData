@@ -13,10 +13,11 @@ date: 1733025040
 
 
 ```
- This is (not) Cinderblock.
+This is (not) Cinderblock.
 
-WS only: Opt in to scan, only if you are willing to sacrifice 1 battleship and 1 support ship for 5 days.
-The Corporation's Discord = https://discord.gg/w2HZf2cwc2
+WS only: Opt in to scan, only if you are willing to sacrifice 1 battl
+eship and 1 support ship for 5 days.
+The Corporation's Discord = https://discord.gg/w2HZf2cwc2}
 ```
 ### Whitestar Bonus ✅
 

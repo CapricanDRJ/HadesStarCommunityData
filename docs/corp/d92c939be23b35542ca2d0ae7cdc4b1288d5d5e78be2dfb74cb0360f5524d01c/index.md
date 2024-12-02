@@ -13,7 +13,7 @@ date: 1724823432
 
 
 ```
- 本集团为<size=120>仙女座星雲</size>第七分团
+本集团为<size=120>仙女座星雲</size>第七分团
 集团总群<color=yellow>372337244</color> 
 这里有神器福利等你领取
 这里有专业的排队<size=100><color=red>BOT</color> 
@@ -22,15 +22,15 @@ date: 1724823432
 这里有全方位的培养体系
 无论红星，暗星，白星，蓝星
 这里是国服区对萌新最友好的集团
-期待你
+期待你}
 ```
 ### [Discord](https://discord.gg/snwFMgDPms)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1212 🔺  (431)|
-| ELO Competitive | 1227 🔺  (454)|
+| ELO Regular | 1212 🔺  (430)|
+| ELO Competitive | 1227 🔺  (455)|
 | Total Matches | 7 |
 | Wins | 4 |
 | Losses | 3 |

@@ -13,7 +13,7 @@ date: 1702699513
 
 
 ```
- Todos en otras corps:
+Todos en otras corps:
 Hay que jugar en equipo y dar ordenes
 NE:
 Andamos insano papi
@@ -23,13 +23,13 @@ Bresexo amen
 milicu 
 gaylor
 vayanse a la
-Discord: bS2yShvzDz
+Discord: bS2yShvzDz}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (783)|
+| ELO Regular | 1184 🔻  (784)|
 | ELO Competitive | 1184 🔻  (929)|
 | Total Matches | 1 |
 | Wins | 0 |

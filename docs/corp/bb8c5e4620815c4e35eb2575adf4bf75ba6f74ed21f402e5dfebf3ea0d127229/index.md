@@ -13,13 +13,13 @@ date: 1714595126
 
 
 ```
- This is a team building exercise
+This is a team building exercise}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (857)|
+| ELO Regular | 1176 🔻  (858)|
 | ELO Competitive | 1179 🔻  (983)|
 | Total Matches | 4 |
 | Wins | 1 |

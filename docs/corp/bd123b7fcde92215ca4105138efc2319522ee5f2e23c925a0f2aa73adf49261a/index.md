@@ -13,17 +13,17 @@ date: 1703944226
 
 
 ```
- <b>-Еженедельные походы на БЗ
+<b>-Еженедельные походы на БЗ
 -Регулярные частные КЗ</b>
 
 <color=#6666FF>DISCORD</color>: pdsQpqw3Wy
-<color=#1DA1F2>TELEGRAM</color>: Best_Corp
+<color=#1DA1F2>TELEGRAM</color>: Best_Corp}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (801)|
+| ELO Regular | 1183 🔻  (802)|
 | ELO Competitive | 1186 🔻  (805)|
 | Total Matches | 1 |
 | Wins | 0 |

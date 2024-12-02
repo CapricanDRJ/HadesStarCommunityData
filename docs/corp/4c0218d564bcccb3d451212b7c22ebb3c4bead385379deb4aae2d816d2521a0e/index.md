@@ -13,21 +13,21 @@ date: 1709177006
 
 
 ```
- 星空漫游者交流群
+星空漫游者交流群
 QQ群:663677762
 频道:https://kaihei.co/DaW35K
 加集团请同时加群
 白日放歌须纵酒,青春作伴好还乡
 萌新免费领神器福利～
 定期清理红点
-拒绝黑名单玩家
+拒绝黑名单玩家}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1234 🔺  (302)|
-| ELO Competitive | 1236 🔺  (418)|
+| ELO Competitive | 1236 🔺  (419)|
 | Total Matches | 4 |
 | Wins | 3 |
 | Losses | 1 |

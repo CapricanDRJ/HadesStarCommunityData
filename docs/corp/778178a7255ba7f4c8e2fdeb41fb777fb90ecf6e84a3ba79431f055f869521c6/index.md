@@ -13,8 +13,10 @@ date: 1707182127
 
 
 ```
- <I>Smiths of Creation! Forging steel nerves, as the ringing Star Anvil sings... 
-Chorus Of Hammers Tong! Take the Sirens bloody Relics! Spoils; Her crushing Novae Song</I>
+<I>Smiths of Creation! Forging steel nerves, as the ringing Star Anvi
+l sings... 
+Chorus Of Hammers Tong! Take the Sirens bloody Relics! Spoils; Her cr
+ushing Novae Song</I>}
 ```
 ### Whitestar Bonus ❌
 

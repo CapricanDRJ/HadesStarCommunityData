@@ -13,8 +13,8 @@ date: 1732880199
 
 
 ```
- United Fleet Operations:
-https://discord.gg/NuvtUTUxQj 
+United Fleet Operations:
+https://discord.gg/NuvtUTUxQj }
 ```
 ### Whitestar Bonus ✅
 

@@ -13,15 +13,15 @@ date: 1707724502
 
 
 ```
- Warlord retirement village.  Stay off my lawn!
+Warlord retirement village.  Stay off my lawn!
 discord or kick
-https://discord.gg/eMsE7sU
+https://discord.gg/eMsE7sU}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (793)|
+| ELO Regular | 1184 🔻  (794)|
 | ELO Competitive | 1187 🔻  (790)|
 | Total Matches | 1 |
 | Wins | 0 |

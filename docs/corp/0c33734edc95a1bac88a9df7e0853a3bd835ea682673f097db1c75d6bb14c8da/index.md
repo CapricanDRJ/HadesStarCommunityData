@@ -13,12 +13,13 @@ date: 1732710712
 
 
 ```
- IA1
+IA1
 
-A highly cooperative and competitive organization, bent on building the most elite force and the conquest of the known and unknown galaxy
+A highly cooperative and competitive organization, bent on building t
+he most elite force and the conquest of the known and unknown galaxy
 
 discord obligatory
-https://discord.gg/bAAYCqG2cE
+https://discord.gg/bAAYCqG2cE}
 ```
 ### [Discord](https://discord.gg/bAAYCqG2cE)
 ### Whitestar Bonus ❌

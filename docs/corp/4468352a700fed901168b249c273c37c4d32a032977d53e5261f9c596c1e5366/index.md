@@ -13,7 +13,7 @@ date: 1731222354
 
 
 ```
- Heads full of SMEG
+Heads full of SMEG}
 ```
 ### Whitestar Bonus ❌
 

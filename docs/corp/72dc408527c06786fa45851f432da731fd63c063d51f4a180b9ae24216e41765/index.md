@@ -13,10 +13,10 @@ date: 1720624874
 
 
 ```
- Please be active in chat.
+Please be active in chat.
 Help each other in Red Stars.
  Always ask for promotions, they will be reflected in performance.
-
+}
 ```
 ### Whitestar Bonus ❌
 

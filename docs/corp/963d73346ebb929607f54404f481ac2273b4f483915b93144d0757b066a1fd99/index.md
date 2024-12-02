@@ -13,7 +13,7 @@ date: 1732877795
 
 
 ```
- Академия IX Легиона.Дискорд в информации.Телеграм Вселенских: 
+Академия IX Легиона.Дискорд в информации.Телеграм Вселенских: }
 ```
 ### [Discord](https://discord.gg/fc2eg8hNJm)
 ### Whitestar Bonus ✅
@@ -21,7 +21,7 @@ date: 1732877795
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1127 🔺  (1179)|
-| ELO Competitive | 1228 🔺  (448)|
+| ELO Competitive | 1228 🔺  (449)|
 | Total Matches | 59 |
 | Wins | 24 |
 | Losses | 35 |

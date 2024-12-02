@@ -13,7 +13,7 @@ date: 1701301973
 
 
 ```
- <color=#00bfff>Tᴇʟᴇɢʀᴀᴍ:</color>   
+<color=#00bfff>Tᴇʟᴇɢʀᴀᴍ:</color>   }
 ```
 ### Whitestar Bonus ❌
 

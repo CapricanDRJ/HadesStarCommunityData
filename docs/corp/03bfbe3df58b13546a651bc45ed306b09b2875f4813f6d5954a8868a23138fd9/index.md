@@ -13,7 +13,7 @@ date: 1705760541
 
 
 ```
- Sucka free space initiative
+Sucka free space initiative
 
 Camaraderie is tops 
 
@@ -23,14 +23,14 @@ Proud Member of the Watchers Syndicate
 
 discord.gg/qz8kpgtj
 
-3 day inactivity kick
+3 day inactivity kick}
 ```
 ### [Discord](https://discord.gg/discord.gg/wd2GdBVAaa)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (895)|
+| ELO Regular | 1173 🔻  (896)|
 | ELO Competitive | 1178 🔻  (986)|
 | Total Matches | 4 |
 | Wins | 1 |

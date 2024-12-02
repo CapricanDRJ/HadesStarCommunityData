@@ -13,14 +13,16 @@ date: 1729018377
 
 
 ```
- После великой депресии в Созидании, идёт только вперёд ⭐ <b>Созидание 2.0</b> ⭐<br><br>Дружественные корпы:<br>Спутник, СОЮЗ, RUS, The Seperatists<br><br><color=red>ДС обязателен
+После великой депресии в Созидании, идёт только вперёд ⭐ <b>Созидание
+ 2.0</b> ⭐<br><br>Дружественные корпы:<br>Спутник, СОЮЗ, RUS, The Sep
+eratists<br><br><color=red>ДС обязателен}
 ```
 ### [Discord](https://discord.gg/eukzrdT88y)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1178 🔺  (847)|
+| ELO Regular | 1178 🔺  (848)|
 | ELO Competitive | 1195 🔺  (675)|
 | Total Matches | 27 |
 | Wins | 11 |

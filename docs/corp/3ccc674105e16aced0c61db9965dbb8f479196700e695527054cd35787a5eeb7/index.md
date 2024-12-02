@@ -13,7 +13,8 @@ date: 1711739765
 
 
 ```
- Buscamos nuevos integrantes, con nosotros tendrás apoyo y ayuda en todo. Listo para sumarte a nuestras filas?
+Buscamos nuevos integrantes, con nosotros tendrás apoyo y ayuda en to
+do. Listo para sumarte a nuestras filas?}
 ```
 ### Whitestar Bonus ❌
 

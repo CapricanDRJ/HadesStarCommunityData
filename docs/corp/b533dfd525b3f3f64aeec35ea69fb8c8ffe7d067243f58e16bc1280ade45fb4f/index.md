@@ -13,14 +13,14 @@ date: 1703246800
 
 
 ```
- Welcome to Star Dust.
+Welcome to Star Dust.
 
 We are an active group and play RS daily and WS weekly.
 No entries during WS. Plz apply later again.
 
 Beginners welcome, we support you to grow.
 
-https://discord.gg/WKdC8XW
+https://discord.gg/WKdC8XW}
 ```
 ### Whitestar Bonus ❌
 

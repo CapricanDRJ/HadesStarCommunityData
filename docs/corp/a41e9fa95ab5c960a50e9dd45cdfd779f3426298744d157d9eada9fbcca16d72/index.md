@@ -13,20 +13,21 @@ date: 1700164023
 
 
 ```
- We are a supportive and interactive Corporation.
+We are a supportive and interactive Corporation.
 
-We are also helpful and very active doing Red Stars and White Stars frequently. 
+We are also helpful and very active doing Red Stars and White Stars f
+requently. 
 
 Please join our Discord Server 
 https://discord.gg/Xt8tjjGdRD
-
+}
 ```
 ### [Discord](https://discord.gg/Xt8tjjGdRD)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (938)|
+| ELO Regular | 1171 🔻  (939)|
 | ELO Competitive | 1185 🔻  (873)|
 | Total Matches | 2 |
 | Wins | 0 |

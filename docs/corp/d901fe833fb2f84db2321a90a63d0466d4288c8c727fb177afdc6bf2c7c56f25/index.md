@@ -13,7 +13,8 @@ date: 1712508383
 
 
 ```
- <i>„Alles was ich kenne ist Logik." ~ Mr. Spock</i> Aufbau- und Zweit-Konzern von Terranova
+<i>„Alles was ich kenne ist Logik." ~ Mr. Spock</i> Aufbau- und Zweit
+-Konzern von Terranova}
 ```
 ### [Discord](https://discord.gg/8UCeWAHxKA)
 ### Whitestar Bonus ❌

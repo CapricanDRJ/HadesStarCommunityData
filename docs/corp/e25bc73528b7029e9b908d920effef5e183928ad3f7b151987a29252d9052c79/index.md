@@ -13,7 +13,8 @@ date: 1708438086
 
 
 ```
- join to chill, get help with red stars, or help us run white stars. discord required.
+join to chill, get help with red stars, or help us run white stars. d
+iscord required.}
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/zZf6cHbv)
 ### Whitestar Bonus ❌
@@ -21,7 +22,7 @@ date: 1708438086
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1238 🔺  (285)|
-| ELO Competitive | 1239 🔺  (410)|
+| ELO Competitive | 1239 🔺  (411)|
 | Total Matches | 5 |
 | Wins | 4 |
 | Losses | 1 |

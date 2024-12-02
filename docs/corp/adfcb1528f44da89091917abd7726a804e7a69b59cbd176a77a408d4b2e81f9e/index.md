@@ -13,19 +13,19 @@ date: 1703552345
 
 
 ```
- <b><color=#4595A4><size=70>꧁FEÐERAŦI0N༒VERSAILES꧂</size></color>
+<b><color=#4595A4><size=70>꧁FEÐERAŦI0N༒VERSAILES꧂</size></color>
 <color=# F9FAEC>Corporation to have fun and enjoy
    -hosted by ShadowSun
 
 Language: English-Spanish
-Discord: pxSK3vbe</color></b>
+Discord: pxSK3vbe</color></b>}
 ```
 ### [Discord](https://discord.gg/discord.gg/pxSK3vbe)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1211 🔻  (434)|
+| ELO Regular | 1211 🔻  (433)|
 | ELO Competitive | 1212 🔻  (559)|
 | Total Matches | 3 |
 | Wins | 2 |

@@ -13,11 +13,11 @@ date: 1728565791
 
 
 ```
- Rise, champion! Join the space shrimp legion
+Rise, champion! Join the space shrimp legion
 Looking for active whitestar players
 Season 56: 6 wins 0 loses
 Season 57: 5 wins 1 loses
-Season 58: 3 wins 1 loses
+Season 58: 3 wins 1 loses}
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/dEGkUskt)
 ### Whitestar Bonus ❌

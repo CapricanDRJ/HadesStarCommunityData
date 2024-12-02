@@ -13,7 +13,9 @@ date: 1722430732
 
 
 ```
- due to lack of contact with 1st officer, we recommend leaving this corp. You are most welcome to join the new corp: QONQR (all letters upper case). Thank you :)
+due to lack of contact with 1st officer, we recommend leaving this co
+rp. You are most welcome to join the new corp: QONQR (all letters upp
+er case). Thank you :)}
 ```
 ### Whitestar Bonus ❌
 

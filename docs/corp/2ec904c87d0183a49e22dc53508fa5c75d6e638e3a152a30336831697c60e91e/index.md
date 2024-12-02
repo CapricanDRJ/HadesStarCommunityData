@@ -13,7 +13,7 @@ date: 1726728458
 
 
 ```
- just relax, bro.
+just relax, bro.}
 ```
 ### Whitestar Bonus ❌
 

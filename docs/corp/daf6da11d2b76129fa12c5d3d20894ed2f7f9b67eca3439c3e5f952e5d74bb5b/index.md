@@ -13,14 +13,15 @@ date: 1725116439
 
 
 ```
- <color=#BDC100><b><size=130>OMEGA <color=#FDFF92>Ω</color> NATION</size></b></color>
+<color=#BDC100><b><size=130>OMEGA <color=#FDFF92>Ω</color> NATION</si
+ze></b></color>}
 ```
 ### [Discord](https://discord.gg/dnjPZnSfEP)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (867)|
+| ELO Regular | 1175 🔻  (868)|
 | ELO Competitive | 1180 🔻  (975)|
 | Total Matches | 2 |
 | Wins | 0 |

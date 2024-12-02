@@ -13,7 +13,7 @@ date: 1706068866
 
 
 ```
- This corporation is no longer active.
+This corporation is no longer active.}
 ```
 ### Whitestar Bonus ❌
 

@@ -13,13 +13,13 @@ date: 1719370177
 
 
 ```
- Mighty Morphin' Power Rangers
+Mighty Morphin' Power Rangers}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔺  (406)|
+| ELO Regular | 1214 🔺  (405)|
 | ELO Competitive | 1223 🔺  (473)|
 | Total Matches | 1 |
 | Wins | 1 |

@@ -13,13 +13,13 @@ date: 1700546696
 
 
 ```
- Charter and Comander
+Charter and Comander}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (935)|
+| ELO Regular | 1171 🔻  (936)|
 | ELO Competitive | 1171 🔻  (1081)|
 | Total Matches | 2 |
 | Wins | 0 |

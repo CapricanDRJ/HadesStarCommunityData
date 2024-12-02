@@ -13,13 +13,13 @@ date: 1708606362
 
 
 ```
- <color=cyan><size=99>E.T.A溫泉開放</size></color>
+<color=cyan><size=99>E.T.A溫泉開放</size></color>
 群聊可有可無:<color=green>587560494</color>
 <b>黑色長城</b><size=20>萌新加這個</size>:<color=green>456873704</color>
 攻略放在群裡，萌新不懂可以問
 村規:
 <a>○私人不拉截擊
-○公共 公屏 外群隨便鬧我們都不管。</a>
+○公共 公屏 外群隨便鬧我們都不管。</a>}
 ```
 ### Whitestar Bonus ❌
 

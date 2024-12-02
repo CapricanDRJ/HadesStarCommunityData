@@ -13,9 +13,9 @@ date: 1732735957
 
 
 ```
- ΜΟΛΩΝ ΛΑΒΕ!
+ΜΟΛΩΝ ΛΑΒΕ!
 
-https://discord.gg/DDhaupc
+https://discord.gg/DDhaupc}
 ```
 ### [Discord](https://discord.gg/DDhaupc)
 ### Whitestar Bonus ✅

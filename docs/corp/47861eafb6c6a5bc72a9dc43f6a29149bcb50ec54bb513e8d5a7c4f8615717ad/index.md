@@ -13,13 +13,13 @@ date: 1705138180
 
 
 ```
- UK group, active through the day. New players welcome.
+UK group, active through the day. New players welcome.}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔻  (950)|
+| ELO Regular | 1170 🔻  (951)|
 | ELO Competitive | 1170 🔻  (1091)|
 | Total Matches | 2 |
 | Wins | 0 |

@@ -13,15 +13,17 @@ date: 1714044555
 
 
 ```
- <b>Proud member of the UIH!</b>                                              Discord is mandatory!                                           Visit on Discord to join: discord.gg/vPsNNxs
+<b>Proud member of the UIH!</b>                                      
+        Discord is mandatory!                                        
+   Visit on Discord to join: discord.gg/vPsNNxs}
 ```
 ### [Discord](https://discord.gg/vPsNNxs)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔻  (813)|
-| ELO Competitive | 1234 🔻  (427)|
+| ELO Regular | 1182 🔻  (814)|
+| ELO Competitive | 1234 🔻  (428)|
 | Total Matches | 21 |
 | Wins | 10 |
 | Losses | 10 |

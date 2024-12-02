@@ -13,13 +13,13 @@ date: 1724029522
 
 
 ```
- Because you can't solo White Stars. https://discord.gg/GWA38Gx
+Because you can't solo White Stars. https://discord.gg/GWA38Gx}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔻  (818)|
+| ELO Regular | 1182 🔻  (819)|
 | ELO Competitive | 1187 🔻  (784)|
 | Total Matches | 1 |
 | Wins | 0 |

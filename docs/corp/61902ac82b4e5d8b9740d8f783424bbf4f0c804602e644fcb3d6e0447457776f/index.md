@@ -13,7 +13,8 @@ date: 1732905148
 
 
 ```
- Have 401 K, dental, 0 days off, plenty of overtime, child labor recommended, & remember you are expendable, we love you
+Have 401 K, dental, 0 days off, plenty of overtime, child labor recom
+mended, & remember you are expendable, we love you}
 ```
 ### Whitestar Bonus ✅
 

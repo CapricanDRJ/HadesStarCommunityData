@@ -13,18 +13,18 @@ date: 1700089470
 
 
 ```
- ~ casual corp ~
+~ casual corp ~
 we do WS seriously, but not exactly hardcore
 discord isn't mandatory, but highly encouraged
 WS player: <color="#ffea4a">discord required</color>
 established '18
-
+}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (789)|
+| ELO Regular | 1184 🔻  (790)|
 | ELO Competitive | 1184 🔻  (926)|
 | Total Matches | 1 |
 | Wins | 0 |

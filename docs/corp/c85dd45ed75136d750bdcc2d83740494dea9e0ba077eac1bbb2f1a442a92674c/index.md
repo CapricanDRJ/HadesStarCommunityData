@@ -13,7 +13,7 @@ date: 1731747642
 
 
 ```
- <color=yellow>U.I.H. Corp.</color>
+<color=yellow>U.I.H. Corp.</color>
 Corvus Ind 🤍 
 
 New players welcomed!
@@ -21,7 +21,7 @@ New players welcomed!
 Join via Discord: <color=yellow> https://discord.gg/vPsNNxs </color>
 
 Discord MANDATORY.
-We have awesome queue for rs runs!
+We have awesome queue for rs runs!}
 ```
 ### [Discord](https://discord.gg/vPsNNxs)
 ### Whitestar Bonus ❌

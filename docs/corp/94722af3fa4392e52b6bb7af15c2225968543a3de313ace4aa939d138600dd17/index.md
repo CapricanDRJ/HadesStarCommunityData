@@ -13,12 +13,12 @@ date: 1704925417
 
 
 ```
- <b><size=90><color=#9d80b3></color></size></b>
+<b><size=90><color=#9d80b3></color></size></b>
   ○  Weekly WS with strong coordination
   ○  Recruiting disciplined players
   ○  Discord required
 <color=#dadde7>
-
+}
 ```
 ### Whitestar Bonus ❌
 

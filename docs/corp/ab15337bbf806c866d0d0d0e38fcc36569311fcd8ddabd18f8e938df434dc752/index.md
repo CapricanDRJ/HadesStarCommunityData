@@ -13,14 +13,14 @@ date: 1705425169
 
 
 ```
- Be friendly and respectful to one another.
-Requirement: Active and have fun.
+Be friendly and respectful to one another.
+Requirement: Active and have fun.}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺  (376)|
+| ELO Regular | 1216 🔺  (375)|
 | ELO Competitive | 1216 🔺  (509)|
 | Total Matches | 3 |
 | Wins | 2 |

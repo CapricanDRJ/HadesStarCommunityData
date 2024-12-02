@@ -13,14 +13,16 @@ date: 1723586519
 
 
 ```
- Zapraszamy aktywnych graczy :) 
-Osoby z niskim lvl zbudujcie stację dyplomatyczną. Ci z nas z wyższym lvl udzielą wtedy wsparcia pomagając oczyścić wasz układ z Cerberów i udostępnić lepsze artefakty.
+Zapraszamy aktywnych graczy :) 
+Osoby z niskim lvl zbudujcie stację dyplomatyczną. Ci z nas z wyższym
+ lvl udzielą wtedy wsparcia pomagając oczyścić wasz układ z Cerberów 
+i udostępnić lepsze artefakty.}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (825)|
+| ELO Regular | 1181 🔻  (826)|
 | ELO Competitive | 1186 🔻  (858)|
 | Total Matches | 1 |
 | Wins | 0 |

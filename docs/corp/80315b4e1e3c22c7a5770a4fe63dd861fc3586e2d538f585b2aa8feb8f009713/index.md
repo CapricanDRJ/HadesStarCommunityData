@@ -13,18 +13,18 @@ date: 1703139429
 
 
 ```
- 听指挥 打胜仗 共富裕 
+听指挥 打胜仗 共富裕 
 创始人 ：YuKing  水煮牛排
 来了就是一家人ԅ(¯ㅂ¯ԅ)
 QQ群：362076387，申请前请加入QQ群
 禁止黑名单进入。          黑名单：MPW-1594
-开心玩嗷，各位！
+开心玩嗷，各位！}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (877)|
+| ELO Regular | 1174 🔻  (878)|
 | ELO Competitive | 1174 🔻  (1028)|
 | Total Matches | 2 |
 | Wins | 0 |

@@ -13,13 +13,13 @@ date: 1718909844
 
 
 ```
- fuck you spy
+fuck you spy}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔻  (817)|
+| ELO Regular | 1182 🔻  (818)|
 | ELO Competitive | 1185 🔻  (864)|
 | Total Matches | 1 |
 | Wins | 0 |

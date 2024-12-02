@@ -13,7 +13,8 @@ date: 1732328804
 
 
 ```
- Corp. designed primarily for WS players of any level advanced to just starting. 
+Corp. designed primarily for WS players of any level advanced to just
+ starting. }
 ```
 ### [Discord](https://discord.gg/XQ4BnnSKvC)
 ### Whitestar Bonus ❌

@@ -13,13 +13,13 @@ date: 1727168157
 
 
 ```
- 成熟 就是慢火熬煮心脏的过程，人成长了, 心也死了  QQ群 638804576  咸鱼养老
+成熟 就是慢火熬煮心脏的过程，人成长了, 心也死了  QQ群 638804576  咸鱼养老}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (779)|
+| ELO Regular | 1184 🔻  (780)|
 | ELO Competitive | 1188 🔻  (767)|
 | Total Matches | 1 |
 | Wins | 0 |

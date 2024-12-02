@@ -13,10 +13,10 @@ date: 1703655723
 
 
 ```
- Welcome, my friends...
+Welcome, my friends...
 Welcome, my enemies...
 Welcome, everyone... ;))
-https://discord.gg/TJuKzyR
+https://discord.gg/TJuKzyR}
 ```
 ### Whitestar Bonus ❌
 

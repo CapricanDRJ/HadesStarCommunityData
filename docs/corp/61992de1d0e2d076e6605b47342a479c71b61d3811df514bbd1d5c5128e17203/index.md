@@ -13,17 +13,17 @@ date: 1714870056
 
 
 ```
- どなたでも歓迎致します。
+どなたでも歓迎致します。
 のんびりプレイが好きな人向き。
 新人さんでもご参加いただけます。
 
-https://discord.gg/95F5HQa
+https://discord.gg/95F5HQa}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1180 🔻  (835)|
+| ELO Regular | 1180 🔻  (836)|
 | ELO Competitive | 1183 🔻  (957)|
 | Total Matches | 3 |
 | Wins | 1 |

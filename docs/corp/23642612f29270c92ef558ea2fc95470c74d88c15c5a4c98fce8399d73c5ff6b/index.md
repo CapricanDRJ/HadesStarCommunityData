@@ -13,10 +13,10 @@ date: 1699812407
 
 
 ```
- Recruitment and Training wing for Game of Stars Corp.
+Recruitment and Training wing for Game of Stars Corp.
 All levels welcome
 Necessary training and advise provided.
-Discord server :
+Discord server :}
 ```
 ### Whitestar Bonus ❌
 

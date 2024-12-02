@@ -13,13 +13,13 @@ date: 1728719053
 
 
 ```
- Arrogant people are not allowed to enter.傲慢者禁止入内 （2024.10.1）
+Arrogant people are not allowed to enter.傲慢者禁止入内 （2024.10.1）}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1217 🔺  (370)|
+| ELO Regular | 1217 🔺  (369)|
 | ELO Competitive | 1222 🔺  (477)|
 | Total Matches | 1 |
 | Wins | 1 |

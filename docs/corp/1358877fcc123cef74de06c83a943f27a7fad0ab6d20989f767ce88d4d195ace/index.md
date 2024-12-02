@@ -13,11 +13,11 @@ date: 1733048773
 
 
 ```
- Рим анархиста.
+Рим анархиста.
 ▼ Посильная благотворительность
 ▼ Красные звёзды 2-9
 ▼ Белые звёзды - без ограничений
-Telegram обязателен для вступления: https://t.me/DogDogDog10
+Telegram обязателен для вступления: https://t.me/DogDogDog10}
 ```
 ### [Discord](https://discord.gg/HmcXJFdWGC)
 ### Whitestar Bonus ✅

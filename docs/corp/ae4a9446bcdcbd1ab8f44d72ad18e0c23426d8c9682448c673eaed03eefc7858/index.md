@@ -13,13 +13,13 @@ date: 1705511417
 
 
 ```
- 初心者歓迎　　　　　入退はお気軽に　　　　質問だけでもOK
+初心者歓迎　　　　　入退はお気軽に　　　　質問だけでもOK}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1215 🔺  (389)|
+| ELO Regular | 1215 🔺  (388)|
 | ELO Competitive | 1217 🔺  (504)|
 | Total Matches | 1 |
 | Wins | 1 |

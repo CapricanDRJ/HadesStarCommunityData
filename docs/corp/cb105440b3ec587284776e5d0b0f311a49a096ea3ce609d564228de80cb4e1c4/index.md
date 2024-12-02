@@ -13,9 +13,9 @@ date: 1717392827
 
 
 ```
- Anfänger willkommen. Erfahrene Spieler helfen und geben Tips.
+Anfänger willkommen. Erfahrene Spieler helfen und geben Tips.
 
-https://discord.gg/EKJFqvs7XA
+https://discord.gg/EKJFqvs7XA}
 ```
 ### Whitestar Bonus ❌
 

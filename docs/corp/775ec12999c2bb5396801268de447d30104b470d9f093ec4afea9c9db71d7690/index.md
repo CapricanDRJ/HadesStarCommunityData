@@ -13,9 +13,9 @@ date: 1701973393
 
 
 ```
- <color=red>• Ежедневные походы на КЗ 9-11</color>
+<color=red>• Ежедневные походы на КЗ 9-11</color>
 <color=white>• Еженедельные походы на БЗ</color>
-<color=purple>• Чат в TG</color>
+<color=purple>• Чат в TG</color>}
 ```
 ### [Discord](https://discord.gg/tFTT3b8H)
 ### Whitestar Bonus ❌

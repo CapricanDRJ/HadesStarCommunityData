@@ -13,16 +13,17 @@ date: 1700156206
 
 
 ```
- Que el mundo sepa que somos peligrosos. Somos leones, y los leones no pactan con los hombres. 
+Que el mundo sepa que somos peligrosos. Somos leones, y los leones no
+ pactan con los hombres. 
 ▪︎7 días inactivo sin aviso: expulsión. 
 ▪︎WhatsApp obligatorio para EB
-▪Si buscas pelea, esta es tu corp
+▪Si buscas pelea, esta es tu corp}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (900)|
+| ELO Regular | 1172 🔻  (901)|
 | ELO Competitive | 1187 🔻  (800)|
 | Total Matches | 2 |
 | Wins | 0 |

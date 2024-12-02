@@ -13,19 +13,20 @@ date: 1701466685
 
 
 ```
- Wir sind Austria!
-Wir haben die schönsten Waldstädte, die explosivsten Bäume und die bärigsten Typen. 
+Wir sind Austria!
+Wir haben die schönsten Waldstädte, die explosivsten Bäume und die bä
+rigsten Typen. 
 
 Wir sind Teil der Tartaros Armada. 
 
 Discordpflicht!
-UmWZYtn9Hh
+UmWZYtn9Hh}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 🔻  (488)|
+| ELO Regular | 1201 🔻  (487)|
 | ELO Competitive | 1201 🔻  (604)|
 | Total Matches | 4 |
 | Wins | 2 |

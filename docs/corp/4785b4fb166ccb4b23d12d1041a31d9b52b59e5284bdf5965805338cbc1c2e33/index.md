@@ -13,15 +13,15 @@ date: 1710067336
 
 
 ```
- Right BS
+Right BS
 Left trans
-Centre mine
+Centre mine}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔺  (865)|
+| ELO Regular | 1175 🔺  (866)|
 | ELO Competitive | 1182 🔺  (958)|
 | Total Matches | 4 |
 | Wins | 1 |

@@ -13,15 +13,15 @@ date: 1732190565
 
 
 ```
- Anyone active welcome to join.
+Anyone active welcome to join.
 
-https://discord.gg/p5GSVDDrSc
+https://discord.gg/p5GSVDDrSc}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (925)|
+| ELO Regular | 1171 🔻  (926)|
 | ELO Competitive | 1173 🔻  (1046)|
 | Total Matches | 3 |
 | Wins | 0 |

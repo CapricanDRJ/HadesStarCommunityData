@@ -13,7 +13,9 @@ date: 1728870811
 
 
 ```
- - BRASIL STAR - <br>Bem vindos!<br><br> Fazemos WS, RS, DRS.<br> Ajudamos novos integrantes, peça para colocarem no grupo de WhatsApp aqui no chat.
+- BRASIL STAR - <br>Bem vindos!<br><br> Fazemos WS, RS, DRS.<br> Ajud
+amos novos integrantes, peça para colocarem no grupo de WhatsApp aqui
+ no chat.}
 ```
 ### [Discord](https://discord.gg/MV5xAcu9Vz)
 ### Whitestar Bonus ❌

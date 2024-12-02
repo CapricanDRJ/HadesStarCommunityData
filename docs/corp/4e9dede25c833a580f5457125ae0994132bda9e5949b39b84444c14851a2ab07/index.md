@@ -13,7 +13,9 @@ date: 1701262893
 
 
 ```
- NOTE: the primary active members of this corporation have relocated to Proyectcorp. If you are looking to learn the game please join that corporation. 
+NOTE: the primary active members of this corporation have relocated t
+o Proyectcorp. If you are looking to learn the game please join that 
+corporation. }
 ```
 ### Whitestar Bonus ❌
 

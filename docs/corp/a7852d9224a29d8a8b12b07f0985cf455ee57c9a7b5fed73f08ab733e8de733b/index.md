@@ -13,13 +13,13 @@ date: 1731180289
 
 
 ```
- Окупаційна Адміністрація Імперії Борос
+Окупаційна Адміністрація Імперії Борос}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1205 🔻  (465)|
+| ELO Regular | 1205 🔻  (464)|
 | ELO Competitive | 1225 🔻  (463)|
 | Total Matches | 13 |
 | Wins | 6 |

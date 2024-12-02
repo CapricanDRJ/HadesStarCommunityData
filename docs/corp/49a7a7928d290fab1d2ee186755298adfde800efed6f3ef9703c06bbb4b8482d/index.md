@@ -13,14 +13,14 @@ date: 1729093206
 
 
 ```
- рады всем адекватам) 
-наша телега @divanguardian удачной игры)
+рады всем адекватам) 
+наша телега @divanguardian удачной игры)}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔻  (971)|
+| ELO Regular | 1168 🔻  (972)|
 | ELO Competitive | 1191 🔺  (725)|
 | Total Matches | 4 |
 | Wins | 1 |

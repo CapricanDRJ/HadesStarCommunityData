@@ -13,14 +13,14 @@ date: 1708982290
 
 
 ```
- Head over to WompWompWay
+Head over to WompWompWay}
 ```
 ### [Discord](https://discord.gg/5KCND3wuds)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1213 🔻  (413)|
+| ELO Regular | 1213 🔻  (412)|
 | ELO Competitive | 1216 🔻  (513)|
 | Total Matches | 3 |
 | Wins | 2 |

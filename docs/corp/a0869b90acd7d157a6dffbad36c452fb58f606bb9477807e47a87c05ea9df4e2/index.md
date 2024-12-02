@@ -13,20 +13,20 @@ date: 1707024506
 
 
 ```
- Herzlich Willkommen,
+Herzlich Willkommen,
 hier herrscht ein lockeres und entspanntes Miteinander.
 
 Wir Fliegen von klein bis größer
 RR0--6.
 
 Jetzt auch mit discord! 
-https://discord.gg/K3TTj9ED
+https://discord.gg/K3TTj9ED}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (883)|
+| ELO Regular | 1174 🔻  (884)|
 | ELO Competitive | 1174 🔻  (1025)|
 | Total Matches | 2 |
 | Wins | 0 |

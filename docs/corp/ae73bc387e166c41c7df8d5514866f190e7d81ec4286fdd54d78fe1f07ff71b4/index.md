@@ -13,14 +13,15 @@ date: 1728186229
 
 
 ```
- <size=60><color=blue><b>欢迎来到银星</b>，招活跃，打白的，<b>别捐旗舰</b>，银星Q群593825620  免费r7，帮打红星（r6及以下）
+<size=60><color=blue><b>欢迎来到银星</b>，招活跃，打白的，<b>别捐旗舰</b>，银星Q群593825620 
+ 免费r7，帮打红星（r6及以下）}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1231 🔻  (306)|
-| ELO Competitive | 1236 🔻  (417)|
+| ELO Competitive | 1236 🔻  (418)|
 | Total Matches | 4 |
 | Wins | 3 |
 | Losses | 1 |

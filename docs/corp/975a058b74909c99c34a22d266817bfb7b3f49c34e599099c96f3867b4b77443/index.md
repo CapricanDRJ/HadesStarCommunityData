@@ -13,14 +13,15 @@ date: 1712762885
 
 
 ```
- A friendly group dedicated to working together to advance in this game. 
-
+A friendly group dedicated to working together to advance in this gam
+e. 
+}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (890)|
+| ELO Regular | 1173 🔻  (891)|
 | ELO Competitive | 1173 🔻  (1039)|
 | Total Matches | 2 |
 | Wins | 0 |

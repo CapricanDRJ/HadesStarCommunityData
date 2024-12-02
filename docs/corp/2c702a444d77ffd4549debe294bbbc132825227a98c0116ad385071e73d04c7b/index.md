@@ -13,13 +13,13 @@ date: 1711149196
 
 
 ```
- 萌新
+萌新}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1217 🔺  (365)|
+| ELO Regular | 1217 🔺  (364)|
 | ELO Competitive | 1217 🔺  (498)|
 | Total Matches | 1 |
 | Wins | 1 |

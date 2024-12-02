@@ -13,13 +13,13 @@ date: 1718228706
 
 
 ```
- 已解放
+已解放}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (781)|
+| ELO Regular | 1184 🔻  (782)|
 | ELO Competitive | 1215 🔻  (529)|
 | Total Matches | 4 |
 | Wins | 1 |

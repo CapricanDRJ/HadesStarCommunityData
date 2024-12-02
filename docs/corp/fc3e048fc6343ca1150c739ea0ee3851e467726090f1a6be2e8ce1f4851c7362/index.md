@@ -13,7 +13,8 @@ date: 1732952621
 
 
 ```
- <size=80><color=#9efee4>Принимаем новых игроков .Russia/Рады всем (без политы)</color></size> https://t.me/+3Wo6TqB6SStmZDBi
+<size=80><color=#9efee4>Принимаем новых игроков .Russia/Рады всем (бе
+з политы)</color></size> https://t.me/+3Wo6TqB6SStmZDBi}
 ```
 ### [Discord](https://discord.gg/hn2S7qy58g)
 ### Whitestar Bonus ❌

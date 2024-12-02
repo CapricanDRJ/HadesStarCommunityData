@@ -13,14 +13,15 @@ date: 1709557424
 
 
 ```
- <size=70><color=#48a9a9>www.DISCORD.gg/cr67TAf</color></size> We are not active lately. the best times for us passed by.
-we came to relaxed ws
+<size=70><color=#48a9a9>www.DISCORD.gg/cr67TAf</color></size> We are 
+not active lately. the best times for us passed by.
+we came to relaxed ws}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1177 🔻  (851)|
+| ELO Regular | 1177 🔻  (852)|
 | ELO Competitive | 1177 🔻  (993)|
 | Total Matches | 1 |
 | Wins | 0 |

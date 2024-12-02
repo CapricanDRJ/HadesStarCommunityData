@@ -13,7 +13,7 @@ date: 1733083637
 
 
 ```
- Home for travelers across the multiverse
+Home for travelers across the multiverse}
 ```
 ### Whitestar Bonus ❌
 

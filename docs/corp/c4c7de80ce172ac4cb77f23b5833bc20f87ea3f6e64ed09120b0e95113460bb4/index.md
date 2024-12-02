@@ -13,7 +13,9 @@ date: 1732425560
 
 
 ```
- <b><color=green><size=70>~Imperio Estelar~</size></color></b><b><color=purple><size=50>                       🪐🌌..."El qué Persevera Alcanza"...🌌🪐<b><color=red><size=95>    La Unión nos Fortalece
+<b><color=green><size=70>~Imperio Estelar~</size></color></b><b><colo
+r=purple><size=50>                       🪐🌌..."El qué Persevera Alc
+anza"...🌌🪐<b><color=red><size=95>    La Unión nos Fortalece}
 ```
 ### Whitestar Bonus ❌
 

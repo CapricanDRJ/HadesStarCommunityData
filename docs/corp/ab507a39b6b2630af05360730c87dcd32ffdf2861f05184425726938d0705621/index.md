@@ -13,15 +13,15 @@ date: 1707867594
 
 
 ```
- Our learning Corp for New players!
+Our learning Corp for New players!
 If you're interested in joining our discord: discord.gg/4TMBCed
-We’re a BIG family! ~ V
+We’re a BIG family! ~ V}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (766)|
+| ELO Regular | 1184 🔻  (767)|
 | ELO Competitive | 1184 🔻  (923)|
 | Total Matches | 1 |
 | Wins | 0 |

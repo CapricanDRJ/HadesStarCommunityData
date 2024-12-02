@@ -13,7 +13,7 @@ date: 1732697191
 
 
 ```
- ссылка  на группу  в телеграм :  https://t.me/+df2dk6xC7QM4ZWZi
+ссылка  на группу  в телеграм :  https://t.me/+df2dk6xC7QM4ZWZi}
 ```
 ### Whitestar Bonus ❌
 

@@ -13,10 +13,11 @@ date: 1699212259
 
 
 ```
- Chevalier de l'espace,rejoins nous dans la conquête de la galaxie d'Hadès. Entraide,tuto et bonne humeur. Ws régulière.Rs6->Rs10
+Chevalier de l'espace,rejoins nous dans la conquête de la galaxie d'H
+adès. Entraide,tuto et bonne humeur. Ws régulière.Rs6->Rs10
 Conglomérat:G&B
 Corp:Bien Suprême/Guilde Richnou
-discord: 4BhWJjk
+discord: 4BhWJjk}
 ```
 ### Whitestar Bonus ❌
 

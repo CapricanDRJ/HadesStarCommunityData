@@ -13,15 +13,15 @@ date: 1710338957
 
 
 ```
- New Corp looking for some regular playing members. 
+New Corp looking for some regular playing members. 
 
-https://discord.gg/geRShvzM89
+https://discord.gg/geRShvzM89}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (823)|
+| ELO Regular | 1181 🔻  (824)|
 | ELO Competitive | 1189 🔻  (746)|
 | Total Matches | 8 |
 | Wins | 3 |

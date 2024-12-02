@@ -13,13 +13,15 @@ date: 1712005979
 
 
 ```
- WE WANT YOUR ARTS, & RELICS! RS, & WS, casual. Discord: Obsolete. FS donations, unnecessary. Live Long, & Prosper!🖖 (English speaking) HELP GUIDE @ https://userxinos.github.io/HadesSpace/
+WE WANT YOUR ARTS, & RELICS! RS, & WS, casual. Discord: Obsolete. FS 
+donations, unnecessary. Live Long, & Prosper!🖖 (English speaking) HE
+LP GUIDE @ https://userxinos.github.io/HadesSpace/}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1217 🔻  (368)|
+| ELO Regular | 1217 🔻  (367)|
 | ELO Competitive | 1223 🔻  (471)|
 | Total Matches | 8 |
 | Wins | 4 |

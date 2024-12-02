@@ -13,15 +13,15 @@ date: 1709890357
 
 
 ```
- Бурятия
+Бурятия
 
-vk.com/kedr_sh
+vk.com/kedr_sh}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (764)|
+| ELO Regular | 1184 🔻  (765)|
 | ELO Competitive | 1184 🔻  (922)|
 | Total Matches | 1 |
 | Wins | 0 |

@@ -13,7 +13,7 @@ date: 1708721463
 
 
 ```
- Strong but charm
+Strong but charm}
 ```
 ### Whitestar Bonus ❌
 

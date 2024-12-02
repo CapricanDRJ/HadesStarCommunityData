@@ -13,17 +13,17 @@ date: 1716685502
 
 
 ```
- Just a friendly group of peeps
+Just a friendly group of peeps
 White Star mondays 
 
 Discord Optional:
-https://discord.gg/SCWbttfZbU
+https://discord.gg/SCWbttfZbU}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (966)|
+| ELO Regular | 1169 🔻  (967)|
 | ELO Competitive | 1172 🔻  (1058)|
 | Total Matches | 4 |
 | Wins | 0 |

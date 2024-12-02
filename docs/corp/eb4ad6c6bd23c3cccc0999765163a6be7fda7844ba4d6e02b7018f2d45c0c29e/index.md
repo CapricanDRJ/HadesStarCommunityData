@@ -13,14 +13,15 @@ date: 1701864292
 
 
 ```
- Corpo FR active et vivante ! Recherche nouveaux membres actifs et intérésés pour continuer le jeu avec nous. 
+Corpo FR active et vivante ! Recherche nouveaux membres actifs et int
+érésés pour continuer le jeu avec nous. }
 ```
 ### [Discord](https://discord.gg/RKV9fSX3)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (914)|
+| ELO Regular | 1171 🔻  (915)|
 | ELO Competitive | 1171 🔻  (1066)|
 | Total Matches | 2 |
 | Wins | 0 |

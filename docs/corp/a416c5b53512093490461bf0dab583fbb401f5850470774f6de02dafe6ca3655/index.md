@@ -13,7 +13,9 @@ date: 1731687844
 
 
 ```
- 恒星系70%是星区，30%是星球，但是整个哈迪斯宇宙都属于我们！                                                70% of the star system is a star region and 30% is a planet, but the whole Hades universe belongs to us!
+恒星系70%是星区，30%是星球，但是整个哈迪斯宇宙都属于我们！                                     
+           70% of the star system is a star region and 30% is a plane
+t, but the whole Hades universe belongs to us!}
 ```
 ### Whitestar Bonus ❌
 

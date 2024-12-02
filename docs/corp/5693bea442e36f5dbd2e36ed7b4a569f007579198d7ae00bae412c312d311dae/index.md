@@ -13,15 +13,15 @@ date: 1732766810
 
 
 ```
- Lets WiN all white Stars
+Lets WiN all white Stars}
 ```
 ### [Discord](https://discord.gg/Nope)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1213 🔺  (420)|
-| ELO Competitive | 1225 🔺  (460)|
+| ELO Regular | 1213 🔺  (419)|
+| ELO Competitive | 1225 🔺  (461)|
 | Total Matches | 14 |
 | Wins | 7 |
 | Losses | 7 |

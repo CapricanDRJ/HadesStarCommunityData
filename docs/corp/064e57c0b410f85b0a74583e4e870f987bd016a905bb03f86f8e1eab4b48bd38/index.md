@@ -13,8 +13,8 @@ date: 1700618828
 
 
 ```
- Copyright (c) 2017. All rights reversed.
-Glory to Ukraine!
+Copyright (c) 2017. All rights reversed.
+Glory to Ukraine!}
 ```
 ### Whitestar Bonus ❌
 

@@ -13,7 +13,7 @@ date: 1728149871
 
 
 ```
- 本集团遵守友好互助，互相尊重的原则，任何人在遇到困难时可以寻求帮助，本团积极招新     qq群号：247609296
+本集团遵守友好互助，互相尊重的原则，任何人在遇到困难时可以寻求帮助，本团积极招新     qq群号：247609296}
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/8fywYsc3)
 ### Whitestar Bonus ❌

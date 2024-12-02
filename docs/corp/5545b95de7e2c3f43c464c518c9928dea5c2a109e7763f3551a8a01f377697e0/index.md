@@ -13,13 +13,13 @@ date: 1732870893
 
 
 ```
- para todos los patriotas
+para todos los patriotas}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (911)|
+| ELO Regular | 1172 🔻  (912)|
 | ELO Competitive | 1178 🔻  (987)|
 | Total Matches | 2 |
 | Wins | 0 |

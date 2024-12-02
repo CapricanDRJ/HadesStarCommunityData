@@ -13,7 +13,8 @@ date: 1700408082
 
 
 ```
- Easy going fun. Must be active, respectful and enjoy a laugh. Over 20 years old only. 
+Easy going fun. Must be active, respectful and enjoy a laugh. Over 20
+ years old only. }
 ```
 ### Whitestar Bonus ❌
 

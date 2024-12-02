@@ -13,14 +13,15 @@ date: 1711126201
 
 
 ```
- a Corp for the Casual gamer. some White stars. Our active players have merged with 2ND-R8.
+a Corp for the Casual gamer. some White stars. Our active players hav
+e merged with 2ND-R8.}
 ```
 ### [Discord](https://discord.gg/nYPxsBANC3)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (904)|
+| ELO Regular | 1172 🔻  (905)|
 | ELO Competitive | 1175 🔻  (1021)|
 | Total Matches | 2 |
 | Wins | 0 |

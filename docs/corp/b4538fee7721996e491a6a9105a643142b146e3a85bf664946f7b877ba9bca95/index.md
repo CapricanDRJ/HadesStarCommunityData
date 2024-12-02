@@ -13,16 +13,16 @@ date: 1705597966
 
 
 ```
- Welcome Arcadia Commander, come be part of a team.
+Welcome Arcadia Commander, come be part of a team.
 We will help you grow.
 Join us.
-Discord: jQSj4w8CnP
+Discord: jQSj4w8CnP}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (920)|
+| ELO Regular | 1171 🔻  (921)|
 | ELO Competitive | 1171 🔻  (1067)|
 | Total Matches | 2 |
 | Wins | 0 |

@@ -13,14 +13,16 @@ date: 1733011558
 
 
 ```
- Aquí, todos los miembros se forjan un nombre en este hostil sistema. Unete a nosotros en esta larga travesía.             -Capital del Imperio Pendejico- Discord: https://discord.com/invite/fRfYczjyuD
+Aquí, todos los miembros se forjan un nombre en este hostil sistema. 
+Unete a nosotros en esta larga travesía.             -Capital del Imp
+erio Pendejico- Discord: https://discord.com/invite/fRfYczjyuD}
 ```
 ### [Discord](https://discord.gg/fRfYczjyuD)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔺  (806)|
+| ELO Regular | 1183 🔺  (807)|
 | ELO Competitive | 1189 🔺  (748)|
 | Total Matches | 4 |
 | Wins | 1 |

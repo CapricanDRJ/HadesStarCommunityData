@@ -13,11 +13,11 @@ date: 1722779350
 
 
 ```
- <b><color=yellow>United Industries of Hades</color></b>
+<b><color=yellow>United Industries of Hades</color></b>
 
 Join our public RS queue on Discord.
 </color>
-Discord is mandatory:<b>https://dsc.gg/uih<b><b><b>
+Discord is mandatory:<b>https://dsc.gg/uih<b><b><b>}
 ```
 ### [Discord](https://discord.gg/vPsNNxs)
 ### Whitestar Bonus ❌
@@ -25,7 +25,7 @@ Discord is mandatory:<b>https://dsc.gg/uih<b><b><b>
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1191 🔻  (566)|
-| ELO Competitive | 1228 🔻  (449)|
+| ELO Competitive | 1228 🔻  (450)|
 | Total Matches | 21 |
 | Wins | 10 |
 | Losses | 11 |

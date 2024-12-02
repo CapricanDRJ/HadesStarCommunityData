@@ -13,15 +13,15 @@ date: 1716150402
 
 
 ```
- Tu pist ein Tevitist!
+Tu pist ein Tevitist!
 Simply the best.
-Enthält Spuren von Starhalla.
+Enthält Spuren von Starhalla.}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (856)|
+| ELO Regular | 1176 🔻  (857)|
 | ELO Competitive | 1180 🔻  (973)|
 | Total Matches | 2 |
 | Wins | 0 |

@@ -13,20 +13,20 @@ date: 1732950818
 
 
 ```
- Competitive White Stars every week
+Competitive White Stars every week
 
 Part of the Space Ghost Alliance (SGA).
 Join our discord: T7DV2nx
 
 If kicked for inactivity, please join back when ready.  
-
+}
 ```
 ### [Discord](https://discord.gg/fYBf2GNU7y)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔺  (905)|
+| ELO Regular | 1172 🔺  (906)|
 | ELO Competitive | 1252 🔺  (360)|
 | Total Matches | 63 |
 | Wins | 27 |

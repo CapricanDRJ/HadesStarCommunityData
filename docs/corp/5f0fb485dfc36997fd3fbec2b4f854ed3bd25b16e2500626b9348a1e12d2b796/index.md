@@ -13,8 +13,9 @@ date: 1717877900
 
 
 ```
- Whats up! Focus on red stars and getting offenses up to white star level. 
-Discord-https://discord.gg/6f8xNGS
+Whats up! Focus on red stars and getting offenses up to white star le
+vel. 
+Discord-https://discord.gg/6f8xNGS}
 ```
 ### Whitestar Bonus ❌
 

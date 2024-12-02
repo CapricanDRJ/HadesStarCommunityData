@@ -13,7 +13,7 @@ date: 1720286777
 
 
 ```
- We are <b>OntarioDestiny</b>
+We are <b>OntarioDestiny</b>
 Top 200 RS and WS intro corp for the 
 OntarioDynasty family of corps.
 
@@ -21,7 +21,7 @@ Learn from experienced players
 Apply via Discord
 https://discord.gg/gBFFE5x
 
-od-family.com
+od-family.com}
 ```
 ### [Discord](https://discord.gg/gBFFE5x)
 ### Whitestar Bonus ❌

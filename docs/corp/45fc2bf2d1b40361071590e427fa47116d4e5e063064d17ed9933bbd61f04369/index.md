@@ -13,7 +13,8 @@ date: 1733123896
 
 
 ```
- <color=#11806a>Competitive member corp of the<b> Spacefleet Alliance</b></color>
+<color=#11806a>Competitive member corp of the<b> Spacefleet Alliance<
+/b></color>
 
 
 •Coordinated <b>RS 8-10</b>
@@ -21,7 +22,7 @@ date: 1733123896
 •Active community
 
 
-Discord mandatory.  <b>EEpZuWf</b>
+Discord mandatory.  <b>EEpZuWf</b>}
 ```
 ### [Discord](https://discord.gg/EEpZuWf)
 ### Whitestar Bonus ❌

@@ -13,14 +13,14 @@ date: 1700841235
 
 
 ```
- Just a group of friends enjoying the game
+Just a group of friends enjoying the game}
 ```
 ### [Discord](https://discord.gg/cRXreAcJZw)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 🔻  (486)|
+| ELO Regular | 1201 🔻  (485)|
 | ELO Competitive | 1201 🔻  (600)|
 | Total Matches | 2 |
 | Wins | 1 |

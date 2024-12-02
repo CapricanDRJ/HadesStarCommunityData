@@ -13,12 +13,13 @@ date: 1710725372
 
 
 ```
- Nederlandse Corp open voor alle levels, onderdeel van KLM.
+Nederlandse Corp open voor alle levels, onderdeel van KLM.
 
-We richten ons op interne Red star runs en spelen op recreatieve basis White star.
+We richten ons op interne Red star runs en spelen op recreatieve basi
+s White star.
 
 Founded 29-11-2020
- Discord:  https://discord.gg/cWymECU
+ Discord:  https://discord.gg/cWymECU}
 ```
 ### [Discord](https://discord.gg/cWymECU)
 ### Whitestar Bonus ❌

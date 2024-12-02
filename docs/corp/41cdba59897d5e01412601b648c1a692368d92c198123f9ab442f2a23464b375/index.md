@@ -13,14 +13,16 @@ date: 1732770213
 
 
 ```
- Want to grow? Run White Stars? Have fun and mix with a friendly competitive crew? We got you covered! We welcome all level players, so come run with us! Say hi on Discord!
+Want to grow? Run White Stars? Have fun and mix with a friendly compe
+titive crew? We got you covered! We welcome all level players, so com
+e run with us! Say hi on Discord!}
 ```
 ### [Discord](https://discord.gg/8ZxKUEuxvy)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1208 🔺  (452)|
+| ELO Regular | 1208 🔺  (451)|
 | ELO Competitive | 1339 🔺  (199)|
 | Total Matches | 66 |
 | Wins | 35 |

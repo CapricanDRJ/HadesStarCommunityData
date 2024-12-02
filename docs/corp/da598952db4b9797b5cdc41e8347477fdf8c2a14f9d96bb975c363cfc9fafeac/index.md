@@ -13,14 +13,14 @@ date: 1709098064
 
 
 ```
- Join us as we dominate the fake universe!
-And check out our YouTube channel if you get a chance.
+Join us as we dominate the fake universe!
+And check out our YouTube channel if you get a chance.}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (797)|
+| ELO Regular | 1183 🔻  (798)|
 | ELO Competitive | 1183 🔻  (952)|
 | Total Matches | 1 |
 | Wins | 0 |

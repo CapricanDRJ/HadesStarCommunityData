@@ -13,15 +13,16 @@ date: 1732840236
 
 
 ```
- Winter Star llc, a Beginner Corporation to help you out on your missions! //You must Join our Discord within 7 days 
+Winter Star llc, a Beginner Corporation to help you out on your missi
+ons! //You must Join our Discord within 7 days }
 ```
 ### [Discord](https://discord.gg/SpNnydQdNf)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺  (384)|
-| ELO Competitive | 1240 🔺  (407)|
+| ELO Regular | 1216 🔺  (383)|
+| ELO Competitive | 1240 🔺  (408)|
 | Total Matches | 9 |
 | Wins | 5 |
 | Losses | 3 |

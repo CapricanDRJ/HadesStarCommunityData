@@ -13,7 +13,9 @@ date: 1722381254
 
 
 ```
- All are welcome to join! Ask for help if needed on redstar runs. Chat through LINE app. Group name “HADES’ STAR”. Send pm to id: stevekuling
+All are welcome to join! Ask for help if needed on redstar runs. Chat
+ through LINE app. Group name “HADES’ STAR”. Send pm to id: stevekuli
+ng}
 ```
 ### Whitestar Bonus ❌
 

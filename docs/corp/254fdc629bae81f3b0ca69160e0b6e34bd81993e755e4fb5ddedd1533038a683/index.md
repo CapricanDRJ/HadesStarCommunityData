@@ -13,7 +13,8 @@ date: 1725670874
 
 
 ```
- All Welcome. Friendly Only. Come and Chill. Old or New. No Requirements!
+All Welcome. Friendly Only. Come and Chill. Old or New. No Requiremen
+ts!}
 ```
 ### Whitestar Bonus ❌
 

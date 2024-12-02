@@ -13,7 +13,8 @@ date: 1708816660
 
 
 ```
- De l'entraide, de la bonne humeur, un minimum de présence et beaucoup de communications pour les étoiles blanche ;-)
+De l'entraide, de la bonne humeur, un minimum de présence et beaucoup
+ de communications pour les étoiles blanche ;-)}
 ```
 ### Whitestar Bonus ❌
 

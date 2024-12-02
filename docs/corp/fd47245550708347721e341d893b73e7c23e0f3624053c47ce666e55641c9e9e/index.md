@@ -13,15 +13,16 @@ date: 1732619367
 
 
 ```
- Daily red star runs, weekly white star runs, and occasional corporation events. No alts.
+Daily red star runs, weekly white star runs, and occasional corporati
+on events. No alts.}
 ```
 ### [Discord](https://discord.gg/zVyGtnjRyy)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (854)|
-| ELO Competitive | 1239 🔻  (412)|
+| ELO Regular | 1176 🔻  (855)|
+| ELO Competitive | 1239 🔻  (413)|
 | Total Matches | 61 |
 | Wins | 32 |
 | Losses | 27 |

@@ -13,14 +13,15 @@ date: 1726836191
 
 
 ```
- Центр психологической поддержки после Голубых Звезд https://discord.gg/n4kzEbKs
+Центр психологической поддержки после Голубых Звезд https://discord.g
+g/n4kzEbKs}
 ```
 ### [Discord](https://discord.gg/n4kzEbKs)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔺  (405)|
+| ELO Regular | 1214 🔺  (404)|
 | ELO Competitive | 1214 🔺  (532)|
 | Total Matches | 1 |
 | Wins | 1 |

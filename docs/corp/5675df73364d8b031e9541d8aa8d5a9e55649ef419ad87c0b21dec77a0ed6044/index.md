@@ -13,13 +13,13 @@ date: 1732466727
 
 
 ```
- <b>Nuevo Mundo | Axolotls</b>
+<b>Nuevo Mundo | Axolotls</b>
 Un Mundo Nuevo
 Esta corp es descendiente
 Ambo de *corp no encontrado* y latinos :)
 ER de 1-9
 Esperamos su llegada!
-<b>[No aceptamos gente en EB].</b> Se requiere wassat
+<b>[No aceptamos gente en EB].</b> Se requiere wassat}
 ```
 ### Whitestar Bonus ❌
 

@@ -13,13 +13,15 @@ date: 1727526037
 
 
 ```
- Bienvenidos, somos una comunidad dedicada al crecimiento en conjunto y el apoyo. Ayudamos ER 1-8, comercio y próximamente EB.           Contacto: +57 3223620356          Alianza "AXOLOTLS"
+Bienvenidos, somos una comunidad dedicada al crecimiento en conjunto 
+y el apoyo. Ayudamos ER 1-8, comercio y próximamente EB.           Co
+ntacto: +57 3223620356          Alianza "AXOLOTLS"}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1203 🔻  (476)|
+| ELO Regular | 1203 🔻  (475)|
 | ELO Competitive | 1205 🔻  (586)|
 | Total Matches | 2 |
 | Wins | 1 |

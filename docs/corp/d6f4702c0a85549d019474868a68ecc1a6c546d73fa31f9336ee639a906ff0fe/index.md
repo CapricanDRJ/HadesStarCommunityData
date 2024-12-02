@@ -13,7 +13,9 @@ date: 1732944209
 
 
 ```
- Totally new corporation. Your experience or level is unimportant.  It's your commitment to grow and become stronger that is paramount. No deadline though. We all do what we do when we do it...
+Totally new corporation. Your experience or level is unimportant.  It
+'s your commitment to grow and become stronger that is paramount. No 
+deadline though. We all do what we do when we do it...}
 ```
 ### Whitestar Bonus ✅
 

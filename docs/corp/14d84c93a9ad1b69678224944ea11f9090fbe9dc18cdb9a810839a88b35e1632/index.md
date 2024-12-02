@@ -13,16 +13,16 @@ date: 1712178754
 
 
 ```
- <size=100><b><color=Red>Orden Real </color></b></size>
+<size=100><b><color=Red>Orden Real </color></b></size>
 •Estrellas Rojas ✓
 •Estrellas Blancas ✓
-•Discord [PgyhFfhnT3] 
+•Discord [PgyhFfhnT3] }
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1213 🔺  (419)|
+| ELO Regular | 1213 🔺  (418)|
 | ELO Competitive | 1216 🔺  (515)|
 | Total Matches | 1 |
 | Wins | 1 |

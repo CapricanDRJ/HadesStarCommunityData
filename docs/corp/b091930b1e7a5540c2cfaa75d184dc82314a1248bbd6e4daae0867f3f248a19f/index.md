@@ -13,19 +13,19 @@ date: 1733111578
 
 
 ```
- <color=white><i>✴ КЗ 7-10 
+<color=white><i>✴ КЗ 7-10 
 ✴ Еженедельное БЗ 
 ✴ Слаженный коллектив
 
 В наличии также Discord и Telegram
-</i></color>
+</i></color>}
 ```
 ### [Discord](https://discord.gg/YVP3QdjE3d)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1207 🔻  (454)|
+| ELO Regular | 1207 🔻  (453)|
 | ELO Competitive | 1242 🔻  (402)|
 | Total Matches | 16 |
 | Wins | 6 |

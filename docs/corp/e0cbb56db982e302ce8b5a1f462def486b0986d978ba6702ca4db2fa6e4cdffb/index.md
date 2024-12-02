@@ -13,13 +13,15 @@ date: 1703961058
 
 
 ```
- Friendly low stress corp doing a restart in the new expansion. No requirements besides playing the game though we appreciate it if you help us win White Stars. So join and be welcome.
+Friendly low stress corp doing a restart in the new expansion. No req
+uirements besides playing the game though we appreciate it if you hel
+p us win White Stars. So join and be welcome.}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (880)|
+| ELO Regular | 1174 🔻  (881)|
 | ELO Competitive | 1174 🔻  (1030)|
 | Total Matches | 2 |
 | Wins | 0 |

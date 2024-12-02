@@ -13,13 +13,14 @@ date: 1732674359
 
 
 ```
- que onda prrotes, yo soy Joryaguer97 y bienvenidos a la Corporación UNSC
+que onda prrotes, yo soy Joryaguer97 y bienvenidos a la Corporación U
+NSC}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (792)|
+| ELO Regular | 1184 🔻  (793)|
 | ELO Competitive | 1190 🔻  (738)|
 | Total Matches | 1 |
 | Wins | 0 |

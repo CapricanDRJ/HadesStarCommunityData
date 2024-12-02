@@ -13,20 +13,21 @@ date: 1732969147
 
 
 ```
- <color=#49D4C9>Flagship corporation of the<b> Spacefleet Alliance</b></color>
+<color=#49D4C9>Flagship corporation of the<b> Spacefleet Alliance</b>
+</color>
 
 •Coordinated <b>RS 7-10</b>
 •Weekly competitive/casual WS
 •Active community
 
-Discord mandatory. <b>EEpZuWf</b>
+Discord mandatory. <b>EEpZuWf</b>}
 ```
 ### [Discord](https://discord.gg/EEpZuWf)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1208 🔻  (451)|
+| ELO Regular | 1208 🔻  (450)|
 | ELO Competitive | 1483 🔻  (61)|
 | Total Matches | 88 |
 | Wins | 44 |

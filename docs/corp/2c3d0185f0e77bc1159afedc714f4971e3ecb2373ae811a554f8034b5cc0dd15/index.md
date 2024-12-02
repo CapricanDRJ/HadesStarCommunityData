@@ -13,13 +13,14 @@ date: 1731010507
 
 
 ```
- <color=red>Somos Una Corporacion Con Penes Gigantes Sandro El Mas Pitudo
+<color=red>Somos Una Corporacion Con Penes Gigantes Sandro El Mas Pit
+udo}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (809)|
+| ELO Regular | 1183 🔻  (810)|
 | ELO Competitive | 1187 🔻  (791)|
 | Total Matches | 3 |
 | Wins | 1 |

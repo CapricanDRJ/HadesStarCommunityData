@@ -13,9 +13,11 @@ date: 1732935796
 
 
 ```
-  <size=100> <color=#feff00>Bring peace to the Hades Star galaxy! </color></size>
-Join the international task force with a community of friendly commanders and a focus on WS!
-<b>Discord is required
+ <size=100> <color=#feff00>Bring peace to the Hades Star galaxy! </co
+lor></size>
+Join the international task force with a community of friendly comman
+ders and a focus on WS!
+<b>Discord is required}
 ```
 ### [Discord](https://discord.gg/wgHSEFgGBu)
 ### Whitestar Bonus ✅

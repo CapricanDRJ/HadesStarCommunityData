@@ -13,14 +13,15 @@ date: 1733114281
 
 
 ```
- Todoas las personas que puedan hablar español esta permitido aqui nos cuidamos como familia,  si no se conecta en 30 dias seran expulsados
+Todoas las personas que puedan hablar español esta permitido aqui nos
+ cuidamos como familia,  si no se conecta en 30 dias seran expulsados}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1225 🔻  (331)|
-| ELO Competitive | 1235 🔻  (425)|
+| ELO Competitive | 1235 🔻  (426)|
 | Total Matches | 11 |
 | Wins | 7 |
 | Losses | 4 |

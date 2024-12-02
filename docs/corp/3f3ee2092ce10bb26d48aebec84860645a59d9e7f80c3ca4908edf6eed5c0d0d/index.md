@@ -13,15 +13,15 @@ date: 1716459858
 
 
 ```
- Habla hispana ... Activos con ganas de crecer en equipo y respeto.
+Habla hispana ... Activos con ganas de crecer en equipo y respeto.
 7 dias de inactividad sin aviso, expulsión.
-ER3-7, CORP cooperativas ANADIR y 42 Nova Corp
+ER3-7, CORP cooperativas ANADIR y 42 Nova Corp}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (928)|
+| ELO Regular | 1171 🔻  (929)|
 | ELO Competitive | 1172 🔻  (1049)|
 | Total Matches | 2 |
 | Wins | 0 |

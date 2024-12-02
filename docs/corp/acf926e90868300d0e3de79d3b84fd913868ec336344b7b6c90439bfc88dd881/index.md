@@ -13,14 +13,15 @@ date: 1728233709
 
 
 ```
- We are Astrium Reborn! Looking for casual players who want to run semi-regular WS and RS! 
+We are Astrium Reborn! Looking for casual players who want to run sem
+i-regular WS and RS! }
 ```
 ### [Discord](https://discord.gg/2tvBA63)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (795)|
+| ELO Regular | 1183 🔻  (796)|
 | ELO Competitive | 1185 🔻  (914)|
 | Total Matches | 1 |
 | Wins | 0 |

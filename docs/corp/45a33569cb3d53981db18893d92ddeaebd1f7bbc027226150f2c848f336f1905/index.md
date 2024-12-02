@@ -13,13 +13,13 @@ date: 1731796630
 
 
 ```
- Weekly competitive WS crew.
+Weekly competitive WS crew.
 Proud member of the <b>OntarioDynasty</b> Family of Corps. 
 
 All welcome to join
 Discord required to stay
 RS9-11
-
+}
 ```
 ### [Discord](https://discord.gg/gBFFE5x)
 ### Whitestar Bonus ❌

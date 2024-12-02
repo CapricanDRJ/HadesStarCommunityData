@@ -13,13 +13,13 @@ date: 1723461506
 
 
 ```
- 
+}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (918)|
+| ELO Regular | 1171 🔻  (919)|
 | ELO Competitive | 1173 🔻  (1041)|
 | Total Matches | 2 |
 | Wins | 0 |

@@ -13,14 +13,16 @@ date: 1727929599
 
 
 ```
- Welcome to the 3rd IA Corporation! Join our Discord within 24 hours to connect with our community and get gameplay support. We're excited to have you on board!
+Welcome to the 3rd IA Corporation! Join our Discord within 24 hours t
+o connect with our community and get gameplay support. We're excited 
+to have you on board!}
 ```
 ### [Discord](https://discord.gg/bAAYCqG2cE)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔺  (408)|
+| ELO Regular | 1214 🔺  (407)|
 | ELO Competitive | 1218 🔺  (495)|
 | Total Matches | 1 |
 | Wins | 1 |

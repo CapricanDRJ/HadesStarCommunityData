@@ -13,7 +13,7 @@ date: 1712266197
 
 
 ```
- Silence is a virtue.
+Silence is a virtue.}
 ```
 ### Whitestar Bonus ❌
 

@@ -13,13 +13,14 @@ date: 1720614052
 
 
 ```
- 招RS5以上国人                                                          首席：一个好人（到101找我）
+招RS5以上国人                                                          首席：
+一个好人（到101找我）}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (882)|
+| ELO Regular | 1174 🔻  (883)|
 | ELO Competitive | 1176 🔻  (999)|
 | Total Matches | 2 |
 | Wins | 0 |

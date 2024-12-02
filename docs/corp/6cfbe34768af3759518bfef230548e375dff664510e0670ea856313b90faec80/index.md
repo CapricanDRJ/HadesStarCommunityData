@@ -13,14 +13,14 @@ date: 1715999227
 
 
 ```
- De chill aprendiendo
+De chill aprendiendo}
 ```
 ### [Discord](https://discord.gg/TwP7vgxb)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (821)|
+| ELO Regular | 1181 🔻  (822)|
 | ELO Competitive | 1182 🔻  (962)|
 | Total Matches | 3 |
 | Wins | 0 |

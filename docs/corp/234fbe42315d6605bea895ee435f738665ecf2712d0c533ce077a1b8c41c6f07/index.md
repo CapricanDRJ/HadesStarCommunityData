@@ -13,7 +13,7 @@ date: 1699184598
 
 
 ```
- Friendly, independent Corp
+Friendly, independent Corp
 
 Running weekly White Stars, 
 
@@ -23,7 +23,7 @@ Discord for WS /RS
 
 HVgvAaF
 
-(PLEASE NOTE THIS IS CASE SENSITIVE)
+(PLEASE NOTE THIS IS CASE SENSITIVE)}
 ```
 ### [Discord](https://discord.gg/HVgvAaF)
 ### Whitestar Bonus ❌

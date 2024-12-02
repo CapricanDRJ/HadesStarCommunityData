@@ -13,13 +13,15 @@ date: 1713714237
 
 
 ```
- Welcome all to the SOUTHERN ALLIANCE CORPORATION.... A handful of active players that communicate in English and looking to expand our Corporation. 
+Welcome all to the SOUTHERN ALLIANCE CORPORATION.... A handful of act
+ive players that communicate in English and looking to expand our Cor
+poration. }
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔺  (763)|
+| ELO Regular | 1184 🔺  (764)|
 | ELO Competitive | 1184 🔺  (921)|
 | Total Matches | 2 |
 | Wins | 0 |

@@ -13,10 +13,10 @@ date: 1725453598
 
 
 ```
- • New/Unexperienced players welcome.
+• New/Unexperienced players welcome.
 • Active players, only please.
 • “Line” app for chat is helpful to better communicate w/ leaders
-• Kicks are likely after a week of inactivity, w/out prior notice
+• Kicks are likely after a week of inactivity, w/out prior notice}
 ```
 ### Whitestar Bonus ❌
 

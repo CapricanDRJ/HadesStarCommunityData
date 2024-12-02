@@ -13,13 +13,13 @@ date: 1706235354
 
 
 ```
- 集團目前休眠
+集團目前休眠}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1213 🔺  (424)|
+| ELO Regular | 1213 🔺  (423)|
 | ELO Competitive | 1213 🔺  (550)|
 | Total Matches | 1 |
 | Wins | 1 |

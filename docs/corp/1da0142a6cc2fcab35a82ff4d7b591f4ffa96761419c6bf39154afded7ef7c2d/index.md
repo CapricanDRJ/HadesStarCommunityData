@@ -13,9 +13,9 @@ date: 1733036935
 
 
 ```
- Alianza: axolotls 
+Alianza: axolotls 
 
-Ni retirada ni rendicion 
+Ni retirada ni rendicion }
 ```
 ### Whitestar Bonus ✅
 

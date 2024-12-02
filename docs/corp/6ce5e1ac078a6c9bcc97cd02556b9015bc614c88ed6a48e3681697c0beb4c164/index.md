@@ -13,13 +13,13 @@ date: 1724004235
 
 
 ```
- Casual and easygoing corpo! Just chillin, growing and having fun!
+Casual and easygoing corpo! Just chillin, growing and having fun!}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔻  (944)|
+| ELO Regular | 1170 🔻  (945)|
 | ELO Competitive | 1181 🔻  (963)|
 | Total Matches | 12 |
 | Wins | 5 |

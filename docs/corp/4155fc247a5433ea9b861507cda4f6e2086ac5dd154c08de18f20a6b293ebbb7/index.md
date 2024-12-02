@@ -13,12 +13,13 @@ date: 1702414590
 
 
 ```
- <b><color=white><size=90><color=yellow>Séptimo Círculo™</color></size>
+<b><color=white><size=90><color=yellow>Séptimo Círculo™</color></size
+>
 <i><size=70><color=red>ER1 - ER9</color>
 Una EB tras otra</size>
 
 RS: WhatsApp
-Alianza Axolotls</i></color></b>
+Alianza Axolotls</i></color></b>}
 ```
 ### Whitestar Bonus ❌
 

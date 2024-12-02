@@ -13,7 +13,9 @@ date: 1732014896
 
 
 ```
- <#FFF><b><size=89>Best BBQ & CRoid house</size></color><br><i>Skewer thy foe, Sear their bones</i><br><br>Top51 RS event • Biweekly WS<br>Discord Active • Coop DRS7-10 
+<#FFF><b><size=89>Best BBQ & CRoid house</size></color><br><i>Skewer 
+thy foe, Sear their bones</i><br><br>Top51 RS event • Biweekly WS<br>
+Discord Active • Coop DRS7-10 }
 ```
 ### [Discord](https://discord.gg/6QQJkJ4)
 ### Whitestar Bonus ❌

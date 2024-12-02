@@ -13,14 +13,16 @@ date: 1732637099
 
 
 ```
- <size=50>2024.10.29<color=purple>     星星栖息的故乡<size=60><color=white>                      欢迎加入，本团为北极星联盟成员团  不定期送神器</color>  盟团：墨痕 <color=red>        勿捐旗舰         <color=white>    QQ: 914778570
+<size=50>2024.10.29<color=purple>     星星栖息的故乡<size=60><color=white>  
+                    欢迎加入，本团为北极星联盟成员团  不定期送神器</color>  盟团：墨痕 <color=re
+d>        勿捐旗舰         <color=white>    QQ: 914778570}
 ```
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1228 🔺  (320)|
-| ELO Competitive | 1238 🔺  (414)|
+| ELO Competitive | 1238 🔺  (415)|
 | Total Matches | 4 |
 | Wins | 3 |
 | Losses | 1 |

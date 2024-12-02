@@ -13,13 +13,15 @@ date: 1733084238
 
 
 ```
- Corporation tranquille on s'entraide pour tous se développer. Une etoile blanche par semaine. Si vous êtes actif et que vous voulez progresser dans une corporation tranquille on est fait pour vous !
+Corporation tranquille on s'entraide pour tous se développer. Une eto
+ile blanche par semaine. Si vous êtes actif et que vous voulez progre
+sser dans une corporation tranquille on est fait pour vous !}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1209 🔻  (447)|
+| ELO Regular | 1209 🔻  (446)|
 | ELO Competitive | 1273 🔻  (315)|
 | Total Matches | 48 |
 | Wins | 27 |

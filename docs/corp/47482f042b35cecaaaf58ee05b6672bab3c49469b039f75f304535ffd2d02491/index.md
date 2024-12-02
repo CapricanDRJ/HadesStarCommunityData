@@ -13,7 +13,9 @@ date: 1726496019
 
 
 ```
- Hi jeder aktive Spieler ist willkommen ! Wir suchen vor allem Spieler die am Weißen Zwerg teilnehmen möchten ! Deutsch und Englisch Bevorzugt ! Discord Link. https://discord.gg/urC6aghBvF
+Hi jeder aktive Spieler ist willkommen ! Wir suchen vor allem Spieler
+ die am Weißen Zwerg teilnehmen möchten ! Deutsch und Englisch Bevorz
+ugt ! Discord Link. https://discord.gg/urC6aghBvF}
 ```
 ### Whitestar Bonus ❌
 

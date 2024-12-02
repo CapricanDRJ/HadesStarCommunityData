@@ -13,7 +13,7 @@ date: 1708401727
 
 
 ```
- Weekly 10v10 white stars.
+Weekly 10v10 white stars.}
 ```
 ### [Discord](https://discord.gg/c6sjypySxH)
 ### Whitestar Bonus ❌

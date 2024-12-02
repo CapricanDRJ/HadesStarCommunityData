@@ -13,10 +13,11 @@ date: 1719574274
 
 
 ```
- Corporation pour tous les francophones.
-Aide pour les nouveaux joueurs, déconne et apéro sur une étoile rouge.
+Corporation pour tous les francophones.
+Aide pour les nouveaux joueurs, déconne et apéro sur une étoile rouge
+.
 Lien de notre Discord : https://discord.gg/vs3fGvzkap
-Merci Halkyr
+Merci Halkyr}
 ```
 ### Whitestar Bonus ❌
 

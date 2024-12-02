@@ -13,10 +13,11 @@ date: 1733061095
 
 
 ```
- <color="green">"We Are Lost Legion For We Are Many And We Act As One"</color> 
+<color="green">"We Are Lost Legion For We Are Many And We Act As One"
+</color> 
 <color="blue">"WS active & RS 4-10 active team."</color>
 We are a friendly corporation commited to helping.
-Disc AvYQJJh9
+Disc AvYQJJh9}
 ```
 ### [Discord](https://discord.gg/najb7MJf)
 ### Whitestar Bonus ✅

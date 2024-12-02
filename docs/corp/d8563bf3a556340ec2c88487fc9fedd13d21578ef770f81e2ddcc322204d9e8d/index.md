@@ -13,22 +13,23 @@ date: 1706875746
 
 
 ```
- <color=yellow>We are the Dacia Mafia
+<color=yellow>We are the Dacia Mafia
 
-Chill corp for active players wishing to develop in the game and have fun
+Chill corp for active players wishing to develop in the game and have
+ fun
 
 Discord: 6P5MxXBNFW
 
 WS leaders: jwoods90 / ScTruF
 
-W/D/L - 60/1/2 </color>
+W/D/L - 60/1/2 </color>}
 ```
 ### [Discord](https://discord.gg/6P5MxXBNFW)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 🔻  (483)|
+| ELO Regular | 1201 🔻  (482)|
 | ELO Competitive | 1202 🔻  (592)|
 | Total Matches | 2 |
 | Wins | 1 |

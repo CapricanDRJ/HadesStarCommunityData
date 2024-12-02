@@ -13,14 +13,16 @@ date: 1707434406
 
 
 ```
- Welcome to Hades Seminary, the second corp for Hades Academy. We are very laied back but competitive corp. Please join our Discord and accept our rules to get your member role!
+Welcome to Hades Seminary, the second corp for Hades Academy. We are 
+very laied back but competitive corp. Please join our Discord and acc
+ept our rules to get your member role!}
 ```
 ### [Discord](https://discord.gg/kUcE6EP)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1215 🔺  (388)|
+| ELO Regular | 1215 🔺  (387)|
 | ELO Competitive | 1218 🔺  (493)|
 | Total Matches | 3 |
 | Wins | 2 |

@@ -13,13 +13,15 @@ date: 1732830320
 
 
 ```
- 3 Year Celebration of the Legion Prime!  We are an international group of players that play hard and enjoy the game!  Join us for RS and WS!                         
+3 Year Celebration of the Legion Prime!  We are an international grou
+p of players that play hard and enjoy the game!  Join us for RS and W
+S!                         }
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1180 🔻  (833)|
+| ELO Regular | 1180 🔻  (834)|
 | ELO Competitive | 1216 🔻  (518)|
 | Total Matches | 27 |
 | Wins | 12 |

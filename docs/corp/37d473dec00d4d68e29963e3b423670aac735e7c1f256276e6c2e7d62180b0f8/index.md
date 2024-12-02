@@ -13,12 +13,12 @@ date: 1732935796
 
 
 ```
-    (\)＾／)/)/^(\ノ)
+   (\)＾／)/)/^(\ノ)
    |\______________\
    \|Dumpster Fire 2| 
   \[|      —    .    —     |]
    \|_______________|™
-<b>Easy going Dumpster Fire with Discord—Free White Star</b>
+<b>Easy going Dumpster Fire with Discord—Free White Star</b>}
 ```
 ### Whitestar Bonus ❌
 

@@ -13,14 +13,14 @@ date: 1699698176
 
 
 ```
- *RS <10
+*RS <10
 **Weekly WS
 ***Was Ready to help new players progress   quickly to RS6. 
 ****now they are rs10 -.-
 *****We demand Blood for the @ncient £ibrarian =[
 chapter 4÷20
 
-For WS+ join Discord- 8dJDbbm
+For WS+ join Discord- 8dJDbbm}
 ```
 ### Whitestar Bonus ❌
 

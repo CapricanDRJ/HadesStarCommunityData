@@ -13,14 +13,15 @@ date: 1725597843
 
 
 ```
- <b> Raiding other corp's bonuses from our secret clubhouse </b> Donations to FS1 welcomed. <b> Discord required </b>
+<b> Raiding other corp's bonuses from our secret clubhouse </b> Donat
+ions to FS1 welcomed. <b> Discord required </b>}
 ```
 ### [Discord](https://discord.gg/zXEp3p8)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔻  (969)|
+| ELO Regular | 1168 🔻  (970)|
 | ELO Competitive | 1251 🔻  (368)|
 | Total Matches | 36 |
 | Wins | 15 |

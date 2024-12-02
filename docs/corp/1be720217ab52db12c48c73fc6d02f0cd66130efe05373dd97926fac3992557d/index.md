@@ -13,7 +13,9 @@ date: 1732923180
 
 
 ```
- Українська Галактична Корпорація                       Співтовариство укр. корпорацій                      https://t.me/+6t52R1bJ8AswYzVi. Чат тг UAGC https://t.me/+E3gZdQcQWC05Y2Q6
+Українська Галактична Корпорація                       Співтовариство
+ укр. корпорацій                      https://t.me/+6t52R1bJ8AswYzVi.
+ Чат тг UAGC https://t.me/+E3gZdQcQWC05Y2Q6}
 ```
 ### Whitestar Bonus ✅
 

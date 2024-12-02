@@ -13,16 +13,17 @@ date: 1718673783
 
 
 ```
- Bienvenue à tous
+Bienvenue à tous
 Corpo sans prise de tête pour joueurs occasionnel/débutants
-Ws régulière( 0 obligation)pour joueurs aguerris ou voulant découvrir 
+Ws régulière( 0 obligation)pour joueurs aguerris ou voulant découvrir
+ }
 ```
 ### [Discord](https://discord.gg/https://discord.gg/V8HYqRZH)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (794)|
+| ELO Regular | 1184 🔻  (795)|
 | ELO Competitive | 1189 🔺  (752)|
 | Total Matches | 2 |
 | Wins | 0 |

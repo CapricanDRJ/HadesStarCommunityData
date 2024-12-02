@@ -13,13 +13,15 @@ date: 1700708523
 
 
 ```
- Buenos gente, estas corporación esta demasiada inactiva vamos intentar estar mas activos poreso esque aveses perdemos en las EB mas activos ay que hacer una comunidad activa gente; nuestra alianza F.V
+Buenos gente, estas corporación esta demasiada inactiva vamos intenta
+r estar mas activos poreso esque aveses perdemos en las EB mas activo
+s ay que hacer una comunidad activa gente; nuestra alianza F.V}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (898)|
+| ELO Regular | 1173 🔻  (899)|
 | ELO Competitive | 1173 🔻  (1048)|
 | Total Matches | 2 |
 | Wins | 0 |

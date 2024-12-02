@@ -13,19 +13,19 @@ date: 1732880199
 
 
 ```
- "Victoriae mundis et mundis lacrima" 
+"Victoriae mundis et mundis lacrima" 
 
 ✓RS 1>7, WS 10 tous les 5 jours (discord requis)
 ✓Entraide et bonne ambiance
 ✓https://discord.gg/EXj5vtr
 
-Évolution chez "On en a Gros" pour RS8+
+Évolution chez "On en a Gros" pour RS8+}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1203 🔻  (478)|
+| ELO Regular | 1203 🔻  (477)|
 | ELO Competitive | 1221 🔻  (479)|
 | Total Matches | 12 |
 | Wins | 7 |

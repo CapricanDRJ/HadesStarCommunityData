@@ -13,16 +13,16 @@ date: 1706764255
 
 
 ```
- <b><size=80><color=#8000FF>No mercy to our enemies
+<b><size=80><color=#8000FF>No mercy to our enemies
 I fight for honor and glory
 no matter how strong the enemy is
-mastery wins</color></size></b>
+mastery wins</color></size></b>}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (913)|
+| ELO Regular | 1172 🔻  (914)|
 | ELO Competitive | 1172 🔻  (1063)|
 | Total Matches | 2 |
 | Wins | 0 |

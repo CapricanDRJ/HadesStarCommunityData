@@ -13,13 +13,15 @@ date: 1714979423
 
 
 ```
- rookie or veteran we are all learning this new update together. we are open to any New Comers. Now's the Time to join and feel close to equal. most importantly we're here to have some fun.
+rookie or veteran we are all learning this new update together. we ar
+e open to any New Comers. Now's the Time to join and feel close to eq
+ual. most importantly we're here to have some fun.}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (853)|
+| ELO Regular | 1176 🔻  (854)|
 | ELO Competitive | 1177 🔻  (995)|
 | Total Matches | 2 |
 | Wins | 0 |

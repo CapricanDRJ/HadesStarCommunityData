@@ -13,14 +13,16 @@ date: 1700328138
 
 
 ```
- An active cooperation with an emphasis on teamwork! With sharing experience, artifacts and red/white star joint efforts! Join us in the pursuit of power!
+An active cooperation with an emphasis on teamwork! With sharing expe
+rience, artifacts and red/white star joint efforts! Join us in the pu
+rsuit of power!}
 ```
 ### [Discord](https://discord.gg/hpNKcXkf)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔺  (400)|
+| ELO Regular | 1214 🔺  (399)|
 | ELO Competitive | 1214 🔺  (530)|
 | Total Matches | 1 |
 | Wins | 1 |

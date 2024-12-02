@@ -13,14 +13,14 @@ date: 1723979587
 
 
 ```
- 如有回归请找干事或者首席加好友邀请回归<br>整顿期
+如有回归请找干事或者首席加好友邀请回归<br>整顿期}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1211 🔻  (436)|
-| ELO Competitive | 1230 🔺  (440)|
+| ELO Regular | 1211 🔻  (435)|
+| ELO Competitive | 1230 🔺  (441)|
 | Total Matches | 3 |
 | Wins | 2 |
 | Losses | 1 |

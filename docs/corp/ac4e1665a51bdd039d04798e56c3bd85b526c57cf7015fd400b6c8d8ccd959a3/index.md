@@ -13,7 +13,7 @@ date: 1733052071
 
 
 ```
- CORP DE TRADEOS
+CORP DE TRADEOS
 EBD diarias.
 Corporaciones aliadas:
 -Imperio tortuga
@@ -23,7 +23,7 @@ Corporaciones aliadas:
 -Unión latina
 -Свободный флот
 Discord: https://discord.gg/wnw8sSwy
-"Federación Versalles"
+"Federación Versalles"}
 ```
 ### Whitestar Bonus ❌
 

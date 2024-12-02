@@ -13,18 +13,18 @@ date: 1702833557
 
 
 ```
- <size=50><color=#F55D06>~Welcome to Wispered Storm~</color></size>
+<size=50><color=#F55D06>~Welcome to Wispered Storm~</color></size>
 <size=50><color=#13FF00>~Join up and Ride the Storm~</color></size>
 *Weekly WS
 *RS 6-10
-Hop in Discord - 9aD8bFDvY4
+Hop in Discord - 9aD8bFDvY4}
 ```
 ### [Discord](https://discord.gg/9aD8bFDvY4)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (941)|
+| ELO Regular | 1171 🔻  (942)|
 | ELO Competitive | 1173 🔻  (1036)|
 | Total Matches | 2 |
 | Wins | 0 |

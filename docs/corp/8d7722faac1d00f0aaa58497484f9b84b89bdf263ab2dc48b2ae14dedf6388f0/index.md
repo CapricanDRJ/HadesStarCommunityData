@@ -13,7 +13,9 @@ date: 1710829328
 
 
 ```
- una corporación unida ayudarse unos a otros y hacer fuertes a los débiles y olvidados y hacer crecer juntos esta corporación "OBLIGATORIO DISCORD PARA PARTICIPAR EN EB"
+una corporación unida ayudarse unos a otros y hacer fuertes a los déb
+iles y olvidados y hacer crecer juntos esta corporación "OBLIGATORIO 
+DISCORD PARA PARTICIPAR EN EB"}
 ```
 ### [Discord](https://discord.gg/KzmnSRBBs2)
 ### Whitestar Bonus ❌

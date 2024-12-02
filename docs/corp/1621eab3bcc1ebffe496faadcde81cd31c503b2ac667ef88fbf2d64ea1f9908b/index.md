@@ -13,10 +13,11 @@ date: 1732697191
 
 
 ```
- <color="white">Donate to FL1!Бонус артов +52%.
+<color="white">Donate to FL1!Бонус артов +52%.
 Регулярные БЗ.
 </color><color="red">Групповые ТКЗ 7-10</color>.
-Для вступления пройдите по ссылке ниже!Телегам: t.me/+NK7g4Pc--pUzNzgy
+Для вступления пройдите по ссылке ниже!Телегам: t.me/+NK7g4Pc--pUzNz
+gy}
 ```
 ### [Discord](https://discord.gg/fc2eg8hNJm)
 ### Whitestar Bonus ✅

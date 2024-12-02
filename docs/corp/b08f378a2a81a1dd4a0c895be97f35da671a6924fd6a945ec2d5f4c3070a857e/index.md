@@ -13,13 +13,13 @@ date: 1702964295
 
 
 ```
- Worship of a boi named Vanu
+Worship of a boi named Vanu}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (771)|
+| ELO Regular | 1184 🔻  (772)|
 | ELO Competitive | 1184 🔻  (927)|
 | Total Matches | 1 |
 | Wins | 0 |

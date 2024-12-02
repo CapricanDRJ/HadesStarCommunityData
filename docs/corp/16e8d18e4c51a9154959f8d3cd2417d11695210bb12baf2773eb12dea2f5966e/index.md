@@ -13,9 +13,9 @@ date: 1732482656
 
 
 ```
- Alles kann, nix muss. 
+Alles kann, nix muss. 
 
-Immer schön freundlich sein ^^
+Immer schön freundlich sein ^^}
 ```
 ### Whitestar Bonus ❌
 

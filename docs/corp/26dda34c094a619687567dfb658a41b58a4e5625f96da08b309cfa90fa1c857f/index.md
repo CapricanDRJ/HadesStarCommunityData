@@ -13,13 +13,13 @@ date: 1702763834
 
 
 ```
- <color=#FFFFFF>Come hang out!</color>
+<color=#FFFFFF>Come hang out!</color>
 •Coordinated <b>RS 2-8</b>
 •looking for  WS players. first time welcome
 •Active community
 
 Join Discord here: <b> https://discord.gg/8aARTQU </b>
-SFA : EEpZuWf
+SFA : EEpZuWf}
 ```
 ### Whitestar Bonus ❌
 

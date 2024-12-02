@@ -13,14 +13,14 @@ date: 1709703756
 
 
 ```
- донат флагмана запрещен!
+донат флагмана запрещен!}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1238 🔺  (290)|
-| ELO Competitive | 1240 🔺  (408)|
+| ELO Competitive | 1240 🔺  (409)|
 | Total Matches | 3 |
 | Wins | 3 |
 | Losses | 0 |

@@ -13,14 +13,16 @@ date: 1733052071
 
 
 ```
- In this corporation, we help eachother in red stars and will do white stars to grow the corp! Be nice to everyone and lets grow our star systems!
+In this corporation, we help eachother in red stars and will do white
+ stars to grow the corp! Be nice to everyone and lets grow our star s
+ystems!}
 ```
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1232 🔺  (305)|
-| ELO Competitive | 1235 🔺  (423)|
+| ELO Competitive | 1235 🔺  (424)|
 | Total Matches | 7 |
 | Wins | 4 |
 | Losses | 2 |

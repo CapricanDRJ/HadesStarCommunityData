@@ -13,14 +13,14 @@ date: 1709148762
 
 
 ```
- Кукумбер, груша, два кота
+Кукумбер, груша, два кота}
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/MhDzaS2P)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔻  (953)|
+| ELO Regular | 1170 🔻  (954)|
 | ELO Competitive | 1171 🔻  (1078)|
 | Total Matches | 4 |
 | Wins | 1 |

@@ -13,14 +13,14 @@ date: 1710012656
 
 
 ```
- Приходишь, вытирай ноги у входа и здоровайся)
+Приходишь, вытирай ноги у входа и здоровайся)}
 ```
 ### [Discord](https://discord.gg/fsD7Nfv)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1202 🔻  (479)|
+| ELO Regular | 1202 🔻  (478)|
 | ELO Competitive | 1217 🔻  (501)|
 | Total Matches | 8 |
 | Wins | 4 |

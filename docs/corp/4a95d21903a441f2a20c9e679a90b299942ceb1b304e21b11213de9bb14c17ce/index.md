@@ -13,14 +13,14 @@ date: 1716917436
 
 
 ```
- 
+}
 ```
 ### [Discord](https://discord.gg/114514)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1211 🔺  (433)|
+| ELO Regular | 1211 🔺  (432)|
 | ELO Competitive | 1215 🔺  (528)|
 | Total Matches | 1 |
 | Wins | 1 |

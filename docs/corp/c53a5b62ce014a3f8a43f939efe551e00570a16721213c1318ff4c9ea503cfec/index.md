@@ -13,14 +13,15 @@ date: 1732424959
 
 
 ```
- Welcome to the clan, Steal what you can. Please join our Discord... No Discord No Entry
+Welcome to the clan, Steal what you can. Please join our Discord... N
+o Discord No Entry}
 ```
 ### [Discord](https://discord.gg/https://discord.gg/YyTC3Krh)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1178 🔺  (848)|
+| ELO Regular | 1178 🔺  (849)|
 | ELO Competitive | 1187 🔺  (795)|
 | Total Matches | 3 |
 | Wins | 1 |

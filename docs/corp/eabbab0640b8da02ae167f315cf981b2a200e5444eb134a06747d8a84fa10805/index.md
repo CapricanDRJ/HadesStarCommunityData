@@ -13,7 +13,9 @@ date: 1733034053
 
 
 ```
- WhiteStar with no Discord? Chat and play2win! New ACTIVES welcome. Help+FreeArts. Big+%Arts,income. 2/Week WhiteStar pro/casual. WSS(white star school) tips in mail. DailyDarkRed players 7-11
+WhiteStar with no Discord? Chat and play2win! New ACTIVES welcome. He
+lp+FreeArts. Big+%Arts,income. 2/Week WhiteStar pro/casual. WSS(white
+ star school) tips in mail. DailyDarkRed players 7-11}
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/W4kNG43XDb)
 ### Whitestar Bonus ✅

@@ -13,17 +13,18 @@ date: 1712510788
 
 
 ```
- All for farm, farm for all. We farm from other's losses now.
+All for farm, farm for all. We farm from other's losses now.
 
-Original bottom tier Alpha Corp from serveral years ago, but no one here would give a shit.
+Original bottom tier Alpha Corp from serveral years ago, but no one h
+ere would give a shit.
 
-New Discord: nxEZwvgcg3
+New Discord: nxEZwvgcg3}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1217 🔻  (367)|
+| ELO Regular | 1217 🔻  (366)|
 | ELO Competitive | 1218 🔻  (496)|
 | Total Matches | 7 |
 | Wins | 4 |

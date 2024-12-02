@@ -13,14 +13,16 @@ date: 1719704704
 
 
 ```
- Corporación que admite a jugadores activos sin importar su nivel o poder imperial. El discord está en la descripción. 30 dias máximos de inactividad 
+Corporación que admite a jugadores activos sin importar su nivel o po
+der imperial. El discord está en la descripción. 30 dias máximos de i
+nactividad }
 ```
 ### [Discord](https://discord.gg/rvVvpBuEb6)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1212 🔻  (430)|
+| ELO Regular | 1212 🔻  (429)|
 | ELO Competitive | 1276 🔻  (307)|
 | Total Matches | 20 |
 | Wins | 11 |

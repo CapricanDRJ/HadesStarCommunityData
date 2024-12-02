@@ -13,14 +13,14 @@ date: 1732489764
 
 
 ```
- 欢迎萌新和大佬们的加入Q群852308177
+欢迎萌新和大佬们的加入Q群852308177}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1194 🔻  (549)|
-| ELO Competitive | 1227 🔻  (456)|
+| ELO Competitive | 1227 🔻  (457)|
 | Total Matches | 18 |
 | Wins | 9 |
 | Losses | 8 |

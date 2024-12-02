@@ -13,17 +13,17 @@ date: 1732666549
 
 
 ```
- <b>The Corp Alliance of Oceania Alliance</b>
+<b>The Corp Alliance of Oceania Alliance</b>
 <color=green>Open to All Levels.</color>
 <color=yellow>English Speakers, Friendly and Chill.</color>
-OA's Discord: https://discord.gg/2wyNuxb
+OA's Discord: https://discord.gg/2wyNuxb}
 ```
 ### [Discord](https://discord.gg/ZhF2Npys6N)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔺  (410)|
+| ELO Regular | 1214 🔺  (409)|
 | ELO Competitive | 1219 🔺  (490)|
 | Total Matches | 6 |
 | Wins | 3 |

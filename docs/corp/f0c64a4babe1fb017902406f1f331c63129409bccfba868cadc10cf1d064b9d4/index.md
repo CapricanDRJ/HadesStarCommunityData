@@ -13,7 +13,9 @@ date: 1729596634
 
 
 ```
- VIRTUS UNITA FORTIOR. Seja bem vindo! Participe dos eventos nas Estrelas vermelhas e brancas; mantenha as atividades e melhorias do sistema em dia. Temos grupo de Discord.
+VIRTUS UNITA FORTIOR. Seja bem vindo! Participe dos eventos nas Estre
+las vermelhas e brancas; mantenha as atividades e melhorias do sistem
+a em dia. Temos grupo de Discord.}
 ```
 ### [Discord](https://discord.gg/zM5ABcAR6s)
 ### Whitestar Bonus ❌

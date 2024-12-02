@@ -13,18 +13,18 @@ date: 1731988934
 
 
 ```
- <size=100>Наш дискорд:</size>
+<size=100>Наш дискорд:</size>
 <color="yellow">https://discord.gg/EVvjFZfGEY</color>
 или ЛС <color="yellow">OptiMysticOne#8930</color>
 02.11.2022
-Пытаемся почаще ходить к Белым Звёздам. Всем рады!
+Пытаемся почаще ходить к Белым Звёздам. Всем рады!}
 ```
 ### [Discord](https://discord.gg/EVvjFZfGEY)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔺  (830)|
+| ELO Regular | 1181 🔺  (831)|
 | ELO Competitive | 1192 🔺  (699)|
 | Total Matches | 16 |
 | Wins | 7 |

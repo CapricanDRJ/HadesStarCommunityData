@@ -13,13 +13,14 @@ date: 1727124295
 
 
 ```
- Newbie and veterans welcome! Just a chill guild looking to have fun :)
+Newbie and veterans welcome! Just a chill guild looking to have fun :
+)}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1210 🔺  (442)|
+| ELO Regular | 1210 🔺  (441)|
 | ELO Competitive | 1210 🔺  (569)|
 | Total Matches | 1 |
 | Wins | 1 |

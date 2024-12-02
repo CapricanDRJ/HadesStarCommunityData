@@ -13,12 +13,12 @@ date: 1732802068
 
 
 ```
- <color=red>БЗ без выходных, арты, прокачка.</color>
+<color=red>БЗ без выходных, арты, прокачка.</color>
 
 <color=yellow>Основана в марте 2021г.</color>
 
 <color=red>Telegram(<color=red>ОБЯЗАТЕЛЬНО или КИК</color>)
-+79105072411 @lavrusha23</color>
++79105072411 @lavrusha23</color>}
 ```
 ### Whitestar Bonus ✅
 

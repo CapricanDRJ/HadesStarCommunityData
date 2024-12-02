@@ -13,13 +13,14 @@ date: 1702672167
 
 
 ```
- We are the glorious Death Starz.  Don't get in our way, better join us!!! https://chat.whatsapp.com/F94Hkk98xnn8JsuwNHB3lG
+We are the glorious Death Starz.  Don't get in our way, better join u
+s!!! https://chat.whatsapp.com/F94Hkk98xnn8JsuwNHB3lG}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (796)|
+| ELO Regular | 1183 🔻  (797)|
 | ELO Competitive | 1183 🔻  (944)|
 | Total Matches | 1 |
 | Wins | 0 |

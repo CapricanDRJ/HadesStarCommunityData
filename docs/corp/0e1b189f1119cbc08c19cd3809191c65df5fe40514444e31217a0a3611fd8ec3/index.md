@@ -13,13 +13,13 @@ date: 1723710627
 
 
 ```
- Join if you have a white star scanner and can help in white stars
+Join if you have a white star scanner and can help in white stars}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (908)|
+| ELO Regular | 1172 🔻  (909)|
 | ELO Competitive | 1178 🔻  (990)|
 | Total Matches | 2 |
 | Wins | 0 |

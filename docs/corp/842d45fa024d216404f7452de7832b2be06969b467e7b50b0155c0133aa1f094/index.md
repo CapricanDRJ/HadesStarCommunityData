@@ -13,13 +13,13 @@ date: 1706828870
 
 
 ```
- Burn responsibly
+Burn responsibly}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔺  (411)|
+| ELO Regular | 1214 🔺  (410)|
 | ELO Competitive | 1214 🔺  (535)|
 | Total Matches | 3 |
 | Wins | 2 |

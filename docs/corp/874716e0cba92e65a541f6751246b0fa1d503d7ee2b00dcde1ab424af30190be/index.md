@@ -13,9 +13,10 @@ date: 1721628977
 
 
 ```
- Un grupo de locos amigos internacionales que comparten el gusto a la bebida y a la cháchara XD 
+Un grupo de locos amigos internacionales que comparten el gusto a la 
+bebida y a la cháchara XD 
 Aperturado el día (21/09/22)
-Disfruta Nuestro De Humilde Bar  😎🤙🍻🍻
+Disfruta Nuestro De Humilde Bar  😎🤙🍻🍻}
 ```
 ### Whitestar Bonus ❌
 

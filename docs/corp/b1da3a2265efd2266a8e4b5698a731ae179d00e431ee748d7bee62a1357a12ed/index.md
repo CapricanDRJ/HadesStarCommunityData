@@ -13,7 +13,9 @@ date: 1732900339
 
 
 ```
- <b><color=green><size=70>*Alfa y Omega*</size></color></b><b><color=blue><size=50>                       🪐🌌..."El qué Persevera Alcanza"...🌌🪐<b><color=purple><size=83>    "La Unión hace la Fuerza"
+<b><color=green><size=70>*Alfa y Omega*</size></color></b><b><color=b
+lue><size=50>                       🪐🌌..."El qué Persevera Alcanza"
+...🌌🪐<b><color=purple><size=83>    "La Unión hace la Fuerza"}
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/RsHKaexHNh)
 ### Whitestar Bonus ✅

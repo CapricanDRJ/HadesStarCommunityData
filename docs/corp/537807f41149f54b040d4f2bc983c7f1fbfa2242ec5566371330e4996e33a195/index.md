@@ -13,7 +13,7 @@ date: 1727601157
 
 
 ```
- Estamos a procura de guerreiros para Estrelas Brancas!
+Estamos a procura de guerreiros para Estrelas Brancas!
 
 Entre em contato com o Camereth 
 +351 960 460 999
@@ -21,7 +21,7 @@ Entre em contato com o Camereth
 Nosso diplomata no Discord
 MarceloPC#2109
 
-JUNTOS SOMOS MAIS FORTES
+JUNTOS SOMOS MAIS FORTES}
 ```
 ### [Discord](https://discord.gg/fmyTs3k)
 ### Whitestar Bonus ❌

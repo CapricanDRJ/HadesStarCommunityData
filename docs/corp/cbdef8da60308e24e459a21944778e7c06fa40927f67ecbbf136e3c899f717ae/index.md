@@ -13,13 +13,14 @@ date: 1702431720
 
 
 ```
- Welcome! If you're active, you'll be promoted fast. Also join our discord))
+Welcome! If you're active, you'll be promoted fast. Also join our dis
+cord))}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1213 🔻  (417)|
+| ELO Regular | 1213 🔻  (416)|
 | ELO Competitive | 1213 🔻  (545)|
 | Total Matches | 3 |
 | Wins | 2 |

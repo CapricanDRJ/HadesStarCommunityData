@@ -13,13 +13,15 @@ date: 1733044267
 
 
 ```
- 🏦 PRETORIANS X. command.🌐*★°★*gral   Com.flexx/ ∆\ Maj L.(jraan)/∆\maj L(TT-2).(golden).∆ maj(wutta)/*/(//*//CapM (barro).(jhonny).2lt (sporg). 3lt bpdp)(demin).(flech).
+🏦 PRETORIANS X. command.🌐*★°★*gral   Com.flexx/ ∆\ Maj L.(jraan)/∆\
+maj L(TT-2).(golden).∆ maj(wutta)/*/(//*//CapM (barro).(jhonny).2lt (
+sporg). 3lt bpdp)(demin).(flech).}
 ```
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔺  (975)|
+| ELO Regular | 1168 🔺  (976)|
 | ELO Competitive | 1255 🔺  (354)|
 | Total Matches | 27 |
 | Wins | 10 |

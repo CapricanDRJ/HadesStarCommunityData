@@ -13,14 +13,16 @@ date: 1732586321
 
 
 ```
- <b><size=116>IMPERIO EXIRIUM </size></b> Bienvenidos todos a esta gran corporación hacemos ER 2 - ER 9. Ayudamos a varios miembros a crecer.                                         WhatsApp incluido.
+<b><size=116>IMPERIO EXIRIUM </size></b> Bienvenidos todos a esta gra
+n corporación hacemos ER 2 - ER 9. Ayudamos a varios miembros a crece
+r.                                         WhatsApp incluido.}
 ```
 ### [Discord](https://discord.gg/https://discord.gg/Jp8NZb5X)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1215 🔺  (399)|
+| ELO Regular | 1215 🔺  (398)|
 | ELO Competitive | 1224 🔺  (467)|
 | Total Matches | 7 |
 | Wins | 3 |

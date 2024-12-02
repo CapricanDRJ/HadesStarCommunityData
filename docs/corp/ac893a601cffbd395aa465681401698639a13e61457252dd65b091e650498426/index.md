@@ -13,13 +13,14 @@ date: 1713475317
 
 
 ```
- Welcome to Tycho. Have fun, be a decent person. Communicate as best you can. 
+Welcome to Tycho. Have fun, be a decent person. Communicate as best y
+ou can. }
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (861)|
+| ELO Regular | 1176 🔻  (862)|
 | ELO Competitive | 1176 🔻  (1005)|
 | Total Matches | 2 |
 | Wins | 0 |

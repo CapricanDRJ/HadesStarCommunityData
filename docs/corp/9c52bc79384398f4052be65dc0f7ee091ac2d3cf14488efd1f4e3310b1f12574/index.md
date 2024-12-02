@@ -13,13 +13,14 @@ date: 1732918372
 
 
 ```
- corpo  tranquille  pour se développer a son rythme et nous assurons 1 étoile  blanche par semaine 👽👽👍
+corpo  tranquille  pour se développer a son rythme et nous assurons 1
+ étoile  blanche par semaine 👽👽👍}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1208 🔻  (450)|
+| ELO Regular | 1208 🔻  (449)|
 | ELO Competitive | 1250 🔻  (373)|
 | Total Matches | 24 |
 | Wins | 11 |

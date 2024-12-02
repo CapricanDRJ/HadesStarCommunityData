@@ -13,13 +13,14 @@ date: 1714751366
 
 
 ```
- Aqui llacen las cuentas de los que un dia fueron jugadores apasionados al juego.    12/18/22 -> Actualidad 
+Aqui llacen las cuentas de los que un dia fueron jugadores apasionado
+s al juego.    12/18/22 -> Actualidad }
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (932)|
+| ELO Regular | 1171 🔻  (933)|
 | ELO Competitive | 1171 🔻  (1076)|
 | Total Matches | 2 |
 | Wins | 0 |

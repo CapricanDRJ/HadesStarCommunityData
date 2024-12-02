@@ -13,7 +13,7 @@ date: 1715246850
 
 
 ```
- Ein kleiner Konzern. Mal schauen wo es hingeht.
+Ein kleiner Konzern. Mal schauen wo es hingeht.}
 ```
 ### Whitestar Bonus ❌
 

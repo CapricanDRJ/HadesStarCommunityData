@@ -13,16 +13,16 @@ date: 1729538944
 
 
 ```
- Back in Action!
+Back in Action!
 
-DISC: EEpZuWf
+DISC: EEpZuWf}
 ```
 ### [Discord](https://discord.gg/EEpZuWf)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (915)|
+| ELO Regular | 1171 🔻  (916)|
 | ELO Competitive | 1180 🔻  (969)|
 | Total Matches | 8 |
 | Wins | 2 |

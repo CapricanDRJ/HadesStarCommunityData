@@ -13,7 +13,8 @@ date: 1706608888
 
 
 ```
- <b> <color=#FFC0CB>Добро Пожаловать в Северный Флот!</b>       <color=#8bbe1b>Discord Канал:<b>#👀сбор-на-кз</b> </color>(читай Справку)
+<b> <color=#FFC0CB>Добро Пожаловать в Северный Флот!</b>       <color
+=#8bbe1b>Discord Канал:<b>#👀сбор-на-кз</b> </color>(читай Справку)}
 ```
 ### [Discord](https://discord.gg/xxJxnp5m7f)
 ### Whitestar Bonus ❌
@@ -21,7 +22,7 @@ date: 1706608888
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1230 🔺  (307)|
-| ELO Competitive | 1231 🔺  (437)|
+| ELO Competitive | 1231 🔺  (438)|
 | Total Matches | 2 |
 | Wins | 2 |
 | Losses | 0 |

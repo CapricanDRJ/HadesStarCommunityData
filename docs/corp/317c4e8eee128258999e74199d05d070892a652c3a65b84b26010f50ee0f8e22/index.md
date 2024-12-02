@@ -13,13 +13,13 @@ date: 1712942878
 
 
 ```
- War is hell.
+War is hell.}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1177 🔻  (852)|
+| ELO Regular | 1177 🔻  (853)|
 | ELO Competitive | 1183 🔻  (946)|
 | Total Matches | 13 |
 | Wins | 5 |

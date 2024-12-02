@@ -13,7 +13,9 @@ date: 1701425499
 
 
 ```
- Achieving greatness through economic stability in local planets, advanced mining capabilities, interstellar diplomacy, and conservative military strength. 
+Achieving greatness through economic stability in local planets, adva
+nced mining capabilities, interstellar diplomacy, and conservative mi
+litary strength. }
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/fd8ppQbcH)
 ### Whitestar Bonus ❌
@@ -21,7 +23,7 @@ date: 1701425499
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1230 🔺  (311)|
-| ELO Competitive | 1230 🔺  (439)|
+| ELO Competitive | 1230 🔺  (440)|
 | Total Matches | 2 |
 | Wins | 2 |
 | Losses | 0 |

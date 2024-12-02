@@ -13,16 +13,18 @@ date: 1732327002
 
 
 ```
- ♡Welcome all♡
-Anfängerfreundlicher Stern sucht höfliche und redselige Piloten zum davonfliegen.
-We are friendly international corp. English and/or German prefered, but other languages tolerated. 
+♡Welcome all♡
+Anfängerfreundlicher Stern sucht höfliche und redselige Piloten zum d
+avonfliegen.
+We are friendly international corp. English and/or German prefered, b
+ut other languages tolerated. }
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/38aedttX)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (802)|
+| ELO Regular | 1183 🔻  (803)|
 | ELO Competitive | 1199 🔻  (640)|
 | Total Matches | 8 |
 | Wins | 2 |

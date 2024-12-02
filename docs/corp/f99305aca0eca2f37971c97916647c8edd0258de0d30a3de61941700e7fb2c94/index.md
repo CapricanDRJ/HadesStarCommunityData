@@ -13,12 +13,12 @@ date: 1732327002
 
 
 ```
- [United Industries of Hades]
+[United Industries of Hades]
 
 Discord is mandatory! 
 
 Visit us on discord  to join:
-https://discord.gg/ysGrswJTUp
+https://discord.gg/ysGrswJTUp}
 ```
 ### [Discord](https://discord.gg/vPsNNxs)
 ### Whitestar Bonus ❌

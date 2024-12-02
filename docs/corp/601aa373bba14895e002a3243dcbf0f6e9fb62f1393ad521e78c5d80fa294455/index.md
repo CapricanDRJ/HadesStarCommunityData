@@ -13,15 +13,15 @@ date: 1703316525
 
 
 ```
- "Werde Teil einer außergewöhnlichen Mannschaft"
+"Werde Teil einer außergewöhnlichen Mannschaft"
 Jeder ist willkommen, permanent WZ, RR's und Support.
-Traut euch... bewirb dich noch heute 🖖🏻
+Traut euch... bewirb dich noch heute 🖖🏻}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (855)|
+| ELO Regular | 1176 🔻  (856)|
 | ELO Competitive | 1176 🔻  (1010)|
 | Total Matches | 4 |
 | Wins | 1 |

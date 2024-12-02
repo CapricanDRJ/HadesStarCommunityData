@@ -13,13 +13,15 @@ date: 1707681836
 
 
 ```
- Nueva Hyperion revive. Únete para comenzar a crecer tu imperio con las ventajas de una corporación ya empezada. Jugamos de manera relajada. Pregunta por el Discord en el chat.
+Nueva Hyperion revive. Únete para comenzar a crecer tu imperio con la
+s ventajas de una corporación ya empezada. Jugamos de manera relajada
+. Pregunta por el Discord en el chat.}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔻  (402)|
+| ELO Regular | 1214 🔻  (401)|
 | ELO Competitive | 1219 🔻  (491)|
 | Total Matches | 5 |
 | Wins | 3 |

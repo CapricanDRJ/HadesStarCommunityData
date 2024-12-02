@@ -13,9 +13,9 @@ date: 1733138918
 
 
 ```
- <color=#6495ED>Telegram</color> t.me/hs_111_reunion
+<color=#6495ED>Telegram</color> t.me/hs_111_reunion
 Ники пустые или без кирилических, латинских символов недопускаются
-
+}
 ```
 ### Whitestar Bonus ✅
 

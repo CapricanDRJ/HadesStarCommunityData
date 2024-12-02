@@ -13,14 +13,14 @@ date: 1711701595
 
 
 ```
- Bób, humus, włoszczyzna... BLOK EKIPA
+Bób, humus, włoszczyzna... BLOK EKIPA
 
 -Zabawy na ws
 -Pomagamy sobie wzajemnie
 -Brak spin , nie spamimy
 -Pomoc początkującym
 
-no i fajnie no i cześć  ^^ witamy!
+no i fajnie no i cześć  ^^ witamy!}
 ```
 ### Whitestar Bonus ❌
 

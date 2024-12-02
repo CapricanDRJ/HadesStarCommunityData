@@ -13,13 +13,13 @@ date: 1713796231
 
 
 ```
- We are one and never broken.
+We are one and never broken.}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1209 🔺  (446)|
+| ELO Regular | 1209 🔺  (445)|
 | ELO Competitive | 1222 🔺  (476)|
 | Total Matches | 20 |
 | Wins | 10 |

@@ -13,14 +13,14 @@ date: 1703247402
 
 
 ```
- Bienvenue à tous les aventuriers galactique !
-https://discord.gg/M8HFPDG
+Bienvenue à tous les aventuriers galactique !
+https://discord.gg/M8HFPDG}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (963)|
+| ELO Regular | 1169 🔻  (964)|
 | ELO Competitive | 1171 🔻  (1086)|
 | Total Matches | 2 |
 | Wins | 0 |

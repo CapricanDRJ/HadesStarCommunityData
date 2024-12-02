@@ -13,7 +13,7 @@ date: 1730131847
 
 
 ```
- Part of Oceania Alliance.     New players welcome
+Part of Oceania Alliance.     New players welcome}
 ```
 ### [Discord](https://discord.gg/skvJzZH)
 ### Whitestar Bonus ❌
@@ -21,7 +21,7 @@ date: 1730131847
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1224 🔺  (335)|
-| ELO Competitive | 1229 🔺  (445)|
+| ELO Competitive | 1229 🔺  (446)|
 | Total Matches | 2 |
 | Wins | 2 |
 | Losses | 0 |

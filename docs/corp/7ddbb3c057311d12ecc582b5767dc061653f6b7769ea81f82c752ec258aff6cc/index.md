@@ -13,7 +13,9 @@ date: 1733135011
 
 
 ```
- We have active players all over the world cooperating to build economies and compete in weekly White Stars. Stay active. Discord for WS. FS2 donations welcome.
+We have active players all over the world cooperating to build econom
+ies and compete in weekly White Stars. Stay active. Discord for WS. F
+S2 donations welcome.}
 ```
 ### [Discord](https://discord.gg/gBPEdZt)
 ### Whitestar Bonus ❌

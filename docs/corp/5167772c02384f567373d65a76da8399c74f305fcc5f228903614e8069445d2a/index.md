@@ -13,14 +13,16 @@ date: 1707775947
 
 
 ```
- It's official branch of PAndORe Corp., more information in discord. Since 20 lvl - old membership, since 35 lvl - officer's membership (except 1st twenty members)
+It's official branch of PAndORe Corp., more information in discord. S
+ince 20 lvl - old membership, since 35 lvl - officer's membership (ex
+cept 1st twenty members)}
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/sdxrxgrEqQ)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1203 🔻  (473)|
+| ELO Regular | 1203 🔻  (472)|
 | ELO Competitive | 1209 🔻  (572)|
 | Total Matches | 9 |
 | Wins | 5 |

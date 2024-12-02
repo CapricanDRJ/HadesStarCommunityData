@@ -13,12 +13,13 @@ date: 1732895530
 
 
 ```
- <color=white>We are BSO! The oldest conglomerate in HS
+<color=white>We are BSO! The oldest conglomerate in HS
 
-BlackStar Order, Final, TS, UG, AN, Dau, Pro, Soy, & Obn working together to excel
+BlackStar Order, Final, TS, UG, AN, Dau, Pro, Soy, & Obn working toge
+ther to excel
 
 You are RS5+ & want to join?</color>
-Discord: (YTaYrhy)
+Discord: (YTaYrhy)}
 ```
 ### [Discord](https://discord.gg/YTaYrhy)
 ### Whitestar Bonus ✅

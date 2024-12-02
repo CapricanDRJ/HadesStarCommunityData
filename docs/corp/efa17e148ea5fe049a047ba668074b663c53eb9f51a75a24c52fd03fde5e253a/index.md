@@ -13,7 +13,7 @@ date: 1699685036
 
 
 ```
- 
+}
 ```
 ### Whitestar Bonus ❌
 

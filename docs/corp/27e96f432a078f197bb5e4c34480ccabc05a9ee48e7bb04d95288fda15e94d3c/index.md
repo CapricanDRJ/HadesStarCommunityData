@@ -13,7 +13,8 @@ date: 1732013570
 
 
 ```
- Corp divisão e aliada a corporação AFronteiraFinal. jogadores iniciantes são bem vindos! Virtus Unita Fortior.
+Corp divisão e aliada a corporação AFronteiraFinal. jogadores inician
+tes são bem vindos! Virtus Unita Fortior.}
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/bv5q7qHTDb)
 ### Whitestar Bonus ❌

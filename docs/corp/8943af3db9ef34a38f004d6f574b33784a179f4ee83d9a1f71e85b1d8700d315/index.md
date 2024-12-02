@@ -13,7 +13,9 @@ date: 1706545194
 
 
 ```
- Les Clés de 12 Stellaires Impacla... implacla.... Non, il fait chier ce mot. Ici, les guerriers sont (presque) virils et ont le bras dur (...)
+Les Clés de 12 Stellaires Impacla... implacla.... Non, il fait chier 
+ce mot. Ici, les guerriers sont (presque) virils et ont le bras dur (
+...)}
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/pbRrZKrA)
 ### Whitestar Bonus ❌

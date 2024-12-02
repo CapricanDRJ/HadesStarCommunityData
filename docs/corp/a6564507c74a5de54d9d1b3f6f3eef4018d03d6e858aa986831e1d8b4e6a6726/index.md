@@ -13,13 +13,13 @@ date: 1713971404
 
 
 ```
- Vous êtes là pour grandir. ✯
+Vous êtes là pour grandir. ✯
 
 dialogue, écoute et persévérance sont là clé. シ︎
 
 La naissance d'un empire ! ❦︎
 
-https://discord.gg/AA2vSmDw ☠︎
+https://discord.gg/AA2vSmDw ☠︎}
 ```
 ### Whitestar Bonus ❌
 

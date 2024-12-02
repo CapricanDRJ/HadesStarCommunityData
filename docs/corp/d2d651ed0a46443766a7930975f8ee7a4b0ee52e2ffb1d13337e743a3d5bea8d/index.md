@@ -13,15 +13,16 @@ date: 1732523514
 
 
 ```
- <color=#72bf47><b>RS EVENT RANK 2</b></color>
-На базе корпорации RUS проводится ивент сборной командой с участием игроков ру-сегмента. Присоединяйся 👉
-https://t.me/RSeventHS
+<color=#72bf47><b>RS EVENT RANK 2</b></color>
+На базе корпорации RUS проводится ивент сборной командой с участием и
+гроков ру-сегмента. Присоединяйся 👉
+https://t.me/RSeventHS}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔺  (404)|
+| ELO Regular | 1214 🔺  (403)|
 | ELO Competitive | 1299 🔺  (263)|
 | Total Matches | 35 |
 | Wins | 17 |

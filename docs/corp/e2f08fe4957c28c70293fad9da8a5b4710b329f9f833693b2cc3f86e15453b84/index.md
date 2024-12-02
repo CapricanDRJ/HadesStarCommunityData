@@ -13,8 +13,8 @@ date: 1714611048
 
 
 ```
- Único requisito: Hablar español
-
+Único requisito: Hablar español
+}
 ```
 ### Whitestar Bonus ❌
 

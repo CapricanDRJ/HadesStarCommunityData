@@ -13,7 +13,7 @@ date: 1731559503
 
 
 ```
- <b>ZION</b> ZION II ZION III MSR VEGA ASTRA
+<b>ZION</b> ZION II ZION III MSR VEGA ASTRA
 
 한국인 최대보유 시온연합
 <b>Discord</b> (PC, Mobile) : <b>37KaujZtkU</b>
@@ -21,14 +21,14 @@ date: 1731559503
 ・ 존중, 배려, 소통
 ・ <b>Discord에서</b> 정보공유, 파티원모집, 뉴비지원
 ・ 비매너, 장기미접속은 추방</color> 
-
+}
 ```
 ### [Discord](https://discord.gg/37KaujZtkU)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1203 🔻  (475)|
+| ELO Regular | 1203 🔻  (474)|
 | ELO Competitive | 1290 🔻  (279)|
 | Total Matches | 51 |
 | Wins | 28 |

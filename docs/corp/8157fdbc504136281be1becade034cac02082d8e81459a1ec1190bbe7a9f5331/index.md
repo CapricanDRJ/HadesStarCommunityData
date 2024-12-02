@@ -13,7 +13,7 @@ date: 1724334192
 
 
 ```
- Friend Group for beginners
+Friend Group for beginners}
 ```
 ### Whitestar Bonus ❌
 

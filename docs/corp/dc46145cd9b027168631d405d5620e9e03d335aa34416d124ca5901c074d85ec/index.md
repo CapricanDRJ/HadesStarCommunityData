@@ -13,20 +13,21 @@ date: 1701009836
 
 
 ```
- OntarioDistrict is the Black sheep of <b>OntarioDynasty</b> family of corps. We run WS weekly.
+OntarioDistrict is the Black sheep of <b>OntarioDynasty</b> family of
+ corps. We run WS weekly.
 Pants not required 
 
 
 contact us via Discord to join:
 https://discord.gg/gBFFE5x
 
-od-family.com
+od-family.com}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1213 🔻  (414)|
+| ELO Regular | 1213 🔻  (413)|
 | ELO Competitive | 1214 🔻  (537)|
 | Total Matches | 3 |
 | Wins | 2 |

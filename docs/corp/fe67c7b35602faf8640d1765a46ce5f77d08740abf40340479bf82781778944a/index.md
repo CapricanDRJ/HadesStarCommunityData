@@ -13,7 +13,7 @@ date: 1702443740
 
 
 ```
- <color=white>我们是<size=67><b>地球联合</b></size>集团的第二分盟
+<color=white>我们是<size=67><b>地球联合</b></size>集团的第二分盟
 欢迎各位萌新加入，与我们共同发展~</color>
 
 <color=orange>⚛︎萌新运输舰达到8t可领取15r6神器
@@ -21,7 +21,7 @@ date: 1702443740
 ⚛︎还有交易折扣等福利</color>
 
 QQ群号：742063070
-<color=yellow>*群内有教程，加入享有更多福利</color>
+<color=yellow>*群内有教程，加入享有更多福利</color>}
 ```
 ### Whitestar Bonus ❌
 

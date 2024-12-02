@@ -13,18 +13,18 @@ date: 1720730961
 
 
 ```
- Keeping it in the family since 2017! 
+Keeping it in the family since 2017! 
 
 We’re the black hole to your probe. 
 The thrust to your ship. 
 
-A Space Family :)
+A Space Family :)}
 ```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (881)|
+| ELO Regular | 1174 🔻  (882)|
 | ELO Competitive | 1190 🔻  (737)|
 | Total Matches | 2 |
 | Wins | 0 |

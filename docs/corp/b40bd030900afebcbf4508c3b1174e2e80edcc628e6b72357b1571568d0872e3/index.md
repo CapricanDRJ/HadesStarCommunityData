@@ -13,17 +13,18 @@ date: 1721778627
 
 
 ```
- Laid back corp with occasional WS. Most importantly, we have fun! <b>Discord is mandatory!</b>
+Laid back corp with occasional WS. Most importantly, we have fun! <b>
+Discord is mandatory!</b>
 
 • Seeking all new members
-• Casual WS Corp
+• Casual WS Corp}
 ```
 ### [Discord](https://discord.gg/kUcE6EP)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1206 🔻  (462)|
+| ELO Regular | 1206 🔻  (461)|
 | ELO Competitive | 1212 🔻  (556)|
 | Total Matches | 10 |
 | Wins | 5 |
