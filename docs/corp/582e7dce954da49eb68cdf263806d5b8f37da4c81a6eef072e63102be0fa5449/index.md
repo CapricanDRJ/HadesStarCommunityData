@@ -14,7 +14,7 @@ date: 1732985077
 
 ```
 Bienvenidos a Argentina ⭐⭐⭐ 1.0 hay whatsapp ebs semanal ers o rs 1-6
- 8-11}
+ 8-11
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/JapURyAWBw)
 ### Whitestar Bonus ✅

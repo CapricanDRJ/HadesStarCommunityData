@@ -15,7 +15,7 @@ date: 1732962535
 ```
 Wir bieten: gemeinsame rr/drr bis 11, wöchentliche WZ, Spaß, Tipps, H
 ilfe, Spiele mit Ingamepreisen und einen sehr gut genutzten Discordse
-rver. Anfänger willkommen, wir helfen dir gerne! Okt/24}
+rver. Anfänger willkommen, wir helfen dir gerne! Okt/24
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/a5t3JQP2hM)
 ### Whitestar Bonus ✅

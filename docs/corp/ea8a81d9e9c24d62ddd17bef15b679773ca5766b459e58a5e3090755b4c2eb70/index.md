@@ -18,7 +18,7 @@ nels comme pour les plus actifs.
 
 rejoignez nous sur discord: https://discord.gg/SBBXmQ9
 
-"Vers l'infini et l'otter space !"}
+"Vers l'infini et l'otter space !"
 ```
 ### Whitestar Bonus ❌
 

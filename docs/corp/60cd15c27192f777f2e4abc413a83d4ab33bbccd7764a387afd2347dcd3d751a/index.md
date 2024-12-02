@@ -16,7 +16,7 @@ date: 1732608552
 <b><size=92><color=#9fe5ff>💫 STONE LEGION 💫</b>
 <color=#fff>The Legion wants you!
 <size=48><color=#76aabf>Cᴏɴsᴏʀᴛɪᴜᴍ ᴏғ Mɪɴᴇʀs ᴀɴᴅ Sᴄɪᴇɴᴛɪsᴛs
-<size=73><color=#666>RESISTENTIA IMPLACABILIS}
+<size=73><color=#666>RESISTENTIA IMPLACABILIS
 ```
 ### [Discord](https://discord.gg/SZYbjxJSf3)
 ### Whitestar Bonus ✅

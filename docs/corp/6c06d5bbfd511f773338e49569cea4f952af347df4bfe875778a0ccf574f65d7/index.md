@@ -13,7 +13,7 @@ date: 1702701316
 
 
 ```
-Her taler vi dansk (Danish only)  }
+Her taler vi dansk (Danish only)  
 ```
 ### Whitestar Bonus ❌
 

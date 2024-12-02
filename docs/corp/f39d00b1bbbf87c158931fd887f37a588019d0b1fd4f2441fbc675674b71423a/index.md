@@ -16,7 +16,7 @@ date: 1732102213
 欢迎萌新大佬加入，从此不做流浪汉
 别捐旗舰！别捐旗舰！
 友好关系：绛紫星
-Q：650722059}
+Q：650722059
 ```
 ### [Discord](https://discord.gg/akTfXJGv)
 ### Whitestar Bonus ❌

@@ -18,7 +18,7 @@ date: 1700112312
 <size=40px>Full name: Xinghai Destiny Community Alliance
 Long live the great communism! 
 Q群:669494799
-部分人员即将转移至其他集团，详情请见Q群</size></b></color>}
+部分人员即将转移至其他集团，详情请见Q群</size></b></color>
 ```
 ### Whitestar Bonus ❌
 

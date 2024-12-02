@@ -18,7 +18,7 @@ date: 1704086180
 This is the Round Table. We Help each other and have fun. Most of all
  be Respectful and Honest.
 
-Discord - https://discord.gg/b8VCJrC}
+Discord - https://discord.gg/b8VCJrC
 ```
 ### Whitestar Bonus ❌
 

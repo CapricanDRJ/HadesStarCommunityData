@@ -20,7 +20,7 @@ color>
 • First time WS players welcome
 • Activity is required
 
-Join Discord here: <b>EEpZuWf</b>}
+Join Discord here: <b>EEpZuWf</b>
 ```
 ### Whitestar Bonus ❌
 

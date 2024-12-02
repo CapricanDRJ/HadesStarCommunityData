@@ -20,7 +20,7 @@ rigsten Typen.
 Wir sind Teil der Tartaros Armada. 
 
 Discordpflicht!
-UmWZYtn9Hh}
+UmWZYtn9Hh
 ```
 ### Whitestar Bonus ❌
 

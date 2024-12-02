@@ -14,7 +14,7 @@ date: 1702033497
 
 ```
 Szukamy graczy aktywnych na WS! Przed dołączeniem wejdź na nasz disco
-rd.}
+rd.
 ```
 ### [Discord](https://discord.gg/9EdXH7jF)
 ### Whitestar Bonus ❌

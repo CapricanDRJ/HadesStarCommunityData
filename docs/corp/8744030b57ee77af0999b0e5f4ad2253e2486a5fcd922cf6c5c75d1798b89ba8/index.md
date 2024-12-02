@@ -13,7 +13,7 @@ date: 1720103767
 
 
 ```
-United Nations Space Command.}
+United Nations Space Command.
 ```
 ### [Discord](https://discord.gg/https://discord.gg/rbQwDdUp8A)
 ### Whitestar Bonus ❌

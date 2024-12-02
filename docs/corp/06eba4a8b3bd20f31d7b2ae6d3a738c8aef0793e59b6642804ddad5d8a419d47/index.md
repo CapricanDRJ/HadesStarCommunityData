@@ -20,7 +20,7 @@ Time Lord Code-VyUtJZG
 Ally Code-CkQfp5t
 
 Jr Corp-Time Lords Jr
-Alt Corp - Time Lords Alts}
+Alt Corp - Time Lords Alts
 ```
 ### Whitestar Bonus ❌
 

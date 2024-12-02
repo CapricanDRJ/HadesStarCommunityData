@@ -15,7 +15,7 @@ date: 1727657953
 ```
 The home of small-team Competitive & Hardcore WS. Quality RS9+ queue 
 open via discord to visitors. We are a tight-knit and supportive crew
-. Visit our Discord at mmUnEav.}
+. Visit our Discord at mmUnEav.
 ```
 ### Whitestar Bonus ❌
 

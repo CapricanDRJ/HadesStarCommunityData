@@ -14,7 +14,7 @@ date: 1718937188
 
 ```
 <b><color=#00FFFF>Corp. Estelar 2 | AXOLOTLS</color></b><i><br><u><si
-ze=35>Entra a nuestro grupo de whatsapp 😁  +56 9 8804 5954}
+ze=35>Entra a nuestro grupo de whatsapp 😁  +56 9 8804 5954
 ```
 ### [Discord](https://discord.gg/YFqE6eAq43)
 ### Whitestar Bonus ❌

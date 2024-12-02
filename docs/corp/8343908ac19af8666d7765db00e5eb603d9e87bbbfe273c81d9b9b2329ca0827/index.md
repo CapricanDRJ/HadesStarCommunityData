@@ -14,7 +14,7 @@ date: 1713540223
 
 ```
 We are a paused corp, join or stay at your own risk, but check us out
- again in the future}
+ again in the future
 ```
 ### [Discord](https://discord.gg/3yhvuzqeax)
 ### Whitestar Bonus ❌

@@ -19,7 +19,7 @@ Esta corp es descendiente
 Ambo de *corp no encontrado* y latinos :)
 ER de 1-9
 Esperamos su llegada!
-<b>[No aceptamos gente en EB].</b> Se requiere wassat}
+<b>[No aceptamos gente en EB].</b> Se requiere wassat
 ```
 ### Whitestar Bonus ❌
 

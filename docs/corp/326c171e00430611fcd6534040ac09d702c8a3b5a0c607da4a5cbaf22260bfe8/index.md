@@ -14,7 +14,7 @@ date: 1714047703
 
 ```
 Welcome to the Mini Elite!Owned by The ElitePart of The Elite Feder
-ation.May the Low Red Stars of Hades unite into TEF}
+ation.May the Low Red Stars of Hades unite into TEF
 ```
 ### [Discord](https://discord.gg/https://discord.gg/Y26M3hNF)
 ### Whitestar Bonus ❌

@@ -20,7 +20,7 @@ amos con artefactos, estrellas rojas e hidrógeno.
 
 CONTACTO:
 - C8jvrsR (Discord)
-- D3U3oPzVBrzCl5NNsaepfL (WhatsApp)}
+- D3U3oPzVBrzCl5NNsaepfL (WhatsApp)
 ```
 ### Whitestar Bonus ❌
 

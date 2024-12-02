@@ -18,7 +18,7 @@ date: 1704655853
 роисходящем в мире Hades! 
 discord.gg/cc22fFn
  канал союз-2
-discord.gg/PyVCs}
+discord.gg/PyVCs
 ```
 ### Whitestar Bonus ❌
 

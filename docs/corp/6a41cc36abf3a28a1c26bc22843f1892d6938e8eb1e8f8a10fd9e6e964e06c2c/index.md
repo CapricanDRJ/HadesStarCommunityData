@@ -14,7 +14,7 @@ date: 1725512501
 
 ```
 Station für einsame Piloten, lasst uns gemeinsam stillschweigend chil
-len.}
+len.
 ```
 ### [Discord](https://discord.gg/tJfbtQjcxg)
 ### Whitestar Bonus ❌

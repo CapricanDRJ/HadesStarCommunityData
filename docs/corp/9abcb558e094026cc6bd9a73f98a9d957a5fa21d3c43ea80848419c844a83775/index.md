@@ -16,7 +16,7 @@ date: 1713714237
 join the discord server
 https://discord.gg/F8c4yKxNnb
 
-n always friendly}
+n always friendly
 ```
 ### Whitestar Bonus ❌
 

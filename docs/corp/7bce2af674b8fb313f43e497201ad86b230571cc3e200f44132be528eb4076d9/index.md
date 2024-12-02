@@ -15,7 +15,7 @@ date: 1733123896
 ```
 Мы не проигрываем на бз. Почти. Зайди, проверь. We don't  lose a game
 . Телеграмм      https://t.me/Nebula_Zvezdec            Участие в бз 
-обязательно.}
+обязательно.
 ```
 ### [Discord](https://discord.gg/tbGjUb7xSQ)
 ### Whitestar Bonus ✅

@@ -19,7 +19,7 @@ Jeśli chcesz do nas dołączyć najpierw skontaktuj sie z nami na discor
 dzie.
 
 Discord obowiązkowy:
-https://discord.gg/qWTndzwmtX}
+https://discord.gg/qWTndzwmtX
 ```
 ### Whitestar Bonus ❌
 

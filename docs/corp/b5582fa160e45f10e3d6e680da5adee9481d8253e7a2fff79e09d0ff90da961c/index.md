@@ -13,7 +13,7 @@ date: 1705726588
 
 
 ```
-organizaçoes dos estados brasileiros / presidente : O.E.B.}
+organizaçoes dos estados brasileiros / presidente : O.E.B.
 ```
 ### Whitestar Bonus ❌
 

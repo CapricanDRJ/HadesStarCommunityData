@@ -13,7 +13,7 @@ date: 1732808486
 
 
 ```
-KillFrist}
+KillFrist
 ```
 ### Whitestar Bonus ❌
 

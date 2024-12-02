@@ -17,7 +17,7 @@ Be a part of something, join the Galactic Empire!
 We are recruiting and helping active members.
 
 Member of Space Ghost Alliance (GE, TF, RST, BB, SJ, USA)
-Discord: fYBf2GNU7y}
+Discord: fYBf2GNU7y
 ```
 ### Whitestar Bonus ❌
 

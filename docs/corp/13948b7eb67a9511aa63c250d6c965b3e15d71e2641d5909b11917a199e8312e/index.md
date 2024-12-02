@@ -19,7 +19,7 @@ app. Es de carácter obligatorio...
 +584247543714 [2]
 
 Alianza de Corporaciones
-AXOLOTLS}
+AXOLOTLS
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/PsVdr8kd)
 ### Whitestar Bonus ❌

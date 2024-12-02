@@ -19,7 +19,7 @@ Part of the Space Ghost Alliance (SGA).
 Join our discord: T7DV2nx
 
 If kicked for inactivity, please join back when ready.  
-}
+
 ```
 ### [Discord](https://discord.gg/fYBf2GNU7y)
 ### Whitestar Bonus ✅

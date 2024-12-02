@@ -18,7 +18,7 @@ Juntos somos invencíveis.
 Mensagem: Mantenha-se ativo ou terá que dar vaga na corporação para o
 utro entrar.
 
-Em breve faremos estrelas brancas.}
+Em breve faremos estrelas brancas.
 ```
 ### Whitestar Bonus ❌
 

@@ -14,7 +14,7 @@ date: 1733028345
 
 ```
 Умеренная правая политическая партия крупных землевладельцев России )
- мы в телеге https://t.me/+VA_QNsSwibFjY2Vi}
+ мы в телеге https://t.me/+VA_QNsSwibFjY2Vi
 ```
 ### [Discord](https://discord.gg/XMAWRfxQcD)
 ### Whitestar Bonus ✅

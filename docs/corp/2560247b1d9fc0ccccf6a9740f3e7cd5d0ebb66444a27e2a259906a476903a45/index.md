@@ -14,7 +14,7 @@ date: 1732985077
 
 ```
 <size=50><b><color=white>Navegar es necesario. <size=50><b><color=red
->Vivir no lo es}
+>Vivir no lo es
 ```
 ### Whitestar Bonus ❌
 

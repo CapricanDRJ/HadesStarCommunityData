@@ -15,7 +15,7 @@ date: 1732629585
 ```
 Fun relaxed group made up of newbies and the experienced. Weekly whit
 e stars. Joining discord is required for all activities and White Sta
-r involvement. Link is 👇}
+r involvement. Link is 👇
 ```
 ### [Discord](https://discord.gg/J5kNRjVJM4)
 ### Whitestar Bonus ✅

@@ -13,7 +13,7 @@ date: 1708262593
 
 
 ```
-hello everyone}
+hello everyone
 ```
 ### Whitestar Bonus ❌
 

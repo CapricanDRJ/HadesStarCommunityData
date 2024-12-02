@@ -13,7 +13,7 @@ date: 1722520898
 
 
 ```
-<color=#9932CC><b><size=80>Welcome to the end of time.</size></b>}
+<color=#9932CC><b><size=80>Welcome to the end of time.</size></b>
 ```
 ### Whitestar Bonus ❌
 

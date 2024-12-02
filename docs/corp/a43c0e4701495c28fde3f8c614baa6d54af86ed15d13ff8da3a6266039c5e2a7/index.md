@@ -15,7 +15,7 @@ date: 1707434406
 ```
 Welcome to Hades Seminary, the second corp for Hades Academy. We are 
 very laied back but competitive corp. Please join our Discord and acc
-ept our rules to get your member role!}
+ept our rules to get your member role!
 ```
 ### [Discord](https://discord.gg/kUcE6EP)
 ### Whitestar Bonus ❌

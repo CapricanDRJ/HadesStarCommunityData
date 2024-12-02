@@ -13,7 +13,7 @@ date: 1720733966
 
 
 ```
-Hauptstreitmacht der Quin Armarda}
+Hauptstreitmacht der Quin Armarda
 ```
 ### Whitestar Bonus ❌
 

@@ -15,7 +15,7 @@ date: 1732994995
 ```
 Estr. blanca lunes a las 14:00h. Si no participas desactivate. Si par
 ticipas la asistencia es obligada, no participar = expulsión. Rojas d
-e L a V a las 22:00. Discord recomendado, tenemos comunidad.}
+e L a V a las 22:00. Discord recomendado, tenemos comunidad.
 ```
 ### [Discord](https://discord.gg/https://discord.gg/MZDNrGyav9)
 ### Whitestar Bonus ❌

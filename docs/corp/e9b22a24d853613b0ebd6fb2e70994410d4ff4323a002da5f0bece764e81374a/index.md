@@ -19,7 +19,7 @@ RS 9 to RS 6
 Join us on discord for chat,
 advice, beer and kisses.
 
-https://discord.gg/GdYCEhTeq}
+https://discord.gg/GdYCEhTeq
 ```
 ### [Discord](https://discord.gg/GdYCEhTeq)
 ### Whitestar Bonus ❌

@@ -15,7 +15,7 @@ date: 1732986880
 ```
 From the very beginning, Imperium corporation has charted a course fo
 r growth and success. And to grow even bigger we are looking for all 
-type of stars veterans and beginners. International.}
+type of stars veterans and beginners. International.
 ```
 ### [Discord](https://discord.gg/YNfwuam6Wh)
 ### Whitestar Bonus ✅

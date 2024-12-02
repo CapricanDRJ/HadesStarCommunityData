@@ -19,7 +19,7 @@ date: 1732192368
 二盟华夏航队
 三盟为华夏新航线
 <color=green>本集团为国人满加成集团，欢迎朋友们来打私人红星，让我们一起快速发展</color>
-<color=blue>Dis: https:// discord.gg/v2xC6g9Shy</color>}
+<color=blue>Dis: https:// discord.gg/v2xC6g9Shy</color>
 ```
 ### Whitestar Bonus ❌
 

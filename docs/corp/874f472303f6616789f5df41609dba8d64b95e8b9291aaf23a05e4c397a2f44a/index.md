@@ -15,7 +15,7 @@ date: 1730897510
 ```
 <color=#FFFFFF>WELCOME TO <color=#FFD700>SUN OF <color=#FFFF00>3<colo
 r=#FFD700>LANDS <color=#FFFFFF>We Warmly welcome Newcomer here. Sa mg
-a gustong sumali sa WsRaid DM nyo lang Ako at my GC kami sa MS}
+a gustong sumali sa WsRaid DM nyo lang Ako at my GC kami sa MS
 ```
 ### Whitestar Bonus ❌
 

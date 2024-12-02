@@ -14,7 +14,7 @@ date: 1731859426
 
 ```
 Wir sind ein relativ Aktiver Konzern und Freuen uns auf  neue Mitglie
-der }
+der 
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/EsJvWZe)
 ### Whitestar Bonus ❌

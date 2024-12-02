@@ -15,7 +15,7 @@ date: 1726301901
 ```
 <b>ARk Ecosystem</b><br><br>Welcome to the ARk, Commander. Please con
 duct yourself appropriately, for we are a highly experienced WS Group
-.<br><br>(D)RS7-10<br>Bi-Weekly WS<br>Discord Mandatory}
+.<br><br>(D)RS7-10<br>Bi-Weekly WS<br>Discord Mandatory
 ```
 ### [Discord](https://discord.gg/teAN7k5Mc7)
 ### Whitestar Bonus ❌

@@ -18,7 +18,7 @@ date: 1733009420
 🔹 English speaking.
 🔹 Weekly white stars.
 🔹 Allies of Stargate. 
-}
+
 ```
 ### [Discord](https://discord.gg/qx6HrYM223)
 ### Whitestar Bonus ❌

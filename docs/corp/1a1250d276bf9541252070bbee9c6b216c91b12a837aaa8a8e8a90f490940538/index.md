@@ -14,7 +14,7 @@ date: 1732291241
 
 ```
 En français svp - Entraide, discussions amicales, bonne humeur. Dites
- bonjour à votre arrivée! Sinon out! En français svp   }
+ bonjour à votre arrivée! Sinon out! En français svp   
 ```
 ### [Discord](https://discord.gg/JygbSj6XMP)
 ### Whitestar Bonus ❌

@@ -16,7 +16,7 @@ date: 1733140420
 Be a Pixie
 white star active
 
-}
+
 ```
 ### Whitestar Bonus ✅
 

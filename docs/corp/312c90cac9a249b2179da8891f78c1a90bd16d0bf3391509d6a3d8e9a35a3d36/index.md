@@ -17,7 +17,7 @@ Weekly WS
 RS 5-8 
 Weekly give aways,
 lvl 10 corp bouns on private RS
-Join the family! Active on discord!}
+Join the family! Active on discord!
 ```
 ### [Discord](https://discord.gg/mjFw6PUW52)
 ### Whitestar Bonus ✅

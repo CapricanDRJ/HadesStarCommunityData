@@ -13,7 +13,7 @@ date: 1707562719
 
 
 ```
-Awaiting the next update}
+Awaiting the next update
 ```
 ### Whitestar Bonus ❌
 

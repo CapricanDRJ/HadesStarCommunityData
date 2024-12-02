@@ -14,7 +14,7 @@ date: 1732840236
 
 ```
 Winter Star llc, a Beginner Corporation to help you out on your missi
-ons! //You must Join our Discord within 7 days }
+ons! //You must Join our Discord within 7 days 
 ```
 ### [Discord](https://discord.gg/SpNnydQdNf)
 ### Whitestar Bonus ✅

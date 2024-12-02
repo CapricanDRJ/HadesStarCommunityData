@@ -15,7 +15,7 @@ date: 1716738979
 ```
 Binded to the bigger and older cerulean star corp. All welcome to joi
 n , we run rs, ws and we are democratic. Join our discord - most of o
-ur organization is there, use the link below                  }
+ur organization is there, use the link below                  
 ```
 ### [Discord](https://discord.gg/tXs82nVf99)
 ### Whitestar Bonus ❌

@@ -13,7 +13,7 @@ date: 1708077481
 
 
 ```
-who dealt it if you haven't smelt it?}
+who dealt it if you haven't smelt it?
 ```
 ### Whitestar Bonus ❌
 

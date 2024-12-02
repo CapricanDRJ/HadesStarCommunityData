@@ -13,7 +13,7 @@ date: 1712311014
 
 
 ```
-Dead}
+Dead
 ```
 ### Whitestar Bonus ❌
 

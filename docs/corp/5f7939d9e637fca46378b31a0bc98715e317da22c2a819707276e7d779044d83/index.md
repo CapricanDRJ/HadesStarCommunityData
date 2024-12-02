@@ -15,7 +15,7 @@ date: 1707860684
 ```
 <color=#00a6ca><size=120>WARRIORS</size><br><color=#01a6ca>Open to ev
 eryone<br>Get a deplomacy station to get help<br><color=#00a6ca><size
-=100>Come one come all</size>}
+=100>Come one come all</size>
 ```
 ### Whitestar Bonus ❌
 

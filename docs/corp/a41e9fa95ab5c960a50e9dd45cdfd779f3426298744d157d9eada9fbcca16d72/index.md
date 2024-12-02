@@ -20,7 +20,7 @@ requently.
 
 Please join our Discord Server 
 https://discord.gg/Xt8tjjGdRD
-}
+
 ```
 ### [Discord](https://discord.gg/Xt8tjjGdRD)
 ### Whitestar Bonus ❌

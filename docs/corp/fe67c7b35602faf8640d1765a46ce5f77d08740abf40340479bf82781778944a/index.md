@@ -21,7 +21,7 @@ date: 1702443740
 ⚛︎还有交易折扣等福利</color>
 
 QQ群号：742063070
-<color=yellow>*群内有教程，加入享有更多福利</color>}
+<color=yellow>*群内有教程，加入享有更多福利</color>
 ```
 ### Whitestar Bonus ❌
 

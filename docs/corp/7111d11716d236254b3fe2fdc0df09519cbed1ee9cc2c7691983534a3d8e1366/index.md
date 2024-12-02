@@ -22,7 +22,7 @@ Aktive WZler Willkommen
 Discord nur für WZ Pflicht
 https://discord.gg/M35HmhvmC2
 
-Mitglied der Tartaros Armada }
+Mitglied der Tartaros Armada 
 ```
 ### Whitestar Bonus ❌
 

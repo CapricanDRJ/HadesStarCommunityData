@@ -14,7 +14,7 @@ date: 1703905762
 
 ```
 Please only English speaking.We play red stars and white stars.Inacti
-vity leads to being kicked out.We play without discord.Have fun!}
+vity leads to being kicked out.We play without discord.Have fun!
 ```
 ### Whitestar Bonus ❌
 

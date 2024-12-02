@@ -17,7 +17,7 @@ We are the Borg, You will be assimilated, Resistance is futile.
 
 Unimatrix 1 of the Borg collective 
 
-BorgHadesStar.reddit.com}
+BorgHadesStar.reddit.com
 ```
 ### Whitestar Bonus ❌
 

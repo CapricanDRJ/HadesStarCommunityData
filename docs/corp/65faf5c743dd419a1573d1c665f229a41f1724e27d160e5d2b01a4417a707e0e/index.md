@@ -16,7 +16,7 @@ date: 1732924682
 <color=red>★★★</color>.<color=white>Добро пожаловать★КЗ3-9!!!</color>
 <color=red>★★★</color><color=white>Еженедельные походы наБЗ★</color>
 <color=#1E90FF>БЗ Telegram☎</color>
-память ★VeprKoloyar★}
+память ★VeprKoloyar★
 ```
 ### Whitestar Bonus ✅
 

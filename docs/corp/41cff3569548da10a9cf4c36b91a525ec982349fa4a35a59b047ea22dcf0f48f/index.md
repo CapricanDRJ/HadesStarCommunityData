@@ -15,7 +15,7 @@ date: 1732704702
 ```
 ENTRE E VEM JOGAR CONOSCO.
 TRAPSTAR½
-¹½}
+¹½
 ```
 ### [Discord](https://discord.gg/IPTV.IT)
 ### Whitestar Bonus ❌

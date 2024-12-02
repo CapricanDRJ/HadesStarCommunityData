@@ -13,7 +13,7 @@ date: 1720495291
 
 
 ```
-Bienvenidos a la Corp Copelius. Apoyándonos para crecer unidos.}
+Bienvenidos a la Corp Copelius. Apoyándonos para crecer unidos.
 ```
 ### Whitestar Bonus ❌
 

@@ -15,7 +15,7 @@ date: 1732620870
 ```
 ∆ We are Corporation Vossk, Squadrons of the 9th Legion. We have come
  to bring order to the galaxy and crush all who oppose the Empire. Jo
-in us or prepare to meet your destiny.}
+in us or prepare to meet your destiny.
 ```
 ### [Discord](https://discord.gg/https://discord.gg/XV3P836s)
 ### Whitestar Bonus ❌

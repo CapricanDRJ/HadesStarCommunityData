@@ -13,7 +13,7 @@ date: 1707429599
 
 
 ```
-spreading bloodborne's positive vibes}
+spreading bloodborne's positive vibes
 ```
 ### [Discord](https://discord.gg/XZ9FWsd)
 ### Whitestar Bonus ❌

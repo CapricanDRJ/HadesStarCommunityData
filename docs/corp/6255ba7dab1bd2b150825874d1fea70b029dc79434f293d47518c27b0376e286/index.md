@@ -20,7 +20,7 @@ enguins.</color>
 
 
 Recruiting rs9-rs11
-Discord: asheRjW}
+Discord: asheRjW
 ```
 ### [Discord](https://discord.gg/asheRjW)
 ### Whitestar Bonus ✅

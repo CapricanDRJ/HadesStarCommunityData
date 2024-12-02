@@ -14,7 +14,7 @@ date: 1727896547
 
 ```
 we would like players who enjoy ws battles. we have 5, could use 5 mo
-re. }
+re. 
 ```
 ### Whitestar Bonus ❌
 

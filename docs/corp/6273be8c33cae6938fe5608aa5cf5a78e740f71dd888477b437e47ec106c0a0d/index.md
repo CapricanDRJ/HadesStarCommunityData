@@ -15,7 +15,7 @@ date: 1733034053
 ```
 Starte als Kadett der Sternenflotte und erkunde gemeinsame neue Plane
 ten, Sternensysteme und Technologien. Lass Deine Reise zu den Sternen
- beginnen!}
+ beginnen!
 ```
 ### [Discord](https://discord.gg/MNs4VdSb)
 ### Whitestar Bonus ✅

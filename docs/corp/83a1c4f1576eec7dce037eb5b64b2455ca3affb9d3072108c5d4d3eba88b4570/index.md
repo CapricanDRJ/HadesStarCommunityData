@@ -14,7 +14,7 @@ date: 1733084117
 
 ```
   Focused on multi-player  redstar raids.  Active, Supportive, & Loya
-l.  PG-13 chat. Must be able to communicate in English. }
+l.  PG-13 chat. Must be able to communicate in English. 
 ```
 ### Whitestar Bonus ❌
 

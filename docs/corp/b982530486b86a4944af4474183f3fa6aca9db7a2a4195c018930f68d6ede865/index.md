@@ -13,7 +13,7 @@ date: 1724412671
 
 
 ```
-欢迎各位萌新加入。}
+欢迎各位萌新加入。
 ```
 ### [Discord](https://discord.gg/JXaTpU9Q)
 ### Whitestar Bonus ❌

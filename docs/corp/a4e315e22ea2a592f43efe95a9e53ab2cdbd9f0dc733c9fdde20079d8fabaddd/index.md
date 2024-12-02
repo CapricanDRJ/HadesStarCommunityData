@@ -21,7 +21,7 @@ Discord <b>mandatory</b>
 Code 3A9WHQV
 
 Part of the group known as <color=#c4ff00>SPACE PALS<color=#111100><
-color=#111100><b></b></color>}
+color=#111100><b></b></color>
 ```
 ### [Discord](https://discord.gg/3A9WHQV)
 ### Whitestar Bonus ❌

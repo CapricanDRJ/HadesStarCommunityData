@@ -15,7 +15,7 @@ date: 1700537357
 ```
 ホワイトスターを持つ方をシニアに、一部をオフィサーに昇格させます。オフィサーはホワイトスタースキャンを起動できます。
 20日以上のログイン無しでキックします。リクエストで再入会可能です。
-White Star scanner owner is promoted to seniour member.}
+White Star scanner owner is promoted to seniour member.
 ```
 ### Whitestar Bonus ❌
 

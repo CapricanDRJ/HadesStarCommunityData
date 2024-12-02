@@ -21,7 +21,7 @@ Discord : hb9JBGP
 French Language
 
 Battlesquadron : RS 7+
-Galaxian : RS1-6}
+Galaxian : RS1-6
 ```
 ### [Discord](https://discord.gg/hb9JBGP)
 ### Whitestar Bonus ❌

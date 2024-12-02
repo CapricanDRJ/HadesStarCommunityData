@@ -13,7 +13,7 @@ date: 1733094804
 
 
 ```
-elegram @actung_bunker}
+elegram @actung_bunker
 ```
 ### [Discord](https://discord.gg/7qRTk7bX3P)
 ### Whitestar Bonus ❌

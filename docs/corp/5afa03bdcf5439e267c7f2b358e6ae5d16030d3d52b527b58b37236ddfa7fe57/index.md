@@ -14,7 +14,7 @@ date: 1729688296
 
 ```
 觉悟者，恒幸福           Do you believe in gravity? Humans always go to heav
-en。盟团：SRTRVS233～黑名单：家园星系（因篡夺首席霍乱朝纲）}
+en。盟团：SRTRVS233～黑名单：家园星系（因篡夺首席霍乱朝纲）
 ```
 ### Whitestar Bonus ❌
 

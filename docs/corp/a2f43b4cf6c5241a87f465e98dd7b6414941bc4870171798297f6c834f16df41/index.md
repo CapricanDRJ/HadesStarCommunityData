@@ -15,7 +15,7 @@ date: 1731752750
 ```
 Therefore do not be ashamed of the testimony about our Lord, nor of m
 e his prisoner, but share in suffering for the gospel by the power of
- God, }
+ God, 
 ```
 ### Whitestar Bonus ❌
 

@@ -15,7 +15,7 @@ date: 1707904850
 ```
 <color=blue>「Peace White Star」<br></color>欢迎学生、萌新、大佬的加入，这里人人平等，人人都有权利
 ！长时离线者适时移出，会收到通知，回游后可重新加入。<color=red>依活跃人数适时开白。<br>本团人员大量流失，急需人才，望各方英
-才的加入！<br>盟团：共产主义舰队<size=40><br><color=green>无论何时何地，这里都是你永远的家}
+才的加入！<br>盟团：共产主义舰队<size=40><br><color=green>无论何时何地，这里都是你永远的家
 ```
 ### Whitestar Bonus ❌
 

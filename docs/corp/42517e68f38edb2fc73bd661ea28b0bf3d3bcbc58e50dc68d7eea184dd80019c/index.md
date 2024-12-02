@@ -17,7 +17,7 @@ date: 1708890039
 y the game. Casual players are welcome. We are running weekly White S
 tars. 
 
-discord.gg/Rup2ee8DxR}
+discord.gg/Rup2ee8DxR
 ```
 ### Whitestar Bonus ❌
 

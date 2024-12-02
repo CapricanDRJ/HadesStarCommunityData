@@ -14,7 +14,7 @@ date: 1732884106
 
 ```
  Добро пожаловать! Открыты всем. Дата основания 09.06.22. Ссылка на г
-остевой чат в ТГ https://t.me/Date_Samurai_HS}
+остевой чат в ТГ https://t.me/Date_Samurai_HS
 ```
 ### Whitestar Bonus ✅
 

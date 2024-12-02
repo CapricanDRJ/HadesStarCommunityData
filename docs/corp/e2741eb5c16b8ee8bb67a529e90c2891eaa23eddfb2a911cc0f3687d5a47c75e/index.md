@@ -13,7 +13,7 @@ date: 1732680367
 
 
 ```
-No camping. Discord mandatory for ws}
+No camping. Discord mandatory for ws
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/jMqZD8XskE)
 ### Whitestar Bonus ✅

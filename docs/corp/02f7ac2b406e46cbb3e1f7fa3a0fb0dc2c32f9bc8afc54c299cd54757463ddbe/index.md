@@ -15,7 +15,7 @@ date: 1732973956
 ```
 Benvenuto nella Corporazione federale italiana. Richiesta partecipazi
 one/cooperazione. Per chi ha accesso alle WS è consigliato un contrib
-uto settimanale di 10000 crediti per l'ammiraglia. }
+uto settimanale di 10000 crediti per l'ammiraglia. 
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/fgaX8sDM)
 ### Whitestar Bonus ✅

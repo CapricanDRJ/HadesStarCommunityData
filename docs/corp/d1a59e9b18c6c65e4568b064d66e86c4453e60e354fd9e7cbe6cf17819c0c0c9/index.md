@@ -18,7 +18,7 @@ Our goal is simple; Work together to create a strong relationship in
 building our star systems and corporation. GL
 
 All Corp Plyrs May Join!! 
-Discord: 3gRh7ae}
+Discord: 3gRh7ae
 ```
 ### Whitestar Bonus ❌
 

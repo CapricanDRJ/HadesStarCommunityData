@@ -15,7 +15,7 @@ date: 1733050275
 ```
 У <color="yellow">монголов золотая🌕<color="lightblue">, а у <color="
 white">нас серебряная🏐 🔘Регулярно БЗ. Ждём активных игроков😀 <colo
-r="green">Русский, English}
+r="green">Русский, English
 ```
 ### [Discord](https://discord.gg/p6rrFevJbJ)
 ### Whitestar Bonus ❌

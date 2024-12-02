@@ -15,7 +15,7 @@ date: 1719704704
 ```
 Corporación que admite a jugadores activos sin importar su nivel o po
 der imperial. El discord está en la descripción. 30 dias máximos de i
-nactividad }
+nactividad 
 ```
 ### [Discord](https://discord.gg/rvVvpBuEb6)
 ### Whitestar Bonus ❌

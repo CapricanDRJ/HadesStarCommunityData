@@ -17,7 +17,7 @@ date: 1732327002
 Anfängerfreundlicher Stern sucht höfliche und redselige Piloten zum d
 avonfliegen.
 We are friendly international corp. English and/or German prefered, b
-ut other languages tolerated. }
+ut other languages tolerated. 
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/38aedttX)
 ### Whitestar Bonus ❌

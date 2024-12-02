@@ -21,7 +21,7 @@ Entre em contato com o Camereth
 Nosso diplomata no Discord
 MarceloPC#2109
 
-JUNTOS SOMOS MAIS FORTES}
+JUNTOS SOMOS MAIS FORTES
 ```
 ### [Discord](https://discord.gg/fmyTs3k)
 ### Whitestar Bonus ❌

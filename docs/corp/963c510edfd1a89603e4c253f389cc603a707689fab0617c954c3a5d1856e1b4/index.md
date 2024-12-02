@@ -15,7 +15,7 @@ date: 1723558871
 ```
 Ведем набор игроков.
 Помощь новичкам артефактами, кз.
-https://t.me/klrlo}
+https://t.me/klrlo
 ```
 ### Whitestar Bonus ❌
 

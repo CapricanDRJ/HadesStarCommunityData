@@ -15,7 +15,7 @@ date: 1705007195
 ```
 We are the Borg. We will add your biological and technological distin
 ctiveness to our own. Your culture will adapt to service us. Resistan
-ce is futile. No politics and no racism.}
+ce is futile. No politics and no racism.
 ```
 ### Whitestar Bonus ❌
 

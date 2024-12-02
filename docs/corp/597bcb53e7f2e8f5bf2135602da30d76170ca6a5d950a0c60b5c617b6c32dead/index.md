@@ -19,7 +19,7 @@ date: 1732836340
 ✡qq企鹅群：<color=red>614592574</color>
 首席微信号:<color=blue>18970688854</color>
 没qq的可以加微信进集团群
-✡分团《云浪度假村↕》《想想的后勤部》《Gemini》}
+✡分团《云浪度假村↕》《想想的后勤部》《Gemini》
 ```
 ### Whitestar Bonus ❌
 

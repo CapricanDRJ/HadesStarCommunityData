@@ -13,7 +13,7 @@ date: 1707871199
 
 
 ```
-For all fans of the STARBLAZER yamato series}
+For all fans of the STARBLAZER yamato series
 ```
 ### Whitestar Bonus ❌
 

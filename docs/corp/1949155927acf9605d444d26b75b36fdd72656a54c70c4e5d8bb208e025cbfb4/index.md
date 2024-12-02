@@ -14,7 +14,7 @@ date: 1700952741
 
 ```
 Multi corporation for all members of corps who are allied( daily play
-ers only) rest in main corps to build}
+ers only) rest in main corps to build
 ```
 ### Whitestar Bonus ❌
 

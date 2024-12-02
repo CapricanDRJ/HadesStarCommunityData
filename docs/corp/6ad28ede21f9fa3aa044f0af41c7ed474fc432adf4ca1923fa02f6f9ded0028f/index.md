@@ -14,7 +14,7 @@ date: 1726576846
 
 ```
 <color=orange>Rogue Corp</color> We are serious but fun..., Join us f
-or weekly <color=white>WS</color> and private <color=red>RS</color> }
+or weekly <color=white>WS</color> and private <color=red>RS</color> 
 ```
 ### [Discord](https://discord.gg/MztVs42x)
 ### Whitestar Bonus ❌

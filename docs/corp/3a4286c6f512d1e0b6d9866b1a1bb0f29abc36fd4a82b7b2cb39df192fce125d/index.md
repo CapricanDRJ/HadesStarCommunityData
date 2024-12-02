@@ -15,7 +15,7 @@ date: 1733071315
 ```
 RR 9-11 täglich und wöchentliche WZ- Runs.  Externe RR-Piloten bitte 
 ausschließlich über unseren Discord-Bot anmelden /  External RS pilot
-s please register exclusively via our Discord bot 🙂}
+s please register exclusively via our Discord bot 🙂
 ```
 ### [Discord](https://discord.gg/SK46885)
 ### Whitestar Bonus ✅

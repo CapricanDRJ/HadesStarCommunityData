@@ -14,7 +14,7 @@ date: 1708872607
 
 ```
 we focus on white stars, app discord is very necessary. Discord: macr
-o7233}
+o7233
 ```
 ### Whitestar Bonus ❌
 

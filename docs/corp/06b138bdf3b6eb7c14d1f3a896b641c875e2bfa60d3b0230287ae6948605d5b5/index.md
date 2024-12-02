@@ -14,7 +14,7 @@ date: 1711126201
 
 ```
 a Corp for the Casual gamer. some White stars. Our active players hav
-e merged with 2ND-R8.}
+e merged with 2ND-R8.
 ```
 ### [Discord](https://discord.gg/nYPxsBANC3)
 ### Whitestar Bonus ❌

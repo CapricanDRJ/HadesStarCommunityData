@@ -13,7 +13,7 @@ date: 1706031300
 
 
 ```
-not in use}
+not in use
 ```
 ### [Discord](https://discord.gg/Ce44HVcM)
 ### Whitestar Bonus ❌

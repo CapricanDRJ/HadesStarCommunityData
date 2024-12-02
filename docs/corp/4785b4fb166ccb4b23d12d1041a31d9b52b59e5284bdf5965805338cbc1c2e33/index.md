@@ -15,7 +15,7 @@ date: 1710067336
 ```
 Right BS
 Left trans
-Centre mine}
+Centre mine
 ```
 ### Whitestar Bonus ❌
 

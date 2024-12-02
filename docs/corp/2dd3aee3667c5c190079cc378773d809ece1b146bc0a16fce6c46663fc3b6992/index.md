@@ -16,7 +16,7 @@ date: 1722148180
 WhatsApp: <color=#00FFFF>034 99879-2012</color>
 
  <color=red>Top 1 BR </color> está recrutando guerreiros dedicados em
- RS e WS. interessado chamar no whatsapp.}
+ RS e WS. interessado chamar no whatsapp.
 ```
 ### Whitestar Bonus ❌
 

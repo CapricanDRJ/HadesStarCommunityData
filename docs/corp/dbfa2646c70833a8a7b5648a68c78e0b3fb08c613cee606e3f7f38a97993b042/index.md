@@ -13,7 +13,7 @@ date: 1724504942
 
 
 ```
-New begginging?}
+New begginging?
 ```
 ### Whitestar Bonus ❌
 

@@ -13,7 +13,7 @@ date: 1704183140
 
 
 ```
-CORP COLONIZADA}
+CORP COLONIZADA
 ```
 ### Whitestar Bonus ❌
 

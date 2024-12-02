@@ -18,7 +18,7 @@ date: 1733094756
 <color=white>• Еженедельные БЗ1
 • Ленивые БЗ2
 https://t.me/+rYmH3oRRd5FiMDVi</color>
-Вклад только во Флагман 1}
+Вклад только во Флагман 1
 ```
 ### [Discord](https://discord.gg/QrVCb9V2hX)
 ### Whitestar Bonus ✅

@@ -20,7 +20,7 @@ Join discord for chat, advice and laughter:
 
 https://discord.gg/gBFFE5x
 
-od-family.com}
+od-family.com
 ```
 ### Whitestar Bonus ❌
 

@@ -19,7 +19,7 @@ date: 1732624476
 PS：本团隶属于阿尔特拉集团                       阿尔特拉QQ群号：719776587
 不要给旗舰捐钱
 DON'T DONATE CREDITS TO THE FLAGSHIP!
-勿谈和白}
+勿谈和白
 ```
 ### Whitestar Bonus ✅
 

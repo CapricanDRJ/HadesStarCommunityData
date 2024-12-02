@@ -13,7 +13,7 @@ date: 1713545933
 
 
 ```
-https://t.me/+DHUj70egD4s0MGUy}
+https://t.me/+DHUj70egD4s0MGUy
 ```
 ### Whitestar Bonus ❌
 

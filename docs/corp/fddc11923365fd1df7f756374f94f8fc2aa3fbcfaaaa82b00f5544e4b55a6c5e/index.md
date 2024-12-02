@@ -13,7 +13,7 @@ date: 1724029522
 
 
 ```
-Because you can't solo White Stars. https://discord.gg/GWA38Gx}
+Because you can't solo White Stars. https://discord.gg/GWA38Gx
 ```
 ### Whitestar Bonus ❌
 

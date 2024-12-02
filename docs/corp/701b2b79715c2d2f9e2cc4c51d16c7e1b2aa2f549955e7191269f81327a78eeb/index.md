@@ -13,7 +13,7 @@ date: 1701407467
 
 
 ```
-<b><color=yellow>主盟：<i>星环-星际联盟</i>}
+<b><color=yellow>主盟：<i>星环-星际联盟</i>
 ```
 ### Whitestar Bonus ❌
 

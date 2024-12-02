@@ -15,7 +15,7 @@ date: 1733166570
 ```
 <color=#88F>Welcome to Blue Dwarf!</color> Part of the Dwarf family, 
 join us for group Red Star runs, hints and tips, free artifacts, and 
-weekly White Stars - enable scanner to opt-in! Discord advised}
+weekly White Stars - enable scanner to opt-in! Discord advised
 ```
 ### [Discord](https://discord.gg/mbBssbBRQ8)
 ### Whitestar Bonus ✅

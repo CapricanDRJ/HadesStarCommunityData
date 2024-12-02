@@ -20,7 +20,7 @@ date: 1732389205
 •Friendly Community
 
 Discord mandatory. <b>EEpZuWf
-Winter Comes to Hades</b>}
+Winter Comes to Hades</b>
 ```
 ### [Discord](https://discord.gg/EEpZuWf)
 ### Whitestar Bonus ❌

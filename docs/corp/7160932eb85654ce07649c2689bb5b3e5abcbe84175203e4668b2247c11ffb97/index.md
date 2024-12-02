@@ -13,7 +13,7 @@ date: 1721414692
 
 
 ```
-Star Field-星域}
+Star Field-星域
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/3PnPgbbf)
 ### Whitestar Bonus ❌

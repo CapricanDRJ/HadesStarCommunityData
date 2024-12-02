@@ -14,7 +14,7 @@ date: 1733061095
 
 ```
 Neulinge und Aktive willkommen. Bei uns steht der gemeinsame Spaß im 
-Vordergrund.}
+Vordergrund.
 ```
 ### [Discord](https://discord.gg/UXNc44dxk6)
 ### Whitestar Bonus ✅

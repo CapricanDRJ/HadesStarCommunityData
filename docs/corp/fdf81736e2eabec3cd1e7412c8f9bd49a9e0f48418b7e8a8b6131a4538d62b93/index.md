@@ -15,7 +15,7 @@ date: 1720668745
 ```
 A constituent of the The Watchers' family. This corp is mostly overfl
 ow and retirees. 
-Join us on Discord for RS, WS, chat and other active members: mDEUrs8}
+Join us on Discord for RS, WS, chat and other active members: mDEUrs8
 ```
 ### Whitestar Bonus ❌
 

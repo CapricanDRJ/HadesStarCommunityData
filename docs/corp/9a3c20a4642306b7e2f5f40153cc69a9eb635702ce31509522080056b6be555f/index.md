@@ -17,7 +17,7 @@ Que el mundo sepa que somos peligrosos. Somos leones, y los leones no
  pactan con los hombres. 
 ▪︎7 días inactivo sin aviso: expulsión. 
 ▪︎WhatsApp obligatorio para EB
-▪Si buscas pelea, esta es tu corp}
+▪Si buscas pelea, esta es tu corp
 ```
 ### Whitestar Bonus ❌
 

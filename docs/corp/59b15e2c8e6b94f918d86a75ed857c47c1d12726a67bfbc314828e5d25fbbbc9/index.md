@@ -15,7 +15,7 @@ date: 1713259271
 ```
 Welcome to Year 2 of the Great Conquest! We love to WIN! We can not a
 ccept new members during a WS match. If rejected, join our Discord & 
-we will happily arrange your arrival after the match!}
+we will happily arrange your arrival after the match!
 ```
 ### [Discord](https://discord.gg/ZxWsQDeHKm)
 ### Whitestar Bonus ❌

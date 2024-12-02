@@ -19,7 +19,7 @@ Competitive White Stars
 Discord link below for game advice, private RS coordination, trading,
  White Star war room and general chitchat. 
 
-https://discord.gg/HV5zgTg3SQ}
+https://discord.gg/HV5zgTg3SQ
 ```
 ### Whitestar Bonus ❌
 

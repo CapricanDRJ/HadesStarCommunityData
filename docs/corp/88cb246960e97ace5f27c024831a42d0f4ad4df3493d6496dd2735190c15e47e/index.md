@@ -22,7 +22,7 @@ date: 1732973956
 ★Discord：https://discord.gg/yMRBXE9VZ4
 ★北冥建立时间：2020.7.8
 
-ღ愿世界平和，愿人们的温柔永存}
+ღ愿世界平和，愿人们的温柔永存
 ```
 ### Whitestar Bonus ❌
 

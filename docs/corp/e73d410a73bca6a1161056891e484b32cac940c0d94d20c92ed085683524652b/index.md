@@ -19,7 +19,7 @@ S. Służymy pomocą merytoryczną.
 Rekrutację prowadzimy także na naszym discordzie.
 
 DISCORD
-vGfaYFN}
+vGfaYFN
 ```
 ### [Discord](https://discord.gg/vGfaYFN)
 ### Whitestar Bonus ✅

@@ -20,7 +20,7 @@ any level is ok
 Discord:https://discord:gg/HA83rt6E
 
 MAIN=SENIOR MEMBER
-ALT=NO PROMOTION}
+ALT=NO PROMOTION
 ```
 ### Whitestar Bonus ❌
 

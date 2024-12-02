@@ -14,7 +14,7 @@ date: 1732257279
 
 ```
 A home for any new or veteran player who wants to grow their corporat
-ion. Team focused; total support. Growing fast!}
+ion. Team focused; total support. Growing fast!
 ```
 ### Whitestar Bonus ❌
 

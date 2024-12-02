@@ -15,7 +15,7 @@ date: 1709592586
 ```
 Will help new players. Laid back, no drama.
 Discord participation is mandatory. Join here: https://discord.gg/upz
-nTnWWUf}
+nTnWWUf
 ```
 ### Whitestar Bonus ❌
 

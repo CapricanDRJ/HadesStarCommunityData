@@ -19,7 +19,7 @@ BlackStar Order, Final, TS, UG, Path of Hades, and Dauntless as one c
 orporation.
 
 Are you RS6+ & want to join?
-<color=blue>Discord: (YTaYrhy)</color>}
+<color=blue>Discord: (YTaYrhy)</color>
 ```
 ### Whitestar Bonus ❌
 

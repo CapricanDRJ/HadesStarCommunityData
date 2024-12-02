@@ -17,7 +17,7 @@ Hello! We're a friendly, helpful bunch with active WS and RS! Please
 join Discord before applying!
 <color=red></color>
 Rocket-by Baby, in a White Star
-When your ships blow, our relics will soar..}
+When your ships blow, our relics will soar..
 ```
 ### [Discord](https://discord.gg/5VHFHkC)
 ### Whitestar Bonus ❌

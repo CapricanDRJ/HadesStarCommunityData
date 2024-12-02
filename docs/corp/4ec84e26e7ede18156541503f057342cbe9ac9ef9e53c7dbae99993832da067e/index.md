@@ -15,7 +15,7 @@ date: 1732830320
 ```
 3 Year Celebration of the Legion Prime!  We are an international grou
 p of players that play hard and enjoy the game!  Join us for RS and W
-S!                         }
+S!                         
 ```
 ### Whitestar Bonus ❌
 

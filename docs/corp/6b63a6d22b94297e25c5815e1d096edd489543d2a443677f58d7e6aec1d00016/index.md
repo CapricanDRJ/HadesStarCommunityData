@@ -13,7 +13,7 @@ date: 1707937906
 
 
 ```
-This is the national space agency of the United States}
+This is the national space agency of the United States
 ```
 ### Whitestar Bonus ❌
 

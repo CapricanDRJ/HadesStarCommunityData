@@ -14,7 +14,7 @@ date: 1709316439
 
 ```
 This corp has moved to Mandaloians (corp), join us there. Discord lin
-k below.}
+k below.
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/JCufnsN57Y)
 ### Whitestar Bonus ❌

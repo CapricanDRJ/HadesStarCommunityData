@@ -16,7 +16,7 @@ date: 1705901181
 ForWSyielders: Looking for best yield in credit/ws point.
 But there is not more of it in DN now...
 
-https://discord.gg/fCsvae5yXv}
+https://discord.gg/fCsvae5yXv
 ```
 ### [Discord](https://discord.gg/fCsvae5yXv)
 ### Whitestar Bonus ❌

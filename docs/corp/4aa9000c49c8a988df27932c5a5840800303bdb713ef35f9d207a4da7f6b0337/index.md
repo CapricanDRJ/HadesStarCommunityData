@@ -17,7 +17,7 @@ Discord: cRMhmXfctC
 https://discord.gg/cRMhmXfctC
 Destroy or be destroyed. This is a place where only the strong surviv
 e
-White star every 2 weeks}
+White star every 2 weeks
 ```
 ### Whitestar Bonus ❌
 

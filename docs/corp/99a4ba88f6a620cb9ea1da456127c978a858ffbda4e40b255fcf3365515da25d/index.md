@@ -15,7 +15,7 @@ date: 1732383495
 ```
 All about the WhiteStars.  Independent corp with close knit players t
 rying there best. Players that don't help towards Whitestar will be r
-emoved after x time . Sec corps: Zeta Divison, Dirty Minds INC}
+emoved after x time . Sec corps: Zeta Divison, Dirty Minds INC
 ```
 ### [Discord](https://discord.gg/QJASDtk4j7)
 ### Whitestar Bonus ❌

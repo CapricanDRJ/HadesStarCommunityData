@@ -18,7 +18,7 @@ Venham participar juntos nas RS e WS nossas e da comunidade PT/BR.
 Se pretende ser um jogador ativo e quer crescer junto com todos, junt
 e-se a nós.
 
-Juntos somos mais fortes.}
+Juntos somos mais fortes.
 ```
 ### Whitestar Bonus ✅
 

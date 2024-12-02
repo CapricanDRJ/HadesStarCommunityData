@@ -21,7 +21,7 @@ date: 1727002679
 还是顶级大佬，
 我们都欢迎你的加入！
 集团QQ群（打白星必需）：</color>1093246955
-<color=red>3日未上线踢出（请假除外）</color>}
+<color=red>3日未上线踢出（请假除外）</color>
 ```
 ### Whitestar Bonus ❌
 

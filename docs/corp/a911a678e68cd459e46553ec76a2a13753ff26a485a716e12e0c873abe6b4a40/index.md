@@ -15,7 +15,7 @@ date: 1705643343
 ```
 Hello budies, join this corporation and we will make you the stronges
 t player.You don't need to join discord.Everyone are welcome and you 
-will get free artificants lv 1.2.3.4.}
+will get free artificants lv 1.2.3.4.
 ```
 ### Whitestar Bonus ❌
 

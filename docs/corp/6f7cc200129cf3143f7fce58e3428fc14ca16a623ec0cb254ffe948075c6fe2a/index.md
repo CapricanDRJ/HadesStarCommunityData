@@ -14,7 +14,7 @@ date: 1703087815
 
 ```
 International corporation with some story behind, learning "Dark Nebu
-la", while trying to stay alive.}
+la", while trying to stay alive.
 ```
 ### [Discord](https://discord.gg/vgrCTD337x)
 ### Whitestar Bonus ❌

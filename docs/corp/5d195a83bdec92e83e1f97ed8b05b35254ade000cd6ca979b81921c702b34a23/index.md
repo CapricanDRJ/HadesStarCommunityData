@@ -20,7 +20,7 @@ date: 1733084238
 **ReadTheChatsForNews,Info**
 *ArtifactSharing*
 **English**
-*Donations Appreciated*}
+*Donations Appreciated*
 ```
 ### [Discord](https://discord.gg/vmbXh7r7yt)
 ### Whitestar Bonus ✅

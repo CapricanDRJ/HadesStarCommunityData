@@ -15,7 +15,7 @@ date: 1702944764
 ```
 <size=73><color=green>LOST PIRATES BREAKS UP</color></size>       Dar
 k Nebula does not reflect what Hades Star was.  In contrast to the ne
-w game policy we have decided to abandon the game.  12/20/2023}
+w game policy we have decided to abandon the game.  12/20/2023
 ```
 ### Whitestar Bonus ❌
 

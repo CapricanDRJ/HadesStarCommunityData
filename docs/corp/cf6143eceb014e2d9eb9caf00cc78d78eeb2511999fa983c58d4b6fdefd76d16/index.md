@@ -13,7 +13,7 @@ date: 1703312018
 
 
 ```
-Relaxed Corp. Join here.}
+Relaxed Corp. Join here.
 ```
 ### Whitestar Bonus ❌
 

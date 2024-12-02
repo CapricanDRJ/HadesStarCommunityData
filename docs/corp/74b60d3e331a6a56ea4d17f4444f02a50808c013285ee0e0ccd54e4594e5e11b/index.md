@@ -14,7 +14,7 @@ date: 1732913263
 
 ```
 <size=50>Без политоты!Discord или Телеграм https://t.me/pycb_rs_hs о
-бязателен для вступления.}
+бязателен для вступления.
 ```
 ### [Discord](https://discord.gg/bjmmfFx)
 ### Whitestar Bonus ❌

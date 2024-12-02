@@ -15,7 +15,7 @@ date: 1725723455
 ```
 Corporação de treinamento/backup - BRASIL STAR<br><br>Esta corporação
  é auxiliar da ⭐ BRASIL STAR ⭐. Para grupo de WhatsApp, peça pra ser 
-adicionado aqui no chat!}
+adicionado aqui no chat!
 ```
 ### [Discord](https://discord.gg/MV5xAcu9Vz)
 ### Whitestar Bonus ❌

@@ -13,7 +13,7 @@ date: 1702798749
 
 
 ```
-Recruiting X-304 pilots to defeat the Goa'uld!}
+Recruiting X-304 pilots to defeat the Goa'uld!
 ```
 ### Whitestar Bonus ❌
 

@@ -15,7 +15,7 @@ date: 1732366963
 ```
 Competitive whitestar team of Hades Star veterans and long time playe
 rs. Discord is required, please join us there before applying in game
-. RS8-11}
+. RS8-11
 ```
 ### [Discord](https://discord.gg/j8wnKvB)
 ### Whitestar Bonus ❌

@@ -17,7 +17,7 @@ date: 1725661259
 омощь новичкам
 
 <color=red>Наш телеграм</color> 
-https://t.me/+k9Bv8nU9QW80NmFi}
+https://t.me/+k9Bv8nU9QW80NmFi
 ```
 ### Whitestar Bonus ❌
 

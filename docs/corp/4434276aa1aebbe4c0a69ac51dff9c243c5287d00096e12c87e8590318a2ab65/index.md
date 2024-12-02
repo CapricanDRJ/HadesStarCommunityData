@@ -13,7 +13,7 @@ date: 1730868965
 
 
 ```
-Korea Aerospace Research Institute}
+Korea Aerospace Research Institute
 ```
 ### [Discord](https://discord.gg/https://discord.gg/rxhQwwna)
 ### Whitestar Bonus ❌

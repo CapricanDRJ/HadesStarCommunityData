@@ -15,7 +15,7 @@ date: 1718903534
 ```
 Our discord is Global Elite, members must join if they wish to partic
 ipate in white stars. Inactivity for 2 weeks will not be tolerated. T
-hose who do not comply with these rules will be kicked}
+hose who do not comply with these rules will be kicked
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/AtGdvduz)
 ### Whitestar Bonus ❌

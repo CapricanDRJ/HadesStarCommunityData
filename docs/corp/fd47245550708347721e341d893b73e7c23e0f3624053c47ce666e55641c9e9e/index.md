@@ -14,7 +14,7 @@ date: 1732619367
 
 ```
 Daily red star runs, weekly white star runs, and occasional corporati
-on events. No alts.}
+on events. No alts.
 ```
 ### [Discord](https://discord.gg/zVyGtnjRyy)
 ### Whitestar Bonus ❌

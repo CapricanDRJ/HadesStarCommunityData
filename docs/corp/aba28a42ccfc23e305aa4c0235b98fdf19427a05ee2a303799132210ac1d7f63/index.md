@@ -16,7 +16,7 @@ date: 1708916623
 Dies ist ein deutscher Konzern, wir spielen kooperativ und es geht um
  den Spaß am Spiel.
 WZs laufen regelmäßig, dabei ist eine aktive Teilnahme absolut notwen
-dig.}
+dig.
 ```
 ### Whitestar Bonus ❌
 

@@ -17,7 +17,7 @@ date: 1732697191
 Регулярные БЗ.
 </color><color="red">Групповые ТКЗ 7-10</color>.
 Для вступления пройдите по ссылке ниже!Телегам: t.me/+NK7g4Pc--pUzNz
-gy}
+gy
 ```
 ### [Discord](https://discord.gg/fc2eg8hNJm)
 ### Whitestar Bonus ✅

@@ -15,7 +15,7 @@ date: 1732564087
 ```
 English language only. Swarming Legions of Faceless enemies. -= Two w
 eeks of inactivity tolerance =- Joining the corp discord server is no
-t mandatory, but it's much welcome. }
+t mandatory, but it's much welcome. 
 ```
 ### [Discord](https://discord.gg/A8AucxezBX)
 ### Whitestar Bonus ✅

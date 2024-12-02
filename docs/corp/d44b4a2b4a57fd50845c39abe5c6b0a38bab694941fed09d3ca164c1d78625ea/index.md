@@ -15,7 +15,7 @@ date: 1733034654
 ```
 Korporacja otwarta na współpracę i miłą zabawę. Szczególne nastawieni
 e na WS.  RS 4-10  »Regularne WS«  PL&EN ... Chcesz dołączyć? Rekruta
-cja odbywa się poprzez nasz kanał Discord.}
+cja odbywa się poprzez nasz kanał Discord.
 ```
 ### [Discord](https://discord.gg/aWeFFra2B7)
 ### Whitestar Bonus ❌

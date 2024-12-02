@@ -19,7 +19,7 @@ date: 1717539178
 <b>BlackStar Order, Final, Path of Hades, UG, TS and Dauntless workin
 g together to excel.</b>
 
-RS6 and Discord needed. (YTaYrhy)}
+RS6 and Discord needed. (YTaYrhy)
 ```
 ### Whitestar Bonus ❌
 

@@ -15,7 +15,7 @@ date: 1707775947
 ```
 It's official branch of PAndORe Corp., more information in discord. S
 ince 20 lvl - old membership, since 35 lvl - officer's membership (ex
-cept 1st twenty members)}
+cept 1st twenty members)
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/sdxrxgrEqQ)
 ### Whitestar Bonus ❌

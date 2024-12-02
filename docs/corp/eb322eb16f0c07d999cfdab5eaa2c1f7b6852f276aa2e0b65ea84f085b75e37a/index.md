@@ -14,7 +14,7 @@ date: 1719971489
 
 ```
 SanctuaryGaming.org for Discord & links.  Please be active and grow y
-our. account.}
+our. account.
 ```
 ### Whitestar Bonus ❌
 

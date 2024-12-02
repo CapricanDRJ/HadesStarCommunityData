@@ -13,7 +13,7 @@ date: 1712942878
 
 
 ```
-War is hell.}
+War is hell.
 ```
 ### Whitestar Bonus ❌
 

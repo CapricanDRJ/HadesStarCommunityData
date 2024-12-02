@@ -19,7 +19,7 @@ date: 1731144822
 Outland welcomes our newest recruits!
 
 Discord is mandatory:
-<color=yellow>discord.gg/vPsNNxs</color>}
+<color=yellow>discord.gg/vPsNNxs</color>
 ```
 ### [Discord](https://discord.gg/vPsNNxs)
 ### Whitestar Bonus ❌

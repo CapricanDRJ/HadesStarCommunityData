@@ -13,7 +13,7 @@ date: 1732950217
 
 
 ```
-Poggy Rockers in the house tonight}
+Poggy Rockers in the house tonight
 ```
 ### [Discord](https://discord.gg/XmASs2XvFW)
 ### Whitestar Bonus ❌

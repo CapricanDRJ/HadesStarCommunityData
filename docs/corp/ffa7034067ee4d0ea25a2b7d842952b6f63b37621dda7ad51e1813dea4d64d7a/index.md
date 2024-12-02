@@ -20,7 +20,7 @@ Tägl. RRs bis 10 ab 20:30
 
 https://discord.gg/ftuA2DGDR4
 
-03/2023}
+03/2023
 ```
 ### Whitestar Bonus ❌
 

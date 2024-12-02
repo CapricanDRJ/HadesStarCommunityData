@@ -15,7 +15,7 @@ date: 1699414502
 ```
 <color=#FFD700>Welcome to Yellow Dwarf!</color> We are part of the Dw
 arf Crew family of corps-Red, White, Green & Blue. We work as a team 
-to help each other. Weekly White Stars in our dedicated corp.}
+to help each other. Weekly White Stars in our dedicated corp.
 ```
 ### [Discord](https://discord.gg/mbBssbBRQ8)
 ### Whitestar Bonus ❌

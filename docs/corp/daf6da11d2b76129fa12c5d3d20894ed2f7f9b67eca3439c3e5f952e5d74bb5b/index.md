@@ -14,7 +14,7 @@ date: 1725116439
 
 ```
 <color=#BDC100><b><size=130>OMEGA <color=#FDFF92>Ω</color> NATION</si
-ze></b></color>}
+ze></b></color>
 ```
 ### [Discord](https://discord.gg/dnjPZnSfEP)
 ### Whitestar Bonus ❌

@@ -15,7 +15,7 @@ date: 1715583143
 ```
 TECH CO the first fleet of TFF Active members is much appeciated. Be 
 careful to each other. Discord is MANDATORY. 10k coin donation to fla
-gship for new members is much appreciated.🥰}
+gship for new members is much appreciated.🥰
 ```
 ### [Discord](https://discord.gg/TayfuucWnS)
 ### Whitestar Bonus ❌

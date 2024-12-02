@@ -23,7 +23,7 @@ Discord for WS /RS
 
 HVgvAaF
 
-(PLEASE NOTE THIS IS CASE SENSITIVE)}
+(PLEASE NOTE THIS IS CASE SENSITIVE)
 ```
 ### [Discord](https://discord.gg/HVgvAaF)
 ### Whitestar Bonus ❌

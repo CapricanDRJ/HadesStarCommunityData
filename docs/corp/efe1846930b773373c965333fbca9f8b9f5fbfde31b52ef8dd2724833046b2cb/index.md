@@ -15,7 +15,7 @@ date: 1729806110
 ```
 se reclutan eb casi diaria requisitos pertenecer a los aliados   habl
 ar español,ingles y portugues Allies: alfa y omega ghostnakcoorp impe
-rio galacti imp estelar }
+rio galacti imp estelar 
 ```
 ### Whitestar Bonus ❌
 

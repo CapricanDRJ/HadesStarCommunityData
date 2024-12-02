@@ -13,7 +13,7 @@ date: 1712072325
 
 
 ```
-vamos ser bom}
+vamos ser bom
 ```
 ### Whitestar Bonus ❌
 

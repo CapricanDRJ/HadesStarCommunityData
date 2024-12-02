@@ -15,7 +15,7 @@ date: 1718644633
 ```
 Que la fuerza te acompañe
 discord:
-https://discord.gg/3PDKPau}
+https://discord.gg/3PDKPau
 ```
 ### Whitestar Bonus ❌
 

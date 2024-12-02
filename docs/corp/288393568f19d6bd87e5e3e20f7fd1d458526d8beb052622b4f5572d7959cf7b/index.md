@@ -15,7 +15,7 @@ date: 1731744338
 ```
 <size=90><b><color=white>Estrellas Blancas</color></b></size><br><siz
 e=50><b>Enterrados <color=red><b>200.000 $ </color></b>en Sad Hill.<b
-r><b>En La tumba sin nombre junto a la de Arch Stanton.}
+r><b>En La tumba sin nombre junto a la de Arch Stanton.
 ```
 ### Whitestar Bonus ❌
 

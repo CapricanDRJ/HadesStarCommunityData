@@ -18,7 +18,7 @@ date: 1729596634
 条件由自我优秀作风或白星表现决定
 </color></size>
 盟团:太阳系联邦
-企鹅（Q）群:<a>865904780</a>}
+企鹅（Q）群:<a>865904780</a>
 ```
 ### [Discord](https://discord.gg/？)
 ### Whitestar Bonus ❌

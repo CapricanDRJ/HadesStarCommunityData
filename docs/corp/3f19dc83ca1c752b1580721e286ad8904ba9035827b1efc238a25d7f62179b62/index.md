@@ -18,7 +18,7 @@ date: 1702351177
 - 뉴비, 고인물 환영합니다
 - 매너, 즐겜, 겸손
 Project for Permanent Peace
-<color="red">                                    * 7일 미접 강퇴  </color>}
+<color="red">                                    * 7일 미접 강퇴  </color>
 ```
 ### Whitestar Bonus ❌
 

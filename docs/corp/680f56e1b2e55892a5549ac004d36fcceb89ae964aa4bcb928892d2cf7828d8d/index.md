@@ -13,7 +13,7 @@ date: 1711309787
 
 
 ```
-A conclusion is simply where you stopped thinking. }
+A conclusion is simply where you stopped thinking. 
 ```
 ### [Discord](https://discord.gg/https://discord.gg/t43HQep)
 ### Whitestar Bonus ❌

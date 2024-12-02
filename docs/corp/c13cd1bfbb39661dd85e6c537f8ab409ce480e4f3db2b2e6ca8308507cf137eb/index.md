@@ -14,7 +14,7 @@ date: 1714751366
 
 ```
 Aqui llacen las cuentas de los que un dia fueron jugadores apasionado
-s al juego.    12/18/22 -> Actualidad }
+s al juego.    12/18/22 -> Actualidad 
 ```
 ### Whitestar Bonus ❌
 

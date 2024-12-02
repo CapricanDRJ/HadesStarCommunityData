@@ -15,7 +15,7 @@ date: 1732935796
 ```
 Welcome to <color=yellow><b>The Star League</b></color>: active <colo
 r=red>Red Star 9-12</color> and competitive <color=white>White Star</
-color> focus.}
+color> focus.
 ```
 ### [Discord](https://discord.gg/2cEAstZ)
 ### Whitestar Bonus ✅

@@ -13,7 +13,7 @@ date: 1713796231
 
 
 ```
-We are one and never broken.}
+We are one and never broken.
 ```
 ### Whitestar Bonus ❌
 

@@ -14,7 +14,7 @@ date: 1718784966
 
 ```
 Welcome to Intertwine! Part of the Elite Federation, discord not mand
-atory but greatly appreciated!}
+atory but greatly appreciated!
 ```
 ### [Discord](https://discord.gg/https://discord.gg/8VRp3sYPbg)
 ### Whitestar Bonus ❌

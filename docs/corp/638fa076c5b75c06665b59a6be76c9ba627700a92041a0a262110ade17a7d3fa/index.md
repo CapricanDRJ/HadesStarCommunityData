@@ -14,7 +14,7 @@ date: 1709942349
 
 ```
 Francophone International. Recherche joueurs pour étoiles sombres niv
-eau 7}
+eau 7
 ```
 ### Whitestar Bonus ❌
 

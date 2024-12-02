@@ -23,7 +23,7 @@ Bresexo amen
 milicu 
 gaylor
 vayanse a la
-Discord: bS2yShvzDz}
+Discord: bS2yShvzDz
 ```
 ### Whitestar Bonus ❌
 

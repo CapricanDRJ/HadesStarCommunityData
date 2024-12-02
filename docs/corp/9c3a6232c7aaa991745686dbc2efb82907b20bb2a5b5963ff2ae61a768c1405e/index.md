@@ -15,7 +15,7 @@ date: 1714979423
 ```
 rookie or veteran we are all learning this new update together. we ar
 e open to any New Comers. Now's the Time to join and feel close to eq
-ual. most importantly we're here to have some fun.}
+ual. most importantly we're here to have some fun.
 ```
 ### Whitestar Bonus ❌
 

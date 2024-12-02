@@ -13,7 +13,7 @@ date: 1722229384
 
 
 ```
-siuuu}
+siuuu
 ```
 ### Whitestar Bonus ❌
 

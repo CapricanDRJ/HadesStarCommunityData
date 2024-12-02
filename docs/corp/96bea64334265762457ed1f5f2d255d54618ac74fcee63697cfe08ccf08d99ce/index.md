@@ -16,7 +16,7 @@ date: 1702742189
 <size=85><color=#ff8833>Free Space</color> <color=#48ff33><b>Alliance
 </b></color></size>
 Supportive community. Regular WS and RS. If u join us for WS, discord
- is required.  https://discord.gg/wVGNEvv}
+ is required.  https://discord.gg/wVGNEvv
 ```
 ### [Discord](https://discord.gg/wVGNEvv)
 ### Whitestar Bonus ❌

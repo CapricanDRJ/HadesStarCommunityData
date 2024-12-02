@@ -13,7 +13,7 @@ date: 1707272130
 
 
 ```
-Looking for those who are interested in White Star missions}
+Looking for those who are interested in White Star missions
 ```
 ### Whitestar Bonus ❌
 

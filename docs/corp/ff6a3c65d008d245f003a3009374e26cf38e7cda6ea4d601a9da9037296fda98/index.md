@@ -18,7 +18,7 @@ join us for and learn DN's WS, RS, BS together as a team.
 
 Discord recommended
 DC : tqSz2DCJZ8
-}
+
 ```
 ### [Discord](https://discord.gg/tqSz2DCJZ8)
 ### Whitestar Bonus ❌

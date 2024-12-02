@@ -22,7 +22,7 @@ Weekly WS! (10v10)
 
 Questions: Message a Babies officer on discord 
 
-Come join the Flight-Team!}
+Come join the Flight-Team!
 ```
 ### Whitestar Bonus ❌
 

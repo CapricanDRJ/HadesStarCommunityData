@@ -20,7 +20,7 @@ date: 1701962572
 ·特拉斯丁第二共和国</color>
 <#86cecb>常驻可加集团QQ群815066596</color>
 <#FAD201>欢迎各路大佬与萌新加入，定期打白</color>
-<#EE4B2B>不欢迎全服公敌瓜老板</color>}
+<#EE4B2B>不欢迎全服公敌瓜老板</color>
 ```
 ### Whitestar Bonus ❌
 

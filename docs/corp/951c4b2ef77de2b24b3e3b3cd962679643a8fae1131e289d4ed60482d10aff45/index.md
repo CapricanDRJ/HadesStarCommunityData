@@ -18,7 +18,7 @@ Keeping it in the family since 2017!
 We’re the black hole to your probe. 
 The thrust to your ship. 
 
-A Space Family :)}
+A Space Family :)
 ```
 ### Whitestar Bonus ❌
 

@@ -13,7 +13,7 @@ date: 1719370177
 
 
 ```
-Mighty Morphin' Power Rangers}
+Mighty Morphin' Power Rangers
 ```
 ### Whitestar Bonus ❌
 

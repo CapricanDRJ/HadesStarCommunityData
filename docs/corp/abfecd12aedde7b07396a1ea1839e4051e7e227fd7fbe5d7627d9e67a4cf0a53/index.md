@@ -13,7 +13,7 @@ date: 1706036411
 
 
 ```
-Celestial Combative Legion}
+Celestial Combative Legion
 ```
 ### [Discord](https://discord.gg/As89TCCw)
 ### Whitestar Bonus ❌

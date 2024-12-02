@@ -26,7 +26,7 @@ ALIANÇA: LUSO (BR/PT) 🚀
 - Helion Prime
 - Br Project
 - Projeto NU
-</color>}
+</color>
 ```
 ### Whitestar Bonus ❌
 

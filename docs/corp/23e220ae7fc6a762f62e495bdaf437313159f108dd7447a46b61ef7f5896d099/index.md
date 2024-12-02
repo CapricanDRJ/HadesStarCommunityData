@@ -15,7 +15,7 @@ date: 1712707084
 ```
 very layed back have fun is pretty much the only rule. please be able
  to speak English that's all I know lol. if I get enough members I wi
-ll do back to back whites stars.}
+ll do back to back whites stars.
 ```
 ### Whitestar Bonus ❌
 

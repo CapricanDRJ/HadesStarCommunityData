@@ -17,7 +17,7 @@ date: 1731554996
 is a friendly corp with a relaxed atmosphere.
 Weekly white star.
 Discord Mandatory.
-<color=#FF0000>discord.gg/JsmNexdvXv</color>}
+<color=#FF0000>discord.gg/JsmNexdvXv</color>
 ```
 ### Whitestar Bonus ❌
 

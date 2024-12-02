@@ -15,7 +15,7 @@ date: 1732811600
 ```
 <color=red>We are 帝国军事学院.   帝国军事学院-主营地。</color><color=orange>这里是一处环境幽
 静，生活安逸的地方。咸鱼玩家/种田党的聚集地。欲买桂花同载酒，终不似，少年游!</color>                      
-  QQ群:479054325（欢迎加入，加盟先加群！）}
+  QQ群:479054325（欢迎加入，加盟先加群！）
 ```
 ### [Discord](https://discord.gg/ndQgHcT)
 ### Whitestar Bonus ✅

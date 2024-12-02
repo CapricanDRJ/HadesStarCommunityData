@@ -13,7 +13,7 @@ date: 1732788242
 
 
 ```
-Notfallstandort der Quin Armarda}
+Notfallstandort der Quin Armarda
 ```
 ### Whitestar Bonus ❌
 

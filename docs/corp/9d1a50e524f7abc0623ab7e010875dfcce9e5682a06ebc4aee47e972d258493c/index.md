@@ -14,7 +14,7 @@ date: 1723854877
 
 ```
 Zapraszamy wszystkich aktywnych graczy, zarówno rozpoczynających przy
-godę, jak również chętnych na regularne zabawy na WS.}
+godę, jak również chętnych na regularne zabawy na WS.
 ```
 ### Whitestar Bonus ❌
 

@@ -13,7 +13,7 @@ date: 1732524115
 
 
 ```
-We don't care. You should try it.}
+We don't care. You should try it.
 ```
 ### Whitestar Bonus ❌
 

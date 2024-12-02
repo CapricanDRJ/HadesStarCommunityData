@@ -22,7 +22,7 @@ date: 1733123896
 •Active community
 
 
-Discord mandatory.  <b>EEpZuWf</b>}
+Discord mandatory.  <b>EEpZuWf</b>
 ```
 ### [Discord](https://discord.gg/EEpZuWf)
 ### Whitestar Bonus ❌

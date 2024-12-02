@@ -17,7 +17,7 @@ Quarantine boredom.  Make the universe great again.
 
 Quick Guides:
 https://tinyurl.com/redsky1
-https://tinyurl.com/redsky2}
+https://tinyurl.com/redsky2
 ```
 ### Whitestar Bonus ❌
 

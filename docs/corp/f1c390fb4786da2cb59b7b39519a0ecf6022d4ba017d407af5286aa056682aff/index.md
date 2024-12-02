@@ -15,7 +15,7 @@ date: 1733114281
 ```
  <color=green>A juvenile corporation, deemed for both growth and enjo
 yment. <color=yellow>Welcomes both newbies and veterans throughout th
-e Hades Galaxy. Join us and have fun }
+e Hades Galaxy. Join us and have fun 
 ```
 ### [Discord](https://discord.gg/aCU5VZGc)
 ### Whitestar Bonus ✅

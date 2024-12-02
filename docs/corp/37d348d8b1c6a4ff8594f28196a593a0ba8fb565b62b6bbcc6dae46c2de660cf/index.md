@@ -15,7 +15,7 @@ date: 1732373877
 ```
 本星际集团是<color=red><size=50>红日初升,其道大光</size></color>第一分团。<color=yellow>
 只有超过70级或r7才会被晋升为干事！</color>盟团：揽月宫 禁入：Artem 2018（乱移人）、♛海棠.花之约♞（辱骂他人）<c
-olor=orange>南极星联盟成员</color>}
+olor=orange>南极星联盟成员</color>
 ```
 ### Whitestar Bonus ❌
 

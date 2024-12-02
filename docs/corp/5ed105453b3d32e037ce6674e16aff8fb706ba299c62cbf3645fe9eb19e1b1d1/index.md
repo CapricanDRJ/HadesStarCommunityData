@@ -21,7 +21,7 @@ New players are welcome to grow your Dynasty in OntarioDiligent, spac
 e bar or Meadow.
 
 Chat us up
-https://discord.gg/gBFFE5x}
+https://discord.gg/gBFFE5x
 ```
 ### [Discord](https://discord.gg/xbJA3n56)
 ### Whitestar Bonus ❌

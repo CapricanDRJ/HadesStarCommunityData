@@ -14,7 +14,7 @@ date: 1732718526
 
 ```
 Welcome, be active and have fun.  Daily RS7+. Rs9 @ 2045 EST. opt in 
-/out of weekly white stars.}
+/out of weekly white stars.
 ```
 ### [Discord](https://discord.gg/pVhwrfFjx3)
 ### Whitestar Bonus ❌

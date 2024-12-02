@@ -16,7 +16,7 @@ date: 1708191071
 A branch of <size=346><color=#5F634F>U.I.H.</color></size><color=#edb
 88b>
 ⁍ Discord mandatory: </color><color=#bf4342>discord.com/invite/bmWhhp
-hKUH</color>}
+hKUH</color>
 ```
 ### Whitestar Bonus ❌
 

@@ -17,7 +17,7 @@ date: 1703944226
 -Регулярные частные КЗ</b>
 
 <color=#6666FF>DISCORD</color>: pdsQpqw3Wy
-<color=#1DA1F2>TELEGRAM</color>: Best_Corp}
+<color=#1DA1F2>TELEGRAM</color>: Best_Corp
 ```
 ### Whitestar Bonus ❌
 

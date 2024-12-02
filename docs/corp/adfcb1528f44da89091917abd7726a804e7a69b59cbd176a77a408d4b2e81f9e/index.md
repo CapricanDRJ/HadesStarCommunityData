@@ -18,7 +18,7 @@ date: 1703552345
    -hosted by ShadowSun
 
 Language: English-Spanish
-Discord: pxSK3vbe</color></b>}
+Discord: pxSK3vbe</color></b>
 ```
 ### [Discord](https://discord.gg/discord.gg/pxSK3vbe)
 ### Whitestar Bonus ❌

@@ -13,7 +13,7 @@ date: 1716847439
 
 
 ```
-All are welcome.}
+All are welcome.
 ```
 ### Whitestar Bonus ❌
 

@@ -15,7 +15,7 @@ date: 1732747078
 ```
 <b><size=80>€erulean</color><color=red>§tar</color></size></b> got we
 ekly WS, Dark Star help, guides & advice, democratic atmosphere and f
-riendly community. <b>Must Join Discord</b> }
+riendly community. <b>Must Join Discord</b> 
 ```
 ### [Discord](https://discord.gg/Bc8e4RxtnJ)
 ### Whitestar Bonus ✅

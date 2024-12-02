@@ -18,7 +18,7 @@ date: 1730303722
 - Regelmäßig <b>WZ 10vs10</b>
 
 Kommunikation über <b>Discord</b>:
-<color=#3ffecb>Code: SUVSGGYGz2</color>}
+<color=#3ffecb>Code: SUVSGGYGz2</color>
 ```
 ### Whitestar Bonus ❌
 

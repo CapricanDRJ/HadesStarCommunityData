@@ -15,7 +15,7 @@ date: 1732994995
 ```
 Bem vindo à BRASIL STAR <br><br>Estrelas Vermelhas (RS) e Estrelas Br
 ancas (WS) coordenadas pelo WhatsApp, peça para te adicionarem no gru
-po no chat da corporação :D}
+po no chat da corporação :D
 ```
 ### [Discord](https://discord.gg/MV5xAcu9Vz)
 ### Whitestar Bonus ✅

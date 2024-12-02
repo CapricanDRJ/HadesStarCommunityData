@@ -18,7 +18,7 @@ PrG
 QnK
 CLM
 SpN
-EUR}
+EUR
 ```
 ### Whitestar Bonus ❌
 

@@ -19,7 +19,7 @@ Daily Dark Red Stars!
 
 White Stars often, numbers permitting.
 
-No Discord!}
+No Discord!
 ```
 ### Whitestar Bonus ❌
 

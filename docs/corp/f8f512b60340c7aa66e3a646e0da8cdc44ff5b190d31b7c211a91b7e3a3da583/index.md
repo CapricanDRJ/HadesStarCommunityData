@@ -15,7 +15,7 @@ date: 1726442538
 ```
 Confédération francophone, Notre équipe conviviale a pour but de prog
 resser ensemble et de s'entraider, pour le reste... Pirates! Forum: p
-irates-hades.xoo.it}
+irates-hades.xoo.it
 ```
 ### Whitestar Bonus ❌
 

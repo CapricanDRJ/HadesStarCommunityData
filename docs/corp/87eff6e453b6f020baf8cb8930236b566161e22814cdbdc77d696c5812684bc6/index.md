@@ -15,7 +15,7 @@ date: 1732947814
 ```
 we like our coffee dirty
 Discord invite code is https://discord.gg/44nD9yX
-}
+
 ```
 ### Whitestar Bonus ❌
 

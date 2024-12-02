@@ -15,7 +15,7 @@ date: 1717815379
 ```
 Its continuing mission, to explore strange new worlds. To seek out ne
 w life and new civilizations. To boldly go where no one has gone befo
-re.}
+re.
 ```
 ### Whitestar Bonus ❌
 

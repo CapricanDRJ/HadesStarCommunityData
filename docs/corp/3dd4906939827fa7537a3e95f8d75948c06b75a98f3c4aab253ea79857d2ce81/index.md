@@ -16,7 +16,7 @@ date: 1732577609
 Join and be a winner!! All skill levels welcome. We run WS weekly. Ma
 ke friends, have fun, and enjoy the game!
 
-Discord required | Part of Astral Alliance}
+Discord required | Part of Astral Alliance
 ```
 ### [Discord](https://discord.gg/https://discord.gg/naqEGjHA3B)
 ### Whitestar Bonus ✅

@@ -15,7 +15,7 @@ date: 1732630186
 ```
 Join us and make history! Part of the Astral Alliance, Joining the di
 scord server is required. If you have problems joining dc server cont
-act officers or senior members, Discord invite code:zQGwx3ZtDp}
+act officers or senior members, Discord invite code:zQGwx3ZtDp
 ```
 ### [Discord](https://discord.gg/zQGwx3ZtDp)
 ### Whitestar Bonus ✅

@@ -13,7 +13,7 @@ date: 1700125538
 
 
 ```
-}
+
 ```
 ### [Discord](https://discord.gg/first_order_hs)
 ### Whitestar Bonus ❌

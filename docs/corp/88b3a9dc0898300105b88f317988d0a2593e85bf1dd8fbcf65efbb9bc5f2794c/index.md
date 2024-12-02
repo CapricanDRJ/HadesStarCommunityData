@@ -14,7 +14,7 @@ date: 1715813584
 
 ```
 5/10/24 - Join us! We need help with white stars and leveling up our 
-flagship and corp bonuses!}
+flagship and corp bonuses!
 ```
 ### Whitestar Bonus ❌
 

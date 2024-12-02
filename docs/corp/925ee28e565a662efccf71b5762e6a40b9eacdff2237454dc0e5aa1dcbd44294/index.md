@@ -13,7 +13,7 @@ date: 1711587110
 
 
 ```
-SOLO GENTE ACTIVA }
+SOLO GENTE ACTIVA 
 ```
 ### Whitestar Bonus ❌
 

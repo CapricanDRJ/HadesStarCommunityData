@@ -14,7 +14,7 @@ date: 1715922666
 
 ```
 Explore the galaxy, crush the rebellion, and bring order to the galax
-y.}
+y.
 ```
 ### Whitestar Bonus ❌
 

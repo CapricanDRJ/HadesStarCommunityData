@@ -14,7 +14,7 @@ date: 1711631579
 
 ```
 Was once a top 100 Corp
-But now is a retirement home for solo rs. all are free to join}
+But now is a retirement home for solo rs. all are free to join
 ```
 ### Whitestar Bonus ❌
 

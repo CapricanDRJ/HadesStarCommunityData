@@ -13,7 +13,7 @@ date: 1732640405
 
 
 ```
-What a year….}
+What a year….
 ```
 ### Whitestar Bonus ❌
 

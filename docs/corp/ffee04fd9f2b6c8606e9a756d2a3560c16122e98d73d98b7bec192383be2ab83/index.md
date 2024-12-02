@@ -15,7 +15,7 @@ date: 1730254143
 ```
 In our strategic yet laid-back corporation, we come together to illum
 inate the cosmos and conquer the void.  Mission…Domination of Red And
- White Stars!  We Are..SHADOW LORDS🌒}
+ White Stars!  We Are..SHADOW LORDS🌒
 ```
 ### [Discord](https://discord.gg/https://discord.gg/nfj46pCB)
 ### Whitestar Bonus ❌

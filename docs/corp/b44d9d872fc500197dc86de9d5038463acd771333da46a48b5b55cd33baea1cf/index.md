@@ -19,7 +19,7 @@ date: 1732021684
 DON'T DONATE CREDITS TO THE FLAGSHIP!
 人员分配：干事8人
 特别鸣谢：残月，可靠的同志
->勿谈和白<}
+>勿谈和白<
 ```
 ### Whitestar Bonus ❌
 

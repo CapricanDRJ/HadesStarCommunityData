@@ -19,7 +19,7 @@ date: 1702763834
 •Active community
 
 Join Discord here: <b> https://discord.gg/8aARTQU </b>
-SFA : EEpZuWf}
+SFA : EEpZuWf
 ```
 ### Whitestar Bonus ❌
 

@@ -14,7 +14,7 @@ date: 1701427603
 
 ```
 Welcome to callisto corporation wanna relax or be competitive we've g
-ot both (white stars on Saturday USA time) }
+ot both (white stars on Saturday USA time) 
 ```
 ### Whitestar Bonus ❌
 

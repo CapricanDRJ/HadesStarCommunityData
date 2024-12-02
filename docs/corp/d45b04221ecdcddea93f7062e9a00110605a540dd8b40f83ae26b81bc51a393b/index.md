@@ -13,7 +13,7 @@ date: 1700546696
 
 
 ```
-Charter and Comander}
+Charter and Comander
 ```
 ### Whitestar Bonus ❌
 

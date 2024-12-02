@@ -14,7 +14,7 @@ date: 1727124295
 
 ```
 Newbie and veterans welcome! Just a chill guild looking to have fun :
-)}
+)
 ```
 ### Whitestar Bonus ❌
 

@@ -20,7 +20,7 @@ Wir Fliegen von klein bis größer
 RR0--6.
 
 Jetzt auch mit discord! 
-https://discord.gg/K3TTj9ED}
+https://discord.gg/K3TTj9ED
 ```
 ### Whitestar Bonus ❌
 

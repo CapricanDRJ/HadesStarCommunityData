@@ -15,7 +15,7 @@ date: 1731223255
 ```
 <color=green>WELCOME TO NERF TOY'S </color> always looking for active
  players. <color=red>discord required https://discord.gg/C5HUwQdS <co
-lor=yellow>weekly WS's and daily Corp runs}
+lor=yellow>weekly WS's and daily Corp runs
 ```
 ### [Discord](https://discord.gg/https://discord.gg/C5HUwQdS)
 ### Whitestar Bonus ❌

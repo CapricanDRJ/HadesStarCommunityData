@@ -14,7 +14,7 @@ date: 1707434106
 
 ```
 we strive to be the best  follow us on www.facebook.com/AnarchyG13. w
-hitestar or kick}
+hitestar or kick
 ```
 ### Whitestar Bonus ❌
 

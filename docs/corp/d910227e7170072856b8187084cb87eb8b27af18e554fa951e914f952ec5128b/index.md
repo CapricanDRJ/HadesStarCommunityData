@@ -13,7 +13,7 @@ date: 1730107804
 
 
 ```
-There is a snake in every paradise.}
+There is a snake in every paradise.
 ```
 ### Whitestar Bonus ❌
 

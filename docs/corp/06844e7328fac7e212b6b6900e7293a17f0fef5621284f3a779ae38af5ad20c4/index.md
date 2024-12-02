@@ -14,7 +14,7 @@ date: 1710800150
 
 ```
 t.me/Librianets
-WechatID Librianets }
+WechatID Librianets 
 ```
 ### Whitestar Bonus ❌
 

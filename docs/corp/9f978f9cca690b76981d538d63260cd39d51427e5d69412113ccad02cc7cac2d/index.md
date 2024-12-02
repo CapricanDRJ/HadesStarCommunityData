@@ -15,7 +15,7 @@ date: 1727889033
 ```
 We are BSO, the oldest and largest conglomerate in HS!   BlackStar Or
 der, Final, TS, UG, AN, Dau, Proph, Soy, BSO Acad & Obs.  Working tog
-ether to excel!}
+ether to excel!
 ```
 ### [Discord](https://discord.gg/YTaYrhy)
 ### Whitestar Bonus ❌

@@ -22,7 +22,7 @@ date: 1699370027
 
  WS: Thursdays
 
- Discord:pxSK3vbe</color></b>}
+ Discord:pxSK3vbe</color></b>
 ```
 ### Whitestar Bonus ❌
 

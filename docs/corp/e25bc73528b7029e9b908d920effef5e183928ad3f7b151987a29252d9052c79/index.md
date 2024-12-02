@@ -14,7 +14,7 @@ date: 1708438086
 
 ```
 join to chill, get help with red stars, or help us run white stars. d
-iscord required.}
+iscord required.
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/zZf6cHbv)
 ### Whitestar Bonus ❌

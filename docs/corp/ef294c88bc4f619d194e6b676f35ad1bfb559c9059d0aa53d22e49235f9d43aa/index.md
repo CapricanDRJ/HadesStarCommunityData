@@ -13,7 +13,7 @@ date: 1730710906
 
 
 ```
-You are lucky to meet me in White Star! Congratulations!}
+You are lucky to meet me in White Star! Congratulations!
 ```
 ### Whitestar Bonus ❌
 

@@ -13,7 +13,7 @@ date: 1731125874
 
 
 ```
-Mostly PvE red star }
+Mostly PvE red star 
 ```
 ### Whitestar Bonus ❌
 

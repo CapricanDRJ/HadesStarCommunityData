@@ -20,7 +20,7 @@ All Cadets Welcome!
 We are actively helping you succeed!
 
 Our HQ lives on Discord. Enlist today!
-discord.gg/YTaYrhy}
+discord.gg/YTaYrhy
 ```
 ### [Discord](https://discord.gg/YTaYrhy)
 ### Whitestar Bonus ❌

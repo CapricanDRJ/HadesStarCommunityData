@@ -18,7 +18,7 @@ date: 1704522124
 Планируем совместный поход на БЗ. 
 Так же запрещается мат, особенно оскорбление участников корпы. 
  Дискорд :
-https://discord.gg/dZYNzuwr}
+https://discord.gg/dZYNzuwr
 ```
 ### Whitestar Bonus ❌
 

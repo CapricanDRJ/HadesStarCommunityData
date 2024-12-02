@@ -13,7 +13,7 @@ date: 1722619785
 
 
 ```
-Home to all as long as you are willing to contribute to our growth 🤝}
+Home to all as long as you are willing to contribute to our growth 🤝
 ```
 ### Whitestar Bonus ❌
 

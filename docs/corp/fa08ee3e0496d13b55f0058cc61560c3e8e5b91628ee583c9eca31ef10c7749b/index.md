@@ -18,7 +18,7 @@ ucune cale ne saurait contenir avec suffisance!"
 
 Corpo École faisant partie des  🏴‍☠️ Pirates spatial  🏴‍☠️
 
-Discord : wZcGGNZ}
+Discord : wZcGGNZ
 ```
 ### [Discord](https://discord.gg/wZcGGNZ )
 ### Whitestar Bonus ❌

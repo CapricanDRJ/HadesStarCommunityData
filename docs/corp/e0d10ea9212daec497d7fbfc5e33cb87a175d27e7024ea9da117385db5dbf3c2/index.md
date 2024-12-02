@@ -14,7 +14,7 @@ date: 1723474731
 
 ```
  Request ONLY if you want to play WHITE STAR CAMPAIGNS. NBA fans welc
-ome also:)}
+ome also:)
 ```
 ### Whitestar Bonus ❌
 

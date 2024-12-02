@@ -18,7 +18,7 @@ Go away or don’t your choice.
 Join our server for questions. But this is a mostly dead corp, honest
 . Join server for shenanigans! 
 
-discord code:  5xKBwEFxeD}
+discord code:  5xKBwEFxeD
 ```
 ### Whitestar Bonus ❌
 

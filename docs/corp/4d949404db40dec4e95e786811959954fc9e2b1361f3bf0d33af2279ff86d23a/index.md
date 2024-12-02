@@ -15,7 +15,7 @@ date: 1729851481
 ```
 Chill Corporation. English. White stars not required but encouraged i
 f possible. Come here to develop, help with red stars. Please stay re
-latively active. Discord not required but recommended.}
+latively active. Discord not required but recommended.
 ```
 ### [Discord](https://discord.gg/https://discord.gg/kcjNMkkH)
 ### Whitestar Bonus ❌

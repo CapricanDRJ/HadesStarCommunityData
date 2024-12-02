@@ -14,7 +14,7 @@ date: 1700154703
 
 ```
 Добро пожаловать в ОРИОН
-Telegram: https://goo.gl/7TGspS}
+Telegram: https://goo.gl/7TGspS
 ```
 ### Whitestar Bonus ❌
 

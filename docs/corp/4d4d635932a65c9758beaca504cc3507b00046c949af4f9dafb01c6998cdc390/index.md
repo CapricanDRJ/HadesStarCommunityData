@@ -13,7 +13,7 @@ date: 1720703607
 
 
 ```
-}
+
 ```
 ### [Discord](https://discord.gg/   )
 ### Whitestar Bonus ❌

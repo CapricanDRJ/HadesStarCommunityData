@@ -14,7 +14,7 @@ date: 1732635897
 
 ```
 Small but perfectly formed English speaking Corp seeks experienced ac
-tive players wanting to grow.White Star⚪ on Thursdays.}
+tive players wanting to grow.White Star⚪ on Thursdays.
 ```
 ### [Discord](https://discord.gg/Hc9hVMCcMT)
 ### Whitestar Bonus ✅

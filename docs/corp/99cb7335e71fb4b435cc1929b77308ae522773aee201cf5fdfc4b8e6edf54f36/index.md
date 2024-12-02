@@ -14,7 +14,7 @@ date: 1710483791
 
 ```
 <b> BRASIL TITANS vem jogar!damos orientação ,respeitem o tempo de in
-atividade e quando tiver 10 membros na disposição bora pra ws}
+atividade e quando tiver 10 membros na disposição bora pra ws
 ```
 ### Whitestar Bonus ❌
 

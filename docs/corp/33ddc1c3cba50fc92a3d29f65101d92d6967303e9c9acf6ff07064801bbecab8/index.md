@@ -20,7 +20,7 @@ A corporation that works together for the benefit of all its members
 Peace is boring
 
 Teamwork makes the dream work,
-Discord Required - R8nzDPk}
+Discord Required - R8nzDPk
 ```
 ### Whitestar Bonus ❌
 

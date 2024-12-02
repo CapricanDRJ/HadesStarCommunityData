@@ -21,7 +21,7 @@ date: 1731559503
 ・ 존중, 배려, 소통
 ・ <b>Discord에서</b> 정보공유, 파티원모집, 뉴비지원
 ・ 비매너, 장기미접속은 추방</color> 
-}
+
 ```
 ### [Discord](https://discord.gg/37KaujZtkU)
 ### Whitestar Bonus ❌

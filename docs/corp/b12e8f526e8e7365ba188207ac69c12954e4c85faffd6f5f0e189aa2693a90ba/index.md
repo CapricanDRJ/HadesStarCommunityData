@@ -20,7 +20,7 @@ Tenemos Grupo de WhatsApp, si necesitas ayuda manda mj
 
 Se amable con los demás y diviértete
 
-Alianza Axolotls}
+Alianza Axolotls
 ```
 ### Whitestar Bonus ❌
 

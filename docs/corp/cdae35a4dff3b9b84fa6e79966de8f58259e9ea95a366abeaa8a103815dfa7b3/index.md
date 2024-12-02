@@ -17,7 +17,7 @@ date: 1705013769
 <size=100>GRAND MECHANISM</size></color></b>
 
 Part of <b><color=#fce205>A.R.M.O.R</color></b>
-Discord:DUbkgw9uMT}
+Discord:DUbkgw9uMT
 ```
 ### [Discord](https://discord.gg/DUbkgw9uMT)
 ### Whitestar Bonus ❌

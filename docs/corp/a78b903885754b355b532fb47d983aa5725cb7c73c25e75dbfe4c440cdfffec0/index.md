@@ -20,7 +20,7 @@ WS are appreciated yet optional.
 Discord: WARZG9k
 
 Members are expected to join our Discord where all communication happ
-ens}
+ens
 ```
 ### Whitestar Bonus ❌
 

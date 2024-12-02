@@ -18,7 +18,7 @@ and supporting each other to grow.
 Multiple daily RS
 Bi-Weekly WS 
 Beware of Viking
-Discord: sqaDS62zfW}
+Discord: sqaDS62zfW
 ```
 ### Whitestar Bonus ❌
 

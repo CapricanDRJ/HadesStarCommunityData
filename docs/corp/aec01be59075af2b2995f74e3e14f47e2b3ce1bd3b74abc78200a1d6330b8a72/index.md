@@ -14,7 +14,7 @@ date: 1732995897
 
 ```
 <b><color="yellow"><size=80>Corp. Estelar | Axolotls</size></color></
-b><b><br>Únanse al grupo de Whatsapp +569 8804 5954</b>}
+b><b><br>Únanse al grupo de Whatsapp +569 8804 5954</b>
 ```
 ### Whitestar Bonus ✅
 

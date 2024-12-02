@@ -17,7 +17,7 @@ Aktive Allianz
 Offen für alle, die Spaß am gemeinsamen Spiel haben und das ganze nic
 ht so ernst nehmen.
 -Beleidigung, Rassismus ect, 14 Tage Inaktivität ohne Abmeldung führt
- zum Bann }
+ zum Bann 
 ```
 ### Whitestar Bonus ❌
 

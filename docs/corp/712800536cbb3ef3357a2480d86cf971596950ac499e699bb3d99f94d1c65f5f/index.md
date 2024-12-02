@@ -17,7 +17,7 @@ date: 1715096003
 백색참여하셔야 합니다.
 <color="red"></color><b></b>
 
-Discord opened}
+Discord opened
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/7BfdmAAXQ7)
 ### Whitestar Bonus ❌

@@ -14,7 +14,7 @@ date: 1733062898
 
 ```
 Have fun and love bacon. Everyone is welcome. Weekly white stars if w
-e lose amd every two weeks if we win. No discord required.}
+e lose amd every two weeks if we win. No discord required.
 ```
 ### Whitestar Bonus ✅
 

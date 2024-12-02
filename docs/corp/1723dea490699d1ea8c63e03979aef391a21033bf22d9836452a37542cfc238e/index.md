@@ -15,7 +15,7 @@ date: 1720075517
 ```
 <b><size=90><color=white>Soul System</color></size></b><br>Beneath th
 e stars our souls take flight. In the cosmic night. For in the star d
-ust we are born our souls woven from light. RS and WS focused.}
+ust we are born our souls woven from light. RS and WS focused.
 ```
 ### [Discord](https://discord.gg/KJX7wvq9AC)
 ### Whitestar Bonus ❌

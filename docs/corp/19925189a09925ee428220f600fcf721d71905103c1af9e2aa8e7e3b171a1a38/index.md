@@ -15,7 +15,7 @@ date: 1732577909
 ```
 leave no man behind! join and we'll share the  fights!<br>Coordinate 
 Red Star battles, with GMT. Weekly WS starting on wednesdays.<br><br>
-Sister corporations: TeddisaurusWrex, Armored Union}
+Sister corporations: TeddisaurusWrex, Armored Union
 ```
 ### Whitestar Bonus ❌
 

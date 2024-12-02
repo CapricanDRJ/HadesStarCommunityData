@@ -15,7 +15,7 @@ date: 1733154848
 ```
 Recommended to join the corp DISCORD (currently in test period. All m
 embers when join our DISCORD while in test period will get a free Off
-icer promote). Red is always SUS!}
+icer promote). Red is always SUS!
 ```
 ### [Discord](https://discord.gg/btpSMwVJQD)
 ### Whitestar Bonus ❌

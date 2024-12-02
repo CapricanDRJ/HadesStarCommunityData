@@ -19,7 +19,7 @@ date: 1702414590
 Una EB tras otra</size>
 
 RS: WhatsApp
-Alianza Axolotls</i></color></b>}
+Alianza Axolotls</i></color></b>
 ```
 ### Whitestar Bonus ❌
 

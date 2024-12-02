@@ -14,7 +14,7 @@ date: 1724050809
 
 ```
 Greetings, Starfighter! You have been recruited by the star league to
- defend the Empire against Xur and the Ko-Dan Armada.}
+ defend the Empire against Xur and the Ko-Dan Armada.
 ```
 ### Whitestar Bonus ❌
 

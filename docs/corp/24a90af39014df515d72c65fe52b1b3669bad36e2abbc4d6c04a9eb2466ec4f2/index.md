@@ -18,7 +18,7 @@ All for farm, farm for all. We farm from other's losses now.
 Original bottom tier Alpha Corp from serveral years ago, but no one h
 ere would give a shit.
 
-New Discord: nxEZwvgcg3}
+New Discord: nxEZwvgcg3
 ```
 ### Whitestar Bonus ❌
 

@@ -13,7 +13,7 @@ date: 1712499667
 
 
 ```
-There is only one clock that matters.}
+There is only one clock that matters.
 ```
 ### Whitestar Bonus ❌
 

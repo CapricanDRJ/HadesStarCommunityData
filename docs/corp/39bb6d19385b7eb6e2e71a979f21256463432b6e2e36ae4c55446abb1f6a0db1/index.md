@@ -14,7 +14,7 @@ date: 1730241827
 
 ```
 well... just join and give it a try. casual and idle is tolerated, ac
-tivity and participation very welcome}
+tivity and participation very welcome
 ```
 ### [Discord](https://discord.gg/Dtk4Pcg)
 ### Whitestar Bonus ❌

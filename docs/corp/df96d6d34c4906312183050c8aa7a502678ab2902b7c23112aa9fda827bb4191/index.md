@@ -15,7 +15,7 @@ date: 1732735957
 ```
 <size=40><color=#FFFF33>Discord参加不問コーポです😊<br><br>★カジュアルなWSをやりたいというプレ
 イヤーを募集します！<br><br>月2-3回木-土曜スキャンで開催予定！<br><br>★WS参加できる方はWSスキャナON、出来ない方
-はOFF！<br><br>★初心者上級者問いません！ログイン耐性30日 <br><br>元Regulus Alliance}
+はOFF！<br><br>★初心者上級者問いません！ログイン耐性30日 <br><br>元Regulus Alliance
 ```
 ### [Discord](https://discord.gg/XQ47nAEXuY)
 ### Whitestar Bonus ❌

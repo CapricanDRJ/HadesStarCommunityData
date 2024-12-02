@@ -15,7 +15,7 @@ date: 1733136513
 ```
 <b><size=205><color=#a3e3fb>  LI•KA•PA</color></size></b> <b><size=42
 ><color=#cca721>  Regular WhiteStar • English/Discord Mandatory </col
-or></size></b>}
+or></size></b>
 ```
 ### [Discord](https://discord.gg/3CE2zAs)
 ### Whitestar Bonus ✅

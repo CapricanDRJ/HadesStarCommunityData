@@ -13,7 +13,7 @@ date: 1722303620
 
 
 ```
-Need active players for White Star Missions!}
+Need active players for White Star Missions!
 ```
 ### Whitestar Bonus ❌
 

@@ -16,7 +16,7 @@ date: 1718673783
 Bienvenue à tous
 Corpo sans prise de tête pour joueurs occasionnel/débutants
 Ws régulière( 0 obligation)pour joueurs aguerris ou voulant découvrir
- }
+ 
 ```
 ### [Discord](https://discord.gg/https://discord.gg/V8HYqRZH)
 ### Whitestar Bonus ❌

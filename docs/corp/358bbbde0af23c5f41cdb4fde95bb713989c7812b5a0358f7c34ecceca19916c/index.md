@@ -15,7 +15,7 @@ date: 1733084238
 ```
 Corporation tranquille on s'entraide pour tous se développer. Une eto
 ile blanche par semaine. Si vous êtes actif et que vous voulez progre
-sser dans une corporation tranquille on est fait pour vous !}
+sser dans une corporation tranquille on est fait pour vous !
 ```
 ### Whitestar Bonus ❌
 

@@ -14,7 +14,7 @@ date: 1719260117
 
 ```
 wir sind eine deutschsprachige schweizer allianz und stehen für aktiv
-en spiel und spass}
+en spiel und spass
 ```
 ### Whitestar Bonus ❌
 

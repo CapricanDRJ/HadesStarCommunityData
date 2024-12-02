@@ -20,7 +20,7 @@ date: 1699698176
 *****We demand Blood for the @ncient £ibrarian =[
 chapter 4÷20
 
-For WS+ join Discord- 8dJDbbm}
+For WS+ join Discord- 8dJDbbm
 ```
 ### Whitestar Bonus ❌
 

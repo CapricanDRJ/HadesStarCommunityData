@@ -14,7 +14,7 @@ date: 1732824010
 
 ```
 The best corporation for white star enthusiasts. On the way to greatn
-ess. White star participation required}
+ess. White star participation required
 ```
 ### Whitestar Bonus ❌
 

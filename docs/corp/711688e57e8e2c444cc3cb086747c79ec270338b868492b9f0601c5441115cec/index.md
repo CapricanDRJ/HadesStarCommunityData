@@ -17,7 +17,7 @@ date: 1731142719
 
 Discord:5tuPR4v
 Traits:Independent
-Language:English}
+Language:English
 ```
 ### Whitestar Bonus ❌
 

@@ -18,7 +18,7 @@ ine neue Community auf!
 Jeder Spieler ist willkommen:)
 
 Auf geht's!!
-(Line ID: Baraethelion)}
+(Line ID: Baraethelion)
 ```
 ### Whitestar Bonus ❌
 

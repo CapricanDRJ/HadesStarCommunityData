@@ -14,7 +14,7 @@ date: 1719396058
 
 ```
 <color=green>Welcome to the Death Squadron! The empire's most Elite s
-quadron<br>weekly white stars<br>private red stars 3 to 8}
+quadron<br>weekly white stars<br>private red stars 3 to 8
 ```
 ### [Discord](https://discord.gg/HhVjWquh4J)
 ### Whitestar Bonus ❌

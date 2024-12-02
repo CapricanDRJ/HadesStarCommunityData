@@ -14,7 +14,7 @@ date: 1701076397
 
 ```
 Welcome to Draconis. Anyone is free to join from newbys to experts. J
-ust play relatively regularly and have fun.}
+ust play relatively regularly and have fun.
 ```
 ### Whitestar Bonus ❌
 

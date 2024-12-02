@@ -19,7 +19,7 @@ piccoli)
 <b><size=40><color=red>WS sempre</color></size></b>
 
 
-Discord: https://discord.gg/A26JEJgPwh}
+Discord: https://discord.gg/A26JEJgPwh
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/xGMUwWdzab)
 ### Whitestar Bonus ✅

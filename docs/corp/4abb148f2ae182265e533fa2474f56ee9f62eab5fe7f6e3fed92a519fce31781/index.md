@@ -17,7 +17,7 @@ Just for fun.
 To participate in white star missions we ask that you download discor
 d and join our server:
 
-https://discord.gg/gXvbHJm}
+https://discord.gg/gXvbHJm
 ```
 ### Whitestar Bonus ❌
 
