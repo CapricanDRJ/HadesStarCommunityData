@@ -18,7 +18,8 @@ date: 1705295296
 
 No recibimos personas inactivas
 
-Fundation: 8/12/19 ```
+Fundation: 8/12/19
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

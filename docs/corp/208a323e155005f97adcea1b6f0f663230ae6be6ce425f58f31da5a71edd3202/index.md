@@ -13,7 +13,8 @@ date: 1705149299
 
 
 ```
- lol xdxd корпа сдохла ```
+ lol xdxd корпа сдохла
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

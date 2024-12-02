@@ -17,7 +17,8 @@ date: 1732714018
 A collaborative team focused on competitive WS
 Always Recruiting! RS: 4-10
 Member of The Rising Imperium
-Mandatory Discord: p3dTaE9 ```
+Mandatory Discord: p3dTaE9
+```
 ### [Discord](https://discord.gg/p3dTaE9)
 ### Whitestar Bonus ✅
 

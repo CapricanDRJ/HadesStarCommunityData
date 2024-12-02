@@ -13,7 +13,8 @@ date: 1703011782
 
 
 ```
- Advice, teaching and a friendly community aiming for victory, power and fame in the galaxy. Applications will be processed in around 24 hours and will accept new and old players. Founded 22/10/22 ```
+ Advice, teaching and a friendly community aiming for victory, power and fame in the galaxy. Applications will be processed in around 24 hours and will accept new and old players. Founded 22/10/22
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

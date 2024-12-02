@@ -13,7 +13,8 @@ date: 1726314222
 
 
 ```
- We are a corporation where we help each other to do more together. New white star search every Monday. Discord optional ```
+ We are a corporation where we help each other to do more together. New white star search every Monday. Discord optional
+```
 ### [Discord](https://discord.gg/tF9fNMwh2E)
 ### Whitestar Bonus ❌
 

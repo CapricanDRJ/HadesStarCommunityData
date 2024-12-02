@@ -14,7 +14,8 @@ date: 1699450257
 
 ```
  welcome VALHALLA
- ```
+
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

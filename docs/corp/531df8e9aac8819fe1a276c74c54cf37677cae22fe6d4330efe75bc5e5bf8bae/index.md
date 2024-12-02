@@ -17,7 +17,8 @@ date: 1727178974
 
 Unimatrix 1 of the Borg collective 
 
-BorgHadesStar.reddit.com ```
+BorgHadesStar.reddit.com
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

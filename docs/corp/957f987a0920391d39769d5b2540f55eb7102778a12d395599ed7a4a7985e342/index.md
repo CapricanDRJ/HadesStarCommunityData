@@ -13,7 +13,8 @@ date: 1732467328
 
 
 ```
- N'hésitez pas à venir discuter ou poser vos questions  ```
+ N'hésitez pas à venir discuter ou poser vos questions 
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

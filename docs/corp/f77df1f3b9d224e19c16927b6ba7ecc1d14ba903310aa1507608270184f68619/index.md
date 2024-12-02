@@ -13,7 +13,8 @@ date: 1701162510
 
 
 ```
- DreamTeam training cob ```
+ DreamTeam training cob
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

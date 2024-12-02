@@ -14,7 +14,8 @@ date: 1721018557
 
 ```
  International Trading Co. is the training/economic focused partner of the "Internationals."
-We are active players from around the world who cooperate to build their economies. ```
+We are active players from around the world who cooperate to build their economies.
+```
 ### [Discord](https://discord.gg/gBPEdZt)
 ### Whitestar Bonus ❌
 

@@ -13,7 +13,8 @@ date: 1727860478
 
 
 ```
- Bacon goes great with......EVERYTHING! ```
+ Bacon goes great with......EVERYTHING!
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

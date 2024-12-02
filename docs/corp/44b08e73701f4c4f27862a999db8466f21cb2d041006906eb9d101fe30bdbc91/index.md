@@ -14,7 +14,8 @@ date: 1727170260
 
 ```
  <color=red>discord.gg/KvDRRrvv</color>
-<color=yellow>t.me/UAonline1xx</color> ```
+<color=yellow>t.me/UAonline1xx</color>
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

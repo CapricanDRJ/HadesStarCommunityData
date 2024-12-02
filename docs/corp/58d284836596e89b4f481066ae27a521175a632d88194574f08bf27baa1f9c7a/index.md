@@ -15,7 +15,8 @@ date: 1705578729
 ```
  “He who stands with me shall be my brother.”
 
-Help each other and have fun. ```
+Help each other and have fun.
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

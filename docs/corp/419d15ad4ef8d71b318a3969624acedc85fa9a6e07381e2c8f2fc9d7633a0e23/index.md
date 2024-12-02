@@ -13,7 +13,8 @@ date: 1702446143
 
 
 ```
- Casual players welcome  ```
+ Casual players welcome 
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

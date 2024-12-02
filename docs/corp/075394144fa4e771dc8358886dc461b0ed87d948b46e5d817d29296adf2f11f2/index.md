@@ -13,7 +13,8 @@ date: 1731316706
 
 
 ```
- БУДУ РАД ВСЕМ. ```
+ БУДУ РАД ВСЕМ.
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -20,7 +20,8 @@ Demotion/Removal:-
 •On 5th day with no jump.
 •No show in WS after having scanner on
 
-Corp Discord Channel https://discord.gg/bPeyG7RQ5t ```
+Corp Discord Channel https://discord.gg/bPeyG7RQ5t
+```
 ### [Discord](https://discord.gg/bPeyG7RQ5t)
 ### Whitestar Bonus ✅
 

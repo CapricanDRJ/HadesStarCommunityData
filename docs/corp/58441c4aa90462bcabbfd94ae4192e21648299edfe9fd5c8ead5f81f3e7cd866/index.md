@@ -13,7 +13,8 @@ date: 1721694490
 
 
 ```
- Being active in Discovery is a requirement ```
+ Being active in Discovery is a requirement
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

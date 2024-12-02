@@ -14,7 +14,8 @@ date: 1723586519
 
 ```
  Zapraszamy aktywnych graczy :) 
-Osoby z niskim lvl zbudujcie stację dyplomatyczną. Ci z nas z wyższym lvl udzielą wtedy wsparcia pomagając oczyścić wasz układ z Cerberów i udostępnić lepsze artefakty. ```
+Osoby z niskim lvl zbudujcie stację dyplomatyczną. Ci z nas z wyższym lvl udzielą wtedy wsparcia pomagając oczyścić wasz układ z Cerberów i udostępnić lepsze artefakty.
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

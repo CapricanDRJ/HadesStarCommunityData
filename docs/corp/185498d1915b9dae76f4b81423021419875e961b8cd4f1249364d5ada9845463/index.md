@@ -13,7 +13,8 @@ date: 1726836191
 
 
 ```
- Центр психологической поддержки после Голубых Звезд https://discord.gg/n4kzEbKs ```
+ Центр психологической поддержки после Голубых Звезд https://discord.gg/n4kzEbKs
+```
 ### [Discord](https://discord.gg/n4kzEbKs)
 ### Whitestar Bonus ❌
 

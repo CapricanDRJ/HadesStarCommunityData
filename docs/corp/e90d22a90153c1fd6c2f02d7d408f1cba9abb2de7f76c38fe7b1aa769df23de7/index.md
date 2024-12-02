@@ -17,7 +17,8 @@ date: 1708469944
 
 *Respeite a todos, seja Generoso.
 Gpp: Whats✔
-Ws: a Cada 4 dias ```
+Ws: a Cada 4 dias
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

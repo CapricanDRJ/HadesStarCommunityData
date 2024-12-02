@@ -17,7 +17,8 @@ date: 1728409213
 
 LIDER ARRIBA LOS PITOS
 
-CORPORACION HISPANA NIVEL 2 ```
+CORPORACION HISPANA NIVEL 2
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -13,7 +13,8 @@ date: 1708707938
 
 
 ```
- Lasst euch vom Nordstern leiten!   ```
+ Lasst euch vom Nordstern leiten!  
+```
 ### [Discord](https://discord.gg/26zvmzND8z)
 ### Whitestar Bonus ❌
 

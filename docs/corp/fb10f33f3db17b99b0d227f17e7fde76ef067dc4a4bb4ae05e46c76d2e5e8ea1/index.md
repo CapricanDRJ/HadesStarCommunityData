@@ -20,7 +20,8 @@ Welcoming new players! Joining our discord is a hard requirement for joining the
 White Star focused.
 
 <b>Discord:</b> discord.gg/BFfSkvu
- ```
+
+```
 ### [Discord](https://discord.gg/BFfSkvu)
 ### Whitestar Bonus ✅
 

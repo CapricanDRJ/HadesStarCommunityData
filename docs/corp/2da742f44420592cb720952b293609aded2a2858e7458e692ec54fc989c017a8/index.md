@@ -21,7 +21,8 @@ date: 1702529096
 <size=120>集团诚邀打白的人</size>
 黑：American
 频道QQ群695410371
-不要外交黑名单 ```
+不要外交黑名单
+```
 ### [Discord](https://discord.gg/SK48856)
 ### Whitestar Bonus ❌
 

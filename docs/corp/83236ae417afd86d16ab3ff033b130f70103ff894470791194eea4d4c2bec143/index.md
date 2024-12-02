@@ -14,7 +14,8 @@ date: 1699696974
 
 ```
  Looking for active and energetic players who want to have fun and grow. Corp RS encouraged and frequent WS. 
-https://discord.gg/PhNPS5MyUc ```
+https://discord.gg/PhNPS5MyUc
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

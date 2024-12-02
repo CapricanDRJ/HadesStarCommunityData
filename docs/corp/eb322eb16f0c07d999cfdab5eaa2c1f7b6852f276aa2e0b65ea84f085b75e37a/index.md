@@ -13,7 +13,8 @@ date: 1719971489
 
 
 ```
- SanctuaryGaming.org for Discord & links.  Please be active and grow your. account. ```
+ SanctuaryGaming.org for Discord & links.  Please be active and grow your. account.
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

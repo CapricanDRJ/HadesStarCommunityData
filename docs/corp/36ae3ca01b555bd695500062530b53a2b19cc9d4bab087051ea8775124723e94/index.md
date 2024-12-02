@@ -13,7 +13,8 @@ date: 1711680863
 
 
 ```
- 노장은 사실 죽어요 ```
+ 노장은 사실 죽어요
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

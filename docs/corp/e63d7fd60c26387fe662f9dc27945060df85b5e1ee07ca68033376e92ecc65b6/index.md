@@ -17,7 +17,8 @@ date: 1732803270
 All are welcome! 
 Friendly and helpful community. 
 Please be active!
-Discord: https://discord.gg/BpszvZBQ ```
+Discord: https://discord.gg/BpszvZBQ
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

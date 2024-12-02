@@ -13,7 +13,8 @@ date: 1732562884
 
 
 ```
- Strážny psík Shu, vedie túto korporáciu a stráži všetkých členov. Hav 728.      .  _-_  .  WS oponents: we are here to provide WS burnout prevention; it's very real, serious topic. have a week off 🤗 ```
+ Strážny psík Shu, vedie túto korporáciu a stráži všetkých členov. Hav 728.      .  _-_  .  WS oponents: we are here to provide WS burnout prevention; it's very real, serious topic. have a week off 🤗
+```
 ### [Discord](https://discord.gg/H4NkesnB)
 ### Whitestar Bonus ❌
 

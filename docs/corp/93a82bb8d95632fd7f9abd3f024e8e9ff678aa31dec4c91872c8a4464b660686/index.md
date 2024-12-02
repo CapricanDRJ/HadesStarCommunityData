@@ -13,7 +13,8 @@ date: 1721723333
 
 
 ```
- Dissolution or overhauling soon. ```
+ Dissolution or overhauling soon.
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

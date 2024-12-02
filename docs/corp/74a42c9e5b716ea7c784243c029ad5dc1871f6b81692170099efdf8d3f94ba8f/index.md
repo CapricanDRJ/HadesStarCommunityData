@@ -18,7 +18,8 @@ date: 1721625973
 <s>不</s>接受死鱼，集团满了就<rotate=45>踢</rotate>
 集团qq群号：1092744803
 <alpha=#22><pos=40%>May The Lilies Bloom For You
- ```
+
+```
 ### [Discord](https://discord.gg/BQkbAHaGj4)
 ### Whitestar Bonus ❌
 

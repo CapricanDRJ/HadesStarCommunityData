@@ -22,7 +22,8 @@ New player development member
 Join our discord comunity:
 https://dicord.gg/gBFFE5x
 
-od-family.com ```
+od-family.com
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

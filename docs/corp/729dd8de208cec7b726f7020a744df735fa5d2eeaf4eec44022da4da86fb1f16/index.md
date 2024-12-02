@@ -13,7 +13,8 @@ date: 1702422706
 
 
 ```
- Serenity merged with lacuna. This leftover corp is not active. New players can use it as a quiet place to start. ```
+ Serenity merged with lacuna. This leftover corp is not active. New players can use it as a quiet place to start.
+```
 ### [Discord](https://discord.gg/PSryd83)
 ### Whitestar Bonus ❌
 

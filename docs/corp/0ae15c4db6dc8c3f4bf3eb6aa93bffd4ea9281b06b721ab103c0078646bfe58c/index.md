@@ -19,7 +19,8 @@ t.me/CorpSputnik
 
 Для тех у кого кз ниже 7, прошу быть в корпорации СОЮЗ-Академия.
 Сюда заходить на кз для помощи.
-Телеграмм: t.me/soyuz_academy ```
+Телеграмм: t.me/soyuz_academy
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -13,7 +13,8 @@ date: 1725749001
 
 
 ```
- 该星际集团还没有任何描述。 ```
+ 该星际集团还没有任何描述。
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

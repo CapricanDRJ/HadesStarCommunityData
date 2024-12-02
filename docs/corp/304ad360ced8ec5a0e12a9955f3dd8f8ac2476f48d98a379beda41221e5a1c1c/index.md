@@ -13,7 +13,8 @@ date: 1731169168
 
 
 ```
- We run monthly or couple of weeks White Stars and private Red Stars on request. New players welcome, we are happy to help you learn the game. ```
+ We run monthly or couple of weeks White Stars and private Red Stars on request. New players welcome, we are happy to help you learn the game.
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

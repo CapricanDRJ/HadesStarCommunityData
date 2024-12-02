@@ -13,7 +13,8 @@ date: 1704473749
 
 
 ```
- A corp focused on trying to reach the top players in the game, active players only please, and social players, we about sharing and growing ```
+ A corp focused on trying to reach the top players in the game, active players only please, and social players, we about sharing and growing
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

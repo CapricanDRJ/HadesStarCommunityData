@@ -14,7 +14,8 @@ date: 1729093206
 
 ```
  рады всем адекватам) 
-наша телега @divanguardian удачной игры) ```
+наша телега @divanguardian удачной игры)
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

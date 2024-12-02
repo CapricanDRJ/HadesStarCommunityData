@@ -16,7 +16,8 @@ date: 1705092810
  The spice must flow!
 MoA - Manic
 MoP - Spiff
-Fedaykin - Athena, Sun, Dune, Ancient ```
+Fedaykin - Athena, Sun, Dune, Ancient
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -18,7 +18,8 @@ date: 1732895530
 BlackStar Order, Final, TS, UG, AN, Dau, Pro, Soy, & Obn working together to excel
 
 You are RS5+ & want to join?</color>
-Discord: (YTaYrhy) ```
+Discord: (YTaYrhy)
+```
 ### [Discord](https://discord.gg/YTaYrhy)
 ### Whitestar Bonus ✅
 

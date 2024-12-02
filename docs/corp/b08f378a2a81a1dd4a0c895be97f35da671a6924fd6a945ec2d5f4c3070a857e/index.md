@@ -13,7 +13,8 @@ date: 1702964295
 
 
 ```
- Worship of a boi named Vanu ```
+ Worship of a boi named Vanu
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

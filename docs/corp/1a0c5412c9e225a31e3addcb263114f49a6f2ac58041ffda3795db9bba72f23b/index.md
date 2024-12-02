@@ -13,7 +13,8 @@ date: 1732778369
 
 
 ```
- Bienvenidos 😁 ```
+ Bienvenidos 😁
+```
 ### [Discord](https://discord.gg/RgusRrPMKT)
 ### Whitestar Bonus ❌
 

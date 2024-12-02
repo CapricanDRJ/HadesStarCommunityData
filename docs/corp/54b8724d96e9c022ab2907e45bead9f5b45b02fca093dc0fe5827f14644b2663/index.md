@@ -24,7 +24,8 @@ Discord mandatory.
 
 Max period of inactivity: 3 days.
 
-English only. ```
+English only.
+```
 ### [Discord](https://discord.gg/https://discord.gg/bAAYCqG2cE)
 ### Whitestar Bonus ❌
 

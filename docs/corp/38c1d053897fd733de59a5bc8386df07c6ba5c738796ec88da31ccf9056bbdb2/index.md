@@ -13,7 +13,8 @@ date: 1712311014
 
 
 ```
- cooperate with each other and crush the competition, be helpful and simply put don't be a dick >.>(rs3+ required) ```
+ cooperate with each other and crush the competition, be helpful and simply put don't be a dick >.>(rs3+ required)
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

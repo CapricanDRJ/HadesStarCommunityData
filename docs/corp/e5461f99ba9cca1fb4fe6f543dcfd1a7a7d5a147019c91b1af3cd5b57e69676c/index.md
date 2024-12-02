@@ -13,7 +13,8 @@ date: 1700928091
 
 
 ```
- welcome~ ```
+ welcome~
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

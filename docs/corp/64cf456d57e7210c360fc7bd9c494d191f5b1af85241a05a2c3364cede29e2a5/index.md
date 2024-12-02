@@ -13,7 +13,8 @@ date: 1732674359
 
 
 ```
- que onda prrotes, yo soy Joryaguer97 y bienvenidos a la Corporación UNSC ```
+ que onda prrotes, yo soy Joryaguer97 y bienvenidos a la Corporación UNSC
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

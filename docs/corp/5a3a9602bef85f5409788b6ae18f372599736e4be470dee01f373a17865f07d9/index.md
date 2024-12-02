@@ -20,7 +20,8 @@ date: 1732179746
 禁止骂人、人身攻击
 不定时开白
 想要加入？QQ群号：415822703
- ```
+
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

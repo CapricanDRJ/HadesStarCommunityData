@@ -26,7 +26,8 @@ date: 1715217779
 - Helion Prime
 - Br Project
 - Projeto NU
-</color> ```
+</color>
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

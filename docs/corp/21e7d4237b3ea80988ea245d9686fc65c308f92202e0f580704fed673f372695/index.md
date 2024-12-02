@@ -13,7 +13,8 @@ date: 1731507515
 
 
 ```
- sworn to protect the innocent and destroy the evil we are nova Corp ```
+ sworn to protect the innocent and destroy the evil we are nova Corp
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

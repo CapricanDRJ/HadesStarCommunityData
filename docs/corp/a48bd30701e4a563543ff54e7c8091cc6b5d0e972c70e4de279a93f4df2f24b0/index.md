@@ -13,7 +13,8 @@ date: 1720229381
 
 
 ```
- wt'star players ```
+ wt'star players
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

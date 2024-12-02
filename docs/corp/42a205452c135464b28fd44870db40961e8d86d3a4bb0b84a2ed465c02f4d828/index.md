@@ -14,7 +14,8 @@ date: 1709557424
 
 ```
  <size=70><color=#48a9a9>www.DISCORD.gg/cr67TAf</color></size> We are not active lately. the best times for us passed by.
-we came to relaxed ws ```
+we came to relaxed ws
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -13,7 +13,8 @@ date: 1733035855
 
 
 ```
- Welcome, fellow spacefarers! Join us in conquering galaxies together. Let's embark on this cosmic journey as a team. Joining our Discord is a requirement, add wykidc#5670, read the rules, click ✅, +18 ```
+ Welcome, fellow spacefarers! Join us in conquering galaxies together. Let's embark on this cosmic journey as a team. Joining our Discord is a requirement, add wykidc#5670, read the rules, click ✅, +18
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

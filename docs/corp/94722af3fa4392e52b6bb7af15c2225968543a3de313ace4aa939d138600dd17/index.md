@@ -18,7 +18,8 @@ date: 1704925417
   ○  Recruiting disciplined players
   ○  Discord required
 <color=#dadde7>
- ```
+
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

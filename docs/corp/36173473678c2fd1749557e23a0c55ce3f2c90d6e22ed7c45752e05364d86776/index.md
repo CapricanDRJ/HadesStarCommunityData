@@ -14,7 +14,8 @@ date: 1708788469
 
 ```
  Innovative corp looking for active players, we love to help each other and clearout whole red stars :)
-join our Discord - https://discord.gg/P3ZAdzA ```
+join our Discord - https://discord.gg/P3ZAdzA
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

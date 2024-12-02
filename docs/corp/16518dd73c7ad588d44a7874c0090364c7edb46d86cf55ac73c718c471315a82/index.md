@@ -13,7 +13,8 @@ date: 1711139125
 
 
 ```
- Wir suchen nach aktiven Spielern für tolle RS- und WZ-Runden. ```
+ Wir suchen nach aktiven Spielern für tolle RS- und WZ-Runden.
+```
 ### [Discord](https://discord.gg/SrcGUY7)
 ### Whitestar Bonus ❌
 

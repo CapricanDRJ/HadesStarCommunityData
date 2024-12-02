@@ -19,7 +19,8 @@ date: 1732880199
 ✓Entraide et bonne ambiance
 ✓https://discord.gg/EXj5vtr
 
-Évolution chez "On en a Gros" pour RS8+ ```
+Évolution chez "On en a Gros" pour RS8+
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

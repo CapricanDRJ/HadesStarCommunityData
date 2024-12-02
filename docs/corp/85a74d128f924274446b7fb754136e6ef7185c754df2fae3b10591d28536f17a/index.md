@@ -18,7 +18,8 @@ Allianz mit Sternenflotte, Diss Liga & Stern Wächter!
 
 <color=#0E967F>"Die einzige Konstante im Universum ist die Veränderung." 
 
-Zum Server->95WWyXqrhQ</color> ```
+Zum Server->95WWyXqrhQ</color>
+```
 ### [Discord](https://discord.gg/95WWyXqrhQ)
 ### Whitestar Bonus ❌
 

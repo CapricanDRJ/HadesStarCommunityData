@@ -13,7 +13,8 @@ date: 1702538712
 
 
 ```
- бездельники.  ```
+ бездельники. 
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

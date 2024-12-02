@@ -17,7 +17,8 @@ date: 1723759917
 
 Quick Guides:
 https://tinyurl.com/redsky1
-https://tinyurl.com/redsky2 ```
+https://tinyurl.com/redsky2
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -13,7 +13,8 @@ date: 1732983274
 
 
 ```
- Guardians united under one. ```
+ Guardians united under one.
+```
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

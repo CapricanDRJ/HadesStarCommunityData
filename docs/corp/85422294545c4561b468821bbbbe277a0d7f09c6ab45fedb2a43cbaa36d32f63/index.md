@@ -13,7 +13,8 @@ date: 1728129128
 
 
 ```
- <COLOR=RED>别捐旗舰</COLOR>本团属于九团公约成员国                                                                    欢迎加入，需要神器找杨星开放外交站                                qq群: 637144087 ```
+ <COLOR=RED>别捐旗舰</COLOR>本团属于九团公约成员国                                                                    欢迎加入，需要神器找杨星开放外交站                                qq群: 637144087
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

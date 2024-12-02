@@ -13,7 +13,8 @@ date: 1712188114
 
 
 ```
- https://discord.gg/DGmS9c2b ```
+ https://discord.gg/DGmS9c2b
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

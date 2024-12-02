@@ -18,7 +18,8 @@ date: 1733111578
 ✴ Слаженный коллектив
 
 В наличии также Discord и Telegram
-</i></color> ```
+</i></color>
+```
 ### [Discord](https://discord.gg/YVP3QdjE3d)
 ### Whitestar Bonus ❌
 

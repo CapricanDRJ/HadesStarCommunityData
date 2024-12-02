@@ -15,7 +15,8 @@ date: 1708399924
 ```
  Welcome 
 All I require is you be active and positive 
-No bullying  ```
+No bullying 
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

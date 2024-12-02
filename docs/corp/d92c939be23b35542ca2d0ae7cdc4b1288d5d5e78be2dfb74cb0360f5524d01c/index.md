@@ -22,7 +22,8 @@ date: 1724823432
 这里有全方位的培养体系
 无论红星，暗星，白星，蓝星
 这里是国服区对萌新最友好的集团
-期待你 ```
+期待你
+```
 ### [Discord](https://discord.gg/snwFMgDPms)
 ### Whitestar Bonus ❌
 

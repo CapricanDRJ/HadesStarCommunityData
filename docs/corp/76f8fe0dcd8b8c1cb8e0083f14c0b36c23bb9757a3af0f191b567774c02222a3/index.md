@@ -13,7 +13,8 @@ date: 1733019933
 
 
 ```
- <size=90><b><color=red>Aquí hay dragones</color></b></size>  Estrellas blancas semanales. Indispensable participar y aportar. Si no es así, te buscas otra. O vuelves con mas tiempo y ganas.  ```
+ <size=90><b><color=red>Aquí hay dragones</color></b></size>  Estrellas blancas semanales. Indispensable participar y aportar. Si no es así, te buscas otra. O vuelves con mas tiempo y ganas. 
+```
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

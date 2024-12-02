@@ -23,7 +23,8 @@ Corporaciones aliadas:
 -Unión latina
 -Свободный флот
 Discord: https://discord.gg/wnw8sSwy
-"Federación Versalles" ```
+"Federación Versalles"
+```
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

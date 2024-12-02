@@ -15,7 +15,8 @@ date: 1729538944
 ```
  Back in Action!
 
-DISC: EEpZuWf ```
+DISC: EEpZuWf
+```
 ### [Discord](https://discord.gg/EEpZuWf)
 ### Whitestar Bonus ❌
 

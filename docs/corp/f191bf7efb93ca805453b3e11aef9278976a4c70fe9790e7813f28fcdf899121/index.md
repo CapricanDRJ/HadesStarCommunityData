@@ -19,7 +19,8 @@ date: 1732995897
  \[|    0    ω     0    |]
  \|______________|™
 Weekly Casual
-Discord-Free White Star ```
+Discord-Free White Star
+```
 ### [Discord](https://discord.gg/FCWdtswtP5)
 ### Whitestar Bonus ❌
 

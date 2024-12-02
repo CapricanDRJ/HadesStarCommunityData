@@ -13,7 +13,8 @@ date: 1728199900
 
 
 ```
- We do all types of stars we help in red stars we prepare to battle in blue stars and we battle white stars.Sorry i am not online that much ```
+ We do all types of stars we help in red stars we prepare to battle in blue stars and we battle white stars.Sorry i am not online that much
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

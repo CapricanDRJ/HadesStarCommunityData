@@ -18,7 +18,8 @@ date: 1703244396
 Wir freuen uns auf dich!
 
 \o/
-https://discord.gg/UPTTtGQpTj ```
+https://discord.gg/UPTTtGQpTj
+```
 ### [Discord](https://discord.gg/UPTTtGQpTj)
 ### Whitestar Bonus ❌
 

@@ -17,7 +17,8 @@ date: 1699193919
 
 rejoignez nous sur discord: https://discord.gg/SBBXmQ9
 
-"Vers l'infini et l'otter space !" ```
+"Vers l'infini et l'otter space !"
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

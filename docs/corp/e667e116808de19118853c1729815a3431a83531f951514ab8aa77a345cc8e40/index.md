@@ -14,7 +14,8 @@ date: 1732221525
 
 ```
  Wir sind ein Deutschsprachiger Konzern der spaß am spiel hat!
-Gegenseitiger Respekt und Hilfe untereinander sind selbstverständlich. ```
+Gegenseitiger Respekt und Hilfe untereinander sind selbstverständlich.
+```
 ### [Discord](https://discord.gg/Y34KuSs7CE)
 ### Whitestar Bonus ❌
 

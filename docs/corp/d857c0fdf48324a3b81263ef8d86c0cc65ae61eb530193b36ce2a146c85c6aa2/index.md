@@ -13,7 +13,8 @@ date: 1705181761
 
 
 ```
- <color=#3c78d8><size=90>Join us now!</size></color> ```
+ <color=#3c78d8><size=90>Join us now!</size></color>
+```
 ### [Discord](https://discord.gg/pECD6CY)
 ### Whitestar Bonus ❌
 

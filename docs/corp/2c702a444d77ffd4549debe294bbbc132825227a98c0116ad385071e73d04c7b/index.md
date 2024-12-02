@@ -13,7 +13,8 @@ date: 1711149196
 
 
 ```
- 萌新 ```
+ 萌新
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

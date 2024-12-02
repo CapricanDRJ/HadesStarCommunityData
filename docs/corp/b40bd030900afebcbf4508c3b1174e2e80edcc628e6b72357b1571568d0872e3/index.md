@@ -16,7 +16,8 @@ date: 1721778627
  Laid back corp with occasional WS. Most importantly, we have fun! <b>Discord is mandatory!</b>
 
 • Seeking all new members
-• Casual WS Corp ```
+• Casual WS Corp
+```
 ### [Discord](https://discord.gg/kUcE6EP)
 ### Whitestar Bonus ❌
 

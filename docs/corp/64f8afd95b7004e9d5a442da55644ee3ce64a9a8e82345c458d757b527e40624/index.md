@@ -18,7 +18,8 @@ date: 1733025040
 peaceful ws recommended. send diplo to 梦心话 to negotiate
 集团群：647659828
 国人交流大群：597444221
-神器交易群：915130142 ```
+神器交易群：915130142
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

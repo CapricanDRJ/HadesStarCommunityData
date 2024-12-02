@@ -19,7 +19,8 @@ We are Penguin Horde , Come join us today! Here to bring joy to all penguins.</c
 
 
 Recruiting rs9-rs11
-Discord: asheRjW ```
+Discord: asheRjW
+```
 ### [Discord](https://discord.gg/asheRjW)
 ### Whitestar Bonus ✅
 

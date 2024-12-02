@@ -19,7 +19,8 @@ Inactive tolerance 3-4 days.
 WS are appreciated yet optional.
 Discord: WARZG9k
 
-Members are expected to join our Discord where all communication happens ```
+Members are expected to join our Discord where all communication happens
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

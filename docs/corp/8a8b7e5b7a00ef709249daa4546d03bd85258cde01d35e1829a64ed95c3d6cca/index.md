@@ -13,7 +13,8 @@ date: 1732448393
 
 
 ```
- Welcome to Lights Off! Friendly Corp using the English language. Daily RS and weekly WS. Discord link below  ```
+ Welcome to Lights Off! Friendly Corp using the English language. Daily RS and weekly WS. Discord link below 
+```
 ### [Discord](https://discord.gg/eYh6VmKZeU)
 ### Whitestar Bonus ❌
 

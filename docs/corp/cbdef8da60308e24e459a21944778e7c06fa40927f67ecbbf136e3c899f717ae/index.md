@@ -13,7 +13,8 @@ date: 1702431720
 
 
 ```
- Welcome! If you're active, you'll be promoted fast. Also join our discord)) ```
+ Welcome! If you're active, you'll be promoted fast. Also join our discord))
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -18,7 +18,8 @@ date: 1732820403
 BlackStar Order, Final, TS, UG, Path of Hades, and Dauntless as one corporation.
 
 Are you RS6+ & want to join?
-<color=blue>Discord: (YTaYrhy)</color> ```
+<color=blue>Discord: (YTaYrhy)</color>
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

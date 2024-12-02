@@ -13,7 +13,8 @@ date: 1728586532
 
 
 ```
- <color=red>Per partecipare alle ws è richiesta partecipazione attiva e collaborazione             <color=yellow><br>Link telegram obbligatorio per le ws: t.me/StellarCorpIT ```
+ <color=red>Per partecipare alle ws è richiesta partecipazione attiva e collaborazione             <color=yellow><br>Link telegram obbligatorio per le ws: t.me/StellarCorpIT
+```
 ### [Discord](https://discord.gg/dxMw6cbjGt)
 ### Whitestar Bonus ❌
 

@@ -22,7 +22,8 @@ Join us, be part of the Super Team !!
 
 Trust * Loyalty 
 
-“Busting Ours to kick Yours!” ```
+“Busting Ours to kick Yours!”
+```
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

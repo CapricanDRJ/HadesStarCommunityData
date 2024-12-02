@@ -13,7 +13,8 @@ date: 1732698392
 
 
 ```
- 7 day inactivity kick. Discord is optional but strongly encouraged. We usually do WS once a week with a day in between searches. If you indicate you will participate and dont you will be kicked. ```
+ 7 day inactivity kick. Discord is optional but strongly encouraged. We usually do WS once a week with a day in between searches. If you indicate you will participate and dont you will be kicked.
+```
 ### [Discord](https://discord.gg/Fhks7wPV)
 ### Whitestar Bonus ❌
 

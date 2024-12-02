@@ -13,7 +13,8 @@ date: 1711403290
 
 
 ```
- I am the commander and i shall not let you down because we have alot of advantare to work of ```
+ I am the commander and i shall not let you down because we have alot of advantare to work of
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

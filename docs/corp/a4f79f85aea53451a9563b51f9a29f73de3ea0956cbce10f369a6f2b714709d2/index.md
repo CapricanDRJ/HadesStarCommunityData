@@ -14,7 +14,8 @@ date: 1725764921
 
 ```
  G.O.D公会0v0的小号盟,可搜G.0.D去大盟
-群号763870092 ```
+群号763870092
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

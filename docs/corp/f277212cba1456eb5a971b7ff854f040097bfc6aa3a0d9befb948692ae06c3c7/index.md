@@ -17,7 +17,8 @@ date: 1700417643
 Nouvelle corporation, motivée pour des étoiles blanches. Motivate to white stars
 Discord : https://discord.gg/VevrVjTpPG
 Rejoignez-nous !!!
-Join us !!! ```
+Join us !!!
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

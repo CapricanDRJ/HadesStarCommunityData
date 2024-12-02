@@ -18,7 +18,8 @@ date: 1700612819
 * We do Red Stars 8-10
 * WS runs weekly 
 * We help new players with tips, tricks and arts if needed
-Discord required for WS: pQVwk7J ```
+Discord required for WS: pQVwk7J
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

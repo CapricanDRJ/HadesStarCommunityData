@@ -19,7 +19,8 @@ date: 1732969147
 •Weekly competitive/casual WS
 •Active community
 
-Discord mandatory. <b>EEpZuWf</b> ```
+Discord mandatory. <b>EEpZuWf</b>
+```
 ### [Discord](https://discord.gg/EEpZuWf)
 ### Whitestar Bonus ❌
 

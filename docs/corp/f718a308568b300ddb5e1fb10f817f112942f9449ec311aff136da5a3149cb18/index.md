@@ -18,7 +18,8 @@ date: 1702798992
 Jeśli chcesz do nas dołączyć najpierw skontaktuj sie z nami na discordzie.
 
 Discord obowiązkowy:
-https://discord.gg/qWTndzwmtX ```
+https://discord.gg/qWTndzwmtX
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

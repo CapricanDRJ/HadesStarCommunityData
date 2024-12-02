@@ -17,7 +17,8 @@ date: 1699571671
 Jeder Spieler ist willkommen:)
 
 Auf geht's!!
-(Line ID: Baraethelion) ```
+(Line ID: Baraethelion)
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

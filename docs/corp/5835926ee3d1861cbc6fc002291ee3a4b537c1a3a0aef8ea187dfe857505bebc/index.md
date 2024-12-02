@@ -22,7 +22,8 @@ date: 1709955566
 https://open.kakao.com/o/gBGFbATe  
 #꿀벌왕국 #하데스 스타 #hades_star
 
-최종 수정일 2022/12/16/금 ```
+최종 수정일 2022/12/16/금
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

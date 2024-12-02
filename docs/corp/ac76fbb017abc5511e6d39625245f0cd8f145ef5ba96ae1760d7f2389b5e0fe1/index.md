@@ -13,7 +13,8 @@ date: 1730805560
 
 
 ```
- Our leader is writing a good description, please join the corp, enjoy the company. ```
+ Our leader is writing a good description, please join the corp, enjoy the company.
+```
 ### [Discord](https://discord.gg/yddJSxbE72)
 ### Whitestar Bonus ❌
 

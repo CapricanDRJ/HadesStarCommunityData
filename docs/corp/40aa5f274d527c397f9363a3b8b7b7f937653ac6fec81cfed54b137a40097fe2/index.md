@@ -15,7 +15,8 @@ date: 1716150402
 ```
  Tu pist ein Tevitist!
 Simply the best.
-Enthält Spuren von Starhalla. ```
+Enthält Spuren von Starhalla.
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

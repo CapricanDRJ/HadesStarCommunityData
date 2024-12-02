@@ -13,7 +13,8 @@ date: 1727906205
 
 
 ```
- we are looking for new recruitements!! ```
+ we are looking for new recruitements!!
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

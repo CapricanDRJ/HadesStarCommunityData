@@ -13,7 +13,8 @@ date: 1733062898
 
 
 ```
- Magyarok ide. A szabályok egyszerűek: napi aktivitás, segítsd a társaidat. WS-ezés feltétele a discord. ```
+ Magyarok ide. A szabályok egyszerűek: napi aktivitás, segítsd a társaidat. WS-ezés feltétele a discord.
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

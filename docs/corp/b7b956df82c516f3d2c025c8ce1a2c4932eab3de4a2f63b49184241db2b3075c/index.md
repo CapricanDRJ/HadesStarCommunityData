@@ -15,7 +15,8 @@ date: 1732659339
 ```
  Friendly and helpful. Open to all. Discord is required. 
 
-Note- Discord link is updated. Will expire in 7 DAYS ```
+Note- Discord link is updated. Will expire in 7 DAYS
+```
 ### [Discord](https://discord.gg/CzUVew5w)
 ### Whitestar Bonus ❌
 

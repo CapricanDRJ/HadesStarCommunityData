@@ -13,7 +13,8 @@ date: 1710456150
 
 
 ```
- Добро пожаловать в мой мир ```
+ Добро пожаловать в мой мир
+```
 ### [Discord](https://discord.gg/https://discord.com/invite/WRdbp8Xg)
 ### Whitestar Bonus ❌
 

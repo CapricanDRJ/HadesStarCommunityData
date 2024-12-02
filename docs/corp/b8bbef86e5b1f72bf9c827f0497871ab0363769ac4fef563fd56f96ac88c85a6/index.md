@@ -13,7 +13,8 @@ date: 1718761230
 
 
 ```
- Bem vindo à ★Prometheus★                    Iniciantes são bem-vindos!                                         Solicite sua participação no nosso grupo no Wpp pelo chat! ```
+ Bem vindo à ★Prometheus★                    Iniciantes são bem-vindos!                                         Solicite sua participação no nosso grupo no Wpp pelo chat!
+```
 ### [Discord](https://discord.gg/8baNJ6h2nH)
 ### Whitestar Bonus ❌
 

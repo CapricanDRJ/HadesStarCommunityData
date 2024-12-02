@@ -13,7 +13,8 @@ date: 1719192673
 
 
 ```
- For passive players who don't play that often. ```
+ For passive players who don't play that often.
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

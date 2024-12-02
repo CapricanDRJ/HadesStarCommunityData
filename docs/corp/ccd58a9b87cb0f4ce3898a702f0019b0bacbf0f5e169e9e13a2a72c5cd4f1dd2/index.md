@@ -13,7 +13,8 @@ date: 1709290891
 
 
 ```
- no discord chat | active players | frequent white star scans ```
+ no discord chat | active players | frequent white star scans
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

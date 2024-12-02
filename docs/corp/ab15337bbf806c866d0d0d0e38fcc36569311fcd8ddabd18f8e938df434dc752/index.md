@@ -14,7 +14,8 @@ date: 1705425169
 
 ```
  Be friendly and respectful to one another.
-Requirement: Active and have fun. ```
+Requirement: Active and have fun.
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

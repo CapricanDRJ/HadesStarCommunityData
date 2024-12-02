@@ -13,7 +13,8 @@ date: 1732894327
 
 
 ```
- No matter where you come from and where you go,this can be a home for you to have a rest.If you have an app named “wechat”,you can also search for 18898500351. 欢迎来到斯莱特林集团，身为一名中国人，我们始终坚持和平为主，火力为辅 ```
+ No matter where you come from and where you go,this can be a home for you to have a rest.If you have an app named “wechat”,you can also search for 18898500351. 欢迎来到斯莱特林集团，身为一名中国人，我们始终坚持和平为主，火力为辅
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -13,7 +13,8 @@ date: 1732770213
 
 
 ```
- Want to grow? Run White Stars? Have fun and mix with a friendly competitive crew? We got you covered! We welcome all level players, so come run with us! Say hi on Discord! ```
+ Want to grow? Run White Stars? Have fun and mix with a friendly competitive crew? We got you covered! We welcome all level players, so come run with us! Say hi on Discord!
+```
 ### [Discord](https://discord.gg/8ZxKUEuxvy)
 ### Whitestar Bonus ✅
 

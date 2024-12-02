@@ -13,7 +13,8 @@ date: 1703905762
 
 
 ```
- Please only English speaking.We play red stars and white stars.Inactivity leads to being kicked out.We play without discord.Have fun! ```
+ Please only English speaking.We play red stars and white stars.Inactivity leads to being kicked out.We play without discord.Have fun!
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

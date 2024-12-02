@@ -19,7 +19,8 @@ Stay active and no disrespectful players.
 All levels are welcome!
 
 Discord is mandatory for WS participation!
- ```
+
+```
 ### [Discord](https://discord.gg/CNh7tUG)
 ### Whitestar Bonus ❌
 

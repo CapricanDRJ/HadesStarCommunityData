@@ -13,7 +13,8 @@ date: 1731959190
 
 
 ```
- We are frequent in white stars, helping beginners, and pretty calm corporation. ```
+ We are frequent in white stars, helping beginners, and pretty calm corporation.
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

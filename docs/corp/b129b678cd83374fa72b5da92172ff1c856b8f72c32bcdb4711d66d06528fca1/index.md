@@ -13,7 +13,8 @@ date: 1731238579
 
 
 ```
- Welcome! We are looking for new and experienced players interested in Red Star/White Star, and we have decent Blue Star tips! Please stay active! We are actively looking for White Star Players ```
+ Welcome! We are looking for new and experienced players interested in Red Star/White Star, and we have decent Blue Star tips! Please stay active! We are actively looking for White Star Players
+```
 ### [Discord](https://discord.gg/m9xzuMbpqS)
 ### Whitestar Bonus ❌
 

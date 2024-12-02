@@ -13,7 +13,8 @@ date: 1731574831
 
 
 ```
- Envie de tout.. mais bon Arien..Issue d'une caste 'historique'... on se distingue dans la compétence 🤔. Si toi aussi tu te demandes comment font les autres 😅 ```
+ Envie de tout.. mais bon Arien..Issue d'une caste 'historique'... on se distingue dans la compétence 🤔. Si toi aussi tu te demandes comment font les autres 😅
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

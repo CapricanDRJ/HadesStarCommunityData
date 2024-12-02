@@ -13,7 +13,8 @@ date: 1703105850
 
 
 ```
- Nieaktywna korporacja ```
+ Nieaktywna korporacja
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

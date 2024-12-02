@@ -13,7 +13,8 @@ date: 1699715904
 
 
 ```
- inaktiv <3 ```
+ inaktiv <3
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

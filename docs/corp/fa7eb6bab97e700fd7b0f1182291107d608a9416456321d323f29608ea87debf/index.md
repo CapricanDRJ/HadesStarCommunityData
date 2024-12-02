@@ -13,7 +13,8 @@ date: 1701972491
 
 
 ```
- Anyone is Welcome to the Void Nebula  ```
+ Anyone is Welcome to the Void Nebula 
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

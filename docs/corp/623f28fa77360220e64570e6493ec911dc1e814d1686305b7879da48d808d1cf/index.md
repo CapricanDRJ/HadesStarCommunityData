@@ -17,7 +17,8 @@ date: 1732800866
 
 🔰DRS e RS diárias
 🎖WS todas as sextas
-🔰Ajudamos com orientação e evolução. ```
+🔰Ajudamos com orientação e evolução.
+```
 ### [Discord](https://discord.gg/sVVAvk9RqC)
 ### Whitestar Bonus ❌
 

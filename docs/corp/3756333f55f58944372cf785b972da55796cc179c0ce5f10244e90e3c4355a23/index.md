@@ -13,7 +13,8 @@ date: 1729463812
 
 
 ```
- We are here to play white stars. No bs afk players needed!!! ```
+ We are here to play white stars. No bs afk players needed!!!
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

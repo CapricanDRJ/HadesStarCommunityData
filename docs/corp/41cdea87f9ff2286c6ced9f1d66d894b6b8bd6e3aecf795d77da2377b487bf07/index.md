@@ -13,7 +13,8 @@ date: 1706953581
 
 
 ```
- Welcome to the 4th IA Corporation! Join our Discord within 24 hours to connect with our community and get gameplay support. We're excited to have you on board! ```
+ Welcome to the 4th IA Corporation! Join our Discord within 24 hours to connect with our community and get gameplay support. We're excited to have you on board!
+```
 ### [Discord](https://discord.gg/bAAYCqG2cE)
 ### Whitestar Bonus ❌
 

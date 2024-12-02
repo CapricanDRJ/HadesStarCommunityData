@@ -13,7 +13,8 @@ date: 1710967539
 
 
 ```
- русские идут ```
+ русские идут
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

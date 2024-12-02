@@ -17,7 +17,8 @@ date: 1732918071
 
 Se pretende ser um jogador ativo e quer crescer junto com todos, junte-se a nós.
 
-Juntos somos mais fortes. ```
+Juntos somos mais fortes.
+```
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

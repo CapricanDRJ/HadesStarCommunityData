@@ -13,7 +13,8 @@ date: 1732134974
 
 
 ```
- Welcome to the Rainbow Corp.    **Welcome to all our new gigachads. Hopefully you'll be gyatt Ohio skibidi here. Remember, discord is no cap fyah, so get cooked.** ```
+ Welcome to the Rainbow Corp.    **Welcome to all our new gigachads. Hopefully you'll be gyatt Ohio skibidi here. Remember, discord is no cap fyah, so get cooked.**
+```
 ### [Discord](https://discord.gg/eghZesnPZn)
 ### Whitestar Bonus ❌
 

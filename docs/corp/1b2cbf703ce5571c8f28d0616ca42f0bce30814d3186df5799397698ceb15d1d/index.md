@@ -17,7 +17,8 @@ date: 1724390393
 
 We're looking for WS active dads, RS9-11. Please come and talk to us on Discord before sending us an in game request.
 
-Discord: z38XKuM ```
+Discord: z38XKuM
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

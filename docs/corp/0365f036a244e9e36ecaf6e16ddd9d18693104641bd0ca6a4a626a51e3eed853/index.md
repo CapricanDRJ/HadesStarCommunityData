@@ -13,7 +13,8 @@ date: 1701567965
 
 
 ```
- Chill Corp Looking for active players of any level for rs/ws. 9% Bonus to rs artifacts ```
+ Chill Corp Looking for active players of any level for rs/ws. 9% Bonus to rs artifacts
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

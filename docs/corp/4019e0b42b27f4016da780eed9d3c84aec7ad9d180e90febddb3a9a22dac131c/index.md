@@ -13,7 +13,8 @@ date: 1723544745
 
 
 ```
- Willkommen bei  Ẁhıťɛ Ṣօᴌᴧᴙɨṣ  ```
+ Willkommen bei  Ẁhıťɛ Ṣօᴌᴧᴙɨṣ 
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

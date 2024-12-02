@@ -13,7 +13,8 @@ date: 1721976355
 
 
 ```
- challenge of seila...at what's up....https://chat.whatsapp.com/Is4tBotbkMiJhAQpMNoJET ```
+ challenge of seila...at what's up....https://chat.whatsapp.com/Is4tBotbkMiJhAQpMNoJET
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

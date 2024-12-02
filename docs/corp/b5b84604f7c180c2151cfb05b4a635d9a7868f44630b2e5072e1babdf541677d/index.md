@@ -23,7 +23,8 @@ all RS levels & play styles.
 
 https://discord.gg/gBFFE5x
 
-od-family.com ```
+od-family.com
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

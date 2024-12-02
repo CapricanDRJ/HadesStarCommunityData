@@ -13,7 +13,8 @@ date: 1732782232
 
 
 ```
- Sister Corporation of First Legion & Armored Union. Anyone is Welcome to join. Here to help anyone in need. If you need help clearing a Red Star, let us know and we'll help. Let's Finish the Game! ```
+ Sister Corporation of First Legion & Armored Union. Anyone is Welcome to join. Here to help anyone in need. If you need help clearing a Red Star, let us know and we'll help. Let's Finish the Game!
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -13,7 +13,8 @@ date: 1725900738
 
 
 ```
- <color=#a604ce><size=103>MAƎЯᗡ ƎHT ЯƎTͶƎ™</size></color> discord.com/invite/HSsebQuveJ ```
+ <color=#a604ce><size=103>MAƎЯᗡ ƎHT ЯƎTͶƎ™</size></color> discord.com/invite/HSsebQuveJ
+```
 ### [Discord](https://discord.gg/https://discord.com/invite/HSsebQuveJ)
 ### Whitestar Bonus ❌
 

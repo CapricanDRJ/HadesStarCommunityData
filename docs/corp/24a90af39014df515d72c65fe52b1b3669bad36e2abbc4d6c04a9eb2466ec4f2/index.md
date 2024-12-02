@@ -17,7 +17,8 @@ date: 1712510788
 
 Original bottom tier Alpha Corp from serveral years ago, but no one here would give a shit.
 
-New Discord: nxEZwvgcg3 ```
+New Discord: nxEZwvgcg3
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

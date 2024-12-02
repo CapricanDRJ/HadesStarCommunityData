@@ -18,7 +18,8 @@ date: 1703095931
 White stars occasionally too.
 
 Our more active members can be found in this discord
-Discord: <B>EEpZuWf</B> ```
+Discord: <B>EEpZuWf</B>
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

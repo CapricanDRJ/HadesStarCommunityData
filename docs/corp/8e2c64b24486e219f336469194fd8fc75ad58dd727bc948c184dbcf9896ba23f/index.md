@@ -18,7 +18,8 @@ Explore anomalies of space with us!
 White stars, red stars, and great Corp Chat.
 Let us know if you'll be inactive, we keep this Corp alive!
 
-Discord: https://discord.gg/vndpWu5 ```
+Discord: https://discord.gg/vndpWu5
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

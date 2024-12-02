@@ -24,7 +24,8 @@ ser ativo
 1 semana inativo é banido
 
 
- ```
+
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

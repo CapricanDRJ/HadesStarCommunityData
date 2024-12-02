@@ -17,7 +17,8 @@ date: 1704707842
 Бз(ws) / КЗ(rs) 
 watsapp/ telegram
 помощь новичкам 
-корпус  "ALPHA TECH" ```
+корпус  "ALPHA TECH"
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

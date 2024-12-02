@@ -18,7 +18,8 @@ date: 1727398932
 集团内部qq群请务必在三天之内添加。
 内部qq群号：1092744803
 discord：https://discord.gg/BQkbAHaGj4
-<size=64><color=red>如有意向参加白星可加入q群并前往分盟</color></size> ```
+<size=64><color=red>如有意向参加白星可加入q群并前往分盟</color></size>
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

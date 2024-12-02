@@ -13,7 +13,8 @@ date: 1701200386
 
 
 ```
- You keep what you kill…Naw. One for all and all for one!  ```
+ You keep what you kill…Naw. One for all and all for one! 
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -13,7 +13,8 @@ date: 1700497946
 
 
 ```
- United People of Earth.  For the betterment of all people of earth! ```
+ United People of Earth.  For the betterment of all people of earth!
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

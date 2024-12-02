@@ -17,7 +17,8 @@ date: 1732911160
 Multiple daily RS
 Bi-Weekly WS 
 Beware of Viking
-Discord: sqaDS62zfW ```
+Discord: sqaDS62zfW
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

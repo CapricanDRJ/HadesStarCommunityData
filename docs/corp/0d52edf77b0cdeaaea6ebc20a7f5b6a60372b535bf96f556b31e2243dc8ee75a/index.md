@@ -17,7 +17,8 @@ date: 1732291241
 
 Weekly competitive WS; casual WS if numbers allow. 
 
-Discord is required. ```
+Discord is required.
+```
 ### [Discord](https://discord.gg/c9wtCDusgE)
 ### Whitestar Bonus ❌
 

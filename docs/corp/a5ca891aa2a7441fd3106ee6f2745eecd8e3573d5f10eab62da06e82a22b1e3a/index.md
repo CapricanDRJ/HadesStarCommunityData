@@ -14,7 +14,8 @@ date: 1709604001
 
 ```
   我们都要成为生活的高手
-欢迎新朋友过来玩 ```
+欢迎新朋友过来玩
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

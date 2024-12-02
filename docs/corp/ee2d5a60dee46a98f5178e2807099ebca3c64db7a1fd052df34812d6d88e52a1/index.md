@@ -17,7 +17,8 @@ date: 1720811802
 And a bit of dd bombing
 And a bit of 100% offensive ships
 
-Discord: <color=orange>YFwYKNHhCr</color> ```
+Discord: <color=orange>YFwYKNHhCr</color>
+```
 ### [Discord](https://discord.gg/YFwYKNHhCr)
 ### Whitestar Bonus ❌
 

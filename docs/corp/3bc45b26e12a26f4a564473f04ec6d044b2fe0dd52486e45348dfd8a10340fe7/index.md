@@ -13,7 +13,8 @@ date: 1726315424
 
 
 ```
- Wir sind ein deutschprachiger Konzern. ```
+ Wir sind ein deutschprachiger Konzern.
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -15,7 +15,8 @@ date: 1708890039
 ```
  <b>Star Raiders</b> is a Corporation helping players develop and enjoy the game. Casual players are welcome. We are running weekly White Stars. 
 
-discord.gg/Rup2ee8DxR ```
+discord.gg/Rup2ee8DxR
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -16,7 +16,8 @@ date: 1732444787
  - no fussing, no trolling, no discord -
 NO KIDDING : GAMING ONLY!
 
-Just come and play to the rules! ```
+Just come and play to the rules!
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

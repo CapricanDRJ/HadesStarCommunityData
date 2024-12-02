@@ -17,7 +17,8 @@ date: 1714120413
 Червоні Зірки за запитом у телеграмі.  
 Якщо є охочі керувати групою - пишіть
 
-https://t.me/+LzDMmSOsCmpjZDhi  ```
+https://t.me/+LzDMmSOsCmpjZDhi 
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

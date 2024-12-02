@@ -13,7 +13,8 @@ date: 1732969147
 
 
 ```
- • Join an <b>ACTIVE and FUN</b> Community. DISCORD REQUIRED ```
+ • Join an <b>ACTIVE and FUN</b> Community. DISCORD REQUIRED
+```
 ### [Discord](https://discord.gg/EnduRy84t7)
 ### Whitestar Bonus ✅
 

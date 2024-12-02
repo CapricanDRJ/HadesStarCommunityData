@@ -13,7 +13,8 @@ date: 1699726723
 
 
 ```
- <size="62"><b>RESURGIMOS DE NUESTRAS CENIZAS </b></size> ```
+ <size="62"><b>RESURGIMOS DE NUESTRAS CENIZAS </b></size>
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

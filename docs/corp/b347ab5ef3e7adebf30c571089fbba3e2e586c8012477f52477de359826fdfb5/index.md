@@ -13,7 +13,8 @@ date: 1707427495
 
 
 ```
- BlackOrca Corp. ```
+ BlackOrca Corp.
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -14,7 +14,8 @@ date: 1732297253
 
 ```
  La corpo hard de <color=#FFA040>Seasons Corp</color>, une alliance où l'entraide et le jeu passent avant tout !
-Discord obligatoire ```
+Discord obligatoire
+```
 ### [Discord](https://discord.gg/DcuxrTA)
 ### Whitestar Bonus ❌
 

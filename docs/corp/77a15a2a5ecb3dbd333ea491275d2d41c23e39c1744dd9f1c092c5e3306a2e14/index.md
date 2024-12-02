@@ -19,7 +19,8 @@ We welcome all players no matter what level!
 ☞ corp for beginners 
 ☞ WS takes place in the Nooooobs corp 
 
-Discord:<color=#3c78d8>pECD6CY</color> ```
+Discord:<color=#3c78d8>pECD6CY</color>
+```
 ### [Discord](https://discord.gg/pECD6CY)
 ### Whitestar Bonus ❌
 

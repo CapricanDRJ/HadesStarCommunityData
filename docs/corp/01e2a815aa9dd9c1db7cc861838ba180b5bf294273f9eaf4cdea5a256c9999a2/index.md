@@ -25,7 +25,8 @@ Q群：838214551
 <color=blue>优秀成员：兽人</color> 
 所有人必须参白！红点送机票
 所有人不准踢人，哪怕是首席。
-黑名单：元宇宙 ```
+黑名单：元宇宙
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

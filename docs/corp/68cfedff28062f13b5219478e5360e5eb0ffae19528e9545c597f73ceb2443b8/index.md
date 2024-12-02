@@ -15,7 +15,8 @@ date: 1710338957
 ```
  New Corp looking for some regular playing members. 
 
-https://discord.gg/geRShvzM89 ```
+https://discord.gg/geRShvzM89
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

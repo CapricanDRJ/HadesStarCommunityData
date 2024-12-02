@@ -13,7 +13,8 @@ date: 1702319921
 
 
 ```
- Red Star Farmers           Currently in Chapter 11 reorganization. ```
+ Red Star Farmers           Currently in Chapter 11 reorganization.
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

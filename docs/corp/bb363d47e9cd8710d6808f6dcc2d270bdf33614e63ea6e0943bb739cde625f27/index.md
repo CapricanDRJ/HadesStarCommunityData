@@ -13,7 +13,8 @@ date: 1703708620
 
 
 ```
- Unir, conquistar, lutar e vencer. ```
+ Unir, conquistar, lutar e vencer.
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

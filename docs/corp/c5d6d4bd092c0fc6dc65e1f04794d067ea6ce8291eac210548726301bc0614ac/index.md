@@ -13,7 +13,8 @@ date: 1700160115
 
 
 ```
- Junger Konzern für freie Mitarbeiter. Wir erobern das Universum! ```
+ Junger Konzern für freie Mitarbeiter. Wir erobern das Universum!
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -22,7 +22,8 @@ date: 1732847239
 第三名进入本集团的是：快手植治
 第一分团：星际联盟-额外统治区
 集团水群1023756986(qq)
-https://discord.gg/fAejNbTH ```
+https://discord.gg/fAejNbTH
+```
 ### [Discord](https://discord.gg/AKnA5maMnG)
 ### Whitestar Bonus ✅
 

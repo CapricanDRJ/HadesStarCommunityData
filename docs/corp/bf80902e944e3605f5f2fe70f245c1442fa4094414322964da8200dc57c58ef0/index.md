@@ -13,7 +13,8 @@ date: 1706218527
 
 
 ```
- Auf zur Macht...möge die Macht mit euch sein... habt Spaß und seid nett zueinander... im Moment wöchentliche WZ und täglich RR bis (7). Aktiv erwünscht ```
+ Auf zur Macht...möge die Macht mit euch sein... habt Spaß und seid nett zueinander... im Moment wöchentliche WZ und täglich RR bis (7). Aktiv erwünscht
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

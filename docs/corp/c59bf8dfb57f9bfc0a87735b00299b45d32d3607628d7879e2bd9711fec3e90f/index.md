@@ -13,7 +13,8 @@ date: 1732287246
 
 
 ```
- dont give in we help each other in start a White star ever 2 day ```
+ dont give in we help each other in start a White star ever 2 day
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

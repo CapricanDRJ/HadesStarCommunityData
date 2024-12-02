@@ -21,7 +21,8 @@ Weekly White stars
 
 Please say hello on discord if you are interested in joining us.
 
-http://discord.gg/7fT6uru ```
+http://discord.gg/7fT6uru
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -20,7 +20,8 @@ date: 1732941505
 - Общительность 
 - Совместные КЗ 
 - Помощь артефактами
- ```
+
+```
 ### [Discord](https://discord.gg/s7nmhGXugM)
 ### Whitestar Bonus ✅
 

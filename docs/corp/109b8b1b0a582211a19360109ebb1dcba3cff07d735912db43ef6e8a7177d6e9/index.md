@@ -13,7 +13,8 @@ date: 1715385150
 
 
 ```
- Dusting off the Flagship and rebuilding a community. A mix of old-timers and new players, come and help us build Foreshadowing 2.0 ```
+ Dusting off the Flagship and rebuilding a community. A mix of old-timers and new players, come and help us build Foreshadowing 2.0
+```
 ### [Discord](https://discord.gg/3vcpUw33ew)
 ### Whitestar Bonus ❌
 

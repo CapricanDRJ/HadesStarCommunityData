@@ -13,7 +13,8 @@ date: 1732448393
 
 
 ```
- Stolzes Gründungsmitglied der Hades Föderation. In Kooperation mit GalaxyNova (Aïres) und Hexwood (Krakawski). Neulinge wie Profis sind herzlich willkommen! Wir fliegen täglich RR und regelmäßig WZ. ```
+ Stolzes Gründungsmitglied der Hades Föderation. In Kooperation mit GalaxyNova (Aïres) und Hexwood (Krakawski). Neulinge wie Profis sind herzlich willkommen! Wir fliegen täglich RR und regelmäßig WZ.
+```
 ### [Discord](https://discord.gg/rX4AFRfyPX)
 ### Whitestar Bonus ❌
 

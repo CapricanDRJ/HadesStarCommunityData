@@ -17,7 +17,8 @@ date: 1732975459
 Sois le bienvenu chez les Pirates!!!!
 RS7 à RS11 full coop
 WS HL hebdo
-https://discord.gg/wZcGGNZ ```
+https://discord.gg/wZcGGNZ
+```
 ### [Discord](https://discord.gg/wZcGGNZ)
 ### Whitestar Bonus ❌
 

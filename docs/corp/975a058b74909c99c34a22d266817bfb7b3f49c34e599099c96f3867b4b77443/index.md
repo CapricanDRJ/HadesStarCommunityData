@@ -14,7 +14,8 @@ date: 1712762885
 
 ```
  A friendly group dedicated to working together to advance in this game. 
- ```
+
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

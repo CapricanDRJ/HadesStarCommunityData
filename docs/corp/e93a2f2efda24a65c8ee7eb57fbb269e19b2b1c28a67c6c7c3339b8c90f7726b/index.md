@@ -13,7 +13,8 @@ date: 1732666549
 
 
 ```
- Alpacas unite! Have fun and prosper. We do relaxed WS. ```
+ Alpacas unite! Have fun and prosper. We do relaxed WS.
+```
 ### [Discord](https://discord.gg/xaRgKha)
 ### Whitestar Bonus ❌
 

@@ -17,7 +17,8 @@ date: 1704655853
 много информации, задать вопросы или поделится с другими игроками о происходящем в мире Hades! 
 discord.gg/cc22fFn
  канал союз-2
-discord.gg/PyVCs ```
+discord.gg/PyVCs
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -13,7 +13,8 @@ date: 1700513339
 
 
 ```
-  I'm really sorry for you guys being forced out of the company you strengthened. I will keep it instead of deleting it. Maybe I will come back. Then I will open the company again. Thank you.bay ```
+  I'm really sorry for you guys being forced out of the company you strengthened. I will keep it instead of deleting it. Maybe I will come back. Then I will open the company again. Thank you.bay
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

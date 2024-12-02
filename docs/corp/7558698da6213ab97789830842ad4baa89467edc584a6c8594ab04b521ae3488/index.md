@@ -16,7 +16,8 @@ date: 1725661259
  Приветствуем всех новопришедших игроков, здесь вас ждут частые бз и помощь новичкам
 
 <color=red>Наш телеграм</color> 
-https://t.me/+k9Bv8nU9QW80NmFi ```
+https://t.me/+k9Bv8nU9QW80NmFi
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

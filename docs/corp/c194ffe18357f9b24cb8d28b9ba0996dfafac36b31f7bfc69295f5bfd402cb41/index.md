@@ -13,7 +13,8 @@ date: 1721021240
 
 
 ```
- One Galaxy under god, ruled by an iron fist to comply and listen or shall be struck down with utter destruction. ```
+ One Galaxy under god, ruled by an iron fist to comply and listen or shall be struck down with utter destruction.
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

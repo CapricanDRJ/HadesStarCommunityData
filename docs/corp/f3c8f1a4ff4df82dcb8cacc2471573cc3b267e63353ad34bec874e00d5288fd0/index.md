@@ -13,7 +13,8 @@ date: 1733081233
 
 
 ```
- Hola amigo today top get max 64 all   Freedom doesn't mean you can't go online! ! ! ```
+ Hola amigo today top get max 64 all   Freedom doesn't mean you can't go online! ! !
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

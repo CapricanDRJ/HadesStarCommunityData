@@ -13,7 +13,8 @@ date: 1714825274
 
 
 ```
- <color=#FFD700>Nata il 04/09/2020 <br><br><b>OFFRIAMO: divertimento, relax e supporto PRETENDIAMO: educazione e cooperazione</b><br>RS 1-11<br><br>Strade? Dove andiamo noi non servono strade</color> ```
+ <color=#FFD700>Nata il 04/09/2020 <br><br><b>OFFRIAMO: divertimento, relax e supporto PRETENDIAMO: educazione e cooperazione</b><br>RS 1-11<br><br>Strade? Dove andiamo noi non servono strade</color>
+```
 ### [Discord](https://discord.gg/B5y6qXw)
 ### Whitestar Bonus ❌
 

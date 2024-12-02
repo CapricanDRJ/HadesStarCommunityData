@@ -15,7 +15,8 @@ date: 1726889394
 ```
  Be courteous
 Be active
-Have fun ```
+Have fun
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

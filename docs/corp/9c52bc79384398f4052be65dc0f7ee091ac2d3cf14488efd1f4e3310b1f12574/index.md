@@ -13,7 +13,8 @@ date: 1732918372
 
 
 ```
- corpo  tranquille  pour se développer a son rythme et nous assurons 1 étoile  blanche par semaine 👽👽👍 ```
+ corpo  tranquille  pour se développer a son rythme et nous assurons 1 étoile  blanche par semaine 👽👽👍
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

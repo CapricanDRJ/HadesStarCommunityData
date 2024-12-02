@@ -13,7 +13,8 @@ date: 1732257279
 
 
 ```
- A home for any new or veteran player who wants to grow their corporation. Team focused; total support. Growing fast! ```
+ A home for any new or veteran player who wants to grow their corporation. Team focused; total support. Growing fast!
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

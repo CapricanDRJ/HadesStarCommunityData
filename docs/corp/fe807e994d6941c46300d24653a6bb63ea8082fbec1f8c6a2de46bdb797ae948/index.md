@@ -13,7 +13,8 @@ date: 1719335664
 
 
 ```
- Second wing of Commander Cody and the Lost Planet Airmen Join our Discord server T9D3BdHY ```
+ Second wing of Commander Cody and the Lost Planet Airmen Join our Discord server T9D3BdHY
+```
 ### [Discord](https://discord.gg/r66hPREZUW)
 ### Whitestar Bonus ❌
 

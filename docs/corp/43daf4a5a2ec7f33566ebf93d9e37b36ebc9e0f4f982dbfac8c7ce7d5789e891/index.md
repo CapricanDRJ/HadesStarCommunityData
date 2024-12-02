@@ -13,7 +13,8 @@ date: 1712768023
 
 
 ```
- Just a feeder corp for alts :D enjoy corp bonus on arts if you'd like otherwise a fairly inactive crew ```
+ Just a feeder corp for alts :D enjoy corp bonus on arts if you'd like otherwise a fairly inactive crew
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

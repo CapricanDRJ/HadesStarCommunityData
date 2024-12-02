@@ -13,7 +13,8 @@ date: 1716807774
 
 
 ```
- Was once a White Star training corp is now a quiet corner of HS. If we beat you, uninstall! Serious players unwelcome! Fun is our #1 policy. 30days afk=kick https://discord.gg/g7HzK7s ```
+ Was once a White Star training corp is now a quiet corner of HS. If we beat you, uninstall! Serious players unwelcome! Fun is our #1 policy. 30days afk=kick https://discord.gg/g7HzK7s
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

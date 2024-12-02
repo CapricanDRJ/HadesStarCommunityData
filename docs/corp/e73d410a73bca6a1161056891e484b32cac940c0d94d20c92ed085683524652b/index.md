@@ -18,7 +18,8 @@ date: 1732875391
 Rekrutację prowadzimy także na naszym discordzie.
 
 DISCORD
-vGfaYFN ```
+vGfaYFN
+```
 ### [Discord](https://discord.gg/vGfaYFN)
 ### Whitestar Bonus ✅
 

@@ -13,7 +13,8 @@ date: 1723153186
 
 
 ```
- LEAVE!!! ```
+ LEAVE!!!
+```
 ### [Discord](https://discord.gg/I like Chelsea’s feet)
 ### Whitestar Bonus ❌
 

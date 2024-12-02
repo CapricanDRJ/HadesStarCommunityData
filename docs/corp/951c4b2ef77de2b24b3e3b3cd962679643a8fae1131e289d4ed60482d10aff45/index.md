@@ -18,7 +18,8 @@ date: 1720730961
 We’re the black hole to your probe. 
 The thrust to your ship. 
 
-A Space Family :) ```
+A Space Family :)
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

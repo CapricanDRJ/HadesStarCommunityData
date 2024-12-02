@@ -13,7 +13,8 @@ date: 1701667744
 
 
 ```
- За сталкер, за Монолит! ```
+ За сталкер, за Монолит!
+```
 ### [Discord](https://discord.gg/invite/EsqXdmCJ)
 ### Whitestar Bonus ❌
 

@@ -13,7 +13,8 @@ date: 1733114281
 
 
 ```
- Todoas las personas que puedan hablar español esta permitido aqui nos cuidamos como familia,  si no se conecta en 30 dias seran expulsados ```
+ Todoas las personas que puedan hablar español esta permitido aqui nos cuidamos como familia,  si no se conecta en 30 dias seran expulsados
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -14,7 +14,8 @@ date: 1710932080
 
 ```
  Wir gehören zu Enigma.
- ```
+
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

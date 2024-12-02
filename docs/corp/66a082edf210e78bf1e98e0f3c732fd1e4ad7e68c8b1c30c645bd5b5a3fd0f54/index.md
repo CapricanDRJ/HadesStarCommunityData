@@ -15,7 +15,8 @@ date: 1703791867
 ```
  An <size=100>English</size> speaking, independent, <size=200><color=white><b>White-Star</b></color></size> corp with very <size=100><i>weird standards</i></size>.
 
-https://discord.gg/7KGYvMbPgK ```
+https://discord.gg/7KGYvMbPgK
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

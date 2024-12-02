@@ -13,7 +13,8 @@ date: 1732909657
 
 
 ```
- CZ/SK korporace            Odkaz na stažení HadesSpace https://userxinos.github.io/HadesSpace/ ```
+ CZ/SK korporace            Odkaz na stažení HadesSpace https://userxinos.github.io/HadesSpace/
+```
 ### [Discord](https://discord.gg/syV6uUt9dM)
 ### Whitestar Bonus ❌
 

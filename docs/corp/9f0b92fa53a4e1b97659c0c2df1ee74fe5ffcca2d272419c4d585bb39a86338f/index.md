@@ -17,7 +17,8 @@ date: 1707427495
 
 Mensagem: Mantenha-se ativo ou terá que dar vaga na corporação para outro entrar.
 
-Em breve faremos estrelas brancas. ```
+Em breve faremos estrelas brancas.
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

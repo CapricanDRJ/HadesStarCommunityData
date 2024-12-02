@@ -19,7 +19,8 @@ Somos un clan que busca jugadores activos que quieran progresar. Ayudamos con ar
 
 CONTACTO:
 - C8jvrsR (Discord)
-- D3U3oPzVBrzCl5NNsaepfL (WhatsApp) ```
+- D3U3oPzVBrzCl5NNsaepfL (WhatsApp)
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

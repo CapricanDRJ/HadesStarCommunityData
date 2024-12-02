@@ -17,7 +17,8 @@ date: 1700256910
 Discord: https://discord.gg/Hb4ncRxnAx
 Телега: @Fenix_HS 
 Корпорация создана в 2020 году.
-Во время бз прием строго ограничен! ```
+Во время бз прием строго ограничен!
+```
 ### [Discord](https://discord.gg/Hb4ncRxnAx)
 ### Whitestar Bonus ❌
 

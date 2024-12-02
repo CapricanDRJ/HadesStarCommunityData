@@ -13,7 +13,8 @@ date: 1732090796
 
 
 ```
- For Hungarians. Magyar játékosoknak, akik szeretik a csapatmunkàt! Languages: Hungarian, English. ```
+ For Hungarians. Magyar játékosoknak, akik szeretik a csapatmunkàt! Languages: Hungarian, English.
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

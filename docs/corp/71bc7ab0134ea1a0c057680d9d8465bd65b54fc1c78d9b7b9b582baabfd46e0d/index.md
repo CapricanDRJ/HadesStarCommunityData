@@ -24,7 +24,8 @@ date: 1732770213
 Win,lose,fight.
 
 
-Discord mandatory. <b>EEpZuWf</b> ```
+Discord mandatory. <b>EEpZuWf</b>
+```
 ### [Discord](https://discord.gg/EEpZuWf)
 ### Whitestar Bonus ✅
 

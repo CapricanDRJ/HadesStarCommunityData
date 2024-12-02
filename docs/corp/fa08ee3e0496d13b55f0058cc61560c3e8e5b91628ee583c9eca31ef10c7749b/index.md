@@ -17,7 +17,8 @@ date: 1726298897
 
 Corpo École faisant partie des  🏴‍☠️ Pirates spatial  🏴‍☠️
 
-Discord : wZcGGNZ ```
+Discord : wZcGGNZ
+```
 ### [Discord](https://discord.gg/wZcGGNZ )
 ### Whitestar Bonus ❌
 

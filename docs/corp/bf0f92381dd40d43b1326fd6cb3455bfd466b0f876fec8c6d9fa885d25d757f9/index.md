@@ -13,7 +13,8 @@ date: 1714980024
 
 
 ```
- Eating bananas, tossing feces, and howling at passers-by. Like normal monkeys, but in space. ```
+ Eating bananas, tossing feces, and howling at passers-by. Like normal monkeys, but in space.
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

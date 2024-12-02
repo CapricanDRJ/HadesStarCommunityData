@@ -13,7 +13,8 @@ date: 1730452430
 
 
 ```
- Casual, carefree, we'll get there when we get there just be active  (we are actively recruiting, if you dont play- you dont stay)  ```
+ Casual, carefree, we'll get there when we get there just be active  (we are actively recruiting, if you dont play- you dont stay) 
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

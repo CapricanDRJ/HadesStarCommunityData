@@ -13,7 +13,8 @@ date: 1728114704
 
 
 ```
- 企鹅帝国欢迎您的到来！首席：Emperorpenguin     盟团：斯比纳兰 ```
+ 企鹅帝国欢迎您的到来！首席：Emperorpenguin     盟团：斯比纳兰
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

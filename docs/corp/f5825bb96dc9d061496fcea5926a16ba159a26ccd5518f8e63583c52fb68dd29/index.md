@@ -13,7 +13,8 @@ date: 1732914766
 
 
 ```
- Active DRS queue. Competitive WS. RSEvent Top100. You don’t need an account inGame to be a member. InGame space is prioritized for running red or white stars. <color="green"> Discord:MgcvvsKa8q ```
+ Active DRS queue. Competitive WS. RSEvent Top100. You don’t need an account inGame to be a member. InGame space is prioritized for running red or white stars. <color="green"> Discord:MgcvvsKa8q
+```
 ### [Discord](https://discord.gg/MgcvvsKa8q)
 ### Whitestar Bonus ❌
 

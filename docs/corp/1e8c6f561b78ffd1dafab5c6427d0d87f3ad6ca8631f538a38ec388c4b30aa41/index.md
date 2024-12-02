@@ -13,7 +13,8 @@ date: 1712463334
 
 
 ```
- "No requirements to join, but our First Officer is incompetent" - TNH's First Officer ```
+ "No requirements to join, but our First Officer is incompetent" - TNH's First Officer
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

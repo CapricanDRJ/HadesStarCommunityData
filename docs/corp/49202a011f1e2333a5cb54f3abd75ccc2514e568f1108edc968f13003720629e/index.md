@@ -13,7 +13,8 @@ date: 1711419771
 
 
 ```
- <color=#FF6666>Welcome to Red Dwarf!</color> Part of the Dwarf family, join us for group Red Star runs, hints and tips, free artifacts, and weekly White Stars hosted in White Dwarf! Discord advised.  ```
+ <color=#FF6666>Welcome to Red Dwarf!</color> Part of the Dwarf family, join us for group Red Star runs, hints and tips, free artifacts, and weekly White Stars hosted in White Dwarf! Discord advised. 
+```
 ### [Discord](https://discord.gg/mbBssbBRQ8)
 ### Whitestar Bonus ❌
 

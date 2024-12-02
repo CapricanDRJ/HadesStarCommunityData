@@ -13,7 +13,8 @@ date: 1722838251
 
 
 ```
- 欢迎大家的加入♡ ```
+ 欢迎大家的加入♡
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

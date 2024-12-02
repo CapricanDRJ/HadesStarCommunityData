@@ -13,7 +13,8 @@ date: 1732945711
 
 
 ```
- <color=red>Er1-12</color> <color=#33FFFC>estrellas blancas semanales</color>  <color=grey>fundador:Jorge. <b><color=green><size=70>pedir unirse al grupo de Whatsapp</size></color></b> ```
+ <color=red>Er1-12</color> <color=#33FFFC>estrellas blancas semanales</color>  <color=grey>fundador:Jorge. <b><color=green><size=70>pedir unirse al grupo de Whatsapp</size></color></b>
+```
 ### [Discord](https://discord.gg/QDzhmPUe8u)
 ### Whitestar Bonus ✅
 

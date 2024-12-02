@@ -16,7 +16,8 @@ date: 1727370688
  日本人の方推奨
 気軽にどうぞ！
 あまり参加しないと思いますが、まったりどうぞ！
-無言ok ```
+無言ok
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

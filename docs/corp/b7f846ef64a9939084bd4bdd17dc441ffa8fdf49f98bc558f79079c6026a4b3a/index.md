@@ -17,7 +17,8 @@ date: 1699123369
 
 Join our server for questions. But this is a mostly dead corp, honest. Join server for shenanigans! 
 
-discord code:  5xKBwEFxeD ```
+discord code:  5xKBwEFxeD
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

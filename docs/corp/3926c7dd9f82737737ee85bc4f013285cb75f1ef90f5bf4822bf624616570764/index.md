@@ -14,7 +14,8 @@ date: 1709926722
 
 ```
  Всем любителям пива, сюда. Да прибудет с вами пенное...
-https://discord.gg/C3nffwQkCc ```
+https://discord.gg/C3nffwQkCc
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

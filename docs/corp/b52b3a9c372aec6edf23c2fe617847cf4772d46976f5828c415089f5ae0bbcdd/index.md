@@ -20,7 +20,8 @@ date: 1711701595
 -Brak spin , nie spamimy
 -Pomoc początkującym
 
-no i fajnie no i cześć  ^^ witamy! ```
+no i fajnie no i cześć  ^^ witamy!
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

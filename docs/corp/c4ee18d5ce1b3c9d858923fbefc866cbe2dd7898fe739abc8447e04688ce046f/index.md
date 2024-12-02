@@ -17,7 +17,8 @@ date: 1716685502
 White Star mondays 
 
 Discord Optional:
-https://discord.gg/SCWbttfZbU ```
+https://discord.gg/SCWbttfZbU
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

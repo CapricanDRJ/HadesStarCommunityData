@@ -13,7 +13,8 @@ date: 1732933693
 
 
 ```
- Closed the list ```
+ Closed the list
+```
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

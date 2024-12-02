@@ -13,7 +13,8 @@ date: 1726627017
 
 
 ```
-  ```
+ 
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

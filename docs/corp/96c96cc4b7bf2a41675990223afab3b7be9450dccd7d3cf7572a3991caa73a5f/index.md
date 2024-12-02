@@ -19,7 +19,8 @@ Wir haben die schönsten Waldstädte, die explosivsten Bäume und die bärigsten
 Wir sind Teil der Tartaros Armada. 
 
 Discordpflicht!
-UmWZYtn9Hh ```
+UmWZYtn9Hh
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -15,7 +15,8 @@ date: 1716459858
 ```
  Habla hispana ... Activos con ganas de crecer en equipo y respeto.
 7 dias de inactividad sin aviso, expulsión.
-ER3-7, CORP cooperativas ANADIR y 42 Nova Corp ```
+ER3-7, CORP cooperativas ANADIR y 42 Nova Corp
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -13,7 +13,8 @@ date: 1732918372
 
 
 ```
- Wir sind die Talentschmiede von HINTERM MOND. Werde auch Du Teil des besten deutschen Konzerns. Konzernübergreifende RR7+ und wöchentliche WZ (Discordpflicht).               Twinkkonzern: $tar$ ```
+ Wir sind die Talentschmiede von HINTERM MOND. Werde auch Du Teil des besten deutschen Konzerns. Konzernübergreifende RR7+ und wöchentliche WZ (Discordpflicht).               Twinkkonzern: $tar$
+```
 ### [Discord](https://discord.gg/SK46885)
 ### Whitestar Bonus ✅
 

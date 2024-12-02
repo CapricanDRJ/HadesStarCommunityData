@@ -13,7 +13,8 @@ date: 1712768054
 
 
 ```
- We'll bang, ok? ```
+ We'll bang, ok?
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

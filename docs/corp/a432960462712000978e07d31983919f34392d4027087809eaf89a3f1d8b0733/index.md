@@ -17,7 +17,8 @@ date: 1726532381
 "Hope in the darkness" 
 Please be Active in chat and try to participate during WS, RS, and random stuff. Be kind in chat!!!!! 
 https://discord.gg/7J9fa2egCU
-Join for Senior M. ```
+Join for Senior M.
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -13,7 +13,8 @@ date: 1700708523
 
 
 ```
- Buenos gente, estas corporación esta demasiada inactiva vamos intentar estar mas activos poreso esque aveses perdemos en las EB mas activos ay que hacer una comunidad activa gente; nuestra alianza F.V ```
+ Buenos gente, estas corporación esta demasiada inactiva vamos intentar estar mas activos poreso esque aveses perdemos en las EB mas activos ay que hacer una comunidad activa gente; nuestra alianza F.V
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

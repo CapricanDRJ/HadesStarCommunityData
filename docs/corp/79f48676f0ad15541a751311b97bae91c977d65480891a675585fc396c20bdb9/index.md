@@ -13,7 +13,8 @@ date: 1725023276
 
 
 ```
- 稳定发放D7-9，<size=50>别捐旗舰</size>   QQ群638804576 ```
+ 稳定发放D7-9，<size=50>别捐旗舰</size>   QQ群638804576
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

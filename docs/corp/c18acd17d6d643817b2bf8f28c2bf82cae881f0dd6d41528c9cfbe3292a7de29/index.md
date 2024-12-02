@@ -13,7 +13,8 @@ date: 1710249718
 
 
 ```
- 请移到另一个探索舰队谢谢 ```
+ 请移到另一个探索舰队谢谢
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

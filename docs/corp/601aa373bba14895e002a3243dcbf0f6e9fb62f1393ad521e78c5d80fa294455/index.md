@@ -15,7 +15,8 @@ date: 1703316525
 ```
  "Werde Teil einer außergewöhnlichen Mannschaft"
 Jeder ist willkommen, permanent WZ, RR's und Support.
-Traut euch... bewirb dich noch heute 🖖🏻 ```
+Traut euch... bewirb dich noch heute 🖖🏻
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

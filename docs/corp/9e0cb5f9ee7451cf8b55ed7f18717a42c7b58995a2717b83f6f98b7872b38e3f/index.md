@@ -18,7 +18,8 @@ date: 1721257201
 Friendly & active rs9 - 11.
 Weekly comp & casual WS.
 
-Join via Discord: N3uPEvsFY9</color> ```
+Join via Discord: N3uPEvsFY9</color>
+```
 ### [Discord](https://discord.gg/vPsNNxs)
 ### Whitestar Bonus ❌
 

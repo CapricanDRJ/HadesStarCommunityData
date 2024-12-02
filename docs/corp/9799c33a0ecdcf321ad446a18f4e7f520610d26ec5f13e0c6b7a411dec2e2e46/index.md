@@ -13,7 +13,8 @@ date: 1724210928
 
 
 ```
- enter if you have ws scanner ```
+ enter if you have ws scanner
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

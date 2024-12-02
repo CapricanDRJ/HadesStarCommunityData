@@ -13,7 +13,8 @@ date: 1731010507
 
 
 ```
- <color=red>Somos Una Corporacion Con Penes Gigantes Sandro El Mas Pitudo ```
+ <color=red>Somos Una Corporacion Con Penes Gigantes Sandro El Mas Pitudo
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

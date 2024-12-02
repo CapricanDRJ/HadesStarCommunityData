@@ -13,7 +13,8 @@ date: 1701427603
 
 
 ```
- Welcome to callisto corporation wanna relax or be competitive we've got both (white stars on Saturday USA time)  ```
+ Welcome to callisto corporation wanna relax or be competitive we've got both (white stars on Saturday USA time) 
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

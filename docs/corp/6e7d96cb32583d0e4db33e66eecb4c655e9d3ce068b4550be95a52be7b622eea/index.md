@@ -19,7 +19,8 @@ Chatsprache vorzugsweise Deutsch.
 
 Für Planung und Kommunikation außerhalb des Spiels
 
-https://discord.gg/CFhYyYave ```
+https://discord.gg/CFhYyYave
+```
 ### [Discord](https://discord.gg/https://discord.gg/nzkvKWGYft)
 ### Whitestar Bonus ❌
 

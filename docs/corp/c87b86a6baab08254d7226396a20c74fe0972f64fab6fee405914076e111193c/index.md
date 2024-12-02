@@ -17,7 +17,8 @@ date: 1726935372
  
 Wer eine gewachsene Gemeinschaft mit Humor sucht, ist bei uns genau richtig.
 Discord ist Pflicht: discord.gg/SUVSGGYGz2
-Nerven aus Stahl, Eier aus Titan ```
+Nerven aus Stahl, Eier aus Titan
+```
 ### [Discord](https://discord.gg/SUVSGGYGz2)
 ### Whitestar Bonus ❌
 

@@ -13,7 +13,8 @@ date: 1729726168
 
 
 ```
- Looking for active playerz to compete in white stars  ```
+ Looking for active playerz to compete in white stars 
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

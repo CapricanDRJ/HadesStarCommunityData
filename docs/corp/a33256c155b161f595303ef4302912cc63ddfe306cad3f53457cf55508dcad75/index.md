@@ -19,7 +19,8 @@ date: 1733019633
 
 All FS Donations welcome.
 
-<b><color=red>Must join Discord to remain here. ```
+<b><color=red>Must join Discord to remain here.
+```
 ### [Discord](https://discord.gg/skvJzZH)
 ### Whitestar Bonus ✅
 

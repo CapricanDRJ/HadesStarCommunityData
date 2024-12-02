@@ -26,7 +26,8 @@ Discord required for WS.
 
 
 
-148 ```
+148
+```
 ### [Discord](https://discord.gg/uhka53GbmX)
 ### Whitestar Bonus ❌
 

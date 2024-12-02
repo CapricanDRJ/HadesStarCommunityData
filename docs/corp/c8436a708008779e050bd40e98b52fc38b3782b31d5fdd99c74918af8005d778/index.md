@@ -13,7 +13,8 @@ date: 1732641718
 
 
 ```
- Keep them thoughts clean 😉 and eyes on the screen as Lady WhiteStar requires your full attention 🍆as she can be lot to handle and more 🤣. So come join the team and have some fun along the way.  ```
+ Keep them thoughts clean 😉 and eyes on the screen as Lady WhiteStar requires your full attention 🍆as she can be lot to handle and more 🤣. So come join the team and have some fun along the way. 
+```
 ### [Discord](https://discord.gg/dYPKQpGa7s)
 ### Whitestar Bonus ✅
 
