@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Stellaris
-description: W:4 L:12 D:1 Bonus ✅
+description: W:4 L:12 D:1 Bonus ❌
 image: ./favicon.png
 date: 1732467328
 ---
@@ -12,7 +12,7 @@ date: 1732467328
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
@@ -23,7 +23,7 @@ date: 1732467328
 | Losses | 12 |
 | Draws | 1 |
 | Streak Record | 2 |
-| Flagship | 4 |
+| Flagship | 5 |
 
 ---
 
