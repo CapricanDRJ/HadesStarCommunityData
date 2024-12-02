@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Dark Halo
-description: W:9 L:6 D:0 Bonus ❌
+description: W:10 L:7 D:0 Bonus ✅
 image: ./favicon.png
-date: 1732322796
+date: 1733134410
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -12,15 +12,15 @@ date: 1732322796
 
 
 
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1248 🔻  (251)|
-| ELO Competitive | 1286 🔺  (285)|
-| Total Matches | 15 |
-| Wins | 9 |
-| Losses | 6 |
+| ELO Regular | 1244 🔻  (264)|
+| ELO Competitive | 1297 🔺  (268)|
+| Total Matches | 17 |
+| Wins | 10 |
+| Losses | 7 |
 | Draws | 0 |
 | Streak Record | 7 |
 | Flagship | 3 |
@@ -41,7 +41,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731890796,1731889294,1731245021,1731244720,1730597436,1729949858,1729304383,1728698473,1727968193,1726966932,1725972971,1725359058,1724848206,1724410963,1723976765];
+        let timestamps = [1732702410,1732702410,1731890796,1731889294,1731245021,1731244720,1730597436,1729949858,1729304383,1728698473,1727968193,1726966932,1725972971,1725359058,1724848206,1724410963,1723976765];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -130,6 +130,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/02 | 1-10 | [Brasil](https://ws.tsl.rocks/corp/c1d98a4e0a9c522aff7cb4156b0dc139eb54566269c2203b2eae6fe1827fc6c3/) |
+| ✅ | 2024/12/02 | 18-1 | [CAEDRUS \[<o\>\]](https://ws.tsl.rocks/corp/b3c982613964d8287b8f57e57ececf5b9497766670fc306d9827c85fbcdb2887/) |
 | ❌ | 2024/11/23 | 0-8 | [Fairy tail ](https://ws.tsl.rocks/corp/44e6a82c06b84bc5579df0e42bc462f36313b0060861d25228856930f6c19eac/) |
 | ✅ | 2024/11/23 | 6-3 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) |
 | ❌ | 2024/11/15 | 1-14 | [ДИᏰEPℂДℍTᏰℓ](https://ws.tsl.rocks/corp/a1dad8a2a2c5ab935169d168bc19f8a1db7f12b099358e079cb7221a340345ed/) |

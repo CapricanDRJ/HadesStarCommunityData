@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Brasil
-description: W:4 L:4 D:1 Bonus ❌
+description: W:5 L:4 D:1 Bonus ✅
 image: ./favicon.png
-date: 1732389807
+date: 1733134410
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -12,14 +12,14 @@ date: 1732389807
 
 
 
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1210 🔺  (439)|
-| ELO Competitive | 1222 🔺  (475)|
-| Total Matches | 9 |
-| Wins | 4 |
+| ELO Regular | 1227 🔺  (324)|
+| ELO Competitive | 1240 🔺  (406)|
+| Total Matches | 10 |
+| Wins | 5 |
 | Losses | 4 |
 | Draws | 1 |
 | Streak Record | 2 |
@@ -41,7 +41,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731957807,1731076718,1728422888,1725897853,1724257412,1723081497,1722291162,1721446090,1720655683];
+        let timestamps = [1732702410,1731957807,1731076718,1728422888,1725897853,1724257412,1723081497,1722291162,1721446090,1720655683];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -130,6 +130,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/02 | 10-1 | [Dark Halo](https://ws.tsl.rocks/corp/f6ed7c780faf133d3fe411b9ed88480608a56064328539891d1b4348242954f6/) |
 | ↔️ | 2024/11/23 | 2-2 | [  边界  ](https://ws.tsl.rocks/corp/86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a/) |
 | ✅ | 2024/11/13 | 6-0 | [银河护卫队](https://ws.tsl.rocks/corp/e522df7ad34eabee08393efb864d53bdc897d0ad187170616d6ef924df5c7267/) |
 | ✅ | 2024/10/13 | 11-3 | [imperio galacti](https://ws.tsl.rocks/corp/53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2/) |

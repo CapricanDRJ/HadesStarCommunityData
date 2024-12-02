@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​CAEDRUS [<o>]
-description: W:2 L:2 D:1 Bonus ❌
+description: W:2 L:3 D:1 Bonus ❌
 image: ./favicon.png
-date: 1702291873
+date: 1733134410
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,11 +16,11 @@ date: 1702291873
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1198 🔻  (522)|
-| ELO Competitive | 1199 🔻  (641)|
-| Total Matches | 5 |
+| ELO Regular | 1185 🔻  (697)|
+| ELO Competitive | 1187 🔻  (779)|
+| Total Matches | 6 |
 | Wins | 2 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 2 |
@@ -41,7 +41,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1701859873,1701391726,1700855544,1700414325,1699875397];
+        let timestamps = [1732702410,1701859873,1701391726,1700855544,1700414325,1699875397];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -130,6 +130,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/02 | 1-18 | [Dark Halo](https://ws.tsl.rocks/corp/f6ed7c780faf133d3fe411b9ed88480608a56064328539891d1b4348242954f6/) |
 | ❌ | 2023/12/11 | 0-3 | [很多星球的社会主义团](https://ws.tsl.rocks/corp/dcac8e5bb444db7feec894f3be5a6f373fd0025a6ec79ccc125dd8b7bf652bc2/) |
 | ↔️ | 2023/12/06 | 4-4 | [Survivors](https://ws.tsl.rocks/corp/10eb3bf190162d1f8373394a774ca9fe65faf64b1e98400cceadb7f37028d7b0/) |
 | ✅ | 2023/11/29 | 3-1 | [星光禁卫](https://ws.tsl.rocks/corp/8a3e5d55227ad679805b549aca87a2bc5acb1215ccd2af913592418385eccd25/) |

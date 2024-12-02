@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​华夏联盟
-description: W:5 L:8 D:1 Bonus ✅
+description: W:5 L:9 D:1 Bonus ✅
 image: ./favicon.png
-date: 1732653773
+date: 1733135612
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,11 +16,11 @@ date: 1732653773
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 🔺  (989)|
-| ELO Competitive | 1210 🔺  (571)|
-| Total Matches | 14 |
+| ELO Regular | 1155 🔻  (1062)|
+| ELO Competitive | 1198 🔻  (648)|
+| Total Matches | 15 |
 | Wins | 5 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 2 |
@@ -41,7 +41,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732221773,1731720705,1731673819,1731214963,1730725745,1730226928,1730121750,1729621421,1729311499,1729158623,1728726422,1728292707,1727704042,1727194102];
+        let timestamps = [1732703612,1732221773,1731720705,1731673819,1731214963,1730725745,1730226928,1730121750,1729621421,1729311499,1729158623,1728726422,1728292707,1727704042,1727194102];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/02 | 1-26 | [ITALIA](https://ws.tsl.rocks/corp/50983e789fe433b3974f5e28fe71a160d7d15afecfc7f2b89595a1a52391fda2/) |
 | ✅ | 2024/11/26 | 5-0 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 | ❌ | 2024/11/21 | 0-10 | [Nebula alliance](https://ws.tsl.rocks/corp/b60eb81ac1cb1dfb18ded4818ad07820957f77770dace6149956fffa60a17e84/) |
 | ✅ | 2024/11/20 | 4-0 | [The Order](https://ws.tsl.rocks/corp/47e04ea6552fb859893ba05d9445b972a19b6ed5d858276285ae5da39c01fa24/) |

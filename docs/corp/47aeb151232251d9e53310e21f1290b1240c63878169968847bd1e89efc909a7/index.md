@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Poggy Rockers
-description: W:32 L:19 D:3 Bonus ✅
+description: W:32 L:19 D:3 Bonus ❌
 image: ./favicon.png
 date: 1732950217
 ---
@@ -12,7 +12,7 @@ date: 1732950217
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

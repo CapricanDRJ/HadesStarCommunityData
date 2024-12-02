@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​星约组织：基地分团
-description: W:1 L:1 D:0 Bonus ✅
+description: W:1 L:2 D:0 Bonus ✅
 image: ./favicon.png
-date: 1732705904
+date: 1733143125
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,11 +16,11 @@ date: 1732705904
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 🔺  (492)|
-| ELO Competitive | 1203 🔺  (592)|
-| Total Matches | 2 |
+| ELO Regular | 1186 🔻  (690)|
+| ELO Competitive | 1189 🔻  (758)|
+| Total Matches | 3 |
 | Wins | 1 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -40,7 +40,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732273904,1731662100];
+        let timestamps = [1732711125,1732273904,1731662100];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -129,6 +129,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/02 | 0-5 | [一根飞机](https://ws.tsl.rocks/corp/459077a8d857a7bd7ee9caafa2c5ed27ac2416d2280965dd22d4293302cb9de0/) |
 | ✅ | 2024/11/27 | 6-1 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ❌ | 2024/11/20 | 3-6 | [蓝星集团](https://ws.tsl.rocks/corp/9d718b80beaf9682ccde175169372b72f70b75bb593770762dfc9e990cbd098a/) |
 

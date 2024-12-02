@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Pixies
-description: W:11 L:4 D:0 Bonus ❌
+description: W:12 L:4 D:0 Bonus ✅
 image: ./favicon.png
-date: 1732289738
+date: 1733140420
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -12,17 +12,17 @@ date: 1732289738
 
 
 
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1273 🔺  (193)|
-| ELO Competitive | 1318 🔺  (231)|
-| Total Matches | 15 |
-| Wins | 11 |
+| ELO Regular | 1281 🔺  (189)|
+| ELO Competitive | 1334 🔺  (208)|
+| Total Matches | 16 |
+| Wins | 12 |
 | Losses | 4 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 6 |
 | Flagship | 4 |
 
@@ -42,7 +42,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731857738,1730929483,1729794501,1729341045,1728407858,1726828101,1725132775,1724245169,1723070982,1722380712,1721551868,1721012742,1719068646,1718006175,1714828760];
+        let timestamps = [1732708420,1731857738,1730929483,1729794501,1729341045,1728407858,1726828101,1725132775,1724245169,1723070982,1722380712,1721551868,1721012742,1719068646,1718006175,1714828760];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -125,12 +125,18 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) | 2 | 0 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/02 | 26-0 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |
 | ✅ | 2024/11/22 | 23-0 | [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) |
 | ✅ | 2024/11/11 | 8-3 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |
 | ❌ | 2024/10/29 | 3-12 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |

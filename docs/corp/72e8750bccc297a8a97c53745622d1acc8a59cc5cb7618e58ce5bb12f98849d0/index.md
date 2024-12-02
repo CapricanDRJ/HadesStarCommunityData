@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​星际公约组织
-description: W:1 L:7 D:1 Bonus ✅
+description: W:2 L:7 D:1 Bonus ✅
 image: ./favicon.png
-date: 1732705904
+date: 1733142524
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,10 +16,10 @@ date: 1732705904
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1121 🔻  (1199)|
-| ELO Competitive | 1175 🔺  (1009)|
-| Total Matches | 9 |
-| Wins | 1 |
+| ELO Regular | 1139 🔺  (1138)|
+| ELO Competitive | 1191 🔺  (714)|
+| Total Matches | 10 |
+| Wins | 2 |
 | Losses | 7 |
 | Draws | 1 |
 | Flagship | 3 |
@@ -40,7 +40,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732273904,1732227339,1731670213,1731527190,1731217368,1731074012,1730614862,1730197172,1729721265];
+        let timestamps = [1732710524,1732273904,1732227339,1731670213,1731527190,1731217368,1731074012,1730614862,1730197172,1729721265];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -129,6 +129,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/02 | 10-3 | [星约组织：莫比乌斯分团](https://ws.tsl.rocks/corp/8c6c89eb61596132a63d3dfd58d510c786b81aeadc901df98813353ec69dd2bf/) |
 | ❌ | 2024/11/27 | 1-6 | [星约组织：基地分团](https://ws.tsl.rocks/corp/65d5754facd0f6a7ee7bd84567ea263d8002e24a754d36c982598d5552b1830b/) |
 | ✅ | 2024/11/26 | 8-2 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 | ❌ | 2024/11/20 | 1-5 | [普罗米修斯](https://ws.tsl.rocks/corp/f39d00b1bbbf87c158931fd887f37a588019d0b1fd4f2441fbc675674b71423a/) |

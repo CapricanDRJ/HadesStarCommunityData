@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​ITALIA
-description: W:5 L:0 D:0 Bonus ❌
+description: W:6 L:0 D:0 Bonus ✅
 image: ./favicon.png
-date: 1731884971
+date: 1733135612
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -12,18 +12,18 @@ date: 1731884971
 
 
 
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1276 🔺  (190)|
-| ELO Competitive | 1281 🔺  (297)|
-| Total Matches | 5 |
-| Wins | 5 |
+| ELO Regular | 1286 🔺  (179)|
+| ELO Competitive | 1293 🔺  (275)|
+| Total Matches | 6 |
+| Wins | 6 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 5 |
-| Streak Record | 5 |
+| Streak | 6 |
+| Streak Record | 6 |
 | Flagship | 4 |
 
 ---
@@ -42,7 +42,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731452971,1730809884,1729748823,1728670826,1728019284];
+        let timestamps = [1732703612,1731452971,1730809884,1729748823,1728670826,1728019284];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -131,6 +131,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/02 | 26-1 | [华夏联盟](https://ws.tsl.rocks/corp/2c648f8c6a0963f1a86b1a1ca787f67c02ee58838a809427b68d3546b89078ac/) |
 | ✅ | 2024/11/17 | 16-3 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) |
 | ✅ | 2024/11/10 | 16-0 | [Dirty Minds Inc](https://ws.tsl.rocks/corp/c8436a708008779e050bd40e98b52fc38b3782b31d5fdd99c74918af8005d778/) |
 | ✅ | 2024/10/29 | 22-0 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |
