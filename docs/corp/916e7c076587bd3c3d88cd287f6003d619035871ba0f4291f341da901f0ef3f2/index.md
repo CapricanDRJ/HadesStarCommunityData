@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​S.U.N
-description: W:2 L:1 D:1 Bonus ✅
+description: W:2 L:1 D:1 Bonus ❌
 image: ./favicon.png
 date: 1732990788
 ---
@@ -15,7 +15,7 @@ date: 1732990788
 ```
 
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
