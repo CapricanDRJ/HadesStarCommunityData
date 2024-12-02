@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​星光万丈
-description: W:23 L:28 D:1 Bonus ✅
+description: W:23 L:28 D:1 Bonus ❌
 image: ./favicon.png
 date: 1732543948
 ---
@@ -17,12 +17,12 @@ date: 1732543948
                                    始建于2023.6 28  已封闭 星光舰队 雪月永恒  红活请前往
 星光禁卫
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1237 🔻  (293)|
-| ELO Competitive | 1365 🔺  (169)|
+| ELO Competitive | 1365 🔺  (170)|
 | Total Matches | 52 |
 | Wins | 23 |
 | Losses | 28 |

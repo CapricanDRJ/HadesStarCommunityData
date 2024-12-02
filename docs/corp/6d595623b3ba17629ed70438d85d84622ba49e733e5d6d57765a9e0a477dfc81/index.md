@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​中国星际联盟
-description: W:39 L:43 D:3 Bonus ✅
+description: W:39 L:43 D:3 Bonus ❌
 image: ./favicon.png
 date: 1732541243
 ---
@@ -27,7 +27,7 @@ QQ群号为131920392，
 让我们一起“逐梦龙腾，携手共进”吧！
 ```
 ### [Discord](https://discord.gg/猫娘喵喵喵)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
