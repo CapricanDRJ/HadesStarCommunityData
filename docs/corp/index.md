@@ -1198,7 +1198,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [愿君仍常在](https://ws.tsl.rocks/corp/ab8346790b4db05b33650a32516cee9699fc666a453f55ba76e025fd1246d768/) | 1186 | 1186 | 1 |
 | [拆迁大队](https://ws.tsl.rocks/corp/d8de6fa1ed53aeb856209de01d8a990a562d7438e0abe2cfe50776bb11345f17/) | 1050 | 1144 | 53 |
 | [探索舰队](https://ws.tsl.rocks/corp/c18acd17d6d643817b2bf8f28c2bf82cae881f0dd6d41528c9cfbe3292a7de29/) | 1116 | 1168 | 14 |
-| [探索舰队](https://ws.tsl.rocks/corp/8c465701390ed74d4d115e58d66289afb2eeef6247ca351a4cf88a0046e6fe55/) | 1153 | 1242 | 33 |
+| [探索舰队](https://ws.tsl.rocks/corp/8c465701390ed74d4d115e58d66289afb2eeef6247ca351a4cf88a0046e6fe55/) | 1170 | 1256 | 34 |
 | [揽月宫](https://ws.tsl.rocks/corp/16a4fe26591408a3f2128646e96c5ec1f82feb35f1f9743aebd2dae05095d2ed/) | 1298 | 1336 | 20 |
 | [数字星际集团](https://ws.tsl.rocks/corp/ccbf6be33652cb1b91bc9047b966ffdd6b313cc569d1e0a9fb832e6e8dc1d361/) | 1137 | 1157 | 20 |
 | [斯比纳兰](https://ws.tsl.rocks/corp/ce756ff97542e6fa8d518319e6575aae1d01eb23dd906fee3e3cbb98b442b68f/) | 1119 | 1157 | 18 |
@@ -1251,7 +1251,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [海澜之家](https://ws.tsl.rocks/corp/36caebb92bc1cc49fc7be123dd38469d478c6ac42831a25a4a20ba590c73631d/) | 1199 | 1207 | 5 |
 | [海賊ギルド](https://ws.tsl.rocks/corp/5a1a2bfa07b5ad3ca9bc90a4a86ce8e83d0e61393771fa0ff4c71733bc8879f3/) | 1076 | 1086 | 22 |
 | [深空补给港](https://ws.tsl.rocks/corp/6113fcbe4739d68f06b6a167df2788aa4582546dd0e0de38a088dd7797e0b501/) | 1107 | 1150 | 14 |
-| [清霄阁（防御协会）](https://ws.tsl.rocks/corp/a263c037c5b59f1816ad75738a21141c689baee193b386b2ddbbcf79e959612d/) | 1206 | 1220 | 3 |
+| [清霄阁（防御协会）](https://ws.tsl.rocks/corp/a263c037c5b59f1816ad75738a21141c689baee193b386b2ddbbcf79e959612d/) | 1189 | 1206 | 4 |
 | [游徒之家](https://ws.tsl.rocks/corp/7ab5f6970c8703095b0589da6e5d648dc64a94ca6d901ef09d4949409b2c44b9/) | 1176 | 1272 | 26 |
 | [游徒训练营](https://ws.tsl.rocks/corp/39c562d1d2848ea0bf0e0366865ebbe366a45230d875a115b12406654214f6ac/) | 1164 | 1182 | 8 |
 | [湖心亭看雪](https://ws.tsl.rocks/corp/eb4316c2fbedc2f03ed45e128c8c8d96376d1d1125790a9b9697481dacd002fb/) | 1016 | 1092 | 23 |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​探索舰队
-description: W:16 L:16 D:1 Bonus ❌
+description: W:17 L:16 D:1 Bonus ✅
 image: ./favicon.png
-date: 1728532135
+date: 1733153946
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -12,14 +12,14 @@ date: 1728532135
 
 
 
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1153 🔻  (1075)|
-| ELO Competitive | 1242 🔻  (402)|
-| Total Matches | 33 |
-| Wins | 16 |
+| ELO Regular | 1170 🔺  (947)|
+| ELO Competitive | 1256 🔺  (352)|
+| Total Matches | 34 |
+| Wins | 17 |
 | Losses | 16 |
 | Draws | 1 |
 | Streak Record | 8 |
@@ -41,7 +41,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1728100135,1727649357,1726904727,1720952326,1720950223,1720466951,1719916375,1719412732,1718959551,1718207523,1718195499,1717757853,1717753946,1717215355,1717200031,1716736938,1716728821,1716291353,1716290151,1715814845,1715381584,1714933020,1714912586,1714479215,1714043539,1713539404,1713094997,1712659012,1712155405,1711511116,1711028609,1710579607,1710055997];
+        let timestamps = [1732721946,1728100135,1727649357,1726904727,1720952326,1720950223,1720466951,1719916375,1719412732,1718959551,1718207523,1718195499,1717757853,1717753946,1717215355,1717200031,1716736938,1716728821,1716291353,1716290151,1715814845,1715381584,1714933020,1714912586,1714479215,1714043539,1713539404,1713094997,1712659012,1712155405,1711511116,1711028609,1710579607,1710055997];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/02 | 12-3 | [清霄阁（防御协会）](https://ws.tsl.rocks/corp/a263c037c5b59f1816ad75738a21141c689baee193b386b2ddbbcf79e959612d/) |
 | ❌ | 2024/10/10 | 0-9 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 | ❌ | 2024/10/04 | 0-1 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ❌ | 2024/09/26 | 0-2 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |

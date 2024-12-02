@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​RUS
-description: W:17 L:18 D:0 Bonus ✅
+description: W:17 L:18 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732523514
 ---
@@ -12,7 +12,7 @@ date: 1732523514
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
