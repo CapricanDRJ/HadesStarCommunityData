@@ -20,7 +20,7 @@ Competitive White Star & Red Star Events
 Join us on Discord
 
 Public Queue 14%-48% ```
-### [Discord](https://discord.gg/R6sJCw2))
+### [Discord](https://discord.gg/R6sJCw2)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

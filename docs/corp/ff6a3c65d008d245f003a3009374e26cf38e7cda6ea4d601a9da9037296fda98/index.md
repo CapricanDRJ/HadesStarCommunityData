@@ -18,7 +18,7 @@ date: 1733006415
 Discord recommended
 DC : tqSz2DCJZ8
  ```
-### [Discord](https://discord.gg/tqSz2DCJZ8))
+### [Discord](https://discord.gg/tqSz2DCJZ8)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

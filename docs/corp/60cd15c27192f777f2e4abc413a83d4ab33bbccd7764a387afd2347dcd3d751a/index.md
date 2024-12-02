@@ -17,7 +17,7 @@ date: 1732608552
 <color=#fff>The Legion wants you!
 <size=48><color=#76aabf>Cᴏɴsᴏʀᴛɪᴜᴍ ᴏғ Mɪɴᴇʀs ᴀɴᴅ Sᴄɪᴇɴᴛɪsᴛs
 <size=73><color=#666>RESISTENTIA IMPLACABILIS ```
-### [Discord](https://discord.gg/SZYbjxJSf3))
+### [Discord](https://discord.gg/SZYbjxJSf3)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

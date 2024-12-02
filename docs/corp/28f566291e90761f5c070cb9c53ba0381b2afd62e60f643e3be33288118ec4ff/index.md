@@ -18,7 +18,7 @@ date: 1700916068
 -Recruiting active, social and mature players
 <color=white>-Irregular <i>loss farm</i> ws.</color>
 Discord necessary:hqgVvzTUw3 ```
-### [Discord](https://discord.gg/hqgVvzTUw3))
+### [Discord](https://discord.gg/hqgVvzTUw3)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

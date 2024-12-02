@@ -19,7 +19,7 @@ date: 1721625973
 集团qq群号：1092744803
 <alpha=#22><pos=40%>May The Lilies Bloom For You
  ```
-### [Discord](https://discord.gg/BQkbAHaGj4))
+### [Discord](https://discord.gg/BQkbAHaGj4)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -14,7 +14,7 @@ date: 1713013190
 
 ```
  雕栏玉砌应犹在，只是朱颜改 ```
-### [Discord](https://discord.gg/pAqrzF5xc7))
+### [Discord](https://discord.gg/pAqrzF5xc7)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

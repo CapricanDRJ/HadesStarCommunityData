@@ -17,7 +17,7 @@ date: 1730792639
 帮扶打红
 常驻进q群:952685934
 新成员由入群干事晋升,违者降职,未进群者一律不晋升!进群的成员离开集团超过7天将被移出群聊,放弃原有职位.请假超三个月视为退游移出本集团 ```
-### [Discord](https://discord.gg/3sg9ppw33F))
+### [Discord](https://discord.gg/3sg9ppw33F)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

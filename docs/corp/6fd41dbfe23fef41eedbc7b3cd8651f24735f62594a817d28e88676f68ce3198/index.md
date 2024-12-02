@@ -14,7 +14,7 @@ date: 1706031300
 
 ```
  not in use ```
-### [Discord](https://discord.gg/Ce44HVcM))
+### [Discord](https://discord.gg/Ce44HVcM)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

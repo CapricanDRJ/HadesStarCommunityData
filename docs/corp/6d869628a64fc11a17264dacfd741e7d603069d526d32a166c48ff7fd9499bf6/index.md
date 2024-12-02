@@ -14,7 +14,7 @@ date: 1716019102
 
 ```
  <color=green>Иногда идём на БЗ, практически всегда готовы помоч вам в развитии вашей империи!</color> ```
-### [Discord](https://discord.gg/VTbEpQAEXc))
+### [Discord](https://discord.gg/VTbEpQAEXc)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

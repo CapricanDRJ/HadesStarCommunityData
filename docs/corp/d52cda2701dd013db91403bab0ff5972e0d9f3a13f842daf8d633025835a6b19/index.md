@@ -14,7 +14,7 @@ date: 1713636340
 
 ```
  Bye Bye - ryan ```
-### [Discord](https://discord.gg/Galaxy █哦郭聪明莫))
+### [Discord](https://discord.gg/Galaxy █哦郭聪明莫)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

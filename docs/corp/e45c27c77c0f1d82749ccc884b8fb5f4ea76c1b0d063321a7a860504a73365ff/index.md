@@ -14,7 +14,7 @@ date: 1722109494
 
 ```
  Nous sommes Battlesquadron !!! Entraide ,bonne humeur et ws regulières ,groupe actif telles sont nos valeurs !! Bon sejour parmis nous !                                    corpo école : galaxian  ```
-### [Discord](https://discord.gg/hb9JBGP))
+### [Discord](https://discord.gg/hb9JBGP)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

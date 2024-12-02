@@ -23,7 +23,7 @@ date: 1732847239
 第一分团：星际联盟-额外统治区
 集团水群1023756986(qq)
 https://discord.gg/fAejNbTH ```
-### [Discord](https://discord.gg/AKnA5maMnG))
+### [Discord](https://discord.gg/AKnA5maMnG)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

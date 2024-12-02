@@ -21,7 +21,7 @@ date: 1732765105
 <#86cecb>常驻可加集团QQ群815066596</color>
 <#FAD201>欢迎各路大佬与萌新加入，定期打白</color>
 <#EE4B2B>不欢迎全服公敌瓜老板</color> ```
-### [Discord](https://discord.gg/新星团总部))
+### [Discord](https://discord.gg/新星团总部)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

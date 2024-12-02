@@ -20,7 +20,7 @@ All welcome to join
 Discord required to stay
 RS9-11
  ```
-### [Discord](https://discord.gg/gBFFE5x))
+### [Discord](https://discord.gg/gBFFE5x)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

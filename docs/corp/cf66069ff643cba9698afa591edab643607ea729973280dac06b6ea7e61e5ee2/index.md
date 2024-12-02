@@ -17,7 +17,7 @@ date: 1732867276
 <color=red>Estrell.Rojas 5-11</color>
 <color=white>Estrellas Blancas semanales</color>
 Discord obligatorio: KAguMmM ```
-### [Discord](https://discord.gg/KAguMmM))
+### [Discord](https://discord.gg/KAguMmM)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

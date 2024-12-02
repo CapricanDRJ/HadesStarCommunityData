@@ -19,7 +19,7 @@ Rekrutację prowadzimy także na naszym discordzie.
 
 DISCORD
 vGfaYFN ```
-### [Discord](https://discord.gg/vGfaYFN))
+### [Discord](https://discord.gg/vGfaYFN)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

@@ -14,7 +14,7 @@ date: 1732674359
 
 ```
  <size=70><color=green>欢迎加入全新的<color=red>脉冲星际集团</size></color></color>请捐旗舰 ```
-### [Discord](https://discord.gg/maib))
+### [Discord](https://discord.gg/maib)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

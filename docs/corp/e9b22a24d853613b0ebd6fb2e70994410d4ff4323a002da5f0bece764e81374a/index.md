@@ -20,7 +20,7 @@ Join us on discord for chat,
 advice, beer and kisses.
 
 https://discord.gg/GdYCEhTeq ```
-### [Discord](https://discord.gg/GdYCEhTeq))
+### [Discord](https://discord.gg/GdYCEhTeq)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

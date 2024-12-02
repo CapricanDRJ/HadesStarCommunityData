@@ -14,7 +14,7 @@ date: 1732577909
 
 ```
  지금껏 경험하지 못한 짜릿한 모험! 9번째 행성에서 즐거움이 가득한 여행을 떠나보세요. Communication-koreakitty ```
-### [Discord](https://discord.gg/ ))
+### [Discord](https://discord.gg/ )
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

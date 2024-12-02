@@ -14,7 +14,7 @@ date: 1732778369
 
 ```
  Bienvenidos 😁 ```
-### [Discord](https://discord.gg/RgusRrPMKT))
+### [Discord](https://discord.gg/RgusRrPMKT)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

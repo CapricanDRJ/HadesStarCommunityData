@@ -14,7 +14,7 @@ date: 1699354701
 
 ```
  Jack-b is holding me hostage send help! 0_0 ```
-### [Discord](https://discord.gg/https://discord.gg/CRmgtgcxWv))
+### [Discord](https://discord.gg/https://discord.gg/CRmgtgcxWv)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

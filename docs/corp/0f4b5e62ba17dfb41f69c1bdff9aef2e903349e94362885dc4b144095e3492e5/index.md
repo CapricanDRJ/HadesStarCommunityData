@@ -14,7 +14,7 @@ date: 1703958954
 
 ```
  Приветствуем новых игроков в нашей корпорации, от вас активность и адекватность, от нас любая возможная помощь, небезразличные учасники, подключаемся к каналу дискорд и ватсап  ```
-### [Discord](https://discord.gg/https://discord.com/invite/2bQ8kZ8n))
+### [Discord](https://discord.gg/https://discord.com/invite/2bQ8kZ8n)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

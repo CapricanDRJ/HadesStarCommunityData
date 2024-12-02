@@ -14,7 +14,7 @@ date: 1733135612
 
 ```
  Non rattristiamoci di averla persa, ma ringraziamo di averla avuta. Qui giàce NONNA DI CAPPUCCETTO.  ```
-### [Discord](https://discord.gg/https://discord.gg/WWfeyVes))
+### [Discord](https://discord.gg/https://discord.gg/WWfeyVes)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

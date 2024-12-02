@@ -19,7 +19,7 @@ date: 1729304228
 ☼ RS5-8
 
 <color=red>Joining Discord is required for membership</color> ```
-### [Discord](https://discord.gg/https://discord.com/invite/bpZe9bqY))
+### [Discord](https://discord.gg/https://discord.com/invite/bpZe9bqY)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

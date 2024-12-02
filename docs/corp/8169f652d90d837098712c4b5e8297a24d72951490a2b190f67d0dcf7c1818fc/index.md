@@ -19,7 +19,7 @@ We richten ons op interne Red star runs en spelen op recreatieve basis White sta
 
 Founded 29-11-2020
  Discord:  https://discord.gg/cWymECU ```
-### [Discord](https://discord.gg/cWymECU))
+### [Discord](https://discord.gg/cWymECU)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

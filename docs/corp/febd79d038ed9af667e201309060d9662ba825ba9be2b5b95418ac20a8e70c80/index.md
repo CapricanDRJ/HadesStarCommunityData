@@ -19,7 +19,7 @@ date: 1733042164
 -tägliche drr und rr
 
 Discord ist erwünscht, aber keine Pflicht. ```
-### [Discord](https://discord.gg/kPuseCu4RE))
+### [Discord](https://discord.gg/kPuseCu4RE)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

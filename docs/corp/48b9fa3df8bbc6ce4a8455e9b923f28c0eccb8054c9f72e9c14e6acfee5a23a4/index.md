@@ -14,7 +14,7 @@ date: 1732738362
 
 ```
  Welcome new members. We are Glashan, an international and friendly group who play for fun and most of us are regularly online. English is our main language in chat. ```
-### [Discord](https://discord.gg/Md9TAQJQTp))
+### [Discord](https://discord.gg/Md9TAQJQTp)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

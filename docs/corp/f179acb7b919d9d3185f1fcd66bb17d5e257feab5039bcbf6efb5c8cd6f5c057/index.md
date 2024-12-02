@@ -21,7 +21,7 @@ Demotion/Removal:-
 •No show in WS after having scanner on
 
 Corp Discord Channel https://discord.gg/bPeyG7RQ5t ```
-### [Discord](https://discord.gg/bPeyG7RQ5t))
+### [Discord](https://discord.gg/bPeyG7RQ5t)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

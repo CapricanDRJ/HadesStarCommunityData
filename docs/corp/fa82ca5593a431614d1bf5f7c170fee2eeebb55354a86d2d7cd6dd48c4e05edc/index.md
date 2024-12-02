@@ -18,7 +18,7 @@ Fiers guerriers de l'espace, nous faisons trembler nos ennemis en WS.
 Nos valeurs sont soit tu cours soit tu crèves.
 Paro, nous sommes.
 Discord : x9QTsuZ3mg ```
-### [Discord](https://discord.gg/x9QTsuZ3mg))
+### [Discord](https://discord.gg/x9QTsuZ3mg)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

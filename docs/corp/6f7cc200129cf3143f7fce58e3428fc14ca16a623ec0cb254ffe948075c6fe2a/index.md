@@ -14,7 +14,7 @@ date: 1703087815
 
 ```
  International corporation with some story behind, learning "Dark Nebula", while trying to stay alive. ```
-### [Discord](https://discord.gg/vgrCTD337x))
+### [Discord](https://discord.gg/vgrCTD337x)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

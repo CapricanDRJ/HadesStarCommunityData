@@ -16,7 +16,7 @@ date: 1732327002
  ♡Welcome all♡
 Anfängerfreundlicher Stern sucht höfliche und redselige Piloten zum davonfliegen.
 We are friendly international corp. English and/or German prefered, but other languages tolerated.  ```
-### [Discord](https://discord.gg/https://discord.com/invite/38aedttX))
+### [Discord](https://discord.gg/https://discord.com/invite/38aedttX)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -14,7 +14,7 @@ date: 1732831823
 
 ```
  Welcome! Ask for the discord to best facilitate our leadership to help anyone who desires the aid. ```
-### [Discord](https://discord.gg/https://discord.gg/Y3NrTFZHC7))
+### [Discord](https://discord.gg/https://discord.gg/Y3NrTFZHC7)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

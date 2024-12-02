@@ -22,7 +22,7 @@ date: 1702847100
 三天清一次小红点，为白星有更多人参加，可请假，但关白扫，回来时开白扫
 请假人：孙笑川，小草，Eli Clark，浮云猫猫，北冥雪
 黑名单：太空玩家，家园星系（不要脸的天天来） ```
-### [Discord](https://discord.gg/hello))
+### [Discord](https://discord.gg/hello)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

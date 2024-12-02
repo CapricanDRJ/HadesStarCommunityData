@@ -19,7 +19,7 @@ date: 1733094756
 • Ленивые БЗ2
 https://t.me/+rYmH3oRRd5FiMDVi</color>
 Вклад только во Флагман 1 ```
-### [Discord](https://discord.gg/QrVCb9V2hX))
+### [Discord](https://discord.gg/QrVCb9V2hX)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

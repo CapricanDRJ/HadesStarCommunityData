@@ -14,7 +14,7 @@ date: 1727929599
 
 ```
  Welcome to the 3rd IA Corporation! Join our Discord within 24 hours to connect with our community and get gameplay support. We're excited to have you on board! ```
-### [Discord](https://discord.gg/bAAYCqG2cE))
+### [Discord](https://discord.gg/bAAYCqG2cE)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

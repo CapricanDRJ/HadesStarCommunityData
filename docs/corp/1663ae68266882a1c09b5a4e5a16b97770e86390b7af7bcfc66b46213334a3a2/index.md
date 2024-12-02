@@ -16,7 +16,7 @@ date: 1733022937
  RS 1-9
 Casual/Competitive WS
 Ngā mihi nui, from NZ (and Aus!) ```
-### [Discord](https://discord.gg/Y7EZe2eQk9))
+### [Discord](https://discord.gg/Y7EZe2eQk9)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

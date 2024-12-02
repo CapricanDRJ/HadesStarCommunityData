@@ -18,7 +18,7 @@ Discord: https://discord.gg/Hb4ncRxnAx
 Телега: @Fenix_HS 
 Корпорация создана в 2020 году.
 Во время бз прием строго ограничен! ```
-### [Discord](https://discord.gg/Hb4ncRxnAx))
+### [Discord](https://discord.gg/Hb4ncRxnAx)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

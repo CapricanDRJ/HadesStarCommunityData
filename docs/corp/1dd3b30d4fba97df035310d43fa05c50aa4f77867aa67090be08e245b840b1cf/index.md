@@ -17,7 +17,7 @@ date: 1718968140
 <b></b>
 
 Find us on Discord: <b>EEpZuWf</b> ```
-### [Discord](https://discord.gg/EEpZuWf))
+### [Discord](https://discord.gg/EEpZuWf)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -23,7 +23,7 @@ A lively, friendly & supportive corp chat
 Trolls and inactives get kicked
  
 Discord preferred nBrqgsV  ```
-### [Discord](https://discord.gg/nBrqgsV))
+### [Discord](https://discord.gg/nBrqgsV)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

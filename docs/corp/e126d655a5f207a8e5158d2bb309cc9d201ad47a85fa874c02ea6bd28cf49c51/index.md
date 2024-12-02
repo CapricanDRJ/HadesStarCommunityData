@@ -14,7 +14,7 @@ date: 1711356353
 
 ```
  » Only freaky deaky Dutch ```
-### [Discord](https://discord.gg/NMhTcRxNSX))
+### [Discord](https://discord.gg/NMhTcRxNSX)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

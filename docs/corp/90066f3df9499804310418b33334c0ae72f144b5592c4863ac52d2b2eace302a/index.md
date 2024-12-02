@@ -14,7 +14,7 @@ date: 1723626180
 
 ```
  играем свободно, не превращаем игру в работу. Состоим в союзе с "Содружеством", ссылка на дискорд ведет к ним. ```
-### [Discord](https://discord.gg/Vaf5WV2QQs))
+### [Discord](https://discord.gg/Vaf5WV2QQs)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

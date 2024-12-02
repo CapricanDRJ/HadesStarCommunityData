@@ -14,7 +14,7 @@ date: 1723212986
 
 ```
  Langage, Français, English, Espagñol...Regular Ws. Discord in the description  ```
-### [Discord](https://discord.gg/https://discord.com/invite/SrTthfg3))
+### [Discord](https://discord.gg/https://discord.com/invite/SrTthfg3)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

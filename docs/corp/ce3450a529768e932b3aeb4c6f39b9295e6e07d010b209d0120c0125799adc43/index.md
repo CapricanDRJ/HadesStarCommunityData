@@ -14,7 +14,7 @@ date: 1732635897
 
 ```
  We are open to people who want to participate in white stars.  nice people with respect and open minded communication. come in and find out. :-) ```
-### [Discord](https://discord.gg/srVXzBFEMH))
+### [Discord](https://discord.gg/srVXzBFEMH)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

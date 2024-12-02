@@ -14,7 +14,7 @@ date: 1724567103
 
 ```
  Lesbians and Gaytelmen, Welcome to the FAILURES!!! ```
-### [Discord](https://discord.gg/FAILURES))
+### [Discord](https://discord.gg/FAILURES)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

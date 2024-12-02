@@ -14,7 +14,7 @@ date: 1711636388
 
 ```
  hail the second union.     need active members for white stars ```
-### [Discord](https://discord.gg/x6785TFrf2))
+### [Discord](https://discord.gg/x6785TFrf2)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

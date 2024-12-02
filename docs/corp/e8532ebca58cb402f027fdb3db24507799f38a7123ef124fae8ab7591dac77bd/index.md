@@ -27,7 +27,7 @@ B站d音搜：仙女座星雲土豆
 有宣传视频和游戏全套攻略
 
 成立时间：2022.2.10 ```
-### [Discord](https://discord.gg/snwFMgDPms))
+### [Discord](https://discord.gg/snwFMgDPms)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

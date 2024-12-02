@@ -14,7 +14,7 @@ date: 1728493664
 
 ```
  Join the discord! No flagship donations. ```
-### [Discord](https://discord.gg/XPrcvp9hKs))
+### [Discord](https://discord.gg/XPrcvp9hKs)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -19,7 +19,7 @@ date: 1709412292
 <color=#ffffff><size=60>https://discord.gg/SWAeyd</size></color>
 
  ```
-### [Discord](https://discord.gg/https://discord.gg/SWAeydhRy2))
+### [Discord](https://discord.gg/https://discord.gg/SWAeydhRy2)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

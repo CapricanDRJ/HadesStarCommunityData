@@ -20,7 +20,7 @@ Req- 1WS monthly
 RS 1-4 see Lacuna Academy
 RS 5-6 see Lacuna X
 RS 8-11 see Lacuna Ind. ```
-### [Discord](https://discord.gg/avjXNcv4pj))
+### [Discord](https://discord.gg/avjXNcv4pj)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

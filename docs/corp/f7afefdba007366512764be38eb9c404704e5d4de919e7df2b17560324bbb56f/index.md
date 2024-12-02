@@ -14,7 +14,7 @@ date: 1725597843
 
 ```
  <b> Raiding other corp's bonuses from our secret clubhouse </b> Donations to FS1 welcomed. <b> Discord required </b> ```
-### [Discord](https://discord.gg/zXEp3p8))
+### [Discord](https://discord.gg/zXEp3p8)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -18,7 +18,7 @@ date: 1729596634
 </color></size>
 盟团:太阳系联邦
 企鹅（Q）群:<a>865904780</a> ```
-### [Discord](https://discord.gg/？))
+### [Discord](https://discord.gg/？)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

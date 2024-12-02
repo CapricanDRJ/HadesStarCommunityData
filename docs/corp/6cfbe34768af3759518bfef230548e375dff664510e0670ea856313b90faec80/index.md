@@ -14,7 +14,7 @@ date: 1715999227
 
 ```
  De chill aprendiendo ```
-### [Discord](https://discord.gg/TwP7vgxb))
+### [Discord](https://discord.gg/TwP7vgxb)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

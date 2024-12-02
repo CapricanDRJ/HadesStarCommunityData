@@ -14,7 +14,7 @@ date: 1709467281
 
 ```
  RS4 to 7 ```
-### [Discord](https://discord.gg/kmedjBRNBJ))
+### [Discord](https://discord.gg/kmedjBRNBJ)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

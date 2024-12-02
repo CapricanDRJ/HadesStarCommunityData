@@ -20,7 +20,7 @@ Join our discord: T7DV2nx
 
 If kicked for inactivity, please join back when ready.  
  ```
-### [Discord](https://discord.gg/fYBf2GNU7y))
+### [Discord](https://discord.gg/fYBf2GNU7y)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

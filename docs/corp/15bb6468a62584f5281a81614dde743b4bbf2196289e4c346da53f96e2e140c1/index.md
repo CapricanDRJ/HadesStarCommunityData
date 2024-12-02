@@ -14,7 +14,7 @@ date: 1733124497
 
 ```
  <#007FFF>Вітаю друже! Тут ти знайдеш приємні бонуси та спілкування на додаток до звичайної гри <#FFFF00>   Відсоток до знайдених артефактів, допомога та поради, за бажанням досвід в боях за білу зірку ```
-### [Discord](https://discord.gg/discord.com/invite/fMHDk5sQ))
+### [Discord](https://discord.gg/discord.com/invite/fMHDk5sQ)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

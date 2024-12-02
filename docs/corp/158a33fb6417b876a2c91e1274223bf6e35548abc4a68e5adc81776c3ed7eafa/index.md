@@ -20,7 +20,7 @@ All levels are welcome!
 
 Discord is mandatory for WS participation!
  ```
-### [Discord](https://discord.gg/CNh7tUG))
+### [Discord](https://discord.gg/CNh7tUG)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

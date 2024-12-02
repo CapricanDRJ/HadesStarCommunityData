@@ -14,7 +14,7 @@ date: 1715160901
 
 ```
  Основана 28.08.22. Играем свободно, без напряга, без обязаловки. ```
-### [Discord](https://discord.gg/JdCZm4V45k))
+### [Discord](https://discord.gg/JdCZm4V45k)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

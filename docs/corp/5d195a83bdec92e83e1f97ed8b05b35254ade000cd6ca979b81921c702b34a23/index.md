@@ -21,7 +21,7 @@ date: 1733084238
 *ArtifactSharing*
 **English**
 *Donations Appreciated* ```
-### [Discord](https://discord.gg/vmbXh7r7yt))
+### [Discord](https://discord.gg/vmbXh7r7yt)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

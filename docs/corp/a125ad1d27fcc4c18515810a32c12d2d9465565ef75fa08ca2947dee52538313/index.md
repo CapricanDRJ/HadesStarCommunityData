@@ -17,7 +17,7 @@ date: 1706328517
 <color=red></color>
 Rocket-by Baby, in a White Star
 When your ships blow, our relics will soar.. ```
-### [Discord](https://discord.gg/5VHFHkC))
+### [Discord](https://discord.gg/5VHFHkC)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

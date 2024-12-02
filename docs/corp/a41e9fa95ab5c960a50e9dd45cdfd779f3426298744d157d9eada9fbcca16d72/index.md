@@ -20,7 +20,7 @@ We are also helpful and very active doing Red Stars and White Stars frequently.
 Please join our Discord Server 
 https://discord.gg/Xt8tjjGdRD
  ```
-### [Discord](https://discord.gg/Xt8tjjGdRD))
+### [Discord](https://discord.gg/Xt8tjjGdRD)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

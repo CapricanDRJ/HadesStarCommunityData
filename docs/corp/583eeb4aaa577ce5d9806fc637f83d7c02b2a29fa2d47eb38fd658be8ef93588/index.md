@@ -14,7 +14,7 @@ date: 1725445905
 
 ```
  //THE CORP IS DEAD//THE CORP IS DEAD//THE CORP IS DEAD//THE  CORP IS DEAD//THE CORP IS DEAD//THE CORP IS DEAD//THE CORP IS DEAD//THE CORP IS DEAD//THE CORP IS DEAD//THE CORP IS DEAD//THE CORP IS DEAD| ```
-### [Discord](https://discord.gg/TZRY8esKFz))
+### [Discord](https://discord.gg/TZRY8esKFz)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

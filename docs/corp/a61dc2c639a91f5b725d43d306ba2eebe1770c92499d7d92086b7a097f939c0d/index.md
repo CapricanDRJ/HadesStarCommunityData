@@ -14,7 +14,7 @@ date: 1732320093
 
 ```
  Свободная игра - свободный полёт. БЗ 1-2 раза в месяц, взаимопомощь на кз 2-8. Чат в телеге... ```
-### [Discord](https://discord.gg/Дискорда нет))
+### [Discord](https://discord.gg/Дискорда нет)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

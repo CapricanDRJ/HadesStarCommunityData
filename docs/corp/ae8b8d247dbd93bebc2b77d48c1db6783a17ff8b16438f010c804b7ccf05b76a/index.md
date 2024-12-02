@@ -14,7 +14,7 @@ date: 1729018377
 
 ```
  После великой депресии в Созидании, идёт только вперёд ⭐ <b>Созидание 2.0</b> ⭐<br><br>Дружественные корпы:<br>Спутник, СОЮЗ, RUS, The Seperatists<br><br><color=red>ДС обязателен ```
-### [Discord](https://discord.gg/eukzrdT88y))
+### [Discord](https://discord.gg/eukzrdT88y)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

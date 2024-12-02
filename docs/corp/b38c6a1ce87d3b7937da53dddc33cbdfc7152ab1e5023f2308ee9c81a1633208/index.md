@@ -16,7 +16,7 @@ date: 1733048773
  Formerly the Dacia casual WS team... now rebooted as our primary WS corp.
 DN WS:WDL 17/0/3Pre DN WS (All Dacia Corps):
 WDL 88/2/4 ```
-### [Discord](https://discord.gg/6RhqZ7dxmf))
+### [Discord](https://discord.gg/6RhqZ7dxmf)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

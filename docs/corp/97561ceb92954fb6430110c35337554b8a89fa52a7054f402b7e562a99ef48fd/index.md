@@ -14,7 +14,7 @@ date: 1705160720
 
 ```
  Arbiters of Darkness ```
-### [Discord](https://discord.gg/MJSKU8T9T7))
+### [Discord](https://discord.gg/MJSKU8T9T7)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

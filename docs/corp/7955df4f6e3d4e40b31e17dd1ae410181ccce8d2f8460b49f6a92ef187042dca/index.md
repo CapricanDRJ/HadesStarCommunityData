@@ -14,7 +14,7 @@ date: 1729428040
 
 ```
  Добро пожаловать в систему Редарфа! ```
-### [Discord](https://discord.gg/https://discord.gg/nSuus8FjS9))
+### [Discord](https://discord.gg/https://discord.gg/nSuus8FjS9)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

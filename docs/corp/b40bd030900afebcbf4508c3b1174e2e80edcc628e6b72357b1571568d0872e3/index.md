@@ -17,7 +17,7 @@ date: 1721778627
 
 • Seeking all new members
 • Casual WS Corp ```
-### [Discord](https://discord.gg/kUcE6EP))
+### [Discord](https://discord.gg/kUcE6EP)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

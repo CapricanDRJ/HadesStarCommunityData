@@ -25,7 +25,7 @@ date: 1732541243
 QQ群号为131920392，
 
 让我们一起“逐梦龙腾，携手共进”吧！ ```
-### [Discord](https://discord.gg/猫娘喵喵喵))
+### [Discord](https://discord.gg/猫娘喵喵喵)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

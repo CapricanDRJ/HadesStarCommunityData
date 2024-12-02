@@ -14,7 +14,7 @@ date: 1720873100
 
 ```
  Willkommen in der Sternenflotten Akademie. Hier oder auf Discord findest du Hilfe ```
-### [Discord](https://discord.gg/ZWfJ5Tdh))
+### [Discord](https://discord.gg/ZWfJ5Tdh)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

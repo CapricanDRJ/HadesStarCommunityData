@@ -14,7 +14,7 @@ date: 1700328138
 
 ```
  An active cooperation with an emphasis on teamwork! With sharing experience, artifacts and red/white star joint efforts! Join us in the pursuit of power! ```
-### [Discord](https://discord.gg/hpNKcXkf))
+### [Discord](https://discord.gg/hpNKcXkf)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

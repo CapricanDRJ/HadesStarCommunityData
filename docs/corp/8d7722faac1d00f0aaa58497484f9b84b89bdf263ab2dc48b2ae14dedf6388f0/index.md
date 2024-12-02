@@ -14,7 +14,7 @@ date: 1710829328
 
 ```
  una corporación unida ayudarse unos a otros y hacer fuertes a los débiles y olvidados y hacer crecer juntos esta corporación "OBLIGATORIO DISCORD PARA PARTICIPAR EN EB" ```
-### [Discord](https://discord.gg/KzmnSRBBs2))
+### [Discord](https://discord.gg/KzmnSRBBs2)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

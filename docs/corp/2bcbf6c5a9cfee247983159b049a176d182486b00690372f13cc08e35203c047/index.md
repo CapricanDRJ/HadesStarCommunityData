@@ -15,7 +15,7 @@ date: 1704688043
 ```
  Das Todesschwadron war eine spezielle Einheit der imperialen Flotte unter dem persönlichen Kommando von Darth Vader und aufgrund ihrer militärischen Stärke in der Galaxis gefürchtet.
  ```
-### [Discord](https://discord.gg/https://discord.com/invite/fPPpCktmhu))
+### [Discord](https://discord.gg/https://discord.com/invite/fPPpCktmhu)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

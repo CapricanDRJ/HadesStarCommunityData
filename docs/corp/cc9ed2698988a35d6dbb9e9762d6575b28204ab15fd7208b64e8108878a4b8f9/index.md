@@ -14,7 +14,7 @@ date: 1732283725
 
 ```
  <color=#2E2EFE>Bienvenidos a nuestra corporacion. Escuela de "alienigenas", nuestra corporación principal  ```
-### [Discord](https://discord.gg/B4d7wfghZ4))
+### [Discord](https://discord.gg/B4d7wfghZ4)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

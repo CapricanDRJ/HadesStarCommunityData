@@ -14,7 +14,7 @@ date: 1728755717
 
 ```
  <size=50><color=purple>Cry havoc and let slip the dogs of war!</color></size>            <color=lightblue>Discord required:</color> <color=orange>GAGZQ3U</color> ```
-### [Discord](https://discord.gg/GAGZQ3U))
+### [Discord](https://discord.gg/GAGZQ3U)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -14,7 +14,7 @@ date: 1732741969
 
 ```
  歓待艦対艦体感艦隊。日本人歓迎。出入り、無言参加ご自由に。WS不参加の場合はスキャナーのオフをお願いします。Discordはなるべく可能な限り参加をお願いします(情報共有のため) ```
-### [Discord](https://discord.gg/ukC9fmCx))
+### [Discord](https://discord.gg/ukC9fmCx)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

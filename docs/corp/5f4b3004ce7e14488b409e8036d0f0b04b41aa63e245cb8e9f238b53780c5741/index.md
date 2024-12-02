@@ -14,7 +14,7 @@ date: 1732950217
 
 ```
  Активность!                                          Еженедельные БЗ (2 дня выходных).         Командные КЗ/МКЗ. Помощь как советами/гайдами, так и артефактами. ```
-### [Discord](https://discord.gg/BzbFDrhy3x))
+### [Discord](https://discord.gg/BzbFDrhy3x)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

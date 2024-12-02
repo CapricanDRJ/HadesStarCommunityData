@@ -27,7 +27,7 @@ Discord required for WS.
 
 
 148 ```
-### [Discord](https://discord.gg/uhka53GbmX))
+### [Discord](https://discord.gg/uhka53GbmX)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

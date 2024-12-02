@@ -14,7 +14,7 @@ date: 1728148067
 
 ```
  A friendly corp recommended for lower levels. we help eachother out and do white stars ```
-### [Discord](https://discord.gg/GeUuDDSH))
+### [Discord](https://discord.gg/GeUuDDSH)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

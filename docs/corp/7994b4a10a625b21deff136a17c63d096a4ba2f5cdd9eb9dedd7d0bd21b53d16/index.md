@@ -14,7 +14,7 @@ date: 1708836120
 
 ```
  работа на кз. и кач кораблей по возможности делимся артами. ```
-### [Discord](https://discord.gg/8YnzVpct))
+### [Discord](https://discord.gg/8YnzVpct)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

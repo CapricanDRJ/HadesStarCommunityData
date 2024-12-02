@@ -14,7 +14,7 @@ date: 1732091325
 
 ```
  Part of ARk Ecosystem. We do WS every month. Don't forget to join our Discord ```
-### [Discord](https://discord.gg/bkjju25TCs))
+### [Discord](https://discord.gg/bkjju25TCs)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

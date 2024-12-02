@@ -14,7 +14,7 @@ date: 1732667751
 
 ```
  “Gloria Dominatio Zelus” Under a black flag we sail. ```
-### [Discord](https://discord.gg/3Kn48fX))
+### [Discord](https://discord.gg/3Kn48fX)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

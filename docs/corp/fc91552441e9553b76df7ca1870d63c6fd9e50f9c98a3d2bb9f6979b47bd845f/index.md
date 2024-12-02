@@ -16,7 +16,7 @@ date: 1732875391
  We are an independent Corporation with active veteran players.  Active members are very welcome, we can assist you to grow.
 
 Discord mandatory to stay: <b><color=#FFFF00>6vgrePN</color></b> ```
-### [Discord](https://discord.gg/6vgrePN))
+### [Discord](https://discord.gg/6vgrePN)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

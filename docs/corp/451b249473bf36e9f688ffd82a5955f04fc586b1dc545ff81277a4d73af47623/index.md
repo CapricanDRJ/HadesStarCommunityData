@@ -17,7 +17,7 @@ date: 1733061095
 <color="blue">"WS active & RS 4-10 active team."</color>
 We are a friendly corporation commited to helping.
 Disc AvYQJJh9 ```
-### [Discord](https://discord.gg/najb7MJf))
+### [Discord](https://discord.gg/najb7MJf)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

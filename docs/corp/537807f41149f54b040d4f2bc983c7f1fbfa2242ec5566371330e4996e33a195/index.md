@@ -22,7 +22,7 @@ Nosso diplomata no Discord
 MarceloPC#2109
 
 JUNTOS SOMOS MAIS FORTES ```
-### [Discord](https://discord.gg/fmyTs3k))
+### [Discord](https://discord.gg/fmyTs3k)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

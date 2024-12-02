@@ -17,7 +17,7 @@ date: 1705901181
 But there is not more of it in DN now...
 
 https://discord.gg/fCsvae5yXv ```
-### [Discord](https://discord.gg/fCsvae5yXv))
+### [Discord](https://discord.gg/fCsvae5yXv)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

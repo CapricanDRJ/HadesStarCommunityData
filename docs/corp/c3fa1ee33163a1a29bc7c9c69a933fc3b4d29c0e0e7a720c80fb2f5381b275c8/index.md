@@ -21,7 +21,7 @@ date: 1732941505
 - Совместные КЗ 
 - Помощь артефактами
  ```
-### [Discord](https://discord.gg/s7nmhGXugM))
+### [Discord](https://discord.gg/s7nmhGXugM)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

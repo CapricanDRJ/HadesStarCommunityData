@@ -19,7 +19,7 @@ Friendly & active rs9 - 11.
 Weekly comp & casual WS.
 
 Join via Discord: N3uPEvsFY9</color> ```
-### [Discord](https://discord.gg/vPsNNxs))
+### [Discord](https://discord.gg/vPsNNxs)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

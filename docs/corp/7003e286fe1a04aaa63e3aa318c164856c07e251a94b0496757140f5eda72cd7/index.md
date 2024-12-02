@@ -20,7 +20,7 @@ Black Star Order, Final, Trade Station, UG, PoH and Dauntless working together t
 Are you RS6+ and want to join?
 
 Find us on Discord: YTaYrhy ```
-### [Discord](https://discord.gg/YTaYrhy))
+### [Discord](https://discord.gg/YTaYrhy)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

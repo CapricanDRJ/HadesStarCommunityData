@@ -14,7 +14,7 @@ date: 1710273158
 
 ```
  Help each other out. Don't be a dick. Chill out, have fun. Must be active, no stress on speed. WS players wanted. Discord: https://discord.com/invite/2anpCUHkET ```
-### [Discord](https://discord.gg/https://discord.com/invite/2anpCUHkET))
+### [Discord](https://discord.gg/https://discord.com/invite/2anpCUHkET)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

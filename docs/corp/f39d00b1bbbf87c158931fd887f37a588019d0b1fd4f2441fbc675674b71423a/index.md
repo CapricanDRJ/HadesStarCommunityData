@@ -17,7 +17,7 @@ date: 1732102213
 别捐旗舰！别捐旗舰！
 友好关系：绛紫星
 Q：650722059 ```
-### [Discord](https://discord.gg/akTfXJGv))
+### [Discord](https://discord.gg/akTfXJGv)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -20,7 +20,7 @@ Join our public RS queue on discord!
 <color=yellow>Flagship Donations:
 <color=white>FS1 - Open
 FS2 - Closed ```
-### [Discord](https://discord.gg/vPsNNxs))
+### [Discord](https://discord.gg/vPsNNxs)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

@@ -14,7 +14,7 @@ date: 1701425499
 
 ```
  Achieving greatness through economic stability in local planets, advanced mining capabilities, interstellar diplomacy, and conservative military strength.  ```
-### [Discord](https://discord.gg/https://discord.com/invite/fd8ppQbcH))
+### [Discord](https://discord.gg/https://discord.com/invite/fd8ppQbcH)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

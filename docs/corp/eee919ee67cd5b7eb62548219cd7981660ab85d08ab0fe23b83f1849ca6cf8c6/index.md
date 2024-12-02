@@ -19,7 +19,7 @@ Guerres WS chaque semaine.Events classés !
 Corpo mère : On en a Gros !
 Corpo école : Polaris Corpo
 Corpo des alts : On en a petit ! ```
-### [Discord](https://discord.gg/EXj5vtr))
+### [Discord](https://discord.gg/EXj5vtr)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

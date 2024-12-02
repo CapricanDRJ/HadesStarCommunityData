@@ -18,7 +18,7 @@ date: 1715096003
 <color="red"></color><b></b>
 
 Discord opened ```
-### [Discord](https://discord.gg/https://discord.com/invite/7BfdmAAXQ7))
+### [Discord](https://discord.gg/https://discord.com/invite/7BfdmAAXQ7)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

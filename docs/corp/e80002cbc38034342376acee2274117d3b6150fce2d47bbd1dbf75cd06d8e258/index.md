@@ -16,7 +16,7 @@ date: 1732720029
  Welcome to the Outer Planets Alliance (OPA). We are a band of casual players from all around the world.
 Weekly white stars, new players welcome.
 Discord required : discord.gg/2RmfWZB777 ```
-### [Discord](https://discord.gg/2RmfWZB777))
+### [Discord](https://discord.gg/2RmfWZB777)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

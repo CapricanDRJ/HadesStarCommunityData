@@ -19,7 +19,7 @@ date: 1732389807
 <#fafafa>常驻可领最高r9神器
 ☞分团：边域(开拓ing，影响力不够可来)
 <#BDB76B>[QQ:733613340] ```
-### [Discord](https://discord.gg/8uQgZfVQ))
+### [Discord](https://discord.gg/8uQgZfVQ)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

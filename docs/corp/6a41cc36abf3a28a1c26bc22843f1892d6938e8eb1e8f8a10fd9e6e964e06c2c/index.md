@@ -14,7 +14,7 @@ date: 1725512501
 
 ```
  Station für einsame Piloten, lasst uns gemeinsam stillschweigend chillen. ```
-### [Discord](https://discord.gg/tJfbtQjcxg))
+### [Discord](https://discord.gg/tJfbtQjcxg)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

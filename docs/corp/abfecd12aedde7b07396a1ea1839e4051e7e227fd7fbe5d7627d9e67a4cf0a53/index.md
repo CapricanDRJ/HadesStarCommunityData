@@ -14,7 +14,7 @@ date: 1706036411
 
 ```
  Celestial Combative Legion ```
-### [Discord](https://discord.gg/As89TCCw))
+### [Discord](https://discord.gg/As89TCCw)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

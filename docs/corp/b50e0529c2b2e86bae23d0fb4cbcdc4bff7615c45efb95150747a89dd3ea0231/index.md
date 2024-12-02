@@ -14,7 +14,7 @@ date: 1726657374
 
 ```
  Welcome aboard enlistee to Star Fleet, one of 3 main corps in the Federation. Please behave yourself adequately. We offer casual RS and comp ws play. White dwarf will be stated every Friday.  ```
-### [Discord](https://discord.gg/2YebJryX))
+### [Discord](https://discord.gg/2YebJryX)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

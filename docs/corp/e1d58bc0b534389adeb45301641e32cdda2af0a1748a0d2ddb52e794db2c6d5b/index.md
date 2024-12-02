@@ -14,7 +14,7 @@ date: 1732990788
 
 ```
  Looking for members. Come grow with us! ```
-### [Discord](https://discord.gg/https://discord.gg/asMVRfT5))
+### [Discord](https://discord.gg/https://discord.gg/asMVRfT5)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

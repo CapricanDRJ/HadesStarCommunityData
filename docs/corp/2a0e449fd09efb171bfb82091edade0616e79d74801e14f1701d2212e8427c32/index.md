@@ -19,7 +19,7 @@ Wir freuen uns auf dich!
 
 \o/
 https://discord.gg/UPTTtGQpTj ```
-### [Discord](https://discord.gg/UPTTtGQpTj))
+### [Discord](https://discord.gg/UPTTtGQpTj)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

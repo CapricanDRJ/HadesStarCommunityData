@@ -14,7 +14,7 @@ date: 1726666751
 
 ```
  欢迎来到群星联盟 ```
-### [Discord](https://discord.gg/…))
+### [Discord](https://discord.gg/…)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

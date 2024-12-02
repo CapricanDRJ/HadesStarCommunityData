@@ -14,7 +14,7 @@ date: 1726055183
 
 ```
  Member of Hades Federation- GalaxyGirl's orig msg: Anybody can join, but no being mean and excluding... Aires adds: (unless in a blue star :) <-- evil smile White/red star battling galore Dis:Rp9mSNP ```
-### [Discord](https://discord.gg/rX4AFRfyPX))
+### [Discord](https://discord.gg/rX4AFRfyPX)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -18,7 +18,7 @@ date: 1702833557
 *Weekly WS
 *RS 6-10
 Hop in Discord - 9aD8bFDvY4 ```
-### [Discord](https://discord.gg/9aD8bFDvY4))
+### [Discord](https://discord.gg/9aD8bFDvY4)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

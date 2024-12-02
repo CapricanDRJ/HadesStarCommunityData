@@ -18,7 +18,7 @@ date: 1724582728
 - English
 - At least 1x White Star every week
 - No toxicity<color="yellow"> ```
-### [Discord](https://discord.gg/TcQcQt9))
+### [Discord](https://discord.gg/TcQcQt9)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

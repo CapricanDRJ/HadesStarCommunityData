@@ -19,7 +19,7 @@ date: 1718228706
 RS 5-6 see Lacuna X
 RS 7+ see Lacuna Holdings
 RS 8-11 see Lacuna Ind. ```
-### [Discord](https://discord.gg/BFfSkvu))
+### [Discord](https://discord.gg/BFfSkvu)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

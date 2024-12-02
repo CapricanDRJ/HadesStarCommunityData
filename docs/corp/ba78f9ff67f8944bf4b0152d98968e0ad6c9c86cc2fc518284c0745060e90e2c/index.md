@@ -14,7 +14,7 @@ date: 1714044555
 
 ```
  <b>Proud member of the UIH!</b>                                              Discord is mandatory!                                           Visit on Discord to join: discord.gg/vPsNNxs ```
-### [Discord](https://discord.gg/vPsNNxs))
+### [Discord](https://discord.gg/vPsNNxs)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

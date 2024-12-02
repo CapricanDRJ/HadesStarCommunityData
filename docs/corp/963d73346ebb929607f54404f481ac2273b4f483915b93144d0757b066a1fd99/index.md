@@ -14,7 +14,7 @@ date: 1732877795
 
 ```
  Академия IX Легиона.Дискорд в информации.Телеграм Вселенских:  ```
-### [Discord](https://discord.gg/fc2eg8hNJm))
+### [Discord](https://discord.gg/fc2eg8hNJm)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

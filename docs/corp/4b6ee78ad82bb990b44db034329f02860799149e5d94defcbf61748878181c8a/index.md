@@ -14,7 +14,7 @@ date: 1717154509
 
 ```
  Bonjour et Bienvenue chez la WYVERN-Frenche speaking-SCANNER D'ETOILE BLANCHE OBLIGATOIRE-DISCORD OBLIGATOIRE.Des rires, de l'entraide, des WS ```
-### [Discord](https://discord.gg/https://discord.com/invite/AXfZ6BVzjx))
+### [Discord](https://discord.gg/https://discord.com/invite/AXfZ6BVzjx)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -19,7 +19,7 @@ date: 1733009420
 🔹 Weekly white stars.
 🔹 Allies of Stargate. 
  ```
-### [Discord](https://discord.gg/qx6HrYM223))
+### [Discord](https://discord.gg/qx6HrYM223)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

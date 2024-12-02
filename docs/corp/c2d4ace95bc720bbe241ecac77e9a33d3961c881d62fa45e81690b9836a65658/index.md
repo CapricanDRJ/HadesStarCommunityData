@@ -23,7 +23,7 @@ date: 1728565791
 无论红星，暗星，白星，蓝星
 这里是国服区对萌新最友好的集团
 期待你 ```
-### [Discord](https://discord.gg/snwFMgDPms))
+### [Discord](https://discord.gg/snwFMgDPms)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

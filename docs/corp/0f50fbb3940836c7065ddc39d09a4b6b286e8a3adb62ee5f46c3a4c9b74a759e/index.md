@@ -16,7 +16,7 @@ date: 1702214121
  <color=#d7342a>Retired corporation of the<b> Spacefleet Alliance</b></color>
 
 Find us on Discord:<b>EEpZuWf</b> ```
-### [Discord](https://discord.gg/EEpZuWf))
+### [Discord](https://discord.gg/EEpZuWf)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

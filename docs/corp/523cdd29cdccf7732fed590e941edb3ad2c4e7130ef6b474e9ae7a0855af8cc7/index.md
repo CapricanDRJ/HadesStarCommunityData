@@ -17,7 +17,7 @@ date: 1714209343
 
 Ingin menjadi anggota?
 Join Discord kita dulu: https://discord.gg/MCDb2Mt ```
-### [Discord](https://discord.gg/https://discord.gg/MCDb2Mt))
+### [Discord](https://discord.gg/https://discord.gg/MCDb2Mt)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -19,7 +19,7 @@ Discord is mandatory!
 
 Visit us on discord  to join:
 https://discord.gg/ysGrswJTUp ```
-### [Discord](https://discord.gg/vPsNNxs))
+### [Discord](https://discord.gg/vPsNNxs)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

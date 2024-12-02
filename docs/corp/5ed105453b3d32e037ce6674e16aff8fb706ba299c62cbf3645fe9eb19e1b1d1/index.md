@@ -21,7 +21,7 @@ New players are welcome to grow your Dynasty in OntarioDiligent, space bar or Me
 
 Chat us up
 https://discord.gg/gBFFE5x ```
-### [Discord](https://discord.gg/xbJA3n56))
+### [Discord](https://discord.gg/xbJA3n56)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

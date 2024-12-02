@@ -14,7 +14,7 @@ date: 1717106731
 
 ```
  ☆Turkish࿌Stars-Elite Turkish Alliance☆Sizi Buraya Getiren Kaderiniz, Burada Tutacak Olan Karakterinizdir...Pasifler gider, aktifler gelir.Rs7 - Rs10Discord zorunludur. ```
-### [Discord](https://discord.gg/PWDf6QH))
+### [Discord](https://discord.gg/PWDf6QH)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

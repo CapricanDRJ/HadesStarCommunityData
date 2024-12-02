@@ -14,7 +14,7 @@ date: 1730409510
 
 ```
  Consider joining the discord server. Participation in white star is strongly recomended ;) ```
-### [Discord](https://discord.gg/https://discord.com/invite/ET3rEFXb))
+### [Discord](https://discord.gg/https://discord.com/invite/ET3rEFXb)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

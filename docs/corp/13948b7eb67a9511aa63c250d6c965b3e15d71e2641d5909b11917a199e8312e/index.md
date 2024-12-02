@@ -19,7 +19,7 @@ date: 1710590459
 
 Alianza de Corporaciones
 AXOLOTLS ```
-### [Discord](https://discord.gg/https://discord.com/invite/PsVdr8kd))
+### [Discord](https://discord.gg/https://discord.com/invite/PsVdr8kd)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

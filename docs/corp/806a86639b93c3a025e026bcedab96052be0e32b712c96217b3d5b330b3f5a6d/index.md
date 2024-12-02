@@ -22,7 +22,7 @@ Apply via Discord
 https://discord.gg/gBFFE5x
 
 od-family.com ```
-### [Discord](https://discord.gg/gBFFE5x))
+### [Discord](https://discord.gg/gBFFE5x)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

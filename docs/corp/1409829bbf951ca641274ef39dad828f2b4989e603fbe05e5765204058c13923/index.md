@@ -16,7 +16,7 @@ date: 1706690027
  <b><size=50>※休息中</color> <color=orange>
 ※Q群:936222291
 ※DIS: dAxzXqc</color> </size></b> ```
-### [Discord](https://discord.gg/dAxzXqc))
+### [Discord](https://discord.gg/dAxzXqc)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

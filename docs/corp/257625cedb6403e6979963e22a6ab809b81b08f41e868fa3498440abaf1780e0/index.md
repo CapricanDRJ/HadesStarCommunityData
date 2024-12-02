@@ -14,7 +14,7 @@ date: 1730131847
 
 ```
  Part of Oceania Alliance.     New players welcome ```
-### [Discord](https://discord.gg/skvJzZH))
+### [Discord](https://discord.gg/skvJzZH)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -14,7 +14,7 @@ date: 1713436849
 
 ```
  请去新团德意志阿尔法帝国 ```
-### [Discord](https://discord.gg/A.R.F))
+### [Discord](https://discord.gg/A.R.F)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

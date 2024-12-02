@@ -25,7 +25,7 @@ Win,lose,fight.
 
 
 Discord mandatory. <b>EEpZuWf</b> ```
-### [Discord](https://discord.gg/EEpZuWf))
+### [Discord](https://discord.gg/EEpZuWf)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

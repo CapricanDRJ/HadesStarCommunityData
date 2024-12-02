@@ -20,7 +20,7 @@ We welcome all players no matter what level!
 ☞ WS takes place in the Nooooobs corp 
 
 Discord:<color=#3c78d8>pECD6CY</color> ```
-### [Discord](https://discord.gg/pECD6CY))
+### [Discord](https://discord.gg/pECD6CY)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

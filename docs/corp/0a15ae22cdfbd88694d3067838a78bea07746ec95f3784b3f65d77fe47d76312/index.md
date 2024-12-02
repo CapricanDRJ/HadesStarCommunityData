@@ -14,7 +14,7 @@ date: 1732589325
 
 ```
  <size=90><b><color=red>"Fight or be Forgotten"</color></b></size>   <color=green>White Star Élite </color> <size=60><color=orange>☆NakSarugg☆</color></b>   Recruiting "StarMasters" for WS ```
-### [Discord](https://discord.gg/https://discord.com/invite/jQHaBGnQDa))
+### [Discord](https://discord.gg/https://discord.com/invite/jQHaBGnQDa)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

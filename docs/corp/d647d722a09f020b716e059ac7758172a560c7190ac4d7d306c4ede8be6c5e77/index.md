@@ -20,7 +20,7 @@ Discord is mandatory for ws
 https://discord.gg/jPftecDuNp
 
 Primarily English ```
-### [Discord](https://discord.gg/jPftecDuNp))
+### [Discord](https://discord.gg/jPftecDuNp)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

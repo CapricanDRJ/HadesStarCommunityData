@@ -14,7 +14,7 @@ date: 1732647918
 
 ```
  Red stars to RS10.  Weekly WS!  Join for the bonus; stay to help make it a bigger bonus! 🤘🏼In Alliance with Titans & Terror. visit Hadestitans.com ```
-### [Discord](https://discord.gg/QhMTEDb8zt))
+### [Discord](https://discord.gg/QhMTEDb8zt)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

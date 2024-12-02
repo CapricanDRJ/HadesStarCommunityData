@@ -24,7 +24,7 @@ Join our discord <b>first</b> if you want to join our corp.
 https://discord.gg/gBFFE5x
 
 od-family.com ```
-### [Discord](https://discord.gg/gBFFE5x))
+### [Discord](https://discord.gg/gBFFE5x)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

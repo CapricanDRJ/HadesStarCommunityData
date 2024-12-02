@@ -19,7 +19,7 @@ A highly cooperative and competitive organization, bent on building the most eli
 
 discord obligatory
 https://discord.gg/bAAYCqG2cE ```
-### [Discord](https://discord.gg/bAAYCqG2cE))
+### [Discord](https://discord.gg/bAAYCqG2cE)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

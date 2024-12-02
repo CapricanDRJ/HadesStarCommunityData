@@ -14,7 +14,7 @@ date: 1732603145
 
 ```
  Relaxed game play. The Corp for working people also known as “The hot tub of Hades Star”. We have real world jobs, and game accordingly. Please join us on Discord and don't be a stranger! ```
-### [Discord](https://discord.gg/drqrMsVtEp))
+### [Discord](https://discord.gg/drqrMsVtEp)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

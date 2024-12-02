@@ -22,7 +22,7 @@ Discord: 6P5MxXBNFW
 WS leaders: jwoods90 / ScTruF
 
 W/D/L - 60/1/2 </color> ```
-### [Discord](https://discord.gg/6P5MxXBNFW))
+### [Discord](https://discord.gg/6P5MxXBNFW)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

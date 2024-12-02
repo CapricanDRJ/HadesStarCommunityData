@@ -14,7 +14,7 @@ date: 1725693704
 
 ```
  THE CYDONIAN EMPIRE™  ```
-### [Discord](https://discord.gg/QMdDHJjzwS))
+### [Discord](https://discord.gg/QMdDHJjzwS)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

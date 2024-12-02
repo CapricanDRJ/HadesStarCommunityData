@@ -19,7 +19,7 @@ date: 1733042164
 
 
 Discord: https://discord.gg/A26JEJgPwh ```
-### [Discord](https://discord.gg/https://discord.com/invite/xGMUwWdzab))
+### [Discord](https://discord.gg/https://discord.com/invite/xGMUwWdzab)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

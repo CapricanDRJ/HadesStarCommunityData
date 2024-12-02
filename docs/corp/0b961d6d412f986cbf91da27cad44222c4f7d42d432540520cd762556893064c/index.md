@@ -19,7 +19,7 @@ date: 1699135307
 
 </b></size><size=48>
    Main corp of the SPACE LEGENDS federation</color></size> ```
-### [Discord](https://discord.gg/63DZYSc))
+### [Discord](https://discord.gg/63DZYSc)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

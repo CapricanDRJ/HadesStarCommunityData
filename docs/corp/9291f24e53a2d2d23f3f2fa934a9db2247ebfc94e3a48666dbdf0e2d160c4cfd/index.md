@@ -19,7 +19,7 @@ Discord: discord.gg/aWj7XRq
 КРЕПИСЬ И ПРЕВОЗМОГАЙ. 
 Во время БЗ приём ограничен
 Мы в ТГ https://t.me/HS_CCCP ```
-### [Discord](https://discord.gg/aWj7XRq))
+### [Discord](https://discord.gg/aWj7XRq)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

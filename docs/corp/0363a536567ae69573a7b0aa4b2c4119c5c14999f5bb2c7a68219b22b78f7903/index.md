@@ -14,7 +14,7 @@ date: 1724970991
 
 ```
  Tenemos el objetivo de llegar lejos y ser muy fuertes. Apoyaremos a los que nos necesiten y les daremos un ambiente comodo. | Existe un grupo si deseas unirte solo consulta al primer oficial.  ```
-### [Discord](https://discord.gg/X6xAG8J9))
+### [Discord](https://discord.gg/X6xAG8J9)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

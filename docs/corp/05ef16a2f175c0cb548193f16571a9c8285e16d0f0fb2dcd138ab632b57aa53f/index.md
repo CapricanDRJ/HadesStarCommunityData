@@ -14,7 +14,7 @@ date: 1731052270
 
 ```
  $TAR$ - Twinkkonzern ```
-### [Discord](https://discord.gg/SK46885))
+### [Discord](https://discord.gg/SK46885)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -21,7 +21,7 @@ White Star focused.
 
 <b>Discord:</b> discord.gg/BFfSkvu
  ```
-### [Discord](https://discord.gg/BFfSkvu))
+### [Discord](https://discord.gg/BFfSkvu)
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

@@ -14,7 +14,7 @@ date: 1723404717
 
 ```
  Active, tight-knit, fun and friendly. <b>Part of the Space Pals group</b> Discord mandatory. Click the link 'Corporation Discord' below. ```
-### [Discord](https://discord.gg/3A9WHQV ))
+### [Discord](https://discord.gg/3A9WHQV )
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

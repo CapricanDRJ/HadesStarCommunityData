@@ -14,7 +14,7 @@ date: 1719570374
 
 ```
  Buka's secret hideout ```
-### [Discord](https://discord.gg/united-industries-of-hades-407365945376374795))
+### [Discord](https://discord.gg/united-industries-of-hades-407365945376374795)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

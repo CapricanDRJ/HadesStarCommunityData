@@ -14,7 +14,7 @@ date: 1723743387
 
 ```
  Bienvenidos a Hades Star esperencias recomendaciones ayuda y mas 0 inactividad  ```
-### [Discord](https://discord.gg/https://discord.gg/SpFjAqBR))
+### [Discord](https://discord.gg/https://discord.gg/SpFjAqBR)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

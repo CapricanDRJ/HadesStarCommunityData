@@ -14,7 +14,7 @@ date: 1732270377
 
 ```
  Part of the Confederation H ```
-### [Discord](https://discord.gg/https://discord.com/invite/PvpVqPbY))
+### [Discord](https://discord.gg/https://discord.com/invite/PvpVqPbY)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

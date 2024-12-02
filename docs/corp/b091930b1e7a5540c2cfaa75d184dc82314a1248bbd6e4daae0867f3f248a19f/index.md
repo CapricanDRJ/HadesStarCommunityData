@@ -19,7 +19,7 @@ date: 1733111578
 
 В наличии также Discord и Telegram
 </i></color> ```
-### [Discord](https://discord.gg/YVP3QdjE3d))
+### [Discord](https://discord.gg/YVP3QdjE3d)
 ### Whitestar Bonus ❌
 
 | Statistic | Value |
