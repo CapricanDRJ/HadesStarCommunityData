@@ -16,12 +16,7 @@ date: 1719570374
  Buka's secret hideout
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Buka's secret hideout
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Buka's secret hideout</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/united-industries-of-hades-407365945376374795)
 ### Whitestar Bonus ❌

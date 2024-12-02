@@ -16,12 +16,7 @@ date: 1732620870
  ∆ We are Corporation Vossk, Squadrons of the 9th Legion. We have come to bring order to the galaxy and crush all who oppose the Empire. Join us or prepare to meet your destiny.
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    ∆ We are Corporation Vossk, Squadrons of the 9th Legion. We have come to bring order to the galaxy and crush all who oppose the Empire. Join us or prepare to meet your destiny.
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>∆ We are Corporation Vossk, Squadrons of the 9th Legion. We have come to bring order to the galaxy and crush all who oppose the Empire. Join us or prepare to meet your destiny.</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/https://discord.gg/XV3P836s)
 ### Whitestar Bonus ❌

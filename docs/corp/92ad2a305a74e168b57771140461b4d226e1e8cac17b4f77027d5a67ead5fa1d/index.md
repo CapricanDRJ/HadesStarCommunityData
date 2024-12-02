@@ -16,12 +16,7 @@ date: 1732543948
  欢迎加入QQ群852308177 首席Raine    分团：万星联盟  萌新指引站    禁止和白                                                      始建于2023.6 28  已封闭 星光舰队 雪月永恒  红活请前往星光禁卫
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    欢迎加入QQ群852308177 首席Raine    分团：万星联盟  萌新指引站    禁止和白                                                      始建于2023.6 28  已封闭 星光舰队 雪月永恒  红活请前往星光禁卫
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>欢迎加入QQ群852308177 首席Raine    分团：万星联盟  萌新指引站    禁止和白                                                      始建于2023.6 28  已封闭 星光舰队 雪月永恒  红活请前往星光禁卫</body></html>"></iframe>
 
 ### Whitestar Bonus ✅
 

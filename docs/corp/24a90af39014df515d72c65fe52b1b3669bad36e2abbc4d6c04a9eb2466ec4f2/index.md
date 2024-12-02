@@ -20,16 +20,11 @@ Original bottom tier Alpha Corp from serveral years ago, but no one here would g
 New Discord: nxEZwvgcg3
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    All for farm, farm for all. We farm from other's losses now.
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>All for farm, farm for all. We farm from other's losses now.
 
 Original bottom tier Alpha Corp from serveral years ago, but no one here would give a shit.
 
-New Discord: nxEZwvgcg3
-    </div>
-    {:/}
-    
+New Discord: nxEZwvgcg3</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

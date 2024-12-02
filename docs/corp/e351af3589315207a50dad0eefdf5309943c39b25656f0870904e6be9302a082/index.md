@@ -17,13 +17,8 @@ date: 1701915990
 <b>警局QQ931045807</b>
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <size=90>欢迎加入</size><span style="color:yellow;"><b>宇宙警察局</b></span>(~0~)来了就当一个<span style="color:green;">合格的</span><span style="color:red;"><i>警</i></span><a><i>察</I></a>吧！
-<b>警局QQ931045807</b>
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>&lt;size=90&gt;欢迎加入&lt;/size&gt;<span style=&quot;color:yellow;&quot;><strong>宇宙警察局</strong></span>(~0~)来了就当一个<span style=&quot;color:green;&quot;>合格的</span><span style=&quot;color:red;&quot;><em>警</em></span>&lt;a&gt;<em>察&lt;/I&gt;&lt;/a&gt;吧！
+<strong>警局QQ931045807</strong></body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

@@ -16,12 +16,7 @@ date: 1706953581
  Welcome to the 4th IA Corporation! Join our Discord within 24 hours to connect with our community and get gameplay support. We're excited to have you on board!
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Welcome to the 4th IA Corporation! Join our Discord within 24 hours to connect with our community and get gameplay support. We're excited to have you on board!
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Welcome to the 4th IA Corporation! Join our Discord within 24 hours to connect with our community and get gameplay support. We're excited to have you on board!</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/bAAYCqG2cE)
 ### Whitestar Bonus ❌

@@ -16,12 +16,7 @@ date: 1732713417
  本团为“落雨观花”第一分团  信息与主团一致 常驻请加qq：598692654萌新福利:3个d7           本团长期招募新人   定期打白 不清红点                 祝大家早日R12！
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    本团为“落雨观花”第一分团  信息与主团一致 常驻请加qq：598692654萌新福利:3个d7           本团长期招募新人   定期打白 不清红点                 祝大家早日R12！
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>本团为“落雨观花”第一分团  信息与主团一致 常驻请加qq：598692654萌新福利:3个d7           本团长期招募新人   定期打白 不清红点                 祝大家早日R12！</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

@@ -16,12 +16,7 @@ date: 1733095514
  Мы, Avantgarde, пришли в Hades' Star, чтобы сеять хаос радости и веселья во имя фана и хорошего настроения! Хаос нельзя остановить! В хаос можно только влиться! https://discord.gg/wAHQ5BX
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Мы, Avantgarde, пришли в Hades' Star, чтобы сеять хаос радости и веселья во имя фана и хорошего настроения! Хаос нельзя остановить! В хаос можно только влиться! https://discord.gg/wAHQ5BX
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Мы, Avantgarde, пришли в Hades' Star, чтобы сеять хаос радости и веселья во имя фана и хорошего настроения! Хаос нельзя остановить! В хаос можно только влиться! https://discord.gg/wAHQ5BX</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

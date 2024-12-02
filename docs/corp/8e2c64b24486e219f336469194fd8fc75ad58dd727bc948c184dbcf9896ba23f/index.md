@@ -21,17 +21,12 @@ Let us know if you'll be inactive, we keep this Corp alive!
 Discord: https://discord.gg/vndpWu5
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Welcome Space Trucker!
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Welcome Space Trucker!
 Explore anomalies of space with us!
 White stars, red stars, and great Corp Chat.
 Let us know if you'll be inactive, we keep this Corp alive!
 
-Discord: https://discord.gg/vndpWu5
-    </div>
-    {:/}
-    
+Discord: https://discord.gg/vndpWu5</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

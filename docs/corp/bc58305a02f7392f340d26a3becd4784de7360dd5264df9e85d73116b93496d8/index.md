@@ -16,12 +16,7 @@ date: 1730938986
  欢迎各位加入，为萌新提供各种不定期神器福利，<br>急需打白成员，白星出双船可找首席领神器提科技<br>旗舰捐款较多且常驻给高员，捐给旗舰1（30级以下先发展，不要透支自己）<br>白星出船q群找首席报名<br>活跃或白星立下战功晋升；刷屏、辱骂的立刻踢！<br>要提科技找首席，r4以下萌新凭红星截图到q群1004728724。黑名单:哈迪斯帝国
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    欢迎各位加入，为萌新提供各种不定期神器福利，<br>急需打白成员，白星出双船可找首席领神器提科技<br>旗舰捐款较多且常驻给高员，捐给旗舰1（30级以下先发展，不要透支自己）<br>白星出船q群找首席报名<br>活跃或白星立下战功晋升；刷屏、辱骂的立刻踢！<br>要提科技找首席，r4以下萌新凭红星截图到q群1004728724。黑名单:哈迪斯帝国
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>欢迎各位加入，为萌新提供各种不定期神器福利，&lt;br&gt;急需打白成员，白星出双船可找首席领神器提科技&lt;br&gt;旗舰捐款较多且常驻给高员，捐给旗舰1（30级以下先发展，不要透支自己）&lt;br&gt;白星出船q群找首席报名&lt;br&gt;活跃或白星立下战功晋升；刷屏、辱骂的立刻踢！&lt;br&gt;要提科技找首席，r4以下萌新凭红星截图到q群1004728724。黑名单:哈迪斯帝国</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

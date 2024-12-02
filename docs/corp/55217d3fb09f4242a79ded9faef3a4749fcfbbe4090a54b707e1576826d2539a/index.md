@@ -16,12 +16,7 @@ date: 1715002560
  <a>进团常驻之人可互相建立外交关系            <b>本团招新，欢迎各位
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <a>进团常驻之人可互相建立外交关系            <b>本团招新，欢迎各位
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>&lt;a&gt;进团常驻之人可互相建立外交关系            <strong>本团招新，欢迎各位</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

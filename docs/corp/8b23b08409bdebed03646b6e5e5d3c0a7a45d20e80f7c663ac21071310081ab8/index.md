@@ -29,13 +29,11 @@ date: 1715217779
 </color>
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    ALIANÇA: LUSO (BR/PT) 🚀
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>ALIANÇA: LUSO (BR/PT) 🚀
 
 33° Evento de RS - 2022.
 
-<span style="color:red;">
+<span style=&quot;color:red;&quot;>
 - Tormenta
 - BrHue
 - Hipernova
@@ -44,10 +42,7 @@ date: 1715217779
 - Helion Prime
 - Br Project
 - Projeto NU
-</span>
-    </div>
-    {:/}
-    
+</span></body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

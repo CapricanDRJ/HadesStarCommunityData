@@ -16,12 +16,7 @@ date: 1733024440
  <color=yellow>欢迎加入我集团<br>南极星联盟成员<br>首席、中国外交：瓜老板?世<br>白星指挥:鑫森淼焱垚、cyka<br>Diplomacy：Phanatikk<br>神圣罗马帝国分团<br>We welcome everyone<br>QQ群:639697949 <br><br>最高福利：r9
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <span style="color:yellow;">欢迎加入我集团<br>南极星联盟成员<br>首席、中国外交：瓜老板?世<br>白星指挥:鑫森淼焱垚、cyka<br>Diplomacy：Phanatikk<br>神圣罗马帝国分团<br>We welcome everyone<br>QQ群:639697949 <br><br>最高福利：r9
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:yellow;&quot;>欢迎加入我集团&lt;br&gt;南极星联盟成员&lt;br&gt;首席、中国外交：瓜老板?世&lt;br&gt;白星指挥:鑫森淼焱垚、cyka&lt;br&gt;Diplomacy：Phanatikk&lt;br&gt;神圣罗马帝国分团&lt;br&gt;We welcome everyone&lt;br&gt;QQ群:639697949 &lt;br&gt;&lt;br&gt;最高福利：r9</body></html>"></iframe>
 
 ### Whitestar Bonus ✅
 

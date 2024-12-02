@@ -22,18 +22,13 @@ date: 1725715639
 
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    集团为六大天神旗下分盟，欢迎大佬和萌新的到来
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>集团为六大天神旗下分盟，欢迎大佬和萌新的到来
 不定期帮助成员打红星和暗红，以获取更快的发展
 白星常开，招募各白星活跃人员与打手，白星结束后会不定期为贡献较多与突出贡献的成员发放r7-r9不同加成的神器以示鼓励
 红点可以有，但不能常有，定期清理红点。
 常驻加集团群：592237015
 外交部：933074464
-
-    </div>
-    {:/}
-    
+</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

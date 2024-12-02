@@ -16,12 +16,7 @@ date: 1733143125
  欢迎大佬和萌新加入！本集团是非常自由的，每个人都可以当干事，一周内至少会送人2次R6神器，还有更多福利等着你！可以捐旗舰，但是自己发育才是最重要的。本团规则：1. 不可以乱骂人！2. 不能乱踢刚进团的人(除黑名单外)如有发现极时发出，轻则降为成员3天即以上，重则踢出并拉入黑名单。创建于2024.10.14    首席:一根飞机   黑名单：
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    欢迎大佬和萌新加入！本集团是非常自由的，每个人都可以当干事，一周内至少会送人2次R6神器，还有更多福利等着你！可以捐旗舰，但是自己发育才是最重要的。本团规则：1. 不可以乱骂人！2. 不能乱踢刚进团的人(除黑名单外)如有发现极时发出，轻则降为成员3天即以上，重则踢出并拉入黑名单。创建于2024.10.14    首席:一根飞机   黑名单：
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>欢迎大佬和萌新加入！本集团是非常自由的，每个人都可以当干事，一周内至少会送人2次R6神器，还有更多福利等着你！可以捐旗舰，但是自己发育才是最重要的。本团规则：1. 不可以乱骂人！2. 不能乱踢刚进团的人(除黑名单外)如有发现极时发出，轻则降为成员3天即以上，重则踢出并拉入黑名单。创建于2024.10.14    首席:一根飞机   黑名单：</body></html>"></iframe>
 
 ### Whitestar Bonus ✅
 

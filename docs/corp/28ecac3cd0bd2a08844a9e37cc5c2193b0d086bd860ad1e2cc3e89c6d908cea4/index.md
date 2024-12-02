@@ -16,12 +16,7 @@ date: 1701183247
  Мы - Первая Галактическая империя. Наша цель, принести мир и справедливость галактике. Но у нас есть преграда в лице террористов из Сопротивление! Только ты можешь помочь нам победить!
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Мы - Первая Галактическая империя. Наша цель, принести мир и справедливость галактике. Но у нас есть преграда в лице террористов из Сопротивление! Только ты можешь помочь нам победить!
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Мы - Первая Галактическая империя. Наша цель, принести мир и справедливость галактике. Но у нас есть преграда в лице террористов из Сопротивление! Только ты можешь помочь нам победить!</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

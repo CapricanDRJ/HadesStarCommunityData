@@ -18,14 +18,9 @@ date: 1732875391
 Discord mandatory to stay: <b><color=#FFFF00>6vgrePN</color></b>
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    We are an independent Corporation with active veteran players.  Active members are very welcome, we can assist you to grow.
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>We are an independent Corporation with active veteran players.  Active members are very welcome, we can assist you to grow.
 
-Discord mandatory to stay: <b><span style="color:#FFFF00;">6vgrePN</span></b>
-    </div>
-    {:/}
-    
+Discord mandatory to stay: <strong><span style=&quot;color:#FFFF00;&quot;>6vgrePN</span></strong></body></html>"></iframe>
 
 ### [Discord](https://discord.gg/6vgrePN)
 ### Whitestar Bonus ❌

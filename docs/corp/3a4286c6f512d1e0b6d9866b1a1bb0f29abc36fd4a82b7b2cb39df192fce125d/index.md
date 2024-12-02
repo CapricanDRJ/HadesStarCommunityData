@@ -16,12 +16,7 @@ date: 1733071315
  RR 9-11 täglich und wöchentliche WZ- Runs.  Externe RR-Piloten bitte ausschließlich über unseren Discord-Bot anmelden /  External RS pilots please register exclusively via our Discord bot 🙂
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    RR 9-11 täglich und wöchentliche WZ- Runs.  Externe RR-Piloten bitte ausschließlich über unseren Discord-Bot anmelden /  External RS pilots please register exclusively via our Discord bot 🙂
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>RR 9-11 täglich und wöchentliche WZ- Runs.  Externe RR-Piloten bitte ausschließlich über unseren Discord-Bot anmelden /  External RS pilots please register exclusively via our Discord bot 🙂</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/SK46885)
 ### Whitestar Bonus ✅

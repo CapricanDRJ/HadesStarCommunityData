@@ -16,12 +16,7 @@ date: 1731983527
  Добро пожаловать, мы в ТГ https://t.me/Lyutyee
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Добро пожаловать, мы в ТГ https://t.me/Lyutyee
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Добро пожаловать, мы в ТГ https://t.me/Lyutyee</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/https://t.me/Lyutyee)
 ### Whitestar Bonus ❌

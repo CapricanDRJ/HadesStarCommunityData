@@ -18,14 +18,9 @@ date: 1732961033
 A corporation of like-minded players 6 years strong. Recruiting for WS. 18+, English. Discord - apply + RS queue.
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Open RS, 56% bonus, leave corp, FS donations appreciated! 
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Open RS, 56% bonus, leave corp, FS donations appreciated! 
 开红星，奖金56%，离职后，旗舰1捐款感激不尽!
-A corporation of like-minded players 6 years strong. Recruiting for WS. 18+, English. Discord - apply + RS queue.
-    </div>
-    {:/}
-    
+A corporation of like-minded players 6 years strong. Recruiting for WS. 18+, English. Discord - apply + RS queue.</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/BaF8Wk9mFp)
 ### Whitestar Bonus ✅

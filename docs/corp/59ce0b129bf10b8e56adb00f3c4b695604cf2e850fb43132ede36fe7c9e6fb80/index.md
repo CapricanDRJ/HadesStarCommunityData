@@ -16,12 +16,7 @@ date: 1721995289
  Kolejna korporacja Duchów Arrakis. zapraszamy również do naszej społeczności na Discord
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Kolejna korporacja Duchów Arrakis. zapraszamy również do naszej społeczności na Discord
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Kolejna korporacja Duchów Arrakis. zapraszamy również do naszej społeczności na Discord</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/WwfpRzZ6)
 ### Whitestar Bonus ❌

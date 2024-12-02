@@ -18,14 +18,9 @@ date: 1718659061
 (для бз нужен тг и активность)
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <b><span style="color:red;">★Корпорация TERRA P — место, где пролетарии всех стран могут объединиться для совместного труда и побед★</span>
-Вступайте в наши ряды!</span></b>
-(для бз нужен тг и активность)
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><strong><span style=&quot;color:red;&quot;>★Корпорация TERRA P — место, где пролетарии всех стран могут объединиться для совместного труда и побед★</span>
+Вступайте в наши ряды!</span></strong>
+(для бз нужен тг и активность)</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

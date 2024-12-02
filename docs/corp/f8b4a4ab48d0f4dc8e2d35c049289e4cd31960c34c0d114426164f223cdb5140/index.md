@@ -16,12 +16,7 @@ date: 1732935796
  Welcome to <color=yellow><b>The Star League</b></color>: active <color=red>Red Star 9-12</color> and competitive <color=white>White Star</color> focus.
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Welcome to <span style="color:yellow;"><b>The Star League</b></span>: active <span style="color:red;">Red Star 9-12</span> and competitive <span style="color:white;">White Star</span> focus.
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Welcome to <span style=&quot;color:yellow;&quot;><strong>The Star League</strong></span>: active <span style=&quot;color:red;&quot;>Red Star 9-12</span> and competitive <span style=&quot;color:white;&quot;>White Star</span> focus.</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/2cEAstZ)
 ### Whitestar Bonus ✅

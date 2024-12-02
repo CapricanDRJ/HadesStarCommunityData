@@ -16,12 +16,7 @@ date: 1721569474
  We the Mandalorians are corp-based culture composed of members from multiple species and bound by a common creed, language, and code. Discord https://discord.gg/BdUFA9bhPE , This is the way.
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    We the Mandalorians are corp-based culture composed of members from multiple species and bound by a common creed, language, and code. Discord https://discord.gg/BdUFA9bhPE , This is the way.
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>We the Mandalorians are corp-based culture composed of members from multiple species and bound by a common creed, language, and code. Discord https://discord.gg/BdUFA9bhPE , This is the way.</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/BdUFA9bhPE)
 ### Whitestar Bonus ❌

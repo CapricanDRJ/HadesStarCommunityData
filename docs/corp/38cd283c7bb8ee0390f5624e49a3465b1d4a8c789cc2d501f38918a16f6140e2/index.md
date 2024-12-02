@@ -18,14 +18,9 @@ Join the international task force with a community of friendly commanders and a 
 <b>Discord is required
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-     <size=100> <span style="color:#feff00;">Bring peace to the Hades Star galaxy! </span></size>
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body> &lt;size=100&gt; <span style=&quot;color:#feff00;&quot;>Bring peace to the Hades Star galaxy! </span>&lt;/size&gt;
 Join the international task force with a community of friendly commanders and a focus on WS!
-<b>Discord is required
-    </div>
-    {:/}
-    
+<strong>Discord is required</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/wgHSEFgGBu)
 ### Whitestar Bonus ✅

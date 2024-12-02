@@ -24,9 +24,7 @@ Alliance:
 2. United Industries of Hades (UIH)
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Training corp.
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Training corp.
 For new players. 
 Discord.gg/gJVbNTWUYM
 Please be active
@@ -34,10 +32,7 @@ inactivity in 14 days will be removed
 
 Alliance:
 1. Dark Terra
-2. United Industries of Hades (UIH)
-    </div>
-    {:/}
-    
+2. United Industries of Hades (UIH)</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/gJVbNTWUYM)
 ### Whitestar Bonus ❌

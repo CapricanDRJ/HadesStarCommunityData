@@ -21,17 +21,12 @@ date: 1732935796
 <b>Easy going Dumpster Fire with Discord—Free White Star</b>
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-       (\)＾／)/)/^(\ノ)
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>   (\)＾／)/)/^(\ノ)
    |\______________\
    \|Dumpster Fire 2| 
   \[|      —    .    —     |]
    \|_______________|™
-<b>Easy going Dumpster Fire with Discord—Free White Star</b>
-    </div>
-    {:/}
-    
+<strong>Easy going Dumpster Fire with Discord—Free White Star</strong></body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

@@ -18,14 +18,9 @@ date: 1729543151
 •Hit up the chat system so we can hear whats on ur mind
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    •This Corp is open to everybody 
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>•This Corp is open to everybody 
 •Get diplomatic station so u can get help from one of our members
-•Hit up the chat system so we can hear whats on ur mind
-    </div>
-    {:/}
-    
+•Hit up the chat system so we can hear whats on ur mind</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

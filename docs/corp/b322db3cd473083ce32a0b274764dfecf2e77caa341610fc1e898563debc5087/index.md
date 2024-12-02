@@ -20,16 +20,11 @@ date: 1711636989
 <color=yellow>QQ群：946597244
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    本团秉承共产主义原则，互帮互助，欢迎各位加入。
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>本团秉承共产主义原则，互帮互助，欢迎各位加入。
 本团属于九团公约成员国
-<span style="color:red;">本团为共产星际分团
+<span style=&quot;color:red;&quot;>本团为共产星际分团
 请不要捐旗舰！本分团为小分团，不活跃，活跃的玩家请移步第四星际，加群有福利
-<span style="color:yellow;">QQ群：946597244
-    </div>
-    {:/}
-    
+<span style=&quot;color:yellow;&quot;>QQ群：946597244</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

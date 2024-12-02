@@ -16,12 +16,7 @@ date: 1704630910
  🔰<color=yellow>Free Star Corporation</color>, once strong, now weak. We must create a new empire🔰
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    🔰<span style="color:yellow;">Free Star Corporation</span>, once strong, now weak. We must create a new empire🔰
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>🔰<span style=&quot;color:yellow;&quot;>Free Star Corporation</span>, once strong, now weak. We must create a new empire🔰</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/ZZb34hh2dk)
 ### Whitestar Bonus ❌

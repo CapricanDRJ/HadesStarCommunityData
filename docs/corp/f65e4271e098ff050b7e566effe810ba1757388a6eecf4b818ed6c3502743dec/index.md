@@ -16,12 +16,7 @@ date: 1732718826
  招人，入团要求：红巨星lv4及以上，有白星扫描仪，能打白星。Lv40及以上加入必成干事。有事直接找首席Thomas，首席不在找其他干事。你想要的这里都有，入团即送d7/d8 ，定期打白，请投喂旗舰1,注意在一周内无任何红巨星或白星参加则被踢出本星际集团，如尝试加入本星际集团您将会被永久踢出本星际集团
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    招人，入团要求：红巨星lv4及以上，有白星扫描仪，能打白星。Lv40及以上加入必成干事。有事直接找首席Thomas，首席不在找其他干事。你想要的这里都有，入团即送d7/d8 ，定期打白，请投喂旗舰1,注意在一周内无任何红巨星或白星参加则被踢出本星际集团，如尝试加入本星际集团您将会被永久踢出本星际集团
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>招人，入团要求：红巨星lv4及以上，有白星扫描仪，能打白星。Lv40及以上加入必成干事。有事直接找首席Thomas，首席不在找其他干事。你想要的这里都有，入团即送d7/d8 ，定期打白，请投喂旗舰1,注意在一周内无任何红巨星或白星参加则被踢出本星际集团，如尝试加入本星际集团您将会被永久踢出本星际集团</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

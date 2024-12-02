@@ -20,16 +20,11 @@ Paro, nous sommes.
 Discord : x9QTsuZ3mg
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Bienvenue chez BSFR !
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Bienvenue chez BSFR !
 Fiers guerriers de l'espace, nous faisons trembler nos ennemis en WS.
 Nos valeurs sont soit tu cours soit tu crèves.
 Paro, nous sommes.
-Discord : x9QTsuZ3mg
-    </div>
-    {:/}
-    
+Discord : x9QTsuZ3mg</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/x9QTsuZ3mg)
 ### Whitestar Bonus ❌

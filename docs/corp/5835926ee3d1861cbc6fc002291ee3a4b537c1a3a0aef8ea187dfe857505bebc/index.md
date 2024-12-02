@@ -25,21 +25,16 @@ https://open.kakao.com/o/gBGFbATe
 최종 수정일 2022/12/16/금
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    2019/5/27/월 - 최초 기록 시작
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>2019/5/27/월 - 최초 기록 시작
 
-<b>나는 공산당이 싫어요! </b>
+<strong>나는 공산당이 싫어요! </strong>
 
 주의! 접률 하락시 강퇴될 수도 있습니다! 항성로그를 기준으로 봅니다.
 
 https://open.kakao.com/o/gBGFbATe  
 #꿀벌왕국 #하데스 스타 #hades_star
 
-최종 수정일 2022/12/16/금
-    </div>
-    {:/}
-    
+최종 수정일 2022/12/16/금</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

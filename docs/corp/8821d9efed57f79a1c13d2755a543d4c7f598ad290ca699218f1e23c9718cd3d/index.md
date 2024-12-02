@@ -20,16 +20,11 @@ date: 1723272781
 阶级分化：20级以下为成员，20级至70级为高级成员，70级以上则为干事
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    小红色太阳——红色太阳的分团
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>小红色太阳——红色太阳的分团
 有兴趣可以加进去。
 我们目前非常需要一起打白的伙伴，如果有这样志同道合的朋友们欢迎加入～
 黑名单：太阳系帝国
-阶级分化：20级以下为成员，20级至70级为高级成员，70级以上则为干事
-    </div>
-    {:/}
-    
+阶级分化：20级以下为成员，20级至70级为高级成员，70级以上则为干事</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

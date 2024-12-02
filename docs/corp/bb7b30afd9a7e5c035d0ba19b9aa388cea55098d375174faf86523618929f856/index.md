@@ -17,13 +17,8 @@ date: 1731988934
 Discord: https://discord.gg/Fyag9U7KFh
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Meow meow meow meow, meow Meow! Rated G. Join if you like cats.
-Discord: https://discord.gg/Fyag9U7KFh
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Meow meow meow meow, meow Meow! Rated G. Join if you like cats.
+Discord: https://discord.gg/Fyag9U7KFh</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

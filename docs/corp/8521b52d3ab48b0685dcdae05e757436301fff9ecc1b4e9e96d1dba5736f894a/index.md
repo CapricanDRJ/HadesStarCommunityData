@@ -16,12 +16,7 @@ date: 1714123800
  <a>本集团为<size=77>中国星系集团新主团</size></a >
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <a>本集团为<size=77>中国星系集团新主团</size></a >
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>&lt;a&gt;本集团为&lt;size=77&gt;中国星系集团新主团&lt;/size&gt;&lt;/a &gt;</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

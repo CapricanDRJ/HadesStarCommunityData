@@ -16,12 +16,7 @@ date: 1731245191
  Must participate in corporation. Must join EITHER private rs OR ws.  discord link below 👇
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Must participate in corporation. Must join EITHER private rs OR ws.  discord link below 👇
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Must participate in corporation. Must join EITHER private rs OR ws.  discord link below 👇</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/m9zTTQnGQX)
 ### Whitestar Bonus ❌

@@ -18,14 +18,9 @@ Jeder ist willkommen, permanent WZ, RR's und Support.
 Traut euch... bewirb dich noch heute 🖖🏻
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    "Werde Teil einer außergewöhnlichen Mannschaft"
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>"Werde Teil einer außergewöhnlichen Mannschaft"
 Jeder ist willkommen, permanent WZ, RR's und Support.
-Traut euch... bewirb dich noch heute 🖖🏻
-    </div>
-    {:/}
-    
+Traut euch... bewirb dich noch heute 🖖🏻</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

@@ -17,13 +17,8 @@ date: 1732297253
 Discord obligatoire
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    La corpo hard de <span style="color:#FFA040;">Seasons Corp</span>, une alliance où l'entraide et le jeu passent avant tout !
-Discord obligatoire
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>La corpo hard de <span style=&quot;color:#FFA040;&quot;>Seasons Corp</span>, une alliance où l'entraide et le jeu passent avant tout !
+Discord obligatoire</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/DcuxrTA)
 ### Whitestar Bonus ❌

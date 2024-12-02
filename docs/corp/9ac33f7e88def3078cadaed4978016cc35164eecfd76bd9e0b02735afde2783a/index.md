@@ -17,13 +17,8 @@ date: 1709592586
 Discord participation is mandatory. Join here: https://discord.gg/upznTnWWUf
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Will help new players. Laid back, no drama.
-Discord participation is mandatory. Join here: https://discord.gg/upznTnWWUf
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Will help new players. Laid back, no drama.
+Discord participation is mandatory. Join here: https://discord.gg/upznTnWWUf</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

@@ -16,12 +16,7 @@ date: 1724970991
  Tenemos el objetivo de llegar lejos y ser muy fuertes. Apoyaremos a los que nos necesiten y les daremos un ambiente comodo. | Existe un grupo si deseas unirte solo consulta al primer oficial. 
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Tenemos el objetivo de llegar lejos y ser muy fuertes. Apoyaremos a los que nos necesiten y les daremos un ambiente comodo. | Existe un grupo si deseas unirte solo consulta al primer oficial. 
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Tenemos el objetivo de llegar lejos y ser muy fuertes. Apoyaremos a los que nos necesiten y les daremos un ambiente comodo. | Existe un grupo si deseas unirte solo consulta al primer oficial. </body></html>"></iframe>
 
 ### [Discord](https://discord.gg/X6xAG8J9)
 ### Whitestar Bonus ❌

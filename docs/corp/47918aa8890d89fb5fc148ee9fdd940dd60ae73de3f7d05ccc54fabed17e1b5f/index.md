@@ -16,12 +16,7 @@ date: 1726738849
  La Nave WIALERKING
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    La Nave WIALERKING
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>La Nave WIALERKING</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/h d h cuw hdo ch wdi h c w d k j c j d hi c h d j c b)
 ### Whitestar Bonus ❌

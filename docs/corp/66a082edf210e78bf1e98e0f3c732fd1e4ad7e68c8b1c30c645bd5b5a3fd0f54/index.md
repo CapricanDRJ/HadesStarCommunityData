@@ -18,14 +18,9 @@ date: 1703791867
 https://discord.gg/7KGYvMbPgK
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    An <size=100>English</size> speaking, independent, <size=200><span style="color:white;"><b>White-Star</b></span></size> corp with very <size=100><i>weird standards</i></size>.
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>An &lt;size=100&gt;English&lt;/size&gt; speaking, independent, &lt;size=200&gt;<span style=&quot;color:white;&quot;><strong>White-Star</strong></span>&lt;/size&gt; corp with very &lt;size=100&gt;<em>weird standards</em>&lt;/size&gt;.
 
-https://discord.gg/7KGYvMbPgK
-    </div>
-    {:/}
-    
+https://discord.gg/7KGYvMbPgK</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

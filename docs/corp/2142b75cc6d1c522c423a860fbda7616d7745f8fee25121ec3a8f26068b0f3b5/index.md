@@ -16,12 +16,7 @@ date: 1730956412
  Anyone can join. 谁都可以加入。      打白为常态，有钱捐钱给旗舰，最好捐给旗舰2号。欢迎各位光临
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Anyone can join. 谁都可以加入。      打白为常态，有钱捐钱给旗舰，最好捐给旗舰2号。欢迎各位光临
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Anyone can join. 谁都可以加入。      打白为常态，有钱捐钱给旗舰，最好捐给旗舰2号。欢迎各位光临</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/星舰国际集团)
 ### Whitestar Bonus ❌

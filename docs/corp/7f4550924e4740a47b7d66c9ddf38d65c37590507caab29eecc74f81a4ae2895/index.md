@@ -16,12 +16,7 @@ date: 1731859426
  Wir sind ein relativ Aktiver Konzern und Freuen uns auf  neue Mitglieder 
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Wir sind ein relativ Aktiver Konzern und Freuen uns auf  neue Mitglieder 
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Wir sind ein relativ Aktiver Konzern und Freuen uns auf  neue Mitglieder </body></html>"></iframe>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/EsJvWZe)
 ### Whitestar Bonus ❌

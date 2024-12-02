@@ -18,14 +18,9 @@ date: 1732935796
 <color=yellow>◆</color>
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <size=50>◆◆◆◆◆◆◆◆</span>
-<span style="color:red;">◆祝各位早日R12!!!</span></size>
-<span style="color:yellow;">◆</span>
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>&lt;size=50&gt;◆◆◆◆◆◆◆◆</span>
+<span style=&quot;color:red;&quot;>◆祝各位早日R12!!!</span>&lt;/size&gt;
+<span style=&quot;color:yellow;&quot;>◆</span></body></html>"></iframe>
 
 ### [Discord](https://discord.gg/U7S2BaueGU)
 ### Whitestar Bonus ❌

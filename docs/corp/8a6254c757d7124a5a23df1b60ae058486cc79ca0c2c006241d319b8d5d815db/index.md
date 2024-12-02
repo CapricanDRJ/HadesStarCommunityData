@@ -16,12 +16,7 @@ date: 1712589809
  Набор активистоV для участия в батилиях на бз. БЗ с пн-пт, сб-вс выходной
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Набор активистоV для участия в батилиях на бз. БЗ с пн-пт, сб-вс выходной
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Набор активистоV для участия в батилиях на бз. БЗ с пн-пт, сб-вс выходной</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

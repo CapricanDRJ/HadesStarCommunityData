@@ -18,14 +18,9 @@ Ugyanitt bojler eladó
 Discord:</color> <color=#a4fc4c>9SyrBAt</color>
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <span style="color:#ffffee;"><size=75>Várunk sok szerettel minden Újoncot tapasztalat szerzésre, Tapasztaltakat WS-re!</size>
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:#ffffee;&quot;>&lt;size=75&gt;Várunk sok szerettel minden Újoncot tapasztalat szerzésre, Tapasztaltakat WS-re!&lt;/size&gt;
 Ugyanitt bojler eladó
-Discord:</span> <span style="color:#a4fc4c;">9SyrBAt</span>
-    </div>
-    {:/}
-    
+Discord:</span> <span style=&quot;color:#a4fc4c;&quot;>9SyrBAt</span></body></html>"></iframe>
 
 ### [Discord](https://discord.gg/9SyrBAt)
 ### Whitestar Bonus ❌

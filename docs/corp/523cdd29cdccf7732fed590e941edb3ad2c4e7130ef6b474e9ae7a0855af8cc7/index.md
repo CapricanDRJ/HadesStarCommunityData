@@ -19,15 +19,10 @@ Ingin menjadi anggota?
 Join Discord kita dulu: https://discord.gg/MCDb2Mt
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Casual Corp. Terbuka untuk semua active player. Bagian dari Nusantara Empire (Majapahit, Sriwijaya, Cikopo & the COLLECTOR)
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Casual Corp. Terbuka untuk semua active player. Bagian dari Nusantara Empire (Majapahit, Sriwijaya, Cikopo & the COLLECTOR)
 
 Ingin menjadi anggota?
-Join Discord kita dulu: https://discord.gg/MCDb2Mt
-    </div>
-    {:/}
-    
+Join Discord kita dulu: https://discord.gg/MCDb2Mt</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/https://discord.gg/MCDb2Mt)
 ### Whitestar Bonus ❌

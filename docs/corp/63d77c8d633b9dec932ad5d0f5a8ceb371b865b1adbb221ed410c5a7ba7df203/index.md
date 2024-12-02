@@ -16,12 +16,7 @@ date: 1732747078
  <b><size=80>€erulean</color><color=red>§tar</color></size></b> got weekly WS, Dark Star help, guides & advice, democratic atmosphere and friendly community. <b>Must Join Discord</b> 
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <b><size=80>€erulean</span><span style="color:red;">§tar</span></size></b> got weekly WS, Dark Star help, guides & advice, democratic atmosphere and friendly community. <b>Must Join Discord</b> 
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><strong>&lt;size=80&gt;€erulean</span><span style=&quot;color:red;&quot;>§tar</span>&lt;/size&gt;</strong> got weekly WS, Dark Star help, guides & advice, democratic atmosphere and friendly community. <strong>Must Join Discord</strong> </body></html>"></iframe>
 
 ### [Discord](https://discord.gg/Bc8e4RxtnJ)
 ### Whitestar Bonus ✅

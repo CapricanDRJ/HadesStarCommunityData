@@ -27,23 +27,18 @@ Max period of inactivity: 3 days.
 English only.
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <b>IA2</b>
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><strong>IA2</strong>
 
 Second Fleet of the
-<size=60>IMPERIAL ARMADA</size>
+&lt;size=60&gt;IMPERIAL ARMADA&lt;/size&gt;
 
 Discord mandatory.
 24 hours to join.
-<span style="color:orange;">discord.gg/bAAYCqG2cE</span>
+<span style=&quot;color:orange;&quot;>discord.gg/bAAYCqG2cE</span>
 
 Max period of inactivity: 3 days.
 
-English only.
-    </div>
-    {:/}
-    
+English only.</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/https://discord.gg/bAAYCqG2cE)
 ### Whitestar Bonus ❌

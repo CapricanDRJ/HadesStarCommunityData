@@ -16,12 +16,7 @@ date: 1730512585
  лише інтроверти і лише живі, серед українських- найдоступніший для тебе, якщо ти адекват (прийом в п'ятницю)
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    лише інтроверти і лише живі, серед українських- найдоступніший для тебе, якщо ти адекват (прийом в п'ятницю)
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>лише інтроверти і лише живі, серед українських- найдоступніший для тебе, якщо ти адекват (прийом в п'ятницю)</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

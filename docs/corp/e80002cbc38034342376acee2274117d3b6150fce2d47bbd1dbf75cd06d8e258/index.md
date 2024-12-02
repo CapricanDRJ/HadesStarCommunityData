@@ -18,14 +18,9 @@ Weekly white stars, new players welcome.
 Discord required : discord.gg/2RmfWZB777
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Welcome to the Outer Planets Alliance (OPA). We are a band of casual players from all around the world.
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Welcome to the Outer Planets Alliance (OPA). We are a band of casual players from all around the world.
 Weekly white stars, new players welcome.
-Discord required : discord.gg/2RmfWZB777
-    </div>
-    {:/}
-    
+Discord required : discord.gg/2RmfWZB777</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/2RmfWZB777)
 ### Whitestar Bonus ✅

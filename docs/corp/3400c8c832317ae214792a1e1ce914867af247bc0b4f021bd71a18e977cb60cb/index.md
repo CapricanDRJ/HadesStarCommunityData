@@ -20,16 +20,11 @@ LIDER ARRIBA LOS PITOS
 CORPORACION HISPANA NIVEL 2
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Hola soy ARRIBA LOS PITOS el líder y te invito a unirte mi Corporación te damos todo lo que necesites
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Hola soy ARRIBA LOS PITOS el líder y te invito a unirte mi Corporación te damos todo lo que necesites
 
 LIDER ARRIBA LOS PITOS
 
-CORPORACION HISPANA NIVEL 2
-    </div>
-    {:/}
-    
+CORPORACION HISPANA NIVEL 2</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

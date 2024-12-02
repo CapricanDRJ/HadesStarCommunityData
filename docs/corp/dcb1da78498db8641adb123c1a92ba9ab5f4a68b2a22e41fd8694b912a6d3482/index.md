@@ -16,12 +16,7 @@ date: 1723979587
  如有回归请找干事或者首席加好友邀请回归<br>整顿期
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    如有回归请找干事或者首席加好友邀请回归<br>整顿期
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>如有回归请找干事或者首席加好友邀请回归&lt;br&gt;整顿期</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

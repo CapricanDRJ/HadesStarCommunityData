@@ -17,13 +17,8 @@ date: 1731988333
 Welcome to the Galactic Empire recruit, an active corp that does ws and rs welcoming all players! Rs on weekends mainly. Inactive players will be kicked! Founder: Emperor 
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    "Venimus, Vidimus, Vicimus!"
-Welcome to the Galactic Empire recruit, an active corp that does ws and rs welcoming all players! Rs on weekends mainly. Inactive players will be kicked! Founder: Emperor 
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>"Venimus, Vidimus, Vicimus!"
+Welcome to the Galactic Empire recruit, an active corp that does ws and rs welcoming all players! Rs on weekends mainly. Inactive players will be kicked! Founder: Emperor </body></html>"></iframe>
 
 ### [Discord](https://discord.gg/Red4yqWn3F)
 ### Whitestar Bonus ❌

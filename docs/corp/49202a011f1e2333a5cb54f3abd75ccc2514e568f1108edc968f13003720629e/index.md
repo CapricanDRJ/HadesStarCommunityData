@@ -16,12 +16,7 @@ date: 1711419771
  <color=#FF6666>Welcome to Red Dwarf!</color> Part of the Dwarf family, join us for group Red Star runs, hints and tips, free artifacts, and weekly White Stars hosted in White Dwarf! Discord advised. 
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <span style="color:#FF6666;">Welcome to Red Dwarf!</span> Part of the Dwarf family, join us for group Red Star runs, hints and tips, free artifacts, and weekly White Stars hosted in White Dwarf! Discord advised. 
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:#FF6666;&quot;>Welcome to Red Dwarf!</span> Part of the Dwarf family, join us for group Red Star runs, hints and tips, free artifacts, and weekly White Stars hosted in White Dwarf! Discord advised. </body></html>"></iframe>
 
 ### [Discord](https://discord.gg/mbBssbBRQ8)
 ### Whitestar Bonus ❌

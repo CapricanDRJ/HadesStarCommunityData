@@ -16,12 +16,7 @@ date: 1728186229
  <size=60><color=blue><b>欢迎来到银星</b>，招活跃，打白的，<b>别捐旗舰</b>，银星Q群593825620  免费r7，帮打红星（r6及以下）
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <size=60><span style="color:blue;"><b>欢迎来到银星</b>，招活跃，打白的，<b>别捐旗舰</b>，银星Q群593825620  免费r7，帮打红星（r6及以下）
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>&lt;size=60&gt;<span style=&quot;color:blue;&quot;><strong>欢迎来到银星</strong>，招活跃，打白的，<strong>别捐旗舰</strong>，银星Q群593825620  免费r7，帮打红星（r6及以下）</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

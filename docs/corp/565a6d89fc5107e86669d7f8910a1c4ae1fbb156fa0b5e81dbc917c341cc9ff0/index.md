@@ -16,12 +16,7 @@ date: 1732778369
  <#FA9400>落雨观花 你永远的避风港 开学不踢红点        本团每周三晚开白 欢迎大佬和萌新们加入！             常驻萌新福利r8x2 分团：超越声速                    本团成立时间：2024.7.2                                      常驻请加qq：598692654
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <#FA9400>落雨观花 你永远的避风港 开学不踢红点        本团每周三晚开白 欢迎大佬和萌新们加入！             常驻萌新福利r8x2 分团：超越声速                    本团成立时间：2024.7.2                                      常驻请加qq：598692654
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>&lt;#FA9400&gt;落雨观花 你永远的避风港 开学不踢红点        本团每周三晚开白 欢迎大佬和萌新们加入！             常驻萌新福利r8x2 分团：超越声速                    本团成立时间：2024.7.2                                      常驻请加qq：598692654</body></html>"></iframe>
 
 ### Whitestar Bonus ✅
 

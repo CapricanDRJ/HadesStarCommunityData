@@ -27,12 +27,10 @@ Win,lose,fight.
 Discord mandatory. <b>EEpZuWf</b>
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <span style="color:#8c65fe;">Member corporation of the<b> Spacefleet Alliance</b></span>
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:#8c65fe;&quot;>Member corporation of the<strong> Spacefleet Alliance</strong></span>
 
 
-•Coordinated <b>RS 9-11</b>
+•Coordinated <strong>RS 9-11</strong>
 
 •Weekly competitive WS
 
@@ -40,10 +38,7 @@ Discord mandatory. <b>EEpZuWf</b>
 Win,lose,fight.
 
 
-Discord mandatory. <b>EEpZuWf</b>
-    </div>
-    {:/}
-    
+Discord mandatory. <strong>EEpZuWf</strong></body></html>"></iframe>
 
 ### [Discord](https://discord.gg/EEpZuWf)
 ### Whitestar Bonus ✅

@@ -16,12 +16,7 @@ date: 1732789143
  Fun, easy going yet hardass corp for all. Discord account required for White Star runs.
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Fun, easy going yet hardass corp for all. Discord account required for White Star runs.
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Fun, easy going yet hardass corp for all. Discord account required for White Star runs.</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/https://discord.gg/X8mRJ994nY)
 ### Whitestar Bonus ✅

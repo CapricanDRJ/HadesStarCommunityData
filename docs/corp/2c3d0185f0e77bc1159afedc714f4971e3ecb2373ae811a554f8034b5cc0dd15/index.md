@@ -16,12 +16,7 @@ date: 1731010507
  <color=red>Somos Una Corporacion Con Penes Gigantes Sandro El Mas Pitudo
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <span style="color:red;">Somos Una Corporacion Con Penes Gigantes Sandro El Mas Pitudo
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:red;&quot;>Somos Una Corporacion Con Penes Gigantes Sandro El Mas Pitudo</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

@@ -22,18 +22,13 @@ DON'T DONATE CREDITS TO THE FLAGSHIP!
 勿谈和白
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <span style="color:#66ccff;"><size=50>航迹跨越星海，存在步入永恒，掌控不朽者即掌控一切，欢迎各位萌新来到阿尔特拉太空港！
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:#66ccff;&quot;>&lt;size=50&gt;航迹跨越星海，存在步入永恒，掌控不朽者即掌控一切，欢迎各位萌新来到阿尔特拉太空港！
 集团代理人： 2号、水滴、蜜芒
 盟团：红日初升
 PS：本团隶属于阿尔特拉集团                       阿尔特拉QQ群号：719776587
 不要给旗舰捐钱
 DON'T DONATE CREDITS TO THE FLAGSHIP!
-勿谈和白
-    </div>
-    {:/}
-    
+勿谈和白</body></html>"></iframe>
 
 ### Whitestar Bonus ✅
 

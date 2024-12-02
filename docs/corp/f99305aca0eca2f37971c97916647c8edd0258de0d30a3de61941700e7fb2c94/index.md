@@ -21,17 +21,12 @@ Visit us on discord  to join:
 https://discord.gg/ysGrswJTUp
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    [United Industries of Hades]
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>[United Industries of Hades]
 
 Discord is mandatory! 
 
 Visit us on discord  to join:
-https://discord.gg/ysGrswJTUp
-    </div>
-    {:/}
-    
+https://discord.gg/ysGrswJTUp</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/vPsNNxs)
 ### Whitestar Bonus ❌

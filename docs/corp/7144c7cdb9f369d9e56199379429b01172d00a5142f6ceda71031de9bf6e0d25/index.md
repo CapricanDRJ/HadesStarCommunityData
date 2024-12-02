@@ -16,12 +16,7 @@ date: 1710787868
  ⚔️ Pretorian Jpr. ally sekolygen. unidos Siempre highest corp decorations.🌟🌟level3. *(A)* lunar.(A) Ragnarok.Admiral S. AS lexxf. anawk.gateway
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    ⚔️ Pretorian Jpr. ally sekolygen. unidos Siempre highest corp decorations.🌟🌟level3. *(A)* lunar.(A) Ragnarok.Admiral S. AS lexxf. anawk.gateway
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>⚔️ Pretorian Jpr. ally sekolygen. unidos Siempre highest corp decorations.🌟🌟level3. *(A)* lunar.(A) Ragnarok.Admiral S. AS lexxf. anawk.gateway</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

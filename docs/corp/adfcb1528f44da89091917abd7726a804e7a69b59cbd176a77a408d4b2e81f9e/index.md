@@ -21,17 +21,12 @@ Language: English-Spanish
 Discord: pxSK3vbe</color></b>
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <b><span style="color:#4595A4;"><size=70>꧁FEÐERAŦI0N༒VERSAILES꧂</size></span>
-<span style="color:# F9FAEC;">Corporation to have fun and enjoy
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><strong><span style=&quot;color:#4595A4;&quot;>&lt;size=70&gt;꧁FEÐERAŦI0N༒VERSAILES꧂&lt;/size&gt;</span>
+<span style=&quot;color:# F9FAEC;&quot;>Corporation to have fun and enjoy
    -hosted by ShadowSun
 
 Language: English-Spanish
-Discord: pxSK3vbe</span></b>
-    </div>
-    {:/}
-    
+Discord: pxSK3vbe</span></strong></body></html>"></iframe>
 
 ### [Discord](https://discord.gg/discord.gg/pxSK3vbe)
 ### Whitestar Bonus ❌

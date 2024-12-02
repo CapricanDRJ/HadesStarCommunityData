@@ -21,17 +21,12 @@ discord：https://discord.gg/BQkbAHaGj4
 <size=64><color=red>如有意向参加白星可加入q群并前往分盟</color></size>
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    欢迎来到遨游星空，本集团提供私人红巨星带打，低价神器交易的服务，萌新也可入住。
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>欢迎来到遨游星空，本集团提供私人红巨星带打，低价神器交易的服务，萌新也可入住。
 这里也诚邀各位大佬的加入，集团职务根据白星贡献和活跃程度确定。
 集团内部qq群请务必在三天之内添加。
 内部qq群号：1092744803
 discord：https://discord.gg/BQkbAHaGj4
-<size=64><span style="color:red;">如有意向参加白星可加入q群并前往分盟</span></size>
-    </div>
-    {:/}
-    
+&lt;size=64&gt;<span style=&quot;color:red;&quot;>如有意向参加白星可加入q群并前往分盟</span>&lt;/size&gt;</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

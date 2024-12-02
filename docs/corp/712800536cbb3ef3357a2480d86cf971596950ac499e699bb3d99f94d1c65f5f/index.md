@@ -20,16 +20,11 @@ date: 1715096003
 Discord opened
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    한국인 전용<size="80"></size>
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>한국인 전용&lt;size="80"&gt;&lt;/size&gt;
 백색참여하셔야 합니다.
-<span style="color:"red";"></span><b></b>
+<span style=&quot;color:"red";&quot;></span><strong></strong>
 
-Discord opened
-    </div>
-    {:/}
-    
+Discord opened</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/7BfdmAAXQ7)
 ### Whitestar Bonus ❌

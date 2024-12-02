@@ -26,9 +26,7 @@ HVgvAaF
 (PLEASE NOTE THIS IS CASE SENSITIVE)
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Friendly, independent Corp
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Friendly, independent Corp
 
 Running weekly White Stars, 
 
@@ -38,10 +36,7 @@ Discord for WS /RS
 
 HVgvAaF
 
-(PLEASE NOTE THIS IS CASE SENSITIVE)
-    </div>
-    {:/}
-    
+(PLEASE NOTE THIS IS CASE SENSITIVE)</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/HVgvAaF)
 ### Whitestar Bonus ❌

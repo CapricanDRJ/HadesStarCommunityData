@@ -18,14 +18,9 @@ date: 1727192499
 https://discord.gg/EdNWKeN
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Science Division.. we are here to help.
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Science Division.. we are here to help.
 
-https://discord.gg/EdNWKeN
-    </div>
-    {:/}
-    
+https://discord.gg/EdNWKeN</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

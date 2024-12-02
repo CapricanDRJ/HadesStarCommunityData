@@ -20,16 +20,11 @@ date: 1702827360
 基地群：994750560（可加可不加）
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    欢迎新人 Welcome to join no matter where you come from。。
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>欢迎新人 Welcome to join no matter where you come from。。
 提供萌新扶持，帮助萌新度过新手村 
 萌新扶持包括：送神器，模组搭配，前期目标制定，帮打神器，帮助了解模组，了解游戏机制
 总群：1093246955（可加可不加）
-基地群：994750560（可加可不加）
-    </div>
-    {:/}
-    
+基地群：994750560（可加可不加）</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

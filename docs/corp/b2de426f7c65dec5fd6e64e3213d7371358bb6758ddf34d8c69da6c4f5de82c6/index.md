@@ -16,12 +16,7 @@ date: 1733062898
  Magyarok ide. A szabályok egyszerűek: napi aktivitás, segítsd a társaidat. WS-ezés feltétele a discord.
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Magyarok ide. A szabályok egyszerűek: napi aktivitás, segítsd a társaidat. WS-ezés feltétele a discord.
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Magyarok ide. A szabályok egyszerűek: napi aktivitás, segítsd a társaidat. WS-ezés feltétele a discord.</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

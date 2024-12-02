@@ -20,16 +20,11 @@ date: 1732800866
 🔰Ajudamos com orientação e evolução.
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Prepare-se para uma jornada épica entre Estrelas Vermelhas e Guerras intensas nas Estrelas Brancas. 
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Prepare-se para uma jornada épica entre Estrelas Vermelhas e Guerras intensas nas Estrelas Brancas. 
 
 🔰DRS e RS diárias
 🎖WS todas as sextas
-🔰Ajudamos com orientação e evolução.
-    </div>
-    {:/}
-    
+🔰Ajudamos com orientação e evolução.</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/sVVAvk9RqC)
 ### Whitestar Bonus ❌

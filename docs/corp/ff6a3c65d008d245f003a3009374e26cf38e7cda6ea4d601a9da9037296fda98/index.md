@@ -20,16 +20,11 @@ DC : tqSz2DCJZ8
 
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    A friendly group of players that are here to have fun and help. Come join us for and learn DN's WS, RS, BS together as a team.
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>A friendly group of players that are here to have fun and help. Come join us for and learn DN's WS, RS, BS together as a team.
 
 Discord recommended
 DC : tqSz2DCJZ8
-
-    </div>
-    {:/}
-    
+</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/tqSz2DCJZ8)
 ### Whitestar Bonus ❌

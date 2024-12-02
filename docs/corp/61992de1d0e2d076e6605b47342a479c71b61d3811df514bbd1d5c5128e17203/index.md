@@ -20,16 +20,11 @@ date: 1714870056
 https://discord.gg/95F5HQa
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    どなたでも歓迎致します。
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>どなたでも歓迎致します。
 のんびりプレイが好きな人向き。
 新人さんでもご参加いただけます。
 
-https://discord.gg/95F5HQa
-    </div>
-    {:/}
-    
+https://discord.gg/95F5HQa</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

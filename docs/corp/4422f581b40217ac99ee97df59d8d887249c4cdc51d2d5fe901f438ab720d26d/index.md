@@ -21,17 +21,12 @@ date: 1732800565
 Вместе мы сила и единство. 
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Играем в свое удовольствие.
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Играем в свое удовольствие.
 Всегда поможем Артами, Кз, советом. 
 Совместные походы на КЗ 1-9
 Оскорбление мат сразу в космос.
 Во имя благополучия соратников.
-Вместе мы сила и единство. 
-    </div>
-    {:/}
-    
+Вместе мы сила и единство. </body></html>"></iframe>
 
 ### Whitestar Bonus ✅
 

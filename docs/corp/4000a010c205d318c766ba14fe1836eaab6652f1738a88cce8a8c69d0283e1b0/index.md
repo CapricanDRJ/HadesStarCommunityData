@@ -19,15 +19,10 @@ date: 1733094804
 https://discord.gg/CY4M2awSgS
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <b>Добро пожаловать в Axiom! </b> 
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><strong>Добро пожаловать в Axiom! </strong> 
  Ведётся набор! Помощь новичкам и лоулвл.  
 Основана 01.09.2019
-https://discord.gg/CY4M2awSgS
-    </div>
-    {:/}
-    
+https://discord.gg/CY4M2awSgS</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/CY4M2awSgS)
 ### Whitestar Bonus ✅

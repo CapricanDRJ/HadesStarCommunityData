@@ -17,13 +17,8 @@ date: 1732880199
 https://discord.gg/NuvtUTUxQj 
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    United Fleet Operations:
-https://discord.gg/NuvtUTUxQj 
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>United Fleet Operations:
+https://discord.gg/NuvtUTUxQj </body></html>"></iframe>
 
 ### Whitestar Bonus ✅
 

@@ -16,12 +16,7 @@ date: 1718926373
  활동하시는 모든 한국인분들을 환영합니다.    매주 목요일 백색성단 활동하오니, 코퍼레이션 인원분들은 많은 참여 부탁드립니다.                          코퍼레이션 채팅방은 카카오톡에서 " Hades' Star 한국인 Corp "를 검색하시면 찾으실수 있습니다[참여 코드 : Hades]
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    활동하시는 모든 한국인분들을 환영합니다.    매주 목요일 백색성단 활동하오니, 코퍼레이션 인원분들은 많은 참여 부탁드립니다.                          코퍼레이션 채팅방은 카카오톡에서 " Hades' Star 한국인 Corp "를 검색하시면 찾으실수 있습니다[참여 코드 : Hades]
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>활동하시는 모든 한국인분들을 환영합니다.    매주 목요일 백색성단 활동하오니, 코퍼레이션 인원분들은 많은 참여 부탁드립니다.                          코퍼레이션 채팅방은 카카오톡에서 " Hades' Star 한국인 Corp "를 검색하시면 찾으실수 있습니다[참여 코드 : Hades]</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/invite/5K3vCNNBD9)
 ### Whitestar Bonus ❌

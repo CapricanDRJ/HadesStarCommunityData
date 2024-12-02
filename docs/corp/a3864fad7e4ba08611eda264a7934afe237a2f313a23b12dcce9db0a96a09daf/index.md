@@ -16,12 +16,7 @@ date: 1732641718
  Casual Clan looking for active players. Join our clan and grow with us.
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Casual Clan looking for active players. Join our clan and grow with us.
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Casual Clan looking for active players. Join our clan and grow with us.</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

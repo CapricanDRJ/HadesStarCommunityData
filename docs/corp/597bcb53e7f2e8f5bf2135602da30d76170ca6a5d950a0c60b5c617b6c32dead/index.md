@@ -22,18 +22,13 @@ date: 1732836340
 ✡分团《云浪度假村↕》《想想的后勤部》《Gemini》
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    ✡摆烂度假天堂☁
-<span style="color:red;">开白后禁刷屏！</span>
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>✡摆烂度假天堂☁
+<span style=&quot;color:red;&quot;>开白后禁刷屏！</span>
 ✡🈲捐旗舰
-✡qq企鹅群：<span style="color:red;">614592574</span>
-首席微信号:<span style="color:blue;">18970688854</span>
+✡qq企鹅群：<span style=&quot;color:red;&quot;>614592574</span>
+首席微信号:<span style=&quot;color:blue;&quot;>18970688854</span>
 没qq的可以加微信进集团群
-✡分团《云浪度假村↕》《想想的后勤部》《Gemini》
-    </div>
-    {:/}
-    
+✡分团《云浪度假村↕》《想想的后勤部》《Gemini》</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

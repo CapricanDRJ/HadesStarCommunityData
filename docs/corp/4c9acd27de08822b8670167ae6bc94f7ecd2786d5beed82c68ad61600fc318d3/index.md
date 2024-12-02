@@ -21,17 +21,12 @@ date: 1715830706
 -THE KICK DAY WILL BE ON SUNDAY IF THE ROSTER IS FULL
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <span style="color:red;"><size=70>WELCOME TO THE BENDERA</size></span> 
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:red;&quot;>&lt;size=70&gt;WELCOME TO THE BENDERA&lt;/size&gt;</span> 
 
 -DON'T BE TOXIC 
 -PLEASE BE ACTIVE 
 -NEW PLAYERS ARE WELCOME HERE
--THE KICK DAY WILL BE ON SUNDAY IF THE ROSTER IS FULL
-    </div>
-    {:/}
-    
+-THE KICK DAY WILL BE ON SUNDAY IF THE ROSTER IS FULL</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

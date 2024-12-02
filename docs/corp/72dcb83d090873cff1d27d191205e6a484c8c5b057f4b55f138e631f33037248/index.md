@@ -20,16 +20,11 @@ Member of Space Ghost Alliance (GE, TF, RST, BB, SJ, USA)
 Discord: fYBf2GNU7y
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Be a part of something, join the Galactic Empire!
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Be a part of something, join the Galactic Empire!
 We are recruiting and helping active members.
 
 Member of Space Ghost Alliance (GE, TF, RST, BB, SJ, USA)
-Discord: fYBf2GNU7y
-    </div>
-    {:/}
-    
+Discord: fYBf2GNU7y</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

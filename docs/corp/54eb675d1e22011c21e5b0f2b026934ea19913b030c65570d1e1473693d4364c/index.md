@@ -16,12 +16,7 @@ date: 1732113333
  <size=51><#00FFFF>墨痕集团第一主团，</size></color>本团为北极星联盟成员，Q群：796512160      欢迎各个等级玩家来参与<#ff6666>活跃玩家请移步盟团:星落苑
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <size=51><#00FFFF>墨痕集团第一主团，</size></span>本团为北极星联盟成员，Q群：796512160      欢迎各个等级玩家来参与<#ff6666>活跃玩家请移步盟团:星落苑
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>&lt;size=51&gt;&lt;#00FFFF&gt;墨痕集团第一主团，&lt;/size&gt;</span>本团为北极星联盟成员，Q群：796512160      欢迎各个等级玩家来参与&lt;#ff6666&gt;活跃玩家请移步盟团:星落苑</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

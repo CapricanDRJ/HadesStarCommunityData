@@ -16,12 +16,7 @@ date: 1706876347
  本集团属于边际的文明分团，隶属于元素联邦集团，集团内玩家需和谐共处，神器和矿场集团内部交易优惠，白星尽力而为，详情看元素联邦介绍（5级集团）                                                   
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    本集团属于边际的文明分团，隶属于元素联邦集团，集团内玩家需和谐共处，神器和矿场集团内部交易优惠，白星尽力而为，详情看元素联邦介绍（5级集团）                                                   
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>本集团属于边际的文明分团，隶属于元素联邦集团，集团内玩家需和谐共处，神器和矿场集团内部交易优惠，白星尽力而为，详情看元素联邦介绍（5级集团）                                                   </body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

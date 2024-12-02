@@ -18,14 +18,9 @@ date: 1702214121
 Find us on Discord:<b>EEpZuWf</b>
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <span style="color:#d7342a;">Retired corporation of the<b> Spacefleet Alliance</b></span>
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:#d7342a;&quot;>Retired corporation of the<strong> Spacefleet Alliance</strong></span>
 
-Find us on Discord:<b>EEpZuWf</b>
-    </div>
-    {:/}
-    
+Find us on Discord:<strong>EEpZuWf</strong></body></html>"></iframe>
 
 ### [Discord](https://discord.gg/EEpZuWf)
 ### Whitestar Bonus ❌

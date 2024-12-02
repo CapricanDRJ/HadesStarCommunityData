@@ -16,12 +16,7 @@ date: 1732945711
  <color=red>Er1-12</color> <color=#33FFFC>estrellas blancas semanales</color>  <color=grey>fundador:Jorge. <b><color=green><size=70>pedir unirse al grupo de Whatsapp</size></color></b>
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <span style="color:red;">Er1-12</span> <span style="color:#33FFFC;">estrellas blancas semanales</span>  <span style="color:grey;">fundador:Jorge. <b><span style="color:green;"><size=70>pedir unirse al grupo de Whatsapp</size></span></b>
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:red;&quot;>Er1-12</span> <span style=&quot;color:#33FFFC;&quot;>estrellas blancas semanales</span>  <span style=&quot;color:grey;&quot;>fundador:Jorge. <strong><span style=&quot;color:green;&quot;>&lt;size=70&gt;pedir unirse al grupo de Whatsapp&lt;/size&gt;</span></strong></body></html>"></iframe>
 
 ### [Discord](https://discord.gg/QDzhmPUe8u)
 ### Whitestar Bonus ✅

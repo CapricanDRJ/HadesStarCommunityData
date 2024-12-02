@@ -23,19 +23,14 @@ Demotion/Removal:-
 Corp Discord Channel https://discord.gg/bPeyG7RQ5t
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    From this Star, 2 the last Star.
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>From this Star, 2 the last Star.
 
 [Must communicate in English.]
 Demotion/Removal:-
 •On 5th day with no jump.
 •No show in WS after having scanner on
 
-Corp Discord Channel https://discord.gg/bPeyG7RQ5t
-    </div>
-    {:/}
-    
+Corp Discord Channel https://discord.gg/bPeyG7RQ5t</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/bPeyG7RQ5t)
 ### Whitestar Bonus ✅

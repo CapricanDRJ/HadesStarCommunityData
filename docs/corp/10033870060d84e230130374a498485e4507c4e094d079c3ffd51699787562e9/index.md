@@ -16,12 +16,7 @@ date: 1699726723
  <size="62"><b>RESURGIMOS DE NUESTRAS CENIZAS </b></size>
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <size="62"><b>RESURGIMOS DE NUESTRAS CENIZAS </b></size>
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>&lt;size="62"&gt;<strong>RESURGIMOS DE NUESTRAS CENIZAS </strong>&lt;/size&gt;</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

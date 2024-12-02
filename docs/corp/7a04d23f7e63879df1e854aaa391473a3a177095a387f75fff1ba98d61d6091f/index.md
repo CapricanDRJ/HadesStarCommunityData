@@ -16,12 +16,7 @@ date: 1728586532
  <color=red>Per partecipare alle ws è richiesta partecipazione attiva e collaborazione             <color=yellow><br>Link telegram obbligatorio per le ws: t.me/StellarCorpIT
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <span style="color:red;">Per partecipare alle ws è richiesta partecipazione attiva e collaborazione             <span style="color:yellow;"><br>Link telegram obbligatorio per le ws: t.me/StellarCorpIT
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:red;&quot;>Per partecipare alle ws è richiesta partecipazione attiva e collaborazione             <span style=&quot;color:yellow;&quot;>&lt;br&gt;Link telegram obbligatorio per le ws: t.me/StellarCorpIT</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/dxMw6cbjGt)
 ### Whitestar Bonus ❌

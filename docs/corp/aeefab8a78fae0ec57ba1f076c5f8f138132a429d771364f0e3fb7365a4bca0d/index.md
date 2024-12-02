@@ -16,12 +16,7 @@ date: 1706577340
  Активные игроки начиная с 300 кто не будет играть исключаем
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Активные игроки начиная с 300 кто не будет играть исключаем
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Активные игроки начиная с 300 кто не будет играть исключаем</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

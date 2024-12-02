@@ -17,13 +17,8 @@ date: 1729423231
 <size=74><color=red>PS 本集团禁止刷屏</color></size>
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    嗨！！這是個新的開始~期待與你(妳)交個新朋友  ^_^  新來的成員希望能在上線時候打聲招呼  謝謝
-<size=74><span style="color:red;">PS 本集团禁止刷屏</span></size>
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>嗨！！這是個新的開始~期待與你(妳)交個新朋友  ^_^  新來的成員希望能在上線時候打聲招呼  謝謝
+&lt;size=74&gt;<span style=&quot;color:red;&quot;>PS 本集团禁止刷屏</span>&lt;/size&gt;</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

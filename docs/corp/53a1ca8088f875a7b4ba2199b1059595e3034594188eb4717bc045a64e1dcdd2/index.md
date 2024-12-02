@@ -16,12 +16,7 @@ date: 1733081233
  "imperio  galactico" en el imperio galactico habra estrellas blancas diarias y te apoyaremos en cualquier cosa Lista de aliados:Imperio estelar, Alfa Omega GuistonRA
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    "imperio  galactico" en el imperio galactico habra estrellas blancas diarias y te apoyaremos en cualquier cosa Lista de aliados:Imperio estelar, Alfa Omega GuistonRA
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>"imperio  galactico" en el imperio galactico habra estrellas blancas diarias y te apoyaremos en cualquier cosa Lista de aliados:Imperio estelar, Alfa Omega GuistonRA</body></html>"></iframe>
 
 ### Whitestar Bonus ✅
 

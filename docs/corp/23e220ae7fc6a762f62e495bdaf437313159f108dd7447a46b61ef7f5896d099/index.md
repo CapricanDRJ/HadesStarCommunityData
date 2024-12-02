@@ -16,12 +16,7 @@ date: 1712707084
  very layed back have fun is pretty much the only rule. please be able to speak English that's all I know lol. if I get enough members I will do back to back whites stars.
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    very layed back have fun is pretty much the only rule. please be able to speak English that's all I know lol. if I get enough members I will do back to back whites stars.
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>very layed back have fun is pretty much the only rule. please be able to speak English that's all I know lol. if I get enough members I will do back to back whites stars.</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

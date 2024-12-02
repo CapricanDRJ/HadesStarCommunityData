@@ -22,18 +22,13 @@ Join our public RS queue on discord!
 FS2 - Closed
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <span style="color:yellow;">U.I.H. Corp
-<span style="color:white;">16-52% RS artifact bonuses
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:yellow;&quot;>U.I.H. Corp
+<span style=&quot;color:white;&quot;>16-52% RS artifact bonuses
 Join our public RS queue on discord!
 
-<span style="color:yellow;">Flagship Donations:
-<span style="color:white;">FS1 - Open
-FS2 - Closed
-    </div>
-    {:/}
-    
+<span style=&quot;color:yellow;&quot;>Flagship Donations:
+<span style=&quot;color:white;&quot;>FS1 - Open
+FS2 - Closed</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/vPsNNxs)
 ### Whitestar Bonus ✅

@@ -16,12 +16,7 @@ date: 1733153946
  我们不属于任何集团的分团，<#DCF>我们的总执行官：Cyka <#ACF>欢迎你的加入～～～ <#FFF>来到这里大于6t且在团一个月并可以打白星了，我们会给你80%左右的R7 ！来者请捐点旗舰，我们非常感谢！我们在努力的招人！！！建立于2024.9.7 Q群号：993964380 大群Q号：597444221
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    我们不属于任何集团的分团，<#DCF>我们的总执行官：Cyka <#ACF>欢迎你的加入～～～ <#FFF>来到这里大于6t且在团一个月并可以打白星了，我们会给你80%左右的R7 ！来者请捐点旗舰，我们非常感谢！我们在努力的招人！！！建立于2024.9.7 Q群号：993964380 大群Q号：597444221
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>我们不属于任何集团的分团，&lt;#DCF&gt;我们的总执行官：Cyka &lt;#ACF&gt;欢迎你的加入～～～ &lt;#FFF&gt;来到这里大于6t且在团一个月并可以打白星了，我们会给你80%左右的R7 ！来者请捐点旗舰，我们非常感谢！我们在努力的招人！！！建立于2024.9.7 Q群号：993964380 大群Q号：597444221</body></html>"></iframe>
 
 ### Whitestar Bonus ✅
 

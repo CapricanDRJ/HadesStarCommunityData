@@ -19,15 +19,10 @@ Sailors are back! We have joined UIH and now are 11 corps.  Please contact us on
 
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    United Industry of Hades
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>United Industry of Hades
 Sailors are back! We have joined UIH and now are 11 corps.  Please contact us on Discord prior to joining.
 
-
-    </div>
-    {:/}
-    
+</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/jrqyXc8)
 ### Whitestar Bonus ❌

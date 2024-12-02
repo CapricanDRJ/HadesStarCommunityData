@@ -16,12 +16,7 @@ date: 1720172881
  ws focused on learning, still a lot to learn so we don't worry Farm our opponent we just want to play a little
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    ws focused on learning, still a lot to learn so we don't worry Farm our opponent we just want to play a little
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>ws focused on learning, still a lot to learn so we don't worry Farm our opponent we just want to play a little</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

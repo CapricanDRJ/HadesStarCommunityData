@@ -16,12 +16,7 @@ date: 1732577909
  leave no man behind! join and we'll share the  fights!<br>Coordinate Red Star battles, with GMT. Weekly WS starting on wednesdays.<br><br>Sister corporations: TeddisaurusWrex, Armored Union
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    leave no man behind! join and we'll share the  fights!<br>Coordinate Red Star battles, with GMT. Weekly WS starting on wednesdays.<br><br>Sister corporations: TeddisaurusWrex, Armored Union
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>leave no man behind! join and we'll share the  fights!&lt;br&gt;Coordinate Red Star battles, with GMT. Weekly WS starting on wednesdays.&lt;br&gt;&lt;br&gt;Sister corporations: TeddisaurusWrex, Armored Union</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

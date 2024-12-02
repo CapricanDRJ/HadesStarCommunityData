@@ -16,12 +16,7 @@ date: 1715301624
  United Yellow-star-system Empires of Universe宇宙联合黄星系帝国【仅首席干事（79）拥有的权限（除非首席干事授权）1、编辑集团设置2、晋升降职。如有违反者，轻则降职，重则被移出。】（Languege:中文，English, Русский，Español）
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    United Yellow-star-system Empires of Universe宇宙联合黄星系帝国【仅首席干事（79）拥有的权限（除非首席干事授权）1、编辑集团设置2、晋升降职。如有违反者，轻则降职，重则被移出。】（Languege:中文，English, Русский，Español）
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>United Yellow-star-system Empires of Universe宇宙联合黄星系帝国【仅首席干事（79）拥有的权限（除非首席干事授权）1、编辑集团设置2、晋升降职。如有违反者，轻则降职，重则被移出。】（Languege:中文，English, Русский，Español）</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

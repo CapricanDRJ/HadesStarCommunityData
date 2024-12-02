@@ -16,12 +16,7 @@ date: 1726262846
  Primary language is English. Enjoy! Help the corporation to become a senior member. Fail to log, I will demote to member. 14 days no log in and I will kick members. 
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Primary language is English. Enjoy! Help the corporation to become a senior member. Fail to log, I will demote to member. 14 days no log in and I will kick members. 
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Primary language is English. Enjoy! Help the corporation to become a senior member. Fail to log, I will demote to member. 14 days no log in and I will kick members. </body></html>"></iframe>
 
 ### [Discord](https://discord.gg/yEGmdxCSd9)
 ### Whitestar Bonus ❌

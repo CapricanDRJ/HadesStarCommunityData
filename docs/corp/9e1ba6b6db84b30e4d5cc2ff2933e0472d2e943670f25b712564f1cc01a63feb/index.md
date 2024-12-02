@@ -19,15 +19,10 @@ date: 1728132134
 黑名单：三体第一舰队
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    试行:
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>试行:
 *已知*的成员为高级成员
 其他为普通成员
-黑名单：三体第一舰队
-    </div>
-    {:/}
-    
+黑名单：三体第一舰队</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

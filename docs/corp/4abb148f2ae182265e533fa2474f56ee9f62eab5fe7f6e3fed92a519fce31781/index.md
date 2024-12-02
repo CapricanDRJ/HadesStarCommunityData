@@ -19,15 +19,10 @@ To participate in white star missions we ask that you download discord and join 
 https://discord.gg/gXvbHJm
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Just for fun.
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Just for fun.
 To participate in white star missions we ask that you download discord and join our server:
 
-https://discord.gg/gXvbHJm
-    </div>
-    {:/}
-    
+https://discord.gg/gXvbHJm</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

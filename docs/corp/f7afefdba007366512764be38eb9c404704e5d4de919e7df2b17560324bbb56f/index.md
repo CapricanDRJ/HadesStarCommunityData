@@ -16,12 +16,7 @@ date: 1725597843
  <b> Raiding other corp's bonuses from our secret clubhouse </b> Donations to FS1 welcomed. <b> Discord required </b>
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <b> Raiding other corp's bonuses from our secret clubhouse </b> Donations to FS1 welcomed. <b> Discord required </b>
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><strong> Raiding other corp's bonuses from our secret clubhouse </strong> Donations to FS1 welcomed. <strong> Discord required </strong></body></html>"></iframe>
 
 ### [Discord](https://discord.gg/zXEp3p8)
 ### Whitestar Bonus ❌

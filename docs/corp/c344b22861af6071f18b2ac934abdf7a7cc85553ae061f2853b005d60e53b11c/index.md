@@ -23,19 +23,14 @@ date: 1700447756
 ・ 비매너, 장기미접속은 추방</color>
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <span style="color:#ffffff;">ZION ZION II ZION III <b>MSR</b> VEGA ASTRA
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:#ffffff;&quot;>ZION ZION II ZION III <strong>MSR</strong> VEGA ASTRA
 
 한국인 최대보유 시온연합
-<b>Discord</b> (PC, Mobile) : <b>37KaujZtkU</b>
+<strong>Discord</strong> (PC, Mobile) : <strong>37KaujZtkU</strong>
 
 ・ 존중, 배려, 소통
-・ <b>Discord에서</b> 정보공유, 파티원모집, 뉴비지원
-・ 비매너, 장기미접속은 추방</span>
-    </div>
-    {:/}
-    
+・ <strong>Discord에서</strong> 정보공유, 파티원모집, 뉴비지원
+・ 비매너, 장기미접속은 추방</span></body></html>"></iframe>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/rTYsNzFmxx)
 ### Whitestar Bonus ❌

@@ -16,12 +16,7 @@ date: 1713436849
  请去新团德意志阿尔法帝国
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    请去新团德意志阿尔法帝国
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>请去新团德意志阿尔法帝国</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/A.R.F)
 ### Whitestar Bonus ❌

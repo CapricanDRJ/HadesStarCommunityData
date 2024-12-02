@@ -16,12 +16,7 @@ date: 1727648220
  欢迎大家的加入，入团考虑升干事。QQ： 985034854语言文明，不骂人，违者踢！严重者直接上黑名单。白星要求:经常上线，听从指挥。黑名单：［土土 ］不活跃踢，有事请假。欢迎捐旗舰。<size=700><color=red>集团睡觉了
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    欢迎大家的加入，入团考虑升干事。QQ： 985034854语言文明，不骂人，违者踢！严重者直接上黑名单。白星要求:经常上线，听从指挥。黑名单：［土土 ］不活跃踢，有事请假。欢迎捐旗舰。<size=700><span style="color:red;">集团睡觉了
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>欢迎大家的加入，入团考虑升干事。QQ： 985034854语言文明，不骂人，违者踢！严重者直接上黑名单。白星要求:经常上线，听从指挥。黑名单：［土土 ］不活跃踢，有事请假。欢迎捐旗舰。&lt;size=700&gt;<span style=&quot;color:red;&quot;>集团睡觉了</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

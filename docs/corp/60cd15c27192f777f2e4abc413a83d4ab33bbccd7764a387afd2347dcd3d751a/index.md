@@ -19,15 +19,10 @@ date: 1732608552
 <size=73><color=#666>RESISTENTIA IMPLACABILIS
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <b><size=92><span style="color:#9fe5ff;">💫 STONE LEGION 💫</b>
-<span style="color:#fff;">The Legion wants you!
-<size=48><span style="color:#76aabf;">Cᴏɴsᴏʀᴛɪᴜᴍ ᴏғ Mɪɴᴇʀs ᴀɴᴅ Sᴄɪᴇɴᴛɪsᴛs
-<size=73><span style="color:#666;">RESISTENTIA IMPLACABILIS
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><strong>&lt;size=92&gt;<span style=&quot;color:#9fe5ff;&quot;>💫 STONE LEGION 💫</strong>
+<span style=&quot;color:#fff;&quot;>The Legion wants you!
+&lt;size=48&gt;<span style=&quot;color:#76aabf;&quot;>Cᴏɴsᴏʀᴛɪᴜᴍ ᴏғ Mɪɴᴇʀs ᴀɴᴅ Sᴄɪᴇɴᴛɪsᴛs
+&lt;size=73&gt;<span style=&quot;color:#666;&quot;>RESISTENTIA IMPLACABILIS</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/SZYbjxJSf3)
 ### Whitestar Bonus ✅

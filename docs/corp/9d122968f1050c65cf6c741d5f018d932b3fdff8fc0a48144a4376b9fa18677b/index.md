@@ -16,12 +16,7 @@ date: 1731149329
  Arrr! We be a transnational band of pirrates from Andromeda. We play WS to win or loot, pilfer or otherwise plunder for prize money! Join if ye not be appreciatin' gallow humorr of any kind.
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Arrr! We be a transnational band of pirrates from Andromeda. We play WS to win or loot, pilfer or otherwise plunder for prize money! Join if ye not be appreciatin' gallow humorr of any kind.
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Arrr! We be a transnational band of pirrates from Andromeda. We play WS to win or loot, pilfer or otherwise plunder for prize money! Join if ye not be appreciatin' gallow humorr of any kind.</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

@@ -16,12 +16,7 @@ date: 1726142631
  Casual Corp looking for like minded players. Discord is optional. Weekly White Star with searches starting on Wednesdays. We have 1-2 open spots on our White Star group. 
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Casual Corp looking for like minded players. Discord is optional. Weekly White Star with searches starting on Wednesdays. We have 1-2 open spots on our White Star group. 
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Casual Corp looking for like minded players. Discord is optional. Weekly White Star with searches starting on Wednesdays. We have 1-2 open spots on our White Star group. </body></html>"></iframe>
 
 ### [Discord](https://discord.gg/https://discord.gg/XAcW8fk2)
 ### Whitestar Bonus ❌

@@ -16,12 +16,7 @@ date: 1728825426
  ! Corporación Nueva.! Sean bienvenidos. Ayudamos En ER, Reclutando y Preparando a Jugadores para EB, Ayudo con artefactos. "Tácticas Oscuras, Victorias Brillantes." (Grupo de WhatsApp.)
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    ! Corporación Nueva.! Sean bienvenidos. Ayudamos En ER, Reclutando y Preparando a Jugadores para EB, Ayudo con artefactos. "Tácticas Oscuras, Victorias Brillantes." (Grupo de WhatsApp.)
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>! Corporación Nueva.! Sean bienvenidos. Ayudamos En ER, Reclutando y Preparando a Jugadores para EB, Ayudo con artefactos. "Tácticas Oscuras, Victorias Brillantes." (Grupo de WhatsApp.)</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

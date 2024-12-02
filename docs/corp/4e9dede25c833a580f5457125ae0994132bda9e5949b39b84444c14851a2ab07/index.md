@@ -16,12 +16,7 @@ date: 1701262893
  NOTE: the primary active members of this corporation have relocated to Proyectcorp. If you are looking to learn the game please join that corporation. 
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    NOTE: the primary active members of this corporation have relocated to Proyectcorp. If you are looking to learn the game please join that corporation. 
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>NOTE: the primary active members of this corporation have relocated to Proyectcorp. If you are looking to learn the game please join that corporation. </body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

@@ -23,19 +23,14 @@ date: 1711701595
 no i fajnie no i cześć  ^^ witamy!
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Bób, humus, włoszczyzna... BLOK EKIPA
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Bób, humus, włoszczyzna... BLOK EKIPA
 
 -Zabawy na ws
 -Pomagamy sobie wzajemnie
 -Brak spin , nie spamimy
 -Pomoc początkującym
 
-no i fajnie no i cześć  ^^ witamy!
-    </div>
-    {:/}
-    
+no i fajnie no i cześć  ^^ witamy!</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

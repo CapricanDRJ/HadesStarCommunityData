@@ -16,12 +16,7 @@ date: 1714751366
  Aqui llacen las cuentas de los que un dia fueron jugadores apasionados al juego.    12/18/22 -> Actualidad 
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Aqui llacen las cuentas de los que un dia fueron jugadores apasionados al juego.    12/18/22 -> Actualidad 
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Aqui llacen las cuentas de los que un dia fueron jugadores apasionados al juego.    12/18/22 -&gt; Actualidad </body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

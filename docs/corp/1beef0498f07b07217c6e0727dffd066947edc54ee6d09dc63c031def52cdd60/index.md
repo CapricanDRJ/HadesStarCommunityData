@@ -16,12 +16,7 @@ date: 1733142825
  <#f99><size=51>墨痕集团主团,欢迎R1-11玩家加入，活跃玩家可前往<#ccff00>盟团：星落苑</color>，长期开白，欢迎前来参与，常驻福利多多😍</size></color>本团为北极星联盟成员
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <#f99><size=51>墨痕集团主团,欢迎R1-11玩家加入，活跃玩家可前往<#ccff00>盟团：星落苑</span>，长期开白，欢迎前来参与，常驻福利多多😍</size></span>本团为北极星联盟成员
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>&lt;#f99&gt;&lt;size=51&gt;墨痕集团主团,欢迎R1-11玩家加入，活跃玩家可前往&lt;#ccff00&gt;盟团：星落苑</span>，长期开白，欢迎前来参与，常驻福利多多😍&lt;/size&gt;</span>本团为北极星联盟成员</body></html>"></iframe>
 
 ### Whitestar Bonus ✅
 

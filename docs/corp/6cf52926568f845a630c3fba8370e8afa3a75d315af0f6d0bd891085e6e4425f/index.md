@@ -16,12 +16,7 @@ date: 1732558676
  THE CYDONIAN EMPIRE™       Seeking 3 WS pilots, RS7,8,9 arts to new active pilots. 
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    THE CYDONIAN EMPIRE™       Seeking 3 WS pilots, RS7,8,9 arts to new active pilots. 
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>THE CYDONIAN EMPIRE™       Seeking 3 WS pilots, RS7,8,9 arts to new active pilots. </body></html>"></iframe>
 
 ### [Discord](https://discord.gg/xtHV8rkkAT)
 ### Whitestar Bonus ❌

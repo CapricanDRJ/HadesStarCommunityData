@@ -21,17 +21,12 @@ established '18
 
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    ~ casual corp ~
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>~ casual corp ~
 we do WS seriously, but not exactly hardcore
 discord isn't mandatory, but highly encouraged
-WS player: <span style="color:"#ffea4a";">discord required</span>
+WS player: <span style=&quot;color:"#ffea4a";&quot;>discord required</span>
 established '18
-
-    </div>
-    {:/}
-    
+</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

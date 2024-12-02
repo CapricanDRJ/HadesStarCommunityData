@@ -16,12 +16,7 @@ date: 1733027443
  Like the lore of the Phoenix, we arise from the demise of our last Corp. Come and join a fun loving and chill family like team! Welcome to all! 2 white star teams running weekly, compeditave yet fun. 
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Like the lore of the Phoenix, we arise from the demise of our last Corp. Come and join a fun loving and chill family like team! Welcome to all! 2 white star teams running weekly, compeditave yet fun. 
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Like the lore of the Phoenix, we arise from the demise of our last Corp. Come and join a fun loving and chill family like team! Welcome to all! 2 white star teams running weekly, compeditave yet fun. </body></html>"></iframe>
 
 ### [Discord](https://discord.gg/K45fhFgcXv)
 ### Whitestar Bonus ❌

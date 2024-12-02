@@ -16,12 +16,7 @@ date: 1718796685
  本团欢迎各位的到来，本团并无时间限制。国力超过1000或表现好可获得高级成员。黑名单：雪祭启明（因挑逗本集团）能领个神器吗？（背叛本集团）广告：无（有意者私聊本团的地球）
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    本团欢迎各位的到来，本团并无时间限制。国力超过1000或表现好可获得高级成员。黑名单：雪祭启明（因挑逗本集团）能领个神器吗？（背叛本集团）广告：无（有意者私聊本团的地球）
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>本团欢迎各位的到来，本团并无时间限制。国力超过1000或表现好可获得高级成员。黑名单：雪祭启明（因挑逗本集团）能领个神器吗？（背叛本集团）广告：无（有意者私聊本团的地球）</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

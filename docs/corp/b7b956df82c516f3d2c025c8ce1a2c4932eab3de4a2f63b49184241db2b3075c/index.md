@@ -18,14 +18,9 @@ date: 1732659339
 Note- Discord link is updated. Will expire in 7 DAYS
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Friendly and helpful. Open to all. Discord is required. 
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Friendly and helpful. Open to all. Discord is required. 
 
-Note- Discord link is updated. Will expire in 7 DAYS
-    </div>
-    {:/}
-    
+Note- Discord link is updated. Will expire in 7 DAYS</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/CzUVew5w)
 ### Whitestar Bonus ❌

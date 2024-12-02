@@ -22,18 +22,13 @@ Max 7 days of inactivity.
 HS Compendium required to join WS's
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Active Players Only. Don't join if your not going to play. 
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Active Players Only. Don't join if your not going to play. 
 
 REQUIREMENTS:
 English
 Discord  is mandatory (s22bSE6EyU)
 Max 7 days of inactivity.
-HS Compendium required to join WS's
-    </div>
-    {:/}
-    
+HS Compendium required to join WS's</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/s22bSE6EyU)
 ### Whitestar Bonus ❌

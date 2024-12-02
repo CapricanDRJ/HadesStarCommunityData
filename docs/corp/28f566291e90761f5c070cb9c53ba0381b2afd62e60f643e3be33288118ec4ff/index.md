@@ -20,16 +20,11 @@ date: 1700916068
 Discord necessary:hqgVvzTUw3
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <b><size=80><span style="color:#EC13AD;">Better Slogan Needed Lol</span></size></b> 
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><strong>&lt;size=80&gt;<span style=&quot;color:#EC13AD;&quot;>Better Slogan Needed Lol</span>&lt;/size&gt;</strong> 
 
 -Recruiting active, social and mature players
-<span style="color:white;">-Irregular <i>loss farm</i> ws.</span>
-Discord necessary:hqgVvzTUw3
-    </div>
-    {:/}
-    
+<span style=&quot;color:white;&quot;>-Irregular <em>loss farm</em> ws.</span>
+Discord necessary:hqgVvzTUw3</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/hqgVvzTUw3)
 ### Whitestar Bonus ❌

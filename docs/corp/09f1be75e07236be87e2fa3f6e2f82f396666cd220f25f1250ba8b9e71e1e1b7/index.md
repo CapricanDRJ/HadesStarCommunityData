@@ -20,16 +20,11 @@ RS 5-6 see Lacuna X
 RS 7+ see Lacuna Holdings
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <b>Lacuna Group's</b> home for RS 9-12
-<b>Discord required:</b> discord.gg/BFfSkvu
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><strong>Lacuna Group's</strong> home for RS 9-12
+<strong>Discord required:</strong> discord.gg/BFfSkvu
 RS 1-4 see Lacuna Academy
 RS 5-6 see Lacuna X
-RS 7+ see Lacuna Holdings
-    </div>
-    {:/}
-    
+RS 7+ see Lacuna Holdings</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/discord.gg/BFfSkvu)
 ### Whitestar Bonus ❌

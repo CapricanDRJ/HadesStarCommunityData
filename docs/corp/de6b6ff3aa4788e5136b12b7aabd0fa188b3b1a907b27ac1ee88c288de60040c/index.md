@@ -16,12 +16,7 @@ date: 1718903534
  Our discord is Global Elite, members must join if they wish to participate in white stars. Inactivity for 2 weeks will not be tolerated. Those who do not comply with these rules will be kicked
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Our discord is Global Elite, members must join if they wish to participate in white stars. Inactivity for 2 weeks will not be tolerated. Those who do not comply with these rules will be kicked
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Our discord is Global Elite, members must join if they wish to participate in white stars. Inactivity for 2 weeks will not be tolerated. Those who do not comply with these rules will be kicked</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/AtGdvduz)
 ### Whitestar Bonus ❌

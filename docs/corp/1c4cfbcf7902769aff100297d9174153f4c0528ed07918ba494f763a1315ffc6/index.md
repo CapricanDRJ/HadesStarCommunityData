@@ -18,14 +18,9 @@ Discord users join:
 Red_Coat_Mafia 
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <span style="color:"yellow";">Looking for NO DISCORD WS leader.  <span style="color:"white";">No discord required in this corp.  
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:"yellow";&quot;>Looking for NO DISCORD WS leader.  <span style=&quot;color:"white";&quot;>No discord required in this corp.  
 Discord users join:
-Red_Coat_Mafia 
-    </div>
-    {:/}
-    
+Red_Coat_Mafia </body></html>"></iframe>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/MgcvvsKa8q)
 ### Whitestar Bonus ❌

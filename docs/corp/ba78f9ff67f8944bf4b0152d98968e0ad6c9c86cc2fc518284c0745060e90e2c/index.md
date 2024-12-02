@@ -16,12 +16,7 @@ date: 1714044555
  <b>Proud member of the UIH!</b>                                              Discord is mandatory!                                           Visit on Discord to join: discord.gg/vPsNNxs
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <b>Proud member of the UIH!</b>                                              Discord is mandatory!                                           Visit on Discord to join: discord.gg/vPsNNxs
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><strong>Proud member of the UIH!</strong>                                              Discord is mandatory!                                           Visit on Discord to join: discord.gg/vPsNNxs</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/vPsNNxs)
 ### Whitestar Bonus ❌

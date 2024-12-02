@@ -23,19 +23,14 @@ date: 1732179746
 
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    欢迎各位来到绛紫星云的朋友们！
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>欢迎各位来到绛紫星云的朋友们！
 本团为绛紫星的萌新团
 参与红活请前往第四星际
 集团福利极高、社区氛围好，欢迎各位大佬萌新加入绛紫星的大家庭
 禁止骂人、人身攻击
 不定时开白
 想要加入？QQ群号：415822703
-
-    </div>
-    {:/}
-    
+</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

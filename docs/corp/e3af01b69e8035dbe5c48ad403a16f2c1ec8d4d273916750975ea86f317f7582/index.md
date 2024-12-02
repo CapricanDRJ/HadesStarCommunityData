@@ -23,19 +23,14 @@ MAIN=SENIOR MEMBER
 ALT=NO PROMOTION
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Welcome to Rogue dudes
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Welcome to Rogue dudes
 We like active players
 we will help you in need any time ask help of needed
 any level is ok
 Discord:https://discord:gg/HA83rt6E
 
 MAIN=SENIOR MEMBER
-ALT=NO PROMOTION
-    </div>
-    {:/}
-    
+ALT=NO PROMOTION</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

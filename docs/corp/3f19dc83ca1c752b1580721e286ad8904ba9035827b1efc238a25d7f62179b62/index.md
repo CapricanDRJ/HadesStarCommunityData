@@ -21,17 +21,12 @@ Project for Permanent Peace
 <color="red">                                    * 7일 미접 강퇴  </color>
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    동맹 : 혁명군
-<size=100px><b><span style="color:"#90E5CF";">*Core Inf .</span></b></size>
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>동맹 : 혁명군
+&lt;size=100px&gt;<strong><span style=&quot;color:"#90E5CF";&quot;>*Core Inf .</span></strong>&lt;/size&gt;
 - 뉴비, 고인물 환영합니다
 - 매너, 즐겜, 겸손
 Project for Permanent Peace
-<span style="color:"red";">                                    * 7일 미접 강퇴  </span>
-    </div>
-    {:/}
-    
+<span style=&quot;color:"red";&quot;>                                    * 7일 미접 강퇴  </span></body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

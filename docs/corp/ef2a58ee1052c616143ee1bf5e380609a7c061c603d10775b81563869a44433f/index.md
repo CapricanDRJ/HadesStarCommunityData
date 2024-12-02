@@ -20,16 +20,11 @@ date: 1731988934
 Пытаемся почаще ходить к Белым Звёздам. Всем рады!
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <size=100>Наш дискорд:</size>
-<span style="color:"yellow";">https://discord.gg/EVvjFZfGEY</span>
-или ЛС <span style="color:"yellow";">OptiMysticOne#8930</span>
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>&lt;size=100&gt;Наш дискорд:&lt;/size&gt;
+<span style=&quot;color:"yellow";&quot;>https://discord.gg/EVvjFZfGEY</span>
+или ЛС <span style=&quot;color:"yellow";&quot;>OptiMysticOne#8930</span>
 02.11.2022
-Пытаемся почаще ходить к Белым Звёздам. Всем рады!
-    </div>
-    {:/}
-    
+Пытаемся почаще ходить к Белым Звёздам. Всем рады!</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/EVvjFZfGEY)
 ### Whitestar Bonus ❌

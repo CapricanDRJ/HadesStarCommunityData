@@ -16,12 +16,7 @@ date: 1718937188
  <b><color=#00FFFF>Corp. Estelar 2 | AXOLOTLS</color></b><i><br><u><size=35>Entra a nuestro grupo de whatsapp 😁  +56 9 8804 5954
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <b><span style="color:#00FFFF;">Corp. Estelar 2 | AXOLOTLS</span></b><i><br><u><size=35>Entra a nuestro grupo de whatsapp 😁  +56 9 8804 5954
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><strong><span style=&quot;color:#00FFFF;&quot;>Corp. Estelar 2 | AXOLOTLS</span></strong><em>&lt;br&gt;&lt;u&gt;&lt;size=35&gt;Entra a nuestro grupo de whatsapp 😁  +56 9 8804 5954</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/YFqE6eAq43)
 ### Whitestar Bonus ❌

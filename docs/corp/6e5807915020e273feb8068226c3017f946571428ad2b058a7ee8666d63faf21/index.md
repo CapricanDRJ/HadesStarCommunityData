@@ -16,12 +16,7 @@ date: 1733154848
  Recommended to join the corp DISCORD (currently in test period. All members when join our DISCORD while in test period will get a free Officer promote). Red is always SUS!
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Recommended to join the corp DISCORD (currently in test period. All members when join our DISCORD while in test period will get a free Officer promote). Red is always SUS!
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Recommended to join the corp DISCORD (currently in test period. All members when join our DISCORD while in test period will get a free Officer promote). Red is always SUS!</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/btpSMwVJQD)
 ### Whitestar Bonus ❌

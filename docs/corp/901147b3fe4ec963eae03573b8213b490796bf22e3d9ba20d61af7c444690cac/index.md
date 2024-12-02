@@ -16,12 +16,7 @@ date: 1717106731
  ☆Turkish࿌Stars-Elite Turkish Alliance☆Sizi Buraya Getiren Kaderiniz, Burada Tutacak Olan Karakterinizdir...Pasifler gider, aktifler gelir.Rs7 - Rs10Discord zorunludur.
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    ☆Turkish࿌Stars-Elite Turkish Alliance☆Sizi Buraya Getiren Kaderiniz, Burada Tutacak Olan Karakterinizdir...Pasifler gider, aktifler gelir.Rs7 - Rs10Discord zorunludur.
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>☆Turkish࿌Stars-Elite Turkish Alliance☆Sizi Buraya Getiren Kaderiniz, Burada Tutacak Olan Karakterinizdir...Pasifler gider, aktifler gelir.Rs7 - Rs10Discord zorunludur.</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/PWDf6QH)
 ### Whitestar Bonus ❌

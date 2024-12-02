@@ -24,9 +24,7 @@ Please say hello on discord if you are interested in joining us.
 http://discord.gg/7fT6uru
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    We are Aeternae! 
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>We are Aeternae! 
 
 Actives welcome
 We're mostly RS6-10, but welcome everyone 
@@ -34,10 +32,7 @@ Weekly White stars
 
 Please say hello on discord if you are interested in joining us.
 
-http://discord.gg/7fT6uru
-    </div>
-    {:/}
-    
+http://discord.gg/7fT6uru</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

@@ -16,12 +16,7 @@ date: 1726055183
  Member of Hades Federation- GalaxyGirl's orig msg: Anybody can join, but no being mean and excluding... Aires adds: (unless in a blue star :) <-- evil smile White/red star battling galore Dis:Rp9mSNP
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Member of Hades Federation- GalaxyGirl's orig msg: Anybody can join, but no being mean and excluding... Aires adds: (unless in a blue star :) <-- evil smile White/red star battling galore Dis:Rp9mSNP
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Member of Hades Federation- GalaxyGirl's orig msg: Anybody can join, but no being mean and excluding... Aires adds: (unless in a blue star :) &lt;-- evil smile White/red star battling galore Dis:Rp9mSNP</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/rX4AFRfyPX)
 ### Whitestar Bonus ❌

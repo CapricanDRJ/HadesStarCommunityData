@@ -16,12 +16,7 @@ date: 1719390049
  明记五年十二月，余往西湖，大雪三日，湖中人鸟声俱绝。是日更定矣，余拏一小舟，拥毳衣炉火，独往湖心亭看雪，见湖中亭一点，余友人同赏霜叶                 群qq1067984316                白星，尽量好好打，有啥出啥             warframe代肝  星际战甲国际服     玄骸  开图  声望 系列任务等。具体需要可以私聊QQ：1802125881
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    明记五年十二月，余往西湖，大雪三日，湖中人鸟声俱绝。是日更定矣，余拏一小舟，拥毳衣炉火，独往湖心亭看雪，见湖中亭一点，余友人同赏霜叶                 群qq1067984316                白星，尽量好好打，有啥出啥             warframe代肝  星际战甲国际服     玄骸  开图  声望 系列任务等。具体需要可以私聊QQ：1802125881
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>明记五年十二月，余往西湖，大雪三日，湖中人鸟声俱绝。是日更定矣，余拏一小舟，拥毳衣炉火，独往湖心亭看雪，见湖中亭一点，余友人同赏霜叶                 群qq1067984316                白星，尽量好好打，有啥出啥             warframe代肝  星际战甲国际服     玄骸  开图  声望 系列任务等。具体需要可以私聊QQ：1802125881</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/https://discord.gg/yf6cZcBq)
 ### Whitestar Bonus ❌

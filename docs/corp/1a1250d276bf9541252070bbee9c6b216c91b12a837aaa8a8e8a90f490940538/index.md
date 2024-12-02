@@ -16,12 +16,7 @@ date: 1732291241
  En français svp - Entraide, discussions amicales, bonne humeur. Dites bonjour à votre arrivée! Sinon out! En français svp   
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    En français svp - Entraide, discussions amicales, bonne humeur. Dites bonjour à votre arrivée! Sinon out! En français svp   
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>En français svp - Entraide, discussions amicales, bonne humeur. Dites bonjour à votre arrivée! Sinon out! En français svp   </body></html>"></iframe>
 
 ### [Discord](https://discord.gg/JygbSj6XMP)
 ### Whitestar Bonus ❌

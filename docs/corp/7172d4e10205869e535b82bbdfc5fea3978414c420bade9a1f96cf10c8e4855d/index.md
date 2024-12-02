@@ -16,12 +16,7 @@ date: 1703129890
    Korean Corporation 백성규칙 - 백1팀 참여자가 검색시작, 이후 백2팀에서 나머지 인원으로 검색
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-      Korean Corporation 백성규칙 - 백1팀 참여자가 검색시작, 이후 백2팀에서 나머지 인원으로 검색
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>  Korean Corporation 백성규칙 - 백1팀 참여자가 검색시작, 이후 백2팀에서 나머지 인원으로 검색</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

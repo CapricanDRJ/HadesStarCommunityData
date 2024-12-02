@@ -16,12 +16,7 @@ date: 1726576846
  <color=orange>Rogue Corp</color> We are serious but fun..., Join us for weekly <color=white>WS</color> and private <color=red>RS</color> 
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <span style="color:orange;">Rogue Corp</span> We are serious but fun..., Join us for weekly <span style="color:white;">WS</span> and private <span style="color:red;">RS</span> 
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:orange;&quot;>Rogue Corp</span> We are serious but fun..., Join us for weekly <span style=&quot;color:white;&quot;>WS</span> and private <span style=&quot;color:red;&quot;>RS</span> </body></html>"></iframe>
 
 ### [Discord](https://discord.gg/MztVs42x)
 ### Whitestar Bonus ❌

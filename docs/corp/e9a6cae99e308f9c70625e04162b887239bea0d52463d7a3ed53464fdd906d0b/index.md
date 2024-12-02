@@ -16,12 +16,7 @@ date: 1716358005
  Competitive white star corp, back to back WS, daily RS, artifact exchange, <color=red>WS no peace only war :) </color>Recruiting now
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Competitive white star corp, back to back WS, daily RS, artifact exchange, <span style="color:red;">WS no peace only war :) </span>Recruiting now
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Competitive white star corp, back to back WS, daily RS, artifact exchange, <span style=&quot;color:red;&quot;>WS no peace only war :) </span>Recruiting now</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/6m7h2rY)
 ### Whitestar Bonus ❌

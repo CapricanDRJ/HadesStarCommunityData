@@ -16,12 +16,7 @@ date: 1714808450
  Welcome Eternal Empire, laid back take your time.. it's a game right.. I love White Stars, but getting a posse together's like pulling teeth.. so plz, a good show of hands & I'll start one 🖐️
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Welcome Eternal Empire, laid back take your time.. it's a game right.. I love White Stars, but getting a posse together's like pulling teeth.. so plz, a good show of hands & I'll start one 🖐️
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Welcome Eternal Empire, laid back take your time.. it's a game right.. I love White Stars, but getting a posse together's like pulling teeth.. so plz, a good show of hands & I'll start one 🖐️</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

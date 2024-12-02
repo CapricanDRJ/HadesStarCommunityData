@@ -21,17 +21,12 @@ date: 1700612819
 Discord required for WS: pQVwk7J
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    The Crazy Chickens
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>The Crazy Chickens
 
 * We do Red Stars 8-10
 * WS runs weekly 
 * We help new players with tips, tricks and arts if needed
-Discord required for WS: pQVwk7J
-    </div>
-    {:/}
-    
+Discord required for WS: pQVwk7J</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

@@ -18,14 +18,9 @@ date: 1706690027
 ※DIS: dAxzXqc</color> </size></b>
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <b><size=50>※休息中</span> <span style="color:orange;">
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><strong>&lt;size=50&gt;※休息中</span> <span style=&quot;color:orange;&quot;>
 ※Q群:936222291
-※DIS: dAxzXqc</span> </size></b>
-    </div>
-    {:/}
-    
+※DIS: dAxzXqc</span> &lt;/size&gt;</strong></body></html>"></iframe>
 
 ### [Discord](https://discord.gg/dAxzXqc)
 ### Whitestar Bonus ❌

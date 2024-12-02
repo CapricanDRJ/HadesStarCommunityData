@@ -16,12 +16,7 @@ date: 1726651365
  Neu vereint - das Beste aus Sol und Kobol, Cooler Konzern und im Kopf nicht hohl. RR, WZs, Spanferkelweitwurf und wilde Reime, Komm zu uns und spiel nichtmehr alleine!
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Neu vereint - das Beste aus Sol und Kobol, Cooler Konzern und im Kopf nicht hohl. RR, WZs, Spanferkelweitwurf und wilde Reime, Komm zu uns und spiel nichtmehr alleine!
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Neu vereint - das Beste aus Sol und Kobol, Cooler Konzern und im Kopf nicht hohl. RR, WZs, Spanferkelweitwurf und wilde Reime, Komm zu uns und spiel nichtmehr alleine!</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/DYXwRY8AhC)
 ### Whitestar Bonus ❌

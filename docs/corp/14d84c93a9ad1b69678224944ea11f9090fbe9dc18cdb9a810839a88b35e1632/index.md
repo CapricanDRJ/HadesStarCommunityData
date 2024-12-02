@@ -19,15 +19,10 @@ date: 1712178754
 •Discord [PgyhFfhnT3] 
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <size=100><b><span style="color:Red;">Orden Real </span></b></size>
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>&lt;size=100&gt;<strong><span style=&quot;color:Red;&quot;>Orden Real </span></strong>&lt;/size&gt;
 •Estrellas Rojas ✓
 •Estrellas Blancas ✓
-•Discord [PgyhFfhnT3] 
-    </div>
-    {:/}
-    
+•Discord [PgyhFfhnT3] </body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

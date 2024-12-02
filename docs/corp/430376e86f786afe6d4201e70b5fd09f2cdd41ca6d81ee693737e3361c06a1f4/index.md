@@ -16,12 +16,7 @@ date: 1733136513
  <b><size=205><color=#a3e3fb>  LI•KA•PA</color></size></b> <b><size=42><color=#cca721>  Regular WhiteStar • English/Discord Mandatory </color></size></b>
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <b><size=205><span style="color:#a3e3fb;">  LI•KA•PA</span></size></b> <b><size=42><span style="color:#cca721;">  Regular WhiteStar • English/Discord Mandatory </span></size></b>
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><strong>&lt;size=205&gt;<span style=&quot;color:#a3e3fb;&quot;>  LI•KA•PA</span>&lt;/size&gt;</strong> <strong>&lt;size=42&gt;<span style=&quot;color:#cca721;&quot;>  Regular WhiteStar • English/Discord Mandatory </span>&lt;/size&gt;</strong></body></html>"></iframe>
 
 ### [Discord](https://discord.gg/3CE2zAs)
 ### Whitestar Bonus ✅

@@ -16,12 +16,7 @@ date: 1707654185
  BENVENUTI IN ITA! Accademia dell main coorp ITA, RS1-RS6 ed introduzione alle WS.                                  ~Discord OBBLIGATORIO                                  
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    BENVENUTI IN ITA! Accademia dell main coorp ITA, RS1-RS6 ed introduzione alle WS.                                  ~Discord OBBLIGATORIO                                  
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>BENVENUTI IN ITA! Accademia dell main coorp ITA, RS1-RS6 ed introduzione alle WS.                                  ~Discord OBBLIGATORIO                                  </body></html>"></iframe>
 
 ### [Discord](https://discord.gg/BRA4bgRtvh)
 ### Whitestar Bonus ❌

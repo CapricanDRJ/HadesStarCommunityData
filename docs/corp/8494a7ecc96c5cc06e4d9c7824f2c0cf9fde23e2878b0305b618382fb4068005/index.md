@@ -22,18 +22,13 @@ date: 1708606362
 ○公共 公屏 外群隨便鬧我們都不管。</a>
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <span style="color:cyan;"><size=99>E.T.A溫泉開放</size></span>
-群聊可有可無:<span style="color:green;">587560494</span>
-<b>黑色長城</b><size=20>萌新加這個</size>:<span style="color:green;">456873704</span>
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:cyan;&quot;>&lt;size=99&gt;E.T.A溫泉開放&lt;/size&gt;</span>
+群聊可有可無:<span style=&quot;color:green;&quot;>587560494</span>
+<strong>黑色長城</strong>&lt;size=20&gt;萌新加這個&lt;/size&gt;:<span style=&quot;color:green;&quot;>456873704</span>
 攻略放在群裡，萌新不懂可以問
 村規:
-<a>○私人不拉截擊
-○公共 公屏 外群隨便鬧我們都不管。</a>
-    </div>
-    {:/}
-    
+&lt;a&gt;○私人不拉截擊
+○公共 公屏 外群隨便鬧我們都不管。&lt;/a&gt;</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

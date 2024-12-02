@@ -20,16 +20,11 @@ Member of The Rising Imperium
 Mandatory Discord: p3dTaE9
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <b><size=90><span style="color:red;">Welcome to Embers Rising</span></size></b>
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><strong>&lt;size=90&gt;<span style=&quot;color:red;&quot;>Welcome to Embers Rising</span>&lt;/size&gt;</strong>
 A collaborative team focused on competitive WS
 Always Recruiting! RS: 4-10
 Member of The Rising Imperium
-Mandatory Discord: p3dTaE9
-    </div>
-    {:/}
-    
+Mandatory Discord: p3dTaE9</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/p3dTaE9)
 ### Whitestar Bonus ✅

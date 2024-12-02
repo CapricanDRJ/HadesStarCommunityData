@@ -16,12 +16,7 @@ date: 1728391474
  欢迎各位的加入，集团欢迎宇宙里的有志之士。，本团属于发展阶段，让我们这个集团里共同发展，一起强大。合作集团：日月联邦   CommuistUnion短期目标：没有   新手和不经常上线的想加入本团的前往风云分团  黑名单：残影0号  集团提前通知：啥也没有。
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    欢迎各位的加入，集团欢迎宇宙里的有志之士。，本团属于发展阶段，让我们这个集团里共同发展，一起强大。合作集团：日月联邦   CommuistUnion短期目标：没有   新手和不经常上线的想加入本团的前往风云分团  黑名单：残影0号  集团提前通知：啥也没有。
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>欢迎各位的加入，集团欢迎宇宙里的有志之士。，本团属于发展阶段，让我们这个集团里共同发展，一起强大。合作集团：日月联邦   CommuistUnion短期目标：没有   新手和不经常上线的想加入本团的前往风云分团  黑名单：残影0号  集团提前通知：啥也没有。</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

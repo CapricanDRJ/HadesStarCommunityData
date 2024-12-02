@@ -16,12 +16,7 @@ date: 1722331865
  本团为萌新团，大家共同努力携手共进，共同创造。请大家加一下QQ群:792608740
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    本团为萌新团，大家共同努力携手共进，共同创造。请大家加一下QQ群:792608740
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>本团为萌新团，大家共同努力携手共进，共同创造。请大家加一下QQ群:792608740</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

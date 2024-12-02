@@ -19,15 +19,10 @@ date: 1732666549
 OA's Discord: https://discord.gg/2wyNuxb
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <b>The Corp Alliance of Oceania Alliance</b>
-<span style="color:green;">Open to All Levels.</span>
-<span style="color:yellow;">English Speakers, Friendly and Chill.</span>
-OA's Discord: https://discord.gg/2wyNuxb
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><strong>The Corp Alliance of Oceania Alliance</strong>
+<span style=&quot;color:green;&quot;>Open to All Levels.</span>
+<span style=&quot;color:yellow;&quot;>English Speakers, Friendly and Chill.</span>
+OA's Discord: https://discord.gg/2wyNuxb</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/ZhF2Npys6N)
 ### Whitestar Bonus ✅

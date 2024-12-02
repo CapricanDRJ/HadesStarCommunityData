@@ -27,9 +27,7 @@ QQ群号为131920392，
 让我们一起“逐梦龙腾，携手共进”吧！
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-                                 ————公告————
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>                             ————公告————
 本团因人员上学而进入休眠状态，打白
 速率较慢
 集团创始时间：公元后2023年12月18日 19:22:14
@@ -40,10 +38,7 @@ QQ群号为131920392，
 团长微信：15316650176，拉你入群，
 QQ群号为131920392，
 
-让我们一起“逐梦龙腾，携手共进”吧！
-    </div>
-    {:/}
-    
+让我们一起“逐梦龙腾，携手共进”吧！</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/猫娘喵喵喵)
 ### Whitestar Bonus ✅

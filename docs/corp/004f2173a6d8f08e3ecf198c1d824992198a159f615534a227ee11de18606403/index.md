@@ -25,9 +25,7 @@ date: 1707881714
 经常上线的有打白资格</b></color>
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <span style="color:#E57590;"><b>欢迎大佬萌新加入，祝大家早日R11
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:#E57590;&quot;><strong>欢迎大佬萌新加入，祝大家早日R11
 现任首席：zhora
 已死首席：游风追雪
 白星指挥：3Q
@@ -36,10 +34,7 @@ date: 1707881714
 黑名单：星际斗争之星
 常驻人员免费拿神器
 积极推进集团发展者可作为红星指挥
-经常上线的有打白资格</b></span>
-    </div>
-    {:/}
-    
+经常上线的有打白资格</strong></span></body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

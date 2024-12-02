@@ -19,15 +19,10 @@ date: 1725661259
 https://t.me/+k9Bv8nU9QW80NmFi
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Приветствуем всех новопришедших игроков, здесь вас ждут частые бз и помощь новичкам
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Приветствуем всех новопришедших игроков, здесь вас ждут частые бз и помощь новичкам
 
-<span style="color:red;">Наш телеграм</span> 
-https://t.me/+k9Bv8nU9QW80NmFi
-    </div>
-    {:/}
-    
+<span style=&quot;color:red;&quot;>Наш телеграм</span> 
+https://t.me/+k9Bv8nU9QW80NmFi</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

@@ -20,16 +20,11 @@ Beware of Viking
 Discord: sqaDS62zfW
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    It's all about having fun. Experienced players at all levels helping and supporting each other to grow. 
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>It's all about having fun. Experienced players at all levels helping and supporting each other to grow. 
 Multiple daily RS
 Bi-Weekly WS 
 Beware of Viking
-Discord: sqaDS62zfW
-    </div>
-    {:/}
-    
+Discord: sqaDS62zfW</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

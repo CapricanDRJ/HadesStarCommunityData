@@ -19,15 +19,10 @@ date: 1724653949
 分支         ：萌新的收留所2                        
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    这是个不怎么活跃的集团
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>这是个不怎么活跃的集团
 但是这是个摸鱼集团，只要友好相处
 集团QQ群：979969673
-分支         ：萌新的收留所2                        
-    </div>
-    {:/}
-    
+分支         ：萌新的收留所2                        </body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

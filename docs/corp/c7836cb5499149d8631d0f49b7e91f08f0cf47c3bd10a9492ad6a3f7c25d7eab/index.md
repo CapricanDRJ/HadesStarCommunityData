@@ -16,12 +16,7 @@ date: 1732962535
  Wir bieten: gemeinsame rr/drr bis 11, wöchentliche WZ, Spaß, Tipps, Hilfe, Spiele mit Ingamepreisen und einen sehr gut genutzten Discordserver. Anfänger willkommen, wir helfen dir gerne! Okt/24
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Wir bieten: gemeinsame rr/drr bis 11, wöchentliche WZ, Spaß, Tipps, Hilfe, Spiele mit Ingamepreisen und einen sehr gut genutzten Discordserver. Anfänger willkommen, wir helfen dir gerne! Okt/24
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Wir bieten: gemeinsame rr/drr bis 11, wöchentliche WZ, Spaß, Tipps, Hilfe, Spiele mit Ingamepreisen und einen sehr gut genutzten Discordserver. Anfänger willkommen, wir helfen dir gerne! Okt/24</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/a5t3JQP2hM)
 ### Whitestar Bonus ✅

@@ -16,12 +16,7 @@ date: 1733081233
  Hola amigo today top get max 64 all   Freedom doesn't mean you can't go online! ! !
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Hola amigo today top get max 64 all   Freedom doesn't mean you can't go online! ! !
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Hola amigo today top get max 64 all   Freedom doesn't mean you can't go online! ! !</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

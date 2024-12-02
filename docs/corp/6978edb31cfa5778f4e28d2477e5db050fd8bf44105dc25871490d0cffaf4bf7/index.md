@@ -17,13 +17,8 @@ date: 1721018557
 We are active players from around the world who cooperate to build their economies.
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    International Trading Co. is the training/economic focused partner of the "Internationals."
-We are active players from around the world who cooperate to build their economies.
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>International Trading Co. is the training/economic focused partner of the "Internationals."
+We are active players from around the world who cooperate to build their economies.</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/gBPEdZt)
 ### Whitestar Bonus ❌

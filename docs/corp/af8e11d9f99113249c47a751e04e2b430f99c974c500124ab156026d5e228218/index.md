@@ -16,12 +16,7 @@ date: 1725589130
  Open to all, come join and learn or just enjoy playing, no discord necessary
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Open to all, come join and learn or just enjoy playing, no discord necessary
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Open to all, come join and learn or just enjoy playing, no discord necessary</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

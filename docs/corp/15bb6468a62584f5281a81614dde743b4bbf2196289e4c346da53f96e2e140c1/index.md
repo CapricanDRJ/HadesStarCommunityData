@@ -16,12 +16,7 @@ date: 1733124497
  <#007FFF>Вітаю друже! Тут ти знайдеш приємні бонуси та спілкування на додаток до звичайної гри <#FFFF00>   Відсоток до знайдених артефактів, допомога та поради, за бажанням досвід в боях за білу зірку
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <#007FFF>Вітаю друже! Тут ти знайдеш приємні бонуси та спілкування на додаток до звичайної гри <#FFFF00>   Відсоток до знайдених артефактів, допомога та поради, за бажанням досвід в боях за білу зірку
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>&lt;#007FFF&gt;Вітаю друже! Тут ти знайдеш приємні бонуси та спілкування на додаток до звичайної гри &lt;#FFFF00&gt;   Відсоток до знайдених артефактів, допомога та поради, за бажанням досвід в боях за білу зірку</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/discord.com/invite/fMHDk5sQ)
 ### Whitestar Bonus ✅

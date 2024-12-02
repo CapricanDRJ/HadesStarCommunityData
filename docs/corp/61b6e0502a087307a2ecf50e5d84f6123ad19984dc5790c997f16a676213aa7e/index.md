@@ -16,12 +16,7 @@ date: 1728735880
  集团公告：1.本集团各代团长均为中国人，团员大部分为中国人，请尽量使用中文交流。2.大号、小号等欢迎加入本集团，但僵尸号请自行离开。3.本集团会经常激活白星，请各位团员积极参加白星任务，不接受和谈。最后，祝您在本集团生活、社交等方面相处快乐。[第1代团长（白羽之下）纪念日：公历2023年12月4日    盟团：四季长春 黑名单：星际集团（入团一月以上找灰尘领取福利：6个r6（自定义））
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    集团公告：1.本集团各代团长均为中国人，团员大部分为中国人，请尽量使用中文交流。2.大号、小号等欢迎加入本集团，但僵尸号请自行离开。3.本集团会经常激活白星，请各位团员积极参加白星任务，不接受和谈。最后，祝您在本集团生活、社交等方面相处快乐。[第1代团长（白羽之下）纪念日：公历2023年12月4日    盟团：四季长春 黑名单：星际集团（入团一月以上找灰尘领取福利：6个r6（自定义））
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>集团公告：1.本集团各代团长均为中国人，团员大部分为中国人，请尽量使用中文交流。2.大号、小号等欢迎加入本集团，但僵尸号请自行离开。3.本集团会经常激活白星，请各位团员积极参加白星任务，不接受和谈。最后，祝您在本集团生活、社交等方面相处快乐。[第1代团长（白羽之下）纪念日：公历2023年12月4日    盟团：四季长春 黑名单：星际集团（入团一月以上找灰尘领取福利：6个r6（自定义））</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

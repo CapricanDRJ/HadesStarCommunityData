@@ -24,9 +24,7 @@ date: 1732836340
 指定分团：绛紫星云
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    冥散青云紫雾，淡盘瑞霭绛烟。
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>冥散青云紫雾，淡盘瑞霭绛烟。
 高塔穿空似剑，朴舰灿雪铺霜。
 青史义烈此相聚，千古万山社稷安。
 筑紫晶塔铭聚义，镌缎蓝表振羽翰。
@@ -34,10 +32,7 @@ date: 1732836340
 矢言一德情坚石，歃血同心义断金。
 艨艟战舰环皎日，卷云铁壁布青冥。
 星海似尽无涯路，碧霄唯见绛紫星。 群号：415822703
-指定分团：绛紫星云
-    </div>
-    {:/}
-    
+指定分团：绛紫星云</body></html>"></iframe>
 
 ### Whitestar Bonus ✅
 

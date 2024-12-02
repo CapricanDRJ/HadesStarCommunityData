@@ -16,12 +16,7 @@ date: 1732747078
  Игра в удовольствие! Знания приветствуются, если нет.... то не беда.... познаём космос вместе!!! ***ЗАПУСК СОБЫТИЯ БЕЛАЯ ЗВЕЗДА 🔯 КАЖДУЮ ПЯТНИЦУ В 23:00 ПО МСК***
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Игра в удовольствие! Знания приветствуются, если нет.... то не беда.... познаём космос вместе!!! ***ЗАПУСК СОБЫТИЯ БЕЛАЯ ЗВЕЗДА 🔯 КАЖДУЮ ПЯТНИЦУ В 23:00 ПО МСК***
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Игра в удовольствие! Знания приветствуются, если нет.... то не беда.... познаём космос вместе!!! ***ЗАПУСК СОБЫТИЯ БЕЛАЯ ЗВЕЗДА 🔯 КАЖДУЮ ПЯТНИЦУ В 23:00 ПО МСК***</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/VmBbr8sy)
 ### Whitestar Bonus ❌

@@ -19,15 +19,10 @@ date: 1732720029
 <color=#fb3>Bring your crew and join us for 
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <size=120><span style="color:#813;"><b>RΣD <span style="color:#ddd;">DΛWN
-<size=60><span style="color:#c23;">Red Star Event Rank #58
-<span style="color:#e50;">Get <span style="color:#9ec;">500 Crystals</span> every month!
-<span style="color:#fb3;">Bring your crew and join us for 
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>&lt;size=120&gt;<span style=&quot;color:#813;&quot;><strong>RΣD <span style=&quot;color:#ddd;&quot;>DΛWN
+&lt;size=60&gt;<span style=&quot;color:#c23;&quot;>Red Star Event Rank #58
+<span style=&quot;color:#e50;&quot;>Get <span style=&quot;color:#9ec;&quot;>500 Crystals</span> every month!
+<span style=&quot;color:#fb3;&quot;>Bring your crew and join us for </body></html>"></iframe>
 
 ### [Discord](https://discord.gg/HAUXPBta)
 ### Whitestar Bonus ✅

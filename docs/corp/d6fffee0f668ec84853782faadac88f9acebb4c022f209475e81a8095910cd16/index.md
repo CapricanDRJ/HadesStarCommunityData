@@ -16,12 +16,7 @@ date: 1728573607
  欢迎任何人。Anyone is welcome.                         如果发现乱踢人 、骂人就踢。If you find a curse, kick it out.排名前五干事。Top five officers.排名前10高员。Top 10 ranking members.                     首席First Officer：狂妄的神（会离线）
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    欢迎任何人。Anyone is welcome.                         如果发现乱踢人 、骂人就踢。If you find a curse, kick it out.排名前五干事。Top five officers.排名前10高员。Top 10 ranking members.                     首席First Officer：狂妄的神（会离线）
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>欢迎任何人。Anyone is welcome.                         如果发现乱踢人 、骂人就踢。If you find a curse, kick it out.排名前五干事。Top five officers.排名前10高员。Top 10 ranking members.                     首席First Officer：狂妄的神（会离线）</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

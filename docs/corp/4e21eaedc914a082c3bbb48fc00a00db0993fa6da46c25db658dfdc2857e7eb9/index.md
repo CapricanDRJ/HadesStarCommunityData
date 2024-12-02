@@ -24,9 +24,7 @@ date: 1702847100
 黑名单：太空玩家，家园星系（不要脸的天天来）
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <b>创始人：金gold</b>
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><strong>创始人：金gold</strong>
 主团：元素联邦
 分团：元素联邦，元素学院，边际的文明，边缘世界
 本团为太阳系联邦分团，欢迎大家加入
@@ -34,10 +32,7 @@ date: 1702847100
 权限分级：25级以上升为高级成员，对集团有较大贡献升干事，不管等级
 三天清一次小红点，为白星有更多人参加，可请假，但关白扫，回来时开白扫
 请假人：孙笑川，小草，Eli Clark，浮云猫猫，北冥雪
-黑名单：太空玩家，家园星系（不要脸的天天来）
-    </div>
-    {:/}
-    
+黑名单：太空玩家，家园星系（不要脸的天天来）</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/hello)
 ### Whitestar Bonus ❌

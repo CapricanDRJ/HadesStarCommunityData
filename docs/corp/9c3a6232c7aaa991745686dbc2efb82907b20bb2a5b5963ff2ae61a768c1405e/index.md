@@ -16,12 +16,7 @@ date: 1714979423
  rookie or veteran we are all learning this new update together. we are open to any New Comers. Now's the Time to join and feel close to equal. most importantly we're here to have some fun.
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    rookie or veteran we are all learning this new update together. we are open to any New Comers. Now's the Time to join and feel close to equal. most importantly we're here to have some fun.
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>rookie or veteran we are all learning this new update together. we are open to any New Comers. Now's the Time to join and feel close to equal. most importantly we're here to have some fun.</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

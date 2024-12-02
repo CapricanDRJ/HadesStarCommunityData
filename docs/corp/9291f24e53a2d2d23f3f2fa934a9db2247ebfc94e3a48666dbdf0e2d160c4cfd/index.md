@@ -21,17 +21,12 @@ Discord: discord.gg/aWj7XRq
 Мы в ТГ https://t.me/HS_CCCP
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <b><span style="color:"red";">СОЮЗ НЕРУШИМЫЙ
-</span></b>Активное участие на БЗ и КЗ 3-10.
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><strong><span style=&quot;color:"red";&quot;>СОЮЗ НЕРУШИМЫЙ
+</span></strong>Активное участие на БЗ и КЗ 3-10.
 Discord: discord.gg/aWj7XRq
 КРЕПИСЬ И ПРЕВОЗМОГАЙ. 
 Во время БЗ приём ограничен
-Мы в ТГ https://t.me/HS_CCCP
-    </div>
-    {:/}
-    
+Мы в ТГ https://t.me/HS_CCCP</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/aWj7XRq)
 ### Whitestar Bonus ✅

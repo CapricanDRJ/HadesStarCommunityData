@@ -16,12 +16,7 @@ date: 1730381858
  星光万丈星际集团分团 我们专门招募可爱的萌新😋现在加入以后就是元老了👀真的不来试试嘛       注意：集团会定期清人，被清者可通过邀请重新回家    Q群852308177加群晋升并有萌新福利                         <size=70><color=red>暂时封闭
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    星光万丈星际集团分团 我们专门招募可爱的萌新😋现在加入以后就是元老了👀真的不来试试嘛       注意：集团会定期清人，被清者可通过邀请重新回家    Q群852308177加群晋升并有萌新福利                         <size=70><span style="color:red;">暂时封闭
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>星光万丈星际集团分团 我们专门招募可爱的萌新😋现在加入以后就是元老了👀真的不来试试嘛       注意：集团会定期清人，被清者可通过邀请重新回家    Q群852308177加群晋升并有萌新福利                         &lt;size=70&gt;<span style=&quot;color:red;&quot;>暂时封闭</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

@@ -20,16 +20,11 @@ Discord :
 <color=orange>https://discord.gg/MCDb2Mt</color>
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Bersatu kita teguh,
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Bersatu kita teguh,
 Bercerai ya kawin lagi.
 
 Discord :
-<span style="color:orange;">https://discord.gg/MCDb2Mt</span>
-    </div>
-    {:/}
-    
+<span style=&quot;color:orange;&quot;>https://discord.gg/MCDb2Mt</span></body></html>"></iframe>
 
 ### [Discord](https://discord.gg/https://discord.gg/2yTUSx2x)
 ### Whitestar Bonus ❌

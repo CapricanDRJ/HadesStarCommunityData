@@ -22,18 +22,13 @@ CONTACTO:
 - D3U3oPzVBrzCl5NNsaepfL (WhatsApp)
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Bienvenidos.
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Bienvenidos.
 
 Somos un clan que busca jugadores activos que quieran progresar. Ayudamos con artefactos, estrellas rojas e hidrógeno.
 
 CONTACTO:
 - C8jvrsR (Discord)
-- D3U3oPzVBrzCl5NNsaepfL (WhatsApp)
-    </div>
-    {:/}
-    
+- D3U3oPzVBrzCl5NNsaepfL (WhatsApp)</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

@@ -18,14 +18,9 @@ Anfängerfreundlicher Stern sucht höfliche und redselige Piloten zum davonflieg
 We are friendly international corp. English and/or German prefered, but other languages tolerated. 
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    ♡Welcome all♡
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>♡Welcome all♡
 Anfängerfreundlicher Stern sucht höfliche und redselige Piloten zum davonfliegen.
-We are friendly international corp. English and/or German prefered, but other languages tolerated. 
-    </div>
-    {:/}
-    
+We are friendly international corp. English and/or German prefered, but other languages tolerated. </body></html>"></iframe>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/38aedttX)
 ### Whitestar Bonus ❌

@@ -19,15 +19,10 @@ date: 1713871648
 QQ : 763870092
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    本盟氣氛輕鬆  守望相助  佛道肝皆可  盟主神器(r2~r8)天天送  歡迎有興趣的玩家加入 ^~^
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>本盟氣氛輕鬆  守望相助  佛道肝皆可  盟主神器(r2~r8)天天送  歡迎有興趣的玩家加入 ^~^
 另外招有指揮公會戰經驗/興趣的玩家
 7天不上線者  將被勸退  敬請留意！
-QQ : 763870092
-    </div>
-    {:/}
-    
+QQ : 763870092</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

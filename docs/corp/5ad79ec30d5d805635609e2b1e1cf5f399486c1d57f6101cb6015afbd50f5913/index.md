@@ -16,12 +16,7 @@ date: 1732266294
  Милости Просим, все желающие особенно вновь прибывшие люди в игру, будем вместе розвиваться и обязательная помощь друг другу, мы вас ждём! Коли бз не приймаємо гравців бажаючих вступити до нас 
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Милости Просим, все желающие особенно вновь прибывшие люди в игру, будем вместе розвиваться и обязательная помощь друг другу, мы вас ждём! Коли бз не приймаємо гравців бажаючих вступити до нас 
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Милости Просим, все желающие особенно вновь прибывшие люди в игру, будем вместе розвиваться и обязательная помощь друг другу, мы вас ждём! Коли бз не приймаємо гравців бажаючих вступити до нас </body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

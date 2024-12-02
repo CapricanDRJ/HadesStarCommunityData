@@ -23,19 +23,14 @@ discord：https://discord.gg/eDKGV87N
 集团分盟：蓝色星系一号分盟
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    志同道合的兄弟可以一起来奋斗。相信自己，有志者事竟成。同时欢迎各位咸鱼种田者到来。
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>志同道合的兄弟可以一起来奋斗。相信自己，有志者事竟成。同时欢迎各位咸鱼种田者到来。
 长期招收活跃玩家，有意培养萌新，不间断白星欢迎各位前来参与
 
 
 集团交流QQ群：446097226
-白星作战群（打白星必加）：<span style="color:'#FF0000';">832811269</span>
+白星作战群（打白星必加）：<span style=&quot;color:'#FF0000';&quot;>832811269</span>
 discord：https://discord.gg/eDKGV87N
-集团分盟：蓝色星系一号分盟
-    </div>
-    {:/}
-    
+集团分盟：蓝色星系一号分盟</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

@@ -17,13 +17,8 @@ date: 1702742189
 Supportive community. Regular WS and RS. If u join us for WS, discord is required.  https://discord.gg/wVGNEvv
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <size=85><span style="color:#ff8833;">Free Space</span> <span style="color:#48ff33;"><b>Alliance</b></span></size>
-Supportive community. Regular WS and RS. If u join us for WS, discord is required.  https://discord.gg/wVGNEvv
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>&lt;size=85&gt;<span style=&quot;color:#ff8833;&quot;>Free Space</span> <span style=&quot;color:#48ff33;&quot;><strong>Alliance</strong></span>&lt;/size&gt;
+Supportive community. Regular WS and RS. If u join us for WS, discord is required.  https://discord.gg/wVGNEvv</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/wVGNEvv)
 ### Whitestar Bonus ❌

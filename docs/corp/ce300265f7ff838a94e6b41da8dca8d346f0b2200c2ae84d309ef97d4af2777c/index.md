@@ -17,13 +17,8 @@ date: 1722686194
 欢迎大家多多进行各种等级的私人红星活动，也欢迎新来的朋友多多发言。
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    这里是TUSFO星舰联邦的分集团，搜索TUSFO即可进入总集团，QQ群是1075124267，欢迎新朋友一起进来讨论啊，如果有事不能玩的（即咸鱼）也可以去总集团挂号。
-欢迎大家多多进行各种等级的私人红星活动，也欢迎新来的朋友多多发言。
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>这里是TUSFO星舰联邦的分集团，搜索TUSFO即可进入总集团，QQ群是1075124267，欢迎新朋友一起进来讨论啊，如果有事不能玩的（即咸鱼）也可以去总集团挂号。
+欢迎大家多多进行各种等级的私人红星活动，也欢迎新来的朋友多多发言。</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

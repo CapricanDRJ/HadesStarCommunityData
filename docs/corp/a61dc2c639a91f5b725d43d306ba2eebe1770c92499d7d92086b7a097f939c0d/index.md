@@ -16,12 +16,7 @@ date: 1732320093
  Свободная игра - свободный полёт. БЗ 1-2 раза в месяц, взаимопомощь на кз 2-8. Чат в телеге...
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Свободная игра - свободный полёт. БЗ 1-2 раза в месяц, взаимопомощь на кз 2-8. Чат в телеге...
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Свободная игра - свободный полёт. БЗ 1-2 раза в месяц, взаимопомощь на кз 2-8. Чат в телеге...</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/Дискорда нет)
 ### Whitestar Bonus ❌

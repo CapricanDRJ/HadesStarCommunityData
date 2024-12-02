@@ -16,12 +16,7 @@ date: 1718444485
  자랑스러운 대한민국 모두 대 환영합니다  오픈 방은:어둠의 성운:korea
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    자랑스러운 대한민국 모두 대 환영합니다  오픈 방은:어둠의 성운:korea
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>자랑스러운 대한민국 모두 대 환영합니다  오픈 방은:어둠의 성운:korea</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

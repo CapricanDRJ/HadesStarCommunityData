@@ -16,12 +16,7 @@ date: 1716990439
  ゆっくりとやりたい方向けのコーポレーションです。現在、試験的にホワイトスターを行っています。
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    ゆっくりとやりたい方向けのコーポレーションです。現在、試験的にホワイトスターを行っています。
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>ゆっくりとやりたい方向けのコーポレーションです。現在、試験的にホワイトスターを行っています。</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

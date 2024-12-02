@@ -22,18 +22,13 @@ La naissance d'un empire ! ❦︎
 https://discord.gg/AA2vSmDw ☠︎
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Vous êtes là pour grandir. ✯
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Vous êtes là pour grandir. ✯
 
 dialogue, écoute et persévérance sont là clé. シ︎
 
 La naissance d'un empire ! ❦︎
 
-https://discord.gg/AA2vSmDw ☠︎
-    </div>
-    {:/}
-    
+https://discord.gg/AA2vSmDw ☠︎</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

@@ -20,16 +20,11 @@ WS HL hebdo
 https://discord.gg/wZcGGNZ
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    L'appel du sang, du butin, d'une taverne ou d'un bordel est plus fort que tout pour toi?
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>L'appel du sang, du butin, d'une taverne ou d'un bordel est plus fort que tout pour toi?
 Sois le bienvenu chez les Pirates!!!!
 RS7 à RS11 full coop
 WS HL hebdo
-https://discord.gg/wZcGGNZ
-    </div>
-    {:/}
-    
+https://discord.gg/wZcGGNZ</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/wZcGGNZ)
 ### Whitestar Bonus ❌

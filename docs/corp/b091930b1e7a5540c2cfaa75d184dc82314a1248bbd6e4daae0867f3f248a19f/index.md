@@ -21,17 +21,12 @@ date: 1733111578
 </i></color>
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <span style="color:white;"><i>✴ КЗ 7-10 
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:white;&quot;><em>✴ КЗ 7-10 
 ✴ Еженедельное БЗ 
 ✴ Слаженный коллектив
 
 В наличии также Discord и Telegram
-</i></span>
-    </div>
-    {:/}
-    
+</em></span></body></html>"></iframe>
 
 ### [Discord](https://discord.gg/YVP3QdjE3d)
 ### Whitestar Bonus ❌

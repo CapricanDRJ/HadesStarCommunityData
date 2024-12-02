@@ -16,12 +16,7 @@ date: 1732896432
  Добро пожаловать! Активно развиваемся и помогаем с кз и советами,регулярно играем бз,общаемся. Присоединяйтесь к нашей большой семье 😄. Телеграм: https://t.me/FreeFleetHadesStar
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Добро пожаловать! Активно развиваемся и помогаем с кз и советами,регулярно играем бз,общаемся. Присоединяйтесь к нашей большой семье 😄. Телеграм: https://t.me/FreeFleetHadesStar
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Добро пожаловать! Активно развиваемся и помогаем с кз и советами,регулярно играем бз,общаемся. Присоединяйтесь к нашей большой семье 😄. Телеграм: https://t.me/FreeFleetHadesStar</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/6zQ97TaFpS)
 ### Whitestar Bonus ❌

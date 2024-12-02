@@ -16,12 +16,7 @@ date: 1715385150
  Dusting off the Flagship and rebuilding a community. A mix of old-timers and new players, come and help us build Foreshadowing 2.0
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Dusting off the Flagship and rebuilding a community. A mix of old-timers and new players, come and help us build Foreshadowing 2.0
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Dusting off the Flagship and rebuilding a community. A mix of old-timers and new players, come and help us build Foreshadowing 2.0</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/3vcpUw33ew)
 ### Whitestar Bonus ❌

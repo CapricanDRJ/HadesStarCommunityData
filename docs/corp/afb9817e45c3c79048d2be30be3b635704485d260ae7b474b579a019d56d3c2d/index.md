@@ -16,12 +16,7 @@ date: 1723819115
  <color=red>宇宙银河帝国欢迎您！本团为北极星联盟集团，本团对所有人友好，每周一白，<color=orange>可供R1～R9，尽量每天上线；较活跃可升高成，7天不上线起飞，等级超过85级升干事 大小号同级。<color=red>大家请文明用语。<color=green>加入本团的人请加企鹅群834525007<color=yellow>不活跃不参与白星<size=500>捐旗舰二
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <span style="color:red;">宇宙银河帝国欢迎您！本团为北极星联盟集团，本团对所有人友好，每周一白，<span style="color:orange;">可供R1～R9，尽量每天上线；较活跃可升高成，7天不上线起飞，等级超过85级升干事 大小号同级。<span style="color:red;">大家请文明用语。<span style="color:green;">加入本团的人请加企鹅群834525007<span style="color:yellow;">不活跃不参与白星<size=500>捐旗舰二
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:red;&quot;>宇宙银河帝国欢迎您！本团为北极星联盟集团，本团对所有人友好，每周一白，<span style=&quot;color:orange;&quot;>可供R1～R9，尽量每天上线；较活跃可升高成，7天不上线起飞，等级超过85级升干事 大小号同级。<span style=&quot;color:red;&quot;>大家请文明用语。<span style=&quot;color:green;&quot;>加入本团的人请加企鹅群834525007<span style=&quot;color:yellow;&quot;>不活跃不参与白星&lt;size=500&gt;捐旗舰二</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

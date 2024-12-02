@@ -18,14 +18,9 @@ date: 1732523514
 https://t.me/RSeventHS
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <span style="color:#72bf47;"><b>RS EVENT RANK 2</b></span>
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:#72bf47;&quot;><strong>RS EVENT RANK 2</strong></span>
 На базе корпорации RUS проводится ивент сборной командой с участием игроков ру-сегмента. Присоединяйся 👉
-https://t.me/RSeventHS
-    </div>
-    {:/}
-    
+https://t.me/RSeventHS</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

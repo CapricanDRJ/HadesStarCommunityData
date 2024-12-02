@@ -16,12 +16,7 @@ date: 1723740983
  <color=red>欢迎炸钱的大哥来集团捐钱</color>一槽白星席位稳定Make Apocalypse Great Again!!!
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <span style="color:red;">欢迎炸钱的大哥来集团捐钱</span>一槽白星席位稳定Make Apocalypse Great Again!!!
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:red;&quot;>欢迎炸钱的大哥来集团捐钱</span>一槽白星席位稳定Make Apocalypse Great Again!!!</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

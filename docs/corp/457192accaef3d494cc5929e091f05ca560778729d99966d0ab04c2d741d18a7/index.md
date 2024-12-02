@@ -19,15 +19,10 @@ date: 1701058584
 если ты безработный и не знаешь чем заняться, то мы всегда рады таким активным игрокам, как ты)
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    обновляем коллектив. 
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>обновляем коллектив. 
 нужну новые люди с желанием ходить на БЗ.
 наличие ватсапа приветствуется 
-если ты безработный и не знаешь чем заняться, то мы всегда рады таким активным игрокам, как ты)
-    </div>
-    {:/}
-    
+если ты безработный и не знаешь чем заняться, то мы всегда рады таким активным игрокам, как ты)</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

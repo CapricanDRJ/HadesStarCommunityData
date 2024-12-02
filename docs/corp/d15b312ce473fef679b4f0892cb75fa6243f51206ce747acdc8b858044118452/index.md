@@ -23,19 +23,14 @@ CONDICIONES:
 -Ayudar con el reclutamiento diario
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <span style="color:"Red;">EB SEMANAL
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:"Red;&quot;>EB SEMANAL
 
 EN MEMORIA DE SAVAAL </span>
 
 CONDICIONES:
 -Ser bueno con los integrantes.
 -No es necesario tener tanta influencia para entrar.
--Ayudar con el reclutamiento diario
-    </div>
-    {:/}
-    
+-Ayudar con el reclutamiento diario</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

@@ -23,19 +23,14 @@ date: 1733153946
 <#EE4B2B>不欢迎全服公敌瓜老板</color>
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    本集团为<size=150>新星团</size>第一分团
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>本集团为&lt;size=150&gt;新星团&lt;/size&gt;第一分团
 旗下分团：
-<#FAD201>·新?的星际集团?
+&lt;#FAD201&gt;·新?的星际集团?
 ·探索舰队
 ·特拉斯丁第二共和国</span>
-<#86cecb>常驻可加集团QQ群815066596</span>
-<#FAD201>欢迎各路大佬与萌新加入，定期打白</span>
-<#EE4B2B>不欢迎全服公敌瓜老板</span>
-    </div>
-    {:/}
-    
+&lt;#86cecb&gt;常驻可加集团QQ群815066596</span>
+&lt;#FAD201&gt;欢迎各路大佬与萌新加入，定期打白</span>
+&lt;#EE4B2B&gt;不欢迎全服公敌瓜老板</span></body></html>"></iframe>
 
 ### Whitestar Bonus ✅
 

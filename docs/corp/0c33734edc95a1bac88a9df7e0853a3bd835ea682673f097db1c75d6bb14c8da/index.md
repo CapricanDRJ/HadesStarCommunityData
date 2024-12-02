@@ -21,17 +21,12 @@ discord obligatory
 https://discord.gg/bAAYCqG2cE
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    IA1
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>IA1
 
 A highly cooperative and competitive organization, bent on building the most elite force and the conquest of the known and unknown galaxy
 
 discord obligatory
-https://discord.gg/bAAYCqG2cE
-    </div>
-    {:/}
-    
+https://discord.gg/bAAYCqG2cE</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/bAAYCqG2cE)
 ### Whitestar Bonus ❌

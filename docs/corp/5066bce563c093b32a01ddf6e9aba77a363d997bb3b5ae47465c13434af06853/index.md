@@ -19,15 +19,10 @@ Corp:Bien Suprême/Guilde Richnou
 discord: 4BhWJjk
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Chevalier de l'espace,rejoins nous dans la conquête de la galaxie d'Hadès. Entraide,tuto et bonne humeur. Ws régulière.Rs6->Rs10
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Chevalier de l'espace,rejoins nous dans la conquête de la galaxie d'Hadès. Entraide,tuto et bonne humeur. Ws régulière.Rs6-&gt;Rs10
 Conglomérat:G&B
 Corp:Bien Suprême/Guilde Richnou
-discord: 4BhWJjk
-    </div>
-    {:/}
-    
+discord: 4BhWJjk</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

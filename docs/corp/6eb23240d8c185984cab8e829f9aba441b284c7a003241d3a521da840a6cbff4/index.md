@@ -23,19 +23,14 @@ date: 1716034724
 卖七级神器可以找独狼编号：VXD-6761
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    这里是企鹅帝国第一分团 加入本团后禁止不留言就离开 上学日不打白 欢迎大家加入                           
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>这里是企鹅帝国第一分团 加入本团后禁止不留言就离开 上学日不打白 欢迎大家加入                           
 首席干事：帝企鹅（小号）（企鹅帝国）
 副首席：JUG-6353（未在线）
 公会QQ群：680235823
 首席的B站号：Penguin帝企鹅
 黑名单：家园星系（偷神器）
 旗舰不要捐钱！(敌人强大）
-卖七级神器可以找独狼编号：VXD-6761
-    </div>
-    {:/}
-    
+卖七级神器可以找独狼编号：VXD-6761</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

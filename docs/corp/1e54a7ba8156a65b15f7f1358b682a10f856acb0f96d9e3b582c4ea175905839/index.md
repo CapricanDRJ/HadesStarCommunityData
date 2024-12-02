@@ -16,12 +16,7 @@ date: 1732647918
  Red stars to RS10.  Weekly WS!  Join for the bonus; stay to help make it a bigger bonus! 🤘🏼In Alliance with Titans & Terror. visit Hadestitans.com
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Red stars to RS10.  Weekly WS!  Join for the bonus; stay to help make it a bigger bonus! 🤘🏼In Alliance with Titans & Terror. visit Hadestitans.com
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Red stars to RS10.  Weekly WS!  Join for the bonus; stay to help make it a bigger bonus! 🤘🏼In Alliance with Titans & Terror. visit Hadestitans.com</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/QhMTEDb8zt)
 ### Whitestar Bonus ✅

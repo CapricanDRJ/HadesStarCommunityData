@@ -26,22 +26,17 @@ https://discord.gg/gBFFE5x
 od-family.com
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Casual and at times Serious WS Corp 
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Casual and at times Serious WS Corp 
 Member of the
-<b>OntarioDynasty</b> Family.
+<strong>OntarioDynasty</strong> Family.
 RS 11 to RS 8
 
 
-Join our discord <b>first</b> if you want to join our corp.
+Join our discord <strong>first</strong> if you want to join our corp.
 
 https://discord.gg/gBFFE5x
 
-od-family.com
-    </div>
-    {:/}
-    
+od-family.com</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/gBFFE5x)
 ### Whitestar Bonus ❌

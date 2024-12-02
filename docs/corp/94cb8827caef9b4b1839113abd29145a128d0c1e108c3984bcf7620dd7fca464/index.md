@@ -22,18 +22,13 @@ Discord is mandatory:
 <color=yellow>discord.gg/vPsNNxs</color>
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <span style="color:yellow;">Proud member of United Industries of Hades (UIH)
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:yellow;&quot;>Proud member of United Industries of Hades (UIH)
 </span>spanning multiple corps
 
 Outland welcomes our newest recruits!
 
 Discord is mandatory:
-<span style="color:yellow;">discord.gg/vPsNNxs</span>
-    </div>
-    {:/}
-    
+<span style=&quot;color:yellow;&quot;>discord.gg/vPsNNxs</span></body></html>"></iframe>
 
 ### [Discord](https://discord.gg/vPsNNxs)
 ### Whitestar Bonus ❌

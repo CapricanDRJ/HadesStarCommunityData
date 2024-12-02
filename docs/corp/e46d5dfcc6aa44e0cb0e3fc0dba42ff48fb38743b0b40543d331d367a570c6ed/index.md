@@ -16,12 +16,7 @@ date: 1708077481
  who dealt it if you haven't smelt it?
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    who dealt it if you haven't smelt it?
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>who dealt it if you haven't smelt it?</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

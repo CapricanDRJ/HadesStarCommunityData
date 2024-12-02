@@ -16,12 +16,7 @@ date: 1724436985
  Для Всех желающих. Без политики и оскорбления, помощь новичкам, артефакты с 1-по-6 в помощь,походы в БЗ
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Для Всех желающих. Без политики и оскорбления, помощь новичкам, артефакты с 1-по-6 в помощь,походы в БЗ
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Для Всех желающих. Без политики и оскорбления, помощь новичкам, артефакты с 1-по-6 в помощь,походы в БЗ</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

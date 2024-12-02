@@ -16,12 +16,7 @@ date: 1700618828
  chill group of dudes, trying to revive after the disastrous game update. training and advice for new players, WS once we have numbers for experiemced players.
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    chill group of dudes, trying to revive after the disastrous game update. training and advice for new players, WS once we have numbers for experiemced players.
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>chill group of dudes, trying to revive after the disastrous game update. training and advice for new players, WS once we have numbers for experiemced players.</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

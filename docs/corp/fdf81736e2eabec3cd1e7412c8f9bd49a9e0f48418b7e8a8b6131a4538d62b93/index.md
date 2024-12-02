@@ -17,13 +17,8 @@ date: 1720668745
 Join us on Discord for RS, WS, chat and other active members: mDEUrs8
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    A constituent of the The Watchers' family. This corp is mostly overflow and retirees. 
-Join us on Discord for RS, WS, chat and other active members: mDEUrs8
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>A constituent of the The Watchers' family. This corp is mostly overflow and retirees. 
+Join us on Discord for RS, WS, chat and other active members: mDEUrs8</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

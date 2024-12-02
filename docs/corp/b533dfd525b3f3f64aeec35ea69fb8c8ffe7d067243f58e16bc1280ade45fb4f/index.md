@@ -23,19 +23,14 @@ Beginners welcome, we support you to grow.
 https://discord.gg/WKdC8XW
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Welcome to Star Dust.
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Welcome to Star Dust.
 
 We are an active group and play RS daily and WS weekly.
 No entries during WS. Plz apply later again.
 
 Beginners welcome, we support you to grow.
 
-https://discord.gg/WKdC8XW
-    </div>
-    {:/}
-    
+https://discord.gg/WKdC8XW</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

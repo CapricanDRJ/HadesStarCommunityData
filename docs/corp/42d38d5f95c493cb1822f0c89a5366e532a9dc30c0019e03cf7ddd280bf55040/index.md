@@ -16,12 +16,7 @@ date: 1728192239
  本团秉承共产主义原则，互帮互助，欢迎各位加入。欢迎各位来到第四星际（绛紫星云）的朋友们！本团为绛紫星（共产星际）的萌新团，红活500水免费开放集团福利极高、社区氛围好，欢迎各位大佬萌新加入绛紫星的大家庭禁止骂人、人身攻击，不定时开白
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    本团秉承共产主义原则，互帮互助，欢迎各位加入。欢迎各位来到第四星际（绛紫星云）的朋友们！本团为绛紫星（共产星际）的萌新团，红活500水免费开放集团福利极高、社区氛围好，欢迎各位大佬萌新加入绛紫星的大家庭禁止骂人、人身攻击，不定时开白
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>本团秉承共产主义原则，互帮互助，欢迎各位加入。欢迎各位来到第四星际（绛紫星云）的朋友们！本团为绛紫星（共产星际）的萌新团，红活500水免费开放集团福利极高、社区氛围好，欢迎各位大佬萌新加入绛紫星的大家庭禁止骂人、人身攻击，不定时开白</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

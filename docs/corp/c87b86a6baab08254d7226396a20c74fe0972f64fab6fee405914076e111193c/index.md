@@ -20,16 +20,11 @@ Discord ist Pflicht: discord.gg/SUVSGGYGz2
 Nerven aus Stahl, Eier aus Titan
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Gründungsmitglied der Tartaros-Armada
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Gründungsmitglied der Tartaros-Armada
  
 Wer eine gewachsene Gemeinschaft mit Humor sucht, ist bei uns genau richtig.
 Discord ist Pflicht: discord.gg/SUVSGGYGz2
-Nerven aus Stahl, Eier aus Titan
-    </div>
-    {:/}
-    
+Nerven aus Stahl, Eier aus Titan</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/SUVSGGYGz2)
 ### Whitestar Bonus ❌

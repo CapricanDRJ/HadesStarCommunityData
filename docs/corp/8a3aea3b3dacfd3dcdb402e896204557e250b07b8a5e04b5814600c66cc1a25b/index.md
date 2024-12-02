@@ -18,14 +18,9 @@ date: 1731994401
 --------- We are Active in Dark Nebula ---------
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Renowned Interstellar Killers... We Are Life-Takers & Heartbreakers... We’ll Shoot You Full Of Holes & Fill You Full Of Lead... <b>FOR SPARTA...</b> 
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Renowned Interstellar Killers... We Are Life-Takers & Heartbreakers... We’ll Shoot You Full Of Holes & Fill You Full Of Lead... <strong>FOR SPARTA...</strong> 
 
---------- We are Active in Dark Nebula ---------
-    </div>
-    {:/}
-    
+--------- We are Active in Dark Nebula ---------</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/YHtMuQK)
 ### Whitestar Bonus ❌

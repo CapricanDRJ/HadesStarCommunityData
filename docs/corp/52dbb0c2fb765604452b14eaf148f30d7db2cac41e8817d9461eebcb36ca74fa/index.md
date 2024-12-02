@@ -24,20 +24,15 @@ date: 1727002679
 <color=red>3日未上线踢出（请假除外）</color>
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <size=60><span style="color:white;">我们是
-极端剧烈活动的河外星系核心QSO</span></size>
-<span style="color:yellow;">长期招收活跃白星玩家
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>&lt;size=60&gt;<span style=&quot;color:white;&quot;>我们是
+极端剧烈活动的河外星系核心QSO</span>&lt;/size&gt;
+<span style=&quot;color:yellow;&quot;>长期招收活跃白星玩家
 每周定期白星
 无论你是刚入坑萌新，
 还是顶级大佬，
 我们都欢迎你的加入！
 集团QQ群（打白星必需）：</span>1093246955
-<span style="color:red;">3日未上线踢出（请假除外）</span>
-    </div>
-    {:/}
-    
+<span style=&quot;color:red;&quot;>3日未上线踢出（请假除外）</span></body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

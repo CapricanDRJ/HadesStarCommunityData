@@ -20,16 +20,11 @@ date: 1733084117
 神器交易群183736503
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    欢迎加入一起打红星白星活动
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>欢迎加入一起打红星白星活动
 量产278%R9神器0.8¥/个
 集团QQ群868369354
 暗红组队群879848835
-神器交易群183736503
-    </div>
-    {:/}
-    
+神器交易群183736503</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/https://discord.com/register)
 ### Whitestar Bonus ✅

@@ -22,18 +22,13 @@ date: 1702928532
 Join Discord here: <b>EEpZuWf</b>
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <span style="color:#40FECB;">Member corporation of the <b>Spacefleet Alliance</b></span>
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:#40FECB;&quot;>Member corporation of the <strong>Spacefleet Alliance</strong></span>
 
-• Coordinated <b>RS 1-5</b>
+• Coordinated <strong>RS 1-5</strong>
 • First time WS players welcome
 • Activity is required
 
-Join Discord here: <b>EEpZuWf</b>
-    </div>
-    {:/}
-    
+Join Discord here: <strong>EEpZuWf</strong></body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

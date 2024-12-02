@@ -22,18 +22,13 @@ DON'T DONATE CREDITS TO THE FLAGSHIP!
 >勿谈和白<
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    航迹跨越星海，存在步入永恒，掌控不朽者既掌控一切，欢迎来到阿尔特拉集团！
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>航迹跨越星海，存在步入永恒，掌控不朽者既掌控一切，欢迎来到阿尔特拉集团！
 阿尔特拉QQ群:719776587
 不要给旗舰捐钱
 DON'T DONATE CREDITS TO THE FLAGSHIP!
 人员分配：干事8人
 特别鸣谢：残月，可靠的同志
->勿谈和白<
-    </div>
-    {:/}
-    
+&gt;勿谈和白&lt;</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

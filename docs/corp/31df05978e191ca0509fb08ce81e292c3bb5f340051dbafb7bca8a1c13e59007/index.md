@@ -17,13 +17,8 @@ date: 1711631579
 But now is a retirement home for solo rs. all are free to join
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Was once a top 100 Corp
-But now is a retirement home for solo rs. all are free to join
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Was once a top 100 Corp
+But now is a retirement home for solo rs. all are free to join</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

@@ -16,12 +16,7 @@ date: 1730203658
  я не знаю что сюда написать, просто клан для того чтобы копить монеты, не знаю ¯⁠\⁠_⁠(⁠ツ⁠)⁠_⁠/⁠¯ ищем активных людей
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    я не знаю что сюда написать, просто клан для того чтобы копить монеты, не знаю ¯⁠\⁠_⁠(⁠ツ⁠)⁠_⁠/⁠¯ ищем активных людей
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>я не знаю что сюда написать, просто клан для того чтобы копить монеты, не знаю ¯⁠\⁠_⁠(⁠ツ⁠)⁠_⁠/⁠¯ ищем активных людей</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

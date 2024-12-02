@@ -18,14 +18,9 @@ date: 1709890357
 vk.com/kedr_sh
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Бурятия
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Бурятия
 
-vk.com/kedr_sh
-    </div>
-    {:/}
-    
+vk.com/kedr_sh</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

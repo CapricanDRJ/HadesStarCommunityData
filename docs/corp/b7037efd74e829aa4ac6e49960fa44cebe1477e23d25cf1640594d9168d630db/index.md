@@ -22,18 +22,13 @@ If kicked for inactivity, please join back when ready.
 
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Competitive White Stars every week
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Competitive White Stars every week
 
 Part of the Space Ghost Alliance (SGA).
 Join our discord: T7DV2nx
 
 If kicked for inactivity, please join back when ready.  
-
-    </div>
-    {:/}
-    
+</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/fYBf2GNU7y)
 ### Whitestar Bonus ✅

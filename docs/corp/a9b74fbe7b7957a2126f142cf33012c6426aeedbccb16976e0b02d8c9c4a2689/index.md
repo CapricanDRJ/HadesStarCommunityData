@@ -19,15 +19,10 @@ Welcome, everyone... ;))
 https://discord.gg/TJuKzyR
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Welcome, my friends...
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Welcome, my friends...
 Welcome, my enemies...
 Welcome, everyone... ;))
-https://discord.gg/TJuKzyR
-    </div>
-    {:/}
-    
+https://discord.gg/TJuKzyR</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

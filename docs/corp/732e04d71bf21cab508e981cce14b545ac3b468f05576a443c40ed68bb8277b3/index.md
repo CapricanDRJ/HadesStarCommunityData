@@ -16,12 +16,7 @@ date: 1732630187
  致力于帮助牧云完成白星成就，本团将于牧云完成成就后解散，忠诚！！！
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    致力于帮助牧云完成白星成就，本团将于牧云完成成就后解散，忠诚！！！
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>致力于帮助牧云完成白星成就，本团将于牧云完成成就后解散，忠诚！！！</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

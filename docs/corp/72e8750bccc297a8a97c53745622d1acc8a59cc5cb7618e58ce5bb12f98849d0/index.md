@@ -25,9 +25,7 @@ date: 1733142524
 Q群：993612413
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    欢迎萌新大佬，不定时发福利，不定时开白（分团：星约组织基地分团）
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>欢迎萌新大佬，不定时发福利，不定时开白（分团：星约组织基地分团）
 团长：星约联盟(周五及周末在线)
 请各自发展，要神器请找星约联盟！
 本团为普罗旗下编制
@@ -36,10 +34,7 @@ Q群：993612413
 活跃打白，帮助国人。
 星海灿烂，星约永恒
 欢迎你的加入！
-Q群：993612413
-    </div>
-    {:/}
-    
+Q群：993612413</body></html>"></iframe>
 
 ### Whitestar Bonus ✅
 

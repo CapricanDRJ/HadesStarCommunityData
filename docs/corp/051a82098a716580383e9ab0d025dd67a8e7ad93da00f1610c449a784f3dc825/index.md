@@ -16,12 +16,7 @@ date: 1732923180
  CZ/SK klan,<br>pro vsechny, kteri chteji pohodovou hru<br><br>WS,  RS a DRS<br><br>https://userxinos.github.io/HadesSpace/ 
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    CZ/SK klan,<br>pro vsechny, kteri chteji pohodovou hru<br><br>WS,  RS a DRS<br><br>https://userxinos.github.io/HadesSpace/ 
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>CZ/SK klan,&lt;br&gt;pro vsechny, kteri chteji pohodovou hru&lt;br&gt;&lt;br&gt;WS,  RS a DRS&lt;br&gt;&lt;br&gt;https://userxinos.github.io/HadesSpace/ </body></html>"></iframe>
 
 ### [Discord](https://discord.gg/d3bTgrEYmr)
 ### Whitestar Bonus ✅

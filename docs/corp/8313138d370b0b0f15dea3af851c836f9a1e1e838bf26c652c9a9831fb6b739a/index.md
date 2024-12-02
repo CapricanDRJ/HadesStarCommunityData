@@ -20,16 +20,11 @@ date: 1717539178
 RS6 and Discord needed. (YTaYrhy)
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <span style="color:orange;">We are BSO! The Oldest Thriving Alliance in H'S.</span>
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:orange;&quot;>We are BSO! The Oldest Thriving Alliance in H'S.</span>
 
-<b>BlackStar Order, Final, Path of Hades, UG, TS and Dauntless working together to excel.</b>
+<strong>BlackStar Order, Final, Path of Hades, UG, TS and Dauntless working together to excel.</strong>
 
-RS6 and Discord needed. (YTaYrhy)
-    </div>
-    {:/}
-    
+RS6 and Discord needed. (YTaYrhy)</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

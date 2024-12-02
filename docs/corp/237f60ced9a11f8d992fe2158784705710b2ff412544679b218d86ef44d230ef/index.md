@@ -17,13 +17,8 @@ date: 1712643896
 算了-_-||便宜你们了
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    群聊：929368469
-算了-_-||便宜你们了
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>群聊：929368469
+算了-_-||便宜你们了</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

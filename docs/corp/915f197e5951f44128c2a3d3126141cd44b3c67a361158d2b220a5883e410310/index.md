@@ -20,16 +20,11 @@ https://discord.gg/E67DY45fPC
 Дискорд обязателен.
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <span style="color:"green";">Набор через дискорд </span>
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:"green";&quot;>Набор через дискорд </span>
 https://discord.gg/E67DY45fPC
 Еженедельное участие в БЗ
 Кз 4-10.
-Дискорд обязателен.
-    </div>
-    {:/}
-    
+Дискорд обязателен.</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/vmPbPHsU)
 ### Whitestar Bonus ✅

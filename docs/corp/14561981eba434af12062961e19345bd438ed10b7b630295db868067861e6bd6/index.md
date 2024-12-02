@@ -22,18 +22,13 @@ date: 1711683867
 https://discord.gg/H3ZnrmAYw5
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <span style="color:yellow;"><i><size=65><b>Открыт набор</b></size></i></span>
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:yellow;&quot;><em>&lt;size=65&gt;<strong>Открыт набор</strong>&lt;/size&gt;</em></span>
 
 Помощь новичкам
 Совместные полёты на КЗ
-<span style="color:#00FFFF;"><size=65>Обмен артами ( ≤10 лвл )</size></span>
+<span style=&quot;color:#00FFFF;&quot;>&lt;size=65&gt;Обмен артами ( ≤10 лвл )&lt;/size&gt;</span>
 
-https://discord.gg/H3ZnrmAYw5
-    </div>
-    {:/}
-    
+https://discord.gg/H3ZnrmAYw5</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/PuhySY4)
 ### Whitestar Bonus ❌

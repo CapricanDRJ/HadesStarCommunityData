@@ -16,12 +16,7 @@ date: 1732643110
  Weekly White Star pvp. New White Star Warriors will be supported, but you must be committed. Join to find out more via the Corporation Discord link below (Space Pals Server, Discord mandatory). 
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Weekly White Star pvp. New White Star Warriors will be supported, but you must be committed. Join to find out more via the Corporation Discord link below (Space Pals Server, Discord mandatory). 
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Weekly White Star pvp. New White Star Warriors will be supported, but you must be committed. Join to find out more via the Corporation Discord link below (Space Pals Server, Discord mandatory). </body></html>"></iframe>
 
 ### [Discord](https://discord.gg/3A9WHQV )
 ### Whitestar Bonus ✅

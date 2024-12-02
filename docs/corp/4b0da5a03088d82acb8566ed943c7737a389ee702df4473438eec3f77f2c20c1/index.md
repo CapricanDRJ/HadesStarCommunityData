@@ -16,12 +16,7 @@ date: 1726810042
  <b><color=#00FF9F>Λ<color=yellow>V</color></color><color=white>梨山养老院</color></b>欢迎各位大佬及萌新加入养老,神器福利全送出!r4r5神器颜色任选！<size=100><color=yellow>允许捐旗舰!</color></size>              创立于8月1日
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <b><span style="color:#00FF9F;">Λ<span style="color:yellow;">V</span></span><span style="color:white;">梨山养老院</span></b>欢迎各位大佬及萌新加入养老,神器福利全送出!r4r5神器颜色任选！<size=100><span style="color:yellow;">允许捐旗舰!</span></size>              创立于8月1日
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><strong><span style=&quot;color:#00FF9F;&quot;>Λ<span style=&quot;color:yellow;&quot;>V</span></span><span style=&quot;color:white;&quot;>梨山养老院</span></strong>欢迎各位大佬及萌新加入养老,神器福利全送出!r4r5神器颜色任选！&lt;size=100&gt;<span style=&quot;color:yellow;&quot;>允许捐旗舰!</span>&lt;/size&gt;              创立于8月1日</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/lsyly)
 ### Whitestar Bonus ❌

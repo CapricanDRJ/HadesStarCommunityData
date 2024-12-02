@@ -16,12 +16,7 @@ date: 1702352980
  Laid back group always looking for good active players. WS missions run every other week with a focus on Corporation growth and advancement
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Laid back group always looking for good active players. WS missions run every other week with a focus on Corporation growth and advancement
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Laid back group always looking for good active players. WS missions run every other week with a focus on Corporation growth and advancement</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

@@ -16,12 +16,7 @@ date: 1732947814
  Играем в свое удовольствия - Регулярные полеты на БЗ - Связь телеграмм  - Ищем отважных и надёжных командиров если ты не трус залетай  к нам и вместе будем биться у Белых Звёзд
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Играем в свое удовольствия - Регулярные полеты на БЗ - Связь телеграмм  - Ищем отважных и надёжных командиров если ты не трус залетай  к нам и вместе будем биться у Белых Звёзд
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Играем в свое удовольствия - Регулярные полеты на БЗ - Связь телеграмм  - Ищем отважных и надёжных командиров если ты не трус залетай  к нам и вместе будем биться у Белых Звёзд</body></html>"></iframe>
 
 ### Whitestar Bonus ✅
 

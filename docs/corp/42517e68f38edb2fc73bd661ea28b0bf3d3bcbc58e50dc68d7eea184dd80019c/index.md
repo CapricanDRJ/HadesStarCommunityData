@@ -18,14 +18,9 @@ date: 1708890039
 discord.gg/Rup2ee8DxR
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <b>Star Raiders</b> is a Corporation helping players develop and enjoy the game. Casual players are welcome. We are running weekly White Stars. 
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><strong>Star Raiders</strong> is a Corporation helping players develop and enjoy the game. Casual players are welcome. We are running weekly White Stars. 
 
-discord.gg/Rup2ee8DxR
-    </div>
-    {:/}
-    
+discord.gg/Rup2ee8DxR</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

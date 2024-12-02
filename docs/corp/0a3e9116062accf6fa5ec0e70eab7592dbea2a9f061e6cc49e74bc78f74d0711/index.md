@@ -16,12 +16,7 @@ date: 1732995596
  <b><size=50>Everyone Is Welcome Here All Welcome!<color=#FF00FF> ~~~~~~  WS Player's Wanted!  ~~~~~~  </color><color=yellow>              ~~~~~~  Join Discord For WS! ~~~~~~</color>
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <b><size=50>Everyone Is Welcome Here All Welcome!<span style="color:#FF00FF;"> ~~~~~~  WS Player's Wanted!  ~~~~~~  </span><span style="color:yellow;">              ~~~~~~  Join Discord For WS! ~~~~~~</span>
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><strong>&lt;size=50&gt;Everyone Is Welcome Here All Welcome!<span style=&quot;color:#FF00FF;&quot;> ~~~~~~  WS Player's Wanted!  ~~~~~~  </span><span style=&quot;color:yellow;&quot;>              ~~~~~~  Join Discord For WS! ~~~~~~</span></body></html>"></iframe>
 
 ### [Discord](https://discord.gg/evPmv96K)
 ### Whitestar Bonus ✅

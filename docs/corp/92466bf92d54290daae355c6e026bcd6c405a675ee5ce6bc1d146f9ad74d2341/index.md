@@ -18,14 +18,9 @@ date: 1701861287
 Discord.gg/<b>WAXSmUb</b></color>
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <span style="color:#00FF33;">
-<span style="color:red;">...</span>
-Discord.gg/<b>WAXSmUb</b></span>
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:#00FF33;&quot;>
+<span style=&quot;color:red;&quot;>...</span>
+Discord.gg/<strong>WAXSmUb</strong></span></body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

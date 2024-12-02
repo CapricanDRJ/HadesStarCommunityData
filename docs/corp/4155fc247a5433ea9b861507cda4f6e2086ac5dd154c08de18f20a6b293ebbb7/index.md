@@ -21,17 +21,12 @@ RS: WhatsApp
 Alianza Axolotls</i></color></b>
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <b><span style="color:white;"><size=90><span style="color:yellow;">Séptimo Círculo™</span></size>
-<i><size=70><span style="color:red;">ER1 - ER9</span>
-Una EB tras otra</size>
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><strong><span style=&quot;color:white;&quot;>&lt;size=90&gt;<span style=&quot;color:yellow;&quot;>Séptimo Círculo™</span>&lt;/size&gt;
+<em>&lt;size=70&gt;<span style=&quot;color:red;&quot;>ER1 - ER9</span>
+Una EB tras otra&lt;/size&gt;
 
 RS: WhatsApp
-Alianza Axolotls</i></span></b>
-    </div>
-    {:/}
-    
+Alianza Axolotls</em></span></strong></body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

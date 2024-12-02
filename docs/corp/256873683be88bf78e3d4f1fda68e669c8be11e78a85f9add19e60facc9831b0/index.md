@@ -16,12 +16,7 @@ date: 1732969147
  • Join an <b>ACTIVE and FUN</b> Community. DISCORD REQUIRED
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    • Join an <b>ACTIVE and FUN</b> Community. DISCORD REQUIRED
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>• Join an <strong>ACTIVE and FUN</strong> Community. DISCORD REQUIRED</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/EnduRy84t7)
 ### Whitestar Bonus ✅

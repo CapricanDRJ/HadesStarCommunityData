@@ -16,12 +16,7 @@ date: 1728369534
  我们欢迎任何人加入我们的集团<br>QQ群：976489422<br><br>黑名单:<br>佈雷比斯塔×黑中蠍會×霽瞑×瑞瑞×独山×安纳金天行者×cleiver（CN）×TXG-5137<br><br>首席：Disast<br>福利：r5-8（有时给）<br><br>主团：神圣罗马帝国第三帝国<br>社会主义共和制<br>南极星联盟成员<br><br>不准频繁随意进出
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    我们欢迎任何人加入我们的集团<br>QQ群：976489422<br><br>黑名单:<br>佈雷比斯塔×黑中蠍會×霽瞑×瑞瑞×独山×安纳金天行者×cleiver（CN）×TXG-5137<br><br>首席：Disast<br>福利：r5-8（有时给）<br><br>主团：神圣罗马帝国第三帝国<br>社会主义共和制<br>南极星联盟成员<br><br>不准频繁随意进出
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>我们欢迎任何人加入我们的集团&lt;br&gt;QQ群：976489422&lt;br&gt;&lt;br&gt;黑名单:&lt;br&gt;佈雷比斯塔×黑中蠍會×霽瞑×瑞瑞×独山×安纳金天行者×cleiver（CN）×TXG-5137&lt;br&gt;&lt;br&gt;首席：Disast&lt;br&gt;福利：r5-8（有时给）&lt;br&gt;&lt;br&gt;主团：神圣罗马帝国第三帝国&lt;br&gt;社会主义共和制&lt;br&gt;南极星联盟成员&lt;br&gt;&lt;br&gt;不准频繁随意进出</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/ok)
 ### Whitestar Bonus ❌

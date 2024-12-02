@@ -16,12 +16,7 @@ date: 1702667056
  Sejam todos bem-vindos. Contas novas ingressar na "MicroNova Beta", whatsapp:83-99339-5118.
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Sejam todos bem-vindos. Contas novas ingressar na "MicroNova Beta", whatsapp:83-99339-5118.
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Sejam todos bem-vindos. Contas novas ingressar na "MicroNova Beta", whatsapp:83-99339-5118.</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

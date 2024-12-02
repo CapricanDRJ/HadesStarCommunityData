@@ -16,12 +16,7 @@ date: 1720873100
  Willkommen in der Sternenflotten Akademie. Hier oder auf Discord findest du Hilfe
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Willkommen in der Sternenflotten Akademie. Hier oder auf Discord findest du Hilfe
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Willkommen in der Sternenflotten Akademie. Hier oder auf Discord findest du Hilfe</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/ZWfJ5Tdh)
 ### Whitestar Bonus ❌

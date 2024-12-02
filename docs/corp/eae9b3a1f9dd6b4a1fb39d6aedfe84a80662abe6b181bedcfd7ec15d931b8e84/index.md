@@ -20,16 +20,11 @@ Season 57: 5 wins 1 loses
 Season 58: 3 wins 1 loses
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    Rise, champion! Join the space shrimp legion
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>Rise, champion! Join the space shrimp legion
 Looking for active whitestar players
 Season 56: 6 wins 0 loses
 Season 57: 5 wins 1 loses
-Season 58: 3 wins 1 loses
-    </div>
-    {:/}
-    
+Season 58: 3 wins 1 loses</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/https://discord.com/invite/dEGkUskt)
 ### Whitestar Bonus ❌

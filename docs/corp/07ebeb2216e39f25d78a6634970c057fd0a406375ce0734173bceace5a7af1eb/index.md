@@ -16,12 +16,7 @@ date: 1722382956
  本团已废弃...剩余人员请转移至<color=yellow>梨山养老院</color>,谢谢
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    本团已废弃...剩余人员请转移至<span style="color:yellow;">梨山养老院</span>,谢谢
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>本团已废弃...剩余人员请转移至<span style=&quot;color:yellow;&quot;>梨山养老院</span>,谢谢</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/没有)
 ### Whitestar Bonus ❌

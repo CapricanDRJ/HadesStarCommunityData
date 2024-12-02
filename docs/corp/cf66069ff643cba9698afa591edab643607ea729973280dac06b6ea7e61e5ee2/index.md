@@ -19,15 +19,10 @@ date: 1732867276
 Discord obligatorio: KAguMmM
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <size=60><b><span style="color:yellow;">ALIANZA HISPÁNICA</span></b></size>
-<span style="color:red;">Estrell.Rojas 5-11</span>
-<span style="color:white;">Estrellas Blancas semanales</span>
-Discord obligatorio: KAguMmM
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body>&lt;size=60&gt;<strong><span style=&quot;color:yellow;&quot;>ALIANZA HISPÁNICA</span></strong>&lt;/size&gt;
+<span style=&quot;color:red;&quot;>Estrell.Rojas 5-11</span>
+<span style=&quot;color:white;&quot;>Estrellas Blancas semanales</span>
+Discord obligatorio: KAguMmM</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/KAguMmM)
 ### Whitestar Bonus ❌

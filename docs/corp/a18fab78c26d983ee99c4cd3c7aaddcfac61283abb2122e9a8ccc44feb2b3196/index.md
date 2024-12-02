@@ -16,12 +16,7 @@ date: 1732031941
  <color="blue">СИНЬКА ЗЛО!</color>  <color="green">ПЕЙ БОРЖОМИ!</color>  <color="red">ГАЛАКТИКА БУДЕТ НАША!✊✊</color> t.me/NifigasebeHS
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <span style="color:"blue";">СИНЬКА ЗЛО!</span>  <span style="color:"green";">ПЕЙ БОРЖОМИ!</span>  <span style="color:"red";">ГАЛАКТИКА БУДЕТ НАША!✊✊</span> t.me/NifigasebeHS
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><span style=&quot;color:"blue";&quot;>СИНЬКА ЗЛО!</span>  <span style=&quot;color:"green";&quot;>ПЕЙ БОРЖОМИ!</span>  <span style=&quot;color:"red";&quot;>ГАЛАКТИКА БУДЕТ НАША!✊✊</span> t.me/NifigasebeHS</body></html>"></iframe>
 
 ### Whitestar Bonus ❌
 

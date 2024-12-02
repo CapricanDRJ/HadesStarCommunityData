@@ -16,12 +16,7 @@ date: 1732134673
  <b><color=#E12E2D>Alianza AXOLOTLS<br></b>Somos muchos, somos Legión.<br><br>• Damos artefactos por donar a la NI<br>• Discord/WhatsApp disponible✓<br>• EB Casual/Seria semanal<br><br><b>ER5+ | ERO/EB
 ```
 
-    {::nomarkdown}
-    <div style="all: initial; font-family: Arial, sans-serif; line-height: 1.5; white-space: pre-wrap;">
-    <b><span style="color:#E12E2D;">Alianza AXOLOTLS<br></b>Somos muchos, somos Legión.<br><br>• Damos artefactos por donar a la NI<br>• Discord/WhatsApp disponible✓<br>• EB Casual/Seria semanal<br><br><b>ER5+ | ERO/EB
-    </div>
-    {:/}
-    
+    <iframe style="display:block;border:1px solid #ccc;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;" srcdoc="<!DOCTYPE html><html><head><style>body{all:initial;font-family:Arial,sans-serif;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;}</style></head><body><strong><span style=&quot;color:#E12E2D;&quot;>Alianza AXOLOTLS&lt;br&gt;</strong>Somos muchos, somos Legión.&lt;br&gt;&lt;br&gt;• Damos artefactos por donar a la NI&lt;br&gt;• Discord/WhatsApp disponible✓&lt;br&gt;• EB Casual/Seria semanal&lt;br&gt;&lt;br&gt;<strong>ER5+ | ERO/EB</body></html>"></iframe>
 
 ### [Discord](https://discord.gg/Bt9wnjv2Kh)
 ### Whitestar Bonus ❌
