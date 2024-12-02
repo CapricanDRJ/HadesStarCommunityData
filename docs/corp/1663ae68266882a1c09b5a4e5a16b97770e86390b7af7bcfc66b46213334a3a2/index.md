@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Hexacropians
-description: W:51 L:13 D:1 Bonus ✅
+description: W:51 L:13 D:1 Bonus ❌
 image: ./favicon.png
 date: 1733022937
 ---
@@ -12,7 +12,7 @@ date: 1733022937
 
 
 
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
