@@ -10,12 +10,15 @@ date: 1711636989
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>本团秉承共产主义原则，互帮互助，欢迎各位加入。
-本团属于九团公约成员国
-<span style=&quot;color:red;&quot;>本团为共产星际分团
-请不要捐旗舰！本分团为小分团，不活跃，活跃的玩家请移步第四星际，加群有福利
-<span style=&quot;color:yellow;&quot;>QQ群：946597244</body></html>"></iframe>
 
+
+```
+ 本团秉承共产主义原则，互帮互助，欢迎各位加入。
+本团属于九团公约成员国
+<color=red>本团为共产星际分团
+请不要捐旗舰！本分团为小分团，不活跃，活跃的玩家请移步第四星际，加群有福利
+<color=yellow>QQ群：946597244
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -10,8 +10,11 @@ date: 1728214134
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>本集团全名PDC联合集团，团员务必遵守集团规定。主团：元素联邦                 有困难互帮互助，白星尽力参加，(只带活人)25级高级成员，视情况干事</body></html>"></iframe>
 
+
+```
+ 本集团全名PDC联合集团，团员务必遵守集团规定。主团：元素联邦                 有困难互帮互助，白星尽力参加，(只带活人)25级高级成员，视情况干事
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

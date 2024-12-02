@@ -10,14 +10,17 @@ date: 1714980948
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>《徘徊》随着hadesstar宇宙的一次重要更新我们的星际集团做出以下调整：集团的容忍时间改为永久容纳成员；持续提供神器的相换（请提前预约）；白星在寒假，暑假进行；保持原有的干事，高级成员制（前10与老成员为高级成员）；国人可和白。
+
+
+```
+ 《徘徊》随着hadesstar宇宙的一次重要更新我们的星际集团做出以下调整：集团的容忍时间改为永久容纳成员；持续提供神器的相换（请提前预约）；白星在寒假，暑假进行；保持原有的干事，高级成员制（前10与老成员为高级成员）；国人可和白。
 本团服务人员——
 首席干事：willy
 神器提供：willy
 白星指挥员：willy
 集团qq：976760700
-感谢您对解语者研究会的支持！</body></html>"></iframe>
-
+感谢您对解语者研究会的支持！
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

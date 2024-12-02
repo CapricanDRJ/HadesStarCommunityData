@@ -10,14 +10,17 @@ date: 1732021684
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>航迹跨越星海，存在步入永恒，掌控不朽者既掌控一切，欢迎来到阿尔特拉集团！
+
+
+```
+ 航迹跨越星海，存在步入永恒，掌控不朽者既掌控一切，欢迎来到阿尔特拉集团！
 阿尔特拉QQ群:719776587
 不要给旗舰捐钱
 DON'T DONATE CREDITS TO THE FLAGSHIP!
 人员分配：干事8人
 特别鸣谢：残月，可靠的同志
-&gt;勿谈和白&lt;</body></html>"></iframe>
-
+>勿谈和白<
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

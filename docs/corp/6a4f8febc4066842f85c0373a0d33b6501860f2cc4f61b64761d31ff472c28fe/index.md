@@ -10,8 +10,11 @@ date: 1732014896
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>&lt;#FFF&gt;<strong>&lt;size=89&gt;Best BBQ & CRoid house&lt;/size&gt;</span>&lt;br&gt;<em>Skewer thy foe, Sear their bones</em>&lt;br&gt;&lt;br&gt;Top51 RS event • Biweekly WS&lt;br&gt;Discord Active • Coop DRS7-10 </body></html>"></iframe>
 
+
+```
+ <#FFF><b><size=89>Best BBQ & CRoid house</size></color><br><i>Skewer thy foe, Sear their bones</i><br><br>Top51 RS event • Biweekly WS<br>Discord Active • Coop DRS7-10 
+```
 ### [Discord](https://discord.gg/6QQJkJ4)
 ### Whitestar Bonus ❌
 

@@ -10,8 +10,11 @@ date: 1707904850
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body><span style=&quot;color:blue;&quot;>「Peace White Star」&lt;br&gt;</span>欢迎学生、萌新、大佬的加入，这里人人平等，人人都有权利！长时离线者适时移出，会收到通知，回游后可重新加入。<span style=&quot;color:red;&quot;>依活跃人数适时开白。&lt;br&gt;本团人员大量流失，急需人才，望各方英才的加入！&lt;br&gt;盟团：共产主义舰队&lt;size=40&gt;&lt;br&gt;<span style=&quot;color:green;&quot;>无论何时何地，这里都是你永远的家</body></html>"></iframe>
 
+
+```
+ <color=blue>「Peace White Star」<br></color>欢迎学生、萌新、大佬的加入，这里人人平等，人人都有权利！长时离线者适时移出，会收到通知，回游后可重新加入。<color=red>依活跃人数适时开白。<br>本团人员大量流失，急需人才，望各方英才的加入！<br>盟团：共产主义舰队<size=40><br><color=green>无论何时何地，这里都是你永远的家
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

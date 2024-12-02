@@ -10,8 +10,11 @@ date: 1729837957
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>我们的集团创立自2021年，几经风雨变幻，是一个成功跨越岁月的团队。<span style=&quot;color:green;&quot;>现在，我们正在开展神器支援计划，以提高萌新们的科技水平，向每位萌新提供高级180%+神器，不来找干事可不主动给哦</span>   集团qq:149662951          &lt;size=150&gt;           捐旗舰二       注意用语文明</body></html>"></iframe>
 
+
+```
+ 我们的集团创立自2021年，几经风雨变幻，是一个成功跨越岁月的团队。<color=green>现在，我们正在开展神器支援计划，以提高萌新们的科技水平，向每位萌新提供高级180%+神器，不来找干事可不主动给哦</color>   集团qq:149662951          <size=150>           捐旗舰二       注意用语文明
+```
 ### [Discord](https://discord.gg/gagagaaaa)
 ### Whitestar Bonus ❌
 

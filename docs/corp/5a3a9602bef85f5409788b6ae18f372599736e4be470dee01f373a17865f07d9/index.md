@@ -10,15 +10,18 @@ date: 1732179746
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>欢迎各位来到绛紫星云的朋友们！
+
+
+```
+ 欢迎各位来到绛紫星云的朋友们！
 本团为绛紫星的萌新团
 参与红活请前往第四星际
 集团福利极高、社区氛围好，欢迎各位大佬萌新加入绛紫星的大家庭
 禁止骂人、人身攻击
 不定时开白
 想要加入？QQ群号：415822703
-</body></html>"></iframe>
 
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

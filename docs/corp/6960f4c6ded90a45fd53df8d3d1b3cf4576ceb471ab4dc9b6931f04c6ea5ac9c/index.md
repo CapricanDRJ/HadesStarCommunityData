@@ -10,12 +10,15 @@ date: 1729602647
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body><span style=&quot;color:white;&quot;>我们是&lt;size=67&gt;<strong>白月光</strong>&lt;/size&gt;集团旗下的第二分盟</span>
-<span style=&quot;color:orange;&quot;><em>“Where do we come from and where do we go from?”</em></span>
 
 
-q群：741078259</body></html>"></iframe>
+```
+ <color=white>我们是<size=67><b>白月光</b></size>集团旗下的第二分盟</color>
+<color=orange><i>“Where do we come from and where do we go from?”</i></color>
 
+
+q群：741078259
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

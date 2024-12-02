@@ -10,8 +10,11 @@ date: 1728312440
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>红星建议大火单枪，电磁，暗红时缓;蓝星主打配合如A盾复仇，无人机信仰，捆绑传送。升级模组尽量集中不要分散。           有能力者请投喂旗舰1        白星Q群：&lt;u&gt;250502867                微信群加yusanban好友</body></html>"></iframe>
 
+
+```
+ 红星建议大火单枪，电磁，暗红时缓;蓝星主打配合如A盾复仇，无人机信仰，捆绑传送。升级模组尽量集中不要分散。           有能力者请投喂旗舰1        白星Q群：<u>250502867                微信群加yusanban好友
+```
 ### [Discord](https://discord.gg/Q群250502867)
 ### Whitestar Bonus ❌
 

@@ -10,8 +10,11 @@ date: 1708001005
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>成立时间：2022.5.17 欢迎各位萌新大佬加入，我们基本上都是学生党，很自由。首席:HYX       有事请找：干事星空之源    mars JHX大帅哥，或者首席小号九尘，干事萨卡班甲鱼。没有任何要求，只要能打白就行。黑名单：暂无     友盟：德意志帝国阿尔法分部</body></html>"></iframe>
 
+
+```
+ 成立时间：2022.5.17 欢迎各位萌新大佬加入，我们基本上都是学生党，很自由。首席:HYX       有事请找：干事星空之源    mars JHX大帅哥，或者首席小号九尘，干事萨卡班甲鱼。没有任何要求，只要能打白就行。黑名单：暂无     友盟：德意志帝国阿尔法分部
+```
 ### [Discord](https://discord.gg/chunchengyangguan)
 ### Whitestar Bonus ❌
 

@@ -10,8 +10,11 @@ date: 1732452299
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>此团直接隶属总团，和总团制度无区别，直接管辖，并不是自治，我们沿用总团制度，自由民主，集团聊天内字体设置不准超过100大小，活人升高级    /当前目标：到达100级集团，白星节假日开，正在招人中，欢迎萌新前来（ 3天以上不上踢 ）/首席：yori /黑名单：探秘天梯 vaho华浩 QQ767311697</body></html>"></iframe>
 
+
+```
+ 此团直接隶属总团，和总团制度无区别，直接管辖，并不是自治，我们沿用总团制度，自由民主，集团聊天内字体设置不准超过100大小，活人升高级    /当前目标：到达100级集团，白星节假日开，正在招人中，欢迎萌新前来（ 3天以上不上踢 ）/首席：yori /黑名单：探秘天梯 vaho华浩 QQ767311697
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

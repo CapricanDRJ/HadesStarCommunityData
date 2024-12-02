@@ -10,17 +10,20 @@ date: 1732597436
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>本集团为&lt;size=120&gt;仙女座星雲&lt;/size&gt;第八分团
-集团总群<span style=&quot;color:yellow;&quot;>372337244</span> 
+
+
+```
+ 本集团为<size=120>仙女座星雲</size>第八分团
+集团总群<color=yellow>372337244</color> 
 这里有神器福利等你领取
-这里有专业的排队&lt;size=100&gt;<span style=&quot;color:red;&quot;>BOT</span> 
-&lt;/size&gt;
+这里有专业的排队<size=100><color=red>BOT</color> 
+</size>
 这里有D7-D11大佬亲自指导
 这里有全方位的培养体系
 无论红星，暗星，白星，蓝星
 这里是国服区对萌新最友好的集团
-期待你</body></html>"></iframe>
-
+期待你
+```
 ### [Discord](https://discord.gg/snwFMgDPms)
 ### Whitestar Bonus ✅
 

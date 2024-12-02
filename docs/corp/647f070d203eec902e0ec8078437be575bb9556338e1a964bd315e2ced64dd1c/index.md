@@ -10,15 +10,18 @@ date: 1701962572
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>本集团为&lt;size=150&gt;新星团&lt;/size&gt;第二分团
-旗下分团：
-&lt;#FAD201&gt;·新?的星际集团?
-·探索舰队
-·特拉斯丁第二共和国</span>
-&lt;#86cecb&gt;常驻可加集团QQ群815066596</span>
-&lt;#FAD201&gt;欢迎各路大佬与萌新加入，定期打白</span>
-&lt;#EE4B2B&gt;不欢迎全服公敌瓜老板</span></body></html>"></iframe>
 
+
+```
+ 本集团为<size=150>新星团</size>第二分团
+旗下分团：
+<#FAD201>·新?的星际集团?
+·探索舰队
+·特拉斯丁第二共和国</color>
+<#86cecb>常驻可加集团QQ群815066596</color>
+<#FAD201>欢迎各路大佬与萌新加入，定期打白</color>
+<#EE4B2B>不欢迎全服公敌瓜老板</color>
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

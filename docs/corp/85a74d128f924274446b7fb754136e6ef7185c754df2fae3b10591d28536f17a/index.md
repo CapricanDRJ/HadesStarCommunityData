@@ -10,13 +10,16 @@ date: 1733019633
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>Willkommen bei <span style=&quot;color:red;&quot;>ʙṢ</span>!
+
+
+```
+ Willkommen bei <color=red>ʙṢ</color>!
 Allianz mit Sternenflotte, Diss Liga & Stern Wächter!
 
-<span style=&quot;color:#0E967F;&quot;>"Die einzige Konstante im Universum ist die Veränderung." 
+<color=#0E967F>"Die einzige Konstante im Universum ist die Veränderung." 
 
-Zum Server-&gt;95WWyXqrhQ</span></body></html>"></iframe>
-
+Zum Server->95WWyXqrhQ</color>
+```
 ### [Discord](https://discord.gg/95WWyXqrhQ)
 ### Whitestar Bonus ❌
 

@@ -10,8 +10,11 @@ date: 1732894327
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>欢迎大佬和萌新加入，创始人：［太阳系统帅］，移出成员只能由首席执行，大家要常住呀！不是死团，我们超活跃的哟！黑名单：[土土]                                                                            &lt;size=100&gt;<span style=&quot;color:red;&quot;>两个旗舰都捐！进集团加微信18898500351，拉你入群</body></html>"></iframe>
 
+
+```
+ 欢迎大佬和萌新加入，创始人：［太阳系统帅］，移出成员只能由首席执行，大家要常住呀！不是死团，我们超活跃的哟！黑名单：[土土]                                                                            <size=100><color=red>两个旗舰都捐！进集团加微信18898500351，拉你入群
+```
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

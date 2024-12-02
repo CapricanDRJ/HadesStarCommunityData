@@ -10,8 +10,11 @@ date: 1733135612
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>大家好，这里是中国人的天堂，欢迎中国人和外国人友人（Welcome foregin friends）汉奸和外国人侵略者滚蛋（Foregin invaders out）让我们在游戏里面做大做强，再创辉煌！打倒外国帝国主义！分团：                          100级以上大佬加入送2个r9%200多不许拿完奖励就跑！现在可以捐，捐到三级不捐了</body></html>"></iframe>
 
+
+```
+ 大家好，这里是中国人的天堂，欢迎中国人和外国人友人（Welcome foregin friends）汉奸和外国人侵略者滚蛋（Foregin invaders out）让我们在游戏里面做大做强，再创辉煌！打倒外国帝国主义！分团：                          100级以上大佬加入送2个r9%200多不许拿完奖励就跑！现在可以捐，捐到三级不捐了
+```
 ### [Discord](https://discord.gg/54188)
 ### Whitestar Bonus ✅
 

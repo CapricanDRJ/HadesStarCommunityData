@@ -10,7 +10,10 @@ date: 1732847239
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>欢迎萌新或大佬来到，这里没有欺骗，没有狡诈，只有诚信，只是帮助
+
+
+```
+ 欢迎萌新或大佬来到，这里没有欺骗，没有狡诈，只有诚信，只是帮助
 本盟会帮助萌新打红，目前集中打白星
 注：因不活跃被踢出的玩家会收到邀请
 首位提出建立本集团的是：离歌浅唱洛神殇
@@ -19,8 +22,8 @@ date: 1732847239
 第三名进入本集团的是：快手植治
 第一分团：星际联盟-额外统治区
 集团水群1023756986(qq)
-https://discord.gg/fAejNbTH</body></html>"></iframe>
-
+https://discord.gg/fAejNbTH
+```
 ### [Discord](https://discord.gg/AKnA5maMnG)
 ### Whitestar Bonus ✅
 

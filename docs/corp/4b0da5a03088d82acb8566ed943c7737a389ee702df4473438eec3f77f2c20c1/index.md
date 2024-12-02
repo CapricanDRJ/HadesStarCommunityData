@@ -10,8 +10,11 @@ date: 1726810042
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body><strong><span style=&quot;color:#00FF9F;&quot;>Λ<span style=&quot;color:yellow;&quot;>V</span></span><span style=&quot;color:white;&quot;>梨山养老院</span></strong>欢迎各位大佬及萌新加入养老,神器福利全送出!r4r5神器颜色任选！&lt;size=100&gt;<span style=&quot;color:yellow;&quot;>允许捐旗舰!</span>&lt;/size&gt;              创立于8月1日</body></html>"></iframe>
 
+
+```
+ <b><color=#00FF9F>Λ<color=yellow>V</color></color><color=white>梨山养老院</color></b>欢迎各位大佬及萌新加入养老,神器福利全送出!r4r5神器颜色任选！<size=100><color=yellow>允许捐旗舰!</color></size>              创立于8月1日
+```
 ### [Discord](https://discord.gg/lsyly)
 ### Whitestar Bonus ❌
 

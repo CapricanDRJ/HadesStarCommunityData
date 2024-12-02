@@ -10,8 +10,11 @@ date: 1728186229
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>&lt;size=60&gt;<span style=&quot;color:blue;&quot;><strong>欢迎来到银星</strong>，招活跃，打白的，<strong>别捐旗舰</strong>，银星Q群593825620  免费r7，帮打红星（r6及以下）</body></html>"></iframe>
 
+
+```
+ <size=60><color=blue><b>欢迎来到银星</b>，招活跃，打白的，<b>别捐旗舰</b>，银星Q群593825620  免费r7，帮打红星（r6及以下）
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

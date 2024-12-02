@@ -10,8 +10,11 @@ date: 1731053472
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>欢迎各位加入，送神器，欢迎萌新大佬加入，和谐相处，捐旗舰1，北极星联盟成员，首席：tianyayx，副首席：（待定）鸣谢：羽祈，ETO，tianyayx……也谢谢所有有贡献者，白星只能首席或副首席扫，表现好升级，国力等级制，月末发暗找tianyayx，加tianyayx微信进集团微信群Q：98144527311，禁止随便删消息，随便移人，禁止刷屏，谢谢（分团：华夏舰队-基沃托斯集团）</body></html>"></iframe>
 
+
+```
+ 欢迎各位加入，送神器，欢迎萌新大佬加入，和谐相处，捐旗舰1，北极星联盟成员，首席：tianyayx，副首席：（待定）鸣谢：羽祈，ETO，tianyayx……也谢谢所有有贡献者，白星只能首席或副首席扫，表现好升级，国力等级制，月末发暗找tianyayx，加tianyayx微信进集团微信群Q：98144527311，禁止随便删消息，随便移人，禁止刷屏，谢谢（分团：华夏舰队-基沃托斯集团）
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

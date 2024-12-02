@@ -10,8 +10,11 @@ date: 1724883240
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>欢迎加入，带打R6及以下红巨星。加成34%！福利：进盟送R6神器X5（自定义）  40级以上高级成员，80级以上干事。（常驻并取得信任的也会升干事）首席：四圣-青龙-中国。副首席；惊雷滚滚  Elffee。捣乱者一律降级，旗舰别乱跑。同盟：拆迁大队。建立时间2023年12月23日</body></html>"></iframe>
 
+
+```
+ 欢迎加入，带打R6及以下红巨星。加成34%！福利：进盟送R6神器X5（自定义）  40级以上高级成员，80级以上干事。（常驻并取得信任的也会升干事）首席：四圣-青龙-中国。副首席；惊雷滚滚  Elffee。捣乱者一律降级，旗舰别乱跑。同盟：拆迁大队。建立时间2023年12月23日
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

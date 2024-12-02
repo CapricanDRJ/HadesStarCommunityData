@@ -10,8 +10,11 @@ date: 1732192068
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>&lt;#FF0&gt;&lt;size=100&gt;欢迎加入逐光起航    &lt;#ff00cc&gt;<em>&lt;/size&gt;本团为&lt;#CC99FF&gt;北极星联盟</span>成员，长期开白，培养活跃玩家，萌新可领神器，欢迎活跃玩家加入</span></em>               欢迎合作白星，捐旗舰1   每2周清一次小红点</body></html>"></iframe>
 
+
+```
+ <#FF0><size=100>欢迎加入逐光起航    <#ff00cc><i></size>本团为<#CC99FF>北极星联盟</color>成员，长期开白，培养活跃玩家，萌新可领神器，欢迎活跃玩家加入</color></i>               欢迎合作白星，捐旗舰1   每2周清一次小红点
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

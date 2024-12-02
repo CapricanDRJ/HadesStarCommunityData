@@ -10,11 +10,14 @@ date: 1699212259
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>Chevalier de l'espace,rejoins nous dans la conquête de la galaxie d'Hadès. Entraide,tuto et bonne humeur. Ws régulière.Rs6-&gt;Rs10
+
+
+```
+ Chevalier de l'espace,rejoins nous dans la conquête de la galaxie d'Hadès. Entraide,tuto et bonne humeur. Ws régulière.Rs6->Rs10
 Conglomérat:G&B
 Corp:Bien Suprême/Guilde Richnou
-discord: 4BhWJjk</body></html>"></iframe>
-
+discord: 4BhWJjk
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

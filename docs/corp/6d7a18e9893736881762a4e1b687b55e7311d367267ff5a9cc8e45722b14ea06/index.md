@@ -10,8 +10,11 @@ date: 1732831823
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>USA or the United Stars Alliance stands for the good for all of the members Star Nations that are apart of it against the chaos outside of it. Casual group with a couple hardcore players! </body></html>"></iframe>
 
+
+```
+ USA or the United Stars Alliance stands for the good for all of the members Star Nations that are apart of it against the chaos outside of it. Casual group with a couple hardcore players! 
+```
 ### [Discord](https://discord.gg/https://discord.gg/PvyhHgSDHY)
 ### Whitestar Bonus ❌
 

@@ -10,12 +10,15 @@ date: 1720619162
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>犯我者虽远必诛！犯我者虽远必诛！犯我者虽远必诛！（请证明是中国人）
+
+
+```
+ 犯我者虽远必诛！犯我者虽远必诛！犯我者虽远必诛！（请证明是中国人）
 
 通知:提前说一下：外面有些人可能会来我们这偷神器各位小心已经有外面的人来通知过了外面的人来打私人红不要加，让你送神器的是陷阱会抢神器还会引冥犬来！还有有的人会让你断外交让你跟他外交记住他们只对有很多神器的人下手大家小心。
 
-有六级神器的成员，如果愿意就给其他人分一个六级四面体，提高白星时的战力，谢谢。</body></html>"></iframe>
-
+有六级神器的成员，如果愿意就给其他人分一个六级四面体，提高白星时的战力，谢谢。
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -10,15 +10,18 @@ date: 1709177006
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>星空漫游者交流群
+
+
+```
+ 星空漫游者交流群
 QQ群:663677762
 频道:https://kaihei.co/DaW35K
 加集团请同时加群
 白日放歌须纵酒,青春作伴好还乡
 萌新免费领神器福利～
 定期清理红点
-拒绝黑名单玩家</body></html>"></iframe>
-
+拒绝黑名单玩家
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

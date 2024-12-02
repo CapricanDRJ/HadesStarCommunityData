@@ -10,20 +10,23 @@ date: 1700392452
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>&lt;size=90&gt;欢迎各位萌新与大佬的进入！&lt;/size&gt;
+
+
+```
+ <size=90>欢迎各位萌新与大佬的进入！</size>
 Q群：838214551
-<span style=&quot;color:Lime;&quot;>舰长：风影  ，德四，兽人
-副舰长: 老文，w</span>
+<color=Lime>舰长：风影  ，德四，兽人
+副舰长: 老文，w</color>
 本舰队规则：
 1.不准说脏话、随便踢人
 2.尊敬正副舰长
 3.不准白嫖、勒索
 4.不准刷屏
-<span style=&quot;color:blue;&quot;>优秀成员：兽人</span> 
+<color=blue>优秀成员：兽人</color> 
 所有人必须参白！红点送机票
 所有人不准踢人，哪怕是首席。
-黑名单：元宇宙</body></html>"></iframe>
-
+黑名单：元宇宙
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

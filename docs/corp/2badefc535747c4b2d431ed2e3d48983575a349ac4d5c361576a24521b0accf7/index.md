@@ -10,17 +10,20 @@ date: 1699370027
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body><strong><span style=&quot;color:#FFDD88;&quot;>&lt;size=90&gt; Versailles Federation&lt;/size&gt;</span>
 
-<span style=&quot;color:#FFE9B7;&quot;>&lt;size=75&gt; Burn it to the ashes&lt;/size&gt;
+
+```
+ <b><color=#FFDD88><size=90> Versailles Federation</size></color>
+
+<color=#FFE9B7><size=75> Burn it to the ashes</size>
     -hosted by ShadowSun
 
  RS: 1-6
 
  WS: Thursdays
 
- Discord:pxSK3vbe</span></strong></body></html>"></iframe>
-
+ Discord:pxSK3vbe</color></b>
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

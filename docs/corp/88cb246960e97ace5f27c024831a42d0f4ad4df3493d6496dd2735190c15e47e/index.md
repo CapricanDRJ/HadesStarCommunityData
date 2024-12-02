@@ -10,7 +10,10 @@ date: 1732973956
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>☆欢迎友善伙伴入住，严禁败坏集团风气，提供微薄福利优惠，愉快交流游戏经验
+
+
+```
+ ☆欢迎友善伙伴入住，严禁败坏集团风气，提供微薄福利优惠，愉快交流游戏经验
 ☆入住伙伴玄冥Q群尽量加入
 ☆七天未上线将酌情移出集团，被移出者会在邮件收到邀请，欢迎回归集团
 ★二团：南玄星云
@@ -19,8 +22,8 @@ date: 1732973956
 ★Discord：https://discord.gg/yMRBXE9VZ4
 ★北冥建立时间：2020.7.8
 
-ღ愿世界平和，愿人们的温柔永存</body></html>"></iframe>
-
+ღ愿世界平和，愿人们的温柔永存
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

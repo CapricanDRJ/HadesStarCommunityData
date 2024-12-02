@@ -10,8 +10,11 @@ date: 1732758496
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>我们坚持共产主义思想。集团欢迎学生加入，也欢迎大佬来参加。因为大多数人为学生，所以上线时间有较大波动。放假时开白，在没有经过首席或其他干事同意下不准私自开白，打白时和信仰共产主义的同志尽力不起冲突，集团之中不许吵架！      集团白星槽位1主要为中国人。由于开学，所以集团成员上线时间比较短，假期时比较活跃。不是死团！！！          黑名单：逐光起航</body></html>"></iframe>
 
+
+```
+ 我们坚持共产主义思想。集团欢迎学生加入，也欢迎大佬来参加。因为大多数人为学生，所以上线时间有较大波动。放假时开白，在没有经过首席或其他干事同意下不准私自开白，打白时和信仰共产主义的同志尽力不起冲突，集团之中不许吵架！      集团白星槽位1主要为中国人。由于开学，所以集团成员上线时间比较短，假期时比较活跃。不是死团！！！          黑名单：逐光起航
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

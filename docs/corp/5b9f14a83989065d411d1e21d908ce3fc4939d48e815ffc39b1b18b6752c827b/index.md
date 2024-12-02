@@ -10,8 +10,11 @@ date: 1732551764
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>  <span style=&quot;color:green;&quot;>[分子构建物质的基础，赋予了世界的意义] 首席：zyx 代理首席：丹参川芎（China） 天冰   黑名单：（瓜老板），（白芷），（瓜老板？世），（瓜摊爷）  萌新加入可自选一个r六神器（提醒我或副首席）举报瓜老板混入集团送神器（首席和副首席所有最高级神器），乱举报踢出 首席周末才在 （建议周四晚上开白）打白不得违抗首席和副首席的命令！ 友团：昙花一现</body></html>"></iframe>
 
+
+```
+   <color=green>[分子构建物质的基础，赋予了世界的意义] 首席：zyx 代理首席：丹参川芎（China） 天冰   黑名单：（瓜老板），（白芷），（瓜老板？世），（瓜摊爷）  萌新加入可自选一个r六神器（提醒我或副首席）举报瓜老板混入集团送神器（首席和副首席所有最高级神器），乱举报踢出 首席周末才在 （建议周四晚上开白）打白不得违抗首席和副首席的命令！ 友团：昙花一现
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

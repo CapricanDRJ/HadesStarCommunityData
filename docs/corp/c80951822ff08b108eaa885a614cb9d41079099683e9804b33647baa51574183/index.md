@@ -10,8 +10,11 @@ date: 1732713417
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>本团为“落雨观花”第一分团  信息与主团一致 常驻请加qq：598692654萌新福利:3个d7           本团长期招募新人   定期打白 不清红点                 祝大家早日R12！</body></html>"></iframe>
 
+
+```
+ 本团为“落雨观花”第一分团  信息与主团一致 常驻请加qq：598692654萌新福利:3个d7           本团长期招募新人   定期打白 不清红点                 祝大家早日R12！
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

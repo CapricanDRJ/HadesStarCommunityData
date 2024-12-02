@@ -10,8 +10,11 @@ date: 1732735957
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>&lt;size=40&gt;<span style=&quot;color:#FFFF33;&quot;>Discord参加不問コーポです😊&lt;br&gt;&lt;br&gt;★カジュアルなWSをやりたいというプレイヤーを募集します！&lt;br&gt;&lt;br&gt;月2-3回木-土曜スキャンで開催予定！&lt;br&gt;&lt;br&gt;★WS参加できる方はWSスキャナON、出来ない方はOFF！&lt;br&gt;&lt;br&gt;★初心者上級者問いません！ログイン耐性30日 &lt;br&gt;&lt;br&gt;元Regulus Alliance</body></html>"></iframe>
 
+
+```
+ <size=40><color=#FFFF33>Discord参加不問コーポです😊<br><br>★カジュアルなWSをやりたいというプレイヤーを募集します！<br><br>月2-3回木-土曜スキャンで開催予定！<br><br>★WS参加できる方はWSスキャナON、出来ない方はOFF！<br><br>★初心者上級者問いません！ログイン耐性30日 <br><br>元Regulus Alliance
+```
 ### [Discord](https://discord.gg/XQ47nAEXuY)
 ### Whitestar Bonus ❌
 

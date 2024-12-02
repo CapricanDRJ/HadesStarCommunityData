@@ -10,8 +10,11 @@ date: 1732778369
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>&lt;#FA9400&gt;落雨观花 你永远的避风港 开学不踢红点        本团每周三晚开白 欢迎大佬和萌新们加入！             常驻萌新福利r8x2 分团：超越声速                    本团成立时间：2024.7.2                                      常驻请加qq：598692654</body></html>"></iframe>
 
+
+```
+ <#FA9400>落雨观花 你永远的避风港 开学不踢红点        本团每周三晚开白 欢迎大佬和萌新们加入！             常驻萌新福利r8x2 分团：超越声速                    本团成立时间：2024.7.2                                      常驻请加qq：598692654
+```
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

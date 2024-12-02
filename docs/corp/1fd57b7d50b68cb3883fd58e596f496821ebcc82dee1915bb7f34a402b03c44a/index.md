@@ -10,8 +10,11 @@ date: 1732629585
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>Fun relaxed group made up of newbies and the experienced. Weekly white stars. Joining discord is required for all activities and White Star involvement. Link is 👇</body></html>"></iframe>
 
+
+```
+ Fun relaxed group made up of newbies and the experienced. Weekly white stars. Joining discord is required for all activities and White Star involvement. Link is 👇
+```
 ### [Discord](https://discord.gg/J5kNRjVJM4)
 ### Whitestar Bonus ✅
 

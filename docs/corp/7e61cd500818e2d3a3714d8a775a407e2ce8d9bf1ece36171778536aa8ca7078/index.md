@@ -10,8 +10,11 @@ date: 1732747701
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>欢迎各路大佬萌新加入。集团自从萌新聚会后,先帝创业未半而中道崩殂,今9月30日首席涅槃重生，创此集团。约法三章：1加企鹅群给高员,贡献者干事 2集团不强制打白,需要请联系干事 3所有成员都有义务互帮互助，可量力进行捐赠。集团不限等级所有人均可加入,大家提起携手共进。企鹅群593906941</body></html>"></iframe>
 
+
+```
+ 欢迎各路大佬萌新加入。集团自从萌新聚会后,先帝创业未半而中道崩殂,今9月30日首席涅槃重生，创此集团。约法三章：1加企鹅群给高员,贡献者干事 2集团不强制打白,需要请联系干事 3所有成员都有义务互帮互助，可量力进行捐赠。集团不限等级所有人均可加入,大家提起携手共进。企鹅群593906941
+```
 ### [Discord](https://discord.gg/593906941)
 ### Whitestar Bonus ✅
 

@@ -10,8 +10,11 @@ date: 1718926373
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>활동하시는 모든 한국인분들을 환영합니다.    매주 목요일 백색성단 활동하오니, 코퍼레이션 인원분들은 많은 참여 부탁드립니다.                          코퍼레이션 채팅방은 카카오톡에서 " Hades' Star 한국인 Corp "를 검색하시면 찾으실수 있습니다[참여 코드 : Hades]</body></html>"></iframe>
 
+
+```
+ 활동하시는 모든 한국인분들을 환영합니다.    매주 목요일 백색성단 활동하오니, 코퍼레이션 인원분들은 많은 참여 부탁드립니다.                          코퍼레이션 채팅방은 카카오톡에서 " Hades' Star 한국인 Corp "를 검색하시면 찾으실수 있습니다[참여 코드 : Hades]
+```
 ### [Discord](https://discord.gg/invite/5K3vCNNBD9)
 ### Whitestar Bonus ❌
 

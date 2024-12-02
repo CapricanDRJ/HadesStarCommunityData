@@ -10,15 +10,18 @@ date: 1732995596
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body><strong><span style=&quot;color:#FF1111;&quot;>Lacuna Group's</strong> advancement corp.
+
+
+```
+ <b><color=#FF1111>Lacuna Group's</b> advancement corp.
 
 Welcoming new players! Joining our discord is a hard requirement for joining the corp.
 
 White Star focused.
 
-<strong>Discord:</strong> discord.gg/BFfSkvu
-</body></html>"></iframe>
+<b>Discord:</b> discord.gg/BFfSkvu
 
+```
 ### [Discord](https://discord.gg/BFfSkvu)
 ### Whitestar Bonus ✅
 

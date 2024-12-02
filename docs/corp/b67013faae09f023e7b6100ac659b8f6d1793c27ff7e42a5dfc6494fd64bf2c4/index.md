@@ -10,8 +10,11 @@ date: 1722816017
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body><span style=&quot;color:#97F3DA;&quot;><strong>欢迎加入！让我们共同建设这片星河吧！</strong>集团送7级神器！ 分团:德意志奥米加帝国、阿尔法帝国 只有三位首席可操作旗舰，违反者降职 首席:mars 童年 代理首席:不威水 过90级升干事 不可随意踢人 友盟：春城阳关、STRVS223～、边界 <span style=&quot;color:red;&quot;><strong>黑名单:家园星系(来了就踢)</strong></span></body></html>"></iframe>
 
+
+```
+ <color=#97F3DA><b>欢迎加入！让我们共同建设这片星河吧！</b>集团送7级神器！ 分团:德意志奥米加帝国、阿尔法帝国 只有三位首席可操作旗舰，违反者降职 首席:mars 童年 代理首席:不威水 过90级升干事 不可随意踢人 友盟：春城阳关、STRVS223～、边界 <color=red><b>黑名单:家园星系(来了就踢)</b></color>
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

@@ -10,8 +10,11 @@ date: 1725116439
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body><span style=&quot;color:#BDC100;&quot;><strong>&lt;size=130&gt;OMEGA <span style=&quot;color:#FDFF92;&quot;>Ω</span> NATION&lt;/size&gt;</strong></span></body></html>"></iframe>
 
+
+```
+ <color=#BDC100><b><size=130>OMEGA <color=#FDFF92>Ω</color> NATION</size></b></color>
+```
 ### [Discord](https://discord.gg/dnjPZnSfEP)
 ### Whitestar Bonus ❌
 

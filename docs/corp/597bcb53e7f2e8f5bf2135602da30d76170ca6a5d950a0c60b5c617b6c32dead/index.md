@@ -10,14 +10,17 @@ date: 1732836340
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>✡摆烂度假天堂☁
-<span style=&quot;color:red;&quot;>开白后禁刷屏！</span>
-✡🈲捐旗舰
-✡qq企鹅群：<span style=&quot;color:red;&quot;>614592574</span>
-首席微信号:<span style=&quot;color:blue;&quot;>18970688854</span>
-没qq的可以加微信进集团群
-✡分团《云浪度假村↕》《想想的后勤部》《Gemini》</body></html>"></iframe>
 
+
+```
+ ✡摆烂度假天堂☁
+<color=red>开白后禁刷屏！</color>
+✡🈲捐旗舰
+✡qq企鹅群：<color=red>614592574</color>
+首席微信号:<color=blue>18970688854</color>
+没qq的可以加微信进集团群
+✡分团《云浪度假村↕》《想想的后勤部》《Gemini》
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

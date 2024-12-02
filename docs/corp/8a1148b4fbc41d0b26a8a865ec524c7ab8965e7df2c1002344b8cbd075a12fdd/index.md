@@ -10,8 +10,11 @@ date: 1732758496
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>欢迎加入本集团，各位萌新和大佬都可以加入，每天下午不定时送1.2.3.4.5.6.7.8神器 ， 中国，，没人，yourfriend，不知道提供神器集团帮打23456级红巨星QQ922514426，进群答案，不知道。副首席：中国没人，只有（副）首席有权晋升或移除成员，不踢小红点除非人满了，如果长时间不上线，请联系首席或副首席 每周末都有稳定的八级神器，记得来领，所有人不要捐旗舰！！！</body></html>"></iframe>
 
+
+```
+ 欢迎加入本集团，各位萌新和大佬都可以加入，每天下午不定时送1.2.3.4.5.6.7.8神器 ， 中国，，没人，yourfriend，不知道提供神器集团帮打23456级红巨星QQ922514426，进群答案，不知道。副首席：中国没人，只有（副）首席有权晋升或移除成员，不踢小红点除非人满了，如果长时间不上线，请联系首席或副首席 每周末都有稳定的八级神器，记得来领，所有人不要捐旗舰！！！
+```
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

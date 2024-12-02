@@ -10,8 +10,11 @@ date: 1725536033
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>我们欢迎任何人&lt;br&gt;welcome to  everyone&lt;br&gt;Мы рады любому&lt;br&gt;福利:r4~r7&lt;br&gt;<strong>首席:白芷&lt;br&gt;</strong>黑名单：三体(AEN-3092)&lt;br&gt;敌团：红日初升，其道大光（和白毁白）&lt;br&gt;神圣罗马帝国第三分团&lt;br&gt;集团QQ群：945406414&lt;br&gt;招人中</body></html>"></iframe>
 
+
+```
+ 我们欢迎任何人<br>welcome to  everyone<br>Мы рады любому<br>福利:r4~r7<br><b>首席:白芷<br></b>黑名单：三体(AEN-3092)<br>敌团：红日初升，其道大光（和白毁白）<br>神圣罗马帝国第三分团<br>集团QQ群：945406414<br>招人中
+```
 ### [Discord](https://discord.gg/WC)
 ### Whitestar Bonus ❌
 

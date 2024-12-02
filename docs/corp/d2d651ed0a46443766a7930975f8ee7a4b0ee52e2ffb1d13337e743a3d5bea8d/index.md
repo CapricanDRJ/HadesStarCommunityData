@@ -10,10 +10,13 @@ date: 1732523514
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body><span style=&quot;color:#72bf47;&quot;><strong>RS EVENT RANK 2</strong></span>
-На базе корпорации RUS проводится ивент сборной командой с участием игроков ру-сегмента. Присоединяйся 👉
-https://t.me/RSeventHS</body></html>"></iframe>
 
+
+```
+ <color=#72bf47><b>RS EVENT RANK 2</b></color>
+На базе корпорации RUS проводится ивент сборной командой с участием игроков ру-сегмента. Присоединяйся 👉
+https://t.me/RSeventHS
+```
 ### Whitestar Bonus ❌
 
 | Statistic | Value |

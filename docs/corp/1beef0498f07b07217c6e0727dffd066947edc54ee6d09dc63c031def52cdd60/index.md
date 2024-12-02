@@ -10,8 +10,11 @@ date: 1733142825
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>&lt;#f99&gt;&lt;size=51&gt;墨痕集团主团,欢迎R1-11玩家加入，活跃玩家可前往&lt;#ccff00&gt;盟团：星落苑</span>，长期开白，欢迎前来参与，常驻福利多多😍&lt;/size&gt;</span>本团为北极星联盟成员</body></html>"></iframe>
 
+
+```
+ <#f99><size=51>墨痕集团主团,欢迎R1-11玩家加入，活跃玩家可前往<#ccff00>盟团：星落苑</color>，长期开白，欢迎前来参与，常驻福利多多😍</size></color>本团为北极星联盟成员
+```
 ### Whitestar Bonus ✅
 
 | Statistic | Value |

@@ -10,11 +10,14 @@ date: 1730792639
 </head>
 <img align="left" width="50" height="50" src="./favicon.ico" alt="Corp Logo"><img align="right" width="100" height="100" src="./qr.png" alt="QR Code">
 
-<iframe style="display:block;border:1px solid #444;border-radius:5px;width:100%;max-width:800px;height:auto;overflow:hidden;margin:1em 0;background-color:#2d2d2d;color:#f8f8f2;" srcdoc="<!DOCTYPE html><html><head><style>body{all:unset;line-height:1.5;white-space:pre-wrap;margin:0;padding:10px;color:#f8f8f2;background-color:#2d2d2d;font-family:monospace;}</style></head><body>欢迎加入奥米加！禁止随意给旗舰捐钱！                                         常驻打白送8  
+
+
+```
+ 欢迎加入奥米加！禁止随意给旗舰捐钱！                                         常驻打白送8  
 帮扶打红
 常驻进q群:952685934
-新成员由入群干事晋升,违者降职,未进群者一律不晋升!进群的成员离开集团超过7天将被移出群聊,放弃原有职位.请假超三个月视为退游移出本集团</body></html>"></iframe>
-
+新成员由入群干事晋升,违者降职,未进群者一律不晋升!进群的成员离开集团超过7天将被移出群聊,放弃原有职位.请假超三个月视为退游移出本集团
+```
 ### [Discord](https://discord.gg/3sg9ppw33F)
 ### Whitestar Bonus ❌
 
