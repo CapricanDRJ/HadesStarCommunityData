@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Zeta Division 
-description: W:7 L:2 D:0 Bonus ✅
+description: W:7 L:2 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732586321
 ---
@@ -18,12 +18,12 @@ o hapy to see experienced players. Main corp ( Industrial W.O) . Also
  join Discord!
 ```
 ### [Discord](https://discord.gg/QJASDtk4j7)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1266 🔺  (212)|
-| ELO Competitive | 1299 🔺  (261)|
+| ELO Competitive | 1299 🔺  (260)|
 | Total Matches | 9 |
 | Wins | 7 |
 | Losses | 2 |

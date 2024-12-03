@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​exirium
-description: W:3 L:3 D:1 Bonus ✅
+description: W:3 L:3 D:1 Bonus ❌
 image: ./favicon.png
 date: 1732586321
 ---
@@ -18,12 +18,12 @@ n corporación hacemos ER 2 - ER 9. Ayudamos a varios miembros a crece
 r.                                         WhatsApp incluido.
 ```
 ### [Discord](https://discord.gg/https://discord.gg/Jp8NZb5X)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1215 🔺  (398)|
-| ELO Competitive | 1224 🔺  (467)|
+| ELO Regular | 1215 🔺  (399)|
+| ELO Competitive | 1224 🔺  (468)|
 | Total Matches | 7 |
 | Wins | 3 |
 | Losses | 3 |

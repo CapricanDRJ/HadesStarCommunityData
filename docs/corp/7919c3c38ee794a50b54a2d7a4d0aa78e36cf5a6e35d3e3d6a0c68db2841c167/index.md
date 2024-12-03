@@ -21,8 +21,8 @@ LP GUIDE @ https://userxinos.github.io/HadesSpace/
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1217 🔻  (367)|
-| ELO Competitive | 1223 🔻  (471)|
+| ELO Regular | 1217 🔻  (368)|
+| ELO Competitive | 1223 🔻  (472)|
 | Total Matches | 8 |
 | Wins | 4 |
 | Losses | 3 |
