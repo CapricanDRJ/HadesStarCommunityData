@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​E.T.A
-description: W:8 L:28 D:0 Bonus ❌
+description: W:8 L:29 D:0 Bonus ❌
 image: ./favicon.png
-date: 1733211354
+date: 1733234791
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 1733211354
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1032 🔻  (1308)|
-| ELO Competitive | 1166 🔻  (1118)|
-| Total Matches | 36 |
+| ELO Regular | 1026 🔻  (1310)|
+| ELO Competitive | 1169 🔻  (1097)|
+| Total Matches | 37 |
 | Wins | 8 |
-| Losses | 28 |
+| Losses | 29 |
 | Draws | 0 |
 | Flagship | 8 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732779354,1732282018,1731771191,1731519376,1730805677,1730798766,1729437215,1727501505,1712211896,1712211896,1711534310,1711003672,1710514504,1710053809,1710053593,1706026638,1706011911,1705500733,1705493821,1704943289,1704903320,1704167961,1704166458,1703528757,1703520642,1702828628,1702824419,1701882510,1701880406,1701349346,1701332216,1700422162,1700406229,1699292019,1699289014,1698711123];
+        let timestamps = [1732802791,1732779354,1732282018,1731771191,1731519376,1730805677,1730798766,1729437215,1727501505,1712211896,1712211896,1711534310,1711003672,1710514504,1710053809,1710053593,1706026638,1706011911,1705500733,1705493821,1704943289,1704903320,1704167961,1704166458,1703528757,1703520642,1702828628,1702824419,1701882510,1701880406,1701349346,1701332216,1700422162,1700406229,1699292019,1699289014,1698711123];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/03 | 3-53 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/0c33734edc95a1bac88a9df7e0853a3bd835ea682673f097db1c75d6bb14c8da/) |
 | ❌ | 2024/12/03 | 4-29 | [Mass Effect](https://ws.tsl.rocks/corp/6f715653bec3925d9c3acd7c2388fe8e1c79332146894ed424f57bd2636de8c7/) |
 | ❌ | 2024/11/27 | 1-13 | [Embers Rising](https://ws.tsl.rocks/corp/30173fb6f0cf7a6d78f30c60350646ad6bc0d667a14854bdc9abbc19cd7d0327/) |
 | ❌ | 2024/11/21 | 3-40 | [West Worlders](https://ws.tsl.rocks/corp/aad051ec6b980cc52fb4777aef113d9e28a72aab40fda65aa9cdbf477b8e390a/) |

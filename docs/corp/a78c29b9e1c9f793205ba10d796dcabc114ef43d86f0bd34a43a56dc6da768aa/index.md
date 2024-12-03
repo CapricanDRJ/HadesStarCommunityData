@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Warriorlords
-description: W:30 L:16 D:0 Bonus ❌
+description: W:31 L:16 D:0 Bonus ✅
 image: ./favicon.png
-date: 1732320093
+date: 1733233589
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,17 +18,17 @@ A place for people to enjoy the game, to just play. Live to fight for
 ith the Titans of Terror. 
 ```
 ### [Discord](https://discord.gg/2HZBvzmbtx)
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1341 🔺  (100)|
-| ELO Competitive | 1457 🔺  (85)|
-| Total Matches | 46 |
-| Wins | 30 |
+| ELO Regular | 1354 🔺  (86)|
+| ELO Competitive | 1467 🔺  (78)|
+| Total Matches | 47 |
+| Wins | 31 |
 | Losses | 16 |
 | Draws | 0 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 8 |
 | Flagship | 7 |
 
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731888093,1731627252,1730909347,1729988927,1729791195,1728673230,1728493510,1727593155,1727368687,1726712423,1726505176,1725423063,1725252389,1724281754,1724088829,1722971214,1722813146,1721762539,1721585834,1720639754,1720466650,1719171133,1719013345,1718221952,1718059074,1717264050,1717091550,1716400113,1716237280,1715522202,1715375276,1714570560,1714391172,1713804386,1713802884,1712924322,1712841393,1712087203,1711380775,1710244993,1709554511,1708508517,1707222185,1706725035,1706264638,1705340564];
+        let timestamps = [1732801589,1731888093,1731627252,1730909347,1729988927,1729791195,1728673230,1728493510,1727593155,1727368687,1726712423,1726505176,1725423063,1725252389,1724281754,1724088829,1722971214,1722813146,1721762539,1721585834,1720639754,1720466650,1719171133,1719013345,1718221952,1718059074,1717264050,1717091550,1716400113,1716237280,1715522202,1715375276,1714570560,1714391172,1713804386,1713802884,1712924322,1712841393,1712087203,1711380775,1710244993,1709554511,1708508517,1707222185,1706725035,1706264638,1705340564];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/03 | 5-1 | [Star Destroyers](https://ws.tsl.rocks/corp/32ba20918cd8720602fefb3bc676a6ba5195314479040f70eadc728fbbc2698d/) |
 | ✅ | 2024/11/23 | 17-10 | [Эдем](https://ws.tsl.rocks/corp/a61dc2c639a91f5b725d43d306ba2eebe1770c92499d7d92086b7a097f939c0d/) |
 | ✅ | 2024/11/19 | 11-4 | [Dark Training](https://ws.tsl.rocks/corp/f889cafae8c2e0c622ae5494ce013504bf204ba00f7c7b44c61985588ee8f53c/) |
 | ✅ | 2024/11/11 | 21-0 | [自由星际联盟](https://ws.tsl.rocks/corp/933277ff64041b32fe12e4e564e2064071377343596c7944fb8c145165e2ab04/) |
