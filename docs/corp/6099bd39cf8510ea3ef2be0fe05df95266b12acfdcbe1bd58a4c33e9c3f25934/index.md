@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​无聊不过
-description: W:9 L:4 D:1 Bonus ❌
+description: W:9 L:5 D:1 Bonus ❌
 image: ./favicon.png
-date: 1729580107
+date: 1733198436
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 1729580107
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1256 🔺  (233)|
-| ELO Competitive | 1287 🔺  (285)|
-| Total Matches | 14 |
+| ELO Regular | 1239 🔻  (280)|
+| ELO Competitive | 1270 🔻  (318)|
+| Total Matches | 15 |
 | Wins | 9 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 1 |
 | Streak Record | 5 |
 | Flagship | 3 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729148107,1728019284,1727786981,1727115679,1726317030,1724998160,1724559119,1723595973,1723037622,1722569123,1721993923,1721639021,1721533537,1721044899];
+        let timestamps = [1732766436,1729148107,1728019284,1727786981,1727115679,1726317030,1724998160,1724559119,1723595973,1723037622,1722569123,1721993923,1721639021,1721533537,1721044899];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/03 | 0-20 | [星落苑](https://ws.tsl.rocks/corp/6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c/) |
 | ✅ | 2024/10/22 | 15-0 | [StargateCommand](https://ws.tsl.rocks/corp/b378193d0b158ce0513a666f0c19da1599421d036e3fd12c0f287d02cac78ccb/) |
 | ❌ | 2024/10/09 | 2-16 | [ITALIA](https://ws.tsl.rocks/corp/50983e789fe433b3974f5e28fe71a160d7d15afecfc7f2b89595a1a52391fda2/) |
 | ✅ | 2024/10/06 | 16-4 | [羽共和体](https://ws.tsl.rocks/corp/61b6e0502a087307a2ecf50e5d84f6123ad19984dc5790c997f16a676213aa7e/) |

@@ -22,7 +22,7 @@ ions to FS1 welcomed. <b> Discord required </b>
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1168 🔻  (969)|
-| ELO Competitive | 1251 🔻  (369)|
+| ELO Competitive | 1251 🔻  (370)|
 | Total Matches | 36 |
 | Wins | 15 |
 | Losses | 21 |

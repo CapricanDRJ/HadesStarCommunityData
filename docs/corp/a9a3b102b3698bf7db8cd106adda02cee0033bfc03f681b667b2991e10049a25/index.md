@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Млечный путь
-description: W:12 L:16 D:0 Bonus ❌
+description: W:12 L:17 D:0 Bonus ❌
 image: ./favicon.png
-date: 1732347431
+date: 1733199939
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ date: 1732347431
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔻  (814)|
-| ELO Competitive | 1248 🔻  (379)|
-| Total Matches | 28 |
+| ELO Regular | 1176 🔻  (859)|
+| ELO Competitive | 1241 🔻  (406)|
+| Total Matches | 29 |
 | Wins | 12 |
-| Losses | 16 |
+| Losses | 17 |
 | Draws | 0 |
 | Streak Record | 6 |
 | Flagship | 7 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731915431,1730884104,1725866897,1719736374,1719183457,1718613370,1718012485,1717389990,1712917110,1712471207,1712469705,1712029810,1710127861,1708916588,1708311997,1707710692,1706498746,1706273653,1705892309,1703477367,1702792561,1702741470,1702356474,1702306883,1701841935,1701405847,1700914149,1699348812];
+        let timestamps = [1732767939,1731915431,1730884104,1725866897,1719736374,1719183457,1718613370,1718012485,1717389990,1712917110,1712471207,1712469705,1712029810,1710127861,1708916588,1708311997,1707710692,1706498746,1706273653,1705892309,1703477367,1702792561,1702741470,1702356474,1702306883,1701841935,1701405847,1700914149,1699348812];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/03 | 5-38 | [Quilliance](https://ws.tsl.rocks/corp/6a4f8febc4066842f85c0373a0d33b6501860f2cc4f61b64761d31ff472c28fe/) |
 | ❌ | 2024/11/23 | 1-11 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) |
 | ❌ | 2024/11/11 | 11-15 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |
 | ❌ | 2024/09/14 | 6-22 | [C'est pas faux\!](https://ws.tsl.rocks/corp/fa08ee3e0496d13b55f0058cc61560c3e8e5b91628ee583c9eca31ef10c7749b/) |
