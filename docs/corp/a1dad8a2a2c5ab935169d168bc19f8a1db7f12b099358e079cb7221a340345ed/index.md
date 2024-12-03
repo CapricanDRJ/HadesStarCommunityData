@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ДИᏰEPℂДℍTᏰℓ
-description: W:13 L:10 D:0 Bonus ✅
+description: W:13 L:10 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732986880
 ---
@@ -18,7 +18,7 @@ date: 1732986880
 de early learning guidance for newbies joining the group.
 ```
 ### [Discord](https://discord.gg/JTC-6519)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

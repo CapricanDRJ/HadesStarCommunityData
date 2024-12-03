@@ -22,7 +22,7 @@ inate the cosmos and conquer the void.  Mission…Domination of Red And
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 🔻  (989)|
+| ELO Regular | 1165 🔻  (988)|
 | ELO Competitive | 1173 🔻  (1038)|
 | Total Matches | 3 |
 | Wins | 0 |
