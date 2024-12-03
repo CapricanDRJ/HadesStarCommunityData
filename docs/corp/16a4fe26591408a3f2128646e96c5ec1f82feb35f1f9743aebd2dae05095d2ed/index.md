@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​揽月宫
-description: W:13 L:7 D:0 Bonus ✅
+description: W:13 L:7 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732597436
 ---
@@ -25,7 +25,7 @@ date: 1732597436
 期待你
 ```
 ### [Discord](https://discord.gg/snwFMgDPms)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

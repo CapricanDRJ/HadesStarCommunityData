@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Lost Legion
-description: W:26 L:53 D:0 Bonus ✅
+description: W:26 L:53 D:0 Bonus ❌
 image: ./favicon.png
 date: 1733061095
 ---
@@ -20,7 +20,7 @@ We are a friendly corporation commited to helping.
 Disc AvYQJJh9
 ```
 ### [Discord](https://discord.gg/najb7MJf)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
