@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​环星集团
-description: W:1 L:1 D:0 Bonus ✅
+description: W:2 L:1 D:0 Bonus ✅
 image: ./favicon.png
-date: 1732758496
+date: 1733244108
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,12 +21,14 @@ date: 1732758496
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1206 🔺  (458)|
-| ELO Competitive | 1210 🔺  (570)|
-| Total Matches | 2 |
-| Wins | 1 |
+| ELO Regular | 1219 🔺  (354)|
+| ELO Competitive | 1227 🔺  (460)|
+| Total Matches | 3 |
+| Wins | 2 |
 | Losses | 1 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 | Flagship | 1 |
 
 ---
@@ -45,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732326496,1731882684];
+        let timestamps = [1732812108,1732326496,1731882684];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/03 | 2-1 | [Empire of Light](https://ws.tsl.rocks/corp/5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc/) |
 | ✅ | 2024/11/28 | 3-0 | [共产国际](https://ws.tsl.rocks/corp/375b1efc576c9d15f93249680dcd6dccaf2ad07cd520b85242d0b704d3a494c6/) |
 | ❌ | 2024/11/22 | 0-20 | [Nox Imperium](https://ws.tsl.rocks/corp/b60fb003fae650d1de18e7bca4fad04f9805501f4568d07ceb47bffdfeb613c1/) |
 

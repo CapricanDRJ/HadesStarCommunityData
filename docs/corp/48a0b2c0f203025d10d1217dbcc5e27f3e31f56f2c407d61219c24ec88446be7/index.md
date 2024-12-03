@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​RGW
-description: W:24 L:7 D:0 Bonus ✅
+description: W:25 L:7 D:0 Bonus ✅
 image: ./favicon.png
-date: 1732640405
+date: 1733242005
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ Herzlich willkommen. Aktive Teilnahme in WZ erwünscht.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1394 🔺  (60)|
-| ELO Competitive | 1434 🔺  (103)|
-| Total Matches | 31 |
-| Wins | 24 |
+| ELO Regular | 1400 🔺  (54)|
+| ELO Competitive | 1440 🔺  (97)|
+| Total Matches | 32 |
+| Wins | 25 |
 | Losses | 7 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 19 |
 | Flagship | 4 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732208405,1731582693,1730987172,1730370254,1729762042,1729154116,1728563228,1727338932,1726735857,1726050794,1725523722,1723108839,1722499406,1721902869,1721327696,1720615107,1718273932,1717409823,1716379680,1715600921,1714644970,1713190252,1712410212,1711284019,1708321911,1706606929,1706122501,1704911135,1703654180,1702812697,1702312293];
+        let timestamps = [1732810005,1732208405,1731582693,1730987172,1730370254,1729762042,1729154116,1728563228,1727338932,1726735857,1726050794,1725523722,1723108839,1722499406,1721902869,1721327696,1720615107,1718273932,1717409823,1716379680,1715600921,1714644970,1713190252,1712410212,1711284019,1708321911,1706606929,1706122501,1704911135,1703654180,1702812697,1702312293];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/03 | 17-0 | [Glashan](https://ws.tsl.rocks/corp/48b9fa3df8bbc6ce4a8455e9b923f28c0eccb8054c9f72e9c14e6acfee5a23a4/) |
 | ✅ | 2024/11/26 | 12-6 | [Created](https://ws.tsl.rocks/corp/04182a4606d981d1c410b0c058248e428765c672442d912ec47218ace9004e74/) |
 | ❌ | 2024/11/19 | 2-17 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
 | ✅ | 2024/11/12 | 17-8 | [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) |

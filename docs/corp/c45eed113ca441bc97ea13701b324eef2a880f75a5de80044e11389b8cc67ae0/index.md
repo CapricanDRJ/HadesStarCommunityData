@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​HADE'S BR
-description: W:1 L:0 D:0 Bonus ✅
+description: W:1 L:0 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732620870
 ---
@@ -18,12 +18,12 @@ a participe de RS e WS, mantenha as atividades e melhorias do sistema
  em dia. Temos grupo de Discord
 ```
 ### [Discord](https://discord.gg/zM5ABcAR6s)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1213 🔺  (424)|
-| ELO Competitive | 1214 🔺  (534)|
+| ELO Regular | 1213 🔺  (425)|
+| ELO Competitive | 1214 🔺  (535)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |
