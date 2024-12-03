@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Atlas corp
-description: W:8 L:13 D:1 Bonus ❌
+description: W:8 L:14 D:1 Bonus ❌
 image: ./favicon.png
-date: 1732033406
+date: 1733251941
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ e together.Be active in chat and white stars for promotion
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1154 🔻  (1065)|
-| ELO Competitive | 1181 🔻  (967)|
-| Total Matches | 22 |
+| ELO Regular | 1133 🔻  (1164)|
+| ELO Competitive | 1165 🔻  (1130)|
+| Total Matches | 23 |
 | Wins | 8 |
-| Losses | 13 |
+| Losses | 14 |
 | Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 4 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731601406,1730381975,1729274633,1728053247,1726971438,1726237395,1722863626,1719098028,1715264410,1711217011,1709930699,1709269352,1707454822,1706725035,1706075319,1705608921,1704609413,1704088021,1703433495,1702998126,1702508556,1702020454];
+        let timestamps = [1732819941,1731601406,1730381975,1729274633,1728053247,1726971438,1726237395,1722863626,1719098028,1715264410,1711217011,1709930699,1709269352,1707454822,1706725035,1706075319,1705608921,1704609413,1704088021,1703433495,1702998126,1702508556,1702020454];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/03 | 0-2 | [Nebulae Traders](https://ws.tsl.rocks/corp/bf2f9c50afbe2077dd734f484504f5167ee53a4c7f5315b9ab1cb0ee5620a39f/) |
 | ❌ | 2024/11/19 | 0-10 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |
 | ❌ | 2024/11/05 | 3-7 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
 | ✅ | 2024/10/23 | 3-2 | [Cydonia Order](https://ws.tsl.rocks/corp/e55f58931b283e38b70e189f9bbc51563a76e2ae541f8b2b207444fb36d5ddf9/) |
