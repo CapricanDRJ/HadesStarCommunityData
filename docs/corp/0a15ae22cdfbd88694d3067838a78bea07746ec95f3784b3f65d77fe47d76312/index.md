@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​GhostNakcoorp
-description: W:26 L:26 D:0 Bonus ❌
+description: W:27 L:26 D:0 Bonus ✅
 image: ./favicon.png
-date: 1732589325
+date: 1733283186
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ color=green>White Star Élite </color> <size=60><color=orange>☆NakSaru
 gg☆</color></b>   Recruiting "StarMasters" for WS
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/jQHaBGnQDa)
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1143 🔻  (1124)|
-| ELO Competitive | 1198 🔻  (652)|
-| Total Matches | 52 |
-| Wins | 26 |
+| ELO Regular | 1168 🔺  (971)|
+| ELO Competitive | 1225 🔺  (464)|
+| Total Matches | 53 |
+| Wins | 27 |
 | Losses | 26 |
 | Draws | 0 |
 | Streak Record | 6 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732157325,1731545819,1728229959,1727712761,1726979551,1726097678,1725267412,1724715993,1724172971,1723894646,1723614302,1723065273,1722376807,1721836160,1721313871,1720730825,1720148398,1719340314,1718660862,1718076198,1717449207,1716915753,1716296160,1715616848,1714393274,1713910145,1713320663,1712883163,1712400595,1711931855,1711101922,1710361277,1709859185,1708937318,1708498674,1708058073,1707611227,1707188231,1707178016,1706745771,1706027840,1705364608,1704682745,1704231974,1703640853,1702986440,1701634264,1700884096,1700448609,1700015756,1699489146,1699051037];
+        let timestamps = [1732851186,1732157325,1731545819,1728229959,1727712761,1726979551,1726097678,1725267412,1724715993,1724172971,1723894646,1723614302,1723065273,1722376807,1721836160,1721313871,1720730825,1720148398,1719340314,1718660862,1718076198,1717449207,1716915753,1716296160,1715616848,1714393274,1713910145,1713320663,1712883163,1712400595,1711931855,1711101922,1710361277,1709859185,1708937318,1708498674,1708058073,1707611227,1707188231,1707178016,1706745771,1706027840,1705364608,1704682745,1704231974,1703640853,1702986440,1701634264,1700884096,1700448609,1700015756,1699489146,1699051037];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/04 | 13-4 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |
 | ❌ | 2024/11/26 | 8-26 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ❌ | 2024/11/19 | 15-21 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) |
 | ❌ | 2024/10/11 | 20-22 | [Peace Keepers](https://ws.tsl.rocks/corp/7ac71c394c017639785b3ecaa8087bd3b9a9d134e05d22703a3e18217da3380d/) |

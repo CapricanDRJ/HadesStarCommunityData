@@ -21,7 +21,7 @@ Weekly 10v10 white stars.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1191 🔻  (568)|
-| ELO Competitive | 1191 🔻  (719)|
+| ELO Competitive | 1191 🔻  (720)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

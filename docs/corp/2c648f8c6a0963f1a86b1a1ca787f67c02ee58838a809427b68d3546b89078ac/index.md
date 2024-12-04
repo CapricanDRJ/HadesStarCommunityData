@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​华夏联盟
-description: W:5 L:9 D:1 Bonus ✅
+description: W:5 L:9 D:1 Bonus ❌
 image: ./favicon.png
 date: 1733135612
 ---
@@ -18,12 +18,12 @@ date: 1733135612
  100级以上大佬加入送2个r9%200多不许拿完奖励就跑！现在可以捐，捐到三级不捐了
 ```
 ### [Discord](https://discord.gg/54188)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1155 🔻  (1063)|
-| ELO Competitive | 1198 🔻  (648)|
+| ELO Regular | 1155 🔻  (1064)|
+| ELO Competitive | 1198 🔻  (649)|
 | Total Matches | 15 |
 | Wins | 5 |
 | Losses | 9 |
