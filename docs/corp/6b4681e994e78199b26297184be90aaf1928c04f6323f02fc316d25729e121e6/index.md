@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​101
-description: W:47 L:71 D:5 Bonus ✅
+description: W:47 L:71 D:5 Bonus ❌
 image: ./favicon.png
 date: 1733303015
 ---
@@ -17,12 +17,12 @@ date: 1733303015
 ，谢谢！ 有移出的可以重新加入。
 ```
 ### [Discord](https://discord.gg/Sh82822)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1080 🔻  (1270)|
-| ELO Competitive | 1424 🔻  (110)|
+| ELO Regular | 1080 🔻  (1271)|
+| ELO Competitive | 1424 🔻  (111)|
 | Total Matches | 123 |
 | Wins | 47 |
 | Losses | 71 |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​分子集团
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:3 D:0 Bonus ❌
 image: ./favicon.png
-date: 1732551764
+date: 1733320142
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 1732551764
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔻  (875)|
-| ELO Competitive | 1176 🔻  (998)|
-| Total Matches | 2 |
+| ELO Regular | 1164 🔻  (999)|
+| ELO Competitive | 1168 🔻  (1104)|
+| Total Matches | 3 |
 | Wins | 0 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 | Flagship | 2 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732119764,1731672016];
+        let timestamps = [1732888142,1732119764,1731672016];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/04 | 2-11 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb/) |
 | ❌ | 2024/11/25 | 1-14 | [ДИᏰEPℂДℍTᏰℓ](https://ws.tsl.rocks/corp/a1dad8a2a2c5ab935169d168bc19f8a1db7f12b099358e079cb7221a340345ed/) |
 | ❌ | 2024/11/20 | 4-19 | [蓝色星系二号分盟](https://ws.tsl.rocks/corp/40ffb900f40aefc1fa4fddd4d036e0466577312c7fb8e16ae315cd8868015297/) |
 

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​2ND-R8 Corp.
-description: W:34 L:17 D:1 Bonus ❌
+description: W:35 L:17 D:1 Bonus ✅
 image: ./favicon.png
-date: 1732718526
+date: 1733317437
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ Welcome, be active and have fun.  Daily RS7+. Rs9 @ 2045 EST. opt in
 /out of weekly white stars.
 ```
 ### [Discord](https://discord.gg/pVhwrfFjx3)
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1370 🔻  (72)|
-| ELO Competitive | 1457 🔻  (83)|
-| Total Matches | 52 |
-| Wins | 34 |
+| ELO Regular | 1385 🔺  (65)|
+| ELO Competitive | 1470 🔺  (77)|
+| Total Matches | 53 |
+| Wins | 35 |
 | Losses | 17 |
 | Draws | 1 |
 | Streak Record | 14 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732286526,1731675622,1731069503,1730470319,1729858799,1729265014,1728649180,1728043325,1727446211,1726829303,1726226876,1725621680,1724859328,1724408258,1723826159,1723201392,1722604281,1721989114,1721384185,1720707376,1720174540,1719578609,1718970669,1718366789,1717756350,1717149540,1716510072,1715906779,1715298364,1714691648,1714094621,1713918255,1713475109,1712879859,1712264486,1711670424,1711659608,1711051149,1710446605,1709845064,1709269953,1708659365,1708046957,1707530846,1706887608,1705671723,1704565839,1703476766,1702601723,1701970266,1701360466,1700496091];
+        let timestamps = [1732885437,1732286526,1731675622,1731069503,1730470319,1729858799,1729265014,1728649180,1728043325,1727446211,1726829303,1726226876,1725621680,1724859328,1724408258,1723826159,1723201392,1722604281,1721989114,1721384185,1720707376,1720174540,1719578609,1718970669,1718366789,1717756350,1717149540,1716510072,1715906779,1715298364,1714691648,1714094621,1713918255,1713475109,1712879859,1712264486,1711670424,1711659608,1711051149,1710446605,1709845064,1709269953,1708659365,1708046957,1707530846,1706887608,1705671723,1704565839,1703476766,1702601723,1701970266,1701360466,1700496091];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/04 | 24-12 | [Sprite](https://ws.tsl.rocks/corp/3bf5d300b42f0610355645e2ee9cf24e5517a2c5e12472f685781051619266ac/) |
 | ❌ | 2024/11/27 | 3-24 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
 | ✅ | 2024/11/20 | 12-9 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) |
 | ✅ | 2024/11/13 | 26-1 | [Pyke Syndicate](https://ws.tsl.rocks/corp/1761635d6aaf9c2caf7abc37130e2d9aa48e7b4cc753ae4b701fde4b48abd3e1/) |

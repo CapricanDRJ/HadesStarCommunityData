@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Star Blazers
-description: W:13 L:34 D:1 Bonus ✅
+description: W:13 L:34 D:1 Bonus ❌
 image: ./favicon.png
 date: 1733175595
 ---
@@ -23,12 +23,12 @@ Demotion/Removal:-
 Corp Discord Channel https://discord.gg/bPeyG7RQ5t
 ```
 ### [Discord](https://discord.gg/bPeyG7RQ5t)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1055 🔻  (1292)|
-| ELO Competitive | 1102 🔻  (1295)|
+| ELO Regular | 1055 🔻  (1293)|
+| ELO Competitive | 1102 🔻  (1296)|
 | Total Matches | 48 |
 | Wins | 13 |
 | Losses | 34 |

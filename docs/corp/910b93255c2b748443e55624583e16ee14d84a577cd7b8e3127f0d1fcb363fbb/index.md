@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​viCIOus
-description: W:12 L:2 D:1 Bonus ✅
+description: W:13 L:2 D:1 Bonus ✅
 image: ./favicon.png
-date: 1732770299
+date: 1733320142
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,13 @@ New!!! Join to expand!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1300 🔺  (154)|
-| ELO Competitive | 1337 🔺  (202)|
-| Total Matches | 15 |
-| Wins | 12 |
+| ELO Regular | 1309 🔺  (138)|
+| ELO Competitive | 1345 🔺  (188)|
+| Total Matches | 16 |
+| Wins | 13 |
 | Losses | 2 |
 | Draws | 1 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 6 |
 | Flagship | 2 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732338299,1731856535,1731278090,1730450484,1729985622,1729587172,1729543598,1729108447,1728772928,1728661206,1728222142,1727772858,1727255994,1726803718,1726362718];
+        let timestamps = [1732888142,1732338299,1731856535,1731278090,1730450484,1729985622,1729587172,1729543598,1729108447,1728772928,1728661206,1728222142,1727772858,1727255994,1726803718,1726362718];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/04 | 11-2 | [分子集团](https://ws.tsl.rocks/corp/5b9f14a83989065d411d1e21d908ce3fc4939d48e815ffc39b1b18b6752c827b/) |
 | ✅ | 2024/11/28 | 11-0 | [₩\.BRASIL\.₩](https://ws.tsl.rocks/corp/ff7f01b2f1db7b9c75e49da4c7367325905c020eba282a97f69f33d8c19419aa/) |
 | ✅ | 2024/11/22 | 14-0 | [共产国际](https://ws.tsl.rocks/corp/375b1efc576c9d15f93249680dcd6dccaf2ad07cd520b85242d0b704d3a494c6/) |
 | ↔️ | 2024/11/15 | 4-4 | [Winter Star llc](https://ws.tsl.rocks/corp/89b20821cb6e619dced74a6e153a1d3ceafa70b1035fb7d61a6920d375e49f50/) |
