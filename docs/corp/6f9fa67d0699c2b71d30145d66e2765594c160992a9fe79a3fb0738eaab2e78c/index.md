@@ -22,7 +22,7 @@ d>        勿捐旗舰         <color=white>    QQ: 914778570
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1257 🔺  (229)|
-| ELO Competitive | 1255 🔺  (354)|
+| ELO Competitive | 1255 🔺  (355)|
 | Total Matches | 6 |
 | Wins | 5 |
 | Losses | 1 |

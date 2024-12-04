@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​U.S.A
-description: W:18 L:35 D:1 Bonus ❌
+description: W:18 L:36 D:1 Bonus ❌
 image: ./favicon.png
-date: 1732831823
+date: 1733288894
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ embers Star Nations that are apart of it against the chaos outside of
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1096 🔻  (1251)|
-| ELO Competitive | 1230 🔻  (445)|
-| Total Matches | 54 |
+| ELO Regular | 1089 🔻  (1260)|
+| ELO Competitive | 1221 🔻  (480)|
+| Total Matches | 55 |
 | Wins | 18 |
-| Losses | 35 |
+| Losses | 36 |
 | Draws | 1 |
 | Streak Record | 3 |
 | Flagship | 5 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732399823,1731948489,1731506451,1731388663,1730922871,1730495267,1730487151,1729863907,1729858799,1729409263,1729396943,1728962386,1728954575,1728509142,1728501627,1728068279,1728066776,1727633730,1727620204,1727186587,1727186587,1726748176,1726746372,1726306849,1726290883,1725847969,1725839155,1725398730,1725390014,1724704276,1724704276,1723430087,1723422877,1720666501,1718646432,1718032023,1714970271,1711389189,1711381075,1710446605,1710346250,1709022057,1709000724,1707757869,1707756366,1706057593,1706042568,1704924060,1704916246,1704109957,1702675052,1701920980,1701894234,1701274513];
+        let timestamps = [1732856894,1732399823,1731948489,1731506451,1731388663,1730922871,1730495267,1730487151,1729863907,1729858799,1729409263,1729396943,1728962386,1728954575,1728509142,1728501627,1728068279,1728066776,1727633730,1727620204,1727186587,1727186587,1726748176,1726746372,1726306849,1726290883,1725847969,1725839155,1725398730,1725390014,1724704276,1724704276,1723430087,1723422877,1720666501,1718646432,1718032023,1714970271,1711389189,1711381075,1710446605,1710346250,1709022057,1709000724,1707757869,1707756366,1706057593,1706042568,1704924060,1704916246,1704109957,1702675052,1701920980,1701894234,1701274513];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Север РусКорп](https://ws.tsl.rocks/corp/39eeae12a2a5fead3330938b8f38c71aab465634b732303dad7b2a7d5f472004/) | 0 | 2 | 0 | 2 |
 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) | 0 | 2 | 0 | 2 |
 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) | 0 | 1 | 1 | 2 |
 | [2ND\-R8 Corp\.](https://ws.tsl.rocks/corp/e97866623598a98454b3a4724b472dc171f5e1aff84b076c43d021f0fabdc702/) | 0 | 2 | 0 | 2 |
@@ -147,6 +148,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/04 | 0-11 | [Север РусКорп](https://ws.tsl.rocks/corp/39eeae12a2a5fead3330938b8f38c71aab465634b732303dad7b2a7d5f472004/) |
 | ❌ | 2024/11/28 | 4-26 | [Wompwompway ](https://ws.tsl.rocks/corp/f7c3d7f512c4de3883e63b1a5771ab3ef3938054f98711e933bc7dd064fb8363/) |
 | ❌ | 2024/11/23 | 2-5 | [Space Pirates](https://ws.tsl.rocks/corp/87eff6e453b6f020baf8cb8930236b566161e22814cdbdc77d696c5812684bc6/) |
 | ❌ | 2024/11/18 | 0-12 | [  边界  ](https://ws.tsl.rocks/corp/86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a/) |
