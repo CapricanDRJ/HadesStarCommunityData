@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​星约组织：基地分团
-description: W:1 L:2 D:0 Bonus ✅
+description: W:1 L:2 D:0 Bonus ❌
 image: ./favicon.png
 date: 1733143125
 ---
@@ -17,7 +17,7 @@ date: 1733143125
 利高，请互帮互助。            星海灿烂，星约永恒     欢迎你的加入             集团黑名单：铁锈反叛战争公司，
 所有干事看见立刻清除
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

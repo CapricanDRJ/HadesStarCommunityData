@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​清霄阁（防御协会）
-description: W:2 L:2 D:0 Bonus ✅
+description: W:2 L:2 D:0 Bonus ❌
 image: ./favicon.png
 date: 1733153946
 ---
@@ -17,7 +17,7 @@ date: 1733153946
 可以打白星了，我们会给你80%左右的R7 ！来者请捐点旗舰，我们非常感谢！我们在努力的招人！！！建立于2024.9.7 Q群号：99396
 4380 大群Q号：597444221
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
