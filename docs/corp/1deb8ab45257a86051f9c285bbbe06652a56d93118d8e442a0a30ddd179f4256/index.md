@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​星际联盟（中国）
-description: W:9 L:13 D:2 Bonus ✅
+description: W:10 L:13 D:2 Bonus ✅
 image: ./favicon.png
-date: 1732847239
+date: 1733313830
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -29,12 +29,13 @@ https://discord.gg/fAejNbTH
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1193 🔺  (556)|
-| ELO Competitive | 1227 🔺  (454)|
-| Total Matches | 24 |
-| Wins | 9 |
+| ELO Regular | 1216 🔺  (381)|
+| ELO Competitive | 1251 🔺  (375)|
+| Total Matches | 25 |
+| Wins | 10 |
 | Losses | 13 |
 | Draws | 2 |
+| Streak | 2 |
 | Streak Record | 2 |
 | Flagship | 4 |
 
@@ -54,7 +55,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732415239,1724573845,1723899787,1723443309,1722957108,1722322710,1721867714,1721390495,1721359040,1718288959,1716476421,1714499951,1713449564,1712842595,1712103128,1711635266,1711041251,1710416554,1709820122,1709211358,1707398630,1706882134,1706332255,1703856022];
+        let timestamps = [1732881830,1732415239,1724573845,1723899787,1723443309,1722957108,1722322710,1721867714,1721390495,1721359040,1718288959,1716476421,1714499951,1713449564,1712842595,1712103128,1711635266,1711041251,1710416554,1709820122,1709211358,1707398630,1706882134,1706332255,1703856022];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -148,6 +149,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/04 | 10-0 | [Sprite](https://ws.tsl.rocks/corp/3bf5d300b42f0610355645e2ee9cf24e5517a2c5e12472f685781051619266ac/) |
 | ✅ | 2024/11/29 | 17-2 | [ДИᏰEPℂДℍTᏰℓ](https://ws.tsl.rocks/corp/a1dad8a2a2c5ab935169d168bc19f8a1db7f12b099358e079cb7221a340345ed/) |
 | ❌ | 2024/08/30 | 0-14 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |
 | ❌ | 2024/08/22 | 0-23 | [落雨观花](https://ws.tsl.rocks/corp/565a6d89fc5107e86669d7f8910a1c4ae1fbb156fa0b5e81dbc917c341cc9ff0/) |

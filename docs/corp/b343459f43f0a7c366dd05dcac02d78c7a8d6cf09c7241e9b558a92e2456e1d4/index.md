@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Death Flight
-description: W:22 L:75 D:1 Bonus ✅
+description: W:22 L:75 D:1 Bonus ❌
 image: ./favicon.png
 date: 1733125699
 ---
@@ -24,7 +24,7 @@ Trust * Loyalty
 
 “Busting Ours to kick Yours!”
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

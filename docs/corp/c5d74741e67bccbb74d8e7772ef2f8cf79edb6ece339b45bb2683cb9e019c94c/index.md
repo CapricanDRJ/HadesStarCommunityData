@@ -20,7 +20,7 @@ hores
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1199 🔻  (508)|
+| ELO Regular | 1199 🔻  (509)|
 | ELO Competitive | 1199 🔻  (634)|
 | Total Matches | 2 |
 | Wins | 1 |

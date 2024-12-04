@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Sprite
-description: W:23 L:5 D:0 Bonus ❌
+description: W:23 L:6 D:0 Bonus ❌
 image: ./favicon.png
-date: 1732701698
+date: 1733313830
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ a. Nuestra filosofía: unidos somos invencibles.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1394 🔻  (60)|
-| ELO Competitive | 1439 🔻  (99)|
-| Total Matches | 28 |
+| ELO Regular | 1372 🔻  (71)|
+| ELO Competitive | 1416 🔻  (116)|
+| Total Matches | 29 |
 | Wins | 23 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 0 |
 | Streak Record | 20 |
 | Flagship | 5 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732269698,1731660899,1731070405,1730457997,1729871722,1729351868,1728915201,1727892462,1727445609,1726925163,1726461901,1725722656,1725393019,1725218139,1724660996,1724414569,1723906703,1723434894,1722986540,1722267119,1721602665,1720923175,1720298961,1719841551,1719105011,1715619252,1707759071,1700514430];
+        let timestamps = [1732881830,1732269698,1731660899,1731070405,1730457997,1729871722,1729351868,1728915201,1727892462,1727445609,1726925163,1726461901,1725722656,1725393019,1725218139,1724660996,1724414569,1723906703,1723434894,1722986540,1722267119,1721602665,1720923175,1720298961,1719841551,1719105011,1715619252,1707759071,1700514430];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/04 | 0-10 | [星际联盟（中国）](https://ws.tsl.rocks/corp/1deb8ab45257a86051f9c285bbbe06652a56d93118d8e442a0a30ddd179f4256/) |
 | ❌ | 2024/11/27 | 11-13 | [ 墨痕 ](https://ws.tsl.rocks/corp/1beef0498f07b07217c6e0727dffd066947edc54ee6d09dc63c031def52cdd60/) |
 | ✅ | 2024/11/20 | 19-4 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) |
 | ✅ | 2024/11/13 | 27-0 | [华夏舰队](https://ws.tsl.rocks/corp/abd6d05a100ffdde2d15abd725a209bfbbf069b60b10ddeac88e88da66191472/) |

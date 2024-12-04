@@ -19,7 +19,7 @@ Wir sind ein deutschprachiger Konzern.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1200 🔻  (493)|
+| ELO Regular | 1200 🔻  (494)|
 | ELO Competitive | 1213 🔻  (547)|
 | Total Matches | 5 |
 | Wins | 3 |
