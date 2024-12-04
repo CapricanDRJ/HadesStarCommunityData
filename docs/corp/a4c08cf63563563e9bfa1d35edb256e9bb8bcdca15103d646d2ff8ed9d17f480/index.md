@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​脉冲星际集团
-description: W:29 L:28 D:2 Bonus ✅
+description: W:29 L:28 D:2 Bonus ❌
 image: ./favicon.png
 date: 1733286191
 ---
@@ -17,7 +17,7 @@ date: 1733286191
 请捐旗舰
 ```
 ### [Discord](https://discord.gg/maib)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

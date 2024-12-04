@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​GDZ
-description: W:43 L:37 D:0 Bonus ✅
+description: W:43 L:37 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732667751
 ---
@@ -16,12 +16,12 @@ date: 1732667751
 “Gloria Dominatio Zelus” Under a black flag we sail.
 ```
 ### [Discord](https://discord.gg/3Kn48fX)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1262 🔺  (218)|
-| ELO Competitive | 1369 🔺  (167)|
+| ELO Competitive | 1369 🔺  (168)|
 | Total Matches | 80 |
 | Wins | 43 |
 | Losses | 37 |
