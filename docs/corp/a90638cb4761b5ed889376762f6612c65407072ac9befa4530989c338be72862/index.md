@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Corp. Luminá
-description: W:5 L:0 D:0 Bonus ✅
+description: W:5 L:0 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732718826
 ---
@@ -17,7 +17,7 @@ Bɪᴇɴᴠᴇɴɪᴅᴏs 👾ᴄᴏʀᴘᴏʀᴀᴄɪᴏɴ ᴇɴ Cʀᴇᴄɪᴍ
 ᴀᴍᴏs ᴀʀᴛᴇғᴀᴄᴛᴏs     •Aʏᴜᴅᴀᴍᴏs ᴇɴ Eʀ ʏ Eʀᴏs   •EB sᴇᴍᴀɴᴀʟ        •Gʀᴜᴘ
 ᴏ ᴅᴇ WʜᴀᴛsAᴘᴘ          •Eᴠᴇɴᴛᴏs Axᴏʟᴏᴛʟ Bᴜsᴄᴀᴍᴏs Cʀᴇᴄᴇʀ✨
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

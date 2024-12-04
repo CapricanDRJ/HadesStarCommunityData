@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Бороская Имерия
-description: W:9 L:4 D:0 Bonus ✅
+description: W:9 L:4 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732713417
 ---
@@ -17,7 +17,7 @@ date: 1732713417
                       Играем в сонном режиме, телеграм или дс иметь н
 е обязательно, иногда ходим на Белую Звезду.        
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
