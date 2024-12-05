@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​落雨观花
-description: W:17 L:12 D:1 Bonus ✅
+description: W:17 L:12 D:1 Bonus ❌
 image: ./favicon.png
 date: 1732778369
 ---
@@ -17,7 +17,7 @@ date: 1732778369
 常驻萌新福利r8x2 分团：超越声速                    本团成立时间：2024.7.2                
                       常驻请加qq：598692654
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
