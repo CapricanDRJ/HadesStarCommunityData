@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Бороская Имерия
-description: W:9 L:4 D:0 Bonus ❌
+description: W:9 L:5 D:0 Bonus ❌
 image: ./favicon.png
-date: 1732713417
+date: 1733391060
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,13 +21,12 @@ date: 1732713417
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1282 🔺  (183)|
-| ELO Competitive | 1299 🔺  (261)|
-| Total Matches | 13 |
+| ELO Regular | 1261 🔻  (220)|
+| ELO Competitive | 1285 🔻  (287)|
+| Total Matches | 14 |
 | Wins | 9 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
-| Streak | 6 |
 | Streak Record | 6 |
 | Flagship | 5 |
 
@@ -47,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732281417,1731681333,1731103766,1730630186,1730019899,1728812704,1727119286,1726493368,1726045987,1702214613,1701215312,1699612062,1699010444];
+        let timestamps = [1732959060,1732281417,1731681333,1731103766,1730630186,1730019899,1728812704,1727119286,1726493368,1726045987,1702214613,1701215312,1699612062,1699010444];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/05 | 4-12 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) |
 | ✅ | 2024/11/27 | 13-4 | [超越声速](https://ws.tsl.rocks/corp/c80951822ff08b108eaa885a614cb9d41079099683e9804b33647baa51574183/) |
 | ✅ | 2024/11/20 | 19-0 | [墨痕空域](https://ws.tsl.rocks/corp/54eb675d1e22011c21e5b0f2b026934ea19913b030c65570d1e1473693d4364c/) |
 | ✅ | 2024/11/13 | 24-3 | [exirium](https://ws.tsl.rocks/corp/4981522e08ce38bcec7b2a189b3bfba9c072a615eea490a55c645344ac975f54/) |

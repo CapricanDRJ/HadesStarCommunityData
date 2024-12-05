@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Red Alliance
-description: W:15 L:19 D:2 Bonus ❌
+description: W:16 L:19 D:2 Bonus ✅
 image: ./favicon.png
-date: 1732904547
+date: 1733388957
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 1732904547
 ```
 English speaking – would you want to communicate
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1145 🔻  (1118)|
-| ELO Competitive | 1236 🔻  (423)|
-| Total Matches | 36 |
-| Wins | 15 |
+| ELO Regular | 1167 🔺  (980)|
+| ELO Competitive | 1258 🔺  (346)|
+| Total Matches | 37 |
+| Wins | 16 |
 | Losses | 19 |
 | Draws | 2 |
 | Streak Record | 4 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732472547,1731963217,1731525086,1730846101,1730838438,1730269292,1729624727,1729108447,1729108146,1728100135,1727635533,1726879489,1726856351,1726083255,1725913783,1725372578,1725042039,1724848206,1724376710,1724181949,1723912716,1723399438,1723397033,1722357271,1722254194,1721580724,1720907551,1720254776,1719602352,1718912682,1718912081,1718388587,1717872440,1717331679,1716615524,1716104487];
+        let timestamps = [1732956957,1732472547,1731963217,1731525086,1730846101,1730838438,1730269292,1729624727,1729108447,1729108146,1728100135,1727635533,1726879489,1726856351,1726083255,1725913783,1725372578,1725042039,1724848206,1724376710,1724181949,1723912716,1723399438,1723397033,1722357271,1722254194,1721580724,1720907551,1720254776,1719602352,1718912682,1718912081,1718388587,1717872440,1717331679,1716615524,1716104487];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -131,6 +131,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) | 2 | 0 | 0 | 2 |
 | [Cydonia Order](https://ws.tsl.rocks/corp/e55f58931b283e38b70e189f9bbc51563a76e2ae541f8b2b207444fb36d5ddf9/) | 0 | 2 | 0 | 2 |
 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) | 1 | 0 | 1 | 2 |
 | [\*Alfa y Omega\*](https://ws.tsl.rocks/corp/b1da3a2265efd2266a8e4b5698a731ae179d00e431ee748d7bee62a1357a12ed/) | 0 | 3 | 0 | 3 |
@@ -140,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/05 | 10-0 | [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) |
 | ❌ | 2024/11/29 | 1-7 | [Czech Legion](https://ws.tsl.rocks/corp/b4453b41cf7b1c019648ed14db493a47c8a64347e689013b2c969bf97e251ec8/) |
 | ❌ | 2024/11/23 | 3-10 | [Cydonia Order](https://ws.tsl.rocks/corp/e55f58931b283e38b70e189f9bbc51563a76e2ae541f8b2b207444fb36d5ddf9/) |
 | ✅ | 2024/11/18 | 10-3 | [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) |

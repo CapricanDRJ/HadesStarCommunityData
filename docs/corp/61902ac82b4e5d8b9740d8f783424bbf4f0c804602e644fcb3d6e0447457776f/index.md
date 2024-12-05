@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​ZORG IND
-description: W:24 L:9 D:1 Bonus ✅
+description: W:24 L:10 D:1 Bonus ✅
 image: ./favicon.png
-date: 1733370928
+date: 1733388957
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,13 +20,12 @@ mended, & remember you are expendable, we love you
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1321 🔺  (122)|
-| ELO Competitive | 1436 🔺  (101)|
-| Total Matches | 34 |
+| ELO Regular | 1299 🔻  (157)|
+| ELO Competitive | 1436 🔺  (100)|
+| Total Matches | 35 |
 | Wins | 24 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 1 |
-| Streak | 4 |
 | Streak Record | 7 |
 | Flagship | 4 |
 
@@ -46,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732938928,1732473148,1732019097,1731525387,1731525086,1731030746,1730987172,1730589926,1730555063,1730106123,1730096508,1729654773,1729654472,1729221438,1728785353,1728749279,1728349860,1728306585,1727878936,1727870219,1727428478,1726988869,1726396977,1725792672,1725172154,1724562424,1723962299,1723212815,1722769864,1722145400,1721543454,1720390976,1720357556,1719395902];
+        let timestamps = [1732956957,1732938928,1732473148,1732019097,1731525387,1731525086,1731030746,1730987172,1730589926,1730555063,1730106123,1730096508,1729654773,1729654472,1729221438,1728785353,1728749279,1728349860,1728306585,1727878936,1727870219,1727428478,1726988869,1726396977,1725792672,1725172154,1724562424,1723962299,1723212815,1722769864,1722145400,1721543454,1720390976,1720357556,1719395902];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) | 0 | 2 | 0 | 2 |
 | [德意志第三帝国奥米加分部](https://ws.tsl.rocks/corp/b5f35e30b2dea2621e854b5011a9f9d07ca3585cd26bd9ac92aa7b06c0a522b1/) | 1 | 1 | 0 | 2 |
 
 ---
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/05 | 0-10 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 | ✅ | 2024/12/05 | 26-0 | [Держава Русь](https://ws.tsl.rocks/corp/cbf11e25cee65a6c529251b7f47a35d9e4ba7bb9d640f384605541637e931672/) |
 | ✅ | 2024/11/29 | 18-0 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
 | ✅ | 2024/11/24 | 18-1 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |

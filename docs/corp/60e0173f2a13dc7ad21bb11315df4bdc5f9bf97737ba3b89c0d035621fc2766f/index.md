@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​SILVER TERRA
-description: W:18 L:17 D:0 Bonus ❌
+description: W:19 L:17 D:0 Bonus ✅
 image: ./favicon.png
-date: 1732747078
+date: 1733381744
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ date: 1732747078
 ПЯТНИЦУ В 23:00 ПО МСК***
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/VmBbr8sy)
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1256 🔻  (232)|
-| ELO Competitive | 1317 🔻  (231)|
-| Total Matches | 35 |
-| Wins | 18 |
+| ELO Regular | 1278 🔺  (188)|
+| ELO Competitive | 1344 🔺  (195)|
+| Total Matches | 36 |
+| Wins | 19 |
 | Losses | 17 |
 | Draws | 0 |
 | Streak Record | 4 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732315078,1731707182,1731096253,1730506085,1729816135,1729286767,1728732135,1728098031,1727471460,1726882793,1726260840,1725655645,1725057967,1724453043,1723929849,1723252184,1722632834,1722024578,1721442184,1720647870,1720213310,1719605958,1718396403,1717792498,1716678638,1716071429,1714986494,1714163126,1713558018,1712935740,1704855841,1703501707,1702391036,1701298561,1700793330];
+        let timestamps = [1732949744,1732315078,1731707182,1731096253,1730506085,1729816135,1729286767,1728732135,1728098031,1727471460,1726882793,1726260840,1725655645,1725057967,1724453043,1723929849,1723252184,1722632834,1722024578,1721442184,1720647870,1720213310,1719605958,1718396403,1717792498,1716678638,1716071429,1714986494,1714163126,1713558018,1712935740,1704855841,1703501707,1702391036,1701298561,1700793330];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/05 | 17-0 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ❌ | 2024/11/27 | 7-8 | [Cerulean Star](https://ws.tsl.rocks/corp/63d77c8d633b9dec932ad5d0f5a8ceb371b865b1adbb221ed410c5a7ba7df203/) |
 | ✅ | 2024/11/20 | 4-3 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ❌ | 2024/11/13 | 3-28 | [Scar](https://ws.tsl.rocks/corp/1fd57b7d50b68cb3883fd58e596f496821ebcc82dee1915bb7f34a402b03c44a/) |
