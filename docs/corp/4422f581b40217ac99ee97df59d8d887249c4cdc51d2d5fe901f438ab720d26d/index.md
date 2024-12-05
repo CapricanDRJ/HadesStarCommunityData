@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​" Возрождение "
-description: W:5 L:0 D:0 Bonus ✅
+description: W:5 L:0 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732800565
 ---
@@ -20,7 +20,7 @@ date: 1732800565
 Во имя благополучия соратников.
 Вместе мы сила и единство. 
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

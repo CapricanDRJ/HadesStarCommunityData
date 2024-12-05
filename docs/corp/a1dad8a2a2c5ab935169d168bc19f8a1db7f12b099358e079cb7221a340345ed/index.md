@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​ДИᏰEPℂДℍTᏰℓ
-description: W:13 L:10 D:0 Bonus ❌
+description: W:13 L:11 D:0 Bonus ❌
 image: ./favicon.png
-date: 1732986880
+date: 1733426879
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ de early learning guidance for newbies joining the group.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1245 🔻  (260)|
-| ELO Competitive | 1318 🔻  (231)|
-| Total Matches | 23 |
+| ELO Regular | 1228 🔻  (321)|
+| ELO Competitive | 1298 🔻  (264)|
+| Total Matches | 24 |
 | Wins | 13 |
-| Losses | 10 |
+| Losses | 11 |
 | Draws | 0 |
 | Streak Record | 5 |
 | Flagship | 3 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732554880,1732415239,1732119764,1731941877,1731687044,1731505249,1731245021,1730811688,1730373372,1729937836,1729484993,1729049929,1728495012,1728055952,1727619302,1727169758,1726724140,1726271655,1725792672,1725774046,1725332921,1724892384,1724433207];
+        let timestamps = [1732994879,1732554880,1732415239,1732119764,1731941877,1731687044,1731505249,1731245021,1730811688,1730373372,1729937836,1729484993,1729049929,1728495012,1728055952,1727619302,1727169758,1726724140,1726271655,1725792672,1725774046,1725332921,1724892384,1724433207];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/05 | 0-5 | [萌新集团](https://ws.tsl.rocks/corp/cda6bb5c1bf595967bd6f4a2e94f7c7fcc50df3774ccee7939822c252b9cd224/) |
 | ❌ | 2024/11/30 | 0-23 | [Imperium](https://ws.tsl.rocks/corp/9e2ab6b52a6e6684059b31f08966101f380a17c9a782d2a39434093e835fb17d/) |
 | ❌ | 2024/11/29 | 2-17 | [星际联盟（中国）](https://ws.tsl.rocks/corp/1deb8ab45257a86051f9c285bbbe06652a56d93118d8e442a0a30ddd179f4256/) |
 | ✅ | 2024/11/25 | 14-1 | [分子集团](https://ws.tsl.rocks/corp/5b9f14a83989065d411d1e21d908ce3fc4939d48e815ffc39b1b18b6752c827b/) |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​日月星辰
-description: W:3 L:5 D:0 Bonus ❌
+description: W:3 L:6 D:0 Bonus ❌
 image: ./favicon.png
-date: 1732677063
+date: 1733433826
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 1732677063
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (888)|
-| ELO Competitive | 1200 🔻  (616)|
-| Total Matches | 8 |
+| ELO Regular | 1158 🔻  (1039)|
+| ELO Competitive | 1187 🔻  (792)|
+| Total Matches | 9 |
 | Wins | 3 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 6 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732245063,1731736027,1731736027,1731300021,1730791255,1709126927,1708610383,1699348812];
+        let timestamps = [1733001826,1732245063,1731736027,1731736027,1731300021,1730791255,1709126927,1708610383,1699348812];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/05 | 0-16 | [Nine's Own Goal](https://ws.tsl.rocks/corp/fd47245550708347721e341d893b73e7c23e0f3624053c47ce666e55641c9e9e/) |
 | ❌ | 2024/11/27 | 1-35 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
 | ❌ | 2024/11/21 | 7-34 | [BrazilCorp\.](https://ws.tsl.rocks/corp/623f28fa77360220e64570e6493ec911dc1e814d1686305b7879da48d808d1cf/) |
 | ❌ | 2024/11/21 | 0-25 | [Scar](https://ws.tsl.rocks/corp/1fd57b7d50b68cb3883fd58e596f496821ebcc82dee1915bb7f34a402b03c44a/) |
