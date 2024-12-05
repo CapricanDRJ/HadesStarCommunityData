@@ -22,8 +22,8 @@ s ,groupe actif telles sont nos valeurs !! Bon sejour parmis nous !
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1150 🔻  (1087)|
-| ELO Competitive | 1166 🔻  (1117)|
+| ELO Regular | 1150 🔻  (1088)|
+| ELO Competitive | 1166 🔻  (1118)|
 | Total Matches | 6 |
 | Wins | 1 |
 | Losses | 5 |

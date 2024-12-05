@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​hades star萌新指引站
-description: W:9 L:8 D:1 Bonus ❌
+description: W:9 L:9 D:1 Bonus ❌
 image: ./favicon.png
-date: 1732489764
+date: 1733352208
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1732489764
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1194 🔻  (550)|
-| ELO Competitive | 1227 🔻  (459)|
-| Total Matches | 18 |
+| ELO Regular | 1183 🔻  (810)|
+| ELO Competitive | 1217 🔻  (508)|
+| Total Matches | 19 |
 | Wins | 9 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 1 |
 | Streak Record | 5 |
 | Flagship | 4 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732057764,1731415404,1731232695,1730811688,1730208894,1729731699,1729205216,1728772928,1727960677,1727445008,1727010203,1726486839,1726044786,1725544157,1725078905,1724639060,1724206625,1723733000];
+        let timestamps = [1732920208,1732057764,1731415404,1731232695,1730811688,1730208894,1729731699,1729205216,1728772928,1727960677,1727445008,1727010203,1726486839,1726044786,1725544157,1725078905,1724639060,1724206625,1723733000];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/04 | 0-4 | [太阳系集团](https://ws.tsl.rocks/corp/50f5e0a888ce2f21c0980be0cbb1e444e1d7eeb9dcb2095c3e428bd5bde7a9f6/) |
 | ❌ | 2024/11/24 | 9-12 | [闲散人员](https://ws.tsl.rocks/corp/4f0fa774b66e4f744a305525f92e7252205ae754df0f3982b577b32caf32cdbc/) |
 | ❌ | 2024/11/17 | 3-22 | [Imperium](https://ws.tsl.rocks/corp/9e2ab6b52a6e6684059b31f08966101f380a17c9a782d2a39434093e835fb17d/) |
 | ❌ | 2024/11/15 | 0-13 | [Zeta Division ](https://ws.tsl.rocks/corp/29335e52f4b0c4ae92db98c395d2f4969201d0ddc31bb7f112bd6d3eeb97182c/) |

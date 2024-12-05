@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Dirty Minds Inc
-description: W:5 L:3 D:0 Bonus ❌
+description: W:5 L:4 D:0 Bonus ❌
 image: ./favicon.png
-date: 1732641718
+date: 1733353961
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ requires your full attention 🍆as she can be lot to handle and more �
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1221 🔺  (352)|
-| ELO Competitive | 1227 🔺  (458)|
-| Total Matches | 8 |
+| ELO Regular | 1206 🔻  (458)|
+| ELO Competitive | 1213 🔻  (547)|
+| Total Matches | 9 |
 | Wins | 5 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
 | Streak Record | 4 |
 | Flagship | 3 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732209718,1731687044,1731244720,1730809884,1730308959,1729602484,1729108146,1728657899];
+        let timestamps = [1732921961,1732209718,1731687044,1731244720,1730809884,1730308959,1729602484,1729108146,1728657899];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/04 | 1-5 | [oen](https://ws.tsl.rocks/corp/33d062d54a7aaaa60ae11e07fba73e1b28f5c9f323ff4a98f5810933e7d2b41f/) |
 | ✅ | 2024/11/26 | 3-2 | [<•\|•\>](https://ws.tsl.rocks/corp/a3864fad7e4ba08611eda264a7934afe237a2f313a23b12dcce9db0a96a09daf/) |
 | ❌ | 2024/11/20 | 2-8 | [ДИᏰEPℂДℍTᏰℓ](https://ws.tsl.rocks/corp/a1dad8a2a2c5ab935169d168bc19f8a1db7f12b099358e079cb7221a340345ed/) |
 | ❌ | 2024/11/15 | 3-7 | [Dark Halo](https://ws.tsl.rocks/corp/f6ed7c780faf133d3fe411b9ed88480608a56064328539891d1b4348242954f6/) |

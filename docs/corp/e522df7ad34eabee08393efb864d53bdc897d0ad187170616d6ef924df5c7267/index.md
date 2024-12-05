@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​银河护卫队
-description: W:4 L:9 D:1 Bonus ❌
+description: W:5 L:9 D:1 Bonus ✅
 image: ./favicon.png
-date: 1732747701
+date: 1733352709
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ date: 1732747701
 26日成立，欢迎各位大佬和新手加入星际集团。长住、活跃晋升。萌新福利：30级以下4个r6或8个r 5，50级以下两个r 6或4个r 5。集
 团不招外国人。请捐旗舰一。黑名单：undercover、一切与瓜老板有关系的人，让我们共同努力，成为这个游戏里最强的集
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1123 🔻  (1197)|
-| ELO Competitive | 1199 🔻  (641)|
-| Total Matches | 14 |
-| Wins | 4 |
+| ELO Regular | 1133 🔺  (1167)|
+| ELO Competitive | 1206 🔺  (582)|
+| Total Matches | 15 |
+| Wins | 5 |
 | Losses | 9 |
 | Draws | 1 |
 | Streak Record | 2 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732315701,1732296143,1731583372,1731559638,1731085434,1731076718,1730622674,1730621472,1729995836,1729903578,1729271326,1728322514,1727870219,1726669030];
+        let timestamps = [1732920709,1732315701,1732296143,1731583372,1731559638,1731085434,1731076718,1730622674,1730621472,1729995836,1729903578,1729271326,1728322514,1727870219,1726669030];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/04 | 4-0 | [₩\.BRASIL\.₩](https://ws.tsl.rocks/corp/ff7f01b2f1db7b9c75e49da4c7367325905c020eba282a97f69f33d8c19419aa/) |
 | ❌ | 2024/11/27 | 2-8 | [新星汇聚](https://ws.tsl.rocks/corp/7e61cd500818e2d3a3714d8a775a407e2ce8d9bf1ece36171778536aa8ca7078/) |
 | ❌ | 2024/11/27 | 0-7 | [Omega corp](https://ws.tsl.rocks/corp/17140be6e5915edf2d09ebcf246a7c2650cf39def04823c9a04bdf81ff8fc38e/) |
 | ❌ | 2024/11/19 | 0-7 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
