@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​新星汇聚
-description: W:3 L:1 D:0 Bonus ✅
+description: W:3 L:1 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732747701
 ---
@@ -18,7 +18,7 @@ date: 1732747701
 3906941
 ```
 ### [Discord](https://discord.gg/593906941)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
