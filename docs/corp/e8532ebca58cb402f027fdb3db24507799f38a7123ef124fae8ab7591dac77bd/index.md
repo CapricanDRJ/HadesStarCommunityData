@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​仙女座星雲
-description: W:68 L:53 D:4 Bonus ✅
+description: W:68 L:53 D:4 Bonus ❌
 image: ./favicon.png
 date: 1733312159
 ---
@@ -30,7 +30,7 @@ B站d音搜：仙女座星雲土豆
 成立时间：2022.2.10
 ```
 ### [Discord](https://discord.gg/snwFMgDPms)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

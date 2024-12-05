@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​哈迪斯之星，启动！
-description: W:7 L:5 D:0 Bonus ❌
+description: W:7 L:6 D:0 Bonus ❌
 image: ./favicon.png
-date: 1730938986
+date: 1733397371
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 1730938986
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1237 🔺  (294)|
-| ELO Competitive | 1250 🔺  (379)|
-| Total Matches | 12 |
+| ELO Regular | 1224 🔻  (337)|
+| ELO Competitive | 1239 🔻  (417)|
+| Total Matches | 13 |
 | Wins | 7 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 0 |
 | Streak Record | 4 |
 | Flagship | 4 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730506986,1729134586,1728687958,1727744316,1726982690,1726328155,1725474748,1724581959,1724072598,1723361568,1722857916,1722346450];
+        let timestamps = [1732965371,1730506986,1729134586,1728687958,1727744316,1726982690,1726328155,1725474748,1724581959,1724072598,1723361568,1722857916,1722346450];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/05 | 2-4 | [太阳系集团](https://ws.tsl.rocks/corp/50f5e0a888ce2f21c0980be0cbb1e444e1d7eeb9dcb2095c3e428bd5bde7a9f6/) |
 | ✅ | 2024/11/07 | 12-0 | [The Gladiators](https://ws.tsl.rocks/corp/4aa9000c49c8a988df27932c5a5840800303bdb713ef35f9d207a4da7f6b0337/) |
 | ❌ | 2024/10/22 | 6-12 | [云浪山庄↕](https://ws.tsl.rocks/corp/597bcb53e7f2e8f5bf2135602da30d76170ca6a5d950a0c60b5c617b6c32dead/) |
 | ✅ | 2024/10/16 | 7-4 | [AAAA](https://ws.tsl.rocks/corp/73b759d7c9218f2c1171f9ef691739331ca36ee045039f4f3f935a47b6622a27/) |

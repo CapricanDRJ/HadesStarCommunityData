@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​太阳系集团
-description: W:16 L:7 D:2 Bonus ✅
+description: W:17 L:7 D:2 Bonus ✅
 image: ./favicon.png
-date: 1733352208
+date: 1733397371
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,13 +21,13 @@ date: 1733352208
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1292 🔺  (170)|
-| ELO Competitive | 1347 🔺  (187)|
-| Total Matches | 25 |
-| Wins | 16 |
+| ELO Regular | 1304 🔺  (146)|
+| ELO Competitive | 1348 🔺  (186)|
+| Total Matches | 26 |
+| Wins | 17 |
 | Losses | 7 |
 | Draws | 2 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 5 |
 | Flagship | 4 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732920208,1732462327,1732112249,1732028414,1731595995,1731590886,1731108574,1731075515,1730638000,1730532524,1729937836,1729844074,1729311499,1729270124,1728823828,1728369988,1727891861,1727883446,1727441099,1727239771,1726834112,1726375938,1725930607,1725451004,1724983135];
+        let timestamps = [1732965371,1732920208,1732462327,1732112249,1732028414,1731595995,1731590886,1731108574,1731075515,1730638000,1730532524,1729937836,1729844074,1729311499,1729270124,1728823828,1728369988,1727891861,1727883446,1727441099,1727239771,1726834112,1726375938,1725930607,1725451004,1724983135];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/05 | 4-2 | [哈迪斯之星，启动！](https://ws.tsl.rocks/corp/bc58305a02f7392f340d26a3becd4784de7360dd5264df9e85d73116b93496d8/) |
 | ✅ | 2024/12/04 | 4-0 | [hades star萌新指引站](https://ws.tsl.rocks/corp/06feef105195a4e2ec026c0e3e2c62fce31204dfe6be8e4b26863935efbf8a50/) |
 | ✅ | 2024/11/29 | 5-0 | [Slytherin](https://ws.tsl.rocks/corp/735830d4008f77aa6eca6830b6cba02e5decb3eaed66ab3305b7e39c0bf0c489/) |
 | ✅ | 2024/11/25 | 16-0 | [佛矿寺](https://ws.tsl.rocks/corp/64f8afd95b7004e9d5a442da55644ee3ce64a9a8e82345c458d757b527e40624/) |
