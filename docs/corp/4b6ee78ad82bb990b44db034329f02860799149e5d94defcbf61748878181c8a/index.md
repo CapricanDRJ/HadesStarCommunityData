@@ -22,7 +22,7 @@ s WS
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1195 🔺  (540)|
+| ELO Regular | 1195 🔺  (542)|
 | ELO Competitive | 1198 🔺  (651)|
 | Total Matches | 5 |
 | Wins | 2 |

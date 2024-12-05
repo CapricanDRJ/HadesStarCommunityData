@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Greek Warriors
-description: W:9 L:25 D:0 Bonus ✅
+description: W:9 L:25 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732735957
 ---
@@ -18,7 +18,7 @@ date: 1732735957
 https://discord.gg/DDhaupc
 ```
 ### [Discord](https://discord.gg/DDhaupc)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

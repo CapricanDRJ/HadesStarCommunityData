@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Glashan
-description: W:11 L:37 D:0 Bonus ✅
+description: W:11 L:37 D:0 Bonus ❌
 image: ./favicon.png
 date: 1733242005
 ---
@@ -18,7 +18,7 @@ oup who play for fun and most of us are regularly online. English is
 our main language in chat.
 ```
 ### [Discord](https://discord.gg/Md9TAQJQTp)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
