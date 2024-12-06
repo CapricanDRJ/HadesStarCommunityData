@@ -22,7 +22,7 @@ NSE
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1169 🔻  (969)|
-| ELO Competitive | 1172 🔻  (1066)|
+| ELO Competitive | 1172 🔻  (1065)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

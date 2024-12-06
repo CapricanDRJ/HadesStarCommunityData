@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​RUS
-description: W:17 L:19 D:0 Bonus ❌
+description: W:17 L:20 D:0 Bonus ❌
 image: ./favicon.png
-date: 1733471292
+date: 1733501347
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ https://t.me/RSeventHS
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1203 🔻  (477)|
+| ELO Regular | 1192 🔻  (562)|
 | ELO Competitive | 1293 🔻  (272)|
-| Total Matches | 36 |
+| Total Matches | 37 |
 | Wins | 17 |
-| Losses | 19 |
+| Losses | 20 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 15 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733039292,1732091514,1731395573,1730815896,1730372658,1728981015,1728216732,1727690817,1727245479,1726796856,1720407446,1716213239,1715760760,1712417124,1711958593,1710071322,1709303908,1707306924,1706615944,1705595091,1705088132,1704382826,1703849710,1702916384,1702179449,1702048405,1701607809,1701471369,1701010333,1700992898,1700441398,1700428175,1699888623,1699824910,1699310955,1698740575];
+        let timestamps = [1733069347,1733039292,1732091514,1731395573,1730815896,1730372658,1728981015,1728216732,1727690817,1727245479,1726796856,1720407446,1716213239,1715760760,1712417124,1711958593,1710071322,1709303908,1707306924,1706615944,1705595091,1705088132,1704382826,1703849710,1702916384,1702179449,1702048405,1701607809,1701471369,1701010333,1700992898,1700441398,1700428175,1699888623,1699824910,1699310955,1698740575];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) | 0 | 2 | 0 | 2 |
 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) | 0 | 3 | 0 | 3 |
 | [Trade Station](https://ws.tsl.rocks/corp/7003e286fe1a04aaa63e3aa318c164856c07e251a94b0496757140f5eda72cd7/) | 2 | 0 | 0 | 2 |
 | [Spacefleet](https://ws.tsl.rocks/corp/517f7b257f68936f7a95a478d6923776a2549b88897bae628fd35b23572d3cbd/) | 1 | 1 | 0 | 2 |
@@ -149,6 +150,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/06 | 7-52 | [UAGC](https://ws.tsl.rocks/corp/1be720217ab52db12c48c73fc6d02f0cd66130efe05373dd97926fac3992557d/) |
 | ❌ | 2024/12/06 | 8-55 | [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) |
 | ✅ | 2024/11/25 | 42-26 | [Deadspace](https://ws.tsl.rocks/corp/45fc2bf2d1b40361071590e427fa47116d4e5e063064d17ed9933bbd61f04369/) |
 | ❌ | 2024/11/17 | 18-49 | [Ender](https://ws.tsl.rocks/corp/71bc7ab0134ea1a0c057680d9d8465bd65b54fc1c78d9b7b9b582baabfd46e0d/) |

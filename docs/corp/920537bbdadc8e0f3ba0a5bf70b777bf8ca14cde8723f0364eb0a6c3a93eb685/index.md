@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​UFO
-description: W:7 L:10 D:1 Bonus ✅
+description: W:7 L:10 D:1 Bonus ❌
 image: ./favicon.png
 date: 1733499543
 ---
@@ -16,11 +16,11 @@ date: 1733499543
 United Fleet Operations:
 https://discord.gg/NuvtUTUxQj 
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1211 🔻  (436)|
+| ELO Regular | 1211 🔻  (437)|
 | ELO Competitive | 1237 🔻  (421)|
 | Total Matches | 18 |
 | Wins | 7 |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Red Star
-description: W:2 L:2 D:0 Bonus ✅
+description: W:3 L:2 D:0 Bonus ✅
 image: ./favicon.png
-date: 1733499543
+date: 1733507981
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,14 @@ date: 1733499543
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 🔺  (486)|
+| ELO Regular | 1216 🔺  (387)|
 | ELO Competitive | 1208 🔺  (581)|
-| Total Matches | 4 |
-| Wins | 2 |
+| Total Matches | 5 |
+| Wins | 3 |
 | Losses | 2 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 | Flagship | 3 |
 
 ---
@@ -43,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733067543,1732569006,1732020299,1731559638];
+        let timestamps = [1733075981,1733067543,1732569006,1732020299,1731559638];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/06 | 4-0 | [BAB](https://ws.tsl.rocks/corp/d17895c8b0b7003682ed6441ed0a2040355c3b53e6e4609302acccab6a0deaea/) |
 | ✅ | 2024/12/06 | 11-0 | [Industrial W\.O](https://ws.tsl.rocks/corp/99a4ba88f6a620cb9ea1da456127c978a858ffbda4e40b255fcf3365515da25d/) |
 | ❌ | 2024/11/30 | 1-3 | [AlyTec Sys\.](https://ws.tsl.rocks/corp/4f98eeb43077d5c00a32f9810352931d8778fb5b24d8b49c318953d489f07df0/) |
 | ✅ | 2024/11/24 | 7-1 | [对，进就进人少的（分团）](https://ws.tsl.rocks/corp/69a860d3020745a9088fa70fa7ebc4caaa8a6181832961bcd607fbfa627203f3/) |

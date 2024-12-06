@@ -22,7 +22,7 @@ d Star, let us know and we'll help. Let's Finish the Game!
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1302 🔻  (151)|
-| ELO Competitive | 1418 🔻  (118)|
+| ELO Competitive | 1418 🔻  (119)|
 | Total Matches | 61 |
 | Wins | 45 |
 | Losses | 16 |
