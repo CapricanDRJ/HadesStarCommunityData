@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​世外桃源
-description: W:20 L:109 D:0 Bonus ✅
+description: W:20 L:109 D:0 Bonus ❌
 image: ./favicon.png
 date: 1733296104
 ---
@@ -18,7 +18,7 @@ date: 1733296104
   QQ群:479054325（欢迎加入，加盟先加群！）
 ```
 ### [Discord](https://discord.gg/ndQgHcT)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

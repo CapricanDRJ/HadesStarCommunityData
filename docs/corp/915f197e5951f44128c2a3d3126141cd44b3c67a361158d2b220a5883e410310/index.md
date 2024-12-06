@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Торг. федерация
-description: W:12 L:15 D:0 Bonus ✅
+description: W:12 L:15 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732806878
 ---
@@ -20,7 +20,7 @@ https://discord.gg/E67DY45fPC
 Дискорд обязателен.
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/vmPbPHsU)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
