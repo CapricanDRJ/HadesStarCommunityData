@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Lacuna X
-description: W:47 L:6 D:1 Bonus ✅
+description: W:47 L:6 D:1 Bonus ❌
 image: ./favicon.png
 date: 1732995596
 ---
@@ -24,12 +24,12 @@ White Star focused.
 
 ```
 ### [Discord](https://discord.gg/BFfSkvu)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1509 🔻  (7)|
-| ELO Competitive | 1561 🔺  (25)|
+| ELO Competitive | 1561 🔺  (24)|
 | Total Matches | 54 |
 | Wins | 47 |
 | Losses | 6 |

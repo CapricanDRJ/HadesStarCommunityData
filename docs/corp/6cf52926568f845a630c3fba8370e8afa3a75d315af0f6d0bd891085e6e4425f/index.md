@@ -21,7 +21,7 @@ ctive pilots.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1083 🔻  (1271)|
+| ELO Regular | 1083 🔻  (1272)|
 | ELO Competitive | 1130 🔻  (1264)|
 | Total Matches | 34 |
 | Wins | 10 |

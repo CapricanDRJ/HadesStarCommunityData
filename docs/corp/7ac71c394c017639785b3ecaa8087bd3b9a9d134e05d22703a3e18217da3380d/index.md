@@ -21,7 +21,7 @@ b>  Peacefully collecting relics since 2018.                   😎
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1083 🔻  (1269)|
+| ELO Regular | 1083 🔻  (1270)|
 | ELO Competitive | 1194 🔻  (683)|
 | Total Matches | 54 |
 | Wins | 16 |
