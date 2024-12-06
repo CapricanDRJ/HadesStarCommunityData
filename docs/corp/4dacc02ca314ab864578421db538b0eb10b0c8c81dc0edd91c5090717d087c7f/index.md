@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Armored Union 
-description: W:27 L:24 D:1 Bonus ❌
+description: W:28 L:24 D:1 Bonus ✅
 image: ./favicon.png
-date: 1732674960
+date: 1733449332
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ an Armored Union of warriors! Share Artifacts and build strong allies
  in pursuit of adventure! keep up, keep fighting! :)
 ```
 ### [Discord](https://discord.gg/v454nxdC)
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1222 🔻  (346)|
-| ELO Competitive | 1343 🔻  (196)|
-| Total Matches | 52 |
-| Wins | 27 |
+| ELO Regular | 1240 🔺  (279)|
+| ELO Competitive | 1361 🔺  (173)|
+| Total Matches | 53 |
+| Wins | 28 |
 | Losses | 24 |
 | Draws | 1 |
 | Streak Record | 3 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732242960,1731483915,1730838698,1730118200,1730096508,1729567931,1729564326,1728894463,1728182775,1728181874,1727435990,1726364521,1725504794,1724414569,1723962900,1723461338,1722961597,1722647255,1722477171,1722007946,1721994933,1721359845,1720790329,1720767186,1720163122,1720160117,1719711134,1719660946,1719191869,1719179250,1718748912,1718728473,1718229165,1718211732,1717534261,1717002300,1716955418,1716536807,1716240886,1715726515,1715704660,1715072423,1715064613,1714439558,1714428140,1713804687,1713255157,1712694174,1711922842,1711361242,1710721843,1709826432];
+        let timestamps = [1733017332,1732242960,1731483915,1730838698,1730118200,1730096508,1729567931,1729564326,1728894463,1728182775,1728181874,1727435990,1726364521,1725504794,1724414569,1723962900,1723461338,1722961597,1722647255,1722477171,1722007946,1721994933,1721359845,1720790329,1720767186,1720163122,1720160117,1719711134,1719660946,1719191869,1719179250,1718748912,1718728473,1718229165,1718211732,1717534261,1717002300,1716955418,1716536807,1716240886,1715726515,1715704660,1715072423,1715064613,1714439558,1714428140,1713804687,1713255157,1712694174,1711922842,1711361242,1710721843,1709826432];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -145,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/06 | 15-1 | [  边界  ](https://ws.tsl.rocks/corp/86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a/) |
 | ❌ | 2024/11/27 | 0-9 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ✅ | 2024/11/18 | 8-6 | [CIS](https://ws.tsl.rocks/corp/3efaab24560531ff257e73bfb281a7e9c0a9d591ac5aff55d05d35f2fb5e1d73/) |
 | ✅ | 2024/11/10 | 15-3 | [RedStar Raiding](https://ws.tsl.rocks/corp/83a1c4f1576eec7dce037eb5b64b2455ca3affb9d3072108c5d4d3eba88b4570/) |

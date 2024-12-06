@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​ANZAC Warriors
-description: W:18 L:5 D:1 Bonus ✅
+description: W:18 L:5 D:1 Bonus ❌
 image: ./favicon.png
 date: 1732820403
 ---
@@ -17,11 +17,11 @@ Soldiers that never give up on the battlefield despite the odds. Grea
 t team atmosphere, regular white/red stars. Active  members join us h
 ttps://discord.com/invite/rmzHUdXef7
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1305 🔺  (144)|
+| ELO Regular | 1305 🔺  (143)|
 | ELO Competitive | 1321 🔺  (227)|
 | Total Matches | 24 |
 | Wins | 18 |
