@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Winter Star llc
-description: W:5 L:3 D:1 Bonus ❌
+description: W:6 L:3 D:1 Bonus ✅
 image: ./favicon.png
-date: 1732840236
+date: 1733489924
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,18 +17,18 @@ Winter Star llc, a Beginner Corporation to help you out on your missi
 ons! //You must Join our Discord within 7 days 
 ```
 ### [Discord](https://discord.gg/SpNnydQdNf)
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺  (387)|
-| ELO Competitive | 1240 🔺  (412)|
-| Total Matches | 9 |
-| Wins | 5 |
+| ELO Regular | 1229 🔺  (321)|
+| ELO Competitive | 1255 🔺  (357)|
+| Total Matches | 10 |
+| Wins | 6 |
 | Losses | 3 |
 | Draws | 1 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 | Flagship | 3 |
 
 ---
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732408236,1731760068,1731278090,1730621472,1729856695,1729184477,1729170346,1728726422,1728040018];
+        let timestamps = [1733057924,1732408236,1731760068,1731278090,1730621472,1729856695,1729184477,1729170346,1728726422,1728040018];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/06 | 15-0 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
 | ✅ | 2024/11/29 | 11-3 | [🌪TORNADO ](https://ws.tsl.rocks/corp/df15d02d32c67d60995e68d6c4197c23b340a0a985f04280563d8d07bd4536fa/) |
 | ✅ | 2024/11/21 | 14-0 | [逐光起航](https://ws.tsl.rocks/corp/e6bb076aa209101b5fa1cbc40a614c241d71ab5eca143c733b81aed6302455e8/) |
 | ↔️ | 2024/11/15 | 4-4 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb/) |

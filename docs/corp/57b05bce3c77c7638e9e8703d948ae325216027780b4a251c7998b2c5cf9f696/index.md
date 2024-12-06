@@ -19,8 +19,8 @@ Mercury Retrograde
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔻  (580)|
-| ELO Competitive | 1192 🔻  (713)|
+| ELO Regular | 1190 🔻  (581)|
+| ELO Competitive | 1192 🔻  (714)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

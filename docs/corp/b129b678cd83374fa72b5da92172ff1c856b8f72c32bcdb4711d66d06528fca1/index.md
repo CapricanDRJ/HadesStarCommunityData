@@ -22,7 +22,7 @@ active! We are actively looking for White Star Players
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1196 🔻  (534)|
+| ELO Regular | 1196 🔻  (535)|
 | ELO Competitive | 1234 🔻  (435)|
 | Total Matches | 48 |
 | Wins | 21 |

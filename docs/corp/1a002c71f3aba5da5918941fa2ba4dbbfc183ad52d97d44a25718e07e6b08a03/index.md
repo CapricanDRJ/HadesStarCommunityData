@@ -25,7 +25,7 @@ RS1+
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1468 🔺  (18)|
+| ELO Regular | 1468 🔺  (17)|
 | ELO Competitive | 1523 🔺  (40)|
 | Total Matches | 56 |
 | Wins | 48 |
