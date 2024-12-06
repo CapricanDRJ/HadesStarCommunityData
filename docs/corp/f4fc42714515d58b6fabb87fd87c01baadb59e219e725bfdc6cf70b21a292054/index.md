@@ -20,7 +20,7 @@ spreading bloodborne's positive vibes
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1194 🔺  (551)|
+| ELO Regular | 1194 🔺  (550)|
 | ELO Competitive | 1197 🔺  (658)|
 | Total Matches | 11 |
 | Wins | 5 |

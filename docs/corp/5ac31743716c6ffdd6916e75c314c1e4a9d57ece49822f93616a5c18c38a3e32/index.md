@@ -21,7 +21,7 @@ ommunity. Join today :D
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (715)|
+| ELO Regular | 1185 🔻  (714)|
 | ELO Competitive | 1185 🔻  (877)|
 | Total Matches | 1 |
 | Wins | 0 |
