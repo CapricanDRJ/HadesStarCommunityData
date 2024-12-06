@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Wompwompway 
-description: W:34 L:11 D:0 Bonus ✅
+description: W:34 L:11 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732831823
 ---
@@ -17,12 +17,12 @@ Welcome! Ask for the discord to best facilitate our leadership to hel
 p anyone who desires the aid.
 ```
 ### [Discord](https://discord.gg/https://discord.gg/Y3NrTFZHC7)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1363 🔺  (79)|
-| ELO Competitive | 1428 🔺  (106)|
+| ELO Competitive | 1428 🔺  (104)|
 | Total Matches | 45 |
 | Wins | 34 |
 | Losses | 11 |
