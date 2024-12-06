@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Дом Датэ
-description: W:33 L:27 D:0 Bonus ✅
+description: W:33 L:27 D:0 Bonus ❌
 image: ./favicon.png
 date: 1733467386
 ---
@@ -16,7 +16,7 @@ date: 1733467386
  Добро пожаловать! Открыты всем. Дата основания 09.06.22. Ссылка на г
 остевой чат в ТГ https://t.me/Date_Samurai_HS
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

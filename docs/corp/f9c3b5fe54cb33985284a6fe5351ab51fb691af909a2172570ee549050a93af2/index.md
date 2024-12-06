@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​STAR TERROR CZ
-description: W:2 L:5 D:0 Bonus ❌
+description: W:3 L:5 D:0 Bonus ✅
 image: ./favicon.png
-date: 1732909657
+date: 1733518478
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ CZ/SK korporace            Odkaz na stažení HadesSpace https://userxi
 nos.github.io/HadesSpace/
 ```
 ### [Discord](https://discord.gg/syV6uUt9dM)
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔻  (813)|
-| ELO Competitive | 1198 🔻  (649)|
-| Total Matches | 7 |
-| Wins | 2 |
+| ELO Regular | 1203 🔺  (476)|
+| ELO Competitive | 1222 🔺  (478)|
+| Total Matches | 8 |
+| Wins | 3 |
 | Losses | 5 |
 | Draws | 0 |
 | Streak Record | 2 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732477657,1731873668,1731270875,1730664452,1730059252,1706223775,1699343403];
+        let timestamps = [1733086478,1732477657,1731873668,1731270875,1730664452,1730059252,1706223775,1699343403];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/06 | 33-0 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) |
 | ❌ | 2024/11/29 | 7-13 | [lonewolf](https://ws.tsl.rocks/corp/216c1ab0bb2cbf918019c0a38a37820a9d5d78d7c5801983ed6e3b17bebdc5f3/) |
 | ✅ | 2024/11/22 | 15-8 | [Kelebra](https://ws.tsl.rocks/corp/0b1ce787fadd83433c02fb7f56a905ea64f918c1396ac37b8591891adf232eb6/) |
 | ✅ | 2024/11/15 | 38-3 | [R\-6 satalite](https://ws.tsl.rocks/corp/ce3450a529768e932b3aeb4c6f39b9295e6e07d010b209d0120c0125799adc43/) |

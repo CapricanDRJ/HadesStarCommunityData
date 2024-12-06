@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Nearland Ind
-description: W:62 L:23 D:0 Bonus ✅
+description: W:62 L:23 D:0 Bonus ❌
 image: ./favicon.png
 date: 1733499543
 ---
@@ -22,7 +22,7 @@ Join our public RS queue on discord!
 FS2 - Closed
 ```
 ### [Discord](https://discord.gg/vPsNNxs)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
