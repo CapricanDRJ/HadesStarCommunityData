@@ -19,7 +19,7 @@ You are lucky to meet me in White Star! Congratulations!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1145 🔻  (1119)|
+| ELO Regular | 1145 🔻  (1118)|
 | ELO Competitive | 1162 🔻  (1148)|
 | Total Matches | 3 |
 | Wins | 0 |

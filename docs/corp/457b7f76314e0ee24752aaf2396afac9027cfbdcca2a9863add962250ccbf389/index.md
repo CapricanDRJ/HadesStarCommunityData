@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Лунный Феникс
-description: W:44 L:24 D:2 Bonus ✅
+description: W:44 L:24 D:2 Bonus ❌
 image: ./favicon.png
 date: 1732917771
 ---
@@ -16,7 +16,7 @@ date: 1732917771
 вкладывать в флагман 2
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/4QSGgfYy)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

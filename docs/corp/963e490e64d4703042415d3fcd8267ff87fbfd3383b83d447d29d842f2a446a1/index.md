@@ -20,8 +20,8 @@ Dutch speakers only! Discord verplicht ping MrSenf, Yah Boo
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1132 🔺  (1172)|
-| ELO Competitive | 1194 🔺  (681)|
+| ELO Regular | 1132 🔺  (1173)|
+| ELO Competitive | 1194 🔺  (682)|
 | Total Matches | 47 |
 | Wins | 12 |
 | Losses | 35 |

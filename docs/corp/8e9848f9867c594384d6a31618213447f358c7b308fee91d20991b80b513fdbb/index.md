@@ -21,7 +21,7 @@ Vulnera Virtutem Vivificant
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1345 🔺  (93)|
-| ELO Competitive | 1417 🔺  (120)|
+| ELO Competitive | 1417 🔺  (121)|
 | Total Matches | 44 |
 | Wins | 33 |
 | Losses | 11 |

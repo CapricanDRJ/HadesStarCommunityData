@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Winged Pheonix
-description: W:12 L:18 D:0 Bonus ❌
+description: W:12 L:19 D:0 Bonus ❌
 image: ./favicon.png
-date: 1732911160
+date: 1733553326
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -24,11 +24,11 @@ Discord: sqaDS62zfW
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1153 🔻  (1084)|
-| ELO Competitive | 1237 🔻  (420)|
-| Total Matches | 30 |
+| ELO Regular | 1135 🔻  (1159)|
+| ELO Competitive | 1225 🔻  (467)|
+| Total Matches | 31 |
 | Wins | 12 |
-| Losses | 18 |
+| Losses | 19 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 8 |
@@ -49,7 +49,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732479160,1731915431,1731245622,1730619068,1729861804,1729249383,1728629347,1727844378,1727309490,1726821191,1726041481,1725571508,1725039334,1724218644,1723534967,1723086604,1722397236,1721906475,1721445187,1720937900,1720040505,1719463519,1718596544,1718121274,1717392995,1716545518,1716007428,1715248485,1714705767,1713772837];
+        let timestamps = [1733121326,1732479160,1731915431,1731245622,1730619068,1729861804,1729249383,1728629347,1727844378,1727309490,1726821191,1726041481,1725571508,1725039334,1724218644,1723534967,1723086604,1722397236,1721906475,1721445187,1720937900,1720040505,1719463519,1718596544,1718121274,1717392995,1716545518,1716007428,1715248485,1714705767,1713772837];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -146,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/07 | 3-27 | [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/) |
 | ❌ | 2024/11/29 | 8-41 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) |
 | ✅ | 2024/11/23 | 25-13 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) |
 | ❌ | 2024/11/15 | 4-15 | [DTC](https://ws.tsl.rocks/corp/4be10b4fa74e6bc45ea50d720527bec8db0312f419a419f203b09350d663c755/) |

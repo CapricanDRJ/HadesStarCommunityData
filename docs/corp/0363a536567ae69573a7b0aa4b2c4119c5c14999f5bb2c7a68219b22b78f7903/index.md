@@ -22,7 +22,7 @@ upo si deseas unirte solo consulta al primer oficial.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1285 🔺  (178)|
+| ELO Regular | 1285 🔺  (179)|
 | ELO Competitive | 1298 🔺  (266)|
 | Total Matches | 16 |
 | Wins | 11 |

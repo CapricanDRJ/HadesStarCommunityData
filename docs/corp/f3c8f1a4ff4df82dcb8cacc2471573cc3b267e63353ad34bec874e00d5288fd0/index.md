@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​自由free
-description: W:0 L:4 D:0 Bonus ❌
+description: W:0 L:5 D:0 Bonus ❌
 image: ./favicon.png
-date: 1733081233
+date: 1733548220
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ go online! ! !
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1149 🔻  (1100)|
-| ELO Competitive | 1170 🔻  (1092)|
-| Total Matches | 4 |
+| ELO Regular | 1139 🔻  (1146)|
+| ELO Competitive | 1159 🔻  (1161)|
+| Total Matches | 5 |
 | Wins | 0 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
 | Flagship | 1 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732649233,1732633905,1732002572,1731214362];
+        let timestamps = [1733116220,1732649233,1732633905,1732002572,1731214362];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/07 | 2-18 | [Equinox](https://ws.tsl.rocks/corp/d6f4702c0a85549d019474868a68ecc1a6c546d73fa31f9336ee639a906ff0fe/) |
 | ❌ | 2024/12/01 | 0-15 | [imperio galacti](https://ws.tsl.rocks/corp/53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2/) |
 | ❌ | 2024/12/01 | 1-5 | [华夏三体\-基沃托斯集团](https://ws.tsl.rocks/corp/2a0e5e40c4264cc5c8543ba1f6f41772d2059010c0a58381251017412b294ef7/) |
 | ❌ | 2024/11/24 | 2-15 | [CIS](https://ws.tsl.rocks/corp/3efaab24560531ff257e73bfb281a7e9c0a9d591ac5aff55d05d35f2fb5e1d73/) |
