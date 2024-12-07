@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​lesescargots
-description: W:53 L:20 D:0 Bonus ✅
+description: W:53 L:20 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732933693
 ---
@@ -15,7 +15,7 @@ date: 1732933693
 ```
 Closed the list
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
