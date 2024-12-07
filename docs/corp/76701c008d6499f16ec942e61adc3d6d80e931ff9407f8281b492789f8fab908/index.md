@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​New Star
-description: W:2 L:6 D:0 Bonus ❌
+description: W:3 L:6 D:0 Bonus ✅
 image: ./favicon.png
-date: 1732327002
+date: 1733524789
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,14 +20,14 @@ We are friendly international corp. English and/or German prefered, b
 ut other languages tolerated. 
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/38aedttX)
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1183 🔻  (804)|
-| ELO Competitive | 1199 🔻  (644)|
-| Total Matches | 8 |
-| Wins | 2 |
+| ELO Regular | 1200 🔺  (506)|
+| ELO Competitive | 1223 🔺  (477)|
+| Total Matches | 9 |
+| Wins | 3 |
 | Losses | 6 |
 | Draws | 0 |
 | Flagship | 6 |
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731895002,1730021379,1729304683,1727572125,1721851190,1714178748,1712961583,1701681441];
+        let timestamps = [1733092789,1731895002,1730021379,1729304683,1727572125,1721851190,1714178748,1712961583,1701681441];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/06 | 35-3 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ❌ | 2024/11/23 | 14-24 | [Corvus Ind\.](https://ws.tsl.rocks/corp/f99305aca0eca2f37971c97916647c8edd0258de0d30a3de61941700e7fb2c94/) |
 | ❌ | 2024/11/01 | 9-13 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) |
 | ❌ | 2024/10/24 | 20-27 | [Red Dawn](https://ws.tsl.rocks/corp/fee852a2530bc5e3cbe5b2a5fdb224d249eeceeb3688cfd71479344181831328/) |

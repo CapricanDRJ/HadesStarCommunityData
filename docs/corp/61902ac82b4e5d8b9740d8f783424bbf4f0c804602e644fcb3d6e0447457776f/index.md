@@ -21,7 +21,7 @@ mended, & remember you are expendable, we love you
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1299 🔻  (156)|
-| ELO Competitive | 1436 🔺  (100)|
+| ELO Competitive | 1436 🔺  (99)|
 | Total Matches | 35 |
 | Wins | 24 |
 | Losses | 10 |

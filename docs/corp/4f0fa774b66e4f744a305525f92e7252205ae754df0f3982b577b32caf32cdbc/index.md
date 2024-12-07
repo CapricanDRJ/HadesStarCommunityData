@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​闲散人员
-description: W:15 L:8 D:2 Bonus ✅
+description: W:15 L:9 D:2 Bonus ✅
 image: ./favicon.png
-date: 1733511865
+date: 1733525347
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 1733511865
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1260 🔺  (222)|
+| ELO Regular | 1240 🔻  (277)|
 | ELO Competitive | 1319 🔺  (230)|
-| Total Matches | 25 |
+| Total Matches | 26 |
 | Wins | 15 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 2 |
 | Streak Record | 6 |
 | Flagship | 3 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733079865,1732512209,1732376486,1732057764,1731429530,1730890713,1730290024,1729781576,1729334734,1728873730,1728293662,1727785779,1727784876,1727324511,1727318502,1726760499,1726748476,1726234751,1726146048,1725739186,1725641218,1725171553,1724626142,1723973420,1723372086];
+        let timestamps = [1733093347,1733079865,1732512209,1732376486,1732057764,1731429530,1730890713,1730290024,1729781576,1729334734,1728873730,1728293662,1727785779,1727784876,1727324511,1727318502,1726760499,1726748476,1726234751,1726146048,1725739186,1725641218,1725171553,1724626142,1723973420,1723372086];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) | 1 | 1 | 0 | 2 |
 | [逐光起航](https://ws.tsl.rocks/corp/e6bb076aa209101b5fa1cbc40a614c241d71ab5eca143c733b81aed6302455e8/) | 1 | 1 | 0 | 2 |
 
 ---
@@ -139,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/06 | 0-3 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ✅ | 2024/12/06 | 6-0 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ❌ | 2024/11/30 | 3-18 | [Equinox](https://ws.tsl.rocks/corp/d6f4702c0a85549d019474868a68ecc1a6c546d73fa31f9336ee639a906ff0fe/) |
 | ✅ | 2024/11/28 | 2-0 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) |
