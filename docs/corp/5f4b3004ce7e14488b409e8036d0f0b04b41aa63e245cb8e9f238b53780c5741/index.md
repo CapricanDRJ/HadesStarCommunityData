@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Т Е Н Ь
-description: W:8 L:1 D:0 Bonus ✅
+description: W:8 L:1 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732950217
 ---
@@ -18,7 +18,7 @@ date: 1732950217
 ми, так и артефактами.
 ```
 ### [Discord](https://discord.gg/BzbFDrhy3x)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

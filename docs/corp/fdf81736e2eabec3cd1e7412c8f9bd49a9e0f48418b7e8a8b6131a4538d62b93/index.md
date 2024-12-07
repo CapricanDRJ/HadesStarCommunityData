@@ -21,8 +21,8 @@ Join us on Discord for RS, WS, chat and other active members: mDEUrs8
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1196 🔻  (537)|
-| ELO Competitive | 1196 🔻  (673)|
+| ELO Regular | 1196 🔻  (538)|
+| ELO Competitive | 1196 🔻  (674)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

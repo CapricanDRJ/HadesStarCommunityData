@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​AlSounT
-description: W:13 L:9 D:0 Bonus ✅
+description: W:13 L:9 D:0 Bonus ❌
 image: ./favicon.png
 date: 1733408190
 ---
@@ -17,11 +17,11 @@ date: 1733408190
 м  - Ищем отважных и надёжных командиров если ты не трус залетай  к н
 ам и вместе будем биться у Белых Звёзд
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1255 🔻  (231)|
+| ELO Regular | 1255 🔻  (232)|
 | ELO Competitive | 1308 🔻  (248)|
 | Total Matches | 22 |
 | Wins | 13 |

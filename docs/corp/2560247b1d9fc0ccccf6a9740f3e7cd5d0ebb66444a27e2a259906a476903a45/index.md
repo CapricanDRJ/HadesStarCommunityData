@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Revólver
-description: W:11 L:20 D:1 Bonus ❌
+description: W:12 L:20 D:1 Bonus ✅
 image: ./favicon.png
-date: 1732985077
+date: 1733582774
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,14 +16,14 @@ date: 1732985077
 <size=50><b><color=white>Navegar es necesario. <size=50><b><color=red
 >Vivir no lo es
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (918)|
-| ELO Competitive | 1206 🔻  (593)|
-| Total Matches | 32 |
-| Wins | 11 |
+| ELO Regular | 1183 🔺  (811)|
+| ELO Competitive | 1220 🔺  (493)|
+| Total Matches | 33 |
+| Wins | 12 |
 | Losses | 20 |
 | Draws | 1 |
 | Streak Record | 3 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732553077,1731957205,1731339685,1730733561,1730120547,1729518047,1728917607,1728339045,1727717571,1727103054,1725900257,1725293859,1709359497,1708368793,1707763581,1707158782,1706624660,1705959929,1705168371,1704730223,1704123483,1703613204,1702910072,1702310189,1701706388,1701102301,1700514430,1700503306,1699891330,1699888924,1699287812,1698699397];
+        let timestamps = [1733150774,1732553077,1731957205,1731339685,1730733561,1730120547,1729518047,1728917607,1728339045,1727717571,1727103054,1725900257,1725293859,1709359497,1708368793,1707763581,1707158782,1706624660,1705959929,1705168371,1704730223,1704123483,1703613204,1702910072,1702310189,1701706388,1701102301,1700514430,1700503306,1699891330,1699888924,1699287812,1698699397];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/07 | 28-0 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) |
 | ❌ | 2024/11/30 | 9-12 | [Argentina 1\.0](https://ws.tsl.rocks/corp/582e7dce954da49eb68cdf263806d5b8f37da4c81a6eef072e63102be0fa5449/) |
 | ✅ | 2024/11/23 | 29-18 | [WinterComes](https://ws.tsl.rocks/corp/a8f3bbc084fca4434869893ccbfca6c52960e64ee5db87ef257d706194a2f596/) |
 | ❌ | 2024/11/16 | 20-32 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
