@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​corporacion I.A
-description: W:1 L:3 D:0 Bonus ✅
+description: W:1 L:3 D:0 Bonus ❌
 image: ./favicon.png
 date: 1733011558
 ---
@@ -18,7 +18,7 @@ Unete a nosotros en esta larga travesía.             -Capital del Imp
 erio Pendejico- Discord: https://discord.com/invite/fRfYczjyuD
 ```
 ### [Discord](https://discord.gg/fRfYczjyuD)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
