@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​ 墨痕 
-description: W:12 L:18 D:0 Bonus ❌
+description: W:12 L:19 D:0 Bonus ❌
 image: ./favicon.png
-date: 1733581918
+date: 1733614931
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 1733581918
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1153 🔻  (1085)|
+| ELO Regular | 1147 🔻  (1107)|
 | ELO Competitive | 1232 🔻  (435)|
-| Total Matches | 30 |
+| Total Matches | 31 |
 | Wins | 12 |
-| Losses | 18 |
+| Losses | 19 |
 | Draws | 0 |
 | Streak Record | 5 |
 | Flagship | 5 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733149918,1732745931,1732710825,1732269698,1732106839,1731745643,1731138623,1730473997,1729929121,1726572482,1724376710,1724210831,1719577106,1705579464,1703515231,1703506816,1703073457,1703066244,1702568659,1702555133,1702099501,1702097396,1701593081,1701494206,1701093884,1700573027,1699963157,1699689930,1699529103,1698843669];
+        let timestamps = [1733182931,1733149918,1732745931,1732710825,1732269698,1732106839,1731745643,1731138623,1730473997,1729929121,1726572482,1724376710,1724210831,1719577106,1705579464,1703515231,1703506816,1703073457,1703066244,1702568659,1702555133,1702099501,1702097396,1701593081,1701494206,1701093884,1700573027,1699963157,1699689930,1699529103,1698843669];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/07 | 0-37 | [BRASIL STAR](https://ws.tsl.rocks/corp/94fc4639f17e4503a11d4ac3878f3203bca3f21baebf285433ff39ad37f0fff2/) |
 | ❌ | 2024/12/07 | 0-6 | [Axiom](https://ws.tsl.rocks/corp/4000a010c205d318c766ba14fe1836eaab6652f1738a88cce8a8c69d0283e1b0/) |
 | ❌ | 2024/12/02 | 0-34 | [Ninth Planet](https://ws.tsl.rocks/corp/53297ed66c8c326d4cb4eebdee55172d3d64f122addd5d916b314f4ab557e21a/) |
 | ❌ | 2024/12/02 | 0-20 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |

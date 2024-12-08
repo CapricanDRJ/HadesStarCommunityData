@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Zeta Division 
-description: W:7 L:2 D:0 Bonus ❌
+description: W:8 L:2 D:0 Bonus ✅
 image: ./favicon.png
-date: 1732586321
+date: 1733614630
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,16 +18,17 @@ o hapy to see experienced players. Main corp ( Industrial W.O) . Also
  join Discord!
 ```
 ### [Discord](https://discord.gg/QJASDtk4j7)
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1266 🔺  (211)|
-| ELO Competitive | 1299 🔺  (261)|
-| Total Matches | 9 |
-| Wins | 7 |
+| ELO Regular | 1282 🔺  (183)|
+| ELO Competitive | 1314 🔺  (236)|
+| Total Matches | 10 |
+| Wins | 8 |
 | Losses | 2 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 5 |
 | Flagship | 3 |
 
@@ -47,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732154321,1732154321,1731232695,1730609755,1729911979,1729186280,1728740556,1728234768,1727606677];
+        let timestamps = [1733182630,1732154321,1732154321,1731232695,1730609755,1729911979,1729186280,1728740556,1728234768,1727606677];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/07 | 4-3 | [蓝星集团](https://ws.tsl.rocks/corp/9d718b80beaf9682ccde175169372b72f70b75bb593770762dfc9e990cbd098a/) |
 | ✅ | 2024/11/26 | 8-3 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
 | ❌ | 2024/11/26 | 0-4 | [exirium](https://ws.tsl.rocks/corp/4981522e08ce38bcec7b2a189b3bfba9c072a615eea490a55c645344ac975f54/) |
 | ✅ | 2024/11/15 | 13-0 | [hades star萌新指引站](https://ws.tsl.rocks/corp/06feef105195a4e2ec026c0e3e2c62fce31204dfe6be8e4b26863935efbf8a50/) |

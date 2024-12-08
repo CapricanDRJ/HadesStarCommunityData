@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Imperium
-description: W:7 L:0 D:0 Bonus ✅
+description: W:7 L:0 D:0 Bonus ❌
 image: ./favicon.png
 date: 1732986880
 ---
@@ -18,12 +18,12 @@ r growth and success. And to grow even bigger we are looking for all
 type of stars veterans and beginners. International.
 ```
 ### [Discord](https://discord.gg/YNfwuam6Wh)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1296 🔺  (160)|
-| ELO Competitive | 1305 🔺  (254)|
+| ELO Competitive | 1305 🔺  (255)|
 | Total Matches | 7 |
 | Wins | 7 |
 | Losses | 0 |
