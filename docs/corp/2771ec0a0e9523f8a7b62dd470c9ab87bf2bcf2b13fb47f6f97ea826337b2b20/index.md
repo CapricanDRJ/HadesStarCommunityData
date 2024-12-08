@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Mercury Sunset
-description: W:40 L:0 D:0 Bonus ✅
+description: W:41 L:0 D:0 Bonus ✅
 image: ./favicon.png
-date: 1733035855
+date: 1733654697
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,14 +20,14 @@ The sunset of the dying star was covered in drops of mercury.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1552 🔺  (4)|
-| ELO Competitive | 1617 🔺  (11)|
-| Total Matches | 40 |
-| Wins | 40 |
+| ELO Regular | 1555 🔺  (4)|
+| ELO Competitive | 1620 🔺  (11)|
+| Total Matches | 41 |
+| Wins | 41 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 40 |
-| Streak Record | 40 |
+| Streak | 41 |
+| Streak Record | 41 |
 | Flagship | 4 |
 
 ---
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732603855,1732002873,1731399276,1730802916,1730206489,1729585108,1728996040,1728369988,1727768351,1727191998,1726554154,1725957646,1725350946,1724743032,1724150728,1723545484,1722834176,1722231958,1721642326,1721044899,1720381906,1719777636,1719168127,1718556881,1717988445,1717364450,1716787121,1716145943,1715542941,1714948658,1714374047,1713822716,1713363931,1712904192,1712471796,1710588122,1709978472,1709394357,1708959855,1708476370];
+        let timestamps = [1733222697,1732603855,1732002873,1731399276,1730802916,1730206489,1729585108,1728996040,1728369988,1727768351,1727191998,1726554154,1725957646,1725350946,1724743032,1724150728,1723545484,1722834176,1722231958,1721642326,1721044899,1720381906,1719777636,1719168127,1718556881,1717988445,1717364450,1716787121,1716145943,1715542941,1714948658,1714374047,1713822716,1713363931,1712904192,1712471796,1710588122,1709978472,1709394357,1708959855,1708476370];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/08 | 45-4 | [Kelebra](https://ws.tsl.rocks/corp/0b1ce787fadd83433c02fb7f56a905ea64f918c1396ac37b8591891adf232eb6/) |
 | ✅ | 2024/12/01 | 34-2 | [GALACTIC EMPIRE](https://ws.tsl.rocks/corp/87d0b2136e9240d3a86447408e870b898e7a25372186971fba925464ba4530ab/) |
 | ✅ | 2024/11/24 | 34-4 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ✅ | 2024/11/17 | 41-9 | [绛紫星](https://ws.tsl.rocks/corp/8c2109279ceb01bcca0aa5e85c151d5877831ac54199285743750e2ed343b407/) |

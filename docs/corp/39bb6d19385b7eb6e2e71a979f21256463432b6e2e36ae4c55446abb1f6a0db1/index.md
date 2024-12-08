@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​First Squad
-description: W:5 L:15 D:1 Bonus ❌
+description: W:5 L:16 D:1 Bonus ❌
 image: ./favicon.png
-date: 1730241827
+date: 1733653081
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ tivity and participation very welcome
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1087 🔻  (1267)|
-| ELO Competitive | 1157 🔻  (1182)|
-| Total Matches | 21 |
+| ELO Regular | 1076 🔻  (1285)|
+| ELO Competitive | 1148 🔻  (1214)|
+| Total Matches | 22 |
 | Wins | 5 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 1 |
 | Streak Record | 4 |
 | Flagship | 10 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729809827,1729030009,1728550004,1728546098,1728010869,1727988335,1727429379,1727419465,1726780935,1726780635,1726174902,1726174302,1725013784,1717527346,1716602003,1714325677,1710971228,1707487273,1704271635,1701628552,1700869973];
+        let timestamps = [1733221081,1729809827,1729030009,1728550004,1728546098,1728010869,1727988335,1727429379,1727419465,1726780935,1726780635,1726174902,1726174302,1725013784,1717527346,1716602003,1714325677,1710971228,1707487273,1704271635,1701628552,1700869973];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/08 | 3-21 | [On en a Gros \! ](https://ws.tsl.rocks/corp/eee919ee67cd5b7eb62548219cd7981660ab85d08ab0fe23b83f1849ca6cf8c6/) |
 | ❌ | 2024/10/29 | 3-19 | [Newbs](https://ws.tsl.rocks/corp/86135933491fcabc312904612bdca55124f9265aa6a5f3cb42f66427020fdb0b/) |
 | ❌ | 2024/10/20 | 8-16 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
 | ❌ | 2024/10/15 | 19-27 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) |

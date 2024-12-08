@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​星际集团
-description: W:27 L:18 D:4 Bonus ✅
+description: W:27 L:18 D:4 Bonus ❌
 image: ./favicon.png
 date: 1733542512
 ---
@@ -17,7 +17,7 @@ date: 1733542512
 br>Diplomacy：Phanatikk<br>神圣罗马帝国分团<br>We welcome everyone<br>QQ群:6396
 97949 <br><br>最高福利：r9
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

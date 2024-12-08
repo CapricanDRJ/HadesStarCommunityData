@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Tuatha De Danan
-description: W:54 L:16 D:0 Bonus ✅
+description: W:54 L:16 D:0 Bonus ❌
 image: ./favicon.png
 date: 1733022937
 ---
@@ -17,7 +17,7 @@ New players welcome, we help players get ready for White Stars and Da
 rk Red Stars. (First Language: English)
 ```
 ### [Discord](https://discord.gg/zeDuYzkCzk)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

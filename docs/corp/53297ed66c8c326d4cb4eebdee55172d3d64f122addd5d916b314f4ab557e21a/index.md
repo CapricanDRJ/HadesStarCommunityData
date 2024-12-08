@@ -22,7 +22,7 @@ itty
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1548 🔺  (5)|
-| ELO Competitive | 1622 🔺  (9)|
+| ELO Competitive | 1622 🔺  (10)|
 | Total Matches | 67 |
 | Wins | 60 |
 | Losses | 6 |
