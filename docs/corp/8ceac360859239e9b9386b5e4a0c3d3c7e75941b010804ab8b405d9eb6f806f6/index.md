@@ -20,7 +20,7 @@ We don't care. You should try it.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1230 🔺  (314)|
-| ELO Competitive | 1274 🔺  (311)|
+| ELO Competitive | 1274 🔺  (310)|
 | Total Matches | 23 |
 | Wins | 11 |
 | Losses | 12 |

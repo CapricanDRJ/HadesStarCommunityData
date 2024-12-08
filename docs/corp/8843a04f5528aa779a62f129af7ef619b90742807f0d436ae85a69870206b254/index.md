@@ -21,7 +21,7 @@ Join the discord! No flagship donations.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1388 🔻  (66)|
-| ELO Competitive | 1415 🔻  (123)|
+| ELO Competitive | 1415 🔻  (124)|
 | Total Matches | 25 |
 | Wins | 22 |
 | Losses | 3 |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Czech Legion
-description: W:17 L:4 D:0 Bonus ❌
+description: W:18 L:4 D:0 Bonus ✅
 image: ./favicon.png
-date: 1732904547
+date: 1733684034
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,16 +17,17 @@ Cz/Sk korpa pro nováčky, kde si osvojíte základy hry a připraví vás n
 a budoucí cestu vesmírem Hádesu. https://userxinos.github.io/HadesSpa
 ce/
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1361 🔺  (81)|
-| ELO Competitive | 1412 🔺  (127)|
-| Total Matches | 21 |
-| Wins | 17 |
+| ELO Regular | 1369 🔺  (74)|
+| ELO Competitive | 1419 🔺  (118)|
+| Total Matches | 22 |
+| Wins | 18 |
 | Losses | 4 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 9 |
 | Flagship | 5 |
 
@@ -46,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732472547,1731489923,1730118200,1729452847,1728849992,1728238977,1727638239,1727029441,1726433057,1725821228,1725213330,1724622536,1724004985,1723401542,1722544485,1721894457,1720976118,1719862292,1718657254,1717434775,1716332308];
+        let timestamps = [1733252034,1732472547,1731489923,1730118200,1729452847,1728849992,1728238977,1727638239,1727029441,1726433057,1725821228,1725213330,1724622536,1724004985,1723401542,1722544485,1721894457,1720976118,1719862292,1718657254,1717434775,1716332308];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/08 | 13-0 | [☆Sternenkrieger](https://ws.tsl.rocks/corp/92ab203a792b5a43a059604230acd16e90840dfee16043dfb35f8fa512772a39/) |
 | ✅ | 2024/11/29 | 7-1 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 | ❌ | 2024/11/18 | 5-19 | [AAAA](https://ws.tsl.rocks/corp/73b759d7c9218f2c1171f9ef691739331ca36ee045039f4f3f935a47b6622a27/) |
 | ✅ | 2024/11/02 | 9-0 | [Armored Union ](https://ws.tsl.rocks/corp/4dacc02ca314ab864578421db538b0eb10b0c8c81dc0edd91c5090717d087c7f/) |

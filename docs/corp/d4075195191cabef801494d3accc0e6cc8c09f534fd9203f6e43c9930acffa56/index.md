@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Hamburg AG 2
-description: W:13 L:16 D:0 Bonus ✅
+description: W:13 L:16 D:0 Bonus ❌
 image: ./favicon.png
 date: 1733662096
 ---
@@ -17,7 +17,7 @@ Neulinge und Aktive willkommen. Bei uns steht der gemeinsame Spaß im
 Vordergrund.
 ```
 ### [Discord](https://discord.gg/UXNc44dxk6)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

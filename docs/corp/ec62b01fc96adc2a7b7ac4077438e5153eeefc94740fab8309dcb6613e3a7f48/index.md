@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Bacon Warriors
-description: W:20 L:18 D:0 Bonus ✅
+description: W:20 L:18 D:0 Bonus ❌
 image: ./favicon.png
 date: 1733062898
 ---
@@ -16,7 +16,7 @@ date: 1733062898
 Have fun and love bacon. Everyone is welcome. Weekly white stars if w
 e lose amd every two weeks if we win. No discord required.
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
