@@ -20,7 +20,7 @@ tbkMiJhAQpMNoJET
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (906)|
+| ELO Regular | 1172 🔻  (905)|
 | ELO Competitive | 1180 🔻  (981)|
 | Total Matches | 11 |
 | Wins | 4 |

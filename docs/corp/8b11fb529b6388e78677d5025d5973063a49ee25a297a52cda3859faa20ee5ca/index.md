@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Devourers
-description: W:2 L:4 D:1 Bonus ❌
+description: W:2 L:5 D:1 Bonus ❌
 image: ./favicon.png
-date: 1731452532
+date: 1733621998
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ discord required
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (891)|
-| ELO Competitive | 1177 🔻  (999)|
-| Total Matches | 7 |
+| ELO Regular | 1159 🔻  (1032)|
+| ELO Competitive | 1165 🔻  (1132)|
+| Total Matches | 8 |
 | Wins | 2 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 1 |
 | Flagship | 2 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731020532,1730555063,1728505836,1727772858,1726087764,1725590434,1725042039];
+        let timestamps = [1733189998,1731020532,1730555063,1728505836,1727772858,1726087764,1725590434,1725042039];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/08 | 0-3 | [一根飞机](https://ws.tsl.rocks/corp/459077a8d857a7bd7ee9caafa2c5ed27ac2416d2280965dd22d4293302cb9de0/) |
 | ❌ | 2024/11/12 | 0-5 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) |
 | ❌ | 2024/11/07 | 0-7 | [QONQR ](https://ws.tsl.rocks/corp/5e23ade08a63b2c440a6a4c1a9ecfb6b1cfca34523c1a528d075bd06eaf5d019/) |
 | ✅ | 2024/10/14 | 2-1 | [AlyTec Sys\.](https://ws.tsl.rocks/corp/4f98eeb43077d5c00a32f9810352931d8778fb5b24d8b49c318953d489f07df0/) |
