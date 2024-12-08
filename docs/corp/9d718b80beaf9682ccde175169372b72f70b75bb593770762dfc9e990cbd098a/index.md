@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​蓝星集团
-description: W:11 L:5 D:0 Bonus ✅
+description: W:11 L:5 D:0 Bonus ❌
 image: ./favicon.png
 date: 1733614630
 ---
@@ -17,11 +17,11 @@ date: 1733614630
 和🍉老板有好友关系的人<br><color=yellow>创始人>首席>干事>高级成员>成员<br>一旦有明显损害集团利益的行为，肇事者
 直接肃清<br>分团：白星、电磁脉冲<br><color=red>捐钱给旗舰1<br>QQ:993683689
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1268 🔻  (206)|
+| ELO Regular | 1268 🔻  (205)|
 | ELO Competitive | 1304 🔻  (256)|
 | Total Matches | 16 |
 | Wins | 11 |

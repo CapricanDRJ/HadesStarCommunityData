@@ -26,7 +26,7 @@ Public Queue 14%-48%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1229 🔺  (320)|
+| ELO Regular | 1229 🔺  (321)|
 | ELO Competitive | 1426 🔺  (108)|
 | Total Matches | 71 |
 | Wins | 29 |

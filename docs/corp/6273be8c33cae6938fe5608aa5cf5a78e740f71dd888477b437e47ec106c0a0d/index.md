@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Sternenflotte
-description: W:22 L:22 D:0 Bonus ✅
+description: W:22 L:22 D:0 Bonus ❌
 image: ./favicon.png
 date: 1733638361
 ---
@@ -18,11 +18,11 @@ ten, Sternensysteme und Technologien. Lass Deine Reise zu den Sternen
  beginnen!
 ```
 ### [Discord](https://discord.gg/MNs4VdSb)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (961)|
+| ELO Regular | 1169 🔻  (962)|
 | ELO Competitive | 1260 🔻  (347)|
 | Total Matches | 44 |
 | Wins | 22 |

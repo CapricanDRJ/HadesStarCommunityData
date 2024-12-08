@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​italian warrior
-description: W:24 L:30 D:1 Bonus ✅
+description: W:24 L:30 D:1 Bonus ❌
 image: ./favicon.png
 date: 1733042164
 ---
@@ -22,11 +22,11 @@ piccoli)
 Discord: https://discord.gg/A26JEJgPwh
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/xGMUwWdzab)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1235 🔺  (296)|
+| ELO Regular | 1235 🔺  (297)|
 | ELO Competitive | 1355 🔺  (177)|
 | Total Matches | 55 |
 | Wins | 24 |

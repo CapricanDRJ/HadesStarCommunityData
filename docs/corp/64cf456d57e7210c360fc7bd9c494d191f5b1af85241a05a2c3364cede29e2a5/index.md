@@ -20,8 +20,8 @@ NSC
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (799)|
-| ELO Competitive | 1190 🔻  (743)|
+| ELO Regular | 1184 🔻  (798)|
+| ELO Competitive | 1190 🔻  (744)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |
