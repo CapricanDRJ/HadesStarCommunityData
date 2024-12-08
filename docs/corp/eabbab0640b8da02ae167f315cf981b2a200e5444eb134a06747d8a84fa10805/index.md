@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​SQPT
-description: W:47 L:54 D:0 Bonus ✅
+description: W:47 L:54 D:0 Bonus ❌
 image: ./favicon.png
 date: 1733584877
 ---
@@ -18,11 +18,11 @@ lp+FreeArts. Big+%Arts,income. 2/Week WhiteStar pro/casual. WSS(white
  star school) tips in mail. DailyDarkRed players 7-11
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/W4kNG43XDb)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1145 🔻  (1115)|
+| ELO Regular | 1145 🔻  (1116)|
 | ELO Competitive | 1373 🔻  (162)|
 | Total Matches | 101 |
 | Wins | 47 |

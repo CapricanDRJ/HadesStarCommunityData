@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​AlyTec Sys.
-description: W:3 L:10 D:1 Bonus ✅
+description: W:3 L:10 D:1 Bonus ❌
 image: ./favicon.png
 date: 1733463180
 ---
@@ -18,7 +18,7 @@ verse. The most advanced tactics for war and exploration of Red Dwarf
 s. Discord Chat: https://discord.com/invite/8w72hqsAAb
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/8w72hqsAAb)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
