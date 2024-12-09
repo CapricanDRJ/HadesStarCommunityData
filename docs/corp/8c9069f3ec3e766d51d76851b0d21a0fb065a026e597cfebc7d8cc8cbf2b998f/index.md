@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​TheBasics
-description: W:39 L:71 D:2 Bonus ✅
+description: W:39 L:71 D:2 Bonus ❌
 image: ./favicon.png
 date: 1733675620
 ---
@@ -16,7 +16,7 @@ date: 1733675620
 Just log in and play once per day.
 ```
 ### [Discord](https://discord.gg/pTS382n7ZR)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

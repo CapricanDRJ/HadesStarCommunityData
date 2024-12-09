@@ -21,8 +21,8 @@ ze=35>Entra a nuestro grupo de whatsapp 😁  +56 9 8804 5954
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1288 🔻  (173)|
-| ELO Competitive | 1298 🔻  (263)|
+| ELO Regular | 1288 🔻  (174)|
+| ELO Competitive | 1298 🔻  (265)|
 | Total Matches | 16 |
 | Wins | 12 |
 | Losses | 4 |

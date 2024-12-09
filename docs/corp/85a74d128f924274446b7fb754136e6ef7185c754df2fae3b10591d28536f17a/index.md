@@ -27,7 +27,7 @@ Zum Server->95WWyXqrhQ</color>
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1117 🔻  (1214)|
-| ELO Competitive | 1303 🔻  (257)|
+| ELO Competitive | 1303 🔻  (258)|
 | Total Matches | 70 |
 | Wins | 24 |
 | Losses | 46 |
