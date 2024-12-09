@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​华夏三体-基沃托斯集团
-description: W:1 L:7 D:1 Bonus ✅
+description: W:1 L:7 D:1 Bonus ❌
 image: ./favicon.png
 date: 1733571052
 ---
@@ -17,7 +17,7 @@ date: 1733571052
 5723 黑名单：black star。Chinese Trimaran Fleet Division, welcome to join，
 Resident gift artifact
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
