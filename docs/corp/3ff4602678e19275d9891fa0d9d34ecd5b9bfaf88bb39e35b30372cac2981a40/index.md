@@ -25,7 +25,7 @@ https://discord.gg/wZcGGNZ
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1262 🔻  (212)|
+| ELO Regular | 1262 🔻  (214)|
 | ELO Competitive | 1505 🔻  (46)|
 | Total Matches | 95 |
 | Wins | 53 |

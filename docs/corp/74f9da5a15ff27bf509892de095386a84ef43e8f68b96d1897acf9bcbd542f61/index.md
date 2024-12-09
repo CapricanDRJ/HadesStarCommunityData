@@ -23,8 +23,8 @@ hs国人大群:597444221
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1177 🔺  (852)|
-| ELO Competitive | 1191 🔺  (725)|
+| ELO Regular | 1177 🔺  (855)|
+| ELO Competitive | 1191 🔺  (726)|
 | Total Matches | 4 |
 | Wins | 1 |
 | Losses | 3 |

@@ -35,7 +35,7 @@ B站d音搜：仙女座星雲土豆
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1250 🔻  (246)|
-| ELO Competitive | 1569 🔻  (22)|
+| ELO Competitive | 1569 🔻  (23)|
 | Total Matches | 125 |
 | Wins | 68 |
 | Losses | 53 |
