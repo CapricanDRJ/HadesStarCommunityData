@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​华夏三体-基沃托斯集团
-description: W:1 L:7 D:1 Bonus ❌
+description: W:1 L:8 D:1 Bonus ❌
 image: ./favicon.png
-date: 1733571052
+date: 1733754942
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ Resident gift artifact
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1135 🔻  (1163)|
-| ELO Competitive | 1162 🔻  (1152)|
-| Total Matches | 9 |
+| ELO Regular | 1125 🔻  (1191)|
+| ELO Competitive | 1164 🔻  (1138)|
+| Total Matches | 10 |
 | Wins | 1 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 1 |
 | Flagship | 2 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733139052,1732633905,1732621881,1731727915,1731727915,1731108574,1730590226,1730126260,1729602484];
+        let timestamps = [1733322942,1733139052,1732633905,1732621881,1731727915,1731727915,1731108574,1730590226,1730126260,1729602484];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/09 | 4-16 | [星落苑](https://ws.tsl.rocks/corp/6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c/) |
 | ❌ | 2024/12/07 | 2-3 | [华夏联盟](https://ws.tsl.rocks/corp/2c648f8c6a0963f1a86b1a1ca787f67c02ee58838a809427b68d3546b89078ac/) |
 | ✅ | 2024/12/01 | 5-1 | [自由free](https://ws.tsl.rocks/corp/f3c8f1a4ff4df82dcb8cacc2471573cc3b267e63353ad34bec874e00d5288fd0/) |
 | ❌ | 2024/12/01 | 0-11 | [ℬlackStar Order](https://ws.tsl.rocks/corp/03620dd2b01d0a0c2c7b03cb570214cd6c5872eb043bac01dcadeb6244f8d861/) |

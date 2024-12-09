@@ -25,7 +25,7 @@ Alianza Axolotls</i></color></b>
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (648)|
+| ELO Regular | 1187 🔻  (649)|
 | ELO Competitive | 1187 🔻  (807)|
 | Total Matches | 1 |
 | Wins | 0 |

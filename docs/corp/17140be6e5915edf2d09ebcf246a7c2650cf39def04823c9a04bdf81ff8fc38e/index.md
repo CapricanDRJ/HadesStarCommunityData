@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Omega corp
-description: W:7 L:5 D:3 Bonus ❌
+description: W:8 L:5 D:3 Bonus ✅
 image: ./favicon.png
-date: 1732728143
+date: 1733758394
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,16 +17,17 @@ welcome to my corporation.  Language: English and Español. Discord NO
 T available. Top 5players become senior, top 2become official. red st
 ars2-7. white stars every week
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1221 🔺  (348)|
-| ELO Competitive | 1236 🔺  (423)|
-| Total Matches | 15 |
-| Wins | 7 |
+| ELO Regular | 1240 🔺  (277)|
+| ELO Competitive | 1258 🔺  (353)|
+| Total Matches | 16 |
+| Wins | 8 |
 | Losses | 5 |
 | Draws | 3 |
+| Streak | 2 |
 | Streak Record | 2 |
 | Flagship | 4 |
 
@@ -46,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732296143,1731429530,1730911546,1730373372,1729834760,1729374110,1728473966,1728021688,1727562813,1727125898,1726669030,1726195017,1725590434,1725142409,1724709985];
+        let timestamps = [1733326394,1732296143,1731429530,1730911546,1730373372,1729834760,1729374110,1728473966,1728021688,1727562813,1727125898,1726669030,1726195017,1725590434,1725142409,1724709985];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/09 | 5-0 | [红日初升，其道大光](https://ws.tsl.rocks/corp/1be1009eb158cf7402aa36511acaab9c9400d087f4d4ee443f768ccb6b163921/) |
 | ✅ | 2024/11/27 | 7-0 | [银河护卫队](https://ws.tsl.rocks/corp/e522df7ad34eabee08393efb864d53bdc897d0ad187170616d6ef924df5c7267/) |
 | ↔️ | 2024/11/17 | 4-4 | [闲散人员](https://ws.tsl.rocks/corp/4f0fa774b66e4f744a305525f92e7252205ae754df0f3982b577b32caf32cdbc/) |
 | ✅ | 2024/11/11 | 11-0 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) |
