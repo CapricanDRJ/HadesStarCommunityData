@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Ƭιтαηѕ Ф тєʀʀσƦ
-description: W:39 L:21 D:2 Bonus ✅
+description: W:39 L:21 D:2 Bonus ❌
 image: ./favicon.png
 date: 1733589688
 ---
@@ -18,12 +18,12 @@ date: 1733589688
  We are in an alliance with Spaceballs & the Warriorlords.
 ```
 ### [Discord](https://discord.gg/N9PNB6NVCZ)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1330 🔻  (110)|
-| ELO Competitive | 1457 🔻  (87)|
+| ELO Regular | 1330 🔻  (111)|
+| ELO Competitive | 1457 🔻  (88)|
 | Total Matches | 62 |
 | Wins | 39 |
 | Losses | 21 |
