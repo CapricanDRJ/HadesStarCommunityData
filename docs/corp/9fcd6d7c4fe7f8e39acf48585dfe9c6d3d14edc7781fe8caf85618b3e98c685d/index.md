@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Sich.ua
-description: W:30 L:30 D:5 Bonus ✅
+description: W:30 L:30 D:5 Bonus ❌
 image: ./favicon.png
 date: 1733083637
 ---
@@ -16,7 +16,7 @@ date: 1733083637
 Раді всім, новачкам допомагаємо артефактами, ходимо в білі та червоні
  зірки
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

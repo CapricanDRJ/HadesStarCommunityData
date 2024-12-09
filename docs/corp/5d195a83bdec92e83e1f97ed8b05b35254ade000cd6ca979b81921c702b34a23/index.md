@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​VoidRunners
-description: W:77 L:52 D:1 Bonus ✅
+description: W:77 L:52 D:1 Bonus ❌
 image: ./favicon.png
 date: 1733526291
 ---
@@ -23,12 +23,12 @@ date: 1733526291
 *Donations Appreciated*
 ```
 ### [Discord](https://discord.gg/vmbXh7r7yt)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1213 🔻  (433)|
-| ELO Competitive | 1514 🔻  (41)|
+| ELO Regular | 1213 🔻  (432)|
+| ELO Competitive | 1514 🔻  (42)|
 | Total Matches | 130 |
 | Wins | 77 |
 | Losses | 52 |

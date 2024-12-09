@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​imperio galacti
-description: W:6 L:6 D:0 Bonus ✅
+description: W:6 L:6 D:0 Bonus ❌
 image: ./favicon.png
 date: 1733081233
 ---
@@ -17,11 +17,11 @@ date: 1733081233
 diarias y te apoyaremos en cualquier cosa Lista de aliados:Imperio es
 telar, Alfa Omega GuistonRA
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1210 🔺  (452)|
+| ELO Regular | 1210 🔺  (451)|
 | ELO Competitive | 1225 🔺  (471)|
 | Total Matches | 12 |
 | Wins | 6 |
