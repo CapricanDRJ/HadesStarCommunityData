@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​KLM
-description: W:12 L:35 D:0 Bonus ✅
+description: W:12 L:35 D:0 Bonus ❌
 image: ./favicon.png
 date: 1733177099
 ---
@@ -16,7 +16,7 @@ date: 1733177099
 Dutch speakers only! Discord verplicht ping MrSenf, Yah Boo
 ```
 ### [Discord](https://discord.gg/cWymECU)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Ninth Planet
-description: W:60 L:6 D:1 Bonus ✅
+description: W:60 L:6 D:1 Bonus ❌
 image: ./favicon.png
 date: 1733177931
 ---
@@ -17,7 +17,7 @@ date: 1733177931
 itty
 ```
 ### [Discord](https://discord.gg/ )
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
