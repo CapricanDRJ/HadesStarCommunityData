@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Stone Legion
-description: W:28 L:8 D:1 Bonus ✅
+description: W:28 L:8 D:1 Bonus ❌
 image: ./favicon.png
 date: 1733191526
 ---
@@ -19,7 +19,7 @@ date: 1733191526
 <size=73><color=#666>RESISTENTIA IMPLACABILIS
 ```
 ### [Discord](https://discord.gg/SZYbjxJSf3)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

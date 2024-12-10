@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Sussy Coloner
-description: W:22 L:59 D:4 Bonus ✅
+description: W:22 L:59 D:4 Bonus ❌
 image: ./favicon.png
 date: 1733188100
 ---
@@ -18,7 +18,7 @@ embers when join our DISCORD while in test period will get a free Off
 icer promote). Red is always SUS!
 ```
 ### [Discord](https://discord.gg/btpSMwVJQD)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
