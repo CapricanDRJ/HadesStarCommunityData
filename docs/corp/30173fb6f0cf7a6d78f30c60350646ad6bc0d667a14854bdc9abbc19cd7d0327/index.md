@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Embers Rising
-description: W:29 L:10 D:0 Bonus ❌
+description: W:30 L:10 D:0 Bonus ✅
 image: ./favicon.png
-date: 1732714018
+date: 1733847489
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,16 +20,17 @@ Member of The Rising Imperium
 Mandatory Discord: p3dTaE9
 ```
 ### [Discord](https://discord.gg/p3dTaE9)
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1339 🔺  (102)|
-| ELO Competitive | 1406 🔺  (132)|
-| Total Matches | 39 |
-| Wins | 29 |
+| ELO Regular | 1346 🔺  (92)|
+| ELO Competitive | 1412 🔺  (128)|
+| Total Matches | 40 |
+| Wins | 30 |
 | Losses | 10 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 13 |
 | Flagship | 8 |
 
@@ -49,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732282018,1729465467,1728709892,1727935731,1727330820,1726510586,1725399030,1724880067,1724275144,1723780479,1723308983,1722451629,1721769452,1721249270,1720038401,1719074358,1718467025,1717421546,1716702674,1715369567,1714546822,1713302939,1712203483,1711550837,1711396402,1710657837,1709928294,1709366064,1708407854,1707802949,1707346952,1706862966,1705858351,1705176787,1704090124,1703051220,1702011740,1700768686,1699250554];
+        let timestamps = [1733415489,1732282018,1729465467,1728709892,1727935731,1727330820,1726510586,1725399030,1724880067,1724275144,1723780479,1723308983,1722451629,1721769452,1721249270,1720038401,1719074358,1718467025,1717421546,1716702674,1715369567,1714546822,1713302939,1712203483,1711550837,1711396402,1710657837,1709928294,1709366064,1708407854,1707802949,1707346952,1706862966,1705858351,1705176787,1704090124,1703051220,1702011740,1700768686,1699250554];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -143,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/10 | 25-14 | [Crimson Dawn](https://ws.tsl.rocks/corp/d01a872035141501ad24bc84e5496d239d31d121774482b777bd8f2e03726d44/) |
 | ✅ | 2024/11/27 | 13-1 | [E\.T\.A](https://ws.tsl.rocks/corp/33dd13a30f1fb86a48aa1e97053cb0d1d12985b0fc5f258edb5f36632dd42082/) |
 | ❌ | 2024/10/25 | 11-37 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) |
 | ❌ | 2024/10/17 | 0-32 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) |
