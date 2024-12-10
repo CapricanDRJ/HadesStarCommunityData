@@ -23,8 +23,8 @@ discord: 4BhWJjk
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (722)|
-| ELO Competitive | 1185 🔻  (882)|
+| ELO Regular | 1185 🔻  (724)|
+| ELO Competitive | 1185 🔻  (883)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

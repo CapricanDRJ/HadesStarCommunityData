@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​星河绮梦
-description: W:29 L:5 D:0 Bonus ✅
+description: W:30 L:5 D:0 Bonus ✅
 image: ./favicon.png
-date: 1733301411
+date: 1733824950
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -30,14 +30,14 @@ QQ群：131920392
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1413 🔺  (44)|
-| ELO Competitive | 1483 🔺  (65)|
-| Total Matches | 34 |
-| Wins | 29 |
+| ELO Regular | 1427 🔺  (34)|
+| ELO Competitive | 1495 🔺  (53)|
+| Total Matches | 35 |
+| Wins | 30 |
 | Losses | 5 |
 | Draws | 0 |
-| Streak | 10 |
-| Streak Record | 10 |
+| Streak | 11 |
+| Streak Record | 11 |
 | Flagship | 4 |
 
 ---
@@ -56,7 +56,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732869411,1732333105,1731818669,1731333974,1730851960,1730380773,1729873225,1729421283,1728937148,1728387715,1727951659,1727515929,1727071502,1726560764,1726078446,1725626489,1725192589,1724693181,1724236672,1723791898,1723125969,1722575433,1722126770,1721678081,1720591966,1720150201,1719666356,1719229123,1718794879,1718710135,1718207523,1717713682,1716678338,1714826356];
+        let timestamps = [1733392950,1732869411,1732333105,1731818669,1731333974,1730851960,1730380773,1729873225,1729421283,1728937148,1728387715,1727951659,1727515929,1727071502,1726560764,1726078446,1725626489,1725192589,1724693181,1724236672,1723791898,1723125969,1722575433,1722126770,1721678081,1720591966,1720150201,1719666356,1719229123,1718794879,1718710135,1718207523,1717713682,1716678338,1714826356];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -151,6 +151,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/10 | 15-7 | [Últimafronteira](https://ws.tsl.rocks/corp/27e96f432a078f197bb5e4c34480ccabc05a9ee48e7bb04d95288fda15e94d3c/) |
 | ✅ | 2024/12/04 | 30-2 | [普罗米修斯](https://ws.tsl.rocks/corp/f39d00b1bbbf87c158931fd887f37a588019d0b1fd4f2441fbc675674b71423a/) |
 | ✅ | 2024/11/28 | 29-2 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ✅ | 2024/11/22 | 26-1 | [自由星际联盟](https://ws.tsl.rocks/corp/933277ff64041b32fe12e4e564e2064071377343596c7944fb8c145165e2ab04/) |

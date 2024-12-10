@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​The Foundation
-description: W:4 L:2 D:1 Bonus ❌
+description: W:5 L:2 D:1 Bonus ✅
 image: ./favicon.png
-date: 1732603746
+date: 1733827654
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,16 +18,17 @@ ated to helping new players grow. Discord recommended for White Stars
 .
 ```
 ### [Discord](https://discord.gg/Y5SBYmr)
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1236 🔺  (295)|
-| ELO Competitive | 1241 🔺  (410)|
-| Total Matches | 7 |
-| Wins | 4 |
+| ELO Regular | 1248 🔺  (251)|
+| ELO Competitive | 1257 🔺  (358)|
+| Total Matches | 8 |
+| Wins | 5 |
 | Losses | 2 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 3 |
 | Flagship | 6 |
 
@@ -47,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732171746,1731469910,1707478558,1705565041,1701778214,1700304038,1699175133];
+        let timestamps = [1733395654,1732171746,1731469910,1707478558,1705565041,1701778214,1700304038,1699175133];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/10 | 24-2 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 | ✅ | 2024/11/26 | 4-3 | [GALACTIC EMPIRE](https://ws.tsl.rocks/corp/87d0b2136e9240d3a86447408e870b898e7a25372186971fba925464ba4530ab/) |
 | ❌ | 2024/11/18 | 9-17 | [lesescargots](https://ws.tsl.rocks/corp/718c873931e9097064fd6ef580fe9d8761be712e0783e0b97d28344abd910623/) |
 | ↔️ | 2024/02/14 | 8-8 | [火洋之心](https://ws.tsl.rocks/corp/99cb105316e2715545c205443c4e331cd11832753eac1c21e11ae3d532e36bcb/) |

@@ -19,8 +19,8 @@ For all fans of the STARBLAZER yamato series
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (930)|
-| ELO Competitive | 1172 🔻  (1057)|
+| ELO Regular | 1171 🔻  (931)|
+| ELO Competitive | 1172 🔻  (1058)|
 | Total Matches | 6 |
 | Wins | 2 |
 | Losses | 4 |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Últimafronteira
-description: W:17 L:0 D:0 Bonus ❌
+description: W:17 L:1 D:0 Bonus ❌
 image: ./favicon.png
-date: 1732013570
+date: 1733824950
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,13 +21,12 @@ tes são bem vindos! Virtus Unita Fortior.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1390 🔺  (64)|
-| ELO Competitive | 1418 🔺  (120)|
-| Total Matches | 17 |
+| ELO Regular | 1376 🔻  (72)|
+| ELO Competitive | 1406 🔻  (131)|
+| Total Matches | 18 |
 | Wins | 17 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 0 |
-| Streak | 17 |
 | Streak Record | 17 |
 | Flagship | 4 |
 
@@ -47,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731581570,1730982062,1730418641,1729770155,1727959474,1727345843,1726748176,1725573311,1724483991,1723845994,1721961171,1721344524,1718508192,1718062679,1718062379,1717610294,1716578864];
+        let timestamps = [1733392950,1731581570,1730982062,1730418641,1729770155,1727959474,1727345843,1726748176,1725573311,1724483991,1723845994,1721961171,1721344524,1718508192,1718062679,1718062379,1717610294,1716578864];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/10 | 7-15 | [星河绮梦](https://ws.tsl.rocks/corp/ec0d7f12f69610e8f68f4ea0af9698755a0a1435e0845c27c47fcbec0b1b672a/) |
 | ✅ | 2024/11/19 | 43-0 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |
 | ✅ | 2024/11/12 | 39-0 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) |
 | ✅ | 2024/11/05 | 31-2 | [Sich\.ua](https://ws.tsl.rocks/corp/9fcd6d7c4fe7f8e39acf48585dfe9c6d3d14edc7781fe8caf85618b3e98c685d/) |

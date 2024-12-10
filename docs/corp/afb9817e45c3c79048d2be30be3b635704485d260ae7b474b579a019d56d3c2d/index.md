@@ -21,7 +21,7 @@ n>加入本团的人请加企鹅群834525007<color=yellow>不活跃不参与白�
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1300 🔻  (154)|
+| ELO Regular | 1300 🔻  (155)|
 | ELO Competitive | 1371 🔻  (168)|
 | Total Matches | 39 |
 | Wins | 23 |

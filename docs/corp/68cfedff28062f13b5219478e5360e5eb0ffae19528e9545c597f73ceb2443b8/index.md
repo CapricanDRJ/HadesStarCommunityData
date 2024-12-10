@@ -21,8 +21,8 @@ https://discord.gg/geRShvzM89
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (831)|
-| ELO Competitive | 1189 🔻  (757)|
+| ELO Regular | 1181 🔻  (833)|
+| ELO Competitive | 1189 🔻  (758)|
 | Total Matches | 8 |
 | Wins | 3 |
 | Losses | 5 |

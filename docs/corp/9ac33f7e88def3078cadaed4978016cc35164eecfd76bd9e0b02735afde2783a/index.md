@@ -21,8 +21,8 @@ nTnWWUf
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (643)|
-| ELO Competitive | 1189 🔻  (760)|
+| ELO Regular | 1187 🔻  (645)|
+| ELO Competitive | 1189 🔻  (761)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

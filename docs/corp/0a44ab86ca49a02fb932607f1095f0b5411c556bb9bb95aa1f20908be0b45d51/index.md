@@ -22,8 +22,8 @@ ORPORACIÓN   • MÉXICO INFINITO
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1154 🔻  (1080)|
-| ELO Competitive | 1156 🔻  (1191)|
+| ELO Regular | 1154 🔻  (1081)|
+| ELO Competitive | 1156 🔻  (1192)|
 | Total Matches | 7 |
 | Wins | 2 |
 | Losses | 5 |
