@@ -21,8 +21,8 @@ w game policy we have decided to abandon the game.  12/20/2023
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1131 🔻  (1178)|
-| ELO Competitive | 1134 🔻  (1259)|
+| ELO Regular | 1131 🔻  (1179)|
+| ELO Competitive | 1134 🔻  (1260)|
 | Total Matches | 5 |
 | Wins | 0 |
 | Losses | 5 |

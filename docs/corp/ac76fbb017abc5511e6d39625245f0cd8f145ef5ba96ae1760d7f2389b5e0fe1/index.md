@@ -21,7 +21,7 @@ Our leader is writing a good description, please join the corp, enjoy
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1131 🔻  (1177)|
+| ELO Regular | 1131 🔻  (1178)|
 | ELO Competitive | 1191 🔻  (732)|
 | Total Matches | 49 |
 | Wins | 20 |

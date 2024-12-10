@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​荣耀之星
-description: W:19 L:17 D:5 Bonus ❌
+description: W:20 L:17 D:5 Bonus ✅
 image: ./favicon.png
-date: 1733191827
+date: 1733781377
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,14 +16,14 @@ date: 1733191827
 欢迎大家加入我们团队。我们每周四上午开白周末参加即可。请勿长时间不上号。添加QQ 3465737977 /游戏内 fqy 好友以方便交流。
 招募成员！
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1243 🔻  (266)|
-| ELO Competitive | 1312 🔻  (238)|
-| Total Matches | 41 |
-| Wins | 19 |
+| ELO Regular | 1257 🔺  (227)|
+| ELO Competitive | 1322 🔺  (226)|
+| Total Matches | 42 |
+| Wins | 20 |
 | Losses | 17 |
 | Draws | 5 |
 | Streak Record | 4 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732759827,1732165436,1731545819,1730940035,1730352527,1729785784,1728864718,1728396433,1727920584,1727433886,1726988869,1726532451,1726069429,1725684789,1725625888,1725192589,1725171553,1724682335,1724682035,1724206916,1724206625,1723705352,1723679812,1723242325,1722595265,1722130976,1721446090,1720952326,1720946916,1720041406,1720013954,1719486355,1719479744,1718973975,1718964659,1715335013,1714576269,1709946624,1708563853,1708080307,1707284089];
+        let timestamps = [1733349377,1732759827,1732165436,1731545819,1730940035,1730352527,1729785784,1728864718,1728396433,1727920584,1727433886,1726988869,1726532451,1726069429,1725684789,1725625888,1725192589,1725171553,1724682335,1724682035,1724206916,1724206625,1723705352,1723679812,1723242325,1722595265,1722130976,1721446090,1720952326,1720946916,1720041406,1720013954,1719486355,1719479744,1718973975,1718964659,1715335013,1714576269,1709946624,1708563853,1708080307,1707284089];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/09 | 18-0 | [HYDRA](https://ws.tsl.rocks/corp/af8e07c712d53e12787c748d60f8380614730fa89774d6c59ed792f71b1449ab/) |
 | ❌ | 2024/12/03 | 7-10 | [QONQR ](https://ws.tsl.rocks/corp/5e23ade08a63b2c440a6a4c1a9ecfb6b1cfca34523c1a528d075bd06eaf5d019/) |
 | ❌ | 2024/11/26 | 2-15 | [揽月宫](https://ws.tsl.rocks/corp/16a4fe26591408a3f2128646e96c5ec1f82feb35f1f9743aebd2dae05095d2ed/) |
 | ❌ | 2024/11/19 | 3-5 | [Ninth Planet](https://ws.tsl.rocks/corp/53297ed66c8c326d4cb4eebdee55172d3d64f122addd5d916b314f4ab557e21a/) |

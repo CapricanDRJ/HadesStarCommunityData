@@ -25,8 +25,8 @@ Are you RS6+ & want to join?
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1114 🔻  (1228)|
-| ELO Competitive | 1157 🔻  (1183)|
+| ELO Regular | 1114 🔻  (1229)|
+| ELO Competitive | 1157 🔻  (1184)|
 | Total Matches | 13 |
 | Wins | 3 |
 | Losses | 10 |
