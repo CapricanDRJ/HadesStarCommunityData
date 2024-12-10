@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​IMPERIAL ARMADA
-description: W:37 L:27 D:2 Bonus ✅
+description: W:37 L:27 D:2 Bonus ❌
 image: ./favicon.png
 date: 1733234791
 ---
@@ -22,7 +22,7 @@ discord obligatory
 https://discord.gg/bAAYCqG2cE
 ```
 ### [Discord](https://discord.gg/bAAYCqG2cE)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
