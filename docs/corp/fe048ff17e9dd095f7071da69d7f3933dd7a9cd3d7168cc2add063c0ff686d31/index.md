@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​●Black•Sails●
-description: W:19 L:21 D:0 Bonus ✅
+description: W:19 L:21 D:0 Bonus ❌
 image: ./favicon.png
 date: 1733212256
 ---
@@ -16,11 +16,11 @@ date: 1733212256
 Together We Can Achieve More.
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/hayZVDBK)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1174 🔺  (882)|
+| ELO Regular | 1174 🔺  (883)|
 | ELO Competitive | 1232 🔺  (434)|
 | Total Matches | 40 |
 | Wins | 19 |

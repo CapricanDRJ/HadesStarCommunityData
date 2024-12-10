@@ -19,7 +19,7 @@ To defeat the Wraith.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1198 🔺  (525)|
+| ELO Regular | 1198 🔺  (524)|
 | ELO Competitive | 1198 🔺  (655)|
 | Total Matches | 3 |
 | Wins | 1 |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​清霄阁（防御协会）
-description: W:4 L:2 D:0 Bonus ✅
+description: W:4 L:3 D:0 Bonus ✅
 image: ./favicon.png
-date: 1733683433
+date: 1733837871
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,13 +21,12 @@ date: 1733683433
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1217 🔺  (372)|
+| ELO Regular | 1197 🔻  (529)|
 | ELO Competitive | 1250 🔺  (381)|
-| Total Matches | 6 |
+| Total Matches | 7 |
 | Wins | 4 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 2 |
 | Flagship | 2 |
 
@@ -47,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733251433,1732932875,1732721946,1732272702,1731664805,1731230592];
+        let timestamps = [1733405871,1733251433,1732932875,1732721946,1732272702,1731664805,1731230592];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/10 | 0-5 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
 | ✅ | 2024/12/08 | 5-3 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 | ✅ | 2024/12/05 | 1-0 | [FURIA 2\.0](https://ws.tsl.rocks/corp/9c52bc79384398f4052be65dc0f7ee091ac2d3cf14488efd1f4e3310b1f12574/) |
 | ❌ | 2024/12/02 | 3-12 | [探索舰队](https://ws.tsl.rocks/corp/8c465701390ed74d4d115e58d66289afb2eeef6247ca351a4cf88a0046e6fe55/) |

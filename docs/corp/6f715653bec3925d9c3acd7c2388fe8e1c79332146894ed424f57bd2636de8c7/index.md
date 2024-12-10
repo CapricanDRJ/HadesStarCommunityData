@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Mass Effect
-description: W:27 L:25 D:1 Bonus ✅
+description: W:27 L:25 D:1 Bonus ❌
 image: ./favicon.png
 date: 1733211354
 ---
@@ -18,11 +18,11 @@ NO KIDDING : GAMING ONLY!
 
 Just come and play to the rules!
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1232 🔺  (304)|
+| ELO Regular | 1232 🔺  (305)|
 | ELO Competitive | 1310 🔺  (244)|
 | Total Matches | 53 |
 | Wins | 27 |

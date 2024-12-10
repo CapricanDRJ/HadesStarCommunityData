@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Genesis Corp
-description: W:0 L:2 D:0 Bonus ❌
+description: W:0 L:3 D:0 Bonus ❌
 image: ./favicon.png
-date: 1703247402
+date: 1733839975
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ https://discord.gg/M8HFPDG
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1169 🔻  (967)|
-| ELO Competitive | 1171 🔻  (1091)|
-| Total Matches | 2 |
+| ELO Regular | 1159 🔻  (1035)|
+| ELO Competitive | 1163 🔻  (1152)|
+| Total Matches | 3 |
 | Wins | 0 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 | Flagship | 1 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1702815402,1701483990];
+        let timestamps = [1733407975,1702815402,1701483990];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/10 | 1-6 | [太阳系集团](https://ws.tsl.rocks/corp/50f5e0a888ce2f21c0980be0cbb1e444e1d7eeb9dcb2095c3e428bd5bde7a9f6/) |
 | ❌ | 2023/12/22 | 1-9 | [하데스 스타 코리아](https://ws.tsl.rocks/corp/36ae3ca01b555bd695500062530b53a2b19cc9d4bab087051ea8775124723e94/) |
 | ❌ | 2023/12/07 | 1-2 | [宇宙警察](https://ws.tsl.rocks/corp/e351af3589315207a50dad0eefdf5309943c39b25656f0870904e6be9302a082/) |
 

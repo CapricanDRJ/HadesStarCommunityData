@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Dark Training
-description: W:21 L:12 D:1 Bonus ✅
+description: W:21 L:12 D:1 Bonus ❌
 image: ./favicon.png
 date: 1733214659
 ---
@@ -24,7 +24,7 @@ Alliance:
 2. United Industries of Hades (UIH)
 ```
 ### [Discord](https://discord.gg/gJVbNTWUYM)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

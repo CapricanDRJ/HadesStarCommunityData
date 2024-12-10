@@ -21,8 +21,8 @@ FF WS scanner if unable to participate.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1086 🔻  (1273)|
-| ELO Competitive | 1097 🔻  (1312)|
+| ELO Regular | 1086 🔻  (1274)|
+| ELO Competitive | 1097 🔻  (1313)|
 | Total Matches | 10 |
 | Wins | 0 |
 | Losses | 9 |

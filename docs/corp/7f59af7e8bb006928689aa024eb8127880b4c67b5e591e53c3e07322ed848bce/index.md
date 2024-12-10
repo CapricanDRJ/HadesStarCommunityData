@@ -21,8 +21,8 @@ WS occasionally but we are very laid back when it comes to PVP.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1175 🔻  (877)|
-| ELO Competitive | 1175 🔻  (1018)|
+| ELO Regular | 1175 🔻  (878)|
+| ELO Competitive | 1175 🔻  (1019)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |
