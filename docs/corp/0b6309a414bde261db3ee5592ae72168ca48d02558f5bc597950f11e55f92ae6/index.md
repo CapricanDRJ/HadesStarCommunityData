@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Quantum Cats
-description: W:6 L:7 D:0 Bonus ❌
+description: W:7 L:7 D:0 Bonus ✅
 image: ./favicon.png
-date: 1732603145
+date: 1733797011
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ Relaxed game play. The Corp for working people also known as “The hot
 lease join us on Discord and don't be a stranger!
 ```
 ### [Discord](https://discord.gg/drqrMsVtEp)
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1206 🔻  (465)|
-| ELO Competitive | 1245 🔻  (397)|
-| Total Matches | 13 |
-| Wins | 6 |
+| ELO Regular | 1216 🔺  (386)|
+| ELO Competitive | 1259 🔺  (350)|
+| Total Matches | 14 |
+| Wins | 7 |
 | Losses | 7 |
 | Draws | 0 |
 | Streak Record | 2 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732171145,1730964634,1729751827,1728620632,1727318502,1725957346,1717733812,1716871871,1715226553,1712504266,1707426280,1702600821,1700423064];
+        let timestamps = [1733365011,1732171145,1730964634,1729751827,1728620632,1727318502,1725957346,1717733812,1716871871,1715226553,1712504266,1707426280,1702600821,1700423064];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/10 | 24-15 | [U\.S\.A](https://ws.tsl.rocks/corp/6d7a18e9893736881762a4e1b687b55e7311d367267ff5a9cc8e45722b14ea06/) |
 | ❌ | 2024/11/26 | 9-10 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
 | ❌ | 2024/11/12 | 6-24 | [Ninth Planet](https://ws.tsl.rocks/corp/53297ed66c8c326d4cb4eebdee55172d3d64f122addd5d916b314f4ab557e21a/) |
 | ✅ | 2024/10/29 | 21-0 | [●Black•Sails●](https://ws.tsl.rocks/corp/fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31/) |

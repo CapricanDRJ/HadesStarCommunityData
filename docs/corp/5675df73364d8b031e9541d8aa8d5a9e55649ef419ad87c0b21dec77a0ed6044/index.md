@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​nuevo mundo
-description: W:10 L:9 D:0 Bonus ❌
+description: W:10 L:10 D:0 Bonus ❌
 image: ./favicon.png
-date: 1732466727
+date: 1733801217
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,13 +25,12 @@ Esperamos su llegada!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1243 🔺  (269)|
-| ELO Competitive | 1268 🔺  (327)|
-| Total Matches | 19 |
+| ELO Regular | 1231 🔻  (306)|
+| ELO Competitive | 1259 🔻  (351)|
+| Total Matches | 20 |
 | Wins | 10 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 0 |
-| Streak | 3 |
 | Streak Record | 6 |
 | Flagship | 5 |
 
@@ -51,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732034727,1731352609,1729518047,1724104458,1721680500,1721064442,1720441100,1719750498,1718600751,1718048557,1714400488,1712876855,1710767213,1709592977,1708379012,1706530597,1703514029,1701194269,1699051037];
+        let timestamps = [1733369217,1732034727,1731352609,1729518047,1724104458,1721680500,1721064442,1720441100,1719750498,1718600751,1718048557,1714400488,1712876855,1710767213,1709592977,1708379012,1706530597,1703514029,1701194269,1699051037];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/10 | 7-29 | [Лютые](https://ws.tsl.rocks/corp/c9ffc70c2dcbfe9eaa3387645d404d9227b173de066bf09e0493d83aa4c9f053/) |
 | ✅ | 2024/11/24 | 25-3 | [Dumpster Fire](https://ws.tsl.rocks/corp/f191bf7efb93ca805453b3e11aef9278976a4c70fe9790e7813f28fcdf899121/) |
 | ✅ | 2024/11/16 | 31-4 | [Alpha ](https://ws.tsl.rocks/corp/accb87a59c1f019d1be37fa2b19ae2aeb35c4a995d1d621a8e987065cd1328fe/) |
 | ✅ | 2024/10/26 | 21-2 | [Revólver](https://ws.tsl.rocks/corp/2560247b1d9fc0ccccf6a9740f3e7cd5d0ebb66444a27e2a259906a476903a45/) |
