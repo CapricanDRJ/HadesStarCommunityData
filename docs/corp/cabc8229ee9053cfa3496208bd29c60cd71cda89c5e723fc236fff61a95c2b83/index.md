@@ -22,8 +22,8 @@ adicionado aqui no chat!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (901)|
-| ELO Competitive | 1189 🔻  (768)|
+| ELO Regular | 1173 🔻  (902)|
+| ELO Competitive | 1189 🔻  (769)|
 | Total Matches | 8 |
 | Wins | 3 |
 | Losses | 5 |

@@ -21,8 +21,8 @@ ystems!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1232 🔺  (307)|
-| ELO Competitive | 1235 🔺  (428)|
+| ELO Regular | 1232 🔺  (306)|
+| ELO Competitive | 1235 🔺  (427)|
 | Total Matches | 7 |
 | Wins | 4 |
 | Losses | 2 |
