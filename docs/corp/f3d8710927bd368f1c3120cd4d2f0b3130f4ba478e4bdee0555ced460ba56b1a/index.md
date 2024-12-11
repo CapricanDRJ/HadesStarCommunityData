@@ -21,7 +21,7 @@ Friendly corp. English chat. Discord is optional.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (681)|
-| ELO Competitive | 1186 🔻  (843)|
+| ELO Competitive | 1186 🔻  (844)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

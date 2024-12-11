@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Pyke Syndicate
-description: W:5 L:34 D:1 Bonus ❌
+description: W:5 L:35 D:1 Bonus ❌
 image: ./favicon.png
-date: 1733281985
+date: 1733909081
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ n.      Wir handeln Gewürze .Ohne Stress
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1007 🔻  (1331)|
-| ELO Competitive | 1061 🔻  (1333)|
-| Total Matches | 40 |
+| ELO Regular | 1004 🔻  (1332)|
+| ELO Competitive | 1059 🔻  (1337)|
+| Total Matches | 41 |
 | Wins | 5 |
-| Losses | 34 |
+| Losses | 35 |
 | Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 6 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732849985,1732273303,1731676224,1731069503,1730465510,1729865711,1729252138,1728663010,1728021388,1727426075,1726761701,1726144846,1725621680,1725022500,1724403451,1723790396,1722594663,1721997229,1721378776,1720785820,1720189568,1719242650,1718293167,1716992681,1716113188,1715531820,1714915892,1714161323,1713528585,1712907496,1712145187,1711214607,1710340540,1709713758,1708950538,1706891215,1704361788,1704346765,1700495190,1699351516];
+        let timestamps = [1733477081,1732849985,1732273303,1731676224,1731069503,1730465510,1729865711,1729252138,1728663010,1728021388,1727426075,1726761701,1726144846,1725621680,1725022500,1724403451,1723790396,1722594663,1721997229,1721378776,1720785820,1720189568,1719242650,1718293167,1716992681,1716113188,1715531820,1714915892,1714161323,1713528585,1712907496,1712145187,1711214607,1710340540,1709713758,1708950538,1706891215,1704361788,1704346765,1700495190,1699351516];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/11 | 4-30 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) |
 | ❌ | 2024/12/04 | 9-30 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |
 | ❌ | 2024/11/27 | 7-15 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
 | ❌ | 2024/11/20 | 5-13 | [Dumpster Fire 2](https://ws.tsl.rocks/corp/37d473dec00d4d68e29963e3b423670aac735e7c1f256276e6c2e7d62180b0f8/) |
