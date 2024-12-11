@@ -24,7 +24,7 @@ watsapp/ telegram
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1185 🔻  (725)|
-| ELO Competitive | 1185 🔻  (885)|
+| ELO Competitive | 1185 🔻  (886)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |
