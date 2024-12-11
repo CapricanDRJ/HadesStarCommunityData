@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​imperio estelar
-description: W:4 L:12 D:3 Bonus ✅
+description: W:5 L:12 D:3 Bonus ✅
 image: ./favicon.png
-date: 1733275077
+date: 1733878440
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,12 +21,13 @@ anza"...🌌🪐<b><color=red><size=95>    La Unión nos Fortalece
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1152 🔺  (1094)|
-| ELO Competitive | 1194 🔺  (690)|
-| Total Matches | 19 |
-| Wins | 4 |
+| ELO Regular | 1167 🔺  (982)|
+| ELO Competitive | 1212 🔺  (566)|
+| Total Matches | 20 |
+| Wins | 5 |
 | Losses | 12 |
 | Draws | 3 |
+| Streak | 2 |
 | Streak Record | 3 |
 | Flagship | 5 |
 
@@ -46,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732843077,1731993560,1731257948,1730674670,1730013264,1729405957,1728880039,1728315903,1727876231,1727283645,1726828101,1726270454,1725661354,1725165843,1721010639,1720576341,1709123621,1702401857,1699251155];
+        let timestamps = [1733446440,1732843077,1731993560,1731257948,1730674670,1730013264,1729405957,1728880039,1728315903,1727876231,1727283645,1726828101,1726270454,1725661354,1725165843,1721010639,1720576341,1709123621,1702401857,1699251155];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/11 | 6-0 | [Empire of Light](https://ws.tsl.rocks/corp/5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc/) |
 | ✅ | 2024/12/04 | 10-3 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ❌ | 2024/11/24 | 5-20 | [lesescargots](https://ws.tsl.rocks/corp/718c873931e9097064fd6ef580fe9d8761be712e0783e0b97d28344abd910623/) |
 | ❌ | 2024/11/15 | 3-12 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |

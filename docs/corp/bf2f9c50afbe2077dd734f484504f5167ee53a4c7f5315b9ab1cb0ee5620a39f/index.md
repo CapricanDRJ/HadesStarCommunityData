@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Nebulae Traders
-description: W:10 L:41 D:4 Bonus ✅
+description: W:10 L:41 D:4 Bonus ❌
 image: ./favicon.png
 date: 1733251941
 ---
@@ -16,7 +16,7 @@ date: 1733251941
  https://discord.gg/5a4CpEq7
 ```
 ### [Discord](https://discord.gg/https://discord.gg/5a4CpEq7)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
