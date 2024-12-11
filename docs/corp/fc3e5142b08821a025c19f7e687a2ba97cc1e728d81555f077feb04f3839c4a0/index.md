@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​柯伊伯带
-description: W:75 L:14 D:0 Bonus ✅
+description: W:75 L:14 D:0 Bonus ❌
 image: ./favicon.png
 date: 1733870930
 ---
@@ -18,12 +18,12 @@ date: 1733870930
 0</color>
 ```
 ### [Discord](https://discord.gg/xa5t5sD3Hx)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1397 🔻  (57)|
-| ELO Competitive | 1507 🔻  (42)|
+| ELO Competitive | 1507 🔻  (41)|
 | Total Matches | 89 |
 | Wins | 75 |
 | Losses | 14 |

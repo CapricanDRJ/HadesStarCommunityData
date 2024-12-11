@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Widow Makers
-description: W:14 L:3 D:0 Bonus ✅
+description: W:14 L:3 D:0 Bonus ❌
 image: ./favicon.png
 date: 1733263060
 ---
@@ -18,12 +18,12 @@ Weekly White Star pvp. New White Star Warriors will be supported, but
 cord link below (Space Pals Server, Discord mandatory). 
 ```
 ### [Discord](https://discord.gg/3A9WHQV )
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1359 🔺  (84)|
-| ELO Competitive | 1403 🔺  (135)|
+| ELO Competitive | 1403 🔺  (136)|
 | Total Matches | 17 |
 | Wins | 14 |
 | Losses | 3 |

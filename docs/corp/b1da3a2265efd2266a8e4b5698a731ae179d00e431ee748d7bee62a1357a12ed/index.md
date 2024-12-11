@@ -23,7 +23,7 @@ lue><size=50>                       🪐🌌..."El qué Persevera Alcanza"
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1345 🔻  (94)|
-| ELO Competitive | 1416 🔻  (124)|
+| ELO Competitive | 1416 🔻  (125)|
 | Total Matches | 34 |
 | Wins | 24 |
 | Losses | 9 |

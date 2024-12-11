@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Эдем
-description: W:9 L:8 D:0 Bonus ✅
+description: W:9 L:8 D:0 Bonus ❌
 image: ./favicon.png
 date: 1733260356
 ---
@@ -17,7 +17,7 @@ date: 1733260356
 а кз 2-8. Чат в телеге...
 ```
 ### [Discord](https://discord.gg/Дискорда нет)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
