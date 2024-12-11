@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​藏锋府
-description: W:0 L:1 D:0 Bonus ❌
+description: W:1 L:1 D:0 Bonus ✅
 image: ./favicon.png
-date: 1733201741
+date: 1733936729
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,14 +25,14 @@ date: 1733201741
 期待你
 ```
 ### [Discord](https://discord.gg/snwFMgDPms)
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1187 🔻  (650)|
-| ELO Competitive | 1187 🔻  (797)|
-| Total Matches | 1 |
-| Wins | 0 |
+| ELO Regular | 1193 🔺  (560)|
+| ELO Competitive | 1195 🔺  (680)|
+| Total Matches | 2 |
+| Wins | 1 |
 | Losses | 1 |
 | Draws | 0 |
 | Flagship | 0 |
@@ -53,7 +53,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732769741];
+        let timestamps = [1733504729,1732769741];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/11 | 23-1 | [Держава Русь](https://ws.tsl.rocks/corp/cbf11e25cee65a6c529251b7f47a35d9e4ba7bb9d640f384605541637e931672/) |
 | ❌ | 2024/12/03 | 0-17 | [星落苑](https://ws.tsl.rocks/corp/6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c/) |
 
 ---
