@@ -19,7 +19,7 @@ Mostly PvE red star
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1212 🔻  (442)|
+| ELO Regular | 1212 🔻  (441)|
 | ELO Competitive | 1212 🔻  (569)|
 | Total Matches | 2 |
 | Wins | 1 |

@@ -20,7 +20,7 @@ Taking over hades galaxy 1 white star at a time
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1165 🔻  (999)|
-| ELO Competitive | 1166 🔻  (1129)|
+| ELO Competitive | 1166 🔻  (1128)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 2 |

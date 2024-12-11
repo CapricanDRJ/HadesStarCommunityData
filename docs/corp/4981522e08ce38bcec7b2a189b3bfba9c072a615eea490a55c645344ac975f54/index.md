@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​exirium
-description: W:3 L:3 D:1 Bonus ❌
+description: W:3 L:4 D:1 Bonus ❌
 image: ./favicon.png
-date: 1732586321
+date: 1733945443
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ r.                                         WhatsApp incluido.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1215 🔺  (409)|
-| ELO Competitive | 1224 🔺  (472)|
-| Total Matches | 7 |
+| ELO Regular | 1200 🔻  (507)|
+| ELO Competitive | 1209 🔻  (589)|
+| Total Matches | 8 |
 | Wins | 3 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 1 |
 | Flagship | 5 |
 
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732154321,1731103766,1729916196,1729213328,1728149122,1702605328,1698888451];
+        let timestamps = [1733513443,1732154321,1731103766,1729916196,1729213328,1728149122,1702605328,1698888451];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/11 | 0-15 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
 | ✅ | 2024/11/26 | 4-0 | [Zeta Division ](https://ws.tsl.rocks/corp/29335e52f4b0c4ae92db98c395d2f4969201d0ddc31bb7f112bd6d3eeb97182c/) |
 | ❌ | 2024/11/13 | 3-24 | [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541/) |
 | ❌ | 2024/10/31 | 0-24 | [Слава Украине\!](https://ws.tsl.rocks/corp/15bb6468a62584f5281a81614dde743b4bbf2196289e4c346da53f96e2e140c1/) |
