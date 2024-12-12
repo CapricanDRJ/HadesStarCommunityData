@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Вселенские 40%
-description: W:25 L:35 D:0 Bonus ✅
+description: W:25 L:35 D:0 Bonus ❌
 image: ./favicon.png
 date: 1733386553
 ---
@@ -16,11 +16,11 @@ date: 1733386553
 Академия IX Легиона.Дискорд в информации.Телеграм Вселенских: 
 ```
 ### [Discord](https://discord.gg/fc2eg8hNJm)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1150 🔺  (1105)|
+| ELO Regular | 1150 🔺  (1106)|
 | ELO Competitive | 1252 🔺  (374)|
 | Total Matches | 60 |
 | Wins | 25 |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​银河护卫队
-description: W:6 L:9 D:1 Bonus ✅
+description: W:6 L:9 D:2 Bonus ✅
 image: ./favicon.png
-date: 1733981499
+date: 1734015688
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,13 +21,12 @@ date: 1733981499
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1150 🔺  (1100)|
+| ELO Regular | 1152 🔺  (1092)|
 | ELO Competitive | 1223 🔺  (478)|
-| Total Matches | 16 |
+| Total Matches | 17 |
 | Wins | 6 |
 | Losses | 9 |
-| Draws | 1 |
-| Streak | 2 |
+| Draws | 2 |
 | Streak Record | 2 |
 | Flagship | 4 |
 
@@ -47,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733549499,1732920709,1732315701,1732296143,1731583372,1731559638,1731085434,1731076718,1730622674,1730621472,1729995836,1729903578,1729271326,1728322514,1727870219,1726669030];
+        let timestamps = [1733583688,1733549499,1732920709,1732315701,1732296143,1731583372,1731559638,1731085434,1731076718,1730622674,1730621472,1729995836,1729903578,1729271326,1728322514,1727870219,1726669030];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/12/12 | 1-1 | [Russia](https://ws.tsl.rocks/corp/9934f669a279406be015265596669afd7dd1c4e30f2a7bba308feaff75b33932/) |
 | ✅ | 2024/12/12 | 5-0 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ✅ | 2024/12/04 | 4-0 | [₩\.BRASIL\.₩](https://ws.tsl.rocks/corp/ff7f01b2f1db7b9c75e49da4c7367325905c020eba282a97f69f33d8c19419aa/) |
 | ❌ | 2024/11/27 | 2-8 | [新星汇聚](https://ws.tsl.rocks/corp/7e61cd500818e2d3a3714d8a775a407e2ce8d9bf1ece36171778536aa8ca7078/) |

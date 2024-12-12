@@ -20,8 +20,8 @@ Glory to Ukraine!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (685)|
-| ELO Competitive | 1186 🔻  (856)|
+| ELO Regular | 1186 🔻  (686)|
+| ELO Competitive | 1186 🔻  (857)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

@@ -19,8 +19,8 @@ organizaçoes dos estados brasileiros / presidente : O.E.B.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1172 🔻  (918)|
-| ELO Competitive | 1172 🔻  (1063)|
+| ELO Regular | 1172 🔻  (919)|
+| ELO Competitive | 1172 🔻  (1064)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

@@ -25,8 +25,8 @@ RS6 and Discord needed. (YTaYrhy)
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1082 🔻  (1282)|
-| ELO Competitive | 1101 🔻  (1308)|
+| ELO Regular | 1082 🔻  (1283)|
+| ELO Competitive | 1101 🔻  (1309)|
 | Total Matches | 23 |
 | Wins | 6 |
 | Losses | 17 |
