@@ -23,7 +23,7 @@ Discord:</color> <color=#a4fc4c>9SyrBAt</color>
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (835)|
+| ELO Regular | 1181 🔻  (833)|
 | ELO Competitive | 1288 🔻  (283)|
 | Total Matches | 25 |
 | Wins | 12 |

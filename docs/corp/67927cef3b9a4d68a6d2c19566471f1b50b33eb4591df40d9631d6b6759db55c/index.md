@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​星际集团
-description: W:27 L:18 D:4 Bonus ❌
+description: W:27 L:19 D:4 Bonus ❌
 image: ./favicon.png
-date: 1733542512
+date: 1733974888
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ br>Diplomacy：Phanatikk<br>神圣罗马帝国分团<br>We welcome everyone<br>Q
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1249 🔻  (248)|
-| ELO Competitive | 1389 🔻  (143)|
-| Total Matches | 49 |
+| ELO Regular | 1229 🔻  (320)|
+| ELO Competitive | 1367 🔻  (173)|
+| Total Matches | 50 |
 | Wins | 27 |
-| Losses | 18 |
+| Losses | 19 |
 | Draws | 4 |
 | Streak Record | 3 |
 | Flagship | 4 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733110512,1732932378,1732592440,1732438893,1732062674,1731621705,1731601406,1731142831,1730724843,1730706813,1730223322,1730208894,1729771658,1729748823,1729304383,1729246979,1728720411,1728706887,1728272930,1728220339,1727789085,1727778566,1727327215,1727324511,1726856351,1726806270,1726374634,1726332665,1725900558,1725716945,1725361461,1725284540,1724798029,1724336140,1723902192,1723462239,1722942961,1722474729,1722041705,1721524624,1721020556,1721014846,1720512325,1720512325,1720078067,1720005331,1719586724,1719152494,1718710135];
+        let timestamps = [1733542888,1733110512,1732932378,1732592440,1732438893,1732062674,1731621705,1731601406,1731142831,1730724843,1730706813,1730223322,1730208894,1729771658,1729748823,1729304383,1729246979,1728720411,1728706887,1728272930,1728220339,1727789085,1727778566,1727327215,1727324511,1726856351,1726806270,1726374634,1726332665,1725900558,1725716945,1725361461,1725284540,1724798029,1724336140,1723902192,1723462239,1722942961,1722474729,1722041705,1721524624,1721020556,1721014846,1720512325,1720512325,1720078067,1720005331,1719586724,1719152494,1718710135];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,7 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
-| [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) | 0 | 3 | 0 | 3 |
+| [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) | 0 | 4 | 0 | 4 |
 | [Bon Ariens](https://ws.tsl.rocks/corp/1d0aa6d0fbc5e35422544e47ebd18d2fe21749780594630982f96fa08a850574/) | 2 | 0 | 0 | 2 |
 | [империя тьмы](https://ws.tsl.rocks/corp/4eb22a1b793e5d03579cea15c873b1bef56fea02420a4e55edb18a200f7fc46a/) | 2 | 0 | 0 | 2 |
 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) | 2 | 0 | 0 | 2 |
@@ -146,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/12 | 4-8 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
 | ❌ | 2024/12/07 | 4-11 | [ℬlackStar Order](https://ws.tsl.rocks/corp/03620dd2b01d0a0c2c7b03cb570214cd6c5872eb043bac01dcadeb6244f8d861/) |
 | ❌ | 2024/12/05 | 0-2 | [星光万丈](https://ws.tsl.rocks/corp/92ad2a305a74e168b57771140461b4d226e1e8cac17b4f77027d5a67ead5fa1d/) |
 | ✅ | 2024/12/01 | 8-0 | [Blazing Stars](https://ws.tsl.rocks/corp/f1c390fb4786da2cb59b7b39519a0ecf6022d4ba017d407af5286aa056682aff/) |
