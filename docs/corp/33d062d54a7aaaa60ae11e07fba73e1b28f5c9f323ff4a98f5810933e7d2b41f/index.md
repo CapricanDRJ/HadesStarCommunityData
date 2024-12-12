@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​oen
-description: W:5 L:1 D:1 Bonus ✅
+description: W:5 L:1 D:1 Bonus ❌
 image: ./favicon.png
 date: 1733353961
 ---
@@ -17,7 +17,7 @@ Bienvenido/a a la     organización espacial multiestelar, tenemos dis
 cord 
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/bRJjJ7Xr6p)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
