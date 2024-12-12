@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Consortium
-description: W:1 L:3 D:1 Bonus ❌
+description: W:2 L:3 D:1 Bonus ✅
 image: ./favicon.png
-date: 1733059892
+date: 1733958063
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 1733059892
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (933)|
-| ELO Competitive | 1179 🔺  (992)|
-| Total Matches | 5 |
-| Wins | 1 |
+| ELO Regular | 1185 🔺  (767)|
+| ELO Competitive | 1197 🔺  (668)|
+| Total Matches | 6 |
+| Wins | 2 |
 | Losses | 3 |
 | Draws | 1 |
 | Flagship | 1 |
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732627892,1722774973,1707569106,1704619630,1704132500];
+        let timestamps = [1733526063,1732627892,1722774973,1707569106,1704619630,1704132500];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/11 | 1-0 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
 | ↔️ | 2024/12/01 | 1-1 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 | ❌ | 2024/08/09 | 0-14 | [星光万丈](https://ws.tsl.rocks/corp/92ad2a305a74e168b57771140461b4d226e1e8cac17b4f77027d5a67ead5fa1d/) |
 | ✅ | 2024/02/15 | 3-2 | [The Gladiators](https://ws.tsl.rocks/corp/4aa9000c49c8a988df27932c5a5840800303bdb713ef35f9d207a4da7f6b0337/) |

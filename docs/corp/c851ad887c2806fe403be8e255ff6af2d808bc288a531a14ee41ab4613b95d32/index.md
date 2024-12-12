@@ -20,7 +20,7 @@ vamos ser bom
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1186 🔻  (680)|
-| ELO Competitive | 1186 🔻  (828)|
+| ELO Competitive | 1186 🔻  (830)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

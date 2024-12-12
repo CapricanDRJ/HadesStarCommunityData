@@ -25,7 +25,7 @@ Disc AvYQJJh9
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1048 🔻  (1310)|
-| ELO Competitive | 1164 🔻  (1145)|
+| ELO Competitive | 1164 🔻  (1144)|
 | Total Matches | 81 |
 | Wins | 26 |
 | Losses | 55 |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​⭐PRETORIANS.X⭐
-description: W:10 L:17 D:2 Bonus ❌
+description: W:10 L:18 D:2 Bonus ❌
 image: ./favicon.png
-date: 1733492629
+date: 1733958063
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ sporg). 3lt bpdp)(demin).(flech).
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1140 🔻  (1147)|
-| ELO Competitive | 1242 🔻  (409)|
-| Total Matches | 29 |
+| ELO Regular | 1127 🔻  (1193)|
+| ELO Competitive | 1224 🔻  (474)|
+| Total Matches | 30 |
 | Wins | 10 |
-| Losses | 17 |
+| Losses | 18 |
 | Draws | 2 |
 | Streak Record | 3 |
 | Flagship | 3 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733060629,1733057924,1732612267,1732610765,1732154321,1732094218,1731633860,1731621705,1731158760,1731128752,1730725745,1730684583,1730223322,1729977510,1729702552,1729342548,1729236463,1728791063,1728733638,1728292707,1728204711,1727658369,1727538855,1726932677,1726916748,1726411408,1726362718,1725900558,1725457917];
+        let timestamps = [1733526063,1733060629,1733057924,1732612267,1732610765,1732154321,1732094218,1731633860,1731621705,1731158760,1731128752,1730725745,1730684583,1730223322,1729977510,1729702552,1729342548,1729236463,1728791063,1728733638,1728292707,1728204711,1727658369,1727538855,1726932677,1726916748,1726411408,1726362718,1725900558,1725457917];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/11 | 0-1 | [Consortium](https://ws.tsl.rocks/corp/2d28d460f549084fa8f440de8a4da35728d64c0bb2f1a8ac30e07282c5210d89/) |
 | ❌ | 2024/12/06 | 2-8 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 | ❌ | 2024/12/06 | 0-15 | [Winter Star llc](https://ws.tsl.rocks/corp/89b20821cb6e619dced74a6e153a1d3ceafa70b1035fb7d61a6920d375e49f50/) |
 | ✅ | 2024/12/01 | 5-2 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |

@@ -22,7 +22,7 @@ warframe代肝  星际战甲国际服     玄骸  开图  声望 系列任务等
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1016 🔻  (1328)|
+| ELO Regular | 1016 🔻  (1327)|
 | ELO Competitive | 1092 🔻  (1315)|
 | Total Matches | 23 |
 | Wins | 2 |
