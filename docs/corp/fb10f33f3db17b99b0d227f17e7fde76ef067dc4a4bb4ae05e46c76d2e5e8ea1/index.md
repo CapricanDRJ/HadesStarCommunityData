@@ -29,7 +29,7 @@ White Star focused.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1510 🔺  (8)|
-| ELO Competitive | 1563 🔺  (27)|
+| ELO Competitive | 1563 🔺  (28)|
 | Total Matches | 55 |
 | Wins | 48 |
 | Losses | 6 |

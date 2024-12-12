@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​第一序列
-description: W:40 L:49 D:0 Bonus ✅
+description: W:40 L:49 D:0 Bonus ❌
 image: ./favicon.png
 date: 1733458072
 ---
@@ -18,7 +18,7 @@ date: 1733458072
 <color=yellow>◆</color>
 ```
 ### [Discord](https://discord.gg/U7S2BaueGU)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
