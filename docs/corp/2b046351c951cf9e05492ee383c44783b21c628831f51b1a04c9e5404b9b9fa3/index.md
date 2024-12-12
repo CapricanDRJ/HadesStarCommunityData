@@ -20,7 +20,7 @@ ing the higher-ups, being friendly, and helping your comrads out.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1233 🔻  (303)|
+| ELO Regular | 1233 🔻  (305)|
 | ELO Competitive | 1252 🔻  (371)|
 | Total Matches | 19 |
 | Wins | 9 |

@@ -21,7 +21,7 @@ w white star search every Monday. Discord optional
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1307 🔻  (141)|
+| ELO Regular | 1307 🔻  (140)|
 | ELO Competitive | 1380 🔻  (154)|
 | Total Matches | 34 |
 | Wins | 23 |
