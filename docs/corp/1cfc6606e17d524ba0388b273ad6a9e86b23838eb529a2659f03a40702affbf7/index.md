@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Lofty Mountain
-description: W:12 L:0 D:0 Bonus ❌
+description: W:13 L:0 D:0 Bonus ✅
 image: ./favicon.png
-date: 1733273274
+date: 1734046720
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,18 +17,18 @@ Part of ARk Ecosystem. We do WS every month. Don't forget to join our
  Discord
 ```
 ### [Discord](https://discord.gg/bkjju25TCs)
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1350 🔺  (92)|
-| ELO Competitive | 1376 🔺  (158)|
-| Total Matches | 12 |
-| Wins | 12 |
+| ELO Regular | 1357 🔺  (87)|
+| ELO Competitive | 1384 🔺  (148)|
+| Total Matches | 13 |
+| Wins | 13 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 12 |
-| Streak Record | 12 |
+| Streak | 13 |
+| Streak Record | 13 |
 | Flagship | 4 |
 
 ---
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732841274,1731659325,1731128705,1730473927,1729970898,1729535784,1729065976,1727688413,1727134610,1723929849,1722161630,1720494897];
+        let timestamps = [1733614720,1732841274,1731659325,1731128705,1730473927,1729970898,1729535784,1729065976,1727688413,1727134610,1723929849,1722161630,1720494897];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/12 | 23-3 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ✅ | 2024/12/04 | 14-0 | [한국우주연합](https://ws.tsl.rocks/corp/c5eef27852b12a8242ae92571d4bdaa16b3360e45fb47820da574211a095ccce/) |
 | ✅ | 2024/11/20 | 33-2 | [超越声速](https://ws.tsl.rocks/corp/c80951822ff08b108eaa885a614cb9d41079099683e9804b33647baa51574183/) |
 | ✅ | 2024/11/14 | 33-3 | [对，进就进人少的（分团）](https://ws.tsl.rocks/corp/69a860d3020745a9088fa70fa7ebc4caaa8a6181832961bcd607fbfa627203f3/) |
