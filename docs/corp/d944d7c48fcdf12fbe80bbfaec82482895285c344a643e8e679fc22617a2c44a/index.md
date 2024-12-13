@@ -20,8 +20,8 @@ Buka's secret hideout
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔻  (413)|
-| ELO Competitive | 1245 🔻  (397)|
+| ELO Regular | 1214 🔻  (414)|
+| ELO Competitive | 1245 🔻  (398)|
 | Total Matches | 10 |
 | Wins | 5 |
 | Losses | 4 |

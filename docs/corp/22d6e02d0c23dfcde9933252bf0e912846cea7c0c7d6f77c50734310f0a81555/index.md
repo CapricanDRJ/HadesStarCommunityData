@@ -21,8 +21,8 @@ No bullying
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 🔻  (615)|
-| ELO Competitive | 1189 🔻  (775)|
+| ELO Regular | 1189 🔻  (614)|
+| ELO Competitive | 1189 🔻  (776)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

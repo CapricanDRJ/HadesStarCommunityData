@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Галактика Зла
-description: W:19 L:19 D:0 Bonus ✅
+description: W:20 L:19 D:0 Bonus ✅
 image: ./favicon.png
-date: 1733532915
+date: 1734117341
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,12 +22,13 @@ iscord.com/invite/y2m2V3WYtr
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1273 🔺  (197)|
-| ELO Competitive | 1325 🔺  (221)|
-| Total Matches | 38 |
-| Wins | 19 |
+| ELO Regular | 1285 🔺  (180)|
+| ELO Competitive | 1342 🔺  (197)|
+| Total Matches | 39 |
+| Wins | 20 |
 | Losses | 19 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 4 |
 | Flagship | 7 |
 
@@ -47,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733100915,1732485771,1729561322,1728947366,1728398538,1727654464,1726490145,1725259300,1724046756,1722771381,1722230757,1721658256,1721005231,1720306172,1719779354,1719127247,1718565598,1717968015,1717313040,1716754674,1716164871,1715600321,1714937828,1713483907,1711314377,1710104383,1708880532,1707680346,1707076634,1706477713,1705263940,1704654797,1703446118,1702836142,1702237160,1701025666,1699818296,1699206687];
+        let timestamps = [1733685341,1733100915,1732485771,1729561322,1728947366,1728398538,1727654464,1726490145,1725259300,1724046756,1722771381,1722230757,1721658256,1721005231,1720306172,1719779354,1719127247,1718565598,1717968015,1717313040,1716754674,1716164871,1715600321,1714937828,1713483907,1711314377,1710104383,1708880532,1707680346,1707076634,1706477713,1705263940,1704654797,1703446118,1702836142,1702237160,1701025666,1699818296,1699206687];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -144,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/13 | 8-5 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
 | ✅ | 2024/12/07 | 13-0 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ❌ | 2024/11/29 | 4-19 | [Лунный Феникс](https://ws.tsl.rocks/corp/457b7f76314e0ee24752aaf2396afac9027cfbdcca2a9863add962250ccbf389/) |
 | ✅ | 2024/10/27 | 40-0 | [Укр інтроверти](https://ws.tsl.rocks/corp/d572c676473ca035b64333d3b419fb4da007677b96f6a401710c4b9249a193d5/) |
