@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Lacuna X
-description: W:48 L:6 D:1 Bonus ✅
+description: W:49 L:6 D:1 Bonus ✅
 image: ./favicon.png
-date: 1733541611
+date: 1734107723
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -28,12 +28,13 @@ White Star focused.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1510 🔺  (8)|
-| ELO Competitive | 1563 🔺  (27)|
-| Total Matches | 55 |
-| Wins | 48 |
+| ELO Regular | 1515 🔺  (7)|
+| ELO Competitive | 1567 🔺  (25)|
+| Total Matches | 56 |
+| Wins | 49 |
 | Losses | 6 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 17 |
 | Flagship | 5 |
 
@@ -53,7 +54,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733109611,1732563596,1732424159,1731786520,1731322513,1730714324,1730092302,1729446534,1728822625,1728228155,1727638239,1727065794,1726417121,1725722656,1725169149,1724465361,1723952683,1723317097,1721512808,1720970064,1720330207,1719673571,1718576417,1717905194,1717319955,1716688251,1716071729,1715470523,1714884344,1714258672,1713640645,1713043317,1712437560,1711723013,1711183653,1710658438,1709968255,1709394357,1708791885,1708131696,1707570207,1706889111,1706285075,1705657599,1705133507,1704578464,1703947381,1703241152,1702707429,1702160217,1701493906,1700824281,1700285105,1699670394,1698986407];
+        let timestamps = [1733675723,1733109611,1732563596,1732424159,1731786520,1731322513,1730714324,1730092302,1729446534,1728822625,1728228155,1727638239,1727065794,1726417121,1725722656,1725169149,1724465361,1723952683,1723317097,1721512808,1720970064,1720330207,1719673571,1718576417,1717905194,1717319955,1716688251,1716071729,1715470523,1714884344,1714258672,1713640645,1713043317,1712437560,1711723013,1711183653,1710658438,1709968255,1709394357,1708791885,1708131696,1707570207,1706889111,1706285075,1705657599,1705133507,1704578464,1703947381,1703241152,1702707429,1702160217,1701493906,1700824281,1700285105,1699670394,1698986407];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [UFO](https://ws.tsl.rocks/corp/920537bbdadc8e0f3ba0a5bf70b777bf8ca14cde8723f0364eb0a6c3a93eb685/) | 2 | 0 | 0 | 2 |
 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) | 2 | 0 | 0 | 2 |
 | [МеГаКо](https://ws.tsl.rocks/corp/11cd7fa53aad1bfc7d40c47a63de7b6c4a6d76f00e69dcb853f47e2c90b382dd/) | 2 | 0 | 0 | 2 |
 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) | 2 | 0 | 0 | 2 |
@@ -150,6 +152,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/13 | 31-6 | [UFO](https://ws.tsl.rocks/corp/920537bbdadc8e0f3ba0a5bf70b777bf8ca14cde8723f0364eb0a6c3a93eb685/) |
 | ✅ | 2024/12/07 | 34-3 | [Alpha ](https://ws.tsl.rocks/corp/accb87a59c1f019d1be37fa2b19ae2aeb35c4a995d1d621a8e987065cd1328fe/) |
 | ↔️ | 2024/11/30 | 8-8 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ✅ | 2024/11/29 | 16-3 | [The Allegiant](https://ws.tsl.rocks/corp/1c4cfbcf7902769aff100297d9174153f4c0528ed07918ba494f763a1315ffc6/) |

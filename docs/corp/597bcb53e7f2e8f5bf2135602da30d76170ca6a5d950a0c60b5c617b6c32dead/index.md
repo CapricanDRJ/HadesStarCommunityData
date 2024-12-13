@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​云浪山庄↕
-description: W:25 L:92 D:1 Bonus ✅
+description: W:25 L:92 D:1 Bonus ❌
 image: ./favicon.png
 date: 1733479406
 ---
@@ -21,7 +21,7 @@ date: 1733479406
 没qq的可以加微信进集团群
 ✡分团《云浪度假村↕》《想想的后勤部》《Gemini》
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

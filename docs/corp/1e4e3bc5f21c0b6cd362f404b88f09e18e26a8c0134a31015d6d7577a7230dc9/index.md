@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​АНДРОМЕДА 
-description: W:35 L:54 D:1 Bonus ✅
+description: W:35 L:54 D:1 Bonus ❌
 image: ./favicon.png
 date: 1733480909
 ---
@@ -16,7 +16,7 @@ date: 1733480909
 Ищем активных игроков на БЗ. Артами не кормим, учим добывать. Играем 
 КЗ, МКЗ. Заходим здароваемся😉.
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
