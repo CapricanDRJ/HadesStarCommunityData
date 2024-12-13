@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​蓝星集团
-description: W:11 L:5 D:0 Bonus ❌
+description: W:12 L:5 D:0 Bonus ✅
 image: ./favicon.png
-date: 1733614630
+date: 1734063764
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ date: 1733614630
 和🍉老板有好友关系的人<br><color=yellow>创始人>首席>干事>高级成员>成员<br>一旦有明显损害集团利益的行为，肇事者
 直接肃清<br>分团：白星、电磁脉冲<br><color=red>捐钱给旗舰1<br>QQ:993683689
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1268 🔻  (203)|
-| ELO Competitive | 1304 🔻  (254)|
-| Total Matches | 16 |
-| Wins | 11 |
+| ELO Regular | 1281 🔺  (187)|
+| ELO Competitive | 1317 🔺  (236)|
+| Total Matches | 17 |
+| Wins | 12 |
 | Losses | 5 |
 | Draws | 0 |
 | Streak Record | 6 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733182630,1733017360,1732610765,1732107440,1731662100,1731209284,1730760857,1730285216,1729781576,1729342548,1728823828,1727946249,1727505111,1726803718,1724407362,1723912716];
+        let timestamps = [1733631764,1733182630,1733017360,1732610765,1732107440,1731662100,1731209284,1730760857,1730285216,1729781576,1729342548,1728823828,1727946249,1727505111,1726803718,1724407362,1723912716];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/13 | 16-0 | [一根飞机](https://ws.tsl.rocks/corp/459077a8d857a7bd7ee9caafa2c5ed27ac2416d2280965dd22d4293302cb9de0/) |
 | ❌ | 2024/12/07 | 3-4 | [Zeta Division ](https://ws.tsl.rocks/corp/29335e52f4b0c4ae92db98c395d2f4969201d0ddc31bb7f112bd6d3eeb97182c/) |
 | ❌ | 2024/12/06 | 0-1 | [  边界  ](https://ws.tsl.rocks/corp/86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a/) |
 | ✅ | 2024/12/01 | 7-0 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |

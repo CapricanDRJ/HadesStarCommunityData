@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Nine's Own Goal
-description: W:33 L:27 D:2 Bonus ✅
+description: W:33 L:27 D:2 Bonus ❌
 image: ./favicon.png
 date: 1733433826
 ---
@@ -17,12 +17,12 @@ Daily red star runs, weekly white star runs, and occasional corporati
 on events. No alts.
 ```
 ### [Discord](https://discord.gg/zVyGtnjRyy)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1191 🔺  (579)|
-| ELO Competitive | 1252 🔺  (372)|
+| ELO Regular | 1191 🔺  (578)|
+| ELO Competitive | 1252 🔺  (371)|
 | Total Matches | 62 |
 | Wins | 33 |
 | Losses | 27 |

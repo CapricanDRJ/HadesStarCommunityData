@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​一根飞机
-description: W:7 L:5 D:1 Bonus ✅
+description: W:7 L:7 D:1 Bonus ✅
 image: ./favicon.png
-date: 1733621998
+date: 1734065648
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 1733621998
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔺  (418)|
-| ELO Competitive | 1263 🔺  (336)|
-| Total Matches | 13 |
+| ELO Regular | 1187 🔻  (657)|
+| ELO Competitive | 1250 🔻  (383)|
+| Total Matches | 15 |
 | Wins | 7 |
-| Losses | 5 |
+| Losses | 7 |
 | Draws | 1 |
 | Streak Record | 3 |
 | Flagship | 4 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733189998,1733144461,1732711125,1732629997,1732205099,1732122168,1731769086,1731683437,1731327962,1731158760,1730821005,1730724843,1730385883];
+        let timestamps = [1733633648,1733631764,1733189998,1733144461,1732711125,1732629997,1732205099,1732122168,1731769086,1731683437,1731327962,1731158760,1730821005,1730724843,1730385883];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/13 | 2-3 | [萌新集团](https://ws.tsl.rocks/corp/cda6bb5c1bf595967bd6f4a2e94f7c7fcc50df3774ccee7939822c252b9cd224/) |
+| ❌ | 2024/12/13 | 0-16 | [蓝星集团](https://ws.tsl.rocks/corp/9d718b80beaf9682ccde175169372b72f70b75bb593770762dfc9e990cbd098a/) |
 | ✅ | 2024/12/08 | 3-0 | [Devourers](https://ws.tsl.rocks/corp/8b11fb529b6388e78677d5025d5973063a49ee25a297a52cda3859faa20ee5ca/) |
 | ❌ | 2024/12/07 | 0-1 | [中团一建](https://ws.tsl.rocks/corp/3c82f48d57e8ce1b8fa5b4bc7b22c7e2dafa9a227fa0ab95f1ccb95bd1994f6b/) |
 | ✅ | 2024/12/02 | 5-0 | [星约组织：基地分团](https://ws.tsl.rocks/corp/65d5754facd0f6a7ee7bd84567ea263d8002e24a754d36c982598d5552b1830b/) |
