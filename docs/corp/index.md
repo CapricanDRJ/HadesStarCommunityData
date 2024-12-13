@@ -124,7 +124,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Celtic Imperium](https://ws.tsl.rocks/corp/58d284836596e89b4f481066ae27a521175a632d88194574f08bf27baa1f9c7a/) | 1137 | 1140 | 8 |
 | [CENTINELA](https://ws.tsl.rocks/corp/a7b4952c4c6448ae272ebd43ac83af1809c89edc0822f0d8f9df7e3e59687300/) | 1188 | 1188 | 1 |
 | [Cerulean Nebula](https://ws.tsl.rocks/corp/b76233469d1b4590ef63daba47aeb4239d428cb0804768d58f7e891418b91f81/) | 1247 | 1294 | 24 |
-| [Cerulean Star](https://ws.tsl.rocks/corp/63d77c8d633b9dec932ad5d0f5a8ceb371b865b1adbb221ed410c5a7ba7df203/) | 1328 | 1403 | 47 |
+| [Cerulean Star](https://ws.tsl.rocks/corp/63d77c8d633b9dec932ad5d0f5a8ceb371b865b1adbb221ed410c5a7ba7df203/) | 1339 | 1417 | 48 |
 | [challenger corp](https://ws.tsl.rocks/corp/7c39adae75191c15a3bab070d08a4cf21efb3b5ec37d69363b7c1060f272d80d/) | 1220 | 1243 | 16 |
 | [chrtrncmndr](https://ws.tsl.rocks/corp/d45b04221ecdcddea93f7062e9a00110605a540dd8b40f83ae26b81bc51a393b/) | 1171 | 1171 | 2 |
 | [cikopo](https://ws.tsl.rocks/corp/523cdd29cdccf7732fed590e941edb3ad2c4e7130ef6b474e9ae7a0855af8cc7/) | 1162 | 1163 | 3 |
@@ -383,7 +383,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Imperium XIII](https://ws.tsl.rocks/corp/0d52edf77b0cdeaaea6ebc20a7f5b6a60372b535bf96f556b31e2243dc8ee75a/) | 1314 | 1371 | 63 |
 | [Industrial W\.O](https://ws.tsl.rocks/corp/99a4ba88f6a620cb9ea1da456127c978a858ffbda4e40b255fcf3365515da25d/) | 1305 | 1405 | 68 |
 | [Inexorable](https://ws.tsl.rocks/corp/8343908ac19af8666d7765db00e5eb603d9e87bbbfe273c81d9b9b2329ca0827/) | 1229 | 1286 | 29 |
-| [INFINITY STAR](https://ws.tsl.rocks/corp/e36eb12fc6bc8e4b826e6bcb46020cad3eb616497c4c14075e8b657715898a9f/) | 1184 | 1245 | 28 |
+| [INFINITY STAR](https://ws.tsl.rocks/corp/e36eb12fc6bc8e4b826e6bcb46020cad3eb616497c4c14075e8b657715898a9f/) | 1174 | 1241 | 29 |
 | [Int\. Trading Co](https://ws.tsl.rocks/corp/6978edb31cfa5778f4e28d2477e5db050fd8bf44105dc25871490d0cffaf4bf7/) | 1300 | 1339 | 26 |
 | [Intari](https://ws.tsl.rocks/corp/cd40328f5e2c9c9a9048ffbc090999675ccd6672e60c1ec9e8113daa822bf02f/) | 1183 | 1183 | 2 |
 | [Intercepter Inc](https://ws.tsl.rocks/corp/77a77d3506a7caa4235a9cd6e9789f562649180fe9404bab2bb70d4433a2f520/) | 1184 | 1184 | 1 |
@@ -764,7 +764,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [Stars Radiant](https://ws.tsl.rocks/corp/5ac31743716c6ffdd6916e75c314c1e4a9d57ece49822f93616a5c18c38a3e32/) | 1185 | 1185 | 1 |
 | [Starsailors](https://ws.tsl.rocks/corp/1ffdd1012b5d4a4aca2e0e34e2653630706b779eead835c61c2c715e4df17a1f/) | 1360 | 1388 | 27 |
 | [StellaMysterium](https://ws.tsl.rocks/corp/cfaaa81ed93cc9361ade470c3414c73ecf77068badd68d624c7b3f486d142b10/) | 1072 | 1274 | 74 |
-| [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) | 1311 | 1525 | 95 |
+| [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) | 1321 | 1530 | 96 |
 | [StellarCorpIT](https://ws.tsl.rocks/corp/7a04d23f7e63879df1e854aaa391473a3a177095a387f75fff1ba98d61d6091f/) | 1283 | 1302 | 10 |
 | [Stellaris](https://ws.tsl.rocks/corp/957f987a0920391d39769d5b2540f55eb7102778a12d395599ed7a4a7985e342/) | 1142 | 1172 | 17 |
 | [Stella☆Glow](https://ws.tsl.rocks/corp/86a894b97d55e4f65a3cec65d26d528341d8e70b186bcffa2e89f5f681e48396/) | 1288 | 1363 | 54 |
@@ -1079,7 +1079,7 @@ description: Hades' Star Corporation Whitestar Records and Stats Directory
 | [СвятыеНегодники](https://ws.tsl.rocks/corp/0ff3f8b2bbe76f5e94f3473f3ac40b2e78ea4a03c73aa7d1efd0b6611056d844/) | 1215 | 1215 | 1 |
 | [Север РусКорп](https://ws.tsl.rocks/corp/39eeae12a2a5fead3330938b8f38c71aab465634b732303dad7b2a7d5f472004/) | 1321 | 1422 | 46 |
 | [Северный флот ](https://ws.tsl.rocks/corp/fdf84420bdb3354b3133ca03db3d929e7e0b0a4442f4493df5df1a97684ed195/) | 1230 | 1231 | 2 |
-| [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) | 1222 | 1397 | 103 |
+| [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) | 1211 | 1383 | 104 |
 | [Сибиряки](https://ws.tsl.rocks/corp/8292ba421cc8d81ce0a483ceaedafeff0966e8afc1c1c689517971a223e2aaa8/) | 1141 | 1148 | 5 |
 | [Система Редарфа](https://ws.tsl.rocks/corp/7955df4f6e3d4e40b31e17dd1ae410181ccce8d2f8460b49f6a92ef187042dca/) | 1221 | 1225 | 1 |
 | [Скричеры](https://ws.tsl.rocks/corp/4e6e4f14ef6899f0d26f90dea584fecdc2d230059402af1d309ce71d87762b5c/) | 1197 | 1200 | 4 |

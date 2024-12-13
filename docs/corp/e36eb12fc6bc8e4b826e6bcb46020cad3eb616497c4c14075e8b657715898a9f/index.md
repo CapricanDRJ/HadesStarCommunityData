@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​INFINITY STAR
-description: W:13 L:15 D:0 Bonus ❌
+description: W:13 L:16 D:0 Bonus ❌
 image: ./favicon.png
-date: 1733553026
+date: 1734092392
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ Lost in Space...? Dann komm zu uns!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1184 🔻  (805)|
-| ELO Competitive | 1245 🔻  (395)|
-| Total Matches | 28 |
+| ELO Regular | 1174 🔻  (887)|
+| ELO Competitive | 1241 🔻  (412)|
+| Total Matches | 29 |
 | Wins | 13 |
-| Losses | 15 |
+| Losses | 16 |
 | Draws | 0 |
 | Streak Record | 5 |
 | Flagship | 6 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733121026,1732452106,1731853830,1731250132,1730638000,1730033701,1729433306,1728991231,1728218235,1727609983,1726917048,1726397879,1725795077,1725205815,1723985143,1723393727,1722781888,1722176359,1721561786,1720351244,1719663050,1719141672,1718546961,1717942765,1716728521,1711894891,1710086049,1705845726];
+        let timestamps = [1733660392,1733121026,1732452106,1731853830,1731250132,1730638000,1730033701,1729433306,1728991231,1728218235,1727609983,1726917048,1726397879,1725795077,1725205815,1723985143,1723393727,1722781888,1722176359,1721561786,1720351244,1719663050,1719141672,1718546961,1717942765,1716728521,1711894891,1710086049,1705845726];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,8 +132,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) | 1 | 2 | 0 | 3 |
 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) | 0 | 2 | 0 | 2 |
-| [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) | 1 | 1 | 0 | 2 |
 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) | 2 | 0 | 0 | 2 |
 
 ---
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/13 | 16-30 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |
 | ❌ | 2024/12/07 | 9-44 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) |
 | ❌ | 2024/11/29 | 3-40 | [Дом Датэ](https://ws.tsl.rocks/corp/10cbcbd91c4084657bdab01ef573cc48170fbc4dd0ab533f96712f1cb6097ff2/) |
 | ❌ | 2024/11/22 | 5-14 | [Looping](https://ws.tsl.rocks/corp/08524086f45f2e6109e583baf940197663aa3e155c32fcdbb04f319343a5eb0c/) |
