@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​The Red Dwarves
-description: W:3 L:4 D:1 Bonus ❌
+description: W:3 L:5 D:1 Bonus ❌
 image: ./favicon.png
-date: 1715213588
+date: 1734051227
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ an) If u are not going to participate in white stars, tell me
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔻  (593)|
-| ELO Competitive | 1204 🔻  (603)|
-| Total Matches | 8 |
+| ELO Regular | 1172 🔻  (913)|
+| ELO Competitive | 1187 🔻  (803)|
+| Total Matches | 9 |
 | Wins | 3 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 2 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1714781588,1714763919,1713094997,1709911465,1707503803,1706928178,1706662331,1706453365];
+        let timestamps = [1733619227,1714781588,1714763919,1713094997,1709911465,1707503803,1706928178,1706662331,1706453365];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/13 | 0-10 | [华夏三体\-基沃托斯集团](https://ws.tsl.rocks/corp/2a0e5e40c4264cc5c8543ba1f6f41772d2059010c0a58381251017412b294ef7/) |
 | ❌ | 2024/05/09 | 0-11 | [Lacuna Academy](https://ws.tsl.rocks/corp/ed67ca44432a8fad3aec6fab3e7f305d394d2b41844391fd29e1ce2b316b336b/) |
 | ❌ | 2024/05/08 | 0-7 | [Shrimp City](https://ws.tsl.rocks/corp/eae9b3a1f9dd6b4a1fb39d6aedfe84a80662abe6b181bedcfd7ec15d931b8e84/) |
 | ❌ | 2024/04/19 | 0-10 | [探索舰队](https://ws.tsl.rocks/corp/8c465701390ed74d4d115e58d66289afb2eeef6247ca351a4cf88a0046e6fe55/) |
