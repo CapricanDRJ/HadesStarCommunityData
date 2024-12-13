@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Armored Union 
-description: W:28 L:24 D:1 Bonus ✅
+description: W:28 L:24 D:1 Bonus ❌
 image: ./favicon.png
 date: 1733449332
 ---
@@ -18,12 +18,12 @@ an Armored Union of warriors! Share Artifacts and build strong allies
  in pursuit of adventure! keep up, keep fighting! :)
 ```
 ### [Discord](https://discord.gg/v454nxdC)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1240 🔺  (281)|
-| ELO Competitive | 1361 🔺  (174)|
+| ELO Competitive | 1361 🔺  (175)|
 | Total Matches | 53 |
 | Wins | 28 |
 | Losses | 24 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​  边界  
-description: W:29 L:12 D:4 Bonus ✅
+description: W:29 L:12 D:4 Bonus ❌
 image: ./favicon.png
 date: 1733449360
 ---
@@ -22,11 +22,11 @@ n>本团为北极星联盟成员
 <#BDB76B>[QQ:733613340]
 ```
 ### [Discord](https://discord.gg/8uQgZfVQ)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1304 🔺  (146)|
+| ELO Regular | 1304 🔺  (147)|
 | ELO Competitive | 1431 🔺  (103)|
 | Total Matches | 45 |
 | Wins | 29 |

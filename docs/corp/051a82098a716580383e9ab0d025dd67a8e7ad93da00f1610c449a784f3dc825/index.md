@@ -21,7 +21,7 @@ CZ/SK klan,<br>pro vsechny, kteri chteji pohodovou hru<br><br>WS,  RS
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1298 🔺  (159)|
+| ELO Regular | 1298 🔺  (160)|
 | ELO Competitive | 1568 🔺  (24)|
 | Total Matches | 111 |
 | Wins | 75 |
