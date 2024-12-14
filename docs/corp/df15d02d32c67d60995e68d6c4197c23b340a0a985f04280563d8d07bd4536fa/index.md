@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​🌪TORNADO 
-description: W:8 L:12 D:4 Bonus ✅
+description: W:9 L:12 D:4 Bonus ✅
 image: ./favicon.png
-date: 1733740217
+date: 1734173773
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,13 @@ date: 1733740217
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1165 🔺  (1001)|
-| ELO Competitive | 1190 🔺  (755)|
-| Total Matches | 24 |
-| Wins | 8 |
+| ELO Regular | 1180 🔺  (847)|
+| ELO Competitive | 1207 🔺  (596)|
+| Total Matches | 25 |
+| Wins | 9 |
 | Losses | 12 |
 | Draws | 4 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 3 |
 | Flagship | 3 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733308217,1732855092,1732408236,1731209284,1730290024,1729642155,1728938351,1716219851,1714422731,1713609693,1712203411,1711379934,1710750763,1709606496,1709001324,1708481777,1707618438,1706953720,1706438637,1703162715,1703161547,1701403443,1701349045,1700673409];
+        let timestamps = [1733741773,1733308217,1732855092,1732408236,1731209284,1730290024,1729642155,1728938351,1716219851,1714422731,1713609693,1712203411,1711379934,1710750763,1709606496,1709001324,1708481777,1707618438,1706953720,1706438637,1703162715,1703161547,1701403443,1701349045,1700673409];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/14 | 9-0 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 | ✅ | 2024/12/09 | 7-0 | [环星集团](https://ws.tsl.rocks/corp/8a1148b4fbc41d0b26a8a865ec524c7ab8965e7df2c1002344b8cbd075a12fdd/) |
 | ✅ | 2024/12/04 | 6-0 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) |
 | ❌ | 2024/11/29 | 3-11 | [Winter Star llc](https://ws.tsl.rocks/corp/89b20821cb6e619dced74a6e153a1d3ceafa70b1035fb7d61a6920d375e49f50/) |

@@ -20,7 +20,7 @@ Bienvenidos a la Corp Copelius. Apoyándonos para crecer unidos.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1190 🔻  (595)|
-| ELO Competitive | 1192 🔻  (718)|
+| ELO Competitive | 1192 🔻  (719)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

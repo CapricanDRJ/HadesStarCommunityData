@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​WhiteSTarfighte
-description: W:9 L:7 D:0 Bonus ✅
+description: W:9 L:8 D:0 Bonus ✅
 image: ./favicon.png
-date: 1733665705
+date: 1734179833
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,13 +20,12 @@ Lets WiN all white Stars
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1237 🔺  (299)|
-| ELO Competitive | 1252 🔺  (368)|
-| Total Matches | 16 |
+| ELO Regular | 1224 🔻  (343)|
+| ELO Competitive | 1239 🔻  (417)|
+| Total Matches | 17 |
 | Wins | 9 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 0 |
-| Streak | 3 |
 | Streak Record | 3 |
 | Flagship | 3 |
 
@@ -46,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733233705,1732786565,1732334810,1731889294,1731452971,1731020532,1730517201,1730079060,1729621421,1729184477,1728740556,1728304481,1727857614,1727366582,1726932677,1726471215];
+        let timestamps = [1733747833,1733233705,1732786565,1732334810,1731889294,1731452971,1731020532,1730517201,1730079060,1729621421,1729184477,1728740556,1728304481,1727857614,1727366582,1726932677,1726471215];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/14 | 1-12 | [Equinox](https://ws.tsl.rocks/corp/d6f4702c0a85549d019474868a68ecc1a6c546d73fa31f9336ee639a906ff0fe/) |
 | ✅ | 2024/12/08 | 2-0 | [斯比纳兰](https://ws.tsl.rocks/corp/ce756ff97542e6fa8d518319e6575aae1d01eb23dd906fee3e3cbb98b442b68f/) |
 | ✅ | 2024/12/03 | 10-0 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 | ✅ | 2024/11/28 | 9-0 | [The Drones](https://ws.tsl.rocks/corp/9c2723bb068babe4c73bfc848efbd77209732ae432badf52b7e9b01099f42e43/) |

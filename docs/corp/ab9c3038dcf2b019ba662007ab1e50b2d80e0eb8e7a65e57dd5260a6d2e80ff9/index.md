@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Halcon español
-description: W:27 L:17 D:1 Bonus ❌
+description: W:28 L:17 D:1 Bonus ✅
 image: ./favicon.png
-date: 1733569249
+date: 1734178631
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ ticipas la asistencia es obligada, no participar = expulsión. Rojas d
 e L a V a las 22:00. Discord recomendado, tenemos comunidad.
 ```
 ### [Discord](https://discord.gg/https://discord.gg/MZDNrGyav9)
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1231 🔻  (314)|
-| ELO Competitive | 1287 🔻  (285)|
-| Total Matches | 45 |
-| Wins | 27 |
+| ELO Regular | 1235 🔺  (301)|
+| ELO Competitive | 1298 🔺  (270)|
+| Total Matches | 46 |
+| Wins | 28 |
 | Losses | 17 |
 | Draws | 1 |
 | Streak Record | 9 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733137249,1732562995,1731922942,1729511211,1728923620,1728315903,1727700435,1727096441,1726489845,1725890338,1725283639,1724055170,1723460737,1722845294,1722259603,1721650140,1721071356,1720442602,1719835239,1719219508,1718638015,1718031723,1717409823,1716815068,1716217447,1715609034,1714997310,1714391172,1713777343,1713170419,1712573376,1711875959,1711370256,1710925254,1710271739,1709743806,1709131735,1708525947,1707892499,1707311731,1706533903,1705835507,1704894002,1704201315,1703231537];
+        let timestamps = [1733746631,1733137249,1732562995,1731922942,1729511211,1728923620,1728315903,1727700435,1727096441,1726489845,1725890338,1725283639,1724055170,1723460737,1722845294,1722259603,1721650140,1721071356,1720442602,1719835239,1719219508,1718638015,1718031723,1717409823,1716815068,1716217447,1715609034,1714997310,1714391172,1713777343,1713170419,1712573376,1711875959,1711370256,1710925254,1710271739,1709743806,1709131735,1708525947,1707892499,1707311731,1706533903,1705835507,1704894002,1704201315,1703231537];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) | 2 | 0 | 0 | 2 |
 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) | 2 | 0 | 0 | 2 |
 | [Utd\. Human Fed\.](https://ws.tsl.rocks/corp/265fd73116c2ec237c7a966adb401d54219dee49882ee9024025c697165397d6/) | 1 | 1 | 0 | 2 |
 | [普罗米修斯](https://ws.tsl.rocks/corp/f39d00b1bbbf87c158931fd887f37a588019d0b1fd4f2441fbc675674b71423a/) | 2 | 0 | 0 | 2 |
@@ -145,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/14 | 18-2 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) |
 | ❌ | 2024/12/07 | 8-18 | [Dumpster Fire 2](https://ws.tsl.rocks/corp/37d473dec00d4d68e29963e3b423670aac735e7c1f256276e6c2e7d62180b0f8/) |
 | ❌ | 2024/11/30 | 2-21 | [BRASIL STAR](https://ws.tsl.rocks/corp/94fc4639f17e4503a11d4ac3878f3203bca3f21baebf285433ff39ad37f0fff2/) |
 | ✅ | 2024/11/23 | 22-0 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) |

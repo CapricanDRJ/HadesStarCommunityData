@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​The Allegiant
-description: W:29 L:16 D:0 Bonus ❌
+description: W:29 L:17 D:0 Bonus ❌
 image: ./favicon.png
-date: 1734005239
+date: 1734171119
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,11 +23,11 @@ Red_Coat_Mafia
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1292 🔻  (167)|
+| ELO Regular | 1274 🔻  (195)|
 | ELO Competitive | 1355 🔻  (182)|
-| Total Matches | 45 |
+| Total Matches | 46 |
 | Wins | 29 |
-| Losses | 16 |
+| Losses | 17 |
 | Draws | 0 |
 | Streak Record | 7 |
 | Flagship | 6 |
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733573239,1732863504,1732424159,1731745643,1731261255,1730512695,1729971199,1729313998,1728761909,1728164449,1727526747,1726925764,1726189924,1725627391,1725075693,1724453043,1723833372,1723233553,1722652963,1722035996,1721410487,1720715794,1719686894,1719158808,1717790394,1717257437,1716663010,1715956351,1715374014,1714765363,1714254165,1713644853,1712976004,1710620581,1710010026,1709402172,1708799999,1708794590,1708193599,1707586585,1706919465,1706378839,1705770597,1705165966,1704647583];
+        let timestamps = [1733739119,1733573239,1732863504,1732424159,1731745643,1731261255,1730512695,1729971199,1729313998,1728761909,1728164449,1727526747,1726925764,1726189924,1725627391,1725075693,1724453043,1723833372,1723233553,1722652963,1722035996,1721410487,1720715794,1719686894,1719158808,1717790394,1717257437,1716663010,1715956351,1715374014,1714765363,1714254165,1713644853,1712976004,1710620581,1710010026,1709402172,1708799999,1708794590,1708193599,1707586585,1706919465,1706378839,1705770597,1705165966,1704647583];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/14 | 3-29 | [АарнСарт ](https://ws.tsl.rocks/corp/22a6ca5b9d96d9fe15fd019792db66760757592e6e03678bf67bca27b028233b/) |
 | ❌ | 2024/12/12 | 10-18 | [Mass Effect](https://ws.tsl.rocks/corp/6f715653bec3925d9c3acd7c2388fe8e1c79332146894ed424f57bd2636de8c7/) |
 | ✅ | 2024/12/04 | 26-3 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) |
 | ❌ | 2024/11/29 | 3-16 | [Lacuna X](https://ws.tsl.rocks/corp/fb10f33f3db17b99b0d227f17e7fde76ef067dc4a4bb4ae05e46c76d2e5e8ea1/) |

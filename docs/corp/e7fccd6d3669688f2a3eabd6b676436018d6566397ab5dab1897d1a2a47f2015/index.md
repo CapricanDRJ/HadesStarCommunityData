@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​UKR Spase
-description: W:32 L:13 D:0 Bonus ✅
+description: W:32 L:14 D:0 Bonus ✅
 image: ./favicon.png
-date: 1733909081
+date: 1734170518
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,11 +23,11 @@ date: 1733909081
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1405 🔺  (47)|
+| ELO Regular | 1387 🔻  (65)|
 | ELO Competitive | 1490 🔺  (61)|
-| Total Matches | 45 |
+| Total Matches | 46 |
 | Wins | 32 |
-| Losses | 13 |
+| Losses | 14 |
 | Draws | 0 |
 | Streak Record | 7 |
 | Flagship | 10 |
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733477081,1733221983,1732976190,1732703011,1732532639,1732187367,1732015491,1731661800,1731498937,1731154325,1730970342,1730631388,1730116339,1729414973,1728896265,1728377799,1727779768,1727257797,1726564670,1726045386,1725357856,1723791898,1723186969,1722505415,1720259585,1719559979,1718625089,1717919620,1717317550,1716623938,1714547423,1713599778,1712917110,1712127761,1711351929,1710497076,1709635937,1709111604,1708075199,1707470446,1706774616,1706173583,1704838715,1700917756,1699210594];
+        let timestamps = [1733738518,1733477081,1733221983,1732976190,1732703011,1732532639,1732187367,1732015491,1731661800,1731498937,1731154325,1730970342,1730631388,1730116339,1729414973,1728896265,1728377799,1727779768,1727257797,1726564670,1726045386,1725357856,1723791898,1723186969,1722505415,1720259585,1719559979,1718625089,1717919620,1717317550,1716623938,1714547423,1713599778,1712917110,1712127761,1711351929,1710497076,1709635937,1709111604,1708075199,1707470446,1706774616,1706173583,1704838715,1700917756,1699210594];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -146,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/14 | 30-46 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) |
 | ✅ | 2024/12/11 | 30-4 | [Pyke Syndicate](https://ws.tsl.rocks/corp/1761635d6aaf9c2caf7abc37130e2d9aa48e7b4cc753ae4b701fde4b48abd3e1/) |
 | ❌ | 2024/12/08 | 18-42 | [Hand Of NOD\! ](https://ws.tsl.rocks/corp/7d28fa95e1d2f344dc6cca0d3283c64b829b79b2afb7e3df8faaaa22ce5a1bf9/) |
 | ✅ | 2024/12/05 | 27-0 | [AlSounT](https://ws.tsl.rocks/corp/b876a825b43edd1e21a7cc515addeb62a832c1126a5e591e562f6475572788d1/) |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Equinox
-description: W:6 L:0 D:0 Bonus ✅
+description: W:7 L:0 D:0 Bonus ✅
 image: ./favicon.png
-date: 1733548220
+date: 1734179833
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,14 +21,14 @@ deadline though. We all do what we do when we do it...
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1278 🔺  (191)|
-| ELO Competitive | 1285 🔺  (289)|
-| Total Matches | 6 |
-| Wins | 6 |
+| ELO Regular | 1291 🔺  (168)|
+| ELO Competitive | 1299 🔺  (266)|
+| Total Matches | 7 |
+| Wins | 7 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 6 |
-| Streak Record | 6 |
+| Streak | 7 |
+| Streak Record | 7 |
 | Flagship | 4 |
 
 ---
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733116220,1732512209,1732006778,1731563544,1731130809,1730646117];
+        let timestamps = [1733747833,1733116220,1732512209,1732006778,1731563544,1731130809,1730646117];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/14 | 12-1 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) |
 | ✅ | 2024/12/07 | 18-2 | [自由free](https://ws.tsl.rocks/corp/f3c8f1a4ff4df82dcb8cacc2471573cc3b267e63353ad34bec874e00d5288fd0/) |
 | ✅ | 2024/11/30 | 18-3 | [闲散人员](https://ws.tsl.rocks/corp/4f0fa774b66e4f744a305525f92e7252205ae754df0f3982b577b32caf32cdbc/) |
 | ✅ | 2024/11/24 | 15-0 | [欢迎国人](https://ws.tsl.rocks/corp/f32abd112fe2b826948a3538a51097b9114815930ec77ad11ada1b24ce34578d/) |
