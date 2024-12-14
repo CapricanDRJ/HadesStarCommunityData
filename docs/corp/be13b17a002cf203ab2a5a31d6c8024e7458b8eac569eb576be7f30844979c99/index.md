@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Planet Express
-description: W:10 L:4 D:1 Bonus ❌
+description: W:11 L:4 D:1 Bonus ✅
 image: ./favicon.png
-date: 1732448393
+date: 1734181335
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,17 +18,17 @@ laxyNova (Aïres) und Hexwood (Krakawski). Neulinge wie Profis sind he
 rzlich willkommen! Wir fliegen täglich RR und regelmäßig WZ.
 ```
 ### [Discord](https://discord.gg/rX4AFRfyPX)
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1295 🔺  (163)|
-| ELO Competitive | 1318 🔺  (233)|
-| Total Matches | 15 |
-| Wins | 10 |
+| ELO Regular | 1300 🔺  (155)|
+| ELO Competitive | 1333 🔺  (208)|
+| Total Matches | 16 |
+| Wins | 11 |
 | Losses | 4 |
 | Draws | 1 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 6 |
 | Flagship | 6 |
 
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732016393,1729609397,1728131987,1724794724,1722301977,1719767932,1717622319,1716687350,1714506261,1714072389,1713639744,1712416222,1709576749,1705273257,1701644483];
+        let timestamps = [1733749335,1732016393,1729609397,1728131987,1724794724,1722301977,1719767932,1717622319,1716687350,1714506261,1714072389,1713639744,1712416222,1709576749,1705273257,1701644483];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/14 | 23-6 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |
 | ✅ | 2024/11/24 | 15-8 | [Lights Off ](https://ws.tsl.rocks/corp/8a8b7e5b7a00ef709249daa4546d03bd85258cde01d35e1829a64ed95c3d6cca/) |
 | ✅ | 2024/10/27 | 41-2 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ✅ | 2024/10/10 | 19-10 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |

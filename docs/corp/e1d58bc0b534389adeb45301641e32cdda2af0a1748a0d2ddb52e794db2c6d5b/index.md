@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​EarthFederation
-description: W:6 L:2 D:1 Bonus ❌
+description: W:7 L:2 D:1 Bonus ✅
 image: ./favicon.png
-date: 1732990788
+date: 1734187045
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,14 +16,14 @@ date: 1732990788
 Looking for members. Come grow with us!
 ```
 ### [Discord](https://discord.gg/https://discord.gg/asMVRfT5)
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1247 🔻  (257)|
-| ELO Competitive | 1243 🔻  (403)|
-| Total Matches | 9 |
-| Wins | 6 |
+| ELO Regular | 1260 🔺  (224)|
+| ELO Competitive | 1257 🔺  (358)|
+| Total Matches | 10 |
+| Wins | 7 |
 | Losses | 2 |
 | Draws | 1 |
 | Streak Record | 4 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732558788,1731727915,1731727915,1731042463,1730168932,1729345554,1728901073,1724439819,1723408155];
+        let timestamps = [1733755045,1732558788,1731727915,1731727915,1731042463,1730168932,1729345554,1728901073,1724439819,1723408155];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/14 | 11-1 | [Blue Dwarf](https://ws.tsl.rocks/corp/1e29874ad4c6883e47d4f389f629d89a65cad3838c77f87d6dc6ddfb5fc41a61/) |
 | ↔️ | 2024/11/30 | 5-5 | [S\.U\.N](https://ws.tsl.rocks/corp/916e7c076587bd3c3d88cd287f6003d619035871ba0f4291f341da901f0ef3f2/) |
 | ✅ | 2024/11/21 | 20-0 | [华夏三体\-基沃托斯集团](https://ws.tsl.rocks/corp/2a0e5e40c4264cc5c8543ba1f6f41772d2059010c0a58381251017412b294ef7/) |
 | ✅ | 2024/11/21 | 2-0 | [华夏三体\-基沃托斯集团](https://ws.tsl.rocks/corp/2a0e5e40c4264cc5c8543ba1f6f41772d2059010c0a58381251017412b294ef7/) |

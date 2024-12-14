@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Rogue One
-description: W:41 L:31 D:1 Bonus ✅
+description: W:41 L:31 D:1 Bonus ❌
 image: ./favicon.png
 date: 1734162106
 ---
@@ -18,7 +18,7 @@ ONE, Join the Imperial Armada and we shall Burn our Enemies in glorio
 us and Righteous Fury! ws every week,
 ```
 ### [Discord](https://discord.gg/PY7xzmc7nm)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Gummibärenbande
-description: W:5 L:26 D:0 Bonus ❌
+description: W:5 L:27 D:0 Bonus ❌
 image: ./favicon.png
-date: 1733565343
+date: 1734181035
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -28,11 +28,11 @@ Mitglied der Tartaros Armada
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1068 🔻  (1301)|
-| ELO Competitive | 1125 🔻  (1282)|
-| Total Matches | 31 |
+| ELO Regular | 1067 🔻  (1302)|
+| ELO Competitive | 1124 🔻  (1282)|
+| Total Matches | 32 |
 | Wins | 5 |
-| Losses | 26 |
+| Losses | 27 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 12 |
@@ -53,7 +53,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733133343,1732447899,1731839102,1730717329,1730055645,1729412869,1728229959,1727078412,1726408100,1725794776,1724423888,1722802027,1721661863,1720982090,1719768233,1718541551,1717842381,1715594612,1714903573,1714311849,1713699529,1712477217,1711921941,1711290934,1710088453,1708860093,1707728719,1707092861,1706477713,1703915825,1700210567];
+        let timestamps = [1733749035,1733133343,1732447899,1731839102,1730717329,1730055645,1729412869,1728229959,1727078412,1726408100,1725794776,1724423888,1722802027,1721661863,1720982090,1719768233,1718541551,1717842381,1715594612,1714903573,1714311849,1713699529,1712477217,1711921941,1711290934,1710088453,1708860093,1707728719,1707092861,1706477713,1703915825,1700210567];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -149,6 +149,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/14 | 5-36 | [Auscorp ](https://ws.tsl.rocks/corp/a33256c155b161f595303ef4302912cc63ddfe306cad3f53457cf55508dcad75/) |
 | ❌ | 2024/12/07 | 22-76 | [Hinterm Mond](https://ws.tsl.rocks/corp/3a4286c6f512d1e0b6d9866b1a1bb0f29abc36fd4a82b7b2cb39df192fce125d/) |
 | ❌ | 2024/11/29 | 11-40 | [DTC](https://ws.tsl.rocks/corp/4be10b4fa74e6bc45ea50d720527bec8db0312f419a419f203b09350d663c755/) |
 | ✅ | 2024/11/22 | 45-22 | [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) |

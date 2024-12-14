@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Space Penguins
-description: W:49 L:17 D:0 Bonus ❌
+description: W:50 L:17 D:0 Bonus ✅
 image: ./favicon.png
-date: 1733576161
+date: 1734181035
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,14 +23,14 @@ Recruiting rs9-rs11
 Discord: asheRjW
 ```
 ### [Discord](https://discord.gg/asheRjW)
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1391 🔻  (59)|
-| ELO Competitive | 1493 🔻  (57)|
-| Total Matches | 66 |
-| Wins | 49 |
+| ELO Regular | 1401 🔺  (52)|
+| ELO Competitive | 1508 🔺  (46)|
+| Total Matches | 67 |
+| Wins | 50 |
 | Losses | 17 |
 | Draws | 0 |
 | Streak Record | 12 |
@@ -52,7 +52,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733144161,1732520621,1731949992,1731364630,1730710719,1730043321,1729509030,1728897768,1728297569,1727734702,1727093135,1726492850,1725891540,1725265309,1724676623,1724059376,1723488391,1722849200,1722239171,1721644730,1721034680,1720427277,1719819914,1719217104,1718607662,1718018797,1717426055,1716796436,1716194009,1715596114,1715073024,1714504158,1714060969,1713773738,1713172222,1712570372,1711954687,1711449879,1711351328,1710755794,1710115226,1710059904,1709554210,1708940322,1708336633,1708329422,1707728719,1707119000,1707115996,1706525187,1706520679,1705944423,1705910036,1705304202,1704705879,1704116870,1703501407,1702908869,1702888134,1702281035,1701726830,1701077956,1700467539,1699863976,1699361733,1698803103];
+        let timestamps = [1733749035,1733144161,1732520621,1731949992,1731364630,1730710719,1730043321,1729509030,1728897768,1728297569,1727734702,1727093135,1726492850,1725891540,1725265309,1724676623,1724059376,1723488391,1722849200,1722239171,1721644730,1721034680,1720427277,1719819914,1719217104,1718607662,1718018797,1717426055,1716796436,1716194009,1715596114,1715073024,1714504158,1714060969,1713773738,1713172222,1712570372,1711954687,1711449879,1711351328,1710755794,1710115226,1710059904,1709554210,1708940322,1708336633,1708329422,1707728719,1707119000,1707115996,1706525187,1706520679,1705944423,1705910036,1705304202,1704705879,1704116870,1703501407,1702908869,1702888134,1702281035,1701726830,1701077956,1700467539,1699863976,1699361733,1698803103];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 3 | 0 | 0 | 3 |
 | [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) | 1 | 1 | 0 | 2 |
 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) | 5 | 1 | 0 | 6 |
 | [Terranova](https://ws.tsl.rocks/corp/4eeaf112dd9983e997c8c9ec43e562763a8cd4a95f268b4bfeee5e39934f01de/) | 3 | 0 | 0 | 3 |
@@ -151,13 +152,13 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [Providence](https://ws.tsl.rocks/corp/f12fc39ca2326de7c5ce96c005b1953c86430443f1f8b98e7515d082b43b4d4b/) | 1 | 1 | 0 | 2 |
 | [Farland Ind\.](https://ws.tsl.rocks/corp/9e0cb5f9ee7451cf8b55ed7f18717a42c7b58995a2717b83f6f98b7872b38e3f/) | 2 | 0 | 0 | 2 |
 | [ITA](https://ws.tsl.rocks/corp/4b7ed90565c5e7d463f7a7dcecab17ae3f6c93cd6b75b77bece4bfad9cfe9626/) | 2 | 0 | 0 | 2 |
-| [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 2 | 0 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/14 | 31-19 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) |
 | ❌ | 2024/12/07 | 6-26 | [111](https://ws.tsl.rocks/corp/8d75e4e46c8d7085ee9d2a2cea20a90129b724ea01c8a20b2f43f83bf3de2350/) |
 | ✅ | 2024/11/30 | 30-8 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) |
 | ✅ | 2024/11/23 | 42-14 | [русь ](https://ws.tsl.rocks/corp/74b60d3e331a6a56ea4d17f4444f02a50808c013285ee0e0ccd54e4594e5e11b/) |
