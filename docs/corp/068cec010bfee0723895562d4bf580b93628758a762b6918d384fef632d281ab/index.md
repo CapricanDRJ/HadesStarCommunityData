@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​СОЮЗ
-description: W:7 L:4 D:0 Bonus ❌
+description: W:8 L:4 D:0 Bonus ✅
 image: ./favicon.png
-date: 1722044879
+date: 1734160904
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,18 +16,18 @@ date: 1722044879
 На базе Корпорации СОЮЗ проходит сборный ивент КЗ. Есть желание присо
 единиться - @RSeventHS ( Телега )
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1259 🔺  (223)|
-| ELO Competitive | 1276 🔺  (310)|
-| Total Matches | 11 |
-| Wins | 7 |
+| ELO Regular | 1273 🔺  (197)|
+| ELO Competitive | 1290 🔺  (278)|
+| Total Matches | 12 |
+| Wins | 8 |
 | Losses | 4 |
 | Draws | 0 |
-| Streak | 3 |
-| Streak Record | 3 |
+| Streak | 4 |
+| Streak Record | 4 |
 | Flagship | 9 |
 
 ---
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1721612879,1719798883,1717991150,1716757680,1713160206,1712554911,1710646288,1710129238,1700438694,1699847539,1699255360];
+        let timestamps = [1733728904,1721612879,1719798883,1717991150,1716757680,1713160206,1712554911,1710646288,1710129238,1700438694,1699847539,1699255360];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/14 | 25-2 | [Эдем](https://ws.tsl.rocks/corp/a61dc2c639a91f5b725d43d306ba2eebe1770c92499d7d92086b7a097f939c0d/) |
 | ✅ | 2024/07/27 | 31-19 | [GDZ](https://ws.tsl.rocks/corp/a04890160268d05cf11f997b0a1c724fbbcfa66b2ea4cb1c4b56ca18d0425d62/) |
 | ✅ | 2024/07/06 | 46-10 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) |
 | ✅ | 2024/06/15 | 41-6 | [Anla'Shok](https://ws.tsl.rocks/corp/ee2d5a60dee46a98f5178e2807099ebca3c64db7a1fd052df34812d6d88e52a1/) |
