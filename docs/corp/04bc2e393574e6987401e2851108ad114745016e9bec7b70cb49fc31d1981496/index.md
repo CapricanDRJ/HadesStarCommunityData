@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Октябристы
-description: W:58 L:65 D:2 Bonus ✅
+description: W:58 L:65 D:2 Bonus ❌
 image: ./favicon.png
 date: 1733498040
 ---
@@ -17,7 +17,7 @@ date: 1733498040
  мы в телеге https://t.me/+VA_QNsSwibFjY2Vi
 ```
 ### [Discord](https://discord.gg/XMAWRfxQcD)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

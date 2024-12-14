@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Sith Empire
-description: W:29 L:41 D:1 Bonus ✅
+description: W:29 L:41 D:1 Bonus ❌
 image: ./favicon.png
 date: 1733499543
 ---
@@ -22,7 +22,7 @@ Join us on Discord
 Public Queue 14%-48%
 ```
 ### [Discord](https://discord.gg/R6sJCw2)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

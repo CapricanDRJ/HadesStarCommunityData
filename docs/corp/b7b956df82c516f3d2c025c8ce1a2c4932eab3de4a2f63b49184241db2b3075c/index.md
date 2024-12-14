@@ -22,7 +22,7 @@ Note- Discord link is updated. Will expire in 7 DAYS
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1144 🔻  (1130)|
+| ELO Regular | 1144 🔻  (1132)|
 | ELO Competitive | 1225 🔻  (470)|
 | Total Matches | 30 |
 | Wins | 15 |

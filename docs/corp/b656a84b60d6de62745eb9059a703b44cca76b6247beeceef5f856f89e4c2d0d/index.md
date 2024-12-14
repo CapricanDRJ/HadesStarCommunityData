@@ -22,8 +22,8 @@ Discord - https://discord.gg/ZUeGK83 (optional, not required)
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1073 🔻  (1294)|
-| ELO Competitive | 1078 🔻  (1325)|
+| ELO Regular | 1073 🔻  (1296)|
+| ELO Competitive | 1078 🔻  (1327)|
 | Total Matches | 15 |
 | Wins | 1 |
 | Losses | 13 |
