@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​imperio galacti
-description: W:6 L:7 D:0 Bonus ❌
+description: W:7 L:7 D:0 Bonus ✅
 image: ./favicon.png
-date: 1733723995
+date: 1734208685
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ date: 1733723995
 diarias y te apoyaremos en cualquier cosa Lista de aliados:Imperio es
 telar, Alfa Omega GuistonRA
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1196 🔻  (533)|
-| ELO Competitive | 1213 🔻  (560)|
-| Total Matches | 13 |
-| Wins | 6 |
+| ELO Regular | 1213 🔺  (427)|
+| ELO Competitive | 1229 🔺  (456)|
+| Total Matches | 14 |
+| Wins | 7 |
 | Losses | 7 |
 | Draws | 0 |
 | Streak Record | 2 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733291995,1732649233,1732073188,1731633860,1731182810,1730748289,1730298139,1729857552,1729387027,1728873730,1728422888,1727986231,1727553798];
+        let timestamps = [1733776685,1733291995,1732649233,1732073188,1731633860,1731182810,1730748289,1730298139,1729857552,1729387027,1728873730,1728422888,1727986231,1727553798];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/14 | 12-2 | [Fairy tail ](https://ws.tsl.rocks/corp/44e6a82c06b84bc5579df0e42bc462f36313b0060861d25228856930f6c19eac/) |
 | ❌ | 2024/12/09 | 1-3 | [Dark Halo](https://ws.tsl.rocks/corp/f6ed7c780faf133d3fe411b9ed88480608a56064328539891d1b4348242954f6/) |
 | ✅ | 2024/12/01 | 15-0 | [自由free](https://ws.tsl.rocks/corp/f3c8f1a4ff4df82dcb8cacc2471573cc3b267e63353ad34bec874e00d5288fd0/) |
 | ✅ | 2024/11/25 | 13-0 | [StargateCommand](https://ws.tsl.rocks/corp/b378193d0b158ce0513a666f0c19da1599421d036e3fd12c0f287d02cac78ccb/) |

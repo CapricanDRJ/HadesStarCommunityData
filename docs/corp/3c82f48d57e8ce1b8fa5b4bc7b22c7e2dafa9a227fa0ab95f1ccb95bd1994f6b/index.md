@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​中团一建
-description: W:1 L:0 D:0 Bonus ✅
+description: W:1 L:0 D:0 Bonus ❌
 image: ./favicon.png
 date: 1733576461
 ---
@@ -15,12 +15,12 @@ date: 1733576461
 ```
 
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺  (389)|
-| ELO Competitive | 1217 🔺  (511)|
+| ELO Regular | 1216 🔺  (388)|
+| ELO Competitive | 1217 🔺  (512)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |

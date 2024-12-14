@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Revólver
-description: W:12 L:21 D:1 Bonus ✅
+description: W:12 L:21 D:1 Bonus ❌
 image: ./favicon.png
 date: 1734186444
 ---
@@ -16,7 +16,7 @@ date: 1734186444
 <size=50><b><color=white>Navegar es necesario. <size=50><b><color=red
 >Vivir no lo es
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Fairy tail 
-description: W:7 L:4 D:0 Bonus ❌
+description: W:7 L:5 D:0 Bonus ❌
 image: ./favicon.png
-date: 1733114281
+date: 1734208685
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ Todoas las personas que puedan hablar español esta permitido aqui nos
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1225 🔻  (338)|
-| ELO Competitive | 1235 🔻  (431)|
-| Total Matches | 11 |
+| ELO Regular | 1209 🔻  (451)|
+| ELO Competitive | 1219 🔻  (499)|
+| Total Matches | 12 |
 | Wins | 7 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
 | Streak Record | 6 |
 | Flagship | 3 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732682281,1731890796,1730609755,1729236463,1727318502,1726238898,1725622004,1724769478,1723929849,1723389219,1722895788];
+        let timestamps = [1733776685,1732682281,1731890796,1730609755,1729236463,1727318502,1726238898,1725622004,1724769478,1723929849,1723389219,1722895788];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/14 | 2-12 | [imperio galacti](https://ws.tsl.rocks/corp/53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2/) |
 | ❌ | 2024/12/02 | 1-3 | [Blazing Stars](https://ws.tsl.rocks/corp/f1c390fb4786da2cb59b7b39519a0ecf6022d4ba017d407af5286aa056682aff/) |
 | ✅ | 2024/11/23 | 8-0 | [Dark Halo](https://ws.tsl.rocks/corp/f6ed7c780faf133d3fe411b9ed88480608a56064328539891d1b4348242954f6/) |
 | ❌ | 2024/11/08 | 1-15 | [Zeta Division ](https://ws.tsl.rocks/corp/29335e52f4b0c4ae92db98c395d2f4969201d0ddc31bb7f112bd6d3eeb97182c/) |

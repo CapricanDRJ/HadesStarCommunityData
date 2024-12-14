@@ -24,8 +24,8 @@ rejoignez nous sur discord: https://discord.gg/SBBXmQ9
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1215 🔺  (397)|
-| ELO Competitive | 1215 🔺  (531)|
+| ELO Regular | 1215 🔺  (396)|
+| ELO Competitive | 1215 🔺  (532)|
 | Total Matches | 1 |
 | Wins | 1 |
 | Losses | 0 |

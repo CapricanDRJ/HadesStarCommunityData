@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​星际公约组织
-description: W:3 L:9 D:1 Bonus ✅
+description: W:3 L:9 D:1 Bonus ❌
 image: ./favicon.png
 date: 1734046720
 ---
@@ -24,7 +24,7 @@ date: 1734046720
 欢迎你的加入！
 Q群：993612413
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
