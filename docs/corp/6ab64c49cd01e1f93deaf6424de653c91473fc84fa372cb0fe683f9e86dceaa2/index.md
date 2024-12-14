@@ -21,7 +21,7 @@ WEEKLY WS & JOIN DISCORD
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1238 🔺  (292)|
-| ELO Competitive | 1243 🔺  (403)|
+| ELO Competitive | 1243 🔺  (402)|
 | Total Matches | 3 |
 | Wins | 3 |
 | Losses | 0 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​DarkSide
-description: W:45 L:57 D:1 Bonus ✅
+description: W:45 L:57 D:1 Bonus ❌
 image: ./favicon.png
 date: 1734133387
 ---
@@ -18,7 +18,7 @@ Ignoring the White Stars is a kick from the corporation.
 https://t.me/DS_DarkSide
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/https://discord.com/invite/UMSR6Uyej5)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

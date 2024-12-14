@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​New Star
-description: W:3 L:6 D:0 Bonus ✅
+description: W:3 L:6 D:0 Bonus ❌
 image: ./favicon.png
 date: 1733524789
 ---
@@ -20,7 +20,7 @@ We are friendly international corp. English and/or German prefered, b
 ut other languages tolerated. 
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/38aedttX)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

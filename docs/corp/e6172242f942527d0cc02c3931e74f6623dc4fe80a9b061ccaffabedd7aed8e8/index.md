@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​F.E.I.
-description: W:0 L:1 D:2 Bonus ❌
+description: W:0 L:2 D:2 Bonus ❌
 image: ./favicon.png
-date: 1708050438
+date: 1734157161
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ Inatividade é punível com expulsão.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔻  (831)|
-| ELO Competitive | 1183 🔻  (973)|
-| Total Matches | 3 |
+| ELO Regular | 1165 🔻  (996)|
+| ELO Competitive | 1170 🔻  (1100)|
+| Total Matches | 4 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 2 |
 | Flagship | 1 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1707618438,1706800460,1706358433];
+        let timestamps = [1733725161,1707618438,1706800460,1706358433];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/14 | 0-2 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 | ❌ | 2024/02/16 | 0-3 | [🌪TORNADO ](https://ws.tsl.rocks/corp/df15d02d32c67d60995e68d6c4197c23b340a0a985f04280563d8d07bd4536fa/) |
 | ↔️ | 2024/02/06 | 0-0 | [HAL](https://ws.tsl.rocks/corp/249861ea16b488e34ea28566402ed775f6f27004aa9e6843b668f23cec4140c7/) |
 | ↔️ | 2024/02/01 | 0-0 | [Noble](https://ws.tsl.rocks/corp/a743363bbba6a586851cfc2a6c1a567bb1b122f6516757c4f75ed5184a177caf/) |
