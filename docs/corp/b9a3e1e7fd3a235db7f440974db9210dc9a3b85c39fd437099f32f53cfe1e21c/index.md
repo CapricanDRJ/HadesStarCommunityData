@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​星舰月球
-description: W:34 L:21 D:0 Bonus ✅
+description: W:34 L:21 D:0 Bonus ❌
 image: ./favicon.png
 date: 1733508559
 ---
@@ -19,7 +19,7 @@ date: 1733508559
 月球白星群  :916418678（常驻在这报道，每周一次白在这报名）
 
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

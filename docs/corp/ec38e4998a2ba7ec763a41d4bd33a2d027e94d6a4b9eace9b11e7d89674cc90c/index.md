@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​StarControl
-description: W:29 L:12 D:0 Bonus ❌
+description: W:30 L:12 D:0 Bonus ✅
 image: ./favicon.png
-date: 1733598403
+date: 1734144683
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ rs. Discord is required, please join us there before applying in game
 . RS8-11
 ```
 ### [Discord](https://discord.gg/j8wnKvB)
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1375 🔻  (74)|
-| ELO Competitive | 1486 🔻  (62)|
-| Total Matches | 41 |
-| Wins | 29 |
+| ELO Regular | 1382 🔺  (68)|
+| ELO Competitive | 1499 🔺  (51)|
+| Total Matches | 42 |
+| Wins | 30 |
 | Losses | 12 |
 | Draws | 0 |
 | Streak Record | 7 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733166403,1731934963,1730905740,1730746485,1730037910,1729459157,1728937148,1728243786,1727684506,1727245479,1726517801,1725905968,1724679630,1724078910,1723481778,1722785796,1722269825,1721043697,1720464847,1719260684,1718790671,1718178972,1717617509,1716211736,1715561269,1714939330,1714323273,1713759619,1713142782,1711958593,1710728459,1709515756,1705929869,1705258229,1704679741,1704243694,1702761910,1701693463,1701031980,1700418855,1699824910];
+        let timestamps = [1733712683,1733166403,1731934963,1730905740,1730746485,1730037910,1729459157,1728937148,1728243786,1727684506,1727245479,1726517801,1725905968,1724679630,1724078910,1723481778,1722785796,1722269825,1721043697,1720464847,1719260684,1718790671,1718178972,1717617509,1716211736,1715561269,1714939330,1714323273,1713759619,1713142782,1711958593,1710728459,1709515756,1705929869,1705258229,1704679741,1704243694,1702761910,1701693463,1701031980,1700418855,1699824910];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -148,6 +148,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/14 | 79-20 | [第一序列](https://ws.tsl.rocks/corp/8646e4426755a50819777452fe7fd80b1b1ac9ae9a5b2e807a44c7c4b01efd23/) |
 | ❌ | 2024/12/07 | 28-54 | [Stargate Corp](https://ws.tsl.rocks/corp/b698cd0d86be60954a4b995f79fffe102a71c350e47fbdc2a5827f0ed0ca455d/) |
 | ❌ | 2024/11/23 | 19-35 | [Legion](https://ws.tsl.rocks/corp/313baaeac1c759ca26e0f4bd3140711cffdfa85c287d4c992dcfb809908cf491/) |
 | ✅ | 2024/11/11 | 39-1 | [BlackStar Order](https://ws.tsl.rocks/corp/e75857448fb1e8d620c964ec4abe23f7e07374a4a70fde79f655862152e8f428/) |
