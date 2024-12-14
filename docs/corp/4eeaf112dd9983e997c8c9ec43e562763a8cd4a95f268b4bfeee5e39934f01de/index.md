@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Terranova
-description: W:11 L:44 D:0 Bonus ✅
+description: W:11 L:44 D:0 Bonus ❌
 image: ./favicon.png
 date: 1734156699
 ---
@@ -16,7 +16,7 @@ date: 1734156699
 <b>Terranova</b>, Gründungsmitglied der <b>Tartaros Armada</b>
 ```
 ### [Discord](https://discord.gg/SUVSGGYGz2)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

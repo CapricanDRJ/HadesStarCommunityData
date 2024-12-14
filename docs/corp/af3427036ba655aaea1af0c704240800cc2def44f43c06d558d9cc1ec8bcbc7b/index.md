@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Черный Легион
-description: W:21 L:13 D:0 Bonus ❌
+description: W:22 L:13 D:0 Bonus ✅
 image: ./favicon.png
-date: 1733265464
+date: 1734194259
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ rcenaries available for hire on white stars |Черный Легион- межд
 дная корпорация наемников, доступная для найма на белые звезды
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/72dm5dqT)
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1279 🔻  (188)|
-| ELO Competitive | 1348 🔻  (188)|
-| Total Matches | 34 |
-| Wins | 21 |
+| ELO Regular | 1293 🔺  (165)|
+| ELO Competitive | 1369 🔺  (168)|
+| Total Matches | 35 |
+| Wins | 22 |
 | Losses | 13 |
 | Draws | 0 |
 | Streak Record | 11 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732833464,1732266392,1731703575,1730578507,1730000944,1728947366,1727907790,1727374998,1726851844,1725135498,1720750657,1720238548,1719535042,1715891158,1714691648,1714682635,1714184756,1713581450,1712954672,1712095617,1712095317,1711663214,1711230535,1710786748,1710112843,1709652164,1709163590,1708722171,1707871467,1706891215,1706392363,1704403266,1703615390,1702717724];
+        let timestamps = [1733762259,1732833464,1732266392,1731703575,1730578507,1730000944,1728947366,1727907790,1727374998,1726851844,1725135498,1720750657,1720238548,1719535042,1715891158,1714691648,1714682635,1714184756,1713581450,1712954672,1712095617,1712095317,1711663214,1711230535,1710786748,1710112843,1709652164,1709163590,1708722171,1707871467,1706891215,1706392363,1704403266,1703615390,1702717724];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,16 +134,17 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) | 4 | 0 | 0 | 4 |
 | [Star Destroyers](https://ws.tsl.rocks/corp/32ba20918cd8720602fefb3bc676a6ba5195314479040f70eadc728fbbc2698d/) | 2 | 0 | 0 | 2 |
 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) | 1 | 2 | 0 | 3 |
 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) | 2 | 0 | 0 | 2 |
-| [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) | 3 | 0 | 0 | 3 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/14 | 28-6 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 | ❌ | 2024/12/03 | 11-13 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) |
 | ✅ | 2024/11/27 | 19-2 | [Star Destroyers](https://ws.tsl.rocks/corp/32ba20918cd8720602fefb3bc676a6ba5195314479040f70eadc728fbbc2698d/) |
 | ❌ | 2024/11/20 | 0-24 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |

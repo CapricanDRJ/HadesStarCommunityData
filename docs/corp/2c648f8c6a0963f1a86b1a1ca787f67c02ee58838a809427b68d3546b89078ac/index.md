@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​华夏联盟
-description: W:6 L:10 D:1 Bonus ✅
+description: W:6 L:10 D:1 Bonus ❌
 image: ./favicon.png
 date: 1734095097
 ---
@@ -18,7 +18,7 @@ date: 1734095097
  100级以上大佬加入送2个r9%200多不许拿完奖励就跑！现在可以捐，捐到三级不捐了
 ```
 ### [Discord](https://discord.gg/54188)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

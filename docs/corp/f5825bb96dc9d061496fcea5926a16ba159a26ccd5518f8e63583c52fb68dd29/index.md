@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Red_Coat_Mafia
-description: W:23 L:30 D:1 Bonus ✅
+description: W:23 L:30 D:1 Bonus ❌
 image: ./favicon.png
 date: 1733711678
 ---
@@ -18,7 +18,7 @@ ccount inGame to be a member. InGame space is prioritized for running
  red or white stars. <color="green"> Discord:MgcvvsKa8q
 ```
 ### [Discord](https://discord.gg/MgcvvsKa8q)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

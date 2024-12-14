@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Dumpster Fire 2
-description: W:42 L:54 D:2 Bonus ✅
+description: W:42 L:54 D:2 Bonus ❌
 image: ./favicon.png
 date: 1733569249
 ---
@@ -20,7 +20,7 @@ date: 1733569249
    \|_______________|™
 <b>Easy going Dumpster Fire with Discord—Free White Star</b>
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
