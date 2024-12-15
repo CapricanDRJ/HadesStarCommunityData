@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​СОЮЗ
-description: W:8 L:4 D:0 Bonus ✅
+description: W:8 L:5 D:0 Bonus ✅
 image: ./favicon.png
-date: 1734160904
+date: 1734227312
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,13 +20,12 @@ date: 1734160904
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1273 🔺  (197)|
+| ELO Regular | 1255 🔻  (235)|
 | ELO Competitive | 1290 🔺  (281)|
-| Total Matches | 12 |
+| Total Matches | 13 |
 | Wins | 8 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 0 |
-| Streak | 4 |
 | Streak Record | 4 |
 | Flagship | 9 |
 
@@ -46,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733728904,1721612879,1719798883,1717991150,1716757680,1713160206,1712554911,1710646288,1710129238,1700438694,1699847539,1699255360];
+        let timestamps = [1733795312,1733728904,1721612879,1719798883,1717991150,1716757680,1713160206,1712554911,1710646288,1710129238,1700438694,1699847539,1699255360];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/15 | 0-19 | [BRhue](https://ws.tsl.rocks/corp/cf382c812409b617906f693517aebeee55e827f37c20a515ff23810e49d6310d/) |
 | ✅ | 2024/12/14 | 25-2 | [Эдем](https://ws.tsl.rocks/corp/a61dc2c639a91f5b725d43d306ba2eebe1770c92499d7d92086b7a097f939c0d/) |
 | ✅ | 2024/07/27 | 31-19 | [GDZ](https://ws.tsl.rocks/corp/a04890160268d05cf11f997b0a1c724fbbcfa66b2ea4cb1c4b56ca18d0425d62/) |
 | ✅ | 2024/07/06 | 46-10 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) |

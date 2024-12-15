@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Order of Hades
-description: W:72 L:27 D:1 Bonus ✅
+description: W:72 L:27 D:1 Bonus ❌
 image: ./favicon.png
 date: 1733599605
 ---
@@ -17,7 +17,7 @@ date: 1733599605
 iscord is mandatory for membership.
 ```
 ### [Discord](https://discord.gg/vPsNNxs)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

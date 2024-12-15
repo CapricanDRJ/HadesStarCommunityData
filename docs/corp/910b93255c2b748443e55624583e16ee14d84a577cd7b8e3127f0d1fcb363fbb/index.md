@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​viCIOus
-description: W:14 L:2 D:1 Bonus ✅
+description: W:15 L:2 D:1 Bonus ✅
 image: ./favicon.png
-date: 1733780489
+date: 1734226111
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,13 @@ New!!! Join to expand!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1313 🔺  (134)|
-| ELO Competitive | 1349 🔺  (188)|
-| Total Matches | 17 |
-| Wins | 14 |
+| ELO Regular | 1324 🔺  (118)|
+| ELO Competitive | 1359 🔺  (180)|
+| Total Matches | 18 |
+| Wins | 15 |
 | Losses | 2 |
 | Draws | 1 |
-| Streak | 4 |
+| Streak | 5 |
 | Streak Record | 6 |
 | Flagship | 2 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733348489,1732888142,1732338299,1731856535,1731278090,1730450484,1729985622,1729587172,1729543598,1729108447,1728772928,1728661206,1728222142,1727772858,1727255994,1726803718,1726362718];
+        let timestamps = [1733794111,1733348489,1732888142,1732338299,1731856535,1731278090,1730450484,1729985622,1729587172,1729543598,1729108447,1728772928,1728661206,1728222142,1727772858,1727255994,1726803718,1726362718];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/15 | 11-3 | [Planet Express](https://ws.tsl.rocks/corp/6076486f3dce07118a180607ff9893eb5686dc57f65f7ed66d5e473007bd838c/) |
 | ✅ | 2024/12/09 | 15-0 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) |
 | ✅ | 2024/12/04 | 11-2 | [分子集团](https://ws.tsl.rocks/corp/5b9f14a83989065d411d1e21d908ce3fc4939d48e815ffc39b1b18b6752c827b/) |
 | ✅ | 2024/11/28 | 11-0 | [₩\.BRASIL\.₩](https://ws.tsl.rocks/corp/ff7f01b2f1db7b9c75e49da4c7367325905c020eba282a97f69f33d8c19419aa/) |

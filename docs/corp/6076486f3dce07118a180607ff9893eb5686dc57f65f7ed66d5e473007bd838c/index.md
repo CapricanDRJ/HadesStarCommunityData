@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Planet Express
-description: W:3 L:1 D:0 Bonus ✅
+description: W:3 L:2 D:0 Bonus ✅
 image: ./favicon.png
-date: 1733703867
+date: 1734226111
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ We’ll get there… most of the time
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1217 🔺  (372)|
-| ELO Competitive | 1221 🔺  (487)|
-| Total Matches | 4 |
+| ELO Regular | 1206 🔻  (463)|
+| ELO Competitive | 1211 🔻  (573)|
+| Total Matches | 5 |
 | Wins | 3 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 3 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733271867,1731474902,1730947810,1730411731];
+        let timestamps = [1733794111,1733271867,1731474902,1730947810,1730411731];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/15 | 3-11 | [viCIOus](https://ws.tsl.rocks/corp/910b93255c2b748443e55624583e16ee14d84a577cd7b8e3127f0d1fcb363fbb/) |
 | ✅ | 2024/12/09 | 6-0 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 | ❌ | 2024/11/18 | 4-5 | [S\.U\.N](https://ws.tsl.rocks/corp/916e7c076587bd3c3d88cd287f6003d619035871ba0f4291f341da901f0ef3f2/) |
 | ✅ | 2024/11/12 | 7-0 | [WHITE NOVA](https://ws.tsl.rocks/corp/0a44ab86ca49a02fb932607f1095f0b5411c556bb9bb95aa1f20908be0b45d51/) |

@@ -26,8 +26,8 @@ UmWZYtn9Hh
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 🔻  (490)|
-| ELO Competitive | 1201 🔻  (619)|
+| ELO Regular | 1201 🔻  (491)|
+| ELO Competitive | 1201 🔻  (618)|
 | Total Matches | 4 |
 | Wins | 2 |
 | Losses | 2 |
