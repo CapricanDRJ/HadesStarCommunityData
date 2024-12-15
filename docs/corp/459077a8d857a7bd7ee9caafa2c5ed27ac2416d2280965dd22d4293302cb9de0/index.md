@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​一根飞机
-description: W:7 L:7 D:1 Bonus ✅
+description: W:7 L:7 D:1 Bonus ❌
 image: ./favicon.png
 date: 1734065648
 ---
@@ -17,7 +17,7 @@ date: 1734065648
 最重要的。本团规则：1. 不可以乱骂人！2. 不能乱踢刚进团的人(除黑名单外)如有发现极时发出，轻则降为成员3天即以上，重则踢出并拉入黑名
 单。创建于2024.10.14    首席:一根飞机   黑名单：
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
