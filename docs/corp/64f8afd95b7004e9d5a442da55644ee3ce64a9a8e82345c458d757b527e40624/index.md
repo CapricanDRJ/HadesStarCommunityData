@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​佛矿寺
-description: W:12 L:53 D:1 Bonus ✅
+description: W:12 L:53 D:1 Bonus ❌
 image: ./favicon.png
 date: 1734070755
 ---
@@ -21,7 +21,7 @@ peaceful ws recommended. send diplo to 梦心话 to negotiate
 国人交流大群：597444221
 神器交易群：915130142
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​R-6 satalite
-description: W:39 L:16 D:1 Bonus ✅
+description: W:39 L:16 D:1 Bonus ❌
 image: ./favicon.png
 date: 1734188548
 ---
@@ -18,7 +18,7 @@ eople with respect and open minded communication. come in and find ou
 t. :-)
 ```
 ### [Discord](https://discord.gg/srVXzBFEMH)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

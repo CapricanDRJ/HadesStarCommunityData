@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​星际联盟（中国）
-description: W:11 L:13 D:2 Bonus ✅
+description: W:11 L:14 D:2 Bonus ✅
 image: ./favicon.png
-date: 1733748931
+date: 1734223510
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -29,13 +29,12 @@ https://discord.gg/fAejNbTH
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1233 🔺  (308)|
-| ELO Competitive | 1267 🔺  (335)|
-| Total Matches | 26 |
+| ELO Regular | 1218 🔻  (368)|
+| ELO Competitive | 1251 🔻  (379)|
+| Total Matches | 27 |
 | Wins | 11 |
-| Losses | 13 |
+| Losses | 14 |
 | Draws | 2 |
-| Streak | 3 |
 | Streak Record | 3 |
 | Flagship | 4 |
 
@@ -55,7 +54,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733316931,1732881830,1732415239,1724573845,1723899787,1723443309,1722957108,1722322710,1721867714,1721390495,1721359040,1718288959,1716476421,1714499951,1713449564,1712842595,1712103128,1711635266,1711041251,1710416554,1709820122,1709211358,1707398630,1706882134,1706332255,1703856022];
+        let timestamps = [1733791510,1733316931,1732881830,1732415239,1724573845,1723899787,1723443309,1722957108,1722322710,1721867714,1721390495,1721359040,1718288959,1716476421,1714499951,1713449564,1712842595,1712103128,1711635266,1711041251,1710416554,1709820122,1709211358,1707398630,1706882134,1706332255,1703856022];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -149,6 +148,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/15 | 3-23 | [Nebula alliance](https://ws.tsl.rocks/corp/b60eb81ac1cb1dfb18ded4818ad07820957f77770dace6149956fffa60a17e84/) |
 | ✅ | 2024/12/09 | 13-0 | [Anarchy Nation ](https://ws.tsl.rocks/corp/9c456dbf32e22070620021bf0bea4d2ab9deb0ac7ad4be06a4067a9ced5f2f5b/) |
 | ✅ | 2024/12/04 | 10-0 | [Sprite](https://ws.tsl.rocks/corp/3bf5d300b42f0610355645e2ee9cf24e5517a2c5e12472f685781051619266ac/) |
 | ✅ | 2024/11/29 | 17-2 | [ДИᏰEPℂДℍTᏰℓ](https://ws.tsl.rocks/corp/a1dad8a2a2c5ab935169d168bc19f8a1db7f12b099358e079cb7221a340345ed/) |

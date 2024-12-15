@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Omega Alpha
-description: W:41 L:5 D:0 Bonus ✅
+description: W:41 L:5 D:0 Bonus ❌
 image: ./favicon.png
 date: 1733589688
 ---
@@ -21,7 +21,7 @@ date: 1733589688
 
 ```
 ### [Discord](https://discord.gg/qx6HrYM223)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

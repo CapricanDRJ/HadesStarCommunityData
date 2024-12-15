@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Лунный Феникс
-description: W:45 L:24 D:2 Bonus ✅
+description: W:45 L:24 D:2 Bonus ❌
 image: ./favicon.png
 date: 1733589687
 ---
@@ -16,11 +16,11 @@ date: 1733589687
 вкладывать в флагман 2
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/4QSGgfYy)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1380 🔺  (70)|
+| ELO Regular | 1380 🔺  (69)|
 | ELO Competitive | 1473 🔺  (77)|
 | Total Matches | 71 |
 | Wins | 45 |
