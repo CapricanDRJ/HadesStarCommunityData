@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Justice Vengers
-description: W:28 L:5 D:1 Bonus ✅
+description: W:29 L:5 D:1 Bonus ✅
 image: ./favicon.png
-date: 1733746526
+date: 1734282296
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,12 +22,13 @@ date: 1733746526
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1405 🔺  (49)|
-| ELO Competitive | 1463 🔺  (83)|
-| Total Matches | 34 |
-| Wins | 28 |
+| ELO Regular | 1411 🔺  (42)|
+| ELO Competitive | 1478 🔺  (72)|
+| Total Matches | 35 |
+| Wins | 29 |
 | Losses | 5 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 9 |
 | Flagship | 6 |
 
@@ -47,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733314526,1732563596,1732130884,1731660899,1731197838,1730747387,1730309560,1729851586,1728377799,1727937534,1727937534,1727492491,1727044767,1726610746,1726139435,1725686291,1725173957,1724085523,1722561010,1722024578,1721563289,1721115532,1720666501,1720213310,1719779354,1719345124,1718894948,1717683922,1716419344,1715789304,1714991902,1714411309,1714404998,1700126416];
+        let timestamps = [1733850296,1733314526,1732563596,1732130884,1731660899,1731197838,1730747387,1730309560,1729851586,1728377799,1727937534,1727937534,1727492491,1727044767,1726610746,1726139435,1725686291,1725173957,1724085523,1722561010,1722024578,1721563289,1721115532,1720666501,1720213310,1719779354,1719345124,1718894948,1717683922,1716419344,1715789304,1714991902,1714411309,1714404998,1700126416];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -146,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/15 | 41-0 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
 | ✅ | 2024/12/09 | 32-0 | [Retarts](https://ws.tsl.rocks/corp/1556331f722d00268e3c524b12efedac51051cf48e46b2513675774b9315a155/) |
 | ❌ | 2024/11/30 | 4-26 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |
 | ✅ | 2024/11/25 | 33-4 | [Slovensko\-Activ](https://ws.tsl.rocks/corp/1b9254941b8239a2cb7067c51e8806c4922f1d033fa8d4506c0b705f51322939/) |

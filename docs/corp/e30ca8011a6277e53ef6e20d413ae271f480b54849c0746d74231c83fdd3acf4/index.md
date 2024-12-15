@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​ALPHA
-description: W:18 L:7 D:0 Bonus ✅
+description: W:19 L:7 D:0 Bonus ✅
 image: ./favicon.png
-date: 1733812633
+date: 1734279891
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,13 +20,13 @@ Crecer principal objetivo        Leko:Join us we need active member
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1338 🔺  (107)|
-| ELO Competitive | 1374 🔺  (160)|
-| Total Matches | 25 |
-| Wins | 18 |
+| ELO Regular | 1348 🔺  (93)|
+| ELO Competitive | 1383 🔺  (150)|
+| Total Matches | 26 |
+| Wins | 19 |
 | Losses | 7 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 8 |
 | Flagship | 4 |
 
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733380633,1732934422,1732483067,1732028414,1731563544,1731119691,1730668660,1730226928,1729731699,1729295670,1728837963,1728389218,1727924013,1727489487,1727056182,1726581499,1726146649,1726135830,1725684789,1725231962,1724551308,1724093939,1723595973,1723125969,1716139331];
+        let timestamps = [1733847891,1733380633,1732934422,1732483067,1732028414,1731563544,1731119691,1730668660,1730226928,1729731699,1729295670,1728837963,1728389218,1727924013,1727489487,1727056182,1726581499,1726146649,1726135830,1725684789,1725231962,1724551308,1724093939,1723595973,1723125969,1716139331];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/15 | 10-6 | [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) |
 | ✅ | 2024/12/10 | 12-6 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) |
 | ✅ | 2024/12/05 | 12-0 | [星光万丈](https://ws.tsl.rocks/corp/92ad2a305a74e168b57771140461b4d226e1e8cac17b4f77027d5a67ead5fa1d/) |
 | ❌ | 2024/11/29 | 3-6 | [Nox Imperium](https://ws.tsl.rocks/corp/b60fb003fae650d1de18e7bca4fad04f9805501f4568d07ceb47bffdfeb613c1/) |

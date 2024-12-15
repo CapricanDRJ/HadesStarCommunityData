@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​落雨观花
-description: W:17 L:12 D:1 Bonus ❌
+description: W:17 L:13 D:1 Bonus ❌
 image: ./favicon.png
-date: 1732778369
+date: 1734277787
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,13 +21,12 @@ date: 1732778369
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1242 🔺  (273)|
-| ELO Competitive | 1340 🔺  (201)|
-| Total Matches | 30 |
+| ELO Regular | 1223 🔻  (342)|
+| ELO Competitive | 1321 🔻  (228)|
+| Total Matches | 31 |
 | Wins | 17 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 1 |
-| Streak | 2 |
 | Streak Record | 5 |
 | Flagship | 4 |
 
@@ -47,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732346369,1731736929,1731042463,1729845877,1729240092,1727704042,1727697429,1726413813,1726411408,1725866596,1725859385,1724968075,1724928440,1724407362,1724388427,1723973420,1723899787,1723302371,1723301169,1722818121,1722774372,1722340138,1722223846,1721894457,1721786877,1721449095,1721325292,1720851041,1720261689,1719666657];
+        let timestamps = [1733845787,1732346369,1731736929,1731042463,1729845877,1729240092,1727704042,1727697429,1726413813,1726411408,1725866596,1725859385,1724968075,1724928440,1724407362,1724388427,1723973420,1723899787,1723302371,1723301169,1722818121,1722774372,1722340138,1722223846,1721894457,1721786877,1721449095,1721325292,1720851041,1720261689,1719666657];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/15 | 3-10 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 | ✅ | 2024/11/28 | 13-3 | [Kratos](https://ws.tsl.rocks/corp/1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b/) |
 | ✅ | 2024/11/21 | 4-0 | [逐光起航](https://ws.tsl.rocks/corp/e6bb076aa209101b5fa1cbc40a614c241d71ab5eca143c733b81aed6302455e8/) |
 | ❌ | 2024/11/13 | 1-9 | [EarthFederation](https://ws.tsl.rocks/corp/e1d58bc0b534389adeb45301641e32cdda2af0a1748a0d2ddb52e794db2c6d5b/) |

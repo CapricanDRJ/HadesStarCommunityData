@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Empire of Hades
-description: W:1 L:0 D:0 Bonus ✅
+description: W:1 L:1 D:0 Bonus ✅
 image: ./favicon.png
-date: 1733736312
+date: 1734279891
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1733736312
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1215 🔺  (396)|
-| ELO Competitive | 1215 🔺  (530)|
-| Total Matches | 1 |
+| ELO Regular | 1205 🔻  (467)|
+| ELO Competitive | 1206 🔻  (596)|
+| Total Matches | 2 |
 | Wins | 1 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733304312];
+        let timestamps = [1733847891,1733304312];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/15 | 6-10 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) |
 | ✅ | 2024/12/09 | 3-0 | [Корпорация](https://ws.tsl.rocks/corp/1b46f51633e76a78a92c3a74b8ae0afc51df5caea195357b98bb56fa9ee03cfa/) |
 
 ---
