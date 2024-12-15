@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Poggy Rockers
-description: W:32 L:20 D:3 Bonus ❌
+description: W:33 L:20 D:3 Bonus ✅
 image: ./favicon.png
-date: 1733609522
+date: 1734290710
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,14 +16,14 @@ date: 1733609522
 Poggy Rockers in the house tonight
 ```
 ### [Discord](https://discord.gg/XmASs2XvFW)
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1220 🔻  (350)|
-| ELO Competitive | 1346 🔻  (191)|
-| Total Matches | 55 |
-| Wins | 32 |
+| ELO Regular | 1227 🔺  (330)|
+| ELO Competitive | 1351 🔺  (189)|
+| Total Matches | 56 |
+| Wins | 33 |
 | Losses | 20 |
 | Draws | 3 |
 | Streak Record | 15 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733177522,1732518217,1732078596,1731551527,1730922871,1730271696,1727317301,1726871377,1726080550,1725085609,1725080501,1724408258,1723790396,1723789194,1723281332,1723264400,1722687821,1722666184,1722126618,1722106935,1721635716,1721635415,1721129831,1721113128,1720563159,1720560037,1719978586,1719544655,1718508192,1717735014,1717078926,1716573153,1715888754,1714980786,1714106938,1713591065,1712890372,1712275902,1711669223,1710535539,1709951731,1709328251,1708646447,1708059876,1707570207,1706916461,1706902113,1706343673,1705717703,1705109469,1704442927,1703831980,1703193074,1702700294,1702195076];
+        let timestamps = [1733858710,1733177522,1732518217,1732078596,1731551527,1730922871,1730271696,1727317301,1726871377,1726080550,1725085609,1725080501,1724408258,1723790396,1723789194,1723281332,1723264400,1722687821,1722666184,1722126618,1722106935,1721635716,1721635415,1721129831,1721113128,1720563159,1720560037,1719978586,1719544655,1718508192,1717735014,1717078926,1716573153,1715888754,1714980786,1714106938,1713591065,1712890372,1712275902,1711669223,1710535539,1709951731,1709328251,1708646447,1708059876,1707570207,1706916461,1706902113,1706343673,1705717703,1705109469,1704442927,1703831980,1703193074,1702700294,1702195076];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [RedStar Raiding](https://ws.tsl.rocks/corp/83a1c4f1576eec7dce037eb5b64b2455ca3affb9d3072108c5d4d3eba88b4570/) | 2 | 0 | 0 | 2 |
 | [欢迎国人](https://ws.tsl.rocks/corp/f32abd112fe2b826948a3538a51097b9114815930ec77ad11ada1b24ce34578d/) | 1 | 1 | 0 | 2 |
 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) | 0 | 1 | 1 | 2 |
 
@@ -140,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/15 | 14-3 | [RedStar Raiding](https://ws.tsl.rocks/corp/83a1c4f1576eec7dce037eb5b64b2455ca3affb9d3072108c5d4d3eba88b4570/) |
 | ❌ | 2024/12/07 | 1-18 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
 | ❌ | 2024/11/30 | 2-22 | [Т Е Н Ь](https://ws.tsl.rocks/corp/5f4b3004ce7e14488b409e8036d0f0b04b41aa63e245cb8e9f238b53780c5741/) |
 | ✅ | 2024/11/25 | 11-4 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |

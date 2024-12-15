@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​WhiteSTarfighte
-description: W:9 L:8 D:0 Bonus ✅
+description: W:9 L:8 D:0 Bonus ❌
 image: ./favicon.png
 date: 1734179833
 ---
@@ -16,11 +16,11 @@ date: 1734179833
 Lets WiN all white Stars
 ```
 ### [Discord](https://discord.gg/Nope)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1224 🔻  (339)|
+| ELO Regular | 1224 🔻  (340)|
 | ELO Competitive | 1239 🔻  (418)|
 | Total Matches | 17 |
 | Wins | 9 |
