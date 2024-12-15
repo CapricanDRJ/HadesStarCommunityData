@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Zeta Division 
-description: W:8 L:2 D:0 Bonus ✅
+description: W:8 L:2 D:0 Bonus ❌
 image: ./favicon.png
 date: 1733614630
 ---
@@ -18,7 +18,7 @@ o hapy to see experienced players. Main corp ( Industrial W.O) . Also
  join Discord!
 ```
 ### [Discord](https://discord.gg/QJASDtk4j7)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

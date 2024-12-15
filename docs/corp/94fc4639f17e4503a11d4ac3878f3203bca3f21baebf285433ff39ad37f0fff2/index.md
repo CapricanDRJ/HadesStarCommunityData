@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​BRASIL STAR
-description: W:44 L:18 D:3 Bonus ✅
+description: W:44 L:18 D:3 Bonus ❌
 image: ./favicon.png
 date: 1733614931
 ---
@@ -18,7 +18,7 @@ ancas (WS) coordenadas pelo WhatsApp, peça para te adicionarem no gru
 po no chat da corporação :D
 ```
 ### [Discord](https://discord.gg/MV5xAcu9Vz)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
