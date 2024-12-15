@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​<•|•>
-description: W:4 L:8 D:1 Bonus ✅
+description: W:4 L:8 D:1 Bonus ❌
 image: ./favicon.png
 date: 1733633094
 ---
@@ -16,7 +16,7 @@ date: 1733633094
 Casual Clan looking for active players. Join our clan and grow with u
 s.
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
