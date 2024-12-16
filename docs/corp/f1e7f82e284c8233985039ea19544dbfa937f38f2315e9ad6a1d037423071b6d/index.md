@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​RUFORS
-description: W:13 L:8 D:0 Bonus ✅
+description: W:13 L:8 D:0 Bonus ❌
 image: ./favicon.png
 date: 1733735110
 ---
@@ -16,7 +16,7 @@ date: 1733735110
 Язык общения в корпорации - русский. Есть свой чат в тг. частые поход
 ы в бз,помощь с кз и артефактами
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
