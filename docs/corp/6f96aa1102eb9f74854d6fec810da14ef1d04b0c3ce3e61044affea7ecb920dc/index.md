@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​северный шторм
-description: W:2 L:8 D:0 Bonus ❌
+description: W:2 L:8 D:1 Bonus ❌
 image: ./favicon.png
-date: 1733735110
+date: 1734341780
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,12 +20,12 @@ date: 1733735110
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1135 🔻  (1173)|
-| ELO Competitive | 1166 🔻  (1131)|
-| Total Matches | 10 |
+| ELO Regular | 1138 🔺  (1159)|
+| ELO Competitive | 1172 🔺  (1061)|
+| Total Matches | 11 |
 | Wins | 2 |
 | Losses | 8 |
-| Draws | 0 |
+| Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 4 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733303110,1732696703,1732109243,1731394371,1730269292,1729101531,1728066776,1716316294,1716308181,1701709695];
+        let timestamps = [1733909780,1733303110,1732696703,1732109243,1731394371,1730269292,1729101531,1728066776,1716316294,1716308181,1701709695];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/12/16 | 0-0 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ❌ | 2024/12/09 | 7-19 | [RUFORS](https://ws.tsl.rocks/corp/f1e7f82e284c8233985039ea19544dbfa937f38f2315e9ad6a1d037423071b6d/) |
 | ❌ | 2024/12/02 | 2-19 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
 | ❌ | 2024/11/25 | 1-3 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) |

@@ -21,7 +21,7 @@ een Dwarf (GD), or Red Dwarf (RD) after WS or RS.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1408 🔻  (47)|
+| ELO Regular | 1408 🔻  (48)|
 | ELO Competitive | 1489 🔻  (64)|
 | Total Matches | 62 |
 | Wins | 46 |

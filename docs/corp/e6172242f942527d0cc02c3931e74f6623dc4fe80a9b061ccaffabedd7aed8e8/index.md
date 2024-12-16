@@ -22,7 +22,7 @@ Inatividade é punível com expulsão.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1165 🔻  (997)|
-| ELO Competitive | 1170 🔻  (1100)|
+| ELO Competitive | 1170 🔻  (1101)|
 | Total Matches | 4 |
 | Wins | 0 |
 | Losses | 2 |

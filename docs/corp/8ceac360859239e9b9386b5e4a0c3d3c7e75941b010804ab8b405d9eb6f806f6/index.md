@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Fleet Corp Ares
-description: W:12 L:12 D:0 Bonus ✅
+description: W:12 L:13 D:0 Bonus ✅
 image: ./favicon.png
-date: 1733727600
+date: 1734334270
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ We don't care. You should try it.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1241 🔺  (277)|
-| ELO Competitive | 1285 🔺  (295)|
-| Total Matches | 24 |
+| ELO Regular | 1233 🔻  (306)|
+| ELO Competitive | 1277 🔻  (310)|
+| Total Matches | 25 |
 | Wins | 12 |
-| Losses | 12 |
+| Losses | 13 |
 | Draws | 0 |
-| Streak | 2 |
 | Streak Record | 6 |
 | Flagship | 8 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733295600,1732092115,1731487520,1730876293,1730261181,1727897572,1727305885,1724844300,1724276947,1723038824,1721834356,1721187362,1720643061,1718675882,1718057572,1715628268,1713847949,1712032814,1710184904,1708434897,1707144844,1705912741,1704095231,1701662812];
+        let timestamps = [1733902270,1733295600,1732092115,1731487520,1730876293,1730261181,1727897572,1727305885,1724844300,1724276947,1723038824,1721834356,1721187362,1720643061,1718675882,1718057572,1715628268,1713847949,1712032814,1710184904,1708434897,1707144844,1705912741,1704095231,1701662812];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,7 +131,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
-| [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) | 0 | 2 | 0 | 2 |
+| [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) | 0 | 3 | 0 | 3 |
 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) | 2 | 0 | 0 | 2 |
 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) | 0 | 2 | 0 | 2 |
 
@@ -141,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/16 | 9-30 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) |
 | ✅ | 2024/12/09 | 34-0 | [Tormenta](https://ws.tsl.rocks/corp/537807f41149f54b040d4f2bc983c7f1fbfa2242ec5566371330e4996e33a195/) |
 | ✅ | 2024/11/25 | 26-4 | [Stella☆Glow](https://ws.tsl.rocks/corp/86a894b97d55e4f65a3cec65d26d528341d8e70b186bcffa2e89f5f681e48396/) |
 | ❌ | 2024/11/18 | 11-22 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) |

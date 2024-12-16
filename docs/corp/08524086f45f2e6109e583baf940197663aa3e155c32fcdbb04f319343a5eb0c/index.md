@@ -21,7 +21,7 @@ kick-off d'idéation de projet consultative du phallus de Fred
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔺  (290)|
+| ELO Regular | 1238 🔺  (289)|
 | ELO Competitive | 1331 🔺  (211)|
 | Total Matches | 52 |
 | Wins | 29 |
