@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Imperium
-description: W:10 L:0 D:0 Bonus ✅
+description: W:11 L:0 D:0 Bonus ✅
 image: ./favicon.png
-date: 1734349292
+date: 1734361913
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,14 +22,14 @@ type of stars veterans and beginners. International.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1328 🔺  (117)|
+| ELO Regular | 1340 🔺  (107)|
 | ELO Competitive | 1333 🔺  (206)|
-| Total Matches | 10 |
-| Wins | 10 |
+| Total Matches | 11 |
+| Wins | 11 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 10 |
-| Streak Record | 10 |
+| Streak | 11 |
+| Streak Record | 11 |
 | Flagship | 4 |
 
 ---
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733917292,1733400161,1733399259,1732554880,1731922922,1731415404,1730890713,1728204711,1727562813,1724439819];
+        let timestamps = [1733929913,1733917292,1733400161,1733399259,1732554880,1731922922,1731415404,1730890713,1728204711,1727562813,1724439819];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/16 | 12-3 | [荣耀之星](https://ws.tsl.rocks/corp/4334fd4d4ffbc89487deaec7bb38025aba46209b810578436882be271fdbff23/) |
 | ✅ | 2024/12/16 | 19-3 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) |
 | ✅ | 2024/12/10 | 8-3 | [FURIA 2\.0](https://ws.tsl.rocks/corp/9c52bc79384398f4052be65dc0f7ee091ac2d3cf14488efd1f4e3310b1f12574/) |
 | ✅ | 2024/12/10 | 21-2 | [星约组织：禁卫之翼](https://ws.tsl.rocks/corp/60fde31c713b4085d9c8d09cdc8bc713db48811b5ea28fb5431962110ad6f7f0/) |

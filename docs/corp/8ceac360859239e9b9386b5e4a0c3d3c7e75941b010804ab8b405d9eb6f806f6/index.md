@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Fleet Corp Ares
-description: W:12 L:13 D:0 Bonus ✅
+description: W:12 L:13 D:0 Bonus ❌
 image: ./favicon.png
 date: 1734334270
 ---
@@ -15,12 +15,12 @@ date: 1734334270
 ```
 We don't care. You should try it.
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1233 🔻  (306)|
-| ELO Competitive | 1277 🔻  (310)|
+| ELO Competitive | 1277 🔻  (311)|
 | Total Matches | 25 |
 | Wins | 12 |
 | Losses | 13 |
