@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​WinterComes
-description: W:3 L:6 D:0 Bonus ✅
+description: W:3 L:6 D:0 Bonus ❌
 image: ./favicon.png
 date: 1733669910
 ---
@@ -23,7 +23,7 @@ Discord mandatory. <b>EEpZuWf
 Winter Comes to Hades</b>
 ```
 ### [Discord](https://discord.gg/EEpZuWf)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

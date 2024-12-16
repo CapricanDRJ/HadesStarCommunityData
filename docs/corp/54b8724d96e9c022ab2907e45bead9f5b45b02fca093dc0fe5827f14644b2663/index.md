@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​IMPERIAL ARMADA
-description: W:26 L:1 D:0 Bonus ❌
+description: W:26 L:2 D:0 Bonus ❌
 image: ./favicon.png
-date: 1731976017
+date: 1734299726
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -31,13 +31,12 @@ English only.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1446 🔺  (26)|
-| ELO Competitive | 1471 🔺  (79)|
-| Total Matches | 27 |
+| ELO Regular | 1430 🔻  (32)|
+| ELO Competitive | 1457 🔻  (89)|
+| Total Matches | 28 |
 | Wins | 26 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
-| Streak | 5 |
 | Streak Record | 21 |
 | Flagship | 4 |
 
@@ -57,7 +56,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731544017,1725468738,1724625240,1722380712,1721724969,1721236345,1720741343,1719878217,1719251066,1718443279,1717906095,1717411025,1716904324,1716400113,1715906779,1715237068,1714523387,1713885504,1706027840,1705496225,1704894904,1704324532,1703886078,1703446118,1702907967,1702145187,1701019352];
+        let timestamps = [1733867726,1731544017,1725468738,1724625240,1722380712,1721724969,1721236345,1720741343,1719878217,1719251066,1718443279,1717906095,1717411025,1716904324,1716400113,1715906779,1715237068,1714523387,1713885504,1706027840,1705496225,1704894904,1704324532,1703886078,1703446118,1702907967,1702145187,1701019352];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -146,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/15 | 3-36 | [lonewolf](https://ws.tsl.rocks/corp/216c1ab0bb2cbf918019c0a38a37820a9d5d78d7c5801983ed6e3b17bebdc5f3/) |
 | ✅ | 2024/11/19 | 41-15 | [Galactic Empire](https://ws.tsl.rocks/corp/e2223ab2b582a5eb5ae1734e132358eb3c24ddf61fcbeee7b8f6708f26782108/) |
 | ✅ | 2024/09/09 | 20-3 | [cyber\_dream](https://ws.tsl.rocks/corp/72357950e7f14c1d9e4dbb6df57e0d76f512cea722919c2a4765db03b90b8616/) |
 | ✅ | 2024/08/30 | 31-0 | [ЧВК "Котики"](https://ws.tsl.rocks/corp/b770b833fe257bc6accd1bbe82a887971291dd0038f8aa627a47f3ce063265c0/) |
