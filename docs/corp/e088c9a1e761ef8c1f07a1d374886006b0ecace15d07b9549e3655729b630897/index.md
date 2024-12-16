@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Germania
-description: W:18 L:32 D:4 Bonus ✅
+description: W:18 L:32 D:4 Bonus ❌
 image: ./favicon.png
 date: 1734167814
 ---
@@ -19,7 +19,7 @@ ht so ernst nehmen.
 -Beleidigung, Rassismus ect, 14 Tage Inaktivität ohne Abmeldung führt
  zum Bann 
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
