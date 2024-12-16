@@ -23,7 +23,7 @@ dicate you will participate and dont you will be kicked.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1289 🔺  (171)|
-| ELO Competitive | 1341 🔺  (199)|
+| ELO Competitive | 1341 🔺  (198)|
 | Total Matches | 59 |
 | Wins | 34 |
 | Losses | 23 |
