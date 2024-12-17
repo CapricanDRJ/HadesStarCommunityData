@@ -23,7 +23,7 @@ eir economies.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1300 🔻  (160)|
+| ELO Regular | 1300 🔻  (161)|
 | ELO Competitive | 1339 🔻  (201)|
 | Total Matches | 26 |
 | Wins | 16 |

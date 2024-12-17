@@ -25,7 +25,7 @@ Project for Permanent Peace
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1187 🔻  (644)|
-| ELO Competitive | 1187 🔻  (815)|
+| ELO Competitive | 1187 🔻  (816)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

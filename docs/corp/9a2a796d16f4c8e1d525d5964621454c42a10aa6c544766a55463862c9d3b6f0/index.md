@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Cool Casual
-description: W:0 L:1 D:0 Bonus ❌
+description: W:1 L:1 D:0 Bonus ✅
 image: ./favicon.png
-date: 1733900369
+date: 1734470688
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 1733900369
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1182 🔻  (825)|
-| ELO Competitive | 1186 🔻  (851)|
-| Total Matches | 1 |
-| Wins | 0 |
+| ELO Regular | 1198 🔺  (521)|
+| ELO Competitive | 1202 🔺  (607)|
+| Total Matches | 2 |
+| Wins | 1 |
 | Losses | 1 |
 | Draws | 0 |
 | Flagship | 0 |
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733468369];
+        let timestamps = [1734038688,1733468369];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/17 | 5-4 | [环星集团](https://ws.tsl.rocks/corp/8a1148b4fbc41d0b26a8a865ec524c7ab8965e7df2c1002344b8cbd075a12fdd/) |
 | ❌ | 2024/12/11 | 3-6 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
 
 ---
