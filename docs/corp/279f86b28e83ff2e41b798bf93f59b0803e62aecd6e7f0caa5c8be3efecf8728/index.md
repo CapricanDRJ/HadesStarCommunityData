@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The Foundation
-description: W:5 L:2 D:1 Bonus ✅
+description: W:5 L:2 D:1 Bonus ❌
 image: ./favicon.png
 date: 1733827654
 ---
@@ -18,7 +18,7 @@ ated to helping new players grow. Discord recommended for White Stars
 .
 ```
 ### [Discord](https://discord.gg/Y5SBYmr)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
