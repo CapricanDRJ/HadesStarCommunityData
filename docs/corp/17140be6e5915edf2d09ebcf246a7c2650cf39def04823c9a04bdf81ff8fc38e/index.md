@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Omega corp
-description: W:8 L:5 D:3 Bonus ✅
+description: W:8 L:5 D:3 Bonus ❌
 image: ./favicon.png
 date: 1733758394
 ---
@@ -17,12 +17,12 @@ welcome to my corporation.  Language: English and Español. Discord NO
 T available. Top 5players become senior, top 2become official. red st
 ars2-7. white stars every week
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1240 🔺  (278)|
-| ELO Competitive | 1258 🔺  (360)|
+| ELO Competitive | 1258 🔺  (361)|
 | Total Matches | 16 |
 | Wins | 8 |
 | Losses | 5 |

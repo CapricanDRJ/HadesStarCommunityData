@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​ 边域
-description: W:5 L:3 D:0 Bonus ❌
+description: W:5 L:4 D:0 Bonus ❌
 image: ./favicon.png
-date: 1733924708
+date: 1734389563
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 1733924708
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1227 🔻  (327)|
-| ELO Competitive | 1224 🔻  (475)|
-| Total Matches | 8 |
+| ELO Regular | 1216 🔻  (382)|
+| ELO Competitive | 1214 🔻  (544)|
+| Total Matches | 9 |
 | Wins | 5 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 2 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733492708,1723980671,1723515435,1723081497,1722946267,1722647255,1722187785,1721724969];
+        let timestamps = [1733957563,1733492708,1723980671,1723515435,1723081497,1722946267,1722647255,1722187785,1721724969];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/16 | 2-8 | [太阳系集团](https://ws.tsl.rocks/corp/50f5e0a888ce2f21c0980be0cbb1e444e1d7eeb9dcb2095c3e428bd5bde7a9f6/) |
 | ❌ | 2024/12/11 | 1-4 | [AlyTec Sys\.](https://ws.tsl.rocks/corp/4f98eeb43077d5c00a32f9810352931d8778fb5b24d8b49c318953d489f07df0/) |
 | ✅ | 2024/08/23 | 7-0 | [𝖕𝖎𝖗𝖆𝖙𝖊𝖘](https://ws.tsl.rocks/corp/dfa303324f73956393169d9ab02646eb1f9492b8ec55b01c604befbd33461821/) |
 | ✅ | 2024/08/18 | 13-1 | [超新星联盟](https://ws.tsl.rocks/corp/c3667794c88fd0a09f565dc3b4fed5325f131a616d01d0f6890755b44997d0a1/) |

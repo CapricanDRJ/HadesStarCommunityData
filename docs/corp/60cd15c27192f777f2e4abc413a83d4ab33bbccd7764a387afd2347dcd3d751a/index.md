@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Stone Legion
-description: W:28 L:9 D:1 Bonus ❌
+description: W:28 L:10 D:1 Bonus ❌
 image: ./favicon.png
-date: 1734381449
+date: 1734393768
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,11 +23,11 @@ date: 1734381449
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1352 🔻  (93)|
+| ELO Regular | 1334 🔻  (109)|
 | ELO Competitive | 1414 🔻  (129)|
-| Total Matches | 38 |
+| Total Matches | 39 |
 | Wins | 28 |
-| Losses | 9 |
+| Losses | 10 |
 | Draws | 1 |
 | Streak Record | 9 |
 | Flagship | 8 |
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733949449,1732759526,1732176552,1730888009,1729670696,1728350160,1727773459,1726687486,1725876812,1725049853,1724316906,1723247677,1722431491,1721854796,1720991108,1719605958,1718056971,1717029046,1715996012,1714613227,1713305042,1712776198,1711675832,1710963114,1709233898,1708545181,1707937875,1707281385,1706583492,1706140533,1705092942,1703372790,1702495029,1701778214,1701518848,1700803546,1699879305,1698968982];
+        let timestamps = [1733961768,1733949449,1732759526,1732176552,1730888009,1729670696,1728350160,1727773459,1726687486,1725876812,1725049853,1724316906,1723247677,1722431491,1721854796,1720991108,1719605958,1718056971,1717029046,1715996012,1714613227,1713305042,1712776198,1711675832,1710963114,1709233898,1708545181,1707937875,1707281385,1706583492,1706140533,1705092942,1703372790,1702495029,1701778214,1701518848,1700803546,1699879305,1698968982];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/17 | 3-15 | [Stella☆Glow](https://ws.tsl.rocks/corp/86a894b97d55e4f65a3cec65d26d528341d8e70b186bcffa2e89f5f681e48396/) |
 | ❌ | 2024/12/16 | 0-28 | [Warriorlords](https://ws.tsl.rocks/corp/a78c29b9e1c9f793205ba10d796dcabc114ef43d86f0bd34a43a56dc6da768aa/) |
 | ✅ | 2024/12/03 | 33-0 | [Alpaca Haven](https://ws.tsl.rocks/corp/e93a2f2efda24a65c8ee7eb57fbb269e19b2b1c28a67c6c7c3339b8c90f7726b/) |
 | ✅ | 2024/11/26 | 41-0 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
