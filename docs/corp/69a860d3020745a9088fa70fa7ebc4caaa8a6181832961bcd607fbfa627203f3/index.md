@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​对，进就进人少的（分团）
-description: W:14 L:11 D:1 Bonus ✅
+description: W:15 L:11 D:1 Bonus ✅
 image: ./favicon.png
-date: 1733845084
+date: 1734440635
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,13 +21,13 @@ o华浩 QQ767311697
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1247 🔺  (253)|
-| ELO Competitive | 1288 🔺  (287)|
-| Total Matches | 26 |
-| Wins | 14 |
+| ELO Regular | 1262 🔺  (220)|
+| ELO Competitive | 1302 🔺  (260)|
+| Total Matches | 27 |
+| Wins | 15 |
 | Losses | 11 |
 | Draws | 1 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 4 |
 | Flagship | 4 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733413084,1732854191,1732020299,1731575560,1731128705,1730373560,1729240092,1728349860,1727672489,1726871377,1726406296,1725958653,1725461825,1725021598,1724575347,1724115574,1723663887,1723178855,1722738912,1720250268,1719797381,1719350535,1718759126,1717484962,1716615524,1714711174];
+        let timestamps = [1734008635,1733413084,1732854191,1732020299,1731575560,1731128705,1730373560,1729240092,1728349860,1727672489,1726871377,1726406296,1725958653,1725461825,1725021598,1724575347,1724115574,1723663887,1723178855,1722738912,1720250268,1719797381,1719350535,1718759126,1717484962,1716615524,1714711174];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/17 | 14-4 | [ℬlackStar Order](https://ws.tsl.rocks/corp/03620dd2b01d0a0c2c7b03cb570214cd6c5872eb043bac01dcadeb6244f8d861/) |
 | ✅ | 2024/12/10 | 12-7 | [Forces of Light](https://ws.tsl.rocks/corp/0363a536567ae69573a7b0aa4b2c4119c5c14999f5bb2c7a68219b22b78f7903/) |
 | ✅ | 2024/12/04 | 18-1 | [脉冲星际集团](https://ws.tsl.rocks/corp/a4c08cf63563563e9bfa1d35edb256e9bb8bcdca15103d646d2ff8ed9d17f480/) |
 | ❌ | 2024/11/24 | 1-7 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Red Star
-description: W:4 L:2 D:0 Bonus ✅
+description: W:4 L:3 D:0 Bonus ✅
 image: ./favicon.png
-date: 1733945443
+date: 1734449049
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 1733945443
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1231 🔺  (312)|
-| ELO Competitive | 1223 🔺  (475)|
-| Total Matches | 6 |
+| ELO Regular | 1222 🔻  (342)|
+| ELO Competitive | 1216 🔻  (518)|
+| Total Matches | 7 |
 | Wins | 4 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
-| Streak | 3 |
 | Streak Record | 3 |
 | Flagship | 3 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733513443,1733075981,1733067543,1732569006,1732020299,1731559638];
+        let timestamps = [1734017049,1733513443,1733075981,1733067543,1732569006,1732020299,1731559638];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/17 | 4-6 | [The Syndicate ](https://ws.tsl.rocks/corp/a7da1f6bd313248b8b6e68a1826bffb463c0e4977776708b28d97199f878b88c/) |
 | ✅ | 2024/12/11 | 15-0 | [exirium](https://ws.tsl.rocks/corp/4981522e08ce38bcec7b2a189b3bfba9c072a615eea490a55c645344ac975f54/) |
 | ✅ | 2024/12/06 | 4-0 | [BAB](https://ws.tsl.rocks/corp/d17895c8b0b7003682ed6441ed0a2040355c3b53e6e4609302acccab6a0deaea/) |
 | ✅ | 2024/12/06 | 11-0 | [Industrial W\.O](https://ws.tsl.rocks/corp/99a4ba88f6a620cb9ea1da456127c978a858ffbda4e40b255fcf3365515da25d/) |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​The Syndicate 
-description: W:24 L:4 D:0 Bonus ❌
+description: W:25 L:4 D:0 Bonus ✅
 image: ./favicon.png
-date: 1733237806
+date: 1734449049
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,17 +20,17 @@ White star participation is only for those in the discord. No excepti
 ons.
 ```
 ### [Discord](https://discord.gg/B3N5by8zUb)
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1390 🔺  (60)|
-| ELO Competitive | 1424 🔺  (114)|
-| Total Matches | 28 |
-| Wins | 24 |
+| ELO Regular | 1399 🔺  (57)|
+| ELO Competitive | 1431 🔺  (106)|
+| Total Matches | 29 |
+| Wins | 25 |
 | Losses | 4 |
 | Draws | 0 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 20 |
 | Flagship | 3 |
 
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732805806,1732236652,1731615833,1729769855,1729246709,1728218536,1726760760,1726149655,1725558143,1724347562,1723725314,1723117553,1721842473,1721236345,1720634643,1720022767,1719421450,1718827943,1718212633,1717612098,1717017028,1716413336,1715814845,1715198616,1714599408,1713978344,1713373849,1712654205];
+        let timestamps = [1734017049,1732805806,1732236652,1731615833,1729769855,1729246709,1728218536,1726760760,1726149655,1725558143,1724347562,1723725314,1723117553,1721842473,1721236345,1720634643,1720022767,1719421450,1718827943,1718212633,1717612098,1717017028,1716413336,1715814845,1715198616,1714599408,1713978344,1713373849,1712654205];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/17 | 6-4 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
 | ✅ | 2024/12/03 | 19-5 | [Quin Armarda](https://ws.tsl.rocks/corp/281e5fa5950e49cecfe76d2adb80613499a0bb841567f92040bfeaea5f4ac218/) |
 | ✅ | 2024/11/27 | 4-3 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ✅ | 2024/11/19 | 10-3 | [斯比纳兰](https://ws.tsl.rocks/corp/ce756ff97542e6fa8d518319e6575aae1d01eb23dd906fee3e3cbb98b442b68f/) |
