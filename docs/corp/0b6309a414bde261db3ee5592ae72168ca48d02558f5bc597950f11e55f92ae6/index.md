@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Quantum Cats
-description: W:7 L:7 D:0 Bonus ✅
+description: W:7 L:7 D:0 Bonus ❌
 image: ./favicon.png
 date: 1733797011
 ---
@@ -18,7 +18,7 @@ Relaxed game play. The Corp for working people also known as “The hot
 lease join us on Discord and don't be a stranger!
 ```
 ### [Discord](https://discord.gg/drqrMsVtEp)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

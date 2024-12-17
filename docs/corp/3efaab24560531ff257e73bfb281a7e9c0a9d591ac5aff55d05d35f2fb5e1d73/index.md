@@ -22,7 +22,7 @@ Corporation of Independent Systems.  Discord is Mandatory. Join today
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1366 🔺  (78)|
-| ELO Competitive | 1462 🔺  (83)|
+| ELO Competitive | 1462 🔺  (84)|
 | Total Matches | 53 |
 | Wins | 41 |
 | Losses | 11 |

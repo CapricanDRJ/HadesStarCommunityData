@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Quilliance
-description: W:24 L:2 D:0 Bonus ❌
+description: W:25 L:2 D:0 Bonus ✅
 image: ./favicon.png
-date: 1733199939
+date: 1734425911
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,18 +18,18 @@ thy foe, Sear their bones</i><br><br>Top51 RS event • Biweekly WS<br>
 Discord Active • Coop DRS7-10 
 ```
 ### [Discord](https://discord.gg/6QQJkJ4)
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1421 🔺  (38)|
-| ELO Competitive | 1456 🔺  (90)|
-| Total Matches | 26 |
-| Wins | 24 |
+| ELO Regular | 1427 🔺  (35)|
+| ELO Competitive | 1470 🔺  (80)|
+| Total Matches | 27 |
+| Wins | 25 |
 | Losses | 2 |
 | Draws | 0 |
-| Streak | 13 |
-| Streak Record | 13 |
+| Streak | 14 |
+| Streak Record | 14 |
 | Flagship | 7 |
 
 ---
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732767939,1731582896,1730384080,1729771357,1728558118,1727354859,1726144846,1724935052,1723739613,1722524650,1721313871,1720697755,1719494469,1718276035,1717098463,1715863511,1714659195,1712232628,1711022298,1709815614,1708595658,1707383004,1706173583,1704970331,1702549122,1701338827];
+        let timestamps = [1733993911,1732767939,1731582896,1730384080,1729771357,1728558118,1727354859,1726144846,1724935052,1723739613,1722524650,1721313871,1720697755,1719494469,1718276035,1717098463,1715863511,1714659195,1712232628,1711022298,1709815614,1708595658,1707383004,1706173583,1704970331,1702549122,1701338827];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) | 2 | 0 | 0 | 2 |
 | [Crimson Dawn](https://ws.tsl.rocks/corp/d01a872035141501ad24bc84e5496d239d31d121774482b777bd8f2e03726d44/) | 2 | 0 | 0 | 2 |
 | [Inexorable](https://ws.tsl.rocks/corp/8343908ac19af8666d7765db00e5eb603d9e87bbbfe273c81d9b9b2329ca0827/) | 2 | 0 | 0 | 2 |
 
@@ -143,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/17 | 26-0 | [九州分团](https://ws.tsl.rocks/corp/e7374c31c95ba96f5c59c7c1de632517dd4cec2d4680e25e7f34d077133e4d4f/) |
 | ✅ | 2024/12/03 | 38-5 | [Млечный путь](https://ws.tsl.rocks/corp/a9a3b102b3698bf7db8cd106adda02cee0033bfc03f681b667b2991e10049a25/) |
 | ✅ | 2024/11/19 | 23-0 | [Вселенские 40%](https://ws.tsl.rocks/corp/963d73346ebb929607f54404f481ac2273b4f483915b93144d0757b066a1fd99/) |
 | ✅ | 2024/11/05 | 49-0 | [Avantgarde](https://ws.tsl.rocks/corp/5003271bb02761b202cd42865c9bde5fd2dad83ae1bb96b920c606b282744046/) |
