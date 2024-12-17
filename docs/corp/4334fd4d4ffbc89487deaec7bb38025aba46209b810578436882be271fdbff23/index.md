@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​荣耀之星
-description: W:20 L:18 D:5 Bonus ✅
+description: W:20 L:18 D:5 Bonus ❌
 image: ./favicon.png
 date: 1734361913
 ---
@@ -16,7 +16,7 @@ date: 1734361913
 欢迎大家加入我们团队。我们每周四上午开白周末参加即可。请勿长时间不上号。添加QQ 3465737977 /游戏内 fqy 好友以方便交流。
 招募成员！
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
