@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​华夏三体-基沃托斯集团
-description: W:2 L:8 D:1 Bonus ✅
+description: W:2 L:8 D:2 Bonus ✅
 image: ./favicon.png
-date: 1734051227
+date: 1734435525
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,12 +21,12 @@ Resident gift artifact
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1143 🔺  (1134)|
-| ELO Competitive | 1181 🔺  (985)|
-| Total Matches | 11 |
+| ELO Regular | 1146 🔺  (1124)|
+| ELO Competitive | 1188 🔺  (792)|
+| Total Matches | 12 |
 | Wins | 2 |
 | Losses | 8 |
-| Draws | 1 |
+| Draws | 2 |
 | Flagship | 2 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733619227,1733322942,1733139052,1732633905,1732621881,1731727915,1731727915,1731108574,1730590226,1730126260,1729602484];
+        let timestamps = [1734003525,1733619227,1733322942,1733139052,1732633905,1732621881,1731727915,1731727915,1731108574,1730590226,1730126260,1729602484];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/12/17 | 0-0 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |
 | ✅ | 2024/12/13 | 10-0 | [The Red Dwarves](https://ws.tsl.rocks/corp/4cecdcd329a545deb9c2a292081f9220114f37e845dbea6dd1ec326390e296dd/) |
 | ❌ | 2024/12/09 | 4-16 | [星落苑](https://ws.tsl.rocks/corp/6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c/) |
 | ❌ | 2024/12/07 | 2-3 | [华夏联盟](https://ws.tsl.rocks/corp/2c648f8c6a0963f1a86b1a1ca787f67c02ee58838a809427b68d3546b89078ac/) |

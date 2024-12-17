@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Лютые
-description: W:17 L:10 D:1 Bonus ✅
+description: W:17 L:10 D:1 Bonus ❌
 image: ./favicon.png
 date: 1733801217
 ---
@@ -16,7 +16,7 @@ date: 1733801217
 Добро пожаловать, мы в ТГ https://t.me/Lyutyee
 ```
 ### [Discord](https://discord.gg/https://t.me/Lyutyee)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
