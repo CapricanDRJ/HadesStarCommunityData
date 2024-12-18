@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​RGW
-description: W:26 L:7 D:0 Bonus ✅
+description: W:27 L:7 D:0 Bonus ✅
 image: ./favicon.png
-date: 1733907278
+date: 1734515750
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,13 @@ Herzlich willkommen. Aktive Teilnahme in WZ erwünscht.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1409 🔺  (45)|
-| ELO Competitive | 1457 🔺  (90)|
-| Total Matches | 33 |
-| Wins | 26 |
+| ELO Regular | 1416 🔺  (39)|
+| ELO Competitive | 1472 🔺  (81)|
+| Total Matches | 34 |
+| Wins | 27 |
 | Losses | 7 |
 | Draws | 0 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 19 |
 | Flagship | 4 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733475278,1732810005,1732208405,1731582693,1730987172,1730370254,1729762042,1729154116,1728563228,1727338932,1726735857,1726050794,1725523722,1723108839,1722499406,1721902869,1721327696,1720615107,1718273932,1717409823,1716379680,1715600921,1714644970,1713190252,1712410212,1711284019,1708321911,1706606929,1706122501,1704911135,1703654180,1702812697,1702312293];
+        let timestamps = [1734083750,1733475278,1732810005,1732208405,1731582693,1730987172,1730370254,1729762042,1729154116,1728563228,1727338932,1726735857,1726050794,1725523722,1723108839,1722499406,1721902869,1721327696,1720615107,1718273932,1717409823,1716379680,1715600921,1714644970,1713190252,1712410212,1711284019,1708321911,1706606929,1706122501,1704911135,1703654180,1702812697,1702312293];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) | 2 | 0 | 0 | 2 |
 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) | 2 | 0 | 0 | 2 |
 | [QONQR ](https://ws.tsl.rocks/corp/5e23ade08a63b2c440a6a4c1a9ecfb6b1cfca34523c1a528d075bd06eaf5d019/) | 2 | 0 | 0 | 2 |
 | [华夏三体舰队](https://ws.tsl.rocks/corp/a457b1d7612cdff92b655d33cf4ffd72b38aa796525cf0432423cfd0d01c6cf9/) | 2 | 0 | 0 | 2 |
@@ -141,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/18 | 20-3 | [对，进就进人少的](https://ws.tsl.rocks/corp/2b4a8af17754b61359e653f9b3bdd80e0f3498a09bf2323c4365fdf0241988a1/) |
 | ✅ | 2024/12/11 | 2-1 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ✅ | 2024/12/03 | 17-0 | [Glashan](https://ws.tsl.rocks/corp/48b9fa3df8bbc6ce4a8455e9b923f28c0eccb8054c9f72e9c14e6acfee5a23a4/) |
 | ✅ | 2024/11/26 | 12-6 | [Created](https://ws.tsl.rocks/corp/04182a4606d981d1c410b0c058248e428765c672442d912ec47218ace9004e74/) |

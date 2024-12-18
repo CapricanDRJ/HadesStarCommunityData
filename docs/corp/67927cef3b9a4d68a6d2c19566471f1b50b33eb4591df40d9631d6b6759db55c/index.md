@@ -21,7 +21,7 @@ br>Diplomacy：Phanatikk<br>神圣罗马帝国分团<br>We welcome everyone<br>Q
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1196 🔻  (538)|
+| ELO Regular | 1196 🔻  (539)|
 | ELO Competitive | 1360 🔻  (180)|
 | Total Matches | 53 |
 | Wins | 27 |
