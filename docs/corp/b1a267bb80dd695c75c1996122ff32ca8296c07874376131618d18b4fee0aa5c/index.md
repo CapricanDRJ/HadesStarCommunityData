@@ -21,8 +21,8 @@ wei bis drei Wochen gibt's einen WZ Raubzug. Komm zu uns.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1090 🔻  (1273)|
-| ELO Competitive | 1133 🔻  (1270)|
+| ELO Regular | 1090 🔻  (1274)|
+| ELO Competitive | 1133 🔻  (1271)|
 | Total Matches | 15 |
 | Wins | 2 |
 | Losses | 13 |

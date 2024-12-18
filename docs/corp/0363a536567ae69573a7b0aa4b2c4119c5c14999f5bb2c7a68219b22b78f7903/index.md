@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Forces of Light
-description: W:11 L:5 D:1 Bonus ❌
+description: W:12 L:5 D:1 Bonus ✅
 image: ./favicon.png
-date: 1733845084
+date: 1734508540
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ os que nos necesiten y les daremos un ambiente comodo. | Existe un gr
 upo si deseas unirte solo consulta al primer oficial. 
 ```
 ### [Discord](https://discord.gg/X6xAG8J9)
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1268 🔻  (208)|
-| ELO Competitive | 1282 🔻  (303)|
-| Total Matches | 17 |
-| Wins | 11 |
+| ELO Regular | 1280 🔺  (189)|
+| ELO Competitive | 1293 🔺  (279)|
+| Total Matches | 18 |
+| Wins | 12 |
 | Losses | 5 |
 | Draws | 1 |
 | Streak Record | 4 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733413084,1724538991,1724079812,1723311387,1722271629,1721344524,1720496700,1715064613,1713390461,1712737435,1711843083,1710166573,1709269352,1708306889,1707449714,1706477112,1705294588];
+        let timestamps = [1734076540,1733413084,1724538991,1724079812,1723311387,1722271629,1721344524,1720496700,1715064613,1713390461,1712737435,1711843083,1710166573,1709269352,1708306889,1707449714,1706477112,1705294588];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/18 | 8-5 | [毛绒团子](https://ws.tsl.rocks/corp/2942aee1275894a4c5b65352d707edd8c5d998365d58a3526868a70001605324/) |
 | ❌ | 2024/12/10 | 7-12 | [对，进就进人少的（分团）](https://ws.tsl.rocks/corp/69a860d3020745a9088fa70fa7ebc4caaa8a6181832961bcd607fbfa627203f3/) |
 | ✅ | 2024/08/29 | 15-8 | [MÉXICO INFINITO](https://ws.tsl.rocks/corp/a9fbdd48477b87a054dbd804eef12ae08bc6e02798cd8990b08c4a9803d8f9d8/) |
 | ✅ | 2024/08/24 | 19-0 | [水晶星际集团](https://ws.tsl.rocks/corp/6390d7a4666ac4537ef5eacf76dd1c2f34548cc588aac8dad423c308ad1c0f3d/) |
