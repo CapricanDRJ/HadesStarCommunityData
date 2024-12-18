@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Winter Star llc
-description: W:7 L:3 D:1 Bonus ✅
+description: W:8 L:3 D:1 Bonus ✅
 image: ./favicon.png
-date: 1734095097
+date: 1734529028
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,14 +21,14 @@ ons! //You must Join our Discord within 7 days
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1241 🔺  (275)|
-| ELO Competitive | 1268 🔺  (337)|
-| Total Matches | 11 |
-| Wins | 7 |
+| ELO Regular | 1252 🔺  (245)|
+| ELO Competitive | 1287 🔺  (291)|
+| Total Matches | 12 |
+| Wins | 8 |
 | Losses | 3 |
 | Draws | 1 |
-| Streak | 4 |
-| Streak Record | 4 |
+| Streak | 5 |
+| Streak Record | 5 |
 | Flagship | 3 |
 
 ---
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733663097,1733057924,1732408236,1731760068,1731278090,1730621472,1729856695,1729184477,1729170346,1728726422,1728040018];
+        let timestamps = [1734097028,1733663097,1733057924,1732408236,1731760068,1731278090,1730621472,1729856695,1729184477,1729170346,1728726422,1728040018];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/18 | 26-0 | [Sich\.ua](https://ws.tsl.rocks/corp/9fcd6d7c4fe7f8e39acf48585dfe9c6d3d14edc7781fe8caf85618b3e98c685d/) |
 | ✅ | 2024/12/13 | 19-2 | [华夏联盟](https://ws.tsl.rocks/corp/2c648f8c6a0963f1a86b1a1ca787f67c02ee58838a809427b68d3546b89078ac/) |
 | ✅ | 2024/12/06 | 15-0 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
 | ✅ | 2024/11/29 | 11-3 | [🌪TORNADO ](https://ws.tsl.rocks/corp/df15d02d32c67d60995e68d6c4197c23b340a0a985f04280563d8d07bd4536fa/) |

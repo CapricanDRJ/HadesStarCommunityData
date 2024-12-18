@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​AlSounT
-description: W:13 L:10 D:0 Bonus ❌
+description: W:14 L:10 D:0 Bonus ✅
 image: ./favicon.png
-date: 1734023579
+date: 1734526868
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ date: 1734023579
 м  - Ищем отважных и надёжных командиров если ты не трус залетай  к н
 ам и вместе будем биться у Белых Звёзд
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1238 🔻  (291)|
-| ELO Competitive | 1300 🔻  (263)|
-| Total Matches | 23 |
-| Wins | 13 |
+| ELO Regular | 1259 🔺  (229)|
+| ELO Competitive | 1322 🔺  (229)|
+| Total Matches | 24 |
+| Wins | 14 |
 | Losses | 10 |
 | Draws | 0 |
 | Streak Record | 4 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733591579,1732976190,1732515814,1731945484,1731416606,1730963732,1730478435,1730033701,1729514439,1729072073,1728484189,1727945348,1727428178,1726938688,1726246114,1702802778,1702219423,1701334620,1700768686,1700326582,1699867283,1699378564,1698921199];
+        let timestamps = [1734094868,1733591579,1732976190,1732515814,1731945484,1731416606,1730963732,1730478435,1730033701,1729514439,1729072073,1728484189,1727945348,1727428178,1726938688,1726246114,1702802778,1702219423,1701334620,1700768686,1700326582,1699867283,1699378564,1698921199];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/18 | 27-21 | [2ND\-R8 Corp\.](https://ws.tsl.rocks/corp/e97866623598a98454b3a4724b472dc171f5e1aff84b076c43d021f0fabdc702/) |
 | ❌ | 2024/12/12 | 5-27 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |
 | ❌ | 2024/12/05 | 0-27 | [UKR Spase](https://ws.tsl.rocks/corp/e7fccd6d3669688f2a3eabd6b676436018d6566397ab5dab1897d1a2a47f2015/) |
 | ✅ | 2024/11/30 | 31-8 | [Space Pirates](https://ws.tsl.rocks/corp/87eff6e453b6f020baf8cb8930236b566161e22814cdbdc77d696c5812684bc6/) |

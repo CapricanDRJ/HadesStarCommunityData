@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​萌新集团
-description: W:2 L:0 D:0 Bonus ✅
+description: W:3 L:0 D:0 Bonus ✅
 image: ./favicon.png
-date: 1734065648
+date: 1734531978
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 1734065648
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1231 🔺  (308)|
-| ELO Competitive | 1236 🔺  (427)|
-| Total Matches | 2 |
-| Wins | 2 |
+| ELO Regular | 1243 🔺  (273)|
+| ELO Competitive | 1251 🔺  (382)|
+| Total Matches | 3 |
+| Wins | 3 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733633648,1732994879];
+        let timestamps = [1734099978,1733633648,1732994879];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/18 | 13-0 | [银河护卫队](https://ws.tsl.rocks/corp/e522df7ad34eabee08393efb864d53bdc897d0ad187170616d6ef924df5c7267/) |
 | ✅ | 2024/12/13 | 3-2 | [一根飞机](https://ws.tsl.rocks/corp/459077a8d857a7bd7ee9caafa2c5ed27ac2416d2280965dd22d4293302cb9de0/) |
 | ✅ | 2024/12/05 | 5-0 | [ДИᏰEPℂДℍTᏰℓ](https://ws.tsl.rocks/corp/a1dad8a2a2c5ab935169d168bc19f8a1db7f12b099358e079cb7221a340345ed/) |
 

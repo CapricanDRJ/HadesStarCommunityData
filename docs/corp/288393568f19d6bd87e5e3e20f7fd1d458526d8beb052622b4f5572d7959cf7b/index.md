@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Sentencia
-description: W:20 L:4 D:0 Bonus ✅
+description: W:20 L:4 D:0 Bonus ❌
 image: ./favicon.png
 date: 1733906978
 ---
@@ -17,7 +17,7 @@ date: 1733906978
 e=50><b>Enterrados <color=red><b>200.000 $ </color></b>en Sad Hill.<b
 r><b>En La tumba sin nombre junto a la de Arch Stanton.
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
