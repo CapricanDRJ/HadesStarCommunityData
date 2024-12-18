@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​UKR Spase
-description: W:32 L:15 D:0 Bonus ✅
+description: W:32 L:15 D:0 Bonus ❌
 image: ./favicon.png
 date: 1734347789
 ---
@@ -19,7 +19,7 @@ date: 1734347789
 Спілкуємося в ТГ, пишіть @AleshaSun, щоб додав до групи
 ```
 ### [Discord](https://discord.gg/dppJFm6)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

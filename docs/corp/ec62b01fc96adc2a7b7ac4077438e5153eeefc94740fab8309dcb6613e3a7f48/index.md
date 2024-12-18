@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Bacon Warriors
-description: W:20 L:18 D:0 Bonus ❌
+description: W:20 L:18 D:1 Bonus ❌
 image: ./favicon.png
-date: 1733062898
+date: 1734540094
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,13 +20,12 @@ e lose amd every two weeks if we win. No discord required.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1255 🔺  (241)|
-| ELO Competitive | 1330 🔺  (214)|
-| Total Matches | 38 |
+| ELO Regular | 1258 🔺  (231)|
+| ELO Competitive | 1335 🔺  (202)|
+| Total Matches | 39 |
 | Wins | 20 |
 | Losses | 18 |
-| Draws | 0 |
-| Streak | 2 |
+| Draws | 1 |
 | Streak Record | 5 |
 | Flagship | 6 |
 
@@ -46,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732630898,1731082429,1730116640,1729520151,1728567436,1727959474,1727093736,1726342584,1725816420,1725474748,1724090933,1722884066,1722432994,1722106935,1721062037,1720631036,1720192874,1719757712,1718978785,1718638015,1717939157,1717855907,1717166371,1717157654,1716663010,1715522202,1714828760,1714313469,1713644853,1713031808,1712381966,1711508775,1710465534,1709853177,1709399166,1708792486,1701403443,1700658298];
+        let timestamps = [1734108094,1732630898,1731082429,1730116640,1729520151,1728567436,1727959474,1727093736,1726342584,1725816420,1725474748,1724090933,1722884066,1722432994,1722106935,1721062037,1720631036,1720192874,1719757712,1718978785,1718638015,1717939157,1717855907,1717166371,1717157654,1716663010,1715522202,1714828760,1714313469,1713644853,1713031808,1712381966,1711508775,1710465534,1709853177,1709399166,1708792486,1701403443,1700658298];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) | 0 | 1 | 1 | 2 |
 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) | 1 | 1 | 0 | 2 |
 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) | 2 | 0 | 0 | 2 |
 | [宇宙银河帝国](https://ws.tsl.rocks/corp/afb9817e45c3c79048d2be30be3b635704485d260ae7b474b579a019d56d3c2d/) | 1 | 1 | 0 | 2 |
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/12/18 | 5-5 | [阿尔特拉集团](https://ws.tsl.rocks/corp/b44d9d872fc500197dc86de9d5038463acd771333da46a48b5b55cd33baea1cf/) |
 | ✅ | 2024/12/01 | 26-0 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) |
 | ✅ | 2024/11/13 | 16-0 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |
 | ❌ | 2024/11/02 | 2-40 | [Duchy Arrakis](https://ws.tsl.rocks/corp/6c8c526b366a9e9eb3eba3d3107b628042c005db03530961b24a722cc58a339e/) |

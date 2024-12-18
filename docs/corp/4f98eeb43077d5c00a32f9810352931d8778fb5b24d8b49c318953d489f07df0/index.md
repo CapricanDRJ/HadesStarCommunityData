@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​AlyTec Sys.
-description: W:4 L:10 D:1 Bonus ✅
+description: W:4 L:11 D:1 Bonus ✅
 image: ./favicon.png
-date: 1733924708
+date: 1734542499
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ s. Discord Chat: https://discord.com/invite/8w72hqsAAb
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1135 🔺  (1174)|
-| ELO Competitive | 1142 🔺  (1250)|
-| Total Matches | 15 |
+| ELO Regular | 1120 🔻  (1213)|
+| ELO Competitive | 1129 🔻  (1277)|
+| Total Matches | 16 |
 | Wins | 4 |
-| Losses | 10 |
+| Losses | 11 |
 | Draws | 1 |
 | Flagship | 2 |
 
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733492708,1733031180,1732569006,1732098485,1731654890,1731214963,1730760857,1730308959,1729834760,1729387027,1728938351,1728505836,1728055952,1723351651,1722852510];
+        let timestamps = [1734110499,1733492708,1733031180,1732569006,1732098485,1731654890,1731214963,1730760857,1730308959,1729834760,1729387027,1728938351,1728505836,1728055952,1723351651,1722852510];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/18 | 2-3 | [银河护卫队](https://ws.tsl.rocks/corp/e522df7ad34eabee08393efb864d53bdc897d0ad187170616d6ef924df5c7267/) |
 | ✅ | 2024/12/11 | 4-1 | [ 边域](https://ws.tsl.rocks/corp/b982530486b86a4944af4474183f3fa6aca9db7a2a4195c018930f68d6ede865/) |
 | ❌ | 2024/12/06 | 2-6 | [昙花一现](https://ws.tsl.rocks/corp/f4fd4fa59ab25e2d5c7dbeade6de593918c0902906d810e0f1688ec1133b9510/) |
 | ✅ | 2024/11/30 | 3-1 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
