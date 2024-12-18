@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​⭐PRETORIANS.X⭐
-description: W:11 L:19 D:2 Bonus ✅
+description: W:11 L:19 D:3 Bonus ✅
 image: ./favicon.png
-date: 1734481505
+date: 1734483908
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,12 +21,12 @@ sporg). 3lt bpdp)(demin).(flech).
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1136 🔻  (1168)|
-| ELO Competitive | 1248 🔻  (387)|
-| Total Matches | 32 |
+| ELO Regular | 1137 🔺  (1168)|
+| ELO Competitive | 1264 🔺  (344)|
+| Total Matches | 33 |
 | Wins | 11 |
 | Losses | 19 |
-| Draws | 2 |
+| Draws | 3 |
 | Streak Record | 3 |
 | Flagship | 3 |
 
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734049505,1733542888,1733526063,1733060629,1733057924,1732612267,1732610765,1732154321,1732094218,1731633860,1731621705,1731158760,1731128752,1730725745,1730684583,1730223322,1729977510,1729702552,1729342548,1729236463,1728791063,1728733638,1728292707,1728204711,1727658369,1727538855,1726932677,1726916748,1726411408,1726362718,1725900558,1725457917];
+        let timestamps = [1734051908,1734049505,1733542888,1733526063,1733060629,1733057924,1732612267,1732610765,1732154321,1732094218,1731633860,1731621705,1731158760,1731128752,1730725745,1730684583,1730223322,1729977510,1729702552,1729342548,1729236463,1728791063,1728733638,1728292707,1728204711,1727658369,1727538855,1726932677,1726916748,1726411408,1726362718,1725900558,1725457917];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/12/18 | 2-2 | [脉冲星际集团](https://ws.tsl.rocks/corp/a4c08cf63563563e9bfa1d35edb256e9bb8bcdca15103d646d2ff8ed9d17f480/) |
 | ❌ | 2024/12/18 | 0-10 | [oen](https://ws.tsl.rocks/corp/33d062d54a7aaaa60ae11e07fba73e1b28f5c9f323ff4a98f5810933e7d2b41f/) |
 | ✅ | 2024/12/12 | 8-4 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |
 | ❌ | 2024/12/11 | 0-1 | [Consortium](https://ws.tsl.rocks/corp/2d28d460f549084fa8f440de8a4da35728d64c0bb2f1a8ac30e07282c5210d89/) |
