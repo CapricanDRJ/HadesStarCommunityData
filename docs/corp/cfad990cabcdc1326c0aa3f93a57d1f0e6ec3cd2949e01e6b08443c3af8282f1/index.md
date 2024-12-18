@@ -21,8 +21,8 @@ bis 11 genauso. ganz entspannt. WZ wöchentlich 😀
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1112 🔻  (1239)|
-| ELO Competitive | 1200 🔻  (628)|
+| ELO Regular | 1112 🔻  (1238)|
+| ELO Competitive | 1200 🔻  (629)|
 | Total Matches | 39 |
 | Wins | 14 |
 | Losses | 24 |

@@ -20,7 +20,7 @@ Guardians united under one.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1198 🔺  (519)|
-| ELO Competitive | 1199 🔺  (653)|
+| ELO Competitive | 1199 🔺  (654)|
 | Total Matches | 2 |
 | Wins | 1 |
 | Losses | 1 |

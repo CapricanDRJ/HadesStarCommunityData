@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Embers Rising
-description: W:30 L:10 D:0 Bonus ✅
+description: W:30 L:10 D:0 Bonus ❌
 image: ./favicon.png
 date: 1733847489
 ---
@@ -20,7 +20,7 @@ Member of The Rising Imperium
 Mandatory Discord: p3dTaE9
 ```
 ### [Discord](https://discord.gg/p3dTaE9)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

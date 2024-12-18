@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​oen
-description: W:5 L:1 D:1 Bonus ❌
+description: W:6 L:1 D:1 Bonus ✅
 image: ./favicon.png
-date: 1733353961
+date: 1734481505
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,16 +17,17 @@ Bienvenido/a a la     organización espacial multiestelar, tenemos dis
 cord 
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/bRJjJ7Xr6p)
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1252 🔺  (241)|
-| ELO Competitive | 1265 🔺  (340)|
-| Total Matches | 7 |
-| Wins | 5 |
+| ELO Regular | 1263 🔺  (219)|
+| ELO Competitive | 1280 🔺  (307)|
+| Total Matches | 8 |
+| Wins | 6 |
 | Losses | 1 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 3 |
 | Flagship | 3 |
 
@@ -46,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732921961,1728021688,1726937376,1722993450,1722474729,1721188564,1720665900];
+        let timestamps = [1734049505,1732921961,1728021688,1726937376,1722993450,1722474729,1721188564,1720665900];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/18 | 10-0 | [⭐PRETORIANS\.X⭐](https://ws.tsl.rocks/corp/cb69b877d0e7ac86c3ce149f74e3c8db3a6352f330dc8da3e9754e9468a3255a/) |
 | ✅ | 2024/12/04 | 5-1 | [Dirty Minds Inc](https://ws.tsl.rocks/corp/c8436a708008779e050bd40e98b52fc38b3782b31d5fdd99c74918af8005d778/) |
 | ↔️ | 2024/10/09 | 3-3 | [Omega corp](https://ws.tsl.rocks/corp/17140be6e5915edf2d09ebcf246a7c2650cf39def04823c9a04bdf81ff8fc38e/) |
 | ✅ | 2024/09/26 | 3-0 | [Sich\.ua](https://ws.tsl.rocks/corp/9fcd6d7c4fe7f8e39acf48585dfe9c6d3d14edc7781fe8caf85618b3e98c685d/) |
