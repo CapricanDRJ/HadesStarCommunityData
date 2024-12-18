@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Final
-description: W:4 L:10 D:0 Bonus ✅
+description: W:4 L:10 D:0 Bonus ❌
 image: ./favicon.png
 date: 1733921101
 ---
@@ -21,7 +21,7 @@ orporation.
 Are you RS6+ & want to join?
 <color=blue>Discord: (YTaYrhy)</color>
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
