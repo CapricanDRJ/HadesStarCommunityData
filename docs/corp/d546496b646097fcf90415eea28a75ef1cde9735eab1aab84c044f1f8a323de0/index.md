@@ -20,8 +20,8 @@ Jack-b is holding me hostage send help! 0_0
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (726)|
-| ELO Competitive | 1185 🔻  (894)|
+| ELO Regular | 1185 🔻  (725)|
+| ELO Competitive | 1185 🔻  (892)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

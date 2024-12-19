@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​ℬlackStar Order
-description: W:3 L:1 D:0 Bonus ✅
+description: W:3 L:2 D:0 Bonus ✅
 image: ./favicon.png
-date: 1734440635
+date: 1734582913
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1734440635
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1230 🔻  (314)|
-| ELO Competitive | 1237 🔻  (426)|
-| Total Matches | 4 |
+| ELO Regular | 1215 🔻  (390)|
+| ELO Competitive | 1237 🔻  (427)|
+| Total Matches | 5 |
 | Wins | 3 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734008635,1733564825,1733110512,1732621881];
+        let timestamps = [1734150913,1734008635,1733564825,1733110512,1732621881];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/19 | 0-10 | [蓝色星系二号分盟](https://ws.tsl.rocks/corp/40ffb900f40aefc1fa4fddd4d036e0466577312c7fb8e16ae315cd8868015297/) |
 | ❌ | 2024/12/17 | 4-14 | [对，进就进人少的（分团）](https://ws.tsl.rocks/corp/69a860d3020745a9088fa70fa7ebc4caaa8a6181832961bcd607fbfa627203f3/) |
 | ✅ | 2024/12/12 | 14-0 | [新星汇聚](https://ws.tsl.rocks/corp/7e61cd500818e2d3a3714d8a775a407e2ce8d9bf1ece36171778536aa8ca7078/) |
 | ✅ | 2024/12/07 | 11-4 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |

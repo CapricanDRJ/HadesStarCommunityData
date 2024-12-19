@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​蓝色星系二号分盟
-description: W:3 L:0 D:0 Bonus ❌
+description: W:4 L:0 D:0 Bonus ✅
 image: ./favicon.png
-date: 1733908780
+date: 1734582913
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,18 +16,18 @@ date: 1733908780
 隶属于蓝色星系的蓝色星系第二分盟，欢迎各位萌新大佬加入，Q群446097226，每周送r7，r6神器qwq，偶尔有r8，主席TAT，副主席
 莱茵太空，需要神器就找副主席，不是本团的萌新需要帮助请直接联系副主席
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1243 🔺  (269)|
-| ELO Competitive | 1246 🔺  (396)|
-| Total Matches | 3 |
-| Wins | 3 |
+| ELO Regular | 1258 🔺  (232)|
+| ELO Competitive | 1260 🔺  (356)|
+| Total Matches | 4 |
+| Wins | 4 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 3 |
-| Streak Record | 3 |
+| Streak | 4 |
+| Streak Record | 4 |
 | Flagship | 2 |
 
 ---
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733476780,1731672016,1729342849];
+        let timestamps = [1734150913,1733476780,1731672016,1729342849];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/19 | 10-0 | [ℬlackStar Order](https://ws.tsl.rocks/corp/03620dd2b01d0a0c2c7b03cb570214cd6c5872eb043bac01dcadeb6244f8d861/) |
 | ✅ | 2024/12/11 | 15-1 | [昙花一现](https://ws.tsl.rocks/corp/f4fd4fa59ab25e2d5c7dbeade6de593918c0902906d810e0f1688ec1133b9510/) |
 | ✅ | 2024/11/20 | 19-4 | [分子集团](https://ws.tsl.rocks/corp/5b9f14a83989065d411d1e21d908ce3fc4939d48e815ffc39b1b18b6752c827b/) |
 | ✅ | 2024/10/24 | 7-0 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |

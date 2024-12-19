@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​昙花一现
-description: W:1 L:1 D:0 Bonus ❌
+description: W:1 L:2 D:0 Bonus ❌
 image: ./favicon.png
-date: 1733908780
+date: 1734589072
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 1733908780
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1198 🔻  (528)|
-| ELO Competitive | 1198 🔻  (663)|
-| Total Matches | 2 |
+| ELO Regular | 1183 🔻  (819)|
+| ELO Competitive | 1184 🔻  (938)|
+| Total Matches | 3 |
 | Wins | 1 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733476780,1733031180];
+        let timestamps = [1734157072,1733476780,1733031180];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/19 | 1-3 | [国际联盟](https://ws.tsl.rocks/corp/4b25f449617273077d1898d67e79bfe22c803412bb840eb68412fe0ee7224a95/) |
 | ❌ | 2024/12/11 | 1-15 | [蓝色星系二号分盟](https://ws.tsl.rocks/corp/40ffb900f40aefc1fa4fddd4d036e0466577312c7fb8e16ae315cd8868015297/) |
 | ✅ | 2024/12/06 | 6-2 | [AlyTec Sys\.](https://ws.tsl.rocks/corp/4f98eeb43077d5c00a32f9810352931d8778fb5b24d8b49c318953d489f07df0/) |
 

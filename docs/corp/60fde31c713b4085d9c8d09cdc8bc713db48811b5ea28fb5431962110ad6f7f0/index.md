@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​星约组织：禁卫之翼
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌
 image: ./favicon.png
-date: 1733831259
+date: 1734583064
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1733831259
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1189 🔻  (606)|
-| ELO Competitive | 1189 🔻  (766)|
-| Total Matches | 1 |
+| ELO Regular | 1172 🔻  (919)|
+| ELO Competitive | 1175 🔻  (1026)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733399259];
+        let timestamps = [1734151064,1733399259];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/19 | 2-15 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ❌ | 2024/12/10 | 2-21 | [Imperium](https://ws.tsl.rocks/corp/9e2ab6b52a6e6684059b31f08966101f380a17c9a782d2a39434093e835fb17d/) |
 
 ---

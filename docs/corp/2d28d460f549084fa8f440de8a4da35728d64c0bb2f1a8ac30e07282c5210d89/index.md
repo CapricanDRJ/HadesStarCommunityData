@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Consortium
-description: W:2 L:3 D:1 Bonus ✅
+description: W:2 L:3 D:1 Bonus ❌
 image: ./favicon.png
 date: 1733958063
 ---
@@ -15,12 +15,12 @@ date: 1733958063
 ```
 
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔺  (768)|
-| ELO Competitive | 1197 🔺  (675)|
+| ELO Regular | 1185 🔺  (767)|
+| ELO Competitive | 1197 🔺  (674)|
 | Total Matches | 6 |
 | Wins | 2 |
 | Losses | 3 |

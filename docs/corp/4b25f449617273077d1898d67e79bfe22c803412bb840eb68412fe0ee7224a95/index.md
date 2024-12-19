@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​国际联盟
-description: W:5 L:4 D:0 Bonus ❌
+description: W:6 L:4 D:0 Bonus ✅
 image: ./favicon.png
-date: 1734099005
+date: 1734589072
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,14 +16,14 @@ date: 1734099005
 欢迎我们的萌新 创造者仙女座 2024年8月9日 分团星系联盟 建设于2024年11月1日<br>分团 银河系星系 成立于2024年11月
 11日    <br>南极星联盟成员             请大家常驻！！！
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1207 🔻  (458)|
-| ELO Competitive | 1232 🔻  (437)|
-| Total Matches | 9 |
-| Wins | 5 |
+| ELO Regular | 1222 🔺  (344)|
+| ELO Competitive | 1246 🔺  (398)|
+| Total Matches | 10 |
+| Wins | 6 |
 | Losses | 4 |
 | Draws | 0 |
 | Streak Record | 2 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733667005,1733231899,1732627291,1732551274,1732028414,1731506451,1730638000,1730014767,1729317604];
+        let timestamps = [1734157072,1733667005,1733231899,1732627291,1732551274,1732028414,1731506451,1730638000,1730014767,1729317604];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/19 | 3-1 | [昙花一现](https://ws.tsl.rocks/corp/f4fd4fa59ab25e2d5c7dbeade6de593918c0902906d810e0f1688ec1133b9510/) |
 | ❌ | 2024/12/13 | 4-9 | [QONQR ](https://ws.tsl.rocks/corp/5e23ade08a63b2c440a6a4c1a9ecfb6b1cfca34523c1a528d075bd06eaf5d019/) |
 | ✅ | 2024/12/08 | 3-0 | [星约组织：基地分团](https://ws.tsl.rocks/corp/65d5754facd0f6a7ee7bd84567ea263d8002e24a754d36c982598d5552b1830b/) |
 | ❌ | 2024/12/01 | 1-8 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
