@@ -19,8 +19,8 @@ War is hell.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1177 🔻  (864)|
-| ELO Competitive | 1183 🔻  (965)|
+| ELO Regular | 1177 🔻  (865)|
+| ELO Competitive | 1183 🔻  (964)|
 | Total Matches | 13 |
 | Wins | 5 |
 | Losses | 8 |

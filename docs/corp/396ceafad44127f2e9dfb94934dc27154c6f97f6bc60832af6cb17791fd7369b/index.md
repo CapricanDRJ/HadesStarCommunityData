@@ -20,8 +20,8 @@ ion. Team focused; total support. Growing fast!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1251 🔺  (247)|
-| ELO Competitive | 1285 🔺  (294)|
+| ELO Regular | 1251 🔺  (248)|
+| ELO Competitive | 1285 🔺  (295)|
 | Total Matches | 22 |
 | Wins | 12 |
 | Losses | 10 |

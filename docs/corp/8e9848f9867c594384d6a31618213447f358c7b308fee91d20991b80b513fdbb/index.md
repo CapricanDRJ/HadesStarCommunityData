@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Albedo
-description: W:34 L:12 D:0 Bonus ✅
+description: W:34 L:12 D:0 Bonus ❌
 image: ./favicon.png
 date: 1734580660
 ---
@@ -16,7 +16,7 @@ date: 1734580660
 Vulnera Virtutem Vivificant
 ```
 ### [Discord](https://discord.gg/aeWKd23QQ5)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

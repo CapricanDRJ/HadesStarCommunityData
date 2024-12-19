@@ -21,7 +21,7 @@ ess. White star participation required
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1284 🔻  (183)|
-| ELO Competitive | 1312 🔻  (243)|
+| ELO Competitive | 1312 🔻  (242)|
 | Total Matches | 26 |
 | Wins | 17 |
 | Losses | 8 |
