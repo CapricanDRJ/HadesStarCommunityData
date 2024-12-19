@@ -21,7 +21,7 @@ Lost in Space...? Dann komm zu uns!
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1174 🔻  (890)|
-| ELO Competitive | 1241 🔻  (414)|
+| ELO Competitive | 1241 🔻  (415)|
 | Total Matches | 29 |
 | Wins | 13 |
 | Losses | 16 |

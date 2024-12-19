@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Mass Effect
-description: W:28 L:26 D:1 Bonus ✅
+description: W:28 L:26 D:1 Bonus ❌
 image: ./favicon.png
 date: 1734594780
 ---
@@ -18,7 +18,7 @@ NO KIDDING : GAMING ONLY!
 
 Just come and play to the rules!
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
