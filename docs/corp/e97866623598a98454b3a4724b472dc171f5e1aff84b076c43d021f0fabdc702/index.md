@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​2ND-R8 Corp.
-description: W:36 L:18 D:1 Bonus ✅
+description: W:36 L:18 D:1 Bonus ❌
 image: ./favicon.png
 date: 1734526868
 ---
@@ -17,7 +17,7 @@ Welcome, be active and have fun.  Daily RS7+. Rs9 @ 2045 EST. opt in
 /out of weekly white stars.
 ```
 ### [Discord](https://discord.gg/pVhwrfFjx3)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

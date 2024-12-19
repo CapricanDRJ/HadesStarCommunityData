@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Red Suns
-description: W:15 L:18 D:0 Bonus ❌
+description: W:15 L:19 D:0 Bonus ❌
 image: ./favicon.png
-date: 1722619785
+date: 1734561434
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ Home to all as long as you are willing to contribute to our growth 🤝
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1181 🔻  (840)|
-| ELO Competitive | 1219 🔻  (489)|
-| Total Matches | 33 |
+| ELO Regular | 1173 🔻  (899)|
+| ELO Competitive | 1214 🔻  (549)|
+| Total Matches | 34 |
 | Wins | 15 |
-| Losses | 18 |
+| Losses | 19 |
 | Draws | 0 |
 | Streak Record | 4 |
 | Flagship | 4 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1722187785,1718388587,1717107668,1715923902,1715296394,1714665506,1714058645,1713150592,1712407807,1711844713,1711278309,1710747107,1710698408,1709996503,1709990492,1709446939,1708856787,1708305387,1707720907,1707108785,1707093462,1706450359,1705974351,1705922957,1705336055,1704658105,1704655399,1704132500,1703644458,1703155298,1702301171,1701789936,1701336423];
+        let timestamps = [1734129434,1722187785,1718388587,1717107668,1715923902,1715296394,1714665506,1714058645,1713150592,1712407807,1711844713,1711278309,1710747107,1710698408,1709996503,1709990492,1709446939,1708856787,1708305387,1707720907,1707108785,1707093462,1706450359,1705974351,1705922957,1705336055,1704658105,1704655399,1704132500,1703644458,1703155298,1702301171,1701789936,1701336423];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/18 | 0-28 | [Warriorlords](https://ws.tsl.rocks/corp/a78c29b9e1c9f793205ba10d796dcabc114ef43d86f0bd34a43a56dc6da768aa/) |
 | ❌ | 2024/08/02 | 3-7 | [ 边域](https://ws.tsl.rocks/corp/b982530486b86a4944af4474183f3fa6aca9db7a2a4195c018930f68d6ede865/) |
 | ✅ | 2024/06/19 | 6-1 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 | ❌ | 2024/06/04 | 1-5 | [Sich\.ua](https://ws.tsl.rocks/corp/9fcd6d7c4fe7f8e39acf48585dfe9c6d3d14edc7781fe8caf85618b3e98c685d/) |
