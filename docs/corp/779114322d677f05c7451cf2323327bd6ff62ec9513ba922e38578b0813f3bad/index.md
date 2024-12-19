@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Red Star
-description: W:4 L:4 D:0 Bonus ✅
+description: W:4 L:4 D:0 Bonus ❌
 image: ./favicon.png
 date: 1734462874
 ---
@@ -15,11 +15,11 @@ date: 1734462874
 ```
 
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1208 🔻  (450)|
+| ELO Regular | 1208 🔻  (451)|
 | ELO Competitive | 1216 🔻  (516)|
 | Total Matches | 8 |
 | Wins | 4 |
