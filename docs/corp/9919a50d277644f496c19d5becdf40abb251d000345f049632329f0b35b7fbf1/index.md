@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Unión latina
-description: W:39 L:27 D:1 Bonus ✅
+description: W:39 L:27 D:1 Bonus ❌
 image: ./favicon.png
 date: 1734453557
 ---
@@ -18,11 +18,11 @@ date: 1734453557
 nirse al grupo de Whatsapp</size></color></b>
 ```
 ### [Discord](https://discord.gg/QDzhmPUe8u)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1315 🔻  (132)|
+| ELO Regular | 1315 🔻  (133)|
 | ELO Competitive | 1407 🔻  (134)|
 | Total Matches | 67 |
 | Wins | 39 |
