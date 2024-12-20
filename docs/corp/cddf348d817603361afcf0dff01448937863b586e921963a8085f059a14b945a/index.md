@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Kobol
-description: W:0 L:1 D:0 Bonus ❌
+description: W:0 L:2 D:0 Bonus ❌
 image: ./favicon.png
-date: 1734696946
+date: 1734702105
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1734696946
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔻  (583)|
+| ELO Regular | 1173 🔻  (904)|
 | ELO Competitive | 1196 🔻  (683)|
-| Total Matches | 1 |
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734264946];
+        let timestamps = [1734270105,1734264946];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/20 | 0-2 | [ 墨痕 ](https://ws.tsl.rocks/corp/1beef0498f07b07217c6e0727dffd066947edc54ee6d09dc63c031def52cdd60/) |
 | ❌ | 2024/12/20 | 18-39 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |
 
 ---

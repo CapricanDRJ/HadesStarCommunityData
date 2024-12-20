@@ -22,7 +22,7 @@ eratists<br><br><color=red>ДС обязателен
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1178 🔺  (859)|
+| ELO Regular | 1178 🔺  (858)|
 | ELO Competitive | 1195 🔺  (693)|
 | Total Matches | 27 |
 | Wins | 11 |
