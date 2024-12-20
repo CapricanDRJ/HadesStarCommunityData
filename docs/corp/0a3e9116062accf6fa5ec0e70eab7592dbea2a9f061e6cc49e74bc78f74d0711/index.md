@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Justice Vengers
-description: W:29 L:5 D:1 Bonus ✅
+description: W:29 L:6 D:1 Bonus ✅
 image: ./favicon.png
-date: 1734282296
+date: 1734715280
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,13 +22,12 @@ date: 1734282296
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1411 🔺  (43)|
-| ELO Competitive | 1478 🔺  (76)|
-| Total Matches | 35 |
+| ELO Regular | 1390 🔻  (61)|
+| ELO Competitive | 1463 🔻  (85)|
+| Total Matches | 36 |
 | Wins | 29 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 1 |
-| Streak | 2 |
 | Streak Record | 9 |
 | Flagship | 6 |
 
@@ -48,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733850296,1733314526,1732563596,1732130884,1731660899,1731197838,1730747387,1730309560,1729851586,1728377799,1727937534,1727937534,1727492491,1727044767,1726610746,1726139435,1725686291,1725173957,1724085523,1722561010,1722024578,1721563289,1721115532,1720666501,1720213310,1719779354,1719345124,1718894948,1717683922,1716419344,1715789304,1714991902,1714411309,1714404998,1700126416];
+        let timestamps = [1734283280,1733850296,1733314526,1732563596,1732130884,1731660899,1731197838,1730747387,1730309560,1729851586,1728377799,1727937534,1727937534,1727492491,1727044767,1726610746,1726139435,1725686291,1725173957,1724085523,1722561010,1722024578,1721563289,1721115532,1720666501,1720213310,1719779354,1719345124,1718894948,1717683922,1716419344,1715789304,1714991902,1714411309,1714404998,1700126416];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -147,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/20 | 13-24 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |
 | ✅ | 2024/12/15 | 41-0 | [Свободный флот](https://ws.tsl.rocks/corp/48fb866b3a51175a06336d9caa1bcace6d2bfb94b0a93974c8be3f54050fc0c6/) |
 | ✅ | 2024/12/09 | 32-0 | [Retarts](https://ws.tsl.rocks/corp/1556331f722d00268e3c524b12efedac51051cf48e46b2513675774b9315a155/) |
 | ❌ | 2024/11/30 | 4-26 | [three kitties](https://ws.tsl.rocks/corp/04ae72b5736fbdc80a2fe9e4c2baaad3258a1e0ef0acc8122295fb64d6b3d292/) |

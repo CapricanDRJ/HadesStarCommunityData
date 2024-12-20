@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​ANZAC Warriors
-description: W:18 L:5 D:1 Bonus ❌
+description: W:19 L:5 D:1 Bonus ✅
 image: ./favicon.png
-date: 1732820403
+date: 1734719187
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,17 +17,17 @@ Soldiers that never give up on the battlefield despite the odds. Grea
 t team atmosphere, regular white/red stars. Active  members join us h
 ttps://discord.com/invite/rmzHUdXef7
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1305 🔺  (147)|
-| ELO Competitive | 1321 🔺  (232)|
-| Total Matches | 24 |
-| Wins | 18 |
+| ELO Regular | 1317 🔺  (133)|
+| ELO Competitive | 1341 🔺  (197)|
+| Total Matches | 25 |
+| Wins | 19 |
 | Losses | 5 |
 | Draws | 1 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 7 |
 | Flagship | 10 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732388403,1730599239,1716152253,1714340402,1710709229,1710105585,1709507945,1708892553,1708311396,1707685455,1707079640,1706477713,1705870375,1705276261,1704664116,1703978039,1703456335,1702845762,1702263006,1701022359,1700460929,1699811982,1699174233,1698695487];
+        let timestamps = [1734287187,1732388403,1730599239,1716152253,1714340402,1710709229,1710105585,1709507945,1708892553,1708311396,1707685455,1707079640,1706477713,1705870375,1705276261,1704664116,1703978039,1703456335,1702845762,1702263006,1701022359,1700460929,1699811982,1699174233,1698695487];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Sith Empire](https://ws.tsl.rocks/corp/7deb3943434ee3aa56bb4c29a0fb0831bcbc4b570a58a2809ea1a549b7df328e/) | 2 | 0 | 0 | 2 |
 | [Hun Generals](https://ws.tsl.rocks/corp/b2de426f7c65dec5fd6e64e3213d7371358bb6758ddf34d8c69da6c4f5de82c6/) | 3 | 0 | 0 | 3 |
 | [Enigma](https://ws.tsl.rocks/corp/d901fe833fb2f84db2321a90a63d0466d4288c8c727fb177afdc6bf2c7c56f25/) | 2 | 0 | 0 | 2 |
 
@@ -142,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/20 | 38-16 | [Sith Empire](https://ws.tsl.rocks/corp/7deb3943434ee3aa56bb4c29a0fb0831bcbc4b570a58a2809ea1a549b7df328e/) |
 | ✅ | 2024/11/28 | 44-15 | [Final](https://ws.tsl.rocks/corp/77270275648d2f188dea5d234a7428073a451ef4bc3cbd1b274a1d65e5f67c68/) |
 | ✅ | 2024/11/08 | 47-0 | [Polaris](https://ws.tsl.rocks/corp/4802fe8a63e61d18eb0407dc5121d8e0e6a81117a7f47998566752e0f8d846f3/) |
 | ❌ | 2024/05/24 | 6-26 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) |
