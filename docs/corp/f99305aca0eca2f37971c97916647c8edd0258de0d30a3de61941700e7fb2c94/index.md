@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Corvus Ind.
-description: W:28 L:9 D:0 Bonus ❌
+description: W:29 L:9 D:0 Bonus ✅
 image: ./favicon.png
-date: 1732327002
+date: 1734723695
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,18 +21,18 @@ Visit us on discord  to join:
 https://discord.gg/ysGrswJTUp
 ```
 ### [Discord](https://discord.gg/vPsNNxs)
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1415 🔺  (41)|
-| ELO Competitive | 1473 🔺  (76)|
-| Total Matches | 37 |
-| Wins | 28 |
+| ELO Regular | 1417 🔺  (39)|
+| ELO Competitive | 1474 🔺  (76)|
+| Total Matches | 38 |
+| Wins | 29 |
 | Losses | 9 |
 | Draws | 0 |
-| Streak | 9 |
-| Streak Record | 9 |
+| Streak | 10 |
+| Streak Record | 10 |
 | Flagship | 5 |
 
 ---
@@ -51,7 +51,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731895002,1729477182,1726495556,1724066888,1721587037,1720983594,1719686494,1719166925,1718565598,1717960501,1716746557,1716174783,1715543241,1714963362,1714319967,1713732584,1712514185,1711915028,1710699911,1710098973,1709487509,1708880532,1708273834,1708111371,1707671629,1707665698,1707073628,1706443746,1705833403,1705228772,1704628046,1704375012,1701631257,1701049109,1701023561,1699820400,1698743281];
+        let timestamps = [1734291695,1731895002,1729477182,1726495556,1724066888,1721587037,1720983594,1719686494,1719166925,1718565598,1717960501,1716746557,1716174783,1715543241,1714963362,1714319967,1713732584,1712514185,1711915028,1710699911,1710098973,1709487509,1708880532,1708273834,1708111371,1707671629,1707665698,1707073628,1706443746,1705833403,1705228772,1704628046,1704375012,1701631257,1701049109,1701023561,1699820400,1698743281];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -138,11 +138,11 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [The X \- Files](https://ws.tsl.rocks/corp/f13cb0ae2dbb0654a2067c8749f86bce49edc5b520bd391c7af11948f23a41fb/) | 3 | 0 | 0 | 3 |
 | [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) | 2 | 0 | 0 | 2 |
 | [Дом Датэ](https://ws.tsl.rocks/corp/10cbcbd91c4084657bdab01ef573cc48170fbc4dd0ab533f96712f1cb6097ff2/) | 2 | 0 | 0 | 2 |
 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 2 | 0 | 0 | 2 |
 | [Looping](https://ws.tsl.rocks/corp/08524086f45f2e6109e583baf940197663aa3e155c32fcdbb04f319343a5eb0c/) | 2 | 0 | 0 | 2 |
-| [The X \- Files](https://ws.tsl.rocks/corp/f13cb0ae2dbb0654a2067c8749f86bce49edc5b520bd391c7af11948f23a41fb/) | 2 | 0 | 0 | 2 |
 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 0 | 2 | 0 | 2 |
 | [OntarioDestiny](https://ws.tsl.rocks/corp/806a86639b93c3a025e026bcedab96052be0e32b712c96217b3d5b330b3f5a6d/) | 2 | 0 | 0 | 2 |
 
@@ -151,6 +151,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/20 | 8-0 | [The X \- Files](https://ws.tsl.rocks/corp/f13cb0ae2dbb0654a2067c8749f86bce49edc5b520bd391c7af11948f23a41fb/) |
 | ✅ | 2024/11/23 | 24-14 | [New Star](https://ws.tsl.rocks/corp/76701c008d6499f16ec942e61adc3d6d80e931ff9407f8281b492789f8fab908/) |
 | ✅ | 2024/10/26 | 39-1 | [Axiom](https://ws.tsl.rocks/corp/4000a010c205d318c766ba14fe1836eaab6652f1738a88cce8a8c69d0283e1b0/) |
 | ✅ | 2024/09/21 | 25-9 | [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) |

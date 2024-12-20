@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​QONQR 
-description: W:10 L:7 D:0 Bonus ✅
+description: W:10 L:7 D:0 Bonus ❌
 image: ./favicon.png
 date: 1734099907
 ---
@@ -18,12 +18,12 @@ eeks of inactivity tolerance =- Joining the corp discord server is no
 t mandatory, but it's much welcome. 
 ```
 ### [Discord](https://discord.gg/A8AucxezBX)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1265 🔻  (215)|
-| ELO Competitive | 1304 🔺  (258)|
+| ELO Competitive | 1304 🔺  (259)|
 | Total Matches | 17 |
 | Wins | 10 |
 | Losses | 7 |
