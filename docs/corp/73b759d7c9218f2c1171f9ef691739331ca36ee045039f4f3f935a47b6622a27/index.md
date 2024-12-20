@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​AAAA
-description: W:15 L:14 D:3 Bonus ✅
+description: W:16 L:14 D:3 Bonus ✅
 image: ./favicon.png
-date: 1734184341
+date: 1734646470
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ date: 1734184341
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1271 🔺  (203)|
-| ELO Competitive | 1318 🔺  (238)|
-| Total Matches | 32 |
-| Wins | 15 |
+| ELO Regular | 1285 🔺  (183)|
+| ELO Competitive | 1333 🔺  (208)|
+| Total Matches | 33 |
+| Wins | 16 |
 | Losses | 14 |
 | Draws | 3 |
+| Streak | 2 |
 | Streak Record | 5 |
 | Flagship | 4 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733752341,1733293197,1732843377,1732392010,1731947588,1731489923,1731057485,1730589926,1730062558,1729612335,1729147807,1728687958,1728226991,1727753979,1727304984,1726836816,1726375938,1725942623,1725428471,1724906805,1724416673,1723698140,1723233853,1722627424,1721784774,1721230334,1720713845,1720059735,1719616476,1718317514,1717863724,1716056105];
+        let timestamps = [1734214470,1733752341,1733293197,1732843377,1732392010,1731947588,1731489923,1731057485,1730589926,1730062558,1729612335,1729147807,1728687958,1728226991,1727753979,1727304984,1726836816,1726375938,1725942623,1725428471,1724906805,1724416673,1723698140,1723233853,1722627424,1721784774,1721230334,1720713845,1720059735,1719616476,1718317514,1717863724,1716056105];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -138,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/19 | 9-0 | [The Allegiant](https://ws.tsl.rocks/corp/1c4cfbcf7902769aff100297d9174153f4c0528ed07918ba494f763a1315ffc6/) |
 | ✅ | 2024/12/14 | 24-0 | [ 墨痕 ](https://ws.tsl.rocks/corp/1beef0498f07b07217c6e0727dffd066947edc54ee6d09dc63c031def52cdd60/) |
 | ❌ | 2024/12/09 | 3-16 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
 | ❌ | 2024/12/04 | 3-5 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |

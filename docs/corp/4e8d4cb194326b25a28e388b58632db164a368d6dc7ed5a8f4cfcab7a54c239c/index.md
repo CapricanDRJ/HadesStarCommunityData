@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Тихий Омут
-description: W:37 L:69 D:3 Bonus ✅
+description: W:37 L:69 D:3 Bonus ❌
 image: ./favicon.png
 date: 1734462874
 ---
@@ -15,7 +15,7 @@ date: 1734462874
 ```
 Only for Russian speakers 🇷🇺
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
