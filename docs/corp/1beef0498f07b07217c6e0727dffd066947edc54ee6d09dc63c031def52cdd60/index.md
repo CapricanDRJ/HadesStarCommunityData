@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​ 墨痕 
-description: W:12 L:21 D:0 Bonus ❌
+description: W:12 L:22 D:0 Bonus ❌
 image: ./favicon.png
-date: 1734184341
+date: 1734693339
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 1734184341
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1132 🔻  (1180)|
-| ELO Competitive | 1229 🔻  (448)|
-| Total Matches | 33 |
+| ELO Regular | 1126 🔻  (1195)|
+| ELO Competitive | 1222 🔻  (476)|
+| Total Matches | 34 |
 | Wins | 12 |
-| Losses | 21 |
+| Losses | 22 |
 | Draws | 0 |
 | Streak Record | 5 |
 | Flagship | 5 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733752341,1733743024,1733182931,1733149918,1732745931,1732710825,1732269698,1732106839,1731745643,1731138623,1730473997,1729929121,1726572482,1724376710,1724210831,1719577106,1705579464,1703515231,1703506816,1703073457,1703066244,1702568659,1702555133,1702099501,1702097396,1701593081,1701494206,1701093884,1700573027,1699963157,1699689930,1699529103,1698843669];
+        let timestamps = [1734261339,1733752341,1733743024,1733182931,1733149918,1732745931,1732710825,1732269698,1732106839,1731745643,1731138623,1730473997,1729929121,1726572482,1724376710,1724210831,1719577106,1705579464,1703515231,1703506816,1703073457,1703066244,1702568659,1702555133,1702099501,1702097396,1701593081,1701494206,1701093884,1700573027,1699963157,1699689930,1699529103,1698843669];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/20 | 0-36 | [Scar](https://ws.tsl.rocks/corp/1fd57b7d50b68cb3883fd58e596f496821ebcc82dee1915bb7f34a402b03c44a/) |
 | ❌ | 2024/12/14 | 0-24 | [AAAA](https://ws.tsl.rocks/corp/73b759d7c9218f2c1171f9ef691739331ca36ee045039f4f3f935a47b6622a27/) |
 | ❌ | 2024/12/14 | 0-44 | [Nearland Ind](https://ws.tsl.rocks/corp/d8104c7dc7af4c8fec4c36c1425f9fe855a195bf4befb2595cad4f8f7bed7ddc/) |
 | ❌ | 2024/12/07 | 0-37 | [BRASIL STAR](https://ws.tsl.rocks/corp/94fc4639f17e4503a11d4ac3878f3203bca3f21baebf285433ff39ad37f0fff2/) |

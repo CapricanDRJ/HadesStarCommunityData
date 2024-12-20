@@ -21,8 +21,8 @@ th.. so plz, a good show of hands & I'll start one 🖐️
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1102 🔻  (1259)|
-| ELO Competitive | 1176 🔻  (1014)|
+| ELO Regular | 1102 🔻  (1260)|
+| ELO Competitive | 1176 🔻  (1015)|
 | Total Matches | 22 |
 | Wins | 7 |
 | Losses | 15 |
