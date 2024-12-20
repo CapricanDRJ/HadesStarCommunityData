@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Dark Halo
-description: W:12 L:7 D:0 Bonus ❌
+description: W:13 L:7 D:0 Bonus ✅
 image: ./favicon.png
-date: 1733729102
+date: 1734660289
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,17 +15,17 @@ date: 1733729102
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1270 🔺  (206)|
-| ELO Competitive | 1309 🔺  (249)|
-| Total Matches | 19 |
-| Wins | 12 |
+| ELO Regular | 1277 🔺  (193)|
+| ELO Competitive | 1316 🔺  (239)|
+| Total Matches | 20 |
+| Wins | 13 |
 | Losses | 7 |
 | Draws | 0 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 7 |
 | Flagship | 3 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733297102,1733291995,1732702410,1732702410,1731890796,1731889294,1731245021,1731244720,1730597436,1729949858,1729304383,1728698473,1727968193,1726966932,1725972971,1725359058,1724848206,1724410963,1723976765];
+        let timestamps = [1734228289,1733297102,1733291995,1732702410,1732702410,1731890796,1731889294,1731245021,1731244720,1730597436,1729949858,1729304383,1728698473,1727968193,1726966932,1725972971,1725359058,1724848206,1724410963,1723976765];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/20 | 17-0 | [StargateCommand](https://ws.tsl.rocks/corp/b378193d0b158ce0513a666f0c19da1599421d036e3fd12c0f287d02cac78ccb/) |
 | ✅ | 2024/12/09 | 1-0 | [OriginsOfQuarks](https://ws.tsl.rocks/corp/4ab8bb29958d1400c427d8f5e25b6f5d5a03088b5d0237177bd58bf6bc0389bf/) |
 | ✅ | 2024/12/09 | 3-1 | [imperio galacti](https://ws.tsl.rocks/corp/53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2/) |
 | ❌ | 2024/12/02 | 1-10 | [Brasil](https://ws.tsl.rocks/corp/c1d98a4e0a9c522aff7cb4156b0dc139eb54566269c2203b2eae6fe1827fc6c3/) |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​StargateCommand
-description: W:0 L:10 D:1 Bonus ❌
+description: W:0 L:11 D:1 Bonus ❌
 image: ./favicon.png
-date: 1733893108
+date: 1734660289
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ FF WS scanner if unable to participate.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1071 🔻  (1298)|
-| ELO Competitive | 1093 🔻  (1319)|
-| Total Matches | 11 |
+| ELO Regular | 1064 🔻  (1306)|
+| ELO Competitive | 1086 🔻  (1324)|
+| Total Matches | 12 |
 | Wins | 0 |
-| Losses | 10 |
+| Losses | 11 |
 | Draws | 1 |
 | Flagship | 2 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733461108,1732835346,1732073188,1731327962,1730684583,1730185155,1729654773,1729148107,1710630785,1706477112,1703601180];
+        let timestamps = [1734228289,1733461108,1732835346,1732073188,1731327962,1730684583,1730185155,1729654773,1729148107,1710630785,1706477112,1703601180];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/20 | 0-17 | [Dark Halo](https://ws.tsl.rocks/corp/f6ed7c780faf133d3fe411b9ed88480608a56064328539891d1b4348242954f6/) |
 | ❌ | 2024/12/11 | 0-3 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) |
 | ❌ | 2024/12/03 | 0-7 | [阿尔特拉太空港](https://ws.tsl.rocks/corp/e534fc2f753336290d411e489dcfbedb0e6e7e5608a9bcaa30edae8638595a9d/) |
 | ❌ | 2024/11/25 | 0-13 | [imperio galacti](https://ws.tsl.rocks/corp/53a1ca8088f875a7b4ba2199b1059595e3034594188eb4717bc045a64e1dcdd2/) |

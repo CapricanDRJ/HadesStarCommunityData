@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Lacuna Ind.
-description: W:8 L:27 D:1 Bonus ✅
+description: W:8 L:27 D:1 Bonus ❌
 image: ./favicon.png
 date: 1734026585
 ---
@@ -20,11 +20,11 @@ RS 5-6 see Lacuna X
 RS 7+ see Lacuna Holdings
 ```
 ### [Discord](https://discord.gg/discord.gg/BFfSkvu)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1066 🔺  (1306)|
+| ELO Regular | 1066 🔺  (1305)|
 | ELO Competitive | 1101 🔺  (1314)|
 | Total Matches | 36 |
 | Wins | 8 |
