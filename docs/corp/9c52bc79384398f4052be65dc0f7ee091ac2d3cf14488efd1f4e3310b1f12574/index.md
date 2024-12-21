@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​FURIA 2.0
-description: W:11 L:19 D:0 Bonus ❌
+description: W:11 L:20 D:0 Bonus ❌
 image: ./favicon.png
-date: 1734309639
+date: 1734768159
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ corpo  tranquille  pour se développer a son rythme et nous assurons 1
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1151 🔻  (1104)|
-| ELO Competitive | 1225 🔻  (469)|
-| Total Matches | 30 |
+| ELO Regular | 1140 🔻  (1151)|
+| ELO Competitive | 1212 🔻  (562)|
+| Total Matches | 31 |
 | Wins | 11 |
-| Losses | 19 |
+| Losses | 20 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 6 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733877639,1733858410,1733403467,1733400161,1732932875,1732920902,1732486372,1732050656,1731618238,1731185216,1730721236,1730280478,1729834160,1729381019,1728937148,1728501627,1727986231,1727464547,1727011406,1726421931,1725738886,1720634643,1719588828,1717133014,1716446679,1715715397,1714870526,1714070887,1699847539,1698835855];
+        let timestamps = [1734336159,1733877639,1733858410,1733403467,1733400161,1732932875,1732920902,1732486372,1732050656,1731618238,1731185216,1730721236,1730280478,1729834160,1729381019,1728937148,1728501627,1727986231,1727464547,1727011406,1726421931,1725738886,1720634643,1719588828,1717133014,1716446679,1715715397,1714870526,1714070887,1699847539,1698835855];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/21 | 8-16 | [Vega Conflict](https://ws.tsl.rocks/corp/396ceafad44127f2e9dfb94934dc27154c6f97f6bc60832af6cb17791fd7369b/) |
 | ❌ | 2024/12/16 | 3-5 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
 | ❌ | 2024/12/15 | 7-32 | [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) |
 | ❌ | 2024/12/10 | 3-35 | [Death Star llc\.](https://ws.tsl.rocks/corp/3dd4906939827fa7537a3e95f8d75948c06b75a98f3c4aab253ea79857d2ce81/) |

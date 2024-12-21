@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Vega Conflict
-description: W:12 L:10 D:0 Bonus ❌
+description: W:13 L:10 D:0 Bonus ✅
 image: ./favicon.png
-date: 1732257279
+date: 1734768159
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,18 +16,18 @@ date: 1732257279
 A home for any new or veteran player who wants to grow their corporat
 ion. Team focused; total support. Growing fast!
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1251 🔺  (247)|
-| ELO Competitive | 1285 🔺  (296)|
-| Total Matches | 22 |
-| Wins | 12 |
+| ELO Regular | 1262 🔺  (223)|
+| ELO Competitive | 1298 🔺  (272)|
+| Total Matches | 23 |
+| Wins | 13 |
 | Losses | 10 |
 | Draws | 0 |
-| Streak | 3 |
-| Streak Record | 3 |
+| Streak | 4 |
+| Streak Record | 4 |
 | Flagship | 6 |
 
 ---
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731825279,1730628683,1729433306,1728810600,1727526747,1725869901,1724725607,1723946373,1722772869,1721565092,1720522241,1719861390,1719272704,1718560788,1715555561,1713763224,1712570071,1711325494,1710759701,1705248610,1702289450,1699897040];
+        let timestamps = [1734336159,1731825279,1730628683,1729433306,1728810600,1727526747,1725869901,1724725607,1723946373,1722772869,1721565092,1720522241,1719861390,1719272704,1718560788,1715555561,1713763224,1712570071,1711325494,1710759701,1705248610,1702289450,1699897040];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/21 | 16-8 | [FURIA 2\.0](https://ws.tsl.rocks/corp/9c52bc79384398f4052be65dc0f7ee091ac2d3cf14488efd1f4e3310b1f12574/) |
 | ✅ | 2024/11/22 | 9-8 | [CTG](https://ws.tsl.rocks/corp/9647a8507dfa5637a217d2d6a0ad47aefb6a4563f910ad46376c228450cff43c/) |
 | ✅ | 2024/11/08 | 21-9 | [Star Destroyers](https://ws.tsl.rocks/corp/32ba20918cd8720602fefb3bc676a6ba5195314479040f70eadc728fbbc2698d/) |
 | ✅ | 2024/10/25 | 18-13 | [INFINITY STAR](https://ws.tsl.rocks/corp/e36eb12fc6bc8e4b826e6bcb46020cad3eb616497c4c14075e8b657715898a9f/) |

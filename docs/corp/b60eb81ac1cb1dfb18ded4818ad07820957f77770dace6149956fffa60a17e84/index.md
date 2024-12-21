@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Nebula alliance
-description: W:5 L:2 D:1 Bonus ✅
+description: W:6 L:2 D:1 Bonus ✅
 image: ./favicon.png
-date: 1734223510
+date: 1734770262
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,14 +21,14 @@ ystems!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1247 🔺  (261)|
-| ELO Competitive | 1252 🔺  (383)|
-| Total Matches | 8 |
-| Wins | 5 |
+| ELO Regular | 1264 🔺  (218)|
+| ELO Competitive | 1269 🔺  (339)|
+| Total Matches | 9 |
+| Wins | 6 |
 | Losses | 2 |
 | Draws | 1 |
-| Streak | 5 |
-| Streak Record | 5 |
+| Streak | 6 |
+| Streak Record | 6 |
 | Flagship | 1 |
 
 ---
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733791510,1732620071,1731720705,1730020430,1729481988,1728955477,1728478238,1727741912];
+        let timestamps = [1734338262,1733791510,1732620071,1731720705,1730020430,1729481988,1728955477,1728478238,1727741912];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/21 | 12-6 | [Equinox](https://ws.tsl.rocks/corp/d6f4702c0a85549d019474868a68ecc1a6c546d73fa31f9336ee639a906ff0fe/) |
 | ✅ | 2024/12/15 | 23-3 | [星际联盟（中国）](https://ws.tsl.rocks/corp/1deb8ab45257a86051f9c285bbbe06652a56d93118d8e442a0a30ddd179f4256/) |
 | ✅ | 2024/12/01 | 13-0 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ✅ | 2024/11/21 | 10-0 | [华夏联盟](https://ws.tsl.rocks/corp/2c648f8c6a0963f1a86b1a1ca787f67c02ee58838a809427b68d3546b89078ac/) |

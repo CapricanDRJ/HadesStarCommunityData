@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​StarControl
-description: W:30 L:12 D:0 Bonus ✅
+description: W:30 L:12 D:0 Bonus ❌
 image: ./favicon.png
 date: 1734144683
 ---
@@ -18,12 +18,12 @@ rs. Discord is required, please join us there before applying in game
 . RS8-11
 ```
 ### [Discord](https://discord.gg/j8wnKvB)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1382 🔺  (67)|
-| ELO Competitive | 1499 🔺  (55)|
+| ELO Regular | 1382 🔺  (66)|
+| ELO Competitive | 1499 🔺  (54)|
 | Total Matches | 42 |
 | Wins | 30 |
 | Losses | 12 |

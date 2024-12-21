@@ -19,7 +19,7 @@ Für Langweiler
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1256 🔺  (233)|
+| ELO Regular | 1256 🔺  (236)|
 | ELO Competitive | 1259 🔺  (364)|
 | Total Matches | 6 |
 | Wins | 5 |

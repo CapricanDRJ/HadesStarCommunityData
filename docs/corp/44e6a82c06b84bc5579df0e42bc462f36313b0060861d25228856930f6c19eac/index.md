@@ -20,8 +20,8 @@ Todoas las personas que puedan hablar español esta permitido aqui nos
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1209 🔻  (446)|
-| ELO Competitive | 1219 🔻  (497)|
+| ELO Regular | 1209 🔻  (445)|
+| ELO Competitive | 1219 🔻  (496)|
 | Total Matches | 12 |
 | Wins | 7 |
 | Losses | 5 |
