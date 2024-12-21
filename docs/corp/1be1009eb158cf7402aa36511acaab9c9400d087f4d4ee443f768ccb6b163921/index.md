@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​红日初升，其道大光
-description: W:26 L:9 D:0 Bonus ✅
+description: W:26 L:9 D:0 Bonus ❌
 image: ./favicon.png
 date: 1734182237
 ---
@@ -17,7 +17,7 @@ date: 1734182237
 rater T、阿尔特拉太空港。 <color=red>分团：物竞天择，适者生存</color>。<color=orange>南极星联盟成
 员</color>踢红点，由bria成立于2024.7.1
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

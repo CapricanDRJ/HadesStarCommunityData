@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Planet Express
-description: W:11 L:4 D:1 Bonus ✅
+description: W:11 L:4 D:1 Bonus ❌
 image: ./favicon.png
 date: 1734181335
 ---
@@ -18,7 +18,7 @@ laxyNova (Aïres) und Hexwood (Krakawski). Neulinge wie Profis sind he
 rzlich willkommen! Wir fliegen täglich RR und regelmäßig WZ.
 ```
 ### [Discord](https://discord.gg/rX4AFRfyPX)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

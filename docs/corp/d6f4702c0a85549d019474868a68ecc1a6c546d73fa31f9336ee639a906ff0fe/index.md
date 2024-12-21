@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Equinox
-description: W:7 L:1 D:0 Bonus ✅
+description: W:7 L:1 D:0 Bonus ❌
 image: ./favicon.png
 date: 1734770262
 ---
@@ -17,7 +17,7 @@ Totally new corporation. Your experience or level is unimportant.  It
 's your commitment to grow and become stronger that is paramount. No 
 deadline though. We all do what we do when we do it...
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

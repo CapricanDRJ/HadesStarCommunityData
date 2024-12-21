@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Space Penguins
-description: W:50 L:18 D:0 Bonus ✅
+description: W:50 L:18 D:0 Bonus ❌
 image: ./favicon.png
 date: 1734774168
 ---
@@ -23,12 +23,12 @@ Recruiting rs9-rs11
 Discord: asheRjW
 ```
 ### [Discord](https://discord.gg/asheRjW)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1380 🔻  (68)|
-| ELO Competitive | 1489 🔻  (60)|
+| ELO Competitive | 1489 🔻  (62)|
 | Total Matches | 68 |
 | Wins | 50 |
 | Losses | 18 |
