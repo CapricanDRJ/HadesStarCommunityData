@@ -23,7 +23,7 @@ rp. Come and join a fun loving and chill family like team! Welcome to
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1096 🔺  (1269)|
-| ELO Competitive | 1295 🔺  (276)|
+| ELO Competitive | 1295 🔺  (275)|
 | Total Matches | 75 |
 | Wins | 28 |
 | Losses | 46 |
