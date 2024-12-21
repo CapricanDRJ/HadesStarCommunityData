@@ -20,7 +20,7 @@ l.  PG-13 chat. Must be able to communicate in English.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 990 🔻  (1340)|
+| ELO Regular | 990 🔻  (1341)|
 | ELO Competitive | 1055 🔻  (1343)|
 | Total Matches | 57 |
 | Wins | 10 |

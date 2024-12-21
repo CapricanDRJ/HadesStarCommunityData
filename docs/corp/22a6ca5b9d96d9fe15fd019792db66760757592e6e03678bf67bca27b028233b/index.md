@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​АарнСарт 
-description: W:2 L:0 D:0 Bonus ✅
+description: W:3 L:0 D:0 Bonus ✅
 image: ./favicon.png
-date: 1734171119
+date: 1734752838
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 1734171119
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1234 🔺  (302)|
-| ELO Competitive | 1245 🔺  (403)|
-| Total Matches | 2 |
-| Wins | 2 |
+| ELO Regular | 1253 🔺  (242)|
+| ELO Competitive | 1270 🔺  (330)|
+| Total Matches | 3 |
+| Wins | 3 |
 | Losses | 0 |
 | Draws | 0 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733739119,1733120725];
+        let timestamps = [1734320838,1733739119,1733120725];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/21 | 34-0 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) |
 | ✅ | 2024/12/14 | 29-3 | [The Allegiant](https://ws.tsl.rocks/corp/1c4cfbcf7902769aff100297d9174153f4c0528ed07918ba494f763a1315ffc6/) |
 | ✅ | 2024/12/07 | 27-0 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
 

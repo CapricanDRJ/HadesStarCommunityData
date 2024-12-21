@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Sentencia
-description: W:20 L:4 D:0 Bonus ❌
+description: W:21 L:4 D:0 Bonus ✅
 image: ./favicon.png
-date: 1733906978
+date: 1734757344
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,17 +17,17 @@ date: 1733906978
 e=50><b>Enterrados <color=red><b>200.000 $ </color></b>en Sad Hill.<b
 r><b>En La tumba sin nombre junto a la de Arch Stanton.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1401 🔺  (53)|
-| ELO Competitive | 1443 🔺  (96)|
-| Total Matches | 24 |
-| Wins | 20 |
+| ELO Regular | 1407 🔺  (48)|
+| ELO Competitive | 1451 🔺  (93)|
+| Total Matches | 25 |
+| Wins | 21 |
 | Losses | 4 |
 | Draws | 0 |
-| Streak | 5 |
+| Streak | 6 |
 | Streak Record | 8 |
 | Flagship | 7 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733474978,1731312338,1729038121,1728350160,1727429379,1725975075,1725149058,1723627221,1722818853,1720130371,1718414732,1716477923,1715025558,1714234934,1713652665,1713211592,1712438461,1711979328,1710759701,1709396461,1706320537,1705874883,1705361003,1704365995];
+        let timestamps = [1734325344,1733474978,1731312338,1729038121,1728350160,1727429379,1725975075,1725149058,1723627221,1722818853,1720130371,1718414732,1716477923,1715025558,1714234934,1713652665,1713211592,1712438461,1711979328,1710759701,1709396461,1706320537,1705874883,1705361003,1704365995];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/21 | 48-0 | [Sternenflotte](https://ws.tsl.rocks/corp/6273be8c33cae6938fe5608aa5cf5a78e740f71dd888477b437e47ec106c0a0d/) |
 | ✅ | 2024/12/11 | 21-17 | [OPA](https://ws.tsl.rocks/corp/e80002cbc38034342376acee2274117d3b6150fce2d47bbd1dbf75cd06d8e258/) |
 | ✅ | 2024/11/16 | 55-7 | [Ещё один Миф](https://ws.tsl.rocks/corp/b091930b1e7a5540c2cfaa75d184dc82314a1248bbd6e4daae0867f3f248a19f/) |
 | ✅ | 2024/10/21 | 21-3 | [BRhue](https://ws.tsl.rocks/corp/cf382c812409b617906f693517aebeee55e827f37c20a515ff23810e49d6310d/) |
