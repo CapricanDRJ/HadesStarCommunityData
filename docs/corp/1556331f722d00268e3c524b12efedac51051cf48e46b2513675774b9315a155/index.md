@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Retarts
-description: W:24 L:35 D:2 Bonus ❌
+description: W:24 L:36 D:2 Bonus ❌
 image: ./favicon.png
-date: 1734253147
+date: 1734792800
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ trại trú ẩn đồng hương thất lạc
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1151 🔻  (1102)|
-| ELO Competitive | 1313 🔻  (244)|
-| Total Matches | 61 |
+| ELO Regular | 1146 🔻  (1124)|
+| ELO Competitive | 1306 🔻  (258)|
+| Total Matches | 62 |
 | Wins | 24 |
-| Losses | 35 |
+| Losses | 36 |
 | Draws | 2 |
 | Streak Record | 7 |
 | Flagship | 7 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733821147,1733819945,1733314526,1733300106,1732468339,1732446997,1731809656,1731767583,1731306930,1730787950,1730784044,1729500616,1729492805,1728540991,1727924313,1727876832,1727196807,1726653403,1726570679,1725350946,1725347942,1724319010,1724311798,1723566524,1723535267,1722929140,1722929139,1722325114,1722322710,1721631209,1721629105,1721124848,1721115532,1720524346,1720513227,1720017055,1719989104,1719487557,1718956547,1718436367,1717917816,1717350621,1717340399,1715908882,1715908281,1714724394,1714156815,1713691717,1713259062,1712806542,1712325175,1711771692,1711189662,1710739272,1710130220,1709567998,1708924099,1708919592,1708319507,1708318306,1698718336];
+        let timestamps = [1734360800,1733821147,1733819945,1733314526,1733300106,1732468339,1732446997,1731809656,1731767583,1731306930,1730787950,1730784044,1729500616,1729492805,1728540991,1727924313,1727876832,1727196807,1726653403,1726570679,1725350946,1725347942,1724319010,1724311798,1723566524,1723535267,1722929140,1722929139,1722325114,1722322710,1721631209,1721629105,1721124848,1721115532,1720524346,1720513227,1720017055,1719989104,1719487557,1718956547,1718436367,1717917816,1717350621,1717340399,1715908882,1715908281,1714724394,1714156815,1713691717,1713259062,1712806542,1712325175,1711771692,1711189662,1710739272,1710130220,1709567998,1708924099,1708919592,1708319507,1708318306,1698718336];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) | 0 | 2 | 0 | 2 |
 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) | 1 | 1 | 0 | 2 |
 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) | 0 | 2 | 0 | 2 |
 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) | 0 | 2 | 0 | 2 |
@@ -147,6 +148,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/21 | 0-50 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) |
 | ❌ | 2024/12/15 | 0-21 | [六大天神](https://ws.tsl.rocks/corp/28f06b2ed8c2d55fe437095ed09cf6559986f0bb3ea5ff99509341b5dbf04d65/) |
 | ❌ | 2024/12/15 | 0-52 | [Omega Alpha](https://ws.tsl.rocks/corp/b6e23a3f1f3a3c735c694624b273dcd7da2f8bd13a5ac2b36a8ad39737b1d062/) |
 | ❌ | 2024/12/09 | 0-32 | [Justice Vengers](https://ws.tsl.rocks/corp/0a3e9116062accf6fa5ec0e70eab7592dbea2a9f061e6cc49e74bc78f74d0711/) |

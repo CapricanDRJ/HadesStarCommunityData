@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​QONQR 
-description: W:10 L:7 D:0 Bonus ❌
+description: W:11 L:7 D:0 Bonus ✅
 image: ./favicon.png
-date: 1734099907
+date: 1734794604
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ eeks of inactivity tolerance =- Joining the corp discord server is no
 t mandatory, but it's much welcome. 
 ```
 ### [Discord](https://discord.gg/A8AucxezBX)
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1265 🔻  (216)|
-| ELO Competitive | 1304 🔺  (259)|
-| Total Matches | 17 |
-| Wins | 10 |
+| ELO Regular | 1276 🔺  (194)|
+| ELO Competitive | 1315 🔺  (242)|
+| Total Matches | 18 |
+| Wins | 11 |
 | Losses | 7 |
 | Draws | 0 |
 | Streak Record | 6 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733667907,1733667005,1732759827,1732132087,1732122168,1731595995,1731589684,1731070105,1730555063,1730555063,1729658077,1729154116,1728620632,1728129282,1727579126,1726735857,1725451004];
+        let timestamps = [1734362604,1733667907,1733667005,1732759827,1732132087,1732122168,1731595995,1731589684,1731070105,1730555063,1730555063,1729658077,1729154116,1728620632,1728129282,1727579126,1726735857,1725451004];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/21 | 16-10 | [Polaris Corpo](https://ws.tsl.rocks/corp/918db816bc1bb29c5cb1854a5a67b1b240f8835af6f1e584db7fb7070884e346/) |
 | ❌ | 2024/12/13 | 2-17 | [Kelebra](https://ws.tsl.rocks/corp/0b1ce787fadd83433c02fb7f56a905ea64f918c1396ac37b8591891adf232eb6/) |
 | ✅ | 2024/12/13 | 9-4 | [国际联盟](https://ws.tsl.rocks/corp/4b25f449617273077d1898d67e79bfe22c803412bb840eb68412fe0ee7224a95/) |
 | ✅ | 2024/12/03 | 10-7 | [荣耀之星](https://ws.tsl.rocks/corp/4334fd4d4ffbc89487deaec7bb38025aba46209b810578436882be271fdbff23/) |

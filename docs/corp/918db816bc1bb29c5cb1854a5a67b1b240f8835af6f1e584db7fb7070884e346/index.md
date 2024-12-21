@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Polaris Corpo
-description: W:7 L:6 D:0 Bonus ❌
+description: W:7 L:7 D:0 Bonus ❌
 image: ./favicon.png
-date: 1734273580
+date: 1734794604
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,11 +25,11 @@ date: 1734273580
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1190 🔻  (589)|
-| ELO Competitive | 1209 🔻  (593)|
-| Total Matches | 13 |
+| ELO Regular | 1178 🔻  (852)|
+| ELO Competitive | 1198 🔻  (670)|
+| Total Matches | 14 |
 | Wins | 7 |
-| Losses | 6 |
+| Losses | 7 |
 | Draws | 0 |
 | Streak Record | 5 |
 | Flagship | 6 |
@@ -50,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733841580,1732448199,1731322853,1720002626,1718353868,1712489838,1711372360,1709646454,1708519034,1706899330,1702040289,1701444015,1700310349];
+        let timestamps = [1734362604,1733841580,1732448199,1731322853,1720002626,1718353868,1712489838,1711372360,1709646454,1708519034,1706899330,1702040289,1701444015,1700310349];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -144,6 +144,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/21 | 10-16 | [QONQR ](https://ws.tsl.rocks/corp/5e23ade08a63b2c440a6a4c1a9ecfb6b1cfca34523c1a528d075bd06eaf5d019/) |
 | ❌ | 2024/12/15 | 7-23 | [Бороская Имерия](https://ws.tsl.rocks/corp/13a4b881c81a63721b98078aeed9b4970eae55034b2a55cb345dc7a8fb2ff541/) |
 | ❌ | 2024/11/29 | 1-32 | [UFO](https://ws.tsl.rocks/corp/920537bbdadc8e0f3ba0a5bf70b777bf8ca14cde8723f0364eb0a6c3a93eb685/) |
 | ❌ | 2024/11/16 | 7-15 | [Вселенские 40%](https://ws.tsl.rocks/corp/963d73346ebb929607f54404f481ac2273b4f483915b93144d0757b066a1fd99/) |
