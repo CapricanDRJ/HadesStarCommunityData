@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Галактика Зла
-description: W:20 L:20 D:0 Bonus ✅
+description: W:20 L:20 D:0 Bonus ❌
 image: ./favicon.png
 date: 1734724296
 ---
@@ -18,7 +18,7 @@ date: 1734724296
 iscord.com/invite/y2m2V3WYtr
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/y2m2V3WYtr)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

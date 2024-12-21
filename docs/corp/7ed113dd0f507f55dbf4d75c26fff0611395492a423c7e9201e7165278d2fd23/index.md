@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Panda clan 
-description: W:3 L:3 D:0 Bonus ❌
+description: W:4 L:3 D:0 Bonus ✅
 image: ./favicon.png
-date: 1732666549
+date: 1734742926
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,18 +19,18 @@ date: 1732666549
 OA's Discord: https://discord.gg/2wyNuxb
 ```
 ### [Discord](https://discord.gg/ZhF2Npys6N)
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1214 🔺  (411)|
-| ELO Competitive | 1219 🔺  (497)|
-| Total Matches | 6 |
-| Wins | 3 |
+| ELO Regular | 1228 🔺  (321)|
+| ELO Competitive | 1233 🔺  (438)|
+| Total Matches | 7 |
+| Wins | 4 |
 | Losses | 3 |
 | Draws | 0 |
-| Streak | 3 |
-| Streak Record | 3 |
+| Streak | 4 |
+| Streak Record | 4 |
 | Flagship | 5 |
 
 ---
@@ -49,7 +49,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732234549,1716643472,1712531315,1708916588,1706480719,1704603403];
+        let timestamps = [1734310926,1732234549,1716643472,1712531315,1708916588,1706480719,1704603403];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/21 | 41-0 | [Dragon Army](https://ws.tsl.rocks/corp/ee3fff709365ccfb06bdfd7f5af11e78c0b3dba860210acdb459b7d2d0657cc8/) |
 | ✅ | 2024/11/27 | 36-1 | [Alpaca Haven](https://ws.tsl.rocks/corp/e93a2f2efda24a65c8ee7eb57fbb269e19b2b1c28a67c6c7c3339b8c90f7726b/) |
 | ✅ | 2024/05/30 | 35-5 | [Scar](https://ws.tsl.rocks/corp/1fd57b7d50b68cb3883fd58e596f496821ebcc82dee1915bb7f34a402b03c44a/) |
 | ✅ | 2024/04/12 | 19-0 | [BRASIL STAR](https://ws.tsl.rocks/corp/94fc4639f17e4503a11d4ac3878f3203bca3f21baebf285433ff39ad37f0fff2/) |
