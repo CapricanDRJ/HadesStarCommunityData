@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Últimafronteira
-description: W:18 L:1 D:0 Bonus ✅
+description: W:19 L:1 D:0 Bonus ✅
 image: ./favicon.png
-date: 1734293716
+date: 1734886848
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,12 +21,13 @@ tes são bem vindos! Virtus Unita Fortior.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1388 🔺  (65)|
-| ELO Competitive | 1423 🔺  (114)|
-| Total Matches | 19 |
-| Wins | 18 |
+| ELO Regular | 1405 🔺  (50)|
+| ELO Competitive | 1441 🔺  (101)|
+| Total Matches | 20 |
+| Wins | 19 |
 | Losses | 1 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 17 |
 | Flagship | 4 |
 
@@ -46,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733861716,1733392950,1731581570,1730982062,1730418641,1729770155,1727959474,1727345843,1726748176,1725573311,1724483991,1723845994,1721961171,1721344524,1718508192,1718062679,1718062379,1717610294,1716578864];
+        let timestamps = [1734454848,1733861716,1733392950,1731581570,1730982062,1730418641,1729770155,1727959474,1727345843,1726748176,1725573311,1724483991,1723845994,1721961171,1721344524,1718508192,1718062679,1718062379,1717610294,1716578864];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/22 | 29-3 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
 | ✅ | 2024/12/15 | 31-5 | [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) |
 | ❌ | 2024/12/10 | 7-15 | [星河绮梦](https://ws.tsl.rocks/corp/ec0d7f12f69610e8f68f4ea0af9698755a0a1435e0845c27c47fcbec0b1b672a/) |
 | ✅ | 2024/11/19 | 43-0 | [Серебряная орда](https://ws.tsl.rocks/corp/8d4aad97eccabbf26608245f090064005878474e1712d6b08f7328df6075450d/) |

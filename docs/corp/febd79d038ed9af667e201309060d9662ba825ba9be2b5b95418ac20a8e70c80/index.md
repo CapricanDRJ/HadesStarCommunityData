@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Ark
-description: W:58 L:17 D:1 Bonus ✅
+description: W:58 L:17 D:1 Bonus ❌
 image: ./favicon.png
 date: 1734857397
 ---
@@ -21,11 +21,11 @@ Wir sind die Ark. Ob Pro oder Noob bei uns ist jeder willkommen.
 Discord ist erwünscht, aber keine Pflicht.
 ```
 ### [Discord](https://discord.gg/kPuseCu4RE)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1395 🔻  (55)|
+| ELO Regular | 1395 🔻  (56)|
 | ELO Competitive | 1519 🔻  (44)|
 | Total Matches | 76 |
 | Wins | 58 |
