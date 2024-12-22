@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​YETI Collective
-description: W:22 L:48 D:0 Bonus ✅
+description: W:22 L:48 D:0 Bonus ❌
 image: ./favicon.png
 date: 1734842377
 ---
@@ -21,7 +21,7 @@ DC : tqSz2DCJZ8
 
 ```
 ### [Discord](https://discord.gg/tqSz2DCJZ8)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
