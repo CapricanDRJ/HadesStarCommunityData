@@ -22,7 +22,7 @@ r of our corp. https://discord.gg/jUQReQtRJN
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1377 🔺  (72)|
+| ELO Regular | 1377 🔺  (71)|
 | ELO Competitive | 1524 🔺  (40)|
 | Total Matches | 73 |
 | Wins | 44 |
