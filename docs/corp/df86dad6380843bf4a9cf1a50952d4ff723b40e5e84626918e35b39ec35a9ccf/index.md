@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​corporacion I.A
-description: W:1 L:5 D:0 Bonus ❌
+description: W:1 L:6 D:0 Bonus ❌
 image: ./favicon.png
-date: 1734383253
+date: 1734829460
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ erio Pendejico- Discord: https://discord.com/invite/fRfYczjyuD
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1161 🔻  (1032)|
-| ELO Competitive | 1167 🔻  (1121)|
-| Total Matches | 6 |
+| ELO Regular | 1149 🔻  (1109)|
+| ELO Competitive | 1155 🔻  (1200)|
+| Total Matches | 7 |
 | Wins | 1 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 0 |
 | Flagship | 3 |
 
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733951253,1733285385,1732579558,1731922922,1724283856,1710215550];
+        let timestamps = [1734397460,1733951253,1733285385,1732579558,1731922922,1724283856,1710215550];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/22 | 0-16 | [Blazing Stars](https://ws.tsl.rocks/corp/f1c390fb4786da2cb59b7b39519a0ecf6022d4ba017d407af5286aa056682aff/) |
 | ❌ | 2024/12/16 | 0-15 | [星落苑](https://ws.tsl.rocks/corp/6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c/) |
 | ❌ | 2024/12/09 | 0-25 | [ITALIA](https://ws.tsl.rocks/corp/50983e789fe433b3974f5e28fe71a160d7d15afecfc7f2b89595a1a52391fda2/) |
 | ✅ | 2024/12/01 | 3-0 | [Uniones](https://ws.tsl.rocks/corp/9e4f39f6ed94be4c0af3fd6132fb2b757679ee938f7d6faa2ca50fea9f90f443/) |

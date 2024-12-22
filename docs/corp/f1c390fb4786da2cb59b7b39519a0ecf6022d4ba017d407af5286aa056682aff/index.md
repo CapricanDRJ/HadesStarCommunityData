@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Blazing Stars
-description: W:3 L:1 D:1 Bonus ✅
+description: W:4 L:1 D:1 Bonus ✅
 image: ./favicon.png
-date: 1734307537
+date: 1734829460
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,10 +22,10 @@ e Hades Galaxy. Join us and have fun
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1226 🔻  (330)|
-| ELO Competitive | 1248 🔺  (398)|
-| Total Matches | 5 |
-| Wins | 3 |
+| ELO Regular | 1238 🔺  (288)|
+| ELO Competitive | 1259 🔺  (364)|
+| Total Matches | 6 |
+| Wins | 4 |
 | Losses | 1 |
 | Draws | 1 |
 | Streak Record | 3 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733875537,1733834367,1733039129,1732682281,1732592440];
+        let timestamps = [1734397460,1733875537,1733834367,1733039129,1732682281,1732592440];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/22 | 16-0 | [corporacion I\.A](https://ws.tsl.rocks/corp/df86dad6380843bf4a9cf1a50952d4ff723b40e5e84626918e35b39ec35a9ccf/) |
 | ↔️ | 2024/12/16 | 0-0 | [BlackDawn](https://ws.tsl.rocks/corp/b12d5631f98a29cefd5c3fbacb19307ed0e64d58b58eb768856e5a22434676d9/) |
 | ✅ | 2024/12/15 | 11-0 | [物竞天择，适者生存](https://ws.tsl.rocks/corp/37d348d8b1c6a4ff8594f28196a593a0ba8fb565b62b6bbcc6dae46c2de660cf/) |
 | ✅ | 2024/12/06 | 6-4 | [FoxTale](https://ws.tsl.rocks/corp/5c64a00667d690f695d9dd90c073b5113f126e33cbdaa03a3c3e62ceca843b2c/) |
