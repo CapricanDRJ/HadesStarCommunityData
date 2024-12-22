@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Lacuna Ind.
-description: W:8 L:27 D:1 Bonus ❌
+description: W:9 L:27 D:1 Bonus ✅
 image: ./favicon.png
-date: 1734026585
+date: 1734842377
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,16 +20,17 @@ RS 5-6 see Lacuna X
 RS 7+ see Lacuna Holdings
 ```
 ### [Discord](https://discord.gg/discord.gg/BFfSkvu)
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1066 🔺  (1306)|
-| ELO Competitive | 1101 🔺  (1316)|
-| Total Matches | 36 |
-| Wins | 8 |
+| ELO Regular | 1080 🔺  (1290)|
+| ELO Competitive | 1118 🔺  (1296)|
+| Total Matches | 37 |
+| Wins | 9 |
 | Losses | 27 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 3 |
 | Flagship | 7 |
 
@@ -49,7 +50,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733594585,1730544844,1729947453,1729342548,1728896265,1728323717,1727682403,1727027637,1726314024,1725822731,1723996568,1723289445,1720983594,1715551956,1714304036,1713628926,1712457988,1711740441,1711130168,1710677069,1709955036,1709346277,1708783469,1708094432,1707510414,1707016226,1706301005,1705694566,1703990359,1703231236,1702763413,1702117532,1701388120,1700908739,1700236716,1699704962];
+        let timestamps = [1734410377,1733594585,1730544844,1729947453,1729342548,1728896265,1728323717,1727682403,1727027637,1726314024,1725822731,1723996568,1723289445,1720983594,1715551956,1714304036,1713628926,1712457988,1711740441,1711130168,1710677069,1709955036,1709346277,1708783469,1708094432,1707510414,1707016226,1706301005,1705694566,1703990359,1703231236,1702763413,1702117532,1701388120,1700908739,1700236716,1699704962];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -146,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/22 | 23-20 | [YETI Collective](https://ws.tsl.rocks/corp/ff6a3c65d008d245f003a3009374e26cf38e7cda6ea4d601a9da9037296fda98/) |
 | ✅ | 2024/12/12 | 37-12 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
 | ❌ | 2024/11/07 | 13-25 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) |
 | ❌ | 2024/10/31 | 9-48 | [White Dwarf](https://ws.tsl.rocks/corp/02293e0ec2e4f96dcdcf4551de1cfa6a278a4c53ac62e80c4212912fa4eda15b/) |
