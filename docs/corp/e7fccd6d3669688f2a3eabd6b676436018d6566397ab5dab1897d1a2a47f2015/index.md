@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​UKR Spase
-description: W:32 L:15 D:0 Bonus ❌
+description: W:33 L:16 D:0 Bonus ✅
 image: ./favicon.png
-date: 1734347789
+date: 1734863706
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,15 +19,15 @@ date: 1734347789
 Спілкуємося в ТГ, пишіть @AleshaSun, щоб додав до групи
 ```
 ### [Discord](https://discord.gg/dppJFm6)
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1367 🔻  (77)|
-| ELO Competitive | 1479 🔻  (74)|
-| Total Matches | 47 |
-| Wins | 32 |
-| Losses | 15 |
+| ELO Regular | 1363 🔻  (83)|
+| ELO Competitive | 1487 🔺  (66)|
+| Total Matches | 49 |
+| Wins | 33 |
+| Losses | 16 |
 | Draws | 0 |
 | Streak Record | 7 |
 | Flagship | 10 |
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733915789,1733738518,1733477081,1733221983,1732976190,1732703011,1732532639,1732187367,1732015491,1731661800,1731498937,1731154325,1730970342,1730631388,1730116339,1729414973,1728896265,1728377799,1727779768,1727257797,1726564670,1726045386,1725357856,1723791898,1723186969,1722505415,1720259585,1719559979,1718625089,1717919620,1717317550,1716623938,1714547423,1713599778,1712917110,1712127761,1711351929,1710497076,1709635937,1709111604,1708075199,1707470446,1706774616,1706173583,1704838715,1700917756,1699210594];
+        let timestamps = [1734431706,1734429603,1733915789,1733738518,1733477081,1733221983,1732976190,1732703011,1732532639,1732187367,1732015491,1731661800,1731498937,1731154325,1730970342,1730631388,1730116339,1729414973,1728896265,1728377799,1727779768,1727257797,1726564670,1726045386,1725357856,1723791898,1723186969,1722505415,1720259585,1719559979,1718625089,1717919620,1717317550,1716623938,1714547423,1713599778,1712917110,1712127761,1711351929,1710497076,1709635937,1709111604,1708075199,1707470446,1706774616,1706173583,1704838715,1700917756,1699210594];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -146,6 +146,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/22 | 3-29 | [OntarioDawn](https://ws.tsl.rocks/corp/1a002c71f3aba5da5918941fa2ba4dbbfc183ad52d97d44a25718e07e6b08a03/) |
+| ✅ | 2024/12/22 | 47-9 | [On en a Gros \! ](https://ws.tsl.rocks/corp/eee919ee67cd5b7eb62548219cd7981660ab85d08ab0fe23b83f1849ca6cf8c6/) |
 | ❌ | 2024/12/16 | 3-29 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ❌ | 2024/12/14 | 30-46 | [Hellfire Club](https://ws.tsl.rocks/corp/c7836cb5499149d8631d0f49b7e91f08f0cf47c3bd10a9492ad6a3f7c25d7eab/) |
 | ✅ | 2024/12/11 | 30-4 | [Pyke Syndicate](https://ws.tsl.rocks/corp/1761635d6aaf9c2caf7abc37130e2d9aa48e7b4cc753ae4b701fde4b48abd3e1/) |
