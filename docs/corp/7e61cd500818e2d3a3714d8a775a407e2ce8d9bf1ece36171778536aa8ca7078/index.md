@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​新星汇聚
-description: W:3 L:2 D:0 Bonus ❌
+description: W:3 L:3 D:0 Bonus ❌
 image: ./favicon.png
-date: 1733996825
+date: 1734879635
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ date: 1733996825
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1207 🔻  (453)|
-| ELO Competitive | 1212 🔻  (566)|
-| Total Matches | 5 |
+| ELO Regular | 1196 🔻  (537)|
+| ELO Competitive | 1207 🔻  (594)|
+| Total Matches | 6 |
 | Wins | 3 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 3 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733564825,1732315701,1731682235,1730134676,1727844979];
+        let timestamps = [1734447635,1733564825,1732315701,1731682235,1730134676,1727844979];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/22 | 3-16 | [WSC\(no DISCORD\)](https://ws.tsl.rocks/corp/d15ca51c4f5ca0bf259101e7243117d8270dd8f264ecd4a7f6f694d2b98c7919/) |
 | ❌ | 2024/12/12 | 0-14 | [ℬlackStar Order](https://ws.tsl.rocks/corp/03620dd2b01d0a0c2c7b03cb570214cd6c5872eb043bac01dcadeb6244f8d861/) |
 | ✅ | 2024/11/27 | 8-2 | [银河护卫队](https://ws.tsl.rocks/corp/e522df7ad34eabee08393efb864d53bdc897d0ad187170616d6ef924df5c7267/) |
 | ❌ | 2024/11/20 | 0-17 | [Corp\. Luminá](https://ws.tsl.rocks/corp/a90638cb4761b5ed889376762f6612c65407072ac9befa4530989c338be72862/) |

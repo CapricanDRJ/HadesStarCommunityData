@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Hinterm Mond
-description: W:64 L:44 D:0 Bonus ✅
+description: W:64 L:44 D:0 Bonus ❌
 image: ./favicon.png
 date: 1734806324
 ---
@@ -18,11 +18,11 @@ ausschließlich über unseren Discord-Bot anmelden /  External RS pilot
 s please register exclusively via our Discord bot 🙂
 ```
 ### [Discord](https://discord.gg/SK46885)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1286 🔻  (180)|
+| ELO Regular | 1286 🔻  (179)|
 | ELO Competitive | 1571 🔻  (26)|
 | Total Matches | 108 |
 | Wins | 64 |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Duchy Arrakis
-description: W:31 L:14 D:0 Bonus ✅
+description: W:32 L:14 D:0 Bonus ✅
 image: ./favicon.png
-date: 1734256752
+date: 1734878734
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,13 +21,13 @@ cię z naszym otoczeniem. Przyjazna atmosfera i pomoc. https://discord
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1370 🔺  (74)|
-| ELO Competitive | 1437 🔺  (101)|
-| Total Matches | 45 |
-| Wins | 31 |
+| ELO Regular | 1382 🔺  (66)|
+| ELO Competitive | 1458 🔺  (89)|
+| Total Matches | 46 |
+| Wins | 32 |
 | Losses | 14 |
 | Draws | 0 |
-| Streak | 3 |
+| Streak | 4 |
 | Streak Record | 8 |
 | Flagship | 9 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733824752,1733067844,1732550071,1731930755,1731315642,1730712822,1730116640,1729496710,1728924221,1728380503,1727688112,1727094037,1726476022,1725265309,1724661897,1723400640,1722843792,1722235565,1721574411,1721047605,1719814207,1719214615,1718607061,1718003470,1717397202,1716790126,1716185597,1715586501,1714193469,1713761121,1713267776,1712819160,1712311954,1711377469,1710859455,1710254909,1708953543,1707053490,1706312726,1705238089,1704639467,1703076463,1701623140,1700396010,1699436555];
+        let timestamps = [1734446734,1733824752,1733067844,1732550071,1731930755,1731315642,1730712822,1730116640,1729496710,1728924221,1728380503,1727688112,1727094037,1726476022,1725265309,1724661897,1723400640,1722843792,1722235565,1721574411,1721047605,1719814207,1719214615,1718607061,1718003470,1717397202,1716790126,1716185597,1715586501,1714193469,1713761121,1713267776,1712819160,1712311954,1711377469,1710859455,1710254909,1708953543,1707053490,1706312726,1705238089,1704639467,1703076463,1701623140,1700396010,1699436555];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) | 2 | 0 | 0 | 2 |
 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 2 | 0 | 0 | 2 |
 | [On en a Gros \! ](https://ws.tsl.rocks/corp/eee919ee67cd5b7eb62548219cd7981660ab85d08ab0fe23b83f1849ca6cf8c6/) | 2 | 0 | 0 | 2 |
 | [Zvezdec](https://ws.tsl.rocks/corp/7bce2af674b8fb313f43e497201ad86b230571cc3e200f44132be528eb4076d9/) | 1 | 1 | 0 | 2 |
@@ -145,6 +146,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/22 | 28-14 | [仙女座星雲](https://ws.tsl.rocks/corp/e8532ebca58cb402f027fdb3db24507799f38a7123ef124fae8ab7591dac77bd/) |
 | ✅ | 2024/12/15 | 40-26 | [ГОРИЗОНТ](https://ws.tsl.rocks/corp/fc3e048fc6343ca1150c739ea0ee3851e467726090f1a6be2e8ce1f4851c7362/) |
 | ✅ | 2024/12/06 | 38-10 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) |
 | ✅ | 2024/11/30 | 33-6 | [Brodudes Inc\.](https://ws.tsl.rocks/corp/774cdb53f03dd3b0e510fddcc7f25a9f8017a46393076d1acf45954241305466/) |

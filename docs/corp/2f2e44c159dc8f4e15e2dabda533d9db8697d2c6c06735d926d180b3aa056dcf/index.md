@@ -21,7 +21,7 @@ do a weekly White Star and we have a Active player base!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1218 🔻  (362)|
+| ELO Regular | 1218 🔻  (361)|
 | ELO Competitive | 1268 🔻  (340)|
 | Total Matches | 28 |
 | Wins | 13 |
