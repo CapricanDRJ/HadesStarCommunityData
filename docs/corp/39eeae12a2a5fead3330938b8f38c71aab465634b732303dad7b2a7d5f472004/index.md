@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Север РусКорп
-description: W:31 L:16 D:0 Bonus ✅
+description: W:32 L:16 D:0 Bonus ✅
 image: ./favicon.png
-date: 1734501330
+date: 1734988709
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,14 +21,14 @@ date: 1734501330
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1330 🔺  (122)|
-| ELO Competitive | 1429 🔺  (112)|
-| Total Matches | 47 |
-| Wins | 31 |
+| ELO Regular | 1334 🔺  (115)|
+| ELO Competitive | 1435 🔺  (107)|
+| Total Matches | 48 |
+| Wins | 32 |
 | Losses | 16 |
 | Draws | 0 |
-| Streak | 6 |
-| Streak Record | 6 |
+| Streak | 7 |
+| Streak Record | 7 |
 | Flagship | 4 |
 
 ---
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734069330,1733465665,1732856894,1732356242,1730813191,1730153610,1729506926,1729499414,1728880039,1728298470,1727686309,1727096441,1726460796,1725857583,1725278529,1724704276,1724693181,1724072942,1724062981,1723595973,1722780986,1722780385,1722252391,1721632710,1721596054,1721073761,1721071356,1720435690,1720404141,1719782660,1719776949,1719043095,1718404217,1716672328,1716084346,1715470523,1714885846,1714083206,1713558018,1712984116,1712337797,1711788819,1711313476,1710689693,1710191216,1709611546,1708931910];
+        let timestamps = [1734556709,1734069330,1733465665,1732856894,1732356242,1730813191,1730153610,1729506926,1729499414,1728880039,1728298470,1727686309,1727096441,1726460796,1725857583,1725278529,1724704276,1724693181,1724072942,1724062981,1723595973,1722780986,1722780385,1722252391,1721632710,1721596054,1721073761,1721071356,1720435690,1720404141,1719782660,1719776949,1719043095,1718404217,1716672328,1716084346,1715470523,1714885846,1714083206,1713558018,1712984116,1712337797,1711788819,1711313476,1710689693,1710191216,1709611546,1708931910];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/23 | 11-0 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
 | ✅ | 2024/12/18 | 19-3 | [●Black•Sails●](https://ws.tsl.rocks/corp/fe048ff17e9dd095f7071da69d7f3933dd7a9cd3d7168cc2add063c0ff686d31/) |
 | ✅ | 2024/12/11 | 8-5 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ✅ | 2024/12/04 | 11-0 | [U\.S\.A](https://ws.tsl.rocks/corp/6d7a18e9893736881762a4e1b687b55e7311d367267ff5a9cc8e45722b14ea06/) |
