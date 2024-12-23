@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​IX Легион
-description: W:74 L:41 D:0 Bonus ✅
+description: W:74 L:41 D:0 Bonus ❌
 image: ./favicon.png
 date: 1734934017
 ---
@@ -20,7 +20,7 @@ date: 1734934017
 gy
 ```
 ### [Discord](https://discord.gg/fc2eg8hNJm)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

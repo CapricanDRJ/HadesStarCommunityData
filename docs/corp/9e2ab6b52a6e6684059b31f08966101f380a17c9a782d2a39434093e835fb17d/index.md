@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Imperium
-description: W:11 L:1 D:0 Bonus ✅
+description: W:11 L:2 D:0 Bonus ✅
 image: ./favicon.png
-date: 1734954147
+date: 1734960759
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ type of stars veterans and beginners. International.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1320 🔻  (133)|
-| ELO Competitive | 1316 🔻  (243)|
-| Total Matches | 12 |
+| ELO Regular | 1303 🔻  (154)|
+| ELO Competitive | 1316 🔻  (240)|
+| Total Matches | 13 |
 | Wins | 11 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Streak Record | 11 |
 | Flagship | 4 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734522147,1733929913,1733917292,1733400161,1733399259,1732554880,1731922922,1731415404,1730890713,1728204711,1727562813,1724439819];
+        let timestamps = [1734528759,1734522147,1733929913,1733917292,1733400161,1733399259,1732554880,1731922922,1731415404,1730890713,1728204711,1727562813,1724439819];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/23 | 3-11 | [星落苑](https://ws.tsl.rocks/corp/6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c/) |
 | ❌ | 2024/12/23 | 3-4 | [STAR TERROR CZ](https://ws.tsl.rocks/corp/f9c3b5fe54cb33985284a6fe5351ab51fb691af909a2172570ee549050a93af2/) |
 | ✅ | 2024/12/16 | 12-3 | [荣耀之星](https://ws.tsl.rocks/corp/4334fd4d4ffbc89487deaec7bb38025aba46209b810578436882be271fdbff23/) |
 | ✅ | 2024/12/16 | 19-3 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) |
