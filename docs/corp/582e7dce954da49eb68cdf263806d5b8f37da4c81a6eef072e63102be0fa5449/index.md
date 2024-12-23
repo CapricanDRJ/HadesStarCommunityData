@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Argentina 1.0
-description: W:31 L:15 D:1 Bonus ❌
+description: W:32 L:15 D:1 Bonus ✅
 image: ./favicon.png
-date: 1734400377
+date: 1734955048
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ Bienvenidos a Argentina ⭐⭐⭐ 1.0 hay whatsapp ebs semanal ers o rs 1-6
  8-11
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/JapURyAWBw)
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1391 🔻  (60)|
-| ELO Competitive | 1466 🔻  (84)|
-| Total Matches | 47 |
-| Wins | 31 |
+| ELO Regular | 1394 🔺  (60)|
+| ELO Competitive | 1470 🔺  (81)|
+| Total Matches | 48 |
+| Wins | 32 |
 | Losses | 15 |
 | Draws | 1 |
 | Streak Record | 9 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733968377,1732553077,1731594493,1730980559,1730334202,1728881842,1728270527,1727450721,1726979551,1726466408,1725850973,1725176962,1724640863,1724033836,1723501014,1723008773,1722265015,1721793788,1721252276,1720565225,1720039603,1719451201,1719011543,1718503686,1717810227,1717124903,1716429256,1715973479,1715181789,1714163126,1713496437,1712961583,1711196573,1709522965,1709518545,1708820132,1707178917,1706459978,1706020326,1705544010,1705028033,1703892689,1701179238,1700658980,1700191035,1699464803,1698725548];
+        let timestamps = [1734523048,1733968377,1732553077,1731594493,1730980559,1730334202,1728881842,1728270527,1727450721,1726979551,1726466408,1725850973,1725176962,1724640863,1724033836,1723501014,1723008773,1722265015,1721793788,1721252276,1720565225,1720039603,1719451201,1719011543,1718503686,1717810227,1717124903,1716429256,1715973479,1715181789,1714163126,1713496437,1712961583,1711196573,1709522965,1709518545,1708820132,1707178917,1706459978,1706020326,1705544010,1705028033,1703892689,1701179238,1700658980,1700191035,1699464803,1698725548];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) | 2 | 0 | 0 | 2 |
 | [Hinterm Mars](https://ws.tsl.rocks/corp/a49fb97adf99c630611e791c8da7d8d9a198689fda80881a5e00e4b69b564bf7/) | 2 | 0 | 0 | 2 |
 
 ---
@@ -140,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/23 | 23-3 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
 | ❌ | 2024/12/17 | 0-35 | [United Stars ](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) |
 | ✅ | 2024/11/30 | 12-9 | [Revólver](https://ws.tsl.rocks/corp/2560247b1d9fc0ccccf6a9740f3e7cd5d0ebb66444a27e2a259906a476903a45/) |
 | ↔️ | 2024/11/19 | 26-26 | [Continuum](https://ws.tsl.rocks/corp/ea5fb17c8fcf67a15bd5a194549206adba2279a79973a34bcfd0abb1e3cf9107/) |

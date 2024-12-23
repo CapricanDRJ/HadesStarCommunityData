@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Empire of Light
-description: W:14 L:24 D:1 Bonus ✅
+description: W:14 L:24 D:1 Bonus ❌
 image: ./favicon.png
 date: 1734329464
 ---
@@ -17,7 +17,7 @@ The Empire of Light led by Lord Spirallis to be one of light rays in
 space of this game. WS every week. Join us into the Light!
 ```
 ### [Discord](https://discord.gg/pfsfZwqh)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

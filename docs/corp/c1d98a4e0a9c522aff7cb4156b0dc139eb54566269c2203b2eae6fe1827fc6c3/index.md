@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Brasil
-description: W:5 L:4 D:1 Bonus ❌
+description: W:5 L:5 D:1 Bonus ❌
 image: ./favicon.png
-date: 1733134410
+date: 1734953846
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ s a crescer!!! 14 dias de inatividade, expulsão para vagas.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1227 🔺  (328)|
-| ELO Competitive | 1240 🔺  (423)|
-| Total Matches | 10 |
+| ELO Regular | 1216 🔻  (383)|
+| ELO Competitive | 1233 🔻  (441)|
+| Total Matches | 11 |
 | Wins | 5 |
-| Losses | 4 |
+| Losses | 5 |
 | Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 3 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732702410,1731957807,1731076718,1728422888,1725897853,1724257412,1723081497,1722291162,1721446090,1720655683];
+        let timestamps = [1734521846,1732702410,1731957807,1731076718,1728422888,1725897853,1724257412,1723081497,1722291162,1721446090,1720655683];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/23 | 0-8 | [ZORG IND](https://ws.tsl.rocks/corp/61902ac82b4e5d8b9740d8f783424bbf4f0c804602e644fcb3d6e0447457776f/) |
 | ✅ | 2024/12/02 | 10-1 | [Dark Halo](https://ws.tsl.rocks/corp/f6ed7c780faf133d3fe411b9ed88480608a56064328539891d1b4348242954f6/) |
 | ↔️ | 2024/11/23 | 2-2 | [  边界  ](https://ws.tsl.rocks/corp/86c7d0216214bd3b9f3c7ca967ab1bd70d67faeb4792fe551863170ffc4e089a/) |
 | ✅ | 2024/11/13 | 6-0 | [银河护卫队](https://ws.tsl.rocks/corp/e522df7ad34eabee08393efb864d53bdc897d0ad187170616d6ef924df5c7267/) |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​STAR TERROR CZ
-description: W:5 L:5 D:0 Bonus ✅
+description: W:6 L:5 D:0 Bonus ✅
 image: ./favicon.png
-date: 1734731510
+date: 1734954147
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,14 +21,14 @@ nos.github.io/HadesSpace/
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1233 🔺  (306)|
+| ELO Regular | 1253 🔺  (244)|
 | ELO Competitive | 1270 🔺  (326)|
-| Total Matches | 10 |
-| Wins | 5 |
+| Total Matches | 11 |
+| Wins | 6 |
 | Losses | 5 |
 | Draws | 0 |
-| Streak | 3 |
-| Streak Record | 3 |
+| Streak | 4 |
+| Streak Record | 4 |
 | Flagship | 8 |
 
 ---
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734299510,1733688648,1733086478,1732477657,1731873668,1731270875,1730664452,1730059252,1706223775,1699343403];
+        let timestamps = [1734522147,1734299510,1733688648,1733086478,1732477657,1731873668,1731270875,1730664452,1730059252,1706223775,1699343403];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -141,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/23 | 4-3 | [Imperium](https://ws.tsl.rocks/corp/9e2ab6b52a6e6684059b31f08966101f380a17c9a782d2a39434093e835fb17d/) |
 | ✅ | 2024/12/20 | 42-0 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 | ✅ | 2024/12/13 | 36-6 | [DarkSide](https://ws.tsl.rocks/corp/a05d1feeae198a1f2ef98606bf83fdfa2254f2ac62f3db20cd5b09449257b8cd/) |
 | ✅ | 2024/12/06 | 33-0 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) |
