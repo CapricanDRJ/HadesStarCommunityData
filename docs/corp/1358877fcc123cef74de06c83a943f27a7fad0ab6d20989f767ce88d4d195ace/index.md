@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Повстанцы Хаоса
-description: W:46 L:8 D:0 Bonus ✅
+description: W:46 L:8 D:0 Bonus ❌
 image: ./favicon.png
 date: 1734341179
 ---
@@ -20,7 +20,7 @@ date: 1734341179
 Telegram обязателен для вступления: https://t.me/DogDogDog10
 ```
 ### [Discord](https://discord.gg/HmcXJFdWGC)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

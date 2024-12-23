@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Newbs
-description: W:38 L:21 D:1 Bonus ✅
+description: W:38 L:21 D:1 Bonus ❌
 image: ./favicon.png
 date: 1734955048
 ---
@@ -18,7 +18,7 @@ in our White Star battles as soon as you build a scanner to gain expe
 rience and have some fun!
 ```
 ### [Discord](https://discord.gg/WKKwkbPsya)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

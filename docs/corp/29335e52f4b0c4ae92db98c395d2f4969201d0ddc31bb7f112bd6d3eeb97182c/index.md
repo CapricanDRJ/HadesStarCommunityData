@@ -22,8 +22,8 @@ o hapy to see experienced players. Main corp ( Industrial W.O) . Also
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1282 🔺  (190)|
-| ELO Competitive | 1314 🔺  (245)|
+| ELO Regular | 1282 🔺  (191)|
+| ELO Competitive | 1314 🔺  (244)|
 | Total Matches | 10 |
 | Wins | 8 |
 | Losses | 2 |
