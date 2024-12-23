@@ -21,8 +21,8 @@ size><size="50"> So Say We All</size></b></color>
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1143 🔻  (1134)|
-| ELO Competitive | 1295 🔻  (276)|
+| ELO Regular | 1143 🔻  (1135)|
+| ELO Competitive | 1295 🔻  (277)|
 | Total Matches | 56 |
 | Wins | 24 |
 | Losses | 27 |

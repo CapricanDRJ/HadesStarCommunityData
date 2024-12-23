@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​リリース
-description: W:55 L:23 D:0 Bonus ✅
+description: W:55 L:23 D:0 Bonus ❌
 image: ./favicon.png
 date: 1734905180
 ---
@@ -17,7 +17,7 @@ date: 1734905180
 d必須です！　特別待遇はできかねますのでご注意ください！　　　　　　　　　　　　　　　　　　　　　 2024/11アクティブ！
 ```
 ### [Discord](https://discord.gg/jmZpzGx7b5)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

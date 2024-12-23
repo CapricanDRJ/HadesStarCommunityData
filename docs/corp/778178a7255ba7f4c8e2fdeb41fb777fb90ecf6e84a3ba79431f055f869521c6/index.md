@@ -22,8 +22,8 @@ ushing Novae Song</I>
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 🔻  (494)|
-| ELO Competitive | 1201 🔻  (626)|
+| ELO Regular | 1201 🔻  (493)|
+| ELO Competitive | 1201 🔻  (627)|
 | Total Matches | 2 |
 | Wins | 1 |
 | Losses | 1 |
