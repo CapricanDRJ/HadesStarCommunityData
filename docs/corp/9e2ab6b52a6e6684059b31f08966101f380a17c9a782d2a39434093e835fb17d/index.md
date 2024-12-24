@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Imperium
-description: W:11 L:2 D:0 Bonus ✅
+description: W:11 L:2 D:0 Bonus ❌
 image: ./favicon.png
 date: 1734960759
 ---
@@ -18,7 +18,7 @@ r growth and success. And to grow even bigger we are looking for all
 type of stars veterans and beginners. International.
 ```
 ### [Discord](https://discord.gg/YNfwuam6Wh)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
