@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Legión
-description: W:4 L:5 D:0 Bonus ✅
+description: W:4 L:5 D:0 Bonus ❌
 image: ./favicon.png
 date: 1734392266
 ---
@@ -18,7 +18,7 @@ date: 1734392266
 sponible✓<br>• EB Casual/Seria semanal<br><br><b>ER5+ | ERO/EB
 ```
 ### [Discord](https://discord.gg/Bt9wnjv2Kh)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
