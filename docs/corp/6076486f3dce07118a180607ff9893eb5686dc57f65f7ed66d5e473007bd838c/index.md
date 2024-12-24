@@ -20,7 +20,7 @@ We’ll get there… most of the time
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1206 🔻  (456)|
+| ELO Regular | 1206 🔻  (458)|
 | ELO Competitive | 1211 🔻  (573)|
 | Total Matches | 5 |
 | Wins | 3 |

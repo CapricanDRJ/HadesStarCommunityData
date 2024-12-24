@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​闲散人员
-description: W:17 L:10 D:2 Bonus ✅
+description: W:17 L:11 D:2 Bonus ✅
 image: ./favicon.png
-date: 1734961660
+date: 1735008488
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 1734961660
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1253 🔻  (242)|
+| ELO Regular | 1236 🔻  (302)|
 | ELO Competitive | 1328 🔻  (221)|
-| Total Matches | 29 |
+| Total Matches | 30 |
 | Wins | 17 |
-| Losses | 10 |
+| Losses | 11 |
 | Draws | 2 |
 | Streak Record | 6 |
 | Flagship | 3 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734529660,1734030874,1733538580,1733093347,1733079865,1732512209,1732376486,1732057764,1731429530,1730890713,1730290024,1729781576,1729334734,1728873730,1728293662,1727785779,1727784876,1727324511,1727318502,1726760499,1726748476,1726234751,1726146048,1725739186,1725641218,1725171553,1724626142,1723973420,1723372086];
+        let timestamps = [1734576488,1734529660,1734030874,1733538580,1733093347,1733079865,1732512209,1732376486,1732057764,1731429530,1730890713,1730290024,1729781576,1729334734,1728873730,1728293662,1727785779,1727784876,1727324511,1727318502,1726760499,1726748476,1726234751,1726146048,1725739186,1725641218,1725171553,1724626142,1723973420,1723372086];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/24 | 0-10 | [一根飞机](https://ws.tsl.rocks/corp/459077a8d857a7bd7ee9caafa2c5ed27ac2416d2280965dd22d4293302cb9de0/) |
 | ❌ | 2024/12/23 | 2-15 | [星落苑](https://ws.tsl.rocks/corp/6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c/) |
 | ✅ | 2024/12/17 | 11-0 | [Red Star](https://ws.tsl.rocks/corp/779114322d677f05c7451cf2323327bd6ff62ec9513ba922e38578b0813f3bad/) |
 | ✅ | 2024/12/12 | 11-1 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |

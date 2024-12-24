@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Cool Casual
-description: W:1 L:1 D:0 Bonus ✅
+description: W:2 L:1 D:0 Bonus ✅
 image: ./favicon.png
-date: 1734470688
+date: 1735005833
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,14 @@ date: 1734470688
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1198 🔺  (523)|
-| ELO Competitive | 1202 🔺  (610)|
-| Total Matches | 2 |
-| Wins | 1 |
+| ELO Regular | 1213 🔺  (412)|
+| ELO Competitive | 1217 🔺  (509)|
+| Total Matches | 3 |
+| Wins | 2 |
 | Losses | 1 |
 | Draws | 0 |
+| Streak | 2 |
+| Streak Record | 2 |
 | Flagship | 0 |
 
 ---
@@ -43,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734038688,1733468369];
+        let timestamps = [1734573833,1734038688,1733468369];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/24 | 3-2 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) |
 | ✅ | 2024/12/17 | 5-4 | [环星集团](https://ws.tsl.rocks/corp/8a1148b4fbc41d0b26a8a865ec524c7ab8965e7df2c1002344b8cbd075a12fdd/) |
 | ❌ | 2024/12/11 | 3-6 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
 

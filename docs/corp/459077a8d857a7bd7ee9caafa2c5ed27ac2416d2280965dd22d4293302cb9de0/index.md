@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​一根飞机
-description: W:8 L:7 D:1 Bonus ✅
+description: W:9 L:7 D:1 Bonus ✅
 image: ./favicon.png
-date: 1734537389
+date: 1735008488
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,12 +21,13 @@ date: 1734537389
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1203 🔺  (471)|
-| ELO Competitive | 1264 🔺  (349)|
-| Total Matches | 16 |
-| Wins | 8 |
+| ELO Regular | 1220 🔺  (353)|
+| ELO Competitive | 1282 🔺  (306)|
+| Total Matches | 17 |
+| Wins | 9 |
 | Losses | 7 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 3 |
 | Flagship | 4 |
 
@@ -46,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734105389,1733633648,1733631764,1733189998,1733144461,1732711125,1732629997,1732205099,1732122168,1731769086,1731683437,1731327962,1731158760,1730821005,1730724843,1730385883];
+        let timestamps = [1734576488,1734105389,1733633648,1733631764,1733189998,1733144461,1732711125,1732629997,1732205099,1732122168,1731769086,1731683437,1731327962,1731158760,1730821005,1730724843,1730385883];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/24 | 10-0 | [闲散人员](https://ws.tsl.rocks/corp/4f0fa774b66e4f744a305525f92e7252205ae754df0f3982b577b32caf32cdbc/) |
 | ✅ | 2024/12/18 | 5-3 | [S\.U\.N](https://ws.tsl.rocks/corp/916e7c076587bd3c3d88cd287f6003d619035871ba0f4291f341da901f0ef3f2/) |
 | ❌ | 2024/12/13 | 2-3 | [萌新集团](https://ws.tsl.rocks/corp/cda6bb5c1bf595967bd6f4a2e94f7c7fcc50df3774ccee7939822c252b9cd224/) |
 | ❌ | 2024/12/13 | 0-16 | [蓝星集团](https://ws.tsl.rocks/corp/9d718b80beaf9682ccde175169372b72f70b75bb593770762dfc9e990cbd098a/) |

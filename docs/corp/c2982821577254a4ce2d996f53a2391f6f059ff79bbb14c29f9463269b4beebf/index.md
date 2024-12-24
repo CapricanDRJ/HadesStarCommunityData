@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Curiosity + Cat
-description: W:3 L:12 D:0 Bonus ✅
+description: W:4 L:12 D:0 Bonus ✅
 image: ./favicon.png
-date: 1734561134
+date: 1735001928
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,12 +25,13 @@ No Discord!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1100 🔺  (1262)|
-| ELO Competitive | 1123 🔺  (1289)|
-| Total Matches | 15 |
-| Wins | 3 |
+| ELO Regular | 1117 🔺  (1224)|
+| ELO Competitive | 1145 🔺  (1239)|
+| Total Matches | 16 |
+| Wins | 4 |
 | Losses | 12 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 2 |
 | Flagship | 5 |
 
@@ -50,7 +51,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734129134,1728782047,1727773459,1726917048,1724326221,1723647657,1722199414,1718861630,1718303087,1702451145,1701201785,1700701062,1700242127,1699472016,1698687967];
+        let timestamps = [1734569928,1734129134,1728782047,1727773459,1726917048,1724326221,1723647657,1722199414,1718861630,1718303087,1702451145,1701201785,1700701062,1700242127,1699472016,1698687967];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/24 | 23-0 | [First Legion](https://ws.tsl.rocks/corp/19925189a09925ee428220f600fcf721d71905103c1af9e2aa8e7e3b171a1a38/) |
 | ✅ | 2024/12/18 | 13-4 | [Kratos](https://ws.tsl.rocks/corp/1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b/) |
 | ❌ | 2024/10/18 | 3-15 | [Dumpster Fire](https://ws.tsl.rocks/corp/f191bf7efb93ca805453b3e11aef9278976a4c70fe9790e7813f28fcdf899121/) |
 | ❌ | 2024/10/06 | 16-43 | [Stone Legion](https://ws.tsl.rocks/corp/60cd15c27192f777f2e4abc413a83d4ab33bbccd7764a387afd2347dcd3d751a/) |
