@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Osmium Star llc
-description: W:29 L:2 D:0 Bonus ✅
+description: W:29 L:3 D:0 Bonus ✅
 image: ./favicon.png
-date: 1734459869
+date: 1735062620
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,13 +22,12 @@ act officers or senior members, Discord invite code:zQGwx3ZtDp
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1454 🔺  (21)|
-| ELO Competitive | 1487 🔺  (64)|
-| Total Matches | 31 |
+| ELO Regular | 1430 🔻  (32)|
+| ELO Competitive | 1463 🔻  (84)|
+| Total Matches | 32 |
 | Wins | 29 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
-| Streak | 18 |
 | Streak Record | 18 |
 | Flagship | 5 |
 
@@ -48,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734027869,1733404068,1732789569,1732198186,1731570753,1730972145,1730375062,1729769855,1729147807,1728550304,1727951659,1727343739,1726746974,1726125316,1725588931,1725013905,1724535085,1723709860,1723117553,1722502411,1721899865,1721327696,1720694148,1720028479,1719471631,1718877216,1718263116,1717597968,1716973746,1716448181,1715834370];
+        let timestamps = [1734630620,1734027869,1733404068,1732789569,1732198186,1731570753,1730972145,1730375062,1729769855,1729147807,1728550304,1727951659,1727343739,1726746974,1726125316,1725588931,1725013905,1724535085,1723709860,1723117553,1722502411,1721899865,1721327696,1720694148,1720028479,1719471631,1718877216,1718263116,1717597968,1716973746,1716448181,1715834370];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -144,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/24 | 15-24 | [Orden Estelar ](https://ws.tsl.rocks/corp/1da0142a6cc2fcab35a82ff4d7b591f4ffa96761419c6bf39154afded7ef7c2d/) |
 | ✅ | 2024/12/17 | 36-0 | [КОРПОРАЦИЯ ЗЛА](https://ws.tsl.rocks/corp/a62e0c19a9f2c6c172eaf34ce61be29e3e248e7cf2c0cbfe93bcb2f03a7501da/) |
 | ✅ | 2024/12/10 | 12-5 | [孤星长城](https://ws.tsl.rocks/corp/af057d9c6c59118dd1a58b74a8ec83db78962a17ae022269292a5fc05693ab83/) |
 | ✅ | 2024/12/03 | 19-8 | [Empire of Light](https://ws.tsl.rocks/corp/5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc/) |

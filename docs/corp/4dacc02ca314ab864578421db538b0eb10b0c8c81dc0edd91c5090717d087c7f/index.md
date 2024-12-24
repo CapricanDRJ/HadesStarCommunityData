@@ -22,7 +22,7 @@ an Armored Union of warriors! Share Artifacts and build strong allies
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1250 🔺  (255)|
+| ELO Regular | 1250 🔺  (254)|
 | ELO Competitive | 1377 🔺  (161)|
 | Total Matches | 54 |
 | Wins | 29 |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Team Rainbow
-description: W:4 L:3 D:0 Bonus ❌
+description: W:5 L:3 D:0 Bonus ✅
 image: ./favicon.png
-date: 1732134974
+date: 1735061418
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,18 +18,18 @@ opefully you'll be gyatt Ohio skibidi here. Remember, discord is no c
 ap fyah, so get cooked.**
 ```
 ### [Discord](https://discord.gg/eghZesnPZn)
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺  (388)|
-| ELO Competitive | 1247 🔺  (402)|
-| Total Matches | 7 |
-| Wins | 4 |
+| ELO Regular | 1232 🔺  (312)|
+| ELO Competitive | 1264 🔺  (351)|
+| Total Matches | 8 |
+| Wins | 5 |
 | Losses | 3 |
 | Draws | 0 |
-| Streak | 3 |
-| Streak Record | 3 |
+| Streak | 4 |
+| Streak Record | 4 |
 | Flagship | 6 |
 
 ---
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1731702974,1731102564,1730421345,1722524650,1720730825,1710579407,1709226385];
+        let timestamps = [1734629418,1731702974,1731102564,1730421345,1722524650,1720730825,1710579407,1709226385];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/24 | 28-21 | [Ещё один Миф](https://ws.tsl.rocks/corp/b091930b1e7a5540c2cfaa75d184dc82314a1248bbd6e4daae0867f3f248a19f/) |
 | ✅ | 2024/11/20 | 23-19 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 | ✅ | 2024/11/13 | 24-6 | [TheBasics](https://ws.tsl.rocks/corp/8c9069f3ec3e766d51d76851b0d21a0fb065a026e597cfebc7d8cc8cbf2b998f/) |
 | ✅ | 2024/11/06 | 26-0 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Orden Estelar 
-description: W:9 L:10 D:2 Bonus ❌
+description: W:10 L:10 D:2 Bonus ✅
 image: ./favicon.png
-date: 1734300627
+date: 1735062620
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ Alianza: axolotls
 
 Ni retirada ni rendicion 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1208 🔻  (449)|
-| ELO Competitive | 1240 🔻  (424)|
-| Total Matches | 21 |
-| Wins | 9 |
+| ELO Regular | 1232 🔺  (311)|
+| ELO Competitive | 1264 🔺  (353)|
+| Total Matches | 22 |
+| Wins | 10 |
 | Losses | 10 |
 | Draws | 2 |
 | Streak Record | 4 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733868627,1733141088,1732604935,1732132087,1730889511,1730049633,1716227062,1715472326,1714349113,1709552708,1708958352,1706365913,1705345373,1704664254,1704135506,1703517335,1702917587,1701049109,1700538770,1699919585,1698691276];
+        let timestamps = [1734630620,1733868627,1733141088,1732604935,1732132087,1730889511,1730049633,1716227062,1715472326,1714349113,1709552708,1708958352,1706365913,1705345373,1704664254,1704135506,1703517335,1702917587,1701049109,1700538770,1699919585,1698691276];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/24 | 24-15 | [Osmium Star llc](https://ws.tsl.rocks/corp/edd3ac94ea8ee1cf441e904ff29c48c21fa5db83af6eb5a6e83ae236b3872b22/) |
 | ❌ | 2024/12/15 | 3-12 | [リリース](https://ws.tsl.rocks/corp/128149aefc384d482d0f002d83f9c9a08c89dec768584030fc4585ea50d2f774/) |
 | ❌ | 2024/12/07 | 3-20 | [lesescargots](https://ws.tsl.rocks/corp/718c873931e9097064fd6ef580fe9d8761be712e0783e0b97d28344abd910623/) |
 | ✅ | 2024/12/01 | 25-1 | [АНДРОМЕДА ](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) |

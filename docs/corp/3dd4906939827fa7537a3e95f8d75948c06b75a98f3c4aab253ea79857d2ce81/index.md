@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Death Star llc.
-description: W:58 L:13 D:1 Bonus ✅
+description: W:58 L:13 D:1 Bonus ❌
 image: ./favicon.png
 date: 1735046391
 ---
@@ -19,11 +19,11 @@ ke friends, have fun, and enjoy the game!
 Discord required | Part of Astral Alliance
 ```
 ### [Discord](https://discord.gg/https://discord.gg/naqEGjHA3B)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1454 🔻  (22)|
+| ELO Regular | 1454 🔻  (21)|
 | ELO Competitive | 1530 🔻  (37)|
 | Total Matches | 72 |
 | Wins | 58 |
