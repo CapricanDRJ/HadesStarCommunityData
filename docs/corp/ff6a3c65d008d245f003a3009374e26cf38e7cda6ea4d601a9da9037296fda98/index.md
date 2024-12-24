@@ -25,8 +25,8 @@ DC : tqSz2DCJZ8
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1022 🔻  (1329)|
-| ELO Competitive | 1135 🔻  (1269)|
+| ELO Regular | 1022 🔻  (1330)|
+| ELO Competitive | 1135 🔻  (1270)|
 | Total Matches | 70 |
 | Wins | 22 |
 | Losses | 48 |

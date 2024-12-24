@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Dacia Chill
-description: W:20 L:3 D:0 Bonus ❌
+description: W:21 L:3 D:0 Bonus ✅
 image: ./favicon.png
-date: 1733048773
+date: 1735048495
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,17 +19,17 @@ orp.
 WDL 88/2/4
 ```
 ### [Discord](https://discord.gg/6RhqZ7dxmf)
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1396 🔺  (53)|
-| ELO Competitive | 1420 🔺  (120)|
-| Total Matches | 23 |
-| Wins | 20 |
+| ELO Regular | 1410 🔺  (45)|
+| ELO Competitive | 1439 🔺  (106)|
+| Total Matches | 24 |
+| Wins | 21 |
 | Losses | 3 |
 | Draws | 0 |
-| Streak | 5 |
+| Streak | 6 |
 | Streak Record | 7 |
 | Flagship | 7 |
 
@@ -49,7 +49,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1732616773,1730663851,1725816720,1720956234,1719251667,1717922024,1717177192,1714299529,1713708544,1713090790,1712503665,1712495850,1711878362,1711285222,1710723953,1708324615,1707039665,1705835206,1705236286,1704637964,1702714117,1701004922,1699826714];
+        let timestamps = [1734616495,1732616773,1730663851,1725816720,1720956234,1719251667,1717922024,1717177192,1714299529,1713708544,1713090790,1712503665,1712495850,1711878362,1711285222,1710723953,1708324615,1707039665,1705835206,1705236286,1704637964,1702714117,1701004922,1699826714];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/24 | 42-0 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) |
 | ✅ | 2024/12/01 | 30-16 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |
 | ✅ | 2024/11/08 | 41-10 | [The X \- Files](https://ws.tsl.rocks/corp/f13cb0ae2dbb0654a2067c8749f86bce49edc5b520bd391c7af11948f23a41fb/) |
 | ✅ | 2024/09/13 | 40-17 | [GDZ](https://ws.tsl.rocks/corp/a04890160268d05cf11f997b0a1c724fbbcfa66b2ea4cb1c4b56ca18d0425d62/) |
