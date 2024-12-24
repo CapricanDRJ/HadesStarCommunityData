@@ -24,7 +24,7 @@ RTA...</b>
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1490 🔺  (13)|
+| ELO Regular | 1490 🔺  (14)|
 | ELO Competitive | 1588 🔺  (21)|
 | Total Matches | 75 |
 | Wins | 64 |
