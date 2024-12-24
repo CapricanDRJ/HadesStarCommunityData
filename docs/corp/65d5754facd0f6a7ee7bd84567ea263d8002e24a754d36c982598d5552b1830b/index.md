@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​星约组织：基地分团
-description: W:1 L:3 D:0 Bonus ❌
+description: W:1 L:4 D:0 Bonus ❌
 image: ./favicon.png
-date: 1733663899
+date: 1735034072
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 1733663899
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1171 🔻  (925)|
-| ELO Competitive | 1176 🔻  (1022)|
-| Total Matches | 4 |
+| ELO Regular | 1156 🔻  (1066)|
+| ELO Competitive | 1162 🔻  (1155)|
+| Total Matches | 5 |
 | Wins | 1 |
-| Losses | 3 |
+| Losses | 4 |
 | Draws | 0 |
 | Flagship | 0 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733231899,1732711125,1732273904,1731662100];
+        let timestamps = [1734602072,1733231899,1732711125,1732273904,1731662100];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -128,12 +128,18 @@ This chart shows the frequency of days of the week when whitestars were matched 
 </script>
     
 ---
+### Recurring Opponents
+
+| Opponent | Wins | Losses | Draws | Total Matches |
+| --- | --- | --- | --- | --- |
+| [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) | 1 | 1 | 0 | 2 |
 
 ---
 ### Match History
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/24 | 0-19 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ❌ | 2024/12/08 | 0-3 | [国际联盟](https://ws.tsl.rocks/corp/4b25f449617273077d1898d67e79bfe22c803412bb840eb68412fe0ee7224a95/) |
 | ❌ | 2024/12/02 | 0-5 | [一根飞机](https://ws.tsl.rocks/corp/459077a8d857a7bd7ee9caafa2c5ed27ac2416d2280965dd22d4293302cb9de0/) |
 | ✅ | 2024/11/27 | 6-1 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |

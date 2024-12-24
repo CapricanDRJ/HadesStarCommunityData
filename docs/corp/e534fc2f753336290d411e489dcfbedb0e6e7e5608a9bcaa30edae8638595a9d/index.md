@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​阿尔特拉太空港
-description: W:19 L:12 D:1 Bonus ✅
+description: W:20 L:12 D:1 Bonus ✅
 image: ./favicon.png
-date: 1734432220
+date: 1735043386
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,12 +25,13 @@ DON'T DONATE CREDITS TO THE FLAGSHIP!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1276 🔺  (197)|
-| ELO Competitive | 1336 🔺  (199)|
-| Total Matches | 32 |
-| Wins | 19 |
+| ELO Regular | 1285 🔺  (183)|
+| ELO Competitive | 1348 🔺  (187)|
+| Total Matches | 33 |
+| Wins | 20 |
 | Losses | 12 |
 | Draws | 1 |
+| Streak | 2 |
 | Streak Record | 6 |
 | Flagship | 3 |
 
@@ -50,7 +51,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734000220,1733380633,1732835346,1732192476,1731669011,1731214362,1730982062,1730379571,1730373560,1729721265,1729113556,1728574652,1727782134,1727778566,1727304984,1726742166,1726146649,1725721453,1725564295,1725085609,1724823179,1724336140,1724320812,1723630827,1723015985,1722509622,1722051622,1721616184,1721170235,1720710383,1720183555,1719644719];
+        let timestamps = [1734611386,1734000220,1733380633,1732835346,1732192476,1731669011,1731214362,1730982062,1730379571,1730373560,1729721265,1729113556,1728574652,1727782134,1727778566,1727304984,1726742166,1726146649,1725721453,1725564295,1725085609,1724823179,1724336140,1724320812,1723630827,1723015985,1722509622,1722051622,1721616184,1721170235,1720710383,1720183555,1719644719];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -148,6 +149,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/24 | 7-0 | [Empire of Light](https://ws.tsl.rocks/corp/5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc/) |
 | ✅ | 2024/12/17 | 2-1 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |
 | ❌ | 2024/12/10 | 6-12 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) |
 | ✅ | 2024/12/03 | 7-0 | [StargateCommand](https://ws.tsl.rocks/corp/b378193d0b158ce0513a666f0c19da1599421d036e3fd12c0f287d02cac78ccb/) |

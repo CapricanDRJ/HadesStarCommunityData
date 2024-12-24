@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Stardust
-description: W:2 L:18 D:0 Bonus ❌
+description: W:3 L:18 D:0 Bonus ✅
 image: ./favicon.png
-date: 1731169168
+date: 1735035273
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ We run monthly or couple of weeks White Stars and private Red Stars o
 n request. New players welcome, we are happy to help you learn the ga
 me.
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1078 🔻  (1292)|
-| ELO Competitive | 1123 🔻  (1289)|
-| Total Matches | 20 |
-| Wins | 2 |
+| ELO Regular | 1096 🔺  (1270)|
+| ELO Competitive | 1145 🔺  (1240)|
+| Total Matches | 21 |
+| Wins | 3 |
 | Losses | 18 |
 | Draws | 0 |
 | Flagship | 5 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1730737168,1728362477,1720665900,1720497902,1719766129,1719758915,1718424046,1715898970,1714926409,1714474707,1712389778,1712310373,1711879865,1710757897,1710244993,1709778060,1709220374,1707050785,1706524586,1700722697];
+        let timestamps = [1734603273,1730737168,1728362477,1720665900,1720497902,1719766129,1719758915,1718424046,1715898970,1714926409,1714474707,1712389778,1712310373,1711879865,1710757897,1710244993,1709778060,1709220374,1707050785,1706524586,1700722697];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/24 | 13-6 | [Empire of Light](https://ws.tsl.rocks/corp/5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc/) |
 | ❌ | 2024/11/09 | 5-18 | [\*Alfa y Omega\*](https://ws.tsl.rocks/corp/b1da3a2265efd2266a8e4b5698a731ae179d00e431ee748d7bee62a1357a12ed/) |
 | ❌ | 2024/10/13 | 3-32 | [Повстанцы Хаоса](https://ws.tsl.rocks/corp/1358877fcc123cef74de06c83a943f27a7fad0ab6d20989f767ce88d4d195ace/) |
 | ❌ | 2024/07/16 | 0-3 | [oen](https://ws.tsl.rocks/corp/33d062d54a7aaaa60ae11e07fba73e1b28f5c9f323ff4a98f5810933e7d2b41f/) |
