@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Spaceballs
-description: W:20 L:16 D:0 Bonus ✅
+description: W:21 L:16 D:0 Bonus ✅
 image: ./favicon.png
-date: 1734464677
+date: 1735068931
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,14 +22,14 @@ titans.com
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1343 🔺  (99)|
-| ELO Competitive | 1393 🔺  (145)|
-| Total Matches | 36 |
-| Wins | 20 |
+| ELO Regular | 1352 🔺  (90)|
+| ELO Competitive | 1401 🔺  (139)|
+| Total Matches | 37 |
+| Wins | 21 |
 | Losses | 16 |
 | Draws | 0 |
-| Streak | 8 |
-| Streak Record | 8 |
+| Streak | 9 |
+| Streak Record | 9 |
 | Flagship | 6 |
 
 ---
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734032677,1733438930,1732215918,1731611024,1731006106,1730401512,1729810127,1729289361,1720723611,1720117144,1719520319,1718913884,1718303087,1717720893,1717098463,1716483333,1715891158,1715268918,1714673019,1714060368,1713459481,1712855819,1712250059,1711645183,1711031915,1710433082,1709829738,1709229690,1708630820,1708039446,1707406142,1706805269,1706203637,1705598098,1699969769,1699506570];
+        let timestamps = [1734636931,1734032677,1733438930,1732215918,1731611024,1731006106,1730401512,1729810127,1729289361,1720723611,1720117144,1719520319,1718913884,1718303087,1717720893,1717098463,1716483333,1715891158,1715268918,1714673019,1714060368,1713459481,1712855819,1712250059,1711645183,1711031915,1710433082,1709829738,1709229690,1708630820,1708039446,1707406142,1706805269,1706203637,1705598098,1699969769,1699506570];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/24 | 19-6 | [Legión](https://ws.tsl.rocks/corp/50f2309d2f9e5d31b10e6b9cf5928035bc1df6f395d81adf89b10627daad0fc7/) |
 | ✅ | 2024/12/17 | 27-3 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
 | ✅ | 2024/12/10 | 36-0 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) |
 | ✅ | 2024/11/26 | 18-0 | [VoidRunners](https://ws.tsl.rocks/corp/5d195a83bdec92e83e1f97ed8b05b35254ade000cd6ca979b81921c702b34a23/) |

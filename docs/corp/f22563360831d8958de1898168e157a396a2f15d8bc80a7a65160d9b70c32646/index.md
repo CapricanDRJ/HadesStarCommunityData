@@ -20,8 +20,8 @@ Looking for active players with personality. We have a Discord server
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1186 🔻  (664)|
-| ELO Competitive | 1186 🔻  (832)|
+| ELO Regular | 1186 🔻  (663)|
+| ELO Competitive | 1186 🔻  (831)|
 | Total Matches | 1 |
 | Wins | 0 |
 | Losses | 1 |

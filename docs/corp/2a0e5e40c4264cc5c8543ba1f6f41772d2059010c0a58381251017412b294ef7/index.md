@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​华夏三体-基沃托斯集团
-description: W:3 L:8 D:2 Bonus ✅
+description: W:3 L:9 D:2 Bonus ✅
 image: ./favicon.png
-date: 1734602030
+date: 1735072057
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ Resident gift artifact
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1162 🔺  (1021)|
-| ELO Competitive | 1199 🔺  (653)|
-| Total Matches | 13 |
+| ELO Regular | 1149 🔻  (1106)|
+| ELO Competitive | 1186 🔻  (849)|
+| Total Matches | 14 |
 | Wins | 3 |
-| Losses | 8 |
+| Losses | 9 |
 | Draws | 2 |
 | Flagship | 2 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734170030,1734003525,1733619227,1733322942,1733139052,1732633905,1732621881,1731727915,1731727915,1731108574,1730590226,1730126260,1729602484];
+        let timestamps = [1734640057,1734170030,1734003525,1733619227,1733322942,1733139052,1732633905,1732621881,1731727915,1731727915,1731108574,1730590226,1730126260,1729602484];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/24 | 0-7 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) |
 | ✅ | 2024/12/19 | 9-0 | [63SALVADORES36](https://ws.tsl.rocks/corp/ac4e1665a51bdd039d04798e56c3bd85b526c57cf7015fd400b6c8d8ccd959a3/) |
 | ↔️ | 2024/12/17 | 0-0 | [星际集团](https://ws.tsl.rocks/corp/67927cef3b9a4d68a6d2c19566471f1b50b33eb4591df40d9631d6b6759db55c/) |
 | ✅ | 2024/12/13 | 10-0 | [The Red Dwarves](https://ws.tsl.rocks/corp/4cecdcd329a545deb9c2a292081f9220114f37e845dbea6dd1ec326390e296dd/) |

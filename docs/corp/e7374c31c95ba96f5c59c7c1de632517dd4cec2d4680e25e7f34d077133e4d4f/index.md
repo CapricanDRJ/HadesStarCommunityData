@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​九州分团
-description: W:52 L:70 D:4 Bonus ✅
+description: W:52 L:70 D:4 Bonus ❌
 image: ./favicon.png
 date: 1734877831
 ---
@@ -20,7 +20,7 @@ date: 1734877831
 神器交易群183736503
 ```
 ### [Discord](https://discord.gg/https://discord.com/register)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
