@@ -22,7 +22,7 @@ y RS and weekly WS. Discord link below
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1230 🔻  (320)|
-| ELO Competitive | 1269 🔻  (337)|
+| ELO Competitive | 1269 🔻  (338)|
 | Total Matches | 42 |
 | Wins | 26 |
 | Losses | 16 |

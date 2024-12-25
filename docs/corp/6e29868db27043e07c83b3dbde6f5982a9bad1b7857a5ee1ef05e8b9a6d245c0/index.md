@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​方星集团
-description: W:2 L:1 D:0 Bonus ❌
+description: W:3 L:1 D:0 Bonus ✅
 image: ./favicon.png
-date: 1734617920
+date: 1735125411
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -16,14 +16,14 @@ date: 1734617920
 本团为环星集团分团qq和主团一样 有5 6级神器给萌新招活跃人士小红点踢出并发送邀请 尽快建白扫 e创始人>首席>干事>高员成员 创始人不
 知道 首席中国，，没人 白星指挥 scp
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1211 🔻  (437)|
-| ELO Competitive | 1217 🔻  (517)|
-| Total Matches | 3 |
-| Wins | 2 |
+| ELO Regular | 1228 🔺  (329)|
+| ELO Competitive | 1234 🔺  (442)|
+| Total Matches | 4 |
+| Wins | 3 |
 | Losses | 1 |
 | Draws | 0 |
 | Streak Record | 2 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734185920,1733541986,1732629997];
+        let timestamps = [1734693411,1734185920,1733541986,1732629997];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/25 | 4-2 | [蓝色星系二号分盟](https://ws.tsl.rocks/corp/40ffb900f40aefc1fa4fddd4d036e0466577312c7fb8e16ae315cd8868015297/) |
 | ❌ | 2024/12/19 | 0-1 | [🌪TORNADO ](https://ws.tsl.rocks/corp/df15d02d32c67d60995e68d6c4197c23b340a0a985f04280563d8d07bd4536fa/) |
 | ✅ | 2024/12/12 | 1-0 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 | ✅ | 2024/12/01 | 5-0 | [一根飞机](https://ws.tsl.rocks/corp/459077a8d857a7bd7ee9caafa2c5ed27ac2416d2280965dd22d4293302cb9de0/) |

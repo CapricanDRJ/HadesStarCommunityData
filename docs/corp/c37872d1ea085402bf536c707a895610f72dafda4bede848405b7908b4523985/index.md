@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Galaktika corp
-description: W:16 L:18 D:2 Bonus ❌
+description: W:16 L:19 D:2 Bonus ❌
 image: ./favicon.png
-date: 1729773045
+date: 1735122707
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1729773045
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1134 🔻  (1171)|
-| ELO Competitive | 1183 🔻  (976)|
-| Total Matches | 36 |
+| ELO Regular | 1114 🔻  (1237)|
+| ELO Competitive | 1162 🔻  (1155)|
+| Total Matches | 37 |
 | Wins | 16 |
-| Losses | 18 |
+| Losses | 19 |
 | Draws | 2 |
 | Streak Record | 5 |
 | Flagship | 5 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729341045,1728061664,1727593155,1727149029,1726681776,1726174902,1725723558,1725278529,1724785707,1724319010,1723858612,1723412362,1722978728,1722303881,1721712918,1721219212,1720766585,1720149900,1719287424,1718823133,1718357791,1717572119,1717078926,1715793511,1715203724,1712776499,1711185455,1709052712,1707999474,1707077836,1706633978,1705162660,1703425079,1702311692,1701443114,1699964420];
+        let timestamps = [1734690707,1729341045,1728061664,1727593155,1727149029,1726681776,1726174902,1725723558,1725278529,1724785707,1724319010,1723858612,1723412362,1722978728,1722303881,1721712918,1721219212,1720766585,1720149900,1719287424,1718823133,1718357791,1717572119,1717078926,1715793511,1715203724,1712776499,1711185455,1709052712,1707999474,1707077836,1706633978,1705162660,1703425079,1702311692,1701443114,1699964420];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/25 | 4-8 | [Pyke Syndicate](https://ws.tsl.rocks/corp/1761635d6aaf9c2caf7abc37130e2d9aa48e7b4cc753ae4b701fde4b48abd3e1/) |
 | ❌ | 2024/10/24 | 0-22 | [Pixies](https://ws.tsl.rocks/corp/fe3875cc3bc7cd97ee3d418bb35d69d8ec90da355cbec2dfb7a364387e021240/) |
 | ❌ | 2024/10/09 | 0-1 | [GALACTIC EMPIRE](https://ws.tsl.rocks/corp/87d0b2136e9240d3a86447408e870b898e7a25372186971fba925464ba4530ab/) |
 | ❌ | 2024/10/04 | 4-15 | [Warriorlords](https://ws.tsl.rocks/corp/a78c29b9e1c9f793205ba10d796dcabc114ef43d86f0bd34a43a56dc6da768aa/) |
