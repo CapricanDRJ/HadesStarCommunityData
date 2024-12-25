@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​清霄阁（防御协会）
-description: W:4 L:5 D:0 Bonus ❌
+description: W:4 L:6 D:0 Bonus ❌
 image: ./favicon.png
-date: 1734652178
+date: 1735114895
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 1734652178
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔻  (960)|
-| ELO Competitive | 1229 🔻  (462)|
-| Total Matches | 9 |
+| ELO Regular | 1159 🔻  (1041)|
+| ELO Competitive | 1215 🔻  (542)|
+| Total Matches | 10 |
 | Wins | 4 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 2 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734220178,1733718991,1733405871,1733251433,1732932875,1732721946,1732272702,1731664805,1731230592];
+        let timestamps = [1734682895,1734220178,1733718991,1733405871,1733251433,1732932875,1732721946,1732272702,1731664805,1731230592];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/25 | 1-9 | [EarthFederation](https://ws.tsl.rocks/corp/e1d58bc0b534389adeb45301641e32cdda2af0a1748a0d2ddb52e794db2c6d5b/) |
 | ❌ | 2024/12/19 | 3-4 | [Kratos](https://ws.tsl.rocks/corp/1a0c5412c9e225a31e3addcb263114f49a6f2ac58041ffda3795db9bba72f23b/) |
 | ❌ | 2024/12/14 | 0-2 | [CTG](https://ws.tsl.rocks/corp/9647a8507dfa5637a217d2d6a0ad47aefb6a4563f910ad46376c228450cff43c/) |
 | ❌ | 2024/12/10 | 0-5 | [Sussy Coloner](https://ws.tsl.rocks/corp/6e5807915020e273feb8068226c3017f946571428ad2b058a7ee8666d63faf21/) |
