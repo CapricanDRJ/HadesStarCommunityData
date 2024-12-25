@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​闲散人员
-description: W:17 L:11 D:2 Bonus ✅
+description: W:17 L:11 D:2 Bonus ❌
 image: ./favicon.png
 date: 1735008488
 ---
@@ -16,12 +16,12 @@ date: 1735008488
 <#FFDBAF>种田 Q群254025666                                              
   <#FF1620>萌新常驻可提供r5，6，<#AAC6FF>欢迎前来打白，捐旗舰1！
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1236 🔻  (303)|
-| ELO Competitive | 1328 🔻  (219)|
+| ELO Competitive | 1328 🔻  (217)|
 | Total Matches | 30 |
 | Wins | 17 |
 | Losses | 11 |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Osmium Star llc
-description: W:29 L:3 D:0 Bonus ✅
+description: W:29 L:3 D:0 Bonus ❌
 image: ./favicon.png
 date: 1735062620
 ---
@@ -18,7 +18,7 @@ scord server is required. If you have problems joining dc server cont
 act officers or senior members, Discord invite code:zQGwx3ZtDp
 ```
 ### [Discord](https://discord.gg/zQGwx3ZtDp)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

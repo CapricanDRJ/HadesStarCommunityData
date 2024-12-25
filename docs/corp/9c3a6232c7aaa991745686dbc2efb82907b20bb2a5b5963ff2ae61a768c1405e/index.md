@@ -21,7 +21,7 @@ ual. most importantly we're here to have some fun.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (861)|
+| ELO Regular | 1176 🔻  (859)|
 | ELO Competitive | 1177 🔻  (1012)|
 | Total Matches | 2 |
 | Wins | 0 |
