@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Veteran's Haven
-description: W:6 L:14 D:0 Bonus ✅
+description: W:6 L:15 D:0 Bonus ✅
 image: ./favicon.png
-date: 1734614613
+date: 1735160273
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ ts!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1105 🔺  (1255)|
-| ELO Competitive | 1131 🔺  (1280)|
-| Total Matches | 20 |
+| ELO Regular | 1089 🔻  (1282)|
+| ELO Competitive | 1117 🔻  (1301)|
+| Total Matches | 21 |
 | Wins | 6 |
-| Losses | 14 |
+| Losses | 15 |
 | Draws | 0 |
 | Streak Record | 3 |
 | Flagship | 5 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734182613,1733722596,1725238874,1724465361,1724004685,1722322109,1718269124,1717622319,1717129108,1716562346,1716001119,1715398706,1714705767,1714081704,1713496437,1713025586,1711719706,1711062268,1710328520,1709653066];
+        let timestamps = [1734728273,1734182613,1733722596,1725238874,1724465361,1724004685,1722322109,1718269124,1717622319,1717129108,1716562346,1716001119,1715398706,1714705767,1714081704,1713496437,1713025586,1711719706,1711062268,1710328520,1709653066];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -139,6 +139,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/25 | 3-33 | [Españoles](https://ws.tsl.rocks/corp/cf66069ff643cba9698afa591edab643607ea729973280dac06b6ea7e61e5ee2/) |
 | ✅ | 2024/12/19 | 17-0 | [Free Thinkers 2](https://ws.tsl.rocks/corp/9fc879b45c4053ac93d6eebdb14d856a828df8fd85800df616cdd3332683a695/) |
 | ❌ | 2024/12/14 | 6-25 | [Sternenflotte](https://ws.tsl.rocks/corp/6273be8c33cae6938fe5608aa5cf5a78e740f71dd888477b437e47ec106c0a0d/) |
 | ❌ | 2024/09/07 | 4-25 | [Rising star](https://ws.tsl.rocks/corp/b7037efd74e829aa4ac6e49960fa44cebe1477e23d25cf1640594d9168d630db/) |

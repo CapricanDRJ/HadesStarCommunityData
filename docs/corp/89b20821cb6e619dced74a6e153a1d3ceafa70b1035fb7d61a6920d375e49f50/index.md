@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Winter Star llc
-description: W:8 L:3 D:1 Bonus ✅
+description: W:8 L:3 D:1 Bonus ❌
 image: ./favicon.png
 date: 1734529028
 ---
@@ -17,7 +17,7 @@ Winter Star llc, a Beginner Corporation to help you out on your missi
 ons! //You must Join our Discord within 7 days 
 ```
 ### [Discord](https://discord.gg/SpNnydQdNf)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

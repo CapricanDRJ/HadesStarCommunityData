@@ -30,7 +30,7 @@ Discord mandatory.  <b>EEpZuWf</b>
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1237 🔺  (299)|
-| ELO Competitive | 1324 🔺  (226)|
+| ELO Competitive | 1324 🔺  (225)|
 | Total Matches | 63 |
 | Wins | 28 |
 | Losses | 35 |

@@ -22,7 +22,7 @@ cię z naszym otoczeniem. Przyjazna atmosfera i pomoc. https://discord
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1382 🔺  (67)|
-| ELO Competitive | 1458 🔺  (87)|
+| ELO Competitive | 1458 🔺  (86)|
 | Total Matches | 46 |
 | Wins | 32 |
 | Losses | 14 |

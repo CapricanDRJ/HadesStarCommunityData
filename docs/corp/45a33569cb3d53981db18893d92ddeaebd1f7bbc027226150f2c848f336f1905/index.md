@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Bloodtide
-description: W:41 L:49 D:0 Bonus ✅
+description: W:41 L:49 D:0 Bonus ❌
 image: ./favicon.png
 date: 1734528972
 ---
@@ -22,7 +22,7 @@ RS9-11
 
 ```
 ### [Discord](https://discord.gg/gBFFE5x)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
