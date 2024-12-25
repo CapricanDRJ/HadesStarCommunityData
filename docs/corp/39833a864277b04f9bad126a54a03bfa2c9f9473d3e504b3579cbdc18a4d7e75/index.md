@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​King's Guard
-description: W:26 L:71 D:5 Bonus ✅
+description: W:26 L:71 D:5 Bonus ❌
 image: ./favicon.png
 date: 1735008236
 ---
@@ -17,7 +17,7 @@ Corp. designed primarily for WS players of any level advanced to just
  starting. 
 ```
 ### [Discord](https://discord.gg/XQ4BnnSKvC)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

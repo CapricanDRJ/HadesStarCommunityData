@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​The Syndicate 
-description: W:25 L:5 D:0 Bonus ✅
+description: W:25 L:5 D:0 Bonus ❌
 image: ./favicon.png
 date: 1735032870
 ---
@@ -20,7 +20,7 @@ White star participation is only for those in the discord. No excepti
 ons.
 ```
 ### [Discord](https://discord.gg/B3N5by8zUb)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
