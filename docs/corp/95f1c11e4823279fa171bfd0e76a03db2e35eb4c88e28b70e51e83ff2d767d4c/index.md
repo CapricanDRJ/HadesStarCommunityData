@@ -21,8 +21,8 @@ s ay que hacer una comunidad activa gente; nuestra alianza F.V
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1173 🔻  (905)|
-| ELO Competitive | 1173 🔻  (1055)|
+| ELO Regular | 1173 🔻  (906)|
+| ELO Competitive | 1173 🔻  (1057)|
 | Total Matches | 2 |
 | Wins | 0 |
 | Losses | 2 |

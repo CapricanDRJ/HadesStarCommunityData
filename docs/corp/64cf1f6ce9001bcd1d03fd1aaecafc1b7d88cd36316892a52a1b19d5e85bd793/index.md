@@ -22,8 +22,8 @@ een to improve WS results. Let's kick ass together!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1209 🔻  (447)|
-| ELO Competitive | 1326 🔻  (223)|
+| ELO Regular | 1209 🔻  (448)|
+| ELO Competitive | 1326 🔻  (222)|
 | Total Matches | 57 |
 | Wins | 28 |
 | Losses | 28 |

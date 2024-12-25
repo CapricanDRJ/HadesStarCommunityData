@@ -21,8 +21,8 @@ urs and will accept new and old players. Founded 22/10/22
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1150 🔻  (1102)|
-| ELO Competitive | 1152 🔻  (1211)|
+| ELO Regular | 1150 🔻  (1103)|
+| ELO Competitive | 1152 🔻  (1212)|
 | Total Matches | 8 |
 | Wins | 2 |
 | Losses | 6 |

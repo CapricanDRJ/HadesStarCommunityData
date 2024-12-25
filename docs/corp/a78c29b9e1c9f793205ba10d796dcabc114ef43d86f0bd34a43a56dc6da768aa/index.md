@@ -23,7 +23,7 @@ ith the Titans of Terror.
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1378 🔺  (72)|
-| ELO Competitive | 1480 🔺  (72)|
+| ELO Competitive | 1480 🔺  (73)|
 | Total Matches | 49 |
 | Wins | 33 |
 | Losses | 16 |
