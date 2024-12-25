@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​RGW
-description: W:27 L:8 D:0 Bonus ✅
+description: W:27 L:8 D:0 Bonus ❌
 image: ./favicon.png
 date: 1735001928
 ---
@@ -15,7 +15,7 @@ date: 1735001928
 ```
 Herzlich willkommen. Aktive Teilnahme in WZ erwünscht.
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

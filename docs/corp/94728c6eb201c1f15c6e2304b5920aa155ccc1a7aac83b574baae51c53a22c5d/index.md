@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Galaxians
-description: W:22 L:30 D:0 Bonus ✅
+description: W:22 L:30 D:0 Bonus ❌
 image: ./favicon.png
 date: 1735095580
 ---
@@ -17,7 +17,7 @@ Small but perfectly formed English speaking Corp seeks experienced ac
 tive players wanting to grow.White Star⚪ on Thursdays.
 ```
 ### [Discord](https://discord.gg/Hc9hVMCcMT)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
