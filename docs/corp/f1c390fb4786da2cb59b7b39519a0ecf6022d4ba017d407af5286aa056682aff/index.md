@@ -22,8 +22,8 @@ e Hades Galaxy. Join us and have fun
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1227 🔻  (331)|
-| ELO Competitive | 1259 🔺  (370)|
+| ELO Regular | 1227 🔻  (332)|
+| ELO Competitive | 1259 🔺  (371)|
 | Total Matches | 7 |
 | Wins | 4 |
 | Losses | 2 |

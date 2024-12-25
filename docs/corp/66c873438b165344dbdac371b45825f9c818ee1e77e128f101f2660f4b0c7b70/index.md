@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Free Ag3nts
-description: W:4 L:0 D:0 Bonus ✅
+description: W:4 L:0 D:0 Bonus ❌
 image: ./favicon.png
 date: 1734475260
 ---
@@ -15,7 +15,7 @@ date: 1734475260
 ```
 
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |

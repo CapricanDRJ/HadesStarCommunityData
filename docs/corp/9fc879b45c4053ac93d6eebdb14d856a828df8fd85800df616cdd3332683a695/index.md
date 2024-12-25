@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Free Thinkers 2
-description: W:3 L:52 D:1 Bonus ❌
+description: W:3 L:53 D:1 Bonus ❌
 image: ./favicon.png
-date: 1734614613
+date: 1735104682
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ ive. Lets GO!
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 886 🔻  (1356)|
+| ELO Regular | 885 🔻  (1357)|
 | ELO Competitive | 920 🔻  (1361)|
-| Total Matches | 56 |
+| Total Matches | 57 |
 | Wins | 3 |
-| Losses | 52 |
+| Losses | 53 |
 | Draws | 1 |
 | Flagship | 7 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734182613,1731080024,1730239552,1727708852,1727022051,1726223571,1725535741,1723614302,1722848900,1721113729,1719169931,1718735687,1718209327,1717743428,1717308832,1716863758,1716429256,1715963262,1715517093,1715079934,1714619235,1714154110,1713709746,1713267776,1712810748,1712374454,1711900302,1711437261,1710916242,1710482356,1709991995,1709558417,1709125424,1708690614,1708238670,1707805052,1707315338,1706876487,1706421207,1705970445,1705532894,1705092340,1704636161,1704172167,1703738820,1703283532,1702803078,1702345957,1701911065,1701475779,1701027470,1700556498,1700117701,1699682716,1699235233,1698797393];
+        let timestamps = [1734672682,1734182613,1731080024,1730239552,1727708852,1727022051,1726223571,1725535741,1723614302,1722848900,1721113729,1719169931,1718735687,1718209327,1717743428,1717308832,1716863758,1716429256,1715963262,1715517093,1715079934,1714619235,1714154110,1713709746,1713267776,1712810748,1712374454,1711900302,1711437261,1710916242,1710482356,1709991995,1709558417,1709125424,1708690614,1708238670,1707805052,1707315338,1706876487,1706421207,1705970445,1705532894,1705092340,1704636161,1704172167,1703738820,1703283532,1702803078,1702345957,1701911065,1701475779,1701027470,1700556498,1700117701,1699682716,1699235233,1698797393];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -131,6 +131,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) | 0 | 2 | 0 | 2 |
 | [Rogue One](https://ws.tsl.rocks/corp/7ae9b210fd68f3dfa93682a1191388e569dc54fe9d762f02110cd7ac9c1d4477/) | 0 | 2 | 0 | 2 |
 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) | 0 | 3 | 1 | 4 |
 | [Tuatha De Danan](https://ws.tsl.rocks/corp/7741dbd0c9e7ddbc162e374691cb3346e4bb6600840f7962ec4a4414d5d2f780/) | 0 | 2 | 0 | 2 |
@@ -144,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/25 | 0-36 | [Blood Hounds](https://ws.tsl.rocks/corp/e2741eb5c16b8ee8bb67a529e90c2891eaa23eddfb2a911cc0f3687d5a47c75e/) |
 | ❌ | 2024/12/19 | 0-17 | [Veteran's Haven](https://ws.tsl.rocks/corp/254fdc629bae81f3b0ca69160e0b6e34bd81993e755e4fb5ddedd1533038a683/) |
 | ❌ | 2024/11/13 | 0-47 | [Void](https://ws.tsl.rocks/corp/d647d722a09f020b716e059ac7758172a560c7190ac4d7d306c4ede8be6c5e77/) |
 | ❌ | 2024/11/03 | 0-20 | [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​星系联盟
-description: W:1 L:1 D:0 Bonus ❌
+description: W:1 L:2 D:0 Bonus ❌
 image: ./favicon.png
-date: 1734573451
+date: 1735100777
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 1734573451
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1197 🔻  (529)|
-| ELO Competitive | 1198 🔻  (668)|
-| Total Matches | 2 |
+| ELO Regular | 1182 🔻  (820)|
+| ELO Competitive | 1184 🔻  (958)|
+| Total Matches | 3 |
 | Wins | 1 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 0 |
 | Flagship | 1 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734141451,1732243561];
+        let timestamps = [1734668777,1734141451,1732243561];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/25 | 2-9 | [🌪TORNADO ](https://ws.tsl.rocks/corp/df15d02d32c67d60995e68d6c4197c23b340a0a985f04280563d8d07bd4536fa/) |
 | ❌ | 2024/12/19 | 1-6 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) |
 | ✅ | 2024/11/27 | 1-0 | [Alpha to Omega](https://ws.tsl.rocks/corp/2b3694014264240c8c0d1bb6a20e9d120dff2b6680c98b4e06e34bfd489f9da6/) |
 
