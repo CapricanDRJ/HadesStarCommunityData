@@ -4,7 +4,6 @@ title: Bot Invite Links
 permalink: /bots
 ---
 
-# Bot Invite Links
 - [Hades' Star ELO](https://discord.com/oauth2/authorize?client_id=1198035340955504670): Recalculates and updates ELO scores every 15 minutes.
 - [Hades' Star RS Q](https://discord.com/oauth2/authorize?client_id=1055503950067007569): Manages Red Star queues with button interactions.
 - [Hades' Star Trader](https://discord.com/oauth2/authorize?client_id=1279978547569491968): Manages trading lists, inventory, and search for artifacts.
