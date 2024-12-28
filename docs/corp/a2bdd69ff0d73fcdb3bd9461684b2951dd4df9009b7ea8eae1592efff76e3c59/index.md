@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Curcubeu
-description: W:17 L:19 D:0 Bonus ❌
+description: W:17 L:20 D:0 Bonus ❌
 image: ./favicon.png
-date: 1734455361
+date: 1735291876
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ a browser: https://dsc.gg/sah
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1095 🔻  (1274)|
-| ELO Competitive | 1209 🔻  (589)|
-| Total Matches | 36 |
+| ELO Regular | 1089 🔻  (1285)|
+| ELO Competitive | 1205 🔻  (605)|
+| Total Matches | 37 |
 | Wins | 17 |
-| Losses | 19 |
+| Losses | 20 |
 | Draws | 0 |
 | Streak Record | 8 |
 | Flagship | 10 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734023361,1733558814,1732912788,1732444292,1731759351,1731187319,1729885850,1729446534,1729412869,1714896362,1711964603,1711003672,1710484759,1710017539,1709432183,1707210766,1706989785,1706707301,1706545325,1706258027,1706096652,1705810331,1705658500,1705232679,1705187607,1704799340,1704323478,1702724036,1702221529,1701762888,1701323201,1700867568,1700406531,1699970972,1699528201,1699010444];
+        let timestamps = [1734859876,1734023361,1733558814,1732912788,1732444292,1731759351,1731187319,1729885850,1729446534,1729412869,1714896362,1711964603,1711003672,1710484759,1710017539,1709432183,1707210766,1706989785,1706707301,1706545325,1706258027,1706096652,1705810331,1705658500,1705232679,1705187607,1704799340,1704323478,1702724036,1702221529,1701762888,1701323201,1700867568,1700406531,1699970972,1699528201,1699010444];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -145,6 +145,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/27 | 0-30 | [Stellar Exports](https://ws.tsl.rocks/corp/44e91582df527f0e9d3977b4c713db38b9c73a98e95ba353eccdcc601e64d027/) |
 | ❌ | 2024/12/17 | 0-9 | [King's Guard](https://ws.tsl.rocks/corp/39833a864277b04f9bad126a54a03bfa2c9f9473d3e504b3579cbdc18a4d7e75/) |
 | ❌ | 2024/12/12 | 0-34 | [星を継ぐもの](https://ws.tsl.rocks/corp/107aa372f22d23bb567b3a7fefd3442d93a2984204d7189bbb0fed1ee976ede2/) |
 | ❌ | 2024/12/04 | 0-32 | [SternenStaub](https://ws.tsl.rocks/corp/11f1e8a4d522eaef8cb40c95d07b4533097aa6509ddafd1d7efc1449e8b10f38/) |

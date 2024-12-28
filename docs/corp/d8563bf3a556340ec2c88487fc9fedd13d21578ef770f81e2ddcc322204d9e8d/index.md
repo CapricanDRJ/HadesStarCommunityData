@@ -29,8 +29,8 @@ W/D/L - 60/1/2 </color>
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1201 🔻  (485)|
-| ELO Competitive | 1202 🔻  (611)|
+| ELO Regular | 1201 🔻  (486)|
+| ELO Competitive | 1202 🔻  (614)|
 | Total Matches | 2 |
 | Wins | 1 |
 | Losses | 1 |

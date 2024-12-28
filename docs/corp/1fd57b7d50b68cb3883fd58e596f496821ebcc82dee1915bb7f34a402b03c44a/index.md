@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Scar
-description: W:42 L:23 D:1 Bonus ✅
+description: W:42 L:24 D:1 Bonus ❌
 image: ./favicon.png
-date: 1734693339
+date: 1735224272
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,17 +18,16 @@ e stars. Joining discord is required for all activities and White Sta
 r involvement. Link is 👇
 ```
 ### [Discord](https://discord.gg/J5kNRjVJM4)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1381 🔺  (68)|
-| ELO Competitive | 1447 🔺  (98)|
-| Total Matches | 66 |
+| ELO Regular | 1360 🔻  (86)|
+| ELO Competitive | 1434 🔻  (110)|
+| Total Matches | 67 |
 | Wins | 42 |
-| Losses | 23 |
+| Losses | 24 |
 | Draws | 1 |
-| Streak | 10 |
 | Streak Record | 10 |
 | Flagship | 7 |
 
@@ -48,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734261339,1733813637,1733307051,1732756823,1732197585,1731736027,1731096253,1730538834,1730080585,1729492805,1728880038,1728184578,1727578743,1726817285,1726268051,1725596742,1725014987,1724542296,1723946373,1723472160,1723038223,1722569123,1722088898,1721656753,1721211099,1720750657,1720298060,1719836741,1719403715,1718964058,1718528928,1718081606,1717557696,1717102671,1716643472,1716185297,1715687451,1715251789,1714816140,1714367137,1713934777,1713477512,1713044519,1712549039,1712116045,1711675832,1711150904,1710601947,1710138631,1709667190,1709092976,1708552094,1707980844,1707383004,1706943502,1706400476,1705804255,1705229073,1704659006,1704106951,1702802778,1702179149,1701494807,1700809255,1700030180,1698953656];
+        let timestamps = [1734792272,1734261339,1733813637,1733307051,1732756823,1732197585,1731736027,1731096253,1730538834,1730080585,1729492805,1728880038,1728184578,1727578743,1726817285,1726268051,1725596742,1725014987,1724542296,1723946373,1723472160,1723038223,1722569123,1722088898,1721656753,1721211099,1720750657,1720298060,1719836741,1719403715,1718964058,1718528928,1718081606,1717557696,1717102671,1716643472,1716185297,1715687451,1715251789,1714816140,1714367137,1713934777,1713477512,1713044519,1712549039,1712116045,1711675832,1711150904,1710601947,1710138631,1709667190,1709092976,1708552094,1707980844,1707383004,1706943502,1706400476,1705804255,1705229073,1704659006,1704106951,1702802778,1702179149,1701494807,1700809255,1700030180,1698953656];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) | 1 | 1 | 0 | 2 |
 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) | 1 | 1 | 0 | 2 |
 | [Elysium](https://ws.tsl.rocks/corp/d29949a00f7b1588ef5b9c7b7ca61c20fad0439b4d887721f32fbe9f018e11f1/) | 0 | 3 | 0 | 3 |
 | [Dumpster Fire](https://ws.tsl.rocks/corp/f191bf7efb93ca805453b3e11aef9278976a4c70fe9790e7813f28fcdf899121/) | 2 | 0 | 0 | 2 |
@@ -148,6 +148,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/26 | 18-31 | [Октябристы](https://ws.tsl.rocks/corp/04bc2e393574e6987401e2851108ad114745016e9bec7b70cb49fc31d1981496/) |
 | ✅ | 2024/12/20 | 36-0 | [ 墨痕 ](https://ws.tsl.rocks/corp/1beef0498f07b07217c6e0727dffd066947edc54ee6d09dc63c031def52cdd60/) |
 | ✅ | 2024/12/15 | 30-3 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) |
 | ✅ | 2024/12/09 | 24-3 | [世外桃源](https://ws.tsl.rocks/corp/7692df8056cb0736bfc429336e43c74a12d3a237305a08cef10617650dc020db/) |

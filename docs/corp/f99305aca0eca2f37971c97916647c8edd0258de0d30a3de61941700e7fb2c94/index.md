@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Corvus Ind.
-description: W:29 L:9 D:0 Bonus ✅
+description: W:29 L:9 D:0 Bonus ❌
 image: ./favicon.png
 date: 1734723695
 ---
@@ -21,12 +21,12 @@ Visit us on discord  to join:
 https://discord.gg/ysGrswJTUp
 ```
 ### [Discord](https://discord.gg/vPsNNxs)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1417 🔺  (42)|
-| ELO Competitive | 1474 🔺  (75)|
+| ELO Regular | 1417 🔺  (41)|
+| ELO Competitive | 1474 🔺  (78)|
 | Total Matches | 38 |
 | Wins | 29 |
 | Losses | 9 |

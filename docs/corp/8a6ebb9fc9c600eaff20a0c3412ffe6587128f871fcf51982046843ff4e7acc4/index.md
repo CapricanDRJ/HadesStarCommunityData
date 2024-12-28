@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​藏锋府
-description: W:4 L:1 D:0 Bonus ✅
+description: W:4 L:1 D:1 Bonus ✅
 image: ./favicon.png
-date: 1735046391
+date: 1735165896
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -29,13 +29,12 @@ date: 1735046391
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1242 🔺  (276)|
-| ELO Competitive | 1245 🔺  (411)|
-| Total Matches | 5 |
+| ELO Regular | 1238 🔻  (289)|
+| ELO Competitive | 1245 🔺  (413)|
+| Total Matches | 6 |
 | Wins | 4 |
 | Losses | 1 |
-| Draws | 0 |
-| Streak | 4 |
+| Draws | 1 |
 | Streak Record | 4 |
 | Flagship | 0 |
 
@@ -55,7 +54,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734614391,1734101180,1734098033,1733504729,1732769741];
+        let timestamps = [1734733896,1734614391,1734101180,1734098033,1733504729,1732769741];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -144,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/12/25 | 4-4 | [银河护卫队](https://ws.tsl.rocks/corp/e522df7ad34eabee08393efb864d53bdc897d0ad187170616d6ef924df5c7267/) |
 | ✅ | 2024/12/24 | 10-8 | [Death Star llc\.](https://ws.tsl.rocks/corp/3dd4906939827fa7537a3e95f8d75948c06b75a98f3c4aab253ea79857d2ce81/) |
 | ✅ | 2024/12/18 | 12-3 | [中国星际联盟](https://ws.tsl.rocks/corp/6d595623b3ba17629ed70438d85d84622ba49e733e5d6d57765a9e0a477dfc81/) |
 | ✅ | 2024/12/18 | 4-3 | [101](https://ws.tsl.rocks/corp/6b4681e994e78199b26297184be90aaf1928c04f6323f02fc316d25729e121e6/) |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Equinox
-description: W:7 L:1 D:0 Bonus ❌
+description: W:8 L:1 D:0 Bonus ✅
 image: ./favicon.png
-date: 1734770262
+date: 1735228780
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ Totally new corporation. Your experience or level is unimportant.  It
 's your commitment to grow and become stronger that is paramount. No 
 deadline though. We all do what we do when we do it...
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1274 🔻  (199)|
-| ELO Competitive | 1282 🔻  (303)|
-| Total Matches | 8 |
-| Wins | 7 |
+| ELO Regular | 1288 🔺  (178)|
+| ELO Competitive | 1297 🔺  (276)|
+| Total Matches | 9 |
+| Wins | 8 |
 | Losses | 1 |
 | Draws | 0 |
 | Streak Record | 7 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734338262,1733747833,1733116220,1732512209,1732006778,1731563544,1731130809,1730646117];
+        let timestamps = [1734796780,1734338262,1733747833,1733116220,1732512209,1732006778,1731563544,1731130809,1730646117];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/26 | 16-3 | [Winter Star llc](https://ws.tsl.rocks/corp/89b20821cb6e619dced74a6e153a1d3ceafa70b1035fb7d61a6920d375e49f50/) |
 | ❌ | 2024/12/21 | 6-12 | [Nebula alliance](https://ws.tsl.rocks/corp/b60eb81ac1cb1dfb18ded4818ad07820957f77770dace6149956fffa60a17e84/) |
 | ✅ | 2024/12/14 | 12-1 | [WhiteSTarfighte](https://ws.tsl.rocks/corp/5693bea442e36f5dbd2e36ed7b4a569f007579198d7ae00bae412c312d311dae/) |
 | ✅ | 2024/12/07 | 18-2 | [自由free](https://ws.tsl.rocks/corp/f3c8f1a4ff4df82dcb8cacc2471573cc3b267e63353ad34bec874e00d5288fd0/) |

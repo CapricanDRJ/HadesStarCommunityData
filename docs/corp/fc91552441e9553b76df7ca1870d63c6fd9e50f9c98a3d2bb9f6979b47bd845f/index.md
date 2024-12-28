@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​the heavy
-description: W:22 L:11 D:0 Bonus ✅
+description: W:22 L:11 D:0 Bonus ❌
 image: ./favicon.png
 date: 1734684324
 ---
@@ -19,11 +19,11 @@ e members are very welcome, we can assist you to grow.
 Discord mandatory to stay: <b><color=#FFFF00>6vgrePN</color></b>
 ```
 ### [Discord](https://discord.gg/6vgrePN)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1340 🔺  (109)|
+| ELO Regular | 1340 🔺  (111)|
 | ELO Competitive | 1399 🔺  (141)|
 | Total Matches | 33 |
 | Wins | 22 |

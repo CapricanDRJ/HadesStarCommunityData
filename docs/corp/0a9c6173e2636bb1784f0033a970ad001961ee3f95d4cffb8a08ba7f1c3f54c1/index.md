@@ -19,8 +19,8 @@ Strong but charm
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1153 🔻  (1088)|
-| ELO Competitive | 1153 🔻  (1205)|
+| ELO Regular | 1153 🔻  (1089)|
+| ELO Competitive | 1153 🔻  (1208)|
 | Total Matches | 3 |
 | Wins | 0 |
 | Losses | 3 |

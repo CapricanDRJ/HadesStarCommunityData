@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​MÉXICO INFINITO
-description: W:19 L:27 D:0 Bonus ❌
+description: W:19 L:28 D:0 Bonus ❌
 image: ./favicon.png
-date: 1733786197
+date: 1735290975
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ ella blanca=EB EB cuando se nos salga de los huevos
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1152 🔻  (1098)|
-| ELO Competitive | 1229 🔻  (462)|
-| Total Matches | 46 |
+| ELO Regular | 1141 🔻  (1149)|
+| ELO Competitive | 1215 🔻  (534)|
+| Total Matches | 47 |
 | Wins | 19 |
-| Losses | 27 |
+| Losses | 28 |
 | Draws | 0 |
 | Streak Record | 4 |
 | Flagship | 5 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733354197,1727497599,1726513325,1725648401,1724538991,1723511529,1722744320,1722220241,1721779667,1721342121,1720301966,1719782660,1719690101,1717298613,1716834007,1716145943,1715302869,1715224751,1714639364,1712782209,1711729023,1710092060,1710092060,1709331642,1709331256,1708631421,1708626312,1707906402,1707178016,1706462082,1705820781,1705809364,1705217352,1705214648,1704765086,1704753969,1704122882,1703981344,1703647462,1703495997,1702797068,1702601723,1702094091,1702074859,1701385115,1700071056];
+        let timestamps = [1734858975,1733354197,1727497599,1726513325,1725648401,1724538991,1723511529,1722744320,1722220241,1721779667,1721342121,1720301966,1719782660,1719690101,1717298613,1716834007,1716145943,1715302869,1715224751,1714639364,1712782209,1711729023,1710092060,1710092060,1709331642,1709331256,1708631421,1708626312,1707906402,1707178016,1706462082,1705820781,1705809364,1705217352,1705214648,1704765086,1704753969,1704122882,1703981344,1703647462,1703495997,1702797068,1702601723,1702094091,1702074859,1701385115,1700071056];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/27 | 8-29 | [Free Ag3nts](https://ws.tsl.rocks/corp/66c873438b165344dbdac371b45825f9c818ee1e77e128f101f2660f4b0c7b70/) |
 | ❌ | 2024/12/09 | 0-27 | [星落苑](https://ws.tsl.rocks/corp/6f9fa67d0699c2b71d30145d66e2765594c160992a9fe79a3fb0738eaab2e78c/) |
 | ❌ | 2024/10/03 | 2-20 | [IMPERIAL ARMADA](https://ws.tsl.rocks/corp/e01ddddb6641e517ed1a92f432da420ac4b876313397d3fe94cc8b1dbecf574d/) |
 | ❌ | 2024/09/21 | 1-25 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |

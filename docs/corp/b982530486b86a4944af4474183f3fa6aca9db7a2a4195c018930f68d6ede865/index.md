@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​ 边域
-description: W:5 L:5 D:0 Bonus ❌
+description: W:5 L:5 D:1 Bonus ❌
 image: ./favicon.png
-date: 1734825255
+date: 1735260933
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,12 +20,12 @@ date: 1734825255
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1203 🔻  (478)|
-| ELO Competitive | 1201 🔻  (617)|
-| Total Matches | 10 |
+| ELO Regular | 1202 🔻  (480)|
+| ELO Competitive | 1201 🔻  (621)|
+| Total Matches | 11 |
 | Wins | 5 |
 | Losses | 5 |
-| Draws | 0 |
+| Draws | 1 |
 | Streak Record | 3 |
 | Flagship | 2 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734393255,1733957563,1733492708,1723980671,1723515435,1723081497,1722946267,1722647255,1722187785,1721724969];
+        let timestamps = [1734828933,1734393255,1733957563,1733492708,1723980671,1723515435,1723081497,1722946267,1722647255,1722187785,1721724969];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/12/27 | 1-1 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) |
 | ❌ | 2024/12/21 | 0-14 | [АарнСарт ](https://ws.tsl.rocks/corp/22a6ca5b9d96d9fe15fd019792db66760757592e6e03678bf67bca27b028233b/) |
 | ❌ | 2024/12/16 | 2-8 | [太阳系集团](https://ws.tsl.rocks/corp/50f5e0a888ce2f21c0980be0cbb1e444e1d7eeb9dcb2095c3e428bd5bde7a9f6/) |
 | ❌ | 2024/12/11 | 1-4 | [AlyTec Sys\.](https://ws.tsl.rocks/corp/4f98eeb43077d5c00a32f9810352931d8778fb5b24d8b49c318953d489f07df0/) |

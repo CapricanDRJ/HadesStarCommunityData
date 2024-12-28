@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Dark Halo
-description: W:13 L:7 D:0 Bonus ✅
+description: W:13 L:7 D:0 Bonus ❌
 image: ./favicon.png
 date: 1734660289
 ---
@@ -15,12 +15,12 @@ date: 1734660289
 ```
 
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1277 🔺  (194)|
-| ELO Competitive | 1316 🔺  (240)|
+| ELO Regular | 1277 🔺  (196)|
+| ELO Competitive | 1316 🔺  (238)|
 | Total Matches | 20 |
 | Wins | 13 |
 | Losses | 7 |

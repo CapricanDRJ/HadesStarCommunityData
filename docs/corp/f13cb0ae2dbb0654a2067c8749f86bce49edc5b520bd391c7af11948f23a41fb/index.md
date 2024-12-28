@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​The X - Files
-description: W:3 L:57 D:0 Bonus ❌
+description: W:3 L:58 D:0 Bonus ❌
 image: ./favicon.png
-date: 1734723695
+date: 1735353178
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 1734723695
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 886 🔻  (1357)|
-| ELO Competitive | 927 🔻  (1361)|
-| Total Matches | 60 |
+| ELO Regular | 879 🔻  (1361)|
+| ELO Competitive | 924 🔻  (1364)|
+| Total Matches | 61 |
 | Wins | 3 |
-| Losses | 57 |
+| Losses | 58 |
 | Draws | 0 |
 | Flagship | 8 |
 
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734291695,1733717489,1733086478,1732486071,1731870788,1731268470,1730663851,1730059553,1729488899,1728872228,1728281344,1727650258,1727069099,1726431854,1725824234,1725223851,1724635455,1724010698,1723403346,1722798420,1722225649,1721618287,1720988704,1720400836,1719778151,1719172336,1718565598,1717977930,1717356935,1716761887,1716168775,1715543241,1714939030,1714358125,1713728978,1713124153,1712517191,1711960396,1711304459,1710729960,1710100475,1709493520,1708892253,1708283452,1707687259,1707100372,1706562158,1705895915,1705304202,1704731125,1704092226,1703444916,1702877614,1702318306,1701627950,1701020555,1700430580,1699811982,1699206687,1698690674];
+        let timestamps = [1734921178,1734291695,1733717489,1733086478,1732486071,1731870788,1731268470,1730663851,1730059553,1729488899,1728872228,1728281344,1727650258,1727069099,1726431854,1725824234,1725223851,1724635455,1724010698,1723403346,1722798420,1722225649,1721618287,1720988704,1720400836,1719778151,1719172336,1718565598,1717977930,1717356935,1716761887,1716168775,1715543241,1714939030,1714358125,1713728978,1713124153,1712517191,1711960396,1711304459,1710729960,1710100475,1709493520,1708892253,1708283452,1707687259,1707100372,1706562158,1705895915,1705304202,1704731125,1704092226,1703444916,1702877614,1702318306,1701627950,1701020555,1700430580,1699811982,1699206687,1698690674];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/) | 1 | 2 | 0 | 3 |
 | [Corvus Ind\.](https://ws.tsl.rocks/corp/f99305aca0eca2f37971c97916647c8edd0258de0d30a3de61941700e7fb2c94/) | 0 | 3 | 0 | 3 |
 | [Rising star](https://ws.tsl.rocks/corp/b7037efd74e829aa4ac6e49960fa44cebe1477e23d25cf1640594d9168d630db/) | 0 | 2 | 0 | 2 |
 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 0 | 3 | 0 | 3 |
@@ -139,7 +140,6 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [Неизбежный Рок](https://ws.tsl.rocks/corp/a075d54242806374b2fc020c48e0e4ab4077ac72faeeae7568400e0e48790289/) | 0 | 3 | 0 | 3 |
 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 0 | 8 | 0 | 8 |
 | [Bloodtide](https://ws.tsl.rocks/corp/45a33569cb3d53981db18893d92ddeaebd1f7bbc027226150f2c848f336f1905/) | 0 | 4 | 0 | 4 |
-| [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/) | 1 | 1 | 0 | 2 |
 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 0 | 2 | 0 | 2 |
 
 ---
@@ -147,6 +147,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/28 | 7-22 | [Кулак](https://ws.tsl.rocks/corp/8690c5dbe16d9d069bed96f14a2f11a942c4259147f0623fa224dc50f4009b36/) |
 | ❌ | 2024/12/20 | 0-8 | [Corvus Ind\.](https://ws.tsl.rocks/corp/f99305aca0eca2f37971c97916647c8edd0258de0d30a3de61941700e7fb2c94/) |
 | ❌ | 2024/12/14 | 6-30 | [Rising star](https://ws.tsl.rocks/corp/b7037efd74e829aa4ac6e49960fa44cebe1477e23d25cf1640594d9168d630db/) |
 | ❌ | 2024/12/06 | 8-39 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) |

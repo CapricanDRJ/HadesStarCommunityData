@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​AlyTec Sys.
-description: W:4 L:11 D:1 Bonus ❌
+description: W:4 L:12 D:1 Bonus ❌
 image: ./favicon.png
-date: 1734542499
+date: 1735173794
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ s. Discord Chat: https://discord.com/invite/8w72hqsAAb
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1120 🔻  (1215)|
-| ELO Competitive | 1129 🔻  (1280)|
-| Total Matches | 16 |
+| ELO Regular | 1106 🔻  (1257)|
+| ELO Competitive | 1115 🔻  (1306)|
+| Total Matches | 17 |
 | Wins | 4 |
-| Losses | 11 |
+| Losses | 12 |
 | Draws | 1 |
 | Flagship | 2 |
 
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734110499,1733492708,1733031180,1732569006,1732098485,1731654890,1731214963,1730760857,1730308959,1729834760,1729387027,1728938351,1728505836,1728055952,1723351651,1722852510];
+        let timestamps = [1734741794,1734110499,1733492708,1733031180,1732569006,1732098485,1731654890,1731214963,1730760857,1730308959,1729834760,1729387027,1728938351,1728505836,1728055952,1723351651,1722852510];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/26 | 0-3 | [Alpha to Omega](https://ws.tsl.rocks/corp/2b3694014264240c8c0d1bb6a20e9d120dff2b6680c98b4e06e34bfd489f9da6/) |
 | ❌ | 2024/12/18 | 2-3 | [银河护卫队](https://ws.tsl.rocks/corp/e522df7ad34eabee08393efb864d53bdc897d0ad187170616d6ef924df5c7267/) |
 | ✅ | 2024/12/11 | 4-1 | [ 边域](https://ws.tsl.rocks/corp/b982530486b86a4944af4474183f3fa6aca9db7a2a4195c018930f68d6ede865/) |
 | ❌ | 2024/12/06 | 2-6 | [昙花一现](https://ws.tsl.rocks/corp/f4fd4fa59ab25e2d5c7dbeade6de593918c0902906d810e0f1688ec1133b9510/) |

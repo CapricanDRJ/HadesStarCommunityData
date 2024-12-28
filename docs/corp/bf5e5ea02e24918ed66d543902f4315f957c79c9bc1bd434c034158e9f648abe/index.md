@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​麻雀集团
-description: W:1 L:5 D:2 Bonus ❌
+description: W:1 L:6 D:2 Bonus ❌
 image: ./favicon.png
-date: 1729703326
+date: 1735205348
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,11 +22,11 @@ date: 1729703326
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1155 🔺  (1074)|
-| ELO Competitive | 1167 🔺  (1117)|
-| Total Matches | 8 |
+| ELO Regular | 1140 🔻  (1154)|
+| ELO Competitive | 1155 🔻  (1205)|
+| Total Matches | 9 |
 | Wins | 1 |
-| Losses | 5 |
+| Losses | 6 |
 | Draws | 2 |
 | Flagship | 2 |
 
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1729271326,1728396433,1727960677,1727511120,1727064592,1726632268,1726057106,1725076595];
+        let timestamps = [1734773348,1729271326,1728396433,1727960677,1727511120,1727064592,1726632268,1726057106,1725076595];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/26 | 0-3 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ✅ | 2024/10/23 | 2-0 | [银河护卫队](https://ws.tsl.rocks/corp/e522df7ad34eabee08393efb864d53bdc897d0ad187170616d6ef924df5c7267/) |
 | ❌ | 2024/10/13 | 0-13 | [荣耀之星](https://ws.tsl.rocks/corp/4334fd4d4ffbc89487deaec7bb38025aba46209b810578436882be271fdbff23/) |
 | ❌ | 2024/10/08 | 1-6 | [hades star萌新指引站](https://ws.tsl.rocks/corp/06feef105195a4e2ec026c0e3e2c62fce31204dfe6be8e4b26863935efbf8a50/) |

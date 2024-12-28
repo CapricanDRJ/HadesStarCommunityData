@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​银河护卫队
-description: W:7 L:10 D:2 Bonus ✅
+description: W:7 L:11 D:3 Bonus ❌
 image: ./favicon.png
-date: 1734542499
+date: 1735169288
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,16 +17,16 @@ date: 1734542499
 26日成立，欢迎各位大佬和新手加入星际集团。长住、活跃晋升。萌新福利：30级以下4个r6或8个r 5，50级以下两个r 6或4个r 5。集
 团不招外国人。请捐旗舰一。黑名单：undercover、一切与瓜老板有关系的人，让我们共同努力，成为这个游戏里最强的集
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1155 🔺  (1070)|
-| ELO Competitive | 1235 🔺  (438)|
-| Total Matches | 19 |
+| ELO Regular | 1149 🔻  (1111)|
+| ELO Competitive | 1235 🔺  (439)|
+| Total Matches | 21 |
 | Wins | 7 |
-| Losses | 10 |
-| Draws | 2 |
+| Losses | 11 |
+| Draws | 3 |
 | Streak Record | 2 |
 | Flagship | 4 |
 
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734110499,1734099978,1733583688,1733549499,1732920709,1732315701,1732296143,1731583372,1731559638,1731085434,1731076718,1730622674,1730621472,1729995836,1729903578,1729271326,1728322514,1727870219,1726669030];
+        let timestamps = [1734737288,1734733896,1734110499,1734099978,1733583688,1733549499,1732920709,1732315701,1732296143,1731583372,1731559638,1731085434,1731076718,1730622674,1730621472,1729995836,1729903578,1729271326,1728322514,1727870219,1726669030];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -140,6 +140,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/25 | 0-10 | [蓝星集团](https://ws.tsl.rocks/corp/9d718b80beaf9682ccde175169372b72f70b75bb593770762dfc9e990cbd098a/) |
+| ↔️ | 2024/12/25 | 4-4 | [藏锋府](https://ws.tsl.rocks/corp/8a6ebb9fc9c600eaff20a0c3412ffe6587128f871fcf51982046843ff4e7acc4/) |
 | ✅ | 2024/12/18 | 3-2 | [AlyTec Sys\.](https://ws.tsl.rocks/corp/4f98eeb43077d5c00a32f9810352931d8778fb5b24d8b49c318953d489f07df0/) |
 | ❌ | 2024/12/18 | 0-13 | [萌新集团](https://ws.tsl.rocks/corp/cda6bb5c1bf595967bd6f4a2e94f7c7fcc50df3774ccee7939822c252b9cd224/) |
 | ↔️ | 2024/12/12 | 1-1 | [Russia](https://ws.tsl.rocks/corp/9934f669a279406be015265596669afd7dd1c4e30f2a7bba308feaff75b33932/) |

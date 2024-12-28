@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​星际联盟（中国）
-description: W:12 L:15 D:2 Bonus ✅
+description: W:12 L:15 D:2 Bonus ❌
 image: ./favicon.png
 date: 1735122106
 ---
@@ -25,12 +25,12 @@ date: 1735122106
 https://discord.gg/fAejNbTH
 ```
 ### [Discord](https://discord.gg/AKnA5maMnG)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1215 🔻  (408)|
-| ELO Competitive | 1247 🔻  (407)|
+| ELO Competitive | 1247 🔻  (409)|
 | Total Matches | 29 |
 | Wins | 12 |
 | Losses | 15 |

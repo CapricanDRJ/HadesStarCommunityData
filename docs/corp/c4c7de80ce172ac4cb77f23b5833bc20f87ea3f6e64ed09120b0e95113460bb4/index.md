@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​imperio estelar
-description: W:5 L:12 D:3 Bonus ❌
+description: W:6 L:12 D:3 Bonus ✅
 image: ./favicon.png
-date: 1733878440
+date: 1735187612
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,17 +17,17 @@ date: 1733878440
 r=purple><size=50>                       🪐🌌..."El qué Persevera Alc
 anza"...🌌🪐<b><color=red><size=95>    La Unión nos Fortalece
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1167 🔺  (984)|
-| ELO Competitive | 1212 🔺  (565)|
-| Total Matches | 20 |
-| Wins | 5 |
+| ELO Regular | 1177 🔺  (859)|
+| ELO Competitive | 1224 🔺  (478)|
+| Total Matches | 21 |
+| Wins | 6 |
 | Losses | 12 |
 | Draws | 3 |
-| Streak | 2 |
+| Streak | 3 |
 | Streak Record | 3 |
 | Flagship | 5 |
 
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733446440,1732843077,1731993560,1731257948,1730674670,1730013264,1729405957,1728880039,1728315903,1727876231,1727283645,1726828101,1726270454,1725661354,1725165843,1721010639,1720576341,1709123621,1702401857,1699251155];
+        let timestamps = [1734755612,1733446440,1732843077,1731993560,1731257948,1730674670,1730013264,1729405957,1728880039,1728315903,1727876231,1727283645,1726828101,1726270454,1725661354,1725165843,1721010639,1720576341,1709123621,1702401857,1699251155];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [拆迁大队](https://ws.tsl.rocks/corp/d8de6fa1ed53aeb856209de01d8a990a562d7438e0abe2cfe50776bb11345f17/) | 1 | 1 | 0 | 2 |
 | [lesescargots](https://ws.tsl.rocks/corp/718c873931e9097064fd6ef580fe9d8761be712e0783e0b97d28344abd910623/) | 0 | 2 | 0 | 2 |
 
 ---
@@ -141,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/26 | 13-0 | [拆迁大队](https://ws.tsl.rocks/corp/d8de6fa1ed53aeb856209de01d8a990a562d7438e0abe2cfe50776bb11345f17/) |
 | ✅ | 2024/12/11 | 6-0 | [Empire of Light](https://ws.tsl.rocks/corp/5ca200f11c7f9dedf112be9585982247820f97c82868bacb956c0ef8d19262bc/) |
 | ✅ | 2024/12/04 | 10-3 | [Eastern Front](https://ws.tsl.rocks/corp/b85c2704ee1257f24225de4e7290aa6b9c6804f07062fbc7008a58b8c0ab09a4/) |
 | ❌ | 2024/11/24 | 5-20 | [lesescargots](https://ws.tsl.rocks/corp/718c873931e9097064fd6ef580fe9d8761be712e0783e0b97d28344abd910623/) |

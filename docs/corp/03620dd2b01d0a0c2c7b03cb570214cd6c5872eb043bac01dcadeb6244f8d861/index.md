@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​ℬlackStar Order
-description: W:4 L:2 D:0 Bonus ✅
+description: W:6 L:2 D:0 Bonus ✅
 image: ./favicon.png
-date: 1734895563
+date: 1735358885
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,12 +19,13 @@ date: 1734895563
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1228 🔺  (327)|
-| ELO Competitive | 1249 🔺  (399)|
-| Total Matches | 6 |
-| Wins | 4 |
+| ELO Regular | 1259 🔺  (229)|
+| ELO Competitive | 1273 🔺  (322)|
+| Total Matches | 8 |
+| Wins | 6 |
 | Losses | 2 |
 | Draws | 0 |
+| Streak | 3 |
 | Streak Record | 3 |
 | Flagship | 0 |
 
@@ -44,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734463563,1734150913,1734008635,1733564825,1733110512,1732621881];
+        let timestamps = [1734926885,1734749904,1734463563,1734150913,1734008635,1733564825,1733110512,1732621881];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +134,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/28 | 5-1 | [万星联盟](https://ws.tsl.rocks/corp/d026d8709834bc63f871c9bad372f834210c3efaa3826f53984199523d2ed9ed/) |
+| ✅ | 2024/12/26 | 3-0 | [StargateCommand](https://ws.tsl.rocks/corp/b378193d0b158ce0513a666f0c19da1599421d036e3fd12c0f287d02cac78ccb/) |
 | ✅ | 2024/12/22 | 11-0 | [Fang Empire](https://ws.tsl.rocks/corp/3d903fdc947fc738eddae3b29d9759a754c972382ca06dafc30596f20cac6be6/) |
 | ❌ | 2024/12/19 | 0-10 | [蓝色星系二号分盟](https://ws.tsl.rocks/corp/40ffb900f40aefc1fa4fddd4d036e0466577312c7fb8e16ae315cd8868015297/) |
 | ❌ | 2024/12/17 | 4-14 | [对，进就进人少的（分团）](https://ws.tsl.rocks/corp/69a860d3020745a9088fa70fa7ebc4caaa8a6181832961bcd607fbfa627203f3/) |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​华夏三体-基沃托斯集团
-description: W:3 L:9 D:2 Bonus ✅
+description: W:3 L:9 D:2 Bonus ❌
 image: ./favicon.png
 date: 1735072057
 ---
@@ -17,12 +17,12 @@ date: 1735072057
 5723 黑名单：black star。Chinese Trimaran Fleet Division, welcome to join，
 Resident gift artifact
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1149 🔻  (1107)|
-| ELO Competitive | 1186 🔻  (848)|
+| ELO Regular | 1149 🔻  (1109)|
+| ELO Competitive | 1186 🔻  (851)|
 | Total Matches | 14 |
 | Wins | 3 |
 | Losses | 9 |

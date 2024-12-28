@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Nox Imperium
-description: W:21 L:2 D:0 Bonus ✅
+description: W:22 L:2 D:0 Bonus ✅
 image: ./favicon.png
-date: 1734681920
+date: 1735217058
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,14 +21,14 @@ date: 1734681920
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1395 🔺  (58)|
-| ELO Competitive | 1420 🔺  (119)|
-| Total Matches | 23 |
-| Wins | 21 |
+| ELO Regular | 1402 🔺  (53)|
+| ELO Competitive | 1426 🔺  (117)|
+| Total Matches | 24 |
+| Wins | 22 |
 | Losses | 2 |
 | Draws | 0 |
-| Streak | 17 |
-| Streak Record | 17 |
+| Streak | 18 |
+| Streak Record | 18 |
 | Flagship | 4 |
 
 ---
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734249920,1733688245,1733079264,1732483067,1731882684,1731346899,1730590226,1729642155,1729158623,1728720411,1728234768,1727802311,1727366582,1726898116,1726457394,1725972971,1725537544,1725027912,1724591276,1724153132,1723641646,1723203498,1722757542];
+        let timestamps = [1734785058,1734249920,1733688245,1733079264,1732483067,1731882684,1731346899,1730590226,1729642155,1729158623,1728720411,1728234768,1727802311,1727366582,1726898116,1726457394,1725972971,1725537544,1725027912,1724591276,1724153132,1723641646,1723203498,1722757542];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/26 | 7-0 | [Stargroup](https://ws.tsl.rocks/corp/cf430206a6a585f302ac5d76adf50b780f002f52ebbb82b323f933f5a0a25c4f/) |
 | ✅ | 2024/12/20 | 20-1 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
 | ✅ | 2024/12/13 | 23-4 | [SiriusStrawMoo](https://ws.tsl.rocks/corp/c83a5744ea256d2c1fa59660bc0e18e8d01a2a467bc13fec27a8b30f689e220b/) |
 | ✅ | 2024/12/06 | 27-0 | [Dirty Minds Inc](https://ws.tsl.rocks/corp/c8436a708008779e050bd40e98b52fc38b3782b31d5fdd99c74918af8005d778/) |

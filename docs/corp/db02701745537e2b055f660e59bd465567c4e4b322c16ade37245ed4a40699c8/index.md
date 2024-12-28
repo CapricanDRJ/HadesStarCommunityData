@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Russian Style
-description: W:3 L:7 D:1 Bonus ❌
+description: W:3 L:8 D:1 Bonus ❌
 image: ./favicon.png
-date: 1734674172
+date: 1735200294
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ date: 1734674172
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1148 🔻  (1110)|
-| ELO Competitive | 1153 🔻  (1209)|
-| Total Matches | 11 |
+| ELO Regular | 1141 🔻  (1148)|
+| ELO Competitive | 1146 🔻  (1236)|
+| Total Matches | 12 |
 | Wins | 3 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 1 |
 | Streak Record | 2 |
 | Flagship | 3 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734242172,1730614862,1710346551,1708061078,1705820781,1704736148,1702900152,1701848214,1700794832,1699838434,1698696389];
+        let timestamps = [1734768294,1734242172,1730614862,1710346551,1708061078,1705820781,1704736148,1702900152,1701848214,1700794832,1699838434,1698696389];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -134,6 +134,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/26 | 3-22 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) |
 | ❌ | 2024/12/20 | 0-10 | [星际联盟（中国）](https://ws.tsl.rocks/corp/1deb8ab45257a86051f9c285bbbe06652a56d93118d8e442a0a30ddd179f4256/) |
 | ↔️ | 2024/11/08 | 0-0 | [星际公约组织](https://ws.tsl.rocks/corp/72e8750bccc297a8a97c53745622d1acc8a59cc5cb7618e58ce5bb12f98849d0/) |
 | ❌ | 2024/03/18 | 0-6 | [한국인](https://ws.tsl.rocks/corp/f2b2c144f02ec69dfe3bd7fb8d4d1db10d7e3954a2f45937f16daafb0266490e/) |

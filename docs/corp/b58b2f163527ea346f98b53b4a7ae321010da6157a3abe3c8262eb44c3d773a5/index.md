@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Sons of Liberty
-description: W:6 L:0 D:0 Bonus ✅
+description: W:6 L:0 D:0 Bonus ❌
 image: ./favicon.png
 date: 1734729106
 ---
@@ -18,12 +18,12 @@ he Game, Likapa.
 Discord mandatory - join at the link below ↓
 ```
 ### [Discord](https://discord.gg/qfRt7h4Gcb)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1290 🔺  (173)|
-| ELO Competitive | 1312 🔺  (248)|
+| ELO Regular | 1290 🔺  (174)|
+| ELO Competitive | 1312 🔺  (246)|
 | Total Matches | 6 |
 | Wins | 6 |
 | Losses | 0 |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Stargroup
-description: W:0 L:0 D:1 Bonus ❌
+description: W:0 L:1 D:1 Bonus ❌
 image: ./favicon.png
-date: 1728199900
+date: 1735217058
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ We do all types of stars we help in red stars we prepare to battle in
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1197 🔻  (532)|
-| ELO Competitive | 1201 🔺  (629)|
-| Total Matches | 1 |
+| ELO Regular | 1190 🔻  (591)|
+| ELO Competitive | 1194 🔻  (699)|
+| Total Matches | 2 |
 | Wins | 0 |
-| Losses | 0 |
+| Losses | 1 |
 | Draws | 1 |
 | Flagship | 1 |
 
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727767900];
+        let timestamps = [1734785058,1727767900];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/26 | 0-7 | [Nox Imperium](https://ws.tsl.rocks/corp/b60fb003fae650d1de18e7bca4fad04f9805501f4568d07ceb47bffdfeb613c1/) |
 | ↔️ | 2024/10/06 | 0-0 | [宇宙联盟（中国）](https://ws.tsl.rocks/corp/f65e4271e098ff050b7e566effe810ba1757388a6eecf4b818ed6c3502743dec/) |
 
 ---

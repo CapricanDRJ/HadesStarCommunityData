@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Warriorlords
-description: W:33 L:16 D:0 Bonus ✅
+description: W:33 L:16 D:0 Bonus ❌
 image: ./favicon.png
 date: 1734561434
 ---
@@ -18,12 +18,12 @@ A place for people to enjoy the game, to just play. Live to fight for
 ith the Titans of Terror. 
 ```
 ### [Discord](https://discord.gg/2HZBvzmbtx)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1378 🔺  (72)|
-| ELO Competitive | 1480 🔺  (73)|
+| ELO Competitive | 1480 🔺  (74)|
 | Total Matches | 49 |
 | Wins | 33 |
 | Losses | 16 |

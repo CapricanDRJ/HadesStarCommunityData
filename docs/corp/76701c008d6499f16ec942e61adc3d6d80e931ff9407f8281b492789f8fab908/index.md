@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​New Star
-description: W:4 L:6 D:0 Bonus ✅
+description: W:4 L:6 D:0 Bonus ❌
 image: ./favicon.png
 date: 1734731510
 ---
@@ -20,12 +20,12 @@ We are friendly international corp. English and/or German prefered, b
 ut other languages tolerated. 
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/38aedttX)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1216 🔺  (384)|
-| ELO Competitive | 1248 🔺  (402)|
+| ELO Regular | 1216 🔺  (383)|
+| ELO Competitive | 1248 🔺  (404)|
 | Total Matches | 10 |
 | Wins | 4 |
 | Losses | 6 |

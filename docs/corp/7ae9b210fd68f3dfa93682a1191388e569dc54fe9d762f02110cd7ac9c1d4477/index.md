@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Rogue One
-description: W:42 L:31 D:1 Bonus ✅
+description: W:42 L:31 D:1 Bonus ❌
 image: ./favicon.png
 date: 1734688231
 ---
@@ -18,11 +18,11 @@ ONE, Join the Imperial Armada and we shall Burn our Enemies in glorio
 us and Righteous Fury! ws every week,
 ```
 ### [Discord](https://discord.gg/PY7xzmc7nm)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1294 🔺  (169)|
+| ELO Regular | 1294 🔺  (170)|
 | ELO Competitive | 1410 🔺  (131)|
 | Total Matches | 74 |
 | Wins | 42 |

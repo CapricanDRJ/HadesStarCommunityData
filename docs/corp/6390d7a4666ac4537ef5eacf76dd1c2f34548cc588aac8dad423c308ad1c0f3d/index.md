@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​水晶星际集团
-description: W:6 L:25 D:0 Bonus ❌
+description: W:7 L:26 D:0 Bonus ✅
 image: ./favicon.png
-date: 1727926694
+date: 1735203672
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,15 +17,15 @@ date: 1727926694
 席QQ群：756986132 如果敌人发起进攻，就向敌人运输船舰进攻。禁止开启允许旁观。禁止私自动旗舰。没事不要打敌人。星火协会成员，〈b
 r〉南极星联盟成员
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1047 🔻  (1319)|
-| ELO Competitive | 1091 🔻  (1324)|
-| Total Matches | 31 |
-| Wins | 6 |
-| Losses | 25 |
+| ELO Regular | 1055 🔻  (1314)|
+| ELO Competitive | 1112 🔺  (1310)|
+| Total Matches | 33 |
+| Wins | 7 |
+| Losses | 26 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 4 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1727494694,1724591276,1724591276,1724079812,1722761148,1721129957,1721129657,1719657040,1717020333,1716008930,1715224751,1714396881,1713018973,1712578785,1712140980,1711284019,1710411447,1709978472,1709486721,1709035281,1708572824,1708095935,1707654196,1707141838,1706623157,1706176888,1705701779,1704546602,1703809146,1703314182,1702041491];
+        let timestamps = [1734771672,1734759480,1727494694,1724591276,1724591276,1724079812,1722761148,1721129957,1721129657,1719657040,1717020333,1716008930,1715224751,1714396881,1713018973,1712578785,1712140980,1711284019,1710411447,1709978472,1709486721,1709035281,1708572824,1708095935,1707654196,1707141838,1706623157,1706176888,1705701779,1704546602,1703809146,1703314182,1702041491];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,8 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/26 | 0-3 | [环星集团](https://ws.tsl.rocks/corp/8a1148b4fbc41d0b26a8a865ec524c7ab8965e7df2c1002344b8cbd075a12fdd/) |
+| ✅ | 2024/12/26 | 8-0 | [ 墨痕 ](https://ws.tsl.rocks/corp/1beef0498f07b07217c6e0727dffd066947edc54ee6d09dc63c031def52cdd60/) |
 | ❌ | 2024/10/03 | 0-11 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |
 | ❌ | 2024/08/30 | 0-13 | [Nox Imperium](https://ws.tsl.rocks/corp/b60fb003fae650d1de18e7bca4fad04f9805501f4568d07ceb47bffdfeb613c1/) |
 | ✅ | 2024/08/30 | 5-0 | [初始之音](https://ws.tsl.rocks/corp/79f48676f0ad15541a751311b97bae91c977d65480891a675585fc396c20bdb9/) |

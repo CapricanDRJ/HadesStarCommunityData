@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​FoxTale
-description: W:3 L:5 D:0 Bonus ❌
+description: W:3 L:5 D:1 Bonus ❌
 image: ./favicon.png
-date: 1734751937
+date: 1735333050
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -23,12 +23,12 @@ The Corporation's Discord = https://discord.gg/w2HZf2cwc2
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1176 🔻  (867)|
-| ELO Competitive | 1191 🔻  (736)|
-| Total Matches | 8 |
+| ELO Regular | 1175 🔻  (884)|
+| ELO Competitive | 1190 🔻  (758)|
+| Total Matches | 9 |
 | Wins | 3 |
 | Losses | 5 |
-| Draws | 0 |
+| Draws | 1 |
 | Streak Record | 3 |
 | Flagship | 4 |
 
@@ -48,7 +48,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734319937,1733039129,1732593040,1732148613,1731708684,1731055682,1704192298,1703685626];
+        let timestamps = [1734901050,1734319937,1733039129,1732593040,1732148613,1731708684,1731055682,1704192298,1703685626];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -137,6 +137,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/12/27 | 4-4 | [<•\|•\>](https://ws.tsl.rocks/corp/a3864fad7e4ba08611eda264a7934afe237a2f313a23b12dcce9db0a96a09daf/) |
 | ❌ | 2024/12/21 | 3-12 | [ALPHA](https://ws.tsl.rocks/corp/e30ca8011a6277e53ef6e20d413ae271f480b54849c0746d74231c83fdd3acf4/) |
 | ❌ | 2024/12/06 | 4-6 | [Blazing Stars](https://ws.tsl.rocks/corp/f1c390fb4786da2cb59b7b39519a0ecf6022d4ba017d407af5286aa056682aff/) |
 | ✅ | 2024/12/01 | 7-3 | [佛矿寺](https://ws.tsl.rocks/corp/64f8afd95b7004e9d5a442da55644ee3ce64a9a8e82345c458d757b527e40624/) |

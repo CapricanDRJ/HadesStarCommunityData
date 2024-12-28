@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​碧海听潮阁
-description: W:1 L:2 D:1 Bonus ✅
+description: W:1 L:2 D:2 Bonus ❌
 image: ./favicon.png
-date: 1735005833
+date: 1735260933
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,16 +15,16 @@ date: 1735005833
 ```
 
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1185 🔻  (722)|
-| ELO Competitive | 1200 🔻  (645)|
-| Total Matches | 4 |
+| ELO Regular | 1186 🔺  (679)|
+| ELO Competitive | 1215 🔻  (543)|
+| Total Matches | 5 |
 | Wins | 1 |
 | Losses | 2 |
-| Draws | 1 |
+| Draws | 2 |
 | Flagship | 0 |
 
 ---
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734573833,1734364407,1734141451,1733703372];
+        let timestamps = [1734828933,1734573833,1734364407,1734141451,1733703372];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/12/27 | 1-1 | [ 边域](https://ws.tsl.rocks/corp/b982530486b86a4944af4474183f3fa6aca9db7a2a4195c018930f68d6ede865/) |
 | ❌ | 2024/12/24 | 2-3 | [Cool Casual](https://ws.tsl.rocks/corp/9a2a796d16f4c8e1d525d5964621454c42a10aa6c544766a55463862c9d3b6f0/) |
 | ❌ | 2024/12/21 | 3-10 | [Empire of Hades](https://ws.tsl.rocks/corp/5772c612f584faa0a1fcb0a9a96f08ee4ebba1f4cc1105d95634c651bddf54bf/) |
 | ✅ | 2024/12/19 | 6-1 | [星系联盟](https://ws.tsl.rocks/corp/701707befdc5df7661af18b4d249ef83b62ca47ad90084d24cfb776112ee4a36/) |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​佛矿寺
-description: W:13 L:54 D:1 Bonus ✅
+description: W:13 L:54 D:1 Bonus ❌
 image: ./favicon.png
 date: 1735105283
 ---
@@ -21,12 +21,12 @@ peaceful ws recommended. send diplo to 梦心话 to negotiate
 国人交流大群：597444221
 神器交易群：915130142
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 987 🔻  (1342)|
-| ELO Competitive | 1047 🔻  (1349)|
+| ELO Regular | 987 🔻  (1346)|
+| ELO Competitive | 1047 🔻  (1351)|
 | Total Matches | 68 |
 | Wins | 13 |
 | Losses | 54 |

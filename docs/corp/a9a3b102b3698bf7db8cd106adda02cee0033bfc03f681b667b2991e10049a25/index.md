@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Млечный путь
-description: W:16 L:17 D:0 Bonus ✅
+description: W:16 L:18 D:0 Bonus ✅
 image: ./favicon.png
-date: 1734773867
+date: 1735225475
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -22,13 +22,12 @@ date: 1734773867
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1236 🔺  (302)|
-| ELO Competitive | 1290 🔺  (286)|
-| Total Matches | 33 |
+| ELO Regular | 1227 🔻  (334)|
+| ELO Competitive | 1280 🔻  (309)|
+| Total Matches | 34 |
 | Wins | 16 |
-| Losses | 17 |
+| Losses | 18 |
 | Draws | 0 |
-| Streak | 4 |
 | Streak Record | 6 |
 | Flagship | 7 |
 
@@ -48,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734341867,1733798911,1733790807,1733317832,1732767939,1731915431,1730884104,1725866897,1719736374,1719183457,1718613370,1718012485,1717389990,1712917110,1712471207,1712469705,1712029810,1710127861,1708916588,1708311997,1707710692,1706498746,1706273653,1705892309,1703477367,1702792561,1702741470,1702356474,1702306883,1701841935,1701405847,1700914149,1699348812];
+        let timestamps = [1734793475,1734341867,1733798911,1733790807,1733317832,1732767939,1731915431,1730884104,1725866897,1719736374,1719183457,1718613370,1718012485,1717389990,1712917110,1712471207,1712469705,1712029810,1710127861,1708916588,1708311997,1707710692,1706498746,1706273653,1705892309,1703477367,1702792561,1702741470,1702356474,1702306883,1701841935,1701405847,1700914149,1699348812];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -143,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/26 | 0-13 | [Czech Legion](https://ws.tsl.rocks/corp/b4453b41cf7b1c019648ed14db493a47c8a64347e689013b2c969bf97e251ec8/) |
 | ✅ | 2024/12/21 | 14-0 | [Red Alliance](https://ws.tsl.rocks/corp/72789009cc9ae3283afaad2d17fcfbd83e52175a6d6e4ec1a7161ef38645b0d8/) |
 | ✅ | 2024/12/15 | 6-0 | [Decode](https://ws.tsl.rocks/corp/848408d1ee1a3c08302a936241ea5cbe170cb66dc343d3339ed3ae4baeb82e57/) |
 | ✅ | 2024/12/15 | 6-1 | [Bl@ck/Galaxy ](https://ws.tsl.rocks/corp/76f8fe0dcd8b8c1cb8e0083f14c0b36c23bb9757a3af0f191b567774c02222a3/) |

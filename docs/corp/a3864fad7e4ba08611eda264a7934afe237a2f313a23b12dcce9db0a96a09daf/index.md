@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​<•|•>
-description: W:4 L:8 D:1 Bonus ❌
+description: W:4 L:8 D:2 Bonus ❌
 image: ./favicon.png
-date: 1733633094
+date: 1735333050
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,12 +20,12 @@ s.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1149 🔺  (1109)|
-| ELO Competitive | 1159 🔺  (1174)|
-| Total Matches | 13 |
+| ELO Regular | 1150 🔺  (1107)|
+| ELO Competitive | 1160 🔺  (1169)|
+| Total Matches | 14 |
 | Wins | 4 |
 | Losses | 8 |
-| Draws | 1 |
+| Draws | 2 |
 | Flagship | 4 |
 
 ---
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733201094,1732209718,1728022039,1727509017,1725537544,1723962299,1723408155,1722895788,1722340138,1721729175,1720857653,1720155610,1716780511];
+        let timestamps = [1734901050,1733201094,1732209718,1728022039,1727509017,1725537544,1723962299,1723408155,1722895788,1722340138,1721729175,1720857653,1720155610,1716780511];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/12/27 | 4-4 | [FoxTale](https://ws.tsl.rocks/corp/5c64a00667d690f695d9dd90c073b5113f126e33cbdaa03a3c3e62ceca843b2c/) |
 | ✅ | 2024/12/08 | 4-0 | [欢迎国人](https://ws.tsl.rocks/corp/f32abd112fe2b826948a3538a51097b9114815930ec77ad11ada1b24ce34578d/) |
 | ❌ | 2024/11/26 | 2-3 | [Dirty Minds Inc](https://ws.tsl.rocks/corp/c8436a708008779e050bd40e98b52fc38b3782b31d5fdd99c74918af8005d778/) |
 | ✅ | 2024/10/09 | 4-2 | [数字星际集团](https://ws.tsl.rocks/corp/ccbf6be33652cb1b91bc9047b966ffdd6b313cc569d1e0a9fb832e6e8dc1d361/) |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Держава Русь
-description: W:0 L:30 D:1 Bonus ❌
+description: W:0 L:31 D:1 Bonus ❌
 image: ./favicon.png
-date: 1734851388
+date: 1735289773
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 1734851388
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 950 🔻  (1350)|
-| ELO Competitive | 1017 🔻  (1357)|
-| Total Matches | 31 |
+| ELO Regular | 949 🔻  (1353)|
+| ELO Competitive | 1015 🔻  (1360)|
+| Total Matches | 32 |
 | Wins | 0 |
-| Losses | 30 |
+| Losses | 31 |
 | Draws | 1 |
 | Flagship | 10 |
 
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734419388,1733974084,1733504729,1733460378,1732945237,1732938928,1732265191,1732255878,1730445076,1729919505,1729386126,1727000285,1724394437,1723930750,1723484183,1722861222,1722397236,1721933526,1721478244,1720983293,1720427277,1719985198,1719552467,1719116729,1705470683,1702571064,1701016646,1700399014,1699753965,1699133971,1699133971];
+        let timestamps = [1734857773,1734419388,1733974084,1733504729,1733460378,1732945237,1732938928,1732265191,1732255878,1730445076,1729919505,1729386126,1727000285,1724394437,1723930750,1723484183,1722861222,1722397236,1721933526,1721478244,1720983293,1720427277,1719985198,1719552467,1719116729,1705470683,1702571064,1701016646,1700399014,1699753965,1699133971,1699133971];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -138,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/27 | 12-45 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) |
 | ❌ | 2024/12/22 | 5-12 | [StellaMysterium](https://ws.tsl.rocks/corp/cfaaa81ed93cc9361ade470c3414c73ecf77068badd68d624c7b3f486d142b10/) |
 | ↔️ | 2024/12/17 | 9-9 | [Alpaca Haven](https://ws.tsl.rocks/corp/e93a2f2efda24a65c8ee7eb57fbb269e19b2b1c28a67c6c7c3339b8c90f7726b/) |
 | ❌ | 2024/12/11 | 1-23 | [藏锋府](https://ws.tsl.rocks/corp/8a6ebb9fc9c600eaff20a0c3412ffe6587128f871fcf51982046843ff4e7acc4/) |

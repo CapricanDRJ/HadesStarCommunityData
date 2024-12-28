@@ -25,7 +25,7 @@ Telegram обязателен для вступления: https://t.me/DogDogDo
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1495 🔺  (13)|
-| ELO Competitive | 1603 🔺  (17)|
+| ELO Competitive | 1603 🔺  (18)|
 | Total Matches | 55 |
 | Wins | 47 |
 | Losses | 8 |

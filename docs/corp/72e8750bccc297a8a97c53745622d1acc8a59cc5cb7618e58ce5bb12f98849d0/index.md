@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​星际公约组织
-description: W:5 L:9 D:1 Bonus ✅
+description: W:6 L:9 D:1 Bonus ✅
 image: ./favicon.png
-date: 1735034072
+date: 1735205348
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -28,14 +28,14 @@ Q群：993612413
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1170 🔺  (949)|
+| ELO Regular | 1185 🔺  (771)|
 | ELO Competitive | 1226 🔺  (471)|
-| Total Matches | 15 |
-| Wins | 5 |
+| Total Matches | 16 |
+| Wins | 6 |
 | Losses | 9 |
 | Draws | 1 |
-| Streak | 2 |
-| Streak Record | 2 |
+| Streak | 3 |
+| Streak Record | 3 |
 | Flagship | 3 |
 
 ---
@@ -54,7 +54,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734602072,1734151064,1733614720,1733407073,1733143259,1732710524,1732273904,1732227339,1731670213,1731527190,1731217368,1731074012,1730614862,1730197172,1729721265];
+        let timestamps = [1734773348,1734602072,1734151064,1733614720,1733407073,1733143259,1732710524,1732273904,1732227339,1731670213,1731527190,1731217368,1731074012,1730614862,1730197172,1729721265];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -148,6 +148,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/26 | 3-0 | [麻雀集团](https://ws.tsl.rocks/corp/bf5e5ea02e24918ed66d543902f4315f957c79c9bc1bd434c034158e9f648abe/) |
 | ✅ | 2024/12/24 | 19-0 | [星约组织：基地分团](https://ws.tsl.rocks/corp/65d5754facd0f6a7ee7bd84567ea263d8002e24a754d36c982598d5552b1830b/) |
 | ✅ | 2024/12/19 | 15-2 | [星约组织：禁卫之翼](https://ws.tsl.rocks/corp/60fde31c713b4085d9c8d09cdc8bc713db48811b5ea28fb5431962110ad6f7f0/) |
 | ❌ | 2024/12/12 | 3-23 | [Lofty Mountain](https://ws.tsl.rocks/corp/1cfc6606e17d524ba0388b273ad6a9e86b23838eb529a2659f03a40702affbf7/) |
