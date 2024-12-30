@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Eastern Front
-description: W:53 L:57 D:2 Bonus ✅
+description: W:53 L:57 D:2 Bonus ❌
 image: ./favicon.png
 date: 1734889798
 ---
@@ -17,12 +17,12 @@ DRS 8 Daily by @Tensible. Any levels are welcome and we actively do W
 hite Stars. We will also entertain any questions about the game, shar
 e strategies, and give out advice.        -  Tensible
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1205 🔻  (464)|
-| ELO Competitive | 1496 🔺  (59)|
+| ELO Competitive | 1496 🔺  (58)|
 | Total Matches | 112 |
 | Wins | 53 |
 | Losses | 57 |

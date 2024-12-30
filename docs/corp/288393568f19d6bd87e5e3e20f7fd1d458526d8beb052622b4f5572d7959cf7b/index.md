@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Sentencia
-description: W:21 L:4 D:0 Bonus ✅
+description: W:21 L:4 D:0 Bonus ❌
 image: ./favicon.png
 date: 1734757344
 ---
@@ -17,12 +17,12 @@ date: 1734757344
 e=50><b>Enterrados <color=red><b>200.000 $ </color></b>en Sad Hill.<b
 r><b>En La tumba sin nombre junto a la de Arch Stanton.
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1407 🔺  (47)|
-| ELO Competitive | 1451 🔺  (93)|
+| ELO Regular | 1407 🔺  (48)|
+| ELO Competitive | 1451 🔺  (95)|
 | Total Matches | 25 |
 | Wins | 21 |
 | Losses | 4 |

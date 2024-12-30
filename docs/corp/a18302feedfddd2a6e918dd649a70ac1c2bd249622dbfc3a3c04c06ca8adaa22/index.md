@@ -21,8 +21,8 @@ ividad, dependiendo del nivel. Disfrutenla discord.gg/WfG8AGP
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1168 🔻  (985)|
-| ELO Competitive | 1172 🔻  (1064)|
+| ELO Regular | 1168 🔻  (982)|
+| ELO Competitive | 1172 🔻  (1068)|
 | Total Matches | 8 |
 | Wins | 2 |
 | Losses | 6 |

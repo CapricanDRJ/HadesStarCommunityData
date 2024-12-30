@@ -21,8 +21,8 @@ Corp. designed primarily for WS players of any level advanced to just
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 941 🔻  (1354)|
-| ELO Competitive | 1084 🔻  (1332)|
+| ELO Regular | 941 🔻  (1356)|
+| ELO Competitive | 1084 🔻  (1334)|
 | Total Matches | 102 |
 | Wins | 26 |
 | Losses | 71 |

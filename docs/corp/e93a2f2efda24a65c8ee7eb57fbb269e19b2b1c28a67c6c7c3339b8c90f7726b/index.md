@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Alpaca Haven
-description: W:18 L:21 D:1 Bonus ❌
+description: W:18 L:22 D:1 Bonus ❌
 image: ./favicon.png
-date: 1734933116
+date: 1735389830
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,11 +20,11 @@ Alpacas unite! Have fun and prosper. We do relaxed WS.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1145 🔻  (1129)|
-| ELO Competitive | 1189 🔻  (777)|
-| Total Matches | 40 |
+| ELO Regular | 1139 🔻  (1159)|
+| ELO Competitive | 1186 🔻  (854)|
+| Total Matches | 41 |
 | Wins | 18 |
-| Losses | 21 |
+| Losses | 22 |
 | Draws | 1 |
 | Streak Record | 5 |
 | Flagship | 7 |
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734501116,1733974084,1733355399,1732759526,1732234549,1731661800,1731220373,1730722138,1730181249,1728947667,1721737290,1720732028,1719938317,1718629297,1718136004,1717599772,1716775104,1716120399,1715610237,1715000615,1714040233,1711718204,1710262122,1709659076,1708972478,1708440607,1707884086,1707343948,1706772512,1706303710,1705855946,1705285875,1704820078,1704260218,1703542884,1702966872,1702405465,1701271508,1699759074,1698872304];
+        let timestamps = [1734957830,1734501116,1733974084,1733355399,1732759526,1732234549,1731661800,1731220373,1730722138,1730181249,1728947667,1721737290,1720732028,1719938317,1718629297,1718136004,1717599772,1716775104,1716120399,1715610237,1715000615,1714040233,1711718204,1710262122,1709659076,1708972478,1708440607,1707884086,1707343948,1706772512,1706303710,1705855946,1705285875,1704820078,1704260218,1703542884,1702966872,1702405465,1701271508,1699759074,1698872304];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) | 0 | 2 | 0 | 2 |
 | [SQPT](https://ws.tsl.rocks/corp/eabbab0640b8da02ae167f315cf981b2a200e5444eb134a06747d8a84fa10805/) | 0 | 2 | 0 | 2 |
 | [Game of Stars](https://ws.tsl.rocks/corp/ad5bb68e6076ee70e6715ecead226fc9880b66a87b68acb3098843f723c1562e/) | 1 | 1 | 0 | 2 |
 
@@ -140,6 +141,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/28 | 3-33 | [Order of Hades](https://ws.tsl.rocks/corp/2aeceaa4796794f014cd422b48bad9f5627e35a758de0255216a519db709ce81/) |
 | ❌ | 2024/12/23 | 7-11 | [RUS](https://ws.tsl.rocks/corp/d2d651ed0a46443766a7930975f8ee7a4b0ee52e2ffb1d13337e743a3d5bea8d/) |
 | ↔️ | 2024/12/17 | 9-9 | [Держава Русь](https://ws.tsl.rocks/corp/cbf11e25cee65a6c529251b7f47a35d9e4ba7bb9d640f384605541637e931672/) |
 | ❌ | 2024/12/09 | 2-42 | [United Stars ](https://ws.tsl.rocks/corp/312c90cac9a249b2179da8891f78c1a90bd16d0bf3391509d6a3d8e9a35a3d36/) |

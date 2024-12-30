@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​USAR@Hadesstar
-description: W:1 L:3 D:0 Bonus ❌
+description: W:1 L:3 D:1 Bonus ❌
 image: ./favicon.png
-date: 1708563696
+date: 1735377810
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -20,12 +20,12 @@ the official USAR (usar is a micronation) corporation.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1179 🔻  (850)|
-| ELO Competitive | 1179 🔻  (1001)|
-| Total Matches | 4 |
+| ELO Regular | 1176 🔻  (870)|
+| ELO Competitive | 1181 🔺  (995)|
+| Total Matches | 5 |
 | Wins | 1 |
 | Losses | 3 |
-| Draws | 0 |
+| Draws | 1 |
 | Flagship | 2 |
 
 ---
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1708131696,1707263434,1706715116,1706145340];
+        let timestamps = [1734945810,1708131696,1707263434,1706715116,1706145340];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -133,6 +133,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ↔️ | 2024/12/28 | 0-0 | [The Witness](https://ws.tsl.rocks/corp/b7b956df82c516f3d2c025c8ce1a2c4932eab3de4a2f63b49184241db2b3075c/) |
 | ❌ | 2024/02/22 | 0-33 | [Lacuna X](https://ws.tsl.rocks/corp/fb10f33f3db17b99b0d227f17e7fde76ef067dc4a4bb4ae05e46c76d2e5e8ea1/) |
 | ❌ | 2024/02/11 | 1-18 | [<a\>超越®</a\>光速℡](https://ws.tsl.rocks/corp/771c827eb591813e3b88ff38b0031d09519b0f3d5fe01666aa4711bfd5052857/) |
 | ❌ | 2024/02/05 | 0-6 | [OrderofTheGeon](https://ws.tsl.rocks/corp/85f6a14e4f7488eb8134ea422522636da92d121d81297b3018e1e69fac907762/) |

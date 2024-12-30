@@ -20,8 +20,8 @@ godę, jak również chętnych na regularne zabawy na WS.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1344 🔺  (101)|
-| ELO Competitive | 1372 🔺  (167)|
+| ELO Regular | 1344 🔺  (102)|
+| ELO Competitive | 1372 🔺  (168)|
 | Total Matches | 13 |
 | Wins | 13 |
 | Losses | 0 |

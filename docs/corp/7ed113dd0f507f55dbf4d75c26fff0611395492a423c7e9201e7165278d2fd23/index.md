@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Panda clan 
-description: W:4 L:3 D:0 Bonus ✅
+description: W:4 L:3 D:0 Bonus ❌
 image: ./favicon.png
 date: 1734742926
 ---
@@ -19,11 +19,11 @@ date: 1734742926
 OA's Discord: https://discord.gg/2wyNuxb
 ```
 ### [Discord](https://discord.gg/ZhF2Npys6N)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1228 🔺  (326)|
+| ELO Regular | 1228 🔺  (329)|
 | ELO Competitive | 1233 🔺  (444)|
 | Total Matches | 7 |
 | Wins | 4 |

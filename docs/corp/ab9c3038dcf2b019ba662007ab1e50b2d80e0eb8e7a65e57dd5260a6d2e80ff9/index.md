@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Halcon español
-description: W:29 L:17 D:1 Bonus ✅
+description: W:29 L:17 D:1 Bonus ❌
 image: ./favicon.png
 date: 1734788893
 ---
@@ -18,12 +18,12 @@ ticipas la asistencia es obligada, no participar = expulsión. Rojas d
 e L a V a las 22:00. Discord recomendado, tenemos comunidad.
 ```
 ### [Discord](https://discord.gg/https://discord.gg/MZDNrGyav9)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1250 🔺  (250)|
-| ELO Competitive | 1312 🔺  (245)|
+| ELO Competitive | 1312 🔺  (247)|
 | Total Matches | 47 |
 | Wins | 29 |
 | Losses | 17 |

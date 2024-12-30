@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Out landers
-description: W:11 L:10 D:1 Bonus ✅
+description: W:11 L:10 D:1 Bonus ❌
 image: ./favicon.png
 date: 1734833365
 ---
@@ -18,12 +18,12 @@ f possible. Come here to develop, help with red stars. Please stay re
 latively active. Discord not required but recommended.
 ```
 ### [Discord](https://discord.gg/https://discord.gg/kcjNMkkH)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1220 🔺  (359)|
-| ELO Competitive | 1252 🔺  (392)|
+| ELO Competitive | 1252 🔺  (393)|
 | Total Matches | 22 |
 | Wins | 11 |
 | Losses | 10 |

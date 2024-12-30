@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Duchy Arrakis
-description: W:32 L:14 D:0 Bonus ✅
+description: W:32 L:14 D:0 Bonus ❌
 image: ./favicon.png
 date: 1734878734
 ---
@@ -17,12 +17,12 @@ Witamy w naszych skromnych progach. Usiądź i rozgość się a zapoznamy
 cię z naszym otoczeniem. Przyjazna atmosfera i pomoc. https://discord
 .com/invite/v9vXJHAaKm
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1382 🔺  (68)|
-| ELO Competitive | 1458 🔺  (87)|
+| ELO Competitive | 1458 🔺  (90)|
 | Total Matches | 46 |
 | Wins | 32 |
 | Losses | 14 |

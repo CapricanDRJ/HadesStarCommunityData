@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Omega Alpha
-description: W:43 L:5 D:0 Bonus ✅
+description: W:43 L:5 D:0 Bonus ❌
 image: ./favicon.png
 date: 1734800915
 ---
@@ -21,12 +21,12 @@ date: 1734800915
 
 ```
 ### [Discord](https://discord.gg/qx6HrYM223)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1521 🔺  (9)|
-| ELO Competitive | 1580 🔺  (22)|
+| ELO Competitive | 1580 🔺  (25)|
 | Total Matches | 48 |
 | Wins | 43 |
 | Losses | 5 |

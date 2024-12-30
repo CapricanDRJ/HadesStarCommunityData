@@ -22,8 +22,8 @@ rzlich willkommen! Wir fliegen täglich RR und regelmäßig WZ.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1308 🔺  (146)|
-| ELO Competitive | 1340 🔺  (199)|
+| ELO Regular | 1308 🔺  (145)|
+| ELO Competitive | 1340 🔺  (200)|
 | Total Matches | 17 |
 | Wins | 12 |
 | Losses | 4 |

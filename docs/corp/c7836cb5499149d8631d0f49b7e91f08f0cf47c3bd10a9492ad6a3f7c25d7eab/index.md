@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Hellfire Club
-description: W:46 L:35 D:0 Bonus ✅
+description: W:46 L:35 D:0 Bonus ❌
 image: ./favicon.png
 date: 1734784685
 ---
@@ -18,12 +18,12 @@ ilfe, Spiele mit Ingamepreisen und einen sehr gut genutzten Discordse
 rver. Anfänger willkommen, wir helfen dir gerne! Okt/24
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/a5t3JQP2hM)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1366 🔺  (76)|
-| ELO Competitive | 1486 🔺  (69)|
+| ELO Regular | 1366 🔺  (77)|
+| ELO Competitive | 1486 🔺  (68)|
 | Total Matches | 81 |
 | Wins | 46 |
 | Losses | 35 |

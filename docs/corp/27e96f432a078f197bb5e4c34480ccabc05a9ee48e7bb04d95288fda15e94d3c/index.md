@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Últimafronteira
-description: W:19 L:1 D:0 Bonus ✅
+description: W:19 L:1 D:0 Bonus ❌
 image: ./favicon.png
 date: 1734886848
 ---
@@ -17,12 +17,12 @@ Corp divisão e aliada a corporação AFronteiraFinal. jogadores inician
 tes são bem vindos! Virtus Unita Fortior.
 ```
 ### [Discord](https://discord.gg/https://discord.com/invite/bv5q7qHTDb)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
 | ELO Regular | 1405 🔺  (50)|
-| ELO Competitive | 1441 🔺  (103)|
+| ELO Competitive | 1441 🔺  (102)|
 | Total Matches | 20 |
 | Wins | 19 |
 | Losses | 1 |

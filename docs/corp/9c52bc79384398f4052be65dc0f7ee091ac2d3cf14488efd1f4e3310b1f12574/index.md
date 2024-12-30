@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​FURIA 2.0
-description: W:12 L:20 D:0 Bonus ✅
+description: W:12 L:20 D:0 Bonus ❌
 image: ./favicon.png
 date: 1734790396
 ---
@@ -16,12 +16,12 @@ date: 1734790396
 corpo  tranquille  pour se développer a son rythme et nous assurons 1
  étoile  blanche par semaine 👽👽👍
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1157 🔺  (1063)|
-| ELO Competitive | 1248 🔺  (403)|
+| ELO Regular | 1157 🔺  (1067)|
+| ELO Competitive | 1248 🔺  (404)|
 | Total Matches | 32 |
 | Wins | 12 |
 | Losses | 20 |

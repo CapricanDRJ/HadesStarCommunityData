@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​viCIOus
-description: W:16 L:2 D:1 Bonus ✅
+description: W:16 L:2 D:1 Bonus ❌
 image: ./favicon.png
 date: 1734810231
 ---
@@ -15,11 +15,11 @@ date: 1734810231
 ```
 New!!! Join to expand!
 ```
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1332 🔺  (119)|
+| ELO Regular | 1332 🔺  (118)|
 | ELO Competitive | 1369 🔺  (171)|
 | Total Matches | 19 |
 | Wins | 16 |

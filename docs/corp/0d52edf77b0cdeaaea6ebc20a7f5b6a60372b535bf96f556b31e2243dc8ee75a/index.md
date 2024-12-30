@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Imperium XIII
-description: W:38 L:27 D:0 Bonus ✅
+description: W:39 L:27 D:0 Bonus ✅
 image: ./favicon.png
-date: 1734811734
+date: 1735379313
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -25,12 +25,13 @@ Discord is required.
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1311 🔺  (144)|
-| ELO Competitive | 1369 🔺  (170)|
-| Total Matches | 65 |
-| Wins | 38 |
+| ELO Regular | 1323 🔺  (128)|
+| ELO Competitive | 1389 🔺  (151)|
+| Total Matches | 66 |
+| Wins | 39 |
 | Losses | 27 |
 | Draws | 0 |
+| Streak | 2 |
 | Streak Record | 5 |
 | Flagship | 8 |
 
@@ -50,7 +51,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734379734,1733751139,1733122528,1731859241,1731345096,1730747387,1730059553,1729514740,1728842473,1728290658,1727686309,1727106360,1726464801,1725884326,1725366570,1724688648,1724069592,1723521144,1722829970,1722243076,1721618287,1721024463,1720380403,1719831031,1719174139,1718557482,1718047053,1717402310,1716754974,1716183494,1715535727,1714982889,1714327480,1713707943,1713182438,1712526508,1711913526,1711360341,1710714638,1710100475,1709536184,1708875122,1708320709,1707692967,1707131019,1706535105,1706535105,1705926563,1705390146,1705265143,1704784316,1704703776,1704121980,1703365277,1703330410,1702873107,1702228442,1701690156,1701023561,1700514730,1700469943,1699849852,1699220512,1699216905,1698685261];
+        let timestamps = [1734947313,1734379734,1733751139,1733122528,1731859241,1731345096,1730747387,1730059553,1729514740,1728842473,1728290658,1727686309,1727106360,1726464801,1725884326,1725366570,1724688648,1724069592,1723521144,1722829970,1722243076,1721618287,1721024463,1720380403,1719831031,1719174139,1718557482,1718047053,1717402310,1716754974,1716183494,1715535727,1714982889,1714327480,1713707943,1713182438,1712526508,1711913526,1711360341,1710714638,1710100475,1709536184,1708875122,1708320709,1707692967,1707131019,1706535105,1706535105,1705926563,1705390146,1705265143,1704784316,1704703776,1704121980,1703365277,1703330410,1702873107,1702228442,1701690156,1701023561,1700514730,1700469943,1699849852,1699220512,1699216905,1698685261];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -137,6 +138,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 2 | 1 | 0 | 3 |
 | [Emergence](https://ws.tsl.rocks/corp/1a1250d276bf9541252070bbee9c6b216c91b12a837aaa8a8e8a90f490940538/) | 0 | 2 | 0 | 2 |
 | [VoidCorp](https://ws.tsl.rocks/corp/b866417e5607f8434347bb5f986e37c4fa7dda68b3882f0135d186043d3f68a3/) | 1 | 1 | 0 | 2 |
 | [The X \- Files](https://ws.tsl.rocks/corp/f13cb0ae2dbb0654a2067c8749f86bce49edc5b520bd391c7af11948f23a41fb/) | 3 | 0 | 0 | 3 |
@@ -147,7 +149,6 @@ This chart shows the frequency of days of the week when whitestars were matched 
 | [ RELAX CZ/SK](https://ws.tsl.rocks/corp/051a82098a716580383e9ab0d025dd67a8e7ad93da00f1610c449a784f3dc825/) | 2 | 2 | 0 | 4 |
 | [OntarioDestiny](https://ws.tsl.rocks/corp/806a86639b93c3a025e026bcedab96052be0e32b712c96217b3d5b330b3f5a6d/) | 2 | 0 | 0 | 2 |
 | [Likapa](https://ws.tsl.rocks/corp/430376e86f786afe6d4201e70b5fd09f2cdd41ca6d81ee693737e3361c06a1f4/) | 0 | 2 | 0 | 2 |
-| [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) | 1 | 1 | 0 | 2 |
 | [Ironbear Legion](https://ws.tsl.rocks/corp/256873683be88bf78e3d4f1fda68e669c8be11e78a85f9add19e60facc9831b0/) | 1 | 1 | 0 | 2 |
 | [украина№1](https://ws.tsl.rocks/corp/c764dc8c07d1ae2ce06aba821c24a7106f169a21b59e724b0216cd8586cde6a6/) | 1 | 1 | 0 | 2 |
 | [Peak Extraction](https://ws.tsl.rocks/corp/b656a84b60d6de62745eb9059a703b44cca76b6247beeceef5f856f89e4c2d0d/) | 2 | 0 | 0 | 2 |
@@ -157,6 +158,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/28 | 41-33 | [pirates spatial](https://ws.tsl.rocks/corp/3ff4602678e19275d9891fa0d9d34ecd5b9bfaf88bb39e35b30372cac2981a40/) |
 | ✅ | 2024/12/21 | 32-11 | [Highlife](https://ws.tsl.rocks/corp/e667e116808de19118853c1729815a3431a83531f951514ab8aa77a345cc8e40/) |
 | ❌ | 2024/12/14 | 21-28 | [Tuatha De Danan](https://ws.tsl.rocks/corp/7741dbd0c9e7ddbc162e374691cb3346e4bb6600840f7962ec4a4414d5d2f780/) |
 | ❌ | 2024/12/07 | 25-31 | [Hexacropians](https://ws.tsl.rocks/corp/1663ae68266882a1c09b5a4e5a16b97770e86390b7af7bcfc66b46213334a3a2/) |

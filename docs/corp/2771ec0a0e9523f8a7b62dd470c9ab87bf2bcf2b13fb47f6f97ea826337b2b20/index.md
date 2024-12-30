@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Mercury Sunset
-description: W:43 L:0 D:0 Bonus ✅
+description: W:43 L:0 D:0 Bonus ❌
 image: ./favicon.png
 date: 1734877831
 ---
@@ -16,12 +16,12 @@ date: 1734877831
 The sunset of the dying star was covered in drops of mercury.
 ```
 ### [Discord](https://discord.gg/hnywHXhtg5)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1568 🔺  (4)|
-| ELO Competitive | 1637 🔺  (11)|
+| ELO Regular | 1568 🔺  (3)|
+| ELO Competitive | 1637 🔺  (10)|
 | Total Matches | 43 |
 | Wins | 43 |
 | Losses | 0 |

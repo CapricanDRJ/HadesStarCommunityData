@@ -19,8 +19,8 @@ This is the national space agency of the United States
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1097 🔻  (1270)|
-| ELO Competitive | 1098 🔻  (1325)|
+| ELO Regular | 1097 🔻  (1273)|
+| ELO Competitive | 1098 🔻  (1327)|
 | Total Matches | 10 |
 | Wins | 0 |
 | Losses | 8 |

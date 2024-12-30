@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Cerberus
-description: W:0 L:0 D:1 Bonus ❌
+description: W:1 L:0 D:1 Bonus ✅
 image: ./favicon.png
-date: 1734135372
+date: 1735481769
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -15,14 +15,14 @@ date: 1734135372
 ```
 
 ```
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1200 ▫️  (500)|
-| ELO Competitive | 1200 ▫️  (638)|
-| Total Matches | 1 |
-| Wins | 0 |
+| ELO Regular | 1215 🔺  (398)|
+| ELO Competitive | 1219 🔺  (493)|
+| Total Matches | 2 |
+| Wins | 1 |
 | Losses | 0 |
 | Draws | 1 |
 | Flagship | 0 |
@@ -43,7 +43,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1733703372];
+        let timestamps = [1735049769,1733703372];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -132,6 +132,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/29 | 9-0 | [新?的星际集团?](https://ws.tsl.rocks/corp/22bf8dd694333c9c627c373b02fed1704094cf10e94618c1f79feaef53183e7e/) |
 | ↔️ | 2024/12/14 | 2-2 | [碧海听潮阁](https://ws.tsl.rocks/corp/11d495c2f3535ba7b46e5ca06f9b86bd6069ab4384b7b3231b4cdce4a151dba1/) |
 
 ---

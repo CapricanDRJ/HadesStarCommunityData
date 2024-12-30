@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​Internationals
-description: W:34 L:12 D:0 Bonus ✅
+description: W:34 L:12 D:0 Bonus ❌
 image: ./favicon.png
 date: 1734880236
 ---
@@ -18,11 +18,11 @@ ies and compete in weekly White Stars. Stay active. Discord for WS. F
 S2 donations welcome.
 ```
 ### [Discord](https://discord.gg/gBPEdZt)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1428 🔺  (36)|
+| ELO Regular | 1428 🔺  (34)|
 | ELO Competitive | 1489 🔺  (65)|
 | Total Matches | 46 |
 | Wins | 34 |

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​ZZZ-V
-description: W:3 L:2 D:0 Bonus ❌
+description: W:3 L:3 D:0 Bonus ❌
 image: ./favicon.png
-date: 1734993517
+date: 1735427986
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -21,11 +21,11 @@ date: 1734993517
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1219 🔻  (362)|
-| ELO Competitive | 1228 🔻  (465)|
-| Total Matches | 5 |
+| ELO Regular | 1195 🔻  (542)|
+| ELO Competitive | 1210 🔻  (585)|
+| Total Matches | 6 |
 | Wins | 3 |
-| Losses | 2 |
+| Losses | 3 |
 | Draws | 0 |
 | Streak Record | 2 |
 | Flagship | 4 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734561517,1706642394,1706209870,1701336423,1700875682];
+        let timestamps = [1734995986,1734561517,1706642394,1706209870,1701336423,1700875682];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2024/12/28 | 0-7 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
 | ❌ | 2024/12/23 | 0-16 | [Interstellar](https://ws.tsl.rocks/corp/8ee0ed32118ac719ca2a2b84e6a8c79637fc8642f194482a3ac240d2b133911f/) |
 | ✅ | 2024/02/04 | 6-0 | [六大天神\.轻歌之影](https://ws.tsl.rocks/corp/558304186ed78398ff16afe6f1f2909cee69fe56f1e3ee787d023cffa6999b3b/) |
 | ❌ | 2024/01/30 | 2-24 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) |

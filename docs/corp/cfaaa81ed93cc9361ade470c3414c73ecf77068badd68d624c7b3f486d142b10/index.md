@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ​StellaMysterium
-description: W:29 L:47 D:1 Bonus ✅
+description: W:29 L:47 D:1 Bonus ❌
 image: ./favicon.png
 date: 1734851689
 ---
@@ -18,12 +18,12 @@ rp. Come and join a fun loving and chill family like team! Welcome to
  all! 2 white star teams running weekly, compeditave yet fun. 
 ```
 ### [Discord](https://discord.gg/K45fhFgcXv)
-### Whitestar Bonus ✅
+### Whitestar Bonus ❌
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1099 🔻  (1268)|
-| ELO Competitive | 1300 🔺  (268)|
+| ELO Regular | 1099 🔻  (1270)|
+| ELO Competitive | 1300 🔺  (269)|
 | Total Matches | 77 |
 | Wins | 29 |
 | Losses | 47 |

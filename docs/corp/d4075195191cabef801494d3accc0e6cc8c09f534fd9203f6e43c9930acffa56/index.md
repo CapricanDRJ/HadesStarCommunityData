@@ -1,9 +1,9 @@
 ---
 layout: page
 title: ​Hamburg AG 2
-description: W:13 L:18 D:0 Bonus ❌
+description: W:14 L:18 D:0 Bonus ✅
 image: ./favicon.png
-date: 1734912690
+date: 1735482070
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -17,14 +17,14 @@ Neulinge und Aktive willkommen. Bei uns steht der gemeinsame Spaß im
 Vordergrund.
 ```
 ### [Discord](https://discord.gg/UXNc44dxk6)
-### Whitestar Bonus ❌
+### Whitestar Bonus ✅
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1222 🔻  (350)|
-| ELO Competitive | 1279 🔻  (315)|
-| Total Matches | 31 |
-| Wins | 13 |
+| ELO Regular | 1243 🔺  (273)|
+| ELO Competitive | 1303 🔺  (263)|
+| Total Matches | 32 |
+| Wins | 14 |
 | Losses | 18 |
 | Draws | 0 |
 | Streak Record | 3 |
@@ -46,7 +46,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1734480690,1733850296,1733230096,1732629095,1731990556,1731313538,1729499414,1728897467,1728305682,1727075107,1725870804,1725263206,1724659793,1724051563,1723446915,1722838082,1722236767,1721632110,1721039188,1720436592,1719814207,1719297940,1718610365,1718004973,1706518276,1704782513,1702890235,1702282538,1701679337,1701080660,1700467539];
+        let timestamps = [1735050070,1734480690,1733850296,1733230096,1732629095,1731990556,1731313538,1729499414,1728897467,1728305682,1727075107,1725870804,1725263206,1724659793,1724051563,1723446915,1722838082,1722236767,1721632110,1721039188,1720436592,1719814207,1719297940,1718610365,1718004973,1706518276,1704782513,1702890235,1702282538,1701679337,1701080660,1700467539];
 
         // Function to convert Unix timestamps to day of the week (0=Sunday, 6=Saturday)
         function getDayOfWeek(timestamp) {
@@ -143,6 +143,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2024/12/29 | 39-0 | [柯伊伯带](https://ws.tsl.rocks/corp/fc3e5142b08821a025c19f7e687a2ba97cc1e728d81555f077feb04f3839c4a0/) |
 | ❌ | 2024/12/23 | 6-28 | [Deadspace](https://ws.tsl.rocks/corp/45fc2bf2d1b40361071590e427fa47116d4e5e063064d17ed9933bbd61f04369/) |
 | ❌ | 2024/12/15 | 7-16 | [Nine's Own Goal](https://ws.tsl.rocks/corp/fd47245550708347721e341d893b73e7c23e0f3624053c47ce666e55641c9e9e/) |
 | ❌ | 2024/12/08 | 9-44 | [Ark](https://ws.tsl.rocks/corp/febd79d038ed9af667e201309060d9662ba825ba9be2b5b95418ac20a8e70c80/) |
