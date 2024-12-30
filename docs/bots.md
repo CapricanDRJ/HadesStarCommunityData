@@ -9,4 +9,4 @@ permalink: /bots
 - [Hades' Star Trader](https://discord.com/oauth2/authorize?client_id=1279978547569491968): Manages trading lists, inventory, and search for artifacts.
 - [Hades' Star Tech](https://discord.com/oauth2/authorize?client_id=1313578638460846173): Tech sharing and alt management similar to Compendium.
 
-### **DISCLAIMER: THIS BOT IS NOT SUPPORTED BY HADES' STAR. IT IS COMMUNITY-MADE USING API DATA PROVIDED BY HADES' STAR.**
+**DISCLAIMER: THESE BOTS ARE NOT SUPPORTED BY HADES' STAR. THEY ARE COMMUNITY-MADE USING API DATA PROVIDED BY HADES' STAR WHERE APPLICABLE.**
